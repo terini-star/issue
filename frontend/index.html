@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nexus Trends - Real-Time Global RSS Bubble Visualizer</title>
+    <!-- Google Fonts: Orbitron for Sci-Fi Headers, Inter for Body -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Orbitron:wght@400;600;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Particle Background Canvas -->
+    <canvas id="particle-bg"></canvas>
+    
+    <!-- Neon Grid Overlay -->
+    <div class="grid-overlay"></div>
+
+    <!-- Main Container -->
+    <div class="dashboard-container">
+        <!-- Header -->
+        <header class="app-header">
+            <div class="logo-area">
+                <div class="pulse-node"></div>
+                <h1>NEXUS<span>TRENDS</span></h1>
+                <span class="badge">NLP LIVE</span>
+            </div>
+            
+            <p class="subtitle">Google News RSS feeds mapped into an interactive, real-time semantic bubble universe</p>
+
+            <div class="controls-area">
+                <!-- Language Toggle -->
+                <div class="toggle-container">
+                    <button id="btn-en" class="toggle-btn active" data-lang="en">
+                        <svg class="icon" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.53c-.26-.81-1-1.4-1.9-1.4h-1v-3c0-.55-.45-1-1-1h-6v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.4z"/></svg>
+                        ENGLISH
+                    </button>
+                    <button id="btn-ko" class="toggle-btn" data-lang="ko">
+                        <svg class="icon" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.53c-.26-.81-1-1.4-1.9-1.4h-1v-3c0-.55-.45-1-1-1h-6v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.4z"/></svg>
+                        한국어
+                    </button>
+                </div>
+                
+                <!-- Status & Timer -->
+                <div class="status-panel">
+                    <div class="status-item">
+                        <span class="status-label">NEXT UPDATE IN</span>
+                        <span id="countdown-val" class="status-value monospace">10:00</span>
+                    </div>
+                    <div class="status-divider"></div>
+                    <div class="status-item">
+                        <span class="status-label">LAST FETCHED</span>
+                        <span id="last-updated-val" class="status-value monospace">--:--:--</span>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <!-- Visualization Canvas Area -->
+        <main class="visualizer-area">
+            <!-- Loading Indicator -->
+            <div id="loading-overlay" class="loading-overlay">
+                <div class="loader-circle"></div>
+                <p>DECRYPTING RSS DATA STREAM...</p>
+            </div>
+            
+            <!-- Category Legend -->
+            <div class="category-legend">
+                <div class="legend-item"><span class="color-dot person"></span>PERSON</div>
+                <div class="legend-item"><span class="color-dot org"></span>ORGANIZATION</div>
+                <div class="legend-item"><span class="color-dot gpe"></span>LOCATION</div>
+                <div class="legend-item"><span class="color-dot noun"></span>GENERAL NOUN</div>
+            </div>
+
+            <!-- D3 Bubble Chart SVG Container -->
+            <div id="chart-wrapper">
+                <svg id="bubble-chart" width="100%" height="100%"></svg>
+            </div>
+        </main>
+        
+        <!-- Glassmorphic Side Drawer (Trending News Articles) -->
+        <div id="article-drawer" class="article-drawer">
+            <button id="btn-close-drawer" class="close-drawer-btn" aria-label="Close panel">
+                <svg class="close-icon" viewBox="0 0 24 24"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+            </button>
+            
+            <div class="drawer-header">
+                <span id="drawer-category-badge" class="drawer-badge">CATEGORY</span>
+                <h2 id="drawer-trend-title">Trend Keyword</h2>
+                <p class="drawer-meta"><span id="drawer-mention-count" class="bold-glow">0</span> articles matched in the current stream</p>
+            </div>
+
+            <div id="drawer-articles-list" class="articles-list">
+                <!-- Dynamically populated via JS -->
+            </div>
+        </div>
+    </div>
+
+    <!-- D3.js Library -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <!-- Custom Visualizer Code -->
+    <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,65 @@
+--- Testing English Trends Extraction ---
+Successfully fetched 40 English trends.
+[1] Word: Trump | Count: 4 | Category: NOUN
+    Sample Article: Trump taps Lance Schroyer to lead ICE, agency at center of deportation campaign - The Washington Post
+    Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVTJxdFF3VFhZWERXMExmaHhsc3pYUC0wWk92NXBrOHg1Y3RuV0RWVlpBNGNwTVFScGlpS2E5bmxkcnRwelZsWk8xYm1FaWhkb0VtVkJtZkRIcHBNWUt5SHktOFpwbWp2VjVkclloN2NId3MxanN1azBMbHQwc21FX1lRYm00UldoNGxFclNZNDlHRnhwb1p4ZDdxb2JMVE5rZmVTTWNUN05rR202VEhrWUxwUVBrQm8xdDBr?oc=5
+[2] Word: Cup | Count: 3 | Category: NOUN
+    Sample Article: How the World Cup became a victory lap for Trump ally El Tigre - Politico
+    Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxPcUhjbWs2aldaWGpjcEVjeFNOejcyMVFfalhGem1NeGlmMVNDS25Zc0tSZnR1ZC1NVlQ0bGFITVJMNEFKWXo1VHBFS1dBRll5bFZ6cGVDM0puRktTZzd4OWg0UEJuVnRRWDlGRkgzUmUtR01JYVJBc0JfUkZSTmkyclFMY0tLVzZLQWFyaE5RR1c5VzhrUlBURHB0alhwMmxlYkFNdXVVLXpNaDRkYkNsZGJwTFV6UQ?oc=5
+[3] Word: Attacks | Count: 2 | Category: NOUN
+    Sample Article: Iran attacks Bahrain and Kuwait following US strikes and threatens to halt talks to end the war - AP News
+    Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcDBTQkFEbzlzV3FGUXhBeks0Wm5CV2RIU0J4aFcwTl9jRFRNeHRNbkxzVEZNa3ZNSTcwS1FDZm5PM3RDbVJuMFc0bWRwR1hhSlZFVGlMSkdvOC1GcnlLUWpUbjQ0aFlMYWN3X0gtdVBUWHZYSHNKR3BKelJtdUZ1dUpnTWVubU1BOWowd1N3aE1kckE1Uklya1huN25iLUxYM2Q5N0JtcVY?oc=5
+[4] Word: South | Count: 2 | Category: NOUN
+    Sample Article: Hezbollah rejects Israel-Lebanon agreement as Israeli attacks hit south - Al Jazeera
+    Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxNYWtiMUI4NktLVWg4WjVHQTd5emRGX0hkMXVOaW5FWjlSN3Q2WGZJcmVSa1A0WEFUZ21MUDlpRXBHMzBGSm9hN1NPalJpMEdPWmE5X1hDY2U1WXN1cFp6N0dXRHMyNGJpdEc5YzdSb1c5aWkxU2FUVGpaMllDdDJmSk9rVFhETUZHaDh5UVJaSTNGTW9sY3dxVHdJa0NJVXhlV1pzWjR0X3ZOclNBeV8zSUxB0gG3AUFVX3lxTE9LRU9jNV9teVhSVG1YVWVJYzlCVVpybXZUS3R6YnR6SFlVMTdGM19mZkhIeHVkOEVjaWhibGFCTUw4YXN3dkJLcElzZF9uVE9pT3llaC00ZVFIUUs1cHR1WmFZNC1CN21sWGNfdkpVUHV4Y2hoRkxWSzRFWk5VYTlIMWJiaHl3RDB3dXZ5T2JKX2FYelJsZTVTNllQN2pIN25YZFdaa1prbjN2TGRPM2g1d2FTSXFRTQ?oc=5
+[5] Word: State | Count: 2 | Category: NOUN
+    Sample Article: Beshear declares state of emergency as flash flooding worsens, death toll climbs - WLKY
+    Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxOTV9FOWVZWXlab2VqT1owM0h6Y1lrc0JLTnJDd3QwcFpEODJGc2lJTXhQQzZSdEUzeS1qX21JQS1XY0pIYkJ2akREVnozU25Ld3Jud0wxNW1BUUllT3IxM0d1UC1CaXRFWF9tTzRySE1SU0MzMWcyYjhMZTNBckl0Rmp2QjRHcXUxOHltUkxhelJwN0FkQmJz?oc=5
+[6] Word: Victory | Count: 2 | Category: NOUN
+    Sample Article: How the World Cup became a victory lap for Trump ally El Tigre - Politico
+    Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxPcUhjbWs2aldaWGpjcEVjeFNOejcyMVFfalhGem1NeGlmMVNDS25Zc0tSZnR1ZC1NVlQ0bGFITVJMNEFKWXo1VHBFS1dBRll5bFZ6cGVDM0puRktTZzd4OWg0UEJuVnRRWDlGRkgzUmUtR01JYVJBc0JfUkZSTmkyclFMY0tLVzZLQWFyaE5RR1c5VzhrUlBURHB0alhwMmxlYkFNdXVVLXpNaDRkYkNsZGJwTFV6UQ?oc=5
+[7] Word: Taylor | Count: 2 | Category: NOUN
+    Sample Article: Marjorie Taylor Greene Says It Is 'Awful' That 'No One Is Standing Up For Cancer Patients' After Bayer Scores Roundup Victory In Supreme Court - Yahoo
+    Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxQbXQxcnZvVjItTWI5c2VzZDZJSWJFaktpYUp3MjZaejVncVIyZkdFd3ZZN28zYTRYWXBwSUd0R1Jpa2MxZ3V1eHRoM3ZGQ2RxeENRbXhMdDkwV3BTQktmYmRWVGNKM2RVTXU3aXUwX2NVNFFmYkFUYWZJZHpYSVR6dE9GNjNqU2RNZi1UaEY0OHNXT1lCR3JjbA?oc=5
+[8] Word: Join | Count: 2 | Category: NOUN
+    Sample Article: It's Official: SpaceX To Join Nasdaq 100. Here's When It'll Join. - Investor's Business Daily
+    Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxOYmowMXUxWlp0QzZHSmowSGhmVDdvcjh4YkR4QVd3VXJPekJvZVhoQlRLdWpwOW5UM3VUMENZQ0NmLXVVVnU1ODBadXBrVHhnV080aUNFRXNhNlgyQnNDc2prUVJ2RWxZcGZjMzRURjVOUFllV3JNVE1VUjBvWUJDREpfc04?oc=5
+[9] Word: Play | Count: 2 | Category: NOUN
+    Sample Article: Gemini’s new Google Play Store integration lets you chat to find Android apps, games - 9to5Google
+    Link: https://news.google.com/rss/articles/CBMia0FVX3lxTFA5LUlNQWRwWm5TZnVwdWhibXhXWWF5RkN2WkZHSG80Y1FlT05EanU5Unlka3lrVW8yN2ptOUlESUoyeTVCYk4tYXk0Q25fM2RGNzdfRFJZYVFKNGpqNktMb2x1N0lxdnppZHVR?oc=5
+[10] Word: Last | Count: 2 | Category: NOUN
+    Sample Article: Amazon Prime Day officially ended last night, but these 131+ deals are still available for late shoppers - NBC News
+    Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxOV0hfR3BLT2lvNUtlMXRpVGhXM0VNbFdlWm11bEVIeVZoWVF2T01GVWhhTzZRd2dVaXNBbUROaUdxcTVOTVp5a1FOakNzbkowaHgtbkptOG90c1B1SXJkRUFDc1FIVlVFN0xyaU1icVpFRGthZ2Y5ZkdkUW11VlhHbFlkUFh0YWdabURKaQ?oc=5
+
+--- Testing Korean Trends Extraction ---
+Successfully fetched 40 Korean trends.
+[1] Word: 한동훈 | Count: 2 | Category: NOUN
+    Sample Article: 유승민 "닥치고 호남인가" 한동훈 "명청 밥그릇 싸움" - 조선일보
+    Link: https://news.google.com/rss/articles/CBMihgFBVV95cUxQLVMwaDBtdy1WbUtPZXgtbHVOZS1XZ1JtcmdCNUEzd3NHdk9RUHd4ZXU1X1EyWllIUWN3X1dBSGhQV2pIYTNaZEN5MDdRb3hGZ1MtUEtiX0FRbHptTTNlSlJQLUlxMS1WeklqNlhjVDR3OHZDUjhma2xRNnp0VWg2M2c3Zy1vZw?oc=5
+[2] Word: 충돌 | Count: 2 | Category: NOUN
+    Sample Article: 미국-이란 종전 합의 9일만에 두차례 충돌 왜?…모호한 양해각서 분쟁 불러 - 한겨레
+    Link: https://news.google.com/rss/articles/CBMic0FVX3lxTE9IbWd1S0wyNW9uZDhkdE9DOVRkLThDRjVhd2NYQ3ZqblpTZjF0WnJfWUloUTZpTXdYb0VlQ0pfVTF6SGRhelNwVUt3X29iS3lGR3FNakJ5S2VuMlVreFZOWDN4YnBMS0wwelk5YnZBZUU4ZlU?oc=5
+[3] Word: 한국 | Count: 2 | Category: LOCATION
+    Sample Article: 호르무즈 내 한국 선박 대부분 탈출...3척 만 남아 - YTN
+    Link: https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PYUlmUm5ReVRjMHlQV3NsZ3cwdmVSVEg4OVhQX29xWi01MFMxY3pFSVJLSm9BZ0ozM0p3dXVWcXpxZnZDaUV4OFlHNDBxa0dLRXlRMDNGaDB1bHgzM3c?oc=5
+[4] Word: 남아 | Count: 2 | Category: NOUN
+    Sample Article: 호르무즈 내 한국 선박 대부분 탈출...3척 만 남아 - YTN
+    Link: https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PYUlmUm5ReVRjMHlQV3NsZ3cwdmVSVEg4OVhQX29xWi01MFMxY3pFSVJLSm9BZ0ozM0p3dXVWcXpxZnZDaUV4OFlHNDBxa0dLRXlRMDNGaDB1bHgzM3c?oc=5
+[5] Word: 지금 | Count: 2 | Category: NOUN
+    Sample Article: “60살 넘으면 뇌 썩는다던 유시민, 지금 뇌 건강한가” 허지웅 맹비난 - 한겨레
+    Link: https://news.google.com/rss/articles/CBMickFVX3lxTE1XRTE5NnhGWnktY1Q2VmtRZ3N4N1ctZGxkaUs4a3NDdk1tRWw1di1YNThVaGVKWGd2R3J3WF9UUEdGZnI3R25nV1ExSElUVWpBaFRRZlN3N0h2aGY3Ti1tOXRGSVo2ZmI4UGQxemlLdlowdw?oc=5
+[6] Word: 건강 | Count: 2 | Category: NOUN
+    Sample Article: “60살 넘으면 뇌 썩는다던 유시민, 지금 뇌 건강한가” 허지웅 맹비난 - 한겨레
+    Link: https://news.google.com/rss/articles/CBMickFVX3lxTE1XRTE5NnhGWnktY1Q2VmtRZ3N4N1ctZGxkaUs4a3NDdk1tRWw1di1YNThVaGVKWGd2R3J3WF9UUEdGZnI3R25nV1ExSElUVWpBaFRRZlN3N0h2aGY3Ti1tOXRGSVo2ZmI4UGQxemlLdlowdw?oc=5
+[7] Word: 32강 | Count: 2 | Category: NOUN
+    Sample Article: 홍명보호, 32강 탈락…황금세대 품고도 최악의 월드컵 ‘자멸’ - 한겨레
+    Link: https://news.google.com/rss/articles/CBMidkFVX3lxTE9mdXJsaS1fT1J4VHJQWUIzdUNyVldZUnhna1FJNGluTS0zaVB4ZG9xakZpczJYQVI2MHlwX3pnRl9YaThPRklvU1lvOGplOUE1a1hJNU95WXF2Ry04U0tJNFlBQnpackdBc3FSc1BHTEtTazliLWc?oc=5
+[8] Word: 월드컵 | Count: 2 | Category: NOUN
+    Sample Article: 홍명보호, 32강 탈락…황금세대 품고도 최악의 월드컵 ‘자멸’ - 한겨레
+    Link: https://news.google.com/rss/articles/CBMidkFVX3lxTE9mdXJsaS1fT1J4VHJQWUIzdUNyVldZUnhna1FJNGluTS0zaVB4ZG9xakZpczJYQVI2MHlwX3pnRl9YaThPRklvU1lvOGplOUE1a1hJNU95WXF2Ry04U0tJNFlBQnpackdBc3FSc1BHTEtTazliLWc?oc=5
+[9] Word: 1명 | Count: 2 | Category: NOUN
+    Sample Article: “승용차에 아이 두 명 깔렸다” 서산서 스윙카 탄 8살 남아 2명 차에 치여 1명 숨져 - 경향신문
+    Link: https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WSmlaVTlCMlIwQ3UxMjROYklabFh3eU1BUUtHQjRUZzN1SDkxOFNCUGVvd0h5Qjd0anYxV0pDd0ZoUzJyNjJhQkhSdkVDOGJNN0s4cEQ2bmxrZ9IBX0FVX3lxTFBIa0ZJOWRQSWhJVDZfdzRhalNSY1dqSmlDbVc4X3o2NTdaRG1oUUpUWFlEaFB2Rk1wNHJfbEJBYTZvRTM4VmtmbXZiSGNkSGZKMnlvNXVSMF9sT2xZeXl3?oc=5
+[10] Word: 사고 | Count: 2 | Category: NOUN
+    Sample Article: 베이징 108층짜리 초고층 빌딩 ‘경비행기 충돌 사고’로 1명 사망·13명 부상···중국 당국 사고 하루 뒤 발표 내놔 - 경향신문
+    Link: https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rWFpjMXJxWmpKQ3ZuOTVOR1ZxYUVUTWNQSjRUU2NsaDcwd0RfXzc5SmlWVFdFc2NnQWpOQWhFbVlmbnVMMUhDdUl2cWltalJjVlp0cXlPZ1Y2d9IBX0FVX3lxTE14ZnBrYUVVQnQxNkY3d0ZHOEpoQXdIS3pmR3BUQmdfeVhfNHdSRWpKYWNPMWhfSU5rSjhXVjdFeWdoS2h2TzBfOGIxRW5iTG83ZWRpbk5GamFFWEV2UkVF?oc=5
