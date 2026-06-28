@@ -409,7 +409,7 @@ async function fetchTrendsData(lang = 'en', force = false) {
     }
 
     try {
-        const response = await fetch(`/api/trends?lang=${lang}`);
+        const response = await fetch(`data_${lang}.json`);
         if (!response.ok) throw new Error('API fetch failed');
         
         const data = await response.json();
