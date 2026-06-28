@@ -1,131 +1,81 @@
 {
   "language": "ko",
-  "last_updated": 1782663557.9533503,
+  "last_updated": 1782670245.3482068,
   "count": 40,
   "trends": [
     {
-      "word": "대통령",
-      "count": 3,
-      "category": "PERSON",
-      "articles": [
-        {
-          "title": "이 대통령 겨눈 유시민 ‘재건축론’…전대 앞둔 민주당 노선 갈등 격화 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RMGZGOWctcm5vRG1taTdKUTJobW9BVlBERXVOQTNTS2FqM0I2Ti1uS3dQTGhTdm04b3A4eHZKVXhVRVQ0bmRWNjI0UDlMYWI4M1lHMVVXcVY4X0YxTFpFMHVnU0NQM1pseHNmTWoxSTktZ3Zs?oc=5",
-          "source": "Google News",
-          "published": "Sun, 28 Jun 2026 13:11:00 GMT"
-        },
-        {
-          "title": "‘역대급 졸전’ 홍명보·정몽규 저격?···이 대통령 “황당한 결과, 무능한 사람 지휘관 선발” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WbDRtU19fQVVNS25GLUhKV0VGbTl5Uk1hekxrcnNQelJwOTVKUUpGLV80MTk2Z2NqcUNfUXBUTjVHcUdyY3F0eVpPcFNxNDgwQTRhZThHQWJaQdIBX0FVX3lxTFBXVkt2MXAxVC14endTQllORHg0QXo2bGtDeGI5OVJUN3hyc1pvTnF6MXdZN2NEOTF1bjIwcVhhd3pEY0o5UjF0bTZ2dE9IMkJxMlFFMGhYM3d2UXBOVEMw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 28 Jun 2026 07:52:00 GMT"
-        },
-        {
-          "title": "김민석, 유시민 겨냥 “대통령 만들었단 과잉 자신감 절제돼야” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11MDJybl9MNktsUmNWY3BlVzd0SzZVUXE0Z1N5Q1dQdE9OSVh3RG5YNjNfN2QyN3FBRVRnLTBKTnJ1N2FOTVJaOGwyMVd4c05TOENUZmdGNDU4RmxUTE9CNGczT3p1LWdneDlQd0lxbnhpWTZPWk1z0gFmQVVfeXFMTWFVelQzY1ZQS240WUhuVjA5SFJKY1VEVmpsWmQwVXhUY0VBQktPOGNPcXRVQVZYbkxIb1ZyVmh4aXNwRjgxSlRneDNxLVhqYlBYUmZGeVlpRHRla3lPcHRsNTVJeTJR?oc=5",
-          "source": "Google News",
-          "published": "Sat, 27 Jun 2026 09:26:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "사람",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘역대급 졸전’ 홍명보·정몽규 저격?···이 대통령 “황당한 결과, 무능한 사람 지휘관 선발” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WbDRtU19fQVVNS25GLUhKV0VGbTl5Uk1hekxrcnNQelJwOTVKUUpGLV80MTk2Z2NqcUNfUXBUTjVHcUdyY3F0eVpPcFNxNDgwQTRhZThHQWJaQdIBX0FVX3lxTFBXVkt2MXAxVC14endTQllORHg0QXo2bGtDeGI5OVJUN3hyc1pvTnF6MXdZN2NEOTF1bjIwcVhhd3pEY0o5UjF0bTZ2dE9IMkJxMlFFMGhYM3d2UXBOVEMw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 28 Jun 2026 07:52:00 GMT"
-        },
-        {
-          "title": "염증을 다스리는 사람이 더 오래 건강하게 산다 - hidomin.com",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iUUdPQWhacHRqMzdydG1xNVRFNDJxbWFOZjY0ZjBVMjhLd0NQUVFjMk5lNWtWQTE2RTVxaXdzbkdWcXdlRDVzbzg3OGtURXM3eS1CcHJiRkRoQllMVk96NG1uOFl0bXhSS2c?oc=5",
-          "source": "Google News",
-          "published": "Sun, 28 Jun 2026 11:04:41 GMT"
-        },
-        {
-          "title": "09화 사람은 버그가 아니라 조건이 다를 뿐이다 - 브런치",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zSzNBdS1Bc1Voa3h2TElfV3dFd0ltSWc3NnpLSlJGWmg5ZVk2ZDJLUk40S08ycUx5TTdKWVBNTng2TDhWTEphM2lpTWh4bmFnNkE?oc=5",
-          "source": "Google News",
-          "published": "Sun, 28 Jun 2026 12:50:53 GMT"
-        }
-      ]
-    },
-    {
-      "word": "김민석",
+      "word": "월드컵",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "정청래는 ‘정통성’ 김민석은 ‘확장성’…청년 당선인들 앞에서 ‘신경전’ - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aY2trZEJHYkJzcU91cEc4N2J2emdmQ3RHOTAxWS1OdTJGaWNNLUJoMkZ5NHJYVDY2UDVpalZNM2VxaUx0ekpyR29wdm1idkdQRmVxZ2hMaWJUQdIBX0FVX3lxTE94b3F3Zmd3T2plenhha0JUZkVuTy11ZUk4NHFtU1ZXU1pjV251SWRadmxzcHNYTHVBakFPVFRNUVQ3cWxqRkxOWFNVdHBzSkVHUGl0dUR6M2pQcFBYTHFr?oc=5",
+          "title": "‘월드컵 32강 탈락’ 홍명보 감독 사퇴…“국민께 죄송” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yeWdlX2VhMnlWUXRBRDFGd2I1SmpQUDI4bXI3S19FVk5wV1VyVTMyV3lDMDdPQzR5VGFuM0twb0QyVGFqOTdYbkJ4Nk5HUWZGSjRPMFd0c0ctd0JTUDZtSmtPR3dwYzBSdDhXODRpejFhMDF6akE?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 12:06:00 GMT"
+          "published": "Sun, 28 Jun 2026 16:07:00 GMT"
         },
         {
-          "title": "김민석, 유시민 겨냥 “대통령 만들었단 과잉 자신감 절제돼야” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11MDJybl9MNktsUmNWY3BlVzd0SzZVUXE0Z1N5Q1dQdE9OSVh3RG5YNjNfN2QyN3FBRVRnLTBKTnJ1N2FOTVJaOGwyMVd4c05TOENUZmdGNDU4RmxUTE9CNGczT3p1LWdneDlQd0lxbnhpWTZPWk1z0gFmQVVfeXFMTWFVelQzY1ZQS240WUhuVjA5SFJKY1VEVmpsWmQwVXhUY0VBQktPOGNPcXRVQVZYbkxIb1ZyVmh4aXNwRjgxSlRneDNxLVhqYlBYUmZGeVlpRHRla3lPcHRsNTVJeTJR?oc=5",
+          "title": "손흥민 ‘마지막 불꽃’ 못 보고…4번째 월드컵, 조별리그 탈락만 3번 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QUUhtTDBhRGQ2bDVhNDRQbGRjS0VjcW5PS1BKSUxSelVXY3RMMkY1SXVDRk9HaU00RGZ5dlNtT2hEd1N4X1YwVG5RMkxaYjQ2S3RndE9aNHE0TkNUcFRZam02clV4d191LWk5eHhObV82cUtDdGc?oc=5",
           "source": "Google News",
-          "published": "Sat, 27 Jun 2026 09:26:00 GMT"
+          "published": "Sun, 28 Jun 2026 14:58:00 GMT"
         }
       ]
     },
     {
-      "word": "유시민",
+      "word": "탈락",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령 겨눈 유시민 ‘재건축론’…전대 앞둔 민주당 노선 갈등 격화 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RMGZGOWctcm5vRG1taTdKUTJobW9BVlBERXVOQTNTS2FqM0I2Ti1uS3dQTGhTdm04b3A4eHZKVXhVRVQ0bmRWNjI0UDlMYWI4M1lHMVVXcVY4X0YxTFpFMHVnU0NQM1pseHNmTWoxSTktZ3Zs?oc=5",
+          "title": "‘월드컵 32강 탈락’ 홍명보 감독 사퇴…“국민께 죄송” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yeWdlX2VhMnlWUXRBRDFGd2I1SmpQUDI4bXI3S19FVk5wV1VyVTMyV3lDMDdPQzR5VGFuM0twb0QyVGFqOTdYbkJ4Nk5HUWZGSjRPMFd0c0ctd0JTUDZtSmtPR3dwYzBSdDhXODRpejFhMDF6akE?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 13:11:00 GMT"
+          "published": "Sun, 28 Jun 2026 16:07:00 GMT"
         },
         {
-          "title": "김민석, 유시민 겨냥 “대통령 만들었단 과잉 자신감 절제돼야” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11MDJybl9MNktsUmNWY3BlVzd0SzZVUXE0Z1N5Q1dQdE9OSVh3RG5YNjNfN2QyN3FBRVRnLTBKTnJ1N2FOTVJaOGwyMVd4c05TOENUZmdGNDU4RmxUTE9CNGczT3p1LWdneDlQd0lxbnhpWTZPWk1z0gFmQVVfeXFMTWFVelQzY1ZQS240WUhuVjA5SFJKY1VEVmpsWmQwVXhUY0VBQktPOGNPcXRVQVZYbkxIb1ZyVmh4aXNwRjgxSlRneDNxLVhqYlBYUmZGeVlpRHRla3lPcHRsNTVJeTJR?oc=5",
+          "title": "손흥민 ‘마지막 불꽃’ 못 보고…4번째 월드컵, 조별리그 탈락만 3번 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QUUhtTDBhRGQ2bDVhNDRQbGRjS0VjcW5PS1BKSUxSelVXY3RMMkY1SXVDRk9HaU00RGZ5dlNtT2hEd1N4X1YwVG5RMkxaYjQ2S3RndE9aNHE0TkNUcFRZam02clV4d191LWk5eHhObV82cUtDdGc?oc=5",
           "source": "Google News",
-          "published": "Sat, 27 Jun 2026 09:26:00 GMT"
+          "published": "Sun, 28 Jun 2026 14:58:00 GMT"
         }
       ]
     },
     {
-      "word": "대응",
+      "word": "이어",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "중·러 군용기 10여대 KADIZ 진입…공군 전투기 출격 대응 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LX0R0QmYxMkhXMHFlYjJFLTg3dnVsRnhLRlRDZXhSU3VHek9CUXkycjZoeUcwaHVXeDVRUlNHNEtoWFh1UlpqcjlsTGFSMEJKS2ptLWhwMU5vNFRxcUhuUEJ3Z1ZVNDA?oc=5",
+          "title": "김건희, 도이치 이어 명품백도 유죄…특검 ‘봐주기 수사’ 힘 받을 듯 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zRlRYREY1cm43RzY2R18zeC1kZUIyZkdnRHNNY2NmcVBwMUFlcVVsb1ZnQWJyTkhCaExDUzJTMHZfN09oZ3htNXRQMXVaaEJzZWRRV3Z1aTI0YWFfZFpMelZPMmxfQlRVVENOTm5YaVN2dw?oc=5",
           "source": "Google News",
-          "published": "Sat, 27 Jun 2026 04:55:30 GMT"
+          "published": "Sun, 28 Jun 2026 16:52:00 GMT"
         },
         {
-          "title": "[속보] 쿠웨이트군 \"방공망, 적대적 미사일·드론 대응 중\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBxa19jcG1QdW05QnFNa1Bfd1VUQ0MtU1dOam1ENXJpdUlaUnAxRlA0SzZhMUFJLTJEaElyYTBPNGN4WFNUaS10SF9yTjg5OEVVVnNXUDZ6N3BvWWFMT1Yzb0JCaGRSd1lRRy10X19yOW5qc0M30gF0QVVfeXFMTkFjV1NGaklmS0w5M00wckZCQ1lFdHBycEpOaGsydW9pMEM4UjVkOUZKZm9hRmRWTE0tU2h1b3dtMU1NSGZnSHd4SWZPa3JZbjJ3R1pNeWJDSFpRWHJ0WWZnUHQ5X3k0UEZmZmtBY3Vqbnp1alQ?oc=5",
+          "title": "\"모스크바도 사정권\"…우크라, 드론 이어 '플라밍고' 꺼냈다 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tWFhaQ0x1RnFCZ240bUExeW5UQWY0bWNBcmpwcGdfaUk5YTNzV0k5dHVrU0JDNUQ3aTVGMWhkblhYNEwwc0paNjFrclJCbDRsWDVuRHk3WWhteGfSAWBBVV95cUxPb1pMclZpSzdGMWRHVFpEeHVPRC0teXZKUGJ0N2EtWFc5MW8zSkFPd0RGS0l5dFVyem1YY2N4NXVON0dRUjFORXR2UWc4SEZFRmM3Smd4WDVzTHFTMlo1TkU?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 00:26:13 GMT"
+          "published": "Sat, 27 Jun 2026 09:25:13 GMT"
         }
       ]
     },
     {
-      "word": "눈물",
+      "word": "드론",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "린, 이혼 고백 떠올렸다…“백지영은 눈물, 윤종신은 눈치챘다” (미우새) - 스포츠동아",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96bXhteGpLS2ZBZjlmNUZwVTZuY093YWVrd19ZYUpFYnctdVI0UjY4dU9LUkRlSVRTZlljWFNqXzFQRy1nSVQ0SnNvbE1JdFVSNUlxTnpic1k3ejhMT1ZzUUsyNWxYMmRXU2NyTGtn?oc=5",
+          "title": "\"모스크바도 사정권\"…우크라, 드론 이어 '플라밍고' 꺼냈다 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tWFhaQ0x1RnFCZ240bUExeW5UQWY0bWNBcmpwcGdfaUk5YTNzV0k5dHVrU0JDNUQ3aTVGMWhkblhYNEwwc0paNjFrclJCbDRsWDVuRHk3WWhteGfSAWBBVV95cUxPb1pMclZpSzdGMWRHVFpEeHVPRC0teXZKUGJ0N2EtWFc5MW8zSkFPd0RGS0l5dFVyem1YY2N4NXVON0dRUjFORXR2UWc4SEZFRmM3Smd4WDVzTHFTMlo1TkU?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 14:52:00 GMT"
+          "published": "Sat, 27 Jun 2026 09:25:13 GMT"
         },
         {
-          "title": "그라운드서 눈물 쏟을 기회조차 없던 손흥민…4년뒤 재도전할까 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLbUNGdzY3VHgyeU9HUE1ReHFSVENvc3ZoRXRZNnFOQjlRX3NacU1PY0ZXdS1pUU4xSmRlZDZFRGJzQ2ctQy1Ea1pGajl1eTZGOU50NGFxdklMZ2h1SVdmamd1clRpNXREdGdIYVI0Ulc5ckpB0gFmQVVfeXFMTjJrNmJ4amlOMmdsV0tLZ3BxdWNDSUFzdWxySzNkSmlKVGtWSFdzcUhhMl9HQmtnRm9uZmE4ZUlhZWxPaTFZVXJ2T05paFVXM2ZLOEdiaEFRdlVnVS14ZjhTVHQ4UFln?oc=5",
+          "title": "베이징서 ‘드론 전면 금지’인데 어떻게?…경비행기 108층 초고층 건물 충돌 미스테리 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OckZENl9UTDhSS3JTSnBTc3YyY3ZoeTNOQUhfTGQ4NGlXUFRxYjN4WGRuSk9yOWtWQXhKYnAtR0s2a0FSYU80Tk9JVjVveDRqWkw4Y3M1S0R5UdIBX0FVX3lxTE5jNFJhdWJpQ1B3LWc0S2FqekVKSGdveWV3TzJSQ2ZiUDFMd2JlTjNhelNNRnlRMm1ORW5SVVVDTjZPZFV5dWd4SHFiMXFETnNiM2ZrdWVWcmY3WjZTMG9j?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 08:42:00 GMT"
+          "published": "Sun, 28 Jun 2026 05:20:00 GMT"
         }
       ]
     },
@@ -149,6 +99,25 @@
       ]
     },
     {
+      "word": "사람",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "염증을 다스리는 사람이 더 오래 건강하게 산다 - hidomin.com",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iUUdPQWhacHRqMzdydG1xNVRFNDJxbWFOZjY0ZjBVMjhLd0NQUVFjMk5lNWtWQTE2RTVxaXdzbkdWcXdlRDVzbzg3OGtURXM3eS1CcHJiRkRoQllMVk96NG1uOFl0bXhSS2c?oc=5",
+          "source": "Google News",
+          "published": "Sun, 28 Jun 2026 11:04:41 GMT"
+        },
+        {
+          "title": "09화 사람은 버그가 아니라 조건이 다를 뿐이다 - 브런치",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zSzNBdS1Bc1Voa3h2TElfV3dFd0ltSWc3NnpLSlJGWmg5ZVk2ZDJLUk40S08ycUx5TTdKWVBNTng2TDhWTEphM2lpTWh4bmFnNkE?oc=5",
+          "source": "Google News",
+          "published": "Sun, 28 Jun 2026 12:50:53 GMT"
+        }
+      ]
+    },
+    {
       "word": "정부삼전닉스",
       "count": 1,
       "category": "NOUN",
@@ -157,7 +126,7 @@
           "title": "[단독] 정부·삼전닉스, ‘3대 메가’에 2천조 투입한다 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NdzZHcnV1QmVfVkx3TlhpeWE1VzdRZE1iRmZ4N3NLVlgtYUw1MzNMdHNUVEFCeTJMWmVEbGllRkx3Tm9ieXNHOGc3TS05dUZVVjRXRV96RVczWUZiODRKc0Y1VUEwMlhoaDhxSjZZYmNSQQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 14:45:00 GMT"
+          "published": "Sun, 28 Jun 2026 16:52:00 GMT"
         }
       ]
     },
@@ -170,7 +139,7 @@
           "title": "[단독] 정부·삼전닉스, ‘3대 메가’에 2천조 투입한다 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NdzZHcnV1QmVfVkx3TlhpeWE1VzdRZE1iRmZ4N3NLVlgtYUw1MzNMdHNUVEFCeTJMWmVEbGllRkx3Tm9ieXNHOGc3TS05dUZVVjRXRV96RVczWUZiODRKc0Y1VUEwMlhoaDhxSjZZYmNSQQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 14:45:00 GMT"
+          "published": "Sun, 28 Jun 2026 16:52:00 GMT"
         }
       ]
     },
@@ -183,7 +152,7 @@
           "title": "[단독] 정부·삼전닉스, ‘3대 메가’에 2천조 투입한다 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NdzZHcnV1QmVfVkx3TlhpeWE1VzdRZE1iRmZ4N3NLVlgtYUw1MzNMdHNUVEFCeTJMWmVEbGllRkx3Tm9ieXNHOGc3TS05dUZVVjRXRV96RVczWUZiODRKc0Y1VUEwMlhoaDhxSjZZYmNSQQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 14:45:00 GMT"
+          "published": "Sun, 28 Jun 2026 16:52:00 GMT"
         }
       ]
     },
@@ -196,7 +165,7 @@
           "title": "[단독] 정부·삼전닉스, ‘3대 메가’에 2천조 투입한다 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NdzZHcnV1QmVfVkx3TlhpeWE1VzdRZE1iRmZ4N3NLVlgtYUw1MzNMdHNUVEFCeTJMWmVEbGllRkx3Tm9ieXNHOGc3TS05dUZVVjRXRV96RVczWUZiODRKc0Y1VUEwMlhoaDhxSjZZYmNSQQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 14:45:00 GMT"
+          "published": "Sun, 28 Jun 2026 16:52:00 GMT"
         }
       ]
     },
@@ -209,7 +178,7 @@
           "title": "[단독] 정부·삼전닉스, ‘3대 메가’에 2천조 투입한다 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NdzZHcnV1QmVfVkx3TlhpeWE1VzdRZE1iRmZ4N3NLVlgtYUw1MzNMdHNUVEFCeTJMWmVEbGllRkx3Tm9ieXNHOGc3TS05dUZVVjRXRV96RVczWUZiODRKc0Y1VUEwMlhoaDhxSjZZYmNSQQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 14:45:00 GMT"
+          "published": "Sun, 28 Jun 2026 16:52:00 GMT"
         }
       ]
     },
@@ -228,6 +197,19 @@
     },
     {
       "word": "정통",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정청래는 ‘정통성’ 김민석은 ‘확장성’…청년 당선인들 앞에서 ‘신경전’ - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aY2trZEJHYkJzcU91cEc4N2J2emdmQ3RHOTAxWS1OdTJGaWNNLUJoMkZ5NHJYVDY2UDVpalZNM2VxaUx0ekpyR29wdm1idkdQRmVxZ2hMaWJUQdIBX0FVX3lxTE94b3F3Zmd3T2plenhha0JUZkVuTy11ZUk4NHFtU1ZXU1pjV251SWRadmxzcHNYTHVBakFPVFRNUVQ3cWxqRkxOWFNVdHBzSkVHUGl0dUR6M2pQcFBYTHFr?oc=5",
+          "source": "Google News",
+          "published": "Sun, 28 Jun 2026 12:06:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "김민석",
       "count": 1,
       "category": "NOUN",
       "articles": [
@@ -300,7 +282,7 @@
           "title": "‘호르무즈 뇌관’ 미-이란 MOU…종전 합의 8일 만에 결국 폭발 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IbWd1S0wyNW9uZDhkdE9DOVRkLThDRjVhd2NYQ3ZqblpTZjF0WnJfWUloUTZpTXdYb0VlQ0pfVTF6SGRhelNwVUt3X29iS3lGR3FNakJ5S2VuMlVreFZOWDN4YnBMS0wwelk5YnZBZUU4ZlU?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 12:54:00 GMT"
+          "published": "Sun, 28 Jun 2026 15:01:00 GMT"
         }
       ]
     },
@@ -313,7 +295,7 @@
           "title": "‘호르무즈 뇌관’ 미-이란 MOU…종전 합의 8일 만에 결국 폭발 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IbWd1S0wyNW9uZDhkdE9DOVRkLThDRjVhd2NYQ3ZqblpTZjF0WnJfWUloUTZpTXdYb0VlQ0pfVTF6SGRhelNwVUt3X29iS3lGR3FNakJ5S2VuMlVreFZOWDN4YnBMS0wwelk5YnZBZUU4ZlU?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 12:54:00 GMT"
+          "published": "Sun, 28 Jun 2026 15:01:00 GMT"
         }
       ]
     },
@@ -326,7 +308,7 @@
           "title": "‘호르무즈 뇌관’ 미-이란 MOU…종전 합의 8일 만에 결국 폭발 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IbWd1S0wyNW9uZDhkdE9DOVRkLThDRjVhd2NYQ3ZqblpTZjF0WnJfWUloUTZpTXdYb0VlQ0pfVTF6SGRhelNwVUt3X29iS3lGR3FNakJ5S2VuMlVreFZOWDN4YnBMS0wwelk5YnZBZUU4ZlU?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 12:54:00 GMT"
+          "published": "Sun, 28 Jun 2026 15:01:00 GMT"
         }
       ]
     },
@@ -339,7 +321,7 @@
           "title": "‘호르무즈 뇌관’ 미-이란 MOU…종전 합의 8일 만에 결국 폭발 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IbWd1S0wyNW9uZDhkdE9DOVRkLThDRjVhd2NYQ3ZqblpTZjF0WnJfWUloUTZpTXdYb0VlQ0pfVTF6SGRhelNwVUt3X29iS3lGR3FNakJ5S2VuMlVreFZOWDN4YnBMS0wwelk5YnZBZUU4ZlU?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 12:54:00 GMT"
+          "published": "Sun, 28 Jun 2026 15:01:00 GMT"
         }
       ]
     },
@@ -352,7 +334,7 @@
           "title": "‘호르무즈 뇌관’ 미-이란 MOU…종전 합의 8일 만에 결국 폭발 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IbWd1S0wyNW9uZDhkdE9DOVRkLThDRjVhd2NYQ3ZqblpTZjF0WnJfWUloUTZpTXdYb0VlQ0pfVTF6SGRhelNwVUt3X29iS3lGR3FNakJ5S2VuMlVreFZOWDN4YnBMS0wwelk5YnZBZUU4ZlU?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 12:54:00 GMT"
+          "published": "Sun, 28 Jun 2026 15:01:00 GMT"
         }
       ]
     },
@@ -365,7 +347,7 @@
           "title": "‘호르무즈 뇌관’ 미-이란 MOU…종전 합의 8일 만에 결국 폭발 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IbWd1S0wyNW9uZDhkdE9DOVRkLThDRjVhd2NYQ3ZqblpTZjF0WnJfWUloUTZpTXdYb0VlQ0pfVTF6SGRhelNwVUt3X29iS3lGR3FNakJ5S2VuMlVreFZOWDN4YnBMS0wwelk5YnZBZUU4ZlU?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 12:54:00 GMT"
+          "published": "Sun, 28 Jun 2026 15:01:00 GMT"
         }
       ]
     },
@@ -378,7 +360,7 @@
           "title": "‘호르무즈 뇌관’ 미-이란 MOU…종전 합의 8일 만에 결국 폭발 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IbWd1S0wyNW9uZDhkdE9DOVRkLThDRjVhd2NYQ3ZqblpTZjF0WnJfWUloUTZpTXdYb0VlQ0pfVTF6SGRhelNwVUt3X29iS3lGR3FNakJ5S2VuMlVreFZOWDN4YnBMS0wwelk5YnZBZUU4ZlU?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 12:54:00 GMT"
+          "published": "Sun, 28 Jun 2026 15:01:00 GMT"
         }
       ]
     },
@@ -391,7 +373,7 @@
           "title": "‘호르무즈 뇌관’ 미-이란 MOU…종전 합의 8일 만에 결국 폭발 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IbWd1S0wyNW9uZDhkdE9DOVRkLThDRjVhd2NYQ3ZqblpTZjF0WnJfWUloUTZpTXdYb0VlQ0pfVTF6SGRhelNwVUt3X29iS3lGR3FNakJ5S2VuMlVreFZOWDN4YnBMS0wwelk5YnZBZUU4ZlU?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 12:54:00 GMT"
+          "published": "Sun, 28 Jun 2026 15:01:00 GMT"
         }
       ]
     },
@@ -404,7 +386,7 @@
           "title": "‘호르무즈 뇌관’ 미-이란 MOU…종전 합의 8일 만에 결국 폭발 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IbWd1S0wyNW9uZDhkdE9DOVRkLThDRjVhd2NYQ3ZqblpTZjF0WnJfWUloUTZpTXdYb0VlQ0pfVTF6SGRhelNwVUt3X29iS3lGR3FNakJ5S2VuMlVreFZOWDN4YnBMS0wwelk5YnZBZUU4ZlU?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 12:54:00 GMT"
+          "published": "Sun, 28 Jun 2026 15:01:00 GMT"
         }
       ]
     },
@@ -500,6 +482,19 @@
       ]
     },
     {
+      "word": "대통령",
+      "count": 1,
+      "category": "PERSON",
+      "articles": [
+        {
+          "title": "이 대통령 겨눈 유시민 ‘재건축론’…전대 앞둔 민주당 노선 갈등 격화 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RMGZGOWctcm5vRG1taTdKUTJobW9BVlBERXVOQTNTS2FqM0I2Ti1uS3dQTGhTdm04b3A4eHZKVXhVRVQ0bmRWNjI0UDlMYWI4M1lHMVVXcVY4X0YxTFpFMHVnU0NQM1pseHNmTWoxSTktZ3Zs?oc=5",
+          "source": "Google News",
+          "published": "Sun, 28 Jun 2026 16:52:00 GMT"
+        }
+      ]
+    },
+    {
       "word": "겨눈",
       "count": 1,
       "category": "NOUN",
@@ -508,7 +503,20 @@
           "title": "이 대통령 겨눈 유시민 ‘재건축론’…전대 앞둔 민주당 노선 갈등 격화 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RMGZGOWctcm5vRG1taTdKUTJobW9BVlBERXVOQTNTS2FqM0I2Ti1uS3dQTGhTdm04b3A4eHZKVXhVRVQ0bmRWNjI0UDlMYWI4M1lHMVVXcVY4X0YxTFpFMHVnU0NQM1pseHNmTWoxSTktZ3Zs?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 13:11:00 GMT"
+          "published": "Sun, 28 Jun 2026 16:52:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "유시민",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령 겨눈 유시민 ‘재건축론’…전대 앞둔 민주당 노선 갈등 격화 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RMGZGOWctcm5vRG1taTdKUTJobW9BVlBERXVOQTNTS2FqM0I2Ti1uS3dQTGhTdm04b3A4eHZKVXhVRVQ0bmRWNjI0UDlMYWI4M1lHMVVXcVY4X0YxTFpFMHVnU0NQM1pseHNmTWoxSTktZ3Zs?oc=5",
+          "source": "Google News",
+          "published": "Sun, 28 Jun 2026 16:52:00 GMT"
         }
       ]
     },
@@ -521,7 +529,7 @@
           "title": "이 대통령 겨눈 유시민 ‘재건축론’…전대 앞둔 민주당 노선 갈등 격화 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RMGZGOWctcm5vRG1taTdKUTJobW9BVlBERXVOQTNTS2FqM0I2Ti1uS3dQTGhTdm04b3A4eHZKVXhVRVQ0bmRWNjI0UDlMYWI4M1lHMVVXcVY4X0YxTFpFMHVnU0NQM1pseHNmTWoxSTktZ3Zs?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 13:11:00 GMT"
+          "published": "Sun, 28 Jun 2026 16:52:00 GMT"
         }
       ]
     },
@@ -534,7 +542,7 @@
           "title": "이 대통령 겨눈 유시민 ‘재건축론’…전대 앞둔 민주당 노선 갈등 격화 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RMGZGOWctcm5vRG1taTdKUTJobW9BVlBERXVOQTNTS2FqM0I2Ti1uS3dQTGhTdm04b3A4eHZKVXhVRVQ0bmRWNjI0UDlMYWI4M1lHMVVXcVY4X0YxTFpFMHVnU0NQM1pseHNmTWoxSTktZ3Zs?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 13:11:00 GMT"
+          "published": "Sun, 28 Jun 2026 16:52:00 GMT"
         }
       ]
     },
@@ -547,33 +555,7 @@
           "title": "이 대통령 겨눈 유시민 ‘재건축론’…전대 앞둔 민주당 노선 갈등 격화 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RMGZGOWctcm5vRG1taTdKUTJobW9BVlBERXVOQTNTS2FqM0I2Ti1uS3dQTGhTdm04b3A4eHZKVXhVRVQ0bmRWNjI0UDlMYWI4M1lHMVVXcVY4X0YxTFpFMHVnU0NQM1pseHNmTWoxSTktZ3Zs?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 13:11:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "노선",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 겨눈 유시민 ‘재건축론’…전대 앞둔 민주당 노선 갈등 격화 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RMGZGOWctcm5vRG1taTdKUTJobW9BVlBERXVOQTNTS2FqM0I2Ti1uS3dQTGhTdm04b3A4eHZKVXhVRVQ0bmRWNjI0UDlMYWI4M1lHMVVXcVY4X0YxTFpFMHVnU0NQM1pseHNmTWoxSTktZ3Zs?oc=5",
-          "source": "Google News",
-          "published": "Sun, 28 Jun 2026 13:11:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "갈등",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 겨눈 유시민 ‘재건축론’…전대 앞둔 민주당 노선 갈등 격화 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RMGZGOWctcm5vRG1taTdKUTJobW9BVlBERXVOQTNTS2FqM0I2Ti1uS3dQTGhTdm04b3A4eHZKVXhVRVQ0bmRWNjI0UDlMYWI4M1lHMVVXcVY4X0YxTFpFMHVnU0NQM1pseHNmTWoxSTktZ3Zs?oc=5",
-          "source": "Google News",
-          "published": "Sun, 28 Jun 2026 13:11:00 GMT"
+          "published": "Sun, 28 Jun 2026 16:52:00 GMT"
         }
       ]
     }
