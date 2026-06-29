@@ -1,105 +1,24 @@
 {
   "language": "en",
-  "last_updated": 1782692118.945101,
+  "last_updated": 1782712657.848505,
   "count": 40,
   "trends": [
-    {
-      "word": "Iran",
-      "count": 4,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Iran attacks Bahrain and Kuwait following US strikes and threatens to halt talks - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcDBTQkFEbzlzV3FGUXhBeks0Wm5CV2RIU0J4aFcwTl9jRFRNeHRNbkxzVEZNa3ZNSTcwS1FDZm5PM3RDbVJuMFc0bWRwR1hhSlZFVGlMSkdvOC1GcnlLUWpUbjQ0aFlMYWN3X0gtdVBUWHZYSHNKR3BKelJtdUZ1dUpnTWVubU1BOWowd1N3aE1kckE1Uklya1huN25iLUxYM2Q5N0JtcVY?oc=5",
-          "source": "Google News",
-          "published": "Sun, 28 Jun 2026 21:32:00 GMT"
-        },
-        {
-          "title": "U.S.-Iran ceasefire could go up in flames - Axios",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CY2RaYXRnMWFaRFdKRlVCM3FXc0FKdEFxZGZrTFlPeURmTTYtWFJIcGlTSWgzN2t5cmZuMVBaMW54VXVYR1dVeVdDUUdvLUhlZWpYMjRDVXNzRmtzS3RsV084UWljNWVUZmd6THFtUVZOX1daSGVMaFBBWXY?oc=5",
-          "source": "Google News",
-          "published": "Sun, 28 Jun 2026 16:41:06 GMT"
-        },
-        {
-          "title": "Qatari citizen killed as Hormuz dispute freezes planned US-Iran talks - Ynetnews",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5taTgwRld3Zjl1U3JCQllmZnJlM3k4S2pYX1ZmdDRSeV9xQUFxZ2RCS0cwdnMzV0hkTmppazlnMVhlVzZoN3JaRkZ1RGo2MWYzWVlzOElB?oc=5",
-          "source": "Google News",
-          "published": "Sun, 28 Jun 2026 17:10:40 GMT"
-        },
-        {
-          "title": "Stock futures rise along with oil prices as traders weigh U.S. attacks on Iran over the weekend: Live updates - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TU0NGQ09YelllZHBxYzEtRTQwU1o5LXM1WEZ2VFNtd01hZXF6N3lMdDd3WVJmT1BBM0tNN2FjdG5vbU9VY2ZrUkRNemlFeDVsVlB3dEx3Nl9sM3BYbzQxaDRiNDBTenYzY0J0QUd5VW1mOEx1UjdHQdIBfkFVX3lxTE1yRFlHdnhwX2QydWJWbHFhY3ZXUXR0LTRHV1NJNmFLdG1laUU0Y3lCbi1rM3VQU2k2SllNV1FuLVkzUGVqa3UwcVpzampLWHZ4ZlM3d0FZUVhpMkY0OExQTkJaSGdNOHZXemdJOW0wTFpzQjN5NEFHTlh1ZmlYQQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 28 Jun 2026 22:15:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Trump",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Biden calls Trump ‘a loser’, portraying him as incompetent, corrupt and vain - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZRVJfUjd1Y01QZ3czeGs3LUtGM0lyNDdhNjR5eUphekNPektsYy1IZmtiMmhYT2gyV0JKNzdTeTJTV05sai11QzZ5N2JfeThhdEJweVU5OGFuRlhJaWp3ejZtam5FR09rWGFtUVItd2VYdEZq?oc=5",
-          "source": "Google News",
-          "published": "Sun, 28 Jun 2026 17:36:00 GMT"
-        },
-        {
-          "title": "Sen. Bill Cassidy on Trump: ‘Sometimes he acts as if Congress is merely an appendage’ - Politico",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNVBhNmhRN2hLb3Z2bTlkXzJpTTh0a2JhbHpETmhtMUxkLURzUGdENkdOTnJSanlHTzZZNHd4aGEzdnhBenJncFh6WGk3Y3UwVGhNQWR2eGtjYXJHTFIzY01sMDFLekpsUHprZDBXV1FjNTlhOHdzdDJxMnVYRkJTRmt2ZHBXT0xFcGY3TE42ek02QQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 28 Jun 2026 17:19:45 GMT"
-        },
-        {
-          "title": "Trump says work on East Potomac public golf course to begin in September - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZVp6LWpTNjY5a3NVZ01RUlh6dGZZVDRZTHJFM19IRWtzMHBCZ2phQlgzSDhneDNfY2hJM2ZVVTZLTGNWeHhjWWNCUTJiR2lVV3FyUDdfenJTa2lxeHlBbnAtdV9hLVN5WTlFZXNEYlBTWFExYklWdTlpanVFMW1BOGV0ZG1ESDEzWDJIWGZZZjczbXVSSGxPZzNlSm1SeUExZFFsV2ktRFZtSHlRV29WY2VsMi1Rajk4RlY4?oc=5",
-          "source": "Google News",
-          "published": "Sun, 28 Jun 2026 21:00:25 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Killed",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "3 firefighters killed, 2 injured while tackling wildfires on the Colorado-Utah border - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWE1LMnB3a0FPeUtod0p3b0VnYVNHWGg3ZXl3RVp1aTJVcVZadUFHZFRzWF9fWnpNanduYVZ6OEs2cVE2T05aR2pnRjlpV0FDenlpWHplLUMwNS1Ma3RFUDlQdVlMcmtPUlowNkg5ZkZ2NmktUFVtMDJvX0NTR2ptUmhZOUdMSUt1U2J3TmN2SU5zY3pNQjczbWFR?oc=5",
-          "source": "Google News",
-          "published": "Sun, 28 Jun 2026 22:55:00 GMT"
-        },
-        {
-          "title": "Eleven killed after plane carrying skydivers crashes in eastern France - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LRkpWaHJZTVE0QlM3aXBZT19KVUNzdnF5bmhZY2ItZFV6ckNvX25uaml6TmI5MVJPRERCOHZxWnZZbGpFMnpCVEdUVC1Bc3hWcXlPVzFvN0ExZw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 28 Jun 2026 18:34:07 GMT"
-        },
-        {
-          "title": "Qatari citizen killed as Hormuz dispute freezes planned US-Iran talks - Ynetnews",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5taTgwRld3Zjl1U3JCQllmZnJlM3k4S2pYX1ZmdDRSeV9xQUFxZ2RCS0cwdnMzV0hkTmppazlnMVhlVzZoN3JaRkZ1RGo2MWYzWVlzOElB?oc=5",
-          "source": "Google News",
-          "published": "Sun, 28 Jun 2026 17:10:40 GMT"
-        }
-      ]
-    },
     {
       "word": "Live",
       "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Stock futures rise along with oil prices as traders weigh U.S. attacks on Iran over the weekend: Live updates - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TU0NGQ09YelllZHBxYzEtRTQwU1o5LXM1WEZ2VFNtd01hZXF6N3lMdDd3WVJmT1BBM0tNN2FjdG5vbU9VY2ZrUkRNemlFeDVsVlB3dEx3Nl9sM3BYbzQxaDRiNDBTenYzY0J0QUd5VW1mOEx1UjdHQdIBfkFVX3lxTE1yRFlHdnhwX2QydWJWbHFhY3ZXUXR0LTRHV1NJNmFLdG1laUU0Y3lCbi1rM3VQU2k2SllNV1FuLVkzUGVqa3UwcVpzampLWHZ4ZlM3d0FZUVhpMkY0OExQTkJaSGdNOHZXemdJOW0wTFpzQjN5NEFHTlh1ZmlYQQ?oc=5",
+          "title": "Live updates: US and Iran to ‘stand down for now,’ US official says after exchange of fire - CNN",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JcVZwTU9wS3YxN1ZZcHgzWTRxdHpNN2Y0UlRDS1dneHhWQWdWTTNibkUwMGJGTjI1N3ROQWFjSkI3MURHTTNCVXBCS2hDYzc5em51MjNYalBRQ1M0dV9ILTNlTF9CYzFYTzVfTGkyU1RXcUR2alZUbA?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 22:15:00 GMT"
+          "published": "Mon, 29 Jun 2026 01:04:00 GMT"
         },
         {
-          "title": "How to watch the BET Awards 2026 live for free: Time, host, nominees - Page Six",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMTFZX2F0RFNsUkt2bUlZMy13U0EzZ0dTakMxdng2ZlRSNUQ2akNSeUNXMHRNcnRHMjJnNkJzeVluR29GMFhZN3UydkpHLUVKbTFQMEhSamV5Rk1LSkV5UDFhalpQenQyWlktd21WREo3ZkRkYXhITVNXWFpWZm1zS2NaTUlpZUVnaVpBWE9HTXhSX19ieFNocDJKNFoxeVlOUWF6cQ?oc=5",
+          "title": "Stock futures edge higher, Asia mixed as renewed U.S.-Iran attacks push oil prices up: Live updates - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TU0NGQ09YelllZHBxYzEtRTQwU1o5LXM1WEZ2VFNtd01hZXF6N3lMdDd3WVJmT1BBM0tNN2FjdG5vbU9VY2ZrUkRNemlFeDVsVlB3dEx3Nl9sM3BYbzQxaDRiNDBTenYzY0J0QUd5VW1mOEx1UjdHQdIBfkFVX3lxTE1yRFlHdnhwX2QydWJWbHFhY3ZXUXR0LTRHV1NJNmFLdG1laUU0Y3lCbi1rM3VQU2k2SllNV1FuLVkzUGVqa3UwcVpzampLWHZ4ZlM3d0FZUVhpMkY0OExQTkJaSGdNOHZXemdJOW0wTFpzQjN5NEFHTlh1ZmlYQQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 20:00:00 GMT"
+          "published": "Mon, 29 Jun 2026 03:14:00 GMT"
         },
         {
           "title": "Four easy ways to live longer - vox.com",
@@ -110,27 +29,248 @@
       ]
     },
     {
-      "word": "Watch",
+      "word": "Iran",
       "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "We've Got Our First Look at Every Galaxy Watch 9 Band Before Unpacked - Android Headlines",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KTG9zYjNXaTBtQWs3aEVNZC1BNkliTEJjLUxNLXYzNDZOaWlwZy1IN0xTcUthV19GdFhRYmlEQ1p4ckhLbVE4WTNkMXRHbWRLc1F6d0loYUdCVWlCY21ISzdDSTkwRHZldGtCYnd3?oc=5",
+          "title": "Live updates: US and Iran to ‘stand down for now,’ US official says after exchange of fire - CNN",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JcVZwTU9wS3YxN1ZZcHgzWTRxdHpNN2Y0UlRDS1dneHhWQWdWTTNibkUwMGJGTjI1N3ROQWFjSkI3MURHTTNCVXBCS2hDYzc5em51MjNYalBRQ1M0dV9ILTNlTF9CYzFYTzVfTGkyU1RXcUR2alZUbA?oc=5",
           "source": "Google News",
-          "published": "Sat, 27 Jun 2026 00:46:03 GMT"
+          "published": "Mon, 29 Jun 2026 01:04:00 GMT"
         },
         {
-          "title": "Philippe Stern, Heir to the Patek Philippe Watch Brand, Dies at 88 - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03Ykt0OWlyZXpOYmtzcjVDaTJVTnFQN0JVZUdPSktVSXBwVW93VWRiN2ZiOEZGbFRGTXd1aHA2YUktRnlPSkZGUzVXWWoxenFTcWJfOEQ3Q2NkcDBiUEMxYU1femtNNXkySVZnZEFVZDFmOWIyVjBRbXpR?oc=5",
+          "title": "Iran attacks Bahrain and Kuwait following US strikes and threatens to halt talks - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcDBTQkFEbzlzV3FGUXhBeks0Wm5CV2RIU0J4aFcwTl9jRFRNeHRNbkxzVEZNa3ZNSTcwS1FDZm5PM3RDbVJuMFc0bWRwR1hhSlZFVGlMSkdvOC1GcnlLUWpUbjQ0aFlMYWN3X0gtdVBUWHZYSHNKR3BKelJtdUZ1dUpnTWVubU1BOWowd1N3aE1kckE1Uklya1huN25iLUxYM2Q5N0JtcVY?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 21:59:28 GMT"
+          "published": "Sun, 28 Jun 2026 21:32:00 GMT"
         },
         {
-          "title": "How to watch the BET Awards 2026 live for free: Time, host, nominees - Page Six",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMTFZX2F0RFNsUkt2bUlZMy13U0EzZ0dTakMxdng2ZlRSNUQ2akNSeUNXMHRNcnRHMjJnNkJzeVluR29GMFhZN3UydkpHLUVKbTFQMEhSamV5Rk1LSkV5UDFhalpQenQyWlktd21WREo3ZkRkYXhITVNXWFpWZm1zS2NaTUlpZUVnaVpBWE9HTXhSX19ieFNocDJKNFoxeVlOUWF6cQ?oc=5",
+          "title": "Stock futures edge higher, Asia mixed as renewed U.S.-Iran attacks push oil prices up: Live updates - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TU0NGQ09YelllZHBxYzEtRTQwU1o5LXM1WEZ2VFNtd01hZXF6N3lMdDd3WVJmT1BBM0tNN2FjdG5vbU9VY2ZrUkRNemlFeDVsVlB3dEx3Nl9sM3BYbzQxaDRiNDBTenYzY0J0QUd5VW1mOEx1UjdHQdIBfkFVX3lxTE1yRFlHdnhwX2QydWJWbHFhY3ZXUXR0LTRHV1NJNmFLdG1laUU0Y3lCbi1rM3VQU2k2SllNV1FuLVkzUGVqa3UwcVpzampLWHZ4ZlM3d0FZUVhpMkY0OExQTkJaSGdNOHZXemdJOW0wTFpzQjN5NEFHTlh1ZmlYQQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 20:00:00 GMT"
+          "published": "Mon, 29 Jun 2026 03:14:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Heat",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "France records around 1,000 additional deaths as extreme heat breaks European records - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNWp3QVd0ZG5MR05VMklHaHZYRVFsSmtibXdaV2pORDBIVXhfSFNwaGt4QUl4blQzeUNzMjV0S2NxbUtVbHh1a290NTB5ZGxXNnBiNjhab0g0dzRjTjVUM3N6Z091cTJZWHdwcEFxMDZZc0doSlZsVHQxS3d4T2VTZ1dzVmJYb19aYnpnUXpVajhLeWE4NW4xYW9kaTJDTGZqRVNEeTBxM0N6Znh1alhqeVVYdw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 29 Jun 2026 01:30:00 GMT"
+        },
+        {
+          "title": "A 'heat dome' is driving dangerous heat across the U.S. into the July 4 weekend - NPR",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSXFhMXdrM3FzYlN3QU1IM1h2VTNBakpUVUxqVjg4TUhTSWt3LVE2dHJmWjNpZkFLVl92NlRjZkxwR3FtOFV4VHg5eXd1TnEwVWl2dlFmdk45blhPRnNFMnA3ZUpmQ1VCM2VSSlBGc3ZEYkN6MXpnb1BkLW9kbU5mY1d0SWRaX04zQTFVMnFLUUFXQkV6bUpCRW1MODlHVFc0X2g4YWdITDBqdWpDQVlQTi1B?oc=5",
+          "source": "Google News",
+          "published": "Sun, 28 Jun 2026 23:37:11 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Trump",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump says Reflecting Pool 'in full use,' confirms DC golf course work - USA Today",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ3NIbDdQQmQxbDBXOFRtZk50LWZvYVV1Y09nU1psZV9DUHA0My1XMjB2cHZ1a0FBSVZ0b01NaC12LVU0VC1vQ3p2U1ZHQnBnMEFLSktNMHRRc01jSGlqVmlHNk56elBhWEFRWmxPaFpyUWp6S2pTd204MkJLbm1aT3BRUUg2dmlKblAtb05VV0ZtNEo0X0oteVV5eGhqbDFXaUQ4ZDNtaTNCQUMzVVNuTFlIeTU4T1JabmZ5MnppNC1oQQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 28 Jun 2026 22:40:00 GMT"
+        },
+        {
+          "title": "Biden calls Trump ‘a loser’, portraying him as incompetent, corrupt and vain - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZRVJfUjd1Y01QZ3czeGs3LUtGM0lyNDdhNjR5eUphekNPektsYy1IZmtiMmhYT2gyV0JKNzdTeTJTV05sai11QzZ5N2JfeThhdEJweVU5OGFuRlhJaWp3ejZtam5FR09rWGFtUVItd2VYdEZq?oc=5",
+          "source": "Google News",
+          "published": "Sun, 28 Jun 2026 17:36:00 GMT"
+        },
+        {
+          "title": "Comedian Bill Maher wins Twain humor prize as the Kennedy Center navigates Trump-era upheaval - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMmlBRjE2bkhFVmF3R0s3Mi1UYlFDRUVWa2lRZjBxbWIwSEk4ME9GbEdDVmtjWUFydHo5LVNTR1I5cGVsbExtLVVEZHM5VFFtNEFvSXkyYW9fSWhHV3F3UFk2d25Db2JXM3E5T2Yxa3piMi1tWjZjTU85WkthRnNyMlM0cC04c2h3c01PcVhHS3d5N0xnQjJiSV9yREEwU1EtbERDczVB?oc=5",
+          "source": "Google News",
+          "published": "Mon, 29 Jun 2026 02:35:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Full",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump says Reflecting Pool 'in full use,' confirms DC golf course work - USA Today",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ3NIbDdQQmQxbDBXOFRtZk50LWZvYVV1Y09nU1psZV9DUHA0My1XMjB2cHZ1a0FBSVZ0b01NaC12LVU0VC1vQ3p2U1ZHQnBnMEFLSktNMHRRc01jSGlqVmlHNk56elBhWEFRWmxPaFpyUWp6S2pTd204MkJLbm1aT3BRUUg2dmlKblAtb05VV0ZtNEo0X0oteVV5eGhqbDFXaUQ4ZDNtaTNCQUMzVVNuTFlIeTU4T1JabmZ5MnppNC1oQQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 28 Jun 2026 22:40:00 GMT"
+        },
+        {
+          "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" June 28, 2026 - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE16WVpoVmZFMWk3RThYRE44VU1JRUZUMlZVVm9fRTVZODJsYS1pdThQTFp0dXVZekdDc2F4QU9VRVpQWm9rcVZUMnFNd21vNG1TbGpHZ2t3d21sd1UzRFc3NHVLQ3hCYlhsZU5KZHVqRWQwVWg1WkppSmItdGI?oc=5",
+          "source": "Google News",
+          "published": "Sun, 28 Jun 2026 18:35:28 GMT"
+        },
+        {
+          "title": "Look up Monday evening for the full strawberry moon - WRAL",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HcGlBc0hxZ3lqX1VJQU53Wk5pZkRCSkgzeHhPQmlqTTJwcVJXVmVTajFwVFA1N05ZcDh5bk9ucjN4U2NPcmpvc1lmb1NFM3BncFVRRnFUMTlSY3ZGaV9ZLTRMdEFwUQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 28 Jun 2026 17:33:34 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Killed",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Procession honors three firefighters killed battling Utah-Colorado border wildfire - KUTV",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNm5pVlVnM25aQUViOFFjLXhPa2d4WEFDNTYwQ0tvMFlxZDc2aEFRNDA2bFRYOVY2MG5yS0U2SnNwbGFNUEZ3aklHYkJSa0lNdU1zSXROV2JVdEhwUzFyV19NaWQ5OW1wVFdIODZhb0ZPSllXOFdydHJFOXFCME1iYmlYbnBBMHVnRWlUMFhQNmpiMkZQemR2WlBnU2tDX0hIN0xBQVZyX0phS01WeXJGWk1GYmhqeDlhYzZIZw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 28 Jun 2026 21:05:36 GMT"
+        },
+        {
+          "title": "Pakistan says its security forces killed 29 fighters along Afghan border - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR19Jc1poM0dWbnJLdjlyTmtYRk9HMUhaeDhILVdqQmNmWjF4RC1jMzNmZW51Sl85QVVmeTZlQl9qMnZUWVJzQlZHUkNqTWVXNFhLR2dMdU1jb0psN3g5dHppRHZCbjM2aE9ROWZQRGJBbkpHNDB4bGhKcWtsbG1ZVC1zc1dmVW1DZFVxMjNacDhlT29DdmRnemVEVnExMFFfUGtXeGxoOVZWOUthLS1aOE1hY9IBuAFBVV95cUxNUEhRTFg1SVJfeXk5bUxBTkhyUGxldTFoWk1TZU9QX21xWTBITHcxUENhaDQwZVpLM29KWE9LaC1VanBUdXhJanh6YnhJY2JfQ2NRdk5lTlBUVkVGRGR0dWFSR0ZFUXdjNWtmM09hdlpvaG9MODlpTWFyYVFvWlNlTWNyZ0kzN01WazMwTEdqTk80QS01MlVzaGk5N2Frdi1MNlI3V05oUUVseHVWSXkzTVozZlAtMXAt?oc=5",
+          "source": "Google News",
+          "published": "Mon, 29 Jun 2026 01:13:08 GMT"
+        },
+        {
+          "title": "Eleven killed after plane carrying skydivers crashes in eastern France - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LRkpWaHJZTVE0QlM3aXBZT19KVUNzdnF5bmhZY2ItZFV6ckNvX25uaml6TmI5MVJPRERCOHZxWnZZbGpFMnpCVEdUVC1Bc3hWcXlPVzFvN0ExZw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 28 Jun 2026 18:34:07 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Updates",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Live updates: US and Iran to ‘stand down for now,’ US official says after exchange of fire - CNN",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JcVZwTU9wS3YxN1ZZcHgzWTRxdHpNN2Y0UlRDS1dneHhWQWdWTTNibkUwMGJGTjI1N3ROQWFjSkI3MURHTTNCVXBCS2hDYzc5em51MjNYalBRQ1M0dV9ILTNlTF9CYzFYTzVfTGkyU1RXcUR2alZUbA?oc=5",
+          "source": "Google News",
+          "published": "Mon, 29 Jun 2026 01:04:00 GMT"
+        },
+        {
+          "title": "Stock futures edge higher, Asia mixed as renewed U.S.-Iran attacks push oil prices up: Live updates - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TU0NGQ09YelllZHBxYzEtRTQwU1o5LXM1WEZ2VFNtd01hZXF6N3lMdDd3WVJmT1BBM0tNN2FjdG5vbU9VY2ZrUkRNemlFeDVsVlB3dEx3Nl9sM3BYbzQxaDRiNDBTenYzY0J0QUd5VW1mOEx1UjdHQdIBfkFVX3lxTE1yRFlHdnhwX2QydWJWbHFhY3ZXUXR0LTRHV1NJNmFLdG1laUU0Y3lCbi1rM3VQU2k2SllNV1FuLVkzUGVqa3UwcVpzampLWHZ4ZlM3d0FZUVhpMkY0OExQTkJaSGdNOHZXemdJOW0wTFpzQjN5NEFHTlh1ZmlYQQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 29 Jun 2026 03:14:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Among",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Two boys pulled from Venezuela earthquake rubble among 33 people rescued over weekend - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qVFpRODZWd3BYbEhXckdxSGJEU2o1ZjBXMTBhSWZ0VC1XMnFxZ3BYNk9aeXlVTVdRRjJCWDAzczA4T2oyRnVlMnZmWkdLWGJmRGpvSElCYXZjUQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 29 Jun 2026 01:23:32 GMT"
+        },
+        {
+          "title": "Supergirl is among DC's worst flops and was reportedly trimmed significantly after test screenings - Fortune",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcjNFcnotSnlpTWZCYTRLeEdrOHRsR3JYUlo2UUJ1ZVdoOHF4NS12M1F4T1hLUDFWblczd1RyUm5fZW1wbmF5a0ZvcC00eS1KMVprZ3dMUXFKblZmSXpLUDdJOHpTVWtLUHFORVYwWUs1QU5uYzA5RFNZNGhOZnh1b1NmQlEtUGxlYmozcXB2SnlQdE9XeFUwRkJnT0lqTWlpQm9tLTVESVZELVNZNXhfbDRQTGlzTDg?oc=5",
+          "source": "Google News",
+          "published": "Sun, 28 Jun 2026 21:48:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Weekend",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Two boys pulled from Venezuela earthquake rubble among 33 people rescued over weekend - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qVFpRODZWd3BYbEhXckdxSGJEU2o1ZjBXMTBhSWZ0VC1XMnFxZ3BYNk9aeXlVTVdRRjJCWDAzczA4T2oyRnVlMnZmWkdLWGJmRGpvSElCYXZjUQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 29 Jun 2026 01:23:32 GMT"
+        },
+        {
+          "title": "A 'heat dome' is driving dangerous heat across the U.S. into the July 4 weekend - NPR",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSXFhMXdrM3FzYlN3QU1IM1h2VTNBakpUVUxqVjg4TUhTSWt3LVE2dHJmWjNpZkFLVl92NlRjZkxwR3FtOFV4VHg5eXd1TnEwVWl2dlFmdk45blhPRnNFMnA3ZUpmQ1VCM2VSSlBGc3ZEYkN6MXpnb1BkLW9kbU5mY1d0SWRaX04zQTFVMnFLUUFXQkV6bUpCRW1MODlHVFc0X2g4YWdITDBqdWpDQVlQTi1B?oc=5",
+          "source": "Google News",
+          "published": "Sun, 28 Jun 2026 23:37:11 GMT"
+        }
+      ]
+    },
+    {
+      "word": "France",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "France records around 1,000 additional deaths as extreme heat breaks European records - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNWp3QVd0ZG5MR05VMklHaHZYRVFsSmtibXdaV2pORDBIVXhfSFNwaGt4QUl4blQzeUNzMjV0S2NxbUtVbHh1a290NTB5ZGxXNnBiNjhab0g0dzRjTjVUM3N6Z091cTJZWHdwcEFxMDZZc0doSlZsVHQxS3d4T2VTZ1dzVmJYb19aYnpnUXpVajhLeWE4NW4xYW9kaTJDTGZqRVNEeTBxM0N6Znh1alhqeVVYdw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 29 Jun 2026 01:30:00 GMT"
+        },
+        {
+          "title": "Eleven killed after plane carrying skydivers crashes in eastern France - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LRkpWaHJZTVE0QlM3aXBZT19KVUNzdnF5bmhZY2ItZFV6ckNvX25uaml6TmI5MVJPRERCOHZxWnZZbGpFMnpCVEdUVC1Bc3hWcXlPVzFvN0ExZw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 28 Jun 2026 18:34:07 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Records",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "France records around 1,000 additional deaths as extreme heat breaks European records - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNWp3QVd0ZG5MR05VMklHaHZYRVFsSmtibXdaV2pORDBIVXhfSFNwaGt4QUl4blQzeUNzMjV0S2NxbUtVbHh1a290NTB5ZGxXNnBiNjhab0g0dzRjTjVUM3N6Z091cTJZWHdwcEFxMDZZc0doSlZsVHQxS3d4T2VTZ1dzVmJYb19aYnpnUXpVajhLeWE4NW4xYW9kaTJDTGZqRVNEeTBxM0N6Znh1alhqeVVYdw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 29 Jun 2026 01:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Border",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Procession honors three firefighters killed battling Utah-Colorado border wildfire - KUTV",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNm5pVlVnM25aQUViOFFjLXhPa2d4WEFDNTYwQ0tvMFlxZDc2aEFRNDA2bFRYOVY2MG5yS0U2SnNwbGFNUEZ3aklHYkJSa0lNdU1zSXROV2JVdEhwUzFyV19NaWQ5OW1wVFdIODZhb0ZPSllXOFdydHJFOXFCME1iYmlYbnBBMHVnRWlUMFhQNmpiMkZQemR2WlBnU2tDX0hIN0xBQVZyX0phS01WeXJGWk1GYmhqeDlhYzZIZw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 28 Jun 2026 21:05:36 GMT"
+        },
+        {
+          "title": "Pakistan says its security forces killed 29 fighters along Afghan border - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR19Jc1poM0dWbnJLdjlyTmtYRk9HMUhaeDhILVdqQmNmWjF4RC1jMzNmZW51Sl85QVVmeTZlQl9qMnZUWVJzQlZHUkNqTWVXNFhLR2dMdU1jb0psN3g5dHppRHZCbjM2aE9ROWZQRGJBbkpHNDB4bGhKcWtsbG1ZVC1zc1dmVW1DZFVxMjNacDhlT29DdmRnemVEVnExMFFfUGtXeGxoOVZWOUthLS1aOE1hY9IBuAFBVV95cUxNUEhRTFg1SVJfeXk5bUxBTkhyUGxldTFoWk1TZU9QX21xWTBITHcxUENhaDQwZVpLM29KWE9LaC1VanBUdXhJanh6YnhJY2JfQ2NRdk5lTlBUVkVGRGR0dWFSR0ZFUXdjNWtmM09hdlpvaG9MODlpTWFyYVFvWlNlTWNyZ0kzN01WazMwTEdqTk80QS01MlVzaGk5N2Frdi1MNlI3V05oUUVseHVWSXkzTVozZlAtMXAt?oc=5",
+          "source": "Google News",
+          "published": "Mon, 29 Jun 2026 01:13:08 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Rescue",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "At least 117 dead dogs found in search at California animal rescue accused of abuse, officials said - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNREppeVpvbkhhQVpVeVlwZ1pUQ2tpS285dm5SZHNXMkR6d2FzcTRVbkM4dnlpbTkzdnFMd25GTjZGZDBMZkFpZ3hyRlFIZ1djS2tEemR3ZThxeFplcldNcV9oWUttZ0lBUU9VYVZCOTdUczJKQlZnY0NFNFhheVFOVGxBZnJTSjlIU0k5VmY4QW5yandMX1gw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 28 Jun 2026 20:24:00 GMT"
+        },
+        {
+          "title": "NASA races to save Swift telescope from falling back to Earth with daring rescue mission - Los Angeles Times",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLWRuSWJYQ0IyeklPU1haaWE0QkZXRGl1OEZJSERTTjl1TU5ZdDB4MU9NcmZuc1gxaEJoQlExcy16VmVrcVBCTEVVN3Zic05RQ1NXd2lNNmZFS2RMRGxoOXhtZzhkekpqTTE5RUdlV2VNTWxoMDFCYXhWVjFNZGJUQXljaHJXSlduUTVNUkM2cWxjckkzZ1dRUmp3S0tUUXpGTTNUVHFDdUhhZjU2UXIxZW03QlctQQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 28 Jun 2026 21:20:11 GMT"
         }
       ]
     },
@@ -146,137 +286,42 @@
           "published": "Sun, 28 Jun 2026 21:32:00 GMT"
         },
         {
-          "title": "Stock futures rise along with oil prices as traders weigh U.S. attacks on Iran over the weekend: Live updates - CNBC",
+          "title": "Stock futures edge higher, Asia mixed as renewed U.S.-Iran attacks push oil prices up: Live updates - CNBC",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TU0NGQ09YelllZHBxYzEtRTQwU1o5LXM1WEZ2VFNtd01hZXF6N3lMdDd3WVJmT1BBM0tNN2FjdG5vbU9VY2ZrUkRNemlFeDVsVlB3dEx3Nl9sM3BYbzQxaDRiNDBTenYzY0J0QUd5VW1mOEx1UjdHQdIBfkFVX3lxTE1yRFlHdnhwX2QydWJWbHFhY3ZXUXR0LTRHV1NJNmFLdG1laUU0Y3lCbi1rM3VQU2k2SllNV1FuLVkzUGVqa3UwcVpzampLWHZ4ZlM3d0FZUVhpMkY0OExQTkJaSGdNOHZXemdJOW0wTFpzQjN5NEFHTlh1ZmlYQQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 22:15:00 GMT"
+          "published": "Mon, 29 Jun 2026 03:14:00 GMT"
         }
       ]
     },
     {
-      "word": "Strikes",
+      "word": "Forces",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Iran attacks Bahrain and Kuwait following US strikes and threatens to halt talks - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcDBTQkFEbzlzV3FGUXhBeks0Wm5CV2RIU0J4aFcwTl9jRFRNeHRNbkxzVEZNa3ZNSTcwS1FDZm5PM3RDbVJuMFc0bWRwR1hhSlZFVGlMSkdvOC1GcnlLUWpUbjQ0aFlMYWN3X0gtdVBUWHZYSHNKR3BKelJtdUZ1dUpnTWVubU1BOWowd1N3aE1kckE1Uklya1huN25iLUxYM2Q5N0JtcVY?oc=5",
+          "title": "Pakistan says its security forces killed 29 fighters along Afghan border - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR19Jc1poM0dWbnJLdjlyTmtYRk9HMUhaeDhILVdqQmNmWjF4RC1jMzNmZW51Sl85QVVmeTZlQl9qMnZUWVJzQlZHUkNqTWVXNFhLR2dMdU1jb0psN3g5dHppRHZCbjM2aE9ROWZQRGJBbkpHNDB4bGhKcWtsbG1ZVC1zc1dmVW1DZFVxMjNacDhlT29DdmRnemVEVnExMFFfUGtXeGxoOVZWOUthLS1aOE1hY9IBuAFBVV95cUxNUEhRTFg1SVJfeXk5bUxBTkhyUGxldTFoWk1TZU9QX21xWTBITHcxUENhaDQwZVpLM29KWE9LaC1VanBUdXhJanh6YnhJY2JfQ2NRdk5lTlBUVkVGRGR0dWFSR0ZFUXdjNWtmM09hdlpvaG9MODlpTWFyYVFvWlNlTWNyZ0kzN01WazMwTEdqTk80QS01MlVzaGk5N2Frdi1MNlI3V05oUUVseHVWSXkzTVozZlAtMXAt?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 21:32:00 GMT"
+          "published": "Mon, 29 Jun 2026 01:13:08 GMT"
         },
         {
-          "title": "Pakistan says it carried out ground operation, strikes along Afghan border, killing 29 militants - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc250eHJQZFk2c1RkdkdnQ3RvRHd1QmV6OU8yQ3B3a3NEMlFiYXd1SXpOLVBqTmM4dnZMa2U4QnRKZFhQSlV1OG1lM0hkY1oybi0wd0QtV0UydlcwOEN1TkN6MzFoVnhrUFZVaXpwOU80T0dYMkoxRmtQQndQamZ6MXRCbk5sZy10WlMxOURpOXZLTkV0cW5HUGtHOE9ET3V4WnZwd3FQMA?oc=5",
+          "title": "Scheffler forces Monday playoff with Hovland at Travelers - ESPN",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSE1rMUJDeHVLZjlVSWZiSmhTSURaQUFpa1VTc1pRRDlWeGNDUVpUUjM2LVM4c1h4XzBrMGVaNDRobnFaaWM3YktVUWczLXVMMkdIRzVzS2xyMXBrbUI3R3FsQm5hUWRPQTBwSFVKMVMwZERnd0JtWUhNMEI4Y2JLalQ3OXhGaS10MjRHazhmbHZwODctUUx1NXFaZw?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 21:42:00 GMT"
+          "published": "Mon, 29 Jun 2026 00:54:00 GMT"
         }
       ]
     },
     {
-      "word": "Talks",
+      "word": "Rare",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Iran attacks Bahrain and Kuwait following US strikes and threatens to halt talks - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcDBTQkFEbzlzV3FGUXhBeks0Wm5CV2RIU0J4aFcwTl9jRFRNeHRNbkxzVEZNa3ZNSTcwS1FDZm5PM3RDbVJuMFc0bWRwR1hhSlZFVGlMSkdvOC1GcnlLUWpUbjQ0aFlMYWN3X0gtdVBUWHZYSHNKR3BKelJtdUZ1dUpnTWVubU1BOWowd1N3aE1kckE1Uklya1huN25iLUxYM2Q5N0JtcVY?oc=5",
+          "title": "The Cutthroat Battle to Become America’s Rare-Earth Champion - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVENyNWJQZnNHN19fX0xwZWc1dVF6UkpJcWp3RkdwcTZUdFVUak9LTUNST3RsQUEyazBsQTlNdzRnb2prQlhoTmo1X195N0FDYlhvWW1icFpmb1k0dTNMVy1rOHJUVkpPWHBkbmk4VERRMlJCVzNtLWtvM0lJQVIyaUtTT3VlLXN1c1dtQ1poWGRxQndFQjNVZ3NUeExvQQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 21:32:00 GMT"
-        },
-        {
-          "title": "Qatari citizen killed as Hormuz dispute freezes planned US-Iran talks - Ynetnews",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5taTgwRld3Zjl1U3JCQllmZnJlM3k4S2pYX1ZmdDRSeV9xQUFxZ2RCS0cwdnMzV0hkTmppazlnMVhlVzZoN3JaRkZ1RGo2MWYzWVlzOElB?oc=5",
-          "source": "Google News",
-          "published": "Sun, 28 Jun 2026 17:10:40 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Death",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Venezuela quake death toll reaches 1,450 as rescue work goes on - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObmhJQm00WWhEajdaTjRPWmRDWDVTcHhEVU1TQVBwVXRERjNpbUZkbVlydThPUGlxUXRiVXBaMkVjVUp2RGVxQUg4RHdqci1YSTFxamtkVFYzNlQtUmQwTURQdGdVX09Tb2p0cVgwZjM3YjRMaUEwekJIVGJyR0RXc1NWQ0pXTmV3VmtfdC05eEtnWWhic1E1QjBnR1VtblVRZkxfQjlxdV91VjgwLVVDTG1LNkRDUnNneWFsX2NvZlFxN05NYnN2bTY3WQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 28 Jun 2026 22:12:14 GMT"
-        },
-        {
-          "title": "GTA 6 could be the final death knell for physical media, but it still makes sense to pre-order - Creative Bloq",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTkRPY3NIR1VmYUt3TW5fb1E1NlVuU08xRmVxeS1kT3hnVmVMRTdFTVU1SGdiOXdUYjVTeUxZT3VoY216SktLMzlDY1dnM2poVzZiaFRwcF9LX3ZkbHZsV1cxeTNjUUhzUUZWcmFzVHgxcFd4MDN3aVNGZmJobEthekdRQXgwZW9MQWJRTlNWUloxbGdTejFVblBBcnhtdWZrN3Y5TUNOYkVXVWhGaVNOQXJ3?oc=5",
-          "source": "Google News",
-          "published": "Sun, 28 Jun 2026 07:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Work",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Venezuela quake death toll reaches 1,450 as rescue work goes on - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObmhJQm00WWhEajdaTjRPWmRDWDVTcHhEVU1TQVBwVXRERjNpbUZkbVlydThPUGlxUXRiVXBaMkVjVUp2RGVxQUg4RHdqci1YSTFxamtkVFYzNlQtUmQwTURQdGdVX09Tb2p0cVgwZjM3YjRMaUEwekJIVGJyR0RXc1NWQ0pXTmV3VmtfdC05eEtnWWhic1E1QjBnR1VtblVRZkxfQjlxdV91VjgwLVVDTG1LNkRDUnNneWFsX2NvZlFxN05NYnN2bTY3WQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 28 Jun 2026 22:12:14 GMT"
-        },
-        {
-          "title": "Trump says work on East Potomac public golf course to begin in September - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZVp6LWpTNjY5a3NVZ01RUlh6dGZZVDRZTHJFM19IRWtzMHBCZ2phQlgzSDhneDNfY2hJM2ZVVTZLTGNWeHhjWWNCUTJiR2lVV3FyUDdfenJTa2lxeHlBbnAtdV9hLVN5WTlFZXNEYlBTWFExYklWdTlpanVFMW1BOGV0ZG1ESDEzWDJIWGZZZjczbXVSSGxPZzNlSm1SeUExZFFsV2ktRFZtSHlRV29WY2VsMi1Rajk4RlY4?oc=5",
-          "source": "Google News",
-          "published": "Sun, 28 Jun 2026 21:00:25 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Border",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "3 firefighters killed, 2 injured while tackling wildfires on the Colorado-Utah border - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWE1LMnB3a0FPeUtod0p3b0VnYVNHWGg3ZXl3RVp1aTJVcVZadUFHZFRzWF9fWnpNanduYVZ6OEs2cVE2T05aR2pnRjlpV0FDenlpWHplLUMwNS1Ma3RFUDlQdVlMcmtPUlowNkg5ZkZ2NmktUFVtMDJvX0NTR2ptUmhZOUdMSUt1U2J3TmN2SU5zY3pNQjczbWFR?oc=5",
-          "source": "Google News",
-          "published": "Sun, 28 Jun 2026 22:55:00 GMT"
-        },
-        {
-          "title": "Pakistan says it carried out ground operation, strikes along Afghan border, killing 29 militants - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc250eHJQZFk2c1RkdkdnQ3RvRHd1QmV6OU8yQ3B3a3NEMlFiYXd1SXpOLVBqTmM4dnZMa2U4QnRKZFhQSlV1OG1lM0hkY1oybi0wd0QtV0UydlcwOEN1TkN6MzFoVnhrUFZVaXpwOU80T0dYMkoxRmtQQndQamZ6MXRCbk5sZy10WlMxOURpOXZLTkV0cW5HUGtHOE9ET3V4WnZwd3FQMA?oc=5",
-          "source": "Google News",
-          "published": "Sun, 28 Jun 2026 21:42:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Along",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Pakistan says it carried out ground operation, strikes along Afghan border, killing 29 militants - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc250eHJQZFk2c1RkdkdnQ3RvRHd1QmV6OU8yQ3B3a3NEMlFiYXd1SXpOLVBqTmM4dnZMa2U4QnRKZFhQSlV1OG1lM0hkY1oybi0wd0QtV0UydlcwOEN1TkN6MzFoVnhrUFZVaXpwOU80T0dYMkoxRmtQQndQamZ6MXRCbk5sZy10WlMxOURpOXZLTkV0cW5HUGtHOE9ET3V4WnZwd3FQMA?oc=5",
-          "source": "Google News",
-          "published": "Sun, 28 Jun 2026 21:42:00 GMT"
-        },
-        {
-          "title": "Stock futures rise along with oil prices as traders weigh U.S. attacks on Iran over the weekend: Live updates - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TU0NGQ09YelllZHBxYzEtRTQwU1o5LXM1WEZ2VFNtd01hZXF6N3lMdDd3WVJmT1BBM0tNN2FjdG5vbU9VY2ZrUkRNemlFeDVsVlB3dEx3Nl9sM3BYbzQxaDRiNDBTenYzY0J0QUd5VW1mOEx1UjdHQdIBfkFVX3lxTE1yRFlHdnhwX2QydWJWbHFhY3ZXUXR0LTRHV1NJNmFLdG1laUU0Y3lCbi1rM3VQU2k2SllNV1FuLVkzUGVqa3UwcVpzampLWHZ4ZlM3d0FZUVhpMkY0OExQTkJaSGdNOHZXemdJOW0wTFpzQjN5NEFHTlh1ZmlYQQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 28 Jun 2026 22:15:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Rise",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Stock futures rise along with oil prices as traders weigh U.S. attacks on Iran over the weekend: Live updates - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TU0NGQ09YelllZHBxYzEtRTQwU1o5LXM1WEZ2VFNtd01hZXF6N3lMdDd3WVJmT1BBM0tNN2FjdG5vbU9VY2ZrUkRNemlFeDVsVlB3dEx3Nl9sM3BYbzQxaDRiNDBTenYzY0J0QUd5VW1mOEx1UjdHQdIBfkFVX3lxTE1yRFlHdnhwX2QydWJWbHFhY3ZXUXR0LTRHV1NJNmFLdG1laUU0Y3lCbi1rM3VQU2k2SllNV1FuLVkzUGVqa3UwcVpzampLWHZ4ZlM3d0FZUVhpMkY0OExQTkJaSGdNOHZXemdJOW0wTFpzQjN5NEFHTlh1ZmlYQQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 28 Jun 2026 22:15:00 GMT"
+          "published": "Mon, 29 Jun 2026 03:00:00 GMT"
         },
         {
           "title": "This rare tick-borne disease is on the rise in the U.S. - The Washington Post",
@@ -287,59 +332,40 @@
       ]
     },
     {
-      "word": "Trade",
+      "word": "Earth",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Forget the ‘Sell America’ trade: Why U.S. markets keep proving the naysayers wrong - MarketWatch",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONFljSzJTWnBPUDRDeW02dk1hc0poeUFNYW9Vdzh2N2ktaklpamd4WUhZRDd2WXFYLTJJQjYxVnZpU3ZCRUN0alQ2WEhaZ05COXo0UkVGR2xDVm5mcko2ZExtcFEyQjk5VzhTdXdXUC1vd2pYX2RhallCdm9OdHlxMFYtUUdmRlJiNWlyNlVVYVo5S0hKanBqenplYVRNb2ZHc2p3bzI3b09QMUJwTWtkUFJ1VTNuZkNXTi0zM1Bn?oc=5",
+          "title": "The Cutthroat Battle to Become America’s Rare-Earth Champion - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVENyNWJQZnNHN19fX0xwZWc1dVF6UkpJcWp3RkdwcTZUdFVUak9LTUNST3RsQUEyazBsQTlNdzRnb2prQlhoTmo1X195N0FDYlhvWW1icFpmb1k0dTNMVy1rOHJUVkpPWHBkbmk4VERRMlJCVzNtLWtvM0lJQVIyaUtTT3VlLXN1c1dtQ1poWGRxQndFQjNVZ3NUeExvQQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 13:00:00 GMT"
+          "published": "Mon, 29 Jun 2026 03:00:00 GMT"
         },
         {
-          "title": "Eight possible destinations if the Blue Jackets decide to trade Zach Werenski - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMy1GMlM5RHBfSnFNaEJnUEZ1SlZaU29IeHMwOGtTSlNGVmdRQWhDRG9sNmtmQXRrM0JqVFZJUjdBcW9lM3lVUzhLdDNPWFZuZHlrcUFjVXJXTkVDZVh3eGVjWjRiT0NKS1RITzAydU15N2tBckZXRlR0WXlHa0tWMDN0ZGRzQ2lIQ0NISHg1dHJ6clVsc0pjSWE2aXdfT1E?oc=5",
+          "title": "NASA races to save Swift telescope from falling back to Earth with daring rescue mission - Los Angeles Times",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLWRuSWJYQ0IyeklPU1haaWE0QkZXRGl1OEZJSERTTjl1TU5ZdDB4MU9NcmZuc1gxaEJoQlExcy16VmVrcVBCTEVVN3Zic05RQ1NXd2lNNmZFS2RMRGxoOXhtZzhkekpqTTE5RUdlV2VNTWxoMDFCYXhWVjFNZGJUQXljaHJXSlduUTVNUkM2cWxjckkzZ1dRUmp3S0tUUXpGTTNUVHFDdUhhZjU2UXIxZW03QlctQQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 10:00:13 GMT"
+          "published": "Sun, 28 Jun 2026 21:20:11 GMT"
         }
       ]
     },
     {
-      "word": "Final",
+      "word": "Ways",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "GTA 6 could be the final death knell for physical media, but it still makes sense to pre-order - Creative Bloq",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTkRPY3NIR1VmYUt3TW5fb1E1NlVuU08xRmVxeS1kT3hnVmVMRTdFTVU1SGdiOXdUYjVTeUxZT3VoY216SktLMzlDY1dnM2poVzZiaFRwcF9LX3ZkbHZsV1cxeTNjUUhzUUZWcmFzVHgxcFd4MDN3aVNGZmJobEthekdRQXgwZW9MQWJRTlNWUloxbGdTejFVblBBcnhtdWZrN3Y5TUNOYkVXVWhGaVNOQXJ3?oc=5",
+          "title": "Instagram is testing more ways to customize ‘Your Algorithm’ - TechCrunch",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ1ZYT0VGNXQzeFU4cG1aV3pGMzJYVnRYeV9USC10RVo4S0RwT0I3c1ZzRmdiZlNSWjJpLXc4bXUxdmFiTnQzNU9mcVV5a3VOZlM4SnNjd0xlYVM1NlM5WndlMVRNZ2ZubWtUYmNiYkd6NTl4QXg4YVZveTVWSXZnQlIya3VJU243aWg2SGtQeW94U1VHekRORzVCVDRjaThGakpYQkNB?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 07:00:00 GMT"
+          "published": "Sat, 27 Jun 2026 21:27:37 GMT"
         },
         {
-          "title": "Taylor Swift Gets Mixed Boos, Cheers at Alan Jackson's Final Concert in Nashville - Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbnotaVJ4Rm9VRmhOQl9NYnVWQXktcDVMcWFvYVk3YzIydG1CTHF3X1ZWdjhsNUdCVWw5UkNwWmtnUnN6aC1xUWd6M3MyNF9tZUw1RXZ4dDRpT1hvSkt6ckI0ME5MY284SllnZkdXcWtuMWlZVkxQUGxNNHlBZktHUWQxZDQ0dnNaZzhUYjgxUG1GcllLMFRWZUtTZUtiakhRbGZCMXVKNWQtZWNNMWN0cnhJbmlZMEJIV3Q0cC00QXcta3dyX3B1Z3hKRVhScWlSMDVUQXZnREZmOHRpWWc?oc=5",
+          "title": "Four easy ways to live longer - vox.com",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQzJKVjZlWHF5Wnh2ZE5Sd21wMHF2TkxIRl9vc1dwOEN6X0J6eE5pVnpJVFdFNXVuMVktTk1QSnJOS05McXdVbVZyZGpyTnZhZG1yTkozRWdOTXdST1gwQTlMcVhhNkJDVXdBZ19WYk45VGtRM0ZwZ3cxSjNLY3lySGVEQWJ2a1BzLW9Td2hUc0pKNGlQM1RoZHhn?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 19:30:05 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Still",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "GTA 6 could be the final death knell for physical media, but it still makes sense to pre-order - Creative Bloq",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTkRPY3NIR1VmYUt3TW5fb1E1NlVuU08xRmVxeS1kT3hnVmVMRTdFTVU1SGdiOXdUYjVTeUxZT3VoY216SktLMzlDY1dnM2poVzZiaFRwcF9LX3ZkbHZsV1cxeTNjUUhzUUZWcmFzVHgxcFd4MDN3aVNGZmJobEthekdRQXgwZW9MQWJRTlNWUloxbGdTejFVblBBcnhtdWZrN3Y5TUNOYkVXVWhGaVNOQXJ3?oc=5",
-          "source": "Google News",
-          "published": "Sun, 28 Jun 2026 07:00:00 GMT"
-        },
-        {
-          "title": "Peter Safran Still “Confident” In DCU Strategy After ‘Supergirl’ Didn’t Meet “Box Office Expectations” - Deadline",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcGI0ZmlrWUQ5VHVranJnXy1nUzFFaTUyalR6eTRyZGtuNEFpMjBYcVYwcDhUTVZsN3EzNHk3Zzk2T2JjVUhUbmZaandTTDlRSkJIQjBlMnF0c2tKd3BUZEk0WTFSelRTRUtPa0NDSnIyTE1mZXNEVWFUenRVM0pmX2dYRnZYLVlNaXM2dW9wbjI3czlhR2NJanctbWsxUQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 28 Jun 2026 22:29:00 GMT"
+          "published": "Sun, 28 Jun 2026 12:00:00 GMT"
         }
       ]
     },
@@ -357,40 +383,40 @@
       ]
     },
     {
-      "word": "Swift",
+      "word": "South",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Taylor Swift Gets Mixed Boos, Cheers at Alan Jackson's Final Concert in Nashville - Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbnotaVJ4Rm9VRmhOQl9NYnVWQXktcDVMcWFvYVk3YzIydG1CTHF3X1ZWdjhsNUdCVWw5UkNwWmtnUnN6aC1xUWd6M3MyNF9tZUw1RXZ4dDRpT1hvSkt6ckI0ME5MY284SllnZkdXcWtuMWlZVkxQUGxNNHlBZktHUWQxZDQ0dnNaZzhUYjgxUG1GcllLMFRWZUtTZUtiakhRbGZCMXVKNWQtZWNNMWN0cnhJbmlZMEJIV3Q0cC00QXcta3dyX3B1Z3hKRVhScWlSMDVUQXZnREZmOHRpWWc?oc=5",
+          "title": "Fireball spotted over south Louisiana - WAFB",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YUEktU0hGdlF5UGdySllqNk82a1dyVjFaXzQwZTc4Mnc4c3FHUlhGNkhYNkNKQy1NdFpvc0hpckJkZmV0c3hISU9yZ3AxNjR3TW5PVV94LU53RGpiNDRldVZ1cVFoMmFaSVNJam8teDJNMWQzUmlKWUZn0gGOAUFVX3lxTFBWY000enhYbUszMHQtR3pQdjhDaFBjQWJROEM2aWdWNkk5MU9OR3JmZUpwV3VfMC1xb05SNUs1Nk1vSURLRWJyRS15SUVTOTdKTHcySGVqMk82U0NtOEdSc29TNzVWNHRyWlptcnFDQXdRaVEzV1M0UE80SnJONk9QUkhnekdvcDVyWWJ6ZEE?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 19:30:05 GMT"
+          "published": "Sun, 28 Jun 2026 14:46:00 GMT"
         },
         {
-          "title": "NASA races to save Swift telescope from falling back to Earth - ABC News - Breaking News, Latest News and Videos",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMEF2eFAzelBJbGhtZEFILTJIN2FkMzJ4TFhWeFB0dG5YUlZ2Zk5tNHFfMnhCOEUtRjRNdTJiZXUydjZYcjJFRXJwYVFLZDFDc3NiUHBLOXFZUWxNaUptRWJFX0pxZTdabmJmVldxX3hOZnF1aHM3VFlieWNTX25aaTRDWmJIMmVMbE1PbXNPWEpjX214cWNGeVZtb0k4ZzBmY1J3?oc=5",
+          "title": "Canada's World Cup knockout stage win vs. South Africa was equally forgettable as it was historic - CBS Sports",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPXzVVUXNRYUprMFJhWk9CVUxhZEEtdmZQUWtKYmlSRWt3M0pLS2dqRm5NNlE4a2dJYVo3VGk3aHg4ZDNUOVNNYVFPTDJEYzJVQk1xR2xyVVJEWVFOMXpOR3lKRVdFOHd3bzYzWEVEbDVFV0E5V3F3cU9kb3VLM1g1Y3NKblRrS1pSaUhlaWRvVkNQdw?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 16:53:37 GMT"
+          "published": "Sun, 28 Jun 2026 22:52:05 GMT"
         }
       ]
     },
     {
-      "word": "Concert",
+      "word": "Monday",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Taylor Swift Gets Mixed Boos, Cheers at Alan Jackson's Final Concert in Nashville - Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbnotaVJ4Rm9VRmhOQl9NYnVWQXktcDVMcWFvYVk3YzIydG1CTHF3X1ZWdjhsNUdCVWw5UkNwWmtnUnN6aC1xUWd6M3MyNF9tZUw1RXZ4dDRpT1hvSkt6ckI0ME5MY284SllnZkdXcWtuMWlZVkxQUGxNNHlBZktHUWQxZDQ0dnNaZzhUYjgxUG1GcllLMFRWZUtTZUtiakhRbGZCMXVKNWQtZWNNMWN0cnhJbmlZMEJIV3Q0cC00QXcta3dyX3B1Z3hKRVhScWlSMDVUQXZnREZmOHRpWWc?oc=5",
+          "title": "Scheffler forces Monday playoff with Hovland at Travelers - ESPN",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSE1rMUJDeHVLZjlVSWZiSmhTSURaQUFpa1VTc1pRRDlWeGNDUVpUUjM2LVM4c1h4XzBrMGVaNDRobnFaaWM3YktVUWczLXVMMkdIRzVzS2xyMXBrbUI3R3FsQm5hUWRPQTBwSFVKMVMwZERnd0JtWUhNMEI4Y2JLalQ3OXhGaS10MjRHazhmbHZwODctUUx1NXFaZw?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 19:30:05 GMT"
+          "published": "Mon, 29 Jun 2026 00:54:00 GMT"
         },
         {
-          "title": "Noah Kahan Seemingly Addresses Alleged Fan Pooping Incident at Philadelphia Concert - E! News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS1dPQVJYTTk2NEs5MDM1Y3FrQXVYNUloTFEzVl9SVjQza2djNm5PNkxBcU9ScWRpRVJ4dkRVdzU1dUQ0ekp6OGh1ZTY5WkhiMnByanp3RFYtSHF4NkZCZzd5M0NJRldWWkNJc3l1WkYtOEhPZW9zdmx0cTR3ZmpCOWZqMFNOUzJ5SURVSWpQYzhHWktYUm5rSQ?oc=5",
+          "title": "Look up Monday evening for the full strawberry moon - WRAL",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HcGlBc0hxZ3lqX1VJQU53Wk5pZkRCSkgzeHhPQmlqTTJwcVJXVmVTajFwVFA1N05ZcDh5bk9ucjN4U2NPcmpvc1lmb1NFM3BncFVRRnFUMTlSY3ZGaV9ZLTRMdEFwUQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 14:19:00 GMT"
+          "published": "Sun, 28 Jun 2026 17:33:34 GMT"
         }
       ]
     },
@@ -400,100 +426,113 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Who is in round of 16? Updated World Cup bracket, standings and results - USA Today",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSUhQQzNCUkd6TnFPbmVpY09FT1dROW9WRUJpSzVtbUJNSnpLZTV4SEN3YkVZQVdhZTVtbDczY1hUV1ZpRUtJQlFQNjExMmdDWlg2WkdXYzByeXhRVUREal9lUDRhRDV2MWgxQWk5bzdwZVFnT01VU1IwOFlTM2g2U2ZFNkVQOVBHS2E0U1NuNGp2UkMwY3Z1QmlQVzAzbEw0di16LVVYVUh5SDN4bHRLTmhCaXZLQlowdDJFZg?oc=5",
+          "title": "World Cup Round of 32: Which teams qualified or exited the tournament - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRlBjejdZSzZHTVJFcmJiRTBvazkwa0JOVjUyUTg1N1IwRnh5ejhmMV9vTEdOWHlxUUM1SWtfQy1zUzlHTjU5Q3dxZlVCQkZjZjBCWjY0VUZZUVlHU2dMQWFsZmZQcTIxSklIRElDZFVleXp6RUR6VEx3Yk85b0N5R3NWaGdmeV9RdTdONU5udkFUeWxBQXc1alJ2Q2NJeklFN0JmTGFOYkhxandZbzNCaTViTHrSAboBQVVfeXFMTmliUEN1eElveDNIMF9KM0Ywak5henpnNEJoVHBxZWJHNFNyY2tBYm5FMGF1THo0LWxtcWZ5Tjk1NFROZ1JqRVFCZmJiVzEwQV9sMVZndHBmeTBmSGpJOXFuREFDeUFRS0dyNkdRMXc2d0gtVjVYVk0wSTU3eXM0MzVXZnNmVlBSVGRKQWh2SUJNdHpPQ1V0cWZvUmliWUU5STlBNTVzVGtvLXhMNGRUeGQ1LTdwdWNVNC1R?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 21:41:00 GMT"
+          "published": "Mon, 29 Jun 2026 03:33:28 GMT"
         },
         {
-          "title": "Inside the World Cup knockout stage bracket: Some teams have an easier path than others - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNmJobzRKLWwxdHpHb2dNdm1TMDl0MHlVY1hsQmtmellPZkx6dkkxR2xLWHhwRnd2MGFOQ2Nldmw4V0wyTVk4Uldfc3NwWGZuTE5NQ3U2X0xIeWZjTzNmbWF1Y1Vwa3hDcTZ0dWdvVUhzNmJNRzB5ZzBhdmdKT2tzRW9oOWJRU1YwRmIwVXRNM1M1UXM?oc=5",
+          "title": "Canada's World Cup knockout stage win vs. South Africa was equally forgettable as it was historic - CBS Sports",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPXzVVUXNRYUprMFJhWk9CVUxhZEEtdmZQUWtKYmlSRWt3M0pLS2dqRm5NNlE4a2dJYVo3VGk3aHg4ZDNUOVNNYVFPTDJEYzJVQk1xR2xyVVJEWVFOMXpOR3lKRVdFOHd3bzYzWEVEbDVFV0E5V3F3cU9kb3VLM1g1Y3NKblRrS1pSaUhlaWRvVkNQdw?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 21:18:00 GMT"
+          "published": "Sun, 28 Jun 2026 22:52:05 GMT"
         }
       ]
     },
     {
-      "word": "Bracket",
+      "word": "win",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Who is in round of 16? Updated World Cup bracket, standings and results - USA Today",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSUhQQzNCUkd6TnFPbmVpY09FT1dROW9WRUJpSzVtbUJNSnpLZTV4SEN3YkVZQVdhZTVtbDczY1hUV1ZpRUtJQlFQNjExMmdDWlg2WkdXYzByeXhRVUREal9lUDRhRDV2MWgxQWk5bzdwZVFnT01VU1IwOFlTM2g2U2ZFNkVQOVBHS2E0U1NuNGp2UkMwY3Z1QmlQVzAzbEw0di16LVVYVUh5SDN4bHRLTmhCaXZLQlowdDJFZg?oc=5",
+          "title": "Wimbledon experts' picks: Who will win? - ESPN",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ3lYc3NRcmhNeXp4RzVTb1RuNFhSZF9zZGk5UURicllGUWZpZ2JQbWxrWUYyY1ZxNVZRbnRNMFFkNW5lbEtET05XM1BHa0d5OXhNQmdnY3l3b3pnNFNMdHdRRV92ZldEOGs2bGt4TVVoU2pYUmxXS1E3SkVEbmZqNU9WRG1lRXItUk5HbTVzUTc3TG1NRGRkSHIxMHVVV3Vydk80bjBEc29VWnhxSktvOA?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 21:41:00 GMT"
+          "published": "Sun, 28 Jun 2026 17:48:00 GMT"
         },
         {
-          "title": "Inside the World Cup knockout stage bracket: Some teams have an easier path than others - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNmJobzRKLWwxdHpHb2dNdm1TMDl0MHlVY1hsQmtmellPZkx6dkkxR2xLWHhwRnd2MGFOQ2Nldmw4V0wyTVk4Uldfc3NwWGZuTE5NQ3U2X0xIeWZjTzNmbWF1Y1Vwa3hDcTZ0dWdvVUhzNmJNRzB5ZzBhdmdKT2tzRW9oOWJRU1YwRmIwVXRNM1M1UXM?oc=5",
+          "title": "Canada's World Cup knockout stage win vs. South Africa was equally forgettable as it was historic - CBS Sports",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPXzVVUXNRYUprMFJhWk9CVUxhZEEtdmZQUWtKYmlSRWt3M0pLS2dqRm5NNlE4a2dJYVo3VGk3aHg4ZDNUOVNNYVFPTDJEYzJVQk1xR2xyVVJEWVFOMXpOR3lKRVdFOHd3bzYzWEVEbDVFV0E5V3F3cU9kb3VLM1g1Y3NKblRrS1pSaUhlaWRvVkNQdw?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 21:18:00 GMT"
+          "published": "Sun, 28 Jun 2026 22:52:05 GMT"
         }
       ]
     },
     {
-      "word": "Bahrain",
+      "word": "Stand",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Iran attacks Bahrain and Kuwait following US strikes and threatens to halt talks - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcDBTQkFEbzlzV3FGUXhBeks0Wm5CV2RIU0J4aFcwTl9jRFRNeHRNbkxzVEZNa3ZNSTcwS1FDZm5PM3RDbVJuMFc0bWRwR1hhSlZFVGlMSkdvOC1GcnlLUWpUbjQ0aFlMYWN3X0gtdVBUWHZYSHNKR3BKelJtdUZ1dUpnTWVubU1BOWowd1N3aE1kckE1Uklya1huN25iLUxYM2Q5N0JtcVY?oc=5",
+          "title": "Live updates: US and Iran to ‘stand down for now,’ US official says after exchange of fire - CNN",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JcVZwTU9wS3YxN1ZZcHgzWTRxdHpNN2Y0UlRDS1dneHhWQWdWTTNibkUwMGJGTjI1N3ROQWFjSkI3MURHTTNCVXBCS2hDYzc5em51MjNYalBRQ1M0dV9ILTNlTF9CYzFYTzVfTGkyU1RXcUR2alZUbA?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 21:32:00 GMT"
+          "published": "Mon, 29 Jun 2026 01:04:00 GMT"
         }
       ]
     },
     {
-      "word": "Kuwait",
+      "word": "Official",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Iran attacks Bahrain and Kuwait following US strikes and threatens to halt talks - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcDBTQkFEbzlzV3FGUXhBeks0Wm5CV2RIU0J4aFcwTl9jRFRNeHRNbkxzVEZNa3ZNSTcwS1FDZm5PM3RDbVJuMFc0bWRwR1hhSlZFVGlMSkdvOC1GcnlLUWpUbjQ0aFlMYWN3X0gtdVBUWHZYSHNKR3BKelJtdUZ1dUpnTWVubU1BOWowd1N3aE1kckE1Uklya1huN25iLUxYM2Q5N0JtcVY?oc=5",
+          "title": "Live updates: US and Iran to ‘stand down for now,’ US official says after exchange of fire - CNN",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JcVZwTU9wS3YxN1ZZcHgzWTRxdHpNN2Y0UlRDS1dneHhWQWdWTTNibkUwMGJGTjI1N3ROQWFjSkI3MURHTTNCVXBCS2hDYzc5em51MjNYalBRQ1M0dV9ILTNlTF9CYzFYTzVfTGkyU1RXcUR2alZUbA?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 21:32:00 GMT"
+          "published": "Mon, 29 Jun 2026 01:04:00 GMT"
         }
       ]
     },
     {
-      "word": "Following",
+      "word": "Exchange",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Iran attacks Bahrain and Kuwait following US strikes and threatens to halt talks - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcDBTQkFEbzlzV3FGUXhBeks0Wm5CV2RIU0J4aFcwTl9jRFRNeHRNbkxzVEZNa3ZNSTcwS1FDZm5PM3RDbVJuMFc0bWRwR1hhSlZFVGlMSkdvOC1GcnlLUWpUbjQ0aFlMYWN3X0gtdVBUWHZYSHNKR3BKelJtdUZ1dUpnTWVubU1BOWowd1N3aE1kckE1Uklya1huN25iLUxYM2Q5N0JtcVY?oc=5",
+          "title": "Live updates: US and Iran to ‘stand down for now,’ US official says after exchange of fire - CNN",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JcVZwTU9wS3YxN1ZZcHgzWTRxdHpNN2Y0UlRDS1dneHhWQWdWTTNibkUwMGJGTjI1N3ROQWFjSkI3MURHTTNCVXBCS2hDYzc5em51MjNYalBRQ1M0dV9ILTNlTF9CYzFYTzVfTGkyU1RXcUR2alZUbA?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 21:32:00 GMT"
+          "published": "Mon, 29 Jun 2026 01:04:00 GMT"
         }
       ]
     },
     {
-      "word": "Threatens",
+      "word": "Fire",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Iran attacks Bahrain and Kuwait following US strikes and threatens to halt talks - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcDBTQkFEbzlzV3FGUXhBeks0Wm5CV2RIU0J4aFcwTl9jRFRNeHRNbkxzVEZNa3ZNSTcwS1FDZm5PM3RDbVJuMFc0bWRwR1hhSlZFVGlMSkdvOC1GcnlLUWpUbjQ0aFlMYWN3X0gtdVBUWHZYSHNKR3BKelJtdUZ1dUpnTWVubU1BOWowd1N3aE1kckE1Uklya1huN25iLUxYM2Q5N0JtcVY?oc=5",
+          "title": "Live updates: US and Iran to ‘stand down for now,’ US official says after exchange of fire - CNN",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JcVZwTU9wS3YxN1ZZcHgzWTRxdHpNN2Y0UlRDS1dneHhWQWdWTTNibkUwMGJGTjI1N3ROQWFjSkI3MURHTTNCVXBCS2hDYzc5em51MjNYalBRQ1M0dV9ILTNlTF9CYzFYTzVfTGkyU1RXcUR2alZUbA?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 21:32:00 GMT"
+          "published": "Mon, 29 Jun 2026 01:04:00 GMT"
         }
       ]
     },
     {
-      "word": "Halt",
+      "word": "Boys",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Iran attacks Bahrain and Kuwait following US strikes and threatens to halt talks - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcDBTQkFEbzlzV3FGUXhBeks0Wm5CV2RIU0J4aFcwTl9jRFRNeHRNbkxzVEZNa3ZNSTcwS1FDZm5PM3RDbVJuMFc0bWRwR1hhSlZFVGlMSkdvOC1GcnlLUWpUbjQ0aFlMYWN3X0gtdVBUWHZYSHNKR3BKelJtdUZ1dUpnTWVubU1BOWowd1N3aE1kckE1Uklya1huN25iLUxYM2Q5N0JtcVY?oc=5",
+          "title": "Two boys pulled from Venezuela earthquake rubble among 33 people rescued over weekend - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qVFpRODZWd3BYbEhXckdxSGJEU2o1ZjBXMTBhSWZ0VC1XMnFxZ3BYNk9aeXlVTVdRRjJCWDAzczA4T2oyRnVlMnZmWkdLWGJmRGpvSElCYXZjUQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 21:32:00 GMT"
+          "published": "Mon, 29 Jun 2026 01:23:32 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Pulled",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Two boys pulled from Venezuela earthquake rubble among 33 people rescued over weekend - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qVFpRODZWd3BYbEhXckdxSGJEU2o1ZjBXMTBhSWZ0VC1XMnFxZ3BYNk9aeXlVTVdRRjJCWDAzczA4T2oyRnVlMnZmWkdLWGJmRGpvSElCYXZjUQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 29 Jun 2026 01:23:32 GMT"
         }
       ]
     },
@@ -503,179 +542,140 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Venezuela quake death toll reaches 1,450 as rescue work goes on - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObmhJQm00WWhEajdaTjRPWmRDWDVTcHhEVU1TQVBwVXRERjNpbUZkbVlydThPUGlxUXRiVXBaMkVjVUp2RGVxQUg4RHdqci1YSTFxamtkVFYzNlQtUmQwTURQdGdVX09Tb2p0cVgwZjM3YjRMaUEwekJIVGJyR0RXc1NWQ0pXTmV3VmtfdC05eEtnWWhic1E1QjBnR1VtblVRZkxfQjlxdV91VjgwLVVDTG1LNkRDUnNneWFsX2NvZlFxN05NYnN2bTY3WQ?oc=5",
+          "title": "Two boys pulled from Venezuela earthquake rubble among 33 people rescued over weekend - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qVFpRODZWd3BYbEhXckdxSGJEU2o1ZjBXMTBhSWZ0VC1XMnFxZ3BYNk9aeXlVTVdRRjJCWDAzczA4T2oyRnVlMnZmWkdLWGJmRGpvSElCYXZjUQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 22:12:14 GMT"
+          "published": "Mon, 29 Jun 2026 01:23:32 GMT"
         }
       ]
     },
     {
-      "word": "Quake",
+      "word": "Earthquake",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Venezuela quake death toll reaches 1,450 as rescue work goes on - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObmhJQm00WWhEajdaTjRPWmRDWDVTcHhEVU1TQVBwVXRERjNpbUZkbVlydThPUGlxUXRiVXBaMkVjVUp2RGVxQUg4RHdqci1YSTFxamtkVFYzNlQtUmQwTURQdGdVX09Tb2p0cVgwZjM3YjRMaUEwekJIVGJyR0RXc1NWQ0pXTmV3VmtfdC05eEtnWWhic1E1QjBnR1VtblVRZkxfQjlxdV91VjgwLVVDTG1LNkRDUnNneWFsX2NvZlFxN05NYnN2bTY3WQ?oc=5",
+          "title": "Two boys pulled from Venezuela earthquake rubble among 33 people rescued over weekend - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qVFpRODZWd3BYbEhXckdxSGJEU2o1ZjBXMTBhSWZ0VC1XMnFxZ3BYNk9aeXlVTVdRRjJCWDAzczA4T2oyRnVlMnZmWkdLWGJmRGpvSElCYXZjUQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 22:12:14 GMT"
+          "published": "Mon, 29 Jun 2026 01:23:32 GMT"
         }
       ]
     },
     {
-      "word": "Toll",
+      "word": "Rubble",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Venezuela quake death toll reaches 1,450 as rescue work goes on - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObmhJQm00WWhEajdaTjRPWmRDWDVTcHhEVU1TQVBwVXRERjNpbUZkbVlydThPUGlxUXRiVXBaMkVjVUp2RGVxQUg4RHdqci1YSTFxamtkVFYzNlQtUmQwTURQdGdVX09Tb2p0cVgwZjM3YjRMaUEwekJIVGJyR0RXc1NWQ0pXTmV3VmtfdC05eEtnWWhic1E1QjBnR1VtblVRZkxfQjlxdV91VjgwLVVDTG1LNkRDUnNneWFsX2NvZlFxN05NYnN2bTY3WQ?oc=5",
+          "title": "Two boys pulled from Venezuela earthquake rubble among 33 people rescued over weekend - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qVFpRODZWd3BYbEhXckdxSGJEU2o1ZjBXMTBhSWZ0VC1XMnFxZ3BYNk9aeXlVTVdRRjJCWDAzczA4T2oyRnVlMnZmWkdLWGJmRGpvSElCYXZjUQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 22:12:14 GMT"
+          "published": "Mon, 29 Jun 2026 01:23:32 GMT"
         }
       ]
     },
     {
-      "word": "Reaches",
+      "word": "Rescued",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Venezuela quake death toll reaches 1,450 as rescue work goes on - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObmhJQm00WWhEajdaTjRPWmRDWDVTcHhEVU1TQVBwVXRERjNpbUZkbVlydThPUGlxUXRiVXBaMkVjVUp2RGVxQUg4RHdqci1YSTFxamtkVFYzNlQtUmQwTURQdGdVX09Tb2p0cVgwZjM3YjRMaUEwekJIVGJyR0RXc1NWQ0pXTmV3VmtfdC05eEtnWWhic1E1QjBnR1VtblVRZkxfQjlxdV91VjgwLVVDTG1LNkRDUnNneWFsX2NvZlFxN05NYnN2bTY3WQ?oc=5",
+          "title": "Two boys pulled from Venezuela earthquake rubble among 33 people rescued over weekend - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qVFpRODZWd3BYbEhXckdxSGJEU2o1ZjBXMTBhSWZ0VC1XMnFxZ3BYNk9aeXlVTVdRRjJCWDAzczA4T2oyRnVlMnZmWkdLWGJmRGpvSElCYXZjUQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 22:12:14 GMT"
+          "published": "Mon, 29 Jun 2026 01:23:32 GMT"
         }
       ]
     },
     {
-      "word": "Rescue",
+      "word": "Around",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Venezuela quake death toll reaches 1,450 as rescue work goes on - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObmhJQm00WWhEajdaTjRPWmRDWDVTcHhEVU1TQVBwVXRERjNpbUZkbVlydThPUGlxUXRiVXBaMkVjVUp2RGVxQUg4RHdqci1YSTFxamtkVFYzNlQtUmQwTURQdGdVX09Tb2p0cVgwZjM3YjRMaUEwekJIVGJyR0RXc1NWQ0pXTmV3VmtfdC05eEtnWWhic1E1QjBnR1VtblVRZkxfQjlxdV91VjgwLVVDTG1LNkRDUnNneWFsX2NvZlFxN05NYnN2bTY3WQ?oc=5",
+          "title": "France records around 1,000 additional deaths as extreme heat breaks European records - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNWp3QVd0ZG5MR05VMklHaHZYRVFsSmtibXdaV2pORDBIVXhfSFNwaGt4QUl4blQzeUNzMjV0S2NxbUtVbHh1a290NTB5ZGxXNnBiNjhab0g0dzRjTjVUM3N6Z091cTJZWHdwcEFxMDZZc0doSlZsVHQxS3d4T2VTZ1dzVmJYb19aYnpnUXpVajhLeWE4NW4xYW9kaTJDTGZqRVNEeTBxM0N6Znh1alhqeVVYdw?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 22:12:14 GMT"
+          "published": "Mon, 29 Jun 2026 01:30:00 GMT"
         }
       ]
     },
     {
-      "word": "Burgum",
+      "word": "Additional",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Burgum vows 'full' prosecution after vandals carved 350-foot gash into Lincoln Memorial Reflecting Pool - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUjVBcTFnSE93RlRjV05nbzV1M2ExOEw1TXVNQnI2RHM4dVBGeGtNbjdiSlRwSzRwTG9HYzJLOWZUZVg5amtiU3U1eDhyVkt1LTJycl95UDVRaUlSUFRydTFpOHRqUWltRF9YbmZSUVpyMnVmSzRmY3FEbHJuUmVTQi1UeGJTUnZHTEZQeTEzMHZzdlRNbGUxQUthVlRzVDdqSGdwcEstdHFDbDRnZDdhZjVWb2F4T3BabTlJZWQtREVuZ3oy?oc=5",
+          "title": "France records around 1,000 additional deaths as extreme heat breaks European records - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNWp3QVd0ZG5MR05VMklHaHZYRVFsSmtibXdaV2pORDBIVXhfSFNwaGt4QUl4blQzeUNzMjV0S2NxbUtVbHh1a290NTB5ZGxXNnBiNjhab0g0dzRjTjVUM3N6Z091cTJZWHdwcEFxMDZZc0doSlZsVHQxS3d4T2VTZ1dzVmJYb19aYnpnUXpVajhLeWE4NW4xYW9kaTJDTGZqRVNEeTBxM0N6Znh1alhqeVVYdw?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 20:00:42 GMT"
+          "published": "Mon, 29 Jun 2026 01:30:00 GMT"
         }
       ]
     },
     {
-      "word": "Vows",
+      "word": "Deaths",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Burgum vows 'full' prosecution after vandals carved 350-foot gash into Lincoln Memorial Reflecting Pool - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUjVBcTFnSE93RlRjV05nbzV1M2ExOEw1TXVNQnI2RHM4dVBGeGtNbjdiSlRwSzRwTG9HYzJLOWZUZVg5amtiU3U1eDhyVkt1LTJycl95UDVRaUlSUFRydTFpOHRqUWltRF9YbmZSUVpyMnVmSzRmY3FEbHJuUmVTQi1UeGJTUnZHTEZQeTEzMHZzdlRNbGUxQUthVlRzVDdqSGdwcEstdHFDbDRnZDdhZjVWb2F4T3BabTlJZWQtREVuZ3oy?oc=5",
+          "title": "France records around 1,000 additional deaths as extreme heat breaks European records - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNWp3QVd0ZG5MR05VMklHaHZYRVFsSmtibXdaV2pORDBIVXhfSFNwaGt4QUl4blQzeUNzMjV0S2NxbUtVbHh1a290NTB5ZGxXNnBiNjhab0g0dzRjTjVUM3N6Z091cTJZWHdwcEFxMDZZc0doSlZsVHQxS3d4T2VTZ1dzVmJYb19aYnpnUXpVajhLeWE4NW4xYW9kaTJDTGZqRVNEeTBxM0N6Znh1alhqeVVYdw?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 20:00:42 GMT"
+          "published": "Mon, 29 Jun 2026 01:30:00 GMT"
         }
       ]
     },
     {
-      "word": "Full",
+      "word": "Extreme",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Burgum vows 'full' prosecution after vandals carved 350-foot gash into Lincoln Memorial Reflecting Pool - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUjVBcTFnSE93RlRjV05nbzV1M2ExOEw1TXVNQnI2RHM4dVBGeGtNbjdiSlRwSzRwTG9HYzJLOWZUZVg5amtiU3U1eDhyVkt1LTJycl95UDVRaUlSUFRydTFpOHRqUWltRF9YbmZSUVpyMnVmSzRmY3FEbHJuUmVTQi1UeGJTUnZHTEZQeTEzMHZzdlRNbGUxQUthVlRzVDdqSGdwcEstdHFDbDRnZDdhZjVWb2F4T3BabTlJZWQtREVuZ3oy?oc=5",
+          "title": "France records around 1,000 additional deaths as extreme heat breaks European records - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNWp3QVd0ZG5MR05VMklHaHZYRVFsSmtibXdaV2pORDBIVXhfSFNwaGt4QUl4blQzeUNzMjV0S2NxbUtVbHh1a290NTB5ZGxXNnBiNjhab0g0dzRjTjVUM3N6Z091cTJZWHdwcEFxMDZZc0doSlZsVHQxS3d4T2VTZ1dzVmJYb19aYnpnUXpVajhLeWE4NW4xYW9kaTJDTGZqRVNEeTBxM0N6Znh1alhqeVVYdw?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 20:00:42 GMT"
+          "published": "Mon, 29 Jun 2026 01:30:00 GMT"
         }
       ]
     },
     {
-      "word": "Prosecution",
+      "word": "Breaks",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Burgum vows 'full' prosecution after vandals carved 350-foot gash into Lincoln Memorial Reflecting Pool - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUjVBcTFnSE93RlRjV05nbzV1M2ExOEw1TXVNQnI2RHM4dVBGeGtNbjdiSlRwSzRwTG9HYzJLOWZUZVg5amtiU3U1eDhyVkt1LTJycl95UDVRaUlSUFRydTFpOHRqUWltRF9YbmZSUVpyMnVmSzRmY3FEbHJuUmVTQi1UeGJTUnZHTEZQeTEzMHZzdlRNbGUxQUthVlRzVDdqSGdwcEstdHFDbDRnZDdhZjVWb2F4T3BabTlJZWQtREVuZ3oy?oc=5",
+          "title": "France records around 1,000 additional deaths as extreme heat breaks European records - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNWp3QVd0ZG5MR05VMklHaHZYRVFsSmtibXdaV2pORDBIVXhfSFNwaGt4QUl4blQzeUNzMjV0S2NxbUtVbHh1a290NTB5ZGxXNnBiNjhab0g0dzRjTjVUM3N6Z091cTJZWHdwcEFxMDZZc0doSlZsVHQxS3d4T2VTZ1dzVmJYb19aYnpnUXpVajhLeWE4NW4xYW9kaTJDTGZqRVNEeTBxM0N6Znh1alhqeVVYdw?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 20:00:42 GMT"
+          "published": "Mon, 29 Jun 2026 01:30:00 GMT"
         }
       ]
     },
     {
-      "word": "Vandals",
+      "word": "European",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Burgum vows 'full' prosecution after vandals carved 350-foot gash into Lincoln Memorial Reflecting Pool - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUjVBcTFnSE93RlRjV05nbzV1M2ExOEw1TXVNQnI2RHM4dVBGeGtNbjdiSlRwSzRwTG9HYzJLOWZUZVg5amtiU3U1eDhyVkt1LTJycl95UDVRaUlSUFRydTFpOHRqUWltRF9YbmZSUVpyMnVmSzRmY3FEbHJuUmVTQi1UeGJTUnZHTEZQeTEzMHZzdlRNbGUxQUthVlRzVDdqSGdwcEstdHFDbDRnZDdhZjVWb2F4T3BabTlJZWQtREVuZ3oy?oc=5",
+          "title": "France records around 1,000 additional deaths as extreme heat breaks European records - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNWp3QVd0ZG5MR05VMklHaHZYRVFsSmtibXdaV2pORDBIVXhfSFNwaGt4QUl4blQzeUNzMjV0S2NxbUtVbHh1a290NTB5ZGxXNnBiNjhab0g0dzRjTjVUM3N6Z091cTJZWHdwcEFxMDZZc0doSlZsVHQxS3d4T2VTZ1dzVmJYb19aYnpnUXpVajhLeWE4NW4xYW9kaTJDTGZqRVNEeTBxM0N6Znh1alhqeVVYdw?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 20:00:42 GMT"
+          "published": "Mon, 29 Jun 2026 01:30:00 GMT"
         }
       ]
     },
     {
-      "word": "Carved",
+      "word": "Reflecting",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Burgum vows 'full' prosecution after vandals carved 350-foot gash into Lincoln Memorial Reflecting Pool - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUjVBcTFnSE93RlRjV05nbzV1M2ExOEw1TXVNQnI2RHM4dVBGeGtNbjdiSlRwSzRwTG9HYzJLOWZUZVg5amtiU3U1eDhyVkt1LTJycl95UDVRaUlSUFRydTFpOHRqUWltRF9YbmZSUVpyMnVmSzRmY3FEbHJuUmVTQi1UeGJTUnZHTEZQeTEzMHZzdlRNbGUxQUthVlRzVDdqSGdwcEstdHFDbDRnZDdhZjVWb2F4T3BabTlJZWQtREVuZ3oy?oc=5",
+          "title": "Trump says Reflecting Pool 'in full use,' confirms DC golf course work - USA Today",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ3NIbDdQQmQxbDBXOFRtZk50LWZvYVV1Y09nU1psZV9DUHA0My1XMjB2cHZ1a0FBSVZ0b01NaC12LVU0VC1vQ3p2U1ZHQnBnMEFLSktNMHRRc01jSGlqVmlHNk56elBhWEFRWmxPaFpyUWp6S2pTd204MkJLbm1aT3BRUUg2dmlKblAtb05VV0ZtNEo0X0oteVV5eGhqbDFXaUQ4ZDNtaTNCQUMzVVNuTFlIeTU4T1JabmZ5MnppNC1oQQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 28 Jun 2026 20:00:42 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Foot",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Burgum vows 'full' prosecution after vandals carved 350-foot gash into Lincoln Memorial Reflecting Pool - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUjVBcTFnSE93RlRjV05nbzV1M2ExOEw1TXVNQnI2RHM4dVBGeGtNbjdiSlRwSzRwTG9HYzJLOWZUZVg5amtiU3U1eDhyVkt1LTJycl95UDVRaUlSUFRydTFpOHRqUWltRF9YbmZSUVpyMnVmSzRmY3FEbHJuUmVTQi1UeGJTUnZHTEZQeTEzMHZzdlRNbGUxQUthVlRzVDdqSGdwcEstdHFDbDRnZDdhZjVWb2F4T3BabTlJZWQtREVuZ3oy?oc=5",
-          "source": "Google News",
-          "published": "Sun, 28 Jun 2026 20:00:42 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Gash",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Burgum vows 'full' prosecution after vandals carved 350-foot gash into Lincoln Memorial Reflecting Pool - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUjVBcTFnSE93RlRjV05nbzV1M2ExOEw1TXVNQnI2RHM4dVBGeGtNbjdiSlRwSzRwTG9HYzJLOWZUZVg5amtiU3U1eDhyVkt1LTJycl95UDVRaUlSUFRydTFpOHRqUWltRF9YbmZSUVpyMnVmSzRmY3FEbHJuUmVTQi1UeGJTUnZHTEZQeTEzMHZzdlRNbGUxQUthVlRzVDdqSGdwcEstdHFDbDRnZDdhZjVWb2F4T3BabTlJZWQtREVuZ3oy?oc=5",
-          "source": "Google News",
-          "published": "Sun, 28 Jun 2026 20:00:42 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Lincoln",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Burgum vows 'full' prosecution after vandals carved 350-foot gash into Lincoln Memorial Reflecting Pool - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUjVBcTFnSE93RlRjV05nbzV1M2ExOEw1TXVNQnI2RHM4dVBGeGtNbjdiSlRwSzRwTG9HYzJLOWZUZVg5amtiU3U1eDhyVkt1LTJycl95UDVRaUlSUFRydTFpOHRqUWltRF9YbmZSUVpyMnVmSzRmY3FEbHJuUmVTQi1UeGJTUnZHTEZQeTEzMHZzdlRNbGUxQUthVlRzVDdqSGdwcEstdHFDbDRnZDdhZjVWb2F4T3BabTlJZWQtREVuZ3oy?oc=5",
-          "source": "Google News",
-          "published": "Sun, 28 Jun 2026 20:00:42 GMT"
+          "published": "Sun, 28 Jun 2026 22:40:00 GMT"
         }
       ]
     }
