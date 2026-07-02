@@ -1,242 +1,94 @@
 {
   "language": "ko",
-  "last_updated": 1782948129.8428113,
+  "last_updated": 1782965377.0131671,
   "count": 40,
   "trends": [
+    {
+      "word": "전국",
+      "count": 3,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "주말부터 다시 장맛비…월요일 전국 강하고 많은 비 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90TWx4U0E3Ty1fWjZVVUVtbXc4YTBkSml4ZzI0cjB4aWxQMm1zY0hqVWRJRGJUbVdYdTFUOU13b2cwU0tKZkIyOFl6TU05d2xuV084bmNTYnRZeExqVTFVWjNZS3hFNlE?oc=5",
+          "source": "Google News",
+          "published": "Thu, 02 Jul 2026 02:51:00 GMT"
+        },
+        {
+          "title": "전국 곳곳 천둥, 번개, 강한 소나기…낮 최고 30도 ‘끈적한 더위’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pS3F1UjRUS2FUX3BNOGlhcnlNSndJVVVESlh2dlJWY2NRRGRjNElseHdVUDM2blM4SHpoT2h3dGd3cFRjVHlnSl9GRGYtazFMVDZ2Wm5wd2JQMjlGZGYtTUR2enBwd0RmREZwMA?oc=5",
+          "source": "Google News",
+          "published": "Thu, 02 Jul 2026 00:31:00 GMT"
+        },
+        {
+          "title": "위고비 기전특성·임상근거·처방사례 전국 임상의들과 공유 - 메디칼업저버",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WTU82dW5RRm0zdjZHa1NYMk9QWEZzTFRLeTdnd0RTcFhJamJHSE1Cek52alhLaVJKdkdtMV8zQ3dCWkw3UU1ZSUV5TjV0SXFFNkxGd0pQRWd1cGc3RTJwVUdOaTFTX1lXbGln?oc=5",
+          "source": "Google News",
+          "published": "Wed, 01 Jul 2026 06:11:39 GMT"
+        }
+      ]
+    },
     {
       "word": "대통령",
       "count": 2,
       "category": "PERSON",
       "articles": [
         {
-          "title": "이 대통령·문 전 대통령 “민주당 내 단합”…전대 갈등 수습될까 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FNm92X2FKZTJsVmlIVnNQLUZKeUdJVzZuZ0U3OEZYeVRvTWd6WUNMSk5objJSWmd5b0dXSTZPWnJFSXYzT0daa2NhTWpuVGJ3SHVGUnRFWlFpaVZDMFlOaG9URWZzWFkyZXhv?oc=5",
+          "title": "한성숙 “이 대통령 ‘국민 목숨 살리라’ 지시…자살·산재 AI 분석 대책 수립” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lRWtDaE45YWpMRHRRLXJXa3U2NkhTbS1YalRQR3BFLU9na0FMQS1PM1dUbW45OF9adUx2TVZ3ZzRWaFlCUUVlWW5paHoyTDBxalE3VnE3NnIxQdIBX0FVX3lxTE5RWWJOTUNkQVowdDVFeEt2R19saDVTYTBJZ0FrbzhQVHZjRmdFMmlMR19TN01OMFduM3MwNm1Uc2tvTGpvdmR1VVJkOWhsT1padzRvNm5ybWNONkFXTllr?oc=5",
           "source": "Google News",
-          "published": "Wed, 01 Jul 2026 13:06:00 GMT"
+          "published": "Thu, 02 Jul 2026 01:58:00 GMT"
         },
         {
-          "title": "이 대통령, ’태움’에 숨진 간호사 소식에 “끔찍한 폭력“ - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zeTdqMXA1djF3eGdaRElDcHRTa0NTaEhncHdhLWlWcmlNbXUtOTh0VDhXSkRwREN3OEpsM2E4azZiTmM1VzhCX0p0bjhCUklxalBoQkk5M0lINm5XNUdjdUFUNUpDLTg?oc=5",
+          "title": "이 대통령 “충청, AI 혁신 중심으로…이재용 투자 압박설은 구태” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zclhPa3lPNkFZdVpoZFpJS1h3cmRMckpiSFBRMWxxaXZEVDJ2UXpPZ2VSNDFMaFZiMEdqYVozZDZQTTdTM24tS2FLLU05cHZUTlZHNTl3WVc3N0xBSEl4UExsd3hqdTdQWXdN?oc=5",
           "source": "Google News",
-          "published": "Wed, 01 Jul 2026 11:44:44 GMT"
+          "published": "Thu, 02 Jul 2026 02:58:00 GMT"
         }
       ]
     },
     {
-      "word": "직접",
+      "word": "급락",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "올림픽공원 찾는 선관위 국조특위, 개표소 안 투표함 직접 살핀다 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11RWJ3a0s2a1JMZW11eGVtZHVkVG1wSGlQM3N2LUVMcVExVEtUTXJaQ0hteWR1a1lURFBfZW1tX0hubEtDUzZXVlVKY0E1SnhCRkJkb2dFN3E2QdIBX0FVX3lxTE9IUFNCTFhmc0swdF9lTnlBN3pHRG5SSWRQV3I3QkpITlRkQXpNbVc1eFpwWTZ3RWg4SWJ3Q204U2lNdjNtdmFLSDZwdjhCRjBhaWpMUkI1NnBxbUViNnI4?oc=5",
+          "title": "[속보] 코스피 급락에 매도 사이드카 발동…8,000선 깨져 - 경기일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xWHVDVjYycmpteEFTczQzMXFHZlplWHVTRzlGbDQtcXhXN05lT0VqZHlGc09CWEd2QmJERjVYTWtQaXZROUFGeTZDRGIzQ0lNTGRsQkJ4RlJMd2M?oc=5",
           "source": "Google News",
-          "published": "Wed, 01 Jul 2026 22:44:00 GMT"
+          "published": "Thu, 02 Jul 2026 00:15:00 GMT"
         },
         {
-          "title": "‘홍명보 선임 의혹’ 고발사건, 서울경찰청이 직접 수사키로 - 문화일보",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wclpMUzNsRU5xZzlCWFRDeUVGdC1IZXI1RndCdjlSbGp2QlFKSG9LLTlvNGNXOE5OTDRPT0FxYjlPc0F3dy16N1MxZTl2SDZZ?oc=5",
+          "title": "[뉴욕증시] AI 컴퓨팅 용량 남아돈다는데…반도체주 급락 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54Y2k3Sjc1RnNjYnJuY2RjdHJRRHAtZVhFWnZKOHV2NVo1VDdUWEJOaFdPTlg0WG9JbFBSM0V6a3pJUTZDcUxWSFFhcDViYkJPU1h2TTZOT2lFdkNJOU4xTDIxd1A3Z1Nlc3loVWpESUI?oc=5",
           "source": "Google News",
-          "published": "Wed, 01 Jul 2026 20:10:42 GMT"
+          "published": "Wed, 01 Jul 2026 20:51:58 GMT"
         }
       ]
     },
     {
-      "word": "이란",
+      "word": "우주",
       "count": 2,
-      "category": "NOUN",
+      "category": "LOCATION",
       "articles": [
         {
-          "title": "美·이란 협상단, 도하서 간접 회담…동결자산·호르무즈 논의(종합2보) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15MS1sMHVrdkJOejJWTkZBV0F3QTNoM3BVSlNwZ08wcVFVcEs4QTV3RW9zQzdmTnRIZXM1dUI2NDd6YnQ0dGRlZHpIY0U2T3dzanBXcld6U2tOSU3SAWBBVV95cUxPYnI5RXZnM1hGWTgwS1U2YnROcGMtOFg0U1hDRWhEd0k1SWVwcTlXclF2d2MwOWVEUkpHeWFQWFRNaXM1WXVHVmh5ckVSbTZ6N3VLeDVUYWFVTVFEY0J0VHY?oc=5",
+          "title": "[쿠키과학] ‘40초마다 우주 찍는다’… 세계 최대 ‘우주 타임랩스’ LSST 가동 - 쿠키뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZTktkX2NlUzVHZUgtQ0hvdnBhdnRXN0NmZ0tOMUk1RnJLR2RZOHNEQlFpUmJiR0pzLWxBTVk4ekFybE9DXzZBRWU4V1d3Mkx6b2NMci1maHpkMTctOHYyTEpJbw?oc=5",
           "source": "Google News",
-          "published": "Wed, 01 Jul 2026 16:19:35 GMT"
-        },
-        {
-          "title": "이란 협상대표 “호르무즈 무상 통과, 60일 동안만”…통행료 징수 의지 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1CRXpOeW5SVENwODFTOXlrUF9wdFlVTWRwRnpQdmpUNE1LaEN2b0x0X3N4TGlKb2w5NjVmblhxRnVsUUZpVnFpS3ptVzViVl92Yi01VXBuQkxSSHc3YzNtcVlWeHAxRE43dVdjQkdtdERLVHc?oc=5",
-          "source": "Google News",
-          "published": "Wed, 01 Jul 2026 00:37:00 GMT"
+          "published": "Thu, 02 Jul 2026 01:21:48 GMT"
         }
       ]
     },
     {
-      "word": "사상",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "6월 수출, 사상 첫 1000억 달러 돌파…전 세계서 4번째 - 한국방송뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sblhTejczZG9jSEhUeU1BbG9aUlhTd0RjTlRMeFBYMlF0N0pFSnJBeFozYnRVUG4tUnpUQkNYRlBjMTJTM25WZVpwOE5hdERVLWhjbTJlM2N5V2d1dGc?oc=5",
-          "source": "Google News",
-          "published": "Wed, 01 Jul 2026 14:49:26 GMT"
-        },
-        {
-          "title": "'환율이 기가 막혀'…수출은 사상 최대인데 대체 왜 [분석+] - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ydkZqN01qODFVVkRsd3hCbkNEb3cyWGVkSzBKLWR1dnBHVXlaWUFFcjMydjhWalU3dnhsbGVZMU0yR1FkQllVM1l4Y1VYbDh4blZ5cDBEOHFuUdIBVEFVX3lxTFB6UXhRMWFSNVQtRVN6SXlHV1Z6dEpmYnVLWGl2ZUNmQm5ZT0ZwU3c5SkZCWW9yQUZsWU9xVnVQeG02aWdncGhFaURUT2plcVFXLUNTRg?oc=5",
-          "source": "Google News",
-          "published": "Wed, 01 Jul 2026 13:00:01 GMT"
-        }
-      ]
-    },
-    {
-      "word": "코스닥",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "1000원 미만 ‘코스닥 동전주’, 퇴출!…30돌 맞은 코스닥, “신뢰 회복·세그먼트 도입” - 문화일보",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9JSHkwSFc3X3ZsVWlRa0xiNGdEaVRDTGZhMkp5MTdPdTR5MGtKVWRJZ2JNXzh1UGozN0tKS1dDQzJ2Qmh0UWRWVjFDUEplNnJN?oc=5",
-          "source": "Google News",
-          "published": "Wed, 01 Jul 2026 08:32:44 GMT"
-        }
-      ]
-    },
-    {
-      "word": "추가",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "NASA, 달 기지 구축 앞두고 민간 착륙선 3곳 추가 선정 - 산경투데이",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpWjVDU1M5dWQtOTVxM0JNdXZ6WlpzVll4Z1ZVM0R3TWprTHpFX1lwUkFZZ183UVJzY2gxdWlLc1Rqc1IzZnBWZ0g3Sk1XZUgzYV9pcGJzeE1UTWsyZXV1Y3NvOXFtV0w0S2haQ19ZdWHSAXRBVV95cUxOT2x3Ri1JTHRhU2hvMGVtR3hSb2x0RDF0R1VxUm1yeHRBQ1Vna3ptV3ZIUTQ4UVRHMl9qMjhKQ2szTFVBRWJ1VV9rdC05aG5ad2FNUlVKYV94QnY1ZXhtQW14eFc3Q1MyTjRhQUQ0cVJieGl3dA?oc=5",
-          "source": "Google News",
-          "published": "Wed, 01 Jul 2026 06:21:09 GMT"
-        },
-        {
-          "title": "『마리오 카트 월드』 무료 업데이트 배포 개시. 서바이벌에 2개의 새로운 루트 추가. 포토 모드에서 스티커를 붙일 수 있게 해주는 신기능도. | News | 한국닌텐도주식회사 - nintendo.com",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xcjZGdHFxWUVHVmVQaHE2ZDZxZWhTQXh1Y3VMTFNtMUNZMTlmbE9sR3Y4WHVtSWJQR3FmNGFvQ2Z2Q1Zaa3JNVjVqR1BCMFg2WFdkb2FoQVl2MUdUVjR3N0tfZ3ZNRG9rdnVqNzdSV3A?oc=5",
-          "source": "Google News",
-          "published": "Wed, 01 Jul 2026 02:56:40 GMT"
-        }
-      ]
-    },
-    {
-      "word": "진짜",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김무열 “존 시나 답장, 진짜 고민했다”…팬심 담은 한마디 (유퀴즈) - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVZzZHblJpaW5JUGhoQjUyMXB4dU5oVG1kZHBoTU5rbFlRNElHRkRMQUVyOUpEZURRWW5yTFp2UTAwSHZIdHREQVNzYnBGamc?oc=5",
-          "source": "Google News",
-          "published": "Wed, 01 Jul 2026 22:31:51 GMT"
-        },
-        {
-          "title": "\"진짜 모기를 잡네\" 10만대 판매 돌파한 감전식 모기퇴치기 조선몰 단독 특가 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNM2ktd3puUTlIdnJUa0pheV9DU3NaS3BSRjliUEtNOWpjeVZQc0dCempoWVEzT2c4eU9vZ2pVZDNiYkVNNElOVHdma1k1d0JiNHVnZUQ1MDVadGNQR1R3STFaNEh3R01wRWFsZ0hjME8wT3ItNVR0QWk3UGplbnc3bkg4bWFfQmFNT1o0?oc=5",
-          "source": "Google News",
-          "published": "Wed, 01 Jul 2026 20:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "홍명보",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘홍명보 선임 의혹’ 고발사건, 서울경찰청이 직접 수사키로 - 문화일보",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wclpMUzNsRU5xZzlCWFRDeUVGdC1IZXI1RndCdjlSbGp2QlFKSG9LLTlvNGNXOE5OTDRPT0FxYjlPc0F3dy16N1MxZTl2SDZZ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 01 Jul 2026 20:10:42 GMT"
-        },
-        {
-          "title": "가짜인데 '1천만 뷰'…온라인서 급격히 퍼진 홍명보 영상 - SBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56c1Y0c3pVOTRPQm5VOWR2MWxEV1BfSkpJY2dIOHhtSkVHQUdTS2prQUdqTGpUWDdhNHAydnhRVXk0U25JdmdKeTVxNGNNRXFoQVRiZTRRc0tkZ2dSNGFoUV9iRC1FZW92YmfSAWZBVV95cUxPUmp6MGFSNFpSSGRBSUNDVXY5N2FZVVFla2M2RkRiUThVQ2YwVVhzT0p1TlhQVlNHTi04RHQ0cXVnUWJMR0RWYkRFVU1wM1pzX3FvSkpsOEUtZTkzeFMzOFllQXBEUFE?oc=5",
-          "source": "Google News",
-          "published": "Wed, 01 Jul 2026 23:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "대통령문",
+      "word": "국힘",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령·문 전 대통령 “민주당 내 단합”…전대 갈등 수습될까 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FNm92X2FKZTJsVmlIVnNQLUZKeUdJVzZuZ0U3OEZYeVRvTWd6WUNMSk5objJSWmd5b0dXSTZPWnJFSXYzT0daa2NhTWpuVGJ3SHVGUnRFWlFpaVZDMFlOaG9URWZzWFkyZXhv?oc=5",
+          "title": "국힘, 배재고 6개월 출전정지에 “징계 과해, 입시에 불이익” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tVTZJbkJDX3k0NEliUzgtZ3pCcUxxVE41NERvbEM2dFpZbkg3UUVWSmp5SzVSVmJTS090aVJjUXAtRnhwQ2JpNmUtY2w3X2s3dVJyWWRvRFdiTVBHQkJMODZUSk5fa0JmbkRNTnZMYlBCYlVR?oc=5",
           "source": "Google News",
-          "published": "Wed, 01 Jul 2026 13:06:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "민주당",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "이 대통령·문 전 대통령 “민주당 내 단합”…전대 갈등 수습될까 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FNm92X2FKZTJsVmlIVnNQLUZKeUdJVzZuZ0U3OEZYeVRvTWd6WUNMSk5objJSWmd5b0dXSTZPWnJFSXYzT0daa2NhTWpuVGJ3SHVGUnRFWlFpaVZDMFlOaG9URWZzWFkyZXhv?oc=5",
-          "source": "Google News",
-          "published": "Wed, 01 Jul 2026 13:06:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "단합전대",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령·문 전 대통령 “민주당 내 단합”…전대 갈등 수습될까 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FNm92X2FKZTJsVmlIVnNQLUZKeUdJVzZuZ0U3OEZYeVRvTWd6WUNMSk5objJSWmd5b0dXSTZPWnJFSXYzT0daa2NhTWpuVGJ3SHVGUnRFWlFpaVZDMFlOaG9URWZzWFkyZXhv?oc=5",
-          "source": "Google News",
-          "published": "Wed, 01 Jul 2026 13:06:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "갈등",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령·문 전 대통령 “민주당 내 단합”…전대 갈등 수습될까 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FNm92X2FKZTJsVmlIVnNQLUZKeUdJVzZuZ0U3OEZYeVRvTWd6WUNMSk5objJSWmd5b0dXSTZPWnJFSXYzT0daa2NhTWpuVGJ3SHVGUnRFWlFpaVZDMFlOaG9URWZzWFkyZXhv?oc=5",
-          "source": "Google News",
-          "published": "Wed, 01 Jul 2026 13:06:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "수습될까",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령·문 전 대통령 “민주당 내 단합”…전대 갈등 수습될까 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FNm92X2FKZTJsVmlIVnNQLUZKeUdJVzZuZ0U3OEZYeVRvTWd6WUNMSk5objJSWmd5b0dXSTZPWnJFSXYzT0daa2NhTWpuVGJ3SHVGUnRFWlFpaVZDMFlOaG9URWZzWFkyZXhv?oc=5",
-          "source": "Google News",
-          "published": "Wed, 01 Jul 2026 13:06:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "스벅",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“스벅 가야지” 배재고, 6개월 출전정지…“선수는 조사뒤 심의” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vX19sVEhIVmlsMGREUE9ZYm9MLU9PZnJyb0FUMXd0QWRCWnFTdDh1SHdBX0JSaFZqTVZhVzZNclVHTGYtSGdBd2w5V1pkVmhydU4zRmJxa3hqaDBQZ1FEOUstSlV6WjZtdURGRXNtQnBnY1IyUWfSAWZBVV95cUxNZVRoOWU1SE00MFB1ZFN1eDZReWhMckpaelB2VVZBay1lRnNkY3ZvM0Nxc2piLXFtUHpULXc5SUJKLTBXUUtPWnI2TXpCQ3F2UWdtZlhIbEJ3ak9pTzFfXzNIQWp2d2c?oc=5",
-          "source": "Google News",
-          "published": "Wed, 01 Jul 2026 07:59:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "가야지",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“스벅 가야지” 배재고, 6개월 출전정지…“선수는 조사뒤 심의” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vX19sVEhIVmlsMGREUE9ZYm9MLU9PZnJyb0FUMXd0QWRCWnFTdDh1SHdBX0JSaFZqTVZhVzZNclVHTGYtSGdBd2w5V1pkVmhydU4zRmJxa3hqaDBQZ1FEOUstSlV6WjZtdURGRXNtQnBnY1IyUWfSAWZBVV95cUxNZVRoOWU1SE00MFB1ZFN1eDZReWhMckpaelB2VVZBay1lRnNkY3ZvM0Nxc2piLXFtUHpULXc5SUJKLTBXUUtPWnI2TXpCQ3F2UWdtZlhIbEJ3ak9pTzFfXzNIQWp2d2c?oc=5",
-          "source": "Google News",
-          "published": "Wed, 01 Jul 2026 07:59:00 GMT"
+          "published": "Thu, 02 Jul 2026 02:17:00 GMT"
         }
       ]
     },
@@ -246,10 +98,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "“스벅 가야지” 배재고, 6개월 출전정지…“선수는 조사뒤 심의” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vX19sVEhIVmlsMGREUE9ZYm9MLU9PZnJyb0FUMXd0QWRCWnFTdDh1SHdBX0JSaFZqTVZhVzZNclVHTGYtSGdBd2w5V1pkVmhydU4zRmJxa3hqaDBQZ1FEOUstSlV6WjZtdURGRXNtQnBnY1IyUWfSAWZBVV95cUxNZVRoOWU1SE00MFB1ZFN1eDZReWhMckpaelB2VVZBay1lRnNkY3ZvM0Nxc2piLXFtUHpULXc5SUJKLTBXUUtPWnI2TXpCQ3F2UWdtZlhIbEJ3ak9pTzFfXzNIQWp2d2c?oc=5",
+          "title": "국힘, 배재고 6개월 출전정지에 “징계 과해, 입시에 불이익” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tVTZJbkJDX3k0NEliUzgtZ3pCcUxxVE41NERvbEM2dFpZbkg3UUVWSmp5SzVSVmJTS090aVJjUXAtRnhwQ2JpNmUtY2w3X2s3dVJyWWRvRFdiTVBHQkJMODZUSk5fa0JmbkRNTnZMYlBCYlVR?oc=5",
           "source": "Google News",
-          "published": "Wed, 01 Jul 2026 07:59:00 GMT"
+          "published": "Thu, 02 Jul 2026 02:17:00 GMT"
         }
       ]
     },
@@ -259,309 +111,439 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "“스벅 가야지” 배재고, 6개월 출전정지…“선수는 조사뒤 심의” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vX19sVEhIVmlsMGREUE9ZYm9MLU9PZnJyb0FUMXd0QWRCWnFTdDh1SHdBX0JSaFZqTVZhVzZNclVHTGYtSGdBd2w5V1pkVmhydU4zRmJxa3hqaDBQZ1FEOUstSlV6WjZtdURGRXNtQnBnY1IyUWfSAWZBVV95cUxNZVRoOWU1SE00MFB1ZFN1eDZReWhMckpaelB2VVZBay1lRnNkY3ZvM0Nxc2piLXFtUHpULXc5SUJKLTBXUUtPWnI2TXpCQ3F2UWdtZlhIbEJ3ak9pTzFfXzNIQWp2d2c?oc=5",
+          "title": "국힘, 배재고 6개월 출전정지에 “징계 과해, 입시에 불이익” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tVTZJbkJDX3k0NEliUzgtZ3pCcUxxVE41NERvbEM2dFpZbkg3UUVWSmp5SzVSVmJTS090aVJjUXAtRnhwQ2JpNmUtY2w3X2s3dVJyWWRvRFdiTVBHQkJMODZUSk5fa0JmbkRNTnZMYlBCYlVR?oc=5",
           "source": "Google News",
-          "published": "Wed, 01 Jul 2026 07:59:00 GMT"
+          "published": "Thu, 02 Jul 2026 02:17:00 GMT"
         }
       ]
     },
     {
-      "word": "출전정지선수",
-      "count": 1,
-      "category": "PERSON",
-      "articles": [
-        {
-          "title": "“스벅 가야지” 배재고, 6개월 출전정지…“선수는 조사뒤 심의” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vX19sVEhIVmlsMGREUE9ZYm9MLU9PZnJyb0FUMXd0QWRCWnFTdDh1SHdBX0JSaFZqTVZhVzZNclVHTGYtSGdBd2w5V1pkVmhydU4zRmJxa3hqaDBQZ1FEOUstSlV6WjZtdURGRXNtQnBnY1IyUWfSAWZBVV95cUxNZVRoOWU1SE00MFB1ZFN1eDZReWhMckpaelB2VVZBay1lRnNkY3ZvM0Nxc2piLXFtUHpULXc5SUJKLTBXUUtPWnI2TXpCQ3F2UWdtZlhIbEJ3ak9pTzFfXzNIQWp2d2c?oc=5",
-          "source": "Google News",
-          "published": "Wed, 01 Jul 2026 07:59:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "조사뒤",
+      "word": "출전정지",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“스벅 가야지” 배재고, 6개월 출전정지…“선수는 조사뒤 심의” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vX19sVEhIVmlsMGREUE9ZYm9MLU9PZnJyb0FUMXd0QWRCWnFTdDh1SHdBX0JSaFZqTVZhVzZNclVHTGYtSGdBd2w5V1pkVmhydU4zRmJxa3hqaDBQZ1FEOUstSlV6WjZtdURGRXNtQnBnY1IyUWfSAWZBVV95cUxNZVRoOWU1SE00MFB1ZFN1eDZReWhMckpaelB2VVZBay1lRnNkY3ZvM0Nxc2piLXFtUHpULXc5SUJKLTBXUUtPWnI2TXpCQ3F2UWdtZlhIbEJ3ak9pTzFfXzNIQWp2d2c?oc=5",
+          "title": "국힘, 배재고 6개월 출전정지에 “징계 과해, 입시에 불이익” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tVTZJbkJDX3k0NEliUzgtZ3pCcUxxVE41NERvbEM2dFpZbkg3UUVWSmp5SzVSVmJTS090aVJjUXAtRnhwQ2JpNmUtY2w3X2s3dVJyWWRvRFdiTVBHQkJMODZUSk5fa0JmbkRNTnZMYlBCYlVR?oc=5",
           "source": "Google News",
-          "published": "Wed, 01 Jul 2026 07:59:00 GMT"
+          "published": "Thu, 02 Jul 2026 02:17:00 GMT"
         }
       ]
     },
     {
-      "word": "심의",
+      "word": "징계",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“스벅 가야지” 배재고, 6개월 출전정지…“선수는 조사뒤 심의” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vX19sVEhIVmlsMGREUE9ZYm9MLU9PZnJyb0FUMXd0QWRCWnFTdDh1SHdBX0JSaFZqTVZhVzZNclVHTGYtSGdBd2w5V1pkVmhydU4zRmJxa3hqaDBQZ1FEOUstSlV6WjZtdURGRXNtQnBnY1IyUWfSAWZBVV95cUxNZVRoOWU1SE00MFB1ZFN1eDZReWhMckpaelB2VVZBay1lRnNkY3ZvM0Nxc2piLXFtUHpULXc5SUJKLTBXUUtPWnI2TXpCQ3F2UWdtZlhIbEJ3ak9pTzFfXzNIQWp2d2c?oc=5",
+          "title": "국힘, 배재고 6개월 출전정지에 “징계 과해, 입시에 불이익” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tVTZJbkJDX3k0NEliUzgtZ3pCcUxxVE41NERvbEM2dFpZbkg3UUVWSmp5SzVSVmJTS090aVJjUXAtRnhwQ2JpNmUtY2w3X2s3dVJyWWRvRFdiTVBHQkJMODZUSk5fa0JmbkRNTnZMYlBCYlVR?oc=5",
           "source": "Google News",
-          "published": "Wed, 01 Jul 2026 07:59:00 GMT"
+          "published": "Thu, 02 Jul 2026 02:17:00 GMT"
         }
       ]
     },
     {
-      "word": "올림픽공원",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "올림픽공원 찾는 선관위 국조특위, 개표소 안 투표함 직접 살핀다 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11RWJ3a0s2a1JMZW11eGVtZHVkVG1wSGlQM3N2LUVMcVExVEtUTXJaQ0hteWR1a1lURFBfZW1tX0hubEtDUzZXVlVKY0E1SnhCRkJkb2dFN3E2QdIBX0FVX3lxTE9IUFNCTFhmc0swdF9lTnlBN3pHRG5SSWRQV3I3QkpITlRkQXpNbVc1eFpwWTZ3RWg4SWJ3Q204U2lNdjNtdmFLSDZwdjhCRjBhaWpMUkI1NnBxbUViNnI4?oc=5",
-          "source": "Google News",
-          "published": "Wed, 01 Jul 2026 22:44:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "찾는",
+      "word": "과해",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "올림픽공원 찾는 선관위 국조특위, 개표소 안 투표함 직접 살핀다 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11RWJ3a0s2a1JMZW11eGVtZHVkVG1wSGlQM3N2LUVMcVExVEtUTXJaQ0hteWR1a1lURFBfZW1tX0hubEtDUzZXVlVKY0E1SnhCRkJkb2dFN3E2QdIBX0FVX3lxTE9IUFNCTFhmc0swdF9lTnlBN3pHRG5SSWRQV3I3QkpITlRkQXpNbVc1eFpwWTZ3RWg4SWJ3Q204U2lNdjNtdmFLSDZwdjhCRjBhaWpMUkI1NnBxbUViNnI4?oc=5",
+          "title": "국힘, 배재고 6개월 출전정지에 “징계 과해, 입시에 불이익” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tVTZJbkJDX3k0NEliUzgtZ3pCcUxxVE41NERvbEM2dFpZbkg3UUVWSmp5SzVSVmJTS090aVJjUXAtRnhwQ2JpNmUtY2w3X2s3dVJyWWRvRFdiTVBHQkJMODZUSk5fa0JmbkRNTnZMYlBCYlVR?oc=5",
           "source": "Google News",
-          "published": "Wed, 01 Jul 2026 22:44:00 GMT"
+          "published": "Thu, 02 Jul 2026 02:17:00 GMT"
         }
       ]
     },
     {
-      "word": "선관위",
+      "word": "입시",
+      "count": 1,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "국힘, 배재고 6개월 출전정지에 “징계 과해, 입시에 불이익” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tVTZJbkJDX3k0NEliUzgtZ3pCcUxxVE41NERvbEM2dFpZbkg3UUVWSmp5SzVSVmJTS090aVJjUXAtRnhwQ2JpNmUtY2w3X2s3dVJyWWRvRFdiTVBHQkJMODZUSk5fa0JmbkRNTnZMYlBCYlVR?oc=5",
+          "source": "Google News",
+          "published": "Thu, 02 Jul 2026 02:17:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "불이익",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "올림픽공원 찾는 선관위 국조특위, 개표소 안 투표함 직접 살핀다 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11RWJ3a0s2a1JMZW11eGVtZHVkVG1wSGlQM3N2LUVMcVExVEtUTXJaQ0hteWR1a1lURFBfZW1tX0hubEtDUzZXVlVKY0E1SnhCRkJkb2dFN3E2QdIBX0FVX3lxTE9IUFNCTFhmc0swdF9lTnlBN3pHRG5SSWRQV3I3QkpITlRkQXpNbVc1eFpwWTZ3RWg4SWJ3Q204U2lNdjNtdmFLSDZwdjhCRjBhaWpMUkI1NnBxbUViNnI4?oc=5",
+          "title": "국힘, 배재고 6개월 출전정지에 “징계 과해, 입시에 불이익” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tVTZJbkJDX3k0NEliUzgtZ3pCcUxxVE41NERvbEM2dFpZbkg3UUVWSmp5SzVSVmJTS090aVJjUXAtRnhwQ2JpNmUtY2w3X2s3dVJyWWRvRFdiTVBHQkJMODZUSk5fa0JmbkRNTnZMYlBCYlVR?oc=5",
           "source": "Google News",
-          "published": "Wed, 01 Jul 2026 22:44:00 GMT"
+          "published": "Thu, 02 Jul 2026 02:17:00 GMT"
         }
       ]
     },
     {
-      "word": "국조특위",
+      "word": "한성숙",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "올림픽공원 찾는 선관위 국조특위, 개표소 안 투표함 직접 살핀다 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11RWJ3a0s2a1JMZW11eGVtZHVkVG1wSGlQM3N2LUVMcVExVEtUTXJaQ0hteWR1a1lURFBfZW1tX0hubEtDUzZXVlVKY0E1SnhCRkJkb2dFN3E2QdIBX0FVX3lxTE9IUFNCTFhmc0swdF9lTnlBN3pHRG5SSWRQV3I3QkpITlRkQXpNbVc1eFpwWTZ3RWg4SWJ3Q204U2lNdjNtdmFLSDZwdjhCRjBhaWpMUkI1NnBxbUViNnI4?oc=5",
+          "title": "한성숙 “이 대통령 ‘국민 목숨 살리라’ 지시…자살·산재 AI 분석 대책 수립” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lRWtDaE45YWpMRHRRLXJXa3U2NkhTbS1YalRQR3BFLU9na0FMQS1PM1dUbW45OF9adUx2TVZ3ZzRWaFlCUUVlWW5paHoyTDBxalE3VnE3NnIxQdIBX0FVX3lxTE5RWWJOTUNkQVowdDVFeEt2R19saDVTYTBJZ0FrbzhQVHZjRmdFMmlMR19TN01OMFduM3MwNm1Uc2tvTGpvdmR1VVJkOWhsT1padzRvNm5ybWNONkFXTllr?oc=5",
           "source": "Google News",
-          "published": "Wed, 01 Jul 2026 22:44:00 GMT"
+          "published": "Thu, 02 Jul 2026 01:58:00 GMT"
         }
       ]
     },
     {
-      "word": "개표소",
+      "word": "국민",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "올림픽공원 찾는 선관위 국조특위, 개표소 안 투표함 직접 살핀다 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11RWJ3a0s2a1JMZW11eGVtZHVkVG1wSGlQM3N2LUVMcVExVEtUTXJaQ0hteWR1a1lURFBfZW1tX0hubEtDUzZXVlVKY0E1SnhCRkJkb2dFN3E2QdIBX0FVX3lxTE9IUFNCTFhmc0swdF9lTnlBN3pHRG5SSWRQV3I3QkpITlRkQXpNbVc1eFpwWTZ3RWg4SWJ3Q204U2lNdjNtdmFLSDZwdjhCRjBhaWpMUkI1NnBxbUViNnI4?oc=5",
+          "title": "한성숙 “이 대통령 ‘국민 목숨 살리라’ 지시…자살·산재 AI 분석 대책 수립” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lRWtDaE45YWpMRHRRLXJXa3U2NkhTbS1YalRQR3BFLU9na0FMQS1PM1dUbW45OF9adUx2TVZ3ZzRWaFlCUUVlWW5paHoyTDBxalE3VnE3NnIxQdIBX0FVX3lxTE5RWWJOTUNkQVowdDVFeEt2R19saDVTYTBJZ0FrbzhQVHZjRmdFMmlMR19TN01OMFduM3MwNm1Uc2tvTGpvdmR1VVJkOWhsT1padzRvNm5ybWNONkFXTllr?oc=5",
           "source": "Google News",
-          "published": "Wed, 01 Jul 2026 22:44:00 GMT"
+          "published": "Thu, 02 Jul 2026 01:58:00 GMT"
         }
       ]
     },
     {
-      "word": "투표함",
+      "word": "목숨",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "올림픽공원 찾는 선관위 국조특위, 개표소 안 투표함 직접 살핀다 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11RWJ3a0s2a1JMZW11eGVtZHVkVG1wSGlQM3N2LUVMcVExVEtUTXJaQ0hteWR1a1lURFBfZW1tX0hubEtDUzZXVlVKY0E1SnhCRkJkb2dFN3E2QdIBX0FVX3lxTE9IUFNCTFhmc0swdF9lTnlBN3pHRG5SSWRQV3I3QkpITlRkQXpNbVc1eFpwWTZ3RWg4SWJ3Q204U2lNdjNtdmFLSDZwdjhCRjBhaWpMUkI1NnBxbUViNnI4?oc=5",
+          "title": "한성숙 “이 대통령 ‘국민 목숨 살리라’ 지시…자살·산재 AI 분석 대책 수립” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lRWtDaE45YWpMRHRRLXJXa3U2NkhTbS1YalRQR3BFLU9na0FMQS1PM1dUbW45OF9adUx2TVZ3ZzRWaFlCUUVlWW5paHoyTDBxalE3VnE3NnIxQdIBX0FVX3lxTE5RWWJOTUNkQVowdDVFeEt2R19saDVTYTBJZ0FrbzhQVHZjRmdFMmlMR19TN01OMFduM3MwNm1Uc2tvTGpvdmR1VVJkOWhsT1padzRvNm5ybWNONkFXTllr?oc=5",
           "source": "Google News",
-          "published": "Wed, 01 Jul 2026 22:44:00 GMT"
+          "published": "Thu, 02 Jul 2026 01:58:00 GMT"
         }
       ]
     },
     {
-      "word": "살핀다",
+      "word": "살리",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "올림픽공원 찾는 선관위 국조특위, 개표소 안 투표함 직접 살핀다 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11RWJ3a0s2a1JMZW11eGVtZHVkVG1wSGlQM3N2LUVMcVExVEtUTXJaQ0hteWR1a1lURFBfZW1tX0hubEtDUzZXVlVKY0E1SnhCRkJkb2dFN3E2QdIBX0FVX3lxTE9IUFNCTFhmc0swdF9lTnlBN3pHRG5SSWRQV3I3QkpITlRkQXpNbVc1eFpwWTZ3RWg4SWJ3Q204U2lNdjNtdmFLSDZwdjhCRjBhaWpMUkI1NnBxbUViNnI4?oc=5",
+          "title": "한성숙 “이 대통령 ‘국민 목숨 살리라’ 지시…자살·산재 AI 분석 대책 수립” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lRWtDaE45YWpMRHRRLXJXa3U2NkhTbS1YalRQR3BFLU9na0FMQS1PM1dUbW45OF9adUx2TVZ3ZzRWaFlCUUVlWW5paHoyTDBxalE3VnE3NnIxQdIBX0FVX3lxTE5RWWJOTUNkQVowdDVFeEt2R19saDVTYTBJZ0FrbzhQVHZjRmdFMmlMR19TN01OMFduM3MwNm1Uc2tvTGpvdmR1VVJkOWhsT1padzRvNm5ybWNONkFXTllr?oc=5",
           "source": "Google News",
-          "published": "Wed, 01 Jul 2026 22:44:00 GMT"
+          "published": "Thu, 02 Jul 2026 01:58:00 GMT"
         }
       ]
     },
     {
-      "word": "김민석",
+      "word": "지시자살산재",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김민석 2002 대선때 탈당-송영길 친문과 대립-정청래 명청대전 구도가 부담 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xTWsyR0JieVpLbndrb3paeUtYa1VGSDFyT1VabkdfU1dGWXhkTkpveEt6VlowQ2VVYXNIZGZFb2ptVld0cVhYWTA3U2wwa0doY1V4dG40aHB0X1NjRHZiY0h1bUY3aWcxT044aURQRnFzYlIxM3dZ0gFmQVVfeXFMTzFIYk9pcUx0OUx4RHNFeDJrNzdyNHdHWENfaXl3VFZlTFNjT2lSMWpRV1lIbEpNWmhGVzl1Y3Z2TUZ4OG92OFVsY1QxdGVjNGFScklxZmdyeS1xekRYUFhwbzNTZlFR?oc=5",
+          "title": "한성숙 “이 대통령 ‘국민 목숨 살리라’ 지시…자살·산재 AI 분석 대책 수립” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lRWtDaE45YWpMRHRRLXJXa3U2NkhTbS1YalRQR3BFLU9na0FMQS1PM1dUbW45OF9adUx2TVZ3ZzRWaFlCUUVlWW5paHoyTDBxalE3VnE3NnIxQdIBX0FVX3lxTE5RWWJOTUNkQVowdDVFeEt2R19saDVTYTBJZ0FrbzhQVHZjRmdFMmlMR19TN01OMFduM3MwNm1Uc2tvTGpvdmR1VVJkOWhsT1padzRvNm5ybWNONkFXTllr?oc=5",
           "source": "Google News",
-          "published": "Wed, 01 Jul 2026 19:30:00 GMT"
+          "published": "Thu, 02 Jul 2026 01:58:00 GMT"
         }
       ]
     },
     {
-      "word": "2002",
+      "word": "대책",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김민석 2002 대선때 탈당-송영길 친문과 대립-정청래 명청대전 구도가 부담 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xTWsyR0JieVpLbndrb3paeUtYa1VGSDFyT1VabkdfU1dGWXhkTkpveEt6VlowQ2VVYXNIZGZFb2ptVld0cVhYWTA3U2wwa0doY1V4dG40aHB0X1NjRHZiY0h1bUY3aWcxT044aURQRnFzYlIxM3dZ0gFmQVVfeXFMTzFIYk9pcUx0OUx4RHNFeDJrNzdyNHdHWENfaXl3VFZlTFNjT2lSMWpRV1lIbEpNWmhGVzl1Y3Z2TUZ4OG92OFVsY1QxdGVjNGFScklxZmdyeS1xekRYUFhwbzNTZlFR?oc=5",
+          "title": "한성숙 “이 대통령 ‘국민 목숨 살리라’ 지시…자살·산재 AI 분석 대책 수립” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lRWtDaE45YWpMRHRRLXJXa3U2NkhTbS1YalRQR3BFLU9na0FMQS1PM1dUbW45OF9adUx2TVZ3ZzRWaFlCUUVlWW5paHoyTDBxalE3VnE3NnIxQdIBX0FVX3lxTE5RWWJOTUNkQVowdDVFeEt2R19saDVTYTBJZ0FrbzhQVHZjRmdFMmlMR19TN01OMFduM3MwNm1Uc2tvTGpvdmR1VVJkOWhsT1padzRvNm5ybWNONkFXTllr?oc=5",
           "source": "Google News",
-          "published": "Wed, 01 Jul 2026 19:30:00 GMT"
+          "published": "Thu, 02 Jul 2026 01:58:00 GMT"
         }
       ]
     },
     {
-      "word": "대선때",
+      "word": "수립",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김민석 2002 대선때 탈당-송영길 친문과 대립-정청래 명청대전 구도가 부담 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xTWsyR0JieVpLbndrb3paeUtYa1VGSDFyT1VabkdfU1dGWXhkTkpveEt6VlowQ2VVYXNIZGZFb2ptVld0cVhYWTA3U2wwa0doY1V4dG40aHB0X1NjRHZiY0h1bUY3aWcxT044aURQRnFzYlIxM3dZ0gFmQVVfeXFMTzFIYk9pcUx0OUx4RHNFeDJrNzdyNHdHWENfaXl3VFZlTFNjT2lSMWpRV1lIbEpNWmhGVzl1Y3Z2TUZ4OG92OFVsY1QxdGVjNGFScklxZmdyeS1xekRYUFhwbzNTZlFR?oc=5",
+          "title": "한성숙 “이 대통령 ‘국민 목숨 살리라’ 지시…자살·산재 AI 분석 대책 수립” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lRWtDaE45YWpMRHRRLXJXa3U2NkhTbS1YalRQR3BFLU9na0FMQS1PM1dUbW45OF9adUx2TVZ3ZzRWaFlCUUVlWW5paHoyTDBxalE3VnE3NnIxQdIBX0FVX3lxTE5RWWJOTUNkQVowdDVFeEt2R19saDVTYTBJZ0FrbzhQVHZjRmdFMmlMR19TN01OMFduM3MwNm1Uc2tvTGpvdmR1VVJkOWhsT1padzRvNm5ybWNONkFXTllr?oc=5",
           "source": "Google News",
-          "published": "Wed, 01 Jul 2026 19:30:00 GMT"
+          "published": "Thu, 02 Jul 2026 01:58:00 GMT"
         }
       ]
     },
     {
-      "word": "탈당송영길",
+      "word": "주말",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김민석 2002 대선때 탈당-송영길 친문과 대립-정청래 명청대전 구도가 부담 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xTWsyR0JieVpLbndrb3paeUtYa1VGSDFyT1VabkdfU1dGWXhkTkpveEt6VlowQ2VVYXNIZGZFb2ptVld0cVhYWTA3U2wwa0doY1V4dG40aHB0X1NjRHZiY0h1bUY3aWcxT044aURQRnFzYlIxM3dZ0gFmQVVfeXFMTzFIYk9pcUx0OUx4RHNFeDJrNzdyNHdHWENfaXl3VFZlTFNjT2lSMWpRV1lIbEpNWmhGVzl1Y3Z2TUZ4OG92OFVsY1QxdGVjNGFScklxZmdyeS1xekRYUFhwbzNTZlFR?oc=5",
+          "title": "주말부터 다시 장맛비…월요일 전국 강하고 많은 비 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90TWx4U0E3Ty1fWjZVVUVtbXc4YTBkSml4ZzI0cjB4aWxQMm1zY0hqVWRJRGJUbVdYdTFUOU13b2cwU0tKZkIyOFl6TU05d2xuV084bmNTYnRZeExqVTFVWjNZS3hFNlE?oc=5",
           "source": "Google News",
-          "published": "Wed, 01 Jul 2026 19:30:00 GMT"
+          "published": "Thu, 02 Jul 2026 02:51:00 GMT"
         }
       ]
     },
     {
-      "word": "친문",
+      "word": "다시",
+      "count": 1,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "주말부터 다시 장맛비…월요일 전국 강하고 많은 비 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90TWx4U0E3Ty1fWjZVVUVtbXc4YTBkSml4ZzI0cjB4aWxQMm1zY0hqVWRJRGJUbVdYdTFUOU13b2cwU0tKZkIyOFl6TU05d2xuV084bmNTYnRZeExqVTFVWjNZS3hFNlE?oc=5",
+          "source": "Google News",
+          "published": "Thu, 02 Jul 2026 02:51:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "장맛비월요일",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김민석 2002 대선때 탈당-송영길 친문과 대립-정청래 명청대전 구도가 부담 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xTWsyR0JieVpLbndrb3paeUtYa1VGSDFyT1VabkdfU1dGWXhkTkpveEt6VlowQ2VVYXNIZGZFb2ptVld0cVhYWTA3U2wwa0doY1V4dG40aHB0X1NjRHZiY0h1bUY3aWcxT044aURQRnFzYlIxM3dZ0gFmQVVfeXFMTzFIYk9pcUx0OUx4RHNFeDJrNzdyNHdHWENfaXl3VFZlTFNjT2lSMWpRV1lIbEpNWmhGVzl1Y3Z2TUZ4OG92OFVsY1QxdGVjNGFScklxZmdyeS1xekRYUFhwbzNTZlFR?oc=5",
+          "title": "주말부터 다시 장맛비…월요일 전국 강하고 많은 비 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90TWx4U0E3Ty1fWjZVVUVtbXc4YTBkSml4ZzI0cjB4aWxQMm1zY0hqVWRJRGJUbVdYdTFUOU13b2cwU0tKZkIyOFl6TU05d2xuV084bmNTYnRZeExqVTFVWjNZS3hFNlE?oc=5",
           "source": "Google News",
-          "published": "Wed, 01 Jul 2026 19:30:00 GMT"
+          "published": "Thu, 02 Jul 2026 02:51:00 GMT"
         }
       ]
     },
     {
-      "word": "대립정청래",
+      "word": "강하",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김민석 2002 대선때 탈당-송영길 친문과 대립-정청래 명청대전 구도가 부담 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xTWsyR0JieVpLbndrb3paeUtYa1VGSDFyT1VabkdfU1dGWXhkTkpveEt6VlowQ2VVYXNIZGZFb2ptVld0cVhYWTA3U2wwa0doY1V4dG40aHB0X1NjRHZiY0h1bUY3aWcxT044aURQRnFzYlIxM3dZ0gFmQVVfeXFMTzFIYk9pcUx0OUx4RHNFeDJrNzdyNHdHWENfaXl3VFZlTFNjT2lSMWpRV1lIbEpNWmhGVzl1Y3Z2TUZ4OG92OFVsY1QxdGVjNGFScklxZmdyeS1xekRYUFhwbzNTZlFR?oc=5",
+          "title": "주말부터 다시 장맛비…월요일 전국 강하고 많은 비 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90TWx4U0E3Ty1fWjZVVUVtbXc4YTBkSml4ZzI0cjB4aWxQMm1zY0hqVWRJRGJUbVdYdTFUOU13b2cwU0tKZkIyOFl6TU05d2xuV084bmNTYnRZeExqVTFVWjNZS3hFNlE?oc=5",
           "source": "Google News",
-          "published": "Wed, 01 Jul 2026 19:30:00 GMT"
+          "published": "Thu, 02 Jul 2026 02:51:00 GMT"
         }
       ]
     },
     {
-      "word": "명청대전",
+      "word": "많은",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김민석 2002 대선때 탈당-송영길 친문과 대립-정청래 명청대전 구도가 부담 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xTWsyR0JieVpLbndrb3paeUtYa1VGSDFyT1VabkdfU1dGWXhkTkpveEt6VlowQ2VVYXNIZGZFb2ptVld0cVhYWTA3U2wwa0doY1V4dG40aHB0X1NjRHZiY0h1bUY3aWcxT044aURQRnFzYlIxM3dZ0gFmQVVfeXFMTzFIYk9pcUx0OUx4RHNFeDJrNzdyNHdHWENfaXl3VFZlTFNjT2lSMWpRV1lIbEpNWmhGVzl1Y3Z2TUZ4OG92OFVsY1QxdGVjNGFScklxZmdyeS1xekRYUFhwbzNTZlFR?oc=5",
+          "title": "주말부터 다시 장맛비…월요일 전국 강하고 많은 비 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90TWx4U0E3Ty1fWjZVVUVtbXc4YTBkSml4ZzI0cjB4aWxQMm1zY0hqVWRJRGJUbVdYdTFUOU13b2cwU0tKZkIyOFl6TU05d2xuV084bmNTYnRZeExqVTFVWjNZS3hFNlE?oc=5",
           "source": "Google News",
-          "published": "Wed, 01 Jul 2026 19:30:00 GMT"
+          "published": "Thu, 02 Jul 2026 02:51:00 GMT"
         }
       ]
     },
     {
-      "word": "구도",
+      "word": "베네수",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김민석 2002 대선때 탈당-송영길 친문과 대립-정청래 명청대전 구도가 부담 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xTWsyR0JieVpLbndrb3paeUtYa1VGSDFyT1VabkdfU1dGWXhkTkpveEt6VlowQ2VVYXNIZGZFb2ptVld0cVhYWTA3U2wwa0doY1V4dG40aHB0X1NjRHZiY0h1bUY3aWcxT044aURQRnFzYlIxM3dZ0gFmQVVfeXFMTzFIYk9pcUx0OUx4RHNFeDJrNzdyNHdHWENfaXl3VFZlTFNjT2lSMWpRV1lIbEpNWmhGVzl1Y3Z2TUZ4OG92OFVsY1QxdGVjNGFScklxZmdyeS1xekRYUFhwbzNTZlFR?oc=5",
+          "title": "베네수 강진에 국제공항도 큰 타격…“운행에 1년 이상 걸릴 듯” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5U050S0VxUnJDMUhOWnUwUkVFenJfWkpUb1BHNEw2cmNiNEdBWHV1NUladUh5a2NkNGZtQzJMRXFJUDZfaE10VDhPMWhVTDVZVU10eEJxVmlCTVU?oc=5",
           "source": "Google News",
-          "published": "Wed, 01 Jul 2026 19:30:00 GMT"
+          "published": "Wed, 01 Jul 2026 23:26:00 GMT"
         }
       ]
     },
     {
-      "word": "부담",
+      "word": "강진",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김민석 2002 대선때 탈당-송영길 친문과 대립-정청래 명청대전 구도가 부담 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xTWsyR0JieVpLbndrb3paeUtYa1VGSDFyT1VabkdfU1dGWXhkTkpveEt6VlowQ2VVYXNIZGZFb2ptVld0cVhYWTA3U2wwa0doY1V4dG40aHB0X1NjRHZiY0h1bUY3aWcxT044aURQRnFzYlIxM3dZ0gFmQVVfeXFMTzFIYk9pcUx0OUx4RHNFeDJrNzdyNHdHWENfaXl3VFZlTFNjT2lSMWpRV1lIbEpNWmhGVzl1Y3Z2TUZ4OG92OFVsY1QxdGVjNGFScklxZmdyeS1xekRYUFhwbzNTZlFR?oc=5",
+          "title": "베네수 강진에 국제공항도 큰 타격…“운행에 1년 이상 걸릴 듯” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5U050S0VxUnJDMUhOWnUwUkVFenJfWkpUb1BHNEw2cmNiNEdBWHV1NUladUh5a2NkNGZtQzJMRXFJUDZfaE10VDhPMWhVTDVZVU10eEJxVmlCTVU?oc=5",
           "source": "Google News",
-          "published": "Wed, 01 Jul 2026 19:30:00 GMT"
+          "published": "Wed, 01 Jul 2026 23:26:00 GMT"
         }
       ]
     },
     {
-      "word": "태움",
+      "word": "국제공항",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령, ’태움’에 숨진 간호사 소식에 “끔찍한 폭력“ - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zeTdqMXA1djF3eGdaRElDcHRTa0NTaEhncHdhLWlWcmlNbXUtOTh0VDhXSkRwREN3OEpsM2E4azZiTmM1VzhCX0p0bjhCUklxalBoQkk5M0lINm5XNUdjdUFUNUpDLTg?oc=5",
+          "title": "베네수 강진에 국제공항도 큰 타격…“운행에 1년 이상 걸릴 듯” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5U050S0VxUnJDMUhOWnUwUkVFenJfWkpUb1BHNEw2cmNiNEdBWHV1NUladUh5a2NkNGZtQzJMRXFJUDZfaE10VDhPMWhVTDVZVU10eEJxVmlCTVU?oc=5",
           "source": "Google News",
-          "published": "Wed, 01 Jul 2026 11:44:44 GMT"
+          "published": "Wed, 01 Jul 2026 23:26:00 GMT"
         }
       ]
     },
     {
-      "word": "숨진",
+      "word": "타격운행",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령, ’태움’에 숨진 간호사 소식에 “끔찍한 폭력“ - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zeTdqMXA1djF3eGdaRElDcHRTa0NTaEhncHdhLWlWcmlNbXUtOTh0VDhXSkRwREN3OEpsM2E4azZiTmM1VzhCX0p0bjhCUklxalBoQkk5M0lINm5XNUdjdUFUNUpDLTg?oc=5",
+          "title": "베네수 강진에 국제공항도 큰 타격…“운행에 1년 이상 걸릴 듯” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5U050S0VxUnJDMUhOWnUwUkVFenJfWkpUb1BHNEw2cmNiNEdBWHV1NUladUh5a2NkNGZtQzJMRXFJUDZfaE10VDhPMWhVTDVZVU10eEJxVmlCTVU?oc=5",
           "source": "Google News",
-          "published": "Wed, 01 Jul 2026 11:44:44 GMT"
+          "published": "Wed, 01 Jul 2026 23:26:00 GMT"
         }
       ]
     },
     {
-      "word": "간호사",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "이 대통령, ’태움’에 숨진 간호사 소식에 “끔찍한 폭력“ - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zeTdqMXA1djF3eGdaRElDcHRTa0NTaEhncHdhLWlWcmlNbXUtOTh0VDhXSkRwREN3OEpsM2E4azZiTmM1VzhCX0p0bjhCUklxalBoQkk5M0lINm5XNUdjdUFUNUpDLTg?oc=5",
-          "source": "Google News",
-          "published": "Wed, 01 Jul 2026 11:44:44 GMT"
-        }
-      ]
-    },
-    {
-      "word": "소식",
+      "word": "1년",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령, ’태움’에 숨진 간호사 소식에 “끔찍한 폭력“ - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zeTdqMXA1djF3eGdaRElDcHRTa0NTaEhncHdhLWlWcmlNbXUtOTh0VDhXSkRwREN3OEpsM2E4azZiTmM1VzhCX0p0bjhCUklxalBoQkk5M0lINm5XNUdjdUFUNUpDLTg?oc=5",
+          "title": "베네수 강진에 국제공항도 큰 타격…“운행에 1년 이상 걸릴 듯” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5U050S0VxUnJDMUhOWnUwUkVFenJfWkpUb1BHNEw2cmNiNEdBWHV1NUladUh5a2NkNGZtQzJMRXFJUDZfaE10VDhPMWhVTDVZVU10eEJxVmlCTVU?oc=5",
           "source": "Google News",
-          "published": "Wed, 01 Jul 2026 11:44:44 GMT"
+          "published": "Wed, 01 Jul 2026 23:26:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "이상",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "베네수 강진에 국제공항도 큰 타격…“운행에 1년 이상 걸릴 듯” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5U050S0VxUnJDMUhOWnUwUkVFenJfWkpUb1BHNEw2cmNiNEdBWHV1NUladUh5a2NkNGZtQzJMRXFJUDZfaE10VDhPMWhVTDVZVU10eEJxVmlCTVU?oc=5",
+          "source": "Google News",
+          "published": "Wed, 01 Jul 2026 23:26:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "걸릴",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "베네수 강진에 국제공항도 큰 타격…“운행에 1년 이상 걸릴 듯” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5U050S0VxUnJDMUhOWnUwUkVFenJfWkpUb1BHNEw2cmNiNEdBWHV1NUladUh5a2NkNGZtQzJMRXFJUDZfaE10VDhPMWhVTDVZVU10eEJxVmlCTVU?oc=5",
+          "source": "Google News",
+          "published": "Wed, 01 Jul 2026 23:26:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "정점식",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정점식 \"서영교, 선거 당일 선관위원장 통화…법사위원장 사퇴해야\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sZXFWX2RScFJQWk80MHowNTdabHU0VHlyUUNGSlZOc3NQdlduSTdqUkE0VXRVSDJobHFhSmdWbTNsSm1ZcGVzUEFmQTRwTC0zY21IT05ITmFOQXBBVk1EbEplZDZjOU0?oc=5",
+          "source": "Google News",
+          "published": "Thu, 02 Jul 2026 01:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "서영교",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정점식 \"서영교, 선거 당일 선관위원장 통화…법사위원장 사퇴해야\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sZXFWX2RScFJQWk80MHowNTdabHU0VHlyUUNGSlZOc3NQdlduSTdqUkE0VXRVSDJobHFhSmdWbTNsSm1ZcGVzUEFmQTRwTC0zY21IT05ITmFOQXBBVk1EbEplZDZjOU0?oc=5",
+          "source": "Google News",
+          "published": "Thu, 02 Jul 2026 01:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "선거",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정점식 \"서영교, 선거 당일 선관위원장 통화…법사위원장 사퇴해야\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sZXFWX2RScFJQWk80MHowNTdabHU0VHlyUUNGSlZOc3NQdlduSTdqUkE0VXRVSDJobHFhSmdWbTNsSm1ZcGVzUEFmQTRwTC0zY21IT05ITmFOQXBBVk1EbEplZDZjOU0?oc=5",
+          "source": "Google News",
+          "published": "Thu, 02 Jul 2026 01:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "당일",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정점식 \"서영교, 선거 당일 선관위원장 통화…법사위원장 사퇴해야\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sZXFWX2RScFJQWk80MHowNTdabHU0VHlyUUNGSlZOc3NQdlduSTdqUkE0VXRVSDJobHFhSmdWbTNsSm1ZcGVzUEFmQTRwTC0zY21IT05ITmFOQXBBVk1EbEplZDZjOU0?oc=5",
+          "source": "Google News",
+          "published": "Thu, 02 Jul 2026 01:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "선관위원장",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정점식 \"서영교, 선거 당일 선관위원장 통화…법사위원장 사퇴해야\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sZXFWX2RScFJQWk80MHowNTdabHU0VHlyUUNGSlZOc3NQdlduSTdqUkE0VXRVSDJobHFhSmdWbTNsSm1ZcGVzUEFmQTRwTC0zY21IT05ITmFOQXBBVk1EbEplZDZjOU0?oc=5",
+          "source": "Google News",
+          "published": "Thu, 02 Jul 2026 01:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "통화법사위원장",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정점식 \"서영교, 선거 당일 선관위원장 통화…법사위원장 사퇴해야\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sZXFWX2RScFJQWk80MHowNTdabHU0VHlyUUNGSlZOc3NQdlduSTdqUkE0VXRVSDJobHFhSmdWbTNsSm1ZcGVzUEFmQTRwTC0zY21IT05ITmFOQXBBVk1EbEplZDZjOU0?oc=5",
+          "source": "Google News",
+          "published": "Thu, 02 Jul 2026 01:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "사퇴해야",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정점식 \"서영교, 선거 당일 선관위원장 통화…법사위원장 사퇴해야\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sZXFWX2RScFJQWk80MHowNTdabHU0VHlyUUNGSlZOc3NQdlduSTdqUkE0VXRVSDJobHFhSmdWbTNsSm1ZcGVzUEFmQTRwTC0zY21IT05ITmFOQXBBVk1EbEplZDZjOU0?oc=5",
+          "source": "Google News",
+          "published": "Thu, 02 Jul 2026 01:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "먹고",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "꿀 먹고 벌통 부수고…지리산 ‘민폐 반달곰’ 보호시설로 이송 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iYTJleFJHTmVjYnNnV3Z1MXBueHpKQktCZWJ4cWx2TmVQcGYwMzd2TkxBSVdhUkRTM1o1X3VXZXE3RS1uSUlQNHRpVFRlRTZYeTJNT3lBTEJTQdIBX0FVX3lxTE84S2Vpb3VSUERHZmR5bU53VzZMLWRjdFRIR3VMQURyYkczZTZhS3RRQk82T2VDRzlfaUFuSkFFNUhaRmF6ZzUtQ1IxOWdGenVkWVdIXzFzWmtKb0ZtSXFr?oc=5",
+          "source": "Google News",
+          "published": "Thu, 02 Jul 2026 03:01:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "벌통",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "꿀 먹고 벌통 부수고…지리산 ‘민폐 반달곰’ 보호시설로 이송 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iYTJleFJHTmVjYnNnV3Z1MXBueHpKQktCZWJ4cWx2TmVQcGYwMzd2TkxBSVdhUkRTM1o1X3VXZXE3RS1uSUlQNHRpVFRlRTZYeTJNT3lBTEJTQdIBX0FVX3lxTE84S2Vpb3VSUERHZmR5bU53VzZMLWRjdFRIR3VMQURyYkczZTZhS3RRQk82T2VDRzlfaUFuSkFFNUhaRmF6ZzUtQ1IxOWdGenVkWVdIXzFzWmtKb0ZtSXFr?oc=5",
+          "source": "Google News",
+          "published": "Thu, 02 Jul 2026 03:01:00 GMT"
         }
       ]
     }
