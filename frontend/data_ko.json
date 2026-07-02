@@ -1,137 +1,81 @@
 {
   "language": "ko",
-  "last_updated": 1783017675.716138,
+  "last_updated": 1783023828.1832387,
   "count": 40,
   "trends": [
     {
-      "word": "경찰",
-      "count": 3,
+      "word": "감독",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보]‘여고생 살해범’ 장윤기 리얼돌·핸드폰 폐기···현직 경찰 부친, 증거 인멸 혐의로 감찰 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxQUMyV0cwUHhPSmF5YnY2T3A1ZlFiRDZBY2NRd2lQcS1DNTVTOUJxTkhUUzYwLUowYmVxcVdVb2JOVEdIdUZ6bkxhV0htVUhwOVRka3NtUmN4Z9IBX0FVX3lxTE5FX3BFeThLT0lXOF9GMkcyZENoaFV6ZnpCSjhEUDgyUDdKSzNoMmFjRjRsaERLTVd0aHRSNUdBSkwxaFB5YW1PdjNtTWZTNl9FSXVoYU5NTGR2WkhGeTlN?oc=5",
+          "title": "광주제일고 감독 \"배재고 3학년 드래프트 배제? 일부 잘못에 피해 우려\" - 한국일보",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tOG51MGtWam4xczVPMERFZDlmQVdPOEk5R1pRcWJjakxCS2dEZTQwSVhLbTFFaGdXeFMyV2ticU1yaTlMQkpfeXhvTTM5SVZBQXRmc0t3Y3NvV0JRTW1FTGNKMW9VQzZlZ2JtQ0Rn0gFzQVVfeXFMUGtfVTdnZWxUNVUwZkFfZEJ3cnNBYlpsenU4dWR0RkVxaHVKdGpVZnVmcjhGNHpIc1VTblhPUDJRUV8tMGV5cHhoOXlRcllEZm9vM05oa1FZVzE1VkNTZVVpcnl1ZE5jc1MzVHZ6YU95ZFhJWQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 02 Jul 2026 06:49:00 GMT"
+          "published": "Thu, 02 Jul 2026 07:50:00 GMT"
         },
-        {
-          "title": "[속보] 잠실 시위 때 경찰 때린 20대 2명, 구속영장 기각…“증거인멸·도주염려 없어” - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wRVBEZ3pwSFFlSTdKbXFLd1RNVjhYeDdnSFB1VlZaemJRU0NLZVdYd3Q5dnJrb3hXZmxCdFhDbDRwczlScHNnbUNDckdvRXVnNy1lOA?oc=5",
-          "source": "Google News",
-          "published": "Thu, 02 Jul 2026 11:02:37 GMT"
-        },
-        {
-          "title": "홍명보도 경찰 고발당해…“정몽규·이임생과 공범으로 봐야” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE14aHRRRncwSFNJVWIwTlVocWxPVS1nZ0s0dWR3T1d0OGxOU0Uwck4tRW1zOUJjUEY0OEdvWXYwY2VkODRsR1AyUVVfcEU1ZmM5d0h2VlczUkd6aDFULWlkSWJreDl0YjdLX3hqN0ZLNlhBQQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 02 Jul 2026 13:10:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "혐의",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[속보]‘여고생 살해범’ 장윤기 리얼돌·핸드폰 폐기···현직 경찰 부친, 증거 인멸 혐의로 감찰 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxQUMyV0cwUHhPSmF5YnY2T3A1ZlFiRDZBY2NRd2lQcS1DNTVTOUJxTkhUUzYwLUowYmVxcVdVb2JOVEdIdUZ6bkxhV0htVUhwOVRka3NtUmN4Z9IBX0FVX3lxTE5FX3BFeThLT0lXOF9GMkcyZENoaFV6ZnpCSjhEUDgyUDdKSzNoMmFjRjRsaERLTVd0aHRSNUdBSkwxaFB5YW1PdjNtTWZTNl9FSXVoYU5NTGR2WkhGeTlN?oc=5",
-          "source": "Google News",
-          "published": "Thu, 02 Jul 2026 06:49:00 GMT"
-        },
-        {
-          "title": "2차 종합특검, 김명수 전 합참의장 내란중요임무종사 혐의로 기소 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yWEIwTXl5YjJTR24weElHaXIyVVlZZFBUdy1PNGtlZ2t6UkZvdUl1NXNOaHdaOFQ0WVVnVmpqdmhSelJOVzRRR0NwR3VuQ1N2enAyVS1pOVpsczIzWnVtQjBZcFl5NERRUlRocHhMNXI4MGpaQ3ZB0gF3QVVfeXFMTXBUandRZHFUaGRHOFZzYm1sbXRjek5IaHlGVGFUejl6VHFxUFpsRW9aOVJRTWVSMnhiWnpWNDBVUG5PbG95d3ctYmJreEhQSENrOWRYbU1LRF80WkNfMllqUWh0MDFoQmhhTWpqREFtQktiN1dLajQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 02 Jul 2026 09:37:25 GMT"
-        },
-        {
-          "title": "만남 거부하자 ’보복 대행’…30대 남성 스토킹 등 혐의로 입건 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UVkx2YTJWVnd4RzdoN2Y1dGhYQ3o5NWFESmU4YUpjRkQzTVRjOFU0RDlvZ2FSS2p4NG5TTGw2S2NaS3R4QXJKQ0FmNmVBX0tlVjNUTXJlamNtaVRIV0lQNEtyanp4Wm8?oc=5",
-          "source": "Google News",
-          "published": "Thu, 02 Jul 2026 14:07:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "홍명보",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
         {
           "title": "[단독] 홍명보 감독, 모자·마스크 쓰고 돌연 출국‥\"언젠가는 이야기할 것\" - v.daum.net",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwV0FRbjRMQ3R1ZGhmU3EyV243dTdxanlwa3pRc2RVcDQwWXlzYm8yQjFRbVpmUkJEUm5nU2owajlHV2lVa2FTOHJkbDJUbWM?oc=5",
           "source": "Google News",
           "published": "Thu, 02 Jul 2026 11:40:10 GMT"
+        }
+      ]
+    },
+    {
+      "word": "경찰",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보] 잠실 시위 때 경찰 때린 20대 2명, 구속영장 기각…“증거인멸·도주염려 없어” - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wRVBEZ3pwSFFlSTdKbXFLd1RNVjhYeDdnSFB1VlZaemJRU0NLZVdYd3Q5dnJrb3hXZmxCdFhDbDRwczlScHNnbUNDckdvRXVnNy1lOA?oc=5",
+          "source": "Google News",
+          "published": "Thu, 02 Jul 2026 11:02:37 GMT"
         },
         {
           "title": "홍명보도 경찰 고발당해…“정몽규·이임생과 공범으로 봐야” - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE14aHRRRncwSFNJVWIwTlVocWxPVS1nZ0s0dWR3T1d0OGxOU0Uwck4tRW1zOUJjUEY0OEdvWXYwY2VkODRsR1AyUVVfcEU1ZmM5d0h2VlczUkd6aDFULWlkSWJreDl0YjdLX3hqN0ZLNlhBQQ?oc=5",
           "source": "Google News",
           "published": "Thu, 02 Jul 2026 13:10:00 GMT"
-        },
-        {
-          "title": "귀국 후 입 연 홍명보 감독 “손흥민 벤치 논란은 결과론일 뿐” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZclhjMEhVbDdGcUtJMm80eVUtNmxQSE9MUC1kakpCNlZPTTc5aGJGdE5ieGdEd2xKMTE0NTVxeVBhTFcxdGtLUWZ4Z1lxLXZDQkxYVTNjdGsteEdwMHNudEIyZlQ4VVdhejAxaTdoSHMxcWNh0gFmQVVfeXFMUFZjZlR0SEctNDA2OTN6UG0tbVdoa3E5Y2I3Tk9UdGVIYTRqQ2NZWEF5Tml0RERwZ05rbnhWWk52NWdPWFBwWVVEajJxTVlXb1ZsUFhqTWtMaDRwMWlBOG1MSWhzM2VB?oc=5",
-          "source": "Google News",
-          "published": "Thu, 02 Jul 2026 10:59:49 GMT"
         }
       ]
     },
     {
-      "word": "공개",
+      "word": "없이",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "국조특위, 투표함 등 부실관리 정황 확인…윤상현 “공개 재검표” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rdFdFU3c1c245Y1plcXozRXhzZEdLVXlycXF0WmNYZXhwMWNFdDVLR0xOR09hSEJNYzhtdTE3OVFUb2RpanlHaHp0M2hETzdrOHg0ZGxuMFk4QdIBX0FVX3lxTE9Xc09hUUZzUm9RNTE2X2JPa1hRU1hkN1phS1psX3BqSzd2WTVobkNUTE5OVkpKcENvY2VBTmxBbzFkZFNhZTBBSEliWlpqSmRyUFRYdmljdGFDSHpzVDBZ?oc=5",
+          "title": "국조특위, ‘올공’ 개표소 “투표지 247만장 보존 확인”…검증 없이 조사 종료 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1X3BmQ2lxejJ6bUhGRGJ0amRtX2RiM0xxd3dTeG02RkxJNFRwRklqdjFUQWZIY2dBbkVIQ05TRWg0N056ellvaUt2d1QxaHF2akFSMy1aOU1tUGxCdG5JUjhmY1JYSlJlZlJWOHhLRUxQN21S?oc=5",
           "source": "Google News",
-          "published": "Thu, 02 Jul 2026 12:30:00 GMT"
+          "published": "Thu, 02 Jul 2026 10:09:00 GMT"
         },
         {
-          "title": "'특종세상' 천하장사 백승일, 아내 홍주와의 근황 공개 - gukjenews.com",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ySkF5bkJERkpWZWdRYW43U0NzcEstRE5PQVBHVHUxcGtQcmpRbmlZMWtlTERGTTlwek1DS0dUNWp6X3V0R0RMV3JrZ0cwSGZRRld6eTAtTDh2SFdaOFJ4MnExTmZhTW5HWWk4aldR?oc=5",
+          "title": "미·이란 간접협상 진전 없이 종료…동결자금 해제 두고 ‘딴소리’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXVHdUOFZRbmtxTHpXczBIbVpsRFVpQ0s3WFJpWlJWdzlmVURTT0xWYmkwZW5NODJTOC14NjZva1VSRzAxbUhiOUpScTVETW9TeGNONnF5ajhFSzUxcXhGWkIzWGU2VzQyNUJqdU9YNi0tWkU?oc=5",
           "source": "Google News",
-          "published": "Thu, 02 Jul 2026 10:55:24 GMT"
+          "published": "Thu, 02 Jul 2026 09:50:00 GMT"
         }
       ]
     },
     {
-      "word": "남성",
+      "word": "악재",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "만남 거부하자 ’보복 대행’…30대 남성 스토킹 등 혐의로 입건 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UVkx2YTJWVnd4RzdoN2Y1dGhYQ3o5NWFESmU4YUpjRkQzTVRjOFU0RDlvZ2FSS2p4NG5TTGw2S2NaS3R4QXJKQ0FmNmVBX0tlVjNUTXJlamNtaVRIV0lQNEtyanp4Wm8?oc=5",
+          "title": "메타발 악재에 8000 무너진 코스피…삼전·닉스 쏠림에 연일 급등락 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1VFBBNUQ5eHJnQVJPenlWdnMtZjJsZ3dpRGhxclZ2aDUzaDFLZ3Z3NG9FS0dmV3VDZTZ4SHA4OFoxLTdaaWxtbnFSLTNWcUZia3dRMWVtdkdIYkV1NXZRX0FrUUNUUU0?oc=5",
           "source": "Google News",
-          "published": "Thu, 02 Jul 2026 14:07:00 GMT"
+          "published": "Thu, 02 Jul 2026 11:13:00 GMT"
         },
         {
-          "title": "거제 미용실서 ‘흉기 난동’ 2명 부상···80대 남성 현행범으로 체포 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBycGNhd3NHalNmY1RodWZ2SjFmdVZCdDlwLXRnVTF6aFB1SHA0UmpPRy12RGRyT2oxX3VFQXFSWTlHbFE2c1llbUQyU2xzODBiNFcyNXJfSjhiZ9IBX0FVX3lxTE5URWpEYlU5ZU9TMWRaMXZMLTBsTDZHWElOSlhQNkRUNG9oQmxHb2NkNlEzTUJFX2tEam8xam5aeG1teTJ2b2tVUVJGMDFucjNid2xnOUxidGNKbkhWdUJn?oc=5",
+          "title": "미국도 16강으로...퇴장 악재에도 보스니아 2대0 제압 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNFRZVC1RTFdpbWg1LWZ3NDQ4RWJHLTIzOWdrS0pIREVpTFNGZ3BpMmE1RGtUeFE5QU5FaVVPdGh2d2JYVUxOSnBuS1d4N013aVNrTmJXVkhfckZvT3VTR0s1RXBOUE9vT1RGTjBnRUVFb3g2ZVU4X0d2WW5UTEJxUHpHTWtOTGo4aDNJ?oc=5",
           "source": "Google News",
-          "published": "Thu, 02 Jul 2026 05:02:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "2명",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "거제 미용실서 ‘흉기 난동’ 2명 부상···80대 남성 현행범으로 체포 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBycGNhd3NHalNmY1RodWZ2SjFmdVZCdDlwLXRnVTF6aFB1SHA0UmpPRy12RGRyT2oxX3VFQXFSWTlHbFE2c1llbUQyU2xzODBiNFcyNXJfSjhiZ9IBX0FVX3lxTE5URWpEYlU5ZU9TMWRaMXZMLTBsTDZHWElOSlhQNkRUNG9oQmxHb2NkNlEzTUJFX2tEam8xam5aeG1teTJ2b2tVUVJGMDFucjNid2xnOUxidGNKbkhWdUJn?oc=5",
-          "source": "Google News",
-          "published": "Thu, 02 Jul 2026 05:02:00 GMT"
-        },
-        {
-          "title": "[속보] 잠실 시위 때 경찰 때린 20대 2명, 구속영장 기각…“증거인멸·도주염려 없어” - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wRVBEZ3pwSFFlSTdKbXFLd1RNVjhYeDdnSFB1VlZaemJRU0NLZVdYd3Q5dnJrb3hXZmxCdFhDbDRwczlScHNnbUNDckdvRXVnNy1lOA?oc=5",
-          "source": "Google News",
-          "published": "Thu, 02 Jul 2026 11:02:37 GMT"
+          "published": "Thu, 02 Jul 2026 02:47:25 GMT"
         }
       ]
     },
@@ -149,6 +93,25 @@
       ]
     },
     {
+      "word": "미국",
+      "count": 2,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "원·달러 1,540원...예상 밑돈 미국 고용 지표 여파 - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42ZHB2Vmk1eTBFLTUxZnNtbGVmbnBJMUE0Q1d6M09ZZnhjajliZ3J5N21aWEtQcGpqb2xZSGJvc0RSYWNsYjZLWnR6anU1emFXV2hDM2NaYmNaOFEtSEE?oc=5",
+          "source": "Google News",
+          "published": "Thu, 02 Jul 2026 19:05:00 GMT"
+        },
+        {
+          "title": "미국도 16강으로...퇴장 악재에도 보스니아 2대0 제압 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNFRZVC1RTFdpbWg1LWZ3NDQ4RWJHLTIzOWdrS0pIREVpTFNGZ3BpMmE1RGtUeFE5QU5FaVVPdGh2d2JYVUxOSnBuS1d4N013aVNrTmJXVkhfckZvT3VTR0s1RXBOUE9vT1RGTjBnRUVFb3g2ZVU4X0d2WW5UTEJxUHpHTWtOTGo4aDNJ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 02 Jul 2026 02:47:25 GMT"
+        }
+      ]
+    },
+    {
       "word": "랠리",
       "count": 2,
       "category": "NOUN",
@@ -162,7 +125,7 @@
       ]
     },
     {
-      "word": "감독",
+      "word": "홍명보",
       "count": 2,
       "category": "NOUN",
       "articles": [
@@ -173,10 +136,10 @@
           "published": "Thu, 02 Jul 2026 11:40:10 GMT"
         },
         {
-          "title": "귀국 후 입 연 홍명보 감독 “손흥민 벤치 논란은 결과론일 뿐” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZclhjMEhVbDdGcUtJMm80eVUtNmxQSE9MUC1kakpCNlZPTTc5aGJGdE5ieGdEd2xKMTE0NTVxeVBhTFcxdGtLUWZ4Z1lxLXZDQkxYVTNjdGsteEdwMHNudEIyZlQ4VVdhejAxaTdoSHMxcWNh0gFmQVVfeXFMUFZjZlR0SEctNDA2OTN6UG0tbVdoa3E5Y2I3Tk9UdGVIYTRqQ2NZWEF5Tml0RERwZ05rbnhWWk52NWdPWFBwWVVEajJxTVlXb1ZsUFhqTWtMaDRwMWlBOG1MSWhzM2VB?oc=5",
+          "title": "홍명보도 경찰 고발당해…“정몽규·이임생과 공범으로 봐야” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE14aHRRRncwSFNJVWIwTlVocWxPVS1nZ0s0dWR3T1d0OGxOU0Uwck4tRW1zOUJjUEY0OEdvWXYwY2VkODRsR1AyUVVfcEU1ZmM5d0h2VlczUkd6aDFULWlkSWJreDl0YjdLX3hqN0ZLNlhBQQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 02 Jul 2026 10:59:49 GMT"
+          "published": "Thu, 02 Jul 2026 13:10:00 GMT"
         }
       ]
     },
@@ -196,6 +159,240 @@
           "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNVDZXeV84el85Rk5PLXhFOWNFWFdDY2NOTHFsTkhsdmx1T0hKOUItMi1ESHExR29GOHlReFRpdlVPU05ndDZjdHpkZTlUek9CUzNwTkhRRVhxV0I2S0MzV1dta1l1OHdDSE1xc1V0X0Y4OHB4Y29CYzlEYS14a3NzTzN0OUprd2RxdTBHMW5wTUpUMUVXT0MtMzc3WUNlWDV4Y0tQeVNiaTdTQUMxUWdFX2JpRHM3ZlAyck9rSDlVakJiOHNsamhTMmtoX2JGdS1yLXc5V3ZjRkF4ODhzN3ZSTFNNWFJUOEdUbHQzOHZwbWdOMzh4bXktV0ZtUS1Hbi1QWkFmUjJ6SUs1LXY0eU1Wd0k3X3hkOXdyczN1QTlZZnNmRHBtOFB0OUd6enJlOVN3eWdDR1l4ZGFhTklpMlBsYWtRd0xSUQ?oc=5",
           "source": "Google News",
           "published": "Thu, 02 Jul 2026 06:03:13 GMT"
+        }
+      ]
+    },
+    {
+      "word": "광주제일",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "광주제일고 감독 \"배재고 3학년 드래프트 배제? 일부 잘못에 피해 우려\" - 한국일보",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tOG51MGtWam4xczVPMERFZDlmQVdPOEk5R1pRcWJjakxCS2dEZTQwSVhLbTFFaGdXeFMyV2ticU1yaTlMQkpfeXhvTTM5SVZBQXRmc0t3Y3NvV0JRTW1FTGNKMW9VQzZlZ2JtQ0Rn0gFzQVVfeXFMUGtfVTdnZWxUNVUwZkFfZEJ3cnNBYlpsenU4dWR0RkVxaHVKdGpVZnVmcjhGNHpIc1VTblhPUDJRUV8tMGV5cHhoOXlRcllEZm9vM05oa1FZVzE1VkNTZVVpcnl1ZE5jc1MzVHZ6YU95ZFhJWQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 02 Jul 2026 07:50:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "배재",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "광주제일고 감독 \"배재고 3학년 드래프트 배제? 일부 잘못에 피해 우려\" - 한국일보",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tOG51MGtWam4xczVPMERFZDlmQVdPOEk5R1pRcWJjakxCS2dEZTQwSVhLbTFFaGdXeFMyV2ticU1yaTlMQkpfeXhvTTM5SVZBQXRmc0t3Y3NvV0JRTW1FTGNKMW9VQzZlZ2JtQ0Rn0gFzQVVfeXFMUGtfVTdnZWxUNVUwZkFfZEJ3cnNBYlpsenU4dWR0RkVxaHVKdGpVZnVmcjhGNHpIc1VTblhPUDJRUV8tMGV5cHhoOXlRcllEZm9vM05oa1FZVzE1VkNTZVVpcnl1ZE5jc1MzVHZ6YU95ZFhJWQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 02 Jul 2026 07:50:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "3학년",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "광주제일고 감독 \"배재고 3학년 드래프트 배제? 일부 잘못에 피해 우려\" - 한국일보",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tOG51MGtWam4xczVPMERFZDlmQVdPOEk5R1pRcWJjakxCS2dEZTQwSVhLbTFFaGdXeFMyV2ticU1yaTlMQkpfeXhvTTM5SVZBQXRmc0t3Y3NvV0JRTW1FTGNKMW9VQzZlZ2JtQ0Rn0gFzQVVfeXFMUGtfVTdnZWxUNVUwZkFfZEJ3cnNBYlpsenU4dWR0RkVxaHVKdGpVZnVmcjhGNHpIc1VTblhPUDJRUV8tMGV5cHhoOXlRcllEZm9vM05oa1FZVzE1VkNTZVVpcnl1ZE5jc1MzVHZ6YU95ZFhJWQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 02 Jul 2026 07:50:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "드래프트",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "광주제일고 감독 \"배재고 3학년 드래프트 배제? 일부 잘못에 피해 우려\" - 한국일보",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tOG51MGtWam4xczVPMERFZDlmQVdPOEk5R1pRcWJjakxCS2dEZTQwSVhLbTFFaGdXeFMyV2ticU1yaTlMQkpfeXhvTTM5SVZBQXRmc0t3Y3NvV0JRTW1FTGNKMW9VQzZlZ2JtQ0Rn0gFzQVVfeXFMUGtfVTdnZWxUNVUwZkFfZEJ3cnNBYlpsenU4dWR0RkVxaHVKdGpVZnVmcjhGNHpIc1VTblhPUDJRUV8tMGV5cHhoOXlRcllEZm9vM05oa1FZVzE1VkNTZVVpcnl1ZE5jc1MzVHZ6YU95ZFhJWQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 02 Jul 2026 07:50:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "배제",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "광주제일고 감독 \"배재고 3학년 드래프트 배제? 일부 잘못에 피해 우려\" - 한국일보",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tOG51MGtWam4xczVPMERFZDlmQVdPOEk5R1pRcWJjakxCS2dEZTQwSVhLbTFFaGdXeFMyV2ticU1yaTlMQkpfeXhvTTM5SVZBQXRmc0t3Y3NvV0JRTW1FTGNKMW9VQzZlZ2JtQ0Rn0gFzQVVfeXFMUGtfVTdnZWxUNVUwZkFfZEJ3cnNBYlpsenU4dWR0RkVxaHVKdGpVZnVmcjhGNHpIc1VTblhPUDJRUV8tMGV5cHhoOXlRcllEZm9vM05oa1FZVzE1VkNTZVVpcnl1ZE5jc1MzVHZ6YU95ZFhJWQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 02 Jul 2026 07:50:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "잘못",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "광주제일고 감독 \"배재고 3학년 드래프트 배제? 일부 잘못에 피해 우려\" - 한국일보",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tOG51MGtWam4xczVPMERFZDlmQVdPOEk5R1pRcWJjakxCS2dEZTQwSVhLbTFFaGdXeFMyV2ticU1yaTlMQkpfeXhvTTM5SVZBQXRmc0t3Y3NvV0JRTW1FTGNKMW9VQzZlZ2JtQ0Rn0gFzQVVfeXFMUGtfVTdnZWxUNVUwZkFfZEJ3cnNBYlpsenU4dWR0RkVxaHVKdGpVZnVmcjhGNHpIc1VTblhPUDJRUV8tMGV5cHhoOXlRcllEZm9vM05oa1FZVzE1VkNTZVVpcnl1ZE5jc1MzVHZ6YU95ZFhJWQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 02 Jul 2026 07:50:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "피해",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "광주제일고 감독 \"배재고 3학년 드래프트 배제? 일부 잘못에 피해 우려\" - 한국일보",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tOG51MGtWam4xczVPMERFZDlmQVdPOEk5R1pRcWJjakxCS2dEZTQwSVhLbTFFaGdXeFMyV2ticU1yaTlMQkpfeXhvTTM5SVZBQXRmc0t3Y3NvV0JRTW1FTGNKMW9VQzZlZ2JtQ0Rn0gFzQVVfeXFMUGtfVTdnZWxUNVUwZkFfZEJ3cnNBYlpsenU4dWR0RkVxaHVKdGpVZnVmcjhGNHpIc1VTblhPUDJRUV8tMGV5cHhoOXlRcllEZm9vM05oa1FZVzE1VkNTZVVpcnl1ZE5jc1MzVHZ6YU95ZFhJWQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 02 Jul 2026 07:50:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "민주당",
+      "count": 1,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "민주당 “형소법 TF 출범, 보완수사권 폐지 실무 논의 시작”…법사위 첫 회의로 속도 내나 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4eWRhLWx6Y1hUelRNT1BUWEF2aHNwaFg2YWh1Wk16OHNzN2ZDVkM2RDZaNVpkZFpfemt2MWJyaEoyc0pmSGFNdFB0UlU3WGRyQmp3WXAwZDV3d9IBX0FVX3lxTE8zRkYwUmFZU0VBX0VWczJFeXJUbU0zNEt3MnJaRW5nZWp1MGNKSlpfSUMxblpFTlk0clNIUjFtQ214VV90WjNjeHVGMngzOF9CYlhTS3RRZW9IQ2xROFFz?oc=5",
+          "source": "Google News",
+          "published": "Thu, 02 Jul 2026 06:06:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "형소법",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "민주당 “형소법 TF 출범, 보완수사권 폐지 실무 논의 시작”…법사위 첫 회의로 속도 내나 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4eWRhLWx6Y1hUelRNT1BUWEF2aHNwaFg2YWh1Wk16OHNzN2ZDVkM2RDZaNVpkZFpfemt2MWJyaEoyc0pmSGFNdFB0UlU3WGRyQmp3WXAwZDV3d9IBX0FVX3lxTE8zRkYwUmFZU0VBX0VWczJFeXJUbU0zNEt3MnJaRW5nZWp1MGNKSlpfSUMxblpFTlk0clNIUjFtQ214VV90WjNjeHVGMngzOF9CYlhTS3RRZW9IQ2xROFFz?oc=5",
+          "source": "Google News",
+          "published": "Thu, 02 Jul 2026 06:06:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "출범",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "민주당 “형소법 TF 출범, 보완수사권 폐지 실무 논의 시작”…법사위 첫 회의로 속도 내나 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4eWRhLWx6Y1hUelRNT1BUWEF2aHNwaFg2YWh1Wk16OHNzN2ZDVkM2RDZaNVpkZFpfemt2MWJyaEoyc0pmSGFNdFB0UlU3WGRyQmp3WXAwZDV3d9IBX0FVX3lxTE8zRkYwUmFZU0VBX0VWczJFeXJUbU0zNEt3MnJaRW5nZWp1MGNKSlpfSUMxblpFTlk0clNIUjFtQ214VV90WjNjeHVGMngzOF9CYlhTS3RRZW9IQ2xROFFz?oc=5",
+          "source": "Google News",
+          "published": "Thu, 02 Jul 2026 06:06:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "보완수사권",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "민주당 “형소법 TF 출범, 보완수사권 폐지 실무 논의 시작”…법사위 첫 회의로 속도 내나 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4eWRhLWx6Y1hUelRNT1BUWEF2aHNwaFg2YWh1Wk16OHNzN2ZDVkM2RDZaNVpkZFpfemt2MWJyaEoyc0pmSGFNdFB0UlU3WGRyQmp3WXAwZDV3d9IBX0FVX3lxTE8zRkYwUmFZU0VBX0VWczJFeXJUbU0zNEt3MnJaRW5nZWp1MGNKSlpfSUMxblpFTlk0clNIUjFtQ214VV90WjNjeHVGMngzOF9CYlhTS3RRZW9IQ2xROFFz?oc=5",
+          "source": "Google News",
+          "published": "Thu, 02 Jul 2026 06:06:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "폐지",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "민주당 “형소법 TF 출범, 보완수사권 폐지 실무 논의 시작”…법사위 첫 회의로 속도 내나 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4eWRhLWx6Y1hUelRNT1BUWEF2aHNwaFg2YWh1Wk16OHNzN2ZDVkM2RDZaNVpkZFpfemt2MWJyaEoyc0pmSGFNdFB0UlU3WGRyQmp3WXAwZDV3d9IBX0FVX3lxTE8zRkYwUmFZU0VBX0VWczJFeXJUbU0zNEt3MnJaRW5nZWp1MGNKSlpfSUMxblpFTlk0clNIUjFtQ214VV90WjNjeHVGMngzOF9CYlhTS3RRZW9IQ2xROFFz?oc=5",
+          "source": "Google News",
+          "published": "Thu, 02 Jul 2026 06:06:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "실무",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "민주당 “형소법 TF 출범, 보완수사권 폐지 실무 논의 시작”…법사위 첫 회의로 속도 내나 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4eWRhLWx6Y1hUelRNT1BUWEF2aHNwaFg2YWh1Wk16OHNzN2ZDVkM2RDZaNVpkZFpfemt2MWJyaEoyc0pmSGFNdFB0UlU3WGRyQmp3WXAwZDV3d9IBX0FVX3lxTE8zRkYwUmFZU0VBX0VWczJFeXJUbU0zNEt3MnJaRW5nZWp1MGNKSlpfSUMxblpFTlk0clNIUjFtQ214VV90WjNjeHVGMngzOF9CYlhTS3RRZW9IQ2xROFFz?oc=5",
+          "source": "Google News",
+          "published": "Thu, 02 Jul 2026 06:06:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "논의",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "민주당 “형소법 TF 출범, 보완수사권 폐지 실무 논의 시작”…법사위 첫 회의로 속도 내나 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4eWRhLWx6Y1hUelRNT1BUWEF2aHNwaFg2YWh1Wk16OHNzN2ZDVkM2RDZaNVpkZFpfemt2MWJyaEoyc0pmSGFNdFB0UlU3WGRyQmp3WXAwZDV3d9IBX0FVX3lxTE8zRkYwUmFZU0VBX0VWczJFeXJUbU0zNEt3MnJaRW5nZWp1MGNKSlpfSUMxblpFTlk0clNIUjFtQ214VV90WjNjeHVGMngzOF9CYlhTS3RRZW9IQ2xROFFz?oc=5",
+          "source": "Google News",
+          "published": "Thu, 02 Jul 2026 06:06:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "시작법사위",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "민주당 “형소법 TF 출범, 보완수사권 폐지 실무 논의 시작”…법사위 첫 회의로 속도 내나 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4eWRhLWx6Y1hUelRNT1BUWEF2aHNwaFg2YWh1Wk16OHNzN2ZDVkM2RDZaNVpkZFpfemt2MWJyaEoyc0pmSGFNdFB0UlU3WGRyQmp3WXAwZDV3d9IBX0FVX3lxTE8zRkYwUmFZU0VBX0VWczJFeXJUbU0zNEt3MnJaRW5nZWp1MGNKSlpfSUMxblpFTlk0clNIUjFtQ214VV90WjNjeHVGMngzOF9CYlhTS3RRZW9IQ2xROFFz?oc=5",
+          "source": "Google News",
+          "published": "Thu, 02 Jul 2026 06:06:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "회의",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "민주당 “형소법 TF 출범, 보완수사권 폐지 실무 논의 시작”…법사위 첫 회의로 속도 내나 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4eWRhLWx6Y1hUelRNT1BUWEF2aHNwaFg2YWh1Wk16OHNzN2ZDVkM2RDZaNVpkZFpfemt2MWJyaEoyc0pmSGFNdFB0UlU3WGRyQmp3WXAwZDV3d9IBX0FVX3lxTE8zRkYwUmFZU0VBX0VWczJFeXJUbU0zNEt3MnJaRW5nZWp1MGNKSlpfSUMxblpFTlk0clNIUjFtQ214VV90WjNjeHVGMngzOF9CYlhTS3RRZW9IQ2xROFFz?oc=5",
+          "source": "Google News",
+          "published": "Thu, 02 Jul 2026 06:06:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "속도",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "민주당 “형소법 TF 출범, 보완수사권 폐지 실무 논의 시작”…법사위 첫 회의로 속도 내나 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4eWRhLWx6Y1hUelRNT1BUWEF2aHNwaFg2YWh1Wk16OHNzN2ZDVkM2RDZaNVpkZFpfemt2MWJyaEoyc0pmSGFNdFB0UlU3WGRyQmp3WXAwZDV3d9IBX0FVX3lxTE8zRkYwUmFZU0VBX0VWczJFeXJUbU0zNEt3MnJaRW5nZWp1MGNKSlpfSUMxblpFTlk0clNIUjFtQ214VV90WjNjeHVGMngzOF9CYlhTS3RRZW9IQ2xROFFz?oc=5",
+          "source": "Google News",
+          "published": "Thu, 02 Jul 2026 06:06:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "내나",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "민주당 “형소법 TF 출범, 보완수사권 폐지 실무 논의 시작”…법사위 첫 회의로 속도 내나 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4eWRhLWx6Y1hUelRNT1BUWEF2aHNwaFg2YWh1Wk16OHNzN2ZDVkM2RDZaNVpkZFpfemt2MWJyaEoyc0pmSGFNdFB0UlU3WGRyQmp3WXAwZDV3d9IBX0FVX3lxTE8zRkYwUmFZU0VBX0VWczJFeXJUbU0zNEt3MnJaRW5nZWp1MGNKSlpfSUMxblpFTlk0clNIUjFtQ214VV90WjNjeHVGMngzOF9CYlhTS3RRZW9IQ2xROFFz?oc=5",
+          "source": "Google News",
+          "published": "Thu, 02 Jul 2026 06:06:00 GMT"
         }
       ]
     },
@@ -356,236 +553,15 @@
       ]
     },
     {
-      "word": "사설",
+      "word": "나경원",
       "count": 1,
-      "category": "NOUN",
+      "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "[사설] 무거운 심정으로 바라보게 되는 ‘배재고 사태’ - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdm1OX0FZVHVMbmF5NlZJWndYYkFXOUVWdmZqVE5iT1NvcG1nVS1VbUR5ZDUtX0VZelBKTWJJV3FJZjY1ZUJCWkJxMWhLT2ZSSVM0Q0d1ZEFpVk9xRjRfYjdrZmtqb3lNRTNzcG5CbDN4LVlRZDd0RmpZSWhKOERLcHJ6VUZmUQ?oc=5",
+          "title": "나경원 “법사위원장, 차라리 추미애가 나아…국회 해산해야” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QdDZMOTBaa3UwTnlXa3E4ZllUZnVILUtGVm15M3hERV9uUW9WWF95Y2Nubm44WVJGaTFkWkRTY053TXp2Q1hUUEd5Q3F1VUxpU3hiX3BGeGRBVTlMS2llV2tnRE9venRRelhKblkybkF0Sm1T?oc=5",
           "source": "Google News",
-          "published": "Thu, 02 Jul 2026 15:02:51 GMT"
-        }
-      ]
-    },
-    {
-      "word": "무거운",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[사설] 무거운 심정으로 바라보게 되는 ‘배재고 사태’ - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdm1OX0FZVHVMbmF5NlZJWndYYkFXOUVWdmZqVE5iT1NvcG1nVS1VbUR5ZDUtX0VZelBKTWJJV3FJZjY1ZUJCWkJxMWhLT2ZSSVM0Q0d1ZEFpVk9xRjRfYjdrZmtqb3lNRTNzcG5CbDN4LVlRZDd0RmpZSWhKOERLcHJ6VUZmUQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 02 Jul 2026 15:02:51 GMT"
-        }
-      ]
-    },
-    {
-      "word": "심정",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[사설] 무거운 심정으로 바라보게 되는 ‘배재고 사태’ - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdm1OX0FZVHVMbmF5NlZJWndYYkFXOUVWdmZqVE5iT1NvcG1nVS1VbUR5ZDUtX0VZelBKTWJJV3FJZjY1ZUJCWkJxMWhLT2ZSSVM0Q0d1ZEFpVk9xRjRfYjdrZmtqb3lNRTNzcG5CbDN4LVlRZDd0RmpZSWhKOERLcHJ6VUZmUQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 02 Jul 2026 15:02:51 GMT"
-        }
-      ]
-    },
-    {
-      "word": "바라보게",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[사설] 무거운 심정으로 바라보게 되는 ‘배재고 사태’ - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdm1OX0FZVHVMbmF5NlZJWndYYkFXOUVWdmZqVE5iT1NvcG1nVS1VbUR5ZDUtX0VZelBKTWJJV3FJZjY1ZUJCWkJxMWhLT2ZSSVM0Q0d1ZEFpVk9xRjRfYjdrZmtqb3lNRTNzcG5CbDN4LVlRZDd0RmpZSWhKOERLcHJ6VUZmUQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 02 Jul 2026 15:02:51 GMT"
-        }
-      ]
-    },
-    {
-      "word": "되는",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[사설] 무거운 심정으로 바라보게 되는 ‘배재고 사태’ - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdm1OX0FZVHVMbmF5NlZJWndYYkFXOUVWdmZqVE5iT1NvcG1nVS1VbUR5ZDUtX0VZelBKTWJJV3FJZjY1ZUJCWkJxMWhLT2ZSSVM0Q0d1ZEFpVk9xRjRfYjdrZmtqb3lNRTNzcG5CbDN4LVlRZDd0RmpZSWhKOERLcHJ6VUZmUQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 02 Jul 2026 15:02:51 GMT"
-        }
-      ]
-    },
-    {
-      "word": "배재",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[사설] 무거운 심정으로 바라보게 되는 ‘배재고 사태’ - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdm1OX0FZVHVMbmF5NlZJWndYYkFXOUVWdmZqVE5iT1NvcG1nVS1VbUR5ZDUtX0VZelBKTWJJV3FJZjY1ZUJCWkJxMWhLT2ZSSVM0Q0d1ZEFpVk9xRjRfYjdrZmtqb3lNRTNzcG5CbDN4LVlRZDd0RmpZSWhKOERLcHJ6VUZmUQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 02 Jul 2026 15:02:51 GMT"
-        }
-      ]
-    },
-    {
-      "word": "사태",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[사설] 무거운 심정으로 바라보게 되는 ‘배재고 사태’ - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdm1OX0FZVHVMbmF5NlZJWndYYkFXOUVWdmZqVE5iT1NvcG1nVS1VbUR5ZDUtX0VZelBKTWJJV3FJZjY1ZUJCWkJxMWhLT2ZSSVM0Q0d1ZEFpVk9xRjRfYjdrZmtqb3lNRTNzcG5CbDN4LVlRZDd0RmpZSWhKOERLcHJ6VUZmUQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 02 Jul 2026 15:02:51 GMT"
-        }
-      ]
-    },
-    {
-      "word": "국조특위",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "국조특위, 투표함 등 부실관리 정황 확인…윤상현 “공개 재검표” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rdFdFU3c1c245Y1plcXozRXhzZEdLVXlycXF0WmNYZXhwMWNFdDVLR0xOR09hSEJNYzhtdTE3OVFUb2RpanlHaHp0M2hETzdrOHg0ZGxuMFk4QdIBX0FVX3lxTE9Xc09hUUZzUm9RNTE2X2JPa1hRU1hkN1phS1psX3BqSzd2WTVobkNUTE5OVkpKcENvY2VBTmxBbzFkZFNhZTBBSEliWlpqSmRyUFRYdmljdGFDSHpzVDBZ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 02 Jul 2026 12:30:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "투표함",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "국조특위, 투표함 등 부실관리 정황 확인…윤상현 “공개 재검표” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rdFdFU3c1c245Y1plcXozRXhzZEdLVXlycXF0WmNYZXhwMWNFdDVLR0xOR09hSEJNYzhtdTE3OVFUb2RpanlHaHp0M2hETzdrOHg0ZGxuMFk4QdIBX0FVX3lxTE9Xc09hUUZzUm9RNTE2X2JPa1hRU1hkN1phS1psX3BqSzd2WTVobkNUTE5OVkpKcENvY2VBTmxBbzFkZFNhZTBBSEliWlpqSmRyUFRYdmljdGFDSHpzVDBZ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 02 Jul 2026 12:30:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "부실관리",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "국조특위, 투표함 등 부실관리 정황 확인…윤상현 “공개 재검표” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rdFdFU3c1c245Y1plcXozRXhzZEdLVXlycXF0WmNYZXhwMWNFdDVLR0xOR09hSEJNYzhtdTE3OVFUb2RpanlHaHp0M2hETzdrOHg0ZGxuMFk4QdIBX0FVX3lxTE9Xc09hUUZzUm9RNTE2X2JPa1hRU1hkN1phS1psX3BqSzd2WTVobkNUTE5OVkpKcENvY2VBTmxBbzFkZFNhZTBBSEliWlpqSmRyUFRYdmljdGFDSHpzVDBZ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 02 Jul 2026 12:30:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "정황",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "국조특위, 투표함 등 부실관리 정황 확인…윤상현 “공개 재검표” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rdFdFU3c1c245Y1plcXozRXhzZEdLVXlycXF0WmNYZXhwMWNFdDVLR0xOR09hSEJNYzhtdTE3OVFUb2RpanlHaHp0M2hETzdrOHg0ZGxuMFk4QdIBX0FVX3lxTE9Xc09hUUZzUm9RNTE2X2JPa1hRU1hkN1phS1psX3BqSzd2WTVobkNUTE5OVkpKcENvY2VBTmxBbzFkZFNhZTBBSEliWlpqSmRyUFRYdmljdGFDSHpzVDBZ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 02 Jul 2026 12:30:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "확인윤상현",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "국조특위, 투표함 등 부실관리 정황 확인…윤상현 “공개 재검표” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rdFdFU3c1c245Y1plcXozRXhzZEdLVXlycXF0WmNYZXhwMWNFdDVLR0xOR09hSEJNYzhtdTE3OVFUb2RpanlHaHp0M2hETzdrOHg0ZGxuMFk4QdIBX0FVX3lxTE9Xc09hUUZzUm9RNTE2X2JPa1hRU1hkN1phS1psX3BqSzd2WTVobkNUTE5OVkpKcENvY2VBTmxBbzFkZFNhZTBBSEliWlpqSmRyUFRYdmljdGFDSHpzVDBZ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 02 Jul 2026 12:30:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "재검표",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "국조특위, 투표함 등 부실관리 정황 확인…윤상현 “공개 재검표” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rdFdFU3c1c245Y1plcXozRXhzZEdLVXlycXF0WmNYZXhwMWNFdDVLR0xOR09hSEJNYzhtdTE3OVFUb2RpanlHaHp0M2hETzdrOHg0ZGxuMFk4QdIBX0FVX3lxTE9Xc09hUUZzUm9RNTE2X2JPa1hRU1hkN1phS1psX3BqSzd2WTVobkNUTE5OVkpKcENvY2VBTmxBbzFkZFNhZTBBSEliWlpqSmRyUFRYdmljdGFDSHpzVDBZ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 02 Jul 2026 12:30:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "서영교",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "서영교 \"형사소송법 다음주 소위로…보완수사권 최대한 빨리 정리\" - 주간조선",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hUFZ1cllVSGFidFdXc1o5M1otSTJZTWN5UzBuMEFyZG1vSFlmTGF2UWJqaTlrOG5jeDltMkxyWW85UlVWS29xMlplV1JFSUFkOTNsVUVLX3FmMHNaTHYweTlqUjFCMjdFVHc?oc=5",
-          "source": "Google News",
-          "published": "Thu, 02 Jul 2026 13:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "형사소송법",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "서영교 \"형사소송법 다음주 소위로…보완수사권 최대한 빨리 정리\" - 주간조선",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hUFZ1cllVSGFidFdXc1o5M1otSTJZTWN5UzBuMEFyZG1vSFlmTGF2UWJqaTlrOG5jeDltMkxyWW85UlVWS29xMlplV1JFSUFkOTNsVUVLX3FmMHNaTHYweTlqUjFCMjdFVHc?oc=5",
-          "source": "Google News",
-          "published": "Thu, 02 Jul 2026 13:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "다음주",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "서영교 \"형사소송법 다음주 소위로…보완수사권 최대한 빨리 정리\" - 주간조선",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hUFZ1cllVSGFidFdXc1o5M1otSTJZTWN5UzBuMEFyZG1vSFlmTGF2UWJqaTlrOG5jeDltMkxyWW85UlVWS29xMlplV1JFSUFkOTNsVUVLX3FmMHNaTHYweTlqUjFCMjdFVHc?oc=5",
-          "source": "Google News",
-          "published": "Thu, 02 Jul 2026 13:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "소위로보완수사권",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "서영교 \"형사소송법 다음주 소위로…보완수사권 최대한 빨리 정리\" - 주간조선",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hUFZ1cllVSGFidFdXc1o5M1otSTJZTWN5UzBuMEFyZG1vSFlmTGF2UWJqaTlrOG5jeDltMkxyWW85UlVWS29xMlplV1JFSUFkOTNsVUVLX3FmMHNaTHYweTlqUjFCMjdFVHc?oc=5",
-          "source": "Google News",
-          "published": "Thu, 02 Jul 2026 13:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "빨리",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "서영교 \"형사소송법 다음주 소위로…보완수사권 최대한 빨리 정리\" - 주간조선",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hUFZ1cllVSGFidFdXc1o5M1otSTJZTWN5UzBuMEFyZG1vSFlmTGF2UWJqaTlrOG5jeDltMkxyWW85UlVWS29xMlplV1JFSUFkOTNsVUVLX3FmMHNaTHYweTlqUjFCMjdFVHc?oc=5",
-          "source": "Google News",
-          "published": "Thu, 02 Jul 2026 13:20:00 GMT"
+          "published": "Thu, 02 Jul 2026 09:00:00 GMT"
         }
       ]
     }
