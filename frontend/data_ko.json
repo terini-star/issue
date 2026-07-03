@@ -1,30 +1,56 @@
 {
   "language": "ko",
-  "last_updated": 1783088699.5662892,
+  "last_updated": 1783096864.0709865,
   "count": 40,
   "trends": [
     {
+      "word": "의혹",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "’딸 교수 임용 특혜 의혹’ 유승민 전 의원 피의자 조사…11시간 진행 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqcmlkbzlaeW5KNUlQanZOLUJEUGFNZllrRTJ6czhEZUdTcVpjVHVsaGNrNzdvY1ZoVnU2Y1g5akVvUkItYl9LcWM2WktuSmhiQVVLT0xaT1JtVXA2S3JGN2pETF82RUk?oc=5",
+          "source": "Google News",
+          "published": "Fri, 03 Jul 2026 14:23:00 GMT"
+        },
+        {
+          "title": "'계엄가담 의혹' 前해경간부들 구속영장 기각…\"혐의다툼 여지\" - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kM1E5VW1QSmdBQzJyZUxVVFZTbnJfaUpxNzJRRXpXc1dTODJWTEVFbUFMcmxVZXpzTl9UcnctbDg3cWEwZ2p2bGpKcTV0R2l0czh2cDRIZVVIM2_SAWBBVV95cUxNVW5RLTBRVjVjN2h4UVFYbVVTT0t1YmEybEFTdlRLWXpQRFAzWnhnLThqdTlBNUdTS0N4WW1fRmRfUXNESU9wdUVZNjl0dWs3SF9GbUFYWTB1YXVxVUxJdEM?oc=5",
+          "source": "Google News",
+          "published": "Fri, 03 Jul 2026 13:52:41 GMT"
+        }
+      ]
+    },
+    {
+      "word": "정부",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "백악관까지 “이재명 정부 쿠팡 표적 차별”…정부, 이틀 연속 반박 나서 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mZHhTYUlXX0JrQmNyWmJ6Q1BfczJPX2pRWGYxUDdsSWpraHYwWUtQSmNRSmJwQ18wM29GNG9HWU04NGMzNkZfLV9CZ3FDcGF4NHNkVjByaE5xRThKb3pCMTJtMWk5TTgxY01FT2I2dE5ONE5z?oc=5",
+          "source": "Google News",
+          "published": "Fri, 03 Jul 2026 13:11:00 GMT"
+        },
+        {
+          "title": "[비즈톡톡] 오픈AI는 美 정부에 지분, 앤트로픽은 美 국민에 주식… AI 이익 공유 해법 갈렸다 - 조선비즈 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcTJ5dktvNUdkci1xZ3hIWWsySXdRMHpkSUZZSnpTQk14aXNrakpkZDl2UXMyLWRQZmpTNVJrOE14ZDFsSTZia0FmRDFuTlRFM3Fsd2JwT3V3VGxtNXJLWFM0TngtRkgzdXdEYTVmVm1ULWFuRFdacERMTlZ6TFZtZEJR0gGWAUFVX3lxTE5HNmZDbTE1NDhObEVOM2FLTjhxT19CdTB2NmZOeXhfbURHQml5c0JPZ2R3c0NLWWxXdHF1SWZiSWwzZFRKTm40VFQ4QlA3d0hJRDlNeVNXbi1SNzVNS1l5aHlKYkh4cll4Q1NLMTNxUG5fbGlRbzROU1pHY3hjb3ZhbUpJbko4a3l0SzMwc2kxOGtSWW5oQQ?oc=5",
+          "source": "Google News",
+          "published": "Fri, 03 Jul 2026 07:28:00 GMT"
+        }
+      ]
+    },
+    {
       "word": "대통령",
-      "count": 4,
+      "count": 2,
       "category": "PERSON",
       "articles": [
         {
-          "title": "[투나잇이슈] 대통령 지지율 54%로 3주 만 반등 ‘경제·민생’ 1위 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pU1EwNGY4YVhfcFlwVnpseHA3cERDSEpBYm1qaERvSWJvSjRielFzSHRScHVLMElULW1CWjNkWWxuMkF1YXpyaGkzR2xmcllfemtZd05XTG9MSVRKQkZxdTFSUWp4LTA?oc=5",
+          "title": "대통령 지지율 3주 만에 반등해 54%…민주 41%·국힘 26% - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vYUlpOVRGTnYtT2J1d08zMWR5VlROcFJsbXhMZDBrLVBROGxDVHhjWUpYQXNoX1lsbkRRY1BRU0JJMHRtX0hfM1RSSUw0QXBQU183XzllZ05EU0YxejFaVjlUMTFTS1pWc1RFLW5Ta0NsZHgyWTZ5YdIBeEFVX3lxTFBWM1R5UW01U3lrbHctb2ZxMHUxcC0wa21VcUVoU25mbUJSN0luOW5KNl9WOHJlZ0tDc01GdHVsSFZpdWp0TGFNOWNRUEYxdFR3aEViMGIwRlNoUXdtZUNiY1JZNloyZlNrMVh0bGxKQVVFcmRFemtnTQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 03 Jul 2026 13:46:00 GMT"
-        },
-        {
-          "title": "이 대통령, 민항기 국제공동개발 전담팀 지시…“우주항공은 미래 먹거리” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11eFg4MDF3SGx2aUwxUGcwLURXU2Z5ZWZlMThaVGd0MFZtcWpwVTA5YkRkbVpMdjZleHAtV0RremVVY25hbFR0dksyT3pCRndDQ1BJajNiUnFrMEtEZTluMVVEbXR2bGZrczRv?oc=5",
-          "source": "Google News",
-          "published": "Fri, 03 Jul 2026 09:03:00 GMT"
-        },
-        {
-          "title": "이 대통령, 7~8일 나토서 ‘방산 외교’ 나선다…9~11일엔 몽골 국빈방문 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XUmNFQVcwUW5SVDhOaGl2LTVFUU54TW8tODJ4Xy1BRFVJLUhRRTJXaThSNnlyVkdQMWNjcWNQNVBmRnQ1X193NjU5eXVSMVF6b2lmaWxISjZUZExBOUd6aGU1SnRVaHdjZVV3?oc=5",
-          "source": "Google News",
-          "published": "Fri, 03 Jul 2026 05:21:00 GMT"
+          "published": "Fri, 03 Jul 2026 01:38:56 GMT"
         },
         {
           "title": "[속보]이 대통령 “영남에 피지컬 AI·우주항공 집중 육성”…한화·현대차 등 투자 발표 - 경향신문",
@@ -35,21 +61,53 @@
       ]
     },
     {
-      "word": "월드컵",
+      "word": "없는",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "대한축구협회, 월드컵 졸전 공식 사과… “대표팀 의혹 보도는 사실무근” - 경기일보",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtNWZWb0xpRmtCS0hmblZ5dW9VaGYwZEloWEZ6ODFmOXhVODBCZDJuc0RJcnFJenFoeWhYSHEtZ1QteDlhLVNLc3NYZzNNSERITGFLbGpWWC15ZEU?oc=5",
+          "title": "\"에어컨 없는 유럽\"…열돔 갇힌 스페인·프랑스서 수천 명 숨졌다 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03eVFHa2FEakhnbnVVOV8wei1nbWZZQzJSaVhudnJPUEVxTG95aWQ1aS1tVkJ4TmNSc2VKc0hKc2p2T3RNbFYyMk9RUkJYa0dBRnV2Ny1zbDZ5Zw?oc=5",
           "source": "Google News",
-          "published": "Fri, 03 Jul 2026 13:38:05 GMT"
+          "published": "Fri, 03 Jul 2026 12:37:05 GMT"
         },
         {
-          "title": "손흥민, 월드컵 ‘워스트 5인’ 선정…“기대 이하” 日매체 - 문화일보",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tWWZBX3BSeFBWN3dtN0ZFdzB3S1g0dXpVbXZuSVduUEFFUE83VWdoNlZTdEM5S0hXSjNVVUR2LUJpMWpCWXI2Smc4M1pFLXlu?oc=5",
+          "title": "치매 없는 뇌전증 환자 뇌 속 타우 단백질 증가 확인 - 의약뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56M0lPSXQ2UGJmc2h4NXl4cGZBODZ4RDB0Xzc1Z1hfNHIwQ3QxbFV1X2EySGNGTkJBWERIZUwyZDZKeDg1UTdsRVdTWEl1X1VTSnI3S2pIVkpZeU5OcExrTjR3ZmZBenM?oc=5",
           "source": "Google News",
-          "published": "Fri, 03 Jul 2026 12:39:52 GMT"
+          "published": "Fri, 03 Jul 2026 08:51:35 GMT"
+        }
+      ]
+    },
+    {
+      "word": "여행",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[해외 크리에이티브] 여행 콘텐츠가 예약으로 이어지는 순간…익스피디아, 아이쇼스피드와 쇼퍼블 여행 공개 - 매드타임스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zT1Fna0hRNkdYM0FLREFrdGxQTy0wV2kxU2xRa2lWZnVKUjZHcjdzX2Y4cjVVRjJFdnN4YWlSbWRSVjZOTDRJTExWcDdGV0ZLWEpFaV9ub3ppVmdPa2ZhMF81VG52ZTJYeFlmZg?oc=5",
+          "source": "Google News",
+          "published": "Fri, 03 Jul 2026 15:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "홍명보",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "\"홍명보 다음은 누구?\"…축구협회, 후임 선임 본격 착수 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VOWZnS05XTjhRR0dvZTNTMk8wZWZVdXc1a1J2dWxJUjRKTFFaeTNrcUNraFYxOUJTeVN6ek14ejJJdGV6ME5YN3ZIQldtNzdPWXpGVFJLSXhid9IBVEFVX3lxTFBqNUxYa1dMb3NnT2U3ZklUQW54SVJjRlRQV096SlAxenBUQVlTYkVhVWNWU2JuZmc0Z2VRR0RoaG9GVWRMeFhRbnNOU2VFSFZrMThDeQ?oc=5",
+          "source": "Google News",
+          "published": "Fri, 03 Jul 2026 13:48:41 GMT"
+        },
+        {
+          "title": "이 와중에 일본까지 간다면…‘대표팀 떠난 홍명보’ J리그가 주목 - 농민신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyLVpmeEUycENPTGtpSTZrV2NjZDZqSlY4dWItVVdBSk96SlU1bEdWWlNkdThZVHZCbGxMQnJwWmtHYUFGejQ3OWwycEhMdmhtWjh2VktCU1JkQQ?oc=5",
+          "source": "Google News",
+          "published": "Fri, 03 Jul 2026 11:00:00 GMT"
         }
       ]
     },
@@ -86,15 +144,41 @@
       ]
     },
     {
-      "word": "서울교육청",
+      "word": "임명",
       "count": 1,
-      "category": "ORGANIZATION",
+      "category": "NOUN",
       "articles": [
         {
-          "title": "서울교육청 “배재고 학생 징계 먼저…교장 등 관리책임은 그 뒤 검토” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yREtkQzhIY1pmcjVrc0tGZlNSV1Jvd0V0UXVvVHRlcnduMFdVTk1ZejRLRmZROHdVTkFYMzktV3ZRTDllbWFMNFc2SlBsZGVaM1JiVzVBX0syanpIUkROZFpadzU1b1hQdHc?oc=5",
+          "title": "李가 임명한 ‘총리급’ 이병태 “배재고 징계, 북한 같다” - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc2tJTlNMYXl6UTVCZWZMNnc1RkVMVmRPMDRtbVRtWWlIWW5qLW5MRS1fbnVJa3JLQ21Oa3Bmb3JsbFRaZmFkWXhramJYUlVYaTdpbmVUbGZGNWJrSlZxYWlEc3U1RHhNeWg3TEduZ1dkdkpXVFJXZDBrQ3pGMjVPaHU0bml3WVJpSGRNZTR6SEE?oc=5",
           "source": "Google News",
-          "published": "Fri, 03 Jul 2026 07:54:00 GMT"
+          "published": "Fri, 03 Jul 2026 13:34:53 GMT"
+        }
+      ]
+    },
+    {
+      "word": "총리급",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "李가 임명한 ‘총리급’ 이병태 “배재고 징계, 북한 같다” - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc2tJTlNMYXl6UTVCZWZMNnc1RkVMVmRPMDRtbVRtWWlIWW5qLW5MRS1fbnVJa3JLQ21Oa3Bmb3JsbFRaZmFkWXhramJYUlVYaTdpbmVUbGZGNWJrSlZxYWlEc3U1RHhNeWg3TEduZ1dkdkpXVFJXZDBrQ3pGMjVPaHU0bml3WVJpSGRNZTR6SEE?oc=5",
+          "source": "Google News",
+          "published": "Fri, 03 Jul 2026 13:34:53 GMT"
+        }
+      ]
+    },
+    {
+      "word": "이병태",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "李가 임명한 ‘총리급’ 이병태 “배재고 징계, 북한 같다” - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc2tJTlNMYXl6UTVCZWZMNnc1RkVMVmRPMDRtbVRtWWlIWW5qLW5MRS1fbnVJa3JLQ21Oa3Bmb3JsbFRaZmFkWXhramJYUlVYaTdpbmVUbGZGNWJrSlZxYWlEc3U1RHhNeWg3TEduZ1dkdkpXVFJXZDBrQ3pGMjVPaHU0bml3WVJpSGRNZTR6SEE?oc=5",
+          "source": "Google News",
+          "published": "Fri, 03 Jul 2026 13:34:53 GMT"
         }
       ]
     },
@@ -104,23 +188,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "서울교육청 “배재고 학생 징계 먼저…교장 등 관리책임은 그 뒤 검토” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yREtkQzhIY1pmcjVrc0tGZlNSV1Jvd0V0UXVvVHRlcnduMFdVTk1ZejRLRmZROHdVTkFYMzktV3ZRTDllbWFMNFc2SlBsZGVaM1JiVzVBX0syanpIUkROZFpadzU1b1hQdHc?oc=5",
+          "title": "李가 임명한 ‘총리급’ 이병태 “배재고 징계, 북한 같다” - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc2tJTlNMYXl6UTVCZWZMNnc1RkVMVmRPMDRtbVRtWWlIWW5qLW5MRS1fbnVJa3JLQ21Oa3Bmb3JsbFRaZmFkWXhramJYUlVYaTdpbmVUbGZGNWJrSlZxYWlEc3U1RHhNeWg3TEduZ1dkdkpXVFJXZDBrQ3pGMjVPaHU0bml3WVJpSGRNZTR6SEE?oc=5",
           "source": "Google News",
-          "published": "Fri, 03 Jul 2026 07:54:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "학생",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "서울교육청 “배재고 학생 징계 먼저…교장 등 관리책임은 그 뒤 검토” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yREtkQzhIY1pmcjVrc0tGZlNSV1Jvd0V0UXVvVHRlcnduMFdVTk1ZejRLRmZROHdVTkFYMzktV3ZRTDllbWFMNFc2SlBsZGVaM1JiVzVBX0syanpIUkROZFpadzU1b1hQdHc?oc=5",
-          "source": "Google News",
-          "published": "Fri, 03 Jul 2026 07:54:00 GMT"
+          "published": "Fri, 03 Jul 2026 13:34:53 GMT"
         }
       ]
     },
@@ -130,127 +201,153 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "서울교육청 “배재고 학생 징계 먼저…교장 등 관리책임은 그 뒤 검토” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yREtkQzhIY1pmcjVrc0tGZlNSV1Jvd0V0UXVvVHRlcnduMFdVTk1ZejRLRmZROHdVTkFYMzktV3ZRTDllbWFMNFc2SlBsZGVaM1JiVzVBX0syanpIUkROZFpadzU1b1hQdHc?oc=5",
+          "title": "李가 임명한 ‘총리급’ 이병태 “배재고 징계, 북한 같다” - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc2tJTlNMYXl6UTVCZWZMNnc1RkVMVmRPMDRtbVRtWWlIWW5qLW5MRS1fbnVJa3JLQ21Oa3Bmb3JsbFRaZmFkWXhramJYUlVYaTdpbmVUbGZGNWJrSlZxYWlEc3U1RHhNeWg3TEduZ1dkdkpXVFJXZDBrQ3pGMjVPaHU0bml3WVJpSGRNZTR6SEE?oc=5",
           "source": "Google News",
-          "published": "Fri, 03 Jul 2026 07:54:00 GMT"
+          "published": "Fri, 03 Jul 2026 13:34:53 GMT"
         }
       ]
     },
     {
-      "word": "먼저교장",
+      "word": "북한",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "서울교육청 “배재고 학생 징계 먼저…교장 등 관리책임은 그 뒤 검토” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yREtkQzhIY1pmcjVrc0tGZlNSV1Jvd0V0UXVvVHRlcnduMFdVTk1ZejRLRmZROHdVTkFYMzktV3ZRTDllbWFMNFc2SlBsZGVaM1JiVzVBX0syanpIUkROZFpadzU1b1hQdHc?oc=5",
+          "title": "李가 임명한 ‘총리급’ 이병태 “배재고 징계, 북한 같다” - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc2tJTlNMYXl6UTVCZWZMNnc1RkVMVmRPMDRtbVRtWWlIWW5qLW5MRS1fbnVJa3JLQ21Oa3Bmb3JsbFRaZmFkWXhramJYUlVYaTdpbmVUbGZGNWJrSlZxYWlEc3U1RHhNeWg3TEduZ1dkdkpXVFJXZDBrQ3pGMjVPaHU0bml3WVJpSGRNZTR6SEE?oc=5",
           "source": "Google News",
-          "published": "Fri, 03 Jul 2026 07:54:00 GMT"
+          "published": "Fri, 03 Jul 2026 13:34:53 GMT"
         }
       ]
     },
     {
-      "word": "관리책임",
+      "word": "같다",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "서울교육청 “배재고 학생 징계 먼저…교장 등 관리책임은 그 뒤 검토” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yREtkQzhIY1pmcjVrc0tGZlNSV1Jvd0V0UXVvVHRlcnduMFdVTk1ZejRLRmZROHdVTkFYMzktV3ZRTDllbWFMNFc2SlBsZGVaM1JiVzVBX0syanpIUkROZFpadzU1b1hQdHc?oc=5",
+          "title": "李가 임명한 ‘총리급’ 이병태 “배재고 징계, 북한 같다” - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc2tJTlNMYXl6UTVCZWZMNnc1RkVMVmRPMDRtbVRtWWlIWW5qLW5MRS1fbnVJa3JLQ21Oa3Bmb3JsbFRaZmFkWXhramJYUlVYaTdpbmVUbGZGNWJrSlZxYWlEc3U1RHhNeWg3TEduZ1dkdkpXVFJXZDBrQ3pGMjVPaHU0bml3WVJpSGRNZTR6SEE?oc=5",
           "source": "Google News",
-          "published": "Fri, 03 Jul 2026 07:54:00 GMT"
+          "published": "Fri, 03 Jul 2026 13:34:53 GMT"
         }
       ]
     },
     {
-      "word": "검토",
+      "word": "교수",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "서울교육청 “배재고 학생 징계 먼저…교장 등 관리책임은 그 뒤 검토” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yREtkQzhIY1pmcjVrc0tGZlNSV1Jvd0V0UXVvVHRlcnduMFdVTk1ZejRLRmZROHdVTkFYMzktV3ZRTDllbWFMNFc2SlBsZGVaM1JiVzVBX0syanpIUkROZFpadzU1b1hQdHc?oc=5",
+          "title": "’딸 교수 임용 특혜 의혹’ 유승민 전 의원 피의자 조사…11시간 진행 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqcmlkbzlaeW5KNUlQanZOLUJEUGFNZllrRTJ6czhEZUdTcVpjVHVsaGNrNzdvY1ZoVnU2Y1g5akVvUkItYl9LcWM2WktuSmhiQVVLT0xaT1JtVXA2S3JGN2pETF82RUk?oc=5",
           "source": "Google News",
-          "published": "Fri, 03 Jul 2026 07:54:00 GMT"
+          "published": "Fri, 03 Jul 2026 14:23:00 GMT"
         }
       ]
     },
     {
-      "word": "주말",
+      "word": "임용",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "주말 전국에 장맛비...폭염 수준 더위도 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZTFrMFlfVGI0XzNqbXV1ZHg2eVBMd3ZTOEN1Vk12eWptMlZDMGpIeTFVZE43YmtCSnZlU21Dc1JZWG5aY0F0MjFNUVJSeC05NkR4NEdXTFYwUTJEU013TFBCVjBhRUxXVjdhMUo4WDFuTC0zRFQtaUwxQlJQS2lLMnAyaDZFVXBxVEFualpic2VwX2pRamZV?oc=5",
+          "title": "’딸 교수 임용 특혜 의혹’ 유승민 전 의원 피의자 조사…11시간 진행 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqcmlkbzlaeW5KNUlQanZOLUJEUGFNZllrRTJ6czhEZUdTcVpjVHVsaGNrNzdvY1ZoVnU2Y1g5akVvUkItYl9LcWM2WktuSmhiQVVLT0xaT1JtVXA2S3JGN2pETF82RUk?oc=5",
           "source": "Google News",
-          "published": "Fri, 03 Jul 2026 01:27:40 GMT"
+          "published": "Fri, 03 Jul 2026 14:23:00 GMT"
         }
       ]
     },
     {
-      "word": "전국",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "주말 전국에 장맛비...폭염 수준 더위도 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZTFrMFlfVGI0XzNqbXV1ZHg2eVBMd3ZTOEN1Vk12eWptMlZDMGpIeTFVZE43YmtCSnZlU21Dc1JZWG5aY0F0MjFNUVJSeC05NkR4NEdXTFYwUTJEU013TFBCVjBhRUxXVjdhMUo4WDFuTC0zRFQtaUwxQlJQS2lLMnAyaDZFVXBxVEFualpic2VwX2pRamZV?oc=5",
-          "source": "Google News",
-          "published": "Fri, 03 Jul 2026 01:27:40 GMT"
-        }
-      ]
-    },
-    {
-      "word": "장맛비폭염",
+      "word": "특혜",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "주말 전국에 장맛비...폭염 수준 더위도 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZTFrMFlfVGI0XzNqbXV1ZHg2eVBMd3ZTOEN1Vk12eWptMlZDMGpIeTFVZE43YmtCSnZlU21Dc1JZWG5aY0F0MjFNUVJSeC05NkR4NEdXTFYwUTJEU013TFBCVjBhRUxXVjdhMUo4WDFuTC0zRFQtaUwxQlJQS2lLMnAyaDZFVXBxVEFualpic2VwX2pRamZV?oc=5",
+          "title": "’딸 교수 임용 특혜 의혹’ 유승민 전 의원 피의자 조사…11시간 진행 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqcmlkbzlaeW5KNUlQanZOLUJEUGFNZllrRTJ6czhEZUdTcVpjVHVsaGNrNzdvY1ZoVnU2Y1g5akVvUkItYl9LcWM2WktuSmhiQVVLT0xaT1JtVXA2S3JGN2pETF82RUk?oc=5",
           "source": "Google News",
-          "published": "Fri, 03 Jul 2026 01:27:40 GMT"
+          "published": "Fri, 03 Jul 2026 14:23:00 GMT"
         }
       ]
     },
     {
-      "word": "수준",
+      "word": "유승민",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "주말 전국에 장맛비...폭염 수준 더위도 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZTFrMFlfVGI0XzNqbXV1ZHg2eVBMd3ZTOEN1Vk12eWptMlZDMGpIeTFVZE43YmtCSnZlU21Dc1JZWG5aY0F0MjFNUVJSeC05NkR4NEdXTFYwUTJEU013TFBCVjBhRUxXVjdhMUo4WDFuTC0zRFQtaUwxQlJQS2lLMnAyaDZFVXBxVEFualpic2VwX2pRamZV?oc=5",
+          "title": "’딸 교수 임용 특혜 의혹’ 유승민 전 의원 피의자 조사…11시간 진행 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqcmlkbzlaeW5KNUlQanZOLUJEUGFNZllrRTJ6czhEZUdTcVpjVHVsaGNrNzdvY1ZoVnU2Y1g5akVvUkItYl9LcWM2WktuSmhiQVVLT0xaT1JtVXA2S3JGN2pETF82RUk?oc=5",
           "source": "Google News",
-          "published": "Fri, 03 Jul 2026 01:27:40 GMT"
+          "published": "Fri, 03 Jul 2026 14:23:00 GMT"
         }
       ]
     },
     {
-      "word": "더위",
+      "word": "의원",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "주말 전국에 장맛비...폭염 수준 더위도 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZTFrMFlfVGI0XzNqbXV1ZHg2eVBMd3ZTOEN1Vk12eWptMlZDMGpIeTFVZE43YmtCSnZlU21Dc1JZWG5aY0F0MjFNUVJSeC05NkR4NEdXTFYwUTJEU013TFBCVjBhRUxXVjdhMUo4WDFuTC0zRFQtaUwxQlJQS2lLMnAyaDZFVXBxVEFualpic2VwX2pRamZV?oc=5",
+          "title": "’딸 교수 임용 특혜 의혹’ 유승민 전 의원 피의자 조사…11시간 진행 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqcmlkbzlaeW5KNUlQanZOLUJEUGFNZllrRTJ6czhEZUdTcVpjVHVsaGNrNzdvY1ZoVnU2Y1g5akVvUkItYl9LcWM2WktuSmhiQVVLT0xaT1JtVXA2S3JGN2pETF82RUk?oc=5",
           "source": "Google News",
-          "published": "Fri, 03 Jul 2026 01:27:40 GMT"
+          "published": "Fri, 03 Jul 2026 14:23:00 GMT"
         }
       ]
     },
     {
-      "word": "정부",
+      "word": "피의자",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "정부, 美 '쿠팡 차별' 주장 적극 반박…안보협력 영향 차단 주력 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4cEdlOXBBLS14b3ZadlQ1TDZUWkZyckdVelVCWVVkZ1BjaHI0dldEQnZubm1WYU55eGlnaURYNGFUekU1VzJYQU5LQmVKR0s3X2c0VC1rZE9FMkXSAWBBVV95cUxPblJYZVJpUVl2eVBVZ3poMnVEd2c4UHB3QzJFVkY2UFJRVjEtTV9NRkdtYlZKMTlDVnNWTlhxY2JqMlJnT1ZSU2tOUF9zeUh1VXJoUk41TERRWjdheHlqLUo?oc=5",
+          "title": "’딸 교수 임용 특혜 의혹’ 유승민 전 의원 피의자 조사…11시간 진행 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqcmlkbzlaeW5KNUlQanZOLUJEUGFNZllrRTJ6czhEZUdTcVpjVHVsaGNrNzdvY1ZoVnU2Y1g5akVvUkItYl9LcWM2WktuSmhiQVVLT0xaT1JtVXA2S3JGN2pETF82RUk?oc=5",
           "source": "Google News",
-          "published": "Fri, 03 Jul 2026 07:31:31 GMT"
+          "published": "Fri, 03 Jul 2026 14:23:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "조사11시간",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "’딸 교수 임용 특혜 의혹’ 유승민 전 의원 피의자 조사…11시간 진행 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqcmlkbzlaeW5KNUlQanZOLUJEUGFNZllrRTJ6czhEZUdTcVpjVHVsaGNrNzdvY1ZoVnU2Y1g5akVvUkItYl9LcWM2WktuSmhiQVVLT0xaT1JtVXA2S3JGN2pETF82RUk?oc=5",
+          "source": "Google News",
+          "published": "Fri, 03 Jul 2026 14:23:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "백악관",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "백악관까지 “이재명 정부 쿠팡 표적 차별”…정부, 이틀 연속 반박 나서 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mZHhTYUlXX0JrQmNyWmJ6Q1BfczJPX2pRWGYxUDdsSWpraHYwWUtQSmNRSmJwQ18wM29GNG9HWU04NGMzNkZfLV9CZ3FDcGF4NHNkVjByaE5xRThKb3pCMTJtMWk5TTgxY01FT2I2dE5ONE5z?oc=5",
+          "source": "Google News",
+          "published": "Fri, 03 Jul 2026 13:11:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "이재명",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "백악관까지 “이재명 정부 쿠팡 표적 차별”…정부, 이틀 연속 반박 나서 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mZHhTYUlXX0JrQmNyWmJ6Q1BfczJPX2pRWGYxUDdsSWpraHYwWUtQSmNRSmJwQ18wM29GNG9HWU04NGMzNkZfLV9CZ3FDcGF4NHNkVjByaE5xRThKb3pCMTJtMWk5TTgxY01FT2I2dE5ONE5z?oc=5",
+          "source": "Google News",
+          "published": "Fri, 03 Jul 2026 13:11:00 GMT"
         }
       ]
     },
@@ -260,231 +357,166 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "정부, 美 '쿠팡 차별' 주장 적극 반박…안보협력 영향 차단 주력 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4cEdlOXBBLS14b3ZadlQ1TDZUWkZyckdVelVCWVVkZ1BjaHI0dldEQnZubm1WYU55eGlnaURYNGFUekU1VzJYQU5LQmVKR0s3X2c0VC1rZE9FMkXSAWBBVV95cUxPblJYZVJpUVl2eVBVZ3poMnVEd2c4UHB3QzJFVkY2UFJRVjEtTV9NRkdtYlZKMTlDVnNWTlhxY2JqMlJnT1ZSU2tOUF9zeUh1VXJoUk41TERRWjdheHlqLUo?oc=5",
+          "title": "백악관까지 “이재명 정부 쿠팡 표적 차별”…정부, 이틀 연속 반박 나서 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mZHhTYUlXX0JrQmNyWmJ6Q1BfczJPX2pRWGYxUDdsSWpraHYwWUtQSmNRSmJwQ18wM29GNG9HWU04NGMzNkZfLV9CZ3FDcGF4NHNkVjByaE5xRThKb3pCMTJtMWk5TTgxY01FT2I2dE5ONE5z?oc=5",
           "source": "Google News",
-          "published": "Fri, 03 Jul 2026 07:31:31 GMT"
+          "published": "Fri, 03 Jul 2026 13:11:00 GMT"
         }
       ]
     },
     {
-      "word": "차별",
+      "word": "표적",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "정부, 美 '쿠팡 차별' 주장 적극 반박…안보협력 영향 차단 주력 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4cEdlOXBBLS14b3ZadlQ1TDZUWkZyckdVelVCWVVkZ1BjaHI0dldEQnZubm1WYU55eGlnaURYNGFUekU1VzJYQU5LQmVKR0s3X2c0VC1rZE9FMkXSAWBBVV95cUxPblJYZVJpUVl2eVBVZ3poMnVEd2c4UHB3QzJFVkY2UFJRVjEtTV9NRkdtYlZKMTlDVnNWTlhxY2JqMlJnT1ZSU2tOUF9zeUh1VXJoUk41TERRWjdheHlqLUo?oc=5",
+          "title": "백악관까지 “이재명 정부 쿠팡 표적 차별”…정부, 이틀 연속 반박 나서 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mZHhTYUlXX0JrQmNyWmJ6Q1BfczJPX2pRWGYxUDdsSWpraHYwWUtQSmNRSmJwQ18wM29GNG9HWU04NGMzNkZfLV9CZ3FDcGF4NHNkVjByaE5xRThKb3pCMTJtMWk5TTgxY01FT2I2dE5ONE5z?oc=5",
           "source": "Google News",
-          "published": "Fri, 03 Jul 2026 07:31:31 GMT"
+          "published": "Fri, 03 Jul 2026 13:11:00 GMT"
         }
       ]
     },
     {
-      "word": "주장",
+      "word": "차별정부",
       "count": 1,
-      "category": "NOUN",
+      "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "정부, 美 '쿠팡 차별' 주장 적극 반박…안보협력 영향 차단 주력 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4cEdlOXBBLS14b3ZadlQ1TDZUWkZyckdVelVCWVVkZ1BjaHI0dldEQnZubm1WYU55eGlnaURYNGFUekU1VzJYQU5LQmVKR0s3X2c0VC1rZE9FMkXSAWBBVV95cUxPblJYZVJpUVl2eVBVZ3poMnVEd2c4UHB3QzJFVkY2UFJRVjEtTV9NRkdtYlZKMTlDVnNWTlhxY2JqMlJnT1ZSU2tOUF9zeUh1VXJoUk41TERRWjdheHlqLUo?oc=5",
+          "title": "백악관까지 “이재명 정부 쿠팡 표적 차별”…정부, 이틀 연속 반박 나서 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mZHhTYUlXX0JrQmNyWmJ6Q1BfczJPX2pRWGYxUDdsSWpraHYwWUtQSmNRSmJwQ18wM29GNG9HWU04NGMzNkZfLV9CZ3FDcGF4NHNkVjByaE5xRThKb3pCMTJtMWk5TTgxY01FT2I2dE5ONE5z?oc=5",
           "source": "Google News",
-          "published": "Fri, 03 Jul 2026 07:31:31 GMT"
+          "published": "Fri, 03 Jul 2026 13:11:00 GMT"
         }
       ]
     },
     {
-      "word": "적극",
+      "word": "이틀",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "정부, 美 '쿠팡 차별' 주장 적극 반박…안보협력 영향 차단 주력 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4cEdlOXBBLS14b3ZadlQ1TDZUWkZyckdVelVCWVVkZ1BjaHI0dldEQnZubm1WYU55eGlnaURYNGFUekU1VzJYQU5LQmVKR0s3X2c0VC1rZE9FMkXSAWBBVV95cUxPblJYZVJpUVl2eVBVZ3poMnVEd2c4UHB3QzJFVkY2UFJRVjEtTV9NRkdtYlZKMTlDVnNWTlhxY2JqMlJnT1ZSU2tOUF9zeUh1VXJoUk41TERRWjdheHlqLUo?oc=5",
+          "title": "백악관까지 “이재명 정부 쿠팡 표적 차별”…정부, 이틀 연속 반박 나서 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mZHhTYUlXX0JrQmNyWmJ6Q1BfczJPX2pRWGYxUDdsSWpraHYwWUtQSmNRSmJwQ18wM29GNG9HWU04NGMzNkZfLV9CZ3FDcGF4NHNkVjByaE5xRThKb3pCMTJtMWk5TTgxY01FT2I2dE5ONE5z?oc=5",
           "source": "Google News",
-          "published": "Fri, 03 Jul 2026 07:31:31 GMT"
+          "published": "Fri, 03 Jul 2026 13:11:00 GMT"
         }
       ]
     },
     {
-      "word": "반박안보협력",
+      "word": "연속",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "정부, 美 '쿠팡 차별' 주장 적극 반박…안보협력 영향 차단 주력 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4cEdlOXBBLS14b3ZadlQ1TDZUWkZyckdVelVCWVVkZ1BjaHI0dldEQnZubm1WYU55eGlnaURYNGFUekU1VzJYQU5LQmVKR0s3X2c0VC1rZE9FMkXSAWBBVV95cUxPblJYZVJpUVl2eVBVZ3poMnVEd2c4UHB3QzJFVkY2UFJRVjEtTV9NRkdtYlZKMTlDVnNWTlhxY2JqMlJnT1ZSU2tOUF9zeUh1VXJoUk41TERRWjdheHlqLUo?oc=5",
+          "title": "백악관까지 “이재명 정부 쿠팡 표적 차별”…정부, 이틀 연속 반박 나서 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mZHhTYUlXX0JrQmNyWmJ6Q1BfczJPX2pRWGYxUDdsSWpraHYwWUtQSmNRSmJwQ18wM29GNG9HWU04NGMzNkZfLV9CZ3FDcGF4NHNkVjByaE5xRThKb3pCMTJtMWk5TTgxY01FT2I2dE5ONE5z?oc=5",
           "source": "Google News",
-          "published": "Fri, 03 Jul 2026 07:31:31 GMT"
+          "published": "Fri, 03 Jul 2026 13:11:00 GMT"
         }
       ]
     },
     {
-      "word": "영향",
+      "word": "반박",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "정부, 美 '쿠팡 차별' 주장 적극 반박…안보협력 영향 차단 주력 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4cEdlOXBBLS14b3ZadlQ1TDZUWkZyckdVelVCWVVkZ1BjaHI0dldEQnZubm1WYU55eGlnaURYNGFUekU1VzJYQU5LQmVKR0s3X2c0VC1rZE9FMkXSAWBBVV95cUxPblJYZVJpUVl2eVBVZ3poMnVEd2c4UHB3QzJFVkY2UFJRVjEtTV9NRkdtYlZKMTlDVnNWTlhxY2JqMlJnT1ZSU2tOUF9zeUh1VXJoUk41TERRWjdheHlqLUo?oc=5",
+          "title": "백악관까지 “이재명 정부 쿠팡 표적 차별”…정부, 이틀 연속 반박 나서 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mZHhTYUlXX0JrQmNyWmJ6Q1BfczJPX2pRWGYxUDdsSWpraHYwWUtQSmNRSmJwQ18wM29GNG9HWU04NGMzNkZfLV9CZ3FDcGF4NHNkVjByaE5xRThKb3pCMTJtMWk5TTgxY01FT2I2dE5ONE5z?oc=5",
           "source": "Google News",
-          "published": "Fri, 03 Jul 2026 07:31:31 GMT"
+          "published": "Fri, 03 Jul 2026 13:11:00 GMT"
         }
       ]
     },
     {
-      "word": "차단",
+      "word": "나서",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "정부, 美 '쿠팡 차별' 주장 적극 반박…안보협력 영향 차단 주력 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4cEdlOXBBLS14b3ZadlQ1TDZUWkZyckdVelVCWVVkZ1BjaHI0dldEQnZubm1WYU55eGlnaURYNGFUekU1VzJYQU5LQmVKR0s3X2c0VC1rZE9FMkXSAWBBVV95cUxPblJYZVJpUVl2eVBVZ3poMnVEd2c4UHB3QzJFVkY2UFJRVjEtTV9NRkdtYlZKMTlDVnNWTlhxY2JqMlJnT1ZSU2tOUF9zeUh1VXJoUk41TERRWjdheHlqLUo?oc=5",
+          "title": "백악관까지 “이재명 정부 쿠팡 표적 차별”…정부, 이틀 연속 반박 나서 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mZHhTYUlXX0JrQmNyWmJ6Q1BfczJPX2pRWGYxUDdsSWpraHYwWUtQSmNRSmJwQ18wM29GNG9HWU04NGMzNkZfLV9CZ3FDcGF4NHNkVjByaE5xRThKb3pCMTJtMWk5TTgxY01FT2I2dE5ONE5z?oc=5",
           "source": "Google News",
-          "published": "Fri, 03 Jul 2026 07:31:31 GMT"
+          "published": "Fri, 03 Jul 2026 13:11:00 GMT"
         }
       ]
     },
     {
-      "word": "주력",
+      "word": "부동산연금기후위기균형발전민주",
       "count": 1,
-      "category": "NOUN",
+      "category": "LOCATION",
       "articles": [
         {
-          "title": "정부, 美 '쿠팡 차별' 주장 적극 반박…안보협력 영향 차단 주력 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4cEdlOXBBLS14b3ZadlQ1TDZUWkZyckdVelVCWVVkZ1BjaHI0dldEQnZubm1WYU55eGlnaURYNGFUekU1VzJYQU5LQmVKR0s3X2c0VC1rZE9FMkXSAWBBVV95cUxPblJYZVJpUVl2eVBVZ3poMnVEd2c4UHB3QzJFVkY2UFJRVjEtTV9NRkdtYlZKMTlDVnNWTlhxY2JqMlJnT1ZSU2tOUF9zeUh1VXJoUk41TERRWjdheHlqLUo?oc=5",
+          "title": "'부동산·연금·기후위기·균형발전'…민주, 후반기 국회 '4대 핵심과제' 선정 - 뉴스토마토",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PVDhuMHU5Z203VDg0SFJFM0YyZGFHSHN2Ri1aV2ZDejA1WUhiZDFBbS1JTGhDdUVlVElhNndQYnQ2NEtWMG5yS2JXTjZ3YWc2dmpkSVd5MG1kMXhlZDFQRw?oc=5",
           "source": "Google News",
-          "published": "Fri, 03 Jul 2026 07:31:31 GMT"
+          "published": "Fri, 03 Jul 2026 09:45:17 GMT"
         }
       ]
     },
     {
-      "word": "아내에겐",
+      "word": "후반기",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“아내에겐 아직 알리지 마요” 기적의 생존…베네수 잔해 9m 밑에서 8일 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uRDVmWTQtVnBWYkpYcXE4NVpGeUxyZTYyQTJ4emVPeVhCTy1KUjJsYVh1ZVpmbGN5QlE0QmdZQ1MwTTBCMVpQdzgxUUpuQ1JPY25SYi1weVZrZm9BLWtkRWNEb2ZqYzJxWnB2TXZIbw?oc=5",
+          "title": "'부동산·연금·기후위기·균형발전'…민주, 후반기 국회 '4대 핵심과제' 선정 - 뉴스토마토",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PVDhuMHU5Z203VDg0SFJFM0YyZGFHSHN2Ri1aV2ZDejA1WUhiZDFBbS1JTGhDdUVlVElhNndQYnQ2NEtWMG5yS2JXTjZ3YWc2dmpkSVd5MG1kMXhlZDFQRw?oc=5",
           "source": "Google News",
-          "published": "Fri, 03 Jul 2026 07:46:00 GMT"
+          "published": "Fri, 03 Jul 2026 09:45:17 GMT"
         }
       ]
     },
     {
-      "word": "아직",
+      "word": "국회",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“아내에겐 아직 알리지 마요” 기적의 생존…베네수 잔해 9m 밑에서 8일 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uRDVmWTQtVnBWYkpYcXE4NVpGeUxyZTYyQTJ4emVPeVhCTy1KUjJsYVh1ZVpmbGN5QlE0QmdZQ1MwTTBCMVpQdzgxUUpuQ1JPY25SYi1weVZrZm9BLWtkRWNEb2ZqYzJxWnB2TXZIbw?oc=5",
+          "title": "'부동산·연금·기후위기·균형발전'…민주, 후반기 국회 '4대 핵심과제' 선정 - 뉴스토마토",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PVDhuMHU5Z203VDg0SFJFM0YyZGFHSHN2Ri1aV2ZDejA1WUhiZDFBbS1JTGhDdUVlVElhNndQYnQ2NEtWMG5yS2JXTjZ3YWc2dmpkSVd5MG1kMXhlZDFQRw?oc=5",
           "source": "Google News",
-          "published": "Fri, 03 Jul 2026 07:46:00 GMT"
+          "published": "Fri, 03 Jul 2026 09:45:17 GMT"
         }
       ]
     },
     {
-      "word": "알리지",
+      "word": "4대",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“아내에겐 아직 알리지 마요” 기적의 생존…베네수 잔해 9m 밑에서 8일 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uRDVmWTQtVnBWYkpYcXE4NVpGeUxyZTYyQTJ4emVPeVhCTy1KUjJsYVh1ZVpmbGN5QlE0QmdZQ1MwTTBCMVpQdzgxUUpuQ1JPY25SYi1weVZrZm9BLWtkRWNEb2ZqYzJxWnB2TXZIbw?oc=5",
+          "title": "'부동산·연금·기후위기·균형발전'…민주, 후반기 국회 '4대 핵심과제' 선정 - 뉴스토마토",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PVDhuMHU5Z203VDg0SFJFM0YyZGFHSHN2Ri1aV2ZDejA1WUhiZDFBbS1JTGhDdUVlVElhNndQYnQ2NEtWMG5yS2JXTjZ3YWc2dmpkSVd5MG1kMXhlZDFQRw?oc=5",
           "source": "Google News",
-          "published": "Fri, 03 Jul 2026 07:46:00 GMT"
+          "published": "Fri, 03 Jul 2026 09:45:17 GMT"
         }
       ]
     },
     {
-      "word": "마요",
+      "word": "핵심과제",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“아내에겐 아직 알리지 마요” 기적의 생존…베네수 잔해 9m 밑에서 8일 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uRDVmWTQtVnBWYkpYcXE4NVpGeUxyZTYyQTJ4emVPeVhCTy1KUjJsYVh1ZVpmbGN5QlE0QmdZQ1MwTTBCMVpQdzgxUUpuQ1JPY25SYi1weVZrZm9BLWtkRWNEb2ZqYzJxWnB2TXZIbw?oc=5",
+          "title": "'부동산·연금·기후위기·균형발전'…민주, 후반기 국회 '4대 핵심과제' 선정 - 뉴스토마토",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PVDhuMHU5Z203VDg0SFJFM0YyZGFHSHN2Ri1aV2ZDejA1WUhiZDFBbS1JTGhDdUVlVElhNndQYnQ2NEtWMG5yS2JXTjZ3YWc2dmpkSVd5MG1kMXhlZDFQRw?oc=5",
           "source": "Google News",
-          "published": "Fri, 03 Jul 2026 07:46:00 GMT"
+          "published": "Fri, 03 Jul 2026 09:45:17 GMT"
         }
       ]
     },
     {
-      "word": "기적",
+      "word": "선정",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“아내에겐 아직 알리지 마요” 기적의 생존…베네수 잔해 9m 밑에서 8일 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uRDVmWTQtVnBWYkpYcXE4NVpGeUxyZTYyQTJ4emVPeVhCTy1KUjJsYVh1ZVpmbGN5QlE0QmdZQ1MwTTBCMVpQdzgxUUpuQ1JPY25SYi1weVZrZm9BLWtkRWNEb2ZqYzJxWnB2TXZIbw?oc=5",
+          "title": "'부동산·연금·기후위기·균형발전'…민주, 후반기 국회 '4대 핵심과제' 선정 - 뉴스토마토",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PVDhuMHU5Z203VDg0SFJFM0YyZGFHSHN2Ri1aV2ZDejA1WUhiZDFBbS1JTGhDdUVlVElhNndQYnQ2NEtWMG5yS2JXTjZ3YWc2dmpkSVd5MG1kMXhlZDFQRw?oc=5",
           "source": "Google News",
-          "published": "Fri, 03 Jul 2026 07:46:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "생존베네수",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“아내에겐 아직 알리지 마요” 기적의 생존…베네수 잔해 9m 밑에서 8일 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uRDVmWTQtVnBWYkpYcXE4NVpGeUxyZTYyQTJ4emVPeVhCTy1KUjJsYVh1ZVpmbGN5QlE0QmdZQ1MwTTBCMVpQdzgxUUpuQ1JPY25SYi1weVZrZm9BLWtkRWNEb2ZqYzJxWnB2TXZIbw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 03 Jul 2026 07:46:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "잔해",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“아내에겐 아직 알리지 마요” 기적의 생존…베네수 잔해 9m 밑에서 8일 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uRDVmWTQtVnBWYkpYcXE4NVpGeUxyZTYyQTJ4emVPeVhCTy1KUjJsYVh1ZVpmbGN5QlE0QmdZQ1MwTTBCMVpQdzgxUUpuQ1JPY25SYi1weVZrZm9BLWtkRWNEb2ZqYzJxWnB2TXZIbw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 03 Jul 2026 07:46:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "밑에서",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“아내에겐 아직 알리지 마요” 기적의 생존…베네수 잔해 9m 밑에서 8일 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uRDVmWTQtVnBWYkpYcXE4NVpGeUxyZTYyQTJ4emVPeVhCTy1KUjJsYVh1ZVpmbGN5QlE0QmdZQ1MwTTBCMVpQdzgxUUpuQ1JPY25SYi1weVZrZm9BLWtkRWNEb2ZqYzJxWnB2TXZIbw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 03 Jul 2026 07:46:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "8일",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“아내에겐 아직 알리지 마요” 기적의 생존…베네수 잔해 9m 밑에서 8일 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uRDVmWTQtVnBWYkpYcXE4NVpGeUxyZTYyQTJ4emVPeVhCTy1KUjJsYVh1ZVpmbGN5QlE0QmdZQ1MwTTBCMVpQdzgxUUpuQ1JPY25SYi1weVZrZm9BLWtkRWNEb2ZqYzJxWnB2TXZIbw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 03 Jul 2026 07:46:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "투나잇이슈",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[투나잇이슈] 대통령 지지율 54%로 3주 만 반등 ‘경제·민생’ 1위 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pU1EwNGY4YVhfcFlwVnpseHA3cERDSEpBYm1qaERvSWJvSjRielFzSHRScHVLMElULW1CWjNkWWxuMkF1YXpyaGkzR2xmcllfemtZd05XTG9MSVRKQkZxdTFSUWp4LTA?oc=5",
-          "source": "Google News",
-          "published": "Fri, 03 Jul 2026 13:46:00 GMT"
+          "published": "Fri, 03 Jul 2026 09:45:17 GMT"
         }
       ]
     },
@@ -494,23 +526,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "[투나잇이슈] 대통령 지지율 54%로 3주 만 반등 ‘경제·민생’ 1위 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pU1EwNGY4YVhfcFlwVnpseHA3cERDSEpBYm1qaERvSWJvSjRielFzSHRScHVLMElULW1CWjNkWWxuMkF1YXpyaGkzR2xmcllfemtZd05XTG9MSVRKQkZxdTFSUWp4LTA?oc=5",
+          "title": "대통령 지지율 3주 만에 반등해 54%…민주 41%·국힘 26% - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vYUlpOVRGTnYtT2J1d08zMWR5VlROcFJsbXhMZDBrLVBROGxDVHhjWUpYQXNoX1lsbkRRY1BRU0JJMHRtX0hfM1RSSUw0QXBQU183XzllZ05EU0YxejFaVjlUMTFTS1pWc1RFLW5Ta0NsZHgyWTZ5YdIBeEFVX3lxTFBWM1R5UW01U3lrbHctb2ZxMHUxcC0wa21VcUVoU25mbUJSN0luOW5KNl9WOHJlZ0tDc01GdHVsSFZpdWp0TGFNOWNRUEYxdFR3aEViMGIwRlNoUXdtZUNiY1JZNloyZlNrMVh0bGxKQVVFcmRFemtnTQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 03 Jul 2026 13:46:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "54",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[투나잇이슈] 대통령 지지율 54%로 3주 만 반등 ‘경제·민생’ 1위 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pU1EwNGY4YVhfcFlwVnpseHA3cERDSEpBYm1qaERvSWJvSjRielFzSHRScHVLMElULW1CWjNkWWxuMkF1YXpyaGkzR2xmcllfemtZd05XTG9MSVRKQkZxdTFSUWp4LTA?oc=5",
-          "source": "Google News",
-          "published": "Fri, 03 Jul 2026 13:46:00 GMT"
+          "published": "Fri, 03 Jul 2026 01:38:56 GMT"
         }
       ]
     },
@@ -520,36 +539,23 @@
       "category": "LOCATION",
       "articles": [
         {
-          "title": "[투나잇이슈] 대통령 지지율 54%로 3주 만 반등 ‘경제·민생’ 1위 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pU1EwNGY4YVhfcFlwVnpseHA3cERDSEpBYm1qaERvSWJvSjRielFzSHRScHVLMElULW1CWjNkWWxuMkF1YXpyaGkzR2xmcllfemtZd05XTG9MSVRKQkZxdTFSUWp4LTA?oc=5",
+          "title": "대통령 지지율 3주 만에 반등해 54%…민주 41%·국힘 26% - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vYUlpOVRGTnYtT2J1d08zMWR5VlROcFJsbXhMZDBrLVBROGxDVHhjWUpYQXNoX1lsbkRRY1BRU0JJMHRtX0hfM1RSSUw0QXBQU183XzllZ05EU0YxejFaVjlUMTFTS1pWc1RFLW5Ta0NsZHgyWTZ5YdIBeEFVX3lxTFBWM1R5UW01U3lrbHctb2ZxMHUxcC0wa21VcUVoU25mbUJSN0luOW5KNl9WOHJlZ0tDc01GdHVsSFZpdWp0TGFNOWNRUEYxdFR3aEViMGIwRlNoUXdtZUNiY1JZNloyZlNrMVh0bGxKQVVFcmRFemtnTQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 03 Jul 2026 13:46:00 GMT"
+          "published": "Fri, 03 Jul 2026 01:38:56 GMT"
         }
       ]
     },
     {
-      "word": "반등",
+      "word": "만에",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[투나잇이슈] 대통령 지지율 54%로 3주 만 반등 ‘경제·민생’ 1위 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pU1EwNGY4YVhfcFlwVnpseHA3cERDSEpBYm1qaERvSWJvSjRielFzSHRScHVLMElULW1CWjNkWWxuMkF1YXpyaGkzR2xmcllfemtZd05XTG9MSVRKQkZxdTFSUWp4LTA?oc=5",
+          "title": "대통령 지지율 3주 만에 반등해 54%…민주 41%·국힘 26% - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vYUlpOVRGTnYtT2J1d08zMWR5VlROcFJsbXhMZDBrLVBROGxDVHhjWUpYQXNoX1lsbkRRY1BRU0JJMHRtX0hfM1RSSUw0QXBQU183XzllZ05EU0YxejFaVjlUMTFTS1pWc1RFLW5Ta0NsZHgyWTZ5YdIBeEFVX3lxTFBWM1R5UW01U3lrbHctb2ZxMHUxcC0wa21VcUVoU25mbUJSN0luOW5KNl9WOHJlZ0tDc01GdHVsSFZpdWp0TGFNOWNRUEYxdFR3aEViMGIwRlNoUXdtZUNiY1JZNloyZlNrMVh0bGxKQVVFcmRFemtnTQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 03 Jul 2026 13:46:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "경제민생",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[투나잇이슈] 대통령 지지율 54%로 3주 만 반등 ‘경제·민생’ 1위 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pU1EwNGY4YVhfcFlwVnpseHA3cERDSEpBYm1qaERvSWJvSjRielFzSHRScHVLMElULW1CWjNkWWxuMkF1YXpyaGkzR2xmcllfemtZd05XTG9MSVRKQkZxdTFSUWp4LTA?oc=5",
-          "source": "Google News",
-          "published": "Fri, 03 Jul 2026 13:46:00 GMT"
+          "published": "Fri, 03 Jul 2026 01:38:56 GMT"
         }
       ]
     }
