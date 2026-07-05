@@ -1,62 +1,157 @@
 {
   "language": "ko",
-  "last_updated": 1783285836.8863084,
+  "last_updated": 1783292914.46064,
   "count": 40,
   "trends": [
     {
-      "word": "6일",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘무더기 표적 징계’ 나오나…국힘, 6일 윤리위 재가동 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BRmN0SGxKOV9WRE1vWG9TZTNBTUtKdk5yRW93M0J1MC16ZVRsS0MxU0ttaGZrZ2FMa1pXM0ZzRFZQQUpZZTdnZjhreV92Q2lndmFuei12MzFpNFlsUERpZllOQUJ3bm80TzNZMzJOZXlJelZ0?oc=5",
-          "source": "Google News",
-          "published": "Sun, 05 Jul 2026 14:12:00 GMT"
-        },
-        {
-          "title": "최휘영·박지성 공동위원장 ‘K-축구 혁신위’ 6일 출범 - 강원일보",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55cW5uNWxGVDlXdGNUdlhnNWk4a1pnU05EelN2TFEwYkVRcDlRQmxlVVZvT2NsZWpkaTJvTFRianpNYi1qbTJzUFViX0YwTnV4TERmak5OODk?oc=5",
-          "source": "Google News",
-          "published": "Sun, 05 Jul 2026 12:00:00 GMT"
-        }
-      ]
-    },
-    {
       "word": "이란",
-      "count": 2,
+      "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "네타냐후 \"이란 문제, 美와 균열 없어…우린 '모범 동맹'\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xd0ZLVzRoRU8zQTVVcFpGWTNrbV9DUUF5MFo0YXQzZXRhZjJYYWF4dXZrM0YzLVlGeHBzU1didml6NTZyeXZUV0cxRWVEeTUxd3dFcWxnLW1tdEHSAWBBVV95cUxPUExScHV5OExsQWptaUxqSG1QN21jdG5DTTBNdVdGUEI4SE1jNWRBdEpzVjlSamhHQk1EY1pZaW95T0dDRlRlVWJuQnZVRXRUZzVHOTNkYXVFRG1KNTFkakg?oc=5",
+          "title": "이란, 美건국행사 맞춰 하메네이 장례식… 곳곳서 “복수를” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1wdmZ2cGNlUlRMbmM3WDlCc0ZFTkl3bmRDZzhTelgtYmd2b3RXWUhibWlwUkQ1Q0p6RFhCdzk4SEZkbXppUGc4cEUxTnBhZkd3VF9YZ0p4Ni1MNDAtcWtXVGU4R0Z1cmFIcGh4bFBvenNyS1nSAWZBVV95cUxQbTBqWS1Ra1hIeWdfMFVWQmdsWmlRUVM1VFYybjFYbzNMcEt2S2M2allSNm1WRG40T0dvODBfV2o4endIWnlkYlJVc2ZqbUpoQ09WcFBsU0JzYTZzRExlZTVSR1EzcUE?oc=5",
           "source": "Google News",
-          "published": "Sun, 05 Jul 2026 18:50:16 GMT"
+          "published": "Sun, 05 Jul 2026 19:30:00 GMT"
         },
         {
           "title": "이란 \"우방국, 호르무즈 통행료 할인\" - 한국경제",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81WWE5TkJYUFFLQzFCWjZuNWV2LWtUXzliRDRXTk4xVVliQkdWMzBsOEVyVklLUDg3N3dCWXJ1VGozd05QR0c3WUlWZ1ZOSFk3TzctVG5BTzB0QdIBVEFVX3lxTFBhUVZjQW1hVllTdVE4X0VxU0FFbU96cE45SmR3VS1GQ1VrNE1acXpqbTFUeV9YeFhVSU9hOGhFM1RiT2tQeWtfZXEyUnJ2OXpaaWUwRw?oc=5",
           "source": "Google News",
           "published": "Sun, 05 Jul 2026 09:37:26 GMT"
+        },
+        {
+          "title": "네타냐후 \"이란 문제, 美와 균열 없어…우린 '모범 동맹'\" - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xd0ZLVzRoRU8zQTVVcFpGWTNrbV9DUUF5MFo0YXQzZXRhZjJYYWF4dXZrM0YzLVlGeHBzU1didml6NTZyeXZUV0cxRWVEeTUxd3dFcWxnLW1tdEHSAWBBVV95cUxPUExScHV5OExsQWptaUxqSG1QN21jdG5DTTBNdVdGUEI4SE1jNWRBdEpzVjlSamhHQk1EY1pZaW95T0dDRlRlVWJuQnZVRXRUZzVHOTNkYXVFRG1KNTFkakg?oc=5",
+          "source": "Google News",
+          "published": "Sun, 05 Jul 2026 18:50:16 GMT"
         }
       ]
     },
     {
-      "word": "축구",
+      "word": "반도체",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "축구의 신 vs 차세대 황제…메시·음바페 \"골든부트는 나의 것\" - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uSjN2TFNENWQ2UXBjS3V4WndaMnNpUnp1M3JiUUg5YUR0U2ppTmZ4U0kwaVNROVdmam03OUhvajRicFByTkE2ejB1RXVKQ2RscXJtX1lJLTRwd9IBVEFVX3lxTE1PdmV3Z0pMeFJEY2ZLSzdxNzVsajRvZ0VzQWpGMFF2VktEYUk1OG0xMXRLUkM5VUhYa1dRcjlYSmRfYUdjREh0ZmFxZ0tWdFZVRGx4Uw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 05 Jul 2026 08:38:59 GMT"
-        },
-        {
-          "title": "‘축구의 신’ 메시, 카보베르데 골키퍼 안아주며 “믿기 어려울 정도로 훌륭” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FWFhPWkFGUEthMzBOWHlBRmRrSTcxNllpRVV2NHdHM0haWE95SUpGTktVTjIwWU16VE1Nd0RVd01taWZFQ0dCNUpsLU9WUm1DREE1eVZYVzBrNTk3YzJZUjVITHFJNmdHZF9zajNsTlRZQkl30gFmQVVfeXFMTWFMVmxuTVZfUlR5Nlg4TVU2dTNsamxOaDJVMGo5SWFKSVdHOW5vQkhCcmkwZF81ZzZGWVhmakJRSEY0X3RqdG1aYTNzZnk3TTY4T3puRHVvZlphMEVCbGxYSWcxSE93?oc=5",
+          "title": "[단독]강훈식 “추가세수, 반도체 클러스터 전력-용수에 써야” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYTDVaUWZFbzNjdkl2aXc3QzdOMW51ZXN6WFNtNnVsN3RKQnQyOXNwUUJFOThxV2RzU1BwNjlmZEtIZ0VXa0Q5RW1PU2J2NDR4alRxVjNRUFl1SlJPMDQ1dnVTaUZWZ0hSNHJjSFFEbnIyaVFkSE9F0gFmQVVfeXFMUGVUd2MzZU9CRTJzNUJQSHNKR1pqV1E1YUl0STA0M1pQVlhMdGZranBqMXRqRG1Wb1ZqcXRpc0NsMG5OUmIxS2FoTUtKZWg1b0ZsREc0UTRFZmZWYXlXaTZZR1RpLVd3?oc=5",
           "source": "Google News",
           "published": "Sun, 05 Jul 2026 19:30:00 GMT"
+        },
+        {
+          "title": "李대통령, 반도체 클러스터 점검회의 주재…3대 메가 프로젝트 ‘속도전’ - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBodFk3NlBTbTlyUHNRSHh4RzZGcW5wU1VMR3FwOTlGWE9tSlRRN2t6Mmk4WHo0cHBRaEFoUWJnOGVURmpuOGxTRmx6bnZvVkRROEwwVnBzaERmQzg1bFRqMWQ0RXU2cXVfRGl2TF9makJpeDBiN2dV0gFmQVVfeXFMTi11SVpYRlk4bXJNb1hxc3QzM1hGVlctb2otVnFaRVU0d29FVVdnTVBOQS0tSU9yX3Jjem1PWEtYZGhxTTlaTkV5eDNESE90aHpoZ2xVV3lyMXBuSmJ2U2N5V3V2Q1F3?oc=5",
+          "source": "Google News",
+          "published": "Sun, 05 Jul 2026 20:42:47 GMT"
+        }
+      ]
+    },
+    {
+      "word": "클러스터",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[단독]강훈식 “추가세수, 반도체 클러스터 전력-용수에 써야” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYTDVaUWZFbzNjdkl2aXc3QzdOMW51ZXN6WFNtNnVsN3RKQnQyOXNwUUJFOThxV2RzU1BwNjlmZEtIZ0VXa0Q5RW1PU2J2NDR4alRxVjNRUFl1SlJPMDQ1dnVTaUZWZ0hSNHJjSFFEbnIyaVFkSE9F0gFmQVVfeXFMUGVUd2MzZU9CRTJzNUJQSHNKR1pqV1E1YUl0STA0M1pQVlhMdGZranBqMXRqRG1Wb1ZqcXRpc0NsMG5OUmIxS2FoTUtKZWg1b0ZsREc0UTRFZmZWYXlXaTZZR1RpLVd3?oc=5",
+          "source": "Google News",
+          "published": "Sun, 05 Jul 2026 19:30:00 GMT"
+        },
+        {
+          "title": "李대통령, 반도체 클러스터 점검회의 주재…3대 메가 프로젝트 ‘속도전’ - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBodFk3NlBTbTlyUHNRSHh4RzZGcW5wU1VMR3FwOTlGWE9tSlRRN2t6Mmk4WHo0cHBRaEFoUWJnOGVURmpuOGxTRmx6bnZvVkRROEwwVnBzaERmQzg1bFRqMWQ0RXU2cXVfRGl2TF9makJpeDBiN2dV0gFmQVVfeXFMTi11SVpYRlk4bXJNb1hxc3QzM1hGVlctb2otVnFaRVU0d29FVVdnTVBOQS0tSU9yX3Jjem1PWEtYZGhxTTlaTkV5eDNESE90aHpoZ2xVV3lyMXBuSmJ2U2N5V3V2Q1F3?oc=5",
+          "source": "Google News",
+          "published": "Sun, 05 Jul 2026 20:42:47 GMT"
+        }
+      ]
+    },
+    {
+      "word": "주의",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이번 주 전국 본격 장마권…시간당 30mm 안팎 집중호우 주의 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MTlJlM1NIZW84cXZzTGhxTDRLaWRQRFNmNmo5bDVTSVFqTTZlY2xnaUJrTHl1YXp0Z1hDYy1mWUVFbHpHY1FCMFdrc2gyOXR0WWFKNFYwNmJObVk?oc=5",
+          "source": "Google News",
+          "published": "Sun, 05 Jul 2026 21:16:00 GMT"
+        },
+        {
+          "title": "누런 콧물 방치했다간 뇌뼈까지 녹일 수도...여름철 ‘부비동염’ 주의 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lNE1GTUVYa2FrX2VfMkhia1VKdk5vVEIxNmRTcDVtaWpmbHhJSENCMHEwRkRwWGJ0aGktYkZRM2o4S2JYMTVkeFo4VzB1dHAxMnJ6Vw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 05 Jul 2026 22:39:30 GMT"
+        }
+      ]
+    },
+    {
+      "word": "경찰",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "경찰, 광주제일고 폭파 협박 수사…“명백한 범죄 해당” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE94ZE92QmdTcjM2amFNaTNjdjl3RGZRRjVhTFo3UGZ1OFJSLUN1OUNWcmhjVVMzZ2JrZVNxMUZHUGNhMnFhVmdxZ0Rud3MyYUdHMGphQWVya3RWbVp2U2NjMi1sV00xNHBIU1ZXYzRGSERMdw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 05 Jul 2026 05:48:00 GMT"
+        },
+        {
+          "title": "‘현직 경찰’ 장윤기 아버지, 수사팀 유착 정황에…뒤늦게 감찰 착수 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE14ZU13X0lielFLeWo2b1JMOWdQQWdtTmgxVElwTTZBdU1ES0xnT0RZQ0pub1A1RnJRejZzOVdnN3RkbS16X0N4WDBybkhwNDdJcEt4bU52cnNEQTB1Um81akRxZ1BwVllKa0tIZm5jZGNZZw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 05 Jul 2026 16:06:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "핫피플",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "\"장동건 맞아?\" 필터 의혹 속..'53세' 고소영은 '동안 미모' 화제 [핫피플] [핫피플] - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ0ZEbHc2WU1kX1luVmtXYk40d0FId1pweGw0YmJtd3ZIY0FGZl9XdlN6bWNYQTdUbnA0UENhcmxHWW5zejVSZ3lTQ3h5dFlob1V6bWhDLTNEUGk1RWFUS2JWUDVxYXRxRkRhNzAxT3hsMWc0UF9HelBENzZpU2stN1hWcEx4VUVkNTYwd2NmMA?oc=5",
+          "source": "Google News",
+          "published": "Sun, 05 Jul 2026 10:45:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "심경",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "린, 이수와 이혼 후 심경 \"너무나 친한 친구를 잃은 느낌\" - 세계일보",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKVjl6TDZzVmx0SjFGSmRVM3YxYmpPT3NoZjFwQU16aVpieGVDY2ZOLUdpWmlNRi1CWERKQWZqdUV3bktCMTFEZWxUODBncXBUYWJRUGdyUk_SAVRBVV95cUxQQ1NoQjJ4Z3lnSGMteU1pd09KbWM3V0ViUld6MTllZ0hLbXd4NXVYVkY2SmQ0N3NhVktQNFZlNVlJeGQ4bER4dXlLNlhRZGgzV09ZZ24?oc=5",
+          "source": "Google News",
+          "published": "Sun, 05 Jul 2026 09:37:20 GMT"
+        },
+        {
+          "title": "‘유지유와 열애설’ 데이식스 도운, 콘서트서 심경 고백..“약속 못 지켜 죄송” [Oh!쎈 이슈] - OSEN",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZN2hEUkoxLXFmd0w1VWs2UVEyd1RrT09udWN0TjZDNkIzR0VadFBYRmZpc0xxaXZjNE1BTEN6QVB4ZTdJUVpDejFhZ2FwN0ZkX3Bv?oc=5",
+          "source": "Google News",
+          "published": "Sun, 05 Jul 2026 07:12:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "월드컵",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "홀란 멀티골…노르웨이, 브라질 격침 '사상 첫 월드컵 8강'[2026월드컵] - 아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDa3VMb0J4aXhRTEx3ckxTUjkyYWhOcEtHY0tUSUVHUG1aRVA3NkU1dHV6OFdhREZIUDZ3WXQ3b2tBUnNVWW9INkpYLVk3WjRpNm82TnBFLVhyc2REcE1McQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 05 Jul 2026 22:30:20 GMT"
+        },
+        {
+          "title": "메시냐 음바페냐… 골 레이스 후끈 [2026 북중미 월드컵] - 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lOElBZ1g5b1ZQdTR4ZmV3Ri1tZkVxVk1VdlNKQTZCazFEOUtLRzJ1Z00ycnBsUG1rbFllRDRBakYxbmtCZE5fb0d5TzhDZXEyRjBoY25DZHE2UQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 05 Jul 2026 09:40:55 GMT"
         }
       ]
     },
@@ -75,32 +170,6 @@
     },
     {
       "word": "추가세수",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[단독]강훈식 “추가세수, 반도체 클러스터 전력-용수에 써야” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYTDVaUWZFbzNjdkl2aXc3QzdOMW51ZXN6WFNtNnVsN3RKQnQyOXNwUUJFOThxV2RzU1BwNjlmZEtIZ0VXa0Q5RW1PU2J2NDR4alRxVjNRUFl1SlJPMDQ1dnVTaUZWZ0hSNHJjSFFEbnIyaVFkSE9F0gFmQVVfeXFMUGVUd2MzZU9CRTJzNUJQSHNKR1pqV1E1YUl0STA0M1pQVlhMdGZranBqMXRqRG1Wb1ZqcXRpc0NsMG5OUmIxS2FoTUtKZWg1b0ZsREc0UTRFZmZWYXlXaTZZR1RpLVd3?oc=5",
-          "source": "Google News",
-          "published": "Sun, 05 Jul 2026 19:30:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "반도체",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[단독]강훈식 “추가세수, 반도체 클러스터 전력-용수에 써야” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYTDVaUWZFbzNjdkl2aXc3QzdOMW51ZXN6WFNtNnVsN3RKQnQyOXNwUUJFOThxV2RzU1BwNjlmZEtIZ0VXa0Q5RW1PU2J2NDR4alRxVjNRUFl1SlJPMDQ1dnVTaUZWZ0hSNHJjSFFEbnIyaVFkSE9F0gFmQVVfeXFMUGVUd2MzZU9CRTJzNUJQSHNKR1pqV1E1YUl0STA0M1pQVlhMdGZranBqMXRqRG1Wb1ZqcXRpc0NsMG5OUmIxS2FoTUtKZWg1b0ZsREc0UTRFZmZWYXlXaTZZR1RpLVd3?oc=5",
-          "source": "Google News",
-          "published": "Sun, 05 Jul 2026 19:30:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "클러스터",
       "count": 1,
       "category": "NOUN",
       "articles": [
@@ -139,28 +208,67 @@
       ]
     },
     {
-      "word": "이진숙",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이진숙, 배재고에 응원 화환... \"李 정권, 생각에 수갑 채우나\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdjVSN1EwNkJKZUtoUUd0ZjBrZ1Z6YWxhSDRka0s2X1RJckctZUhiTDBidEJCSzJTMjBmSllRckVfbDlXX3hLaHRqa0RnRFhjSGVfOWxscWw3WFJUOHMyNExuYVpkUndZd3E0UHhzNzNGMk1CekZRUGtwS3NlcXZUXzEyaFplUQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 05 Jul 2026 12:52:15 GMT"
-        }
-      ]
-    },
-    {
       "word": "배재",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이진숙, 배재고에 응원 화환... \"李 정권, 생각에 수갑 채우나\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdjVSN1EwNkJKZUtoUUd0ZjBrZ1Z6YWxhSDRka0s2X1RJckctZUhiTDBidEJCSzJTMjBmSllRckVfbDlXX3hLaHRqa0RnRFhjSGVfOWxscWw3WFJUOHMyNExuYVpkUndZd3E0UHhzNzNGMk1CekZRUGtwS3NlcXZUXzEyaFplUQ?oc=5",
+          "title": "배재고 야구부, 오늘 광주 찾아 ’혐오 응원’ 사과 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16cEdnV3VMaDJlZnVXT212UjhUSGVKV0h5TmlVMWppVll6YjQ2OFBPbTkxel9pVTJGeEtBWmt1c0Ixdlh2TjdXQW82Q204aUNmTEk0MDZvam5hNXdDYlRhSDBUa2Q4RVk?oc=5",
           "source": "Google News",
-          "published": "Sun, 05 Jul 2026 12:52:15 GMT"
+          "published": "Sun, 05 Jul 2026 22:26:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "야구부",
+      "count": 1,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "배재고 야구부, 오늘 광주 찾아 ’혐오 응원’ 사과 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16cEdnV3VMaDJlZnVXT212UjhUSGVKV0h5TmlVMWppVll6YjQ2OFBPbTkxel9pVTJGeEtBWmt1c0Ixdlh2TjdXQW82Q204aUNmTEk0MDZvam5hNXdDYlRhSDBUa2Q4RVk?oc=5",
+          "source": "Google News",
+          "published": "Sun, 05 Jul 2026 22:26:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "광주",
+      "count": 1,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "배재고 야구부, 오늘 광주 찾아 ’혐오 응원’ 사과 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16cEdnV3VMaDJlZnVXT212UjhUSGVKV0h5TmlVMWppVll6YjQ2OFBPbTkxel9pVTJGeEtBWmt1c0Ixdlh2TjdXQW82Q204aUNmTEk0MDZvam5hNXdDYlRhSDBUa2Q4RVk?oc=5",
+          "source": "Google News",
+          "published": "Sun, 05 Jul 2026 22:26:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "찾아",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "배재고 야구부, 오늘 광주 찾아 ’혐오 응원’ 사과 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16cEdnV3VMaDJlZnVXT212UjhUSGVKV0h5TmlVMWppVll6YjQ2OFBPbTkxel9pVTJGeEtBWmt1c0Ixdlh2TjdXQW82Q204aUNmTEk0MDZvam5hNXdDYlRhSDBUa2Q4RVk?oc=5",
+          "source": "Google News",
+          "published": "Sun, 05 Jul 2026 22:26:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "혐오",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "배재고 야구부, 오늘 광주 찾아 ’혐오 응원’ 사과 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16cEdnV3VMaDJlZnVXT212UjhUSGVKV0h5TmlVMWppVll6YjQ2OFBPbTkxel9pVTJGeEtBWmt1c0Ixdlh2TjdXQW82Q204aUNmTEk0MDZvam5hNXdDYlRhSDBUa2Q4RVk?oc=5",
+          "source": "Google News",
+          "published": "Sun, 05 Jul 2026 22:26:00 GMT"
         }
       ]
     },
@@ -170,75 +278,101 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "이진숙, 배재고에 응원 화환... \"李 정권, 생각에 수갑 채우나\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdjVSN1EwNkJKZUtoUUd0ZjBrZ1Z6YWxhSDRka0s2X1RJckctZUhiTDBidEJCSzJTMjBmSllRckVfbDlXX3hLaHRqa0RnRFhjSGVfOWxscWw3WFJUOHMyNExuYVpkUndZd3E0UHhzNzNGMk1CekZRUGtwS3NlcXZUXzEyaFplUQ?oc=5",
+          "title": "배재고 야구부, 오늘 광주 찾아 ’혐오 응원’ 사과 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16cEdnV3VMaDJlZnVXT212UjhUSGVKV0h5TmlVMWppVll6YjQ2OFBPbTkxel9pVTJGeEtBWmt1c0Ixdlh2TjdXQW82Q204aUNmTEk0MDZvam5hNXdDYlRhSDBUa2Q4RVk?oc=5",
           "source": "Google News",
-          "published": "Sun, 05 Jul 2026 12:52:15 GMT"
+          "published": "Sun, 05 Jul 2026 22:26:00 GMT"
         }
       ]
     },
     {
-      "word": "화환",
+      "word": "사과",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이진숙, 배재고에 응원 화환... \"李 정권, 생각에 수갑 채우나\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdjVSN1EwNkJKZUtoUUd0ZjBrZ1Z6YWxhSDRka0s2X1RJckctZUhiTDBidEJCSzJTMjBmSllRckVfbDlXX3hLaHRqa0RnRFhjSGVfOWxscWw3WFJUOHMyNExuYVpkUndZd3E0UHhzNzNGMk1CekZRUGtwS3NlcXZUXzEyaFplUQ?oc=5",
+          "title": "배재고 야구부, 오늘 광주 찾아 ’혐오 응원’ 사과 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16cEdnV3VMaDJlZnVXT212UjhUSGVKV0h5TmlVMWppVll6YjQ2OFBPbTkxel9pVTJGeEtBWmt1c0Ixdlh2TjdXQW82Q204aUNmTEk0MDZvam5hNXdDYlRhSDBUa2Q4RVk?oc=5",
           "source": "Google News",
-          "published": "Sun, 05 Jul 2026 12:52:15 GMT"
+          "published": "Sun, 05 Jul 2026 22:26:00 GMT"
         }
       ]
     },
     {
-      "word": "정권",
+      "word": "전국",
       "count": 1,
-      "category": "NOUN",
+      "category": "LOCATION",
       "articles": [
         {
-          "title": "이진숙, 배재고에 응원 화환... \"李 정권, 생각에 수갑 채우나\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdjVSN1EwNkJKZUtoUUd0ZjBrZ1Z6YWxhSDRka0s2X1RJckctZUhiTDBidEJCSzJTMjBmSllRckVfbDlXX3hLaHRqa0RnRFhjSGVfOWxscWw3WFJUOHMyNExuYVpkUndZd3E0UHhzNzNGMk1CekZRUGtwS3NlcXZUXzEyaFplUQ?oc=5",
+          "title": "이번 주 전국 본격 장마권…시간당 30mm 안팎 집중호우 주의 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MTlJlM1NIZW84cXZzTGhxTDRLaWRQRFNmNmo5bDVTSVFqTTZlY2xnaUJrTHl1YXp0Z1hDYy1mWUVFbHpHY1FCMFdrc2gyOXR0WWFKNFYwNmJObVk?oc=5",
           "source": "Google News",
-          "published": "Sun, 05 Jul 2026 12:52:15 GMT"
+          "published": "Sun, 05 Jul 2026 21:16:00 GMT"
         }
       ]
     },
     {
-      "word": "생각",
+      "word": "본격",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이진숙, 배재고에 응원 화환... \"李 정권, 생각에 수갑 채우나\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdjVSN1EwNkJKZUtoUUd0ZjBrZ1Z6YWxhSDRka0s2X1RJckctZUhiTDBidEJCSzJTMjBmSllRckVfbDlXX3hLaHRqa0RnRFhjSGVfOWxscWw3WFJUOHMyNExuYVpkUndZd3E0UHhzNzNGMk1CekZRUGtwS3NlcXZUXzEyaFplUQ?oc=5",
+          "title": "이번 주 전국 본격 장마권…시간당 30mm 안팎 집중호우 주의 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MTlJlM1NIZW84cXZzTGhxTDRLaWRQRFNmNmo5bDVTSVFqTTZlY2xnaUJrTHl1YXp0Z1hDYy1mWUVFbHpHY1FCMFdrc2gyOXR0WWFKNFYwNmJObVk?oc=5",
           "source": "Google News",
-          "published": "Sun, 05 Jul 2026 12:52:15 GMT"
+          "published": "Sun, 05 Jul 2026 21:16:00 GMT"
         }
       ]
     },
     {
-      "word": "수갑",
+      "word": "장마권시간당",
       "count": 1,
-      "category": "NOUN",
+      "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "이진숙, 배재고에 응원 화환... \"李 정권, 생각에 수갑 채우나\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdjVSN1EwNkJKZUtoUUd0ZjBrZ1Z6YWxhSDRka0s2X1RJckctZUhiTDBidEJCSzJTMjBmSllRckVfbDlXX3hLaHRqa0RnRFhjSGVfOWxscWw3WFJUOHMyNExuYVpkUndZd3E0UHhzNzNGMk1CekZRUGtwS3NlcXZUXzEyaFplUQ?oc=5",
+          "title": "이번 주 전국 본격 장마권…시간당 30mm 안팎 집중호우 주의 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MTlJlM1NIZW84cXZzTGhxTDRLaWRQRFNmNmo5bDVTSVFqTTZlY2xnaUJrTHl1YXp0Z1hDYy1mWUVFbHpHY1FCMFdrc2gyOXR0WWFKNFYwNmJObVk?oc=5",
           "source": "Google News",
-          "published": "Sun, 05 Jul 2026 12:52:15 GMT"
+          "published": "Sun, 05 Jul 2026 21:16:00 GMT"
         }
       ]
     },
     {
-      "word": "채우",
+      "word": "30mm",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이진숙, 배재고에 응원 화환... \"李 정권, 생각에 수갑 채우나\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdjVSN1EwNkJKZUtoUUd0ZjBrZ1Z6YWxhSDRka0s2X1RJckctZUhiTDBidEJCSzJTMjBmSllRckVfbDlXX3hLaHRqa0RnRFhjSGVfOWxscWw3WFJUOHMyNExuYVpkUndZd3E0UHhzNzNGMk1CekZRUGtwS3NlcXZUXzEyaFplUQ?oc=5",
+          "title": "이번 주 전국 본격 장마권…시간당 30mm 안팎 집중호우 주의 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MTlJlM1NIZW84cXZzTGhxTDRLaWRQRFNmNmo5bDVTSVFqTTZlY2xnaUJrTHl1YXp0Z1hDYy1mWUVFbHpHY1FCMFdrc2gyOXR0WWFKNFYwNmJObVk?oc=5",
           "source": "Google News",
-          "published": "Sun, 05 Jul 2026 12:52:15 GMT"
+          "published": "Sun, 05 Jul 2026 21:16:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "안팎",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이번 주 전국 본격 장마권…시간당 30mm 안팎 집중호우 주의 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MTlJlM1NIZW84cXZzTGhxTDRLaWRQRFNmNmo5bDVTSVFqTTZlY2xnaUJrTHl1YXp0Z1hDYy1mWUVFbHpHY1FCMFdrc2gyOXR0WWFKNFYwNmJObVk?oc=5",
+          "source": "Google News",
+          "published": "Sun, 05 Jul 2026 21:16:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "집중호우",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이번 주 전국 본격 장마권…시간당 30mm 안팎 집중호우 주의 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MTlJlM1NIZW84cXZzTGhxTDRLaWRQRFNmNmo5bDVTSVFqTTZlY2xnaUJrTHl1YXp0Z1hDYy1mWUVFbHpHY1FCMFdrc2gyOXR0WWFKNFYwNmJObVk?oc=5",
+          "source": "Google News",
+          "published": "Sun, 05 Jul 2026 21:16:00 GMT"
         }
       ]
     },
@@ -347,197 +481,93 @@
       ]
     },
     {
-      "word": "미국",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "미국 250살 생일, 아수라장 돼도…트럼프 기어이 “멸공” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZMkw4TFBYczVMOHVPcWR0anZrM3pKWWZpYWFXMVJwRXBMeUdXdWNSVkswYmlCWlhFSm5qX3FxV1J4YTlTYTlndU00RTkzeFExSHdkN1NmbkRrYjNGZmNnLVB6dEN5OGN3bGxnZVpNUQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 05 Jul 2026 16:07:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "250살",
+      "word": "트럼프",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "미국 250살 생일, 아수라장 돼도…트럼프 기어이 “멸공” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZMkw4TFBYczVMOHVPcWR0anZrM3pKWWZpYWFXMVJwRXBMeUdXdWNSVkswYmlCWlhFSm5qX3FxV1J4YTlTYTlndU00RTkzeFExSHdkN1NmbkRrYjNGZmNnLVB6dEN5OGN3bGxnZVpNUQ?oc=5",
+          "title": "트럼프, ‘쿠팡 주식’ 18차례 거래…지난해 10월 집중 매매 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5EUVBacmJoMlhJQ3BDeEV1MEtVSldZUEF1RmE5eTk5bkdQc0l1WVJGOWs2VFQ4WHNSTk1YZlJ4c09adF81MC14MWwwckd6VjlhNktSMmlFekFGTXoyZXhNVlRmTk1nZ3NnU3c2ZTZ6NA?oc=5",
           "source": "Google News",
-          "published": "Sun, 05 Jul 2026 16:07:00 GMT"
+          "published": "Sun, 05 Jul 2026 12:57:00 GMT"
         }
       ]
     },
     {
-      "word": "생일",
+      "word": "쿠팡",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "미국 250살 생일, 아수라장 돼도…트럼프 기어이 “멸공” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZMkw4TFBYczVMOHVPcWR0anZrM3pKWWZpYWFXMVJwRXBMeUdXdWNSVkswYmlCWlhFSm5qX3FxV1J4YTlTYTlndU00RTkzeFExSHdkN1NmbkRrYjNGZmNnLVB6dEN5OGN3bGxnZVpNUQ?oc=5",
+          "title": "트럼프, ‘쿠팡 주식’ 18차례 거래…지난해 10월 집중 매매 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5EUVBacmJoMlhJQ3BDeEV1MEtVSldZUEF1RmE5eTk5bkdQc0l1WVJGOWs2VFQ4WHNSTk1YZlJ4c09adF81MC14MWwwckd6VjlhNktSMmlFekFGTXoyZXhNVlRmTk1nZ3NnU3c2ZTZ6NA?oc=5",
           "source": "Google News",
-          "published": "Sun, 05 Jul 2026 16:07:00 GMT"
+          "published": "Sun, 05 Jul 2026 12:57:00 GMT"
         }
       ]
     },
     {
-      "word": "아수라장",
+      "word": "주식",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "미국 250살 생일, 아수라장 돼도…트럼프 기어이 “멸공” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZMkw4TFBYczVMOHVPcWR0anZrM3pKWWZpYWFXMVJwRXBMeUdXdWNSVkswYmlCWlhFSm5qX3FxV1J4YTlTYTlndU00RTkzeFExSHdkN1NmbkRrYjNGZmNnLVB6dEN5OGN3bGxnZVpNUQ?oc=5",
+          "title": "트럼프, ‘쿠팡 주식’ 18차례 거래…지난해 10월 집중 매매 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5EUVBacmJoMlhJQ3BDeEV1MEtVSldZUEF1RmE5eTk5bkdQc0l1WVJGOWs2VFQ4WHNSTk1YZlJ4c09adF81MC14MWwwckd6VjlhNktSMmlFekFGTXoyZXhNVlRmTk1nZ3NnU3c2ZTZ6NA?oc=5",
           "source": "Google News",
-          "published": "Sun, 05 Jul 2026 16:07:00 GMT"
+          "published": "Sun, 05 Jul 2026 12:57:00 GMT"
         }
       ]
     },
     {
-      "word": "돼도트럼프",
+      "word": "18차례",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "미국 250살 생일, 아수라장 돼도…트럼프 기어이 “멸공” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZMkw4TFBYczVMOHVPcWR0anZrM3pKWWZpYWFXMVJwRXBMeUdXdWNSVkswYmlCWlhFSm5qX3FxV1J4YTlTYTlndU00RTkzeFExSHdkN1NmbkRrYjNGZmNnLVB6dEN5OGN3bGxnZVpNUQ?oc=5",
+          "title": "트럼프, ‘쿠팡 주식’ 18차례 거래…지난해 10월 집중 매매 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5EUVBacmJoMlhJQ3BDeEV1MEtVSldZUEF1RmE5eTk5bkdQc0l1WVJGOWs2VFQ4WHNSTk1YZlJ4c09adF81MC14MWwwckd6VjlhNktSMmlFekFGTXoyZXhNVlRmTk1nZ3NnU3c2ZTZ6NA?oc=5",
           "source": "Google News",
-          "published": "Sun, 05 Jul 2026 16:07:00 GMT"
+          "published": "Sun, 05 Jul 2026 12:57:00 GMT"
         }
       ]
     },
     {
-      "word": "기어",
+      "word": "거래지난해",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "미국 250살 생일, 아수라장 돼도…트럼프 기어이 “멸공” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZMkw4TFBYczVMOHVPcWR0anZrM3pKWWZpYWFXMVJwRXBMeUdXdWNSVkswYmlCWlhFSm5qX3FxV1J4YTlTYTlndU00RTkzeFExSHdkN1NmbkRrYjNGZmNnLVB6dEN5OGN3bGxnZVpNUQ?oc=5",
+          "title": "트럼프, ‘쿠팡 주식’ 18차례 거래…지난해 10월 집중 매매 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5EUVBacmJoMlhJQ3BDeEV1MEtVSldZUEF1RmE5eTk5bkdQc0l1WVJGOWs2VFQ4WHNSTk1YZlJ4c09adF81MC14MWwwckd6VjlhNktSMmlFekFGTXoyZXhNVlRmTk1nZ3NnU3c2ZTZ6NA?oc=5",
           "source": "Google News",
-          "published": "Sun, 05 Jul 2026 16:07:00 GMT"
+          "published": "Sun, 05 Jul 2026 12:57:00 GMT"
         }
       ]
     },
     {
-      "word": "멸공",
+      "word": "10월",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "미국 250살 생일, 아수라장 돼도…트럼프 기어이 “멸공” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZMkw4TFBYczVMOHVPcWR0anZrM3pKWWZpYWFXMVJwRXBMeUdXdWNSVkswYmlCWlhFSm5qX3FxV1J4YTlTYTlndU00RTkzeFExSHdkN1NmbkRrYjNGZmNnLVB6dEN5OGN3bGxnZVpNUQ?oc=5",
+          "title": "트럼프, ‘쿠팡 주식’ 18차례 거래…지난해 10월 집중 매매 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5EUVBacmJoMlhJQ3BDeEV1MEtVSldZUEF1RmE5eTk5bkdQc0l1WVJGOWs2VFQ4WHNSTk1YZlJ4c09adF81MC14MWwwckd6VjlhNktSMmlFekFGTXoyZXhNVlRmTk1nZ3NnU3c2ZTZ6NA?oc=5",
           "source": "Google News",
-          "published": "Sun, 05 Jul 2026 16:07:00 GMT"
+          "published": "Sun, 05 Jul 2026 12:57:00 GMT"
         }
       ]
     },
     {
-      "word": "일반",
+      "word": "집중",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "'일반 원룸과 달랐다'…'여고생 살해' 장윤기 방 내부는 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaaG9tbWo3QW9IYmtXRGptTWREcUwwTFpQaURJLWREdzRjUlVJRHB5VHNJcTdUanFxQ1c5U1pjYVV6X1YyR3lycDQyaW52TjBJX0hWLVpOci1yd9IBVEFVX3lxTE1wbjFyQnZMc3poRGZyMkRNc0RaaDlqNVVSbkpiNWZhQ1pPQU5ZV1FrWWJNQ3NKaUdEalFhNFhaRk1BRnd2Z0ZObUpJc1ZvN0ZhMWtkbw?oc=5",
+          "title": "트럼프, ‘쿠팡 주식’ 18차례 거래…지난해 10월 집중 매매 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5EUVBacmJoMlhJQ3BDeEV1MEtVSldZUEF1RmE5eTk5bkdQc0l1WVJGOWs2VFQ4WHNSTk1YZlJ4c09adF81MC14MWwwckd6VjlhNktSMmlFekFGTXoyZXhNVlRmTk1nZ3NnU3c2ZTZ6NA?oc=5",
           "source": "Google News",
-          "published": "Sun, 05 Jul 2026 05:35:24 GMT"
-        }
-      ]
-    },
-    {
-      "word": "원룸",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "'일반 원룸과 달랐다'…'여고생 살해' 장윤기 방 내부는 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaaG9tbWo3QW9IYmtXRGptTWREcUwwTFpQaURJLWREdzRjUlVJRHB5VHNJcTdUanFxQ1c5U1pjYVV6X1YyR3lycDQyaW52TjBJX0hWLVpOci1yd9IBVEFVX3lxTE1wbjFyQnZMc3poRGZyMkRNc0RaaDlqNVVSbkpiNWZhQ1pPQU5ZV1FrWWJNQ3NKaUdEalFhNFhaRk1BRnd2Z0ZObUpJc1ZvN0ZhMWtkbw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 05 Jul 2026 05:35:24 GMT"
-        }
-      ]
-    },
-    {
-      "word": "달랐다여고생",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "'일반 원룸과 달랐다'…'여고생 살해' 장윤기 방 내부는 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaaG9tbWo3QW9IYmtXRGptTWREcUwwTFpQaURJLWREdzRjUlVJRHB5VHNJcTdUanFxQ1c5U1pjYVV6X1YyR3lycDQyaW52TjBJX0hWLVpOci1yd9IBVEFVX3lxTE1wbjFyQnZMc3poRGZyMkRNc0RaaDlqNVVSbkpiNWZhQ1pPQU5ZV1FrWWJNQ3NKaUdEalFhNFhaRk1BRnd2Z0ZObUpJc1ZvN0ZhMWtkbw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 05 Jul 2026 05:35:24 GMT"
-        }
-      ]
-    },
-    {
-      "word": "살해",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "'일반 원룸과 달랐다'…'여고생 살해' 장윤기 방 내부는 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaaG9tbWo3QW9IYmtXRGptTWREcUwwTFpQaURJLWREdzRjUlVJRHB5VHNJcTdUanFxQ1c5U1pjYVV6X1YyR3lycDQyaW52TjBJX0hWLVpOci1yd9IBVEFVX3lxTE1wbjFyQnZMc3poRGZyMkRNc0RaaDlqNVVSbkpiNWZhQ1pPQU5ZV1FrWWJNQ3NKaUdEalFhNFhaRk1BRnd2Z0ZObUpJc1ZvN0ZhMWtkbw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 05 Jul 2026 05:35:24 GMT"
-        }
-      ]
-    },
-    {
-      "word": "장윤기",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "'일반 원룸과 달랐다'…'여고생 살해' 장윤기 방 내부는 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaaG9tbWo3QW9IYmtXRGptTWREcUwwTFpQaURJLWREdzRjUlVJRHB5VHNJcTdUanFxQ1c5U1pjYVV6X1YyR3lycDQyaW52TjBJX0hWLVpOci1yd9IBVEFVX3lxTE1wbjFyQnZMc3poRGZyMkRNc0RaaDlqNVVSbkpiNWZhQ1pPQU5ZV1FrWWJNQ3NKaUdEalFhNFhaRk1BRnd2Z0ZObUpJc1ZvN0ZhMWtkbw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 05 Jul 2026 05:35:24 GMT"
-        }
-      ]
-    },
-    {
-      "word": "내부",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "'일반 원룸과 달랐다'…'여고생 살해' 장윤기 방 내부는 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaaG9tbWo3QW9IYmtXRGptTWREcUwwTFpQaURJLWREdzRjUlVJRHB5VHNJcTdUanFxQ1c5U1pjYVV6X1YyR3lycDQyaW52TjBJX0hWLVpOci1yd9IBVEFVX3lxTE1wbjFyQnZMc3poRGZyMkRNc0RaaDlqNVVSbkpiNWZhQ1pPQU5ZV1FrWWJNQ3NKaUdEalFhNFhaRk1BRnd2Z0ZObUpJc1ZvN0ZhMWtkbw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 05 Jul 2026 05:35:24 GMT"
-        }
-      ]
-    },
-    {
-      "word": "단독정부",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "[단독]韓정부, 하메네이 장례식 불참…“이란측에서 난색 표해” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00bmhlaE82QWFBd0ZtV1ZfNkdZR1VadHN4UWxrTElPdmEtczY2M2FFWktfemtDSkRzS19QZ0M0dGwzUU9fVjNnTk9UcVZQTmVOZzVXbkpIcTFjNWt1dUJnNUJMSUsxWl9WZFBCbUZNcWNkWXJqdktV0gFmQVVfeXFMUFJmNW5RV3B1V2k3UWFyWERSRTBleDhZRnVnczYxaXlIVHQzcFVHU1BydDlWZ0VrY3hTSzRQeThSM3VHZ0F6QUM5d1d5MDdpdjBWMlBDeVVoLWFfaDZLUzJMaTdmX0l3?oc=5",
-          "source": "Google News",
-          "published": "Sun, 05 Jul 2026 05:38:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "하메네",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[단독]韓정부, 하메네이 장례식 불참…“이란측에서 난색 표해” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00bmhlaE82QWFBd0ZtV1ZfNkdZR1VadHN4UWxrTElPdmEtczY2M2FFWktfemtDSkRzS19QZ0M0dGwzUU9fVjNnTk9UcVZQTmVOZzVXbkpIcTFjNWt1dUJnNUJMSUsxWl9WZFBCbUZNcWNkWXJqdktV0gFmQVVfeXFMUFJmNW5RV3B1V2k3UWFyWERSRTBleDhZRnVnczYxaXlIVHQzcFVHU1BydDlWZ0VrY3hTSzRQeThSM3VHZ0F6QUM5d1d5MDdpdjBWMlBDeVVoLWFfaDZLUzJMaTdmX0l3?oc=5",
-          "source": "Google News",
-          "published": "Sun, 05 Jul 2026 05:38:00 GMT"
+          "published": "Sun, 05 Jul 2026 12:57:00 GMT"
         }
       ]
     }
