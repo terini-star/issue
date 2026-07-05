@@ -1,119 +1,88 @@
 {
   "language": "ko",
-  "last_updated": 1783280118.1927016,
+  "last_updated": 1783285836.8863084,
   "count": 40,
   "trends": [
     {
-      "word": "트럼프",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프 “공산주의, 암처럼 초기에 잘라내야”…한국전쟁 언급도 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01NFc0UFRWNU1ZWVk4S01qRU5feGhHR040dVB4M2FhSVplUXNveWFfMkxJYmVuSDVubTlxTFdqMFBJTjJ3SWdwM2tOdVlqdDliV2hhNWVva2xOYmZ6dF94TlVMYmJmWlNjc2NvcnpXZmtWWnfSAWZBVV95cUxOV3p3WTVCbUVaZ3BIUVEwQmo5Vk5sZzdBaUJ1TUo0NmdHdWpleW9BRFZrem9RTHNCZEc5ZGFXc015MkxYZkliN2V0MHJBZFZUYm1JTkQybXM1bEYzZGhEWlp2WWhZc1E?oc=5",
-          "source": "Google News",
-          "published": "Sun, 05 Jul 2026 04:31:00 GMT"
-        },
-        {
-          "title": "트럼프, ‘쿠팡 주식’ 18차례 거래…지난해 10월 집중 매매 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5EUVBacmJoMlhJQ3BDeEV1MEtVSldZUEF1RmE5eTk5bkdQc0l1WVJGOWs2VFQ4WHNSTk1YZlJ4c09adF81MC14MWwwckd6VjlhNktSMmlFekFGTXoyZXhNVlRmTk1nZ3NnU3c2ZTZ6NA?oc=5",
-          "source": "Google News",
-          "published": "Sun, 05 Jul 2026 12:57:00 GMT"
-        },
-        {
-          "title": "트럼프, 베네수 임시정부 재차 지지…“지진 빼면 행복, 거리서 춤춰” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTzJ0Rko0MHdLMmFwaXBsWVo0eUU1cTNsTFZEMmhhY0ZHZ1ItcXljcGdIbVpkSjNHaTBuQUpHcEpsMDBhLTUwNW1ra3RrVlBCQ0VVVW5qekhNSmJhTXQyQXp1WlUyaTFUQm9wcE1DYXBLSjBOMTlvNmxEbzlQNHIxSVd3?oc=5",
-          "source": "Google News",
-          "published": "Sun, 05 Jul 2026 06:24:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "공산주",
-      "count": 2,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "트럼프 “공산주의, 암처럼 초기에 잘라내야”…한국전쟁 언급도 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01NFc0UFRWNU1ZWVk4S01qRU5feGhHR040dVB4M2FhSVplUXNveWFfMkxJYmVuSDVubTlxTFdqMFBJTjJ3SWdwM2tOdVlqdDliV2hhNWVva2xOYmZ6dF94TlVMYmJmWlNjc2NvcnpXZmtWWnfSAWZBVV95cUxOV3p3WTVCbUVaZ3BIUVEwQmo5Vk5sZzdBaUJ1TUo0NmdHdWpleW9BRFZrem9RTHNCZEc5ZGFXc015MkxYZkliN2V0MHJBZFZUYm1JTkQybXM1bEYzZGhEWlp2WWhZc1E?oc=5",
-          "source": "Google News",
-          "published": "Sun, 05 Jul 2026 04:31:00 GMT"
-        },
-        {
-          "title": "맘다니 \"에어컨 온도는 25.6도\"... 정치권 \"공산주의 본색\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUmxINkRWYUw1dlBtN0xuc1FuVjlSQXdwd0g5VlBxTTg5dktUNGlKVEwyRVJLOEpQT2ZRZ3FXV1lsbmdEN0JhZlRXZDRFZms0N1VkQU5kRjk5Nm5yWWotZVNSLUVBcWpWeVUyMXY3Z05nbVh6emZMTkMwQ3Y1NWNKRURleEpRS3ZiemJ2LU1fYWtQOUtLVnRpV2ZTRXNYZw?oc=5",
-          "source": "Google News",
-          "published": "Sat, 04 Jul 2026 13:51:30 GMT"
-        }
-      ]
-    },
-    {
-      "word": "우리",
+      "word": "6일",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"우리는 집집마다 있는데\"…삼성 에어컨, 폭염 유럽서 '귀족템' 됐다 - 아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zbVNzZU1EMmQ5TUs1bkU0d1VNbDUwUUtSVmNvTm5NU3l5U1ExWXZWcEd5MllOVXFNRUxObEVuTHFzYlBOV1QtYnNmVWNtcGp3Zm1Lb2lwME9JR2FBaXZvUA?oc=5",
-          "source": "Google News",
-          "published": "Sat, 04 Jul 2026 00:59:34 GMT"
-        },
-        {
-          "title": "신봉선 달라진 미모에 허경환 모친 깜짝 \"병원 알려줘 우리도 가게\" (미우새) - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYUXJTR3hFc1JXbnpQNDBaa3ItWFhIcTZfdFZxRk96cGlNSlBiRldMcWhJYTBIWE1raGQxRXF2dEx5OTNjREFHRjRGVkpFd2NtOWVv?oc=5",
-          "source": "Google News",
-          "published": "Sun, 05 Jul 2026 12:25:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "에어컨",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "\"우리는 집집마다 있는데\"…삼성 에어컨, 폭염 유럽서 '귀족템' 됐다 - 아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zbVNzZU1EMmQ5TUs1bkU0d1VNbDUwUUtSVmNvTm5NU3l5U1ExWXZWcEd5MllOVXFNRUxObEVuTHFzYlBOV1QtYnNmVWNtcGp3Zm1Lb2lwME9JR2FBaXZvUA?oc=5",
-          "source": "Google News",
-          "published": "Sat, 04 Jul 2026 00:59:34 GMT"
-        },
-        {
-          "title": "맘다니 \"에어컨 온도는 25.6도\"... 정치권 \"공산주의 본색\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUmxINkRWYUw1dlBtN0xuc1FuVjlSQXdwd0g5VlBxTTg5dktUNGlKVEwyRVJLOEpQT2ZRZ3FXV1lsbmdEN0JhZlRXZDRFZms0N1VkQU5kRjk5Nm5yWWotZVNSLUVBcWpWeVUyMXY3Z05nbVh6emZMTkMwQ3Y1NWNKRURleEpRS3ZiemJ2LU1fYWtQOUtLVnRpV2ZTRXNYZw?oc=5",
-          "source": "Google News",
-          "published": "Sat, 04 Jul 2026 13:51:30 GMT"
-        }
-      ]
-    },
-    {
-      "word": "미우새",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "린, 이수와 이혼 후 심경 고백...\"정말 친했던 친구를 잃었다, 슬픈 느낌\" 울컥 ('미우새') [순간포착] - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQejMxQzlGVUQ4Skh1T2NqOU5IZ1BvenpKY3N6Q19yUFJtWW5abWNDcmw2ekNCdE0wNkVzTTNubm1mbkpOdldwVjMwd05ocnFYTXJ3WkdHdGJ6bWJzZEFPb0wxM1QyZEJXaW5laU9nUHdHdVN0eGo0NTJaSUI5YzYyNGcwcUN1bTdRZHlmLU9ONA?oc=5",
-          "source": "Google News",
-          "published": "Sun, 05 Jul 2026 12:45:00 GMT"
-        },
-        {
-          "title": "신봉선 달라진 미모에 허경환 모친 깜짝 \"병원 알려줘 우리도 가게\" (미우새) - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYUXJTR3hFc1JXbnpQNDBaa3ItWFhIcTZfdFZxRk96cGlNSlBiRldMcWhJYTBIWE1raGQxRXF2dEx5OTNjREFHRjRGVkpFd2NtOWVv?oc=5",
-          "source": "Google News",
-          "published": "Sun, 05 Jul 2026 12:25:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "당정청",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "당·정·청, 반도체 추가 세수로 ‘미래대응기금’ 만든다 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LTFp2MWdpV3V6YzhEWlF6UWg0Mk0ybVp5R0tZdmdncjQxeEk1MEdWc0YtX3ZjUEw3WUxYcl9BYWlvQnB6U1l5NnBnaHJ4ekpCTXZPVlVMMVQtRkpYNnljN1NyLTdxR2lfSE5qUl91Y1NoWkNZ?oc=5",
+          "title": "‘무더기 표적 징계’ 나오나…국힘, 6일 윤리위 재가동 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BRmN0SGxKOV9WRE1vWG9TZTNBTUtKdk5yRW93M0J1MC16ZVRsS0MxU0ttaGZrZ2FMa1pXM0ZzRFZQQUpZZTdnZjhreV92Q2lndmFuei12MzFpNFlsUERpZllOQUJ3bm80TzNZMzJOZXlJelZ0?oc=5",
           "source": "Google News",
           "published": "Sun, 05 Jul 2026 14:12:00 GMT"
+        },
+        {
+          "title": "최휘영·박지성 공동위원장 ‘K-축구 혁신위’ 6일 출범 - 강원일보",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55cW5uNWxGVDlXdGNUdlhnNWk4a1pnU05EelN2TFEwYkVRcDlRQmxlVVZvT2NsZWpkaTJvTFRianpNYi1qbTJzUFViX0YwTnV4TERmak5OODk?oc=5",
+          "source": "Google News",
+          "published": "Sun, 05 Jul 2026 12:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "이란",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "네타냐후 \"이란 문제, 美와 균열 없어…우린 '모범 동맹'\" - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xd0ZLVzRoRU8zQTVVcFpGWTNrbV9DUUF5MFo0YXQzZXRhZjJYYWF4dXZrM0YzLVlGeHBzU1didml6NTZyeXZUV0cxRWVEeTUxd3dFcWxnLW1tdEHSAWBBVV95cUxPUExScHV5OExsQWptaUxqSG1QN21jdG5DTTBNdVdGUEI4SE1jNWRBdEpzVjlSamhHQk1EY1pZaW95T0dDRlRlVWJuQnZVRXRUZzVHOTNkYXVFRG1KNTFkakg?oc=5",
+          "source": "Google News",
+          "published": "Sun, 05 Jul 2026 18:50:16 GMT"
+        },
+        {
+          "title": "이란 \"우방국, 호르무즈 통행료 할인\" - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81WWE5TkJYUFFLQzFCWjZuNWV2LWtUXzliRDRXTk4xVVliQkdWMzBsOEVyVklLUDg3N3dCWXJ1VGozd05QR0c3WUlWZ1ZOSFk3TzctVG5BTzB0QdIBVEFVX3lxTFBhUVZjQW1hVllTdVE4X0VxU0FFbU96cE45SmR3VS1GQ1VrNE1acXpqbTFUeV9YeFhVSU9hOGhFM1RiT2tQeWtfZXEyUnJ2OXpaaWUwRw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 05 Jul 2026 09:37:26 GMT"
+        }
+      ]
+    },
+    {
+      "word": "축구",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "축구의 신 vs 차세대 황제…메시·음바페 \"골든부트는 나의 것\" - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uSjN2TFNENWQ2UXBjS3V4WndaMnNpUnp1M3JiUUg5YUR0U2ppTmZ4U0kwaVNROVdmam03OUhvajRicFByTkE2ejB1RXVKQ2RscXJtX1lJLTRwd9IBVEFVX3lxTE1PdmV3Z0pMeFJEY2ZLSzdxNzVsajRvZ0VzQWpGMFF2VktEYUk1OG0xMXRLUkM5VUhYa1dRcjlYSmRfYUdjREh0ZmFxZ0tWdFZVRGx4Uw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 05 Jul 2026 08:38:59 GMT"
+        },
+        {
+          "title": "‘축구의 신’ 메시, 카보베르데 골키퍼 안아주며 “믿기 어려울 정도로 훌륭” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FWFhPWkFGUEthMzBOWHlBRmRrSTcxNllpRVV2NHdHM0haWE95SUpGTktVTjIwWU16VE1Nd0RVd01taWZFQ0dCNUpsLU9WUm1DREE1eVZYVzBrNTk3YzJZUjVITHFJNmdHZF9zajNsTlRZQkl30gFmQVVfeXFMTWFMVmxuTVZfUlR5Nlg4TVU2dTNsamxOaDJVMGo5SWFKSVdHOW5vQkhCcmkwZF81ZzZGWVhmakJRSEY0X3RqdG1aYTNzZnk3TTY4T3puRHVvZlphMEVCbGxYSWcxSE93?oc=5",
+          "source": "Google News",
+          "published": "Sun, 05 Jul 2026 19:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "단독강훈식",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[단독]강훈식 “추가세수, 반도체 클러스터 전력-용수에 써야” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYTDVaUWZFbzNjdkl2aXc3QzdOMW51ZXN6WFNtNnVsN3RKQnQyOXNwUUJFOThxV2RzU1BwNjlmZEtIZ0VXa0Q5RW1PU2J2NDR4alRxVjNRUFl1SlJPMDQ1dnVTaUZWZ0hSNHJjSFFEbnIyaVFkSE9F0gFmQVVfeXFMUGVUd2MzZU9CRTJzNUJQSHNKR1pqV1E1YUl0STA0M1pQVlhMdGZranBqMXRqRG1Wb1ZqcXRpc0NsMG5OUmIxS2FoTUtKZWg1b0ZsREc0UTRFZmZWYXlXaTZZR1RpLVd3?oc=5",
+          "source": "Google News",
+          "published": "Sun, 05 Jul 2026 19:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "추가세수",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[단독]강훈식 “추가세수, 반도체 클러스터 전력-용수에 써야” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYTDVaUWZFbzNjdkl2aXc3QzdOMW51ZXN6WFNtNnVsN3RKQnQyOXNwUUJFOThxV2RzU1BwNjlmZEtIZ0VXa0Q5RW1PU2J2NDR4alRxVjNRUFl1SlJPMDQ1dnVTaUZWZ0hSNHJjSFFEbnIyaVFkSE9F0gFmQVVfeXFMUGVUd2MzZU9CRTJzNUJQSHNKR1pqV1E1YUl0STA0M1pQVlhMdGZranBqMXRqRG1Wb1ZqcXRpc0NsMG5OUmIxS2FoTUtKZWg1b0ZsREc0UTRFZmZWYXlXaTZZR1RpLVd3?oc=5",
+          "source": "Google News",
+          "published": "Sun, 05 Jul 2026 19:30:00 GMT"
         }
       ]
     },
@@ -123,62 +92,49 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "당·정·청, 반도체 추가 세수로 ‘미래대응기금’ 만든다 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LTFp2MWdpV3V6YzhEWlF6UWg0Mk0ybVp5R0tZdmdncjQxeEk1MEdWc0YtX3ZjUEw3WUxYcl9BYWlvQnB6U1l5NnBnaHJ4ekpCTXZPVlVMMVQtRkpYNnljN1NyLTdxR2lfSE5qUl91Y1NoWkNZ?oc=5",
+          "title": "[단독]강훈식 “추가세수, 반도체 클러스터 전력-용수에 써야” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYTDVaUWZFbzNjdkl2aXc3QzdOMW51ZXN6WFNtNnVsN3RKQnQyOXNwUUJFOThxV2RzU1BwNjlmZEtIZ0VXa0Q5RW1PU2J2NDR4alRxVjNRUFl1SlJPMDQ1dnVTaUZWZ0hSNHJjSFFEbnIyaVFkSE9F0gFmQVVfeXFMUGVUd2MzZU9CRTJzNUJQSHNKR1pqV1E1YUl0STA0M1pQVlhMdGZranBqMXRqRG1Wb1ZqcXRpc0NsMG5OUmIxS2FoTUtKZWg1b0ZsREc0UTRFZmZWYXlXaTZZR1RpLVd3?oc=5",
           "source": "Google News",
-          "published": "Sun, 05 Jul 2026 14:12:00 GMT"
+          "published": "Sun, 05 Jul 2026 19:30:00 GMT"
         }
       ]
     },
     {
-      "word": "추가",
+      "word": "클러스터",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "당·정·청, 반도체 추가 세수로 ‘미래대응기금’ 만든다 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LTFp2MWdpV3V6YzhEWlF6UWg0Mk0ybVp5R0tZdmdncjQxeEk1MEdWc0YtX3ZjUEw3WUxYcl9BYWlvQnB6U1l5NnBnaHJ4ekpCTXZPVlVMMVQtRkpYNnljN1NyLTdxR2lfSE5qUl91Y1NoWkNZ?oc=5",
+          "title": "[단독]강훈식 “추가세수, 반도체 클러스터 전력-용수에 써야” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYTDVaUWZFbzNjdkl2aXc3QzdOMW51ZXN6WFNtNnVsN3RKQnQyOXNwUUJFOThxV2RzU1BwNjlmZEtIZ0VXa0Q5RW1PU2J2NDR4alRxVjNRUFl1SlJPMDQ1dnVTaUZWZ0hSNHJjSFFEbnIyaVFkSE9F0gFmQVVfeXFMUGVUd2MzZU9CRTJzNUJQSHNKR1pqV1E1YUl0STA0M1pQVlhMdGZranBqMXRqRG1Wb1ZqcXRpc0NsMG5OUmIxS2FoTUtKZWg1b0ZsREc0UTRFZmZWYXlXaTZZR1RpLVd3?oc=5",
           "source": "Google News",
-          "published": "Sun, 05 Jul 2026 14:12:00 GMT"
+          "published": "Sun, 05 Jul 2026 19:30:00 GMT"
         }
       ]
     },
     {
-      "word": "세수",
+      "word": "전력용수",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "당·정·청, 반도체 추가 세수로 ‘미래대응기금’ 만든다 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LTFp2MWdpV3V6YzhEWlF6UWg0Mk0ybVp5R0tZdmdncjQxeEk1MEdWc0YtX3ZjUEw3WUxYcl9BYWlvQnB6U1l5NnBnaHJ4ekpCTXZPVlVMMVQtRkpYNnljN1NyLTdxR2lfSE5qUl91Y1NoWkNZ?oc=5",
+          "title": "[단독]강훈식 “추가세수, 반도체 클러스터 전력-용수에 써야” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYTDVaUWZFbzNjdkl2aXc3QzdOMW51ZXN6WFNtNnVsN3RKQnQyOXNwUUJFOThxV2RzU1BwNjlmZEtIZ0VXa0Q5RW1PU2J2NDR4alRxVjNRUFl1SlJPMDQ1dnVTaUZWZ0hSNHJjSFFEbnIyaVFkSE9F0gFmQVVfeXFMUGVUd2MzZU9CRTJzNUJQSHNKR1pqV1E1YUl0STA0M1pQVlhMdGZranBqMXRqRG1Wb1ZqcXRpc0NsMG5OUmIxS2FoTUtKZWg1b0ZsREc0UTRFZmZWYXlXaTZZR1RpLVd3?oc=5",
           "source": "Google News",
-          "published": "Sun, 05 Jul 2026 14:12:00 GMT"
+          "published": "Sun, 05 Jul 2026 19:30:00 GMT"
         }
       ]
     },
     {
-      "word": "미래대응기금",
+      "word": "써야",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "당·정·청, 반도체 추가 세수로 ‘미래대응기금’ 만든다 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LTFp2MWdpV3V6YzhEWlF6UWg0Mk0ybVp5R0tZdmdncjQxeEk1MEdWc0YtX3ZjUEw3WUxYcl9BYWlvQnB6U1l5NnBnaHJ4ekpCTXZPVlVMMVQtRkpYNnljN1NyLTdxR2lfSE5qUl91Y1NoWkNZ?oc=5",
+          "title": "[단독]강훈식 “추가세수, 반도체 클러스터 전력-용수에 써야” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYTDVaUWZFbzNjdkl2aXc3QzdOMW51ZXN6WFNtNnVsN3RKQnQyOXNwUUJFOThxV2RzU1BwNjlmZEtIZ0VXa0Q5RW1PU2J2NDR4alRxVjNRUFl1SlJPMDQ1dnVTaUZWZ0hSNHJjSFFEbnIyaVFkSE9F0gFmQVVfeXFMUGVUd2MzZU9CRTJzNUJQSHNKR1pqV1E1YUl0STA0M1pQVlhMdGZranBqMXRqRG1Wb1ZqcXRpc0NsMG5OUmIxS2FoTUtKZWg1b0ZsREc0UTRFZmZWYXlXaTZZR1RpLVd3?oc=5",
           "source": "Google News",
-          "published": "Sun, 05 Jul 2026 14:12:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "만든다",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "당·정·청, 반도체 추가 세수로 ‘미래대응기금’ 만든다 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LTFp2MWdpV3V6YzhEWlF6UWg0Mk0ybVp5R0tZdmdncjQxeEk1MEdWc0YtX3ZjUEw3WUxYcl9BYWlvQnB6U1l5NnBnaHJ4ekpCTXZPVlVMMVQtRkpYNnljN1NyLTdxR2lfSE5qUl91Y1NoWkNZ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 05 Jul 2026 14:12:00 GMT"
+          "published": "Sun, 05 Jul 2026 19:30:00 GMT"
         }
       ]
     },
@@ -287,15 +243,15 @@
       ]
     },
     {
-      "word": "일각",
+      "word": "이병태",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "與일각, '5·18이 성역이냐' 이병태에 \"헌정가치 훼손…사퇴해야\"(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92c3NPR3BCSjVDb25RdWNVNnpWYmRlOWttRkxRLVhONHotV2ZqQk5lQnVDcDg3WHpFNXdncVF5SzF6akVqbWpuSVhlRWNSVGFiNXFLNGY5TEptMnfSAWBBVV95cUxQOGlEOHY2THVwV2Iyc1BKU2RNb2xtSTN0aVR3OEdiS1Rrc3IzNXhTREtxckVoMHI1MVBHbWVZbjBpWGpKRnBONzhKdWV2UHNjeVE1MDBGOEYtUkFWaUIyUl8?oc=5",
+          "title": "이병태 “5·18 성역 돼, 북한 모습”…청와대 경고 속, 사퇴론 분출 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51U1h3WXJrZHhmUzBwY0RQUXFRZ0ZSNFF5UHlhcVFoQk5hQml6cVdETHVrM215Uk53b0NqZ1U3cGpyY3hCSjlvVl9LeHl2ZW1WQ1hNM0FUUlAyU1VCUTg2aUlUdWNrUDNlWUVWZzZFcFQ3NGZ1?oc=5",
           "source": "Google News",
-          "published": "Sun, 05 Jul 2026 14:41:52 GMT"
+          "published": "Sun, 05 Jul 2026 16:22:00 GMT"
         }
       ]
     },
@@ -305,114 +261,179 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "與일각, '5·18이 성역이냐' 이병태에 \"헌정가치 훼손…사퇴해야\"(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92c3NPR3BCSjVDb25RdWNVNnpWYmRlOWttRkxRLVhONHotV2ZqQk5lQnVDcDg3WHpFNXdncVF5SzF6akVqbWpuSVhlRWNSVGFiNXFLNGY5TEptMnfSAWBBVV95cUxQOGlEOHY2THVwV2Iyc1BKU2RNb2xtSTN0aVR3OEdiS1Rrc3IzNXhTREtxckVoMHI1MVBHbWVZbjBpWGpKRnBONzhKdWV2UHNjeVE1MDBGOEYtUkFWaUIyUl8?oc=5",
+          "title": "이병태 “5·18 성역 돼, 북한 모습”…청와대 경고 속, 사퇴론 분출 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51U1h3WXJrZHhmUzBwY0RQUXFRZ0ZSNFF5UHlhcVFoQk5hQml6cVdETHVrM215Uk53b0NqZ1U3cGpyY3hCSjlvVl9LeHl2ZW1WQ1hNM0FUUlAyU1VCUTg2aUlUdWNrUDNlWUVWZzZFcFQ3NGZ1?oc=5",
           "source": "Google News",
-          "published": "Sun, 05 Jul 2026 14:41:52 GMT"
+          "published": "Sun, 05 Jul 2026 16:22:00 GMT"
         }
       ]
     },
     {
-      "word": "성역이냐",
+      "word": "성역",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "與일각, '5·18이 성역이냐' 이병태에 \"헌정가치 훼손…사퇴해야\"(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92c3NPR3BCSjVDb25RdWNVNnpWYmRlOWttRkxRLVhONHotV2ZqQk5lQnVDcDg3WHpFNXdncVF5SzF6akVqbWpuSVhlRWNSVGFiNXFLNGY5TEptMnfSAWBBVV95cUxQOGlEOHY2THVwV2Iyc1BKU2RNb2xtSTN0aVR3OEdiS1Rrc3IzNXhTREtxckVoMHI1MVBHbWVZbjBpWGpKRnBONzhKdWV2UHNjeVE1MDBGOEYtUkFWaUIyUl8?oc=5",
+          "title": "이병태 “5·18 성역 돼, 북한 모습”…청와대 경고 속, 사퇴론 분출 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51U1h3WXJrZHhmUzBwY0RQUXFRZ0ZSNFF5UHlhcVFoQk5hQml6cVdETHVrM215Uk53b0NqZ1U3cGpyY3hCSjlvVl9LeHl2ZW1WQ1hNM0FUUlAyU1VCUTg2aUlUdWNrUDNlWUVWZzZFcFQ3NGZ1?oc=5",
           "source": "Google News",
-          "published": "Sun, 05 Jul 2026 14:41:52 GMT"
+          "published": "Sun, 05 Jul 2026 16:22:00 GMT"
         }
       ]
     },
     {
-      "word": "이병태",
+      "word": "북한",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "與일각, '5·18이 성역이냐' 이병태에 \"헌정가치 훼손…사퇴해야\"(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92c3NPR3BCSjVDb25RdWNVNnpWYmRlOWttRkxRLVhONHotV2ZqQk5lQnVDcDg3WHpFNXdncVF5SzF6akVqbWpuSVhlRWNSVGFiNXFLNGY5TEptMnfSAWBBVV95cUxQOGlEOHY2THVwV2Iyc1BKU2RNb2xtSTN0aVR3OEdiS1Rrc3IzNXhTREtxckVoMHI1MVBHbWVZbjBpWGpKRnBONzhKdWV2UHNjeVE1MDBGOEYtUkFWaUIyUl8?oc=5",
+          "title": "이병태 “5·18 성역 돼, 북한 모습”…청와대 경고 속, 사퇴론 분출 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51U1h3WXJrZHhmUzBwY0RQUXFRZ0ZSNFF5UHlhcVFoQk5hQml6cVdETHVrM215Uk53b0NqZ1U3cGpyY3hCSjlvVl9LeHl2ZW1WQ1hNM0FUUlAyU1VCUTg2aUlUdWNrUDNlWUVWZzZFcFQ3NGZ1?oc=5",
           "source": "Google News",
-          "published": "Sun, 05 Jul 2026 14:41:52 GMT"
+          "published": "Sun, 05 Jul 2026 16:22:00 GMT"
         }
       ]
     },
     {
-      "word": "헌정가치",
+      "word": "모습청와대",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "與일각, '5·18이 성역이냐' 이병태에 \"헌정가치 훼손…사퇴해야\"(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92c3NPR3BCSjVDb25RdWNVNnpWYmRlOWttRkxRLVhONHotV2ZqQk5lQnVDcDg3WHpFNXdncVF5SzF6akVqbWpuSVhlRWNSVGFiNXFLNGY5TEptMnfSAWBBVV95cUxQOGlEOHY2THVwV2Iyc1BKU2RNb2xtSTN0aVR3OEdiS1Rrc3IzNXhTREtxckVoMHI1MVBHbWVZbjBpWGpKRnBONzhKdWV2UHNjeVE1MDBGOEYtUkFWaUIyUl8?oc=5",
+          "title": "이병태 “5·18 성역 돼, 북한 모습”…청와대 경고 속, 사퇴론 분출 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51U1h3WXJrZHhmUzBwY0RQUXFRZ0ZSNFF5UHlhcVFoQk5hQml6cVdETHVrM215Uk53b0NqZ1U3cGpyY3hCSjlvVl9LeHl2ZW1WQ1hNM0FUUlAyU1VCUTg2aUlUdWNrUDNlWUVWZzZFcFQ3NGZ1?oc=5",
           "source": "Google News",
-          "published": "Sun, 05 Jul 2026 14:41:52 GMT"
+          "published": "Sun, 05 Jul 2026 16:22:00 GMT"
         }
       ]
     },
     {
-      "word": "훼손사퇴해야종합",
+      "word": "경고",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "與일각, '5·18이 성역이냐' 이병태에 \"헌정가치 훼손…사퇴해야\"(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92c3NPR3BCSjVDb25RdWNVNnpWYmRlOWttRkxRLVhONHotV2ZqQk5lQnVDcDg3WHpFNXdncVF5SzF6akVqbWpuSVhlRWNSVGFiNXFLNGY5TEptMnfSAWBBVV95cUxQOGlEOHY2THVwV2Iyc1BKU2RNb2xtSTN0aVR3OEdiS1Rrc3IzNXhTREtxckVoMHI1MVBHbWVZbjBpWGpKRnBONzhKdWV2UHNjeVE1MDBGOEYtUkFWaUIyUl8?oc=5",
+          "title": "이병태 “5·18 성역 돼, 북한 모습”…청와대 경고 속, 사퇴론 분출 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51U1h3WXJrZHhmUzBwY0RQUXFRZ0ZSNFF5UHlhcVFoQk5hQml6cVdETHVrM215Uk53b0NqZ1U3cGpyY3hCSjlvVl9LeHl2ZW1WQ1hNM0FUUlAyU1VCUTg2aUlUdWNrUDNlWUVWZzZFcFQ3NGZ1?oc=5",
           "source": "Google News",
-          "published": "Sun, 05 Jul 2026 14:41:52 GMT"
+          "published": "Sun, 05 Jul 2026 16:22:00 GMT"
         }
       ]
     },
     {
-      "word": "암처럼",
+      "word": "사퇴론",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 “공산주의, 암처럼 초기에 잘라내야”…한국전쟁 언급도 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01NFc0UFRWNU1ZWVk4S01qRU5feGhHR040dVB4M2FhSVplUXNveWFfMkxJYmVuSDVubTlxTFdqMFBJTjJ3SWdwM2tOdVlqdDliV2hhNWVva2xOYmZ6dF94TlVMYmJmWlNjc2NvcnpXZmtWWnfSAWZBVV95cUxOV3p3WTVCbUVaZ3BIUVEwQmo5Vk5sZzdBaUJ1TUo0NmdHdWpleW9BRFZrem9RTHNCZEc5ZGFXc015MkxYZkliN2V0MHJBZFZUYm1JTkQybXM1bEYzZGhEWlp2WWhZc1E?oc=5",
+          "title": "이병태 “5·18 성역 돼, 북한 모습”…청와대 경고 속, 사퇴론 분출 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51U1h3WXJrZHhmUzBwY0RQUXFRZ0ZSNFF5UHlhcVFoQk5hQml6cVdETHVrM215Uk53b0NqZ1U3cGpyY3hCSjlvVl9LeHl2ZW1WQ1hNM0FUUlAyU1VCUTg2aUlUdWNrUDNlWUVWZzZFcFQ3NGZ1?oc=5",
           "source": "Google News",
-          "published": "Sun, 05 Jul 2026 04:31:00 GMT"
+          "published": "Sun, 05 Jul 2026 16:22:00 GMT"
         }
       ]
     },
     {
-      "word": "초기",
+      "word": "분출",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 “공산주의, 암처럼 초기에 잘라내야”…한국전쟁 언급도 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01NFc0UFRWNU1ZWVk4S01qRU5feGhHR040dVB4M2FhSVplUXNveWFfMkxJYmVuSDVubTlxTFdqMFBJTjJ3SWdwM2tOdVlqdDliV2hhNWVva2xOYmZ6dF94TlVMYmJmWlNjc2NvcnpXZmtWWnfSAWZBVV95cUxOV3p3WTVCbUVaZ3BIUVEwQmo5Vk5sZzdBaUJ1TUo0NmdHdWpleW9BRFZrem9RTHNCZEc5ZGFXc015MkxYZkliN2V0MHJBZFZUYm1JTkQybXM1bEYzZGhEWlp2WWhZc1E?oc=5",
+          "title": "이병태 “5·18 성역 돼, 북한 모습”…청와대 경고 속, 사퇴론 분출 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51U1h3WXJrZHhmUzBwY0RQUXFRZ0ZSNFF5UHlhcVFoQk5hQml6cVdETHVrM215Uk53b0NqZ1U3cGpyY3hCSjlvVl9LeHl2ZW1WQ1hNM0FUUlAyU1VCUTg2aUlUdWNrUDNlWUVWZzZFcFQ3NGZ1?oc=5",
           "source": "Google News",
-          "published": "Sun, 05 Jul 2026 04:31:00 GMT"
+          "published": "Sun, 05 Jul 2026 16:22:00 GMT"
         }
       ]
     },
     {
-      "word": "잘라내야한국전쟁",
+      "word": "미국",
       "count": 1,
-      "category": "NOUN",
+      "category": "LOCATION",
       "articles": [
         {
-          "title": "트럼프 “공산주의, 암처럼 초기에 잘라내야”…한국전쟁 언급도 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01NFc0UFRWNU1ZWVk4S01qRU5feGhHR040dVB4M2FhSVplUXNveWFfMkxJYmVuSDVubTlxTFdqMFBJTjJ3SWdwM2tOdVlqdDliV2hhNWVva2xOYmZ6dF94TlVMYmJmWlNjc2NvcnpXZmtWWnfSAWZBVV95cUxOV3p3WTVCbUVaZ3BIUVEwQmo5Vk5sZzdBaUJ1TUo0NmdHdWpleW9BRFZrem9RTHNCZEc5ZGFXc015MkxYZkliN2V0MHJBZFZUYm1JTkQybXM1bEYzZGhEWlp2WWhZc1E?oc=5",
+          "title": "미국 250살 생일, 아수라장 돼도…트럼프 기어이 “멸공” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZMkw4TFBYczVMOHVPcWR0anZrM3pKWWZpYWFXMVJwRXBMeUdXdWNSVkswYmlCWlhFSm5qX3FxV1J4YTlTYTlndU00RTkzeFExSHdkN1NmbkRrYjNGZmNnLVB6dEN5OGN3bGxnZVpNUQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 05 Jul 2026 04:31:00 GMT"
+          "published": "Sun, 05 Jul 2026 16:07:00 GMT"
         }
       ]
     },
     {
-      "word": "언급",
+      "word": "250살",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 “공산주의, 암처럼 초기에 잘라내야”…한국전쟁 언급도 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01NFc0UFRWNU1ZWVk4S01qRU5feGhHR040dVB4M2FhSVplUXNveWFfMkxJYmVuSDVubTlxTFdqMFBJTjJ3SWdwM2tOdVlqdDliV2hhNWVva2xOYmZ6dF94TlVMYmJmWlNjc2NvcnpXZmtWWnfSAWZBVV95cUxOV3p3WTVCbUVaZ3BIUVEwQmo5Vk5sZzdBaUJ1TUo0NmdHdWpleW9BRFZrem9RTHNCZEc5ZGFXc015MkxYZkliN2V0MHJBZFZUYm1JTkQybXM1bEYzZGhEWlp2WWhZc1E?oc=5",
+          "title": "미국 250살 생일, 아수라장 돼도…트럼프 기어이 “멸공” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZMkw4TFBYczVMOHVPcWR0anZrM3pKWWZpYWFXMVJwRXBMeUdXdWNSVkswYmlCWlhFSm5qX3FxV1J4YTlTYTlndU00RTkzeFExSHdkN1NmbkRrYjNGZmNnLVB6dEN5OGN3bGxnZVpNUQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 05 Jul 2026 04:31:00 GMT"
+          "published": "Sun, 05 Jul 2026 16:07:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "생일",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "미국 250살 생일, 아수라장 돼도…트럼프 기어이 “멸공” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZMkw4TFBYczVMOHVPcWR0anZrM3pKWWZpYWFXMVJwRXBMeUdXdWNSVkswYmlCWlhFSm5qX3FxV1J4YTlTYTlndU00RTkzeFExSHdkN1NmbkRrYjNGZmNnLVB6dEN5OGN3bGxnZVpNUQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 05 Jul 2026 16:07:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "아수라장",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "미국 250살 생일, 아수라장 돼도…트럼프 기어이 “멸공” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZMkw4TFBYczVMOHVPcWR0anZrM3pKWWZpYWFXMVJwRXBMeUdXdWNSVkswYmlCWlhFSm5qX3FxV1J4YTlTYTlndU00RTkzeFExSHdkN1NmbkRrYjNGZmNnLVB6dEN5OGN3bGxnZVpNUQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 05 Jul 2026 16:07:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "돼도트럼프",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "미국 250살 생일, 아수라장 돼도…트럼프 기어이 “멸공” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZMkw4TFBYczVMOHVPcWR0anZrM3pKWWZpYWFXMVJwRXBMeUdXdWNSVkswYmlCWlhFSm5qX3FxV1J4YTlTYTlndU00RTkzeFExSHdkN1NmbkRrYjNGZmNnLVB6dEN5OGN3bGxnZVpNUQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 05 Jul 2026 16:07:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "기어",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "미국 250살 생일, 아수라장 돼도…트럼프 기어이 “멸공” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZMkw4TFBYczVMOHVPcWR0anZrM3pKWWZpYWFXMVJwRXBMeUdXdWNSVkswYmlCWlhFSm5qX3FxV1J4YTlTYTlndU00RTkzeFExSHdkN1NmbkRrYjNGZmNnLVB6dEN5OGN3bGxnZVpNUQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 05 Jul 2026 16:07:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "멸공",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "미국 250살 생일, 아수라장 돼도…트럼프 기어이 “멸공” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZMkw4TFBYczVMOHVPcWR0anZrM3pKWWZpYWFXMVJwRXBMeUdXdWNSVkswYmlCWlhFSm5qX3FxV1J4YTlTYTlndU00RTkzeFExSHdkN1NmbkRrYjNGZmNnLVB6dEN5OGN3bGxnZVpNUQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 05 Jul 2026 16:07:00 GMT"
         }
       ]
     },
@@ -509,45 +530,6 @@
     },
     {
       "word": "하메네",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[단독]韓정부, 하메네이 장례식 불참…“이란측에서 난색 표해” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00bmhlaE82QWFBd0ZtV1ZfNkdZR1VadHN4UWxrTElPdmEtczY2M2FFWktfemtDSkRzS19QZ0M0dGwzUU9fVjNnTk9UcVZQTmVOZzVXbkpIcTFjNWt1dUJnNUJMSUsxWl9WZFBCbUZNcWNkWXJqdktV0gFmQVVfeXFMUFJmNW5RV3B1V2k3UWFyWERSRTBleDhZRnVnczYxaXlIVHQzcFVHU1BydDlWZ0VrY3hTSzRQeThSM3VHZ0F6QUM5d1d5MDdpdjBWMlBDeVVoLWFfaDZLUzJMaTdmX0l3?oc=5",
-          "source": "Google News",
-          "published": "Sun, 05 Jul 2026 05:38:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "장례식",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[단독]韓정부, 하메네이 장례식 불참…“이란측에서 난색 표해” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00bmhlaE82QWFBd0ZtV1ZfNkdZR1VadHN4UWxrTElPdmEtczY2M2FFWktfemtDSkRzS19QZ0M0dGwzUU9fVjNnTk9UcVZQTmVOZzVXbkpIcTFjNWt1dUJnNUJMSUsxWl9WZFBCbUZNcWNkWXJqdktV0gFmQVVfeXFMUFJmNW5RV3B1V2k3UWFyWERSRTBleDhZRnVnczYxaXlIVHQzcFVHU1BydDlWZ0VrY3hTSzRQeThSM3VHZ0F6QUM5d1d5MDdpdjBWMlBDeVVoLWFfaDZLUzJMaTdmX0l3?oc=5",
-          "source": "Google News",
-          "published": "Sun, 05 Jul 2026 05:38:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "불참이란측",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[단독]韓정부, 하메네이 장례식 불참…“이란측에서 난색 표해” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00bmhlaE82QWFBd0ZtV1ZfNkdZR1VadHN4UWxrTElPdmEtczY2M2FFWktfemtDSkRzS19QZ0M0dGwzUU9fVjNnTk9UcVZQTmVOZzVXbkpIcTFjNWt1dUJnNUJMSUsxWl9WZFBCbUZNcWNkWXJqdktV0gFmQVVfeXFMUFJmNW5RV3B1V2k3UWFyWERSRTBleDhZRnVnczYxaXlIVHQzcFVHU1BydDlWZ0VrY3hTSzRQeThSM3VHZ0F6QUM5d1d5MDdpdjBWMlBDeVVoLWFfaDZLUzJMaTdmX0l3?oc=5",
-          "source": "Google News",
-          "published": "Sun, 05 Jul 2026 05:38:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "난색",
       "count": 1,
       "category": "NOUN",
       "articles": [
