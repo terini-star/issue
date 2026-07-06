@@ -1,333 +1,500 @@
 {
   "language": "ko",
-  "last_updated": 1783311299.3386426,
+  "last_updated": 1783328763.1366334,
   "count": 40,
   "trends": [
     {
-      "word": "대통령",
-      "count": 2,
-      "category": "PERSON",
+      "word": "반도체",
+      "count": 3,
+      "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령 “메가프로젝트, 방해는 안 했으면…공인 맞냐” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94Ymw4OUd5d0o5SU9rSkNGZVFydmJQTFNUZVo3ZTNKalR4bXM3V1JFaER0QTVXSzdLZmc5NnI4NlMzWlBOcDRFUV9SSE9tZWtKVVJwNEpaRHJjRmRSbUtjX0hpMFRHcjh0MUdV?oc=5",
+          "title": "李 대통령 \"반도체 초과세수로 재정 포함 모든 지원\" - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fMU10OW9WYnZxNEVhNndtRkFxaUpEeFp0WTJnU1NyamNmbmJyZjJ3SHd3dEJOdVppQzNxSVFTRlVCZ201LWJ0eXE4UXEtemZ6cF96R25tNW4tQdIBVEFVX3lxTFBMTmlFNnpCdUV4WUlHRndoQmtLQ0FCa3JHMmI5NWhSeExQS1V3OXh1dFFpaElrXzZ4dzRoZHJTZUZWNXFBbXpDVFdIR3IwMURKdkU0cQ?oc=5",
           "source": "Google News",
-          "published": "Mon, 06 Jul 2026 02:59:00 GMT"
+          "published": "Mon, 06 Jul 2026 01:18:29 GMT"
         },
         {
-          "title": "이 대통령 지지도, 7주 만에 소폭 반등한 47%‥\"3대 메가프로젝트 긍정 신호\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iZ0VqeDF1cHJPa093cEFkWWJiWDF4S2lGa2ZrY0NGS1I1d3E0YjNSRzFKVmJPdEo1QnFPWVkxdXVFeDRLUHUyTW0wU0lGUDBtTFQxM3FfSndYeTE0Y3hFQzM4TTB4SkNBMERrWXY4c3Z2aERwNGpMddIBeEFVX3lxTE5FLTdZZ1prbmRGQ21iR25vYjJpLTJZdEgtaS1RSzZUcm1nM0hRZGVlOFU0UjUwY2lXZ3Qwd2YxekdxUVNPMFpzRi1qNFZpMVRjT0E1WnV2aWNPa29XX2p6Vms4VHhmTXd2N0ZXT3ZWbVhpbXo4MmFBbg?oc=5",
+          "title": "[단독]강훈식 “추가세수, 반도체 클러스터 전력-용수에 써야” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYTDVaUWZFbzNjdkl2aXc3QzdOMW51ZXN6WFNtNnVsN3RKQnQyOXNwUUJFOThxV2RzU1BwNjlmZEtIZ0VXa0Q5RW1PU2J2NDR4alRxVjNRUFl1SlJPMDQ1dnVTaUZWZ0hSNHJjSFFEbnIyaVFkSE9F0gFmQVVfeXFMUGVUd2MzZU9CRTJzNUJQSHNKR1pqV1E1YUl0STA0M1pQVlhMdGZranBqMXRqRG1Wb1ZqcXRpc0NsMG5OUmIxS2FoTUtKZWg1b0ZsREc0UTRFZmZWYXlXaTZZR1RpLVd3?oc=5",
           "source": "Google News",
-          "published": "Mon, 06 Jul 2026 01:24:19 GMT"
-        }
-      ]
-    },
-    {
-      "word": "메가프로젝트",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 “메가프로젝트, 방해는 안 했으면…공인 맞냐” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94Ymw4OUd5d0o5SU9rSkNGZVFydmJQTFNUZVo3ZTNKalR4bXM3V1JFaER0QTVXSzdLZmc5NnI4NlMzWlBOcDRFUV9SSE9tZWtKVVJwNEpaRHJjRmRSbUtjX0hpMFRHcjh0MUdV?oc=5",
-          "source": "Google News",
-          "published": "Mon, 06 Jul 2026 02:59:00 GMT"
+          "published": "Sun, 05 Jul 2026 19:30:00 GMT"
         },
         {
-          "title": "이 대통령 지지도, 7주 만에 소폭 반등한 47%‥\"3대 메가프로젝트 긍정 신호\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iZ0VqeDF1cHJPa093cEFkWWJiWDF4S2lGa2ZrY0NGS1I1d3E0YjNSRzFKVmJPdEo1QnFPWVkxdXVFeDRLUHUyTW0wU0lGUDBtTFQxM3FfSndYeTE0Y3hFQzM4TTB4SkNBMERrWXY4c3Z2aERwNGpMddIBeEFVX3lxTE5FLTdZZ1prbmRGQ21iR25vYjJpLTJZdEgtaS1RSzZUcm1nM0hRZGVlOFU0UjUwY2lXZ3Qwd2YxekdxUVNPMFpzRi1qNFZpMVRjT0E1WnV2aWNPa29XX2p6Vms4VHhmTXd2N0ZXT3ZWbVhpbXo4MmFBbg?oc=5",
+          "title": "호남 반도체 클러스터, 광주 군 공항 부지에 조성키로 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkQW5HREdaS09MVDJMcmNaQ2E1Um5oOUJzSVVDTzRuWkZtTDYycEtreG1BRzBvUXVlYTVzeGVfVnc2cDltV1hyMFUxUmVYNl9YR0loMklFN2ZLX2NHSFhHdnBFM0JKRHM?oc=5",
           "source": "Google News",
-          "published": "Mon, 06 Jul 2026 01:24:19 GMT"
+          "published": "Mon, 06 Jul 2026 06:23:00 GMT"
         }
       ]
     },
     {
-      "word": "감독",
-      "count": 2,
+      "word": "앞두",
+      "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "'야구 대부' 김성근 감독이 본 배재고 논란···\"잘못을 가르칠 지도자도 어른도 없었다\" - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lVW1oMVc2RldZbVRmUmNPRnM4V0UtQzh6RC1MSjBrVHlWSnhmZVJWMi1sWVFudS1xNG1hZ2NYSWlpVmxzTjlyTGFDTnczVlJ5U01qa0R0R3BmZw?oc=5",
+          "title": "러시아, 나토 정상회의 앞두고 키이우 공격···최소 7명 사망 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wZExreVBIVnhVVnJESHhiNDhLR2pBdHZ3TXN6VjhVWGxQWmtHekZrbFMxRHBVOER3aVBWeTdDaWtMdF82NXd5cWVLTHVFbXdPcUJoelB3WWUtQdIBX0FVX3lxTFB2elFOb3hrTXVRVGRnRnE2WEJZcUxfbzdHQTB3Q0FGczZkT3ZqZmZZRnVuNlQtR2lrX0pBalFZLUotSkVBZVdlX0dUb3hsblRSRHQ5TWRiWThBVVJWdXNZ?oc=5",
           "source": "Google News",
-          "published": "Sun, 05 Jul 2026 21:00:00 GMT"
+          "published": "Mon, 06 Jul 2026 04:58:00 GMT"
         },
         {
-          "title": "크리스토퍼 놀런 감독 드디어 한국 온다... 영화 ‘오디세이’ 개봉 맞춰 첫 방한 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaEdOQXZQSHVKUnFxM0thb01lRHR5WkFxbzB3cFRwa2lGel9WeEhjTEtkZlA2MWw0OUZ3OFFHUDgzSUhobDNLRVY2ZGNiSlVLQ19sOWpWczRySlNtWjJYYUpUTG5ObDdPUlJBREhjOVlhb2owelNldXRJalU3a19lUDVWSWg4RndMb3VMWHFZdlR0TUp4?oc=5",
+          "title": "삼전, 실적 발표 앞두고 주가 소폭 상승…코스피는 8000선 등락 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Felo5eE53X1FGalNMODlDUU5mSUZzai1ob3dXZzBrbThoZ093NzJ2QzluTTNLQURvTXFueTl5dmFoWTE4RktxMFJ6UUxMdjZGWGFBUWUySXBtYk1DbEhGLTQ3a3BPMDBPNXV2WkR3T1dxZTJMa3fSAWZBVV95cUxPOFZiX0oxUXE0RFd3WERUTVhOVE1yX2RBT2hkUEgzeklXSHBBX19TSUN4TjlzX0tHZ2E0SW5renJRb3dPVkkwWFM2YnNuSmhCSmtYVmZucHVSaDJXc1RVTTZtWjQyNnc?oc=5",
           "source": "Google News",
-          "published": "Mon, 06 Jul 2026 01:29:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "지도자",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "'야구 대부' 김성근 감독이 본 배재고 논란···\"잘못을 가르칠 지도자도 어른도 없었다\" - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lVW1oMVc2RldZbVRmUmNPRnM4V0UtQzh6RC1MSjBrVHlWSnhmZVJWMi1sWVFudS1xNG1hZ2NYSWlpVmxzTjlyTGFDTnczVlJ5U01qa0R0R3BmZw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 05 Jul 2026 21:00:00 GMT"
+          "published": "Mon, 06 Jul 2026 02:16:00 GMT"
         },
         {
-          "title": "이란서 하메네이 장례식 열려 … 모즈타바 현 최고 지도자는 불참 - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtcnBfQ3hHNnlGZVhhU3ZTVWJzZjhaQkZVbmhyZm1hRGlxbkdnU01DaWFTOHc1b2pGSllNZzZWcC1IbVZqemt6QkZvMHFIT1VQQ0ctTFBKdDF4ZE550gFiQVVfeXFMTWt5NEZCTF83Q3FyQ1hwdXhyYWN6SFkxWkRvdHhsRHk3NVVzeUduY2xGcTd1eDNvMWVPUzdXMFZnb0I2NU1lNXVVVTRjbGh5eml4alBpTElfWGhULUlpS295RFE?oc=5",
+          "title": "“한국에 지면 주가 급락?”…독일 TKMS, 캐나다 잠수함 발표 앞두고 초긴장 [밀리터리+] - 나우뉴스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DYTN6TWVWOVJDci11RGxWM1FNY0ltMDRRQ0dOU2wwV2o1eGdMOUpEWkVvSGliay1sUDV5WXpEU3NRV1JVdlFKdzNOVTBBSks4aEZzM0JRVTUteVdYcHk0ZnNwSjlHMnlXaUFsdnNFUGM?oc=5",
           "source": "Google News",
-          "published": "Mon, 06 Jul 2026 03:02:34 GMT"
+          "published": "Mon, 06 Jul 2026 02:22:00 GMT"
         }
       ]
     },
     {
-      "word": "최고",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이란서 하메네이 장례식 열려 … 모즈타바 현 최고 지도자는 불참 - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtcnBfQ3hHNnlGZVhhU3ZTVWJzZjhaQkZVbmhyZm1hRGlxbkdnU01DaWFTOHc1b2pGSllNZzZWcC1IbVZqemt6QkZvMHFIT1VQQ0ctTFBKdDF4ZE550gFiQVVfeXFMTWt5NEZCTF83Q3FyQ1hwdXhyYWN6SFkxWkRvdHhsRHk3NVVzeUduY2xGcTd1eDNvMWVPUzdXMFZnb0I2NU1lNXVVVTRjbGh5eml4alBpTElfWGhULUlpS295RFE?oc=5",
-          "source": "Google News",
-          "published": "Mon, 06 Jul 2026 03:02:34 GMT"
-        },
-        {
-          "title": "판타지오 \"드라마 '김부장' 시청률 21%…올해 드라마 최고 시청률\" - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3M0IyNk9SNGxsOXJtaHhzRi1ScHY3NVEwUWp5WEFUd1pCTHZDUmdmYXVTOXA5bWlsdi1EOEZSc3ZjWW9VSmEwckN2UVhpbHNUWHF1a3ZTaEx2dzFM?oc=5",
-          "source": "Google News",
-          "published": "Mon, 06 Jul 2026 02:03:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "드라마",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "판타지오 \"드라마 '김부장' 시청률 21%…올해 드라마 최고 시청률\" - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3M0IyNk9SNGxsOXJtaHhzRi1ScHY3NVEwUWp5WEFUd1pCTHZDUmdmYXVTOXA5bWlsdi1EOEZSc3ZjWW9VSmEwckN2UVhpbHNUWHF1a3ZTaEx2dzFM?oc=5",
-          "source": "Google News",
-          "published": "Mon, 06 Jul 2026 02:03:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "시청률",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "판타지오 \"드라마 '김부장' 시청률 21%…올해 드라마 최고 시청률\" - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3M0IyNk9SNGxsOXJtaHhzRi1ScHY3NVEwUWp5WEFUd1pCTHZDUmdmYXVTOXA5bWlsdi1EOEZSc3ZjWW9VSmEwckN2UVhpbHNUWHF1a3ZTaEx2dzFM?oc=5",
-          "source": "Google News",
-          "published": "Mon, 06 Jul 2026 02:03:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "드디어",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "크리스토퍼 놀런 감독 드디어 한국 온다... 영화 ‘오디세이’ 개봉 맞춰 첫 방한 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaEdOQXZQSHVKUnFxM0thb01lRHR5WkFxbzB3cFRwa2lGel9WeEhjTEtkZlA2MWw0OUZ3OFFHUDgzSUhobDNLRVY2ZGNiSlVLQ19sOWpWczRySlNtWjJYYUpUTG5ObDdPUlJBREhjOVlhb2owelNldXRJalU3a19lUDVWSWg4RndMb3VMWHFZdlR0TUp4?oc=5",
-          "source": "Google News",
-          "published": "Mon, 06 Jul 2026 01:29:00 GMT"
-        },
-        {
-          "title": "고우석 인간승리, 3년 허송세월 아니었다! 드디어 MLB 콜업 예정 → 박병호가 뛰었던 미네소타로 간다 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN1BTREEtOHVkb0FYejROVGVLZE8zMExBZHowQXZ0b21oM09hSGJ0VTZseUJBNHNSbUoyRWhaLXhvWkVsSjltOFU2NE45endZQld1WVNqWUdGeWNCRUVVcTNaVVpyd3haOGNqQV9iTi02b0taMF8zWmNSRDFwTWNadmtGbk1jSVpjZ2w0?oc=5",
-          "source": "Google News",
-          "published": "Sun, 05 Jul 2026 23:34:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "맞춰",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "크리스토퍼 놀런 감독 드디어 한국 온다... 영화 ‘오디세이’ 개봉 맞춰 첫 방한 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaEdOQXZQSHVKUnFxM0thb01lRHR5WkFxbzB3cFRwa2lGel9WeEhjTEtkZlA2MWw0OUZ3OFFHUDgzSUhobDNLRVY2ZGNiSlVLQ19sOWpWczRySlNtWjJYYUpUTG5ObDdPUlJBREhjOVlhb2owelNldXRJalU3a19lUDVWSWg4RndMb3VMWHFZdlR0TUp4?oc=5",
-          "source": "Google News",
-          "published": "Mon, 06 Jul 2026 01:29:00 GMT"
-        },
-        {
-          "title": "\"하지불안증후군 치료제 급여기준, 국제 진료지침에 맞춰 개선해야\" - 메디칼업저버",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NX04tZExUQUZZdWZNenQ2elVpWlRiQTNoTUxGSndCelFJYWZOa1RSY2NxSXRzUXBNMjV3b0luNnhQRGlYcTJXa2hCWXR6LXlINF9FbmN2OFYtWHFGQkROYkNCMGRJd09VTEpR?oc=5",
-          "source": "Google News",
-          "published": "Mon, 06 Jul 2026 01:26:27 GMT"
-        }
-      ]
-    },
-    {
-      "word": "방해",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 “메가프로젝트, 방해는 안 했으면…공인 맞냐” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94Ymw4OUd5d0o5SU9rSkNGZVFydmJQTFNUZVo3ZTNKalR4bXM3V1JFaER0QTVXSzdLZmc5NnI4NlMzWlBOcDRFUV9SSE9tZWtKVVJwNEpaRHJjRmRSbUtjX0hpMFRHcjh0MUdV?oc=5",
-          "source": "Google News",
-          "published": "Mon, 06 Jul 2026 02:59:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "했으면공인",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 “메가프로젝트, 방해는 안 했으면…공인 맞냐” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94Ymw4OUd5d0o5SU9rSkNGZVFydmJQTFNUZVo3ZTNKalR4bXM3V1JFaER0QTVXSzdLZmc5NnI4NlMzWlBOcDRFUV9SSE9tZWtKVVJwNEpaRHJjRmRSbUtjX0hpMFRHcjh0MUdV?oc=5",
-          "source": "Google News",
-          "published": "Mon, 06 Jul 2026 02:59:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "맞냐",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 “메가프로젝트, 방해는 안 했으면…공인 맞냐” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94Ymw4OUd5d0o5SU9rSkNGZVFydmJQTFNUZVo3ZTNKalR4bXM3V1JFaER0QTVXSzdLZmc5NnI4NlMzWlBOcDRFUV9SSE9tZWtKVVJwNEpaRHJjRmRSbUtjX0hpMFRHcjh0MUdV?oc=5",
-          "source": "Google News",
-          "published": "Mon, 06 Jul 2026 02:59:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "국수본부장",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "국수본부장, ‘광주 고교생 살인’ 수사팀 유착 정황에 “유구무언…의혹 없도록 수사” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE03Z2x4QV9fWkZLeWRIWmNTcm81Uk90Z2RTUjJicm9ER0lFVVFXNWZhbDJfZWNaRDUtNGpNWTVyemtVVGlQWjhsQ1Fpenlhd2Q1b3hDNTZsazlvT054MjJrODYtbjJBcVVnTlFWRmcyQnRadw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 06 Jul 2026 03:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "광주",
-      "count": 1,
+      "word": "한국",
+      "count": 3,
       "category": "LOCATION",
       "articles": [
         {
-          "title": "국수본부장, ‘광주 고교생 살인’ 수사팀 유착 정황에 “유구무언…의혹 없도록 수사” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE03Z2x4QV9fWkZLeWRIWmNTcm81Uk90Z2RTUjJicm9ER0lFVVFXNWZhbDJfZWNaRDUtNGpNWTVyemtVVGlQWjhsQ1Fpenlhd2Q1b3hDNTZsazlvT054MjJrODYtbjJBcVVnTlFWRmcyQnRadw?oc=5",
+          "title": "한국 잠수함 뒤통수 치더니…프랑스 ‘꿀꺽 삼킨’ 인도네시아, K방산 위협? [밀리터리+] - 나우뉴스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDOUZKWVZxRmlQclBaUzBQX0xpTlBodTNOY0lYXzZIX2EyUko0MkE5emh2X0pSdTl5OWE2Y2R5aWFvQi1vX1RFRHQyc25xTHpUa0s0bEhUMDc3dUJPUWNDUGlSWS1ZZHN5SVRVcGNLTkM?oc=5",
           "source": "Google News",
-          "published": "Mon, 06 Jul 2026 03:00:00 GMT"
+          "published": "Mon, 06 Jul 2026 06:30:00 GMT"
+        },
+        {
+          "title": "“한국에 지면 주가 급락?”…독일 TKMS, 캐나다 잠수함 발표 앞두고 초긴장 [밀리터리+] - 나우뉴스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DYTN6TWVWOVJDci11RGxWM1FNY0ltMDRRQ0dOU2wwV2o1eGdMOUpEWkVvSGliay1sUDV5WXpEU3NRV1JVdlFKdzNOVTBBSks4aEZzM0JRVTUteVdYcHk0ZnNwSjlHMnlXaUFsdnNFUGM?oc=5",
+          "source": "Google News",
+          "published": "Mon, 06 Jul 2026 02:22:00 GMT"
+        },
+        {
+          "title": "정몽규 축구협회장, 정식 사임 “한국 축구 발전만 보며 달렸지만 실망감 드려···모든 과오 제 책임” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxU0J5LUlETUxiQjBKS3hDaFVLMW9HYVpaNFhfSTl5TkFaVEZFQXdEVU9BXzBBdXViZTd2Snl5QmpudmtFTVJKaTlNYXFjX3VjREpDNC1KUUhvUdIBX0FVX3lxTE1nQk9WWC15ai1RVllRdnVYQ2lMZnNSb2lKUVZ0Z2Z3NXVucG5rWFNERGRqcmVkbU1RVE5SR1hicUNId0JJek5ibHNjc3N6akpDUU5nQThjZ1BHRXlpV2tj?oc=5",
+          "source": "Google News",
+          "published": "Mon, 06 Jul 2026 02:53:00 GMT"
         }
       ]
     },
     {
-      "word": "고교생",
-      "count": 1,
+      "word": "클러스터",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "국수본부장, ‘광주 고교생 살인’ 수사팀 유착 정황에 “유구무언…의혹 없도록 수사” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE03Z2x4QV9fWkZLeWRIWmNTcm81Uk90Z2RTUjJicm9ER0lFVVFXNWZhbDJfZWNaRDUtNGpNWTVyemtVVGlQWjhsQ1Fpenlhd2Q1b3hDNTZsazlvT054MjJrODYtbjJBcVVnTlFWRmcyQnRadw?oc=5",
+          "title": "[단독]강훈식 “추가세수, 반도체 클러스터 전력-용수에 써야” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYTDVaUWZFbzNjdkl2aXc3QzdOMW51ZXN6WFNtNnVsN3RKQnQyOXNwUUJFOThxV2RzU1BwNjlmZEtIZ0VXa0Q5RW1PU2J2NDR4alRxVjNRUFl1SlJPMDQ1dnVTaUZWZ0hSNHJjSFFEbnIyaVFkSE9F0gFmQVVfeXFMUGVUd2MzZU9CRTJzNUJQSHNKR1pqV1E1YUl0STA0M1pQVlhMdGZranBqMXRqRG1Wb1ZqcXRpc0NsMG5OUmIxS2FoTUtKZWg1b0ZsREc0UTRFZmZWYXlXaTZZR1RpLVd3?oc=5",
           "source": "Google News",
-          "published": "Mon, 06 Jul 2026 03:00:00 GMT"
+          "published": "Sun, 05 Jul 2026 19:30:00 GMT"
+        },
+        {
+          "title": "호남 반도체 클러스터, 광주 군 공항 부지에 조성키로 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkQW5HREdaS09MVDJMcmNaQ2E1Um5oOUJzSVVDTzRuWkZtTDYycEtreG1BRzBvUXVlYTVzeGVfVnc2cDltV1hyMFUxUmVYNl9YR0loMklFN2ZLX2NHSFhHdnBFM0JKRHM?oc=5",
+          "source": "Google News",
+          "published": "Mon, 06 Jul 2026 06:23:00 GMT"
         }
       ]
     },
     {
-      "word": "살인",
-      "count": 1,
+      "word": "잠수함",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "국수본부장, ‘광주 고교생 살인’ 수사팀 유착 정황에 “유구무언…의혹 없도록 수사” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE03Z2x4QV9fWkZLeWRIWmNTcm81Uk90Z2RTUjJicm9ER0lFVVFXNWZhbDJfZWNaRDUtNGpNWTVyemtVVGlQWjhsQ1Fpenlhd2Q1b3hDNTZsazlvT054MjJrODYtbjJBcVVnTlFWRmcyQnRadw?oc=5",
+          "title": "한국 잠수함 뒤통수 치더니…프랑스 ‘꿀꺽 삼킨’ 인도네시아, K방산 위협? [밀리터리+] - 나우뉴스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDOUZKWVZxRmlQclBaUzBQX0xpTlBodTNOY0lYXzZIX2EyUko0MkE5emh2X0pSdTl5OWE2Y2R5aWFvQi1vX1RFRHQyc25xTHpUa0s0bEhUMDc3dUJPUWNDUGlSWS1ZZHN5SVRVcGNLTkM?oc=5",
           "source": "Google News",
-          "published": "Mon, 06 Jul 2026 03:00:00 GMT"
+          "published": "Mon, 06 Jul 2026 06:30:00 GMT"
+        },
+        {
+          "title": "“한국에 지면 주가 급락?”…독일 TKMS, 캐나다 잠수함 발표 앞두고 초긴장 [밀리터리+] - 나우뉴스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DYTN6TWVWOVJDci11RGxWM1FNY0ltMDRRQ0dOU2wwV2o1eGdMOUpEWkVvSGliay1sUDV5WXpEU3NRV1JVdlFKdzNOVTBBSks4aEZzM0JRVTUteVdYcHk0ZnNwSjlHMnlXaUFsdnNFUGM?oc=5",
+          "source": "Google News",
+          "published": "Mon, 06 Jul 2026 02:22:00 GMT"
         }
       ]
     },
     {
-      "word": "수사팀",
-      "count": 1,
+      "word": "밀리터리",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "국수본부장, ‘광주 고교생 살인’ 수사팀 유착 정황에 “유구무언…의혹 없도록 수사” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE03Z2x4QV9fWkZLeWRIWmNTcm81Uk90Z2RTUjJicm9ER0lFVVFXNWZhbDJfZWNaRDUtNGpNWTVyemtVVGlQWjhsQ1Fpenlhd2Q1b3hDNTZsazlvT054MjJrODYtbjJBcVVnTlFWRmcyQnRadw?oc=5",
+          "title": "한국 잠수함 뒤통수 치더니…프랑스 ‘꿀꺽 삼킨’ 인도네시아, K방산 위협? [밀리터리+] - 나우뉴스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDOUZKWVZxRmlQclBaUzBQX0xpTlBodTNOY0lYXzZIX2EyUko0MkE5emh2X0pSdTl5OWE2Y2R5aWFvQi1vX1RFRHQyc25xTHpUa0s0bEhUMDc3dUJPUWNDUGlSWS1ZZHN5SVRVcGNLTkM?oc=5",
           "source": "Google News",
-          "published": "Mon, 06 Jul 2026 03:00:00 GMT"
+          "published": "Mon, 06 Jul 2026 06:30:00 GMT"
+        },
+        {
+          "title": "“한국에 지면 주가 급락?”…독일 TKMS, 캐나다 잠수함 발표 앞두고 초긴장 [밀리터리+] - 나우뉴스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DYTN6TWVWOVJDci11RGxWM1FNY0ltMDRRQ0dOU2wwV2o1eGdMOUpEWkVvSGliay1sUDV5WXpEU3NRV1JVdlFKdzNOVTBBSks4aEZzM0JRVTUteVdYcHk0ZnNwSjlHMnlXaUFsdnNFUGM?oc=5",
+          "source": "Google News",
+          "published": "Mon, 06 Jul 2026 02:22:00 GMT"
         }
       ]
     },
     {
-      "word": "유착",
-      "count": 1,
+      "word": "주가",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "국수본부장, ‘광주 고교생 살인’ 수사팀 유착 정황에 “유구무언…의혹 없도록 수사” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE03Z2x4QV9fWkZLeWRIWmNTcm81Uk90Z2RTUjJicm9ER0lFVVFXNWZhbDJfZWNaRDUtNGpNWTVyemtVVGlQWjhsQ1Fpenlhd2Q1b3hDNTZsazlvT054MjJrODYtbjJBcVVnTlFWRmcyQnRadw?oc=5",
+          "title": "삼전, 실적 발표 앞두고 주가 소폭 상승…코스피는 8000선 등락 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Felo5eE53X1FGalNMODlDUU5mSUZzai1ob3dXZzBrbThoZ093NzJ2QzluTTNLQURvTXFueTl5dmFoWTE4RktxMFJ6UUxMdjZGWGFBUWUySXBtYk1DbEhGLTQ3a3BPMDBPNXV2WkR3T1dxZTJMa3fSAWZBVV95cUxPOFZiX0oxUXE0RFd3WERUTVhOVE1yX2RBT2hkUEgzeklXSHBBX19TSUN4TjlzX0tHZ2E0SW5renJRb3dPVkkwWFM2YnNuSmhCSmtYVmZucHVSaDJXc1RVTTZtWjQyNnc?oc=5",
           "source": "Google News",
-          "published": "Mon, 06 Jul 2026 03:00:00 GMT"
+          "published": "Mon, 06 Jul 2026 02:16:00 GMT"
+        },
+        {
+          "title": "“한국에 지면 주가 급락?”…독일 TKMS, 캐나다 잠수함 발표 앞두고 초긴장 [밀리터리+] - 나우뉴스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DYTN6TWVWOVJDci11RGxWM1FNY0ltMDRRQ0dOU2wwV2o1eGdMOUpEWkVvSGliay1sUDV5WXpEU3NRV1JVdlFKdzNOVTBBSks4aEZzM0JRVTUteVdYcHk0ZnNwSjlHMnlXaUFsdnNFUGM?oc=5",
+          "source": "Google News",
+          "published": "Mon, 06 Jul 2026 02:22:00 GMT"
         }
       ]
     },
     {
-      "word": "정황",
-      "count": 1,
+      "word": "8000선",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "국수본부장, ‘광주 고교생 살인’ 수사팀 유착 정황에 “유구무언…의혹 없도록 수사” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE03Z2x4QV9fWkZLeWRIWmNTcm81Uk90Z2RTUjJicm9ER0lFVVFXNWZhbDJfZWNaRDUtNGpNWTVyemtVVGlQWjhsQ1Fpenlhd2Q1b3hDNTZsazlvT054MjJrODYtbjJBcVVnTlFWRmcyQnRadw?oc=5",
+          "title": "삼전, 실적 발표 앞두고 주가 소폭 상승…코스피는 8000선 등락 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Felo5eE53X1FGalNMODlDUU5mSUZzai1ob3dXZzBrbThoZ093NzJ2QzluTTNLQURvTXFueTl5dmFoWTE4RktxMFJ6UUxMdjZGWGFBUWUySXBtYk1DbEhGLTQ3a3BPMDBPNXV2WkR3T1dxZTJMa3fSAWZBVV95cUxPOFZiX0oxUXE0RFd3WERUTVhOVE1yX2RBT2hkUEgzeklXSHBBX19TSUN4TjlzX0tHZ2E0SW5renJRb3dPVkkwWFM2YnNuSmhCSmtYVmZucHVSaDJXc1RVTTZtWjQyNnc?oc=5",
           "source": "Google News",
-          "published": "Mon, 06 Jul 2026 03:00:00 GMT"
+          "published": "Mon, 06 Jul 2026 02:16:00 GMT"
+        },
+        {
+          "title": "코스피, 하락 전환해 장중 8000선 붕괴 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11SUIxMWoyM1JzbE94T3cyZGJIU2lLSWxVTjNrOWFJVmowcTZPbTc5YjhHVzJtTTlMQmxHYkNSX19pQ1p3dEdhcmstZWpCNGotRWt0aUhvRU5NZ9IBVEFVX3lxTFBzcHV4ei1PenNTSEF6Nll5WlZlaUIzUTBUcm1jeE9VZkprVDB0c196dFhOZDIxT0RvYm5XUkY4aUc0M2VtOE1laFBuNmJ5RGY3bmNicQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 06 Jul 2026 02:10:30 GMT"
         }
       ]
     },
     {
-      "word": "유구무언의혹",
-      "count": 1,
+      "word": "포켓몬",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "국수본부장, ‘광주 고교생 살인’ 수사팀 유착 정황에 “유구무언…의혹 없도록 수사” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE03Z2x4QV9fWkZLeWRIWmNTcm81Uk90Z2RTUjJicm9ER0lFVVFXNWZhbDJfZWNaRDUtNGpNWTVyemtVVGlQWjhsQ1Fpenlhd2Q1b3hDNTZsazlvT054MjJrODYtbjJBcVVnTlFWRmcyQnRadw?oc=5",
+          "title": "나이언틱 '포켓몬고' iOS 매출 6위... 최대 연례 행사 '포켓몬고 페스트 2026' 11일 개막 - 게임포커스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95Y2M1OXZhZDFLX3lCdFB3Y3RJUk44NUY0ZjBOQ19XQ1g4YzNZNUhzSl9xcXprWktuRmc4M3hTWFhwbkZXMFRhOU5FVVlGQ1FoUERpQ3h4WWxFRldHdHh3RA?oc=5",
           "source": "Google News",
-          "published": "Mon, 06 Jul 2026 03:00:00 GMT"
+          "published": "Mon, 06 Jul 2026 06:04:19 GMT"
         }
       ]
     },
     {
-      "word": "없도록",
+      "word": "518",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "국수본부장, ‘광주 고교생 살인’ 수사팀 유착 정황에 “유구무언…의혹 없도록 수사” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE03Z2x4QV9fWkZLeWRIWmNTcm81Uk90Z2RTUjJicm9ER0lFVVFXNWZhbDJfZWNaRDUtNGpNWTVyemtVVGlQWjhsQ1Fpenlhd2Q1b3hDNTZsazlvT054MjJrODYtbjJBcVVnTlFWRmcyQnRadw?oc=5",
+          "title": "5·18 조롱, “죄송합니다” 고개 숙인 배재고···‘고개 들라’ 손 내민 광주일고 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JbW5adjhUSVlxdnIwaTQyLWRXTzNXWldHenp3d2tLcnBTcDEtSUpYYmNpQ05xTGxnSm00d29hd3ZveXRmR2o3VzdxM1FpWC1qX0JiaGZlcjktQdIBX0FVX3lxTE5vSm5zcmVBRnlMcjlGaVRfWVV3VHhubHpFRWlERnVzOEZwbVZiUTF6dHBIaDNLbEl3MERHZnkwOVRWcjVJLXNBcWNjMU9IcWhIREtnbElkaHdPRFlHRU1v?oc=5",
           "source": "Google News",
-          "published": "Mon, 06 Jul 2026 03:00:00 GMT"
+          "published": "Mon, 06 Jul 2026 08:53:00 GMT"
         }
       ]
     },
     {
-      "word": "수사",
+      "word": "조롱",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "국수본부장, ‘광주 고교생 살인’ 수사팀 유착 정황에 “유구무언…의혹 없도록 수사” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE03Z2x4QV9fWkZLeWRIWmNTcm81Uk90Z2RTUjJicm9ER0lFVVFXNWZhbDJfZWNaRDUtNGpNWTVyemtVVGlQWjhsQ1Fpenlhd2Q1b3hDNTZsazlvT054MjJrODYtbjJBcVVnTlFWRmcyQnRadw?oc=5",
+          "title": "5·18 조롱, “죄송합니다” 고개 숙인 배재고···‘고개 들라’ 손 내민 광주일고 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JbW5adjhUSVlxdnIwaTQyLWRXTzNXWldHenp3d2tLcnBTcDEtSUpYYmNpQ05xTGxnSm00d29hd3ZveXRmR2o3VzdxM1FpWC1qX0JiaGZlcjktQdIBX0FVX3lxTE5vSm5zcmVBRnlMcjlGaVRfWVV3VHhubHpFRWlERnVzOEZwbVZiUTF6dHBIaDNLbEl3MERHZnkwOVRWcjVJLXNBcWNjMU9IcWhIREtnbElkaHdPRFlHRU1v?oc=5",
           "source": "Google News",
-          "published": "Mon, 06 Jul 2026 03:00:00 GMT"
+          "published": "Mon, 06 Jul 2026 08:53:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "죄송",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "5·18 조롱, “죄송합니다” 고개 숙인 배재고···‘고개 들라’ 손 내민 광주일고 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JbW5adjhUSVlxdnIwaTQyLWRXTzNXWldHenp3d2tLcnBTcDEtSUpYYmNpQ05xTGxnSm00d29hd3ZveXRmR2o3VzdxM1FpWC1qX0JiaGZlcjktQdIBX0FVX3lxTE5vSm5zcmVBRnlMcjlGaVRfWVV3VHhubHpFRWlERnVzOEZwbVZiUTF6dHBIaDNLbEl3MERHZnkwOVRWcjVJLXNBcWNjMU9IcWhIREtnbElkaHdPRFlHRU1v?oc=5",
+          "source": "Google News",
+          "published": "Mon, 06 Jul 2026 08:53:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "고개",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "5·18 조롱, “죄송합니다” 고개 숙인 배재고···‘고개 들라’ 손 내민 광주일고 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JbW5adjhUSVlxdnIwaTQyLWRXTzNXWldHenp3d2tLcnBTcDEtSUpYYmNpQ05xTGxnSm00d29hd3ZveXRmR2o3VzdxM1FpWC1qX0JiaGZlcjktQdIBX0FVX3lxTE5vSm5zcmVBRnlMcjlGaVRfWVV3VHhubHpFRWlERnVzOEZwbVZiUTF6dHBIaDNLbEl3MERHZnkwOVRWcjVJLXNBcWNjMU9IcWhIREtnbElkaHdPRFlHRU1v?oc=5",
+          "source": "Google News",
+          "published": "Mon, 06 Jul 2026 08:53:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "숙인",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "5·18 조롱, “죄송합니다” 고개 숙인 배재고···‘고개 들라’ 손 내민 광주일고 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JbW5adjhUSVlxdnIwaTQyLWRXTzNXWldHenp3d2tLcnBTcDEtSUpYYmNpQ05xTGxnSm00d29hd3ZveXRmR2o3VzdxM1FpWC1qX0JiaGZlcjktQdIBX0FVX3lxTE5vSm5zcmVBRnlMcjlGaVRfWVV3VHhubHpFRWlERnVzOEZwbVZiUTF6dHBIaDNLbEl3MERHZnkwOVRWcjVJLXNBcWNjMU9IcWhIREtnbElkaHdPRFlHRU1v?oc=5",
+          "source": "Google News",
+          "published": "Mon, 06 Jul 2026 08:53:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "배재고고개",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "5·18 조롱, “죄송합니다” 고개 숙인 배재고···‘고개 들라’ 손 내민 광주일고 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JbW5adjhUSVlxdnIwaTQyLWRXTzNXWldHenp3d2tLcnBTcDEtSUpYYmNpQ05xTGxnSm00d29hd3ZveXRmR2o3VzdxM1FpWC1qX0JiaGZlcjktQdIBX0FVX3lxTE5vSm5zcmVBRnlMcjlGaVRfWVV3VHhubHpFRWlERnVzOEZwbVZiUTF6dHBIaDNLbEl3MERHZnkwOVRWcjVJLXNBcWNjMU9IcWhIREtnbElkaHdPRFlHRU1v?oc=5",
+          "source": "Google News",
+          "published": "Mon, 06 Jul 2026 08:53:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "들라",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "5·18 조롱, “죄송합니다” 고개 숙인 배재고···‘고개 들라’ 손 내민 광주일고 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JbW5adjhUSVlxdnIwaTQyLWRXTzNXWldHenp3d2tLcnBTcDEtSUpYYmNpQ05xTGxnSm00d29hd3ZveXRmR2o3VzdxM1FpWC1qX0JiaGZlcjktQdIBX0FVX3lxTE5vSm5zcmVBRnlMcjlGaVRfWVV3VHhubHpFRWlERnVzOEZwbVZiUTF6dHBIaDNLbEl3MERHZnkwOVRWcjVJLXNBcWNjMU9IcWhIREtnbElkaHdPRFlHRU1v?oc=5",
+          "source": "Google News",
+          "published": "Mon, 06 Jul 2026 08:53:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "내민",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "5·18 조롱, “죄송합니다” 고개 숙인 배재고···‘고개 들라’ 손 내민 광주일고 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JbW5adjhUSVlxdnIwaTQyLWRXTzNXWldHenp3d2tLcnBTcDEtSUpYYmNpQ05xTGxnSm00d29hd3ZveXRmR2o3VzdxM1FpWC1qX0JiaGZlcjktQdIBX0FVX3lxTE5vSm5zcmVBRnlMcjlGaVRfWVV3VHhubHpFRWlERnVzOEZwbVZiUTF6dHBIaDNLbEl3MERHZnkwOVRWcjVJLXNBcWNjMU9IcWhIREtnbElkaHdPRFlHRU1v?oc=5",
+          "source": "Google News",
+          "published": "Mon, 06 Jul 2026 08:53:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "광주일",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "5·18 조롱, “죄송합니다” 고개 숙인 배재고···‘고개 들라’ 손 내민 광주일고 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JbW5adjhUSVlxdnIwaTQyLWRXTzNXWldHenp3d2tLcnBTcDEtSUpYYmNpQ05xTGxnSm00d29hd3ZveXRmR2o3VzdxM1FpWC1qX0JiaGZlcjktQdIBX0FVX3lxTE5vSm5zcmVBRnlMcjlGaVRfWVV3VHhubHpFRWlERnVzOEZwbVZiUTF6dHBIaDNLbEl3MERHZnkwOVRWcjVJLXNBcWNjMU9IcWhIREtnbElkaHdPRFlHRU1v?oc=5",
+          "source": "Google News",
+          "published": "Mon, 06 Jul 2026 08:53:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "이준구",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이준구 “대학교수까지 한 이병태, 자유와 방종 구별 못 해” 작심비판 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SOFZrRXRvNVphYW93NEdyUEMwcGQyOHFzRWpuWGR3aEZyTE5kb2VrWE9tb0VaYjZTZ0xnaldfUVlHNk1yQWhKcUNiMUNVTDl3YW13N05IY1NDVHpXMkEyMXFOaUphZHFWX3pCRS1RRmZYQQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 06 Jul 2026 07:25:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "대학교수",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이준구 “대학교수까지 한 이병태, 자유와 방종 구별 못 해” 작심비판 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SOFZrRXRvNVphYW93NEdyUEMwcGQyOHFzRWpuWGR3aEZyTE5kb2VrWE9tb0VaYjZTZ0xnaldfUVlHNk1yQWhKcUNiMUNVTDl3YW13N05IY1NDVHpXMkEyMXFOaUphZHFWX3pCRS1RRmZYQQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 06 Jul 2026 07:25:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "이병태",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이준구 “대학교수까지 한 이병태, 자유와 방종 구별 못 해” 작심비판 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SOFZrRXRvNVphYW93NEdyUEMwcGQyOHFzRWpuWGR3aEZyTE5kb2VrWE9tb0VaYjZTZ0xnaldfUVlHNk1yQWhKcUNiMUNVTDl3YW13N05IY1NDVHpXMkEyMXFOaUphZHFWX3pCRS1RRmZYQQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 06 Jul 2026 07:25:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "자유",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이준구 “대학교수까지 한 이병태, 자유와 방종 구별 못 해” 작심비판 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SOFZrRXRvNVphYW93NEdyUEMwcGQyOHFzRWpuWGR3aEZyTE5kb2VrWE9tb0VaYjZTZ0xnaldfUVlHNk1yQWhKcUNiMUNVTDl3YW13N05IY1NDVHpXMkEyMXFOaUphZHFWX3pCRS1RRmZYQQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 06 Jul 2026 07:25:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "방종",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이준구 “대학교수까지 한 이병태, 자유와 방종 구별 못 해” 작심비판 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SOFZrRXRvNVphYW93NEdyUEMwcGQyOHFzRWpuWGR3aEZyTE5kb2VrWE9tb0VaYjZTZ0xnaldfUVlHNk1yQWhKcUNiMUNVTDl3YW13N05IY1NDVHpXMkEyMXFOaUphZHFWX3pCRS1RRmZYQQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 06 Jul 2026 07:25:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "구별",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이준구 “대학교수까지 한 이병태, 자유와 방종 구별 못 해” 작심비판 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SOFZrRXRvNVphYW93NEdyUEMwcGQyOHFzRWpuWGR3aEZyTE5kb2VrWE9tb0VaYjZTZ0xnaldfUVlHNk1yQWhKcUNiMUNVTDl3YW13N05IY1NDVHpXMkEyMXFOaUphZHFWX3pCRS1RRmZYQQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 06 Jul 2026 07:25:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "작심비판",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이준구 “대학교수까지 한 이병태, 자유와 방종 구별 못 해” 작심비판 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SOFZrRXRvNVphYW93NEdyUEMwcGQyOHFzRWpuWGR3aEZyTE5kb2VrWE9tb0VaYjZTZ0xnaldfUVlHNk1yQWhKcUNiMUNVTDl3YW13N05IY1NDVHpXMkEyMXFOaUphZHFWX3pCRS1RRmZYQQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 06 Jul 2026 07:25:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "대통령",
+      "count": 1,
+      "category": "PERSON",
+      "articles": [
+        {
+          "title": "李 대통령 \"반도체 초과세수로 재정 포함 모든 지원\" - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fMU10OW9WYnZxNEVhNndtRkFxaUpEeFp0WTJnU1NyamNmbmJyZjJ3SHd3dEJOdVppQzNxSVFTRlVCZ201LWJ0eXE4UXEtemZ6cF96R25tNW4tQdIBVEFVX3lxTFBMTmlFNnpCdUV4WUlHRndoQmtLQ0FCa3JHMmI5NWhSeExQS1V3OXh1dFFpaElrXzZ4dzRoZHJTZUZWNXFBbXpDVFdIR3IwMURKdkU0cQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 06 Jul 2026 01:18:29 GMT"
+        }
+      ]
+    },
+    {
+      "word": "초과세수",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "李 대통령 \"반도체 초과세수로 재정 포함 모든 지원\" - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fMU10OW9WYnZxNEVhNndtRkFxaUpEeFp0WTJnU1NyamNmbmJyZjJ3SHd3dEJOdVppQzNxSVFTRlVCZ201LWJ0eXE4UXEtemZ6cF96R25tNW4tQdIBVEFVX3lxTFBMTmlFNnpCdUV4WUlHRndoQmtLQ0FCa3JHMmI5NWhSeExQS1V3OXh1dFFpaElrXzZ4dzRoZHJTZUZWNXFBbXpDVFdIR3IwMURKdkU0cQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 06 Jul 2026 01:18:29 GMT"
+        }
+      ]
+    },
+    {
+      "word": "재정",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "李 대통령 \"반도체 초과세수로 재정 포함 모든 지원\" - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fMU10OW9WYnZxNEVhNndtRkFxaUpEeFp0WTJnU1NyamNmbmJyZjJ3SHd3dEJOdVppQzNxSVFTRlVCZ201LWJ0eXE4UXEtemZ6cF96R25tNW4tQdIBVEFVX3lxTFBMTmlFNnpCdUV4WUlHRndoQmtLQ0FCa3JHMmI5NWhSeExQS1V3OXh1dFFpaElrXzZ4dzRoZHJTZUZWNXFBbXpDVFdIR3IwMURKdkU0cQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 06 Jul 2026 01:18:29 GMT"
+        }
+      ]
+    },
+    {
+      "word": "포함",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "李 대통령 \"반도체 초과세수로 재정 포함 모든 지원\" - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fMU10OW9WYnZxNEVhNndtRkFxaUpEeFp0WTJnU1NyamNmbmJyZjJ3SHd3dEJOdVppQzNxSVFTRlVCZ201LWJ0eXE4UXEtemZ6cF96R25tNW4tQdIBVEFVX3lxTFBMTmlFNnpCdUV4WUlHRndoQmtLQ0FCa3JHMmI5NWhSeExQS1V3OXh1dFFpaElrXzZ4dzRoZHJTZUZWNXFBbXpDVFdIR3IwMURKdkU0cQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 06 Jul 2026 01:18:29 GMT"
+        }
+      ]
+    },
+    {
+      "word": "모든",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "李 대통령 \"반도체 초과세수로 재정 포함 모든 지원\" - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fMU10OW9WYnZxNEVhNndtRkFxaUpEeFp0WTJnU1NyamNmbmJyZjJ3SHd3dEJOdVppQzNxSVFTRlVCZ201LWJ0eXE4UXEtemZ6cF96R25tNW4tQdIBVEFVX3lxTFBMTmlFNnpCdUV4WUlHRndoQmtLQ0FCa3JHMmI5NWhSeExQS1V3OXh1dFFpaElrXzZ4dzRoZHJTZUZWNXFBbXpDVFdIR3IwMURKdkU0cQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 06 Jul 2026 01:18:29 GMT"
+        }
+      ]
+    },
+    {
+      "word": "지원",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "李 대통령 \"반도체 초과세수로 재정 포함 모든 지원\" - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fMU10OW9WYnZxNEVhNndtRkFxaUpEeFp0WTJnU1NyamNmbmJyZjJ3SHd3dEJOdVppQzNxSVFTRlVCZ201LWJ0eXE4UXEtemZ6cF96R25tNW4tQdIBVEFVX3lxTFBMTmlFNnpCdUV4WUlHRndoQmtLQ0FCa3JHMmI5NWhSeExQS1V3OXh1dFFpaElrXzZ4dzRoZHJTZUZWNXFBbXpDVFdIR3IwMURKdkU0cQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 06 Jul 2026 01:18:29 GMT"
+        }
+      ]
+    },
+    {
+      "word": "친청계",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "與 친청계 이성윤 \"김민석, 계엄 해제 표결 왜 불참했나\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdmFHMHRveG1TaDlmWkJkQVhWb2Rkc2EwVEtmaDVSeHZ5WThQRExiX1ZkSGt2SjNGS2pPaWplZjF0bXZuTUNfTkQxWlV5SmRRcXVDLXJnNUZIVTl1clVJNVhmeWlZZks5NDlHSzZvSVhDcXF0YjV6c1JfVjVBS1oyUjBVM2hLQQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 06 Jul 2026 06:32:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "이성윤",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "與 친청계 이성윤 \"김민석, 계엄 해제 표결 왜 불참했나\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdmFHMHRveG1TaDlmWkJkQVhWb2Rkc2EwVEtmaDVSeHZ5WThQRExiX1ZkSGt2SjNGS2pPaWplZjF0bXZuTUNfTkQxWlV5SmRRcXVDLXJnNUZIVTl1clVJNVhmeWlZZks5NDlHSzZvSVhDcXF0YjV6c1JfVjVBS1oyUjBVM2hLQQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 06 Jul 2026 06:32:00 GMT"
         }
       ]
     },
@@ -337,231 +504,88 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "김민석, 與 대표 출마 선언 \"절박하지 않으면 총선 패배…당 리더십 교체해달라\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbXVCZk1nTFpuOUYzTnBwaTZiRVRPem5weF9YeUJSekhPS1FhakVwbjJiQlliNjF4bWxlbTNhYUl2aGFieFdJTjlsN0JLcFZXWjBpVHh4RmNrNGotQ054MkYwMHpUSnpxNlgzUnItVHN4NlNmbjJ0V0t6cHVpVlVkTUs1aDloQQ?oc=5",
+          "title": "與 친청계 이성윤 \"김민석, 계엄 해제 표결 왜 불참했나\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdmFHMHRveG1TaDlmWkJkQVhWb2Rkc2EwVEtmaDVSeHZ5WThQRExiX1ZkSGt2SjNGS2pPaWplZjF0bXZuTUNfTkQxWlV5SmRRcXVDLXJnNUZIVTl1clVJNVhmeWlZZks5NDlHSzZvSVhDcXF0YjV6c1JfVjVBS1oyUjBVM2hLQQ?oc=5",
           "source": "Google News",
-          "published": "Mon, 06 Jul 2026 02:17:00 GMT"
+          "published": "Mon, 06 Jul 2026 06:32:00 GMT"
         }
       ]
     },
     {
-      "word": "대표",
+      "word": "계엄",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김민석, 與 대표 출마 선언 \"절박하지 않으면 총선 패배…당 리더십 교체해달라\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbXVCZk1nTFpuOUYzTnBwaTZiRVRPem5weF9YeUJSekhPS1FhakVwbjJiQlliNjF4bWxlbTNhYUl2aGFieFdJTjlsN0JLcFZXWjBpVHh4RmNrNGotQ054MkYwMHpUSnpxNlgzUnItVHN4NlNmbjJ0V0t6cHVpVlVkTUs1aDloQQ?oc=5",
+          "title": "與 친청계 이성윤 \"김민석, 계엄 해제 표결 왜 불참했나\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdmFHMHRveG1TaDlmWkJkQVhWb2Rkc2EwVEtmaDVSeHZ5WThQRExiX1ZkSGt2SjNGS2pPaWplZjF0bXZuTUNfTkQxWlV5SmRRcXVDLXJnNUZIVTl1clVJNVhmeWlZZks5NDlHSzZvSVhDcXF0YjV6c1JfVjVBS1oyUjBVM2hLQQ?oc=5",
           "source": "Google News",
-          "published": "Mon, 06 Jul 2026 02:17:00 GMT"
+          "published": "Mon, 06 Jul 2026 06:32:00 GMT"
         }
       ]
     },
     {
-      "word": "출마",
+      "word": "해제",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김민석, 與 대표 출마 선언 \"절박하지 않으면 총선 패배…당 리더십 교체해달라\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbXVCZk1nTFpuOUYzTnBwaTZiRVRPem5weF9YeUJSekhPS1FhakVwbjJiQlliNjF4bWxlbTNhYUl2aGFieFdJTjlsN0JLcFZXWjBpVHh4RmNrNGotQ054MkYwMHpUSnpxNlgzUnItVHN4NlNmbjJ0V0t6cHVpVlVkTUs1aDloQQ?oc=5",
+          "title": "與 친청계 이성윤 \"김민석, 계엄 해제 표결 왜 불참했나\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdmFHMHRveG1TaDlmWkJkQVhWb2Rkc2EwVEtmaDVSeHZ5WThQRExiX1ZkSGt2SjNGS2pPaWplZjF0bXZuTUNfTkQxWlV5SmRRcXVDLXJnNUZIVTl1clVJNVhmeWlZZks5NDlHSzZvSVhDcXF0YjV6c1JfVjVBS1oyUjBVM2hLQQ?oc=5",
           "source": "Google News",
-          "published": "Mon, 06 Jul 2026 02:17:00 GMT"
+          "published": "Mon, 06 Jul 2026 06:32:00 GMT"
         }
       ]
     },
     {
-      "word": "선언",
+      "word": "표결",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김민석, 與 대표 출마 선언 \"절박하지 않으면 총선 패배…당 리더십 교체해달라\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbXVCZk1nTFpuOUYzTnBwaTZiRVRPem5weF9YeUJSekhPS1FhakVwbjJiQlliNjF4bWxlbTNhYUl2aGFieFdJTjlsN0JLcFZXWjBpVHh4RmNrNGotQ054MkYwMHpUSnpxNlgzUnItVHN4NlNmbjJ0V0t6cHVpVlVkTUs1aDloQQ?oc=5",
+          "title": "與 친청계 이성윤 \"김민석, 계엄 해제 표결 왜 불참했나\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdmFHMHRveG1TaDlmWkJkQVhWb2Rkc2EwVEtmaDVSeHZ5WThQRExiX1ZkSGt2SjNGS2pPaWplZjF0bXZuTUNfTkQxWlV5SmRRcXVDLXJnNUZIVTl1clVJNVhmeWlZZks5NDlHSzZvSVhDcXF0YjV6c1JfVjVBS1oyUjBVM2hLQQ?oc=5",
           "source": "Google News",
-          "published": "Mon, 06 Jul 2026 02:17:00 GMT"
+          "published": "Mon, 06 Jul 2026 06:32:00 GMT"
         }
       ]
     },
     {
-      "word": "절박하지",
+      "word": "불참했",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김민석, 與 대표 출마 선언 \"절박하지 않으면 총선 패배…당 리더십 교체해달라\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbXVCZk1nTFpuOUYzTnBwaTZiRVRPem5weF9YeUJSekhPS1FhakVwbjJiQlliNjF4bWxlbTNhYUl2aGFieFdJTjlsN0JLcFZXWjBpVHh4RmNrNGotQ054MkYwMHpUSnpxNlgzUnItVHN4NlNmbjJ0V0t6cHVpVlVkTUs1aDloQQ?oc=5",
+          "title": "與 친청계 이성윤 \"김민석, 계엄 해제 표결 왜 불참했나\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdmFHMHRveG1TaDlmWkJkQVhWb2Rkc2EwVEtmaDVSeHZ5WThQRExiX1ZkSGt2SjNGS2pPaWplZjF0bXZuTUNfTkQxWlV5SmRRcXVDLXJnNUZIVTl1clVJNVhmeWlZZks5NDlHSzZvSVhDcXF0YjV6c1JfVjVBS1oyUjBVM2hLQQ?oc=5",
           "source": "Google News",
-          "published": "Mon, 06 Jul 2026 02:17:00 GMT"
+          "published": "Mon, 06 Jul 2026 06:32:00 GMT"
         }
       ]
     },
     {
-      "word": "않으면",
+      "word": "단독강훈식",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김민석, 與 대표 출마 선언 \"절박하지 않으면 총선 패배…당 리더십 교체해달라\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbXVCZk1nTFpuOUYzTnBwaTZiRVRPem5weF9YeUJSekhPS1FhakVwbjJiQlliNjF4bWxlbTNhYUl2aGFieFdJTjlsN0JLcFZXWjBpVHh4RmNrNGotQ054MkYwMHpUSnpxNlgzUnItVHN4NlNmbjJ0V0t6cHVpVlVkTUs1aDloQQ?oc=5",
+          "title": "[단독]강훈식 “추가세수, 반도체 클러스터 전력-용수에 써야” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYTDVaUWZFbzNjdkl2aXc3QzdOMW51ZXN6WFNtNnVsN3RKQnQyOXNwUUJFOThxV2RzU1BwNjlmZEtIZ0VXa0Q5RW1PU2J2NDR4alRxVjNRUFl1SlJPMDQ1dnVTaUZWZ0hSNHJjSFFEbnIyaVFkSE9F0gFmQVVfeXFMUGVUd2MzZU9CRTJzNUJQSHNKR1pqV1E1YUl0STA0M1pQVlhMdGZranBqMXRqRG1Wb1ZqcXRpc0NsMG5OUmIxS2FoTUtKZWg1b0ZsREc0UTRFZmZWYXlXaTZZR1RpLVd3?oc=5",
           "source": "Google News",
-          "published": "Mon, 06 Jul 2026 02:17:00 GMT"
+          "published": "Sun, 05 Jul 2026 19:30:00 GMT"
         }
       ]
     },
     {
-      "word": "총선",
+      "word": "추가세수",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김민석, 與 대표 출마 선언 \"절박하지 않으면 총선 패배…당 리더십 교체해달라\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbXVCZk1nTFpuOUYzTnBwaTZiRVRPem5weF9YeUJSekhPS1FhakVwbjJiQlliNjF4bWxlbTNhYUl2aGFieFdJTjlsN0JLcFZXWjBpVHh4RmNrNGotQ054MkYwMHpUSnpxNlgzUnItVHN4NlNmbjJ0V0t6cHVpVlVkTUs1aDloQQ?oc=5",
+          "title": "[단독]강훈식 “추가세수, 반도체 클러스터 전력-용수에 써야” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYTDVaUWZFbzNjdkl2aXc3QzdOMW51ZXN6WFNtNnVsN3RKQnQyOXNwUUJFOThxV2RzU1BwNjlmZEtIZ0VXa0Q5RW1PU2J2NDR4alRxVjNRUFl1SlJPMDQ1dnVTaUZWZ0hSNHJjSFFEbnIyaVFkSE9F0gFmQVVfeXFMUGVUd2MzZU9CRTJzNUJQSHNKR1pqV1E1YUl0STA0M1pQVlhMdGZranBqMXRqRG1Wb1ZqcXRpc0NsMG5OUmIxS2FoTUtKZWg1b0ZsREc0UTRFZmZWYXlXaTZZR1RpLVd3?oc=5",
           "source": "Google News",
-          "published": "Mon, 06 Jul 2026 02:17:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "패배당",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "김민석, 與 대표 출마 선언 \"절박하지 않으면 총선 패배…당 리더십 교체해달라\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbXVCZk1nTFpuOUYzTnBwaTZiRVRPem5weF9YeUJSekhPS1FhakVwbjJiQlliNjF4bWxlbTNhYUl2aGFieFdJTjlsN0JLcFZXWjBpVHh4RmNrNGotQ054MkYwMHpUSnpxNlgzUnItVHN4NlNmbjJ0V0t6cHVpVlVkTUs1aDloQQ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 06 Jul 2026 02:17:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "리더십",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김민석, 與 대표 출마 선언 \"절박하지 않으면 총선 패배…당 리더십 교체해달라\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbXVCZk1nTFpuOUYzTnBwaTZiRVRPem5weF9YeUJSekhPS1FhakVwbjJiQlliNjF4bWxlbTNhYUl2aGFieFdJTjlsN0JLcFZXWjBpVHh4RmNrNGotQ054MkYwMHpUSnpxNlgzUnItVHN4NlNmbjJ0V0t6cHVpVlVkTUs1aDloQQ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 06 Jul 2026 02:17:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "교체해달",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김민석, 與 대표 출마 선언 \"절박하지 않으면 총선 패배…당 리더십 교체해달라\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbXVCZk1nTFpuOUYzTnBwaTZiRVRPem5weF9YeUJSekhPS1FhakVwbjJiQlliNjF4bWxlbTNhYUl2aGFieFdJTjlsN0JLcFZXWjBpVHh4RmNrNGotQ054MkYwMHpUSnpxNlgzUnItVHN4NlNmbjJ0V0t6cHVpVlVkTUs1aDloQQ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 06 Jul 2026 02:17:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "야구",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "'야구 대부' 김성근 감독이 본 배재고 논란···\"잘못을 가르칠 지도자도 어른도 없었다\" - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lVW1oMVc2RldZbVRmUmNPRnM4V0UtQzh6RC1MSjBrVHlWSnhmZVJWMi1sWVFudS1xNG1hZ2NYSWlpVmxzTjlyTGFDTnczVlJ5U01qa0R0R3BmZw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 05 Jul 2026 21:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "대부",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "'야구 대부' 김성근 감독이 본 배재고 논란···\"잘못을 가르칠 지도자도 어른도 없었다\" - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lVW1oMVc2RldZbVRmUmNPRnM4V0UtQzh6RC1MSjBrVHlWSnhmZVJWMi1sWVFudS1xNG1hZ2NYSWlpVmxzTjlyTGFDTnczVlJ5U01qa0R0R3BmZw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 05 Jul 2026 21:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "김성근",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "'야구 대부' 김성근 감독이 본 배재고 논란···\"잘못을 가르칠 지도자도 어른도 없었다\" - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lVW1oMVc2RldZbVRmUmNPRnM4V0UtQzh6RC1MSjBrVHlWSnhmZVJWMi1sWVFudS1xNG1hZ2NYSWlpVmxzTjlyTGFDTnczVlJ5U01qa0R0R3BmZw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 05 Jul 2026 21:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "배재",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "'야구 대부' 김성근 감독이 본 배재고 논란···\"잘못을 가르칠 지도자도 어른도 없었다\" - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lVW1oMVc2RldZbVRmUmNPRnM4V0UtQzh6RC1MSjBrVHlWSnhmZVJWMi1sWVFudS1xNG1hZ2NYSWlpVmxzTjlyTGFDTnczVlJ5U01qa0R0R3BmZw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 05 Jul 2026 21:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "논란잘못",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "'야구 대부' 김성근 감독이 본 배재고 논란···\"잘못을 가르칠 지도자도 어른도 없었다\" - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lVW1oMVc2RldZbVRmUmNPRnM4V0UtQzh6RC1MSjBrVHlWSnhmZVJWMi1sWVFudS1xNG1hZ2NYSWlpVmxzTjlyTGFDTnczVlJ5U01qa0R0R3BmZw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 05 Jul 2026 21:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "가르칠",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "'야구 대부' 김성근 감독이 본 배재고 논란···\"잘못을 가르칠 지도자도 어른도 없었다\" - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lVW1oMVc2RldZbVRmUmNPRnM4V0UtQzh6RC1MSjBrVHlWSnhmZVJWMi1sWVFudS1xNG1hZ2NYSWlpVmxzTjlyTGFDTnczVlJ5U01qa0R0R3BmZw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 05 Jul 2026 21:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "어른",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "'야구 대부' 김성근 감독이 본 배재고 논란···\"잘못을 가르칠 지도자도 어른도 없었다\" - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lVW1oMVc2RldZbVRmUmNPRnM4V0UtQzh6RC1MSjBrVHlWSnhmZVJWMi1sWVFudS1xNG1hZ2NYSWlpVmxzTjlyTGFDTnczVlJ5U01qa0R0R3BmZw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 05 Jul 2026 21:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "없었다",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "'야구 대부' 김성근 감독이 본 배재고 논란···\"잘못을 가르칠 지도자도 어른도 없었다\" - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lVW1oMVc2RldZbVRmUmNPRnM4V0UtQzh6RC1MSjBrVHlWSnhmZVJWMi1sWVFudS1xNG1hZ2NYSWlpVmxzTjlyTGFDTnczVlJ5U01qa0R0R3BmZw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 05 Jul 2026 21:00:00 GMT"
+          "published": "Sun, 05 Jul 2026 19:30:00 GMT"
         }
       ]
     }
