@@ -1,24 +1,144 @@
 {
   "language": "ko",
-  "last_updated": 1783630344.4849026,
+  "last_updated": 1783636635.9855442,
   "count": 40,
   "trends": [
     {
-      "word": "서울",
+      "word": "트럼프",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "靑 “트럼프, 군함 ‘韓서 건조’도 배제하지 않는 듯” - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdGtXcUJuS0tFUVNRWTQ3WkhvRFYtbTYxZHZ4azdnbnl5VS15SzBkUmhkU0JlWlFHVGRDZGQwSXhCMTF4LXhUVHdhUDJQYWFMMmdLczR5Rld1TXFMZDZ6Y1JzTko4NERDWVEzcThxWWVzRnVRekgyMkRlWGxxVXRqV1dkVFpySnFLbVNfOUowWnA?oc=5",
+          "source": "Google News",
+          "published": "Thu, 09 Jul 2026 14:16:00 GMT"
+        },
+        {
+          "title": "트럼프, 군함 한국서 건조 요청? 청와대 “배제하지 않는 인상 받아” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81aHBxVUlhX2FzbDd1eVBiQy1EdTEwOWMyN29RS1hPbjZkS0dXMU9fa29ERWgxaGNzdG5SRGlaSFQ0T2l5VVQwUEF3NVZSdDVseUxIT2tJaFo5MmtRSzJEcUFQTnFCUXZwb1Nv?oc=5",
+          "source": "Google News",
+          "published": "Thu, 09 Jul 2026 13:53:00 GMT"
+        },
+        {
+          "title": "\"무역 끊겠다\" 트럼프 엄포에도…눈 하나 깜짝 안 하는 스페인 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOEdzbndsNzkzN0Z0Q0R1N2lkeTJrdjh2MUNJVEVWdS1WR1ZRVS1ZTDZiX2FNZGMwcTNVQTR2RHZzSGlScGdaQVB0SFBITFRmQXVLeGZ1V2VWb18xYVRHNFlUWVN2NzBja3l5N0tmQkpMakJpT2lfazZ0QkllSVFyVEtFRWdPUVA4M0M2dExfeUlZOXBWc3kzZ2R6ZWQ1QQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 09 Jul 2026 21:24:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "경찰",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령 부부, 몽골 ‘서울의 거리' 깜짝 방문…노점서 김밥·떡볶이 맛봐 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16OGZPQXBrZW41QmxRa2NJOVlxdU1QY21FYWRNVmRRcGxiNjhXMUxvYjdHbUNfY01QR0tRZUxaR3ZkeHFtQmVOVmVBdm5saDR1SEZSOUhOLTNadXk1QXFSR01QbVBiaFJJMWtB?oc=5",
+          "title": "경찰, 보완수사 거부 불가·기간 최대 2개월…여당 발의 형소법 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00ODBEQXlKWVdkUG1XZlRKSXc3N00wRVN0a25OMWVFYjAyWFlHaktIZHkxbDd0Zmdhc0hyTzZvVnZWaFB3cy1WVlMxV0VuYWRaUFdlMXRoX3ZoQlZCTG9QeHlMV3lTNUV0YTRiVWFKaDFLcDlG?oc=5",
           "source": "Google News",
-          "published": "Thu, 09 Jul 2026 15:38:00 GMT"
+          "published": "Thu, 09 Jul 2026 18:10:00 GMT"
         },
         {
-          "title": "6월 서울 집 살 때 대출 활용 '올해 최고'…은행권 주담대 더 죈다 - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kQm9rMWNoc2xhRGRNQURURU5SalFzZy1iUUdKdXhMQTRsSmQtR29PWV9TdEN4cVRrQng4VURlVkJ0RlRYS3RySlhmUHJGRU1CT08wdmhlaElja0U?oc=5",
+          "title": "장윤기 큰아버지도 경찰 간부…경찰 “내부비리수사대 신설” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEWWxXRUxlLXItejVxbmxMS2J2UnE4WWZrdTNJMHFNUk9YMmc2M21MSEU4b2RUNEVDX2N4YzZhMlBXY2M3SjZ1U2VMOUVpX2VSb1FKVkQtSG1vRUk4Q05NMHRtMlpsSEtlR3VMb04yTDJPUE5EeXfSAWZBVV95cUxPT1VHYzFGZ3pkdklXa2UzZ1h3bzJ4eWNheEUyazJEZ3BvQTJXWF9xN2k0MjNYRHlmVnRFaHFDSWdUZlRlNnF2TDNiQnlpN3I0c1ltZldoeUJXb2RNTUhIUmdvYzVRTVE?oc=5",
           "source": "Google News",
-          "published": "Thu, 09 Jul 2026 20:20:00 GMT"
+          "published": "Thu, 09 Jul 2026 11:15:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "수도권강원",
+      "count": 2,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "수도권·강원 물폭탄…비 그치면 ‘36도’ 극한 폭염 온다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Xdk5pYU1hVjhuczBmSXZULUxXNUNjemtoaC1aTXFpV1JJSUN3Ml8wM1poUjg4LVlpSHVzNFhrZ21pRXN4cDkwaEJNYl9XUmNZRExBeEVDaU1UUdIBX0FVX3lxTE5acWNfZ1M0cEpVTE1UbVR2OTgwRGloSjJRem1LRW9KQ25KYW92SzNUUERlMHRzMDZ3VWVjN0c5S2JhM3pFeWZTbFFNOWctQ1ZGcVNHdGNmWUdCNF81UnFN?oc=5",
+          "source": "Google News",
+          "published": "Thu, 09 Jul 2026 21:00:00 GMT"
+        },
+        {
+          "title": "내일까지 ‘시간당 50㎜’ 수도권·강원 집중호우…곧이어 ‘불볕 더위’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VTU52a3RBWnpkYmhzcnd0NGg1bXZzY01PLUdzXzdPZ05tWVVaUTBHR29TNzA3UlpvQlNFRjl3dnFIei0yejczZFhrQkc0bmVNT2JyZXlnNDZ3a3RMNG9kbG9GcElJd0lvQjEzXw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 09 Jul 2026 10:40:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "군함",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "靑 “트럼프, 군함 ‘韓서 건조’도 배제하지 않는 듯” - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdGtXcUJuS0tFUVNRWTQ3WkhvRFYtbTYxZHZ4azdnbnl5VS15SzBkUmhkU0JlWlFHVGRDZGQwSXhCMTF4LXhUVHdhUDJQYWFMMmdLczR5Rld1TXFMZDZ6Y1JzTko4NERDWVEzcThxWWVzRnVRekgyMkRlWGxxVXRqV1dkVFpySnFLbVNfOUowWnA?oc=5",
+          "source": "Google News",
+          "published": "Thu, 09 Jul 2026 14:16:00 GMT"
+        },
+        {
+          "title": "트럼프, 군함 한국서 건조 요청? 청와대 “배제하지 않는 인상 받아” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81aHBxVUlhX2FzbDd1eVBiQy1EdTEwOWMyN29RS1hPbjZkS0dXMU9fa29ERWgxaGNzdG5SRGlaSFQ0T2l5VVQwUEF3NVZSdDVseUxIT2tJaFo5MmtRSzJEcUFQTnFCUXZwb1Nv?oc=5",
+          "source": "Google News",
+          "published": "Thu, 09 Jul 2026 13:53:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "건조",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "靑 “트럼프, 군함 ‘韓서 건조’도 배제하지 않는 듯” - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdGtXcUJuS0tFUVNRWTQ3WkhvRFYtbTYxZHZ4azdnbnl5VS15SzBkUmhkU0JlWlFHVGRDZGQwSXhCMTF4LXhUVHdhUDJQYWFMMmdLczR5Rld1TXFMZDZ6Y1JzTko4NERDWVEzcThxWWVzRnVRekgyMkRlWGxxVXRqV1dkVFpySnFLbVNfOUowWnA?oc=5",
+          "source": "Google News",
+          "published": "Thu, 09 Jul 2026 14:16:00 GMT"
+        },
+        {
+          "title": "트럼프, 군함 한국서 건조 요청? 청와대 “배제하지 않는 인상 받아” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81aHBxVUlhX2FzbDd1eVBiQy1EdTEwOWMyN29RS1hPbjZkS0dXMU9fa29ERWgxaGNzdG5SRGlaSFQ0T2l5VVQwUEF3NVZSdDVseUxIT2tJaFo5MmtRSzJEcUFQTnFCUXZwb1Nv?oc=5",
+          "source": "Google News",
+          "published": "Thu, 09 Jul 2026 13:53:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "배제하지",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "靑 “트럼프, 군함 ‘韓서 건조’도 배제하지 않는 듯” - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdGtXcUJuS0tFUVNRWTQ3WkhvRFYtbTYxZHZ4azdnbnl5VS15SzBkUmhkU0JlWlFHVGRDZGQwSXhCMTF4LXhUVHdhUDJQYWFMMmdLczR5Rld1TXFMZDZ6Y1JzTko4NERDWVEzcThxWWVzRnVRekgyMkRlWGxxVXRqV1dkVFpySnFLbVNfOUowWnA?oc=5",
+          "source": "Google News",
+          "published": "Thu, 09 Jul 2026 14:16:00 GMT"
+        },
+        {
+          "title": "트럼프, 군함 한국서 건조 요청? 청와대 “배제하지 않는 인상 받아” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81aHBxVUlhX2FzbDd1eVBiQy1EdTEwOWMyN29RS1hPbjZkS0dXMU9fa29ERWgxaGNzdG5SRGlaSFQ0T2l5VVQwUEF3NVZSdDVseUxIT2tJaFo5MmtRSzJEcUFQTnFCUXZwb1Nv?oc=5",
+          "source": "Google News",
+          "published": "Thu, 09 Jul 2026 13:53:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "않는",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "靑 “트럼프, 군함 ‘韓서 건조’도 배제하지 않는 듯” - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdGtXcUJuS0tFUVNRWTQ3WkhvRFYtbTYxZHZ4azdnbnl5VS15SzBkUmhkU0JlWlFHVGRDZGQwSXhCMTF4LXhUVHdhUDJQYWFMMmdLczR5Rld1TXFMZDZ6Y1JzTko4NERDWVEzcThxWWVzRnVRekgyMkRlWGxxVXRqV1dkVFpySnFLbVNfOUowWnA?oc=5",
+          "source": "Google News",
+          "published": "Thu, 09 Jul 2026 14:16:00 GMT"
+        },
+        {
+          "title": "트럼프, 군함 한국서 건조 요청? 청와대 “배제하지 않는 인상 받아” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81aHBxVUlhX2FzbDd1eVBiQy1EdTEwOWMyN29RS1hPbjZkS0dXMU9fa29ERWgxaGNzdG5SRGlaSFQ0T2l5VVQwUEF3NVZSdDVseUxIT2tJaFo5MmtRSzJEcUFQTnFCUXZwb1Nv?oc=5",
+          "source": "Google News",
+          "published": "Thu, 09 Jul 2026 13:53:00 GMT"
         }
       ]
     },
@@ -36,59 +156,40 @@
       ]
     },
     {
-      "word": "화재",
+      "word": "구글",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“아기 던져요”…긴박한 화재 현장서 ‘모포’로 아기 구조 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsbEszb1NsVDJrT09NbW5KQUJCakhHVFhIaVBYSkdWUy1DYlNqd19vdGJQWWRaX3ZHZzRYTE9pOEpGSTYzdXplZzJoejNpY0hXUzBILU5YS05UTXc?oc=5",
+          "title": "갤럭시워치8, 구글 스토어보다 삼성몰이 60달러 싸다 - 위키트리",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MUVBjNE0tQVJJSnBlVndKVkVYaXR3SmhtcGYwOVVEVTl6UXNtTzI0ODVFT25EZlc5ZGZ3SjZoa3U0dXpEWndjSTdwX1ZtblEtNWZEUTN3?oc=5",
           "source": "Google News",
-          "published": "Thu, 09 Jul 2026 12:23:00 GMT"
+          "published": "Thu, 09 Jul 2026 20:50:00 GMT"
         },
         {
-          "title": "\"아이들 자는 거 보고 나왔는데\" 눈물만…은평 빌라 화재에 초등생 남매 참변 - 한국일보",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JRTBGektzbUNOQUpQeGRUeDdYWFZnWm1yLUJrZ2gxSU5feXI2UERZbVBQbkh3NGI5aW14NWk5TDdOSno1alh5S1JLOS04cTgxb1d4aHp6d1BIRDlWaVo1QU5Cem5oMTRzcUhVWURR0gFzQVVfeXFMTzdkWng4VS0wX2Y3eWpXWXNNdjczX19FY2h4U0JMWmh0cHpBeFUxa3BpRG55Q1BjaTQ4bmhvVVVHbnpDSDVEUHliY1lacEFpLTZ3aVcxT3hqRVFxNjlyN2Y3S0pvUkxxX2I2Z1M4UzNXT2lLbw?oc=5",
+          "title": "전문가 수준의 영상 편집을 단 몇 초 만에… 구글 포토에 '비디오 리믹스' 기능 전격 도입 - 인공지능신문",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjREpPaWw0VWU4cllSM2RKbW5XVUtrMnRnaEZxcUVScFdEYTBTY19lcTVpU0FYSFEtazBZQVQ5VTdNQUpvT1dDVGtGRmpQcFJtZEVLQTZPMFRZQmVodVhIMFZ0S0tOWEk?oc=5",
           "source": "Google News",
-          "published": "Thu, 09 Jul 2026 09:00:00 GMT"
+          "published": "Thu, 09 Jul 2026 13:28:43 GMT"
         }
       ]
     },
     {
-      "word": "트럼프",
+      "word": "월드컵",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 “스페인, 돈도 안 내…모든 무역관계 중단” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBuSmVqc2tMTGtHamlQREF3alFpTXhSMVA2S0NvNEswYk0xRVNtc3lpdlUtNVFmQ1drbFZ3M3ZVNjQ3Ti1iU1dMWGo3NlJWRk9aTEgwNEM0WWY4eXhMRGtEeUVqVjVDaURtNGdSWnBvQlVabUHSAWZBVV95cUxOMmhsOWtHVG9PWExzcWhBRDU2V0NWcFk0LXB6RGFtQWRCeGFCYWpqdFVRZXBDaWJkUzB6VlhKemJhSEdlR3VYMUNTLW1YeVY1eGkyS29vLVh5eXJnNThYWjMyTzRESHc?oc=5",
+          "title": "4년간 퇴보한 선수들과 생각해 볼 에이전트-이적 문제 [월드컵 실패를 보며 ⑥] - 네이트",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFS3V1UldVNlhmVjVDU0FBYXNZN1RvRHczbVZzcVd4U2pqSDV1dWEzN2V5c1VrSUdpMTI1c0tJU2pOZk5GMExkejR5SDRwT2VHVExlQXVrMk9wN0hw?oc=5",
           "source": "Google News",
-          "published": "Wed, 08 Jul 2026 11:56:00 GMT"
+          "published": "Thu, 09 Jul 2026 21:01:00 GMT"
         },
         {
-          "title": "우크라엔 패트리엇, 한국엔 원잠?…디테일 없는 트럼프 ‘승인 정치’ - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeWtVUFBiQkZSOVlxTW0zODhpSkFfRHVIb1R0SWg0ekZpdW5XRnQ4dVlkWGE5SVBYWnAyZ2NfUWRudDJ3aExtc0NxOHpXck16OUd6QzM3QU9QZXFLU1lyVHRaS2tRQUxwZk90SUxxaG55R2l5VkkzelBNcEkwb2IxNE9HY2QtVzR1TWx1QlozcTREWEdKN2FIZG9aWG00QQ?oc=5",
+          "title": "축구 FIFA 월드컵 2026: 4강 진출 팀 모아보기 - olympics.com",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNamxyLVR5RmJBbGdvcUt5aG9vU1RfRlNtQnNVa2NpRkJRTzNfc0c0aEZ5and4cHFnN0xnSnRqaGNuSGJaT0FoMWxQOEhuS25WZ3R0Vm1Ycl9RUjNwcEExVzNDSDhxYnZ2OVZRUk9DMnhqVW5kemNqcmw3aDlUOURrZWlBVXRYLTlQak5RX2M2YUo5UDdvOTNlVjRB?oc=5",
           "source": "Google News",
-          "published": "Wed, 08 Jul 2026 23:52:14 GMT"
-        }
-      ]
-    },
-    {
-      "word": "축구협회",
-      "count": 2,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "국회 ‘증인 홍명보-참고인 손흥민’ 22일 축구협회 청문회 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1FSlNwUTJxaG5EM0hhYko4S0lhdlY4TVFabjNoUHc1MmU1bl9ncU81YVYtS2llMVprd18wUmZxeUZVelloYnVUZTdWM1F5Y29YMThjRzJ1V3c5MjVaZFVLd2xhblVuZVhvRURxeG9rR1FJZTY0aDUw0gFmQVVfeXFMUF9zcnZrdEFtc2xGcmNjX2p6Z2pBVVd2ZFhaMzY3ZHBvTVJpeTBvUEVmbUlDS2VZc1JoUXotU19Zd0xsU0txRmFZMDlHNzltNFhIbHJoTVlfOExVTDJ0aS1yUmdJZTVR?oc=5",
-          "source": "Google News",
-          "published": "Thu, 09 Jul 2026 19:30:00 GMT"
-        },
-        {
-          "title": "모리야스, 반년 뒤 떠난다…일본 축구협회 ‘이별 통보’ - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaW91UHg2cFlPWDlVdDdnSEpzTHJ5RFUxWUZtUjc2a0J3a1BLLW5lY3VMdmducV9kRDRTODMyMHFaRGRTN3VHbG5iMkJqRmN2UHZYTjA0OURpbzZJdzRtZkpRRzlMSkxFMmVtSHpobUZoS1oyVFg5alYtek9oRE9kejd3?oc=5",
-          "source": "Google News",
-          "published": "Thu, 09 Jul 2026 01:59:00 GMT"
+          "published": "Thu, 09 Jul 2026 22:03:00 GMT"
         }
       ]
     },
@@ -223,327 +324,262 @@
       ]
     },
     {
-      "word": "경찰",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "與 “경찰 보완수사 거부땐 징계”… “사건 암장 막기엔 역부족” 지적도 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8yYWVmREszaG5ZM0RMdlFJNHFiQjR5V1BXZGxmcWZ5LWd4anRJMUJHMXFWZURZYW1TQnpGb05RbmxBZjQ2d0dvS0gyc25LQmlZX3dRdklCd3JfQnkwVzlWYl9oNWVnOWZLeERjQWVRcTVvQVhMZUFn0gFmQVVfeXFMUFh5R0NoTWhFdFY5ckNCVFdYS3RfRWpWeU1yb1o1alN2dVNVOHpqRHVJOXZjbDZXMkd3V0tWaG1Ud0xqYl91NndWRmU4dENaUU5wRDdReTFZcmxPQ08wTmI4YWR0N0pR?oc=5",
-          "source": "Google News",
-          "published": "Thu, 09 Jul 2026 19:30:00 GMT"
-        }
-      ]
-    },
-    {
       "word": "보완수사",
       "count": 1,
       "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "與 “경찰 보완수사 거부땐 징계”… “사건 암장 막기엔 역부족” 지적도 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8yYWVmREszaG5ZM0RMdlFJNHFiQjR5V1BXZGxmcWZ5LWd4anRJMUJHMXFWZURZYW1TQnpGb05RbmxBZjQ2d0dvS0gyc25LQmlZX3dRdklCd3JfQnkwVzlWYl9oNWVnOWZLeERjQWVRcTVvQVhMZUFn0gFmQVVfeXFMUFh5R0NoTWhFdFY5ckNCVFdYS3RfRWpWeU1yb1o1alN2dVNVOHpqRHVJOXZjbDZXMkd3V0tWaG1Ud0xqYl91NndWRmU4dENaUU5wRDdReTFZcmxPQ08wTmI4YWR0N0pR?oc=5",
+          "title": "경찰, 보완수사 거부 불가·기간 최대 2개월…여당 발의 형소법 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00ODBEQXlKWVdkUG1XZlRKSXc3N00wRVN0a25OMWVFYjAyWFlHaktIZHkxbDd0Zmdhc0hyTzZvVnZWaFB3cy1WVlMxV0VuYWRaUFdlMXRoX3ZoQlZCTG9QeHlMV3lTNUV0YTRiVWFKaDFLcDlG?oc=5",
           "source": "Google News",
-          "published": "Thu, 09 Jul 2026 19:30:00 GMT"
+          "published": "Thu, 09 Jul 2026 18:10:00 GMT"
         }
       ]
     },
     {
-      "word": "거부땐",
+      "word": "거부",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "與 “경찰 보완수사 거부땐 징계”… “사건 암장 막기엔 역부족” 지적도 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8yYWVmREszaG5ZM0RMdlFJNHFiQjR5V1BXZGxmcWZ5LWd4anRJMUJHMXFWZURZYW1TQnpGb05RbmxBZjQ2d0dvS0gyc25LQmlZX3dRdklCd3JfQnkwVzlWYl9oNWVnOWZLeERjQWVRcTVvQVhMZUFn0gFmQVVfeXFMUFh5R0NoTWhFdFY5ckNCVFdYS3RfRWpWeU1yb1o1alN2dVNVOHpqRHVJOXZjbDZXMkd3V0tWaG1Ud0xqYl91NndWRmU4dENaUU5wRDdReTFZcmxPQ08wTmI4YWR0N0pR?oc=5",
+          "title": "경찰, 보완수사 거부 불가·기간 최대 2개월…여당 발의 형소법 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00ODBEQXlKWVdkUG1XZlRKSXc3N00wRVN0a25OMWVFYjAyWFlHaktIZHkxbDd0Zmdhc0hyTzZvVnZWaFB3cy1WVlMxV0VuYWRaUFdlMXRoX3ZoQlZCTG9QeHlMV3lTNUV0YTRiVWFKaDFLcDlG?oc=5",
           "source": "Google News",
-          "published": "Thu, 09 Jul 2026 19:30:00 GMT"
+          "published": "Thu, 09 Jul 2026 18:10:00 GMT"
         }
       ]
     },
     {
-      "word": "징계",
+      "word": "불가기간",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "與 “경찰 보완수사 거부땐 징계”… “사건 암장 막기엔 역부족” 지적도 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8yYWVmREszaG5ZM0RMdlFJNHFiQjR5V1BXZGxmcWZ5LWd4anRJMUJHMXFWZURZYW1TQnpGb05RbmxBZjQ2d0dvS0gyc25LQmlZX3dRdklCd3JfQnkwVzlWYl9oNWVnOWZLeERjQWVRcTVvQVhMZUFn0gFmQVVfeXFMUFh5R0NoTWhFdFY5ckNCVFdYS3RfRWpWeU1yb1o1alN2dVNVOHpqRHVJOXZjbDZXMkd3V0tWaG1Ud0xqYl91NndWRmU4dENaUU5wRDdReTFZcmxPQ08wTmI4YWR0N0pR?oc=5",
+          "title": "경찰, 보완수사 거부 불가·기간 최대 2개월…여당 발의 형소법 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00ODBEQXlKWVdkUG1XZlRKSXc3N00wRVN0a25OMWVFYjAyWFlHaktIZHkxbDd0Zmdhc0hyTzZvVnZWaFB3cy1WVlMxV0VuYWRaUFdlMXRoX3ZoQlZCTG9QeHlMV3lTNUV0YTRiVWFKaDFLcDlG?oc=5",
           "source": "Google News",
-          "published": "Thu, 09 Jul 2026 19:30:00 GMT"
+          "published": "Thu, 09 Jul 2026 18:10:00 GMT"
         }
       ]
     },
     {
-      "word": "사건",
+      "word": "2개월여당",
+      "count": 1,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "경찰, 보완수사 거부 불가·기간 최대 2개월…여당 발의 형소법 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00ODBEQXlKWVdkUG1XZlRKSXc3N00wRVN0a25OMWVFYjAyWFlHaktIZHkxbDd0Zmdhc0hyTzZvVnZWaFB3cy1WVlMxV0VuYWRaUFdlMXRoX3ZoQlZCTG9QeHlMV3lTNUV0YTRiVWFKaDFLcDlG?oc=5",
+          "source": "Google News",
+          "published": "Thu, 09 Jul 2026 18:10:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "발의",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "與 “경찰 보완수사 거부땐 징계”… “사건 암장 막기엔 역부족” 지적도 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8yYWVmREszaG5ZM0RMdlFJNHFiQjR5V1BXZGxmcWZ5LWd4anRJMUJHMXFWZURZYW1TQnpGb05RbmxBZjQ2d0dvS0gyc25LQmlZX3dRdklCd3JfQnkwVzlWYl9oNWVnOWZLeERjQWVRcTVvQVhMZUFn0gFmQVVfeXFMUFh5R0NoTWhFdFY5ckNCVFdYS3RfRWpWeU1yb1o1alN2dVNVOHpqRHVJOXZjbDZXMkd3V0tWaG1Ud0xqYl91NndWRmU4dENaUU5wRDdReTFZcmxPQ08wTmI4YWR0N0pR?oc=5",
+          "title": "경찰, 보완수사 거부 불가·기간 최대 2개월…여당 발의 형소법 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00ODBEQXlKWVdkUG1XZlRKSXc3N00wRVN0a25OMWVFYjAyWFlHaktIZHkxbDd0Zmdhc0hyTzZvVnZWaFB3cy1WVlMxV0VuYWRaUFdlMXRoX3ZoQlZCTG9QeHlMV3lTNUV0YTRiVWFKaDFLcDlG?oc=5",
           "source": "Google News",
-          "published": "Thu, 09 Jul 2026 19:30:00 GMT"
+          "published": "Thu, 09 Jul 2026 18:10:00 GMT"
         }
       ]
     },
     {
-      "word": "암장",
+      "word": "형소법",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "與 “경찰 보완수사 거부땐 징계”… “사건 암장 막기엔 역부족” 지적도 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8yYWVmREszaG5ZM0RMdlFJNHFiQjR5V1BXZGxmcWZ5LWd4anRJMUJHMXFWZURZYW1TQnpGb05RbmxBZjQ2d0dvS0gyc25LQmlZX3dRdklCd3JfQnkwVzlWYl9oNWVnOWZLeERjQWVRcTVvQVhMZUFn0gFmQVVfeXFMUFh5R0NoTWhFdFY5ckNCVFdYS3RfRWpWeU1yb1o1alN2dVNVOHpqRHVJOXZjbDZXMkd3V0tWaG1Ud0xqYl91NndWRmU4dENaUU5wRDdReTFZcmxPQ08wTmI4YWR0N0pR?oc=5",
+          "title": "경찰, 보완수사 거부 불가·기간 최대 2개월…여당 발의 형소법 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00ODBEQXlKWVdkUG1XZlRKSXc3N00wRVN0a25OMWVFYjAyWFlHaktIZHkxbDd0Zmdhc0hyTzZvVnZWaFB3cy1WVlMxV0VuYWRaUFdlMXRoX3ZoQlZCTG9QeHlMV3lTNUV0YTRiVWFKaDFLcDlG?oc=5",
           "source": "Google News",
-          "published": "Thu, 09 Jul 2026 19:30:00 GMT"
+          "published": "Thu, 09 Jul 2026 18:10:00 GMT"
         }
       ]
     },
     {
-      "word": "막기엔",
+      "word": "정청래",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "與 “경찰 보완수사 거부땐 징계”… “사건 암장 막기엔 역부족” 지적도 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8yYWVmREszaG5ZM0RMdlFJNHFiQjR5V1BXZGxmcWZ5LWd4anRJMUJHMXFWZURZYW1TQnpGb05RbmxBZjQ2d0dvS0gyc25LQmlZX3dRdklCd3JfQnkwVzlWYl9oNWVnOWZLeERjQWVRcTVvQVhMZUFn0gFmQVVfeXFMUFh5R0NoTWhFdFY5ckNCVFdYS3RfRWpWeU1yb1o1alN2dVNVOHpqRHVJOXZjbDZXMkd3V0tWaG1Ud0xqYl91NndWRmU4dENaUU5wRDdReTFZcmxPQ08wTmI4YWR0N0pR?oc=5",
+          "title": "'정청래 우군' 김어준 유튜브까지 찾아간 김민석… 달아오른 전당대회 판 - 한국일보",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfeHFvVWl2SDU4SXpjQW1McnBjd01oVlJTUjlxVFk3WDh5YUxNLUxzNXJaY3VZM1BNS0taNVo4eWFfeFNDTzNjRXd6bHpORnJDN0xPbzdadlZWUjFVRHUxWGExU2I5bHMyYW1GMDln0gFzQVVfeXFMTUs3UlRyclp5SjdRck1KTW9MLVZNenEzNkgzU3FWQzFpWVVRQ1lYazdSRGd4OXlWVVFnSFVsTkM0Q0ZhUTFEc1RiV2pRRWthWXV2cThxa0ZjXzYtTkw4elRueVVuLVpPaHZjZFdjS09lZENydw?oc=5",
           "source": "Google News",
-          "published": "Thu, 09 Jul 2026 19:30:00 GMT"
+          "published": "Wed, 08 Jul 2026 19:30:00 GMT"
         }
       ]
     },
     {
-      "word": "역부족",
+      "word": "우군",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "與 “경찰 보완수사 거부땐 징계”… “사건 암장 막기엔 역부족” 지적도 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8yYWVmREszaG5ZM0RMdlFJNHFiQjR5V1BXZGxmcWZ5LWd4anRJMUJHMXFWZURZYW1TQnpGb05RbmxBZjQ2d0dvS0gyc25LQmlZX3dRdklCd3JfQnkwVzlWYl9oNWVnOWZLeERjQWVRcTVvQVhMZUFn0gFmQVVfeXFMUFh5R0NoTWhFdFY5ckNCVFdYS3RfRWpWeU1yb1o1alN2dVNVOHpqRHVJOXZjbDZXMkd3V0tWaG1Ud0xqYl91NndWRmU4dENaUU5wRDdReTFZcmxPQ08wTmI4YWR0N0pR?oc=5",
+          "title": "'정청래 우군' 김어준 유튜브까지 찾아간 김민석… 달아오른 전당대회 판 - 한국일보",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfeHFvVWl2SDU4SXpjQW1McnBjd01oVlJTUjlxVFk3WDh5YUxNLUxzNXJaY3VZM1BNS0taNVo4eWFfeFNDTzNjRXd6bHpORnJDN0xPbzdadlZWUjFVRHUxWGExU2I5bHMyYW1GMDln0gFzQVVfeXFMTUs3UlRyclp5SjdRck1KTW9MLVZNenEzNkgzU3FWQzFpWVVRQ1lYazdSRGd4OXlWVVFnSFVsTkM0Q0ZhUTFEc1RiV2pRRWthWXV2cThxa0ZjXzYtTkw4elRueVVuLVpPaHZjZFdjS09lZENydw?oc=5",
           "source": "Google News",
-          "published": "Thu, 09 Jul 2026 19:30:00 GMT"
+          "published": "Wed, 08 Jul 2026 19:30:00 GMT"
         }
       ]
     },
     {
-      "word": "지적",
+      "word": "김어준",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "與 “경찰 보완수사 거부땐 징계”… “사건 암장 막기엔 역부족” 지적도 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8yYWVmREszaG5ZM0RMdlFJNHFiQjR5V1BXZGxmcWZ5LWd4anRJMUJHMXFWZURZYW1TQnpGb05RbmxBZjQ2d0dvS0gyc25LQmlZX3dRdklCd3JfQnkwVzlWYl9oNWVnOWZLeERjQWVRcTVvQVhMZUFn0gFmQVVfeXFMUFh5R0NoTWhFdFY5ckNCVFdYS3RfRWpWeU1yb1o1alN2dVNVOHpqRHVJOXZjbDZXMkd3V0tWaG1Ud0xqYl91NndWRmU4dENaUU5wRDdReTFZcmxPQ08wTmI4YWR0N0pR?oc=5",
+          "title": "'정청래 우군' 김어준 유튜브까지 찾아간 김민석… 달아오른 전당대회 판 - 한국일보",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfeHFvVWl2SDU4SXpjQW1McnBjd01oVlJTUjlxVFk3WDh5YUxNLUxzNXJaY3VZM1BNS0taNVo4eWFfeFNDTzNjRXd6bHpORnJDN0xPbzdadlZWUjFVRHUxWGExU2I5bHMyYW1GMDln0gFzQVVfeXFMTUs3UlRyclp5SjdRck1KTW9MLVZNenEzNkgzU3FWQzFpWVVRQ1lYazdSRGd4OXlWVVFnSFVsTkM0Q0ZhUTFEc1RiV2pRRWthWXV2cThxa0ZjXzYtTkw4elRueVVuLVpPaHZjZFdjS09lZENydw?oc=5",
           "source": "Google News",
-          "published": "Thu, 09 Jul 2026 19:30:00 GMT"
+          "published": "Wed, 08 Jul 2026 19:30:00 GMT"
         }
       ]
     },
     {
-      "word": "이란",
+      "word": "유튜브",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이란은 말 안듣고 확전은 부담 크고…트럼프의 '진퇴양난' - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tTWhwc3BSZXhRNDJfVnAwSklydWZSRmZPd0NqaEVvbnROckdwUTU2SjFfT1ZZNlBuUThpYldybzJ5bkxsdVVoRjdmckFLRVUyNDJKMGlVNTZqQTjSAWBBVV95cUxNdGJFa2RCLU1vUWR5NjVLeTVHanVlWnR2a2hudGp6MHVGWW52SU1Ga0hjNGdGRm5LbnVORU5TTHdvM0M3MDB1QVhLYS1Qc000V0o3eXBjbU5ua0RDU3hTZEc?oc=5",
+          "title": "'정청래 우군' 김어준 유튜브까지 찾아간 김민석… 달아오른 전당대회 판 - 한국일보",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfeHFvVWl2SDU4SXpjQW1McnBjd01oVlJTUjlxVFk3WDh5YUxNLUxzNXJaY3VZM1BNS0taNVo4eWFfeFNDTzNjRXd6bHpORnJDN0xPbzdadlZWUjFVRHUxWGExU2I5bHMyYW1GMDln0gFzQVVfeXFMTUs3UlRyclp5SjdRck1KTW9MLVZNenEzNkgzU3FWQzFpWVVRQ1lYazdSRGd4OXlWVVFnSFVsTkM0Q0ZhUTFEc1RiV2pRRWthWXV2cThxa0ZjXzYtTkw4elRueVVuLVpPaHZjZFdjS09lZENydw?oc=5",
           "source": "Google News",
-          "published": "Thu, 09 Jul 2026 16:15:35 GMT"
+          "published": "Wed, 08 Jul 2026 19:30:00 GMT"
         }
       ]
     },
     {
-      "word": "안듣",
+      "word": "찾아간",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이란은 말 안듣고 확전은 부담 크고…트럼프의 '진퇴양난' - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tTWhwc3BSZXhRNDJfVnAwSklydWZSRmZPd0NqaEVvbnROckdwUTU2SjFfT1ZZNlBuUThpYldybzJ5bkxsdVVoRjdmckFLRVUyNDJKMGlVNTZqQTjSAWBBVV95cUxNdGJFa2RCLU1vUWR5NjVLeTVHanVlWnR2a2hudGp6MHVGWW52SU1Ga0hjNGdGRm5LbnVORU5TTHdvM0M3MDB1QVhLYS1Qc000V0o3eXBjbU5ua0RDU3hTZEc?oc=5",
+          "title": "'정청래 우군' 김어준 유튜브까지 찾아간 김민석… 달아오른 전당대회 판 - 한국일보",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfeHFvVWl2SDU4SXpjQW1McnBjd01oVlJTUjlxVFk3WDh5YUxNLUxzNXJaY3VZM1BNS0taNVo4eWFfeFNDTzNjRXd6bHpORnJDN0xPbzdadlZWUjFVRHUxWGExU2I5bHMyYW1GMDln0gFzQVVfeXFMTUs3UlRyclp5SjdRck1KTW9MLVZNenEzNkgzU3FWQzFpWVVRQ1lYazdSRGd4OXlWVVFnSFVsTkM0Q0ZhUTFEc1RiV2pRRWthWXV2cThxa0ZjXzYtTkw4elRueVVuLVpPaHZjZFdjS09lZENydw?oc=5",
           "source": "Google News",
-          "published": "Thu, 09 Jul 2026 16:15:35 GMT"
+          "published": "Wed, 08 Jul 2026 19:30:00 GMT"
         }
       ]
     },
     {
-      "word": "확전",
+      "word": "김민석",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이란은 말 안듣고 확전은 부담 크고…트럼프의 '진퇴양난' - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tTWhwc3BSZXhRNDJfVnAwSklydWZSRmZPd0NqaEVvbnROckdwUTU2SjFfT1ZZNlBuUThpYldybzJ5bkxsdVVoRjdmckFLRVUyNDJKMGlVNTZqQTjSAWBBVV95cUxNdGJFa2RCLU1vUWR5NjVLeTVHanVlWnR2a2hudGp6MHVGWW52SU1Ga0hjNGdGRm5LbnVORU5TTHdvM0M3MDB1QVhLYS1Qc000V0o3eXBjbU5ua0RDU3hTZEc?oc=5",
+          "title": "'정청래 우군' 김어준 유튜브까지 찾아간 김민석… 달아오른 전당대회 판 - 한국일보",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfeHFvVWl2SDU4SXpjQW1McnBjd01oVlJTUjlxVFk3WDh5YUxNLUxzNXJaY3VZM1BNS0taNVo4eWFfeFNDTzNjRXd6bHpORnJDN0xPbzdadlZWUjFVRHUxWGExU2I5bHMyYW1GMDln0gFzQVVfeXFMTUs3UlRyclp5SjdRck1KTW9MLVZNenEzNkgzU3FWQzFpWVVRQ1lYazdSRGd4OXlWVVFnSFVsTkM0Q0ZhUTFEc1RiV2pRRWthWXV2cThxa0ZjXzYtTkw4elRueVVuLVpPaHZjZFdjS09lZENydw?oc=5",
           "source": "Google News",
-          "published": "Thu, 09 Jul 2026 16:15:35 GMT"
+          "published": "Wed, 08 Jul 2026 19:30:00 GMT"
         }
       ]
     },
     {
-      "word": "부담",
+      "word": "달아오른",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이란은 말 안듣고 확전은 부담 크고…트럼프의 '진퇴양난' - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tTWhwc3BSZXhRNDJfVnAwSklydWZSRmZPd0NqaEVvbnROckdwUTU2SjFfT1ZZNlBuUThpYldybzJ5bkxsdVVoRjdmckFLRVUyNDJKMGlVNTZqQTjSAWBBVV95cUxNdGJFa2RCLU1vUWR5NjVLeTVHanVlWnR2a2hudGp6MHVGWW52SU1Ga0hjNGdGRm5LbnVORU5TTHdvM0M3MDB1QVhLYS1Qc000V0o3eXBjbU5ua0RDU3hTZEc?oc=5",
+          "title": "'정청래 우군' 김어준 유튜브까지 찾아간 김민석… 달아오른 전당대회 판 - 한국일보",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfeHFvVWl2SDU4SXpjQW1McnBjd01oVlJTUjlxVFk3WDh5YUxNLUxzNXJaY3VZM1BNS0taNVo4eWFfeFNDTzNjRXd6bHpORnJDN0xPbzdadlZWUjFVRHUxWGExU2I5bHMyYW1GMDln0gFzQVVfeXFMTUs3UlRyclp5SjdRck1KTW9MLVZNenEzNkgzU3FWQzFpWVVRQ1lYazdSRGd4OXlWVVFnSFVsTkM0Q0ZhUTFEc1RiV2pRRWthWXV2cThxa0ZjXzYtTkw4elRueVVuLVpPaHZjZFdjS09lZENydw?oc=5",
           "source": "Google News",
-          "published": "Thu, 09 Jul 2026 16:15:35 GMT"
+          "published": "Wed, 08 Jul 2026 19:30:00 GMT"
         }
       ]
     },
     {
-      "word": "크고트럼프",
+      "word": "전당대회",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이란은 말 안듣고 확전은 부담 크고…트럼프의 '진퇴양난' - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tTWhwc3BSZXhRNDJfVnAwSklydWZSRmZPd0NqaEVvbnROckdwUTU2SjFfT1ZZNlBuUThpYldybzJ5bkxsdVVoRjdmckFLRVUyNDJKMGlVNTZqQTjSAWBBVV95cUxNdGJFa2RCLU1vUWR5NjVLeTVHanVlWnR2a2hudGp6MHVGWW52SU1Ga0hjNGdGRm5LbnVORU5TTHdvM0M3MDB1QVhLYS1Qc000V0o3eXBjbU5ua0RDU3hTZEc?oc=5",
+          "title": "'정청래 우군' 김어준 유튜브까지 찾아간 김민석… 달아오른 전당대회 판 - 한국일보",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfeHFvVWl2SDU4SXpjQW1McnBjd01oVlJTUjlxVFk3WDh5YUxNLUxzNXJaY3VZM1BNS0taNVo4eWFfeFNDTzNjRXd6bHpORnJDN0xPbzdadlZWUjFVRHUxWGExU2I5bHMyYW1GMDln0gFzQVVfeXFMTUs3UlRyclp5SjdRck1KTW9MLVZNenEzNkgzU3FWQzFpWVVRQ1lYazdSRGd4OXlWVVFnSFVsTkM0Q0ZhUTFEc1RiV2pRRWthWXV2cThxa0ZjXzYtTkw4elRueVVuLVpPaHZjZFdjS09lZENydw?oc=5",
           "source": "Google News",
-          "published": "Thu, 09 Jul 2026 16:15:35 GMT"
+          "published": "Wed, 08 Jul 2026 19:30:00 GMT"
         }
       ]
     },
     {
-      "word": "진퇴양난",
+      "word": "물폭탄비",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이란은 말 안듣고 확전은 부담 크고…트럼프의 '진퇴양난' - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tTWhwc3BSZXhRNDJfVnAwSklydWZSRmZPd0NqaEVvbnROckdwUTU2SjFfT1ZZNlBuUThpYldybzJ5bkxsdVVoRjdmckFLRVUyNDJKMGlVNTZqQTjSAWBBVV95cUxNdGJFa2RCLU1vUWR5NjVLeTVHanVlWnR2a2hudGp6MHVGWW52SU1Ga0hjNGdGRm5LbnVORU5TTHdvM0M3MDB1QVhLYS1Qc000V0o3eXBjbU5ua0RDU3hTZEc?oc=5",
+          "title": "수도권·강원 물폭탄…비 그치면 ‘36도’ 극한 폭염 온다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Xdk5pYU1hVjhuczBmSXZULUxXNUNjemtoaC1aTXFpV1JJSUN3Ml8wM1poUjg4LVlpSHVzNFhrZ21pRXN4cDkwaEJNYl9XUmNZRExBeEVDaU1UUdIBX0FVX3lxTE5acWNfZ1M0cEpVTE1UbVR2OTgwRGloSjJRem1LRW9KQ25KYW92SzNUUERlMHRzMDZ3VWVjN0c5S2JhM3pFeWZTbFFNOWctQ1ZGcVNHdGNmWUdCNF81UnFN?oc=5",
           "source": "Google News",
-          "published": "Thu, 09 Jul 2026 16:15:35 GMT"
+          "published": "Thu, 09 Jul 2026 21:00:00 GMT"
         }
       ]
     },
     {
-      "word": "대통령",
-      "count": 1,
-      "category": "PERSON",
-      "articles": [
-        {
-          "title": "이 대통령 부부, 몽골 ‘서울의 거리' 깜짝 방문…노점서 김밥·떡볶이 맛봐 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16OGZPQXBrZW41QmxRa2NJOVlxdU1QY21FYWRNVmRRcGxiNjhXMUxvYjdHbUNfY01QR0tRZUxaR3ZkeHFtQmVOVmVBdm5saDR1SEZSOUhOLTNadXk1QXFSR01QbVBiaFJJMWtB?oc=5",
-          "source": "Google News",
-          "published": "Thu, 09 Jul 2026 15:38:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "부부",
+      "word": "그치면",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령 부부, 몽골 ‘서울의 거리' 깜짝 방문…노점서 김밥·떡볶이 맛봐 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16OGZPQXBrZW41QmxRa2NJOVlxdU1QY21FYWRNVmRRcGxiNjhXMUxvYjdHbUNfY01QR0tRZUxaR3ZkeHFtQmVOVmVBdm5saDR1SEZSOUhOLTNadXk1QXFSR01QbVBiaFJJMWtB?oc=5",
+          "title": "수도권·강원 물폭탄…비 그치면 ‘36도’ 극한 폭염 온다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Xdk5pYU1hVjhuczBmSXZULUxXNUNjemtoaC1aTXFpV1JJSUN3Ml8wM1poUjg4LVlpSHVzNFhrZ21pRXN4cDkwaEJNYl9XUmNZRExBeEVDaU1UUdIBX0FVX3lxTE5acWNfZ1M0cEpVTE1UbVR2OTgwRGloSjJRem1LRW9KQ25KYW92SzNUUERlMHRzMDZ3VWVjN0c5S2JhM3pFeWZTbFFNOWctQ1ZGcVNHdGNmWUdCNF81UnFN?oc=5",
           "source": "Google News",
-          "published": "Thu, 09 Jul 2026 15:38:00 GMT"
+          "published": "Thu, 09 Jul 2026 21:00:00 GMT"
         }
       ]
     },
     {
-      "word": "몽골",
+      "word": "36",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령 부부, 몽골 ‘서울의 거리' 깜짝 방문…노점서 김밥·떡볶이 맛봐 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16OGZPQXBrZW41QmxRa2NJOVlxdU1QY21FYWRNVmRRcGxiNjhXMUxvYjdHbUNfY01QR0tRZUxaR3ZkeHFtQmVOVmVBdm5saDR1SEZSOUhOLTNadXk1QXFSR01QbVBiaFJJMWtB?oc=5",
+          "title": "수도권·강원 물폭탄…비 그치면 ‘36도’ 극한 폭염 온다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Xdk5pYU1hVjhuczBmSXZULUxXNUNjemtoaC1aTXFpV1JJSUN3Ml8wM1poUjg4LVlpSHVzNFhrZ21pRXN4cDkwaEJNYl9XUmNZRExBeEVDaU1UUdIBX0FVX3lxTE5acWNfZ1M0cEpVTE1UbVR2OTgwRGloSjJRem1LRW9KQ25KYW92SzNUUERlMHRzMDZ3VWVjN0c5S2JhM3pFeWZTbFFNOWctQ1ZGcVNHdGNmWUdCNF81UnFN?oc=5",
           "source": "Google News",
-          "published": "Thu, 09 Jul 2026 15:38:00 GMT"
+          "published": "Thu, 09 Jul 2026 21:00:00 GMT"
         }
       ]
     },
     {
-      "word": "거리",
+      "word": "극한",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령 부부, 몽골 ‘서울의 거리' 깜짝 방문…노점서 김밥·떡볶이 맛봐 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16OGZPQXBrZW41QmxRa2NJOVlxdU1QY21FYWRNVmRRcGxiNjhXMUxvYjdHbUNfY01QR0tRZUxaR3ZkeHFtQmVOVmVBdm5saDR1SEZSOUhOLTNadXk1QXFSR01QbVBiaFJJMWtB?oc=5",
+          "title": "수도권·강원 물폭탄…비 그치면 ‘36도’ 극한 폭염 온다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Xdk5pYU1hVjhuczBmSXZULUxXNUNjemtoaC1aTXFpV1JJSUN3Ml8wM1poUjg4LVlpSHVzNFhrZ21pRXN4cDkwaEJNYl9XUmNZRExBeEVDaU1UUdIBX0FVX3lxTE5acWNfZ1M0cEpVTE1UbVR2OTgwRGloSjJRem1LRW9KQ25KYW92SzNUUERlMHRzMDZ3VWVjN0c5S2JhM3pFeWZTbFFNOWctQ1ZGcVNHdGNmWUdCNF81UnFN?oc=5",
           "source": "Google News",
-          "published": "Thu, 09 Jul 2026 15:38:00 GMT"
+          "published": "Thu, 09 Jul 2026 21:00:00 GMT"
         }
       ]
     },
     {
-      "word": "깜짝",
+      "word": "폭염",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령 부부, 몽골 ‘서울의 거리' 깜짝 방문…노점서 김밥·떡볶이 맛봐 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16OGZPQXBrZW41QmxRa2NJOVlxdU1QY21FYWRNVmRRcGxiNjhXMUxvYjdHbUNfY01QR0tRZUxaR3ZkeHFtQmVOVmVBdm5saDR1SEZSOUhOLTNadXk1QXFSR01QbVBiaFJJMWtB?oc=5",
+          "title": "수도권·강원 물폭탄…비 그치면 ‘36도’ 극한 폭염 온다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Xdk5pYU1hVjhuczBmSXZULUxXNUNjemtoaC1aTXFpV1JJSUN3Ml8wM1poUjg4LVlpSHVzNFhrZ21pRXN4cDkwaEJNYl9XUmNZRExBeEVDaU1UUdIBX0FVX3lxTE5acWNfZ1M0cEpVTE1UbVR2OTgwRGloSjJRem1LRW9KQ25KYW92SzNUUERlMHRzMDZ3VWVjN0c5S2JhM3pFeWZTbFFNOWctQ1ZGcVNHdGNmWUdCNF81UnFN?oc=5",
           "source": "Google News",
-          "published": "Thu, 09 Jul 2026 15:38:00 GMT"
+          "published": "Thu, 09 Jul 2026 21:00:00 GMT"
         }
       ]
     },
     {
-      "word": "방문노점서",
+      "word": "온다",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령 부부, 몽골 ‘서울의 거리' 깜짝 방문…노점서 김밥·떡볶이 맛봐 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16OGZPQXBrZW41QmxRa2NJOVlxdU1QY21FYWRNVmRRcGxiNjhXMUxvYjdHbUNfY01QR0tRZUxaR3ZkeHFtQmVOVmVBdm5saDR1SEZSOUhOLTNadXk1QXFSR01QbVBiaFJJMWtB?oc=5",
+          "title": "수도권·강원 물폭탄…비 그치면 ‘36도’ 극한 폭염 온다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Xdk5pYU1hVjhuczBmSXZULUxXNUNjemtoaC1aTXFpV1JJSUN3Ml8wM1poUjg4LVlpSHVzNFhrZ21pRXN4cDkwaEJNYl9XUmNZRExBeEVDaU1UUdIBX0FVX3lxTE5acWNfZ1M0cEpVTE1UbVR2OTgwRGloSjJRem1LRW9KQ25KYW92SzNUUERlMHRzMDZ3VWVjN0c5S2JhM3pFeWZTbFFNOWctQ1ZGcVNHdGNmWUdCNF81UnFN?oc=5",
           "source": "Google News",
-          "published": "Thu, 09 Jul 2026 15:38:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "김밥떡볶",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 부부, 몽골 ‘서울의 거리' 깜짝 방문…노점서 김밥·떡볶이 맛봐 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16OGZPQXBrZW41QmxRa2NJOVlxdU1QY21FYWRNVmRRcGxiNjhXMUxvYjdHbUNfY01QR0tRZUxaR3ZkeHFtQmVOVmVBdm5saDR1SEZSOUhOLTNadXk1QXFSR01QbVBiaFJJMWtB?oc=5",
-          "source": "Google News",
-          "published": "Thu, 09 Jul 2026 15:38:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "맛봐",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 부부, 몽골 ‘서울의 거리' 깜짝 방문…노점서 김밥·떡볶이 맛봐 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16OGZPQXBrZW41QmxRa2NJOVlxdU1QY21FYWRNVmRRcGxiNjhXMUxvYjdHbUNfY01QR0tRZUxaR3ZkeHFtQmVOVmVBdm5saDR1SEZSOUhOLTNadXk1QXFSR01QbVBiaFJJMWtB?oc=5",
-          "source": "Google News",
-          "published": "Thu, 09 Jul 2026 15:38:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "조명",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "車조명 끄고, 장갑 끼고, 흉기로... ‘여고생 살해’ 장윤기는 치밀했다 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2tZaDR3RTN3SmU5UWdFYTU2d2NGRlVKS2tleFFHV2Q2THVuMnpMYkM0OHZ2WTdBbmZuc3p2YUdubXNhNkE1NHJ3d3d3a0JVZkY1b0toUU5BQ0p2V0VYOFAyVURwbTNMZEs4cF95c3hDYkN5dGdyYkVwNTR0aTdNOWZQTk5KdnFzU3IzQS1sRk8?oc=5",
-          "source": "Google News",
-          "published": "Thu, 09 Jul 2026 13:38:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "끄고",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "車조명 끄고, 장갑 끼고, 흉기로... ‘여고생 살해’ 장윤기는 치밀했다 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2tZaDR3RTN3SmU5UWdFYTU2d2NGRlVKS2tleFFHV2Q2THVuMnpMYkM0OHZ2WTdBbmZuc3p2YUdubXNhNkE1NHJ3d3d3a0JVZkY1b0toUU5BQ0p2V0VYOFAyVURwbTNMZEs4cF95c3hDYkN5dGdyYkVwNTR0aTdNOWZQTk5KdnFzU3IzQS1sRk8?oc=5",
-          "source": "Google News",
-          "published": "Thu, 09 Jul 2026 13:38:00 GMT"
+          "published": "Thu, 09 Jul 2026 21:00:00 GMT"
         }
       ]
     }
