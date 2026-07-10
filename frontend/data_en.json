@@ -1,100 +1,175 @@
 {
   "language": "en",
-  "last_updated": 1783685066.485713,
+  "last_updated": 1783697755.791083,
   "count": 40,
   "trends": [
     {
-      "word": "Fire",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "US and Iran exchange intensifying fire across Mideast, threatening ceasefire deal - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQmZnOENNRXdELTloYWdZVG84OGRxcnFydXg5S1RNYWYyeTVkZGQ3XzkwV0hJdXRDNzBrSEp2ZUw2UkU5LVJkcWtyc0FXOHZkM1cwanhvaUFFM3g2WjJ6bkdHZmJVbE8zNGFneWF4VzM5VFdWcGNmUWo4VnljNktvSWJ3eE9XaThVZVVPM2NlQlhoUVh4T2E0cnJB?oc=5",
-          "source": "Google News",
-          "published": "Fri, 10 Jul 2026 07:19:00 GMT"
-        },
-        {
-          "title": "At least 28 killed in shoe factory fire in southeast China, state media says - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQjBzZWRrM0hGUExIM0g0SndSd0ZQbG41NkFHcDQydnB2S0RDc1lWekdJdE8wcDBNdlJNSnRZYmhoeEZoQlVIclVXQkdqeVFFZE9mTllKNmk4TWxBRWcweXhva2JGb2hfTk1EYTlFb3o2NER3OWJ2TWNpRW9qNG82dW16cUJMdVRXWFNzYXNwT08?oc=5",
-          "source": "Google News",
-          "published": "Thu, 09 Jul 2026 18:33:25 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Killed",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Migrants who saw man killed by ICE in Houston say he did not ram officers - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY3E1TmttRVdXcnQ5Zmg1bV9DMFVoejdSeVlLR0U0RlZMenMwZ0N1dTExeU4ybGtHQVM3QUdPWjljTmdtQ3JEUlFoamUweXF5VW9xU1E1OXc1TC16WGdvSm1iaWx4YlEtUjRGYnlTTi05TnAwU2hJMzRmNEdqLWE0c2VUc2JheGRrV29fc2xINkNIZThabmNpSmhwc1RCR1JCN3preUdSUUVNcEJNbHJxZk9saUFiVW1yd3d6dnFuTzFVaXc?oc=5",
-          "source": "Google News",
-          "published": "Fri, 10 Jul 2026 08:19:12 GMT"
-        },
-        {
-          "title": "At least 28 killed in shoe factory fire in southeast China, state media says - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQjBzZWRrM0hGUExIM0g0SndSd0ZQbG41NkFHcDQydnB2S0RDc1lWekdJdE8wcDBNdlJNSnRZYmhoeEZoQlVIclVXQkdqeVFFZE9mTllKNmk4TWxBRWcweXhva2JGb2hfTk1EYTlFb3o2NER3OWJ2TWNpRW9qNG82dW16cUJMdVRXWFNzYXNwT08?oc=5",
-          "source": "Google News",
-          "published": "Thu, 09 Jul 2026 18:33:25 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Model",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "New Air Force One Lacks Defensive Countermeasures of Previous Model, Officials Say - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNGdYMm5nVXRiblRoRV9OYkdFamZYTDR0ZXFEZFROTWI4NkViYzlVVkFWN3FZWUZmbXhBMWtGS2M4ZGZlU0ctQ3BMNVEyZWptdzFrbjF5V1NzNUdoM1hwWURSckU2Vk9vOTVGNDJHZ1RZSnVMY1NCNFdiZi1pNGxYckN0UUNpcHBOcFZiQUF5QkN1U0lWeWVOb1Frcw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 10 Jul 2026 00:47:57 GMT"
-        },
-        {
-          "title": "'Complex numbers are not needed for quantum mechanics': Physicists develop quantum model that uses only 'real' numbers for first time ever - Live Science",
-          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPT0Zpa0c2N1N1UWNHZ3BZcmx4Y3o5Q3hzbERoLUtGUGwtTTM3b09QOFNrM19TUmtCQlF6Sk01ZmFXZVJSUWQ5TmNjWUEwVDRCbHFISFIxMFNIYXFGeEoxRHpyNHp0VTNLMk5BSW9ocEZ3aUt0eHlzdGJZMXJLNGJ4RDQwVmZwZlVNckR3cWVXZUtpWGtVQ1otcE55TTl5Y3JmbmtsRXJQanp3cTFtdERqZW1IVTA5Q0dlSmljSXBZdGVqUGFPMExwUDFlblF2QUF4N3Z3dUdGUnlUR1RZRGFyNTVOVkprODVsM2Y2Wm5YdUZsemVqbGNMbE9LUnZqRm9jZElLd2tySUFPRW9YUEE?oc=5",
-          "source": "Google News",
-          "published": "Thu, 09 Jul 2026 19:44:07 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Video",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "It’s not me, it’s them: Platner goes down snarling with graceless exit video - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTWpaOWpyQ0RIOTlmQ25GQllUS2pPNzVBYlVxNGxKa0RLNUhDVjRES1FUWXJtWG53UGdNTi1WMTM1RWF4UnRQbTdvQXlWNlhGekRrdndQWGhXd1E2ZmFjeVlLYmlvbTMwTUlBUzBDbkNpTjRNal9hZVlRTnhmMWVqbGZRaVl3djA2aGFpazZR?oc=5",
-          "source": "Google News",
-          "published": "Fri, 10 Jul 2026 10:00:00 GMT"
-        },
-        {
-          "title": "McConnell was loaded into ambulance on a stretcher, according to eyewitness and new video - CNN",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUUU1ZExIYWVXanpNSFFLQ3BKckx3S3REVklJZDV1ZG5TQ0tIYUNwS2hQN0Y4QXZjb2VhcXYyZWlMdUREdmxBalNTcmZnUU83WTBnWnpaX0piUDhmOXlBTF9kaGN1TjJUV2RzM0JpcjlobjROT3ZVUWs5dXBtOXBJQjlIazlMVmd0?oc=5",
-          "source": "Google News",
-          "published": "Fri, 10 Jul 2026 09:00:25 GMT"
-        }
-      ]
-    },
-    {
       "word": "Trump",
+      "count": 4,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump says he won't sign housing bill, which would become law automatically - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JM1ZhaWY5NFhtRy1Od05oZEFXbWJQM0NKS2RJcF84Mmx1V2NxTkhuYWZBbWZkN3M4REhHeHFSbFJvaENzWW9NU0pJNnBQN0xJRzFwWXFNQVozUlVxcUt2SzRqTll4Y0dlQTkxb05Da1BLTF80bHVj0gF8QVVfeXFMTzRuZk80ZS1TdjduUkRHNC1FMEVRYnlqY2tqTEd1Rm9GMU9pcmJhSEFvNGJ4VUNNRjV4aVAyQWgxcGxzS2s1Q2R2aUdLZkRCbHFmS01uNGoxazZBbjZtMGhpS2FkUWdWTWgwRHd4ZnI2aHFLQnc5R1I0c1BGRg?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 13:24:53 GMT"
+        },
+        {
+          "title": "Trump’s Air Force One switcheroo highlights security concerns around Qatari model - The Hill",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWnowTUFnYms3Wkdrc25KMDJjNlZ0VUJJQ2VsUVk1dEtkb3Nkak1BN1o3S3RVeV8tNnNzeERrQm5tb214cnJ4MmJzcVFPeGx5a3VjY2hBZ0hYLWQ5U3hPQzJfWENkN0Mzdk8wbmVUWUF5bUVOZ2FqVE9mSTBYWWtRN1pwc21vc0F6c3NTWmxxbDNaekE5VVQ2TE9B0gGfAUFVX3lxTE9mZUVwRnFFUUJZUDJZbURTNUlNMnRsOHJ0WnRtQTlmaHFBZHN2OFdJY0hGWTZwVmRjU1NPZ1B5OW1tTU8yV3JBaFJaTklFUUFETGZWc2R4QTlWaDdFaTNDSVRhdVFFUFBJQlFsUU1saFFMRXc5NWU1bnN0OWF1eXU5QzhCenhTWkU3eDc4TnRicnBicjdfVjJWXzF2N3Z5SQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 09 Jul 2026 23:06:00 GMT"
+        },
+        {
+          "title": "Donald Trump ousts election commission members in latest push to reshape US voting process - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOEhwMmJYVXhld1ZEdXN6YVlqZjkxemNNckZlNjdjcHppWDQzRlJiU3pQeU9zbzh0eDlIdkxuV2JLV1NUTHpTbWRRdnBkemhxanVFZnMwQTA4MTgyOFlOeGFJVnViZXRiaHRqbGVZX25sZXJuNk5CM0RRQ2tnbVVTRjNySENIU0Fib1J5NXh6dVROMElHUU5YaWdoM2h0cHlP?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 12:46:00 GMT"
+        },
+        {
+          "title": "Trump grants Kyiv Patriots licences: What’s next in the Russia-Ukraine war? - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdHkwdlI2TnRPMkRaazlUc0x4cVhHM0xBNG56RUMxeTRtS0tSOGhFcFRfQjlnc2g5OFU0UGs0N2tyLWJYeUpCUUt0LUdBbkl5dDcxRjRpNkNCWTRVdTNVeVRUQVkxdUlRTHp0WS1hbmtMNDdsaEktNmZnZm13SjFZZllWcDBvUGp0MmtLbHVCVVBXeXFibEFzRU5ycHNCMXhQcnlEV3FnbGFlWHU3dkg0X2gyRdIBuAFBVV95cUxQUjk1OHBZNkZhX3FFbnN4SGZvc1RpZy1pb1JtRW1fVFpzN05hWElBTTRudzg0OTJFM3VHc3hRMXhMUEU1SjNfbXFCTXFMbjFiMGNiUjRHOGQ2a0RQaUNlQXdfeFZsRmwtZXNDbnVCeGlDc3BIeGdoenU1ckIya1RaZnFiODUycXIyTnA3WENGSXJLVXpqYi04dVVnbjBJN0FVQmxtODg5VnVrV0JId2pxS1Q4by13RmxG?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 09:35:39 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Iran",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "U.S.-Iran Latest: Tehran seeks regional support as mediators push to keep talks going after intense flare-up - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd2FLbExRcUwzLVpNZmVpbGdLVUttNC1uaDFnUmxZS2lleVNqZlI2WDdTOGVvSFc4M0w2dzh4RVdyRlNQWUNnVXRqZWw1WjJDUWdfWmN6TU9XbkNRYVhTX0kzem83cHprdmc4bVRWQThSZDJ3TUVQaE5raDJwMzFMM2FJOTlNQy13UlZPTEJjWVhKdw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 13:46:00 GMT"
+        },
+        {
+          "title": "Iran’s supreme leader buried after a dayslong funeral that drew millions - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWEZ3eDF0MmdRbEhBNWttU0ZzWl9GQ2hMcUhmWVV1MGZfX1hhemlvb3dsYVhrMDd4QUhUZGRzSGtjOURqSHJfYVl6YXE4RngxLU5jUFdDbTlRUEpYeEZmVW5fT1N4b3Y1QmtiVHZsdHNtaDVCMWROUmdyS1dzV1RvT0FqWHRKUjNvN3hnWWt2M3pPNUV1TFN4VHNiSmhGYl9uVGJiWjV5VQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 09 Jul 2026 23:28:20 GMT"
+        },
+        {
+          "title": "Strait of Hormuz traffic plunges as US, Iran resume fighting - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZXFnTVkzNnhWZ1I3VllGc0prVU5McFZsXzdEMFcxLXZHTXVKWWxWbVczMkZYc1ZrS3R6MmR3TDFXRnNPR3dBVGNkOUp6cFZGUnpSdzBQR2ZtRXZYemRDd0ZBSDVWVklaSUZkRWFOZllWN09yM0x4Sk5rODRZYlVnVWc2Um5MNnY2V1l6MVFmZDVOd21hdW9EVURfenpsclVLOWFVbl92Q0lqeEZfQnM2VNIBtgFBVV95cUxOVElQV0ktMzJEY0tIeU40Qzh4RGd5UDdwQ0xMczMxWl9ZdUNtWlZmSTJZMWMyYU54cEdUQjk5UWtTT2MwLU1ZNE9Mb0xNUk5UZ3JsSWZXZHhHTTBHNlJLc3lmRXF3b1loNTllU1pBdDRHVkRoZ3ktNm9rX25kSHpqMF96VmZ0X2ZQTFBGQ0FWd1lHQ1Nlc0lqV3ZrcUZsV3BBNHU5b1pQSkk0ZGtNaEJOLXZrYVk5UQ?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 05:49:09 GMT"
+        }
+      ]
+    },
+    {
+      "word": "ICE",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump Pushes Out Remaining Members of Bipartisan Election Commission Ahead of Midterms - ProPublica",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLTZNbVZMMlkwMG4wY0pqTTdMYmp0UERzekpFdnFJMG55dzM4N29vS1g4OFVQNU5LdWl0MEM2NXpiaEJwZlZ6bGNWdUVsOGppcUh2S2VKQVFqbVVPbG1OQnZyRGNQN2FiTHphNlkwUXhFQjkteU1zNTNVanpiN0VIMV9PVXU5X1N3WVMzQXhjemZyQmxR?oc=5",
+          "title": "Mexican Man Fatally Shot by ICE Wasn’t the Intended Target - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ydkdFcExVb19uaFllQjR6YVNXS0V1XzhiWWRHeWVIeEpmM2xOM3FxTHl6REZtWE5uY25paDF1RUpreGtFZTEyV1FSbEowaXFEZjVzbUY3b1hqM3BydnpyVWZrNGtsMlJkUGVnNWszaFkwVmp2Z0E5VU1fSFY1Zw?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 03:00:00 GMT"
+          "published": "Fri, 10 Jul 2026 15:21:00 GMT"
         },
         {
-          "title": "Trump denies Congress what could be its last major bill signing ceremony - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ2RqN0Jqc3dOanZrSnFKTnU2UjhBUDhpZ0I5dWhvbHpIZl9uVFZPeWthNkZfY3Q0ZUJLdFZvel8xaHN1TDdIbXRNNzI0QThWYktrQXZlSmZEbWthV0R5a2RJXzNuRW5HeV9xbW1IREpseG5KUjZaMXFqUDFucnhvUkNmNFEzeW5lV2NqbVAwUV92SHBtNUdxY2g1aUptbVQ1RGI1cEU2N3VCeHpGMG9aOUs5eV9kbjc0VU4wVEtxZHhYdw?oc=5",
+          "title": "What we know about the Houston ICE shooting and the Democrats vying to replace Graham Platner: Morning Rundown - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVV8tdE1nOUd6NzlwMTY1UDBDZjJUY1hVbVk0UVFVMUFlZkhvbjgtS0xUMkNtUkFUakdnR2JMU2VPdlQtZlJ2NHMxa3pMdEdUalp5RzJGd3R1Ql9UR2pVZXpQbDFVQktiUVRtWlZUVVJYeTd5SUd3bU84RnRSSGNJTFpwTVRtYVVqWHNVdVVseWtYTDZVajNBQ2s1RVNwRHE4ekN1Y0tLT3hiV28?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 12:01:44 GMT"
+          "published": "Fri, 10 Jul 2026 11:03:59 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Latest",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "U.S.-Iran Latest: Tehran seeks regional support as mediators push to keep talks going after intense flare-up - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd2FLbExRcUwzLVpNZmVpbGdLVUttNC1uaDFnUmxZS2lleVNqZlI2WDdTOGVvSFc4M0w2dzh4RVdyRlNQWUNnVXRqZWw1WjJDUWdfWmN6TU9XbkNRYVhTX0kzem83cHprdmc4bVRWQThSZDJ3TUVQaE5raDJwMzFMM2FJOTlNQy13UlZPTEJjWVhKdw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 13:46:00 GMT"
+        },
+        {
+          "title": "Donald Trump ousts election commission members in latest push to reshape US voting process - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOEhwMmJYVXhld1ZEdXN6YVlqZjkxemNNckZlNjdjcHppWDQzRlJiU3pQeU9zbzh0eDlIdkxuV2JLV1NUTHpTbWRRdnBkemhxanVFZnMwQTA4MTgyOFlOeGFJVnViZXRiaHRqbGVZX25sZXJuNk5CM0RRQ2tnbVVTRjNySENIU0Fib1J5NXh6dVROMElHUU5YaWdoM2h0cHlP?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 12:46:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Seeks",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "U.S.-Iran Latest: Tehran seeks regional support as mediators push to keep talks going after intense flare-up - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd2FLbExRcUwzLVpNZmVpbGdLVUttNC1uaDFnUmxZS2lleVNqZlI2WDdTOGVvSFc4M0w2dzh4RVdyRlNQWUNnVXRqZWw1WjJDUWdfWmN6TU9XbkNRYVhTX0kzem83cHprdmc4bVRWQThSZDJ3TUVQaE5raDJwMzFMM2FJOTlNQy13UlZPTEJjWVhKdw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 13:46:00 GMT"
+        },
+        {
+          "title": "NASA seeks research volunteers to spend a year on a simulated mission to Mars or the Moon - FOX Weather",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSmFWcEZLNTg0ZTZ2a2xXUVc4d0JwNXJqdDViN0JzVF9iWm10OGFJT3NLVmpZYVdaaTBsWkJxcHZiZ1E1Smtvek5ENjdzOGVIQW1XVVg2UHZ2dk9jU3NxU2R4c1BhN0trb213d2RnTGdGck5STmZIM1MzYXlzZGxFTmU2bGtfN3U3RzV1SWwybHd3UHEtMktveTZvOE95NXl5OGtaeGx1X0pYelNo0gGyAUFVX3lxTE56S1JYaEhxTzVtanVtRWFQNUlzSDJSRU5GTjVES21wOW1qeGZYUDhkSkpvQ092VDRaamd5Ym5PeUZHa013ejBkWEc4ZkhtdkpKZmcxai1Yc2FEZmxYbWZzYzNCc0E3dVlWOVBwNGNQcTdGeXBLQW5TUklVRlh4MXdWY014MUQ1VjJJTUFGRFBWWWtPMTdxWGZwRTBhRUx6RFg0dVhfMEdyQjgtSDZsWklReHc?oc=5",
+          "source": "Google News",
+          "published": "Thu, 09 Jul 2026 18:22:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Push",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "U.S.-Iran Latest: Tehran seeks regional support as mediators push to keep talks going after intense flare-up - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd2FLbExRcUwzLVpNZmVpbGdLVUttNC1uaDFnUmxZS2lleVNqZlI2WDdTOGVvSFc4M0w2dzh4RVdyRlNQWUNnVXRqZWw1WjJDUWdfWmN6TU9XbkNRYVhTX0kzem83cHprdmc4bVRWQThSZDJ3TUVQaE5raDJwMzFMM2FJOTlNQy13UlZPTEJjWVhKdw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 13:46:00 GMT"
+        },
+        {
+          "title": "Donald Trump ousts election commission members in latest push to reshape US voting process - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOEhwMmJYVXhld1ZEdXN6YVlqZjkxemNNckZlNjdjcHppWDQzRlJiU3pQeU9zbzh0eDlIdkxuV2JLV1NUTHpTbWRRdnBkemhxanVFZnMwQTA4MTgyOFlOeGFJVnViZXRiaHRqbGVZX25sZXJuNk5CM0RRQ2tnbVVTRjNySENIU0Fib1J5NXh6dVROMElHUU5YaWdoM2h0cHlP?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 12:46:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Force",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump’s Air Force One switcheroo highlights security concerns around Qatari model - The Hill",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWnowTUFnYms3Wkdrc25KMDJjNlZ0VUJJQ2VsUVk1dEtkb3Nkak1BN1o3S3RVeV8tNnNzeERrQm5tb214cnJ4MmJzcVFPeGx5a3VjY2hBZ0hYLWQ5U3hPQzJfWENkN0Mzdk8wbmVUWUF5bUVOZ2FqVE9mSTBYWWtRN1pwc21vc0F6c3NTWmxxbDNaekE5VVQ2TE9B0gGfAUFVX3lxTE9mZUVwRnFFUUJZUDJZbURTNUlNMnRsOHJ0WnRtQTlmaHFBZHN2OFdJY0hGWTZwVmRjU1NPZ1B5OW1tTU8yV3JBaFJaTklFUUFETGZWc2R4QTlWaDdFaTNDSVRhdVFFUFBJQlFsUU1saFFMRXc5NWU1bnN0OWF1eXU5QzhCenhTWkU3eDc4TnRicnBicjdfVjJWXzF2N3Z5SQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 09 Jul 2026 23:06:00 GMT"
+        },
+        {
+          "title": "‘Unstoppable force’: Mbappe’s France crush Morocco’s World Cup dreams - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT1hlb3pUNV8wNDVTQ0lwd0RVUFlBU0FOX25jOWs5bmctUElWb2N3WXRQRUgza3VjSGNnT1NycGhmaHRQZlJmZEFGYlZLUmFubWh0elhDM2FodWpQSHc2R2hiOWs1dklLVWx1RjEwVGRUWnlqeEk1bFRDYWNFSVpfQjFIdnpDNmZKdDF5VmgzTFkyQlk0V3NtOTNybnJMWTVzTkM3aUxmeWhRNFXSAbABQVVfeXFMTlBsRmdROU82QnN6RjZ6SV9nbWZfUjJVQ3VmQmxVbXZJUXJkQ3prSmcyY21JX095cVlHb1RJWWtWeDVib0pfOVZPVW5CT0xlQklXb2kzV1B6NzJmeVpIcUNha19iWldCbjNzenAtSHpiR1hjcFYtLWdtdjRhdVE1N2Rubmg2X3RHcHV4a3NFQmViZUQ3Zl91Y1VqUl9iOHNiN0ZxSHdkaHVTNDlDOHVJSmw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 07:17:29 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Know",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "What we know about the Houston ICE shooting and the Democrats vying to replace Graham Platner: Morning Rundown - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVV8tdE1nOUd6NzlwMTY1UDBDZjJUY1hVbVk0UVFVMUFlZkhvbjgtS0xUMkNtUkFUakdnR2JMU2VPdlQtZlJ2NHMxa3pMdEdUalp5RzJGd3R1Ql9UR2pVZXpQbDFVQktiUVRtWlZUVVJYeTd5SUd3bU84RnRSSGNJTFpwTVRtYVVqWHNVdVVseWtYTDZVajNBQ2s1RVNwRHE4ekN1Y0tLT3hiV28?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 11:03:59 GMT"
+        },
+        {
+          "title": "An intestinal parasite is causing ‘explosive’ diarrhea in Pa. and N.J. Here’s what to know about cyclospora - WHYY",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZGdBVVF6RGExWnViMzNYVS1QOC1BbVc5VTdBcW1rQnFVNGpBa2RTQXVaczB4aUo4UVlQeURIZFY0VVAwSk1PV2lKN3VNVkRxa2hDdWktTnJSTkJBOGZVOHVnUktyWGVLTHBRWmtBb2JzNHR0Zmo4N1VPME92MENheTJQZVVoZjNva0k3WHMwc09RakU?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 09:17:31 GMT"
         }
       ]
     },
@@ -104,10 +179,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump Pushes Out Remaining Members of Bipartisan Election Commission Ahead of Midterms - ProPublica",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLTZNbVZMMlkwMG4wY0pqTTdMYmp0UERzekpFdnFJMG55dzM4N29vS1g4OFVQNU5LdWl0MEM2NXpiaEJwZlZ6bGNWdUVsOGppcUh2S2VKQVFqbVVPbG1OQnZyRGNQN2FiTHphNlkwUXhFQjkteU1zNTNVanpiN0VIMV9PVXU5X1N3WVMzQXhjemZyQmxR?oc=5",
+          "title": "Donald Trump ousts election commission members in latest push to reshape US voting process - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOEhwMmJYVXhld1ZEdXN6YVlqZjkxemNNckZlNjdjcHppWDQzRlJiU3pQeU9zbzh0eDlIdkxuV2JLV1NUTHpTbWRRdnBkemhxanVFZnMwQTA4MTgyOFlOeGFJVnViZXRiaHRqbGVZX25sZXJuNk5CM0RRQ2tnbVVTRjNySENIU0Fib1J5NXh6dVROMElHUU5YaWdoM2h0cHlP?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 03:00:00 GMT"
+          "published": "Fri, 10 Jul 2026 12:46:00 GMT"
         },
         {
           "title": "Count Binface: The intergalactic warrior who could upend Britain's strangest election - NPR",
@@ -118,59 +193,40 @@
       ]
     },
     {
-      "word": "may",
+      "word": "Records",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Missing Michigan woman Lynette Hooker may have returned to her sailboat before disappearance in the Bahamas, source says - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTm50ckVPeVlMVXp6UFZla1VIc1hZTWhUUDJtRE9WLVdlMmF5QkxmbGJDSUlvNFgweVk2bWtxTkZ6NkdLNlYwTHFpQVVlRXhVVmp0VjFOVUdpeDFWcnJuZnNYaWhMckV2Ul9jdUkyb1R0anR6d25fZXk1LVJoelk0ZHN1a3ZCYllfeVVZ?oc=5",
+          "title": "Heat dome to topple records in drought-stricken Plains and Western states - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV3RWXzZmRkg1N1N1LXJfYVRBaG14dEk0VWJQYkVZYk9mclBrUU1PdG1WNkVCODgwb2RTLTdCNTd5ZnNnZXBtaXVqWnBPVVpzeXBuOFlXSW1hQzRFUjdwbGRPZHRETDkzMDZrMy1QXzVJdUR0ZzBzdlNHejFVaGRSTGJKNG5iTnJyUFRuZGp3UTc5UXFrWWFWRm5fQklUQjBtRmJYUDRjSHc1b05PRlZfOWtUVnlJTkdvVTA0YnNfMGVGQQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 01:22:12 GMT"
+          "published": "Fri, 10 Jul 2026 14:50:26 GMT"
         },
         {
-          "title": "Ancient fossil may reveal animal kingdom's earliest right-handedness at 550 million years old - Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BMlhacGNvcFBQQzBXU2MtbldxaF9xdnRBTHhUejZrbWJqenMySV9IQWlET0dKMWI3N0tUc1Z2S3FWTVU4UjMxMTY1cXNGcUh5QVpDcVo2NmpmeWd5bDlaQ180RWNMOHJYdEt6M1d5WnNmLXZzUnQ5QVpFdw?oc=5",
+          "title": "Exclusive | Over half the cooling towers in NYC Legionnaires’ outbreak area issued violations in recent months: records - New York Post",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWjZFcmFIcE1nX3NWRFZneDY1YWR6cTQ4TmZVZ2s3YW5Gd3g3bGdHWFpDQkRuXzktQXEyaThLV3R0VzdscGpVMjNWM0doZFpZVy1Cd3dqQ2YtUk1uMHVaV1hjdnpUZm9pdERFQ2FPVjFqanFHdlB6RjNjMDJ4SlJ1NUJ1WktBLUoySmFITkRvMkRoRTJiVG5FUl9zR1NuM0hwb3BKLXVSQUNlOVNFZEhsMVNITW9PMnEyaVRNVkNLaE00TXBCbEk4MmZGbGdsSVJoWFZFMGRxYi04VDhrVnd4VjhR?oc=5",
           "source": "Google News",
-          "published": "Thu, 09 Jul 2026 09:00:05 GMT"
+          "published": "Fri, 10 Jul 2026 12:45:00 GMT"
         }
       ]
     },
     {
-      "word": "Last",
+      "word": "Fighting",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump denies Congress what could be its last major bill signing ceremony - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ2RqN0Jqc3dOanZrSnFKTnU2UjhBUDhpZ0I5dWhvbHpIZl9uVFZPeWthNkZfY3Q0ZUJLdFZvel8xaHN1TDdIbXRNNzI0QThWYktrQXZlSmZEbWthV0R5a2RJXzNuRW5HeV9xbW1IREpseG5KUjZaMXFqUDFucnhvUkNmNFEzeW5lV2NqbVAwUV92SHBtNUdxY2g1aUptbVQ1RGI1cEU2N3VCeHpGMG9aOUs5eV9kbjc0VU4wVEtxZHhYdw?oc=5",
+          "title": "Strait of Hormuz traffic plunges as US, Iran resume fighting - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZXFnTVkzNnhWZ1I3VllGc0prVU5McFZsXzdEMFcxLXZHTXVKWWxWbVczMkZYc1ZrS3R6MmR3TDFXRnNPR3dBVGNkOUp6cFZGUnpSdzBQR2ZtRXZYemRDd0ZBSDVWVklaSUZkRWFOZllWN09yM0x4Sk5rODRZYlVnVWc2Um5MNnY2V1l6MVFmZDVOd21hdW9EVURfenpsclVLOWFVbl92Q0lqeEZfQnM2VNIBtgFBVV95cUxOVElQV0ktMzJEY0tIeU40Qzh4RGd5UDdwQ0xMczMxWl9ZdUNtWlZmSTJZMWMyYU54cEdUQjk5UWtTT2MwLU1ZNE9Mb0xNUk5UZ3JsSWZXZHhHTTBHNlJLc3lmRXF3b1loNTllU1pBdDRHVkRoZ3ktNm9rX25kSHpqMF96VmZ0X2ZQTFBGQ0FWd1lHQ1Nlc0lqV3ZrcUZsV3BBNHU5b1pQSkk0ZGtNaEJOLXZrYVk5UQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 12:01:44 GMT"
+          "published": "Fri, 10 Jul 2026 05:49:09 GMT"
         },
         {
-          "title": "Delta expects higher airfare to last, bringing 2026 profit goal in reach, CEO says - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51Z2Uyd2x6UFhlMVdIMnVacC1Ubmt6YlpjSUlyM0FoRk1SZlFYemRnNUhGX2hTVWJXbkRGdW5NX1dWUnA4bWdUSWRQQTdZcUVSOWtxNG1acF9mdF8zS05YU2ppN0JkU0x4bmd0dWRkdW9RaEtON0tUZ2lfZ2E4Z9IBgwFBVV95cUxPMEFMXzlnblFZa0hPbjVERjlqcjFtaFMxRlByaTlhWlFVUXVoSVZxNkRRaXNmTGRNU2MzRm5pQ195MWdzSnYxZzVpZlN0TEx6dVNNMjdpaDZOZ0hNUWtycXdMb2g5RGx5dy0zajlwZ0NJZlA3WUpVMTVNWDN3NWR2RzhaUQ?oc=5",
+          "title": "In Congo, health workers fighting Ebola go on strike after months without pay - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaVI1QUZqQm5BWjlBSlp2ZzlnWFFETEJXZzRydTFobE9MM2VzOTJwdWhLYkJTaVRNT1VHRFpUSDhqY2xWQW9ubDVRT0xTVGJPemRGX21jeHg0UXFKS0NZdjZtLUxFRElWZWdVMVZ2YmVSeXAtelRuSnlJR3BpcHU3NVl2UVowMnU1VERaTjlEYldKQUgzLW5VeUotSmNpWWI0NFRheUJDa0Q2T2d5RE51TVcxLVBZS2tYTm5Z?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 10:30:53 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Nominations",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "UK Labour leadership nominations begin: Who’s running and how it works - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV1NTV0kzaDZGMHFFcHpubzVoRUk3VDFzSHNYZm9vbFVMQkNoMW9hV2xlVm82N1NCSlFsNHNuWXdlQkJ3UVdyVzE0bTZ2ZjFIWG5EQjlvalNhMWZhN1dlRmtiQnZnR2ZzZWtJbHEyck1ZZ1VEajZkb3FFUll3YjN1cHY1OUZqYkxFY1JvdzJTN1lTUDJ1VHdrY3VsRHU3WkE4SnJBdmhCT2FPbHZy0gGyAUFVX3lxTE1OMDlkYVBoZWJUN1NITlJBYmEwRER5aTRtZ2ZRaTVrM1ZLZHc1YzlpRGhxRnk2NXN4VmVNdWMtRHRUaXRreUtfbkJHbHVWMTFzR0hGTHJRZVFseURKTG1HcFhoYnZjMklBcWdEYUd5YnJHQVc2S2NmendKZ2xrMm5PT3lsRWx6OVBFTVNtZnp0d0tjNFhZemtKTlRVdHJrN0kzcV9KY1huUEFNYW1yc3Vmdmc?oc=5",
-          "source": "Google News",
-          "published": "Thu, 09 Jul 2026 11:44:17 GMT"
-        },
-        {
-          "title": "Emmy Predictions via Feinberg Forecast: Scott’s First Post-Nominations Read of the Race - The Hollywood Reporter",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSjVhalF3dlZVLWZNSFEzSjdKYmxhRXFtano4b1hJSUFEd1gyOUhvMHFUaGJCRm5fTVZuSkNEdzNnaEpxOWx4d01ER3NDcXR4aW1rMS0waTlKY3dCOXFtekhXUExnX2YyYmFoQ0xqeE5sY1p6VmtVWWc0MDN2dzk0X2VhWEJHZ0FEdUZiOHY3NUtYTTg?oc=5",
-          "source": "Google News",
-          "published": "Thu, 09 Jul 2026 15:18:23 GMT"
+          "published": "Thu, 09 Jul 2026 18:59:56 GMT"
         }
       ]
     },
@@ -180,10 +236,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Stock futures mixed as investors await SK Hynix U.S. debut; chip stocks retreat from rally: Live updates - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kdzhhTTdONFVfRHJXdVY3U2tDenpna2NJemt0OUlNNzVVeWJOdTZDSEVoZXkyLWNBQTY2VzN3T1RyVTNnR3gzSUtIbnFtX2luRFU1bGl2SFBBM0lrUXVLeF9MUVlCdS1MZ3lCdlpEZ1RrQUlTaURv0gF8QVVfeXFMUEJ0Q1VJQ3Y1RDkyVjE4SkhkSXYzU0RoSnVlYmJPRkhGclpSZ0JqRHNkSkRseUhVVkNuc2RZMlVLY1lLcmlJb3ZiVXVhLXFGY3E2TGJ5OHQyQVlxU0plNWdKdGxyRnNxWGpIdmhEa2VHbjhhcVpFNW5pS1RrWQ?oc=5",
+          "title": "SK Hynix Stock Starts Trading in the U.S. Today. What It Means for the Memory Chip Boom. - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44MmFWQWI2N1R0MWctLXFDU1pKdkZ0SV8xbG42OUVzR3k2aGxKcjBtSFNZSU1VREpLdTBON2xadUQ5YmlSUk1meDByMTFuelRzTlEwRHd4SGFEQTRiTGl3dnUxRF9UaV9kVE9TYzNua3hHZElXWFNpZy1KQlJJZw?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 10:10:00 GMT"
+          "published": "Fri, 10 Jul 2026 14:41:00 GMT"
         },
         {
           "title": "SpaceX stock in focus as launch, Starlink business hit new milestones - Yahoo Finance",
@@ -194,92 +250,53 @@
       ]
     },
     {
-      "word": "Debut",
+      "word": "Health",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Stock futures mixed as investors await SK Hynix U.S. debut; chip stocks retreat from rally: Live updates - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kdzhhTTdONFVfRHJXdVY3U2tDenpna2NJemt0OUlNNzVVeWJOdTZDSEVoZXkyLWNBQTY2VzN3T1RyVTNnR3gzSUtIbnFtX2luRFU1bGl2SFBBM0lrUXVLeF9MUVlCdS1MZ3lCdlpEZ1RrQUlTaURv0gF8QVVfeXFMUEJ0Q1VJQ3Y1RDkyVjE4SkhkSXYzU0RoSnVlYmJPRkhGclpSZ0JqRHNkSkRseUhVVkNuc2RZMlVLY1lLcmlJb3ZiVXVhLXFGY3E2TGJ5OHQyQVlxU0plNWdKdGxyRnNxWGpIdmhEa2VHbjhhcVpFNW5pS1RrWQ?oc=5",
+          "title": "Fidji Simo says Mark Zuckerberg gave her one piece of health advice years ago, and she wishes she had listened - Business Insider",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcXdCWlJkWEFheGdmNDFGcXltOFhhRlNfbUNQQTY4LTdlMXlaYkkzU00wYWVQY0NMM2VsSWdBbmYzNzZpY1VzVmQxRTRfMEFBWGdoa01JR29NamxmZVFKMVdIOElSWkxpQWctOGF6dkFCM2RVTGtLMlVER3dEMjRQVndGU3cxRG92Q0Npd1ZkOXVSRWx6ZTJ5VVZxUHlfc2NNaHZxUDNuM0x3UFVIcmc?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 10:10:00 GMT"
+          "published": "Fri, 10 Jul 2026 13:24:36 GMT"
         },
         {
-          "title": "Wizards' Dybantsa outduels Jazz's Peterson in summer league debut - ESPN",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVURfMXY4a2tjaGJsX3FzUWRpU0pPblNJMGxHaTFXX21rUzVEazdBY19ral9zMEVjTEQ0V3RMRmxFdTd4R0Z2cE44QWxmb0dXcm00SV9aZS12aHRRM3VsUExyV096cFpubGxsYTNER1FNalJNNExEUUR6RHRacTM0a0NtZ0RPbWxXZHp1WUtJcDdNWXVDUVZKRTFxTTFndGFyQjNGV01jbw?oc=5",
+          "title": "In Congo, health workers fighting Ebola go on strike after months without pay - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaVI1QUZqQm5BWjlBSlp2ZzlnWFFETEJXZzRydTFobE9MM2VzOTJwdWhLYkJTaVRNT1VHRFpUSDhqY2xWQW9ubDVRT0xTVGJPemRGX21jeHg0UXFKS0NZdjZtLUxFRElWZWdVMVZ2YmVSeXAtelRuSnlJR3BpcHU3NVl2UVowMnU1VERaTjlEYldKQUgzLW5VeUotSmNpWWI0NFRheUJDa0Q2T2d5RE51TVcxLVBZS2tYTm5Z?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 06:02:00 GMT"
+          "published": "Thu, 09 Jul 2026 18:59:56 GMT"
         }
       ]
     },
     {
-      "word": "Live",
+      "word": "Brands",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Stock futures mixed as investors await SK Hynix U.S. debut; chip stocks retreat from rally: Live updates - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kdzhhTTdONFVfRHJXdVY3U2tDenpna2NJemt0OUlNNzVVeWJOdTZDSEVoZXkyLWNBQTY2VzN3T1RyVTNnR3gzSUtIbnFtX2luRFU1bGl2SFBBM0lrUXVLeF9MUVlCdS1MZ3lCdlpEZ1RrQUlTaURv0gF8QVVfeXFMUEJ0Q1VJQ3Y1RDkyVjE4SkhkSXYzU0RoSnVlYmJPRkhGclpSZ0JqRHNkSkRseUhVVkNuc2RZMlVLY1lLcmlJb3ZiVXVhLXFGY3E2TGJ5OHQyQVlxU0plNWdKdGxyRnNxWGpIdmhEa2VHbjhhcVpFNW5pS1RrWQ?oc=5",
+          "title": "Volkswagen sales plunge as German automaker lays out plan to slash number of brands - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTHJJWUNnNjEzQnBvdjlaMDU0OWRPUUJSRTREVzJrMGFCRzdVaURXbTl2eDdEeXg4ZXVOMEI3ejdaUU9NTTZqWkdncC1nSHRiR0hBaEs3M0k1OFdOejVxMlRYZDhMODI2U3pvX0hWTzA3NGxrQTZBV25uSENEcFZTNVB4amtKQkVGRUgxWDFkVlEyV2pC?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 10:10:00 GMT"
+          "published": "Fri, 10 Jul 2026 11:11:00 GMT"
         },
         {
-          "title": "Live-action remake of 'Moana' gets ravaged by critics in latest blow to Disney Studios - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0JrR2NkeXRDbGlQZjhkQmU4RHIycWt6ZDkwdkVuVXMydGNHb0NWbzk0RU5rcVo1dGJ0Z2RMbGtaS3FsM1JxeGx0eTFTclhCWnl1MnZBcTc3dk55dXhzSEtLanlJd2tFVWFHSVRYeFpsOV9wSVgtZ1FSamdsTjFkR1pVR3J3OHRKTHZlRnMwbmh5VGNidlVRY2ZMVWZqbmNUaVd2UHlSZGdFV05X?oc=5",
+          "title": "More phone brands are to disappear just like OnePlus, a popular tipster warns - PhoneArena",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN0w0dUU2amx3SVQ3N0ljb3JhZjhQY09fS2l1cFBaTkxuUURCWlZEemVxTUJBWHh1eXNRelpMQ0NMai1Xa29SdmRzcklDMThlb1BxdzdYczhiUUczZ1lJbF92Mmp3RGtuYWdTM2kwWGp5X0E4eV8zbzJjYmpwekk1MmQ5d1d1TG9VZ3FQUF9mVV81M0hEZlhwaS1fMU9YaXIwRldqZE5mZldoTU9lNjl1N2p0bjlEejBk?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 00:17:28 GMT"
+          "published": "Fri, 10 Jul 2026 08:05:18 GMT"
         }
       ]
     },
     {
-      "word": "Brown",
+      "word": "Almost",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Joe Mazzulla on Jaylen Brown trade: ‘We have a different identity.’ Brown felt ‘no loyalty’ - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY2xhakNQVnhuVmd2Y0trRVRNaWtHcG1sZFNKUHd0VzZZc3NKVGREUkNIOVUxdFBpaHhvUGQwT25WMnkwbUdDTXFSNmhEU253MExncTBGRDFjMGlIWEVfTjR6Z0M1Z1RpZ0R0amdrb1M1aHpwZkxBNHdWUlhhZ0FjajNFdWgwNnJkSWl1cGZyRk9hRGtyYThMNWNPQ1k2X1NmSks0?oc=5",
+          "title": "Xreal’s new AR glasses are way cheaper and almost just right - The Verge",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZkdaLTNfbGw5SlY3WEVNRnFKajdCLXpWSjQwQlRxTEw3M1B3ZnhYbTZrUm0zNFgxRHlXdTJURVoxMzZCY3BWUnhDSUwwdnlqMm5GYjdldWRRR2pOb29UMXd4QnNBc3RHNnFqdF8tYTdLQ0lFWUdhanhwdmRuc2pjUg?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 01:23:31 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Numbers",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "'Complex numbers are not needed for quantum mechanics': Physicists develop quantum model that uses only 'real' numbers for first time ever - Live Science",
-          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPT0Zpa0c2N1N1UWNHZ3BZcmx4Y3o5Q3hzbERoLUtGUGwtTTM3b09QOFNrM19TUmtCQlF6Sk01ZmFXZVJSUWQ5TmNjWUEwVDRCbHFISFIxMFNIYXFGeEoxRHpyNHp0VTNLMk5BSW9ocEZ3aUt0eHlzdGJZMXJLNGJ4RDQwVmZwZlVNckR3cWVXZUtpWGtVQ1otcE55TTl5Y3JmbmtsRXJQanp3cTFtdERqZW1IVTA5Q0dlSmljSXBZdGVqUGFPMExwUDFlblF2QUF4N3Z3dUdGUnlUR1RZRGFyNTVOVkprODVsM2Y2Wm5YdUZsemVqbGNMbE9LUnZqRm9jZElLd2tySUFPRW9YUEE?oc=5",
-          "source": "Google News",
-          "published": "Thu, 09 Jul 2026 19:44:07 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Quantum",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "'Complex numbers are not needed for quantum mechanics': Physicists develop quantum model that uses only 'real' numbers for first time ever - Live Science",
-          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPT0Zpa0c2N1N1UWNHZ3BZcmx4Y3o5Q3hzbERoLUtGUGwtTTM3b09QOFNrM19TUmtCQlF6Sk01ZmFXZVJSUWQ5TmNjWUEwVDRCbHFISFIxMFNIYXFGeEoxRHpyNHp0VTNLMk5BSW9ocEZ3aUt0eHlzdGJZMXJLNGJ4RDQwVmZwZlVNckR3cWVXZUtpWGtVQ1otcE55TTl5Y3JmbmtsRXJQanp3cTFtdERqZW1IVTA5Q0dlSmljSXBZdGVqUGFPMExwUDFlblF2QUF4N3Z3dUdGUnlUR1RZRGFyNTVOVkprODVsM2Y2Wm5YdUZsemVqbGNMbE9LUnZqRm9jZElLd2tySUFPRW9YUEE?oc=5",
-          "source": "Google News",
-          "published": "Thu, 09 Jul 2026 19:44:07 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Cases",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Ohio counties with cases of diarrhea parasite: list - FOX 8 News",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vV25mNTNxR1hEdVVPOTA0VC1SVnduTXRyanZNUURzN2JEWVYwWkdXMG5zWWJwVFpYcmUyS0VVazlJYkd3a1NPZGFQcll4dkNWUnBXUHlsTFB1b294a3VXVW5uVzRQa1hYdHQyUzBGUlhzeVc4c2FV0gF8QVVfeXFMT3owMXVLMUh0NE1JQ041YkxTUDRBWDJFU2xhSlM4cTNrek9FMzZnLUN2bmRXak1fY1pLWTAwSFVOcFFoOUtROHJRNnFQOTFlODc0SnhWWk1hSm5BaDdsSUFxNWxidWZXb2RMM3c5cmtneFJhZUhqYmxaZTFaUA?oc=5",
-          "source": "Google News",
-          "published": "Fri, 10 Jul 2026 09:20:25 GMT"
+          "published": "Fri, 10 Jul 2026 13:00:00 GMT"
         },
         {
           "title": "WHO: Global Cancer Cases May Surge Almost 70% by 2050 - Newser",
@@ -290,314 +307,345 @@
       ]
     },
     {
-      "word": "Iran",
-      "count": 1,
+      "word": "Right",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "US and Iran exchange intensifying fire across Mideast, threatening ceasefire deal - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQmZnOENNRXdELTloYWdZVG84OGRxcnFydXg5S1RNYWYyeTVkZGQ3XzkwV0hJdXRDNzBrSEp2ZUw2UkU5LVJkcWtyc0FXOHZkM1cwanhvaUFFM3g2WjJ6bkdHZmJVbE8zNGFneWF4VzM5VFdWcGNmUWo4VnljNktvSWJ3eE9XaThVZVVPM2NlQlhoUVh4T2E0cnJB?oc=5",
+          "title": "Xreal’s new AR glasses are way cheaper and almost just right - The Verge",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZkdaLTNfbGw5SlY3WEVNRnFKajdCLXpWSjQwQlRxTEw3M1B3ZnhYbTZrUm0zNFgxRHlXdTJURVoxMzZCY3BWUnhDSUwwdnlqMm5GYjdldWRRR2pOb29UMXd4QnNBc3RHNnFqdF8tYTdLQ0lFWUdhanhwdmRuc2pjUg?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 07:19:00 GMT"
+          "published": "Fri, 10 Jul 2026 13:00:00 GMT"
+        },
+        {
+          "title": "Ancient fossil may reveal animal kingdom's earliest right-handedness at 550 million years old - Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BMlhacGNvcFBQQzBXU2MtbldxaF9xdnRBTHhUejZrbWJqenMySV9IQWlET0dKMWI3N0tUc1Z2S3FWTVU4UjMxMTY1cXNGcUh5QVpDcVo2NmpmeWd5bDlaQ180RWNMOHJYdEt6M1d5WnNmLXZzUnQ5QVpFdw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 09 Jul 2026 09:00:05 GMT"
         }
       ]
     },
     {
-      "word": "Exchange",
-      "count": 1,
+      "word": "may",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "US and Iran exchange intensifying fire across Mideast, threatening ceasefire deal - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQmZnOENNRXdELTloYWdZVG84OGRxcnFydXg5S1RNYWYyeTVkZGQ3XzkwV0hJdXRDNzBrSEp2ZUw2UkU5LVJkcWtyc0FXOHZkM1cwanhvaUFFM3g2WjJ6bkdHZmJVbE8zNGFneWF4VzM5VFdWcGNmUWo4VnljNktvSWJ3eE9XaThVZVVPM2NlQlhoUVh4T2E0cnJB?oc=5",
+          "title": "Ancient fossil may reveal animal kingdom's earliest right-handedness at 550 million years old - Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BMlhacGNvcFBQQzBXU2MtbldxaF9xdnRBTHhUejZrbWJqenMySV9IQWlET0dKMWI3N0tUc1Z2S3FWTVU4UjMxMTY1cXNGcUh5QVpDcVo2NmpmeWd5bDlaQ180RWNMOHJYdEt6M1d5WnNmLXZzUnQ5QVpFdw?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 07:19:00 GMT"
+          "published": "Thu, 09 Jul 2026 09:00:05 GMT"
+        },
+        {
+          "title": "'Astronomers have to revise estimates': The Milky Way may be larger, heavier and more lopsided than we realized - Live Science",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZVBCRzQyWU1YZmFvanQwcEUxZ1Y1NUdiTXFKTm9BQjA4clk5dzQ4N0JtYmlPbDBEQVRCQ2ZjWjVSZjZwR0RuS2lhbjJRR1JrSG9VWnhTNE56dWVHVl9yc3hLNjQ2WS1tMWk2WlBodmtRdXo1dzM1NU1vc2pOMWg4M1JGT0dqZ2k0ZmZHQlVrM3llVDBvX2FWYkppSVdxR1poZzBUVllaNktMNW9UVi1zOThrUGtFMFFxUnd6REtiZ283THRrbUR5RFZpMEs4N1IwUDVYNlQwaVdkYkRXR0VSVlRoWnE3dw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 09 Jul 2026 16:55:21 GMT"
         }
       ]
     },
     {
-      "word": "Intensifying",
-      "count": 1,
+      "word": "Months",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "US and Iran exchange intensifying fire across Mideast, threatening ceasefire deal - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQmZnOENNRXdELTloYWdZVG84OGRxcnFydXg5S1RNYWYyeTVkZGQ3XzkwV0hJdXRDNzBrSEp2ZUw2UkU5LVJkcWtyc0FXOHZkM1cwanhvaUFFM3g2WjJ6bkdHZmJVbE8zNGFneWF4VzM5VFdWcGNmUWo4VnljNktvSWJ3eE9XaThVZVVPM2NlQlhoUVh4T2E0cnJB?oc=5",
+          "title": "Exclusive | Over half the cooling towers in NYC Legionnaires’ outbreak area issued violations in recent months: records - New York Post",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWjZFcmFIcE1nX3NWRFZneDY1YWR6cTQ4TmZVZ2s3YW5Gd3g3bGdHWFpDQkRuXzktQXEyaThLV3R0VzdscGpVMjNWM0doZFpZVy1Cd3dqQ2YtUk1uMHVaV1hjdnpUZm9pdERFQ2FPVjFqanFHdlB6RjNjMDJ4SlJ1NUJ1WktBLUoySmFITkRvMkRoRTJiVG5FUl9zR1NuM0hwb3BKLXVSQUNlOVNFZEhsMVNITW9PMnEyaVRNVkNLaE00TXBCbEk4MmZGbGdsSVJoWFZFMGRxYi04VDhrVnd4VjhR?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 07:19:00 GMT"
+          "published": "Fri, 10 Jul 2026 12:45:00 GMT"
+        },
+        {
+          "title": "In Congo, health workers fighting Ebola go on strike after months without pay - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaVI1QUZqQm5BWjlBSlp2ZzlnWFFETEJXZzRydTFobE9MM2VzOTJwdWhLYkJTaVRNT1VHRFpUSDhqY2xWQW9ubDVRT0xTVGJPemRGX21jeHg0UXFKS0NZdjZtLUxFRElWZWdVMVZ2YmVSeXAtelRuSnlJR3BpcHU3NVl2UVowMnU1VERaTjlEYldKQUgzLW5VeUotSmNpWWI0NFRheUJDa0Q2T2d5RE51TVcxLVBZS2tYTm5Z?oc=5",
+          "source": "Google News",
+          "published": "Thu, 09 Jul 2026 18:59:56 GMT"
         }
       ]
     },
     {
-      "word": "Across",
+      "word": "Sign",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "US and Iran exchange intensifying fire across Mideast, threatening ceasefire deal - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQmZnOENNRXdELTloYWdZVG84OGRxcnFydXg5S1RNYWYyeTVkZGQ3XzkwV0hJdXRDNzBrSEp2ZUw2UkU5LVJkcWtyc0FXOHZkM1cwanhvaUFFM3g2WjJ6bkdHZmJVbE8zNGFneWF4VzM5VFdWcGNmUWo4VnljNktvSWJ3eE9XaThVZVVPM2NlQlhoUVh4T2E0cnJB?oc=5",
+          "title": "Trump says he won't sign housing bill, which would become law automatically - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JM1ZhaWY5NFhtRy1Od05oZEFXbWJQM0NKS2RJcF84Mmx1V2NxTkhuYWZBbWZkN3M4REhHeHFSbFJvaENzWW9NU0pJNnBQN0xJRzFwWXFNQVozUlVxcUt2SzRqTll4Y0dlQTkxb05Da1BLTF80bHVj0gF8QVVfeXFMTzRuZk80ZS1TdjduUkRHNC1FMEVRYnlqY2tqTEd1Rm9GMU9pcmJhSEFvNGJ4VUNNRjV4aVAyQWgxcGxzS2s1Q2R2aUdLZkRCbHFmS01uNGoxazZBbjZtMGhpS2FkUWdWTWgwRHd4ZnI2aHFLQnc5R1I0c1BGRg?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 07:19:00 GMT"
+          "published": "Fri, 10 Jul 2026 13:24:53 GMT"
         }
       ]
     },
     {
-      "word": "Mideast",
+      "word": "Housing",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "US and Iran exchange intensifying fire across Mideast, threatening ceasefire deal - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQmZnOENNRXdELTloYWdZVG84OGRxcnFydXg5S1RNYWYyeTVkZGQ3XzkwV0hJdXRDNzBrSEp2ZUw2UkU5LVJkcWtyc0FXOHZkM1cwanhvaUFFM3g2WjJ6bkdHZmJVbE8zNGFneWF4VzM5VFdWcGNmUWo4VnljNktvSWJ3eE9XaThVZVVPM2NlQlhoUVh4T2E0cnJB?oc=5",
+          "title": "Trump says he won't sign housing bill, which would become law automatically - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JM1ZhaWY5NFhtRy1Od05oZEFXbWJQM0NKS2RJcF84Mmx1V2NxTkhuYWZBbWZkN3M4REhHeHFSbFJvaENzWW9NU0pJNnBQN0xJRzFwWXFNQVozUlVxcUt2SzRqTll4Y0dlQTkxb05Da1BLTF80bHVj0gF8QVVfeXFMTzRuZk80ZS1TdjduUkRHNC1FMEVRYnlqY2tqTEd1Rm9GMU9pcmJhSEFvNGJ4VUNNRjV4aVAyQWgxcGxzS2s1Q2R2aUdLZkRCbHFmS01uNGoxazZBbjZtMGhpS2FkUWdWTWgwRHd4ZnI2aHFLQnc5R1I0c1BGRg?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 07:19:00 GMT"
+          "published": "Fri, 10 Jul 2026 13:24:53 GMT"
         }
       ]
     },
     {
-      "word": "Threatening",
+      "word": "Bill",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "US and Iran exchange intensifying fire across Mideast, threatening ceasefire deal - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQmZnOENNRXdELTloYWdZVG84OGRxcnFydXg5S1RNYWYyeTVkZGQ3XzkwV0hJdXRDNzBrSEp2ZUw2UkU5LVJkcWtyc0FXOHZkM1cwanhvaUFFM3g2WjJ6bkdHZmJVbE8zNGFneWF4VzM5VFdWcGNmUWo4VnljNktvSWJ3eE9XaThVZVVPM2NlQlhoUVh4T2E0cnJB?oc=5",
+          "title": "Trump says he won't sign housing bill, which would become law automatically - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JM1ZhaWY5NFhtRy1Od05oZEFXbWJQM0NKS2RJcF84Mmx1V2NxTkhuYWZBbWZkN3M4REhHeHFSbFJvaENzWW9NU0pJNnBQN0xJRzFwWXFNQVozUlVxcUt2SzRqTll4Y0dlQTkxb05Da1BLTF80bHVj0gF8QVVfeXFMTzRuZk80ZS1TdjduUkRHNC1FMEVRYnlqY2tqTEd1Rm9GMU9pcmJhSEFvNGJ4VUNNRjV4aVAyQWgxcGxzS2s1Q2R2aUdLZkRCbHFmS01uNGoxazZBbjZtMGhpS2FkUWdWTWgwRHd4ZnI2aHFLQnc5R1I0c1BGRg?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 07:19:00 GMT"
+          "published": "Fri, 10 Jul 2026 13:24:53 GMT"
         }
       ]
     },
     {
-      "word": "Ceasefire",
+      "word": "Become",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "US and Iran exchange intensifying fire across Mideast, threatening ceasefire deal - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQmZnOENNRXdELTloYWdZVG84OGRxcnFydXg5S1RNYWYyeTVkZGQ3XzkwV0hJdXRDNzBrSEp2ZUw2UkU5LVJkcWtyc0FXOHZkM1cwanhvaUFFM3g2WjJ6bkdHZmJVbE8zNGFneWF4VzM5VFdWcGNmUWo4VnljNktvSWJ3eE9XaThVZVVPM2NlQlhoUVh4T2E0cnJB?oc=5",
+          "title": "Trump says he won't sign housing bill, which would become law automatically - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JM1ZhaWY5NFhtRy1Od05oZEFXbWJQM0NKS2RJcF84Mmx1V2NxTkhuYWZBbWZkN3M4REhHeHFSbFJvaENzWW9NU0pJNnBQN0xJRzFwWXFNQVozUlVxcUt2SzRqTll4Y0dlQTkxb05Da1BLTF80bHVj0gF8QVVfeXFMTzRuZk80ZS1TdjduUkRHNC1FMEVRYnlqY2tqTEd1Rm9GMU9pcmJhSEFvNGJ4VUNNRjV4aVAyQWgxcGxzS2s1Q2R2aUdLZkRCbHFmS01uNGoxazZBbjZtMGhpS2FkUWdWTWgwRHd4ZnI2aHFLQnc5R1I0c1BGRg?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 07:19:00 GMT"
+          "published": "Fri, 10 Jul 2026 13:24:53 GMT"
         }
       ]
     },
     {
-      "word": "Deal",
+      "word": "law",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "US and Iran exchange intensifying fire across Mideast, threatening ceasefire deal - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQmZnOENNRXdELTloYWdZVG84OGRxcnFydXg5S1RNYWYyeTVkZGQ3XzkwV0hJdXRDNzBrSEp2ZUw2UkU5LVJkcWtyc0FXOHZkM1cwanhvaUFFM3g2WjJ6bkdHZmJVbE8zNGFneWF4VzM5VFdWcGNmUWo4VnljNktvSWJ3eE9XaThVZVVPM2NlQlhoUVh4T2E0cnJB?oc=5",
+          "title": "Trump says he won't sign housing bill, which would become law automatically - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JM1ZhaWY5NFhtRy1Od05oZEFXbWJQM0NKS2RJcF84Mmx1V2NxTkhuYWZBbWZkN3M4REhHeHFSbFJvaENzWW9NU0pJNnBQN0xJRzFwWXFNQVozUlVxcUt2SzRqTll4Y0dlQTkxb05Da1BLTF80bHVj0gF8QVVfeXFMTzRuZk80ZS1TdjduUkRHNC1FMEVRYnlqY2tqTEd1Rm9GMU9pcmJhSEFvNGJ4VUNNRjV4aVAyQWgxcGxzS2s1Q2R2aUdLZkRCbHFmS01uNGoxazZBbjZtMGhpS2FkUWdWTWgwRHd4ZnI2aHFLQnc5R1I0c1BGRg?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 07:19:00 GMT"
+          "published": "Fri, 10 Jul 2026 13:24:53 GMT"
         }
       ]
     },
     {
-      "word": "Migrants",
+      "word": "Automatically",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Migrants who saw man killed by ICE in Houston say he did not ram officers - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY3E1TmttRVdXcnQ5Zmg1bV9DMFVoejdSeVlLR0U0RlZMenMwZ0N1dTExeU4ybGtHQVM3QUdPWjljTmdtQ3JEUlFoamUweXF5VW9xU1E1OXc1TC16WGdvSm1iaWx4YlEtUjRGYnlTTi05TnAwU2hJMzRmNEdqLWE0c2VUc2JheGRrV29fc2xINkNIZThabmNpSmhwc1RCR1JCN3preUdSUUVNcEJNbHJxZk9saUFiVW1yd3d6dnFuTzFVaXc?oc=5",
+          "title": "Trump says he won't sign housing bill, which would become law automatically - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JM1ZhaWY5NFhtRy1Od05oZEFXbWJQM0NKS2RJcF84Mmx1V2NxTkhuYWZBbWZkN3M4REhHeHFSbFJvaENzWW9NU0pJNnBQN0xJRzFwWXFNQVozUlVxcUt2SzRqTll4Y0dlQTkxb05Da1BLTF80bHVj0gF8QVVfeXFMTzRuZk80ZS1TdjduUkRHNC1FMEVRYnlqY2tqTEd1Rm9GMU9pcmJhSEFvNGJ4VUNNRjV4aVAyQWgxcGxzS2s1Q2R2aUdLZkRCbHFmS01uNGoxazZBbjZtMGhpS2FkUWdWTWgwRHd4ZnI2aHFLQnc5R1I0c1BGRg?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 08:19:12 GMT"
+          "published": "Fri, 10 Jul 2026 13:24:53 GMT"
         }
       ]
     },
     {
-      "word": "man",
+      "word": "Mexican",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Migrants who saw man killed by ICE in Houston say he did not ram officers - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY3E1TmttRVdXcnQ5Zmg1bV9DMFVoejdSeVlLR0U0RlZMenMwZ0N1dTExeU4ybGtHQVM3QUdPWjljTmdtQ3JEUlFoamUweXF5VW9xU1E1OXc1TC16WGdvSm1iaWx4YlEtUjRGYnlTTi05TnAwU2hJMzRmNEdqLWE0c2VUc2JheGRrV29fc2xINkNIZThabmNpSmhwc1RCR1JCN3preUdSUUVNcEJNbHJxZk9saUFiVW1yd3d6dnFuTzFVaXc?oc=5",
+          "title": "Mexican Man Fatally Shot by ICE Wasn’t the Intended Target - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ydkdFcExVb19uaFllQjR6YVNXS0V1XzhiWWRHeWVIeEpmM2xOM3FxTHl6REZtWE5uY25paDF1RUpreGtFZTEyV1FSbEowaXFEZjVzbUY3b1hqM3BydnpyVWZrNGtsMlJkUGVnNWszaFkwVmp2Z0E5VU1fSFY1Zw?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 08:19:12 GMT"
+          "published": "Fri, 10 Jul 2026 15:21:00 GMT"
         }
       ]
     },
     {
-      "word": "ICE",
+      "word": "Man",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Migrants who saw man killed by ICE in Houston say he did not ram officers - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY3E1TmttRVdXcnQ5Zmg1bV9DMFVoejdSeVlLR0U0RlZMenMwZ0N1dTExeU4ybGtHQVM3QUdPWjljTmdtQ3JEUlFoamUweXF5VW9xU1E1OXc1TC16WGdvSm1iaWx4YlEtUjRGYnlTTi05TnAwU2hJMzRmNEdqLWE0c2VUc2JheGRrV29fc2xINkNIZThabmNpSmhwc1RCR1JCN3preUdSUUVNcEJNbHJxZk9saUFiVW1yd3d6dnFuTzFVaXc?oc=5",
+          "title": "Mexican Man Fatally Shot by ICE Wasn’t the Intended Target - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ydkdFcExVb19uaFllQjR6YVNXS0V1XzhiWWRHeWVIeEpmM2xOM3FxTHl6REZtWE5uY25paDF1RUpreGtFZTEyV1FSbEowaXFEZjVzbUY3b1hqM3BydnpyVWZrNGtsMlJkUGVnNWszaFkwVmp2Z0E5VU1fSFY1Zw?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 08:19:12 GMT"
+          "published": "Fri, 10 Jul 2026 15:21:00 GMT"
         }
       ]
     },
     {
-      "word": "Houston",
+      "word": "Fatally",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Migrants who saw man killed by ICE in Houston say he did not ram officers - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY3E1TmttRVdXcnQ5Zmg1bV9DMFVoejdSeVlLR0U0RlZMenMwZ0N1dTExeU4ybGtHQVM3QUdPWjljTmdtQ3JEUlFoamUweXF5VW9xU1E1OXc1TC16WGdvSm1iaWx4YlEtUjRGYnlTTi05TnAwU2hJMzRmNEdqLWE0c2VUc2JheGRrV29fc2xINkNIZThabmNpSmhwc1RCR1JCN3preUdSUUVNcEJNbHJxZk9saUFiVW1yd3d6dnFuTzFVaXc?oc=5",
+          "title": "Mexican Man Fatally Shot by ICE Wasn’t the Intended Target - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ydkdFcExVb19uaFllQjR6YVNXS0V1XzhiWWRHeWVIeEpmM2xOM3FxTHl6REZtWE5uY25paDF1RUpreGtFZTEyV1FSbEowaXFEZjVzbUY3b1hqM3BydnpyVWZrNGtsMlJkUGVnNWszaFkwVmp2Z0E5VU1fSFY1Zw?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 08:19:12 GMT"
+          "published": "Fri, 10 Jul 2026 15:21:00 GMT"
         }
       ]
     },
     {
-      "word": "ram",
+      "word": "Shot",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Migrants who saw man killed by ICE in Houston say he did not ram officers - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY3E1TmttRVdXcnQ5Zmg1bV9DMFVoejdSeVlLR0U0RlZMenMwZ0N1dTExeU4ybGtHQVM3QUdPWjljTmdtQ3JEUlFoamUweXF5VW9xU1E1OXc1TC16WGdvSm1iaWx4YlEtUjRGYnlTTi05TnAwU2hJMzRmNEdqLWE0c2VUc2JheGRrV29fc2xINkNIZThabmNpSmhwc1RCR1JCN3preUdSUUVNcEJNbHJxZk9saUFiVW1yd3d6dnFuTzFVaXc?oc=5",
+          "title": "Mexican Man Fatally Shot by ICE Wasn’t the Intended Target - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ydkdFcExVb19uaFllQjR6YVNXS0V1XzhiWWRHeWVIeEpmM2xOM3FxTHl6REZtWE5uY25paDF1RUpreGtFZTEyV1FSbEowaXFEZjVzbUY3b1hqM3BydnpyVWZrNGtsMlJkUGVnNWszaFkwVmp2Z0E5VU1fSFY1Zw?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 08:19:12 GMT"
+          "published": "Fri, 10 Jul 2026 15:21:00 GMT"
         }
       ]
     },
     {
-      "word": "Officers",
+      "word": "Intended",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Migrants who saw man killed by ICE in Houston say he did not ram officers - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY3E1TmttRVdXcnQ5Zmg1bV9DMFVoejdSeVlLR0U0RlZMenMwZ0N1dTExeU4ybGtHQVM3QUdPWjljTmdtQ3JEUlFoamUweXF5VW9xU1E1OXc1TC16WGdvSm1iaWx4YlEtUjRGYnlTTi05TnAwU2hJMzRmNEdqLWE0c2VUc2JheGRrV29fc2xINkNIZThabmNpSmhwc1RCR1JCN3preUdSUUVNcEJNbHJxZk9saUFiVW1yd3d6dnFuTzFVaXc?oc=5",
+          "title": "Mexican Man Fatally Shot by ICE Wasn’t the Intended Target - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ydkdFcExVb19uaFllQjR6YVNXS0V1XzhiWWRHeWVIeEpmM2xOM3FxTHl6REZtWE5uY25paDF1RUpreGtFZTEyV1FSbEowaXFEZjVzbUY3b1hqM3BydnpyVWZrNGtsMlJkUGVnNWszaFkwVmp2Z0E5VU1fSFY1Zw?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 08:19:12 GMT"
+          "published": "Fri, 10 Jul 2026 15:21:00 GMT"
         }
       ]
     },
     {
-      "word": "Air",
+      "word": "Target",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "New Air Force One Lacks Defensive Countermeasures of Previous Model, Officials Say - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNGdYMm5nVXRiblRoRV9OYkdFamZYTDR0ZXFEZFROTWI4NkViYzlVVkFWN3FZWUZmbXhBMWtGS2M4ZGZlU0ctQ3BMNVEyZWptdzFrbjF5V1NzNUdoM1hwWURSckU2Vk9vOTVGNDJHZ1RZSnVMY1NCNFdiZi1pNGxYckN0UUNpcHBOcFZiQUF5QkN1U0lWeWVOb1Frcw?oc=5",
+          "title": "Mexican Man Fatally Shot by ICE Wasn’t the Intended Target - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ydkdFcExVb19uaFllQjR6YVNXS0V1XzhiWWRHeWVIeEpmM2xOM3FxTHl6REZtWE5uY25paDF1RUpreGtFZTEyV1FSbEowaXFEZjVzbUY3b1hqM3BydnpyVWZrNGtsMlJkUGVnNWszaFkwVmp2Z0E5VU1fSFY1Zw?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 00:47:57 GMT"
+          "published": "Fri, 10 Jul 2026 15:21:00 GMT"
         }
       ]
     },
     {
-      "word": "Force",
+      "word": "Tehran",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "New Air Force One Lacks Defensive Countermeasures of Previous Model, Officials Say - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNGdYMm5nVXRiblRoRV9OYkdFamZYTDR0ZXFEZFROTWI4NkViYzlVVkFWN3FZWUZmbXhBMWtGS2M4ZGZlU0ctQ3BMNVEyZWptdzFrbjF5V1NzNUdoM1hwWURSckU2Vk9vOTVGNDJHZ1RZSnVMY1NCNFdiZi1pNGxYckN0UUNpcHBOcFZiQUF5QkN1U0lWeWVOb1Frcw?oc=5",
+          "title": "U.S.-Iran Latest: Tehran seeks regional support as mediators push to keep talks going after intense flare-up - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd2FLbExRcUwzLVpNZmVpbGdLVUttNC1uaDFnUmxZS2lleVNqZlI2WDdTOGVvSFc4M0w2dzh4RVdyRlNQWUNnVXRqZWw1WjJDUWdfWmN6TU9XbkNRYVhTX0kzem83cHprdmc4bVRWQThSZDJ3TUVQaE5raDJwMzFMM2FJOTlNQy13UlZPTEJjWVhKdw?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 00:47:57 GMT"
+          "published": "Fri, 10 Jul 2026 13:46:00 GMT"
         }
       ]
     },
     {
-      "word": "Lacks",
+      "word": "Regional",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "New Air Force One Lacks Defensive Countermeasures of Previous Model, Officials Say - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNGdYMm5nVXRiblRoRV9OYkdFamZYTDR0ZXFEZFROTWI4NkViYzlVVkFWN3FZWUZmbXhBMWtGS2M4ZGZlU0ctQ3BMNVEyZWptdzFrbjF5V1NzNUdoM1hwWURSckU2Vk9vOTVGNDJHZ1RZSnVMY1NCNFdiZi1pNGxYckN0UUNpcHBOcFZiQUF5QkN1U0lWeWVOb1Frcw?oc=5",
+          "title": "U.S.-Iran Latest: Tehran seeks regional support as mediators push to keep talks going after intense flare-up - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd2FLbExRcUwzLVpNZmVpbGdLVUttNC1uaDFnUmxZS2lleVNqZlI2WDdTOGVvSFc4M0w2dzh4RVdyRlNQWUNnVXRqZWw1WjJDUWdfWmN6TU9XbkNRYVhTX0kzem83cHprdmc4bVRWQThSZDJ3TUVQaE5raDJwMzFMM2FJOTlNQy13UlZPTEJjWVhKdw?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 00:47:57 GMT"
+          "published": "Fri, 10 Jul 2026 13:46:00 GMT"
         }
       ]
     },
     {
-      "word": "Defensive",
+      "word": "Support",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "New Air Force One Lacks Defensive Countermeasures of Previous Model, Officials Say - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNGdYMm5nVXRiblRoRV9OYkdFamZYTDR0ZXFEZFROTWI4NkViYzlVVkFWN3FZWUZmbXhBMWtGS2M4ZGZlU0ctQ3BMNVEyZWptdzFrbjF5V1NzNUdoM1hwWURSckU2Vk9vOTVGNDJHZ1RZSnVMY1NCNFdiZi1pNGxYckN0UUNpcHBOcFZiQUF5QkN1U0lWeWVOb1Frcw?oc=5",
+          "title": "U.S.-Iran Latest: Tehran seeks regional support as mediators push to keep talks going after intense flare-up - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd2FLbExRcUwzLVpNZmVpbGdLVUttNC1uaDFnUmxZS2lleVNqZlI2WDdTOGVvSFc4M0w2dzh4RVdyRlNQWUNnVXRqZWw1WjJDUWdfWmN6TU9XbkNRYVhTX0kzem83cHprdmc4bVRWQThSZDJ3TUVQaE5raDJwMzFMM2FJOTlNQy13UlZPTEJjWVhKdw?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 00:47:57 GMT"
+          "published": "Fri, 10 Jul 2026 13:46:00 GMT"
         }
       ]
     },
     {
-      "word": "Countermeasures",
+      "word": "Mediators",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "New Air Force One Lacks Defensive Countermeasures of Previous Model, Officials Say - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNGdYMm5nVXRiblRoRV9OYkdFamZYTDR0ZXFEZFROTWI4NkViYzlVVkFWN3FZWUZmbXhBMWtGS2M4ZGZlU0ctQ3BMNVEyZWptdzFrbjF5V1NzNUdoM1hwWURSckU2Vk9vOTVGNDJHZ1RZSnVMY1NCNFdiZi1pNGxYckN0UUNpcHBOcFZiQUF5QkN1U0lWeWVOb1Frcw?oc=5",
+          "title": "U.S.-Iran Latest: Tehran seeks regional support as mediators push to keep talks going after intense flare-up - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd2FLbExRcUwzLVpNZmVpbGdLVUttNC1uaDFnUmxZS2lleVNqZlI2WDdTOGVvSFc4M0w2dzh4RVdyRlNQWUNnVXRqZWw1WjJDUWdfWmN6TU9XbkNRYVhTX0kzem83cHprdmc4bVRWQThSZDJ3TUVQaE5raDJwMzFMM2FJOTlNQy13UlZPTEJjWVhKdw?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 00:47:57 GMT"
+          "published": "Fri, 10 Jul 2026 13:46:00 GMT"
         }
       ]
     },
     {
-      "word": "Previous",
+      "word": "Keep",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "New Air Force One Lacks Defensive Countermeasures of Previous Model, Officials Say - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNGdYMm5nVXRiblRoRV9OYkdFamZYTDR0ZXFEZFROTWI4NkViYzlVVkFWN3FZWUZmbXhBMWtGS2M4ZGZlU0ctQ3BMNVEyZWptdzFrbjF5V1NzNUdoM1hwWURSckU2Vk9vOTVGNDJHZ1RZSnVMY1NCNFdiZi1pNGxYckN0UUNpcHBOcFZiQUF5QkN1U0lWeWVOb1Frcw?oc=5",
+          "title": "U.S.-Iran Latest: Tehran seeks regional support as mediators push to keep talks going after intense flare-up - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd2FLbExRcUwzLVpNZmVpbGdLVUttNC1uaDFnUmxZS2lleVNqZlI2WDdTOGVvSFc4M0w2dzh4RVdyRlNQWUNnVXRqZWw1WjJDUWdfWmN6TU9XbkNRYVhTX0kzem83cHprdmc4bVRWQThSZDJ3TUVQaE5raDJwMzFMM2FJOTlNQy13UlZPTEJjWVhKdw?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 00:47:57 GMT"
+          "published": "Fri, 10 Jul 2026 13:46:00 GMT"
         }
       ]
     },
     {
-      "word": "Officials",
+      "word": "Talks",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "New Air Force One Lacks Defensive Countermeasures of Previous Model, Officials Say - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNGdYMm5nVXRiblRoRV9OYkdFamZYTDR0ZXFEZFROTWI4NkViYzlVVkFWN3FZWUZmbXhBMWtGS2M4ZGZlU0ctQ3BMNVEyZWptdzFrbjF5V1NzNUdoM1hwWURSckU2Vk9vOTVGNDJHZ1RZSnVMY1NCNFdiZi1pNGxYckN0UUNpcHBOcFZiQUF5QkN1U0lWeWVOb1Frcw?oc=5",
+          "title": "U.S.-Iran Latest: Tehran seeks regional support as mediators push to keep talks going after intense flare-up - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd2FLbExRcUwzLVpNZmVpbGdLVUttNC1uaDFnUmxZS2lleVNqZlI2WDdTOGVvSFc4M0w2dzh4RVdyRlNQWUNnVXRqZWw1WjJDUWdfWmN6TU9XbkNRYVhTX0kzem83cHprdmc4bVRWQThSZDJ3TUVQaE5raDJwMzFMM2FJOTlNQy13UlZPTEJjWVhKdw?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 00:47:57 GMT"
+          "published": "Fri, 10 Jul 2026 13:46:00 GMT"
         }
       ]
     },
     {
-      "word": "Platner",
+      "word": "Going",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "It’s not me, it’s them: Platner goes down snarling with graceless exit video - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTWpaOWpyQ0RIOTlmQ25GQllUS2pPNzVBYlVxNGxKa0RLNUhDVjRES1FUWXJtWG53UGdNTi1WMTM1RWF4UnRQbTdvQXlWNlhGekRrdndQWGhXd1E2ZmFjeVlLYmlvbTMwTUlBUzBDbkNpTjRNal9hZVlRTnhmMWVqbGZRaVl3djA2aGFpazZR?oc=5",
+          "title": "U.S.-Iran Latest: Tehran seeks regional support as mediators push to keep talks going after intense flare-up - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd2FLbExRcUwzLVpNZmVpbGdLVUttNC1uaDFnUmxZS2lleVNqZlI2WDdTOGVvSFc4M0w2dzh4RVdyRlNQWUNnVXRqZWw1WjJDUWdfWmN6TU9XbkNRYVhTX0kzem83cHprdmc4bVRWQThSZDJ3TUVQaE5raDJwMzFMM2FJOTlNQy13UlZPTEJjWVhKdw?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 10:00:00 GMT"
+          "published": "Fri, 10 Jul 2026 13:46:00 GMT"
         }
       ]
     },
     {
-      "word": "Snarling",
+      "word": "Intense",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "It’s not me, it’s them: Platner goes down snarling with graceless exit video - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTWpaOWpyQ0RIOTlmQ25GQllUS2pPNzVBYlVxNGxKa0RLNUhDVjRES1FUWXJtWG53UGdNTi1WMTM1RWF4UnRQbTdvQXlWNlhGekRrdndQWGhXd1E2ZmFjeVlLYmlvbTMwTUlBUzBDbkNpTjRNal9hZVlRTnhmMWVqbGZRaVl3djA2aGFpazZR?oc=5",
+          "title": "U.S.-Iran Latest: Tehran seeks regional support as mediators push to keep talks going after intense flare-up - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd2FLbExRcUwzLVpNZmVpbGdLVUttNC1uaDFnUmxZS2lleVNqZlI2WDdTOGVvSFc4M0w2dzh4RVdyRlNQWUNnVXRqZWw1WjJDUWdfWmN6TU9XbkNRYVhTX0kzem83cHprdmc4bVRWQThSZDJ3TUVQaE5raDJwMzFMM2FJOTlNQy13UlZPTEJjWVhKdw?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 10:00:00 GMT"
+          "published": "Fri, 10 Jul 2026 13:46:00 GMT"
         }
       ]
     },
     {
-      "word": "Graceless",
+      "word": "Flare",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "It’s not me, it’s them: Platner goes down snarling with graceless exit video - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTWpaOWpyQ0RIOTlmQ25GQllUS2pPNzVBYlVxNGxKa0RLNUhDVjRES1FUWXJtWG53UGdNTi1WMTM1RWF4UnRQbTdvQXlWNlhGekRrdndQWGhXd1E2ZmFjeVlLYmlvbTMwTUlBUzBDbkNpTjRNal9hZVlRTnhmMWVqbGZRaVl3djA2aGFpazZR?oc=5",
+          "title": "U.S.-Iran Latest: Tehran seeks regional support as mediators push to keep talks going after intense flare-up - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd2FLbExRcUwzLVpNZmVpbGdLVUttNC1uaDFnUmxZS2lleVNqZlI2WDdTOGVvSFc4M0w2dzh4RVdyRlNQWUNnVXRqZWw1WjJDUWdfWmN6TU9XbkNRYVhTX0kzem83cHprdmc4bVRWQThSZDJ3TUVQaE5raDJwMzFMM2FJOTlNQy13UlZPTEJjWVhKdw?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 10:00:00 GMT"
+          "published": "Fri, 10 Jul 2026 13:46:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Supreme",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Iran’s supreme leader buried after a dayslong funeral that drew millions - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWEZ3eDF0MmdRbEhBNWttU0ZzWl9GQ2hMcUhmWVV1MGZfX1hhemlvb3dsYVhrMDd4QUhUZGRzSGtjOURqSHJfYVl6YXE4RngxLU5jUFdDbTlRUEpYeEZmVW5fT1N4b3Y1QmtiVHZsdHNtaDVCMWROUmdyS1dzV1RvT0FqWHRKUjNvN3hnWWt2M3pPNUV1TFN4VHNiSmhGYl9uVGJiWjV5VQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 09 Jul 2026 23:28:20 GMT"
         }
       ]
     }

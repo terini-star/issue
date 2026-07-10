@@ -1,81 +1,100 @@
 {
   "language": "ko",
-  "last_updated": 1783685066.6499789,
+  "last_updated": 1783697755.931696,
   "count": 40,
   "trends": [
-    {
-      "word": "대통령",
-      "count": 3,
-      "category": "PERSON",
-      "articles": [
-        {
-          "title": "이 대통령, 몽골 대통령에게 국궁 세트·스마트워치 선물 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuWFdUc0JENGlvTnlaRzdabVBGckIwbzh3ZlpOUXlub080aWlPTUczajY5NUZiUzlYcmR2UGpTN3hHWm9nTzNUeWY2bFRjS2RMQ0cySDVHN3ZlSDIyTmhiYndQVk5MQ1hlLXB3?oc=5",
-          "source": "Google News",
-          "published": "Fri, 10 Jul 2026 10:23:00 GMT"
-        },
-        {
-          "title": "李대통령, 23일 부동산 공개토론회 주재…보유세 개편안 이달 말 발표(종합2보) - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11MmlmZUF4TjZuQlhackFqVWpRRzVPY0dLVUNZeEJwbzBFUkZoUUVtb1RvYkZ4NTdnVTU0Wm05aWdkLXFJV1JqMEsyNElScVRKWDlPNTNKSk9Nck1reUhWU2ZWblhqVm9sbWRqSnVraDU?oc=5",
-          "source": "Google News",
-          "published": "Fri, 10 Jul 2026 02:15:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "분노",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“지역화폐 성과급? 국회의원부터 받아라” 분노에 박민규, 법안 결국 철회 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOcEdrYU9PbG14S2t4U1lYcmhWbkh1emtmRHVXTzZoLXhZdnBZSFB2alIzNVhmNmdTMElLeDZUeGxOZWhGOUtZVW40di0wVWF5N29FZ0c5cnB2NVZlNjVDSXhXVWlXc2J3bThyakVQMm1JMDJu?oc=5",
-          "source": "Google News",
-          "published": "Fri, 10 Jul 2026 11:12:00 GMT"
-        },
-        {
-          "title": "이란 아이도 “트럼프 죽이겠다”…하메네이 장례 끝나자 더 커진 분노 [포토] - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8tWnBtV1N0ckEyQmR4ODhCOEU1WkVCTHJFMlFSUmVYNDFBMGFxd0lrMnJ3UFl1U1ZaQnhGd3pOcGZhbDhLV0MtV0JzcTZodGNTblZpZGtNMjRwQ21HenlGdzJrTm9EVnBWemZGNVhvV1Z6UlE?oc=5",
-          "source": "Google News",
-          "published": "Fri, 10 Jul 2026 07:11:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "철회",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“지역화폐 성과급? 국회의원부터 받아라” 분노에 박민규, 법안 결국 철회 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOcEdrYU9PbG14S2t4U1lYcmhWbkh1emtmRHVXTzZoLXhZdnBZSFB2alIzNVhmNmdTMElLeDZUeGxOZWhGOUtZVW40di0wVWF5N29FZ0c5cnB2NVZlNjVDSXhXVWlXc2J3bThyakVQMm1JMDJu?oc=5",
-          "source": "Google News",
-          "published": "Fri, 10 Jul 2026 11:12:00 GMT"
-        },
-        {
-          "title": "손흥민·황희찬 국회 안 부른다…임오경, 축협 청문회 참고인 신청 철회 - 주간조선",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CWTMyNGg0VV8xazhkUXI5XzdSYjc3R2psRDlKenF1Y2hROXNwSFVRUHAyUXZucUhJSlRnLU5ZckJaT2hrV2xPZ2hDUWlaaEhmMERiQWw4bGJNYndJM2c5VHRMYXZ0ODdrUGlV0gFuQVVfeXFMTk5neEZ5akxodk5pVkdCdTFROWxUQ3J4UzBNQXdPY1dXSDd6UmNZVlpUQ0dtdmlBcnJEOTNNVHc0UFA0OS1aaFdCWGlpSTVKRWRIeVhsa3Y3Um5FbmJmM2gwYVRRaTd6WEdNMmhYeVE?oc=5",
-          "source": "Google News",
-          "published": "Fri, 10 Jul 2026 09:55:00 GMT"
-        }
-      ]
-    },
     {
       "word": "신청",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[단독] 배재고, 오늘 ‘6개월 출전정지’ 효력정지 가처분 신청한다 - 한겨레",
+          "title": "[단독] 배재고, 오늘 ‘6개월 출전정지’ 효력정지 가처분 신청 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YSFB6TVVVUDByX3hrdk5tQmlwbVQ1Q1VzYkFaM183aEtNTDFaX0tkSUZlNERGTDUwVDRYcG1HbVlmclNoeDF3NzBSaEYtLUctU0VMOXNtQkNESHYyWWt2ZkFOTTVUQlU2S3c?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 07:09:00 GMT"
+          "published": "Fri, 10 Jul 2026 11:10:00 GMT"
         },
         {
-          "title": "손흥민·황희찬 국회 안 부른다…임오경, 축협 청문회 참고인 신청 철회 - 주간조선",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CWTMyNGg0VV8xazhkUXI5XzdSYjc3R2psRDlKenF1Y2hROXNwSFVRUHAyUXZucUhJSlRnLU5ZckJaT2hrV2xPZ2hDUWlaaEhmMERiQWw4bGJNYndJM2c5VHRMYXZ0ODdrUGlV0gFuQVVfeXFMTk5neEZ5akxodk5pVkdCdTFROWxUQ3J4UzBNQXdPY1dXSDd6UmNZVlpUQ0dtdmlBcnJEOTNNVHc0UFA0OS1aaFdCWGlpSTVKRWRIeVhsa3Y3Um5FbmJmM2gwYVRRaTd6WEdNMmhYeVE?oc=5",
+          "title": "임오경 “손흥민·황희찬 청문회 참고인 신청 철회”…야권 “정치쇼 전락” “협회 무능 덮나” 비판 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SMXlFNmtlSDI2NHE3RmtBYWdhZDNmbkJtalZ0TERnOXBObVVzUFY2MlhMYlJkenY0RHBHSlZYWFAtb1lKbUU5N04tM19JMWNYc3VIMTVBZ2lKd2NKZUFnVjhpbEpodw?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 09:55:00 GMT"
+          "published": "Fri, 10 Jul 2026 12:15:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "반도체",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "반도체 산단 관련 토지거래허가구역 14일부터 2년간 적용 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lZE1mU1NHVWJIQ1RHd1U5Y1NJRVppTy1Ea3RkUWlNRVRVelhLbG10Xy0zbktuVnFhT0ROZ0NqWUpPTnVkanJRRmVDRnlnc0Rna05hMU0yR3NfcFMya2Vwa21SOExTQQ?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 10:56:00 GMT"
+        },
+        {
+          "title": "[속보]중국, 반도체 생산 핵심 소재 ‘헬륨’ 수출 일시 금지···“후속조치 발표 예정” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlRkZhdzN5Yk13LVc2QldFa3BycXJKaUVsenBKQzFhM0s4U3NXT1RzcWx1UkZMQnF4N3M2WG9aVzJ1ZDFBWkZJaDgxSk81TWZqSHdKUXJieVVoUdIBX0FVX3lxTE9QeFYwejIwUVA5ek5qVGJBMVJaT3V6SzNwbmpiejRIRTZVMlF3VEdzcnpuVG9rRzU3OFdIRUdTbXdMVkZyMzQ1VnEyN0NOblpQVm5lNS15WnBEb2RjUjJJ?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 09:25:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "14일",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "반도체 산단 관련 토지거래허가구역 14일부터 2년간 적용 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lZE1mU1NHVWJIQ1RHd1U5Y1NJRVppTy1Ea3RkUWlNRVRVelhLbG10Xy0zbktuVnFhT0ROZ0NqWUpPTnVkanJRRmVDRnlnc0Rna05hMU0yR3NfcFMya2Vwa21SOExTQQ?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 10:56:00 GMT"
+        },
+        {
+          "title": "GTA 온라인, 7월 14일 ‘코르츠 센터 습격’ 출시…명작을 훔쳐 맨션에 전시한다 - 뉴스탭",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ySFFuQzAyanczVEpSSXBIOWdJWGNLeEdvRnp1SFlLdlNmYUdkMGVLZnZycUlLSjBZd1pabllZaVk2WWh3Q0ZHX3ZUWU0yM05pZXFQOXJXc1o3QUFNc1pHN0VnNHd1aFF0VjNwRA?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 11:31:38 GMT"
+        }
+      ]
+    },
+    {
+      "word": "경찰",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘성조기 여성’ 경찰 출석…태극기 셔츠 입고 목에는 십자가 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtVnVEU2d6T2dLd3VVdFpuUmJ2b1pkSEZxandUaGVjQjFtNm5jNDlCdnFOdFIyb2F0RkdhcDBRY1BsblRxM1gxYk9xQXNoRmVLdE5zOXhMWUg0NzZWSXNKdWpYU0R1NEFGdHVRY1E2NmhGZw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 11:11:00 GMT"
+        },
+        {
+          "title": "경찰, '매니저 갑질 의혹' 방송인 박나래 검찰 송치 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VS2R0Y2xrZmJ3WThnUl94eVg1RTVBc1RVczBCV3lOdnlVcDlmb1Btb0drQVYwSFhLb2xwREp0dmlBa2xQcGVwMHhTcHJrTWExUWxwZVM0dGVJd2vSAWBBVV95cUxPMHl2Nm1KakZGX2t1SE4wMWcxeV84d3AzSlY5NlYwZ2tXMUxXUUdTamN4VWxhZ1VxamhKS1RtYkNzVTQtb0lOdXhSbENHTUxCLWpkVS1PZ0ZJN1FGM3lVWXA?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 10:48:29 GMT"
+        }
+      ]
+    },
+    {
+      "word": "검찰",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[단독] 검찰, ’장윤기 수사’ 형사과장도 입건…공무상 비밀누설 등 혐의 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01NDJGUUN1ZUdEdjA2TGthbWhVTHREd043SnAwc3phWDVPVzBoM0RUN0tzYmIyQzA2SFQ4VE9LbGVtUW5XTjlFbFY2d3V6QVJKSjFlaGhNUnVSUkhmTEFFUTcyMGNubWs?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 10:06:00 GMT"
+        },
+        {
+          "title": "경찰, '매니저 갑질 의혹' 방송인 박나래 검찰 송치 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VS2R0Y2xrZmJ3WThnUl94eVg1RTVBc1RVczBCV3lOdnlVcDlmb1Btb0drQVYwSFhLb2xwREp0dmlBa2xQcGVwMHhTcHJrTWExUWxwZVM0dGVJd2vSAWBBVV95cUxPMHl2Nm1KakZGX2t1SE4wMWcxeV84d3AzSlY5NlYwZ2tXMUxXUUdTamN4VWxhZ1VxamhKS1RtYkNzVTQtb0lOdXhSbENHTUxCLWpkVS1PZ0ZJN1FGM3lVWXA?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 10:48:29 GMT"
         }
       ]
     },
@@ -85,10 +104,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"이스라엘, 미국에 '이란이 트럼프 암살 계획' 첩보 전달\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXeW0zYWNWeW1BMDZPRGd1MlMzUTFoQ1NUb1FxZklDUnl5eW1Td0JKb214TXhRQllPWnU1d1YtVmplWERnSUJzRzU4d3BvUlZtWndQMUhwWWZMV3hGVE9SdnQ0WGEtUWpWVDNpM0hja1NOa1g00gF0QVVfeXFMTmx0bE4wMmMyQ3hmMjhJUUtOdGxhUWROZkRtSUhFV3FJV09MTHZfeHZYVFVHOWxadERPZGw1cnEzN3NqQjlIZDMzQkpLa3hsRzVXSE5JLVp2UlVuX2pKcHNmVWIyOURqWGxILVhkd2c2TmtzVEM?oc=5",
+          "title": "\"카타르 협상단, 미국·이란 긴장 완화 위해 이란 방문\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43VktrTWFxczQzYXVRaWVTZkVGWGtRTW5fRGo3eHVRcDAyUUQybXp1LTFhWkdPZ2JDejdVbU9FUVhyeTZfZWN4dDlRWDZONTFvaFYyVl9UNmpPd1U3N2RwX3Q2ejA3MHpEcDM2QllmSldRRGxo0gF0QVVfeXFMTTNuR2ozYXh4UHdRM0hlM19WcDhVdF9XeDhRTzhWZWZUNFlKUHNOSEhIbi1jYXdxWGlJcDBXM2FEa2ZFV21ER3hkRVpaUFpSRWFweEZDSlRXN3ZLdEd2ZkFFMWItQ3B4NGxvNDVpNWFwQWhVTUs?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 00:24:43 GMT"
+          "published": "Fri, 10 Jul 2026 13:31:28 GMT"
         },
         {
           "title": "이란 아이도 “트럼프 죽이겠다”…하메네이 장례 끝나자 더 커진 분노 [포토] - 한겨레",
@@ -104,10 +123,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"이스라엘, 미국에 '이란이 트럼프 암살 계획' 첩보 전달\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXeW0zYWNWeW1BMDZPRGd1MlMzUTFoQ1NUb1FxZklDUnl5eW1Td0JKb214TXhRQllPWnU1d1YtVmplWERnSUJzRzU4d3BvUlZtWndQMUhwWWZMV3hGVE9SdnQ0WGEtUWpWVDNpM0hja1NOa1g00gF0QVVfeXFMTmx0bE4wMmMyQ3hmMjhJUUtOdGxhUWROZkRtSUhFV3FJV09MTHZfeHZYVFVHOWxadERPZGw1cnEzN3NqQjlIZDMzQkpLa3hsRzVXSE5JLVp2UlVuX2pKcHNmVWIyOURqWGxILVhkd2c2TmtzVEM?oc=5",
+          "title": "“이스라엘, 美에 ’트럼프 암살 계획’ 첩보 전달“ - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTdWRVZ3NDUWhsUnNjY3JoRkQzeWFJaGdrcnV0Ny0tend2YWZmQzVJb3gwak40bkZlZ2poU3Z0UXoxVGJua0g1Z2h2Skk2bjBfYW5kUzdoNS1QRVhCMEptUzIyUjFRSUk?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 00:24:43 GMT"
+          "published": "Fri, 10 Jul 2026 11:39:00 GMT"
         },
         {
           "title": "이란 아이도 “트럼프 죽이겠다”…하메네이 장례 끝나자 더 커진 분노 [포토] - 한겨레",
@@ -118,98 +137,203 @@
       ]
     },
     {
-      "word": "게임",
+      "word": "만에",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "엔비디아, 최신 게임 3종에 DLSS 확대 적용…'둠' 확장팩 최대 500FPS 지원 - 티뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGem9NMVE3aEZhLTVtVXVDQzFZaXJUM0I4WnJ6YVRpRmpSajVhd21aTlE4N3VDU1d5bzAtYnlyN3V2andreXdleXF6R1pUNDJSWlBaSmhtS1lzSFRCdFNEeUpiVWg?oc=5",
+          "title": "아이유·이종석 4년 만에 결별…“좋은 동료 사이로 남기로” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlclBEa29DSlRpemNTamxVbzFaVVRYWjNEREY0M01UcFlBQ1FUdDNSWUdIV0F4MWQzcHdMOTJCOXI5V0l6SlhlQi1XMGxhVXVYUE5oOVVmSlNQQ3dRd1Z0enRJdGNQMUl6VUkza1RLeUR3QQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 02:38:22 GMT"
+          "published": "Fri, 10 Jul 2026 13:09:00 GMT"
         },
         {
-          "title": "[칼럼] 구매한 게임은 누구의 것인가, 서비스 종료 시대의 소유권 전쟁 - 게임뷰",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hWFVueGtTRjJRWUJsMnd0TlM3by1ucHVZZnltc055YTk2Mkl5RTNnb3QxbzYxdjRSWl9lelVYN2JuVDJJV2VaVDlpd3h6RWdkZXRkNkZURTItTk9hTUFUREkxU2NGcVp5THc?oc=5",
+          "title": "유재석X장항준X윤종신에 이효리까지…6년 만에 돌아온 '해피투게더' 첫 방송 - 조선비즈 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUmE3dG4zaWdpc3BuSkNiT2QzLUlxTHVhNGMzTURScE0tTTdfMllxYzFaUVlHUTI2SDhOa0xkaVV2dnJhVkJrQld0SUFLVmtrTExoMWstWUloc0tWeThqMEtPclRoZW11SlVmY1dwdEdScmRSZkhrSWh0MzByUGhQRDh6NUrSAZgBQVVfeXFMUFh2c3VhSFd1Mk5XY3FqRzlzWWdoNDNqUTNBaDh5REZjQkVVWmRUWFNZa011TDFJWFN4c04tLV9ETy1LQmRQTm5qSXhOaGluSmQxWjY1ZUs5dGpwYjJaMkR4aXZubHoyWFBtR1pSdDgyLVU0SVExV00ydjhqT0JQNmg1S0JEMDQ3RWF6b0p6dXJmNE15Z1dVcGM?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 02:45:00 GMT"
+          "published": "Fri, 10 Jul 2026 06:51:00 GMT"
         }
       ]
     },
     {
-      "word": "시대",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[칼럼] 구매한 게임은 누구의 것인가, 서비스 종료 시대의 소유권 전쟁 - 게임뷰",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hWFVueGtTRjJRWUJsMnd0TlM3by1ucHVZZnltc055YTk2Mkl5RTNnb3QxbzYxdjRSWl9lelVYN2JuVDJJV2VaVDlpd3h6RWdkZXRkNkZURTItTk9hTUFUREkxU2NGcVp5THc?oc=5",
-          "source": "Google News",
-          "published": "Fri, 10 Jul 2026 02:45:00 GMT"
-        },
-        {
-          "title": "‘웰에이징 시대’, 하루 우유 180g 섭취 시 뇌졸중·의료비 감소…일본 연구서 예방 효과 분석 - 이코노미스트",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzZFNia0ZUbEJEUkVmN1pKdGMzZkc2SWFlNjJpSHdpSWZ4NmNHVGdwckVsRjJhWTBYSWd2QU1jOG1nUjU4VExkVnNKTW5OcGVKT2stTzlfTWdLZGRYM2NpNUVR?oc=5",
-          "source": "Google News",
-          "published": "Fri, 10 Jul 2026 01:43:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "동기",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[SBS 런닝맨] 유재석 \"동기는 하나다!\" 군기반장 변신! '동기' 송은이X조혜련 출격 - 시사일보",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBsNWgtcUNueGNBQnJncDBlNWRVRmRUbmZfY0lablNnZm5jaXNvb3FMM3M1UGtzZ2lDYzJnd0hwVmhfWjFhM2lyRWtQUFc?oc=5",
-          "source": "Google News",
-          "published": "Fri, 10 Jul 2026 08:35:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "올스타전",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "'거제 야호' 춤춘 엄준현…퓨처스 올스타전 베스트퍼포먼스 수상 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TRU5fOFFTckh3Zy1hdXNwUTNzYW03ZGRaYURvOTlYeUhfMmxfQnk2b0xxaWI5anZ3eEI1RV80ZzZNeXlLbHJkUTBtT2h1ZW4xVUZ1cTA4ZkpUS1XSAWBBVV95cUxONVZTYmxzanZ1Uk9ibzRfc3lKVWxxSzB1N0VDZW9aSThDTk12ekhYOVZuMkNrc3NFR2hua1hFTk1EN1h3ZTlBRzdjSFpEa3VaR1BFX2JNTWkxWF9aXzlnQTM?oc=5",
-          "source": "Google News",
-          "published": "Fri, 10 Jul 2026 11:38:57 GMT"
-        },
-        {
-          "title": "이제 정말 마지막…잠실 마지막 KBO 올스타전 일정·선수 총정리 - 위키트리",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yME4xcF93dGhtdUhjSmE1RW9manp3WmVKQXFCbVVKQ3E1dldUcWVEejVWQmZMX2VoWHZHOTlBU1gwNnFGTUQxWjlNbWhGTzFBVEJaNVF3?oc=5",
-          "source": "Google News",
-          "published": "Fri, 10 Jul 2026 05:48:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "선호투표제",
+      "word": "계엄",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "선호투표제 두고 민주당 내홍 격화…친청계 다수 최고위, 오늘 저녁 결선투표 결론 낼까 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XbU9RVVNRZFhUek5xMTZsTkhhcmpudUVRR3Bwem9aWFZUbjdfVlk4c1JJM2RrM1hETktDU2paX2xnLURPSzdVeUE4RTJYa2dnZmZyOEppcURsUdIBX0FVX3lxTE9mOTBNMENBVFBiS3J1RzJ1ZDZ6TDZoTEVuRGQwMmxOUnlUWXBvOXdwSU5SZHRyVUFiX2VGRTlWWTBvNUpSTHhoekR0bEljZXVLWjZpdEFOOWNQaHlHSVd3?oc=5",
+          "title": "[속보] ‘계엄 정당화’ 김태효 전 안보실 1차장 구속…종합특검 연장 추진 탄력 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qOVNVb29tX2FJdHFKOEJ6V1VNU2dGUWY3ZlJtWnpPNmVMZV9pNTVuN2xBMVBIZklVVklvd0ZqN3djdVVEN2FNNjYySGZoYnp2bFBacEZLajRWQdIBX0FVX3lxTE5ENmliZUJlY2sxeWpsaDdpVkhOcXJnbmpCQWZtc3BrM2ZLSmF3dEdQbkh5VmI1cDh6QTdMSFpVb19pTUdsZHRGSU9GOUhHZXVuR213eXNWVDNiVzZOTkVr?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 07:37:00 GMT"
+          "published": "Fri, 10 Jul 2026 14:01:00 GMT"
         }
       ]
     },
     {
-      "word": "두고",
+      "word": "정당",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "선호투표제 두고 민주당 내홍 격화…친청계 다수 최고위, 오늘 저녁 결선투표 결론 낼까 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XbU9RVVNRZFhUek5xMTZsTkhhcmpudUVRR3Bwem9aWFZUbjdfVlk4c1JJM2RrM1hETktDU2paX2xnLURPSzdVeUE4RTJYa2dnZmZyOEppcURsUdIBX0FVX3lxTE9mOTBNMENBVFBiS3J1RzJ1ZDZ6TDZoTEVuRGQwMmxOUnlUWXBvOXdwSU5SZHRyVUFiX2VGRTlWWTBvNUpSTHhoekR0bEljZXVLWjZpdEFOOWNQaHlHSVd3?oc=5",
+          "title": "[속보] ‘계엄 정당화’ 김태효 전 안보실 1차장 구속…종합특검 연장 추진 탄력 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qOVNVb29tX2FJdHFKOEJ6V1VNU2dGUWY3ZlJtWnpPNmVMZV9pNTVuN2xBMVBIZklVVklvd0ZqN3djdVVEN2FNNjYySGZoYnp2bFBacEZLajRWQdIBX0FVX3lxTE5ENmliZUJlY2sxeWpsaDdpVkhOcXJnbmpCQWZtc3BrM2ZLSmF3dEdQbkh5VmI1cDh6QTdMSFpVb19pTUdsZHRGSU9GOUhHZXVuR213eXNWVDNiVzZOTkVr?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 07:37:00 GMT"
+          "published": "Fri, 10 Jul 2026 14:01:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "김태효",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보] ‘계엄 정당화’ 김태효 전 안보실 1차장 구속…종합특검 연장 추진 탄력 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qOVNVb29tX2FJdHFKOEJ6V1VNU2dGUWY3ZlJtWnpPNmVMZV9pNTVuN2xBMVBIZklVVklvd0ZqN3djdVVEN2FNNjYySGZoYnp2bFBacEZLajRWQdIBX0FVX3lxTE5ENmliZUJlY2sxeWpsaDdpVkhOcXJnbmpCQWZtc3BrM2ZLSmF3dEdQbkh5VmI1cDh6QTdMSFpVb19pTUdsZHRGSU9GOUhHZXVuR213eXNWVDNiVzZOTkVr?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 14:01:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "안보실",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보] ‘계엄 정당화’ 김태효 전 안보실 1차장 구속…종합특검 연장 추진 탄력 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qOVNVb29tX2FJdHFKOEJ6V1VNU2dGUWY3ZlJtWnpPNmVMZV9pNTVuN2xBMVBIZklVVklvd0ZqN3djdVVEN2FNNjYySGZoYnp2bFBacEZLajRWQdIBX0FVX3lxTE5ENmliZUJlY2sxeWpsaDdpVkhOcXJnbmpCQWZtc3BrM2ZLSmF3dEdQbkh5VmI1cDh6QTdMSFpVb19pTUdsZHRGSU9GOUhHZXVuR213eXNWVDNiVzZOTkVr?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 14:01:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "1차장",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보] ‘계엄 정당화’ 김태효 전 안보실 1차장 구속…종합특검 연장 추진 탄력 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qOVNVb29tX2FJdHFKOEJ6V1VNU2dGUWY3ZlJtWnpPNmVMZV9pNTVuN2xBMVBIZklVVklvd0ZqN3djdVVEN2FNNjYySGZoYnp2bFBacEZLajRWQdIBX0FVX3lxTE5ENmliZUJlY2sxeWpsaDdpVkhOcXJnbmpCQWZtc3BrM2ZLSmF3dEdQbkh5VmI1cDh6QTdMSFpVb19pTUdsZHRGSU9GOUhHZXVuR213eXNWVDNiVzZOTkVr?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 14:01:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "구속종합특검",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보] ‘계엄 정당화’ 김태효 전 안보실 1차장 구속…종합특검 연장 추진 탄력 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qOVNVb29tX2FJdHFKOEJ6V1VNU2dGUWY3ZlJtWnpPNmVMZV9pNTVuN2xBMVBIZklVVklvd0ZqN3djdVVEN2FNNjYySGZoYnp2bFBacEZLajRWQdIBX0FVX3lxTE5ENmliZUJlY2sxeWpsaDdpVkhOcXJnbmpCQWZtc3BrM2ZLSmF3dEdQbkh5VmI1cDh6QTdMSFpVb19pTUdsZHRGSU9GOUhHZXVuR213eXNWVDNiVzZOTkVr?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 14:01:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "연장",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보] ‘계엄 정당화’ 김태효 전 안보실 1차장 구속…종합특검 연장 추진 탄력 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qOVNVb29tX2FJdHFKOEJ6V1VNU2dGUWY3ZlJtWnpPNmVMZV9pNTVuN2xBMVBIZklVVklvd0ZqN3djdVVEN2FNNjYySGZoYnp2bFBacEZLajRWQdIBX0FVX3lxTE5ENmliZUJlY2sxeWpsaDdpVkhOcXJnbmpCQWZtc3BrM2ZLSmF3dEdQbkh5VmI1cDh6QTdMSFpVb19pTUdsZHRGSU9GOUhHZXVuR213eXNWVDNiVzZOTkVr?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 14:01:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "추진",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보] ‘계엄 정당화’ 김태효 전 안보실 1차장 구속…종합특검 연장 추진 탄력 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qOVNVb29tX2FJdHFKOEJ6V1VNU2dGUWY3ZlJtWnpPNmVMZV9pNTVuN2xBMVBIZklVVklvd0ZqN3djdVVEN2FNNjYySGZoYnp2bFBacEZLajRWQdIBX0FVX3lxTE5ENmliZUJlY2sxeWpsaDdpVkhOcXJnbmpCQWZtc3BrM2ZLSmF3dEdQbkh5VmI1cDh6QTdMSFpVb19pTUdsZHRGSU9GOUhHZXVuR213eXNWVDNiVzZOTkVr?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 14:01:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "탄력",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보] ‘계엄 정당화’ 김태효 전 안보실 1차장 구속…종합특검 연장 추진 탄력 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qOVNVb29tX2FJdHFKOEJ6V1VNU2dGUWY3ZlJtWnpPNmVMZV9pNTVuN2xBMVBIZklVVklvd0ZqN3djdVVEN2FNNjYySGZoYnp2bFBacEZLajRWQdIBX0FVX3lxTE5ENmliZUJlY2sxeWpsaDdpVkhOcXJnbmpCQWZtc3BrM2ZLSmF3dEdQbkh5VmI1cDh6QTdMSFpVb19pTUdsZHRGSU9GOUhHZXVuR213eXNWVDNiVzZOTkVr?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 14:01:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "배재",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[단독] 배재고, 오늘 ‘6개월 출전정지’ 효력정지 가처분 신청 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YSFB6TVVVUDByX3hrdk5tQmlwbVQ1Q1VzYkFaM183aEtNTDFaX0tkSUZlNERGTDUwVDRYcG1HbVlmclNoeDF3NzBSaEYtLUctU0VMOXNtQkNESHYyWWt2ZkFOTTVUQlU2S3c?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 11:10:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "6개월",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[단독] 배재고, 오늘 ‘6개월 출전정지’ 효력정지 가처분 신청 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YSFB6TVVVUDByX3hrdk5tQmlwbVQ1Q1VzYkFaM183aEtNTDFaX0tkSUZlNERGTDUwVDRYcG1HbVlmclNoeDF3NzBSaEYtLUctU0VMOXNtQkNESHYyWWt2ZkFOTTVUQlU2S3c?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 11:10:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "출전정지",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[단독] 배재고, 오늘 ‘6개월 출전정지’ 효력정지 가처분 신청 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YSFB6TVVVUDByX3hrdk5tQmlwbVQ1Q1VzYkFaM183aEtNTDFaX0tkSUZlNERGTDUwVDRYcG1HbVlmclNoeDF3NzBSaEYtLUctU0VMOXNtQkNESHYyWWt2ZkFOTTVUQlU2S3c?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 11:10:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "효력정지",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[단독] 배재고, 오늘 ‘6개월 출전정지’ 효력정지 가처분 신청 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YSFB6TVVVUDByX3hrdk5tQmlwbVQ1Q1VzYkFaM183aEtNTDFaX0tkSUZlNERGTDUwVDRYcG1HbVlmclNoeDF3NzBSaEYtLUctU0VMOXNtQkNESHYyWWt2ZkFOTTVUQlU2S3c?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 11:10:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "가처분",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[단독] 배재고, 오늘 ‘6개월 출전정지’ 효력정지 가처분 신청 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YSFB6TVVVUDByX3hrdk5tQmlwbVQ1Q1VzYkFaM183aEtNTDFaX0tkSUZlNERGTDUwVDRYcG1HbVlmclNoeDF3NzBSaEYtLUctU0VMOXNtQkNESHYyWWt2ZkFOTTVUQlU2S3c?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 11:10:00 GMT"
         }
       ]
     },
@@ -219,49 +343,49 @@
       "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "선호투표제 두고 민주당 내홍 격화…친청계 다수 최고위, 오늘 저녁 결선투표 결론 낼까 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XbU9RVVNRZFhUek5xMTZsTkhhcmpudUVRR3Bwem9aWFZUbjdfVlk4c1JJM2RrM1hETktDU2paX2xnLURPSzdVeUE4RTJYa2dnZmZyOEppcURsUdIBX0FVX3lxTE9mOTBNMENBVFBiS3J1RzJ1ZDZ6TDZoTEVuRGQwMmxOUnlUWXBvOXdwSU5SZHRyVUFiX2VGRTlWWTBvNUpSTHhoekR0bEljZXVLWjZpdEFOOWNQaHlHSVd3?oc=5",
+          "title": "민주당, ‘선호투표제 논의’ 심야 최고위 취소…내홍 더 깊어지나 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtTjlvbms5UDFZbl9wT2xSUm1EM3NpMC00MkRtWHdHblJldzY1VjdqZG83R2JzMFhNZ2Y5aWlKZ0lrai00bzJoRG1SNHpMaWMtdldLcWVfclFXZ9IBX0FVX3lxTE5GSFEtb1BYSHAxTFUwTUVCMHQwa0NEZ1E4TGFlaWFwZWFtbXBTaW9Wc3QyalhWMGVvZDA1NTJMSFgyUTlsYU1OVENDUFptczJ1NU9hTmliRjFtR09wN0Rz?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 07:37:00 GMT"
+          "published": "Fri, 10 Jul 2026 13:00:00 GMT"
         }
       ]
     },
     {
-      "word": "내홍",
+      "word": "선호투표제",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "선호투표제 두고 민주당 내홍 격화…친청계 다수 최고위, 오늘 저녁 결선투표 결론 낼까 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XbU9RVVNRZFhUek5xMTZsTkhhcmpudUVRR3Bwem9aWFZUbjdfVlk4c1JJM2RrM1hETktDU2paX2xnLURPSzdVeUE4RTJYa2dnZmZyOEppcURsUdIBX0FVX3lxTE9mOTBNMENBVFBiS3J1RzJ1ZDZ6TDZoTEVuRGQwMmxOUnlUWXBvOXdwSU5SZHRyVUFiX2VGRTlWWTBvNUpSTHhoekR0bEljZXVLWjZpdEFOOWNQaHlHSVd3?oc=5",
+          "title": "민주당, ‘선호투표제 논의’ 심야 최고위 취소…내홍 더 깊어지나 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtTjlvbms5UDFZbl9wT2xSUm1EM3NpMC00MkRtWHdHblJldzY1VjdqZG83R2JzMFhNZ2Y5aWlKZ0lrai00bzJoRG1SNHpMaWMtdldLcWVfclFXZ9IBX0FVX3lxTE5GSFEtb1BYSHAxTFUwTUVCMHQwa0NEZ1E4TGFlaWFwZWFtbXBTaW9Wc3QyalhWMGVvZDA1NTJMSFgyUTlsYU1OVENDUFptczJ1NU9hTmliRjFtR09wN0Rz?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 07:37:00 GMT"
+          "published": "Fri, 10 Jul 2026 13:00:00 GMT"
         }
       ]
     },
     {
-      "word": "격화친청계",
+      "word": "논의",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "선호투표제 두고 민주당 내홍 격화…친청계 다수 최고위, 오늘 저녁 결선투표 결론 낼까 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XbU9RVVNRZFhUek5xMTZsTkhhcmpudUVRR3Bwem9aWFZUbjdfVlk4c1JJM2RrM1hETktDU2paX2xnLURPSzdVeUE4RTJYa2dnZmZyOEppcURsUdIBX0FVX3lxTE9mOTBNMENBVFBiS3J1RzJ1ZDZ6TDZoTEVuRGQwMmxOUnlUWXBvOXdwSU5SZHRyVUFiX2VGRTlWWTBvNUpSTHhoekR0bEljZXVLWjZpdEFOOWNQaHlHSVd3?oc=5",
+          "title": "민주당, ‘선호투표제 논의’ 심야 최고위 취소…내홍 더 깊어지나 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtTjlvbms5UDFZbl9wT2xSUm1EM3NpMC00MkRtWHdHblJldzY1VjdqZG83R2JzMFhNZ2Y5aWlKZ0lrai00bzJoRG1SNHpMaWMtdldLcWVfclFXZ9IBX0FVX3lxTE5GSFEtb1BYSHAxTFUwTUVCMHQwa0NEZ1E4TGFlaWFwZWFtbXBTaW9Wc3QyalhWMGVvZDA1NTJMSFgyUTlsYU1OVENDUFptczJ1NU9hTmliRjFtR09wN0Rz?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 07:37:00 GMT"
+          "published": "Fri, 10 Jul 2026 13:00:00 GMT"
         }
       ]
     },
     {
-      "word": "다수",
+      "word": "심야",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "선호투표제 두고 민주당 내홍 격화…친청계 다수 최고위, 오늘 저녁 결선투표 결론 낼까 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XbU9RVVNRZFhUek5xMTZsTkhhcmpudUVRR3Bwem9aWFZUbjdfVlk4c1JJM2RrM1hETktDU2paX2xnLURPSzdVeUE4RTJYa2dnZmZyOEppcURsUdIBX0FVX3lxTE9mOTBNMENBVFBiS3J1RzJ1ZDZ6TDZoTEVuRGQwMmxOUnlUWXBvOXdwSU5SZHRyVUFiX2VGRTlWWTBvNUpSTHhoekR0bEljZXVLWjZpdEFOOWNQaHlHSVd3?oc=5",
+          "title": "민주당, ‘선호투표제 논의’ 심야 최고위 취소…내홍 더 깊어지나 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtTjlvbms5UDFZbl9wT2xSUm1EM3NpMC00MkRtWHdHblJldzY1VjdqZG83R2JzMFhNZ2Y5aWlKZ0lrai00bzJoRG1SNHpMaWMtdldLcWVfclFXZ9IBX0FVX3lxTE5GSFEtb1BYSHAxTFUwTUVCMHQwa0NEZ1E4TGFlaWFwZWFtbXBTaW9Wc3QyalhWMGVvZDA1NTJMSFgyUTlsYU1OVENDUFptczJ1NU9hTmliRjFtR09wN0Rz?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 07:37:00 GMT"
+          "published": "Fri, 10 Jul 2026 13:00:00 GMT"
         }
       ]
     },
@@ -271,309 +395,179 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "선호투표제 두고 민주당 내홍 격화…친청계 다수 최고위, 오늘 저녁 결선투표 결론 낼까 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XbU9RVVNRZFhUek5xMTZsTkhhcmpudUVRR3Bwem9aWFZUbjdfVlk4c1JJM2RrM1hETktDU2paX2xnLURPSzdVeUE4RTJYa2dnZmZyOEppcURsUdIBX0FVX3lxTE9mOTBNMENBVFBiS3J1RzJ1ZDZ6TDZoTEVuRGQwMmxOUnlUWXBvOXdwSU5SZHRyVUFiX2VGRTlWWTBvNUpSTHhoekR0bEljZXVLWjZpdEFOOWNQaHlHSVd3?oc=5",
+          "title": "민주당, ‘선호투표제 논의’ 심야 최고위 취소…내홍 더 깊어지나 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtTjlvbms5UDFZbl9wT2xSUm1EM3NpMC00MkRtWHdHblJldzY1VjdqZG83R2JzMFhNZ2Y5aWlKZ0lrai00bzJoRG1SNHpMaWMtdldLcWVfclFXZ9IBX0FVX3lxTE5GSFEtb1BYSHAxTFUwTUVCMHQwa0NEZ1E4TGFlaWFwZWFtbXBTaW9Wc3QyalhWMGVvZDA1NTJMSFgyUTlsYU1OVENDUFptczJ1NU9hTmliRjFtR09wN0Rz?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 07:37:00 GMT"
+          "published": "Fri, 10 Jul 2026 13:00:00 GMT"
         }
       ]
     },
     {
-      "word": "저녁",
+      "word": "취소내홍",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "선호투표제 두고 민주당 내홍 격화…친청계 다수 최고위, 오늘 저녁 결선투표 결론 낼까 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XbU9RVVNRZFhUek5xMTZsTkhhcmpudUVRR3Bwem9aWFZUbjdfVlk4c1JJM2RrM1hETktDU2paX2xnLURPSzdVeUE4RTJYa2dnZmZyOEppcURsUdIBX0FVX3lxTE9mOTBNMENBVFBiS3J1RzJ1ZDZ6TDZoTEVuRGQwMmxOUnlUWXBvOXdwSU5SZHRyVUFiX2VGRTlWWTBvNUpSTHhoekR0bEljZXVLWjZpdEFOOWNQaHlHSVd3?oc=5",
+          "title": "민주당, ‘선호투표제 논의’ 심야 최고위 취소…내홍 더 깊어지나 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtTjlvbms5UDFZbl9wT2xSUm1EM3NpMC00MkRtWHdHblJldzY1VjdqZG83R2JzMFhNZ2Y5aWlKZ0lrai00bzJoRG1SNHpMaWMtdldLcWVfclFXZ9IBX0FVX3lxTE5GSFEtb1BYSHAxTFUwTUVCMHQwa0NEZ1E4TGFlaWFwZWFtbXBTaW9Wc3QyalhWMGVvZDA1NTJMSFgyUTlsYU1OVENDUFptczJ1NU9hTmliRjFtR09wN0Rz?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 07:37:00 GMT"
+          "published": "Fri, 10 Jul 2026 13:00:00 GMT"
         }
       ]
     },
     {
-      "word": "결선투표",
+      "word": "깊어지",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "선호투표제 두고 민주당 내홍 격화…친청계 다수 최고위, 오늘 저녁 결선투표 결론 낼까 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XbU9RVVNRZFhUek5xMTZsTkhhcmpudUVRR3Bwem9aWFZUbjdfVlk4c1JJM2RrM1hETktDU2paX2xnLURPSzdVeUE4RTJYa2dnZmZyOEppcURsUdIBX0FVX3lxTE9mOTBNMENBVFBiS3J1RzJ1ZDZ6TDZoTEVuRGQwMmxOUnlUWXBvOXdwSU5SZHRyVUFiX2VGRTlWWTBvNUpSTHhoekR0bEljZXVLWjZpdEFOOWNQaHlHSVd3?oc=5",
+          "title": "민주당, ‘선호투표제 논의’ 심야 최고위 취소…내홍 더 깊어지나 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtTjlvbms5UDFZbl9wT2xSUm1EM3NpMC00MkRtWHdHblJldzY1VjdqZG83R2JzMFhNZ2Y5aWlKZ0lrai00bzJoRG1SNHpMaWMtdldLcWVfclFXZ9IBX0FVX3lxTE5GSFEtb1BYSHAxTFUwTUVCMHQwa0NEZ1E4TGFlaWFwZWFtbXBTaW9Wc3QyalhWMGVvZDA1NTJMSFgyUTlsYU1OVENDUFptczJ1NU9hTmliRjFtR09wN0Rz?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 07:37:00 GMT"
+          "published": "Fri, 10 Jul 2026 13:00:00 GMT"
         }
       ]
     },
     {
-      "word": "결론",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "선호투표제 두고 민주당 내홍 격화…친청계 다수 최고위, 오늘 저녁 결선투표 결론 낼까 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XbU9RVVNRZFhUek5xMTZsTkhhcmpudUVRR3Bwem9aWFZUbjdfVlk4c1JJM2RrM1hETktDU2paX2xnLURPSzdVeUE4RTJYa2dnZmZyOEppcURsUdIBX0FVX3lxTE9mOTBNMENBVFBiS3J1RzJ1ZDZ6TDZoTEVuRGQwMmxOUnlUWXBvOXdwSU5SZHRyVUFiX2VGRTlWWTBvNUpSTHhoekR0bEljZXVLWjZpdEFOOWNQaHlHSVd3?oc=5",
-          "source": "Google News",
-          "published": "Fri, 10 Jul 2026 07:37:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "낼까",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "선호투표제 두고 민주당 내홍 격화…친청계 다수 최고위, 오늘 저녁 결선투표 결론 낼까 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XbU9RVVNRZFhUek5xMTZsTkhhcmpudUVRR3Bwem9aWFZUbjdfVlk4c1JJM2RrM1hETktDU2paX2xnLURPSzdVeUE4RTJYa2dnZmZyOEppcURsUdIBX0FVX3lxTE9mOTBNMENBVFBiS3J1RzJ1ZDZ6TDZoTEVuRGQwMmxOUnlUWXBvOXdwSU5SZHRyVUFiX2VGRTlWWTBvNUpSTHhoekR0bEljZXVLWjZpdEFOOWNQaHlHSVd3?oc=5",
-          "source": "Google News",
-          "published": "Fri, 10 Jul 2026 07:37:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "몽골",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령, 몽골 대통령에게 국궁 세트·스마트워치 선물 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuWFdUc0JENGlvTnlaRzdabVBGckIwbzh3ZlpOUXlub080aWlPTUczajY5NUZiUzlYcmR2UGpTN3hHWm9nTzNUeWY2bFRjS2RMQ0cySDVHN3ZlSDIyTmhiYndQVk5MQ1hlLXB3?oc=5",
-          "source": "Google News",
-          "published": "Fri, 10 Jul 2026 10:23:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "국궁",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령, 몽골 대통령에게 국궁 세트·스마트워치 선물 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuWFdUc0JENGlvTnlaRzdabVBGckIwbzh3ZlpOUXlub080aWlPTUczajY5NUZiUzlYcmR2UGpTN3hHWm9nTzNUeWY2bFRjS2RMQ0cySDVHN3ZlSDIyTmhiYndQVk5MQ1hlLXB3?oc=5",
-          "source": "Google News",
-          "published": "Fri, 10 Jul 2026 10:23:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "세트스마트워치",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령, 몽골 대통령에게 국궁 세트·스마트워치 선물 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuWFdUc0JENGlvTnlaRzdabVBGckIwbzh3ZlpOUXlub080aWlPTUczajY5NUZiUzlYcmR2UGpTN3hHWm9nTzNUeWY2bFRjS2RMQ0cySDVHN3ZlSDIyTmhiYndQVk5MQ1hlLXB3?oc=5",
-          "source": "Google News",
-          "published": "Fri, 10 Jul 2026 10:23:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "선물",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령, 몽골 대통령에게 국궁 세트·스마트워치 선물 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuWFdUc0JENGlvTnlaRzdabVBGckIwbzh3ZlpOUXlub080aWlPTUczajY5NUZiUzlYcmR2UGpTN3hHWm9nTzNUeWY2bFRjS2RMQ0cySDVHN3ZlSDIyTmhiYndQVk5MQ1hlLXB3?oc=5",
-          "source": "Google News",
-          "published": "Fri, 10 Jul 2026 10:23:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "성조기",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘성조기 여성’ 경찰 출석…태극기 셔츠 입고 목에는 십자가 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtVnVEU2d6T2dLd3VVdFpuUmJ2b1pkSEZxandUaGVjQjFtNm5jNDlCdnFOdFIyb2F0RkdhcDBRY1BsblRxM1gxYk9xQXNoRmVLdE5zOXhMWUg0NzZWSXNKdWpYU0R1NEFGdHVRY1E2NmhGZw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 10 Jul 2026 09:24:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "여성",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘성조기 여성’ 경찰 출석…태극기 셔츠 입고 목에는 십자가 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtVnVEU2d6T2dLd3VVdFpuUmJ2b1pkSEZxandUaGVjQjFtNm5jNDlCdnFOdFIyb2F0RkdhcDBRY1BsblRxM1gxYk9xQXNoRmVLdE5zOXhMWUg0NzZWSXNKdWpYU0R1NEFGdHVRY1E2NmhGZw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 10 Jul 2026 09:24:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "경찰",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘성조기 여성’ 경찰 출석…태극기 셔츠 입고 목에는 십자가 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtVnVEU2d6T2dLd3VVdFpuUmJ2b1pkSEZxandUaGVjQjFtNm5jNDlCdnFOdFIyb2F0RkdhcDBRY1BsblRxM1gxYk9xQXNoRmVLdE5zOXhMWUg0NzZWSXNKdWpYU0R1NEFGdHVRY1E2NmhGZw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 10 Jul 2026 09:24:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "출석태극기",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘성조기 여성’ 경찰 출석…태극기 셔츠 입고 목에는 십자가 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtVnVEU2d6T2dLd3VVdFpuUmJ2b1pkSEZxandUaGVjQjFtNm5jNDlCdnFOdFIyb2F0RkdhcDBRY1BsblRxM1gxYk9xQXNoRmVLdE5zOXhMWUg0NzZWSXNKdWpYU0R1NEFGdHVRY1E2NmhGZw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 10 Jul 2026 09:24:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "셔츠",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘성조기 여성’ 경찰 출석…태극기 셔츠 입고 목에는 십자가 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtVnVEU2d6T2dLd3VVdFpuUmJ2b1pkSEZxandUaGVjQjFtNm5jNDlCdnFOdFIyb2F0RkdhcDBRY1BsblRxM1gxYk9xQXNoRmVLdE5zOXhMWUg0NzZWSXNKdWpYU0R1NEFGdHVRY1E2NmhGZw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 10 Jul 2026 09:24:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "입고",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘성조기 여성’ 경찰 출석…태극기 셔츠 입고 목에는 십자가 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtVnVEU2d6T2dLd3VVdFpuUmJ2b1pkSEZxandUaGVjQjFtNm5jNDlCdnFOdFIyb2F0RkdhcDBRY1BsblRxM1gxYk9xQXNoRmVLdE5zOXhMWUg0NzZWSXNKdWpYU0R1NEFGdHVRY1E2NmhGZw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 10 Jul 2026 09:24:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "목에",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘성조기 여성’ 경찰 출석…태극기 셔츠 입고 목에는 십자가 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtVnVEU2d6T2dLd3VVdFpuUmJ2b1pkSEZxandUaGVjQjFtNm5jNDlCdnFOdFIyb2F0RkdhcDBRY1BsblRxM1gxYk9xQXNoRmVLdE5zOXhMWUg0NzZWSXNKdWpYU0R1NEFGdHVRY1E2NmhGZw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 10 Jul 2026 09:24:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "십자",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘성조기 여성’ 경찰 출석…태극기 셔츠 입고 목에는 십자가 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtVnVEU2d6T2dLd3VVdFpuUmJ2b1pkSEZxandUaGVjQjFtNm5jNDlCdnFOdFIyb2F0RkdhcDBRY1BsblRxM1gxYk9xQXNoRmVLdE5zOXhMWUg0NzZWSXNKdWpYU0R1NEFGdHVRY1E2NmhGZw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 10 Jul 2026 09:24:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "지역화폐",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“지역화폐 성과급? 국회의원부터 받아라” 분노에 박민규, 법안 결국 철회 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOcEdrYU9PbG14S2t4U1lYcmhWbkh1emtmRHVXTzZoLXhZdnBZSFB2alIzNVhmNmdTMElLeDZUeGxOZWhGOUtZVW40di0wVWF5N29FZ0c5cnB2NVZlNjVDSXhXVWlXc2J3bThyakVQMm1JMDJu?oc=5",
-          "source": "Google News",
-          "published": "Fri, 10 Jul 2026 11:12:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "성과급",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“지역화폐 성과급? 국회의원부터 받아라” 분노에 박민규, 법안 결국 철회 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOcEdrYU9PbG14S2t4U1lYcmhWbkh1emtmRHVXTzZoLXhZdnBZSFB2alIzNVhmNmdTMElLeDZUeGxOZWhGOUtZVW40di0wVWF5N29FZ0c5cnB2NVZlNjVDSXhXVWlXc2J3bThyakVQMm1JMDJu?oc=5",
-          "source": "Google News",
-          "published": "Fri, 10 Jul 2026 11:12:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "국회의원",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "“지역화폐 성과급? 국회의원부터 받아라” 분노에 박민규, 법안 결국 철회 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOcEdrYU9PbG14S2t4U1lYcmhWbkh1emtmRHVXTzZoLXhZdnBZSFB2alIzNVhmNmdTMElLeDZUeGxOZWhGOUtZVW40di0wVWF5N29FZ0c5cnB2NVZlNjVDSXhXVWlXc2J3bThyakVQMm1JMDJu?oc=5",
-          "source": "Google News",
-          "published": "Fri, 10 Jul 2026 11:12:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "받아",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“지역화폐 성과급? 국회의원부터 받아라” 분노에 박민규, 법안 결국 철회 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOcEdrYU9PbG14S2t4U1lYcmhWbkh1emtmRHVXTzZoLXhZdnBZSFB2alIzNVhmNmdTMElLeDZUeGxOZWhGOUtZVW40di0wVWF5N29FZ0c5cnB2NVZlNjVDSXhXVWlXc2J3bThyakVQMm1JMDJu?oc=5",
-          "source": "Google News",
-          "published": "Fri, 10 Jul 2026 11:12:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "박민규",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“지역화폐 성과급? 국회의원부터 받아라” 분노에 박민규, 법안 결국 철회 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOcEdrYU9PbG14S2t4U1lYcmhWbkh1emtmRHVXTzZoLXhZdnBZSFB2alIzNVhmNmdTMElLeDZUeGxOZWhGOUtZVW40di0wVWF5N29FZ0c5cnB2NVZlNjVDSXhXVWlXc2J3bThyakVQMm1JMDJu?oc=5",
-          "source": "Google News",
-          "published": "Fri, 10 Jul 2026 11:12:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "법안",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“지역화폐 성과급? 국회의원부터 받아라” 분노에 박민규, 법안 결국 철회 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOcEdrYU9PbG14S2t4U1lYcmhWbkh1emtmRHVXTzZoLXhZdnBZSFB2alIzNVhmNmdTMElLeDZUeGxOZWhGOUtZVW40di0wVWF5N29FZ0c5cnB2NVZlNjVDSXhXVWlXc2J3bThyakVQMm1JMDJu?oc=5",
-          "source": "Google News",
-          "published": "Fri, 10 Jul 2026 11:12:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "결국",
+      "word": "노무현",
       "count": 1,
       "category": "LOCATION",
       "articles": [
         {
-          "title": "“지역화폐 성과급? 국회의원부터 받아라” 분노에 박민규, 법안 결국 철회 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOcEdrYU9PbG14S2t4U1lYcmhWbkh1emtmRHVXTzZoLXhZdnBZSFB2alIzNVhmNmdTMElLeDZUeGxOZWhGOUtZVW40di0wVWF5N29FZ0c5cnB2NVZlNjVDSXhXVWlXc2J3bThyakVQMm1JMDJu?oc=5",
+          "title": "노무현 재단 이사, 리센느 원이에 사과 \"이해 부족했다\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQck15cFZaT0ZHNm1tM2w5MUpza2x3WTc3LTVzOWhiYnVMaEYxQ0dHSHNhRmJrRHlOUlFBYnZDaWRsdVlTMmxQNnI3YkNuUlQ3cWJGLXRNQllpSF9QeHUtbno3Ny16VVprLU9Eb0doRDJ5Z1JVOUQ3RkplQ2lUQVhfU2RuUmxWT0plczNCMFhiMkl0Y1d6?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 11:12:00 GMT"
+          "published": "Fri, 10 Jul 2026 06:45:39 GMT"
+        }
+      ]
+    },
+    {
+      "word": "재단",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "노무현 재단 이사, 리센느 원이에 사과 \"이해 부족했다\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQck15cFZaT0ZHNm1tM2w5MUpza2x3WTc3LTVzOWhiYnVMaEYxQ0dHSHNhRmJrRHlOUlFBYnZDaWRsdVlTMmxQNnI3YkNuUlQ3cWJGLXRNQllpSF9QeHUtbno3Ny16VVprLU9Eb0doRDJ5Z1JVOUQ3RkplQ2lUQVhfU2RuUmxWT0plczNCMFhiMkl0Y1d6?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 06:45:39 GMT"
+        }
+      ]
+    },
+    {
+      "word": "이사",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "노무현 재단 이사, 리센느 원이에 사과 \"이해 부족했다\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQck15cFZaT0ZHNm1tM2w5MUpza2x3WTc3LTVzOWhiYnVMaEYxQ0dHSHNhRmJrRHlOUlFBYnZDaWRsdVlTMmxQNnI3YkNuUlQ3cWJGLXRNQllpSF9QeHUtbno3Ny16VVprLU9Eb0doRDJ5Z1JVOUQ3RkplQ2lUQVhfU2RuUmxWT0plczNCMFhiMkl0Y1d6?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 06:45:39 GMT"
+        }
+      ]
+    },
+    {
+      "word": "리센느",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "노무현 재단 이사, 리센느 원이에 사과 \"이해 부족했다\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQck15cFZaT0ZHNm1tM2w5MUpza2x3WTc3LTVzOWhiYnVMaEYxQ0dHSHNhRmJrRHlOUlFBYnZDaWRsdVlTMmxQNnI3YkNuUlQ3cWJGLXRNQllpSF9QeHUtbno3Ny16VVprLU9Eb0doRDJ5Z1JVOUQ3RkplQ2lUQVhfU2RuUmxWT0plczNCMFhiMkl0Y1d6?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 06:45:39 GMT"
+        }
+      ]
+    },
+    {
+      "word": "원이",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "노무현 재단 이사, 리센느 원이에 사과 \"이해 부족했다\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQck15cFZaT0ZHNm1tM2w5MUpza2x3WTc3LTVzOWhiYnVMaEYxQ0dHSHNhRmJrRHlOUlFBYnZDaWRsdVlTMmxQNnI3YkNuUlQ3cWJGLXRNQllpSF9QeHUtbno3Ny16VVprLU9Eb0doRDJ5Z1JVOUQ3RkplQ2lUQVhfU2RuUmxWT0plczNCMFhiMkl0Y1d6?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 06:45:39 GMT"
+        }
+      ]
+    },
+    {
+      "word": "사과",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "노무현 재단 이사, 리센느 원이에 사과 \"이해 부족했다\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQck15cFZaT0ZHNm1tM2w5MUpza2x3WTc3LTVzOWhiYnVMaEYxQ0dHSHNhRmJrRHlOUlFBYnZDaWRsdVlTMmxQNnI3YkNuUlQ3cWJGLXRNQllpSF9QeHUtbno3Ny16VVprLU9Eb0doRDJ5Z1JVOUQ3RkplQ2lUQVhfU2RuUmxWT0plczNCMFhiMkl0Y1d6?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 06:45:39 GMT"
+        }
+      ]
+    },
+    {
+      "word": "이해",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "노무현 재단 이사, 리센느 원이에 사과 \"이해 부족했다\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQck15cFZaT0ZHNm1tM2w5MUpza2x3WTc3LTVzOWhiYnVMaEYxQ0dHSHNhRmJrRHlOUlFBYnZDaWRsdVlTMmxQNnI3YkNuUlQ3cWJGLXRNQllpSF9QeHUtbno3Ny16VVprLU9Eb0doRDJ5Z1JVOUQ3RkplQ2lUQVhfU2RuUmxWT0plczNCMFhiMkl0Y1d6?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 06:45:39 GMT"
+        }
+      ]
+    },
+    {
+      "word": "부족",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "노무현 재단 이사, 리센느 원이에 사과 \"이해 부족했다\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQck15cFZaT0ZHNm1tM2w5MUpza2x3WTc3LTVzOWhiYnVMaEYxQ0dHSHNhRmJrRHlOUlFBYnZDaWRsdVlTMmxQNnI3YkNuUlQ3cWJGLXRNQllpSF9QeHUtbno3Ny16VVprLU9Eb0doRDJ5Z1JVOUQ3RkplQ2lUQVhfU2RuUmxWT0plczNCMFhiMkl0Y1d6?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 06:45:39 GMT"
+        }
+      ]
+    },
+    {
+      "word": "산단",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "반도체 산단 관련 토지거래허가구역 14일부터 2년간 적용 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lZE1mU1NHVWJIQ1RHd1U5Y1NJRVppTy1Ea3RkUWlNRVRVelhLbG10Xy0zbktuVnFhT0ROZ0NqWUpPTnVkanJRRmVDRnlnc0Rna05hMU0yR3NfcFMya2Vwa21SOExTQQ?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 10:56:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "토지거래허가구역",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "반도체 산단 관련 토지거래허가구역 14일부터 2년간 적용 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lZE1mU1NHVWJIQ1RHd1U5Y1NJRVppTy1Ea3RkUWlNRVRVelhLbG10Xy0zbktuVnFhT0ROZ0NqWUpPTnVkanJRRmVDRnlnc0Rna05hMU0yR3NfcFMya2Vwa21SOExTQQ?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 10:56:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "2년간",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "반도체 산단 관련 토지거래허가구역 14일부터 2년간 적용 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lZE1mU1NHVWJIQ1RHd1U5Y1NJRVppTy1Ea3RkUWlNRVRVelhLbG10Xy0zbktuVnFhT0ROZ0NqWUpPTnVkanJRRmVDRnlnc0Rna05hMU0yR3NfcFMya2Vwa21SOExTQQ?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 10:56:00 GMT"
         }
       ]
     }
