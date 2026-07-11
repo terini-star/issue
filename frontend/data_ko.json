@@ -1,30 +1,74 @@
 {
   "language": "ko",
-  "last_updated": 1783771062.480621,
+  "last_updated": 1783777579.953175,
   "count": 40,
   "trends": [
     {
+      "word": "트럼프",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프, 이란에 “나를 향한 암살 시도 땐 완전 궤멸” 경고 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SZFhWSDFUY1BxTGx1bS1XcjBJdmpIRWNzQWV6eW5aNDRJR2dlMlJwQl85NXp2eWFWMElkN3Y1T25hRFIzNHFhYmMzWUU0dURRRzNkM3dNWkFtbVI4VzZiYUFWcXVJVkNkT0xn?oc=5",
+          "source": "Google News",
+          "published": "Sat, 11 Jul 2026 08:50:00 GMT"
+        },
+        {
+          "title": "\"휴전 끝났다\" 트럼프 통보에 이란도 \"항복 없다\"…강대강 대치 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wamh5WTd0RlExU3B3UG1LN0ZnY0wxUnFXeU50aUE2OGFZcHpGYzdkQzhqRU9vdWxCbHBQYWg2bC1yajNpanFWNW12cnkwcHhJMjdueXZfcUtUUdIBVEFVX3lxTFBFaEVRNEgzWVhBUi1OMVdBS0taR3lMMmVHN2hIMDJWMENyeHNya2tBNkg2QVdSWExhVEVkdzNOaTd4YU9zQkc5ZExmb2ZYcFhPSk1mQw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 22:17:11 GMT"
+        },
+        {
+          "title": "트럼프 \"암살 시도하면 이란 완전 파괴\"…초강경 경고 - 데일리안",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XT2E0Qi1KT01RR2xpMnR6OUxDT0piZG1oc0dQSkR1TWdqNE9xSGpZSE04ZTRZcEdaYjJodlVyY0lNU3V3T2RKR1J1RGVQaWdkOU11bzlyZ9IBmwJBVV95cUxOYnJ6UnFRVklONFFJa1ZhLVlMZXVVYjRqMXdDMS1mZU1rWlRfWkYxcEpIS1BpM1ltdU9DMjVDM2JhajVPbk92T0VuZmpXSy0wd253Q24yZFoxV3FTU1FIbWowUEtpTVVpUWUwR2ljZ08zSWJiN2QzUDhwUUdMMTFoQ3NzZ2VFZS1Yc19rUjNrR0Jpck5QaWFMQ2hpNjVBYzhZbkpkTDdoLUd1X2Q1RXFiZ1ptU0xWaXlqZS1hd2Y4V2FVaDBwODU0bXVmcG5KckJ4ZGtlVFQ3UGxRSzRDdm5pdTQzZF8zTW95XzI5OVVGS0g2YnRaVDFTeXEyVkFmNVB5VGtFcl9IMDFXazJmMFpJa096bXlPQVdnU0pJ?oc=5",
+          "source": "Google News",
+          "published": "Sat, 11 Jul 2026 06:57:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "이란",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프, 이란에 “나를 향한 암살 시도 땐 완전 궤멸” 경고 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SZFhWSDFUY1BxTGx1bS1XcjBJdmpIRWNzQWV6eW5aNDRJR2dlMlJwQl85NXp2eWFWMElkN3Y1T25hRFIzNHFhYmMzWUU0dURRRzNkM3dNWkFtbVI4VzZiYUFWcXVJVkNkT0xn?oc=5",
+          "source": "Google News",
+          "published": "Sat, 11 Jul 2026 08:50:00 GMT"
+        },
+        {
+          "title": "\"휴전 끝났다\" 트럼프 통보에 이란도 \"항복 없다\"…강대강 대치 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wamh5WTd0RlExU3B3UG1LN0ZnY0wxUnFXeU50aUE2OGFZcHpGYzdkQzhqRU9vdWxCbHBQYWg2bC1yajNpanFWNW12cnkwcHhJMjdueXZfcUtUUdIBVEFVX3lxTFBFaEVRNEgzWVhBUi1OMVdBS0taR3lMMmVHN2hIMDJWMENyeHNya2tBNkg2QVdSWExhVEVkdzNOaTd4YU9zQkc5ZExmb2ZYcFhPSk1mQw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 22:17:11 GMT"
+        },
+        {
+          "title": "트럼프 \"암살 시도하면 이란 완전 파괴\"…초강경 경고 - 데일리안",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XT2E0Qi1KT01RR2xpMnR6OUxDT0piZG1oc0dQSkR1TWdqNE9xSGpZSE04ZTRZcEdaYjJodlVyY0lNU3V3T2RKR1J1RGVQaWdkOU11bzlyZ9IBmwJBVV95cUxOYnJ6UnFRVklONFFJa1ZhLVlMZXVVYjRqMXdDMS1mZU1rWlRfWkYxcEpIS1BpM1ltdU9DMjVDM2JhajVPbk92T0VuZmpXSy0wd253Q24yZFoxV3FTU1FIbWowUEtpTVVpUWUwR2ljZ08zSWJiN2QzUDhwUUdMMTFoQ3NzZ2VFZS1Yc19rUjNrR0Jpck5QaWFMQ2hpNjVBYzhZbkpkTDdoLUd1X2Q1RXFiZ1ptU0xWaXlqZS1hd2Y4V2FVaDBwODU0bXVmcG5KckJ4ZGtlVFQ3UGxRSzRDdm5pdTQzZF8zTW95XzI5OVVGS0g2YnRaVDFTeXEyVkFmNVB5VGtFcl9IMDFXazJmMFpJa096bXlPQVdnU0pJ?oc=5",
+          "source": "Google News",
+          "published": "Sat, 11 Jul 2026 06:57:00 GMT"
+        }
+      ]
+    },
+    {
       "word": "대통령",
-      "count": 4,
+      "count": 3,
       "category": "PERSON",
       "articles": [
         {
-          "title": "李대통령, 몽골 나담축제 주빈 참석…金여사와 함께 활쏘기 체험(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QLS1pWUloS05qQXU1dGRPQUg1ekNZd056ZU9qcnhxX2lWTzRQbGtWVkZZNDlCOVAwamR3Mjh2RjFoT3BZSWpMVVplQlFIanhSck5MMndNUWdkMjjSAWBBVV95cUxQRkpYcG1jR3VmaGhqQWtnLWs0YUdTYVNnSEpoQnpvQkpieFY2RDRfY2U4QS1JSE1vVXUtUE1sT29iTkl6TWZ2NkxrTjh6WC1DTHJsUlpONWhEVFFHS2oycUI?oc=5",
+          "title": "이 대통령, 몽골 나담축제 주빈 참석…활쏘기 체험하며 국빈 방문 마무리 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBka3g5MEhuLVVUWTItVW1OUUFhMUpRMWFCRFYyeGdxVjZIV3pnSjhXSnh5bWxpeWFPQ2NtNUk1YkI1c0xJb1p1MEdGeUV1OVlqVTE3Y0wzSHVFZ9IBX0FVX3lxTE9WT2FBQzhwMkRFUXpIcktWbUlhVFI1VkhwUi1NN2ZyOXdnMmc3VG53RjdCWmJ2X0ozOExyelVuZG9nUngwanFNcWJxYS1OeDgwWTJRNXZPUkMyZGM2aElj?oc=5",
           "source": "Google News",
-          "published": "Sat, 11 Jul 2026 10:36:02 GMT"
+          "published": "Sat, 11 Jul 2026 06:05:00 GMT"
         },
         {
           "title": "대통령이 직접 세일즈하는 ‘K-방산’ 훗날 부담은 없을까요? [반도 앨리스] - 경향신문",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hUVQwVFlpOU1SLUczdmNJcmhjVDJEUjJoSWl5dGk4U1p4dU5LSkhzTmN1cGYwS1hGYzk0QkluVUxHMlB5enoyeEFpc0ZTZzYxdldRWUdZTGxuZ9IBX0FVX3lxTE1vemVVLUNpR1hoQVI4djhoaG5YVHhCbHRQVmM1aEZvWHZIbjJPNVFMUDVYM3RRN2twNXIwcm1aenJ5UWJzdHBLdXp0cG8xTnp0STdFUDAxSFZFX05MeXhJ?oc=5",
           "source": "Google News",
           "published": "Fri, 10 Jul 2026 22:00:00 GMT"
-        },
-        {
-          "title": "김민석 “대통령과 합 200% 맞는 당대표 필요…그동안 방식 안 돼” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vLWtLNWUzeXN6emdMelN0QXZ4Y1JDaG44OEIxeG1nTDl3OV93ZmMwZF9NOC1uMXhsalVGdVRrWThuSnRTZld5bERtbnZSbUJJOGxSalY4U3VsMGpQSFBmeF9nMjNwV25Xa18wNk1hVFU0MHBD?oc=5",
-          "source": "Google News",
-          "published": "Fri, 10 Jul 2026 07:40:00 GMT"
         },
         {
           "title": "이 대통령, 에르도안 ’권총 선물’ 받아…“대통령 기록관 이관“ - 연합뉴스TV",
@@ -35,51 +79,64 @@
       ]
     },
     {
+      "word": "암살",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프, 이란에 “나를 향한 암살 시도 땐 완전 궤멸” 경고 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SZFhWSDFUY1BxTGx1bS1XcjBJdmpIRWNzQWV6eW5aNDRJR2dlMlJwQl85NXp2eWFWMElkN3Y1T25hRFIzNHFhYmMzWUU0dURRRzNkM3dNWkFtbVI4VzZiYUFWcXVJVkNkT0xn?oc=5",
+          "source": "Google News",
+          "published": "Sat, 11 Jul 2026 08:50:00 GMT"
+        },
+        {
+          "title": "트럼프 \"암살 시도하면 이란 완전 파괴\"…초강경 경고 - 데일리안",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XT2E0Qi1KT01RR2xpMnR6OUxDT0piZG1oc0dQSkR1TWdqNE9xSGpZSE04ZTRZcEdaYjJodlVyY0lNU3V3T2RKR1J1RGVQaWdkOU11bzlyZ9IBmwJBVV95cUxOYnJ6UnFRVklONFFJa1ZhLVlMZXVVYjRqMXdDMS1mZU1rWlRfWkYxcEpIS1BpM1ltdU9DMjVDM2JhajVPbk92T0VuZmpXSy0wd253Q24yZFoxV3FTU1FIbWowUEtpTVVpUWUwR2ljZ08zSWJiN2QzUDhwUUdMMTFoQ3NzZ2VFZS1Yc19rUjNrR0Jpck5QaWFMQ2hpNjVBYzhZbkpkTDdoLUd1X2Q1RXFiZ1ptU0xWaXlqZS1hd2Y4V2FVaDBwODU0bXVmcG5KckJ4ZGtlVFQ3UGxRSzRDdm5pdTQzZF8zTW95XzI5OVVGS0g2YnRaVDFTeXEyVkFmNVB5VGtFcl9IMDFXazJmMFpJa096bXlPQVdnU0pJ?oc=5",
+          "source": "Google News",
+          "published": "Sat, 11 Jul 2026 06:57:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "완전",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프, 이란에 “나를 향한 암살 시도 땐 완전 궤멸” 경고 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SZFhWSDFUY1BxTGx1bS1XcjBJdmpIRWNzQWV6eW5aNDRJR2dlMlJwQl85NXp2eWFWMElkN3Y1T25hRFIzNHFhYmMzWUU0dURRRzNkM3dNWkFtbVI4VzZiYUFWcXVJVkNkT0xn?oc=5",
+          "source": "Google News",
+          "published": "Sat, 11 Jul 2026 08:50:00 GMT"
+        },
+        {
+          "title": "트럼프 \"암살 시도하면 이란 완전 파괴\"…초강경 경고 - 데일리안",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XT2E0Qi1KT01RR2xpMnR6OUxDT0piZG1oc0dQSkR1TWdqNE9xSGpZSE04ZTRZcEdaYjJodlVyY0lNU3V3T2RKR1J1RGVQaWdkOU11bzlyZ9IBmwJBVV95cUxOYnJ6UnFRVklONFFJa1ZhLVlMZXVVYjRqMXdDMS1mZU1rWlRfWkYxcEpIS1BpM1ltdU9DMjVDM2JhajVPbk92T0VuZmpXSy0wd253Q24yZFoxV3FTU1FIbWowUEtpTVVpUWUwR2ljZ08zSWJiN2QzUDhwUUdMMTFoQ3NzZ2VFZS1Yc19rUjNrR0Jpck5QaWFMQ2hpNjVBYzhZbkpkTDdoLUd1X2Q1RXFiZ1ptU0xWaXlqZS1hd2Y4V2FVaDBwODU0bXVmcG5KckJ4ZGtlVFQ3UGxRSzRDdm5pdTQzZF8zTW95XzI5OVVGS0g2YnRaVDFTeXEyVkFmNVB5VGtFcl9IMDFXazJmMFpJa096bXlPQVdnU0pJ?oc=5",
+          "source": "Google News",
+          "published": "Sat, 11 Jul 2026 06:57:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "경고",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프, 이란에 “나를 향한 암살 시도 땐 완전 궤멸” 경고 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SZFhWSDFUY1BxTGx1bS1XcjBJdmpIRWNzQWV6eW5aNDRJR2dlMlJwQl85NXp2eWFWMElkN3Y1T25hRFIzNHFhYmMzWUU0dURRRzNkM3dNWkFtbVI4VzZiYUFWcXVJVkNkT0xn?oc=5",
+          "source": "Google News",
+          "published": "Sat, 11 Jul 2026 08:50:00 GMT"
+        },
+        {
+          "title": "트럼프 \"암살 시도하면 이란 완전 파괴\"…초강경 경고 - 데일리안",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XT2E0Qi1KT01RR2xpMnR6OUxDT0piZG1oc0dQSkR1TWdqNE9xSGpZSE04ZTRZcEdaYjJodlVyY0lNU3V3T2RKR1J1RGVQaWdkOU11bzlyZ9IBmwJBVV95cUxOYnJ6UnFRVklONFFJa1ZhLVlMZXVVYjRqMXdDMS1mZU1rWlRfWkYxcEpIS1BpM1ltdU9DMjVDM2JhajVPbk92T0VuZmpXSy0wd253Q24yZFoxV3FTU1FIbWowUEtpTVVpUWUwR2ljZ08zSWJiN2QzUDhwUUdMMTFoQ3NzZ2VFZS1Yc19rUjNrR0Jpck5QaWFMQ2hpNjVBYzhZbkpkTDdoLUd1X2Q1RXFiZ1ptU0xWaXlqZS1hd2Y4V2FVaDBwODU0bXVmcG5KckJ4ZGtlVFQ3UGxRSzRDdm5pdTQzZF8zTW95XzI5OVVGS0g2YnRaVDFTeXEyVkFmNVB5VGtFcl9IMDFXazJmMFpJa096bXlPQVdnU0pJ?oc=5",
+          "source": "Google News",
+          "published": "Sat, 11 Jul 2026 06:57:00 GMT"
+        }
+      ]
+    },
+    {
       "word": "장윤기",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "前 검찰개혁자문위원장 “檢 보완수사 폐지 시 ‘장윤기 사건’ 같은 일 묻힐 가능성 커져” - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd2ZNZ1BwNVBYOUpuUkFteUtYcEZ2NURraEMtSy1Sa2RJSE9tMldlVWxfeGlvbksweElJcE9VWTgwZEI0OEZ3eUJyUTZ1QzJiLUNDb0FZWVkyWUV1dEZ5X0ZHYTdUM3pmY2pHMldybzRnd0pTZC1LX1duTWVDN09PbkFSbGtjZG8?oc=5",
-          "source": "Google News",
-          "published": "Sat, 11 Jul 2026 09:28:00 GMT"
-        },
-        {
-          "title": "[단독] 장윤기 수사팀원들 충격 진술‥\"'강간살인죄' 적용, 서장이 막았다\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55NjJVd0dtRzBXTkg5SWVseVJzMktwRWVZakY3SFloWElqTHZiWV9sLS1LTlVoeHVKTUY5cnl5NWktQlpVQU52enl4LTJqOFJLeVB2VW5MN1pBdlhTZDVVbWVfOHViMmF6NVN6LW5PVlpYaDBvWmlB0gF3QVVfeXFMTW5kV3lMYmlaTnJKOXdmaWRPbjdORjNZNVVpWWR1djl4bGtQSkgySmlCV1FEX0lNN1p0cDZQMlZhU2ptdDFhSWFrcTNJRnh6V0FYaWI1dXRRMk5lOUFKM1VqNjZEMWhiSWthNzVqMDdIOHM1UXJqdWM?oc=5",
-          "source": "Google News",
-          "published": "Sat, 11 Jul 2026 04:53:47 GMT"
-        },
-        {
-          "title": "추미애, 장윤기 사건 거론하며 \"검찰개혁 미룰 핑계 안돼\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWmNISDV1S3l2aks0R2p3WHZ1VHpkLVllODlBSEsxREZoVEZDVlBBVE9mWHM5NGw0OTVDY2VRU2FCT2xlTFNGUUdFb0xPQjBTekZzRkJRckV3WU9EZ25jOF9BWldKSk9fLXM0bjlqTlZKZEp1RDU4bGp0ZHRTUUVGYkdUMWdlYUN6RDhqaUJ0UHA?oc=5",
-          "source": "Google News",
-          "published": "Sat, 11 Jul 2026 06:35:11 GMT"
-        }
-      ]
-    },
-    {
-      "word": "트럼프",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프 “나 암살하면 미사일 1000기로 몰살”…이란에 경고 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBNTZwOEpYQzRMNXgtSzNqM3RadlRMM0NsaGp2T01neXlxaUtVNjJQb0FLUzdjdVNwczJqQ1U4YWNaNmx4UEpuWmZSaXZCQXNDMFQ5Nks0LWs1TXctUEd6ckNCUFNjbjNpakRDb3hPRWpEME3SAWZBVV95cUxQU3o2dmZ2bXpjcWd6WXFpUEkwejhZM2NFR0ZMQnYxLTdPcGZMWnZVbXZkcTRZR2hZdE12aXBxMXdCaWl5YlNTTC1uWmhJaS1IUkMxUldCQ2VaUnM2LWlhRlJiRTFMbVE?oc=5",
-          "source": "Google News",
-          "published": "Sat, 11 Jul 2026 05:57:00 GMT"
-        },
-        {
-          "title": "트럼프 '휴전종료' 선언했지만 대화동력 유지엔 '이심전심' - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YNElDMU1mUGh1ZlN6OUh4blZQQlNySF9JSEZPbnQ2a1RzVE5mQnEtUjFXS1hPeWhwUkxaMjF5ajg0b0dJZUFTZzlfTUM0bUM5eVhhaGRPU2ZLd3fSAWBBVV95cUxPSnVWU3V3ZFU1bm1Hb2NvZ0NnYXJGS2xqdmRWNVdPa0ViZHEyOXhvWUcxTmpRTzVFa01hdmVrbnQtVnpSN25FQUc0azJzazU5YV9jNFdueUJnOTRFZXE3ZXk?oc=5",
-          "source": "Google News",
-          "published": "Sat, 11 Jul 2026 02:53:01 GMT"
-        }
-      ]
-    },
-    {
-      "word": "사건",
       "count": 2,
       "category": "NOUN",
       "articles": [
@@ -90,61 +147,126 @@
           "published": "Sat, 11 Jul 2026 09:28:00 GMT"
         },
         {
-          "title": "추미애, 장윤기 사건 거론하며 \"검찰개혁 미룰 핑계 안돼\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWmNISDV1S3l2aks0R2p3WHZ1VHpkLVllODlBSEsxREZoVEZDVlBBVE9mWHM5NGw0OTVDY2VRU2FCT2xlTFNGUUdFb0xPQjBTekZzRkJRckV3WU9EZ25jOF9BWldKSk9fLXM0bjlqTlZKZEp1RDU4bGp0ZHRTUUVGYkdUMWdlYUN6RDhqaUJ0UHA?oc=5",
+          "title": "‘장윤기 봐주기’ 윗선 지시 있었나…광주경찰청장 등 지휘부 압수수색 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MQl9jZDl5OV9HYnlPaENKODFmMUtrak1uU2N0VW5ZcUNRMWl4SktCeXhNT1lCZkNPRGp3WmVkRE93c2RYUEZWRm1PdnkwNS1MUENCM2FKcklpbk5rTGhzb3M4SzRMd2JvQjBVbEt3YXVpZw?oc=5",
           "source": "Google News",
-          "published": "Sat, 11 Jul 2026 06:35:11 GMT"
+          "published": "Sat, 11 Jul 2026 05:36:00 GMT"
         }
       ]
     },
     {
-      "word": "가능",
+      "word": "공개",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "前 검찰개혁자문위원장 “檢 보완수사 폐지 시 ‘장윤기 사건’ 같은 일 묻힐 가능성 커져” - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd2ZNZ1BwNVBYOUpuUkFteUtYcEZ2NURraEMtSy1Sa2RJSE9tMldlVWxfeGlvbksweElJcE9VWTgwZEI0OEZ3eUJyUTZ1QzJiLUNDb0FZWVkyWUV1dEZ5X0ZHYTdUM3pmY2pHMldybzRnd0pTZC1LX1duTWVDN09PbkFSbGtjZG8?oc=5",
+          "title": "적정 보유세-대출 규제-공급방안… 부동산 ‘7대 이슈’ 공개 논의 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aQ2cybHAzRzcxc2JNNjRkS1I3TUpjVHdZdmZzR3o0ZzQxc1ZYVmtSaXJHV1dOR0pOOVJXOFFUV2RJUmFhV0J6ZUVIM2RDbExLLXN2aU9RcTJGWlRKTnBTaGpVNVhuLXJGbU1zcW1FeGVJeDRGSG9j0gFmQVVfeXFMT2tqem9KbUR4MWR6MFJxLWJCVzA3Y1JiWGRiS0tkSUYzVDZTdEx3R2dtWUJFSy1WaGVxWlhyZjY0RmhXcmI1Y0wyZDJ6dEdaeF95ZFlsbFJtdGZhUXpfQmlCU0FXLXJ3?oc=5",
           "source": "Google News",
-          "published": "Sat, 11 Jul 2026 09:28:00 GMT"
+          "published": "Fri, 10 Jul 2026 16:40:00 GMT"
         },
         {
-          "title": "CNN \"이란, 핵시설 복구 정황... MOU 위반 가능성\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVWpfTTJYWW10TmxCNW14SmpjcU96cEkyRU5lZUkzeWhubWQ1c0pmQlNPaWY0SXlzTHlEMzRCa2NPNXlHX2J6U0RYZG4tcWNxZVVESHV0T1JYR01WeDh0NVZZbU1JM05sUDVFdGV0bUVHejNnV2l0emZ5N0JDX3NQbjZ5dFZld1V6eVZHNDQ0QkpFNjNwZXYyTm5zTHkxUQ?oc=5",
+          "title": "안규백 병적 공개 거부에…한동훈 “탈영보다 무시무시한 내용있나” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WWmVpVFNPdWRXa1p2WE5WOUh2QUVXME84YTRFZXNBQk5UaF9UaURIVGliVWpId0M2WFdGNkhMQ1I0TWNLaldqV1NVVHNoc1ZfTDhQaTR6bmVDWTVIREVqOGdGcldzSGdjYUtZTF9nSEJUMVhVOUFZ0gFmQVVfeXFMTzBUbTVrczJ1bnVYSG9ZUjF2Y3VVX0pHcElUYkJlYmh1T1pmWE9OWHczVTVocWxkVmFKMzVKaUZja28wNUtnRnlCSVFnZFBYSFFkaGJobXlGcWlVWXVNY2NjOFZBc1B3?oc=5",
           "source": "Google News",
-          "published": "Sat, 11 Jul 2026 06:38:46 GMT"
+          "published": "Sat, 11 Jul 2026 01:15:00 GMT"
         }
       ]
     },
     {
-      "word": "K방산",
+      "word": "스페인",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "대통령이 직접 세일즈하는 ‘K-방산’ 훗날 부담은 없을까요? [반도 앨리스] - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hUVQwVFlpOU1SLUczdmNJcmhjVDJEUjJoSWl5dGk4U1p4dU5LSkhzTmN1cGYwS1hGYzk0QkluVUxHMlB5enoyeEFpc0ZTZzYxdldRWUdZTGxuZ9IBX0FVX3lxTE1vemVVLUNpR1hoQVI4djhoaG5YVHhCbHRQVmM1aEZvWHZIbjJPNVFMUDVYM3RRN2twNXIwcm1aenJ5UWJzdHBLdXp0cG8xTnp0STdFUDAxSFZFX05MeXhJ?oc=5",
+          "title": "스페인 남부 ‘역사상 최악’ 산불…사망 12명·23명 실종 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83bENGcTlLTTNPbGdBUXJnNFI2SHplOFFBZUxpRkgwMjBNbkZCVTl1QUdKRzVjSWZwRTBBR29mdHNBQXo4bkxHZTZpWGVGNUV4eXdUTXZwdExodi14a0FqQzB6eUljc1JRaWZZTVRR?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 22:00:00 GMT"
+          "published": "Sat, 11 Jul 2026 12:22:00 GMT"
         },
         {
-          "title": "[박성진의 국방 B컷] (61) ‘연패 늪’에 빠진 K방산, 갈수록 좁은 문…방산 외교는 ‘왝더독’의 함정 피해야 - 주간경향",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SUTF0QklCM2ZIbk5HNE5feW1CRHEwOEYxNmFCelAwS3M4MEZBcTFjaTZwQ3YzZFVBVTd3bDc0LTFUcE5GSWs3Ty1fQWNQTVI1V202RFAySjhnZlNvRnc?oc=5",
+          "title": "‘무적 함대’ 스페인 4강 진출…프랑스와 ‘미리 보는 결승전’ 성사 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05RHRfZ2pUd1dQTTVNN2dmWmY4TFJfOUFkTTA5bVhuampQbUJPUnY5cUY1UXJNU3JnYWlBdWxxc19FdV9FejRFMWxLR21PRkFWN3BRMjYzdHFwajg?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 05:20:00 GMT"
+          "published": "Sat, 11 Jul 2026 12:12:00 GMT"
         }
       ]
     },
     {
-      "word": "홀란",
+      "word": "건강",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "홀란과 비교에 긁혔나? 해리 케인 \"홀란과 난 전혀 다른 스타일...서로 존중한다\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcVlPbXRSb190M1VZWmdpQ01TbTVnZHBvSS1nXzhBOGJmc2NtbU56cWpYSGRac29Gc1hDWXJvM0JMR25BZTN1bEJQUFpYSXprcE1qbGg2WllYR1Z0VmhzNmppTjFTMlRHR212dTRJbFFnV2NjTWZjamk5Nk4tclNpM2xnYVRGUG1PcDEw?oc=5",
+          "title": "[기획특집/이창선 전문기자의 기획시리즈 : 장애인 건강과 생명 지키기 특강]⑤ 조절이 필요한 내분비계 건강 지키기(하): 모든 세대의 당뇨병 관리 - 미디어생활",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Bem56U3VUS3RVVWpwTUNrS21XN1p6S1ZxVXQtNjc1dW1rUDk5QjdLTmNsRFZOcGw0Z2NQbUFDemFMTlJvNi14dVhpVjVPb2tCS2xoc2g1RFhsczA2TXFCZExiOVFxbldUUmViMXNoTQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 11 Jul 2026 09:47:00 GMT"
+          "published": "Fri, 10 Jul 2026 00:41:16 GMT"
+        }
+      ]
+    },
+    {
+      "word": "지키기",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[기획특집/이창선 전문기자의 기획시리즈 : 장애인 건강과 생명 지키기 특강]⑤ 조절이 필요한 내분비계 건강 지키기(하): 모든 세대의 당뇨병 관리 - 미디어생활",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Bem56U3VUS3RVVWpwTUNrS21XN1p6S1ZxVXQtNjc1dW1rUDk5QjdLTmNsRFZOcGw0Z2NQbUFDemFMTlJvNi14dVhpVjVPb2tCS2xoc2g1RFhsczA2TXFCZExiOVFxbldUUmViMXNoTQ?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 00:41:16 GMT"
+        }
+      ]
+    },
+    {
+      "word": "나를",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프, 이란에 “나를 향한 암살 시도 땐 완전 궤멸” 경고 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SZFhWSDFUY1BxTGx1bS1XcjBJdmpIRWNzQWV6eW5aNDRJR2dlMlJwQl85NXp2eWFWMElkN3Y1T25hRFIzNHFhYmMzWUU0dURRRzNkM3dNWkFtbVI4VzZiYUFWcXVJVkNkT0xn?oc=5",
+          "source": "Google News",
+          "published": "Sat, 11 Jul 2026 08:50:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "향한",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프, 이란에 “나를 향한 암살 시도 땐 완전 궤멸” 경고 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SZFhWSDFUY1BxTGx1bS1XcjBJdmpIRWNzQWV6eW5aNDRJR2dlMlJwQl85NXp2eWFWMElkN3Y1T25hRFIzNHFhYmMzWUU0dURRRzNkM3dNWkFtbVI4VzZiYUFWcXVJVkNkT0xn?oc=5",
+          "source": "Google News",
+          "published": "Sat, 11 Jul 2026 08:50:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "시도",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프, 이란에 “나를 향한 암살 시도 땐 완전 궤멸” 경고 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SZFhWSDFUY1BxTGx1bS1XcjBJdmpIRWNzQWV6eW5aNDRJR2dlMlJwQl85NXp2eWFWMElkN3Y1T25hRFIzNHFhYmMzWUU0dURRRzNkM3dNWkFtbVI4VzZiYUFWcXVJVkNkT0xn?oc=5",
+          "source": "Google News",
+          "published": "Sat, 11 Jul 2026 08:50:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "궤멸",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프, 이란에 “나를 향한 암살 시도 땐 완전 궤멸” 경고 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SZFhWSDFUY1BxTGx1bS1XcjBJdmpIRWNzQWV6eW5aNDRJR2dlMlJwQl85NXp2eWFWMElkN3Y1T25hRFIzNHFhYmMzWUU0dURRRzNkM3dNWkFtbVI4VzZiYUFWcXVJVkNkT0xn?oc=5",
+          "source": "Google News",
+          "published": "Sat, 11 Jul 2026 08:50:00 GMT"
         }
       ]
     },
@@ -240,162 +362,6 @@
       ]
     },
     {
-      "word": "암살하면",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프 “나 암살하면 미사일 1000기로 몰살”…이란에 경고 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBNTZwOEpYQzRMNXgtSzNqM3RadlRMM0NsaGp2T01neXlxaUtVNjJQb0FLUzdjdVNwczJqQ1U4YWNaNmx4UEpuWmZSaXZCQXNDMFQ5Nks0LWs1TXctUEd6ckNCUFNjbjNpakRDb3hPRWpEME3SAWZBVV95cUxQU3o2dmZ2bXpjcWd6WXFpUEkwejhZM2NFR0ZMQnYxLTdPcGZMWnZVbXZkcTRZR2hZdE12aXBxMXdCaWl5YlNTTC1uWmhJaS1IUkMxUldCQ2VaUnM2LWlhRlJiRTFMbVE?oc=5",
-          "source": "Google News",
-          "published": "Sat, 11 Jul 2026 05:57:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "미사일",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프 “나 암살하면 미사일 1000기로 몰살”…이란에 경고 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBNTZwOEpYQzRMNXgtSzNqM3RadlRMM0NsaGp2T01neXlxaUtVNjJQb0FLUzdjdVNwczJqQ1U4YWNaNmx4UEpuWmZSaXZCQXNDMFQ5Nks0LWs1TXctUEd6ckNCUFNjbjNpakRDb3hPRWpEME3SAWZBVV95cUxQU3o2dmZ2bXpjcWd6WXFpUEkwejhZM2NFR0ZMQnYxLTdPcGZMWnZVbXZkcTRZR2hZdE12aXBxMXdCaWl5YlNTTC1uWmhJaS1IUkMxUldCQ2VaUnM2LWlhRlJiRTFMbVE?oc=5",
-          "source": "Google News",
-          "published": "Sat, 11 Jul 2026 05:57:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "1000기",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프 “나 암살하면 미사일 1000기로 몰살”…이란에 경고 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBNTZwOEpYQzRMNXgtSzNqM3RadlRMM0NsaGp2T01neXlxaUtVNjJQb0FLUzdjdVNwczJqQ1U4YWNaNmx4UEpuWmZSaXZCQXNDMFQ5Nks0LWs1TXctUEd6ckNCUFNjbjNpakRDb3hPRWpEME3SAWZBVV95cUxQU3o2dmZ2bXpjcWd6WXFpUEkwejhZM2NFR0ZMQnYxLTdPcGZMWnZVbXZkcTRZR2hZdE12aXBxMXdCaWl5YlNTTC1uWmhJaS1IUkMxUldCQ2VaUnM2LWlhRlJiRTFMbVE?oc=5",
-          "source": "Google News",
-          "published": "Sat, 11 Jul 2026 05:57:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "몰살이란",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프 “나 암살하면 미사일 1000기로 몰살”…이란에 경고 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBNTZwOEpYQzRMNXgtSzNqM3RadlRMM0NsaGp2T01neXlxaUtVNjJQb0FLUzdjdVNwczJqQ1U4YWNaNmx4UEpuWmZSaXZCQXNDMFQ5Nks0LWs1TXctUEd6ckNCUFNjbjNpakRDb3hPRWpEME3SAWZBVV95cUxQU3o2dmZ2bXpjcWd6WXFpUEkwejhZM2NFR0ZMQnYxLTdPcGZMWnZVbXZkcTRZR2hZdE12aXBxMXdCaWl5YlNTTC1uWmhJaS1IUkMxUldCQ2VaUnM2LWlhRlJiRTFMbVE?oc=5",
-          "source": "Google News",
-          "published": "Sat, 11 Jul 2026 05:57:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "경고",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프 “나 암살하면 미사일 1000기로 몰살”…이란에 경고 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBNTZwOEpYQzRMNXgtSzNqM3RadlRMM0NsaGp2T01neXlxaUtVNjJQb0FLUzdjdVNwczJqQ1U4YWNaNmx4UEpuWmZSaXZCQXNDMFQ5Nks0LWs1TXctUEd6ckNCUFNjbjNpakRDb3hPRWpEME3SAWZBVV95cUxQU3o2dmZ2bXpjcWd6WXFpUEkwejhZM2NFR0ZMQnYxLTdPcGZMWnZVbXZkcTRZR2hZdE12aXBxMXdCaWl5YlNTTC1uWmhJaS1IUkMxUldCQ2VaUnM2LWlhRlJiRTFMbVE?oc=5",
-          "source": "Google News",
-          "published": "Sat, 11 Jul 2026 05:57:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "몽골",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "李대통령, 몽골 나담축제 주빈 참석…金여사와 함께 활쏘기 체험(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QLS1pWUloS05qQXU1dGRPQUg1ekNZd056ZU9qcnhxX2lWTzRQbGtWVkZZNDlCOVAwamR3Mjh2RjFoT3BZSWpMVVplQlFIanhSck5MMndNUWdkMjjSAWBBVV95cUxQRkpYcG1jR3VmaGhqQWtnLWs0YUdTYVNnSEpoQnpvQkpieFY2RDRfY2U4QS1JSE1vVXUtUE1sT29iTkl6TWZ2NkxrTjh6WC1DTHJsUlpONWhEVFFHS2oycUI?oc=5",
-          "source": "Google News",
-          "published": "Sat, 11 Jul 2026 10:36:02 GMT"
-        }
-      ]
-    },
-    {
-      "word": "나담축제",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "李대통령, 몽골 나담축제 주빈 참석…金여사와 함께 활쏘기 체험(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QLS1pWUloS05qQXU1dGRPQUg1ekNZd056ZU9qcnhxX2lWTzRQbGtWVkZZNDlCOVAwamR3Mjh2RjFoT3BZSWpMVVplQlFIanhSck5MMndNUWdkMjjSAWBBVV95cUxQRkpYcG1jR3VmaGhqQWtnLWs0YUdTYVNnSEpoQnpvQkpieFY2RDRfY2U4QS1JSE1vVXUtUE1sT29iTkl6TWZ2NkxrTjh6WC1DTHJsUlpONWhEVFFHS2oycUI?oc=5",
-          "source": "Google News",
-          "published": "Sat, 11 Jul 2026 10:36:02 GMT"
-        }
-      ]
-    },
-    {
-      "word": "주빈",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "李대통령, 몽골 나담축제 주빈 참석…金여사와 함께 활쏘기 체험(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QLS1pWUloS05qQXU1dGRPQUg1ekNZd056ZU9qcnhxX2lWTzRQbGtWVkZZNDlCOVAwamR3Mjh2RjFoT3BZSWpMVVplQlFIanhSck5MMndNUWdkMjjSAWBBVV95cUxQRkpYcG1jR3VmaGhqQWtnLWs0YUdTYVNnSEpoQnpvQkpieFY2RDRfY2U4QS1JSE1vVXUtUE1sT29iTkl6TWZ2NkxrTjh6WC1DTHJsUlpONWhEVFFHS2oycUI?oc=5",
-          "source": "Google News",
-          "published": "Sat, 11 Jul 2026 10:36:02 GMT"
-        }
-      ]
-    },
-    {
-      "word": "참석여사",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "李대통령, 몽골 나담축제 주빈 참석…金여사와 함께 활쏘기 체험(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QLS1pWUloS05qQXU1dGRPQUg1ekNZd056ZU9qcnhxX2lWTzRQbGtWVkZZNDlCOVAwamR3Mjh2RjFoT3BZSWpMVVplQlFIanhSck5MMndNUWdkMjjSAWBBVV95cUxQRkpYcG1jR3VmaGhqQWtnLWs0YUdTYVNnSEpoQnpvQkpieFY2RDRfY2U4QS1JSE1vVXUtUE1sT29iTkl6TWZ2NkxrTjh6WC1DTHJsUlpONWhEVFFHS2oycUI?oc=5",
-          "source": "Google News",
-          "published": "Sat, 11 Jul 2026 10:36:02 GMT"
-        }
-      ]
-    },
-    {
-      "word": "함께",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "李대통령, 몽골 나담축제 주빈 참석…金여사와 함께 활쏘기 체험(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QLS1pWUloS05qQXU1dGRPQUg1ekNZd056ZU9qcnhxX2lWTzRQbGtWVkZZNDlCOVAwamR3Mjh2RjFoT3BZSWpMVVplQlFIanhSck5MMndNUWdkMjjSAWBBVV95cUxQRkpYcG1jR3VmaGhqQWtnLWs0YUdTYVNnSEpoQnpvQkpieFY2RDRfY2U4QS1JSE1vVXUtUE1sT29iTkl6TWZ2NkxrTjh6WC1DTHJsUlpONWhEVFFHS2oycUI?oc=5",
-          "source": "Google News",
-          "published": "Sat, 11 Jul 2026 10:36:02 GMT"
-        }
-      ]
-    },
-    {
-      "word": "활쏘기",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "李대통령, 몽골 나담축제 주빈 참석…金여사와 함께 활쏘기 체험(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QLS1pWUloS05qQXU1dGRPQUg1ekNZd056ZU9qcnhxX2lWTzRQbGtWVkZZNDlCOVAwamR3Mjh2RjFoT3BZSWpMVVplQlFIanhSck5MMndNUWdkMjjSAWBBVV95cUxQRkpYcG1jR3VmaGhqQWtnLWs0YUdTYVNnSEpoQnpvQkpieFY2RDRfY2U4QS1JSE1vVXUtUE1sT29iTkl6TWZ2NkxrTjh6WC1DTHJsUlpONWhEVFFHS2oycUI?oc=5",
-          "source": "Google News",
-          "published": "Sat, 11 Jul 2026 10:36:02 GMT"
-        }
-      ]
-    },
-    {
-      "word": "체험종합",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "李대통령, 몽골 나담축제 주빈 참석…金여사와 함께 활쏘기 체험(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QLS1pWUloS05qQXU1dGRPQUg1ekNZd056ZU9qcnhxX2lWTzRQbGtWVkZZNDlCOVAwamR3Mjh2RjFoT3BZSWpMVVplQlFIanhSck5MMndNUWdkMjjSAWBBVV95cUxQRkpYcG1jR3VmaGhqQWtnLWs0YUdTYVNnSEpoQnpvQkpieFY2RDRfY2U4QS1JSE1vVXUtUE1sT29iTkl6TWZ2NkxrTjh6WC1DTHJsUlpONWhEVFFHS2oycUI?oc=5",
-          "source": "Google News",
-          "published": "Sat, 11 Jul 2026 10:36:02 GMT"
-        }
-      ]
-    },
-    {
       "word": "검찰개혁자문위원장",
       "count": 1,
       "category": "NOUN",
@@ -435,6 +401,19 @@
       ]
     },
     {
+      "word": "사건",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "前 검찰개혁자문위원장 “檢 보완수사 폐지 시 ‘장윤기 사건’ 같은 일 묻힐 가능성 커져” - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd2ZNZ1BwNVBYOUpuUkFteUtYcEZ2NURraEMtSy1Sa2RJSE9tMldlVWxfeGlvbksweElJcE9VWTgwZEI0OEZ3eUJyUTZ1QzJiLUNDb0FZWVkyWUV1dEZ5X0ZHYTdUM3pmY2pHMldybzRnd0pTZC1LX1duTWVDN09PbkFSbGtjZG8?oc=5",
+          "source": "Google News",
+          "published": "Sat, 11 Jul 2026 09:28:00 GMT"
+        }
+      ]
+    },
+    {
       "word": "같은",
       "count": 1,
       "category": "NOUN",
@@ -461,6 +440,19 @@
       ]
     },
     {
+      "word": "가능",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "前 검찰개혁자문위원장 “檢 보완수사 폐지 시 ‘장윤기 사건’ 같은 일 묻힐 가능성 커져” - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd2ZNZ1BwNVBYOUpuUkFteUtYcEZ2NURraEMtSy1Sa2RJSE9tMldlVWxfeGlvbksweElJcE9VWTgwZEI0OEZ3eUJyUTZ1QzJiLUNDb0FZWVkyWUV1dEZ5X0ZHYTdUM3pmY2pHMldybzRnd0pTZC1LX1duTWVDN09PbkFSbGtjZG8?oc=5",
+          "source": "Google News",
+          "published": "Sat, 11 Jul 2026 09:28:00 GMT"
+        }
+      ]
+    },
+    {
       "word": "커져",
       "count": 1,
       "category": "NOUN",
@@ -474,106 +466,132 @@
       ]
     },
     {
-      "word": "주재",
+      "word": "적정",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "李 주재 부동산토론회 앞두고... 野 \"답정너\" 與 \"집단지성\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT0t4ZU5jeDAtMUJfV1I3blU4SGx1WXM3Tks4eWJKUFRxWjBJVExwV1owY0hUNmNJSld2ODRXSHVJVTBDMnptdGFpOVJIbl9sQkZ1dTQ5Wmg5X2ctWnNiR3ZBekwyWkpiLTFjbGVrdGtsdzN1eEFlbmYxTEQxdDdPdUpmUVdRUQ?oc=5",
+          "title": "적정 보유세-대출 규제-공급방안… 부동산 ‘7대 이슈’ 공개 논의 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aQ2cybHAzRzcxc2JNNjRkS1I3TUpjVHdZdmZzR3o0ZzQxc1ZYVmtSaXJHV1dOR0pOOVJXOFFUV2RJUmFhV0J6ZUVIM2RDbExLLXN2aU9RcTJGWlRKTnBTaGpVNVhuLXJGbU1zcW1FeGVJeDRGSG9j0gFmQVVfeXFMT2tqem9KbUR4MWR6MFJxLWJCVzA3Y1JiWGRiS0tkSUYzVDZTdEx3R2dtWUJFSy1WaGVxWlhyZjY0RmhXcmI1Y0wyZDJ6dEdaeF95ZFlsbFJtdGZhUXpfQmlCU0FXLXJ3?oc=5",
           "source": "Google News",
-          "published": "Sat, 11 Jul 2026 05:19:59 GMT"
+          "published": "Fri, 10 Jul 2026 16:40:00 GMT"
         }
       ]
     },
     {
-      "word": "부동산토론회",
+      "word": "보유세대출",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "李 주재 부동산토론회 앞두고... 野 \"답정너\" 與 \"집단지성\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT0t4ZU5jeDAtMUJfV1I3blU4SGx1WXM3Tks4eWJKUFRxWjBJVExwV1owY0hUNmNJSld2ODRXSHVJVTBDMnptdGFpOVJIbl9sQkZ1dTQ5Wmg5X2ctWnNiR3ZBekwyWkpiLTFjbGVrdGtsdzN1eEFlbmYxTEQxdDdPdUpmUVdRUQ?oc=5",
+          "title": "적정 보유세-대출 규제-공급방안… 부동산 ‘7대 이슈’ 공개 논의 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aQ2cybHAzRzcxc2JNNjRkS1I3TUpjVHdZdmZzR3o0ZzQxc1ZYVmtSaXJHV1dOR0pOOVJXOFFUV2RJUmFhV0J6ZUVIM2RDbExLLXN2aU9RcTJGWlRKTnBTaGpVNVhuLXJGbU1zcW1FeGVJeDRGSG9j0gFmQVVfeXFMT2tqem9KbUR4MWR6MFJxLWJCVzA3Y1JiWGRiS0tkSUYzVDZTdEx3R2dtWUJFSy1WaGVxWlhyZjY0RmhXcmI1Y0wyZDJ6dEdaeF95ZFlsbFJtdGZhUXpfQmlCU0FXLXJ3?oc=5",
           "source": "Google News",
-          "published": "Sat, 11 Jul 2026 05:19:59 GMT"
+          "published": "Fri, 10 Jul 2026 16:40:00 GMT"
         }
       ]
     },
     {
-      "word": "앞두",
+      "word": "규제공급방안",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "李 주재 부동산토론회 앞두고... 野 \"답정너\" 與 \"집단지성\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT0t4ZU5jeDAtMUJfV1I3blU4SGx1WXM3Tks4eWJKUFRxWjBJVExwV1owY0hUNmNJSld2ODRXSHVJVTBDMnptdGFpOVJIbl9sQkZ1dTQ5Wmg5X2ctWnNiR3ZBekwyWkpiLTFjbGVrdGtsdzN1eEFlbmYxTEQxdDdPdUpmUVdRUQ?oc=5",
+          "title": "적정 보유세-대출 규제-공급방안… 부동산 ‘7대 이슈’ 공개 논의 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aQ2cybHAzRzcxc2JNNjRkS1I3TUpjVHdZdmZzR3o0ZzQxc1ZYVmtSaXJHV1dOR0pOOVJXOFFUV2RJUmFhV0J6ZUVIM2RDbExLLXN2aU9RcTJGWlRKTnBTaGpVNVhuLXJGbU1zcW1FeGVJeDRGSG9j0gFmQVVfeXFMT2tqem9KbUR4MWR6MFJxLWJCVzA3Y1JiWGRiS0tkSUYzVDZTdEx3R2dtWUJFSy1WaGVxWlhyZjY0RmhXcmI1Y0wyZDJ6dEdaeF95ZFlsbFJtdGZhUXpfQmlCU0FXLXJ3?oc=5",
           "source": "Google News",
-          "published": "Sat, 11 Jul 2026 05:19:59 GMT"
+          "published": "Fri, 10 Jul 2026 16:40:00 GMT"
         }
       ]
     },
     {
-      "word": "답정너",
+      "word": "부동산",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "李 주재 부동산토론회 앞두고... 野 \"답정너\" 與 \"집단지성\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT0t4ZU5jeDAtMUJfV1I3blU4SGx1WXM3Tks4eWJKUFRxWjBJVExwV1owY0hUNmNJSld2ODRXSHVJVTBDMnptdGFpOVJIbl9sQkZ1dTQ5Wmg5X2ctWnNiR3ZBekwyWkpiLTFjbGVrdGtsdzN1eEFlbmYxTEQxdDdPdUpmUVdRUQ?oc=5",
+          "title": "적정 보유세-대출 규제-공급방안… 부동산 ‘7대 이슈’ 공개 논의 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aQ2cybHAzRzcxc2JNNjRkS1I3TUpjVHdZdmZzR3o0ZzQxc1ZYVmtSaXJHV1dOR0pOOVJXOFFUV2RJUmFhV0J6ZUVIM2RDbExLLXN2aU9RcTJGWlRKTnBTaGpVNVhuLXJGbU1zcW1FeGVJeDRGSG9j0gFmQVVfeXFMT2tqem9KbUR4MWR6MFJxLWJCVzA3Y1JiWGRiS0tkSUYzVDZTdEx3R2dtWUJFSy1WaGVxWlhyZjY0RmhXcmI1Y0wyZDJ6dEdaeF95ZFlsbFJtdGZhUXpfQmlCU0FXLXJ3?oc=5",
           "source": "Google News",
-          "published": "Sat, 11 Jul 2026 05:19:59 GMT"
+          "published": "Fri, 10 Jul 2026 16:40:00 GMT"
         }
       ]
     },
     {
-      "word": "집단지",
+      "word": "7대",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "李 주재 부동산토론회 앞두고... 野 \"답정너\" 與 \"집단지성\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT0t4ZU5jeDAtMUJfV1I3blU4SGx1WXM3Tks4eWJKUFRxWjBJVExwV1owY0hUNmNJSld2ODRXSHVJVTBDMnptdGFpOVJIbl9sQkZ1dTQ5Wmg5X2ctWnNiR3ZBekwyWkpiLTFjbGVrdGtsdzN1eEFlbmYxTEQxdDdPdUpmUVdRUQ?oc=5",
+          "title": "적정 보유세-대출 규제-공급방안… 부동산 ‘7대 이슈’ 공개 논의 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aQ2cybHAzRzcxc2JNNjRkS1I3TUpjVHdZdmZzR3o0ZzQxc1ZYVmtSaXJHV1dOR0pOOVJXOFFUV2RJUmFhV0J6ZUVIM2RDbExLLXN2aU9RcTJGWlRKTnBTaGpVNVhuLXJGbU1zcW1FeGVJeDRGSG9j0gFmQVVfeXFMT2tqem9KbUR4MWR6MFJxLWJCVzA3Y1JiWGRiS0tkSUYzVDZTdEx3R2dtWUJFSy1WaGVxWlhyZjY0RmhXcmI1Y0wyZDJ6dEdaeF95ZFlsbFJtdGZhUXpfQmlCU0FXLXJ3?oc=5",
           "source": "Google News",
-          "published": "Sat, 11 Jul 2026 05:19:59 GMT"
+          "published": "Fri, 10 Jul 2026 16:40:00 GMT"
         }
       ]
     },
     {
-      "word": "수사팀원",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "[단독] 장윤기 수사팀원들 충격 진술‥\"'강간살인죄' 적용, 서장이 막았다\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55NjJVd0dtRzBXTkg5SWVseVJzMktwRWVZakY3SFloWElqTHZiWV9sLS1LTlVoeHVKTUY5cnl5NWktQlpVQU52enl4LTJqOFJLeVB2VW5MN1pBdlhTZDVVbWVfOHViMmF6NVN6LW5PVlpYaDBvWmlB0gF3QVVfeXFMTW5kV3lMYmlaTnJKOXdmaWRPbjdORjNZNVVpWWR1djl4bGtQSkgySmlCV1FEX0lNN1p0cDZQMlZhU2ptdDFhSWFrcTNJRnh6V0FYaWI1dXRRMk5lOUFKM1VqNjZEMWhiSWthNzVqMDdIOHM1UXJqdWM?oc=5",
-          "source": "Google News",
-          "published": "Sat, 11 Jul 2026 04:53:47 GMT"
-        }
-      ]
-    },
-    {
-      "word": "충격",
+      "word": "이슈",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[단독] 장윤기 수사팀원들 충격 진술‥\"'강간살인죄' 적용, 서장이 막았다\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55NjJVd0dtRzBXTkg5SWVseVJzMktwRWVZakY3SFloWElqTHZiWV9sLS1LTlVoeHVKTUY5cnl5NWktQlpVQU52enl4LTJqOFJLeVB2VW5MN1pBdlhTZDVVbWVfOHViMmF6NVN6LW5PVlpYaDBvWmlB0gF3QVVfeXFMTW5kV3lMYmlaTnJKOXdmaWRPbjdORjNZNVVpWWR1djl4bGtQSkgySmlCV1FEX0lNN1p0cDZQMlZhU2ptdDFhSWFrcTNJRnh6V0FYaWI1dXRRMk5lOUFKM1VqNjZEMWhiSWthNzVqMDdIOHM1UXJqdWM?oc=5",
+          "title": "적정 보유세-대출 규제-공급방안… 부동산 ‘7대 이슈’ 공개 논의 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aQ2cybHAzRzcxc2JNNjRkS1I3TUpjVHdZdmZzR3o0ZzQxc1ZYVmtSaXJHV1dOR0pOOVJXOFFUV2RJUmFhV0J6ZUVIM2RDbExLLXN2aU9RcTJGWlRKTnBTaGpVNVhuLXJGbU1zcW1FeGVJeDRGSG9j0gFmQVVfeXFMT2tqem9KbUR4MWR6MFJxLWJCVzA3Y1JiWGRiS0tkSUYzVDZTdEx3R2dtWUJFSy1WaGVxWlhyZjY0RmhXcmI1Y0wyZDJ6dEdaeF95ZFlsbFJtdGZhUXpfQmlCU0FXLXJ3?oc=5",
           "source": "Google News",
-          "published": "Sat, 11 Jul 2026 04:53:47 GMT"
+          "published": "Fri, 10 Jul 2026 16:40:00 GMT"
         }
       ]
     },
     {
-      "word": "진술강간살인죄",
+      "word": "논의",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[단독] 장윤기 수사팀원들 충격 진술‥\"'강간살인죄' 적용, 서장이 막았다\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55NjJVd0dtRzBXTkg5SWVseVJzMktwRWVZakY3SFloWElqTHZiWV9sLS1LTlVoeHVKTUY5cnl5NWktQlpVQU52enl4LTJqOFJLeVB2VW5MN1pBdlhTZDVVbWVfOHViMmF6NVN6LW5PVlpYaDBvWmlB0gF3QVVfeXFMTW5kV3lMYmlaTnJKOXdmaWRPbjdORjNZNVVpWWR1djl4bGtQSkgySmlCV1FEX0lNN1p0cDZQMlZhU2ptdDFhSWFrcTNJRnh6V0FYaWI1dXRRMk5lOUFKM1VqNjZEMWhiSWthNzVqMDdIOHM1UXJqdWM?oc=5",
+          "title": "적정 보유세-대출 규제-공급방안… 부동산 ‘7대 이슈’ 공개 논의 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aQ2cybHAzRzcxc2JNNjRkS1I3TUpjVHdZdmZzR3o0ZzQxc1ZYVmtSaXJHV1dOR0pOOVJXOFFUV2RJUmFhV0J6ZUVIM2RDbExLLXN2aU9RcTJGWlRKTnBTaGpVNVhuLXJGbU1zcW1FeGVJeDRGSG9j0gFmQVVfeXFMT2tqem9KbUR4MWR6MFJxLWJCVzA3Y1JiWGRiS0tkSUYzVDZTdEx3R2dtWUJFSy1WaGVxWlhyZjY0RmhXcmI1Y0wyZDJ6dEdaeF95ZFlsbFJtdGZhUXpfQmlCU0FXLXJ3?oc=5",
           "source": "Google News",
-          "published": "Sat, 11 Jul 2026 04:53:47 GMT"
+          "published": "Fri, 10 Jul 2026 16:40:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "휴전",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "\"휴전 끝났다\" 트럼프 통보에 이란도 \"항복 없다\"…강대강 대치 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wamh5WTd0RlExU3B3UG1LN0ZnY0wxUnFXeU50aUE2OGFZcHpGYzdkQzhqRU9vdWxCbHBQYWg2bC1yajNpanFWNW12cnkwcHhJMjdueXZfcUtUUdIBVEFVX3lxTFBFaEVRNEgzWVhBUi1OMVdBS0taR3lMMmVHN2hIMDJWMENyeHNya2tBNkg2QVdSWExhVEVkdzNOaTd4YU9zQkc5ZExmb2ZYcFhPSk1mQw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 22:17:11 GMT"
+        }
+      ]
+    },
+    {
+      "word": "끝났다",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "\"휴전 끝났다\" 트럼프 통보에 이란도 \"항복 없다\"…강대강 대치 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wamh5WTd0RlExU3B3UG1LN0ZnY0wxUnFXeU50aUE2OGFZcHpGYzdkQzhqRU9vdWxCbHBQYWg2bC1yajNpanFWNW12cnkwcHhJMjdueXZfcUtUUdIBVEFVX3lxTFBFaEVRNEgzWVhBUi1OMVdBS0taR3lMMmVHN2hIMDJWMENyeHNya2tBNkg2QVdSWExhVEVkdzNOaTd4YU9zQkc5ZExmb2ZYcFhPSk1mQw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 22:17:11 GMT"
+        }
+      ]
+    },
+    {
+      "word": "통보",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "\"휴전 끝났다\" 트럼프 통보에 이란도 \"항복 없다\"…강대강 대치 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wamh5WTd0RlExU3B3UG1LN0ZnY0wxUnFXeU50aUE2OGFZcHpGYzdkQzhqRU9vdWxCbHBQYWg2bC1yajNpanFWNW12cnkwcHhJMjdueXZfcUtUUdIBVEFVX3lxTFBFaEVRNEgzWVhBUi1OMVdBS0taR3lMMmVHN2hIMDJWMENyeHNya2tBNkg2QVdSWExhVEVkdzNOaTd4YU9zQkc5ZExmb2ZYcFhPSk1mQw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 10 Jul 2026 22:17:11 GMT"
         }
       ]
     }
