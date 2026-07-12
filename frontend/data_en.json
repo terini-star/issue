@@ -1,24 +1,80 @@
 {
   "language": "en",
-  "last_updated": 1783876066.3081846,
+  "last_updated": 1783883730.809559,
   "count": 40,
   "trends": [
+    {
+      "word": "Iran",
+      "count": 5,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Iran Live Updates: After Intense U.S. Strikes, Iran Targets Gulf States and Claims Strait is Closed - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBITHdYYzF5TFFMLW9Ma18wTjVrdy1DMFBsUmxFUXNUQV9fT3FEMGstQ3dld0p2MTlFcGJ5NFRtSG5ZR2NUNERoU1lram5vbUdDbFdUQ0RlRk8tVTlIQWpobHZGcjhzSHZtSGp4blRJMlFuUQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 18:55:42 GMT"
+        },
+        {
+          "title": "Iran expands attacks on Gulf states after US strikes, says Strait of Hormuz closed - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWNfWDBGeUlZdnVYdk9zTTBTa05FcHZQZ2NTaE14ZU9SUFRKcDgyamdEaUFjVi1ycHRuaEdaV2cwU3FSWjZqb3BzNXBvMmdobFNvejdtRGo0QUk3emV4alhETFNOcWgyQUg0MnFDVF9mSHRuM3R0Zng3ZnNWUDlqajlyWndRaHk2dkdycXVNdFA0S21RYk5YRElCTVBQZjloVEF2bU5ZTEl6bDFabTdCWWVSdw?oc=5",
+          "source": "Google News",
+          "published": "Sat, 11 Jul 2026 23:21:00 GMT"
+        },
+        {
+          "title": "Iran war escalates as US, IRGC exchange fire over Strait of Hormuz - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVjRMWlNaRDhUd1I4Y0pIa3ZQaDdqWUR2TUVCNGl5bDlVT0Y4LTF5LUhtTDR5Ynk5dkZ4bzJXRDBkSTg4VVoyTkdmU3o0bHZYLV9NZTVBaGlraGMxdWhEd3VjdFZNbXQ3SXlLcHkzMlNtR0lOMkxvWWo3ZlpnTTdIX2UtS1lMUGM?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 16:29:24 GMT"
+        },
+        {
+          "title": "Live updates • Explosions reported in Iran's Bandar Abbas as Tehran strikes Kuwait - Haaretz",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQQTcwMlZubEhjOUxIWHgzUWNUa0FKUUgxZEptLVV6UXNzdkdUS0U0dlRMaFFXcmVNTXJYS2JNQTNTSDhRS21NeXFCZEl1a1hjME1aaW1hRkVwRmp0c3hpTW9Jb2tPUEhKSUVhUC16U2UxMXJwV2lmd1NLUnJPbTd1UlRNUWdlWTlmcTc5ZjFLdERHNUx0VlNidFNiOHQwaEhIQ3Nxc1NIRy1vTkxIWXRJcXozcXFvdGh5dWdoc2N2UlI3SlNrdDV4bVAwUndaWUtPZnhURUtEUlE0T2ZKWmZwRG4yYnBlNVZLUE5FbGFRVm43elU2Y01pRDIxOVlRbVdWS1B4Q19RQ25uVjE2QzMyNUZVbjlQNnlP?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 17:41:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Apple",
+      "count": 4,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SLXZXRVdMZTFEOGZXeklZZ08teGV4cDBzX0QwamVMaXJwWjRxdjlyeFdEU25HTktDVEpjSHRxZkpBSkR3YmYzV0VvOHptNVV2Wi1INmpkdEpFcW1TTjNhMFRmSWFDbjluM1BJQms2QTEwMkxtTmfSAXtBVV95cUxQVkl1TjhyX0cwZFgxRW03dXRWazV3bUNEVklENjh3SlZPcDBBZFpDWEk4NWlRaGowM2JrY0JnZndKejZlUHd3SDBYQURjTHU5Z1ZseXlvXzdRamZ4VUF6QUQwYXVKSUptOTRJTmlDcFBTT0hyOWN5U3ZVV3M?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 15:32:34 GMT"
+        },
+        {
+          "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips - The Verge",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTVdadFM1QW1fWFNnZHpkSV9La3p1SVcwWmg2QUlZTVZDSEdBWFBjY0N4UW1kLXlTZ2lmRm9LeVJiWlFkVmpvM2l5a1NlMEk4eklQaHVGaF9nRHFPZDRKdi1xYmNab0RXdmQzaVZmS3pCMW5pZE9VRlUzS1dTTHRrOS1uZjFOQQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 16:27:06 GMT"
+        },
+        {
+          "title": "Apple plans new Apple pencils, expands iPhone tap to pay in stores: Report - Firstpost",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdXo0aDFIYW5fWFlCTG9uZTdkZXBrZl95M3poQWVaTVdyYlh5TkhYblRnQ3NmdDhnQldFejFBcTFOeHNKQURkV2dOZm1TckFfbEN3cElZcjdyQzAxTGR5czlwNXJQNGVMakgyS1hnbDRPTDNDb0FyMjBfc3lyTWhJOE10TVFjNEZXSnRxR2xLUVJvRzRZTWRGQTc0aGNLWUVSeThIVUMyXzFtbVcwMG1wSGVRMHlHNzRUTlHSAb8BQVVfeXFMT09PN19mVVA3VXVhM3Z0WDZteV9BbzFEMzF2YmMyNUtucXl4QjVEcGExdjZfb1hORl9oX3F4NEJpRUtUTktacjhYQmpOSzRzWExQMHBiVE1BVmN2dGJRbWppQmdoY0dDUUtYODFNaUNObkV6aUZ5SnFBZUpaWWR1aTQxQW5ydVpScTA1TU9xUENZSV8wdklIdG5NbTJUMjRXZ01jbGZodl9HNEM0Nkg4cG5USmNsSEZFN3pJbEUwM1E?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 16:03:45 GMT"
+        }
+      ]
+    },
     {
       "word": "Trump",
       "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Lindsey Graham, Republican Senator and Staunch Trump Ally, Dies at 71 - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84RnJRX21KUGFXVlRpNXpBSkRzUDBUdm9WUWtYWEd5Z0xCckZlWUhGQ1RUdktBUFhXS3ZyUVE5TlRPY0ZHQ0lINGNpU3A0dVBPTm1SMVVDYzNIODZPZTItakRMb2g5OWxoelFIY3R6R1Q1MjlqZkNiaEt2cw?oc=5",
+          "title": "Lindsey Graham dies after ‘sudden illness’; Trump says senator was like family - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYnRVVnhzZkREMEhueTNmY1k5RWJNSnlZVFJyRWh3b2JvVWRMeUFkdnY4WDV6MmZwdzE0YnB3NE12YXNXeE0yWUZPM0ZsSmxyQnFqb2VyS2JHN2tKems1N2pSRWtmQ25kNnFudnBmbjJoNmpyVk9JdlZxdjdQeFh6N2ZKTHF2aGc2eWhIYURzbTJSbEZKZTMtcGNJMkl5VFRvcHk0SEZmQU0yUQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 16:53:12 GMT"
+          "published": "Sun, 12 Jul 2026 19:06:16 GMT"
         },
         {
-          "title": "On birthright citizenship, the Supreme Court ‘originalists’ split on history and Trump - Los Angeles Times",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOWRWNnJXNGNOZUpfckFUTmw3ZElzLThKdFVtZnRwZTlSdkdOSUhyMFZhTHVQU1dNT291OTk4OUJKTFZvMXpxV0liUmxBYlNCZ3BORWFnUmswNk9pYW13MkxzeDJSTDlHUzI3MV84SWZqUlBmQzFScWYyTl9hY1M4eUs5dnVlVkgzUFhZbw?oc=5",
+          "title": "Trump Whisperer Floats Wild Theory About McConnell Home Renovations - The Daily Beast",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeXNNbTJGQzlqVUhiVmVNR1VIRjBwRzJpY0FSZ0JCaWRXaWZiS0xwNWVDQUstR201dy1lRzB6VENDWVZWWG1mTWlZUk44djJuSjB5VWlQNkRjemQwN192MF9HWUVfbl9aTFJ3M0VNREJzTFJncERFcEw1U29oZm1nMFFnY2RyNW0xNU1kUHNIemxGeWhoRWVtYTNmcHhGb0tjdDR3?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 10:00:00 GMT"
+          "published": "Sun, 12 Jul 2026 14:38:00 GMT"
         },
         {
           "title": "A Trump Account could make your kid a millionaire—but financial experts warn of a catch - Fortune",
@@ -29,21 +85,152 @@
       ]
     },
     {
-      "word": "Black",
+      "word": "Live",
       "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Scientists Say Some Black Holes Are Born From Other Black Holes - Gizmodo",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSE1WaDZHX2dNel9YV3hBWllxa3NQakM5MGl2ZThQd0QxWi1xdTFmbGFtQ0pmRGs1UFU2a3lhVFJiX2pOTWdZdnR5elJMYkl5aVBWaWU0V3NHZ25Kdi1MWGpMa0IyQVIxaVlWQ2FVV054Sm1FTUpxOHFTWUw4MThBZjB4eTBlSksyTXQxWjZwVlRQTkVSd3cxa25R?oc=5",
+          "title": "Iran Live Updates: After Intense U.S. Strikes, Iran Targets Gulf States and Claims Strait is Closed - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBITHdYYzF5TFFMLW9Ma18wTjVrdy1DMFBsUmxFUXNUQV9fT3FEMGstQ3dld0p2MTlFcGJ5NFRtSG5ZR2NUNERoU1lram5vbUdDbFdUQ0RlRk8tVTlIQWpobHZGcjhzSHZtSGp4blRJMlFuUQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 19:30:53 GMT"
+          "published": "Sun, 12 Jul 2026 18:55:42 GMT"
         },
         {
-          "title": "Synthetic rotation brings black hole energy theory into lab, amplifying waves - Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16MUg0cUN0QlVaWUFtdFdlN0xZYWFpU1hFeWgtNTdJNmw0ZXVjT0x0OEdqV19nRVk0SEVKSkNsa3JDOUFzZ2VBRTZwU2xFRzA5VU5UZWtmb2Y1VUtiRzl4UzNvbWM3eVk2VTRTekxvNjdrbVNHRHNxU2k0OA?oc=5",
+          "title": "Live updates • Explosions reported in Iran's Bandar Abbas as Tehran strikes Kuwait - Haaretz",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQQTcwMlZubEhjOUxIWHgzUWNUa0FKUUgxZEptLVV6UXNzdkdUS0U0dlRMaFFXcmVNTXJYS2JNQTNTSDhRS21NeXFCZEl1a1hjME1aaW1hRkVwRmp0c3hpTW9Jb2tPUEhKSUVhUC16U2UxMXJwV2lmd1NLUnJPbTd1UlRNUWdlWTlmcTc5ZjFLdERHNUx0VlNidFNiOHQwaEhIQ3Nxc1NIRy1vTkxIWXRJcXozcXFvdGh5dWdoc2N2UlI3SlNrdDV4bVAwUndaWUtPZnhURUtEUlE0T2ZKWmZwRG4yYnBlNVZLUE5FbGFRVm43elU2Y01pRDIxOVlRbVdWS1B4Q19RQ25uVjE2QzMyNUZVbjlQNnlP?oc=5",
           "source": "Google News",
-          "published": "Sat, 11 Jul 2026 21:00:06 GMT"
+          "published": "Sun, 12 Jul 2026 17:41:00 GMT"
+        },
+        {
+          "title": "Wimbledon men's final: Score, live updates as Jannik Sinner, Alexander Zverev face off - Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTkNnY2Y0cnNtOGJjMTVLX3pLNkNiZXlSYldkRGtWb3lJcWluVDB2aXg4ZDJ1Mzh4TEtQR2FzQXZmQnNNaWZjZVZLVWp1YWtoWjFsR29GUk5qdlpvdmpLQjhveEdqa0s0VmJuV0VLVkFsdklVN1dSUkdTRjdrY1J1SUgtSGxON3FVRUJQY0hhN0hlNnRPaktFTF9GQUNmRlpVZmNSS0MwSzlaMnFOQXpJNDh5OGh6Tk5ReXgwa2VLN3lRWC1wamZCMHA3aE85RmM?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 18:57:09 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Updates",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Iran Live Updates: After Intense U.S. Strikes, Iran Targets Gulf States and Claims Strait is Closed - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBITHdYYzF5TFFMLW9Ma18wTjVrdy1DMFBsUmxFUXNUQV9fT3FEMGstQ3dld0p2MTlFcGJ5NFRtSG5ZR2NUNERoU1lram5vbUdDbFdUQ0RlRk8tVTlIQWpobHZGcjhzSHZtSGp4blRJMlFuUQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 18:55:42 GMT"
+        },
+        {
+          "title": "Live updates • Explosions reported in Iran's Bandar Abbas as Tehran strikes Kuwait - Haaretz",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQQTcwMlZubEhjOUxIWHgzUWNUa0FKUUgxZEptLVV6UXNzdkdUS0U0dlRMaFFXcmVNTXJYS2JNQTNTSDhRS21NeXFCZEl1a1hjME1aaW1hRkVwRmp0c3hpTW9Jb2tPUEhKSUVhUC16U2UxMXJwV2lmd1NLUnJPbTd1UlRNUWdlWTlmcTc5ZjFLdERHNUx0VlNidFNiOHQwaEhIQ3Nxc1NIRy1vTkxIWXRJcXozcXFvdGh5dWdoc2N2UlI3SlNrdDV4bVAwUndaWUtPZnhURUtEUlE0T2ZKWmZwRG4yYnBlNVZLUE5FbGFRVm43elU2Y01pRDIxOVlRbVdWS1B4Q19RQ25uVjE2QzMyNUZVbjlQNnlP?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 17:41:00 GMT"
+        },
+        {
+          "title": "Wimbledon men's final: Score, live updates as Jannik Sinner, Alexander Zverev face off - Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTkNnY2Y0cnNtOGJjMTVLX3pLNkNiZXlSYldkRGtWb3lJcWluVDB2aXg4ZDJ1Mzh4TEtQR2FzQXZmQnNNaWZjZVZLVWp1YWtoWjFsR29GUk5qdlpvdmpLQjhveEdqa0s0VmJuV0VLVkFsdklVN1dSUkdTRjdrY1J1SUgtSGxON3FVRUJQY0hhN0hlNnRPaktFTF9GQUNmRlpVZmNSS0MwSzlaMnFOQXpJNDh5OGh6Tk5ReXgwa2VLN3lRWC1wamZCMHA3aE85RmM?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 18:57:09 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Strikes",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Iran Live Updates: After Intense U.S. Strikes, Iran Targets Gulf States and Claims Strait is Closed - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBITHdYYzF5TFFMLW9Ma18wTjVrdy1DMFBsUmxFUXNUQV9fT3FEMGstQ3dld0p2MTlFcGJ5NFRtSG5ZR2NUNERoU1lram5vbUdDbFdUQ0RlRk8tVTlIQWpobHZGcjhzSHZtSGp4blRJMlFuUQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 18:55:42 GMT"
+        },
+        {
+          "title": "Iran expands attacks on Gulf states after US strikes, says Strait of Hormuz closed - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWNfWDBGeUlZdnVYdk9zTTBTa05FcHZQZ2NTaE14ZU9SUFRKcDgyamdEaUFjVi1ycHRuaEdaV2cwU3FSWjZqb3BzNXBvMmdobFNvejdtRGo0QUk3emV4alhETFNOcWgyQUg0MnFDVF9mSHRuM3R0Zng3ZnNWUDlqajlyWndRaHk2dkdycXVNdFA0S21RYk5YRElCTVBQZjloVEF2bU5ZTEl6bDFabTdCWWVSdw?oc=5",
+          "source": "Google News",
+          "published": "Sat, 11 Jul 2026 23:21:00 GMT"
+        },
+        {
+          "title": "Live updates • Explosions reported in Iran's Bandar Abbas as Tehran strikes Kuwait - Haaretz",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQQTcwMlZubEhjOUxIWHgzUWNUa0FKUUgxZEptLVV6UXNzdkdUS0U0dlRMaFFXcmVNTXJYS2JNQTNTSDhRS21NeXFCZEl1a1hjME1aaW1hRkVwRmp0c3hpTW9Jb2tPUEhKSUVhUC16U2UxMXJwV2lmd1NLUnJPbTd1UlRNUWdlWTlmcTc5ZjFLdERHNUx0VlNidFNiOHQwaEhIQ3Nxc1NIRy1vTkxIWXRJcXozcXFvdGh5dWdoc2N2UlI3SlNrdDV4bVAwUndaWUtPZnhURUtEUlE0T2ZKWmZwRG4yYnBlNVZLUE5FbGFRVm43elU2Y01pRDIxOVlRbVdWS1B4Q19RQ25uVjE2QzMyNUZVbjlQNnlP?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 17:41:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "States",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Iran Live Updates: After Intense U.S. Strikes, Iran Targets Gulf States and Claims Strait is Closed - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBITHdYYzF5TFFMLW9Ma18wTjVrdy1DMFBsUmxFUXNUQV9fT3FEMGstQ3dld0p2MTlFcGJ5NFRtSG5ZR2NUNERoU1lram5vbUdDbFdUQ0RlRk8tVTlIQWpobHZGcjhzSHZtSGp4blRJMlFuUQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 18:55:42 GMT"
+        },
+        {
+          "title": "Iran expands attacks on Gulf states after US strikes, says Strait of Hormuz closed - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWNfWDBGeUlZdnVYdk9zTTBTa05FcHZQZ2NTaE14ZU9SUFRKcDgyamdEaUFjVi1ycHRuaEdaV2cwU3FSWjZqb3BzNXBvMmdobFNvejdtRGo0QUk3emV4alhETFNOcWgyQUg0MnFDVF9mSHRuM3R0Zng3ZnNWUDlqajlyWndRaHk2dkdycXVNdFA0S21RYk5YRElCTVBQZjloVEF2bU5ZTEl6bDFabTdCWWVSdw?oc=5",
+          "source": "Google News",
+          "published": "Sat, 11 Jul 2026 23:21:00 GMT"
+        },
+        {
+          "title": "What to know about the cyclosporiasis outbreak hitting more than half of U.S. states - NPR",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbXNrYVpxQ1pNSmh6aDJkejZneHRUdGhRV2lvUzNkejMyS2NPWEpfNXZldWJieldQajgwTVNOYTQ1N09VeVFFSXc1eE5nSXlqYm1JUVI1QTV0QmNtQUp2UW0tWHVNdTZ0OVBTYy1laXdtdzRsblZKeWRaSGNMR0YxaEdfempMSFdabl9mT2pPdEFvdl8tMmt2eXRJZURZRXFzWXc?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 16:48:41 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Strait",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Iran Live Updates: After Intense U.S. Strikes, Iran Targets Gulf States and Claims Strait is Closed - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBITHdYYzF5TFFMLW9Ma18wTjVrdy1DMFBsUmxFUXNUQV9fT3FEMGstQ3dld0p2MTlFcGJ5NFRtSG5ZR2NUNERoU1lram5vbUdDbFdUQ0RlRk8tVTlIQWpobHZGcjhzSHZtSGp4blRJMlFuUQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 18:55:42 GMT"
+        },
+        {
+          "title": "Iran expands attacks on Gulf states after US strikes, says Strait of Hormuz closed - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWNfWDBGeUlZdnVYdk9zTTBTa05FcHZQZ2NTaE14ZU9SUFRKcDgyamdEaUFjVi1ycHRuaEdaV2cwU3FSWjZqb3BzNXBvMmdobFNvejdtRGo0QUk3emV4alhETFNOcWgyQUg0MnFDVF9mSHRuM3R0Zng3ZnNWUDlqajlyWndRaHk2dkdycXVNdFA0S21RYk5YRElCTVBQZjloVEF2bU5ZTEl6bDFabTdCWWVSdw?oc=5",
+          "source": "Google News",
+          "published": "Sat, 11 Jul 2026 23:21:00 GMT"
+        },
+        {
+          "title": "Iran war escalates as US, IRGC exchange fire over Strait of Hormuz - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVjRMWlNaRDhUd1I4Y0pIa3ZQaDdqWUR2TUVCNGl5bDlVT0Y4LTF5LUhtTDR5Ynk5dkZ4bzJXRDBkSTg4VVoyTkdmU3o0bHZYLV9NZTVBaGlraGMxdWhEd3VjdFZNbXQ3SXlLcHkzMlNtR0lOMkxvWWo3ZlpnTTdIX2UtS1lMUGM?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 16:29:24 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Video",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Bull bison tosses Yellowstone tourist 8ft in air, with run-in caught on video - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZDR2T0lYUTVUSHlOb0lDRlJFeGM5OEZnNVFNaExMWEFBVy1zVnVBVmdfdjRQdDNEUVh3ek91NmlLMm13VzVJR0RHcUtYa18zUlozVHlIcEZ0bDNVVXB3cHBrZl9IR2NFQkpNcVVCdE1pNlZMbFBibzEwYTJrekFKNWtRbXFlbDJIQmNsRnQxb1ZJbmROb3c4?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 17:34:00 GMT"
+        },
+        {
+          "title": "Jay-Z Fans Fight With Security During Saturday Concert at Yankee Stadium, Video Shows - TMZ",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdlRyUFd1VzVrR0thcjBGLWU1d2lFQnhteG9XR3l1VWVJNzZYYUJfZzdfT1RuY0ZBajZLV0VWWWEtS21MeEdvdERpT0prS0ZLemdtdWJrSUx4S1RfVkFmQkI0Rm5FNWwtZDNqZjZnV3RrdmpZOXR0d2ZaOHl0SmZ1LWU0T0s4eV9sZTVxd2E3cFZyQQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 17:31:14 GMT"
+        },
+        {
+          "title": "SpaceX Falcon 9 rocket launches for 35th time, hauls Starlink satellites to orbit (video) - Space",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWFFjR2UydlRocjlwalBJMTRlNkh3M2wwVWp5UWd5TV9VQTVNWUlyekhwMVd0QzFURkFld0JnTlBzR0U3TVQ0V2dOVmxyMjRoQlZWa2kybzlMaFJSY2V0WFBxZmZuZl82QWNkbU53a2ZxSzhjd3JZM1Z2LXE3YkgxeGRDUHVxbmNHYmppZ0hPQjFfaGNhOVBiRzN6M1NuWGhidjJSdlVkbVRnRmE1Mm1oVA?oc=5",
+          "source": "Google News",
+          "published": "Sat, 11 Jul 2026 04:02:20 GMT"
         }
       ]
     },
@@ -53,16 +240,16 @@
       "category": "NOUN",
       "articles": [
         {
+          "title": "What to know about the cyclosporiasis outbreak hitting more than half of U.S. states - NPR",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbXNrYVpxQ1pNSmh6aDJkejZneHRUdGhRV2lvUzNkejMyS2NPWEpfNXZldWJieldQajgwTVNOYTQ1N09VeVFFSXc1eE5nSXlqYm1JUVI1QTV0QmNtQUp2UW0tWHVNdTZ0OVBTYy1laXdtdzRsblZKeWRaSGNMR0YxaEdfempMSFdabl9mT2pPdEFvdl8tMmt2eXRJZURZRXFzWXc?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 16:48:41 GMT"
+        },
+        {
           "title": "Another US citizen tests positive for Ebola virus while working in Congo amid record outbreak - Fox News",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV1lWUk9Vc1cyN0VpUF9sejhMbTI4RzVDMHoxbTlXQldLTXlkRzVsWS16Z3cwRV9pQXU5Rkk5MUhpM1NMU2xEeVljSjJkZDk5aEttV1BuenVjZEpmNU9ESjd0TW1HUzhyZEhOV3RKUmc0akVnZEk1ZXBVTmY5aWQ1U1VNT0NsOVQ1bXY4Y2tMaGxHNTBHSks1Y3dWTDB1WDVQUG5sMFRZMTVHU1HSAbABQVVfeXFMT055MVhzSEJiOXo4MlNKVVRFYWRsNUJOWVdRMk1ZYW9hRkpUS3BtSWtqWWR6UmZxTFhQWXNNaThXOXhFZWxmQzhrLVhSZFdkYXJxTktkblpBUzdRZU5kcUlNZ0hKbE5qRFRlZXBueDRjbWo1T21kZE1fY05JMjRSWF84RV9HMlU2SG9xMUVja2JFZmV0MGNxZTc1SjVWWWsyOG9YSGxmOWIwaHFfaW00UF8?oc=5",
           "source": "Google News",
           "published": "Sat, 11 Jul 2026 23:20:23 GMT"
-        },
-        {
-          "title": "Outbreak of diarrhea caused by cyclosporiasis spreading in US with cases reported in CA, CDC says - ABC7 Los Angeles",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeUxna2lIdDZ4Z1Y1eHhrMC1oOWZTRDF6LUZTNDI3Y3dxMS1ac3BhTzRBRlROSS1sVllUSmljUFJFUmx1c0FPZXppM2Via3pqNjhzcTYtcHU4V0tNZHdXOW9zZFRFWmJqbVZEdlJPNDhlSTRPdW9WZWlRdmc5c21JOG8tb3g4VTJhbjZPTjFCNW5XaHIzaTQ1b0lsVTJsQ3A1aW1lYWRWWUNTcWZBenhqaUJWdHJCdXRvVkNEVjI5eERBRFY3cVZlWDNxd2lJdG9ZRF9JU3hyaXVKUm1GVW04?oc=5",
-          "source": "Google News",
-          "published": "Sat, 11 Jul 2026 22:57:26 GMT"
         },
         {
           "title": "Guggenheim Museum among NYC buildings that tested positive for Legionnaires' amid disease outbreak - PBS",
@@ -73,40 +260,78 @@
       ]
     },
     {
-      "word": "Strikes",
+      "word": "Gulf",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "US strikes Iran over latest ship attack and Tehran responds by hitting Arab states - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWNIZWpPMUROMXlXU0EwT1pjWWUycXFoTjBobEJLM0JpWGhjTWZwN0Q2RkxaY3N6cU9fNXZOT194MWFHYllDYUh4RWdEdmF3NVpGQ2tlOTl4dWI5VzVMWlgycVBYcmtSRDR6UV9lQmtoWkZMUWRvLUYwZXhIQzlGcVVpTGlMZElhRkxkT0pkMXlEZDJmSll0c2JsYkY?oc=5",
+          "title": "Iran Live Updates: After Intense U.S. Strikes, Iran Targets Gulf States and Claims Strait is Closed - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBITHdYYzF5TFFMLW9Ma18wTjVrdy1DMFBsUmxFUXNUQV9fT3FEMGstQ3dld0p2MTlFcGJ5NFRtSG5ZR2NUNERoU1lram5vbUdDbFdUQ0RlRk8tVTlIQWpobHZGcjhzSHZtSGp4blRJMlFuUQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 14:59:00 GMT"
+          "published": "Sun, 12 Jul 2026 18:55:42 GMT"
         },
         {
-          "title": "Iran closes Strait of Hormuz, US launches fresh strikes - DW.com",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNVNPY0lhcGZoRXpWWmVWclhKWGcxQWM3OG1ncGdmVkJZbEd6djExLU5nVjlMdk9abUZ5WHJZVThDaWktMi1FSW9DUU0zQ0syN2ctOUlGcU9NUjFwd2w1OWFDUDNZSHRPd1RMYVhvN2lSLVpYUDFEeXEyTnM4bVpGRXVwX1M?oc=5",
+          "title": "Iran expands attacks on Gulf states after US strikes, says Strait of Hormuz closed - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWNfWDBGeUlZdnVYdk9zTTBTa05FcHZQZ2NTaE14ZU9SUFRKcDgyamdEaUFjVi1ycHRuaEdaV2cwU3FSWjZqb3BzNXBvMmdobFNvejdtRGo0QUk3emV4alhETFNOcWgyQUg0MnFDVF9mSHRuM3R0Zng3ZnNWUDlqajlyWndRaHk2dkdycXVNdFA0S21RYk5YRElCTVBQZjloVEF2bU5ZTEl6bDFabTdCWWVSdw?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 13:11:45 GMT"
+          "published": "Sat, 11 Jul 2026 23:21:00 GMT"
         }
       ]
     },
     {
-      "word": "Iran",
+      "word": "Closed",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "US strikes Iran over latest ship attack and Tehran responds by hitting Arab states - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWNIZWpPMUROMXlXU0EwT1pjWWUycXFoTjBobEJLM0JpWGhjTWZwN0Q2RkxaY3N6cU9fNXZOT194MWFHYllDYUh4RWdEdmF3NVpGQ2tlOTl4dWI5VzVMWlgycVBYcmtSRDR6UV9lQmtoWkZMUWRvLUYwZXhIQzlGcVVpTGlMZElhRkxkT0pkMXlEZDJmSll0c2JsYkY?oc=5",
+          "title": "Iran Live Updates: After Intense U.S. Strikes, Iran Targets Gulf States and Claims Strait is Closed - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBITHdYYzF5TFFMLW9Ma18wTjVrdy1DMFBsUmxFUXNUQV9fT3FEMGstQ3dld0p2MTlFcGJ5NFRtSG5ZR2NUNERoU1lram5vbUdDbFdUQ0RlRk8tVTlIQWpobHZGcjhzSHZtSGp4blRJMlFuUQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 14:59:00 GMT"
+          "published": "Sun, 12 Jul 2026 18:55:42 GMT"
         },
         {
-          "title": "Iran closes Strait of Hormuz, US launches fresh strikes - DW.com",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNVNPY0lhcGZoRXpWWmVWclhKWGcxQWM3OG1ncGdmVkJZbEd6djExLU5nVjlMdk9abUZ5WHJZVThDaWktMi1FSW9DUU0zQ0syN2ctOUlGcU9NUjFwd2w1OWFDUDNZSHRPd1RMYVhvN2lSLVpYUDFEeXEyTnM4bVpGRXVwX1M?oc=5",
+          "title": "Iran expands attacks on Gulf states after US strikes, says Strait of Hormuz closed - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWNfWDBGeUlZdnVYdk9zTTBTa05FcHZQZ2NTaE14ZU9SUFRKcDgyamdEaUFjVi1ycHRuaEdaV2cwU3FSWjZqb3BzNXBvMmdobFNvejdtRGo0QUk3emV4alhETFNOcWgyQUg0MnFDVF9mSHRuM3R0Zng3ZnNWUDlqajlyWndRaHk2dkdycXVNdFA0S21RYk5YRElCTVBQZjloVEF2bU5ZTEl6bDFabTdCWWVSdw?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 13:11:45 GMT"
+          "published": "Sat, 11 Jul 2026 23:21:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Expands",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Iran expands attacks on Gulf states after US strikes, says Strait of Hormuz closed - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWNfWDBGeUlZdnVYdk9zTTBTa05FcHZQZ2NTaE14ZU9SUFRKcDgyamdEaUFjVi1ycHRuaEdaV2cwU3FSWjZqb3BzNXBvMmdobFNvejdtRGo0QUk3emV4alhETFNOcWgyQUg0MnFDVF9mSHRuM3R0Zng3ZnNWUDlqajlyWndRaHk2dkdycXVNdFA0S21RYk5YRElCTVBQZjloVEF2bU5ZTEl6bDFabTdCWWVSdw?oc=5",
+          "source": "Google News",
+          "published": "Sat, 11 Jul 2026 23:21:00 GMT"
+        },
+        {
+          "title": "Apple plans new Apple pencils, expands iPhone tap to pay in stores: Report - Firstpost",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdXo0aDFIYW5fWFlCTG9uZTdkZXBrZl95M3poQWVaTVdyYlh5TkhYblRnQ3NmdDhnQldFejFBcTFOeHNKQURkV2dOZm1TckFfbEN3cElZcjdyQzAxTGR5czlwNXJQNGVMakgyS1hnbDRPTDNDb0FyMjBfc3lyTWhJOE10TVFjNEZXSnRxR2xLUVJvRzRZTWRGQTc0aGNLWUVSeThIVUMyXzFtbVcwMG1wSGVRMHlHNzRUTlHSAb8BQVVfeXFMT09PN19mVVA3VXVhM3Z0WDZteV9BbzFEMzF2YmMyNUtucXl4QjVEcGExdjZfb1hORl9oX3F4NEJpRUtUTktacjhYQmpOSzRzWExQMHBiVE1BVmN2dGJRbWppQmdoY0dDUUtYODFNaUNObkV6aUZ5SnFBZUpaWWR1aTQxQW5ydVpScTA1TU9xUENZSV8wdklIdG5NbTJUMjRXZ01jbGZodl9HNEM0Nkg4cG5USmNsSEZFN3pJbEUwM1E?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 16:03:45 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Hormuz",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Iran expands attacks on Gulf states after US strikes, says Strait of Hormuz closed - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWNfWDBGeUlZdnVYdk9zTTBTa05FcHZQZ2NTaE14ZU9SUFRKcDgyamdEaUFjVi1ycHRuaEdaV2cwU3FSWjZqb3BzNXBvMmdobFNvejdtRGo0QUk3emV4alhETFNOcWgyQUg0MnFDVF9mSHRuM3R0Zng3ZnNWUDlqajlyWndRaHk2dkdycXVNdFA0S21RYk5YRElCTVBQZjloVEF2bU5ZTEl6bDFabTdCWWVSdw?oc=5",
+          "source": "Google News",
+          "published": "Sat, 11 Jul 2026 23:21:00 GMT"
+        },
+        {
+          "title": "Iran war escalates as US, IRGC exchange fire over Strait of Hormuz - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVjRMWlNaRDhUd1I4Y0pIa3ZQaDdqWUR2TUVCNGl5bDlVT0Y4LTF5LUhtTDR5Ynk5dkZ4bzJXRDBkSTg4VVoyTkdmU3o0bHZYLV9NZTVBaGlraGMxdWhEd3VjdFZNbXQ3SXlLcHkzMlNtR0lOMkxvWWo3ZlpnTTdIX2UtS1lMUGM?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 16:29:24 GMT"
         }
       ]
     },
@@ -149,6 +374,25 @@
       ]
     },
     {
+      "word": "Caught",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Bull bison tosses Yellowstone tourist 8ft in air, with run-in caught on video - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZDR2T0lYUTVUSHlOb0lDRlJFeGM5OEZnNVFNaExMWEFBVy1zVnVBVmdfdjRQdDNEUVh3ek91NmlLMm13VzVJR0RHcUtYa18zUlozVHlIcEZ0bDNVVXB3cHBrZl9IR2NFQkpNcVVCdE1pNlZMbFBibzEwYTJrekFKNWtRbXFlbDJIQmNsRnQxb1ZJbmROb3c4?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 17:34:00 GMT"
+        },
+        {
+          "title": "Residents of Spanish Towns Caught in Fierce Blazes Recount Harrowing Escapes - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeWg4WmM5TlE0VE9zQUlmX1N1SFJRbGtXdGd2Z05Ba1ZpUFBmb2hiemNqVXVNMVNzMXlGVkpSc2psQ2pMeVBLckhsRmt2MEJrSWd1N0NwT1U2Z3lHOUlONGcyOUI0dkk3c1FDYVZXLTVKZmI4bkVQamtUWTk2UW56YTRwc3Zfa0oxYm8zcg?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 15:31:34 GMT"
+        }
+      ]
+    },
+    {
       "word": "Record",
       "count": 2,
       "category": "NOUN",
@@ -168,161 +412,205 @@
       ]
     },
     {
-      "word": "Least",
+      "word": "Theory",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "At least two killed in Toronto street festival shooting - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TaGp6dURmZU91R3BQTTV0Z0lkRVkyUUFVaWdDQTZ3Rm9xUUN2S3RvZWtxaDJMdy1sTzBpbVhQQXpJV2xtdS1JMEVReEw0d3dCUWFMcDZhdWpoUQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 12 Jul 2026 03:56:02 GMT"
-        },
-        {
-          "title": "Love Island’s most sexual, least sexy season yet - vox.com",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbWxPM2Zab2NmWTBFd2lNaE80aDhnRkItLTlsWlVxV1BBOUk4N0I4YUNQMkstOXNzZTlNTTlhcTlnTlk5OHlydjJiWDE4QTFqb3dfY2psdzlQU1FpeDQyMG1EYnNMN3VZM2lwR3NEOUJNNTY2NzlCcUdsRkVNaFQ3dWtWRjQ3eVpMbGc?oc=5",
-          "source": "Google News",
-          "published": "Sat, 11 Jul 2026 11:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Ukraine",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Germany funds 50,000 strike drones for Ukraine, source says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObmw1bUVFVGYxWlZDbmR2eVB0QkZreWY0SW8wUW9rYkdSXzF6QVJWa1QyeDhOLVRjWVNiSkhSVURjdFg4RHA5eW9peC14SzZ3cHNqLVNTS0VsbWdFTlNVREtzTEFnaHpfSFEzWEppbG9taElxMUlHMllGenJiSGJzemQyRFBGS0labzdCX1dYQlEzcDh0ODJ2enpScw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 12 Jul 2026 12:46:34 GMT"
-        },
-        {
-          "title": "Zelensky Announces Leadership Shuffle as War Turns in Ukraine’s Favor - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRTFvb2U0d1Vaa2J6MDNOZUp1VkxaMlVBZ01PcGNKdV9fb010OE9XTkJkSlBLVEtlM2VRX1kzOVdXRTh4eG5kRndpaTAzRC14bGxSNGFSS1lsSUgwdmVneEthOGZPdkhTd05QM1QxTldzVFNhRVZNWE9xMlQ5N2lNamdTZEtqaWM?oc=5",
-          "source": "Google News",
-          "published": "Sun, 12 Jul 2026 14:51:39 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Elon",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SLXZXRVdMZTFEOGZXeklZZ08teGV4cDBzX0QwamVMaXJwWjRxdjlyeFdEU25HTktDVEpjSHRxZkpBSkR3YmYzV0VvOHptNVV2Wi1INmpkdEpFcW1TTjNhMFRmSWFDbjluM1BJQms2QTEwMkxtTmfSAXtBVV95cUxQVkl1TjhyX0cwZFgxRW03dXRWazV3bUNEVklENjh3SlZPcDBBZFpDWEk4NWlRaGowM2JrY0JnZndKejZlUHd3SDBYQURjTHU5Z1ZseXlvXzdRamZ4VUF6QUQwYXVKSUptOTRJTmlDcFBTT0hyOWN5U3ZVV3M?oc=5",
-          "source": "Google News",
-          "published": "Sun, 12 Jul 2026 15:32:34 GMT"
-        },
-        {
-          "title": "James Murdoch may have reaped as much as $7.5 billion from his pre-IPO investment in Elon Musk’s SpaceX - Fortune",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOUdnZnBhamtFSnhfUFY4bzJVY3hNZjNaUVpVRVF6M2dzdUdPMmphV3hsbHVQbzNCemJPNGlzemlQLV9zTTRqcFJ6VmhLWVI2RkFWMEtoMlZVSkU4ZlN5UjlWMWVURDhveTBBVjFmaHo1QWNGVTdEemIxN1NkY2FLSDdTM0Y?oc=5",
-          "source": "Google News",
-          "published": "Sun, 12 Jul 2026 10:31:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Musk",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SLXZXRVdMZTFEOGZXeklZZ08teGV4cDBzX0QwamVMaXJwWjRxdjlyeFdEU25HTktDVEpjSHRxZkpBSkR3YmYzV0VvOHptNVV2Wi1INmpkdEpFcW1TTjNhMFRmSWFDbjluM1BJQms2QTEwMkxtTmfSAXtBVV95cUxQVkl1TjhyX0cwZFgxRW03dXRWazV3bUNEVklENjh3SlZPcDBBZFpDWEk4NWlRaGowM2JrY0JnZndKejZlUHd3SDBYQURjTHU5Z1ZseXlvXzdRamZ4VUF6QUQwYXVKSUptOTRJTmlDcFBTT0hyOWN5U3ZVV3M?oc=5",
-          "source": "Google News",
-          "published": "Sun, 12 Jul 2026 15:32:34 GMT"
-        },
-        {
-          "title": "James Murdoch may have reaped as much as $7.5 billion from his pre-IPO investment in Elon Musk’s SpaceX - Fortune",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOUdnZnBhamtFSnhfUFY4bzJVY3hNZjNaUVpVRVF6M2dzdUdPMmphV3hsbHVQbzNCemJPNGlzemlQLV9zTTRqcFJ6VmhLWVI2RkFWMEtoMlZVSkU4ZlN5UjlWMWVURDhveTBBVjFmaHo1QWNGVTdEemIxN1NkY2FLSDdTM0Y?oc=5",
-          "source": "Google News",
-          "published": "Sun, 12 Jul 2026 10:31:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Apple",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SLXZXRVdMZTFEOGZXeklZZ08teGV4cDBzX0QwamVMaXJwWjRxdjlyeFdEU25HTktDVEpjSHRxZkpBSkR3YmYzV0VvOHptNVV2Wi1INmpkdEpFcW1TTjNhMFRmSWFDbjluM1BJQms2QTEwMkxtTmfSAXtBVV95cUxQVkl1TjhyX0cwZFgxRW03dXRWazV3bUNEVklENjh3SlZPcDBBZFpDWEk4NWlRaGowM2JrY0JnZndKejZlUHd3SDBYQURjTHU5Z1ZseXlvXzdRamZ4VUF6QUQwYXVKSUptOTRJTmlDcFBTT0hyOWN5U3ZVV3M?oc=5",
-          "source": "Google News",
-          "published": "Sun, 12 Jul 2026 15:32:34 GMT"
-        },
-        {
-          "title": "Apple’s M6, M7 and M8 Chips Show How AI Is Reshaping the Company - Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUl9aeHdaOThKcmhyY2VxUjIwaU5XR2dwc2RXQml4UEd3cGVTN2ctM3EzN3FhWWZvNlNrNE8zYy0tQXZlMS1acDBQOHRUaGliYUV3aWs3QVV4UzBPUV9USmN0dC04TjEwQjFZcENFVENkaWFMSGcweXZmRkkwYzJndE1qTzVKbzFSWXQyemNjSnN2LXEyQllQcGJmb0ZhWWpzNlpzMjBqWk5WaVRPWW9kcGFFeVAzcjkzaDN6Wlo4clhPYUE3bVE?oc=5",
-          "source": "Google News",
-          "published": "Sun, 12 Jul 2026 14:00:01 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Reveals",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "iPhone 18 Pro Release Date: New iOS Update Reveals September Plan - Forbes",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUTdpc1o3VnVxMW1heHFVLWNhYUJ0T3AtTU5BUGM5cWUzcWZNRW9xNUx5a0daUXV6LVM3Qml5SFpLZE9XUHhTM21jX1lFLXNsN3B4dlhyc0NRUDFwVEpzZlJ4UjRlNkE5YlZ5S1A1c2tUeEw3OHJnUjhCRzNHT0RNZEhoQjR2WHdtbzZFZnNyaGpudEgzTnpxb055UXNLQjYxYTVHeHREWE9RSnhuUlljc0JkZE1HUjBJcUxPVg?oc=5",
+          "title": "Trump Whisperer Floats Wild Theory About McConnell Home Renovations - The Daily Beast",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeXNNbTJGQzlqVUhiVmVNR1VIRjBwRzJpY0FSZ0JCaWRXaWZiS0xwNWVDQUstR201dy1lRzB6VENDWVZWWG1mTWlZUk44djJuSjB5VWlQNkRjemQwN192MF9HWUVfbl9aTFJ3M0VNREJzTFJncERFcEw1U29oZm1nMFFnY2RyNW0xNU1kUHNIemxGeWhoRWVtYTNmcHhGb0tjdDR3?oc=5",
           "source": "Google News",
           "published": "Sun, 12 Jul 2026 14:38:00 GMT"
         },
         {
-          "title": "Mel C reveals heated argument with Victoria Beckham that 'jeopardized' her spot in the Spice Girls and left bandmates 'disgusted' - Page Six",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOOGlMUUpta0lmMlVmdXJvcmEwQ3dzcFg0Q1ZTczhwd0wzV19oTm45dWE3QU9vN3hWX2tXOGQ4SDUza3FDWmJnejN3ZVRoQ0pRNUpCUGJ3dTlZZENaa0U5X18xR3lMU2VnZWZsMEdFX1VObnI5RnlMa2NRd1JmR09CaFVnOEZLVm4tLXE4ZzRZRFlYODg1Vk81S0JrdWdEZERHbmh3YnpvREdYVnU2UVZxeWtSUnNpSzRWY3EyeFN4a2tENWtCSVpaQVdsSHR1WlJ5RmJIN0w0VWRFRjVUTHRzYk90VkxCT29uVzhIUE4zcTRsSy1yUDVYZUpPb1JMTExST1E?oc=5",
+          "title": "Synthetic rotation brings black hole energy theory into lab, amplifying waves - Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16MUg0cUN0QlVaWUFtdFdlN0xZYWFpU1hFeWgtNTdJNmw0ZXVjT0x0OEdqV19nRVk0SEVKSkNsa3JDOUFzZ2VBRTZwU2xFRzA5VU5UZWtmb2Y1VUtiRzl4UzNvbWM3eVk2VTRTekxvNjdrbVNHRHNxU2k0OA?oc=5",
           "source": "Google News",
-          "published": "Sat, 11 Jul 2026 21:50:00 GMT"
+          "published": "Sat, 11 Jul 2026 21:00:06 GMT"
         }
       ]
     },
     {
-      "word": "Among",
+      "word": "Warn",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Box Office: ‘Moana’ Flounders With $43 Million Debut, Among Weakest of Disney’s Live-Action Remakes - Variety",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdGozenVyZU12NzNiY1ZaMFJ1YXVuVHU1OUpKUDFyeXFEa0Z1RXhDOVdjVV9XNTVZUzZzT3NjTmNoU25KN2VjUkhUYWRyZXZyTjZueFRuUlFKRURUQTN0LURHUWtOT1pYX2JlOGRxYnNxZWdQRVVNMVpqTm0xYjNVZUt6d2puUWVFSHlQdEpQZEYzMEZYM0dmRVlhNjZIclR2QUExTzhfUlY0OVVxYlhOM1d2VVpEcU5IQ09R?oc=5",
+          "title": "A Trump Account could make your kid a millionaire—but financial experts warn of a catch - Fortune",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbmszUUYtRndiV0NGaFl5N3ZPUS1TSnpmcXhZV2dpNXRUcTFtRkpjcVJZbzVFYnQ1RFJKeFU3eE1Wa09SUUFQdENPcW1WX3VGY1dGbThacFBTQ3ZIMFB5UkwxdHZDXzllYk5rTHpLcFpFQndlM3c2aFJncE8xaVdiSnJzM1NTSTBjbDZF?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 15:02:00 GMT"
+          "published": "Sun, 12 Jul 2026 11:02:00 GMT"
         },
         {
-          "title": "Guggenheim Museum among NYC buildings that tested positive for Legionnaires' amid disease outbreak - PBS",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNE5TOHloU0dwVk1IUThSZ05EaEF2T25RTk5NSFo2RjJXMktWVmEtS0xPdmd0elZNYjhCaUlYN0MzZmtZbXNqMXYzSGZFdFpoV2txc2haTUlaNkg5VHFSdnNBMks3RzdpQ1phelJuQVNrWVAtMV9uNE5pamNDRGwyTmtreWhEWjQ4UlgtOXR0Y1hocWV2VVR1dWkzWnh5eFNhSkZoY1VFcTJrc2k1TGg1SUdZWkdOZ20xcTM0VXpMamI0bFY0WTdacFZuYnNDdw?oc=5",
+          "title": "Health officials warn of possible measles exposure after second confirmed case - WZTV",
+          "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPcnU1SFZKREdMZlNFempzZ3JqM0E0OHYybURfdTVFa21pNUl0N0gyeTA4eWlZYk50ZVNvN09JVlFrNUtBeUthd3FPSlR3d3FMdU9ibVJaYnE1blJYRnM2N0V5b0pmdE9xX0ZHUEo3NU5aUTE3eTlIdllsZlJfOXY4blo1ZmNsaG5HSjRwWG45cXhOYjdKMGlRb1BaWGV5bHFUd0k0MW5HZVc5TmZuLUJpWTFVdFY1eFlVTG1kajVBOHZZaG5JbjhjV2dIRFBBcjBYTzBwOFYxZmhpMkpELXF4aS0xLWdPcEVfak1ueFlGMmh5Zm9YNU9xTHV1bXBKNG9tcW9JMVdSWkk4b3lQQ2ExS2FBWEVjbzh1NWVRMVowMl9VOGhzOHB2NC0zTDc4TEpheVRKeDAzZjFZU0Fia3N4cFI3U1dTZkNFSUl2Uzhacw?oc=5",
           "source": "Google News",
-          "published": "Sat, 11 Jul 2026 23:21:44 GMT"
+          "published": "Sat, 11 Jul 2026 21:31:45 GMT"
         }
       ]
     },
     {
-      "word": "MLB",
+      "word": "CEO",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Who are best available players for Draft Day 2? (MLB.com, MLB.TV: 11:30 a.m. ET) - MLB.com",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3dTZQSHQ3TVFUTW0tZHdUUWZHai1QNFBxLXliSllCNlpJcVpyTlFxblpHVW1uNVFKNkxYVXYxSWo1TFpLWFlua1VuV1hlMlhPZzNpdXEyRXQzdFhSMzBuWlJwMjlTYWw2ZmxyME9zc03SAXxBVV95cUxOZ0w1VGxfMHZ3Q2dqdDh1Z2RjTC04a21LNnBuNU9oRnNSRm85YW15LUprOGNseFMyaG1rcjkyOTlWRi1xbEVNSGV4YTE1YXJSSnFVMXpSUDdTVU82VC1ubjFveGNkaGRyakZpVXVVVE10bmVzM0tyOWkwVUR6?oc=5",
+          "title": "Volkswagen CEO looks to avoid plant closures as automaker moves to cut costs - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWG1UNGZhTlhMYS1rV0VvblhsZjZ5aVpxb1g2Z2JqWkNFdGdzUUNycWdhVTAzYXp6VHRFUkh2a0lyWDFVa0ZCTGFxcVdrb2djYjBZMEhKYzQzTElWSUJHSXNiVW00QkRZR2xwMnMzTjNuVFBvcWZtYlVVODlHcDczSGgzMm1EWEFHWHM0b2ZHNmFuZXZUc2c?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 01:47:39 GMT"
+          "published": "Sun, 12 Jul 2026 08:07:00 GMT"
+        },
+        {
+          "title": "SK Hynix CEO Warns 2027 Will Be Memory’s “Worst Year” Ever, With Shortages Set To Outlast The Decade - Wccftech",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdE9VZjRGc3RBN0R6eHB6TnU1dW1Nc1FDdHJNNDFEMkxhbVQtVmstZXRTYloxdTZPWDJLaGtaT0FnZzNxNGVPRWJuN3NPNXg2ZC1aSzQyZElWOGJESmxiOWZ0MlVfeUVkNHA0cWthcEZMM3FodmJpZGpCeWtqVlhIUEtPMThFaE8zYnFJUFFkeXZaSDVrTkdaa292QjFvbC11S2VHRHhJTdIBrAFBVV95cUxQd1AtdmhmcHkyRUcxOUtnTkIxOUxCak9RcndSbmI5VThMMWxSOXU0eDFrRE9pdTVtSlZyb2FpWWd1NlZqOWtQM2dDRG5QdmsxbFNhNWJIM2JrTm1ScnRGQ2lqby1oc01JV1ktM0FMdDZDckNHb29yenYzTk9XLTRKSVpKWjdVdFJicjNtTDVCQmo5MWpyd0IyS01BY2ZiTWxPSU5Fb1RvM21Zc0RF?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 10:45:21 GMT"
         }
       ]
     },
     {
-      "word": "Holes",
+      "word": "Pixel",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Scientists Say Some Black Holes Are Born From Other Black Holes - Gizmodo",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSE1WaDZHX2dNel9YV3hBWllxa3NQakM5MGl2ZThQd0QxWi1xdTFmbGFtQ0pmRGs1UFU2a3lhVFJiX2pOTWdZdnR5elJMYkl5aVBWaWU0V3NHZ25Kdi1MWGpMa0IyQVIxaVlWQ2FVV054Sm1FTUpxOHFTWUw4MThBZjB4eTBlSksyTXQxWjZwVlRQTkVSd3cxa25R?oc=5",
+          "title": "Pixel 11 Pro Fold in ‘Pine’ leaks & could Pixel Glow just be the camera flash? - 9to5Google",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LYnM1MXpVelJHNGVwTmJiRlVJdVJvR1d2Skp3eEdzQk5JMUc1N0JYQU1iU09JOHgwdE5iSnNRa3dOOWtpM1lMMUY2OUhjd0VPeHdHeHNFZHBsZDRfQzRvdTRQRVhkVjZvRXQ1Z2ItVmU?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 19:30:53 GMT"
+          "published": "Sun, 12 Jul 2026 18:09:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Jay",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Jay-Z Celebrates ‘The Blueprint’ 25th Anniversary With Eminem, Pharrell Williams and Slick Rick at Yankee Stadium - Variety",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcENzeXlReFViZ0FUWUhtQmtMWTVfdnZOVWljVHlwR2I1TWItYlU0QkJyQXhWWGtreUtzRHRjZnZQYW1IOHlfT1dlUUZmd0UzU25jem9mV0R3dmNKZllzaXFWdXlQN3hFVzVwZXpZUnlkV1V5RmhJZERUakVFZDVacHFZWm9aa1BKVExSQnNqaWlQV1RxSUdOSXN1UENRM3AtcXZPVVZWVUE?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 04:06:00 GMT"
+        },
+        {
+          "title": "Jay-Z Fans Fight With Security During Saturday Concert at Yankee Stadium, Video Shows - TMZ",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdlRyUFd1VzVrR0thcjBGLWU1d2lFQnhteG9XR3l1VWVJNzZYYUJfZzdfT1RuY0ZBajZLV0VWWWEtS21MeEdvdERpT0prS0ZLemdtdWJrSUx4S1RfVkFmQkI0Rm5FNWwtZDNqZjZnV3RrdmpZOXR0d2ZaOHl0SmZ1LWU0T0s4eV9sZTVxd2E3cFZyQQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 17:31:14 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Yankee",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Jay-Z Celebrates ‘The Blueprint’ 25th Anniversary With Eminem, Pharrell Williams and Slick Rick at Yankee Stadium - Variety",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcENzeXlReFViZ0FUWUhtQmtMWTVfdnZOVWljVHlwR2I1TWItYlU0QkJyQXhWWGtreUtzRHRjZnZQYW1IOHlfT1dlUUZmd0UzU25jem9mV0R3dmNKZllzaXFWdXlQN3hFVzVwZXpZUnlkV1V5RmhJZERUakVFZDVacHFZWm9aa1BKVExSQnNqaWlQV1RxSUdOSXN1UENRM3AtcXZPVVZWVUE?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 04:06:00 GMT"
+        },
+        {
+          "title": "Jay-Z Fans Fight With Security During Saturday Concert at Yankee Stadium, Video Shows - TMZ",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdlRyUFd1VzVrR0thcjBGLWU1d2lFQnhteG9XR3l1VWVJNzZYYUJfZzdfT1RuY0ZBajZLV0VWWWEtS21MeEdvdERpT0prS0ZLemdtdWJrSUx4S1RfVkFmQkI0Rm5FNWwtZDNqZjZnV3RrdmpZOXR0d2ZaOHl0SmZ1LWU0T0s4eV9sZTVxd2E3cFZyQQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 17:31:14 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Stadium",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Jay-Z Celebrates ‘The Blueprint’ 25th Anniversary With Eminem, Pharrell Williams and Slick Rick at Yankee Stadium - Variety",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcENzeXlReFViZ0FUWUhtQmtMWTVfdnZOVWljVHlwR2I1TWItYlU0QkJyQXhWWGtreUtzRHRjZnZQYW1IOHlfT1dlUUZmd0UzU25jem9mV0R3dmNKZllzaXFWdXlQN3hFVzVwZXpZUnlkV1V5RmhJZERUakVFZDVacHFZWm9aa1BKVExSQnNqaWlQV1RxSUdOSXN1UENRM3AtcXZPVVZWVUE?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 04:06:00 GMT"
+        },
+        {
+          "title": "Jay-Z Fans Fight With Security During Saturday Concert at Yankee Stadium, Video Shows - TMZ",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdlRyUFd1VzVrR0thcjBGLWU1d2lFQnhteG9XR3l1VWVJNzZYYUJfZzdfT1RuY0ZBajZLV0VWWWEtS21MeEdvdERpT0prS0ZLemdtdWJrSUx4S1RfVkFmQkI0Rm5FNWwtZDNqZjZnV3RrdmpZOXR0d2ZaOHl0SmZ1LWU0T0s4eV9sZTVxd2E3cFZyQQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 17:31:14 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Fight",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Jay-Z Fans Fight With Security During Saturday Concert at Yankee Stadium, Video Shows - TMZ",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdlRyUFd1VzVrR0thcjBGLWU1d2lFQnhteG9XR3l1VWVJNzZYYUJfZzdfT1RuY0ZBajZLV0VWWWEtS21MeEdvdERpT0prS0ZLemdtdWJrSUx4S1RfVkFmQkI0Rm5FNWwtZDNqZjZnV3RrdmpZOXR0d2ZaOHl0SmZ1LWU0T0s4eV9sZTVxd2E3cFZyQQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 17:31:14 GMT"
+        },
+        {
+          "title": "Injury forces Conor McGregor out of Max Holloway UFC fight. See photos - USA Today",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVjJ2LUNDWXNEaWE3S19pVXI1Rk9UNlhOSlpabVRkSGk4bF9OSlFXWURNN1pLaFdFRlRKMEI0RDQzLTdBQWE3QXNrV0QxV0ZjSFNiMDRVVnZGTG13M2tnUFBVa0drZVN0R3dzX0VJWmJGelFPcTZ0c0xiOThLUUVWaTlqSTRrVG1Nc3o0ZUVBcmdENGVoNjJfNVNrc0xjVVZxMDZLTWJzVUg2cVNGR2FzLVB4U2JtMWhjX2JfYVZGajhkLVdK?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 15:57:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Waves",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Gravitational waves reveal hidden populations within black hole mergers - Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQlZOQS1WMmtNTlp3TG9LdjJOQmJiYWcyc3JMRTFmQmxJUDYwNGxIcDJCVEhTcE9Ua0ZZb181UFJDN1NIcm5qYUxhVjQ2dE4yOU9meGF5LXJfWkdmTFFXME9VaTdNd2JTZXBzOTVYZ1N2ZFQtNnNMWFBmZFduUXNWVWtoeC1jSlU?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 14:20:01 GMT"
+        },
+        {
+          "title": "Synthetic rotation brings black hole energy theory into lab, amplifying waves - Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16MUg0cUN0QlVaWUFtdFdlN0xZYWFpU1hFeWgtNTdJNmw0ZXVjT0x0OEdqV19nRVk0SEVKSkNsa3JDOUFzZ2VBRTZwU2xFRzA5VU5UZWtmb2Y1VUtiRzl4UzNvbWM3eVk2VTRTekxvNjdrbVNHRHNxU2k0OA?oc=5",
+          "source": "Google News",
+          "published": "Sat, 11 Jul 2026 21:00:06 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Black",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Gravitational waves reveal hidden populations within black hole mergers - Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQlZOQS1WMmtNTlp3TG9LdjJOQmJiYWcyc3JMRTFmQmxJUDYwNGxIcDJCVEhTcE9Ua0ZZb181UFJDN1NIcm5qYUxhVjQ2dE4yOU9meGF5LXJfWkdmTFFXME9VaTdNd2JTZXBzOTVYZ1N2ZFQtNnNMWFBmZFduUXNWVWtoeC1jSlU?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 14:20:01 GMT"
+        },
+        {
+          "title": "Synthetic rotation brings black hole energy theory into lab, amplifying waves - Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16MUg0cUN0QlVaWUFtdFdlN0xZYWFpU1hFeWgtNTdJNmw0ZXVjT0x0OEdqV19nRVk0SEVKSkNsa3JDOUFzZ2VBRTZwU2xFRzA5VU5UZWtmb2Y1VUtiRzl4UzNvbWM3eVk2VTRTekxvNjdrbVNHRHNxU2k0OA?oc=5",
+          "source": "Google News",
+          "published": "Sat, 11 Jul 2026 21:00:06 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Hole",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Gravitational waves reveal hidden populations within black hole mergers - Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQlZOQS1WMmtNTlp3TG9LdjJOQmJiYWcyc3JMRTFmQmxJUDYwNGxIcDJCVEhTcE9Ua0ZZb181UFJDN1NIcm5qYUxhVjQ2dE4yOU9meGF5LXJfWkdmTFFXME9VaTdNd2JTZXBzOTVYZ1N2ZFQtNnNMWFBmZFduUXNWVWtoeC1jSlU?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 14:20:01 GMT"
+        },
+        {
+          "title": "Synthetic rotation brings black hole energy theory into lab, amplifying waves - Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16MUg0cUN0QlVaWUFtdFdlN0xZYWFpU1hFeWgtNTdJNmw0ZXVjT0x0OEdqV19nRVk0SEVKSkNsa3JDOUFzZ2VBRTZwU2xFRzA5VU5UZWtmb2Y1VUtiRzl4UzNvbWM3eVk2VTRTekxvNjdrbVNHRHNxU2k0OA?oc=5",
+          "source": "Google News",
+          "published": "Sat, 11 Jul 2026 21:00:06 GMT"
         }
       ]
     },
@@ -370,10 +658,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Lindsey Graham, Republican Senator and Staunch Trump Ally, Dies at 71 - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84RnJRX21KUGFXVlRpNXpBSkRzUDBUdm9WUWtYWEd5Z0xCckZlWUhGQ1RUdktBUFhXS3ZyUVE5TlRPY0ZHQ0lINGNpU3A0dVBPTm1SMVVDYzNIODZPZTItakRMb2g5OWxoelFIY3R6R1Q1MjlqZkNiaEt2cw?oc=5",
+          "title": "Lindsey Graham dies after ‘sudden illness’; Trump says senator was like family - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYnRVVnhzZkREMEhueTNmY1k5RWJNSnlZVFJyRWh3b2JvVWRMeUFkdnY4WDV6MmZwdzE0YnB3NE12YXNXeE0yWUZPM0ZsSmxyQnFqb2VyS2JHN2tKems1N2pSRWtmQ25kNnFudnBmbjJoNmpyVk9JdlZxdjdQeFh6N2ZKTHF2aGc2eWhIYURzbTJSbEZKZTMtcGNJMkl5VFRvcHk0SEZmQU0yUQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 16:53:12 GMT"
+          "published": "Sun, 12 Jul 2026 19:06:16 GMT"
         }
       ]
     },
@@ -383,62 +671,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Lindsey Graham, Republican Senator and Staunch Trump Ally, Dies at 71 - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84RnJRX21KUGFXVlRpNXpBSkRzUDBUdm9WUWtYWEd5Z0xCckZlWUhGQ1RUdktBUFhXS3ZyUVE5TlRPY0ZHQ0lINGNpU3A0dVBPTm1SMVVDYzNIODZPZTItakRMb2g5OWxoelFIY3R6R1Q1MjlqZkNiaEt2cw?oc=5",
+          "title": "Lindsey Graham dies after ‘sudden illness’; Trump says senator was like family - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYnRVVnhzZkREMEhueTNmY1k5RWJNSnlZVFJyRWh3b2JvVWRMeUFkdnY4WDV6MmZwdzE0YnB3NE12YXNXeE0yWUZPM0ZsSmxyQnFqb2VyS2JHN2tKems1N2pSRWtmQ25kNnFudnBmbjJoNmpyVk9JdlZxdjdQeFh6N2ZKTHF2aGc2eWhIYURzbTJSbEZKZTMtcGNJMkl5VFRvcHk0SEZmQU0yUQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 16:53:12 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Republican",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Lindsey Graham, Republican Senator and Staunch Trump Ally, Dies at 71 - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84RnJRX21KUGFXVlRpNXpBSkRzUDBUdm9WUWtYWEd5Z0xCckZlWUhGQ1RUdktBUFhXS3ZyUVE5TlRPY0ZHQ0lINGNpU3A0dVBPTm1SMVVDYzNIODZPZTItakRMb2g5OWxoelFIY3R6R1Q1MjlqZkNiaEt2cw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 12 Jul 2026 16:53:12 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Senator",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Lindsey Graham, Republican Senator and Staunch Trump Ally, Dies at 71 - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84RnJRX21KUGFXVlRpNXpBSkRzUDBUdm9WUWtYWEd5Z0xCckZlWUhGQ1RUdktBUFhXS3ZyUVE5TlRPY0ZHQ0lINGNpU3A0dVBPTm1SMVVDYzNIODZPZTItakRMb2g5OWxoelFIY3R6R1Q1MjlqZkNiaEt2cw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 12 Jul 2026 16:53:12 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Staunch",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Lindsey Graham, Republican Senator and Staunch Trump Ally, Dies at 71 - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84RnJRX21KUGFXVlRpNXpBSkRzUDBUdm9WUWtYWEd5Z0xCckZlWUhGQ1RUdktBUFhXS3ZyUVE5TlRPY0ZHQ0lINGNpU3A0dVBPTm1SMVVDYzNIODZPZTItakRMb2g5OWxoelFIY3R6R1Q1MjlqZkNiaEt2cw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 12 Jul 2026 16:53:12 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Ally",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Lindsey Graham, Republican Senator and Staunch Trump Ally, Dies at 71 - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84RnJRX21KUGFXVlRpNXpBSkRzUDBUdm9WUWtYWEd5Z0xCckZlWUhGQ1RUdktBUFhXS3ZyUVE5TlRPY0ZHQ0lINGNpU3A0dVBPTm1SMVVDYzNIODZPZTItakRMb2g5OWxoelFIY3R6R1Q1MjlqZkNiaEt2cw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 12 Jul 2026 16:53:12 GMT"
+          "published": "Sun, 12 Jul 2026 19:06:16 GMT"
         }
       ]
     },
@@ -448,192 +684,88 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Lindsey Graham, Republican Senator and Staunch Trump Ally, Dies at 71 - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84RnJRX21KUGFXVlRpNXpBSkRzUDBUdm9WUWtYWEd5Z0xCckZlWUhGQ1RUdktBUFhXS3ZyUVE5TlRPY0ZHQ0lINGNpU3A0dVBPTm1SMVVDYzNIODZPZTItakRMb2g5OWxoelFIY3R6R1Q1MjlqZkNiaEt2cw?oc=5",
+          "title": "Lindsey Graham dies after ‘sudden illness’; Trump says senator was like family - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYnRVVnhzZkREMEhueTNmY1k5RWJNSnlZVFJyRWh3b2JvVWRMeUFkdnY4WDV6MmZwdzE0YnB3NE12YXNXeE0yWUZPM0ZsSmxyQnFqb2VyS2JHN2tKems1N2pSRWtmQ25kNnFudnBmbjJoNmpyVk9JdlZxdjdQeFh6N2ZKTHF2aGc2eWhIYURzbTJSbEZKZTMtcGNJMkl5VFRvcHk0SEZmQU0yUQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 16:53:12 GMT"
+          "published": "Sun, 12 Jul 2026 19:06:16 GMT"
         }
       ]
     },
     {
-      "word": "Latest",
+      "word": "Sudden",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "US strikes Iran over latest ship attack and Tehran responds by hitting Arab states - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWNIZWpPMUROMXlXU0EwT1pjWWUycXFoTjBobEJLM0JpWGhjTWZwN0Q2RkxaY3N6cU9fNXZOT194MWFHYllDYUh4RWdEdmF3NVpGQ2tlOTl4dWI5VzVMWlgycVBYcmtSRDR6UV9lQmtoWkZMUWRvLUYwZXhIQzlGcVVpTGlMZElhRkxkT0pkMXlEZDJmSll0c2JsYkY?oc=5",
+          "title": "Lindsey Graham dies after ‘sudden illness’; Trump says senator was like family - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYnRVVnhzZkREMEhueTNmY1k5RWJNSnlZVFJyRWh3b2JvVWRMeUFkdnY4WDV6MmZwdzE0YnB3NE12YXNXeE0yWUZPM0ZsSmxyQnFqb2VyS2JHN2tKems1N2pSRWtmQ25kNnFudnBmbjJoNmpyVk9JdlZxdjdQeFh6N2ZKTHF2aGc2eWhIYURzbTJSbEZKZTMtcGNJMkl5VFRvcHk0SEZmQU0yUQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 14:59:00 GMT"
+          "published": "Sun, 12 Jul 2026 19:06:16 GMT"
         }
       ]
     },
     {
-      "word": "Ship",
+      "word": "Illness",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "US strikes Iran over latest ship attack and Tehran responds by hitting Arab states - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWNIZWpPMUROMXlXU0EwT1pjWWUycXFoTjBobEJLM0JpWGhjTWZwN0Q2RkxaY3N6cU9fNXZOT194MWFHYllDYUh4RWdEdmF3NVpGQ2tlOTl4dWI5VzVMWlgycVBYcmtSRDR6UV9lQmtoWkZMUWRvLUYwZXhIQzlGcVVpTGlMZElhRkxkT0pkMXlEZDJmSll0c2JsYkY?oc=5",
+          "title": "Lindsey Graham dies after ‘sudden illness’; Trump says senator was like family - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYnRVVnhzZkREMEhueTNmY1k5RWJNSnlZVFJyRWh3b2JvVWRMeUFkdnY4WDV6MmZwdzE0YnB3NE12YXNXeE0yWUZPM0ZsSmxyQnFqb2VyS2JHN2tKems1N2pSRWtmQ25kNnFudnBmbjJoNmpyVk9JdlZxdjdQeFh6N2ZKTHF2aGc2eWhIYURzbTJSbEZKZTMtcGNJMkl5VFRvcHk0SEZmQU0yUQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 14:59:00 GMT"
+          "published": "Sun, 12 Jul 2026 19:06:16 GMT"
         }
       ]
     },
     {
-      "word": "Attack",
+      "word": "Senator",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "US strikes Iran over latest ship attack and Tehran responds by hitting Arab states - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWNIZWpPMUROMXlXU0EwT1pjWWUycXFoTjBobEJLM0JpWGhjTWZwN0Q2RkxaY3N6cU9fNXZOT194MWFHYllDYUh4RWdEdmF3NVpGQ2tlOTl4dWI5VzVMWlgycVBYcmtSRDR6UV9lQmtoWkZMUWRvLUYwZXhIQzlGcVVpTGlMZElhRkxkT0pkMXlEZDJmSll0c2JsYkY?oc=5",
+          "title": "Lindsey Graham dies after ‘sudden illness’; Trump says senator was like family - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYnRVVnhzZkREMEhueTNmY1k5RWJNSnlZVFJyRWh3b2JvVWRMeUFkdnY4WDV6MmZwdzE0YnB3NE12YXNXeE0yWUZPM0ZsSmxyQnFqb2VyS2JHN2tKems1N2pSRWtmQ25kNnFudnBmbjJoNmpyVk9JdlZxdjdQeFh6N2ZKTHF2aGc2eWhIYURzbTJSbEZKZTMtcGNJMkl5VFRvcHk0SEZmQU0yUQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 14:59:00 GMT"
+          "published": "Sun, 12 Jul 2026 19:06:16 GMT"
         }
       ]
     },
     {
-      "word": "Tehran",
+      "word": "Like",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "US strikes Iran over latest ship attack and Tehran responds by hitting Arab states - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWNIZWpPMUROMXlXU0EwT1pjWWUycXFoTjBobEJLM0JpWGhjTWZwN0Q2RkxaY3N6cU9fNXZOT194MWFHYllDYUh4RWdEdmF3NVpGQ2tlOTl4dWI5VzVMWlgycVBYcmtSRDR6UV9lQmtoWkZMUWRvLUYwZXhIQzlGcVVpTGlMZElhRkxkT0pkMXlEZDJmSll0c2JsYkY?oc=5",
+          "title": "Lindsey Graham dies after ‘sudden illness’; Trump says senator was like family - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYnRVVnhzZkREMEhueTNmY1k5RWJNSnlZVFJyRWh3b2JvVWRMeUFkdnY4WDV6MmZwdzE0YnB3NE12YXNXeE0yWUZPM0ZsSmxyQnFqb2VyS2JHN2tKems1N2pSRWtmQ25kNnFudnBmbjJoNmpyVk9JdlZxdjdQeFh6N2ZKTHF2aGc2eWhIYURzbTJSbEZKZTMtcGNJMkl5VFRvcHk0SEZmQU0yUQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 14:59:00 GMT"
+          "published": "Sun, 12 Jul 2026 19:06:16 GMT"
         }
       ]
     },
     {
-      "word": "Responds",
+      "word": "Family",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "US strikes Iran over latest ship attack and Tehran responds by hitting Arab states - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWNIZWpPMUROMXlXU0EwT1pjWWUycXFoTjBobEJLM0JpWGhjTWZwN0Q2RkxaY3N6cU9fNXZOT194MWFHYllDYUh4RWdEdmF3NVpGQ2tlOTl4dWI5VzVMWlgycVBYcmtSRDR6UV9lQmtoWkZMUWRvLUYwZXhIQzlGcVVpTGlMZElhRkxkT0pkMXlEZDJmSll0c2JsYkY?oc=5",
+          "title": "Lindsey Graham dies after ‘sudden illness’; Trump says senator was like family - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYnRVVnhzZkREMEhueTNmY1k5RWJNSnlZVFJyRWh3b2JvVWRMeUFkdnY4WDV6MmZwdzE0YnB3NE12YXNXeE0yWUZPM0ZsSmxyQnFqb2VyS2JHN2tKems1N2pSRWtmQ25kNnFudnBmbjJoNmpyVk9JdlZxdjdQeFh6N2ZKTHF2aGc2eWhIYURzbTJSbEZKZTMtcGNJMkl5VFRvcHk0SEZmQU0yUQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 14:59:00 GMT"
+          "published": "Sun, 12 Jul 2026 19:06:16 GMT"
         }
       ]
     },
     {
-      "word": "Hitting",
+      "word": "Intense",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "US strikes Iran over latest ship attack and Tehran responds by hitting Arab states - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWNIZWpPMUROMXlXU0EwT1pjWWUycXFoTjBobEJLM0JpWGhjTWZwN0Q2RkxaY3N6cU9fNXZOT194MWFHYllDYUh4RWdEdmF3NVpGQ2tlOTl4dWI5VzVMWlgycVBYcmtSRDR6UV9lQmtoWkZMUWRvLUYwZXhIQzlGcVVpTGlMZElhRkxkT0pkMXlEZDJmSll0c2JsYkY?oc=5",
+          "title": "Iran Live Updates: After Intense U.S. Strikes, Iran Targets Gulf States and Claims Strait is Closed - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBITHdYYzF5TFFMLW9Ma18wTjVrdy1DMFBsUmxFUXNUQV9fT3FEMGstQ3dld0p2MTlFcGJ5NFRtSG5ZR2NUNERoU1lram5vbUdDbFdUQ0RlRk8tVTlIQWpobHZGcjhzSHZtSGp4blRJMlFuUQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 14:59:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Arab",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "US strikes Iran over latest ship attack and Tehran responds by hitting Arab states - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWNIZWpPMUROMXlXU0EwT1pjWWUycXFoTjBobEJLM0JpWGhjTWZwN0Q2RkxaY3N6cU9fNXZOT194MWFHYllDYUh4RWdEdmF3NVpGQ2tlOTl4dWI5VzVMWlgycVBYcmtSRDR6UV9lQmtoWkZMUWRvLUYwZXhIQzlGcVVpTGlMZElhRkxkT0pkMXlEZDJmSll0c2JsYkY?oc=5",
-          "source": "Google News",
-          "published": "Sun, 12 Jul 2026 14:59:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "States",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "US strikes Iran over latest ship attack and Tehran responds by hitting Arab states - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWNIZWpPMUROMXlXU0EwT1pjWWUycXFoTjBobEJLM0JpWGhjTWZwN0Q2RkxaY3N6cU9fNXZOT194MWFHYllDYUh4RWdEdmF3NVpGQ2tlOTl4dWI5VzVMWlgycVBYcmtSRDR6UV9lQmtoWkZMUWRvLUYwZXhIQzlGcVVpTGlMZElhRkxkT0pkMXlEZDJmSll0c2JsYkY?oc=5",
-          "source": "Google News",
-          "published": "Sun, 12 Jul 2026 14:59:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Closes",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Iran closes Strait of Hormuz, US launches fresh strikes - DW.com",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNVNPY0lhcGZoRXpWWmVWclhKWGcxQWM3OG1ncGdmVkJZbEd6djExLU5nVjlMdk9abUZ5WHJZVThDaWktMi1FSW9DUU0zQ0syN2ctOUlGcU9NUjFwd2w1OWFDUDNZSHRPd1RMYVhvN2lSLVpYUDFEeXEyTnM4bVpGRXVwX1M?oc=5",
-          "source": "Google News",
-          "published": "Sun, 12 Jul 2026 13:11:45 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Strait",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Iran closes Strait of Hormuz, US launches fresh strikes - DW.com",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNVNPY0lhcGZoRXpWWmVWclhKWGcxQWM3OG1ncGdmVkJZbEd6djExLU5nVjlMdk9abUZ5WHJZVThDaWktMi1FSW9DUU0zQ0syN2ctOUlGcU9NUjFwd2w1OWFDUDNZSHRPd1RMYVhvN2lSLVpYUDFEeXEyTnM4bVpGRXVwX1M?oc=5",
-          "source": "Google News",
-          "published": "Sun, 12 Jul 2026 13:11:45 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Hormuz",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Iran closes Strait of Hormuz, US launches fresh strikes - DW.com",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNVNPY0lhcGZoRXpWWmVWclhKWGcxQWM3OG1ncGdmVkJZbEd6djExLU5nVjlMdk9abUZ5WHJZVThDaWktMi1FSW9DUU0zQ0syN2ctOUlGcU9NUjFwd2w1OWFDUDNZSHRPd1RMYVhvN2lSLVpYUDFEeXEyTnM4bVpGRXVwX1M?oc=5",
-          "source": "Google News",
-          "published": "Sun, 12 Jul 2026 13:11:45 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Launches",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Iran closes Strait of Hormuz, US launches fresh strikes - DW.com",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNVNPY0lhcGZoRXpWWmVWclhKWGcxQWM3OG1ncGdmVkJZbEd6djExLU5nVjlMdk9abUZ5WHJZVThDaWktMi1FSW9DUU0zQ0syN2ctOUlGcU9NUjFwd2w1OWFDUDNZSHRPd1RMYVhvN2lSLVpYUDFEeXEyTnM4bVpGRXVwX1M?oc=5",
-          "source": "Google News",
-          "published": "Sun, 12 Jul 2026 13:11:45 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Fresh",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Iran closes Strait of Hormuz, US launches fresh strikes - DW.com",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNVNPY0lhcGZoRXpWWmVWclhKWGcxQWM3OG1ncGdmVkJZbEd6djExLU5nVjlMdk9abUZ5WHJZVThDaWktMi1FSW9DUU0zQ0syN2ctOUlGcU9NUjFwd2w1OWFDUDNZSHRPd1RMYVhvN2lSLVpYUDFEeXEyTnM4bVpGRXVwX1M?oc=5",
-          "source": "Google News",
-          "published": "Sun, 12 Jul 2026 13:11:45 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Birthright",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "On birthright citizenship, the Supreme Court ‘originalists’ split on history and Trump - Los Angeles Times",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOWRWNnJXNGNOZUpfckFUTmw3ZElzLThKdFVtZnRwZTlSdkdOSUhyMFZhTHVQU1dNT291OTk4OUJKTFZvMXpxV0liUmxBYlNCZ3BORWFnUmswNk9pYW13MkxzeDJSTDlHUzI3MV84SWZqUlBmQzFScWYyTl9hY1M4eUs5dnVlVkgzUFhZbw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 12 Jul 2026 10:00:00 GMT"
+          "published": "Sun, 12 Jul 2026 18:55:42 GMT"
         }
       ]
     }
