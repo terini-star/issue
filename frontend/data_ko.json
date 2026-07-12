@@ -1,112 +1,68 @@
 {
   "language": "ko",
-  "last_updated": 1783827449.2893176,
+  "last_updated": 1783838473.9076943,
   "count": 40,
   "trends": [
     {
-      "word": "논란",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "리센느 ‘무섭노’ 논란, 거제시까지 나섰다…“경남지역 일상적 방언” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CQV9yZk9rTzZLWC0yeExSemNtdHFrQTVFYk5mM2xaT3pRWXdlNS1LZktXMmxWcVlkSW51anFMZW5YZXQzcUxHVE0yV0N2MkxrZlhxOE1CQ1Izd1VuYVlWb3BSb2FrWFpOZXJqSlZIbEhCQQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 12 Jul 2026 00:48:00 GMT"
-        },
-        {
-          "title": "'전참시' 리센느, 원이 \"무섭노\" 일베 논란 딛고 이영자도 울렸다..역주행 성장사 '감동' [종합] - OSEN",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIZENVMmY1XzRVd0E0UE8xbXlmdHp5bE1sSjhZN2RCdUxIVXNwc2lBMDdPLTdZLURFeVhHVThDM1RFclFTNWFOZ2twQlZkbXNLQVZv?oc=5",
-          "source": "Google News",
-          "published": "Sat, 11 Jul 2026 23:49:00 GMT"
-        },
-        {
-          "title": "박지영 아나, 구자욱 선수 인터뷰 태도 논란 사과 \"불편함 드려 죄송…미숙했다\" - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdld5cVh3OG5kcjVxaGpmR2k3STVZaUJnTm9GdmtScnNXZ291SkFMYzUtM3RvZDc1bkg0b2FuN2VuaWt6VHRRaEYzWUlVaHdrSmdRaWpSWUNhcGhCUkFkc213cXV4YkZhZEpGTW1mb1NIZlNPa1NpNm1ac2duUVV5UUN1cS00OFZfQ0tXUlZnME9lNDQ?oc=5",
-          "source": "Google News",
-          "published": "Sat, 11 Jul 2026 22:11:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "만에",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "한동훈 당선되자 ‘당게’ 경찰 수사 1년여 만에 재개…장동혁 대표 “여론조작 사건” - 문화일보",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAzc2lPQ2IzcUFmSFRaTGQzLWlMbDFWRWJZWFhVQkZoZjdCY2RCQXZiQ3B5a3RycTJibFlGTmFVTHBSLU5zbDF3TFVXYlpmWTVn?oc=5",
-          "source": "Google News",
-          "published": "Sat, 11 Jul 2026 22:18:52 GMT"
-        },
-        {
-          "title": "방은희 “母, 돌아가신 지 이틀 만에 발견…특수청소업체 연락해 유품 정리” - 세계일보",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBERGlySHAzcVc0VHRnNlBsNFhTSlNsNzVKRWRhYW9mOXFhUEhTWjFTcEZFRUdVS1hFMlV6Zy1OUWR2RTVVM2ItaUExd3lnMlJkNGROUFdybHHSAVRBVV95cUxQdW5PdW90UGFzSGtEc3ZVXy1nWUZDRDdWbThVdERObjJIYVI5RmpqNlZ0aUtJS3dtZkRvUnlPVndHZkhqcmxFaHFfbnYyVHYwVHg4UVE?oc=5",
-          "source": "Google News",
-          "published": "Sun, 12 Jul 2026 00:38:05 GMT"
-        },
-        {
-          "title": "[북중미 월드컵] 스페인, 벨기에 꺾고 16년 만에 4강 진출 - 경기신문",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmbzNNODgtN3puV1JzN3lVLV9lUlIzUkZ6blVJR0QxUnRzWnBma0RhaW5kVmpFdDBvV2RMYlhENWt2NDJlQkh0WHZZUjMtZUJfWWVCYkhJbFR4aW1GQzVPS1RR?oc=5",
-          "source": "Google News",
-          "published": "Sat, 11 Jul 2026 11:32:41 GMT"
-        }
-      ]
-    },
-    {
       "word": "이란",
-      "count": 2,
+      "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이란 호르무즈 재봉쇄 직후, 미군 이번 주 3번째 공습 ‘맞불’ - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Kb1dKdXhGX3pNLWwzVXR0YnZyWEV6S1hCNnZKeEZwZVE3X1pwaW1hX3VyMzAxWVFKaXRhZXZlaUVnQ1hYYkpCcEdKYTB0WHZXSm1zbFc0SVRQSjJsNDBoNUpzQlp5T1AwNWM1V2hDYTcxTk0?oc=5",
+          "title": "美, 이란에 세 번째 공습…“선박 공격에 1명 실종…대가 치를 것” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80UUM4WGJjcFZpeFpZWUxzaUUxejJ3WG53ZllGeEtLN1dHT3R6Y29Leml6RG1IcmxyLUdyc29EcFZBZ2xNN1dLRUFCSzQ2V0E4aWtuMElzOWh6RHdIcDdjOWNUUzVRMll1UjJUMWU5YnRjWFnSAWZBVV95cUxNT1lfdlZ0clhFYzlHRUV6aHk2TkhtaTZtcmgtWEllcDRTVXBxOFR4RGZnM2E4Zk9Ndi01R242LWJTVU5SY0JKakJodU5pTmZSV3ZuM21vb0syVEhWYkVnMjBrX1hGREE?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 02:12:00 GMT"
+          "published": "Sun, 12 Jul 2026 00:13:00 GMT"
         },
         {
           "title": "이란, '휴전 없이 협상' 트럼프 주장 일축…\"입장 철회 전까지 협상 없어\" - 연합인포맥스",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxMTJkaWJfTi1DRDgyS3VLc0cwRnVCZFdzWndQUjQ2dHpXSkR1SmRtUlE4RlRjbFV0NE1IOERaUWRyRnd2aTMtajljWVcxMXZIVUE2VjJlZDZ0bzhNVDE3a1ZjZFNHdFNQdllqX1d4Q0E?oc=5",
           "source": "Google News",
           "published": "Sat, 11 Jul 2026 16:36:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "민주당",
-      "count": 2,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "민주당, 오늘 오후 선호투표제 도입 논의 위해 최고위 개최 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9GSFdMbUxiNjc5Rmc0WU1hb3h1cmtReGF0LV9sQUlneTZ5cF9kR3k1VTZyV0JGaHBqdFNxSFZZX0E1VjNQWHYwQlJLUFRZTVZRWTdOYlFCV3dOdE5fZnJBOFRqeUZ2NGJVRGlBMU5RTy15ZTI3NFozcdIBeEFVX3lxTFBOWWluUkQxNXpMZVJvTDRobE9rbkFBdl9BQUZEeWJoamx1NFdVZ1dlTnd5MTBRNXpiVzVHTG1fZjJ3QXFibFY3eEpaYWluV1ZQblJSemh3Slk5MTJYWVlfcC12N2JscFRnMy13TEVKSnFOX1RQazdxRg?oc=5",
-          "source": "Google News",
-          "published": "Sun, 12 Jul 2026 02:39:04 GMT"
         },
         {
-          "title": "민주당 ‘먹튀 탈당’ 한지혜 의원···인천 연수구의회 상임위원장 선출 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5taXV4bjBfNHZMUVY2TlpGMU41RkdvYXNrNkt4QnNTS0FxR2s0eFVPZUJhTGF5WU9laE44cmwwZW5nVFBtaWMybXdtQ2VKZzBWSTRUNmVWY0s3Z9IBX0FVX3lxTE5ydXgyZHp5SDlvVnhEN1lLYThTdFBMVmd1X3BxOXp6M3BXaGMtSnRtMlZtS1hIMmVrQWxWVnlnZWw0RWQtTXNSd3VLVkFfZFlfVG1jVUpyM3BaOG1BTnZJ?oc=5",
+          "title": "이란 새 최고지도자 “복수는 국민 요구… 반드시 실행돼야” - 조선비즈 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdVRkNFhLVi1MeGdlclMwRDczZllzWlZiV0MteVEySmxleDhZY01MSDZkVUtvZ1BJam1XQm1md3JUWW5yTmdmVW40ZFoyeUIxWGtqR0FPXy03THBaYnJfcW5CMkNteklFdGV3cFhXTmNOeUJyVkNWblgxUUk4T1BkLUtHMmc3NlRfT3UxcnV0LXk0RzNWZTNldnJEOEJjUdIBsgFBVV95cUxPajBXTUlObjFBbGlROHJubHRRODhqMkt1dHBPSWh2Zzl4V2FXT19lSmN6UklwT3dIUVBQdnV1UGZEdjRNeEFjQm9vemtQVzQySmdqZ2Q2ZnNfZ1QwdVNUT3lfcjBOaVh6SVgzal96UXFUMFhxemxVUW9HWmFrTE9yRnk5NHRrX3BDN3ZTaHJOSG5XbGRZaHV0UzlVc1I0Tk5SRG1mMnlwek5lYzgxeXNacFVn?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 01:53:00 GMT"
+          "published": "Sat, 11 Jul 2026 11:25:00 GMT"
         }
       ]
     },
     {
-      "word": "한동훈",
+      "word": "1명",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "안철수 \"한동훈 복당 공식적으로 반대‥당에 얼씬도 말라\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pSXdDeTE1TjZOTTBfNnhxX2pTWlNDSnBVN2ZrT1ljaEJGRXFLWWR6Q3FMRmRzN21DUFR1NTQ1c0x1czF1LVVYVG5iYW5MVzJqRzcyZ2otbzZPTFgyRmxMRFptOXU2X3VYeVNWRVh1MzRpOTE5VHlXR9IBeEFVX3lxTE1NQ2YteHVsa3VBTlVoTHVKczBBSVNYLWo5NVo5YkozNDhubmJueGxhbDB5eE9ROTAwVmpTVXpTZzNIcW5saWt1UXVvd0dfa3ZDYURyeWtoRDQ4dEVlbjE1amNTUTJ6ZmtFakxjM0duanFxbjluNEJpaQ?oc=5",
+          "title": "[속보] 해군 “동해 거진 함정 승조원 1명 실종” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kTVVKaFNpeG1rbHNnUzNWRTNkVjZJRHFpcTZVbkY0OEhfclpFdV9tdDdoOTBuZE1VT0hTakwzVEsyNUZ6cGRUd05QQUpfc0hvMkRkaHdZc1BSQdIBX0FVX3lxTE9nN0gzVTVUbl9nNDRuVDJVY2UtNFQtT3pWTjVDd3RYSXA1bkhDalpIdkF2cFlZV2p4c0pXSkw1eTdXMGtoeE5GWmpnV2E2dVA3X0l0R191cl90NXVYSWMw?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 01:55:14 GMT"
+          "published": "Sun, 12 Jul 2026 03:49:00 GMT"
         },
         {
-          "title": "한동훈 당선되자 ‘당게’ 경찰 수사 1년여 만에 재개…장동혁 대표 “여론조작 사건” - 문화일보",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAzc2lPQ2IzcUFmSFRaTGQzLWlMbDFWRWJZWFhVQkZoZjdCY2RCQXZiQ3B5a3RycTJibFlGTmFVTHBSLU5zbDF3TFVXYlpmWTVn?oc=5",
+          "title": "美, 이란에 세 번째 공습…“선박 공격에 1명 실종…대가 치를 것” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80UUM4WGJjcFZpeFpZWUxzaUUxejJ3WG53ZllGeEtLN1dHT3R6Y29Leml6RG1IcmxyLUdyc29EcFZBZ2xNN1dLRUFCSzQ2V0E4aWtuMElzOWh6RHdIcDdjOWNUUzVRMll1UjJUMWU5YnRjWFnSAWZBVV95cUxNT1lfdlZ0clhFYzlHRUV6aHk2TkhtaTZtcmgtWEllcDRTVXBxOFR4RGZnM2E4Zk9Ndi01R242LWJTVU5SY0JKakJodU5pTmZSV3ZuM21vb0syVEhWYkVnMjBrX1hGREE?oc=5",
           "source": "Google News",
-          "published": "Sat, 11 Jul 2026 22:18:52 GMT"
+          "published": "Sun, 12 Jul 2026 00:13:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "실종",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보] 해군 “동해 거진 함정 승조원 1명 실종” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kTVVKaFNpeG1rbHNnUzNWRTNkVjZJRHFpcTZVbkY0OEhfclpFdV9tdDdoOTBuZE1VT0hTakwzVEsyNUZ6cGRUd05QQUpfc0hvMkRkaHdZc1BSQdIBX0FVX3lxTE9nN0gzVTVUbl9nNDRuVDJVY2UtNFQtT3pWTjVDd3RYSXA1bkhDalpIdkF2cFlZV2p4c0pXSkw1eTdXMGtoeE5GWmpnV2E2dVA3X0l0R191cl90NXVYSWMw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 03:49:00 GMT"
+        },
+        {
+          "title": "스페인 남부 ‘역사상 최악’ 산불…사망 12명·23명 실종 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83bENGcTlLTTNPbGdBUXJnNFI2SHplOFFBZUxpRkgwMjBNbkZCVTl1QUdKRzVjSWZwRTBBR29mdHNBQXo4bkxHZTZpWGVGNUV4eXdUTXZwdExodi14a0FqQzB6eUljc1JRaWZZTVRR?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 03:31:00 GMT"
         }
       ]
     },
@@ -116,35 +72,29 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "리센느 ‘무섭노’ 논란, 거제시까지 나섰다…“경남지역 일상적 방언” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CQV9yZk9rTzZLWC0yeExSemNtdHFrQTVFYk5mM2xaT3pRWXdlNS1LZktXMmxWcVlkSW51anFMZW5YZXQzcUxHVE0yV0N2MkxrZlhxOE1CQ1Izd1VuYVlWb3BSb2FrWFpOZXJqSlZIbEhCQQ?oc=5",
+          "title": "조국 “‘노’ 사용 리센느 겨냥한 적 없어… 리센느 야호!” - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQc3ZXUHFIYWttclVVQ2Rsd05wSHJFeEJ5SFh5bTlCRmFNWnhlU1VoUTBVRjJJTjVtYTAxYVU2eEJGMkZuN0R0cFFoRUY0eERnT0htdlU3eWlfbk1rZXRGWmctS2ppZFhlUTJ4cG53cmpZc0ZsUkFsSUxGUkxtUFNQcVp4Q1BpZw?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 00:48:00 GMT"
-        },
-        {
-          "title": "'전참시' 리센느, 원이 \"무섭노\" 일베 논란 딛고 이영자도 울렸다..역주행 성장사 '감동' [종합] - OSEN",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIZENVMmY1XzRVd0E0UE8xbXlmdHp5bE1sSjhZN2RCdUxIVXNwc2lBMDdPLTdZLURFeVhHVThDM1RFclFTNWFOZ2twQlZkbXNLQVZv?oc=5",
-          "source": "Google News",
-          "published": "Sat, 11 Jul 2026 23:49:00 GMT"
+          "published": "Sun, 12 Jul 2026 01:10:00 GMT"
         }
       ]
     },
     {
-      "word": "무섭노",
+      "word": "없어",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "리센느 ‘무섭노’ 논란, 거제시까지 나섰다…“경남지역 일상적 방언” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CQV9yZk9rTzZLWC0yeExSemNtdHFrQTVFYk5mM2xaT3pRWXdlNS1LZktXMmxWcVlkSW51anFMZW5YZXQzcUxHVE0yV0N2MkxrZlhxOE1CQ1Izd1VuYVlWb3BSb2FrWFpOZXJqSlZIbEhCQQ?oc=5",
+          "title": "조국 “‘노’ 사용 리센느 겨냥한 적 없어… 리센느 야호!” - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQc3ZXUHFIYWttclVVQ2Rsd05wSHJFeEJ5SFh5bTlCRmFNWnhlU1VoUTBVRjJJTjVtYTAxYVU2eEJGMkZuN0R0cFFoRUY0eERnT0htdlU3eWlfbk1rZXRGWmctS2ppZFhlUTJ4cG53cmpZc0ZsUkFsSUxGUkxtUFNQcVp4Q1BpZw?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 00:48:00 GMT"
+          "published": "Sun, 12 Jul 2026 01:10:00 GMT"
         },
         {
-          "title": "'전참시' 리센느, 원이 \"무섭노\" 일베 논란 딛고 이영자도 울렸다..역주행 성장사 '감동' [종합] - OSEN",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIZENVMmY1XzRVd0E0UE8xbXlmdHp5bE1sSjhZN2RCdUxIVXNwc2lBMDdPLTdZLURFeVhHVThDM1RFclFTNWFOZ2twQlZkbXNLQVZv?oc=5",
+          "title": "이란, '휴전 없이 협상' 트럼프 주장 일축…\"입장 철회 전까지 협상 없어\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxMTJkaWJfTi1DRDgyS3VLc0cwRnVCZFdzWndQUjQ2dHpXSkR1SmRtUlE4RlRjbFV0NE1IOERaUWRyRnd2aTMtajljWVcxMXZIVUE2VjJlZDZ0bzhNVDE3a1ZjZFNHdFNQdllqX1d4Q0E?oc=5",
           "source": "Google News",
-          "published": "Sat, 11 Jul 2026 23:49:00 GMT"
+          "published": "Sat, 11 Jul 2026 16:36:00 GMT"
         }
       ]
     },
@@ -168,25 +118,6 @@
       ]
     },
     {
-      "word": "스페인",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "스페인 남부 ‘역사상 최악’ 산불…사망 12명·23명 실종 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83bENGcTlLTTNPbGdBUXJnNFI2SHplOFFBZUxpRkgwMjBNbkZCVTl1QUdKRzVjSWZwRTBBR29mdHNBQXo4bkxHZTZpWGVGNUV4eXdUTXZwdExodi14a0FqQzB6eUljc1JRaWZZTVRR?oc=5",
-          "source": "Google News",
-          "published": "Sun, 12 Jul 2026 01:57:00 GMT"
-        },
-        {
-          "title": "[북중미 월드컵] 스페인, 벨기에 꺾고 16년 만에 4강 진출 - 경기신문",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmbzNNODgtN3puV1JzN3lVLV9lUlIzUkZ6blVJR0QxUnRzWnBma0RhaW5kVmpFdDBvV2RMYlhENWt2NDJlQkh0WHZZUjMtZUJfWWVCYkhJbFR4aW1GQzVPS1RR?oc=5",
-          "source": "Google News",
-          "published": "Sat, 11 Jul 2026 11:32:41 GMT"
-        }
-      ]
-    },
-    {
       "word": "협상",
       "count": 2,
       "category": "NOUN",
@@ -200,59 +131,21 @@
       ]
     },
     {
-      "word": "사장",
+      "word": "깜짝",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "SK하이닉스 화려한 데뷔에 나스닥 사장도 \"대박\" … 최태원 \"美 추가 투자 가능\" - 뉴데일리",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96UlZmOS0ybkR4eHFCYWRtRk9XZ3NqRS00QTBEb21meUFBUDBHZUUzdkZYRENxYkE4UllNYlNsOG5DZ01nTnc3Ni1sYTJRaUdkMVFlQVg5M0NQV1h1Q3Q3dzJzYzFGcjFwNU12aU5JUlcyWjBFc21sYk1fNNIBgAFBVV95cUxNX3NaQzJjQ0lYNG9VSkJpeExUSG8ycm1wUFg3azA5Sy05VzI3UVE1VmN0WjZBQTVPRFVpWGFDd3RiaUFUaDlXVTNidG43b2tXYU52Tk1USklBMnZhdnJqa0VreTdBcENwR0xtWFZaY082aENma0tFVXg2X0xkNVlNTQ?oc=5",
+          "title": "건강 이유로 하차 ‘도깨비’ 김성겸, 10주년 여행 영상으로 깜짝 등장…공유, 김고은 눈시울 - 스포츠경향",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Xbk9TcWN1Y0Z5YTFqUlRPS1ZldUdDLUNlUDFmb1A3TE1RNTd3eEI0REtYY3hmY1dtLTgzUG1XSW1QVTljdDI2RGY0RkZUREY2akpNM2NjeU1hWUhnOEHSAWNBVV95cUxQc3NaYTgxTUVzUHdHU3RCcVRleko2TXNIcDBDTjhOR1phcE92aUxDQkxTN19DVVJicVk2MnZ4RDcxMmlKMmFaS0ZqajRNQlhrNlF4eHdkbzY5aG1oajhWTEVDcUk?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 01:54:33 GMT"
+          "published": "Sun, 12 Jul 2026 01:09:00 GMT"
         },
         {
-          "title": "‘응원 매수’에 상폐 위기서 25% 급등…모나미 사장 “감동” 편지 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tcHlxOGJHZzMxLVdsaWxuREZJckJJa0JlTkFqRDRxWjdSNjJXQUxETWtINXo0eDBOS0hfZmY5WVFrUDEtY2J3Yzh2SnhjSDlXQnJ2ZDhnX283cVpnTnpiTHZiaVo1TGV5UzVyN29udmhOdw?oc=5",
+          "title": "김나희, 8월 결혼 깜짝 발표…“남주혁 닮은 IT업계 예비신랑” - 스포츠동아",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yZUlMZXdkWTdhSUhDeF9uXzNkTHhCeHpwbHNqdThyYWpuNGhVZ2tCcldRSDgwcXl0X095aUNOOUd4eGM0X0xfUml1YVppYTBkWS1yYTMwY2stNWZhMmZZRnZNeERqQkF5endHRkln?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 01:41:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "감동",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘응원 매수’에 상폐 위기서 25% 급등…모나미 사장 “감동” 편지 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tcHlxOGJHZzMxLVdsaWxuREZJckJJa0JlTkFqRDRxWjdSNjJXQUxETWtINXo0eDBOS0hfZmY5WVFrUDEtY2J3Yzh2SnhjSDlXQnJ2ZDhnX283cVpnTnpiTHZiaVo1TGV5UzVyN29udmhOdw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 12 Jul 2026 01:41:00 GMT"
-        },
-        {
-          "title": "'전참시' 리센느, 원이 \"무섭노\" 일베 논란 딛고 이영자도 울렸다..역주행 성장사 '감동' [종합] - OSEN",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIZENVMmY1XzRVd0E0UE8xbXlmdHp5bE1sSjhZN2RCdUxIVXNwc2lBMDdPLTdZLURFeVhHVThDM1RFclFTNWFOZ2twQlZkbXNLQVZv?oc=5",
-          "source": "Google News",
-          "published": "Sat, 11 Jul 2026 23:49:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "꺾고",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "주드 벨링엄 멀티골! 잉글랜드, 노르웨이 꺾고 FIFA 월드컵 4강 진출 - Hypebeast.KR",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYnEwT2J0MEo2UnVCQ05OUG5tTXJ5eDd0enlWaWRNYXEyMkVqaThWNy1zejQ0TmQ4Vml4Z3NfOXkzN2J6bWRLRTMxOVlfOXFkY1JiSlZpRGlHc0hwOGF1bVQ0dlpzMlZkWFJTcWpWbWtjOTNlS0FqWEpLUHhkLXhJU1ZxTWkxUQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 12 Jul 2026 01:19:39 GMT"
-        },
-        {
-          "title": "[북중미 월드컵] 스페인, 벨기에 꺾고 16년 만에 4강 진출 - 경기신문",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmbzNNODgtN3puV1JzN3lVLV9lUlIzUkZ6blVJR0QxUnRzWnBma0RhaW5kVmpFdDBvV2RMYlhENWt2NDJlQkh0WHZZUjMtZUJfWWVCYkhJbFR4aW1GQzVPS1RR?oc=5",
-          "source": "Google News",
-          "published": "Sat, 11 Jul 2026 11:32:41 GMT"
+          "published": "Sun, 12 Jul 2026 00:11:53 GMT"
         }
       ]
     },
@@ -262,366 +155,419 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "주드 벨링엄 멀티골! 잉글랜드, 노르웨이 꺾고 FIFA 월드컵 4강 진출 - Hypebeast.KR",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYnEwT2J0MEo2UnVCQ05OUG5tTXJ5eDd0enlWaWRNYXEyMkVqaThWNy1zejQ0TmQ4Vml4Z3NfOXkzN2J6bWRLRTMxOVlfOXFkY1JiSlZpRGlHc0hwOGF1bVQ0dlpzMlZkWFJTcWpWbWtjOTNlS0FqWEpLUHhkLXhJU1ZxTWkxUQ?oc=5",
+          "title": "[월드컵] 잉글랜드 동점골 오심 논란…\"골킥이 카메라 케이블 맞았다\" - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Uc3ZqcHlFNFRsRFNSQkZPazFLVVBOM2xTREhPVUctd3k1Z3VnUURocENFR0IydXlxR045aHc5T1R0c3lJdTNhb3ZLYzlXTGpfdEoyVE42NU5WMVXSAWBBVV95cUxPYndLNHp4dVpxQWYwTjdKbTBLdVRYZmJIMHpQb0Q4MEpzZ3ZiZ0JOTFV1OHc4NW5xcDZUcEFkclhjY2xBQTd1SmhSSUlZbUhKc0pzZVBkZHRxdW12UDRzUW8?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 01:19:39 GMT"
+          "published": "Sun, 12 Jul 2026 01:33:13 GMT"
         },
         {
-          "title": "[북중미 월드컵] 스페인, 벨기에 꺾고 16년 만에 4강 진출 - 경기신문",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmbzNNODgtN3puV1JzN3lVLV9lUlIzUkZ6blVJR0QxUnRzWnBma0RhaW5kVmpFdDBvV2RMYlhENWt2NDJlQkh0WHZZUjMtZUJfWWVCYkhJbFR4aW1GQzVPS1RR?oc=5",
+          "title": "월드컵 한국전이 생애 마지막 경기…25세 남아공 선수 사망 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wd1JXZmNlUlRVenpPMkM1a1B3dVo3STRnWEZBRnRoV1hLQlpiV3VUVDZDQldtaHl3R0N0eDBybkFsUjh6cUxRWG9NWjF3RHhNTmtNTWRUQmpoZ9IBVEFVX3lxTE1qWmJ3U0t2ZWEyQnRweG10MUVFT2ppUkFLZ3c0bFhnbVZ6UE50VkhJMWRJOEpoTC1jUVFIVjk3N2J3UWZKZnJvUlVINDVYclFvS2tFZw?oc=5",
           "source": "Google News",
-          "published": "Sat, 11 Jul 2026 11:32:41 GMT"
+          "published": "Sat, 11 Jul 2026 23:27:18 GMT"
         }
       ]
     },
     {
-      "word": "4강",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "주드 벨링엄 멀티골! 잉글랜드, 노르웨이 꺾고 FIFA 월드컵 4강 진출 - Hypebeast.KR",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYnEwT2J0MEo2UnVCQ05OUG5tTXJ5eDd0enlWaWRNYXEyMkVqaThWNy1zejQ0TmQ4Vml4Z3NfOXkzN2J6bWRLRTMxOVlfOXFkY1JiSlZpRGlHc0hwOGF1bVQ0dlpzMlZkWFJTcWpWbWtjOTNlS0FqWEpLUHhkLXhJU1ZxTWkxUQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 12 Jul 2026 01:19:39 GMT"
-        },
-        {
-          "title": "[북중미 월드컵] 스페인, 벨기에 꺾고 16년 만에 4강 진출 - 경기신문",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmbzNNODgtN3puV1JzN3lVLV9lUlIzUkZ6blVJR0QxUnRzWnBma0RhaW5kVmpFdDBvV2RMYlhENWt2NDJlQkh0WHZZUjMtZUJfWWVCYkhJbFR4aW1GQzVPS1RR?oc=5",
-          "source": "Google News",
-          "published": "Sat, 11 Jul 2026 11:32:41 GMT"
-        }
-      ]
-    },
-    {
-      "word": "진출",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "주드 벨링엄 멀티골! 잉글랜드, 노르웨이 꺾고 FIFA 월드컵 4강 진출 - Hypebeast.KR",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYnEwT2J0MEo2UnVCQ05OUG5tTXJ5eDd0enlWaWRNYXEyMkVqaThWNy1zejQ0TmQ4Vml4Z3NfOXkzN2J6bWRLRTMxOVlfOXFkY1JiSlZpRGlHc0hwOGF1bVQ0dlpzMlZkWFJTcWpWbWtjOTNlS0FqWEpLUHhkLXhJU1ZxTWkxUQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 12 Jul 2026 01:19:39 GMT"
-        },
-        {
-          "title": "[북중미 월드컵] 스페인, 벨기에 꺾고 16년 만에 4강 진출 - 경기신문",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmbzNNODgtN3puV1JzN3lVLV9lUlIzUkZ6blVJR0QxUnRzWnBma0RhaW5kVmpFdDBvV2RMYlhENWt2NDJlQkh0WHZZUjMtZUJfWWVCYkhJbFR4aW1GQzVPS1RR?oc=5",
-          "source": "Google News",
-          "published": "Sat, 11 Jul 2026 11:32:41 GMT"
-        }
-      ]
-    },
-    {
-      "word": "호르무즈",
+      "word": "갇힌",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이란 호르무즈 재봉쇄 직후, 미군 이번 주 3번째 공습 ‘맞불’ - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Kb1dKdXhGX3pNLWwzVXR0YnZyWEV6S1hCNnZKeEZwZVE3X1pwaW1hX3VyMzAxWVFKaXRhZXZlaUVnQ1hYYkpCcEdKYTB0WHZXSm1zbFc0SVRQSjJsNDBoNUpzQlp5T1AwNWM1V2hDYTcxTk0?oc=5",
+          "title": "갇힌 한반도, 위에선 ‘고기압’ 아래선 ‘열 송풍기’…다음주 더 덥다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wN1FITDVSYnMwTlVhU3BzRkVDdXBUX19CZ3RlbUxUUXlpZFdHa0pQUS0zQmZVcUVSMGpWblhIVHA1Mm11MXVKVm1oZV9fTXktc25vTG16dFplZU01V19CUGVuTVBlTnNiMFR5NQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 02:12:00 GMT"
+          "published": "Sun, 12 Jul 2026 03:30:00 GMT"
         }
       ]
     },
     {
-      "word": "재봉쇄",
+      "word": "한반",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이란 호르무즈 재봉쇄 직후, 미군 이번 주 3번째 공습 ‘맞불’ - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Kb1dKdXhGX3pNLWwzVXR0YnZyWEV6S1hCNnZKeEZwZVE3X1pwaW1hX3VyMzAxWVFKaXRhZXZlaUVnQ1hYYkpCcEdKYTB0WHZXSm1zbFc0SVRQSjJsNDBoNUpzQlp5T1AwNWM1V2hDYTcxTk0?oc=5",
+          "title": "갇힌 한반도, 위에선 ‘고기압’ 아래선 ‘열 송풍기’…다음주 더 덥다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wN1FITDVSYnMwTlVhU3BzRkVDdXBUX19CZ3RlbUxUUXlpZFdHa0pQUS0zQmZVcUVSMGpWblhIVHA1Mm11MXVKVm1oZV9fTXktc25vTG16dFplZU01V19CUGVuTVBlTnNiMFR5NQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 02:12:00 GMT"
+          "published": "Sun, 12 Jul 2026 03:30:00 GMT"
         }
       ]
     },
     {
-      "word": "직후",
+      "word": "위에선",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이란 호르무즈 재봉쇄 직후, 미군 이번 주 3번째 공습 ‘맞불’ - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Kb1dKdXhGX3pNLWwzVXR0YnZyWEV6S1hCNnZKeEZwZVE3X1pwaW1hX3VyMzAxWVFKaXRhZXZlaUVnQ1hYYkpCcEdKYTB0WHZXSm1zbFc0SVRQSjJsNDBoNUpzQlp5T1AwNWM1V2hDYTcxTk0?oc=5",
+          "title": "갇힌 한반도, 위에선 ‘고기압’ 아래선 ‘열 송풍기’…다음주 더 덥다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wN1FITDVSYnMwTlVhU3BzRkVDdXBUX19CZ3RlbUxUUXlpZFdHa0pQUS0zQmZVcUVSMGpWblhIVHA1Mm11MXVKVm1oZV9fTXktc25vTG16dFplZU01V19CUGVuTVBlTnNiMFR5NQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 02:12:00 GMT"
+          "published": "Sun, 12 Jul 2026 03:30:00 GMT"
         }
       ]
     },
     {
-      "word": "미군",
+      "word": "고기압",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이란 호르무즈 재봉쇄 직후, 미군 이번 주 3번째 공습 ‘맞불’ - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Kb1dKdXhGX3pNLWwzVXR0YnZyWEV6S1hCNnZKeEZwZVE3X1pwaW1hX3VyMzAxWVFKaXRhZXZlaUVnQ1hYYkpCcEdKYTB0WHZXSm1zbFc0SVRQSjJsNDBoNUpzQlp5T1AwNWM1V2hDYTcxTk0?oc=5",
+          "title": "갇힌 한반도, 위에선 ‘고기압’ 아래선 ‘열 송풍기’…다음주 더 덥다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wN1FITDVSYnMwTlVhU3BzRkVDdXBUX19CZ3RlbUxUUXlpZFdHa0pQUS0zQmZVcUVSMGpWblhIVHA1Mm11MXVKVm1oZV9fTXktc25vTG16dFplZU01V19CUGVuTVBlTnNiMFR5NQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 02:12:00 GMT"
+          "published": "Sun, 12 Jul 2026 03:30:00 GMT"
         }
       ]
     },
     {
-      "word": "3번째",
+      "word": "아래선",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이란 호르무즈 재봉쇄 직후, 미군 이번 주 3번째 공습 ‘맞불’ - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Kb1dKdXhGX3pNLWwzVXR0YnZyWEV6S1hCNnZKeEZwZVE3X1pwaW1hX3VyMzAxWVFKaXRhZXZlaUVnQ1hYYkpCcEdKYTB0WHZXSm1zbFc0SVRQSjJsNDBoNUpzQlp5T1AwNWM1V2hDYTcxTk0?oc=5",
+          "title": "갇힌 한반도, 위에선 ‘고기압’ 아래선 ‘열 송풍기’…다음주 더 덥다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wN1FITDVSYnMwTlVhU3BzRkVDdXBUX19CZ3RlbUxUUXlpZFdHa0pQUS0zQmZVcUVSMGpWblhIVHA1Mm11MXVKVm1oZV9fTXktc25vTG16dFplZU01V19CUGVuTVBlTnNiMFR5NQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 02:12:00 GMT"
+          "published": "Sun, 12 Jul 2026 03:30:00 GMT"
         }
       ]
     },
     {
-      "word": "공습",
+      "word": "송풍기다음주",
       "count": 1,
-      "category": "NOUN",
+      "category": "LOCATION",
       "articles": [
         {
-          "title": "이란 호르무즈 재봉쇄 직후, 미군 이번 주 3번째 공습 ‘맞불’ - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Kb1dKdXhGX3pNLWwzVXR0YnZyWEV6S1hCNnZKeEZwZVE3X1pwaW1hX3VyMzAxWVFKaXRhZXZlaUVnQ1hYYkpCcEdKYTB0WHZXSm1zbFc0SVRQSjJsNDBoNUpzQlp5T1AwNWM1V2hDYTcxTk0?oc=5",
+          "title": "갇힌 한반도, 위에선 ‘고기압’ 아래선 ‘열 송풍기’…다음주 더 덥다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wN1FITDVSYnMwTlVhU3BzRkVDdXBUX19CZ3RlbUxUUXlpZFdHa0pQUS0zQmZVcUVSMGpWblhIVHA1Mm11MXVKVm1oZV9fTXktc25vTG16dFplZU01V19CUGVuTVBlTnNiMFR5NQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 02:12:00 GMT"
+          "published": "Sun, 12 Jul 2026 03:30:00 GMT"
         }
       ]
     },
     {
-      "word": "맞불",
+      "word": "덥다",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이란 호르무즈 재봉쇄 직후, 미군 이번 주 3번째 공습 ‘맞불’ - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Kb1dKdXhGX3pNLWwzVXR0YnZyWEV6S1hCNnZKeEZwZVE3X1pwaW1hX3VyMzAxWVFKaXRhZXZlaUVnQ1hYYkpCcEdKYTB0WHZXSm1zbFc0SVRQSjJsNDBoNUpzQlp5T1AwNWM1V2hDYTcxTk0?oc=5",
+          "title": "갇힌 한반도, 위에선 ‘고기압’ 아래선 ‘열 송풍기’…다음주 더 덥다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wN1FITDVSYnMwTlVhU3BzRkVDdXBUX19CZ3RlbUxUUXlpZFdHa0pQUS0zQmZVcUVSMGpWblhIVHA1Mm11MXVKVm1oZV9fTXktc25vTG16dFplZU01V19CUGVuTVBlTnNiMFR5NQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 02:12:00 GMT"
+          "published": "Sun, 12 Jul 2026 03:30:00 GMT"
         }
       ]
     },
     {
-      "word": "포항경산",
+      "word": "해군",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "포항·경산에 사상 첫 폭염중대경보 발표···“폭염 위험 최고 단계” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HaU5PWnFkM3pBT1lDWVNqV0I1NmtnOGE0RWFSU21LQVk1blBWSS1xWVNmT1RYT05NR1NJMXExTUt5X0k0RHJPYkp1aWZ3VGtfa3lJX0VKMVN5d9IBX0FVX3lxTFBnenJ4dTJTVHE0cGprYUdIczNGZ3ZOVVhWUF9oSF9lM0wxUmE4Mm9rZmt5b0Z0RllMQzkteVRYcV9tMXBxekJFUDRjNmpQY2tWemhPQndrVU1qSFB6VThj?oc=5",
+          "title": "[속보] 해군 “동해 거진 함정 승조원 1명 실종” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kTVVKaFNpeG1rbHNnUzNWRTNkVjZJRHFpcTZVbkY0OEhfclpFdV9tdDdoOTBuZE1VT0hTakwzVEsyNUZ6cGRUd05QQUpfc0hvMkRkaHdZc1BSQdIBX0FVX3lxTE9nN0gzVTVUbl9nNDRuVDJVY2UtNFQtT3pWTjVDd3RYSXA1bkhDalpIdkF2cFlZV2p4c0pXSkw1eTdXMGtoeE5GWmpnV2E2dVA3X0l0R191cl90NXVYSWMw?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 02:33:00 GMT"
+          "published": "Sun, 12 Jul 2026 03:49:00 GMT"
         }
       ]
     },
     {
-      "word": "사상",
+      "word": "동해",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "포항·경산에 사상 첫 폭염중대경보 발표···“폭염 위험 최고 단계” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HaU5PWnFkM3pBT1lDWVNqV0I1NmtnOGE0RWFSU21LQVk1blBWSS1xWVNmT1RYT05NR1NJMXExTUt5X0k0RHJPYkp1aWZ3VGtfa3lJX0VKMVN5d9IBX0FVX3lxTFBnenJ4dTJTVHE0cGprYUdIczNGZ3ZOVVhWUF9oSF9lM0wxUmE4Mm9rZmt5b0Z0RllMQzkteVRYcV9tMXBxekJFUDRjNmpQY2tWemhPQndrVU1qSFB6VThj?oc=5",
+          "title": "[속보] 해군 “동해 거진 함정 승조원 1명 실종” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kTVVKaFNpeG1rbHNnUzNWRTNkVjZJRHFpcTZVbkY0OEhfclpFdV9tdDdoOTBuZE1VT0hTakwzVEsyNUZ6cGRUd05QQUpfc0hvMkRkaHdZc1BSQdIBX0FVX3lxTE9nN0gzVTVUbl9nNDRuVDJVY2UtNFQtT3pWTjVDd3RYSXA1bkhDalpIdkF2cFlZV2p4c0pXSkw1eTdXMGtoeE5GWmpnV2E2dVA3X0l0R191cl90NXVYSWMw?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 02:33:00 GMT"
+          "published": "Sun, 12 Jul 2026 03:49:00 GMT"
         }
       ]
     },
     {
-      "word": "폭염중대경보",
+      "word": "거진",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "포항·경산에 사상 첫 폭염중대경보 발표···“폭염 위험 최고 단계” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HaU5PWnFkM3pBT1lDWVNqV0I1NmtnOGE0RWFSU21LQVk1blBWSS1xWVNmT1RYT05NR1NJMXExTUt5X0k0RHJPYkp1aWZ3VGtfa3lJX0VKMVN5d9IBX0FVX3lxTFBnenJ4dTJTVHE0cGprYUdIczNGZ3ZOVVhWUF9oSF9lM0wxUmE4Mm9rZmt5b0Z0RllMQzkteVRYcV9tMXBxekJFUDRjNmpQY2tWemhPQndrVU1qSFB6VThj?oc=5",
+          "title": "[속보] 해군 “동해 거진 함정 승조원 1명 실종” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kTVVKaFNpeG1rbHNnUzNWRTNkVjZJRHFpcTZVbkY0OEhfclpFdV9tdDdoOTBuZE1VT0hTakwzVEsyNUZ6cGRUd05QQUpfc0hvMkRkaHdZc1BSQdIBX0FVX3lxTE9nN0gzVTVUbl9nNDRuVDJVY2UtNFQtT3pWTjVDd3RYSXA1bkhDalpIdkF2cFlZV2p4c0pXSkw1eTdXMGtoeE5GWmpnV2E2dVA3X0l0R191cl90NXVYSWMw?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 02:33:00 GMT"
+          "published": "Sun, 12 Jul 2026 03:49:00 GMT"
         }
       ]
     },
     {
-      "word": "발표폭염",
+      "word": "함정",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "포항·경산에 사상 첫 폭염중대경보 발표···“폭염 위험 최고 단계” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HaU5PWnFkM3pBT1lDWVNqV0I1NmtnOGE0RWFSU21LQVk1blBWSS1xWVNmT1RYT05NR1NJMXExTUt5X0k0RHJPYkp1aWZ3VGtfa3lJX0VKMVN5d9IBX0FVX3lxTFBnenJ4dTJTVHE0cGprYUdIczNGZ3ZOVVhWUF9oSF9lM0wxUmE4Mm9rZmt5b0Z0RllMQzkteVRYcV9tMXBxekJFUDRjNmpQY2tWemhPQndrVU1qSFB6VThj?oc=5",
+          "title": "[속보] 해군 “동해 거진 함정 승조원 1명 실종” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kTVVKaFNpeG1rbHNnUzNWRTNkVjZJRHFpcTZVbkY0OEhfclpFdV9tdDdoOTBuZE1VT0hTakwzVEsyNUZ6cGRUd05QQUpfc0hvMkRkaHdZc1BSQdIBX0FVX3lxTE9nN0gzVTVUbl9nNDRuVDJVY2UtNFQtT3pWTjVDd3RYSXA1bkhDalpIdkF2cFlZV2p4c0pXSkw1eTdXMGtoeE5GWmpnV2E2dVA3X0l0R191cl90NXVYSWMw?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 02:33:00 GMT"
+          "published": "Sun, 12 Jul 2026 03:49:00 GMT"
         }
       ]
     },
     {
-      "word": "위험",
+      "word": "승조원",
       "count": 1,
-      "category": "NOUN",
+      "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "포항·경산에 사상 첫 폭염중대경보 발표···“폭염 위험 최고 단계” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HaU5PWnFkM3pBT1lDWVNqV0I1NmtnOGE0RWFSU21LQVk1blBWSS1xWVNmT1RYT05NR1NJMXExTUt5X0k0RHJPYkp1aWZ3VGtfa3lJX0VKMVN5d9IBX0FVX3lxTFBnenJ4dTJTVHE0cGprYUdIczNGZ3ZOVVhWUF9oSF9lM0wxUmE4Mm9rZmt5b0Z0RllMQzkteVRYcV9tMXBxekJFUDRjNmpQY2tWemhPQndrVU1qSFB6VThj?oc=5",
+          "title": "[속보] 해군 “동해 거진 함정 승조원 1명 실종” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kTVVKaFNpeG1rbHNnUzNWRTNkVjZJRHFpcTZVbkY0OEhfclpFdV9tdDdoOTBuZE1VT0hTakwzVEsyNUZ6cGRUd05QQUpfc0hvMkRkaHdZc1BSQdIBX0FVX3lxTE9nN0gzVTVUbl9nNDRuVDJVY2UtNFQtT3pWTjVDd3RYSXA1bkhDalpIdkF2cFlZV2p4c0pXSkw1eTdXMGtoeE5GWmpnV2E2dVA3X0l0R191cl90NXVYSWMw?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 02:33:00 GMT"
+          "published": "Sun, 12 Jul 2026 03:49:00 GMT"
         }
       ]
     },
     {
-      "word": "최고",
+      "word": "번째",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "포항·경산에 사상 첫 폭염중대경보 발표···“폭염 위험 최고 단계” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HaU5PWnFkM3pBT1lDWVNqV0I1NmtnOGE0RWFSU21LQVk1blBWSS1xWVNmT1RYT05NR1NJMXExTUt5X0k0RHJPYkp1aWZ3VGtfa3lJX0VKMVN5d9IBX0FVX3lxTFBnenJ4dTJTVHE0cGprYUdIczNGZ3ZOVVhWUF9oSF9lM0wxUmE4Mm9rZmt5b0Z0RllMQzkteVRYcV9tMXBxekJFUDRjNmpQY2tWemhPQndrVU1qSFB6VThj?oc=5",
+          "title": "美, 이란에 세 번째 공습…“선박 공격에 1명 실종…대가 치를 것” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80UUM4WGJjcFZpeFpZWUxzaUUxejJ3WG53ZllGeEtLN1dHT3R6Y29Leml6RG1IcmxyLUdyc29EcFZBZ2xNN1dLRUFCSzQ2V0E4aWtuMElzOWh6RHdIcDdjOWNUUzVRMll1UjJUMWU5YnRjWFnSAWZBVV95cUxNT1lfdlZ0clhFYzlHRUV6aHk2TkhtaTZtcmgtWEllcDRTVXBxOFR4RGZnM2E4Zk9Ndi01R242LWJTVU5SY0JKakJodU5pTmZSV3ZuM21vb0syVEhWYkVnMjBrX1hGREE?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 02:33:00 GMT"
+          "published": "Sun, 12 Jul 2026 00:13:00 GMT"
         }
       ]
     },
     {
-      "word": "단계",
+      "word": "공습선박",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "포항·경산에 사상 첫 폭염중대경보 발표···“폭염 위험 최고 단계” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HaU5PWnFkM3pBT1lDWVNqV0I1NmtnOGE0RWFSU21LQVk1blBWSS1xWVNmT1RYT05NR1NJMXExTUt5X0k0RHJPYkp1aWZ3VGtfa3lJX0VKMVN5d9IBX0FVX3lxTFBnenJ4dTJTVHE0cGprYUdIczNGZ3ZOVVhWUF9oSF9lM0wxUmE4Mm9rZmt5b0Z0RllMQzkteVRYcV9tMXBxekJFUDRjNmpQY2tWemhPQndrVU1qSFB6VThj?oc=5",
+          "title": "美, 이란에 세 번째 공습…“선박 공격에 1명 실종…대가 치를 것” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80UUM4WGJjcFZpeFpZWUxzaUUxejJ3WG53ZllGeEtLN1dHT3R6Y29Leml6RG1IcmxyLUdyc29EcFZBZ2xNN1dLRUFCSzQ2V0E4aWtuMElzOWh6RHdIcDdjOWNUUzVRMll1UjJUMWU5YnRjWFnSAWZBVV95cUxNT1lfdlZ0clhFYzlHRUV6aHk2TkhtaTZtcmgtWEllcDRTVXBxOFR4RGZnM2E4Zk9Ndi01R242LWJTVU5SY0JKakJodU5pTmZSV3ZuM21vb0syVEhWYkVnMjBrX1hGREE?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 02:33:00 GMT"
+          "published": "Sun, 12 Jul 2026 00:13:00 GMT"
         }
       ]
     },
     {
-      "word": "검찰",
+      "word": "공격",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "검찰, 장윤기 '성범죄 목적 살인' 밝혀내나 … 법원, 내일 2차 공판 - 뉴데일리",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CR3BsVmFXdzRMNWpiREZ1aDgyVjkxam5sVGVoQlRXSzMyU0x5ZXlzV3FUa0lleTF0WEZTZlhvZnByV2R1Mk1NODFTcnJJeGhrdGptc2haNmZuVzhlNXRpdUlHRXE2Z2xSbnhKYWEtNzFlNnl6dFBBQXAycw?oc=5",
+          "title": "美, 이란에 세 번째 공습…“선박 공격에 1명 실종…대가 치를 것” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80UUM4WGJjcFZpeFpZWUxzaUUxejJ3WG53ZllGeEtLN1dHT3R6Y29Leml6RG1IcmxyLUdyc29EcFZBZ2xNN1dLRUFCSzQ2V0E4aWtuMElzOWh6RHdIcDdjOWNUUzVRMll1UjJUMWU5YnRjWFnSAWZBVV95cUxNT1lfdlZ0clhFYzlHRUV6aHk2TkhtaTZtcmgtWEllcDRTVXBxOFR4RGZnM2E4Zk9Ndi01R242LWJTVU5SY0JKakJodU5pTmZSV3ZuM21vb0syVEhWYkVnMjBrX1hGREE?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 03:04:09 GMT"
+          "published": "Sun, 12 Jul 2026 00:13:00 GMT"
         }
       ]
     },
     {
-      "word": "장윤기",
+      "word": "실종대",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "검찰, 장윤기 '성범죄 목적 살인' 밝혀내나 … 법원, 내일 2차 공판 - 뉴데일리",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CR3BsVmFXdzRMNWpiREZ1aDgyVjkxam5sVGVoQlRXSzMyU0x5ZXlzV3FUa0lleTF0WEZTZlhvZnByV2R1Mk1NODFTcnJJeGhrdGptc2haNmZuVzhlNXRpdUlHRXE2Z2xSbnhKYWEtNzFlNnl6dFBBQXAycw?oc=5",
+          "title": "美, 이란에 세 번째 공습…“선박 공격에 1명 실종…대가 치를 것” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80UUM4WGJjcFZpeFpZWUxzaUUxejJ3WG53ZllGeEtLN1dHT3R6Y29Leml6RG1IcmxyLUdyc29EcFZBZ2xNN1dLRUFCSzQ2V0E4aWtuMElzOWh6RHdIcDdjOWNUUzVRMll1UjJUMWU5YnRjWFnSAWZBVV95cUxNT1lfdlZ0clhFYzlHRUV6aHk2TkhtaTZtcmgtWEllcDRTVXBxOFR4RGZnM2E4Zk9Ndi01R242LWJTVU5SY0JKakJodU5pTmZSV3ZuM21vb0syVEhWYkVnMjBrX1hGREE?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 03:04:09 GMT"
+          "published": "Sun, 12 Jul 2026 00:13:00 GMT"
         }
       ]
     },
     {
-      "word": "성범죄",
+      "word": "치를",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "검찰, 장윤기 '성범죄 목적 살인' 밝혀내나 … 법원, 내일 2차 공판 - 뉴데일리",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CR3BsVmFXdzRMNWpiREZ1aDgyVjkxam5sVGVoQlRXSzMyU0x5ZXlzV3FUa0lleTF0WEZTZlhvZnByV2R1Mk1NODFTcnJJeGhrdGptc2haNmZuVzhlNXRpdUlHRXE2Z2xSbnhKYWEtNzFlNnl6dFBBQXAycw?oc=5",
+          "title": "美, 이란에 세 번째 공습…“선박 공격에 1명 실종…대가 치를 것” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80UUM4WGJjcFZpeFpZWUxzaUUxejJ3WG53ZllGeEtLN1dHT3R6Y29Leml6RG1IcmxyLUdyc29EcFZBZ2xNN1dLRUFCSzQ2V0E4aWtuMElzOWh6RHdIcDdjOWNUUzVRMll1UjJUMWU5YnRjWFnSAWZBVV95cUxNT1lfdlZ0clhFYzlHRUV6aHk2TkhtaTZtcmgtWEllcDRTVXBxOFR4RGZnM2E4Zk9Ndi01R242LWJTVU5SY0JKakJodU5pTmZSV3ZuM21vb0syVEhWYkVnMjBrX1hGREE?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 03:04:09 GMT"
+          "published": "Sun, 12 Jul 2026 00:13:00 GMT"
         }
       ]
     },
     {
-      "word": "목적",
+      "word": "앞으",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "검찰, 장윤기 '성범죄 목적 살인' 밝혀내나 … 법원, 내일 2차 공판 - 뉴데일리",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CR3BsVmFXdzRMNWpiREZ1aDgyVjkxam5sVGVoQlRXSzMyU0x5ZXlzV3FUa0lleTF0WEZTZlhvZnByV2R1Mk1NODFTcnJJeGhrdGptc2haNmZuVzhlNXRpdUlHRXE2Z2xSbnhKYWEtNzFlNnl6dFBBQXAycw?oc=5",
+          "title": "한 달 앞으로 다가온 與전대…최대변수 '선호투표·1인1표' 주목 - 연합뉴스 한민족센터",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNZE1zaG4tT05PRWNqdnFuamJmZ18tZV9Wb2hwRk53SXQ1QnVFaXRCRUxCam5ERFZGN2F0N1Q1VTdjcmZMa09xcWxhcWp0anMyY01BZzBRdUNHUF9vdFEyUlFnTUVQVl9rOHdma1lkRkRMRWw3?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 03:04:09 GMT"
+          "published": "Sat, 11 Jul 2026 20:00:01 GMT"
         }
       ]
     },
     {
-      "word": "살인",
+      "word": "다가온",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "검찰, 장윤기 '성범죄 목적 살인' 밝혀내나 … 법원, 내일 2차 공판 - 뉴데일리",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CR3BsVmFXdzRMNWpiREZ1aDgyVjkxam5sVGVoQlRXSzMyU0x5ZXlzV3FUa0lleTF0WEZTZlhvZnByV2R1Mk1NODFTcnJJeGhrdGptc2haNmZuVzhlNXRpdUlHRXE2Z2xSbnhKYWEtNzFlNnl6dFBBQXAycw?oc=5",
+          "title": "한 달 앞으로 다가온 與전대…최대변수 '선호투표·1인1표' 주목 - 연합뉴스 한민족센터",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNZE1zaG4tT05PRWNqdnFuamJmZ18tZV9Wb2hwRk53SXQ1QnVFaXRCRUxCam5ERFZGN2F0N1Q1VTdjcmZMa09xcWxhcWp0anMyY01BZzBRdUNHUF9vdFEyUlFnTUVQVl9rOHdma1lkRkRMRWw3?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 03:04:09 GMT"
+          "published": "Sat, 11 Jul 2026 20:00:01 GMT"
         }
       ]
     },
     {
-      "word": "밝혀내",
+      "word": "전대최대변수",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "검찰, 장윤기 '성범죄 목적 살인' 밝혀내나 … 법원, 내일 2차 공판 - 뉴데일리",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CR3BsVmFXdzRMNWpiREZ1aDgyVjkxam5sVGVoQlRXSzMyU0x5ZXlzV3FUa0lleTF0WEZTZlhvZnByV2R1Mk1NODFTcnJJeGhrdGptc2haNmZuVzhlNXRpdUlHRXE2Z2xSbnhKYWEtNzFlNnl6dFBBQXAycw?oc=5",
+          "title": "한 달 앞으로 다가온 與전대…최대변수 '선호투표·1인1표' 주목 - 연합뉴스 한민족센터",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNZE1zaG4tT05PRWNqdnFuamJmZ18tZV9Wb2hwRk53SXQ1QnVFaXRCRUxCam5ERFZGN2F0N1Q1VTdjcmZMa09xcWxhcWp0anMyY01BZzBRdUNHUF9vdFEyUlFnTUVQVl9rOHdma1lkRkRMRWw3?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 03:04:09 GMT"
+          "published": "Sat, 11 Jul 2026 20:00:01 GMT"
         }
       ]
     },
     {
-      "word": "법원",
+      "word": "선호투표1인1표",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "검찰, 장윤기 '성범죄 목적 살인' 밝혀내나 … 법원, 내일 2차 공판 - 뉴데일리",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CR3BsVmFXdzRMNWpiREZ1aDgyVjkxam5sVGVoQlRXSzMyU0x5ZXlzV3FUa0lleTF0WEZTZlhvZnByV2R1Mk1NODFTcnJJeGhrdGptc2haNmZuVzhlNXRpdUlHRXE2Z2xSbnhKYWEtNzFlNnl6dFBBQXAycw?oc=5",
+          "title": "한 달 앞으로 다가온 與전대…최대변수 '선호투표·1인1표' 주목 - 연합뉴스 한민족센터",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNZE1zaG4tT05PRWNqdnFuamJmZ18tZV9Wb2hwRk53SXQ1QnVFaXRCRUxCam5ERFZGN2F0N1Q1VTdjcmZMa09xcWxhcWp0anMyY01BZzBRdUNHUF9vdFEyUlFnTUVQVl9rOHdma1lkRkRMRWw3?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 03:04:09 GMT"
+          "published": "Sat, 11 Jul 2026 20:00:01 GMT"
         }
       ]
     },
     {
-      "word": "2차",
+      "word": "주목",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "검찰, 장윤기 '성범죄 목적 살인' 밝혀내나 … 법원, 내일 2차 공판 - 뉴데일리",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CR3BsVmFXdzRMNWpiREZ1aDgyVjkxam5sVGVoQlRXSzMyU0x5ZXlzV3FUa0lleTF0WEZTZlhvZnByV2R1Mk1NODFTcnJJeGhrdGptc2haNmZuVzhlNXRpdUlHRXE2Z2xSbnhKYWEtNzFlNnl6dFBBQXAycw?oc=5",
+          "title": "한 달 앞으로 다가온 與전대…최대변수 '선호투표·1인1표' 주목 - 연합뉴스 한민족센터",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNZE1zaG4tT05PRWNqdnFuamJmZ18tZV9Wb2hwRk53SXQ1QnVFaXRCRUxCam5ERFZGN2F0N1Q1VTdjcmZMa09xcWxhcWp0anMyY01BZzBRdUNHUF9vdFEyUlFnTUVQVl9rOHdma1lkRkRMRWw3?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 03:04:09 GMT"
+          "published": "Sat, 11 Jul 2026 20:00:01 GMT"
         }
       ]
     },
     {
-      "word": "공판",
+      "word": "지방선거",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "검찰, 장윤기 '성범죄 목적 살인' 밝혀내나 … 법원, 내일 2차 공판 - 뉴데일리",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CR3BsVmFXdzRMNWpiREZ1aDgyVjkxam5sVGVoQlRXSzMyU0x5ZXlzV3FUa0lleTF0WEZTZlhvZnByV2R1Mk1NODFTcnJJeGhrdGptc2haNmZuVzhlNXRpdUlHRXE2Z2xSbnhKYWEtNzFlNnl6dFBBQXAycw?oc=5",
+          "title": "지방선거 끝나자 '탈당 러시'…발칵 뒤집힌 민주당 [여의도는 지금] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VYWxJRXozQldXNjBpZzFOSHFVNGxKejZvTnplU3hSQTByZmcza1FkV2JWclB3TUdZTG1ZaUpmTWpVeVhjWWU0eElrb19Ec192NThLRW9nMmUzQdIBVEFVX3lxTE1jZ2pSR1k1cDhKVVlqWTAyRlp3SzBVMk05SXZsbHdCZlEzbDF0eGd5MFBlbU13R1hZZmNpOXFpOW9Wc2FmT0JMU211c1ZRbFFBeU5iTg?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 03:04:09 GMT"
+          "published": "Sun, 12 Jul 2026 01:03:02 GMT"
         }
       ]
     },
     {
-      "word": "선호투표제",
+      "word": "끝나자",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "민주당, 오늘 오후 선호투표제 도입 논의 위해 최고위 개최 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9GSFdMbUxiNjc5Rmc0WU1hb3h1cmtReGF0LV9sQUlneTZ5cF9kR3k1VTZyV0JGaHBqdFNxSFZZX0E1VjNQWHYwQlJLUFRZTVZRWTdOYlFCV3dOdE5fZnJBOFRqeUZ2NGJVRGlBMU5RTy15ZTI3NFozcdIBeEFVX3lxTFBOWWluUkQxNXpMZVJvTDRobE9rbkFBdl9BQUZEeWJoamx1NFdVZ1dlTnd5MTBRNXpiVzVHTG1fZjJ3QXFibFY3eEpaYWluV1ZQblJSemh3Slk5MTJYWVlfcC12N2JscFRnMy13TEVKSnFOX1RQazdxRg?oc=5",
+          "title": "지방선거 끝나자 '탈당 러시'…발칵 뒤집힌 민주당 [여의도는 지금] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VYWxJRXozQldXNjBpZzFOSHFVNGxKejZvTnplU3hSQTByZmcza1FkV2JWclB3TUdZTG1ZaUpmTWpVeVhjWWU0eElrb19Ec192NThLRW9nMmUzQdIBVEFVX3lxTE1jZ2pSR1k1cDhKVVlqWTAyRlp3SzBVMk05SXZsbHdCZlEzbDF0eGd5MFBlbU13R1hZZmNpOXFpOW9Wc2FmT0JMU211c1ZRbFFBeU5iTg?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 02:39:04 GMT"
+          "published": "Sun, 12 Jul 2026 01:03:02 GMT"
+        }
+      ]
+    },
+    {
+      "word": "탈당",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "지방선거 끝나자 '탈당 러시'…발칵 뒤집힌 민주당 [여의도는 지금] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VYWxJRXozQldXNjBpZzFOSHFVNGxKejZvTnplU3hSQTByZmcza1FkV2JWclB3TUdZTG1ZaUpmTWpVeVhjWWU0eElrb19Ec192NThLRW9nMmUzQdIBVEFVX3lxTE1jZ2pSR1k1cDhKVVlqWTAyRlp3SzBVMk05SXZsbHdCZlEzbDF0eGd5MFBlbU13R1hZZmNpOXFpOW9Wc2FmT0JMU211c1ZRbFFBeU5iTg?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 01:03:02 GMT"
+        }
+      ]
+    },
+    {
+      "word": "러시발칵",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "지방선거 끝나자 '탈당 러시'…발칵 뒤집힌 민주당 [여의도는 지금] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VYWxJRXozQldXNjBpZzFOSHFVNGxKejZvTnplU3hSQTByZmcza1FkV2JWclB3TUdZTG1ZaUpmTWpVeVhjWWU0eElrb19Ec192NThLRW9nMmUzQdIBVEFVX3lxTE1jZ2pSR1k1cDhKVVlqWTAyRlp3SzBVMk05SXZsbHdCZlEzbDF0eGd5MFBlbU13R1hZZmNpOXFpOW9Wc2FmT0JMU211c1ZRbFFBeU5iTg?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 01:03:02 GMT"
+        }
+      ]
+    },
+    {
+      "word": "뒤집힌",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "지방선거 끝나자 '탈당 러시'…발칵 뒤집힌 민주당 [여의도는 지금] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VYWxJRXozQldXNjBpZzFOSHFVNGxKejZvTnplU3hSQTByZmcza1FkV2JWclB3TUdZTG1ZaUpmTWpVeVhjWWU0eElrb19Ec192NThLRW9nMmUzQdIBVEFVX3lxTE1jZ2pSR1k1cDhKVVlqWTAyRlp3SzBVMk05SXZsbHdCZlEzbDF0eGd5MFBlbU13R1hZZmNpOXFpOW9Wc2FmT0JMU211c1ZRbFFBeU5iTg?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 01:03:02 GMT"
+        }
+      ]
+    },
+    {
+      "word": "민주당",
+      "count": 1,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "지방선거 끝나자 '탈당 러시'…발칵 뒤집힌 민주당 [여의도는 지금] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VYWxJRXozQldXNjBpZzFOSHFVNGxKejZvTnplU3hSQTByZmcza1FkV2JWclB3TUdZTG1ZaUpmTWpVeVhjWWU0eElrb19Ec192NThLRW9nMmUzQdIBVEFVX3lxTE1jZ2pSR1k1cDhKVVlqWTAyRlp3SzBVMk05SXZsbHdCZlEzbDF0eGd5MFBlbU13R1hZZmNpOXFpOW9Wc2FmT0JMU211c1ZRbFFBeU5iTg?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 01:03:02 GMT"
+        }
+      ]
+    },
+    {
+      "word": "여의",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "지방선거 끝나자 '탈당 러시'…발칵 뒤집힌 민주당 [여의도는 지금] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VYWxJRXozQldXNjBpZzFOSHFVNGxKejZvTnplU3hSQTByZmcza1FkV2JWclB3TUdZTG1ZaUpmTWpVeVhjWWU0eElrb19Ec192NThLRW9nMmUzQdIBVEFVX3lxTE1jZ2pSR1k1cDhKVVlqWTAyRlp3SzBVMk05SXZsbHdCZlEzbDF0eGd5MFBlbU13R1hZZmNpOXFpOW9Wc2FmT0JMU211c1ZRbFFBeU5iTg?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 01:03:02 GMT"
+        }
+      ]
+    },
+    {
+      "word": "지금",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "지방선거 끝나자 '탈당 러시'…발칵 뒤집힌 민주당 [여의도는 지금] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VYWxJRXozQldXNjBpZzFOSHFVNGxKejZvTnplU3hSQTByZmcza1FkV2JWclB3TUdZTG1ZaUpmTWpVeVhjWWU0eElrb19Ec192NThLRW9nMmUzQdIBVEFVX3lxTE1jZ2pSR1k1cDhKVVlqWTAyRlp3SzBVMk05SXZsbHdCZlEzbDF0eGd5MFBlbU13R1hZZmNpOXFpOW9Wc2FmT0JMU211c1ZRbFFBeU5iTg?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 01:03:02 GMT"
+        }
+      ]
+    },
+    {
+      "word": "태풍",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "태풍 바비 中 동부 강타…200만명 대피·대만 134명 부상 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sd1ZkT1RqM3ctWWdLeWtOVHk3dTNVemlnUVFZWF8wMGV1a3BtclU0NUxBYkczNmhaNGU3Y3hSZHZCdnlUdVZseVowZXlvOGZjSDhvdFJmSF9EM1J6YnU0NHlKeFE4Q28?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 03:24:00 GMT"
         }
       ]
     }
