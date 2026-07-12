@@ -1,62 +1,24 @@
 {
   "language": "en",
-  "last_updated": 1783838473.7398765,
+  "last_updated": 1783847294.1582057,
   "count": 40,
   "trends": [
     {
-      "word": "Iran",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Live updates: New US strikes on Iran and Gulf nations intercept attacks - CNN",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYMVlvZWhZemtQSGdfTzNxam9JME9jc3RlNy1rUDNIT1lzM0l6ZHlFWGQyU3FpV2JNVXlDRUlMbEVhWi13bHZTSHdfS0VvWkhmTksyY041b19tLUNHajB6RkVHaloxdnBEX0dheGln?oc=5",
-          "source": "Google News",
-          "published": "Sun, 12 Jul 2026 05:43:00 GMT"
-        },
-        {
-          "title": "US and Iran exchange strikes as Tehran again says strait of Hormuz is closed - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObVFCemdsQjB3LVFnX0JwclJ6M2pWOUhTRzZXU1B4VUdUWDlhYWhwZmlOS0E4Q0JjU1FrcEx2Yi1mN2hXT0tHOTJDSnJSNUh0N0VKT3BvYXZ4UDVyVUhJTVJqV1Y4cnN0VlFyRXRMN3JHcTdselNDT0RId3QyelJGd3lUMjVTdURBSmgyY0RRVllKLU81dE8weW9zczVYZnQ0ZnAwc2M5WElUZFhGbHNXajVLRFNRdm0zYTBaWWV4SQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 12 Jul 2026 03:19:00 GMT"
-        },
-        {
-          "title": "Trump trades threats with Iran’s leader, Araghchi holds talks with Omani FM - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSG54YUh5VGxKRWNwU0VvcnY3eXpjWjlPYkxtQ1hkR1BuMnp5OGl5ZDJjYmNRWVgyYlU2Snh3cHR4c0tja0JHbWh1dXgzVDFNVFl6NFAyMUhIVHdfZ1hZUnpiM0xPMFZrUURDUkJiVlk2cTZkb05Wbm55WjdUWVE0ZEhMazhXX2xzc3h1YjZJR2Z5aVFfN1o4SlZRRzRiaUZ5dzhWM2pEM1d0WTE0ZU1RNFBNZWloVmvSAbwBQVVfeXFMTWhBYnJEZjN1R0lLWGM5ZTV2YUk5ZDJNNjNPMlpRYTlUeFBNeVY5TVdOUkRraWUtdk1NVkI1blN0VzAwYXNiY3ZsMEhNNkpjekhkUWZaSUNSREpWWFpNS1VhaWt5N1QzRjREZlFOWDAwY0hyUW1aenBKSHQ5enZLakxrN1Z0Vm9ZYjE3LUpuWDBoV05LSW81VEZZRnp6cUcwSm9rdHRNUXIwNEc5Q2NVWkswVjA1enIydVhJUUE?oc=5",
-          "source": "Google News",
-          "published": "Sat, 11 Jul 2026 20:22:16 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Strikes",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Live updates: New US strikes on Iran and Gulf nations intercept attacks - CNN",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYMVlvZWhZemtQSGdfTzNxam9JME9jc3RlNy1rUDNIT1lzM0l6ZHlFWGQyU3FpV2JNVXlDRUlMbEVhWi13bHZTSHdfS0VvWkhmTksyY041b19tLUNHajB6RkVHaloxdnBEX0dheGln?oc=5",
-          "source": "Google News",
-          "published": "Sun, 12 Jul 2026 05:43:00 GMT"
-        },
-        {
-          "title": "US and Iran exchange strikes as Tehran again says strait of Hormuz is closed - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObVFCemdsQjB3LVFnX0JwclJ6M2pWOUhTRzZXU1B4VUdUWDlhYWhwZmlOS0E4Q0JjU1FrcEx2Yi1mN2hXT0tHOTJDSnJSNUh0N0VKT3BvYXZ4UDVyVUhJTVJqV1Y4cnN0VlFyRXRMN3JHcTdselNDT0RId3QyelJGd3lUMjVTdURBSmgyY0RRVllKLU81dE8weW9zczVYZnQ0ZnAwc2M5WElUZFhGbHNXajVLRFNRdm0zYTBaWWV4SQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 12 Jul 2026 03:19:00 GMT"
-        }
-      ]
-    },
-    {
       "word": "Dies",
-      "count": 2,
+      "count": 3,
       "category": "NOUN",
       "articles": [
         {
           "title": "Sen. Lindsey Graham dies at 71 after ‘brief and sudden illness’ - NBC News",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM1pCVHBBWGlWeHdzclNpb1c1NUVtUUZ1VG5GRVhoeDRKTWo3YzBaUjhfdklUMFFoTlJmSi1LZTVrNDdOelpWVFlHczBPRUZmcmRCQjBLZEwtNGMwS2tJZkNnN3l0RlE2RWtocmlzUU5JNWV0RkVnRERMSXVldEZ0NTF4WjhVbVdUaGczQjBmVUptZ2JWSGh6REJ6UkdENFo3cUZYVnM3NkQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 06:22:00 GMT"
+          "published": "Sun, 12 Jul 2026 07:59:00 GMT"
+        },
+        {
+          "title": "Former emir of Qatar, Sheikh Hamad bin Khalifa Al Thani, dies at 74 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa0haajRKdWJvZENRMEpjQnFRUFJ1cEptbFRKQ1B5WHN2LTlHeDNEUUc2Q1lVS2FNV25jd2cxQUx5M1UwWXB0WWppa2FLallzNnAtWnVxc1I1eGo0UGJQNmpzRUdGR2p0OVVDdmNnODFVdGtuYjM4ZllpX3V3bDBLREVtNDlPUHp4N2ZVV1JZb1JTbkFheVllMDFNMFNTSHdmSGh6bWpUN3NXcDlxWTJMa0h2RQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 05:15:00 GMT"
         },
         {
           "title": "Last U.S. polio patient with an iron lung dies at 78 in Oklahoma - NBC News",
@@ -67,7 +29,76 @@
       ]
     },
     {
-      "word": "Killed",
+      "word": "Final",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Honeycutt, Riggs salvage their days at Lime Rock after final-stage crash - NASCAR.com",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTTcwdzNUaFp1MFdCMEpBaENRdmZYY1hKWnVBdW56T3E5MEp4YTh1aGYySElUVlRWWThLbWRvWWZfVjFXZ3M3RjNUaEZrRVJIb3pqU2lHTUgwVjBUUXdvdFhYdjZvU2VzNnNOU2FqVnBzd0czZ1FHVmp6elVKbHBkUS1la2JkMFM0dDB1MFNpVmRDbWVKNExrZWJzTWVWakJFYzhNZ1d2NUdTWkRRSUVCVA?oc=5",
+          "source": "Google News",
+          "published": "Sat, 11 Jul 2026 23:07:47 GMT"
+        },
+        {
+          "title": "Norway 1-2 England: World Cup quarter-final player ratings from Miami - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUHhCaDd3S3dVVTZod1A5aDlld1RmNlhpYnN1b3FlSXlxSEwtb0FJdnlITmhPTnJ3QlZrTF83T1U0bzdOVDZ6aVdRamxma2xVaEpwNHlISC1od3FONGo5T0JHR3NMVUJoTlZRZm4tWjdjYlFBNHh6S25OS0FNMVZNSFl4NHpmbFY5RmptNUJoVk9aWE1yMlBwbUJXNnRxb3lzQ2FVTlcwY2ZtOF9VZmQyd0xUSEwwQmgw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 00:51:00 GMT"
+        },
+        {
+          "title": "World Cup semifinals bracket: Full schedule, matchups and path to the final - Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMWc3WGtyemhwZ2VjbXNaQTlTVnNobW9TTmhtMkxVdl9xTHVXOVpBNS1mOGc3MkgxTnZaa3B0VE1DVWxCMFZGZGFlTGlNb0RMWGtkazBIckpMemhYZ0FxbVVfN0NCRGdEMXBxcGl3ckhYblJaaUNFRFhaTGpfSjJKNE5YYzZZZ1k1SENnUDB3UXUwNjJXRXFWWWctajdUSFdZNkRKOFNfcy1KN2NjZVpyT3J5V2R3QWhNVm01NzlQbHczYzd1WFA0?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 04:05:01 GMT"
+        }
+      ]
+    },
+    {
+      "word": "July",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Horoscope for Sunday, July 12, 2026 - Chicago Sun-Times",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRUNaeG91WnBvZFU3aHBydXU2X3VSZ1ZQSW1tVXZfc2ViZGo1bE5rTXp4elFEazhWenI4UC1Ya1dWUVNHdHFCSWdORVhZZUVnVXRjd3NwS21odFN1NjRBWFNJTjBVS0x3dVlMRlU4dUp1ekxEd0s3NFhPRUU2MS14aVZiN2JBZHJUSU5QMmdVQ3Q?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 05:01:00 GMT"
+        },
+        {
+          "title": "Rare Planetary Parade On July 12: Moon To Appear Alongside Mars, Saturn And Uranus - NDTV",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUXptY0F2UjZDTW1McVUxbVcwdkw4VFJqMERQZ2JsYk9aYWREa05IZ2NKeUNVME9XM1JfdTQtSUw4NWN3Nk9mc0JMVHFFS2pZLXJPSVc4WHVyZ1hqdm12QXcyYVd4ekNSbjdkTklKX1Y5elFoTlRiY184dDBCWExyRjh6d0ROS3hJMFdRV2xGQkdRSHZfcTh4NEdSenpCcktoNS1lZDA2T1hibDkwczNtNHNLd2NMUdIBvgFBVV95cUxQTktocUIwM25zWFFjajAtaVFvY2RyN3lwbVQ1NXJFMGV3S0tjbzYwczU0cDVMZWJYaXVPMngwbnVMT0FkZGxDV0RnT251Tzhpal9FcllxdHE5S2pacWEyb1ZWN2NxTXplTW4zTDZSNlFrZmVyWHFRRTdVTU5OXzJLTXRPRE1GYXZ2TTZIcFVRZ0c5LV80MjBXemVIUmRhWndpZktBYVBhenR3MHRkam1pYzV0cENnb0VNdlZNQjh3?oc=5",
+          "source": "Google News",
+          "published": "Sat, 11 Jul 2026 06:30:51 GMT"
+        },
+        {
+          "title": "In July 2026, Europe's Euclid telescope found 31 of the oldest quasars ever seen, two now shining with the light of a trillion suns when the cosmos was just 5 percent of its present age — their glow 13 billion years in the coming - Space Daily",
+          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOcnhzSGJ5LTRlWEU1aWd4bnM3MnJiSkswUVRWZjl2TVZrRG1mZTE4NVFBSEdraEVpcEVKcUZNanJCalhBbm1USkhlUG5wWHpvQW9wUDFjd2lTTFl2UHY5ZEJET25Eb1I0V2RGdGtubWdwaXhOdnZhZzQwejMtOHJHX1BjRURPNjBsaklpWFF5WVdwb1ZFWGFBNUkzMmE0RlZiRURtX1J5WWw1Tl94Xy1PbGVfYmFMY1JfZ3gyNUQtSF85R3E2c3oydnQxMENJN2lXckIzZEM3LTU0N2t0UkhST3hKSi14MkVudTlKVTZzc0cxOXFXXzlweV8xa3RyUkVaN2hhRzdwNXk5Y3RfT0pJVlpoT29XTHJrdTVnZzNFaHFfWE81b3NZbTdNS2dQczU2cmVuTmViWUE?oc=5",
+          "source": "Google News",
+          "published": "Sat, 11 Jul 2026 10:29:38 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Iran",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out again at Gulf Arab states - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWNIZWpPMUROMXlXU0EwT1pjWWUycXFoTjBobEJLM0JpWGhjTWZwN0Q2RkxaY3N6cU9fNXZOT194MWFHYllDYUh4RWdEdmF3NVpGQ2tlOTl4dWI5VzVMWlgycVBYcmtSRDR6UV9lQmtoWkZMUWRvLUYwZXhIQzlGcVVpTGlMZElhRkxkT0pkMXlEZDJmSll0c2JsYkY?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 07:24:00 GMT"
+        },
+        {
+          "title": "Trump trades threats with Iran’s leader, Araghchi holds talks with Omani FM - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSG54YUh5VGxKRWNwU0VvcnY3eXpjWjlPYkxtQ1hkR1BuMnp5OGl5ZDJjYmNRWVgyYlU2Snh3cHR4c0tja0JHbWh1dXgzVDFNVFl6NFAyMUhIVHdfZ1hZUnpiM0xPMFZrUURDUkJiVlk2cTZkb05Wbm55WjdUWVE0ZEhMazhXX2xzc3h1YjZJR2Z5aVFfN1o4SlZRRzRiaUZ5dzhWM2pEM1d0WTE0ZU1RNFBNZWloVmvSAbwBQVVfeXFMTWhBYnJEZjN1R0lLWGM5ZTV2YUk5ZDJNNjNPMlpRYTlUeFBNeVY5TVdOUkRraWUtdk1NVkI1blN0VzAwYXNiY3ZsMEhNNkpjekhkUWZaSUNSREpWWFpNS1VhaWt5N1QzRjREZlFOWDAwY0hyUW1aenBKSHQ5enZLakxrN1Z0Vm9ZYjE3LUpuWDBoV05LSW81VEZZRnp6cUcwSm9rdHRNUXIwNEc5Q2NVWkswVjA1enIydVhJUUE?oc=5",
+          "source": "Google News",
+          "published": "Sat, 11 Jul 2026 20:22:16 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Street",
       "count": 2,
       "category": "NOUN",
       "articles": [
@@ -78,10 +109,10 @@
           "published": "Sun, 12 Jul 2026 03:56:02 GMT"
         },
         {
-          "title": "Venezuela quakes have killed 4,333, injured 16,740, National Assembly president says - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORkE0LXY1NzZMSC1kVURVTDA0a0NGc3l4aXNreERjdXJhZWlWWDlzVGhKaGhFS2p2WGIyVV9SdzVzcHJXS0w1UG9ZSGpyUFpVUWx5UEVTOTlQYWJmRHBkRlZlSHVsN19zQ3RCUVQxaWhzWTFpYWQtSUY4YWVJcnZmUkk2S3NpcFFUR1dBQU9tRjZqSWE4NGlXenJmVTQzSEo5Vk5qakZ1TDVoSXNyX1pEZFpFcnRrb0ZEZldPQlBuLW5KM2RKUVRPMDVQWQ?oc=5",
+          "title": "Wall Street Is Bullish on SpaceX: Here Is What a $2,000 Investment Could Return - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUlB2VlRpWFE1QWJIbWpPd3dJcU9ITmRDV01zU0s3d1ZIRW1iazQyTlhyRUY4MElEYUxyV1NaV1Jfa1NROXdGSGtJSUJjbDR2YTZOSHBlbVItdk1NM2dfSC1ncWFWRl94SjNsMEZlWmFzV25HT25LOFVSQTF4elJoaHN6dEpnRnFqNnZjQ0RjT1VzM3A2MVNEQw?oc=5",
           "source": "Google News",
-          "published": "Sat, 11 Jul 2026 18:04:55 GMT"
+          "published": "Sat, 11 Jul 2026 15:52:00 GMT"
         }
       ]
     },
@@ -105,40 +136,59 @@
       ]
     },
     {
-      "word": "Flooding",
+      "word": "Killing",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Missouri flooding leaves one dead, while rescuers helicopter more than 200 to safety at summer camp - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWnJOdE1Pa19BdXV1RzhSc2c2dGRVYy1XTVczUHhKYTNOX0xKZ1AzbnpFXzQ1R1NCcWlNT0RhSEUyb290MlhuZWxaSTZFSEdRTTVEd0FSS0E4WFZ2WTBBNHF5Si1ZOWZZYzI5Tmp4VHJTQ3U0NDN4ZzlNUTZhNjMzX3dNX3VVb0xvMVNtdVZYdUdtN2VlamN0TGZJMExGemZnNHdLLVdNWFVZVExSLTZHTzFubw?oc=5",
+          "title": "Videos Shed Light on Pursuit Before ICE Killing in Houston - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTlFzVU5NczBGN3llRERnZ0d4X3B6MlhjVGVCRXZHUHZBM1BGQ1pqQy1FY0ROakhoMjNXU3NhWTV4ZmtNSVZUYklLWVZ2aGtEZWc4VUZsdnlGX3lnWUNBMkNETUh2V0VKc3pieXVLTUV1RDJLemJlanRSLUJVR05mT2xyaW4yUTdrczl2Nw?oc=5",
           "source": "Google News",
-          "published": "Sat, 11 Jul 2026 23:15:00 GMT"
+          "published": "Sat, 11 Jul 2026 18:47:36 GMT"
         },
         {
-          "title": "People Are Flooding Brandy With Support After She Spoke Out About Speculation On Her Appearance - BuzzFeed",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95YWUxSnRFNUhDUXRkWVFRbnBUbkVKa2FOVmZWc0lmSm9yNEp6d1hPVHdLdUJ5bXI5Wk1Vc3pOemtuZU81VnBkWXZLZ2VWWmJLMm9JcXAwSExOVUFGTmhEYWtXRkVDbGp1c19zT0xnV25laTluWXc?oc=5",
+          "title": "UK police make new arrest over killing of former politician Ann Widdecombe - PBS",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNmxfVGhSU1haNDRVWTNGTVd1eU9UNmJVU3lEZnNaQi1MeUxkODBvcUViTHQ0bUN3bzhmSGxPaFMycmpJRHpFZXZad1Z6Y0Y4X3Z2cHdWQzlOMWU3QTQwYlhkdXVqbnRidmNSOXNMRWNrN2h3V2FGWEFPeG5mWUlIZ1R4Undkdm5pY0h3LUhYcnd5aWc5WlNHWlI1RmJpMHJhd2FGU0hPSnZXWVFsWmh5MFpyT2_SAboBQVVfeXFMT1NQMUpaVTZ0aG9UT2RLa1ZudFVTcFVYRFIwLWJxSlc2THlqT2ZuNm56X1FOemNUdXdGaWdhd19PLWxHRklYakhLVXZQNWZNN3Y4ZE5BRDhKNHQ3ZmppNXhnZmEzTWFnczIxeHhEQmJqbmh2YWZBQThEMk1MOTFlZWlWb3FZaWpudnlsYXNyY1ZwNVJoSmlhaU9lbngxRXpmcFVqeUE3RG9nRmZwYW9EaEtwRWlCVjVCeGpR?oc=5",
           "source": "Google News",
-          "published": "Sat, 11 Jul 2026 19:36:42 GMT"
+          "published": "Sat, 11 Jul 2026 16:14:10 GMT"
         }
       ]
     },
     {
-      "word": "Know",
+      "word": "Player",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "What we know about death of Nolan Wells, Black teen who went missing on Mississippi boat trip - PBS",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd24tOHFHZU01VzJ1N01hb1dPZFVTTXpNZ2V3ejJrSndKbHdJVVp2d21KTnpHVlhLT0JOQ1BBaFE2Z0FNQThmWHZ0OVJBdnJhRGtleUZYS2VSZHItMFd6ZnJ5T2xZUEduWW5YTldzWUwyNjhzak1SUUdwUW9TMGdNR05yQkdLR1J5MG5PVnJxczhqR2tOaTRERUh1LVBBNks2NVQ1RmdYRVVNSGpNMHljTG9UcVcwc09Qd0VYQ2gwVkV3Q1gtbDBR?oc=5",
+          "title": "A teen football player’s death has sparked scrutiny and speculation. Here’s what’s happening with the investigation - CNN",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZdkJGWmpWYW83eDRFck8wWG9fX05kZFlVanAwMjJ4NU50cWJZX3NmUDRsSUJoYVJCSkFydk5mbEpaTWhQUDE5TnNNZmZ1dVZEVUJkclBHRDIwa2w4cGc0YlBxQ21PSExyRmdB?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 22:49:04 GMT"
+          "published": "Sat, 11 Jul 2026 10:00:25 GMT"
         },
         {
-          "title": "GTA 6 Preloading: Start Date And What To Know About Digital And Physical Copies - GameSpot",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV3B0cHNJbTk5Mm9ONVBJZVROQmxqaHZhbmNaeWJkTmQ3X3pWNDZDb1E1U0dpWVdnbW5aQTBPU0hONi1zYUlGVVkxaERtZ2hyVHlRVUp4eEhUS0hPQ1IzV3ZiTjNkYXVGenZoNE5XYXlxZDhUbkFaUDh4LXdKYzRPb2FhN3JvZmx2UWt5OVVGQkJYZlg4SHJLMV9URWxRMkRSdlo1UXpkZ2pCbWpFeEdqTXRsQQ?oc=5",
+          "title": "Norway 1-2 England: World Cup quarter-final player ratings from Miami - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUHhCaDd3S3dVVTZod1A5aDlld1RmNlhpYnN1b3FlSXlxSEwtb0FJdnlITmhPTnJ3QlZrTF83T1U0bzdOVDZ6aVdRamxma2xVaEpwNHlISC1od3FONGo5T0JHR3NMVUJoTlZRZm4tWjdjYlFBNHh6S25OS0FNMVZNSFl4NHpmbFY5RmptNUJoVk9aWE1yMlBwbUJXNnRxb3lzQ2FVTlcwY2ZtOF9VZmQyd0xUSEwwQmgw?oc=5",
           "source": "Google News",
-          "published": "Fri, 10 Jul 2026 16:43:17 GMT"
+          "published": "Sun, 12 Jul 2026 00:51:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Former",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "UK police make new arrest over killing of former politician Ann Widdecombe - PBS",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNmxfVGhSU1haNDRVWTNGTVd1eU9UNmJVU3lEZnNaQi1MeUxkODBvcUViTHQ0bUN3bzhmSGxPaFMycmpJRHpFZXZad1Z6Y0Y4X3Z2cHdWQzlOMWU3QTQwYlhkdXVqbnRidmNSOXNMRWNrN2h3V2FGWEFPeG5mWUlIZ1R4Undkdm5pY0h3LUhYcnd5aWc5WlNHWlI1RmJpMHJhd2FGU0hPSnZXWVFsWmh5MFpyT2_SAboBQVVfeXFMT1NQMUpaVTZ0aG9UT2RLa1ZudFVTcFVYRFIwLWJxSlc2THlqT2ZuNm56X1FOemNUdXdGaWdhd19PLWxHRklYakhLVXZQNWZNN3Y4ZE5BRDhKNHQ3ZmppNXhnZmEzTWFnczIxeHhEQmJqbmh2YWZBQThEMk1MOTFlZWlWb3FZaWpudnlsYXNyY1ZwNVJoSmlhaU9lbngxRXpmcFVqeUE3RG9nRmZwYW9EaEtwRWlCVjVCeGpR?oc=5",
+          "source": "Google News",
+          "published": "Sat, 11 Jul 2026 16:14:10 GMT"
+        },
+        {
+          "title": "Former emir of Qatar, Sheikh Hamad bin Khalifa Al Thani, dies at 74 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa0haajRKdWJvZENRMEpjQnFRUFJ1cEptbFRKQ1B5WHN2LTlHeDNEUUc2Q1lVS2FNV25jd2cxQUx5M1UwWXB0WWppa2FLallzNnAtWnVxc1I1eGo0UGJQNmpzRUdGR2p0OVVDdmNnODFVdGtuYjM4ZllpX3V3bDBLREVtNDlPUHp4N2ZVV1JZb1JTbkFheVllMDFNMFNTSHdmSGh6bWpUN3NXcDlxWTJMa0h2RQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 05:15:00 GMT"
         }
       ]
     },
@@ -148,10 +198,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Typhoon Bavi makes landfall in eastern China as more than 1 million are evacuated - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUFpYaEtpZ2dWSzVtVndmRk01cTZ0aHQybGswb1c5QXd1WGtBRjIwejcwbUQ3cFJOVDV1MEpzdVQ0MGNKWWdETkVxVTRYV0ZHYVNTOEVJTktCWlQwVFJnVklJMEIwa3R0SHJDZVotNHdnRi1lbXl1dFpMcXo4eE5pV1lyeWlLWmdoeWxlX0pFRFk5QXRRMHc?oc=5",
+          "title": "More than 1.7 million evacuated as Typhoon Bavi makes landfall in China - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONmhKZVUzOHhLaGZlV1JPdVp6a3NyOVpuakMwc3l3N2FPNUk4WmVvYVhUZjM1eDU1ZEJJR21rVDNYcFhvOVY2N0NLSzF5Qmxubk1PSThxeGs0dWt1TDBHUzZkUFE4QmtzcXNsZFJxY1BBSDlNNUZFcUF1MnBEczdQd3NLdEJaQzkyaFRDLUZrdzVNQVdqVVRqVy0tVFFYUFJMeGxmMWJrTENEaFpfdUR30gG0AUFVX3lxTE1RQi1nZ2F4SEdGcHJVbTBjRjdxcTFqYW9HOXNBUm8xd3V3cmZoTFJOZ2NHU2lqejd2c2lWN1FldUs2blVsa19HOUFuRUJ5OFRXU0NEa09tZEdRUGRnZDF1X1hwM1NDSXRhcEhha0RxYS1HS0JSVWhHSXczSHBHUE9JM2JsTkJGV3hoVlRwUy1vVjFuWHVLRmFzZF85RkVUbVJQanRfc0NtRUdWckZsM3hzRmRrcw?oc=5",
           "source": "Google News",
-          "published": "Sat, 11 Jul 2026 19:21:00 GMT"
+          "published": "Sat, 11 Jul 2026 19:07:33 GMT"
         },
         {
           "title": "‘Moana’ Remake Is Barely Above ‘Snow White’ at Box Office With $45 Million Opening - TheWrap",
@@ -167,10 +217,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Apple Sues OpenAI, Accusing It of Stealing Company Secrets - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKUzJZN0pQMUl5TnQwdjdMWVJfM3lWVmhOdHhoTlY5RldFcENVRnNOR0N1Q3NrVU9qTzZkZXJGWGtnenY4UWN4WXBZdm1JVjF6OW5PXzV1cGhZUmhYdHdjWFNLT0dOOHpEMTY0RG5HTmxjYzdEaHAza3I4VQ?oc=5",
+          "title": "What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets - Business Insider",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTERtRTBYZ1dBQ1owTlNtMzdlN1ppOG1TRjFUcXJqSi1uYS1pajVjREszRkk4WG5DX1NEQy11WXp2MGxCek90ZG9rdHJzM2dpY2pLZU5HeTdHYTNwYmtpMHczUjctSGtnakdyMjZrSHhDODdFUXJkbG9Td3pCS0NIWEhZTXBoNWFFdU1wc3ppYVF1amFWdjZFNW9qNlN2N2ZURXVVbA?oc=5",
           "source": "Google News",
-          "published": "Sat, 11 Jul 2026 18:00:00 GMT"
+          "published": "Sat, 11 Jul 2026 20:23:00 GMT"
         },
         {
           "title": "Top Stories: 'iPhone Ultra' and Apple TV Rumors, iOS 27 Beta 3, and More - MacRumors",
@@ -181,21 +231,40 @@
       ]
     },
     {
-      "word": "Parasite",
+      "word": "Spacex",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "'Explosive diarrhea' parasite prompts some restaurants to change the menu - USA Today",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUzgwYlR4LU50Z3Fwenhna1JGMDktY2t0dnRzY0hrQ0Jpb0w5eVJKaGtzSDBSRzZyV0xHQXY4b0tlbzVEbGNpQTlzNTQ4dGZHbk5yVEtjbC1CaGlhc2pCd2hVM2JvVVNNNHpjYjRJZGd6VkFBVHpFeEotZFlWVDgxMDUwTHFWdWVEWkt4WDFhdnoydUZoMFd4N19sMzJWU3RnZU16ZGdCOGdIRnRjUmh6Qkl3?oc=5",
+          "title": "Wall Street Is Bullish on SpaceX: Here Is What a $2,000 Investment Could Return - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUlB2VlRpWFE1QWJIbWpPd3dJcU9ITmRDV01zU0s3d1ZIRW1iazQyTlhyRUY4MElEYUxyV1NaV1Jfa1NROXdGSGtJSUJjbDR2YTZOSHBlbVItdk1NM2dfSC1ncWFWRl94SjNsMEZlWmFzV25HT25LOFVSQTF4elJoaHN6dEpnRnFqNnZjQ0RjT1VzM3A2MVNEQw?oc=5",
           "source": "Google News",
-          "published": "Sat, 11 Jul 2026 22:22:00 GMT"
+          "published": "Sat, 11 Jul 2026 15:52:00 GMT"
         },
         {
-          "title": "Parasite causing major stomach symptoms - KTVU",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRU5DTTBnVEZZeXZ6ZXVxZWRpeGxDZUhET282VnZkaTBEUVU3dHBtUjRBcnNZY1RicUpRZ0NITWJsWG82bFcxWE9kLUtZQ0lLZGQ3OENxd2U4dEFqNlR1QVF0Tjl6V0xfdVAtM1NBTDVpZ3NWcFhxRVU3MUREZmZEVDRR0gGHAUFVX3lxTE94Wlc5SDdBa3BUZmRGelY5NzJyS3B0MVNKeXVPTFY0cjFLYm5GSFFkNks4OVhjS1o5Y3phRUxTSm9yOXMyZmRVb1J1dHFYZHdMOGd0c2piSVdfNHAyUEtvZ2VMY0Faa1ItT1dxUVl6eUVMaTVpOGRBMHJSRkphYTVGbW9Ob05Icw?oc=5",
+          "title": "SpaceX Falcon 9 rocket launches for 35th time, hauls Starlink satellites to orbit (video) - Space",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWFFjR2UydlRocjlwalBJMTRlNkh3M2wwVWp5UWd5TV9VQTVNWUlyekhwMVd0QzFURkFld0JnTlBzR0U3TVQ0V2dOVmxyMjRoQlZWa2kybzlMaFJSY2V0WFBxZmZuZl82QWNkbU53a2ZxSzhjd3JZM1Z2LXE3YkgxeGRDUHVxbmNHYmppZ0hPQjFfaGNhOVBiRzN6M1NuWGhidjJSdlVkbVRnRmE1Mm1oVA?oc=5",
           "source": "Google News",
-          "published": "Sat, 11 Jul 2026 20:51:14 GMT"
+          "published": "Sat, 11 Jul 2026 04:02:20 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Return",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Wall Street Is Bullish on SpaceX: Here Is What a $2,000 Investment Could Return - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUlB2VlRpWFE1QWJIbWpPd3dJcU9ITmRDV01zU0s3d1ZIRW1iazQyTlhyRUY4MElEYUxyV1NaV1Jfa1NROXdGSGtJSUJjbDR2YTZOSHBlbVItdk1NM2dfSC1ncWFWRl94SjNsMEZlWmFzV25HT25LOFVSQTF4elJoaHN6dEpnRnFqNnZjQ0RjT1VzM3A2MVNEQw?oc=5",
+          "source": "Google News",
+          "published": "Sat, 11 Jul 2026 15:52:00 GMT"
+        },
+        {
+          "title": "Conor McGregor suffers early knee injury in return, loses to Max Holloway at UFC 329 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcWZrdnNJYzI3MDVrVXRxbjN1aFpMTFh4XzBoaENsS0lQWXRlNGVkVGozMm1MY2hyYTE5cHJQZGRHUGxQZEZ2Z2xXOWxXTHhIQTFkdlRfaVVieHpBekUybmQ3ZkhUMnhBaGR3V3lyZm1zNGJqNWt2NnhaR3hBbDZvS2hOX0s5bElLOGlzM21iMHdfMjdoNkVLNDNnTU5LRlFq?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 06:52:00 GMT"
         }
       ]
     },
@@ -219,78 +288,21 @@
       ]
     },
     {
-      "word": "Appearance",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Travis Kelce, Taylor Swift’s Recent Honeymoon Spot Revealed After First Post-Wedding Appearance - Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ0hFYkVad2tHOVhBemkwVkVNVWxXYklmbU9SRXR0MzVJTkVNM1JsaGhrUDYtUzRUeEdxY0dmU3JaQjYyTmJPZXRPR21XNEYtczYyRDRkVW5iaDBQV1dUS2Vzci1YOFNlNWZBaDRfMHRQVVRfVTN0Z184YVFlQUtkTmRhMzF2eUQyQkRwbG5lLVBCOWR5MlNWNXdiNDVYVEM2UHBtZw?oc=5",
-          "source": "Google News",
-          "published": "Sat, 11 Jul 2026 23:20:40 GMT"
-        },
-        {
-          "title": "People Are Flooding Brandy With Support After She Spoke Out About Speculation On Her Appearance - BuzzFeed",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95YWUxSnRFNUhDUXRkWVFRbnBUbkVKa2FOVmZWc0lmSm9yNEp6d1hPVHdLdUJ5bXI5Wk1Vc3pOemtuZU81VnBkWXZLZ2VWWmJLMm9JcXAwSExOVUFGTmhEYWtXRkVDbGp1c19zT0xnV25laTluWXc?oc=5",
-          "source": "Google News",
-          "published": "Sat, 11 Jul 2026 19:36:42 GMT"
-        }
-      ]
-    },
-    {
       "word": "Cup",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Bellingham scores twice to lift England past Haaland and Norway 2-1 and into World Cup semifinals - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMjdYd29Xa3NsdWxUR2g0LUJLR1FlSTQzdlZOLUpZUHFrZXUxN1VCU2d6c0djSGpqZEJiZWFoLXJuTlVhdVJ0NmExV1B1aXFvbFYzR0Z4dk1TY21IYk4xX3RNQ1pxdHpDTU9LWlhKcVc5TVF1Q2N6REkwSWtKWk5mTDdNNEhvdU91U2I1YThNNlVsSERZ?oc=5",
+          "title": "Norway 1-2 England: World Cup quarter-final player ratings from Miami - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUHhCaDd3S3dVVTZod1A5aDlld1RmNlhpYnN1b3FlSXlxSEwtb0FJdnlITmhPTnJ3QlZrTF83T1U0bzdOVDZ6aVdRamxma2xVaEpwNHlISC1od3FONGo5T0JHR3NMVUJoTlZRZm4tWjdjYlFBNHh6S25OS0FNMVZNSFl4NHpmbFY5RmptNUJoVk9aWE1yMlBwbUJXNnRxb3lzQ2FVTlcwY2ZtOF9VZmQyd0xUSEwwQmgw?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 03:56:00 GMT"
+          "published": "Sun, 12 Jul 2026 00:51:00 GMT"
         },
         {
-          "title": "Messi and Argentina survive another close call to reach the World Cup semifinals - NPR",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSW5BVmlObmxZYWplYXlWWkdLdUZUOU1ETmVnOE1KSlQxUk42cTMzUnhWWmU5UWNDaE1jbHVrTXVYV3huYjVhRDd2MG5JYjh3WmJ4T0NmdWV1YnpkLWZUdEI3am9yVk53VTZSWlFnendZN0h4NC1EYTdLQVdzc0NQUmlQRUYtQUc2TXIwQVk3SFBHVDdxNkliUjl5bnJGcEs0?oc=5",
+          "title": "World Cup semifinals bracket: Full schedule, matchups and path to the final - Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMWc3WGtyemhwZ2VjbXNaQTlTVnNobW9TTmhtMkxVdl9xTHVXOVpBNS1mOGc3MkgxTnZaa3B0VE1DVWxCMFZGZGFlTGlNb0RMWGtkazBIckpMemhYZ0FxbVVfN0NCRGdEMXBxcGl3ckhYblJaaUNFRFhaTGpfSjJKNE5YYzZZZ1k1SENnUDB3UXUwNjJXRXFWWWctajdUSFdZNkRKOFNfcy1KN2NjZVpyT3J5V2R3QWhNVm01NzlQbHczYzd1WFA0?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 03:45:57 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Semifinals",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Bellingham scores twice to lift England past Haaland and Norway 2-1 and into World Cup semifinals - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMjdYd29Xa3NsdWxUR2g0LUJLR1FlSTQzdlZOLUpZUHFrZXUxN1VCU2d6c0djSGpqZEJiZWFoLXJuTlVhdVJ0NmExV1B1aXFvbFYzR0Z4dk1TY21IYk4xX3RNQ1pxdHpDTU9LWlhKcVc5TVF1Q2N6REkwSWtKWk5mTDdNNEhvdU91U2I1YThNNlVsSERZ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 12 Jul 2026 03:56:00 GMT"
-        },
-        {
-          "title": "Messi and Argentina survive another close call to reach the World Cup semifinals - NPR",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSW5BVmlObmxZYWplYXlWWkdLdUZUOU1ETmVnOE1KSlQxUk42cTMzUnhWWmU5UWNDaE1jbHVrTXVYV3huYjVhRDd2MG5JYjh3WmJ4T0NmdWV1YnpkLWZUdEI3am9yVk53VTZSWlFnendZN0h4NC1EYTdLQVdzc0NQUmlQRUYtQUc2TXIwQVk3SFBHVDdxNkliUjl5bnJGcEs0?oc=5",
-          "source": "Google News",
-          "published": "Sun, 12 Jul 2026 03:45:57 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Record",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Seahawks sold to current NFL owner for record price. Who is Vinod Kohsla? - USA Today",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOHFXRFZ2OXJrdHBvNlRZLXVLdFoxQ2gxbVNGM1RhTGd3NmJWdkk2TEhJZTczTHRZdzJwX2dLOURidjBrdUVMLUNGeEc2TU1Nc1E4TXZYMmxlZ2lpdGlVdkpxOExmeDZjZ0UzN2xPUHNFRFpzbE5KSnJyRFVESTlfSjJKcDc5RlVyN05DdklpcjNkZEtGRHRoVWZ3bGNZb0c0dGNUY3huUkxRdVk4UTZxSEZyWllhZk5aMDNYNVdud05TVXMwa0g0MDBZZTR0ekp0V1BF?oc=5",
-          "source": "Google News",
-          "published": "Sun, 12 Jul 2026 03:52:00 GMT"
-        },
-        {
-          "title": "Another US citizen tests positive for Ebola virus while working in Congo amid record outbreak - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV1lWUk9Vc1cyN0VpUF9sejhMbTI4RzVDMHoxbTlXQldLTXlkRzVsWS16Z3cwRV9pQXU5Rkk5MUhpM1NMU2xEeVljSjJkZDk5aEttV1BuenVjZEpmNU9ESjd0TW1HUzhyZEhOV3RKUmc0akVnZEk1ZXBVTmY5aWQ1U1VNT0NsOVQ1bXY4Y2tMaGxHNTBHSks1Y3dWTDB1WDVQUG5sMFRZMTVHU1HSAbABQVVfeXFMT055MVhzSEJiOXo4MlNKVVRFYWRsNUJOWVdRMk1ZYW9hRkpUS3BtSWtqWWR6UmZxTFhQWXNNaThXOXhFZWxmQzhrLVhSZFdkYXJxTktkblpBUzdRZU5kcUlNZ0hKbE5qRFRlZXBueDRjbWo1T21kZE1fY05JMjRSWF84RV9HMlU2SG9xMUVja2JFZmV0MGNxZTc1SjVWWWsyOG9YSGxmOWIwaHFfaW00UF8?oc=5",
-          "source": "Google News",
-          "published": "Sat, 11 Jul 2026 23:20:23 GMT"
+          "published": "Sun, 12 Jul 2026 04:05:01 GMT"
         }
       ]
     },
@@ -333,80 +345,21 @@
       ]
     },
     {
-      "word": "Live",
-      "count": 1,
+      "word": "Outbreak",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Live updates: New US strikes on Iran and Gulf nations intercept attacks - CNN",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYMVlvZWhZemtQSGdfTzNxam9JME9jc3RlNy1rUDNIT1lzM0l6ZHlFWGQyU3FpV2JNVXlDRUlMbEVhWi13bHZTSHdfS0VvWkhmTksyY041b19tLUNHajB6RkVHaloxdnBEX0dheGln?oc=5",
+          "title": "Another US citizen tests positive for Ebola virus while working in Congo amid record outbreak - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV1lWUk9Vc1cyN0VpUF9sejhMbTI4RzVDMHoxbTlXQldLTXlkRzVsWS16Z3cwRV9pQXU5Rkk5MUhpM1NMU2xEeVljSjJkZDk5aEttV1BuenVjZEpmNU9ESjd0TW1HUzhyZEhOV3RKUmc0akVnZEk1ZXBVTmY5aWQ1U1VNT0NsOVQ1bXY4Y2tMaGxHNTBHSks1Y3dWTDB1WDVQUG5sMFRZMTVHU1HSAbABQVVfeXFMT055MVhzSEJiOXo4MlNKVVRFYWRsNUJOWVdRMk1ZYW9hRkpUS3BtSWtqWWR6UmZxTFhQWXNNaThXOXhFZWxmQzhrLVhSZFdkYXJxTktkblpBUzdRZU5kcUlNZ0hKbE5qRFRlZXBueDRjbWo1T21kZE1fY05JMjRSWF84RV9HMlU2SG9xMUVja2JFZmV0MGNxZTc1SjVWWWsyOG9YSGxmOWIwaHFfaW00UF8?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 05:43:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Updates",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
+          "published": "Sat, 11 Jul 2026 23:20:23 GMT"
+        },
         {
-          "title": "Live updates: New US strikes on Iran and Gulf nations intercept attacks - CNN",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYMVlvZWhZemtQSGdfTzNxam9JME9jc3RlNy1rUDNIT1lzM0l6ZHlFWGQyU3FpV2JNVXlDRUlMbEVhWi13bHZTSHdfS0VvWkhmTksyY041b19tLUNHajB6RkVHaloxdnBEX0dheGln?oc=5",
+          "title": "Outbreak of diarrhea caused by cyclosporiasis spreading in US with cases reported in CA, CDC says - ABC7 Los Angeles",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeUxna2lIdDZ4Z1Y1eHhrMC1oOWZTRDF6LUZTNDI3Y3dxMS1ac3BhTzRBRlROSS1sVllUSmljUFJFUmx1c0FPZXppM2Via3pqNjhzcTYtcHU4V0tNZHdXOW9zZFRFWmJqbVZEdlJPNDhlSTRPdW9WZWlRdmc5c21JOG8tb3g4VTJhbjZPTjFCNW5XaHIzaTQ1b0lsVTJsQ3A1aW1lYWRWWUNTcWZBenhqaUJWdHJCdXRvVkNEVjI5eERBRFY3cVZlWDNxd2lJdG9ZRF9JU3hyaXVKUm1GVW04?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 05:43:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Gulf",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Live updates: New US strikes on Iran and Gulf nations intercept attacks - CNN",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYMVlvZWhZemtQSGdfTzNxam9JME9jc3RlNy1rUDNIT1lzM0l6ZHlFWGQyU3FpV2JNVXlDRUlMbEVhWi13bHZTSHdfS0VvWkhmTksyY041b19tLUNHajB6RkVHaloxdnBEX0dheGln?oc=5",
-          "source": "Google News",
-          "published": "Sun, 12 Jul 2026 05:43:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Nations",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Live updates: New US strikes on Iran and Gulf nations intercept attacks - CNN",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYMVlvZWhZemtQSGdfTzNxam9JME9jc3RlNy1rUDNIT1lzM0l6ZHlFWGQyU3FpV2JNVXlDRUlMbEVhWi13bHZTSHdfS0VvWkhmTksyY041b19tLUNHajB6RkVHaloxdnBEX0dheGln?oc=5",
-          "source": "Google News",
-          "published": "Sun, 12 Jul 2026 05:43:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Intercept",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Live updates: New US strikes on Iran and Gulf nations intercept attacks - CNN",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYMVlvZWhZemtQSGdfTzNxam9JME9jc3RlNy1rUDNIT1lzM0l6ZHlFWGQyU3FpV2JNVXlDRUlMbEVhWi13bHZTSHdfS0VvWkhmTksyY041b19tLUNHajB6RkVHaloxdnBEX0dheGln?oc=5",
-          "source": "Google News",
-          "published": "Sun, 12 Jul 2026 05:43:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Attacks",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Live updates: New US strikes on Iran and Gulf nations intercept attacks - CNN",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYMVlvZWhZemtQSGdfTzNxam9JME9jc3RlNy1rUDNIT1lzM0l6ZHlFWGQyU3FpV2JNVXlDRUlMbEVhWi13bHZTSHdfS0VvWkhmTksyY041b19tLUNHajB6RkVHaloxdnBEX0dheGln?oc=5",
-          "source": "Google News",
-          "published": "Sun, 12 Jul 2026 05:43:00 GMT"
+          "published": "Sat, 11 Jul 2026 22:57:26 GMT"
         }
       ]
     },
@@ -419,7 +372,7 @@
           "title": "Sen. Lindsey Graham dies at 71 after ‘brief and sudden illness’ - NBC News",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM1pCVHBBWGlWeHdzclNpb1c1NUVtUUZ1VG5GRVhoeDRKTWo3YzBaUjhfdklUMFFoTlJmSi1LZTVrNDdOelpWVFlHczBPRUZmcmRCQjBLZEwtNGMwS2tJZkNnN3l0RlE2RWtocmlzUU5JNWV0RkVnRERMSXVldEZ0NTF4WjhVbVdUaGczQjBmVUptZ2JWSGh6REJ6UkdENFo3cUZYVnM3NkQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 06:22:00 GMT"
+          "published": "Sun, 12 Jul 2026 07:59:00 GMT"
         }
       ]
     },
@@ -432,7 +385,7 @@
           "title": "Sen. Lindsey Graham dies at 71 after ‘brief and sudden illness’ - NBC News",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM1pCVHBBWGlWeHdzclNpb1c1NUVtUUZ1VG5GRVhoeDRKTWo3YzBaUjhfdklUMFFoTlJmSi1LZTVrNDdOelpWVFlHczBPRUZmcmRCQjBLZEwtNGMwS2tJZkNnN3l0RlE2RWtocmlzUU5JNWV0RkVnRERMSXVldEZ0NTF4WjhVbVdUaGczQjBmVUptZ2JWSGh6REJ6UkdENFo3cUZYVnM3NkQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 06:22:00 GMT"
+          "published": "Sun, 12 Jul 2026 07:59:00 GMT"
         }
       ]
     },
@@ -445,7 +398,7 @@
           "title": "Sen. Lindsey Graham dies at 71 after ‘brief and sudden illness’ - NBC News",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM1pCVHBBWGlWeHdzclNpb1c1NUVtUUZ1VG5GRVhoeDRKTWo3YzBaUjhfdklUMFFoTlJmSi1LZTVrNDdOelpWVFlHczBPRUZmcmRCQjBLZEwtNGMwS2tJZkNnN3l0RlE2RWtocmlzUU5JNWV0RkVnRERMSXVldEZ0NTF4WjhVbVdUaGczQjBmVUptZ2JWSGh6REJ6UkdENFo3cUZYVnM3NkQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 06:22:00 GMT"
+          "published": "Sun, 12 Jul 2026 07:59:00 GMT"
         }
       ]
     },
@@ -458,7 +411,7 @@
           "title": "Sen. Lindsey Graham dies at 71 after ‘brief and sudden illness’ - NBC News",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM1pCVHBBWGlWeHdzclNpb1c1NUVtUUZ1VG5GRVhoeDRKTWo3YzBaUjhfdklUMFFoTlJmSi1LZTVrNDdOelpWVFlHczBPRUZmcmRCQjBLZEwtNGMwS2tJZkNnN3l0RlE2RWtocmlzUU5JNWV0RkVnRERMSXVldEZ0NTF4WjhVbVdUaGczQjBmVUptZ2JWSGh6REJ6UkdENFo3cUZYVnM3NkQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 06:22:00 GMT"
+          "published": "Sun, 12 Jul 2026 07:59:00 GMT"
         }
       ]
     },
@@ -471,7 +424,7 @@
           "title": "Sen. Lindsey Graham dies at 71 after ‘brief and sudden illness’ - NBC News",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM1pCVHBBWGlWeHdzclNpb1c1NUVtUUZ1VG5GRVhoeDRKTWo3YzBaUjhfdklUMFFoTlJmSi1LZTVrNDdOelpWVFlHczBPRUZmcmRCQjBLZEwtNGMwS2tJZkNnN3l0RlE2RWtocmlzUU5JNWV0RkVnRERMSXVldEZ0NTF4WjhVbVdUaGczQjBmVUptZ2JWSGh6REJ6UkdENFo3cUZYVnM3NkQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 06:22:00 GMT"
+          "published": "Sun, 12 Jul 2026 07:59:00 GMT"
         }
       ]
     },
@@ -484,72 +437,137 @@
           "title": "Sen. Lindsey Graham dies at 71 after ‘brief and sudden illness’ - NBC News",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM1pCVHBBWGlWeHdzclNpb1c1NUVtUUZ1VG5GRVhoeDRKTWo3YzBaUjhfdklUMFFoTlJmSi1LZTVrNDdOelpWVFlHczBPRUZmcmRCQjBLZEwtNGMwS2tJZkNnN3l0RlE2RWtocmlzUU5JNWV0RkVnRERMSXVldEZ0NTF4WjhVbVdUaGczQjBmVUptZ2JWSGh6REJ6UkdENFo3cUZYVnM3NkQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 06:22:00 GMT"
+          "published": "Sun, 12 Jul 2026 07:59:00 GMT"
         }
       ]
     },
     {
-      "word": "Least",
+      "word": "Attacks",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "At least two killed in Toronto street festival shooting - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TaGp6dURmZU91R3BQTTV0Z0lkRVkyUUFVaWdDQTZ3Rm9xUUN2S3RvZWtxaDJMdy1sTzBpbVhQQXpJV2xtdS1JMEVReEw0d3dCUWFMcDZhdWpoUQ?oc=5",
+          "title": "US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out again at Gulf Arab states - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWNIZWpPMUROMXlXU0EwT1pjWWUycXFoTjBobEJLM0JpWGhjTWZwN0Q2RkxaY3N6cU9fNXZOT194MWFHYllDYUh4RWdEdmF3NVpGQ2tlOTl4dWI5VzVMWlgycVBYcmtSRDR6UV9lQmtoWkZMUWRvLUYwZXhIQzlGcVVpTGlMZElhRkxkT0pkMXlEZDJmSll0c2JsYkY?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 03:56:02 GMT"
+          "published": "Sun, 12 Jul 2026 07:24:00 GMT"
         }
       ]
     },
     {
-      "word": "Toronto",
+      "word": "Ship",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "At least two killed in Toronto street festival shooting - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TaGp6dURmZU91R3BQTTV0Z0lkRVkyUUFVaWdDQTZ3Rm9xUUN2S3RvZWtxaDJMdy1sTzBpbVhQQXpJV2xtdS1JMEVReEw0d3dCUWFMcDZhdWpoUQ?oc=5",
+          "title": "US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out again at Gulf Arab states - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWNIZWpPMUROMXlXU0EwT1pjWWUycXFoTjBobEJLM0JpWGhjTWZwN0Q2RkxaY3N6cU9fNXZOT194MWFHYllDYUh4RWdEdmF3NVpGQ2tlOTl4dWI5VzVMWlgycVBYcmtSRDR6UV9lQmtoWkZMUWRvLUYwZXhIQzlGcVVpTGlMZElhRkxkT0pkMXlEZDJmSll0c2JsYkY?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 03:56:02 GMT"
+          "published": "Sun, 12 Jul 2026 07:24:00 GMT"
         }
       ]
     },
     {
-      "word": "Street",
+      "word": "hit",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "At least two killed in Toronto street festival shooting - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TaGp6dURmZU91R3BQTTV0Z0lkRVkyUUFVaWdDQTZ3Rm9xUUN2S3RvZWtxaDJMdy1sTzBpbVhQQXpJV2xtdS1JMEVReEw0d3dCUWFMcDZhdWpoUQ?oc=5",
+          "title": "US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out again at Gulf Arab states - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWNIZWpPMUROMXlXU0EwT1pjWWUycXFoTjBobEJLM0JpWGhjTWZwN0Q2RkxaY3N6cU9fNXZOT194MWFHYllDYUh4RWdEdmF3NVpGQ2tlOTl4dWI5VzVMWlgycVBYcmtSRDR6UV9lQmtoWkZMUWRvLUYwZXhIQzlGcVVpTGlMZElhRkxkT0pkMXlEZDJmSll0c2JsYkY?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 03:56:02 GMT"
+          "published": "Sun, 12 Jul 2026 07:24:00 GMT"
         }
       ]
     },
     {
-      "word": "Festival",
+      "word": "Strait",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "At least two killed in Toronto street festival shooting - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TaGp6dURmZU91R3BQTTV0Z0lkRVkyUUFVaWdDQTZ3Rm9xUUN2S3RvZWtxaDJMdy1sTzBpbVhQQXpJV2xtdS1JMEVReEw0d3dCUWFMcDZhdWpoUQ?oc=5",
+          "title": "US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out again at Gulf Arab states - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWNIZWpPMUROMXlXU0EwT1pjWWUycXFoTjBobEJLM0JpWGhjTWZwN0Q2RkxaY3N6cU9fNXZOT194MWFHYllDYUh4RWdEdmF3NVpGQ2tlOTl4dWI5VzVMWlgycVBYcmtSRDR6UV9lQmtoWkZMUWRvLUYwZXhIQzlGcVVpTGlMZElhRkxkT0pkMXlEZDJmSll0c2JsYkY?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 03:56:02 GMT"
+          "published": "Sun, 12 Jul 2026 07:24:00 GMT"
         }
       ]
     },
     {
-      "word": "Shooting",
+      "word": "Hormuz",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "At least two killed in Toronto street festival shooting - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TaGp6dURmZU91R3BQTTV0Z0lkRVkyUUFVaWdDQTZ3Rm9xUUN2S3RvZWtxaDJMdy1sTzBpbVhQQXpJV2xtdS1JMEVReEw0d3dCUWFMcDZhdWpoUQ?oc=5",
+          "title": "US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out again at Gulf Arab states - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWNIZWpPMUROMXlXU0EwT1pjWWUycXFoTjBobEJLM0JpWGhjTWZwN0Q2RkxaY3N6cU9fNXZOT194MWFHYllDYUh4RWdEdmF3NVpGQ2tlOTl4dWI5VzVMWlgycVBYcmtSRDR6UV9lQmtoWkZMUWRvLUYwZXhIQzlGcVVpTGlMZElhRkxkT0pkMXlEZDJmSll0c2JsYkY?oc=5",
           "source": "Google News",
-          "published": "Sun, 12 Jul 2026 03:56:02 GMT"
+          "published": "Sun, 12 Jul 2026 07:24:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Tehran",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out again at Gulf Arab states - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWNIZWpPMUROMXlXU0EwT1pjWWUycXFoTjBobEJLM0JpWGhjTWZwN0Q2RkxaY3N6cU9fNXZOT194MWFHYllDYUh4RWdEdmF3NVpGQ2tlOTl4dWI5VzVMWlgycVBYcmtSRDR6UV9lQmtoWkZMUWRvLUYwZXhIQzlGcVVpTGlMZElhRkxkT0pkMXlEZDJmSll0c2JsYkY?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 07:24:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Lashes",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out again at Gulf Arab states - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWNIZWpPMUROMXlXU0EwT1pjWWUycXFoTjBobEJLM0JpWGhjTWZwN0Q2RkxaY3N6cU9fNXZOT194MWFHYllDYUh4RWdEdmF3NVpGQ2tlOTl4dWI5VzVMWlgycVBYcmtSRDR6UV9lQmtoWkZMUWRvLUYwZXhIQzlGcVVpTGlMZElhRkxkT0pkMXlEZDJmSll0c2JsYkY?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 07:24:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Gulf",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out again at Gulf Arab states - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWNIZWpPMUROMXlXU0EwT1pjWWUycXFoTjBobEJLM0JpWGhjTWZwN0Q2RkxaY3N6cU9fNXZOT194MWFHYllDYUh4RWdEdmF3NVpGQ2tlOTl4dWI5VzVMWlgycVBYcmtSRDR6UV9lQmtoWkZMUWRvLUYwZXhIQzlGcVVpTGlMZElhRkxkT0pkMXlEZDJmSll0c2JsYkY?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 07:24:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Arab",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out again at Gulf Arab states - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWNIZWpPMUROMXlXU0EwT1pjWWUycXFoTjBobEJLM0JpWGhjTWZwN0Q2RkxaY3N6cU9fNXZOT194MWFHYllDYUh4RWdEdmF3NVpGQ2tlOTl4dWI5VzVMWlgycVBYcmtSRDR6UV9lQmtoWkZMUWRvLUYwZXhIQzlGcVVpTGlMZElhRkxkT0pkMXlEZDJmSll0c2JsYkY?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 07:24:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "States",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out again at Gulf Arab states - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWNIZWpPMUROMXlXU0EwT1pjWWUycXFoTjBobEJLM0JpWGhjTWZwN0Q2RkxaY3N6cU9fNXZOT194MWFHYllDYUh4RWdEdmF3NVpGQ2tlOTl4dWI5VzVMWlgycVBYcmtSRDR6UV9lQmtoWkZMUWRvLUYwZXhIQzlGcVVpTGlMZElhRkxkT0pkMXlEZDJmSll0c2JsYkY?oc=5",
+          "source": "Google News",
+          "published": "Sun, 12 Jul 2026 07:24:00 GMT"
         }
       ]
     },
