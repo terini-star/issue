@@ -1,87 +1,68 @@
 {
   "language": "ko",
-  "last_updated": 1784052600.1466827,
+  "last_updated": 1784060306.6189184,
   "count": 40,
   "trends": [
     {
-      "word": "대통령",
+      "word": "강화",
       "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령 \"초고가 주택 보유부담 강화는 1번\"…실시간 여론조사 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11V05fQW5fREtlRHdWQ0ZsNkNXY284VDkwdkx6Tzdfemw1VHMwRGh5cVRkaEhDcnFaVlRPS1FhUks3MmI5c1pGdXRKTUdoQW1Fc283MDN4SS1zOW9JNXdpNlZ3MVRfQVU?oc=5",
+          "source": "Google News",
+          "published": "Tue, 14 Jul 2026 06:41:00 GMT"
+        },
+        {
+          "title": "단일종목 레버리지 ETF 문턱 높인다…기본 예탁금 올리고 교육 강화 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41SEsxeUtLbGwybjVvZGlEMjVOTFctc1l4OU1BS09tSXJxN0h5d2U2UHd6aGN3QnBfTkV4YUIwOFNUZVZydUI5aWszUExhZ1lsQ29vY3hoRmlxU2RvSFFGSVM5bERDSVVXOTlMYzdPZmpRSkN0M3fSAWZBVV95cUxQV0M3ZmRsc0w0ZG1mMk5PMm1NbU1IV19tb09UOFZGRkIwT0YtaWk5MDIzWXBLY1MwQlZrNnlWSFU1OXB3dnBHYnM3T3Y3SXJFOFV3WTUySm5hTUNOdFRWcW0tRGcxNkE?oc=5",
+          "source": "Google News",
+          "published": "Tue, 14 Jul 2026 11:30:00 GMT"
+        },
+        {
+          "title": "'플레이어 중심주의' 강화하는 라이엇 게임즈…출시 17년차 리그 오브 레전드 미래를 묻다 [쿠키 초점] - 네이트",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81ckNseTdnWkJvclZRMV9YOFZNZEVISjVwSFViSEtCZFk3TjJiS3M0ZXhvQWxkRE9QeEhtQy1XeFpVaERRYWl1dURWRGRFeG1nWnRQMkRn?oc=5",
+          "source": "Google News",
+          "published": "Tue, 14 Jul 2026 15:02:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "트럼프",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프, ‘호르무즈 통행료 20%’ 하루 만에 번복…“중동 투자협정으로 대체” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zaThkNmJXNnM2U090ZjRoWmpoSThNMHlGRk5hSm82bWJaWWx6YmU3ZDF2TGp5ampWSG0tdGg4UHNZdE9GZ203ZGxEc2lGRjB3MlJIX0ppWVRXRjQ4SVNibDhsS0VXT2cwRWl6OEVpOA?oc=5",
+          "source": "Google News",
+          "published": "Tue, 14 Jul 2026 16:41:00 GMT"
+        },
+        {
+          "title": "급사한 ‘트럼프 우군’ 그레이엄 미 상원의원 후임에 여동생 임명 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVEVQblVLMmJNY2EyY2FZLVdVYXowWlk5bmR0Mm9tN3prcTNRZXhHaGhTWDVSd2NwVTEwVHJUT3JZUmlGeU13MkxQWDJNZnhDN3JiWmJERms4cmJYOURfWm9kVGl5WXE5Z0tKVEVsa19mcFVHX0tOYkJSMF9GTjQ1NjFB?oc=5",
+          "source": "Google News",
+          "published": "Tue, 14 Jul 2026 04:54:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "대통령",
+      "count": 2,
       "category": "PERSON",
       "articles": [
         {
-          "title": "이 대통령 “국무회의 보시는 국민들, 초고가 주택에 ‘보유 부담 추가’ 의견 좀” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jRnk2WWNpSkFnNEJjY1IxSXRYak5FMDM2ek9hcjB5aGVpOWZNRkNTeFBVXzdPeWdVOVVJeE95UHNMWFZNWE9QRWp1cDl2blF5S0lkb1FTbVRhd1pLTl9BM0ZUMExNTFVJQTln?oc=5",
+          "title": "이 대통령 \"초고가 주택 보유부담 강화는 1번\"…실시간 여론조사 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11V05fQW5fREtlRHdWQ0ZsNkNXY284VDkwdkx6Tzdfemw1VHMwRGh5cVRkaEhDcnFaVlRPS1FhUks3MmI5c1pGdXRKTUdoQW1Fc283MDN4SS1zOW9JNXdpNlZ3MVRfQVU?oc=5",
           "source": "Google News",
-          "published": "Tue, 14 Jul 2026 13:46:00 GMT"
+          "published": "Tue, 14 Jul 2026 06:41:00 GMT"
         },
         {
-          "title": "이 대통령 ‘29억’ 분당 아파트 매매 곧 마무리…청 “행정절차로 시간 소요” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qRW9iSXJRNGR1SkVFSjdxbF9mbUNwLVJYM3RBeGlWZGdvLS1LYjk1UVJ5RlZSSWdudm5GUHRJZGF1ZTZDRnBqaVhhZEh6Z0J6aWVrd1RiUTNJMFloNlc1cjdHQzF1dWEyTjVjUUxJS183OGRw?oc=5",
+          "title": "李대통령 “난 이제 집 없다”…분당 아파트 팔렸다 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wVjMtWmptXzk5QlpvVkZ1eWxKNE1rY1BfbERoVXVGSWhvU1hLN0RJZmtRa2lSdkI3WXNIMFZCaWxXdFg1TldQbThsSGxObG1leE55Q3ViU2huYXZ5ZEJmNTY0N0NXcVI1UTRET0V0ckR6TElHal9V0gFmQVVfeXFMTmk4dUFFMF93RTNsSzRXWno5MHpLSFk2LTdqT01jWnpYOGVpWEozNXYtd3FuOHZIekJlTzVQeUZnajZBZE40cVpQMWxBU2ZBQ1laRnBHZktWLTNWd2twQXR4RFZPd05B?oc=5",
           "source": "Google News",
-          "published": "Tue, 14 Jul 2026 13:24:00 GMT"
-        },
-        {
-          "title": "송영길 \"대통령과 싸워? 옛날이면 역적으로 목을…\" 정청래 \"섬뜩하고 무섭다\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQ0NQSTgwQWg5QUUzM3VycG1nS0U5d1pabEc1bW5wRFNsMVpBdzl2emhnS29RYXNhVlJKQWtTUEJWcGpJdlZSeDd6RlcxVGJSY0RVeFZMQV9aTUZubU9uWFY5a3BhVk8xSmphazhhN3ZhaGxpbm1iLWl4ckxlcnJKX0xPOVNGUQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 14 Jul 2026 12:58:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "전쟁",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이란 “미군, 부셰르 등 해안도시 또 타격”…오만 외교 “이 전쟁은 재앙” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xTDhRbm9yNUY5aGpydGpacEpMSkRiWG95Z1RsallZWFpHT21NVUxYZEtFaFV6THNpYy1NXzdUVU5FYXlWUkRLdGJvSnZWaGZVQ2o4V2RDUTVjaENwT0E3VW5sdEttN1pKa1dUOVdsaWpyWG8?oc=5",
-          "source": "Google News",
-          "published": "Tue, 14 Jul 2026 14:05:00 GMT"
-        },
-        {
-          "title": "잉글랜드-아르헨티나 제대로 만나…‘60년 악연’ 축구 전쟁 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ldUdjSmkxTFZlYlJuaDhfbGlOS0tGWXNWVjNGWmk0d29kM2I0SjRhTDRkWkk1ajV6OThTTF9BVHlCZVVtZ1JnY3FrUUp1bThlakExaGZPZVVnM00?oc=5",
-          "source": "Google News",
-          "published": "Tue, 14 Jul 2026 12:32:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "수사",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "\"장윤기 수사 할 만큼 했다\"는 경찰…법조계 \"성범죄는 결국 못 밝혔다\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOXzJSWEoyOUJJOWlxWW1nb05TbzlILWYzR0NKbFJvYTBiOXpMejJHTWpYUlVMZlBXZDRxa2hWN0hibmMzMUhZSGUtcmJabms2MHlFZkZTeEZ0T28xWHVHYzZRanMtZWpjampkQ2ltLWJzb09jcDhkc01VSUVvYldHUjd5TTBPUjg?oc=5",
-          "source": "Google News",
-          "published": "Tue, 14 Jul 2026 12:27:06 GMT"
-        },
-        {
-          "title": "경찰, '홍명보 선임' 수사 속도...전력강화위원 잇단 소환 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGeVA5LWV0Ry1KS3lKdXNlYVRtNmt6bWVfd2RQT1EzUUVncUpPbnM2bDRUaHRtM21ReUIwV2NYZ090MDFPOVJGLTFfb19lc0R1YVNTZ3ZPSmpWeVY1LVE?oc=5",
-          "source": "Google News",
-          "published": "Tue, 14 Jul 2026 11:54:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "국무회",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 “국무회의 보시는 국민들, 초고가 주택에 ‘보유 부담 추가’ 의견 좀” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jRnk2WWNpSkFnNEJjY1IxSXRYak5FMDM2ek9hcjB5aGVpOWZNRkNTeFBVXzdPeWdVOVVJeE95UHNMWFZNWE9QRWp1cDl2blF5S0lkb1FTbVRhd1pLTl9BM0ZUMExNTFVJQTln?oc=5",
-          "source": "Google News",
-          "published": "Tue, 14 Jul 2026 13:46:00 GMT"
-        },
-        {
-          "title": "오세훈 \"국무회의 발언 못해 아쉬워‥대통령 부동산 상황 인식 부족\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1veDhkY0ZsSlJxNzBpQTN4VC1TWVJLOW16dkhnV1V1TXktenAzTXBQYmFFZXdONEhRX3pRTUhhRkRLa2FIVWtTeWVHTTNndW9TNWdMS2g5TUVIS2pWa0RRbDBxYmFWbk9oekFCZXFkVnFXNzVJTV9Z0gF3QVVfeXFMT3ZDSzFWNnRLS2ppT01SdjFRdl9NX0tJYzgwMi1ySFNTUS1VdWx5ZGNOblZHYU92YUlBcHBBci0xSll5Ri1hQUV2Q2NTZGVTU3JuLXhXTHNQYzU3LWliRVMtR2p0REVWbWpvaGQ1V29lQTNNcTVwbE0?oc=5",
-          "source": "Google News",
-          "published": "Tue, 14 Jul 2026 07:33:04 GMT"
+          "published": "Tue, 14 Jul 2026 07:18:00 GMT"
         }
       ]
     },
@@ -99,169 +80,80 @@
       ]
     },
     {
-      "word": "LoL",
-      "count": 2,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "라이엇 \"LoL 신규 클라이언트 개발 원활…아수라장 계속 유지\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtdmNCa1VGMzNQc1JlWHExVVdac09rOEVyNnpmOG9qakpwdmNxMXg0eUZqZmt3VUZKUGNYMEp3eEN0MmJHUjMySGxpYmtZRXJMLTUxRFFVdFJUNDDSAWBBVV95cUxOazlOTW9FMGgyMndPbTJ6empnOUx6X1lOYXhybHA1TWNlalVsdGRPVFh1ZHRPWHNLdThFbnpPeHZWWk9aYm93MkRHYzRER1ZPNm95Si1taDUxWTVUTFNtSmc?oc=5",
-          "source": "Google News",
-          "published": "Tue, 14 Jul 2026 15:00:04 GMT"
-        },
-        {
-          "title": "'LoL' 아수라장, 협곡 제외 최다 플레이 모드 등극 - 인벤",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SMzQtM0pmdzkwNmJJRWxvcl9fVEpjR0prbS1VR1FhM1B6S1hsOTJ3NlFMclEtb2p1ekhzREVnUWJTOWlka3lHMWt1TlFZZEszanpTNmdKdG9CRFR4cXc?oc=5",
-          "source": "Google News",
-          "published": "Tue, 14 Jul 2026 15:00:15 GMT"
-        }
-      ]
-    },
-    {
-      "word": "계속",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "라이엇 \"LoL 신규 클라이언트 개발 원활…아수라장 계속 유지\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtdmNCa1VGMzNQc1JlWHExVVdac09rOEVyNnpmOG9qakpwdmNxMXg0eUZqZmt3VUZKUGNYMEp3eEN0MmJHUjMySGxpYmtZRXJMLTUxRFFVdFJUNDDSAWBBVV95cUxOazlOTW9FMGgyMndPbTJ6empnOUx6X1lOYXhybHA1TWNlalVsdGRPVFh1ZHRPWHNLdThFbnpPeHZWWk9aYm93MkRHYzRER1ZPNm95Si1taDUxWTVUTFNtSmc?oc=5",
-          "source": "Google News",
-          "published": "Tue, 14 Jul 2026 15:00:04 GMT"
-        },
-        {
-          "title": "대상포진은 나았는데 통증은 왜 계속? \"뇌 구조적 연결망 달랐다\" - 헬스경향",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yejRoam85V0xtWF9Qc2NnZWl2VnBPYkRpd0RDWTNrN3prS1FrNWxESXBuZUVDNHdBTVJXdV9iUDMyeWFBU1ZaOXlJdzc4Q2ZDZFdVdlZvS3l0OEFGc243aHRqcnlMb0ZiTmtB?oc=5",
-          "source": "Google News",
-          "published": "Tue, 14 Jul 2026 11:13:47 GMT"
-        }
-      ]
-    },
-    {
-      "word": "달달",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "우리 은하 중심에 달달한 설탕 있다 [달콤한 사이언스] - 서울신문",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yemxUVmNjX1JEejBiYThxOVNmLXN1QURLbjJPZkxxSE5mSDNUdnFqbllFdzliV3ltWnV2bE1TSWliTTd0Mnp1RVd3MTFpRC03eVBMOHRnRjk5V0w4eHJSNXpWNFkwUlp6bG9TRDk0MUNOTUNWVV9faE5sQjlwUQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 14 Jul 2026 08:40:00 GMT"
-        },
-        {
-          "title": "장동건, ♥고소영 향한 달달 멘트..\"역시 패완얼인가?\"[스타이슈] - starnewskorea.com",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53TWVUQ3ROeU5DVUs3T2dHa3Z2Y1B2bW1oT3NMVHZCeDRVVjl1RldmUjhNZF9uRUprOThZenFvYnF3Vm5uYzRIVHV6dmRGdmtuZDhzSkgyNURQRlRER2xDZmVYanF1SVVicHBfcFF3eS1iVUU?oc=5",
-          "source": "Google News",
-          "published": "Tue, 14 Jul 2026 12:12:07 GMT"
-        }
-      ]
-    },
-    {
-      "word": "통증",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "대상포진은 나았는데 통증은 왜 계속? \"뇌 구조적 연결망 달랐다\" - 헬스경향",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yejRoam85V0xtWF9Qc2NnZWl2VnBPYkRpd0RDWTNrN3prS1FrNWxESXBuZUVDNHdBTVJXdV9iUDMyeWFBU1ZaOXlJdzc4Q2ZDZFdVdlZvS3l0OEFGc243aHRqcnlMb0ZiTmtB?oc=5",
-          "source": "Google News",
-          "published": "Tue, 14 Jul 2026 11:13:47 GMT"
-        },
-        {
-          "title": "한의학연, 한의 '약침'으로 파킨슨병 통증 조절 가능성 규명 - 전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55SFRZdHVyaFVDakpUazZYNmpQWXZIdHhGUDl2VDBHWXRCTUI1RU1QMlQ1OGU2ZnJmQVNqazJPbWo5NENqWjh5OTBJNA?oc=5",
-          "source": "Google News",
-          "published": "Tue, 14 Jul 2026 02:11:06 GMT"
-        }
-      ]
-    },
-    {
-      "word": "이란",
+      "word": "호르무즈",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이란 “미군, 부셰르 등 해안도시 또 타격”…오만 외교 “이 전쟁은 재앙” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xTDhRbm9yNUY5aGpydGpacEpMSkRiWG95Z1RsallZWFpHT21NVUxYZEtFaFV6THNpYy1NXzdUVU5FYXlWUkRLdGJvSnZWaGZVQ2o4V2RDUTVjaENwT0E3VW5sdEttN1pKa1dUOVdsaWpyWG8?oc=5",
+          "title": "트럼프, ‘호르무즈 통행료 20%’ 하루 만에 번복…“중동 투자협정으로 대체” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zaThkNmJXNnM2U090ZjRoWmpoSThNMHlGRk5hSm82bWJaWWx6YmU3ZDF2TGp5ampWSG0tdGg4UHNZdE9GZ203ZGxEc2lGRjB3MlJIX0ppWVRXRjQ4SVNibDhsS0VXT2cwRWl6OEVpOA?oc=5",
           "source": "Google News",
-          "published": "Tue, 14 Jul 2026 14:05:00 GMT"
+          "published": "Tue, 14 Jul 2026 16:41:00 GMT"
         }
       ]
     },
     {
-      "word": "미군",
+      "word": "통행료",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이란 “미군, 부셰르 등 해안도시 또 타격”…오만 외교 “이 전쟁은 재앙” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xTDhRbm9yNUY5aGpydGpacEpMSkRiWG95Z1RsallZWFpHT21NVUxYZEtFaFV6THNpYy1NXzdUVU5FYXlWUkRLdGJvSnZWaGZVQ2o4V2RDUTVjaENwT0E3VW5sdEttN1pKa1dUOVdsaWpyWG8?oc=5",
+          "title": "트럼프, ‘호르무즈 통행료 20%’ 하루 만에 번복…“중동 투자협정으로 대체” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zaThkNmJXNnM2U090ZjRoWmpoSThNMHlGRk5hSm82bWJaWWx6YmU3ZDF2TGp5ampWSG0tdGg4UHNZdE9GZ203ZGxEc2lGRjB3MlJIX0ppWVRXRjQ4SVNibDhsS0VXT2cwRWl6OEVpOA?oc=5",
           "source": "Google News",
-          "published": "Tue, 14 Jul 2026 14:05:00 GMT"
+          "published": "Tue, 14 Jul 2026 16:41:00 GMT"
         }
       ]
     },
     {
-      "word": "부셰르",
+      "word": "만에",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이란 “미군, 부셰르 등 해안도시 또 타격”…오만 외교 “이 전쟁은 재앙” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xTDhRbm9yNUY5aGpydGpacEpMSkRiWG95Z1RsallZWFpHT21NVUxYZEtFaFV6THNpYy1NXzdUVU5FYXlWUkRLdGJvSnZWaGZVQ2o4V2RDUTVjaENwT0E3VW5sdEttN1pKa1dUOVdsaWpyWG8?oc=5",
+          "title": "트럼프, ‘호르무즈 통행료 20%’ 하루 만에 번복…“중동 투자협정으로 대체” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zaThkNmJXNnM2U090ZjRoWmpoSThNMHlGRk5hSm82bWJaWWx6YmU3ZDF2TGp5ampWSG0tdGg4UHNZdE9GZ203ZGxEc2lGRjB3MlJIX0ppWVRXRjQ4SVNibDhsS0VXT2cwRWl6OEVpOA?oc=5",
           "source": "Google News",
-          "published": "Tue, 14 Jul 2026 14:05:00 GMT"
+          "published": "Tue, 14 Jul 2026 16:41:00 GMT"
         }
       ]
     },
     {
-      "word": "해안도시",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "이란 “미군, 부셰르 등 해안도시 또 타격”…오만 외교 “이 전쟁은 재앙” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xTDhRbm9yNUY5aGpydGpacEpMSkRiWG95Z1RsallZWFpHT21NVUxYZEtFaFV6THNpYy1NXzdUVU5FYXlWUkRLdGJvSnZWaGZVQ2o4V2RDUTVjaENwT0E3VW5sdEttN1pKa1dUOVdsaWpyWG8?oc=5",
-          "source": "Google News",
-          "published": "Tue, 14 Jul 2026 14:05:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "타격오",
+      "word": "번복중동",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이란 “미군, 부셰르 등 해안도시 또 타격”…오만 외교 “이 전쟁은 재앙” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xTDhRbm9yNUY5aGpydGpacEpMSkRiWG95Z1RsallZWFpHT21NVUxYZEtFaFV6THNpYy1NXzdUVU5FYXlWUkRLdGJvSnZWaGZVQ2o4V2RDUTVjaENwT0E3VW5sdEttN1pKa1dUOVdsaWpyWG8?oc=5",
+          "title": "트럼프, ‘호르무즈 통행료 20%’ 하루 만에 번복…“중동 투자협정으로 대체” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zaThkNmJXNnM2U090ZjRoWmpoSThNMHlGRk5hSm82bWJaWWx6YmU3ZDF2TGp5ampWSG0tdGg4UHNZdE9GZ203ZGxEc2lGRjB3MlJIX0ppWVRXRjQ4SVNibDhsS0VXT2cwRWl6OEVpOA?oc=5",
           "source": "Google News",
-          "published": "Tue, 14 Jul 2026 14:05:00 GMT"
+          "published": "Tue, 14 Jul 2026 16:41:00 GMT"
         }
       ]
     },
     {
-      "word": "외교",
+      "word": "투자협정",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이란 “미군, 부셰르 등 해안도시 또 타격”…오만 외교 “이 전쟁은 재앙” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xTDhRbm9yNUY5aGpydGpacEpMSkRiWG95Z1RsallZWFpHT21NVUxYZEtFaFV6THNpYy1NXzdUVU5FYXlWUkRLdGJvSnZWaGZVQ2o4V2RDUTVjaENwT0E3VW5sdEttN1pKa1dUOVdsaWpyWG8?oc=5",
+          "title": "트럼프, ‘호르무즈 통행료 20%’ 하루 만에 번복…“중동 투자협정으로 대체” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zaThkNmJXNnM2U090ZjRoWmpoSThNMHlGRk5hSm82bWJaWWx6YmU3ZDF2TGp5ampWSG0tdGg4UHNZdE9GZ203ZGxEc2lGRjB3MlJIX0ppWVRXRjQ4SVNibDhsS0VXT2cwRWl6OEVpOA?oc=5",
           "source": "Google News",
-          "published": "Tue, 14 Jul 2026 14:05:00 GMT"
+          "published": "Tue, 14 Jul 2026 16:41:00 GMT"
         }
       ]
     },
     {
-      "word": "재앙",
+      "word": "대체",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이란 “미군, 부셰르 등 해안도시 또 타격”…오만 외교 “이 전쟁은 재앙” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xTDhRbm9yNUY5aGpydGpacEpMSkRiWG95Z1RsallZWFpHT21NVUxYZEtFaFV6THNpYy1NXzdUVU5FYXlWUkRLdGJvSnZWaGZVQ2o4V2RDUTVjaENwT0E3VW5sdEttN1pKa1dUOVdsaWpyWG8?oc=5",
+          "title": "트럼프, ‘호르무즈 통행료 20%’ 하루 만에 번복…“중동 투자협정으로 대체” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zaThkNmJXNnM2U090ZjRoWmpoSThNMHlGRk5hSm82bWJaWWx6YmU3ZDF2TGp5ampWSG0tdGg4UHNZdE9GZ203ZGxEc2lGRjB3MlJIX0ppWVRXRjQ4SVNibDhsS0VXT2cwRWl6OEVpOA?oc=5",
           "source": "Google News",
-          "published": "Tue, 14 Jul 2026 14:05:00 GMT"
+          "published": "Tue, 14 Jul 2026 16:41:00 GMT"
         }
       ]
     },
@@ -331,7 +223,150 @@
       ]
     },
     {
+      "word": "하천",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "하천 가까운 ‘침수 위험 지하차도’…진입 차단 시설, 10곳 중 1곳 없다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5X1lfbFItRVpYNFREVFUxcHJ1dkFHZG5YeTJoT2N4WHB5VUxKZ3d3dFM2Y3g1SjNUY0wwM3pkaUFucXhVN09vUVVjbzNoZFB6UUU0c215R0xMQdIBX0FVX3lxTE9wWHBjMF83VGxBcXZwVjVOZGNxOTdEdFhzYlhBQzNTX2RGeFVYN2w0MDJXc2JBWElSOFdGWjRhOG1YRFhqUm5xQjRwZHZQSXFQVmV5Q1J3RXdVeEVQR0hr?oc=5",
+          "source": "Google News",
+          "published": "Tue, 14 Jul 2026 12:19:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "가까운",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "하천 가까운 ‘침수 위험 지하차도’…진입 차단 시설, 10곳 중 1곳 없다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5X1lfbFItRVpYNFREVFUxcHJ1dkFHZG5YeTJoT2N4WHB5VUxKZ3d3dFM2Y3g1SjNUY0wwM3pkaUFucXhVN09vUVVjbzNoZFB6UUU0c215R0xMQdIBX0FVX3lxTE9wWHBjMF83VGxBcXZwVjVOZGNxOTdEdFhzYlhBQzNTX2RGeFVYN2w0MDJXc2JBWElSOFdGWjRhOG1YRFhqUm5xQjRwZHZQSXFQVmV5Q1J3RXdVeEVQR0hr?oc=5",
+          "source": "Google News",
+          "published": "Tue, 14 Jul 2026 12:19:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "침수",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "하천 가까운 ‘침수 위험 지하차도’…진입 차단 시설, 10곳 중 1곳 없다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5X1lfbFItRVpYNFREVFUxcHJ1dkFHZG5YeTJoT2N4WHB5VUxKZ3d3dFM2Y3g1SjNUY0wwM3pkaUFucXhVN09vUVVjbzNoZFB6UUU0c215R0xMQdIBX0FVX3lxTE9wWHBjMF83VGxBcXZwVjVOZGNxOTdEdFhzYlhBQzNTX2RGeFVYN2w0MDJXc2JBWElSOFdGWjRhOG1YRFhqUm5xQjRwZHZQSXFQVmV5Q1J3RXdVeEVQR0hr?oc=5",
+          "source": "Google News",
+          "published": "Tue, 14 Jul 2026 12:19:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "위험",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "하천 가까운 ‘침수 위험 지하차도’…진입 차단 시설, 10곳 중 1곳 없다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5X1lfbFItRVpYNFREVFUxcHJ1dkFHZG5YeTJoT2N4WHB5VUxKZ3d3dFM2Y3g1SjNUY0wwM3pkaUFucXhVN09vUVVjbzNoZFB6UUU0c215R0xMQdIBX0FVX3lxTE9wWHBjMF83VGxBcXZwVjVOZGNxOTdEdFhzYlhBQzNTX2RGeFVYN2w0MDJXc2JBWElSOFdGWjRhOG1YRFhqUm5xQjRwZHZQSXFQVmV5Q1J3RXdVeEVQR0hr?oc=5",
+          "source": "Google News",
+          "published": "Tue, 14 Jul 2026 12:19:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "지하차도진입",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "하천 가까운 ‘침수 위험 지하차도’…진입 차단 시설, 10곳 중 1곳 없다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5X1lfbFItRVpYNFREVFUxcHJ1dkFHZG5YeTJoT2N4WHB5VUxKZ3d3dFM2Y3g1SjNUY0wwM3pkaUFucXhVN09vUVVjbzNoZFB6UUU0c215R0xMQdIBX0FVX3lxTE9wWHBjMF83VGxBcXZwVjVOZGNxOTdEdFhzYlhBQzNTX2RGeFVYN2w0MDJXc2JBWElSOFdGWjRhOG1YRFhqUm5xQjRwZHZQSXFQVmV5Q1J3RXdVeEVQR0hr?oc=5",
+          "source": "Google News",
+          "published": "Tue, 14 Jul 2026 12:19:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "차단",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "하천 가까운 ‘침수 위험 지하차도’…진입 차단 시설, 10곳 중 1곳 없다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5X1lfbFItRVpYNFREVFUxcHJ1dkFHZG5YeTJoT2N4WHB5VUxKZ3d3dFM2Y3g1SjNUY0wwM3pkaUFucXhVN09vUVVjbzNoZFB6UUU0c215R0xMQdIBX0FVX3lxTE9wWHBjMF83VGxBcXZwVjVOZGNxOTdEdFhzYlhBQzNTX2RGeFVYN2w0MDJXc2JBWElSOFdGWjRhOG1YRFhqUm5xQjRwZHZQSXFQVmV5Q1J3RXdVeEVQR0hr?oc=5",
+          "source": "Google News",
+          "published": "Tue, 14 Jul 2026 12:19:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "시설",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "하천 가까운 ‘침수 위험 지하차도’…진입 차단 시설, 10곳 중 1곳 없다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5X1lfbFItRVpYNFREVFUxcHJ1dkFHZG5YeTJoT2N4WHB5VUxKZ3d3dFM2Y3g1SjNUY0wwM3pkaUFucXhVN09vUVVjbzNoZFB6UUU0c215R0xMQdIBX0FVX3lxTE9wWHBjMF83VGxBcXZwVjVOZGNxOTdEdFhzYlhBQzNTX2RGeFVYN2w0MDJXc2JBWElSOFdGWjRhOG1YRFhqUm5xQjRwZHZQSXFQVmV5Q1J3RXdVeEVQR0hr?oc=5",
+          "source": "Google News",
+          "published": "Tue, 14 Jul 2026 12:19:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "10곳",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "하천 가까운 ‘침수 위험 지하차도’…진입 차단 시설, 10곳 중 1곳 없다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5X1lfbFItRVpYNFREVFUxcHJ1dkFHZG5YeTJoT2N4WHB5VUxKZ3d3dFM2Y3g1SjNUY0wwM3pkaUFucXhVN09vUVVjbzNoZFB6UUU0c215R0xMQdIBX0FVX3lxTE9wWHBjMF83VGxBcXZwVjVOZGNxOTdEdFhzYlhBQzNTX2RGeFVYN2w0MDJXc2JBWElSOFdGWjRhOG1YRFhqUm5xQjRwZHZQSXFQVmV5Q1J3RXdVeEVQR0hr?oc=5",
+          "source": "Google News",
+          "published": "Tue, 14 Jul 2026 12:19:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "1곳",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "하천 가까운 ‘침수 위험 지하차도’…진입 차단 시설, 10곳 중 1곳 없다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5X1lfbFItRVpYNFREVFUxcHJ1dkFHZG5YeTJoT2N4WHB5VUxKZ3d3dFM2Y3g1SjNUY0wwM3pkaUFucXhVN09vUVVjbzNoZFB6UUU0c215R0xMQdIBX0FVX3lxTE9wWHBjMF83VGxBcXZwVjVOZGNxOTdEdFhzYlhBQzNTX2RGeFVYN2w0MDJXc2JBWElSOFdGWjRhOG1YRFhqUm5xQjRwZHZQSXFQVmV5Q1J3RXdVeEVQR0hr?oc=5",
+          "source": "Google News",
+          "published": "Tue, 14 Jul 2026 12:19:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "없다",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "하천 가까운 ‘침수 위험 지하차도’…진입 차단 시설, 10곳 중 1곳 없다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5X1lfbFItRVpYNFREVFUxcHJ1dkFHZG5YeTJoT2N4WHB5VUxKZ3d3dFM2Y3g1SjNUY0wwM3pkaUFucXhVN09vUVVjbzNoZFB6UUU0c215R0xMQdIBX0FVX3lxTE9wWHBjMF83VGxBcXZwVjVOZGNxOTdEdFhzYlhBQzNTX2RGeFVYN2w0MDJXc2JBWElSOFdGWjRhOG1YRFhqUm5xQjRwZHZQSXFQVmV5Q1J3RXdVeEVQR0hr?oc=5",
+          "source": "Google News",
+          "published": "Tue, 14 Jul 2026 12:19:00 GMT"
+        }
+      ]
+    },
+    {
       "word": "장윤기",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "\"장윤기 수사 할 만큼 했다\"는 경찰…법조계 \"성범죄는 결국 못 밝혔다\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOXzJSWEoyOUJJOWlxWW1nb05TbzlILWYzR0NKbFJvYTBiOXpMejJHTWpYUlVMZlBXZDRxa2hWN0hibmMzMUhZSGUtcmJabms2MHlFZkZTeEZ0T28xWHVHYzZRanMtZWpjampkQ2ltLWJzb09jcDhkc01VSUVvYldHUjd5TTBPUjg?oc=5",
+          "source": "Google News",
+          "published": "Tue, 14 Jul 2026 12:27:06 GMT"
+        }
+      ]
+    },
+    {
+      "word": "수사",
       "count": 1,
       "category": "NOUN",
       "articles": [
@@ -422,158 +457,93 @@
       ]
     },
     {
-      "word": "행안장관",
-      "count": 1,
-      "category": "PERSON",
-      "articles": [
-        {
-          "title": "행안장관 “내일까지 호우·강풍…지하공간 침수 점검” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16S3VwOGJZcVJvVGxpLWhHbDE2aHBwM2RNazJyYTQ0N1ZBbE0zM05IQWpfNzJKRmp4UTcwMDJCU21BRkdQWjMzbnpOVzBoYTU0aXNpRTYtak9qR00?oc=5",
-          "source": "Google News",
-          "published": "Tue, 14 Jul 2026 14:48:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "호우강풍지하공간",
+      "word": "촉법소년",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "행안장관 “내일까지 호우·강풍…지하공간 침수 점검” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16S3VwOGJZcVJvVGxpLWhHbDE2aHBwM2RNazJyYTQ0N1ZBbE0zM05IQWpfNzJKRmp4UTcwMDJCU21BRkdQWjMzbnpOVzBoYTU0aXNpRTYtak9qR00?oc=5",
+          "title": "촉법소년 나이 낮추자는 이 대통령에…“본질은 비행 예방인데 변죽만” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1OelBGYW1oQktNWGh2TFdYR2tvWU5LaHk4RXBvYkR4eE5oQjlxalc4bWtrU2ZmaDRSZ0J4dm41T0JmVnpLaWtyOUNTWldYTndkQzJ4bzFLejdSTl9RRFJXV0hULVVnY0lpWkVqdTBvWTBRQQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 14 Jul 2026 14:48:00 GMT"
+          "published": "Tue, 14 Jul 2026 16:41:00 GMT"
         }
       ]
     },
     {
-      "word": "침수",
+      "word": "나이",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "행안장관 “내일까지 호우·강풍…지하공간 침수 점검” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16S3VwOGJZcVJvVGxpLWhHbDE2aHBwM2RNazJyYTQ0N1ZBbE0zM05IQWpfNzJKRmp4UTcwMDJCU21BRkdQWjMzbnpOVzBoYTU0aXNpRTYtak9qR00?oc=5",
+          "title": "촉법소년 나이 낮추자는 이 대통령에…“본질은 비행 예방인데 변죽만” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1OelBGYW1oQktNWGh2TFdYR2tvWU5LaHk4RXBvYkR4eE5oQjlxalc4bWtrU2ZmaDRSZ0J4dm41T0JmVnpLaWtyOUNTWldYTndkQzJ4bzFLejdSTl9RRFJXV0hULVVnY0lpWkVqdTBvWTBRQQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 14 Jul 2026 14:48:00 GMT"
+          "published": "Tue, 14 Jul 2026 16:41:00 GMT"
         }
       ]
     },
     {
-      "word": "점검",
+      "word": "낮추자",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "행안장관 “내일까지 호우·강풍…지하공간 침수 점검” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16S3VwOGJZcVJvVGxpLWhHbDE2aHBwM2RNazJyYTQ0N1ZBbE0zM05IQWpfNzJKRmp4UTcwMDJCU21BRkdQWjMzbnpOVzBoYTU0aXNpRTYtak9qR00?oc=5",
+          "title": "촉법소년 나이 낮추자는 이 대통령에…“본질은 비행 예방인데 변죽만” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1OelBGYW1oQktNWGh2TFdYR2tvWU5LaHk4RXBvYkR4eE5oQjlxalc4bWtrU2ZmaDRSZ0J4dm41T0JmVnpLaWtyOUNTWldYTndkQzJ4bzFLejdSTl9RRFJXV0hULVVnY0lpWkVqdTBvWTBRQQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 14 Jul 2026 14:48:00 GMT"
+          "published": "Tue, 14 Jul 2026 16:41:00 GMT"
         }
       ]
     },
     {
-      "word": "보시",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "이 대통령 “국무회의 보시는 국민들, 초고가 주택에 ‘보유 부담 추가’ 의견 좀” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jRnk2WWNpSkFnNEJjY1IxSXRYak5FMDM2ek9hcjB5aGVpOWZNRkNTeFBVXzdPeWdVOVVJeE95UHNMWFZNWE9QRWp1cDl2blF5S0lkb1FTbVRhd1pLTl9BM0ZUMExNTFVJQTln?oc=5",
-          "source": "Google News",
-          "published": "Tue, 14 Jul 2026 13:46:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "국민",
+      "word": "대통령에본질",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령 “국무회의 보시는 국민들, 초고가 주택에 ‘보유 부담 추가’ 의견 좀” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jRnk2WWNpSkFnNEJjY1IxSXRYak5FMDM2ek9hcjB5aGVpOWZNRkNTeFBVXzdPeWdVOVVJeE95UHNMWFZNWE9QRWp1cDl2blF5S0lkb1FTbVRhd1pLTl9BM0ZUMExNTFVJQTln?oc=5",
+          "title": "촉법소년 나이 낮추자는 이 대통령에…“본질은 비행 예방인데 변죽만” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1OelBGYW1oQktNWGh2TFdYR2tvWU5LaHk4RXBvYkR4eE5oQjlxalc4bWtrU2ZmaDRSZ0J4dm41T0JmVnpLaWtyOUNTWldYTndkQzJ4bzFLejdSTl9RRFJXV0hULVVnY0lpWkVqdTBvWTBRQQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 14 Jul 2026 13:46:00 GMT"
+          "published": "Tue, 14 Jul 2026 16:41:00 GMT"
         }
       ]
     },
     {
-      "word": "초고",
+      "word": "비행",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령 “국무회의 보시는 국민들, 초고가 주택에 ‘보유 부담 추가’ 의견 좀” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jRnk2WWNpSkFnNEJjY1IxSXRYak5FMDM2ek9hcjB5aGVpOWZNRkNTeFBVXzdPeWdVOVVJeE95UHNMWFZNWE9QRWp1cDl2blF5S0lkb1FTbVRhd1pLTl9BM0ZUMExNTFVJQTln?oc=5",
+          "title": "촉법소년 나이 낮추자는 이 대통령에…“본질은 비행 예방인데 변죽만” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1OelBGYW1oQktNWGh2TFdYR2tvWU5LaHk4RXBvYkR4eE5oQjlxalc4bWtrU2ZmaDRSZ0J4dm41T0JmVnpLaWtyOUNTWldYTndkQzJ4bzFLejdSTl9RRFJXV0hULVVnY0lpWkVqdTBvWTBRQQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 14 Jul 2026 13:46:00 GMT"
+          "published": "Tue, 14 Jul 2026 16:41:00 GMT"
         }
       ]
     },
     {
-      "word": "주택",
+      "word": "예방인데",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령 “국무회의 보시는 국민들, 초고가 주택에 ‘보유 부담 추가’ 의견 좀” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jRnk2WWNpSkFnNEJjY1IxSXRYak5FMDM2ek9hcjB5aGVpOWZNRkNTeFBVXzdPeWdVOVVJeE95UHNMWFZNWE9QRWp1cDl2blF5S0lkb1FTbVRhd1pLTl9BM0ZUMExNTFVJQTln?oc=5",
+          "title": "촉법소년 나이 낮추자는 이 대통령에…“본질은 비행 예방인데 변죽만” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1OelBGYW1oQktNWGh2TFdYR2tvWU5LaHk4RXBvYkR4eE5oQjlxalc4bWtrU2ZmaDRSZ0J4dm41T0JmVnpLaWtyOUNTWldYTndkQzJ4bzFLejdSTl9RRFJXV0hULVVnY0lpWkVqdTBvWTBRQQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 14 Jul 2026 13:46:00 GMT"
+          "published": "Tue, 14 Jul 2026 16:41:00 GMT"
         }
       ]
     },
     {
-      "word": "보유",
+      "word": "변죽",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령 “국무회의 보시는 국민들, 초고가 주택에 ‘보유 부담 추가’ 의견 좀” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jRnk2WWNpSkFnNEJjY1IxSXRYak5FMDM2ek9hcjB5aGVpOWZNRkNTeFBVXzdPeWdVOVVJeE95UHNMWFZNWE9QRWp1cDl2blF5S0lkb1FTbVRhd1pLTl9BM0ZUMExNTFVJQTln?oc=5",
+          "title": "촉법소년 나이 낮추자는 이 대통령에…“본질은 비행 예방인데 변죽만” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1OelBGYW1oQktNWGh2TFdYR2tvWU5LaHk4RXBvYkR4eE5oQjlxalc4bWtrU2ZmaDRSZ0J4dm41T0JmVnpLaWtyOUNTWldYTndkQzJ4bzFLejdSTl9RRFJXV0hULVVnY0lpWkVqdTBvWTBRQQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 14 Jul 2026 13:46:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "부담",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 “국무회의 보시는 국민들, 초고가 주택에 ‘보유 부담 추가’ 의견 좀” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jRnk2WWNpSkFnNEJjY1IxSXRYak5FMDM2ek9hcjB5aGVpOWZNRkNTeFBVXzdPeWdVOVVJeE95UHNMWFZNWE9QRWp1cDl2blF5S0lkb1FTbVRhd1pLTl9BM0ZUMExNTFVJQTln?oc=5",
-          "source": "Google News",
-          "published": "Tue, 14 Jul 2026 13:46:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "추가",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 “국무회의 보시는 국민들, 초고가 주택에 ‘보유 부담 추가’ 의견 좀” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jRnk2WWNpSkFnNEJjY1IxSXRYak5FMDM2ek9hcjB5aGVpOWZNRkNTeFBVXzdPeWdVOVVJeE95UHNMWFZNWE9QRWp1cDl2blF5S0lkb1FTbVRhd1pLTl9BM0ZUMExNTFVJQTln?oc=5",
-          "source": "Google News",
-          "published": "Tue, 14 Jul 2026 13:46:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "의견",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 “국무회의 보시는 국민들, 초고가 주택에 ‘보유 부담 추가’ 의견 좀” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jRnk2WWNpSkFnNEJjY1IxSXRYak5FMDM2ek9hcjB5aGVpOWZNRkNTeFBVXzdPeWdVOVVJeE95UHNMWFZNWE9QRWp1cDl2blF5S0lkb1FTbVRhd1pLTl9BM0ZUMExNTFVJQTln?oc=5",
-          "source": "Google News",
-          "published": "Tue, 14 Jul 2026 13:46:00 GMT"
+          "published": "Tue, 14 Jul 2026 16:41:00 GMT"
         }
       ]
     }
