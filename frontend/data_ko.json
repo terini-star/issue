@@ -1,24 +1,87 @@
 {
   "language": "ko",
-  "last_updated": 1784272982.9111965,
+  "last_updated": 1784282757.5269783,
   "count": 40,
   "trends": [
     {
-      "word": "없는",
+      "word": "최고",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "연내 3%대 기준금리 전망...주담대 최고 금리 8% 눈앞에 - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lbXV2aHREbGhQMG1Mb00tMENjQURsT3Ewc1d5MTBsVTRuSGJhWFU0UGVLRUF1OGVnSVotam9ubEo2ZERNMUJLenY2OE5GVHpPRll3MEhuVHZ2Z2dEZkE?oc=5",
+          "source": "Google News",
+          "published": "Fri, 17 Jul 2026 08:10:00 GMT"
+        },
+        {
+          "title": "'돈에 환장한 FIFA' 손가락질에도 '카보베르데' 최고 히트상품 남겨 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41NlV3dUR0VS12blZSVFFIcWxNN0hBSV9HZm1MSjdqcFd5OUZPOTJMRjdiT0RTeXdqYnloU3pranNuRWYteHA0Q1Nuc3E0cE0?oc=5",
+          "source": "Google News",
+          "published": "Thu, 16 Jul 2026 22:01:33 GMT"
+        },
+        {
+          "title": "스텐트 시술 최고 권위자, 심장질환자 '평생 약' 부담 줄인다 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aVXR2ck40N0FOQ3ZSazFaTXdjeWNuLWVEWEJMQXh5VDlHYUFCazdjNlpRT09YMlFzb1VGNGVYWTRwZU1IM2tWakRVMDVqTkRQRi1BWlUwblk4QQ?oc=5",
+          "source": "Google News",
+          "published": "Fri, 17 Jul 2026 08:13:59 GMT"
+        }
+      ]
+    },
+    {
+      "word": "대통령",
+      "count": 2,
+      "category": "PERSON",
+      "articles": [
+        {
+          "title": "이 대통령, ‘빛의 위원회’ 출범 행사…“매년 12월3일 ‘국민주권의 날’로 지정” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TRHF0OVh4RnRCMVZKNW83OTlZT0ZmODl4UzFEWVlMQnFsQzR1SU9qZG1aNWVlWllPcDFuRlRxLUJmYlg5ZHRGNFNwZXF5TXNQcE93bGw0SHdZZ9IBX0FVX3lxTFBpY202ZnRxZWZTUUhRXzkzSVhJMG1TQmFDVDRWNkktRHB5U01XZDdSRndvZklZMEdWV0hXeU1nZ0ZmSEZhT0pfT1BBc3NhR0xuQi1SdTE4cHplR0dmQW5V?oc=5",
+          "source": "Google News",
+          "published": "Fri, 17 Jul 2026 07:21:00 GMT"
+        },
+        {
+          "title": "온라인 떠도는 “ㅁㅍㅈ 삽니다”···이 대통령 지시로 ‘임신 중지’ 제도 공백 해소 기대 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44MElpdk1NVjJDWDRLaWhicmd6U0dYYVJwWFpVelpGUU1UMTVza0ZUUTVVa2dMdDlCaWVGT1FDLVV6aGdiQVFhUVhxcXFRUEJucl9NQ3h2ZlVkUdIBX0FVX3lxTE43RmdiS2I1ejVVUUY5TTVqMUhReDRZWmlKZDBsNEFBZ295SW96dVdZVmZmc0V5T3VDWXg0QURtNjBKSXg4Z3NjbkY1cXFPY1pJN0ZJdng2UDdTcXY3M1lz?oc=5",
+          "source": "Google News",
+          "published": "Fri, 17 Jul 2026 04:28:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "트럼프",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 “딥스테이트, ‘중국 선거개입’ 은폐”…미 언론들 “근거 없는 음모론” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN0NILVFBYXRINk5SSDFWY1RSNHNLMXpsWFJZR0xpcjVkb1l1dFRKSjRkek03VWs3X01aUXFNUS1kTVQ3WTBVREVIZG9Zc1VtamFVNV9MM2o2LWFkcXh3TW5LX2pSQmx1RWJSdmNST0RtTWZYWGxjTkRSc3pYZmN5SGNR?oc=5",
+          "title": "트럼프 광범위한 부정선거 주장했지만…‘새로운 것도 없고 증거도 없다’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRk45SjJIZDY1cUhEdjZvR1E4aWJDcmZldmpOZlZXRWtjZmNLR3cxOHBjY01BdXdObnJubEVxdkdQUnlRV2d5U2FVNm5vYmRWUmc4QXVRRU5fUmczUzhUQXljS0dmcEJ5ckxaSFFxM1M5QW5Nb19naUNSb2xGZ29kRnpB?oc=5",
           "source": "Google News",
-          "published": "Fri, 17 Jul 2026 05:50:00 GMT"
+          "published": "Fri, 17 Jul 2026 08:40:00 GMT"
         },
         {
-          "title": "“퇴직금 없는 우리엄마 희소식”…이달부터 자영업자 노란우산 한도 연 1800만원으로 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzYkF6N0pMSEtnWUFNUDA2LXY4Z3BOQzBMM25RQWhYMXdqNGZQMUJMSWRYdTBJQ1B0cFNfOHFfMWhCZWZrVUw1c0tlLU5oSzRiaWZkUA?oc=5",
+          "title": "벌써 4번째 민간인 사살, \"트럼프 게슈타포\"된 ICE? 美 건국 250주년의 비극 - 프레시안",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45Wm12T1pVWFpKUEl3OFJKemE2SE80VGd2VUpLNXc2am53aUs4Q3FaMlB1bEdpa0o1UDI0ZlBOX1hRNnFCUUd0aVBBSjlXTm8xeFo4M3VURUdLQjhtVUZqU1NvTm9mRmxZeWh3?oc=5",
           "source": "Google News",
-          "published": "Fri, 17 Jul 2026 02:27:44 GMT"
+          "published": "Thu, 16 Jul 2026 02:32:04 GMT"
+        }
+      ]
+    },
+    {
+      "word": "비판",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "박지현·김보미, ‘송영길·김용 출마 허용’에…“불공정” 비판 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBpT1NaTHBSejlhV012RnBMUG9oblZsZUg5S2I0QTVNd19zTHVGMjZiMmoxSDVNM0x0ZVdJekRrdS0zYVhyYTA4ODFaNUlMeGh6dXROWko3bjdkdHYydnk1d1VfZFR3UTRNQXRZOGh4elo1UWxB?oc=5",
+          "source": "Google News",
+          "published": "Fri, 17 Jul 2026 03:01:00 GMT"
+        },
+        {
+          "title": "\"박지성·이영표가 뭘 안다고\"...서강일 전북축구협회장, K-축구 혁신위 공개 비판 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fWENrbDg5SmJNc05sRnlRcGEwd25SZWMxQTBDSkYzdXFZMmVZOU82NnE0bWJpekQ4VUdiaVk5YS1UVW5jOW5wYzhnZDkycW1ycDAzNG9XRzR0MUkt?oc=5",
+          "source": "Google News",
+          "published": "Fri, 17 Jul 2026 07:52:00 GMT"
         }
       ]
     },
@@ -42,44 +105,6 @@
       ]
     },
     {
-      "word": "미국",
-      "count": 2,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "미국, 유학생 비자 4년 제한…한국인 2만여명 영향 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMmFqYzJOUHZkQjBXSXRfdEhSZFhNU19nYkV4QkIxSDVOU1VjZnlKbldLVjJuSlZOLW9DNW5iVzJtOFJOWWoxdGpFRVV6bkhHaUtvblN0bE1zTXZfS3lzd1VEU0YxWGtfMTN4NE9KUVFyWllQVXZTbFpmR0JNaWZ1QVNB?oc=5",
-          "source": "Google News",
-          "published": "Fri, 17 Jul 2026 00:25:00 GMT"
-        },
-        {
-          "title": "미국, 이란에 엿새째 공습...호르무즈 긴장 고조 - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zSkFHUGhvcEoySDlrUkNFVF9HeVppaGRqbDF1Q1U4M0hqaU1IVmJaOFZwQ1JWeFJIRDUyQlh2ZzE5cjRiblVxbGJ4eU52bEl4U0dfbkVUTjhRc2Nu0gFiQVVfeXFMTTdBWFFLNDJBNzVTb25uN21oZWZTd1djQi02YXl2dktzQkJRZlhRR3o1RFRzUHVNbjFkcWNrMUlVQ2kySi1hSWNuWElBZ1RUek5ZTHJWN1ZseU9hcHhhenZ0Qnc?oc=5",
-          "source": "Google News",
-          "published": "Fri, 17 Jul 2026 03:00:37 GMT"
-        }
-      ]
-    },
-    {
-      "word": "대통령",
-      "count": 2,
-      "category": "PERSON",
-      "articles": [
-        {
-          "title": "李대통령 “12월 3일 ‘국민주권의날’로 지정...빛의혁명 정신 계승할것” - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUXdPejdmakxZUG1YaTN3eHZJSzNpc2lseHMyV0VxSjNEak81ZlhhdXZQZXlBTF9BOXoyOUlJM0x2VVl2VzhKa3prdlhmNlF3c1hrX2pvaHdHU3ZpMVczQzFvd0poQmswOXZRMmVLOHFnQmQ4ckl1SUQ2MW51Mmg5TTdlVmhNekxtd3RfSTdyNDU?oc=5",
-          "source": "Google News",
-          "published": "Fri, 17 Jul 2026 01:27:00 GMT"
-        },
-        {
-          "title": "온라인 떠도는 “ㅁㅍㅈ 삽니다”···이 대통령 지시로 ‘임신 중지’ 제도 공백 해소 기대 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44MElpdk1NVjJDWDRLaWhicmd6U0dYYVJwWFpVelpGUU1UMTVza0ZUUTVVa2dMdDlCaWVGT1FDLVV6aGdiQVFhUVhxcXFRUEJucl9NQ3h2ZlVkUdIBX0FVX3lxTE43RmdiS2I1ejVVUUY5TTVqMUhReDRZWmlKZDBsNEFBZ295SW96dVdZVmZmc0V5T3VDWXg0QURtNjBKSXg4Z3NjbkY1cXFPY1pJN0ZJdng2UDdTcXY3M1lz?oc=5",
-          "source": "Google News",
-          "published": "Fri, 17 Jul 2026 04:28:00 GMT"
-        }
-      ]
-    },
-    {
       "word": "임신",
       "count": 2,
       "category": "NOUN",
@@ -99,364 +124,391 @@
       ]
     },
     {
-      "word": "영화",
+      "word": "가능",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "영화 ‘신비아파트’, 시사회 호평 - bntnews.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uYkYtVG5rakxhbVNGcWVEVjJMQmg0TUtMOWJEVC1va3FfZ0g5bzRXNTlFaFhpZDNjRC1WMjQ4b2JFVzNUUDNrSnNmQm9XM0U0NDdNZjhLSVJNaUJXVkVRbFh1NFI?oc=5",
+          "title": "대만 유사시에도 北이 中 군사 지원?… 평양 간 왕후닝, 대응 논의 가능성 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdjF2TFZGdDdScmtuR2hDblRBd1QxUzdiOTlrQUh2UEdyU3g3RmNJX3ZHdUhPMzJGb1cxLUY1aXhEeldHOXdyNGgwYV9NRENDMGlpM0tDX1ZTMkNlSWVLSUVnSXlCT2l0b1oyTEVaa1hJTHQycUFqRWp5NlhGOVB4YWczRTFjU1hwTmc?oc=5",
           "source": "Google News",
-          "published": "Thu, 16 Jul 2026 23:25:50 GMT"
+          "published": "Thu, 16 Jul 2026 15:52:00 GMT"
         },
         {
-          "title": "영화 ‘호프’ 올해 최단기간 100만 관객 돌파 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvZE9QVGhWekFDaWltajQwa0F3SXYydVN3YnM5aG93Z1VYMkR0WkkyMWJqQzhNemlBVThDTU5ZcWlrVlVuQV81RWY5ajhBRlQ5OXNiMDk2dG1PTGdOdnJQOUhaQXNNOEYyMkxiTGl6UWpIZw?oc=5",
+          "title": "[사이언스샷] 생명체 가능한 외계 행성에서 대기 첫 발견 - 조선비즈 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbFBIaEpoWDBHcTB3bWlHVHV0eFpQc0Z3QnAwNUNXTldKYVdRbHpEZUN6cm1FWTRwSmpyVUtaN3ZsdWFzUTczcmZYNUxMMnZIR3VLZ0JkZVVWdmFPR3JJczZFSHNFRFF2UlA5R0F1ZENUUzhrTk1ibmZZTkNWYUVoNGJ2Zk83R2dMcGlZS9IBoAFBVV95cUxPRmJIVFpsODBSOHdMcHd1X1FValIxVUhubkRYeDY5d1BZNzVjZ0lDVlI5X0FpNkhqSnpfeGNCRFB3TVl5NXZaTTB5Z0oyT3pKRDBobFdhbGdYMllRaVc0ejFWWHRnRTBjOEktMTJReERnVU9tX3U4Ti1ZTDB3OVFERWpJc09uMDF6NExWenlBSS1sZ01Zc0VkQTVEcVJmNkR1?oc=5",
           "source": "Google News",
-          "published": "Fri, 17 Jul 2026 06:24:00 GMT"
+          "published": "Fri, 17 Jul 2026 02:45:00 GMT"
         }
       ]
     },
     {
-      "word": "출시",
+      "word": "공개",
       "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "BTS, 5집 수록곡 '노멀' 한국어 버전·뮤직비디오 공개 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zblJXakRDWnVNVGM1X2NhWDlubFYtVEd6alMxS2RoVUlCejVieDc1QkJZcklkaTFHckNkWTNMRDM1OVZIQWV3cmdjd19EQUtXQmd6Rm9hM213cUHSAWBBVV95cUxOc1dIUldTZktNbHdna0xaNzFLaVNpV0RPRWhseDNwQlhVTnlmdF96V1VTOHJxelNxNWxpaF80TDJrcWh2Q1Yxb2JyR2pMUTFvTkFWN3dGUllhX0hFdVJaXzE?oc=5",
+          "source": "Google News",
+          "published": "Fri, 17 Jul 2026 07:01:41 GMT"
+        },
+        {
+          "title": "\"박지성·이영표가 뭘 안다고\"...서강일 전북축구협회장, K-축구 혁신위 공개 비판 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fWENrbDg5SmJNc05sRnlRcGEwd25SZWMxQTBDSkYzdXFZMmVZOU82NnE0bWJpekQ4VUdiaVk5YS1UVW5jOW5wYzhnZDkycW1ycDAzNG9XRzR0MUkt?oc=5",
+          "source": "Google News",
+          "published": "Fri, 17 Jul 2026 07:52:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "치료",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "암 치료, 암세포만 죽이면 끝? 합병증 치료도 함께 해야 - 캔서앤서",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhTUpFNnBpLVFaZGNVbDROXzZaV3EybkM5YVJjQXlGRVQ2d3dnRzJOeWl5ZG8yV2JhQjR1cnktRkVKVmpKdGRrYTV3ZWJWUUVteUVKcWFGeEhUQldRSTl5RE1XY0tNNC1FaDQzLXB4MXc?oc=5",
+          "source": "Google News",
+          "published": "Fri, 17 Jul 2026 07:55:45 GMT"
+        }
+      ]
+    },
+    {
+      "word": "주말",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "주말 중부지방 최대 300㎜ 물폭탄 예상···당국, 중대본 가동 등 비상대응 체계 돌입 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRMzZhRlJuQlFYcXNFZjVpY1lfWUpyMmN0ZmhrM1AwamgzWGRxUmY1WTJSa1pYaDdBc2ctejZXRUxjUFhkWkE1SFkyMnFHRzgxWl8tT1phVHVnQdIBX0FVX3lxTE5TQzB0NEUtcURIRXdfZHo0VmR5RFYxYjJJZGtxVU9jMzg5MmwyR0tkV1FrMC1yNktLbmZ6bEdaQ3VNVk1rdFhDR2FhWUJ4WFhfQ2tRUjM3RVh2Z01rNjMw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 17 Jul 2026 07:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "중부지방",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "주말 중부지방 최대 300㎜ 물폭탄 예상···당국, 중대본 가동 등 비상대응 체계 돌입 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRMzZhRlJuQlFYcXNFZjVpY1lfWUpyMmN0ZmhrM1AwamgzWGRxUmY1WTJSa1pYaDdBc2ctejZXRUxjUFhkWkE1SFkyMnFHRzgxWl8tT1phVHVnQdIBX0FVX3lxTE5TQzB0NEUtcURIRXdfZHo0VmR5RFYxYjJJZGtxVU9jMzg5MmwyR0tkV1FrMC1yNktLbmZ6bEdaQ3VNVk1rdFhDR2FhWUJ4WFhfQ2tRUjM3RVh2Z01rNjMw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 17 Jul 2026 07:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "300",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "주말 중부지방 최대 300㎜ 물폭탄 예상···당국, 중대본 가동 등 비상대응 체계 돌입 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRMzZhRlJuQlFYcXNFZjVpY1lfWUpyMmN0ZmhrM1AwamgzWGRxUmY1WTJSa1pYaDdBc2ctejZXRUxjUFhkWkE1SFkyMnFHRzgxWl8tT1phVHVnQdIBX0FVX3lxTE5TQzB0NEUtcURIRXdfZHo0VmR5RFYxYjJJZGtxVU9jMzg5MmwyR0tkV1FrMC1yNktLbmZ6bEdaQ3VNVk1rdFhDR2FhWUJ4WFhfQ2tRUjM3RVh2Z01rNjMw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 17 Jul 2026 07:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "물폭탄",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "주말 중부지방 최대 300㎜ 물폭탄 예상···당국, 중대본 가동 등 비상대응 체계 돌입 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRMzZhRlJuQlFYcXNFZjVpY1lfWUpyMmN0ZmhrM1AwamgzWGRxUmY1WTJSa1pYaDdBc2ctejZXRUxjUFhkWkE1SFkyMnFHRzgxWl8tT1phVHVnQdIBX0FVX3lxTE5TQzB0NEUtcURIRXdfZHo0VmR5RFYxYjJJZGtxVU9jMzg5MmwyR0tkV1FrMC1yNktLbmZ6bEdaQ3VNVk1rdFhDR2FhWUJ4WFhfQ2tRUjM3RVh2Z01rNjMw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 17 Jul 2026 07:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "예상당국",
+      "count": 1,
       "category": "LOCATION",
       "articles": [
         {
-          "title": "질병 그 자체가 된다…미시 세계 로그라이크 슈팅 ‘패서제닉’ 출시 - 뉴스탭",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DNURjYkJqX1lSUmNOcUJEQVVUbDhfNTE4SzB0blpIaE14OVo2TGZOUmpNeElkSmk1a2JSTG1MZ2NuMnAtc3pDbjlvOXFLUWhMZzdMTy1mWUFBYnBoRkZoU0pXX2p5X180SGQyVw?oc=5",
+          "title": "주말 중부지방 최대 300㎜ 물폭탄 예상···당국, 중대본 가동 등 비상대응 체계 돌입 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRMzZhRlJuQlFYcXNFZjVpY1lfWUpyMmN0ZmhrM1AwamgzWGRxUmY1WTJSa1pYaDdBc2ctejZXRUxjUFhkWkE1SFkyMnFHRzgxWl8tT1phVHVnQdIBX0FVX3lxTE5TQzB0NEUtcURIRXdfZHo0VmR5RFYxYjJJZGtxVU9jMzg5MmwyR0tkV1FrMC1yNktLbmZ6bEdaQ3VNVk1rdFhDR2FhWUJ4WFhfQ2tRUjM3RVh2Z01rNjMw?oc=5",
           "source": "Google News",
-          "published": "Fri, 17 Jul 2026 00:05:53 GMT"
-        },
-        {
-          "title": "160개 이상 수상 이력 폴리아크, 통합판 '모스: 잊혀진 유물' 17일 출시 - 인벤",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CVEhwY3NFNVdydG9MMFBfSWZEdm1BODhSbFlQVUpFTVJrbXVSMmVYSnozS3V4bGEydFo2aFFuQklpZ01LenprRG9SamotWUFGRWVaMWlYTG1fMUcyTGc?oc=5",
-          "source": "Google News",
-          "published": "Fri, 17 Jul 2026 00:36:00 GMT"
+          "published": "Fri, 17 Jul 2026 07:30:00 GMT"
         }
       ]
     },
     {
-      "word": "이상",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "160개 이상 수상 이력 폴리아크, 통합판 '모스: 잊혀진 유물' 17일 출시 - 인벤",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CVEhwY3NFNVdydG9MMFBfSWZEdm1BODhSbFlQVUpFTVJrbXVSMmVYSnozS3V4bGEydFo2aFFuQklpZ01LenprRG9SamotWUFGRWVaMWlYTG1fMUcyTGc?oc=5",
-          "source": "Google News",
-          "published": "Fri, 17 Jul 2026 00:36:00 GMT"
-        },
-        {
-          "title": "임신 3번 이상 여성, 폐경 이후가 중요한 이유 - 문화일보",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE84b3VDcVhRQVJZYl85ZUxQODkxZlMzSmtfbDVZcDVsaWNZYnBFUGJWS01aMGxnZGN1VzV5Tl8weU5oc01HSFlKWHF6cE83MlVv?oc=5",
-          "source": "Google News",
-          "published": "Thu, 16 Jul 2026 20:12:13 GMT"
-        }
-      ]
-    },
-    {
-      "word": "논란",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "혐한 논란에 활동 중단한 장위안…SNS에 “오랜만이야” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80MXVuQzQ1b29PTkp1QVNlOGRBZTQydkdPR2tFS3ByLXhqMzZnN1pKMzZWQnZvbi1ISE9HZ21KNnYtSW53SEdhaVFSN0JrODZ5cEdYTzVlZUZGbjluRnFyT1FzLXFIeGV4WG9OcVUwTGhxMFJEc2fSAWZBVV95cUxNX0lmQzNzenNZVFJCTkxzNElyQ2JOd19VN0pqd1JTQThPYkhad0dKSUVuQ3o2Z1JaZjcxaGs0aU05amZvOEY2TmVSd3RNbkh1UmktN193bXdpd1k3Tm84aUE1LVc5SHc?oc=5",
-          "source": "Google News",
-          "published": "Fri, 17 Jul 2026 04:39:32 GMT"
-        },
-        {
-          "title": "\"박지성·이영표가 뭘 안다고 개혁?\"... 전북축구협회장 발언 논란 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOGxkSEx1c3l2WVNpb0NhbkNwRFBxS3otMkdlcmpidDgyVWFQRzhpZUkwYjVWLXJMLUcxODluek1rc3lINmdJVHZsbzB5Y295RFN4WEFKbU9XaHhid1JnOGZGRmNoLWh6WW1NMzFaUnVjQTN1RzNxLUpYYUltckNhTmlKaWlTWVppS19V?oc=5",
-          "source": "Google News",
-          "published": "Fri, 17 Jul 2026 05:33:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "트럼프",
+      "word": "중대본",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 “딥스테이트, ‘중국 선거개입’ 은폐”…미 언론들 “근거 없는 음모론” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN0NILVFBYXRINk5SSDFWY1RSNHNLMXpsWFJZR0xpcjVkb1l1dFRKSjRkek03VWs3X01aUXFNUS1kTVQ3WTBVREVIZG9Zc1VtamFVNV9MM2o2LWFkcXh3TW5LX2pSQmx1RWJSdmNST0RtTWZYWGxjTkRSc3pYZmN5SGNR?oc=5",
+          "title": "주말 중부지방 최대 300㎜ 물폭탄 예상···당국, 중대본 가동 등 비상대응 체계 돌입 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRMzZhRlJuQlFYcXNFZjVpY1lfWUpyMmN0ZmhrM1AwamgzWGRxUmY1WTJSa1pYaDdBc2ctejZXRUxjUFhkWkE1SFkyMnFHRzgxWl8tT1phVHVnQdIBX0FVX3lxTE5TQzB0NEUtcURIRXdfZHo0VmR5RFYxYjJJZGtxVU9jMzg5MmwyR0tkV1FrMC1yNktLbmZ6bEdaQ3VNVk1rdFhDR2FhWUJ4WFhfQ2tRUjM3RVh2Z01rNjMw?oc=5",
           "source": "Google News",
-          "published": "Fri, 17 Jul 2026 05:50:00 GMT"
+          "published": "Fri, 17 Jul 2026 07:30:00 GMT"
         }
       ]
     },
     {
-      "word": "딥스테이트",
+      "word": "가동",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 “딥스테이트, ‘중국 선거개입’ 은폐”…미 언론들 “근거 없는 음모론” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN0NILVFBYXRINk5SSDFWY1RSNHNLMXpsWFJZR0xpcjVkb1l1dFRKSjRkek03VWs3X01aUXFNUS1kTVQ3WTBVREVIZG9Zc1VtamFVNV9MM2o2LWFkcXh3TW5LX2pSQmx1RWJSdmNST0RtTWZYWGxjTkRSc3pYZmN5SGNR?oc=5",
+          "title": "주말 중부지방 최대 300㎜ 물폭탄 예상···당국, 중대본 가동 등 비상대응 체계 돌입 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRMzZhRlJuQlFYcXNFZjVpY1lfWUpyMmN0ZmhrM1AwamgzWGRxUmY1WTJSa1pYaDdBc2ctejZXRUxjUFhkWkE1SFkyMnFHRzgxWl8tT1phVHVnQdIBX0FVX3lxTE5TQzB0NEUtcURIRXdfZHo0VmR5RFYxYjJJZGtxVU9jMzg5MmwyR0tkV1FrMC1yNktLbmZ6bEdaQ3VNVk1rdFhDR2FhWUJ4WFhfQ2tRUjM3RVh2Z01rNjMw?oc=5",
           "source": "Google News",
-          "published": "Fri, 17 Jul 2026 05:50:00 GMT"
+          "published": "Fri, 17 Jul 2026 07:30:00 GMT"
         }
       ]
     },
     {
-      "word": "중국",
+      "word": "비상대응",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "주말 중부지방 최대 300㎜ 물폭탄 예상···당국, 중대본 가동 등 비상대응 체계 돌입 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRMzZhRlJuQlFYcXNFZjVpY1lfWUpyMmN0ZmhrM1AwamgzWGRxUmY1WTJSa1pYaDdBc2ctejZXRUxjUFhkWkE1SFkyMnFHRzgxWl8tT1phVHVnQdIBX0FVX3lxTE5TQzB0NEUtcURIRXdfZHo0VmR5RFYxYjJJZGtxVU9jMzg5MmwyR0tkV1FrMC1yNktLbmZ6bEdaQ3VNVk1rdFhDR2FhWUJ4WFhfQ2tRUjM3RVh2Z01rNjMw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 17 Jul 2026 07:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "체계",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "주말 중부지방 최대 300㎜ 물폭탄 예상···당국, 중대본 가동 등 비상대응 체계 돌입 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRMzZhRlJuQlFYcXNFZjVpY1lfWUpyMmN0ZmhrM1AwamgzWGRxUmY1WTJSa1pYaDdBc2ctejZXRUxjUFhkWkE1SFkyMnFHRzgxWl8tT1phVHVnQdIBX0FVX3lxTE5TQzB0NEUtcURIRXdfZHo0VmR5RFYxYjJJZGtxVU9jMzg5MmwyR0tkV1FrMC1yNktLbmZ6bEdaQ3VNVk1rdFhDR2FhWUJ4WFhfQ2tRUjM3RVh2Z01rNjMw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 17 Jul 2026 07:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "돌입",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "주말 중부지방 최대 300㎜ 물폭탄 예상···당국, 중대본 가동 등 비상대응 체계 돌입 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRMzZhRlJuQlFYcXNFZjVpY1lfWUpyMmN0ZmhrM1AwamgzWGRxUmY1WTJSa1pYaDdBc2ctejZXRUxjUFhkWkE1SFkyMnFHRzgxWl8tT1phVHVnQdIBX0FVX3lxTE5TQzB0NEUtcURIRXdfZHo0VmR5RFYxYjJJZGtxVU9jMzg5MmwyR0tkV1FrMC1yNktLbmZ6bEdaQ3VNVk1rdFhDR2FhWUJ4WFhfQ2tRUjM3RVh2Z01rNjMw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 17 Jul 2026 07:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "자운대",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘자운대’ 대학교 아닙니다…부대 별칭 ‘○○대’도 일본 제국주의 잔재 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fOUxKeGE5MU9tX3h6Q0pkV3F3Y0VNS0Z0RmFIZG93Rk5pRkxmelp6OHBLQWRMTmgyRVJKbUtHY0V0VkdNOU95VElhTVc4X1JwcGNqZk84T1Y2Ry1RMWRHd2g2bERwb2pq?oc=5",
+          "source": "Google News",
+          "published": "Fri, 17 Jul 2026 05:36:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "대학교",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘자운대’ 대학교 아닙니다…부대 별칭 ‘○○대’도 일본 제국주의 잔재 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fOUxKeGE5MU9tX3h6Q0pkV3F3Y0VNS0Z0RmFIZG93Rk5pRkxmelp6OHBLQWRMTmgyRVJKbUtHY0V0VkdNOU95VElhTVc4X1JwcGNqZk84T1Y2Ry1RMWRHd2g2bERwb2pq?oc=5",
+          "source": "Google News",
+          "published": "Fri, 17 Jul 2026 05:36:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "아닙니다부대",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘자운대’ 대학교 아닙니다…부대 별칭 ‘○○대’도 일본 제국주의 잔재 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fOUxKeGE5MU9tX3h6Q0pkV3F3Y0VNS0Z0RmFIZG93Rk5pRkxmelp6OHBLQWRMTmgyRVJKbUtHY0V0VkdNOU95VElhTVc4X1JwcGNqZk84T1Y2Ry1RMWRHd2g2bERwb2pq?oc=5",
+          "source": "Google News",
+          "published": "Fri, 17 Jul 2026 05:36:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "별칭",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘자운대’ 대학교 아닙니다…부대 별칭 ‘○○대’도 일본 제국주의 잔재 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fOUxKeGE5MU9tX3h6Q0pkV3F3Y0VNS0Z0RmFIZG93Rk5pRkxmelp6OHBLQWRMTmgyRVJKbUtHY0V0VkdNOU95VElhTVc4X1JwcGNqZk84T1Y2Ry1RMWRHd2g2bERwb2pq?oc=5",
+          "source": "Google News",
+          "published": "Fri, 17 Jul 2026 05:36:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "대도",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘자운대’ 대학교 아닙니다…부대 별칭 ‘○○대’도 일본 제국주의 잔재 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fOUxKeGE5MU9tX3h6Q0pkV3F3Y0VNS0Z0RmFIZG93Rk5pRkxmelp6OHBLQWRMTmgyRVJKbUtHY0V0VkdNOU95VElhTVc4X1JwcGNqZk84T1Y2Ry1RMWRHd2g2bERwb2pq?oc=5",
+          "source": "Google News",
+          "published": "Fri, 17 Jul 2026 05:36:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "일본",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘자운대’ 대학교 아닙니다…부대 별칭 ‘○○대’도 일본 제국주의 잔재 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fOUxKeGE5MU9tX3h6Q0pkV3F3Y0VNS0Z0RmFIZG93Rk5pRkxmelp6OHBLQWRMTmgyRVJKbUtHY0V0VkdNOU95VElhTVc4X1JwcGNqZk84T1Y2Ry1RMWRHd2g2bERwb2pq?oc=5",
+          "source": "Google News",
+          "published": "Fri, 17 Jul 2026 05:36:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "제국주",
       "count": 1,
       "category": "LOCATION",
       "articles": [
         {
-          "title": "트럼프 “딥스테이트, ‘중국 선거개입’ 은폐”…미 언론들 “근거 없는 음모론” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN0NILVFBYXRINk5SSDFWY1RSNHNLMXpsWFJZR0xpcjVkb1l1dFRKSjRkek03VWs3X01aUXFNUS1kTVQ3WTBVREVIZG9Zc1VtamFVNV9MM2o2LWFkcXh3TW5LX2pSQmx1RWJSdmNST0RtTWZYWGxjTkRSc3pYZmN5SGNR?oc=5",
+          "title": "‘자운대’ 대학교 아닙니다…부대 별칭 ‘○○대’도 일본 제국주의 잔재 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fOUxKeGE5MU9tX3h6Q0pkV3F3Y0VNS0Z0RmFIZG93Rk5pRkxmelp6OHBLQWRMTmgyRVJKbUtHY0V0VkdNOU95VElhTVc4X1JwcGNqZk84T1Y2Ry1RMWRHd2g2bERwb2pq?oc=5",
           "source": "Google News",
-          "published": "Fri, 17 Jul 2026 05:50:00 GMT"
+          "published": "Fri, 17 Jul 2026 05:36:00 GMT"
         }
       ]
     },
     {
-      "word": "선거개입",
+      "word": "잔재",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 “딥스테이트, ‘중국 선거개입’ 은폐”…미 언론들 “근거 없는 음모론” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN0NILVFBYXRINk5SSDFWY1RSNHNLMXpsWFJZR0xpcjVkb1l1dFRKSjRkek03VWs3X01aUXFNUS1kTVQ3WTBVREVIZG9Zc1VtamFVNV9MM2o2LWFkcXh3TW5LX2pSQmx1RWJSdmNST0RtTWZYWGxjTkRSc3pYZmN5SGNR?oc=5",
+          "title": "‘자운대’ 대학교 아닙니다…부대 별칭 ‘○○대’도 일본 제국주의 잔재 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fOUxKeGE5MU9tX3h6Q0pkV3F3Y0VNS0Z0RmFIZG93Rk5pRkxmelp6OHBLQWRMTmgyRVJKbUtHY0V0VkdNOU95VElhTVc4X1JwcGNqZk84T1Y2Ry1RMWRHd2g2bERwb2pq?oc=5",
           "source": "Google News",
-          "published": "Fri, 17 Jul 2026 05:50:00 GMT"
+          "published": "Fri, 17 Jul 2026 05:36:00 GMT"
         }
       ]
     },
     {
-      "word": "은폐미",
+      "word": "빛의",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 “딥스테이트, ‘중국 선거개입’ 은폐”…미 언론들 “근거 없는 음모론” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN0NILVFBYXRINk5SSDFWY1RSNHNLMXpsWFJZR0xpcjVkb1l1dFRKSjRkek03VWs3X01aUXFNUS1kTVQ3WTBVREVIZG9Zc1VtamFVNV9MM2o2LWFkcXh3TW5LX2pSQmx1RWJSdmNST0RtTWZYWGxjTkRSc3pYZmN5SGNR?oc=5",
+          "title": "이 대통령, ‘빛의 위원회’ 출범 행사…“매년 12월3일 ‘국민주권의 날’로 지정” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TRHF0OVh4RnRCMVZKNW83OTlZT0ZmODl4UzFEWVlMQnFsQzR1SU9qZG1aNWVlWllPcDFuRlRxLUJmYlg5ZHRGNFNwZXF5TXNQcE93bGw0SHdZZ9IBX0FVX3lxTFBpY202ZnRxZWZTUUhRXzkzSVhJMG1TQmFDVDRWNkktRHB5U01XZDdSRndvZklZMEdWV0hXeU1nZ0ZmSEZhT0pfT1BBc3NhR0xuQi1SdTE4cHplR0dmQW5V?oc=5",
           "source": "Google News",
-          "published": "Fri, 17 Jul 2026 05:50:00 GMT"
+          "published": "Fri, 17 Jul 2026 07:21:00 GMT"
         }
       ]
     },
     {
-      "word": "언론",
+      "word": "위원회",
       "count": 1,
-      "category": "NOUN",
+      "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "트럼프 “딥스테이트, ‘중국 선거개입’ 은폐”…미 언론들 “근거 없는 음모론” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN0NILVFBYXRINk5SSDFWY1RSNHNLMXpsWFJZR0xpcjVkb1l1dFRKSjRkek03VWs3X01aUXFNUS1kTVQ3WTBVREVIZG9Zc1VtamFVNV9MM2o2LWFkcXh3TW5LX2pSQmx1RWJSdmNST0RtTWZYWGxjTkRSc3pYZmN5SGNR?oc=5",
+          "title": "이 대통령, ‘빛의 위원회’ 출범 행사…“매년 12월3일 ‘국민주권의 날’로 지정” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TRHF0OVh4RnRCMVZKNW83OTlZT0ZmODl4UzFEWVlMQnFsQzR1SU9qZG1aNWVlWllPcDFuRlRxLUJmYlg5ZHRGNFNwZXF5TXNQcE93bGw0SHdZZ9IBX0FVX3lxTFBpY202ZnRxZWZTUUhRXzkzSVhJMG1TQmFDVDRWNkktRHB5U01XZDdSRndvZklZMEdWV0hXeU1nZ0ZmSEZhT0pfT1BBc3NhR0xuQi1SdTE4cHplR0dmQW5V?oc=5",
           "source": "Google News",
-          "published": "Fri, 17 Jul 2026 05:50:00 GMT"
+          "published": "Fri, 17 Jul 2026 07:21:00 GMT"
         }
       ]
     },
     {
-      "word": "근거",
+      "word": "출범",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 “딥스테이트, ‘중국 선거개입’ 은폐”…미 언론들 “근거 없는 음모론” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN0NILVFBYXRINk5SSDFWY1RSNHNLMXpsWFJZR0xpcjVkb1l1dFRKSjRkek03VWs3X01aUXFNUS1kTVQ3WTBVREVIZG9Zc1VtamFVNV9MM2o2LWFkcXh3TW5LX2pSQmx1RWJSdmNST0RtTWZYWGxjTkRSc3pYZmN5SGNR?oc=5",
+          "title": "이 대통령, ‘빛의 위원회’ 출범 행사…“매년 12월3일 ‘국민주권의 날’로 지정” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TRHF0OVh4RnRCMVZKNW83OTlZT0ZmODl4UzFEWVlMQnFsQzR1SU9qZG1aNWVlWllPcDFuRlRxLUJmYlg5ZHRGNFNwZXF5TXNQcE93bGw0SHdZZ9IBX0FVX3lxTFBpY202ZnRxZWZTUUhRXzkzSVhJMG1TQmFDVDRWNkktRHB5U01XZDdSRndvZklZMEdWV0hXeU1nZ0ZmSEZhT0pfT1BBc3NhR0xuQi1SdTE4cHplR0dmQW5V?oc=5",
           "source": "Google News",
-          "published": "Fri, 17 Jul 2026 05:50:00 GMT"
+          "published": "Fri, 17 Jul 2026 07:21:00 GMT"
         }
       ]
     },
     {
-      "word": "음모론",
+      "word": "행사매년",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 “딥스테이트, ‘중국 선거개입’ 은폐”…미 언론들 “근거 없는 음모론” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN0NILVFBYXRINk5SSDFWY1RSNHNLMXpsWFJZR0xpcjVkb1l1dFRKSjRkek03VWs3X01aUXFNUS1kTVQ3WTBVREVIZG9Zc1VtamFVNV9MM2o2LWFkcXh3TW5LX2pSQmx1RWJSdmNST0RtTWZYWGxjTkRSc3pYZmN5SGNR?oc=5",
+          "title": "이 대통령, ‘빛의 위원회’ 출범 행사…“매년 12월3일 ‘국민주권의 날’로 지정” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TRHF0OVh4RnRCMVZKNW83OTlZT0ZmODl4UzFEWVlMQnFsQzR1SU9qZG1aNWVlWllPcDFuRlRxLUJmYlg5ZHRGNFNwZXF5TXNQcE93bGw0SHdZZ9IBX0FVX3lxTFBpY202ZnRxZWZTUUhRXzkzSVhJMG1TQmFDVDRWNkktRHB5U01XZDdSRndvZklZMEdWV0hXeU1nZ0ZmSEZhT0pfT1BBc3NhR0xuQi1SdTE4cHplR0dmQW5V?oc=5",
           "source": "Google News",
-          "published": "Fri, 17 Jul 2026 05:50:00 GMT"
+          "published": "Fri, 17 Jul 2026 07:21:00 GMT"
         }
       ]
     },
     {
-      "word": "진성준",
+      "word": "12월3일",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "與진성준 “통합사관학교가 육사 보복? 그랬으면 쪼개버렸다” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxWjdsSTFGNVBtUHRPMVk4YlR1Y01aUXFfRkJJRjBTX0hLSzA1Z3plby0zNjdYTWR4dXRVUXA3SXNaUnMzZDNKcmR2VnV2dGZ4LUhreTYzczlDTEdaR3ZQOHduSFBxRWRDQUVhck1ONkl5eXhsTFVV0gFmQVVfeXFMUHY1S3pmUDJQVTl3Q3NlcXQzZmRTVGF4X3Fzd3RyMzhON0tlbnVhdFVMODNrZGtaek80Um1yY0laNmN3NzJIYmpPX1ZoNnFmaFNoZDVnTG81Qm4yYndYekZ0dE5UX2lB?oc=5",
+          "title": "이 대통령, ‘빛의 위원회’ 출범 행사…“매년 12월3일 ‘국민주권의 날’로 지정” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TRHF0OVh4RnRCMVZKNW83OTlZT0ZmODl4UzFEWVlMQnFsQzR1SU9qZG1aNWVlWllPcDFuRlRxLUJmYlg5ZHRGNFNwZXF5TXNQcE93bGw0SHdZZ9IBX0FVX3lxTFBpY202ZnRxZWZTUUhRXzkzSVhJMG1TQmFDVDRWNkktRHB5U01XZDdSRndvZklZMEdWV0hXeU1nZ0ZmSEZhT0pfT1BBc3NhR0xuQi1SdTE4cHplR0dmQW5V?oc=5",
           "source": "Google News",
-          "published": "Fri, 17 Jul 2026 05:06:03 GMT"
+          "published": "Fri, 17 Jul 2026 07:21:00 GMT"
         }
       ]
     },
     {
-      "word": "통합사관학교",
+      "word": "국민주권",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "與진성준 “통합사관학교가 육사 보복? 그랬으면 쪼개버렸다” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxWjdsSTFGNVBtUHRPMVk4YlR1Y01aUXFfRkJJRjBTX0hLSzA1Z3plby0zNjdYTWR4dXRVUXA3SXNaUnMzZDNKcmR2VnV2dGZ4LUhreTYzczlDTEdaR3ZQOHduSFBxRWRDQUVhck1ONkl5eXhsTFVV0gFmQVVfeXFMUHY1S3pmUDJQVTl3Q3NlcXQzZmRTVGF4X3Fzd3RyMzhON0tlbnVhdFVMODNrZGtaek80Um1yY0laNmN3NzJIYmpPX1ZoNnFmaFNoZDVnTG81Qm4yYndYekZ0dE5UX2lB?oc=5",
+          "title": "이 대통령, ‘빛의 위원회’ 출범 행사…“매년 12월3일 ‘국민주권의 날’로 지정” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TRHF0OVh4RnRCMVZKNW83OTlZT0ZmODl4UzFEWVlMQnFsQzR1SU9qZG1aNWVlWllPcDFuRlRxLUJmYlg5ZHRGNFNwZXF5TXNQcE93bGw0SHdZZ9IBX0FVX3lxTFBpY202ZnRxZWZTUUhRXzkzSVhJMG1TQmFDVDRWNkktRHB5U01XZDdSRndvZklZMEdWV0hXeU1nZ0ZmSEZhT0pfT1BBc3NhR0xuQi1SdTE4cHplR0dmQW5V?oc=5",
           "source": "Google News",
-          "published": "Fri, 17 Jul 2026 05:06:03 GMT"
+          "published": "Fri, 17 Jul 2026 07:21:00 GMT"
         }
       ]
     },
     {
-      "word": "육사",
+      "word": "날로",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "與진성준 “통합사관학교가 육사 보복? 그랬으면 쪼개버렸다” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxWjdsSTFGNVBtUHRPMVk4YlR1Y01aUXFfRkJJRjBTX0hLSzA1Z3plby0zNjdYTWR4dXRVUXA3SXNaUnMzZDNKcmR2VnV2dGZ4LUhreTYzczlDTEdaR3ZQOHduSFBxRWRDQUVhck1ONkl5eXhsTFVV0gFmQVVfeXFMUHY1S3pmUDJQVTl3Q3NlcXQzZmRTVGF4X3Fzd3RyMzhON0tlbnVhdFVMODNrZGtaek80Um1yY0laNmN3NzJIYmpPX1ZoNnFmaFNoZDVnTG81Qm4yYndYekZ0dE5UX2lB?oc=5",
+          "title": "이 대통령, ‘빛의 위원회’ 출범 행사…“매년 12월3일 ‘국민주권의 날’로 지정” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TRHF0OVh4RnRCMVZKNW83OTlZT0ZmODl4UzFEWVlMQnFsQzR1SU9qZG1aNWVlWllPcDFuRlRxLUJmYlg5ZHRGNFNwZXF5TXNQcE93bGw0SHdZZ9IBX0FVX3lxTFBpY202ZnRxZWZTUUhRXzkzSVhJMG1TQmFDVDRWNkktRHB5U01XZDdSRndvZklZMEdWV0hXeU1nZ0ZmSEZhT0pfT1BBc3NhR0xuQi1SdTE4cHplR0dmQW5V?oc=5",
           "source": "Google News",
-          "published": "Fri, 17 Jul 2026 05:06:03 GMT"
+          "published": "Fri, 17 Jul 2026 07:21:00 GMT"
         }
       ]
     },
     {
-      "word": "보복",
+      "word": "지정",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "與진성준 “통합사관학교가 육사 보복? 그랬으면 쪼개버렸다” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxWjdsSTFGNVBtUHRPMVk4YlR1Y01aUXFfRkJJRjBTX0hLSzA1Z3plby0zNjdYTWR4dXRVUXA3SXNaUnMzZDNKcmR2VnV2dGZ4LUhreTYzczlDTEdaR3ZQOHduSFBxRWRDQUVhck1ONkl5eXhsTFVV0gFmQVVfeXFMUHY1S3pmUDJQVTl3Q3NlcXQzZmRTVGF4X3Fzd3RyMzhON0tlbnVhdFVMODNrZGtaek80Um1yY0laNmN3NzJIYmpPX1ZoNnFmaFNoZDVnTG81Qm4yYndYekZ0dE5UX2lB?oc=5",
+          "title": "이 대통령, ‘빛의 위원회’ 출범 행사…“매년 12월3일 ‘국민주권의 날’로 지정” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TRHF0OVh4RnRCMVZKNW83OTlZT0ZmODl4UzFEWVlMQnFsQzR1SU9qZG1aNWVlWllPcDFuRlRxLUJmYlg5ZHRGNFNwZXF5TXNQcE93bGw0SHdZZ9IBX0FVX3lxTFBpY202ZnRxZWZTUUhRXzkzSVhJMG1TQmFDVDRWNkktRHB5U01XZDdSRndvZklZMEdWV0hXeU1nZ0ZmSEZhT0pfT1BBc3NhR0xuQi1SdTE4cHplR0dmQW5V?oc=5",
           "source": "Google News",
-          "published": "Fri, 17 Jul 2026 05:06:03 GMT"
-        }
-      ]
-    },
-    {
-      "word": "그랬으면",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "與진성준 “통합사관학교가 육사 보복? 그랬으면 쪼개버렸다” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxWjdsSTFGNVBtUHRPMVk4YlR1Y01aUXFfRkJJRjBTX0hLSzA1Z3plby0zNjdYTWR4dXRVUXA3SXNaUnMzZDNKcmR2VnV2dGZ4LUhreTYzczlDTEdaR3ZQOHduSFBxRWRDQUVhck1ONkl5eXhsTFVV0gFmQVVfeXFMUHY1S3pmUDJQVTl3Q3NlcXQzZmRTVGF4X3Fzd3RyMzhON0tlbnVhdFVMODNrZGtaek80Um1yY0laNmN3NzJIYmpPX1ZoNnFmaFNoZDVnTG81Qm4yYndYekZ0dE5UX2lB?oc=5",
-          "source": "Google News",
-          "published": "Fri, 17 Jul 2026 05:06:03 GMT"
-        }
-      ]
-    },
-    {
-      "word": "쪼개버렸다",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "與진성준 “통합사관학교가 육사 보복? 그랬으면 쪼개버렸다” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxWjdsSTFGNVBtUHRPMVk4YlR1Y01aUXFfRkJJRjBTX0hLSzA1Z3plby0zNjdYTWR4dXRVUXA3SXNaUnMzZDNKcmR2VnV2dGZ4LUhreTYzczlDTEdaR3ZQOHduSFBxRWRDQUVhck1ONkl5eXhsTFVV0gFmQVVfeXFMUHY1S3pmUDJQVTl3Q3NlcXQzZmRTVGF4X3Fzd3RyMzhON0tlbnVhdFVMODNrZGtaek80Um1yY0laNmN3NzJIYmpPX1ZoNnFmaFNoZDVnTG81Qm4yYndYekZ0dE5UX2lB?oc=5",
-          "source": "Google News",
-          "published": "Fri, 17 Jul 2026 05:06:03 GMT"
-        }
-      ]
-    },
-    {
-      "word": "속보대관령",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[속보]대관령 4터널 화재, 강릉 방향 전면통제…소방 대응 2단계 발령 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6UmJhYVIwNlYzeUFrdlZUNEE3S2dDdGtabVlKTG9BVmRiRnNjbnY2MUE3Tnk4bERNbzF1OUw5bjRlODJ5bWhOd1ZQNjZYQy1EbUFtSFdWT1h6b2h5dmNhcGVJd3EzVXQtNzFwTzZJOUVjcGYwTmfSAWZBVV95cUxNa19KamFwMjZ2RmJ2aVdIRUt4LVB1Vmc3eFZ6SnJzYW85Zk1ndWx0NjRIQWljZGx3YVBGd296Nmt2SHB4ME9MOUtleUlDa2NwWkt6Z0c5WUtPNXQ2SUo1bWg5RjJvdUE?oc=5",
-          "source": "Google News",
-          "published": "Fri, 17 Jul 2026 04:09:27 GMT"
-        }
-      ]
-    },
-    {
-      "word": "4터널",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[속보]대관령 4터널 화재, 강릉 방향 전면통제…소방 대응 2단계 발령 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6UmJhYVIwNlYzeUFrdlZUNEE3S2dDdGtabVlKTG9BVmRiRnNjbnY2MUE3Tnk4bERNbzF1OUw5bjRlODJ5bWhOd1ZQNjZYQy1EbUFtSFdWT1h6b2h5dmNhcGVJd3EzVXQtNzFwTzZJOUVjcGYwTmfSAWZBVV95cUxNa19KamFwMjZ2RmJ2aVdIRUt4LVB1Vmc3eFZ6SnJzYW85Zk1ndWx0NjRIQWljZGx3YVBGd296Nmt2SHB4ME9MOUtleUlDa2NwWkt6Z0c5WUtPNXQ2SUo1bWg5RjJvdUE?oc=5",
-          "source": "Google News",
-          "published": "Fri, 17 Jul 2026 04:09:27 GMT"
-        }
-      ]
-    },
-    {
-      "word": "화재",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[속보]대관령 4터널 화재, 강릉 방향 전면통제…소방 대응 2단계 발령 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6UmJhYVIwNlYzeUFrdlZUNEE3S2dDdGtabVlKTG9BVmRiRnNjbnY2MUE3Tnk4bERNbzF1OUw5bjRlODJ5bWhOd1ZQNjZYQy1EbUFtSFdWT1h6b2h5dmNhcGVJd3EzVXQtNzFwTzZJOUVjcGYwTmfSAWZBVV95cUxNa19KamFwMjZ2RmJ2aVdIRUt4LVB1Vmc3eFZ6SnJzYW85Zk1ndWx0NjRIQWljZGx3YVBGd296Nmt2SHB4ME9MOUtleUlDa2NwWkt6Z0c5WUtPNXQ2SUo1bWg5RjJvdUE?oc=5",
-          "source": "Google News",
-          "published": "Fri, 17 Jul 2026 04:09:27 GMT"
-        }
-      ]
-    },
-    {
-      "word": "강릉",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[속보]대관령 4터널 화재, 강릉 방향 전면통제…소방 대응 2단계 발령 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6UmJhYVIwNlYzeUFrdlZUNEE3S2dDdGtabVlKTG9BVmRiRnNjbnY2MUE3Tnk4bERNbzF1OUw5bjRlODJ5bWhOd1ZQNjZYQy1EbUFtSFdWT1h6b2h5dmNhcGVJd3EzVXQtNzFwTzZJOUVjcGYwTmfSAWZBVV95cUxNa19KamFwMjZ2RmJ2aVdIRUt4LVB1Vmc3eFZ6SnJzYW85Zk1ndWx0NjRIQWljZGx3YVBGd296Nmt2SHB4ME9MOUtleUlDa2NwWkt6Z0c5WUtPNXQ2SUo1bWg5RjJvdUE?oc=5",
-          "source": "Google News",
-          "published": "Fri, 17 Jul 2026 04:09:27 GMT"
-        }
-      ]
-    },
-    {
-      "word": "방향",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[속보]대관령 4터널 화재, 강릉 방향 전면통제…소방 대응 2단계 발령 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6UmJhYVIwNlYzeUFrdlZUNEE3S2dDdGtabVlKTG9BVmRiRnNjbnY2MUE3Tnk4bERNbzF1OUw5bjRlODJ5bWhOd1ZQNjZYQy1EbUFtSFdWT1h6b2h5dmNhcGVJd3EzVXQtNzFwTzZJOUVjcGYwTmfSAWZBVV95cUxNa19KamFwMjZ2RmJ2aVdIRUt4LVB1Vmc3eFZ6SnJzYW85Zk1ndWx0NjRIQWljZGx3YVBGd296Nmt2SHB4ME9MOUtleUlDa2NwWkt6Z0c5WUtPNXQ2SUo1bWg5RjJvdUE?oc=5",
-          "source": "Google News",
-          "published": "Fri, 17 Jul 2026 04:09:27 GMT"
-        }
-      ]
-    },
-    {
-      "word": "전면통제소방",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[속보]대관령 4터널 화재, 강릉 방향 전면통제…소방 대응 2단계 발령 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6UmJhYVIwNlYzeUFrdlZUNEE3S2dDdGtabVlKTG9BVmRiRnNjbnY2MUE3Tnk4bERNbzF1OUw5bjRlODJ5bWhOd1ZQNjZYQy1EbUFtSFdWT1h6b2h5dmNhcGVJd3EzVXQtNzFwTzZJOUVjcGYwTmfSAWZBVV95cUxNa19KamFwMjZ2RmJ2aVdIRUt4LVB1Vmc3eFZ6SnJzYW85Zk1ndWx0NjRIQWljZGx3YVBGd296Nmt2SHB4ME9MOUtleUlDa2NwWkt6Z0c5WUtPNXQ2SUo1bWg5RjJvdUE?oc=5",
-          "source": "Google News",
-          "published": "Fri, 17 Jul 2026 04:09:27 GMT"
-        }
-      ]
-    },
-    {
-      "word": "2단계",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[속보]대관령 4터널 화재, 강릉 방향 전면통제…소방 대응 2단계 발령 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6UmJhYVIwNlYzeUFrdlZUNEE3S2dDdGtabVlKTG9BVmRiRnNjbnY2MUE3Tnk4bERNbzF1OUw5bjRlODJ5bWhOd1ZQNjZYQy1EbUFtSFdWT1h6b2h5dmNhcGVJd3EzVXQtNzFwTzZJOUVjcGYwTmfSAWZBVV95cUxNa19KamFwMjZ2RmJ2aVdIRUt4LVB1Vmc3eFZ6SnJzYW85Zk1ndWx0NjRIQWljZGx3YVBGd296Nmt2SHB4ME9MOUtleUlDa2NwWkt6Z0c5WUtPNXQ2SUo1bWg5RjJvdUE?oc=5",
-          "source": "Google News",
-          "published": "Fri, 17 Jul 2026 04:09:27 GMT"
-        }
-      ]
-    },
-    {
-      "word": "발령",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[속보]대관령 4터널 화재, 강릉 방향 전면통제…소방 대응 2단계 발령 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6UmJhYVIwNlYzeUFrdlZUNEE3S2dDdGtabVlKTG9BVmRiRnNjbnY2MUE3Tnk4bERNbzF1OUw5bjRlODJ5bWhOd1ZQNjZYQy1EbUFtSFdWT1h6b2h5dmNhcGVJd3EzVXQtNzFwTzZJOUVjcGYwTmfSAWZBVV95cUxNa19KamFwMjZ2RmJ2aVdIRUt4LVB1Vmc3eFZ6SnJzYW85Zk1ndWx0NjRIQWljZGx3YVBGd296Nmt2SHB4ME9MOUtleUlDa2NwWkt6Z0c5WUtPNXQ2SUo1bWg5RjJvdUE?oc=5",
-          "source": "Google News",
-          "published": "Fri, 17 Jul 2026 04:09:27 GMT"
+          "published": "Fri, 17 Jul 2026 07:21:00 GMT"
         }
       ]
     },
@@ -466,10 +518,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "미국, 유학생 비자 4년 제한…한국인 2만여명 영향 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMmFqYzJOUHZkQjBXSXRfdEhSZFhNU19nYkV4QkIxSDVOU1VjZnlKbldLVjJuSlZOLW9DNW5iVzJtOFJOWWoxdGpFRVV6bkhHaUtvblN0bE1zTXZfS3lzd1VEU0YxWGtfMTN4NE9KUVFyWllQVXZTbFpmR0JNaWZ1QVNB?oc=5",
+          "title": "美, 유학생 비자 4년 제한... 한국인 2만명 비상 걸렸다 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb0tjSExmbGx1RFdFMEdjamdiTVp6VHpzUTlJMzlJa1dNM1VlcXFJNl91WGFGcUlPYzJadzhPMVpITnlfNExHa1dXTmhSM1pTeXVBT3h2M1JnRTNUVlZWTDE2cV8wQzluSFc4Z3hfOGdBQkpJR1VNcXdtNXQ5SzJJRlRYTXhhOVFUSEx4aUZ4NUo4SEROTGN2WWdvQ0E4dw?oc=5",
           "source": "Google News",
-          "published": "Fri, 17 Jul 2026 00:25:00 GMT"
+          "published": "Fri, 17 Jul 2026 05:11:00 GMT"
         }
       ]
     },
@@ -479,10 +531,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "미국, 유학생 비자 4년 제한…한국인 2만여명 영향 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMmFqYzJOUHZkQjBXSXRfdEhSZFhNU19nYkV4QkIxSDVOU1VjZnlKbldLVjJuSlZOLW9DNW5iVzJtOFJOWWoxdGpFRVV6bkhHaUtvblN0bE1zTXZfS3lzd1VEU0YxWGtfMTN4NE9KUVFyWllQVXZTbFpmR0JNaWZ1QVNB?oc=5",
+          "title": "美, 유학생 비자 4년 제한... 한국인 2만명 비상 걸렸다 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb0tjSExmbGx1RFdFMEdjamdiTVp6VHpzUTlJMzlJa1dNM1VlcXFJNl91WGFGcUlPYzJadzhPMVpITnlfNExHa1dXTmhSM1pTeXVBT3h2M1JnRTNUVlZWTDE2cV8wQzluSFc4Z3hfOGdBQkpJR1VNcXdtNXQ5SzJJRlRYTXhhOVFUSEx4aUZ4NUo4SEROTGN2WWdvQ0E4dw?oc=5",
           "source": "Google News",
-          "published": "Fri, 17 Jul 2026 00:25:00 GMT"
+          "published": "Fri, 17 Jul 2026 05:11:00 GMT"
         }
       ]
     },
@@ -492,88 +544,36 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "미국, 유학생 비자 4년 제한…한국인 2만여명 영향 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMmFqYzJOUHZkQjBXSXRfdEhSZFhNU19nYkV4QkIxSDVOU1VjZnlKbldLVjJuSlZOLW9DNW5iVzJtOFJOWWoxdGpFRVV6bkhHaUtvblN0bE1zTXZfS3lzd1VEU0YxWGtfMTN4NE9KUVFyWllQVXZTbFpmR0JNaWZ1QVNB?oc=5",
+          "title": "美, 유학생 비자 4년 제한... 한국인 2만명 비상 걸렸다 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb0tjSExmbGx1RFdFMEdjamdiTVp6VHpzUTlJMzlJa1dNM1VlcXFJNl91WGFGcUlPYzJadzhPMVpITnlfNExHa1dXTmhSM1pTeXVBT3h2M1JnRTNUVlZWTDE2cV8wQzluSFc4Z3hfOGdBQkpJR1VNcXdtNXQ5SzJJRlRYTXhhOVFUSEx4aUZ4NUo4SEROTGN2WWdvQ0E4dw?oc=5",
           "source": "Google News",
-          "published": "Fri, 17 Jul 2026 00:25:00 GMT"
+          "published": "Fri, 17 Jul 2026 05:11:00 GMT"
         }
       ]
     },
     {
-      "word": "제한한국인",
+      "word": "제한",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "미국, 유학생 비자 4년 제한…한국인 2만여명 영향 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMmFqYzJOUHZkQjBXSXRfdEhSZFhNU19nYkV4QkIxSDVOU1VjZnlKbldLVjJuSlZOLW9DNW5iVzJtOFJOWWoxdGpFRVV6bkhHaUtvblN0bE1zTXZfS3lzd1VEU0YxWGtfMTN4NE9KUVFyWllQVXZTbFpmR0JNaWZ1QVNB?oc=5",
+          "title": "美, 유학생 비자 4년 제한... 한국인 2만명 비상 걸렸다 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb0tjSExmbGx1RFdFMEdjamdiTVp6VHpzUTlJMzlJa1dNM1VlcXFJNl91WGFGcUlPYzJadzhPMVpITnlfNExHa1dXTmhSM1pTeXVBT3h2M1JnRTNUVlZWTDE2cV8wQzluSFc4Z3hfOGdBQkpJR1VNcXdtNXQ5SzJJRlRYTXhhOVFUSEx4aUZ4NUo4SEROTGN2WWdvQ0E4dw?oc=5",
           "source": "Google News",
-          "published": "Fri, 17 Jul 2026 00:25:00 GMT"
+          "published": "Fri, 17 Jul 2026 05:11:00 GMT"
         }
       ]
     },
     {
-      "word": "2만여명",
+      "word": "한국인",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "미국, 유학생 비자 4년 제한…한국인 2만여명 영향 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMmFqYzJOUHZkQjBXSXRfdEhSZFhNU19nYkV4QkIxSDVOU1VjZnlKbldLVjJuSlZOLW9DNW5iVzJtOFJOWWoxdGpFRVV6bkhHaUtvblN0bE1zTXZfS3lzd1VEU0YxWGtfMTN4NE9KUVFyWllQVXZTbFpmR0JNaWZ1QVNB?oc=5",
+          "title": "美, 유학생 비자 4년 제한... 한국인 2만명 비상 걸렸다 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb0tjSExmbGx1RFdFMEdjamdiTVp6VHpzUTlJMzlJa1dNM1VlcXFJNl91WGFGcUlPYzJadzhPMVpITnlfNExHa1dXTmhSM1pTeXVBT3h2M1JnRTNUVlZWTDE2cV8wQzluSFc4Z3hfOGdBQkpJR1VNcXdtNXQ5SzJJRlRYTXhhOVFUSEx4aUZ4NUo4SEROTGN2WWdvQ0E4dw?oc=5",
           "source": "Google News",
-          "published": "Fri, 17 Jul 2026 00:25:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "영향",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "미국, 유학생 비자 4년 제한…한국인 2만여명 영향 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMmFqYzJOUHZkQjBXSXRfdEhSZFhNU19nYkV4QkIxSDVOU1VjZnlKbldLVjJuSlZOLW9DNW5iVzJtOFJOWWoxdGpFRVV6bkhHaUtvblN0bE1zTXZfS3lzd1VEU0YxWGtfMTN4NE9KUVFyWllQVXZTbFpmR0JNaWZ1QVNB?oc=5",
-          "source": "Google News",
-          "published": "Fri, 17 Jul 2026 00:25:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "12월",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "李대통령 “12월 3일 ‘국민주권의날’로 지정...빛의혁명 정신 계승할것” - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUXdPejdmakxZUG1YaTN3eHZJSzNpc2lseHMyV0VxSjNEak81ZlhhdXZQZXlBTF9BOXoyOUlJM0x2VVl2VzhKa3prdlhmNlF3c1hrX2pvaHdHU3ZpMVczQzFvd0poQmswOXZRMmVLOHFnQmQ4ckl1SUQ2MW51Mmg5TTdlVmhNekxtd3RfSTdyNDU?oc=5",
-          "source": "Google News",
-          "published": "Fri, 17 Jul 2026 01:27:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "3일",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "李대통령 “12월 3일 ‘국민주권의날’로 지정...빛의혁명 정신 계승할것” - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUXdPejdmakxZUG1YaTN3eHZJSzNpc2lseHMyV0VxSjNEak81ZlhhdXZQZXlBTF9BOXoyOUlJM0x2VVl2VzhKa3prdlhmNlF3c1hrX2pvaHdHU3ZpMVczQzFvd0poQmswOXZRMmVLOHFnQmQ4ckl1SUQ2MW51Mmg5TTdlVmhNekxtd3RfSTdyNDU?oc=5",
-          "source": "Google News",
-          "published": "Fri, 17 Jul 2026 01:27:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "국민주권의날",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "李대통령 “12월 3일 ‘국민주권의날’로 지정...빛의혁명 정신 계승할것” - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUXdPejdmakxZUG1YaTN3eHZJSzNpc2lseHMyV0VxSjNEak81ZlhhdXZQZXlBTF9BOXoyOUlJM0x2VVl2VzhKa3prdlhmNlF3c1hrX2pvaHdHU3ZpMVczQzFvd0poQmswOXZRMmVLOHFnQmQ4ckl1SUQ2MW51Mmg5TTdlVmhNekxtd3RfSTdyNDU?oc=5",
-          "source": "Google News",
-          "published": "Fri, 17 Jul 2026 01:27:00 GMT"
+          "published": "Fri, 17 Jul 2026 05:11:00 GMT"
         }
       ]
     }
