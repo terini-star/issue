@@ -1,112 +1,43 @@
 {
   "language": "en",
-  "last_updated": 1784412037.2105613,
+  "last_updated": 1784419138.0839527,
   "count": 40,
   "trends": [
     {
-      "word": "Outbreak",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Taylor Farms launches recall in 27 states after iceberg lettuce tied to outbreak - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWU1fVTJtSDA3Z1BhVEdSaE96MmstME5pd2ZfNDZzeHVkYWJSSjhreE84aE41cTQwZWd5WDlDbndPME8yTnc2U0V1N2kwWWFNa1JVYVAtVlhJMVRkRW0wdkxLQVpFeFZyYlI3ampIRzQzclEzUGVSTV9NbThFdGtwbXdGV0FaamVRcmQxUlZDV0NMOGdyU0tuaGk1U05ZMWJzYkZZTzdPY0tUcXdrMjhVM01hWUF5cVpzdnZDcURn?oc=5",
-          "source": "Google News",
-          "published": "Sat, 18 Jul 2026 20:44:10 GMT"
-        },
-        {
-          "title": "Trump’s deep public health cuts hinder response to record US cyclosporiasis outbreak - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZUpQV0FvWlJKV1VnTWt5M2dDODM3S01TOFM3VHpqMUF6NU44UVd6cVdEZmtLcS1xclpiNG1OXzRQWDVsZmZ5YUhwVVdOOHl5eDJVbmkyamU3YWZ0NGk5NzdZNFFFMEV0TGJ4aFhlaXJNYXhCNGtPdEZYUHJZWkFnT0U1Yw?oc=5",
-          "source": "Google News",
-          "published": "Sat, 18 Jul 2026 14:51:00 GMT"
-        },
-        {
-          "title": "First death reported in Legionnaires’ disease outbreak in New York City - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcHB5WEd0SldFUTlBczgxX1U5M1Y3UEFiZEdxeUx2NllmOENFbXJyeFNmWEpaZjExRU03NHBoV3dpQkJGbkhrZUxfcWJkbGhlbzIxZzNkVnZJYXAxLXZQUjVMWjd0UFlVQUp5TGliWU9LNkI5bzRDNldSTC1PZTJCNFZNSnVsMkdFSXVKbkN0LWtnUVk?oc=5",
-          "source": "Google News",
-          "published": "Sat, 18 Jul 2026 00:08:42 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Open",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Google is open-sourcing its 3D emoji - The Verge",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85Q1BjS052a3NmQm0yZVFTV2s4cmN5TG41Wi1OaXdKLVRlN1NzenB2YkFob2tfU1g4RVFQa0tWWWNhRkxpZWhjd05QWUItV2Z5NXFtbk9iZkZBaFFWTTZVRG9JVHlVVFE4OUIwXzdzUER4NE53?oc=5",
-          "source": "Google News",
-          "published": "Sat, 18 Jul 2026 16:40:55 GMT"
-        },
-        {
-          "title": "Rory McIlroy blasts Bryson DeChambeau for holding The Open ‘hostage’ over penalty chaos: 'It is performative' - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZnJ5N1J3aWpneE51OGtRcGlFclByMEt2clJNcnhUS1dxWWw1dDRiRDRnS2p6a3lqOGxvb09BMG5QWkU4ZDlpZElqVjFxUWlsWmxGdzdkYS1reUZVYUVyZlhPTFpyZ0JCT0stU2dJOElNYUhWTVU2MF9zRlpPem5ZbzdORG5wOHZGeE1sbnVzWUprelFOU3FZY2xvay1kOVhFZ3RLaTFsTV83bl9WQkZSQ2s0UWNGb2fSAbwBQVVfeXFMTXpTMjN5NHZuV1Zha2lsc1lvdnNlckZQcjd0UkRWZVNIdFRLaTBWN1dhektycFJrekpEbkZsRUllRDMzdl9SUWNhaVllclczVkFQMUhvVjVwN2lqaXJMMnVxZEEtRF9JUzBtcnQ4bDI2Tm1ITkZTNkZQY0FKUDRSV0hzR0t2Q09hNk1QMXY2WmdXR2ZzOW5yWWZRTEdLalN6d0p6eHkyWFBUV0NjdjVVOEZtbTZ1YXFIcm0wT2E?oc=5",
-          "source": "Google News",
-          "published": "Sat, 18 Jul 2026 21:01:38 GMT"
-        },
-        {
-          "title": "Ryan Fox Makes History, Ties Major Championship Record With 3rd-Round 62 at 2026 British Open - Bleacher Report",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdkhpZVNwUkllN25NT2J0UTBJaUdkT3JCcTYtd2VtMkhYdHVQQ2R5Y25rOFRvdklmcV8xYWI4dGRSMlFhTlpOcXd4STg0QlUycFV1RHZZRHk5Rm9Ba3JiMU5fZ0tLUzdxdTlRU09leWpTR2otUWI5dGJwYnNMeXBBTFcwT1QzNkxtOUtUZ2xHN3JyX21KZDlVMldHNWwwRVNlYU1odDVFRXZrSENuWU5qaGNwbnk3ZndSYjFjdmhYZW11YXNlQmN6UQ?oc=5",
-          "source": "Google News",
-          "published": "Sat, 18 Jul 2026 14:55:09 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Live",
+      "word": "Strikes",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Live updates: US service members killed in Jordan during a week of renewed fighting with Iran - CNN",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtMGlzV0M5eFNoa21PNkMyc0xxNmZTOEpMOU5Lek9MNFpvOUc0a21SbkpMOFpjbXhzVEtMU0o3SG42UHZjUl8wMHdvSzcxbE1lbzE5dnBhaDRtbFRINzVxLWdpQ1l1Z0YtRG9yejdR?oc=5",
+          "title": "Two U.S. service members killed in Jordan and another is missing after Iranian strikes, military says - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYVZJNzRoQ2hxRHpadVl0X21Na205RFRoZ1dfcnFPUnV2LXVLQUkxNl9NTzZhMFlKSUd3cF8zTHd0OXpMS1htRU85QTF6QXFRU3ZnQ3lxZzRrVWg5MWdKNWRZdGlnLW5Wd1JsMG5mYzFTS1UyWWZIUDhDYlptVFBmbkw5WG5EN2EwM0RGUHhQNTljcTRTZ3VNLUM0ZUE3VmJUMy1sRm1CQmlwVHBkd3NFU2x1MWQxcjFT?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 20:41:00 GMT"
+          "published": "Sat, 18 Jul 2026 21:42:02 GMT"
         },
         {
-          "title": "World Cup live updates: France vs. England lineups, preview for third-place game - Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUkphVkx3eGFZWkQzd0N2UjFhMlNNS0dJSmtBeHc4XzNuWEFxZERXd0t0TXo1b3FjcElLY2NEZkE0ZmhqWmNqYjBaX3ZGVmVrdTBHdFpieXd2V09BREY5MzUwY1FfeG9zdk5nRWRhUHBiUmR1M0RFZjFFTUhhbHM4VEdpTTJCc0dpNW9CZWEwUUZlaUpIVnJlLVd4azRpeVJfVmx0aEQyNUk3YW0wZ21ad1REZUM3T3c?oc=5",
+          "title": "US military targets Iran with latest wave of strikes - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRW1HM0tnNnRlejk2WUp0LURrTzA2RERyQUZvZ3g3SGRCeVJWQUtYUl8zbWZQSzlkSDc0WmdLWlY1VTFmTG1DejlFbnV0ejNGbFNkQ2tfdU96dTlsRHI4Z1RsbG9NM2R6TXlENU55RmVnZVR2Umk2Y3o0MWw3bUJnVXI0UmE1Zw?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 21:52:49 GMT"
+          "published": "Sat, 18 Jul 2026 19:11:17 GMT"
         }
       ]
     },
     {
-      "word": "Updates",
+      "word": "Military",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Live updates: US service members killed in Jordan during a week of renewed fighting with Iran - CNN",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtMGlzV0M5eFNoa21PNkMyc0xxNmZTOEpMOU5Lek9MNFpvOUc0a21SbkpMOFpjbXhzVEtMU0o3SG42UHZjUl8wMHdvSzcxbE1lbzE5dnBhaDRtbFRINzVxLWdpQ1l1Z0YtRG9yejdR?oc=5",
+          "title": "Two U.S. service members killed in Jordan and another is missing after Iranian strikes, military says - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYVZJNzRoQ2hxRHpadVl0X21Na205RFRoZ1dfcnFPUnV2LXVLQUkxNl9NTzZhMFlKSUd3cF8zTHd0OXpMS1htRU85QTF6QXFRU3ZnQ3lxZzRrVWg5MWdKNWRZdGlnLW5Wd1JsMG5mYzFTS1UyWWZIUDhDYlptVFBmbkw5WG5EN2EwM0RGUHhQNTljcTRTZ3VNLUM0ZUE3VmJUMy1sRm1CQmlwVHBkd3NFU2x1MWQxcjFT?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 20:41:00 GMT"
+          "published": "Sat, 18 Jul 2026 21:42:02 GMT"
         },
         {
-          "title": "World Cup live updates: France vs. England lineups, preview for third-place game - Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUkphVkx3eGFZWkQzd0N2UjFhMlNNS0dJSmtBeHc4XzNuWEFxZERXd0t0TXo1b3FjcElLY2NEZkE0ZmhqWmNqYjBaX3ZGVmVrdTBHdFpieXd2V09BREY5MzUwY1FfeG9zdk5nRWRhUHBiUmR1M0RFZjFFTUhhbHM4VEdpTTJCc0dpNW9CZWEwUUZlaUpIVnJlLVd4azRpeVJfVmx0aEQyNUk3YW0wZ21ad1REZUM3T3c?oc=5",
+          "title": "US military targets Iran with latest wave of strikes - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRW1HM0tnNnRlejk2WUp0LURrTzA2RERyQUZvZ3g3SGRCeVJWQUtYUl8zbWZQSzlkSDc0WmdLWlY1VTFmTG1DejlFbnV0ejNGbFNkQ2tfdU96dTlsRHI4Z1RsbG9NM2R6TXlENU55RmVnZVR2Umk2Y3o0MWw3bUJnVXI0UmE1Zw?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 21:52:49 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Threat",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Sinister new threat in West Hollywood after water main break devastated city - New York Post",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYnVMUk1XTkZ4dE1KdDVxN1RVSEp1OE1Ta1luRWpjU2xpZVNWbDB0eHZ3NGl4SmlNNWFmaFdBLUdWREQ1Wjdia3NMR1cwMzFsajdBWFRRU21VZk95djRFZEdTNDhpUHZWYjBaWldfUlNjRTliQWRQcm9ha2xCTVg0d2xFZ1hCZWZaWTJSVTROQjc0U05GeGZreHFYdGpidWR0VUl3Z3lJbzhPSVVDT2RxX1NDRHVOMnZWNXU0UnNfa1lRRkpXTXdOdg?oc=5",
-          "source": "Google News",
-          "published": "Sat, 18 Jul 2026 18:12:00 GMT"
-        },
-        {
-          "title": "Thunderstorms Bring Threat of Strong Winds to Northeast - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YamQwdlIzLUxrNGl3V0ZxTUtDSTR1QjV1ZS15SWRkQ0dLX3hPbldqamlZX1NXUVRidjhyaGJCNzRJWmlkUVcwektOQmZvcWdFMmdveVFJRUc0cTZzUTUzSjM5b3JCcXQ4Y3NKNWNLNkl3Y0lmOUtCODEtSQ?oc=5",
-          "source": "Google News",
-          "published": "Sat, 18 Jul 2026 20:33:31 GMT"
+          "published": "Sat, 18 Jul 2026 19:11:17 GMT"
         }
       ]
     },
@@ -122,48 +53,29 @@
           "published": "Sat, 18 Jul 2026 18:12:00 GMT"
         },
         {
-          "title": "First death reported in Legionnaires’ disease outbreak in New York City - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcHB5WEd0SldFUTlBczgxX1U5M1Y3UEFiZEdxeUx2NllmOENFbXJyeFNmWEpaZjExRU03NHBoV3dpQkJGbkhrZUxfcWJkbGhlbzIxZzNkVnZJYXAxLXZQUjVMWjd0UFlVQUp5TGliWU9LNkI5bzRDNldSTC1PZTJCNFZNSnVsMkdFSXVKbkN0LWtnUVk?oc=5",
+          "title": "LIVE! UFC Oklahoma City Results: DDP vs. Usman - MMA Fighting",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMHJzS0xJYjhibm5teFZ1MGt1eENoWkhZQVVBWjNtZElkX1hMaTFlUFcwYjNUTF83cEdlUjI4Y2Jvc3RfVlQyMnpuNGtBVXRRS0RjVlRUNnJCdFcyZmlyYVNkTmxZRFNZcGN4Q0hURGpFZDZKcjgwQldUblJlczV4M3RYTQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 00:08:42 GMT"
+          "published": "Sat, 18 Jul 2026 21:00:00 GMT"
         }
       ]
     },
     {
-      "word": "Pentagon",
+      "word": "Race",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Doctors question evidence behind Pentagon plan for testosterone screening - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM2tINkpGaVpTUGN0MDRDaEs3TmluR0dKaTEwYWZWX2Q2dXVCUDVGcXFKbUFUaHZqYTJwcVhuWG1iLU1obHp1OXhmc3RmLXpETzVaN0MyQWlhMDNzZUpZOWhsQzdRc0Fta29UTHZNbWxrOGpxSUVDLUtycDlVMnlwdlBTbXhTSVdneC04NzJueFM5cGMw?oc=5",
+          "title": "Rep. Ralph Norman launches campaign to replace Lindsey Graham in Senate race - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSENLV29YSVptMGRhNjFQVUFIMW0xVTcyRjRWNFd1aGFrU3JiYzdvZmZiQmU0M0hpQnE2WUdORVFLWF9mU1lybVFjSHZ2QkdRd2hkeFhMd193V1pVOHBybG9qc01pOFpkaktqb1BzUm5nUFJ0Z3JobjVndHF1bVAyQXpXVkt1MV9zenpjRGtoX2hPU0VMV05iRl93R0c3Y0JJd2ZqbEV1Tmc5ck5GTUw2ZjAzemxJTnlrWkE?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 20:43:00 GMT"
+          "published": "Sat, 18 Jul 2026 19:20:39 GMT"
         },
         {
-          "title": "SpaceX and Pentagon Discuss Data-Center Deal - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWTZudU41MERhcWNoYVRDdDNsOUVWUEIzeEhPcFhkSEVnMFczSEI2d2ZnbWFZbHdWbXp1LUY3ZWxDSEYzMTdwM0FqNGJZbVpGOWlGYWtiZ0NjTDZpbjVEN3UzekhEWDMxb1ZUdGhZd2dKVHJxdnc2RE82UUI5NHhHVHprYnFrUkl4WnpyUWlKMGh1QQ?oc=5",
+          "title": "David Crowley reenters Wisconsin governor’s race with Evers endorsement - Politico",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaVc4cXlpd2RGN0FWZmp0b3R3TFl5R1hGbDBrenZEUXFnbVJFTkhrUVJNcGY3Qk85S0U0WnlyNnUwUF9mUG5SZzFOT2MySV9TMl9PS1Njcm5pQnFhNzN6TjlWQUVNXzc4SEU0c0RzUDJ6MTFBNWVCaWZCRlpRYzJwTlFraEFvSUNxenB3SnEtNjNtci1qOVlwVlFKLXE1Z2R1WVJ2OEl4MkZOT1JOTncxLUtMVXNDaTRxQUREag?oc=5",
           "source": "Google News",
-          "published": "Fri, 17 Jul 2026 21:47:05 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Data",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Data centers have united Americans of both parties in a shared hatred - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR19mdHcyX3U4a0k0QWU2Z3k0VFdzWk5YTzlsS19Bdm5PeWRoanY5OWV5V2daSlYwTWhvZXhsRFpZbWFIaTJMZ0JHWmNucjU3N0Z3TkJPVkZTTi1wZ1p1d0lOc0ZlRFg0WjJZT0NDYWR6aTlPRUdmSS1PaUw1MDhQZFFSNXJDTTBhc3BhRG0tcnVKalUzTDA3Nlkxa0pxZDlS?oc=5",
-          "source": "Google News",
-          "published": "Sat, 18 Jul 2026 16:00:00 GMT"
-        },
-        {
-          "title": "SpaceX and Pentagon Discuss Data-Center Deal - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWTZudU41MERhcWNoYVRDdDNsOUVWUEIzeEhPcFhkSEVnMFczSEI2d2ZnbWFZbHdWbXp1LUY3ZWxDSEYzMTdwM0FqNGJZbVpGOWlGYWtiZ0NjTDZpbjVEN3UzekhEWDMxb1ZUdGhZd2dKVHJxdnc2RE82UUI5NHhHVHprYnFrUkl4WnpyUWlKMGh1QQ?oc=5",
-          "source": "Google News",
-          "published": "Fri, 17 Jul 2026 21:47:05 GMT"
+          "published": "Sat, 18 Jul 2026 19:02:00 GMT"
         }
       ]
     },
@@ -173,16 +85,35 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "READ THE DOCUMENTS: White House releases election integrity files after Trump speech - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONnc0U2Y5SGtvU1JxeHlvVjJXZHFDcGhUOE5Rd1RBUXdZdUpoQ24yTUplTDBlYXRUMlF1VWRKVlZiSWFtRkktN1JpVWdvTlVGdHNMc0JpelNMdURhY2J5dGtpR3lsMktINGVYNG5vRDFuWm90a1gybXlrSHZBNzlXSEhRNXF4ckJkN191OGlmR0dSX1kxaVRCR1gxTmdhLWhNSDdhLXU3eWFxWmRGLVA2MVpn0gG3AUFVX3lxTE4zcmFzU09SZV94dXNDR1kzTk5UcVc3aWpmTldRSUl0VXByLXJmNjFHdzVaamF0a09OZGdxM0RyajNzRjBJVVZrRGNSWWpZcFU0emkydGhLSFg0eVVhcmNXTWRnRjdGZjRsaWtHdjFUZjNadGo2TFpDOG1vWk4ySVRFQkxPWi1VS2NMemlCSlhQVHRobHF5bHJKdVpZV3R6MWx3U0ZBaS1Da1ZRVno3d0lrWmR3dmN3dw?oc=5",
-          "source": "Google News",
-          "published": "Sat, 18 Jul 2026 15:56:46 GMT"
-        },
-        {
           "title": "Venezuela quake death toll tops 5,000 as IMF releases emergency aid - Al Jazeera",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQlZySDRLbXY3eGhXOU92Rlh2ajE1cmJPN1poeE9zdlpvR3p5VEhBSVFXd21BMUFZTHNmN0NFREVIc21ZdXdNUEdTV3lKd0oyazJzTzVmcy1rTzFWNmVOM05peHFqN1k5bWdObG04aTRlTHhLWjBmMVRLeWM5bG5BcGZzNDJ1ZzM5NDRnMTdWZDdaaXFOblBldFlJTC1CVkhTRVd5SXN4V1l4VlnSAbABQVVfeXFMTVc4bEVGdUpsRzlhRm5wd2ZiZ2x3QVlRU29XNDQtVnJ6VGdTNnE2U0dlbUxYekpfdXljUWZtTVQ5NjNzNExHOGZHUl9yTWUyLW94TklIaGZ6S0dPWmpCTG0yYXVSaDdsOFUzZ1hNWDNyeVRXSENoaXQ4RG5IZ2MxdTVzX2FhcGRlSVZkUWdkZXdNLXByTHpWUndyVEdjY254ai1rUlNmcGZPU0ZvRkxHdS0?oc=5",
           "source": "Google News",
           "published": "Sat, 18 Jul 2026 15:48:31 GMT"
+        },
+        {
+          "title": "Asus releases new gaming laptop globally with Mini LED display and more powerful processor - Notebookcheck",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbkxia19JZGR4Y05NWml6UjBlRml1VklJVllJbHl3cFFocXZ1ZnFVcUVpT3pma1FZUl9Ld3Jlc084Q3hfd05zaDVrWUVuVWl2eTVkbEY3NzJrOS15eVRzdXplRU8wakFHUVR0X0ZtY1ZVdzNjRWN2SjI5U1h1bE9MVkZWcEQ1cWdER25rOVViQ0xvMDN6UU1tellSXzEyY3FCNTlWeTZPT25XUTZ4ZGRkZlQ2d0ZBcG1CaEhEendkWlA3QTZzYS1LcFVjM0lMSk82?oc=5",
+          "source": "Google News",
+          "published": "Sat, 18 Jul 2026 08:17:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Cost",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Andy Burnham to scrap digital ID to focus on cost of living in first major policy pledge - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JOGZCOXhtTlVfcGVZQVc4YUVOV1hBcDRiQ1RsdGZaTHAtbXc1cVpnNUwzR0xId1dpRHJPekdXR05WVHZsSzg1RmJhZ0lLUm5MalAwd3FDbUxqdw?oc=5",
+          "source": "Google News",
+          "published": "Sat, 18 Jul 2026 20:15:26 GMT"
+        },
+        {
+          "title": "Warren Buffett warned investors to be careful, calling out gambling in markets and the cost of AI - Business Insider",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMGp2OTVtNV9VNDM1bWt2LXgwbThMR3N5d3dXMUUtZTVVUEhhdE5kd0N6bkE1dmR2S1RZUzJleVdVSXdTOFNiaE1hRnJnaGpsTHJ2Rlp6UjdlVm00R1doZFRPdEtOQUlEMU9VVFlhRXIyQkoxaW1RdVJYZHpsdWxIODdTTTE2a2liNHNZTlNjVjA5Y0ZKSlIyUjNTLTNma1ZlTlJUQ0dTdGJFWGV3bzd1cDdaa09yLXFOYUE?oc=5",
+          "source": "Google News",
+          "published": "Sat, 18 Jul 2026 09:15:02 GMT"
         }
       ]
     },
@@ -192,54 +123,73 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "READ THE DOCUMENTS: White House releases election integrity files after Trump speech - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONnc0U2Y5SGtvU1JxeHlvVjJXZHFDcGhUOE5Rd1RBUXdZdUpoQ24yTUplTDBlYXRUMlF1VWRKVlZiSWFtRkktN1JpVWdvTlVGdHNMc0JpelNMdURhY2J5dGtpR3lsMktINGVYNG5vRDFuWm90a1gybXlrSHZBNzlXSEhRNXF4ckJkN191OGlmR0dSX1kxaVRCR1gxTmdhLWhNSDdhLXU3eWFxWmRGLVA2MVpn0gG3AUFVX3lxTE4zcmFzU09SZV94dXNDR1kzTk5UcVc3aWpmTldRSUl0VXByLXJmNjFHdzVaamF0a09OZGdxM0RyajNzRjBJVVZrRGNSWWpZcFU0emkydGhLSFg0eVVhcmNXTWRnRjdGZjRsaWtHdjFUZjNadGo2TFpDOG1vWk4ySVRFQkxPWi1VS2NMemlCSlhQVHRobHF5bHJKdVpZV3R6MWx3U0ZBaS1Da1ZRVno3d0lrWmR3dmN3dw?oc=5",
+          "title": "Trump Media pitched $100,000 monthly fee for fastest feed of U.S. president's posts, sources say - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLWxuQ1JBdEdrNC1Ld3Y0RjlmNzJHVXpqWUd6MzlyMHlCbUJxdHg0U1ZxUGtGcF9OV2VrQ1VuQmNQSDVCMFZKQjkybzN1dU1EdjdlOVpwX3pFM3NuZkY4clhwRVBnMlg0VFRfa2ozbm9IeGdBZXZpeG9FSkJlc2RscklhNkRpOUJpcXhnb05peXk1TU04d3JMQWtPS2JqQXNtSDBBUUlZeHDSAa4BQVVfeXFMT3dFYWJ4Y1VUMG16SENGTExPNXZ1ZFUweWFVbjNKVWY4X1lTVmxVSzREcEtBVGVpLVdiMy1ORU11WFBIVXV6YlRfbzBTZFBpSFlpMk5zeHJjWERUT19YekRiTDZObnRQVkZuSWlZSXlCRmprZDV2NDRtZEtRendDVGwzaF83ZzNBZFo1bThFY1VxVlhUOUE5Z2hGYnp2d2tTNVBJdW93aWJ4SkFWZDZ3?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 15:56:46 GMT"
+          "published": "Sat, 18 Jul 2026 13:57:16 GMT"
         },
         {
           "title": "Trump’s deep public health cuts hinder response to record US cyclosporiasis outbreak - The Guardian",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZUpQV0FvWlJKV1VnTWt5M2dDODM3S01TOFM3VHpqMUF6NU44UVd6cVdEZmtLcS1xclpiNG1OXzRQWDVsZmZ5YUhwVVdOOHl5eDJVbmkyamU3YWZ0NGk5NzdZNFFFMEV0TGJ4aFhlaXJNYXhCNGtPdEZYUHJZWkFnT0U1Yw?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 14:51:00 GMT"
+          "published": "Sat, 18 Jul 2026 21:21:00 GMT"
         }
       ]
     },
     {
-      "word": "Death",
+      "word": "Processor",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Venezuela quake death toll tops 5,000 as IMF releases emergency aid - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQlZySDRLbXY3eGhXOU92Rlh2ajE1cmJPN1poeE9zdlpvR3p5VEhBSVFXd21BMUFZTHNmN0NFREVIc21ZdXdNUEdTV3lKd0oyazJzTzVmcy1rTzFWNmVOM05peHFqN1k5bWdObG04aTRlTHhLWjBmMVRLeWM5bG5BcGZzNDJ1ZzM5NDRnMTdWZDdaaXFOblBldFlJTC1CVkhTRVd5SXN4V1l4VlnSAbABQVVfeXFMTVc4bEVGdUpsRzlhRm5wd2ZiZ2x3QVlRU29XNDQtVnJ6VGdTNnE2U0dlbUxYekpfdXljUWZtTVQ5NjNzNExHOGZHUl9yTWUyLW94TklIaGZ6S0dPWmpCTG0yYXVSaDdsOFUzZ1hNWDNyeVRXSENoaXQ4RG5IZ2MxdTVzX2FhcGRlSVZkUWdkZXdNLXByTHpWUndyVEdjY254ai1rUlNmcGZPU0ZvRkxHdS0?oc=5",
+          "title": "Google might not kneecap the Pixel 11a with an old processor - The Verge",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yQUIzeXc0NEhfbUJQYUtBV281alpBc0Rpb1BqQXN5T29SV1FYUC02Ny1IajRfVDBBV2p4YUlfTVhwM0UwTGdObDFSSlZHQldCdzV5U01HeGFSZ1hoZHphbnAzMG5NWnpUTm9zNVZwdWZqS01ubzZF?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 15:48:31 GMT"
+          "published": "Sat, 18 Jul 2026 18:25:08 GMT"
         },
         {
-          "title": "First death reported in Legionnaires’ disease outbreak in New York City - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcHB5WEd0SldFUTlBczgxX1U5M1Y3UEFiZEdxeUx2NllmOENFbXJyeFNmWEpaZjExRU03NHBoV3dpQkJGbkhrZUxfcWJkbGhlbzIxZzNkVnZJYXAxLXZQUjVMWjd0UFlVQUp5TGliWU9LNkI5bzRDNldSTC1PZTJCNFZNSnVsMkdFSXVKbkN0LWtnUVk?oc=5",
+          "title": "Asus releases new gaming laptop globally with Mini LED display and more powerful processor - Notebookcheck",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbkxia19JZGR4Y05NWml6UjBlRml1VklJVllJbHl3cFFocXZ1ZnFVcUVpT3pma1FZUl9Ld3Jlc084Q3hfd05zaDVrWUVuVWl2eTVkbEY3NzJrOS15eVRzdXplRU8wakFHUVR0X0ZtY1ZVdzNjRWN2SjI5U1h1bE9MVkZWcEQ1cWdER25rOVViQ0xvMDN6UU1tellSXzEyY3FCNTlWeTZPT25XUTZ4ZGRkZlQ2d0ZBcG1CaEhEendkWlA3QTZzYS1LcFVjM0lMSk82?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 00:08:42 GMT"
+          "published": "Sat, 18 Jul 2026 08:17:00 GMT"
         }
       ]
     },
     {
-      "word": "Samsung",
+      "word": "Open",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Samsung's Galaxy Watch 9 just leaked in full, and it's not the chip that stands out - PhoneArena",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdnBRaUtxQWdyWmMyWVRHTDFKeksxdGtsb1UzbTIxbTJua3REMDNoa0hnaFhSNWkxS3QzaVpEazY0Ni0wb0QyalBzX3dNMmVmdXZWSk0wUkpxVFFTLUh5TGRDNEFHZTJXQ0lQQkdhZzZheWRLTElBYkpheDBMeTZGdHBjcWpvV25IaDY0WGd4MnBhN1ZXR3ZPbF9GNzh1dXhzTkRhWmhtVVlJUTBtenliaE5HbVJNNmowdVhrdENB?oc=5",
+          "title": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants - The Hacker News",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVXROVzNwVnpKQkkxVFk1UktfU3J3MFZmSHRGcUlIZEVkVnhTdktOUVpudlhLS2xwc3ctSDM0VXU0UFdZOUVnZnpqTEZJMHRVWmVLeVlTbnhsVEQ2bTRXazA3SElWS2ZJVG5tUGphRENMRE5JZXlWRUJBUzc4aExKaQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 15:36:50 GMT"
+          "published": "Fri, 17 Jul 2026 11:44:00 GMT"
         },
         {
-          "title": "Samsung's Freestyle+ Projector Is Now Available For $1,200 - Engadget",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3WkZVZG5hS2sxTkdxWjF4NnhYdC13MmhINUhhVnJSQnRIdUFid2NHS1dNTFE3V19ZNHE4bk1JOHI3TlRnSmxGSW5UckFkYUJ2cjJLS25KLUtlME11U19ONzFWblRjY1ZBdGNTdXNBdkVVd2l5?oc=5",
+          "title": "McIlroy accuses DeChambeau of trying to ‘hold the tournament hostage’ at British Open - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa2M0cFItTzMtVkR2Yk1LSC1lXzlKZktQQk1IVzRPcDB6blJsWnhZRXJxSEV2U19vbVIwNGhNbmJ2RkotUWFpWGJDbjZEaVpjMGNobnk5aTd5bGEtYTg3NFRuMVpIRzNwWUhpM0RvWVlTZ3lYNUJxYjVzbUFaN2ZEN1JfTDBIOEV3cGY1eU83NXk5Mi03eUE?oc=5",
           "source": "Google News",
-          "published": "Fri, 17 Jul 2026 15:00:00 GMT"
+          "published": "Sat, 18 Jul 2026 17:56:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Silence",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Tom Segura’s estranged wife, Christina Pazsitzky, breaks silence on their ‘really difficult’ split - Page Six",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTkxvRjFVdWs2eXJOS1NYYnYzZVVQclhHY2twN1lvaWtmMWlEVVFaUDFDOXAxY29mbWcyZmNJMjltVk95YkgtUldkeXZZQU1yekJMVjZmRVZiUFdaRjFRNTBsY1VxTkJLWXJJdmhsZDJpN08zZ2ZsRXMxN0x1cXZzV2t1LVd6Yk1qTGp0ckluSTRheXR1MVdUTGJOOTkxSXBZSXI1NkNtUDdIX3dFWENnZWhqMVQ1NUx1?oc=5",
+          "source": "Google News",
+          "published": "Sat, 18 Jul 2026 16:04:00 GMT"
+        },
+        {
+          "title": "Britney Spears’ Son Broke His Silence On Rumors That She’s Actually A Clone - BuzzFeed",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSmNGNTUtUm00eUlaZVROOENRSWdiM1lFSk5ZUzJnUVZqN2g5OFIxajJXVlhYakdnd08zYlpHX21fbmpnX19peFNmcWxCQ29pWU55bkV1UEN3OEM4SEdSUFVGblBHMVhNZ0Q4YkhLTzF3a0gwUEJqbkhsdUNWSGVkWmN5VHlncE82UzBz?oc=5",
+          "source": "Google News",
+          "published": "Sat, 18 Jul 2026 20:45:42 GMT"
         }
       ]
     },
@@ -255,29 +205,29 @@
           "published": "Sat, 18 Jul 2026 14:15:06 GMT"
         },
         {
-          "title": "World Cup live updates: France vs. England lineups, preview for third-place game - Yahoo Sports",
+          "title": "2026 World Cup: England holds off stunning France comeback to win high-scoring third-place match - Yahoo Sports",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUkphVkx3eGFZWkQzd0N2UjFhMlNNS0dJSmtBeHc4XzNuWEFxZERXd0t0TXo1b3FjcElLY2NEZkE0ZmhqWmNqYjBaX3ZGVmVrdTBHdFpieXd2V09BREY5MzUwY1FfeG9zdk5nRWRhUHBiUmR1M0RFZjFFTUhhbHM4VEdpTTJCc0dpNW9CZWEwUUZlaUpIVnJlLVd4azRpeVJfVmx0aEQyNUk3YW0wZ21ad1REZUM3T3c?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 21:52:49 GMT"
+          "published": "Sat, 18 Jul 2026 23:20:22 GMT"
         }
       ]
     },
     {
-      "word": "Record",
+      "word": "Found",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Ryan Fox Makes History, Ties Major Championship Record With 3rd-Round 62 at 2026 British Open - Bleacher Report",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdkhpZVNwUkllN25NT2J0UTBJaUdkT3JCcTYtd2VtMkhYdHVQQ2R5Y25rOFRvdklmcV8xYWI4dGRSMlFhTlpOcXd4STg0QlUycFV1RHZZRHk5Rm9Ba3JiMU5fZ0tLUzdxdTlRU09leWpTR2otUWI5dGJwYnNMeXBBTFcwT1QzNkxtOUtUZ2xHN3JyX21KZDlVMldHNWwwRVNlYU1odDVFRXZrSENuWU5qaGNwbnk3ZndSYjFjdmhYZW11YXNlQmN6UQ?oc=5",
+          "title": "How Antonelli found half a second to thwart Verstappen in Belgian GP qualifying - Autosport",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNmNhTGlyV0hUaDVrRFBJZHRWWmE2aEtwcWpZNi1FR0RNQklkWWZtb21BOElQcmdfanJhYXhRZnNYOEdwN3RVUzFNVFI1ZmVYSHd6eGJxNFVKa2FZaEZYVlU0Wl9hTzNWblE4RTZHODZPNkhpTk1uZkVkMWp2VThONWlXMGpOSU1oOUZMUy1QdDBSd3ptRU1fTHZ5aTh3WEFqb2s0UWV0eDhIV2ZRQ0NqSG40QUJxSW1VMmYzM0hheGg?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 14:55:09 GMT"
+          "published": "Sat, 18 Jul 2026 19:27:43 GMT"
         },
         {
-          "title": "Trump’s deep public health cuts hinder response to record US cyclosporiasis outbreak - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZUpQV0FvWlJKV1VnTWt5M2dDODM3S01TOFM3VHpqMUF6NU44UVd6cVdEZmtLcS1xclpiNG1OXzRQWDVsZmZ5YUhwVVdOOHl5eDJVbmkyamU3YWZ0NGk5NzdZNFFFMEV0TGJ4aFhlaXJNYXhCNGtPdEZYUHJZWkFnT0U1Yw?oc=5",
+          "title": "Life-friendly world? In first, atmosphere found on Earth-like planet in habitable zone - The Times of Israel",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR3JHTmUydnFqa1RDbkRMb0Y3TUJocXhTWmJyOW1IUHdaOThlVGMzcjlJSDFPQWw4R0VTZWc1Uks4eV9oZWdRQV90bzJEUmR0azFBdVU4Um5waV9MWlFZa09yZV91UlZnTWxscmZtVXVYOTFJOXFveU1pTkJ5VXJhZVZoY3pNdWlONkJqRWJlNm1lemlzQU9hcW43V3ZQU01KRzY2MmlCeDByY1Rid3ZTeHZpVlVXQdIBuwFBVV95cUxQT2xuQml3TXZHRzRhbFR3ZjV3OFJYYlVsSElZN242bWR6WTdYNy1xY2VTWTJ6Rk42WjVMeW85ZHFwaFIyX2RDU0czUXA5aG5ZSWhnWmY2MGRRYzk5U0JBRHNBU0RQOUVGdXZnOUJBOHFhandZcU9xbXpVNkFVdUpIOU5haHJDX0Y1RERIWGE4WkllenVfWlBMeFEzak9sUEVXV1djMTAza2VDdDlmOWdack9CYl90azJFR25Z?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 14:51:00 GMT"
+          "published": "Sat, 18 Jul 2026 15:40:53 GMT"
         }
       ]
     },
@@ -339,21 +289,40 @@
       ]
     },
     {
-      "word": "Reported",
+      "word": "Response",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "First death reported in Legionnaires’ disease outbreak in New York City - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcHB5WEd0SldFUTlBczgxX1U5M1Y3UEFiZEdxeUx2NllmOENFbXJyeFNmWEpaZjExRU03NHBoV3dpQkJGbkhrZUxfcWJkbGhlbzIxZzNkVnZJYXAxLXZQUjVMWjd0UFlVQUp5TGliWU9LNkI5bzRDNldSTC1PZTJCNFZNSnVsMkdFSXVKbkN0LWtnUVk?oc=5",
+          "title": "Trump’s deep public health cuts hinder response to record US cyclosporiasis outbreak - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZUpQV0FvWlJKV1VnTWt5M2dDODM3S01TOFM3VHpqMUF6NU44UVd6cVdEZmtLcS1xclpiNG1OXzRQWDVsZmZ5YUhwVVdOOHl5eDJVbmkyamU3YWZ0NGk5NzdZNFFFMEV0TGJ4aFhlaXJNYXhCNGtPdEZYUHJZWkFnT0U1Yw?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 00:08:42 GMT"
+          "published": "Sat, 18 Jul 2026 21:21:00 GMT"
         },
         {
-          "title": "As More Cases of Rare Cancer in Children from California Town Are Reported, Parents Say ‘This Is Not Random’ - Yahoo News Canada",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mVURHTndienozUl9yd3V0M2tDS1BvZW9jUzk4MWkzNzZmeWxSUUxMWng3aUZMN2NjZ3hHLVVtenpBdUQ4YnJsLXJqZUN3SGpDWkFZdmJWUnlUTjIwWUVKUWpoWTd0bnE4dWNPRC1DS0RZdTJDcHY2OW9IZ3I?oc=5",
+          "title": "Safety fears limit Ebola response in Congo, with more than 12 attacks recorded - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMmhpRkFVWVM5Z1hvQ3BCcmpEdzFPRXZnaFd6WFVqWW1WRE1xT3k4YVlTRThrRTFZSWZ4azk0aDQ0OUdRU1V2S2NEWW5zVjhXWWhPQlFmbUwweUg4ei1LNXVkYzlYeFFscHo4ak5xeVUtM3h6WTROdm1zMEFtUlJuMUI0NEhXRTJTMTJ5MUhNX1dJQU1mZGtSd21GaXZaLWw5dExSeXRXdDY?oc=5",
           "source": "Google News",
-          "published": "Fri, 17 Jul 2026 21:02:10 GMT"
+          "published": "Sat, 18 Jul 2026 17:02:05 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Outbreak",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump’s deep public health cuts hinder response to record US cyclosporiasis outbreak - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZUpQV0FvWlJKV1VnTWt5M2dDODM3S01TOFM3VHpqMUF6NU44UVd6cVdEZmtLcS1xclpiNG1OXzRQWDVsZmZ5YUhwVVdOOHl5eDJVbmkyamU3YWZ0NGk5NzdZNFFFMEV0TGJ4aFhlaXJNYXhCNGtPdEZYUHJZWkFnT0U1Yw?oc=5",
+          "source": "Google News",
+          "published": "Sat, 18 Jul 2026 21:21:00 GMT"
+        },
+        {
+          "title": "1 dead in Upper East Side Legionnaires' outbreak - Gothamist",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GTTlIeEZHU3JRZnI2TTE1STg5c3RqTU1ZOU9zZENsUDZOWFFSbUJlUk9zOWt6YjR2aG0wcm0wbUx3LWV0Y2liWDRjX0xNS3RnYlBDYWJyN29acG5TRk5nREIzb2haSU9IbUxxazI5MXd2VlNONGtyWEJORDFMQUE?oc=5",
+          "source": "Google News",
+          "published": "Sat, 18 Jul 2026 15:26:00 GMT"
         }
       ]
     },
@@ -363,10 +332,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Live updates: US service members killed in Jordan during a week of renewed fighting with Iran - CNN",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtMGlzV0M5eFNoa21PNkMyc0xxNmZTOEpMOU5Lek9MNFpvOUc0a21SbkpMOFpjbXhzVEtMU0o3SG42UHZjUl8wMHdvSzcxbE1lbzE5dnBhaDRtbFRINzVxLWdpQ1l1Z0YtRG9yejdR?oc=5",
+          "title": "Two U.S. service members killed in Jordan and another is missing after Iranian strikes, military says - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYVZJNzRoQ2hxRHpadVl0X21Na205RFRoZ1dfcnFPUnV2LXVLQUkxNl9NTzZhMFlKSUd3cF8zTHd0OXpMS1htRU85QTF6QXFRU3ZnQ3lxZzRrVWg5MWdKNWRZdGlnLW5Wd1JsMG5mYzFTS1UyWWZIUDhDYlptVFBmbkw5WG5EN2EwM0RGUHhQNTljcTRTZ3VNLUM0ZUE3VmJUMy1sRm1CQmlwVHBkd3NFU2x1MWQxcjFT?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 20:41:00 GMT"
+          "published": "Sat, 18 Jul 2026 21:42:02 GMT"
         }
       ]
     },
@@ -376,10 +345,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Live updates: US service members killed in Jordan during a week of renewed fighting with Iran - CNN",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtMGlzV0M5eFNoa21PNkMyc0xxNmZTOEpMOU5Lek9MNFpvOUc0a21SbkpMOFpjbXhzVEtMU0o3SG42UHZjUl8wMHdvSzcxbE1lbzE5dnBhaDRtbFRINzVxLWdpQ1l1Z0YtRG9yejdR?oc=5",
+          "title": "Two U.S. service members killed in Jordan and another is missing after Iranian strikes, military says - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYVZJNzRoQ2hxRHpadVl0X21Na205RFRoZ1dfcnFPUnV2LXVLQUkxNl9NTzZhMFlKSUd3cF8zTHd0OXpMS1htRU85QTF6QXFRU3ZnQ3lxZzRrVWg5MWdKNWRZdGlnLW5Wd1JsMG5mYzFTS1UyWWZIUDhDYlptVFBmbkw5WG5EN2EwM0RGUHhQNTljcTRTZ3VNLUM0ZUE3VmJUMy1sRm1CQmlwVHBkd3NFU2x1MWQxcjFT?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 20:41:00 GMT"
+          "published": "Sat, 18 Jul 2026 21:42:02 GMT"
         }
       ]
     },
@@ -389,10 +358,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Live updates: US service members killed in Jordan during a week of renewed fighting with Iran - CNN",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtMGlzV0M5eFNoa21PNkMyc0xxNmZTOEpMOU5Lek9MNFpvOUc0a21SbkpMOFpjbXhzVEtMU0o3SG42UHZjUl8wMHdvSzcxbE1lbzE5dnBhaDRtbFRINzVxLWdpQ1l1Z0YtRG9yejdR?oc=5",
+          "title": "Two U.S. service members killed in Jordan and another is missing after Iranian strikes, military says - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYVZJNzRoQ2hxRHpadVl0X21Na205RFRoZ1dfcnFPUnV2LXVLQUkxNl9NTzZhMFlKSUd3cF8zTHd0OXpMS1htRU85QTF6QXFRU3ZnQ3lxZzRrVWg5MWdKNWRZdGlnLW5Wd1JsMG5mYzFTS1UyWWZIUDhDYlptVFBmbkw5WG5EN2EwM0RGUHhQNTljcTRTZ3VNLUM0ZUE3VmJUMy1sRm1CQmlwVHBkd3NFU2x1MWQxcjFT?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 20:41:00 GMT"
+          "published": "Sat, 18 Jul 2026 21:42:02 GMT"
         }
       ]
     },
@@ -402,49 +371,49 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Live updates: US service members killed in Jordan during a week of renewed fighting with Iran - CNN",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtMGlzV0M5eFNoa21PNkMyc0xxNmZTOEpMOU5Lek9MNFpvOUc0a21SbkpMOFpjbXhzVEtMU0o3SG42UHZjUl8wMHdvSzcxbE1lbzE5dnBhaDRtbFRINzVxLWdpQ1l1Z0YtRG9yejdR?oc=5",
+          "title": "Two U.S. service members killed in Jordan and another is missing after Iranian strikes, military says - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYVZJNzRoQ2hxRHpadVl0X21Na205RFRoZ1dfcnFPUnV2LXVLQUkxNl9NTzZhMFlKSUd3cF8zTHd0OXpMS1htRU85QTF6QXFRU3ZnQ3lxZzRrVWg5MWdKNWRZdGlnLW5Wd1JsMG5mYzFTS1UyWWZIUDhDYlptVFBmbkw5WG5EN2EwM0RGUHhQNTljcTRTZ3VNLUM0ZUE3VmJUMy1sRm1CQmlwVHBkd3NFU2x1MWQxcjFT?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 20:41:00 GMT"
+          "published": "Sat, 18 Jul 2026 21:42:02 GMT"
         }
       ]
     },
     {
-      "word": "Week",
+      "word": "Missing",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Live updates: US service members killed in Jordan during a week of renewed fighting with Iran - CNN",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtMGlzV0M5eFNoa21PNkMyc0xxNmZTOEpMOU5Lek9MNFpvOUc0a21SbkpMOFpjbXhzVEtMU0o3SG42UHZjUl8wMHdvSzcxbE1lbzE5dnBhaDRtbFRINzVxLWdpQ1l1Z0YtRG9yejdR?oc=5",
+          "title": "Two U.S. service members killed in Jordan and another is missing after Iranian strikes, military says - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYVZJNzRoQ2hxRHpadVl0X21Na205RFRoZ1dfcnFPUnV2LXVLQUkxNl9NTzZhMFlKSUd3cF8zTHd0OXpMS1htRU85QTF6QXFRU3ZnQ3lxZzRrVWg5MWdKNWRZdGlnLW5Wd1JsMG5mYzFTS1UyWWZIUDhDYlptVFBmbkw5WG5EN2EwM0RGUHhQNTljcTRTZ3VNLUM0ZUE3VmJUMy1sRm1CQmlwVHBkd3NFU2x1MWQxcjFT?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 20:41:00 GMT"
+          "published": "Sat, 18 Jul 2026 21:42:02 GMT"
         }
       ]
     },
     {
-      "word": "Renewed",
+      "word": "Iranian",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Live updates: US service members killed in Jordan during a week of renewed fighting with Iran - CNN",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtMGlzV0M5eFNoa21PNkMyc0xxNmZTOEpMOU5Lek9MNFpvOUc0a21SbkpMOFpjbXhzVEtMU0o3SG42UHZjUl8wMHdvSzcxbE1lbzE5dnBhaDRtbFRINzVxLWdpQ1l1Z0YtRG9yejdR?oc=5",
+          "title": "Two U.S. service members killed in Jordan and another is missing after Iranian strikes, military says - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYVZJNzRoQ2hxRHpadVl0X21Na205RFRoZ1dfcnFPUnV2LXVLQUkxNl9NTzZhMFlKSUd3cF8zTHd0OXpMS1htRU85QTF6QXFRU3ZnQ3lxZzRrVWg5MWdKNWRZdGlnLW5Wd1JsMG5mYzFTS1UyWWZIUDhDYlptVFBmbkw5WG5EN2EwM0RGUHhQNTljcTRTZ3VNLUM0ZUE3VmJUMy1sRm1CQmlwVHBkd3NFU2x1MWQxcjFT?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 20:41:00 GMT"
+          "published": "Sat, 18 Jul 2026 21:42:02 GMT"
         }
       ]
     },
     {
-      "word": "Fighting",
+      "word": "Targets",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Live updates: US service members killed in Jordan during a week of renewed fighting with Iran - CNN",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtMGlzV0M5eFNoa21PNkMyc0xxNmZTOEpMOU5Lek9MNFpvOUc0a21SbkpMOFpjbXhzVEtMU0o3SG42UHZjUl8wMHdvSzcxbE1lbzE5dnBhaDRtbFRINzVxLWdpQ1l1Z0YtRG9yejdR?oc=5",
+          "title": "US military targets Iran with latest wave of strikes - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRW1HM0tnNnRlejk2WUp0LURrTzA2RERyQUZvZ3g3SGRCeVJWQUtYUl8zbWZQSzlkSDc0WmdLWlY1VTFmTG1DejlFbnV0ejNGbFNkQ2tfdU96dTlsRHI4Z1RsbG9NM2R6TXlENU55RmVnZVR2Umk2Y3o0MWw3bUJnVXI0UmE1Zw?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 20:41:00 GMT"
+          "published": "Sat, 18 Jul 2026 19:11:17 GMT"
         }
       ]
     },
@@ -454,10 +423,36 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Live updates: US service members killed in Jordan during a week of renewed fighting with Iran - CNN",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtMGlzV0M5eFNoa21PNkMyc0xxNmZTOEpMOU5Lek9MNFpvOUc0a21SbkpMOFpjbXhzVEtMU0o3SG42UHZjUl8wMHdvSzcxbE1lbzE5dnBhaDRtbFRINzVxLWdpQ1l1Z0YtRG9yejdR?oc=5",
+          "title": "US military targets Iran with latest wave of strikes - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRW1HM0tnNnRlejk2WUp0LURrTzA2RERyQUZvZ3g3SGRCeVJWQUtYUl8zbWZQSzlkSDc0WmdLWlY1VTFmTG1DejlFbnV0ejNGbFNkQ2tfdU96dTlsRHI4Z1RsbG9NM2R6TXlENU55RmVnZVR2Umk2Y3o0MWw3bUJnVXI0UmE1Zw?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 20:41:00 GMT"
+          "published": "Sat, 18 Jul 2026 19:11:17 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Latest",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "US military targets Iran with latest wave of strikes - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRW1HM0tnNnRlejk2WUp0LURrTzA2RERyQUZvZ3g3SGRCeVJWQUtYUl8zbWZQSzlkSDc0WmdLWlY1VTFmTG1DejlFbnV0ejNGbFNkQ2tfdU96dTlsRHI4Z1RsbG9NM2R6TXlENU55RmVnZVR2Umk2Y3o0MWw3bUJnVXI0UmE1Zw?oc=5",
+          "source": "Google News",
+          "published": "Sat, 18 Jul 2026 19:11:17 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Wave",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "US military targets Iran with latest wave of strikes - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRW1HM0tnNnRlejk2WUp0LURrTzA2RERyQUZvZ3g3SGRCeVJWQUtYUl8zbWZQSzlkSDc0WmdLWlY1VTFmTG1DejlFbnV0ejNGbFNkQ2tfdU96dTlsRHI4Z1RsbG9NM2R6TXlENU55RmVnZVR2Umk2Y3o0MWw3bUJnVXI0UmE1Zw?oc=5",
+          "source": "Google News",
+          "published": "Sat, 18 Jul 2026 19:11:17 GMT"
         }
       ]
     },
@@ -579,6 +574,19 @@
       ]
     },
     {
+      "word": "Threat",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Sinister new threat in West Hollywood after water main break devastated city - New York Post",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYnVMUk1XTkZ4dE1KdDVxN1RVSEp1OE1Ta1luRWpjU2xpZVNWbDB0eHZ3NGl4SmlNNWFmaFdBLUdWREQ1Wjdia3NMR1cwMzFsajdBWFRRU21VZk95djRFZEdTNDhpUHZWYjBaWldfUlNjRTliQWRQcm9ha2xCTVg0d2xFZ1hCZWZaWTJSVTROQjc0U05GeGZreHFYdGpidWR0VUl3Z3lJbzhPSVVDT2RxX1NDRHVOMnZWNXU0UnNfa1lRRkpXTXdOdg?oc=5",
+          "source": "Google News",
+          "published": "Sat, 18 Jul 2026 18:12:00 GMT"
+        }
+      ]
+    },
+    {
       "word": "West",
       "count": 1,
       "category": "NOUN",
@@ -606,32 +614,6 @@
     },
     {
       "word": "Water",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Sinister new threat in West Hollywood after water main break devastated city - New York Post",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYnVMUk1XTkZ4dE1KdDVxN1RVSEp1OE1Ta1luRWpjU2xpZVNWbDB0eHZ3NGl4SmlNNWFmaFdBLUdWREQ1Wjdia3NMR1cwMzFsajdBWFRRU21VZk95djRFZEdTNDhpUHZWYjBaWldfUlNjRTliQWRQcm9ha2xCTVg0d2xFZ1hCZWZaWTJSVTROQjc0U05GeGZreHFYdGpidWR0VUl3Z3lJbzhPSVVDT2RxX1NDRHVOMnZWNXU0UnNfa1lRRkpXTXdOdg?oc=5",
-          "source": "Google News",
-          "published": "Sat, 18 Jul 2026 18:12:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Main",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Sinister new threat in West Hollywood after water main break devastated city - New York Post",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYnVMUk1XTkZ4dE1KdDVxN1RVSEp1OE1Ta1luRWpjU2xpZVNWbDB0eHZ3NGl4SmlNNWFmaFdBLUdWREQ1Wjdia3NMR1cwMzFsajdBWFRRU21VZk95djRFZEdTNDhpUHZWYjBaWldfUlNjRTliQWRQcm9ha2xCTVg0d2xFZ1hCZWZaWTJSVTROQjc0U05GeGZreHFYdGpidWR0VUl3Z3lJbzhPSVVDT2RxX1NDRHVOMnZWNXU0UnNfa1lRRkpXTXdOdg?oc=5",
-          "source": "Google News",
-          "published": "Sat, 18 Jul 2026 18:12:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Break",
       "count": 1,
       "category": "NOUN",
       "articles": [
