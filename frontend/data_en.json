@@ -1,24 +1,105 @@
 {
   "language": "en",
-  "last_updated": 1784394244.6879807,
+  "last_updated": 1784402049.5541868,
   "count": 40,
   "trends": [
+    {
+      "word": "Open",
+      "count": 4,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Google is open-sourcing its 3D emoji - The Verge",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85Q1BjS052a3NmQm0yZVFTV2s4cmN5TG41Wi1OaXdKLVRlN1NzenB2YkFob2tfU1g4RVFQa0tWWWNhRkxpZWhjd05QWUItV2Z5NXFtbk9iZkZBaFFWTTZVRG9JVHlVVFE4OUIwXzdzUER4NE53?oc=5",
+          "source": "Google News",
+          "published": "Sat, 18 Jul 2026 16:40:55 GMT"
+        },
+        {
+          "title": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants - The Hacker News",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVXROVzNwVnpKQkkxVFk1UktfU3J3MFZmSHRGcUlIZEVkVnhTdktOUVpudlhLS2xwc3ctSDM0VXU0UFdZOUVnZnpqTEZJMHRVWmVLeVlTbnhsVEQ2bTRXazA3SElWS2ZJVG5tUGphRENMRE5JZXlWRUJBUzc4aExKaQ?oc=5",
+          "source": "Google News",
+          "published": "Fri, 17 Jul 2026 11:44:00 GMT"
+        },
+        {
+          "title": "McIlroy lashes out at DeChambeau for ‘holding the Open hostage’ over penalty row - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcmFoLWx0aS1EOW5vUnhsUHd4RzNYWWg2WFJwSVRsaXdYUXdCS1JEbzhDSFVoc29mZGxncElWZVZIX3NhMXBtMGtfaUpmWWZ0X2V4aHpLcHdMZjg0Mjl0OWxRSUI2N0lVa2poMnFNVUliM1M0Q1VvOWxyczhaLS1IQWhhTWZZMS0zOHF0WnJrSGpFVVVob2JsVzEtLTdiX2FCNWhWSWQ2QzRrbUNh?oc=5",
+          "source": "Google News",
+          "published": "Sat, 18 Jul 2026 17:17:00 GMT"
+        },
+        {
+          "title": "The Open 2026, live updates: Leaderboard, scores, highlights, news from Round 3 - Golf Channel",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcG9EX1BoT1EwcDk0RXlGVWI0Uk5waExFcHc2WnJwSW03cWZpMUhVcktfY01fT1pOS2tsZ2xZcDB5N1RfaG5SdmJBUzdfY0JDZV9XU1BWekd1NDFYT0tJUTJJUW8yQm5uTl9Sc0xRTkdKeFhId1d6cFhQMkNqaHJYT29LSGgweWFLNW5Xek5OUFA0N18tWXBjVTRNWndiUVhNaDczLV9VQ2thVGVqQ3NMZzY3ZkU2ZlozQTQ2WQ?oc=5",
+          "source": "Google News",
+          "published": "Sat, 18 Jul 2026 18:03:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Wildfire",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Thick wildfire smoke lingers over Mid-Atlantic early Saturday - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc211LVgzdTVraWE2TTV3SXZLWExBUTRINVN2d19fYzhDd09EZVFUc19WMmQxTEtYYklORm8xbjRjVEM3Vm1VcXF0ZF81dWNyckdPalVaOXZkeGlQdG5YV3dxOEFrcXY4WW9pOENWdVJadHB3NmRGOWRIRlNjN3VIeXdwRUd0NUl4cm9fV0tFNnBtLTluYmRqQVgwZGM5UGxYUnlrOXFPcFE1cU44ZXRsRlFR?oc=5",
+          "source": "Google News",
+          "published": "Sat, 18 Jul 2026 17:30:29 GMT"
+        },
+        {
+          "title": "More than 50 million in Northeast face severe weather risk as wildfire smoke impacts air quality - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqS3dfMWo1LUNHeVhNdkVIa1NtNURMUTRhMEVLQUZYcHFjM1VBMUNfSnY3NDZsWEJkbUdabUxsczl6TUU1Z3c3dml6U2tUWFFjbE93a2dkZGZCcTNpOFBjUDNfVGRXTmI2TWUzd3hxNzBKSy15Q3RIZQ?oc=5",
+          "source": "Google News",
+          "published": "Sat, 18 Jul 2026 15:28:00 GMT"
+        },
+        {
+          "title": "Trump threatens Canada with tariffs over wildfire smoke: 'Unacceptable!' - USA Today",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbnZnZE4wWGlBVzJMbTAwblVGdFNUUldRYUxIaXdlYTR1QnlwZkg4Qkx2QzVHNFo3X3lhWHZsaF9NR0hqUHEzY1JVQnQ2M2VLdmJqeXRKdVczV2VGYWJTTW13SExtajd4RHZrNGtLR3E3UkljZFBFbUUtSUxXU19KeE9tZVdaOVR3VkhCVnhONmdpaGo0TEdfUkhmWFRFSUlIMWJWRWEyNGdyUVZLZFhiMGF4dUJZYzc0QjltbzJUXzVPYlRpN1Nr?oc=5",
+          "source": "Google News",
+          "published": "Sat, 18 Jul 2026 18:33:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Smoke",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Thick wildfire smoke lingers over Mid-Atlantic early Saturday - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc211LVgzdTVraWE2TTV3SXZLWExBUTRINVN2d19fYzhDd09EZVFUc19WMmQxTEtYYklORm8xbjRjVEM3Vm1VcXF0ZF81dWNyckdPalVaOXZkeGlQdG5YV3dxOEFrcXY4WW9pOENWdVJadHB3NmRGOWRIRlNjN3VIeXdwRUd0NUl4cm9fV0tFNnBtLTluYmRqQVgwZGM5UGxYUnlrOXFPcFE1cU44ZXRsRlFR?oc=5",
+          "source": "Google News",
+          "published": "Sat, 18 Jul 2026 17:30:29 GMT"
+        },
+        {
+          "title": "More than 50 million in Northeast face severe weather risk as wildfire smoke impacts air quality - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqS3dfMWo1LUNHeVhNdkVIa1NtNURMUTRhMEVLQUZYcHFjM1VBMUNfSnY3NDZsWEJkbUdabUxsczl6TUU1Z3c3dml6U2tUWFFjbE93a2dkZGZCcTNpOFBjUDNfVGRXTmI2TWUzd3hxNzBKSy15Q3RIZQ?oc=5",
+          "source": "Google News",
+          "published": "Sat, 18 Jul 2026 15:28:00 GMT"
+        },
+        {
+          "title": "Trump threatens Canada with tariffs over wildfire smoke: 'Unacceptable!' - USA Today",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbnZnZE4wWGlBVzJMbTAwblVGdFNUUldRYUxIaXdlYTR1QnlwZkg4Qkx2QzVHNFo3X3lhWHZsaF9NR0hqUHEzY1JVQnQ2M2VLdmJqeXRKdVczV2VGYWJTTW13SExtajd4RHZrNGtLR3E3UkljZFBFbUUtSUxXU19KeE9tZVdaOVR3VkhCVnhONmdpaGo0TEdfUkhmWFRFSUlIMWJWRWEyNGdyUVZLZFhiMGF4dUJZYzc0QjltbzJUXzVPYlRpN1Nr?oc=5",
+          "source": "Google News",
+          "published": "Sat, 18 Jul 2026 18:33:00 GMT"
+        }
+      ]
+    },
     {
       "word": "Trump",
       "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘Pulte got really scared’: Inside the White House debate over Trump’s elections speech - Politico",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQN0N4UUtJQ1h4cHRyclNFQkNKUDJPUXBHNXhpVmxXd2FWbHZ0R3lUcnIxMHlmcHJTS3V1eXk3NlluOGs1NFItQkpSYlJfeVQzdnNFcjFWLU5ZR1lBT1NteWNiWmd0VWVqS3paSHhGQnRZRWozRXJ4SWxHMUMtQWYtbE0tcFNVZW1HdW5LNi1MZ0w2T1VJdXVic1RKWkQxZ2hGNmlvTXZiNTlxcUtxS2RoMHpIeGlFeVF4djBXblhzQ2RpR1VaaC1tVThKQ3k?oc=5",
+          "title": "READ THE DOCUMENTS: White House releases election integrity files after Trump speech - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONnc0U2Y5SGtvU1JxeHlvVjJXZHFDcGhUOE5Rd1RBUXdZdUpoQ24yTUplTDBlYXRUMlF1VWRKVlZiSWFtRkktN1JpVWdvTlVGdHNMc0JpelNMdURhY2J5dGtpR3lsMktINGVYNG5vRDFuWm90a1gybXlrSHZBNzlXSEhRNXF4ckJkN191OGlmR0dSX1kxaVRCR1gxTmdhLWhNSDdhLXU3eWFxWmRGLVA2MVpn0gG3AUFVX3lxTE4zcmFzU09SZV94dXNDR1kzTk5UcVc3aWpmTldRSUl0VXByLXJmNjFHdzVaamF0a09OZGdxM0RyajNzRjBJVVZrRGNSWWpZcFU0emkydGhLSFg0eVVhcmNXTWRnRjdGZjRsaWtHdjFUZjNadGo2TFpDOG1vWk4ySVRFQkxPWi1VS2NMemlCSlhQVHRobHF5bHJKdVpZV3R6MWx3U0ZBaS1Da1ZRVno3d0lrWmR3dmN3dw?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 11:01:00 GMT"
+          "published": "Sat, 18 Jul 2026 15:56:46 GMT"
         },
         {
-          "title": "Trump says 278,000 noncitizens are on voting rolls. Experts say that’s wrong. - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPekkwVjJiY2hrRnRrZGwyTy1TYk5zcmVqU2docDhMV1ZqOHhEb3IxS3RPcjl6LUdLTDJxSGk5QlNiWGJlSy02eHRGUnhrNFJ6TE1HR3R0LVEtWVg1eWxKeFNmNXdnWUtGSlNkVzhXcEVwMVBjRFJLeWVPUXRIWDhZaGtwdVRlejVYcWtaRDdtQzdLTHN2WTdRc3BPOGo1YkZWdVlPbWE5S1M1SzRSTVR5a1RUWF9iMmdSU1cteGRaRQ?oc=5",
+          "title": "Trump threatens Canada with tariffs over wildfire smoke: 'Unacceptable!' - USA Today",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbnZnZE4wWGlBVzJMbTAwblVGdFNUUldRYUxIaXdlYTR1QnlwZkg4Qkx2QzVHNFo3X3lhWHZsaF9NR0hqUHEzY1JVQnQ2M2VLdmJqeXRKdVczV2VGYWJTTW13SExtajd4RHZrNGtLR3E3UkljZFBFbUUtSUxXU19KeE9tZVdaOVR3VkhCVnhONmdpaGo0TEdfUkhmWFRFSUlIMWJWRWEyNGdyUVZLZFhiMGF4dUJZYzc0QjltbzJUXzVPYlRpN1Nr?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 06:01:16 GMT"
+          "published": "Sat, 18 Jul 2026 18:33:00 GMT"
         },
         {
           "title": "Trump’s deep public health cuts hinder response to record US cyclosporiasis outbreak - The Guardian",
@@ -37,7 +118,7 @@
           "title": "Taylor Farms launches recall in 27 states after iceberg lettuce tied to outbreak - The Washington Post",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWU1fVTJtSDA3Z1BhVEdSaE96MmstME5pd2ZfNDZzeHVkYWJSSjhreE84aE41cTQwZWd5WDlDbndPME8yTnc2U0V1N2kwWWFNa1JVYVAtVlhJMVRkRW0wdkxLQVpFeFZyYlI3ampIRzQzclEzUGVSTV9NbThFdGtwbXdGV0FaamVRcmQxUlZDV0NMOGdyU0tuaGk1U05ZMWJzYkZZTzdPY0tUcXdrMjhVM01hWUF5cVpzdnZDcURn?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 16:05:40 GMT"
+          "published": "Sat, 18 Jul 2026 19:05:40 GMT"
         },
         {
           "title": "Trump’s deep public health cuts hinder response to record US cyclosporiasis outbreak - The Guardian",
@@ -49,102 +130,133 @@
           "title": "First death reported in Legionnaires’ disease outbreak in New York City - AP News",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcHB5WEd0SldFUTlBczgxX1U5M1Y3UEFiZEdxeUx2NllmOENFbXJyeFNmWEpaZjExRU03NHBoV3dpQkJGbkhrZUxfcWJkbGhlbzIxZzNkVnZJYXAxLXZQUjVMWjd0UFlVQUp5TGliWU9LNkI5bzRDNldSTC1PZTJCNFZNSnVsMkdFSXVKbkN0LWtnUVk?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 00:08:42 GMT"
+          "published": "Fri, 17 Jul 2026 23:12:00 GMT"
         }
       ]
     },
     {
-      "word": "Iran",
-      "count": 2,
+      "word": "Live",
+      "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Iran War Updates: U.S. finishes 7th straight night of strikes as traffic freezes up in Strait of Hormuz - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTms5S29XQzlnbjNtVi1RXzJ6WUtBLTVIVlJZVnhMbFVfemxMdmpxNlhqV2k4dkRHemU2QnpLcFNjTWRjN2NzLW4zTk9vbmFSOUQ2ejYzRVBGbC1hN2RaQWhVaE9EalhzUl9mbFY4WVFPeDRwVkNETGtEQnl3VHNpc0steHVaT3lLdFdESi1kWlIyUHla?oc=5",
+          "title": "‘The Odyssey’ Eyes $120M+ U.S. Opening, Best Live-Action Haul Of 2026; Global At $257M A Nolan Best - Deadline",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5wTHUyUFVvUDV5YmhhZFE0RTFqd0ZaYkl4dEVBLXpObDM0bmY3amw2RVM0UHEtRk5aMGRFTHV3QWtjRG5kOTNWVzA2bmZVTnRLZHBsOTlXXzB1WWVuLU9hbUJvamktZjJMSF9vNjF2TjBCM0ZzbGpESWV3?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 14:42:00 GMT"
+          "published": "Sat, 18 Jul 2026 16:45:00 GMT"
         },
         {
-          "title": "Iran’s hardliners warn of a ‘coup’ as US truce comes under pressure - CNN",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON01jUTB3R2QxNDVJeHVFWE8yRUwzQUZ6YmhpWTVyOGVkck9LVEVnLUxTSVhoWjlkQmJpTDR5VHQyR3NYMU9zVFMxWThOMElsNjZEb0NvQ2hVQzAwMWphU3lkZDNlWUhDMVBNaHRMcms4WnJ5TnlNZERBQzZMVUdrQ3NXOFUwOHNEQ1J2QXpnZ1MxZw?oc=5",
+          "title": "World Cup live updates: France vs. England lineups, preview for third-place game - Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUkphVkx3eGFZWkQzd0N2UjFhMlNNS0dJSmtBeHc4XzNuWEFxZERXd0t0TXo1b3FjcElLY2NEZkE0ZmhqWmNqYjBaX3ZGVmVrdTBHdFpieXd2V09BREY5MzUwY1FfeG9zdk5nRWRhUHBiUmR1M0RFZjFFTUhhbHM4VEdpTTJCc0dpNW9CZWEwUUZlaUpIVnJlLVd4azRpeVJfVmx0aEQyNUk3YW0wZ21ad1REZUM3T3c?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 08:42:36 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Updates",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Iran War Updates: U.S. finishes 7th straight night of strikes as traffic freezes up in Strait of Hormuz - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTms5S29XQzlnbjNtVi1RXzJ6WUtBLTVIVlJZVnhMbFVfemxMdmpxNlhqV2k4dkRHemU2QnpLcFNjTWRjN2NzLW4zTk9vbmFSOUQ2ejYzRVBGbC1hN2RaQWhVaE9EalhzUl9mbFY4WVFPeDRwVkNETGtEQnl3VHNpc0steHVaT3lLdFdESi1kWlIyUHla?oc=5",
-          "source": "Google News",
-          "published": "Sat, 18 Jul 2026 14:42:00 GMT"
+          "published": "Sat, 18 Jul 2026 18:30:47 GMT"
         },
         {
           "title": "The Open 2026, live updates: Leaderboard, scores, highlights, news from Round 3 - Golf Channel",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcG9EX1BoT1EwcDk0RXlGVWI0Uk5waExFcHc2WnJwSW03cWZpMUhVcktfY01fT1pOS2tsZ2xZcDB5N1RfaG5SdmJBUzdfY0JDZV9XU1BWekd1NDFYT0tJUTJJUW8yQm5uTl9Sc0xRTkdKeFhId1d6cFhQMkNqaHJYT29LSGgweWFLNW5Xek5OUFA0N18tWXBjVTRNWndiUVhNaDczLV9VQ2thVGVqQ3NMZzY3ZkU2ZlozQTQ2WQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 14:58:00 GMT"
+          "published": "Sat, 18 Jul 2026 18:03:00 GMT"
         }
       ]
     },
     {
-      "word": "Really",
-      "count": 2,
+      "word": "Star",
+      "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘Pulte got really scared’: Inside the White House debate over Trump’s elections speech - Politico",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQN0N4UUtJQ1h4cHRyclNFQkNKUDJPUXBHNXhpVmxXd2FWbHZ0R3lUcnIxMHlmcHJTS3V1eXk3NlluOGs1NFItQkpSYlJfeVQzdnNFcjFWLU5ZR1lBT1NteWNiWmd0VWVqS3paSHhGQnRZRWozRXJ4SWxHMUMtQWYtbE0tcFNVZW1HdW5LNi1MZ0w2T1VJdXVic1RKWkQxZ2hGNmlvTXZiNTlxcUtxS2RoMHpIeGlFeVF4djBXblhzQ2RpR1VaaC1tVThKQ3k?oc=5",
+          "title": "‘Heartstopper’ Star Joe Locke on Endings, Beginnings, and Why You Belong in the Room - Backstage",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQmh3cE4tWExlTTc4amVwVGxMc21OYXZLWEpzNWZWMEotUlZvOGY1NFFCRnBaeWNCYm9MZzkzcHFGdXZaYXZCY3F0b2hUdnhSV3BENEJRaldsSjFBRnhnUTVkMVF0aG0wZWhhZ3lKNGY1aFIwNFVCQVNDY2tIRnNxLUpHakNvbERIazYwMlZ0YXI3ZnRk?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 11:01:00 GMT"
+          "published": "Fri, 17 Jul 2026 17:07:00 GMT"
         },
         {
-          "title": "Tom Segura's Wife Christina P. Addresses 'Really Difficult Time' Amid Separation - TMZ",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaDhfd3ZvS0xzUjRiVzRzdjdXZWdDYXZiekxiRURlMmtPblVFcUtKR0V3cUN0NjhFeUhDakZRTThaVW5WR2piOUYtRWROUVk3Z2tSUDdjYkRKLTd5Tmd4UDBIMXBRUGU3d05NLTExSlZ5eWxTclNfS0RIUWFubk5NYm85R2pLYTFjcEJF?oc=5",
+          "title": "‘The Bear’ star Abby Elliott files for divorce after nearly 10 years of marriage - Page Six",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObTlpcDZmR2tXXzA0QnpNU2lPb3k1UzhkdG9ieGxjMGxDeF9RNkN4QWhFa1V4ekFmTGMyS2hJRUFHUkdSRjFqaHBEODZ2VHhKejVlUjNwX1pRX2p5TmZaZVJhWHIwMzB5VXkzMGZsTzI3TTFDZ0g5X2ZMNi1vVG9IN0sxSUw3RGpOZFRSV0VyUXhuT2lFX1E?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 13:36:50 GMT"
+          "published": "Sat, 18 Jul 2026 13:45:00 GMT"
+        },
+        {
+          "title": "First atmosphere found on Earth-like planet in habitable zone of distant star - Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNFhTUFFTNXA4bTI0THBuMUxjWjFpMXc5SGhmWkpockk2cXVmNkx6emFFTnJwNzN5bTJHdnFDeFBpTGhxOW5zbnN2ei13ZFY0MjNUdEU4V1NHeFg5dXZXYnpzdUJlMHExVGZJTUkxc0c0aXVZaC1GMjd6R3BJS3EzZGNwWVo0VkpaUWhNRVJEQUNERm84cXYzVUhn?oc=5",
+          "source": "Google News",
+          "published": "Sat, 18 Jul 2026 09:20:17 GMT"
         }
       ]
     },
     {
-      "word": "Wife",
+      "word": "Military",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "ICE Agent Defended Shooting of Immigrant in Maine, Ex-Wife Says - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbjM5d1JZQnFIMWpzOWxYMklKbmFnNE0wTERNS0NxWm16blVKLWFfRTZ5SVF3SXBXRjgtSk5iVmNnWVpaOVBmLVdFZ2VhSDNKYzhyckJ5SVNKdWFrQ2FoYUNmQWhNOGFSakRVWGFEN010Qk81eUxxdnhFaHV5azBLN3pn?oc=5",
+          "title": "Two U.S. service members killed in Jordan and another is missing, military says - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYVZJNzRoQ2hxRHpadVl0X21Na205RFRoZ1dfcnFPUnV2LXVLQUkxNl9NTzZhMFlKSUd3cF8zTHd0OXpMS1htRU85QTF6QXFRU3ZnQ3lxZzRrVWg5MWdKNWRZdGlnLW5Wd1JsMG5mYzFTS1UyWWZIUDhDYlptVFBmbkw5WG5EN2EwM0RGUHhQNTljcTRTZ3VNLUM0ZUE3VmJUMy1sRm1CQmlwVHBkd3NFU2x1MWQxcjFT?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 09:02:24 GMT"
+          "published": "Sat, 18 Jul 2026 18:30:31 GMT"
         },
         {
-          "title": "Tom Segura's Wife Christina P. Addresses 'Really Difficult Time' Amid Separation - TMZ",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaDhfd3ZvS0xzUjRiVzRzdjdXZWdDYXZiekxiRURlMmtPblVFcUtKR0V3cUN0NjhFeUhDakZRTThaVW5WR2piOUYtRWROUVk3Z2tSUDdjYkRKLTd5Tmd4UDBIMXBRUGU3d05NLTExSlZ5eWxTclNfS0RIUWFubk5NYm85R2pLYTFjcEJF?oc=5",
+          "title": "Delayed orders, confusion slowed Venezuelan military's response to quakes, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORklyRm83dTkxX2JtYTRsVkJhVWl4X2JDaHZob25TUEhONXhxWlMxdlNZTnlaNzIyeEdvMHhJMVM3T2xXT2hQR1NhRWlfeGlvdGt3QWk1bW96Zjc1YlRsUl9uNkJudDBmSVJoZFVfS1Z6RTVlRDZ4YV93MTFaQnI5YXZQRy0xdGxVZzZFWHRNLV9aY3JjbGtZZVk5VHFTTFdxU3VsalFSWng5U3FDY2ViWDlXWGtsWVVmdjkxcUlxTDNuSmlGS2l1TTJxbE5qbWUxNGNJ?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 13:36:50 GMT"
+          "published": "Sat, 18 Jul 2026 11:09:43 GMT"
         }
       ]
     },
     {
-      "word": "Death",
+      "word": "Week",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Before Nolan Wells’ death, Mississippi island was full of fun, friends and an unspoken danger - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOEs0cUtpN2tOUWttclkzVXlMZUlYdWVSS3NabjVHZkc5bmJjSlpRNVJ3RV9xY3REcl85UlNrUHZHTnpFZUZ0U05kd21rUnRJYTRvMTZ0WGRFODhHZTRHVzlneTZzMkFlc3o1aFpVSGo3aXVHcEVHLTRHdjdxQUJvQm50WVRZdDN5OVRYVXBjR0Q2cEk?oc=5",
+          "title": "Iran attacks US allies in Middle East as renewed conflict enters second week - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcU9EZm52ekUycVNuTEhRUk84ZXdGYVlaaXN5R3lKbGdmVzBRVHlZT0o2WVhKd29DeGNpZ3Zld1dZSm1RWjBjYXZjMmxINkgyODZkMjlhQTJmNEg1d1JFZmlFLUxicXNBVFp4cFM3OUdrQk5YSDI5bTFNNjhkVE5FazVKY25fOFJpNFN1RmczOHFTV1N4d2R5OGI4MmRFWUZYNUpSbUdpRUNVY3JZYm9xcXV4QXNxaUUtM2c?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 13:56:29 GMT"
+          "published": "Sat, 18 Jul 2026 17:52:00 GMT"
         },
         {
-          "title": "First death reported in Legionnaires’ disease outbreak in New York City - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcHB5WEd0SldFUTlBczgxX1U5M1Y3UEFiZEdxeUx2NllmOENFbXJyeFNmWEpaZjExRU03NHBoV3dpQkJGbkhrZUxfcWJkbGhlbzIxZzNkVnZJYXAxLXZQUjVMWjd0UFlVQUp5TGliWU9LNkI5bzRDNldSTC1PZTJCNFZNSnVsMkdFSXVKbkN0LWtnUVk?oc=5",
+          "title": "SpaceX targets next week for another Starship launch attempt as shares slide on abort - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWGtOV1BXNFVRbFBRd1l5MFR0WTlDVWxDQ1piUUhNNVVGVWVzY0FrNUNlQVFRaWZmXzViZHNLb0pKZFhuMVllNXM1aHR0aWtTY1A4YjBmbzRfaHRVTG5RUWpXTEpVUmw5YW9waXpIYVZlRUh1ellsN2VHbHRUYTc3R2lEbFl4Z0l2THFJazd1c3p3UXNxVG1GNXc3aVRfMzIxUUtueTAwUDVyb29nVVdVc3d1YmdBOUthRnFtTXBmcTBuVFZrZzZJdTJ3Zi1SVmc?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 00:08:42 GMT"
+          "published": "Fri, 17 Jul 2026 18:08:09 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Files",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "READ THE DOCUMENTS: White House releases election integrity files after Trump speech - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONnc0U2Y5SGtvU1JxeHlvVjJXZHFDcGhUOE5Rd1RBUXdZdUpoQ24yTUplTDBlYXRUMlF1VWRKVlZiSWFtRkktN1JpVWdvTlVGdHNMc0JpelNMdURhY2J5dGtpR3lsMktINGVYNG5vRDFuWm90a1gybXlrSHZBNzlXSEhRNXF4ckJkN191OGlmR0dSX1kxaVRCR1gxTmdhLWhNSDdhLXU3eWFxWmRGLVA2MVpn0gG3AUFVX3lxTE4zcmFzU09SZV94dXNDR1kzTk5UcVc3aWpmTldRSUl0VXByLXJmNjFHdzVaamF0a09OZGdxM0RyajNzRjBJVVZrRGNSWWpZcFU0emkydGhLSFg0eVVhcmNXTWRnRjdGZjRsaWtHdjFUZjNadGo2TFpDOG1vWk4ySVRFQkxPWi1VS2NMemlCSlhQVHRobHF5bHJKdVpZV3R6MWx3U0ZBaS1Da1ZRVno3d0lrWmR3dmN3dw?oc=5",
+          "source": "Google News",
+          "published": "Sat, 18 Jul 2026 15:56:46 GMT"
+        },
+        {
+          "title": "‘The Bear’ star Abby Elliott files for divorce after nearly 10 years of marriage - Page Six",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObTlpcDZmR2tXXzA0QnpNU2lPb3k1UzhkdG9ieGxjMGxDeF9RNkN4QWhFa1V4ekFmTGMyS2hJRUFHUkdSRjFqaHBEODZ2VHhKejVlUjNwX1pRX2p5TmZaZVJhWHIwMzB5VXkzMGZsTzI3TTFDZ0g5X2ZMNi1vVG9IN0sxSUw3RGpOZFRSV0VyUXhuT2lFX1E?oc=5",
+          "source": "Google News",
+          "published": "Sat, 18 Jul 2026 13:45:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Orders",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Delayed orders, confusion slowed Venezuelan military's response to quakes, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORklyRm83dTkxX2JtYTRsVkJhVWl4X2JDaHZob25TUEhONXhxWlMxdlNZTnlaNzIyeEdvMHhJMVM3T2xXT2hQR1NhRWlfeGlvdGt3QWk1bW96Zjc1YlRsUl9uNkJudDBmSVJoZFVfS1Z6RTVlRDZ4YV93MTFaQnI5YXZQRy0xdGxVZzZFWHRNLV9aY3JjbGtZZVk5VHFTTFdxU3VsalFSWng5U3FDY2ViWDlXWGtsWVVmdjkxcUlxTDNuSmlGS2l1TTJxbE5qbWUxNGNJ?oc=5",
+          "source": "Google News",
+          "published": "Sat, 18 Jul 2026 11:09:43 GMT"
+        },
+        {
+          "title": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants - The Hacker News",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVXROVzNwVnpKQkkxVFk1UktfU3J3MFZmSHRGcUlIZEVkVnhTdktOUVpudlhLS2xwc3ctSDM0VXU0UFdZOUVnZnpqTEZJMHRVWmVLeVlTbnhsVEQ2bTRXazA3SElWS2ZJVG5tUGphRENMRE5JZXlWRUJBUzc4aExKaQ?oc=5",
+          "source": "Google News",
+          "published": "Fri, 17 Jul 2026 11:44:00 GMT"
         }
       ]
     },
@@ -168,248 +280,339 @@
       ]
     },
     {
-      "word": "Star",
+      "word": "Next",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "The Bear star files for divorce from husband after 10 years of marriage in shocking split - Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQazZ0V1hIa3l0VHlMQXowYlFlcEtnTVpGYTJqOVE1bTBYZFhzazd6dHhiLU1TTjg2c2kwLXgzVFlwRjFpV05PN19TejRrOEpJU3RYMVZVMTZNNEFHYlMyT2c1ZjJRRXIwUzdaOEtDYXh0VmR0ZExIQzdqZ1lqZ0JOWDlTUjFGN0VSd0RSLTFQR3NCQWJwV3VLQmdNaHdMalZRU0ww?oc=5",
+          "title": "You’re About to Retire. What Are You Doing for the Next 20 or 30 Years? - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DTHBYQkVXY05acW9NQTJ5aVFmd0NkR25tNE9lR2w0ZExiOWMyN0R5R01GS1NRcHlqUGxkUzVnbGJKSnYzR1VtdjFKbDNSYnpxdlNFbDJLaEoya1NBdjFGcXU2a2hHR3NBU0RuaVdtVk9NZw?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 08:08:50 GMT"
+          "published": "Sat, 18 Jul 2026 09:01:31 GMT"
         },
         {
-          "title": "First atmosphere found on Earth-like planet in habitable zone of distant star - Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNFhTUFFTNXA4bTI0THBuMUxjWjFpMXc5SGhmWkpockk2cXVmNkx6emFFTnJwNzN5bTJHdnFDeFBpTGhxOW5zbnN2ei13ZFY0MjNUdEU4V1NHeFg5dXZXYnpzdUJlMHExVGZJTUkxc0c0aXVZaC1GMjd6R3BJS3EzZGNwWVo0VkpaUWhNRVJEQUNERm84cXYzVUhn?oc=5",
+          "title": "SpaceX targets next week for another Starship launch attempt as shares slide on abort - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWGtOV1BXNFVRbFBRd1l5MFR0WTlDVWxDQ1piUUhNNVVGVWVzY0FrNUNlQVFRaWZmXzViZHNLb0pKZFhuMVllNXM1aHR0aWtTY1A4YjBmbzRfaHRVTG5RUWpXTEpVUmw5YW9waXpIYVZlRUh1ellsN2VHbHRUYTc3R2lEbFl4Z0l2THFJazd1c3p3UXNxVG1GNXc3aVRfMzIxUUtueTAwUDVyb29nVVdVc3d1YmdBOUthRnFtTXBmcTBuVFZrZzZJdTJ3Zi1SVmc?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 09:20:17 GMT"
+          "published": "Fri, 17 Jul 2026 18:08:09 GMT"
         }
       ]
     },
     {
-      "word": "Open",
+      "word": "Best",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Golf analyst Brandel Chamblee disgustingly buries Bryson DeChambeau after British Open penalty - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOGh1UWw2dzQ5SVlWZXk2a0V6Y2hZdzZGNmQwNE5NQXp3ckc2d2h0Wkx2V2hzek52RXRVb2FRS2RFTkFQVlFMQVpBemJncnVXNkd4QTdfNW5xSzBNYmVlZ1U1UUs3NHZvZGdLdWlIeHh2aG5OOFdWa2ZGdzA2S1hvQ0ZLUnFnSlNhT0JnZ2FxcEYtU08tbDNRZnhQLXhjRzA4bkEyZms5YUl2cFE?oc=5",
+          "title": "‘The Odyssey’ Eyes $120M+ U.S. Opening, Best Live-Action Haul Of 2026; Global At $257M A Nolan Best - Deadline",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5wTHUyUFVvUDV5YmhhZFE0RTFqd0ZaYkl4dEVBLXpObDM0bmY3amw2RVM0UHEtRk5aMGRFTHV3QWtjRG5kOTNWVzA2bmZVTnRLZHBsOTlXXzB1WWVuLU9hbUJvamktZjJMSF9vNjF2TjBCM0ZzbGpESWV3?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 12:00:46 GMT"
+          "published": "Sat, 18 Jul 2026 16:45:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Updates",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "World Cup live updates: France vs. England lineups, preview for third-place game - Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUkphVkx3eGFZWkQzd0N2UjFhMlNNS0dJSmtBeHc4XzNuWEFxZERXd0t0TXo1b3FjcElLY2NEZkE0ZmhqWmNqYjBaX3ZGVmVrdTBHdFpieXd2V09BREY5MzUwY1FfeG9zdk5nRWRhUHBiUmR1M0RFZjFFTUhhbHM4VEdpTTJCc0dpNW9CZWEwUUZlaUpIVnJlLVd4azRpeVJfVmx0aEQyNUk3YW0wZ21ad1REZUM3T3c?oc=5",
+          "source": "Google News",
+          "published": "Sat, 18 Jul 2026 18:30:47 GMT"
         },
         {
           "title": "The Open 2026, live updates: Leaderboard, scores, highlights, news from Round 3 - Golf Channel",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcG9EX1BoT1EwcDk0RXlGVWI0Uk5waExFcHc2WnJwSW03cWZpMUhVcktfY01fT1pOS2tsZ2xZcDB5N1RfaG5SdmJBUzdfY0JDZV9XU1BWekd1NDFYT0tJUTJJUW8yQm5uTl9Sc0xRTkdKeFhId1d6cFhQMkNqaHJYT29LSGgweWFLNW5Xek5OUFA0N18tWXBjVTRNWndiUVhNaDczLV9VQ2thVGVqQ3NMZzY3ZkU2ZlozQTQ2WQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 14:58:00 GMT"
+          "published": "Sat, 18 Jul 2026 18:03:00 GMT"
         }
       ]
     },
     {
-      "word": "Double",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Fever's Caitlin Clark records WNBA's 1st 45-point, 10-assist double-double - ESPN",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRGR5Ry1OZUR1dGpQaHpfNzBsSVA2eFF2c0JKdkI0Rnh3azlGX3l1T0puMVowaDZqTk1vS20tZFRqVFYyT3p2YTRVakFpaEdDb2dVbFpCeVhyQmRDUEVsYXkyYkNSeWtGYXpnSHNmRzk1RFR0d2VyamlDYlZHaG5VdkFOQjFuWFRVSkU3bFpBR2VRcHhfZ0N2RHYyTThoaTVmVXY3Y0dCMVBXSy1ydkY2VkNvYi1NZw?oc=5",
-          "source": "Google News",
-          "published": "Sat, 18 Jul 2026 02:32:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "War",
+      "word": "Service",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Iran War Updates: U.S. finishes 7th straight night of strikes as traffic freezes up in Strait of Hormuz - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTms5S29XQzlnbjNtVi1RXzJ6WUtBLTVIVlJZVnhMbFVfemxMdmpxNlhqV2k4dkRHemU2QnpLcFNjTWRjN2NzLW4zTk9vbmFSOUQ2ejYzRVBGbC1hN2RaQWhVaE9EalhzUl9mbFY4WVFPeDRwVkNETGtEQnl3VHNpc0steHVaT3lLdFdESi1kWlIyUHla?oc=5",
+          "title": "Two U.S. service members killed in Jordan and another is missing, military says - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYVZJNzRoQ2hxRHpadVl0X21Na205RFRoZ1dfcnFPUnV2LXVLQUkxNl9NTzZhMFlKSUd3cF8zTHd0OXpMS1htRU85QTF6QXFRU3ZnQ3lxZzRrVWg5MWdKNWRZdGlnLW5Wd1JsMG5mYzFTS1UyWWZIUDhDYlptVFBmbkw5WG5EN2EwM0RGUHhQNTljcTRTZ3VNLUM0ZUE3VmJUMy1sRm1CQmlwVHBkd3NFU2x1MWQxcjFT?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 14:42:00 GMT"
+          "published": "Sat, 18 Jul 2026 18:30:31 GMT"
         }
       ]
     },
     {
-      "word": "Finishes",
+      "word": "Members",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Iran War Updates: U.S. finishes 7th straight night of strikes as traffic freezes up in Strait of Hormuz - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTms5S29XQzlnbjNtVi1RXzJ6WUtBLTVIVlJZVnhMbFVfemxMdmpxNlhqV2k4dkRHemU2QnpLcFNjTWRjN2NzLW4zTk9vbmFSOUQ2ejYzRVBGbC1hN2RaQWhVaE9EalhzUl9mbFY4WVFPeDRwVkNETGtEQnl3VHNpc0steHVaT3lLdFdESi1kWlIyUHla?oc=5",
+          "title": "Two U.S. service members killed in Jordan and another is missing, military says - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYVZJNzRoQ2hxRHpadVl0X21Na205RFRoZ1dfcnFPUnV2LXVLQUkxNl9NTzZhMFlKSUd3cF8zTHd0OXpMS1htRU85QTF6QXFRU3ZnQ3lxZzRrVWg5MWdKNWRZdGlnLW5Wd1JsMG5mYzFTS1UyWWZIUDhDYlptVFBmbkw5WG5EN2EwM0RGUHhQNTljcTRTZ3VNLUM0ZUE3VmJUMy1sRm1CQmlwVHBkd3NFU2x1MWQxcjFT?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 14:42:00 GMT"
+          "published": "Sat, 18 Jul 2026 18:30:31 GMT"
         }
       ]
     },
     {
-      "word": "Straight",
+      "word": "Killed",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Iran War Updates: U.S. finishes 7th straight night of strikes as traffic freezes up in Strait of Hormuz - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTms5S29XQzlnbjNtVi1RXzJ6WUtBLTVIVlJZVnhMbFVfemxMdmpxNlhqV2k4dkRHemU2QnpLcFNjTWRjN2NzLW4zTk9vbmFSOUQ2ejYzRVBGbC1hN2RaQWhVaE9EalhzUl9mbFY4WVFPeDRwVkNETGtEQnl3VHNpc0steHVaT3lLdFdESi1kWlIyUHla?oc=5",
+          "title": "Two U.S. service members killed in Jordan and another is missing, military says - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYVZJNzRoQ2hxRHpadVl0X21Na205RFRoZ1dfcnFPUnV2LXVLQUkxNl9NTzZhMFlKSUd3cF8zTHd0OXpMS1htRU85QTF6QXFRU3ZnQ3lxZzRrVWg5MWdKNWRZdGlnLW5Wd1JsMG5mYzFTS1UyWWZIUDhDYlptVFBmbkw5WG5EN2EwM0RGUHhQNTljcTRTZ3VNLUM0ZUE3VmJUMy1sRm1CQmlwVHBkd3NFU2x1MWQxcjFT?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 14:42:00 GMT"
+          "published": "Sat, 18 Jul 2026 18:30:31 GMT"
         }
       ]
     },
     {
-      "word": "Night",
+      "word": "Jordan",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Iran War Updates: U.S. finishes 7th straight night of strikes as traffic freezes up in Strait of Hormuz - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTms5S29XQzlnbjNtVi1RXzJ6WUtBLTVIVlJZVnhMbFVfemxMdmpxNlhqV2k4dkRHemU2QnpLcFNjTWRjN2NzLW4zTk9vbmFSOUQ2ejYzRVBGbC1hN2RaQWhVaE9EalhzUl9mbFY4WVFPeDRwVkNETGtEQnl3VHNpc0steHVaT3lLdFdESi1kWlIyUHla?oc=5",
+          "title": "Two U.S. service members killed in Jordan and another is missing, military says - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYVZJNzRoQ2hxRHpadVl0X21Na205RFRoZ1dfcnFPUnV2LXVLQUkxNl9NTzZhMFlKSUd3cF8zTHd0OXpMS1htRU85QTF6QXFRU3ZnQ3lxZzRrVWg5MWdKNWRZdGlnLW5Wd1JsMG5mYzFTS1UyWWZIUDhDYlptVFBmbkw5WG5EN2EwM0RGUHhQNTljcTRTZ3VNLUM0ZUE3VmJUMy1sRm1CQmlwVHBkd3NFU2x1MWQxcjFT?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 14:42:00 GMT"
+          "published": "Sat, 18 Jul 2026 18:30:31 GMT"
         }
       ]
     },
     {
-      "word": "Strikes",
+      "word": "Missing",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Iran War Updates: U.S. finishes 7th straight night of strikes as traffic freezes up in Strait of Hormuz - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTms5S29XQzlnbjNtVi1RXzJ6WUtBLTVIVlJZVnhMbFVfemxMdmpxNlhqV2k4dkRHemU2QnpLcFNjTWRjN2NzLW4zTk9vbmFSOUQ2ejYzRVBGbC1hN2RaQWhVaE9EalhzUl9mbFY4WVFPeDRwVkNETGtEQnl3VHNpc0steHVaT3lLdFdESi1kWlIyUHla?oc=5",
+          "title": "Two U.S. service members killed in Jordan and another is missing, military says - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYVZJNzRoQ2hxRHpadVl0X21Na205RFRoZ1dfcnFPUnV2LXVLQUkxNl9NTzZhMFlKSUd3cF8zTHd0OXpMS1htRU85QTF6QXFRU3ZnQ3lxZzRrVWg5MWdKNWRZdGlnLW5Wd1JsMG5mYzFTS1UyWWZIUDhDYlptVFBmbkw5WG5EN2EwM0RGUHhQNTljcTRTZ3VNLUM0ZUE3VmJUMy1sRm1CQmlwVHBkd3NFU2x1MWQxcjFT?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 14:42:00 GMT"
+          "published": "Sat, 18 Jul 2026 18:30:31 GMT"
         }
       ]
     },
     {
-      "word": "Traffic",
+      "word": "Iran",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Iran War Updates: U.S. finishes 7th straight night of strikes as traffic freezes up in Strait of Hormuz - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTms5S29XQzlnbjNtVi1RXzJ6WUtBLTVIVlJZVnhMbFVfemxMdmpxNlhqV2k4dkRHemU2QnpLcFNjTWRjN2NzLW4zTk9vbmFSOUQ2ejYzRVBGbC1hN2RaQWhVaE9EalhzUl9mbFY4WVFPeDRwVkNETGtEQnl3VHNpc0steHVaT3lLdFdESi1kWlIyUHla?oc=5",
+          "title": "Iran attacks US allies in Middle East as renewed conflict enters second week - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcU9EZm52ekUycVNuTEhRUk84ZXdGYVlaaXN5R3lKbGdmVzBRVHlZT0o2WVhKd29DeGNpZ3Zld1dZSm1RWjBjYXZjMmxINkgyODZkMjlhQTJmNEg1d1JFZmlFLUxicXNBVFp4cFM3OUdrQk5YSDI5bTFNNjhkVE5FazVKY25fOFJpNFN1RmczOHFTV1N4d2R5OGI4MmRFWUZYNUpSbUdpRUNVY3JZYm9xcXV4QXNxaUUtM2c?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 14:42:00 GMT"
+          "published": "Sat, 18 Jul 2026 17:52:00 GMT"
         }
       ]
     },
     {
-      "word": "Freezes",
+      "word": "Attacks",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Iran War Updates: U.S. finishes 7th straight night of strikes as traffic freezes up in Strait of Hormuz - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTms5S29XQzlnbjNtVi1RXzJ6WUtBLTVIVlJZVnhMbFVfemxMdmpxNlhqV2k4dkRHemU2QnpLcFNjTWRjN2NzLW4zTk9vbmFSOUQ2ejYzRVBGbC1hN2RaQWhVaE9EalhzUl9mbFY4WVFPeDRwVkNETGtEQnl3VHNpc0steHVaT3lLdFdESi1kWlIyUHla?oc=5",
+          "title": "Iran attacks US allies in Middle East as renewed conflict enters second week - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcU9EZm52ekUycVNuTEhRUk84ZXdGYVlaaXN5R3lKbGdmVzBRVHlZT0o2WVhKd29DeGNpZ3Zld1dZSm1RWjBjYXZjMmxINkgyODZkMjlhQTJmNEg1d1JFZmlFLUxicXNBVFp4cFM3OUdrQk5YSDI5bTFNNjhkVE5FazVKY25fOFJpNFN1RmczOHFTV1N4d2R5OGI4MmRFWUZYNUpSbUdpRUNVY3JZYm9xcXV4QXNxaUUtM2c?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 14:42:00 GMT"
+          "published": "Sat, 18 Jul 2026 17:52:00 GMT"
         }
       ]
     },
     {
-      "word": "Strait",
+      "word": "Allies",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Iran War Updates: U.S. finishes 7th straight night of strikes as traffic freezes up in Strait of Hormuz - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTms5S29XQzlnbjNtVi1RXzJ6WUtBLTVIVlJZVnhMbFVfemxMdmpxNlhqV2k4dkRHemU2QnpLcFNjTWRjN2NzLW4zTk9vbmFSOUQ2ejYzRVBGbC1hN2RaQWhVaE9EalhzUl9mbFY4WVFPeDRwVkNETGtEQnl3VHNpc0steHVaT3lLdFdESi1kWlIyUHla?oc=5",
+          "title": "Iran attacks US allies in Middle East as renewed conflict enters second week - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcU9EZm52ekUycVNuTEhRUk84ZXdGYVlaaXN5R3lKbGdmVzBRVHlZT0o2WVhKd29DeGNpZ3Zld1dZSm1RWjBjYXZjMmxINkgyODZkMjlhQTJmNEg1d1JFZmlFLUxicXNBVFp4cFM3OUdrQk5YSDI5bTFNNjhkVE5FazVKY25fOFJpNFN1RmczOHFTV1N4d2R5OGI4MmRFWUZYNUpSbUdpRUNVY3JZYm9xcXV4QXNxaUUtM2c?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 14:42:00 GMT"
+          "published": "Sat, 18 Jul 2026 17:52:00 GMT"
         }
       ]
     },
     {
-      "word": "Hormuz",
+      "word": "Middle",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Iran War Updates: U.S. finishes 7th straight night of strikes as traffic freezes up in Strait of Hormuz - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTms5S29XQzlnbjNtVi1RXzJ6WUtBLTVIVlJZVnhMbFVfemxMdmpxNlhqV2k4dkRHemU2QnpLcFNjTWRjN2NzLW4zTk9vbmFSOUQ2ejYzRVBGbC1hN2RaQWhVaE9EalhzUl9mbFY4WVFPeDRwVkNETGtEQnl3VHNpc0steHVaT3lLdFdESi1kWlIyUHla?oc=5",
+          "title": "Iran attacks US allies in Middle East as renewed conflict enters second week - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcU9EZm52ekUycVNuTEhRUk84ZXdGYVlaaXN5R3lKbGdmVzBRVHlZT0o2WVhKd29DeGNpZ3Zld1dZSm1RWjBjYXZjMmxINkgyODZkMjlhQTJmNEg1d1JFZmlFLUxicXNBVFp4cFM3OUdrQk5YSDI5bTFNNjhkVE5FazVKY25fOFJpNFN1RmczOHFTV1N4d2R5OGI4MmRFWUZYNUpSbUdpRUNVY3JZYm9xcXV4QXNxaUUtM2c?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 14:42:00 GMT"
+          "published": "Sat, 18 Jul 2026 17:52:00 GMT"
         }
       ]
     },
     {
-      "word": "Wildfire",
+      "word": "East",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Where Wildfire Smoke Remains—And What To Do About It - Forbes",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObk9CVkpqbWp4cG1yemFEVlJ0OWxCMjZHX1A5ZUhzbGhsVTk1QVlnUm0xdkhUTW8xM25lT1BkV2Q4UHVzZU9JRENCeVFYcllsZlZxNkRTd3JJREZwWThhRnctc2dYUHBvVzlKdEtqZ0ttaHBPOUNyOFJpRnowVmhPdTNuZEhDdGVpdklra2xaMlFJZDhRMW1rQVZBSnMxX2FuMG40T2NYVlFXUjUwTk5xMjdsaS1sSFRMMFI3T2J5RGVpSXFTTzNEVWRYUlQyc2tleTNVbk9WZWt4R1V0VHFVWEd3?oc=5",
+          "title": "Iran attacks US allies in Middle East as renewed conflict enters second week - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcU9EZm52ekUycVNuTEhRUk84ZXdGYVlaaXN5R3lKbGdmVzBRVHlZT0o2WVhKd29DeGNpZ3Zld1dZSm1RWjBjYXZjMmxINkgyODZkMjlhQTJmNEg1d1JFZmlFLUxicXNBVFp4cFM3OUdrQk5YSDI5bTFNNjhkVE5FazVKY25fOFJpNFN1RmczOHFTV1N4d2R5OGI4MmRFWUZYNUpSbUdpRUNVY3JZYm9xcXV4QXNxaUUtM2c?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 14:41:00 GMT"
+          "published": "Sat, 18 Jul 2026 17:52:00 GMT"
         }
       ]
     },
     {
-      "word": "Smoke",
+      "word": "Renewed",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Where Wildfire Smoke Remains—And What To Do About It - Forbes",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObk9CVkpqbWp4cG1yemFEVlJ0OWxCMjZHX1A5ZUhzbGhsVTk1QVlnUm0xdkhUTW8xM25lT1BkV2Q4UHVzZU9JRENCeVFYcllsZlZxNkRTd3JJREZwWThhRnctc2dYUHBvVzlKdEtqZ0ttaHBPOUNyOFJpRnowVmhPdTNuZEhDdGVpdklra2xaMlFJZDhRMW1rQVZBSnMxX2FuMG40T2NYVlFXUjUwTk5xMjdsaS1sSFRMMFI3T2J5RGVpSXFTTzNEVWRYUlQyc2tleTNVbk9WZWt4R1V0VHFVWEd3?oc=5",
+          "title": "Iran attacks US allies in Middle East as renewed conflict enters second week - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcU9EZm52ekUycVNuTEhRUk84ZXdGYVlaaXN5R3lKbGdmVzBRVHlZT0o2WVhKd29DeGNpZ3Zld1dZSm1RWjBjYXZjMmxINkgyODZkMjlhQTJmNEg1d1JFZmlFLUxicXNBVFp4cFM3OUdrQk5YSDI5bTFNNjhkVE5FazVKY25fOFJpNFN1RmczOHFTV1N4d2R5OGI4MmRFWUZYNUpSbUdpRUNVY3JZYm9xcXV4QXNxaUUtM2c?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 14:41:00 GMT"
+          "published": "Sat, 18 Jul 2026 17:52:00 GMT"
         }
       ]
     },
     {
-      "word": "Remains",
+      "word": "Conflict",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Where Wildfire Smoke Remains—And What To Do About It - Forbes",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObk9CVkpqbWp4cG1yemFEVlJ0OWxCMjZHX1A5ZUhzbGhsVTk1QVlnUm0xdkhUTW8xM25lT1BkV2Q4UHVzZU9JRENCeVFYcllsZlZxNkRTd3JJREZwWThhRnctc2dYUHBvVzlKdEtqZ0ttaHBPOUNyOFJpRnowVmhPdTNuZEhDdGVpdklra2xaMlFJZDhRMW1rQVZBSnMxX2FuMG40T2NYVlFXUjUwTk5xMjdsaS1sSFRMMFI3T2J5RGVpSXFTTzNEVWRYUlQyc2tleTNVbk9WZWt4R1V0VHFVWEd3?oc=5",
+          "title": "Iran attacks US allies in Middle East as renewed conflict enters second week - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcU9EZm52ekUycVNuTEhRUk84ZXdGYVlaaXN5R3lKbGdmVzBRVHlZT0o2WVhKd29DeGNpZ3Zld1dZSm1RWjBjYXZjMmxINkgyODZkMjlhQTJmNEg1d1JFZmlFLUxicXNBVFp4cFM3OUdrQk5YSDI5bTFNNjhkVE5FazVKY25fOFJpNFN1RmczOHFTV1N4d2R5OGI4MmRFWUZYNUpSbUdpRUNVY3JZYm9xcXV4QXNxaUUtM2c?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 14:41:00 GMT"
+          "published": "Sat, 18 Jul 2026 17:52:00 GMT"
         }
       ]
     },
     {
-      "word": "Pulte",
+      "word": "Enters",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘Pulte got really scared’: Inside the White House debate over Trump’s elections speech - Politico",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQN0N4UUtJQ1h4cHRyclNFQkNKUDJPUXBHNXhpVmxXd2FWbHZ0R3lUcnIxMHlmcHJTS3V1eXk3NlluOGs1NFItQkpSYlJfeVQzdnNFcjFWLU5ZR1lBT1NteWNiWmd0VWVqS3paSHhGQnRZRWozRXJ4SWxHMUMtQWYtbE0tcFNVZW1HdW5LNi1MZ0w2T1VJdXVic1RKWkQxZ2hGNmlvTXZiNTlxcUtxS2RoMHpIeGlFeVF4djBXblhzQ2RpR1VaaC1tVThKQ3k?oc=5",
+          "title": "Iran attacks US allies in Middle East as renewed conflict enters second week - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcU9EZm52ekUycVNuTEhRUk84ZXdGYVlaaXN5R3lKbGdmVzBRVHlZT0o2WVhKd29DeGNpZ3Zld1dZSm1RWjBjYXZjMmxINkgyODZkMjlhQTJmNEg1d1JFZmlFLUxicXNBVFp4cFM3OUdrQk5YSDI5bTFNNjhkVE5FazVKY25fOFJpNFN1RmczOHFTV1N4d2R5OGI4MmRFWUZYNUpSbUdpRUNVY3JZYm9xcXV4QXNxaUUtM2c?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 11:01:00 GMT"
+          "published": "Sat, 18 Jul 2026 17:52:00 GMT"
         }
       ]
     },
     {
-      "word": "Scared",
+      "word": "Second",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘Pulte got really scared’: Inside the White House debate over Trump’s elections speech - Politico",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQN0N4UUtJQ1h4cHRyclNFQkNKUDJPUXBHNXhpVmxXd2FWbHZ0R3lUcnIxMHlmcHJTS3V1eXk3NlluOGs1NFItQkpSYlJfeVQzdnNFcjFWLU5ZR1lBT1NteWNiWmd0VWVqS3paSHhGQnRZRWozRXJ4SWxHMUMtQWYtbE0tcFNVZW1HdW5LNi1MZ0w2T1VJdXVic1RKWkQxZ2hGNmlvTXZiNTlxcUtxS2RoMHpIeGlFeVF4djBXblhzQ2RpR1VaaC1tVThKQ3k?oc=5",
+          "title": "Iran attacks US allies in Middle East as renewed conflict enters second week - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcU9EZm52ekUycVNuTEhRUk84ZXdGYVlaaXN5R3lKbGdmVzBRVHlZT0o2WVhKd29DeGNpZ3Zld1dZSm1RWjBjYXZjMmxINkgyODZkMjlhQTJmNEg1d1JFZmlFLUxicXNBVFp4cFM3OUdrQk5YSDI5bTFNNjhkVE5FazVKY25fOFJpNFN1RmczOHFTV1N4d2R5OGI4MmRFWUZYNUpSbUdpRUNVY3JZYm9xcXV4QXNxaUUtM2c?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 11:01:00 GMT"
+          "published": "Sat, 18 Jul 2026 17:52:00 GMT"
         }
       ]
     },
     {
-      "word": "Inside",
+      "word": "Thick",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘Pulte got really scared’: Inside the White House debate over Trump’s elections speech - Politico",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQN0N4UUtJQ1h4cHRyclNFQkNKUDJPUXBHNXhpVmxXd2FWbHZ0R3lUcnIxMHlmcHJTS3V1eXk3NlluOGs1NFItQkpSYlJfeVQzdnNFcjFWLU5ZR1lBT1NteWNiWmd0VWVqS3paSHhGQnRZRWozRXJ4SWxHMUMtQWYtbE0tcFNVZW1HdW5LNi1MZ0w2T1VJdXVic1RKWkQxZ2hGNmlvTXZiNTlxcUtxS2RoMHpIeGlFeVF4djBXblhzQ2RpR1VaaC1tVThKQ3k?oc=5",
+          "title": "Thick wildfire smoke lingers over Mid-Atlantic early Saturday - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc211LVgzdTVraWE2TTV3SXZLWExBUTRINVN2d19fYzhDd09EZVFUc19WMmQxTEtYYklORm8xbjRjVEM3Vm1VcXF0ZF81dWNyckdPalVaOXZkeGlQdG5YV3dxOEFrcXY4WW9pOENWdVJadHB3NmRGOWRIRlNjN3VIeXdwRUd0NUl4cm9fV0tFNnBtLTluYmRqQVgwZGM5UGxYUnlrOXFPcFE1cU44ZXRsRlFR?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 11:01:00 GMT"
+          "published": "Sat, 18 Jul 2026 17:30:29 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Lingers",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Thick wildfire smoke lingers over Mid-Atlantic early Saturday - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc211LVgzdTVraWE2TTV3SXZLWExBUTRINVN2d19fYzhDd09EZVFUc19WMmQxTEtYYklORm8xbjRjVEM3Vm1VcXF0ZF81dWNyckdPalVaOXZkeGlQdG5YV3dxOEFrcXY4WW9pOENWdVJadHB3NmRGOWRIRlNjN3VIeXdwRUd0NUl4cm9fV0tFNnBtLTluYmRqQVgwZGM5UGxYUnlrOXFPcFE1cU44ZXRsRlFR?oc=5",
+          "source": "Google News",
+          "published": "Sat, 18 Jul 2026 17:30:29 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Mid",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Thick wildfire smoke lingers over Mid-Atlantic early Saturday - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc211LVgzdTVraWE2TTV3SXZLWExBUTRINVN2d19fYzhDd09EZVFUc19WMmQxTEtYYklORm8xbjRjVEM3Vm1VcXF0ZF81dWNyckdPalVaOXZkeGlQdG5YV3dxOEFrcXY4WW9pOENWdVJadHB3NmRGOWRIRlNjN3VIeXdwRUd0NUl4cm9fV0tFNnBtLTluYmRqQVgwZGM5UGxYUnlrOXFPcFE1cU44ZXRsRlFR?oc=5",
+          "source": "Google News",
+          "published": "Sat, 18 Jul 2026 17:30:29 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Atlantic",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Thick wildfire smoke lingers over Mid-Atlantic early Saturday - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc211LVgzdTVraWE2TTV3SXZLWExBUTRINVN2d19fYzhDd09EZVFUc19WMmQxTEtYYklORm8xbjRjVEM3Vm1VcXF0ZF81dWNyckdPalVaOXZkeGlQdG5YV3dxOEFrcXY4WW9pOENWdVJadHB3NmRGOWRIRlNjN3VIeXdwRUd0NUl4cm9fV0tFNnBtLTluYmRqQVgwZGM5UGxYUnlrOXFPcFE1cU44ZXRsRlFR?oc=5",
+          "source": "Google News",
+          "published": "Sat, 18 Jul 2026 17:30:29 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Early",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Thick wildfire smoke lingers over Mid-Atlantic early Saturday - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc211LVgzdTVraWE2TTV3SXZLWExBUTRINVN2d19fYzhDd09EZVFUc19WMmQxTEtYYklORm8xbjRjVEM3Vm1VcXF0ZF81dWNyckdPalVaOXZkeGlQdG5YV3dxOEFrcXY4WW9pOENWdVJadHB3NmRGOWRIRlNjN3VIeXdwRUd0NUl4cm9fV0tFNnBtLTluYmRqQVgwZGM5UGxYUnlrOXFPcFE1cU44ZXRsRlFR?oc=5",
+          "source": "Google News",
+          "published": "Sat, 18 Jul 2026 17:30:29 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Saturday",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Thick wildfire smoke lingers over Mid-Atlantic early Saturday - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc211LVgzdTVraWE2TTV3SXZLWExBUTRINVN2d19fYzhDd09EZVFUc19WMmQxTEtYYklORm8xbjRjVEM3Vm1VcXF0ZF81dWNyckdPalVaOXZkeGlQdG5YV3dxOEFrcXY4WW9pOENWdVJadHB3NmRGOWRIRlNjN3VIeXdwRUd0NUl4cm9fV0tFNnBtLTluYmRqQVgwZGM5UGxYUnlrOXFPcFE1cU44ZXRsRlFR?oc=5",
+          "source": "Google News",
+          "published": "Sat, 18 Jul 2026 17:30:29 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Read",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "READ THE DOCUMENTS: White House releases election integrity files after Trump speech - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONnc0U2Y5SGtvU1JxeHlvVjJXZHFDcGhUOE5Rd1RBUXdZdUpoQ24yTUplTDBlYXRUMlF1VWRKVlZiSWFtRkktN1JpVWdvTlVGdHNMc0JpelNMdURhY2J5dGtpR3lsMktINGVYNG5vRDFuWm90a1gybXlrSHZBNzlXSEhRNXF4ckJkN191OGlmR0dSX1kxaVRCR1gxTmdhLWhNSDdhLXU3eWFxWmRGLVA2MVpn0gG3AUFVX3lxTE4zcmFzU09SZV94dXNDR1kzTk5UcVc3aWpmTldRSUl0VXByLXJmNjFHdzVaamF0a09OZGdxM0RyajNzRjBJVVZrRGNSWWpZcFU0emkydGhLSFg0eVVhcmNXTWRnRjdGZjRsaWtHdjFUZjNadGo2TFpDOG1vWk4ySVRFQkxPWi1VS2NMemlCSlhQVHRobHF5bHJKdVpZV3R6MWx3U0ZBaS1Da1ZRVno3d0lrWmR3dmN3dw?oc=5",
+          "source": "Google News",
+          "published": "Sat, 18 Jul 2026 15:56:46 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Documents",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "READ THE DOCUMENTS: White House releases election integrity files after Trump speech - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONnc0U2Y5SGtvU1JxeHlvVjJXZHFDcGhUOE5Rd1RBUXdZdUpoQ24yTUplTDBlYXRUMlF1VWRKVlZiSWFtRkktN1JpVWdvTlVGdHNMc0JpelNMdURhY2J5dGtpR3lsMktINGVYNG5vRDFuWm90a1gybXlrSHZBNzlXSEhRNXF4ckJkN191OGlmR0dSX1kxaVRCR1gxTmdhLWhNSDdhLXU3eWFxWmRGLVA2MVpn0gG3AUFVX3lxTE4zcmFzU09SZV94dXNDR1kzTk5UcVc3aWpmTldRSUl0VXByLXJmNjFHdzVaamF0a09OZGdxM0RyajNzRjBJVVZrRGNSWWpZcFU0emkydGhLSFg0eVVhcmNXTWRnRjdGZjRsaWtHdjFUZjNadGo2TFpDOG1vWk4ySVRFQkxPWi1VS2NMemlCSlhQVHRobHF5bHJKdVpZV3R6MWx3U0ZBaS1Da1ZRVno3d0lrWmR3dmN3dw?oc=5",
+          "source": "Google News",
+          "published": "Sat, 18 Jul 2026 15:56:46 GMT"
         }
       ]
     },
@@ -419,10 +622,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘Pulte got really scared’: Inside the White House debate over Trump’s elections speech - Politico",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQN0N4UUtJQ1h4cHRyclNFQkNKUDJPUXBHNXhpVmxXd2FWbHZ0R3lUcnIxMHlmcHJTS3V1eXk3NlluOGs1NFItQkpSYlJfeVQzdnNFcjFWLU5ZR1lBT1NteWNiWmd0VWVqS3paSHhGQnRZRWozRXJ4SWxHMUMtQWYtbE0tcFNVZW1HdW5LNi1MZ0w2T1VJdXVic1RKWkQxZ2hGNmlvTXZiNTlxcUtxS2RoMHpIeGlFeVF4djBXblhzQ2RpR1VaaC1tVThKQ3k?oc=5",
+          "title": "READ THE DOCUMENTS: White House releases election integrity files after Trump speech - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONnc0U2Y5SGtvU1JxeHlvVjJXZHFDcGhUOE5Rd1RBUXdZdUpoQ24yTUplTDBlYXRUMlF1VWRKVlZiSWFtRkktN1JpVWdvTlVGdHNMc0JpelNMdURhY2J5dGtpR3lsMktINGVYNG5vRDFuWm90a1gybXlrSHZBNzlXSEhRNXF4ckJkN191OGlmR0dSX1kxaVRCR1gxTmdhLWhNSDdhLXU3eWFxWmRGLVA2MVpn0gG3AUFVX3lxTE4zcmFzU09SZV94dXNDR1kzTk5UcVc3aWpmTldRSUl0VXByLXJmNjFHdzVaamF0a09OZGdxM0RyajNzRjBJVVZrRGNSWWpZcFU0emkydGhLSFg0eVVhcmNXTWRnRjdGZjRsaWtHdjFUZjNadGo2TFpDOG1vWk4ySVRFQkxPWi1VS2NMemlCSlhQVHRobHF5bHJKdVpZV3R6MWx3U0ZBaS1Da1ZRVno3d0lrWmR3dmN3dw?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 11:01:00 GMT"
+          "published": "Sat, 18 Jul 2026 15:56:46 GMT"
         }
       ]
     },
@@ -432,166 +635,23 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘Pulte got really scared’: Inside the White House debate over Trump’s elections speech - Politico",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQN0N4UUtJQ1h4cHRyclNFQkNKUDJPUXBHNXhpVmxXd2FWbHZ0R3lUcnIxMHlmcHJTS3V1eXk3NlluOGs1NFItQkpSYlJfeVQzdnNFcjFWLU5ZR1lBT1NteWNiWmd0VWVqS3paSHhGQnRZRWozRXJ4SWxHMUMtQWYtbE0tcFNVZW1HdW5LNi1MZ0w2T1VJdXVic1RKWkQxZ2hGNmlvTXZiNTlxcUtxS2RoMHpIeGlFeVF4djBXblhzQ2RpR1VaaC1tVThKQ3k?oc=5",
+          "title": "READ THE DOCUMENTS: White House releases election integrity files after Trump speech - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONnc0U2Y5SGtvU1JxeHlvVjJXZHFDcGhUOE5Rd1RBUXdZdUpoQ24yTUplTDBlYXRUMlF1VWRKVlZiSWFtRkktN1JpVWdvTlVGdHNMc0JpelNMdURhY2J5dGtpR3lsMktINGVYNG5vRDFuWm90a1gybXlrSHZBNzlXSEhRNXF4ckJkN191OGlmR0dSX1kxaVRCR1gxTmdhLWhNSDdhLXU3eWFxWmRGLVA2MVpn0gG3AUFVX3lxTE4zcmFzU09SZV94dXNDR1kzTk5UcVc3aWpmTldRSUl0VXByLXJmNjFHdzVaamF0a09OZGdxM0RyajNzRjBJVVZrRGNSWWpZcFU0emkydGhLSFg0eVVhcmNXTWRnRjdGZjRsaWtHdjFUZjNadGo2TFpDOG1vWk4ySVRFQkxPWi1VS2NMemlCSlhQVHRobHF5bHJKdVpZV3R6MWx3U0ZBaS1Da1ZRVno3d0lrWmR3dmN3dw?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 11:01:00 GMT"
+          "published": "Sat, 18 Jul 2026 15:56:46 GMT"
         }
       ]
     },
     {
-      "word": "Debate",
+      "word": "Releases",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘Pulte got really scared’: Inside the White House debate over Trump’s elections speech - Politico",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQN0N4UUtJQ1h4cHRyclNFQkNKUDJPUXBHNXhpVmxXd2FWbHZ0R3lUcnIxMHlmcHJTS3V1eXk3NlluOGs1NFItQkpSYlJfeVQzdnNFcjFWLU5ZR1lBT1NteWNiWmd0VWVqS3paSHhGQnRZRWozRXJ4SWxHMUMtQWYtbE0tcFNVZW1HdW5LNi1MZ0w2T1VJdXVic1RKWkQxZ2hGNmlvTXZiNTlxcUtxS2RoMHpIeGlFeVF4djBXblhzQ2RpR1VaaC1tVThKQ3k?oc=5",
+          "title": "READ THE DOCUMENTS: White House releases election integrity files after Trump speech - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONnc0U2Y5SGtvU1JxeHlvVjJXZHFDcGhUOE5Rd1RBUXdZdUpoQ24yTUplTDBlYXRUMlF1VWRKVlZiSWFtRkktN1JpVWdvTlVGdHNMc0JpelNMdURhY2J5dGtpR3lsMktINGVYNG5vRDFuWm90a1gybXlrSHZBNzlXSEhRNXF4ckJkN191OGlmR0dSX1kxaVRCR1gxTmdhLWhNSDdhLXU3eWFxWmRGLVA2MVpn0gG3AUFVX3lxTE4zcmFzU09SZV94dXNDR1kzTk5UcVc3aWpmTldRSUl0VXByLXJmNjFHdzVaamF0a09OZGdxM0RyajNzRjBJVVZrRGNSWWpZcFU0emkydGhLSFg0eVVhcmNXTWRnRjdGZjRsaWtHdjFUZjNadGo2TFpDOG1vWk4ySVRFQkxPWi1VS2NMemlCSlhQVHRobHF5bHJKdVpZV3R6MWx3U0ZBaS1Da1ZRVno3d0lrWmR3dmN3dw?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 11:01:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Elections",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘Pulte got really scared’: Inside the White House debate over Trump’s elections speech - Politico",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQN0N4UUtJQ1h4cHRyclNFQkNKUDJPUXBHNXhpVmxXd2FWbHZ0R3lUcnIxMHlmcHJTS3V1eXk3NlluOGs1NFItQkpSYlJfeVQzdnNFcjFWLU5ZR1lBT1NteWNiWmd0VWVqS3paSHhGQnRZRWozRXJ4SWxHMUMtQWYtbE0tcFNVZW1HdW5LNi1MZ0w2T1VJdXVic1RKWkQxZ2hGNmlvTXZiNTlxcUtxS2RoMHpIeGlFeVF4djBXblhzQ2RpR1VaaC1tVThKQ3k?oc=5",
-          "source": "Google News",
-          "published": "Sat, 18 Jul 2026 11:01:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Speech",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘Pulte got really scared’: Inside the White House debate over Trump’s elections speech - Politico",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQN0N4UUtJQ1h4cHRyclNFQkNKUDJPUXBHNXhpVmxXd2FWbHZ0R3lUcnIxMHlmcHJTS3V1eXk3NlluOGs1NFItQkpSYlJfeVQzdnNFcjFWLU5ZR1lBT1NteWNiWmd0VWVqS3paSHhGQnRZRWozRXJ4SWxHMUMtQWYtbE0tcFNVZW1HdW5LNi1MZ0w2T1VJdXVic1RKWkQxZ2hGNmlvTXZiNTlxcUtxS2RoMHpIeGlFeVF4djBXblhzQ2RpR1VaaC1tVThKQ3k?oc=5",
-          "source": "Google News",
-          "published": "Sat, 18 Jul 2026 11:01:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Hardliners",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Iran’s hardliners warn of a ‘coup’ as US truce comes under pressure - CNN",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON01jUTB3R2QxNDVJeHVFWE8yRUwzQUZ6YmhpWTVyOGVkck9LVEVnLUxTSVhoWjlkQmJpTDR5VHQyR3NYMU9zVFMxWThOMElsNjZEb0NvQ2hVQzAwMWphU3lkZDNlWUhDMVBNaHRMcms4WnJ5TnlNZERBQzZMVUdrQ3NXOFUwOHNEQ1J2QXpnZ1MxZw?oc=5",
-          "source": "Google News",
-          "published": "Sat, 18 Jul 2026 08:42:36 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Warn",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Iran’s hardliners warn of a ‘coup’ as US truce comes under pressure - CNN",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON01jUTB3R2QxNDVJeHVFWE8yRUwzQUZ6YmhpWTVyOGVkck9LVEVnLUxTSVhoWjlkQmJpTDR5VHQyR3NYMU9zVFMxWThOMElsNjZEb0NvQ2hVQzAwMWphU3lkZDNlWUhDMVBNaHRMcms4WnJ5TnlNZERBQzZMVUdrQ3NXOFUwOHNEQ1J2QXpnZ1MxZw?oc=5",
-          "source": "Google News",
-          "published": "Sat, 18 Jul 2026 08:42:36 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Coup",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Iran’s hardliners warn of a ‘coup’ as US truce comes under pressure - CNN",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON01jUTB3R2QxNDVJeHVFWE8yRUwzQUZ6YmhpWTVyOGVkck9LVEVnLUxTSVhoWjlkQmJpTDR5VHQyR3NYMU9zVFMxWThOMElsNjZEb0NvQ2hVQzAwMWphU3lkZDNlWUhDMVBNaHRMcms4WnJ5TnlNZERBQzZMVUdrQ3NXOFUwOHNEQ1J2QXpnZ1MxZw?oc=5",
-          "source": "Google News",
-          "published": "Sat, 18 Jul 2026 08:42:36 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Truce",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Iran’s hardliners warn of a ‘coup’ as US truce comes under pressure - CNN",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON01jUTB3R2QxNDVJeHVFWE8yRUwzQUZ6YmhpWTVyOGVkck9LVEVnLUxTSVhoWjlkQmJpTDR5VHQyR3NYMU9zVFMxWThOMElsNjZEb0NvQ2hVQzAwMWphU3lkZDNlWUhDMVBNaHRMcms4WnJ5TnlNZERBQzZMVUdrQ3NXOFUwOHNEQ1J2QXpnZ1MxZw?oc=5",
-          "source": "Google News",
-          "published": "Sat, 18 Jul 2026 08:42:36 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Comes",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Iran’s hardliners warn of a ‘coup’ as US truce comes under pressure - CNN",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON01jUTB3R2QxNDVJeHVFWE8yRUwzQUZ6YmhpWTVyOGVkck9LVEVnLUxTSVhoWjlkQmJpTDR5VHQyR3NYMU9zVFMxWThOMElsNjZEb0NvQ2hVQzAwMWphU3lkZDNlWUhDMVBNaHRMcms4WnJ5TnlNZERBQzZMVUdrQ3NXOFUwOHNEQ1J2QXpnZ1MxZw?oc=5",
-          "source": "Google News",
-          "published": "Sat, 18 Jul 2026 08:42:36 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Pressure",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Iran’s hardliners warn of a ‘coup’ as US truce comes under pressure - CNN",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON01jUTB3R2QxNDVJeHVFWE8yRUwzQUZ6YmhpWTVyOGVkck9LVEVnLUxTSVhoWjlkQmJpTDR5VHQyR3NYMU9zVFMxWThOMElsNjZEb0NvQ2hVQzAwMWphU3lkZDNlWUhDMVBNaHRMcms4WnJ5TnlNZERBQzZMVUdrQ3NXOFUwOHNEQ1J2QXpnZ1MxZw?oc=5",
-          "source": "Google News",
-          "published": "Sat, 18 Jul 2026 08:42:36 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Noncitizens",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump says 278,000 noncitizens are on voting rolls. Experts say that’s wrong. - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPekkwVjJiY2hrRnRrZGwyTy1TYk5zcmVqU2docDhMV1ZqOHhEb3IxS3RPcjl6LUdLTDJxSGk5QlNiWGJlSy02eHRGUnhrNFJ6TE1HR3R0LVEtWVg1eWxKeFNmNXdnWUtGSlNkVzhXcEVwMVBjRFJLeWVPUXRIWDhZaGtwdVRlejVYcWtaRDdtQzdLTHN2WTdRc3BPOGo1YkZWdVlPbWE5S1M1SzRSTVR5a1RUWF9iMmdSU1cteGRaRQ?oc=5",
-          "source": "Google News",
-          "published": "Sat, 18 Jul 2026 06:01:16 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Voting",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump says 278,000 noncitizens are on voting rolls. Experts say that’s wrong. - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPekkwVjJiY2hrRnRrZGwyTy1TYk5zcmVqU2docDhMV1ZqOHhEb3IxS3RPcjl6LUdLTDJxSGk5QlNiWGJlSy02eHRGUnhrNFJ6TE1HR3R0LVEtWVg1eWxKeFNmNXdnWUtGSlNkVzhXcEVwMVBjRFJLeWVPUXRIWDhZaGtwdVRlejVYcWtaRDdtQzdLTHN2WTdRc3BPOGo1YkZWdVlPbWE5S1M1SzRSTVR5a1RUWF9iMmdSU1cteGRaRQ?oc=5",
-          "source": "Google News",
-          "published": "Sat, 18 Jul 2026 06:01:16 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Rolls",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump says 278,000 noncitizens are on voting rolls. Experts say that’s wrong. - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPekkwVjJiY2hrRnRrZGwyTy1TYk5zcmVqU2docDhMV1ZqOHhEb3IxS3RPcjl6LUdLTDJxSGk5QlNiWGJlSy02eHRGUnhrNFJ6TE1HR3R0LVEtWVg1eWxKeFNmNXdnWUtGSlNkVzhXcEVwMVBjRFJLeWVPUXRIWDhZaGtwdVRlejVYcWtaRDdtQzdLTHN2WTdRc3BPOGo1YkZWdVlPbWE5S1M1SzRSTVR5a1RUWF9iMmdSU1cteGRaRQ?oc=5",
-          "source": "Google News",
-          "published": "Sat, 18 Jul 2026 06:01:16 GMT"
+          "published": "Sat, 18 Jul 2026 15:56:46 GMT"
         }
       ]
     }
