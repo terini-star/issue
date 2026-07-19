@@ -1,19 +1,63 @@
 {
   "language": "en",
-  "last_updated": 1784443020.529232,
+  "last_updated": 1784452152.048896,
   "count": 40,
   "trends": [
+    {
+      "word": "Arrested",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Tate brothers arrested in Miami as UK adds rape, trafficking charges - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLWl0eVBDUURpeE05UnNLdjBSdmh6VmNkNDBMa2JLOGhFTTVyM2lheUV2NTZvQXV6ZFVqeDdqSmRSdEtCNm1sQUxEMy1pM1pfVnZpYk9NTDU2MG1BbEo5bi15Y2lkZm04UmQzOWxTVkVDa3VJanZEeXgzUWZCY3kyd3BBd1RGSENrR0ppblFPRXVaU0k4TFgzTVhVMjF1VVBJdHRSUXpaTWhUak5s0gGyAUFVX3lxTFBhUnZlbm1iRWh2UVFJV0FrMzRwWnNrZVZyRmF3V3hiMXdISmN2ZVFDS0M2ZnNPZlBNWjBZd1Q4eWZ4ZzlqOXRHLUFJc0NjOGhJZmhmWTQxaTd2N3MtRkJiTjZCeUIyelFvbW5lRE5KbDZ3OVlpdmJBMWFEYTExZ1FCQXo0RlkxQkZWb2VBelp5N0ZhTEVtSDVtRVJKQlZ0NEVpMzhVSzA3bkN2Qm1kM3ZpRFE?oc=5",
+          "source": "Google News",
+          "published": "Sun, 19 Jul 2026 04:58:27 GMT"
+        },
+        {
+          "title": "4 Seattle teens arrested after NE Portland gas station shooting, linked to more crimes - KATU",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNLUhUdldoTXhEeUpfRjdIMmZPalFBN1UxTGRrT3pUSjI4WE94UjJUbXU2U1NIMDJ3VmJ4ejNLbGljeVRjWlp6THZBeWpMYmZTT1ctYkp2QVlQdUJQOFp3UTR0bXVEd0tmbjE5dmJ1MDhMdEUyVmJ2U284cVdsWV9XckQ2RVZFYkdHVk11LUxxVXZ1NlVrRk9UTjhaaFZvVV9MeU0tQmM2YU9UeXpXZzRJZG4wV294MG1VWkhRTEVNaFp5ZmlidUFDQmhZTWFiZTZsNkd4LUFPXzRCZnJick1qNXBzUkZpZmJSZ0pwS3JCb0JlMkk2d19JUVZzWmk4TE5n?oc=5",
+          "source": "Google News",
+          "published": "Sun, 19 Jul 2026 02:13:59 GMT"
+        },
+        {
+          "title": "'Ultimatum' Star Blake Robertson Arrested for Assault After Show Filmed - TMZ",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOazBSNW1aa2RYTnFrQmtlajlGazdqcGYtYVpTazdhZFd1QUdzUmtjZGFUb2VRR2tiX3o4R0F6S0RNQXpXRV9wb0c5SmhDRU9FSjVyMndWbXpqUG9PTFlwNy16WTBvT3ZwTF8xWWhZLWswOWtPT2JmbmdSclFZYlQzTFFycmlaTl9aX1Bz?oc=5",
+          "source": "Google News",
+          "published": "Sun, 19 Jul 2026 02:00:56 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Trump",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump election speech divides a GOP wary of midterms - The Hill",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYTY1S05EaE9mMVJUcmtGNE1ZaFFUaDhLM3lDc2FxQThfU1NXUkx1LWRLWmZURVhzR3h3OGJBUURMZExRdlp2RkNyZklVWjFwa0hqY0RlOXJZMUkwTVBxbFlvMVFad3EwdU9DSzFVM3VWTV9BeHNYVWZNZFJRdjdqanRobXRxMm1SR2VJ0gGQAUFVX3lxTE05QVh6R083VHFUUmlNM1lGbGEtcmo4dXdHTGw4M3Rta1BEal9MU0VMbTlGNVl3QW9wcFlWenFzb0p5YXlfbm1HdVByUW1WZkNUV2R6SlFCMkJvU2NCM25DeFFSYWxSTjRZdnluNHFoMkxDNHo5ekxUMUg1U0ZfNHl5MVlUazBFWEFYclBpMVhiaA?oc=5",
+          "source": "Google News",
+          "published": "Sat, 18 Jul 2026 21:00:00 GMT"
+        },
+        {
+          "title": "Trump Media pitched $100,000 monthly fee for fastest feed of U.S. president's posts, sources say - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLWxuQ1JBdEdrNC1Ld3Y0RjlmNzJHVXpqWUd6MzlyMHlCbUJxdHg0U1ZxUGtGcF9OV2VrQ1VuQmNQSDVCMFZKQjkybzN1dU1EdjdlOVpwX3pFM3NuZkY4clhwRVBnMlg0VFRfa2ozbm9IeGdBZXZpeG9FSkJlc2RscklhNkRpOUJpcXhnb05peXk1TU04d3JMQWtPS2JqQXNtSDBBUUlZeHDSAa4BQVVfeXFMT3dFYWJ4Y1VUMG16SENGTExPNXZ1ZFUweWFVbjNKVWY4X1lTVmxVSzREcEtBVGVpLVdiMy1ORU11WFBIVXV6YlRfbzBTZFBpSFlpMk5zeHJjWERUT19YekRiTDZObnRQVkZuSWlZSXlCRmprZDV2NDRtZEtRendDVGwzaF83ZzNBZFo1bThFY1VxVlhUOUE5Z2hGYnp2d2tTNVBJdW93aWJ4SkFWZDZ3?oc=5",
+          "source": "Google News",
+          "published": "Sat, 18 Jul 2026 13:57:16 GMT"
+        },
+        {
+          "title": "Trump’s deep public health cuts hinder response to record US cyclosporiasis outbreak - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZUpQV0FvWlJKV1VnTWt5M2dDODM3S01TOFM3VHpqMUF6NU44UVd6cVdEZmtLcS1xclpiNG1OXzRQWDVsZmZ5YUhwVVdOOHl5eDJVbmkyamU3YWZ0NGk5NzdZNFFFMEV0TGJ4aFhlaXJNYXhCNGtPdEZYUHJZWkFnT0U1Yw?oc=5",
+          "source": "Google News",
+          "published": "Sat, 18 Jul 2026 21:21:00 GMT"
+        }
+      ]
+    },
     {
       "word": "Outbreak",
       "count": 3,
       "category": "NOUN",
       "articles": [
-        {
-          "title": "Explosive diarrhea outbreak: Lettuce tests positive for cyclospora, FDA says - NewsNation",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVjB4Wkh0TDZITXAxRy1OUFBwck9CZGhzQzJ2QkVyV1lyWVU2ZzdHdTdNN3k1bnFrZzI5RWJmZC1EVVJESy1xUGxLVkVGeEdkLVFUdjBURzNZMEZRelJyNTZGdzVzMHdqcmNyeG82TWI0Q1JYV2xwbkZMWlJtbGZaWWtsTHB4aGd1LWfSAY8BQVVfeXFMTmxoN1dTdXpiOWpaaTk4ZEswejdNQTJaTTRXWHNPVkFPbFBmLUlURExLXzFkdmtqUDlWNmZ1dXhqUGtzeGJNM3piY0J0eEtidGlJS1BfR0ZybG5ud0o4eHJFZ2xudWVWcTRiZXUtUmZOMEkwSkNYcDloeEtmS3ItcXF2WWNvei1lZ1VtMTdKMDA?oc=5",
-          "source": "Google News",
-          "published": "Sun, 19 Jul 2026 03:27:26 GMT"
-        },
         {
           "title": "Trump’s deep public health cuts hinder response to record US cyclosporiasis outbreak - The Guardian",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZUpQV0FvWlJKV1VnTWt5M2dDODM3S01TOFM3VHpqMUF6NU44UVd6cVdEZmtLcS1xclpiNG1OXzRQWDVsZmZ5YUhwVVdOOHl5eDJVbmkyamU3YWZ0NGk5NzdZNFFFMEV0TGJ4aFhlaXJNYXhCNGtPdEZYUHJZWkFnT0U1Yw?oc=5",
@@ -25,31 +69,12 @@
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GTTlIeEZHU3JRZnI2TTE1STg5c3RqTU1ZOU9zZENsUDZOWFFSbUJlUk9zOWt6YjR2aG0wcm0wbUx3LWV0Y2liWDRjX0xNS3RnYlBDYWJyN29acG5TRk5nREIzb2haSU9IbUxxazI5MXd2VlNONGtyWEJORDFMQUE?oc=5",
           "source": "Google News",
           "published": "Sat, 18 Jul 2026 15:26:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Response",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Bryson DeChambeau's five-word response after Rory McIlroy's brutal Open attack - Golfmagic",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZkU4TmVxblJqa0dJVlFlbDhNOVNjcTQ4OTRlaGRzSURDSUxxckF5QU1aRUJ5bXJScWhBNUpmWjR3aFd0WDZRMzJMTmRpQ3ZlaVhuX05VU1RmQWU2NXppanlaYjY2eDVDckRtaXlKaXpZZ3ZGX3dET1laT19PY1JTU3g0NVRCazRObG5meURHODdWRnJQSVpScFpOS0VMUXFqTENwMDdWazg0eHZva1VybnhiMXZzQ3JfZXgyU3NYWVhROXM?oc=5",
-          "source": "Google News",
-          "published": "Sat, 18 Jul 2026 22:40:00 GMT"
         },
         {
-          "title": "Trump’s deep public health cuts hinder response to record US cyclosporiasis outbreak - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZUpQV0FvWlJKV1VnTWt5M2dDODM3S01TOFM3VHpqMUF6NU44UVd6cVdEZmtLcS1xclpiNG1OXzRQWDVsZmZ5YUhwVVdOOHl5eDJVbmkyamU3YWZ0NGk5NzdZNFFFMEV0TGJ4aFhlaXJNYXhCNGtPdEZYUHJZWkFnT0U1Yw?oc=5",
+          "title": "Ritzy SoCal city rocked by rare cancer outbreak suspends use of chemical landscaping products - New York Post",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVWdqcHNfVTI4WHpfMk0tRlA2OHRmNl9vcDlZNU5tT0xmYV9zNTVkVjZ2VzB2WFREblFmVjFBUF9tUjgyOG9hZHljTmRwVTVqc2Rua29NT2ExeTNLclE3Z1ZBeEx4QlEwV1RRU041dG5EMkRZQnJxcXU2T085U1NDVmNvMG10bXRrTVhfcGFHcXVjSjRiNjN4V0t2NE92cTdiSDVzaGRvZUVRZ0dfV1JOTQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 21:21:00 GMT"
-        },
-        {
-          "title": "Safety fears limit Ebola response in Congo, with more than 12 attacks recorded - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMmhpRkFVWVM5Z1hvQ3BCcmpEdzFPRXZnaFd6WFVqWW1WRE1xT3k4YVlTRThrRTFZSWZ4azk0aDQ0OUdRU1V2S2NEWW5zVjhXWWhPQlFmbUwweUg4ei1LNXVkYzlYeFFscHo4ak5xeVUtM3h6WTROdm1zMEFtUlJuMUI0NEhXRTJTMTJ5MUhNX1dJQU1mZGtSd21GaXZaLWw5dExSeXRXdDY?oc=5",
-          "source": "Google News",
-          "published": "Sat, 18 Jul 2026 17:02:05 GMT"
+          "published": "Fri, 17 Jul 2026 21:28:00 GMT"
         }
       ]
     },
@@ -59,73 +84,111 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Two U.S. troops killed, one missing in Iranian missile attack on Jordan - Axios",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lejhSanE3ZWhrMU9BYk1xRDRBSElEaGdCcEl2NXNiMzY2YXgwQXY3VnF0aEF2YXQ0ZXRkbXJ1em9TY0wxWWY1YTBhUnB6WGJ3NU9DQUc4MGJtaEtmRk9QaVJ2VFZNLWF0NDB2N1pJdkhCM3pWZG1VTnFXRjI?oc=5",
+          "title": "Two U.S. service members killed in Jordan and another is missing after Iranian strikes, military says - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYVZJNzRoQ2hxRHpadVl0X21Na205RFRoZ1dfcnFPUnV2LXVLQUkxNl9NTzZhMFlKSUd3cF8zTHd0OXpMS1htRU85QTF6QXFRU3ZnQ3lxZzRrVWg5MWdKNWRZdGlnLW5Wd1JsMG5mYzFTS1UyWWZIUDhDYlptVFBmbkw5WG5EN2EwM0RGUHhQNTljcTRTZ3VNLUM0ZUE3VmJUMy1sRm1CQmlwVHBkd3NFU2x1MWQxcjFT?oc=5",
           "source": "Google News",
-          "published": "Sun, 19 Jul 2026 04:47:36 GMT"
+          "published": "Sun, 19 Jul 2026 08:38:00 GMT"
         },
         {
-          "title": "Researchers identify class of 'oddball' meteorite that killed the dinosaurs - Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jX054aW9Ocl81LVk4c3Y5anN6akJFVnV3cERQcW03TTdENUZOeTIwOUNxemctTDU4WVJTNjVkaGZnUWQ1bHhaa2pQdUt5QzZiVlZyU3FaSmwxNWhIT2xWRnY5X3pnem1tN1lEV291Z01QeDRRbldj?oc=5",
+          "title": "Researchers just uncovered more about the asteroid that killed the dinosaurs 66 million years ago - The Independent",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeEZzVkU0aEhBR0NHaXVFaGlfYi02RGFfd2puQ1ZxMUpqS0syNkZZWGcxOW1zejUwTk01U2RwMGtTbUF0ZFpNbjZvT01mWXM2WkJYYVExZnNPbVEwbXR6aVNYUjdJNTl0YUFtVm9heEJxdHBnaF9VZEpYWkZtaEs4VUJBYmZfVmxyMWNGZjktbmV1RldPdjFtWDVncS1lM1ZDSUtHUWExeVQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 17 Jul 2026 18:00:11 GMT"
+          "published": "Fri, 17 Jul 2026 22:19:00 GMT"
         }
       ]
     },
     {
-      "word": "Attack",
+      "word": "Strikes",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Two U.S. troops killed, one missing in Iranian missile attack on Jordan - Axios",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lejhSanE3ZWhrMU9BYk1xRDRBSElEaGdCcEl2NXNiMzY2YXgwQXY3VnF0aEF2YXQ0ZXRkbXJ1em9TY0wxWWY1YTBhUnB6WGJ3NU9DQUc4MGJtaEtmRk9QaVJ2VFZNLWF0NDB2N1pJdkhCM3pWZG1VTnFXRjI?oc=5",
+          "title": "Two U.S. service members killed in Jordan and another is missing after Iranian strikes, military says - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYVZJNzRoQ2hxRHpadVl0X21Na205RFRoZ1dfcnFPUnV2LXVLQUkxNl9NTzZhMFlKSUd3cF8zTHd0OXpMS1htRU85QTF6QXFRU3ZnQ3lxZzRrVWg5MWdKNWRZdGlnLW5Wd1JsMG5mYzFTS1UyWWZIUDhDYlptVFBmbkw5WG5EN2EwM0RGUHhQNTljcTRTZ3VNLUM0ZUE3VmJUMy1sRm1CQmlwVHBkd3NFU2x1MWQxcjFT?oc=5",
           "source": "Google News",
-          "published": "Sun, 19 Jul 2026 04:47:36 GMT"
+          "published": "Sun, 19 Jul 2026 08:38:00 GMT"
         },
         {
-          "title": "Bryson DeChambeau's five-word response after Rory McIlroy's brutal Open attack - Golfmagic",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZkU4TmVxblJqa0dJVlFlbDhNOVNjcTQ4OTRlaGRzSURDSUxxckF5QU1aRUJ5bXJScWhBNUpmWjR3aFd0WDZRMzJMTmRpQ3ZlaVhuX05VU1RmQWU2NXppanlaYjY2eDVDckRtaXlKaXpZZ3ZGX3dET1laT19PY1JTU3g0NVRCazRObG5meURHODdWRnJQSVpScFpOS0VMUXFqTENwMDdWazg0eHZva1VybnhiMXZzQ3JfZXgyU3NYWVhROXM?oc=5",
+          "title": "Ukraine Escalates Air War With Deadly Strikes on Russia’s ‘Amazon’ - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaDdNZzh3V3d5Zk1RTHdfV2FHMVk4My1ZZGpPX2E0S3BFUld1MVpub1BRcW9CNWRWREdVc2FwQ0xPWkFoa0F5RG5kcUVWYVVCT3FyRE9YaTdMM1R3S3lkTTVVU1JDOUxZTVZhQlpJT1JYMVl5Rktqa25JWldMN0hUeU5DQ00tLXg0aHY0d21lbVVnTkRwell0QzQyMWF4X3M?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 22:40:00 GMT"
+          "published": "Sun, 19 Jul 2026 01:24:00 GMT"
         }
       ]
     },
     {
-      "word": "Arrested",
+      "word": "Past",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Tate brothers arrested in Miami as UK adds rape, trafficking charges - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLWl0eVBDUURpeE05UnNLdjBSdmh6VmNkNDBMa2JLOGhFTTVyM2lheUV2NTZvQXV6ZFVqeDdqSmRSdEtCNm1sQUxEMy1pM1pfVnZpYk9NTDU2MG1BbEo5bi15Y2lkZm04UmQzOWxTVkVDa3VJanZEeXgzUWZCY3kyd3BBd1RGSENrR0ppblFPRXVaU0k4TFgzTVhVMjF1VVBJdHRSUXpaTWhUak5s0gGyAUFVX3lxTFBhUnZlbm1iRWh2UVFJV0FrMzRwWnNrZVZyRmF3V3hiMXdISmN2ZVFDS0M2ZnNPZlBNWjBZd1Q4eWZ4ZzlqOXRHLUFJc0NjOGhJZmhmWTQxaTd2N3MtRkJiTjZCeUIyelFvbW5lRE5KbDZ3OVlpdmJBMWFEYTExZ1FCQXo0RlkxQkZWb2VBelp5N0ZhTEVtSDVtRVJKQlZ0NEVpMzhVSzA3bkN2Qm1kM3ZpRFE?oc=5",
+          "title": "ICE officer’s troubled past renews questions about vetting - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU29vX0FxVHV0eWxDUW82Q2MwQVpldjV2eGE0X05VT1dwNTF1cGFmZUZTNVhxeHhlTklpYlBWWnlHVFh3U1FjNnZzS2JmVHlDdU9aZWFTQjJWTHI5UV9TVE9Gb3hIZVZtMFBIWkMyUTc1QjRuZnBXbm1FaTU5ZVp6eDRKakxwV2NvSkhfdmVfc2laMGpXdFFSbUZMZkpPcHowRUZleVdjcUlVMy0yMWoxVnIwYTBYem9LT0JqSXNoSGJqd1V2bnc?oc=5",
           "source": "Google News",
-          "published": "Sun, 19 Jul 2026 04:58:27 GMT"
+          "published": "Sun, 19 Jul 2026 06:53:51 GMT"
         },
         {
-          "title": "'Ultimatum' Star Blake Robertson Arrested for Assault After Show Filmed - TMZ",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOazBSNW1aa2RYTnFrQmtlajlGazdqcGYtYVpTazdhZFd1QUdzUmtjZGFUb2VRR2tiX3o4R0F6S0RNQXpXRV9wb0c5SmhDRU9FSjVyMndWbXpqUG9PTFlwNy16WTBvT3ZwTF8xWWhZLWswOWtPT2JmbmdSclFZYlQzTFFycmlaTl9aX1Bz?oc=5",
+          "title": "Saka’s hat trick lifts England past Mbappé and France 6-4 in wild World Cup third-place game - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUTd1eE92M2VUNjYwMFVJbUp6NlJTb0g1ZHExLWVnbGh6NndrZXB2aFdhSXgzNjJDdC1OWjJpMGR4TERvbGctTnJubTRmeXBQT1dMZlItNUlyNFJaa0lrY1VlWXhYMGxUem5UajQzSkEzTG1kLTRVeUJWbmswUlQ1cG5CSmZ2MGtmVDZZWHE5RDY3UHRJNW5TdDMyWng4Q19MbmhydA?oc=5",
           "source": "Google News",
-          "published": "Sun, 19 Jul 2026 02:00:56 GMT"
+          "published": "Sun, 19 Jul 2026 02:02:00 GMT"
         }
       ]
     },
     {
-      "word": "Weather",
+      "word": "Exit",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "NYC weather: Storms start to exit but downpour risks remain; air quality to improve | Live updates - ABC7 New York",
+          "title": "NYC weather: Storms exit after flash flooding; air quality improves | Live updates - ABC7 New York",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOGdkMjFEN21DWjNULXBTaF94VTMzMEduVHM0eEd5T0UzTndOaFVVLUI5WXZmWXJEOUFmRWJ6dXRpbk02SHpYbVNad0dsaE9SdXNuampzeHRNRXE1Mm1yR3RkXzdkVXlwVFlQSXAxc1UtU2pvYUR4UWVkNFZsekUzMXZQNmlQb09pUWhicktWWXhDSzRtQW1Xd2laWU1VZEZaTkRZVmo5WUJSbkkwaFBRdFlJNA?oc=5",
           "source": "Google News",
-          "published": "Sun, 19 Jul 2026 04:30:00 GMT"
+          "published": "Sun, 19 Jul 2026 06:12:00 GMT"
         },
         {
-          "title": "Noah Kahan Concert Among Shows Canceled in New York Due to Inclement Weather on Saturday - Billboard",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSTZ2RXhUR0tUaFc1eGFGenU5SGpVRk1yXzgxTzhZWXZPOU03X2F1aWQyR1B4NWRmRDZPSHJYY2hiM3NId29aZktJYS1UdHJhbDJFbDc5U3dJVkZoUHh3dlZHdUdVTzdiMGU2Szd6amhiWVNDcWNqeVZvMjJFNW1FQnRaeFFfNzFzVEhWcTdnNlpmc2x2SW1iMmxB?oc=5",
+          "title": "OnePlus Exit Means Fewer Options in a Market Mired by Lack of Choice - PetaPixel",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb3ltalgxdld1LWhBeGpGNzdkblo4UEdOWFJ2ZFc3LVh6Z2ttVXBQWUpNYnFPV2cwSjlZX3JSSGI2S3BicE9mY3k5OGFScTk5SHNtVUpWV01FUU8zOXIwN19adGNSX2Y2aXNyTS1BVEVUZGlpdlVvcTU2ZEgtMV84LWRSNVFvNkR6YWg4dGdRaURwRmNuMXFMc3V0dlFZcHJ4VmsxUg?oc=5",
           "source": "Google News",
-          "published": "Sun, 19 Jul 2026 00:11:13 GMT"
+          "published": "Sat, 18 Jul 2026 10:00:07 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Live",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "NYC weather: Storms exit after flash flooding; air quality improves | Live updates - ABC7 New York",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOGdkMjFEN21DWjNULXBTaF94VTMzMEduVHM0eEd5T0UzTndOaFVVLUI5WXZmWXJEOUFmRWJ6dXRpbk02SHpYbVNad0dsaE9SdXNuampzeHRNRXE1Mm1yR3RkXzdkVXlwVFlQSXAxc1UtU2pvYUR4UWVkNFZsekUzMXZQNmlQb09pUWhicktWWXhDSzRtQW1Xd2laWU1VZEZaTkRZVmo5WUJSbkkwaFBRdFlJNA?oc=5",
+          "source": "Google News",
+          "published": "Sun, 19 Jul 2026 06:12:00 GMT"
+        },
+        {
+          "title": "Live updates: US launches new airstrikes to ‘swiftly punish’ Iran for killing American troops - CNN",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtMGlzV0M5eFNoa21PNkMyc0xxNmZTOEpMOU5Lek9MNFpvOUc0a21SbkpMOFpjbXhzVEtMU0o3SG42UHZjUl8wMHdvSzcxbE1lbzE5dnBhaDRtbFRINzVxLWdpQ1l1Z0YtRG9yejdR?oc=5",
+          "source": "Google News",
+          "published": "Sun, 19 Jul 2026 04:29:25 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Updates",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "NYC weather: Storms exit after flash flooding; air quality improves | Live updates - ABC7 New York",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOGdkMjFEN21DWjNULXBTaF94VTMzMEduVHM0eEd5T0UzTndOaFVVLUI5WXZmWXJEOUFmRWJ6dXRpbk02SHpYbVNad0dsaE9SdXNuampzeHRNRXE1Mm1yR3RkXzdkVXlwVFlQSXAxc1UtU2pvYUR4UWVkNFZsekUzMXZQNmlQb09pUWhicktWWXhDSzRtQW1Xd2laWU1VZEZaTkRZVmo5WUJSbkkwaFBRdFlJNA?oc=5",
+          "source": "Google News",
+          "published": "Sun, 19 Jul 2026 06:12:00 GMT"
+        },
+        {
+          "title": "Live updates: US launches new airstrikes to ‘swiftly punish’ Iran for killing American troops - CNN",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtMGlzV0M5eFNoa21PNkMyc0xxNmZTOEpMOU5Lek9MNFpvOUc0a21SbkpMOFpjbXhzVEtMU0o3SG42UHZjUl8wMHdvSzcxbE1lbzE5dnBhaDRtbFRINzVxLWdpQ1l1Z0YtRG9yejdR?oc=5",
+          "source": "Google News",
+          "published": "Sun, 19 Jul 2026 04:29:25 GMT"
         }
       ]
     },
@@ -149,34 +212,53 @@
       ]
     },
     {
-      "word": "President",
+      "word": "Market",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Hungary’s president agrees to stand down after law change ends his term - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVzcyazBpRFdEcTQ5LVBVazFOVS1pZkd2dW1SeTh6VjlUd18yU0dpUWt6cnBtUVVoVGllbk5WWU9pVS1MbFp5Rjh1VGJHX29WU2NxQ3diV3lNQ0FqWE54aV9tZ1VZRFFLYmU4TS1DS2FrUzluWDhMOTlNTkoySktFWVFxcVhIY3N0aEZTREpwM2J0WHhZaXJpMUNfUTJRakdWQjRmZ1RHeFFDc1NESEJ3VXdaRVBlZ3c?oc=5",
+          "title": "I asked ChatGPT if the stock market will crash in 2026. It said… - The Twelfth Magpie",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONXhrV1d2MGxTaU1qWHNhb3lOOXVuaXlwaWFkRnA5Nk5IV0l3ZWw2VXRsakg3MTgtSmRQOWtOYk9LZk9jVlZwdzh3UzMtYWI4Sm5mRlhnZllEMVpzOThuYjlIZUR5QW9EU0pyaF83b2QtTTFremxpOVFsbTlEYlhQOXdMM24tVFkzdDBzM1NTM2pUU19WQmhzWkZpVExIRVQweGE0WEdIWQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 23:12:00 GMT"
+          "published": "Sat, 18 Jul 2026 06:11:00 GMT"
         },
         {
-          "title": "Trump Media pitched $100,000 monthly fee for fastest feed of U.S. president's posts, sources say - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLWxuQ1JBdEdrNC1Ld3Y0RjlmNzJHVXpqWUd6MzlyMHlCbUJxdHg0U1ZxUGtGcF9OV2VrQ1VuQmNQSDVCMFZKQjkybzN1dU1EdjdlOVpwX3pFM3NuZkY4clhwRVBnMlg0VFRfa2ozbm9IeGdBZXZpeG9FSkJlc2RscklhNkRpOUJpcXhnb05peXk1TU04d3JMQWtPS2JqQXNtSDBBUUlZeHDSAa4BQVVfeXFMT3dFYWJ4Y1VUMG16SENGTExPNXZ1ZFUweWFVbjNKVWY4X1lTVmxVSzREcEtBVGVpLVdiMy1ORU11WFBIVXV6YlRfbzBTZFBpSFlpMk5zeHJjWERUT19YekRiTDZObnRQVkZuSWlZSXlCRmprZDV2NDRtZEtRendDVGwzaF83ZzNBZFo1bThFY1VxVlhUOUE5Z2hGYnp2d2tTNVBJdW93aWJ4SkFWZDZ3?oc=5",
+          "title": "OnePlus Exit Means Fewer Options in a Market Mired by Lack of Choice - PetaPixel",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb3ltalgxdld1LWhBeGpGNzdkblo4UEdOWFJ2ZFc3LVh6Z2ttVXBQWUpNYnFPV2cwSjlZX3JSSGI2S3BicE9mY3k5OGFScTk5SHNtVUpWV01FUU8zOXIwN19adGNSX2Y2aXNyTS1BVEVUZGlpdlVvcTU2ZEgtMV84LWRSNVFvNkR6YWg4dGdRaURwRmNuMXFMc3V0dlFZcHJ4VmsxUg?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 13:57:16 GMT"
+          "published": "Sat, 18 Jul 2026 10:00:07 GMT"
         }
       ]
     },
     {
-      "word": "Trump",
+      "word": "Open",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump Media pitched $100,000 monthly fee for fastest feed of U.S. president's posts, sources say - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLWxuQ1JBdEdrNC1Ld3Y0RjlmNzJHVXpqWUd6MzlyMHlCbUJxdHg0U1ZxUGtGcF9OV2VrQ1VuQmNQSDVCMFZKQjkybzN1dU1EdjdlOVpwX3pFM3NuZkY4clhwRVBnMlg0VFRfa2ozbm9IeGdBZXZpeG9FSkJlc2RscklhNkRpOUJpcXhnb05peXk1TU04d3JMQWtPS2JqQXNtSDBBUUlZeHDSAa4BQVVfeXFMT3dFYWJ4Y1VUMG16SENGTExPNXZ1ZFUweWFVbjNKVWY4X1lTVmxVSzREcEtBVGVpLVdiMy1ORU11WFBIVXV6YlRfbzBTZFBpSFlpMk5zeHJjWERUT19YekRiTDZObnRQVkZuSWlZSXlCRmprZDV2NDRtZEtRendDVGwzaF83ZzNBZFo1bThFY1VxVlhUOUE5Z2hGYnp2d2tTNVBJdW93aWJ4SkFWZDZ3?oc=5",
+          "title": "Google is open-sourcing its 3D emoji - The Verge",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85Q1BjS052a3NmQm0yZVFTV2s4cmN5TG41Wi1OaXdKLVRlN1NzenB2YkFob2tfU1g4RVFQa0tWWWNhRkxpZWhjd05QWUItV2Z5NXFtbk9iZkZBaFFWTTZVRG9JVHlVVFE4OUIwXzdzUER4NE53?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 13:57:16 GMT"
+          "published": "Sat, 18 Jul 2026 16:40:55 GMT"
+        },
+        {
+          "title": "Bryson DeChambeau’s unusual request declined by R&A in surprise Open twist - Today's Golfer",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONEt6Y3V2LVlrLWVzNEFOZWVNdHRVaTItMjc0Vm94R3lTbWVpOFNvdkZqczJPa0J6WVNjbmxFQ0pWWE9fc2lHaUpKaTJCQV9ZZ2RVNHREVzA2Tms0OHR3QVNaeWJoYVlZVk9OY0w2RGZ6OW10cEJhQ3MwSkExdndqUHpZYm9WLUlCWG9ZTWZTVnpSampRc0JvVC1qemVJVU1RbE16LUk1NmNvdU4zWFZJcXdWWmFQTnM?oc=5",
+          "source": "Google News",
+          "published": "Sun, 19 Jul 2026 07:26:41 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Public",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "WordPress Core \"wp2shell\" RCE flaws get public exploits, patch now - BleepingComputer",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcFZsQ3ZtY3JublFESllYMWhETDlka2J1Y25MUnBlWUFEYXJpdS1IRHNLNE9yOEZ1ZTVoWjdsR1ZhMEotZlhxWHlqa0tIYUdFVmM4cEpFeXFsaXBLRE9fTWRBc1FqYjUxaTQzVThGWEI3VkJyN0U3UHhtS2RCdEhTRVdlajVGUFlPZFl4VjRTTjJxQ1hmOUFCelZTRDBZb2xmYTlUc2YxazZXRkg5eWxVedIBtgFBVV95cUxPZk5ITFp6Q3JNa2RLN0Zoa25UU0dEWWp0Tng5emdEYU5WZjZWb0M2UnJCQnVzTzJneUFlN2hkSklFUzlHZ2lQRE8zQWQ2a2dOWnBNSEhJVEZaMjlMZzdBWUpXZHFPMU9FdmkyMnJjN0NRVnpEcEJWVGh4OGV4eWNyMktSUGEzUldrMzBVa0E1aWwtcm9rY05yUVJGQkM3bVZpT2VCYVNlUzN6OXYwMzZEeXBSVEZjZw?oc=5",
+          "source": "Google News",
+          "published": "Sat, 18 Jul 2026 17:22:47 GMT"
         },
         {
           "title": "Trump’s deep public health cuts hinder response to record US cyclosporiasis outbreak - The Guardian",
@@ -187,59 +269,40 @@
       ]
     },
     {
-      "word": "Open",
+      "word": "Sunday",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants - The Hacker News",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVXROVzNwVnpKQkkxVFk1UktfU3J3MFZmSHRGcUlIZEVkVnhTdktOUVpudlhLS2xwc3ctSDM0VXU0UFdZOUVnZnpqTEZJMHRVWmVLeVlTbnhsVEQ2bTRXazA3SElWS2ZJVG5tUGphRENMRE5JZXlWRUJBUzc4aExKaQ?oc=5",
+          "title": "Horoscope for Sunday, July 19, 2026 - Chicago Sun-Times",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOU0tnQnFhejdvZEpybGEtQU43b0dlVEtWclMyNkdTRVZnenFMNC1NMU1tS0FBSDBPcERmQ2hrdWdPWUFPdkpXa1NiYWdFaDJOSUlTdXBCZy1Oblp1dTFBUVVFTUJXQXVnLVRlMkFvejZHaVZQVDBpMkg1QXhsaVRKdDh2a292MldkeS1UVnZ6dDY?oc=5",
           "source": "Google News",
-          "published": "Fri, 17 Jul 2026 11:44:00 GMT"
+          "published": "Sun, 19 Jul 2026 05:01:00 GMT"
         },
         {
-          "title": "Bryson DeChambeau's five-word response after Rory McIlroy's brutal Open attack - Golfmagic",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZkU4TmVxblJqa0dJVlFlbDhNOVNjcTQ4OTRlaGRzSURDSUxxckF5QU1aRUJ5bXJScWhBNUpmWjR3aFd0WDZRMzJMTmRpQ3ZlaVhuX05VU1RmQWU2NXppanlaYjY2eDVDckRtaXlKaXpZZ3ZGX3dET1laT19PY1JTU3g0NVRCazRObG5meURHODdWRnJQSVpScFpOS0VMUXFqTENwMDdWazg0eHZva1VybnhiMXZzQ3JfZXgyU3NYWVhROXM?oc=5",
+          "title": "Dodgers-Yankees Saturday game postponed; split DH Sunday - MLB.com",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPemtoTURtOVFpcmdIUXZjNzhEYklFVkVDR3BTUk5rVkRHTUptMXl3bUZuZENURi04ZUROOGZ2dDl5Yl9Mc3hsZnh1eGxJREtYZUtRbzVFY0l0R1hnZlZJWHQ2MllLeTNkTDM4X01Pc0RVMlNpM1ZUSTYwZU1uT3NQQUxha0FSSUwzRVMxb0dvYWLSAZwBQVVfeXFMT0l5aEZTTEdzZkk0NjFudUJjYzZtQ1cySUFPblpDYnFoR2hYcWprUGtyMlFDQzNNS2RxTTZoNGtGWDlSajViZUkxVmRMUnh6b2RMVFg4S1VraEdXRXczZmk0RzJ2VUpqeTRFazRJU2xqd0tKZWlNaS1RYlM4MEFsajVEYWw4cTlRRWR4Q2Z3M18za3ZycC1nOUdCT25j?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 22:40:00 GMT"
+          "published": "Sun, 19 Jul 2026 00:08:20 GMT"
         }
       ]
     },
     {
-      "word": "Star",
+      "word": "Game",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "'Ultimatum' Star Blake Robertson Arrested for Assault After Show Filmed - TMZ",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOazBSNW1aa2RYTnFrQmtlajlGazdqcGYtYVpTazdhZFd1QUdzUmtjZGFUb2VRR2tiX3o4R0F6S0RNQXpXRV9wb0c5SmhDRU9FSjVyMndWbXpqUG9PTFlwNy16WTBvT3ZwTF8xWWhZLWswOWtPT2JmbmdSclFZYlQzTFFycmlaTl9aX1Bz?oc=5",
+          "title": "Dodgers-Yankees Saturday game postponed; split DH Sunday - MLB.com",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPemtoTURtOVFpcmdIUXZjNzhEYklFVkVDR3BTUk5rVkRHTUptMXl3bUZuZENURi04ZUROOGZ2dDl5Yl9Mc3hsZnh1eGxJREtYZUtRbzVFY0l0R1hnZlZJWHQ2MllLeTNkTDM4X01Pc0RVMlNpM1ZUSTYwZU1uT3NQQUxha0FSSUwzRVMxb0dvYWLSAZwBQVVfeXFMT0l5aEZTTEdzZkk0NjFudUJjYzZtQ1cySUFPblpDYnFoR2hYcWprUGtyMlFDQzNNS2RxTTZoNGtGWDlSajViZUkxVmRMUnh6b2RMVFg4S1VraEdXRXczZmk0RzJ2VUpqeTRFazRJU2xqd0tKZWlNaS1RYlM4MEFsajVEYWw4cTlRRWR4Q2Z3M18za3ZycC1nOUdCT25j?oc=5",
           "source": "Google News",
-          "published": "Sun, 19 Jul 2026 02:00:56 GMT"
+          "published": "Sun, 19 Jul 2026 00:08:20 GMT"
         },
         {
-          "title": "Jodie Sweetin shares how she and ‘Full House’ co-star John Stamos ‘connected’ over their sobriety journeys - Page Six",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSGJhTHo4Y3lvRWMzbzhjYXdfN2VqUXdnSEZCV2FMQjI4Zlk0Q2VGeEdrWHNFVDhXaWplVlp1RUkwc2s0RWdobHZkal9KS1BGbVhIWTNJQW9MS3JDZ2JZNTJZQW5qbG1GUWo5bHBvbjJtYmI5QlZ0Q2ViT00wS1RCb1ZBNzJ3X2o1bnNhNWhNRGd2elBVR1plbFJkLUUxcXlnRWlNeG9uam1QbURwY3hmb1l3alUwS1E?oc=5",
+          "title": "Saka’s hat trick lifts England past Mbappé and France 6-4 in wild World Cup third-place game - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUTd1eE92M2VUNjYwMFVJbUp6NlJTb0g1ZHExLWVnbGh6NndrZXB2aFdhSXgzNjJDdC1OWjJpMGR4TERvbGctTnJubTRmeXBQT1dMZlItNUlyNFJaa0lrY1VlWXhYMGxUem5UajQzSkEzTG1kLTRVeUJWbmswUlQ1cG5CSmZ2MGtmVDZZWHE5RDY3UHRJNW5TdDMyWng4Q19MbmhydA?oc=5",
           "source": "Google News",
-          "published": "Sun, 19 Jul 2026 00:38:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "York",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Noah Kahan Concert Among Shows Canceled in New York Due to Inclement Weather on Saturday - Billboard",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSTZ2RXhUR0tUaFc1eGFGenU5SGpVRk1yXzgxTzhZWXZPOU03X2F1aWQyR1B4NWRmRDZPSHJYY2hiM3NId29aZktJYS1UdHJhbDJFbDc5U3dJVkZoUHh3dlZHdUdVTzdiMGU2Szd6amhiWVNDcWNqeVZvMjJFNW1FQnRaeFFfNzFzVEhWcTdnNlpmc2x2SW1iMmxB?oc=5",
-          "source": "Google News",
-          "published": "Sun, 19 Jul 2026 00:11:13 GMT"
-        },
-        {
-          "title": "‘Spanish style’ wins over New York’s die-hard World Cup fans ahead of final - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQWQ0TFVCcGRnSTA4Ujg2cHV4VjkySzR0WnFUUG9NbWRsbi1lNm9VWG5GZEdvaXlGVXdoZTI5Z1FPMTFZUUYzcnVMMXNYcmZOZXg1WHNCZXZ4ZEFMaG1UQVZ1d3kzNXZXMjJtTXdKVVNMWUo5dkhqU3pMSnNzQzhTTVphTFhxUzVVOGNJNTVZVmFvRUlfVWEwU2FJYjh6U0dHdGFPQUFzd19MWjJud1FNWm5SQmRfZ9IBuwFBVV95cUxQcllFeXZ3bUhFNkk2NzRQaGI3QjNHNTgtb1RmbTctUWNnUEtpOXhLMEQ0bC1tdzFmUjR1ODhwZVZoWEpabDFjWWJwQ1FaUG9wb1lFQVMwSjN4aUZRZi1tTzZxVm9vazJOeUJ5UHNnXzlYN0N6RzJRdjJrXzdwSTQtT2hlUWFYX1ZDQzBlM0RsWVZDUHdhaktwUmN4c1RPWDdnUjM1cGRTTWd0OUxFTlFaXzhKU1pXcC1fejJV?oc=5",
-          "source": "Google News",
-          "published": "Sun, 19 Jul 2026 03:17:45 GMT"
+          "published": "Sun, 19 Jul 2026 02:02:00 GMT"
         }
       ]
     },
@@ -249,10 +312,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "England deliver World Cup third-place match for the ages in win over France - ESPN",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQejIyTGJXV1ZmMGt5SnhaMnl3NnJ0RmhsZ3pHVFBHMG1JMFJJX0l6aFRiQk55by0wLWwxZ3JPMU1CN1JBX0dDSURxVFFUczBaTlJmWl9ieW9OSTBNVEYxTy1TYjNsRWxlXzRwb2lHR1BPbTlmalE4WHdGMm1tR0VRZ1B1UzAwYjYwbERhdi1kM3NlMnJlTE8wMmhrcmR6akZGUWVTV2VHTzZ5b3c?oc=5",
+          "title": "Saka’s hat trick lifts England past Mbappé and France 6-4 in wild World Cup third-place game - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUTd1eE92M2VUNjYwMFVJbUp6NlJTb0g1ZHExLWVnbGh6NndrZXB2aFdhSXgzNjJDdC1OWjJpMGR4TERvbGctTnJubTRmeXBQT1dMZlItNUlyNFJaa0lrY1VlWXhYMGxUem5UajQzSkEzTG1kLTRVeUJWbmswUlQ1cG5CSmZ2MGtmVDZZWHE5RDY3UHRJNW5TdDMyWng4Q19MbmhydA?oc=5",
           "source": "Google News",
-          "published": "Sun, 19 Jul 2026 01:55:00 GMT"
+          "published": "Sun, 19 Jul 2026 02:02:00 GMT"
         },
         {
           "title": "‘Spanish style’ wins over New York’s die-hard World Cup fans ahead of final - Al Jazeera",
@@ -263,130 +326,66 @@
       ]
     },
     {
-      "word": "Found",
+      "word": "Rare",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "How Antonelli found half a second to thwart Verstappen in Belgian GP qualifying - Autosport",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNmNhTGlyV0hUaDVrRFBJZHRWWmE2aEtwcWpZNi1FR0RNQklkWWZtb21BOElQcmdfanJhYXhRZnNYOEdwN3RVUzFNVFI1ZmVYSHd6eGJxNFVKa2FZaEZYVlU0Wl9hTzNWblE4RTZHODZPNkhpTk1uZkVkMWp2VThONWlXMGpOSU1oOUZMUy1QdDBSd3ptRU1fTHZ5aTh3WEFqb2s0UWV0eDhIV2ZRQ0NqSG40QUJxSW1VMmYzM0hheGg?oc=5",
+          "title": "Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeVpsZlQzdnE3akNQeTFveUYzSUlxYjZYZlI3MmM4bW5Tc3FPSWhEd2p4aTQyN0wtemVSMXU2ZnRlQ1d5ak9mZ1NUVi1oZFp5X2RVYlNNRTJsenpxSnE3VEJSelpUcWgyTms0SUhzRDVxNGpHbWdRNEZQNmlNSTJKM0V4WUtmWUU4MUFRWC05UUU?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 19:27:43 GMT"
+          "published": "Fri, 17 Jul 2026 09:02:10 GMT"
         },
         {
-          "title": "Life-friendly world? In first, atmosphere found on Earth-like planet in habitable zone - The Times of Israel",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR3JHTmUydnFqa1RDbkRMb0Y3TUJocXhTWmJyOW1IUHdaOThlVGMzcjlJSDFPQWw4R0VTZWc1Uks4eV9oZWdRQV90bzJEUmR0azFBdVU4Um5waV9MWlFZa09yZV91UlZnTWxscmZtVXVYOTFJOXFveU1pTkJ5VXJhZVZoY3pNdWlONkJqRWJlNm1lemlzQU9hcW43V3ZQU01KRzY2MmlCeDByY1Rid3ZTeHZpVlVXQdIBuwFBVV95cUxQT2xuQml3TXZHRzRhbFR3ZjV3OFJYYlVsSElZN242bWR6WTdYNy1xY2VTWTJ6Rk42WjVMeW85ZHFwaFIyX2RDU0czUXA5aG5ZSWhnWmY2MGRRYzk5U0JBRHNBU0RQOUVGdXZnOUJBOHFhandZcU9xbXpVNkFVdUpIOU5haHJDX0Y1RERIWGE4WkllenVfWlBMeFEzak9sUEVXV1djMTAza2VDdDlmOWdack9CYl90azJFR25Z?oc=5",
+          "title": "Ritzy SoCal city rocked by rare cancer outbreak suspends use of chemical landscaping products - New York Post",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVWdqcHNfVTI4WHpfMk0tRlA2OHRmNl9vcDlZNU5tT0xmYV9zNTVkVjZ2VzB2WFREblFmVjFBUF9tUjgyOG9hZHljTmRwVTVqc2Rua29NT2ExeTNLclE3Z1ZBeEx4QlEwV1RRU041dG5EMkRZQnJxcXU2T085U1NDVmNvMG10bXRrTVhfcGFHcXVjSjRiNjN4V0t2NE92cTdiSDVzaGRvZUVRZ0dfV1JOTQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 15:21:00 GMT"
+          "published": "Fri, 17 Jul 2026 21:28:00 GMT"
         }
       ]
     },
     {
-      "word": "Meteorite",
+      "word": "Response",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Researchers identify class of 'oddball' meteorite that killed the dinosaurs - Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jX054aW9Ocl81LVk4c3Y5anN6akJFVnV3cERQcW03TTdENUZOeTIwOUNxemctTDU4WVJTNjVkaGZnUWQ1bHhaa2pQdUt5QzZiVlZyU3FaSmwxNWhIT2xWRnY5X3pnem1tN1lEV291Z01QeDRRbldj?oc=5",
+          "title": "Trump’s deep public health cuts hinder response to record US cyclosporiasis outbreak - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZUpQV0FvWlJKV1VnTWt5M2dDODM3S01TOFM3VHpqMUF6NU44UVd6cVdEZmtLcS1xclpiNG1OXzRQWDVsZmZ5YUhwVVdOOHl5eDJVbmkyamU3YWZ0NGk5NzdZNFFFMEV0TGJ4aFhlaXJNYXhCNGtPdEZYUHJZWkFnT0U1Yw?oc=5",
           "source": "Google News",
-          "published": "Fri, 17 Jul 2026 18:00:11 GMT"
+          "published": "Sat, 18 Jul 2026 21:21:00 GMT"
         },
         {
-          "title": "'Fireball' meteorite that smashed into New Jersey home contains ingredients of life from ancient proto-planet - Live Science",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMHVod1EwUmtpR3U4S0E3RjU1T2c4cWFLMkhLdHVTVnVlbUwzWnZxdk96WTNIaTJXaU9hdHdjRzRoUVdTSzEtX3VhOVcySmZRMkNDY1JTWEdtbEpvNjE0VVBLRm03U1dqUl9hSm1kNlotRFVRTlBscDZhV09EUDFHUWcwcjRha3R2Vlc2MkI3ZDRjTFFJV3lDa2ItSG5PV1NZNlBMZk5WaFppSUFqV1NPbGotVDV2eFRMcjRhcHB0a1ZyT1ZjSHhseVE5Wk1kWE5kRXdmWEprMFZ6b3FOMHNzOUJSQXZvSVdnYkJYNHpqNVZGeVR1X0tRUnJYcw?oc=5",
+          "title": "Safety fears limit Ebola response in Congo, with more than 12 attacks recorded - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMmhpRkFVWVM5Z1hvQ3BCcmpEdzFPRXZnaFd6WFVqWW1WRE1xT3k4YVlTRThrRTFZSWZ4azk0aDQ0OUdRU1V2S2NEWW5zVjhXWWhPQlFmbUwweUg4ei1LNXVkYzlYeFFscHo4ak5xeVUtM3h6WTROdm1zMEFtUlJuMUI0NEhXRTJTMTJ5MUhNX1dJQU1mZGtSd21GaXZaLWw5dExSeXRXdDY?oc=5",
           "source": "Google News",
-          "published": "Sat, 18 Jul 2026 12:00:00 GMT"
+          "published": "Sat, 18 Jul 2026 17:02:05 GMT"
         }
       ]
     },
     {
-      "word": "Life",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Life-friendly world? In first, atmosphere found on Earth-like planet in habitable zone - The Times of Israel",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR3JHTmUydnFqa1RDbkRMb0Y3TUJocXhTWmJyOW1IUHdaOThlVGMzcjlJSDFPQWw4R0VTZWc1Uks4eV9oZWdRQV90bzJEUmR0azFBdVU4Um5waV9MWlFZa09yZV91UlZnTWxscmZtVXVYOTFJOXFveU1pTkJ5VXJhZVZoY3pNdWlONkJqRWJlNm1lemlzQU9hcW43V3ZQU01KRzY2MmlCeDByY1Rid3ZTeHZpVlVXQdIBuwFBVV95cUxQT2xuQml3TXZHRzRhbFR3ZjV3OFJYYlVsSElZN242bWR6WTdYNy1xY2VTWTJ6Rk42WjVMeW85ZHFwaFIyX2RDU0czUXA5aG5ZSWhnWmY2MGRRYzk5U0JBRHNBU0RQOUVGdXZnOUJBOHFhandZcU9xbXpVNkFVdUpIOU5haHJDX0Y1RERIWGE4WkllenVfWlBMeFEzak9sUEVXV1djMTAza2VDdDlmOWdack9CYl90azJFR25Z?oc=5",
-          "source": "Google News",
-          "published": "Sat, 18 Jul 2026 15:21:00 GMT"
-        },
-        {
-          "title": "'Fireball' meteorite that smashed into New Jersey home contains ingredients of life from ancient proto-planet - Live Science",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMHVod1EwUmtpR3U4S0E3RjU1T2c4cWFLMkhLdHVTVnVlbUwzWnZxdk96WTNIaTJXaU9hdHdjRzRoUVdTSzEtX3VhOVcySmZRMkNDY1JTWEdtbEpvNjE0VVBLRm03U1dqUl9hSm1kNlotRFVRTlBscDZhV09EUDFHUWcwcjRha3R2Vlc2MkI3ZDRjTFFJV3lDa2ItSG5PV1NZNlBMZk5WaFppSUFqV1NPbGotVDV2eFRMcjRhcHB0a1ZyT1ZjSHhseVE5Wk1kWE5kRXdmWEprMFZ6b3FOMHNzOUJSQXZvSVdnYkJYNHpqNVZGeVR1X0tRUnJYcw?oc=5",
-          "source": "Google News",
-          "published": "Sat, 18 Jul 2026 12:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Planet",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Life-friendly world? In first, atmosphere found on Earth-like planet in habitable zone - The Times of Israel",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR3JHTmUydnFqa1RDbkRMb0Y3TUJocXhTWmJyOW1IUHdaOThlVGMzcjlJSDFPQWw4R0VTZWc1Uks4eV9oZWdRQV90bzJEUmR0azFBdVU4Um5waV9MWlFZa09yZV91UlZnTWxscmZtVXVYOTFJOXFveU1pTkJ5VXJhZVZoY3pNdWlONkJqRWJlNm1lemlzQU9hcW43V3ZQU01KRzY2MmlCeDByY1Rid3ZTeHZpVlVXQdIBuwFBVV95cUxQT2xuQml3TXZHRzRhbFR3ZjV3OFJYYlVsSElZN242bWR6WTdYNy1xY2VTWTJ6Rk42WjVMeW85ZHFwaFIyX2RDU0czUXA5aG5ZSWhnWmY2MGRRYzk5U0JBRHNBU0RQOUVGdXZnOUJBOHFhandZcU9xbXpVNkFVdUpIOU5haHJDX0Y1RERIWGE4WkllenVfWlBMeFEzak9sUEVXV1djMTAza2VDdDlmOWdack9CYl90azJFR25Z?oc=5",
-          "source": "Google News",
-          "published": "Sat, 18 Jul 2026 15:21:00 GMT"
-        },
-        {
-          "title": "'Fireball' meteorite that smashed into New Jersey home contains ingredients of life from ancient proto-planet - Live Science",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMHVod1EwUmtpR3U4S0E3RjU1T2c4cWFLMkhLdHVTVnVlbUwzWnZxdk96WTNIaTJXaU9hdHdjRzRoUVdTSzEtX3VhOVcySmZRMkNDY1JTWEdtbEpvNjE0VVBLRm03U1dqUl9hSm1kNlotRFVRTlBscDZhV09EUDFHUWcwcjRha3R2Vlc2MkI3ZDRjTFFJV3lDa2ItSG5PV1NZNlBMZk5WaFppSUFqV1NPbGotVDV2eFRMcjRhcHB0a1ZyT1ZjSHhseVE5Wk1kWE5kRXdmWEprMFZ6b3FOMHNzOUJSQXZvSVdnYkJYNHpqNVZGeVR1X0tRUnJYcw?oc=5",
-          "source": "Google News",
-          "published": "Sat, 18 Jul 2026 12:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Troops",
+      "word": "Service",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Two U.S. troops killed, one missing in Iranian missile attack on Jordan - Axios",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lejhSanE3ZWhrMU9BYk1xRDRBSElEaGdCcEl2NXNiMzY2YXgwQXY3VnF0aEF2YXQ0ZXRkbXJ1em9TY0wxWWY1YTBhUnB6WGJ3NU9DQUc4MGJtaEtmRk9QaVJ2VFZNLWF0NDB2N1pJdkhCM3pWZG1VTnFXRjI?oc=5",
+          "title": "Two U.S. service members killed in Jordan and another is missing after Iranian strikes, military says - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYVZJNzRoQ2hxRHpadVl0X21Na205RFRoZ1dfcnFPUnV2LXVLQUkxNl9NTzZhMFlKSUd3cF8zTHd0OXpMS1htRU85QTF6QXFRU3ZnQ3lxZzRrVWg5MWdKNWRZdGlnLW5Wd1JsMG5mYzFTS1UyWWZIUDhDYlptVFBmbkw5WG5EN2EwM0RGUHhQNTljcTRTZ3VNLUM0ZUE3VmJUMy1sRm1CQmlwVHBkd3NFU2x1MWQxcjFT?oc=5",
           "source": "Google News",
-          "published": "Sun, 19 Jul 2026 04:47:36 GMT"
+          "published": "Sun, 19 Jul 2026 08:38:00 GMT"
         }
       ]
     },
     {
-      "word": "Missing",
+      "word": "Members",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Two U.S. troops killed, one missing in Iranian missile attack on Jordan - Axios",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lejhSanE3ZWhrMU9BYk1xRDRBSElEaGdCcEl2NXNiMzY2YXgwQXY3VnF0aEF2YXQ0ZXRkbXJ1em9TY0wxWWY1YTBhUnB6WGJ3NU9DQUc4MGJtaEtmRk9QaVJ2VFZNLWF0NDB2N1pJdkhCM3pWZG1VTnFXRjI?oc=5",
+          "title": "Two U.S. service members killed in Jordan and another is missing after Iranian strikes, military says - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYVZJNzRoQ2hxRHpadVl0X21Na205RFRoZ1dfcnFPUnV2LXVLQUkxNl9NTzZhMFlKSUd3cF8zTHd0OXpMS1htRU85QTF6QXFRU3ZnQ3lxZzRrVWg5MWdKNWRZdGlnLW5Wd1JsMG5mYzFTS1UyWWZIUDhDYlptVFBmbkw5WG5EN2EwM0RGUHhQNTljcTRTZ3VNLUM0ZUE3VmJUMy1sRm1CQmlwVHBkd3NFU2x1MWQxcjFT?oc=5",
           "source": "Google News",
-          "published": "Sun, 19 Jul 2026 04:47:36 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Iranian",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Two U.S. troops killed, one missing in Iranian missile attack on Jordan - Axios",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lejhSanE3ZWhrMU9BYk1xRDRBSElEaGdCcEl2NXNiMzY2YXgwQXY3VnF0aEF2YXQ0ZXRkbXJ1em9TY0wxWWY1YTBhUnB6WGJ3NU9DQUc4MGJtaEtmRk9QaVJ2VFZNLWF0NDB2N1pJdkhCM3pWZG1VTnFXRjI?oc=5",
-          "source": "Google News",
-          "published": "Sun, 19 Jul 2026 04:47:36 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Missile",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Two U.S. troops killed, one missing in Iranian missile attack on Jordan - Axios",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lejhSanE3ZWhrMU9BYk1xRDRBSElEaGdCcEl2NXNiMzY2YXgwQXY3VnF0aEF2YXQ0ZXRkbXJ1em9TY0wxWWY1YTBhUnB6WGJ3NU9DQUc4MGJtaEtmRk9QaVJ2VFZNLWF0NDB2N1pJdkhCM3pWZG1VTnFXRjI?oc=5",
-          "source": "Google News",
-          "published": "Sun, 19 Jul 2026 04:47:36 GMT"
+          "published": "Sun, 19 Jul 2026 08:38:00 GMT"
         }
       ]
     },
@@ -396,10 +395,49 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Two U.S. troops killed, one missing in Iranian missile attack on Jordan - Axios",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lejhSanE3ZWhrMU9BYk1xRDRBSElEaGdCcEl2NXNiMzY2YXgwQXY3VnF0aEF2YXQ0ZXRkbXJ1em9TY0wxWWY1YTBhUnB6WGJ3NU9DQUc4MGJtaEtmRk9QaVJ2VFZNLWF0NDB2N1pJdkhCM3pWZG1VTnFXRjI?oc=5",
+          "title": "Two U.S. service members killed in Jordan and another is missing after Iranian strikes, military says - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYVZJNzRoQ2hxRHpadVl0X21Na205RFRoZ1dfcnFPUnV2LXVLQUkxNl9NTzZhMFlKSUd3cF8zTHd0OXpMS1htRU85QTF6QXFRU3ZnQ3lxZzRrVWg5MWdKNWRZdGlnLW5Wd1JsMG5mYzFTS1UyWWZIUDhDYlptVFBmbkw5WG5EN2EwM0RGUHhQNTljcTRTZ3VNLUM0ZUE3VmJUMy1sRm1CQmlwVHBkd3NFU2x1MWQxcjFT?oc=5",
           "source": "Google News",
-          "published": "Sun, 19 Jul 2026 04:47:36 GMT"
+          "published": "Sun, 19 Jul 2026 08:38:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Missing",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Two U.S. service members killed in Jordan and another is missing after Iranian strikes, military says - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYVZJNzRoQ2hxRHpadVl0X21Na205RFRoZ1dfcnFPUnV2LXVLQUkxNl9NTzZhMFlKSUd3cF8zTHd0OXpMS1htRU85QTF6QXFRU3ZnQ3lxZzRrVWg5MWdKNWRZdGlnLW5Wd1JsMG5mYzFTS1UyWWZIUDhDYlptVFBmbkw5WG5EN2EwM0RGUHhQNTljcTRTZ3VNLUM0ZUE3VmJUMy1sRm1CQmlwVHBkd3NFU2x1MWQxcjFT?oc=5",
+          "source": "Google News",
+          "published": "Sun, 19 Jul 2026 08:38:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Iranian",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Two U.S. service members killed in Jordan and another is missing after Iranian strikes, military says - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYVZJNzRoQ2hxRHpadVl0X21Na205RFRoZ1dfcnFPUnV2LXVLQUkxNl9NTzZhMFlKSUd3cF8zTHd0OXpMS1htRU85QTF6QXFRU3ZnQ3lxZzRrVWg5MWdKNWRZdGlnLW5Wd1JsMG5mYzFTS1UyWWZIUDhDYlptVFBmbkw5WG5EN2EwM0RGUHhQNTljcTRTZ3VNLUM0ZUE3VmJUMy1sRm1CQmlwVHBkd3NFU2x1MWQxcjFT?oc=5",
+          "source": "Google News",
+          "published": "Sun, 19 Jul 2026 08:38:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Military",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Two U.S. service members killed in Jordan and another is missing after Iranian strikes, military says - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYVZJNzRoQ2hxRHpadVl0X21Na205RFRoZ1dfcnFPUnV2LXVLQUkxNl9NTzZhMFlKSUd3cF8zTHd0OXpMS1htRU85QTF6QXFRU3ZnQ3lxZzRrVWg5MWdKNWRZdGlnLW5Wd1JsMG5mYzFTS1UyWWZIUDhDYlptVFBmbkw5WG5EN2EwM0RGUHhQNTljcTRTZ3VNLUM0ZUE3VmJUMy1sRm1CQmlwVHBkd3NFU2x1MWQxcjFT?oc=5",
+          "source": "Google News",
+          "published": "Sun, 19 Jul 2026 08:38:00 GMT"
         }
       ]
     },
@@ -503,7 +541,7 @@
           "title": "ICE officer’s troubled past renews questions about vetting - The Washington Post",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU29vX0FxVHV0eWxDUW82Q2MwQVpldjV2eGE0X05VT1dwNTF1cGFmZUZTNVhxeHhlTklpYlBWWnlHVFh3U1FjNnZzS2JmVHlDdU9aZWFTQjJWTHI5UV9TVE9Gb3hIZVZtMFBIWkMyUTc1QjRuZnBXbm1FaTU5ZVp6eDRKakxwV2NvSkhfdmVfc2laMGpXdFFSbUZMZkpPcHowRUZleVdjcUlVMy0yMWoxVnIwYTBYem9LT0JqSXNoSGJqd1V2bnc?oc=5",
           "source": "Google News",
-          "published": "Sun, 19 Jul 2026 04:25:27 GMT"
+          "published": "Sun, 19 Jul 2026 06:53:51 GMT"
         }
       ]
     },
@@ -516,7 +554,7 @@
           "title": "ICE officer’s troubled past renews questions about vetting - The Washington Post",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU29vX0FxVHV0eWxDUW82Q2MwQVpldjV2eGE0X05VT1dwNTF1cGFmZUZTNVhxeHhlTklpYlBWWnlHVFh3U1FjNnZzS2JmVHlDdU9aZWFTQjJWTHI5UV9TVE9Gb3hIZVZtMFBIWkMyUTc1QjRuZnBXbm1FaTU5ZVp6eDRKakxwV2NvSkhfdmVfc2laMGpXdFFSbUZMZkpPcHowRUZleVdjcUlVMy0yMWoxVnIwYTBYem9LT0JqSXNoSGJqd1V2bnc?oc=5",
           "source": "Google News",
-          "published": "Sun, 19 Jul 2026 04:25:27 GMT"
+          "published": "Sun, 19 Jul 2026 06:53:51 GMT"
         }
       ]
     },
@@ -529,20 +567,7 @@
           "title": "ICE officer’s troubled past renews questions about vetting - The Washington Post",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU29vX0FxVHV0eWxDUW82Q2MwQVpldjV2eGE0X05VT1dwNTF1cGFmZUZTNVhxeHhlTklpYlBWWnlHVFh3U1FjNnZzS2JmVHlDdU9aZWFTQjJWTHI5UV9TVE9Gb3hIZVZtMFBIWkMyUTc1QjRuZnBXbm1FaTU5ZVp6eDRKakxwV2NvSkhfdmVfc2laMGpXdFFSbUZMZkpPcHowRUZleVdjcUlVMy0yMWoxVnIwYTBYem9LT0JqSXNoSGJqd1V2bnc?oc=5",
           "source": "Google News",
-          "published": "Sun, 19 Jul 2026 04:25:27 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Past",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "ICE officer’s troubled past renews questions about vetting - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU29vX0FxVHV0eWxDUW82Q2MwQVpldjV2eGE0X05VT1dwNTF1cGFmZUZTNVhxeHhlTklpYlBWWnlHVFh3U1FjNnZzS2JmVHlDdU9aZWFTQjJWTHI5UV9TVE9Gb3hIZVZtMFBIWkMyUTc1QjRuZnBXbm1FaTU5ZVp6eDRKakxwV2NvSkhfdmVfc2laMGpXdFFSbUZMZkpPcHowRUZleVdjcUlVMy0yMWoxVnIwYTBYem9LT0JqSXNoSGJqd1V2bnc?oc=5",
-          "source": "Google News",
-          "published": "Sun, 19 Jul 2026 04:25:27 GMT"
+          "published": "Sun, 19 Jul 2026 06:53:51 GMT"
         }
       ]
     },
@@ -555,7 +580,7 @@
           "title": "ICE officer’s troubled past renews questions about vetting - The Washington Post",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU29vX0FxVHV0eWxDUW82Q2MwQVpldjV2eGE0X05VT1dwNTF1cGFmZUZTNVhxeHhlTklpYlBWWnlHVFh3U1FjNnZzS2JmVHlDdU9aZWFTQjJWTHI5UV9TVE9Gb3hIZVZtMFBIWkMyUTc1QjRuZnBXbm1FaTU5ZVp6eDRKakxwV2NvSkhfdmVfc2laMGpXdFFSbUZMZkpPcHowRUZleVdjcUlVMy0yMWoxVnIwYTBYem9LT0JqSXNoSGJqd1V2bnc?oc=5",
           "source": "Google News",
-          "published": "Sun, 19 Jul 2026 04:25:27 GMT"
+          "published": "Sun, 19 Jul 2026 06:53:51 GMT"
         }
       ]
     },
@@ -568,7 +593,7 @@
           "title": "ICE officer’s troubled past renews questions about vetting - The Washington Post",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU29vX0FxVHV0eWxDUW82Q2MwQVpldjV2eGE0X05VT1dwNTF1cGFmZUZTNVhxeHhlTklpYlBWWnlHVFh3U1FjNnZzS2JmVHlDdU9aZWFTQjJWTHI5UV9TVE9Gb3hIZVZtMFBIWkMyUTc1QjRuZnBXbm1FaTU5ZVp6eDRKakxwV2NvSkhfdmVfc2laMGpXdFFSbUZMZkpPcHowRUZleVdjcUlVMy0yMWoxVnIwYTBYem9LT0JqSXNoSGJqd1V2bnc?oc=5",
           "source": "Google News",
-          "published": "Sun, 19 Jul 2026 04:25:27 GMT"
+          "published": "Sun, 19 Jul 2026 06:53:51 GMT"
         }
       ]
     },
@@ -581,59 +606,46 @@
           "title": "ICE officer’s troubled past renews questions about vetting - The Washington Post",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU29vX0FxVHV0eWxDUW82Q2MwQVpldjV2eGE0X05VT1dwNTF1cGFmZUZTNVhxeHhlTklpYlBWWnlHVFh3U1FjNnZzS2JmVHlDdU9aZWFTQjJWTHI5UV9TVE9Gb3hIZVZtMFBIWkMyUTc1QjRuZnBXbm1FaTU5ZVp6eDRKakxwV2NvSkhfdmVfc2laMGpXdFFSbUZMZkpPcHowRUZleVdjcUlVMy0yMWoxVnIwYTBYem9LT0JqSXNoSGJqd1V2bnc?oc=5",
           "source": "Google News",
-          "published": "Sun, 19 Jul 2026 04:25:27 GMT"
+          "published": "Sun, 19 Jul 2026 06:53:51 GMT"
         }
       ]
     },
     {
-      "word": "CIA",
+      "word": "Ukraine",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "The CIA Operative Who Spied on the U.A.E.—and Played a Role in Its AI Win - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRXJPNlRnNlF1Q2Q2Z28zZ1JqXzlXYkhKdnB5SVVOT0VrR0gwcEt0cGVhNVdab0xCQ0YxemEyVlhsVFVpdXRwcHdXbzFXQW9nOEprMVR2M3h4clFCZEIxUExfcmRxWGNUUTlDbVdFaTR6TXF3THFjNUlEUlFHY2c4YmN6cC0?oc=5",
+          "title": "Ukraine Escalates Air War With Deadly Strikes on Russia’s ‘Amazon’ - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaDdNZzh3V3d5Zk1RTHdfV2FHMVk4My1ZZGpPX2E0S3BFUld1MVpub1BRcW9CNWRWREdVc2FwQ0xPWkFoa0F5RG5kcUVWYVVCT3FyRE9YaTdMM1R3S3lkTTVVU1JDOUxZTVZhQlpJT1JYMVl5Rktqa25JWldMN0hUeU5DQ00tLXg0aHY0d21lbVVnTkRwell0QzQyMWF4X3M?oc=5",
           "source": "Google News",
-          "published": "Sun, 19 Jul 2026 01:04:00 GMT"
+          "published": "Sun, 19 Jul 2026 01:24:00 GMT"
         }
       ]
     },
     {
-      "word": "Operative",
+      "word": "Escalates",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "The CIA Operative Who Spied on the U.A.E.—and Played a Role in Its AI Win - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRXJPNlRnNlF1Q2Q2Z28zZ1JqXzlXYkhKdnB5SVVOT0VrR0gwcEt0cGVhNVdab0xCQ0YxemEyVlhsVFVpdXRwcHdXbzFXQW9nOEprMVR2M3h4clFCZEIxUExfcmRxWGNUUTlDbVdFaTR6TXF3THFjNUlEUlFHY2c4YmN6cC0?oc=5",
+          "title": "Ukraine Escalates Air War With Deadly Strikes on Russia’s ‘Amazon’ - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaDdNZzh3V3d5Zk1RTHdfV2FHMVk4My1ZZGpPX2E0S3BFUld1MVpub1BRcW9CNWRWREdVc2FwQ0xPWkFoa0F5RG5kcUVWYVVCT3FyRE9YaTdMM1R3S3lkTTVVU1JDOUxZTVZhQlpJT1JYMVl5Rktqa25JWldMN0hUeU5DQ00tLXg0aHY0d21lbVVnTkRwell0QzQyMWF4X3M?oc=5",
           "source": "Google News",
-          "published": "Sun, 19 Jul 2026 01:04:00 GMT"
+          "published": "Sun, 19 Jul 2026 01:24:00 GMT"
         }
       ]
     },
     {
-      "word": "Spied",
+      "word": "Air",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "The CIA Operative Who Spied on the U.A.E.—and Played a Role in Its AI Win - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRXJPNlRnNlF1Q2Q2Z28zZ1JqXzlXYkhKdnB5SVVOT0VrR0gwcEt0cGVhNVdab0xCQ0YxemEyVlhsVFVpdXRwcHdXbzFXQW9nOEprMVR2M3h4clFCZEIxUExfcmRxWGNUUTlDbVdFaTR6TXF3THFjNUlEUlFHY2c4YmN6cC0?oc=5",
+          "title": "Ukraine Escalates Air War With Deadly Strikes on Russia’s ‘Amazon’ - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaDdNZzh3V3d5Zk1RTHdfV2FHMVk4My1ZZGpPX2E0S3BFUld1MVpub1BRcW9CNWRWREdVc2FwQ0xPWkFoa0F5RG5kcUVWYVVCT3FyRE9YaTdMM1R3S3lkTTVVU1JDOUxZTVZhQlpJT1JYMVl5Rktqa25JWldMN0hUeU5DQ00tLXg0aHY0d21lbVVnTkRwell0QzQyMWF4X3M?oc=5",
           "source": "Google News",
-          "published": "Sun, 19 Jul 2026 01:04:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Played",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "The CIA Operative Who Spied on the U.A.E.—and Played a Role in Its AI Win - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRXJPNlRnNlF1Q2Q2Z28zZ1JqXzlXYkhKdnB5SVVOT0VrR0gwcEt0cGVhNVdab0xCQ0YxemEyVlhsVFVpdXRwcHdXbzFXQW9nOEprMVR2M3h4clFCZEIxUExfcmRxWGNUUTlDbVdFaTR6TXF3THFjNUlEUlFHY2c4YmN6cC0?oc=5",
-          "source": "Google News",
-          "published": "Sun, 19 Jul 2026 01:04:00 GMT"
+          "published": "Sun, 19 Jul 2026 01:24:00 GMT"
         }
       ]
     }
