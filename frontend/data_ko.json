@@ -1,68 +1,49 @@
 {
   "language": "ko",
-  "last_updated": 1784522466.0663857,
+  "last_updated": 1784535129.5147886,
   "count": 40,
   "trends": [
     {
-      "word": "대통령",
+      "word": "월드컵",
       "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "아르헨 시민, 월드컵 결승전 져도 응원가 떼창…메시 찬사 한목소리 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1Ym1tSUI2cFA2ejhWbGxCWXNyUzdCUXZjWmdhcm1OLUxmU0YyRmFpdUJfM1lqYjdyMzVtV0NiWG40X0dDTlhiWk1uZm9IMXNLMWVJOFJYNl83SGRsVFlkRXQ5M01JMms?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 07:02:00 GMT"
+        },
+        {
+          "title": "월드컵 결승 무대 등장한 정호연…우승 트로피 공개 - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hcDFKdVo4bUJWUDFnVHJtT3RxUUUxTVFrOU04UmRPMmNsQ3Z6UFcxTTZqM1NRLW1DbUZEUmMzcVpwaEwxeE8zTzFLREZISDJyd0ZVZ09adGhBZW5pdnc?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 00:21:00 GMT"
+        },
+        {
+          "title": "\"쓰레기 같았다\"…루니, 월드컵 하프타임쇼에 작심 발언 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mNXZFU2ZnZ3ZKcVIyNWlnbm9MWEtBZ1NXMTgxVFpDc1ZhR3hwSmI3Z2FFdGhOODlEU01yS1V0ZlN2UWdKeXFJSGFZV1BiWEhOZDlId1MycTFvUQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 02:21:48 GMT"
+        }
+      ]
+    },
+    {
+      "word": "대통령",
+      "count": 2,
       "category": "PERSON",
       "articles": [
         {
-          "title": "與, 국힘 '대통령 당무개입' 공세에 \"'尹 출장소' 전락 까먹었나\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fLUt2eEk5bWNZNzJ6QXYtMXVneV9sLVJCSklvc3FSSTNUTkRTNlBLb1FxMTFWMnhXa0VobUNrNU1CbjFXNGNHeERoV1JNbkQ1RnZSUVZWM3pNdkJJY2ZXRlBmSjFSeFI5OFNlT1FCc1E2VS1LQUNjWdIBeEFVX3lxTFBTQU4yUi04X2FmNy1tdEJVdTJRY0NOcFBfdVJZbmdSYkRIcnlPOTdWUVdjd2VNT0lJN2lLcGthYVZUWmc1TE1wUWxVNndIT3Y2SUdHREpJbVlnTkJGbWxBRlN0eEUxalkxakF6VWRoOGpEaEVpMmp6Nw?oc=5",
+          "title": "이 대통령 “여당 전대 기탁금 너무 높다” 엑스 글 놓고, 네티즌·야당과 ‘당무개입’ 논쟁 - 주간경향",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xcHhJNEItc2FVdU00bzc0a1E2YnJvQU53QjlVRjcxZ1J2NE0wNWVHOS04R3I4T1Ric2pqX21kTDdLRjNmT0ltWW9ua1VVQkl6UFpnZldoS2RRZEMzVmc?oc=5",
           "source": "Google News",
-          "published": "Mon, 20 Jul 2026 02:12:13 GMT"
-        },
-        {
-          "title": "박지현엔 원칙, 송영길은 예외… 대통령까지 움직인 민주당 '불공정' 논란 - 한국일보",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yN0hZS0M2MHBKV0NZeko5eFhGTDd3M0RFbGpyWG5mbU5oLThaOUUwY2V5WGh1TXF2UWp0QXQ0b2JSd0Zja01IVlRUT2xoazl1MmRXU1loZEhtWlMwY3AyYk5fYkxaSVJhNWVjdExR0gFzQVVfeXFMT3Byc1c5dFlTckNaQWJ4RDNKRUQ4TXdicnlYVzAtbUVNOUxrZ2pDcWRUZzdiSjA0RnFxZk41dHhjVzF4djBzR0pXWHBaTjQwMDFMSm1zSlk4YkZOd25Ba2d5R29LTDNib0NTTkJwakJRcm5raw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 19 Jul 2026 19:30:00 GMT"
+          "published": "Mon, 20 Jul 2026 07:55:00 GMT"
         },
         {
           "title": "이 대통령 지지율 소폭 하락한 48.4%‥\"경제 악재·여권 갈등에 지지층 이탈\" - MBC 뉴스",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90cTAxdkxfOWQycTdDbmFiQ2pJNVNDcU1GZVhVcTdzN284OFY4RGhDSTFBeGx5aWJReHJfT2VnNExJZDMzRy1mcnZaT3RaUF94am44ajhCRWdLRjUwNWRiT3plczRIczVCQU56aHpuZ3p2NnNMaXZocNIBeEFVX3lxTE1aYlJ5OERYbG9XRWdTN2otMDF4ZTVJZzctcUwweEZCV1BfenlTRUViYWZmLWY3Qm9sVXJqd0RVSVExMHdfMzN4cG1IMGN2eUV5cHFZTFNLSzlvS2tBYWZaVEx0clkwRHJKeWhJUjhCWDdnVzFIc3p3VQ?oc=5",
           "source": "Google News",
           "published": "Mon, 20 Jul 2026 01:18:32 GMT"
-        }
-      ]
-    },
-    {
-      "word": "국힘",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "與, 국힘 '대통령 당무개입' 공세에 \"'尹 출장소' 전락 까먹었나\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fLUt2eEk5bWNZNzJ6QXYtMXVneV9sLVJCSklvc3FSSTNUTkRTNlBLb1FxMTFWMnhXa0VobUNrNU1CbjFXNGNHeERoV1JNbkQ1RnZSUVZWM3pNdkJJY2ZXRlBmSjFSeFI5OFNlT1FCc1E2VS1LQUNjWdIBeEFVX3lxTFBTQU4yUi04X2FmNy1tdEJVdTJRY0NOcFBfdVJZbmdSYkRIcnlPOTdWUVdjd2VNT0lJN2lLcGthYVZUWmc1TE1wUWxVNndIT3Y2SUdHREpJbVlnTkJGbWxBRlN0eEUxalkxakF6VWRoOGpEaEVpMmp6Nw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 20 Jul 2026 02:12:13 GMT"
-        },
-        {
-          "title": "[단독] '尹 체포 방해' 국힘 의원들, 특검 출석 거부하며 \"공수처 수사 적법성 문제\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5lX1AyYng2bzVjT05vZUxHZFN3dFdRb2RpV1JZYVdyWE5Vb0dYRTlyWF8ycjZtNW40dm1UVTByTy1QREtlcWNhWGkxNTNBbFBTc01CWFhsQ0xmeUxQdHphVDRMXzJyaV94R0YyRE9Fd0dITkNCdEFj?oc=5",
-          "source": "Google News",
-          "published": "Mon, 20 Jul 2026 03:02:43 GMT"
-        }
-      ]
-    },
-    {
-      "word": "체포",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[단독] '尹 체포 방해' 국힘 의원들, 특검 출석 거부하며 \"공수처 수사 적법성 문제\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5lX1AyYng2bzVjT05vZUxHZFN3dFdRb2RpV1JZYVdyWE5Vb0dYRTlyWF8ycjZtNW40dm1UVTByTy1QREtlcWNhWGkxNTNBbFBTc01CWFhsQ0xmeUxQdHphVDRMXzJyaV94R0YyRE9Fd0dITkNCdEFj?oc=5",
-          "source": "Google News",
-          "published": "Mon, 20 Jul 2026 03:02:43 GMT"
-        },
-        {
-          "title": "\"네타냐후 9월 뉴욕 방문하면 체포 검토\"…맘다니 뉴욕시장 경고 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiVlZCUUxBQUFseEY3c3lWVGhTSzVMZkNnTE9rblZhdkNpeTNUeGV3S3A5d2RuVnptanQyaDFrZ21PTnplWDNrY2EwVGNqMF9WOUpjUEpCdG9kaWpiWWRKWnpWQVZraFk?oc=5",
-          "source": "Google News",
-          "published": "Sun, 19 Jul 2026 23:51:00 GMT"
         }
       ]
     },
@@ -78,48 +59,29 @@
           "published": "Mon, 20 Jul 2026 01:18:32 GMT"
         },
         {
-          "title": "다카이치 지지율 급락해 50% 밑으로... 황실기본법 밀어붙인 여파 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbmlxN09LWjNuNGV0Ym1nOGdVRGNVSkVqeURiVkJ6bHRselJYb3RpUXBMZC1tN3VfOVAzUXctc0RmakV2b1pkQm5xM0U2OUFnNnFpSUxjOFU5VFBLXzBEU09BR055WHk2RHM4c0ZPQ01FS3ZxWkZJeFVOTERheUZaOVZhTlRWMTB0akVZM2k4ekRjOXRTOG9vbWNLWHZwUQ?oc=5",
+          "title": "“감히 왕실을 건드려?”…다카이치, 지지율 출범 이후 최저 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81SENBZ3FtVzlTQUF6WFFFTU0tczFvNGNRUG9Ic0d6TDhlcGY3TkdLb1MwUHc4TkNDTV9YaVpmNHYxQnAwUWVRVmhVTmJScmxYWEE?oc=5",
           "source": "Google News",
-          "published": "Mon, 20 Jul 2026 01:19:00 GMT"
+          "published": "Mon, 20 Jul 2026 03:04:24 GMT"
         }
       ]
     },
     {
-      "word": "주목",
+      "word": "하락",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“삼전닉스 팔아요, 버텨요?”…이번 주 알파벳·인텔 실적 발표 주목 [잇슈 머니] - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjcVFlR0VhdHVJdnpuOGlfYzNFc1F5SV84OW84Ny1TblVaTWFpTTY4UEp5UEp2WmNHZW1ocm1MMGQ3N0pVMTI3S2cyYS1aMktiZXBuQ2h6a2hBNEk?oc=5",
+          "title": "이 대통령 지지율 소폭 하락한 48.4%‥\"경제 악재·여권 갈등에 지지층 이탈\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90cTAxdkxfOWQycTdDbmFiQ2pJNVNDcU1GZVhVcTdzN284OFY4RGhDSTFBeGx5aWJReHJfT2VnNExJZDMzRy1mcnZaT3RaUF94am44ajhCRWdLRjUwNWRiT3plczRIczVCQU56aHpuZ3p2NnNMaXZocNIBeEFVX3lxTE1aYlJ5OERYbG9XRWdTN2otMDF4ZTVJZzctcUwweEZCV1BfenlTRUViYWZmLWY3Qm9sVXJqd0RVSVExMHdfMzN4cG1IMGN2eUV5cHFZTFNLSzlvS2tBYWZaVEx0clkwRHJKeWhJUjhCWDdnVzFIc3p3VQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 19 Jul 2026 21:58:00 GMT"
+          "published": "Mon, 20 Jul 2026 01:18:32 GMT"
         },
         {
-          "title": "알츠하이머 치료, 단백질 제거 넘어 ‘DNA 복구’로…신규 기전 약물 주목 - 헬스코리아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02d2JXNXRKcnhMU3JXYjhXMlZJMTRDQmVnaTFySFNTMmQ2aVFFNDM5ZjRsWV83VkEtSDM2WUFzSjlvLUN3aGtNUVg1Z2tKa1BCbkszT0dFbnpqdlBkZXZqVHhqZlJuMEE?oc=5",
+          "title": "[속보]코스피, 4% 급락에 매도 사이드카 발동…삼전·닉스 4% 하락 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1la3liZnkwUWVWNEdSTHdISi1jVVo0R1VuT2xQcURjQ1Qzck1hZmdPY1pXMkFWakJtRWRrTkNVZEMzY1VFdEFrUmRkSUFZX21jcGhfMmctLUUtUdIBX0FVX3lxTE1KSW9XN3M4QUxKX2sweW9QRHdBa3VjLWU1MmI1Z3pEa01ONW5YTUk3UHcxVEUwNnRkaGJlXzFzR2toTTBCZ0tsNms4WjhFOFFTQ1BQdUEyUldfVllzRS1F?oc=5",
           "source": "Google News",
-          "published": "Mon, 20 Jul 2026 01:14:25 GMT"
-        }
-      ]
-    },
-    {
-      "word": "잇슈",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“삼전닉스 팔아요, 버텨요?”…이번 주 알파벳·인텔 실적 발표 주목 [잇슈 머니] - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjcVFlR0VhdHVJdnpuOGlfYzNFc1F5SV84OW84Ny1TblVaTWFpTTY4UEp5UEp2WmNHZW1ocm1MMGQ3N0pVMTI3S2cyYS1aMktiZXBuQ2h6a2hBNEk?oc=5",
-          "source": "Google News",
-          "published": "Sun, 19 Jul 2026 21:58:00 GMT"
-        },
-        {
-          "title": "[잇슈 컬처] 나홍진 ‘호프’ 기록 행진…관람객 평가는? - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90bkh5VzVEbjVKeXkzdmkyMy1tS0FmX0RQOEEySVNiREQyREFrTEc3NjQyLWh4MGkxenJGdEZJNGNGT211VzdtTHgzcGZONm56bFhqVGc2Nlpvd0k?oc=5",
-          "source": "Google News",
-          "published": "Sun, 19 Jul 2026 21:50:00 GMT"
+          "published": "Mon, 20 Jul 2026 02:32:00 GMT"
         }
       ]
     },
@@ -129,73 +91,16 @@
       "category": "LOCATION",
       "articles": [
         {
-          "title": "[금주의 게임일정]넥써쓰 신작 '프로스트 킹덤' 23일 출시, '유나이트 서울 2026' 21일 개최 - 게임포커스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vR1V5b0R4ZEM0TWczX1hxRndTeUxMNEdWOV9YTFlBWkJ3OFI3VmYxMjdzeUE1d2xHTThsUExRTlNEMlNoUXpBS0Z3c3ZNOW9wR3ZDSTRUMDhFVVFwOVdzdw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 20 Jul 2026 02:54:30 GMT"
-        },
-        {
           "title": "벨킨, 닌텐도 스위치2 액세서리 라인업 확대…‘충전 그립’ 출시 - 테크월드",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxSkY4TTVYTnJDaWM5aWl2QTI0WjEwUTgteWRzYjRGZHlRUWQ0MGV0UGpCZUxBWjVmNUNvQUhuOUQ3Q3dLZDA0ZzNxcllZWkJ5aGJQREF3cDFWSW4yeTA3Y05GZjJSOWFp?oc=5",
           "source": "Google News",
           "published": "Mon, 20 Jul 2026 04:10:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "스페인",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "메시 꽁꽁 묶은 ‘무적함대’ 스페인, 16년 만에 월드컵 우승! - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YdnlvNy1taW9SWU9XeWxqU0YxVWRDOFFVZ1VQRGdsYnQxZTdfWmZ5cXJEWVhnZ044Y2pPRWp6cFlLQlF1RUlzQV9aTDZ4VHQwWDJLRVlDeWZMR28?oc=5",
-          "source": "Google News",
-          "published": "Mon, 20 Jul 2026 03:33:00 GMT"
         },
         {
-          "title": "스페인 우승 세리머니 끼어든 트럼프…‘내려오라’ 손짓에도 버텨 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52YVhSV1ZkVmwxV0x6aWRtQkVfaTl2NHBWVkMyUVotYkxBQmxrMTRBOWhsM0tOYk42aFU5X1RMY1lnSHdCZHpiYUhNRjVqVUtaa3NpOXluaWhkOU04VVJ5Ulh5c0x0bC0xNmpKRE0tWXRqM2_SAWZBVV95cUxOX1pTcDVSVm5Hc01ZM2liMHlnS2FNcl9KbE5hbTVKN1RuLUFIN3ZjOFgwWFhLME4yTGFMWEFFMFp1MFotU2taMjBjRTJoQ2lFdXNVUVZleVlpa2VYUlRXUkxoN1RKWXc?oc=5",
+          "title": "젠레스존제로. 3.1 업데이트와 출시 2주년 이벤트 개최 - 게임동아",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE03M0lKR0o5Vy00MW9PV2FLWG5lZ3ZOUmFQcDcwM1l2UmVLQzJvUEdnc3BGRnJIdlJBLW9rcG1JMWxDYk5j?oc=5",
           "source": "Google News",
-          "published": "Mon, 20 Jul 2026 03:51:16 GMT"
-        }
-      ]
-    },
-    {
-      "word": "월드컵",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "메시 꽁꽁 묶은 ‘무적함대’ 스페인, 16년 만에 월드컵 우승! - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YdnlvNy1taW9SWU9XeWxqU0YxVWRDOFFVZ1VQRGdsYnQxZTdfWmZ5cXJEWVhnZ044Y2pPRWp6cFlLQlF1RUlzQV9aTDZ4VHQwWDJLRVlDeWZMR28?oc=5",
-          "source": "Google News",
-          "published": "Mon, 20 Jul 2026 03:33:00 GMT"
-        },
-        {
-          "title": "[르포] BTS가 달군 월드컵 첫 하프타임쇼…\"역동적 공연으로 빛내\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKLVdDcUtnNS1GcFA4M2NCN3hhS0pWNWhodlZWVThKUVp0MkhjZVFuRkpydlduQUVjUWZSVW9xWnUxZjM3dVhseHpwSDZkZXJvUTl3eWliS2tDcFHSAWBBVV95cUxONzFaNUw0LXRYbTAxdS1ZaW5iTk5KUVdFbTE4MXRUZTFJVU55SkRXcE8zN2NGMVZWanRlS3BlbXFxbjR5MDFnZDZlX1lYaUxzcmgzcXo2YnZSZzQ5clhTSnQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 19 Jul 2026 22:02:48 GMT"
-        }
-      ]
-    },
-    {
-      "word": "우승",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "메시 꽁꽁 묶은 ‘무적함대’ 스페인, 16년 만에 월드컵 우승! - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YdnlvNy1taW9SWU9XeWxqU0YxVWRDOFFVZ1VQRGdsYnQxZTdfWmZ5cXJEWVhnZ044Y2pPRWp6cFlLQlF1RUlzQV9aTDZ4VHQwWDJLRVlDeWZMR28?oc=5",
-          "source": "Google News",
-          "published": "Mon, 20 Jul 2026 03:33:00 GMT"
-        },
-        {
-          "title": "스페인 우승 세리머니 끼어든 트럼프…‘내려오라’ 손짓에도 버텨 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52YVhSV1ZkVmwxV0x6aWRtQkVfaTl2NHBWVkMyUVotYkxBQmxrMTRBOWhsM0tOYk42aFU5X1RMY1lnSHdCZHpiYUhNRjVqVUtaa3NpOXluaWhkOU04VVJ5Ulh5c0x0bC0xNmpKRE0tWXRqM2_SAWZBVV95cUxOX1pTcDVSVm5Hc01ZM2liMHlnS2FNcl9KbE5hbTVKN1RuLUFIN3ZjOFgwWFhLME4yTGFMWEFFMFp1MFotU2taMjBjRTJoQ2lFdXNVUVZleVlpa2VYUlRXUkxoN1RKWXc?oc=5",
-          "source": "Google News",
-          "published": "Mon, 20 Jul 2026 03:51:16 GMT"
+          "published": "Mon, 20 Jul 2026 06:36:29 GMT"
         }
       ]
     },
@@ -205,10 +110,49 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘쿠팡 화재’ 인근 주민 “어디로 가라는 안내 없는 대피 문자만” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01OTYxNDNRVWx2ak8wc3dyZ1E4QzkzcnZidEtzbE5hN1NBMUFMd1RvdGJJU2JMYzl3c3c5OUFYS2lqR0VZeTJQY0laLTI0R29xdFRzRWRHeTlQN0pNVkZQcGstOA?oc=5",
+          "title": "쿠팡 물류센터 불길 사흘째…장맛비에도 화재 범위 넓어져 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjMkJmVFpmM3lELXZNemEtS2xVbkNyWU04R0gtZXdmbjMtMjF2c1A1WEZRQ05MaEtyR1RVMU8tRVM3WmVZbXJ4NGhvUU1RNUtPbmNWWFlTTG1RNlE4Z0RsdG1jc2R2NHRndXZNQXVXQTZrZUZKLXfSAWZBVV95cUxNY3BWZkMxT3V3bjBPX3g5d3VVUk1mUTVVbW1HVzVnSnpSTDBJYnhPVGF4VXhkM05JRy1tUjBLVU9uWndmSkVDTWZkUjZlR29Yb2dnNjFOOUQtMjU1REtXNmpBVDNQUUE?oc=5",
           "source": "Google News",
-          "published": "Mon, 20 Jul 2026 04:16:00 GMT"
+          "published": "Mon, 20 Jul 2026 05:07:56 GMT"
+        }
+      ]
+    },
+    {
+      "word": "물류센터",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "쿠팡 물류센터 불길 사흘째…장맛비에도 화재 범위 넓어져 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjMkJmVFpmM3lELXZNemEtS2xVbkNyWU04R0gtZXdmbjMtMjF2c1A1WEZRQ05MaEtyR1RVMU8tRVM3WmVZbXJ4NGhvUU1RNUtPbmNWWFlTTG1RNlE4Z0RsdG1jc2R2NHRndXZNQXVXQTZrZUZKLXfSAWZBVV95cUxNY3BWZkMxT3V3bjBPX3g5d3VVUk1mUTVVbW1HVzVnSnpSTDBJYnhPVGF4VXhkM05JRy1tUjBLVU9uWndmSkVDTWZkUjZlR29Yb2dnNjFOOUQtMjU1REtXNmpBVDNQUUE?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 05:07:56 GMT"
+        }
+      ]
+    },
+    {
+      "word": "불길",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "쿠팡 물류센터 불길 사흘째…장맛비에도 화재 범위 넓어져 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjMkJmVFpmM3lELXZNemEtS2xVbkNyWU04R0gtZXdmbjMtMjF2c1A1WEZRQ05MaEtyR1RVMU8tRVM3WmVZbXJ4NGhvUU1RNUtPbmNWWFlTTG1RNlE4Z0RsdG1jc2R2NHRndXZNQXVXQTZrZUZKLXfSAWZBVV95cUxNY3BWZkMxT3V3bjBPX3g5d3VVUk1mUTVVbW1HVzVnSnpSTDBJYnhPVGF4VXhkM05JRy1tUjBLVU9uWndmSkVDTWZkUjZlR29Yb2dnNjFOOUQtMjU1REtXNmpBVDNQUUE?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 05:07:56 GMT"
+        }
+      ]
+    },
+    {
+      "word": "사흘째장맛비",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "쿠팡 물류센터 불길 사흘째…장맛비에도 화재 범위 넓어져 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjMkJmVFpmM3lELXZNemEtS2xVbkNyWU04R0gtZXdmbjMtMjF2c1A1WEZRQ05MaEtyR1RVMU8tRVM3WmVZbXJ4NGhvUU1RNUtPbmNWWFlTTG1RNlE4Z0RsdG1jc2R2NHRndXZNQXVXQTZrZUZKLXfSAWZBVV95cUxNY3BWZkMxT3V3bjBPX3g5d3VVUk1mUTVVbW1HVzVnSnpSTDBJYnhPVGF4VXhkM05JRy1tUjBLVU9uWndmSkVDTWZkUjZlR29Yb2dnNjFOOUQtMjU1REtXNmpBVDNQUUE?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 05:07:56 GMT"
         }
       ]
     },
@@ -218,75 +162,218 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘쿠팡 화재’ 인근 주민 “어디로 가라는 안내 없는 대피 문자만” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01OTYxNDNRVWx2ak8wc3dyZ1E4QzkzcnZidEtzbE5hN1NBMUFMd1RvdGJJU2JMYzl3c3c5OUFYS2lqR0VZeTJQY0laLTI0R29xdFRzRWRHeTlQN0pNVkZQcGstOA?oc=5",
+          "title": "쿠팡 물류센터 불길 사흘째…장맛비에도 화재 범위 넓어져 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjMkJmVFpmM3lELXZNemEtS2xVbkNyWU04R0gtZXdmbjMtMjF2c1A1WEZRQ05MaEtyR1RVMU8tRVM3WmVZbXJ4NGhvUU1RNUtPbmNWWFlTTG1RNlE4Z0RsdG1jc2R2NHRndXZNQXVXQTZrZUZKLXfSAWZBVV95cUxNY3BWZkMxT3V3bjBPX3g5d3VVUk1mUTVVbW1HVzVnSnpSTDBJYnhPVGF4VXhkM05JRy1tUjBLVU9uWndmSkVDTWZkUjZlR29Yb2dnNjFOOUQtMjU1REtXNmpBVDNQUUE?oc=5",
           "source": "Google News",
-          "published": "Mon, 20 Jul 2026 04:16:00 GMT"
+          "published": "Mon, 20 Jul 2026 05:07:56 GMT"
         }
       ]
     },
     {
-      "word": "인근",
+      "word": "범위",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘쿠팡 화재’ 인근 주민 “어디로 가라는 안내 없는 대피 문자만” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01OTYxNDNRVWx2ak8wc3dyZ1E4QzkzcnZidEtzbE5hN1NBMUFMd1RvdGJJU2JMYzl3c3c5OUFYS2lqR0VZeTJQY0laLTI0R29xdFRzRWRHeTlQN0pNVkZQcGstOA?oc=5",
+          "title": "쿠팡 물류센터 불길 사흘째…장맛비에도 화재 범위 넓어져 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjMkJmVFpmM3lELXZNemEtS2xVbkNyWU04R0gtZXdmbjMtMjF2c1A1WEZRQ05MaEtyR1RVMU8tRVM3WmVZbXJ4NGhvUU1RNUtPbmNWWFlTTG1RNlE4Z0RsdG1jc2R2NHRndXZNQXVXQTZrZUZKLXfSAWZBVV95cUxNY3BWZkMxT3V3bjBPX3g5d3VVUk1mUTVVbW1HVzVnSnpSTDBJYnhPVGF4VXhkM05JRy1tUjBLVU9uWndmSkVDTWZkUjZlR29Yb2dnNjFOOUQtMjU1REtXNmpBVDNQUUE?oc=5",
           "source": "Google News",
-          "published": "Mon, 20 Jul 2026 04:16:00 GMT"
+          "published": "Mon, 20 Jul 2026 05:07:56 GMT"
         }
       ]
     },
     {
-      "word": "주민",
+      "word": "넓어져",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘쿠팡 화재’ 인근 주민 “어디로 가라는 안내 없는 대피 문자만” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01OTYxNDNRVWx2ak8wc3dyZ1E4QzkzcnZidEtzbE5hN1NBMUFMd1RvdGJJU2JMYzl3c3c5OUFYS2lqR0VZeTJQY0laLTI0R29xdFRzRWRHeTlQN0pNVkZQcGstOA?oc=5",
+          "title": "쿠팡 물류센터 불길 사흘째…장맛비에도 화재 범위 넓어져 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjMkJmVFpmM3lELXZNemEtS2xVbkNyWU04R0gtZXdmbjMtMjF2c1A1WEZRQ05MaEtyR1RVMU8tRVM3WmVZbXJ4NGhvUU1RNUtPbmNWWFlTTG1RNlE4Z0RsdG1jc2R2NHRndXZNQXVXQTZrZUZKLXfSAWZBVV95cUxNY3BWZkMxT3V3bjBPX3g5d3VVUk1mUTVVbW1HVzVnSnpSTDBJYnhPVGF4VXhkM05JRy1tUjBLVU9uWndmSkVDTWZkUjZlR29Yb2dnNjFOOUQtMjU1REtXNmpBVDNQUUE?oc=5",
           "source": "Google News",
-          "published": "Mon, 20 Jul 2026 04:16:00 GMT"
+          "published": "Mon, 20 Jul 2026 05:07:56 GMT"
         }
       ]
     },
     {
-      "word": "어디",
+      "word": "특검",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘쿠팡 화재’ 인근 주민 “어디로 가라는 안내 없는 대피 문자만” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01OTYxNDNRVWx2ak8wc3dyZ1E4QzkzcnZidEtzbE5hN1NBMUFMd1RvdGJJU2JMYzl3c3c5OUFYS2lqR0VZeTJQY0laLTI0R29xdFRzRWRHeTlQN0pNVkZQcGstOA?oc=5",
+          "title": "특검 연장에 다시 갈라진 국회…민주 ‘속도전’·국힘 ‘필리버스터’ - 경기일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrazRyN3hxdWhQbUowZmloeE1KQWluMExyNUl2ejBjYmdPMXJFYWQ0U2R0TlZKQmVFcVYyMnZXNGZyNGU2Nlk4V3FFVVl3MVlkTXNlYkdzcVQ5b2M?oc=5",
           "source": "Google News",
-          "published": "Mon, 20 Jul 2026 04:16:00 GMT"
+          "published": "Mon, 20 Jul 2026 07:59:20 GMT"
         }
       ]
     },
     {
-      "word": "가라",
+      "word": "연장",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘쿠팡 화재’ 인근 주민 “어디로 가라는 안내 없는 대피 문자만” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01OTYxNDNRVWx2ak8wc3dyZ1E4QzkzcnZidEtzbE5hN1NBMUFMd1RvdGJJU2JMYzl3c3c5OUFYS2lqR0VZeTJQY0laLTI0R29xdFRzRWRHeTlQN0pNVkZQcGstOA?oc=5",
+          "title": "특검 연장에 다시 갈라진 국회…민주 ‘속도전’·국힘 ‘필리버스터’ - 경기일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrazRyN3hxdWhQbUowZmloeE1KQWluMExyNUl2ejBjYmdPMXJFYWQ0U2R0TlZKQmVFcVYyMnZXNGZyNGU2Nlk4V3FFVVl3MVlkTXNlYkdzcVQ5b2M?oc=5",
           "source": "Google News",
-          "published": "Mon, 20 Jul 2026 04:16:00 GMT"
+          "published": "Mon, 20 Jul 2026 07:59:20 GMT"
         }
       ]
     },
     {
-      "word": "안내",
+      "word": "다시",
+      "count": 1,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "특검 연장에 다시 갈라진 국회…민주 ‘속도전’·국힘 ‘필리버스터’ - 경기일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrazRyN3hxdWhQbUowZmloeE1KQWluMExyNUl2ejBjYmdPMXJFYWQ0U2R0TlZKQmVFcVYyMnZXNGZyNGU2Nlk4V3FFVVl3MVlkTXNlYkdzcVQ5b2M?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 07:59:20 GMT"
+        }
+      ]
+    },
+    {
+      "word": "갈라진",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘쿠팡 화재’ 인근 주민 “어디로 가라는 안내 없는 대피 문자만” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01OTYxNDNRVWx2ak8wc3dyZ1E4QzkzcnZidEtzbE5hN1NBMUFMd1RvdGJJU2JMYzl3c3c5OUFYS2lqR0VZeTJQY0laLTI0R29xdFRzRWRHeTlQN0pNVkZQcGstOA?oc=5",
+          "title": "특검 연장에 다시 갈라진 국회…민주 ‘속도전’·국힘 ‘필리버스터’ - 경기일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrazRyN3hxdWhQbUowZmloeE1KQWluMExyNUl2ejBjYmdPMXJFYWQ0U2R0TlZKQmVFcVYyMnZXNGZyNGU2Nlk4V3FFVVl3MVlkTXNlYkdzcVQ5b2M?oc=5",
           "source": "Google News",
-          "published": "Mon, 20 Jul 2026 04:16:00 GMT"
+          "published": "Mon, 20 Jul 2026 07:59:20 GMT"
+        }
+      ]
+    },
+    {
+      "word": "국회민주",
+      "count": 1,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "특검 연장에 다시 갈라진 국회…민주 ‘속도전’·국힘 ‘필리버스터’ - 경기일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrazRyN3hxdWhQbUowZmloeE1KQWluMExyNUl2ejBjYmdPMXJFYWQ0U2R0TlZKQmVFcVYyMnZXNGZyNGU2Nlk4V3FFVVl3MVlkTXNlYkdzcVQ5b2M?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 07:59:20 GMT"
+        }
+      ]
+    },
+    {
+      "word": "속도전국힘",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "특검 연장에 다시 갈라진 국회…민주 ‘속도전’·국힘 ‘필리버스터’ - 경기일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrazRyN3hxdWhQbUowZmloeE1KQWluMExyNUl2ejBjYmdPMXJFYWQ0U2R0TlZKQmVFcVYyMnZXNGZyNGU2Nlk4V3FFVVl3MVlkTXNlYkdzcVQ5b2M?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 07:59:20 GMT"
+        }
+      ]
+    },
+    {
+      "word": "필리버스터",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "특검 연장에 다시 갈라진 국회…민주 ‘속도전’·국힘 ‘필리버스터’ - 경기일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrazRyN3hxdWhQbUowZmloeE1KQWluMExyNUl2ejBjYmdPMXJFYWQ0U2R0TlZKQmVFcVYyMnZXNGZyNGU2Nlk4V3FFVVl3MVlkTXNlYkdzcVQ5b2M?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 07:59:20 GMT"
+        }
+      ]
+    },
+    {
+      "word": "이라크서",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이라크서 미군 사망, 전투기 중동으로 추가 배치···출구 없는 미·이란 상호 공방 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IUVNrTzJ1aE55dFVGU0lPN0dwTVd2ZzZMYTVTUGFyRW03Q3c3U01fQi1odzdOLUYycEtMcHV0Z0UzWi1SWnp6V2dXZXQ1c21HRDFFYW9scUZ3d9IBX0FVX3lxTFBwQkxrRHNiajQyVEhQU2oteGlFTU5pVHdWSlhyc011VWZ6bFJCaGpZTXg3WTQyeXZ5YXdSdDRfb2NkcG9WUnREWE8zU0dROXdsYWtFREY2emFBWHV0a1F3?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 06:23:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "미군",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이라크서 미군 사망, 전투기 중동으로 추가 배치···출구 없는 미·이란 상호 공방 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IUVNrTzJ1aE55dFVGU0lPN0dwTVd2ZzZMYTVTUGFyRW03Q3c3U01fQi1odzdOLUYycEtMcHV0Z0UzWi1SWnp6V2dXZXQ1c21HRDFFYW9scUZ3d9IBX0FVX3lxTFBwQkxrRHNiajQyVEhQU2oteGlFTU5pVHdWSlhyc011VWZ6bFJCaGpZTXg3WTQyeXZ5YXdSdDRfb2NkcG9WUnREWE8zU0dROXdsYWtFREY2emFBWHV0a1F3?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 06:23:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "사망",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이라크서 미군 사망, 전투기 중동으로 추가 배치···출구 없는 미·이란 상호 공방 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IUVNrTzJ1aE55dFVGU0lPN0dwTVd2ZzZMYTVTUGFyRW03Q3c3U01fQi1odzdOLUYycEtMcHV0Z0UzWi1SWnp6V2dXZXQ1c21HRDFFYW9scUZ3d9IBX0FVX3lxTFBwQkxrRHNiajQyVEhQU2oteGlFTU5pVHdWSlhyc011VWZ6bFJCaGpZTXg3WTQyeXZ5YXdSdDRfb2NkcG9WUnREWE8zU0dROXdsYWtFREY2emFBWHV0a1F3?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 06:23:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "전투기",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이라크서 미군 사망, 전투기 중동으로 추가 배치···출구 없는 미·이란 상호 공방 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IUVNrTzJ1aE55dFVGU0lPN0dwTVd2ZzZMYTVTUGFyRW03Q3c3U01fQi1odzdOLUYycEtMcHV0Z0UzWi1SWnp6V2dXZXQ1c21HRDFFYW9scUZ3d9IBX0FVX3lxTFBwQkxrRHNiajQyVEhQU2oteGlFTU5pVHdWSlhyc011VWZ6bFJCaGpZTXg3WTQyeXZ5YXdSdDRfb2NkcG9WUnREWE8zU0dROXdsYWtFREY2emFBWHV0a1F3?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 06:23:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "중동",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이라크서 미군 사망, 전투기 중동으로 추가 배치···출구 없는 미·이란 상호 공방 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IUVNrTzJ1aE55dFVGU0lPN0dwTVd2ZzZMYTVTUGFyRW03Q3c3U01fQi1odzdOLUYycEtMcHV0Z0UzWi1SWnp6V2dXZXQ1c21HRDFFYW9scUZ3d9IBX0FVX3lxTFBwQkxrRHNiajQyVEhQU2oteGlFTU5pVHdWSlhyc011VWZ6bFJCaGpZTXg3WTQyeXZ5YXdSdDRfb2NkcG9WUnREWE8zU0dROXdsYWtFREY2emFBWHV0a1F3?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 06:23:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "추가",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이라크서 미군 사망, 전투기 중동으로 추가 배치···출구 없는 미·이란 상호 공방 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IUVNrTzJ1aE55dFVGU0lPN0dwTVd2ZzZMYTVTUGFyRW03Q3c3U01fQi1odzdOLUYycEtMcHV0Z0UzWi1SWnp6V2dXZXQ1c21HRDFFYW9scUZ3d9IBX0FVX3lxTFBwQkxrRHNiajQyVEhQU2oteGlFTU5pVHdWSlhyc011VWZ6bFJCaGpZTXg3WTQyeXZ5YXdSdDRfb2NkcG9WUnREWE8zU0dROXdsYWtFREY2emFBWHV0a1F3?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 06:23:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "배치출구",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이라크서 미군 사망, 전투기 중동으로 추가 배치···출구 없는 미·이란 상호 공방 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IUVNrTzJ1aE55dFVGU0lPN0dwTVd2ZzZMYTVTUGFyRW03Q3c3U01fQi1odzdOLUYycEtMcHV0Z0UzWi1SWnp6V2dXZXQ1c21HRDFFYW9scUZ3d9IBX0FVX3lxTFBwQkxrRHNiajQyVEhQU2oteGlFTU5pVHdWSlhyc011VWZ6bFJCaGpZTXg3WTQyeXZ5YXdSdDRfb2NkcG9WUnREWE8zU0dROXdsYWtFREY2emFBWHV0a1F3?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 06:23:00 GMT"
         }
       ]
     },
@@ -296,36 +383,153 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘쿠팡 화재’ 인근 주민 “어디로 가라는 안내 없는 대피 문자만” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01OTYxNDNRVWx2ak8wc3dyZ1E4QzkzcnZidEtzbE5hN1NBMUFMd1RvdGJJU2JMYzl3c3c5OUFYS2lqR0VZeTJQY0laLTI0R29xdFRzRWRHeTlQN0pNVkZQcGstOA?oc=5",
+          "title": "이라크서 미군 사망, 전투기 중동으로 추가 배치···출구 없는 미·이란 상호 공방 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IUVNrTzJ1aE55dFVGU0lPN0dwTVd2ZzZMYTVTUGFyRW03Q3c3U01fQi1odzdOLUYycEtMcHV0Z0UzWi1SWnp6V2dXZXQ1c21HRDFFYW9scUZ3d9IBX0FVX3lxTFBwQkxrRHNiajQyVEhQU2oteGlFTU5pVHdWSlhyc011VWZ6bFJCaGpZTXg3WTQyeXZ5YXdSdDRfb2NkcG9WUnREWE8zU0dROXdsYWtFREY2emFBWHV0a1F3?oc=5",
           "source": "Google News",
-          "published": "Mon, 20 Jul 2026 04:16:00 GMT"
+          "published": "Mon, 20 Jul 2026 06:23:00 GMT"
         }
       ]
     },
     {
-      "word": "대피",
+      "word": "미이란",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘쿠팡 화재’ 인근 주민 “어디로 가라는 안내 없는 대피 문자만” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01OTYxNDNRVWx2ak8wc3dyZ1E4QzkzcnZidEtzbE5hN1NBMUFMd1RvdGJJU2JMYzl3c3c5OUFYS2lqR0VZeTJQY0laLTI0R29xdFRzRWRHeTlQN0pNVkZQcGstOA?oc=5",
+          "title": "이라크서 미군 사망, 전투기 중동으로 추가 배치···출구 없는 미·이란 상호 공방 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IUVNrTzJ1aE55dFVGU0lPN0dwTVd2ZzZMYTVTUGFyRW03Q3c3U01fQi1odzdOLUYycEtMcHV0Z0UzWi1SWnp6V2dXZXQ1c21HRDFFYW9scUZ3d9IBX0FVX3lxTFBwQkxrRHNiajQyVEhQU2oteGlFTU5pVHdWSlhyc011VWZ6bFJCaGpZTXg3WTQyeXZ5YXdSdDRfb2NkcG9WUnREWE8zU0dROXdsYWtFREY2emFBWHV0a1F3?oc=5",
           "source": "Google News",
-          "published": "Mon, 20 Jul 2026 04:16:00 GMT"
+          "published": "Mon, 20 Jul 2026 06:23:00 GMT"
         }
       ]
     },
     {
-      "word": "문자",
+      "word": "상호",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘쿠팡 화재’ 인근 주민 “어디로 가라는 안내 없는 대피 문자만” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01OTYxNDNRVWx2ak8wc3dyZ1E4QzkzcnZidEtzbE5hN1NBMUFMd1RvdGJJU2JMYzl3c3c5OUFYS2lqR0VZeTJQY0laLTI0R29xdFRzRWRHeTlQN0pNVkZQcGstOA?oc=5",
+          "title": "이라크서 미군 사망, 전투기 중동으로 추가 배치···출구 없는 미·이란 상호 공방 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IUVNrTzJ1aE55dFVGU0lPN0dwTVd2ZzZMYTVTUGFyRW03Q3c3U01fQi1odzdOLUYycEtMcHV0Z0UzWi1SWnp6V2dXZXQ1c21HRDFFYW9scUZ3d9IBX0FVX3lxTFBwQkxrRHNiajQyVEhQU2oteGlFTU5pVHdWSlhyc011VWZ6bFJCaGpZTXg3WTQyeXZ5YXdSdDRfb2NkcG9WUnREWE8zU0dROXdsYWtFREY2emFBWHV0a1F3?oc=5",
           "source": "Google News",
-          "published": "Mon, 20 Jul 2026 04:16:00 GMT"
+          "published": "Mon, 20 Jul 2026 06:23:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "공방",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이라크서 미군 사망, 전투기 중동으로 추가 배치···출구 없는 미·이란 상호 공방 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IUVNrTzJ1aE55dFVGU0lPN0dwTVd2ZzZMYTVTUGFyRW03Q3c3U01fQi1odzdOLUYycEtMcHV0Z0UzWi1SWnp6V2dXZXQ1c21HRDFFYW9scUZ3d9IBX0FVX3lxTFBwQkxrRHNiajQyVEhQU2oteGlFTU5pVHdWSlhyc011VWZ6bFJCaGpZTXg3WTQyeXZ5YXdSdDRfb2NkcG9WUnREWE8zU0dROXdsYWtFREY2emFBWHV0a1F3?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 06:23:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "여당",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령 “여당 전대 기탁금 너무 높다” 엑스 글 놓고, 네티즌·야당과 ‘당무개입’ 논쟁 - 주간경향",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xcHhJNEItc2FVdU00bzc0a1E2YnJvQU53QjlVRjcxZ1J2NE0wNWVHOS04R3I4T1Ric2pqX21kTDdLRjNmT0ltWW9ua1VVQkl6UFpnZldoS2RRZEMzVmc?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 07:55:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "전대",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령 “여당 전대 기탁금 너무 높다” 엑스 글 놓고, 네티즌·야당과 ‘당무개입’ 논쟁 - 주간경향",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xcHhJNEItc2FVdU00bzc0a1E2YnJvQU53QjlVRjcxZ1J2NE0wNWVHOS04R3I4T1Ric2pqX21kTDdLRjNmT0ltWW9ua1VVQkl6UFpnZldoS2RRZEMzVmc?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 07:55:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "기탁금",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령 “여당 전대 기탁금 너무 높다” 엑스 글 놓고, 네티즌·야당과 ‘당무개입’ 논쟁 - 주간경향",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xcHhJNEItc2FVdU00bzc0a1E2YnJvQU53QjlVRjcxZ1J2NE0wNWVHOS04R3I4T1Ric2pqX21kTDdLRjNmT0ltWW9ua1VVQkl6UFpnZldoS2RRZEMzVmc?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 07:55:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "너무",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령 “여당 전대 기탁금 너무 높다” 엑스 글 놓고, 네티즌·야당과 ‘당무개입’ 논쟁 - 주간경향",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xcHhJNEItc2FVdU00bzc0a1E2YnJvQU53QjlVRjcxZ1J2NE0wNWVHOS04R3I4T1Ric2pqX21kTDdLRjNmT0ltWW9ua1VVQkl6UFpnZldoS2RRZEMzVmc?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 07:55:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "높다",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령 “여당 전대 기탁금 너무 높다” 엑스 글 놓고, 네티즌·야당과 ‘당무개입’ 논쟁 - 주간경향",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xcHhJNEItc2FVdU00bzc0a1E2YnJvQU53QjlVRjcxZ1J2NE0wNWVHOS04R3I4T1Ric2pqX21kTDdLRjNmT0ltWW9ua1VVQkl6UFpnZldoS2RRZEMzVmc?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 07:55:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "엑스",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령 “여당 전대 기탁금 너무 높다” 엑스 글 놓고, 네티즌·야당과 ‘당무개입’ 논쟁 - 주간경향",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xcHhJNEItc2FVdU00bzc0a1E2YnJvQU53QjlVRjcxZ1J2NE0wNWVHOS04R3I4T1Ric2pqX21kTDdLRjNmT0ltWW9ua1VVQkl6UFpnZldoS2RRZEMzVmc?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 07:55:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "놓고",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령 “여당 전대 기탁금 너무 높다” 엑스 글 놓고, 네티즌·야당과 ‘당무개입’ 논쟁 - 주간경향",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xcHhJNEItc2FVdU00bzc0a1E2YnJvQU53QjlVRjcxZ1J2NE0wNWVHOS04R3I4T1Ric2pqX21kTDdLRjNmT0ltWW9ua1VVQkl6UFpnZldoS2RRZEMzVmc?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 07:55:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "네티즌야당",
+      "count": 1,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "이 대통령 “여당 전대 기탁금 너무 높다” 엑스 글 놓고, 네티즌·야당과 ‘당무개입’ 논쟁 - 주간경향",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xcHhJNEItc2FVdU00bzc0a1E2YnJvQU53QjlVRjcxZ1J2NE0wNWVHOS04R3I4T1Ric2pqX21kTDdLRjNmT0ltWW9ua1VVQkl6UFpnZldoS2RRZEMzVmc?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 07:55:00 GMT"
         }
       ]
     },
@@ -335,257 +539,23 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "與, 국힘 '대통령 당무개입' 공세에 \"'尹 출장소' 전락 까먹었나\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fLUt2eEk5bWNZNzJ6QXYtMXVneV9sLVJCSklvc3FSSTNUTkRTNlBLb1FxMTFWMnhXa0VobUNrNU1CbjFXNGNHeERoV1JNbkQ1RnZSUVZWM3pNdkJJY2ZXRlBmSjFSeFI5OFNlT1FCc1E2VS1LQUNjWdIBeEFVX3lxTFBTQU4yUi04X2FmNy1tdEJVdTJRY0NOcFBfdVJZbmdSYkRIcnlPOTdWUVdjd2VNT0lJN2lLcGthYVZUWmc1TE1wUWxVNndIT3Y2SUdHREpJbVlnTkJGbWxBRlN0eEUxalkxakF6VWRoOGpEaEVpMmp6Nw?oc=5",
+          "title": "이 대통령 “여당 전대 기탁금 너무 높다” 엑스 글 놓고, 네티즌·야당과 ‘당무개입’ 논쟁 - 주간경향",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xcHhJNEItc2FVdU00bzc0a1E2YnJvQU53QjlVRjcxZ1J2NE0wNWVHOS04R3I4T1Ric2pqX21kTDdLRjNmT0ltWW9ua1VVQkl6UFpnZldoS2RRZEMzVmc?oc=5",
           "source": "Google News",
-          "published": "Mon, 20 Jul 2026 02:12:13 GMT"
+          "published": "Mon, 20 Jul 2026 07:55:00 GMT"
         }
       ]
     },
     {
-      "word": "공세",
+      "word": "논쟁",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "與, 국힘 '대통령 당무개입' 공세에 \"'尹 출장소' 전락 까먹었나\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fLUt2eEk5bWNZNzJ6QXYtMXVneV9sLVJCSklvc3FSSTNUTkRTNlBLb1FxMTFWMnhXa0VobUNrNU1CbjFXNGNHeERoV1JNbkQ1RnZSUVZWM3pNdkJJY2ZXRlBmSjFSeFI5OFNlT1FCc1E2VS1LQUNjWdIBeEFVX3lxTFBTQU4yUi04X2FmNy1tdEJVdTJRY0NOcFBfdVJZbmdSYkRIcnlPOTdWUVdjd2VNT0lJN2lLcGthYVZUWmc1TE1wUWxVNndIT3Y2SUdHREpJbVlnTkJGbWxBRlN0eEUxalkxakF6VWRoOGpEaEVpMmp6Nw?oc=5",
+          "title": "이 대통령 “여당 전대 기탁금 너무 높다” 엑스 글 놓고, 네티즌·야당과 ‘당무개입’ 논쟁 - 주간경향",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xcHhJNEItc2FVdU00bzc0a1E2YnJvQU53QjlVRjcxZ1J2NE0wNWVHOS04R3I4T1Ric2pqX21kTDdLRjNmT0ltWW9ua1VVQkl6UFpnZldoS2RRZEMzVmc?oc=5",
           "source": "Google News",
-          "published": "Mon, 20 Jul 2026 02:12:13 GMT"
-        }
-      ]
-    },
-    {
-      "word": "출장소",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "與, 국힘 '대통령 당무개입' 공세에 \"'尹 출장소' 전락 까먹었나\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fLUt2eEk5bWNZNzJ6QXYtMXVneV9sLVJCSklvc3FSSTNUTkRTNlBLb1FxMTFWMnhXa0VobUNrNU1CbjFXNGNHeERoV1JNbkQ1RnZSUVZWM3pNdkJJY2ZXRlBmSjFSeFI5OFNlT1FCc1E2VS1LQUNjWdIBeEFVX3lxTFBTQU4yUi04X2FmNy1tdEJVdTJRY0NOcFBfdVJZbmdSYkRIcnlPOTdWUVdjd2VNT0lJN2lLcGthYVZUWmc1TE1wUWxVNndIT3Y2SUdHREpJbVlnTkJGbWxBRlN0eEUxalkxakF6VWRoOGpEaEVpMmp6Nw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 20 Jul 2026 02:12:13 GMT"
-        }
-      ]
-    },
-    {
-      "word": "전락",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "與, 국힘 '대통령 당무개입' 공세에 \"'尹 출장소' 전락 까먹었나\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fLUt2eEk5bWNZNzJ6QXYtMXVneV9sLVJCSklvc3FSSTNUTkRTNlBLb1FxMTFWMnhXa0VobUNrNU1CbjFXNGNHeERoV1JNbkQ1RnZSUVZWM3pNdkJJY2ZXRlBmSjFSeFI5OFNlT1FCc1E2VS1LQUNjWdIBeEFVX3lxTFBTQU4yUi04X2FmNy1tdEJVdTJRY0NOcFBfdVJZbmdSYkRIcnlPOTdWUVdjd2VNT0lJN2lLcGthYVZUWmc1TE1wUWxVNndIT3Y2SUdHREpJbVlnTkJGbWxBRlN0eEUxalkxakF6VWRoOGpEaEVpMmp6Nw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 20 Jul 2026 02:12:13 GMT"
-        }
-      ]
-    },
-    {
-      "word": "까먹었",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "與, 국힘 '대통령 당무개입' 공세에 \"'尹 출장소' 전락 까먹었나\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fLUt2eEk5bWNZNzJ6QXYtMXVneV9sLVJCSklvc3FSSTNUTkRTNlBLb1FxMTFWMnhXa0VobUNrNU1CbjFXNGNHeERoV1JNbkQ1RnZSUVZWM3pNdkJJY2ZXRlBmSjFSeFI5OFNlT1FCc1E2VS1LQUNjWdIBeEFVX3lxTFBTQU4yUi04X2FmNy1tdEJVdTJRY0NOcFBfdVJZbmdSYkRIcnlPOTdWUVdjd2VNT0lJN2lLcGthYVZUWmc1TE1wUWxVNndIT3Y2SUdHREpJbVlnTkJGbWxBRlN0eEUxalkxakF6VWRoOGpEaEVpMmp6Nw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 20 Jul 2026 02:12:13 GMT"
-        }
-      ]
-    },
-    {
-      "word": "전국",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "전국 장맛비…중·남부에 시간당 20~30㎜ ‘폭우’ - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xNEd0Rmh3TTZ2UUZZb1NCQkh2Y21ZQVA1Y0E3c0RpM3BmUmhmMXMwU1h1QU8wTXBsbE56b1dwSnV3WGZfSGhMTUJ1SDFQa1RLdmRTSE91ZEljVTRaSnc0T2ZDQlMtaFZrMzhIZw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 20 Jul 2026 00:17:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "장맛비중남부",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "전국 장맛비…중·남부에 시간당 20~30㎜ ‘폭우’ - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xNEd0Rmh3TTZ2UUZZb1NCQkh2Y21ZQVA1Y0E3c0RpM3BmUmhmMXMwU1h1QU8wTXBsbE56b1dwSnV3WGZfSGhMTUJ1SDFQa1RLdmRTSE91ZEljVTRaSnc0T2ZDQlMtaFZrMzhIZw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 20 Jul 2026 00:17:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "시간당",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "전국 장맛비…중·남부에 시간당 20~30㎜ ‘폭우’ - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xNEd0Rmh3TTZ2UUZZb1NCQkh2Y21ZQVA1Y0E3c0RpM3BmUmhmMXMwU1h1QU8wTXBsbE56b1dwSnV3WGZfSGhMTUJ1SDFQa1RLdmRTSE91ZEljVTRaSnc0T2ZDQlMtaFZrMzhIZw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 20 Jul 2026 00:17:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "2030",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "전국 장맛비…중·남부에 시간당 20~30㎜ ‘폭우’ - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xNEd0Rmh3TTZ2UUZZb1NCQkh2Y21ZQVA1Y0E3c0RpM3BmUmhmMXMwU1h1QU8wTXBsbE56b1dwSnV3WGZfSGhMTUJ1SDFQa1RLdmRTSE91ZEljVTRaSnc0T2ZDQlMtaFZrMzhIZw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 20 Jul 2026 00:17:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "폭우",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "전국 장맛비…중·남부에 시간당 20~30㎜ ‘폭우’ - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xNEd0Rmh3TTZ2UUZZb1NCQkh2Y21ZQVA1Y0E3c0RpM3BmUmhmMXMwU1h1QU8wTXBsbE56b1dwSnV3WGZfSGhMTUJ1SDFQa1RLdmRTSE91ZEljVTRaSnc0T2ZDQlMtaFZrMzhIZw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 20 Jul 2026 00:17:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "휴전",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "\"휴전 사실상 붕괴\"…미국·이란 '전면전 위기' 고조 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5RHdaR2lZYlN0aEZGdWg3SzZzUmFfRy1TUnVvVDd4VVRBTVNtX04zZmFnQW1JcG9yVTFScWxyRnhiOWJKMWtidGZtLTU3eVRiSHJBWGVGdklQQQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 19 Jul 2026 22:27:20 GMT"
-        }
-      ]
-    },
-    {
-      "word": "사실상",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "\"휴전 사실상 붕괴\"…미국·이란 '전면전 위기' 고조 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5RHdaR2lZYlN0aEZGdWg3SzZzUmFfRy1TUnVvVDd4VVRBTVNtX04zZmFnQW1JcG9yVTFScWxyRnhiOWJKMWtidGZtLTU3eVRiSHJBWGVGdklQQQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 19 Jul 2026 22:27:20 GMT"
-        }
-      ]
-    },
-    {
-      "word": "붕괴미국이란",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "\"휴전 사실상 붕괴\"…미국·이란 '전면전 위기' 고조 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5RHdaR2lZYlN0aEZGdWg3SzZzUmFfRy1TUnVvVDd4VVRBTVNtX04zZmFnQW1JcG9yVTFScWxyRnhiOWJKMWtidGZtLTU3eVRiSHJBWGVGdklQQQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 19 Jul 2026 22:27:20 GMT"
-        }
-      ]
-    },
-    {
-      "word": "전면전",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "\"휴전 사실상 붕괴\"…미국·이란 '전면전 위기' 고조 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5RHdaR2lZYlN0aEZGdWg3SzZzUmFfRy1TUnVvVDd4VVRBTVNtX04zZmFnQW1JcG9yVTFScWxyRnhiOWJKMWtidGZtLTU3eVRiSHJBWGVGdklQQQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 19 Jul 2026 22:27:20 GMT"
-        }
-      ]
-    },
-    {
-      "word": "위기",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "\"휴전 사실상 붕괴\"…미국·이란 '전면전 위기' 고조 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5RHdaR2lZYlN0aEZGdWg3SzZzUmFfRy1TUnVvVDd4VVRBTVNtX04zZmFnQW1JcG9yVTFScWxyRnhiOWJKMWtidGZtLTU3eVRiSHJBWGVGdklQQQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 19 Jul 2026 22:27:20 GMT"
-        }
-      ]
-    },
-    {
-      "word": "고조",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "\"휴전 사실상 붕괴\"…미국·이란 '전면전 위기' 고조 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5RHdaR2lZYlN0aEZGdWg3SzZzUmFfRy1TUnVvVDd4VVRBTVNtX04zZmFnQW1JcG9yVTFScWxyRnhiOWJKMWtidGZtLTU3eVRiSHJBWGVGdklQQQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 19 Jul 2026 22:27:20 GMT"
-        }
-      ]
-    },
-    {
-      "word": "정청래",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "정청래 “보완수사권 폐지 안 되면 몸통 흔들려…집토끼 집 나가면 무망” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RdnRvS29rMEdxdzEydFA5cDFDeDFuNDNoRFRYdmhPYkRza21RQlBNUUdCNmNSY2tEZDQydGNLZTlmbnpSSjlBMzU5UEwyekZpMV82LXJjUXluck0?oc=5",
-          "source": "Google News",
-          "published": "Mon, 20 Jul 2026 01:25:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "보완수사권",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "정청래 “보완수사권 폐지 안 되면 몸통 흔들려…집토끼 집 나가면 무망” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RdnRvS29rMEdxdzEydFA5cDFDeDFuNDNoRFRYdmhPYkRza21RQlBNUUdCNmNSY2tEZDQydGNLZTlmbnpSSjlBMzU5UEwyekZpMV82LXJjUXluck0?oc=5",
-          "source": "Google News",
-          "published": "Mon, 20 Jul 2026 01:25:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "폐지",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "정청래 “보완수사권 폐지 안 되면 몸통 흔들려…집토끼 집 나가면 무망” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RdnRvS29rMEdxdzEydFA5cDFDeDFuNDNoRFRYdmhPYkRza21RQlBNUUdCNmNSY2tEZDQydGNLZTlmbnpSSjlBMzU5UEwyekZpMV82LXJjUXluck0?oc=5",
-          "source": "Google News",
-          "published": "Mon, 20 Jul 2026 01:25:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "되면",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "정청래 “보완수사권 폐지 안 되면 몸통 흔들려…집토끼 집 나가면 무망” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RdnRvS29rMEdxdzEydFA5cDFDeDFuNDNoRFRYdmhPYkRza21RQlBNUUdCNmNSY2tEZDQydGNLZTlmbnpSSjlBMzU5UEwyekZpMV82LXJjUXluck0?oc=5",
-          "source": "Google News",
-          "published": "Mon, 20 Jul 2026 01:25:00 GMT"
+          "published": "Mon, 20 Jul 2026 07:55:00 GMT"
         }
       ]
     }
