@@ -1,49 +1,68 @@
 {
   "language": "ko",
-  "last_updated": 1784585208.3650162,
+  "last_updated": 1784592179.1120882,
   "count": 40,
   "trends": [
     {
-      "word": "대통령",
-      "count": 3,
-      "category": "PERSON",
-      "articles": [
-        {
-          "title": "의견 vs 개입…과유불급 ‘당원 대통령’ - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83S3FxYi1PQjJaeW1nZkVXMUw3QTFIZzJoMGx3X3RCeTlHZWJhRjUyVmJxZUJsUjZIWUdpMmtweHp3RkpfRWgwZF8zYUtVemZzUC03QUJDdkhLUdIBX0FVX3lxTE5TRHNhSTV4THVGVzdpTWZoazhEY3VxaUYwVG0zdGZaa09TS1kzdUc3WGMxUkFKOFBRX2U0dHVTZzVHcm5saGpteWNVbkhLY2FHYTBvM2pGeDBvbXM5aFNZ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 20 Jul 2026 12:46:00 GMT"
-        },
-        {
-          "title": "李대통령 지지율 소폭 내려 48.4%…\"與갈등에 지지층 이탈\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcFExV0dVc2RVS3lQVWZYUnJrRWpVQmVrWEpHNFpvRXBGSHNaTndObXRieTd1V2FHVXNDcVlJT2tCUWJ2RlRqWmY2OUlPRTlMSTA3NkZTd3JxYWw1S0J4MDhmLUQxcVUwU1psS2c1bWxxM0p0Smx0RGlfMkRPUktTVlZlSjlHdw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 20 Jul 2026 01:14:59 GMT"
-        },
-        {
-          "title": "李대통령 분당 아파트 29억에 팔렸다…17.7억 근저당 설정 - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xSTh0cGZiZk5jVTBKTm5JRERWY3RBMGV2YS1OVDZPTHFoeHE3YUVhZUE2TnhpVy12V1NwMDdjUXNWTm1BSXNVMXVvNldLVTM3ZXhCODA5ZnlqZWc?oc=5",
-          "source": "Google News",
-          "published": "Mon, 20 Jul 2026 06:20:43 GMT"
-        }
-      ]
-    },
-    {
       "word": "이란",
-      "count": 2,
+      "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"이란 미사일, 방공망 뚫고 요르단 기지 미군 막사 때렸다\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UXzFHNHIwcVlVMnlCZm1seE9hTHhmc21oS3JxSUNiTFM0VnZCZkpTWUNIaFVFbC1hVmh0YXJ1U3dnc0ZBSDd1OUliXzZRNXp4N2VLXzFLOE1OSTjSAWBBVV95cUxOTlN5X3ZEV2k4RktvOWJ4aU8yUnBCNHRwM2cwSWdpUmNYY2g3WmxQWWhrdm1EejVMNC1Kc1lzemFYbzc3blJLaU5wOW1GLXpVdS11Wk1IemdRUEJQaWVtT0E?oc=5",
+          "title": "미국 열흘째 이란 공습…트럼프 “이란, 미군 병사 죽일 때마다 몇배로 대가” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTXl6MGtBNVNRTmI3c0otUHJTX29PYWdUWmFxWU03ekJhS29pUVVpU2Vzb1hHdjRfNlR0OHBKZU9TTFc2OGNjRk85VWFfY2tTM3dUSVd1MFBQbnNtWE9MbVZrWGk5ZDBLVXlHWFViY21uRVVvblFDTFV3X0lDUC1YTjRB?oc=5",
           "source": "Google News",
-          "published": "Mon, 20 Jul 2026 20:02:06 GMT"
+          "published": "Mon, 20 Jul 2026 23:09:00 GMT"
         },
         {
           "title": "보복에 또 보복… 美·이란 전쟁, 중동 확전 조짐 - 조선일보",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZWI2cGx1SDF5UURVbXhDSk43bmczY29iMy1tdnA5Y0ZObjg4cWV4WGRSejlwZFZ1MFpDTUNYUC1hYUFhbFdMNTdHU0FDbkxJcmpsSC1JNGVIY0JwRWN3VzZMdmIyU0xaOVlhNWVkRVlLYmxhS1lpb2lVcF85YWVQMGFGUkdtdFd2YXdLc0VTUTFvRjI4bGtXaFV5ZzdCUQ?oc=5",
           "source": "Google News",
           "published": "Sun, 19 Jul 2026 15:59:32 GMT"
+        }
+      ]
+    },
+    {
+      "word": "트럼프",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프, 美방문 앞둔 네타냐후 엄호… \"어떤 방식으로든 체포 안 될 것\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa2tZV1RGSFZQNE1YTnBUVlVic2MteHNfalNmZHFrQlBMRi1FQkFLa3FfQmhDMmJnNXV1LWJkN3dXcThOel94SU9tX0JvNGllRDZSbnhYclJ2ZjFORENKNWJhQ0JuRXdaYktZUnF4eWdUODRuUDZpaGItNUV0Tkl4V0w4eno?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 18:47:00 GMT"
+        },
+        {
+          "title": "트럼프, 캐나다산 제품에 50% 관세…96년 전 만든 법 첫 적용 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yREp2V3Q3SmZ1c2tnSHE4cENFTFlDWVhhTEhybmxlNmRiNEI4RVlMNEl2Vl9QTlV0UlM2SVJoMHVTenM2ZHBZbjh0VXhXVjRWdzQyZDFGYVA5OUl4NE1YSVY5T1c5aDRrWmJOdnQ4QQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 22:50:00 GMT"
+        },
+        {
+          "title": "\"트럼프 패싱 당했다\" 아르헨 악수 거부, 스페인 MVP도 \"나가라\" 시상식 국제 민폐 - 노컷뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBubl82eEVYenhPd21oN0ZvUkt4R09vclFlLWw2V2JEQnBObE5PQTNBVGo4bnFfWlFmU2xxVlRUZDl4NkJHRHEyR3gtRVFhbzhXZkE?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 08:07:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "발효",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "서울 서남·서북권에 호우주의보 발효 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0weUpTSmJXVjVETFhjNnJObXVKcjFvTGtKeHFVZm82eHhaaGp4Y0FEMUNVYTlOREpMQTVVMm1JX1B1QVJwQ1pSaU1LNFVlUk95LWtXdEtCSEUtV1XSAWBBVV95cUxPejB4bDhJSEdadVJacWtlaWY0MHJlQlFCOVpXbnlpYmlWNjBSZnFvc0JwekU1bjhSUGEyWDdGM21iWlR4c3V5ZlhiTkxqUDhLTUlMMThlTU96MmZqckVxemU?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 18:51:57 GMT"
+        },
+        {
+          "title": "예멘 후티 반군, 사우디 대상 해상 봉쇄 선언‥\"즉각 발효\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4eWVXMmdVUFRSRlVoWE5aQjB1WVFhQU9ic0pRc0FDZEhWUS1uNG5tZzBLbm9SSmZvbnBiZG9SajFSV3pPTnRPYTR5TWF4VVJHQnFIT1dYUFBQR3laZG9DVUtjeTRHa21GQ3c2a0QtSjBxaURW0gF0QVVfeXFMT04zbzVVbU1tSm1CNXJRemZ0U1FlVEVKTGJtSXBQMjlGODdPckxrTEJvN09NNEs1dEJHeDRDdHlfQnl1MEF3S0FPNURERDBza08teWRmRmZXa2VFR0dLbHdMZWtlZDg3Uk5yeUNxSTVjLXVUbHc?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 12:07:58 GMT"
         }
       ]
     },
@@ -61,88 +80,12 @@
       ]
     },
     {
-      "word": "트럼프",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프, 美방문 앞둔 네타냐후 엄호… \"어떤 방식으로든 체포 안 될 것\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa2tZV1RGSFZQNE1YTnBUVlVic2MteHNfalNmZHFrQlBMRi1FQkFLa3FfQmhDMmJnNXV1LWJkN3dXcThOel94SU9tX0JvNGllRDZSbnhYclJ2ZjFORENKNWJhQ0JuRXdaYktZUnF4eWdUODRuUDZpaGItNUV0Tkl4V0w4eno?oc=5",
-          "source": "Google News",
-          "published": "Mon, 20 Jul 2026 18:47:00 GMT"
-        },
-        {
-          "title": "\"트럼프 패싱 당했다\" 아르헨 악수 거부, 스페인 MVP도 \"나가라\" 시상식 국제 민폐 - 노컷뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBubl82eEVYenhPd21oN0ZvUkt4R09vclFlLWw2V2JEQnBObE5PQTNBVGo4bnFfWlFmU2xxVlRUZDl4NkJHRHEyR3gtRVFhbzhXZkE?oc=5",
-          "source": "Google News",
-          "published": "Mon, 20 Jul 2026 08:07:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "삼전닉스",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“삼전·닉스 레버리지 투자 멈춰라”···ETF 팔고있는 자산운용사 대표의 양심고백 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pUDZHRWRacm00LVE1aHg4Mko3QldnV201bzVuMUNUc0VTbTl2Y1Q4eEVTNmh5cG56Y1hId3EzNm5hNnRFYWJYTUQ1VmxRNnpPWDQxUUYybURqUdIBX0FVX3lxTE5UaFlsS09VdVJNbHZTMWRiVHlJeEdwaUliTU5WUDZQNUNiQ0hJcDZGZkRUOGRDNFJHY0VDazhVd0l2REFYa29lNlBxbENmUDNqMzEzQWp5aXhKY214RU93?oc=5",
-          "source": "Google News",
-          "published": "Mon, 20 Jul 2026 11:27:00 GMT"
-        },
-        {
-          "title": "'삼전닉스' 물린 개미 버틸 이유 생기나…깜짝 전망 나온다 [분석+] - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50Q2trb0o4S1QyYUxGZ0F2VnV6bkdUMHItenZGclkxUjhNTm1wN09BZ2MwZVVPZUJPb1NhbVIycXd3djg2MG94Yk80MHNpTmNFTFZteUVaN2s3QQ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 20 Jul 2026 11:00:05 GMT"
-        }
-      ]
-    },
-    {
-      "word": "영향",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "전력 제한 감소가 작동에 미치는 영향 Radeon RX 9070 XT Resident Evil Requiem - GameGPU",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNV1gtb0RqU2ZuVHNja3FyQWVzSFppWmVkTE1jNzZDczZzblV5REt6c3h1eTV5X3JCVkIzallZQXZqZVZyR0dXbnQwbTBicXVBRlpnWFgzeng5YnB5eHhtc1pGMVFjSFlnanAwckFXSzRhdzdRcUhDcG81YjlldkxZMWs0QjluNlZWNkxYS1RYLUhSTTBoYXpPNHI3bEJnVUl1V0M3SjZ3ZXdFbGFHa011a1NCVnptTDFHZDEzeGNsTmlwT18w?oc=5",
-          "source": "Google News",
-          "published": "Mon, 20 Jul 2026 17:59:08 GMT"
-        },
-        {
-          "title": "'태도 논란' 장원영, 현장 스태프가 남긴 진짜 한마디…\"좋은 영향 주는 사람\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1LZ2NjTThhaDJxaUh1R0hjNkp2dDI1TUNMMnllT0xUc0tCdG5oX3pKb01PeWdOUkhzcVl4bGxMOWpaNEJEWVE?oc=5",
-          "source": "Google News",
-          "published": "Mon, 20 Jul 2026 07:49:50 GMT"
-        }
-      ]
-    },
-    {
       "word": "스페인",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "패스 성공률 93%… 스페인 ‘중원의 알파고’ 로드리, 아르헨 농락 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZEN3OFQ0RVdsQmdxRUNKZnA4Yi1CRHFKRTE3MU1GUUhXd0RmU1VRNm9mWmhSdVNxOW00aUhUb3JoOUpZcVlLODFwcXNLVnVNOXl6VUtJT2pjTjFQTVZrU2NkMmNOaDMyQjBGSjJ5NFBaWGVIdDVIZ0RDS0x3LVlmVGVmWGJFTjloUWYw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 20 Jul 2026 15:55:00 GMT"
-        },
-        {
-          "title": "\"트럼프 패싱 당했다\" 아르헨 악수 거부, 스페인 MVP도 \"나가라\" 시상식 국제 민폐 - 노컷뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBubl82eEVYenhPd21oN0ZvUkt4R09vclFlLWw2V2JEQnBObE5PQTNBVGo4bnFfWlFmU2xxVlRUZDl4NkJHRHEyR3gtRVFhbzhXZkE?oc=5",
-          "source": "Google News",
-          "published": "Mon, 20 Jul 2026 08:07:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "아르헨",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "패스 성공률 93%… 스페인 ‘중원의 알파고’ 로드리, 아르헨 농락 - 조선일보",
+          "title": "패스 성공률 93%…‘중원의 알파고’ 스페인 로드리, 메시의 아르헨티나를 농락하다 - 조선일보",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZEN3OFQ0RVdsQmdxRUNKZnA4Yi1CRHFKRTE3MU1GUUhXd0RmU1VRNm9mWmhSdVNxOW00aUhUb3JoOUpZcVlLODFwcXNLVnVNOXl6VUtJT2pjTjFQTVZrU2NkMmNOaDMyQjBGSjJ5NFBaWGVIdDVIZ0RDS0x3LVlmVGVmWGJFTjloUWYw?oc=5",
           "source": "Google News",
           "published": "Mon, 20 Jul 2026 15:55:00 GMT"
@@ -182,288 +125,288 @@
       ]
     },
     {
-      "word": "김민석",
+      "word": "경찰",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김민석 “명·청대전 끝내야” 정청래 “당 떠난 적 없어” 송영길 “결과로 책임” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fV0NUam5CX2xuS3hZS3hOUEt0TDZQQmRadEppUEItQWsyZkpGNTh5YmVyNkJYUHRJQVZJai1wRkNVY2hTcURDcEF3bUhWZjR0SDBoak9mOHFlQjJhSFQ4SDRUSkw4all2NUthcjJUdk02OU5m?oc=5",
+          "title": "경찰 장윤기 특수단, 경찰청 국가수사본부 압수수색···“보고·지휘 내용 확인” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yc000Ny0xVEcya0RLbm9Kc3BHZVhNY1pxd2ZyZWg2NXMzamN3SzlSTkNFb3lxZ2tZNWJVdDVWUThVaWFKSjBOXzliclBsVXJuZUZybWIzTDk0Z9IBX0FVX3lxTE1CXy04cjFTMTlkSGxQWlZNVk54YnlvRjNJOWxyVlYwQnQ2Um81MmdBMWotY1FiNUZjOVpLeEJlNmIyNHluYjJieHV5ZzF0YVNLQXgydTloLVhWd2xscGhz?oc=5",
           "source": "Google News",
-          "published": "Mon, 20 Jul 2026 14:07:00 GMT"
+          "published": "Mon, 20 Jul 2026 23:09:00 GMT"
         }
       ]
     },
     {
-      "word": "명청대전",
+      "word": "장윤기",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김민석 “명·청대전 끝내야” 정청래 “당 떠난 적 없어” 송영길 “결과로 책임” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fV0NUam5CX2xuS3hZS3hOUEt0TDZQQmRadEppUEItQWsyZkpGNTh5YmVyNkJYUHRJQVZJai1wRkNVY2hTcURDcEF3bUhWZjR0SDBoak9mOHFlQjJhSFQ4SDRUSkw4all2NUthcjJUdk02OU5m?oc=5",
+          "title": "경찰 장윤기 특수단, 경찰청 국가수사본부 압수수색···“보고·지휘 내용 확인” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yc000Ny0xVEcya0RLbm9Kc3BHZVhNY1pxd2ZyZWg2NXMzamN3SzlSTkNFb3lxZ2tZNWJVdDVWUThVaWFKSjBOXzliclBsVXJuZUZybWIzTDk0Z9IBX0FVX3lxTE1CXy04cjFTMTlkSGxQWlZNVk54YnlvRjNJOWxyVlYwQnQ2Um81MmdBMWotY1FiNUZjOVpLeEJlNmIyNHluYjJieHV5ZzF0YVNLQXgydTloLVhWd2xscGhz?oc=5",
           "source": "Google News",
-          "published": "Mon, 20 Jul 2026 14:07:00 GMT"
+          "published": "Mon, 20 Jul 2026 23:09:00 GMT"
         }
       ]
     },
     {
-      "word": "끝내야",
+      "word": "특수단",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김민석 “명·청대전 끝내야” 정청래 “당 떠난 적 없어” 송영길 “결과로 책임” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fV0NUam5CX2xuS3hZS3hOUEt0TDZQQmRadEppUEItQWsyZkpGNTh5YmVyNkJYUHRJQVZJai1wRkNVY2hTcURDcEF3bUhWZjR0SDBoak9mOHFlQjJhSFQ4SDRUSkw4all2NUthcjJUdk02OU5m?oc=5",
+          "title": "경찰 장윤기 특수단, 경찰청 국가수사본부 압수수색···“보고·지휘 내용 확인” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yc000Ny0xVEcya0RLbm9Kc3BHZVhNY1pxd2ZyZWg2NXMzamN3SzlSTkNFb3lxZ2tZNWJVdDVWUThVaWFKSjBOXzliclBsVXJuZUZybWIzTDk0Z9IBX0FVX3lxTE1CXy04cjFTMTlkSGxQWlZNVk54YnlvRjNJOWxyVlYwQnQ2Um81MmdBMWotY1FiNUZjOVpLeEJlNmIyNHluYjJieHV5ZzF0YVNLQXgydTloLVhWd2xscGhz?oc=5",
           "source": "Google News",
-          "published": "Mon, 20 Jul 2026 14:07:00 GMT"
+          "published": "Mon, 20 Jul 2026 23:09:00 GMT"
         }
       ]
     },
     {
-      "word": "정청래",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김민석 “명·청대전 끝내야” 정청래 “당 떠난 적 없어” 송영길 “결과로 책임” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fV0NUam5CX2xuS3hZS3hOUEt0TDZQQmRadEppUEItQWsyZkpGNTh5YmVyNkJYUHRJQVZJai1wRkNVY2hTcURDcEF3bUhWZjR0SDBoak9mOHFlQjJhSFQ4SDRUSkw4all2NUthcjJUdk02OU5m?oc=5",
-          "source": "Google News",
-          "published": "Mon, 20 Jul 2026 14:07:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "떠난",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김민석 “명·청대전 끝내야” 정청래 “당 떠난 적 없어” 송영길 “결과로 책임” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fV0NUam5CX2xuS3hZS3hOUEt0TDZQQmRadEppUEItQWsyZkpGNTh5YmVyNkJYUHRJQVZJai1wRkNVY2hTcURDcEF3bUhWZjR0SDBoak9mOHFlQjJhSFQ4SDRUSkw4all2NUthcjJUdk02OU5m?oc=5",
-          "source": "Google News",
-          "published": "Mon, 20 Jul 2026 14:07:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "없어",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김민석 “명·청대전 끝내야” 정청래 “당 떠난 적 없어” 송영길 “결과로 책임” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fV0NUam5CX2xuS3hZS3hOUEt0TDZQQmRadEppUEItQWsyZkpGNTh5YmVyNkJYUHRJQVZJai1wRkNVY2hTcURDcEF3bUhWZjR0SDBoak9mOHFlQjJhSFQ4SDRUSkw4all2NUthcjJUdk02OU5m?oc=5",
-          "source": "Google News",
-          "published": "Mon, 20 Jul 2026 14:07:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "송영길",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김민석 “명·청대전 끝내야” 정청래 “당 떠난 적 없어” 송영길 “결과로 책임” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fV0NUam5CX2xuS3hZS3hOUEt0TDZQQmRadEppUEItQWsyZkpGNTh5YmVyNkJYUHRJQVZJai1wRkNVY2hTcURDcEF3bUhWZjR0SDBoak9mOHFlQjJhSFQ4SDRUSkw4all2NUthcjJUdk02OU5m?oc=5",
-          "source": "Google News",
-          "published": "Mon, 20 Jul 2026 14:07:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "책임",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김민석 “명·청대전 끝내야” 정청래 “당 떠난 적 없어” 송영길 “결과로 책임” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fV0NUam5CX2xuS3hZS3hOUEt0TDZQQmRadEppUEItQWsyZkpGNTh5YmVyNkJYUHRJQVZJai1wRkNVY2hTcURDcEF3bUhWZjR0SDBoak9mOHFlQjJhSFQ4SDRUSkw4all2NUthcjJUdk02OU5m?oc=5",
-          "source": "Google News",
-          "published": "Mon, 20 Jul 2026 14:07:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "의견",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "의견 vs 개입…과유불급 ‘당원 대통령’ - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83S3FxYi1PQjJaeW1nZkVXMUw3QTFIZzJoMGx3X3RCeTlHZWJhRjUyVmJxZUJsUjZIWUdpMmtweHp3RkpfRWgwZF8zYUtVemZzUC03QUJDdkhLUdIBX0FVX3lxTE5TRHNhSTV4THVGVzdpTWZoazhEY3VxaUYwVG0zdGZaa09TS1kzdUc3WGMxUkFKOFBRX2U0dHVTZzVHcm5saGpteWNVbkhLY2FHYTBvM2pGeDBvbXM5aFNZ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 20 Jul 2026 12:46:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "개입과유불급",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "의견 vs 개입…과유불급 ‘당원 대통령’ - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83S3FxYi1PQjJaeW1nZkVXMUw3QTFIZzJoMGx3X3RCeTlHZWJhRjUyVmJxZUJsUjZIWUdpMmtweHp3RkpfRWgwZF8zYUtVemZzUC03QUJDdkhLUdIBX0FVX3lxTE5TRHNhSTV4THVGVzdpTWZoazhEY3VxaUYwVG0zdGZaa09TS1kzdUc3WGMxUkFKOFBRX2U0dHVTZzVHcm5saGpteWNVbkhLY2FHYTBvM2pGeDBvbXM5aFNZ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 20 Jul 2026 12:46:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "당원",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "의견 vs 개입…과유불급 ‘당원 대통령’ - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83S3FxYi1PQjJaeW1nZkVXMUw3QTFIZzJoMGx3X3RCeTlHZWJhRjUyVmJxZUJsUjZIWUdpMmtweHp3RkpfRWgwZF8zYUtVemZzUC03QUJDdkhLUdIBX0FVX3lxTE5TRHNhSTV4THVGVzdpTWZoazhEY3VxaUYwVG0zdGZaa09TS1kzdUc3WGMxUkFKOFBRX2U0dHVTZzVHcm5saGpteWNVbkhLY2FHYTBvM2pGeDBvbXM5aFNZ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 20 Jul 2026 12:46:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "해외파견",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "해외파견 정보요원 신상도 털렸을 가능성… 北 해킹 여부 조사 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XSEVUOExrN2xDQ0Q2ekQ5SUkyYWFmYzgyTEpfX1RsT2RzaHVCMVBnMjhJOV9HUXJBZERoQ2xPV1g5VGZKZ0NMT1ZvbUpQVmpJWnZuOWIzQjBFS1QtX2RtTXpHc0hybGxSeWE3WVFrZ1lEd0NLbm530gFmQVVfeXFMTkF3ZEE5eHdROHNicnJjWllpaS1NYUdFVXZmczl6Q0dkN2gyTy1fR2lLaFJlX191Mlh3ZUt2Nm1WcjVjZVo1RGQ4WUxua0hzRkZTSFFzQ2tjc09HY2ZIZmdac1ZnRUZn?oc=5",
-          "source": "Google News",
-          "published": "Mon, 20 Jul 2026 19:30:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "정보요원",
+      "word": "경찰청",
       "count": 1,
       "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "해외파견 정보요원 신상도 털렸을 가능성… 北 해킹 여부 조사 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XSEVUOExrN2xDQ0Q2ekQ5SUkyYWFmYzgyTEpfX1RsT2RzaHVCMVBnMjhJOV9HUXJBZERoQ2xPV1g5VGZKZ0NMT1ZvbUpQVmpJWnZuOWIzQjBFS1QtX2RtTXpHc0hybGxSeWE3WVFrZ1lEd0NLbm530gFmQVVfeXFMTkF3ZEE5eHdROHNicnJjWllpaS1NYUdFVXZmczl6Q0dkN2gyTy1fR2lLaFJlX191Mlh3ZUt2Nm1WcjVjZVo1RGQ4WUxua0hzRkZTSFFzQ2tjc09HY2ZIZmdac1ZnRUZn?oc=5",
+          "title": "경찰 장윤기 특수단, 경찰청 국가수사본부 압수수색···“보고·지휘 내용 확인” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yc000Ny0xVEcya0RLbm9Kc3BHZVhNY1pxd2ZyZWg2NXMzamN3SzlSTkNFb3lxZ2tZNWJVdDVWUThVaWFKSjBOXzliclBsVXJuZUZybWIzTDk0Z9IBX0FVX3lxTE1CXy04cjFTMTlkSGxQWlZNVk54YnlvRjNJOWxyVlYwQnQ2Um81MmdBMWotY1FiNUZjOVpLeEJlNmIyNHluYjJieHV5ZzF0YVNLQXgydTloLVhWd2xscGhz?oc=5",
           "source": "Google News",
-          "published": "Mon, 20 Jul 2026 19:30:00 GMT"
+          "published": "Mon, 20 Jul 2026 23:09:00 GMT"
         }
       ]
     },
     {
-      "word": "신상",
+      "word": "국가수사본부",
       "count": 1,
-      "category": "NOUN",
+      "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "해외파견 정보요원 신상도 털렸을 가능성… 北 해킹 여부 조사 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XSEVUOExrN2xDQ0Q2ekQ5SUkyYWFmYzgyTEpfX1RsT2RzaHVCMVBnMjhJOV9HUXJBZERoQ2xPV1g5VGZKZ0NMT1ZvbUpQVmpJWnZuOWIzQjBFS1QtX2RtTXpHc0hybGxSeWE3WVFrZ1lEd0NLbm530gFmQVVfeXFMTkF3ZEE5eHdROHNicnJjWllpaS1NYUdFVXZmczl6Q0dkN2gyTy1fR2lLaFJlX191Mlh3ZUt2Nm1WcjVjZVo1RGQ4WUxua0hzRkZTSFFzQ2tjc09HY2ZIZmdac1ZnRUZn?oc=5",
+          "title": "경찰 장윤기 특수단, 경찰청 국가수사본부 압수수색···“보고·지휘 내용 확인” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yc000Ny0xVEcya0RLbm9Kc3BHZVhNY1pxd2ZyZWg2NXMzamN3SzlSTkNFb3lxZ2tZNWJVdDVWUThVaWFKSjBOXzliclBsVXJuZUZybWIzTDk0Z9IBX0FVX3lxTE1CXy04cjFTMTlkSGxQWlZNVk54YnlvRjNJOWxyVlYwQnQ2Um81MmdBMWotY1FiNUZjOVpLeEJlNmIyNHluYjJieHV5ZzF0YVNLQXgydTloLVhWd2xscGhz?oc=5",
           "source": "Google News",
-          "published": "Mon, 20 Jul 2026 19:30:00 GMT"
+          "published": "Mon, 20 Jul 2026 23:09:00 GMT"
         }
       ]
     },
     {
-      "word": "털렸",
+      "word": "압수수색보고지휘",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "해외파견 정보요원 신상도 털렸을 가능성… 北 해킹 여부 조사 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XSEVUOExrN2xDQ0Q2ekQ5SUkyYWFmYzgyTEpfX1RsT2RzaHVCMVBnMjhJOV9HUXJBZERoQ2xPV1g5VGZKZ0NMT1ZvbUpQVmpJWnZuOWIzQjBFS1QtX2RtTXpHc0hybGxSeWE3WVFrZ1lEd0NLbm530gFmQVVfeXFMTkF3ZEE5eHdROHNicnJjWllpaS1NYUdFVXZmczl6Q0dkN2gyTy1fR2lLaFJlX191Mlh3ZUt2Nm1WcjVjZVo1RGQ4WUxua0hzRkZTSFFzQ2tjc09HY2ZIZmdac1ZnRUZn?oc=5",
+          "title": "경찰 장윤기 특수단, 경찰청 국가수사본부 압수수색···“보고·지휘 내용 확인” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yc000Ny0xVEcya0RLbm9Kc3BHZVhNY1pxd2ZyZWg2NXMzamN3SzlSTkNFb3lxZ2tZNWJVdDVWUThVaWFKSjBOXzliclBsVXJuZUZybWIzTDk0Z9IBX0FVX3lxTE1CXy04cjFTMTlkSGxQWlZNVk54YnlvRjNJOWxyVlYwQnQ2Um81MmdBMWotY1FiNUZjOVpLeEJlNmIyNHluYjJieHV5ZzF0YVNLQXgydTloLVhWd2xscGhz?oc=5",
           "source": "Google News",
-          "published": "Mon, 20 Jul 2026 19:30:00 GMT"
+          "published": "Mon, 20 Jul 2026 23:09:00 GMT"
         }
       ]
     },
     {
-      "word": "가능",
+      "word": "미국",
       "count": 1,
-      "category": "NOUN",
+      "category": "LOCATION",
       "articles": [
         {
-          "title": "해외파견 정보요원 신상도 털렸을 가능성… 北 해킹 여부 조사 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XSEVUOExrN2xDQ0Q2ekQ5SUkyYWFmYzgyTEpfX1RsT2RzaHVCMVBnMjhJOV9HUXJBZERoQ2xPV1g5VGZKZ0NMT1ZvbUpQVmpJWnZuOWIzQjBFS1QtX2RtTXpHc0hybGxSeWE3WVFrZ1lEd0NLbm530gFmQVVfeXFMTkF3ZEE5eHdROHNicnJjWllpaS1NYUdFVXZmczl6Q0dkN2gyTy1fR2lLaFJlX191Mlh3ZUt2Nm1WcjVjZVo1RGQ4WUxua0hzRkZTSFFzQ2tjc09HY2ZIZmdac1ZnRUZn?oc=5",
+          "title": "미국 열흘째 이란 공습…트럼프 “이란, 미군 병사 죽일 때마다 몇배로 대가” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTXl6MGtBNVNRTmI3c0otUHJTX29PYWdUWmFxWU03ekJhS29pUVVpU2Vzb1hHdjRfNlR0OHBKZU9TTFc2OGNjRk85VWFfY2tTM3dUSVd1MFBQbnNtWE9MbVZrWGk5ZDBLVXlHWFViY21uRVVvblFDTFV3X0lDUC1YTjRB?oc=5",
           "source": "Google News",
-          "published": "Mon, 20 Jul 2026 19:30:00 GMT"
+          "published": "Mon, 20 Jul 2026 23:09:00 GMT"
         }
       ]
     },
     {
-      "word": "해킹",
+      "word": "열흘째",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "해외파견 정보요원 신상도 털렸을 가능성… 北 해킹 여부 조사 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XSEVUOExrN2xDQ0Q2ekQ5SUkyYWFmYzgyTEpfX1RsT2RzaHVCMVBnMjhJOV9HUXJBZERoQ2xPV1g5VGZKZ0NMT1ZvbUpQVmpJWnZuOWIzQjBFS1QtX2RtTXpHc0hybGxSeWE3WVFrZ1lEd0NLbm530gFmQVVfeXFMTkF3ZEE5eHdROHNicnJjWllpaS1NYUdFVXZmczl6Q0dkN2gyTy1fR2lLaFJlX191Mlh3ZUt2Nm1WcjVjZVo1RGQ4WUxua0hzRkZTSFFzQ2tjc09HY2ZIZmdac1ZnRUZn?oc=5",
+          "title": "미국 열흘째 이란 공습…트럼프 “이란, 미군 병사 죽일 때마다 몇배로 대가” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTXl6MGtBNVNRTmI3c0otUHJTX29PYWdUWmFxWU03ekJhS29pUVVpU2Vzb1hHdjRfNlR0OHBKZU9TTFc2OGNjRk85VWFfY2tTM3dUSVd1MFBQbnNtWE9MbVZrWGk5ZDBLVXlHWFViY21uRVVvblFDTFV3X0lDUC1YTjRB?oc=5",
           "source": "Google News",
-          "published": "Mon, 20 Jul 2026 19:30:00 GMT"
+          "published": "Mon, 20 Jul 2026 23:09:00 GMT"
         }
       ]
     },
     {
-      "word": "여부",
+      "word": "공습트럼프",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "해외파견 정보요원 신상도 털렸을 가능성… 北 해킹 여부 조사 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XSEVUOExrN2xDQ0Q2ekQ5SUkyYWFmYzgyTEpfX1RsT2RzaHVCMVBnMjhJOV9HUXJBZERoQ2xPV1g5VGZKZ0NMT1ZvbUpQVmpJWnZuOWIzQjBFS1QtX2RtTXpHc0hybGxSeWE3WVFrZ1lEd0NLbm530gFmQVVfeXFMTkF3ZEE5eHdROHNicnJjWllpaS1NYUdFVXZmczl6Q0dkN2gyTy1fR2lLaFJlX191Mlh3ZUt2Nm1WcjVjZVo1RGQ4WUxua0hzRkZTSFFzQ2tjc09HY2ZIZmdac1ZnRUZn?oc=5",
+          "title": "미국 열흘째 이란 공습…트럼프 “이란, 미군 병사 죽일 때마다 몇배로 대가” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTXl6MGtBNVNRTmI3c0otUHJTX29PYWdUWmFxWU03ekJhS29pUVVpU2Vzb1hHdjRfNlR0OHBKZU9TTFc2OGNjRk85VWFfY2tTM3dUSVd1MFBQbnNtWE9MbVZrWGk5ZDBLVXlHWFViY21uRVVvblFDTFV3X0lDUC1YTjRB?oc=5",
           "source": "Google News",
-          "published": "Mon, 20 Jul 2026 19:30:00 GMT"
+          "published": "Mon, 20 Jul 2026 23:09:00 GMT"
         }
       ]
     },
     {
-      "word": "조사",
+      "word": "미군",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "해외파견 정보요원 신상도 털렸을 가능성… 北 해킹 여부 조사 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XSEVUOExrN2xDQ0Q2ekQ5SUkyYWFmYzgyTEpfX1RsT2RzaHVCMVBnMjhJOV9HUXJBZERoQ2xPV1g5VGZKZ0NMT1ZvbUpQVmpJWnZuOWIzQjBFS1QtX2RtTXpHc0hybGxSeWE3WVFrZ1lEd0NLbm530gFmQVVfeXFMTkF3ZEE5eHdROHNicnJjWllpaS1NYUdFVXZmczl6Q0dkN2gyTy1fR2lLaFJlX191Mlh3ZUt2Nm1WcjVjZVo1RGQ4WUxua0hzRkZTSFFzQ2tjc09HY2ZIZmdac1ZnRUZn?oc=5",
+          "title": "미국 열흘째 이란 공습…트럼프 “이란, 미군 병사 죽일 때마다 몇배로 대가” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTXl6MGtBNVNRTmI3c0otUHJTX29PYWdUWmFxWU03ekJhS29pUVVpU2Vzb1hHdjRfNlR0OHBKZU9TTFc2OGNjRk85VWFfY2tTM3dUSVd1MFBQbnNtWE9MbVZrWGk5ZDBLVXlHWFViY21uRVVvblFDTFV3X0lDUC1YTjRB?oc=5",
           "source": "Google News",
-          "published": "Mon, 20 Jul 2026 19:30:00 GMT"
+          "published": "Mon, 20 Jul 2026 23:09:00 GMT"
         }
       ]
     },
     {
-      "word": "면접",
+      "word": "병사",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "면접성적 임의로 바꾼 선관위…法 \"하자 있지만 임용 취소는 안돼\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwRHYyMTYzbEtKQ3FiNl9Pbk04S3RSUFg5NGJpTDZJOGRXV3hkWmx5Q0MwY0I5NXRfMzBEcXQzM1pWeFkwT1B3eDZPaENvZkRyVklacnlGWGlLOFXSAWBBVV95cUxQTjhQcmp5OWhPeHVyZGZ0OTJ6SUV3eFFhMjhVR2Y0THhHOC1vbWNYam1QcDE3SG04NGdjVXFEcjZXVmwtT0tvOXVwWmJFdDJJNzdCZkdBMld3ZzhTNC1ubks?oc=5",
+          "title": "미국 열흘째 이란 공습…트럼프 “이란, 미군 병사 죽일 때마다 몇배로 대가” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTXl6MGtBNVNRTmI3c0otUHJTX29PYWdUWmFxWU03ekJhS29pUVVpU2Vzb1hHdjRfNlR0OHBKZU9TTFc2OGNjRk85VWFfY2tTM3dUSVd1MFBQbnNtWE9MbVZrWGk5ZDBLVXlHWFViY21uRVVvblFDTFV3X0lDUC1YTjRB?oc=5",
           "source": "Google News",
-          "published": "Mon, 20 Jul 2026 20:55:01 GMT"
+          "published": "Mon, 20 Jul 2026 23:09:00 GMT"
         }
       ]
     },
     {
-      "word": "임의",
+      "word": "죽일",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "면접성적 임의로 바꾼 선관위…法 \"하자 있지만 임용 취소는 안돼\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwRHYyMTYzbEtKQ3FiNl9Pbk04S3RSUFg5NGJpTDZJOGRXV3hkWmx5Q0MwY0I5NXRfMzBEcXQzM1pWeFkwT1B3eDZPaENvZkRyVklacnlGWGlLOFXSAWBBVV95cUxQTjhQcmp5OWhPeHVyZGZ0OTJ6SUV3eFFhMjhVR2Y0THhHOC1vbWNYam1QcDE3SG04NGdjVXFEcjZXVmwtT0tvOXVwWmJFdDJJNzdCZkdBMld3ZzhTNC1ubks?oc=5",
+          "title": "미국 열흘째 이란 공습…트럼프 “이란, 미군 병사 죽일 때마다 몇배로 대가” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTXl6MGtBNVNRTmI3c0otUHJTX29PYWdUWmFxWU03ekJhS29pUVVpU2Vzb1hHdjRfNlR0OHBKZU9TTFc2OGNjRk85VWFfY2tTM3dUSVd1MFBQbnNtWE9MbVZrWGk5ZDBLVXlHWFViY21uRVVvblFDTFV3X0lDUC1YTjRB?oc=5",
           "source": "Google News",
-          "published": "Mon, 20 Jul 2026 20:55:01 GMT"
+          "published": "Mon, 20 Jul 2026 23:09:00 GMT"
         }
       ]
     },
     {
-      "word": "바꾼",
+      "word": "때마다",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "면접성적 임의로 바꾼 선관위…法 \"하자 있지만 임용 취소는 안돼\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwRHYyMTYzbEtKQ3FiNl9Pbk04S3RSUFg5NGJpTDZJOGRXV3hkWmx5Q0MwY0I5NXRfMzBEcXQzM1pWeFkwT1B3eDZPaENvZkRyVklacnlGWGlLOFXSAWBBVV95cUxQTjhQcmp5OWhPeHVyZGZ0OTJ6SUV3eFFhMjhVR2Y0THhHOC1vbWNYam1QcDE3SG04NGdjVXFEcjZXVmwtT0tvOXVwWmJFdDJJNzdCZkdBMld3ZzhTNC1ubks?oc=5",
+          "title": "미국 열흘째 이란 공습…트럼프 “이란, 미군 병사 죽일 때마다 몇배로 대가” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTXl6MGtBNVNRTmI3c0otUHJTX29PYWdUWmFxWU03ekJhS29pUVVpU2Vzb1hHdjRfNlR0OHBKZU9TTFc2OGNjRk85VWFfY2tTM3dUSVd1MFBQbnNtWE9MbVZrWGk5ZDBLVXlHWFViY21uRVVvblFDTFV3X0lDUC1YTjRB?oc=5",
           "source": "Google News",
-          "published": "Mon, 20 Jul 2026 20:55:01 GMT"
+          "published": "Mon, 20 Jul 2026 23:09:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "몇배",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "미국 열흘째 이란 공습…트럼프 “이란, 미군 병사 죽일 때마다 몇배로 대가” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTXl6MGtBNVNRTmI3c0otUHJTX29PYWdUWmFxWU03ekJhS29pUVVpU2Vzb1hHdjRfNlR0OHBKZU9TTFc2OGNjRk85VWFfY2tTM3dUSVd1MFBQbnNtWE9MbVZrWGk5ZDBLVXlHWFViY21uRVVvblFDTFV3X0lDUC1YTjRB?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 23:09:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "대가",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "미국 열흘째 이란 공습…트럼프 “이란, 미군 병사 죽일 때마다 몇배로 대가” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTXl6MGtBNVNRTmI3c0otUHJTX29PYWdUWmFxWU03ekJhS29pUVVpU2Vzb1hHdjRfNlR0OHBKZU9TTFc2OGNjRk85VWFfY2tTM3dUSVd1MFBQbnNtWE9MbVZrWGk5ZDBLVXlHWFViY21uRVVvblFDTFV3X0lDUC1YTjRB?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 23:09:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "방문",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프, 美방문 앞둔 네타냐후 엄호… \"어떤 방식으로든 체포 안 될 것\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa2tZV1RGSFZQNE1YTnBUVlVic2MteHNfalNmZHFrQlBMRi1FQkFLa3FfQmhDMmJnNXV1LWJkN3dXcThOel94SU9tX0JvNGllRDZSbnhYclJ2ZjFORENKNWJhQ0JuRXdaYktZUnF4eWdUODRuUDZpaGItNUV0Tkl4V0w4eno?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 18:47:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "앞둔",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프, 美방문 앞둔 네타냐후 엄호… \"어떤 방식으로든 체포 안 될 것\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa2tZV1RGSFZQNE1YTnBUVlVic2MteHNfalNmZHFrQlBMRi1FQkFLa3FfQmhDMmJnNXV1LWJkN3dXcThOel94SU9tX0JvNGllRDZSbnhYclJ2ZjFORENKNWJhQ0JuRXdaYktZUnF4eWdUODRuUDZpaGItNUV0Tkl4V0w4eno?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 18:47:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "네타냐후",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프, 美방문 앞둔 네타냐후 엄호… \"어떤 방식으로든 체포 안 될 것\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa2tZV1RGSFZQNE1YTnBUVlVic2MteHNfalNmZHFrQlBMRi1FQkFLa3FfQmhDMmJnNXV1LWJkN3dXcThOel94SU9tX0JvNGllRDZSbnhYclJ2ZjFORENKNWJhQ0JuRXdaYktZUnF4eWdUODRuUDZpaGItNUV0Tkl4V0w4eno?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 18:47:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "엄호",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프, 美방문 앞둔 네타냐후 엄호… \"어떤 방식으로든 체포 안 될 것\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa2tZV1RGSFZQNE1YTnBUVlVic2MteHNfalNmZHFrQlBMRi1FQkFLa3FfQmhDMmJnNXV1LWJkN3dXcThOel94SU9tX0JvNGllRDZSbnhYclJ2ZjFORENKNWJhQ0JuRXdaYktZUnF4eWdUODRuUDZpaGItNUV0Tkl4V0w4eno?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 18:47:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "어떤",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프, 美방문 앞둔 네타냐후 엄호… \"어떤 방식으로든 체포 안 될 것\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa2tZV1RGSFZQNE1YTnBUVlVic2MteHNfalNmZHFrQlBMRi1FQkFLa3FfQmhDMmJnNXV1LWJkN3dXcThOel94SU9tX0JvNGllRDZSbnhYclJ2ZjFORENKNWJhQ0JuRXdaYktZUnF4eWdUODRuUDZpaGItNUV0Tkl4V0w4eno?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 18:47:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "방식",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프, 美방문 앞둔 네타냐후 엄호… \"어떤 방식으로든 체포 안 될 것\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa2tZV1RGSFZQNE1YTnBUVlVic2MteHNfalNmZHFrQlBMRi1FQkFLa3FfQmhDMmJnNXV1LWJkN3dXcThOel94SU9tX0JvNGllRDZSbnhYclJ2ZjFORENKNWJhQ0JuRXdaYktZUnF4eWdUODRuUDZpaGItNUV0Tkl4V0w4eno?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 18:47:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "체포",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프, 美방문 앞둔 네타냐후 엄호… \"어떤 방식으로든 체포 안 될 것\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa2tZV1RGSFZQNE1YTnBUVlVic2MteHNfalNmZHFrQlBMRi1FQkFLa3FfQmhDMmJnNXV1LWJkN3dXcThOel94SU9tX0JvNGllRDZSbnhYclJ2ZjFORENKNWJhQ0JuRXdaYktZUnF4eWdUODRuUDZpaGItNUV0Tkl4V0w4eno?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 18:47:00 GMT"
         }
       ]
     },
@@ -473,101 +416,140 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "면접성적 임의로 바꾼 선관위…法 \"하자 있지만 임용 취소는 안돼\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwRHYyMTYzbEtKQ3FiNl9Pbk04S3RSUFg5NGJpTDZJOGRXV3hkWmx5Q0MwY0I5NXRfMzBEcXQzM1pWeFkwT1B3eDZPaENvZkRyVklacnlGWGlLOFXSAWBBVV95cUxQTjhQcmp5OWhPeHVyZGZ0OTJ6SUV3eFFhMjhVR2Y0THhHOC1vbWNYam1QcDE3SG04NGdjVXFEcjZXVmwtT0tvOXVwWmJFdDJJNzdCZkdBMld3ZzhTNC1ubks?oc=5",
+          "title": "[단독] 선관위 징계위원들, ‘채용비리’ 징계받고도 활동…“해촉규정 없어” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VbEZyVGF5YzI1d0Flb0lNOGtWbnlybkx6M19qNFg5Nmc2UU40N3dwQTBPVU5FeFM4TmtST1E3aTgxNnNVajkyM3ZiZExyc3gyX0RWOWE4V2JVaEJ1UXlzS0JfWUpJY0NHdnc?oc=5",
           "source": "Google News",
-          "published": "Mon, 20 Jul 2026 20:55:01 GMT"
+          "published": "Mon, 20 Jul 2026 23:11:00 GMT"
         }
       ]
     },
     {
-      "word": "하자",
+      "word": "징계위원",
       "count": 1,
-      "category": "NOUN",
+      "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "면접성적 임의로 바꾼 선관위…法 \"하자 있지만 임용 취소는 안돼\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwRHYyMTYzbEtKQ3FiNl9Pbk04S3RSUFg5NGJpTDZJOGRXV3hkWmx5Q0MwY0I5NXRfMzBEcXQzM1pWeFkwT1B3eDZPaENvZkRyVklacnlGWGlLOFXSAWBBVV95cUxQTjhQcmp5OWhPeHVyZGZ0OTJ6SUV3eFFhMjhVR2Y0THhHOC1vbWNYam1QcDE3SG04NGdjVXFEcjZXVmwtT0tvOXVwWmJFdDJJNzdCZkdBMld3ZzhTNC1ubks?oc=5",
+          "title": "[단독] 선관위 징계위원들, ‘채용비리’ 징계받고도 활동…“해촉규정 없어” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VbEZyVGF5YzI1d0Flb0lNOGtWbnlybkx6M19qNFg5Nmc2UU40N3dwQTBPVU5FeFM4TmtST1E3aTgxNnNVajkyM3ZiZExyc3gyX0RWOWE4V2JVaEJ1UXlzS0JfWUpJY0NHdnc?oc=5",
           "source": "Google News",
-          "published": "Mon, 20 Jul 2026 20:55:01 GMT"
+          "published": "Mon, 20 Jul 2026 23:11:00 GMT"
         }
       ]
     },
     {
-      "word": "있지",
+      "word": "채용비리",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "면접성적 임의로 바꾼 선관위…法 \"하자 있지만 임용 취소는 안돼\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwRHYyMTYzbEtKQ3FiNl9Pbk04S3RSUFg5NGJpTDZJOGRXV3hkWmx5Q0MwY0I5NXRfMzBEcXQzM1pWeFkwT1B3eDZPaENvZkRyVklacnlGWGlLOFXSAWBBVV95cUxQTjhQcmp5OWhPeHVyZGZ0OTJ6SUV3eFFhMjhVR2Y0THhHOC1vbWNYam1QcDE3SG04NGdjVXFEcjZXVmwtT0tvOXVwWmJFdDJJNzdCZkdBMld3ZzhTNC1ubks?oc=5",
+          "title": "[단독] 선관위 징계위원들, ‘채용비리’ 징계받고도 활동…“해촉규정 없어” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VbEZyVGF5YzI1d0Flb0lNOGtWbnlybkx6M19qNFg5Nmc2UU40N3dwQTBPVU5FeFM4TmtST1E3aTgxNnNVajkyM3ZiZExyc3gyX0RWOWE4V2JVaEJ1UXlzS0JfWUpJY0NHdnc?oc=5",
           "source": "Google News",
-          "published": "Mon, 20 Jul 2026 20:55:01 GMT"
+          "published": "Mon, 20 Jul 2026 23:11:00 GMT"
         }
       ]
     },
     {
-      "word": "임용",
+      "word": "징계받",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "면접성적 임의로 바꾼 선관위…法 \"하자 있지만 임용 취소는 안돼\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwRHYyMTYzbEtKQ3FiNl9Pbk04S3RSUFg5NGJpTDZJOGRXV3hkWmx5Q0MwY0I5NXRfMzBEcXQzM1pWeFkwT1B3eDZPaENvZkRyVklacnlGWGlLOFXSAWBBVV95cUxQTjhQcmp5OWhPeHVyZGZ0OTJ6SUV3eFFhMjhVR2Y0THhHOC1vbWNYam1QcDE3SG04NGdjVXFEcjZXVmwtT0tvOXVwWmJFdDJJNzdCZkdBMld3ZzhTNC1ubks?oc=5",
+          "title": "[단독] 선관위 징계위원들, ‘채용비리’ 징계받고도 활동…“해촉규정 없어” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VbEZyVGF5YzI1d0Flb0lNOGtWbnlybkx6M19qNFg5Nmc2UU40N3dwQTBPVU5FeFM4TmtST1E3aTgxNnNVajkyM3ZiZExyc3gyX0RWOWE4V2JVaEJ1UXlzS0JfWUpJY0NHdnc?oc=5",
           "source": "Google News",
-          "published": "Mon, 20 Jul 2026 20:55:01 GMT"
+          "published": "Mon, 20 Jul 2026 23:11:00 GMT"
         }
       ]
     },
     {
-      "word": "취소",
+      "word": "활동해촉규정",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "면접성적 임의로 바꾼 선관위…法 \"하자 있지만 임용 취소는 안돼\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwRHYyMTYzbEtKQ3FiNl9Pbk04S3RSUFg5NGJpTDZJOGRXV3hkWmx5Q0MwY0I5NXRfMzBEcXQzM1pWeFkwT1B3eDZPaENvZkRyVklacnlGWGlLOFXSAWBBVV95cUxQTjhQcmp5OWhPeHVyZGZ0OTJ6SUV3eFFhMjhVR2Y0THhHOC1vbWNYam1QcDE3SG04NGdjVXFEcjZXVmwtT0tvOXVwWmJFdDJJNzdCZkdBMld3ZzhTNC1ubks?oc=5",
+          "title": "[단독] 선관위 징계위원들, ‘채용비리’ 징계받고도 활동…“해촉규정 없어” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VbEZyVGF5YzI1d0Flb0lNOGtWbnlybkx6M19qNFg5Nmc2UU40N3dwQTBPVU5FeFM4TmtST1E3aTgxNnNVajkyM3ZiZExyc3gyX0RWOWE4V2JVaEJ1UXlzS0JfWUpJY0NHdnc?oc=5",
           "source": "Google News",
-          "published": "Mon, 20 Jul 2026 20:55:01 GMT"
+          "published": "Mon, 20 Jul 2026 23:11:00 GMT"
         }
       ]
     },
     {
-      "word": "안돼",
+      "word": "없어",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "면접성적 임의로 바꾼 선관위…法 \"하자 있지만 임용 취소는 안돼\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwRHYyMTYzbEtKQ3FiNl9Pbk04S3RSUFg5NGJpTDZJOGRXV3hkWmx5Q0MwY0I5NXRfMzBEcXQzM1pWeFkwT1B3eDZPaENvZkRyVklacnlGWGlLOFXSAWBBVV95cUxQTjhQcmp5OWhPeHVyZGZ0OTJ6SUV3eFFhMjhVR2Y0THhHOC1vbWNYam1QcDE3SG04NGdjVXFEcjZXVmwtT0tvOXVwWmJFdDJJNzdCZkdBMld3ZzhTNC1ubks?oc=5",
+          "title": "[단독] 선관위 징계위원들, ‘채용비리’ 징계받고도 활동…“해촉규정 없어” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VbEZyVGF5YzI1d0Flb0lNOGtWbnlybkx6M19qNFg5Nmc2UU40N3dwQTBPVU5FeFM4TmtST1E3aTgxNnNVajkyM3ZiZExyc3gyX0RWOWE4V2JVaEJ1UXlzS0JfWUpJY0NHdnc?oc=5",
           "source": "Google News",
-          "published": "Mon, 20 Jul 2026 20:55:01 GMT"
+          "published": "Mon, 20 Jul 2026 23:11:00 GMT"
         }
       ]
     },
     {
-      "word": "지지율",
+      "word": "대통령",
       "count": 1,
-      "category": "NOUN",
+      "category": "PERSON",
       "articles": [
         {
-          "title": "李대통령 지지율 소폭 내려 48.4%…\"與갈등에 지지층 이탈\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcFExV0dVc2RVS3lQVWZYUnJrRWpVQmVrWEpHNFpvRXBGSHNaTndObXRieTd1V2FHVXNDcVlJT2tCUWJ2RlRqWmY2OUlPRTlMSTA3NkZTd3JxYWw1S0J4MDhmLUQxcVUwU1psS2c1bWxxM0p0Smx0RGlfMkRPUktTVlZlSjlHdw?oc=5",
+          "title": "李 대통령, 29억 분당 집 팔며 17.7억 근저당 설정 왜? - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8waVJ0azFldU5fUkhycnFmcWU2bjRBdFBHMXR1RlBjMHpjNDNCak54aFFxaF9veVBBQlZXMUZMUEVHaU5IOGd3aHVUbDVOSlFGekp0WWJtSlZzZw?oc=5",
           "source": "Google News",
-          "published": "Mon, 20 Jul 2026 01:14:59 GMT"
+          "published": "Mon, 20 Jul 2026 11:00:01 GMT"
         }
       ]
     },
     {
-      "word": "소폭",
+      "word": "29억",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "李대통령 지지율 소폭 내려 48.4%…\"與갈등에 지지층 이탈\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcFExV0dVc2RVS3lQVWZYUnJrRWpVQmVrWEpHNFpvRXBGSHNaTndObXRieTd1V2FHVXNDcVlJT2tCUWJ2RlRqWmY2OUlPRTlMSTA3NkZTd3JxYWw1S0J4MDhmLUQxcVUwU1psS2c1bWxxM0p0Smx0RGlfMkRPUktTVlZlSjlHdw?oc=5",
+          "title": "李 대통령, 29억 분당 집 팔며 17.7억 근저당 설정 왜? - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8waVJ0azFldU5fUkhycnFmcWU2bjRBdFBHMXR1RlBjMHpjNDNCak54aFFxaF9veVBBQlZXMUZMUEVHaU5IOGd3aHVUbDVOSlFGekp0WWJtSlZzZw?oc=5",
           "source": "Google News",
-          "published": "Mon, 20 Jul 2026 01:14:59 GMT"
+          "published": "Mon, 20 Jul 2026 11:00:01 GMT"
+        }
+      ]
+    },
+    {
+      "word": "분당",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "李 대통령, 29억 분당 집 팔며 17.7억 근저당 설정 왜? - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8waVJ0azFldU5fUkhycnFmcWU2bjRBdFBHMXR1RlBjMHpjNDNCak54aFFxaF9veVBBQlZXMUZMUEVHaU5IOGd3aHVUbDVOSlFGekp0WWJtSlZzZw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 11:00:01 GMT"
+        }
+      ]
+    },
+    {
+      "word": "팔며",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "李 대통령, 29억 분당 집 팔며 17.7억 근저당 설정 왜? - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8waVJ0azFldU5fUkhycnFmcWU2bjRBdFBHMXR1RlBjMHpjNDNCak54aFFxaF9veVBBQlZXMUZMUEVHaU5IOGd3aHVUbDVOSlFGekp0WWJtSlZzZw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 11:00:01 GMT"
+        }
+      ]
+    },
+    {
+      "word": "177억",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "李 대통령, 29억 분당 집 팔며 17.7억 근저당 설정 왜? - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8waVJ0azFldU5fUkhycnFmcWU2bjRBdFBHMXR1RlBjMHpjNDNCak54aFFxaF9veVBBQlZXMUZMUEVHaU5IOGd3aHVUbDVOSlFGekp0WWJtSlZzZw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 20 Jul 2026 11:00:01 GMT"
         }
       ]
     }
