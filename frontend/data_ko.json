@@ -1,24 +1,49 @@
 {
   "language": "ko",
-  "last_updated": 1784668708.9744086,
+  "last_updated": 1784675010.0784738,
   "count": 40,
   "trends": [
     {
-      "word": "트럼프",
+      "word": "대통령",
       "count": 4,
+      "category": "PERSON",
+      "articles": [
+        {
+          "title": "이 대통령 \"부동산 조세 제도, 국민의 상식과 눈높이에 기초해 정비\" - 대한민국 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sOXN1ZngyaXBab3hvVHlFYWx1Nzh1RzlkSzJOZm1Wek5EbDJpdFg4NlZ4QUJXdHZ2WWRqcXZVT2o4R0REMFJrNFQya09wT2xqUW0wOEQ2NmJYSWY0bE5pTTZXcW94ZzFta241Qg?oc=5",
+          "source": "Google News",
+          "published": "Tue, 21 Jul 2026 12:14:46 GMT"
+        },
+        {
+          "title": "일반인이면 가능했겠나…이 대통령 분당 아파트 매매 ‘뒷말’ - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmblFTQlZIUUNEeWswMjlYeUtaZ0cxV0JrdFJpNnA4SWRseHdjNmdhQnZ0UGl6d2JEeGFFYndiQnNzRTJPUlF1RTg0Y0tVV0FRVk5VbnRFY2d4Z9IBX0FVX3lxTE1ETEpyZW1lekNhNWZtSjlzMnUwR0l5dDJ4ZW93cnNuVld2LTROME96VjJxdkgxZ2JZX05yOGVRTVhpSmJ1cGRXSjAxd2hVaVRDT0x0NXlFcWlZTkN1UExz?oc=5",
+          "source": "Google News",
+          "published": "Tue, 21 Jul 2026 12:22:00 GMT"
+        },
+        {
+          "title": "이 대통령, 삼전 노조에 “호남 반도체가 쟁의 대상 주장 지나쳐” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZRWt4TGh5azJDX2g3YUh4aDluaW11eFJnMnNsOUZraktlZDVyQkl1bjhfUmRQei05Z3FQLWx3cVpaMWxDSUMtMzdaY19WODdrYnlUYTRKTGV5M3phWXhUWVdXZVFOUm53cGhpX0d1UUdrcXVa?oc=5",
+          "source": "Google News",
+          "published": "Tue, 21 Jul 2026 11:53:00 GMT"
+        },
+        {
+          "title": "이 대통령 “석유 최고가격제 강화해야”…중동상황 다시 악화 판단 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5EYmNlU1VldEtITjVIb0p5bWpzSTI5bFRYZENBTlQ5N29aWVVVT2lTMUhERWt6RlEySld5dHlaU3JEVUxUNE9UODNSaFJkbWFJc3hCWlIya0dNeDNsaFhydTVPd1JWMEo4emNj?oc=5",
+          "source": "Google News",
+          "published": "Tue, 21 Jul 2026 02:48:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "트럼프",
+      "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 \"후티 반군, 홍해 봉쇄하면 우리가 처리할 것\" - 노컷뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zZTFreHBCZUJDTENkQ1NwbmZxMmtoWjMxaTdLaV9EcVVGbXFfU0xNWWhtMXl6RDQ1djFmamx1eU5ZUXlxMGIxWWc1c0xtZDE1ZHc?oc=5",
+          "title": "트럼프 “후티 홍해 봉쇄하면 우리가 처리”…이란 ‘곡괭이산’ 곧 타격 예고 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sT01VUk4yenVDWC1yU3BGRnhwcUNJS0hCR1JSLXdqM3lCeTd1MmZ1M1oxNVBBNEd0dVNwUU1DMWRlWXhwbkZOLW1mQ2R6aWhpLXR2a25sczRWdDExc3Fpa1BRZHV0U29EWUg1ajNGdzZ1VHc?oc=5",
           "source": "Google News",
-          "published": "Tue, 21 Jul 2026 20:00:00 GMT"
-        },
-        {
-          "title": "트럼프 “미군 병사 죽일 때마다 몇 배로 대가”…열흘째 이란 공습 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTXl6MGtBNVNRTmI3c0otUHJTX29PYWdUWmFxWU03ekJhS29pUVVpU2Vzb1hHdjRfNlR0OHBKZU9TTFc2OGNjRk85VWFfY2tTM3dUSVd1MFBQbnNtWE9MbVZrWGk5ZDBLVXlHWFViY21uRVVvblFDTFV3X0lDUC1YTjRB?oc=5",
-          "source": "Google News",
-          "published": "Tue, 21 Jul 2026 01:08:00 GMT"
+          "published": "Tue, 21 Jul 2026 21:47:00 GMT"
         },
         {
           "title": "트럼프, 캐나다에 50% '관세폭탄'‥30일 후 발효 - MBC 뉴스",
@@ -35,27 +60,21 @@
       ]
     },
     {
-      "word": "대통령",
-      "count": 3,
-      "category": "PERSON",
+      "word": "예고",
+      "count": 2,
+      "category": "NOUN",
       "articles": [
         {
-          "title": "일반인이면 가능했겠나…이 대통령 분당 아파트 매매 ‘뒷말’ - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmblFTQlZIUUNEeWswMjlYeUtaZ0cxV0JrdFJpNnA4SWRseHdjNmdhQnZ0UGl6d2JEeGFFYndiQnNzRTJPUlF1RTg0Y0tVV0FRVk5VbnRFY2d4Z9IBX0FVX3lxTE1ETEpyZW1lekNhNWZtSjlzMnUwR0l5dDJ4ZW93cnNuVld2LTROME96VjJxdkgxZ2JZX05yOGVRTVhpSmJ1cGRXSjAxd2hVaVRDT0x0NXlFcWlZTkN1UExz?oc=5",
+          "title": "트럼프 “후티 홍해 봉쇄하면 우리가 처리”…이란 ‘곡괭이산’ 곧 타격 예고 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sT01VUk4yenVDWC1yU3BGRnhwcUNJS0hCR1JSLXdqM3lCeTd1MmZ1M1oxNVBBNEd0dVNwUU1DMWRlWXhwbkZOLW1mQ2R6aWhpLXR2a25sczRWdDExc3Fpa1BRZHV0U29EWUg1ajNGdzZ1VHc?oc=5",
           "source": "Google News",
-          "published": "Tue, 21 Jul 2026 12:22:00 GMT"
+          "published": "Tue, 21 Jul 2026 21:47:00 GMT"
         },
         {
-          "title": "이 대통령 \"부동산 조세 제도, 국민의 상식과 눈높이에 기초해 정비\" - 대한민국 정책브리핑",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sOXN1ZngyaXBab3hvVHlFYWx1Nzh1RzlkSzJOZm1Wek5EbDJpdFg4NlZ4QUJXdHZ2WWRqcXZVT2o4R0REMFJrNFQya09wT2xqUW0wOEQ2NmJYSWY0bE5pTTZXcW94ZzFta241Qg?oc=5",
+          "title": "캐나다에 50% 때리고 또···“트럼프, 이번주 최대 60개국에 새 관세 예고” 한국도 포함되나 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ReldrOXdvLUVmaUNKRkZ1TjZqOXhOd0xFbEpwWVVMa2ZUZS1KQTZYdVRkNHF3QWpxel9qZGZDSmNiTHVGR1Q3Q2U5TEU3bEpJakZXREN5SWpad9IBX0FVX3lxTE9LQ2tLOEY2VzRGSkFZNFQ3dzdPSzZxMUJOWG94TmlyRXI3ZWw5S0tyeEMwYk4zbVFsWjVjbXFWYVRLalp2THNWTkJTdHB4eUkyNldYWF9Sb05fWDF3cm4w?oc=5",
           "source": "Google News",
-          "published": "Tue, 21 Jul 2026 12:14:46 GMT"
-        },
-        {
-          "title": "이 대통령, 삼전 노조에 “호남 반도체가 쟁의 대상 주장 지나쳐” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZRWt4TGh5azJDX2g3YUh4aDluaW11eFJnMnNsOUZraktlZDVyQkl1bjhfUmRQei05Z3FQLWx3cVpaMWxDSUMtMzdaY19WODdrYnlUYTRKTGV5M3phWXhUWVdXZVFOUm53cGhpX0d1UUdrcXVa?oc=5",
-          "source": "Google News",
-          "published": "Tue, 21 Jul 2026 11:53:00 GMT"
+          "published": "Tue, 21 Jul 2026 11:49:00 GMT"
         }
       ]
     },
@@ -65,10 +84,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘장윤기 사건 지휘’ 형사과장 구속영장 기각 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sc09Wc2ppdHVyVWlpWEE3UHVoMGY2YXMyZ0NoNm9zRm82OXN1Z042X3lDRGVGcmw4YUhHQk1ZcjI0dVlkbUw3R3FlT2JwbWVQaGs0WEIzeXotNlpMcHE0bg?oc=5",
+          "title": "초유의 검경 동시 압수수색…형사과장 구속영장 기각 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fT2w5RTNZdUs4dXZqOXBsOS0zc185SjN6UXowcVRxTDk5NlNvN2tOVkZXWnBTR2JZVWh2YzdqOWtqelRSX0FPMFFKNEVUbTgwdU5JY0U0a3I4cTA?oc=5",
           "source": "Google News",
-          "published": "Tue, 21 Jul 2026 14:08:00 GMT"
+          "published": "Tue, 21 Jul 2026 21:01:00 GMT"
         },
         {
           "title": "올림픽공원 체육단체 출입 막은 '성조기 여성' 구속영장 기각 - MBC 뉴스",
@@ -84,10 +103,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘장윤기 사건 지휘’ 형사과장 구속영장 기각 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sc09Wc2ppdHVyVWlpWEE3UHVoMGY2YXMyZ0NoNm9zRm82OXN1Z042X3lDRGVGcmw4YUhHQk1ZcjI0dVlkbUw3R3FlT2JwbWVQaGs0WEIzeXotNlpMcHE0bg?oc=5",
+          "title": "초유의 검경 동시 압수수색…형사과장 구속영장 기각 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fT2w5RTNZdUs4dXZqOXBsOS0zc185SjN6UXowcVRxTDk5NlNvN2tOVkZXWnBTR2JZVWh2YzdqOWtqelRSX0FPMFFKNEVUbTgwdU5JY0U0a3I4cTA?oc=5",
           "source": "Google News",
-          "published": "Tue, 21 Jul 2026 14:08:00 GMT"
+          "published": "Tue, 21 Jul 2026 21:01:00 GMT"
         },
         {
           "title": "올림픽공원 체육단체 출입 막은 '성조기 여성' 구속영장 기각 - MBC 뉴스",
@@ -117,9 +136,9 @@
       ]
     },
     {
-      "word": "포함",
+      "word": "한국",
       "count": 2,
-      "category": "NOUN",
+      "category": "LOCATION",
       "articles": [
         {
           "title": "캐나다에 50% 때리고 또···“트럼프, 이번주 최대 60개국에 새 관세 예고” 한국도 포함되나 - 경향신문",
@@ -128,10 +147,10 @@
           "published": "Tue, 21 Jul 2026 11:49:00 GMT"
         },
         {
-          "title": "뉴진스, 데뷔 4주년에 민지 포함 4인 영상 공개…활동 재개하나 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiV3hucUEzeW5ueXc3NmdRelRVWHVYbG5jaEthNkVSRHdJTFNQTTI2TjlveUhpY1Z1a0JYYmh3S3djekZ0V2dmM3NkWm14eGZubFpPMW42OE9iU0ZJWnMxTTAtcGEzLXc?oc=5",
+          "title": "JP모건 \"한국 증시 급락은 각종 레버리지 ETF 탓...적정 수준까지 75% 청산 완료\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS3JwUGxMdEdpd3lUSGZENHhZN1FmTl9URDYzS0drOWdHMUFyZU40dVlfSnFUS2licXJqV2JPTmNJOWZuWjV0R1IzdF9OM05CdFhzbXplUVk4QUp5aDNuQUtKUzg0UTVsU1hqRnVHbmFoUzhVb09wdk1ZamEtV0U2WA?oc=5",
           "source": "Google News",
-          "published": "Tue, 21 Jul 2026 15:27:00 GMT"
+          "published": "Tue, 21 Jul 2026 08:11:00 GMT"
         }
       ]
     },
@@ -147,61 +166,29 @@
           "published": "Tue, 21 Jul 2026 12:54:25 GMT"
         },
         {
-          "title": "[사이테크+] 폭발한 별의 짝도 초신성됐다?…'쌍성계 초신성 잔해' 후보 발견 - 연합뉴스 한민족센터",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40R1ZOUXdVdDVTVHUtcGVnbWVHeFQxemItNGFaeWw1VDRqLS1LSWoyVm14SjN2MzJoc1pXbU9HOE1DVGJoQXI5NFhxS21YRDJjOVlJbDFWN2l0VkVxNGRqNGRUeUVsUHhfbGg3REtoQUFib09m?oc=5",
+          "title": "'혈당 폭발' 주범인 줄 알았는데…아이스크림 먹은 사람이 당뇨·심장병 위험 낮았다? - 전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8wdE8tT3pyelNlMlFLaVp0Z0pXVFhKdDRLYmtmS1R2Z2lmblNPSDRNQ2hrOFdOczI2ZnNidWY0aFl2NHNGcm9ZTmpjV0Yxdw?oc=5",
           "source": "Google News",
-          "published": "Tue, 21 Jul 2026 20:00:00 GMT"
+          "published": "Tue, 21 Jul 2026 07:30:00 GMT"
         }
       ]
     },
     {
-      "word": "이란",
+      "word": "유가",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 “미군 병사 죽일 때마다 몇 배로 대가”…열흘째 이란 공습 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTXl6MGtBNVNRTmI3c0otUHJTX29PYWdUWmFxWU03ekJhS29pUVVpU2Vzb1hHdjRfNlR0OHBKZU9TTFc2OGNjRk85VWFfY2tTM3dUSVd1MFBQbnNtWE9MbVZrWGk5ZDBLVXlHWFViY21uRVVvblFDTFV3X0lDUC1YTjRB?oc=5",
+          "title": "유가 90달러 재돌파…트럼프, 英 버넘에 \"북해 유전 뚫자\" - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BSlVkV1V4MjRxdDB3c3lPaDYza1BUdDlFSHdPWW9KQTFuS19uaUpkcjRYQnRvZE9kVEdpaWhvQzVRRnpxY3VCS01CSTFXbGdaVm5fbHBwTVJvZw?oc=5",
           "source": "Google News",
-          "published": "Tue, 21 Jul 2026 01:08:00 GMT"
+          "published": "Mon, 20 Jul 2026 09:11:03 GMT"
         },
         {
-          "title": "이란, ‘원심분리기’ 픽액스산에 옮겼나···“핵 프로그램 비밀리 구축 우려” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoa0tSckVhRTh4Ul9kYzdVMmRPRlg0eW5MZ3ByZlJTclU3S3ctSE1mQ0hiZnRkd2FpUkE1aFNyWEgwLVFsVlMtaklXRHJCbGdSeXFhYUtESGlvUdIBX0FVX3lxTE45SjFqNlltQ1c2bXJBSHg5aHRiaE95cGM5R0hScTlMT29feHZiemp6ZnBSZkNrb2M1ZVd0Z3VlRTBYeTJvNmJLNWxfRUxSLXFqVUxRSXk1R3Bibno4QXZB?oc=5",
+          "title": "뉴욕증시, 유가 상승에도 반도체주 반등에 강세…나스닥 1.3%↑ - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ITzlzUmFfTVMxdjBxOE5HdXF1N29aM1Z2QjJlSjB1VnFZY0ZsWlBYQVZmU25oSW91REUycVFyc0lISU1lOF9lTjFoN0M4YWxoUXRYWGQtaXZ5a3M?oc=5",
           "source": "Google News",
-          "published": "Tue, 21 Jul 2026 07:18:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "만든",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "장동혁 \"삼전닉스 레버리지 ETF, 이재명 정부가 만든 불량상품\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RTHlDNFlKcExaTldURlB0M0pkN08yZUVZbERpTTZJR1IybmNxazJLcDdRTXRNOGp1d3dGSS1nZDNpRFUwVXZYVUZNUU1LNG1ncVJiR1JLcE1UUERYVWxlTmZaRlhZR0s2QW01bVQ0WkdfRExGQVJqd9IBeEFVX3lxTE9YMDRXME9tWU1mS2lXNWJLQmpZaEVlZUdkSkl1WW9KOWhPaFZFY0tHaEk4eEh5OTkyRlRvcDItb3BoVDhJS1RGbnJYVm9IRnF5a2VDN1lXclp2SVgtcjV5V2ZHLTk2eV9BN1RlWkp2RW8yTXgzT3VncQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 21 Jul 2026 04:55:25 GMT"
-        },
-        {
-          "title": "“30명이 만든 800만장 흥행”… ‘데이브 더 다이버’ 성공 비결 - 천지일보",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xOEhfaWhlaVV1NzNUSFY1NG1mbHFhQ3F5WnZfYmJXQWVnYmF4bURXWU5lNXZabmtTMXI2MUQxN3pVNTMwZU80SmNUdlpNSWVxZGVDOERLTjh3ZzBobXAtNDNDT2xqVlpSc3c?oc=5",
-          "source": "Google News",
-          "published": "Tue, 21 Jul 2026 12:46:22 GMT"
-        }
-      ]
-    },
-    {
-      "word": "우주",
-      "count": 2,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "\"우주에 대형 거울 띄워 밤을 낮처럼\"... 美우주 스타트업 도전나서 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQnZqbHRleEZBS1ltaGZUY0RsT1hjbTk4LWpVZGx2cllPV0x0Q2lxNDY5TVRuMzk3UlYzaGFMakZTdXZXbjVQclc2aTJvdmFibG41cGtUM2NkbXVYNjh4aTRqMVI0NnpaTXNVZU5JYWswamY3OHpTUUUxZ3BRY3R4bkRzOA?oc=5",
-          "source": "Google News",
-          "published": "Tue, 21 Jul 2026 05:15:09 GMT"
+          "published": "Tue, 21 Jul 2026 21:49:00 GMT"
         }
       ]
     },
@@ -211,10 +198,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "월드컵 하프타임쇼 노래 역주행…'다이너마이트' 스트리밍 13%↑ - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MWlh4MXhhbGV3S2xjNXhCTF8wUWhycWt3ZDVwYmVqSFNieHZWYlltWlFqay0zZ1RnZGM4XzhmSWVUSkZRNVpmRU1fQjd4a3dVOE1wSzI3RXhMZjjSAWBBVV95cUxPNWhRYzRkcThNdTRPeUFMcm9zVURlMzlYMll4TnJhQ0Q0emFLdF9Ja2wzdHZLajFBVkd3WTBKZHNfY09zVWtKMXpIS0JhY01qbmdBS2tyZ2dEUVZ6ajhWQ0M?oc=5",
+          "title": "월드컵 하프 타임 쇼 노래 인기...'다이너마이트' 스트리밍 13%↑ - YTN",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtd2V6YnU2VlFHOXlIUHZhZ0V6ZkZlYXFSNHdWSTVDZk9hdTJHckhLVWNBTkZzUk5KX1BVMnpNRkt3cjYza0w4QTlUTkg3T05CZFhuNjZlVFI3XzZnSXMwS0pXemRhb3RyM3hmY1VHM2thT1NEX1E?oc=5",
           "source": "Google News",
-          "published": "Tue, 21 Jul 2026 20:39:39 GMT"
+          "published": "Tue, 21 Jul 2026 21:15:00 GMT"
         },
         {
           "title": "월드컵 결승서 스페인전 패배 후 난투극 벌인 아르헨…FIFA 조사 - 연합뉴스",
@@ -225,132 +212,164 @@
       ]
     },
     {
-      "word": "일반인이면",
-      "count": 1,
+      "word": "노화",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "일반인이면 가능했겠나…이 대통령 분당 아파트 매매 ‘뒷말’ - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmblFTQlZIUUNEeWswMjlYeUtaZ0cxV0JrdFJpNnA4SWRseHdjNmdhQnZ0UGl6d2JEeGFFYndiQnNzRTJPUlF1RTg0Y0tVV0FRVk5VbnRFY2d4Z9IBX0FVX3lxTE1ETEpyZW1lekNhNWZtSjlzMnUwR0l5dDJ4ZW93cnNuVld2LTROME96VjJxdkgxZ2JZX05yOGVRTVhpSmJ1cGRXSjAxd2hVaVRDT0x0NXlFcWlZTkN1UExz?oc=5",
+          "title": "노화 부르는 뇌 노폐물, 배출 '첫 관문' 발견…뇌질환 연구 기대 - 네이트",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TRHVSZElHc2tkVGR5Rkp6X2xEclJxWjE2dllEME9STVp1V0pIWThrT0VsSHpSLV9Lc2hnczdfWG1pTVNRVW1XdGthNmhhNjR4V1dQUng0U1VsUHI0eG9qWQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 21 Jul 2026 12:22:00 GMT"
+          "published": "Tue, 21 Jul 2026 15:01:00 GMT"
+        },
+        {
+          "title": "노화를 늦추는 의외의 습관, 슈퍼푸드 얼려 먹으면 몸에 더 좋다 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdVREYk8wOENBMmhYaHU3WHpLOTRfV1F5NHhHVlZmdmF6SW4ya3JYSXBMaHNHb3FfWlpWajRZR2ZpOVpTMWxoQXRRbkY0VzVhUjgtTEdyTnR2cHBKQmNXdGpGbV8tX0V1dDlOc0N1MHl3M2VRUlJDTVhvNlZPdGE0eUNzYTVsbkItQmNz?oc=5",
+          "source": "Google News",
+          "published": "Tue, 21 Jul 2026 20:31:55 GMT"
         }
       ]
     },
     {
-      "word": "가능했겠",
+      "word": "후티",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "일반인이면 가능했겠나…이 대통령 분당 아파트 매매 ‘뒷말’ - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmblFTQlZIUUNEeWswMjlYeUtaZ0cxV0JrdFJpNnA4SWRseHdjNmdhQnZ0UGl6d2JEeGFFYndiQnNzRTJPUlF1RTg0Y0tVV0FRVk5VbnRFY2d4Z9IBX0FVX3lxTE1ETEpyZW1lekNhNWZtSjlzMnUwR0l5dDJ4ZW93cnNuVld2LTROME96VjJxdkgxZ2JZX05yOGVRTVhpSmJ1cGRXSjAxd2hVaVRDT0x0NXlFcWlZTkN1UExz?oc=5",
+          "title": "트럼프 “후티 홍해 봉쇄하면 우리가 처리”…이란 ‘곡괭이산’ 곧 타격 예고 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sT01VUk4yenVDWC1yU3BGRnhwcUNJS0hCR1JSLXdqM3lCeTd1MmZ1M1oxNVBBNEd0dVNwUU1DMWRlWXhwbkZOLW1mQ2R6aWhpLXR2a25sczRWdDExc3Fpa1BRZHV0U29EWUg1ajNGdzZ1VHc?oc=5",
           "source": "Google News",
-          "published": "Tue, 21 Jul 2026 12:22:00 GMT"
+          "published": "Tue, 21 Jul 2026 21:47:00 GMT"
         }
       ]
     },
     {
-      "word": "분당",
+      "word": "홍해",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "일반인이면 가능했겠나…이 대통령 분당 아파트 매매 ‘뒷말’ - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmblFTQlZIUUNEeWswMjlYeUtaZ0cxV0JrdFJpNnA4SWRseHdjNmdhQnZ0UGl6d2JEeGFFYndiQnNzRTJPUlF1RTg0Y0tVV0FRVk5VbnRFY2d4Z9IBX0FVX3lxTE1ETEpyZW1lekNhNWZtSjlzMnUwR0l5dDJ4ZW93cnNuVld2LTROME96VjJxdkgxZ2JZX05yOGVRTVhpSmJ1cGRXSjAxd2hVaVRDT0x0NXlFcWlZTkN1UExz?oc=5",
+          "title": "트럼프 “후티 홍해 봉쇄하면 우리가 처리”…이란 ‘곡괭이산’ 곧 타격 예고 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sT01VUk4yenVDWC1yU3BGRnhwcUNJS0hCR1JSLXdqM3lCeTd1MmZ1M1oxNVBBNEd0dVNwUU1DMWRlWXhwbkZOLW1mQ2R6aWhpLXR2a25sczRWdDExc3Fpa1BRZHV0U29EWUg1ajNGdzZ1VHc?oc=5",
           "source": "Google News",
-          "published": "Tue, 21 Jul 2026 12:22:00 GMT"
+          "published": "Tue, 21 Jul 2026 21:47:00 GMT"
         }
       ]
     },
     {
-      "word": "아파트",
+      "word": "봉쇄하면",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "일반인이면 가능했겠나…이 대통령 분당 아파트 매매 ‘뒷말’ - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmblFTQlZIUUNEeWswMjlYeUtaZ0cxV0JrdFJpNnA4SWRseHdjNmdhQnZ0UGl6d2JEeGFFYndiQnNzRTJPUlF1RTg0Y0tVV0FRVk5VbnRFY2d4Z9IBX0FVX3lxTE1ETEpyZW1lekNhNWZtSjlzMnUwR0l5dDJ4ZW93cnNuVld2LTROME96VjJxdkgxZ2JZX05yOGVRTVhpSmJ1cGRXSjAxd2hVaVRDT0x0NXlFcWlZTkN1UExz?oc=5",
+          "title": "트럼프 “후티 홍해 봉쇄하면 우리가 처리”…이란 ‘곡괭이산’ 곧 타격 예고 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sT01VUk4yenVDWC1yU3BGRnhwcUNJS0hCR1JSLXdqM3lCeTd1MmZ1M1oxNVBBNEd0dVNwUU1DMWRlWXhwbkZOLW1mQ2R6aWhpLXR2a25sczRWdDExc3Fpa1BRZHV0U29EWUg1ajNGdzZ1VHc?oc=5",
           "source": "Google News",
-          "published": "Tue, 21 Jul 2026 12:22:00 GMT"
+          "published": "Tue, 21 Jul 2026 21:47:00 GMT"
         }
       ]
     },
     {
-      "word": "매매",
+      "word": "우리",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "일반인이면 가능했겠나…이 대통령 분당 아파트 매매 ‘뒷말’ - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmblFTQlZIUUNEeWswMjlYeUtaZ0cxV0JrdFJpNnA4SWRseHdjNmdhQnZ0UGl6d2JEeGFFYndiQnNzRTJPUlF1RTg0Y0tVV0FRVk5VbnRFY2d4Z9IBX0FVX3lxTE1ETEpyZW1lekNhNWZtSjlzMnUwR0l5dDJ4ZW93cnNuVld2LTROME96VjJxdkgxZ2JZX05yOGVRTVhpSmJ1cGRXSjAxd2hVaVRDT0x0NXlFcWlZTkN1UExz?oc=5",
+          "title": "트럼프 “후티 홍해 봉쇄하면 우리가 처리”…이란 ‘곡괭이산’ 곧 타격 예고 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sT01VUk4yenVDWC1yU3BGRnhwcUNJS0hCR1JSLXdqM3lCeTd1MmZ1M1oxNVBBNEd0dVNwUU1DMWRlWXhwbkZOLW1mQ2R6aWhpLXR2a25sczRWdDExc3Fpa1BRZHV0U29EWUg1ajNGdzZ1VHc?oc=5",
           "source": "Google News",
-          "published": "Tue, 21 Jul 2026 12:22:00 GMT"
+          "published": "Tue, 21 Jul 2026 21:47:00 GMT"
         }
       ]
     },
     {
-      "word": "뒷말",
+      "word": "처리이란",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "일반인이면 가능했겠나…이 대통령 분당 아파트 매매 ‘뒷말’ - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmblFTQlZIUUNEeWswMjlYeUtaZ0cxV0JrdFJpNnA4SWRseHdjNmdhQnZ0UGl6d2JEeGFFYndiQnNzRTJPUlF1RTg0Y0tVV0FRVk5VbnRFY2d4Z9IBX0FVX3lxTE1ETEpyZW1lekNhNWZtSjlzMnUwR0l5dDJ4ZW93cnNuVld2LTROME96VjJxdkgxZ2JZX05yOGVRTVhpSmJ1cGRXSjAxd2hVaVRDT0x0NXlFcWlZTkN1UExz?oc=5",
+          "title": "트럼프 “후티 홍해 봉쇄하면 우리가 처리”…이란 ‘곡괭이산’ 곧 타격 예고 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sT01VUk4yenVDWC1yU3BGRnhwcUNJS0hCR1JSLXdqM3lCeTd1MmZ1M1oxNVBBNEd0dVNwUU1DMWRlWXhwbkZOLW1mQ2R6aWhpLXR2a25sczRWdDExc3Fpa1BRZHV0U29EWUg1ajNGdzZ1VHc?oc=5",
           "source": "Google News",
-          "published": "Tue, 21 Jul 2026 12:22:00 GMT"
+          "published": "Tue, 21 Jul 2026 21:47:00 GMT"
         }
       ]
     },
     {
-      "word": "장윤기",
+      "word": "곡괭이산",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘장윤기 사건 지휘’ 형사과장 구속영장 기각 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sc09Wc2ppdHVyVWlpWEE3UHVoMGY2YXMyZ0NoNm9zRm82OXN1Z042X3lDRGVGcmw4YUhHQk1ZcjI0dVlkbUw3R3FlT2JwbWVQaGs0WEIzeXotNlpMcHE0bg?oc=5",
+          "title": "트럼프 “후티 홍해 봉쇄하면 우리가 처리”…이란 ‘곡괭이산’ 곧 타격 예고 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sT01VUk4yenVDWC1yU3BGRnhwcUNJS0hCR1JSLXdqM3lCeTd1MmZ1M1oxNVBBNEd0dVNwUU1DMWRlWXhwbkZOLW1mQ2R6aWhpLXR2a25sczRWdDExc3Fpa1BRZHV0U29EWUg1ajNGdzZ1VHc?oc=5",
           "source": "Google News",
-          "published": "Tue, 21 Jul 2026 14:08:00 GMT"
+          "published": "Tue, 21 Jul 2026 21:47:00 GMT"
         }
       ]
     },
     {
-      "word": "사건",
+      "word": "타격",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘장윤기 사건 지휘’ 형사과장 구속영장 기각 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sc09Wc2ppdHVyVWlpWEE3UHVoMGY2YXMyZ0NoNm9zRm82OXN1Z042X3lDRGVGcmw4YUhHQk1ZcjI0dVlkbUw3R3FlT2JwbWVQaGs0WEIzeXotNlpMcHE0bg?oc=5",
+          "title": "트럼프 “후티 홍해 봉쇄하면 우리가 처리”…이란 ‘곡괭이산’ 곧 타격 예고 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sT01VUk4yenVDWC1yU3BGRnhwcUNJS0hCR1JSLXdqM3lCeTd1MmZ1M1oxNVBBNEd0dVNwUU1DMWRlWXhwbkZOLW1mQ2R6aWhpLXR2a25sczRWdDExc3Fpa1BRZHV0U29EWUg1ajNGdzZ1VHc?oc=5",
           "source": "Google News",
-          "published": "Tue, 21 Jul 2026 14:08:00 GMT"
+          "published": "Tue, 21 Jul 2026 21:47:00 GMT"
         }
       ]
     },
     {
-      "word": "지휘",
+      "word": "초유",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘장윤기 사건 지휘’ 형사과장 구속영장 기각 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sc09Wc2ppdHVyVWlpWEE3UHVoMGY2YXMyZ0NoNm9zRm82OXN1Z042X3lDRGVGcmw4YUhHQk1ZcjI0dVlkbUw3R3FlT2JwbWVQaGs0WEIzeXotNlpMcHE0bg?oc=5",
+          "title": "초유의 검경 동시 압수수색…형사과장 구속영장 기각 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fT2w5RTNZdUs4dXZqOXBsOS0zc185SjN6UXowcVRxTDk5NlNvN2tOVkZXWnBTR2JZVWh2YzdqOWtqelRSX0FPMFFKNEVUbTgwdU5JY0U0a3I4cTA?oc=5",
           "source": "Google News",
-          "published": "Tue, 21 Jul 2026 14:08:00 GMT"
+          "published": "Tue, 21 Jul 2026 21:01:00 GMT"
         }
       ]
     },
     {
-      "word": "형사과장",
+      "word": "검경",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘장윤기 사건 지휘’ 형사과장 구속영장 기각 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sc09Wc2ppdHVyVWlpWEE3UHVoMGY2YXMyZ0NoNm9zRm82OXN1Z042X3lDRGVGcmw4YUhHQk1ZcjI0dVlkbUw3R3FlT2JwbWVQaGs0WEIzeXotNlpMcHE0bg?oc=5",
+          "title": "초유의 검경 동시 압수수색…형사과장 구속영장 기각 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fT2w5RTNZdUs4dXZqOXBsOS0zc185SjN6UXowcVRxTDk5NlNvN2tOVkZXWnBTR2JZVWh2YzdqOWtqelRSX0FPMFFKNEVUbTgwdU5JY0U0a3I4cTA?oc=5",
           "source": "Google News",
-          "published": "Tue, 21 Jul 2026 14:08:00 GMT"
+          "published": "Tue, 21 Jul 2026 21:01:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "동시",
+      "count": 1,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "초유의 검경 동시 압수수색…형사과장 구속영장 기각 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fT2w5RTNZdUs4dXZqOXBsOS0zc185SjN6UXowcVRxTDk5NlNvN2tOVkZXWnBTR2JZVWh2YzdqOWtqelRSX0FPMFFKNEVUbTgwdU5JY0U0a3I4cTA?oc=5",
+          "source": "Google News",
+          "published": "Tue, 21 Jul 2026 21:01:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "압수수색형사과장",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "초유의 검경 동시 압수수색…형사과장 구속영장 기각 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fT2w5RTNZdUs4dXZqOXBsOS0zc185SjN6UXowcVRxTDk5NlNvN2tOVkZXWnBTR2JZVWh2YzdqOWtqelRSX0FPMFFKNEVUbTgwdU5JY0U0a3I4cTA?oc=5",
+          "source": "Google News",
+          "published": "Tue, 21 Jul 2026 21:01:00 GMT"
         }
       ]
     },
@@ -459,6 +478,84 @@
       ]
     },
     {
+      "word": "일반인이면",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "일반인이면 가능했겠나…이 대통령 분당 아파트 매매 ‘뒷말’ - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmblFTQlZIUUNEeWswMjlYeUtaZ0cxV0JrdFJpNnA4SWRseHdjNmdhQnZ0UGl6d2JEeGFFYndiQnNzRTJPUlF1RTg0Y0tVV0FRVk5VbnRFY2d4Z9IBX0FVX3lxTE1ETEpyZW1lekNhNWZtSjlzMnUwR0l5dDJ4ZW93cnNuVld2LTROME96VjJxdkgxZ2JZX05yOGVRTVhpSmJ1cGRXSjAxd2hVaVRDT0x0NXlFcWlZTkN1UExz?oc=5",
+          "source": "Google News",
+          "published": "Tue, 21 Jul 2026 12:22:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "가능했겠",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "일반인이면 가능했겠나…이 대통령 분당 아파트 매매 ‘뒷말’ - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmblFTQlZIUUNEeWswMjlYeUtaZ0cxV0JrdFJpNnA4SWRseHdjNmdhQnZ0UGl6d2JEeGFFYndiQnNzRTJPUlF1RTg0Y0tVV0FRVk5VbnRFY2d4Z9IBX0FVX3lxTE1ETEpyZW1lekNhNWZtSjlzMnUwR0l5dDJ4ZW93cnNuVld2LTROME96VjJxdkgxZ2JZX05yOGVRTVhpSmJ1cGRXSjAxd2hVaVRDT0x0NXlFcWlZTkN1UExz?oc=5",
+          "source": "Google News",
+          "published": "Tue, 21 Jul 2026 12:22:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "분당",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "일반인이면 가능했겠나…이 대통령 분당 아파트 매매 ‘뒷말’ - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmblFTQlZIUUNEeWswMjlYeUtaZ0cxV0JrdFJpNnA4SWRseHdjNmdhQnZ0UGl6d2JEeGFFYndiQnNzRTJPUlF1RTg0Y0tVV0FRVk5VbnRFY2d4Z9IBX0FVX3lxTE1ETEpyZW1lekNhNWZtSjlzMnUwR0l5dDJ4ZW93cnNuVld2LTROME96VjJxdkgxZ2JZX05yOGVRTVhpSmJ1cGRXSjAxd2hVaVRDT0x0NXlFcWlZTkN1UExz?oc=5",
+          "source": "Google News",
+          "published": "Tue, 21 Jul 2026 12:22:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "아파트",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "일반인이면 가능했겠나…이 대통령 분당 아파트 매매 ‘뒷말’ - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmblFTQlZIUUNEeWswMjlYeUtaZ0cxV0JrdFJpNnA4SWRseHdjNmdhQnZ0UGl6d2JEeGFFYndiQnNzRTJPUlF1RTg0Y0tVV0FRVk5VbnRFY2d4Z9IBX0FVX3lxTE1ETEpyZW1lekNhNWZtSjlzMnUwR0l5dDJ4ZW93cnNuVld2LTROME96VjJxdkgxZ2JZX05yOGVRTVhpSmJ1cGRXSjAxd2hVaVRDT0x0NXlFcWlZTkN1UExz?oc=5",
+          "source": "Google News",
+          "published": "Tue, 21 Jul 2026 12:22:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "매매",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "일반인이면 가능했겠나…이 대통령 분당 아파트 매매 ‘뒷말’ - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmblFTQlZIUUNEeWswMjlYeUtaZ0cxV0JrdFJpNnA4SWRseHdjNmdhQnZ0UGl6d2JEeGFFYndiQnNzRTJPUlF1RTg0Y0tVV0FRVk5VbnRFY2d4Z9IBX0FVX3lxTE1ETEpyZW1lekNhNWZtSjlzMnUwR0l5dDJ4ZW93cnNuVld2LTROME96VjJxdkgxZ2JZX05yOGVRTVhpSmJ1cGRXSjAxd2hVaVRDT0x0NXlFcWlZTkN1UExz?oc=5",
+          "source": "Google News",
+          "published": "Tue, 21 Jul 2026 12:22:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "뒷말",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "일반인이면 가능했겠나…이 대통령 분당 아파트 매매 ‘뒷말’ - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmblFTQlZIUUNEeWswMjlYeUtaZ0cxV0JrdFJpNnA4SWRseHdjNmdhQnZ0UGl6d2JEeGFFYndiQnNzRTJPUlF1RTg0Y0tVV0FRVk5VbnRFY2d4Z9IBX0FVX3lxTE1ETEpyZW1lekNhNWZtSjlzMnUwR0l5dDJ4ZW93cnNuVld2LTROME96VjJxdkgxZ2JZX05yOGVRTVhpSmJ1cGRXSjAxd2hVaVRDT0x0NXlFcWlZTkN1UExz?oc=5",
+          "source": "Google News",
+          "published": "Tue, 21 Jul 2026 12:22:00 GMT"
+        }
+      ]
+    },
+    {
       "word": "올림픽공원",
       "count": 1,
       "category": "ORGANIZATION",
@@ -507,97 +604,6 @@
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NN1A2eHRsV3pCYUx0WHZzT2ptZWQ2eldSLXR2QVFLZGVkeW5ldngtSFBSeEYwMVR5SjhLOW9mZVhVUDVhTTBWYWpRTWNHamIwMmRtRmd0UE16eDN0TjJscnhkVXhieURWWTB2NF9lRDU1UjhqVEQ00gF3QVVfeXFMTU5SUkNWeWxVQkRJSVhfb0MwNU1tUGtlckwxS0tvQ2J6OGZMYnMyUkZaQTNpNWY5VlJ5M3Y1dmphWlhwNlh3UDYxMzNSclZCXzFBNU1wWG9sa29jdXNBR0ZlS0hPeFJnNFR0ak4ySHJqb00tOTNkbnc?oc=5",
           "source": "Google News",
           "published": "Tue, 21 Jul 2026 15:33:23 GMT"
-        }
-      ]
-    },
-    {
-      "word": "성조기",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "올림픽공원 체육단체 출입 막은 '성조기 여성' 구속영장 기각 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NN1A2eHRsV3pCYUx0WHZzT2ptZWQ2eldSLXR2QVFLZGVkeW5ldngtSFBSeEYwMVR5SjhLOW9mZVhVUDVhTTBWYWpRTWNHamIwMmRtRmd0UE16eDN0TjJscnhkVXhieURWWTB2NF9lRDU1UjhqVEQ00gF3QVVfeXFMTU5SUkNWeWxVQkRJSVhfb0MwNU1tUGtlckwxS0tvQ2J6OGZMYnMyUkZaQTNpNWY5VlJ5M3Y1dmphWlhwNlh3UDYxMzNSclZCXzFBNU1wWG9sa29jdXNBR0ZlS0hPeFJnNFR0ak4ySHJqb00tOTNkbnc?oc=5",
-          "source": "Google News",
-          "published": "Tue, 21 Jul 2026 15:33:23 GMT"
-        }
-      ]
-    },
-    {
-      "word": "여성",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "올림픽공원 체육단체 출입 막은 '성조기 여성' 구속영장 기각 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NN1A2eHRsV3pCYUx0WHZzT2ptZWQ2eldSLXR2QVFLZGVkeW5ldngtSFBSeEYwMVR5SjhLOW9mZVhVUDVhTTBWYWpRTWNHamIwMmRtRmd0UE16eDN0TjJscnhkVXhieURWWTB2NF9lRDU1UjhqVEQ00gF3QVVfeXFMTU5SUkNWeWxVQkRJSVhfb0MwNU1tUGtlckwxS0tvQ2J6OGZMYnMyUkZaQTNpNWY5VlJ5M3Y1dmphWlhwNlh3UDYxMzNSclZCXzFBNU1wWG9sa29jdXNBR0ZlS0hPeFJnNFR0ak4ySHJqb00tOTNkbnc?oc=5",
-          "source": "Google News",
-          "published": "Tue, 21 Jul 2026 15:33:23 GMT"
-        }
-      ]
-    },
-    {
-      "word": "때리",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "캐나다에 50% 때리고 또···“트럼프, 이번주 최대 60개국에 새 관세 예고” 한국도 포함되나 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ReldrOXdvLUVmaUNKRkZ1TjZqOXhOd0xFbEpwWVVMa2ZUZS1KQTZYdVRkNHF3QWpxel9qZGZDSmNiTHVGR1Q3Q2U5TEU3bEpJakZXREN5SWpad9IBX0FVX3lxTE9LQ2tLOEY2VzRGSkFZNFQ3dzdPSzZxMUJOWG94TmlyRXI3ZWw5S0tyeEMwYk4zbVFsWjVjbXFWYVRLalp2THNWTkJTdHB4eUkyNldYWF9Sb05fWDF3cm4w?oc=5",
-          "source": "Google News",
-          "published": "Tue, 21 Jul 2026 11:49:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "또트럼프",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "캐나다에 50% 때리고 또···“트럼프, 이번주 최대 60개국에 새 관세 예고” 한국도 포함되나 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ReldrOXdvLUVmaUNKRkZ1TjZqOXhOd0xFbEpwWVVMa2ZUZS1KQTZYdVRkNHF3QWpxel9qZGZDSmNiTHVGR1Q3Q2U5TEU3bEpJakZXREN5SWpad9IBX0FVX3lxTE9LQ2tLOEY2VzRGSkFZNFQ3dzdPSzZxMUJOWG94TmlyRXI3ZWw5S0tyeEMwYk4zbVFsWjVjbXFWYVRLalp2THNWTkJTdHB4eUkyNldYWF9Sb05fWDF3cm4w?oc=5",
-          "source": "Google News",
-          "published": "Tue, 21 Jul 2026 11:49:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "이번주",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "캐나다에 50% 때리고 또···“트럼프, 이번주 최대 60개국에 새 관세 예고” 한국도 포함되나 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ReldrOXdvLUVmaUNKRkZ1TjZqOXhOd0xFbEpwWVVMa2ZUZS1KQTZYdVRkNHF3QWpxel9qZGZDSmNiTHVGR1Q3Q2U5TEU3bEpJakZXREN5SWpad9IBX0FVX3lxTE9LQ2tLOEY2VzRGSkFZNFQ3dzdPSzZxMUJOWG94TmlyRXI3ZWw5S0tyeEMwYk4zbVFsWjVjbXFWYVRLalp2THNWTkJTdHB4eUkyNldYWF9Sb05fWDF3cm4w?oc=5",
-          "source": "Google News",
-          "published": "Tue, 21 Jul 2026 11:49:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "60개국",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "캐나다에 50% 때리고 또···“트럼프, 이번주 최대 60개국에 새 관세 예고” 한국도 포함되나 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ReldrOXdvLUVmaUNKRkZ1TjZqOXhOd0xFbEpwWVVMa2ZUZS1KQTZYdVRkNHF3QWpxel9qZGZDSmNiTHVGR1Q3Q2U5TEU3bEpJakZXREN5SWpad9IBX0FVX3lxTE9LQ2tLOEY2VzRGSkFZNFQ3dzdPSzZxMUJOWG94TmlyRXI3ZWw5S0tyeEMwYk4zbVFsWjVjbXFWYVRLalp2THNWTkJTdHB4eUkyNldYWF9Sb05fWDF3cm4w?oc=5",
-          "source": "Google News",
-          "published": "Tue, 21 Jul 2026 11:49:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "관세",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "캐나다에 50% 때리고 또···“트럼프, 이번주 최대 60개국에 새 관세 예고” 한국도 포함되나 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ReldrOXdvLUVmaUNKRkZ1TjZqOXhOd0xFbEpwWVVMa2ZUZS1KQTZYdVRkNHF3QWpxel9qZGZDSmNiTHVGR1Q3Q2U5TEU3bEpJakZXREN5SWpad9IBX0FVX3lxTE9LQ2tLOEY2VzRGSkFZNFQ3dzdPSzZxMUJOWG94TmlyRXI3ZWw5S0tyeEMwYk4zbVFsWjVjbXFWYVRLalp2THNWTkJTdHB4eUkyNldYWF9Sb05fWDF3cm4w?oc=5",
-          "source": "Google News",
-          "published": "Tue, 21 Jul 2026 11:49:00 GMT"
         }
       ]
     }
