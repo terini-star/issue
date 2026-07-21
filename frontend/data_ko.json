@@ -1,11 +1,11 @@
 {
   "language": "ko",
-  "last_updated": 1784655393.5581293,
+  "last_updated": 1784662903.6948726,
   "count": 40,
   "trends": [
     {
       "word": "대통령",
-      "count": 2,
+      "count": 3,
       "category": "PERSON",
       "articles": [
         {
@@ -19,6 +19,37 @@
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lLWpuZGNRSjktQXFXYXhmWWNlQ0NfcVpwZ1VJc04tSXpVbG5vMFlwWEVYbUNQSlJIanBCTmNwUk92UUtVa1E4aV9aTXhPWkxMWFM4dTRjLXctTzd1azFkV3A2REVkODBxZHNJ?oc=5",
           "source": "Google News",
           "published": "Tue, 21 Jul 2026 16:27:00 GMT"
+        },
+        {
+          "title": "李대통령, 레버리지ETF 추가 보완책 주문 - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42SmJYdDF1aGFCT0ZGWU9OekFYNzM2dlZXSEREcm53TDlEUU9OZUxoLUd2Y01lT1JKMFBjLVNtRWt3NWpna3U3UnJ3Y3N4VWVETkVUYmZBUDh5clZ4bXNncFh3UkhMcGJT0gFuQVVfeXFMUHBUSENhRVcxRUprYzRDOXE2VEVTZ2hzTEhiLVk5ejNfOFhySEw5Y0xBbkhTdHYwSWk2VngyNFB1UVZxd2NoR0w5QkdQbWRiWmRuNTMzNENobXQ3VWFTRXg1Tm9NNjAwWWwwdjJYd1E?oc=5",
+          "source": "Google News",
+          "published": "Tue, 21 Jul 2026 19:01:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "트럼프",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프 \"후티 홍해 봉쇄시 美가 처리…이란 곡괭이산 곧 타격\"(종합) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBseVFQQU44VkFtZmV4Zm5CSUVfV281M2Z5OUQ3Z0otWlUxMUtfZUgwTjFKYko4dGxFVWVrSWpXRTM2MFZBNmVuS2dwai02RGdLeVI3ajdoM0tlWlnSAWBBVV95cUxOYjRwLXU3UjFsYm9WVGpUMmQtRnd6M1JfOGlnSnJDanJFeVM4ZTE0UC1rR1JEaFppRE4zOE5DNjV1N1NXVWVnSnF1bkduSm12bjVzazRPc3gxZm1rQ0VNM2w?oc=5",
+          "source": "Google News",
+          "published": "Tue, 21 Jul 2026 19:15:50 GMT"
+        },
+        {
+          "title": "트럼프, 캐나다에 50% '관세폭탄'‥30일 후 발효 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EczdmbVZQNXR5UTJYd3hUWHhjNUVLMlYyNUctb19aQjFKZjNNZ2JMS1g5LVFvbDQ4cWxwS2IwcjItbTVEUVJwRFM1MEtISjR6OTdjVUREQzZVU0c2WnJ5RHlEb0R5dF9vRFpQX2E4ZkNXdHhH0gF0QVVfeXFMT2V4WmZiaHRiUUF0Y2VROFR3UE9ISVI3aG9sc0FhaU9HNk5haXJmU2JLMkFlQ1phcGU4c25DSGZ6VzRyRTFHTmxtdFljaXU0TTgxREg2Q0kxVUhrbmRsd0N4Q2V6SUlYSWctQzU0VXAwdENDSlQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 21 Jul 2026 05:35:21 GMT"
+        },
+        {
+          "title": "FIFA·스페인축구협회, ’트럼프 빠진 시상식 사진’ 게재 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44d0QtSGhlMnFkenhwMDYtVUpmdzRUbEJpMUxBTDdaSjJBQmhvbDNxcGFBNGNlYnB4LWpJMnlNNUpHa3RCbDNyMGVVeFNNeDh5NUNPaXdnRVBvWXRtdDNKU1l1TGFUMlk?oc=5",
+          "source": "Google News",
+          "published": "Tue, 21 Jul 2026 05:00:00 GMT"
         }
       ]
     },
@@ -42,9 +73,9 @@
       ]
     },
     {
-      "word": "한국",
+      "word": "포함",
       "count": 2,
-      "category": "LOCATION",
+      "category": "NOUN",
       "articles": [
         {
           "title": "캐나다에 50% 때리고 또···“트럼프, 이번주 최대 60개국에 새 관세 예고” 한국도 포함되나 - 경향신문",
@@ -53,48 +84,29 @@
           "published": "Tue, 21 Jul 2026 11:49:00 GMT"
         },
         {
-          "title": "JP모건 \"한국 증시 급락은 각종 레버리지 ETF 탓...적정 수준까지 75% 청산 완료\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS3JwUGxMdEdpd3lUSGZENHhZN1FmTl9URDYzS0drOWdHMUFyZU40dVlfSnFUS2licXJqV2JPTmNJOWZuWjV0R1IzdF9OM05CdFhzbXplUVk4QUp5aDNuQUtKUzg0UTVsU1hqRnVHbmFoUzhVb09wdk1ZamEtV0U2WA?oc=5",
+          "title": "뉴진스, 데뷔 4주년에 민지 포함 4인 영상 공개…활동 재개하나 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiV3hucUEzeW5ueXc3NmdRelRVWHVYbG5jaEthNkVSRHdJTFNQTTI2TjlveUhpY1Z1a0JYYmh3S3djekZ0V2dmM3NkWm14eGZubFpPMW42OE9iU0ZJWnMxTTAtcGEzLXc?oc=5",
           "source": "Google News",
-          "published": "Tue, 21 Jul 2026 08:11:00 GMT"
+          "published": "Tue, 21 Jul 2026 15:27:00 GMT"
         }
       ]
     },
     {
-      "word": "아마존",
+      "word": "후티",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "미국, 열흘째 이란 군사시설 타격...이란, 바레인 내 아마존 기반시설 공격 - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQjAtZjNVVHdqNC0xaWY0T2tGZV95MW84RG93enpUQThNRkN5OVFYajFDRG9DN0FRWDBtM1l6TkVMbDYzWmd6bXRmeFozdzZjX1EyRUtpT0d0MVpxbnF5NHc4OFgwODI3TjBuZjJtcXlOOTBWTVhVX2Jvejl5X3VkZzg0MWVZYjDSAYoBQVVfeXFMT1NOVFk0WFdpa0Y2SWhLUkhOd1RKTlVkYjEzT256SFNzVmtZZlV4YmFhdk15YTB0R3J4M2N2NXZfUW9YWkRWcHlMdFVsZ0JkNjAya3hFTEl1RGFBemd5ZTZsVFRqanUxc1g0Z2V3ZlJ1TkNSMWNnTGVCNmxkYW9Rc3l0Wk5nU3RDbzJR?oc=5",
+          "title": "후티 반군 \"사우디 모든 항구서 선박 화물 선적·하역 금지\" 경고 - 노컷뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rZnV1LU9wTmFvV2xlR0JsdXNoNDFWMkd2TWFFcHpMV1B1dlIzUTJuNmdYeW5KRHVOTlZwZmlQTmk4Yzd5NFZlOUwzdE05cWtTRVE?oc=5",
           "source": "Google News",
-          "published": "Tue, 21 Jul 2026 13:43:50 GMT"
+          "published": "Tue, 21 Jul 2026 14:07:00 GMT"
         },
         {
-          "title": "우크라 드론이 때린 ‘러시아판 아마존’... 고려인 출신 억만장자가 세운 곳 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPREYzYlpOZzJkeE56QW9fSzV3Y2tQV2xuMkNKUkdWSnNGMlF1YVQ4WHY5cUN2aFFqUG5RUlloWkd1UmRvelNUdlFfSHlaZlF6UjRIQndxYmFMendfZ1A2Q0YxdGdaSFBnSExFWGstVlRMR3VvSHZyQVNJMmppT3VJekQtRF9rMGtIQUpWdnZ0NmhGdzFtOEUwSXBLbU5sUQ?oc=5",
+          "title": "트럼프 \"후티 홍해 봉쇄시 美가 처리…이란 곡괭이산 곧 타격\"(종합) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBseVFQQU44VkFtZmV4Zm5CSUVfV281M2Z5OUQ3Z0otWlUxMUtfZUgwTjFKYko4dGxFVWVrSWpXRTM2MFZBNmVuS2dwai02RGdLeVI3ajdoM0tlWlnSAWBBVV95cUxOYjRwLXU3UjFsYm9WVGpUMmQtRnd6M1JfOGlnSnJDanJFeVM4ZTE0UC1rR1JEaFppRE4zOE5DNjV1N1NXVWVnSnF1bkduSm12bjVzazRPc3gxZm1rQ0VNM2w?oc=5",
           "source": "Google News",
-          "published": "Tue, 21 Jul 2026 06:09:03 GMT"
-        }
-      ]
-    },
-    {
-      "word": "트럼프",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프, 캐나다에 50% '관세폭탄'‥30일 후 발효 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EczdmbVZQNXR5UTJYd3hUWHhjNUVLMlYyNUctb19aQjFKZjNNZ2JMS1g5LVFvbDQ4cWxwS2IwcjItbTVEUVJwRFM1MEtISjR6OTdjVUREQzZVU0c2WnJ5RHlEb0R5dF9vRFpQX2E4ZkNXdHhH0gF0QVVfeXFMT2V4WmZiaHRiUUF0Y2VROFR3UE9ISVI3aG9sc0FhaU9HNk5haXJmU2JLMkFlQ1phcGU4c25DSGZ6VzRyRTFHTmxtdFljaXU0TTgxREg2Q0kxVUhrbmRsd0N4Q2V6SUlYSWctQzU0VXAwdENDSlQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 21 Jul 2026 05:35:21 GMT"
-        },
-        {
-          "title": "FIFA·스페인축구협회, ’트럼프 빠진 시상식 사진’ 게재 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44d0QtSGhlMnFkenhwMDYtVUpmdzRUbEJpMUxBTDdaSjJBQmhvbDNxcGFBNGNlYnB4LWpJMnlNNUpHa3RCbDNyMGVVeFNNeDh5NUNPaXdnRVBvWXRtdDNKU1l1TGFUMlk?oc=5",
-          "source": "Google News",
-          "published": "Tue, 21 Jul 2026 05:00:00 GMT"
+          "published": "Tue, 21 Jul 2026 19:15:50 GMT"
         }
       ]
     },
@@ -108,6 +120,25 @@
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQnZqbHRleEZBS1ltaGZUY0RsT1hjbTk4LWpVZGx2cllPV0x0Q2lxNDY5TVRuMzk3UlYzaGFMakZTdXZXbjVQclc2aTJvdmFibG41cGtUM2NkbXVYNjh4aTRqMVI0NnpaTXNVZU5JYWswamY3OHpTUUUxZ3BRY3R4bkRzOA?oc=5",
           "source": "Google News",
           "published": "Tue, 21 Jul 2026 05:15:09 GMT"
+        }
+      ]
+    },
+    {
+      "word": "월드컵",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "방탄소년단이 월드컵 하프타임 쇼에서 입은 옷, 전부 찾아봤습니다 - Vogue korea",
+          "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQWXhiWDVpd3Ftcm8tLVhXQ05tMzZfb3B1aG9zcUZ5QXJ6bFNMMFRDNlp4QjNsM2t4LW5XSWtsSU9YRmxVU2FjT094bkdrYTNXQURxV2l2enBMeHJqVWZnMmxOZ2xBX1A5S1Q4cUZPeTNhcTRZTXB1clBHS3E5ZTVIZHdPLWdEaFlGVTJ5MU9kSnpXQUFnS2JiN19icUhMa1BRU0VnUjIza1pING1VWk5OVmx3Mmt5dHRpWjlDcHBRMVFQbXVXZG9fa2tud1FSTm9mUXlMaVFldDhxZnJGbHpManBfLXBBWldBbVVRTFl6MXI5NDlzXzdzSC1ZRVNsQ2xIc2l1cWZHZm1weHNaejc1ZDR0S3VZeHZIYjNJOU1EZlVjR1Q5cXpvaWtycnpNVk95SG5TUjU3X2ExcGMxX0hMY2paOE9QNFVJR0F0X1ZHcWw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 21 Jul 2026 09:20:11 GMT"
+        },
+        {
+          "title": "월드컵 결승서 스페인전 패배 후 난투극 벌인 아르헨…FIFA 조사 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yb2VoSlpZbm5ZOUZfQ3RnWDJPdXI1ZVBmTkctU0Q4SGdBXzdja3lCNjloN0xyVzBmOEhlOF9GUXhIaHBfMExpamxWMlFfanZqalQzOTEybVF5dzjSAWBBVV95cUxQVnJjOGRVV0dTTmZpeFJiWlh2TWVhVUZ5dTVvX0pWU3B0U2JQNjhtaDl0eTNPcnNTTk5rRV9Ua3dWXzNza1VVWXpBRlhuc3BJVER4a2xjb3F1dkZlcTZhbWg?oc=5",
+          "source": "Google News",
+          "published": "Tue, 21 Jul 2026 00:42:14 GMT"
         }
       ]
     },
@@ -186,6 +217,175 @@
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmblFTQlZIUUNEeWswMjlYeUtaZ0cxV0JrdFJpNnA4SWRseHdjNmdhQnZ0UGl6d2JEeGFFYndiQnNzRTJPUlF1RTg0Y0tVV0FRVk5VbnRFY2d4Z9IBX0FVX3lxTE1ETEpyZW1lekNhNWZtSjlzMnUwR0l5dDJ4ZW93cnNuVld2LTROME96VjJxdkgxZ2JZX05yOGVRTVhpSmJ1cGRXSjAxd2hVaVRDT0x0NXlFcWlZTkN1UExz?oc=5",
           "source": "Google News",
           "published": "Tue, 21 Jul 2026 12:22:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "부동산",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령 “부동산 불로소득, 국민 통합 저해 주범” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lLWpuZGNRSjktQXFXYXhmWWNlQ0NfcVpwZ1VJc04tSXpVbG5vMFlwWEVYbUNQSlJIanBCTmNwUk92UUtVa1E4aV9aTXhPWkxMWFM4dTRjLXctTzd1azFkV3A2REVkODBxZHNJ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 21 Jul 2026 16:27:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "불로소득",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령 “부동산 불로소득, 국민 통합 저해 주범” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lLWpuZGNRSjktQXFXYXhmWWNlQ0NfcVpwZ1VJc04tSXpVbG5vMFlwWEVYbUNQSlJIanBCTmNwUk92UUtVa1E4aV9aTXhPWkxMWFM4dTRjLXctTzd1azFkV3A2REVkODBxZHNJ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 21 Jul 2026 16:27:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "국민",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령 “부동산 불로소득, 국민 통합 저해 주범” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lLWpuZGNRSjktQXFXYXhmWWNlQ0NfcVpwZ1VJc04tSXpVbG5vMFlwWEVYbUNQSlJIanBCTmNwUk92UUtVa1E4aV9aTXhPWkxMWFM4dTRjLXctTzd1azFkV3A2REVkODBxZHNJ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 21 Jul 2026 16:27:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "통합",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령 “부동산 불로소득, 국민 통합 저해 주범” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lLWpuZGNRSjktQXFXYXhmWWNlQ0NfcVpwZ1VJc04tSXpVbG5vMFlwWEVYbUNQSlJIanBCTmNwUk92UUtVa1E4aV9aTXhPWkxMWFM4dTRjLXctTzd1azFkV3A2REVkODBxZHNJ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 21 Jul 2026 16:27:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "저해",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령 “부동산 불로소득, 국민 통합 저해 주범” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lLWpuZGNRSjktQXFXYXhmWWNlQ0NfcVpwZ1VJc04tSXpVbG5vMFlwWEVYbUNQSlJIanBCTmNwUk92UUtVa1E4aV9aTXhPWkxMWFM4dTRjLXctTzd1azFkV3A2REVkODBxZHNJ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 21 Jul 2026 16:27:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "주범",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령 “부동산 불로소득, 국민 통합 저해 주범” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lLWpuZGNRSjktQXFXYXhmWWNlQ0NfcVpwZ1VJc04tSXpVbG5vMFlwWEVYbUNQSlJIanBCTmNwUk92UUtVa1E4aV9aTXhPWkxMWFM4dTRjLXctTzd1azFkV3A2REVkODBxZHNJ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 21 Jul 2026 16:27:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "때리",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "캐나다에 50% 때리고 또···“트럼프, 이번주 최대 60개국에 새 관세 예고” 한국도 포함되나 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ReldrOXdvLUVmaUNKRkZ1TjZqOXhOd0xFbEpwWVVMa2ZUZS1KQTZYdVRkNHF3QWpxel9qZGZDSmNiTHVGR1Q3Q2U5TEU3bEpJakZXREN5SWpad9IBX0FVX3lxTE9LQ2tLOEY2VzRGSkFZNFQ3dzdPSzZxMUJOWG94TmlyRXI3ZWw5S0tyeEMwYk4zbVFsWjVjbXFWYVRLalp2THNWTkJTdHB4eUkyNldYWF9Sb05fWDF3cm4w?oc=5",
+          "source": "Google News",
+          "published": "Tue, 21 Jul 2026 11:49:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "또트럼프",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "캐나다에 50% 때리고 또···“트럼프, 이번주 최대 60개국에 새 관세 예고” 한국도 포함되나 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ReldrOXdvLUVmaUNKRkZ1TjZqOXhOd0xFbEpwWVVMa2ZUZS1KQTZYdVRkNHF3QWpxel9qZGZDSmNiTHVGR1Q3Q2U5TEU3bEpJakZXREN5SWpad9IBX0FVX3lxTE9LQ2tLOEY2VzRGSkFZNFQ3dzdPSzZxMUJOWG94TmlyRXI3ZWw5S0tyeEMwYk4zbVFsWjVjbXFWYVRLalp2THNWTkJTdHB4eUkyNldYWF9Sb05fWDF3cm4w?oc=5",
+          "source": "Google News",
+          "published": "Tue, 21 Jul 2026 11:49:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "이번주",
+      "count": 1,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "캐나다에 50% 때리고 또···“트럼프, 이번주 최대 60개국에 새 관세 예고” 한국도 포함되나 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ReldrOXdvLUVmaUNKRkZ1TjZqOXhOd0xFbEpwWVVMa2ZUZS1KQTZYdVRkNHF3QWpxel9qZGZDSmNiTHVGR1Q3Q2U5TEU3bEpJakZXREN5SWpad9IBX0FVX3lxTE9LQ2tLOEY2VzRGSkFZNFQ3dzdPSzZxMUJOWG94TmlyRXI3ZWw5S0tyeEMwYk4zbVFsWjVjbXFWYVRLalp2THNWTkJTdHB4eUkyNldYWF9Sb05fWDF3cm4w?oc=5",
+          "source": "Google News",
+          "published": "Tue, 21 Jul 2026 11:49:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "60개국",
+      "count": 1,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "캐나다에 50% 때리고 또···“트럼프, 이번주 최대 60개국에 새 관세 예고” 한국도 포함되나 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ReldrOXdvLUVmaUNKRkZ1TjZqOXhOd0xFbEpwWVVMa2ZUZS1KQTZYdVRkNHF3QWpxel9qZGZDSmNiTHVGR1Q3Q2U5TEU3bEpJakZXREN5SWpad9IBX0FVX3lxTE9LQ2tLOEY2VzRGSkFZNFQ3dzdPSzZxMUJOWG94TmlyRXI3ZWw5S0tyeEMwYk4zbVFsWjVjbXFWYVRLalp2THNWTkJTdHB4eUkyNldYWF9Sb05fWDF3cm4w?oc=5",
+          "source": "Google News",
+          "published": "Tue, 21 Jul 2026 11:49:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "관세",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "캐나다에 50% 때리고 또···“트럼프, 이번주 최대 60개국에 새 관세 예고” 한국도 포함되나 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ReldrOXdvLUVmaUNKRkZ1TjZqOXhOd0xFbEpwWVVMa2ZUZS1KQTZYdVRkNHF3QWpxel9qZGZDSmNiTHVGR1Q3Q2U5TEU3bEpJakZXREN5SWpad9IBX0FVX3lxTE9LQ2tLOEY2VzRGSkFZNFQ3dzdPSzZxMUJOWG94TmlyRXI3ZWw5S0tyeEMwYk4zbVFsWjVjbXFWYVRLalp2THNWTkJTdHB4eUkyNldYWF9Sb05fWDF3cm4w?oc=5",
+          "source": "Google News",
+          "published": "Tue, 21 Jul 2026 11:49:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "예고",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "캐나다에 50% 때리고 또···“트럼프, 이번주 최대 60개국에 새 관세 예고” 한국도 포함되나 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ReldrOXdvLUVmaUNKRkZ1TjZqOXhOd0xFbEpwWVVMa2ZUZS1KQTZYdVRkNHF3QWpxel9qZGZDSmNiTHVGR1Q3Q2U5TEU3bEpJakZXREN5SWpad9IBX0FVX3lxTE9LQ2tLOEY2VzRGSkFZNFQ3dzdPSzZxMUJOWG94TmlyRXI3ZWw5S0tyeEMwYk4zbVFsWjVjbXFWYVRLalp2THNWTkJTdHB4eUkyNldYWF9Sb05fWDF3cm4w?oc=5",
+          "source": "Google News",
+          "published": "Tue, 21 Jul 2026 11:49:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "한국",
+      "count": 1,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "캐나다에 50% 때리고 또···“트럼프, 이번주 최대 60개국에 새 관세 예고” 한국도 포함되나 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ReldrOXdvLUVmaUNKRkZ1TjZqOXhOd0xFbEpwWVVMa2ZUZS1KQTZYdVRkNHF3QWpxel9qZGZDSmNiTHVGR1Q3Q2U5TEU3bEpJakZXREN5SWpad9IBX0FVX3lxTE9LQ2tLOEY2VzRGSkFZNFQ3dzdPSzZxMUJOWG94TmlyRXI3ZWw5S0tyeEMwYk4zbVFsWjVjbXFWYVRLalp2THNWTkJTdHB4eUkyNldYWF9Sb05fWDF3cm4w?oc=5",
+          "source": "Google News",
+          "published": "Tue, 21 Jul 2026 11:49:00 GMT"
         }
       ]
     },
@@ -281,267 +481,85 @@
       ]
     },
     {
-      "word": "부동산",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 “부동산 불로소득, 국민 통합 저해 주범” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lLWpuZGNRSjktQXFXYXhmWWNlQ0NfcVpwZ1VJc04tSXpVbG5vMFlwWEVYbUNQSlJIanBCTmNwUk92UUtVa1E4aV9aTXhPWkxMWFM4dTRjLXctTzd1azFkV3A2REVkODBxZHNJ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 21 Jul 2026 16:27:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "불로소득",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 “부동산 불로소득, 국민 통합 저해 주범” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lLWpuZGNRSjktQXFXYXhmWWNlQ0NfcVpwZ1VJc04tSXpVbG5vMFlwWEVYbUNQSlJIanBCTmNwUk92UUtVa1E4aV9aTXhPWkxMWFM4dTRjLXctTzd1azFkV3A2REVkODBxZHNJ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 21 Jul 2026 16:27:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "국민",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 “부동산 불로소득, 국민 통합 저해 주범” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lLWpuZGNRSjktQXFXYXhmWWNlQ0NfcVpwZ1VJc04tSXpVbG5vMFlwWEVYbUNQSlJIanBCTmNwUk92UUtVa1E4aV9aTXhPWkxMWFM4dTRjLXctTzd1azFkV3A2REVkODBxZHNJ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 21 Jul 2026 16:27:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "통합",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 “부동산 불로소득, 국민 통합 저해 주범” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lLWpuZGNRSjktQXFXYXhmWWNlQ0NfcVpwZ1VJc04tSXpVbG5vMFlwWEVYbUNQSlJIanBCTmNwUk92UUtVa1E4aV9aTXhPWkxMWFM4dTRjLXctTzd1azFkV3A2REVkODBxZHNJ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 21 Jul 2026 16:27:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "저해",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 “부동산 불로소득, 국민 통합 저해 주범” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lLWpuZGNRSjktQXFXYXhmWWNlQ0NfcVpwZ1VJc04tSXpVbG5vMFlwWEVYbUNQSlJIanBCTmNwUk92UUtVa1E4aV9aTXhPWkxMWFM4dTRjLXctTzd1azFkV3A2REVkODBxZHNJ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 21 Jul 2026 16:27:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "주범",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 “부동산 불로소득, 국민 통합 저해 주범” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lLWpuZGNRSjktQXFXYXhmWWNlQ0NfcVpwZ1VJc04tSXpVbG5vMFlwWEVYbUNQSlJIanBCTmNwUk92UUtVa1E4aV9aTXhPWkxMWFM4dTRjLXctTzd1azFkV3A2REVkODBxZHNJ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 21 Jul 2026 16:27:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "해상봉쇄",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "'해상봉쇄 선언' 후티 \"사우디 항구 이용하면 표적될 것\" - YTN",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04MXEzZ25ld3MxS2FBZnN4UkxIMzZBWk9PdkxETU84X3J2YW9SZXZxcE5YU1BRazBPXzRuLW5HNjZLdHNjSEpUNm9vTlhwalFKNmpscVRCYjdpa1JObWRlQXVITGRQVVNPZUVVSEdkRF9BU2pVZ0E?oc=5",
-          "source": "Google News",
-          "published": "Tue, 21 Jul 2026 12:58:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "선언",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "'해상봉쇄 선언' 후티 \"사우디 항구 이용하면 표적될 것\" - YTN",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04MXEzZ25ld3MxS2FBZnN4UkxIMzZBWk9PdkxETU84X3J2YW9SZXZxcE5YU1BRazBPXzRuLW5HNjZLdHNjSEpUNm9vTlhwalFKNmpscVRCYjdpa1JObWRlQXVITGRQVVNPZUVVSEdkRF9BU2pVZ0E?oc=5",
-          "source": "Google News",
-          "published": "Tue, 21 Jul 2026 12:58:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "후티",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "'해상봉쇄 선언' 후티 \"사우디 항구 이용하면 표적될 것\" - YTN",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04MXEzZ25ld3MxS2FBZnN4UkxIMzZBWk9PdkxETU84X3J2YW9SZXZxcE5YU1BRazBPXzRuLW5HNjZLdHNjSEpUNm9vTlhwalFKNmpscVRCYjdpa1JObWRlQXVITGRQVVNPZUVVSEdkRF9BU2pVZ0E?oc=5",
-          "source": "Google News",
-          "published": "Tue, 21 Jul 2026 12:58:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "사우디",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "'해상봉쇄 선언' 후티 \"사우디 항구 이용하면 표적될 것\" - YTN",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04MXEzZ25ld3MxS2FBZnN4UkxIMzZBWk9PdkxETU84X3J2YW9SZXZxcE5YU1BRazBPXzRuLW5HNjZLdHNjSEpUNm9vTlhwalFKNmpscVRCYjdpa1JObWRlQXVITGRQVVNPZUVVSEdkRF9BU2pVZ0E?oc=5",
-          "source": "Google News",
-          "published": "Tue, 21 Jul 2026 12:58:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "항구",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "'해상봉쇄 선언' 후티 \"사우디 항구 이용하면 표적될 것\" - YTN",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04MXEzZ25ld3MxS2FBZnN4UkxIMzZBWk9PdkxETU84X3J2YW9SZXZxcE5YU1BRazBPXzRuLW5HNjZLdHNjSEpUNm9vTlhwalFKNmpscVRCYjdpa1JObWRlQXVITGRQVVNPZUVVSEdkRF9BU2pVZ0E?oc=5",
-          "source": "Google News",
-          "published": "Tue, 21 Jul 2026 12:58:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "이용하면",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "'해상봉쇄 선언' 후티 \"사우디 항구 이용하면 표적될 것\" - YTN",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04MXEzZ25ld3MxS2FBZnN4UkxIMzZBWk9PdkxETU84X3J2YW9SZXZxcE5YU1BRazBPXzRuLW5HNjZLdHNjSEpUNm9vTlhwalFKNmpscVRCYjdpa1JObWRlQXVITGRQVVNPZUVVSEdkRF9BU2pVZ0E?oc=5",
-          "source": "Google News",
-          "published": "Tue, 21 Jul 2026 12:58:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "표적",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "'해상봉쇄 선언' 후티 \"사우디 항구 이용하면 표적될 것\" - YTN",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04MXEzZ25ld3MxS2FBZnN4UkxIMzZBWk9PdkxETU84X3J2YW9SZXZxcE5YU1BRazBPXzRuLW5HNjZLdHNjSEpUNm9vTlhwalFKNmpscVRCYjdpa1JObWRlQXVITGRQVVNPZUVVSEdkRF9BU2pVZ0E?oc=5",
-          "source": "Google News",
-          "published": "Tue, 21 Jul 2026 12:58:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "때리",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "캐나다에 50% 때리고 또···“트럼프, 이번주 최대 60개국에 새 관세 예고” 한국도 포함되나 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ReldrOXdvLUVmaUNKRkZ1TjZqOXhOd0xFbEpwWVVMa2ZUZS1KQTZYdVRkNHF3QWpxel9qZGZDSmNiTHVGR1Q3Q2U5TEU3bEpJakZXREN5SWpad9IBX0FVX3lxTE9LQ2tLOEY2VzRGSkFZNFQ3dzdPSzZxMUJOWG94TmlyRXI3ZWw5S0tyeEMwYk4zbVFsWjVjbXFWYVRLalp2THNWTkJTdHB4eUkyNldYWF9Sb05fWDF3cm4w?oc=5",
-          "source": "Google News",
-          "published": "Tue, 21 Jul 2026 11:49:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "또트럼프",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "캐나다에 50% 때리고 또···“트럼프, 이번주 최대 60개국에 새 관세 예고” 한국도 포함되나 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ReldrOXdvLUVmaUNKRkZ1TjZqOXhOd0xFbEpwWVVMa2ZUZS1KQTZYdVRkNHF3QWpxel9qZGZDSmNiTHVGR1Q3Q2U5TEU3bEpJakZXREN5SWpad9IBX0FVX3lxTE9LQ2tLOEY2VzRGSkFZNFQ3dzdPSzZxMUJOWG94TmlyRXI3ZWw5S0tyeEMwYk4zbVFsWjVjbXFWYVRLalp2THNWTkJTdHB4eUkyNldYWF9Sb05fWDF3cm4w?oc=5",
-          "source": "Google News",
-          "published": "Tue, 21 Jul 2026 11:49:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "이번주",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "캐나다에 50% 때리고 또···“트럼프, 이번주 최대 60개국에 새 관세 예고” 한국도 포함되나 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ReldrOXdvLUVmaUNKRkZ1TjZqOXhOd0xFbEpwWVVMa2ZUZS1KQTZYdVRkNHF3QWpxel9qZGZDSmNiTHVGR1Q3Q2U5TEU3bEpJakZXREN5SWpad9IBX0FVX3lxTE9LQ2tLOEY2VzRGSkFZNFQ3dzdPSzZxMUJOWG94TmlyRXI3ZWw5S0tyeEMwYk4zbVFsWjVjbXFWYVRLalp2THNWTkJTdHB4eUkyNldYWF9Sb05fWDF3cm4w?oc=5",
-          "source": "Google News",
-          "published": "Tue, 21 Jul 2026 11:49:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "60개국",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "캐나다에 50% 때리고 또···“트럼프, 이번주 최대 60개국에 새 관세 예고” 한국도 포함되나 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ReldrOXdvLUVmaUNKRkZ1TjZqOXhOd0xFbEpwWVVMa2ZUZS1KQTZYdVRkNHF3QWpxel9qZGZDSmNiTHVGR1Q3Q2U5TEU3bEpJakZXREN5SWpad9IBX0FVX3lxTE9LQ2tLOEY2VzRGSkFZNFQ3dzdPSzZxMUJOWG94TmlyRXI3ZWw5S0tyeEMwYk4zbVFsWjVjbXFWYVRLalp2THNWTkJTdHB4eUkyNldYWF9Sb05fWDF3cm4w?oc=5",
-          "source": "Google News",
-          "published": "Tue, 21 Jul 2026 11:49:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "관세",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "캐나다에 50% 때리고 또···“트럼프, 이번주 최대 60개국에 새 관세 예고” 한국도 포함되나 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ReldrOXdvLUVmaUNKRkZ1TjZqOXhOd0xFbEpwWVVMa2ZUZS1KQTZYdVRkNHF3QWpxel9qZGZDSmNiTHVGR1Q3Q2U5TEU3bEpJakZXREN5SWpad9IBX0FVX3lxTE9LQ2tLOEY2VzRGSkFZNFQ3dzdPSzZxMUJOWG94TmlyRXI3ZWw5S0tyeEMwYk4zbVFsWjVjbXFWYVRLalp2THNWTkJTdHB4eUkyNldYWF9Sb05fWDF3cm4w?oc=5",
-          "source": "Google News",
-          "published": "Tue, 21 Jul 2026 11:49:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "예고",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "캐나다에 50% 때리고 또···“트럼프, 이번주 최대 60개국에 새 관세 예고” 한국도 포함되나 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ReldrOXdvLUVmaUNKRkZ1TjZqOXhOd0xFbEpwWVVMa2ZUZS1KQTZYdVRkNHF3QWpxel9qZGZDSmNiTHVGR1Q3Q2U5TEU3bEpJakZXREN5SWpad9IBX0FVX3lxTE9LQ2tLOEY2VzRGSkFZNFQ3dzdPSzZxMUJOWG94TmlyRXI3ZWw5S0tyeEMwYk4zbVFsWjVjbXFWYVRLalp2THNWTkJTdHB4eUkyNldYWF9Sb05fWDF3cm4w?oc=5",
-          "source": "Google News",
-          "published": "Tue, 21 Jul 2026 11:49:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "포함",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "캐나다에 50% 때리고 또···“트럼프, 이번주 최대 60개국에 새 관세 예고” 한국도 포함되나 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ReldrOXdvLUVmaUNKRkZ1TjZqOXhOd0xFbEpwWVVMa2ZUZS1KQTZYdVRkNHF3QWpxel9qZGZDSmNiTHVGR1Q3Q2U5TEU3bEpJakZXREN5SWpad9IBX0FVX3lxTE9LQ2tLOEY2VzRGSkFZNFQ3dzdPSzZxMUJOWG94TmlyRXI3ZWw5S0tyeEMwYk4zbVFsWjVjbXFWYVRLalp2THNWTkJTdHB4eUkyNldYWF9Sb05fWDF3cm4w?oc=5",
-          "source": "Google News",
-          "published": "Tue, 21 Jul 2026 11:49:00 GMT"
-        }
-      ]
-    },
-    {
       "word": "잠실개표소",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "잠실개표소 출입 막은 ‘올다르크’ 구속영장 기각…“증거인멸·도주 우려 없어” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NQlJZX3NWbzduQ3ZwcWl1bTRXWHZmNDhmTEc1ckV3b2ZrSUJqVTdkTk9mUTdXYmlsRjU3a2dOaWxsRjc5N25NRFFuOVlhamU5STJhbE91aFBNWTQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 21 Jul 2026 15:01:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "출입",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "잠실개표소 출입 막은 ‘올다르크’ 구속영장 기각…“증거인멸·도주 우려 없어” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NQlJZX3NWbzduQ3ZwcWl1bTRXWHZmNDhmTEc1ckV3b2ZrSUJqVTdkTk9mUTdXYmlsRjU3a2dOaWxsRjc5N25NRFFuOVlhamU5STJhbE91aFBNWTQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 21 Jul 2026 15:01:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "막은",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "잠실개표소 출입 막은 ‘올다르크’ 구속영장 기각…“증거인멸·도주 우려 없어” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NQlJZX3NWbzduQ3ZwcWl1bTRXWHZmNDhmTEc1ckV3b2ZrSUJqVTdkTk9mUTdXYmlsRjU3a2dOaWxsRjc5N25NRFFuOVlhamU5STJhbE91aFBNWTQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 21 Jul 2026 15:01:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "올다르크",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "잠실개표소 출입 막은 ‘올다르크’ 구속영장 기각…“증거인멸·도주 우려 없어” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NQlJZX3NWbzduQ3ZwcWl1bTRXWHZmNDhmTEc1ckV3b2ZrSUJqVTdkTk9mUTdXYmlsRjU3a2dOaWxsRjc5N25NRFFuOVlhamU5STJhbE91aFBNWTQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 21 Jul 2026 15:01:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "구속영장",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "잠실개표소 출입 막은 ‘올다르크’ 구속영장 기각…“증거인멸·도주 우려 없어” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NQlJZX3NWbzduQ3ZwcWl1bTRXWHZmNDhmTEc1ckV3b2ZrSUJqVTdkTk9mUTdXYmlsRjU3a2dOaWxsRjc5N25NRFFuOVlhamU5STJhbE91aFBNWTQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 21 Jul 2026 15:01:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "기각증거인멸도주",
+      "count": 1,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "잠실개표소 출입 막은 ‘올다르크’ 구속영장 기각…“증거인멸·도주 우려 없어” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NQlJZX3NWbzduQ3ZwcWl1bTRXWHZmNDhmTEc1ckV3b2ZrSUJqVTdkTk9mUTdXYmlsRjU3a2dOaWxsRjc5N25NRFFuOVlhamU5STJhbE91aFBNWTQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 21 Jul 2026 15:01:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "없어",
       "count": 1,
       "category": "NOUN",
       "articles": [
