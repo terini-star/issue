@@ -1,61 +1,86 @@
 {
   "language": "en",
-  "last_updated": 1784810644.0241158,
+  "last_updated": 1784819782.6626313,
   "count": 40,
   "trends": [
+    {
+      "word": "Trump",
+      "count": 4,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump says the Saudi nuclear deal hinges on the kingdom normalizing ties with Israel - NPR",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82dkFvOGx1UVcwRHJPZ1BjSWNGWktMRWRGUHV3bXZBX3dqeXJHaF9aX1dFdVlqOG5lbGNXMG5oR0RRdDg3Wmk3ME1iNV96bnlhS1BtVTB0UjJJMGpwcWxGcFpzUmswU3FHSFgwSUhjVkNkZ3M?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 13:59:30 GMT"
+        },
+        {
+          "title": "Iran War Latest: Trump threatens Iran and Houthis with \"major military punishment\" as war spreads to Red Sea - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbnFoblVaeW56TWFYUWE1SGl5N0RtX2t1S25oOFprWVlLZjFPa0Nmdm5hWjdzcmNpTGJCejk5OUxnMF9Pbnh0SklXc3BRYlktaVR2cS1Mbk1FNVVhak5QakV0UEh2VXF5UEFJQ2ppWXZ1Um9FX2lYSEpiaUEtT3dFaEQ2N3lRdTRLSjZRTnZGWk1PUk1tWHUwOVdVZjc?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 13:51:00 GMT"
+        },
+        {
+          "title": "‘We’re getting into an ugly phase’: Trump’s new tariffs are angering voters and US allies alike - Politico",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMXBYb1RVN1JGdE1vNHRLaFdKQ1JwMHVQT2JoclVRbURoRHY1LVJjdkg5Yld4cm91RHZvOTU4Zy0zdHlCLUcyMVl2dW55TjZTOEd4SDZMMDRra3hZYjdfNTZIRXpCZzRUYjU1cE92MzVOYXNkNEhYTXVreC0ycmJKMS1TR2N0aHJSV2lCU1pZU25URkZhMFozenFBenZyMVc1Ymh0UjRNQTJ0bDl4Y2d4a2FZS3pOVWN1cklmWGxRVV9qWmRPcjNDSjZXRVFsdktfYng4bzdOSk1Pb2V0bFpReA?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 09:45:00 GMT"
+        },
+        {
+          "title": "House votes to end war in Iran, dealing Trump another loss - Politico",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaDBBblVoaktLQWpaVmlmdWlSR0tyMzBvT2hnZHBhUWRpM2ZmZlpPcm5jTWE2Q3ZmM2VvdkR5bFFvWTBWcUQydlQ1bEhvTm1nbVVGejhSUWRpLTBjS2tuTEp4bW44RGVLcXlWblE5bTVNXy1naW16SGppbjdmQl9kVQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 14:35:00 GMT"
+        }
+      ]
+    },
     {
       "word": "Iran",
       "count": 4,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Yemen’s Houthis claim attacks on Red Sea tankers as US launches 12th night of strikes on Iran – Middle East crisis live - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZF8wUE0tWmJWbUZETktxaXZTbjVDWU1YODRlQ1kwN0JIMk1Lcjd6NHBHZlBpUGhELW9vZS1laWdVTzgtOGttaXg2MHo5SVg0S0cweElyMXBEUEc4ZFJDRVdNODJjTUctc1VLcGZ0RFh0TmxBRjlSbmx2Q2ZnaDRTcjF6VkcxTnpqZjFEOF9SU0Y4WktZdkVxZ1YzcmVLem1GejB4LTlodV95V3ZQTjhaa01YQVlJbnZGaUNMM0hIaGZ2dEJDaU0wSUdhOE10R20yLXdXYmk5Mkh2cE1wcVhnRDh4MA?oc=5",
+          "title": "Iran War Latest: Trump threatens Iran and Houthis with \"major military punishment\" as war spreads to Red Sea - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbnFoblVaeW56TWFYUWE1SGl5N0RtX2t1S25oOFprWVlLZjFPa0Nmdm5hWjdzcmNpTGJCejk5OUxnMF9Pbnh0SklXc3BRYlktaVR2cS1Mbk1FNVVhak5QakV0UEh2VXF5UEFJQ2ppWXZ1Um9FX2lYSEpiaUEtT3dFaEQ2N3lRdTRLSjZRTnZGWk1PUk1tWHUwOVdVZjc?oc=5",
           "source": "Google News",
-          "published": "Thu, 23 Jul 2026 12:20:00 GMT"
+          "published": "Thu, 23 Jul 2026 13:51:00 GMT"
         },
         {
-          "title": "House Passes Defense Bill Amid Iran War Divide - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaVh6QzZ5VXBDZ3lmRkN0YUMwZG5qZXlaNUV2VWxTZk9uSGJkRVJWOFZtaXZKOURfeTZPOENFMXJmRFpOYU1Gd1dfOURDNHBLc2RhV2xseVJ4RnExNmlEckduUDlZLUw1d3pYa3ZwTHM0cTVqYVBiSVBrdEt1VUdEWGlfWnhSZw?oc=5",
+          "title": "House votes to end war in Iran, dealing Trump another loss - Politico",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaDBBblVoaktLQWpaVmlmdWlSR0tyMzBvT2hnZHBhUWRpM2ZmZlpPcm5jTWE2Q3ZmM2VvdkR5bFFvWTBWcUQydlQ1bEhvTm1nbVVGejhSUWRpLTBjS2tuTEp4bW44RGVLcXlWblE5bTVNXy1naW16SGppbjdmQl9kVQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 23 Jul 2026 08:25:00 GMT"
+          "published": "Thu, 23 Jul 2026 14:35:00 GMT"
         },
         {
-          "title": "Trump vows to hit an Iranian bridge or power plant for every ship Iran attacks - Axios",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43V0hGVGNEUGdTbU9TOUpTR29YVzM2UGtyRGMzcXlIbEdxNVNPLXlhZ003dWhtWS1ZbjNmT0t1MmFPaWdtN1QwRXlLcHVTbFoyWWNCTTBMdlBJc0pUd19mdFdPWXlhV2Y4ZWZfaXI1MzNQRGJzSmRkMVhRTQ?oc=5",
+          "title": "Has Russia helped Iran target CIA sites in the Gulf? - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZHJ5TDdxMTRwckRJbHh0SDQxQV9MN2VXOGpJX09SRC0ybzZKMEM3YXdRbzRRWXNBbmxKbHVkMjhjQjB5am5HeTJnU19RZEwxWWpwT2RQeXZDQWRfRDFMUHRYcVJoSDdRN01zSFFoOENITWhzdkktTS12RWwtUmFObkdCU1NYczV2VU1lZFIwT2VHcGpPV2xr0gGcAUFVX3lxTFBhdEhhb3pFNlYxZ21BbjJDNkdfaldIUEFzN1lQdGZSU3VWT2ZpQnJVY2VyLXZEeDRjbjU5b0ZOV2g5b3ItdVh2azhuSEF6T296Q2p3VWhYSWphcnRobU1McjlYQzZTaGw2YVFaX1N4ZW9iZmg5UmtjM1N5ZEZmRm1fU21sVHM2RFlQZmUxVWxIQ05RaWxyUXhBampObQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 23 Jul 2026 06:59:43 GMT"
-        },
-        {
-          "title": "Rubio says Iran ‘begging’ for a deal with US but not ready to make one - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQREV0anROMjgyVGdDaGFBelVVY1h0SFZ6MER4N3UzeVlpZ0FSZTBtU0pQbWo2bGU5ZFFqN08wUnFLeVhvRmFvSUdFTk5rMmdRSVUzUmVWQjB5SHVXREJuTlJzU2xfc0xlQ21mbWR3bjFOS3RzVE5BY2lEV1c1WkthclBFcER0TnN1QWtUOXpCdXd1Ym9zajJ0N1ZIRW5aS01lVVQ3OEMtelVLQ2szWUHSAbMBQVVfeXFMUENxWHo2YW1KWUNnUVJvT0ZjUUpBeldqbWZTanRLc0l5dmpkSU5wOFg2LWZCcU5lbWdJbWJHMHl3dEk3aDVfNXl4NUYxZU1DTk9qSzBXOVdNNmhxZmgzR2ZkOENXNGxVVDQxSlREX2hGMEJRTmRfUTNROGI1TWZXSDFQT2lTbm5OQXQ4Z1NzM09nZkV3amFIMHBtcXlDcHhSaXBFWFZRTGk3WFZMZGlZUlpTa3c?oc=5",
-          "source": "Google News",
-          "published": "Thu, 23 Jul 2026 10:24:52 GMT"
+          "published": "Thu, 23 Jul 2026 14:23:25 GMT"
         }
       ]
     },
     {
-      "word": "Trump",
+      "word": "House",
       "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump's nuclear deal with Saudis jettisons longstanding US demands - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01LXR4WDJaNjJPTXh4QnFZQTJiajl4QTBaQjF6M1V3MEtMWHhVaGx5bWhaNzdUbjR6d2ljNjA5UWZ4QzdNN0FYSEhPcDg2ZDJ1MkZRTXpsZlIwZw?oc=5",
+          "title": "House votes to end war in Iran, dealing Trump another loss - Politico",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaDBBblVoaktLQWpaVmlmdWlSR0tyMzBvT2hnZHBhUWRpM2ZmZlpPcm5jTWE2Q3ZmM2VvdkR5bFFvWTBWcUQydlQ1bEhvTm1nbVVGejhSUWRpLTBjS2tuTEp4bW44RGVLcXlWblE5bTVNXy1naW16SGppbjdmQl9kVQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 23 Jul 2026 11:13:13 GMT"
+          "published": "Thu, 23 Jul 2026 14:35:00 GMT"
         },
         {
-          "title": "‘We’re getting into an ugly phase’: Trump’s new tariffs are angering voters and U.S. allies alike - Politico",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMXBYb1RVN1JGdE1vNHRLaFdKQ1JwMHVQT2JoclVRbURoRHY1LVJjdkg5Yld4cm91RHZvOTU4Zy0zdHlCLUcyMVl2dW55TjZTOEd4SDZMMDRra3hZYjdfNTZIRXpCZzRUYjU1cE92MzVOYXNkNEhYTXVreC0ycmJKMS1TR2N0aHJSV2lCU1pZU25URkZhMFozenFBenZyMVc1Ymh0UjRNQTJ0bDl4Y2d4a2FZS3pOVWN1cklmWGxRVV9qWmRPcjNDSjZXRVFsdktfYng4bzdOSk1Pb2V0bFpReA?oc=5",
+          "title": "Capitol agenda: House GOP budget faces Senate reality check - Politico",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTl91UDJTT2xkZEdLRGlXSGxBTTZFRHEwZGVSOWtPZUNpRHBBVjMzZDdKdW5DeVRaMGMxZHdCTWQ0UVpqN3U1YXBUVVp4VUhKRGY2ZnQzVnhoOFMyVWZHZ0lxSW9lR3h6Ry1SVVRRODhuNkhNTDhpRmIwS2hPNldoLUxvRHIxWHh3X2M4T1RYaFVXMUZFS0lxMEdCekVCVnJRMkxYbWZfTmNEbFNkZFE4?oc=5",
           "source": "Google News",
-          "published": "Thu, 23 Jul 2026 09:45:00 GMT"
+          "published": "Thu, 23 Jul 2026 12:00:00 GMT"
         },
         {
-          "title": "Trump vows to hit an Iranian bridge or power plant for every ship Iran attacks - Axios",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43V0hGVGNEUGdTbU9TOUpTR29YVzM2UGtyRGMzcXlIbEdxNVNPLXlhZ003dWhtWS1ZbjNmT0t1MmFPaWdtN1QwRXlLcHVTbFoyWWNCTTBMdlBJc0pUd19mdFdPWXlhV2Y4ZWZfaXI1MzNQRGJzSmRkMVhRTQ?oc=5",
+          "title": "House AI ‘kill switch’ bill unveiled as OpenAI hack raises alarms - Politico",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVllZVDU1VkNKYWd4ZXc3ZldlNFlIdXR1clJCeS1RQVZCR1N3dl9yVXNIWFJ1UGFWc2MweVJGWnJEbk95dzUzZktFRjBKZXlDSGYzMV9QWmxvZExKaUFFVjRxaUlaUmRVT1VfdWplZWY4b3dHOFVHT25IeGgyYURhMDFIR0RlOF8zMzJwamhHTEhBSzVpcGhKZ1JVSW44aHkzZGhOQlJ2WGlQOGQtS1VhRGNSWQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 23 Jul 2026 06:59:43 GMT"
+          "published": "Thu, 23 Jul 2026 08:45:00 GMT"
         }
       ]
     },
@@ -65,41 +90,60 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Yemen’s Houthis claim attacks on Red Sea tankers as US launches 12th night of strikes on Iran – Middle East crisis live - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZF8wUE0tWmJWbUZETktxaXZTbjVDWU1YODRlQ1kwN0JIMk1Lcjd6NHBHZlBpUGhELW9vZS1laWdVTzgtOGttaXg2MHo5SVg0S0cweElyMXBEUEc4ZFJDRVdNODJjTUctc1VLcGZ0RFh0TmxBRjlSbmx2Q2ZnaDRTcjF6VkcxTnpqZjFEOF9SU0Y4WktZdkVxZ1YzcmVLem1GejB4LTlodV95V3ZQTjhaa01YQVlJbnZGaUNMM0hIaGZ2dEJDaU0wSUdhOE10R20yLXdXYmk5Mkh2cE1wcVhnRDh4MA?oc=5",
+          "title": "Oil prices leap to $100 a barrel after attacks in Red Sea - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNajJaYmtVVnhKcFM1ay1QQy05ZDZhS2swdzFsTUQ1bExuMllEbFJKX2l0OHVjV25XWUtMUTVRNUVNMUdRdm5od202VDJXbkpsbFhQU3pwNmtjbG1IWlJWOTZMa1NSX1FuV3AzM1IxRVo2Q1NQa0ZmSWZ6QnpyVFVwcEw2N3ptNjBoTHdWNElaYnFDUWxZUi1PbGtZbFRxczJEN1VSUV9MeldGMnd2Si1LWQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 23 Jul 2026 12:20:00 GMT"
+          "published": "Thu, 23 Jul 2026 13:37:55 GMT"
         },
         {
-          "title": "Widening Ukrainian attacks on Russian online retailer Wildberries shutter another warehouse - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcWJhZzRQbDFwWDZFZDh0bE5Lc2FwT0FmZHB5ZXNaaDEweDAxUDVSaW43TV9EUmEyY0FkVEY3TEhmdWk5V0NxZ1VtTWNyYU5jSEgtWUxyaWxtaExjbTVZQ2g2dVlYd1hSRGwxYURuTEJtV3JqRm5mYVJtQ19TTGRwSTVSOTI1bDRhOXpxN2F6dXJ4bDd6NVloamtJOUFMalRyN3M3aG44RUJ3SlI0QmNPd3lVYTJNekZLbWh4VDJfckhYUFV5Z000WlpCNDFuWWc0NW53U1J3?oc=5",
+          "title": "A New Target for Ukraine’s Long-Range Attacks: Russia’s Version of Amazon - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ1pCd1hnejExbWJzSWJVNENkdHpBVXNYNWUySUN0a29rNHdNN2RxeTROV2FVcEtwR0RnbkpZV0pUWmRBM19Ralg3UWh2d2RVUHNNczkxQnBQRDJXd1FIZHpGU2dUUENpVUxSZFhQZzA2ZXU1bUI0YmJpeW9uR0hSLU95WW1wbGF6QV9lMU51ekM?oc=5",
           "source": "Google News",
-          "published": "Thu, 23 Jul 2026 12:18:09 GMT"
+          "published": "Thu, 23 Jul 2026 09:40:15 GMT"
         },
         {
-          "title": "Trump vows to hit an Iranian bridge or power plant for every ship Iran attacks - Axios",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43V0hGVGNEUGdTbU9TOUpTR29YVzM2UGtyRGMzcXlIbEdxNVNPLXlhZ003dWhtWS1ZbjNmT0t1MmFPaWdtN1QwRXlLcHVTbFoyWWNCTTBMdlBJc0pUd19mdFdPWXlhV2Y4ZWZfaXI1MzNQRGJzSmRkMVhRTQ?oc=5",
+          "title": "Stock market today: Dow, S&P 500, Nasdaq futures slip as markets weigh AI capex, widening Mideast attacks - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSFJSYlNkdmkteEZHVnV5VFh1QXdtSXJPSTRld1M3V1UtUXFDeTJvQW96VnI5aXVhc2xrZ1J3cGI5NDVJX0pBSkxfVFB0dFdURnZGc1MtMUdLNjR4aldFTzRkVy1nWlJzY2F2YWhEQnUwRmM2bEpEUVI1MnJ5M2owcnhPMzNjaUdTQXNud3l5Sm9fTHhfZDVFTFlfWENIaGQwSUlpMVZDTkttUkFzUGExTTdKdEh2YlhSWlJ5cE44b25LT3ZveEJkTFNsRm9uUWRjYmY3WEdESnZiNy1xekxGa25za0JOblB1bGc?oc=5",
           "source": "Google News",
-          "published": "Thu, 23 Jul 2026 06:59:43 GMT"
+          "published": "Thu, 23 Jul 2026 08:44:44 GMT"
         }
       ]
     },
     {
-      "word": "Deal",
+      "word": "Military",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump's nuclear deal with Saudis jettisons longstanding US demands - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01LXR4WDJaNjJPTXh4QnFZQTJiajl4QTBaQjF6M1V3MEtMWHhVaGx5bWhaNzdUbjR6d2ljNjA5UWZ4QzdNN0FYSEhPcDg2ZDJ1MkZRTXpsZlIwZw?oc=5",
+          "title": "Iran War Latest: Trump threatens Iran and Houthis with \"major military punishment\" as war spreads to Red Sea - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbnFoblVaeW56TWFYUWE1SGl5N0RtX2t1S25oOFprWVlLZjFPa0Nmdm5hWjdzcmNpTGJCejk5OUxnMF9Pbnh0SklXc3BRYlktaVR2cS1Mbk1FNVVhak5QakV0UEh2VXF5UEFJQ2ppWXZ1Um9FX2lYSEpiaUEtT3dFaEQ2N3lRdTRLSjZRTnZGWk1PUk1tWHUwOVdVZjc?oc=5",
           "source": "Google News",
-          "published": "Thu, 23 Jul 2026 11:13:13 GMT"
+          "published": "Thu, 23 Jul 2026 13:51:00 GMT"
         },
         {
-          "title": "Rubio says Iran ‘begging’ for a deal with US but not ready to make one - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQREV0anROMjgyVGdDaGFBelVVY1h0SFZ6MER4N3UzeVlpZ0FSZTBtU0pQbWo2bGU5ZFFqN08wUnFLeVhvRmFvSUdFTk5rMmdRSVUzUmVWQjB5SHVXREJuTlJzU2xfc0xlQ21mbWR3bjFOS3RzVE5BY2lEV1c1WkthclBFcER0TnN1QWtUOXpCdXd1Ym9zajJ0N1ZIRW5aS01lVVQ3OEMtelVLQ2szWUHSAbMBQVVfeXFMUENxWHo2YW1KWUNnUVJvT0ZjUUpBeldqbWZTanRLc0l5dmpkSU5wOFg2LWZCcU5lbWdJbWJHMHl3dEk3aDVfNXl4NUYxZU1DTk9qSzBXOVdNNmhxZmgzR2ZkOENXNGxVVDQxSlREX2hGMEJRTmRfUTNROGI1TWZXSDFQT2lTbm5OQXQ4Z1NzM09nZkV3amFIMHBtcXlDcHhSaXBFWFZRTGk3WFZMZGlZUlpTa3c?oc=5",
+          "title": "How protests over a popular minister’s firing sparked Ukraine’s sudden military reset - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNWREMUJlWDJUVWVqSkVDWlk2MEcxbE9xdVBubkFYNEw0czVhci1EemZjTUEycTFvNmctNDRqX2hBbDFYSG1HOFdyX2FvNktpYllNYmZBMnQzMUtxcjFqWF91OHRZeGRyTXIxdk9IRldPZFBXdVFWSUdMNktBcTZIelFiLXVSWl9jLVFjSUo4clVTV2RWcllxOGN5bzBUX3A5S19YTQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 23 Jul 2026 10:24:52 GMT"
+          "published": "Thu, 23 Jul 2026 11:07:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "war",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Iran War Latest: Trump threatens Iran and Houthis with \"major military punishment\" as war spreads to Red Sea - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbnFoblVaeW56TWFYUWE1SGl5N0RtX2t1S25oOFprWVlLZjFPa0Nmdm5hWjdzcmNpTGJCejk5OUxnMF9Pbnh0SklXc3BRYlktaVR2cS1Mbk1FNVVhak5QakV0UEh2VXF5UEFJQ2ppWXZ1Um9FX2lYSEpiaUEtT3dFaEQ2N3lRdTRLSjZRTnZGWk1PUk1tWHUwOVdVZjc?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 13:51:00 GMT"
+        },
+        {
+          "title": "House votes to end war in Iran, dealing Trump another loss - Politico",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaDBBblVoaktLQWpaVmlmdWlSR0tyMzBvT2hnZHBhUWRpM2ZmZlpPcm5jTWE2Q3ZmM2VvdkR5bFFvWTBWcUQydlQ1bEhvTm1nbVVGejhSUWRpLTBjS2tuTEp4bW44RGVLcXlWblE5bTVNXy1naW16SGppbjdmQl9kVQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 14:35:00 GMT"
         }
       ]
     },
@@ -109,29 +153,390 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Yemen’s Houthis claim attacks on Red Sea tankers as US launches 12th night of strikes on Iran – Middle East crisis live - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZF8wUE0tWmJWbUZETktxaXZTbjVDWU1YODRlQ1kwN0JIMk1Lcjd6NHBHZlBpUGhELW9vZS1laWdVTzgtOGttaXg2MHo5SVg0S0cweElyMXBEUEc4ZFJDRVdNODJjTUctc1VLcGZ0RFh0TmxBRjlSbmx2Q2ZnaDRTcjF6VkcxTnpqZjFEOF9SU0Y4WktZdkVxZ1YzcmVLem1GejB4LTlodV95V3ZQTjhaa01YQVlJbnZGaUNMM0hIaGZ2dEJDaU0wSUdhOE10R20yLXdXYmk5Mkh2cE1wcVhnRDh4MA?oc=5",
+          "title": "Iran War Latest: Trump threatens Iran and Houthis with \"major military punishment\" as war spreads to Red Sea - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbnFoblVaeW56TWFYUWE1SGl5N0RtX2t1S25oOFprWVlLZjFPa0Nmdm5hWjdzcmNpTGJCejk5OUxnMF9Pbnh0SklXc3BRYlktaVR2cS1Mbk1FNVVhak5QakV0UEh2VXF5UEFJQ2ppWXZ1Um9FX2lYSEpiaUEtT3dFaEQ2N3lRdTRLSjZRTnZGWk1PUk1tWHUwOVdVZjc?oc=5",
           "source": "Google News",
-          "published": "Thu, 23 Jul 2026 12:20:00 GMT"
+          "published": "Thu, 23 Jul 2026 13:51:00 GMT"
         },
         {
-          "title": "Orioles end Red Sox's record-tying 15-game winning streak - ESPN",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdTJZc3hXSlk3d0dQdmhGNXcyTUJUM0xhQll0QU8wd3hua2w0YW5ock82aWF2V19uRHFBTlFjamZqclBkSWNKY3pmZGkwVjlxZW1yV2xjVDcwaVFhWS1talBST2NyeWFzeWZnOWxqalJDU0NOV0JvZ0QyUDBDWnVoNnhrcGVnbWowOW1iTTdhWnRQOVJISnpadkhyUFNrbWlFVWc?oc=5",
+          "title": "Oil prices leap to $100 a barrel after attacks in Red Sea - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNajJaYmtVVnhKcFM1ay1QQy05ZDZhS2swdzFsTUQ1bExuMllEbFJKX2l0OHVjV25XWUtMUTVRNUVNMUdRdm5od202VDJXbkpsbFhQU3pwNmtjbG1IWlJWOTZMa1NSX1FuV3AzM1IxRVo2Q1NQa0ZmSWZ6QnpyVFVwcEw2N3ptNjBoTHdWNElaYnFDUWxZUi1PbGtZbFRxczJEN1VSUV9MeldGMnd2Si1LWQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 23 Jul 2026 02:32:00 GMT"
+          "published": "Thu, 23 Jul 2026 13:37:55 GMT"
         }
       ]
     },
     {
-      "word": "Launches",
+      "word": "Sea",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Yemen’s Houthis claim attacks on Red Sea tankers as US launches 12th night of strikes on Iran – Middle East crisis live - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZF8wUE0tWmJWbUZETktxaXZTbjVDWU1YODRlQ1kwN0JIMk1Lcjd6NHBHZlBpUGhELW9vZS1laWdVTzgtOGttaXg2MHo5SVg0S0cweElyMXBEUEc4ZFJDRVdNODJjTUctc1VLcGZ0RFh0TmxBRjlSbmx2Q2ZnaDRTcjF6VkcxTnpqZjFEOF9SU0Y4WktZdkVxZ1YzcmVLem1GejB4LTlodV95V3ZQTjhaa01YQVlJbnZGaUNMM0hIaGZ2dEJDaU0wSUdhOE10R20yLXdXYmk5Mkh2cE1wcVhnRDh4MA?oc=5",
+          "title": "Iran War Latest: Trump threatens Iran and Houthis with \"major military punishment\" as war spreads to Red Sea - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbnFoblVaeW56TWFYUWE1SGl5N0RtX2t1S25oOFprWVlLZjFPa0Nmdm5hWjdzcmNpTGJCejk5OUxnMF9Pbnh0SklXc3BRYlktaVR2cS1Mbk1FNVVhak5QakV0UEh2VXF5UEFJQ2ppWXZ1Um9FX2lYSEpiaUEtT3dFaEQ2N3lRdTRLSjZRTnZGWk1PUk1tWHUwOVdVZjc?oc=5",
           "source": "Google News",
-          "published": "Thu, 23 Jul 2026 12:20:00 GMT"
+          "published": "Thu, 23 Jul 2026 13:51:00 GMT"
+        },
+        {
+          "title": "Oil prices leap to $100 a barrel after attacks in Red Sea - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNajJaYmtVVnhKcFM1ay1QQy05ZDZhS2swdzFsTUQ1bExuMllEbFJKX2l0OHVjV25XWUtMUTVRNUVNMUdRdm5od202VDJXbkpsbFhQU3pwNmtjbG1IWlJWOTZMa1NSX1FuV3AzM1IxRVo2Q1NQa0ZmSWZ6QnpyVFVwcEw2N3ptNjBoTHdWNElaYnFDUWxZUi1PbGtZbFRxczJEN1VSUV9MeldGMnd2Si1LWQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 13:37:55 GMT"
+        }
+      ]
+    },
+    {
+      "word": "big",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Amid a big hiring push, police experts question ICE officer vetting - NPR",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM2t1dS1GN0JXNno4RHFWTVBTS1NRMmpjTzd1Rm13WTViLVFqTkpXZHBoUmIwYUpxVlo2YmMydUxrSER2RWtfRmstV1h5cDM0RjE2TFhpeTVkQ29MMF9SdGFMaFRPR2E0TlZtY2dyT3Y3dTF3YWltRTB5SU5VVGU4OXdTbHdoZy0tMnhHSFdRTWhyUQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 09:00:00 GMT"
+        },
+        {
+          "title": "The reported Apple Upgrade program raises a very big concern - 9to5Mac",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdXgxRzJOSjJJNXNQYXM4YXk4TnpKWFprcXNBdEFjY2ZwaXZxSmVyeTRnT090Slc1N3llRTFBTWNkMGpKT0F3WWs3aW0zWWhzWF9UaUxUQTBMMnpELWRsU2l3QlZLOFduWWlpa2p0NzZ3WTNqY1hHdTlQcVNFNl9MWUZVR0puTE1rSFZmeF9DZXFHc3dYMmhv?oc=5",
+          "source": "Google News",
+          "published": "Wed, 22 Jul 2026 11:19:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Police",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Amid a big hiring push, police experts question ICE officer vetting - NPR",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM2t1dS1GN0JXNno4RHFWTVBTS1NRMmpjTzd1Rm13WTViLVFqTkpXZHBoUmIwYUpxVlo2YmMydUxrSER2RWtfRmstV1h5cDM0RjE2TFhpeTVkQ29MMF9SdGFMaFRPR2E0TlZtY2dyT3Y3dTF3YWltRTB5SU5VVGU4OXdTbHdoZy0tMnhHSFdRTWhyUQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 09:00:00 GMT"
+        },
+        {
+          "title": "Protesters gather in Madison after man fatally shot by a police officer - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU1l4QkFYNjdJRXg0aHB4QS02RUpoOHJPdW16ZzRKMmdBNDQzOWw5aU40dklKdnRiTTl1cEpZRVFpSV9Fb3U2em5ZeEpWemc4VS1XU2p1TFBDT09aN0poMXVfTFdETVNsNnNNZGtKOW0wSGtqN1l0cWgxRXJJYzBPSlVqU28yR3dMNTIzNWNVa2dXOVNQTmhzNEtyYUJqYUF1VzFULU1INFkxZllUeVgzd2I4WVdZQQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 11:27:31 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Experts",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Amid a big hiring push, police experts question ICE officer vetting - NPR",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM2t1dS1GN0JXNno4RHFWTVBTS1NRMmpjTzd1Rm13WTViLVFqTkpXZHBoUmIwYUpxVlo2YmMydUxrSER2RWtfRmstV1h5cDM0RjE2TFhpeTVkQ29MMF9SdGFMaFRPR2E0TlZtY2dyT3Y3dTF3YWltRTB5SU5VVGU4OXdTbHdoZy0tMnhHSFdRTWhyUQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 09:00:00 GMT"
+        },
+        {
+          "title": "Space datacenters proposed by Musk and Bezos ‘catastrophic’ for planet, experts warn - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZUliTHB6bHUzSFBaRzlSTmZiYjgwNk1FcGtTMEhlUG5oT1BjUW1sbjRIU1Z2ZFhQMGhYMW1hSnNkdjN6TS02ald4MEhySEFhRXJwa3JqSlM3dFpfMGxtN0JYaE1aN1NkY1VhVGVpdTdPMEhNaGI2M19sazhFUm9MN1l0V0hIaU9pNzRR?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 11:02:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Officer",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Amid a big hiring push, police experts question ICE officer vetting - NPR",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM2t1dS1GN0JXNno4RHFWTVBTS1NRMmpjTzd1Rm13WTViLVFqTkpXZHBoUmIwYUpxVlo2YmMydUxrSER2RWtfRmstV1h5cDM0RjE2TFhpeTVkQ29MMF9SdGFMaFRPR2E0TlZtY2dyT3Y3dTF3YWltRTB5SU5VVGU4OXdTbHdoZy0tMnhHSFdRTWhyUQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 09:00:00 GMT"
+        },
+        {
+          "title": "Protesters gather in Madison after man fatally shot by a police officer - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU1l4QkFYNjdJRXg0aHB4QS02RUpoOHJPdW16ZzRKMmdBNDQzOWw5aU40dklKdnRiTTl1cEpZRVFpSV9Fb3U2em5ZeEpWemc4VS1XU2p1TFBDT09aN0poMXVfTFdETVNsNnNNZGtKOW0wSGtqN1l0cWgxRXJJYzBPSlVqU28yR3dMNTIzNWNVa2dXOVNQTmhzNEtyYUJqYUF1VzFULU1INFkxZllUeVgzd2I4WVdZQQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 11:27:31 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Loss",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "House votes to end war in Iran, dealing Trump another loss - Politico",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaDBBblVoaktLQWpaVmlmdWlSR0tyMzBvT2hnZHBhUWRpM2ZmZlpPcm5jTWE2Q3ZmM2VvdkR5bFFvWTBWcUQydlQ1bEhvTm1nbVVGejhSUWRpLTBjS2tuTEp4bW44RGVLcXlWblE5bTVNXy1naW16SGppbjdmQl9kVQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 14:35:00 GMT"
+        },
+        {
+          "title": "Magomed Anakalev: Alex Pereira title loss ‘must have been the worst day of my life’ - MMA Fighting",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSlAyVEE1SlF2ZXhwT2JoeklrV0ZoN1pXUFEyd04xRFloOVRfUDBRdEZaMUxpbjVqQThZcnZDeXJlblZlSVBxYXJpblh4WEFybmRHOGs0X0lrbVo3SDJiTmVERWRrVmJIYW9GRW15andCWEY1cHdwRUYyYXNCS2VRWExZRktHM0U4ODJNOVlYcEZiUThuRXlNWU9JbUx3bl9YbDJUUEVCczVvbW5DY0ROYkpydDM1SU9hejNZ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 13:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Version",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "DHS chief’s early missteps and an AI-generated version of ‘The Odyssey’: Morning Rundown - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNUM5OEtIaS1DOUpDRndsSkg2dG54MncwaDBJa2dGM21HR1dLQkxZd083VlZfNWdEbkp0V3JkZEs5OEpNWEc0ZjVUcFBwZGowRHdqSEVYNzEyaDNZRkRxaE1tZjRJWmp3S0J4NFNiUmJYMGlQREFRT3VlT2hQTTNVWld4b0I4N0VRSWdFNXV4SE1UVVVmbWI3dlZkaWt3WFozaVc2cnNqVlI5SnAtT3VV?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 10:59:31 GMT"
+        },
+        {
+          "title": "A New Target for Ukraine’s Long-Range Attacks: Russia’s Version of Amazon - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ1pCd1hnejExbWJzSWJVNENkdHpBVXNYNWUySUN0a29rNHdNN2RxeTROV2FVcEtwR0RnbkpZV0pUWmRBM19Ralg3UWh2d2RVUHNNczkxQnBQRDJXd1FIZHpGU2dUUENpVUxSZFhQZzA2ZXU1bUI0YmJpeW9uR0hSLU95WW1wbGF6QV9lMU51ekM?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 09:40:15 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Target",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "A New Target for Ukraine’s Long-Range Attacks: Russia’s Version of Amazon - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ1pCd1hnejExbWJzSWJVNENkdHpBVXNYNWUySUN0a29rNHdNN2RxeTROV2FVcEtwR0RnbkpZV0pUWmRBM19Ralg3UWh2d2RVUHNNczkxQnBQRDJXd1FIZHpGU2dUUENpVUxSZFhQZzA2ZXU1bUI0YmJpeW9uR0hSLU95WW1wbGF6QV9lMU51ekM?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 09:40:15 GMT"
+        },
+        {
+          "title": "Has Russia helped Iran target CIA sites in the Gulf? - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZHJ5TDdxMTRwckRJbHh0SDQxQV9MN2VXOGpJX09SRC0ybzZKMEM3YXdRbzRRWXNBbmxKbHVkMjhjQjB5am5HeTJnU19RZEwxWWpwT2RQeXZDQWRfRDFMUHRYcVJoSDdRN01zSFFoOENITWhzdkktTS12RWwtUmFObkdCU1NYczV2VU1lZFIwT2VHcGpPV2xr0gGcAUFVX3lxTFBhdEhhb3pFNlYxZ21BbjJDNkdfaldIUEFzN1lQdGZSU3VWT2ZpQnJVY2VyLXZEeDRjbjU5b0ZOV2g5b3ItdVh2azhuSEF6T296Q2p3VWhYSWphcnRobU1McjlYQzZTaGw2YVFaX1N4ZW9iZmg5UmtjM1N5ZEZmRm1fU21sVHM2RFlQZmUxVWxIQ05RaWxyUXhBampObQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 14:23:25 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Ukraine",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "A New Target for Ukraine’s Long-Range Attacks: Russia’s Version of Amazon - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ1pCd1hnejExbWJzSWJVNENkdHpBVXNYNWUySUN0a29rNHdNN2RxeTROV2FVcEtwR0RnbkpZV0pUWmRBM19Ralg3UWh2d2RVUHNNczkxQnBQRDJXd1FIZHpGU2dUUENpVUxSZFhQZzA2ZXU1bUI0YmJpeW9uR0hSLU95WW1wbGF6QV9lMU51ekM?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 09:40:15 GMT"
+        },
+        {
+          "title": "How protests over a popular minister’s firing sparked Ukraine’s sudden military reset - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNWREMUJlWDJUVWVqSkVDWlk2MEcxbE9xdVBubkFYNEw0czVhci1EemZjTUEycTFvNmctNDRqX2hBbDFYSG1HOFdyX2FvNktpYllNYmZBMnQzMUtxcjFqWF91OHRZeGRyTXIxdk9IRldPZFBXdVFWSUdMNktBcTZIelFiLXVSWl9jLVFjSUo4clVTV2RWcllxOGN5bzBUX3A5S19YTQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 11:07:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Russia",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "A New Target for Ukraine’s Long-Range Attacks: Russia’s Version of Amazon - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ1pCd1hnejExbWJzSWJVNENkdHpBVXNYNWUySUN0a29rNHdNN2RxeTROV2FVcEtwR0RnbkpZV0pUWmRBM19Ralg3UWh2d2RVUHNNczkxQnBQRDJXd1FIZHpGU2dUUENpVUxSZFhQZzA2ZXU1bUI0YmJpeW9uR0hSLU95WW1wbGF6QV9lMU51ekM?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 09:40:15 GMT"
+        },
+        {
+          "title": "Has Russia helped Iran target CIA sites in the Gulf? - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZHJ5TDdxMTRwckRJbHh0SDQxQV9MN2VXOGpJX09SRC0ybzZKMEM3YXdRbzRRWXNBbmxKbHVkMjhjQjB5am5HeTJnU19RZEwxWWpwT2RQeXZDQWRfRDFMUHRYcVJoSDdRN01zSFFoOENITWhzdkktTS12RWwtUmFObkdCU1NYczV2VU1lZFIwT2VHcGpPV2xr0gGcAUFVX3lxTFBhdEhhb3pFNlYxZ21BbjJDNkdfaldIUEFzN1lQdGZSU3VWT2ZpQnJVY2VyLXZEeDRjbjU5b0ZOV2g5b3ItdVh2azhuSEF6T296Q2p3VWhYSWphcnRobU1McjlYQzZTaGw2YVFaX1N4ZW9iZmg5UmtjM1N5ZEZmRm1fU21sVHM2RFlQZmUxVWxIQ05RaWxyUXhBampObQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 14:23:25 GMT"
+        }
+      ]
+    },
+    {
+      "word": "CIA",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Has Russia helped Iran target CIA sites in the Gulf? - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZHJ5TDdxMTRwckRJbHh0SDQxQV9MN2VXOGpJX09SRC0ybzZKMEM3YXdRbzRRWXNBbmxKbHVkMjhjQjB5am5HeTJnU19RZEwxWWpwT2RQeXZDQWRfRDFMUHRYcVJoSDdRN01zSFFoOENITWhzdkktTS12RWwtUmFObkdCU1NYczV2VU1lZFIwT2VHcGpPV2xr0gGcAUFVX3lxTFBhdEhhb3pFNlYxZ21BbjJDNkdfaldIUEFzN1lQdGZSU3VWT2ZpQnJVY2VyLXZEeDRjbjU5b0ZOV2g5b3ItdVh2azhuSEF6T296Q2p3VWhYSWphcnRobU1McjlYQzZTaGw2YVFaX1N4ZW9iZmg5UmtjM1N5ZEZmRm1fU21sVHM2RFlQZmUxVWxIQ05RaWxyUXhBampObQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 14:23:25 GMT"
+        },
+        {
+          "title": "A 4-hour Elon Musk documentary and a dark CIA comedy lead Venice Film Festival lineup - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU29pRVNjMGFGeEZnQlhwbmpqTFh2cmYtYzhiUC12VzE3LUNKbWV4di10RnNEc28wVThBUnF0RFd3SVZralhFeHUwSjZlUEEwX0NUUW1MS016TXNic0QxVWNDTE9lcGJ0WUdfLS1zMENpMmhwdGQ1SWpnR01JTGdneFVvRWJacHlqSEo4b0lXclBzSTk4ZGl0aV9ReGpaZEkwTGZIdHZyN0tTXzMxVEx3?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 12:25:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Kill",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Armed attackers kill more than 20 in northwest Nigeria - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYmh0dU1tcW9EQkoxNWsydFlrSkhCNjFGeTZaRUhvdDJXVjlpLWQtQ3VxWGZad2R2dEc1ZjlKV3MzS09nRlctRnNZQkR5X3R0eWJqMW5hUEdVaWJYRW9VMUZuTjBBbmlCQWM3ODNKMWs3QlhJUmpHNDM2VFBUQWdPUXBCMHpiVmtuSUVpMDFfLU9tS2RmWVJwUmZYc9IBoAFBVV95cUxOeWwxMU81eGZlb0t2eEhxZ1NpQWdsN1h0TVZjaC1zM09uSi14UklWbHJCZ21UQXhEWkJMUjhVZkxhZ3l4U2ltZnpsQTlYaUc1cWNiNThwVnZuWmR6WXhoUG11bGN1WnR5d084dDR3SVFYSTV1S0tSVlh1a1VibnRfUWhZbHhTSDFBYldqMFF3X3hFWkktNWRlLW43NnljSF9h?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 03:24:51 GMT"
+        },
+        {
+          "title": "House AI ‘kill switch’ bill unveiled as OpenAI hack raises alarms - Politico",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVllZVDU1VkNKYWd4ZXc3ZldlNFlIdXR1clJCeS1RQVZCR1N3dl9yVXNIWFJ1UGFWc2MweVJGWnJEbk95dzUzZktFRjBKZXlDSGYzMV9QWmxvZExKaUFFVjRxaUlaUmRVT1VfdWplZWY4b3dHOFVHT25IeGgyYURhMDFIR0RlOF8zMzJwamhHTEhBSzVpcGhKZ1JVSW44aHkzZGhOQlJ2WGlQOGQtS1VhRGNSWQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 08:45:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Raises",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "House AI ‘kill switch’ bill unveiled as OpenAI hack raises alarms - Politico",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVllZVDU1VkNKYWd4ZXc3ZldlNFlIdXR1clJCeS1RQVZCR1N3dl9yVXNIWFJ1UGFWc2MweVJGWnJEbk95dzUzZktFRjBKZXlDSGYzMV9QWmxvZExKaUFFVjRxaUlaUmRVT1VfdWplZWY4b3dHOFVHT25IeGgyYURhMDFIR0RlOF8zMzJwamhHTEhBSzVpcGhKZ1JVSW44aHkzZGhOQlJ2WGlQOGQtS1VhRGNSWQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 08:45:00 GMT"
+        },
+        {
+          "title": "The reported Apple Upgrade program raises a very big concern - 9to5Mac",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdXgxRzJOSjJJNXNQYXM4YXk4TnpKWFprcXNBdEFjY2ZwaXZxSmVyeTRnT090Slc1N3llRTFBTWNkMGpKT0F3WWs3aW0zWWhzWF9UaUxUQTBMMnpELWRsU2l3QlZLOFduWWlpa2p0NzZ3WTNqY1hHdTlQcVNFNl9MWUZVR0puTE1rSFZmeF9DZXFHc3dYMmhv?oc=5",
+          "source": "Google News",
+          "published": "Wed, 22 Jul 2026 11:19:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Stock",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Stock market today: Dow, S&P 500, Nasdaq futures slip as markets weigh AI capex, widening Mideast attacks - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSFJSYlNkdmkteEZHVnV5VFh1QXdtSXJPSTRld1M3V1UtUXFDeTJvQW96VnI5aXVhc2xrZ1J3cGI5NDVJX0pBSkxfVFB0dFdURnZGc1MtMUdLNjR4aldFTzRkVy1nWlJzY2F2YWhEQnUwRmM2bEpEUVI1MnJ5M2owcnhPMzNjaUdTQXNud3l5Sm9fTHhfZDVFTFlfWENIaGQwSUlpMVZDTkttUkFzUGExTTdKdEh2YlhSWlJ5cE44b25LT3ZveEJkTFNsRm9uUWRjYmY3WEdESnZiNy1xekxGa25za0JOblB1bGc?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 08:44:44 GMT"
+        },
+        {
+          "title": "Alphabet Stock Falls: Google-Parent Reports Blowout Earnings - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSjI0MGhTM2Yyb1hsTVJRT083ZWVMbDlIWjE0QU5wNTFCWjg3SFFUbmo0NTlPSVd6TWY0eW1WbEp4MUpNWTR5cWRLYnBIWnRhT2pwMEpTUUl1ZF9Sb2NLQ0UxSWYxM3VnUGtuTDhxM2s3SWhsOG5TS0JZcHFaUXBEOXRKYw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 14:44:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Samsung",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Everything Samsung Announced at Galaxy Unpacked: Z Fold 8, Flip 8, Watch 9, More - PCMag",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZS1aaUhkS0NydlhEbWFQNTJ1dmZkSDd3TTgxYTNKa0tJeWN4Y290aG90RnRGWDB1VzYyUGFaOUR0UUtHNmNkSVgyWDVmWW5Jalc5Ym9uMHFDejFSMmhJcElDM1hUWTlPR1Z3VEhJUGdnY2tiblVaR1pwX3RuYmpMSkttTmpmYV9uN3pXSXQyRk1BZUo5dlE?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 11:47:27 GMT"
+        },
+        {
+          "title": "Gemini task automation expands to 40+ apps, Samsung shows off two more Android XR glasses - 9to5Google",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8tWEFNWnFtYVBKYlFjRmZYVV9pVmdOWGk4bXlha09QMlBZQ01wbFdnQ2tUclBtNXVVTzhTbW1DM0xDZHlnMllLcGRIMXdPR2tUbk4yeHNiT2xYNm1IOUp0UFRBZ0p4dW5ycDBaR0hXeFJsNHM?oc=5",
+          "source": "Google News",
+          "published": "Wed, 22 Jul 2026 13:05:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Watch",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Everything Samsung Announced at Galaxy Unpacked: Z Fold 8, Flip 8, Watch 9, More - PCMag",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZS1aaUhkS0NydlhEbWFQNTJ1dmZkSDd3TTgxYTNKa0tJeWN4Y290aG90RnRGWDB1VzYyUGFaOUR0UUtHNmNkSVgyWDVmWW5Jalc5Ym9uMHFDejFSMmhJcElDM1hUWTlPR1Z3VEhJUGdnY2tiblVaR1pwX3RuYmpMSkttTmpmYV9uN3pXSXQyRk1BZUo5dlE?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 11:47:27 GMT"
+        },
+        {
+          "title": "What To Watch Thursday: Big Bang Theory Spin-Off Debuts, Ransom Canyon And Strange New Worlds Return - TVLine",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DdWlxNVF0WEY3X0JQSUhYX0NPUnBVSkwwLVRHTkNQOEg2dDhTTkpRMGxPOWtaa0ZnbzB0dWNCeG9HWFljS3ZSWlFEcGxnTWpCUjBKT1lPc3FhWlRoT202NkRSdC1CRGlqMWticmYzNTFWOGJPNjBGdTBweEVySnM?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 11:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Musk",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "A 4-hour Elon Musk documentary and a dark CIA comedy lead Venice Film Festival lineup - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU29pRVNjMGFGeEZnQlhwbmpqTFh2cmYtYzhiUC12VzE3LUNKbWV4di10RnNEc28wVThBUnF0RFd3SVZralhFeHUwSjZlUEEwX0NUUW1MS016TXNic0QxVWNDTE9lcGJ0WUdfLS1zMENpMmhwdGQ1SWpnR01JTGdneFVvRWJacHlqSEo4b0lXclBzSTk4ZGl0aV9ReGpaZEkwTGZIdHZyN0tTXzMxVEx3?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 12:25:00 GMT"
+        },
+        {
+          "title": "Space datacenters proposed by Musk and Bezos ‘catastrophic’ for planet, experts warn - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZUliTHB6bHUzSFBaRzlSTmZiYjgwNk1FcGtTMEhlUG5oT1BjUW1sbjRIU1Z2ZFhQMGhYMW1hSnNkdjN6TS02ald4MEhySEFhRXJwa3JqSlM3dFpfMGxtN0JYaE1aN1NkY1VhVGVpdTdPMEhNaGI2M19sazhFUm9MN1l0V0hIaU9pNzRR?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 11:02:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Jason",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Jason Alexander apologizes to Courtney Stodden for ‘inappropriate’ skit they did when she was 17 - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMjdCME9XOGY4V3ZMX1JUWFB6ZjV0ekcxQWdNYVNJY0J1elVwQVRabzNtOTV3THFvVGNOYkhNUHdHblhvaXRvYU5rTVdkWGozRHpyY3hHQ292VFRRRTljbzRILU00SzRSeVVKVm9kZFZXbXFFY0Q4aWk3eUF1cF9YWFhsSXVBZHdHcEVMQnVvc3R3XzNmR1U1aFdjTFRMbUw4QVpoenhUWGNJdnNDdGhHZWhNM0ZPOG0xdndZUVNWNmFtcFJ1TVdCY0FIcEZtQQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 13:30:00 GMT"
+        },
+        {
+          "title": "Here’s why Jason Sudeikis initially said no to Ted Lasso season 4, despite an offer of over $1 million per episode - Entertainment Weekly",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUkNQSUlIM3NHZy1VcU9YSldlRTBIczN6RkhrMmZWd2hZZXJBcVk5ZFNBMXF5Q3JySnluVVJqWFh2OU9BSlNRNWh5el85ZnhMYjlQM2Z2Q1dubkNFWHJleDBxS3RhWVRvSGp3Qzk1Zm00MHJLd0xiTGxMUHhlRWQwWDNvVzY0d3FJ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 02:50:47 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Teams",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "10 teams with willingness, prospects to make moves at the Trade Deadline - MLB.com",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQczNnbEF1ZXZFc05XQkxsVzhOaTVQcDBpUEE0Rl9NaEhGMEF0SHFINEpiazVHNlcwcm1VNGIxOUZvVEF1YXRrTmxCSnk0WVNEaXpzdVR0WTQzYW5ISEMyZ20zU19RRGFjc2JUTXp3SXBtcFpycW90ZFR5Rmg4dnFQNFZIZw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 11:08:31 GMT"
+        },
+        {
+          "title": "2026 NFL training camp previews, projections for all 32 teams - ESPN",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY1ZPUElfcldXNDZOdVFGMGVNNU1Sd1JGU1BobXlITF8tU0x5SzYxeURWX1VkXzd4VjgxMW1NUkNfU19XZnFOTGhSejBNMXFwRlJ0TXpVZ2hFdjk1LUxQUHhwV0F3SEpTMkY5eDhHTENUMWFDcDVQNUh5bmJQcV9KZEJGRkcycE5qVlgyNTlJdUNjY2NuaGYxRktrbTJXS1cwTS1vMnlKSTRTWlJwWmRiMnhn?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 10:29:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Life",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Magomed Anakalev: Alex Pereira title loss ‘must have been the worst day of my life’ - MMA Fighting",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSlAyVEE1SlF2ZXhwT2JoeklrV0ZoN1pXUFEyd04xRFloOVRfUDBRdEZaMUxpbjVqQThZcnZDeXJlblZlSVBxYXJpblh4WEFybmRHOGs0X0lrbVo3SDJiTmVERWRrVmJIYW9GRW15andCWEY1cHdwRUYyYXNCS2VRWExZRktHM0U4ODJNOVlYcEZiUThuRXlNWU9JbUx3bl9YbDJUUEVCczVvbW5DY0ROYkpydDM1SU9hejNZ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 13:00:00 GMT"
         },
         {
           "title": "Private mission launches to extend life of out-of-gas communication satellites - Phys.org",
@@ -142,116 +547,34 @@
       ]
     },
     {
-      "word": "Live",
+      "word": "Measles",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Yemen’s Houthis claim attacks on Red Sea tankers as US launches 12th night of strikes on Iran – Middle East crisis live - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZF8wUE0tWmJWbUZETktxaXZTbjVDWU1YODRlQ1kwN0JIMk1Lcjd6NHBHZlBpUGhELW9vZS1laWdVTzgtOGttaXg2MHo5SVg0S0cweElyMXBEUEc4ZFJDRVdNODJjTUctc1VLcGZ0RFh0TmxBRjlSbmx2Q2ZnaDRTcjF6VkcxTnpqZjFEOF9SU0Y4WktZdkVxZ1YzcmVLem1GejB4LTlodV95V3ZQTjhaa01YQVlJbnZGaUNMM0hIaGZ2dEJDaU0wSUdhOE10R20yLXdXYmk5Mkh2cE1wcVhnRDh4MA?oc=5",
+          "title": "Measles outbreak declared in Delaware; cases also rising in Chester County, Pa. - 6abc Philadelphia",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQzNaZ3FmbEUwbGJ3Znl6LUctUkM2S2hiMGZINUE5QkdVTF9McGdoclZoZGREWEtZSkVDcUlNbnduQnFSc0d0ZGhqVGpxd050TFU1SW1LQ1owMVgzUUtzQWUwa3ZucUw2b3NXZXFZSzFwZ1lnNHpuZmR3MEpYWXR2VV9ERHJzTE01Z3dhNGpyVDVSQ2RvRFJESWVTTHUyQdIBowFBVV95cUxQOG1HX0ttZnJXak5ENUFTUUNBaEpsZmF6ZnFNWVU4TDVmRmcxWUhQVnA5eGtaZ09fck1NYVVidTZ2N2dVc3FuTkI0Z2c1d2xObnRLeGhzRFE4TzFVSGE3TVlnN1EwNmJXNjJHbWQ3UnR0TVVWME9XY0ZfYlJBM3BJaDEwSGpjYTBnZXA4Sl96cHg3UkpmcjVSbXBtV0VTUndtWF9z?oc=5",
           "source": "Google News",
-          "published": "Thu, 23 Jul 2026 12:20:00 GMT"
+          "published": "Thu, 23 Jul 2026 04:57:43 GMT"
         },
         {
-          "title": "Venice Film Festival Lineup Announcement — Follow Live - Deadline",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBENF9pQy1kaVpGQ0czS0poY3ZSTHR1eGNMajZ0ODRzZUJMNV9qbXVJZVlmdnZITkt2NmM3TUMyT0tXb0c5V3hWNFZVQXBfYmdwTTVHbGxvaXZZcGtNTmVOUmQ3YXVfZVpIdDF5bExhMFJiZHMxMFE4Mjg2UzkyQQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 23 Jul 2026 10:52:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Police",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "After deadly shootings, police experts question how well ICE officers are vetted - NPR",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM2t1dS1GN0JXNno4RHFWTVBTS1NRMmpjTzd1Rm13WTViLVFqTkpXZHBoUmIwYUpxVlo2YmMydUxrSER2RWtfRmstV1h5cDM0RjE2TFhpeTVkQ29MMF9SdGFMaFRPR2E0TlZtY2dyT3Y3dTF3YWltRTB5SU5VVGU4OXdTbHdoZy0tMnhHSFdRTWhyUQ?oc=5",
+          "title": "‘The Child Is Terrified’: Measles Doctors Speak Out - WIRED",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdTk2WTBuam9Tdk9qUlRBZ0FDVEl5OE0xMVNUT0VhRzhuUDNheU1PcVVUQ3hXY3RTUVlwSlZxV1MxWXFHa2xUTS0yWEtDTF83cVVDTFMtOEVLZGl1YjNrZW5BT2tIZnpvajluME9GZHh2c0hhUDJYb3JjcnNBU056eWpQVQ?oc=5",
           "source": "Google News",
           "published": "Thu, 23 Jul 2026 09:00:00 GMT"
-        },
-        {
-          "title": "Wisconsin police officer shoots, kills man on city street near state Capitol in Madison - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUFgyenRKalJEWFp5VHRWRk8zbVJVMFBsMU9OUFg0QVFTdS0zQldrSnRSallGR0V3SmlHX0VZWFBuUjFpVDFwVm92N0M1RmNiYmdjMW5NNDNfQWtyeFBlZjNPdldOTlFaYTFod1V5RkxYZkR3U0VfOE8ybno0cEE0U0dWaEN6R3hIa3d1MDRKQXZ4NFhyR3Ywaw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 23 Jul 2026 04:01:00 GMT"
         }
       ]
     },
     {
-      "word": "Voters",
-      "count": 2,
+      "word": "Saudi",
+      "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Fox News Poll: Voters want major change amid economic and political discontent - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUWpQSTRuZkZZXzQzRm16bjAwemtNUmVBdXBabWR3RTk3dGxVUlhZX0p5NEJfeFNMcDZlOUM0aGl4czhWODZYLUx1WWdBTEtKZ1VJdC1XTDdraVFXRjBJSGFjZUxhT28tTG9aelBJQ3BFNzM1MEJQS0gwMjRKQ095QWwxZi1jVnVFZXRvc2tnWEQyS01IWjJiemJDVjY0NUtOTWMxU2d4VVV2QdIBrwFBVV95cUxQODBKZG93cFNvd2U5VUpqUTFYcEhHcDczbXZUZ1A0cEwyZk9KNlZoVGV5eFMxSEZic3hCZzNHXy1XdTVkMjFITHh5azNhaVktMDRraWdNWHBCalhKSTF0S0hOUVdRZk9PaU5qVkpxTkpQMHpGNF9WSmhfN0psX3dna1R3a05Bb09rMXlKSW5pZjZVdzVtUzV3T1ZZNmh4RHcyTERoM3c4dlBWSE5BYWZ3?oc=5",
+          "title": "Trump says the Saudi nuclear deal hinges on the kingdom normalizing ties with Israel - NPR",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82dkFvOGx1UVcwRHJPZ1BjSWNGWktMRWRGUHV3bXZBX3dqeXJHaF9aX1dFdVlqOG5lbGNXMG5oR0RRdDg3Wmk3ME1iNV96bnlhS1BtVTB0UjJJMGpwcWxGcFpzUmswU3FHSFgwSUhjVkNkZ3M?oc=5",
           "source": "Google News",
-          "published": "Wed, 22 Jul 2026 22:00:03 GMT"
-        },
-        {
-          "title": "‘We’re getting into an ugly phase’: Trump’s new tariffs are angering voters and U.S. allies alike - Politico",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMXBYb1RVN1JGdE1vNHRLaFdKQ1JwMHVQT2JoclVRbURoRHY1LVJjdkg5Yld4cm91RHZvOTU4Zy0zdHlCLUcyMVl2dW55TjZTOEd4SDZMMDRra3hZYjdfNTZIRXpCZzRUYjU1cE92MzVOYXNkNEhYTXVreC0ycmJKMS1TR2N0aHJSV2lCU1pZU25URkZhMFozenFBenZyMVc1Ymh0UjRNQTJ0bDl4Y2d4a2FZS3pOVWN1cklmWGxRVV9qWmRPcjNDSjZXRVFsdktfYng4bzdOSk1Pb2V0bFpReA?oc=5",
-          "source": "Google News",
-          "published": "Thu, 23 Jul 2026 09:45:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Amid",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Fox News Poll: Voters want major change amid economic and political discontent - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUWpQSTRuZkZZXzQzRm16bjAwemtNUmVBdXBabWR3RTk3dGxVUlhZX0p5NEJfeFNMcDZlOUM0aGl4czhWODZYLUx1WWdBTEtKZ1VJdC1XTDdraVFXRjBJSGFjZUxhT28tTG9aelBJQ3BFNzM1MEJQS0gwMjRKQ095QWwxZi1jVnVFZXRvc2tnWEQyS01IWjJiemJDVjY0NUtOTWMxU2d4VVV2QdIBrwFBVV95cUxQODBKZG93cFNvd2U5VUpqUTFYcEhHcDczbXZUZ1A0cEwyZk9KNlZoVGV5eFMxSEZic3hCZzNHXy1XdTVkMjFITHh5azNhaVktMDRraWdNWHBCalhKSTF0S0hOUVdRZk9PaU5qVkpxTkpQMHpGNF9WSmhfN0psX3dna1R3a05Bb09rMXlKSW5pZjZVdzVtUzV3T1ZZNmh4RHcyTERoM3c4dlBWSE5BYWZ3?oc=5",
-          "source": "Google News",
-          "published": "Wed, 22 Jul 2026 22:00:03 GMT"
-        },
-        {
-          "title": "House Passes Defense Bill Amid Iran War Divide - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaVh6QzZ5VXBDZ3lmRkN0YUMwZG5qZXlaNUV2VWxTZk9uSGJkRVJWOFZtaXZKOURfeTZPOENFMXJmRFpOYU1Gd1dfOURDNHBLc2RhV2xseVJ4RnExNmlEckduUDlZLUw1d3pYa3ZwTHM0cTVqYVBiSVBrdEt1VUdEWGlfWnhSZw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 23 Jul 2026 08:25:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Free",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "OpenAI says rogue AI models broke free from human control. Some see it as a 'warning shot' - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOFd2MTdsODdaamt3MHZQVXJaN1R3czJxQmxuNXBWTUwyN3FaMkxUMEhZVVZJTkhSeFM4SGcybnB5c2tEeHloM1hBbk9wMFRhRWcyNEZab045QTNUbkxraG1xSFJFTTY3a1gwYTJ6aVpQMXZXeE9kY0xZc0pmTm1wcXp2ZzRnTEJqZHNQNjllTjd5TWJqYXk2R1dqdTk?oc=5",
-          "source": "Google News",
-          "published": "Thu, 23 Jul 2026 10:23:00 GMT"
-        },
-        {
-          "title": "Latest LeBron James Rumors Explain Why Star is 'Slow-Playing' Decision in Free Agency - Bleacher Report",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUkMxeklXRTZURzEzWEZfU3QwQ2hGMmtZV0FwYVRvd0lXcGw2MDNxVWhSd1F5QjJVOWFUSGxXcGpwdWtyTVQ0aGJwbFJxN3B1WEdmNlJsWThGSl9leEJIQXhUSlpoSDRZZUR6WWdrVlhsbVU2b3ZsTzlsZG53Tk5famVRMjl2ZmpZVGlWMnA3eGVKc2R1WGdmdEtQWEw0ZGlPMFhVRFJYMHl3czVfQWdOSkotczh2TDlpQzByZTRDZw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 23 Jul 2026 01:41:41 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Miss",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "iOS code could reportedly let Apple cut off apps when users miss iPhone payments - The Verge",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5sZHNtZ2xXNDFUemF0RU40SThPZE9ZVl9KSUxpRDRuU2ZqV0V1THFUNkFQN3BFZnJaVWZBUjBwNEd6TDR5cGltNngydnVYdERHSUdteVFfMTQ5ZmZveTZQcFdBbXphOUNSbTNUZnY3YUd1bEk?oc=5",
-          "source": "Google News",
-          "published": "Wed, 22 Jul 2026 19:13:21 GMT"
-        },
-        {
-          "title": "Ole Miss’ Pete Golding brings unfiltered candor to SEC media days - CNN",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84dmpYWTdPblpUT2UySnFhMFU3SW13bk1ETmV6QkVVX1IxeS1rc0g2V0F1V2UxNmlNaXVjR3VZYjU0WlZ5SUhKTm1SYVpadlpLZnE5cm0waWZXMXVFRUJIdU1BZUxScW5pbFp3SWZRM3lpRFpmU08wZ1pUWXpvZw?oc=5",
-          "source": "Google News",
-          "published": "Wed, 22 Jul 2026 23:18:39 GMT"
+          "published": "Thu, 23 Jul 2026 13:59:30 GMT"
         }
       ]
     },
@@ -261,75 +584,127 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump's nuclear deal with Saudis jettisons longstanding US demands - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01LXR4WDJaNjJPTXh4QnFZQTJiajl4QTBaQjF6M1V3MEtMWHhVaGx5bWhaNzdUbjR6d2ljNjA5UWZ4QzdNN0FYSEhPcDg2ZDJ1MkZRTXpsZlIwZw?oc=5",
+          "title": "Trump says the Saudi nuclear deal hinges on the kingdom normalizing ties with Israel - NPR",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82dkFvOGx1UVcwRHJPZ1BjSWNGWktMRWRGUHV3bXZBX3dqeXJHaF9aX1dFdVlqOG5lbGNXMG5oR0RRdDg3Wmk3ME1iNV96bnlhS1BtVTB0UjJJMGpwcWxGcFpzUmswU3FHSFgwSUhjVkNkZ3M?oc=5",
           "source": "Google News",
-          "published": "Thu, 23 Jul 2026 11:13:13 GMT"
+          "published": "Thu, 23 Jul 2026 13:59:30 GMT"
         }
       ]
     },
     {
-      "word": "Saudis",
+      "word": "Deal",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump's nuclear deal with Saudis jettisons longstanding US demands - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01LXR4WDJaNjJPTXh4QnFZQTJiajl4QTBaQjF6M1V3MEtMWHhVaGx5bWhaNzdUbjR6d2ljNjA5UWZ4QzdNN0FYSEhPcDg2ZDJ1MkZRTXpsZlIwZw?oc=5",
+          "title": "Trump says the Saudi nuclear deal hinges on the kingdom normalizing ties with Israel - NPR",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82dkFvOGx1UVcwRHJPZ1BjSWNGWktMRWRGUHV3bXZBX3dqeXJHaF9aX1dFdVlqOG5lbGNXMG5oR0RRdDg3Wmk3ME1iNV96bnlhS1BtVTB0UjJJMGpwcWxGcFpzUmswU3FHSFgwSUhjVkNkZ3M?oc=5",
           "source": "Google News",
-          "published": "Thu, 23 Jul 2026 11:13:13 GMT"
+          "published": "Thu, 23 Jul 2026 13:59:30 GMT"
         }
       ]
     },
     {
-      "word": "Jettisons",
+      "word": "Hinges",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump's nuclear deal with Saudis jettisons longstanding US demands - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01LXR4WDJaNjJPTXh4QnFZQTJiajl4QTBaQjF6M1V3MEtMWHhVaGx5bWhaNzdUbjR6d2ljNjA5UWZ4QzdNN0FYSEhPcDg2ZDJ1MkZRTXpsZlIwZw?oc=5",
+          "title": "Trump says the Saudi nuclear deal hinges on the kingdom normalizing ties with Israel - NPR",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82dkFvOGx1UVcwRHJPZ1BjSWNGWktMRWRGUHV3bXZBX3dqeXJHaF9aX1dFdVlqOG5lbGNXMG5oR0RRdDg3Wmk3ME1iNV96bnlhS1BtVTB0UjJJMGpwcWxGcFpzUmswU3FHSFgwSUhjVkNkZ3M?oc=5",
           "source": "Google News",
-          "published": "Thu, 23 Jul 2026 11:13:13 GMT"
+          "published": "Thu, 23 Jul 2026 13:59:30 GMT"
         }
       ]
     },
     {
-      "word": "Longstanding",
+      "word": "Kingdom",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump's nuclear deal with Saudis jettisons longstanding US demands - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01LXR4WDJaNjJPTXh4QnFZQTJiajl4QTBaQjF6M1V3MEtMWHhVaGx5bWhaNzdUbjR6d2ljNjA5UWZ4QzdNN0FYSEhPcDg2ZDJ1MkZRTXpsZlIwZw?oc=5",
+          "title": "Trump says the Saudi nuclear deal hinges on the kingdom normalizing ties with Israel - NPR",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82dkFvOGx1UVcwRHJPZ1BjSWNGWktMRWRGUHV3bXZBX3dqeXJHaF9aX1dFdVlqOG5lbGNXMG5oR0RRdDg3Wmk3ME1iNV96bnlhS1BtVTB0UjJJMGpwcWxGcFpzUmswU3FHSFgwSUhjVkNkZ3M?oc=5",
           "source": "Google News",
-          "published": "Thu, 23 Jul 2026 11:13:13 GMT"
+          "published": "Thu, 23 Jul 2026 13:59:30 GMT"
         }
       ]
     },
     {
-      "word": "Demands",
+      "word": "Normalizing",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump's nuclear deal with Saudis jettisons longstanding US demands - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01LXR4WDJaNjJPTXh4QnFZQTJiajl4QTBaQjF6M1V3MEtMWHhVaGx5bWhaNzdUbjR6d2ljNjA5UWZ4QzdNN0FYSEhPcDg2ZDJ1MkZRTXpsZlIwZw?oc=5",
+          "title": "Trump says the Saudi nuclear deal hinges on the kingdom normalizing ties with Israel - NPR",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82dkFvOGx1UVcwRHJPZ1BjSWNGWktMRWRGUHV3bXZBX3dqeXJHaF9aX1dFdVlqOG5lbGNXMG5oR0RRdDg3Wmk3ME1iNV96bnlhS1BtVTB0UjJJMGpwcWxGcFpzUmswU3FHSFgwSUhjVkNkZ3M?oc=5",
           "source": "Google News",
-          "published": "Thu, 23 Jul 2026 11:13:13 GMT"
+          "published": "Thu, 23 Jul 2026 13:59:30 GMT"
         }
       ]
     },
     {
-      "word": "Yemen",
+      "word": "Ties",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Yemen’s Houthis claim attacks on Red Sea tankers as US launches 12th night of strikes on Iran – Middle East crisis live - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZF8wUE0tWmJWbUZETktxaXZTbjVDWU1YODRlQ1kwN0JIMk1Lcjd6NHBHZlBpUGhELW9vZS1laWdVTzgtOGttaXg2MHo5SVg0S0cweElyMXBEUEc4ZFJDRVdNODJjTUctc1VLcGZ0RFh0TmxBRjlSbmx2Q2ZnaDRTcjF6VkcxTnpqZjFEOF9SU0Y4WktZdkVxZ1YzcmVLem1GejB4LTlodV95V3ZQTjhaa01YQVlJbnZGaUNMM0hIaGZ2dEJDaU0wSUdhOE10R20yLXdXYmk5Mkh2cE1wcVhnRDh4MA?oc=5",
+          "title": "Trump says the Saudi nuclear deal hinges on the kingdom normalizing ties with Israel - NPR",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82dkFvOGx1UVcwRHJPZ1BjSWNGWktMRWRGUHV3bXZBX3dqeXJHaF9aX1dFdVlqOG5lbGNXMG5oR0RRdDg3Wmk3ME1iNV96bnlhS1BtVTB0UjJJMGpwcWxGcFpzUmswU3FHSFgwSUhjVkNkZ3M?oc=5",
           "source": "Google News",
-          "published": "Thu, 23 Jul 2026 12:20:00 GMT"
+          "published": "Thu, 23 Jul 2026 13:59:30 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Israel",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump says the Saudi nuclear deal hinges on the kingdom normalizing ties with Israel - NPR",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82dkFvOGx1UVcwRHJPZ1BjSWNGWktMRWRGUHV3bXZBX3dqeXJHaF9aX1dFdVlqOG5lbGNXMG5oR0RRdDg3Wmk3ME1iNV96bnlhS1BtVTB0UjJJMGpwcWxGcFpzUmswU3FHSFgwSUhjVkNkZ3M?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 13:59:30 GMT"
+        }
+      ]
+    },
+    {
+      "word": "War",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Iran War Latest: Trump threatens Iran and Houthis with \"major military punishment\" as war spreads to Red Sea - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbnFoblVaeW56TWFYUWE1SGl5N0RtX2t1S25oOFprWVlLZjFPa0Nmdm5hWjdzcmNpTGJCejk5OUxnMF9Pbnh0SklXc3BRYlktaVR2cS1Mbk1FNVVhak5QakV0UEh2VXF5UEFJQ2ppWXZ1Um9FX2lYSEpiaUEtT3dFaEQ2N3lRdTRLSjZRTnZGWk1PUk1tWHUwOVdVZjc?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 13:51:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Latest",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Iran War Latest: Trump threatens Iran and Houthis with \"major military punishment\" as war spreads to Red Sea - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbnFoblVaeW56TWFYUWE1SGl5N0RtX2t1S25oOFprWVlLZjFPa0Nmdm5hWjdzcmNpTGJCejk5OUxnMF9Pbnh0SklXc3BRYlktaVR2cS1Mbk1FNVVhak5QakV0UEh2VXF5UEFJQ2ppWXZ1Um9FX2lYSEpiaUEtT3dFaEQ2N3lRdTRLSjZRTnZGWk1PUk1tWHUwOVdVZjc?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 13:51:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Threatens",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Iran War Latest: Trump threatens Iran and Houthis with \"major military punishment\" as war spreads to Red Sea - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbnFoblVaeW56TWFYUWE1SGl5N0RtX2t1S25oOFprWVlLZjFPa0Nmdm5hWjdzcmNpTGJCejk5OUxnMF9Pbnh0SklXc3BRYlktaVR2cS1Mbk1FNVVhak5QakV0UEh2VXF5UEFJQ2ppWXZ1Um9FX2lYSEpiaUEtT3dFaEQ2N3lRdTRLSjZRTnZGWk1PUk1tWHUwOVdVZjc?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 13:51:00 GMT"
         }
       ]
     },
@@ -339,283 +714,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Yemen’s Houthis claim attacks on Red Sea tankers as US launches 12th night of strikes on Iran – Middle East crisis live - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZF8wUE0tWmJWbUZETktxaXZTbjVDWU1YODRlQ1kwN0JIMk1Lcjd6NHBHZlBpUGhELW9vZS1laWdVTzgtOGttaXg2MHo5SVg0S0cweElyMXBEUEc4ZFJDRVdNODJjTUctc1VLcGZ0RFh0TmxBRjlSbmx2Q2ZnaDRTcjF6VkcxTnpqZjFEOF9SU0Y4WktZdkVxZ1YzcmVLem1GejB4LTlodV95V3ZQTjhaa01YQVlJbnZGaUNMM0hIaGZ2dEJDaU0wSUdhOE10R20yLXdXYmk5Mkh2cE1wcVhnRDh4MA?oc=5",
+          "title": "Iran War Latest: Trump threatens Iran and Houthis with \"major military punishment\" as war spreads to Red Sea - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbnFoblVaeW56TWFYUWE1SGl5N0RtX2t1S25oOFprWVlLZjFPa0Nmdm5hWjdzcmNpTGJCejk5OUxnMF9Pbnh0SklXc3BRYlktaVR2cS1Mbk1FNVVhak5QakV0UEh2VXF5UEFJQ2ppWXZ1Um9FX2lYSEpiaUEtT3dFaEQ2N3lRdTRLSjZRTnZGWk1PUk1tWHUwOVdVZjc?oc=5",
           "source": "Google News",
-          "published": "Thu, 23 Jul 2026 12:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Claim",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Yemen’s Houthis claim attacks on Red Sea tankers as US launches 12th night of strikes on Iran – Middle East crisis live - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZF8wUE0tWmJWbUZETktxaXZTbjVDWU1YODRlQ1kwN0JIMk1Lcjd6NHBHZlBpUGhELW9vZS1laWdVTzgtOGttaXg2MHo5SVg0S0cweElyMXBEUEc4ZFJDRVdNODJjTUctc1VLcGZ0RFh0TmxBRjlSbmx2Q2ZnaDRTcjF6VkcxTnpqZjFEOF9SU0Y4WktZdkVxZ1YzcmVLem1GejB4LTlodV95V3ZQTjhaa01YQVlJbnZGaUNMM0hIaGZ2dEJDaU0wSUdhOE10R20yLXdXYmk5Mkh2cE1wcVhnRDh4MA?oc=5",
-          "source": "Google News",
-          "published": "Thu, 23 Jul 2026 12:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Sea",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Yemen’s Houthis claim attacks on Red Sea tankers as US launches 12th night of strikes on Iran – Middle East crisis live - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZF8wUE0tWmJWbUZETktxaXZTbjVDWU1YODRlQ1kwN0JIMk1Lcjd6NHBHZlBpUGhELW9vZS1laWdVTzgtOGttaXg2MHo5SVg0S0cweElyMXBEUEc4ZFJDRVdNODJjTUctc1VLcGZ0RFh0TmxBRjlSbmx2Q2ZnaDRTcjF6VkcxTnpqZjFEOF9SU0Y4WktZdkVxZ1YzcmVLem1GejB4LTlodV95V3ZQTjhaa01YQVlJbnZGaUNMM0hIaGZ2dEJDaU0wSUdhOE10R20yLXdXYmk5Mkh2cE1wcVhnRDh4MA?oc=5",
-          "source": "Google News",
-          "published": "Thu, 23 Jul 2026 12:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Tankers",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Yemen’s Houthis claim attacks on Red Sea tankers as US launches 12th night of strikes on Iran – Middle East crisis live - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZF8wUE0tWmJWbUZETktxaXZTbjVDWU1YODRlQ1kwN0JIMk1Lcjd6NHBHZlBpUGhELW9vZS1laWdVTzgtOGttaXg2MHo5SVg0S0cweElyMXBEUEc4ZFJDRVdNODJjTUctc1VLcGZ0RFh0TmxBRjlSbmx2Q2ZnaDRTcjF6VkcxTnpqZjFEOF9SU0Y4WktZdkVxZ1YzcmVLem1GejB4LTlodV95V3ZQTjhaa01YQVlJbnZGaUNMM0hIaGZ2dEJDaU0wSUdhOE10R20yLXdXYmk5Mkh2cE1wcVhnRDh4MA?oc=5",
-          "source": "Google News",
-          "published": "Thu, 23 Jul 2026 12:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Night",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Yemen’s Houthis claim attacks on Red Sea tankers as US launches 12th night of strikes on Iran – Middle East crisis live - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZF8wUE0tWmJWbUZETktxaXZTbjVDWU1YODRlQ1kwN0JIMk1Lcjd6NHBHZlBpUGhELW9vZS1laWdVTzgtOGttaXg2MHo5SVg0S0cweElyMXBEUEc4ZFJDRVdNODJjTUctc1VLcGZ0RFh0TmxBRjlSbmx2Q2ZnaDRTcjF6VkcxTnpqZjFEOF9SU0Y4WktZdkVxZ1YzcmVLem1GejB4LTlodV95V3ZQTjhaa01YQVlJbnZGaUNMM0hIaGZ2dEJDaU0wSUdhOE10R20yLXdXYmk5Mkh2cE1wcVhnRDh4MA?oc=5",
-          "source": "Google News",
-          "published": "Thu, 23 Jul 2026 12:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Strikes",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Yemen’s Houthis claim attacks on Red Sea tankers as US launches 12th night of strikes on Iran – Middle East crisis live - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZF8wUE0tWmJWbUZETktxaXZTbjVDWU1YODRlQ1kwN0JIMk1Lcjd6NHBHZlBpUGhELW9vZS1laWdVTzgtOGttaXg2MHo5SVg0S0cweElyMXBEUEc4ZFJDRVdNODJjTUctc1VLcGZ0RFh0TmxBRjlSbmx2Q2ZnaDRTcjF6VkcxTnpqZjFEOF9SU0Y4WktZdkVxZ1YzcmVLem1GejB4LTlodV95V3ZQTjhaa01YQVlJbnZGaUNMM0hIaGZ2dEJDaU0wSUdhOE10R20yLXdXYmk5Mkh2cE1wcVhnRDh4MA?oc=5",
-          "source": "Google News",
-          "published": "Thu, 23 Jul 2026 12:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Middle",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Yemen’s Houthis claim attacks on Red Sea tankers as US launches 12th night of strikes on Iran – Middle East crisis live - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZF8wUE0tWmJWbUZETktxaXZTbjVDWU1YODRlQ1kwN0JIMk1Lcjd6NHBHZlBpUGhELW9vZS1laWdVTzgtOGttaXg2MHo5SVg0S0cweElyMXBEUEc4ZFJDRVdNODJjTUctc1VLcGZ0RFh0TmxBRjlSbmx2Q2ZnaDRTcjF6VkcxTnpqZjFEOF9SU0Y4WktZdkVxZ1YzcmVLem1GejB4LTlodV95V3ZQTjhaa01YQVlJbnZGaUNMM0hIaGZ2dEJDaU0wSUdhOE10R20yLXdXYmk5Mkh2cE1wcVhnRDh4MA?oc=5",
-          "source": "Google News",
-          "published": "Thu, 23 Jul 2026 12:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "East",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Yemen’s Houthis claim attacks on Red Sea tankers as US launches 12th night of strikes on Iran – Middle East crisis live - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZF8wUE0tWmJWbUZETktxaXZTbjVDWU1YODRlQ1kwN0JIMk1Lcjd6NHBHZlBpUGhELW9vZS1laWdVTzgtOGttaXg2MHo5SVg0S0cweElyMXBEUEc4ZFJDRVdNODJjTUctc1VLcGZ0RFh0TmxBRjlSbmx2Q2ZnaDRTcjF6VkcxTnpqZjFEOF9SU0Y4WktZdkVxZ1YzcmVLem1GejB4LTlodV95V3ZQTjhaa01YQVlJbnZGaUNMM0hIaGZ2dEJDaU0wSUdhOE10R20yLXdXYmk5Mkh2cE1wcVhnRDh4MA?oc=5",
-          "source": "Google News",
-          "published": "Thu, 23 Jul 2026 12:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Crisis",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Yemen’s Houthis claim attacks on Red Sea tankers as US launches 12th night of strikes on Iran – Middle East crisis live - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZF8wUE0tWmJWbUZETktxaXZTbjVDWU1YODRlQ1kwN0JIMk1Lcjd6NHBHZlBpUGhELW9vZS1laWdVTzgtOGttaXg2MHo5SVg0S0cweElyMXBEUEc4ZFJDRVdNODJjTUctc1VLcGZ0RFh0TmxBRjlSbmx2Q2ZnaDRTcjF6VkcxTnpqZjFEOF9SU0Y4WktZdkVxZ1YzcmVLem1GejB4LTlodV95V3ZQTjhaa01YQVlJbnZGaUNMM0hIaGZ2dEJDaU0wSUdhOE10R20yLXdXYmk5Mkh2cE1wcVhnRDh4MA?oc=5",
-          "source": "Google News",
-          "published": "Thu, 23 Jul 2026 12:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Deadly",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "After deadly shootings, police experts question how well ICE officers are vetted - NPR",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM2t1dS1GN0JXNno4RHFWTVBTS1NRMmpjTzd1Rm13WTViLVFqTkpXZHBoUmIwYUpxVlo2YmMydUxrSER2RWtfRmstV1h5cDM0RjE2TFhpeTVkQ29MMF9SdGFMaFRPR2E0TlZtY2dyT3Y3dTF3YWltRTB5SU5VVGU4OXdTbHdoZy0tMnhHSFdRTWhyUQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 23 Jul 2026 09:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Shootings",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "After deadly shootings, police experts question how well ICE officers are vetted - NPR",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM2t1dS1GN0JXNno4RHFWTVBTS1NRMmpjTzd1Rm13WTViLVFqTkpXZHBoUmIwYUpxVlo2YmMydUxrSER2RWtfRmstV1h5cDM0RjE2TFhpeTVkQ29MMF9SdGFMaFRPR2E0TlZtY2dyT3Y3dTF3YWltRTB5SU5VVGU4OXdTbHdoZy0tMnhHSFdRTWhyUQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 23 Jul 2026 09:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Experts",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "After deadly shootings, police experts question how well ICE officers are vetted - NPR",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM2t1dS1GN0JXNno4RHFWTVBTS1NRMmpjTzd1Rm13WTViLVFqTkpXZHBoUmIwYUpxVlo2YmMydUxrSER2RWtfRmstV1h5cDM0RjE2TFhpeTVkQ29MMF9SdGFMaFRPR2E0TlZtY2dyT3Y3dTF3YWltRTB5SU5VVGU4OXdTbHdoZy0tMnhHSFdRTWhyUQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 23 Jul 2026 09:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Question",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "After deadly shootings, police experts question how well ICE officers are vetted - NPR",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM2t1dS1GN0JXNno4RHFWTVBTS1NRMmpjTzd1Rm13WTViLVFqTkpXZHBoUmIwYUpxVlo2YmMydUxrSER2RWtfRmstV1h5cDM0RjE2TFhpeTVkQ29MMF9SdGFMaFRPR2E0TlZtY2dyT3Y3dTF3YWltRTB5SU5VVGU4OXdTbHdoZy0tMnhHSFdRTWhyUQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 23 Jul 2026 09:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Well",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "After deadly shootings, police experts question how well ICE officers are vetted - NPR",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM2t1dS1GN0JXNno4RHFWTVBTS1NRMmpjTzd1Rm13WTViLVFqTkpXZHBoUmIwYUpxVlo2YmMydUxrSER2RWtfRmstV1h5cDM0RjE2TFhpeTVkQ29MMF9SdGFMaFRPR2E0TlZtY2dyT3Y3dTF3YWltRTB5SU5VVGU4OXdTbHdoZy0tMnhHSFdRTWhyUQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 23 Jul 2026 09:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "ICE",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "After deadly shootings, police experts question how well ICE officers are vetted - NPR",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM2t1dS1GN0JXNno4RHFWTVBTS1NRMmpjTzd1Rm13WTViLVFqTkpXZHBoUmIwYUpxVlo2YmMydUxrSER2RWtfRmstV1h5cDM0RjE2TFhpeTVkQ29MMF9SdGFMaFRPR2E0TlZtY2dyT3Y3dTF3YWltRTB5SU5VVGU4OXdTbHdoZy0tMnhHSFdRTWhyUQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 23 Jul 2026 09:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Officers",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "After deadly shootings, police experts question how well ICE officers are vetted - NPR",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM2t1dS1GN0JXNno4RHFWTVBTS1NRMmpjTzd1Rm13WTViLVFqTkpXZHBoUmIwYUpxVlo2YmMydUxrSER2RWtfRmstV1h5cDM0RjE2TFhpeTVkQ29MMF9SdGFMaFRPR2E0TlZtY2dyT3Y3dTF3YWltRTB5SU5VVGU4OXdTbHdoZy0tMnhHSFdRTWhyUQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 23 Jul 2026 09:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Vetted",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "After deadly shootings, police experts question how well ICE officers are vetted - NPR",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM2t1dS1GN0JXNno4RHFWTVBTS1NRMmpjTzd1Rm13WTViLVFqTkpXZHBoUmIwYUpxVlo2YmMydUxrSER2RWtfRmstV1h5cDM0RjE2TFhpeTVkQ29MMF9SdGFMaFRPR2E0TlZtY2dyT3Y3dTF3YWltRTB5SU5VVGU4OXdTbHdoZy0tMnhHSFdRTWhyUQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 23 Jul 2026 09:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Wisconsin",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Wisconsin police officer shoots, kills man on city street near state Capitol in Madison - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUFgyenRKalJEWFp5VHRWRk8zbVJVMFBsMU9OUFg0QVFTdS0zQldrSnRSallGR0V3SmlHX0VZWFBuUjFpVDFwVm92N0M1RmNiYmdjMW5NNDNfQWtyeFBlZjNPdldOTlFaYTFod1V5RkxYZkR3U0VfOE8ybno0cEE0U0dWaEN6R3hIa3d1MDRKQXZ4NFhyR3Ywaw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 23 Jul 2026 04:01:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Officer",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Wisconsin police officer shoots, kills man on city street near state Capitol in Madison - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUFgyenRKalJEWFp5VHRWRk8zbVJVMFBsMU9OUFg0QVFTdS0zQldrSnRSallGR0V3SmlHX0VZWFBuUjFpVDFwVm92N0M1RmNiYmdjMW5NNDNfQWtyeFBlZjNPdldOTlFaYTFod1V5RkxYZkR3U0VfOE8ybno0cEE0U0dWaEN6R3hIa3d1MDRKQXZ4NFhyR3Ywaw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 23 Jul 2026 04:01:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Shoots",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Wisconsin police officer shoots, kills man on city street near state Capitol in Madison - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUFgyenRKalJEWFp5VHRWRk8zbVJVMFBsMU9OUFg0QVFTdS0zQldrSnRSallGR0V3SmlHX0VZWFBuUjFpVDFwVm92N0M1RmNiYmdjMW5NNDNfQWtyeFBlZjNPdldOTlFaYTFod1V5RkxYZkR3U0VfOE8ybno0cEE0U0dWaEN6R3hIa3d1MDRKQXZ4NFhyR3Ywaw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 23 Jul 2026 04:01:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Kills",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Wisconsin police officer shoots, kills man on city street near state Capitol in Madison - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUFgyenRKalJEWFp5VHRWRk8zbVJVMFBsMU9OUFg0QVFTdS0zQldrSnRSallGR0V3SmlHX0VZWFBuUjFpVDFwVm92N0M1RmNiYmdjMW5NNDNfQWtyeFBlZjNPdldOTlFaYTFod1V5RkxYZkR3U0VfOE8ybno0cEE0U0dWaEN6R3hIa3d1MDRKQXZ4NFhyR3Ywaw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 23 Jul 2026 04:01:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "man",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Wisconsin police officer shoots, kills man on city street near state Capitol in Madison - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUFgyenRKalJEWFp5VHRWRk8zbVJVMFBsMU9OUFg0QVFTdS0zQldrSnRSallGR0V3SmlHX0VZWFBuUjFpVDFwVm92N0M1RmNiYmdjMW5NNDNfQWtyeFBlZjNPdldOTlFaYTFod1V5RkxYZkR3U0VfOE8ybno0cEE0U0dWaEN6R3hIa3d1MDRKQXZ4NFhyR3Ywaw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 23 Jul 2026 04:01:00 GMT"
+          "published": "Thu, 23 Jul 2026 13:51:00 GMT"
         }
       ]
     }
