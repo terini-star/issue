@@ -1,8 +1,65 @@
 {
   "language": "ko",
-  "last_updated": 1784758242.116136,
+  "last_updated": 1784765252.1595201,
   "count": 40,
   "trends": [
+    {
+      "word": "이란",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보] 미군, 이란에 12일째 공습 개시…이란, 중동 에너지시설 공격 경고 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85bi03Tkt5U1EtaDZiUkpxQmd5RVRRUE5naTdhcUdEbkdVM3VBd2wzXzM2Q0VYNTg3UXEzX19pUzYxeWRQZUlNV3ZsNEF6SXJrSGREVlZGOFRCekhKNHA5bjQtUU5zV0dKQ0F1ZWZvSmdkeVk?oc=5",
+          "source": "Google News",
+          "published": "Wed, 22 Jul 2026 22:52:00 GMT"
+        },
+        {
+          "title": "이란 협상단장 \"우리가 석유 못 팔면 아무도 못 판다\" - TBS 서울",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPREVBcVRKa1R2a3RzYVVzOVM1SUhnNFdGUFhSOHlWTXpOTzZLaU1JaThrNjFpY3hwNDBxSTBqYXZYb2wyZmJkOWo4SVZpdXpLemUyOWoxZTNleUVtOEh2QlVYY2pyeE9BeUlHcEJXZ3B1Z081SW43WU1QSDFXNVVERnY1YW4?oc=5",
+          "source": "Google News",
+          "published": "Wed, 22 Jul 2026 22:29:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "중동",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보] 미군, 이란에 12일째 공습 개시…이란, 중동 에너지시설 공격 경고 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85bi03Tkt5U1EtaDZiUkpxQmd5RVRRUE5naTdhcUdEbkdVM3VBd2wzXzM2Q0VYNTg3UXEzX19pUzYxeWRQZUlNV3ZsNEF6SXJrSGREVlZGOFRCekhKNHA5bjQtUU5zV0dKQ0F1ZWZvSmdkeVk?oc=5",
+          "source": "Google News",
+          "published": "Wed, 22 Jul 2026 22:52:00 GMT"
+        },
+        {
+          "title": "美 \"사우디와 평화적 원자력 협정 체결\"… 중동 정세에 파장 예고 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb3YxSTltVGJpR2p1RG1wMk9GTm1uVExUcXk0dmpTRy1PemNiYU5mRFQyUXFFY0tERnNPV3BYanR2ZlVMcnpTNFB1S1Rrc05JbmptYThlN2Frcndzdjk4Nkl6blBjMnZGcVZDX1o0WTg3c3JpZWVvZV9Lb2xKZlhVME5UNnA?oc=5",
+          "source": "Google News",
+          "published": "Wed, 22 Jul 2026 22:01:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "공격",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보] 미군, 이란에 12일째 공습 개시…이란, 중동 에너지시설 공격 경고 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85bi03Tkt5U1EtaDZiUkpxQmd5RVRRUE5naTdhcUdEbkdVM3VBd2wzXzM2Q0VYNTg3UXEzX19pUzYxeWRQZUlNV3ZsNEF6SXJrSGREVlZGOFRCekhKNHA5bjQtUU5zV0dKQ0F1ZWZvSmdkeVk?oc=5",
+          "source": "Google News",
+          "published": "Wed, 22 Jul 2026 22:52:00 GMT"
+        },
+        {
+          "title": "사우디 인근 홍해 유조선 피격‥후티 \"봉쇄위반 선박 공격\" 주장 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkV01LbXYxU254SVR5TDNPMTVWV0l4Nl90YVdSS0Z4R2lIcC01Snp6NnFROFJRbFRFOGNPY2I4WU92ZEh1cklnTFJEZ0hmOHIyblNRbjJrQzR4MEpwOFhaMUl0Y3Awemw1U2cwbE81TFByNU810gF0QVVfeXFMTnRGVzNYUVNscWduSkdjXzkwd0Yta2VNZnhEZ3BWOHAyemNUa0pvVTVmMDBXcEhqLVB6dXhKam9sUTBOWVkzaXppNl9IVE1vNnVnZUFmRUJfYUp0VmRISUpnYjhXRGpnNjFxWjFqZlBTT0I5N00?oc=5",
+          "source": "Google News",
+          "published": "Wed, 22 Jul 2026 22:52:08 GMT"
+        }
+      ]
+    },
     {
       "word": "강력",
       "count": 2,
@@ -17,59 +74,97 @@
       ]
     },
     {
-      "word": "만에",
+      "word": "차기",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "인천 쿠팡물류센터 불 나흘 만에 완진‥109시간여 만 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BSmZNeTUwYlJXM09TdUVsOXIxTk1DeHgxVXlLVm04clFfeE9rTzIzRWNHckVTZEVkam5UMWEzMXZYQWFtRkI3UV9oYng2RW9FMjV5aHZpYWgtN1VoX2cwcV9JYnhRYU5OVXJLajJLTGY5MTlwVDF30gF3QVVfeXFMUDk1bU41WjBmT0k4V29fbHRwejdJQVZFbXpXYTNyLXJ6eWxNUHc4eG5UOWdLZmY2dUdndENQWmc0LTZBOG5MN3lJOG9hbFZVYTBaQW1rZ0NFajdDc1lweEE1akFaSTR4R3JKdURFWGcwd0F6bDF2TW8?oc=5",
+          "title": "민주당 차기 당대표 선호도…정청래 33.7%, 김민석 22.0%, 송영길 11.7% - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzdWNEUnBzMEIzVUppNDdkbkRLMFNQMElHSUE5aEQ1X1hvcklfd3JiUlE4YVBCNkYtYWlRS0MwYzk3ZTRiemdoS1M2ZDktTVNteEJjbXdZR24yQdIBX0FVX3lxTE9fbnl2WWNoa0t0N1pOcld5ckpiOXJfUXVSRzE5dnQ2cEozdzcwQkcyT25aYUc5M1hrSWNsNE1tT0ZlZnFLNnRIMUVwRkVENTVoRG5makstSHIxMmI0QnhZ?oc=5",
           "source": "Google News",
-          "published": "Wed, 22 Jul 2026 11:59:55 GMT"
+          "published": "Wed, 22 Jul 2026 23:14:00 GMT"
         },
         {
-          "title": "“너 아무도 몰라→대배우” 강훈, 4년 만에 태도 바뀐 친누나 폭로 (‘유인라디오’) - 조선비즈 - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZjEtRndpTUVORlVGVU9DalNuVU9ubnlpek1nOU9WcFoxbmZFdUtxUHpVRlFXOXpKcWdiUGZvVU5zZlhsSTUwdF8zbFM3M3VIRWRWR0VCMlkzeDlQQmMzMTFCbjFIS3hYTG9SckJVVFNrYVRHV3BobHgxeXFNWmIxa1JZNFJFMFdqZi02di1PTnRrSE3SAacBQVVfeXFMT2EteWZyTW9semN2TExZWGgyWXg4Qm5rbnEwVDI5bHhPb1NIRlFwZ0c5OHVLVDlvcTR0ckpiYW9nX3QtLUdVbEZSSzNIcUU1dkJfaFlsVkhvZEoyS1B2eE1haVZfdlgxYXkteHI1MzNvbEo0aXlfdmpiOWFjM3o0OHNFc1ZYcThYdXhfQldhY3VBR3hNTEZzaDhFRkNvVlIyaDhvQkFVY2M?oc=5",
+          "title": "\"대한민국 차기 사령탑 유력 후보\"…아르헨 잡았던 레나르 감독 인기 폭발, 남아공·세네갈·알제리도 관심 - 네이트",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBOZFNEUllxc0Q1LWJZbTZpTE9qZ1VzSFpWTlBpeE9IbHpnUi1uUHhZM2ZHWWRvWk5lSklUU1ZpczBzdENDUGJ4dU5qX0ZnRjQ4UVRRbm0yX3NFNDRu?oc=5",
           "source": "Google News",
-          "published": "Wed, 22 Jul 2026 10:52:00 GMT"
+          "published": "Wed, 22 Jul 2026 22:35:00 GMT"
         }
       ]
     },
     {
-      "word": "국방부",
-      "count": 2,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "[단독] 자운대 통합 사관학교 강행... 국방부, 용역 결과와 반대로 갔다 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSkdsejA5SGk3T1NxZ3hUU3B5ZmtnN05rY3lKOUs0TXlDczlvVmpBbVJCTmI1bnJEUlJVSWxFYmJ3b0d6Sk8xRURBSVdlM0NKZ19vbURaTmpnd1lnYS1mTV9SNk1YZU1PdUhXRV9VWjg1R0VKNzN2Yndvdlp1NnVOVFRmRkVvSEpwOUp4allTdks3UQ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 22 Jul 2026 06:22:37 GMT"
-        },
-        {
-          "title": "미사일 부족 모르고 이란전 재개했나…미 국방부가 백악관에 숨겼다? - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpcWl0cDBRVnJQU3VaREZ5Q1ZMcnlaM0w4blNMeXNCS2N4WUNIckY0Zlkzay1kRGh4b3BOODFVdWZuaEdRYklyU1FSMEtsbDVfV1BXaC1ydm1EVW1BMjhzTjgzRVhndERta2FQZWJnWUlqY2s?oc=5",
-          "source": "Google News",
-          "published": "Wed, 22 Jul 2026 15:46:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "발견",
+      "word": "사우디",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Aβ 축적 촉진 원인물질 발견 - 의학신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43T0p1M0EtUXhKRVV5NThpU0JLYWYya09IN2hOZDZUSHVzX2xiYm5mSXNTOFVQaF85NlFTNHFLQ004Wm5FNmVkU3JNVG5ydnpVWDlEdnZqcW5WY2pXam5VVm5Cb2R4cG9WUFE?oc=5",
+          "title": "美 \"사우디와 평화적 원자력 협정 체결\"… 중동 정세에 파장 예고 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb3YxSTltVGJpR2p1RG1wMk9GTm1uVExUcXk0dmpTRy1PemNiYU5mRFQyUXFFY0tERnNPV3BYanR2ZlVMcnpTNFB1S1Rrc05JbmptYThlN2Frcndzdjk4Nkl6blBjMnZGcVZDX1o0WTg3c3JpZWVvZV9Lb2xKZlhVME5UNnA?oc=5",
           "source": "Google News",
-          "published": "Tue, 21 Jul 2026 21:00:00 GMT"
+          "published": "Wed, 22 Jul 2026 22:01:00 GMT"
         },
         {
-          "title": "치매 치료 한발 더 가까이···IBS, 뇌 노폐물 '첫 배출' 통로 발견 - 헬로디디",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HTmlHUk9NcWtSb0RxYTVOdkdXTU43dVNzY3JnYnJMU0ZIWWVveVpzYXJrREdVelVHeE1IbnhvTGxmNDg1dTd6ZjVQd0gxcUVDcXM0bUY4bVcwZjBCSERPWjc5aEF5cGU2LWc?oc=5",
+          "title": "사우디 인근 홍해 유조선 피격‥후티 \"봉쇄위반 선박 공격\" 주장 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkV01LbXYxU254SVR5TDNPMTVWV0l4Nl90YVdSS0Z4R2lIcC01Snp6NnFROFJRbFRFOGNPY2I4WU92ZEh1cklnTFJEZ0hmOHIyblNRbjJrQzR4MEpwOFhaMUl0Y3Awemw1U2cwbE81TFByNU810gF0QVVfeXFMTnRGVzNYUVNscWduSkdjXzkwd0Yta2VNZnhEZ3BWOHAyemNUa0pvVTVmMDBXcEhqLVB6dXhKam9sUTBOWVkzaXppNl9IVE1vNnVnZUFmRUJfYUp0VmRISUpnYjhXRGpnNjFxWjFqZlBTT0I5N00?oc=5",
           "source": "Google News",
-          "published": "Wed, 22 Jul 2026 08:30:00 GMT"
+          "published": "Wed, 22 Jul 2026 22:52:08 GMT"
+        }
+      ]
+    },
+    {
+      "word": "예고",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "美 \"사우디와 평화적 원자력 협정 체결\"… 중동 정세에 파장 예고 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb3YxSTltVGJpR2p1RG1wMk9GTm1uVExUcXk0dmpTRy1PemNiYU5mRFQyUXFFY0tERnNPV3BYanR2ZlVMcnpTNFB1S1Rrc05JbmptYThlN2Frcndzdjk4Nkl6blBjMnZGcVZDX1o0WTg3c3JpZWVvZV9Lb2xKZlhVME5UNnA?oc=5",
+          "source": "Google News",
+          "published": "Wed, 22 Jul 2026 22:01:00 GMT"
+        },
+        {
+          "title": "'4인조' 뉴진스 예고, 다니엘은 법정行…331억 소송 4차전 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrN0VieDlyRC1Ic2ltMDQzVEl3U1JrQzBVdFZrSUd6OTdYZzZrYlNJNzVPcVk3Y0sxNktXRTZ4SHJhZWhvd2h0d3pJb0RseVRPOGVzQkJkdDBtdw?oc=5",
+          "source": "Google News",
+          "published": "Wed, 22 Jul 2026 22:42:04 GMT"
+        }
+      ]
+    },
+    {
+      "word": "2분기",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘반도체 수출 호조’ 2분기 경제성장률 0.6%··· 전망치 상회 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Ham9yMHRFb3hlVDU3WG9fR2pOVEZYZ1JmeGpBWnpGQ21mRXl5YjBQSWNIampXYnc0TWI3dklHc3NrWVJid2Y4eFVueDN3Z0pMclh5QVgxdzJvQdIBX0FVX3lxTE5rLVFjaElFNEVrd2hWaHpfcDBkYlJzajE1WFg0bHgtUU1zMFJHUkJDWHlWRmQyS1ZnamxXdHdhajVWVjhQczc0OFgzblJJZGJXZmpVQVBxbDhRVEd4eEFN?oc=5",
+          "source": "Google News",
+          "published": "Wed, 22 Jul 2026 23:03:00 GMT"
+        },
+        {
+          "title": "알파벳, 2분기 '어닝 서프라이즈'‥클라우드 매출 급증 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45Umo1ejBEM25wV0pkZndfLU1JMGF5WTBsN3BxVWtXZ1hmQnI1RDB5QmdUQzJWUDc3eWRRWW5LSzVhSkxxSXBxbXRnUTk2ZDBMam53X2ZkZV9BZEhCQURVdHRlNHhxbHBDUjVSRVQyRE9RdllV0gF0QVVfeXFMUGtvQVVldXpOcU9VVzBoWGJBU1NGNDIzSUtsZG1RbUF6Ny0xeWdya3RFN2c0Y2YxZmRWUHd1X2JHcDdFODV0bmg0SFpoWHVxSXRsNUU1YnAtSEQ0eXFiTmZCQWMyYmdkOVpRNFVnN2JfVHVOa2s?oc=5",
+          "source": "Google News",
+          "published": "Wed, 22 Jul 2026 21:21:24 GMT"
+        }
+      ]
+    },
+    {
+      "word": "감독",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[핌in잠실] LG 염경엽 감독 \"카라스코 MLB 112승 경험 무시 못해\"…선수들 성장도 기대 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12S213enNackFnY0p6UlBSVmRYc0lkRHNzOWtyWnBDTVVmLURQS2JJLXNSVjNaU3NMaXJFemJQR2FTdzJNLWFQWXlCdzFULV92eXlFQ1FoMGlCZw?oc=5",
+          "source": "Google News",
+          "published": "Wed, 22 Jul 2026 21:48:00 GMT"
+        },
+        {
+          "title": "\"대한민국 차기 사령탑 유력 후보\"…아르헨 잡았던 레나르 감독 인기 폭발, 남아공·세네갈·알제리도 관심 - 네이트",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBOZFNEUllxc0Q1LWJZbTZpTE9qZ1VzSFpWTlBpeE9IbHpnUi1uUHhZM2ZHWWRvWk5lSklUU1ZpczBzdENDUGJ4dU5qX0ZnRjQ4UVRRbm0yX3NFNDRu?oc=5",
+          "source": "Google News",
+          "published": "Wed, 22 Jul 2026 22:35:00 GMT"
         }
       ]
     },
@@ -79,16 +174,16 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "폐결핵 환자, 알부민 수치 낮으면 중환자실 갈 위험 17.8배↑ - 재활뉴스",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05ajNfTm1ZTVllck5WZ2d6UkpEN1ZqelZJaTJxLUozUVllREJESXdybUY1SURPMHpWTWNWbUFJVWM2UHdLLWxTVTV3eUxhbGNKeVZtRWtNQ0s1WTBtckc4WnlreDNJTVRyTXN3?oc=5",
+          "title": "폐결핵 환자, 알부민 수치 낮으면 중환자실 전원 위험 17.8배↑ - 메디칼업저버",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wVG1JaG1aOVlDOFljeHhfcFN5VmNvSVpMdlJrN3FmQ2ZSbEJmX3V5dEdRVGtwUUJCVEwxUkhIUzBfOFBqbjFWaXVPVF9BOXY2aEhINE9wbkM5Skk5Y2pFUkR4YmxiSnhZY2hn?oc=5",
           "source": "Google News",
-          "published": "Wed, 22 Jul 2026 03:01:26 GMT"
+          "published": "Wed, 22 Jul 2026 23:01:55 GMT"
         },
         {
-          "title": "[건강정보] 증상 없어 더 위험한 간암, 지방간도 간암으로 이어질 수 있어 - 의사신문",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqVFdiNm5jYWoyWi15cm9NWklyc3ZPbEVFNWN5bHpjbDBoYWpWeDFwcFI2TzJmZXRUbmRpV3pDbEVNR1BHdGxuMXp5OWxkcXlUM1hlSzhSSFc3bjdfd2h6eDhYUExrS2FxTEZUbjZwMA?oc=5",
+          "title": "증상 없어 더 위험한 간암, 지방간도 간암으로 이어질 수 있어 - 재활뉴스",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oVGdrX01SdDhZYWFDTXNtZVRtei1NMU0zQW1XX0lIdDFxYnhNME1HMnV6Z0EzSjhwM0tDUGY5UVNobmF0VzdLQmpWUDJhSW85S0g2aXBIUGNsSVZOVzBIcnZycWF1aDJIUm5N?oc=5",
           "source": "Google News",
-          "published": "Wed, 22 Jul 2026 06:03:20 GMT"
+          "published": "Wed, 22 Jul 2026 20:30:00 GMT"
         }
       ]
     },
@@ -98,23 +193,88 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "[건강정보] 증상 없어 더 위험한 간암, 지방간도 간암으로 이어질 수 있어 - 의사신문",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqVFdiNm5jYWoyWi15cm9NWklyc3ZPbEVFNWN5bHpjbDBoYWpWeDFwcFI2TzJmZXRUbmRpV3pDbEVNR1BHdGxuMXp5OWxkcXlUM1hlSzhSSFc3bjdfd2h6eDhYUExrS2FxTEZUbjZwMA?oc=5",
+          "title": "증상 없어 더 위험한 간암, 지방간도 간암으로 이어질 수 있어 - 재활뉴스",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oVGdrX01SdDhZYWFDTXNtZVRtei1NMU0zQW1XX0lIdDFxYnhNME1HMnV6Z0EzSjhwM0tDUGY5UVNobmF0VzdLQmpWUDJhSW85S0g2aXBIUGNsSVZOVzBIcnZycWF1aDJIUm5N?oc=5",
           "source": "Google News",
-          "published": "Wed, 22 Jul 2026 06:03:20 GMT"
+          "published": "Wed, 22 Jul 2026 20:30:00 GMT"
         }
       ]
     },
     {
-      "word": "법원",
+      "word": "미군",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "법원 “오세훈, 죄질 나빠 공직 상실형”…이르면 내년 1월 대법 판결 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xQlBiU05BR2ladGhGSkZ2Z0N5blg3V21hQmdVcnlld0pvUnBycDdzYWNpN2NXZy1BRjVFbVRwamhqeGdqeUJDcVRxM3hHdXQ1Mk9PQWFjbnNXbnRrQmM4Rkh2TTdJdG5PaFNzY0h3eGx5QQ?oc=5",
+          "title": "[속보] 미군, 이란에 12일째 공습 개시…이란, 중동 에너지시설 공격 경고 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85bi03Tkt5U1EtaDZiUkpxQmd5RVRRUE5naTdhcUdEbkdVM3VBd2wzXzM2Q0VYNTg3UXEzX19pUzYxeWRQZUlNV3ZsNEF6SXJrSGREVlZGOFRCekhKNHA5bjQtUU5zV0dKQ0F1ZWZvSmdkeVk?oc=5",
           "source": "Google News",
-          "published": "Wed, 22 Jul 2026 15:33:00 GMT"
+          "published": "Wed, 22 Jul 2026 22:52:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "12일째",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보] 미군, 이란에 12일째 공습 개시…이란, 중동 에너지시설 공격 경고 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85bi03Tkt5U1EtaDZiUkpxQmd5RVRRUE5naTdhcUdEbkdVM3VBd2wzXzM2Q0VYNTg3UXEzX19pUzYxeWRQZUlNV3ZsNEF6SXJrSGREVlZGOFRCekhKNHA5bjQtUU5zV0dKQ0F1ZWZvSmdkeVk?oc=5",
+          "source": "Google News",
+          "published": "Wed, 22 Jul 2026 22:52:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "공습",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보] 미군, 이란에 12일째 공습 개시…이란, 중동 에너지시설 공격 경고 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85bi03Tkt5U1EtaDZiUkpxQmd5RVRRUE5naTdhcUdEbkdVM3VBd2wzXzM2Q0VYNTg3UXEzX19pUzYxeWRQZUlNV3ZsNEF6SXJrSGREVlZGOFRCekhKNHA5bjQtUU5zV0dKQ0F1ZWZvSmdkeVk?oc=5",
+          "source": "Google News",
+          "published": "Wed, 22 Jul 2026 22:52:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "개시이란",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보] 미군, 이란에 12일째 공습 개시…이란, 중동 에너지시설 공격 경고 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85bi03Tkt5U1EtaDZiUkpxQmd5RVRRUE5naTdhcUdEbkdVM3VBd2wzXzM2Q0VYNTg3UXEzX19pUzYxeWRQZUlNV3ZsNEF6SXJrSGREVlZGOFRCekhKNHA5bjQtUU5zV0dKQ0F1ZWZvSmdkeVk?oc=5",
+          "source": "Google News",
+          "published": "Wed, 22 Jul 2026 22:52:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "에너지시설",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보] 미군, 이란에 12일째 공습 개시…이란, 중동 에너지시설 공격 경고 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85bi03Tkt5U1EtaDZiUkpxQmd5RVRRUE5naTdhcUdEbkdVM3VBd2wzXzM2Q0VYNTg3UXEzX19pUzYxeWRQZUlNV3ZsNEF6SXJrSGREVlZGOFRCekhKNHA5bjQtUU5zV0dKQ0F1ZWZvSmdkeVk?oc=5",
+          "source": "Google News",
+          "published": "Wed, 22 Jul 2026 22:52:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "경고",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보] 미군, 이란에 12일째 공습 개시…이란, 중동 에너지시설 공격 경고 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85bi03Tkt5U1EtaDZiUkpxQmd5RVRRUE5naTdhcUdEbkdVM3VBd2wzXzM2Q0VYNTg3UXEzX19pUzYxeWRQZUlNV3ZsNEF6SXJrSGREVlZGOFRCekhKNHA5bjQtUU5zV0dKQ0F1ZWZvSmdkeVk?oc=5",
+          "source": "Google News",
+          "published": "Wed, 22 Jul 2026 22:52:00 GMT"
         }
       ]
     },
@@ -124,231 +284,244 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "법원 “오세훈, 죄질 나빠 공직 상실형”…이르면 내년 1월 대법 판결 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xQlBiU05BR2ladGhGSkZ2Z0N5blg3V21hQmdVcnlld0pvUnBycDdzYWNpN2NXZy1BRjVFbVRwamhqeGdqeUJDcVRxM3hHdXQ1Mk9PQWFjbnNXbnRrQmM4Rkh2TTdJdG5PaFNzY0h3eGx5QQ?oc=5",
+          "title": "오세훈 벌금 1000만원 선고 ‘트리거’는 명태균 진술···“100%는 아니지만 일부 객관적 정황” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RZW9XVlg2UlBUQTE2ZDMxRjdWVGhZekxJcnpzX1FVU0w0eXlsQThiQXgyQTN0eFRQQVFKZGJCaTdSMkZvbnBYSGt4RlJoZXQ0eXZ1b3F6S3d4QdIBX0FVX3lxTE43ZGh2el9fak1kVmtiMWVKWU9RSVRMWVZQR19aSUV6YTFieTl4Q3JMUXRYYllpTHc2aHE3aVptMGMyTmNBUmFuR1piYzBwMWU4VHJVRGpqRDNEVkc5ZWpN?oc=5",
           "source": "Google News",
-          "published": "Wed, 22 Jul 2026 15:33:00 GMT"
+          "published": "Wed, 22 Jul 2026 10:22:00 GMT"
         }
       ]
     },
     {
-      "word": "죄질",
+      "word": "벌금",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "법원 “오세훈, 죄질 나빠 공직 상실형”…이르면 내년 1월 대법 판결 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xQlBiU05BR2ladGhGSkZ2Z0N5blg3V21hQmdVcnlld0pvUnBycDdzYWNpN2NXZy1BRjVFbVRwamhqeGdqeUJDcVRxM3hHdXQ1Mk9PQWFjbnNXbnRrQmM4Rkh2TTdJdG5PaFNzY0h3eGx5QQ?oc=5",
+          "title": "오세훈 벌금 1000만원 선고 ‘트리거’는 명태균 진술···“100%는 아니지만 일부 객관적 정황” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RZW9XVlg2UlBUQTE2ZDMxRjdWVGhZekxJcnpzX1FVU0w0eXlsQThiQXgyQTN0eFRQQVFKZGJCaTdSMkZvbnBYSGt4RlJoZXQ0eXZ1b3F6S3d4QdIBX0FVX3lxTE43ZGh2el9fak1kVmtiMWVKWU9RSVRMWVZQR19aSUV6YTFieTl4Q3JMUXRYYllpTHc2aHE3aVptMGMyTmNBUmFuR1piYzBwMWU4VHJVRGpqRDNEVkc5ZWpN?oc=5",
           "source": "Google News",
-          "published": "Wed, 22 Jul 2026 15:33:00 GMT"
+          "published": "Wed, 22 Jul 2026 10:22:00 GMT"
         }
       ]
     },
     {
-      "word": "나빠",
+      "word": "1000만원",
       "count": 1,
-      "category": "NOUN",
+      "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "법원 “오세훈, 죄질 나빠 공직 상실형”…이르면 내년 1월 대법 판결 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xQlBiU05BR2ladGhGSkZ2Z0N5blg3V21hQmdVcnlld0pvUnBycDdzYWNpN2NXZy1BRjVFbVRwamhqeGdqeUJDcVRxM3hHdXQ1Mk9PQWFjbnNXbnRrQmM4Rkh2TTdJdG5PaFNzY0h3eGx5QQ?oc=5",
+          "title": "오세훈 벌금 1000만원 선고 ‘트리거’는 명태균 진술···“100%는 아니지만 일부 객관적 정황” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RZW9XVlg2UlBUQTE2ZDMxRjdWVGhZekxJcnpzX1FVU0w0eXlsQThiQXgyQTN0eFRQQVFKZGJCaTdSMkZvbnBYSGt4RlJoZXQ0eXZ1b3F6S3d4QdIBX0FVX3lxTE43ZGh2el9fak1kVmtiMWVKWU9RSVRMWVZQR19aSUV6YTFieTl4Q3JMUXRYYllpTHc2aHE3aVptMGMyTmNBUmFuR1piYzBwMWU4VHJVRGpqRDNEVkc5ZWpN?oc=5",
           "source": "Google News",
-          "published": "Wed, 22 Jul 2026 15:33:00 GMT"
+          "published": "Wed, 22 Jul 2026 10:22:00 GMT"
         }
       ]
     },
     {
-      "word": "공직",
+      "word": "선고",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "법원 “오세훈, 죄질 나빠 공직 상실형”…이르면 내년 1월 대법 판결 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xQlBiU05BR2ladGhGSkZ2Z0N5blg3V21hQmdVcnlld0pvUnBycDdzYWNpN2NXZy1BRjVFbVRwamhqeGdqeUJDcVRxM3hHdXQ1Mk9PQWFjbnNXbnRrQmM4Rkh2TTdJdG5PaFNzY0h3eGx5QQ?oc=5",
+          "title": "오세훈 벌금 1000만원 선고 ‘트리거’는 명태균 진술···“100%는 아니지만 일부 객관적 정황” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RZW9XVlg2UlBUQTE2ZDMxRjdWVGhZekxJcnpzX1FVU0w0eXlsQThiQXgyQTN0eFRQQVFKZGJCaTdSMkZvbnBYSGt4RlJoZXQ0eXZ1b3F6S3d4QdIBX0FVX3lxTE43ZGh2el9fak1kVmtiMWVKWU9RSVRMWVZQR19aSUV6YTFieTl4Q3JMUXRYYllpTHc2aHE3aVptMGMyTmNBUmFuR1piYzBwMWU4VHJVRGpqRDNEVkc5ZWpN?oc=5",
           "source": "Google News",
-          "published": "Wed, 22 Jul 2026 15:33:00 GMT"
+          "published": "Wed, 22 Jul 2026 10:22:00 GMT"
         }
       ]
     },
     {
-      "word": "상실형이르면",
+      "word": "트리거",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "법원 “오세훈, 죄질 나빠 공직 상실형”…이르면 내년 1월 대법 판결 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xQlBiU05BR2ladGhGSkZ2Z0N5blg3V21hQmdVcnlld0pvUnBycDdzYWNpN2NXZy1BRjVFbVRwamhqeGdqeUJDcVRxM3hHdXQ1Mk9PQWFjbnNXbnRrQmM4Rkh2TTdJdG5PaFNzY0h3eGx5QQ?oc=5",
+          "title": "오세훈 벌금 1000만원 선고 ‘트리거’는 명태균 진술···“100%는 아니지만 일부 객관적 정황” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RZW9XVlg2UlBUQTE2ZDMxRjdWVGhZekxJcnpzX1FVU0w0eXlsQThiQXgyQTN0eFRQQVFKZGJCaTdSMkZvbnBYSGt4RlJoZXQ0eXZ1b3F6S3d4QdIBX0FVX3lxTE43ZGh2el9fak1kVmtiMWVKWU9RSVRMWVZQR19aSUV6YTFieTl4Q3JMUXRYYllpTHc2aHE3aVptMGMyTmNBUmFuR1piYzBwMWU4VHJVRGpqRDNEVkc5ZWpN?oc=5",
           "source": "Google News",
-          "published": "Wed, 22 Jul 2026 15:33:00 GMT"
+          "published": "Wed, 22 Jul 2026 10:22:00 GMT"
         }
       ]
     },
     {
-      "word": "내년",
+      "word": "명태균",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "법원 “오세훈, 죄질 나빠 공직 상실형”…이르면 내년 1월 대법 판결 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xQlBiU05BR2ladGhGSkZ2Z0N5blg3V21hQmdVcnlld0pvUnBycDdzYWNpN2NXZy1BRjVFbVRwamhqeGdqeUJDcVRxM3hHdXQ1Mk9PQWFjbnNXbnRrQmM4Rkh2TTdJdG5PaFNzY0h3eGx5QQ?oc=5",
+          "title": "오세훈 벌금 1000만원 선고 ‘트리거’는 명태균 진술···“100%는 아니지만 일부 객관적 정황” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RZW9XVlg2UlBUQTE2ZDMxRjdWVGhZekxJcnpzX1FVU0w0eXlsQThiQXgyQTN0eFRQQVFKZGJCaTdSMkZvbnBYSGt4RlJoZXQ0eXZ1b3F6S3d4QdIBX0FVX3lxTE43ZGh2el9fak1kVmtiMWVKWU9RSVRMWVZQR19aSUV6YTFieTl4Q3JMUXRYYllpTHc2aHE3aVptMGMyTmNBUmFuR1piYzBwMWU4VHJVRGpqRDNEVkc5ZWpN?oc=5",
           "source": "Google News",
-          "published": "Wed, 22 Jul 2026 15:33:00 GMT"
+          "published": "Wed, 22 Jul 2026 10:22:00 GMT"
         }
       ]
     },
     {
-      "word": "1월",
+      "word": "진술100",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "법원 “오세훈, 죄질 나빠 공직 상실형”…이르면 내년 1월 대법 판결 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xQlBiU05BR2ladGhGSkZ2Z0N5blg3V21hQmdVcnlld0pvUnBycDdzYWNpN2NXZy1BRjVFbVRwamhqeGdqeUJDcVRxM3hHdXQ1Mk9PQWFjbnNXbnRrQmM4Rkh2TTdJdG5PaFNzY0h3eGx5QQ?oc=5",
+          "title": "오세훈 벌금 1000만원 선고 ‘트리거’는 명태균 진술···“100%는 아니지만 일부 객관적 정황” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RZW9XVlg2UlBUQTE2ZDMxRjdWVGhZekxJcnpzX1FVU0w0eXlsQThiQXgyQTN0eFRQQVFKZGJCaTdSMkZvbnBYSGt4RlJoZXQ0eXZ1b3F6S3d4QdIBX0FVX3lxTE43ZGh2el9fak1kVmtiMWVKWU9RSVRMWVZQR19aSUV6YTFieTl4Q3JMUXRYYllpTHc2aHE3aVptMGMyTmNBUmFuR1piYzBwMWU4VHJVRGpqRDNEVkc5ZWpN?oc=5",
           "source": "Google News",
-          "published": "Wed, 22 Jul 2026 15:33:00 GMT"
+          "published": "Wed, 22 Jul 2026 10:22:00 GMT"
         }
       ]
     },
     {
-      "word": "대법",
+      "word": "아니지",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "법원 “오세훈, 죄질 나빠 공직 상실형”…이르면 내년 1월 대법 판결 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xQlBiU05BR2ladGhGSkZ2Z0N5blg3V21hQmdVcnlld0pvUnBycDdzYWNpN2NXZy1BRjVFbVRwamhqeGdqeUJDcVRxM3hHdXQ1Mk9PQWFjbnNXbnRrQmM4Rkh2TTdJdG5PaFNzY0h3eGx5QQ?oc=5",
+          "title": "오세훈 벌금 1000만원 선고 ‘트리거’는 명태균 진술···“100%는 아니지만 일부 객관적 정황” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RZW9XVlg2UlBUQTE2ZDMxRjdWVGhZekxJcnpzX1FVU0w0eXlsQThiQXgyQTN0eFRQQVFKZGJCaTdSMkZvbnBYSGt4RlJoZXQ0eXZ1b3F6S3d4QdIBX0FVX3lxTE43ZGh2el9fak1kVmtiMWVKWU9RSVRMWVZQR19aSUV6YTFieTl4Q3JMUXRYYllpTHc2aHE3aVptMGMyTmNBUmFuR1piYzBwMWU4VHJVRGpqRDNEVkc5ZWpN?oc=5",
           "source": "Google News",
-          "published": "Wed, 22 Jul 2026 15:33:00 GMT"
+          "published": "Wed, 22 Jul 2026 10:22:00 GMT"
         }
       ]
     },
     {
-      "word": "판결",
+      "word": "객관",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "법원 “오세훈, 죄질 나빠 공직 상실형”…이르면 내년 1월 대법 판결 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xQlBiU05BR2ladGhGSkZ2Z0N5blg3V21hQmdVcnlld0pvUnBycDdzYWNpN2NXZy1BRjVFbVRwamhqeGdqeUJDcVRxM3hHdXQ1Mk9PQWFjbnNXbnRrQmM4Rkh2TTdJdG5PaFNzY0h3eGx5QQ?oc=5",
+          "title": "오세훈 벌금 1000만원 선고 ‘트리거’는 명태균 진술···“100%는 아니지만 일부 객관적 정황” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RZW9XVlg2UlBUQTE2ZDMxRjdWVGhZekxJcnpzX1FVU0w0eXlsQThiQXgyQTN0eFRQQVFKZGJCaTdSMkZvbnBYSGt4RlJoZXQ0eXZ1b3F6S3d4QdIBX0FVX3lxTE43ZGh2el9fak1kVmtiMWVKWU9RSVRMWVZQR19aSUV6YTFieTl4Q3JMUXRYYllpTHc2aHE3aVptMGMyTmNBUmFuR1piYzBwMWU4VHJVRGpqRDNEVkc5ZWpN?oc=5",
           "source": "Google News",
-          "published": "Wed, 22 Jul 2026 15:33:00 GMT"
+          "published": "Wed, 22 Jul 2026 10:22:00 GMT"
         }
       ]
     },
     {
-      "word": "속보트럼프",
+      "word": "정황",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보]트럼프 “이란, 호르무즈 선박 공격 시 교량·발전소 하나씩 폭격해 파괴할 것” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12UkR5WGg5QjMzamdBaEJPRjI3RXV2b2N0dENRV2kwNlh1QzB4bHVxb1FLU0V1ZXNYUTE0Z1Z4Z2hzVWxpWGkyVVl2Xy1WSTB0QXZGVVpxVDAxQdIBX0FVX3lxTE02S1BUdGVVMFd4RW03SjhpMUxPT0cyYnJQLW95VGU3NV9QX1JDZmFpMWpscEFhc1JsUTduX25wZDFNLVFDTFp2dlFUMk13WlZZZnZpTHFxY0FfSTkxX084?oc=5",
+          "title": "오세훈 벌금 1000만원 선고 ‘트리거’는 명태균 진술···“100%는 아니지만 일부 객관적 정황” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RZW9XVlg2UlBUQTE2ZDMxRjdWVGhZekxJcnpzX1FVU0w0eXlsQThiQXgyQTN0eFRQQVFKZGJCaTdSMkZvbnBYSGt4RlJoZXQ0eXZ1b3F6S3d4QdIBX0FVX3lxTE43ZGh2el9fak1kVmtiMWVKWU9RSVRMWVZQR19aSUV6YTFieTl4Q3JMUXRYYllpTHc2aHE3aVptMGMyTmNBUmFuR1piYzBwMWU4VHJVRGpqRDNEVkc5ZWpN?oc=5",
           "source": "Google News",
-          "published": "Wed, 22 Jul 2026 13:20:00 GMT"
+          "published": "Wed, 22 Jul 2026 10:22:00 GMT"
         }
       ]
     },
     {
-      "word": "이란",
+      "word": "정청래",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보]트럼프 “이란, 호르무즈 선박 공격 시 교량·발전소 하나씩 폭격해 파괴할 것” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12UkR5WGg5QjMzamdBaEJPRjI3RXV2b2N0dENRV2kwNlh1QzB4bHVxb1FLU0V1ZXNYUTE0Z1Z4Z2hzVWxpWGkyVVl2Xy1WSTB0QXZGVVpxVDAxQdIBX0FVX3lxTE02S1BUdGVVMFd4RW03SjhpMUxPT0cyYnJQLW95VGU3NV9QX1JDZmFpMWpscEFhc1JsUTduX25wZDFNLVFDTFp2dlFUMk13WlZZZnZpTHFxY0FfSTkxX084?oc=5",
+          "title": "정청래 “강력한 응징” 친청계 “근거 제시하라”···김민석 ‘신천지 개입설’ 띄우기에 강력 반발 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0TzkxWF92aHpfbmRXMTZzZDUxN0RKUUh3ZzNjNG91RGVrQWxLR2M4aklnMzdmUUlUQnFyUHptY0pWRHljZ3Z4djBuQ0Q0OHlDRHphYzN2dV8xd9IBX0FVX3lxTFBUQXAyVDAyYldGNFZLekY2NWh4NXVvMlBrNmJrMEc3dElla3NjaThPSko5VG5HNWZxTUJ4dF91cHFFNmtQaXF3XzJSLW1TTGczNUJtSUIxLWlFT2p4LVpJ?oc=5",
           "source": "Google News",
-          "published": "Wed, 22 Jul 2026 13:20:00 GMT"
+          "published": "Wed, 22 Jul 2026 21:02:00 GMT"
         }
       ]
     },
     {
-      "word": "호르무즈",
+      "word": "응징",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보]트럼프 “이란, 호르무즈 선박 공격 시 교량·발전소 하나씩 폭격해 파괴할 것” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12UkR5WGg5QjMzamdBaEJPRjI3RXV2b2N0dENRV2kwNlh1QzB4bHVxb1FLU0V1ZXNYUTE0Z1Z4Z2hzVWxpWGkyVVl2Xy1WSTB0QXZGVVpxVDAxQdIBX0FVX3lxTE02S1BUdGVVMFd4RW03SjhpMUxPT0cyYnJQLW95VGU3NV9QX1JDZmFpMWpscEFhc1JsUTduX25wZDFNLVFDTFp2dlFUMk13WlZZZnZpTHFxY0FfSTkxX084?oc=5",
+          "title": "정청래 “강력한 응징” 친청계 “근거 제시하라”···김민석 ‘신천지 개입설’ 띄우기에 강력 반발 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0TzkxWF92aHpfbmRXMTZzZDUxN0RKUUh3ZzNjNG91RGVrQWxLR2M4aklnMzdmUUlUQnFyUHptY0pWRHljZ3Z4djBuQ0Q0OHlDRHphYzN2dV8xd9IBX0FVX3lxTFBUQXAyVDAyYldGNFZLekY2NWh4NXVvMlBrNmJrMEc3dElla3NjaThPSko5VG5HNWZxTUJ4dF91cHFFNmtQaXF3XzJSLW1TTGczNUJtSUIxLWlFT2p4LVpJ?oc=5",
           "source": "Google News",
-          "published": "Wed, 22 Jul 2026 13:20:00 GMT"
+          "published": "Wed, 22 Jul 2026 21:02:00 GMT"
         }
       ]
     },
     {
-      "word": "선박",
+      "word": "친청계",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보]트럼프 “이란, 호르무즈 선박 공격 시 교량·발전소 하나씩 폭격해 파괴할 것” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12UkR5WGg5QjMzamdBaEJPRjI3RXV2b2N0dENRV2kwNlh1QzB4bHVxb1FLU0V1ZXNYUTE0Z1Z4Z2hzVWxpWGkyVVl2Xy1WSTB0QXZGVVpxVDAxQdIBX0FVX3lxTE02S1BUdGVVMFd4RW03SjhpMUxPT0cyYnJQLW95VGU3NV9QX1JDZmFpMWpscEFhc1JsUTduX25wZDFNLVFDTFp2dlFUMk13WlZZZnZpTHFxY0FfSTkxX084?oc=5",
+          "title": "정청래 “강력한 응징” 친청계 “근거 제시하라”···김민석 ‘신천지 개입설’ 띄우기에 강력 반발 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0TzkxWF92aHpfbmRXMTZzZDUxN0RKUUh3ZzNjNG91RGVrQWxLR2M4aklnMzdmUUlUQnFyUHptY0pWRHljZ3Z4djBuQ0Q0OHlDRHphYzN2dV8xd9IBX0FVX3lxTFBUQXAyVDAyYldGNFZLekY2NWh4NXVvMlBrNmJrMEc3dElla3NjaThPSko5VG5HNWZxTUJ4dF91cHFFNmtQaXF3XzJSLW1TTGczNUJtSUIxLWlFT2p4LVpJ?oc=5",
           "source": "Google News",
-          "published": "Wed, 22 Jul 2026 13:20:00 GMT"
+          "published": "Wed, 22 Jul 2026 21:02:00 GMT"
         }
       ]
     },
     {
-      "word": "공격",
+      "word": "근거",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보]트럼프 “이란, 호르무즈 선박 공격 시 교량·발전소 하나씩 폭격해 파괴할 것” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12UkR5WGg5QjMzamdBaEJPRjI3RXV2b2N0dENRV2kwNlh1QzB4bHVxb1FLU0V1ZXNYUTE0Z1Z4Z2hzVWxpWGkyVVl2Xy1WSTB0QXZGVVpxVDAxQdIBX0FVX3lxTE02S1BUdGVVMFd4RW03SjhpMUxPT0cyYnJQLW95VGU3NV9QX1JDZmFpMWpscEFhc1JsUTduX25wZDFNLVFDTFp2dlFUMk13WlZZZnZpTHFxY0FfSTkxX084?oc=5",
+          "title": "정청래 “강력한 응징” 친청계 “근거 제시하라”···김민석 ‘신천지 개입설’ 띄우기에 강력 반발 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0TzkxWF92aHpfbmRXMTZzZDUxN0RKUUh3ZzNjNG91RGVrQWxLR2M4aklnMzdmUUlUQnFyUHptY0pWRHljZ3Z4djBuQ0Q0OHlDRHphYzN2dV8xd9IBX0FVX3lxTFBUQXAyVDAyYldGNFZLekY2NWh4NXVvMlBrNmJrMEc3dElla3NjaThPSko5VG5HNWZxTUJ4dF91cHFFNmtQaXF3XzJSLW1TTGczNUJtSUIxLWlFT2p4LVpJ?oc=5",
           "source": "Google News",
-          "published": "Wed, 22 Jul 2026 13:20:00 GMT"
+          "published": "Wed, 22 Jul 2026 21:02:00 GMT"
         }
       ]
     },
     {
-      "word": "교량발전소",
+      "word": "제시하라김민석",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보]트럼프 “이란, 호르무즈 선박 공격 시 교량·발전소 하나씩 폭격해 파괴할 것” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12UkR5WGg5QjMzamdBaEJPRjI3RXV2b2N0dENRV2kwNlh1QzB4bHVxb1FLU0V1ZXNYUTE0Z1Z4Z2hzVWxpWGkyVVl2Xy1WSTB0QXZGVVpxVDAxQdIBX0FVX3lxTE02S1BUdGVVMFd4RW03SjhpMUxPT0cyYnJQLW95VGU3NV9QX1JDZmFpMWpscEFhc1JsUTduX25wZDFNLVFDTFp2dlFUMk13WlZZZnZpTHFxY0FfSTkxX084?oc=5",
+          "title": "정청래 “강력한 응징” 친청계 “근거 제시하라”···김민석 ‘신천지 개입설’ 띄우기에 강력 반발 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0TzkxWF92aHpfbmRXMTZzZDUxN0RKUUh3ZzNjNG91RGVrQWxLR2M4aklnMzdmUUlUQnFyUHptY0pWRHljZ3Z4djBuQ0Q0OHlDRHphYzN2dV8xd9IBX0FVX3lxTFBUQXAyVDAyYldGNFZLekY2NWh4NXVvMlBrNmJrMEc3dElla3NjaThPSko5VG5HNWZxTUJ4dF91cHFFNmtQaXF3XzJSLW1TTGczNUJtSUIxLWlFT2p4LVpJ?oc=5",
           "source": "Google News",
-          "published": "Wed, 22 Jul 2026 13:20:00 GMT"
+          "published": "Wed, 22 Jul 2026 21:02:00 GMT"
         }
       ]
     },
     {
-      "word": "하나씩",
+      "word": "신천지",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보]트럼프 “이란, 호르무즈 선박 공격 시 교량·발전소 하나씩 폭격해 파괴할 것” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12UkR5WGg5QjMzamdBaEJPRjI3RXV2b2N0dENRV2kwNlh1QzB4bHVxb1FLU0V1ZXNYUTE0Z1Z4Z2hzVWxpWGkyVVl2Xy1WSTB0QXZGVVpxVDAxQdIBX0FVX3lxTE02S1BUdGVVMFd4RW03SjhpMUxPT0cyYnJQLW95VGU3NV9QX1JDZmFpMWpscEFhc1JsUTduX25wZDFNLVFDTFp2dlFUMk13WlZZZnZpTHFxY0FfSTkxX084?oc=5",
+          "title": "정청래 “강력한 응징” 친청계 “근거 제시하라”···김민석 ‘신천지 개입설’ 띄우기에 강력 반발 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0TzkxWF92aHpfbmRXMTZzZDUxN0RKUUh3ZzNjNG91RGVrQWxLR2M4aklnMzdmUUlUQnFyUHptY0pWRHljZ3Z4djBuQ0Q0OHlDRHphYzN2dV8xd9IBX0FVX3lxTFBUQXAyVDAyYldGNFZLekY2NWh4NXVvMlBrNmJrMEc3dElla3NjaThPSko5VG5HNWZxTUJ4dF91cHFFNmtQaXF3XzJSLW1TTGczNUJtSUIxLWlFT2p4LVpJ?oc=5",
           "source": "Google News",
-          "published": "Wed, 22 Jul 2026 13:20:00 GMT"
+          "published": "Wed, 22 Jul 2026 21:02:00 GMT"
         }
       ]
     },
     {
-      "word": "폭격해",
+      "word": "개입설",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보]트럼프 “이란, 호르무즈 선박 공격 시 교량·발전소 하나씩 폭격해 파괴할 것” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12UkR5WGg5QjMzamdBaEJPRjI3RXV2b2N0dENRV2kwNlh1QzB4bHVxb1FLU0V1ZXNYUTE0Z1Z4Z2hzVWxpWGkyVVl2Xy1WSTB0QXZGVVpxVDAxQdIBX0FVX3lxTE02S1BUdGVVMFd4RW03SjhpMUxPT0cyYnJQLW95VGU3NV9QX1JDZmFpMWpscEFhc1JsUTduX25wZDFNLVFDTFp2dlFUMk13WlZZZnZpTHFxY0FfSTkxX084?oc=5",
+          "title": "정청래 “강력한 응징” 친청계 “근거 제시하라”···김민석 ‘신천지 개입설’ 띄우기에 강력 반발 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0TzkxWF92aHpfbmRXMTZzZDUxN0RKUUh3ZzNjNG91RGVrQWxLR2M4aklnMzdmUUlUQnFyUHptY0pWRHljZ3Z4djBuQ0Q0OHlDRHphYzN2dV8xd9IBX0FVX3lxTFBUQXAyVDAyYldGNFZLekY2NWh4NXVvMlBrNmJrMEc3dElla3NjaThPSko5VG5HNWZxTUJ4dF91cHFFNmtQaXF3XzJSLW1TTGczNUJtSUIxLWlFT2p4LVpJ?oc=5",
           "source": "Google News",
-          "published": "Wed, 22 Jul 2026 13:20:00 GMT"
+          "published": "Wed, 22 Jul 2026 21:02:00 GMT"
         }
       ]
     },
     {
-      "word": "파괴",
+      "word": "띄우기",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보]트럼프 “이란, 호르무즈 선박 공격 시 교량·발전소 하나씩 폭격해 파괴할 것” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12UkR5WGg5QjMzamdBaEJPRjI3RXV2b2N0dENRV2kwNlh1QzB4bHVxb1FLU0V1ZXNYUTE0Z1Z4Z2hzVWxpWGkyVVl2Xy1WSTB0QXZGVVpxVDAxQdIBX0FVX3lxTE02S1BUdGVVMFd4RW03SjhpMUxPT0cyYnJQLW95VGU3NV9QX1JDZmFpMWpscEFhc1JsUTduX25wZDFNLVFDTFp2dlFUMk13WlZZZnZpTHFxY0FfSTkxX084?oc=5",
+          "title": "정청래 “강력한 응징” 친청계 “근거 제시하라”···김민석 ‘신천지 개입설’ 띄우기에 강력 반발 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0TzkxWF92aHpfbmRXMTZzZDUxN0RKUUh3ZzNjNG91RGVrQWxLR2M4aklnMzdmUUlUQnFyUHptY0pWRHljZ3Z4djBuQ0Q0OHlDRHphYzN2dV8xd9IBX0FVX3lxTFBUQXAyVDAyYldGNFZLekY2NWh4NXVvMlBrNmJrMEc3dElla3NjaThPSko5VG5HNWZxTUJ4dF91cHFFNmtQaXF3XzJSLW1TTGczNUJtSUIxLWlFT2p4LVpJ?oc=5",
           "source": "Google News",
-          "published": "Wed, 22 Jul 2026 13:20:00 GMT"
+          "published": "Wed, 22 Jul 2026 21:02:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "반발",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정청래 “강력한 응징” 친청계 “근거 제시하라”···김민석 ‘신천지 개입설’ 띄우기에 강력 반발 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0TzkxWF92aHpfbmRXMTZzZDUxN0RKUUh3ZzNjNG91RGVrQWxLR2M4aklnMzdmUUlUQnFyUHptY0pWRHljZ3Z4djBuQ0Q0OHlDRHphYzN2dV8xd9IBX0FVX3lxTFBUQXAyVDAyYldGNFZLekY2NWh4NXVvMlBrNmJrMEc3dElla3NjaThPSko5VG5HNWZxTUJ4dF91cHFFNmtQaXF3XzJSLW1TTGczNUJtSUIxLWlFT2p4LVpJ?oc=5",
+          "source": "Google News",
+          "published": "Wed, 22 Jul 2026 21:02:00 GMT"
         }
       ]
     },
@@ -401,149 +574,6 @@
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9LUHZsVmFqSEV1Ny1QVkhHNEZKdlVfaV9KeV9TaTN1N0JOLWNKUVhyVHh6MFdRVzVBNjdVbVh2ZVhvMGVMRk5uaXgyVHZTdU55eTlyNDBGeUxxNVByMkJMS2NwTWxfMnhENHduTlF1X0hGejhQUjhv0gFmQVVfeXFMT1RlNi1IdVlpTjFTSjhLbEszcW9iMlllM3pfcHdJdGU4QUpDRWVYV0xNM2Y3UTFvS3JPclVyODNzVDlKSlVaZ3lZci1WZUJoYWlyMy0xSWZOZUFfWkkzLWhiakJNMXJ3?oc=5",
           "source": "Google News",
           "published": "Wed, 22 Jul 2026 19:30:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "친명",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "유시민‘ 李 필패론’ 이어 “썩은 내”… 친명 “정치 선동, 선 넘었다” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9LUHZsVmFqSEV1Ny1QVkhHNEZKdlVfaV9KeV9TaTN1N0JOLWNKUVhyVHh6MFdRVzVBNjdVbVh2ZVhvMGVMRk5uaXgyVHZTdU55eTlyNDBGeUxxNVByMkJMS2NwTWxfMnhENHduTlF1X0hGejhQUjhv0gFmQVVfeXFMT1RlNi1IdVlpTjFTSjhLbEszcW9iMlllM3pfcHdJdGU4QUpDRWVYV0xNM2Y3UTFvS3JPclVyODNzVDlKSlVaZ3lZci1WZUJoYWlyMy0xSWZOZUFfWkkzLWhiakJNMXJ3?oc=5",
-          "source": "Google News",
-          "published": "Wed, 22 Jul 2026 19:30:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "정치",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "유시민‘ 李 필패론’ 이어 “썩은 내”… 친명 “정치 선동, 선 넘었다” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9LUHZsVmFqSEV1Ny1QVkhHNEZKdlVfaV9KeV9TaTN1N0JOLWNKUVhyVHh6MFdRVzVBNjdVbVh2ZVhvMGVMRk5uaXgyVHZTdU55eTlyNDBGeUxxNVByMkJMS2NwTWxfMnhENHduTlF1X0hGejhQUjhv0gFmQVVfeXFMT1RlNi1IdVlpTjFTSjhLbEszcW9iMlllM3pfcHdJdGU4QUpDRWVYV0xNM2Y3UTFvS3JPclVyODNzVDlKSlVaZ3lZci1WZUJoYWlyMy0xSWZOZUFfWkkzLWhiakJNMXJ3?oc=5",
-          "source": "Google News",
-          "published": "Wed, 22 Jul 2026 19:30:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "선동",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "유시민‘ 李 필패론’ 이어 “썩은 내”… 친명 “정치 선동, 선 넘었다” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9LUHZsVmFqSEV1Ny1QVkhHNEZKdlVfaV9KeV9TaTN1N0JOLWNKUVhyVHh6MFdRVzVBNjdVbVh2ZVhvMGVMRk5uaXgyVHZTdU55eTlyNDBGeUxxNVByMkJMS2NwTWxfMnhENHduTlF1X0hGejhQUjhv0gFmQVVfeXFMT1RlNi1IdVlpTjFTSjhLbEszcW9iMlllM3pfcHdJdGU4QUpDRWVYV0xNM2Y3UTFvS3JPclVyODNzVDlKSlVaZ3lZci1WZUJoYWlyMy0xSWZOZUFfWkkzLWhiakJNMXJ3?oc=5",
-          "source": "Google News",
-          "published": "Wed, 22 Jul 2026 19:30:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "넘었다",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "유시민‘ 李 필패론’ 이어 “썩은 내”… 친명 “정치 선동, 선 넘었다” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9LUHZsVmFqSEV1Ny1QVkhHNEZKdlVfaV9KeV9TaTN1N0JOLWNKUVhyVHh6MFdRVzVBNjdVbVh2ZVhvMGVMRk5uaXgyVHZTdU55eTlyNDBGeUxxNVByMkJMS2NwTWxfMnhENHduTlF1X0hGejhQUjhv0gFmQVVfeXFMT1RlNi1IdVlpTjFTSjhLbEszcW9iMlllM3pfcHdJdGU4QUpDRWVYV0xNM2Y3UTFvS3JPclVyODNzVDlKSlVaZ3lZci1WZUJoYWlyMy0xSWZOZUFfWkkzLWhiakJNMXJ3?oc=5",
-          "source": "Google News",
-          "published": "Wed, 22 Jul 2026 19:30:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "방미",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "방미 김정관 장관 “대미투자 1호 프로젝트 논의 막바지···이르면 8월 말 발표” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fNUxGa2pXUklTbmNVZ3Z4cDlXYUdfcU9WWDNaSHVBRG1tbkFRU3YzcGVFMHJEaFphV0NlNlN3MXV1QWZSLVBfeXlsV0RUOG1lbUpNTi0yYVZod9IBX0FVX3lxTE1Cako1dEpRbDhza2JkQS1XYWZ2a19zbFpFakRZbzlSYWE0S0ZLQm85VWZxUjlUY0VpX3EwNDZpZEl6SjlnUEowc0h2dHNVNTNfN0JuQzRnWW1HQWdMQlRj?oc=5",
-          "source": "Google News",
-          "published": "Wed, 22 Jul 2026 21:49:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "김정관",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "방미 김정관 장관 “대미투자 1호 프로젝트 논의 막바지···이르면 8월 말 발표” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fNUxGa2pXUklTbmNVZ3Z4cDlXYUdfcU9WWDNaSHVBRG1tbkFRU3YzcGVFMHJEaFphV0NlNlN3MXV1QWZSLVBfeXlsV0RUOG1lbUpNTi0yYVZod9IBX0FVX3lxTE1Cako1dEpRbDhza2JkQS1XYWZ2a19zbFpFakRZbzlSYWE0S0ZLQm85VWZxUjlUY0VpX3EwNDZpZEl6SjlnUEowc0h2dHNVNTNfN0JuQzRnWW1HQWdMQlRj?oc=5",
-          "source": "Google News",
-          "published": "Wed, 22 Jul 2026 21:49:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "장관",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "방미 김정관 장관 “대미투자 1호 프로젝트 논의 막바지···이르면 8월 말 발표” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fNUxGa2pXUklTbmNVZ3Z4cDlXYUdfcU9WWDNaSHVBRG1tbkFRU3YzcGVFMHJEaFphV0NlNlN3MXV1QWZSLVBfeXlsV0RUOG1lbUpNTi0yYVZod9IBX0FVX3lxTE1Cako1dEpRbDhza2JkQS1XYWZ2a19zbFpFakRZbzlSYWE0S0ZLQm85VWZxUjlUY0VpX3EwNDZpZEl6SjlnUEowc0h2dHNVNTNfN0JuQzRnWW1HQWdMQlRj?oc=5",
-          "source": "Google News",
-          "published": "Wed, 22 Jul 2026 21:49:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "대미투자",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "방미 김정관 장관 “대미투자 1호 프로젝트 논의 막바지···이르면 8월 말 발표” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fNUxGa2pXUklTbmNVZ3Z4cDlXYUdfcU9WWDNaSHVBRG1tbkFRU3YzcGVFMHJEaFphV0NlNlN3MXV1QWZSLVBfeXlsV0RUOG1lbUpNTi0yYVZod9IBX0FVX3lxTE1Cako1dEpRbDhza2JkQS1XYWZ2a19zbFpFakRZbzlSYWE0S0ZLQm85VWZxUjlUY0VpX3EwNDZpZEl6SjlnUEowc0h2dHNVNTNfN0JuQzRnWW1HQWdMQlRj?oc=5",
-          "source": "Google News",
-          "published": "Wed, 22 Jul 2026 21:49:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "1호",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "방미 김정관 장관 “대미투자 1호 프로젝트 논의 막바지···이르면 8월 말 발표” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fNUxGa2pXUklTbmNVZ3Z4cDlXYUdfcU9WWDNaSHVBRG1tbkFRU3YzcGVFMHJEaFphV0NlNlN3MXV1QWZSLVBfeXlsV0RUOG1lbUpNTi0yYVZod9IBX0FVX3lxTE1Cako1dEpRbDhza2JkQS1XYWZ2a19zbFpFakRZbzlSYWE0S0ZLQm85VWZxUjlUY0VpX3EwNDZpZEl6SjlnUEowc0h2dHNVNTNfN0JuQzRnWW1HQWdMQlRj?oc=5",
-          "source": "Google News",
-          "published": "Wed, 22 Jul 2026 21:49:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "프로젝트",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "방미 김정관 장관 “대미투자 1호 프로젝트 논의 막바지···이르면 8월 말 발표” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fNUxGa2pXUklTbmNVZ3Z4cDlXYUdfcU9WWDNaSHVBRG1tbkFRU3YzcGVFMHJEaFphV0NlNlN3MXV1QWZSLVBfeXlsV0RUOG1lbUpNTi0yYVZod9IBX0FVX3lxTE1Cako1dEpRbDhza2JkQS1XYWZ2a19zbFpFakRZbzlSYWE0S0ZLQm85VWZxUjlUY0VpX3EwNDZpZEl6SjlnUEowc0h2dHNVNTNfN0JuQzRnWW1HQWdMQlRj?oc=5",
-          "source": "Google News",
-          "published": "Wed, 22 Jul 2026 21:49:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "논의",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "방미 김정관 장관 “대미투자 1호 프로젝트 논의 막바지···이르면 8월 말 발표” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fNUxGa2pXUklTbmNVZ3Z4cDlXYUdfcU9WWDNaSHVBRG1tbkFRU3YzcGVFMHJEaFphV0NlNlN3MXV1QWZSLVBfeXlsV0RUOG1lbUpNTi0yYVZod9IBX0FVX3lxTE1Cako1dEpRbDhza2JkQS1XYWZ2a19zbFpFakRZbzlSYWE0S0ZLQm85VWZxUjlUY0VpX3EwNDZpZEl6SjlnUEowc0h2dHNVNTNfN0JuQzRnWW1HQWdMQlRj?oc=5",
-          "source": "Google News",
-          "published": "Wed, 22 Jul 2026 21:49:00 GMT"
         }
       ]
     }
