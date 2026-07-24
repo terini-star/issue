@@ -1,49 +1,112 @@
 {
   "language": "en",
-  "last_updated": 1784885177.6748734,
+  "last_updated": 1784901623.3470972,
   "count": 40,
   "trends": [
     {
       "word": "Trump",
-      "count": 3,
+      "count": 4,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Tehran slams Trump’s threat to use frozen Iranian assets as ‘incendiary’ - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOend1QS0zTW9JbFRwR3RGWmY2QmdNbmdidEo4c2VxeUhESUd2SnN6cEpBTE5hRzMtRHc3Tks2azA5bF9aalF5ZHJ0MjMxb2J4dy16LWlTZFBmNTczMmR6dFZFQjVIVl9lcGJVSXIzYjFxMVFuQzFOMUtEemRRR2M2SWcwUF9TY1EycjZIbmlxMmo1YUFuR3RPRk1MWUE4RVF0dm5veVpwY3NjR05GTUZz0gG0AUFVX3lxTE93UUEyTG1LTTh3Yjg1VEpETXVIdVRnZmdHZmo4bEJpZnpsUVkxMGtONFFDVFRzTi1iMU03VXBKUUowbkhOMnFvWDdnbWU3X3R2MFVDM2tyYTQxT3ZkU0dhbHhPanFrbnFKRzh5SUktaUJWYmp5N3RsU2JIWmFFZlVwNDhGRGZfZXdOd0NTNnBsSjFLOVozUlYtMnhwWnVLNWd6TmJaV25VcjhiLTRWdm5NYVd5bw?oc=5",
+          "title": "Trump sets new tariffs to punish use of ‘forced labor,’ replacing expiring import taxes - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRjVBblIyWkkxX3FZTEs5cWNlVVo4MGlyWE1hVjJBaERjV2NKRXZqUWpWSkI5dlRhdnRsS3ZId3dJWW13TGpvV3VSM2xoRERCcnVYRE5DX1JVdGRlZ3dwVFpKRW42OXFZZGtuRHRnbFRaZEVyNWhVenFEWWFyQl9LdXIxUU5wX0xMYnpwa0NQTWpiU1JBNnl4dHNwWU9idlc5c29TRE5Dd1luLXhwWFowN01wOUtwQmN0QXBZeU1qRE83Y294Z09HR29pYng1YjEzRmc?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 07:00:21 GMT"
+          "published": "Fri, 24 Jul 2026 12:36:06 GMT"
+        },
+        {
+          "title": "U.S. launches new strikes and Trump threatens ‘massive attack’ as Iran widens war - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVVBPQ0I2WkRxUFdZWkNFUDlOb2tPRWtFX05MUXp3ODhwLXpyQV96MmxLZFNEWlk0VkRSNGl0YmVQRE54MFpYX2hhbHZ2UVhydjBzLVdRNm5PZ1cwdW41V1A4MWpueHE2ajNhOXRkNGI3U18yY2s1V3EwWERXeDlNblBZVHJLS2dyeG5mTEVNZXVySVdnbVF4Ym5DemhyRHl1VGFFU2JUMGc?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 11:13:56 GMT"
+        },
+        {
+          "title": "Melania Trump Raises Eyebrows With New Major Snub - The Daily Beast",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYm02VXpuRHgxY1hQOFl6Sm5kYUVwX1BDeHlOcG10SHlwQWxSVnhFLUIxb0pGZUJxUDFVRVBfUUVQc1Q1MTBQREpSamxNaENZYlQtMk9CRWRhTlhydTdsTC05dUs0Q1VnQ1RfV055a3kzQzJ1LW5HX0JuMmwyMlM4RGlEVnlXYWFKRkZz?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 07:15:00 GMT"
         },
         {
           "title": "How Trump upended the Saudi nuclear deal less than 24 hours after its signing - CNN",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSVVXZUVSZmo2bG5paUFoTEdKRjJfQ3RVUkxPSU55WGxzRFpXM2N4cDZLbGtqR1U0dDZsUFRLRXhhWkltaV9pejV2Ukpia000cEY0X1hiX1MweE9ZLWF2dWJvNFh6WHNOQVB3UGt4Vkk3V1d6dV9yZ3luOU9yWFc4cm92VUs?oc=5",
           "source": "Google News",
           "published": "Fri, 24 Jul 2026 00:31:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Iran",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "U.S. launches new strikes and Trump threatens ‘massive attack’ as Iran widens war - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVVBPQ0I2WkRxUFdZWkNFUDlOb2tPRWtFX05MUXp3ODhwLXpyQV96MmxLZFNEWlk0VkRSNGl0YmVQRE54MFpYX2hhbHZ2UVhydjBzLVdRNm5PZ1cwdW41V1A4MWpueHE2ajNhOXRkNGI3U18yY2s1V3EwWERXeDlNblBZVHJLS2dyeG5mTEVNZXVySVdnbVF4Ym5DemhyRHl1VGFFU2JUMGc?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 11:13:56 GMT"
         },
         {
-          "title": "Trump vows to punish Iran and Houthis for attacks in Red Sea - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNFdZY1R2bFRCTk51X1E2U2dLZUphMDA2MVlUaGRzOEJXRXc5Vl9ObDNaVE9FNnU4eTV6TXBjYjRyR2xZekJYeGY2VHNrYW9hSjhpSjQ0aVJEdXBkSk9Ja2NXRjZjQng3Rkp1eFBHMlVwQ2paZUlVRnZUN0l3OThQRlZVLTJDanZHREpMTjFNVm9odWl5alZwRUpDbUhwSWRWeHc?oc=5",
+          "title": "US attacks Iran as Houthis allow Chinese ships to pass: What’s the latest? - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaXJSbVVjUnRLMnBxSXltZTJEVzFKelZkdHl5eHNRUEk0S2Z6bVJmNWxMbG1BenZVdGVIdFlJMDh2RVpKRG5PQkNNWDduZFpaRnJ5NzlKUmVLVzA0SzNhanRoNVR3RDlla01QTXZHWnJNMlUyQmM2bDJWdDNsemRnNTBENE9SMVZJOFkyWkhTWXdHeHkyZGZFMG1ZTUhhY2xvdWt4b3ZKNlA2Z1B0dWFTajl30gG3AUFVX3lxTE83SkVwOUxXSnlxeEVUWDZGcWVOREhvRGtZMkd5UG1SNTR1UWF0WFJCZVh5ZFZha0xORmxRQThVTVlBY2FtVHkxSzhmUWZ5bkRhcTBlSVI1bFNYX3NDNXJqTzRyVDZ0NGtUTzQzZ2NSZGF6X1p4bnF3WnhGdDcwSUJkY1JOMGllcVJRTmh6TXV3cG9IcmJwdTBoaU9TWTFqN29Ubi1TTjM2dXRDT3RMWnNvb0puWjgwVQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 04:00:00 GMT"
+          "published": "Fri, 24 Jul 2026 08:04:24 GMT"
+        },
+        {
+          "title": "Oil Prices Remain High as Conflict With Iran Drags On - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQktRd1BiNVJEUjJaWEtyT2xjSnJldWIxRE1rUndBLXBlSURDc0twLVBrUUdWYnY3d29Gb0VTUVR3VC10WG1yTEhyVkQyMkNMck1VWk9wd0NvMTUxV3g3M1dpZ0dTTVNGMnNXSkgyNFJSbENQdG9FZ0lRai1jTzFDTV9oSGo5Q3NXYWc?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 13:39:04 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Threatens",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "U.S. launches new strikes and Trump threatens ‘massive attack’ as Iran widens war - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVVBPQ0I2WkRxUFdZWkNFUDlOb2tPRWtFX05MUXp3ODhwLXpyQV96MmxLZFNEWlk0VkRSNGl0YmVQRE54MFpYX2hhbHZ2UVhydjBzLVdRNm5PZ1cwdW41V1A4MWpueHE2ajNhOXRkNGI3U18yY2s1V3EwWERXeDlNblBZVHJLS2dyeG5mTEVNZXVySVdnbVF4Ym5DemhyRHl1VGFFU2JUMGc?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 11:13:56 GMT"
+        },
+        {
+          "title": "Jurgen Klopp: Germany boss threatens to quit new job if media invade family's privacy - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wMjVVZmRaTjlraWN5UDFhTktTRnE5YWtCXzBBcDY2Sm9zZUJzN294V24yd2RSTG1NTWYzTHZCaDFqbmszZHJKZjdqOE0xTkpMU3Y1NlhyQTFuOTFkbnFvbXc2SW5ZR1E?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 10:40:05 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Attack",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "U.S. launches new strikes and Trump threatens ‘massive attack’ as Iran widens war - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVVBPQ0I2WkRxUFdZWkNFUDlOb2tPRWtFX05MUXp3ODhwLXpyQV96MmxLZFNEWlk0VkRSNGl0YmVQRE54MFpYX2hhbHZ2UVhydjBzLVdRNm5PZ1cwdW41V1A4MWpueHE2ajNhOXRkNGI3U18yY2s1V3EwWERXeDlNblBZVHJLS2dyeG5mTEVNZXVySVdnbVF4Ym5DemhyRHl1VGFFU2JUMGc?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 11:13:56 GMT"
+        },
+        {
+          "title": "Chris Brown pleads guilty to affray over bottle attack - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXV3dVLUFGNGNBOEFRRTdZdWM5bWtiS1J5bnY2U2hqQXFHeC1rS2ZSUlY2cW12MEY4MEdhQ1JELTMtS1loOWRfb2NONGtIZTZjYVR6NUl1SUFrdw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 11:56:44 GMT"
         }
       ]
     },
     {
       "word": "Police",
-      "count": 3,
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "2 Men Stabbed on Upper West Side in Possible Hate Crimes, Police Say - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ0l4RDFvbWJFc0FSWVM0RVV2S0JEdl82dnZQS09PRHlqVGNPSi1GSnl0a1ZVQU5DX3dIU1FKR3JqX1RVSUwxT21ta1A4S3hTNXFzMGVZY0ZUNVcxaWxrMmV2OXp5NHcxVjhwT3gwWWM3Q3FzVVoyXzJBakhFeHVZV0lhMWpVZw?oc=5",
+          "title": "As tensions rise in Madison after deadly police shooting, victim is identified - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ2E4RzVqLXZONFRSbXJWbVhyWUc4cDFLRnRCM1pGM01SLXJ2LXlaUDFBbXNKTEtNNjZDckx1Vjl3MUgtU0pYMUR1TTRIbmh5QzlpSUQ4OFlFbnRreE9BaHZUMVR4ckhZSnFxZERDWVRBcUJEd2RnYlM0SE5pUzJlT1g3RGozR3ltOUxhVy1oaDF3bUhDcGlz?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 02:08:27 GMT"
-        },
-        {
-          "title": "Madison mourns fatal police shooting of Black man, family hires Crump - The Capital Times",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcGZYUXFpYmRHUHktN1FDSWotYTFtREdacVhwNlJRNVJBZ2lLR2tndnpCQzVPNk5aNlcwb0tkVVYxU0xwMlY0S2RwTGZjOWxVQ1BMYXZyUnFUMUNXNDdfS3JNbDVBMDlxcDNRaWFwbHJleGZxNzNrMU9lLVE5THh4MEJ3eG41YVBwRUdsR0RkMV9vLVdNTGlyTDJQdktJc3NHaXlmNDNrVVJFNDVsSncyMUcybXFsTURwRHBNQmU1ckYyR3hrTloyZXdCNGFfRHNOTHhaTXNQaXdKQ3hKMTZNYmJxcHQ5OWdSNlE0?oc=5",
-          "source": "Google News",
-          "published": "Fri, 24 Jul 2026 00:10:00 GMT"
+          "published": "Fri, 24 Jul 2026 12:32:00 GMT"
         },
         {
           "title": "Police: About 80 vases stolen from gravesites at Hillsboro cemetery - KPTV",
@@ -54,21 +117,91 @@
       ]
     },
     {
-      "word": "Health",
-      "count": 3,
+      "word": "Prices",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "U.S. health officials investigate new outbreak of parasite cyclospora - PBS",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOW02TG9OSWZFNFIxeHp1dFVMTHQzN2o5Nkt4QjJ2dVpRUVIxbVJSRFBDMTNveTZoWUZIRjR2RzcwZ1hWZGxlbnlZdWo5VzNvZGJXRDI4SGVHb09mWjdhX0xXaTQ4a3hnQlR1bTVaaklwUWdZSUJXd05OR015WHA3YXU2bUEzTE05bHBwYXY4TUY3YmtkaDlkbFpGNzdqcGF0TmV2UE9ySQ?oc=5",
+          "title": "Oil Prices Remain High as Conflict With Iran Drags On - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQktRd1BiNVJEUjJaWEtyT2xjSnJldWIxRE1rUndBLXBlSURDc0twLVBrUUdWYnY3d29Gb0VTUVR3VC10WG1yTEhyVkQyMkNMck1VWk9wd0NvMTUxV3g3M1dpZ0dTTVNGMnNXSkgyNFJSbENQdG9FZ0lRai1jTzFDTV9oSGo5Q3NXYWc?oc=5",
           "source": "Google News",
-          "published": "Thu, 23 Jul 2026 19:42:10 GMT"
+          "published": "Fri, 24 Jul 2026 13:39:04 GMT"
         },
         {
-          "title": "OpenAI makes ChatGPT Health available to all US users - TechCrunch",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSlRtRzNDR2ZJTTBnZWtSdWNtdVdocVVSc1h4cXpXTEhnd0JDSmFFNy02LThsLW9UbHhNdGt3RnQtS0tHZ3ZfMzRsUW5Ucm9mOE5DRmZWb3habm1ueDh0cE13MnV1aVp3ZEFzRWctOEdOUWJsbzVlNm1vSEoycGJzckQ3ZTduVzJzcW85Y2x5ZGhzV3c?oc=5",
+          "title": "Boom in tech wealth is fueling record prices for dinosaur bones, art and watches, auction houses say - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kTnBUWV93REJwVnBGX3RPTUthTldtYktFNWZYVmhHX2lpenJjTHgxOThQVmRlaEhJbjNLRWJvSTV0ZHhsTEZpRmlGa1ZtZzBLdU9EMS1xWWg1Z2xKeW9rdGpOQlBXSXJDT1R2bXlZWnlaUdIBd0FVX3lxTE1WUUZGaDl4Smt6d0RlYlpiQnhPdk9ESEtTUk9zdDZNbzlLU052QjlNZ2NTc21odlNrZW5pbE1EN3Zfb2hDR3dBMTRWOGxQdHZGc3pUM0w0TWZUQXBQYmNxZmhFQzN3NWtPX0sxNzFWMG5Sa0NDcDY4?oc=5",
           "source": "Google News",
-          "published": "Thu, 23 Jul 2026 17:00:00 GMT"
+          "published": "Fri, 24 Jul 2026 11:00:01 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Record",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Boom in tech wealth is fueling record prices for dinosaur bones, art and watches, auction houses say - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kTnBUWV93REJwVnBGX3RPTUthTldtYktFNWZYVmhHX2lpenJjTHgxOThQVmRlaEhJbjNLRWJvSTV0ZHhsTEZpRmlGa1ZtZzBLdU9EMS1xWWg1Z2xKeW9rdGpOQlBXSXJDT1R2bXlZWnlaUdIBd0FVX3lxTE1WUUZGaDl4Smt6d0RlYlpiQnhPdk9ESEtTUk9zdDZNbzlLU052QjlNZ2NTc21odlNrZW5pbE1EN3Zfb2hDR3dBMTRWOGxQdHZGc3pUM0w0TWZUQXBQYmNxZmhFQzN3NWtPX0sxNzFWMG5Sa0NDcDY4?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 11:00:01 GMT"
+        },
+        {
+          "title": "As measles cases reach record highs, see your school’s vaccine rates - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMmJzQUNYUjZuTFFTWDhRSENIdmRmZTA0dzlHTjZkbktmUnRvN0FpdTFZYkF6WG9raEluSUZxdldSNTRlRC1ld1FZSlA5ZjhGRWdwZ1JVUF90UTljd0g0TTJMYmJUWHJtNWtDc3RPMmdlTWthc2dBUWZuOEhneWVGZW5ERy1HVGUwUXdSMjNjMjF6S1BBODFtT1dhek9MbVFzU1kwMm1rdzhIRV9jMmF0UnpxYw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 13:32:36 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Turn",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Apple Could Turn Your iPhone Into a Dumb Phone for Missed Lease Payments - Gizmodo",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVV8tRHVISVRTWkdxNlpMQzlTTmFfc09MaDg1SWx0YW8tYlA1ejBhUHBLZDVBQU5zTmE2ZTVGR1N4WFplTGhqNG1UcjZSRHV6aEptUmVGdzN4RmJjeDhWUVdwY0Q4VDBxbWdmaFBXR0Z1VHFQZzBWUkpJd1gxZkxRWDNlbHh6QmFRTjVfQXZNM2Z1c2NOOTYzbW9CRHJkYmpmcUVGVVJR?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 14:10:39 GMT"
+        },
+        {
+          "title": "Can This New Enzyme Turn Back the Clock in the Human Body? - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGcmtDaEdUS216RFoyVkNaZU1VanZrNkFMTXJ2b1RZMGhDY2h6bmllNFFUNDVPSUxiX09jTXg2bW9lcEwtSFhSeFpsSFFtcmxONTVQNHFocnlFNkYtd0U1ODJhUUpjUVAxaXpqYVdEU2dLNVVHQUNF?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 09:00:59 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Cases",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "As measles cases reach record highs, see your school’s vaccine rates - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMmJzQUNYUjZuTFFTWDhRSENIdmRmZTA0dzlHTjZkbktmUnRvN0FpdTFZYkF6WG9raEluSUZxdldSNTRlRC1ld1FZSlA5ZjhGRWdwZ1JVUF90UTljd0g0TTJMYmJUWHJtNWtDc3RPMmdlTWthc2dBUWZuOEhneWVGZW5ERy1HVGUwUXdSMjNjMjF6S1BBODFtT1dhek9MbVFzU1kwMm1rdzhIRV9jMmF0UnpxYw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 13:32:36 GMT"
+        },
+        {
+          "title": "CDC: ‘Disease detectives’ to investigate cyclosporiasis cases in Ohio - FOX 8 News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWW0xZWRZMGhyeFR0WVVhMFBOclBuQzVBTEZxR2doemlPSFRPR2RSWWVrdHY5cS1iZXZhZmZzeHdWUUpFSGtrLUVCTll4cWlwazE2RlVGZWJUaTFDcmJxNnpaVE1Ud0I4cUZpWGUxeDk5T1I1czQ0Qm96ak5sVnV3cDU1TWR6ZzJabjFnM1FsSDlyek3SAZgBQVVfeXFMUDZBNXpjNW12LW9GUmNULVhMeVZoNF9pMjdyNVdCcjhvbkZPSTNMNndEWEdmUzhhWnlMUmRRamRISm5YeXdLVUVwWDVYNUJOZFR5MmNfWF9Db0R0d0Qxb1JMeXgyZTRxU203NnlSMjZBWWg5NFAwOXVueWhDZS1GQ3Y3THFGWEVsU3M5SXBaX05UVjBVQmlIMXI?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 01:52:11 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Health",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "'It's not just an inconvenience': We've underestimated the health impacts of heavy periods - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHFJVXR6WGVOUUJpTHpYRTJBMjZ4ZTlNNzFhTjV3Z1NNaEV4TmF5ZFNWaE9Eak9lYXY2bmpGQVpFWndkWTZ0ZGhyS3YyN1NnUHAzbE4zdFhLM3A1eVZ6WTRrdllyVDk0bDRNWkpYeHpwalVkSVRTNkJXR0pieEJfQ2EyWmF4enZ3QWJXcEp4QlFxaFViZm1pckw1cVVUOXNoSVVjb0ZkdDk?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 09:12:17 GMT"
         },
         {
           "title": "‘There’s no salary’: DRC health workers tell of hardship as Ebola spreads - Al Jazeera",
@@ -79,224 +212,15 @@
       ]
     },
     {
-      "word": "Trade",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "U.S. sets new tariffs at 10% to 12.5% on 60 trade partners - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZU9IYlZxenpOT1FkMVFLMmdoU3ZXQkhHOTlXZUZDWTdRS3MzTTVIOUsyUDdRdUtKQ2d1eG53eVFleEpqcHdvS2R1bjRDSXFBMDZVSm5PMFJqOFRtWTBIMjlTb2NRN1hubUNpUXdlR1lXVUhkZTUwR0VmN1R4QmlhcWY5YXVvekVWMm8zRktzX2xvT2lUVXc?oc=5",
-          "source": "Google News",
-          "published": "Fri, 24 Jul 2026 08:07:00 GMT"
-        },
-        {
-          "title": "Buy or sell? Breaking down the case for seven bubble teams ahead of the 2026 MLB trade deadline - CBS Sports",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNmlYZTByZm5DSGN6XzZ2eGczS0RZMzQ0cU1SeC1yY1J5ZnlrLWhTajR0aVlrNU42dmVHdXRBaFFMQXJhbjVfcVkzUGkxd0t1Z29STWJaeEVOZnUxM3dQZVRzWGFySXNvbmZJVHZlQnRXdHlHSm4wU29Yek9lT1ktLUk3ODNpdVMtZk5DZHBaWkxaU0ptTERTN3NIZW9uR2NrRmM4Q3RMS2VnRUMxaEdhc0RuM18tcEVpTm1XN21UY0hvM3h0aTA0?oc=5",
-          "source": "Google News",
-          "published": "Thu, 23 Jul 2026 16:29:53 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Stabbed",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "2 Men Stabbed on Upper West Side in Possible Hate Crimes, Police Say - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ0l4RDFvbWJFc0FSWVM0RVV2S0JEdl82dnZQS09PRHlqVGNPSi1GSnl0a1ZVQU5DX3dIU1FKR3JqX1RVSUwxT21ta1A4S3hTNXFzMGVZY0ZUNVcxaWxrMmV2OXp5NHcxVjhwT3gwWWM3Q3FzVVoyXzJBakhFeHVZV0lhMWpVZw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 24 Jul 2026 02:08:27 GMT"
-        },
-        {
-          "title": "‘Marvelous Mrs. Maisel’ Set Decorator Mary Kate Golding Fatally Stabbed in N.Y. - Variety",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUTg0ZkRVbjlFeVhTamNSUHhBUEJYTm9pQUVvZC14SXZOWEVMVVJqVEJNMHhpMnZMcHRibFNrc044MXA3a2xxbDczRkljNXFTODVpWXU2cVFVRDhiaFhScFJkeGpOYUtoTnhKX21mVF9kR2xZWkJjSC02cmIxa3JJbmVLSDJ2RUdZVFI5cGZkUQ?oc=5",
-          "source": "Google News",
-          "published": "Fri, 24 Jul 2026 00:06:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Possible",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "2 Men Stabbed on Upper West Side in Possible Hate Crimes, Police Say - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ0l4RDFvbWJFc0FSWVM0RVV2S0JEdl82dnZQS09PRHlqVGNPSi1GSnl0a1ZVQU5DX3dIU1FKR3JqX1RVSUwxT21ta1A4S3hTNXFzMGVZY0ZUNVcxaWxrMmV2OXp5NHcxVjhwT3gwWWM3Q3FzVVoyXzJBakhFeHVZV0lhMWpVZw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 24 Jul 2026 02:08:27 GMT"
-        },
-        {
-          "title": "Maryland confirms 3 new measles cases, warns of possible exposures - WTOP",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYlB3Mk1Edjh5WHFTbWF3Zy15V3kwUHNNc1RsNWI1bkJ1Sjk4VER6bFlNd3JsQUNEQThLS0diQXBxVHdoVUNpdTc1SmpQQVAxc2JFOTBoUVM5cXpHVVZ0MzB5NXhhbFRGYVZIZ3lzTVNuRU9ESjVKYXViT19FMWJPYzVqblBtZEh1VFZIU0cxLVowbXVvMTdSUktZUzVoM1BPTUE?oc=5",
-          "source": "Google News",
-          "published": "Thu, 23 Jul 2026 21:56:10 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Loses",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Ken Paxton loses ruling in Texas abortion case against Houston-area midwife - Houston Chronicle",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPamdGRDJ5bWFrcFg1VlhET2VMbVpPWkRHSjdUYjlFNmdMRk9WZzlWSzFsWmVKalpBVzk2amlVR085TGQ3c1ZIbWYwcTRLdWVoaWk5STJadEY5ZldyNTZqMU5Wd2NSX0JvM3pUei1jeXJUN1FlMmZIWEJOeE5SMV9jd3UyRWpFZ1VtbTdQeU8zR3BOMGlHZmd4bw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 23 Jul 2026 23:21:44 GMT"
-        },
-        {
-          "title": "PFL Washington loses highly-anticipated welterweight title fight - MMA Junkie",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPT1hmdzNjVXQyWTRObmFNZWFfdjRpNV9La2NGenh2MjVOaXAtWjItcGl5b3hDa1JkSUJ1cXo4d2JiTkpWT3NVbllkNEFQaTNldWhETXZKeHpyU0E2aV9IYjdSWlRwQ2p4Y1NXYXR6UmVLblkyVkJqQ0R6N0VqLTE4WGFGRDM5MnlLMnpHMURnZ1RVTU9CV2V1blZZQ1F3Tjd2SDNSVjhaZWRPN2JZb051QkRDYmdJeFYwNU5CNVJWc0REb2FfRHI0Sll2djdKR3Bt?oc=5",
-          "source": "Google News",
-          "published": "Thu, 23 Jul 2026 23:37:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Case",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Ken Paxton loses ruling in Texas abortion case against Houston-area midwife - Houston Chronicle",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPamdGRDJ5bWFrcFg1VlhET2VMbVpPWkRHSjdUYjlFNmdMRk9WZzlWSzFsWmVKalpBVzk2amlVR085TGQ3c1ZIbWYwcTRLdWVoaWk5STJadEY5ZldyNTZqMU5Wd2NSX0JvM3pUei1jeXJUN1FlMmZIWEJOeE5SMV9jd3UyRWpFZ1VtbTdQeU8zR3BOMGlHZmd4bw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 23 Jul 2026 23:21:44 GMT"
-        },
-        {
-          "title": "Buy or sell? Breaking down the case for seven bubble teams ahead of the 2026 MLB trade deadline - CBS Sports",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNmlYZTByZm5DSGN6XzZ2eGczS0RZMzQ0cU1SeC1yY1J5ZnlrLWhTajR0aVlrNU42dmVHdXRBaFFMQXJhbjVfcVkzUGkxd0t1Z29STWJaeEVOZnUxM3dQZVRzWGFySXNvbmZJVHZlQnRXdHlHSm4wU29Yek9lT1ktLUk3ODNpdVMtZk5DZHBaWkxaU0ptTERTN3NIZW9uR2NrRmM4Q3RMS2VnRUMxaEdhc0RuM18tcEVpTm1XN21UY0hvM3h0aTA0?oc=5",
-          "source": "Google News",
-          "published": "Thu, 23 Jul 2026 16:29:53 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Iran",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "A Fallen Soldier’s Angst, Love and Longing to Return Home From the Iran War - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWkRDaTZxYTZyUEJIRjhycUE3WlpyX1FxYnZGbVNrX3d4MUJ3aXJLSFJsMXowQWo4Z1J1c0VJdEphNXdnMjZfQVV4cWplT1pwMmhRLXhZVUlTQUdxdUE2eFNXcnFETk5MLXU5bzhjUlRSbWdaRUE4dlFzNXdua0RzeFZzZ3ZZZG8?oc=5",
-          "source": "Google News",
-          "published": "Fri, 24 Jul 2026 00:04:57 GMT"
-        },
-        {
-          "title": "Trump vows to punish Iran and Houthis for attacks in Red Sea - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNFdZY1R2bFRCTk51X1E2U2dLZUphMDA2MVlUaGRzOEJXRXc5Vl9ObDNaVE9FNnU4eTV6TXBjYjRyR2xZekJYeGY2VHNrYW9hSjhpSjQ0aVJEdXBkSk9Ja2NXRjZjQng3Rkp1eFBHMlVwQ2paZUlVRnZUN0l3OThQRlZVLTJDanZHREpMTjFNVm9odWl5alZwRUpDbUhwSWRWeHc?oc=5",
-          "source": "Google News",
-          "published": "Fri, 24 Jul 2026 04:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Officials",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "U.S. health officials investigate new outbreak of parasite cyclospora - PBS",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOW02TG9OSWZFNFIxeHp1dFVMTHQzN2o5Nkt4QjJ2dVpRUVIxbVJSRFBDMTNveTZoWUZIRjR2RzcwZ1hWZGxlbnlZdWo5VzNvZGJXRDI4SGVHb09mWjdhX0xXaTQ4a3hnQlR1bTVaaklwUWdZSUJXd05OR015WHA3YXU2bUEzTE05bHBwYXY4TUY3YmtkaDlkbFpGNzdqcGF0TmV2UE9ySQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 23 Jul 2026 19:42:10 GMT"
-        },
-        {
-          "title": "Bat that dropped onto table at SoCal restaurant had rabies, officials say - Los Angeles Times",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX01hTTRNSHpCaU84bDg5M29jc0hnTmlybEQtRXZCNkN5ZGF5bDJqRzMxV1VicVdDSkdCbldzd2tRRm9QM0E3X2FrZDU4bF9uQzZ6eTNsckZGenIzRy11aE8wQmtJNzMzTlRJNHNtV1JfLVdCZ21IQjAta00xN1RLUTNnZnJpc09UNVpSc3JxZEZ3cDdkMnMwdHBleEp2V1lFWkJvekdxLURGUi13OElDMlh1OURkZWtINjNVT0QxUQ?oc=5",
-          "source": "Google News",
-          "published": "Fri, 24 Jul 2026 01:12:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Stock",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Why Alphabet Stock Is Falling: The 1 Key Metric Rattling Investors - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd3Q3R0dXYXdUSGp5enNhLU1mWUNFTGFfenJOZDM1UmFiSGpfWVdvU2E0Qm41YXNfY0h4YTdLbWpOQ2J1UWpEeGtsXzFSQ2ItQnB4N2JuaXpFN2dMWVN5WkNrVkdpUEd5UXJXMWxpZ0tUZWw5MEo1Z05remwxdlJrbVVFeVpnNHpINHc?oc=5",
-          "source": "Google News",
-          "published": "Thu, 23 Jul 2026 20:55:00 GMT"
-        },
-        {
-          "title": "SpaceX’s Latest Growth Opportunity Isn’t About Starship. And It Isn’t Helping the Stock. - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa1EyV0RadjdqWWQzejJuZHlkMDZoMlRkQ3laYWozNHZwQy1VSXdSdzJwa1ZoamZEckVzejYyUnVUY0ZDaU9hUDZxSFMzakFrdHJTNGNPX0VtVFF6NDcyLWhxUDBrRlhQWTBXVGU1YlVBTV9zZEd5X1RiZER0VHBwc3hWdUpMaUE?oc=5",
-          "source": "Google News",
-          "published": "Wed, 22 Jul 2026 21:54:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Openai",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Microsoft launches new in-house AI models it says cut costs up to 89% versus OpenAI - VentureBeat",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSTZYWFpQOXB1YmdpWHo1bEswUlBWaGNUX0Z6dEtVR3dBeXBUVXJoNHk3bVJnYXZfZlNNbWFGY1JULUF3bHBUNk1ySHUta1BGYy12b3ZWdXR0aG1yQVRvRW1ZY1lfSGxMZFJfR0cxc2wySnNKWTc0dVptdjlrX3IxakdqMEVsMmxERHZoR0NVRWJ0d1BUbGlqd3k0TDdxSFFCanMwbVNaMWlnWTZPb2EtN1Jtd2tnYkpoejZrUXBn?oc=5",
-          "source": "Google News",
-          "published": "Thu, 23 Jul 2026 23:37:05 GMT"
-        },
-        {
-          "title": "OpenAI makes ChatGPT Health available to all US users - TechCrunch",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSlRtRzNDR2ZJTTBnZWtSdWNtdVdocVVSc1h4cXpXTEhnd0JDSmFFNy02LThsLW9UbHhNdGt3RnQtS0tHZ3ZfMzRsUW5Ucm9mOE5DRmZWb3habm1ueDh0cE13MnV1aVp3ZEFzRWctOEdOUWJsbzVlNm1vSEoycGJzckQ3ZTduVzJzcW85Y2x5ZGhzV3c?oc=5",
-          "source": "Google News",
-          "published": "Thu, 23 Jul 2026 17:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Latest",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "SpaceX’s Latest Growth Opportunity Isn’t About Starship. And It Isn’t Helping the Stock. - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa1EyV0RadjdqWWQzejJuZHlkMDZoMlRkQ3laYWozNHZwQy1VSXdSdzJwa1ZoamZEckVzejYyUnVUY0ZDaU9hUDZxSFMzakFrdHJTNGNPX0VtVFF6NDcyLWhxUDBrRlhQWTBXVGU1YlVBTV9zZEd5X1RiZER0VHBwc3hWdUpMaUE?oc=5",
-          "source": "Google News",
-          "published": "Wed, 22 Jul 2026 21:54:00 GMT"
-        },
-        {
-          "title": "A Beaverton trampoline park is Oregon's latest measles exposure site - KGW",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMkJ4WEFud1U2WjBTbllpZWR3WEVmbGVaLW9EVEZLdHVKSmFhb2I1cFZJdDNmNUJLZlRPTHlwZDBSZ1BQY3FoSVQtZXZPM2E1R0RjcmVYalF4YnkyZ1ZvN0VWNVZxMlc5YkdMUGQxbU5mckZIMHRqYWlzYXFGNERKQ294RWdvOXJWcF9ONENCSmhYdUIwWUNMaDlDX0EzS0JHek40WHB5ZFkwRnVzUU5zdzlDS3ViaXVrOGplZlFsay1Jbjk4aFQyQWVueF8zckxqU3NwQ3lrYlhZQQ?oc=5",
-          "source": "Google News",
-          "published": "Fri, 24 Jul 2026 01:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Measles",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Maryland confirms 3 new measles cases, warns of possible exposures - WTOP",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYlB3Mk1Edjh5WHFTbWF3Zy15V3kwUHNNc1RsNWI1bkJ1Sjk4VER6bFlNd3JsQUNEQThLS0diQXBxVHdoVUNpdTc1SmpQQVAxc2JFOTBoUVM5cXpHVVZ0MzB5NXhhbFRGYVZIZ3lzTVNuRU9ESjVKYXViT19FMWJPYzVqblBtZEh1VFZIU0cxLVowbXVvMTdSUktZUzVoM1BPTUE?oc=5",
-          "source": "Google News",
-          "published": "Thu, 23 Jul 2026 21:56:10 GMT"
-        },
-        {
-          "title": "A Beaverton trampoline park is Oregon's latest measles exposure site - KGW",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMkJ4WEFud1U2WjBTbllpZWR3WEVmbGVaLW9EVEZLdHVKSmFhb2I1cFZJdDNmNUJLZlRPTHlwZDBSZ1BQY3FoSVQtZXZPM2E1R0RjcmVYalF4YnkyZ1ZvN0VWNVZxMlc5YkdMUGQxbU5mckZIMHRqYWlzYXFGNERKQ294RWdvOXJWcF9ONENCSmhYdUIwWUNMaDlDX0EzS0JHek40WHB5ZFkwRnVzUU5zdzlDS3ViaXVrOGplZlFsay1Jbjk4aFQyQWVueF8zckxqU3NwQ3lrYlhZQQ?oc=5",
-          "source": "Google News",
-          "published": "Fri, 24 Jul 2026 01:00:00 GMT"
-        }
-      ]
-    },
-    {
       "word": "Sets",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "U.S. sets new tariffs at 10% to 12.5% on 60 trade partners - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZU9IYlZxenpOT1FkMVFLMmdoU3ZXQkhHOTlXZUZDWTdRS3MzTTVIOUsyUDdRdUtKQ2d1eG53eVFleEpqcHdvS2R1bjRDSXFBMDZVSm5PMFJqOFRtWTBIMjlTb2NRN1hubUNpUXdlR1lXVUhkZTUwR0VmN1R4QmlhcWY5YXVvekVWMm8zRktzX2xvT2lUVXc?oc=5",
+          "title": "Trump sets new tariffs to punish use of ‘forced labor,’ replacing expiring import taxes - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRjVBblIyWkkxX3FZTEs5cWNlVVo4MGlyWE1hVjJBaERjV2NKRXZqUWpWSkI5dlRhdnRsS3ZId3dJWW13TGpvV3VSM2xoRERCcnVYRE5DX1JVdGRlZ3dwVFpKRW42OXFZZGtuRHRnbFRaZEVyNWhVenFEWWFyQl9LdXIxUU5wX0xMYnpwa0NQTWpiU1JBNnl4dHNwWU9idlc5c29TRE5Dd1luLXhwWFowN01wOUtwQmN0QXBZeU1qRE83Y294Z09HR29pYng1YjEzRmc?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 08:07:00 GMT"
+          "published": "Fri, 24 Jul 2026 12:36:06 GMT"
         }
       ]
     },
@@ -306,62 +230,23 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "U.S. sets new tariffs at 10% to 12.5% on 60 trade partners - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZU9IYlZxenpOT1FkMVFLMmdoU3ZXQkhHOTlXZUZDWTdRS3MzTTVIOUsyUDdRdUtKQ2d1eG53eVFleEpqcHdvS2R1bjRDSXFBMDZVSm5PMFJqOFRtWTBIMjlTb2NRN1hubUNpUXdlR1lXVUhkZTUwR0VmN1R4QmlhcWY5YXVvekVWMm8zRktzX2xvT2lUVXc?oc=5",
+          "title": "Trump sets new tariffs to punish use of ‘forced labor,’ replacing expiring import taxes - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRjVBblIyWkkxX3FZTEs5cWNlVVo4MGlyWE1hVjJBaERjV2NKRXZqUWpWSkI5dlRhdnRsS3ZId3dJWW13TGpvV3VSM2xoRERCcnVYRE5DX1JVdGRlZ3dwVFpKRW42OXFZZGtuRHRnbFRaZEVyNWhVenFEWWFyQl9LdXIxUU5wX0xMYnpwa0NQTWpiU1JBNnl4dHNwWU9idlc5c29TRE5Dd1luLXhwWFowN01wOUtwQmN0QXBZeU1qRE83Y294Z09HR29pYng1YjEzRmc?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 08:07:00 GMT"
+          "published": "Fri, 24 Jul 2026 12:36:06 GMT"
         }
       ]
     },
     {
-      "word": "Partners",
+      "word": "Punish",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "U.S. sets new tariffs at 10% to 12.5% on 60 trade partners - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZU9IYlZxenpOT1FkMVFLMmdoU3ZXQkhHOTlXZUZDWTdRS3MzTTVIOUsyUDdRdUtKQ2d1eG53eVFleEpqcHdvS2R1bjRDSXFBMDZVSm5PMFJqOFRtWTBIMjlTb2NRN1hubUNpUXdlR1lXVUhkZTUwR0VmN1R4QmlhcWY5YXVvekVWMm8zRktzX2xvT2lUVXc?oc=5",
+          "title": "Trump sets new tariffs to punish use of ‘forced labor,’ replacing expiring import taxes - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRjVBblIyWkkxX3FZTEs5cWNlVVo4MGlyWE1hVjJBaERjV2NKRXZqUWpWSkI5dlRhdnRsS3ZId3dJWW13TGpvV3VSM2xoRERCcnVYRE5DX1JVdGRlZ3dwVFpKRW42OXFZZGtuRHRnbFRaZEVyNWhVenFEWWFyQl9LdXIxUU5wX0xMYnpwa0NQTWpiU1JBNnl4dHNwWU9idlc5c29TRE5Dd1luLXhwWFowN01wOUtwQmN0QXBZeU1qRE83Y294Z09HR29pYng1YjEzRmc?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 08:07:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Tehran",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Tehran slams Trump’s threat to use frozen Iranian assets as ‘incendiary’ - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOend1QS0zTW9JbFRwR3RGWmY2QmdNbmdidEo4c2VxeUhESUd2SnN6cEpBTE5hRzMtRHc3Tks2azA5bF9aalF5ZHJ0MjMxb2J4dy16LWlTZFBmNTczMmR6dFZFQjVIVl9lcGJVSXIzYjFxMVFuQzFOMUtEemRRR2M2SWcwUF9TY1EycjZIbmlxMmo1YUFuR3RPRk1MWUE4RVF0dm5veVpwY3NjR05GTUZz0gG0AUFVX3lxTE93UUEyTG1LTTh3Yjg1VEpETXVIdVRnZmdHZmo4bEJpZnpsUVkxMGtONFFDVFRzTi1iMU03VXBKUUowbkhOMnFvWDdnbWU3X3R2MFVDM2tyYTQxT3ZkU0dhbHhPanFrbnFKRzh5SUktaUJWYmp5N3RsU2JIWmFFZlVwNDhGRGZfZXdOd0NTNnBsSjFLOVozUlYtMnhwWnVLNWd6TmJaV25VcjhiLTRWdm5NYVd5bw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 24 Jul 2026 07:00:21 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Slams",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Tehran slams Trump’s threat to use frozen Iranian assets as ‘incendiary’ - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOend1QS0zTW9JbFRwR3RGWmY2QmdNbmdidEo4c2VxeUhESUd2SnN6cEpBTE5hRzMtRHc3Tks2azA5bF9aalF5ZHJ0MjMxb2J4dy16LWlTZFBmNTczMmR6dFZFQjVIVl9lcGJVSXIzYjFxMVFuQzFOMUtEemRRR2M2SWcwUF9TY1EycjZIbmlxMmo1YUFuR3RPRk1MWUE4RVF0dm5veVpwY3NjR05GTUZz0gG0AUFVX3lxTE93UUEyTG1LTTh3Yjg1VEpETXVIdVRnZmdHZmo4bEJpZnpsUVkxMGtONFFDVFRzTi1iMU03VXBKUUowbkhOMnFvWDdnbWU3X3R2MFVDM2tyYTQxT3ZkU0dhbHhPanFrbnFKRzh5SUktaUJWYmp5N3RsU2JIWmFFZlVwNDhGRGZfZXdOd0NTNnBsSjFLOVozUlYtMnhwWnVLNWd6TmJaV25VcjhiLTRWdm5NYVd5bw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 24 Jul 2026 07:00:21 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Threat",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Tehran slams Trump’s threat to use frozen Iranian assets as ‘incendiary’ - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOend1QS0zTW9JbFRwR3RGWmY2QmdNbmdidEo4c2VxeUhESUd2SnN6cEpBTE5hRzMtRHc3Tks2azA5bF9aalF5ZHJ0MjMxb2J4dy16LWlTZFBmNTczMmR6dFZFQjVIVl9lcGJVSXIzYjFxMVFuQzFOMUtEemRRR2M2SWcwUF9TY1EycjZIbmlxMmo1YUFuR3RPRk1MWUE4RVF0dm5veVpwY3NjR05GTUZz0gG0AUFVX3lxTE93UUEyTG1LTTh3Yjg1VEpETXVIdVRnZmdHZmo4bEJpZnpsUVkxMGtONFFDVFRzTi1iMU03VXBKUUowbkhOMnFvWDdnbWU3X3R2MFVDM2tyYTQxT3ZkU0dhbHhPanFrbnFKRzh5SUktaUJWYmp5N3RsU2JIWmFFZlVwNDhGRGZfZXdOd0NTNnBsSjFLOVozUlYtMnhwWnVLNWd6TmJaV25VcjhiLTRWdm5NYVd5bw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 24 Jul 2026 07:00:21 GMT"
+          "published": "Fri, 24 Jul 2026 12:36:06 GMT"
         }
       ]
     },
@@ -371,257 +256,348 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Tehran slams Trump’s threat to use frozen Iranian assets as ‘incendiary’ - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOend1QS0zTW9JbFRwR3RGWmY2QmdNbmdidEo4c2VxeUhESUd2SnN6cEpBTE5hRzMtRHc3Tks2azA5bF9aalF5ZHJ0MjMxb2J4dy16LWlTZFBmNTczMmR6dFZFQjVIVl9lcGJVSXIzYjFxMVFuQzFOMUtEemRRR2M2SWcwUF9TY1EycjZIbmlxMmo1YUFuR3RPRk1MWUE4RVF0dm5veVpwY3NjR05GTUZz0gG0AUFVX3lxTE93UUEyTG1LTTh3Yjg1VEpETXVIdVRnZmdHZmo4bEJpZnpsUVkxMGtONFFDVFRzTi1iMU03VXBKUUowbkhOMnFvWDdnbWU3X3R2MFVDM2tyYTQxT3ZkU0dhbHhPanFrbnFKRzh5SUktaUJWYmp5N3RsU2JIWmFFZlVwNDhGRGZfZXdOd0NTNnBsSjFLOVozUlYtMnhwWnVLNWd6TmJaV25VcjhiLTRWdm5NYVd5bw?oc=5",
+          "title": "Trump sets new tariffs to punish use of ‘forced labor,’ replacing expiring import taxes - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRjVBblIyWkkxX3FZTEs5cWNlVVo4MGlyWE1hVjJBaERjV2NKRXZqUWpWSkI5dlRhdnRsS3ZId3dJWW13TGpvV3VSM2xoRERCcnVYRE5DX1JVdGRlZ3dwVFpKRW42OXFZZGtuRHRnbFRaZEVyNWhVenFEWWFyQl9LdXIxUU5wX0xMYnpwa0NQTWpiU1JBNnl4dHNwWU9idlc5c29TRE5Dd1luLXhwWFowN01wOUtwQmN0QXBZeU1qRE83Y294Z09HR29pYng1YjEzRmc?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 07:00:21 GMT"
+          "published": "Fri, 24 Jul 2026 12:36:06 GMT"
         }
       ]
     },
     {
-      "word": "Frozen",
+      "word": "Forced",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Tehran slams Trump’s threat to use frozen Iranian assets as ‘incendiary’ - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOend1QS0zTW9JbFRwR3RGWmY2QmdNbmdidEo4c2VxeUhESUd2SnN6cEpBTE5hRzMtRHc3Tks2azA5bF9aalF5ZHJ0MjMxb2J4dy16LWlTZFBmNTczMmR6dFZFQjVIVl9lcGJVSXIzYjFxMVFuQzFOMUtEemRRR2M2SWcwUF9TY1EycjZIbmlxMmo1YUFuR3RPRk1MWUE4RVF0dm5veVpwY3NjR05GTUZz0gG0AUFVX3lxTE93UUEyTG1LTTh3Yjg1VEpETXVIdVRnZmdHZmo4bEJpZnpsUVkxMGtONFFDVFRzTi1iMU03VXBKUUowbkhOMnFvWDdnbWU3X3R2MFVDM2tyYTQxT3ZkU0dhbHhPanFrbnFKRzh5SUktaUJWYmp5N3RsU2JIWmFFZlVwNDhGRGZfZXdOd0NTNnBsSjFLOVozUlYtMnhwWnVLNWd6TmJaV25VcjhiLTRWdm5NYVd5bw?oc=5",
+          "title": "Trump sets new tariffs to punish use of ‘forced labor,’ replacing expiring import taxes - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRjVBblIyWkkxX3FZTEs5cWNlVVo4MGlyWE1hVjJBaERjV2NKRXZqUWpWSkI5dlRhdnRsS3ZId3dJWW13TGpvV3VSM2xoRERCcnVYRE5DX1JVdGRlZ3dwVFpKRW42OXFZZGtuRHRnbFRaZEVyNWhVenFEWWFyQl9LdXIxUU5wX0xMYnpwa0NQTWpiU1JBNnl4dHNwWU9idlc5c29TRE5Dd1luLXhwWFowN01wOUtwQmN0QXBZeU1qRE83Y294Z09HR29pYng1YjEzRmc?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 07:00:21 GMT"
+          "published": "Fri, 24 Jul 2026 12:36:06 GMT"
         }
       ]
     },
     {
-      "word": "Iranian",
+      "word": "Labor",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Tehran slams Trump’s threat to use frozen Iranian assets as ‘incendiary’ - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOend1QS0zTW9JbFRwR3RGWmY2QmdNbmdidEo4c2VxeUhESUd2SnN6cEpBTE5hRzMtRHc3Tks2azA5bF9aalF5ZHJ0MjMxb2J4dy16LWlTZFBmNTczMmR6dFZFQjVIVl9lcGJVSXIzYjFxMVFuQzFOMUtEemRRR2M2SWcwUF9TY1EycjZIbmlxMmo1YUFuR3RPRk1MWUE4RVF0dm5veVpwY3NjR05GTUZz0gG0AUFVX3lxTE93UUEyTG1LTTh3Yjg1VEpETXVIdVRnZmdHZmo4bEJpZnpsUVkxMGtONFFDVFRzTi1iMU03VXBKUUowbkhOMnFvWDdnbWU3X3R2MFVDM2tyYTQxT3ZkU0dhbHhPanFrbnFKRzh5SUktaUJWYmp5N3RsU2JIWmFFZlVwNDhGRGZfZXdOd0NTNnBsSjFLOVozUlYtMnhwWnVLNWd6TmJaV25VcjhiLTRWdm5NYVd5bw?oc=5",
+          "title": "Trump sets new tariffs to punish use of ‘forced labor,’ replacing expiring import taxes - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRjVBblIyWkkxX3FZTEs5cWNlVVo4MGlyWE1hVjJBaERjV2NKRXZqUWpWSkI5dlRhdnRsS3ZId3dJWW13TGpvV3VSM2xoRERCcnVYRE5DX1JVdGRlZ3dwVFpKRW42OXFZZGtuRHRnbFRaZEVyNWhVenFEWWFyQl9LdXIxUU5wX0xMYnpwa0NQTWpiU1JBNnl4dHNwWU9idlc5c29TRE5Dd1luLXhwWFowN01wOUtwQmN0QXBZeU1qRE83Y294Z09HR29pYng1YjEzRmc?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 07:00:21 GMT"
+          "published": "Fri, 24 Jul 2026 12:36:06 GMT"
         }
       ]
     },
     {
-      "word": "Assets",
+      "word": "Replacing",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Tehran slams Trump’s threat to use frozen Iranian assets as ‘incendiary’ - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOend1QS0zTW9JbFRwR3RGWmY2QmdNbmdidEo4c2VxeUhESUd2SnN6cEpBTE5hRzMtRHc3Tks2azA5bF9aalF5ZHJ0MjMxb2J4dy16LWlTZFBmNTczMmR6dFZFQjVIVl9lcGJVSXIzYjFxMVFuQzFOMUtEemRRR2M2SWcwUF9TY1EycjZIbmlxMmo1YUFuR3RPRk1MWUE4RVF0dm5veVpwY3NjR05GTUZz0gG0AUFVX3lxTE93UUEyTG1LTTh3Yjg1VEpETXVIdVRnZmdHZmo4bEJpZnpsUVkxMGtONFFDVFRzTi1iMU03VXBKUUowbkhOMnFvWDdnbWU3X3R2MFVDM2tyYTQxT3ZkU0dhbHhPanFrbnFKRzh5SUktaUJWYmp5N3RsU2JIWmFFZlVwNDhGRGZfZXdOd0NTNnBsSjFLOVozUlYtMnhwWnVLNWd6TmJaV25VcjhiLTRWdm5NYVd5bw?oc=5",
+          "title": "Trump sets new tariffs to punish use of ‘forced labor,’ replacing expiring import taxes - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRjVBblIyWkkxX3FZTEs5cWNlVVo4MGlyWE1hVjJBaERjV2NKRXZqUWpWSkI5dlRhdnRsS3ZId3dJWW13TGpvV3VSM2xoRERCcnVYRE5DX1JVdGRlZ3dwVFpKRW42OXFZZGtuRHRnbFRaZEVyNWhVenFEWWFyQl9LdXIxUU5wX0xMYnpwa0NQTWpiU1JBNnl4dHNwWU9idlc5c29TRE5Dd1luLXhwWFowN01wOUtwQmN0QXBZeU1qRE83Y294Z09HR29pYng1YjEzRmc?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 07:00:21 GMT"
+          "published": "Fri, 24 Jul 2026 12:36:06 GMT"
         }
       ]
     },
     {
-      "word": "Incendiary",
+      "word": "Expiring",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Tehran slams Trump’s threat to use frozen Iranian assets as ‘incendiary’ - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOend1QS0zTW9JbFRwR3RGWmY2QmdNbmdidEo4c2VxeUhESUd2SnN6cEpBTE5hRzMtRHc3Tks2azA5bF9aalF5ZHJ0MjMxb2J4dy16LWlTZFBmNTczMmR6dFZFQjVIVl9lcGJVSXIzYjFxMVFuQzFOMUtEemRRR2M2SWcwUF9TY1EycjZIbmlxMmo1YUFuR3RPRk1MWUE4RVF0dm5veVpwY3NjR05GTUZz0gG0AUFVX3lxTE93UUEyTG1LTTh3Yjg1VEpETXVIdVRnZmdHZmo4bEJpZnpsUVkxMGtONFFDVFRzTi1iMU03VXBKUUowbkhOMnFvWDdnbWU3X3R2MFVDM2tyYTQxT3ZkU0dhbHhPanFrbnFKRzh5SUktaUJWYmp5N3RsU2JIWmFFZlVwNDhGRGZfZXdOd0NTNnBsSjFLOVozUlYtMnhwWnVLNWd6TmJaV25VcjhiLTRWdm5NYVd5bw?oc=5",
+          "title": "Trump sets new tariffs to punish use of ‘forced labor,’ replacing expiring import taxes - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRjVBblIyWkkxX3FZTEs5cWNlVVo4MGlyWE1hVjJBaERjV2NKRXZqUWpWSkI5dlRhdnRsS3ZId3dJWW13TGpvV3VSM2xoRERCcnVYRE5DX1JVdGRlZ3dwVFpKRW42OXFZZGtuRHRnbFRaZEVyNWhVenFEWWFyQl9LdXIxUU5wX0xMYnpwa0NQTWpiU1JBNnl4dHNwWU9idlc5c29TRE5Dd1luLXhwWFowN01wOUtwQmN0QXBZeU1qRE83Y294Z09HR29pYng1YjEzRmc?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 07:00:21 GMT"
+          "published": "Fri, 24 Jul 2026 12:36:06 GMT"
         }
       ]
     },
     {
-      "word": "Upended",
+      "word": "Import",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "How Trump upended the Saudi nuclear deal less than 24 hours after its signing - CNN",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSVVXZUVSZmo2bG5paUFoTEdKRjJfQ3RVUkxPSU55WGxzRFpXM2N4cDZLbGtqR1U0dDZsUFRLRXhhWkltaV9pejV2Ukpia000cEY0X1hiX1MweE9ZLWF2dWJvNFh6WHNOQVB3UGt4Vkk3V1d6dV9yZ3luOU9yWFc4cm92VUs?oc=5",
+          "title": "Trump sets new tariffs to punish use of ‘forced labor,’ replacing expiring import taxes - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRjVBblIyWkkxX3FZTEs5cWNlVVo4MGlyWE1hVjJBaERjV2NKRXZqUWpWSkI5dlRhdnRsS3ZId3dJWW13TGpvV3VSM2xoRERCcnVYRE5DX1JVdGRlZ3dwVFpKRW42OXFZZGtuRHRnbFRaZEVyNWhVenFEWWFyQl9LdXIxUU5wX0xMYnpwa0NQTWpiU1JBNnl4dHNwWU9idlc5c29TRE5Dd1luLXhwWFowN01wOUtwQmN0QXBZeU1qRE83Y294Z09HR29pYng1YjEzRmc?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 00:31:00 GMT"
+          "published": "Fri, 24 Jul 2026 12:36:06 GMT"
         }
       ]
     },
     {
-      "word": "Saudi",
+      "word": "Taxes",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "How Trump upended the Saudi nuclear deal less than 24 hours after its signing - CNN",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSVVXZUVSZmo2bG5paUFoTEdKRjJfQ3RVUkxPSU55WGxzRFpXM2N4cDZLbGtqR1U0dDZsUFRLRXhhWkltaV9pejV2Ukpia000cEY0X1hiX1MweE9ZLWF2dWJvNFh6WHNOQVB3UGt4Vkk3V1d6dV9yZ3luOU9yWFc4cm92VUs?oc=5",
+          "title": "Trump sets new tariffs to punish use of ‘forced labor,’ replacing expiring import taxes - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRjVBblIyWkkxX3FZTEs5cWNlVVo4MGlyWE1hVjJBaERjV2NKRXZqUWpWSkI5dlRhdnRsS3ZId3dJWW13TGpvV3VSM2xoRERCcnVYRE5DX1JVdGRlZ3dwVFpKRW42OXFZZGtuRHRnbFRaZEVyNWhVenFEWWFyQl9LdXIxUU5wX0xMYnpwa0NQTWpiU1JBNnl4dHNwWU9idlc5c29TRE5Dd1luLXhwWFowN01wOUtwQmN0QXBZeU1qRE83Y294Z09HR29pYng1YjEzRmc?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 00:31:00 GMT"
+          "published": "Fri, 24 Jul 2026 12:36:06 GMT"
         }
       ]
     },
     {
-      "word": "Nuclear",
+      "word": "Launches",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "How Trump upended the Saudi nuclear deal less than 24 hours after its signing - CNN",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSVVXZUVSZmo2bG5paUFoTEdKRjJfQ3RVUkxPSU55WGxzRFpXM2N4cDZLbGtqR1U0dDZsUFRLRXhhWkltaV9pejV2Ukpia000cEY0X1hiX1MweE9ZLWF2dWJvNFh6WHNOQVB3UGt4Vkk3V1d6dV9yZ3luOU9yWFc4cm92VUs?oc=5",
+          "title": "U.S. launches new strikes and Trump threatens ‘massive attack’ as Iran widens war - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVVBPQ0I2WkRxUFdZWkNFUDlOb2tPRWtFX05MUXp3ODhwLXpyQV96MmxLZFNEWlk0VkRSNGl0YmVQRE54MFpYX2hhbHZ2UVhydjBzLVdRNm5PZ1cwdW41V1A4MWpueHE2ajNhOXRkNGI3U18yY2s1V3EwWERXeDlNblBZVHJLS2dyeG5mTEVNZXVySVdnbVF4Ym5DemhyRHl1VGFFU2JUMGc?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 00:31:00 GMT"
+          "published": "Fri, 24 Jul 2026 11:13:56 GMT"
         }
       ]
     },
     {
-      "word": "Deal",
+      "word": "Strikes",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "How Trump upended the Saudi nuclear deal less than 24 hours after its signing - CNN",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSVVXZUVSZmo2bG5paUFoTEdKRjJfQ3RVUkxPSU55WGxzRFpXM2N4cDZLbGtqR1U0dDZsUFRLRXhhWkltaV9pejV2Ukpia000cEY0X1hiX1MweE9ZLWF2dWJvNFh6WHNOQVB3UGt4Vkk3V1d6dV9yZ3luOU9yWFc4cm92VUs?oc=5",
+          "title": "U.S. launches new strikes and Trump threatens ‘massive attack’ as Iran widens war - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVVBPQ0I2WkRxUFdZWkNFUDlOb2tPRWtFX05MUXp3ODhwLXpyQV96MmxLZFNEWlk0VkRSNGl0YmVQRE54MFpYX2hhbHZ2UVhydjBzLVdRNm5PZ1cwdW41V1A4MWpueHE2ajNhOXRkNGI3U18yY2s1V3EwWERXeDlNblBZVHJLS2dyeG5mTEVNZXVySVdnbVF4Ym5DemhyRHl1VGFFU2JUMGc?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 00:31:00 GMT"
+          "published": "Fri, 24 Jul 2026 11:13:56 GMT"
         }
       ]
     },
     {
-      "word": "Less",
+      "word": "Massive",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "How Trump upended the Saudi nuclear deal less than 24 hours after its signing - CNN",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSVVXZUVSZmo2bG5paUFoTEdKRjJfQ3RVUkxPSU55WGxzRFpXM2N4cDZLbGtqR1U0dDZsUFRLRXhhWkltaV9pejV2Ukpia000cEY0X1hiX1MweE9ZLWF2dWJvNFh6WHNOQVB3UGt4Vkk3V1d6dV9yZ3luOU9yWFc4cm92VUs?oc=5",
+          "title": "U.S. launches new strikes and Trump threatens ‘massive attack’ as Iran widens war - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVVBPQ0I2WkRxUFdZWkNFUDlOb2tPRWtFX05MUXp3ODhwLXpyQV96MmxLZFNEWlk0VkRSNGl0YmVQRE54MFpYX2hhbHZ2UVhydjBzLVdRNm5PZ1cwdW41V1A4MWpueHE2ajNhOXRkNGI3U18yY2s1V3EwWERXeDlNblBZVHJLS2dyeG5mTEVNZXVySVdnbVF4Ym5DemhyRHl1VGFFU2JUMGc?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 00:31:00 GMT"
+          "published": "Fri, 24 Jul 2026 11:13:56 GMT"
         }
       ]
     },
     {
-      "word": "Hours",
+      "word": "Widens",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "How Trump upended the Saudi nuclear deal less than 24 hours after its signing - CNN",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSVVXZUVSZmo2bG5paUFoTEdKRjJfQ3RVUkxPSU55WGxzRFpXM2N4cDZLbGtqR1U0dDZsUFRLRXhhWkltaV9pejV2Ukpia000cEY0X1hiX1MweE9ZLWF2dWJvNFh6WHNOQVB3UGt4Vkk3V1d6dV9yZ3luOU9yWFc4cm92VUs?oc=5",
+          "title": "U.S. launches new strikes and Trump threatens ‘massive attack’ as Iran widens war - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVVBPQ0I2WkRxUFdZWkNFUDlOb2tPRWtFX05MUXp3ODhwLXpyQV96MmxLZFNEWlk0VkRSNGl0YmVQRE54MFpYX2hhbHZ2UVhydjBzLVdRNm5PZ1cwdW41V1A4MWpueHE2ajNhOXRkNGI3U18yY2s1V3EwWERXeDlNblBZVHJLS2dyeG5mTEVNZXVySVdnbVF4Ym5DemhyRHl1VGFFU2JUMGc?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 00:31:00 GMT"
+          "published": "Fri, 24 Jul 2026 11:13:56 GMT"
         }
       ]
     },
     {
-      "word": "Signing",
+      "word": "war",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "How Trump upended the Saudi nuclear deal less than 24 hours after its signing - CNN",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSVVXZUVSZmo2bG5paUFoTEdKRjJfQ3RVUkxPSU55WGxzRFpXM2N4cDZLbGtqR1U0dDZsUFRLRXhhWkltaV9pejV2Ukpia000cEY0X1hiX1MweE9ZLWF2dWJvNFh6WHNOQVB3UGt4Vkk3V1d6dV9yZ3luOU9yWFc4cm92VUs?oc=5",
+          "title": "U.S. launches new strikes and Trump threatens ‘massive attack’ as Iran widens war - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVVBPQ0I2WkRxUFdZWkNFUDlOb2tPRWtFX05MUXp3ODhwLXpyQV96MmxLZFNEWlk0VkRSNGl0YmVQRE54MFpYX2hhbHZ2UVhydjBzLVdRNm5PZ1cwdW41V1A4MWpueHE2ajNhOXRkNGI3U18yY2s1V3EwWERXeDlNblBZVHJLS2dyeG5mTEVNZXVySVdnbVF4Ym5DemhyRHl1VGFFU2JUMGc?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 00:31:00 GMT"
+          "published": "Fri, 24 Jul 2026 11:13:56 GMT"
         }
       ]
     },
     {
-      "word": "Men",
+      "word": "Attacker",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "2 Men Stabbed on Upper West Side in Possible Hate Crimes, Police Say - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ0l4RDFvbWJFc0FSWVM0RVV2S0JEdl82dnZQS09PRHlqVGNPSi1GSnl0a1ZVQU5DX3dIU1FKR3JqX1RVSUwxT21ta1A4S3hTNXFzMGVZY0ZUNVcxaWxrMmV2OXp5NHcxVjhwT3gwWWM3Q3FzVVoyXzJBakhFeHVZV0lhMWpVZw?oc=5",
+          "title": "Attacker shouting ‘allahu akbar’ stabs Jewish man with a screwdriver in NYC - The Times of Israel",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSFVIU2QyWmIwS3JsUUtTMm5yUjlLb2dtbzRvLTNveE11MGRLWkVVc3E3UlczdzRvaVcwTlhuMU8zcHJtQ1ZUeVZsWkI2YzVPdTFwam9BdE1pc3B5UVVsZjdTZVBJdU1oLUVyUkI0Mk5UTVVzS2RZUDh5cUNzem1qV1FRR09kTTZBWU5mX2JUbWx6STh0VUo3YVlSLVJMVDhoUnRaVlRkc9IBrAFBVV95cUxNcUIwVFVQa0taQl84YTR2Qi05MWd2eFduczdFS0FRUXRtdVpUYjM1ZVhOcUc5WVBzOWVMdHVVRUVlQ0JCZk1FV3NMZEZkREhVNXF6Z0RBVVpmMkJBbEs4OVV4SkxIalFoMEF2X2VIWGswYUxRN1FmcUQwS24xaTk0YjFocmNJNUY1cEtJeklBQUMwMEZ1SUk0WFRUUzhkQ2RyMXRiTW1CN1lNaGR5?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 02:08:27 GMT"
+          "published": "Fri, 24 Jul 2026 02:23:17 GMT"
         }
       ]
     },
     {
-      "word": "Upper",
+      "word": "Shouting",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "2 Men Stabbed on Upper West Side in Possible Hate Crimes, Police Say - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ0l4RDFvbWJFc0FSWVM0RVV2S0JEdl82dnZQS09PRHlqVGNPSi1GSnl0a1ZVQU5DX3dIU1FKR3JqX1RVSUwxT21ta1A4S3hTNXFzMGVZY0ZUNVcxaWxrMmV2OXp5NHcxVjhwT3gwWWM3Q3FzVVoyXzJBakhFeHVZV0lhMWpVZw?oc=5",
+          "title": "Attacker shouting ‘allahu akbar’ stabs Jewish man with a screwdriver in NYC - The Times of Israel",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSFVIU2QyWmIwS3JsUUtTMm5yUjlLb2dtbzRvLTNveE11MGRLWkVVc3E3UlczdzRvaVcwTlhuMU8zcHJtQ1ZUeVZsWkI2YzVPdTFwam9BdE1pc3B5UVVsZjdTZVBJdU1oLUVyUkI0Mk5UTVVzS2RZUDh5cUNzem1qV1FRR09kTTZBWU5mX2JUbWx6STh0VUo3YVlSLVJMVDhoUnRaVlRkc9IBrAFBVV95cUxNcUIwVFVQa0taQl84YTR2Qi05MWd2eFduczdFS0FRUXRtdVpUYjM1ZVhOcUc5WVBzOWVMdHVVRUVlQ0JCZk1FV3NMZEZkREhVNXF6Z0RBVVpmMkJBbEs4OVV4SkxIalFoMEF2X2VIWGswYUxRN1FmcUQwS24xaTk0YjFocmNJNUY1cEtJeklBQUMwMEZ1SUk0WFRUUzhkQ2RyMXRiTW1CN1lNaGR5?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 02:08:27 GMT"
+          "published": "Fri, 24 Jul 2026 02:23:17 GMT"
         }
       ]
     },
     {
-      "word": "West",
+      "word": "Allahu",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "2 Men Stabbed on Upper West Side in Possible Hate Crimes, Police Say - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ0l4RDFvbWJFc0FSWVM0RVV2S0JEdl82dnZQS09PRHlqVGNPSi1GSnl0a1ZVQU5DX3dIU1FKR3JqX1RVSUwxT21ta1A4S3hTNXFzMGVZY0ZUNVcxaWxrMmV2OXp5NHcxVjhwT3gwWWM3Q3FzVVoyXzJBakhFeHVZV0lhMWpVZw?oc=5",
+          "title": "Attacker shouting ‘allahu akbar’ stabs Jewish man with a screwdriver in NYC - The Times of Israel",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSFVIU2QyWmIwS3JsUUtTMm5yUjlLb2dtbzRvLTNveE11MGRLWkVVc3E3UlczdzRvaVcwTlhuMU8zcHJtQ1ZUeVZsWkI2YzVPdTFwam9BdE1pc3B5UVVsZjdTZVBJdU1oLUVyUkI0Mk5UTVVzS2RZUDh5cUNzem1qV1FRR09kTTZBWU5mX2JUbWx6STh0VUo3YVlSLVJMVDhoUnRaVlRkc9IBrAFBVV95cUxNcUIwVFVQa0taQl84YTR2Qi05MWd2eFduczdFS0FRUXRtdVpUYjM1ZVhOcUc5WVBzOWVMdHVVRUVlQ0JCZk1FV3NMZEZkREhVNXF6Z0RBVVpmMkJBbEs4OVV4SkxIalFoMEF2X2VIWGswYUxRN1FmcUQwS24xaTk0YjFocmNJNUY1cEtJeklBQUMwMEZ1SUk0WFRUUzhkQ2RyMXRiTW1CN1lNaGR5?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 02:08:27 GMT"
+          "published": "Fri, 24 Jul 2026 02:23:17 GMT"
         }
       ]
     },
     {
-      "word": "Side",
+      "word": "Akbar",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "2 Men Stabbed on Upper West Side in Possible Hate Crimes, Police Say - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ0l4RDFvbWJFc0FSWVM0RVV2S0JEdl82dnZQS09PRHlqVGNPSi1GSnl0a1ZVQU5DX3dIU1FKR3JqX1RVSUwxT21ta1A4S3hTNXFzMGVZY0ZUNVcxaWxrMmV2OXp5NHcxVjhwT3gwWWM3Q3FzVVoyXzJBakhFeHVZV0lhMWpVZw?oc=5",
+          "title": "Attacker shouting ‘allahu akbar’ stabs Jewish man with a screwdriver in NYC - The Times of Israel",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSFVIU2QyWmIwS3JsUUtTMm5yUjlLb2dtbzRvLTNveE11MGRLWkVVc3E3UlczdzRvaVcwTlhuMU8zcHJtQ1ZUeVZsWkI2YzVPdTFwam9BdE1pc3B5UVVsZjdTZVBJdU1oLUVyUkI0Mk5UTVVzS2RZUDh5cUNzem1qV1FRR09kTTZBWU5mX2JUbWx6STh0VUo3YVlSLVJMVDhoUnRaVlRkc9IBrAFBVV95cUxNcUIwVFVQa0taQl84YTR2Qi05MWd2eFduczdFS0FRUXRtdVpUYjM1ZVhOcUc5WVBzOWVMdHVVRUVlQ0JCZk1FV3NMZEZkREhVNXF6Z0RBVVpmMkJBbEs4OVV4SkxIalFoMEF2X2VIWGswYUxRN1FmcUQwS24xaTk0YjFocmNJNUY1cEtJeklBQUMwMEZ1SUk0WFRUUzhkQ2RyMXRiTW1CN1lNaGR5?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 02:08:27 GMT"
+          "published": "Fri, 24 Jul 2026 02:23:17 GMT"
         }
       ]
     },
     {
-      "word": "Hate",
+      "word": "Stabs",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "2 Men Stabbed on Upper West Side in Possible Hate Crimes, Police Say - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ0l4RDFvbWJFc0FSWVM0RVV2S0JEdl82dnZQS09PRHlqVGNPSi1GSnl0a1ZVQU5DX3dIU1FKR3JqX1RVSUwxT21ta1A4S3hTNXFzMGVZY0ZUNVcxaWxrMmV2OXp5NHcxVjhwT3gwWWM3Q3FzVVoyXzJBakhFeHVZV0lhMWpVZw?oc=5",
+          "title": "Attacker shouting ‘allahu akbar’ stabs Jewish man with a screwdriver in NYC - The Times of Israel",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSFVIU2QyWmIwS3JsUUtTMm5yUjlLb2dtbzRvLTNveE11MGRLWkVVc3E3UlczdzRvaVcwTlhuMU8zcHJtQ1ZUeVZsWkI2YzVPdTFwam9BdE1pc3B5UVVsZjdTZVBJdU1oLUVyUkI0Mk5UTVVzS2RZUDh5cUNzem1qV1FRR09kTTZBWU5mX2JUbWx6STh0VUo3YVlSLVJMVDhoUnRaVlRkc9IBrAFBVV95cUxNcUIwVFVQa0taQl84YTR2Qi05MWd2eFduczdFS0FRUXRtdVpUYjM1ZVhOcUc5WVBzOWVMdHVVRUVlQ0JCZk1FV3NMZEZkREhVNXF6Z0RBVVpmMkJBbEs4OVV4SkxIalFoMEF2X2VIWGswYUxRN1FmcUQwS24xaTk0YjFocmNJNUY1cEtJeklBQUMwMEZ1SUk0WFRUUzhkQ2RyMXRiTW1CN1lNaGR5?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 02:08:27 GMT"
+          "published": "Fri, 24 Jul 2026 02:23:17 GMT"
         }
       ]
     },
     {
-      "word": "Crimes",
+      "word": "Jewish",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "2 Men Stabbed on Upper West Side in Possible Hate Crimes, Police Say - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ0l4RDFvbWJFc0FSWVM0RVV2S0JEdl82dnZQS09PRHlqVGNPSi1GSnl0a1ZVQU5DX3dIU1FKR3JqX1RVSUwxT21ta1A4S3hTNXFzMGVZY0ZUNVcxaWxrMmV2OXp5NHcxVjhwT3gwWWM3Q3FzVVoyXzJBakhFeHVZV0lhMWpVZw?oc=5",
+          "title": "Attacker shouting ‘allahu akbar’ stabs Jewish man with a screwdriver in NYC - The Times of Israel",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSFVIU2QyWmIwS3JsUUtTMm5yUjlLb2dtbzRvLTNveE11MGRLWkVVc3E3UlczdzRvaVcwTlhuMU8zcHJtQ1ZUeVZsWkI2YzVPdTFwam9BdE1pc3B5UVVsZjdTZVBJdU1oLUVyUkI0Mk5UTVVzS2RZUDh5cUNzem1qV1FRR09kTTZBWU5mX2JUbWx6STh0VUo3YVlSLVJMVDhoUnRaVlRkc9IBrAFBVV95cUxNcUIwVFVQa0taQl84YTR2Qi05MWd2eFduczdFS0FRUXRtdVpUYjM1ZVhOcUc5WVBzOWVMdHVVRUVlQ0JCZk1FV3NMZEZkREhVNXF6Z0RBVVpmMkJBbEs4OVV4SkxIalFoMEF2X2VIWGswYUxRN1FmcUQwS24xaTk0YjFocmNJNUY1cEtJeklBQUMwMEZ1SUk0WFRUUzhkQ2RyMXRiTW1CN1lNaGR5?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 02:08:27 GMT"
+          "published": "Fri, 24 Jul 2026 02:23:17 GMT"
         }
       ]
     },
     {
-      "word": "Justice",
+      "word": "man",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Justice Dept. drops 'New York Times' subpoenas under pressure from judge - NPR",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUzB1YTBFc0RmazhoVTJiN2R1YXl3YW5EckZ0SnlRREVZWlhRdmYzR25rTGJNVkx0U1FSVDAwU1BYQWt6WUh6TFUxUmRiNkNkV2E2NkRSYlhSaU56dng2TUxoZUVzVzlHRnRmUy1zMURraWNQVEVzbEJESHJWQmNGRkszYlhKTEpITFJMcS1meXhxb29KZlVqOEhvZTdFS0Nk?oc=5",
+          "title": "Attacker shouting ‘allahu akbar’ stabs Jewish man with a screwdriver in NYC - The Times of Israel",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSFVIU2QyWmIwS3JsUUtTMm5yUjlLb2dtbzRvLTNveE11MGRLWkVVc3E3UlczdzRvaVcwTlhuMU8zcHJtQ1ZUeVZsWkI2YzVPdTFwam9BdE1pc3B5UVVsZjdTZVBJdU1oLUVyUkI0Mk5UTVVzS2RZUDh5cUNzem1qV1FRR09kTTZBWU5mX2JUbWx6STh0VUo3YVlSLVJMVDhoUnRaVlRkc9IBrAFBVV95cUxNcUIwVFVQa0taQl84YTR2Qi05MWd2eFduczdFS0FRUXRtdVpUYjM1ZVhOcUc5WVBzOWVMdHVVRUVlQ0JCZk1FV3NMZEZkREhVNXF6Z0RBVVpmMkJBbEs4OVV4SkxIalFoMEF2X2VIWGswYUxRN1FmcUQwS24xaTk0YjFocmNJNUY1cEtJeklBQUMwMEZ1SUk0WFRUUzhkQ2RyMXRiTW1CN1lNaGR5?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 03:31:19 GMT"
+          "published": "Fri, 24 Jul 2026 02:23:17 GMT"
         }
       ]
     },
     {
-      "word": "Dept",
+      "word": "Screwdriver",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Justice Dept. drops 'New York Times' subpoenas under pressure from judge - NPR",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUzB1YTBFc0RmazhoVTJiN2R1YXl3YW5EckZ0SnlRREVZWlhRdmYzR25rTGJNVkx0U1FSVDAwU1BYQWt6WUh6TFUxUmRiNkNkV2E2NkRSYlhSaU56dng2TUxoZUVzVzlHRnRmUy1zMURraWNQVEVzbEJESHJWQmNGRkszYlhKTEpITFJMcS1meXhxb29KZlVqOEhvZTdFS0Nk?oc=5",
+          "title": "Attacker shouting ‘allahu akbar’ stabs Jewish man with a screwdriver in NYC - The Times of Israel",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSFVIU2QyWmIwS3JsUUtTMm5yUjlLb2dtbzRvLTNveE11MGRLWkVVc3E3UlczdzRvaVcwTlhuMU8zcHJtQ1ZUeVZsWkI2YzVPdTFwam9BdE1pc3B5UVVsZjdTZVBJdU1oLUVyUkI0Mk5UTVVzS2RZUDh5cUNzem1qV1FRR09kTTZBWU5mX2JUbWx6STh0VUo3YVlSLVJMVDhoUnRaVlRkc9IBrAFBVV95cUxNcUIwVFVQa0taQl84YTR2Qi05MWd2eFduczdFS0FRUXRtdVpUYjM1ZVhOcUc5WVBzOWVMdHVVRUVlQ0JCZk1FV3NMZEZkREhVNXF6Z0RBVVpmMkJBbEs4OVV4SkxIalFoMEF2X2VIWGswYUxRN1FmcUQwS24xaTk0YjFocmNJNUY1cEtJeklBQUMwMEZ1SUk0WFRUUzhkQ2RyMXRiTW1CN1lNaGR5?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 03:31:19 GMT"
+          "published": "Fri, 24 Jul 2026 02:23:17 GMT"
+        }
+      ]
+    },
+    {
+      "word": "NYC",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Attacker shouting ‘allahu akbar’ stabs Jewish man with a screwdriver in NYC - The Times of Israel",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSFVIU2QyWmIwS3JsUUtTMm5yUjlLb2dtbzRvLTNveE11MGRLWkVVc3E3UlczdzRvaVcwTlhuMU8zcHJtQ1ZUeVZsWkI2YzVPdTFwam9BdE1pc3B5UVVsZjdTZVBJdU1oLUVyUkI0Mk5UTVVzS2RZUDh5cUNzem1qV1FRR09kTTZBWU5mX2JUbWx6STh0VUo3YVlSLVJMVDhoUnRaVlRkc9IBrAFBVV95cUxNcUIwVFVQa0taQl84YTR2Qi05MWd2eFduczdFS0FRUXRtdVpUYjM1ZVhOcUc5WVBzOWVMdHVVRUVlQ0JCZk1FV3NMZEZkREhVNXF6Z0RBVVpmMkJBbEs4OVV4SkxIalFoMEF2X2VIWGswYUxRN1FmcUQwS24xaTk0YjFocmNJNUY1cEtJeklBQUMwMEZ1SUk0WFRUUzhkQ2RyMXRiTW1CN1lNaGR5?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 02:23:17 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Attacks",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "US attacks Iran as Houthis allow Chinese ships to pass: What’s the latest? - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaXJSbVVjUnRLMnBxSXltZTJEVzFKelZkdHl5eHNRUEk0S2Z6bVJmNWxMbG1BenZVdGVIdFlJMDh2RVpKRG5PQkNNWDduZFpaRnJ5NzlKUmVLVzA0SzNhanRoNVR3RDlla01QTXZHWnJNMlUyQmM2bDJWdDNsemRnNTBENE9SMVZJOFkyWkhTWXdHeHkyZGZFMG1ZTUhhY2xvdWt4b3ZKNlA2Z1B0dWFTajl30gG3AUFVX3lxTE83SkVwOUxXSnlxeEVUWDZGcWVOREhvRGtZMkd5UG1SNTR1UWF0WFJCZVh5ZFZha0xORmxRQThVTVlBY2FtVHkxSzhmUWZ5bkRhcTBlSVI1bFNYX3NDNXJqTzRyVDZ0NGtUTzQzZ2NSZGF6X1p4bnF3WnhGdDcwSUJkY1JOMGllcVJRTmh6TXV3cG9IcmJwdTBoaU9TWTFqN29Ubi1TTjM2dXRDT3RMWnNvb0puWjgwVQ?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 08:04:24 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Houthis",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "US attacks Iran as Houthis allow Chinese ships to pass: What’s the latest? - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaXJSbVVjUnRLMnBxSXltZTJEVzFKelZkdHl5eHNRUEk0S2Z6bVJmNWxMbG1BenZVdGVIdFlJMDh2RVpKRG5PQkNNWDduZFpaRnJ5NzlKUmVLVzA0SzNhanRoNVR3RDlla01QTXZHWnJNMlUyQmM2bDJWdDNsemRnNTBENE9SMVZJOFkyWkhTWXdHeHkyZGZFMG1ZTUhhY2xvdWt4b3ZKNlA2Z1B0dWFTajl30gG3AUFVX3lxTE83SkVwOUxXSnlxeEVUWDZGcWVOREhvRGtZMkd5UG1SNTR1UWF0WFJCZVh5ZFZha0xORmxRQThVTVlBY2FtVHkxSzhmUWZ5bkRhcTBlSVI1bFNYX3NDNXJqTzRyVDZ0NGtUTzQzZ2NSZGF6X1p4bnF3WnhGdDcwSUJkY1JOMGllcVJRTmh6TXV3cG9IcmJwdTBoaU9TWTFqN29Ubi1TTjM2dXRDT3RMWnNvb0puWjgwVQ?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 08:04:24 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Allow",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "US attacks Iran as Houthis allow Chinese ships to pass: What’s the latest? - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaXJSbVVjUnRLMnBxSXltZTJEVzFKelZkdHl5eHNRUEk0S2Z6bVJmNWxMbG1BenZVdGVIdFlJMDh2RVpKRG5PQkNNWDduZFpaRnJ5NzlKUmVLVzA0SzNhanRoNVR3RDlla01QTXZHWnJNMlUyQmM2bDJWdDNsemRnNTBENE9SMVZJOFkyWkhTWXdHeHkyZGZFMG1ZTUhhY2xvdWt4b3ZKNlA2Z1B0dWFTajl30gG3AUFVX3lxTE83SkVwOUxXSnlxeEVUWDZGcWVOREhvRGtZMkd5UG1SNTR1UWF0WFJCZVh5ZFZha0xORmxRQThVTVlBY2FtVHkxSzhmUWZ5bkRhcTBlSVI1bFNYX3NDNXJqTzRyVDZ0NGtUTzQzZ2NSZGF6X1p4bnF3WnhGdDcwSUJkY1JOMGllcVJRTmh6TXV3cG9IcmJwdTBoaU9TWTFqN29Ubi1TTjM2dXRDT3RMWnNvb0puWjgwVQ?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 08:04:24 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Chinese",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "US attacks Iran as Houthis allow Chinese ships to pass: What’s the latest? - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaXJSbVVjUnRLMnBxSXltZTJEVzFKelZkdHl5eHNRUEk0S2Z6bVJmNWxMbG1BenZVdGVIdFlJMDh2RVpKRG5PQkNNWDduZFpaRnJ5NzlKUmVLVzA0SzNhanRoNVR3RDlla01QTXZHWnJNMlUyQmM2bDJWdDNsemRnNTBENE9SMVZJOFkyWkhTWXdHeHkyZGZFMG1ZTUhhY2xvdWt4b3ZKNlA2Z1B0dWFTajl30gG3AUFVX3lxTE83SkVwOUxXSnlxeEVUWDZGcWVOREhvRGtZMkd5UG1SNTR1UWF0WFJCZVh5ZFZha0xORmxRQThVTVlBY2FtVHkxSzhmUWZ5bkRhcTBlSVI1bFNYX3NDNXJqTzRyVDZ0NGtUTzQzZ2NSZGF6X1p4bnF3WnhGdDcwSUJkY1JOMGllcVJRTmh6TXV3cG9IcmJwdTBoaU9TWTFqN29Ubi1TTjM2dXRDT3RMWnNvb0puWjgwVQ?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 08:04:24 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Ships",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "US attacks Iran as Houthis allow Chinese ships to pass: What’s the latest? - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaXJSbVVjUnRLMnBxSXltZTJEVzFKelZkdHl5eHNRUEk0S2Z6bVJmNWxMbG1BenZVdGVIdFlJMDh2RVpKRG5PQkNNWDduZFpaRnJ5NzlKUmVLVzA0SzNhanRoNVR3RDlla01QTXZHWnJNMlUyQmM2bDJWdDNsemRnNTBENE9SMVZJOFkyWkhTWXdHeHkyZGZFMG1ZTUhhY2xvdWt4b3ZKNlA2Z1B0dWFTajl30gG3AUFVX3lxTE83SkVwOUxXSnlxeEVUWDZGcWVOREhvRGtZMkd5UG1SNTR1UWF0WFJCZVh5ZFZha0xORmxRQThVTVlBY2FtVHkxSzhmUWZ5bkRhcTBlSVI1bFNYX3NDNXJqTzRyVDZ0NGtUTzQzZ2NSZGF6X1p4bnF3WnhGdDcwSUJkY1JOMGllcVJRTmh6TXV3cG9IcmJwdTBoaU9TWTFqN29Ubi1TTjM2dXRDT3RMWnNvb0puWjgwVQ?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 08:04:24 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Pass",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "US attacks Iran as Houthis allow Chinese ships to pass: What’s the latest? - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaXJSbVVjUnRLMnBxSXltZTJEVzFKelZkdHl5eHNRUEk0S2Z6bVJmNWxMbG1BenZVdGVIdFlJMDh2RVpKRG5PQkNNWDduZFpaRnJ5NzlKUmVLVzA0SzNhanRoNVR3RDlla01QTXZHWnJNMlUyQmM2bDJWdDNsemRnNTBENE9SMVZJOFkyWkhTWXdHeHkyZGZFMG1ZTUhhY2xvdWt4b3ZKNlA2Z1B0dWFTajl30gG3AUFVX3lxTE83SkVwOUxXSnlxeEVUWDZGcWVOREhvRGtZMkd5UG1SNTR1UWF0WFJCZVh5ZFZha0xORmxRQThVTVlBY2FtVHkxSzhmUWZ5bkRhcTBlSVI1bFNYX3NDNXJqTzRyVDZ0NGtUTzQzZ2NSZGF6X1p4bnF3WnhGdDcwSUJkY1JOMGllcVJRTmh6TXV3cG9IcmJwdTBoaU9TWTFqN29Ubi1TTjM2dXRDT3RMWnNvb0puWjgwVQ?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 08:04:24 GMT"
         }
       ]
     }
