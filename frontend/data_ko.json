@@ -1,81 +1,156 @@
 {
   "language": "ko",
-  "last_updated": 1784863653.2640688,
+  "last_updated": 1784874792.6524029,
   "count": 40,
   "trends": [
     {
-      "word": "트럼프",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "미국: 트럼프, ‘강제 노동’ 근거로 수십 개국에 관세 부과... '한국은 사실상 12.5%' - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5objdEWDNDdlA2MkFMWWxORVJuTG9NbEpVVXowUkE5Q2tERVBLeU11ajNyM2RmWXlHX1pSZmZqS3ZaQVRpR2F1aGF4eGpHNkpOZ2podi1qa1pITUNW0gFiQVVfeXFMT2Z0SFRjaDNDNDhkb2poS2dfUDVhWjd5R1lrT2RSV1l3Z1V3RkQ5RHNud2taMVYyaGZWQ1lfNFAxZzlsTk9wN0hHWHNPcHl0MnNmSTluVjBqRWV5WUVxN0laWVE?oc=5",
-          "source": "Google News",
-          "published": "Fri, 24 Jul 2026 02:51:14 GMT"
-        },
-        {
-          "title": "트럼프 “이란에 대규모 공격 검토 중…‘장엄한 분노’보다 클 수도” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlTWxSS3llS1BpUmsxV0tGTlRXSFhiRGtESXZ2RGRVbGFVb2VRRWZuUy1FNDV3bFNESVRheE1EQ21OYTdHZGRWa05SYjBtbmJiZEhoZXFLdTVLSmthZ3lqb01WRXVhbTRhNU1xNFFYcw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 24 Jul 2026 00:42:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "한국",
-      "count": 2,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "미국: 트럼프, ‘강제 노동’ 근거로 수십 개국에 관세 부과... '한국은 사실상 12.5%' - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5objdEWDNDdlA2MkFMWWxORVJuTG9NbEpVVXowUkE5Q2tERVBLeU11ajNyM2RmWXlHX1pSZmZqS3ZaQVRpR2F1aGF4eGpHNkpOZ2podi1qa1pITUNW0gFiQVVfeXFMT2Z0SFRjaDNDNDhkb2poS2dfUDVhWjd5R1lrT2RSV1l3Z1V3RkQ5RHNud2taMVYyaGZWQ1lfNFAxZzlsTk9wN0hHWHNPcHl0MnNmSTluVjBqRWV5WUVxN0laWVE?oc=5",
-          "source": "Google News",
-          "published": "Fri, 24 Jul 2026 02:51:14 GMT"
-        },
-        {
-          "title": "후티 반군 홍해 봉쇄로 한국 선박 2척 '발목' - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0yZXNaYVBjdWZlcU1wWU8wZVV0S2pUSlIzZndFcF9uVm5GaFNORk9MZThVOWhiai04NkVsbWlQSVdiM2lXdzllR0I2NU1ydkNLLWlDTkhMV3ZaSW1O?oc=5",
-          "source": "Google News",
-          "published": "Fri, 24 Jul 2026 02:10:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "사실상",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "미국: 트럼프, ‘강제 노동’ 근거로 수십 개국에 관세 부과... '한국은 사실상 12.5%' - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5objdEWDNDdlA2MkFMWWxORVJuTG9NbEpVVXowUkE5Q2tERVBLeU11ajNyM2RmWXlHX1pSZmZqS3ZaQVRpR2F1aGF4eGpHNkpOZ2podi1qa1pITUNW0gFiQVVfeXFMT2Z0SFRjaDNDNDhkb2poS2dfUDVhWjd5R1lrT2RSV1l3Z1V3RkQ5RHNud2taMVYyaGZWQ1lfNFAxZzlsTk9wN0hHWHNPcHl0MnNmSTluVjBqRWV5WUVxN0laWVE?oc=5",
-          "source": "Google News",
-          "published": "Fri, 24 Jul 2026 02:51:14 GMT"
-        },
-        {
-          "title": "아시안게임 4연패 ‘산 넘어 산’…이민성호 사실상 ‘죽음의 조’ - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zTGpnbDRxZGVmMmY0eHR0NGRya0tFQ04tRkJxbWtuUnc0ZTlwRW16SnRRLTFzVGxOVG5QdHlXQnZPanRaM0RDdTlwVG0wZlk?oc=5",
-          "source": "Google News",
-          "published": "Thu, 23 Jul 2026 07:49:43 GMT"
-        }
-      ]
-    },
-    {
       "word": "대통령",
-      "count": 2,
+      "count": 5,
       "category": "PERSON",
       "articles": [
         {
-          "title": "박지원 “이 대통령 계파 수장? 유시민, 지나친 예단” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Jd3oxeXhRUGJ2dXBMVTJDN3ZlM0NCczFXMzh2VWU3akwwVm1GbHQ3R0JFTUl1eVc4eDF2WEwxMGk3MERJcExXclNDODF4S09YNFZPakpUaHM2QzQ5cWZfcG5WczBGZExfYTBfREMwbjJIU29W?oc=5",
+          "title": "유시민, 이 대통령 또 비판... \"당대표는 대통령 부하가 아니다\" - 한국일보",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IZGkxWnBNU0tDeF85bW5oeFZralZJOHpiYjgxVkd3SnFHeVBGUUdfelJSNDlHbU15akRodmZVdEptTW5uY2R3Q3E3REtNUXdwcVc1MlpEMUZGUjk0T3F6d2l1YzZQajRXekQwRm9R0gFzQVVfeXFMUG1PZ283OWROTDhGY0FJbFpua3VWWFhlNUdkQWxWVGxqTGhHc0NxbXhLLXFjR2RLMXpoTHFjRWVsWHZYZ3Q1MGRNdnU2WWNOLU96dE00Y185RmZ0QXZJaFNOUDR2ZzA1Nzk1ZkJ5ZzZrejhZbw?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 02:18:00 GMT"
+          "published": "Thu, 23 Jul 2026 15:10:00 GMT"
         },
         {
-          "title": "이 대통령 지지율 51%…‘부동산 정책’ 긍정률 26% [갤럽] - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QWFNkRThDZklSOEhMZzRNUWg2WVVDQlowRzRtdENvcTVDLW9IUWU2Q0FNWDJ3SE5ZdndvY3k1ZTM1akdlNW4xaFZCeVJMX1JWQ1NVZ0lwQ25kaktxZG80cDloNFJvbEtHMGxWM19lX0lUUXE4?oc=5",
+          "title": "李대통령 국정지지율 51%, 다시 최저치…부정 평가 1위는 ‘부동산’ - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SVTZhelZ0N1pibHlGVTFvZVpvT2FvVzJxalI5cDNOZ0std2JMWnlMQ29xaFJwLUoyakFOR2lPRWo3MnJHUnlsa01wRjFBTlZJUFhUTnhiQnpZSG0wd1FSa25mTG13SGxEZm1Bal9ydmR3VTIzek1z0gFmQVVfeXFMTmxzRzJTNEN4a29BNWxoVlhpcUY0dm1JcWVoSWNyUGhHRjhMRUdzSXVUdzJ1NEpPeTRfNnBLNnRXTm9Mb0pGUU9LVi1VSXU1akFFeFZteWplSkVMRkFsbDNHU0hBR19n?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 02:16:00 GMT"
+          "published": "Fri, 24 Jul 2026 01:36:00 GMT"
+        },
+        {
+          "title": "3시간 넘게 대통령 앞에서 “민간임대 확대” “잔금 대출 예외” 발언…“부동산 세금에만 치중” 지적도 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BdkJGd0c4Mkl0Y20tM2NYbU96S2pKWWRpU2xGNnNIZm1BRldsNlJNMWVMVGNxb0JrSUlDOEhWZmhRTzlWdkpITnNfQXRCWnpkUmZNN2tOOGhxZ9IBX0FVX3lxTE9xUTU1emktelVlYXllMkFNOVo5ejNOaDJkRjBaN0h5N3NuQzVjczJrOUU5V1AyVXVkZ19WMUtxQV9UZlNtNTNENmpyV0JJd2RBX2RIbWtQVnhMdHp5bWhV?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 08:48:00 GMT"
+        },
+        {
+          "title": "이 대통령, 오늘부터 미국·남미 순방…젠슨 황·샘 알트만 만난다 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TU1djVEtqS1RzS2luaVpKcUU1N0M3M3VTWC1lSW9uTTBaY21meVZnT2NlTGhnaXFPcjNnVUoyRzJQOGtfVC1pX0pjUGFvdGM?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 01:27:14 GMT"
+        }
+      ]
+    },
+    {
+      "word": "개최",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "SM 러닝 페스티벌 10월 3일 개최 - 스포츠동아",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lNVozRnBGdEo5cDR2M0pmZVVMLXQyUmRtWmxWWGlHYWNWeVdMN3A0dXlPREE1LW5qY1pQenVYUGlyaVh4M0pGOE1SSTdJczdSb09QSHVsZVB6TV81OFFHUXhFdkMwMmQwbk9mdV9n?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 05:37:53 GMT"
+        },
+        {
+          "title": "[가요소식] '뉴진스 소속사' 어도어, 보이그룹 국내 오디션 개최 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15MTJHX1VSTmZHVXlxbVVoa003NDFzWlZ6OWtEYXg0WFNtRmRmSUpqTmVjVGk4MmJfR0ZxMmk3bWJZVnlFaHhodHc2dWd5ZWRsRnlQd3YtajRoZU3SAWBBVV95cUxPSkRaVE1hbi1TLVNsUzFoZ3N2My1sMTJkejJCcnJiSGEwakNpdWFGZzctQzAyUDd4Ymd6ZS1yWFBwZG5OYUM3ZVAzR2xSNVl3V0V6X1NKVXBYSUpPakpiRlE?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 03:14:24 GMT"
+        },
+        {
+          "title": "서울, 26일 울산전서 ‘아리 데이’ 개최 - 문화일보",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE92X0NMNFFQSldFbm1XN1hLTVVNaWxFRlpMTjJDbnUwMVhYenNsWS1kZTJYZmRid29IY3NXaWhSWW5QR0lld3pEc081VWdMM2U5?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 01:38:25 GMT"
+        }
+      ]
+    },
+    {
+      "word": "인정",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보]법원 “최태원, 노소영에 재산분할금 9440억원 현금 지급…경영 기여 일부 인정” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoSWF1bUlyckg5YzF4MG1LVnNMTVBZVXM2MVNGMEs0aklwdUxRRTNodjB0VVBBRDZESWFLS2dhRF9LNUdDMzhVY3l3ZFlxdHZsaDN1blJBcHhud9IBX0FVX3lxTE5JMFNVd1Y4Z3htSzZWcjJPOU9mRFlOa3pSamRpZ1J0Z2RDbUdTeGtvU1N1S0pSbTdyZFF5Zk04NmhJNWdKdGhXWWpNQnpyTzdha1BFamM1ZWlZV0htNkJF?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 05:15:00 GMT"
+        },
+        {
+          "title": "트럼프, ‘사우디의 이스라엘 인정이 원자력 협정의 조건’ - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DZmxQVzV5SUszUldaY1Z3MmV6TGlyZVIzTzhLMlRCbGxpa01GRVNNOGVKeWI0VmluNkpnRjRSdkhHcnpWMmticW81T0s4YkVFNWFZR19jZGJWckJX0gFiQVVfeXFMT0dHRHJSb0NTTTJTUHZ1bnNlNk9Lblg5aGpJUTIxdG51YklWbnRfWEhnXzRzVC0zbUYtSzRRai1GdDJKMW82aW15cUNhV083NG5EaF9GWWtETVk3WDg5UVU4UEE?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 05:58:22 GMT"
+        }
+      ]
+    },
+    {
+      "word": "성공",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "본선 대진표 확정…친청계, '생일별 분산 투표' 전략 성공하며 전원 생존 '저력' - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMNVpKYjY0bThoS29tVThhZ1FGaEtTbE1qb3hoVDZ2RkZBTy15SjZEcGh6S3BIYmU5X0paeE5kSE1DdzRHTlVpV1Fod2ZGMEc1d09FNmFqc3hIaTdu?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 04:33:00 GMT"
+        },
+        {
+          "title": "'마스가' 출범식 온 러트닉 \"미국산 선박 생산량으로 조선협력 성공 평가\" 으름장 [이상은의 워싱턴나우] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBndlk0Qzl5MWZld0R2Y0pJcG1OQVJ6d2hLdk9HRVc4ZFRhamtNakJ0cXVsY0ZPc3pwd1NVZWZjbDRYbFBtWXo1TktnVnNINENvTjdNTTdFS0t2dw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 22:17:46 GMT"
+        }
+      ]
+    },
+    {
+      "word": "평가",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "李대통령 국정지지율 51%, 다시 최저치…부정 평가 1위는 ‘부동산’ - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SVTZhelZ0N1pibHlGVTFvZVpvT2FvVzJxalI5cDNOZ0std2JMWnlMQ29xaFJwLUoyakFOR2lPRWo3MnJHUnlsa01wRjFBTlZJUFhUTnhiQnpZSG0wd1FSa25mTG13SGxEZm1Bal9ydmR3VTIzek1z0gFmQVVfeXFMTmxzRzJTNEN4a29BNWxoVlhpcUY0dm1JcWVoSWNyUGhHRjhMRUdzSXVUdzJ1NEpPeTRfNnBLNnRXTm9Mb0pGUU9LVi1VSXU1akFFeFZteWplSkVMRkFsbDNHU0hBR19n?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 01:36:00 GMT"
+        },
+        {
+          "title": "'마스가' 출범식 온 러트닉 \"미국산 선박 생산량으로 조선협력 성공 평가\" 으름장 [이상은의 워싱턴나우] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBndlk0Qzl5MWZld0R2Y0pJcG1OQVJ6d2hLdk9HRVc4ZFRhamtNakJ0cXVsY0ZPc3pwd1NVZWZjbDRYbFBtWXo1TktnVnNINENvTjdNTTdFS0t2dw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 22:17:46 GMT"
+        }
+      ]
+    },
+    {
+      "word": "여성",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "경북 경산 아파트관리실 방화 사건 피해자 50대 여성 1명 사망 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iM25KOXA1N3FMazNMclRtSUpobG1Hal85RHZNVldiazkwbWtZZm9HOXBZWVB6aDZwbC16VFpHbWpCS0xseG9sQ0JsRUx2V2wwc0hJQnhqWF9PZjN2ZzdVbDVsNG5oemMxanBGR0I1bW0zLVJTSDI00gF3QVVfeXFMTXkza1hLd2FCcVJUcHFjQURBcW5HNWZBV1pNN3VUZXJLTl9TUE5WTy1rb0JxcHBsS0k1dzVRNG4tLXlLalBTWWN1bGtLMy00X2tlSWhiZ0NUMGZfMkIxREV1aVM2ZXlHMGhUa05wUjJVZUUxT2FwZlE?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 02:51:38 GMT"
+        },
+        {
+          "title": "[단독]가수 보아 ‘낙서 테러’ 벌인 30대 여성 재판행 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRVVhncXFJTkdTcC1KWkZHUFVrenNOTnFYa3hBUE5WZ0pMUm4yTXpXNFRaN1dvaWt6UjN1WmRQTUJRX05Hbmd4Y0NlNTF6cVZkTlNydTEzcEE5UdIBX0FVX3lxTE1MT1AyMi15RGwxRnRGY2RucnNxT2w0NFVWMDdFbnhYUkNINHQyMXRwT210UV9HNjhXQ2tXLVFKWXlZWnJxWjZMcE1XOTlRbUM4bTRhUEpCNzVDTU5RcWVZ?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 01:49:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "세금",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "3시간 넘게 대통령 앞에서 “민간임대 확대” “잔금 대출 예외” 발언…“부동산 세금에만 치중” 지적도 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BdkJGd0c4Mkl0Y20tM2NYbU96S2pKWWRpU2xGNnNIZm1BRldsNlJNMWVMVGNxb0JrSUlDOEhWZmhRTzlWdkpITnNfQXRCWnpkUmZNN2tOOGhxZ9IBX0FVX3lxTE9xUTU1emktelVlYXllMkFNOVo5ejNOaDJkRjBaN0h5N3NuQzVjczJrOUU5V1AyVXVkZ19WMUtxQV9UZlNtNTNENmpyV0JJd2RBX2RIbWtQVnhMdHp5bWhV?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 08:48:00 GMT"
+        },
+        {
+          "title": "‘월드컵 우승’ 스페인, 우승 상금 ‘미국 세금 폭탄’에 한숨···“692억 중 197억 미국에 바쳐야” - 스포츠경향",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtdkZiWk4xUDZaRjVlTDNEY2k0OWdvbm81TkpSTC1Cd2pjMTJXYTAwMmhvSEhwcGVzRzgwZDUwbW1qbHFyT3FYYnlEVUVSQ3VtYVNVOHpBandUbHk5eUHSAWNBVV95cUxPSHN5Y3NUNl9BSWJVZ2k5RFlMS056b1R3WE5wMndCT2tpMGhKSllEN0R1SVhNZkxlcmNaZTIydFlJY1dBemtMVUdTY0RxbUEwZ09iU3I3alRWV291QzNIVWpEWDg?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 04:23:00 GMT"
         }
       ]
     },
@@ -99,249 +174,196 @@
       ]
     },
     {
+      "word": "트럼프",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "미 뉴욕타임스 \"이란, 트럼프 휴전 제안 거부‥확전 대비\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWVm1NdjM2OVh1RnJfMkZUNWhLbDg2QUxkSnV1NnZ0UXU3RDhqYmFYaVdZdTNHdFRQZm5VWGlYejBsWVlUVnNsQS1Pa1lQSkduZ0RXOFRTOXRfYkN5SGwycGNFMmFBV3NEdnNSUU81Nm1Fc2M5?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 02:04:54 GMT"
+        },
+        {
+          "title": "트럼프, ‘사우디의 이스라엘 인정이 원자력 협정의 조건’ - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DZmxQVzV5SUszUldaY1Z3MmV6TGlyZVIzTzhLMlRCbGxpa01GRVNNOGVKeWI0VmluNkpnRjRSdkhHcnpWMmticW81T0s4YkVFNWFZR19jZGJWckJX0gFiQVVfeXFMT0dHRHJSb0NTTTJTUHZ1bnNlNk9Lblg5aGpJUTIxdG51YklWbnRfWEhnXzRzVC0zbUYtSzRRai1GdDJKMW82aW15cUNhV083NG5EaF9GWWtETVk3WDg5UVU4UEE?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 05:58:22 GMT"
+        }
+      ]
+    },
+    {
+      "word": "우승",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘월드컵 우승’ 스페인, 우승 상금 ‘미국 세금 폭탄’에 한숨···“692억 중 197억 미국에 바쳐야” - 스포츠경향",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtdkZiWk4xUDZaRjVlTDNEY2k0OWdvbm81TkpSTC1Cd2pjMTJXYTAwMmhvSEhwcGVzRzgwZDUwbW1qbHFyT3FYYnlEVUVSQ3VtYVNVOHpBandUbHk5eUHSAWNBVV95cUxPSHN5Y3NUNl9BSWJVZ2k5RFlMS056b1R3WE5wMndCT2tpMGhKSllEN0R1SVhNZkxlcmNaZTIydFlJY1dBemtMVUdTY0RxbUEwZ09iU3I3alRWV291QzNIVWpEWDg?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 04:23:00 GMT"
+        }
+      ]
+    },
+    {
       "word": "미국",
-      "count": 1,
+      "count": 2,
       "category": "LOCATION",
       "articles": [
         {
-          "title": "미국: 트럼프, ‘강제 노동’ 근거로 수십 개국에 관세 부과... '한국은 사실상 12.5%' - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5objdEWDNDdlA2MkFMWWxORVJuTG9NbEpVVXowUkE5Q2tERVBLeU11ajNyM2RmWXlHX1pSZmZqS3ZaQVRpR2F1aGF4eGpHNkpOZ2podi1qa1pITUNW0gFiQVVfeXFMT2Z0SFRjaDNDNDhkb2poS2dfUDVhWjd5R1lrT2RSV1l3Z1V3RkQ5RHNud2taMVYyaGZWQ1lfNFAxZzlsTk9wN0hHWHNPcHl0MnNmSTluVjBqRWV5WUVxN0laWVE?oc=5",
+          "title": "‘월드컵 우승’ 스페인, 우승 상금 ‘미국 세금 폭탄’에 한숨···“692억 중 197억 미국에 바쳐야” - 스포츠경향",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtdkZiWk4xUDZaRjVlTDNEY2k0OWdvbm81TkpSTC1Cd2pjMTJXYTAwMmhvSEhwcGVzRzgwZDUwbW1qbHFyT3FYYnlEVUVSQ3VtYVNVOHpBandUbHk5eUHSAWNBVV95cUxPSHN5Y3NUNl9BSWJVZ2k5RFlMS056b1R3WE5wMndCT2tpMGhKSllEN0R1SVhNZkxlcmNaZTIydFlJY1dBemtMVUdTY0RxbUEwZ09iU3I3alRWV291QzNIVWpEWDg?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 02:51:14 GMT"
+          "published": "Fri, 24 Jul 2026 04:23:00 GMT"
         }
       ]
     },
     {
-      "word": "강제",
+      "word": "입증",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "만성 콩팥병 새 치료 표적 ‘JNK3’ 발굴… 동물실험서 효과 입증 - 간호사신문",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jR0otZ1FKeTZSaDFXeTFPcDBiSE5DZ2prNEcyTlVrUzBnclNjakdZbWdIdS1fZkJkcm9Pa0QxT2UtS0FlQUhnaGZmVWdpb210cmR0LTBlSHBsV3BIZHVzYjBvRjhwakNDTjJzamxn?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 01:07:07 GMT"
+        },
+        {
+          "title": "크론병 위험인자, '에스트로겐과 연관성 입증' - 후생신보",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1KYnFsSWtpa0kwWjhCZ0Z6djVNWVRMbmc1WkFGbWhSUm1FRm5zMVE5X2JZUFg4alV6UnBKNTRCR3lBaHJR?oc=5",
+          "source": "Google News",
+          "published": "Thu, 23 Jul 2026 23:14:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "속보법원",
+      "count": 1,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "[속보]법원 “최태원, 노소영에 재산분할금 9440억원 현금 지급…경영 기여 일부 인정” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoSWF1bUlyckg5YzF4MG1LVnNMTVBZVXM2MVNGMEs0aklwdUxRRTNodjB0VVBBRDZESWFLS2dhRF9LNUdDMzhVY3l3ZFlxdHZsaDN1blJBcHhud9IBX0FVX3lxTE5JMFNVd1Y4Z3htSzZWcjJPOU9mRFlOa3pSamRpZ1J0Z2RDbUdTeGtvU1N1S0pSbTdyZFF5Zk04NmhJNWdKdGhXWWpNQnpyTzdha1BFamM1ZWlZV0htNkJF?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 05:15:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "최태원",
+      "count": 1,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "[속보]법원 “최태원, 노소영에 재산분할금 9440억원 현금 지급…경영 기여 일부 인정” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoSWF1bUlyckg5YzF4MG1LVnNMTVBZVXM2MVNGMEs0aklwdUxRRTNodjB0VVBBRDZESWFLS2dhRF9LNUdDMzhVY3l3ZFlxdHZsaDN1blJBcHhud9IBX0FVX3lxTE5JMFNVd1Y4Z3htSzZWcjJPOU9mRFlOa3pSamRpZ1J0Z2RDbUdTeGtvU1N1S0pSbTdyZFF5Zk04NmhJNWdKdGhXWWpNQnpyTzdha1BFamM1ZWlZV0htNkJF?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 05:15:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "노소영",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "미국: 트럼프, ‘강제 노동’ 근거로 수십 개국에 관세 부과... '한국은 사실상 12.5%' - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5objdEWDNDdlA2MkFMWWxORVJuTG9NbEpVVXowUkE5Q2tERVBLeU11ajNyM2RmWXlHX1pSZmZqS3ZaQVRpR2F1aGF4eGpHNkpOZ2podi1qa1pITUNW0gFiQVVfeXFMT2Z0SFRjaDNDNDhkb2poS2dfUDVhWjd5R1lrT2RSV1l3Z1V3RkQ5RHNud2taMVYyaGZWQ1lfNFAxZzlsTk9wN0hHWHNPcHl0MnNmSTluVjBqRWV5WUVxN0laWVE?oc=5",
+          "title": "[속보]법원 “최태원, 노소영에 재산분할금 9440억원 현금 지급…경영 기여 일부 인정” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoSWF1bUlyckg5YzF4MG1LVnNMTVBZVXM2MVNGMEs0aklwdUxRRTNodjB0VVBBRDZESWFLS2dhRF9LNUdDMzhVY3l3ZFlxdHZsaDN1blJBcHhud9IBX0FVX3lxTE5JMFNVd1Y4Z3htSzZWcjJPOU9mRFlOa3pSamRpZ1J0Z2RDbUdTeGtvU1N1S0pSbTdyZFF5Zk04NmhJNWdKdGhXWWpNQnpyTzdha1BFamM1ZWlZV0htNkJF?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 02:51:14 GMT"
+          "published": "Fri, 24 Jul 2026 05:15:00 GMT"
         }
       ]
     },
     {
-      "word": "노동",
+      "word": "재산분할금",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "미국: 트럼프, ‘강제 노동’ 근거로 수십 개국에 관세 부과... '한국은 사실상 12.5%' - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5objdEWDNDdlA2MkFMWWxORVJuTG9NbEpVVXowUkE5Q2tERVBLeU11ajNyM2RmWXlHX1pSZmZqS3ZaQVRpR2F1aGF4eGpHNkpOZ2podi1qa1pITUNW0gFiQVVfeXFMT2Z0SFRjaDNDNDhkb2poS2dfUDVhWjd5R1lrT2RSV1l3Z1V3RkQ5RHNud2taMVYyaGZWQ1lfNFAxZzlsTk9wN0hHWHNPcHl0MnNmSTluVjBqRWV5WUVxN0laWVE?oc=5",
+          "title": "[속보]법원 “최태원, 노소영에 재산분할금 9440억원 현금 지급…경영 기여 일부 인정” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoSWF1bUlyckg5YzF4MG1LVnNMTVBZVXM2MVNGMEs0aklwdUxRRTNodjB0VVBBRDZESWFLS2dhRF9LNUdDMzhVY3l3ZFlxdHZsaDN1blJBcHhud9IBX0FVX3lxTE5JMFNVd1Y4Z3htSzZWcjJPOU9mRFlOa3pSamRpZ1J0Z2RDbUdTeGtvU1N1S0pSbTdyZFF5Zk04NmhJNWdKdGhXWWpNQnpyTzdha1BFamM1ZWlZV0htNkJF?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 02:51:14 GMT"
+          "published": "Fri, 24 Jul 2026 05:15:00 GMT"
         }
       ]
     },
     {
-      "word": "근거",
+      "word": "9440억원",
+      "count": 1,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "[속보]법원 “최태원, 노소영에 재산분할금 9440억원 현금 지급…경영 기여 일부 인정” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoSWF1bUlyckg5YzF4MG1LVnNMTVBZVXM2MVNGMEs0aklwdUxRRTNodjB0VVBBRDZESWFLS2dhRF9LNUdDMzhVY3l3ZFlxdHZsaDN1blJBcHhud9IBX0FVX3lxTE5JMFNVd1Y4Z3htSzZWcjJPOU9mRFlOa3pSamRpZ1J0Z2RDbUdTeGtvU1N1S0pSbTdyZFF5Zk04NmhJNWdKdGhXWWpNQnpyTzdha1BFamM1ZWlZV0htNkJF?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 05:15:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "현금",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "미국: 트럼프, ‘강제 노동’ 근거로 수십 개국에 관세 부과... '한국은 사실상 12.5%' - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5objdEWDNDdlA2MkFMWWxORVJuTG9NbEpVVXowUkE5Q2tERVBLeU11ajNyM2RmWXlHX1pSZmZqS3ZaQVRpR2F1aGF4eGpHNkpOZ2podi1qa1pITUNW0gFiQVVfeXFMT2Z0SFRjaDNDNDhkb2poS2dfUDVhWjd5R1lrT2RSV1l3Z1V3RkQ5RHNud2taMVYyaGZWQ1lfNFAxZzlsTk9wN0hHWHNPcHl0MnNmSTluVjBqRWV5WUVxN0laWVE?oc=5",
+          "title": "[속보]법원 “최태원, 노소영에 재산분할금 9440억원 현금 지급…경영 기여 일부 인정” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoSWF1bUlyckg5YzF4MG1LVnNMTVBZVXM2MVNGMEs0aklwdUxRRTNodjB0VVBBRDZESWFLS2dhRF9LNUdDMzhVY3l3ZFlxdHZsaDN1blJBcHhud9IBX0FVX3lxTE5JMFNVd1Y4Z3htSzZWcjJPOU9mRFlOa3pSamRpZ1J0Z2RDbUdTeGtvU1N1S0pSbTdyZFF5Zk04NmhJNWdKdGhXWWpNQnpyTzdha1BFamM1ZWlZV0htNkJF?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 02:51:14 GMT"
+          "published": "Fri, 24 Jul 2026 05:15:00 GMT"
         }
       ]
     },
     {
-      "word": "수십",
+      "word": "지급경영",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "미국: 트럼프, ‘강제 노동’ 근거로 수십 개국에 관세 부과... '한국은 사실상 12.5%' - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5objdEWDNDdlA2MkFMWWxORVJuTG9NbEpVVXowUkE5Q2tERVBLeU11ajNyM2RmWXlHX1pSZmZqS3ZaQVRpR2F1aGF4eGpHNkpOZ2podi1qa1pITUNW0gFiQVVfeXFMT2Z0SFRjaDNDNDhkb2poS2dfUDVhWjd5R1lrT2RSV1l3Z1V3RkQ5RHNud2taMVYyaGZWQ1lfNFAxZzlsTk9wN0hHWHNPcHl0MnNmSTluVjBqRWV5WUVxN0laWVE?oc=5",
+          "title": "[속보]법원 “최태원, 노소영에 재산분할금 9440억원 현금 지급…경영 기여 일부 인정” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoSWF1bUlyckg5YzF4MG1LVnNMTVBZVXM2MVNGMEs0aklwdUxRRTNodjB0VVBBRDZESWFLS2dhRF9LNUdDMzhVY3l3ZFlxdHZsaDN1blJBcHhud9IBX0FVX3lxTE5JMFNVd1Y4Z3htSzZWcjJPOU9mRFlOa3pSamRpZ1J0Z2RDbUdTeGtvU1N1S0pSbTdyZFF5Zk04NmhJNWdKdGhXWWpNQnpyTzdha1BFamM1ZWlZV0htNkJF?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 02:51:14 GMT"
+          "published": "Fri, 24 Jul 2026 05:15:00 GMT"
         }
       ]
     },
     {
-      "word": "개국",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "미국: 트럼프, ‘강제 노동’ 근거로 수십 개국에 관세 부과... '한국은 사실상 12.5%' - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5objdEWDNDdlA2MkFMWWxORVJuTG9NbEpVVXowUkE5Q2tERVBLeU11ajNyM2RmWXlHX1pSZmZqS3ZaQVRpR2F1aGF4eGpHNkpOZ2podi1qa1pITUNW0gFiQVVfeXFMT2Z0SFRjaDNDNDhkb2poS2dfUDVhWjd5R1lrT2RSV1l3Z1V3RkQ5RHNud2taMVYyaGZWQ1lfNFAxZzlsTk9wN0hHWHNPcHl0MnNmSTluVjBqRWV5WUVxN0laWVE?oc=5",
-          "source": "Google News",
-          "published": "Fri, 24 Jul 2026 02:51:14 GMT"
-        }
-      ]
-    },
-    {
-      "word": "관세",
+      "word": "기여",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "미국: 트럼프, ‘강제 노동’ 근거로 수십 개국에 관세 부과... '한국은 사실상 12.5%' - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5objdEWDNDdlA2MkFMWWxORVJuTG9NbEpVVXowUkE5Q2tERVBLeU11ajNyM2RmWXlHX1pSZmZqS3ZaQVRpR2F1aGF4eGpHNkpOZ2podi1qa1pITUNW0gFiQVVfeXFMT2Z0SFRjaDNDNDhkb2poS2dfUDVhWjd5R1lrT2RSV1l3Z1V3RkQ5RHNud2taMVYyaGZWQ1lfNFAxZzlsTk9wN0hHWHNPcHl0MnNmSTluVjBqRWV5WUVxN0laWVE?oc=5",
+          "title": "[속보]법원 “최태원, 노소영에 재산분할금 9440억원 현금 지급…경영 기여 일부 인정” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoSWF1bUlyckg5YzF4MG1LVnNMTVBZVXM2MVNGMEs0aklwdUxRRTNodjB0VVBBRDZESWFLS2dhRF9LNUdDMzhVY3l3ZFlxdHZsaDN1blJBcHhud9IBX0FVX3lxTE5JMFNVd1Y4Z3htSzZWcjJPOU9mRFlOa3pSamRpZ1J0Z2RDbUdTeGtvU1N1S0pSbTdyZFF5Zk04NmhJNWdKdGhXWWpNQnpyTzdha1BFamM1ZWlZV0htNkJF?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 02:51:14 GMT"
+          "published": "Fri, 24 Jul 2026 05:15:00 GMT"
         }
       ]
     },
     {
-      "word": "부과",
+      "word": "채상병",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "미국: 트럼프, ‘강제 노동’ 근거로 수십 개국에 관세 부과... '한국은 사실상 12.5%' - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5objdEWDNDdlA2MkFMWWxORVJuTG9NbEpVVXowUkE5Q2tERVBLeU11ajNyM2RmWXlHX1pSZmZqS3ZaQVRpR2F1aGF4eGpHNkpOZ2podi1qa1pITUNW0gFiQVVfeXFMT2Z0SFRjaDNDNDhkb2poS2dfUDVhWjd5R1lrT2RSV1l3Z1V3RkQ5RHNud2taMVYyaGZWQ1lfNFAxZzlsTk9wN0hHWHNPcHl0MnNmSTluVjBqRWV5WUVxN0laWVE?oc=5",
+          "title": "채상병 특검, 윤석열 징역 5년 구형…‘이종섭 도피성 임명’ 혐의 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wMmVrQlRpS2JucTE3c3VjVGQ5QVFUQTl0XzV0eVN6Z2pCX21oUGppV3NCRXJNTndhdm5LRXZEalUzUDBPY2xPdlhWRjFocV9NU2FNYmR6MTI5U3hoMHA4c3ozWGkzbWd5RWU4RUxxUmxnUQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 02:51:14 GMT"
+          "published": "Fri, 24 Jul 2026 02:32:00 GMT"
         }
       ]
     },
     {
-      "word": "125",
+      "word": "특검",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "미국: 트럼프, ‘강제 노동’ 근거로 수십 개국에 관세 부과... '한국은 사실상 12.5%' - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5objdEWDNDdlA2MkFMWWxORVJuTG9NbEpVVXowUkE5Q2tERVBLeU11ajNyM2RmWXlHX1pSZmZqS3ZaQVRpR2F1aGF4eGpHNkpOZ2podi1qa1pITUNW0gFiQVVfeXFMT2Z0SFRjaDNDNDhkb2poS2dfUDVhWjd5R1lrT2RSV1l3Z1V3RkQ5RHNud2taMVYyaGZWQ1lfNFAxZzlsTk9wN0hHWHNPcHl0MnNmSTluVjBqRWV5WUVxN0laWVE?oc=5",
+          "title": "채상병 특검, 윤석열 징역 5년 구형…‘이종섭 도피성 임명’ 혐의 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wMmVrQlRpS2JucTE3c3VjVGQ5QVFUQTl0XzV0eVN6Z2pCX21oUGppV3NCRXJNTndhdm5LRXZEalUzUDBPY2xPdlhWRjFocV9NU2FNYmR6MTI5U3hoMHA4c3ozWGkzbWd5RWU4RUxxUmxnUQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 02:51:14 GMT"
-        }
-      ]
-    },
-    {
-      "word": "권영진",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "권영진, 상임위 배정 반발해 멱살잡이‥\"변명 여지없이 제 불찰\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sQUtaRjlxNEotQkdzNHBGLVlmWF9ocGUtYmprTVM1SVNhazBfcEVNcEVVblFITjRDNE83eS1ENmtUSTFxLVR1U2V1bkRPTU55QkV1TzJBMU1Bb2dmQl9yTS14NzhsU2JhM2hiamlqTFFaUHhTR1VlNNIBeEFVX3lxTE1oYm9TVEU1cGg4ZUlvOU1sSUJUMkVkS0t2ZE0yQlJhdjNRMWJBREtFb1lBWWU5eWFyZi1BdjlzSk1paXNNYTEya0ZkMVJlUko0dng5VFRLNDI4YndJOVZsSFhGWWxhSU56a3lvNERIQVBVdTI2VXoydQ?oc=5",
-          "source": "Google News",
-          "published": "Fri, 24 Jul 2026 00:04:36 GMT"
-        }
-      ]
-    },
-    {
-      "word": "상임위",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "권영진, 상임위 배정 반발해 멱살잡이‥\"변명 여지없이 제 불찰\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sQUtaRjlxNEotQkdzNHBGLVlmWF9ocGUtYmprTVM1SVNhazBfcEVNcEVVblFITjRDNE83eS1ENmtUSTFxLVR1U2V1bkRPTU55QkV1TzJBMU1Bb2dmQl9yTS14NzhsU2JhM2hiamlqTFFaUHhTR1VlNNIBeEFVX3lxTE1oYm9TVEU1cGg4ZUlvOU1sSUJUMkVkS0t2ZE0yQlJhdjNRMWJBREtFb1lBWWU5eWFyZi1BdjlzSk1paXNNYTEya0ZkMVJlUko0dng5VFRLNDI4YndJOVZsSFhGWWxhSU56a3lvNERIQVBVdTI2VXoydQ?oc=5",
-          "source": "Google News",
-          "published": "Fri, 24 Jul 2026 00:04:36 GMT"
-        }
-      ]
-    },
-    {
-      "word": "배정",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "권영진, 상임위 배정 반발해 멱살잡이‥\"변명 여지없이 제 불찰\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sQUtaRjlxNEotQkdzNHBGLVlmWF9ocGUtYmprTVM1SVNhazBfcEVNcEVVblFITjRDNE83eS1ENmtUSTFxLVR1U2V1bkRPTU55QkV1TzJBMU1Bb2dmQl9yTS14NzhsU2JhM2hiamlqTFFaUHhTR1VlNNIBeEFVX3lxTE1oYm9TVEU1cGg4ZUlvOU1sSUJUMkVkS0t2ZE0yQlJhdjNRMWJBREtFb1lBWWU5eWFyZi1BdjlzSk1paXNNYTEya0ZkMVJlUko0dng5VFRLNDI4YndJOVZsSFhGWWxhSU56a3lvNERIQVBVdTI2VXoydQ?oc=5",
-          "source": "Google News",
-          "published": "Fri, 24 Jul 2026 00:04:36 GMT"
-        }
-      ]
-    },
-    {
-      "word": "반발해",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "권영진, 상임위 배정 반발해 멱살잡이‥\"변명 여지없이 제 불찰\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sQUtaRjlxNEotQkdzNHBGLVlmWF9ocGUtYmprTVM1SVNhazBfcEVNcEVVblFITjRDNE83eS1ENmtUSTFxLVR1U2V1bkRPTU55QkV1TzJBMU1Bb2dmQl9yTS14NzhsU2JhM2hiamlqTFFaUHhTR1VlNNIBeEFVX3lxTE1oYm9TVEU1cGg4ZUlvOU1sSUJUMkVkS0t2ZE0yQlJhdjNRMWJBREtFb1lBWWU5eWFyZi1BdjlzSk1paXNNYTEya0ZkMVJlUko0dng5VFRLNDI4YndJOVZsSFhGWWxhSU56a3lvNERIQVBVdTI2VXoydQ?oc=5",
-          "source": "Google News",
-          "published": "Fri, 24 Jul 2026 00:04:36 GMT"
-        }
-      ]
-    },
-    {
-      "word": "멱살잡이변명",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "권영진, 상임위 배정 반발해 멱살잡이‥\"변명 여지없이 제 불찰\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sQUtaRjlxNEotQkdzNHBGLVlmWF9ocGUtYmprTVM1SVNhazBfcEVNcEVVblFITjRDNE83eS1ENmtUSTFxLVR1U2V1bkRPTU55QkV1TzJBMU1Bb2dmQl9yTS14NzhsU2JhM2hiamlqTFFaUHhTR1VlNNIBeEFVX3lxTE1oYm9TVEU1cGg4ZUlvOU1sSUJUMkVkS0t2ZE0yQlJhdjNRMWJBREtFb1lBWWU5eWFyZi1BdjlzSk1paXNNYTEya0ZkMVJlUko0dng5VFRLNDI4YndJOVZsSFhGWWxhSU56a3lvNERIQVBVdTI2VXoydQ?oc=5",
-          "source": "Google News",
-          "published": "Fri, 24 Jul 2026 00:04:36 GMT"
-        }
-      ]
-    },
-    {
-      "word": "여지없",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "권영진, 상임위 배정 반발해 멱살잡이‥\"변명 여지없이 제 불찰\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sQUtaRjlxNEotQkdzNHBGLVlmWF9ocGUtYmprTVM1SVNhazBfcEVNcEVVblFITjRDNE83eS1ENmtUSTFxLVR1U2V1bkRPTU55QkV1TzJBMU1Bb2dmQl9yTS14NzhsU2JhM2hiamlqTFFaUHhTR1VlNNIBeEFVX3lxTE1oYm9TVEU1cGg4ZUlvOU1sSUJUMkVkS0t2ZE0yQlJhdjNRMWJBREtFb1lBWWU5eWFyZi1BdjlzSk1paXNNYTEya0ZkMVJlUko0dng5VFRLNDI4YndJOVZsSFhGWWxhSU56a3lvNERIQVBVdTI2VXoydQ?oc=5",
-          "source": "Google News",
-          "published": "Fri, 24 Jul 2026 00:04:36 GMT"
-        }
-      ]
-    },
-    {
-      "word": "불찰",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "권영진, 상임위 배정 반발해 멱살잡이‥\"변명 여지없이 제 불찰\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sQUtaRjlxNEotQkdzNHBGLVlmWF9ocGUtYmprTVM1SVNhazBfcEVNcEVVblFITjRDNE83eS1ENmtUSTFxLVR1U2V1bkRPTU55QkV1TzJBMU1Bb2dmQl9yTS14NzhsU2JhM2hiamlqTFFaUHhTR1VlNNIBeEFVX3lxTE1oYm9TVEU1cGg4ZUlvOU1sSUJUMkVkS0t2ZE0yQlJhdjNRMWJBREtFb1lBWWU5eWFyZi1BdjlzSk1paXNNYTEya0ZkMVJlUko0dng5VFRLNDI4YndJOVZsSFhGWWxhSU56a3lvNERIQVBVdTI2VXoydQ?oc=5",
-          "source": "Google News",
-          "published": "Fri, 24 Jul 2026 00:04:36 GMT"
-        }
-      ]
-    },
-    {
-      "word": "속보이종섭",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[속보]‘이종섭 도피 의혹’ 윤석열 5년 구형…특검 “범행 은폐 목적으로 형사사법 작용 무력화” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZTnNFYzRuX0ZORWRfbVRmdWhxMUxMN005SlVsdHdqaVF4VW5aNkZaSW1tZHNVRERQdkIyQlZjRUFFamdNdGRDQWVFbHBla3NfYjNKaEFxdWZ1d9IBX0FVX3lxTE9KVUlsVHpiLTdKaVo2VzQ5WkxsWC1XbHN5LWl4X3V1WUVYc1pNV0NMZDdxY0RzTmp6dlNDNEZtSktXMkhLUWp4TG1CTHAxN3B5bkJoUml4QjF2SGFsM1Q0?oc=5",
-          "source": "Google News",
-          "published": "Fri, 24 Jul 2026 02:06:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "도피",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[속보]‘이종섭 도피 의혹’ 윤석열 5년 구형…특검 “범행 은폐 목적으로 형사사법 작용 무력화” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZTnNFYzRuX0ZORWRfbVRmdWhxMUxMN005SlVsdHdqaVF4VW5aNkZaSW1tZHNVRERQdkIyQlZjRUFFamdNdGRDQWVFbHBla3NfYjNKaEFxdWZ1d9IBX0FVX3lxTE9KVUlsVHpiLTdKaVo2VzQ5WkxsWC1XbHN5LWl4X3V1WUVYc1pNV0NMZDdxY0RzTmp6dlNDNEZtSktXMkhLUWp4TG1CTHAxN3B5bkJoUml4QjF2SGFsM1Q0?oc=5",
-          "source": "Google News",
-          "published": "Fri, 24 Jul 2026 02:06:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "의혹",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[속보]‘이종섭 도피 의혹’ 윤석열 5년 구형…특검 “범행 은폐 목적으로 형사사법 작용 무력화” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZTnNFYzRuX0ZORWRfbVRmdWhxMUxMN005SlVsdHdqaVF4VW5aNkZaSW1tZHNVRERQdkIyQlZjRUFFamdNdGRDQWVFbHBla3NfYjNKaEFxdWZ1d9IBX0FVX3lxTE9KVUlsVHpiLTdKaVo2VzQ5WkxsWC1XbHN5LWl4X3V1WUVYc1pNV0NMZDdxY0RzTmp6dlNDNEZtSktXMkhLUWp4TG1CTHAxN3B5bkJoUml4QjF2SGFsM1Q0?oc=5",
-          "source": "Google News",
-          "published": "Fri, 24 Jul 2026 02:06:00 GMT"
+          "published": "Fri, 24 Jul 2026 02:32:00 GMT"
         }
       ]
     },
@@ -351,10 +373,23 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보]‘이종섭 도피 의혹’ 윤석열 5년 구형…특검 “범행 은폐 목적으로 형사사법 작용 무력화” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZTnNFYzRuX0ZORWRfbVRmdWhxMUxMN005SlVsdHdqaVF4VW5aNkZaSW1tZHNVRERQdkIyQlZjRUFFamdNdGRDQWVFbHBla3NfYjNKaEFxdWZ1d9IBX0FVX3lxTE9KVUlsVHpiLTdKaVo2VzQ5WkxsWC1XbHN5LWl4X3V1WUVYc1pNV0NMZDdxY0RzTmp6dlNDNEZtSktXMkhLUWp4TG1CTHAxN3B5bkJoUml4QjF2SGFsM1Q0?oc=5",
+          "title": "채상병 특검, 윤석열 징역 5년 구형…‘이종섭 도피성 임명’ 혐의 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wMmVrQlRpS2JucTE3c3VjVGQ5QVFUQTl0XzV0eVN6Z2pCX21oUGppV3NCRXJNTndhdm5LRXZEalUzUDBPY2xPdlhWRjFocV9NU2FNYmR6MTI5U3hoMHA4c3ozWGkzbWd5RWU4RUxxUmxnUQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 02:06:00 GMT"
+          "published": "Fri, 24 Jul 2026 02:32:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "징역",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "채상병 특검, 윤석열 징역 5년 구형…‘이종섭 도피성 임명’ 혐의 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wMmVrQlRpS2JucTE3c3VjVGQ5QVFUQTl0XzV0eVN6Z2pCX21oUGppV3NCRXJNTndhdm5LRXZEalUzUDBPY2xPdlhWRjFocV9NU2FNYmR6MTI5U3hoMHA4c3ozWGkzbWd5RWU4RUxxUmxnUQ?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 02:32:00 GMT"
         }
       ]
     },
@@ -364,140 +399,192 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보]‘이종섭 도피 의혹’ 윤석열 5년 구형…특검 “범행 은폐 목적으로 형사사법 작용 무력화” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZTnNFYzRuX0ZORWRfbVRmdWhxMUxMN005SlVsdHdqaVF4VW5aNkZaSW1tZHNVRERQdkIyQlZjRUFFamdNdGRDQWVFbHBla3NfYjNKaEFxdWZ1d9IBX0FVX3lxTE9KVUlsVHpiLTdKaVo2VzQ5WkxsWC1XbHN5LWl4X3V1WUVYc1pNV0NMZDdxY0RzTmp6dlNDNEZtSktXMkhLUWp4TG1CTHAxN3B5bkJoUml4QjF2SGFsM1Q0?oc=5",
+          "title": "채상병 특검, 윤석열 징역 5년 구형…‘이종섭 도피성 임명’ 혐의 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wMmVrQlRpS2JucTE3c3VjVGQ5QVFUQTl0XzV0eVN6Z2pCX21oUGppV3NCRXJNTndhdm5LRXZEalUzUDBPY2xPdlhWRjFocV9NU2FNYmR6MTI5U3hoMHA4c3ozWGkzbWd5RWU4RUxxUmxnUQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 02:06:00 GMT"
+          "published": "Fri, 24 Jul 2026 02:32:00 GMT"
         }
       ]
     },
     {
-      "word": "구형특검",
+      "word": "구형이종섭",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보]‘이종섭 도피 의혹’ 윤석열 5년 구형…특검 “범행 은폐 목적으로 형사사법 작용 무력화” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZTnNFYzRuX0ZORWRfbVRmdWhxMUxMN005SlVsdHdqaVF4VW5aNkZaSW1tZHNVRERQdkIyQlZjRUFFamdNdGRDQWVFbHBla3NfYjNKaEFxdWZ1d9IBX0FVX3lxTE9KVUlsVHpiLTdKaVo2VzQ5WkxsWC1XbHN5LWl4X3V1WUVYc1pNV0NMZDdxY0RzTmp6dlNDNEZtSktXMkhLUWp4TG1CTHAxN3B5bkJoUml4QjF2SGFsM1Q0?oc=5",
+          "title": "채상병 특검, 윤석열 징역 5년 구형…‘이종섭 도피성 임명’ 혐의 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wMmVrQlRpS2JucTE3c3VjVGQ5QVFUQTl0XzV0eVN6Z2pCX21oUGppV3NCRXJNTndhdm5LRXZEalUzUDBPY2xPdlhWRjFocV9NU2FNYmR6MTI5U3hoMHA4c3ozWGkzbWd5RWU4RUxxUmxnUQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 02:06:00 GMT"
+          "published": "Fri, 24 Jul 2026 02:32:00 GMT"
         }
       ]
     },
     {
-      "word": "범행",
+      "word": "도피",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보]‘이종섭 도피 의혹’ 윤석열 5년 구형…특검 “범행 은폐 목적으로 형사사법 작용 무력화” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZTnNFYzRuX0ZORWRfbVRmdWhxMUxMN005SlVsdHdqaVF4VW5aNkZaSW1tZHNVRERQdkIyQlZjRUFFamdNdGRDQWVFbHBla3NfYjNKaEFxdWZ1d9IBX0FVX3lxTE9KVUlsVHpiLTdKaVo2VzQ5WkxsWC1XbHN5LWl4X3V1WUVYc1pNV0NMZDdxY0RzTmp6dlNDNEZtSktXMkhLUWp4TG1CTHAxN3B5bkJoUml4QjF2SGFsM1Q0?oc=5",
+          "title": "채상병 특검, 윤석열 징역 5년 구형…‘이종섭 도피성 임명’ 혐의 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wMmVrQlRpS2JucTE3c3VjVGQ5QVFUQTl0XzV0eVN6Z2pCX21oUGppV3NCRXJNTndhdm5LRXZEalUzUDBPY2xPdlhWRjFocV9NU2FNYmR6MTI5U3hoMHA4c3ozWGkzbWd5RWU4RUxxUmxnUQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 02:06:00 GMT"
+          "published": "Fri, 24 Jul 2026 02:32:00 GMT"
         }
       ]
     },
     {
-      "word": "은폐",
+      "word": "임명",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보]‘이종섭 도피 의혹’ 윤석열 5년 구형…특검 “범행 은폐 목적으로 형사사법 작용 무력화” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZTnNFYzRuX0ZORWRfbVRmdWhxMUxMN005SlVsdHdqaVF4VW5aNkZaSW1tZHNVRERQdkIyQlZjRUFFamdNdGRDQWVFbHBla3NfYjNKaEFxdWZ1d9IBX0FVX3lxTE9KVUlsVHpiLTdKaVo2VzQ5WkxsWC1XbHN5LWl4X3V1WUVYc1pNV0NMZDdxY0RzTmp6dlNDNEZtSktXMkhLUWp4TG1CTHAxN3B5bkJoUml4QjF2SGFsM1Q0?oc=5",
+          "title": "채상병 특검, 윤석열 징역 5년 구형…‘이종섭 도피성 임명’ 혐의 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wMmVrQlRpS2JucTE3c3VjVGQ5QVFUQTl0XzV0eVN6Z2pCX21oUGppV3NCRXJNTndhdm5LRXZEalUzUDBPY2xPdlhWRjFocV9NU2FNYmR6MTI5U3hoMHA4c3ozWGkzbWd5RWU4RUxxUmxnUQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 02:06:00 GMT"
+          "published": "Fri, 24 Jul 2026 02:32:00 GMT"
         }
       ]
     },
     {
-      "word": "목적",
+      "word": "혐의",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보]‘이종섭 도피 의혹’ 윤석열 5년 구형…특검 “범행 은폐 목적으로 형사사법 작용 무력화” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZTnNFYzRuX0ZORWRfbVRmdWhxMUxMN005SlVsdHdqaVF4VW5aNkZaSW1tZHNVRERQdkIyQlZjRUFFamdNdGRDQWVFbHBla3NfYjNKaEFxdWZ1d9IBX0FVX3lxTE9KVUlsVHpiLTdKaVo2VzQ5WkxsWC1XbHN5LWl4X3V1WUVYc1pNV0NMZDdxY0RzTmp6dlNDNEZtSktXMkhLUWp4TG1CTHAxN3B5bkJoUml4QjF2SGFsM1Q0?oc=5",
+          "title": "채상병 특검, 윤석열 징역 5년 구형…‘이종섭 도피성 임명’ 혐의 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wMmVrQlRpS2JucTE3c3VjVGQ5QVFUQTl0XzV0eVN6Z2pCX21oUGppV3NCRXJNTndhdm5LRXZEalUzUDBPY2xPdlhWRjFocV9NU2FNYmR6MTI5U3hoMHA4c3ozWGkzbWd5RWU4RUxxUmxnUQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 02:06:00 GMT"
+          "published": "Fri, 24 Jul 2026 02:32:00 GMT"
         }
       ]
     },
     {
-      "word": "형사사법",
+      "word": "본선",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보]‘이종섭 도피 의혹’ 윤석열 5년 구형…특검 “범행 은폐 목적으로 형사사법 작용 무력화” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZTnNFYzRuX0ZORWRfbVRmdWhxMUxMN005SlVsdHdqaVF4VW5aNkZaSW1tZHNVRERQdkIyQlZjRUFFamdNdGRDQWVFbHBla3NfYjNKaEFxdWZ1d9IBX0FVX3lxTE9KVUlsVHpiLTdKaVo2VzQ5WkxsWC1XbHN5LWl4X3V1WUVYc1pNV0NMZDdxY0RzTmp6dlNDNEZtSktXMkhLUWp4TG1CTHAxN3B5bkJoUml4QjF2SGFsM1Q0?oc=5",
+          "title": "본선 대진표 확정…친청계, '생일별 분산 투표' 전략 성공하며 전원 생존 '저력' - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMNVpKYjY0bThoS29tVThhZ1FGaEtTbE1qb3hoVDZ2RkZBTy15SjZEcGh6S3BIYmU5X0paeE5kSE1DdzRHTlVpV1Fod2ZGMEc1d09FNmFqc3hIaTdu?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 02:06:00 GMT"
+          "published": "Fri, 24 Jul 2026 04:33:00 GMT"
         }
       ]
     },
     {
-      "word": "작용",
+      "word": "대진표",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보]‘이종섭 도피 의혹’ 윤석열 5년 구형…특검 “범행 은폐 목적으로 형사사법 작용 무력화” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZTnNFYzRuX0ZORWRfbVRmdWhxMUxMN005SlVsdHdqaVF4VW5aNkZaSW1tZHNVRERQdkIyQlZjRUFFamdNdGRDQWVFbHBla3NfYjNKaEFxdWZ1d9IBX0FVX3lxTE9KVUlsVHpiLTdKaVo2VzQ5WkxsWC1XbHN5LWl4X3V1WUVYc1pNV0NMZDdxY0RzTmp6dlNDNEZtSktXMkhLUWp4TG1CTHAxN3B5bkJoUml4QjF2SGFsM1Q0?oc=5",
+          "title": "본선 대진표 확정…친청계, '생일별 분산 투표' 전략 성공하며 전원 생존 '저력' - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMNVpKYjY0bThoS29tVThhZ1FGaEtTbE1qb3hoVDZ2RkZBTy15SjZEcGh6S3BIYmU5X0paeE5kSE1DdzRHTlVpV1Fod2ZGMEc1d09FNmFqc3hIaTdu?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 02:06:00 GMT"
+          "published": "Fri, 24 Jul 2026 04:33:00 GMT"
         }
       ]
     },
     {
-      "word": "무력",
+      "word": "확정친청계",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보]‘이종섭 도피 의혹’ 윤석열 5년 구형…특검 “범행 은폐 목적으로 형사사법 작용 무력화” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZTnNFYzRuX0ZORWRfbVRmdWhxMUxMN005SlVsdHdqaVF4VW5aNkZaSW1tZHNVRERQdkIyQlZjRUFFamdNdGRDQWVFbHBla3NfYjNKaEFxdWZ1d9IBX0FVX3lxTE9KVUlsVHpiLTdKaVo2VzQ5WkxsWC1XbHN5LWl4X3V1WUVYc1pNV0NMZDdxY0RzTmp6dlNDNEZtSktXMkhLUWp4TG1CTHAxN3B5bkJoUml4QjF2SGFsM1Q0?oc=5",
+          "title": "본선 대진표 확정…친청계, '생일별 분산 투표' 전략 성공하며 전원 생존 '저력' - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMNVpKYjY0bThoS29tVThhZ1FGaEtTbE1qb3hoVDZ2RkZBTy15SjZEcGh6S3BIYmU5X0paeE5kSE1DdzRHTlVpV1Fod2ZGMEc1d09FNmFqc3hIaTdu?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 02:06:00 GMT"
+          "published": "Fri, 24 Jul 2026 04:33:00 GMT"
         }
       ]
     },
     {
-      "word": "박지원",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "박지원 “이 대통령 계파 수장? 유시민, 지나친 예단” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Jd3oxeXhRUGJ2dXBMVTJDN3ZlM0NCczFXMzh2VWU3akwwVm1GbHQ3R0JFTUl1eVc4eDF2WEwxMGk3MERJcExXclNDODF4S09YNFZPakpUaHM2QzQ5cWZfcG5WczBGZExfYTBfREMwbjJIU29W?oc=5",
-          "source": "Google News",
-          "published": "Fri, 24 Jul 2026 02:18:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "계파",
+      "word": "생일별",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "박지원 “이 대통령 계파 수장? 유시민, 지나친 예단” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Jd3oxeXhRUGJ2dXBMVTJDN3ZlM0NCczFXMzh2VWU3akwwVm1GbHQ3R0JFTUl1eVc4eDF2WEwxMGk3MERJcExXclNDODF4S09YNFZPakpUaHM2QzQ5cWZfcG5WczBGZExfYTBfREMwbjJIU29W?oc=5",
+          "title": "본선 대진표 확정…친청계, '생일별 분산 투표' 전략 성공하며 전원 생존 '저력' - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMNVpKYjY0bThoS29tVThhZ1FGaEtTbE1qb3hoVDZ2RkZBTy15SjZEcGh6S3BIYmU5X0paeE5kSE1DdzRHTlVpV1Fod2ZGMEc1d09FNmFqc3hIaTdu?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 02:18:00 GMT"
+          "published": "Fri, 24 Jul 2026 04:33:00 GMT"
         }
       ]
     },
     {
-      "word": "수장",
+      "word": "분산",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "박지원 “이 대통령 계파 수장? 유시민, 지나친 예단” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Jd3oxeXhRUGJ2dXBMVTJDN3ZlM0NCczFXMzh2VWU3akwwVm1GbHQ3R0JFTUl1eVc4eDF2WEwxMGk3MERJcExXclNDODF4S09YNFZPakpUaHM2QzQ5cWZfcG5WczBGZExfYTBfREMwbjJIU29W?oc=5",
+          "title": "본선 대진표 확정…친청계, '생일별 분산 투표' 전략 성공하며 전원 생존 '저력' - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMNVpKYjY0bThoS29tVThhZ1FGaEtTbE1qb3hoVDZ2RkZBTy15SjZEcGh6S3BIYmU5X0paeE5kSE1DdzRHTlVpV1Fod2ZGMEc1d09FNmFqc3hIaTdu?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 02:18:00 GMT"
+          "published": "Fri, 24 Jul 2026 04:33:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "투표",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "본선 대진표 확정…친청계, '생일별 분산 투표' 전략 성공하며 전원 생존 '저력' - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMNVpKYjY0bThoS29tVThhZ1FGaEtTbE1qb3hoVDZ2RkZBTy15SjZEcGh6S3BIYmU5X0paeE5kSE1DdzRHTlVpV1Fod2ZGMEc1d09FNmFqc3hIaTdu?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 04:33:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "전략",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "본선 대진표 확정…친청계, '생일별 분산 투표' 전략 성공하며 전원 생존 '저력' - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMNVpKYjY0bThoS29tVThhZ1FGaEtTbE1qb3hoVDZ2RkZBTy15SjZEcGh6S3BIYmU5X0paeE5kSE1DdzRHTlVpV1Fod2ZGMEc1d09FNmFqc3hIaTdu?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 04:33:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "전원",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "본선 대진표 확정…친청계, '생일별 분산 투표' 전략 성공하며 전원 생존 '저력' - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMNVpKYjY0bThoS29tVThhZ1FGaEtTbE1qb3hoVDZ2RkZBTy15SjZEcGh6S3BIYmU5X0paeE5kSE1DdzRHTlVpV1Fod2ZGMEc1d09FNmFqc3hIaTdu?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 04:33:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "생존",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "본선 대진표 확정…친청계, '생일별 분산 투표' 전략 성공하며 전원 생존 '저력' - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMNVpKYjY0bThoS29tVThhZ1FGaEtTbE1qb3hoVDZ2RkZBTy15SjZEcGh6S3BIYmU5X0paeE5kSE1DdzRHTlVpV1Fod2ZGMEc1d09FNmFqc3hIaTdu?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 04:33:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "저력",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "본선 대진표 확정…친청계, '생일별 분산 투표' 전략 성공하며 전원 생존 '저력' - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMNVpKYjY0bThoS29tVThhZ1FGaEtTbE1qb3hoVDZ2RkZBTy15SjZEcGh6S3BIYmU5X0paeE5kSE1DdzRHTlVpV1Fod2ZGMEc1d09FNmFqc3hIaTdu?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 04:33:00 GMT"
         }
       ]
     },
@@ -507,49 +594,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "박지원 “이 대통령 계파 수장? 유시민, 지나친 예단” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Jd3oxeXhRUGJ2dXBMVTJDN3ZlM0NCczFXMzh2VWU3akwwVm1GbHQ3R0JFTUl1eVc4eDF2WEwxMGk3MERJcExXclNDODF4S09YNFZPakpUaHM2QzQ5cWZfcG5WczBGZExfYTBfREMwbjJIU29W?oc=5",
+          "title": "유시민, 이 대통령 또 비판... \"당대표는 대통령 부하가 아니다\" - 한국일보",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IZGkxWnBNU0tDeF85bW5oeFZralZJOHpiYjgxVkd3SnFHeVBGUUdfelJSNDlHbU15akRodmZVdEptTW5uY2R3Q3E3REtNUXdwcVc1MlpEMUZGUjk0T3F6d2l1YzZQajRXekQwRm9R0gFzQVVfeXFMUG1PZ283OWROTDhGY0FJbFpua3VWWFhlNUdkQWxWVGxqTGhHc0NxbXhLLXFjR2RLMXpoTHFjRWVsWHZYZ3Q1MGRNdnU2WWNOLU96dE00Y185RmZ0QXZJaFNOUDR2ZzA1Nzk1ZkJ5ZzZrejhZbw?oc=5",
           "source": "Google News",
-          "published": "Fri, 24 Jul 2026 02:18:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "지나친",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "박지원 “이 대통령 계파 수장? 유시민, 지나친 예단” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Jd3oxeXhRUGJ2dXBMVTJDN3ZlM0NCczFXMzh2VWU3akwwVm1GbHQ3R0JFTUl1eVc4eDF2WEwxMGk3MERJcExXclNDODF4S09YNFZPakpUaHM2QzQ5cWZfcG5WczBGZExfYTBfREMwbjJIU29W?oc=5",
-          "source": "Google News",
-          "published": "Fri, 24 Jul 2026 02:18:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "예단",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "박지원 “이 대통령 계파 수장? 유시민, 지나친 예단” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Jd3oxeXhRUGJ2dXBMVTJDN3ZlM0NCczFXMzh2VWU3akwwVm1GbHQ3R0JFTUl1eVc4eDF2WEwxMGk3MERJcExXclNDODF4S09YNFZPakpUaHM2QzQ5cWZfcG5WczBGZExfYTBfREMwbjJIU29W?oc=5",
-          "source": "Google News",
-          "published": "Fri, 24 Jul 2026 02:18:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "보유세",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "李 “보유세 차등화, 선진국 수준이면 3배 올려야” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZUlJfMHU2azZwZWpJZnZld1I5aUJCZVFOTzZMWkxSNXc2YmhtN2NVMkgxOXU5ZGJPMzFiTHNHSVl5Sk42amtRSmJvOFBMRVZDR2NjV1hVZWt2NUxWV0oyU3NNMkQ1YUhmRXRJRlF6ZXFBYmV5Smcw0gFmQVVfeXFMTXZlSXFIaXpfbDhqNjg5QnlYTWVjOHJvbzhSZWctYjJlbFNuUDlPVFpIWDdwc3BTWWd0akpWNnlocEVNRU9PSm00QjBOU0Etek04bE9MOXkwMG13SmgwNDZYZzQ0Z0hB?oc=5",
-          "source": "Google News",
-          "published": "Thu, 23 Jul 2026 19:30:00 GMT"
+          "published": "Thu, 23 Jul 2026 15:10:00 GMT"
         }
       ]
     }
