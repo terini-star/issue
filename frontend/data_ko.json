@@ -1,176 +1,307 @@
 {
   "language": "ko",
-  "last_updated": 1785020418.1408768,
+  "last_updated": 1785037111.5016327,
   "count": 40,
   "trends": [
     {
-      "word": "대통령",
+      "word": "이란",
       "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "오만 중재 나서자, 트럼프 “이란 공습 멈춰”…확전 분수령 D-4 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OV0RPeGlSRHpJMktXQmZ0Y0dRdUJaYlRVZjdFMjhqdzdickg1bmdIdFdNRVE4WGs3WXBJaWZLWnFQb2JDakRlUHZuOGtnX1A0aVl5SDBBVGxfVFFSQTdYUm9jQk5saVBLeGF4OVZZaGtReEE?oc=5",
+          "source": "Google News",
+          "published": "Sun, 26 Jul 2026 01:25:00 GMT"
+        },
+        {
+          "title": "미군 \"이란 해상봉쇄 유지 중‥2척 무력화·12척 항로변경\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16WTVYTklTNVJ5bTFBcEFlcVlLMXl6R3JnZHdzQnUyMkRuSTZuZzYwY3RUay1DUzJXUE04VEpicFNKb3hXNWpSc09oV0R2c3dZbkhTQzZUaC1hRU1fY0IzdkZ0NWZPcXNKN1A2WUlzU05QTFlC0gF0QVVfeXFMTWJ3cGxESnhPSnMzQmpqQUl6WjRLRTN3Z0tGUkFTckVsSWlsbmFzdjMxT05RZnNWQlU2YnpvY2pDTEdLSlRuOHZTb0llTDJKMUxMYUlKd1ExZzc0anQwdkVQUXZqakdreWo1NXJGdUllZWk4QnM?oc=5",
+          "source": "Google News",
+          "published": "Sat, 25 Jul 2026 22:26:36 GMT"
+        },
+        {
+          "title": "이란 상선, 카스피해서 우크라에 피습…\"선원 1명 사망\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zNjZsTWpIYi1rX0Zfck5OeTh1LWZpU0JYVV9DTTY2U0k0QnJGSGlIbUFJdXgydTlTSE9qbXRfWkV6YVYwd2U5Zk5WeDRoUVUyNmJDYnJURURhQ0QwV2swQkZzNjRaWVk?oc=5",
+          "source": "Google News",
+          "published": "Sun, 26 Jul 2026 01:06:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "대통령",
+      "count": 2,
       "category": "PERSON",
       "articles": [
         {
-          "title": "“우리는, 식구다” 이 대통령과 AI 거물들의 화기애애했던 ‘샌프란 깐부 회동’ - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQZ1dDaFFUUWlkdnpaMFZhSjJDZXNjczc1TjNtN0QxTFQ5YlcyZ0xzTVJNYU1ldC0xOEp1UEF3UFJ0RGY3dy1fZms0S2E2eVlheURxRjVkX3E4d9IBX0FVX3lxTE9PU0owWUZqMzFWb0lQRnd2Y0VXc0wtM1lkeTNOZTVUUkRydk9UUVZKMjFKWEk1azFXRWNFUkFUV1p0UmZfRjNlWnJlbThLaHNpWTNDOWVBVjNtOEpDTDZV?oc=5",
+          "title": "장동혁 “‘전자투표 도입? 대통령이 할 말 인가“ - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43QURZQ2hHLTlxMWFpb1FfckpxYTFYcUlxb29JZWl5MHN4ZXlKczQ2dnVidU1UeU1sMVA3b1VZSm1WT1VDaUZnZTlidjZrMzlLeThNajhOczFPeXJxNU12VFEtbFZSQlJhTjNRZmNJUmJOal9tWklF0gFmQVVfeXFMT1pMWVRGRjZ5dDYtUDZJX3NMM3FySXlrOGoxM2loSzV6d0hTazRfNkdBWW1WOFV5Vk1mRFI1b1lKOXZvN05BMVZwQkFDeHJVUVVxb21BTURKT2hka2hPZFB1Xy0teTVR?oc=5",
           "source": "Google News",
-          "published": "Sat, 25 Jul 2026 04:23:00 GMT"
+          "published": "Sun, 26 Jul 2026 03:15:22 GMT"
         },
         {
-          "title": "유럽연합 “한국은 러시아 LNG 수입해도 제재 면제”···이 대통령 “경제에 큰 도움” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1leDZEdzNKOTMwQWp1WU04VnpUVjhaY0xObFlSdVQyMWVOOUVVTlNDX1RsZEZzWVNyNmxIMG84TlgtUFQ0SnlZVW1tYmpKNW5tZVIyUTZ4clFpQdIBX0FVX3lxTE94MzRFZkxzVkt1cEdqRkxSX1UxZmhRUXlGWUY1Um14Z1ljU1VFWmkwUHMtQVlpNmdCWGNCbHFSMUVJVi0wVUlhRUhKRnU5M1h2Vi1JalYzdEpRQlh3b19z?oc=5",
+          "title": "정점식 \"이 대통령, '보완수사권 폐지' 왜 말 없나‥정치 비겁하게 해\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxS2hwZ1QxQWZtMGlLNkNKQ2JoNk1FVEEzZlliM0wtSVNuSkFpOGpBY1RreWNJdUZDRkl1aWRoNVJXLXhIcDBHNVhwY2JkcnZRRzVQTHNTeVlSaENUZmYyUDhpQXhCaGV1c2hwRnFjNGptN1ZDY1FtLdIBeEFVX3lxTE5wU0hSWWxsbU1TMnNRVElNbDd5dUxqZ25xdGlOeEJTQk8ycWlSbWxBNzdWaFBOQTNyTlI2YTNjV3VsdGxnZ0ZpRlNlVW05SzczU3Bwend4b2s4VS1PYnBveGQ3M1UyeGhJUC1wUEUycHlyYU9VendFYQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 25 Jul 2026 12:09:00 GMT"
+          "published": "Sun, 26 Jul 2026 01:48:48 GMT"
+        }
+      ]
+    },
+    {
+      "word": "민주당",
+      "count": 2,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "국힘 “민주당 신천지 연루 의혹, 야당 추천 특검 즉각 발의하라” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53V180c0lTNlNHUWR0TXIycXNBb00wM1dNQm9zbHI1WDU3Y0wwSWk3elVLb2x6b1piOWp5YXJXSXBLVHlLUURhWU90VWNDZ25FNWp2WWk0c1psN3N5bmgzNkpPYy0yOXhXRlpPd29IU01uT0s0SDNj0gFmQVVfeXFMTzFjcERkenN1UVU0NWFaSHhRNFNTcEVQVkg2SE1OY19GdWR2UkVXdm5Ic0dCUEEtdnJ2R3IxR2VCNFVVcE1ibWJfakRicWluSWdsT2cweHZLQWwwd1RmQXY3RG5HcHhB?oc=5",
+          "source": "Google News",
+          "published": "Sun, 26 Jul 2026 00:16:43 GMT"
         },
         {
-          "title": "'文 어게인' 길로 가는 李 대통령 … 張 \"문재인이 나았다는 말 나와\" - 뉴데일리",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE56TWl6Z2RodWhBN3p2bHJJY0Q4QVJmVVFJNEQzTWI5M3RlbXNjNEwySm9zSC1oOEk4azNDamFoMllucWprUzVzRWlTN0M5VzR3WXI5LXljX3pxcGRoaTFTbWlwLWg3bGJZVmQwSWs0RDA2dGRuU2thSzZsWdIBgAFBVV95cUxQWWNmOGlZUUJTbUFZQThZUGlJelBxVXF1MVBlSVBJUlZ0VFZvTTFlLS12aXctOHJaLWx5X3pLX2V4U1YxdVpkOUxfWWtzWmt6Q2xSTU5wUjBndlgzQnhZWTZ2U0RyX0dGbUpQZWhlSkc3akpldGtCUWZkVFhPZ3NGTQ?oc=5",
+          "title": "윤석열 빈자리에 ‘같은 편’을…증오에 중독된 민주당 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53QmRxelNoRzMzdEVlWmJUY1RCdHpOdnNMNEhWb25NNDc1dUtmN2FvRFpuRk9Xc3dQN1N3N1NvTHlFTC1RcW9uOEFkdzI0SFZONkZwMmpHZTVZRDdsSHZTZlJqVjIyMEpjS2Qyb2p5R3JyRjJh?oc=5",
           "source": "Google News",
-          "published": "Sat, 25 Jul 2026 10:00:00 GMT"
+          "published": "Sun, 26 Jul 2026 02:37:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "1명",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "독일 베를린 프라이드 성소수자 행사장에 차량 돌진...경찰 '1명 사망, 여러명 부상' - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81dWh3NnFkYmQ2RDU5bklOcVBCRDFhSm5qNm90dUR6ZTlyeFlmSEtLRmV1SXZoc2tMUGR2ZTdYczA1Y0NXSTRrRmtIUEFLa2hOQ0ptTEo1cENuUDFS0gFiQVVfeXFMUEVLN2djREhKSE4yV2hGLThyRmxPWkRMZzlYZlNoQ0otak1STDZWZ3lTcWR3bmYwVW1ja0tKbVFLMk1ZdWVSQzd2SGlBaGhDX01zb1o5NERLa19VTFUtR1NfaVE?oc=5",
+          "source": "Google News",
+          "published": "Sat, 25 Jul 2026 23:20:22 GMT"
+        },
+        {
+          "title": "이란 상선, 카스피해서 우크라에 피습…\"선원 1명 사망\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zNjZsTWpIYi1rX0Zfck5OeTh1LWZpU0JYVV9DTTY2U0k0QnJGSGlIbUFJdXgydTlTSE9qbXRfWkV6YVYwd2U5Zk5WeDRoUVUyNmJDYnJURURhQ0QwV2swQkZzNjRaWVk?oc=5",
+          "source": "Google News",
+          "published": "Sun, 26 Jul 2026 01:06:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "사망",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "독일 베를린 프라이드 성소수자 행사장에 차량 돌진...경찰 '1명 사망, 여러명 부상' - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81dWh3NnFkYmQ2RDU5bklOcVBCRDFhSm5qNm90dUR6ZTlyeFlmSEtLRmV1SXZoc2tMUGR2ZTdYczA1Y0NXSTRrRmtIUEFLa2hOQ0ptTEo1cENuUDFS0gFiQVVfeXFMUEVLN2djREhKSE4yV2hGLThyRmxPWkRMZzlYZlNoQ0otak1STDZWZ3lTcWR3bmYwVW1ja0tKbVFLMk1ZdWVSQzd2SGlBaGhDX01zb1o5NERLa19VTFUtR1NfaVE?oc=5",
+          "source": "Google News",
+          "published": "Sat, 25 Jul 2026 23:20:22 GMT"
+        },
+        {
+          "title": "이란 상선, 카스피해서 우크라에 피습…\"선원 1명 사망\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zNjZsTWpIYi1rX0Zfck5OeTh1LWZpU0JYVV9DTTY2U0k0QnJGSGlIbUFJdXgydTlTSE9qbXRfWkV6YVYwd2U5Zk5WeDRoUVUyNmJDYnJURURhQ0QwV2swQkZzNjRaWVk?oc=5",
+          "source": "Google News",
+          "published": "Sun, 26 Jul 2026 01:06:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "만에",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "출시 2주 만에 350만장… ‘어쌔신 크리드’ 리메이크, 유비소프트 구원투수로 - IT조선",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qN2RndWJaVDBEWFEzNVBwSE9XS3QtLTExSnBfRHRWRWt0YjVjeFQ3eTJ6NFZ2dzJuRmdkTEZPVmZPTTBkVkZvclRpUkY5R0VPNWNreTd0TXlzR2NjOHpiVEJlWmZqcUlwMHdidUxUZHHSAXRBVV95cUxPNVVuX3oybWlCMUxWSVBlUjlRQmJsd2N4dm5oZDBVTF83THN6Q0NRWjl6bUZaVXhRSGNLR2Nvdm9RdlY2WG1FbXRWRGRBV3BHekZCX1J1U0l4NWRLaEtGcU8xRGhoR1dHZlF2N3ZMUkZfRmxwdw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 24 Jul 2026 11:25:00 GMT"
+        },
+        {
+          "title": "[MLB] 이정후 32일 만에 홈런, MLB 통산 100타점...송성문은 결장 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZdDJ5TkZTa1lBemVRMWdaSDVQZ0Ntc19pVjZoR3UzVERDTmZTX3J1OFBPa1FaOEJWVm03a2V6dklVUmJXaF9WWW10S0JKUGhsckxPM2RZcEJnX1Z5?oc=5",
+          "source": "Google News",
+          "published": "Sun, 26 Jul 2026 00:49:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "MLB",
+      "count": 2,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "[MLB] 이정후 32일 만에 홈런, MLB 통산 100타점...송성문은 결장 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZdDJ5TkZTa1lBemVRMWdaSDVQZ0Ntc19pVjZoR3UzVERDTmZTX3J1OFBPa1FaOEJWVm03a2V6dklVUmJXaF9WWW10S0JKUGhsckxPM2RZcEJnX1Z5?oc=5",
+          "source": "Google News",
+          "published": "Sun, 26 Jul 2026 00:49:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "홀짝",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "'홀짝 전략' 굳히기 나선 친청계…친명계는 단일화 결단할까 [여의도는 지금] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfRzNCczA4QlA5bGFaOW1oV2RJYVhZd1BNUUVOSFl3VXJ0YnBGaXM1c3lrMG9Jc2lSeUVETHRacng4SkFqMmdQcnM0Ni12Q194MDVydmphdnNuUQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 26 Jul 2026 01:05:01 GMT"
+        }
+      ]
+    },
+    {
+      "word": "전략",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "'홀짝 전략' 굳히기 나선 친청계…친명계는 단일화 결단할까 [여의도는 지금] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfRzNCczA4QlA5bGFaOW1oV2RJYVhZd1BNUUVOSFl3VXJ0YnBGaXM1c3lrMG9Jc2lSeUVETHRacng4SkFqMmdQcnM0Ni12Q194MDVydmphdnNuUQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 26 Jul 2026 01:05:01 GMT"
+        }
+      ]
+    },
+    {
+      "word": "굳히기",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "'홀짝 전략' 굳히기 나선 친청계…친명계는 단일화 결단할까 [여의도는 지금] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfRzNCczA4QlA5bGFaOW1oV2RJYVhZd1BNUUVOSFl3VXJ0YnBGaXM1c3lrMG9Jc2lSeUVETHRacng4SkFqMmdQcnM0Ni12Q194MDVydmphdnNuUQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 26 Jul 2026 01:05:01 GMT"
+        }
+      ]
+    },
+    {
+      "word": "나선",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "'홀짝 전략' 굳히기 나선 친청계…친명계는 단일화 결단할까 [여의도는 지금] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfRzNCczA4QlA5bGFaOW1oV2RJYVhZd1BNUUVOSFl3VXJ0YnBGaXM1c3lrMG9Jc2lSeUVETHRacng4SkFqMmdQcnM0Ni12Q194MDVydmphdnNuUQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 26 Jul 2026 01:05:01 GMT"
+        }
+      ]
+    },
+    {
+      "word": "친청계친명계",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "'홀짝 전략' 굳히기 나선 친청계…친명계는 단일화 결단할까 [여의도는 지금] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfRzNCczA4QlA5bGFaOW1oV2RJYVhZd1BNUUVOSFl3VXJ0YnBGaXM1c3lrMG9Jc2lSeUVETHRacng4SkFqMmdQcnM0Ni12Q194MDVydmphdnNuUQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 26 Jul 2026 01:05:01 GMT"
+        }
+      ]
+    },
+    {
+      "word": "단일",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "'홀짝 전략' 굳히기 나선 친청계…친명계는 단일화 결단할까 [여의도는 지금] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfRzNCczA4QlA5bGFaOW1oV2RJYVhZd1BNUUVOSFl3VXJ0YnBGaXM1c3lrMG9Jc2lSeUVETHRacng4SkFqMmdQcnM0Ni12Q194MDVydmphdnNuUQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 26 Jul 2026 01:05:01 GMT"
+        }
+      ]
+    },
+    {
+      "word": "결단할까",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "'홀짝 전략' 굳히기 나선 친청계…친명계는 단일화 결단할까 [여의도는 지금] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfRzNCczA4QlA5bGFaOW1oV2RJYVhZd1BNUUVOSFl3VXJ0YnBGaXM1c3lrMG9Jc2lSeUVETHRacng4SkFqMmdQcnM0Ni12Q194MDVydmphdnNuUQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 26 Jul 2026 01:05:01 GMT"
+        }
+      ]
+    },
+    {
+      "word": "여의",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "'홀짝 전략' 굳히기 나선 친청계…친명계는 단일화 결단할까 [여의도는 지금] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfRzNCczA4QlA5bGFaOW1oV2RJYVhZd1BNUUVOSFl3VXJ0YnBGaXM1c3lrMG9Jc2lSeUVETHRacng4SkFqMmdQcnM0Ni12Q194MDVydmphdnNuUQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 26 Jul 2026 01:05:01 GMT"
+        }
+      ]
+    },
+    {
+      "word": "지금",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "'홀짝 전략' 굳히기 나선 친청계…친명계는 단일화 결단할까 [여의도는 지금] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfRzNCczA4QlA5bGFaOW1oV2RJYVhZd1BNUUVOSFl3VXJ0YnBGaXM1c3lrMG9Jc2lSeUVETHRacng4SkFqMmdQcnM0Ni12Q194MDVydmphdnNuUQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 26 Jul 2026 01:05:01 GMT"
+        }
+      ]
+    },
+    {
+      "word": "오만",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "오만 중재 나서자, 트럼프 “이란 공습 멈춰”…확전 분수령 D-4 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OV0RPeGlSRHpJMktXQmZ0Y0dRdUJaYlRVZjdFMjhqdzdickg1bmdIdFdNRVE4WGs3WXBJaWZLWnFQb2JDakRlUHZuOGtnX1A0aVl5SDBBVGxfVFFSQTdYUm9jQk5saVBLeGF4OVZZaGtReEE?oc=5",
+          "source": "Google News",
+          "published": "Sun, 26 Jul 2026 01:25:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "중재",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "오만 중재 나서자, 트럼프 “이란 공습 멈춰”…확전 분수령 D-4 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OV0RPeGlSRHpJMktXQmZ0Y0dRdUJaYlRVZjdFMjhqdzdickg1bmdIdFdNRVE4WGs3WXBJaWZLWnFQb2JDakRlUHZuOGtnX1A0aVl5SDBBVGxfVFFSQTdYUm9jQk5saVBLeGF4OVZZaGtReEE?oc=5",
+          "source": "Google News",
+          "published": "Sun, 26 Jul 2026 01:25:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "나서자",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "오만 중재 나서자, 트럼프 “이란 공습 멈춰”…확전 분수령 D-4 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OV0RPeGlSRHpJMktXQmZ0Y0dRdUJaYlRVZjdFMjhqdzdickg1bmdIdFdNRVE4WGs3WXBJaWZLWnFQb2JDakRlUHZuOGtnX1A0aVl5SDBBVGxfVFFSQTdYUm9jQk5saVBLeGF4OVZZaGtReEE?oc=5",
+          "source": "Google News",
+          "published": "Sun, 26 Jul 2026 01:25:00 GMT"
         }
       ]
     },
     {
       "word": "트럼프",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프, 이란 공습 13일 만에 중단…오만 호르무즈 협상·네타냐후 회담 ‘확전 분수령’ - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OV0RPeGlSRHpJMktXQmZ0Y0dRdUJaYlRVZjdFMjhqdzdickg1bmdIdFdNRVE4WGs3WXBJaWZLWnFQb2JDakRlUHZuOGtnX1A0aVl5SDBBVGxfVFFSQTdYUm9jQk5saVBLeGF4OVZZaGtReEE?oc=5",
-          "source": "Google News",
-          "published": "Sat, 25 Jul 2026 21:58:00 GMT"
-        },
-        {
-          "title": "트럼프, '2028' 모자 쓰고 \"4선 도전\"… 기자단 만찬서 독설·조롱 쏟아내 - 한국일보",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpQkdMOTNPNTF6QmJhTUZMYm01bzdaRWQwQTFRSVVHd3pvN3Q3RDN4bHFQcXZYWEE3NjdETWNCOEtFSlpGNkVUeTlIeGd3X2NvMHFmMDNoMzlnWlg2blFXQnA5YUJXMDdrSDZxWFpn0gFzQVVfeXFMUDJ1dXVVQXF6Mk9saWlYOVl3bUdoWlI3dFpZLUhWZ2gxYmNpRnIwUHFmN3VYNGQ4cE81LUVfOGlSazZyaXFsQ0JCaGdGa1NZUXNfQmNWSXJGMGN5bllodDcxY2ctMzgxd2JEb3JFRXMydllmYw?oc=5",
-          "source": "Google News",
-          "published": "Sat, 25 Jul 2026 05:08:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "한국",
-      "count": 2,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "‘한국의 갯벌’ 세계유산 확대 등재됐다... 서산·고흥·여수·무안 추가 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOejhMWDR0T3g5eVY3Y0dFcEgzNmctYzFkd1lSUHJGMjdYdTB3NFg0NkYzcnpaaWxFTERBTzlzWkhsZE9iTjZ1YkRaNU5henBCeDBiZjZ5YW9aenN3b1ZoQTdiWTBFTXVYazhSaU1jTXRFdEJSQnNwQlZpRUFXV1VLTVVzSF83QUhvMWkwMnFTYXNqWC1W?oc=5",
-          "source": "Google News",
-          "published": "Sat, 25 Jul 2026 05:05:00 GMT"
-        },
-        {
-          "title": "유럽연합 “한국은 러시아 LNG 수입해도 제재 면제”···이 대통령 “경제에 큰 도움” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1leDZEdzNKOTMwQWp1WU04VnpUVjhaY0xObFlSdVQyMWVOOUVVTlNDX1RsZEZzWVNyNmxIMG84TlgtUFQ0SnlZVW1tYmpKNW5tZVIyUTZ4clFpQdIBX0FVX3lxTE94MzRFZkxzVkt1cEdqRkxSX1UxZmhRUXlGWUY1Um14Z1ljU1VFWmkwUHMtQVlpNmdCWGNCbHFSMUVJVi0wVUlhRUhKRnU5M1h2Vi1JalYzdEpRQlh3b19z?oc=5",
-          "source": "Google News",
-          "published": "Sat, 25 Jul 2026 12:09:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "위험",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "성수대교 이어 동작대교서도 '8㎝ 단차'…서울시 \"위험 크지 않아\" - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JbGtiazNDUmpNaTM0cTR0TTIxU3AxRTJ1UlNTU2p3ekJuRHVlSTFESUwzOXd2TUVTYktISU5EbURFWE1zRXpyYU00ZW5YU2RNbF9z?oc=5",
-          "source": "Google News",
-          "published": "Sat, 25 Jul 2026 14:15:00 GMT"
-        },
-        {
-          "title": "“잡히는 뱃살보다 더 위험한 내장지방?”…복부지방 쏙 빼는 음식 3가지 - 코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1STjBWbzQ3QkdkbVRET2I4ZjRMSTBiV2tsXzdXakt6amE3OGtUTGp0RU5CblZRS3Y4RDV2WUpfSGFPZw?oc=5",
-          "source": "Google News",
-          "published": "Sat, 25 Jul 2026 22:04:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "긴장",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "후티 \"아람코 석유시설 공격\"…'중동 제2전선' 긴장 고조(종합2보) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yQmFrQzQ0TnZHWWl3UDlhZThzb2tHTkY3S0lkZV91cDlpVDlfclB4a1llc3M4WkFqYlB3VUpDVFZIQWJSN0NHeFh5ZDExWkN6S09VdGRyTndQS1nSAWBBVV95cUxQREN0Tkh0Q0JPZ0h5UlU5SlNkS05tM3VaYy1rMC0yX1ZGOFoycmcyTkNjX3dhckhzcnlyZm55UVJkZFI0UHBuV3I3bTFnZXJBdExfaGV3UTg2SVltMm1qaVo?oc=5",
-          "source": "Google News",
-          "published": "Sat, 25 Jul 2026 15:18:37 GMT"
-        },
-        {
-          "title": "중동 긴장에 유가 100달러 재돌파… 아시아 증시 휘청 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQalFOeHpqaEJ4eGhhTzVzY2lqT3MtSUI0V2xNbkJoLTFJZmNpbl9uWFZXaTBzLXB5cUllM2NodzdiWEdwTGVhcF9NMWRoQjd0UWVjS0NnUWFNTG1aMUtpZUdEZWJKZ2ZaVlJKOEN5WTkzLUN6LU1UUWVCQW00ZEVZaQ?oc=5",
-          "source": "Google News",
-          "published": "Fri, 24 Jul 2026 15:59:06 GMT"
-        }
-      ]
-    },
-    {
-      "word": "준비",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "젤렌스키 \"러, 북 병력 3만 명 파견 원해‥접경지 배치 준비\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDWC03R09oWGZ2c3JFbHZvbFNLd0h6cllqQ1JCWFdrX3VEdDh3OUV2UkhTWHJDWW9JLUx2RHpYV2FmSVVZS1RSd0ZKMGhCamhjWlhQVjlYaVV3VkNDMjUyOHFBUWZEdlJMT1F3eEhiNC1iRU5F0gF0QVVfeXFMTVI4NHhsX3gzZFZpaXZINmtkem1Sa2xBREMtRlVDVE04ejVGZUVtQUR3d3p2b25DTmlvUEtIU0Z1Ul9CN205cW9sVC12UDkzZDZTRlkycjRJNzRNQ1NJb1U1V01SWnY0c1NaS0NoUXFSYW5ONVY?oc=5",
-          "source": "Google News",
-          "published": "Sat, 25 Jul 2026 18:34:53 GMT"
-        },
-        {
-          "title": "개발자들이 플레이스테이션 5용 펌웨어 14.0 베타 테스트 출시를 준비하고 있습니다. - GameGPU",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMVM0cm1OMTJEQmdOdzZieHNYX3llMUJVYkFRU0NkbklBeEpnX092N043czd0MkhEalZRNmxwWW9qLTI1Y2VVR09UTE52MzJMT1o2S2lOTWkyM2ZxZnJvQzhqcktJbTVNazkxM3pGVmNRcUt3blgzMGtONmZRR1dWNGs4UF9teERFc3ljMlBGX2kwZXVFN3VuLUYtZ2ZlZHNkbWFhb0RKaHJxTVNKZWtrUmNYUl9Mb0R3dXMzNWdtUXc?oc=5",
-          "source": "Google News",
-          "published": "Sat, 25 Jul 2026 14:50:07 GMT"
-        }
-      ]
-    },
-    {
-      "word": "시대",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“60만전자·420만닉스 시대 온다”… 전문가들이 꼽은 역대급 매수 기회 ‘이것’ - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96blE0QXRqanBBRHotMGtmb01CV25YTllhSDY2TlVVcXY4c3RFV2NFSWt4MUNUXzFRZ3pGNXBGYkxxX0VpU0NNZ080b1QxWmpfZ1RINQ?oc=5",
-          "source": "Google News",
-          "published": "Sat, 25 Jul 2026 12:36:52 GMT"
-        },
-        {
-          "title": "'김부장' 소지섭X최대훈X윤경호 종영소감 \"어안이 벙벙..이 시대 아저씨들 응원\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV2hFRmEtaGxWOG1nTDlvczBoMnpZdjljYVdQZHNZYU9FTHdlZ2RzZmZ1ZldZQjI0ZWVRNGdMOFdCaHVfSnRxbzV3Q3VoNnE5RlBkQm1sc3FRQ0lyVVlnVV9WTGU2V25iczBlM0ZiaW1uSWFTNS1BdDRLRERGcWRkeFVfWVRSZ2MyQXBzVkw2MA?oc=5",
-          "source": "Google News",
-          "published": "Sat, 25 Jul 2026 08:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "치매",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "'치매 환자'가 되면 세상이 이렇게 변합니다[건강비책] - 노컷뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mNExqLUNpVVgzVkRyRTltcDR1X1ZqQVdDSDdjem1Zek5acWdkdWdPWTNPLTZUREpKS0x5RjRQenZCNnE1aUpvSTctQzdwd3BJVGc?oc=5",
-          "source": "Google News",
-          "published": "Sat, 25 Jul 2026 01:16:00 GMT"
-        },
-        {
-          "title": "치매 치료 한발 더 가까이···IBS, 뇌 노폐물 '첫 배출' 통로 발견 - 헬로디디",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HTmlHUk9NcWtSb0RxYTVOdkdXTU43dVNzY3JnYnJMU0ZIWWVveVpzYXJrREdVelVHeE1IbnhvTGxmNDg1dTd6ZjVQd0gxcUVDcXM0bUY4bVcwZjBCSERPWjc5aEF5cGU2LWc?oc=5",
-          "source": "Google News",
-          "published": "Fri, 24 Jul 2026 07:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "이란",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프, 이란 공습 13일 만에 중단…오만 호르무즈 협상·네타냐후 회담 ‘확전 분수령’ - 한겨레",
+          "title": "오만 중재 나서자, 트럼프 “이란 공습 멈춰”…확전 분수령 D-4 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OV0RPeGlSRHpJMktXQmZ0Y0dRdUJaYlRVZjdFMjhqdzdickg1bmdIdFdNRVE4WGs3WXBJaWZLWnFQb2JDakRlUHZuOGtnX1A0aVl5SDBBVGxfVFFSQTdYUm9jQk5saVBLeGF4OVZZaGtReEE?oc=5",
           "source": "Google News",
-          "published": "Sat, 25 Jul 2026 21:58:00 GMT"
+          "published": "Sun, 26 Jul 2026 01:25:00 GMT"
         }
       ]
     },
@@ -180,101 +311,23 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프, 이란 공습 13일 만에 중단…오만 호르무즈 협상·네타냐후 회담 ‘확전 분수령’ - 한겨레",
+          "title": "오만 중재 나서자, 트럼프 “이란 공습 멈춰”…확전 분수령 D-4 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OV0RPeGlSRHpJMktXQmZ0Y0dRdUJaYlRVZjdFMjhqdzdickg1bmdIdFdNRVE4WGs3WXBJaWZLWnFQb2JDakRlUHZuOGtnX1A0aVl5SDBBVGxfVFFSQTdYUm9jQk5saVBLeGF4OVZZaGtReEE?oc=5",
           "source": "Google News",
-          "published": "Sat, 25 Jul 2026 21:58:00 GMT"
+          "published": "Sun, 26 Jul 2026 01:25:00 GMT"
         }
       ]
     },
     {
-      "word": "13일",
+      "word": "멈춰확전",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프, 이란 공습 13일 만에 중단…오만 호르무즈 협상·네타냐후 회담 ‘확전 분수령’ - 한겨레",
+          "title": "오만 중재 나서자, 트럼프 “이란 공습 멈춰”…확전 분수령 D-4 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OV0RPeGlSRHpJMktXQmZ0Y0dRdUJaYlRVZjdFMjhqdzdickg1bmdIdFdNRVE4WGs3WXBJaWZLWnFQb2JDakRlUHZuOGtnX1A0aVl5SDBBVGxfVFFSQTdYUm9jQk5saVBLeGF4OVZZaGtReEE?oc=5",
           "source": "Google News",
-          "published": "Sat, 25 Jul 2026 21:58:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "만에",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프, 이란 공습 13일 만에 중단…오만 호르무즈 협상·네타냐후 회담 ‘확전 분수령’ - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OV0RPeGlSRHpJMktXQmZ0Y0dRdUJaYlRVZjdFMjhqdzdickg1bmdIdFdNRVE4WGs3WXBJaWZLWnFQb2JDakRlUHZuOGtnX1A0aVl5SDBBVGxfVFFSQTdYUm9jQk5saVBLeGF4OVZZaGtReEE?oc=5",
-          "source": "Google News",
-          "published": "Sat, 25 Jul 2026 21:58:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "중단오",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프, 이란 공습 13일 만에 중단…오만 호르무즈 협상·네타냐후 회담 ‘확전 분수령’ - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OV0RPeGlSRHpJMktXQmZ0Y0dRdUJaYlRVZjdFMjhqdzdickg1bmdIdFdNRVE4WGs3WXBJaWZLWnFQb2JDakRlUHZuOGtnX1A0aVl5SDBBVGxfVFFSQTdYUm9jQk5saVBLeGF4OVZZaGtReEE?oc=5",
-          "source": "Google News",
-          "published": "Sat, 25 Jul 2026 21:58:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "호르무즈",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프, 이란 공습 13일 만에 중단…오만 호르무즈 협상·네타냐후 회담 ‘확전 분수령’ - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OV0RPeGlSRHpJMktXQmZ0Y0dRdUJaYlRVZjdFMjhqdzdickg1bmdIdFdNRVE4WGs3WXBJaWZLWnFQb2JDakRlUHZuOGtnX1A0aVl5SDBBVGxfVFFSQTdYUm9jQk5saVBLeGF4OVZZaGtReEE?oc=5",
-          "source": "Google News",
-          "published": "Sat, 25 Jul 2026 21:58:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "협상네타냐후",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프, 이란 공습 13일 만에 중단…오만 호르무즈 협상·네타냐후 회담 ‘확전 분수령’ - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OV0RPeGlSRHpJMktXQmZ0Y0dRdUJaYlRVZjdFMjhqdzdickg1bmdIdFdNRVE4WGs3WXBJaWZLWnFQb2JDakRlUHZuOGtnX1A0aVl5SDBBVGxfVFFSQTdYUm9jQk5saVBLeGF4OVZZaGtReEE?oc=5",
-          "source": "Google News",
-          "published": "Sat, 25 Jul 2026 21:58:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "회담",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프, 이란 공습 13일 만에 중단…오만 호르무즈 협상·네타냐후 회담 ‘확전 분수령’ - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OV0RPeGlSRHpJMktXQmZ0Y0dRdUJaYlRVZjdFMjhqdzdickg1bmdIdFdNRVE4WGs3WXBJaWZLWnFQb2JDakRlUHZuOGtnX1A0aVl5SDBBVGxfVFFSQTdYUm9jQk5saVBLeGF4OVZZaGtReEE?oc=5",
-          "source": "Google News",
-          "published": "Sat, 25 Jul 2026 21:58:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "확전",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프, 이란 공습 13일 만에 중단…오만 호르무즈 협상·네타냐후 회담 ‘확전 분수령’ - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OV0RPeGlSRHpJMktXQmZ0Y0dRdUJaYlRVZjdFMjhqdzdickg1bmdIdFdNRVE4WGs3WXBJaWZLWnFQb2JDakRlUHZuOGtnX1A0aVl5SDBBVGxfVFFSQTdYUm9jQk5saVBLeGF4OVZZaGtReEE?oc=5",
-          "source": "Google News",
-          "published": "Sat, 25 Jul 2026 21:58:00 GMT"
+          "published": "Sun, 26 Jul 2026 01:25:00 GMT"
         }
       ]
     },
@@ -284,296 +337,231 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프, 이란 공습 13일 만에 중단…오만 호르무즈 협상·네타냐후 회담 ‘확전 분수령’ - 한겨레",
+          "title": "오만 중재 나서자, 트럼프 “이란 공습 멈춰”…확전 분수령 D-4 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OV0RPeGlSRHpJMktXQmZ0Y0dRdUJaYlRVZjdFMjhqdzdickg1bmdIdFdNRVE4WGs3WXBJaWZLWnFQb2JDakRlUHZuOGtnX1A0aVl5SDBBVGxfVFFSQTdYUm9jQk5saVBLeGF4OVZZaGtReEE?oc=5",
           "source": "Google News",
-          "published": "Sat, 25 Jul 2026 21:58:00 GMT"
+          "published": "Sun, 26 Jul 2026 01:25:00 GMT"
         }
       ]
     },
     {
-      "word": "날씨",
+      "word": "국민의힘",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[날씨] 내일도 전국 무더위 기승…중부·경북 등 소나기 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pUmZiVVNySkd3M2FETjlGS1BIYVZXdVRzcmVnLUk4QTZULWdpNkxQQktYekI3MGMtQnRlcElvVnQ5eUZmaERsaVNJeFllSDljYmZtR1pDVHFnUzDSAWBBVV95cUxOZk9pT0JDM2pYU0dRdUx6Tkd6dEJFN3h6czBJNnMwY1FRZWdtMmQxM3pzLVAtZmN5Y2FhZktFS1FXVkZBRGsybjVZeV9fMUNGTkNsaFpHQXFsM1NqRFlxZDg?oc=5",
+          "title": "국민의힘 원내지도부, ‘멱살 항의’ 권영진에 “스스로 거취 정해야” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5Mkh3Wi1QNmt2ckl2SkdObnNISDBIRTYtWFY4dG52U2lNdnZyc01Da1FFNEg1RkhDMVFCRmFtTEIzamVXYXNFUXNHbHl6dEtWVjhqb2xOYVhQZ9IBX0FVX3lxTE9xVzVfZXFBSXVXZUN4cVJQWEtaQ0dKRXJaM2M0blRGUEoxd1A4cnU1NlpYOGdSN1h4TlB2MWd6UmJMbTVtMUUxU3lianNiUEp2dTZpZkVQRmF0Q0xWZllF?oc=5",
           "source": "Google News",
-          "published": "Sat, 25 Jul 2026 11:00:00 GMT"
+          "published": "Sun, 26 Jul 2026 02:47:00 GMT"
         }
       ]
     },
     {
-      "word": "전국",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "[날씨] 내일도 전국 무더위 기승…중부·경북 등 소나기 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pUmZiVVNySkd3M2FETjlGS1BIYVZXdVRzcmVnLUk4QTZULWdpNkxQQktYekI3MGMtQnRlcElvVnQ5eUZmaERsaVNJeFllSDljYmZtR1pDVHFnUzDSAWBBVV95cUxOZk9pT0JDM2pYU0dRdUx6Tkd6dEJFN3h6czBJNnMwY1FRZWdtMmQxM3pzLVAtZmN5Y2FhZktFS1FXVkZBRGsybjVZeV9fMUNGTkNsaFpHQXFsM1NqRFlxZDg?oc=5",
-          "source": "Google News",
-          "published": "Sat, 25 Jul 2026 11:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "무더위",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[날씨] 내일도 전국 무더위 기승…중부·경북 등 소나기 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pUmZiVVNySkd3M2FETjlGS1BIYVZXdVRzcmVnLUk4QTZULWdpNkxQQktYekI3MGMtQnRlcElvVnQ5eUZmaERsaVNJeFllSDljYmZtR1pDVHFnUzDSAWBBVV95cUxOZk9pT0JDM2pYU0dRdUx6Tkd6dEJFN3h6czBJNnMwY1FRZWdtMmQxM3pzLVAtZmN5Y2FhZktFS1FXVkZBRGsybjVZeV9fMUNGTkNsaFpHQXFsM1NqRFlxZDg?oc=5",
-          "source": "Google News",
-          "published": "Sat, 25 Jul 2026 11:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "기승중부경북",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[날씨] 내일도 전국 무더위 기승…중부·경북 등 소나기 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pUmZiVVNySkd3M2FETjlGS1BIYVZXdVRzcmVnLUk4QTZULWdpNkxQQktYekI3MGMtQnRlcElvVnQ5eUZmaERsaVNJeFllSDljYmZtR1pDVHFnUzDSAWBBVV95cUxOZk9pT0JDM2pYU0dRdUx6Tkd6dEJFN3h6czBJNnMwY1FRZWdtMmQxM3pzLVAtZmN5Y2FhZktFS1FXVkZBRGsybjVZeV9fMUNGTkNsaFpHQXFsM1NqRFlxZDg?oc=5",
-          "source": "Google News",
-          "published": "Sat, 25 Jul 2026 11:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "소나기",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[날씨] 내일도 전국 무더위 기승…중부·경북 등 소나기 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pUmZiVVNySkd3M2FETjlGS1BIYVZXdVRzcmVnLUk4QTZULWdpNkxQQktYekI3MGMtQnRlcElvVnQ5eUZmaERsaVNJeFllSDljYmZtR1pDVHFnUzDSAWBBVV95cUxOZk9pT0JDM2pYU0dRdUx6Tkd6dEJFN3h6czBJNnMwY1FRZWdtMmQxM3pzLVAtZmN5Y2FhZktFS1FXVkZBRGsybjVZeV9fMUNGTkNsaFpHQXFsM1NqRFlxZDg?oc=5",
-          "source": "Google News",
-          "published": "Sat, 25 Jul 2026 11:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "유시민",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“유시민 저주에 왜 침묵하나” “난 탈당은 안 해”···여 당권후보 3인 ‘설전’ - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBia2RydDJSREtXSDZxX18zbHdWZ2ktaGpmZUFISW9lQ2dLc0JwaERfa196OXVXVUlSc2dBUDVaSUt0VnZhT1loMUw3X2N6ZXBqN1pfNHNqckx6UdIBX0FVX3lxTE1mVVpFd3BzWEZJZ1U4Q1lhbWdKM0hCUGlkMG9LalNNLTYyQXpvYjRieWEwQmxfQ1NVQWdXR1F0RmdSQ0M1VlplUUZiUHM2eTEzdEg2OG15cU5HcS1oMmpv?oc=5",
-          "source": "Google News",
-          "published": "Sat, 25 Jul 2026 09:21:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "저주",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "“유시민 저주에 왜 침묵하나” “난 탈당은 안 해”···여 당권후보 3인 ‘설전’ - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBia2RydDJSREtXSDZxX18zbHdWZ2ktaGpmZUFISW9lQ2dLc0JwaERfa196OXVXVUlSc2dBUDVaSUt0VnZhT1loMUw3X2N6ZXBqN1pfNHNqckx6UdIBX0FVX3lxTE1mVVpFd3BzWEZJZ1U4Q1lhbWdKM0hCUGlkMG9LalNNLTYyQXpvYjRieWEwQmxfQ1NVQWdXR1F0RmdSQ0M1VlplUUZiUHM2eTEzdEg2OG15cU5HcS1oMmpv?oc=5",
-          "source": "Google News",
-          "published": "Sat, 25 Jul 2026 09:21:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "침묵",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“유시민 저주에 왜 침묵하나” “난 탈당은 안 해”···여 당권후보 3인 ‘설전’ - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBia2RydDJSREtXSDZxX18zbHdWZ2ktaGpmZUFISW9lQ2dLc0JwaERfa196OXVXVUlSc2dBUDVaSUt0VnZhT1loMUw3X2N6ZXBqN1pfNHNqckx6UdIBX0FVX3lxTE1mVVpFd3BzWEZJZ1U4Q1lhbWdKM0hCUGlkMG9LalNNLTYyQXpvYjRieWEwQmxfQ1NVQWdXR1F0RmdSQ0M1VlplUUZiUHM2eTEzdEg2OG15cU5HcS1oMmpv?oc=5",
-          "source": "Google News",
-          "published": "Sat, 25 Jul 2026 09:21:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "탈당",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“유시민 저주에 왜 침묵하나” “난 탈당은 안 해”···여 당권후보 3인 ‘설전’ - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBia2RydDJSREtXSDZxX18zbHdWZ2ktaGpmZUFISW9lQ2dLc0JwaERfa196OXVXVUlSc2dBUDVaSUt0VnZhT1loMUw3X2N6ZXBqN1pfNHNqckx6UdIBX0FVX3lxTE1mVVpFd3BzWEZJZ1U4Q1lhbWdKM0hCUGlkMG9LalNNLTYyQXpvYjRieWEwQmxfQ1NVQWdXR1F0RmdSQ0M1VlplUUZiUHM2eTEzdEg2OG15cU5HcS1oMmpv?oc=5",
-          "source": "Google News",
-          "published": "Sat, 25 Jul 2026 09:21:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "해여",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“유시민 저주에 왜 침묵하나” “난 탈당은 안 해”···여 당권후보 3인 ‘설전’ - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBia2RydDJSREtXSDZxX18zbHdWZ2ktaGpmZUFISW9lQ2dLc0JwaERfa196OXVXVUlSc2dBUDVaSUt0VnZhT1loMUw3X2N6ZXBqN1pfNHNqckx6UdIBX0FVX3lxTE1mVVpFd3BzWEZJZ1U4Q1lhbWdKM0hCUGlkMG9LalNNLTYyQXpvYjRieWEwQmxfQ1NVQWdXR1F0RmdSQ0M1VlplUUZiUHM2eTEzdEg2OG15cU5HcS1oMmpv?oc=5",
-          "source": "Google News",
-          "published": "Sat, 25 Jul 2026 09:21:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "당권후보",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“유시민 저주에 왜 침묵하나” “난 탈당은 안 해”···여 당권후보 3인 ‘설전’ - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBia2RydDJSREtXSDZxX18zbHdWZ2ktaGpmZUFISW9lQ2dLc0JwaERfa196OXVXVUlSc2dBUDVaSUt0VnZhT1loMUw3X2N6ZXBqN1pfNHNqckx6UdIBX0FVX3lxTE1mVVpFd3BzWEZJZ1U4Q1lhbWdKM0hCUGlkMG9LalNNLTYyQXpvYjRieWEwQmxfQ1NVQWdXR1F0RmdSQ0M1VlplUUZiUHM2eTEzdEg2OG15cU5HcS1oMmpv?oc=5",
-          "source": "Google News",
-          "published": "Sat, 25 Jul 2026 09:21:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "3인",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“유시민 저주에 왜 침묵하나” “난 탈당은 안 해”···여 당권후보 3인 ‘설전’ - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBia2RydDJSREtXSDZxX18zbHdWZ2ktaGpmZUFISW9lQ2dLc0JwaERfa196OXVXVUlSc2dBUDVaSUt0VnZhT1loMUw3X2N6ZXBqN1pfNHNqckx6UdIBX0FVX3lxTE1mVVpFd3BzWEZJZ1U4Q1lhbWdKM0hCUGlkMG9LalNNLTYyQXpvYjRieWEwQmxfQ1NVQWdXR1F0RmdSQ0M1VlplUUZiUHM2eTEzdEg2OG15cU5HcS1oMmpv?oc=5",
-          "source": "Google News",
-          "published": "Sat, 25 Jul 2026 09:21:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "설전",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“유시민 저주에 왜 침묵하나” “난 탈당은 안 해”···여 당권후보 3인 ‘설전’ - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBia2RydDJSREtXSDZxX18zbHdWZ2ktaGpmZUFISW9lQ2dLc0JwaERfa196OXVXVUlSc2dBUDVaSUt0VnZhT1loMUw3X2N6ZXBqN1pfNHNqckx6UdIBX0FVX3lxTE1mVVpFd3BzWEZJZ1U4Q1lhbWdKM0hCUGlkMG9LalNNLTYyQXpvYjRieWEwQmxfQ1NVQWdXR1F0RmdSQ0M1VlplUUZiUHM2eTEzdEg2OG15cU5HcS1oMmpv?oc=5",
-          "source": "Google News",
-          "published": "Sat, 25 Jul 2026 09:21:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "유럽",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "유럽 산불에 20만 명 대피…국가비상사태 선포·EU에 ‘SOS’ - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJb294djF4N2xCTVZESGZ4Qjg3elFKSlRDSTVZSkVxVTdjbDlFcmNJMFEwQ0tjaVlzWTFMUkVNTno3dV9XUXp1M0MtRUJLR015bEVDQVdVaE9FRDQ?oc=5",
-          "source": "Google News",
-          "published": "Sat, 25 Jul 2026 12:15:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "산불",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "유럽 산불에 20만 명 대피…국가비상사태 선포·EU에 ‘SOS’ - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJb294djF4N2xCTVZESGZ4Qjg3elFKSlRDSTVZSkVxVTdjbDlFcmNJMFEwQ0tjaVlzWTFMUkVNTno3dV9XUXp1M0MtRUJLR015bEVDQVdVaE9FRDQ?oc=5",
-          "source": "Google News",
-          "published": "Sat, 25 Jul 2026 12:15:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "20",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "유럽 산불에 20만 명 대피…국가비상사태 선포·EU에 ‘SOS’ - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJb294djF4N2xCTVZESGZ4Qjg3elFKSlRDSTVZSkVxVTdjbDlFcmNJMFEwQ0tjaVlzWTFMUkVNTno3dV9XUXp1M0MtRUJLR015bEVDQVdVaE9FRDQ?oc=5",
-          "source": "Google News",
-          "published": "Sat, 25 Jul 2026 12:15:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "대피국가비상사태",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "유럽 산불에 20만 명 대피…국가비상사태 선포·EU에 ‘SOS’ - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJb294djF4N2xCTVZESGZ4Qjg3elFKSlRDSTVZSkVxVTdjbDlFcmNJMFEwQ0tjaVlzWTFMUkVNTno3dV9XUXp1M0MtRUJLR015bEVDQVdVaE9FRDQ?oc=5",
-          "source": "Google News",
-          "published": "Sat, 25 Jul 2026 12:15:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "선포EU",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "유럽 산불에 20만 명 대피…국가비상사태 선포·EU에 ‘SOS’ - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJb294djF4N2xCTVZESGZ4Qjg3elFKSlRDSTVZSkVxVTdjbDlFcmNJMFEwQ0tjaVlzWTFMUkVNTno3dV9XUXp1M0MtRUJLR015bEVDQVdVaE9FRDQ?oc=5",
-          "source": "Google News",
-          "published": "Sat, 25 Jul 2026 12:15:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "SOS",
+      "word": "원내지도부",
       "count": 1,
       "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "유럽 산불에 20만 명 대피…국가비상사태 선포·EU에 ‘SOS’ - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJb294djF4N2xCTVZESGZ4Qjg3elFKSlRDSTVZSkVxVTdjbDlFcmNJMFEwQ0tjaVlzWTFMUkVNTno3dV9XUXp1M0MtRUJLR015bEVDQVdVaE9FRDQ?oc=5",
+          "title": "국민의힘 원내지도부, ‘멱살 항의’ 권영진에 “스스로 거취 정해야” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5Mkh3Wi1QNmt2ckl2SkdObnNISDBIRTYtWFY4dG52U2lNdnZyc01Da1FFNEg1RkhDMVFCRmFtTEIzamVXYXNFUXNHbHl6dEtWVjhqb2xOYVhQZ9IBX0FVX3lxTE9xVzVfZXFBSXVXZUN4cVJQWEtaQ0dKRXJaM2M0blRGUEoxd1A4cnU1NlpYOGdSN1h4TlB2MWd6UmJMbTVtMUUxU3lianNiUEp2dTZpZkVQRmF0Q0xWZllF?oc=5",
           "source": "Google News",
-          "published": "Sat, 25 Jul 2026 12:15:00 GMT"
+          "published": "Sun, 26 Jul 2026 02:47:00 GMT"
         }
       ]
     },
     {
-      "word": "갯벌",
+      "word": "멱살",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘한국의 갯벌’ 세계유산 확대 등재됐다... 서산·고흥·여수·무안 추가 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOejhMWDR0T3g5eVY3Y0dFcEgzNmctYzFkd1lSUHJGMjdYdTB3NFg0NkYzcnpaaWxFTERBTzlzWkhsZE9iTjZ1YkRaNU5henBCeDBiZjZ5YW9aenN3b1ZoQTdiWTBFTXVYazhSaU1jTXRFdEJSQnNwQlZpRUFXV1VLTVVzSF83QUhvMWkwMnFTYXNqWC1W?oc=5",
+          "title": "국민의힘 원내지도부, ‘멱살 항의’ 권영진에 “스스로 거취 정해야” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5Mkh3Wi1QNmt2ckl2SkdObnNISDBIRTYtWFY4dG52U2lNdnZyc01Da1FFNEg1RkhDMVFCRmFtTEIzamVXYXNFUXNHbHl6dEtWVjhqb2xOYVhQZ9IBX0FVX3lxTE9xVzVfZXFBSXVXZUN4cVJQWEtaQ0dKRXJaM2M0blRGUEoxd1A4cnU1NlpYOGdSN1h4TlB2MWd6UmJMbTVtMUUxU3lianNiUEp2dTZpZkVQRmF0Q0xWZllF?oc=5",
           "source": "Google News",
-          "published": "Sat, 25 Jul 2026 05:05:00 GMT"
+          "published": "Sun, 26 Jul 2026 02:47:00 GMT"
         }
       ]
     },
     {
-      "word": "세계유산",
+      "word": "항의",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘한국의 갯벌’ 세계유산 확대 등재됐다... 서산·고흥·여수·무안 추가 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOejhMWDR0T3g5eVY3Y0dFcEgzNmctYzFkd1lSUHJGMjdYdTB3NFg0NkYzcnpaaWxFTERBTzlzWkhsZE9iTjZ1YkRaNU5henBCeDBiZjZ5YW9aenN3b1ZoQTdiWTBFTXVYazhSaU1jTXRFdEJSQnNwQlZpRUFXV1VLTVVzSF83QUhvMWkwMnFTYXNqWC1W?oc=5",
+          "title": "국민의힘 원내지도부, ‘멱살 항의’ 권영진에 “스스로 거취 정해야” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5Mkh3Wi1QNmt2ckl2SkdObnNISDBIRTYtWFY4dG52U2lNdnZyc01Da1FFNEg1RkhDMVFCRmFtTEIzamVXYXNFUXNHbHl6dEtWVjhqb2xOYVhQZ9IBX0FVX3lxTE9xVzVfZXFBSXVXZUN4cVJQWEtaQ0dKRXJaM2M0blRGUEoxd1A4cnU1NlpYOGdSN1h4TlB2MWd6UmJMbTVtMUUxU3lianNiUEp2dTZpZkVQRmF0Q0xWZllF?oc=5",
           "source": "Google News",
-          "published": "Sat, 25 Jul 2026 05:05:00 GMT"
+          "published": "Sun, 26 Jul 2026 02:47:00 GMT"
         }
       ]
     },
     {
-      "word": "확대",
+      "word": "권영진",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘한국의 갯벌’ 세계유산 확대 등재됐다... 서산·고흥·여수·무안 추가 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOejhMWDR0T3g5eVY3Y0dFcEgzNmctYzFkd1lSUHJGMjdYdTB3NFg0NkYzcnpaaWxFTERBTzlzWkhsZE9iTjZ1YkRaNU5henBCeDBiZjZ5YW9aenN3b1ZoQTdiWTBFTXVYazhSaU1jTXRFdEJSQnNwQlZpRUFXV1VLTVVzSF83QUhvMWkwMnFTYXNqWC1W?oc=5",
+          "title": "국민의힘 원내지도부, ‘멱살 항의’ 권영진에 “스스로 거취 정해야” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5Mkh3Wi1QNmt2ckl2SkdObnNISDBIRTYtWFY4dG52U2lNdnZyc01Da1FFNEg1RkhDMVFCRmFtTEIzamVXYXNFUXNHbHl6dEtWVjhqb2xOYVhQZ9IBX0FVX3lxTE9xVzVfZXFBSXVXZUN4cVJQWEtaQ0dKRXJaM2M0blRGUEoxd1A4cnU1NlpYOGdSN1h4TlB2MWd6UmJMbTVtMUUxU3lianNiUEp2dTZpZkVQRmF0Q0xWZllF?oc=5",
           "source": "Google News",
-          "published": "Sat, 25 Jul 2026 05:05:00 GMT"
+          "published": "Sun, 26 Jul 2026 02:47:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "스스",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "국민의힘 원내지도부, ‘멱살 항의’ 권영진에 “스스로 거취 정해야” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5Mkh3Wi1QNmt2ckl2SkdObnNISDBIRTYtWFY4dG52U2lNdnZyc01Da1FFNEg1RkhDMVFCRmFtTEIzamVXYXNFUXNHbHl6dEtWVjhqb2xOYVhQZ9IBX0FVX3lxTE9xVzVfZXFBSXVXZUN4cVJQWEtaQ0dKRXJaM2M0blRGUEoxd1A4cnU1NlpYOGdSN1h4TlB2MWd6UmJMbTVtMUUxU3lianNiUEp2dTZpZkVQRmF0Q0xWZllF?oc=5",
+          "source": "Google News",
+          "published": "Sun, 26 Jul 2026 02:47:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "거취",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "국민의힘 원내지도부, ‘멱살 항의’ 권영진에 “스스로 거취 정해야” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5Mkh3Wi1QNmt2ckl2SkdObnNISDBIRTYtWFY4dG52U2lNdnZyc01Da1FFNEg1RkhDMVFCRmFtTEIzamVXYXNFUXNHbHl6dEtWVjhqb2xOYVhQZ9IBX0FVX3lxTE9xVzVfZXFBSXVXZUN4cVJQWEtaQ0dKRXJaM2M0blRGUEoxd1A4cnU1NlpYOGdSN1h4TlB2MWd6UmJMbTVtMUUxU3lianNiUEp2dTZpZkVQRmF0Q0xWZllF?oc=5",
+          "source": "Google News",
+          "published": "Sun, 26 Jul 2026 02:47:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "정해야",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "국민의힘 원내지도부, ‘멱살 항의’ 권영진에 “스스로 거취 정해야” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5Mkh3Wi1QNmt2ckl2SkdObnNISDBIRTYtWFY4dG52U2lNdnZyc01Da1FFNEg1RkhDMVFCRmFtTEIzamVXYXNFUXNHbHl6dEtWVjhqb2xOYVhQZ9IBX0FVX3lxTE9xVzVfZXFBSXVXZUN4cVJQWEtaQ0dKRXJaM2M0blRGUEoxd1A4cnU1NlpYOGdSN1h4TlB2MWd6UmJMbTVtMUUxU3lianNiUEp2dTZpZkVQRmF0Q0xWZllF?oc=5",
+          "source": "Google News",
+          "published": "Sun, 26 Jul 2026 02:47:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "장동혁",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "장동혁 “‘전자투표 도입? 대통령이 할 말 인가“ - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43QURZQ2hHLTlxMWFpb1FfckpxYTFYcUlxb29JZWl5MHN4ZXlKczQ2dnVidU1UeU1sMVA3b1VZSm1WT1VDaUZnZTlidjZrMzlLeThNajhOczFPeXJxNU12VFEtbFZSQlJhTjNRZmNJUmJOal9tWklF0gFmQVVfeXFMT1pMWVRGRjZ5dDYtUDZJX3NMM3FySXlrOGoxM2loSzV6d0hTazRfNkdBWW1WOFV5Vk1mRFI1b1lKOXZvN05BMVZwQkFDeHJVUVVxb21BTURKT2hka2hPZFB1Xy0teTVR?oc=5",
+          "source": "Google News",
+          "published": "Sun, 26 Jul 2026 03:15:22 GMT"
+        }
+      ]
+    },
+    {
+      "word": "전자투표",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "장동혁 “‘전자투표 도입? 대통령이 할 말 인가“ - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43QURZQ2hHLTlxMWFpb1FfckpxYTFYcUlxb29JZWl5MHN4ZXlKczQ2dnVidU1UeU1sMVA3b1VZSm1WT1VDaUZnZTlidjZrMzlLeThNajhOczFPeXJxNU12VFEtbFZSQlJhTjNRZmNJUmJOal9tWklF0gFmQVVfeXFMT1pMWVRGRjZ5dDYtUDZJX3NMM3FySXlrOGoxM2loSzV6d0hTazRfNkdBWW1WOFV5Vk1mRFI1b1lKOXZvN05BMVZwQkFDeHJVUVVxb21BTURKT2hka2hPZFB1Xy0teTVR?oc=5",
+          "source": "Google News",
+          "published": "Sun, 26 Jul 2026 03:15:22 GMT"
+        }
+      ]
+    },
+    {
+      "word": "도입",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "장동혁 “‘전자투표 도입? 대통령이 할 말 인가“ - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43QURZQ2hHLTlxMWFpb1FfckpxYTFYcUlxb29JZWl5MHN4ZXlKczQ2dnVidU1UeU1sMVA3b1VZSm1WT1VDaUZnZTlidjZrMzlLeThNajhOczFPeXJxNU12VFEtbFZSQlJhTjNRZmNJUmJOal9tWklF0gFmQVVfeXFMT1pMWVRGRjZ5dDYtUDZJX3NMM3FySXlrOGoxM2loSzV6d0hTazRfNkdBWW1WOFV5Vk1mRFI1b1lKOXZvN05BMVZwQkFDeHJVUVVxb21BTURKT2hka2hPZFB1Xy0teTVR?oc=5",
+          "source": "Google News",
+          "published": "Sun, 26 Jul 2026 03:15:22 GMT"
+        }
+      ]
+    },
+    {
+      "word": "인가",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "장동혁 “‘전자투표 도입? 대통령이 할 말 인가“ - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43QURZQ2hHLTlxMWFpb1FfckpxYTFYcUlxb29JZWl5MHN4ZXlKczQ2dnVidU1UeU1sMVA3b1VZSm1WT1VDaUZnZTlidjZrMzlLeThNajhOczFPeXJxNU12VFEtbFZSQlJhTjNRZmNJUmJOal9tWklF0gFmQVVfeXFMT1pMWVRGRjZ5dDYtUDZJX3NMM3FySXlrOGoxM2loSzV6d0hTazRfNkdBWW1WOFV5Vk1mRFI1b1lKOXZvN05BMVZwQkFDeHJVUVVxb21BTURKT2hka2hPZFB1Xy0teTVR?oc=5",
+          "source": "Google News",
+          "published": "Sun, 26 Jul 2026 03:15:22 GMT"
+        }
+      ]
+    },
+    {
+      "word": "정점식",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정점식 \"이 대통령, '보완수사권 폐지' 왜 말 없나‥정치 비겁하게 해\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxS2hwZ1QxQWZtMGlLNkNKQ2JoNk1FVEEzZlliM0wtSVNuSkFpOGpBY1RreWNJdUZDRkl1aWRoNVJXLXhIcDBHNVhwY2JkcnZRRzVQTHNTeVlSaENUZmYyUDhpQXhCaGV1c2hwRnFjNGptN1ZDY1FtLdIBeEFVX3lxTE5wU0hSWWxsbU1TMnNRVElNbDd5dUxqZ25xdGlOeEJTQk8ycWlSbWxBNzdWaFBOQTNyTlI2YTNjV3VsdGxnZ0ZpRlNlVW05SzczU3Bwend4b2s4VS1PYnBveGQ3M1UyeGhJUC1wUEUycHlyYU9VendFYQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 26 Jul 2026 01:48:48 GMT"
+        }
+      ]
+    },
+    {
+      "word": "보완수사권",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정점식 \"이 대통령, '보완수사권 폐지' 왜 말 없나‥정치 비겁하게 해\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxS2hwZ1QxQWZtMGlLNkNKQ2JoNk1FVEEzZlliM0wtSVNuSkFpOGpBY1RreWNJdUZDRkl1aWRoNVJXLXhIcDBHNVhwY2JkcnZRRzVQTHNTeVlSaENUZmYyUDhpQXhCaGV1c2hwRnFjNGptN1ZDY1FtLdIBeEFVX3lxTE5wU0hSWWxsbU1TMnNRVElNbDd5dUxqZ25xdGlOeEJTQk8ycWlSbWxBNzdWaFBOQTNyTlI2YTNjV3VsdGxnZ0ZpRlNlVW05SzczU3Bwend4b2s4VS1PYnBveGQ3M1UyeGhJUC1wUEUycHlyYU9VendFYQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 26 Jul 2026 01:48:48 GMT"
+        }
+      ]
+    },
+    {
+      "word": "폐지",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정점식 \"이 대통령, '보완수사권 폐지' 왜 말 없나‥정치 비겁하게 해\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxS2hwZ1QxQWZtMGlLNkNKQ2JoNk1FVEEzZlliM0wtSVNuSkFpOGpBY1RreWNJdUZDRkl1aWRoNVJXLXhIcDBHNVhwY2JkcnZRRzVQTHNTeVlSaENUZmYyUDhpQXhCaGV1c2hwRnFjNGptN1ZDY1FtLdIBeEFVX3lxTE5wU0hSWWxsbU1TMnNRVElNbDd5dUxqZ25xdGlOeEJTQk8ycWlSbWxBNzdWaFBOQTNyTlI2YTNjV3VsdGxnZ0ZpRlNlVW05SzczU3Bwend4b2s4VS1PYnBveGQ3M1UyeGhJUC1wUEUycHlyYU9VendFYQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 26 Jul 2026 01:48:48 GMT"
+        }
+      ]
+    },
+    {
+      "word": "없나정치",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정점식 \"이 대통령, '보완수사권 폐지' 왜 말 없나‥정치 비겁하게 해\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxS2hwZ1QxQWZtMGlLNkNKQ2JoNk1FVEEzZlliM0wtSVNuSkFpOGpBY1RreWNJdUZDRkl1aWRoNVJXLXhIcDBHNVhwY2JkcnZRRzVQTHNTeVlSaENUZmYyUDhpQXhCaGV1c2hwRnFjNGptN1ZDY1FtLdIBeEFVX3lxTE5wU0hSWWxsbU1TMnNRVElNbDd5dUxqZ25xdGlOeEJTQk8ycWlSbWxBNzdWaFBOQTNyTlI2YTNjV3VsdGxnZ0ZpRlNlVW05SzczU3Bwend4b2s4VS1PYnBveGQ3M1UyeGhJUC1wUEUycHlyYU9VendFYQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 26 Jul 2026 01:48:48 GMT"
+        }
+      ]
+    },
+    {
+      "word": "비겁하게",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정점식 \"이 대통령, '보완수사권 폐지' 왜 말 없나‥정치 비겁하게 해\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxS2hwZ1QxQWZtMGlLNkNKQ2JoNk1FVEEzZlliM0wtSVNuSkFpOGpBY1RreWNJdUZDRkl1aWRoNVJXLXhIcDBHNVhwY2JkcnZRRzVQTHNTeVlSaENUZmYyUDhpQXhCaGV1c2hwRnFjNGptN1ZDY1FtLdIBeEFVX3lxTE5wU0hSWWxsbU1TMnNRVElNbDd5dUxqZ25xdGlOeEJTQk8ycWlSbWxBNzdWaFBOQTNyTlI2YTNjV3VsdGxnZ0ZpRlNlVW05SzczU3Bwend4b2s4VS1PYnBveGQ3M1UyeGhJUC1wUEUycHlyYU9VendFYQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 26 Jul 2026 01:48:48 GMT"
         }
       ]
     }
