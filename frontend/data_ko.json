@@ -1,527 +1,94 @@
 {
   "language": "ko",
-  "last_updated": 1785124115.6725101,
+  "last_updated": 1785137998.7519395,
   "count": 40,
   "trends": [
     {
+      "word": "국힘",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보] 윤석열 ‘선거법 위반’ 징역형 집유…확정시 국힘 397억 반환 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vVmR2RHN6ZnlwQ0toY3BBNFlnUHZHSVduUGlENFFQaGh3S1hwSEZyVXk2ay05WkowZlBocG1KakZmUEtGZVBJWllPZFJ1WW5qazVYN0lhVEpMcmpibW96QU5pNENyS3VYWTIyQlpFbzB4dw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 27 Jul 2026 05:55:00 GMT"
+        },
+        {
+          "title": "국힘 ‘멱살 소동’ 권영진 사과했지만…“탈당 안하면 징계위 회부” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VOVlnYkpkSWxLZXM1T3pvWWx0cU1lR0RyUWFyX1B4TEtzQkJNNnVtdkFocUpJN3MtR2JseWpXRkttb0tzQVdMc19TN2FXcFVhRDd5Z1RVbkFrUk1acnM0bVpCR0hKSnlOUXFqMWMtb19LdjNn?oc=5",
+          "source": "Google News",
+          "published": "Mon, 27 Jul 2026 02:51:00 GMT"
+        }
+      ]
+    },
+    {
       "word": "대통령",
-      "count": 4,
+      "count": 2,
       "category": "PERSON",
       "articles": [
         {
-          "title": "박지원 “정성호, 이 대통령도 한국 없는데 사의…책임회피” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtM0pOUkVOMkVrMHRCbWlfeVBFUExxX3Z2eGRmbWNiczFEaFBPazFqZ01qVTBrZ2pONlZmdGxJRTBpUWxCTkpVMXBjUEZpTEhmaG8wZE13ajRxdy1xWUFzcjJhZFJNdG9IM0RIdFpxaG1FRjkx?oc=5",
+          "title": "송영길 \"정청래 대표되면 이 대통령 레임덕 빠질 것\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10eDZRdUJTWHZMeGRNc2hqcGJkTWFLOWRpLURVWVhWcWY3cHh2ZTEzcmRfNmdFN0UxQ2UyZFM4emgzaXV2amM4R1B0WU5FY1dqYWRGRmFFVHhYbmd2bWpSbkgyUGdTU3BsRi1zckNwMkIzWm9tbkFEVNIBeEFVX3lxTE1iV1BMZ0dsS1l0cGxia2sxU1JYQmlvT0RlbUxSdmRzWEVNWDQ4NVFSakxjRm5HQzdRWWJkV2dPVHI2YklxSncxdVpPWm9HSFdlWnhWT2toMG4tcEV3X0VSekd1Y2J2aWF3WEN4NkxXMF9QS0Q4U0VHdQ?oc=5",
           "source": "Google News",
-          "published": "Mon, 27 Jul 2026 01:18:00 GMT"
+          "published": "Mon, 27 Jul 2026 05:52:47 GMT"
         },
         {
-          "title": "이 대통령, 브라질 도착…“남미 경제 대국, 시장 개척 기대” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iS1Jvc3V5QmVHd0RSMWlxYWZNVElPWmhNZkJLQkdQaVUwQkY4cFNHdWJJalhSZTBIV2JGd1BzYkk1SFVVLXQtMy1rc2ZCRmt0X0NscFNvTnBzV3VDTlc0X2ExN3Q3VU50ZHhR?oc=5",
+          "title": "이 대통령 \"유가 불안 확실한 해소 때까지 석유 최고가격제·유류세 인하 유지\" - 한국방송뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tZTdjZXdMNGZrbXZWZU1vLTRwbV80M3JhOTU2anhGUjAtakVBa2VHSUFTeFZPX19hR2JOZ2pjV20yZ3RPR1ZXaDFTN2FjUi1sQ1VvYjZ2SU9qcllaN3c?oc=5",
           "source": "Google News",
-          "published": "Mon, 27 Jul 2026 01:50:00 GMT"
-        },
-        {
-          "title": "李대통령 \"유가불안 해소때까지 석유 최고가격제 계속\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdmFJQVhETGRZSHB5cjgtOVlQaFhDQXhQWXZoUEdKcnl2NDAxM3UtZ2Fsa3N6N0h6cF8yZWo3WnVLdDRYN053UmJZOFBYSDN2MG81MUt6d2V6cW1CdVhQTTZTdmZOMWdiS2FVdlE5RUYzTkJXQm9vdWFrM3ZmQzNDYWgyRGF0Qkwyd1RIQmg0d2s?oc=5",
-          "source": "Google News",
-          "published": "Mon, 27 Jul 2026 00:42:00 GMT"
-        },
-        {
-          "title": "이 대통령 “빅테크와 파트너십 AI 동맹 수준 격상”…순방 중 수보회의 [지금뉴스] - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jcTQyR0QtbU9DVVhESTAtaHp1TFhFSVNfSnBlaHhWZTRRYVNINWJmQ3BwM0tpSW5zeFpCRnVGYWJtNDNKU0tnb1NCLXl2RlZKcHRaaElUSi1LREk?oc=5",
-          "source": "Google News",
-          "published": "Mon, 27 Jul 2026 00:48:00 GMT"
+          "published": "Mon, 27 Jul 2026 06:53:23 GMT"
         }
       ]
     },
     {
-      "word": "김민석",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "높을수록 김민석, 뭉칠수록 정청래? 與전대 투표율 셈법 - 노컷뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RallFV0tmWkZoMXJPZVdjSTkxQ2F6OXdMZTBOLXYxbV93bWw5MHQ3Wk5Wem0tSXNLTU9Gc3Bfb01ZOGxDaTExOUliaEw1MWJMMlE?oc=5",
-          "source": "Google News",
-          "published": "Sun, 26 Jul 2026 20:00:00 GMT"
-        },
-        {
-          "title": "김민석 “이중당적 등 ‘자율정리 30일’ 제안…신천지 언급이 위헌? 바보궤변“ - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5fUjJnNWlrNFdLell5N0paVFBnbnc1RjF5dHRtYURDaDNyUXJJdi1od3h0bzFFSExSeU00VDFUWjVtaXNYSFlVWE9WMW10UEYtc0NPbU1aaDFlNFVQM004MXVxZEFHdnFZN3JiR0MtQTJBYmxnZkpv0gFmQVVfeXFMUGZza2g4WUFrSkJBRjlscC0wZThQWkZ6N2VJcmxoVmpXb1k0REtmZjU5X1BON0lCWEt2ZW9DTDlTbG1kVVFhTEVsQUZHd2sxM1Q3WHZMbnVHNEcxT2F5dVhqRXhSdjBB?oc=5",
-          "source": "Google News",
-          "published": "Mon, 27 Jul 2026 03:03:43 GMT"
-        }
-      ]
-    },
-    {
-      "word": "이란",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "잠시 숨고르는 美·이란... \"이란 계속 때리자\"는 네타냐후가 또 변수 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMVEyNXU0M0RteWlPbDZNbGUzbzdwWDN0Vy0xd2Q5TmFxNjJUMTE5bHFIcTFZTVVYUGV0ZDZVOFN1Q25rZ09yMU5fd3FtLVJsbXVFY1FQM0pmbFl3bTlVMXU3YXU1QWZuZ3ZJZFhFLWd1R0tBRFVhd2JEUEozMzNCTTBPWGtaS1FZS2VCSE1pV3pxX1NycEpkRGthUTU0QQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 26 Jul 2026 21:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "계속",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "잠시 숨고르는 美·이란... \"이란 계속 때리자\"는 네타냐후가 또 변수 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMVEyNXU0M0RteWlPbDZNbGUzbzdwWDN0Vy0xd2Q5TmFxNjJUMTE5bHFIcTFZTVVYUGV0ZDZVOFN1Q25rZ09yMU5fd3FtLVJsbXVFY1FQM0pmbFl3bTlVMXU3YXU1QWZuZ3ZJZFhFLWd1R0tBRFVhd2JEUEozMzNCTTBPWGtaS1FZS2VCSE1pV3pxX1NycEpkRGthUTU0QQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 26 Jul 2026 21:20:00 GMT"
-        },
-        {
-          "title": "李대통령 \"유가불안 해소때까지 석유 최고가격제 계속\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdmFJQVhETGRZSHB5cjgtOVlQaFhDQXhQWXZoUEdKcnl2NDAxM3UtZ2Fsa3N6N0h6cF8yZWo3WnVLdDRYN053UmJZOFBYSDN2MG81MUt6d2V6cW1CdVhQTTZTdmZOMWdiS2FVdlE5RUYzTkJXQm9vdWFrM3ZmQzNDYWgyRGF0Qkwyd1RIQmg0d2s?oc=5",
-          "source": "Google News",
-          "published": "Mon, 27 Jul 2026 00:42:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "동맹",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "엔비디아, 네이버 3대 주주된다…지분 4.5% 취득, AI 동맹 본격화 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rNjBCNE9JeHJkN0JtSzNzTGE5b0lQX3BDOFZsOXJESDZwS0luV1otQ0Y1QlNrRWdVUzdENXZ4a0lHVURaMldVSHR5R3YyTHNGNkRFbVJKUEhwQ0tESk5abg?oc=5",
-          "source": "Google News",
-          "published": "Mon, 27 Jul 2026 01:26:00 GMT"
-        },
-        {
-          "title": "이 대통령 “빅테크와 파트너십 AI 동맹 수준 격상”…순방 중 수보회의 [지금뉴스] - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jcTQyR0QtbU9DVVhESTAtaHp1TFhFSVNfSnBlaHhWZTRRYVNINWJmQ3BwM0tpSW5zeFpCRnVGYWJtNDNKU0tnb1NCLXl2RlZKcHRaaElUSi1LREk?oc=5",
-          "source": "Google News",
-          "published": "Mon, 27 Jul 2026 00:48:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "출시",
+      "word": "우주",
       "count": 2,
       "category": "LOCATION",
       "articles": [
         {
-          "title": "스마일게이트 스토브, 익스트렉션 슈터 MMO ‘스탈존’ 출시 - 조선비즈 - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUG1uSzJTaDVLX0ZZZ3prMWlTSU40OEFjdmJzQ1J3eC1tRXJaNE02LXJjbk5Ydk92eVJzQk1mX2NUdHFzcDBxSkhBNmNYNDJjYWZEUTRJU0RqbE5UbTM2ZTRGdktEd2Q4ckFpVjhQOE9XU3hZaEREeEI4MndIeEp4VEF30gGWAUFVX3lxTE1Gck5EUDhaRllVVGdsYXBLakFJRF9kYXJxc0FaM2xVc1JYVHNlLXc2T0w3cEJSLXpfU0V6Y3RZUXplZ3ZqWFBjbVkwdG5Lb0RoQjRyaDM1b29WQlRuWjcya0dxMU9TVEZvM25BSTBIQmo0UGFuU3dFVkY3VXBXVUtJaTE1Mnl3eUluU0xDVWNYRjRGb09EQQ?oc=5",
+          "title": "[우주의 속삭임(195)] 48광년 밖 '제2의 지구'에 대기⋯헬륨이 전한 생명의 단서 - 포커스온경제",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54NTRtWEI1SXBTLVltRndOdThZRnl4Y2ZycU9mZDhwQnRaQi14SnpiNmdVSVFvVFlzZGdIV1oyM2VaWWxvaEg0M1hnZ3l2NXgyZUNKNXZkM01KaDZjcVE?oc=5",
           "source": "Google News",
-          "published": "Mon, 27 Jul 2026 03:02:00 GMT"
+          "published": "Mon, 27 Jul 2026 05:35:13 GMT"
         },
         {
-          "title": "유니클로, 포켓몬 30주년 기념 'UT 컬렉션' 출시 - 싱글리스트",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIbDh5V0RsTUtPMWpxNl9LZ3hBalNEbFNxMGJWanV5SzQ5aVFBV0dESXc3and0d2NXY2JFbm0teU9TMlR2SjBqY09hOWhKYS12blRWQnF3cWtkaUh1OGFES04xX0lvUQ?oc=5",
+          "title": "[이영웅 과학칼럼] 창백한 푸른 점에서 찾은 연금술: 우주가 우리에게 숨겨둔 진짜 보물 - 한국강사신문",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYalVoV1BlOGtvNmtnbTdzTkdURDdJZUVLRU9uOVV2T1VVUmJKcjRHRWZNV1FjejJ4d3NhWXdZSXFIQnZJVVNWNnNPQ0R4WHZQcmotaU9wVUdvczc0c2VvMmw5Vnl2MnBtWlNYWEg0aE0?oc=5",
           "source": "Google News",
-          "published": "Mon, 27 Jul 2026 03:32:27 GMT"
+          "published": "Mon, 27 Jul 2026 06:58:38 GMT"
         }
       ]
     },
     {
-      "word": "김부장",
+      "word": "조기",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "소지섭, '김부장' 스태프 전원에 금 쐈다…구매액 1억원 육박 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VU2RYRGx3MkdtTlFIX3FJUDdkSENCbk5wZno1aGFPXzI2WU5ZSktnV0tTbFYycUlTU0l1Tm9ILVpCeHNrN0FFNG9uc19aUk1RNEItV0VDY1VPdw?oc=5",
+          "title": "언어치료 돌 이전 눈맞춤 단계부터 조기 개입해야 - 병원신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90V1RJNmNiNVRYRTNDN0JVWEkzcmw4dnJ5QVRpZ20xM0ZwSGJiUW0xLWR6Sjd5eXJ0R01ZZFQwWUk2WU5tRW02R2tPV2FKNW9XQ0p5OUxidjJaQ21NTGU5a0hCTjhuRXYtUHc?oc=5",
           "source": "Google News",
-          "published": "Mon, 27 Jul 2026 00:43:41 GMT"
+          "published": "Mon, 27 Jul 2026 04:56:18 GMT"
         },
         {
-          "title": "이동하♥소진, '김부장' 시청률 23% 종영까지 달달한 SNS 내조 \"수고했어요\" - 조선비즈 - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNDM0UDlveTRzN2g5UjRaWUFpUzR0MW5CTnlfSHhfMG85aFVqby1IbFFOOFNXNjVmQUxpb2tlUXZNeU5iR2x6TlBaTE9BWE9pRDFocGZ2VXFQaGJsMzdfUVV4dlhqN3A3ZHoydFBSRzR4NGF4NDBfb3pYQ1B5MzJmdXVuWk1RQ2Zoc05TRmNUdlBLbUXSAacBQVVfeXFMTjNyeENObnRJYnU5RWh1S19keDU3WklyMjJVY3VnU0xXVDNZYnFlMFhXUmVlOTc1eldPNGh3dHRKUFRldWZHXzAwd09MV093d1VHemUxY0dUQ3lramM0QnVPdnRteFRVUE1adlZfdWt4djB4U0pYTTlhSElyVVlDSGV0Z3BzaHEzb2xoZUxvLXZ2d2VlYnZySmk4elEwUl9MeUxCUFVmcWc?oc=5",
+          "title": "고려대 안산병원, 루게릭병 조기 진단과 다학제 관리 강조 - MEDI:GATE NEWS",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WM2t6M3lsUjdnaTF3emtSY2piQk9qN1YzdHFvOWp4Qzc4OGpubWF4NTdaeUxxNGFQZTFtTldtR1hTMUhHQlltLVNJaGlOR2NxMXczNVYtSQ?oc=5",
           "source": "Google News",
-          "published": "Mon, 27 Jul 2026 02:24:00 GMT"
+          "published": "Mon, 27 Jul 2026 07:27:00 GMT"
         }
       ]
     },
     {
-      "word": "치매",
+      "word": "바이러스",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "치매 원인 뇌 노폐물 배출 ‘비밀 통로’ 찾았다 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaTE1QX2x6My11SVEwcTI3dlN6TmpmdThfeDBfQ19BRXJCSGpUMkVaaE9SeFc4alJfMDdKVFFzQTYtQllKX1BqbUxNeExSQjAyRnZHSnIxU19vSWc?oc=5",
+          "title": "장 속 바이러스가 노화를 말해준다… 연세대 이인석 교수, 세계 최대 흰쥐의 장내 바이러스 유전체 지도 구축 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fMHJTOFMwazQzOU5Ga0tZbXp1WGlpN2RfVkk1enNsZmpzNEJWbmg4YnNid1RSNHU2dUFnSVJZa2RCUGJCWVpqR0xXOExGY2pEeGI4R2lMSHJuTGtHS2Q1dkRKZzFyQ2c?oc=5",
           "source": "Google News",
-          "published": "Sun, 26 Jul 2026 21:45:00 GMT"
-        },
-        {
-          "title": "치매 100만 명 시대의 과제…두려움을 넘어 ‘대비와 공존’으로 [에필로그] - 하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YXzBkd1hwR2pqM3pUMHJJbEtfRXJwWkk2RmppVjVxeXF1dXBsM2RJSVhVNDkyYW9KRjRTYjVXek9Ma012SHhFaUdQdmFfaFl4WG12Z18yYmlfY0RfRDY2RWlWMGpkeE5mREE?oc=5",
-          "source": "Google News",
-          "published": "Sun, 26 Jul 2026 22:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "박지원",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "박지원 “정성호, 이 대통령도 한국 없는데 사의…책임회피” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtM0pOUkVOMkVrMHRCbWlfeVBFUExxX3Z2eGRmbWNiczFEaFBPazFqZ01qVTBrZ2pONlZmdGxJRTBpUWxCTkpVMXBjUEZpTEhmaG8wZE13ajRxdy1xWUFzcjJhZFJNdG9IM0RIdFpxaG1FRjkx?oc=5",
-          "source": "Google News",
-          "published": "Mon, 27 Jul 2026 01:18:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "정성호",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "박지원 “정성호, 이 대통령도 한국 없는데 사의…책임회피” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtM0pOUkVOMkVrMHRCbWlfeVBFUExxX3Z2eGRmbWNiczFEaFBPazFqZ01qVTBrZ2pONlZmdGxJRTBpUWxCTkpVMXBjUEZpTEhmaG8wZE13ajRxdy1xWUFzcjJhZFJNdG9IM0RIdFpxaG1FRjkx?oc=5",
-          "source": "Google News",
-          "published": "Mon, 27 Jul 2026 01:18:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "한국",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "박지원 “정성호, 이 대통령도 한국 없는데 사의…책임회피” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtM0pOUkVOMkVrMHRCbWlfeVBFUExxX3Z2eGRmbWNiczFEaFBPazFqZ01qVTBrZ2pONlZmdGxJRTBpUWxCTkpVMXBjUEZpTEhmaG8wZE13ajRxdy1xWUFzcjJhZFJNdG9IM0RIdFpxaG1FRjkx?oc=5",
-          "source": "Google News",
-          "published": "Mon, 27 Jul 2026 01:18:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "없는데",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "박지원 “정성호, 이 대통령도 한국 없는데 사의…책임회피” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtM0pOUkVOMkVrMHRCbWlfeVBFUExxX3Z2eGRmbWNiczFEaFBPazFqZ01qVTBrZ2pONlZmdGxJRTBpUWxCTkpVMXBjUEZpTEhmaG8wZE13ajRxdy1xWUFzcjJhZFJNdG9IM0RIdFpxaG1FRjkx?oc=5",
-          "source": "Google News",
-          "published": "Mon, 27 Jul 2026 01:18:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "사의책임회피",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "박지원 “정성호, 이 대통령도 한국 없는데 사의…책임회피” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtM0pOUkVOMkVrMHRCbWlfeVBFUExxX3Z2eGRmbWNiczFEaFBPazFqZ01qVTBrZ2pONlZmdGxJRTBpUWxCTkpVMXBjUEZpTEhmaG8wZE13ajRxdy1xWUFzcjJhZFJNdG9IM0RIdFpxaG1FRjkx?oc=5",
-          "source": "Google News",
-          "published": "Mon, 27 Jul 2026 01:18:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "높을수록",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "높을수록 김민석, 뭉칠수록 정청래? 與전대 투표율 셈법 - 노컷뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RallFV0tmWkZoMXJPZVdjSTkxQ2F6OXdMZTBOLXYxbV93bWw5MHQ3Wk5Wem0tSXNLTU9Gc3Bfb01ZOGxDaTExOUliaEw1MWJMMlE?oc=5",
-          "source": "Google News",
-          "published": "Sun, 26 Jul 2026 20:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "뭉칠수록",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "높을수록 김민석, 뭉칠수록 정청래? 與전대 투표율 셈법 - 노컷뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RallFV0tmWkZoMXJPZVdjSTkxQ2F6OXdMZTBOLXYxbV93bWw5MHQ3Wk5Wem0tSXNLTU9Gc3Bfb01ZOGxDaTExOUliaEw1MWJMMlE?oc=5",
-          "source": "Google News",
-          "published": "Sun, 26 Jul 2026 20:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "정청래",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "높을수록 김민석, 뭉칠수록 정청래? 與전대 투표율 셈법 - 노컷뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RallFV0tmWkZoMXJPZVdjSTkxQ2F6OXdMZTBOLXYxbV93bWw5MHQ3Wk5Wem0tSXNLTU9Gc3Bfb01ZOGxDaTExOUliaEw1MWJMMlE?oc=5",
-          "source": "Google News",
-          "published": "Sun, 26 Jul 2026 20:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "전대",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "높을수록 김민석, 뭉칠수록 정청래? 與전대 투표율 셈법 - 노컷뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RallFV0tmWkZoMXJPZVdjSTkxQ2F6OXdMZTBOLXYxbV93bWw5MHQ3Wk5Wem0tSXNLTU9Gc3Bfb01ZOGxDaTExOUliaEw1MWJMMlE?oc=5",
-          "source": "Google News",
-          "published": "Sun, 26 Jul 2026 20:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "투표율",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "높을수록 김민석, 뭉칠수록 정청래? 與전대 투표율 셈법 - 노컷뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RallFV0tmWkZoMXJPZVdjSTkxQ2F6OXdMZTBOLXYxbV93bWw5MHQ3Wk5Wem0tSXNLTU9Gc3Bfb01ZOGxDaTExOUliaEw1MWJMMlE?oc=5",
-          "source": "Google News",
-          "published": "Sun, 26 Jul 2026 20:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "셈법",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "높을수록 김민석, 뭉칠수록 정청래? 與전대 투표율 셈법 - 노컷뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RallFV0tmWkZoMXJPZVdjSTkxQ2F6OXdMZTBOLXYxbV93bWw5MHQ3Wk5Wem0tSXNLTU9Gc3Bfb01ZOGxDaTExOUliaEw1MWJMMlE?oc=5",
-          "source": "Google News",
-          "published": "Sun, 26 Jul 2026 20:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "브라질",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령, 브라질 도착…“남미 경제 대국, 시장 개척 기대” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iS1Jvc3V5QmVHd0RSMWlxYWZNVElPWmhNZkJLQkdQaVUwQkY4cFNHdWJJalhSZTBIV2JGd1BzYkk1SFVVLXQtMy1rc2ZCRmt0X0NscFNvTnBzV3VDTlc0X2ExN3Q3VU50ZHhR?oc=5",
-          "source": "Google News",
-          "published": "Mon, 27 Jul 2026 01:50:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "도착남미",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령, 브라질 도착…“남미 경제 대국, 시장 개척 기대” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iS1Jvc3V5QmVHd0RSMWlxYWZNVElPWmhNZkJLQkdQaVUwQkY4cFNHdWJJalhSZTBIV2JGd1BzYkk1SFVVLXQtMy1rc2ZCRmt0X0NscFNvTnBzV3VDTlc0X2ExN3Q3VU50ZHhR?oc=5",
-          "source": "Google News",
-          "published": "Mon, 27 Jul 2026 01:50:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "경제",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령, 브라질 도착…“남미 경제 대국, 시장 개척 기대” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iS1Jvc3V5QmVHd0RSMWlxYWZNVElPWmhNZkJLQkdQaVUwQkY4cFNHdWJJalhSZTBIV2JGd1BzYkk1SFVVLXQtMy1rc2ZCRmt0X0NscFNvTnBzV3VDTlc0X2ExN3Q3VU50ZHhR?oc=5",
-          "source": "Google News",
-          "published": "Mon, 27 Jul 2026 01:50:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "대국",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "이 대통령, 브라질 도착…“남미 경제 대국, 시장 개척 기대” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iS1Jvc3V5QmVHd0RSMWlxYWZNVElPWmhNZkJLQkdQaVUwQkY4cFNHdWJJalhSZTBIV2JGd1BzYkk1SFVVLXQtMy1rc2ZCRmt0X0NscFNvTnBzV3VDTlc0X2ExN3Q3VU50ZHhR?oc=5",
-          "source": "Google News",
-          "published": "Mon, 27 Jul 2026 01:50:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "시장",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령, 브라질 도착…“남미 경제 대국, 시장 개척 기대” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iS1Jvc3V5QmVHd0RSMWlxYWZNVElPWmhNZkJLQkdQaVUwQkY4cFNHdWJJalhSZTBIV2JGd1BzYkk1SFVVLXQtMy1rc2ZCRmt0X0NscFNvTnBzV3VDTlc0X2ExN3Q3VU50ZHhR?oc=5",
-          "source": "Google News",
-          "published": "Mon, 27 Jul 2026 01:50:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "개척",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령, 브라질 도착…“남미 경제 대국, 시장 개척 기대” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iS1Jvc3V5QmVHd0RSMWlxYWZNVElPWmhNZkJLQkdQaVUwQkY4cFNHdWJJalhSZTBIV2JGd1BzYkk1SFVVLXQtMy1rc2ZCRmt0X0NscFNvTnBzV3VDTlc0X2ExN3Q3VU50ZHhR?oc=5",
-          "source": "Google News",
-          "published": "Mon, 27 Jul 2026 01:50:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "기대",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령, 브라질 도착…“남미 경제 대국, 시장 개척 기대” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iS1Jvc3V5QmVHd0RSMWlxYWZNVElPWmhNZkJLQkdQaVUwQkY4cFNHdWJJalhSZTBIV2JGd1BzYkk1SFVVLXQtMy1rc2ZCRmt0X0NscFNvTnBzV3VDTlc0X2ExN3Q3VU50ZHhR?oc=5",
-          "source": "Google News",
-          "published": "Mon, 27 Jul 2026 01:50:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "잠시",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "잠시 숨고르는 美·이란... \"이란 계속 때리자\"는 네타냐후가 또 변수 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMVEyNXU0M0RteWlPbDZNbGUzbzdwWDN0Vy0xd2Q5TmFxNjJUMTE5bHFIcTFZTVVYUGV0ZDZVOFN1Q25rZ09yMU5fd3FtLVJsbXVFY1FQM0pmbFl3bTlVMXU3YXU1QWZuZ3ZJZFhFLWd1R0tBRFVhd2JEUEozMzNCTTBPWGtaS1FZS2VCSE1pV3pxX1NycEpkRGthUTU0QQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 26 Jul 2026 21:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "숨고르",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "잠시 숨고르는 美·이란... \"이란 계속 때리자\"는 네타냐후가 또 변수 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMVEyNXU0M0RteWlPbDZNbGUzbzdwWDN0Vy0xd2Q5TmFxNjJUMTE5bHFIcTFZTVVYUGV0ZDZVOFN1Q25rZ09yMU5fd3FtLVJsbXVFY1FQM0pmbFl3bTlVMXU3YXU1QWZuZ3ZJZFhFLWd1R0tBRFVhd2JEUEozMzNCTTBPWGtaS1FZS2VCSE1pV3pxX1NycEpkRGthUTU0QQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 26 Jul 2026 21:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "때리자",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "잠시 숨고르는 美·이란... \"이란 계속 때리자\"는 네타냐후가 또 변수 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMVEyNXU0M0RteWlPbDZNbGUzbzdwWDN0Vy0xd2Q5TmFxNjJUMTE5bHFIcTFZTVVYUGV0ZDZVOFN1Q25rZ09yMU5fd3FtLVJsbXVFY1FQM0pmbFl3bTlVMXU3YXU1QWZuZ3ZJZFhFLWd1R0tBRFVhd2JEUEozMzNCTTBPWGtaS1FZS2VCSE1pV3pxX1NycEpkRGthUTU0QQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 26 Jul 2026 21:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "네타냐후",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "잠시 숨고르는 美·이란... \"이란 계속 때리자\"는 네타냐후가 또 변수 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMVEyNXU0M0RteWlPbDZNbGUzbzdwWDN0Vy0xd2Q5TmFxNjJUMTE5bHFIcTFZTVVYUGV0ZDZVOFN1Q25rZ09yMU5fd3FtLVJsbXVFY1FQM0pmbFl3bTlVMXU3YXU1QWZuZ3ZJZFhFLWd1R0tBRFVhd2JEUEozMzNCTTBPWGtaS1FZS2VCSE1pV3pxX1NycEpkRGthUTU0QQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 26 Jul 2026 21:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "변수",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "잠시 숨고르는 美·이란... \"이란 계속 때리자\"는 네타냐후가 또 변수 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMVEyNXU0M0RteWlPbDZNbGUzbzdwWDN0Vy0xd2Q5TmFxNjJUMTE5bHFIcTFZTVVYUGV0ZDZVOFN1Q25rZ09yMU5fd3FtLVJsbXVFY1FQM0pmbFl3bTlVMXU3YXU1QWZuZ3ZJZFhFLWd1R0tBRFVhd2JEUEozMzNCTTBPWGtaS1FZS2VCSE1pV3pxX1NycEpkRGthUTU0QQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 26 Jul 2026 21:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "역대급",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "역대급 산불 대도시로…프랑스·스페인 35만명 대피 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HaXNHUjJvQ0d2NmMxT3E0eHpyRE56dEYxVWEwLWVHTXI0Y1BXbjRod3Z5c1pBdGdVT1NISHRGanpYTUM2NUJ2cFd6MUJ3WEl3NV9MVnFkWjVramJxN01XcnhXRGxvNUdDakk4WjZB?oc=5",
-          "source": "Google News",
-          "published": "Mon, 27 Jul 2026 01:49:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "산불",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "역대급 산불 대도시로…프랑스·스페인 35만명 대피 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HaXNHUjJvQ0d2NmMxT3E0eHpyRE56dEYxVWEwLWVHTXI0Y1BXbjRod3Z5c1pBdGdVT1NISHRGanpYTUM2NUJ2cFd6MUJ3WEl3NV9MVnFkWjVramJxN01XcnhXRGxvNUdDakk4WjZB?oc=5",
-          "source": "Google News",
-          "published": "Mon, 27 Jul 2026 01:49:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "대도시로프랑스스페인",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "역대급 산불 대도시로…프랑스·스페인 35만명 대피 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HaXNHUjJvQ0d2NmMxT3E0eHpyRE56dEYxVWEwLWVHTXI0Y1BXbjRod3Z5c1pBdGdVT1NISHRGanpYTUM2NUJ2cFd6MUJ3WEl3NV9MVnFkWjVramJxN01XcnhXRGxvNUdDakk4WjZB?oc=5",
-          "source": "Google News",
-          "published": "Mon, 27 Jul 2026 01:49:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "35만명",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "역대급 산불 대도시로…프랑스·스페인 35만명 대피 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HaXNHUjJvQ0d2NmMxT3E0eHpyRE56dEYxVWEwLWVHTXI0Y1BXbjRod3Z5c1pBdGdVT1NISHRGanpYTUM2NUJ2cFd6MUJ3WEl3NV9MVnFkWjVramJxN01XcnhXRGxvNUdDakk4WjZB?oc=5",
-          "source": "Google News",
-          "published": "Mon, 27 Jul 2026 01:49:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "대피",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "역대급 산불 대도시로…프랑스·스페인 35만명 대피 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HaXNHUjJvQ0d2NmMxT3E0eHpyRE56dEYxVWEwLWVHTXI0Y1BXbjRod3Z5c1pBdGdVT1NISHRGanpYTUM2NUJ2cFd6MUJ3WEl3NV9MVnFkWjVramJxN01XcnhXRGxvNUdDakk4WjZB?oc=5",
-          "source": "Google News",
-          "published": "Mon, 27 Jul 2026 01:49:00 GMT"
+          "published": "Mon, 27 Jul 2026 05:50:00 GMT"
         }
       ]
     },
@@ -531,49 +98,452 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "윤석열 '공직선거법' 1심 오늘 선고‥국민의힘 선거비용 397억 반환 걸려 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9OYm42XzBHOTE2cTRadWVNdWZNeURRaTNscUtJT0QxTXl1Z3dSY1BxU1NNLU9kRFA0QnI0dVFNQXUwcXdOMlA5cUZMMG45QUstRUJncG9ldTF0MTBjUDFIRDNIX19aUGUyenVkWlFZcEZPdFc2eUE40gF3QVVfeXFMT1d5WkNmZENSRHJUSmhsekdSU01aUTFObC1kZEN3TlQ2MFNpajkyVUhqWTRnYTg4emNXbEF2OHdDdDdFVlVTUElNR1NYZ3o5Q0l5S2lES1ZIbDNIRUE4cUpOTFhLbWhlU1JTWFhwM0pTTzJXUW5TX0E?oc=5",
+          "title": "[속보] 윤석열 ‘선거법 위반’ 징역형 집유…확정시 국힘 397억 반환 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vVmR2RHN6ZnlwQ0toY3BBNFlnUHZHSVduUGlENFFQaGh3S1hwSEZyVXk2ay05WkowZlBocG1KakZmUEtGZVBJWllPZFJ1WW5qazVYN0lhVEpMcmpibW96QU5pNENyS3VYWTIyQlpFbzB4dw?oc=5",
           "source": "Google News",
-          "published": "Sun, 26 Jul 2026 23:06:25 GMT"
+          "published": "Mon, 27 Jul 2026 05:55:00 GMT"
         }
       ]
     },
     {
-      "word": "공직선거법",
+      "word": "선거법",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "윤석열 '공직선거법' 1심 오늘 선고‥국민의힘 선거비용 397억 반환 걸려 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9OYm42XzBHOTE2cTRadWVNdWZNeURRaTNscUtJT0QxTXl1Z3dSY1BxU1NNLU9kRFA0QnI0dVFNQXUwcXdOMlA5cUZMMG45QUstRUJncG9ldTF0MTBjUDFIRDNIX19aUGUyenVkWlFZcEZPdFc2eUE40gF3QVVfeXFMT1d5WkNmZENSRHJUSmhsekdSU01aUTFObC1kZEN3TlQ2MFNpajkyVUhqWTRnYTg4emNXbEF2OHdDdDdFVlVTUElNR1NYZ3o5Q0l5S2lES1ZIbDNIRUE4cUpOTFhLbWhlU1JTWFhwM0pTTzJXUW5TX0E?oc=5",
+          "title": "[속보] 윤석열 ‘선거법 위반’ 징역형 집유…확정시 국힘 397억 반환 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vVmR2RHN6ZnlwQ0toY3BBNFlnUHZHSVduUGlENFFQaGh3S1hwSEZyVXk2ay05WkowZlBocG1KakZmUEtGZVBJWllPZFJ1WW5qazVYN0lhVEpMcmpibW96QU5pNENyS3VYWTIyQlpFbzB4dw?oc=5",
           "source": "Google News",
-          "published": "Sun, 26 Jul 2026 23:06:25 GMT"
+          "published": "Mon, 27 Jul 2026 05:55:00 GMT"
         }
       ]
     },
     {
-      "word": "1심",
+      "word": "위반",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "윤석열 '공직선거법' 1심 오늘 선고‥국민의힘 선거비용 397억 반환 걸려 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9OYm42XzBHOTE2cTRadWVNdWZNeURRaTNscUtJT0QxTXl1Z3dSY1BxU1NNLU9kRFA0QnI0dVFNQXUwcXdOMlA5cUZMMG45QUstRUJncG9ldTF0MTBjUDFIRDNIX19aUGUyenVkWlFZcEZPdFc2eUE40gF3QVVfeXFMT1d5WkNmZENSRHJUSmhsekdSU01aUTFObC1kZEN3TlQ2MFNpajkyVUhqWTRnYTg4emNXbEF2OHdDdDdFVlVTUElNR1NYZ3o5Q0l5S2lES1ZIbDNIRUE4cUpOTFhLbWhlU1JTWFhwM0pTTzJXUW5TX0E?oc=5",
+          "title": "[속보] 윤석열 ‘선거법 위반’ 징역형 집유…확정시 국힘 397억 반환 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vVmR2RHN6ZnlwQ0toY3BBNFlnUHZHSVduUGlENFFQaGh3S1hwSEZyVXk2ay05WkowZlBocG1KakZmUEtGZVBJWllPZFJ1WW5qazVYN0lhVEpMcmpibW96QU5pNENyS3VYWTIyQlpFbzB4dw?oc=5",
           "source": "Google News",
-          "published": "Sun, 26 Jul 2026 23:06:25 GMT"
+          "published": "Mon, 27 Jul 2026 05:55:00 GMT"
         }
       ]
     },
     {
-      "word": "선고국민의힘",
+      "word": "징역형",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "윤석열 '공직선거법' 1심 오늘 선고‥국민의힘 선거비용 397억 반환 걸려 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9OYm42XzBHOTE2cTRadWVNdWZNeURRaTNscUtJT0QxTXl1Z3dSY1BxU1NNLU9kRFA0QnI0dVFNQXUwcXdOMlA5cUZMMG45QUstRUJncG9ldTF0MTBjUDFIRDNIX19aUGUyenVkWlFZcEZPdFc2eUE40gF3QVVfeXFMT1d5WkNmZENSRHJUSmhsekdSU01aUTFObC1kZEN3TlQ2MFNpajkyVUhqWTRnYTg4emNXbEF2OHdDdDdFVlVTUElNR1NYZ3o5Q0l5S2lES1ZIbDNIRUE4cUpOTFhLbWhlU1JTWFhwM0pTTzJXUW5TX0E?oc=5",
+          "title": "[속보] 윤석열 ‘선거법 위반’ 징역형 집유…확정시 국힘 397억 반환 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vVmR2RHN6ZnlwQ0toY3BBNFlnUHZHSVduUGlENFFQaGh3S1hwSEZyVXk2ay05WkowZlBocG1KakZmUEtGZVBJWllPZFJ1WW5qazVYN0lhVEpMcmpibW96QU5pNENyS3VYWTIyQlpFbzB4dw?oc=5",
           "source": "Google News",
-          "published": "Sun, 26 Jul 2026 23:06:25 GMT"
+          "published": "Mon, 27 Jul 2026 05:55:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "집유확정시",
+      "count": 1,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "[속보] 윤석열 ‘선거법 위반’ 징역형 집유…확정시 국힘 397억 반환 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vVmR2RHN6ZnlwQ0toY3BBNFlnUHZHSVduUGlENFFQaGh3S1hwSEZyVXk2ay05WkowZlBocG1KakZmUEtGZVBJWllPZFJ1WW5qazVYN0lhVEpMcmpibW96QU5pNENyS3VYWTIyQlpFbzB4dw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 27 Jul 2026 05:55:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "397억",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보] 윤석열 ‘선거법 위반’ 징역형 집유…확정시 국힘 397억 반환 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vVmR2RHN6ZnlwQ0toY3BBNFlnUHZHSVduUGlENFFQaGh3S1hwSEZyVXk2ay05WkowZlBocG1KakZmUEtGZVBJWllPZFJ1WW5qazVYN0lhVEpMcmpibW96QU5pNENyS3VYWTIyQlpFbzB4dw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 27 Jul 2026 05:55:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "반환",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보] 윤석열 ‘선거법 위반’ 징역형 집유…확정시 국힘 397억 반환 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vVmR2RHN6ZnlwQ0toY3BBNFlnUHZHSVduUGlENFFQaGh3S1hwSEZyVXk2ay05WkowZlBocG1KakZmUEtGZVBJWllPZFJ1WW5qazVYN0lhVEpMcmpibW96QU5pNENyS3VYWTIyQlpFbzB4dw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 27 Jul 2026 05:55:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "정성호",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정성호 법무는 사의표명 했다는데...靑 \"사실 아니다\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQXM1LWN2ZTJBVWFYQVYzQW5wTlRLQlExWVB0MVQtaG5FREhoMm52ZGltOG1IMUNvQmxiZ1cwX252MjZmV2xLTW1IWXB4a2pibE5PTGZwdm1xR1RBNUUzSU5jTWM5T1NUcEdBcjBncE1RT0VtZ3ptaXFHVjVPaTRWVHowaVVBdDdxZWlHb2pOMzU?oc=5",
+          "source": "Google News",
+          "published": "Mon, 27 Jul 2026 02:44:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "법무",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정성호 법무는 사의표명 했다는데...靑 \"사실 아니다\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQXM1LWN2ZTJBVWFYQVYzQW5wTlRLQlExWVB0MVQtaG5FREhoMm52ZGltOG1IMUNvQmxiZ1cwX252MjZmV2xLTW1IWXB4a2pibE5PTGZwdm1xR1RBNUUzSU5jTWM5T1NUcEdBcjBncE1RT0VtZ3ptaXFHVjVPaTRWVHowaVVBdDdxZWlHb2pOMzU?oc=5",
+          "source": "Google News",
+          "published": "Mon, 27 Jul 2026 02:44:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "사의표명",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정성호 법무는 사의표명 했다는데...靑 \"사실 아니다\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQXM1LWN2ZTJBVWFYQVYzQW5wTlRLQlExWVB0MVQtaG5FREhoMm52ZGltOG1IMUNvQmxiZ1cwX252MjZmV2xLTW1IWXB4a2pibE5PTGZwdm1xR1RBNUUzSU5jTWM5T1NUcEdBcjBncE1RT0VtZ3ptaXFHVjVPaTRWVHowaVVBdDdxZWlHb2pOMzU?oc=5",
+          "source": "Google News",
+          "published": "Mon, 27 Jul 2026 02:44:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "했다는데",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정성호 법무는 사의표명 했다는데...靑 \"사실 아니다\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQXM1LWN2ZTJBVWFYQVYzQW5wTlRLQlExWVB0MVQtaG5FREhoMm52ZGltOG1IMUNvQmxiZ1cwX252MjZmV2xLTW1IWXB4a2pibE5PTGZwdm1xR1RBNUUzSU5jTWM5T1NUcEdBcjBncE1RT0VtZ3ptaXFHVjVPaTRWVHowaVVBdDdxZWlHb2pOMzU?oc=5",
+          "source": "Google News",
+          "published": "Mon, 27 Jul 2026 02:44:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "아니다",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정성호 법무는 사의표명 했다는데...靑 \"사실 아니다\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQXM1LWN2ZTJBVWFYQVYzQW5wTlRLQlExWVB0MVQtaG5FREhoMm52ZGltOG1IMUNvQmxiZ1cwX252MjZmV2xLTW1IWXB4a2pibE5PTGZwdm1xR1RBNUUzSU5jTWM5T1NUcEdBcjBncE1RT0VtZ3ptaXFHVjVPaTRWVHowaVVBdDdxZWlHb2pOMzU?oc=5",
+          "source": "Google News",
+          "published": "Mon, 27 Jul 2026 02:44:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "공항",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "공항 도착 행사 및 C-390수송기 시찰 (브라질리아 공군기지) - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAxYkpFcFRzTWNpYTZRZmpxR01KdnNmWXVDVUtpbnRDNTEzVFRjckVRYTE2X2tkMGlYcmVaX1piRjlvQUV1QXVvQVJIWndPeUlEYWlGeWVtaXN6Q0FRWjFnS2pXZkxvOEp1RF9BZVUtSDNKcnIydFItaC1n?oc=5",
+          "source": "Google News",
+          "published": "Mon, 27 Jul 2026 05:00:28 GMT"
+        }
+      ]
+    },
+    {
+      "word": "도착",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "공항 도착 행사 및 C-390수송기 시찰 (브라질리아 공군기지) - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAxYkpFcFRzTWNpYTZRZmpxR01KdnNmWXVDVUtpbnRDNTEzVFRjckVRYTE2X2tkMGlYcmVaX1piRjlvQUV1QXVvQVJIWndPeUlEYWlGeWVtaXN6Q0FRWjFnS2pXZkxvOEp1RF9BZVUtSDNKcnIydFItaC1n?oc=5",
+          "source": "Google News",
+          "published": "Mon, 27 Jul 2026 05:00:28 GMT"
+        }
+      ]
+    },
+    {
+      "word": "행사",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "공항 도착 행사 및 C-390수송기 시찰 (브라질리아 공군기지) - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAxYkpFcFRzTWNpYTZRZmpxR01KdnNmWXVDVUtpbnRDNTEzVFRjckVRYTE2X2tkMGlYcmVaX1piRjlvQUV1QXVvQVJIWndPeUlEYWlGeWVtaXN6Q0FRWjFnS2pXZkxvOEp1RF9BZVUtSDNKcnIydFItaC1n?oc=5",
+          "source": "Google News",
+          "published": "Mon, 27 Jul 2026 05:00:28 GMT"
+        }
+      ]
+    },
+    {
+      "word": "C390수송기",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "공항 도착 행사 및 C-390수송기 시찰 (브라질리아 공군기지) - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAxYkpFcFRzTWNpYTZRZmpxR01KdnNmWXVDVUtpbnRDNTEzVFRjckVRYTE2X2tkMGlYcmVaX1piRjlvQUV1QXVvQVJIWndPeUlEYWlGeWVtaXN6Q0FRWjFnS2pXZkxvOEp1RF9BZVUtSDNKcnIydFItaC1n?oc=5",
+          "source": "Google News",
+          "published": "Mon, 27 Jul 2026 05:00:28 GMT"
+        }
+      ]
+    },
+    {
+      "word": "시찰",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "공항 도착 행사 및 C-390수송기 시찰 (브라질리아 공군기지) - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAxYkpFcFRzTWNpYTZRZmpxR01KdnNmWXVDVUtpbnRDNTEzVFRjckVRYTE2X2tkMGlYcmVaX1piRjlvQUV1QXVvQVJIWndPeUlEYWlGeWVtaXN6Q0FRWjFnS2pXZkxvOEp1RF9BZVUtSDNKcnIydFItaC1n?oc=5",
+          "source": "Google News",
+          "published": "Mon, 27 Jul 2026 05:00:28 GMT"
+        }
+      ]
+    },
+    {
+      "word": "브라질리아",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "공항 도착 행사 및 C-390수송기 시찰 (브라질리아 공군기지) - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAxYkpFcFRzTWNpYTZRZmpxR01KdnNmWXVDVUtpbnRDNTEzVFRjckVRYTE2X2tkMGlYcmVaX1piRjlvQUV1QXVvQVJIWndPeUlEYWlGeWVtaXN6Q0FRWjFnS2pXZkxvOEp1RF9BZVUtSDNKcnIydFItaC1n?oc=5",
+          "source": "Google News",
+          "published": "Mon, 27 Jul 2026 05:00:28 GMT"
+        }
+      ]
+    },
+    {
+      "word": "공군기지",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "공항 도착 행사 및 C-390수송기 시찰 (브라질리아 공군기지) - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAxYkpFcFRzTWNpYTZRZmpxR01KdnNmWXVDVUtpbnRDNTEzVFRjckVRYTE2X2tkMGlYcmVaX1piRjlvQUV1QXVvQVJIWndPeUlEYWlGeWVtaXN6Q0FRWjFnS2pXZkxvOEp1RF9BZVUtSDNKcnIydFItaC1n?oc=5",
+          "source": "Google News",
+          "published": "Mon, 27 Jul 2026 05:00:28 GMT"
+        }
+      ]
+    },
+    {
+      "word": "신천지",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "신천지 부인한 호남일보 국장 \"광고주일뿐, 회장도 신자 아니야\" - OhmyNews",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kRnQ1NXhzNkxnaUxsWHMtaHpwM3pVYTZ0MS1lMzlOV3RMb1JBVzJrT1d5U3FlM2lJZjg2TXBPVV9VcVQ4V2oyNXJKdlZwUjE2Rmc5bklTdEtFbzFhX1dOM3UweDRNUnpMeFB5bkNzcjFmZHdYN2RF?oc=5",
+          "source": "Google News",
+          "published": "Sun, 26 Jul 2026 22:12:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "부인",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "신천지 부인한 호남일보 국장 \"광고주일뿐, 회장도 신자 아니야\" - OhmyNews",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kRnQ1NXhzNkxnaUxsWHMtaHpwM3pVYTZ0MS1lMzlOV3RMb1JBVzJrT1d5U3FlM2lJZjg2TXBPVV9VcVQ4V2oyNXJKdlZwUjE2Rmc5bklTdEtFbzFhX1dOM3UweDRNUnpMeFB5bkNzcjFmZHdYN2RF?oc=5",
+          "source": "Google News",
+          "published": "Sun, 26 Jul 2026 22:12:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "호남일보",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "신천지 부인한 호남일보 국장 \"광고주일뿐, 회장도 신자 아니야\" - OhmyNews",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kRnQ1NXhzNkxnaUxsWHMtaHpwM3pVYTZ0MS1lMzlOV3RMb1JBVzJrT1d5U3FlM2lJZjg2TXBPVV9VcVQ4V2oyNXJKdlZwUjE2Rmc5bklTdEtFbzFhX1dOM3UweDRNUnpMeFB5bkNzcjFmZHdYN2RF?oc=5",
+          "source": "Google News",
+          "published": "Sun, 26 Jul 2026 22:12:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "국장",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "신천지 부인한 호남일보 국장 \"광고주일뿐, 회장도 신자 아니야\" - OhmyNews",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kRnQ1NXhzNkxnaUxsWHMtaHpwM3pVYTZ0MS1lMzlOV3RMb1JBVzJrT1d5U3FlM2lJZjg2TXBPVV9VcVQ4V2oyNXJKdlZwUjE2Rmc5bklTdEtFbzFhX1dOM3UweDRNUnpMeFB5bkNzcjFmZHdYN2RF?oc=5",
+          "source": "Google News",
+          "published": "Sun, 26 Jul 2026 22:12:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "광고주일",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "신천지 부인한 호남일보 국장 \"광고주일뿐, 회장도 신자 아니야\" - OhmyNews",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kRnQ1NXhzNkxnaUxsWHMtaHpwM3pVYTZ0MS1lMzlOV3RMb1JBVzJrT1d5U3FlM2lJZjg2TXBPVV9VcVQ4V2oyNXJKdlZwUjE2Rmc5bklTdEtFbzFhX1dOM3UweDRNUnpMeFB5bkNzcjFmZHdYN2RF?oc=5",
+          "source": "Google News",
+          "published": "Sun, 26 Jul 2026 22:12:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "회장",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "신천지 부인한 호남일보 국장 \"광고주일뿐, 회장도 신자 아니야\" - OhmyNews",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kRnQ1NXhzNkxnaUxsWHMtaHpwM3pVYTZ0MS1lMzlOV3RMb1JBVzJrT1d5U3FlM2lJZjg2TXBPVV9VcVQ4V2oyNXJKdlZwUjE2Rmc5bklTdEtFbzFhX1dOM3UweDRNUnpMeFB5bkNzcjFmZHdYN2RF?oc=5",
+          "source": "Google News",
+          "published": "Sun, 26 Jul 2026 22:12:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "신자",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "신천지 부인한 호남일보 국장 \"광고주일뿐, 회장도 신자 아니야\" - OhmyNews",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kRnQ1NXhzNkxnaUxsWHMtaHpwM3pVYTZ0MS1lMzlOV3RMb1JBVzJrT1d5U3FlM2lJZjg2TXBPVV9VcVQ4V2oyNXJKdlZwUjE2Rmc5bklTdEtFbzFhX1dOM3UweDRNUnpMeFB5bkNzcjFmZHdYN2RF?oc=5",
+          "source": "Google News",
+          "published": "Sun, 26 Jul 2026 22:12:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "아니야",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "신천지 부인한 호남일보 국장 \"광고주일뿐, 회장도 신자 아니야\" - OhmyNews",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kRnQ1NXhzNkxnaUxsWHMtaHpwM3pVYTZ0MS1lMzlOV3RMb1JBVzJrT1d5U3FlM2lJZjg2TXBPVV9VcVQ4V2oyNXJKdlZwUjE2Rmc5bklTdEtFbzFhX1dOM3UweDRNUnpMeFB5bkNzcjFmZHdYN2RF?oc=5",
+          "source": "Google News",
+          "published": "Sun, 26 Jul 2026 22:12:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "멱살",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "국힘 ‘멱살 소동’ 권영진 사과했지만…“탈당 안하면 징계위 회부” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VOVlnYkpkSWxLZXM1T3pvWWx0cU1lR0RyUWFyX1B4TEtzQkJNNnVtdkFocUpJN3MtR2JseWpXRkttb0tzQVdMc19TN2FXcFVhRDd5Z1RVbkFrUk1acnM0bVpCR0hKSnlOUXFqMWMtb19LdjNn?oc=5",
+          "source": "Google News",
+          "published": "Mon, 27 Jul 2026 02:51:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "소동",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "국힘 ‘멱살 소동’ 권영진 사과했지만…“탈당 안하면 징계위 회부” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VOVlnYkpkSWxLZXM1T3pvWWx0cU1lR0RyUWFyX1B4TEtzQkJNNnVtdkFocUpJN3MtR2JseWpXRkttb0tzQVdMc19TN2FXcFVhRDd5Z1RVbkFrUk1acnM0bVpCR0hKSnlOUXFqMWMtb19LdjNn?oc=5",
+          "source": "Google News",
+          "published": "Mon, 27 Jul 2026 02:51:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "권영진",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "국힘 ‘멱살 소동’ 권영진 사과했지만…“탈당 안하면 징계위 회부” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VOVlnYkpkSWxLZXM1T3pvWWx0cU1lR0RyUWFyX1B4TEtzQkJNNnVtdkFocUpJN3MtR2JseWpXRkttb0tzQVdMc19TN2FXcFVhRDd5Z1RVbkFrUk1acnM0bVpCR0hKSnlOUXFqMWMtb19LdjNn?oc=5",
+          "source": "Google News",
+          "published": "Mon, 27 Jul 2026 02:51:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "사과했지만탈당",
+      "count": 1,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "국힘 ‘멱살 소동’ 권영진 사과했지만…“탈당 안하면 징계위 회부” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VOVlnYkpkSWxLZXM1T3pvWWx0cU1lR0RyUWFyX1B4TEtzQkJNNnVtdkFocUpJN3MtR2JseWpXRkttb0tzQVdMc19TN2FXcFVhRDd5Z1RVbkFrUk1acnM0bVpCR0hKSnlOUXFqMWMtb19LdjNn?oc=5",
+          "source": "Google News",
+          "published": "Mon, 27 Jul 2026 02:51:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "안하면",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "국힘 ‘멱살 소동’ 권영진 사과했지만…“탈당 안하면 징계위 회부” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VOVlnYkpkSWxLZXM1T3pvWWx0cU1lR0RyUWFyX1B4TEtzQkJNNnVtdkFocUpJN3MtR2JseWpXRkttb0tzQVdMc19TN2FXcFVhRDd5Z1RVbkFrUk1acnM0bVpCR0hKSnlOUXFqMWMtb19LdjNn?oc=5",
+          "source": "Google News",
+          "published": "Mon, 27 Jul 2026 02:51:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "징계위",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "국힘 ‘멱살 소동’ 권영진 사과했지만…“탈당 안하면 징계위 회부” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VOVlnYkpkSWxLZXM1T3pvWWx0cU1lR0RyUWFyX1B4TEtzQkJNNnVtdkFocUpJN3MtR2JseWpXRkttb0tzQVdMc19TN2FXcFVhRDd5Z1RVbkFrUk1acnM0bVpCR0hKSnlOUXFqMWMtb19LdjNn?oc=5",
+          "source": "Google News",
+          "published": "Mon, 27 Jul 2026 02:51:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "회부",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "국힘 ‘멱살 소동’ 권영진 사과했지만…“탈당 안하면 징계위 회부” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VOVlnYkpkSWxLZXM1T3pvWWx0cU1lR0RyUWFyX1B4TEtzQkJNNnVtdkFocUpJN3MtR2JseWpXRkttb0tzQVdMc19TN2FXcFVhRDd5Z1RVbkFrUk1acnM0bVpCR0hKSnlOUXFqMWMtb19LdjNn?oc=5",
+          "source": "Google News",
+          "published": "Mon, 27 Jul 2026 02:51:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "비누칠",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "비누칠에 때밀이까지…청계천에 나타난 ’목욕 빌런’ - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hT0c2MWNHbFV3dnV4Rk5rLXhfWUVaNUNtVHlKc3Rfb1liU1dyektJUTFzbzhCd3Jsc2lubWxUSDFxRXVRdUNUMm5kMVUyTTYzbG40MEtIa0FGcnFHVy1GU2pNejk1MmM?oc=5",
+          "source": "Google News",
+          "published": "Mon, 27 Jul 2026 01:22:00 GMT"
         }
       ]
     }
