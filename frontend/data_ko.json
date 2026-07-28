@@ -1,30 +1,11 @@
 {
   "language": "ko",
-  "last_updated": 1785260483.5255876,
+  "last_updated": 1785267763.1837268,
   "count": 40,
   "trends": [
     {
-      "word": "신작",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "괴물 신작 ‘GTA6’ 출격 임박… K게임, 신작 출시 앞두고 ‘기대반 우려반’ - CEO스코어데일리",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5bWFRY3Y2T2IyRHhrVU0wdXNEVWlhdDFxemFrNTBmRENIakhYeG5feDJmdVVkOEc4NEhVT0s2NDFhZHc1Z05MVk5jLVE1SE5RcVdLTTdVQnBVYzJLWXJnemdGWVRTRjQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 28 Jul 2026 07:14:48 GMT"
-        },
-        {
-          "title": "에이버튼 신작 '건즈 앤 드래곤즈', 7월 30일부터 스팀 테스트 - 인벤",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Mb1VmYjJjNlh2eDNDaEd1bkt2cHV4R1ZacGFqS21UQkpsYUlyZTNQc0RuRVBiQVBSN00yNUlkanFNRDZzbjZYcHJUQm5JT3VxaHM4Xzl6RXlUdnotbFE?oc=5",
-          "source": "Google News",
-          "published": "Tue, 28 Jul 2026 14:00:01 GMT"
-        }
-      ]
-    },
-    {
       "word": "대통령",
-      "count": 2,
+      "count": 3,
       "category": "PERSON",
       "articles": [
         {
@@ -34,10 +15,35 @@
           "published": "Tue, 28 Jul 2026 16:27:00 GMT"
         },
         {
-          "title": "이 대통령 껴안은 룰라 ‘140분 회담’…희토류 등 협력 확대 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YX0JHMmJielloNVp5T2N6M2RSRTBoLWNWZ2pTbjRMQ1FqSmJkRFFFaTNVVE5aVTBtSDI1ZG9famlNSUxEeUtSa3NJS2REVFM5M1dyUlQyejhuelFrQW5vUzNhVXNNRGtuRXRV?oc=5",
+          "title": "이 대통령 “정상외교가 경제교류에 큰 도움”… 브라질서 순방 효과 강조 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04ckJvMHhPRDY2RlZkVmNIZ0JGdWNkN2RQVzNjdmg1Zm1BQ2ZjeTRlSW8tMXBOc2J3dDJ2ZXBxT0MzSkNIV0NfZkluZWtSeWc5OW9haUpPeTBKX1Q1em1IQnA4bGVNb05TbUZz?oc=5",
           "source": "Google News",
-          "published": "Tue, 28 Jul 2026 06:59:00 GMT"
+          "published": "Tue, 28 Jul 2026 16:48:00 GMT"
+        },
+        {
+          "title": "건진법사, 김건희에 \"윤석열, 대통령 될 것\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSG1tYi1McU9ocFVERHNpNWZ6bHlLMjhBSnRKZ3ZfZlVLOUU0V3oxMllHZTQ1azFCTUVJeGxLVDAtTTZGYmdKenp6RTdwN0ZEZWR0YlI1VXQ3clNIQW5wcHdGOVhkZ0tmN09qVlhES0N6ZlB6enQzQWVfRkk3aXlCeENBWVQwZXc?oc=5",
+          "source": "Google News",
+          "published": "Tue, 28 Jul 2026 12:32:15 GMT"
+        }
+      ]
+    },
+    {
+      "word": "트럼프",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프, 이란 전쟁에 발목 잡히기 까지…파탄난 중동 정책 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbTVqWndRQUVmdDZoUTJLQmhFLUFsZHNNRjBlVjVmM09NaGN5N2hnTlVtVmdIWkozakFmTlZzdl9FckY2YXNublgwTzNSNlNQZThieHd4TzY3YmRXZV9vWU1nWXAyUEo3dmk0bVhkTnJSMmlPUWs1Z2tFNjhzVGpRMUNn?oc=5",
+          "source": "Google News",
+          "published": "Tue, 28 Jul 2026 13:53:00 GMT"
+        },
+        {
+          "title": "네타냐후 “트럼프와 최고의 회담”…이란 핵 저지 공동의지 재확인 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xWVBUQ3F6VG5BTExSaGJ1N2Q3a3dmcVNvY1UzWGoxaVBvaFZydm9Ua1RCNUllbUtEZ0h1b1Y3bmRjRnJiTk16NTBIaUpQU0J0NDBka3hwNDd4a3RJbl9NdzF3RDBhLTVtWUxlX05relhlTmPSAWZBVV95cUxPYzh0Y0tFMTVjY1lQcGxRS0REazBMdG1tX1A0U0FQdVBZYU8zWkFIYW1nWTRRYmlBZGlyN1B2QWZvczR2cmV1SFJ2Nk5VbHVpR0FMaXA2VFBwMFl2SE0tTDNYeVhJZGc?oc=5",
+          "source": "Google News",
+          "published": "Tue, 28 Jul 2026 19:22:37 GMT"
         }
       ]
     },
@@ -53,34 +59,15 @@
           "published": "Tue, 28 Jul 2026 13:53:00 GMT"
         },
         {
-          "title": "‘트럼프-네타냐후’ 백악관 회담 예정… 이란 핵·협상 향방 논의 - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNVFscnhHc1AzNndKRlV4ZV9nZ2VVZ3lyLUtGS1EtMjVaNWRqbkplQjhZVHZkWlU4SzhXVDJRR2U1SjFqRWhjMzNyRDRvbjcxZ3B6S2NiNWRWQkdIUGxXVFJ5Y0NZTEwycE1FWHFvdjdpMVhNVHAyRl96Nl9jTEFSOGpzVjF2anlMbTBidEhlbXVmQ1BVRkE3MFFlcWY1aEtD0gGjAUFVX3lxTE9EYnR5TmkwOV9felZvT3p2b1ZmSlgtdExRRThpSUk4VVRaQ0NiUUlrZExOS3ExQkJFWVVTekRZMDhUVHRLQ19wdUtMUzBWenRScklhaDNCOWJkMWNlb0xsVUxDMjRQem1HQ0YySDNpbXRKZWRqN0E4V1BERWQwMXRsLUlPNmlvWW93RGRiOGUtZUpBQlZfb2NES1BZRkY3RXVhMFE?oc=5",
+          "title": "이란, 오만에 호르무즈 해협 자국 통제구역 확장안 제안 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04ZEJVNm81V1VfblZFdXdvM1lFUjdoSUU4TzM5ZG5oMXl6NXZhaUM5V3pTVjdxMDZwTlpnQkJvblR2anhIS3RMS1prdkZ1MURuRl9FM0x1d0hqYjg?oc=5",
           "source": "Google News",
-          "published": "Tue, 28 Jul 2026 13:56:47 GMT"
+          "published": "Tue, 28 Jul 2026 19:29:00 GMT"
         }
       ]
     },
     {
-      "word": "중동",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프, 이란 전쟁에 발목 잡히기 까지…파탄난 중동 정책 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbTVqWndRQUVmdDZoUTJLQmhFLUFsZHNNRjBlVjVmM09NaGN5N2hnTlVtVmdIWkozakFmTlZzdl9FckY2YXNublgwTzNSNlNQZThieHd4TzY3YmRXZV9vWU1nWXAyUEo3dmk0bVhkTnJSMmlPUWs1Z2tFNjhzVGpRMUNn?oc=5",
-          "source": "Google News",
-          "published": "Tue, 28 Jul 2026 13:53:00 GMT"
-        },
-        {
-          "title": "중동 재위기에 또 나프타 대란?… 정부 \"8월까지 넉넉\" - 한국일보",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmOUNZS25PaGtCZTR2Z0NGTlBGM2JNQU5CSTJVSXRaV2NONnlLQnZvaEd6VEJJZHBjUUR6V1J1am9ydDNkS3RWeXBGTDVDeGZrVzMwLV9FWTFaX2hGWkxJUmxFRW1qbFZQOFZWdk9n0gFzQVVfeXFMTXdBSFpnTm5POXZDVVZfcDlKcXFYdDk2ajBmcl90cHhYNVRfaW9ISEw1NHIyRmRJaUFndHRVN1B0LWtxbk5KTUhSMkFzemxBWXRaZy1vejFvbFdTYUtzSVVDb0lIMERRc1MzUFI1ODBXbVRudw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 28 Jul 2026 06:46:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "삼전닉스",
+      "word": "반도체",
       "count": 2,
       "category": "NOUN",
       "articles": [
@@ -91,74 +78,42 @@
           "published": "Tue, 28 Jul 2026 12:01:00 GMT"
         },
         {
-          "title": "\"설마 했는데\" 중국산 메모리 대공습에 삼전닉스 '휘청'…코스피 8% 폭락 - 아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GV19RUm95b0FrbVBVVExzelE1RUN3MTBfbVVwNW1ZcENmYTBMRXB5TVZUSlpXMXZqS25mZEJDYTdSd0s1SEM1NHBtSkVGdWN2ajVWUG5ZVWx4c200MVEtXw?oc=5",
+          "title": "‘중국 반도체 자립’ 신호탄…CXMT 상장에 첨단 노광장비도 직접 생산 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLQV8ta2dMV0RpcEhaLTl2UzlIUVQ5Z2F0U3Nqa2JBaWp2cDY3cDJVS2JOM3hjSG9EY0dWeXU1bk5Ka0dlVUNDX3JQQTJvdnlxcndKQXBSUmd0ZW9yN1B6eXVRTWZCYXVuVTM5LQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 28 Jul 2026 01:34:06 GMT"
+          "published": "Tue, 28 Jul 2026 10:59:00 GMT"
         }
       ]
     },
     {
-      "word": "출격",
+      "word": "게임",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "스마일게이트 '카제나', 시즌4 신규 전투원 '힐데' 29일 출격 - 게임뷰",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aM3dJaUZMb18yRWpvV195UGIxczFVSjZ0aWN2aXhaN1BwSlhuX2w3WFZBeWdCbTR3QmNmTDVDVFBEVkd0ekxnUVl6Q1hCRklCNjZCOGhKaWNxVHAwUjVWUUdQVzdUZ0pzbnc?oc=5",
+          "title": "AMD Adrenalin Edition 드라이버 26.7.1에 그래픽 카드 지원 기능이 추가되었습니다. Radeon RX 9050과 새로운 게임들 - GameGPU",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSWYzTlRIQ2wzcU0xdUluMl9fMVU3cWVNMFlUZ3lZYTd4MkpXUVMxV1FXTXRBMTZPNlFZNFZIRFc3YTEtbUZhMlNMenIyOTFuRlE2OG1MaExPcGxOX3l3NnB4bGFIYVJ3VlJhS1RiSFU1cUFZZC00VlZMckpBcm81Y1h3bXFtd3liSnE4cjhsaU1yY2RwcUthSHlOVkEtUEV6d2FQX1VZa0lmTk9Lc1lUTlg1OFhVUTF1ZVc5S2x3VWs2NWY4ZVhUUg?oc=5",
           "source": "Google News",
-          "published": "Tue, 28 Jul 2026 14:20:00 GMT"
+          "published": "Tue, 28 Jul 2026 15:14:45 GMT"
         },
         {
-          "title": "괴물 신작 ‘GTA6’ 출격 임박… K게임, 신작 출시 앞두고 ‘기대반 우려반’ - CEO스코어데일리",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5bWFRY3Y2T2IyRHhrVU0wdXNEVWlhdDFxemFrNTBmRENIakhYeG5feDJmdVVkOEc4NEhVT0s2NDFhZHc1Z05MVk5jLVE1SE5RcVdLTTdVQnBVYzJLWXJnemdGWVRTRjQ?oc=5",
+          "title": "PlayStation Plus 8월 무료 게임 목록이 발표되었습니다 - GameGPU",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWk1HTnRpX1E2TE1WOUlzQnMyMU5QbzJWZWdNcl9KZkZjeHNKNWdDWmtkWmpic0d5MndYdkg5U1BwdlBKWGZqOTdFTFJvMlFoQ3o4bmR2YnBKbmF5TE9zVncxakwyLUJyMFJ0dFJ1VGd0RnJvS1NoVmVTTVVaazBxYXdkTzBoS0kzSzNrWUcxQ0tfZzhnNUdKanQwbHU0UQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 28 Jul 2026 07:14:48 GMT"
+          "published": "Tue, 28 Jul 2026 18:16:29 GMT"
         }
       ]
     },
     {
-      "word": "감독",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "BTS 정국이 '호프' 혼영 후기를 남겼고, 나홍진 감독이 반응했다 - 엘르 코리아 │ ELLE KOREA",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wMkRMNUhaYThxWUJvVEVWX0dIV1VjUUE1X3c3dndzdDkycFRxYU9uVV9QOS1nTjFQRzN2aDBSZHd1Qjhmckt4U0VjWlJlQ3c?oc=5",
-          "source": "Google News",
-          "published": "Tue, 28 Jul 2026 02:52:59 GMT"
-        },
-        {
-          "title": "감독 없는 축구대표팀, 10월 A매치 상대 베네수엘라· 우즈베키스탄 확정 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MZ0Z3NENKMkQyekJrRzk5RGRMMTJVM2l5elJyNzNiUml6TXRUbVUtOFViLWpudUhfd1RrQnJNVDd2YW1KT2MxamRNcEEwOHFxREdKTk5nejR2V3dDeXc?oc=5",
-          "source": "Google News",
-          "published": "Tue, 28 Jul 2026 14:13:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "일본",
+      "word": "구마모토",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "일본 구마모토서 7.1 강진에 쇼핑몰 폭발···“다수 사망” 보도도 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BWTQ1b2pMdG9QQnAtQzFBTXg5T3JPZE5sMWVlWWJZOU9NOFlaTEVweUZBQ0ttcHRFbGhLZ2xSekdobUtyem52dFNkYlA2c3JOQU1qMU51VFFEd9IBX0FVX3lxTE5MVHczSXVkVFZzakN2dHBPS0M5ZGUwbnB6QzdqNzVkQ0dwZHRhekplRVl1bDFwS2tGWG8tenpSQlBDQnd4LVFad2NaYTYyM0dYbDE1QjhaVlFPN1Fsak44?oc=5",
+          "title": "日구마모토 강진에 쇼핑몰 붕괴…경찰 “다수 숨진 듯” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhOVBEekJLZFBtOHd2alVQaWM4R3lYSmR5MzlGNzNsaWdERFpOUVd5c0ZBSFlYR0t1N2JkTG1uR3lZb0tENzB1V2xfalNGcGNHZnVVYVNUc1YwTGp6NG5yeGRGaTZXY0wtci1TNG1lUHJiQ2PSAWZBVV95cUxPQl9sYUdRZk5fLW1UdlRGMHJVdzBMRDZsbUFEUGdLbmRiODVaS19qX1ZNTjRnbGx3SVg1cVl4UTN2Mkt1b2RTX2dYS21wZlFzSERQT0Rzd0xKVWZDbElaZ2d4QTVSOGc?oc=5",
           "source": "Google News",
-          "published": "Tue, 28 Jul 2026 10:47:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "구마모토서",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "일본 구마모토서 7.1 강진에 쇼핑몰 폭발···“다수 사망” 보도도 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BWTQ1b2pMdG9QQnAtQzFBTXg5T3JPZE5sMWVlWWJZOU9NOFlaTEVweUZBQ0ttcHRFbGhLZ2xSekdobUtyem52dFNkYlA2c3JOQU1qMU51VFFEd9IBX0FVX3lxTE5MVHczSXVkVFZzakN2dHBPS0M5ZGUwbnB6QzdqNzVkQ0dwZHRhekplRVl1bDFwS2tGWG8tenpSQlBDQnd4LVFad2NaYTYyM0dYbDE1QjhaVlFPN1Fsak44?oc=5",
-          "source": "Google News",
-          "published": "Tue, 28 Jul 2026 10:47:00 GMT"
+          "published": "Tue, 28 Jul 2026 14:16:50 GMT"
         }
       ]
     },
@@ -168,10 +123,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "일본 구마모토서 7.1 강진에 쇼핑몰 폭발···“다수 사망” 보도도 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BWTQ1b2pMdG9QQnAtQzFBTXg5T3JPZE5sMWVlWWJZOU9NOFlaTEVweUZBQ0ttcHRFbGhLZ2xSekdobUtyem52dFNkYlA2c3JOQU1qMU51VFFEd9IBX0FVX3lxTE5MVHczSXVkVFZzakN2dHBPS0M5ZGUwbnB6QzdqNzVkQ0dwZHRhekplRVl1bDFwS2tGWG8tenpSQlBDQnd4LVFad2NaYTYyM0dYbDE1QjhaVlFPN1Fsak44?oc=5",
+          "title": "日구마모토 강진에 쇼핑몰 붕괴…경찰 “다수 숨진 듯” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhOVBEekJLZFBtOHd2alVQaWM4R3lYSmR5MzlGNzNsaWdERFpOUVd5c0ZBSFlYR0t1N2JkTG1uR3lZb0tENzB1V2xfalNGcGNHZnVVYVNUc1YwTGp6NG5yeGRGaTZXY0wtci1TNG1lUHJiQ2PSAWZBVV95cUxPQl9sYUdRZk5fLW1UdlRGMHJVdzBMRDZsbUFEUGdLbmRiODVaS19qX1ZNTjRnbGx3SVg1cVl4UTN2Mkt1b2RTX2dYS21wZlFzSERQT0Rzd0xKVWZDbElaZ2d4QTVSOGc?oc=5",
           "source": "Google News",
-          "published": "Tue, 28 Jul 2026 10:47:00 GMT"
+          "published": "Tue, 28 Jul 2026 14:16:50 GMT"
         }
       ]
     },
@@ -181,36 +136,49 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "일본 구마모토서 7.1 강진에 쇼핑몰 폭발···“다수 사망” 보도도 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BWTQ1b2pMdG9QQnAtQzFBTXg5T3JPZE5sMWVlWWJZOU9NOFlaTEVweUZBQ0ttcHRFbGhLZ2xSekdobUtyem52dFNkYlA2c3JOQU1qMU51VFFEd9IBX0FVX3lxTE5MVHczSXVkVFZzakN2dHBPS0M5ZGUwbnB6QzdqNzVkQ0dwZHRhekplRVl1bDFwS2tGWG8tenpSQlBDQnd4LVFad2NaYTYyM0dYbDE1QjhaVlFPN1Fsak44?oc=5",
+          "title": "日구마모토 강진에 쇼핑몰 붕괴…경찰 “다수 숨진 듯” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhOVBEekJLZFBtOHd2alVQaWM4R3lYSmR5MzlGNzNsaWdERFpOUVd5c0ZBSFlYR0t1N2JkTG1uR3lZb0tENzB1V2xfalNGcGNHZnVVYVNUc1YwTGp6NG5yeGRGaTZXY0wtci1TNG1lUHJiQ2PSAWZBVV95cUxPQl9sYUdRZk5fLW1UdlRGMHJVdzBMRDZsbUFEUGdLbmRiODVaS19qX1ZNTjRnbGx3SVg1cVl4UTN2Mkt1b2RTX2dYS21wZlFzSERQT0Rzd0xKVWZDbElaZ2d4QTVSOGc?oc=5",
           "source": "Google News",
-          "published": "Tue, 28 Jul 2026 10:47:00 GMT"
+          "published": "Tue, 28 Jul 2026 14:16:50 GMT"
         }
       ]
     },
     {
-      "word": "폭발다수",
+      "word": "붕괴경찰",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "일본 구마모토서 7.1 강진에 쇼핑몰 폭발···“다수 사망” 보도도 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BWTQ1b2pMdG9QQnAtQzFBTXg5T3JPZE5sMWVlWWJZOU9NOFlaTEVweUZBQ0ttcHRFbGhLZ2xSekdobUtyem52dFNkYlA2c3JOQU1qMU51VFFEd9IBX0FVX3lxTE5MVHczSXVkVFZzakN2dHBPS0M5ZGUwbnB6QzdqNzVkQ0dwZHRhekplRVl1bDFwS2tGWG8tenpSQlBDQnd4LVFad2NaYTYyM0dYbDE1QjhaVlFPN1Fsak44?oc=5",
+          "title": "日구마모토 강진에 쇼핑몰 붕괴…경찰 “다수 숨진 듯” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhOVBEekJLZFBtOHd2alVQaWM4R3lYSmR5MzlGNzNsaWdERFpOUVd5c0ZBSFlYR0t1N2JkTG1uR3lZb0tENzB1V2xfalNGcGNHZnVVYVNUc1YwTGp6NG5yeGRGaTZXY0wtci1TNG1lUHJiQ2PSAWZBVV95cUxPQl9sYUdRZk5fLW1UdlRGMHJVdzBMRDZsbUFEUGdLbmRiODVaS19qX1ZNTjRnbGx3SVg1cVl4UTN2Mkt1b2RTX2dYS21wZlFzSERQT0Rzd0xKVWZDbElaZ2d4QTVSOGc?oc=5",
           "source": "Google News",
-          "published": "Tue, 28 Jul 2026 10:47:00 GMT"
+          "published": "Tue, 28 Jul 2026 14:16:50 GMT"
         }
       ]
     },
     {
-      "word": "사망",
+      "word": "다수",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "일본 구마모토서 7.1 강진에 쇼핑몰 폭발···“다수 사망” 보도도 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BWTQ1b2pMdG9QQnAtQzFBTXg5T3JPZE5sMWVlWWJZOU9NOFlaTEVweUZBQ0ttcHRFbGhLZ2xSekdobUtyem52dFNkYlA2c3JOQU1qMU51VFFEd9IBX0FVX3lxTE5MVHczSXVkVFZzakN2dHBPS0M5ZGUwbnB6QzdqNzVkQ0dwZHRhekplRVl1bDFwS2tGWG8tenpSQlBDQnd4LVFad2NaYTYyM0dYbDE1QjhaVlFPN1Fsak44?oc=5",
+          "title": "日구마모토 강진에 쇼핑몰 붕괴…경찰 “다수 숨진 듯” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhOVBEekJLZFBtOHd2alVQaWM4R3lYSmR5MzlGNzNsaWdERFpOUVd5c0ZBSFlYR0t1N2JkTG1uR3lZb0tENzB1V2xfalNGcGNHZnVVYVNUc1YwTGp6NG5yeGRGaTZXY0wtci1TNG1lUHJiQ2PSAWZBVV95cUxPQl9sYUdRZk5fLW1UdlRGMHJVdzBMRDZsbUFEUGdLbmRiODVaS19qX1ZNTjRnbGx3SVg1cVl4UTN2Mkt1b2RTX2dYS21wZlFzSERQT0Rzd0xKVWZDbElaZ2d4QTVSOGc?oc=5",
           "source": "Google News",
-          "published": "Tue, 28 Jul 2026 10:47:00 GMT"
+          "published": "Tue, 28 Jul 2026 14:16:50 GMT"
+        }
+      ]
+    },
+    {
+      "word": "숨진",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "日구마모토 강진에 쇼핑몰 붕괴…경찰 “다수 숨진 듯” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhOVBEekJLZFBtOHd2alVQaWM4R3lYSmR5MzlGNzNsaWdERFpOUVd5c0ZBSFlYR0t1N2JkTG1uR3lZb0tENzB1V2xfalNGcGNHZnVVYVNUc1YwTGp6NG5yeGRGaTZXY0wtci1TNG1lUHJiQ2PSAWZBVV95cUxPQl9sYUdRZk5fLW1UdlRGMHJVdzBMRDZsbUFEUGdLbmRiODVaS19qX1ZNTjRnbGx3SVg1cVl4UTN2Mkt1b2RTX2dYS21wZlFzSERQT0Rzd0xKVWZDbElaZ2d4QTVSOGc?oc=5",
+          "source": "Google News",
+          "published": "Tue, 28 Jul 2026 14:16:50 GMT"
         }
       ]
     },
@@ -397,171 +365,197 @@
       ]
     },
     {
-      "word": "권영진",
+      "word": "민주당",
       "count": 1,
-      "category": "NOUN",
+      "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "권영진 징계 놓고 국힘 설전…조은희 “기회 줘야” 유영하 “조직 무너져” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VUGtoVi1fV0xjdmRRTkFXcTlyZDNMRk5ldDJBR25SaWpteURTaVN0YUNzNmI1WWJFZGhJVXU5Y1dVdXRJaDJOM2JVMlozbzVaQ0VwWEpRa0VteV9PbWRCdDctYkdCaHJWQlZuQmhaUUhMYVNqalhZ0gFmQVVfeXFMTXpCdzYtWVU5N2wtSmtUTG9ib2EwdDhoT1VBYjgzRGFQbTVXdl9yQ05FSlpKQW1OZklJSGhFZ1dKVnRnMHN0QVFUREV1eGo2dHl3dVJXYU5NMWZJcUdyUjJhN0FnLXZB?oc=5",
+          "title": "민주당까지 가세한···경찰, ‘미성년자 성매수 혐의’ 최영중 전 청주시의원 구속영장 신청 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLSlNXZzN0MXlKYkUzZDVUU19HSkNWbDRRSGUzclNVTF80RFdTRE1jSGFRQzRyLUt3WVJxa2ItV2xaNVo2ZU02d01tcG50elA5VEdIeVJVb3ZEd9IBX0FVX3lxTE5MYXZzWm54cTB4VEU3OENHd0d5dTlUOXp6SGhURXg2QUxXTDBnaFdCUl9vbGxjSDFnRjZ4Y3poZ2Zhd0l0WDlsVW5RMHBvdFMxQnREWVd6TjIyWFdaLTZV?oc=5",
           "source": "Google News",
-          "published": "Tue, 28 Jul 2026 01:33:00 GMT"
+          "published": "Tue, 28 Jul 2026 05:24:00 GMT"
         }
       ]
     },
     {
-      "word": "징계",
+      "word": "가세한경찰",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "권영진 징계 놓고 국힘 설전…조은희 “기회 줘야” 유영하 “조직 무너져” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VUGtoVi1fV0xjdmRRTkFXcTlyZDNMRk5ldDJBR25SaWpteURTaVN0YUNzNmI1WWJFZGhJVXU5Y1dVdXRJaDJOM2JVMlozbzVaQ0VwWEpRa0VteV9PbWRCdDctYkdCaHJWQlZuQmhaUUhMYVNqalhZ0gFmQVVfeXFMTXpCdzYtWVU5N2wtSmtUTG9ib2EwdDhoT1VBYjgzRGFQbTVXdl9yQ05FSlpKQW1OZklJSGhFZ1dKVnRnMHN0QVFUREV1eGo2dHl3dVJXYU5NMWZJcUdyUjJhN0FnLXZB?oc=5",
+          "title": "민주당까지 가세한···경찰, ‘미성년자 성매수 혐의’ 최영중 전 청주시의원 구속영장 신청 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLSlNXZzN0MXlKYkUzZDVUU19HSkNWbDRRSGUzclNVTF80RFdTRE1jSGFRQzRyLUt3WVJxa2ItV2xaNVo2ZU02d01tcG50elA5VEdIeVJVb3ZEd9IBX0FVX3lxTE5MYXZzWm54cTB4VEU3OENHd0d5dTlUOXp6SGhURXg2QUxXTDBnaFdCUl9vbGxjSDFnRjZ4Y3poZ2Zhd0l0WDlsVW5RMHBvdFMxQnREWVd6TjIyWFdaLTZV?oc=5",
           "source": "Google News",
-          "published": "Tue, 28 Jul 2026 01:33:00 GMT"
+          "published": "Tue, 28 Jul 2026 05:24:00 GMT"
         }
       ]
     },
     {
-      "word": "놓고",
+      "word": "미성년자",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "권영진 징계 놓고 국힘 설전…조은희 “기회 줘야” 유영하 “조직 무너져” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VUGtoVi1fV0xjdmRRTkFXcTlyZDNMRk5ldDJBR25SaWpteURTaVN0YUNzNmI1WWJFZGhJVXU5Y1dVdXRJaDJOM2JVMlozbzVaQ0VwWEpRa0VteV9PbWRCdDctYkdCaHJWQlZuQmhaUUhMYVNqalhZ0gFmQVVfeXFMTXpCdzYtWVU5N2wtSmtUTG9ib2EwdDhoT1VBYjgzRGFQbTVXdl9yQ05FSlpKQW1OZklJSGhFZ1dKVnRnMHN0QVFUREV1eGo2dHl3dVJXYU5NMWZJcUdyUjJhN0FnLXZB?oc=5",
+          "title": "민주당까지 가세한···경찰, ‘미성년자 성매수 혐의’ 최영중 전 청주시의원 구속영장 신청 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLSlNXZzN0MXlKYkUzZDVUU19HSkNWbDRRSGUzclNVTF80RFdTRE1jSGFRQzRyLUt3WVJxa2ItV2xaNVo2ZU02d01tcG50elA5VEdIeVJVb3ZEd9IBX0FVX3lxTE5MYXZzWm54cTB4VEU3OENHd0d5dTlUOXp6SGhURXg2QUxXTDBnaFdCUl9vbGxjSDFnRjZ4Y3poZ2Zhd0l0WDlsVW5RMHBvdFMxQnREWVd6TjIyWFdaLTZV?oc=5",
           "source": "Google News",
-          "published": "Tue, 28 Jul 2026 01:33:00 GMT"
+          "published": "Tue, 28 Jul 2026 05:24:00 GMT"
         }
       ]
     },
     {
-      "word": "국힘",
+      "word": "성매수",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "권영진 징계 놓고 국힘 설전…조은희 “기회 줘야” 유영하 “조직 무너져” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VUGtoVi1fV0xjdmRRTkFXcTlyZDNMRk5ldDJBR25SaWpteURTaVN0YUNzNmI1WWJFZGhJVXU5Y1dVdXRJaDJOM2JVMlozbzVaQ0VwWEpRa0VteV9PbWRCdDctYkdCaHJWQlZuQmhaUUhMYVNqalhZ0gFmQVVfeXFMTXpCdzYtWVU5N2wtSmtUTG9ib2EwdDhoT1VBYjgzRGFQbTVXdl9yQ05FSlpKQW1OZklJSGhFZ1dKVnRnMHN0QVFUREV1eGo2dHl3dVJXYU5NMWZJcUdyUjJhN0FnLXZB?oc=5",
+          "title": "민주당까지 가세한···경찰, ‘미성년자 성매수 혐의’ 최영중 전 청주시의원 구속영장 신청 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLSlNXZzN0MXlKYkUzZDVUU19HSkNWbDRRSGUzclNVTF80RFdTRE1jSGFRQzRyLUt3WVJxa2ItV2xaNVo2ZU02d01tcG50elA5VEdIeVJVb3ZEd9IBX0FVX3lxTE5MYXZzWm54cTB4VEU3OENHd0d5dTlUOXp6SGhURXg2QUxXTDBnaFdCUl9vbGxjSDFnRjZ4Y3poZ2Zhd0l0WDlsVW5RMHBvdFMxQnREWVd6TjIyWFdaLTZV?oc=5",
           "source": "Google News",
-          "published": "Tue, 28 Jul 2026 01:33:00 GMT"
+          "published": "Tue, 28 Jul 2026 05:24:00 GMT"
         }
       ]
     },
     {
-      "word": "설전조은희",
+      "word": "혐의",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "권영진 징계 놓고 국힘 설전…조은희 “기회 줘야” 유영하 “조직 무너져” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VUGtoVi1fV0xjdmRRTkFXcTlyZDNMRk5ldDJBR25SaWpteURTaVN0YUNzNmI1WWJFZGhJVXU5Y1dVdXRJaDJOM2JVMlozbzVaQ0VwWEpRa0VteV9PbWRCdDctYkdCaHJWQlZuQmhaUUhMYVNqalhZ0gFmQVVfeXFMTXpCdzYtWVU5N2wtSmtUTG9ib2EwdDhoT1VBYjgzRGFQbTVXdl9yQ05FSlpKQW1OZklJSGhFZ1dKVnRnMHN0QVFUREV1eGo2dHl3dVJXYU5NMWZJcUdyUjJhN0FnLXZB?oc=5",
+          "title": "민주당까지 가세한···경찰, ‘미성년자 성매수 혐의’ 최영중 전 청주시의원 구속영장 신청 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLSlNXZzN0MXlKYkUzZDVUU19HSkNWbDRRSGUzclNVTF80RFdTRE1jSGFRQzRyLUt3WVJxa2ItV2xaNVo2ZU02d01tcG50elA5VEdIeVJVb3ZEd9IBX0FVX3lxTE5MYXZzWm54cTB4VEU3OENHd0d5dTlUOXp6SGhURXg2QUxXTDBnaFdCUl9vbGxjSDFnRjZ4Y3poZ2Zhd0l0WDlsVW5RMHBvdFMxQnREWVd6TjIyWFdaLTZV?oc=5",
           "source": "Google News",
-          "published": "Tue, 28 Jul 2026 01:33:00 GMT"
+          "published": "Tue, 28 Jul 2026 05:24:00 GMT"
         }
       ]
     },
     {
-      "word": "기회",
+      "word": "최영중",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "권영진 징계 놓고 국힘 설전…조은희 “기회 줘야” 유영하 “조직 무너져” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VUGtoVi1fV0xjdmRRTkFXcTlyZDNMRk5ldDJBR25SaWpteURTaVN0YUNzNmI1WWJFZGhJVXU5Y1dVdXRJaDJOM2JVMlozbzVaQ0VwWEpRa0VteV9PbWRCdDctYkdCaHJWQlZuQmhaUUhMYVNqalhZ0gFmQVVfeXFMTXpCdzYtWVU5N2wtSmtUTG9ib2EwdDhoT1VBYjgzRGFQbTVXdl9yQ05FSlpKQW1OZklJSGhFZ1dKVnRnMHN0QVFUREV1eGo2dHl3dVJXYU5NMWZJcUdyUjJhN0FnLXZB?oc=5",
+          "title": "민주당까지 가세한···경찰, ‘미성년자 성매수 혐의’ 최영중 전 청주시의원 구속영장 신청 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLSlNXZzN0MXlKYkUzZDVUU19HSkNWbDRRSGUzclNVTF80RFdTRE1jSGFRQzRyLUt3WVJxa2ItV2xaNVo2ZU02d01tcG50elA5VEdIeVJVb3ZEd9IBX0FVX3lxTE5MYXZzWm54cTB4VEU3OENHd0d5dTlUOXp6SGhURXg2QUxXTDBnaFdCUl9vbGxjSDFnRjZ4Y3poZ2Zhd0l0WDlsVW5RMHBvdFMxQnREWVd6TjIyWFdaLTZV?oc=5",
           "source": "Google News",
-          "published": "Tue, 28 Jul 2026 01:33:00 GMT"
+          "published": "Tue, 28 Jul 2026 05:24:00 GMT"
         }
       ]
     },
     {
-      "word": "줘야",
+      "word": "청주시의원",
       "count": 1,
-      "category": "NOUN",
+      "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "권영진 징계 놓고 국힘 설전…조은희 “기회 줘야” 유영하 “조직 무너져” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VUGtoVi1fV0xjdmRRTkFXcTlyZDNMRk5ldDJBR25SaWpteURTaVN0YUNzNmI1WWJFZGhJVXU5Y1dVdXRJaDJOM2JVMlozbzVaQ0VwWEpRa0VteV9PbWRCdDctYkdCaHJWQlZuQmhaUUhMYVNqalhZ0gFmQVVfeXFMTXpCdzYtWVU5N2wtSmtUTG9ib2EwdDhoT1VBYjgzRGFQbTVXdl9yQ05FSlpKQW1OZklJSGhFZ1dKVnRnMHN0QVFUREV1eGo2dHl3dVJXYU5NMWZJcUdyUjJhN0FnLXZB?oc=5",
+          "title": "민주당까지 가세한···경찰, ‘미성년자 성매수 혐의’ 최영중 전 청주시의원 구속영장 신청 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLSlNXZzN0MXlKYkUzZDVUU19HSkNWbDRRSGUzclNVTF80RFdTRE1jSGFRQzRyLUt3WVJxa2ItV2xaNVo2ZU02d01tcG50elA5VEdIeVJVb3ZEd9IBX0FVX3lxTE5MYXZzWm54cTB4VEU3OENHd0d5dTlUOXp6SGhURXg2QUxXTDBnaFdCUl9vbGxjSDFnRjZ4Y3poZ2Zhd0l0WDlsVW5RMHBvdFMxQnREWVd6TjIyWFdaLTZV?oc=5",
           "source": "Google News",
-          "published": "Tue, 28 Jul 2026 01:33:00 GMT"
+          "published": "Tue, 28 Jul 2026 05:24:00 GMT"
         }
       ]
     },
     {
-      "word": "유영",
+      "word": "구속영장",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "권영진 징계 놓고 국힘 설전…조은희 “기회 줘야” 유영하 “조직 무너져” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VUGtoVi1fV0xjdmRRTkFXcTlyZDNMRk5ldDJBR25SaWpteURTaVN0YUNzNmI1WWJFZGhJVXU5Y1dVdXRJaDJOM2JVMlozbzVaQ0VwWEpRa0VteV9PbWRCdDctYkdCaHJWQlZuQmhaUUhMYVNqalhZ0gFmQVVfeXFMTXpCdzYtWVU5N2wtSmtUTG9ib2EwdDhoT1VBYjgzRGFQbTVXdl9yQ05FSlpKQW1OZklJSGhFZ1dKVnRnMHN0QVFUREV1eGo2dHl3dVJXYU5NMWZJcUdyUjJhN0FnLXZB?oc=5",
+          "title": "민주당까지 가세한···경찰, ‘미성년자 성매수 혐의’ 최영중 전 청주시의원 구속영장 신청 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLSlNXZzN0MXlKYkUzZDVUU19HSkNWbDRRSGUzclNVTF80RFdTRE1jSGFRQzRyLUt3WVJxa2ItV2xaNVo2ZU02d01tcG50elA5VEdIeVJVb3ZEd9IBX0FVX3lxTE5MYXZzWm54cTB4VEU3OENHd0d5dTlUOXp6SGhURXg2QUxXTDBnaFdCUl9vbGxjSDFnRjZ4Y3poZ2Zhd0l0WDlsVW5RMHBvdFMxQnREWVd6TjIyWFdaLTZV?oc=5",
           "source": "Google News",
-          "published": "Tue, 28 Jul 2026 01:33:00 GMT"
+          "published": "Tue, 28 Jul 2026 05:24:00 GMT"
         }
       ]
     },
     {
-      "word": "조직",
+      "word": "신청",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "권영진 징계 놓고 국힘 설전…조은희 “기회 줘야” 유영하 “조직 무너져” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VUGtoVi1fV0xjdmRRTkFXcTlyZDNMRk5ldDJBR25SaWpteURTaVN0YUNzNmI1WWJFZGhJVXU5Y1dVdXRJaDJOM2JVMlozbzVaQ0VwWEpRa0VteV9PbWRCdDctYkdCaHJWQlZuQmhaUUhMYVNqalhZ0gFmQVVfeXFMTXpCdzYtWVU5N2wtSmtUTG9ib2EwdDhoT1VBYjgzRGFQbTVXdl9yQ05FSlpKQW1OZklJSGhFZ1dKVnRnMHN0QVFUREV1eGo2dHl3dVJXYU5NMWZJcUdyUjJhN0FnLXZB?oc=5",
+          "title": "민주당까지 가세한···경찰, ‘미성년자 성매수 혐의’ 최영중 전 청주시의원 구속영장 신청 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLSlNXZzN0MXlKYkUzZDVUU19HSkNWbDRRSGUzclNVTF80RFdTRE1jSGFRQzRyLUt3WVJxa2ItV2xaNVo2ZU02d01tcG50elA5VEdIeVJVb3ZEd9IBX0FVX3lxTE5MYXZzWm54cTB4VEU3OENHd0d5dTlUOXp6SGhURXg2QUxXTDBnaFdCUl9vbGxjSDFnRjZ4Y3poZ2Zhd0l0WDlsVW5RMHBvdFMxQnREWVd6TjIyWFdaLTZV?oc=5",
           "source": "Google News",
-          "published": "Tue, 28 Jul 2026 01:33:00 GMT"
+          "published": "Tue, 28 Jul 2026 05:24:00 GMT"
         }
       ]
     },
     {
-      "word": "무너져",
+      "word": "전쟁",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "권영진 징계 놓고 국힘 설전…조은희 “기회 줘야” 유영하 “조직 무너져” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VUGtoVi1fV0xjdmRRTkFXcTlyZDNMRk5ldDJBR25SaWpteURTaVN0YUNzNmI1WWJFZGhJVXU5Y1dVdXRJaDJOM2JVMlozbzVaQ0VwWEpRa0VteV9PbWRCdDctYkdCaHJWQlZuQmhaUUhMYVNqalhZ0gFmQVVfeXFMTXpCdzYtWVU5N2wtSmtUTG9ib2EwdDhoT1VBYjgzRGFQbTVXdl9yQ05FSlpKQW1OZklJSGhFZ1dKVnRnMHN0QVFUREV1eGo2dHl3dVJXYU5NMWZJcUdyUjJhN0FnLXZB?oc=5",
+          "title": "트럼프, 이란 전쟁에 발목 잡히기 까지…파탄난 중동 정책 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbTVqWndRQUVmdDZoUTJLQmhFLUFsZHNNRjBlVjVmM09NaGN5N2hnTlVtVmdIWkozakFmTlZzdl9FckY2YXNublgwTzNSNlNQZThieHd4TzY3YmRXZV9vWU1nWXAyUEo3dmk0bVhkTnJSMmlPUWs1Z2tFNjhzVGpRMUNn?oc=5",
           "source": "Google News",
-          "published": "Tue, 28 Jul 2026 01:33:00 GMT"
+          "published": "Tue, 28 Jul 2026 13:53:00 GMT"
         }
       ]
     },
     {
-      "word": "경찰",
+      "word": "발목",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "경찰, ‘중학생 성매매’ 혐의 최영중 전 청주시의원 구속영장 신청 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hVnY1YWtwTXZfR3VHakxKRHhpSDhJSlN6bXkwWDhrTzR2Sm1XaXV0aWwyRVBGbzdmRzVoa1lmb3lZeVFseEpET0FhLUNibE5DVmRZbWpUUGlYWW9wemZnZnpma2M1SkVq?oc=5",
+          "title": "트럼프, 이란 전쟁에 발목 잡히기 까지…파탄난 중동 정책 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbTVqWndRQUVmdDZoUTJLQmhFLUFsZHNNRjBlVjVmM09NaGN5N2hnTlVtVmdIWkozakFmTlZzdl9FckY2YXNublgwTzNSNlNQZThieHd4TzY3YmRXZV9vWU1nWXAyUEo3dmk0bVhkTnJSMmlPUWs1Z2tFNjhzVGpRMUNn?oc=5",
           "source": "Google News",
-          "published": "Tue, 28 Jul 2026 10:13:00 GMT"
+          "published": "Tue, 28 Jul 2026 13:53:00 GMT"
         }
       ]
     },
     {
-      "word": "중학생",
+      "word": "잡히기",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "경찰, ‘중학생 성매매’ 혐의 최영중 전 청주시의원 구속영장 신청 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hVnY1YWtwTXZfR3VHakxKRHhpSDhJSlN6bXkwWDhrTzR2Sm1XaXV0aWwyRVBGbzdmRzVoa1lmb3lZeVFseEpET0FhLUNibE5DVmRZbWpUUGlYWW9wemZnZnpma2M1SkVq?oc=5",
+          "title": "트럼프, 이란 전쟁에 발목 잡히기 까지…파탄난 중동 정책 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbTVqWndRQUVmdDZoUTJLQmhFLUFsZHNNRjBlVjVmM09NaGN5N2hnTlVtVmdIWkozakFmTlZzdl9FckY2YXNublgwTzNSNlNQZThieHd4TzY3YmRXZV9vWU1nWXAyUEo3dmk0bVhkTnJSMmlPUWs1Z2tFNjhzVGpRMUNn?oc=5",
           "source": "Google News",
-          "published": "Tue, 28 Jul 2026 10:13:00 GMT"
+          "published": "Tue, 28 Jul 2026 13:53:00 GMT"
         }
       ]
     },
     {
-      "word": "성매매",
+      "word": "까지파탄난",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "경찰, ‘중학생 성매매’ 혐의 최영중 전 청주시의원 구속영장 신청 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hVnY1YWtwTXZfR3VHakxKRHhpSDhJSlN6bXkwWDhrTzR2Sm1XaXV0aWwyRVBGbzdmRzVoa1lmb3lZeVFseEpET0FhLUNibE5DVmRZbWpUUGlYWW9wemZnZnpma2M1SkVq?oc=5",
+          "title": "트럼프, 이란 전쟁에 발목 잡히기 까지…파탄난 중동 정책 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbTVqWndRQUVmdDZoUTJLQmhFLUFsZHNNRjBlVjVmM09NaGN5N2hnTlVtVmdIWkozakFmTlZzdl9FckY2YXNublgwTzNSNlNQZThieHd4TzY3YmRXZV9vWU1nWXAyUEo3dmk0bVhkTnJSMmlPUWs1Z2tFNjhzVGpRMUNn?oc=5",
           "source": "Google News",
-          "published": "Tue, 28 Jul 2026 10:13:00 GMT"
+          "published": "Tue, 28 Jul 2026 13:53:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "중동",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프, 이란 전쟁에 발목 잡히기 까지…파탄난 중동 정책 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbTVqWndRQUVmdDZoUTJLQmhFLUFsZHNNRjBlVjVmM09NaGN5N2hnTlVtVmdIWkozakFmTlZzdl9FckY2YXNublgwTzNSNlNQZThieHd4TzY3YmRXZV9vWU1nWXAyUEo3dmk0bVhkTnJSMmlPUWs1Z2tFNjhzVGpRMUNn?oc=5",
+          "source": "Google News",
+          "published": "Tue, 28 Jul 2026 13:53:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "정책",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프, 이란 전쟁에 발목 잡히기 까지…파탄난 중동 정책 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbTVqWndRQUVmdDZoUTJLQmhFLUFsZHNNRjBlVjVmM09NaGN5N2hnTlVtVmdIWkozakFmTlZzdl9FckY2YXNublgwTzNSNlNQZThieHd4TzY3YmRXZV9vWU1nWXAyUEo3dmk0bVhkTnJSMmlPUWs1Z2tFNjhzVGpRMUNn?oc=5",
+          "source": "Google News",
+          "published": "Tue, 28 Jul 2026 13:53:00 GMT"
         }
       ]
     }
