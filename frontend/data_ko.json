@@ -1,75 +1,24 @@
 {
   "language": "ko",
-  "last_updated": 1785380047.8573384,
+  "last_updated": 1785390592.013415,
   "count": 40,
   "trends": [
     {
-      "word": "위험",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "오늘 부산·창원 39도 ‘위험한 폭염’…밤에도 25도 이상 열대야 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EdTVtR0xIZ1lzSGRRQjdneGFpOVQxUHB6eXdwZEtnSnNTVkNEaXJYZGplaE05TURBeTFMRlJOTm9MQjNad2ZnOGNJV3RXVVZIcDhDWnpVQkY0Y2VWSHFsdmxjd0VPR2dRNklBMQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 00:26:00 GMT"
-        },
-        {
-          "title": "금연 후 체중 5% 이상 줄면 고관절 골절 위험 1.88배 증가 - 간호사신문",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1UUN6WmVDNVhtVDlVdE1VdW14aXhCYmh2d2pTcER1d3ltWENjeTZvZnpsSWRfakRBMTNmaFNwSlhWSHpaVnN3MnM0RHdXM3dUM3pIWHBKcTJrTkJjaHJYTlQ5WFJtbUtVSDNhTVVn?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 02:07:54 GMT"
-        }
-      ]
-    },
-    {
-      "word": "이상",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "오늘 부산·창원 39도 ‘위험한 폭염’…밤에도 25도 이상 열대야 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EdTVtR0xIZ1lzSGRRQjdneGFpOVQxUHB6eXdwZEtnSnNTVkNEaXJYZGplaE05TURBeTFMRlJOTm9MQjNad2ZnOGNJV3RXVVZIcDhDWnpVQkY0Y2VWSHFsdmxjd0VPR2dRNklBMQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 00:26:00 GMT"
-        },
-        {
-          "title": "금연 후 체중 5% 이상 줄면 고관절 골절 위험 1.88배 증가 - 간호사신문",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1UUN6WmVDNVhtVDlVdE1VdW14aXhCYmh2d2pTcER1d3ltWENjeTZvZnpsSWRfakRBMTNmaFNwSlhWSHpaVnN3MnM0RHdXM3dUM3pIWHBKcTJrTkJjaHJYTlQ5WFJtbUtVSDNhTVVn?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 02:07:54 GMT"
-        }
-      ]
-    },
-    {
-      "word": "한국",
-      "count": 2,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "[한국은 지금] 청와대 \"현직 대통령 연임 개헌 불가능\"...논란 진화 나서 - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KTGxfUHBqY1JVNm10OHByOF9UV09zT01VTVRtRVVwT3lkMHlST0p0b2pRb0YxalRtbWZZeTBJaWljRWpLdTdZcHg0NVRfUF91UU9oSi1URW9LMWRDSUx0TEJlSjIxb2fSAWpBVV95cUxQUDA1U0ZlN2hHbHNMMndwRGN0NU56Q01sNjZBbkxQRnFxMmhqTFIzdTlPM1JKeHg1WFRRMzkyT3p2UFlISjVmYkw5TlJZUXBwS2tyZWxwb2NWcTAxMkVoc1FYazh3ZmdDemtB?oc=5",
-          "source": "Google News",
-          "published": "Wed, 29 Jul 2026 14:57:20 GMT"
-        },
-        {
-          "title": "이 대통령, 칠레 동포 만나 “한국 첫 FTA 파트너…소중한 동반자” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zanBjR2Q2aE5wek95dldqdTNHYjhtY0YwUE1HS0VQV1Y5NWlZaVFnLU1kVzQ3UTlRbHFYdkM5R3NQaXVuZVp5MWhlSzE2WEF5MmtRT0RYanl0dGVqa2p2Zlc0SExsaldVLTBj?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 00:54:00 GMT"
-        }
-      ]
-    },
-    {
       "word": "대통령",
-      "count": 2,
+      "count": 3,
       "category": "PERSON",
       "articles": [
         {
-          "title": "[한국은 지금] 청와대 \"현직 대통령 연임 개헌 불가능\"...논란 진화 나서 - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KTGxfUHBqY1JVNm10OHByOF9UV09zT01VTVRtRVVwT3lkMHlST0p0b2pRb0YxalRtbWZZeTBJaWljRWpLdTdZcHg0NVRfUF91UU9oSi1URW9LMWRDSUx0TEJlSjIxb2fSAWpBVV95cUxQUDA1U0ZlN2hHbHNMMndwRGN0NU56Q01sNjZBbkxQRnFxMmhqTFIzdTlPM1JKeHg1WFRRMzkyT3p2UFlISjVmYkw5TlJZUXBwS2tyZWxwb2NWcTAxMkVoc1FYazh3ZmdDemtB?oc=5",
+          "title": "이 대통령 공격 국힘에 “공소기각 새 제도 아냐” 법사위 내 반박 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMcGVqb3FmR3pOYzFBbnBHdi10UmI0WXYzNU5tTnNPQXZaMUxtRUZoakNSVDVlQklaZ3VZYkZJdXFVc1VZVlFmbmo2ZHU0Y09SMmt3Yy1PZ1h3cUJhcG1jVU1BbF8wLWYzMFE?oc=5",
           "source": "Google News",
-          "published": "Wed, 29 Jul 2026 14:57:20 GMT"
+          "published": "Thu, 30 Jul 2026 02:55:00 GMT"
+        },
+        {
+          "title": "’연임 개헌’ 논란에 박홍근 “대통령 국정에 부담주는 발언…안타까워“ - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iTGV3RE82QnhibFZmVm9HMmpXRWMtTjVpeTFzWTF5T3ZtMzJRd1VLa2pFQWFIMFl4RXpnZGZtRW43enNycENBbVlib1A1eFdya284WkNfaC1peVBqUGRCMGlkRUM1eEE?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 02:12:00 GMT"
         },
         {
           "title": "이 대통령, 칠레 동포 만나 “한국 첫 FTA 파트너…소중한 동반자” - 한겨레",
@@ -80,40 +29,59 @@
       ]
     },
     {
-      "word": "이란",
+      "word": "공격",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이란, 미·사우디 이라크 공습 규탄…AFP \"최소 5명 사망\" - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xcVRVdUwtYV9ZZVdHTzRXdE91T3VoMlEyelJ5cmdHRnJobUlyWVFzaFhtT0dWZ0g2bENMQkZIaGZ2Y2lTMWRVTXJoeHRLWVBPa2o3MTk5ckViSzhPaXFyWUEtdGZZMms?oc=5",
+          "title": "이 대통령 공격 국힘에 “공소기각 새 제도 아냐” 법사위 내 반박 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMcGVqb3FmR3pOYzFBbnBHdi10UmI0WXYzNU5tTnNPQXZaMUxtRUZoakNSVDVlQklaZ3VZYkZJdXFVc1VZVlFmbmo2ZHU0Y09SMmt3Yy1PZ1h3cUJhcG1jVU1BbF8wLWYzMFE?oc=5",
           "source": "Google News",
-          "published": "Wed, 29 Jul 2026 21:41:00 GMT"
+          "published": "Thu, 30 Jul 2026 02:55:00 GMT"
         },
         {
-          "title": "트럼프 “이란 매우 강하게 타격할 것”…사우디 참전·지중해 확전 우려 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43M1NvMGEyc3ROYmNzU2doeWNaU0p2VEZhc0xqTE9MWkJ5M0JMYlNJdEk0S2RLQ2s2dlRMUGp1YVBTUkFrVVdCQlg5NDBfZmxXblVKbWVoMl9FcllmM2tnVWpfdm5MM0FoNF82b0JFbw?oc=5",
+          "title": "트럼프·네타냐후 만난 날 … 이란, 미군기지 '기습 공격' - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Ua2s3dmdnNEx2c2NVTkhDRGRvYVpTcTJkdXlmZWlMV01GVVREdzQwdS0zMEN3NzUtWG9RSEhNQS1JWUdOdzhtNk43eWp6NFZMbkE?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 00:09:00 GMT"
+          "published": "Wed, 29 Jul 2026 09:00:17 GMT"
         }
       ]
     },
     {
-      "word": "트럼프",
+      "word": "아냐",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 “이란 매우 강하게 타격할 것”…사우디 참전·지중해 확전 우려 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43M1NvMGEyc3ROYmNzU2doeWNaU0p2VEZhc0xqTE9MWkJ5M0JMYlNJdEk0S2RLQ2s2dlRMUGp1YVBTUkFrVVdCQlg5NDBfZmxXblVKbWVoMl9FcllmM2tnVWpfdm5MM0FoNF82b0JFbw?oc=5",
+          "title": "이 대통령 공격 국힘에 “공소기각 새 제도 아냐” 법사위 내 반박 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMcGVqb3FmR3pOYzFBbnBHdi10UmI0WXYzNU5tTnNPQXZaMUxtRUZoakNSVDVlQklaZ3VZYkZJdXFVc1VZVlFmbmo2ZHU0Y09SMmt3Yy1PZ1h3cUJhcG1jVU1BbF8wLWYzMFE?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 00:09:00 GMT"
+          "published": "Thu, 30 Jul 2026 02:55:00 GMT"
         },
         {
-          "title": "승자 좋아하는 트럼프, 전황 호전되니 젤렌스키에 호감 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oaHFWenhQM3EzUEpEYmQ5cDNfQ29vdWRkSUljTGhDNVZWeTY2N09Xb1lsSlpYdkZrejA2VXpWN2ppVWxSVlVaUm5oZGtqNHZzbUhOdVlaejdVVWfSAWBBVV95cUxOVDUzSUVEeTRxUlBEVzVuT2piNEN4ZDNoU1dmYVJIZHlTREhYenFOYWdkZ2lmUWNETFlRbzlGVG1pY3FDb3VHY0F6RzhTb1lwX3gySEEzMnRTWTJ2c3pITnY?oc=5",
+          "title": "‘BTS 보이콧’에 놀란 그래미 CEO…“아시안 팝 신설, 분열 아냐” - 채널A",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95MEFXRGhEMGdPbC1ScXlCS1FvQ19EcU10N0VBU1p1TnQ2dkVtT3lRZjRVT0FHNk5VY1Z0OVpwa1QwZTExRTNZUF85bURndzVBUUV1bHQyLVhoQW40VFHSAWNBVV95cUxQMHg0REtEakRoQy02N1VESC1XLXJOOXdwLTI0cnhVU0xGbmZDNzQzb05PWUdBRGluSTFjVFpENTlMVTRWLTdmQlJGbmEwQnFvZWtOWXFXWndBM3VPUzNCSDNRam8?oc=5",
           "source": "Google News",
-          "published": "Wed, 29 Jul 2026 01:35:12 GMT"
+          "published": "Thu, 30 Jul 2026 02:19:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "논의",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "사우디 국방장관, 밴스 부통령과 회담…\"이란전 논의\" - newspim.com",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IZnVINFpHcHBYeGhNUG41MVpnUnMzMl9EeDZpUnpRMDRkdjRnUUxmNzkwMmRCektsZ0pldmxCbnp4ZlNtUjRBajJxWkIzc3hhZHBTTWp6cjBIMHJu?oc=5",
+          "source": "Google News",
+          "published": "Wed, 29 Jul 2026 23:35:00 GMT"
+        },
+        {
+          "title": "정부, 호르무즈 군 자산 지원 검토‥해상초계기·구축함 등 논의 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43TFh0dm54VkJ6dGNqcmdtTGZOQkJpUDVsQWppUlU2c1dCWG5WbWJPczBnUXhFTTZBYWtNQThpZF9SVDAxWG9JQUlXejFsX0FRdks2V3U5b0N3a240T3p2dG54T1huU0xGcTlDeUlBVmtWUUQwbFlXRdIBeEFVX3lxTE5Kc0dqNGdpVVhzYk5aUzlKQjQ1M21ycThsN3lzajQ4bkJLdnhIeVlRRmZXMjF0alZaV3ZIcGtqOHFCcjlmSDJJOVl4NjFjTGhxMWtnS0p5UUdfOUFseVF1eVkwNUtCb1RYMl9XRDI4czhjWGJDQUVNMg?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 01:46:33 GMT"
         }
       ]
     },
@@ -129,94 +97,100 @@
           "published": "Tue, 28 Jul 2026 09:46:53 GMT"
         },
         {
-          "title": "휴가철 낙상, 괜찮겠지?…골다공증환자에겐 '첫 골절'이 가장 위험하다 - 헬스경향",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12TDBZdEpxTWx6UmRQQUx3Nnl2M0xWMGpfRmdPTmwyVU1LM1JVYUROb1RIYVBOc19CMXJVUUFuc0llNmtkai1Oa045T254TWIzQU9XX2VZVkRDOHB5bzVhclQ0MTJNdFZvM3E4?oc=5",
+          "title": "이강인, 데뷔 전부터 '대박'…ATM 역사상 유니폼 가장 많이 팔렸다 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1MUVNLW5ITEgxaV9sVUtFR2pKTWxYT1Q4RTZ6UDFMam1CQVYzVVlYZmFlUS0xMFE3T3M5OUZoNlh1Y21KZGtwbkZFbFE0Sjg4U2cxanFidG9JQQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 29 Jul 2026 23:06:00 GMT"
+          "published": "Wed, 29 Jul 2026 23:47:36 GMT"
         }
       ]
     },
     {
-      "word": "영업이익",
+      "word": "장중",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보] 삼성전자 반도체 영업이익만 89조원…전체 영업이익의 99% - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fVGZyZTJsdExLNjZQWXhSZmQ3Yl9DMUZTb1hHWVpBMHB4ZkxKNy1RdzQ0NmR2SVZEaWl6TWdFSzN3RnFWRXozMHNnQUVGeVVsQS1uTFJSZlE5V1VGbXpOODlRLVlhaFNpV0E?oc=5",
+          "title": "연이틀 폭락한 코스피, 장중 4∼5% 반등해 6천피 탈환 시도 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IRDNjVG91czhCWnlrZVBJYVRUcE1YRUluWGs0dm01bTFvQWxCOVpIaHBrMDNLbHJDNmpLVHJDNkZuZU9fem1oOHFfM2tWRkNCTDgzNkRpLVNta2dCRTBSaEZMdFpSWkE?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 00:15:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "골절",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "금연 후 체중 5% 이상 줄면 고관절 골절 위험 1.88배 증가 - 간호사신문",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1UUN6WmVDNVhtVDlVdE1VdW14aXhCYmh2d2pTcER1d3ltWENjeTZvZnpsSWRfakRBMTNmaFNwSlhWSHpaVnN3MnM0RHdXM3dUM3pIWHBKcTJrTkJjaHJYTlQ5WFJtbUtVSDNhTVVn?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 02:07:54 GMT"
+          "published": "Thu, 30 Jul 2026 02:19:00 GMT"
         },
         {
-          "title": "휴가철 낙상, 괜찮겠지?…골다공증환자에겐 '첫 골절'이 가장 위험하다 - 헬스경향",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12TDBZdEpxTWx6UmRQQUx3Nnl2M0xWMGpfRmdPTmwyVU1LM1JVYUROb1RIYVBOc19CMXJVUUFuc0llNmtkai1Oa045T254TWIzQU9XX2VZVkRDOHB5bzVhclQ0MTJNdFZvM3E4?oc=5",
+          "title": "미 연준 금리 동결…원/달러 환율 장중 1,430원대로 하락 - 한국무역협회-KITA.NET",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObmx6NllqdFFlekpDbTRKUHdmZzZ6dHVIcXBpU3BueVZvbk1QbldaSHBpTFlLMGtIVnJoWXdieWE3TkNKbV9hUU5rOE1BbGFVVHpTTXhjLXdEcGowYlJwSklsUjZaMWJPT0hEVXBGZXJKWDlZTFhPNFMwVXlic3JPZVV4N01CY1NYM0l1bzhDQ0dWdW1QWXlhLTZrTWJaYzItUHNIQkVNZ0NvYkRtWWlvbTBjQ1o1RXRkR2FrWVliVDVtMHF3dHFiMGp6S2h4NnJ6TXc3dnh3?oc=5",
           "source": "Google News",
-          "published": "Wed, 29 Jul 2026 23:06:00 GMT"
+          "published": "Thu, 30 Jul 2026 04:01:54 GMT"
         }
       ]
     },
     {
-      "word": "정청래",
+      "word": "국내",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "커세어, 게이밍 키보드·무선 마우스 신제품 국내 선보여 - 로이슈",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53cS1VOGN2RFVjT2pDRDN0SFlTVDJtUHlBMlIxLUZuYUNlbGNwQUEyeHREd09ySjQxM3otbVpvNHlzMUlmUWJZZ2dtU09VMUx6cFpBTGdndjBVTHB2MVI2OXpzbFZYa3JvVXp1WHJIZjNRcDVZOHFz?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 01:26:41 GMT"
+        },
+        {
+          "title": "게임피아, 쿠산: 늑대들의 도시 패키지 7월 30일 국내 출시 - 베타뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GcEw1aUJZSlY3Njk5MU1lSWZiei1SQ0p3cEdNTl9DeF9QbzZ5V2ltUTVsYldkSTZsTVBGUjl0M3FXYUNDeWl5NzdVTVRlQzhCeG9pQ2NZUGpTNTJldElNaUl0TjE?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 01:12:26 GMT"
+        }
+      ]
+    },
+    {
+      "word": "MLS",
+      "count": 2,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "[MLS] 손흥민, 생애 첫 올스타전서 '찰칵 찰칵' 멀티골, MLS 올스타도 역전승 - newspim.com",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SblphT1hkRWxtbkxxNE0yTDVYNnZrSlJoaU1rX29WODlqRS13MkRuTE1mT2UzdjhKbnFCRWlOMEc2WnVjTE5ZdDRzTThHNW0yNW1LWno4WjhzcXZZ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 03:10:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "찰칵",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[MLS] 손흥민, 생애 첫 올스타전서 '찰칵 찰칵' 멀티골, MLS 올스타도 역전승 - newspim.com",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SblphT1hkRWxtbkxxNE0yTDVYNnZrSlJoaU1rX29WODlqRS13MkRuTE1mT2UzdjhKbnFCRWlOMEc2WnVjTE5ZdDRzTThHNW0yNW1LWno4WjhzcXZZ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 03:10:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "정청래김민석",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "정청래 21% 김민석 19% 송영길 6%…민주당 대표 적합도 [NBS] - 한겨레",
+          "title": "정청래·김민석 ‘민주당 대표 적합도’, 국민도 지지층도 오차범위 내 [NBS] - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qYlZickJraGxraEZVZi1HeHFtZ0xIOTdpU2ZZT2U4amU0VjdoZVBMNk9zaGZLbHFRMEk4bjltcm40OUJKZUpQSjBwZ0FBdGFGOFdPNXEzb184Ri1fZ000WkV1ZHJnTVpWVHNsLW9DODJFVFV5?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 02:31:00 GMT"
+          "published": "Thu, 30 Jul 2026 04:55:00 GMT"
         }
       ]
     },
     {
-      "word": "김민석",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "정청래 21% 김민석 19% 송영길 6%…민주당 대표 적합도 [NBS] - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qYlZickJraGxraEZVZi1HeHFtZ0xIOTdpU2ZZT2U4amU0VjdoZVBMNk9zaGZLbHFRMEk4bjltcm40OUJKZUpQSjBwZ0FBdGFGOFdPNXEzb184Ri1fZ000WkV1ZHJnTVpWVHNsLW9DODJFVFV5?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 02:31:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "송영길",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "정청래 21% 김민석 19% 송영길 6%…민주당 대표 적합도 [NBS] - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qYlZickJraGxraEZVZi1HeHFtZ0xIOTdpU2ZZT2U4amU0VjdoZVBMNk9zaGZLbHFRMEk4bjltcm40OUJKZUpQSjBwZ0FBdGFGOFdPNXEzb184Ri1fZ000WkV1ZHJnTVpWVHNsLW9DODJFVFV5?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 02:31:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "6민주당",
+      "word": "민주당",
       "count": 1,
       "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "정청래 21% 김민석 19% 송영길 6%…민주당 대표 적합도 [NBS] - 한겨레",
+          "title": "정청래·김민석 ‘민주당 대표 적합도’, 국민도 지지층도 오차범위 내 [NBS] - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qYlZickJraGxraEZVZi1HeHFtZ0xIOTdpU2ZZT2U4amU0VjdoZVBMNk9zaGZLbHFRMEk4bjltcm40OUJKZUpQSjBwZ0FBdGFGOFdPNXEzb184Ri1fZ000WkV1ZHJnTVpWVHNsLW9DODJFVFV5?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 02:31:00 GMT"
+          "published": "Thu, 30 Jul 2026 04:55:00 GMT"
         }
       ]
     },
@@ -226,10 +200,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "정청래 21% 김민석 19% 송영길 6%…민주당 대표 적합도 [NBS] - 한겨레",
+          "title": "정청래·김민석 ‘민주당 대표 적합도’, 국민도 지지층도 오차범위 내 [NBS] - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qYlZickJraGxraEZVZi1HeHFtZ0xIOTdpU2ZZT2U4amU0VjdoZVBMNk9zaGZLbHFRMEk4bjltcm40OUJKZUpQSjBwZ0FBdGFGOFdPNXEzb184Ri1fZ000WkV1ZHJnTVpWVHNsLW9DODJFVFV5?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 02:31:00 GMT"
+          "published": "Thu, 30 Jul 2026 04:55:00 GMT"
         }
       ]
     },
@@ -239,10 +213,49 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "정청래 21% 김민석 19% 송영길 6%…민주당 대표 적합도 [NBS] - 한겨레",
+          "title": "정청래·김민석 ‘민주당 대표 적합도’, 국민도 지지층도 오차범위 내 [NBS] - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qYlZickJraGxraEZVZi1HeHFtZ0xIOTdpU2ZZT2U4amU0VjdoZVBMNk9zaGZLbHFRMEk4bjltcm40OUJKZUpQSjBwZ0FBdGFGOFdPNXEzb184Ri1fZ000WkV1ZHJnTVpWVHNsLW9DODJFVFV5?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 02:31:00 GMT"
+          "published": "Thu, 30 Jul 2026 04:55:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "국민",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정청래·김민석 ‘민주당 대표 적합도’, 국민도 지지층도 오차범위 내 [NBS] - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qYlZickJraGxraEZVZi1HeHFtZ0xIOTdpU2ZZT2U4amU0VjdoZVBMNk9zaGZLbHFRMEk4bjltcm40OUJKZUpQSjBwZ0FBdGFGOFdPNXEzb184Ri1fZ000WkV1ZHJnTVpWVHNsLW9DODJFVFV5?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 04:55:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "지지층",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정청래·김민석 ‘민주당 대표 적합도’, 국민도 지지층도 오차범위 내 [NBS] - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qYlZickJraGxraEZVZi1HeHFtZ0xIOTdpU2ZZT2U4amU0VjdoZVBMNk9zaGZLbHFRMEk4bjltcm40OUJKZUpQSjBwZ0FBdGFGOFdPNXEzb184Ri1fZ000WkV1ZHJnTVpWVHNsLW9DODJFVFV5?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 04:55:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "오차범위",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정청래·김민석 ‘민주당 대표 적합도’, 국민도 지지층도 오차범위 내 [NBS] - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qYlZickJraGxraEZVZi1HeHFtZ0xIOTdpU2ZZT2U4amU0VjdoZVBMNk9zaGZLbHFRMEk4bjltcm40OUJKZUpQSjBwZ0FBdGFGOFdPNXEzb184Ri1fZ000WkV1ZHJnTVpWVHNsLW9DODJFVFV5?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 04:55:00 GMT"
         }
       ]
     },
@@ -252,322 +265,309 @@
       "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "정청래 21% 김민석 19% 송영길 6%…민주당 대표 적합도 [NBS] - 한겨레",
+          "title": "정청래·김민석 ‘민주당 대표 적합도’, 국민도 지지층도 오차범위 내 [NBS] - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qYlZickJraGxraEZVZi1HeHFtZ0xIOTdpU2ZZT2U4amU0VjdoZVBMNk9zaGZLbHFRMEk4bjltcm40OUJKZUpQSjBwZ0FBdGFGOFdPNXEzb184Ri1fZ000WkV1ZHJnTVpWVHNsLW9DODJFVFV5?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 02:31:00 GMT"
+          "published": "Thu, 30 Jul 2026 04:55:00 GMT"
         }
       ]
     },
     {
-      "word": "부산창원",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "오늘 부산·창원 39도 ‘위험한 폭염’…밤에도 25도 이상 열대야 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EdTVtR0xIZ1lzSGRRQjdneGFpOVQxUHB6eXdwZEtnSnNTVkNEaXJYZGplaE05TURBeTFMRlJOTm9MQjNad2ZnOGNJV3RXVVZIcDhDWnpVQkY0Y2VWSHFsdmxjd0VPR2dRNklBMQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 00:26:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "39",
+      "word": "경찰",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "오늘 부산·창원 39도 ‘위험한 폭염’…밤에도 25도 이상 열대야 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EdTVtR0xIZ1lzSGRRQjdneGFpOVQxUHB6eXdwZEtnSnNTVkNEaXJYZGplaE05TURBeTFMRlJOTm9MQjNad2ZnOGNJV3RXVVZIcDhDWnpVQkY0Y2VWSHFsdmxjd0VPR2dRNklBMQ?oc=5",
+          "title": "경찰, 인천 물류센터 화재 관련 쿠팡 사무실 압수수색 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVMHY2VnFMYXlmamUxUHY3Q3JiQ1dxdVBSMVpQY3d0YTNoV3h0X2xnT1ZhSFpiUDdQamRPOXRjbUk5UWJKdFNhWkZGRkhETjJNdW53bG44dFhlTVNxQm53QVR3RzU1T0tsT3F5ZGVUNWh1ckVEeFdr0gF3QVVfeXFMTTd5cG1uLWdQaVRkTjRoMkJlRDJZQmZzdjdJRGpNNTFVNzdUVHR0UE5kZ2dMR0RmRVZQa1dZSnNTdTBlYmhjbmF3ZHhycHJCbzhMc3p2cTdIVzZBd0tFYU1OazZPcUlrbmlYS1V6bXhWdU42N3JBRG8?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 00:26:00 GMT"
+          "published": "Thu, 30 Jul 2026 02:25:11 GMT"
         }
       ]
     },
     {
-      "word": "폭염밤",
+      "word": "인천",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "오늘 부산·창원 39도 ‘위험한 폭염’…밤에도 25도 이상 열대야 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EdTVtR0xIZ1lzSGRRQjdneGFpOVQxUHB6eXdwZEtnSnNTVkNEaXJYZGplaE05TURBeTFMRlJOTm9MQjNad2ZnOGNJV3RXVVZIcDhDWnpVQkY0Y2VWSHFsdmxjd0VPR2dRNklBMQ?oc=5",
+          "title": "경찰, 인천 물류센터 화재 관련 쿠팡 사무실 압수수색 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVMHY2VnFMYXlmamUxUHY3Q3JiQ1dxdVBSMVpQY3d0YTNoV3h0X2xnT1ZhSFpiUDdQamRPOXRjbUk5UWJKdFNhWkZGRkhETjJNdW53bG44dFhlTVNxQm53QVR3RzU1T0tsT3F5ZGVUNWh1ckVEeFdr0gF3QVVfeXFMTTd5cG1uLWdQaVRkTjRoMkJlRDJZQmZzdjdJRGpNNTFVNzdUVHR0UE5kZ2dMR0RmRVZQa1dZSnNTdTBlYmhjbmF3ZHhycHJCbzhMc3p2cTdIVzZBd0tFYU1OazZPcUlrbmlYS1V6bXhWdU42N3JBRG8?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 00:26:00 GMT"
+          "published": "Thu, 30 Jul 2026 02:25:11 GMT"
         }
       ]
     },
     {
-      "word": "25",
+      "word": "물류센터",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "오늘 부산·창원 39도 ‘위험한 폭염’…밤에도 25도 이상 열대야 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EdTVtR0xIZ1lzSGRRQjdneGFpOVQxUHB6eXdwZEtnSnNTVkNEaXJYZGplaE05TURBeTFMRlJOTm9MQjNad2ZnOGNJV3RXVVZIcDhDWnpVQkY0Y2VWSHFsdmxjd0VPR2dRNklBMQ?oc=5",
+          "title": "경찰, 인천 물류센터 화재 관련 쿠팡 사무실 압수수색 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVMHY2VnFMYXlmamUxUHY3Q3JiQ1dxdVBSMVpQY3d0YTNoV3h0X2xnT1ZhSFpiUDdQamRPOXRjbUk5UWJKdFNhWkZGRkhETjJNdW53bG44dFhlTVNxQm53QVR3RzU1T0tsT3F5ZGVUNWh1ckVEeFdr0gF3QVVfeXFMTTd5cG1uLWdQaVRkTjRoMkJlRDJZQmZzdjdJRGpNNTFVNzdUVHR0UE5kZ2dMR0RmRVZQa1dZSnNTdTBlYmhjbmF3ZHhycHJCbzhMc3p2cTdIVzZBd0tFYU1OazZPcUlrbmlYS1V6bXhWdU42N3JBRG8?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 00:26:00 GMT"
+          "published": "Thu, 30 Jul 2026 02:25:11 GMT"
         }
       ]
     },
     {
-      "word": "열대야",
+      "word": "화재",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "오늘 부산·창원 39도 ‘위험한 폭염’…밤에도 25도 이상 열대야 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EdTVtR0xIZ1lzSGRRQjdneGFpOVQxUHB6eXdwZEtnSnNTVkNEaXJYZGplaE05TURBeTFMRlJOTm9MQjNad2ZnOGNJV3RXVVZIcDhDWnpVQkY0Y2VWSHFsdmxjd0VPR2dRNklBMQ?oc=5",
+          "title": "경찰, 인천 물류센터 화재 관련 쿠팡 사무실 압수수색 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVMHY2VnFMYXlmamUxUHY3Q3JiQ1dxdVBSMVpQY3d0YTNoV3h0X2xnT1ZhSFpiUDdQamRPOXRjbUk5UWJKdFNhWkZGRkhETjJNdW53bG44dFhlTVNxQm53QVR3RzU1T0tsT3F5ZGVUNWh1ckVEeFdr0gF3QVVfeXFMTTd5cG1uLWdQaVRkTjRoMkJlRDJZQmZzdjdJRGpNNTFVNzdUVHR0UE5kZ2dMR0RmRVZQa1dZSnNTdTBlYmhjbmF3ZHhycHJCbzhMc3p2cTdIVzZBd0tFYU1OazZPcUlrbmlYS1V6bXhWdU42N3JBRG8?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 00:26:00 GMT"
+          "published": "Thu, 30 Jul 2026 02:25:11 GMT"
         }
       ]
     },
     {
-      "word": "단독범인",
+      "word": "쿠팡",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[단독]범인 놓쳐도 경고, 수사 뭉개도 견책…정말 보완수사 ‘요구권’으로 충분할까[형소법 개정] - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xYjgzdVNRenpNR2VSUWxQcEpCUHBKNHRKbTlDVTRqNTJuZ1lvQWNRLWJ3dUIxNmdaRnlXdVNKNHdEUW5vMjUwNVp2XzFoV0xMbnNkRDU1bEl5UdIBX0FVX3lxTE1uOF9DNGpMRnNKdjJBWlFFekhMT0gyb0tFUHRLd1pKWFlQMVFJTjIxRzJIdkgtd1VWU2VrZC1uZUJzZDRRT21Hc0lnVDhDeU1ZNjBUMjF4QUdnYUl1ek00?oc=5",
+          "title": "경찰, 인천 물류센터 화재 관련 쿠팡 사무실 압수수색 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVMHY2VnFMYXlmamUxUHY3Q3JiQ1dxdVBSMVpQY3d0YTNoV3h0X2xnT1ZhSFpiUDdQamRPOXRjbUk5UWJKdFNhWkZGRkhETjJNdW53bG44dFhlTVNxQm53QVR3RzU1T0tsT3F5ZGVUNWh1ckVEeFdr0gF3QVVfeXFMTTd5cG1uLWdQaVRkTjRoMkJlRDJZQmZzdjdJRGpNNTFVNzdUVHR0UE5kZ2dMR0RmRVZQa1dZSnNTdTBlYmhjbmF3ZHhycHJCbzhMc3p2cTdIVzZBd0tFYU1OazZPcUlrbmlYS1V6bXhWdU42N3JBRG8?oc=5",
           "source": "Google News",
-          "published": "Wed, 29 Jul 2026 21:00:00 GMT"
+          "published": "Thu, 30 Jul 2026 02:25:11 GMT"
         }
       ]
     },
     {
-      "word": "놓쳐",
+      "word": "사무실",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[단독]범인 놓쳐도 경고, 수사 뭉개도 견책…정말 보완수사 ‘요구권’으로 충분할까[형소법 개정] - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xYjgzdVNRenpNR2VSUWxQcEpCUHBKNHRKbTlDVTRqNTJuZ1lvQWNRLWJ3dUIxNmdaRnlXdVNKNHdEUW5vMjUwNVp2XzFoV0xMbnNkRDU1bEl5UdIBX0FVX3lxTE1uOF9DNGpMRnNKdjJBWlFFekhMT0gyb0tFUHRLd1pKWFlQMVFJTjIxRzJIdkgtd1VWU2VrZC1uZUJzZDRRT21Hc0lnVDhDeU1ZNjBUMjF4QUdnYUl1ek00?oc=5",
+          "title": "경찰, 인천 물류센터 화재 관련 쿠팡 사무실 압수수색 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVMHY2VnFMYXlmamUxUHY3Q3JiQ1dxdVBSMVpQY3d0YTNoV3h0X2xnT1ZhSFpiUDdQamRPOXRjbUk5UWJKdFNhWkZGRkhETjJNdW53bG44dFhlTVNxQm53QVR3RzU1T0tsT3F5ZGVUNWh1ckVEeFdr0gF3QVVfeXFMTTd5cG1uLWdQaVRkTjRoMkJlRDJZQmZzdjdJRGpNNTFVNzdUVHR0UE5kZ2dMR0RmRVZQa1dZSnNTdTBlYmhjbmF3ZHhycHJCbzhMc3p2cTdIVzZBd0tFYU1OazZPcUlrbmlYS1V6bXhWdU42N3JBRG8?oc=5",
           "source": "Google News",
-          "published": "Wed, 29 Jul 2026 21:00:00 GMT"
+          "published": "Thu, 30 Jul 2026 02:25:11 GMT"
         }
       ]
     },
     {
-      "word": "경고",
+      "word": "압수수색",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[단독]범인 놓쳐도 경고, 수사 뭉개도 견책…정말 보완수사 ‘요구권’으로 충분할까[형소법 개정] - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xYjgzdVNRenpNR2VSUWxQcEpCUHBKNHRKbTlDVTRqNTJuZ1lvQWNRLWJ3dUIxNmdaRnlXdVNKNHdEUW5vMjUwNVp2XzFoV0xMbnNkRDU1bEl5UdIBX0FVX3lxTE1uOF9DNGpMRnNKdjJBWlFFekhMT0gyb0tFUHRLd1pKWFlQMVFJTjIxRzJIdkgtd1VWU2VrZC1uZUJzZDRRT21Hc0lnVDhDeU1ZNjBUMjF4QUdnYUl1ek00?oc=5",
+          "title": "경찰, 인천 물류센터 화재 관련 쿠팡 사무실 압수수색 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVMHY2VnFMYXlmamUxUHY3Q3JiQ1dxdVBSMVpQY3d0YTNoV3h0X2xnT1ZhSFpiUDdQamRPOXRjbUk5UWJKdFNhWkZGRkhETjJNdW53bG44dFhlTVNxQm53QVR3RzU1T0tsT3F5ZGVUNWh1ckVEeFdr0gF3QVVfeXFMTTd5cG1uLWdQaVRkTjRoMkJlRDJZQmZzdjdJRGpNNTFVNzdUVHR0UE5kZ2dMR0RmRVZQa1dZSnNTdTBlYmhjbmF3ZHhycHJCbzhMc3p2cTdIVzZBd0tFYU1OazZPcUlrbmlYS1V6bXhWdU42N3JBRG8?oc=5",
           "source": "Google News",
-          "published": "Wed, 29 Jul 2026 21:00:00 GMT"
+          "published": "Thu, 30 Jul 2026 02:25:11 GMT"
         }
       ]
     },
     {
-      "word": "수사",
+      "word": "구마모토",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[단독]범인 놓쳐도 경고, 수사 뭉개도 견책…정말 보완수사 ‘요구권’으로 충분할까[형소법 개정] - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xYjgzdVNRenpNR2VSUWxQcEpCUHBKNHRKbTlDVTRqNTJuZ1lvQWNRLWJ3dUIxNmdaRnlXdVNKNHdEUW5vMjUwNVp2XzFoV0xMbnNkRDU1bEl5UdIBX0FVX3lxTE1uOF9DNGpMRnNKdjJBWlFFekhMT0gyb0tFUHRLd1pKWFlQMVFJTjIxRzJIdkgtd1VWU2VrZC1uZUJzZDRRT21Hc0lnVDhDeU1ZNjBUMjF4QUdnYUl1ek00?oc=5",
+          "title": "구마모토 지진으로 반도체 공급 타격... TSMC·소니·르네사스 재가동 기약 없어 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT3pFNzJzT1NlUXFpbEJIbzNhbHdvLUlqS2MzWkRIQnpURFozRUY5YzVvTXhvR3FCTnpiV3NQMlFGX09lTnFERllSdTFlR2hGREpyOG1YVWFwQm1ySnpqRXJkd1hNNmt6RHJlMTl5Tk9aalNiT1kxM0N2WHZkNGNvZ1JrMXBWUXB5dnpwcnJsN2YwaThlRFlOVUNxWWpnUQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 29 Jul 2026 21:00:00 GMT"
+          "published": "Thu, 30 Jul 2026 01:03:30 GMT"
         }
       ]
     },
     {
-      "word": "뭉개",
+      "word": "지진",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[단독]범인 놓쳐도 경고, 수사 뭉개도 견책…정말 보완수사 ‘요구권’으로 충분할까[형소법 개정] - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xYjgzdVNRenpNR2VSUWxQcEpCUHBKNHRKbTlDVTRqNTJuZ1lvQWNRLWJ3dUIxNmdaRnlXdVNKNHdEUW5vMjUwNVp2XzFoV0xMbnNkRDU1bEl5UdIBX0FVX3lxTE1uOF9DNGpMRnNKdjJBWlFFekhMT0gyb0tFUHRLd1pKWFlQMVFJTjIxRzJIdkgtd1VWU2VrZC1uZUJzZDRRT21Hc0lnVDhDeU1ZNjBUMjF4QUdnYUl1ek00?oc=5",
+          "title": "구마모토 지진으로 반도체 공급 타격... TSMC·소니·르네사스 재가동 기약 없어 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT3pFNzJzT1NlUXFpbEJIbzNhbHdvLUlqS2MzWkRIQnpURFozRUY5YzVvTXhvR3FCTnpiV3NQMlFGX09lTnFERllSdTFlR2hGREpyOG1YVWFwQm1ySnpqRXJkd1hNNmt6RHJlMTl5Tk9aalNiT1kxM0N2WHZkNGNvZ1JrMXBWUXB5dnpwcnJsN2YwaThlRFlOVUNxWWpnUQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 29 Jul 2026 21:00:00 GMT"
+          "published": "Thu, 30 Jul 2026 01:03:30 GMT"
         }
       ]
     },
     {
-      "word": "견책정말",
+      "word": "반도체",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[단독]범인 놓쳐도 경고, 수사 뭉개도 견책…정말 보완수사 ‘요구권’으로 충분할까[형소법 개정] - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xYjgzdVNRenpNR2VSUWxQcEpCUHBKNHRKbTlDVTRqNTJuZ1lvQWNRLWJ3dUIxNmdaRnlXdVNKNHdEUW5vMjUwNVp2XzFoV0xMbnNkRDU1bEl5UdIBX0FVX3lxTE1uOF9DNGpMRnNKdjJBWlFFekhMT0gyb0tFUHRLd1pKWFlQMVFJTjIxRzJIdkgtd1VWU2VrZC1uZUJzZDRRT21Hc0lnVDhDeU1ZNjBUMjF4QUdnYUl1ek00?oc=5",
+          "title": "구마모토 지진으로 반도체 공급 타격... TSMC·소니·르네사스 재가동 기약 없어 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT3pFNzJzT1NlUXFpbEJIbzNhbHdvLUlqS2MzWkRIQnpURFozRUY5YzVvTXhvR3FCTnpiV3NQMlFGX09lTnFERllSdTFlR2hGREpyOG1YVWFwQm1ySnpqRXJkd1hNNmt6RHJlMTl5Tk9aalNiT1kxM0N2WHZkNGNvZ1JrMXBWUXB5dnpwcnJsN2YwaThlRFlOVUNxWWpnUQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 29 Jul 2026 21:00:00 GMT"
+          "published": "Thu, 30 Jul 2026 01:03:30 GMT"
         }
       ]
     },
     {
-      "word": "보완수사",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "[단독]범인 놓쳐도 경고, 수사 뭉개도 견책…정말 보완수사 ‘요구권’으로 충분할까[형소법 개정] - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xYjgzdVNRenpNR2VSUWxQcEpCUHBKNHRKbTlDVTRqNTJuZ1lvQWNRLWJ3dUIxNmdaRnlXdVNKNHdEUW5vMjUwNVp2XzFoV0xMbnNkRDU1bEl5UdIBX0FVX3lxTE1uOF9DNGpMRnNKdjJBWlFFekhMT0gyb0tFUHRLd1pKWFlQMVFJTjIxRzJIdkgtd1VWU2VrZC1uZUJzZDRRT21Hc0lnVDhDeU1ZNjBUMjF4QUdnYUl1ek00?oc=5",
-          "source": "Google News",
-          "published": "Wed, 29 Jul 2026 21:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "요구권",
+      "word": "공급",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[단독]범인 놓쳐도 경고, 수사 뭉개도 견책…정말 보완수사 ‘요구권’으로 충분할까[형소법 개정] - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xYjgzdVNRenpNR2VSUWxQcEpCUHBKNHRKbTlDVTRqNTJuZ1lvQWNRLWJ3dUIxNmdaRnlXdVNKNHdEUW5vMjUwNVp2XzFoV0xMbnNkRDU1bEl5UdIBX0FVX3lxTE1uOF9DNGpMRnNKdjJBWlFFekhMT0gyb0tFUHRLd1pKWFlQMVFJTjIxRzJIdkgtd1VWU2VrZC1uZUJzZDRRT21Hc0lnVDhDeU1ZNjBUMjF4QUdnYUl1ek00?oc=5",
+          "title": "구마모토 지진으로 반도체 공급 타격... TSMC·소니·르네사스 재가동 기약 없어 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT3pFNzJzT1NlUXFpbEJIbzNhbHdvLUlqS2MzWkRIQnpURFozRUY5YzVvTXhvR3FCTnpiV3NQMlFGX09lTnFERllSdTFlR2hGREpyOG1YVWFwQm1ySnpqRXJkd1hNNmt6RHJlMTl5Tk9aalNiT1kxM0N2WHZkNGNvZ1JrMXBWUXB5dnpwcnJsN2YwaThlRFlOVUNxWWpnUQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 29 Jul 2026 21:00:00 GMT"
+          "published": "Thu, 30 Jul 2026 01:03:30 GMT"
         }
       ]
     },
     {
-      "word": "충분할까형소법",
+      "word": "타격",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[단독]범인 놓쳐도 경고, 수사 뭉개도 견책…정말 보완수사 ‘요구권’으로 충분할까[형소법 개정] - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xYjgzdVNRenpNR2VSUWxQcEpCUHBKNHRKbTlDVTRqNTJuZ1lvQWNRLWJ3dUIxNmdaRnlXdVNKNHdEUW5vMjUwNVp2XzFoV0xMbnNkRDU1bEl5UdIBX0FVX3lxTE1uOF9DNGpMRnNKdjJBWlFFekhMT0gyb0tFUHRLd1pKWFlQMVFJTjIxRzJIdkgtd1VWU2VrZC1uZUJzZDRRT21Hc0lnVDhDeU1ZNjBUMjF4QUdnYUl1ek00?oc=5",
+          "title": "구마모토 지진으로 반도체 공급 타격... TSMC·소니·르네사스 재가동 기약 없어 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT3pFNzJzT1NlUXFpbEJIbzNhbHdvLUlqS2MzWkRIQnpURFozRUY5YzVvTXhvR3FCTnpiV3NQMlFGX09lTnFERllSdTFlR2hGREpyOG1YVWFwQm1ySnpqRXJkd1hNNmt6RHJlMTl5Tk9aalNiT1kxM0N2WHZkNGNvZ1JrMXBWUXB5dnpwcnJsN2YwaThlRFlOVUNxWWpnUQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 29 Jul 2026 21:00:00 GMT"
+          "published": "Thu, 30 Jul 2026 01:03:30 GMT"
         }
       ]
     },
     {
-      "word": "개정",
+      "word": "TSMC소니르네사스",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[단독]범인 놓쳐도 경고, 수사 뭉개도 견책…정말 보완수사 ‘요구권’으로 충분할까[형소법 개정] - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xYjgzdVNRenpNR2VSUWxQcEpCUHBKNHRKbTlDVTRqNTJuZ1lvQWNRLWJ3dUIxNmdaRnlXdVNKNHdEUW5vMjUwNVp2XzFoV0xMbnNkRDU1bEl5UdIBX0FVX3lxTE1uOF9DNGpMRnNKdjJBWlFFekhMT0gyb0tFUHRLd1pKWFlQMVFJTjIxRzJIdkgtd1VWU2VrZC1uZUJzZDRRT21Hc0lnVDhDeU1ZNjBUMjF4QUdnYUl1ek00?oc=5",
+          "title": "구마모토 지진으로 반도체 공급 타격... TSMC·소니·르네사스 재가동 기약 없어 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT3pFNzJzT1NlUXFpbEJIbzNhbHdvLUlqS2MzWkRIQnpURFozRUY5YzVvTXhvR3FCTnpiV3NQMlFGX09lTnFERllSdTFlR2hGREpyOG1YVWFwQm1ySnpqRXJkd1hNNmt6RHJlMTl5Tk9aalNiT1kxM0N2WHZkNGNvZ1JrMXBWUXB5dnpwcnJsN2YwaThlRFlOVUNxWWpnUQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 29 Jul 2026 21:00:00 GMT"
+          "published": "Thu, 30 Jul 2026 01:03:30 GMT"
         }
       ]
     },
     {
-      "word": "지금",
+      "word": "재가동",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[한국은 지금] 청와대 \"현직 대통령 연임 개헌 불가능\"...논란 진화 나서 - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KTGxfUHBqY1JVNm10OHByOF9UV09zT01VTVRtRVVwT3lkMHlST0p0b2pRb0YxalRtbWZZeTBJaWljRWpLdTdZcHg0NVRfUF91UU9oSi1URW9LMWRDSUx0TEJlSjIxb2fSAWpBVV95cUxQUDA1U0ZlN2hHbHNMMndwRGN0NU56Q01sNjZBbkxQRnFxMmhqTFIzdTlPM1JKeHg1WFRRMzkyT3p2UFlISjVmYkw5TlJZUXBwS2tyZWxwb2NWcTAxMkVoc1FYazh3ZmdDemtB?oc=5",
+          "title": "구마모토 지진으로 반도체 공급 타격... TSMC·소니·르네사스 재가동 기약 없어 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT3pFNzJzT1NlUXFpbEJIbzNhbHdvLUlqS2MzWkRIQnpURFozRUY5YzVvTXhvR3FCTnpiV3NQMlFGX09lTnFERllSdTFlR2hGREpyOG1YVWFwQm1ySnpqRXJkd1hNNmt6RHJlMTl5Tk9aalNiT1kxM0N2WHZkNGNvZ1JrMXBWUXB5dnpwcnJsN2YwaThlRFlOVUNxWWpnUQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 29 Jul 2026 14:57:20 GMT"
+          "published": "Thu, 30 Jul 2026 01:03:30 GMT"
         }
       ]
     },
     {
-      "word": "청와대",
+      "word": "기약",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[한국은 지금] 청와대 \"현직 대통령 연임 개헌 불가능\"...논란 진화 나서 - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KTGxfUHBqY1JVNm10OHByOF9UV09zT01VTVRtRVVwT3lkMHlST0p0b2pRb0YxalRtbWZZeTBJaWljRWpLdTdZcHg0NVRfUF91UU9oSi1URW9LMWRDSUx0TEJlSjIxb2fSAWpBVV95cUxQUDA1U0ZlN2hHbHNMMndwRGN0NU56Q01sNjZBbkxQRnFxMmhqTFIzdTlPM1JKeHg1WFRRMzkyT3p2UFlISjVmYkw5TlJZUXBwS2tyZWxwb2NWcTAxMkVoc1FYazh3ZmdDemtB?oc=5",
+          "title": "구마모토 지진으로 반도체 공급 타격... TSMC·소니·르네사스 재가동 기약 없어 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT3pFNzJzT1NlUXFpbEJIbzNhbHdvLUlqS2MzWkRIQnpURFozRUY5YzVvTXhvR3FCTnpiV3NQMlFGX09lTnFERllSdTFlR2hGREpyOG1YVWFwQm1ySnpqRXJkd1hNNmt6RHJlMTl5Tk9aalNiT1kxM0N2WHZkNGNvZ1JrMXBWUXB5dnpwcnJsN2YwaThlRFlOVUNxWWpnUQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 29 Jul 2026 14:57:20 GMT"
+          "published": "Thu, 30 Jul 2026 01:03:30 GMT"
         }
       ]
     },
     {
-      "word": "현직",
+      "word": "없어",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[한국은 지금] 청와대 \"현직 대통령 연임 개헌 불가능\"...논란 진화 나서 - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KTGxfUHBqY1JVNm10OHByOF9UV09zT01VTVRtRVVwT3lkMHlST0p0b2pRb0YxalRtbWZZeTBJaWljRWpLdTdZcHg0NVRfUF91UU9oSi1URW9LMWRDSUx0TEJlSjIxb2fSAWpBVV95cUxQUDA1U0ZlN2hHbHNMMndwRGN0NU56Q01sNjZBbkxQRnFxMmhqTFIzdTlPM1JKeHg1WFRRMzkyT3p2UFlISjVmYkw5TlJZUXBwS2tyZWxwb2NWcTAxMkVoc1FYazh3ZmdDemtB?oc=5",
+          "title": "구마모토 지진으로 반도체 공급 타격... TSMC·소니·르네사스 재가동 기약 없어 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT3pFNzJzT1NlUXFpbEJIbzNhbHdvLUlqS2MzWkRIQnpURFozRUY5YzVvTXhvR3FCTnpiV3NQMlFGX09lTnFERllSdTFlR2hGREpyOG1YVWFwQm1ySnpqRXJkd1hNNmt6RHJlMTl5Tk9aalNiT1kxM0N2WHZkNGNvZ1JrMXBWUXB5dnpwcnJsN2YwaThlRFlOVUNxWWpnUQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 29 Jul 2026 14:57:20 GMT"
+          "published": "Thu, 30 Jul 2026 01:03:30 GMT"
         }
       ]
     },
     {
-      "word": "연임",
+      "word": "미군",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[한국은 지금] 청와대 \"현직 대통령 연임 개헌 불가능\"...논란 진화 나서 - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KTGxfUHBqY1JVNm10OHByOF9UV09zT01VTVRtRVVwT3lkMHlST0p0b2pRb0YxalRtbWZZeTBJaWljRWpLdTdZcHg0NVRfUF91UU9oSi1URW9LMWRDSUx0TEJlSjIxb2fSAWpBVV95cUxQUDA1U0ZlN2hHbHNMMndwRGN0NU56Q01sNjZBbkxQRnFxMmhqTFIzdTlPM1JKeHg1WFRRMzkyT3p2UFlISjVmYkw5TlJZUXBwS2tyZWxwb2NWcTAxMkVoc1FYazh3ZmdDemtB?oc=5",
+          "title": "미군, 엿새 만에 대이란 공습…트럼프 \"두들겨 팰 것\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmaUNXdXBwUlJjQ05uQVVDU1FWZG0wWFNWMlRZaTBzS3pUX2ZuVGc2YVpmeE9rZ0o3Q2g2QTN3WEFUS2pkd2hHaDdKeTQ3Zl9LMGVhdExUcnFpZnhUS3FXZUlOdER1N0k?oc=5",
           "source": "Google News",
-          "published": "Wed, 29 Jul 2026 14:57:20 GMT"
+          "published": "Thu, 30 Jul 2026 04:24:00 GMT"
         }
       ]
     },
     {
-      "word": "개헌",
+      "word": "엿새",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[한국은 지금] 청와대 \"현직 대통령 연임 개헌 불가능\"...논란 진화 나서 - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KTGxfUHBqY1JVNm10OHByOF9UV09zT01VTVRtRVVwT3lkMHlST0p0b2pRb0YxalRtbWZZeTBJaWljRWpLdTdZcHg0NVRfUF91UU9oSi1URW9LMWRDSUx0TEJlSjIxb2fSAWpBVV95cUxQUDA1U0ZlN2hHbHNMMndwRGN0NU56Q01sNjZBbkxQRnFxMmhqTFIzdTlPM1JKeHg1WFRRMzkyT3p2UFlISjVmYkw5TlJZUXBwS2tyZWxwb2NWcTAxMkVoc1FYazh3ZmdDemtB?oc=5",
+          "title": "미군, 엿새 만에 대이란 공습…트럼프 \"두들겨 팰 것\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmaUNXdXBwUlJjQ05uQVVDU1FWZG0wWFNWMlRZaTBzS3pUX2ZuVGc2YVpmeE9rZ0o3Q2g2QTN3WEFUS2pkd2hHaDdKeTQ3Zl9LMGVhdExUcnFpZnhUS3FXZUlOdER1N0k?oc=5",
           "source": "Google News",
-          "published": "Wed, 29 Jul 2026 14:57:20 GMT"
+          "published": "Thu, 30 Jul 2026 04:24:00 GMT"
         }
       ]
     },
     {
-      "word": "불가능논란",
+      "word": "만에",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[한국은 지금] 청와대 \"현직 대통령 연임 개헌 불가능\"...논란 진화 나서 - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KTGxfUHBqY1JVNm10OHByOF9UV09zT01VTVRtRVVwT3lkMHlST0p0b2pRb0YxalRtbWZZeTBJaWljRWpLdTdZcHg0NVRfUF91UU9oSi1URW9LMWRDSUx0TEJlSjIxb2fSAWpBVV95cUxQUDA1U0ZlN2hHbHNMMndwRGN0NU56Q01sNjZBbkxQRnFxMmhqTFIzdTlPM1JKeHg1WFRRMzkyT3p2UFlISjVmYkw5TlJZUXBwS2tyZWxwb2NWcTAxMkVoc1FYazh3ZmdDemtB?oc=5",
+          "title": "미군, 엿새 만에 대이란 공습…트럼프 \"두들겨 팰 것\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmaUNXdXBwUlJjQ05uQVVDU1FWZG0wWFNWMlRZaTBzS3pUX2ZuVGc2YVpmeE9rZ0o3Q2g2QTN3WEFUS2pkd2hHaDdKeTQ3Zl9LMGVhdExUcnFpZnhUS3FXZUlOdER1N0k?oc=5",
           "source": "Google News",
-          "published": "Wed, 29 Jul 2026 14:57:20 GMT"
+          "published": "Thu, 30 Jul 2026 04:24:00 GMT"
         }
       ]
     },
     {
-      "word": "진화",
+      "word": "대이란",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[한국은 지금] 청와대 \"현직 대통령 연임 개헌 불가능\"...논란 진화 나서 - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KTGxfUHBqY1JVNm10OHByOF9UV09zT01VTVRtRVVwT3lkMHlST0p0b2pRb0YxalRtbWZZeTBJaWljRWpLdTdZcHg0NVRfUF91UU9oSi1URW9LMWRDSUx0TEJlSjIxb2fSAWpBVV95cUxQUDA1U0ZlN2hHbHNMMndwRGN0NU56Q01sNjZBbkxQRnFxMmhqTFIzdTlPM1JKeHg1WFRRMzkyT3p2UFlISjVmYkw5TlJZUXBwS2tyZWxwb2NWcTAxMkVoc1FYazh3ZmdDemtB?oc=5",
+          "title": "미군, 엿새 만에 대이란 공습…트럼프 \"두들겨 팰 것\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmaUNXdXBwUlJjQ05uQVVDU1FWZG0wWFNWMlRZaTBzS3pUX2ZuVGc2YVpmeE9rZ0o3Q2g2QTN3WEFUS2pkd2hHaDdKeTQ3Zl9LMGVhdExUcnFpZnhUS3FXZUlOdER1N0k?oc=5",
           "source": "Google News",
-          "published": "Wed, 29 Jul 2026 14:57:20 GMT"
+          "published": "Thu, 30 Jul 2026 04:24:00 GMT"
         }
       ]
     },
     {
-      "word": "나서",
+      "word": "공습트럼프",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[한국은 지금] 청와대 \"현직 대통령 연임 개헌 불가능\"...논란 진화 나서 - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KTGxfUHBqY1JVNm10OHByOF9UV09zT01VTVRtRVVwT3lkMHlST0p0b2pRb0YxalRtbWZZeTBJaWljRWpLdTdZcHg0NVRfUF91UU9oSi1URW9LMWRDSUx0TEJlSjIxb2fSAWpBVV95cUxQUDA1U0ZlN2hHbHNMMndwRGN0NU56Q01sNjZBbkxQRnFxMmhqTFIzdTlPM1JKeHg1WFRRMzkyT3p2UFlISjVmYkw5TlJZUXBwS2tyZWxwb2NWcTAxMkVoc1FYazh3ZmdDemtB?oc=5",
+          "title": "미군, 엿새 만에 대이란 공습…트럼프 \"두들겨 팰 것\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmaUNXdXBwUlJjQ05uQVVDU1FWZG0wWFNWMlRZaTBzS3pUX2ZuVGc2YVpmeE9rZ0o3Q2g2QTN3WEFUS2pkd2hHaDdKeTQ3Zl9LMGVhdExUcnFpZnhUS3FXZUlOdER1N0k?oc=5",
           "source": "Google News",
-          "published": "Wed, 29 Jul 2026 14:57:20 GMT"
+          "published": "Thu, 30 Jul 2026 04:24:00 GMT"
         }
       ]
     },
     {
-      "word": "칠레",
+      "word": "두들겨",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령, 칠레 동포 만나 “한국 첫 FTA 파트너…소중한 동반자” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zanBjR2Q2aE5wek95dldqdTNHYjhtY0YwUE1HS0VQV1Y5NWlZaVFnLU1kVzQ3UTlRbHFYdkM5R3NQaXVuZVp5MWhlSzE2WEF5MmtRT0RYanl0dGVqa2p2Zlc0SExsaldVLTBj?oc=5",
+          "title": "미군, 엿새 만에 대이란 공습…트럼프 \"두들겨 팰 것\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmaUNXdXBwUlJjQ05uQVVDU1FWZG0wWFNWMlRZaTBzS3pUX2ZuVGc2YVpmeE9rZ0o3Q2g2QTN3WEFUS2pkd2hHaDdKeTQ3Zl9LMGVhdExUcnFpZnhUS3FXZUlOdER1N0k?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 00:54:00 GMT"
+          "published": "Thu, 30 Jul 2026 04:24:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "바람",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "바람이 좌우하는 폭염…다음 주엔 동풍, 수도권 달군다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56Uzd6YzY1LVlWWHMteDBkMVA0cnUwam1ZWXVpeXdPbUpJX3Y4YlkyLUZaRnF2WDNsdFRkQkJuRnUtT1E2LVp5Rm9RT2hucElfMlRwMzVEVzRfTlhZNDhYMkdsbTRjQzdzaEtBTQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 03:28:00 GMT"
         }
       ]
     }
