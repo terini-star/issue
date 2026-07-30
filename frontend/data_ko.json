@@ -1,69 +1,190 @@
 {
   "language": "ko",
-  "last_updated": 1785400831.7844465,
+  "last_updated": 1785410104.294563,
   "count": 40,
   "trends": [
+    {
+      "word": "위험",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "\"미국 요격 미사일, 전략비축유 재고 위험 수준\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONkhMaFFZRUgzUnNGeGJCREowQk9wVzBFZzYtaHRLbXhQeDl2QUNWU1NoS3Z1ZVlmTHpzM0d1cnRqdjE4SWNYREVEM2d0emdLdy1KRjQxWHdCdkYybXZtM1Z2a1N3UlY3NzRjUUktaFZtU3VrV19RR1BIM1ljTlluZkZob3Fld3BXdTlQY0h1aC00Y2p0X28xSFRYa3pFdw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 06:52:03 GMT"
+        },
+        {
+          "title": "금연 후 급격한 체중 감소, 고관절 골절 위험 높인다 - 한국일보",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xTFdCaUF1MUt0YmpoUXdSWDN4c0l0cnAwS0tmMUNvbkpIVHlfRkRXR3NrQjYzdTBnaDNDZHg5TzBZRnRKNnJvY2Z6SmZWNDA5UHFsd1pQT0JQWGc5NUxOSVZJUGNaZjBfLXZNV3V30gFzQVVfeXFMUEhKZ3hDMFRYVngtU1AteV91bzU1bWlUb2VhLTZuRndMdzN6NlltMmtlNVpZNGpSNW1YdkVnZXBFM0xtYnZqSkdlSEN3ZDdMSXBZaTlpT2hHRS05S2FnbXpBblBZZW5Gclo1c1NtUXVyanlaZw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 06:50:00 GMT"
+        },
+        {
+          "title": "“여름철 해충약·농약 노출 주의”…고려대학교 강지승 교수팀 “당뇨병 위험 51% 증가” 확인 - 한국강사신문",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nV2NZbVdYaFgxYmFzUmU3WXhvekh5SU5ROHE4LVBRTjJ0bklJcDdOemE3dzVzRGJKcmpQMnlWTkxqa1FicmJuZktuRWFvUkhRUGpEZE1Fc1J0MGRNMzdtQl9WWkRGTnBLaWVlMU9rTUU?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 08:10:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "이란",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이란 전쟁 불길, 이집트까지 번지나…방어 전장 넓어지는 미국 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KazhjVm90MlFISmJfYmJDNXJLa09rNzBIT05zeG14TG1JX3F6UlM4MlpSNXZrZzVWUENBdnJ4Rk44NUpoTU5yTWdMaS1QVkIzOEZobWVkZUs5YzNKVnNhbGNJZUlTNWtrXzRYaWRwMVc0RVk?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 08:56:00 GMT"
+        },
+        {
+          "title": "이란과 합의할까, 공습할까, 아니면 봉쇄…트럼프·네타냐후 90분 논의 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQV2pTNHpIREFXR1MxaXFHcXBYd1FRaFhGZXFRTGgtbXduWG5BTHlEVnZGUUdhYXhydW50eHVwUEZjTTJuUk1WOUV0cjZBMzdwQjR6clVmeUpzaTZrbVJvbmlNRnRDdy1tNi0teGRIMHhhSUVfc1l3NUMzT3FJNTVVZEJB?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 05:20:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "전쟁",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이란 전쟁 불길, 이집트까지 번지나…방어 전장 넓어지는 미국 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KazhjVm90MlFISmJfYmJDNXJLa09rNzBIT05zeG14TG1JX3F6UlM4MlpSNXZrZzVWUENBdnJ4Rk44NUpoTU5yTWdMaS1QVkIzOEZobWVkZUs5YzNKVnNhbGNJZUlTNWtrXzRYaWRwMVc0RVk?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 08:56:00 GMT"
+        },
+        {
+          "title": "[Why] 사우디가 6개월간 피하던 미·이란 전쟁에 뛰어든 이유 - 조선비즈 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbFZLVTV3RzN6TkVEV1A4dXo3XzFLUTFseGlYQ0RBTUxIUFp1alhFUV9PRmtyVFpha3A3bTVWTGN4Z0VpdnBjYnVIaGpYcll5NWlwTjZHQUk1SzA1ZHJaVFphZC1DWXczaG4xS0l5VERnaklqTHEwUmRSTk9sbHJsZUhyeEtTajRidUlod0IxZHYwSnhQQTZQc1NfQTBPUdIBsgFBVV95cUxNVDJfWElqbkVodzdlcmhPYWlhei1VWFU4SkhUNTJHRHJWUHZIamxmakJ6bVpuRzB2cEREOWlMMHNEVjlDeXowM0I2YXNwM2xDVFhMbW93MlBlRFNoMlhrRldBR3VuVXkxLWlQYk4yZkJJWTVpVTRIZ3lRbWZYelROOWJoa1V2ZHFNaFQ1T3hLdmtJRTRLTTRiYkFMNVFsWjdTSFBfdWthanU0SEZLZkFRSzZn?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 05:59:00 GMT"
+        }
+      ]
+    },
     {
       "word": "미국",
       "count": 2,
       "category": "LOCATION",
       "articles": [
         {
-          "title": "미국, 대이란 공습 재개···사우디 본격 참전에 중동 전선 넓어지나 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14UlJNN2xOTTNIbi1uZWRFX0lTRk94WWt1eDMtUFlRZ1M1YTUtcXcyb0JrMXJzeGZ5YUJWTEc5dDhQSF9DamZIdHg1S19EZGtPX3c4V0w3V3AwUdIBX0FVX3lxTE81OW9OekRVR1dJdHNkTXJqSTkzMU9aVkRpbnEwUlAtSEFRTm9UcldON25yRVFITDBaaVVnZ1ZaUXpuYkN0VWEwMDRpNXRWM2w1akh0RVc0QWFRcGpUZzhF?oc=5",
+          "title": "이란 전쟁 불길, 이집트까지 번지나…방어 전장 넓어지는 미국 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KazhjVm90MlFISmJfYmJDNXJLa09rNzBIT05zeG14TG1JX3F6UlM4MlpSNXZrZzVWUENBdnJ4Rk44NUpoTU5yTWdMaS1QVkIzOEZobWVkZUs5YzNKVnNhbGNJZUlTNWtrXzRYaWRwMVc0RVk?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 06:25:00 GMT"
+          "published": "Thu, 30 Jul 2026 08:56:00 GMT"
         },
         {
-          "title": "[속보] 삼성전자 \"미국 테일러 팹2 연말 착공 준비…2030년 양산목표\" - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XMVE0dF9CRm14UWNvVXNBT0RELV9hMFIzLTd5MU5pVUh6cFdzaTZHbWpNLUFqRzVyVXhkeHpYS2hqcE94ZUpuZkR1Nl9VamFXQVJmRlF2V01ZUQ?oc=5",
+          "title": "\"미국 요격 미사일, 전략비축유 재고 위험 수준\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONkhMaFFZRUgzUnNGeGJCREowQk9wVzBFZzYtaHRLbXhQeDl2QUNWU1NoS3Z1ZVlmTHpzM0d1cnRqdjE4SWNYREVEM2d0emdLdy1KRjQxWHdCdkYybXZtM1Z2a1N3UlY3NzRjUUktaFZtU3VrV19RR1BIM1ljTlluZkZob3Fld3BXdTlQY0h1aC00Y2p0X28xSFRYa3pFdw?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 02:06:01 GMT"
+          "published": "Thu, 30 Jul 2026 06:52:03 GMT"
         }
       ]
     },
     {
-      "word": "특혜",
+      "word": "논의",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "홍명보 “연봉, 38억보다 훨씬 적어…‘빵집 면접’ 때 특혜 요구 안 해” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84VEZ2b3NsVzhIRFZRQUJiaXFjRVdyOFlOQzA3RDU1Sm50SzNGd2VLVUh3bjQ1bk0xRF9pMmZ0dW1ONEJqSjVQeWUtWHFpblRYaHJEYVZiSXpaV0Y5aFV5c2RTOVdwTDFRWDVtODZreWVQUQ?oc=5",
+          "title": "이란과 합의할까, 공습할까, 아니면 봉쇄…트럼프·네타냐후 90분 논의 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQV2pTNHpIREFXR1MxaXFHcXBYd1FRaFhGZXFRTGgtbXduWG5BTHlEVnZGUUdhYXhydW50eHVwUEZjTTJuUk1WOUV0cjZBMzdwQjR6clVmeUpzaTZrbVJvbmlNRnRDdy1tNi0teGRIMHhhSUVfc1l3NUMzT3FJNTVVZEJB?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 05:56:00 GMT"
+          "published": "Thu, 30 Jul 2026 05:20:00 GMT"
         },
         {
-          "title": "축구협회 예치금 쿠팡플레이만 공짜 “이중잣대, 과도한 특혜” - 미디어오늘",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uTEMtSzc3ZF8tRHdtekE4R05Ha0ZNc3FZRktnb3RJS0RvNGdIZ1NSZ0dwTUJMX2ZKSFJnYXBoVWpSSVNVMmQyNDRFX0tOMk42TGg5R3J2cjdtWTdJQjJUVVJYSC1BSzFIOXlXUlV3QVI?oc=5",
+          "title": "정부, 호르무즈 군 자산 지원 검토‥해상초계기·구축함 등 논의 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43TFh0dm54VkJ6dGNqcmdtTGZOQkJpUDVsQWppUlU2c1dCWG5WbWJPczBnUXhFTTZBYWtNQThpZF9SVDAxWG9JQUlXejFsX0FRdks2V3U5b0N3a240T3p2dG54T1huU0xGcTlDeUlBVmtWUUQwbFlXRdIBeEFVX3lxTE5Kc0dqNGdpVVhzYk5aUzlKQjQ1M21ycThsN3lzajQ4bkJLdnhIeVlRRmZXMjF0alZaV3ZIcGtqOHFCcjlmSDJJOVl4NjFjTGhxMWtnS0p5UUdfOUFseVF1eVkwNUtCb1RYMl9XRDI4czhjWGJDQUVNMg?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 02:32:12 GMT"
+          "published": "Thu, 30 Jul 2026 01:46:33 GMT"
         }
       ]
     },
     {
-      "word": "금리",
+      "word": "유료",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "연준, 금리 5연속 동결…물가 불안 확산에 30년물 금리 19년 만에 최고치 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1oelJpTWpsZzRtRTRXM0NpZEtlOG12djdVSWpVTFZDeDBZU1lmNGlfRGV4OExfYmNsQmNCdnE5dzZET0U0NEFBMmxHTlRfR3JtYjYzemRYTVBSTlhiNlh5MWRBUU9XYXVNWVdXWkJBaw?oc=5",
+          "title": "유료 추가 콘텐츠 「Pokémon Pokopia 익스팬션 패스」 제1탄과 「Pokémon Pokopia」 무료 업데이트(Ver.2.0.0)의 배포일이 2026년 8월 5일(수)로 결정. 유료 추가 콘텐츠 제2탄의 새로운 정보도 공개. | News | 한국닌텐도주식회사 - Nintendo",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wMUZzdnduUU9HSndYaEFfS0xsbGc2VDhVR1hkbVNVYVdyMWlxR3h3QVdnVGVNU2luVDduY0JqSWY5T3pWVmgzczN2elFOVFNaUjlTTUp3UUgyRXlmU1JjN2FJSjNyTFdrOXo0UHowOFA?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 00:10:00 GMT"
+          "published": "Thu, 30 Jul 2026 05:41:53 GMT"
         }
       ]
     },
     {
-      "word": "구글",
+      "word": "추가",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "구글, 차세대 음악 AI '리리아 3.5' 공개… 구글 플로우 뮤직 적용으로 창작 생태계 확장 - aitimes.kr",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53TVhRYXV1d3pFTlo2dFpoaTVLY0RITmVocmt3T0hqYTlJZFRLVjRkSG9JRmY4YzN4RFFUSEVtQVhpQW96dXdZVTZsQzBvcy1tWEVIMlRqWEhSY2xSUDJzS2Q3eWZMRVk?oc=5",
+          "title": "유료 추가 콘텐츠 「Pokémon Pokopia 익스팬션 패스」 제1탄과 「Pokémon Pokopia」 무료 업데이트(Ver.2.0.0)의 배포일이 2026년 8월 5일(수)로 결정. 유료 추가 콘텐츠 제2탄의 새로운 정보도 공개. | News | 한국닌텐도주식회사 - Nintendo",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wMUZzdnduUU9HSndYaEFfS0xsbGc2VDhVR1hkbVNVYVdyMWlxR3h3QVdnVGVNU2luVDduY0JqSWY5T3pWVmgzczN2elFOVFNaUjlTTUp3UUgyRXlmU1JjN2FJSjNyTFdrOXo0UHowOFA?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 04:54:26 GMT"
+          "published": "Thu, 30 Jul 2026 05:41:53 GMT"
+        }
+      ]
+    },
+    {
+      "word": "콘텐츠",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "유료 추가 콘텐츠 「Pokémon Pokopia 익스팬션 패스」 제1탄과 「Pokémon Pokopia」 무료 업데이트(Ver.2.0.0)의 배포일이 2026년 8월 5일(수)로 결정. 유료 추가 콘텐츠 제2탄의 새로운 정보도 공개. | News | 한국닌텐도주식회사 - Nintendo",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wMUZzdnduUU9HSndYaEFfS0xsbGc2VDhVR1hkbVNVYVdyMWlxR3h3QVdnVGVNU2luVDduY0JqSWY5T3pWVmgzczN2elFOVFNaUjlTTUp3UUgyRXlmU1JjN2FJSjNyTFdrOXo0UHowOFA?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 05:41:53 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Pokmon",
+      "count": 2,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "유료 추가 콘텐츠 「Pokémon Pokopia 익스팬션 패스」 제1탄과 「Pokémon Pokopia」 무료 업데이트(Ver.2.0.0)의 배포일이 2026년 8월 5일(수)로 결정. 유료 추가 콘텐츠 제2탄의 새로운 정보도 공개. | News | 한국닌텐도주식회사 - Nintendo",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wMUZzdnduUU9HSndYaEFfS0xsbGc2VDhVR1hkbVNVYVdyMWlxR3h3QVdnVGVNU2luVDduY0JqSWY5T3pWVmgzczN2elFOVFNaUjlTTUp3UUgyRXlmU1JjN2FJSjNyTFdrOXo0UHowOFA?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 05:41:53 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Pokopia",
+      "count": 2,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "유료 추가 콘텐츠 「Pokémon Pokopia 익스팬션 패스」 제1탄과 「Pokémon Pokopia」 무료 업데이트(Ver.2.0.0)의 배포일이 2026년 8월 5일(수)로 결정. 유료 추가 콘텐츠 제2탄의 새로운 정보도 공개. | News | 한국닌텐도주식회사 - Nintendo",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wMUZzdnduUU9HSndYaEFfS0xsbGc2VDhVR1hkbVNVYVdyMWlxR3h3QVdnVGVNU2luVDduY0JqSWY5T3pWVmgzczN2elFOVFNaUjlTTUp3UUgyRXlmU1JjN2FJSjNyTFdrOXo0UHowOFA?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 05:41:53 GMT"
+        }
+      ]
+    },
+    {
+      "word": "공개",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "유료 추가 콘텐츠 「Pokémon Pokopia 익스팬션 패스」 제1탄과 「Pokémon Pokopia」 무료 업데이트(Ver.2.0.0)의 배포일이 2026년 8월 5일(수)로 결정. 유료 추가 콘텐츠 제2탄의 새로운 정보도 공개. | News | 한국닌텐도주식회사 - Nintendo",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wMUZzdnduUU9HSndYaEFfS0xsbGc2VDhVR1hkbVNVYVdyMWlxR3h3QVdnVGVNU2luVDduY0JqSWY5T3pWVmgzczN2elFOVFNaUjlTTUp3UUgyRXlmU1JjN2FJSjNyTFdrOXo0UHowOFA?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 05:41:53 GMT"
+        },
+        {
+          "title": "축구협회, 男 축구대표팀 임시 감독 공개 채용 시작 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNWFaS1BrWHJCaUV5eHpuT09Ba3Z3dWU1c1hZQnhUblNka3NxUjE4SXhzdXl4bUFhY0FOZ3F0dFV4eVZaYVNjbDR6Tzh6MkZ1UFFpSWMzWWJtQ0tGYkN4NHJad2pWXzM0SkhxNERKdmZ3dEpUU1lFODRnMzBPdlotZ21NYw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 09:02:59 GMT"
         }
       ]
     },
@@ -86,10 +207,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘선관위 특검법’ 본회의 통과…잠실 투표지 247만장 재검표 잠정 합의 - 한겨레",
+          "title": "‘선관위 특검법’ 국회 통과…잠실 투표지 247만장 재검표 한다 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55alV1X3gyOU8zUXF2VVcwdVhlcTdlV0JjaGJpa2s5aWdualJKVlRNMFdMM053d28xa0tHb3JCQU4xNGxQcWhxTm9pX004ZUJDM1VQSDNmOXQ2TURuOVMtb1U3aS13NVkzNnkyQi1WYTRvUUNS?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 07:31:00 GMT"
+          "published": "Thu, 30 Jul 2026 07:43:00 GMT"
         }
       ]
     },
@@ -99,23 +220,23 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘선관위 특검법’ 본회의 통과…잠실 투표지 247만장 재검표 잠정 합의 - 한겨레",
+          "title": "‘선관위 특검법’ 국회 통과…잠실 투표지 247만장 재검표 한다 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55alV1X3gyOU8zUXF2VVcwdVhlcTdlV0JjaGJpa2s5aWdualJKVlRNMFdMM053d28xa0tHb3JCQU4xNGxQcWhxTm9pX004ZUJDM1VQSDNmOXQ2TURuOVMtb1U3aS13NVkzNnkyQi1WYTRvUUNS?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 07:31:00 GMT"
+          "published": "Thu, 30 Jul 2026 07:43:00 GMT"
         }
       ]
     },
     {
-      "word": "본회",
+      "word": "국회",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘선관위 특검법’ 본회의 통과…잠실 투표지 247만장 재검표 잠정 합의 - 한겨레",
+          "title": "‘선관위 특검법’ 국회 통과…잠실 투표지 247만장 재검표 한다 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55alV1X3gyOU8zUXF2VVcwdVhlcTdlV0JjaGJpa2s5aWdualJKVlRNMFdMM053d28xa0tHb3JCQU4xNGxQcWhxTm9pX004ZUJDM1VQSDNmOXQ2TURuOVMtb1U3aS13NVkzNnkyQi1WYTRvUUNS?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 07:31:00 GMT"
+          "published": "Thu, 30 Jul 2026 07:43:00 GMT"
         }
       ]
     },
@@ -125,10 +246,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘선관위 특검법’ 본회의 통과…잠실 투표지 247만장 재검표 잠정 합의 - 한겨레",
+          "title": "‘선관위 특검법’ 국회 통과…잠실 투표지 247만장 재검표 한다 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55alV1X3gyOU8zUXF2VVcwdVhlcTdlV0JjaGJpa2s5aWdualJKVlRNMFdMM053d28xa0tHb3JCQU4xNGxQcWhxTm9pX004ZUJDM1VQSDNmOXQ2TURuOVMtb1U3aS13NVkzNnkyQi1WYTRvUUNS?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 07:31:00 GMT"
+          "published": "Thu, 30 Jul 2026 07:43:00 GMT"
         }
       ]
     },
@@ -138,10 +259,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘선관위 특검법’ 본회의 통과…잠실 투표지 247만장 재검표 잠정 합의 - 한겨레",
+          "title": "‘선관위 특검법’ 국회 통과…잠실 투표지 247만장 재검표 한다 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55alV1X3gyOU8zUXF2VVcwdVhlcTdlV0JjaGJpa2s5aWdualJKVlRNMFdMM053d28xa0tHb3JCQU4xNGxQcWhxTm9pX004ZUJDM1VQSDNmOXQ2TURuOVMtb1U3aS13NVkzNnkyQi1WYTRvUUNS?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 07:31:00 GMT"
+          "published": "Thu, 30 Jul 2026 07:43:00 GMT"
         }
       ]
     },
@@ -151,10 +272,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘선관위 특검법’ 본회의 통과…잠실 투표지 247만장 재검표 잠정 합의 - 한겨레",
+          "title": "‘선관위 특검법’ 국회 통과…잠실 투표지 247만장 재검표 한다 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55alV1X3gyOU8zUXF2VVcwdVhlcTdlV0JjaGJpa2s5aWdualJKVlRNMFdMM053d28xa0tHb3JCQU4xNGxQcWhxTm9pX004ZUJDM1VQSDNmOXQ2TURuOVMtb1U3aS13NVkzNnkyQi1WYTRvUUNS?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 07:31:00 GMT"
+          "published": "Thu, 30 Jul 2026 07:43:00 GMT"
         }
       ]
     },
@@ -164,36 +285,166 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘선관위 특검법’ 본회의 통과…잠실 투표지 247만장 재검표 잠정 합의 - 한겨레",
+          "title": "‘선관위 특검법’ 국회 통과…잠실 투표지 247만장 재검표 한다 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55alV1X3gyOU8zUXF2VVcwdVhlcTdlV0JjaGJpa2s5aWdualJKVlRNMFdMM053d28xa0tHb3JCQU4xNGxQcWhxTm9pX004ZUJDM1VQSDNmOXQ2TURuOVMtb1U3aS13NVkzNnkyQi1WYTRvUUNS?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 07:31:00 GMT"
+          "published": "Thu, 30 Jul 2026 07:43:00 GMT"
         }
       ]
     },
     {
-      "word": "잠정",
+      "word": "한다",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘선관위 특검법’ 본회의 통과…잠실 투표지 247만장 재검표 잠정 합의 - 한겨레",
+          "title": "‘선관위 특검법’ 국회 통과…잠실 투표지 247만장 재검표 한다 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55alV1X3gyOU8zUXF2VVcwdVhlcTdlV0JjaGJpa2s5aWdualJKVlRNMFdMM053d28xa0tHb3JCQU4xNGxQcWhxTm9pX004ZUJDM1VQSDNmOXQ2TURuOVMtb1U3aS13NVkzNnkyQi1WYTRvUUNS?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 07:31:00 GMT"
+          "published": "Thu, 30 Jul 2026 07:43:00 GMT"
         }
       ]
     },
     {
-      "word": "합의",
+      "word": "바다",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘선관위 특검법’ 본회의 통과…잠실 투표지 247만장 재검표 잠정 합의 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55alV1X3gyOU8zUXF2VVcwdVhlcTdlV0JjaGJpa2s5aWdualJKVlRNMFdMM053d28xa0tHb3JCQU4xNGxQcWhxTm9pX004ZUJDM1VQSDNmOXQ2TURuOVMtb1U3aS13NVkzNnkyQi1WYTRvUUNS?oc=5",
+          "title": "바다가 식혀주던 부산…122년 만에 최고 폭염 이유는 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xcjdYWUxUSHhINTRFS0lySE8wYnRFY09NdUs3d3NYT3NDVGMxbTJNU19vR0tJWk5hR0JHbHhyTGZIbXBrbkx5X2dIVldSZmR1QWF3bXd4NjBWSWfSAWBBVV95cUxPaF9pMmw4TFBTSjBkd2Qxc3NDb3M4Vm80MkZNN2xZWDM1SGF1dTNTTlJTVzI0WHM1UGNaXzlvZVMzRmVOMHpGaUlmbjFjWG93aWc0eVN2UDRpRnA2MkpBaEI?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 07:31:00 GMT"
+          "published": "Thu, 30 Jul 2026 06:46:25 GMT"
+        }
+      ]
+    },
+    {
+      "word": "식혀주던",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "바다가 식혀주던 부산…122년 만에 최고 폭염 이유는 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xcjdYWUxUSHhINTRFS0lySE8wYnRFY09NdUs3d3NYT3NDVGMxbTJNU19vR0tJWk5hR0JHbHhyTGZIbXBrbkx5X2dIVldSZmR1QWF3bXd4NjBWSWfSAWBBVV95cUxPaF9pMmw4TFBTSjBkd2Qxc3NDb3M4Vm80MkZNN2xZWDM1SGF1dTNTTlJTVzI0WHM1UGNaXzlvZVMzRmVOMHpGaUlmbjFjWG93aWc0eVN2UDRpRnA2MkpBaEI?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 06:46:25 GMT"
+        }
+      ]
+    },
+    {
+      "word": "부산122년",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "바다가 식혀주던 부산…122년 만에 최고 폭염 이유는 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xcjdYWUxUSHhINTRFS0lySE8wYnRFY09NdUs3d3NYT3NDVGMxbTJNU19vR0tJWk5hR0JHbHhyTGZIbXBrbkx5X2dIVldSZmR1QWF3bXd4NjBWSWfSAWBBVV95cUxPaF9pMmw4TFBTSjBkd2Qxc3NDb3M4Vm80MkZNN2xZWDM1SGF1dTNTTlJTVzI0WHM1UGNaXzlvZVMzRmVOMHpGaUlmbjFjWG93aWc0eVN2UDRpRnA2MkpBaEI?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 06:46:25 GMT"
+        }
+      ]
+    },
+    {
+      "word": "만에",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "바다가 식혀주던 부산…122년 만에 최고 폭염 이유는 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xcjdYWUxUSHhINTRFS0lySE8wYnRFY09NdUs3d3NYT3NDVGMxbTJNU19vR0tJWk5hR0JHbHhyTGZIbXBrbkx5X2dIVldSZmR1QWF3bXd4NjBWSWfSAWBBVV95cUxPaF9pMmw4TFBTSjBkd2Qxc3NDb3M4Vm80MkZNN2xZWDM1SGF1dTNTTlJTVzI0WHM1UGNaXzlvZVMzRmVOMHpGaUlmbjFjWG93aWc0eVN2UDRpRnA2MkpBaEI?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 06:46:25 GMT"
+        }
+      ]
+    },
+    {
+      "word": "최고",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "바다가 식혀주던 부산…122년 만에 최고 폭염 이유는 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xcjdYWUxUSHhINTRFS0lySE8wYnRFY09NdUs3d3NYT3NDVGMxbTJNU19vR0tJWk5hR0JHbHhyTGZIbXBrbkx5X2dIVldSZmR1QWF3bXd4NjBWSWfSAWBBVV95cUxPaF9pMmw4TFBTSjBkd2Qxc3NDb3M4Vm80MkZNN2xZWDM1SGF1dTNTTlJTVzI0WHM1UGNaXzlvZVMzRmVOMHpGaUlmbjFjWG93aWc0eVN2UDRpRnA2MkpBaEI?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 06:46:25 GMT"
+        }
+      ]
+    },
+    {
+      "word": "폭염",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "바다가 식혀주던 부산…122년 만에 최고 폭염 이유는 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xcjdYWUxUSHhINTRFS0lySE8wYnRFY09NdUs3d3NYT3NDVGMxbTJNU19vR0tJWk5hR0JHbHhyTGZIbXBrbkx5X2dIVldSZmR1QWF3bXd4NjBWSWfSAWBBVV95cUxPaF9pMmw4TFBTSjBkd2Qxc3NDb3M4Vm80MkZNN2xZWDM1SGF1dTNTTlJTVzI0WHM1UGNaXzlvZVMzRmVOMHpGaUlmbjFjWG93aWc0eVN2UDRpRnA2MkpBaEI?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 06:46:25 GMT"
+        }
+      ]
+    },
+    {
+      "word": "구마모토",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "“구마모토 강진 사망 34명”…여진·정전에 차 안으로 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1NWdFMGl6dHY0TVoxMC03N0dIQzY1S1EwWklWZGZsMjJMNXlOQVhjV1FpNWluNzdmLXJLeG9qNWliWnpsd2diVEd3aWk4T1ZHWlZYLWo4UXhLMDNnODZrUkNJQ2NNUQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 10:09:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "강진",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "“구마모토 강진 사망 34명”…여진·정전에 차 안으로 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1NWdFMGl6dHY0TVoxMC03N0dIQzY1S1EwWklWZGZsMjJMNXlOQVhjV1FpNWluNzdmLXJLeG9qNWliWnpsd2diVEd3aWk4T1ZHWlZYLWo4UXhLMDNnODZrUkNJQ2NNUQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 10:09:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "사망",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "“구마모토 강진 사망 34명”…여진·정전에 차 안으로 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1NWdFMGl6dHY0TVoxMC03N0dIQzY1S1EwWklWZGZsMjJMNXlOQVhjV1FpNWluNzdmLXJLeG9qNWliWnpsd2diVEd3aWk4T1ZHWlZYLWo4UXhLMDNnODZrUkNJQ2NNUQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 10:09:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "34명여진정전",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "“구마모토 강진 사망 34명”…여진·정전에 차 안으로 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1NWdFMGl6dHY0TVoxMC03N0dIQzY1S1EwWklWZGZsMjJMNXlOQVhjV1FpNWluNzdmLXJLeG9qNWliWnpsd2diVEd3aWk4T1ZHWlZYLWo4UXhLMDNnODZrUkNJQ2NNUQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 10:09:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "안으",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "“구마모토 강진 사망 34명”…여진·정전에 차 안으로 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1NWdFMGl6dHY0TVoxMC03N0dIQzY1S1EwWklWZGZsMjJMNXlOQVhjV1FpNWluNzdmLXJLeG9qNWliWnpsd2diVEd3aWk4T1ZHWlZYLWo4UXhLMDNnODZrUkNJQ2NNUQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 10:09:00 GMT"
         }
       ]
     },
@@ -276,262 +527,41 @@
       ]
     },
     {
-      "word": "이진숙",
+      "word": "삼단봉",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이진숙 과방위 보임 두고 여야 공방‥이진숙 \"전학생 집단 괴롭힘\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mZHl2REJnRVF6OV9MQWt0b2loQjdkN0w3dnhNNEs1TXlGNXZvQW5LZkk3clFYQXpqSHhTQXdOUndjUkRPNTMzUWQ3NmRfelF6aXE3RDhIOW1fb0d1SXA4QTk1UGtIdG55b3pnRXlYSXNPSVRLcTI2SdIBeEFVX3lxTE9MdFpndzZ6Z1ZiYWpSSk84em1Qa0tfc3VRc3NZaDZNZkhZZUxXS19rcGU5bFF6Rm5LZ2U0QWExYTZFWVV3Y280RmNYZW5JeUExTnQwZEFoWEhRcFBQMXRPbDVuN1ZKSERVY0hZYjRqQ1kydGpTbkRtdA?oc=5",
+          "title": "삼단봉 들고 '펄쩍' 앞유리 박살‥경찰 무시하자 실탄 \"탕탕\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xWW1CSVNjZ0d6OGpkTnQ0WTFjSjVuOVNVM1NQb1NTT1lWR2Q2T1djWmJreVNnRkJrMkxTZEdHNWNOV0Z4MS0yb1UxWlhtVEZRdHdKVUY4eVJCSzI1WVI3SDNQUDRZNV8tSHFyUnZ4ZFl1dXpwUklB0gF3QVVfeXFMTXFKcFFoVW5sTGgwcWM0ODlIVm5VNUE1a1o3WW9jVlYxSWJfWm00ZjBTa0lfMEt4LUV1eHoyblVHTmxUYjdnQ3MtbTNXWXl1ZG5SdHM5Y2xTYmppM3o4Zm5laWhRX09RRnM5dms4ejlXVUxjWkxPTUU?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 06:12:02 GMT"
+          "published": "Thu, 30 Jul 2026 07:47:08 GMT"
         }
       ]
     },
     {
-      "word": "과방위",
+      "word": "들고",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이진숙 과방위 보임 두고 여야 공방‥이진숙 \"전학생 집단 괴롭힘\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mZHl2REJnRVF6OV9MQWt0b2loQjdkN0w3dnhNNEs1TXlGNXZvQW5LZkk3clFYQXpqSHhTQXdOUndjUkRPNTMzUWQ3NmRfelF6aXE3RDhIOW1fb0d1SXA4QTk1UGtIdG55b3pnRXlYSXNPSVRLcTI2SdIBeEFVX3lxTE9MdFpndzZ6Z1ZiYWpSSk84em1Qa0tfc3VRc3NZaDZNZkhZZUxXS19rcGU5bFF6Rm5LZ2U0QWExYTZFWVV3Y280RmNYZW5JeUExTnQwZEFoWEhRcFBQMXRPbDVuN1ZKSERVY0hZYjRqQ1kydGpTbkRtdA?oc=5",
+          "title": "삼단봉 들고 '펄쩍' 앞유리 박살‥경찰 무시하자 실탄 \"탕탕\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xWW1CSVNjZ0d6OGpkTnQ0WTFjSjVuOVNVM1NQb1NTT1lWR2Q2T1djWmJreVNnRkJrMkxTZEdHNWNOV0Z4MS0yb1UxWlhtVEZRdHdKVUY4eVJCSzI1WVI3SDNQUDRZNV8tSHFyUnZ4ZFl1dXpwUklB0gF3QVVfeXFMTXFKcFFoVW5sTGgwcWM0ODlIVm5VNUE1a1o3WW9jVlYxSWJfWm00ZjBTa0lfMEt4LUV1eHoyblVHTmxUYjdnQ3MtbTNXWXl1ZG5SdHM5Y2xTYmppM3o4Zm5laWhRX09RRnM5dms4ejlXVUxjWkxPTUU?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 06:12:02 GMT"
+          "published": "Thu, 30 Jul 2026 07:47:08 GMT"
         }
       ]
     },
     {
-      "word": "보임",
+      "word": "펄쩍",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이진숙 과방위 보임 두고 여야 공방‥이진숙 \"전학생 집단 괴롭힘\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mZHl2REJnRVF6OV9MQWt0b2loQjdkN0w3dnhNNEs1TXlGNXZvQW5LZkk3clFYQXpqSHhTQXdOUndjUkRPNTMzUWQ3NmRfelF6aXE3RDhIOW1fb0d1SXA4QTk1UGtIdG55b3pnRXlYSXNPSVRLcTI2SdIBeEFVX3lxTE9MdFpndzZ6Z1ZiYWpSSk84em1Qa0tfc3VRc3NZaDZNZkhZZUxXS19rcGU5bFF6Rm5LZ2U0QWExYTZFWVV3Y280RmNYZW5JeUExTnQwZEFoWEhRcFBQMXRPbDVuN1ZKSERVY0hZYjRqQ1kydGpTbkRtdA?oc=5",
+          "title": "삼단봉 들고 '펄쩍' 앞유리 박살‥경찰 무시하자 실탄 \"탕탕\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xWW1CSVNjZ0d6OGpkTnQ0WTFjSjVuOVNVM1NQb1NTT1lWR2Q2T1djWmJreVNnRkJrMkxTZEdHNWNOV0Z4MS0yb1UxWlhtVEZRdHdKVUY4eVJCSzI1WVI3SDNQUDRZNV8tSHFyUnZ4ZFl1dXpwUklB0gF3QVVfeXFMTXFKcFFoVW5sTGgwcWM0ODlIVm5VNUE1a1o3WW9jVlYxSWJfWm00ZjBTa0lfMEt4LUV1eHoyblVHTmxUYjdnQ3MtbTNXWXl1ZG5SdHM5Y2xTYmppM3o4Zm5laWhRX09RRnM5dms4ejlXVUxjWkxPTUU?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 06:12:02 GMT"
-        }
-      ]
-    },
-    {
-      "word": "두고",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이진숙 과방위 보임 두고 여야 공방‥이진숙 \"전학생 집단 괴롭힘\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mZHl2REJnRVF6OV9MQWt0b2loQjdkN0w3dnhNNEs1TXlGNXZvQW5LZkk3clFYQXpqSHhTQXdOUndjUkRPNTMzUWQ3NmRfelF6aXE3RDhIOW1fb0d1SXA4QTk1UGtIdG55b3pnRXlYSXNPSVRLcTI2SdIBeEFVX3lxTE9MdFpndzZ6Z1ZiYWpSSk84em1Qa0tfc3VRc3NZaDZNZkhZZUxXS19rcGU5bFF6Rm5LZ2U0QWExYTZFWVV3Y280RmNYZW5JeUExTnQwZEFoWEhRcFBQMXRPbDVuN1ZKSERVY0hZYjRqQ1kydGpTbkRtdA?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 06:12:02 GMT"
-        }
-      ]
-    },
-    {
-      "word": "여야",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이진숙 과방위 보임 두고 여야 공방‥이진숙 \"전학생 집단 괴롭힘\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mZHl2REJnRVF6OV9MQWt0b2loQjdkN0w3dnhNNEs1TXlGNXZvQW5LZkk3clFYQXpqSHhTQXdOUndjUkRPNTMzUWQ3NmRfelF6aXE3RDhIOW1fb0d1SXA4QTk1UGtIdG55b3pnRXlYSXNPSVRLcTI2SdIBeEFVX3lxTE9MdFpndzZ6Z1ZiYWpSSk84em1Qa0tfc3VRc3NZaDZNZkhZZUxXS19rcGU5bFF6Rm5LZ2U0QWExYTZFWVV3Y280RmNYZW5JeUExTnQwZEFoWEhRcFBQMXRPbDVuN1ZKSERVY0hZYjRqQ1kydGpTbkRtdA?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 06:12:02 GMT"
-        }
-      ]
-    },
-    {
-      "word": "공방이진숙",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이진숙 과방위 보임 두고 여야 공방‥이진숙 \"전학생 집단 괴롭힘\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mZHl2REJnRVF6OV9MQWt0b2loQjdkN0w3dnhNNEs1TXlGNXZvQW5LZkk3clFYQXpqSHhTQXdOUndjUkRPNTMzUWQ3NmRfelF6aXE3RDhIOW1fb0d1SXA4QTk1UGtIdG55b3pnRXlYSXNPSVRLcTI2SdIBeEFVX3lxTE9MdFpndzZ6Z1ZiYWpSSk84em1Qa0tfc3VRc3NZaDZNZkhZZUxXS19rcGU5bFF6Rm5LZ2U0QWExYTZFWVV3Y280RmNYZW5JeUExTnQwZEFoWEhRcFBQMXRPbDVuN1ZKSERVY0hZYjRqQ1kydGpTbkRtdA?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 06:12:02 GMT"
-        }
-      ]
-    },
-    {
-      "word": "전학생",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이진숙 과방위 보임 두고 여야 공방‥이진숙 \"전학생 집단 괴롭힘\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mZHl2REJnRVF6OV9MQWt0b2loQjdkN0w3dnhNNEs1TXlGNXZvQW5LZkk3clFYQXpqSHhTQXdOUndjUkRPNTMzUWQ3NmRfelF6aXE3RDhIOW1fb0d1SXA4QTk1UGtIdG55b3pnRXlYSXNPSVRLcTI2SdIBeEFVX3lxTE9MdFpndzZ6Z1ZiYWpSSk84em1Qa0tfc3VRc3NZaDZNZkhZZUxXS19rcGU5bFF6Rm5LZ2U0QWExYTZFWVV3Y280RmNYZW5JeUExTnQwZEFoWEhRcFBQMXRPbDVuN1ZKSERVY0hZYjRqQ1kydGpTbkRtdA?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 06:12:02 GMT"
-        }
-      ]
-    },
-    {
-      "word": "집단",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이진숙 과방위 보임 두고 여야 공방‥이진숙 \"전학생 집단 괴롭힘\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mZHl2REJnRVF6OV9MQWt0b2loQjdkN0w3dnhNNEs1TXlGNXZvQW5LZkk3clFYQXpqSHhTQXdOUndjUkRPNTMzUWQ3NmRfelF6aXE3RDhIOW1fb0d1SXA4QTk1UGtIdG55b3pnRXlYSXNPSVRLcTI2SdIBeEFVX3lxTE9MdFpndzZ6Z1ZiYWpSSk84em1Qa0tfc3VRc3NZaDZNZkhZZUxXS19rcGU5bFF6Rm5LZ2U0QWExYTZFWVV3Y280RmNYZW5JeUExTnQwZEFoWEhRcFBQMXRPbDVuN1ZKSERVY0hZYjRqQ1kydGpTbkRtdA?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 06:12:02 GMT"
-        }
-      ]
-    },
-    {
-      "word": "괴롭힘",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이진숙 과방위 보임 두고 여야 공방‥이진숙 \"전학생 집단 괴롭힘\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mZHl2REJnRVF6OV9MQWt0b2loQjdkN0w3dnhNNEs1TXlGNXZvQW5LZkk3clFYQXpqSHhTQXdOUndjUkRPNTMzUWQ3NmRfelF6aXE3RDhIOW1fb0d1SXA4QTk1UGtIdG55b3pnRXlYSXNPSVRLcTI2SdIBeEFVX3lxTE9MdFpndzZ6Z1ZiYWpSSk84em1Qa0tfc3VRc3NZaDZNZkhZZUxXS19rcGU5bFF6Rm5LZ2U0QWExYTZFWVV3Y280RmNYZW5JeUExTnQwZEFoWEhRcFBQMXRPbDVuN1ZKSERVY0hZYjRqQ1kydGpTbkRtdA?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 06:12:02 GMT"
-        }
-      ]
-    },
-    {
-      "word": "구마모토",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "구마모토 지진으로 반도체 공급 타격... TSMC·소니·르네사스 재가동 기약 없어 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT3pFNzJzT1NlUXFpbEJIbzNhbHdvLUlqS2MzWkRIQnpURFozRUY5YzVvTXhvR3FCTnpiV3NQMlFGX09lTnFERllSdTFlR2hGREpyOG1YVWFwQm1ySnpqRXJkd1hNNmt6RHJlMTl5Tk9aalNiT1kxM0N2WHZkNGNvZ1JrMXBWUXB5dnpwcnJsN2YwaThlRFlOVUNxWWpnUQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 01:03:30 GMT"
-        }
-      ]
-    },
-    {
-      "word": "지진",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "구마모토 지진으로 반도체 공급 타격... TSMC·소니·르네사스 재가동 기약 없어 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT3pFNzJzT1NlUXFpbEJIbzNhbHdvLUlqS2MzWkRIQnpURFozRUY5YzVvTXhvR3FCTnpiV3NQMlFGX09lTnFERllSdTFlR2hGREpyOG1YVWFwQm1ySnpqRXJkd1hNNmt6RHJlMTl5Tk9aalNiT1kxM0N2WHZkNGNvZ1JrMXBWUXB5dnpwcnJsN2YwaThlRFlOVUNxWWpnUQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 01:03:30 GMT"
-        }
-      ]
-    },
-    {
-      "word": "반도체",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "구마모토 지진으로 반도체 공급 타격... TSMC·소니·르네사스 재가동 기약 없어 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT3pFNzJzT1NlUXFpbEJIbzNhbHdvLUlqS2MzWkRIQnpURFozRUY5YzVvTXhvR3FCTnpiV3NQMlFGX09lTnFERllSdTFlR2hGREpyOG1YVWFwQm1ySnpqRXJkd1hNNmt6RHJlMTl5Tk9aalNiT1kxM0N2WHZkNGNvZ1JrMXBWUXB5dnpwcnJsN2YwaThlRFlOVUNxWWpnUQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 01:03:30 GMT"
-        }
-      ]
-    },
-    {
-      "word": "공급",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "구마모토 지진으로 반도체 공급 타격... TSMC·소니·르네사스 재가동 기약 없어 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT3pFNzJzT1NlUXFpbEJIbzNhbHdvLUlqS2MzWkRIQnpURFozRUY5YzVvTXhvR3FCTnpiV3NQMlFGX09lTnFERllSdTFlR2hGREpyOG1YVWFwQm1ySnpqRXJkd1hNNmt6RHJlMTl5Tk9aalNiT1kxM0N2WHZkNGNvZ1JrMXBWUXB5dnpwcnJsN2YwaThlRFlOVUNxWWpnUQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 01:03:30 GMT"
-        }
-      ]
-    },
-    {
-      "word": "타격",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "구마모토 지진으로 반도체 공급 타격... TSMC·소니·르네사스 재가동 기약 없어 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT3pFNzJzT1NlUXFpbEJIbzNhbHdvLUlqS2MzWkRIQnpURFozRUY5YzVvTXhvR3FCTnpiV3NQMlFGX09lTnFERllSdTFlR2hGREpyOG1YVWFwQm1ySnpqRXJkd1hNNmt6RHJlMTl5Tk9aalNiT1kxM0N2WHZkNGNvZ1JrMXBWUXB5dnpwcnJsN2YwaThlRFlOVUNxWWpnUQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 01:03:30 GMT"
-        }
-      ]
-    },
-    {
-      "word": "TSMC소니르네사스",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "구마모토 지진으로 반도체 공급 타격... TSMC·소니·르네사스 재가동 기약 없어 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT3pFNzJzT1NlUXFpbEJIbzNhbHdvLUlqS2MzWkRIQnpURFozRUY5YzVvTXhvR3FCTnpiV3NQMlFGX09lTnFERllSdTFlR2hGREpyOG1YVWFwQm1ySnpqRXJkd1hNNmt6RHJlMTl5Tk9aalNiT1kxM0N2WHZkNGNvZ1JrMXBWUXB5dnpwcnJsN2YwaThlRFlOVUNxWWpnUQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 01:03:30 GMT"
-        }
-      ]
-    },
-    {
-      "word": "재가동",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "구마모토 지진으로 반도체 공급 타격... TSMC·소니·르네사스 재가동 기약 없어 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT3pFNzJzT1NlUXFpbEJIbzNhbHdvLUlqS2MzWkRIQnpURFozRUY5YzVvTXhvR3FCTnpiV3NQMlFGX09lTnFERllSdTFlR2hGREpyOG1YVWFwQm1ySnpqRXJkd1hNNmt6RHJlMTl5Tk9aalNiT1kxM0N2WHZkNGNvZ1JrMXBWUXB5dnpwcnJsN2YwaThlRFlOVUNxWWpnUQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 01:03:30 GMT"
-        }
-      ]
-    },
-    {
-      "word": "기약",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "구마모토 지진으로 반도체 공급 타격... TSMC·소니·르네사스 재가동 기약 없어 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT3pFNzJzT1NlUXFpbEJIbzNhbHdvLUlqS2MzWkRIQnpURFozRUY5YzVvTXhvR3FCTnpiV3NQMlFGX09lTnFERllSdTFlR2hGREpyOG1YVWFwQm1ySnpqRXJkd1hNNmt6RHJlMTl5Tk9aalNiT1kxM0N2WHZkNGNvZ1JrMXBWUXB5dnpwcnJsN2YwaThlRFlOVUNxWWpnUQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 01:03:30 GMT"
-        }
-      ]
-    },
-    {
-      "word": "없어",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "구마모토 지진으로 반도체 공급 타격... TSMC·소니·르네사스 재가동 기약 없어 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT3pFNzJzT1NlUXFpbEJIbzNhbHdvLUlqS2MzWkRIQnpURFozRUY5YzVvTXhvR3FCTnpiV3NQMlFGX09lTnFERllSdTFlR2hGREpyOG1YVWFwQm1ySnpqRXJkd1hNNmt6RHJlMTl5Tk9aalNiT1kxM0N2WHZkNGNvZ1JrMXBWUXB5dnpwcnJsN2YwaThlRFlOVUNxWWpnUQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 01:03:30 GMT"
-        }
-      ]
-    },
-    {
-      "word": "대이란",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "미국, 대이란 공습 재개···사우디 본격 참전에 중동 전선 넓어지나 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14UlJNN2xOTTNIbi1uZWRFX0lTRk94WWt1eDMtUFlRZ1M1YTUtcXcyb0JrMXJzeGZ5YUJWTEc5dDhQSF9DamZIdHg1S19EZGtPX3c4V0w3V3AwUdIBX0FVX3lxTE81OW9OekRVR1dJdHNkTXJqSTkzMU9aVkRpbnEwUlAtSEFRTm9UcldON25yRVFITDBaaVVnZ1ZaUXpuYkN0VWEwMDRpNXRWM2w1akh0RVc0QWFRcGpUZzhF?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 06:25:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "공습",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "미국, 대이란 공습 재개···사우디 본격 참전에 중동 전선 넓어지나 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14UlJNN2xOTTNIbi1uZWRFX0lTRk94WWt1eDMtUFlRZ1M1YTUtcXcyb0JrMXJzeGZ5YUJWTEc5dDhQSF9DamZIdHg1S19EZGtPX3c4V0w3V3AwUdIBX0FVX3lxTE81OW9OekRVR1dJdHNkTXJqSTkzMU9aVkRpbnEwUlAtSEFRTm9UcldON25yRVFITDBaaVVnZ1ZaUXpuYkN0VWEwMDRpNXRWM2w1akh0RVc0QWFRcGpUZzhF?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 06:25:00 GMT"
+          "published": "Thu, 30 Jul 2026 07:47:08 GMT"
         }
       ]
     }
