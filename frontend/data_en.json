@@ -1,24 +1,99 @@
 {
   "language": "en",
-  "last_updated": 1785494861.1917117,
+  "last_updated": 1785502891.5169227,
   "count": 40,
   "trends": [
     {
-      "word": "Attorney",
+      "word": "Trump",
+      "count": 4,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Defying Trump, Cornyn Uses His Lame-Duck Power - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9va3VUQ3NZWXhwY3BVbEVkZVZjZ0xHbnNEa0Z1QVF3TjBSb0tfcEk0WE5meDgya0dZcloyb29ld2t1QWtid2E4UndBUlFvVkRETWVwN1ljUFhmejh3VlY1cXdpYjVidFhmeUs1azNubHI3c3JhSmVpQmRLbGI?oc=5",
+          "source": "Google News",
+          "published": "Fri, 31 Jul 2026 00:23:01 GMT"
+        },
+        {
+          "title": "Trump's noncitizen voter data remains a mystery. But the claims raise midterm fears - NPR",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN2d1blR2UDdWblRHZl9oVFpEendyVUZfTEduM09VOEQ0N1kza000cU10R3o5Yk5ncU1fT0o0MmpMYXJTcDUwN25NLU55UjZuVC1hZlFuby1NblB3cWdSTzZpX29wV0RRcGpOR1J2WjRIdWxPdV9wVU55Qm43eXVzSE1DV2xtVW5BZng2QVhnMnM0VlJGZVRxN2ROQll1d3BlYzRkSDV5MjdiVnBhTlU4Wg?oc=5",
+          "source": "Google News",
+          "published": "Fri, 31 Jul 2026 09:00:00 GMT"
+        },
+        {
+          "title": "Trump to meet cabinet at Camp David as Iran war drags on – US politics live - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPREhrRzBwZjBtRk5YNjV4TTZNRlJRTjRxa01iSFRNaVE2YjFPNDE4QVhCZm9IMTFzcE5CMkZ5cXViSnV0OTFZcUVsMTlfcWxmdHNfTDhEZG1FZV9UMlAtU1hLUU1zdzRrUXpBOVEybm5hR1JPemVaWmlmYURJMF9nXzh1SkFWaFltSjFqTTFLYnVVUm1Fa3dwUWJlVXpHMjlOY2k1ckxhUWpqSmFtRmhRYkxhVTNKbHhpUU1HaERxWTc?oc=5",
+          "source": "Google News",
+          "published": "Fri, 31 Jul 2026 12:01:05 GMT"
+        },
+        {
+          "title": "U.S. and Ukraine partner on drones and Trump announces Hamas deal: Morning Rundown - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWnk1M2VMMzhNMHBackdYRnhqdW1DM08ydWNRS24ydl82cWN2U194NWszeTRZTnd6bWhwX1UyZW55LTVHaThaREltXy13V3JtYk5iOTZSem45LV8weGl6dC1Fdm10LVF0QXZKVHdZZGRqTllSNVhmWWJjU3NuRHRUVEp5RlQ5SXdkUkd4MjA3eVp3Q282Y29DRFRqV0JRSnFpZWdCcHZDMA?oc=5",
+          "source": "Google News",
+          "published": "Fri, 31 Jul 2026 11:00:39 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Iran",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "U.S. investigating whether Iran was behind cyberattack on Minnesota water systems - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeERJcG8xQXRGamk1aHNPcW1HdllJeWhGSXlFOWIyemFlZmZkQW1IUllubnBZemtwYml5V01YeFJsNXdMOXpyVUVOMjIxUDc1OUstVnBYTWFZVHdrb2R1MnRSNmhwbWR3dUNJYXBOeUtBQlVOTmNsaGZyWXd1OHczWGdJOUZFcHpzUFNWTnhSZFo?oc=5",
+          "source": "Google News",
+          "published": "Fri, 31 Jul 2026 12:34:49 GMT"
+        },
+        {
+          "title": "Trump to meet cabinet at Camp David as Iran war drags on – US politics live - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPREhrRzBwZjBtRk5YNjV4TTZNRlJRTjRxa01iSFRNaVE2YjFPNDE4QVhCZm9IMTFzcE5CMkZ5cXViSnV0OTFZcUVsMTlfcWxmdHNfTDhEZG1FZV9UMlAtU1hLUU1zdzRrUXpBOVEybm5hR1JPemVaWmlmYURJMF9nXzh1SkFWaFltSjFqTTFLYnVVUm1Fa3dwUWJlVXpHMjlOY2k1ckxhUWpqSmFtRmhRYkxhVTNKbHhpUU1HaERxWTc?oc=5",
+          "source": "Google News",
+          "published": "Fri, 31 Jul 2026 12:01:05 GMT"
+        },
+        {
+          "title": "Iran targets strategic U.S. assets in Kuwait, Bahrain after Egypt drone attack - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1X0hXbllmbC1VM0U3V05GQ2VfTW5qVHlVYnlGbFFnOVZHWnpaX2toX2k4WmkwRnpFUzRzSHBpMDloWVUtWEFnX05pY1cwMm9IREtHa1FqSGRlTy1vOHM3ZENnanV3dE80R01aNjRB0gFzQVVfeXFMTzVaTkpwZndUQ3pUc0EzVy1uemk4WklPbGdSS3FrZ2N3Y3ZGUlpLTmNXVVl0WjlyLWNTbXRyV25xZTM1LVZzT0ZQM3RRMUNxWU0ydEI2SGdyVmQ5N0M2eG5VaU40eDVqQTVXNldyWTV1Zjljdw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 31 Jul 2026 06:44:06 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Hamas",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump considers pulling Todd Blanche's attorney general nomination as senators hold out - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OTjlUQjlYVktTVzlENTVsaXE3cGc2YWRHcFBxMjJKVmhkTVRJV1d6RXl1YmsxaDlqdmhvV2NEbS14WDl1VDVhdzBkU1pOUU5GNWFCTkIwMXZ0Zw?oc=5",
+          "title": "Hamas reaches Gaza disarmament agreement with Board of Peace - aljazeera.com",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMzg3OVA4VmsxU0N2bktXWktRVGpRblJwMENKRWR5TjdnVnZVSFRSeG5XVjFrdUZMM0xORGdTZDZPaEN5eno1cWpudEtBM1FRcmxqY25sbVVQSDN5UEYycjRVOVVaVFhNYjNCQTRpaWFOVkpWM1NYVF9NUGNKT3FGajhvZzNPbzd2ZDQzbnNuREZSaWI3cWNJVkhua3RTMERRQWxMU0FvYTlfTFRtRHhrZXRqM0tJLTjSAbwBQVVfeXFMTy1ZMzItTkRPdlVhWnFyYW0yREJoTXRaMWxhWDc4RmNIcFZPdmpYdFNJX2VBMV84aS02NENsaTM1T1NtdXExc0lUTzg5c1lhb01lejM4TXphMmhRaVJ3d093Q0J6dUJsVTVSR3JYTGtNTkJPRmc5dTA4TWRrYWdVRmNFUTFjNDcxRVJQNlJzOTVEcjV5YnRPT3hnRXdORzN4OG82eDFPRXQxN1hBQ19sSEZsTlhHa1BzTGFjbEU?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 01:02:16 GMT"
+          "published": "Fri, 31 Jul 2026 07:44:47 GMT"
         },
         {
-          "title": "Attorney for Nolan Wells' family says experts will review a July 4 boat distress call - PBS",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQUt1RTVEazg5a1VJdGUydDdNZTdfaUIzeGc5UmY2Q1BYYUdSbV80R1hGeUxmM0FHbkVSMDZrMndpdEx4Mk5jUl9mX2x0aGg3ZXVjVDlBU3ljMzhiWmxNWWF2YThjQVJqcExHc0JwQm4yaDM5LW9jaWx5NmFNZ200T3VQcktSa1JsbTZEckg0QjRqSi12bEt0aGFvU1kwS3JOejc5enZCdk9XakFseW5LX1RnSnZYdGkzS2dIRg?oc=5",
+          "title": "U.S. and Ukraine partner on drones and Trump announces Hamas deal: Morning Rundown - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWnk1M2VMMzhNMHBackdYRnhqdW1DM08ydWNRS24ydl82cWN2U194NWszeTRZTnd6bWhwX1UyZW55LTVHaThaREltXy13V3JtYk5iOTZSem45LV8weGl6dC1Fdm10LVF0QXZKVHdZZGRqTllSNVhmWWJjU3NuRHRUVEp5RlQ5SXdkUkd4MjA3eVp3Q282Y29DRFRqV0JRSnFpZWdCcHZDMA?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 00:02:08 GMT"
+          "published": "Fri, 31 Jul 2026 11:00:39 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Seattle",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Seattle mayor says police chief has resigned after criticism of festival shooting response - pbs.org",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUTZTaHpoTGpzS0R0V3UyTjdfbFpGTjg0NS1wc2RPTlEzaUlRcDYyaklKRGFicmdXaGFxWTRBU1FNNGVKVWxxM18tNklFamkyMWVtalgyWXBYMl9sQXVMMW1OUXZJWEN0OTJ0WkFaMk1BSTBwR0NvVjRjRjIyTTBSQ1k4XzBkYWZydlZoM1JlVFdtVThRYk9NUWRqT2NsWWNIenFDVFB1LW56M1R0LWUxVDhnUlQ4REc3dTdlLWJpaDZjMTNI?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 22:55:35 GMT"
+        },
+        {
+          "title": "WNBA Suspends Seattle Storm Co-Owner Five Games for Confronting Anti-Trans Activists Courtside - erininthemorning.com",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5EN0VpQl9kWFZJU0dzSENvbFZCOE4wa2tsazlPLUhqczBfa0picjVHT2tHcTFVelYxMWpoc01FLTdZdkNtc1FRY2Rjb25MZHhTOUNhSHV3a2NqQ1lIVy0tcnl5ZFZSaHdTbkNya0dPUnZCeDlqOFBsaFIzYw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 31 Jul 2026 00:00:37 GMT"
         }
       ]
     },
@@ -28,10 +103,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Spain’s Leader Rushes to Ceuta After Thousands of Migrants Burst Across Border: Live Updates - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoU0pUT3FQZi1XdXM0bXpLdG00MHlFbFFCX2djZVktZzBnNk12LUtkblhMZnlYNVAyb0xIX1NMTWtlWVhhNWdKVDYxYUdKN3dxTHBGWGo3STNOM3ZtYkwzbk5EYnhBa3lUR2VaRUZ5aE9EU3pyTnlId0tuWTVtZUU?oc=5",
+          "title": "Trump to meet cabinet at Camp David as Iran war drags on – US politics live - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPREhrRzBwZjBtRk5YNjV4TTZNRlJRTjRxa01iSFRNaVE2YjFPNDE4QVhCZm9IMTFzcE5CMkZ5cXViSnV0OTFZcUVsMTlfcWxmdHNfTDhEZG1FZV9UMlAtU1hLUU1zdzRrUXpBOVEybm5hR1JPemVaWmlmYURJMF9nXzh1SkFWaFltSjFqTTFLYnVVUm1Fa3dwUWJlVXpHMjlOY2k1ckxhUWpqSmFtRmhRYkxhVTNKbHhpUU1HaERxWTc?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 10:23:32 GMT"
+          "published": "Fri, 31 Jul 2026 12:01:05 GMT"
         },
         {
           "title": "Nasdaq futures rise as tech stocks lead sharp Wall Street rebound: Live updates - CNBC",
@@ -42,172 +117,26 @@
       ]
     },
     {
-      "word": "Updates",
+      "word": "Trade",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Spain’s Leader Rushes to Ceuta After Thousands of Migrants Burst Across Border: Live Updates - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoU0pUT3FQZi1XdXM0bXpLdG00MHlFbFFCX2djZVktZzBnNk12LUtkblhMZnlYNVAyb0xIX1NMTWtlWVhhNWdKVDYxYUdKN3dxTHBGWGo3STNOM3ZtYkwzbk5EYnhBa3lUR2VaRUZ5aE9EU3pyTnlId0tuWTVtZUU?oc=5",
+          "title": "How Leopold Aschenbrenner, the ‘golden child’ of the AI trade, was laid low - Financial Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaXV3d1d0RG56UjM3Zk5PUk9jdjFSVzJsWTV3b29jODBXckFTS3JTWXo3OXVqeHlLMGg4akF5MVc0NE1uTE5FbnpiNTlDZ0ZLNHhYUWpfU3RnMUNWLWk1aGIwWDBYNW9yc1hPLWluVm41emNOZFRCLXlnSnF4dXVhUk1nVEM?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 10:23:32 GMT"
+          "published": "Fri, 31 Jul 2026 00:59:39 GMT"
         },
         {
-          "title": "Nasdaq futures rise as tech stocks lead sharp Wall Street rebound: Live updates - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54R3JtcGRRMU1XOURNOWlmOHh2LUYzd1pweW1JTFRtR0RhYXEwT2QyUlVwZUtINk9wc2F3SWdtYnhmalJXZVZWV3FHV0Q1azg4UTlMeVlPSWxxZzZtUldoYWJJQXBLanRJZDQ4WXVfaHg0WlEtOUcw0gF8QVVfeXFMT1V5OHNxNHFkNjg3SkJXejByUnBsT1lGU1RVcTVuS2dUbGNBc1NkV2JQTERrcXgwWkE5YVVDczU1ak9rd0F2MktfSlpHT0QxMEpta082Q1hMdFJDYy1FMTFHaG5FZnBidTdmdjZBM3RtWl9DdU5ERGxIaWhvaw?oc=5",
+          "title": "MLB trade deadline dominoes for 10 biggest names on 2026 market - ESPN",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeld0ZTZVYnl3Y0pxSDhxVTEwZWppNTlkTTg5LVZBZjNCbWM5VkFJTURCVUxFcnhuZUwtYXFKTm1uWnhrRk10anpLN0xNY09NNDMxTlRhdjBPNHJBLVNwbkIxcUpKS2FRRlkwQUxkS0R1LXczeTRqSmlDR3ZLSFVFMHlpdGdNcmdROWc3Z0x2alZpZURtLS1XQTRfcjVzTVdpYUlaN0ZzM19fZFA3ZzZjQy1RWEdIaHFfUlY5VzFR?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 09:43:00 GMT"
+          "published": "Fri, 31 Jul 2026 11:00:00 GMT"
         }
       ]
     },
     {
-      "word": "Review",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Attorney for Nolan Wells' family says experts will review a July 4 boat distress call - PBS",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQUt1RTVEazg5a1VJdGUydDdNZTdfaUIzeGc5UmY2Q1BYYUdSbV80R1hGeUxmM0FHbkVSMDZrMndpdEx4Mk5jUl9mX2x0aGg3ZXVjVDlBU3ljMzhiWmxNWWF2YThjQVJqcExHc0JwQm4yaDM5LW9jaWx5NmFNZ200T3VQcktSa1JsbTZEckg0QjRqSi12bEt0aGFvU1kwS3JOejc5enZCdk9XakFseW5LX1RnSnZYdGkzS2dIRg?oc=5",
-          "source": "Google News",
-          "published": "Fri, 31 Jul 2026 00:02:08 GMT"
-        },
-        {
-          "title": "Ariana Grande: petal Album Review - pitchfork.com",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zSHhYS1EwUGdUckJfMU94Ukd1bGsyd3hnRkU3VkZmRnlJYmNUVmVELVdGUGp1VTZ5YUdsZHNxbUFuNmFKbGg1Ym9LWGpKSzAyUTN1MUI5M0VqaTBGQl9qcEpjcy0zT1Nm?oc=5",
-          "source": "Google News",
-          "published": "Fri, 31 Jul 2026 04:03:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "July",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Attorney for Nolan Wells' family says experts will review a July 4 boat distress call - PBS",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQUt1RTVEazg5a1VJdGUydDdNZTdfaUIzeGc5UmY2Q1BYYUdSbV80R1hGeUxmM0FHbkVSMDZrMndpdEx4Mk5jUl9mX2x0aGg3ZXVjVDlBU3ljMzhiWmxNWWF2YThjQVJqcExHc0JwQm4yaDM5LW9jaWx5NmFNZ200T3VQcktSa1JsbTZEckg0QjRqSi12bEt0aGFvU1kwS3JOejc5enZCdk9XakFseW5LX1RnSnZYdGkzS2dIRg?oc=5",
-          "source": "Google News",
-          "published": "Fri, 31 Jul 2026 00:02:08 GMT"
-        },
-        {
-          "title": "July 30, 2026 - Letters from an American | Heather Cox Richardson | Substack",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMRnFSRU11RFJfM25oUF9lcnM5RGp2NUxCTHllOUQ4dFlfd1JuVm0zUm1DU3htUkt3ejBZM21jbjhzVDduTWpMLVcwZ2RYQzNuUlptSktYcm0yRGVUbHdEenE3LVFUOUU?oc=5",
-          "source": "Google News",
-          "published": "Fri, 31 Jul 2026 05:42:14 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Water",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "U.S. investigating whether Iran was behind cyberattack on Minnesota water systems - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeERJcG8xQXRGamk1aHNPcW1HdllJeWhGSXlFOWIyemFlZmZkQW1IUllubnBZemtwYml5V01YeFJsNXdMOXpyVUVOMjIxUDc1OUstVnBYTWFZVHdrb2R1MnRSNmhwbWR3dUNJYXBOeUtBQlVOTmNsaGZyWXd1OHczWGdJOUZFcHpzUFNWTnhSZFo?oc=5",
-          "source": "Google News",
-          "published": "Fri, 31 Jul 2026 00:51:00 GMT"
-        },
-        {
-          "title": "Tankers Are Being Blown Out of the Water. See How Mideast Strikes Are Piling Up. - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU1NqSDVIVmZwNEpwbF95VFN6Wk5MdjIzbHEwMWFkbFJLcUV0S1N4S21xczhtWDhreTBUZ0U5WnpBcU9XdXJoclZQQ20yV3cxM0ExSXlKeG5vbWxpS3FBU0NGRkFMZ0UybW1Wend0eUl3TjdDWTZOekJZaElWaVJqTUljbWNoWnh2bmhFa0xLYzR4cnNjNkcxOVl1azhkSUU1MXJWaHV3WWZScTdxbnhMMXRYcDdLbU4xeFN4OHljbGhYRkU?oc=5",
-          "source": "Google News",
-          "published": "Fri, 31 Jul 2026 09:30:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Auto",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Japan quake halts auto and chip plants, testing supply chain resilience - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTDF2aTQxV1BJbDNHMlJaUDJROHROZ1BaWmxMUndqRWZJYWVmUmtvUW9NUUREYzVjczhqTFg2WTVpV3dUWWJQU3RWU2trX3FnSmJNSlVaZFJ2YnRwQzVFcm93dnJrTXVIVUplS3FzeERYOVNvdHdzX1BQdjh2cjVaMmFhazRaYU9fcV8tbDRwZG1QZEl4dWc?oc=5",
-          "source": "Google News",
-          "published": "Fri, 31 Jul 2026 01:28:00 GMT"
-        },
-        {
-          "title": "Gemini Spark can now use Chrome to auto browse, AI Pro access goes international - 9to5Google",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02aGU0UDNvdHRmZWFPYUxHN1JHQzZUUi0ybG9XZWpTVUNwYVVTTFdJNWl0Wmg0Q2ZaR0l5dDVXczk0Xy1xTjJEUnhkcWJYZzRmLWtJV1l5VGd3SW9wNEp3S1Uyd09FRkFXTjVCU0lPXy1TSUN4?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 20:29:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Ukraine",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Ukraine escalates Wildberries attacks to hit Russia’s second-biggest bank as missile crashes in Poland (Ukraine Battlefield update, Day 1,618) - EUobserver",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZkQ0bF96dENzaVR6bnJlYlJNNGxyaEVyUy04M1dJSGtYR29kVjQ0WTZXOVVrcUVpNWNZV3JDR0NKakNKZ3Vxa3Q2dHZnQVF6Y0ZEaW1GLVhTRFo2cUwwUFhUUmw3VGF6c1hWZWI3bGtQVWszOE5KbDJvUFJEUHRLYnpTM1JsUm9TZHNJLWRxV2tfV1pxUWtZNnhUOEJFaU9BZ2Jjejh6VXQxWFFybXhpaW5RVHQ4VHZyeFlOQWwxeXNmUklCQkpGeHdvZEhfUWRIZ05TZ2Z1b0duTlV2YzFXZjNHaXdsZTYxWFY3bmg0Rlh2LU9xNFl3cWFmcmM?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 12:59:08 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Biggest",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Ukraine escalates Wildberries attacks to hit Russia’s second-biggest bank as missile crashes in Poland (Ukraine Battlefield update, Day 1,618) - EUobserver",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZkQ0bF96dENzaVR6bnJlYlJNNGxyaEVyUy04M1dJSGtYR29kVjQ0WTZXOVVrcUVpNWNZV3JDR0NKakNKZ3Vxa3Q2dHZnQVF6Y0ZEaW1GLVhTRFo2cUwwUFhUUmw3VGF6c1hWZWI3bGtQVWszOE5KbDJvUFJEUHRLYnpTM1JsUm9TZHNJLWRxV2tfV1pxUWtZNnhUOEJFaU9BZ2Jjejh6VXQxWFFybXhpaW5RVHQ4VHZyeFlOQWwxeXNmUklCQkpGeHdvZEhfUWRIZ05TZ2Z1b0duTlV2YzFXZjNHaXdsZTYxWFY3bmg0Rlh2LU9xNFl3cWFmcmM?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 12:59:08 GMT"
-        },
-        {
-          "title": "Ranking the 10 Biggest MLB Trade Deadline Mistakes of the Last Decade - Sports Illustrated",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaFF2amE1RUxOSzFUTWhGSmdHRVVRNHlBV20yY1pUeWxYeTlVVlJ3d2lETTExbG5hYWEzTVRoamFKQjdUV3p3SEhNV1JfbmdIcHc3Tm8zR2lta2o3cmFZR2k3V2RCRnhaSWFEVE9VRi1ZdWVJdHpIc09IbDZQbU1HVW1R?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 21:07:22 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Anthropic",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Anthropic's Claude AI escapes tests to hack three organisations - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2QlZMcUJ4dUVteXdkZVAxOElRaVhib0pnTVZuZzBQY043YzMySTE0NUtkQ1Y3NnY5MTJkOHdaemxhdkFjdmJmY2U0cmdDRGYtdnEzUVZvMXZjZw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 31 Jul 2026 09:03:37 GMT"
-        },
-        {
-          "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares - TechCrunch",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMlo5ZkN3RDVwaWhVam9LRFVVeTk2QXp5VG9kS2dWU2JsMDUtYTl1T0ZGWkdiemxXNjBnU1NubzhSa09oZ19tTE1UaUg3ZzhvSVAyTTFqOElkUUQ4ZXRrLTlQd2tVb0pkVTBqWkJHWlVnZjEtUVBGbjF4c1pqdzEyaTBfWkw1NXd1YzRPYnZ3NEpXaElrZ3lTanI3SmxPM2FfNE9KTkJTV2t3YzJ2a2E1UzFMTjRvb2V3b0stRFhWa1dMeWhYRks1M0hSdThaQ3BKbWlJbHNuS1RneXM?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 23:25:58 GMT"
-        }
-      ]
-    },
-    {
-      "word": "may",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares - TechCrunch",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMlo5ZkN3RDVwaWhVam9LRFVVeTk2QXp5VG9kS2dWU2JsMDUtYTl1T0ZGWkdiemxXNjBnU1NubzhSa09oZ19tTE1UaUg3ZzhvSVAyTTFqOElkUUQ4ZXRrLTlQd2tVb0pkVTBqWkJHWlVnZjEtUVBGbjF4c1pqdzEyaTBfWkw1NXd1YzRPYnZ3NEpXaElrZ3lTanI3SmxPM2FfNE9KTkJTV2t3YzJ2a2E1UzFMTjRvb2V3b0stRFhWa1dMeWhYRks1M0hSdThaQ3BKbWlJbHNuS1RneXM?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 23:25:58 GMT"
-        },
-        {
-          "title": "Mission to rescue space telescope may be in jeopardy - abcnews.com",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdE1qbFRUNDFZM0huSGpORm90YkNXeGxFQ0pEa2Z1X29QZThNYjhOMkNxQ2NzakI0eXdiTlJGWXpWbUlBejQ4aVRON2prWWRwVGhyU09vLUFqUUh6VWVqcnExU3NmekdCa2xfSjFHcXktQVdzbTNnYmZnNzNmcmJRNjJmTV8tV0dD0gGOAUFVX3lxTE95SDk4ZzZNN2FTNUU0V1BmTHVPUWpCa1dHVEZXTzdTQVlqcnZiQ0ZFUFM2eTlILXdCY1ZBY1NNR2RXSGdEVVFWQWNoY0NHLURwZVNnd2E3UDVHYl9ZWkVEQXJJYkY1TGxHR1BEaFNvOExkVEk1WlBxa19fa0NFREpwNi1GQWNHcDR5emU1bXc?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 19:35:01 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Stocks",
+      "word": "Nasdaq",
       "count": 2,
       "category": "NOUN",
       "articles": [
@@ -218,23 +147,29 @@
           "published": "Fri, 31 Jul 2026 09:43:00 GMT"
         },
         {
-          "title": "South Korea’s Kospi index jumps nearly 18% on a surge in chipmaking stocks - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYXVQbFd2b2dBZFVoT3ZiRndKdVVic0xJWVFBWF9hN0FYaUk2ZkhlVkctWWtibi1GNVgxdE5Ec0FzNkpwNnlsZXNla1d5cXgzbFVIZ2pnMFdvMW93QlhXOW9CbkRhd2J2Vl9jaVV1THY2RzFzbUtvSGhNanA5NE5OQXJTN1BNVlEzXzVQQ00zQk54U0NIdlpj?oc=5",
+          "title": "Stock Market Today: Dow, S&P 500 and Nasdaq poised for strong session as Amazon climbs on earnings, chips gain following surge for South Korea's Kospi - MarketWatch",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLUtUak1CSmR4OHRRMzdvSXdQckN0Ri1ReXFYVEZKWEZXVkZlYWl6ZGdQbjJ3NlFmTmxETi1Ld2hDUl9QS3pKWWZmSV84LVRGdlJMSGk4VG43bU9jQVR5dkhjTGVtTVlDV1RyRFZaOG5vN1Y4c2RFc3lQRUlFSHl0Y1F4UVhvM1FHYjNlT2l3NERXMVJCZ0k3aERZVEJDRF9pVkdiMDJpc0hZb0ZtTDhHSHBjeFRIc0FBVVRETFdtaGw?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 10:25:00 GMT"
+          "published": "Fri, 31 Jul 2026 10:29:00 GMT"
         }
       ]
     },
     {
-      "word": "Hamas",
-      "count": 1,
+      "word": "Market",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Hamas reaches Gaza disarmament agreement with Board of Peace - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMzg3OVA4VmsxU0N2bktXWktRVGpRblJwMENKRWR5TjdnVnZVSFRSeG5XVjFrdUZMM0xORGdTZDZPaEN5eno1cWpudEtBM1FRcmxqY25sbVVQSDN5UEYycjRVOVVaVFhNYjNCQTRpaWFOVkpWM1NYVF9NUGNKT3FGajhvZzNPbzd2ZDQzbnNuREZSaWI3cWNJVkhua3RTMERRQWxMU0FvYTlfTFRtRHhrZXRqM0tJLTjSAbwBQVVfeXFMTy1ZMzItTkRPdlVhWnFyYW0yREJoTXRaMWxhWDc4RmNIcFZPdmpYdFNJX2VBMV84aS02NENsaTM1T1NtdXExc0lUTzg5c1lhb01lejM4TXphMmhRaVJ3d093Q0J6dUJsVTVSR3JYTGtNTkJPRmc5dTA4TWRrYWdVRmNFUTFjNDcxRVJQNlJzOTVEcjV5YnRPT3hnRXdORzN4OG82eDFPRXQxN1hBQ19sSEZsTlhHa1BzTGFjbEU?oc=5",
+          "title": "Stock Market Today: Dow, S&P 500 and Nasdaq poised for strong session as Amazon climbs on earnings, chips gain following surge for South Korea's Kospi - MarketWatch",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLUtUak1CSmR4OHRRMzdvSXdQckN0Ri1ReXFYVEZKWEZXVkZlYWl6ZGdQbjJ3NlFmTmxETi1Ld2hDUl9QS3pKWWZmSV84LVRGdlJMSGk4VG43bU9jQVR5dkhjTGVtTVlDV1RyRFZaOG5vN1Y4c2RFc3lQRUlFSHl0Y1F4UVhvM1FHYjNlT2l3NERXMVJCZ0k3aERZVEJDRF9pVkdiMDJpc0hZb0ZtTDhHSHBjeFRIc0FBVVRETFdtaGw?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 07:41:15 GMT"
+          "published": "Fri, 31 Jul 2026 10:29:00 GMT"
+        },
+        {
+          "title": "MLB trade deadline dominoes for 10 biggest names on 2026 market - ESPN",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeld0ZTZVYnl3Y0pxSDhxVTEwZWppNTlkTTg5LVZBZjNCbWM5VkFJTURCVUxFcnhuZUwtYXFKTm1uWnhrRk10anpLN0xNY09NNDMxTlRhdjBPNHJBLVNwbkIxcUpKS2FRRlkwQUxkS0R1LXczeTRqSmlDR3ZLSFVFMHlpdGdNcmdROWc3Z0x2alZpZURtLS1XQTRfcjVzTVdpYUlaN0ZzM19fZFA3ZzZjQy1RWEdIaHFfUlY5VzFR?oc=5",
+          "source": "Google News",
+          "published": "Fri, 31 Jul 2026 11:00:00 GMT"
         }
       ]
     },
@@ -244,10 +179,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Hamas reaches Gaza disarmament agreement with Board of Peace - Al Jazeera",
+          "title": "Hamas reaches Gaza disarmament agreement with Board of Peace - aljazeera.com",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMzg3OVA4VmsxU0N2bktXWktRVGpRblJwMENKRWR5TjdnVnZVSFRSeG5XVjFrdUZMM0xORGdTZDZPaEN5eno1cWpudEtBM1FRcmxqY25sbVVQSDN5UEYycjRVOVVaVFhNYjNCQTRpaWFOVkpWM1NYVF9NUGNKT3FGajhvZzNPbzd2ZDQzbnNuREZSaWI3cWNJVkhua3RTMERRQWxMU0FvYTlfTFRtRHhrZXRqM0tJLTjSAbwBQVVfeXFMTy1ZMzItTkRPdlVhWnFyYW0yREJoTXRaMWxhWDc4RmNIcFZPdmpYdFNJX2VBMV84aS02NENsaTM1T1NtdXExc0lUTzg5c1lhb01lejM4TXphMmhRaVJ3d093Q0J6dUJsVTVSR3JYTGtNTkJPRmc5dTA4TWRrYWdVRmNFUTFjNDcxRVJQNlJzOTVEcjV5YnRPT3hnRXdORzN4OG82eDFPRXQxN1hBQ19sSEZsTlhHa1BzTGFjbEU?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 07:41:15 GMT"
+          "published": "Fri, 31 Jul 2026 07:44:47 GMT"
         }
       ]
     },
@@ -257,10 +192,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Hamas reaches Gaza disarmament agreement with Board of Peace - Al Jazeera",
+          "title": "Hamas reaches Gaza disarmament agreement with Board of Peace - aljazeera.com",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMzg3OVA4VmsxU0N2bktXWktRVGpRblJwMENKRWR5TjdnVnZVSFRSeG5XVjFrdUZMM0xORGdTZDZPaEN5eno1cWpudEtBM1FRcmxqY25sbVVQSDN5UEYycjRVOVVaVFhNYjNCQTRpaWFOVkpWM1NYVF9NUGNKT3FGajhvZzNPbzd2ZDQzbnNuREZSaWI3cWNJVkhua3RTMERRQWxMU0FvYTlfTFRtRHhrZXRqM0tJLTjSAbwBQVVfeXFMTy1ZMzItTkRPdlVhWnFyYW0yREJoTXRaMWxhWDc4RmNIcFZPdmpYdFNJX2VBMV84aS02NENsaTM1T1NtdXExc0lUTzg5c1lhb01lejM4TXphMmhRaVJ3d093Q0J6dUJsVTVSR3JYTGtNTkJPRmc5dTA4TWRrYWdVRmNFUTFjNDcxRVJQNlJzOTVEcjV5YnRPT3hnRXdORzN4OG82eDFPRXQxN1hBQ19sSEZsTlhHa1BzTGFjbEU?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 07:41:15 GMT"
+          "published": "Fri, 31 Jul 2026 07:44:47 GMT"
         }
       ]
     },
@@ -270,10 +205,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Hamas reaches Gaza disarmament agreement with Board of Peace - Al Jazeera",
+          "title": "Hamas reaches Gaza disarmament agreement with Board of Peace - aljazeera.com",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMzg3OVA4VmsxU0N2bktXWktRVGpRblJwMENKRWR5TjdnVnZVSFRSeG5XVjFrdUZMM0xORGdTZDZPaEN5eno1cWpudEtBM1FRcmxqY25sbVVQSDN5UEYycjRVOVVaVFhNYjNCQTRpaWFOVkpWM1NYVF9NUGNKT3FGajhvZzNPbzd2ZDQzbnNuREZSaWI3cWNJVkhua3RTMERRQWxMU0FvYTlfTFRtRHhrZXRqM0tJLTjSAbwBQVVfeXFMTy1ZMzItTkRPdlVhWnFyYW0yREJoTXRaMWxhWDc4RmNIcFZPdmpYdFNJX2VBMV84aS02NENsaTM1T1NtdXExc0lUTzg5c1lhb01lejM4TXphMmhRaVJ3d093Q0J6dUJsVTVSR3JYTGtNTkJPRmc5dTA4TWRrYWdVRmNFUTFjNDcxRVJQNlJzOTVEcjV5YnRPT3hnRXdORzN4OG82eDFPRXQxN1hBQ19sSEZsTlhHa1BzTGFjbEU?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 07:41:15 GMT"
+          "published": "Fri, 31 Jul 2026 07:44:47 GMT"
         }
       ]
     },
@@ -283,10 +218,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Hamas reaches Gaza disarmament agreement with Board of Peace - Al Jazeera",
+          "title": "Hamas reaches Gaza disarmament agreement with Board of Peace - aljazeera.com",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMzg3OVA4VmsxU0N2bktXWktRVGpRblJwMENKRWR5TjdnVnZVSFRSeG5XVjFrdUZMM0xORGdTZDZPaEN5eno1cWpudEtBM1FRcmxqY25sbVVQSDN5UEYycjRVOVVaVFhNYjNCQTRpaWFOVkpWM1NYVF9NUGNKT3FGajhvZzNPbzd2ZDQzbnNuREZSaWI3cWNJVkhua3RTMERRQWxMU0FvYTlfTFRtRHhrZXRqM0tJLTjSAbwBQVVfeXFMTy1ZMzItTkRPdlVhWnFyYW0yREJoTXRaMWxhWDc4RmNIcFZPdmpYdFNJX2VBMV84aS02NENsaTM1T1NtdXExc0lUTzg5c1lhb01lejM4TXphMmhRaVJ3d093Q0J6dUJsVTVSR3JYTGtNTkJPRmc5dTA4TWRrYWdVRmNFUTFjNDcxRVJQNlJzOTVEcjV5YnRPT3hnRXdORzN4OG82eDFPRXQxN1hBQ19sSEZsTlhHa1BzTGFjbEU?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 07:41:15 GMT"
+          "published": "Fri, 31 Jul 2026 07:44:47 GMT"
         }
       ]
     },
@@ -296,10 +231,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Hamas reaches Gaza disarmament agreement with Board of Peace - Al Jazeera",
+          "title": "Hamas reaches Gaza disarmament agreement with Board of Peace - aljazeera.com",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMzg3OVA4VmsxU0N2bktXWktRVGpRblJwMENKRWR5TjdnVnZVSFRSeG5XVjFrdUZMM0xORGdTZDZPaEN5eno1cWpudEtBM1FRcmxqY25sbVVQSDN5UEYycjRVOVVaVFhNYjNCQTRpaWFOVkpWM1NYVF9NUGNKT3FGajhvZzNPbzd2ZDQzbnNuREZSaWI3cWNJVkhua3RTMERRQWxMU0FvYTlfTFRtRHhrZXRqM0tJLTjSAbwBQVVfeXFMTy1ZMzItTkRPdlVhWnFyYW0yREJoTXRaMWxhWDc4RmNIcFZPdmpYdFNJX2VBMV84aS02NENsaTM1T1NtdXExc0lUTzg5c1lhb01lejM4TXphMmhRaVJ3d093Q0J6dUJsVTVSR3JYTGtNTkJPRmc5dTA4TWRrYWdVRmNFUTFjNDcxRVJQNlJzOTVEcjV5YnRPT3hnRXdORzN4OG82eDFPRXQxN1hBQ19sSEZsTlhHa1BzTGFjbEU?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 07:41:15 GMT"
+          "published": "Fri, 31 Jul 2026 07:44:47 GMT"
         }
       ]
     },
@@ -309,127 +244,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Hamas reaches Gaza disarmament agreement with Board of Peace - Al Jazeera",
+          "title": "Hamas reaches Gaza disarmament agreement with Board of Peace - aljazeera.com",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMzg3OVA4VmsxU0N2bktXWktRVGpRblJwMENKRWR5TjdnVnZVSFRSeG5XVjFrdUZMM0xORGdTZDZPaEN5eno1cWpudEtBM1FRcmxqY25sbVVQSDN5UEYycjRVOVVaVFhNYjNCQTRpaWFOVkpWM1NYVF9NUGNKT3FGajhvZzNPbzd2ZDQzbnNuREZSaWI3cWNJVkhua3RTMERRQWxMU0FvYTlfTFRtRHhrZXRqM0tJLTjSAbwBQVVfeXFMTy1ZMzItTkRPdlVhWnFyYW0yREJoTXRaMWxhWDc4RmNIcFZPdmpYdFNJX2VBMV84aS02NENsaTM1T1NtdXExc0lUTzg5c1lhb01lejM4TXphMmhRaVJ3d093Q0J6dUJsVTVSR3JYTGtNTkJPRmc5dTA4TWRrYWdVRmNFUTFjNDcxRVJQNlJzOTVEcjV5YnRPT3hnRXdORzN4OG82eDFPRXQxN1hBQ19sSEZsTlhHa1BzTGFjbEU?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 07:41:15 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Trump",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump considers pulling Todd Blanche's attorney general nomination as senators hold out - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OTjlUQjlYVktTVzlENTVsaXE3cGc2YWRHcFBxMjJKVmhkTVRJV1d6RXl1YmsxaDlqdmhvV2NEbS14WDl1VDVhdzBkU1pOUU5GNWFCTkIwMXZ0Zw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 31 Jul 2026 01:02:16 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Considers",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump considers pulling Todd Blanche's attorney general nomination as senators hold out - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OTjlUQjlYVktTVzlENTVsaXE3cGc2YWRHcFBxMjJKVmhkTVRJV1d6RXl1YmsxaDlqdmhvV2NEbS14WDl1VDVhdzBkU1pOUU5GNWFCTkIwMXZ0Zw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 31 Jul 2026 01:02:16 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Pulling",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump considers pulling Todd Blanche's attorney general nomination as senators hold out - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OTjlUQjlYVktTVzlENTVsaXE3cGc2YWRHcFBxMjJKVmhkTVRJV1d6RXl1YmsxaDlqdmhvV2NEbS14WDl1VDVhdzBkU1pOUU5GNWFCTkIwMXZ0Zw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 31 Jul 2026 01:02:16 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Todd",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump considers pulling Todd Blanche's attorney general nomination as senators hold out - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OTjlUQjlYVktTVzlENTVsaXE3cGc2YWRHcFBxMjJKVmhkTVRJV1d6RXl1YmsxaDlqdmhvV2NEbS14WDl1VDVhdzBkU1pOUU5GNWFCTkIwMXZ0Zw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 31 Jul 2026 01:02:16 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Blanche",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump considers pulling Todd Blanche's attorney general nomination as senators hold out - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OTjlUQjlYVktTVzlENTVsaXE3cGc2YWRHcFBxMjJKVmhkTVRJV1d6RXl1YmsxaDlqdmhvV2NEbS14WDl1VDVhdzBkU1pOUU5GNWFCTkIwMXZ0Zw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 31 Jul 2026 01:02:16 GMT"
-        }
-      ]
-    },
-    {
-      "word": "General",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump considers pulling Todd Blanche's attorney general nomination as senators hold out - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OTjlUQjlYVktTVzlENTVsaXE3cGc2YWRHcFBxMjJKVmhkTVRJV1d6RXl1YmsxaDlqdmhvV2NEbS14WDl1VDVhdzBkU1pOUU5GNWFCTkIwMXZ0Zw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 31 Jul 2026 01:02:16 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Nomination",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump considers pulling Todd Blanche's attorney general nomination as senators hold out - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OTjlUQjlYVktTVzlENTVsaXE3cGc2YWRHcFBxMjJKVmhkTVRJV1d6RXl1YmsxaDlqdmhvV2NEbS14WDl1VDVhdzBkU1pOUU5GNWFCTkIwMXZ0Zw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 31 Jul 2026 01:02:16 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Senators",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump considers pulling Todd Blanche's attorney general nomination as senators hold out - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OTjlUQjlYVktTVzlENTVsaXE3cGc2YWRHcFBxMjJKVmhkTVRJV1d6RXl1YmsxaDlqdmhvV2NEbS14WDl1VDVhdzBkU1pOUU5GNWFCTkIwMXZ0Zw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 31 Jul 2026 01:02:16 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Hold",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump considers pulling Todd Blanche's attorney general nomination as senators hold out - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OTjlUQjlYVktTVzlENTVsaXE3cGc2YWRHcFBxMjJKVmhkTVRJV1d6RXl1YmsxaDlqdmhvV2NEbS14WDl1VDVhdzBkU1pOUU5GNWFCTkIwMXZ0Zw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 31 Jul 2026 01:02:16 GMT"
+          "published": "Fri, 31 Jul 2026 07:44:47 GMT"
         }
       ]
     },
@@ -439,23 +257,36 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Spain’s Leader Rushes to Ceuta After Thousands of Migrants Burst Across Border: Live Updates - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoU0pUT3FQZi1XdXM0bXpLdG00MHlFbFFCX2djZVktZzBnNk12LUtkblhMZnlYNVAyb0xIX1NMTWtlWVhhNWdKVDYxYUdKN3dxTHBGWGo3STNOM3ZtYkwzbk5EYnhBa3lUR2VaRUZ5aE9EU3pyTnlId0tuWTVtZUU?oc=5",
+          "title": "Spain’s prime minister rushes to diffuse migrant crisis after 60,000 cross from Morocco in a single day - CNN",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwak9WdDdnc05DSUNxVjg3a0xCb0sycG02ZmpZVnZZMXZXWWQxX0lpYVozSl9ZVnA5R0o5LUNDc0JYMnZ6YzI0U2ljRlBoUS1oWm82dnRxS0RHb0dqbW1yZmZnX2JKLU0xVlluWnNwZEQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 10:23:32 GMT"
+          "published": "Fri, 31 Jul 2026 08:11:56 GMT"
         }
       ]
     },
     {
-      "word": "Leader",
+      "word": "Prime",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Spain’s Leader Rushes to Ceuta After Thousands of Migrants Burst Across Border: Live Updates - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoU0pUT3FQZi1XdXM0bXpLdG00MHlFbFFCX2djZVktZzBnNk12LUtkblhMZnlYNVAyb0xIX1NMTWtlWVhhNWdKVDYxYUdKN3dxTHBGWGo3STNOM3ZtYkwzbk5EYnhBa3lUR2VaRUZ5aE9EU3pyTnlId0tuWTVtZUU?oc=5",
+          "title": "Spain’s prime minister rushes to diffuse migrant crisis after 60,000 cross from Morocco in a single day - CNN",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwak9WdDdnc05DSUNxVjg3a0xCb0sycG02ZmpZVnZZMXZXWWQxX0lpYVozSl9ZVnA5R0o5LUNDc0JYMnZ6YzI0U2ljRlBoUS1oWm82dnRxS0RHb0dqbW1yZmZnX2JKLU0xVlluWnNwZEQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 10:23:32 GMT"
+          "published": "Fri, 31 Jul 2026 08:11:56 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Minister",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Spain’s prime minister rushes to diffuse migrant crisis after 60,000 cross from Morocco in a single day - CNN",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwak9WdDdnc05DSUNxVjg3a0xCb0sycG02ZmpZVnZZMXZXWWQxX0lpYVozSl9ZVnA5R0o5LUNDc0JYMnZ6YzI0U2ljRlBoUS1oWm82dnRxS0RHb0dqbW1yZmZnX2JKLU0xVlluWnNwZEQ?oc=5",
+          "source": "Google News",
+          "published": "Fri, 31 Jul 2026 08:11:56 GMT"
         }
       ]
     },
@@ -465,127 +296,296 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Spain’s Leader Rushes to Ceuta After Thousands of Migrants Burst Across Border: Live Updates - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoU0pUT3FQZi1XdXM0bXpLdG00MHlFbFFCX2djZVktZzBnNk12LUtkblhMZnlYNVAyb0xIX1NMTWtlWVhhNWdKVDYxYUdKN3dxTHBGWGo3STNOM3ZtYkwzbk5EYnhBa3lUR2VaRUZ5aE9EU3pyTnlId0tuWTVtZUU?oc=5",
+          "title": "Spain’s prime minister rushes to diffuse migrant crisis after 60,000 cross from Morocco in a single day - CNN",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwak9WdDdnc05DSUNxVjg3a0xCb0sycG02ZmpZVnZZMXZXWWQxX0lpYVozSl9ZVnA5R0o5LUNDc0JYMnZ6YzI0U2ljRlBoUS1oWm82dnRxS0RHb0dqbW1yZmZnX2JKLU0xVlluWnNwZEQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 10:23:32 GMT"
+          "published": "Fri, 31 Jul 2026 08:11:56 GMT"
         }
       ]
     },
     {
-      "word": "Ceuta",
+      "word": "Diffuse",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Spain’s Leader Rushes to Ceuta After Thousands of Migrants Burst Across Border: Live Updates - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoU0pUT3FQZi1XdXM0bXpLdG00MHlFbFFCX2djZVktZzBnNk12LUtkblhMZnlYNVAyb0xIX1NMTWtlWVhhNWdKVDYxYUdKN3dxTHBGWGo3STNOM3ZtYkwzbk5EYnhBa3lUR2VaRUZ5aE9EU3pyTnlId0tuWTVtZUU?oc=5",
+          "title": "Spain’s prime minister rushes to diffuse migrant crisis after 60,000 cross from Morocco in a single day - CNN",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwak9WdDdnc05DSUNxVjg3a0xCb0sycG02ZmpZVnZZMXZXWWQxX0lpYVozSl9ZVnA5R0o5LUNDc0JYMnZ6YzI0U2ljRlBoUS1oWm82dnRxS0RHb0dqbW1yZmZnX2JKLU0xVlluWnNwZEQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 10:23:32 GMT"
+          "published": "Fri, 31 Jul 2026 08:11:56 GMT"
         }
       ]
     },
     {
-      "word": "Thousands",
+      "word": "Migrant",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Spain’s Leader Rushes to Ceuta After Thousands of Migrants Burst Across Border: Live Updates - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoU0pUT3FQZi1XdXM0bXpLdG00MHlFbFFCX2djZVktZzBnNk12LUtkblhMZnlYNVAyb0xIX1NMTWtlWVhhNWdKVDYxYUdKN3dxTHBGWGo3STNOM3ZtYkwzbk5EYnhBa3lUR2VaRUZ5aE9EU3pyTnlId0tuWTVtZUU?oc=5",
+          "title": "Spain’s prime minister rushes to diffuse migrant crisis after 60,000 cross from Morocco in a single day - CNN",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwak9WdDdnc05DSUNxVjg3a0xCb0sycG02ZmpZVnZZMXZXWWQxX0lpYVozSl9ZVnA5R0o5LUNDc0JYMnZ6YzI0U2ljRlBoUS1oWm82dnRxS0RHb0dqbW1yZmZnX2JKLU0xVlluWnNwZEQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 10:23:32 GMT"
+          "published": "Fri, 31 Jul 2026 08:11:56 GMT"
         }
       ]
     },
     {
-      "word": "Migrants",
+      "word": "Crisis",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Spain’s Leader Rushes to Ceuta After Thousands of Migrants Burst Across Border: Live Updates - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoU0pUT3FQZi1XdXM0bXpLdG00MHlFbFFCX2djZVktZzBnNk12LUtkblhMZnlYNVAyb0xIX1NMTWtlWVhhNWdKVDYxYUdKN3dxTHBGWGo3STNOM3ZtYkwzbk5EYnhBa3lUR2VaRUZ5aE9EU3pyTnlId0tuWTVtZUU?oc=5",
+          "title": "Spain’s prime minister rushes to diffuse migrant crisis after 60,000 cross from Morocco in a single day - CNN",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwak9WdDdnc05DSUNxVjg3a0xCb0sycG02ZmpZVnZZMXZXWWQxX0lpYVozSl9ZVnA5R0o5LUNDc0JYMnZ6YzI0U2ljRlBoUS1oWm82dnRxS0RHb0dqbW1yZmZnX2JKLU0xVlluWnNwZEQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 10:23:32 GMT"
+          "published": "Fri, 31 Jul 2026 08:11:56 GMT"
         }
       ]
     },
     {
-      "word": "Burst",
+      "word": "Cross",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Spain’s Leader Rushes to Ceuta After Thousands of Migrants Burst Across Border: Live Updates - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoU0pUT3FQZi1XdXM0bXpLdG00MHlFbFFCX2djZVktZzBnNk12LUtkblhMZnlYNVAyb0xIX1NMTWtlWVhhNWdKVDYxYUdKN3dxTHBGWGo3STNOM3ZtYkwzbk5EYnhBa3lUR2VaRUZ5aE9EU3pyTnlId0tuWTVtZUU?oc=5",
+          "title": "Spain’s prime minister rushes to diffuse migrant crisis after 60,000 cross from Morocco in a single day - CNN",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwak9WdDdnc05DSUNxVjg3a0xCb0sycG02ZmpZVnZZMXZXWWQxX0lpYVozSl9ZVnA5R0o5LUNDc0JYMnZ6YzI0U2ljRlBoUS1oWm82dnRxS0RHb0dqbW1yZmZnX2JKLU0xVlluWnNwZEQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 10:23:32 GMT"
+          "published": "Fri, 31 Jul 2026 08:11:56 GMT"
         }
       ]
     },
     {
-      "word": "Across",
+      "word": "Morocco",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Spain’s Leader Rushes to Ceuta After Thousands of Migrants Burst Across Border: Live Updates - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoU0pUT3FQZi1XdXM0bXpLdG00MHlFbFFCX2djZVktZzBnNk12LUtkblhMZnlYNVAyb0xIX1NMTWtlWVhhNWdKVDYxYUdKN3dxTHBGWGo3STNOM3ZtYkwzbk5EYnhBa3lUR2VaRUZ5aE9EU3pyTnlId0tuWTVtZUU?oc=5",
+          "title": "Spain’s prime minister rushes to diffuse migrant crisis after 60,000 cross from Morocco in a single day - CNN",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwak9WdDdnc05DSUNxVjg3a0xCb0sycG02ZmpZVnZZMXZXWWQxX0lpYVozSl9ZVnA5R0o5LUNDc0JYMnZ6YzI0U2ljRlBoUS1oWm82dnRxS0RHb0dqbW1yZmZnX2JKLU0xVlluWnNwZEQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 10:23:32 GMT"
+          "published": "Fri, 31 Jul 2026 08:11:56 GMT"
         }
       ]
     },
     {
-      "word": "Border",
+      "word": "Single",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Spain’s Leader Rushes to Ceuta After Thousands of Migrants Burst Across Border: Live Updates - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoU0pUT3FQZi1XdXM0bXpLdG00MHlFbFFCX2djZVktZzBnNk12LUtkblhMZnlYNVAyb0xIX1NMTWtlWVhhNWdKVDYxYUdKN3dxTHBGWGo3STNOM3ZtYkwzbk5EYnhBa3lUR2VaRUZ5aE9EU3pyTnlId0tuWTVtZUU?oc=5",
+          "title": "Spain’s prime minister rushes to diffuse migrant crisis after 60,000 cross from Morocco in a single day - CNN",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwak9WdDdnc05DSUNxVjg3a0xCb0sycG02ZmpZVnZZMXZXWWQxX0lpYVozSl9ZVnA5R0o5LUNDc0JYMnZ6YzI0U2ljRlBoUS1oWm82dnRxS0RHb0dqbW1yZmZnX2JKLU0xVlluWnNwZEQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 10:23:32 GMT"
+          "published": "Fri, 31 Jul 2026 08:11:56 GMT"
         }
       ]
     },
     {
-      "word": "Fauci",
+      "word": "Defying",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Could Fauci face criminal charges for refusing Senate COVID questions? - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbDltb1R0b2xobUVPWWVxZDJWbGtacjFGYld0T1dRcHREUHkxUWgtbUVaUlJIRU01Mkk2SGl0Ym9jaUxUX3U2S1Q1WlZmcC15XzdpRmctdXR4bGxOSVhMRGRfc09OVG43bUFHUC14dTJEek02WlhKQTN0M2M2VDAwQmNmRFpLNzNNQVU1c0MzWVBvamo1T3pDMkhJMVhNQXRXV1ktZU5Ublo0ZXJ4UzFTRDNOM2VXeTk1RFE?oc=5",
+          "title": "Defying Trump, Cornyn Uses His Lame-Duck Power - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9va3VUQ3NZWXhwY3BVbEVkZVZjZ0xHbnNEa0Z1QVF3TjBSb0tfcEk0WE5meDgya0dZcloyb29ld2t1QWtid2E4UndBUlFvVkRETWVwN1ljUFhmejh3VlY1cXdpYjVidFhmeUs1azNubHI3c3JhSmVpQmRLbGI?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 21:43:00 GMT"
+          "published": "Fri, 31 Jul 2026 00:23:01 GMT"
         }
       ]
     },
     {
-      "word": "Face",
+      "word": "Cornyn",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Could Fauci face criminal charges for refusing Senate COVID questions? - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbDltb1R0b2xobUVPWWVxZDJWbGtacjFGYld0T1dRcHREUHkxUWgtbUVaUlJIRU01Mkk2SGl0Ym9jaUxUX3U2S1Q1WlZmcC15XzdpRmctdXR4bGxOSVhMRGRfc09OVG43bUFHUC14dTJEek02WlhKQTN0M2M2VDAwQmNmRFpLNzNNQVU1c0MzWVBvamo1T3pDMkhJMVhNQXRXV1ktZU5Ublo0ZXJ4UzFTRDNOM2VXeTk1RFE?oc=5",
+          "title": "Defying Trump, Cornyn Uses His Lame-Duck Power - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9va3VUQ3NZWXhwY3BVbEVkZVZjZ0xHbnNEa0Z1QVF3TjBSb0tfcEk0WE5meDgya0dZcloyb29ld2t1QWtid2E4UndBUlFvVkRETWVwN1ljUFhmejh3VlY1cXdpYjVidFhmeUs1azNubHI3c3JhSmVpQmRLbGI?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 21:43:00 GMT"
+          "published": "Fri, 31 Jul 2026 00:23:01 GMT"
         }
       ]
     },
     {
-      "word": "Criminal",
+      "word": "Uses",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Could Fauci face criminal charges for refusing Senate COVID questions? - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbDltb1R0b2xobUVPWWVxZDJWbGtacjFGYld0T1dRcHREUHkxUWgtbUVaUlJIRU01Mkk2SGl0Ym9jaUxUX3U2S1Q1WlZmcC15XzdpRmctdXR4bGxOSVhMRGRfc09OVG43bUFHUC14dTJEek02WlhKQTN0M2M2VDAwQmNmRFpLNzNNQVU1c0MzWVBvamo1T3pDMkhJMVhNQXRXV1ktZU5Ublo0ZXJ4UzFTRDNOM2VXeTk1RFE?oc=5",
+          "title": "Defying Trump, Cornyn Uses His Lame-Duck Power - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9va3VUQ3NZWXhwY3BVbEVkZVZjZ0xHbnNEa0Z1QVF3TjBSb0tfcEk0WE5meDgya0dZcloyb29ld2t1QWtid2E4UndBUlFvVkRETWVwN1ljUFhmejh3VlY1cXdpYjVidFhmeUs1azNubHI3c3JhSmVpQmRLbGI?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 21:43:00 GMT"
+          "published": "Fri, 31 Jul 2026 00:23:01 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Lame",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Defying Trump, Cornyn Uses His Lame-Duck Power - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9va3VUQ3NZWXhwY3BVbEVkZVZjZ0xHbnNEa0Z1QVF3TjBSb0tfcEk0WE5meDgya0dZcloyb29ld2t1QWtid2E4UndBUlFvVkRETWVwN1ljUFhmejh3VlY1cXdpYjVidFhmeUs1azNubHI3c3JhSmVpQmRLbGI?oc=5",
+          "source": "Google News",
+          "published": "Fri, 31 Jul 2026 00:23:01 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Duck",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Defying Trump, Cornyn Uses His Lame-Duck Power - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9va3VUQ3NZWXhwY3BVbEVkZVZjZ0xHbnNEa0Z1QVF3TjBSb0tfcEk0WE5meDgya0dZcloyb29ld2t1QWtid2E4UndBUlFvVkRETWVwN1ljUFhmejh3VlY1cXdpYjVidFhmeUs1azNubHI3c3JhSmVpQmRLbGI?oc=5",
+          "source": "Google News",
+          "published": "Fri, 31 Jul 2026 00:23:01 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Power",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Defying Trump, Cornyn Uses His Lame-Duck Power - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9va3VUQ3NZWXhwY3BVbEVkZVZjZ0xHbnNEa0Z1QVF3TjBSb0tfcEk0WE5meDgya0dZcloyb29ld2t1QWtid2E4UndBUlFvVkRETWVwN1ljUFhmejh3VlY1cXdpYjVidFhmeUs1azNubHI3c3JhSmVpQmRLbGI?oc=5",
+          "source": "Google News",
+          "published": "Fri, 31 Jul 2026 00:23:01 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Noncitizen",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump's noncitizen voter data remains a mystery. But the claims raise midterm fears - NPR",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN2d1blR2UDdWblRHZl9oVFpEendyVUZfTEduM09VOEQ0N1kza000cU10R3o5Yk5ncU1fT0o0MmpMYXJTcDUwN25NLU55UjZuVC1hZlFuby1NblB3cWdSTzZpX29wV0RRcGpOR1J2WjRIdWxPdV9wVU55Qm43eXVzSE1DV2xtVW5BZng2QVhnMnM0VlJGZVRxN2ROQll1d3BlYzRkSDV5MjdiVnBhTlU4Wg?oc=5",
+          "source": "Google News",
+          "published": "Fri, 31 Jul 2026 09:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Voter",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump's noncitizen voter data remains a mystery. But the claims raise midterm fears - NPR",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN2d1blR2UDdWblRHZl9oVFpEendyVUZfTEduM09VOEQ0N1kza000cU10R3o5Yk5ncU1fT0o0MmpMYXJTcDUwN25NLU55UjZuVC1hZlFuby1NblB3cWdSTzZpX29wV0RRcGpOR1J2WjRIdWxPdV9wVU55Qm43eXVzSE1DV2xtVW5BZng2QVhnMnM0VlJGZVRxN2ROQll1d3BlYzRkSDV5MjdiVnBhTlU4Wg?oc=5",
+          "source": "Google News",
+          "published": "Fri, 31 Jul 2026 09:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Data",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump's noncitizen voter data remains a mystery. But the claims raise midterm fears - NPR",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN2d1blR2UDdWblRHZl9oVFpEendyVUZfTEduM09VOEQ0N1kza000cU10R3o5Yk5ncU1fT0o0MmpMYXJTcDUwN25NLU55UjZuVC1hZlFuby1NblB3cWdSTzZpX29wV0RRcGpOR1J2WjRIdWxPdV9wVU55Qm43eXVzSE1DV2xtVW5BZng2QVhnMnM0VlJGZVRxN2ROQll1d3BlYzRkSDV5MjdiVnBhTlU4Wg?oc=5",
+          "source": "Google News",
+          "published": "Fri, 31 Jul 2026 09:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Remains",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump's noncitizen voter data remains a mystery. But the claims raise midterm fears - NPR",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN2d1blR2UDdWblRHZl9oVFpEendyVUZfTEduM09VOEQ0N1kza000cU10R3o5Yk5ncU1fT0o0MmpMYXJTcDUwN25NLU55UjZuVC1hZlFuby1NblB3cWdSTzZpX29wV0RRcGpOR1J2WjRIdWxPdV9wVU55Qm43eXVzSE1DV2xtVW5BZng2QVhnMnM0VlJGZVRxN2ROQll1d3BlYzRkSDV5MjdiVnBhTlU4Wg?oc=5",
+          "source": "Google News",
+          "published": "Fri, 31 Jul 2026 09:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Mystery",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump's noncitizen voter data remains a mystery. But the claims raise midterm fears - NPR",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN2d1blR2UDdWblRHZl9oVFpEendyVUZfTEduM09VOEQ0N1kza000cU10R3o5Yk5ncU1fT0o0MmpMYXJTcDUwN25NLU55UjZuVC1hZlFuby1NblB3cWdSTzZpX29wV0RRcGpOR1J2WjRIdWxPdV9wVU55Qm43eXVzSE1DV2xtVW5BZng2QVhnMnM0VlJGZVRxN2ROQll1d3BlYzRkSDV5MjdiVnBhTlU4Wg?oc=5",
+          "source": "Google News",
+          "published": "Fri, 31 Jul 2026 09:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Claims",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump's noncitizen voter data remains a mystery. But the claims raise midterm fears - NPR",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN2d1blR2UDdWblRHZl9oVFpEendyVUZfTEduM09VOEQ0N1kza000cU10R3o5Yk5ncU1fT0o0MmpMYXJTcDUwN25NLU55UjZuVC1hZlFuby1NblB3cWdSTzZpX29wV0RRcGpOR1J2WjRIdWxPdV9wVU55Qm43eXVzSE1DV2xtVW5BZng2QVhnMnM0VlJGZVRxN2ROQll1d3BlYzRkSDV5MjdiVnBhTlU4Wg?oc=5",
+          "source": "Google News",
+          "published": "Fri, 31 Jul 2026 09:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Raise",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump's noncitizen voter data remains a mystery. But the claims raise midterm fears - NPR",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN2d1blR2UDdWblRHZl9oVFpEendyVUZfTEduM09VOEQ0N1kza000cU10R3o5Yk5ncU1fT0o0MmpMYXJTcDUwN25NLU55UjZuVC1hZlFuby1NblB3cWdSTzZpX29wV0RRcGpOR1J2WjRIdWxPdV9wVU55Qm43eXVzSE1DV2xtVW5BZng2QVhnMnM0VlJGZVRxN2ROQll1d3BlYzRkSDV5MjdiVnBhTlU4Wg?oc=5",
+          "source": "Google News",
+          "published": "Fri, 31 Jul 2026 09:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Midterm",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump's noncitizen voter data remains a mystery. But the claims raise midterm fears - NPR",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN2d1blR2UDdWblRHZl9oVFpEendyVUZfTEduM09VOEQ0N1kza000cU10R3o5Yk5ncU1fT0o0MmpMYXJTcDUwN25NLU55UjZuVC1hZlFuby1NblB3cWdSTzZpX29wV0RRcGpOR1J2WjRIdWxPdV9wVU55Qm43eXVzSE1DV2xtVW5BZng2QVhnMnM0VlJGZVRxN2ROQll1d3BlYzRkSDV5MjdiVnBhTlU4Wg?oc=5",
+          "source": "Google News",
+          "published": "Fri, 31 Jul 2026 09:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Fears",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump's noncitizen voter data remains a mystery. But the claims raise midterm fears - NPR",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN2d1blR2UDdWblRHZl9oVFpEendyVUZfTEduM09VOEQ0N1kza000cU10R3o5Yk5ncU1fT0o0MmpMYXJTcDUwN25NLU55UjZuVC1hZlFuby1NblB3cWdSTzZpX29wV0RRcGpOR1J2WjRIdWxPdV9wVU55Qm43eXVzSE1DV2xtVW5BZng2QVhnMnM0VlJGZVRxN2ROQll1d3BlYzRkSDV5MjdiVnBhTlU4Wg?oc=5",
+          "source": "Google News",
+          "published": "Fri, 31 Jul 2026 09:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Investigating",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "U.S. investigating whether Iran was behind cyberattack on Minnesota water systems - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeERJcG8xQXRGamk1aHNPcW1HdllJeWhGSXlFOWIyemFlZmZkQW1IUllubnBZemtwYml5V01YeFJsNXdMOXpyVUVOMjIxUDc1OUstVnBYTWFZVHdrb2R1MnRSNmhwbWR3dUNJYXBOeUtBQlVOTmNsaGZyWXd1OHczWGdJOUZFcHpzUFNWTnhSZFo?oc=5",
+          "source": "Google News",
+          "published": "Fri, 31 Jul 2026 12:34:49 GMT"
         }
       ]
     }
