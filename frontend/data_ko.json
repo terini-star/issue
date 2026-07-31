@@ -1,19 +1,133 @@
 {
   "language": "ko",
-  "last_updated": 1785449595.5301843,
+  "last_updated": 1785456581.764924,
   "count": 40,
   "trends": [
     {
-      "word": "추가",
+      "word": "대통령",
+      "count": 3,
+      "category": "PERSON",
+      "articles": [
+        {
+          "title": "이 대통령, 칠레 ‘한국의 거리' 깜짝 방문… K-뷰티 인기 확인 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iWXV6THVKakh3REZTRGlsbUNScTRNSXVVSXRHVzFJNnZaU1dkT29FdjQ2d0xvNnl4Ym1halI5RnU3eHZjb2sydUNNQXFRV3dmSnA5cG56WEN5Z2VZSDgzMlJMZEpjMFJBX0hN?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 22:22:00 GMT"
+        },
+        {
+          "title": "미군, 이란 혁명수비대 수십 개 거점 공습… 트럼프 대통령 \"이제 우리 차례\" - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM2p1UEQ2czZ5LUcwUDNJNkRMY2hTYkNJTDgxdnk4RHRiLVd2NHFYTkJ1VW0xV3ZWcDVvRVdrQk9Xa3h2UEFXamxpMFhBWjd2WEo1VWZ0NGFLNFNlNEZtUkMtOFEtY25ZdlZoSWg1MXhNWmRkZi0yclBmR3pVTUdqcHFneWdqcnE0aVUzOS1haUJTc0lhdWNVOE5lRUVlRXVQbkI3UWliR0QxRUxFemIwb9IBswFBVV95cUxPZVNPekxuN0N2YjZ6OUpLekZPTjR5UEZkRnk0ZExsaEVGc281Mm84Mml3eWp0WUJYcGxtdlAzQzBZcUpXaDlzUWV0NG5rZWN6aVIybnY2ekVHSE52c0NzRk5zdmlQUmo0MDNxRUszT1NOYTFCSFlJNjRuTU5jSzVWTGhJc01JOG1vZTF4UW1PTXlOdHJhV09wa2RtMHllQ2daNkRJS19EU19DSWMxbXpsLUFRRQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 13:26:33 GMT"
+        },
+        {
+          "title": "\"현직 대통령 연임, 개헌 대상 아냐… 국민 원하면 가능? 히틀러식 논리\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOFpYRmt1Yy13UGNGak9fZEF5SDR3a2o5dGcwN2ZVOXZGZ0NiU0o1bmx3YlpEYjNPRzh0eTMwVkV0VUFkck4xc25OQjkxV0dnVkNidm0yTER5YXlaRmJRZnJaUUdYa3ViNjJvN2VMaXk1cDBLUm9IaXRpSkg4VVlNLVJHX2VWdw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 15:47:57 GMT"
+        }
+      ]
+    },
+    {
+      "word": "이란",
       "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "보완수사권 이어 ‘공소기각 확대’ 추가 파장…與 처리 강행 - 국제신문",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdF8wMmpNSXZ6QWVxMEtMdzgxRzFNTFBYZWxjX1QxeENtZzNYblhhYzBISDd5SXdURmlYa25iM1dPSm5QOXREZXFoWHdobl9qeFZtQzUxS2d1b2MtTllYNFBVT0Jha2FoZ3BNRm93N3NjS3Z2OXpLRGtIcXVQb3RwZU5fbnlBMjRzcDVVWU1PS3VYTUR5?oc=5",
+          "title": "미군, 이란 혁명수비대 수십 개 거점 공습… 트럼프 대통령 \"이제 우리 차례\" - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM2p1UEQ2czZ5LUcwUDNJNkRMY2hTYkNJTDgxdnk4RHRiLVd2NHFYTkJ1VW0xV3ZWcDVvRVdrQk9Xa3h2UEFXamxpMFhBWjd2WEo1VWZ0NGFLNFNlNEZtUkMtOFEtY25ZdlZoSWg1MXhNWmRkZi0yclBmR3pVTUdqcHFneWdqcnE0aVUzOS1haUJTc0lhdWNVOE5lRUVlRXVQbkI3UWliR0QxRUxFemIwb9IBswFBVV95cUxPZVNPekxuN0N2YjZ6OUpLekZPTjR5UEZkRnk0ZExsaEVGc281Mm84Mml3eWp0WUJYcGxtdlAzQzBZcUpXaDlzUWV0NG5rZWN6aVIybnY2ekVHSE52c0NzRk5zdmlQUmo0MDNxRUszT1NOYTFCSFlJNjRuTU5jSzVWTGhJc01JOG1vZTF4UW1PTXlOdHJhV09wa2RtMHllQ2daNkRJS19EU19DSWMxbXpsLUFRRQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 11:30:00 GMT"
+          "published": "Thu, 30 Jul 2026 13:26:33 GMT"
         },
+        {
+          "title": "이란 \"요르단·쿠웨이트 미군기지 공격…전투기 파괴\" 주장 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0MU54OTd3RDdvQ2YtXzFNZENHbEZWX3p6cmhoQjhlSi1QOWl2bDNoU3FQRlczYU9SbS1uVUZWZ1dMRGtpbllHZjhpN2VpbC1aM2QyVFNCS0VXdw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 21:07:53 GMT"
+        },
+        {
+          "title": "이란, 美·사우디 공습 규탄…AFP \"5명 사망\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LSjdsemFZRkliNU5ER1Ztc0ttczctRlJZRVhNVWp6dEEwcTZpZ3lMeGVVV0F4Q0VTQmpEekNqbVZHQ0g5V0VJNEFhM1kzWl8wOGxpeDlMV0pCVWpZYlBkM3pQeWpERGc?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 21:17:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "미군",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "군, 미군 무인기 격추할 뻔…한때 북 무인기 대응 ‘두루미’ 발령 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51dUdLMzhkblRER0EtbGQ3WnhidkJrUWdSeEFqY29BanpWSTBtdTRNQkFSNmxvT1hzVnpuS0ZITjI5Q0xZX0w2T25RU2tiNEdRcEQwRGlxTDd1aDNTdHl6NE5Kb3pJT0Vs?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 13:13:00 GMT"
+        },
+        {
+          "title": "미군, 이란 혁명수비대 수십 개 거점 공습… 트럼프 대통령 \"이제 우리 차례\" - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM2p1UEQ2czZ5LUcwUDNJNkRMY2hTYkNJTDgxdnk4RHRiLVd2NHFYTkJ1VW0xV3ZWcDVvRVdrQk9Xa3h2UEFXamxpMFhBWjd2WEo1VWZ0NGFLNFNlNEZtUkMtOFEtY25ZdlZoSWg1MXhNWmRkZi0yclBmR3pVTUdqcHFneWdqcnE0aVUzOS1haUJTc0lhdWNVOE5lRUVlRXVQbkI3UWliR0QxRUxFemIwb9IBswFBVV95cUxPZVNPekxuN0N2YjZ6OUpLekZPTjR5UEZkRnk0ZExsaEVGc281Mm84Mml3eWp0WUJYcGxtdlAzQzBZcUpXaDlzUWV0NG5rZWN6aVIybnY2ekVHSE52c0NzRk5zdmlQUmo0MDNxRUszT1NOYTFCSFlJNjRuTU5jSzVWTGhJc01JOG1vZTF4UW1PTXlOdHJhV09wa2RtMHllQ2daNkRJS19EU19DSWMxbXpsLUFRRQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 13:26:33 GMT"
+        }
+      ]
+    },
+    {
+      "word": "무인기",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "군, 미군 무인기 격추할 뻔…한때 북 무인기 대응 ‘두루미’ 발령 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51dUdLMzhkblRER0EtbGQ3WnhidkJrUWdSeEFqY29BanpWSTBtdTRNQkFSNmxvT1hzVnpuS0ZITjI5Q0xZX0w2T25RU2tiNEdRcEQwRGlxTDd1aDNTdHl6NE5Kb3pJT0Vs?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 13:13:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "트럼프",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프 “평화위, 하마스 완전한 무장해제 합의…가자 평화 진전” - news.kbs.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rTzdKRW1tWmVhOHVTNUNMenY1cU1QeFo0ZHlubXBHODZQQmtnZVl1LU8zakZiZXptWXFrUzJLZ2dJZUVqNmZsRTlCQmotdWZWcm11YndVYjFTcHc?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 23:22:00 GMT"
+        },
+        {
+          "title": "미군, 이란 혁명수비대 수십 개 거점 공습… 트럼프 대통령 \"이제 우리 차례\" - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM2p1UEQ2czZ5LUcwUDNJNkRMY2hTYkNJTDgxdnk4RHRiLVd2NHFYTkJ1VW0xV3ZWcDVvRVdrQk9Xa3h2UEFXamxpMFhBWjd2WEo1VWZ0NGFLNFNlNEZtUkMtOFEtY25ZdlZoSWg1MXhNWmRkZi0yclBmR3pVTUdqcHFneWdqcnE0aVUzOS1haUJTc0lhdWNVOE5lRUVlRXVQbkI3UWliR0QxRUxFemIwb9IBswFBVV95cUxPZVNPekxuN0N2YjZ6OUpLekZPTjR5UEZkRnk0ZExsaEVGc281Mm84Mml3eWp0WUJYcGxtdlAzQzBZcUpXaDlzUWV0NG5rZWN6aVIybnY2ekVHSE52c0NzRk5zdmlQUmo0MDNxRUszT1NOYTFCSFlJNjRuTU5jSzVWTGhJc01JOG1vZTF4UW1PTXlOdHJhV09wa2RtMHllQ2daNkRJS19EU19DSWMxbXpsLUFRRQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 13:26:33 GMT"
+        }
+      ]
+    },
+    {
+      "word": "공습",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "미군, 이란 혁명수비대 수십 개 거점 공습… 트럼프 대통령 \"이제 우리 차례\" - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM2p1UEQ2czZ5LUcwUDNJNkRMY2hTYkNJTDgxdnk4RHRiLVd2NHFYTkJ1VW0xV3ZWcDVvRVdrQk9Xa3h2UEFXamxpMFhBWjd2WEo1VWZ0NGFLNFNlNEZtUkMtOFEtY25ZdlZoSWg1MXhNWmRkZi0yclBmR3pVTUdqcHFneWdqcnE0aVUzOS1haUJTc0lhdWNVOE5lRUVlRXVQbkI3UWliR0QxRUxFemIwb9IBswFBVV95cUxPZVNPekxuN0N2YjZ6OUpLekZPTjR5UEZkRnk0ZExsaEVGc281Mm84Mml3eWp0WUJYcGxtdlAzQzBZcUpXaDlzUWV0NG5rZWN6aVIybnY2ekVHSE52c0NzRk5zdmlQUmo0MDNxRUszT1NOYTFCSFlJNjRuTU5jSzVWTGhJc01JOG1vZTF4UW1PTXlOdHJhV09wa2RtMHllQ2daNkRJS19EU19DSWMxbXpsLUFRRQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 13:26:33 GMT"
+        },
+        {
+          "title": "이란, 美·사우디 공습 규탄…AFP \"5명 사망\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LSjdsemFZRkliNU5ER1Ztc0ttczctRlJZRVhNVWp6dEEwcTZpZ3lMeGVVV0F4Q0VTQmpEekNqbVZHQ0g5V0VJNEFhM1kzWl8wOGxpeDlMV0pCVWpZYlBkM3pQeWpERGc?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 21:17:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "유료",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
         {
           "title": "유료 추가 콘텐츠 「Pokémon Pokopia 익스팬션 패스」 제1탄과 「Pokémon Pokopia」 무료 업데이트(Ver.2.0.0)의 배포일이 2026년 8월 5일(수)로 결정. 유료 추가 콘텐츠 제2탄의 새로운 정보도 공개. | News | 한국닌텐도주식회사 - nintendo.com",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wMUZzdnduUU9HSndYaEFfS0xsbGc2VDhVR1hkbVNVYVdyMWlxR3h3QVdnVGVNU2luVDduY0JqSWY5T3pWVmgzczN2elFOVFNaUjlTTUp3UUgyRXlmU1JjN2FJSjNyTFdrOXo0UHowOFA?oc=5",
@@ -23,115 +137,7 @@
       ]
     },
     {
-      "word": "이란",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "美 “이란 ’美전투기 파괴’ 주장 거짓…미사일 요격되거나 도달 실패“ - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9icExFS2lnRFAwLURyTzBVemNsa2t4VjlHb2pRcDVFNXpTZllqLXl5YVZEYnUxWWlmcUlqdkJXRFpKNEs5c1EtdjRiUzUxU2VhRmFQSVBLMEVXVVk1NUlrSDBEcEdnUzQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 16:31:00 GMT"
-        },
-        {
-          "title": "미군, 이란 혁명수비대 수십 개 거점 공습… 트럼프 대통령 \"이제 우리 차례\" - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM2p1UEQ2czZ5LUcwUDNJNkRMY2hTYkNJTDgxdnk4RHRiLVd2NHFYTkJ1VW0xV3ZWcDVvRVdrQk9Xa3h2UEFXamxpMFhBWjd2WEo1VWZ0NGFLNFNlNEZtUkMtOFEtY25ZdlZoSWg1MXhNWmRkZi0yclBmR3pVTUdqcHFneWdqcnE0aVUzOS1haUJTc0lhdWNVOE5lRUVlRXVQbkI3UWliR0QxRUxFemIwb9IBswFBVV95cUxPZVNPekxuN0N2YjZ6OUpLekZPTjR5UEZkRnk0ZExsaEVGc281Mm84Mml3eWp0WUJYcGxtdlAzQzBZcUpXaDlzUWV0NG5rZWN6aVIybnY2ekVHSE52c0NzRk5zdmlQUmo0MDNxRUszT1NOYTFCSFlJNjRuTU5jSzVWTGhJc01JOG1vZTF4UW1PTXlOdHJhV09wa2RtMHllQ2daNkRJS19EU19DSWMxbXpsLUFRRQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 13:26:33 GMT"
-        }
-      ]
-    },
-    {
-      "word": "주장",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "美 “이란 ’美전투기 파괴’ 주장 거짓…미사일 요격되거나 도달 실패“ - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9icExFS2lnRFAwLURyTzBVemNsa2t4VjlHb2pRcDVFNXpTZllqLXl5YVZEYnUxWWlmcUlqdkJXRFpKNEs5c1EtdjRiUzUxU2VhRmFQSVBLMEVXVVk1NUlrSDBEcEdnUzQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 16:31:00 GMT"
-        },
-        {
-          "title": "'MLS 주장' 손흥민, 올스타전 선발 출격…뮐러는 벤치 대기 - 미디어데일",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54Z1d1RnBKT2pDeW9naGVsS2lRTnlSSjNDWEZuOTBVMVdSLUo2d2NodnBmdjhLVm0zQnFReGVJWVh0ZlhVQ1pzeHd1bnIta2U0U01KdUIzQWV1cFpwSlM2QTVTcU1zMERaSUhB?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 00:43:18 GMT"
-        }
-      ]
-    },
-    {
-      "word": "살다",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“살다 살다 이리 더븐 건 처음”…‘두겹이불 폭염’에 싸인 부산·대구 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pcmNDdzN4R2N1YTRmbk85N1FKZzF2S2lWTzE0dEJOUW5DZElDby03U1BTeW10YlpvcGs3ZkJmWW9uMFZhaDU1SUJyNjVrYnZFNXJBaXlqbGNlX3BZSEVkVVMyd1k?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 13:18:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "혁명수비대",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "미군, 이란 혁명수비대 수십 개 거점 공습… 트럼프 대통령 \"이제 우리 차례\" - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM2p1UEQ2czZ5LUcwUDNJNkRMY2hTYkNJTDgxdnk4RHRiLVd2NHFYTkJ1VW0xV3ZWcDVvRVdrQk9Xa3h2UEFXamxpMFhBWjd2WEo1VWZ0NGFLNFNlNEZtUkMtOFEtY25ZdlZoSWg1MXhNWmRkZi0yclBmR3pVTUdqcHFneWdqcnE0aVUzOS1haUJTc0lhdWNVOE5lRUVlRXVQbkI3UWliR0QxRUxFemIwb9IBswFBVV95cUxPZVNPekxuN0N2YjZ6OUpLekZPTjR5UEZkRnk0ZExsaEVGc281Mm84Mml3eWp0WUJYcGxtdlAzQzBZcUpXaDlzUWV0NG5rZWN6aVIybnY2ekVHSE52c0NzRk5zdmlQUmo0MDNxRUszT1NOYTFCSFlJNjRuTU5jSzVWTGhJc01JOG1vZTF4UW1PTXlOdHJhV09wa2RtMHllQ2daNkRJS19EU19DSWMxbXpsLUFRRQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 13:26:33 GMT"
-        },
-        {
-          "title": "\"후티, 이라크서 사우디 석유시설 공격…이란 혁명수비대 감독\" - 한국일보",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpSHVsRV9XWVpGNnIwVHgxb3BaUW1PRDJaM21nOUtZSzBETVhOLWxJY01xQ2VlT2xocEhEQ3BScGJYMGlDUnlHQUUyWF9rYmtlTko5ek5KVEl4elVZVi13LWtHbmpvSDlXUFJKV1hn0gFzQVVfeXFMT0tCY3d3ODlXMlB6emEteW56TUE2TWdqaEdfdlFpZC11elc1TEJVSEhfZS0wZjV1eThXWWNTSFNnVzVZcHMtTVNmTXAxc2t6WHRVczZCNWxBWDBHYi10Z3phbWdLWDVmN19jRUdPX0pxN3ZfYw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 15:57:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "미사일",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "젤렌스키 \"러시아, 오랜만에 우크라이나에 북한 미사일 쏴\" - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtUVBnd1FVakxxQko1UEVnQ1hvMmJkaGtEbjBKcjBhZkUzbi1QRWVqQm10X19jMlFERktWbU9Na2NGRjgzbGdWZ2ljbDRhbDVuQkwxcnFhQVJranNTenIydjlyUUVQVjA?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 18:33:00 GMT"
-        },
-        {
-          "title": "\"美 미사일 재고 위험 수준... 中 대만 침공 지금이 적기\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONkhMaFFZRUgzUnNGeGJCREowQk9wVzBFZzYtaHRLbXhQeDl2QUNWU1NoS3Z1ZVlmTHpzM0d1cnRqdjE4SWNYREVEM2d0emdLdy1KRjQxWHdCdkYybXZtM1Z2a1N3UlY3NzRjUUktaFZtU3VrV19RR1BIM1ljTlluZkZob3Fld3BXdTlQY0h1aC00Y2p0X28xSFRYa3pFdw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 06:52:03 GMT"
-        }
-      ]
-    },
-    {
-      "word": "위험",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "\"美 미사일 재고 위험 수준... 中 대만 침공 지금이 적기\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONkhMaFFZRUgzUnNGeGJCREowQk9wVzBFZzYtaHRLbXhQeDl2QUNWU1NoS3Z1ZVlmTHpzM0d1cnRqdjE4SWNYREVEM2d0emdLdy1KRjQxWHdCdkYybXZtM1Z2a1N3UlY3NzRjUUktaFZtU3VrV19RR1BIM1ljTlluZkZob3Fld3BXdTlQY0h1aC00Y2p0X28xSFRYa3pFdw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 06:52:03 GMT"
-        },
-        {
-          "title": "금연 후 체중 5% 이상 감소 시 고관절 골절 위험 비흡연자의 1.88배 - 헬스오",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VbWtGMWFUU2phQTg4WFoxbHlRNFNjY2NsTFpSMDNNR1QzdzlJM01qRUlkaVBYN0tpaXdKdUd2U2U0a2tvejczT1hUek5MR0ZObVUzZE95V2Zmdw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 19:33:17 GMT"
-        }
-      ]
-    },
-    {
-      "word": "유료",
+      "word": "추가",
       "count": 2,
       "category": "NOUN",
       "articles": [
@@ -196,372 +202,372 @@
       ]
     },
     {
-      "word": "손흥민",
+      "word": "월드컵",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "3분 만에 멀티골 ‘쾅쾅’ 손흥민, ‘별중의 별’로 우뚝 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lZDlDQVQ2c1JacFNhOXJzbV9POTNyX00zeGZFRW9hajZPS3ZvVWNzRVFRLUdGZFlteGp3UEpCNG5lS01pa0FlUnptdloxN3d4aDQ1ei1FSkVVN2s?oc=5",
+          "title": "유럽축구연맹, FIFA ‘월드컵 지분 매각’ 추진에 반발 - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRzEtd2ZBRU1DWGdiMXhVclR3LURWT0hFNjVGU0lwdkZlVnRjYWRCWVpNYlRUbV96SEpMSHBlM0FaRUVTSDhiRmZRYjdIVWtEa0Y3aVZZUEJ2MGo0ODRXTlNSYkJHWWQ3WnpFeVU2c0dXNEJ4NDFWRk1xTUxGVW04b09PUlVXN2lIWGV4TlVRNVZpdDY3UUx5WjNKZ0RtXzFORENjSVI5Wm15M0w0cVZ3NVh1SGtYeXV2QThDZXJFTG5SR0FXNXfSAcgBQVVfeXFMTnpHR0NPVGVWelVSZFYzcDdWS29NSHlnV0pXREVkOTlxOEdkdWlKTDJoOE5lb2VxZHppRHJVQTdla0xKYWhIZmhBMFFtWFpsNGdrQ3FDa2ZTcndqdGl2OThNWi1RUGNCaHgxWHZIeWhHUFE0ZWI0aFhubXJsWXo0c0NyQzZ6c1NlNEI0aWZsSFp2b0ZFRGlTZjJLUHd1bF9HczVRQzQ2ZEQ3bV9aLU5VUXcwUDRzRlZfTU83RG00NURwcnAzSkZOYXU?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 12:50:00 GMT"
+          "published": "Thu, 30 Jul 2026 19:57:20 GMT"
         },
         {
-          "title": "'MLS 주장' 손흥민, 올스타전 선발 출격…뮐러는 벤치 대기 - 미디어데일",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54Z1d1RnBKT2pDeW9naGVsS2lRTnlSSjNDWEZuOTBVMVdSLUo2d2NodnBmdjhLVm0zQnFReGVJWVh0ZlhVQ1pzeHd1bnIta2U0U01KdUIzQWV1cFpwSlM2QTVTcU1zMERaSUhB?oc=5",
+          "title": "월드컵 후폭풍…아르헨티나, ’자국 혐오 외국인’ 입국 금지·추방령 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xWFNfcVB1TjNMN0lVRThjUE0xNXBEWXlaeWNyNjM2S1FCTFpTUk40bzEtdVBSaklicmpjdF9xbU14M0RHQ1ZpUjN2R0VMN0pxak5tUTB0NGJyUEpvNURTT3FxaTBobVk?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 00:43:18 GMT"
+          "published": "Thu, 30 Jul 2026 23:42:00 GMT"
         }
       ]
     },
     {
-      "word": "정청래김민석",
+      "word": "칠레",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "정청래·김민석 여론조사 혼전…‘국민여론’ ‘당지지층’ 엇갈려 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04eTAxVzh1NVp5WXJvblhmVlIzMHRUQl9lNzdPUEN0ZG4yQUR2S2JkY2NaQzRiT0VtcjBHbm9LWktKVWdSTzRnTzhhWmJoQXNPeDV1NVBpVkw0bkpEbThZd1J1SnpoOHZZTlNwa0FjZkNnZFhM?oc=5",
+          "title": "이 대통령, 칠레 ‘한국의 거리' 깜짝 방문… K-뷰티 인기 확인 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iWXV6THVKakh3REZTRGlsbUNScTRNSXVVSXRHVzFJNnZaU1dkT29FdjQ2d0xvNnl4Ym1halI5RnU3eHZjb2sydUNNQXFRV3dmSnA5cG56WEN5Z2VZSDgzMlJMZEpjMFJBX0hN?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 11:12:00 GMT"
+          "published": "Thu, 30 Jul 2026 22:22:00 GMT"
         }
       ]
     },
     {
-      "word": "여론조사",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "정청래·김민석 여론조사 혼전…‘국민여론’ ‘당지지층’ 엇갈려 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04eTAxVzh1NVp5WXJvblhmVlIzMHRUQl9lNzdPUEN0ZG4yQUR2S2JkY2NaQzRiT0VtcjBHbm9LWktKVWdSTzRnTzhhWmJoQXNPeDV1NVBpVkw0bkpEbThZd1J1SnpoOHZZTlNwa0FjZkNnZFhM?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 11:12:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "혼전국민여론",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "정청래·김민석 여론조사 혼전…‘국민여론’ ‘당지지층’ 엇갈려 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04eTAxVzh1NVp5WXJvblhmVlIzMHRUQl9lNzdPUEN0ZG4yQUR2S2JkY2NaQzRiT0VtcjBHbm9LWktKVWdSTzRnTzhhWmJoQXNPeDV1NVBpVkw0bkpEbThZd1J1SnpoOHZZTlNwa0FjZkNnZFhM?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 11:12:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "당지지층",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "정청래·김민석 여론조사 혼전…‘국민여론’ ‘당지지층’ 엇갈려 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04eTAxVzh1NVp5WXJvblhmVlIzMHRUQl9lNzdPUEN0ZG4yQUR2S2JkY2NaQzRiT0VtcjBHbm9LWktKVWdSTzRnTzhhWmJoQXNPeDV1NVBpVkw0bkpEbThZd1J1SnpoOHZZTlNwa0FjZkNnZFhM?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 11:12:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "엇갈려",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "정청래·김민석 여론조사 혼전…‘국민여론’ ‘당지지층’ 엇갈려 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04eTAxVzh1NVp5WXJvblhmVlIzMHRUQl9lNzdPUEN0ZG4yQUR2S2JkY2NaQzRiT0VtcjBHbm9LWktKVWdSTzRnTzhhWmJoQXNPeDV1NVBpVkw0bkpEbThZd1J1SnpoOHZZTlNwa0FjZkNnZFhM?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 11:12:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "이틀째",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이틀째 40.3도 관측사상 처음…서로 밀어올리는 ‘낮↔밤 열폭주’ 계속 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JV3p3U3JoQndKUFVqMVY1eTlpa21FX0JkSUZGd1QxdmdmbWlxYnZicF8wT1dGTGFUWGhBUHpKaXc5dl9wOElKRmNOWmdpaGQyMjhYa3hoQlVMVW9KM01Sa0daOUZrVjRsOEFheQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 13:19:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "403",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이틀째 40.3도 관측사상 처음…서로 밀어올리는 ‘낮↔밤 열폭주’ 계속 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JV3p3U3JoQndKUFVqMVY1eTlpa21FX0JkSUZGd1QxdmdmbWlxYnZicF8wT1dGTGFUWGhBUHpKaXc5dl9wOElKRmNOWmdpaGQyMjhYa3hoQlVMVW9KM01Sa0daOUZrVjRsOEFheQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 13:19:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "관측사상",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이틀째 40.3도 관측사상 처음…서로 밀어올리는 ‘낮↔밤 열폭주’ 계속 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JV3p3U3JoQndKUFVqMVY1eTlpa21FX0JkSUZGd1QxdmdmbWlxYnZicF8wT1dGTGFUWGhBUHpKaXc5dl9wOElKRmNOWmdpaGQyMjhYa3hoQlVMVW9KM01Sa0daOUZrVjRsOEFheQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 13:19:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "처음서",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이틀째 40.3도 관측사상 처음…서로 밀어올리는 ‘낮↔밤 열폭주’ 계속 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JV3p3U3JoQndKUFVqMVY1eTlpa21FX0JkSUZGd1QxdmdmbWlxYnZicF8wT1dGTGFUWGhBUHpKaXc5dl9wOElKRmNOWmdpaGQyMjhYa3hoQlVMVW9KM01Sa0daOUZrVjRsOEFheQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 13:19:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "밀어올리",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이틀째 40.3도 관측사상 처음…서로 밀어올리는 ‘낮↔밤 열폭주’ 계속 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JV3p3U3JoQndKUFVqMVY1eTlpa21FX0JkSUZGd1QxdmdmbWlxYnZicF8wT1dGTGFUWGhBUHpKaXc5dl9wOElKRmNOWmdpaGQyMjhYa3hoQlVMVW9KM01Sa0daOUZrVjRsOEFheQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 13:19:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "낮밤",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이틀째 40.3도 관측사상 처음…서로 밀어올리는 ‘낮↔밤 열폭주’ 계속 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JV3p3U3JoQndKUFVqMVY1eTlpa21FX0JkSUZGd1QxdmdmbWlxYnZicF8wT1dGTGFUWGhBUHpKaXc5dl9wOElKRmNOWmdpaGQyMjhYa3hoQlVMVW9KM01Sa0daOUZrVjRsOEFheQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 13:19:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "열폭주",
+      "word": "한국",
       "count": 1,
       "category": "LOCATION",
       "articles": [
         {
-          "title": "이틀째 40.3도 관측사상 처음…서로 밀어올리는 ‘낮↔밤 열폭주’ 계속 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JV3p3U3JoQndKUFVqMVY1eTlpa21FX0JkSUZGd1QxdmdmbWlxYnZicF8wT1dGTGFUWGhBUHpKaXc5dl9wOElKRmNOWmdpaGQyMjhYa3hoQlVMVW9KM01Sa0daOUZrVjRsOEFheQ?oc=5",
+          "title": "이 대통령, 칠레 ‘한국의 거리' 깜짝 방문… K-뷰티 인기 확인 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iWXV6THVKakh3REZTRGlsbUNScTRNSXVVSXRHVzFJNnZaU1dkT29FdjQ2d0xvNnl4Ym1halI5RnU3eHZjb2sydUNNQXFRV3dmSnA5cG56WEN5Z2VZSDgzMlJMZEpjMFJBX0hN?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 13:19:00 GMT"
+          "published": "Thu, 30 Jul 2026 22:22:00 GMT"
         }
       ]
     },
     {
-      "word": "계속",
+      "word": "거리",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이틀째 40.3도 관측사상 처음…서로 밀어올리는 ‘낮↔밤 열폭주’ 계속 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JV3p3U3JoQndKUFVqMVY1eTlpa21FX0JkSUZGd1QxdmdmbWlxYnZicF8wT1dGTGFUWGhBUHpKaXc5dl9wOElKRmNOWmdpaGQyMjhYa3hoQlVMVW9KM01Sa0daOUZrVjRsOEFheQ?oc=5",
+          "title": "이 대통령, 칠레 ‘한국의 거리' 깜짝 방문… K-뷰티 인기 확인 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iWXV6THVKakh3REZTRGlsbUNScTRNSXVVSXRHVzFJNnZaU1dkT29FdjQ2d0xvNnl4Ym1halI5RnU3eHZjb2sydUNNQXFRV3dmSnA5cG56WEN5Z2VZSDgzMlJMZEpjMFJBX0hN?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 13:19:00 GMT"
+          "published": "Thu, 30 Jul 2026 22:22:00 GMT"
         }
       ]
     },
     {
-      "word": "전투기",
+      "word": "깜짝",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "美 “이란 ’美전투기 파괴’ 주장 거짓…미사일 요격되거나 도달 실패“ - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9icExFS2lnRFAwLURyTzBVemNsa2t4VjlHb2pRcDVFNXpTZllqLXl5YVZEYnUxWWlmcUlqdkJXRFpKNEs5c1EtdjRiUzUxU2VhRmFQSVBLMEVXVVk1NUlrSDBEcEdnUzQ?oc=5",
+          "title": "이 대통령, 칠레 ‘한국의 거리' 깜짝 방문… K-뷰티 인기 확인 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iWXV6THVKakh3REZTRGlsbUNScTRNSXVVSXRHVzFJNnZaU1dkT29FdjQ2d0xvNnl4Ym1halI5RnU3eHZjb2sydUNNQXFRV3dmSnA5cG56WEN5Z2VZSDgzMlJMZEpjMFJBX0hN?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 16:31:00 GMT"
+          "published": "Thu, 30 Jul 2026 22:22:00 GMT"
         }
       ]
     },
     {
-      "word": "파괴",
+      "word": "방문",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "美 “이란 ’美전투기 파괴’ 주장 거짓…미사일 요격되거나 도달 실패“ - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9icExFS2lnRFAwLURyTzBVemNsa2t4VjlHb2pRcDVFNXpTZllqLXl5YVZEYnUxWWlmcUlqdkJXRFpKNEs5c1EtdjRiUzUxU2VhRmFQSVBLMEVXVVk1NUlrSDBEcEdnUzQ?oc=5",
+          "title": "이 대통령, 칠레 ‘한국의 거리' 깜짝 방문… K-뷰티 인기 확인 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iWXV6THVKakh3REZTRGlsbUNScTRNSXVVSXRHVzFJNnZaU1dkT29FdjQ2d0xvNnl4Ym1halI5RnU3eHZjb2sydUNNQXFRV3dmSnA5cG56WEN5Z2VZSDgzMlJMZEpjMFJBX0hN?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 16:31:00 GMT"
+          "published": "Thu, 30 Jul 2026 22:22:00 GMT"
         }
       ]
     },
     {
-      "word": "거짓미사일",
+      "word": "K뷰티",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "美 “이란 ’美전투기 파괴’ 주장 거짓…미사일 요격되거나 도달 실패“ - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9icExFS2lnRFAwLURyTzBVemNsa2t4VjlHb2pRcDVFNXpTZllqLXl5YVZEYnUxWWlmcUlqdkJXRFpKNEs5c1EtdjRiUzUxU2VhRmFQSVBLMEVXVVk1NUlrSDBEcEdnUzQ?oc=5",
+          "title": "이 대통령, 칠레 ‘한국의 거리' 깜짝 방문… K-뷰티 인기 확인 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iWXV6THVKakh3REZTRGlsbUNScTRNSXVVSXRHVzFJNnZaU1dkT29FdjQ2d0xvNnl4Ym1halI5RnU3eHZjb2sydUNNQXFRV3dmSnA5cG56WEN5Z2VZSDgzMlJMZEpjMFJBX0hN?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 16:31:00 GMT"
+          "published": "Thu, 30 Jul 2026 22:22:00 GMT"
         }
       ]
     },
     {
-      "word": "요격되거",
+      "word": "인기",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "美 “이란 ’美전투기 파괴’ 주장 거짓…미사일 요격되거나 도달 실패“ - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9icExFS2lnRFAwLURyTzBVemNsa2t4VjlHb2pRcDVFNXpTZllqLXl5YVZEYnUxWWlmcUlqdkJXRFpKNEs5c1EtdjRiUzUxU2VhRmFQSVBLMEVXVVk1NUlrSDBEcEdnUzQ?oc=5",
+          "title": "이 대통령, 칠레 ‘한국의 거리' 깜짝 방문… K-뷰티 인기 확인 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iWXV6THVKakh3REZTRGlsbUNScTRNSXVVSXRHVzFJNnZaU1dkT29FdjQ2d0xvNnl4Ym1halI5RnU3eHZjb2sydUNNQXFRV3dmSnA5cG56WEN5Z2VZSDgzMlJMZEpjMFJBX0hN?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 16:31:00 GMT"
+          "published": "Thu, 30 Jul 2026 22:22:00 GMT"
         }
       ]
     },
     {
-      "word": "도달",
+      "word": "공소기각",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "美 “이란 ’美전투기 파괴’ 주장 거짓…미사일 요격되거나 도달 실패“ - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9icExFS2lnRFAwLURyTzBVemNsa2t4VjlHb2pRcDVFNXpTZllqLXl5YVZEYnUxWWlmcUlqdkJXRFpKNEs5c1EtdjRiUzUxU2VhRmFQSVBLMEVXVVk1NUlrSDBEcEdnUzQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 16:31:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "실패",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "美 “이란 ’美전투기 파괴’ 주장 거짓…미사일 요격되거나 도달 실패“ - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9icExFS2lnRFAwLURyTzBVemNsa2t4VjlHb2pRcDVFNXpTZllqLXl5YVZEYnUxWWlmcUlqdkJXRFpKNEs5c1EtdjRiUzUxU2VhRmFQSVBLMEVXVVk1NUlrSDBEcEdnUzQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 30 Jul 2026 16:31:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "이리",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“살다 살다 이리 더븐 건 처음”…‘두겹이불 폭염’에 싸인 부산·대구 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pcmNDdzN4R2N1YTRmbk85N1FKZzF2S2lWTzE0dEJOUW5DZElDby03U1BTeW10YlpvcGs3ZkJmWW9uMFZhaDU1SUJyNjVrYnZFNXJBaXlqbGNlX3BZSEVkVVMyd1k?oc=5",
+          "title": "여 “공소기각, 대법 판례 반영” 야 “정치적 뒷거래 결과물” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EZENMOHpFZHJqUnE1Y3dNVjhjNlJUd3NybFJTVEpqdU5MVTBFVW5ITkVTUi12NmcweWtHd0E2TzlkRzVQQTFtUVhGRFZKM0VKNVRONXctSG8yQV9iWnMtLTZyLWNfNjRfR1E?oc=5",
           "source": "Google News",
           "published": "Thu, 30 Jul 2026 13:18:00 GMT"
         }
       ]
     },
     {
-      "word": "더븐",
+      "word": "대법",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“살다 살다 이리 더븐 건 처음”…‘두겹이불 폭염’에 싸인 부산·대구 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pcmNDdzN4R2N1YTRmbk85N1FKZzF2S2lWTzE0dEJOUW5DZElDby03U1BTeW10YlpvcGs3ZkJmWW9uMFZhaDU1SUJyNjVrYnZFNXJBaXlqbGNlX3BZSEVkVVMyd1k?oc=5",
+          "title": "여 “공소기각, 대법 판례 반영” 야 “정치적 뒷거래 결과물” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EZENMOHpFZHJqUnE1Y3dNVjhjNlJUd3NybFJTVEpqdU5MVTBFVW5ITkVTUi12NmcweWtHd0E2TzlkRzVQQTFtUVhGRFZKM0VKNVRONXctSG8yQV9iWnMtLTZyLWNfNjRfR1E?oc=5",
           "source": "Google News",
           "published": "Thu, 30 Jul 2026 13:18:00 GMT"
         }
       ]
     },
     {
-      "word": "처음두겹이불",
+      "word": "판례",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“살다 살다 이리 더븐 건 처음”…‘두겹이불 폭염’에 싸인 부산·대구 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pcmNDdzN4R2N1YTRmbk85N1FKZzF2S2lWTzE0dEJOUW5DZElDby03U1BTeW10YlpvcGs3ZkJmWW9uMFZhaDU1SUJyNjVrYnZFNXJBaXlqbGNlX3BZSEVkVVMyd1k?oc=5",
+          "title": "여 “공소기각, 대법 판례 반영” 야 “정치적 뒷거래 결과물” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EZENMOHpFZHJqUnE1Y3dNVjhjNlJUd3NybFJTVEpqdU5MVTBFVW5ITkVTUi12NmcweWtHd0E2TzlkRzVQQTFtUVhGRFZKM0VKNVRONXctSG8yQV9iWnMtLTZyLWNfNjRfR1E?oc=5",
           "source": "Google News",
           "published": "Thu, 30 Jul 2026 13:18:00 GMT"
         }
       ]
     },
     {
-      "word": "폭염",
+      "word": "반영",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“살다 살다 이리 더븐 건 처음”…‘두겹이불 폭염’에 싸인 부산·대구 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pcmNDdzN4R2N1YTRmbk85N1FKZzF2S2lWTzE0dEJOUW5DZElDby03U1BTeW10YlpvcGs3ZkJmWW9uMFZhaDU1SUJyNjVrYnZFNXJBaXlqbGNlX3BZSEVkVVMyd1k?oc=5",
+          "title": "여 “공소기각, 대법 판례 반영” 야 “정치적 뒷거래 결과물” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EZENMOHpFZHJqUnE1Y3dNVjhjNlJUd3NybFJTVEpqdU5MVTBFVW5ITkVTUi12NmcweWtHd0E2TzlkRzVQQTFtUVhGRFZKM0VKNVRONXctSG8yQV9iWnMtLTZyLWNfNjRfR1E?oc=5",
           "source": "Google News",
           "published": "Thu, 30 Jul 2026 13:18:00 GMT"
         }
       ]
     },
     {
-      "word": "싸인",
+      "word": "정치",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“살다 살다 이리 더븐 건 처음”…‘두겹이불 폭염’에 싸인 부산·대구 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pcmNDdzN4R2N1YTRmbk85N1FKZzF2S2lWTzE0dEJOUW5DZElDby03U1BTeW10YlpvcGs3ZkJmWW9uMFZhaDU1SUJyNjVrYnZFNXJBaXlqbGNlX3BZSEVkVVMyd1k?oc=5",
+          "title": "여 “공소기각, 대법 판례 반영” 야 “정치적 뒷거래 결과물” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EZENMOHpFZHJqUnE1Y3dNVjhjNlJUd3NybFJTVEpqdU5MVTBFVW5ITkVTUi12NmcweWtHd0E2TzlkRzVQQTFtUVhGRFZKM0VKNVRONXctSG8yQV9iWnMtLTZyLWNfNjRfR1E?oc=5",
           "source": "Google News",
           "published": "Thu, 30 Jul 2026 13:18:00 GMT"
         }
       ]
     },
     {
-      "word": "부산대구",
+      "word": "뒷거래",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“살다 살다 이리 더븐 건 처음”…‘두겹이불 폭염’에 싸인 부산·대구 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pcmNDdzN4R2N1YTRmbk85N1FKZzF2S2lWTzE0dEJOUW5DZElDby03U1BTeW10YlpvcGs3ZkJmWW9uMFZhaDU1SUJyNjVrYnZFNXJBaXlqbGNlX3BZSEVkVVMyd1k?oc=5",
+          "title": "여 “공소기각, 대법 판례 반영” 야 “정치적 뒷거래 결과물” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EZENMOHpFZHJqUnE1Y3dNVjhjNlJUd3NybFJTVEpqdU5MVTBFVW5ITkVTUi12NmcweWtHd0E2TzlkRzVQQTFtUVhGRFZKM0VKNVRONXctSG8yQV9iWnMtLTZyLWNfNjRfR1E?oc=5",
           "source": "Google News",
           "published": "Thu, 30 Jul 2026 13:18:00 GMT"
         }
       ]
     },
     {
-      "word": "보완수사권",
+      "word": "결과물",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "보완수사권 이어 ‘공소기각 확대’ 추가 파장…與 처리 강행 - 국제신문",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdF8wMmpNSXZ6QWVxMEtMdzgxRzFNTFBYZWxjX1QxeENtZzNYblhhYzBISDd5SXdURmlYa25iM1dPSm5QOXREZXFoWHdobl9qeFZtQzUxS2d1b2MtTllYNFBVT0Jha2FoZ3BNRm93N3NjS3Z2OXpLRGtIcXVQb3RwZU5fbnlBMjRzcDVVWU1PS3VYTUR5?oc=5",
+          "title": "여 “공소기각, 대법 판례 반영” 야 “정치적 뒷거래 결과물” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EZENMOHpFZHJqUnE1Y3dNVjhjNlJUd3NybFJTVEpqdU5MVTBFVW5ITkVTUi12NmcweWtHd0E2TzlkRzVQQTFtUVhGRFZKM0VKNVRONXctSG8yQV9iWnMtLTZyLWNfNjRfR1E?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 11:30:00 GMT"
+          "published": "Thu, 30 Jul 2026 13:18:00 GMT"
         }
       ]
     },
     {
-      "word": "이어",
+      "word": "정청래",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "보완수사권 이어 ‘공소기각 확대’ 추가 파장…與 처리 강행 - 국제신문",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdF8wMmpNSXZ6QWVxMEtMdzgxRzFNTFBYZWxjX1QxeENtZzNYblhhYzBISDd5SXdURmlYa25iM1dPSm5QOXREZXFoWHdobl9qeFZtQzUxS2d1b2MtTllYNFBVT0Jha2FoZ3BNRm93N3NjS3Z2OXpLRGtIcXVQb3RwZU5fbnlBMjRzcDVVWU1PS3VYTUR5?oc=5",
+          "title": "정청래 vs 김민석 ‘표 결집’…주말 충청·영남서 과반 나올까 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Qd1lPTmJpUXo5M1dkSDhQOHRXdlhRbUFsN1RybzVQOGlzb1dUOC0waVFkSkRJY3BBWDYyRFdQc2ZqN1E2S213dnBUYW5aVWFvcl9vemJ0VXZsQdIBX0FVX3lxTE0ySXBBREtubjVVYW1IckFxVmdFLVh5a3NrLTFGM2tNUW56My05RTlPVDhZdm5jcHhHVXdYenF6dnNfUklCbmo1alQ5SDlGVmVSMktITU5tVjR6QlVHVGVN?oc=5",
           "source": "Google News",
-          "published": "Thu, 30 Jul 2026 11:30:00 GMT"
+          "published": "Thu, 30 Jul 2026 12:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "김민석",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정청래 vs 김민석 ‘표 결집’…주말 충청·영남서 과반 나올까 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Qd1lPTmJpUXo5M1dkSDhQOHRXdlhRbUFsN1RybzVQOGlzb1dUOC0waVFkSkRJY3BBWDYyRFdQc2ZqN1E2S213dnBUYW5aVWFvcl9vemJ0VXZsQdIBX0FVX3lxTE0ySXBBREtubjVVYW1IckFxVmdFLVh5a3NrLTFGM2tNUW56My05RTlPVDhZdm5jcHhHVXdYenF6dnNfUklCbmo1alQ5SDlGVmVSMktITU5tVjR6QlVHVGVN?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 12:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "결집주말",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정청래 vs 김민석 ‘표 결집’…주말 충청·영남서 과반 나올까 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Qd1lPTmJpUXo5M1dkSDhQOHRXdlhRbUFsN1RybzVQOGlzb1dUOC0waVFkSkRJY3BBWDYyRFdQc2ZqN1E2S213dnBUYW5aVWFvcl9vemJ0VXZsQdIBX0FVX3lxTE0ySXBBREtubjVVYW1IckFxVmdFLVh5a3NrLTFGM2tNUW56My05RTlPVDhZdm5jcHhHVXdYenF6dnNfUklCbmo1alQ5SDlGVmVSMktITU5tVjR6QlVHVGVN?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 12:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "충청영남서",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정청래 vs 김민석 ‘표 결집’…주말 충청·영남서 과반 나올까 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Qd1lPTmJpUXo5M1dkSDhQOHRXdlhRbUFsN1RybzVQOGlzb1dUOC0waVFkSkRJY3BBWDYyRFdQc2ZqN1E2S213dnBUYW5aVWFvcl9vemJ0VXZsQdIBX0FVX3lxTE0ySXBBREtubjVVYW1IckFxVmdFLVh5a3NrLTFGM2tNUW56My05RTlPVDhZdm5jcHhHVXdYenF6dnNfUklCbmo1alQ5SDlGVmVSMktITU5tVjR6QlVHVGVN?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 12:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "과반",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정청래 vs 김민석 ‘표 결집’…주말 충청·영남서 과반 나올까 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Qd1lPTmJpUXo5M1dkSDhQOHRXdlhRbUFsN1RybzVQOGlzb1dUOC0waVFkSkRJY3BBWDYyRFdQc2ZqN1E2S213dnBUYW5aVWFvcl9vemJ0VXZsQdIBX0FVX3lxTE0ySXBBREtubjVVYW1IckFxVmdFLVh5a3NrLTFGM2tNUW56My05RTlPVDhZdm5jcHhHVXdYenF6dnNfUklCbmo1alQ5SDlGVmVSMktITU5tVjR6QlVHVGVN?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 12:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "나올까",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정청래 vs 김민석 ‘표 결집’…주말 충청·영남서 과반 나올까 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Qd1lPTmJpUXo5M1dkSDhQOHRXdlhRbUFsN1RybzVQOGlzb1dUOC0waVFkSkRJY3BBWDYyRFdQc2ZqN1E2S213dnBUYW5aVWFvcl9vemJ0VXZsQdIBX0FVX3lxTE0ySXBBREtubjVVYW1IckFxVmdFLVh5a3NrLTFGM2tNUW56My05RTlPVDhZdm5jcHhHVXdYenF6dnNfUklCbmo1alQ5SDlGVmVSMktITU5tVjR6QlVHVGVN?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 12:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "격추",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "군, 미군 무인기 격추할 뻔…한때 북 무인기 대응 ‘두루미’ 발령 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51dUdLMzhkblRER0EtbGQ3WnhidkJrUWdSeEFqY29BanpWSTBtdTRNQkFSNmxvT1hzVnpuS0ZITjI5Q0xZX0w2T25RU2tiNEdRcEQwRGlxTDd1aDNTdHl6NE5Kb3pJT0Vs?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 13:13:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "뻔한때",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "군, 미군 무인기 격추할 뻔…한때 북 무인기 대응 ‘두루미’ 발령 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51dUdLMzhkblRER0EtbGQ3WnhidkJrUWdSeEFqY29BanpWSTBtdTRNQkFSNmxvT1hzVnpuS0ZITjI5Q0xZX0w2T25RU2tiNEdRcEQwRGlxTDd1aDNTdHl6NE5Kb3pJT0Vs?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 13:13:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "대응",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "군, 미군 무인기 격추할 뻔…한때 북 무인기 대응 ‘두루미’ 발령 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51dUdLMzhkblRER0EtbGQ3WnhidkJrUWdSeEFqY29BanpWSTBtdTRNQkFSNmxvT1hzVnpuS0ZITjI5Q0xZX0w2T25RU2tiNEdRcEQwRGlxTDd1aDNTdHl6NE5Kb3pJT0Vs?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 13:13:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "두루미",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "군, 미군 무인기 격추할 뻔…한때 북 무인기 대응 ‘두루미’ 발령 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51dUdLMzhkblRER0EtbGQ3WnhidkJrUWdSeEFqY29BanpWSTBtdTRNQkFSNmxvT1hzVnpuS0ZITjI5Q0xZX0w2T25RU2tiNEdRcEQwRGlxTDd1aDNTdHl6NE5Kb3pJT0Vs?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 13:13:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "발령",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "군, 미군 무인기 격추할 뻔…한때 북 무인기 대응 ‘두루미’ 발령 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51dUdLMzhkblRER0EtbGQ3WnhidkJrUWdSeEFqY29BanpWSTBtdTRNQkFSNmxvT1hzVnpuS0ZITjI5Q0xZX0w2T25RU2tiNEdRcEQwRGlxTDd1aDNTdHl6NE5Kb3pJT0Vs?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 13:13:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "평화위",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프 “평화위, 하마스 완전한 무장해제 합의…가자 평화 진전” - news.kbs.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rTzdKRW1tWmVhOHVTNUNMenY1cU1QeFo0ZHlubXBHODZQQmtnZVl1LU8zakZiZXptWXFrUzJLZ2dJZUVqNmZsRTlCQmotdWZWcm11YndVYjFTcHc?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 23:22:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "하마스",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프 “평화위, 하마스 완전한 무장해제 합의…가자 평화 진전” - news.kbs.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rTzdKRW1tWmVhOHVTNUNMenY1cU1QeFo0ZHlubXBHODZQQmtnZVl1LU8zakZiZXptWXFrUzJLZ2dJZUVqNmZsRTlCQmotdWZWcm11YndVYjFTcHc?oc=5",
+          "source": "Google News",
+          "published": "Thu, 30 Jul 2026 23:22:00 GMT"
         }
       ]
     }
