@@ -1,275 +1,108 @@
 {
   "language": "ko",
-  "last_updated": 1785542767.1022377,
+  "last_updated": 1785558322.0777595,
   "count": 40,
   "trends": [
     {
-      "word": "트럼프",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프 “미군, 이란 매우 강력하게 타격할 것…우크라·러시아 모두 평화 위해 양보해야” - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QNUMzX0Nhbkp1T21kVzlLR3doLWdWc2JkRjJtVURCeWFUeXRIaUVsSG51MDVCTjlKd0JDOFpQRHhhbE5yeXQ5SUc3WGktOHJDWGZFV0JJRXlKTkhRT0pWc3NjQVNCSU93bVBsM2I4UjNvU1F4d2FYd3BkRkx1Z9IBgAFBVV95cUxNNTFhRTFkWnU4WGJ5aDVGMlhXcDNvaHFYdFZiTHdFcXlMbGhrdm9oRHYyU2lidGtPaHpTaDBHbzB1dmZjMXVqY0RSTlhNRmV6eWZpZVpXY0l0d3RuOUxlV1FZZ0ZUdjN4MzF3dnBteDFDSDJXaFBXeWx1cTdRRktpcg?oc=5",
-          "source": "Google News",
-          "published": "Fri, 31 Jul 2026 19:02:46 GMT"
-        },
-        {
-          "title": "트럼프 \"우크라 패트리엇 생산 허가 합의 안 했다\" - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10ei0wbUxzLXhnSzVtVlZHTkJEb1ZNeWR6Z1lkNi1sZkNJMmVURjl5aFp3cFBiaUdGYXlxcjhZbGpSQS1XUDE1RGxDNXVVd0g1RWk3Yzl5ZU0xOVVP?oc=5",
-          "source": "Google News",
-          "published": "Fri, 31 Jul 2026 17:54:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "만난",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "부에노스아이레스 시장 만난 이 대통령 “교민 2만 넘게 거주, 배려 감사” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zLXZSQnpvTjdMVmhVNXU5Z1JHbURfa2RYOUlyaUZfQ3BjczFlYzdwTXY3NFdJYkpSLVVaeGdYRlRRNWozWkk1NnR2Y1Z6OEVpc2ZWV2l1dkpzZ28?oc=5",
-          "source": "Google News",
-          "published": "Fri, 31 Jul 2026 23:26:00 GMT"
-        },
-        {
-          "title": "다시 만난 ‘800원대’ 엔화···환전 미리 해둘까?[경제뭔데] - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42V2xFV1BsSkh1ZlBHVGhBWl9mZTlxeC05c2ZhWTF0SVpqc3dtd2pYZ1h6MzI1ejk0TlMxWkl2dEZxSkZXZlRibHNjZEFoaUE?oc=5",
-          "source": "Google News",
-          "published": "Fri, 31 Jul 2026 21:01:07 GMT"
-        }
-      ]
-    },
-    {
-      "word": "사상",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "경남 양산 41.4도…韓기상관측 사상 최고 기온 - donga.com",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGc3JrOXBDSS0yODJ6RkpVemZtYWJtZW9uNGtkdEpsNXpGMUFuLXVDZXFSWXB6blhxeEp5Y3l6dV9mQVozXzAwTEhwX3F2OThDbC1NN1o0SlVfdkdyMFpCVU9UUFBONjllOGFZVk5mZGNDeDlJVGfSAWZBVV95cUxPLW9OcTAtSU5jdmdENVlneE56ejhkUnNzN1p5eGFmS1BBQ01OZWo5dlREenhMaUxtR3M4STNuR3g2TWRhRkNfVExKeGNkcmY5RXBfREtHMGYzX2dYWFZUMWJYdW9DSGc?oc=5",
-          "source": "Google News",
-          "published": "Fri, 31 Jul 2026 04:27:00 GMT"
-        },
-        {
-          "title": "코스피 역대 기록 다 깼다…‘단숨에 1001p’ 사상 최대 폭등 - news.jtbc.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zbDF3X284dVFVbEIzS1BudHZqQkYtOFpsRzFZSFRjTkQ5VWM5YVo1VVE2Y2NYZWlCSnZoT01VRldSb2t6ZWVKTmJON3R2eUtXZnYtcA?oc=5",
-          "source": "Google News",
-          "published": "Fri, 31 Jul 2026 10:23:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "다시",
+      "word": "결국",
       "count": 2,
       "category": "LOCATION",
       "articles": [
         {
-          "title": "젤렌스키 “러, 북한산 탄도미사일 다시 사용 정황”…예비 분석 발표 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fVW1lX2kxX0puX3lNTVdoel94WmFuRlBsMC1JajVNQjN0QTJtandMYUtXSDJoYXIxOXRtZ1RONU8zM0hVYXFNYXJxR2NTbW9uVmtFaDd2NkZNU0dBdVVPVnpYT0VuQ0lFSWlyU0d3?oc=5",
+          "title": "김민석 “‘1차전’ 열세여도 결국 이길 것”…정청래 “추세가 대세 될 것” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ib3RyWXg1MHo4aXVlNVA4SkU3T0tqNl9pVTQ4b3VyaFBtNHB2VVZWZ0dTWEJfbENsY2lsWl9SZ1VIdnRjR2dFS3Q2am5uTUZZR1hOeFhnZ196SjB5djhXcnBBS3dIMGRtaEE?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 08:53:00 GMT"
+          "published": "Fri, 31 Jul 2026 13:08:00 GMT"
         },
         {
-          "title": "다시 만난 ‘800원대’ 엔화···환전 미리 해둘까?[경제뭔데] - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42V2xFV1BsSkh1ZlBHVGhBWl9mZTlxeC05c2ZhWTF0SVpqc3dtd2pYZ1h6MzI1ejk0TlMxWkl2dEZxSkZXZlRibHNjZEFoaUE?oc=5",
+          "title": "[오피셜]'韓 축구 에이스' 이강인 'AT마드리드 공식발표' 결국 이름 없다…'병역 문제'→한국 잔류 '맨유 친선 경기 명단 완전 제외' - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNTU2MTdqaDJlQVJ2X21nUkxOeS0zWUF3OWJuU3ZGZG5Bclhad1ZsYUZldUs2a3FUeWFQRXFqcjZmVmRpcV81VUUwakMtM200ejFmNktwN24yRlFnN05WTGVPQVZyVXREUVNjZm5RZDhaRlJzcWtDS2pVbGJYNEswZ2pZbDNZb1k3QThj?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 21:01:07 GMT"
+          "published": "Sat, 01 Aug 2026 02:17:00 GMT"
         }
       ]
     },
     {
-      "word": "소행",
+      "word": "3곳",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "소행성 탐사선 '프시케'의 화성 근접 촬영 - ytn.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wRUg1bEFyXzdPbDJaWlVxemJtYlpVNTJ1NWNhTjJwR2k2cm03aXV6WUI0RUU3Sl9UM1VTaGROYkItR2NZMklGX0JzRVZ1YmNlN2NJTUktUzhJaHBybHc?oc=5",
+          "title": "여수 등 전남 3곳 폭염중대경보…화순 등 3곳 폭염경보 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4RFVaOUZSb1ZKSGV2WWtRdnNGUVdxa09Ka0ZHcFNQNExqM01JTXVCMHdZcnd2S0tnbWVrTUVXR09sdTJiaGpZeWx4c3pEalBvN3dWRXNMMktDWkk?oc=5",
+          "source": "Google News",
+          "published": "Sat, 01 Aug 2026 01:05:02 GMT"
+        }
+      ]
+    },
+    {
+      "word": "상승",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "호르무즈 유조선 피습에 국제유가 1%대 상승 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJS01FVV9VSlZlZjNXYlJ0VXZEWkJQUjhLNlNidkhYLUZ1YWdXU0hDeEt3OXRjMENrRm05M3FLMFRSVW5RS1UyQUo0ZXZ3TjRIa1pSTnU0SWpRdzlBY25NMzV5SXFiYmM?oc=5",
           "source": "Google News",
           "published": "Fri, 31 Jul 2026 20:28:00 GMT"
         },
         {
-          "title": "[우주의 속삭임(196)] 세 몸이 맞붙은 소행성 '니사'⋯170년 만에 벗겨진 우주의 가면 - 포커스온경제",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mTy1oMTduS1pSZ2hkRFZJX0hmV3A5Y1lGWTU0aGx0MkI3SThlNFRZNVBBUVZCcHlKa1hhNnZ0WGw1em5WYXN6d1J5dTdkLVNUVHhRRkxJeWRRd3c4VHc?oc=5",
+          "title": "'18% 상승' 코스피, 역대급 반등...SK하이닉스, 사상 첫 상한가 기록 - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51OE9UR3JlNi1kOVdRdS00ZnVWVWdVWjR2b0VRY05HZTRSZFh1YWJraTJUbnZhX1BodGtOOVc1M2ZNVkYxSFZHdWdKai0zaXBXSUE3YTNfSzg3ckpoMlE?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 23:32:30 GMT"
+          "published": "Fri, 31 Jul 2026 08:41:00 GMT"
         }
       ]
     },
     {
-      "word": "우주",
-      "count": 2,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "[우주의 속삭임(196)] 세 몸이 맞붙은 소행성 '니사'⋯170년 만에 벗겨진 우주의 가면 - 포커스온경제",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mTy1oMTduS1pSZ2hkRFZJX0hmV3A5Y1lGWTU0aGx0MkI3SThlNFRZNVBBUVZCcHlKa1hhNnZ0WGw1em5WYXN6d1J5dTdkLVNUVHhRRkxJeWRRd3c4VHc?oc=5",
-          "source": "Google News",
-          "published": "Fri, 31 Jul 2026 23:32:30 GMT"
-        }
-      ]
-    },
-    {
-      "word": "청룡시리즈어워즈",
+      "word": "수출",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "배우 김고은, 제5회 청룡시리즈어워즈 ‘대상’ 영예 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NUmRsUEhQM0tVMzlwVmZIdC1jajk1ZFpNalFGa2hSZFVhNFJ4MXRjc01aSUZFMDlsVVNoNERFODZTWmpxRUloWldRVUZMblU?oc=5",
+          "title": "7월 수출 989억 달러로 역대 2위‥반도체 수출, 두 달 연속 4백억 달러 돌파 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54dlZ5QmkzSUtjSUtTZUhyVEFXYzFFVFl3Qi03aUVFTzdkLUhTcjJUN2NRLURzYWVoeVFDR0w2YjNtNDVieGkyODc5NEMwUjZ5blA3LXJZN3NYRUJOVjdxMUlsSmJ3anNtRE9BQ1VPZ1hnbjlQ0gF0QVVfeXFMT1dJVlgwRy0xdFRnMGwwUXdwcjI4RjVWdmZLLVdZYVM3N0d2c3dwckEyLVVWS2wyQmVOajllNUFObl92cmNNdE8yZG9Ed3REZDRZRzRjQVJCcWxFRlhBeFBnZ0I3T1FZaE5jMDNzOGtQc29PbWg?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 20:47:29 GMT"
-        },
-        {
-          "title": "신민아 등장에, 이광수 \"우와!\" '주책' 폭발…김우빈 '민망+진땀' ('청룡시리즈어워즈') [핫피플] - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5STjFOTWRLUUp1cTVhOU5CX282V2xQYTRuel9VTUNpNVBzX2NRTDlHTVloZFBoQTlaSXZEam54MFRWMjhiMmVwTmMxTThpeDg?oc=5",
-          "source": "Google News",
-          "published": "Fri, 31 Jul 2026 22:01:38 GMT"
+          "published": "Sat, 01 Aug 2026 00:04:04 GMT"
         }
       ]
     },
     {
-      "word": "검사",
-      "count": 1,
+      "word": "달러",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "검사 수사권 완전 폐지, 70여년 사법체계 전면 전환…‘국민적 동의 부족’ 우려도 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzY3VpeUcyX2E2bEVkWGg4cUFTMGFmUE0xTnVOLUFhNllkakRBV2lMVmVPb19Ea0hPQ2lFa2x2Nms2SF9BMzlMbmtQUE9ScXZxSWhmV3Ntc0ZqS0VTTFhlLUxlSkVzR0lfNHJuaFNQcmY2cUx1?oc=5",
+          "title": "7월 수출 989억 달러로 역대 2위‥반도체 수출, 두 달 연속 4백억 달러 돌파 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54dlZ5QmkzSUtjSUtTZUhyVEFXYzFFVFl3Qi03aUVFTzdkLUhTcjJUN2NRLURzYWVoeVFDR0w2YjNtNDVieGkyODc5NEMwUjZ5blA3LXJZN3NYRUJOVjdxMUlsSmJ3anNtRE9BQ1VPZ1hnbjlQ0gF0QVVfeXFMT1dJVlgwRy0xdFRnMGwwUXdwcjI4RjVWdmZLLVdZYVM3N0d2c3dwckEyLVVWS2wyQmVOajllNUFObl92cmNNdE8yZG9Ed3REZDRZRzRjQVJCcWxFRlhBeFBnZ0I3T1FZaE5jMDNzOGtQc29PbWg?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 13:08:00 GMT"
+          "published": "Sat, 01 Aug 2026 00:04:04 GMT"
         }
       ]
     },
     {
-      "word": "수사권",
+      "word": "미이스라엘",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "검사 수사권 완전 폐지, 70여년 사법체계 전면 전환…‘국민적 동의 부족’ 우려도 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzY3VpeUcyX2E2bEVkWGg4cUFTMGFmUE0xTnVOLUFhNllkakRBV2lMVmVPb19Ea0hPQ2lFa2x2Nms2SF9BMzlMbmtQUE9ScXZxSWhmV3Ntc0ZqS0VTTFhlLUxlSkVzR0lfNHJuaFNQcmY2cUx1?oc=5",
+          "title": "미·이스라엘, 주말 내 이란 에너지 시설 타격할 수도…“역대 가장 강력한 공습” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42MW5SWnNWWTlxdlFTQXItRnpYdzlINENoV19TZ2tYSXBPMVVscGItQ002NjRzRFRiWWN2U3pzNDcyUV9TdFgzbVNpakpYR0xhbHpXTmNmdERwTGxYRkJyS0lFanVPZVlaT1JhRU9fRQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 13:08:00 GMT"
+          "published": "Sat, 01 Aug 2026 01:43:00 GMT"
         }
       ]
     },
     {
-      "word": "완전",
+      "word": "주말",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "검사 수사권 완전 폐지, 70여년 사법체계 전면 전환…‘국민적 동의 부족’ 우려도 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzY3VpeUcyX2E2bEVkWGg4cUFTMGFmUE0xTnVOLUFhNllkakRBV2lMVmVPb19Ea0hPQ2lFa2x2Nms2SF9BMzlMbmtQUE9ScXZxSWhmV3Ntc0ZqS0VTTFhlLUxlSkVzR0lfNHJuaFNQcmY2cUx1?oc=5",
+          "title": "미·이스라엘, 주말 내 이란 에너지 시설 타격할 수도…“역대 가장 강력한 공습” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42MW5SWnNWWTlxdlFTQXItRnpYdzlINENoV19TZ2tYSXBPMVVscGItQ002NjRzRFRiWWN2U3pzNDcyUV9TdFgzbVNpakpYR0xhbHpXTmNmdERwTGxYRkJyS0lFanVPZVlaT1JhRU9fRQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 13:08:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "폐지",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "검사 수사권 완전 폐지, 70여년 사법체계 전면 전환…‘국민적 동의 부족’ 우려도 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzY3VpeUcyX2E2bEVkWGg4cUFTMGFmUE0xTnVOLUFhNllkakRBV2lMVmVPb19Ea0hPQ2lFa2x2Nms2SF9BMzlMbmtQUE9ScXZxSWhmV3Ntc0ZqS0VTTFhlLUxlSkVzR0lfNHJuaFNQcmY2cUx1?oc=5",
-          "source": "Google News",
-          "published": "Fri, 31 Jul 2026 13:08:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "70여년",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "검사 수사권 완전 폐지, 70여년 사법체계 전면 전환…‘국민적 동의 부족’ 우려도 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzY3VpeUcyX2E2bEVkWGg4cUFTMGFmUE0xTnVOLUFhNllkakRBV2lMVmVPb19Ea0hPQ2lFa2x2Nms2SF9BMzlMbmtQUE9ScXZxSWhmV3Ntc0ZqS0VTTFhlLUxlSkVzR0lfNHJuaFNQcmY2cUx1?oc=5",
-          "source": "Google News",
-          "published": "Fri, 31 Jul 2026 13:08:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "사법체계",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "검사 수사권 완전 폐지, 70여년 사법체계 전면 전환…‘국민적 동의 부족’ 우려도 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzY3VpeUcyX2E2bEVkWGg4cUFTMGFmUE0xTnVOLUFhNllkakRBV2lMVmVPb19Ea0hPQ2lFa2x2Nms2SF9BMzlMbmtQUE9ScXZxSWhmV3Ntc0ZqS0VTTFhlLUxlSkVzR0lfNHJuaFNQcmY2cUx1?oc=5",
-          "source": "Google News",
-          "published": "Fri, 31 Jul 2026 13:08:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "전면",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "검사 수사권 완전 폐지, 70여년 사법체계 전면 전환…‘국민적 동의 부족’ 우려도 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzY3VpeUcyX2E2bEVkWGg4cUFTMGFmUE0xTnVOLUFhNllkakRBV2lMVmVPb19Ea0hPQ2lFa2x2Nms2SF9BMzlMbmtQUE9ScXZxSWhmV3Ntc0ZqS0VTTFhlLUxlSkVzR0lfNHJuaFNQcmY2cUx1?oc=5",
-          "source": "Google News",
-          "published": "Fri, 31 Jul 2026 13:08:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "전환국민",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "검사 수사권 완전 폐지, 70여년 사법체계 전면 전환…‘국민적 동의 부족’ 우려도 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzY3VpeUcyX2E2bEVkWGg4cUFTMGFmUE0xTnVOLUFhNllkakRBV2lMVmVPb19Ea0hPQ2lFa2x2Nms2SF9BMzlMbmtQUE9ScXZxSWhmV3Ntc0ZqS0VTTFhlLUxlSkVzR0lfNHJuaFNQcmY2cUx1?oc=5",
-          "source": "Google News",
-          "published": "Fri, 31 Jul 2026 13:08:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "동의",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "검사 수사권 완전 폐지, 70여년 사법체계 전면 전환…‘국민적 동의 부족’ 우려도 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzY3VpeUcyX2E2bEVkWGg4cUFTMGFmUE0xTnVOLUFhNllkakRBV2lMVmVPb19Ea0hPQ2lFa2x2Nms2SF9BMzlMbmtQUE9ScXZxSWhmV3Ntc0ZqS0VTTFhlLUxlSkVzR0lfNHJuaFNQcmY2cUx1?oc=5",
-          "source": "Google News",
-          "published": "Fri, 31 Jul 2026 13:08:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "부족",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "검사 수사권 완전 폐지, 70여년 사법체계 전면 전환…‘국민적 동의 부족’ 우려도 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzY3VpeUcyX2E2bEVkWGg4cUFTMGFmUE0xTnVOLUFhNllkakRBV2lMVmVPb19Ea0hPQ2lFa2x2Nms2SF9BMzlMbmtQUE9ScXZxSWhmV3Ntc0ZqS0VTTFhlLUxlSkVzR0lfNHJuaFNQcmY2cUx1?oc=5",
-          "source": "Google News",
-          "published": "Fri, 31 Jul 2026 13:08:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "미군",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프 “미군, 이란 매우 강력하게 타격할 것…우크라·러시아 모두 평화 위해 양보해야” - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QNUMzX0Nhbkp1T21kVzlLR3doLWdWc2JkRjJtVURCeWFUeXRIaUVsSG51MDVCTjlKd0JDOFpQRHhhbE5yeXQ5SUc3WGktOHJDWGZFV0JJRXlKTkhRT0pWc3NjQVNCSU93bVBsM2I4UjNvU1F4d2FYd3BkRkx1Z9IBgAFBVV95cUxNNTFhRTFkWnU4WGJ5aDVGMlhXcDNvaHFYdFZiTHdFcXlMbGhrdm9oRHYyU2lidGtPaHpTaDBHbzB1dmZjMXVqY0RSTlhNRmV6eWZpZVpXY0l0d3RuOUxlV1FZZ0ZUdjN4MzF3dnBteDFDSDJXaFBXeWx1cTdRRktpcg?oc=5",
-          "source": "Google News",
-          "published": "Fri, 31 Jul 2026 19:02:46 GMT"
+          "published": "Sat, 01 Aug 2026 01:43:00 GMT"
         }
       ]
     },
@@ -279,36 +112,36 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 “미군, 이란 매우 강력하게 타격할 것…우크라·러시아 모두 평화 위해 양보해야” - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QNUMzX0Nhbkp1T21kVzlLR3doLWdWc2JkRjJtVURCeWFUeXRIaUVsSG51MDVCTjlKd0JDOFpQRHhhbE5yeXQ5SUc3WGktOHJDWGZFV0JJRXlKTkhRT0pWc3NjQVNCSU93bVBsM2I4UjNvU1F4d2FYd3BkRkx1Z9IBgAFBVV95cUxNNTFhRTFkWnU4WGJ5aDVGMlhXcDNvaHFYdFZiTHdFcXlMbGhrdm9oRHYyU2lidGtPaHpTaDBHbzB1dmZjMXVqY0RSTlhNRmV6eWZpZVpXY0l0d3RuOUxlV1FZZ0ZUdjN4MzF3dnBteDFDSDJXaFBXeWx1cTdRRktpcg?oc=5",
+          "title": "미·이스라엘, 주말 내 이란 에너지 시설 타격할 수도…“역대 가장 강력한 공습” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42MW5SWnNWWTlxdlFTQXItRnpYdzlINENoV19TZ2tYSXBPMVVscGItQ002NjRzRFRiWWN2U3pzNDcyUV9TdFgzbVNpakpYR0xhbHpXTmNmdERwTGxYRkJyS0lFanVPZVlaT1JhRU9fRQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 19:02:46 GMT"
+          "published": "Sat, 01 Aug 2026 01:43:00 GMT"
         }
       ]
     },
     {
-      "word": "매우",
+      "word": "에너지",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 “미군, 이란 매우 강력하게 타격할 것…우크라·러시아 모두 평화 위해 양보해야” - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QNUMzX0Nhbkp1T21kVzlLR3doLWdWc2JkRjJtVURCeWFUeXRIaUVsSG51MDVCTjlKd0JDOFpQRHhhbE5yeXQ5SUc3WGktOHJDWGZFV0JJRXlKTkhRT0pWc3NjQVNCSU93bVBsM2I4UjNvU1F4d2FYd3BkRkx1Z9IBgAFBVV95cUxNNTFhRTFkWnU4WGJ5aDVGMlhXcDNvaHFYdFZiTHdFcXlMbGhrdm9oRHYyU2lidGtPaHpTaDBHbzB1dmZjMXVqY0RSTlhNRmV6eWZpZVpXY0l0d3RuOUxlV1FZZ0ZUdjN4MzF3dnBteDFDSDJXaFBXeWx1cTdRRktpcg?oc=5",
+          "title": "미·이스라엘, 주말 내 이란 에너지 시설 타격할 수도…“역대 가장 강력한 공습” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42MW5SWnNWWTlxdlFTQXItRnpYdzlINENoV19TZ2tYSXBPMVVscGItQ002NjRzRFRiWWN2U3pzNDcyUV9TdFgzbVNpakpYR0xhbHpXTmNmdERwTGxYRkJyS0lFanVPZVlaT1JhRU9fRQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 19:02:46 GMT"
+          "published": "Sat, 01 Aug 2026 01:43:00 GMT"
         }
       ]
     },
     {
-      "word": "강력하게",
+      "word": "시설",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 “미군, 이란 매우 강력하게 타격할 것…우크라·러시아 모두 평화 위해 양보해야” - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QNUMzX0Nhbkp1T21kVzlLR3doLWdWc2JkRjJtVURCeWFUeXRIaUVsSG51MDVCTjlKd0JDOFpQRHhhbE5yeXQ5SUc3WGktOHJDWGZFV0JJRXlKTkhRT0pWc3NjQVNCSU93bVBsM2I4UjNvU1F4d2FYd3BkRkx1Z9IBgAFBVV95cUxNNTFhRTFkWnU4WGJ5aDVGMlhXcDNvaHFYdFZiTHdFcXlMbGhrdm9oRHYyU2lidGtPaHpTaDBHbzB1dmZjMXVqY0RSTlhNRmV6eWZpZVpXY0l0d3RuOUxlV1FZZ0ZUdjN4MzF3dnBteDFDSDJXaFBXeWx1cTdRRktpcg?oc=5",
+          "title": "미·이스라엘, 주말 내 이란 에너지 시설 타격할 수도…“역대 가장 강력한 공습” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42MW5SWnNWWTlxdlFTQXItRnpYdzlINENoV19TZ2tYSXBPMVVscGItQ002NjRzRFRiWWN2U3pzNDcyUV9TdFgzbVNpakpYR0xhbHpXTmNmdERwTGxYRkJyS0lFanVPZVlaT1JhRU9fRQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 19:02:46 GMT"
+          "published": "Sat, 01 Aug 2026 01:43:00 GMT"
         }
       ]
     },
@@ -318,244 +151,387 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 “미군, 이란 매우 강력하게 타격할 것…우크라·러시아 모두 평화 위해 양보해야” - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QNUMzX0Nhbkp1T21kVzlLR3doLWdWc2JkRjJtVURCeWFUeXRIaUVsSG51MDVCTjlKd0JDOFpQRHhhbE5yeXQ5SUc3WGktOHJDWGZFV0JJRXlKTkhRT0pWc3NjQVNCSU93bVBsM2I4UjNvU1F4d2FYd3BkRkx1Z9IBgAFBVV95cUxNNTFhRTFkWnU4WGJ5aDVGMlhXcDNvaHFYdFZiTHdFcXlMbGhrdm9oRHYyU2lidGtPaHpTaDBHbzB1dmZjMXVqY0RSTlhNRmV6eWZpZVpXY0l0d3RuOUxlV1FZZ0ZUdjN4MzF3dnBteDFDSDJXaFBXeWx1cTdRRktpcg?oc=5",
+          "title": "미·이스라엘, 주말 내 이란 에너지 시설 타격할 수도…“역대 가장 강력한 공습” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42MW5SWnNWWTlxdlFTQXItRnpYdzlINENoV19TZ2tYSXBPMVVscGItQ002NjRzRFRiWWN2U3pzNDcyUV9TdFgzbVNpakpYR0xhbHpXTmNmdERwTGxYRkJyS0lFanVPZVlaT1JhRU9fRQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 19:02:46 GMT"
+          "published": "Sat, 01 Aug 2026 01:43:00 GMT"
         }
       ]
     },
     {
-      "word": "것우크라러시아",
+      "word": "수도역대",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 “미군, 이란 매우 강력하게 타격할 것…우크라·러시아 모두 평화 위해 양보해야” - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QNUMzX0Nhbkp1T21kVzlLR3doLWdWc2JkRjJtVURCeWFUeXRIaUVsSG51MDVCTjlKd0JDOFpQRHhhbE5yeXQ5SUc3WGktOHJDWGZFV0JJRXlKTkhRT0pWc3NjQVNCSU93bVBsM2I4UjNvU1F4d2FYd3BkRkx1Z9IBgAFBVV95cUxNNTFhRTFkWnU4WGJ5aDVGMlhXcDNvaHFYdFZiTHdFcXlMbGhrdm9oRHYyU2lidGtPaHpTaDBHbzB1dmZjMXVqY0RSTlhNRmV6eWZpZVpXY0l0d3RuOUxlV1FZZ0ZUdjN4MzF3dnBteDFDSDJXaFBXeWx1cTdRRktpcg?oc=5",
+          "title": "미·이스라엘, 주말 내 이란 에너지 시설 타격할 수도…“역대 가장 강력한 공습” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42MW5SWnNWWTlxdlFTQXItRnpYdzlINENoV19TZ2tYSXBPMVVscGItQ002NjRzRFRiWWN2U3pzNDcyUV9TdFgzbVNpakpYR0xhbHpXTmNmdERwTGxYRkJyS0lFanVPZVlaT1JhRU9fRQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 19:02:46 GMT"
+          "published": "Sat, 01 Aug 2026 01:43:00 GMT"
         }
       ]
     },
     {
-      "word": "모두",
+      "word": "가장",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 “미군, 이란 매우 강력하게 타격할 것…우크라·러시아 모두 평화 위해 양보해야” - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QNUMzX0Nhbkp1T21kVzlLR3doLWdWc2JkRjJtVURCeWFUeXRIaUVsSG51MDVCTjlKd0JDOFpQRHhhbE5yeXQ5SUc3WGktOHJDWGZFV0JJRXlKTkhRT0pWc3NjQVNCSU93bVBsM2I4UjNvU1F4d2FYd3BkRkx1Z9IBgAFBVV95cUxNNTFhRTFkWnU4WGJ5aDVGMlhXcDNvaHFYdFZiTHdFcXlMbGhrdm9oRHYyU2lidGtPaHpTaDBHbzB1dmZjMXVqY0RSTlhNRmV6eWZpZVpXY0l0d3RuOUxlV1FZZ0ZUdjN4MzF3dnBteDFDSDJXaFBXeWx1cTdRRktpcg?oc=5",
+          "title": "미·이스라엘, 주말 내 이란 에너지 시설 타격할 수도…“역대 가장 강력한 공습” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42MW5SWnNWWTlxdlFTQXItRnpYdzlINENoV19TZ2tYSXBPMVVscGItQ002NjRzRFRiWWN2U3pzNDcyUV9TdFgzbVNpakpYR0xhbHpXTmNmdERwTGxYRkJyS0lFanVPZVlaT1JhRU9fRQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 19:02:46 GMT"
+          "published": "Sat, 01 Aug 2026 01:43:00 GMT"
         }
       ]
     },
     {
-      "word": "평화",
+      "word": "강력",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 “미군, 이란 매우 강력하게 타격할 것…우크라·러시아 모두 평화 위해 양보해야” - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QNUMzX0Nhbkp1T21kVzlLR3doLWdWc2JkRjJtVURCeWFUeXRIaUVsSG51MDVCTjlKd0JDOFpQRHhhbE5yeXQ5SUc3WGktOHJDWGZFV0JJRXlKTkhRT0pWc3NjQVNCSU93bVBsM2I4UjNvU1F4d2FYd3BkRkx1Z9IBgAFBVV95cUxNNTFhRTFkWnU4WGJ5aDVGMlhXcDNvaHFYdFZiTHdFcXlMbGhrdm9oRHYyU2lidGtPaHpTaDBHbzB1dmZjMXVqY0RSTlhNRmV6eWZpZVpXY0l0d3RuOUxlV1FZZ0ZUdjN4MzF3dnBteDFDSDJXaFBXeWx1cTdRRktpcg?oc=5",
+          "title": "미·이스라엘, 주말 내 이란 에너지 시설 타격할 수도…“역대 가장 강력한 공습” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42MW5SWnNWWTlxdlFTQXItRnpYdzlINENoV19TZ2tYSXBPMVVscGItQ002NjRzRFRiWWN2U3pzNDcyUV9TdFgzbVNpakpYR0xhbHpXTmNmdERwTGxYRkJyS0lFanVPZVlaT1JhRU9fRQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 19:02:46 GMT"
+          "published": "Sat, 01 Aug 2026 01:43:00 GMT"
         }
       ]
     },
     {
-      "word": "양보해야",
+      "word": "공습",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 “미군, 이란 매우 강력하게 타격할 것…우크라·러시아 모두 평화 위해 양보해야” - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QNUMzX0Nhbkp1T21kVzlLR3doLWdWc2JkRjJtVURCeWFUeXRIaUVsSG51MDVCTjlKd0JDOFpQRHhhbE5yeXQ5SUc3WGktOHJDWGZFV0JJRXlKTkhRT0pWc3NjQVNCSU93bVBsM2I4UjNvU1F4d2FYd3BkRkx1Z9IBgAFBVV95cUxNNTFhRTFkWnU4WGJ5aDVGMlhXcDNvaHFYdFZiTHdFcXlMbGhrdm9oRHYyU2lidGtPaHpTaDBHbzB1dmZjMXVqY0RSTlhNRmV6eWZpZVpXY0l0d3RuOUxlV1FZZ0ZUdjN4MzF3dnBteDFDSDJXaFBXeWx1cTdRRktpcg?oc=5",
+          "title": "미·이스라엘, 주말 내 이란 에너지 시설 타격할 수도…“역대 가장 강력한 공습” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42MW5SWnNWWTlxdlFTQXItRnpYdzlINENoV19TZ2tYSXBPMVVscGItQ002NjRzRFRiWWN2U3pzNDcyUV9TdFgzbVNpakpYR0xhbHpXTmNmdERwTGxYRkJyS0lFanVPZVlaT1JhRU9fRQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 19:02:46 GMT"
+          "published": "Sat, 01 Aug 2026 01:43:00 GMT"
         }
       ]
     },
     {
-      "word": "당정",
+      "word": "스페인",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "당정, ‘메가특구’ 주 52시간 예외 논의…국민의힘에선 “모든 반도체 산업에 적용하자” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tOFdZbmt1b2xLMUF6clRZWER3cllidS1NUXRsdW9YZVVCcFhvbzBadjhZMjY4d3g4TFVLV3ByRzQ0cU1kbzBYOVhGUm04dEpuMlZqSk1uVUhPVEE?oc=5",
+          "title": "스페인 세우타 '수만명 월경' 사태 진정…대다수 모로코로 귀환(종합2보) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xdHlzLUtscmpUWGt4QzJLRVZwZ0ZpTWtNQjRvS3ZBaktVQUI1QU9iNnVrNU9zZmRpa25odkhpbnphWmVGRHh1MTgzZmlWdG15eTk2RTBKeTlwbEXSAWBBVV95cUxPQ2RIczlkRW5RaGtGMGtraGwxLTQ1bVhWTWlXLS1ZbnhUY0M5TnV4SUFZaGFPbzR4UzBKQnM0QVlBUVNIcDZ4SVptYzdPbEJKUTM2aDZJLWtFN1d5ZmQwUkg?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 12:42:00 GMT"
+          "published": "Fri, 31 Jul 2026 23:42:06 GMT"
         }
       ]
     },
     {
-      "word": "메가특구",
+      "word": "세우타",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "당정, ‘메가특구’ 주 52시간 예외 논의…국민의힘에선 “모든 반도체 산업에 적용하자” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tOFdZbmt1b2xLMUF6clRZWER3cllidS1NUXRsdW9YZVVCcFhvbzBadjhZMjY4d3g4TFVLV3ByRzQ0cU1kbzBYOVhGUm04dEpuMlZqSk1uVUhPVEE?oc=5",
+          "title": "스페인 세우타 '수만명 월경' 사태 진정…대다수 모로코로 귀환(종합2보) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xdHlzLUtscmpUWGt4QzJLRVZwZ0ZpTWtNQjRvS3ZBaktVQUI1QU9iNnVrNU9zZmRpa25odkhpbnphWmVGRHh1MTgzZmlWdG15eTk2RTBKeTlwbEXSAWBBVV95cUxPQ2RIczlkRW5RaGtGMGtraGwxLTQ1bVhWTWlXLS1ZbnhUY0M5TnV4SUFZaGFPbzR4UzBKQnM0QVlBUVNIcDZ4SVptYzdPbEJKUTM2aDZJLWtFN1d5ZmQwUkg?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 12:42:00 GMT"
+          "published": "Fri, 31 Jul 2026 23:42:06 GMT"
         }
       ]
     },
     {
-      "word": "52시간",
+      "word": "수만명",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "당정, ‘메가특구’ 주 52시간 예외 논의…국민의힘에선 “모든 반도체 산업에 적용하자” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tOFdZbmt1b2xLMUF6clRZWER3cllidS1NUXRsdW9YZVVCcFhvbzBadjhZMjY4d3g4TFVLV3ByRzQ0cU1kbzBYOVhGUm04dEpuMlZqSk1uVUhPVEE?oc=5",
+          "title": "스페인 세우타 '수만명 월경' 사태 진정…대다수 모로코로 귀환(종합2보) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xdHlzLUtscmpUWGt4QzJLRVZwZ0ZpTWtNQjRvS3ZBaktVQUI1QU9iNnVrNU9zZmRpa25odkhpbnphWmVGRHh1MTgzZmlWdG15eTk2RTBKeTlwbEXSAWBBVV95cUxPQ2RIczlkRW5RaGtGMGtraGwxLTQ1bVhWTWlXLS1ZbnhUY0M5TnV4SUFZaGFPbzR4UzBKQnM0QVlBUVNIcDZ4SVptYzdPbEJKUTM2aDZJLWtFN1d5ZmQwUkg?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 12:42:00 GMT"
+          "published": "Fri, 31 Jul 2026 23:42:06 GMT"
         }
       ]
     },
     {
-      "word": "예외",
+      "word": "월경",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "당정, ‘메가특구’ 주 52시간 예외 논의…국민의힘에선 “모든 반도체 산업에 적용하자” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tOFdZbmt1b2xLMUF6clRZWER3cllidS1NUXRsdW9YZVVCcFhvbzBadjhZMjY4d3g4TFVLV3ByRzQ0cU1kbzBYOVhGUm04dEpuMlZqSk1uVUhPVEE?oc=5",
+          "title": "스페인 세우타 '수만명 월경' 사태 진정…대다수 모로코로 귀환(종합2보) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xdHlzLUtscmpUWGt4QzJLRVZwZ0ZpTWtNQjRvS3ZBaktVQUI1QU9iNnVrNU9zZmRpa25odkhpbnphWmVGRHh1MTgzZmlWdG15eTk2RTBKeTlwbEXSAWBBVV95cUxPQ2RIczlkRW5RaGtGMGtraGwxLTQ1bVhWTWlXLS1ZbnhUY0M5TnV4SUFZaGFPbzR4UzBKQnM0QVlBUVNIcDZ4SVptYzdPbEJKUTM2aDZJLWtFN1d5ZmQwUkg?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 12:42:00 GMT"
+          "published": "Fri, 31 Jul 2026 23:42:06 GMT"
         }
       ]
     },
     {
-      "word": "논의국민의힘에선",
+      "word": "사태",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "당정, ‘메가특구’ 주 52시간 예외 논의…국민의힘에선 “모든 반도체 산업에 적용하자” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tOFdZbmt1b2xLMUF6clRZWER3cllidS1NUXRsdW9YZVVCcFhvbzBadjhZMjY4d3g4TFVLV3ByRzQ0cU1kbzBYOVhGUm04dEpuMlZqSk1uVUhPVEE?oc=5",
+          "title": "스페인 세우타 '수만명 월경' 사태 진정…대다수 모로코로 귀환(종합2보) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xdHlzLUtscmpUWGt4QzJLRVZwZ0ZpTWtNQjRvS3ZBaktVQUI1QU9iNnVrNU9zZmRpa25odkhpbnphWmVGRHh1MTgzZmlWdG15eTk2RTBKeTlwbEXSAWBBVV95cUxPQ2RIczlkRW5RaGtGMGtraGwxLTQ1bVhWTWlXLS1ZbnhUY0M5TnV4SUFZaGFPbzR4UzBKQnM0QVlBUVNIcDZ4SVptYzdPbEJKUTM2aDZJLWtFN1d5ZmQwUkg?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 12:42:00 GMT"
+          "published": "Fri, 31 Jul 2026 23:42:06 GMT"
         }
       ]
     },
     {
-      "word": "모든",
+      "word": "진정대다수",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "당정, ‘메가특구’ 주 52시간 예외 논의…국민의힘에선 “모든 반도체 산업에 적용하자” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tOFdZbmt1b2xLMUF6clRZWER3cllidS1NUXRsdW9YZVVCcFhvbzBadjhZMjY4d3g4TFVLV3ByRzQ0cU1kbzBYOVhGUm04dEpuMlZqSk1uVUhPVEE?oc=5",
+          "title": "스페인 세우타 '수만명 월경' 사태 진정…대다수 모로코로 귀환(종합2보) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xdHlzLUtscmpUWGt4QzJLRVZwZ0ZpTWtNQjRvS3ZBaktVQUI1QU9iNnVrNU9zZmRpa25odkhpbnphWmVGRHh1MTgzZmlWdG15eTk2RTBKeTlwbEXSAWBBVV95cUxPQ2RIczlkRW5RaGtGMGtraGwxLTQ1bVhWTWlXLS1ZbnhUY0M5TnV4SUFZaGFPbzR4UzBKQnM0QVlBUVNIcDZ4SVptYzdPbEJKUTM2aDZJLWtFN1d5ZmQwUkg?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 12:42:00 GMT"
+          "published": "Fri, 31 Jul 2026 23:42:06 GMT"
         }
       ]
     },
     {
-      "word": "반도체",
+      "word": "모로코",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "당정, ‘메가특구’ 주 52시간 예외 논의…국민의힘에선 “모든 반도체 산업에 적용하자” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tOFdZbmt1b2xLMUF6clRZWER3cllidS1NUXRsdW9YZVVCcFhvbzBadjhZMjY4d3g4TFVLV3ByRzQ0cU1kbzBYOVhGUm04dEpuMlZqSk1uVUhPVEE?oc=5",
+          "title": "스페인 세우타 '수만명 월경' 사태 진정…대다수 모로코로 귀환(종합2보) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xdHlzLUtscmpUWGt4QzJLRVZwZ0ZpTWtNQjRvS3ZBaktVQUI1QU9iNnVrNU9zZmRpa25odkhpbnphWmVGRHh1MTgzZmlWdG15eTk2RTBKeTlwbEXSAWBBVV95cUxPQ2RIczlkRW5RaGtGMGtraGwxLTQ1bVhWTWlXLS1ZbnhUY0M5TnV4SUFZaGFPbzR4UzBKQnM0QVlBUVNIcDZ4SVptYzdPbEJKUTM2aDZJLWtFN1d5ZmQwUkg?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 12:42:00 GMT"
+          "published": "Fri, 31 Jul 2026 23:42:06 GMT"
         }
       ]
     },
     {
-      "word": "산업",
+      "word": "귀환종합2보",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "당정, ‘메가특구’ 주 52시간 예외 논의…국민의힘에선 “모든 반도체 산업에 적용하자” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tOFdZbmt1b2xLMUF6clRZWER3cllidS1NUXRsdW9YZVVCcFhvbzBadjhZMjY4d3g4TFVLV3ByRzQ0cU1kbzBYOVhGUm04dEpuMlZqSk1uVUhPVEE?oc=5",
+          "title": "스페인 세우타 '수만명 월경' 사태 진정…대다수 모로코로 귀환(종합2보) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xdHlzLUtscmpUWGt4QzJLRVZwZ0ZpTWtNQjRvS3ZBaktVQUI1QU9iNnVrNU9zZmRpa25odkhpbnphWmVGRHh1MTgzZmlWdG15eTk2RTBKeTlwbEXSAWBBVV95cUxPQ2RIczlkRW5RaGtGMGtraGwxLTQ1bVhWTWlXLS1ZbnhUY0M5TnV4SUFZaGFPbzR4UzBKQnM0QVlBUVNIcDZ4SVptYzdPbEJKUTM2aDZJLWtFN1d5ZmQwUkg?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 12:42:00 GMT"
+          "published": "Fri, 31 Jul 2026 23:42:06 GMT"
         }
       ]
     },
     {
-      "word": "적용하자",
+      "word": "당대표",
       "count": 1,
-      "category": "NOUN",
+      "category": "PERSON",
       "articles": [
         {
-          "title": "당정, ‘메가특구’ 주 52시간 예외 논의…국민의힘에선 “모든 반도체 산업에 적용하자” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tOFdZbmt1b2xLMUF6clRZWER3cllidS1NUXRsdW9YZVVCcFhvbzBadjhZMjY4d3g4TFVLV3ByRzQ0cU1kbzBYOVhGUm04dEpuMlZqSk1uVUhPVEE?oc=5",
+          "title": "與 당대표 경선 나섰던 김보미 \"보완수사권 폐지, 2030 민주당서 더 멀어질 것\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcGU5azNlMDZ2ZGZlVVRWQ2RTX2VNcWRXWUYwM2NkMkhGenFJdGgzYk1lMXB2a05IYWdTOHJndWQ0ckRNZ0RvNTB2S3VvbmI5VEotRllwcHNGaUdwMmhnWkVlTVBUT2VSZzB3RVcxSlh6SThPMUtYcGlaek9fMldTRlBxS2NBZw?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 12:42:00 GMT"
+          "published": "Fri, 31 Jul 2026 22:51:00 GMT"
         }
       ]
     },
     {
-      "word": "태안",
+      "word": "경선",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "태안 기름유출 손내민 구마모토…이번엔 충남이 지진피해 '위로' - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYVDlvYWNlV01FTFlQcHdqTnJMSEVORHhkTVVmcWpaTm85bW94dUtFdG9FOUhnbmFDdFlSTjZaSGhBY2J5bG91ZG1nc0FCY2EyeHR3RTNiUjlfMkHSAWBBVV95cUxQWkJXSC1tUmhRU2o1aldUbXliVm5rWGFHWEpuUGVFM3pfbngzNkdZX1FLbGtweUNxYl9YaklIdmoxN2sxNnloT2dJX2wwMTFGRWFYWVd0LU5QUHBRM3d3Vkw?oc=5",
+          "title": "與 당대표 경선 나섰던 김보미 \"보완수사권 폐지, 2030 민주당서 더 멀어질 것\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcGU5azNlMDZ2ZGZlVVRWQ2RTX2VNcWRXWUYwM2NkMkhGenFJdGgzYk1lMXB2a05IYWdTOHJndWQ0ckRNZ0RvNTB2S3VvbmI5VEotRllwcHNGaUdwMmhnWkVlTVBUT2VSZzB3RVcxSlh6SThPMUtYcGlaek9fMldTRlBxS2NBZw?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 21:10:00 GMT"
+          "published": "Fri, 31 Jul 2026 22:51:00 GMT"
         }
       ]
     },
     {
-      "word": "기름유출",
+      "word": "나섰던",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "태안 기름유출 손내민 구마모토…이번엔 충남이 지진피해 '위로' - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYVDlvYWNlV01FTFlQcHdqTnJMSEVORHhkTVVmcWpaTm85bW94dUtFdG9FOUhnbmFDdFlSTjZaSGhBY2J5bG91ZG1nc0FCY2EyeHR3RTNiUjlfMkHSAWBBVV95cUxQWkJXSC1tUmhRU2o1aldUbXliVm5rWGFHWEpuUGVFM3pfbngzNkdZX1FLbGtweUNxYl9YaklIdmoxN2sxNnloT2dJX2wwMTFGRWFYWVd0LU5QUHBRM3d3Vkw?oc=5",
+          "title": "與 당대표 경선 나섰던 김보미 \"보완수사권 폐지, 2030 민주당서 더 멀어질 것\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcGU5azNlMDZ2ZGZlVVRWQ2RTX2VNcWRXWUYwM2NkMkhGenFJdGgzYk1lMXB2a05IYWdTOHJndWQ0ckRNZ0RvNTB2S3VvbmI5VEotRllwcHNGaUdwMmhnWkVlTVBUT2VSZzB3RVcxSlh6SThPMUtYcGlaek9fMldTRlBxS2NBZw?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 21:10:00 GMT"
+          "published": "Fri, 31 Jul 2026 22:51:00 GMT"
         }
       ]
     },
     {
-      "word": "손내민",
+      "word": "김보미",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "태안 기름유출 손내민 구마모토…이번엔 충남이 지진피해 '위로' - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYVDlvYWNlV01FTFlQcHdqTnJMSEVORHhkTVVmcWpaTm85bW94dUtFdG9FOUhnbmFDdFlSTjZaSGhBY2J5bG91ZG1nc0FCY2EyeHR3RTNiUjlfMkHSAWBBVV95cUxQWkJXSC1tUmhRU2o1aldUbXliVm5rWGFHWEpuUGVFM3pfbngzNkdZX1FLbGtweUNxYl9YaklIdmoxN2sxNnloT2dJX2wwMTFGRWFYWVd0LU5QUHBRM3d3Vkw?oc=5",
+          "title": "與 당대표 경선 나섰던 김보미 \"보완수사권 폐지, 2030 민주당서 더 멀어질 것\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcGU5azNlMDZ2ZGZlVVRWQ2RTX2VNcWRXWUYwM2NkMkhGenFJdGgzYk1lMXB2a05IYWdTOHJndWQ0ckRNZ0RvNTB2S3VvbmI5VEotRllwcHNGaUdwMmhnWkVlTVBUT2VSZzB3RVcxSlh6SThPMUtYcGlaek9fMldTRlBxS2NBZw?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 21:10:00 GMT"
+          "published": "Fri, 31 Jul 2026 22:51:00 GMT"
         }
       ]
     },
     {
-      "word": "구마모토이번엔",
+      "word": "보완수사권",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "태안 기름유출 손내민 구마모토…이번엔 충남이 지진피해 '위로' - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYVDlvYWNlV01FTFlQcHdqTnJMSEVORHhkTVVmcWpaTm85bW94dUtFdG9FOUhnbmFDdFlSTjZaSGhBY2J5bG91ZG1nc0FCY2EyeHR3RTNiUjlfMkHSAWBBVV95cUxQWkJXSC1tUmhRU2o1aldUbXliVm5rWGFHWEpuUGVFM3pfbngzNkdZX1FLbGtweUNxYl9YaklIdmoxN2sxNnloT2dJX2wwMTFGRWFYWVd0LU5QUHBRM3d3Vkw?oc=5",
+          "title": "與 당대표 경선 나섰던 김보미 \"보완수사권 폐지, 2030 민주당서 더 멀어질 것\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcGU5azNlMDZ2ZGZlVVRWQ2RTX2VNcWRXWUYwM2NkMkhGenFJdGgzYk1lMXB2a05IYWdTOHJndWQ0ckRNZ0RvNTB2S3VvbmI5VEotRllwcHNGaUdwMmhnWkVlTVBUT2VSZzB3RVcxSlh6SThPMUtYcGlaek9fMldTRlBxS2NBZw?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 21:10:00 GMT"
+          "published": "Fri, 31 Jul 2026 22:51:00 GMT"
         }
       ]
     },
     {
-      "word": "충남",
+      "word": "폐지",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "태안 기름유출 손내민 구마모토…이번엔 충남이 지진피해 '위로' - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYVDlvYWNlV01FTFlQcHdqTnJMSEVORHhkTVVmcWpaTm85bW94dUtFdG9FOUhnbmFDdFlSTjZaSGhBY2J5bG91ZG1nc0FCY2EyeHR3RTNiUjlfMkHSAWBBVV95cUxQWkJXSC1tUmhRU2o1aldUbXliVm5rWGFHWEpuUGVFM3pfbngzNkdZX1FLbGtweUNxYl9YaklIdmoxN2sxNnloT2dJX2wwMTFGRWFYWVd0LU5QUHBRM3d3Vkw?oc=5",
+          "title": "與 당대표 경선 나섰던 김보미 \"보완수사권 폐지, 2030 민주당서 더 멀어질 것\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcGU5azNlMDZ2ZGZlVVRWQ2RTX2VNcWRXWUYwM2NkMkhGenFJdGgzYk1lMXB2a05IYWdTOHJndWQ0ckRNZ0RvNTB2S3VvbmI5VEotRllwcHNGaUdwMmhnWkVlTVBUT2VSZzB3RVcxSlh6SThPMUtYcGlaek9fMldTRlBxS2NBZw?oc=5",
           "source": "Google News",
-          "published": "Fri, 31 Jul 2026 21:10:00 GMT"
+          "published": "Fri, 31 Jul 2026 22:51:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "2030",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "與 당대표 경선 나섰던 김보미 \"보완수사권 폐지, 2030 민주당서 더 멀어질 것\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcGU5azNlMDZ2ZGZlVVRWQ2RTX2VNcWRXWUYwM2NkMkhGenFJdGgzYk1lMXB2a05IYWdTOHJndWQ0ckRNZ0RvNTB2S3VvbmI5VEotRllwcHNGaUdwMmhnWkVlTVBUT2VSZzB3RVcxSlh6SThPMUtYcGlaek9fMldTRlBxS2NBZw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 31 Jul 2026 22:51:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "민주당서",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "與 당대표 경선 나섰던 김보미 \"보완수사권 폐지, 2030 민주당서 더 멀어질 것\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcGU5azNlMDZ2ZGZlVVRWQ2RTX2VNcWRXWUYwM2NkMkhGenFJdGgzYk1lMXB2a05IYWdTOHJndWQ0ckRNZ0RvNTB2S3VvbmI5VEotRllwcHNGaUdwMmhnWkVlTVBUT2VSZzB3RVcxSlh6SThPMUtYcGlaek9fMldTRlBxS2NBZw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 31 Jul 2026 22:51:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "멀어질",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "與 당대표 경선 나섰던 김보미 \"보완수사권 폐지, 2030 민주당서 더 멀어질 것\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcGU5azNlMDZ2ZGZlVVRWQ2RTX2VNcWRXWUYwM2NkMkhGenFJdGgzYk1lMXB2a05IYWdTOHJndWQ0ckRNZ0RvNTB2S3VvbmI5VEotRllwcHNGaUdwMmhnWkVlTVBUT2VSZzB3RVcxSlh6SThPMUtYcGlaek9fMldTRlBxS2NBZw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 31 Jul 2026 22:51:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "내년",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "내년부터 아르헨산 원유 수입…핵심광물 공급망 협력 체계 마련 - 대한민국 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeG84bTNrb3djY1NqcVE1UTBFWlNOczlEU0xuODhlbkYxbzFBUkdCQk1wamlGVG90dlo0UTNvcHZnVTRfR2xVUkRpVjk3TEVrSTFES2g0dUsxZTEyZk5yUjdYaWNLc0tjZ09sX0pNUldad0VyMjBGZGRLdVl2bXVVd0lrakNmQVZtU3c?oc=5",
+          "source": "Google News",
+          "published": "Sat, 01 Aug 2026 03:42:58 GMT"
+        }
+      ]
+    },
+    {
+      "word": "아르헨산",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "내년부터 아르헨산 원유 수입…핵심광물 공급망 협력 체계 마련 - 대한민국 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeG84bTNrb3djY1NqcVE1UTBFWlNOczlEU0xuODhlbkYxbzFBUkdCQk1wamlGVG90dlo0UTNvcHZnVTRfR2xVUkRpVjk3TEVrSTFES2g0dUsxZTEyZk5yUjdYaWNLc0tjZ09sX0pNUldad0VyMjBGZGRLdVl2bXVVd0lrakNmQVZtU3c?oc=5",
+          "source": "Google News",
+          "published": "Sat, 01 Aug 2026 03:42:58 GMT"
+        }
+      ]
+    },
+    {
+      "word": "원유",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "내년부터 아르헨산 원유 수입…핵심광물 공급망 협력 체계 마련 - 대한민국 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeG84bTNrb3djY1NqcVE1UTBFWlNOczlEU0xuODhlbkYxbzFBUkdCQk1wamlGVG90dlo0UTNvcHZnVTRfR2xVUkRpVjk3TEVrSTFES2g0dUsxZTEyZk5yUjdYaWNLc0tjZ09sX0pNUldad0VyMjBGZGRLdVl2bXVVd0lrakNmQVZtU3c?oc=5",
+          "source": "Google News",
+          "published": "Sat, 01 Aug 2026 03:42:58 GMT"
+        }
+      ]
+    },
+    {
+      "word": "수입핵심광물",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "내년부터 아르헨산 원유 수입…핵심광물 공급망 협력 체계 마련 - 대한민국 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeG84bTNrb3djY1NqcVE1UTBFWlNOczlEU0xuODhlbkYxbzFBUkdCQk1wamlGVG90dlo0UTNvcHZnVTRfR2xVUkRpVjk3TEVrSTFES2g0dUsxZTEyZk5yUjdYaWNLc0tjZ09sX0pNUldad0VyMjBGZGRLdVl2bXVVd0lrakNmQVZtU3c?oc=5",
+          "source": "Google News",
+          "published": "Sat, 01 Aug 2026 03:42:58 GMT"
+        }
+      ]
+    },
+    {
+      "word": "공급망",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "내년부터 아르헨산 원유 수입…핵심광물 공급망 협력 체계 마련 - 대한민국 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeG84bTNrb3djY1NqcVE1UTBFWlNOczlEU0xuODhlbkYxbzFBUkdCQk1wamlGVG90dlo0UTNvcHZnVTRfR2xVUkRpVjk3TEVrSTFES2g0dUsxZTEyZk5yUjdYaWNLc0tjZ09sX0pNUldad0VyMjBGZGRLdVl2bXVVd0lrakNmQVZtU3c?oc=5",
+          "source": "Google News",
+          "published": "Sat, 01 Aug 2026 03:42:58 GMT"
+        }
+      ]
+    },
+    {
+      "word": "협력",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "내년부터 아르헨산 원유 수입…핵심광물 공급망 협력 체계 마련 - 대한민국 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeG84bTNrb3djY1NqcVE1UTBFWlNOczlEU0xuODhlbkYxbzFBUkdCQk1wamlGVG90dlo0UTNvcHZnVTRfR2xVUkRpVjk3TEVrSTFES2g0dUsxZTEyZk5yUjdYaWNLc0tjZ09sX0pNUldad0VyMjBGZGRLdVl2bXVVd0lrakNmQVZtU3c?oc=5",
+          "source": "Google News",
+          "published": "Sat, 01 Aug 2026 03:42:58 GMT"
+        }
+      ]
+    },
+    {
+      "word": "체계",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "내년부터 아르헨산 원유 수입…핵심광물 공급망 협력 체계 마련 - 대한민국 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeG84bTNrb3djY1NqcVE1UTBFWlNOczlEU0xuODhlbkYxbzFBUkdCQk1wamlGVG90dlo0UTNvcHZnVTRfR2xVUkRpVjk3TEVrSTFES2g0dUsxZTEyZk5yUjdYaWNLc0tjZ09sX0pNUldad0VyMjBGZGRLdVl2bXVVd0lrakNmQVZtU3c?oc=5",
+          "source": "Google News",
+          "published": "Sat, 01 Aug 2026 03:42:58 GMT"
+        }
+      ]
+    },
+    {
+      "word": "마련",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "내년부터 아르헨산 원유 수입…핵심광물 공급망 협력 체계 마련 - 대한민국 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeG84bTNrb3djY1NqcVE1UTBFWlNOczlEU0xuODhlbkYxbzFBUkdCQk1wamlGVG90dlo0UTNvcHZnVTRfR2xVUkRpVjk3TEVrSTFES2g0dUsxZTEyZk5yUjdYaWNLc0tjZ09sX0pNUldad0VyMjBGZGRLdVl2bXVVd0lrakNmQVZtU3c?oc=5",
+          "source": "Google News",
+          "published": "Sat, 01 Aug 2026 03:42:58 GMT"
         }
       ]
     }
