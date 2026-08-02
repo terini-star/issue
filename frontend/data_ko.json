@@ -1,30 +1,43 @@
 {
   "language": "ko",
-  "last_updated": 1785693869.9836574,
+  "last_updated": 1785701664.0059092,
   "count": 40,
   "trends": [
     {
-      "word": "폭염",
-      "count": 3,
+      "word": "대통령",
+      "count": 2,
+      "category": "PERSON",
+      "articles": [
+        {
+          "title": "곽상언 “노무현 전 대통령, 검수완박 추진한 적 없다” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xUG8xcHBXcmVzZ2IzV2JnY2JoaGhQVHpkcWYxTVJTLW9hZUxQWjRSalVFdFNrYzB4MnlpVmg0YW81YUlDeDZUSDEyU1BzYXVPTXF3X3pYRV9lWkxqa21LTEpPclVMbGdvc0lyNHA2aWhMTldE?oc=5",
+          "source": "Google News",
+          "published": "Sun, 02 Aug 2026 14:22:00 GMT"
+        },
+        {
+          "title": "李대통령, 미국·남미 순방 일정 마무리…서울로 출발 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5la3h6N3B6ZTB0WmFhV3drdWJ4SDNXSW9nbzRjRXYwZjdiUldCeEdVZ2VSQ1hmSU1QQkpBV05Da1NqeDBFT3RyXzdHWlhicWU3TE1qUjhWNTh1QlBaY1pqdm85WFQzTTA?oc=5",
+          "source": "Google News",
+          "published": "Sun, 02 Aug 2026 17:29:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "추진",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "폭염 속 온열질환자 96명 발생…누적 1,889명 속출 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55SHZ1TFF1UkRHaGVjeEFZYjNzOHZ0dVBHMXRPZFBvV2pvVDlseE00THFTUlRpMlJ4T2xXMi1IZm80Uzdhd2tROU9pRjlTN0NJdjZ0UzZ2MnZmMXdkNVZrZlpVbUNiSlU?oc=5",
+          "title": "곽상언 “노무현 전 대통령, 검수완박 추진한 적 없다” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xUG8xcHBXcmVzZ2IzV2JnY2JoaGhQVHpkcWYxTVJTLW9hZUxQWjRSalVFdFNrYzB4MnlpVmg0YW81YUlDeDZUSDEyU1BzYXVPTXF3X3pYRV9lWkxqa21LTEpPclVMbGdvc0lyNHA2aWhMTldE?oc=5",
           "source": "Google News",
-          "published": "Sun, 02 Aug 2026 08:14:00 GMT"
+          "published": "Sun, 02 Aug 2026 14:22:00 GMT"
         },
         {
-          "title": "복지부, 극한 폭염에 지방정부 취약계층 보호 강화 요청 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1YTl3SXdiNE5VWVI2WHJINk1aRmNGZ18yVFByTGVMSjBTUVlxYmlzRWxDdXBuQnU1RXN2T1Q5UTl6eXZCcUttM3hoYTNNTjdFWjBnRXE5UkFlalnSAWBBVV95cUxOLXkwTTlTTVNaYlNhU0pVZjFSbm1uN0RwX0gxRXJweUlZczhoS0Q4bUgyakJqWlMwRy0zd3JYQzZnMG5yZ1p6Z1lKc3gxUWJxR1NSMUh2VVRiOXlTRUdoNEU?oc=5",
+          "title": "금융위, ‘증시 긴급조치권’ 도입 추진… 레버리지 배율 탄력 조정 염두 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82M1RIdkJRMzd2UU0wU2VFR1laUlZRdHpLNjJYTzQyeG03ZmtoTTZDeE9BTjJQMXNwaUs2UDlYOGN3dVotLVREV0x4aGctbkNVUjBsWXdDR09PdEUtSWJIRVY0c25rV1Z3b2pJZ2FBU3pQTXROaWfSAWZBVV95cUxNdlY5cTNpQVVIZjZSNHg2WEZ1Mkd3ZmtPdG0yUUJhclBkQ1FRMlhuM1AxVnE5N3pZVFFBOWdZR1hsdENBTDFMZ3pmM0xVOVhYd0YxNEF4NTYyZEU2WURoZ0JCaGR2c1E?oc=5",
           "source": "Google News",
-          "published": "Sun, 02 Aug 2026 11:21:43 GMT"
-        },
-        {
-          "title": "프로야구도 폭염 여파…창원 NC-KIA전 이틀 연속 취소 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sUFdmTVBoZ1UyX1haalhVVXlRRzFfMmt4OXNGc3BiWjc5WmhkT2FlMXFJMm9VVXFCeDlMOVBsY2Zyc0xQVm16TWduSTl2WFJXZHUyYS1qaEJ0UGtGOWRqaXZoeHUtQU9lbGM3a1Ixdkd1QQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 02 Aug 2026 11:13:00 GMT"
+          "published": "Sun, 02 Aug 2026 19:30:00 GMT"
         }
       ]
     },
@@ -59,156 +72,74 @@
           "published": "Sun, 02 Aug 2026 11:03:00 GMT"
         },
         {
-          "title": "현대차그룹 정의선 회장, 유럽 전략 소형 전기차 양산 품질 현장 경영 - 대한행정사회신문",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1NFVVTVo1OHl1MS1HMk0ycV9KS0E0akdJdDdnOU5hUTR2UmNKRDFxbHpiZ1d3WWNwNDlwVGtkeVUzVEdBVVNOWnJ4TFpTbmo4WkFqN0N3MVY?oc=5",
+          "title": "정의선 회장, 튀르키예서 아이오닉3 양산 준비 점검…\"품질 최우선\" - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYbC1ZNDZGY1JpV3BGNU9FTXVBcUNhYU1ZalRfenNuUmh2YUVJQUppZzlpQXlMdUZlclRFV185Q1QxODVIcHVKakgweG9rRlFHWm5uc3FNSENaQQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 02 Aug 2026 13:01:01 GMT"
+          "published": "Sun, 02 Aug 2026 12:32:50 GMT"
         }
       ]
     },
     {
-      "word": "현장",
+      "word": "폭염",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“이젠 양프리카라 할 판”…사상 최고 42.5도 찍은 양산 [현장] - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tb1dId3RTMEZMNDRabnAxUklBdlRnWTM4bGxSRFc4RVNZcEtPUVptS3BrTXdpLVRjY25Ib0g1ZUl2VmgxcWxKb2Q0b2VOYzJaNGMwUk5FNmNQeWgyLVZhWnFmRlk?oc=5",
+          "title": "그칠줄 모르는 폭염에 온열질환자 하루 96명 응급실행 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0RzRjNDdlSWRELXZTYWdrX1BFMlBnZFd2SWhfa0UyY3BaM1ZTdE8wbUExdnR2SFNyYlF3SGJ4WDdrRWRqakpUTEN1ZTFjVGxHN3JHck5LUzlLMjjSAWBBVV95cUxNRDZmSTVBbXhuM0c3dUNpMm1lTUV4dmt5NTV5RDBnVnEzVEhTY3B5amhHT0ZxX201VHJIR0RnaUppdllBdUZYLXpxSTBhOGJSSExnWVNsMXdTbWZYM0JWMzA?oc=5",
           "source": "Google News",
-          "published": "Sun, 02 Aug 2026 11:03:00 GMT"
+          "published": "Sun, 02 Aug 2026 13:57:26 GMT"
         },
         {
-          "title": "현대차그룹 정의선 회장, 유럽 전략 소형 전기차 양산 품질 현장 경영 - 대한행정사회신문",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1NFVVTVo1OHl1MS1HMk0ycV9KS0E0akdJdDdnOU5hUTR2UmNKRDFxbHpiZ1d3WWNwNDlwVGtkeVUzVEdBVVNOWnJ4TFpTbmo4WkFqN0N3MVY?oc=5",
+          "title": "프로야구도 폭염 여파…창원 NC-KIA전 이틀 연속 취소 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sUFdmTVBoZ1UyX1haalhVVXlRRzFfMmt4OXNGc3BiWjc5WmhkT2FlMXFJMm9VVXFCeDlMOVBsY2Zyc0xQVm16TWduSTl2WFJXZHUyYS1qaEJ0UGtGOWRqaXZoeHUtQU9lbGM3a1Ixdkd1QQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 02 Aug 2026 13:01:01 GMT"
+          "published": "Sun, 02 Aug 2026 11:13:00 GMT"
         }
       ]
     },
     {
-      "word": "변수",
+      "word": "레버리지",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "제13호 태풍 '돌핀' 북상…다음 주 한반도 폭염·날씨 변수 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tdXBwa29EWEZGVThPcmtEYllPbjk2ekJMWmJWanUzai1QdW82eFFCUFJTWm80T1pTR05oWTEyUThjU3lRcFBSaW5ZUk53ZWVYSEh3SzctTjlFQQ?oc=5",
+          "title": "서학개미 美서 49조 손실… ‘순매수 톱10’ 절반이 레버리지 - 조선비즈 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd0RhME1nMXItUkRiekNBZGNTck9YT3E5bVhTeC12SGMxRjJ1clE4WGpTVk04MFJrblRTQkpTV2tfLTkydmhZNm96b1ltbTAwOFdndy11a3VJNmxBTEZqTkZjV1pyYlRnbmJKdThEbS1DYnRBcXpvYkE3dlBNZkMxUFVRUkNta1800gGcAUFVX3lxTFBJNEdJRmtFc3ZMREpnU0xCS3V5aTN0MUZMUk96Rl85cTBGeklKTFB6TW55VFA4bFZXLUVSVTNPbFVXUjZSVVktbzFlWHJub0VqNk9abW5NX3E2SVY2TlJudWNXVWpZRk9lN3BjVXp0cjNZRmpKOHVjcXNHWGMtS2ZIRXBjbWRrbmkwRFhqbG5IbzNlT1k1QXQtZWhqcg?oc=5",
           "source": "Google News",
-          "published": "Sun, 02 Aug 2026 10:12:25 GMT"
+          "published": "Sun, 02 Aug 2026 15:45:00 GMT"
         },
         {
-          "title": "상장 5일 만에 공모가 6배…中 CXMT, 반도체 변수로 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2X2Y2SnNoUEFpeExhanhsMTQzWVdfM01YeGlwcEdHeldnMlJGZVAtSlVyMnpVQ0lsU09odXJyOVA4bHliaVliWXFHalVKdGxHRjdISHhuX3JuZw?oc=5",
+          "title": "금융위, ‘증시 긴급조치권’ 도입 추진… 레버리지 배율 탄력 조정 염두 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82M1RIdkJRMzd2UU0wU2VFR1laUlZRdHpLNjJYTzQyeG03ZmtoTTZDeE9BTjJQMXNwaUs2UDlYOGN3dVotLVREV0x4aGctbkNVUjBsWXdDR09PdEUtSWJIRVY0c25rV1Z3b2pJZ2FBU3pQTXROaWfSAWZBVV95cUxNdlY5cTNpQVVIZjZSNHg2WEZ1Mkd3ZmtPdG0yUUJhclBkQ1FRMlhuM1AxVnE5N3pZVFFBOWdZR1hsdENBTDFMZ3pmM0xVOVhYd0YxNEF4NTYyZEU2WURoZ0JCaGR2c1E?oc=5",
           "source": "Google News",
-          "published": "Sun, 02 Aug 2026 09:18:05 GMT"
+          "published": "Sun, 02 Aug 2026 19:30:00 GMT"
         }
       ]
     },
     {
-      "word": "가뭄",
+      "word": "광선",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "밀양댐 가뭄 '경계' 격상‥농업용수 공급 중단 검토 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuT1psZW12UF8xdS0yR0FsWlJueVZxREkzQXY0ZFl6c0dPd0FlOU9DeTNJdzB1R2dOZHMwaks3MlJFZC1LanFoVmNkMWtmQVRLUkJQd2xEMU5HdFFFY3AxYXRHN1YxdFBpb0ZsSUhWVFh5UWo1Uy1Z0gF3QVVfeXFMUDVqbmJnd1JrMk9QM2RNeXlzQ0hUZ04zSFB2YTMyYUFNajhxXzlzRHlNeHJUbEtaLVYwUnRqcGNzY1NrOFJMcUJQREpNR3YzWE5vS0NMNFoxUVlGLXlOcW1Nc2s3MGJZc2ZOWk40OTJOR1YtRURrcVk?oc=5",
+          "title": "DLSS 4.0 광선 재구성 기능이 FSR 광선 재구성 4.1에 비해 성능이 떨어집니다. Crimson Desert - GameGPU",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY3ZSMUp6NUYyQlhFZzhRZVBKaUtYUU91QzBUSnM2MTM2TWQ5U1hNT2JPYmp1WHBudlNTZTNTRmIzOVZEUG9jUzAwcWNHQ2cya283d3VBYlczOElNbnYxMTMtbVVrVktSSGxFUDk4c2M1SXFBLXBnbVZzNjFyZ21JVlZaZTJSM3FMM2VpV1ZCSkV3WXZvbDh2R3lYTktEa2VJbGo5eEVEOHU3Q1hYd1NXUE5R?oc=5",
           "source": "Google News",
-          "published": "Sun, 02 Aug 2026 01:51:30 GMT"
-        },
-        {
-          "title": "유럽 가뭄에 셧다운 위기…헝가리 원전 가동 완전 중단 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GREFNZjIycW5YN2N5QXVOamszZmMtVXJyWUp5RzRpZUhHQ1BoQ0N1MENaZzdzTlVKc25zRFN1N1Jva3hZVE56R0FCczNMcDFYbkdObHA0MGQybEhFNGZiRlZrQ1plSGc?oc=5",
-          "source": "Google News",
-          "published": "Sun, 02 Aug 2026 14:33:00 GMT"
+          "published": "Sun, 02 Aug 2026 15:50:13 GMT"
         }
       ]
     },
     {
-      "word": "중단",
+      "word": "재구",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "밀양댐 가뭄 '경계' 격상‥농업용수 공급 중단 검토 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuT1psZW12UF8xdS0yR0FsWlJueVZxREkzQXY0ZFl6c0dPd0FlOU9DeTNJdzB1R2dOZHMwaks3MlJFZC1LanFoVmNkMWtmQVRLUkJQd2xEMU5HdFFFY3AxYXRHN1YxdFBpb0ZsSUhWVFh5UWo1Uy1Z0gF3QVVfeXFMUDVqbmJnd1JrMk9QM2RNeXlzQ0hUZ04zSFB2YTMyYUFNajhxXzlzRHlNeHJUbEtaLVYwUnRqcGNzY1NrOFJMcUJQREpNR3YzWE5vS0NMNFoxUVlGLXlOcW1Nc2s3MGJZc2ZOWk40OTJOR1YtRURrcVk?oc=5",
+          "title": "DLSS 4.0 광선 재구성 기능이 FSR 광선 재구성 4.1에 비해 성능이 떨어집니다. Crimson Desert - GameGPU",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY3ZSMUp6NUYyQlhFZzhRZVBKaUtYUU91QzBUSnM2MTM2TWQ5U1hNT2JPYmp1WHBudlNTZTNTRmIzOVZEUG9jUzAwcWNHQ2cya283d3VBYlczOElNbnYxMTMtbVVrVktSSGxFUDk4c2M1SXFBLXBnbVZzNjFyZ21JVlZaZTJSM3FMM2VpV1ZCSkV3WXZvbDh2R3lYTktEa2VJbGo5eEVEOHU3Q1hYd1NXUE5R?oc=5",
           "source": "Google News",
-          "published": "Sun, 02 Aug 2026 01:51:30 GMT"
-        },
-        {
-          "title": "유럽 가뭄에 셧다운 위기…헝가리 원전 가동 완전 중단 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GREFNZjIycW5YN2N5QXVOamszZmMtVXJyWUp5RzRpZUhHQ1BoQ0N1MENaZzdzTlVKc25zRFN1N1Jva3hZVE56R0FCczNMcDFYbkdObHA0MGQybEhFNGZiRlZrQ1plSGc?oc=5",
-          "source": "Google News",
-          "published": "Sun, 02 Aug 2026 14:33:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "유럽",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "유럽 가뭄에 셧다운 위기…헝가리 원전 가동 완전 중단 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GREFNZjIycW5YN2N5QXVOamszZmMtVXJyWUp5RzRpZUhHQ1BoQ0N1MENaZzdzTlVKc25zRFN1N1Jva3hZVE56R0FCczNMcDFYbkdObHA0MGQybEhFNGZiRlZrQ1plSGc?oc=5",
-          "source": "Google News",
-          "published": "Sun, 02 Aug 2026 14:33:00 GMT"
-        },
-        {
-          "title": "현대차그룹 정의선 회장, 유럽 전략 소형 전기차 양산 품질 현장 경영 - 대한행정사회신문",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1NFVVTVo1OHl1MS1HMk0ycV9KS0E0akdJdDdnOU5hUTR2UmNKRDFxbHpiZ1d3WWNwNDlwVGtkeVUzVEdBVVNOWnJ4TFpTbmo4WkFqN0N3MVY?oc=5",
-          "source": "Google News",
-          "published": "Sun, 02 Aug 2026 13:01:01 GMT"
-        }
-      ]
-    },
-    {
-      "word": "ETF",
-      "count": 2,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "단일 레버리지 ETF 여파?…거래소 ETF 상장심사 '병목' - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wZEFITGdMWHJhVnY1Q2pMdTVVbE5sQlNDSmFiQWZfal93a3h0Mkx3c0g1YzBBSmJBV3otSng4VkhYUHp6Y29vV0x5V01WdWxvRzZydzA1Y1Z3b03SAWBBVV95cUxQR3JKOUc0SmtqWUJsREhiZDlyVGZNaVZyN0hkYk4wQnVhNUFuTFVzcEUwckpQYVRKM0oxa1gxYVJsZDQ2WnBuNHdsb2dzYnV3YmpKclRUeUlPNjJwcVp0dGE?oc=5",
-          "source": "Google News",
-          "published": "Sun, 02 Aug 2026 10:33:34 GMT"
-        }
-      ]
-    },
-    {
-      "word": "반도체",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "반도체 '몰빵' 서학개미들 … 평가액 두달새 65조 날려 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VRTQtTDRlbFBTN3pqbGtDY25XTENTQmRNdWVnVmpBLUdZVmlvb1hhb1EwRy0yZ3EtWDZwMTBsaGJRenU3U2R1Z3BYSHVaTktzNEE?oc=5",
-          "source": "Google News",
-          "published": "Sun, 02 Aug 2026 08:52:09 GMT"
-        },
-        {
-          "title": "상장 5일 만에 공모가 6배…中 CXMT, 반도체 변수로 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2X2Y2SnNoUEFpeExhanhsMTQzWVdfM01YeGlwcEdHeldnMlJGZVAtSlVyMnpVQ0lsU09odXJyOVA4bHliaVliWXFHalVKdGxHRjdISHhuX3JuZw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 02 Aug 2026 09:18:05 GMT"
-        }
-      ]
-    },
-    {
-      "word": "요가",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[리뷰] 외장 그래픽 없이도 AAA 게임을? '레노버 요가 프로 7a' - 인벤",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBbFFiMlprWmNiby0tekgzT2w2UEZyQWVqamZXbHh2WnAwR1VwVEs2RGY0bGNuUzlDQXBfNGJVSS1sdXRoWVM5R2Q1ZDkyUHRFN2RIX0h2dVRyeUFuNVE?oc=5",
-          "source": "Google News",
-          "published": "Sun, 02 Aug 2026 15:54:35 GMT"
-        },
-        {
-          "title": "경추 퇴행성 질환 환자에게 요가의 3가지 이점 - Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdmoxdEFRcDlkZ1pUTmlBbnpCWmg5aGlUTlNSZ2UtcDZUSF90RGNkeVBTNHIya0dtXzIwdUZwTlh0Snk3aFNPZHN1S0hPaWowTnNweFA0bndMQkUyWkZzcUY3SEZ6d1FkS2JhWldKSnFLTzBhc1o1UFVWOWJ5WE44eHRJYUY3TGhDSTNGMXNsQlpuZFBLYmdmdlZWOA?oc=5",
-          "source": "Google News",
-          "published": "Sat, 01 Aug 2026 10:00:00 GMT"
+          "published": "Sun, 02 Aug 2026 15:50:13 GMT"
         }
       ]
     },
@@ -222,44 +153,6 @@
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWXd5NzBiRjNPYmZEYzFVVGZGbFJQUkJfWENndlp4Mk9yNkpvUHpiVmU1OU1UYUptQXdvdlNhSzkzYUltd1FueTh5UDVTYzNpcVN0OENMNHNVRzZRM0xyejg2TExPemtYMDRjTjhjRkZ6RUFnRUd4WkU5NjN0SG9ULVNuZmhWYmlaYzY4ZHE1VQ?oc=5",
           "source": "Google News",
           "published": "Sun, 02 Aug 2026 12:46:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "질환",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "\"그날이 두려워요\"…단순 생리통 아닌 이 질환? - 미디어데일",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMVmR2aEMycEFHdHVBMXdRaGltY2dwR2dlYTh2c1huQnpsTlVSVXpkakt4ZzdIeUNQWlRfc2toLXdnYXVkaUZjLVF0WmZQUjZYRE85cjAwSXpJWmgxQlJiOW1ZSDNhdTk4bzdz?oc=5",
-          "source": "Google News",
-          "published": "Fri, 31 Jul 2026 22:40:15 GMT"
-        },
-        {
-          "title": "경추 퇴행성 질환 환자에게 요가의 3가지 이점 - Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdmoxdEFRcDlkZ1pUTmlBbnpCWmg5aGlUTlNSZ2UtcDZUSF90RGNkeVBTNHIya0dtXzIwdUZwTlh0Snk3aFNPZHN1S0hPaWowTnNweFA0bndMQkUyWkZzcUY3SEZ6d1FkS2JhWldKSnFLTzBhc1o1UFVWOWJ5WE44eHRJYUY3TGhDSTNGMXNsQlpuZFBLYmdmdlZWOA?oc=5",
-          "source": "Google News",
-          "published": "Sat, 01 Aug 2026 10:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "환자",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "'여성 갑상선암 환자, 50세 미만일수록 골다공증 위험 급증' 밝혀져 - edaily.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLWJWTG42Mk1kXzV2VGNwcktUSzB6U0JudkFDR2N0SlNTcXhXM1BieWM2OGRycTJLckpjVWxIOUFBakluU24zQkxzV2VydmZzcTNlbXd5andNNGxpRlRSM0tqYXZZdy15VUhVUzAxdUE5cy1Nem9oRVZNTVVRSjBEdA?oc=5",
-          "source": "Google News",
-          "published": "Sun, 02 Aug 2026 00:06:01 GMT"
-        },
-        {
-          "title": "경추 퇴행성 질환 환자에게 요가의 3가지 이점 - Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdmoxdEFRcDlkZ1pUTmlBbnpCWmg5aGlUTlNSZ2UtcDZUSF90RGNkeVBTNHIya0dtXzIwdUZwTlh0Snk3aFNPZHN1S0hPaWowTnNweFA0bndMQkUyWkZzcUY3SEZ6d1FkS2JhWldKSnFLTzBhc1o1UFVWOWJ5WE44eHRJYUY3TGhDSTNGMXNsQlpuZFBLYmdmdlZWOA?oc=5",
-          "source": "Google News",
-          "published": "Sat, 01 Aug 2026 10:00:00 GMT"
         }
       ]
     },
@@ -394,33 +287,7 @@
       ]
     },
     {
-      "word": "대통령",
-      "count": 1,
-      "category": "PERSON",
-      "articles": [
-        {
-          "title": "곽상언 “노무현 전 대통령, 검수완박 추진한 적 없다” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xUG8xcHBXcmVzZ2IzV2JnY2JoaGhQVHpkcWYxTVJTLW9hZUxQWjRSalVFdFNrYzB4MnlpVmg0YW81YUlDeDZUSDEyU1BzYXVPTXF3X3pYRV9lWkxqa21LTEpPclVMbGdvc0lyNHA2aWhMTldE?oc=5",
-          "source": "Google News",
-          "published": "Sun, 02 Aug 2026 14:22:00 GMT"
-        }
-      ]
-    },
-    {
       "word": "검수완박",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "곽상언 “노무현 전 대통령, 검수완박 추진한 적 없다” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xUG8xcHBXcmVzZ2IzV2JnY2JoaGhQVHpkcWYxTVJTLW9hZUxQWjRSalVFdFNrYzB4MnlpVmg0YW81YUlDeDZUSDEyU1BzYXVPTXF3X3pYRV9lWkxqa21LTEpPclVMbGdvc0lyNHA2aWhMTldE?oc=5",
-          "source": "Google News",
-          "published": "Sun, 02 Aug 2026 14:22:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "추진",
       "count": 1,
       "category": "NOUN",
       "articles": [
@@ -598,6 +465,97 @@
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tb1dId3RTMEZMNDRabnAxUklBdlRnWTM4bGxSRFc4RVNZcEtPUVptS3BrTXdpLVRjY25Ib0g1ZUl2VmgxcWxKb2Q0b2VOYzJaNGMwUk5FNmNQeWgyLVZhWnFmRlk?oc=5",
           "source": "Google News",
           "published": "Sun, 02 Aug 2026 11:03:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "425",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "“이젠 양프리카라 할 판”…사상 최고 42.5도 찍은 양산 [현장] - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tb1dId3RTMEZMNDRabnAxUklBdlRnWTM4bGxSRFc4RVNZcEtPUVptS3BrTXdpLVRjY25Ib0g1ZUl2VmgxcWxKb2Q0b2VOYzJaNGMwUk5FNmNQeWgyLVZhWnFmRlk?oc=5",
+          "source": "Google News",
+          "published": "Sun, 02 Aug 2026 11:03:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "찍은",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "“이젠 양프리카라 할 판”…사상 최고 42.5도 찍은 양산 [현장] - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tb1dId3RTMEZMNDRabnAxUklBdlRnWTM4bGxSRFc4RVNZcEtPUVptS3BrTXdpLVRjY25Ib0g1ZUl2VmgxcWxKb2Q0b2VOYzJaNGMwUk5FNmNQeWgyLVZhWnFmRlk?oc=5",
+          "source": "Google News",
+          "published": "Sun, 02 Aug 2026 11:03:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "현장",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "“이젠 양프리카라 할 판”…사상 최고 42.5도 찍은 양산 [현장] - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tb1dId3RTMEZMNDRabnAxUklBdlRnWTM4bGxSRFc4RVNZcEtPUVptS3BrTXdpLVRjY25Ib0g1ZUl2VmgxcWxKb2Q0b2VOYzJaNGMwUk5FNmNQeWgyLVZhWnFmRlk?oc=5",
+          "source": "Google News",
+          "published": "Sun, 02 Aug 2026 11:03:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "침투작전",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "北 침투작전 '모른다'더니‥'취재원 밝혀라' 소환장 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xd210NWx4V1gwQWJRaExXZnpIUWUxLTd1TUlKSjlEd2hqZC1JU0RULVBKT2VPVUZTWDB1ZHNCT0FGQjZTRF9uTkZ5MFV0MXAyQ0NkRjZVTERxV2UzdHdZaE93N3A0cFVtTXoyZ1RkTDh0MTdR0gF0QVVfeXFMTVpuYWJGNWkzb19uX0tNbFFNeGNfa2taeWJwY0dyWGY1VmZBMldJam5LeFY1eFI5QklUVVNwWkp1cU1CeGNoVWpXd1BwZzk5YTJGSWR3cmxhWWJHck9qaWFQWVg5NFZrVTBoMXlBYWhSdWRFbVo?oc=5",
+          "source": "Google News",
+          "published": "Sun, 02 Aug 2026 06:14:33 GMT"
+        }
+      ]
+    },
+    {
+      "word": "모른다더니취재원",
+      "count": 1,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "北 침투작전 '모른다'더니‥'취재원 밝혀라' 소환장 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xd210NWx4V1gwQWJRaExXZnpIUWUxLTd1TUlKSjlEd2hqZC1JU0RULVBKT2VPVUZTWDB1ZHNCT0FGQjZTRF9uTkZ5MFV0MXAyQ0NkRjZVTERxV2UzdHdZaE93N3A0cFVtTXoyZ1RkTDh0MTdR0gF0QVVfeXFMTVpuYWJGNWkzb19uX0tNbFFNeGNfa2taeWJwY0dyWGY1VmZBMldJam5LeFY1eFI5QklUVVNwWkp1cU1CeGNoVWpXd1BwZzk5YTJGSWR3cmxhWWJHck9qaWFQWVg5NFZrVTBoMXlBYWhSdWRFbVo?oc=5",
+          "source": "Google News",
+          "published": "Sun, 02 Aug 2026 06:14:33 GMT"
+        }
+      ]
+    },
+    {
+      "word": "밝혀",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "北 침투작전 '모른다'더니‥'취재원 밝혀라' 소환장 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xd210NWx4V1gwQWJRaExXZnpIUWUxLTd1TUlKSjlEd2hqZC1JU0RULVBKT2VPVUZTWDB1ZHNCT0FGQjZTRF9uTkZ5MFV0MXAyQ0NkRjZVTERxV2UzdHdZaE93N3A0cFVtTXoyZ1RkTDh0MTdR0gF0QVVfeXFMTVpuYWJGNWkzb19uX0tNbFFNeGNfa2taeWJwY0dyWGY1VmZBMldJam5LeFY1eFI5QklUVVNwWkp1cU1CeGNoVWpXd1BwZzk5YTJGSWR3cmxhWWJHck9qaWFQWVg5NFZrVTBoMXlBYWhSdWRFbVo?oc=5",
+          "source": "Google News",
+          "published": "Sun, 02 Aug 2026 06:14:33 GMT"
+        }
+      ]
+    },
+    {
+      "word": "소환장",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "北 침투작전 '모른다'더니‥'취재원 밝혀라' 소환장 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xd210NWx4V1gwQWJRaExXZnpIUWUxLTd1TUlKSjlEd2hqZC1JU0RULVBKT2VPVUZTWDB1ZHNCT0FGQjZTRF9uTkZ5MFV0MXAyQ0NkRjZVTERxV2UzdHdZaE93N3A0cFVtTXoyZ1RkTDh0MTdR0gF0QVVfeXFMTVpuYWJGNWkzb19uX0tNbFFNeGNfa2taeWJwY0dyWGY1VmZBMldJam5LeFY1eFI5QklUVVNwWkp1cU1CeGNoVWpXd1BwZzk5YTJGSWR3cmxhWWJHck9qaWFQWVg5NFZrVTBoMXlBYWhSdWRFbVo?oc=5",
+          "source": "Google News",
+          "published": "Sun, 02 Aug 2026 06:14:33 GMT"
         }
       ]
     }
