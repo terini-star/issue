@@ -1,240 +1,362 @@
 {
   "language": "ko",
-  "last_updated": 1785746105.5198298,
+  "last_updated": 1785760330.008093,
   "count": 40,
   "trends": [
     {
-      "word": "의혹",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "정청래 “당 대표되면 1호 조치는 ‘신천지 의혹’ 감찰…거짓이면 김민석 윤리심판원 제소” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVcjRSODJpOTR5M3BoSkMtMWNQQ010MWZOMEx2eEJiMFlaRnNvWkNtVUhyY3J0d20tcElPazRDTl9VRkVqbXp6aEFHMHZlWUVYckFCU0draXZiSkk?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 07:49:00 GMT"
-        },
-        {
-          "title": "'3백억 원대 사기 의혹' 차가원 대표 구속영장실질심사 출석 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZeWQyTWw1dFU0aGxuQjRYM1JVX2NpVXJwM3hIWGppQXdFMzRUekNReEhGWDRNTWp4S29KN013M0RBeVpua2JMRXhCVU5WZm1hRGswZnlwTEdKRmtGWER6T01JX0VRbENUbTR2aGc0TjJTTVg5QVdr0gF3QVVfeXFMTVRUZTRWRlFqQWUtS3d4X21hOVJUM2pfS1p3UDdwVGdtVjdhN2U2emZlOURwTUVieDNWczB2WmI4MExBWW41VVE1dm5fZjRvZ2VMRUY1V1JFZ25aS184VjZkMHR0OXpyNUJmdEFGZDltbUN5MkxJSW8?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 01:00:04 GMT"
-        },
-        {
-          "title": "‘글러브 이물질 의혹’ 고우석, 10경기서 8경기로 징계 감경 - 헤럴드경제",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zOFE5SEM5b3NuTnlQRUE0OGtmQlZwcUR6WndqQm41Sk5tRHRzdFRjcFVhNGlHY29IQkpOZmktSW9Pc0FWVkxyWU1uOWg1eEx0RDRmb2R4Yw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 04:26:16 GMT"
-        }
-      ]
-    },
-    {
-      "word": "주말",
+      "word": "숨진",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "극한폭염에 주말 이틀 연속 온열질환 100명대…사망 2명 추가 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CbDVVVjAxejQzcy0tZGJ6YnFhS01pMUh3cTBhanhhNFNuOGNqclNvU3BmeU01TzEyN3NmQV9tSVExR1VpNDd0dUx6cXdlaUZzalRpYUFkcEttVGNyYWlSeXVxMDF5a1k?oc=5",
+          "title": "3명 숨진 아파트 관리실 방화 수사하던 경찰, 숨진 채 발견 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjeXQ2VW5RRXRLaG5EbTVXMmVNUlRNYjctb1lSVTRnWTNSVWlZUlhmRmUtdnpPcUxycFB1ZDM4bzF4c01YdU9mYnJFb0NvRmVTWmdyckVxbTBjZkFDYU9sWnhQXzU?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 08:02:00 GMT"
+          "published": "Mon, 03 Aug 2026 10:45:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "사상",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "'유럽의 젖줄' 다뉴브강 수위 사상 최저에 헝가리 유일 원전 가동 중단 위기 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rMi1kbk5sN2tQZmpaUHU0TzZZNU5OZV9SWUhpUU9NTkNIV2M4eURSRTIyeHZRcmJRazZpbVlDei1DVnQ4aXlRZ25QaGlhaWpSNzFMVzF4VGk2cUl4?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 11:41:00 GMT"
         },
         {
-          "title": "스틸 美대사, 부임 첫 주말 남대문시장 ‘호떡 인증샷’ - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ORzJqcEJRRmlEdVBWdHN4TTZpSkNIanVxeGVGZGJ5SnpMNF8tTWtFM2R0LUlNSW1tVEhVUzI0eWZ3UlRNTUhkYndaYmZrVlRzeWNVSERwMW01VlN6cEpIcGJ3elh5d0huSWFBWnVpZC1MRU1T0gFmQVVfeXFMUHhkSUhPMUQ1d013RmF4WGk1VFJIai11RnZ2aFdBWHJfQXU3NnBhc3RoM2Y2LVhzRG8zTmpmQXRvZFpCOTJyXzAwRUdhcndlVDh5TXlhb3ZtM3VkYVdmSjlIcHRyektB?oc=5",
+          "title": "'사상 최대 폭등' 하루 만에 코스피 급락…삼전닉스 -7% - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGM1hpR2dXcVpfV0ZNTnZqeGlGZGR6a2dvVEpmSTlQek82ZmcxRnRzQXc5dU9FRTduN3RMSHR5Q2tVaWt1YThTbWNCTjFzVDhYTE5oTHZwVkFSSjZVbjNxRG9lV1JoTFBQb2JCSTl3Q2w?oc=5",
           "source": "Google News",
-          "published": "Sun, 02 Aug 2026 19:30:00 GMT"
+          "published": "Mon, 03 Aug 2026 00:24:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "산맥",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "산맥 넘은 폭염, 서쪽으로…최소 13일까지 비 없고 쭉 덥다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iRTN3RVVfUlY4LTVtVkVwaEJTRHg0N3dIT1dOVXg1dnVMLU1Mc1A1WG5aSWozVnBNNlF6VlpHa2w2ZVhoNHh0bHJ2Q2JsajdxRGpCZEwwNjV3Q2JZNDhNZkdyc2NJT0JHOVVoUEc0QWsxUQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 10:50:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "넘은",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "산맥 넘은 폭염, 서쪽으로…최소 13일까지 비 없고 쭉 덥다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iRTN3RVVfUlY4LTVtVkVwaEJTRHg0N3dIT1dOVXg1dnVMLU1Mc1A1WG5aSWozVnBNNlF6VlpHa2w2ZVhoNHh0bHJ2Q2JsajdxRGpCZEwwNjV3Q2JZNDhNZkdyc2NJT0JHOVVoUEc0QWsxUQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 10:50:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "폭염",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "산맥 넘은 폭염, 서쪽으로…최소 13일까지 비 없고 쭉 덥다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iRTN3RVVfUlY4LTVtVkVwaEJTRHg0N3dIT1dOVXg1dnVMLU1Mc1A1WG5aSWozVnBNNlF6VlpHa2w2ZVhoNHh0bHJ2Q2JsajdxRGpCZEwwNjV3Q2JZNDhNZkdyc2NJT0JHOVVoUEc0QWsxUQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 10:50:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "서쪽으로최소",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "산맥 넘은 폭염, 서쪽으로…최소 13일까지 비 없고 쭉 덥다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iRTN3RVVfUlY4LTVtVkVwaEJTRHg0N3dIT1dOVXg1dnVMLU1Mc1A1WG5aSWozVnBNNlF6VlpHa2w2ZVhoNHh0bHJ2Q2JsajdxRGpCZEwwNjV3Q2JZNDhNZkdyc2NJT0JHOVVoUEc0QWsxUQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 10:50:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "13일",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "산맥 넘은 폭염, 서쪽으로…최소 13일까지 비 없고 쭉 덥다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iRTN3RVVfUlY4LTVtVkVwaEJTRHg0N3dIT1dOVXg1dnVMLU1Mc1A1WG5aSWozVnBNNlF6VlpHa2w2ZVhoNHh0bHJ2Q2JsajdxRGpCZEwwNjV3Q2JZNDhNZkdyc2NJT0JHOVVoUEc0QWsxUQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 10:50:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "없고",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "산맥 넘은 폭염, 서쪽으로…최소 13일까지 비 없고 쭉 덥다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iRTN3RVVfUlY4LTVtVkVwaEJTRHg0N3dIT1dOVXg1dnVMLU1Mc1A1WG5aSWozVnBNNlF6VlpHa2w2ZVhoNHh0bHJ2Q2JsajdxRGpCZEwwNjV3Q2JZNDhNZkdyc2NJT0JHOVVoUEc0QWsxUQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 10:50:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "덥다",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "산맥 넘은 폭염, 서쪽으로…최소 13일까지 비 없고 쭉 덥다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iRTN3RVVfUlY4LTVtVkVwaEJTRHg0N3dIT1dOVXg1dnVMLU1Mc1A1WG5aSWozVnBNNlF6VlpHa2w2ZVhoNHh0bHJ2Q2JsajdxRGpCZEwwNjV3Q2JZNDhNZkdyc2NJT0JHOVVoUEc0QWsxUQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 10:50:00 GMT"
         }
       ]
     },
     {
       "word": "정청래",
-      "count": 2,
+      "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "정청래 \"역전승… 끝내 승리할 것\" 김민석 \"-7%p면 안전 승리인데 -1%p\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQ01BMDNJV3p1blo4U0UwRktuN0ZEa0JwcjZFb0JSYTVjMWlJdjBmOTduWE1oRW5wcV9icHhLdzhTdlRpd2Z1aEZEN2Q3ZHl4VUh0MGJwajhBTEhiRHBLNXUwbkY2YVY4R0NkbDZBNXVzMjFMUG95M21iQmlPX2tIczN2WUdZQQ?oc=5",
+          "title": "정청래 \"배신자는 또 배신\" 김민석 \"명청대전 계속되면 나라 흔들려\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeXF5SktGbU1xMnJ3UURnSUx0XzFMUTFNQXJDQkM0MklHVFBleDBtTk12bV9TeDFSWVVyUGdMYWltQUlQMkFDSVVDcmpETERSakxaa2kzMVk2dGs4TTg2LVJVRmJGQTlweVZFVzUxRWVLa3dsUlE4S0lvUHVDd1dQYUJqdlZQUQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 02 Aug 2026 23:59:00 GMT"
-        },
+          "published": "Mon, 03 Aug 2026 08:52:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "배신자",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
         {
-          "title": "정청래 “당 대표되면 1호 조치는 ‘신천지 의혹’ 감찰…거짓이면 김민석 윤리심판원 제소” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVcjRSODJpOTR5M3BoSkMtMWNQQ010MWZOMEx2eEJiMFlaRnNvWkNtVUhyY3J0d20tcElPazRDTl9VRkVqbXp6aEFHMHZlWUVYckFCU0draXZiSkk?oc=5",
+          "title": "정청래 \"배신자는 또 배신\" 김민석 \"명청대전 계속되면 나라 흔들려\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeXF5SktGbU1xMnJ3UURnSUx0XzFMUTFNQXJDQkM0MklHVFBleDBtTk12bV9TeDFSWVVyUGdMYWltQUlQMkFDSVVDcmpETERSakxaa2kzMVk2dGs4TTg2LVJVRmJGQTlweVZFVzUxRWVLa3dsUlE4S0lvUHVDd1dQYUJqdlZQUQ?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 07:49:00 GMT"
+          "published": "Mon, 03 Aug 2026 08:52:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "배신",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정청래 \"배신자는 또 배신\" 김민석 \"명청대전 계속되면 나라 흔들려\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeXF5SktGbU1xMnJ3UURnSUx0XzFMUTFNQXJDQkM0MklHVFBleDBtTk12bV9TeDFSWVVyUGdMYWltQUlQMkFDSVVDcmpETERSakxaa2kzMVk2dGs4TTg2LVJVRmJGQTlweVZFVzUxRWVLa3dsUlE4S0lvUHVDd1dQYUJqdlZQUQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 08:52:00 GMT"
         }
       ]
     },
     {
       "word": "김민석",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "정청래 \"역전승… 끝내 승리할 것\" 김민석 \"-7%p면 안전 승리인데 -1%p\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQ01BMDNJV3p1blo4U0UwRktuN0ZEa0JwcjZFb0JSYTVjMWlJdjBmOTduWE1oRW5wcV9icHhLdzhTdlRpd2Z1aEZEN2Q3ZHl4VUh0MGJwajhBTEhiRHBLNXUwbkY2YVY4R0NkbDZBNXVzMjFMUG95M21iQmlPX2tIczN2WUdZQQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 02 Aug 2026 23:59:00 GMT"
-        },
-        {
-          "title": "정청래 “당 대표되면 1호 조치는 ‘신천지 의혹’ 감찰…거짓이면 김민석 윤리심판원 제소” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVcjRSODJpOTR5M3BoSkMtMWNQQ010MWZOMEx2eEJiMFlaRnNvWkNtVUhyY3J0d20tcElPazRDTl9VRkVqbXp6aEFHMHZlWUVYckFCU0draXZiSkk?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 07:49:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "이란",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "네타냐후, ‘이란 공격 취소’ 사실 몰랐다…“트럼프 결정에 허 찔려” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUldQdnFua0k3RjVMdXM4aW9LWHBKZzVrR2dhY3phTFhKM0FReHYtdmRGUHBRRFJyWEVFTGRZUWJEb0xMUmliSklBXzZsaXpScU1ybHJVanU1VUZHLW54U2prbTNqd21qX2RSUWp4dTZscGN2cW5CZ1RkdW9lVDdsVWlR?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 00:09:00 GMT"
-        },
-        {
-          "title": "이란 \"오만과 호르무즈 양자협상…미국 문제는 추후 논의\" - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zRjUyOEZUXzhSdzZEUkZRckswUUpzNV9fdWRQQkxkd3kyVmJ2VmlQME5iRmlVbjhVWFp3bWZlZU1jaE5CSUpwU0pQMkV2MHA2bGVZTDVmSEkxODctU21OZ25VSmxhSEE?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 08:06:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "삼전닉스",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "삼전·닉스 ‘팔자’에 또 빠진 코스피…코스닥, 매수 사이드카 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YblpJbGVBUUtyQnR4cGxlZFM4TkxVeXFFQzlQckY2SFNoMHdNY0V4VkxCVlVZQXlrT0hRT2xySE9KeFkzQmREY3pVTmozVVoycVNwaTB1V0hOOXVZN1liWk5Hc1pRRm8?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 04:04:00 GMT"
-        },
-        {
-          "title": "엔캐리 청산 우려 현실로? … 삼전닉스, 프리마켓서 3%대 동반 약세 - 뉴데일리",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qN2hrTXNjNHJHeS1Qb2VQY0FPdmpSVzZNVlBkc25ELWN4eTdoR183dWUyeHdTTzZZWUljano4Zks1TG8zRGRFd2t5OFBzb0RaMzJncTJMSDk0eEN6bEhRRnNBZGo5cXFrbXdEbzNhcVlLVWduajIzR2x4NNIBgAFBVV95cUxNaHcwU0pvN19oWGRWOGgwX3pwNlZ3bmFHQmlnajlGVXRCUHBqVWE0czNMcV9uSlU1cHYyT21LZjY2YndEWlNmVzhUdkltRG13UWxESW4wMDVpVHFuSGpFNHFCbXNnWHBFeGEyQmRWNmQ2dFZORG5ZYmIwOVFscDk0SQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 02 Aug 2026 23:09:18 GMT"
-        }
-      ]
-    },
-    {
-      "word": "로켓",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "다누리, 스페이스X 로켓 상단부의 달 충돌 후 표면 변화 포착 나선다 - 서울Pn",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtOVpYRXl6RzVlaDBLTVl6RG8zN2FmMGJXaDltRy16Q3FEdFhqd2o1WDc5cEMxdmpKX2xZM1NlUjlTNWNBekhWMVR5NEVpRmsyMzJEZjJjdzJjQlhZOVFsU1B3?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 06:05:26 GMT"
-        },
-        {
-          "title": "임성재, PGA투어 로켓 클래식 공동 15위…토르비욘슨 '첫 우승' - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lUnJDaC1URUlxU045a2VPckd2S2Q2WV9tN2V0S2twT1hQRmtGcW9idkRIRkNNYmhTY0VxclM0TU12ekFJTlNTX0JyQWlhY2hjby1Ja1lpNTNoZ0nSAWBBVV95cUxPbFdPWjdTSFhxVENmQVo2TmxOYnZyM2E0YWpzeUtoaVNBbmdsUm9NVGg1cEh2Sy12X0lRbXRoOF9JeHRWRXlPdFAwcDVCeVo4WlRpTTRRSlAxWlA1YmtHN3U?oc=5",
-          "source": "Google News",
-          "published": "Sun, 02 Aug 2026 22:39:56 GMT"
-        }
-      ]
-    },
-    {
-      "word": "변화",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "다누리, 스페이스X 로켓 상단부의 달 충돌 후 표면 변화 포착 나선다 - 서울Pn",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtOVpYRXl6RzVlaDBLTVl6RG8zN2FmMGJXaDltRy16Q3FEdFhqd2o1WDc5cEMxdmpKX2xZM1NlUjlTNWNBekhWMVR5NEVpRmsyMzJEZjJjdzJjQlhZOVFsU1B3?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 06:05:26 GMT"
-        },
-        {
-          "title": "양극성장애 뇌 구조 변화와 유전변이의 연관성 규명 - 메드월드뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SQWhBZFUzNHF4M21QMW9MSU9pVzhpRjlOQ3ltem5qaUIxT3lEN09rOW9UYWhFdlM4Y1FpMVFrZVVyWW9mMGNDUEtJa013d1FyaEJiNExGT0NtSDFEYU1SRDRGdmdGdW8?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 01:34:33 GMT"
-        }
-      ]
-    },
-    {
-      "word": "깜짝",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "제니, 美 롤라팔루자서 18곡 공연…미공개 신곡 깜짝 공개 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DQmxReUVyVVJBTTFhWVBfQjkxT2wxYUN0akxkamg3RllNZlJUMVhZRlAzVjd6R3lBVTN0S0Ryd004bDdNXzBhd0JFZnQwVTlCeXZxNDZ1MDFuVkXSAWBBVV95cUxPM2lYYzJQSnB0VU9ZbHdzazdseE9WdHF1YlVDejRSUHllNTVSQXdSQjlQWmlWVVBNeTRYWmR6YlJhS2lRNFZaa0M4SmpNUFp6ZHJjVGEzSjFVc0dBR2xsM3Y?oc=5",
-          "source": "Google News",
-          "published": "Sun, 02 Aug 2026 23:33:29 GMT"
-        },
-        {
-          "title": "'둘째 임신' 박신혜, 핑크색 '왕리본' 깜짝 공개…성별은 딸? - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeFhONnU5MHJPNXM0ZGVmWkQxUDBUZEdaOHdjYWR3TDJrV2NKSS04VE9VRXpMSDhmaGludGxOS0VFdXF5bE54NmoyNS0wV3JqSnMxcVJyTlY3d24yQm9FYkdoVlh6THVMMXRfQ0FqNnVxS0psYU9adHZwZXRhM1dpQUxHZTlpdlRUZ1c4ZHdEYw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 06:02:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "규명",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "양극성장애 뇌 구조 변화와 유전변이의 연관성 규명 - 메드월드뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SQWhBZFUzNHF4M21QMW9MSU9pVzhpRjlOQ3ltem5qaUIxT3lEN09rOW9UYWhFdlM4Y1FpMVFrZVVyWW9mMGNDUEtJa013d1FyaEJiNExGT0NtSDFEYU1SRDRGdmdGdW8?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 01:34:33 GMT"
-        },
-        {
-          "title": "지방세포가 추위 견디는 비결 찾았다…UNIST, 미토콘드리아 보존 기전 규명 - 서울파이낸스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KNWhPdTB5Q2Z6QnY0T3BBNFRxX0JISV92eXdoUzdwRlQ2aGN3dUlKUU94WXBURXNTNEZobDRVdDllbS1rQWlnb0ItRkpoZ2gzMldybnAyaVoxNElsSlZoUW5uQmYwLTV4MlE?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 03:50:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "국방부",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "국방부, 실탄 미장착·미 무인기 소동 육군 1군단장 직무배제 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93REU1T0xZTUJ6a2hKLWdiUWlhRVo3ZUI1UXpIbVRsWWZMOTlqY2MtQUk4cEtHbDB1UUNjcEtEV0dnNzFzXzAxZlpYYVZFdW50aTJYdExEYXpxbndKNGxvWTRaNE9fd0tIcDRYSWgxUWQ2Ynl0?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 06:55:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "실탄",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "국방부, 실탄 미장착·미 무인기 소동 육군 1군단장 직무배제 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93REU1T0xZTUJ6a2hKLWdiUWlhRVo3ZUI1UXpIbVRsWWZMOTlqY2MtQUk4cEtHbDB1UUNjcEtEV0dnNzFzXzAxZlpYYVZFdW50aTJYdExEYXpxbndKNGxvWTRaNE9fd0tIcDRYSWgxUWQ2Ynl0?oc=5",
+          "title": "정청래 \"배신자는 또 배신\" 김민석 \"명청대전 계속되면 나라 흔들려\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeXF5SktGbU1xMnJ3UURnSUx0XzFMUTFNQXJDQkM0MklHVFBleDBtTk12bV9TeDFSWVVyUGdMYWltQUlQMkFDSVVDcmpETERSakxaa2kzMVk2dGs4TTg2LVJVRmJGQTlweVZFVzUxRWVLa3dsUlE4S0lvUHVDd1dQYUJqdlZQUQ?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 06:55:00 GMT"
+          "published": "Mon, 03 Aug 2026 08:52:00 GMT"
         }
       ]
     },
     {
-      "word": "미장착미",
+      "word": "명청대전",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "국방부, 실탄 미장착·미 무인기 소동 육군 1군단장 직무배제 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93REU1T0xZTUJ6a2hKLWdiUWlhRVo3ZUI1UXpIbVRsWWZMOTlqY2MtQUk4cEtHbDB1UUNjcEtEV0dnNzFzXzAxZlpYYVZFdW50aTJYdExEYXpxbndKNGxvWTRaNE9fd0tIcDRYSWgxUWQ2Ynl0?oc=5",
+          "title": "정청래 \"배신자는 또 배신\" 김민석 \"명청대전 계속되면 나라 흔들려\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeXF5SktGbU1xMnJ3UURnSUx0XzFMUTFNQXJDQkM0MklHVFBleDBtTk12bV9TeDFSWVVyUGdMYWltQUlQMkFDSVVDcmpETERSakxaa2kzMVk2dGs4TTg2LVJVRmJGQTlweVZFVzUxRWVLa3dsUlE4S0lvUHVDd1dQYUJqdlZQUQ?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 06:55:00 GMT"
+          "published": "Mon, 03 Aug 2026 08:52:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "계속되면",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정청래 \"배신자는 또 배신\" 김민석 \"명청대전 계속되면 나라 흔들려\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeXF5SktGbU1xMnJ3UURnSUx0XzFMUTFNQXJDQkM0MklHVFBleDBtTk12bV9TeDFSWVVyUGdMYWltQUlQMkFDSVVDcmpETERSakxaa2kzMVk2dGs4TTg2LVJVRmJGQTlweVZFVzUxRWVLa3dsUlE4S0lvUHVDd1dQYUJqdlZQUQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 08:52:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "나라",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정청래 \"배신자는 또 배신\" 김민석 \"명청대전 계속되면 나라 흔들려\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeXF5SktGbU1xMnJ3UURnSUx0XzFMUTFNQXJDQkM0MklHVFBleDBtTk12bV9TeDFSWVVyUGdMYWltQUlQMkFDSVVDcmpETERSakxaa2kzMVk2dGs4TTg2LVJVRmJGQTlweVZFVzUxRWVLa3dsUlE4S0lvUHVDd1dQYUJqdlZQUQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 08:52:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "흔들려",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정청래 \"배신자는 또 배신\" 김민석 \"명청대전 계속되면 나라 흔들려\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeXF5SktGbU1xMnJ3UURnSUx0XzFMUTFNQXJDQkM0MklHVFBleDBtTk12bV9TeDFSWVVyUGdMYWltQUlQMkFDSVVDcmpETERSakxaa2kzMVk2dGs4TTg2LVJVRmJGQTlweVZFVzUxRWVLa3dsUlE4S0lvUHVDd1dQYUJqdlZQUQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 08:52:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "검찰",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘검찰 수사권 폐지법’에 국힘 “이 대통령, 거부권을” 민주 “탄핵 운운 겁박” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CRHl0U1I1aEpzc01SOHUyOFp6eWJsWHpNcUF4dXZVRFZlNldXUjlCSFFKRERpS0RudlI4b2FJMHFxRzRXMnZndWVIRmlWZ3ZaTkZwZlNDazF2MENIZExPbTNUbmd6RkxnVldKaTBsYWVTSVBS?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 08:18:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "수사권",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘검찰 수사권 폐지법’에 국힘 “이 대통령, 거부권을” 민주 “탄핵 운운 겁박” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CRHl0U1I1aEpzc01SOHUyOFp6eWJsWHpNcUF4dXZVRFZlNldXUjlCSFFKRERpS0RudlI4b2FJMHFxRzRXMnZndWVIRmlWZ3ZaTkZwZlNDazF2MENIZExPbTNUbmd6RkxnVldKaTBsYWVTSVBS?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 08:18:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "폐지법",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘검찰 수사권 폐지법’에 국힘 “이 대통령, 거부권을” 민주 “탄핵 운운 겁박” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CRHl0U1I1aEpzc01SOHUyOFp6eWJsWHpNcUF4dXZVRFZlNldXUjlCSFFKRERpS0RudlI4b2FJMHFxRzRXMnZndWVIRmlWZ3ZaTkZwZlNDazF2MENIZExPbTNUbmd6RkxnVldKaTBsYWVTSVBS?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 08:18:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "국힘",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘검찰 수사권 폐지법’에 국힘 “이 대통령, 거부권을” 민주 “탄핵 운운 겁박” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CRHl0U1I1aEpzc01SOHUyOFp6eWJsWHpNcUF4dXZVRFZlNldXUjlCSFFKRERpS0RudlI4b2FJMHFxRzRXMnZndWVIRmlWZ3ZaTkZwZlNDazF2MENIZExPbTNUbmd6RkxnVldKaTBsYWVTSVBS?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 08:18:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "대통령",
+      "count": 1,
+      "category": "PERSON",
+      "articles": [
+        {
+          "title": "‘검찰 수사권 폐지법’에 국힘 “이 대통령, 거부권을” 민주 “탄핵 운운 겁박” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CRHl0U1I1aEpzc01SOHUyOFp6eWJsWHpNcUF4dXZVRFZlNldXUjlCSFFKRERpS0RudlI4b2FJMHFxRzRXMnZndWVIRmlWZ3ZaTkZwZlNDazF2MENIZExPbTNUbmd6RkxnVldKaTBsYWVTSVBS?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 08:18:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "거부권",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘검찰 수사권 폐지법’에 국힘 “이 대통령, 거부권을” 민주 “탄핵 운운 겁박” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CRHl0U1I1aEpzc01SOHUyOFp6eWJsWHpNcUF4dXZVRFZlNldXUjlCSFFKRERpS0RudlI4b2FJMHFxRzRXMnZndWVIRmlWZ3ZaTkZwZlNDazF2MENIZExPbTNUbmd6RkxnVldKaTBsYWVTSVBS?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 08:18:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "민주",
+      "count": 1,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "‘검찰 수사권 폐지법’에 국힘 “이 대통령, 거부권을” 민주 “탄핵 운운 겁박” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CRHl0U1I1aEpzc01SOHUyOFp6eWJsWHpNcUF4dXZVRFZlNldXUjlCSFFKRERpS0RudlI4b2FJMHFxRzRXMnZndWVIRmlWZ3ZaTkZwZlNDazF2MENIZExPbTNUbmd6RkxnVldKaTBsYWVTSVBS?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 08:18:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "탄핵",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘검찰 수사권 폐지법’에 국힘 “이 대통령, 거부권을” 민주 “탄핵 운운 겁박” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CRHl0U1I1aEpzc01SOHUyOFp6eWJsWHpNcUF4dXZVRFZlNldXUjlCSFFKRERpS0RudlI4b2FJMHFxRzRXMnZndWVIRmlWZ3ZaTkZwZlNDazF2MENIZExPbTNUbmd6RkxnVldKaTBsYWVTSVBS?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 08:18:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "운운",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘검찰 수사권 폐지법’에 국힘 “이 대통령, 거부권을” 민주 “탄핵 운운 겁박” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CRHl0U1I1aEpzc01SOHUyOFp6eWJsWHpNcUF4dXZVRFZlNldXUjlCSFFKRERpS0RudlI4b2FJMHFxRzRXMnZndWVIRmlWZ3ZaTkZwZlNDazF2MENIZExPbTNUbmd6RkxnVldKaTBsYWVTSVBS?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 08:18:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "겁박",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘검찰 수사권 폐지법’에 국힘 “이 대통령, 거부권을” 민주 “탄핵 운운 겁박” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CRHl0U1I1aEpzc01SOHUyOFp6eWJsWHpNcUF4dXZVRFZlNldXUjlCSFFKRERpS0RudlI4b2FJMHFxRzRXMnZndWVIRmlWZ3ZaTkZwZlNDazF2MENIZExPbTNUbmd6RkxnVldKaTBsYWVTSVBS?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 08:18:00 GMT"
         }
       ]
     },
@@ -244,348 +366,166 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "국방부, 실탄 미장착·미 무인기 소동 육군 1군단장 직무배제 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93REU1T0xZTUJ6a2hKLWdiUWlhRVo3ZUI1UXpIbVRsWWZMOTlqY2MtQUk4cEtHbDB1UUNjcEtEV0dnNzFzXzAxZlpYYVZFdW50aTJYdExEYXpxbndKNGxvWTRaNE9fd0tIcDRYSWgxUWQ2Ynl0?oc=5",
+          "title": "'美무인기 오인사태' 전말‥미군은 전날 문자통보, 한국군은 보고 누락 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BRlZhTF8zdEo3cUUzYzc0S1ViLXhhZEZIUjljNUdaTktyTmFpLUs1cnNtMHlLdW1ENEFvWFl6UWxtTmE2VHlLNVQzYV8wMVF1cy1pV3hqY3pKSDlieWVuUlBpRHVjSTY2V1BOZ2JLVVBBTGVoR1FmcNIBeEFVX3lxTFBsRVRjSGRZOVNsSDVqVTQ4TTYyc3dicjVaQ2tWRjBzZUZ0U2RKdXpzcHpjSklPcS1fQ3Bwd2ZlTHhyMEU2THdiOHNpMEhSbU0yRnNZVmc0Wl9hUFA1M1hjQ3hOYUFPVlYzekFDcnhua241TnozMndsXw?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 06:55:00 GMT"
+          "published": "Mon, 03 Aug 2026 07:45:20 GMT"
         }
       ]
     },
     {
-      "word": "소동",
+      "word": "오인사태",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "국방부, 실탄 미장착·미 무인기 소동 육군 1군단장 직무배제 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93REU1T0xZTUJ6a2hKLWdiUWlhRVo3ZUI1UXpIbVRsWWZMOTlqY2MtQUk4cEtHbDB1UUNjcEtEV0dnNzFzXzAxZlpYYVZFdW50aTJYdExEYXpxbndKNGxvWTRaNE9fd0tIcDRYSWgxUWQ2Ynl0?oc=5",
+          "title": "'美무인기 오인사태' 전말‥미군은 전날 문자통보, 한국군은 보고 누락 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BRlZhTF8zdEo3cUUzYzc0S1ViLXhhZEZIUjljNUdaTktyTmFpLUs1cnNtMHlLdW1ENEFvWFl6UWxtTmE2VHlLNVQzYV8wMVF1cy1pV3hqY3pKSDlieWVuUlBpRHVjSTY2V1BOZ2JLVVBBTGVoR1FmcNIBeEFVX3lxTFBsRVRjSGRZOVNsSDVqVTQ4TTYyc3dicjVaQ2tWRjBzZUZ0U2RKdXpzcHpjSklPcS1fQ3Bwd2ZlTHhyMEU2THdiOHNpMEhSbU0yRnNZVmc0Wl9hUFA1M1hjQ3hOYUFPVlYzekFDcnhua241TnozMndsXw?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 06:55:00 GMT"
+          "published": "Mon, 03 Aug 2026 07:45:20 GMT"
         }
       ]
     },
     {
-      "word": "육군",
+      "word": "전말미군",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "국방부, 실탄 미장착·미 무인기 소동 육군 1군단장 직무배제 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93REU1T0xZTUJ6a2hKLWdiUWlhRVo3ZUI1UXpIbVRsWWZMOTlqY2MtQUk4cEtHbDB1UUNjcEtEV0dnNzFzXzAxZlpYYVZFdW50aTJYdExEYXpxbndKNGxvWTRaNE9fd0tIcDRYSWgxUWQ2Ynl0?oc=5",
+          "title": "'美무인기 오인사태' 전말‥미군은 전날 문자통보, 한국군은 보고 누락 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BRlZhTF8zdEo3cUUzYzc0S1ViLXhhZEZIUjljNUdaTktyTmFpLUs1cnNtMHlLdW1ENEFvWFl6UWxtTmE2VHlLNVQzYV8wMVF1cy1pV3hqY3pKSDlieWVuUlBpRHVjSTY2V1BOZ2JLVVBBTGVoR1FmcNIBeEFVX3lxTFBsRVRjSGRZOVNsSDVqVTQ4TTYyc3dicjVaQ2tWRjBzZUZ0U2RKdXpzcHpjSklPcS1fQ3Bwd2ZlTHhyMEU2THdiOHNpMEhSbU0yRnNZVmc0Wl9hUFA1M1hjQ3hOYUFPVlYzekFDcnhua241TnozMndsXw?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 06:55:00 GMT"
+          "published": "Mon, 03 Aug 2026 07:45:20 GMT"
         }
       ]
     },
     {
-      "word": "1군단장",
+      "word": "전날",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "국방부, 실탄 미장착·미 무인기 소동 육군 1군단장 직무배제 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93REU1T0xZTUJ6a2hKLWdiUWlhRVo3ZUI1UXpIbVRsWWZMOTlqY2MtQUk4cEtHbDB1UUNjcEtEV0dnNzFzXzAxZlpYYVZFdW50aTJYdExEYXpxbndKNGxvWTRaNE9fd0tIcDRYSWgxUWQ2Ynl0?oc=5",
+          "title": "'美무인기 오인사태' 전말‥미군은 전날 문자통보, 한국군은 보고 누락 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BRlZhTF8zdEo3cUUzYzc0S1ViLXhhZEZIUjljNUdaTktyTmFpLUs1cnNtMHlLdW1ENEFvWFl6UWxtTmE2VHlLNVQzYV8wMVF1cy1pV3hqY3pKSDlieWVuUlBpRHVjSTY2V1BOZ2JLVVBBTGVoR1FmcNIBeEFVX3lxTFBsRVRjSGRZOVNsSDVqVTQ4TTYyc3dicjVaQ2tWRjBzZUZ0U2RKdXpzcHpjSklPcS1fQ3Bwd2ZlTHhyMEU2THdiOHNpMEhSbU0yRnNZVmc0Wl9hUFA1M1hjQ3hOYUFPVlYzekFDcnhua241TnozMndsXw?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 06:55:00 GMT"
+          "published": "Mon, 03 Aug 2026 07:45:20 GMT"
         }
       ]
     },
     {
-      "word": "직무배제",
+      "word": "문자통보",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "국방부, 실탄 미장착·미 무인기 소동 육군 1군단장 직무배제 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93REU1T0xZTUJ6a2hKLWdiUWlhRVo3ZUI1UXpIbVRsWWZMOTlqY2MtQUk4cEtHbDB1UUNjcEtEV0dnNzFzXzAxZlpYYVZFdW50aTJYdExEYXpxbndKNGxvWTRaNE9fd0tIcDRYSWgxUWQ2Ynl0?oc=5",
+          "title": "'美무인기 오인사태' 전말‥미군은 전날 문자통보, 한국군은 보고 누락 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BRlZhTF8zdEo3cUUzYzc0S1ViLXhhZEZIUjljNUdaTktyTmFpLUs1cnNtMHlLdW1ENEFvWFl6UWxtTmE2VHlLNVQzYV8wMVF1cy1pV3hqY3pKSDlieWVuUlBpRHVjSTY2V1BOZ2JLVVBBTGVoR1FmcNIBeEFVX3lxTFBsRVRjSGRZOVNsSDVqVTQ4TTYyc3dicjVaQ2tWRjBzZUZ0U2RKdXpzcHpjSklPcS1fQ3Bwd2ZlTHhyMEU2THdiOHNpMEhSbU0yRnNZVmc0Wl9hUFA1M1hjQ3hOYUFPVlYzekFDcnhua241TnozMndsXw?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 06:55:00 GMT"
+          "published": "Mon, 03 Aug 2026 07:45:20 GMT"
         }
       ]
     },
     {
-      "word": "서울경기",
+      "word": "한국군",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "서울·경기에 첫 ‘폭염중대경보’ 발표 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sUnMybW5aa3NlbGRBdkJGYUxNalJDMDZqWVFJemJkZWZsNGpPbUlTekFzMFZscFI0SFhCX0p3U2ZqNlpPX3ZfNDUwdVBsZjNkQ3M3ZlhDQWFQOEZ2MG55eEdfQnhSQVRLQkpBdg?oc=5",
+          "title": "'美무인기 오인사태' 전말‥미군은 전날 문자통보, 한국군은 보고 누락 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BRlZhTF8zdEo3cUUzYzc0S1ViLXhhZEZIUjljNUdaTktyTmFpLUs1cnNtMHlLdW1ENEFvWFl6UWxtTmE2VHlLNVQzYV8wMVF1cy1pV3hqY3pKSDlieWVuUlBpRHVjSTY2V1BOZ2JLVVBBTGVoR1FmcNIBeEFVX3lxTFBsRVRjSGRZOVNsSDVqVTQ4TTYyc3dicjVaQ2tWRjBzZUZ0U2RKdXpzcHpjSklPcS1fQ3Bwd2ZlTHhyMEU2THdiOHNpMEhSbU0yRnNZVmc0Wl9hUFA1M1hjQ3hOYUFPVlYzekFDcnhua241TnozMndsXw?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 07:53:00 GMT"
+          "published": "Mon, 03 Aug 2026 07:45:20 GMT"
         }
       ]
     },
     {
-      "word": "폭염중대경보",
+      "word": "보고",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "서울·경기에 첫 ‘폭염중대경보’ 발표 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sUnMybW5aa3NlbGRBdkJGYUxNalJDMDZqWVFJemJkZWZsNGpPbUlTekFzMFZscFI0SFhCX0p3U2ZqNlpPX3ZfNDUwdVBsZjNkQ3M3ZlhDQWFQOEZ2MG55eEdfQnhSQVRLQkpBdg?oc=5",
+          "title": "'美무인기 오인사태' 전말‥미군은 전날 문자통보, 한국군은 보고 누락 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BRlZhTF8zdEo3cUUzYzc0S1ViLXhhZEZIUjljNUdaTktyTmFpLUs1cnNtMHlLdW1ENEFvWFl6UWxtTmE2VHlLNVQzYV8wMVF1cy1pV3hqY3pKSDlieWVuUlBpRHVjSTY2V1BOZ2JLVVBBTGVoR1FmcNIBeEFVX3lxTFBsRVRjSGRZOVNsSDVqVTQ4TTYyc3dicjVaQ2tWRjBzZUZ0U2RKdXpzcHpjSklPcS1fQ3Bwd2ZlTHhyMEU2THdiOHNpMEhSbU0yRnNZVmc0Wl9hUFA1M1hjQ3hOYUFPVlYzekFDcnhua241TnozMndsXw?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 07:53:00 GMT"
+          "published": "Mon, 03 Aug 2026 07:45:20 GMT"
         }
       ]
     },
     {
-      "word": "경북",
+      "word": "누락",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "경북 포항 해병대 영외숙소서 간부 총기 사망‥사건 경위 조사 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkek5JVUV1dUNGMmtiZEdJUm12Rk1IMklRUk5Qalo0ZG1IdFJ6MDNxX3E2N3dsdGQwWFdWQUhKVkI1ZlFMdFNXVnRLa3BGYzR4V3RfVlA5NVQyUHpJZ1VKcmFVOXoxMkc0VlRqT3RMM1BmYWhJckdmUdIBeEFVX3lxTE9EQmNqUEpNNkZyY0hYUUR0TGFFRHpMUTd3S3RBV3h3bXRnbHUwS2tDWkhVb0k5SHRGWXRRRU5FbEZsWmU1ZnNrazJBVk5NZnYxRWlCbUJlZVE1aXoxZ2w2MGh0blY3VmhRMnNFY0g2elZVcnhPc1VxeA?oc=5",
+          "title": "'美무인기 오인사태' 전말‥미군은 전날 문자통보, 한국군은 보고 누락 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BRlZhTF8zdEo3cUUzYzc0S1ViLXhhZEZIUjljNUdaTktyTmFpLUs1cnNtMHlLdW1ENEFvWFl6UWxtTmE2VHlLNVQzYV8wMVF1cy1pV3hqY3pKSDlieWVuUlBpRHVjSTY2V1BOZ2JLVVBBTGVoR1FmcNIBeEFVX3lxTFBsRVRjSGRZOVNsSDVqVTQ4TTYyc3dicjVaQ2tWRjBzZUZ0U2RKdXpzcHpjSklPcS1fQ3Bwd2ZlTHhyMEU2THdiOHNpMEhSbU0yRnNZVmc0Wl9hUFA1M1hjQ3hOYUFPVlYzekFDcnhua241TnozMndsXw?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 05:03:18 GMT"
+          "published": "Mon, 03 Aug 2026 07:45:20 GMT"
         }
       ]
     },
     {
-      "word": "포항",
+      "word": "분산입력",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "경북 포항 해병대 영외숙소서 간부 총기 사망‥사건 경위 조사 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkek5JVUV1dUNGMmtiZEdJUm12Rk1IMklRUk5Qalo0ZG1IdFJ6MDNxX3E2N3dsdGQwWFdWQUhKVkI1ZlFMdFNXVnRLa3BGYzR4V3RfVlA5NVQyUHpJZ1VKcmFVOXoxMkc0VlRqT3RMM1BmYWhJckdmUdIBeEFVX3lxTE9EQmNqUEpNNkZyY0hYUUR0TGFFRHpMUTd3S3RBV3h3bXRnbHUwS2tDWkhVb0k5SHRGWXRRRU5FbEZsWmU1ZnNrazJBVk5NZnYxRWlCbUJlZVE1aXoxZ2w2MGh0blY3VmhRMnNFY0g2elZVcnhPc1VxeA?oc=5",
+          "title": "\"분산입력 하라\" 엑셀 파일까지 줬지만‥'투표자 501명' 6시간 유지된 이유 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uQV9YSm1GOEZ2aTJhelFnaGYwOUh3Mzc5N1c2ekhqMVR4dzFkZXZ2X0ZVcnhrcUJZcVVwb1Vmd2NjUWo5bzJETGNkbnppLS15TThKTFk2a1MxNG40RnV2QTZCU0s1eVBrdzlNcGNsaXRSVzU4N0ZwaNIBeEFVX3lxTE9CZmZzR0pzZXZzZnYxR2Jjb2JYN3owczg3Q2NPVkdRZnRyZkZEV1RxRl9wRFdjdGVIYjRNcklnWHNtaUlKa2FveThTamdxdzR2SGZRNDNnY0ZMa3d2Nk1wZ1B0T3Q0dWhOcjFaN1F0VktZOGdoYVQwWA?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 05:03:18 GMT"
+          "published": "Mon, 03 Aug 2026 07:23:49 GMT"
         }
       ]
     },
     {
-      "word": "해병대",
+      "word": "하라",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "경북 포항 해병대 영외숙소서 간부 총기 사망‥사건 경위 조사 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkek5JVUV1dUNGMmtiZEdJUm12Rk1IMklRUk5Qalo0ZG1IdFJ6MDNxX3E2N3dsdGQwWFdWQUhKVkI1ZlFMdFNXVnRLa3BGYzR4V3RfVlA5NVQyUHpJZ1VKcmFVOXoxMkc0VlRqT3RMM1BmYWhJckdmUdIBeEFVX3lxTE9EQmNqUEpNNkZyY0hYUUR0TGFFRHpMUTd3S3RBV3h3bXRnbHUwS2tDWkhVb0k5SHRGWXRRRU5FbEZsWmU1ZnNrazJBVk5NZnYxRWlCbUJlZVE1aXoxZ2w2MGh0blY3VmhRMnNFY0g2elZVcnhPc1VxeA?oc=5",
+          "title": "\"분산입력 하라\" 엑셀 파일까지 줬지만‥'투표자 501명' 6시간 유지된 이유 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uQV9YSm1GOEZ2aTJhelFnaGYwOUh3Mzc5N1c2ekhqMVR4dzFkZXZ2X0ZVcnhrcUJZcVVwb1Vmd2NjUWo5bzJETGNkbnppLS15TThKTFk2a1MxNG40RnV2QTZCU0s1eVBrdzlNcGNsaXRSVzU4N0ZwaNIBeEFVX3lxTE9CZmZzR0pzZXZzZnYxR2Jjb2JYN3owczg3Q2NPVkdRZnRyZkZEV1RxRl9wRFdjdGVIYjRNcklnWHNtaUlKa2FveThTamdxdzR2SGZRNDNnY0ZMa3d2Nk1wZ1B0T3Q0dWhOcjFaN1F0VktZOGdoYVQwWA?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 05:03:18 GMT"
+          "published": "Mon, 03 Aug 2026 07:23:49 GMT"
         }
       ]
     },
     {
-      "word": "영외숙소서",
+      "word": "엑셀",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "경북 포항 해병대 영외숙소서 간부 총기 사망‥사건 경위 조사 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkek5JVUV1dUNGMmtiZEdJUm12Rk1IMklRUk5Qalo0ZG1IdFJ6MDNxX3E2N3dsdGQwWFdWQUhKVkI1ZlFMdFNXVnRLa3BGYzR4V3RfVlA5NVQyUHpJZ1VKcmFVOXoxMkc0VlRqT3RMM1BmYWhJckdmUdIBeEFVX3lxTE9EQmNqUEpNNkZyY0hYUUR0TGFFRHpMUTd3S3RBV3h3bXRnbHUwS2tDWkhVb0k5SHRGWXRRRU5FbEZsWmU1ZnNrazJBVk5NZnYxRWlCbUJlZVE1aXoxZ2w2MGh0blY3VmhRMnNFY0g2elZVcnhPc1VxeA?oc=5",
+          "title": "\"분산입력 하라\" 엑셀 파일까지 줬지만‥'투표자 501명' 6시간 유지된 이유 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uQV9YSm1GOEZ2aTJhelFnaGYwOUh3Mzc5N1c2ekhqMVR4dzFkZXZ2X0ZVcnhrcUJZcVVwb1Vmd2NjUWo5bzJETGNkbnppLS15TThKTFk2a1MxNG40RnV2QTZCU0s1eVBrdzlNcGNsaXRSVzU4N0ZwaNIBeEFVX3lxTE9CZmZzR0pzZXZzZnYxR2Jjb2JYN3owczg3Q2NPVkdRZnRyZkZEV1RxRl9wRFdjdGVIYjRNcklnWHNtaUlKa2FveThTamdxdzR2SGZRNDNnY0ZMa3d2Nk1wZ1B0T3Q0dWhOcjFaN1F0VktZOGdoYVQwWA?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 05:03:18 GMT"
+          "published": "Mon, 03 Aug 2026 07:23:49 GMT"
         }
       ]
     },
     {
-      "word": "간부",
+      "word": "파일",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "경북 포항 해병대 영외숙소서 간부 총기 사망‥사건 경위 조사 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkek5JVUV1dUNGMmtiZEdJUm12Rk1IMklRUk5Qalo0ZG1IdFJ6MDNxX3E2N3dsdGQwWFdWQUhKVkI1ZlFMdFNXVnRLa3BGYzR4V3RfVlA5NVQyUHpJZ1VKcmFVOXoxMkc0VlRqT3RMM1BmYWhJckdmUdIBeEFVX3lxTE9EQmNqUEpNNkZyY0hYUUR0TGFFRHpMUTd3S3RBV3h3bXRnbHUwS2tDWkhVb0k5SHRGWXRRRU5FbEZsWmU1ZnNrazJBVk5NZnYxRWlCbUJlZVE1aXoxZ2w2MGh0blY3VmhRMnNFY0g2elZVcnhPc1VxeA?oc=5",
+          "title": "\"분산입력 하라\" 엑셀 파일까지 줬지만‥'투표자 501명' 6시간 유지된 이유 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uQV9YSm1GOEZ2aTJhelFnaGYwOUh3Mzc5N1c2ekhqMVR4dzFkZXZ2X0ZVcnhrcUJZcVVwb1Vmd2NjUWo5bzJETGNkbnppLS15TThKTFk2a1MxNG40RnV2QTZCU0s1eVBrdzlNcGNsaXRSVzU4N0ZwaNIBeEFVX3lxTE9CZmZzR0pzZXZzZnYxR2Jjb2JYN3owczg3Q2NPVkdRZnRyZkZEV1RxRl9wRFdjdGVIYjRNcklnWHNtaUlKa2FveThTamdxdzR2SGZRNDNnY0ZMa3d2Nk1wZ1B0T3Q0dWhOcjFaN1F0VktZOGdoYVQwWA?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 05:03:18 GMT"
+          "published": "Mon, 03 Aug 2026 07:23:49 GMT"
         }
       ]
     },
     {
-      "word": "총기",
+      "word": "줬지만투표자",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "경북 포항 해병대 영외숙소서 간부 총기 사망‥사건 경위 조사 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkek5JVUV1dUNGMmtiZEdJUm12Rk1IMklRUk5Qalo0ZG1IdFJ6MDNxX3E2N3dsdGQwWFdWQUhKVkI1ZlFMdFNXVnRLa3BGYzR4V3RfVlA5NVQyUHpJZ1VKcmFVOXoxMkc0VlRqT3RMM1BmYWhJckdmUdIBeEFVX3lxTE9EQmNqUEpNNkZyY0hYUUR0TGFFRHpMUTd3S3RBV3h3bXRnbHUwS2tDWkhVb0k5SHRGWXRRRU5FbEZsWmU1ZnNrazJBVk5NZnYxRWlCbUJlZVE1aXoxZ2w2MGh0blY3VmhRMnNFY0g2elZVcnhPc1VxeA?oc=5",
+          "title": "\"분산입력 하라\" 엑셀 파일까지 줬지만‥'투표자 501명' 6시간 유지된 이유 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uQV9YSm1GOEZ2aTJhelFnaGYwOUh3Mzc5N1c2ekhqMVR4dzFkZXZ2X0ZVcnhrcUJZcVVwb1Vmd2NjUWo5bzJETGNkbnppLS15TThKTFk2a1MxNG40RnV2QTZCU0s1eVBrdzlNcGNsaXRSVzU4N0ZwaNIBeEFVX3lxTE9CZmZzR0pzZXZzZnYxR2Jjb2JYN3owczg3Q2NPVkdRZnRyZkZEV1RxRl9wRFdjdGVIYjRNcklnWHNtaUlKa2FveThTamdxdzR2SGZRNDNnY0ZMa3d2Nk1wZ1B0T3Q0dWhOcjFaN1F0VktZOGdoYVQwWA?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 05:03:18 GMT"
-        }
-      ]
-    },
-    {
-      "word": "사망사건",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "경북 포항 해병대 영외숙소서 간부 총기 사망‥사건 경위 조사 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkek5JVUV1dUNGMmtiZEdJUm12Rk1IMklRUk5Qalo0ZG1IdFJ6MDNxX3E2N3dsdGQwWFdWQUhKVkI1ZlFMdFNXVnRLa3BGYzR4V3RfVlA5NVQyUHpJZ1VKcmFVOXoxMkc0VlRqT3RMM1BmYWhJckdmUdIBeEFVX3lxTE9EQmNqUEpNNkZyY0hYUUR0TGFFRHpMUTd3S3RBV3h3bXRnbHUwS2tDWkhVb0k5SHRGWXRRRU5FbEZsWmU1ZnNrazJBVk5NZnYxRWlCbUJlZVE1aXoxZ2w2MGh0blY3VmhRMnNFY0g2elZVcnhPc1VxeA?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 05:03:18 GMT"
-        }
-      ]
-    },
-    {
-      "word": "경위",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "경북 포항 해병대 영외숙소서 간부 총기 사망‥사건 경위 조사 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkek5JVUV1dUNGMmtiZEdJUm12Rk1IMklRUk5Qalo0ZG1IdFJ6MDNxX3E2N3dsdGQwWFdWQUhKVkI1ZlFMdFNXVnRLa3BGYzR4V3RfVlA5NVQyUHpJZ1VKcmFVOXoxMkc0VlRqT3RMM1BmYWhJckdmUdIBeEFVX3lxTE9EQmNqUEpNNkZyY0hYUUR0TGFFRHpMUTd3S3RBV3h3bXRnbHUwS2tDWkhVb0k5SHRGWXRRRU5FbEZsWmU1ZnNrazJBVk5NZnYxRWlCbUJlZVE1aXoxZ2w2MGh0blY3VmhRMnNFY0g2elZVcnhPc1VxeA?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 05:03:18 GMT"
-        }
-      ]
-    },
-    {
-      "word": "조사",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "경북 포항 해병대 영외숙소서 간부 총기 사망‥사건 경위 조사 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkek5JVUV1dUNGMmtiZEdJUm12Rk1IMklRUk5Qalo0ZG1IdFJ6MDNxX3E2N3dsdGQwWFdWQUhKVkI1ZlFMdFNXVnRLa3BGYzR4V3RfVlA5NVQyUHpJZ1VKcmFVOXoxMkc0VlRqT3RMM1BmYWhJckdmUdIBeEFVX3lxTE9EQmNqUEpNNkZyY0hYUUR0TGFFRHpMUTd3S3RBV3h3bXRnbHUwS2tDWkhVb0k5SHRGWXRRRU5FbEZsWmU1ZnNrazJBVk5NZnYxRWlCbUJlZVE1aXoxZ2w2MGh0blY3VmhRMnNFY0g2elZVcnhPc1VxeA?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 05:03:18 GMT"
-        }
-      ]
-    },
-    {
-      "word": "극한폭염",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "극한폭염에 주말 이틀 연속 온열질환 100명대…사망 2명 추가 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CbDVVVjAxejQzcy0tZGJ6YnFhS01pMUh3cTBhanhhNFNuOGNqclNvU3BmeU01TzEyN3NmQV9tSVExR1VpNDd0dUx6cXdlaUZzalRpYUFkcEttVGNyYWlSeXVxMDF5a1k?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 08:02:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "이틀",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "극한폭염에 주말 이틀 연속 온열질환 100명대…사망 2명 추가 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CbDVVVjAxejQzcy0tZGJ6YnFhS01pMUh3cTBhanhhNFNuOGNqclNvU3BmeU01TzEyN3NmQV9tSVExR1VpNDd0dUx6cXdlaUZzalRpYUFkcEttVGNyYWlSeXVxMDF5a1k?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 08:02:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "연속",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "극한폭염에 주말 이틀 연속 온열질환 100명대…사망 2명 추가 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CbDVVVjAxejQzcy0tZGJ6YnFhS01pMUh3cTBhanhhNFNuOGNqclNvU3BmeU01TzEyN3NmQV9tSVExR1VpNDd0dUx6cXdlaUZzalRpYUFkcEttVGNyYWlSeXVxMDF5a1k?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 08:02:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "온열질환",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "극한폭염에 주말 이틀 연속 온열질환 100명대…사망 2명 추가 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CbDVVVjAxejQzcy0tZGJ6YnFhS01pMUh3cTBhanhhNFNuOGNqclNvU3BmeU01TzEyN3NmQV9tSVExR1VpNDd0dUx6cXdlaUZzalRpYUFkcEttVGNyYWlSeXVxMDF5a1k?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 08:02:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "100명대사망",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "극한폭염에 주말 이틀 연속 온열질환 100명대…사망 2명 추가 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CbDVVVjAxejQzcy0tZGJ6YnFhS01pMUh3cTBhanhhNFNuOGNqclNvU3BmeU01TzEyN3NmQV9tSVExR1VpNDd0dUx6cXdlaUZzalRpYUFkcEttVGNyYWlSeXVxMDF5a1k?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 08:02:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "2명",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "극한폭염에 주말 이틀 연속 온열질환 100명대…사망 2명 추가 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CbDVVVjAxejQzcy0tZGJ6YnFhS01pMUh3cTBhanhhNFNuOGNqclNvU3BmeU01TzEyN3NmQV9tSVExR1VpNDd0dUx6cXdlaUZzalRpYUFkcEttVGNyYWlSeXVxMDF5a1k?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 08:02:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "추가",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "극한폭염에 주말 이틀 연속 온열질환 100명대…사망 2명 추가 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CbDVVVjAxejQzcy0tZGJ6YnFhS01pMUh3cTBhanhhNFNuOGNqclNvU3BmeU01TzEyN3NmQV9tSVExR1VpNDd0dUx6cXdlaUZzalRpYUFkcEttVGNyYWlSeXVxMDF5a1k?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 08:02:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "역전승",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "정청래 \"역전승… 끝내 승리할 것\" 김민석 \"-7%p면 안전 승리인데 -1%p\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQ01BMDNJV3p1blo4U0UwRktuN0ZEa0JwcjZFb0JSYTVjMWlJdjBmOTduWE1oRW5wcV9icHhLdzhTdlRpd2Z1aEZEN2Q3ZHl4VUh0MGJwajhBTEhiRHBLNXUwbkY2YVY4R0NkbDZBNXVzMjFMUG95M21iQmlPX2tIczN2WUdZQQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 02 Aug 2026 23:59:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "끝내",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "정청래 \"역전승… 끝내 승리할 것\" 김민석 \"-7%p면 안전 승리인데 -1%p\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQ01BMDNJV3p1blo4U0UwRktuN0ZEa0JwcjZFb0JSYTVjMWlJdjBmOTduWE1oRW5wcV9icHhLdzhTdlRpd2Z1aEZEN2Q3ZHl4VUh0MGJwajhBTEhiRHBLNXUwbkY2YVY4R0NkbDZBNXVzMjFMUG95M21iQmlPX2tIczN2WUdZQQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 02 Aug 2026 23:59:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "승리",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "정청래 \"역전승… 끝내 승리할 것\" 김민석 \"-7%p면 안전 승리인데 -1%p\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQ01BMDNJV3p1blo4U0UwRktuN0ZEa0JwcjZFb0JSYTVjMWlJdjBmOTduWE1oRW5wcV9icHhLdzhTdlRpd2Z1aEZEN2Q3ZHl4VUh0MGJwajhBTEhiRHBLNXUwbkY2YVY4R0NkbDZBNXVzMjFMUG95M21iQmlPX2tIczN2WUdZQQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 02 Aug 2026 23:59:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "7p면",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "정청래 \"역전승… 끝내 승리할 것\" 김민석 \"-7%p면 안전 승리인데 -1%p\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQ01BMDNJV3p1blo4U0UwRktuN0ZEa0JwcjZFb0JSYTVjMWlJdjBmOTduWE1oRW5wcV9icHhLdzhTdlRpd2Z1aEZEN2Q3ZHl4VUh0MGJwajhBTEhiRHBLNXUwbkY2YVY4R0NkbDZBNXVzMjFMUG95M21iQmlPX2tIczN2WUdZQQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 02 Aug 2026 23:59:00 GMT"
+          "published": "Mon, 03 Aug 2026 07:23:49 GMT"
         }
       ]
     }
