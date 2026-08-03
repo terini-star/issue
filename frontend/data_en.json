@@ -1,308 +1,187 @@
 {
   "language": "en",
-  "last_updated": 1785760329.9305003,
+  "last_updated": 1785772081.597864,
   "count": 40,
   "trends": [
+    {
+      "word": "Iran",
+      "count": 4,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Live Updates: Iran denies Trump's claim that U.S.-Iran negotiations to begin today after U.S. strikes called off - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ1dLLUtEN1BOZURoRGtpQ1JYaDRibllHa25fRHBpNXlrSUdLV1N3NzVETUFZN3FXTFZlUTB2dmJWd1hSWUNRdDdVcUNnTmNfTTgtVXd1eTJ3WmNoRWxrY2FhcFdlX1d4bUxQdzVIcWM5RHNHNDBsOEN0TjFVTGN5ZHMtZkJ2SW5JTVJLWC04YzJmRG9CTlM5MGRVdzFTNVNYcVVOcGlzeFlSamc?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 14:25:00 GMT"
+        },
+        {
+          "title": "How Iran is widening its pressure campaign to force US concessions - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU2VYbG9DT1JoZWlaZkxlVTc4T01mcjJ0cU9rc2FCWWxuY1dONTVmN0ZTU1RUZzlLUTNGbzgzYURCTFFqZzRWVXZSWXZKZC1Ldm05dFVOdmNZdnlxRVBBUzE2VDVjSU1wMlFXMkFBeDlKeVBuRWQxa2tYV1hPb0hvOHdRd0JvUGREek5HZXhuVXpMR0RBZzdKSE1fNmIyQWVzRVdfUEEzdkt5Zm1XNUVOVnpnbEg3bnNu?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 10:02:50 GMT"
+        },
+        {
+          "title": "Trump claims Iran talks will start Monday, and other developments in the Middle East - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXk4T2kzT3g2bk5zc040bF9IVk1UTlB2WXNoa2tPTldBbjdRY0F6dFo5dk1YY1N1YUFFaFpONHdWeG9YaENDaG9KcExEUHJCdUYwdEV1c3lGMURoenctSVlaUW93ODYwUi1SSGdRd3lWNkpGazlMYndZT0p3TzhWZ3lEWVBSZDdFblJVbnpIZnhLWTNvc2h0MU81SHJRNDBrb3c?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 13:12:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Trump",
+      "count": 4,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Live Updates: Iran denies Trump's claim that U.S.-Iran negotiations to begin today after U.S. strikes called off - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ1dLLUtEN1BOZURoRGtpQ1JYaDRibllHa25fRHBpNXlrSUdLV1N3NzVETUFZN3FXTFZlUTB2dmJWd1hSWUNRdDdVcUNnTmNfTTgtVXd1eTJ3WmNoRWxrY2FhcFdlX1d4bUxQdzVIcWM5RHNHNDBsOEN0TjFVTGN5ZHMtZkJ2SW5JTVJLWC04YzJmRG9CTlM5MGRVdzFTNVNYcVVOcGlzeFlSamc?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 14:25:00 GMT"
+        },
+        {
+          "title": "Trump claims Iran talks will start Monday, and other developments in the Middle East - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXk4T2kzT3g2bk5zc040bF9IVk1UTlB2WXNoa2tPTldBbjdRY0F6dFo5dk1YY1N1YUFFaFpONHdWeG9YaENDaG9KcExEUHJCdUYwdEV1c3lGMURoenctSVlaUW93ODYwUi1SSGdRd3lWNkpGazlMYndZT0p3TzhWZ3lEWVBSZDdFblJVbnpIZnhLWTNvc2h0MU81SHJRNDBrb3c?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 13:12:00 GMT"
+        },
+        {
+          "title": "Board of Peace envoy laments recent Gaza strikes amid effort to implement Trump plan - The Times of Israel",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYTdWN2dfWURPUF8ta2JIVThVdDJtaDRKeWpVRWYyY21jYXA2UC1fc0RkT1lSanV4SG5QU2lDeXU4WEN5Sm5hczdkeHY1Q1hkSUNvdnJNbVRzN3NsN3ktRXJ1N0plNW9TSmFwRlRTaE8zVkxtWFVUZVpHaDgzT0ZZcGo3Zll0N2lWTTVlMnlVY0lFOTVhSE9kYjYwdkR4ZlBRMWExRDFLTlhKVDR6aVY2TE5zU2RUZ9IBuwFBVV95cUxPZ3o2cWNqcnU2d2hTeE5UelI1WEZfSWs5M3NnVWEwMG9Od1Q2anJPV0YyQzVwSFcxVTNzZHVJZy0wQWFLRXNBc3ZZRU5fTWZ5QVNhemppelp1Yy1IYjRJRjhfQnpFWFZrekoxY1BJaGxhS1Q5REc4WVpMRUtITGFpM25teU40Um5MMGQ5SFJZNG92RG1RY1RLRHRfV19MZElSYVE0NDdBWXYydElGc1lJSEZFQXhhelZsbXow?oc=5",
+          "source": "Google News",
+          "published": "Sun, 02 Aug 2026 23:40:49 GMT"
+        },
+        {
+          "title": "Dow futures jump 600 points after Trump calls off planned attacks, oil prices slide: Live updates - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPYTd2SDI1UzhVYy1QQ0RaUi1KOE1rSFJCQmxHeTlnM3ZZQmFXdWZQWng1dldOUFA2S0RBMDdfX0pzNUR0ZVBRQXlRSExfY0NPdmljZ09pMmp1N0RSWFA3MkgybG5uTUQ5blFoWXNlc2NmbE9UQzdj0gF8QVVfeXFMT2dad3JfYjlzX3lVT3d5a3lGMTRWdndwYmlyd3ZCX0tKYWxHcG1mODdIQndhN19VY2czWnZwTDFfeFlsTnl4ZlZhdkloNFh1Uy1NRkZwZkphSndSOHNFN0RKSWFXMDluMmREd0NiVlRYU3dXUjJMMmg5VS1kVQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 13:06:00 GMT"
+        }
+      ]
+    },
     {
       "word": "Deal",
       "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Acting AG Todd Blanche reaches deal with holdout senators to scrap $1.8B ‘anti-weaponization’ fund - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMkNNQkgzUnpxdEFDMUZ1Um5Pdnl1cXR0X2tGeTh0eVE4azFjZEpxOVU3elNab0h4elZvQTkzd3NDUTdiR1NDX2d6Nk1VSnhleVllZkNLb2NuUlpKbGlXWGhYOVFqMnIzOFNmb19rVHVkWi1iQ2JjWFhSeldQQ3NfSC1wZndHbkNzOF85eVVYc0UyNGhqamF1SlRFOEZZcmNJUGMxMEJtaFlPMktXMXota2ZLRW5QYTU4ZnlENk1oSVA?oc=5",
+          "title": "Blanche formally rescinds plan for ‘weaponization’ fund, in deal to advance AG nomination - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd0xGcjM4UVd4V1BURkJGWTQwMThJb0VqSTBrSVRCVTBVczFwTkpVS2RiMHZjVWZRQXNiSm1jOTZrWWN3b3lMdVdSV1Vzb0N5MDBrVHlwSFhOeXpCN3lDRWZaWnZDVUtNVEs1Z3ZOOWYwVjVRejcxVE9hSmhQZzFXZ0RlbU82TlQ1cG9WemVFRllzLTBjT1pYd2s1YVE0NWYzemhVLVRKdkFMV21tMmZ3OVhMTURDb3ZoQWVOWk5iVDQ0WmotWWNMWHY2MHRaUlZ0RTFj?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 07:46:00 GMT"
+          "published": "Mon, 03 Aug 2026 13:41:23 GMT"
         },
         {
-          "title": "Israel says it has serious concerns with Hamas disarmament deal - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUU5CY216dkdHTXZGZUZYUmt6WXRhZWlSMTVmc2xydFZwb3ZCQ2Vfbk0wRzI1aWxNRHpkUTgyUks3aHNGZ2dkS2RvSWhGbXFoNERoZGs0a1FOSVUwUi1YTVlLVXBTek5YRzcxb0FMQlIxdjRQeFIyNlA5Szh1MFhnVHhUZ1RFUk1Gdi1yUFRUcS1HSmhzLTFESGh3N1BRVG9EVTBqLWFJdUxwTXN0UUlpN2R0QQ?oc=5",
+          "title": "WestJet reaches tentative deal with flight attendants after brief strike snarled traffic - ABC News - Breaking News, Latest News and Videos",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNWlWSzBJa09TUjExSm1Na0lRRENPc1pJNXZabmlQRndGN3Ayd0l0QVZXclJKNFFIZUY5bjdUSXZvSWRPMHJyNXdMcHVzVFpoM1NZcVBsSXphcG90Qjh6MXh3dDQ5bmN5eFZjZUItUThTVHUycmtwNW9RbGtmcWlVOUR2TDVCeVVXZk85SDh0Nkd2bEhWTlhaQUZJTFQ4UlhCdjdXX3o0Q3ZwU3Uz0gGyAUFVX3lxTE4ySlotS1pzd0RoQjUxNXJvaW0yRVFfRHFBdVV5VGlDTXdxVWZpSzlaSG9RV0xQb1lmeXNKRkJWVmQtTGZBZ056cTd2b0FoZmR4WXdxYUVJWmtrZGRSb3JoV1pyZXp5ekNqNU50QkpvVUFWeVNma3B1ME5zZDNBdWM4a2ZkLXA4djBfUDNSaTI1UjlQSWYwejlRTm5taDZaZWlpb05xSGdGOXByLUJYaTFSTWc?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 04:06:00 GMT"
+          "published": "Mon, 03 Aug 2026 12:53:01 GMT"
         },
         {
-          "title": "Nationals trade infielder Luis García Jr. to Yankees in deal for 4 pitchers - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZU1xamM3WG1faG56WjktSGNyWDNSc0xHV1VzZkNEUU8tQ3ptaXRPR05wcHFyOXllQTg3X2p6VVNnMWJReDhlUGo0N1N4RnpuNm51dkk3eDlxdmtVbFZPenRJLWZqTWZ4ZUR2ZkdyaWcwRGJBaFl5MU1vbFBteEVKMk1sNTRVOGJMYkJuQlFRQTEzazQwVEl3b2FzcWh3S3NYakhUT3RzYw?oc=5",
+          "title": "Visa beefs up cybersecurity offerings with $2.4 billion BioCatch deal - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLVFQdnYtT25JcU9yZC1KUVlDaTN6djh5UjRtdDV0bFM2N2lXZWFfZXBoSFN5LXpuSFJDZkcxMWZUdzhyYzFfUFhtSS15OGxmR2N6X25zOEtkNjVMdWw3d3loUG1YNXVyMW9waHBELVNMMWdZMHNnNFJmZmFMaE9ZWDdKeWtrZGNPamRScm5SV2Q0UFBsaDFuUk1JX2hnSndseUVhV2VESW1zZDlVNnhjSVBn?oc=5",
           "source": "Google News",
-          "published": "Sun, 02 Aug 2026 23:04:33 GMT"
+          "published": "Mon, 03 Aug 2026 13:11:18 GMT"
         }
       ]
     },
     {
-      "word": "Know",
+      "word": "Live",
       "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump says new Iran negotiations starting: What we know - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWGdNdW9TZk1weWFsQnp1TXJQdEFpek9zNU54c2RDbWFLYVZnZ1c4X000SEVoMzJBT1o0TnB6SGlxSXpabnhWcDFXdmVGV2lERUFuSmhkUFpYUHFEZmVwbEcwQU9IeVhobFc2dEtZZG1vRWNiUUdncTIzVGJYUE5EcG5UMS0yMnNiWkh6czVfcDdUUTNXRWswVlVn0gGfAUFVX3lxTE8xenluRGFhNEJNXzl6aHNveThpd1djU0NkZnVXVmRpWkxqMUdBWWpiY1NOeWpRbnpuWlYzUXNlSWtVbEdSVkI1WGYySWQ0TEJiaXBteVJaT0tzMkFUQ0RrOGxzNm9ISUxvbS12WDc2enZTR0tONnkwUnFZWkRzby0yOEYtYXVMaUFDSFIxelBDNWt6RmxQVU9UcUJldUdpQQ?oc=5",
+          "title": "Live Updates: Iran denies Trump's claim that U.S.-Iran negotiations to begin today after U.S. strikes called off - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ1dLLUtEN1BOZURoRGtpQ1JYaDRibllHa25fRHBpNXlrSUdLV1N3NzVETUFZN3FXTFZlUTB2dmJWd1hSWUNRdDdVcUNnTmNfTTgtVXd1eTJ3WmNoRWxrY2FhcFdlX1d4bUxQdzVIcWM5RHNHNDBsOEN0TjFVTGN5ZHMtZkJ2SW5JTVJLWC04YzJmRG9CTlM5MGRVdzFTNVNYcVVOcGlzeFlSamc?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 09:51:27 GMT"
+          "published": "Mon, 03 Aug 2026 14:25:00 GMT"
         },
         {
-          "title": "What to know about August's total solar eclipse - KING5.com",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdWx3bkhhS0paajdDenlzUC1ncU1VQldSMUFtYmVVbjJXVHZZV29JRVJKOUdxeGxvQ3NTWW5DYWhmUXZfcU5QY3YwdzlablJuV3I4UUZKdE84LVBsQko0VC1XNzlWWnlkUmVBM01GbElPZUY0S0gzTWRiR2dHdWRxN0FYdEpfSy1OX2RuUTc2emNTYzg2d1hzdG9aclZGOHNaMTNPZ3Qya3ZXaFVvVUxMRVhFZzhzMDdRN0kySHFETnU0ZXZpNVE?oc=5",
+          "title": "Live updates: Almost 65,000 people evacuated as Spokane County wildfires cause ‘heartbreaking’ devastation - CNN",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44VzlrYzNmRUZobWN6QndOZGJDY1dhcTlBSjZFUkhuY004TzdQSC1rak10N0xWQVJzZm53Z1Y2X0M1RUV2Tmgxd3RWV3FMR0ppN09zbExpMTlidThlZUNHYXpFcGNZQlV1bEtGQ0hKaHk0ZVNON09LTlVVbGQ?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 01:32:00 GMT"
+          "published": "Mon, 03 Aug 2026 14:40:00 GMT"
         },
         {
-          "title": "Column | What to know about cancer risk if it runs in your family - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONC1XSEM2UWV2ZVBkeHJ1ZmU4RUVCM1NRUXJ5bWhUWE0tVTdrTUkzem5tVUFzQXo0QUY5Vk0tSUVHdG0xSWNsdV9Zc2NrbXA0OTJLZzhqNHRZWUlfOTFYa0F5cERYZ1lMQlpjYXo5NU9ncTV4VENqdVBMcTZSQVVJRWJHT0M4SDVuZTVwUnJ5Z0w4YVV2eU1sVXAxM0VJQXB0d0E1cQ?oc=5",
+          "title": "Dow futures jump 600 points after Trump calls off planned attacks, oil prices slide: Live updates - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPYTd2SDI1UzhVYy1QQ0RaUi1KOE1rSFJCQmxHeTlnM3ZZQmFXdWZQWng1dldOUFA2S0RBMDdfX0pzNUR0ZVBRQXlRSExfY0NPdmljZ09pMmp1N0RSWFA3MkgybG5uTUQ5blFoWXNlc2NmbE9UQzdj0gF8QVVfeXFMT2dad3JfYjlzX3lVT3d5a3lGMTRWdndwYmlyd3ZCX0tKYWxHcG1mODdIQndhN19VY2czWnZwTDFfeFlsTnl4ZlZhdkloNFh1Uy1NRkZwZkphSndSOHNFN0RKSWFXMDluMmREd0NiVlRYU3dXUjJMMmg5VS1kVQ?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 11:32:32 GMT"
+          "published": "Mon, 03 Aug 2026 13:06:00 GMT"
         }
       ]
     },
     {
-      "word": "Died",
+      "word": "Updates",
       "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Suspect in shooting at Idaho fast-food restaurant died from self-inflicted gunshot wound, police say - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbmxQdEZiSXlLeERWT1Mya3c4bm5OWWtvOGxyNjJ5LUFGYjBHeTZlVjA3SkdfNUNyQzhNTE5Rc0tDcXRLUW9Zdkd6aWFBcElaMEl1b3FIbkxpWkYyQTJZUzBlYXg3RDlOYWNUd1cwV0ROUGppZlkzcG5uY1RZWnBZX29SNlI0a1RwbzY0YzZSX0lJSHpONWpmZUJHLTMyVmRfZFhVMUpUNXJKZw?oc=5",
+          "title": "Live Updates: Iran denies Trump's claim that U.S.-Iran negotiations to begin today after U.S. strikes called off - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ1dLLUtEN1BOZURoRGtpQ1JYaDRibllHa25fRHBpNXlrSUdLV1N3NzVETUFZN3FXTFZlUTB2dmJWd1hSWUNRdDdVcUNnTmNfTTgtVXd1eTJ3WmNoRWxrY2FhcFdlX1d4bUxQdzVIcWM5RHNHNDBsOEN0TjFVTGN5ZHMtZkJ2SW5JTVJLWC04YzJmRG9CTlM5MGRVdzFTNVNYcVVOcGlzeFlSamc?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 00:09:00 GMT"
+          "published": "Mon, 03 Aug 2026 14:25:00 GMT"
         },
         {
-          "title": "Kay Granger, first Republican woman from Texas to serve in the House, has died at age 83 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbldmSFRRT0ZPMThZaEVtaUkzbml4Ymx3Q1NHWG9jYk5jSllENUkxTUZWMURTMnJnZFFZYlB4RHlBckplWmRfTTE0dTRFU2ZpVVB2b1cwTlZaUjBSbjVhNG1vNG9kLVB3ZUE5a2FERWFNMUh4bTJ6TU1scWU5U211VUFkWkJlb0FuckIxcS1pYnFlbDg?oc=5",
+          "title": "Live updates: Almost 65,000 people evacuated as Spokane County wildfires cause ‘heartbreaking’ devastation - CNN",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44VzlrYzNmRUZobWN6QndOZGJDY1dhcTlBSjZFUkhuY004TzdQSC1rak10N0xWQVJzZm53Z1Y2X0M1RUV2Tmgxd3RWV3FMR0ppN09zbExpMTlidThlZUNHYXpFcGNZQlV1bEtGQ0hKaHk0ZVNON09LTlVVbGQ?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 03:42:00 GMT"
+          "published": "Mon, 03 Aug 2026 14:40:00 GMT"
         },
         {
-          "title": "Phil Collins Says He Nearly Died From Alcohol Abuse: “I Was Very Lucky” - Deadline",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUllVT3BZSElmMFFUTklrSHNnYTZtVk03OXNEaWtKRFVWV2F4YVJQX01pdmFoQjh3M2plblFWNXJUaHo0RWdocFU3Q3dxbHlfak1JRE9EVjhfTHQwUHFoamg1SFZrMnZFQmJSc3c4X2hGRUtEQlBFcFdEWEEyeVAtS2hB?oc=5",
+          "title": "Dow futures jump 600 points after Trump calls off planned attacks, oil prices slide: Live updates - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPYTd2SDI1UzhVYy1QQ0RaUi1KOE1rSFJCQmxHeTlnM3ZZQmFXdWZQWng1dldOUFA2S0RBMDdfX0pzNUR0ZVBRQXlRSExfY0NPdmljZ09pMmp1N0RSWFA3MkgybG5uTUQ5blFoWXNlc2NmbE9UQzdj0gF8QVVfeXFMT2dad3JfYjlzX3lVT3d5a3lGMTRWdndwYmlyd3ZCX0tKYWxHcG1mODdIQndhN19VY2czWnZwTDFfeFlsTnl4ZlZhdkloNFh1Uy1NRkZwZkphSndSOHNFN0RKSWFXMDluMmREd0NiVlRYU3dXUjJMMmg5VS1kVQ?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 01:44:00 GMT"
+          "published": "Mon, 03 Aug 2026 13:06:00 GMT"
         }
       ]
     },
     {
-      "word": "Prices",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Stock Market Today: Return to Diplomacy Brings Reprieve for Oil Prices — Live Updates - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZTI2NlhSeXdua2NNNnlSQVhjaXRJdEs3QnExblJQWHBLdndrREVxb3JpV0JtaXE1M1l0ekxqa1B3a0d2MGJUdE5oaWc2S2JvREhtRUhZdldCeml1NFVQWWlzM3lZZmZ1NGJ2aGJwdElTMWZiUHZMWTh1MWxKZmlwc1BIZ3RKRHM?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 11:35:00 GMT"
-        },
-        {
-          "title": "Microsoft Raises Xbox Prices by Up to 43% in Europe and UK - TechPowerUp",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSWJjWlVoLUI1ZWxqZkhHMm51V0ZjWGNMXy1zRGZqajNyVVJtQUlvM2M2eThBLVJDQlE5VTFqVF9hNWk3UjdzTmtSS01vNS1ULVo1RDRLLVhWb1JNRFdJS1J0UGVXWWJCYUV1QXBKUDFzVnY2UDBjeDFtVXR6aVlLU3VrQUMzbUpwQXhwTmQ4U09ObUZWaW9F0gGcAUFVX3lxTE9zbnZKYUJPRUwwNVBCelNuSUp5ODIzaFIxNHY5RDI0cEF5aUhhSlpjWDluR01ZSllETDBybE8xSmpnNnJ0VUhaMW9uNXpOMlQyN0EycGZBWElITHoyZ0RHRUlPVmdCYkFOa21MTTRTS01mNzVNMVF4T0o1QV9CYUpoQzhpYWgzUm5YU1hTUWp0YVBYT2pYaHpMcnQtNA?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 05:00:00 GMT"
-        },
-        {
-          "title": "Samsung Galaxy S27 Ultra: Weird camera designs and higher prices tipped - Notebookcheck",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNHo4S1pSbC16ZUQwY09TeWxjbFNranktRkc1WGI0N2RpVDJfZGVUNG00bk9EV3B5Q0U4X1JZaFFnOFJmcVlNUXp1Y1ROakl2aXNOSFhuUHVpbWc0d3lSd1EtYkRZaHBrS0Y5a011ekQ4dGF1YXhib1BMaThzWWxubGw0a1g4LXhfQWVRV0Z3UXQ4SVVveXpCUGV0U1lnRHdQQmMtNER3U0JpaTVlY05TREJBVjhQZw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 02 Aug 2026 17:28:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Trump",
+      "word": "Plan",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump says new Iran negotiations starting: What we know - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWGdNdW9TZk1weWFsQnp1TXJQdEFpek9zNU54c2RDbWFLYVZnZ1c4X000SEVoMzJBT1o0TnB6SGlxSXpabnhWcDFXdmVGV2lERUFuSmhkUFpYUHFEZmVwbEcwQU9IeVhobFc2dEtZZG1vRWNiUUdncTIzVGJYUE5EcG5UMS0yMnNiWkh6czVfcDdUUTNXRWswVlVn0gGfAUFVX3lxTE8xenluRGFhNEJNXzl6aHNveThpd1djU0NkZnVXVmRpWkxqMUdBWWpiY1NOeWpRbnpuWlYzUXNlSWtVbEdSVkI1WGYySWQ0TEJiaXBteVJaT0tzMkFUQ0RrOGxzNm9ISUxvbS12WDc2enZTR0tONnkwUnFZWkRzby0yOEYtYXVMaUFDSFIxelBDNWt6RmxQVU9UcUJldUdpQQ?oc=5",
+          "title": "Blanche formally rescinds plan for ‘weaponization’ fund, in deal to advance AG nomination - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd0xGcjM4UVd4V1BURkJGWTQwMThJb0VqSTBrSVRCVTBVczFwTkpVS2RiMHZjVWZRQXNiSm1jOTZrWWN3b3lMdVdSV1Vzb0N5MDBrVHlwSFhOeXpCN3lDRWZaWnZDVUtNVEs1Z3ZOOWYwVjVRejcxVE9hSmhQZzFXZ0RlbU82TlQ1cG9WemVFRllzLTBjT1pYd2s1YVE0NWYzemhVLVRKdkFMV21tMmZ3OVhMTURDb3ZoQWVOWk5iVDQ0WmotWWNMWHY2MHRaUlZ0RTFj?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 09:51:27 GMT"
+          "published": "Mon, 03 Aug 2026 13:41:23 GMT"
         },
         {
-          "title": "What smart people are saying about Trump Media charging for faster access to Truth Social posts - Business Insider",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR0dGcWFyaWFhMXZkZkF6UE9TenNUU3FOMGVVb3pxSU52VWFzMFF1ekFrYS1mRUk4d1h2QWJEN0FMejNjenVzVlo4NHllUGtZUXhKM01penY4Y3N1NERjRXBvdnVMSzA3RFlIRnJCSXVobGRMVXFDUmxrVFJfZzkzMzZNWWozRVFBVUE?oc=5",
+          "title": "Board of Peace envoy laments recent Gaza strikes amid effort to implement Trump plan - The Times of Israel",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYTdWN2dfWURPUF8ta2JIVThVdDJtaDRKeWpVRWYyY21jYXA2UC1fc0RkT1lSanV4SG5QU2lDeXU4WEN5Sm5hczdkeHY1Q1hkSUNvdnJNbVRzN3NsN3ktRXJ1N0plNW9TSmFwRlRTaE8zVkxtWFVUZVpHaDgzT0ZZcGo3Zll0N2lWTTVlMnlVY0lFOTVhSE9kYjYwdkR4ZlBRMWExRDFLTlhKVDR6aVY2TE5zU2RUZ9IBuwFBVV95cUxPZ3o2cWNqcnU2d2hTeE5UelI1WEZfSWs5M3NnVWEwMG9Od1Q2anJPV0YyQzVwSFcxVTNzZHVJZy0wQWFLRXNBc3ZZRU5fTWZ5QVNhemppelp1Yy1IYjRJRjhfQnpFWFZrekoxY1BJaGxhS1Q5REc4WVpMRUtITGFpM25teU40Um5MMGQ5SFJZNG92RG1RY1RLRHRfV19MZElSYVE0NDdBWXYydElGc1lJSEZFQXhhelZsbXow?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 10:35:00 GMT"
+          "published": "Sun, 02 Aug 2026 23:40:49 GMT"
         }
       ]
     },
     {
-      "word": "Rep",
+      "word": "Man",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Rep. Max Miller not dropping out after domestic abuse allegations - Axios",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZX05Oejc3VkxMZENHSzVIN3Zwc2JaeWNXOXJKM2laeWRBd3hhOFBpZ1Q4RDVMa1Ita1pXTjBIaUdIZDAxTjlXeVRVcXRoR21RdnJTOHFkRUhQQk5PdVdiSzd5VnJrY3NYbEJCcXB4QjJBNEhHc3g0?oc=5",
+          "title": "Man who returned fire at In-N-Out gunman had done firearm training after 2021 mass shooting - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wTFVWblI4cTh6Nlh1a2ZfU1NaS1RBX1Bzb2ZTbnVJYzRLOUxsTEJFTThGY1VrT3FFdHFmSmt5MjNXMHo5ZlAtaWtUcEdPaW4tbF9nZVFVU0tzaUJaSElCelhCLUwyNTZWWmFVS3VCYU5RdVNUNllIeUozaw?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 09:44:34 GMT"
+          "published": "Mon, 03 Aug 2026 14:16:00 GMT"
         },
         {
-          "title": "U.S. Rep. Marcy Kaptur ‘active, alert’ after crash; person involved at large - Toledo Blade",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN3Vqcnl0ZnkyT1dSYVhabGtGUTFheHBUVlUtWU5ieXY3dUJ1SnkxRV85MGxTalNKR0ZURXR1UjdrVmhxeERTSVpSWEM5OWpjemVYcVVSNm5EYjNjUWllMXprWFpwZkFfcS1oRXk5THJpZ0NKMDFZTFFJUGI4LU0zZ2Jhd0Z3d2hTR0VFSEVuYmVUWWZuamhGMWNlRE9NUkpfY0NWSVFNMzhqVjk4cHVBQ0tvc2NWS1o0bW4wckxhR1NlYktrbU9GUV9uU3ViNHJiX3p2Nw?oc=5",
+          "title": "‘Spider-Man’ Beats ‘Avengers: Endgame’ as ‘Brand New Day’ Climbs to $360 Million, the Biggest Opening Weekend in Box Office History - Variety",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQX1ZDRUVQR2gzOEh0TGo0Snd6NzVSUXNxUzBvYkRJWWc2T0l0OHRrQlh0MTBSME9uaTJfQXRVQ1ZDc3MyNHpvSC1SOTZKUEVxYmxTMnV1dlU2YkVlbnNvRElsSjU0X1pLYUtOVjZkS2pwWFR6cXhTOXR6WmJSclF5eHItM3g4UUVmSnNZdkZtRUJVWnNrbVpwOGNtRjlyc01LVmlfdDhaR2xJZVpnVW00X3gzWmhuS0hBUlFacQ?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 04:29:38 GMT"
+          "published": "Mon, 03 Aug 2026 14:37:00 GMT"
         }
       ]
     },
     {
-      "word": "Abuse",
+      "word": "Mass",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Rep. Max Miller not dropping out after domestic abuse allegations - Axios",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZX05Oejc3VkxMZENHSzVIN3Zwc2JaeWNXOXJKM2laeWRBd3hhOFBpZ1Q4RDVMa1Ita1pXTjBIaUdIZDAxTjlXeVRVcXRoR21RdnJTOHFkRUhQQk5PdVdiSzd5VnJrY3NYbEJCcXB4QjJBNEhHc3g0?oc=5",
+          "title": "Man who returned fire at In-N-Out gunman had done firearm training after 2021 mass shooting - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wTFVWblI4cTh6Nlh1a2ZfU1NaS1RBX1Bzb2ZTbnVJYzRLOUxsTEJFTThGY1VrT3FFdHFmSmt5MjNXMHo5ZlAtaWtUcEdPaW4tbF9nZVFVU0tzaUJaSElCelhCLUwyNTZWWmFVS3VCYU5RdVNUNllIeUozaw?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 09:44:34 GMT"
-        },
-        {
-          "title": "Phil Collins Says He Nearly Died From Alcohol Abuse: “I Was Very Lucky” - Deadline",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUllVT3BZSElmMFFUTklrSHNnYTZtVk03OXNEaWtKRFVWV2F4YVJQX01pdmFoQjh3M2plblFWNXJUaHo0RWdocFU3Q3dxbHlfak1JRE9EVjhfTHQwUHFoamg1SFZrMnZFQmJSc3c4X2hGRUtEQlBFcFdEWEEyeVAtS2hB?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 01:44:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "GOP",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Senate GOP rushes to pass budget bill, avoid shutdown ahead of midterms - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMHRMT2dRbW1uVk5aUHBMaW0xc2xyR2o1R0lGb3MwNUtkYzhNdzUzVnREbGF1YnZiVjhYTi1pYTBhSkNPZWJILUkzcnRsQmxDallYR1pUZ2ljcXViNFRlNU1xdk9FaV9PR2ExbmJBbThPdlNPWnJyVktFUGJFei1FSTF4RWtvdkcxTWhFbGtkb3A2aTBOLU41NVpXMEtGVmFNZE85aTB1WkJ0cWhEMVVBa0dyR2h2WWdpQzlj?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 11:32:30 GMT"
-        },
-        {
-          "title": "Michigan’s GOP governor primary is getting weird - Politico",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRzhpSlgzVFRrNklEQk5jY1NkZUR1Z0tKZnRkNHl1dHZFR0RrTFRSNkw4UmJKUXhHSG9rMUZHUlhNUy1HYkNOWEZpZTRpR2ZoUDQwcUxXODJ4YWI0RzdnN3VfTUM5N3BxM3VYcnZCVG5LSWlnb19aeUw3azJ0MkRfaVBRMWkxczY4V0wxV3FtbjNHSm5OTkE?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 08:45:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Weird",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Michigan’s GOP governor primary is getting weird - Politico",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRzhpSlgzVFRrNklEQk5jY1NkZUR1Z0tKZnRkNHl1dHZFR0RrTFRSNkw4UmJKUXhHSG9rMUZHUlhNUy1HYkNOWEZpZTRpR2ZoUDQwcUxXODJ4YWI0RzdnN3VfTUM5N3BxM3VYcnZCVG5LSWlnb19aeUw3azJ0MkRfaVBRMWkxczY4V0wxV3FtbjNHSm5OTkE?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 08:45:00 GMT"
-        },
-        {
-          "title": "Samsung Galaxy S27 Ultra: Weird camera designs and higher prices tipped - Notebookcheck",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNHo4S1pSbC16ZUQwY09TeWxjbFNranktRkc1WGI0N2RpVDJfZGVUNG00bk9EV3B5Q0U4X1JZaFFnOFJmcVlNUXp1Y1ROakl2aXNOSFhuUHVpbWc0d3lSd1EtYkRZaHBrS0Y5a011ekQ4dGF1YXhib1BMaThzWWxubGw0a1g4LXhfQWVRV0Z3UXQ4SVVveXpCUGV0U1lnRHdQQmMtNER3U0JpaTVlY05TREJBVjhQZw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 02 Aug 2026 17:28:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Action",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Japan, US confirm joint yen-buying intervention, signal more action - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc1F4Y3VyazhKdVRROTNXNU9NVjBsbEVqWGFQZlJneWUtNmU5bTJUMHhrd3NETDluOTFCN3lOcVdrRXMzaHFiQ1hrU1hkMGZRNGI2Zm1RSGhDNVNuZDgtYlZTNE1FdVhjbFpTTUM1VHh3dHNvQ3ppbzVmajA1UVBBLVBtWGFFY2UxaEw2SUFuM1pNd3JqbWtIcUNob19TN3dY?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 10:26:20 GMT"
-        },
-        {
-          "title": "European soccer body UEFA warns FIFA of legal action over Infantino's failed World Cup sell-off plan - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS1lMdTNycFBsQVJid1UxY0RFd0xEcVRKdW5MM2NSRGlLUTVraUVtU2xuMzk5MGFUVXhzd19XUXJwajdiNTIxX3lGSGF6UlhLODdwbjhzc1d6c09DbWZzMjJyYmo4ZXBSQ1lRWEtSeHFBRjF2UDM4NzY4OFhGX3ZXS1h4YnFXU29WdS1jTE12RW1YVmNtZUliT0E0WQ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 09:30:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Risk",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Bond Traders Flying Blind on Fed See Risk Yields Spiral Higher - Bloomberg",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU3lQR01HSGpzLTQzeWh3QUthSXA2REFXa0hpY3ZpZ296Qm5PZG9IeHd6T2tybHprbkl3YWhydWJhb0UyY0ZoXy1pRmdFU2k4al9tdGdCdUJMenNrcjFfdnVuWEZELWhaR0dHNWZacXMweVktOXhzYXRLX3A3cDBRdlpNYVg1T1owdWFLOVdzVTZwbW5NQVBsX2FEMGo4ajRVczFnd29SUEdSR0UzaWV0RnJOSQ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 10:09:32 GMT"
-        },
-        {
-          "title": "Column | What to know about cancer risk if it runs in your family - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONC1XSEM2UWV2ZVBkeHJ1ZmU4RUVCM1NRUXJ5bWhUWE0tVTdrTUkzem5tVUFzQXo0QUY5Vk0tSUVHdG0xSWNsdV9Zc2NrbXA0OTJLZzhqNHRZWUlfOTFYa0F5cERYZ1lMQlpjYXo5NU9ncTV4VENqdVBMcTZSQVVJRWJHT0M4SDVuZTVwUnJ5Z0w4YVV2eU1sVXAxM0VJQXB0d0E1cQ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 11:32:32 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Higher",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Bond Traders Flying Blind on Fed See Risk Yields Spiral Higher - Bloomberg",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU3lQR01HSGpzLTQzeWh3QUthSXA2REFXa0hpY3ZpZ296Qm5PZG9IeHd6T2tybHprbkl3YWhydWJhb0UyY0ZoXy1pRmdFU2k4al9tdGdCdUJMenNrcjFfdnVuWEZELWhaR0dHNWZacXMweVktOXhzYXRLX3A3cDBRdlpNYVg1T1owdWFLOVdzVTZwbW5NQVBsX2FEMGo4ajRVczFnd29SUEdSR0UzaWV0RnJOSQ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 10:09:32 GMT"
-        },
-        {
-          "title": "Samsung Galaxy S27 Ultra: Weird camera designs and higher prices tipped - Notebookcheck",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNHo4S1pSbC16ZUQwY09TeWxjbFNranktRkc1WGI0N2RpVDJfZGVUNG00bk9EV3B5Q0U4X1JZaFFnOFJmcVlNUXp1Y1ROakl2aXNOSFhuUHVpbWc0d3lSd1EtYkRZaHBrS0Y5a011ekQ4dGF1YXhib1BMaThzWWxubGw0a1g4LXhfQWVRV0Z3UXQ4SVVveXpCUGV0U1lnRHdQQmMtNER3U0JpaTVlY05TREJBVjhQZw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 02 Aug 2026 17:28:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Camera",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Samsung Galaxy S27 Ultra: Weird camera designs and higher prices tipped - Notebookcheck",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNHo4S1pSbC16ZUQwY09TeWxjbFNranktRkc1WGI0N2RpVDJfZGVUNG00bk9EV3B5Q0U4X1JZaFFnOFJmcVlNUXp1Y1ROakl2aXNOSFhuUHVpbWc0d3lSd1EtYkRZaHBrS0Y5a011ekQ4dGF1YXhib1BMaThzWWxubGw0a1g4LXhfQWVRV0Z3UXQ4SVVveXpCUGV0U1lnRHdQQmMtNER3U0JpaTVlY05TREJBVjhQZw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 02 Aug 2026 17:28:00 GMT"
-        },
-        {
-          "title": "3.2-Gigapixel LSST Camera Captures Over Half a Million Galaxies - PetaPixel",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZHBhTGc0OGNrUjB0QkxobDZfX0hPMW94d2wwRzhzSWdDTVNaTWk4UW0wSW9fWU5Eai1rbjdXYWR6eC1LVk51NjdLWHRpN1NObVlSVE9Hd1VxOHpFVi1DanJ5LUVPTVU5QVlSRU1YTVVfS0VtZGNoLVN6dG53SE9rcnF2MmxjcXFIbWE5ZVA3R0xsc3ZFRlVXZ21LTVFZUQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 02 Aug 2026 14:49:20 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Million",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "China Box Office: ‘Spider-Man: Brand New Day’ Swings to Massive $121 Million Five-Day Opening - Variety",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdUR6VjdvdjY0YlJMbHRTcVV3YVM4Ynp0OHBndFF4V25CVmNuemo2YjlaQjVVYy1pckNnUUhzVncwYktNMS1TYjFXc1NZNGdiNXZBYmV1c0I5TEcwYVBoa0c4MDR3V19iOFcxY19qNUZocWE3NnZCazh4Z0JyN0E1Y0tmTXgzLW5tZFh3UW5oQ2Vob0hpay1JUDUzWTRON3NnZzhqeEZIazdqZw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 05:55:00 GMT"
-        },
-        {
-          "title": "3.2-Gigapixel LSST Camera Captures Over Half a Million Galaxies - PetaPixel",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZHBhTGc0OGNrUjB0QkxobDZfX0hPMW94d2wwRzhzSWdDTVNaTWk4UW0wSW9fWU5Eai1rbjdXYWR6eC1LVk51NjdLWHRpN1NObVlSVE9Hd1VxOHpFVi1DanJ5LUVPTVU5QVlSRU1YTVVfS0VtZGNoLVN6dG53SE9rcnF2MmxjcXFIbWE5ZVA3R0xsc3ZFRlVXZ21LTVFZUQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 02 Aug 2026 14:49:20 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Warns",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "European soccer body UEFA warns FIFA of legal action over Infantino's failed World Cup sell-off plan - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS1lMdTNycFBsQVJid1UxY0RFd0xEcVRKdW5MM2NSRGlLUTVraUVtU2xuMzk5MGFUVXhzd19XUXJwajdiNTIxX3lGSGF6UlhLODdwbjhzc1d6c09DbWZzMjJyYmo4ZXBSQ1lRWEtSeHFBRjF2UDM4NzY4OFhGX3ZXS1h4YnFXU29WdS1jTE12RW1YVmNtZUliT0E0WQ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 09:30:00 GMT"
+          "published": "Mon, 03 Aug 2026 14:16:00 GMT"
         },
         {
           "title": "Australia warns H5N1 likely to spread after first mass mortality episode - Al Jazeera",
@@ -313,66 +192,263 @@
       ]
     },
     {
-      "word": "August",
+      "word": "Strikes",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "What to know about August's total solar eclipse - KING5.com",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdWx3bkhhS0paajdDenlzUC1ncU1VQldSMUFtYmVVbjJXVHZZV29JRVJKOUdxeGxvQ3NTWW5DYWhmUXZfcU5QY3YwdzlablJuV3I4UUZKdE84LVBsQko0VC1XNzlWWnlkUmVBM01GbElPZUY0S0gzTWRiR2dHdWRxN0FYdEpfSy1OX2RuUTc2emNTYzg2d1hzdG9aclZGOHNaMTNPZ3Qya3ZXaFVvVUxMRVhFZzhzMDdRN0kySHFETnU0ZXZpNVE?oc=5",
+          "title": "Live Updates: Iran denies Trump's claim that U.S.-Iran negotiations to begin today after U.S. strikes called off - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ1dLLUtEN1BOZURoRGtpQ1JYaDRibllHa25fRHBpNXlrSUdLV1N3NzVETUFZN3FXTFZlUTB2dmJWd1hSWUNRdDdVcUNnTmNfTTgtVXd1eTJ3WmNoRWxrY2FhcFdlX1d4bUxQdzVIcWM5RHNHNDBsOEN0TjFVTGN5ZHMtZkJ2SW5JTVJLWC04YzJmRG9CTlM5MGRVdzFTNVNYcVVOcGlzeFlSamc?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 01:32:00 GMT"
+          "published": "Mon, 03 Aug 2026 14:25:00 GMT"
         },
         {
-          "title": "NASA's Nancy Grace Roman Space Telescope, launching on a Falcon Heavy on 30 August 2026, carries a mirror the size of Hubble's but sees a patch of sky about a hundred times wider, built mainly to map dark energy and hunt for planets - Space Daily",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOMG1XU3BiSkVHU0tyVmJHQ0dXOEt6THJ4c1dUczZtdUtFaE03T3JPSVlnUnVXcHAyaG9kWC00Wl9HT1pyMjFYOV9PUlRVSG92bkVBY3ZfTmlITlBmQ3BYTDJXeGJjV0VjelpjQnNaTVVTRFZ6Umtxbk5JdzRTSVpTS1FYMmFLMnVRT1IzU2hhZ3VONUJMVGFHQ0RYUVZFM3MxcjJnOXdlYjd6RVhDYUhKMHdrXzRPS3JiWTgxdU5sSENhT1hPTnJIeEstNkx2a2o4UmxldjlxZjJVRG1hUWctOUI5YnhIUktIbWVBTFZxSjF2bldveENDTDlJbTd3T1ljX3ZlcjhKbndWc0xnXzc2dXlidXdjd3hhY3AyUUxuMVlERHpOczZwVnJ5eWtKMmN5NzdtMGFCU01SY1FOUFVlNi00eHRmYXM?oc=5",
+          "title": "Board of Peace envoy laments recent Gaza strikes amid effort to implement Trump plan - The Times of Israel",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYTdWN2dfWURPUF8ta2JIVThVdDJtaDRKeWpVRWYyY21jYXA2UC1fc0RkT1lSanV4SG5QU2lDeXU4WEN5Sm5hczdkeHY1Q1hkSUNvdnJNbVRzN3NsN3ktRXJ1N0plNW9TSmFwRlRTaE8zVkxtWFVUZVpHaDgzT0ZZcGo3Zll0N2lWTTVlMnlVY0lFOTVhSE9kYjYwdkR4ZlBRMWExRDFLTlhKVDR6aVY2TE5zU2RUZ9IBuwFBVV95cUxPZ3o2cWNqcnU2d2hTeE5UelI1WEZfSWs5M3NnVWEwMG9Od1Q2anJPV0YyQzVwSFcxVTNzZHVJZy0wQWFLRXNBc3ZZRU5fTWZ5QVNhemppelp1Yy1IYjRJRjhfQnpFWFZrekoxY1BJaGxhS1Q5REc4WVpMRUtITGFpM25teU40Um5MMGQ5SFJZNG92RG1RY1RLRHRfV19MZElSYVE0NDdBWXYydElGc1lJSEZFQXhhelZsbXow?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 00:10:48 GMT"
+          "published": "Sun, 02 Aug 2026 23:40:49 GMT"
         }
       ]
     },
     {
-      "word": "Falcon",
+      "word": "Strike",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Defunct part of SpaceX Falcon 9 rocket will slam into the moon - npr.org",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94NWR2SUJmY185X1JCVWZSZG82aGN0dDFjZWdLWEJfZUx6ZDV3NnhrUTYtZDhNSU1pN3lnemEwczJjN1V0M2tSNmFPQUpzRnBEajFRc1VlMm14T3ZaSjBmakRMWXZELUVWd1JJcllvQjA0S01SNmNWcQ?oc=5",
+          "title": "Ukraine hits Wildberries warehouse in latest infrastructure strike away from frontlines - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLVUV2NDN6eUVla2ZGa1FNVVFYVDl2TEpUZVk0NTJZVlJDdHpoS2h5OHFUZW5zdHBON1BLei1JNERpT2FXQ1FWYnpOS0o0WkwyOTh6Uw?oc=5",
           "source": "Google News",
-          "published": "Sun, 02 Aug 2026 23:38:05 GMT"
+          "published": "Mon, 03 Aug 2026 13:35:37 GMT"
         },
         {
-          "title": "NASA's Nancy Grace Roman Space Telescope, launching on a Falcon Heavy on 30 August 2026, carries a mirror the size of Hubble's but sees a patch of sky about a hundred times wider, built mainly to map dark energy and hunt for planets - Space Daily",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOMG1XU3BiSkVHU0tyVmJHQ0dXOEt6THJ4c1dUczZtdUtFaE03T3JPSVlnUnVXcHAyaG9kWC00Wl9HT1pyMjFYOV9PUlRVSG92bkVBY3ZfTmlITlBmQ3BYTDJXeGJjV0VjelpjQnNaTVVTRFZ6Umtxbk5JdzRTSVpTS1FYMmFLMnVRT1IzU2hhZ3VONUJMVGFHQ0RYUVZFM3MxcjJnOXdlYjd6RVhDYUhKMHdrXzRPS3JiWTgxdU5sSENhT1hPTnJIeEstNkx2a2o4UmxldjlxZjJVRG1hUWctOUI5YnhIUktIbWVBTFZxSjF2bldveENDTDlJbTd3T1ljX3ZlcjhKbndWc0xnXzc2dXlidXdjd3hhY3AyUUxuMVlERHpOczZwVnJ5eWtKMmN5NzdtMGFCU01SY1FOUFVlNi00eHRmYXM?oc=5",
+          "title": "WestJet reaches tentative deal with flight attendants after brief strike snarled traffic - ABC News - Breaking News, Latest News and Videos",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNWlWSzBJa09TUjExSm1Na0lRRENPc1pJNXZabmlQRndGN3Ayd0l0QVZXclJKNFFIZUY5bjdUSXZvSWRPMHJyNXdMcHVzVFpoM1NZcVBsSXphcG90Qjh6MXh3dDQ5bmN5eFZjZUItUThTVHUycmtwNW9RbGtmcWlVOUR2TDVCeVVXZk85SDh0Nkd2bEhWTlhaQUZJTFQ4UlhCdjdXX3o0Q3ZwU3Uz0gGyAUFVX3lxTE4ySlotS1pzd0RoQjUxNXJvaW0yRVFfRHFBdVV5VGlDTXdxVWZpSzlaSG9RV0xQb1lmeXNKRkJWVmQtTGZBZ056cTd2b0FoZmR4WXdxYUVJWmtrZGRSb3JoV1pyZXp5ekNqNU50QkpvVUFWeVNma3B1ME5zZDNBdWM4a2ZkLXA4djBfUDNSaTI1UjlQSWYwejlRTm5taDZaZWlpb05xSGdGOXByLUJYaTFSTWc?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 00:10:48 GMT"
+          "published": "Mon, 03 Aug 2026 12:53:01 GMT"
         }
       ]
     },
     {
-      "word": "Acting",
-      "count": 1,
+      "word": "Away",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Acting AG Todd Blanche reaches deal with holdout senators to scrap $1.8B ‘anti-weaponization’ fund - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMkNNQkgzUnpxdEFDMUZ1Um5Pdnl1cXR0X2tGeTh0eVE4azFjZEpxOVU3elNab0h4elZvQTkzd3NDUTdiR1NDX2d6Nk1VSnhleVllZkNLb2NuUlpKbGlXWGhYOVFqMnIzOFNmb19rVHVkWi1iQ2JjWFhSeldQQ3NfSC1wZndHbkNzOF85eVVYc0UyNGhqamF1SlRFOEZZcmNJUGMxMEJtaFlPMktXMXota2ZLRW5QYTU4ZnlENk1oSVA?oc=5",
+          "title": "Ukraine hits Wildberries warehouse in latest infrastructure strike away from frontlines - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLVUV2NDN6eUVla2ZGa1FNVVFYVDl2TEpUZVk0NTJZVlJDdHpoS2h5OHFUZW5zdHBON1BLei1JNERpT2FXQ1FWYnpOS0o0WkwyOTh6Uw?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 07:46:00 GMT"
+          "published": "Mon, 03 Aug 2026 13:35:37 GMT"
+        },
+        {
+          "title": "‘Sunday in the Park with George’ producers address Ariana Grande’s West End exit as she steps away from limelight - pagesix.com",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYWJuQngwN2tDOE5qOGF4Q1podjlKd2FNRkZhZ0t5TjNFb2xoU0cyYWE5bXdJdzJ2cFd0b0ZwWXRHWFVKT2RKeUpUS2gycjg5bUk1N19XeExLaWlHZUhXNnNaQzl5RjlrOHhXdXpkZy1DWTJQU0wydE1SUTZHMmstWXJFWUQ1MVNOamxCZ0d3SnRmXzBCNG5zY2NTazlDVWF0b0t0aVNBejFZOWlrSFBWMHM2VDFIRFVCTDV2a0Rxakpidw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 11:41:00 GMT"
         }
       ]
     },
     {
-      "word": "Todd",
-      "count": 1,
+      "word": "Senate",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Acting AG Todd Blanche reaches deal with holdout senators to scrap $1.8B ‘anti-weaponization’ fund - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMkNNQkgzUnpxdEFDMUZ1Um5Pdnl1cXR0X2tGeTh0eVE4azFjZEpxOVU3elNab0h4elZvQTkzd3NDUTdiR1NDX2d6Nk1VSnhleVllZkNLb2NuUlpKbGlXWGhYOVFqMnIzOFNmb19rVHVkWi1iQ2JjWFhSeldQQ3NfSC1wZndHbkNzOF85eVVYc0UyNGhqamF1SlRFOEZZcmNJUGMxMEJtaFlPMktXMXota2ZLRW5QYTU4ZnlENk1oSVA?oc=5",
+          "title": "Capitol agenda: Senate stopgap sets up fall clash with House - Politico",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUHZVUHRmRnBwV1dSUGgzS2FFaVhtNW4tYXZpR0dLTUFoYkppUDdscnA2NkRGQ0RXemtHYm0xZ0ZXbDZFaXF1UmxjZkdNUktOb2taamI2MFpwRXBRSTZjSnpGTHdKVzFVZ0hIemNlODhBWTNabVdORDBGcWRvY0szMXhIRVp2QjBiVW9iSTE4Z212UFRheERSeWNjWVJsaVNHTHVCYUd2V2R6Tzk1UDlZQg?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 07:46:00 GMT"
+          "published": "Mon, 03 Aug 2026 12:00:00 GMT"
+        },
+        {
+          "title": "Michigan’s Tense Democratic Senate Race Poses a Big Test for a Divided Party - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMlVHSFhWRmt1SldIS3o2bzVyd1VmZjZGcnpDVVY2QVNqWXNIZWxrRGxTRkdmbU40VVRHQl84Q1hiTk82NTYweWEyeEViWTFEMVJtMGFLZERwRk1rMTZzcG9GYzhILWxMVkVyQjZIZ01lX0steDdrNlA4TzFBT3c3dktsQmRqZFh1aFJBZlJuS1J3ZFNaY3BPTw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 09:00:58 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Talarico",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Republicans want to talk about James Talarico’s manhood. Talarico says let them. - Politico",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRGVteWVjUXN0UWpVME9BMjdUbzZpWXVCQW9iY29jU1hwaWpKbWI1am0tWWExZFEtcVdnVUZvc0JlSkFNXzRkanc4T0lsMnVCUWR5cUVFUTNXOFMxbFhtYUlrT0p6ZW1UYkFqc3owNEl6ZzFPWVk2bXBmN0F5T3ZUTUR3MXlwMVJ4Wm92SUJfTF92X3JZWFJQVlMya3c5QndaTWdJV2FzSE91NmJ2YnN1MThvNXhMT0doUUpIQnRGWUM4Ulh4OGc?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 08:45:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Michigan",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Michigan’s GOP governor primary is getting weird - Politico",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRzhpSlgzVFRrNklEQk5jY1NkZUR1Z0tKZnRkNHl1dHZFR0RrTFRSNkw4UmJKUXhHSG9rMUZHUlhNUy1HYkNOWEZpZTRpR2ZoUDQwcUxXODJ4YWI0RzdnN3VfTUM5N3BxM3VYcnZCVG5LSWlnb19aeUw3azJ0MkRfaVBRMWkxczY4V0wxV3FtbjNHSm5OTkE?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 08:45:00 GMT"
+        },
+        {
+          "title": "Michigan’s Tense Democratic Senate Race Poses a Big Test for a Divided Party - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMlVHSFhWRmt1SldIS3o2bzVyd1VmZjZGcnpDVVY2QVNqWXNIZWxrRGxTRkdmbU40VVRHQl84Q1hiTk82NTYweWEyeEViWTFEMVJtMGFLZERwRk1rMTZzcG9GYzhILWxMVkVyQjZIZ01lX0steDdrNlA4TzFBT3c3dktsQmRqZFh1aFJBZlJuS1J3ZFNaY3BPTw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 09:00:58 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Monday",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump claims Iran talks will start Monday, and other developments in the Middle East - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXk4T2kzT3g2bk5zc040bF9IVk1UTlB2WXNoa2tPTldBbjdRY0F6dFo5dk1YY1N1YUFFaFpONHdWeG9YaENDaG9KcExEUHJCdUYwdEV1c3lGMURoenctSVlaUW93ODYwUi1SSGdRd3lWNkpGazlMYndZT0p3TzhWZ3lEWVBSZDdFblJVbnpIZnhLWTNvc2h0MU81SHJRNDBrb3c?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 13:12:00 GMT"
+        },
+        {
+          "title": "MLB trade deadline 2026: Players most likely to be dealt Monday - ESPN",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSURlS25DRUtJN2stWW5ydURSZ1R5MWxsQUNEOTFaWG1UeUZDSlloVGVDc3NQMEtvWnNhRkx3SkdGeFFYbGpsNzdBQWZ0QmhIOTFDbDRKNE15QnVjdjVoRlo1QmtLNmxIUlpHcnk2S1RrTnRzNXJUcU12NTFfZWFXaUFrUlM2ZjNJNlBvWENkLUdsdHBqLUJUUC0tR0JYLU5rLVdaREQ3eHllTnFFbWdpR2VRMnp2NnJaWDlkdG9Ublg1QXNXZlRkQWllTQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 13:55:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Spain",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Spain's Ceuta overwhelmed as thousands remain after migrant border rush - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa3RUUGplUHRFOElCUjBiQUNPYWgyNDM5MTlLT3ZyVEN2dDBnRk5JOGIyWkkzYWpQdjNGQ253WlZCbk9OeHNWZmo4djllSmRGQVRZbXA4eEQ0TldYMnJFOV95ZzRvODJJb2xySTA5eFNiMFJGc0VnX29MSmRBODZ0QjNuaHpxTVUxcXJXa2FXaFFvdkQtRmdnS0FnTlRWZVhTTGY4QzVrbVV5TkVic0o1UGJaVnhpa1J0SDdv?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 12:05:43 GMT"
+        },
+        {
+          "title": "August's total solar eclipse will sweep over Spain, Iceland and Greenland - phys.org",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SeGl3UUNOdUM2b3BibGJxNjJzZVl2QnVwbEF0VEJGUDlqSmh3T3g5UUNUMW1OMzdWemtPMXJOcEtrbkNQQXlJT1RkdFFWckpaM2llUTdSRDhPWHA5cDBUbzE5RlBkLWNnU0NYNzN6NmUtendYeEE?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 07:12:40 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Ultra",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Samsung Galaxy Z Fold 8 Ultra Review: Nice Upgrades, But Not Quite Ultra - engadget.com",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBJQkN5V3N1Wno3MkdxaEZZRGEtMjBodEdCTjdFazNUaVVlUFZ0MUJOZXVFNUpEY0R3QlBEVnFLM2l3YWFlVDFqRXlwc3JrZ20yak5WVjBjNGNaWXp3dGlYWnU5d2Y3QnJ6MEprTURHYnlmelE2X1JidmRR?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 13:51:13 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Million",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘Spider-Man’ Beats ‘Avengers: Endgame’ as ‘Brand New Day’ Climbs to $360 Million, the Biggest Opening Weekend in Box Office History - Variety",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQX1ZDRUVQR2gzOEh0TGo0Snd6NzVSUXNxUzBvYkRJWWc2T0l0OHRrQlh0MTBSME9uaTJfQXRVQ1ZDc3MyNHpvSC1SOTZKUEVxYmxTMnV1dlU2YkVlbnNvRElsSjU0X1pLYUtOVjZkS2pwWFR6cXhTOXR6WmJSclF5eHItM3g4UUVmSnNZdkZtRUJVWnNrbVpwOGNtRjlyc01LVmlfdDhaR2xJZVpnVW00X3gzWmhuS0hBUlFacQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 14:37:00 GMT"
+        },
+        {
+          "title": "3.2-Gigapixel LSST Camera Captures Over Half a Million Galaxies - PetaPixel",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZHBhTGc0OGNrUjB0QkxobDZfX0hPMW94d2wwRzhzSWdDTVNaTWk4UW0wSW9fWU5Eai1rbjdXYWR6eC1LVk51NjdLWHRpN1NObVlSVE9Hd1VxOHpFVi1DanJ5LUVPTVU5QVlSRU1YTVVfS0VtZGNoLVN6dG53SE9rcnF2MmxjcXFIbWE5ZVA3R0xsc3ZFRlVXZ21LTVFZUQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 02 Aug 2026 14:49:20 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Trade",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "MLB trade deadline 2026: Players most likely to be dealt Monday - ESPN",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSURlS25DRUtJN2stWW5ydURSZ1R5MWxsQUNEOTFaWG1UeUZDSlloVGVDc3NQMEtvWnNhRkx3SkdGeFFYbGpsNzdBQWZ0QmhIOTFDbDRKNE15QnVjdjVoRlo1QmtLNmxIUlpHcnk2S1RrTnRzNXJUcU12NTFfZWFXaUFrUlM2ZjNJNlBvWENkLUdsdHBqLUJUUC0tR0JYLU5rLVdaREQ3eHllTnFFbWdpR2VRMnp2NnJaWDlkdG9Ublg1QXNXZlRkQWllTQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 13:55:00 GMT"
+        },
+        {
+          "title": "What’s left on Dodgers trade deadline to-do list list after Tarik Skubal addition - New York Post",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUUFDLUx5UkprVWVOT0VwZzkzSnRjQ0tHTFRSTEI3M1YzZVNld01wdkV3bWV6elEtMmVsSnJFUlRpT1dKNTJGbERVckVxcldMVTctcWhBeGZ6aEhjYVI3VzRiSHlZd2pQYkNjWmMtOWJsSWUzU2dBd3REbWljOTNOYktrRnRtYm5pNUtnRWF2YW5fdTJu?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 12:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Deadline",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "MLB trade deadline 2026: Players most likely to be dealt Monday - ESPN",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSURlS25DRUtJN2stWW5ydURSZ1R5MWxsQUNEOTFaWG1UeUZDSlloVGVDc3NQMEtvWnNhRkx3SkdGeFFYbGpsNzdBQWZ0QmhIOTFDbDRKNE15QnVjdjVoRlo1QmtLNmxIUlpHcnk2S1RrTnRzNXJUcU12NTFfZWFXaUFrUlM2ZjNJNlBvWENkLUdsdHBqLUJUUC0tR0JYLU5rLVdaREQ3eHllTnFFbWdpR2VRMnp2NnJaWDlkdG9Ublg1QXNXZlRkQWllTQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 13:55:00 GMT"
+        },
+        {
+          "title": "What’s left on Dodgers trade deadline to-do list list after Tarik Skubal addition - New York Post",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUUFDLUx5UkprVWVOT0VwZzkzSnRjQ0tHTFRSTEI3M1YzZVNld01wdkV3bWV6elEtMmVsSnJFUlRpT1dKNTJGbERVckVxcldMVTctcWhBeGZ6aEhjYVI3VzRiSHlZd2pQYkNjWmMtOWJsSWUzU2dBd3REbWljOTNOYktrRnRtYm5pNUtnRWF2YW5fdTJu?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 12:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Likely",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "MLB trade deadline 2026: Players most likely to be dealt Monday - ESPN",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSURlS25DRUtJN2stWW5ydURSZ1R5MWxsQUNEOTFaWG1UeUZDSlloVGVDc3NQMEtvWnNhRkx3SkdGeFFYbGpsNzdBQWZ0QmhIOTFDbDRKNE15QnVjdjVoRlo1QmtLNmxIUlpHcnk2S1RrTnRzNXJUcU12NTFfZWFXaUFrUlM2ZjNJNlBvWENkLUdsdHBqLUJUUC0tR0JYLU5rLVdaREQ3eHllTnFFbWdpR2VRMnp2NnJaWDlkdG9Ublg1QXNXZlRkQWllTQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 13:55:00 GMT"
+        },
+        {
+          "title": "Australia warns H5N1 likely to spread after first mass mortality episode - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbk1kc3p4R3hzQmRJS1NRY1ZVYmFfZVJSc0JISUdPSlZicXJPbU9TamZIV2FuMmp3T0piYlI5aFVyOUowRFBxS3V2RXhyYS1ObVBGbzlQbVpRU2VEZ3lsLXBfLWdoSTh5MVFyMXRoeHVfZUoxWHl3OTRWaXlEc3JzZ2YybDFUMGFEZm5BSEM0eVlLV1JMNjRreHNybl9xeXZLLV9kY3B1ZlBfTjEwUDg1MTh30gG3AUFVX3lxTE13bzNJRi13YXNxSDktUFNuOFNEb25rQnZlVG0zRFMyZFBEclpoQzhLVXFGNHZPWHJldzNTTnVhbU0zcU0yak5lbzB0UFpoMko3Smh5YVlERWJJWDF3SkJWajNFZ3d0TzRDbTBiZGRPaXE2Nnc3anM3YkVfbjM3aHJjOWVrN2ZmRmY3TFZIcXdZZlJ6THhtVGd5bExhanozZGx6NzJwN1JvejNnbFduaFZERkdhaFRxMA?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 09:12:38 GMT"
+        }
+      ]
+    },
+    {
+      "word": "List",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "What’s left on Dodgers trade deadline to-do list list after Tarik Skubal addition - New York Post",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUUFDLUx5UkprVWVOT0VwZzkzSnRjQ0tHTFRSTEI3M1YzZVNld01wdkV3bWV6elEtMmVsSnJFUlRpT1dKNTJGbERVckVxcldMVTctcWhBeGZ6aEhjYVI3VzRiSHlZd2pQYkNjWmMtOWJsSWUzU2dBd3REbWljOTNOYktrRnRtYm5pNUtnRWF2YW5fdTJu?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 12:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Speaks",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Life speaks one universal language to activate genes: It speaks many more to silence them - phys.org",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hSmp2MTdzWXdiOU42VXRtNWhUckNZeTg5dzRfNjJ1a2dVaXliMzZ1b29ZbEhfak5zUVlYTnFhR2V0OWdCM1pyOVVQbmlTLTVuNWlWNE84b2h6VlZycTdobFJ5a1o2M2tDWlo3WGJxRkdwcUtBRlRnM3R1b1o?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 09:00:01 GMT"
         }
       ]
     },
@@ -382,75 +458,36 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Acting AG Todd Blanche reaches deal with holdout senators to scrap $1.8B ‘anti-weaponization’ fund - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMkNNQkgzUnpxdEFDMUZ1Um5Pdnl1cXR0X2tGeTh0eVE4azFjZEpxOVU3elNab0h4elZvQTkzd3NDUTdiR1NDX2d6Nk1VSnhleVllZkNLb2NuUlpKbGlXWGhYOVFqMnIzOFNmb19rVHVkWi1iQ2JjWFhSeldQQ3NfSC1wZndHbkNzOF85eVVYc0UyNGhqamF1SlRFOEZZcmNJUGMxMEJtaFlPMktXMXota2ZLRW5QYTU4ZnlENk1oSVA?oc=5",
+          "title": "Blanche formally rescinds plan for ‘weaponization’ fund, in deal to advance AG nomination - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd0xGcjM4UVd4V1BURkJGWTQwMThJb0VqSTBrSVRCVTBVczFwTkpVS2RiMHZjVWZRQXNiSm1jOTZrWWN3b3lMdVdSV1Vzb0N5MDBrVHlwSFhOeXpCN3lDRWZaWnZDVUtNVEs1Z3ZOOWYwVjVRejcxVE9hSmhQZzFXZ0RlbU82TlQ1cG9WemVFRllzLTBjT1pYd2s1YVE0NWYzemhVLVRKdkFMV21tMmZ3OVhMTURDb3ZoQWVOWk5iVDQ0WmotWWNMWHY2MHRaUlZ0RTFj?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 07:46:00 GMT"
+          "published": "Mon, 03 Aug 2026 13:41:23 GMT"
         }
       ]
     },
     {
-      "word": "Reaches",
+      "word": "Formally",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Acting AG Todd Blanche reaches deal with holdout senators to scrap $1.8B ‘anti-weaponization’ fund - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMkNNQkgzUnpxdEFDMUZ1Um5Pdnl1cXR0X2tGeTh0eVE4azFjZEpxOVU3elNab0h4elZvQTkzd3NDUTdiR1NDX2d6Nk1VSnhleVllZkNLb2NuUlpKbGlXWGhYOVFqMnIzOFNmb19rVHVkWi1iQ2JjWFhSeldQQ3NfSC1wZndHbkNzOF85eVVYc0UyNGhqamF1SlRFOEZZcmNJUGMxMEJtaFlPMktXMXota2ZLRW5QYTU4ZnlENk1oSVA?oc=5",
+          "title": "Blanche formally rescinds plan for ‘weaponization’ fund, in deal to advance AG nomination - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd0xGcjM4UVd4V1BURkJGWTQwMThJb0VqSTBrSVRCVTBVczFwTkpVS2RiMHZjVWZRQXNiSm1jOTZrWWN3b3lMdVdSV1Vzb0N5MDBrVHlwSFhOeXpCN3lDRWZaWnZDVUtNVEs1Z3ZOOWYwVjVRejcxVE9hSmhQZzFXZ0RlbU82TlQ1cG9WemVFRllzLTBjT1pYd2s1YVE0NWYzemhVLVRKdkFMV21tMmZ3OVhMTURDb3ZoQWVOWk5iVDQ0WmotWWNMWHY2MHRaUlZ0RTFj?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 07:46:00 GMT"
+          "published": "Mon, 03 Aug 2026 13:41:23 GMT"
         }
       ]
     },
     {
-      "word": "Holdout",
+      "word": "Rescinds",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Acting AG Todd Blanche reaches deal with holdout senators to scrap $1.8B ‘anti-weaponization’ fund - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMkNNQkgzUnpxdEFDMUZ1Um5Pdnl1cXR0X2tGeTh0eVE4azFjZEpxOVU3elNab0h4elZvQTkzd3NDUTdiR1NDX2d6Nk1VSnhleVllZkNLb2NuUlpKbGlXWGhYOVFqMnIzOFNmb19rVHVkWi1iQ2JjWFhSeldQQ3NfSC1wZndHbkNzOF85eVVYc0UyNGhqamF1SlRFOEZZcmNJUGMxMEJtaFlPMktXMXota2ZLRW5QYTU4ZnlENk1oSVA?oc=5",
+          "title": "Blanche formally rescinds plan for ‘weaponization’ fund, in deal to advance AG nomination - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd0xGcjM4UVd4V1BURkJGWTQwMThJb0VqSTBrSVRCVTBVczFwTkpVS2RiMHZjVWZRQXNiSm1jOTZrWWN3b3lMdVdSV1Vzb0N5MDBrVHlwSFhOeXpCN3lDRWZaWnZDVUtNVEs1Z3ZOOWYwVjVRejcxVE9hSmhQZzFXZ0RlbU82TlQ1cG9WemVFRllzLTBjT1pYd2s1YVE0NWYzemhVLVRKdkFMV21tMmZ3OVhMTURDb3ZoQWVOWk5iVDQ0WmotWWNMWHY2MHRaUlZ0RTFj?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 07:46:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Senators",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Acting AG Todd Blanche reaches deal with holdout senators to scrap $1.8B ‘anti-weaponization’ fund - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMkNNQkgzUnpxdEFDMUZ1Um5Pdnl1cXR0X2tGeTh0eVE4azFjZEpxOVU3elNab0h4elZvQTkzd3NDUTdiR1NDX2d6Nk1VSnhleVllZkNLb2NuUlpKbGlXWGhYOVFqMnIzOFNmb19rVHVkWi1iQ2JjWFhSeldQQ3NfSC1wZndHbkNzOF85eVVYc0UyNGhqamF1SlRFOEZZcmNJUGMxMEJtaFlPMktXMXota2ZLRW5QYTU4ZnlENk1oSVA?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 07:46:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Scrap",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Acting AG Todd Blanche reaches deal with holdout senators to scrap $1.8B ‘anti-weaponization’ fund - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMkNNQkgzUnpxdEFDMUZ1Um5Pdnl1cXR0X2tGeTh0eVE4azFjZEpxOVU3elNab0h4elZvQTkzd3NDUTdiR1NDX2d6Nk1VSnhleVllZkNLb2NuUlpKbGlXWGhYOVFqMnIzOFNmb19rVHVkWi1iQ2JjWFhSeldQQ3NfSC1wZndHbkNzOF85eVVYc0UyNGhqamF1SlRFOEZZcmNJUGMxMEJtaFlPMktXMXota2ZLRW5QYTU4ZnlENk1oSVA?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 07:46:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Anti",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Acting AG Todd Blanche reaches deal with holdout senators to scrap $1.8B ‘anti-weaponization’ fund - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMkNNQkgzUnpxdEFDMUZ1Um5Pdnl1cXR0X2tGeTh0eVE4azFjZEpxOVU3elNab0h4elZvQTkzd3NDUTdiR1NDX2d6Nk1VSnhleVllZkNLb2NuUlpKbGlXWGhYOVFqMnIzOFNmb19rVHVkWi1iQ2JjWFhSeldQQ3NfSC1wZndHbkNzOF85eVVYc0UyNGhqamF1SlRFOEZZcmNJUGMxMEJtaFlPMktXMXota2ZLRW5QYTU4ZnlENk1oSVA?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 07:46:00 GMT"
+          "published": "Mon, 03 Aug 2026 13:41:23 GMT"
         }
       ]
     },
@@ -460,10 +497,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Acting AG Todd Blanche reaches deal with holdout senators to scrap $1.8B ‘anti-weaponization’ fund - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMkNNQkgzUnpxdEFDMUZ1Um5Pdnl1cXR0X2tGeTh0eVE4azFjZEpxOVU3elNab0h4elZvQTkzd3NDUTdiR1NDX2d6Nk1VSnhleVllZkNLb2NuUlpKbGlXWGhYOVFqMnIzOFNmb19rVHVkWi1iQ2JjWFhSeldQQ3NfSC1wZndHbkNzOF85eVVYc0UyNGhqamF1SlRFOEZZcmNJUGMxMEJtaFlPMktXMXota2ZLRW5QYTU4ZnlENk1oSVA?oc=5",
+          "title": "Blanche formally rescinds plan for ‘weaponization’ fund, in deal to advance AG nomination - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd0xGcjM4UVd4V1BURkJGWTQwMThJb0VqSTBrSVRCVTBVczFwTkpVS2RiMHZjVWZRQXNiSm1jOTZrWWN3b3lMdVdSV1Vzb0N5MDBrVHlwSFhOeXpCN3lDRWZaWnZDVUtNVEs1Z3ZOOWYwVjVRejcxVE9hSmhQZzFXZ0RlbU82TlQ1cG9WemVFRllzLTBjT1pYd2s1YVE0NWYzemhVLVRKdkFMV21tMmZ3OVhMTURDb3ZoQWVOWk5iVDQ0WmotWWNMWHY2MHRaUlZ0RTFj?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 07:46:00 GMT"
+          "published": "Mon, 03 Aug 2026 13:41:23 GMT"
         }
       ]
     },
@@ -473,23 +510,153 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Acting AG Todd Blanche reaches deal with holdout senators to scrap $1.8B ‘anti-weaponization’ fund - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMkNNQkgzUnpxdEFDMUZ1Um5Pdnl1cXR0X2tGeTh0eVE4azFjZEpxOVU3elNab0h4elZvQTkzd3NDUTdiR1NDX2d6Nk1VSnhleVllZkNLb2NuUlpKbGlXWGhYOVFqMnIzOFNmb19rVHVkWi1iQ2JjWFhSeldQQ3NfSC1wZndHbkNzOF85eVVYc0UyNGhqamF1SlRFOEZZcmNJUGMxMEJtaFlPMktXMXota2ZLRW5QYTU4ZnlENk1oSVA?oc=5",
+          "title": "Blanche formally rescinds plan for ‘weaponization’ fund, in deal to advance AG nomination - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd0xGcjM4UVd4V1BURkJGWTQwMThJb0VqSTBrSVRCVTBVczFwTkpVS2RiMHZjVWZRQXNiSm1jOTZrWWN3b3lMdVdSV1Vzb0N5MDBrVHlwSFhOeXpCN3lDRWZaWnZDVUtNVEs1Z3ZOOWYwVjVRejcxVE9hSmhQZzFXZ0RlbU82TlQ1cG9WemVFRllzLTBjT1pYd2s1YVE0NWYzemhVLVRKdkFMV21tMmZ3OVhMTURDb3ZoQWVOWk5iVDQ0WmotWWNMWHY2MHRaUlZ0RTFj?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 07:46:00 GMT"
+          "published": "Mon, 03 Aug 2026 13:41:23 GMT"
         }
       ]
     },
     {
-      "word": "Iran",
+      "word": "Advance",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump says new Iran negotiations starting: What we know - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWGdNdW9TZk1weWFsQnp1TXJQdEFpek9zNU54c2RDbWFLYVZnZ1c4X000SEVoMzJBT1o0TnB6SGlxSXpabnhWcDFXdmVGV2lERUFuSmhkUFpYUHFEZmVwbEcwQU9IeVhobFc2dEtZZG1vRWNiUUdncTIzVGJYUE5EcG5UMS0yMnNiWkh6czVfcDdUUTNXRWswVlVn0gGfAUFVX3lxTE8xenluRGFhNEJNXzl6aHNveThpd1djU0NkZnVXVmRpWkxqMUdBWWpiY1NOeWpRbnpuWlYzUXNlSWtVbEdSVkI1WGYySWQ0TEJiaXBteVJaT0tzMkFUQ0RrOGxzNm9ISUxvbS12WDc2enZTR0tONnkwUnFZWkRzby0yOEYtYXVMaUFDSFIxelBDNWt6RmxQVU9UcUJldUdpQQ?oc=5",
+          "title": "Blanche formally rescinds plan for ‘weaponization’ fund, in deal to advance AG nomination - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd0xGcjM4UVd4V1BURkJGWTQwMThJb0VqSTBrSVRCVTBVczFwTkpVS2RiMHZjVWZRQXNiSm1jOTZrWWN3b3lMdVdSV1Vzb0N5MDBrVHlwSFhOeXpCN3lDRWZaWnZDVUtNVEs1Z3ZOOWYwVjVRejcxVE9hSmhQZzFXZ0RlbU82TlQ1cG9WemVFRllzLTBjT1pYd2s1YVE0NWYzemhVLVRKdkFMV21tMmZ3OVhMTURDb3ZoQWVOWk5iVDQ0WmotWWNMWHY2MHRaUlZ0RTFj?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 09:51:27 GMT"
+          "published": "Mon, 03 Aug 2026 13:41:23 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Nomination",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Blanche formally rescinds plan for ‘weaponization’ fund, in deal to advance AG nomination - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd0xGcjM4UVd4V1BURkJGWTQwMThJb0VqSTBrSVRCVTBVczFwTkpVS2RiMHZjVWZRQXNiSm1jOTZrWWN3b3lMdVdSV1Vzb0N5MDBrVHlwSFhOeXpCN3lDRWZaWnZDVUtNVEs1Z3ZOOWYwVjVRejcxVE9hSmhQZzFXZ0RlbU82TlQ1cG9WemVFRllzLTBjT1pYd2s1YVE0NWYzemhVLVRKdkFMV21tMmZ3OVhMTURDb3ZoQWVOWk5iVDQ0WmotWWNMWHY2MHRaUlZ0RTFj?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 13:41:23 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Returned",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Man who returned fire at In-N-Out gunman had done firearm training after 2021 mass shooting - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wTFVWblI4cTh6Nlh1a2ZfU1NaS1RBX1Bzb2ZTbnVJYzRLOUxsTEJFTThGY1VrT3FFdHFmSmt5MjNXMHo5ZlAtaWtUcEdPaW4tbF9nZVFVU0tzaUJaSElCelhCLUwyNTZWWmFVS3VCYU5RdVNUNllIeUozaw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 14:16:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Fire",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Man who returned fire at In-N-Out gunman had done firearm training after 2021 mass shooting - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wTFVWblI4cTh6Nlh1a2ZfU1NaS1RBX1Bzb2ZTbnVJYzRLOUxsTEJFTThGY1VrT3FFdHFmSmt5MjNXMHo5ZlAtaWtUcEdPaW4tbF9nZVFVU0tzaUJaSElCelhCLUwyNTZWWmFVS3VCYU5RdVNUNllIeUozaw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 14:16:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Gunman",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Man who returned fire at In-N-Out gunman had done firearm training after 2021 mass shooting - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wTFVWblI4cTh6Nlh1a2ZfU1NaS1RBX1Bzb2ZTbnVJYzRLOUxsTEJFTThGY1VrT3FFdHFmSmt5MjNXMHo5ZlAtaWtUcEdPaW4tbF9nZVFVU0tzaUJaSElCelhCLUwyNTZWWmFVS3VCYU5RdVNUNllIeUozaw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 14:16:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Done",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Man who returned fire at In-N-Out gunman had done firearm training after 2021 mass shooting - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wTFVWblI4cTh6Nlh1a2ZfU1NaS1RBX1Bzb2ZTbnVJYzRLOUxsTEJFTThGY1VrT3FFdHFmSmt5MjNXMHo5ZlAtaWtUcEdPaW4tbF9nZVFVU0tzaUJaSElCelhCLUwyNTZWWmFVS3VCYU5RdVNUNllIeUozaw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 14:16:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Firearm",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Man who returned fire at In-N-Out gunman had done firearm training after 2021 mass shooting - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wTFVWblI4cTh6Nlh1a2ZfU1NaS1RBX1Bzb2ZTbnVJYzRLOUxsTEJFTThGY1VrT3FFdHFmSmt5MjNXMHo5ZlAtaWtUcEdPaW4tbF9nZVFVU0tzaUJaSElCelhCLUwyNTZWWmFVS3VCYU5RdVNUNllIeUozaw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 14:16:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Training",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Man who returned fire at In-N-Out gunman had done firearm training after 2021 mass shooting - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wTFVWblI4cTh6Nlh1a2ZfU1NaS1RBX1Bzb2ZTbnVJYzRLOUxsTEJFTThGY1VrT3FFdHFmSmt5MjNXMHo5ZlAtaWtUcEdPaW4tbF9nZVFVU0tzaUJaSElCelhCLUwyNTZWWmFVS3VCYU5RdVNUNllIeUozaw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 14:16:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Shooting",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Man who returned fire at In-N-Out gunman had done firearm training after 2021 mass shooting - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wTFVWblI4cTh6Nlh1a2ZfU1NaS1RBX1Bzb2ZTbnVJYzRLOUxsTEJFTThGY1VrT3FFdHFmSmt5MjNXMHo5ZlAtaWtUcEdPaW4tbF9nZVFVU0tzaUJaSElCelhCLUwyNTZWWmFVS3VCYU5RdVNUNllIeUozaw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 14:16:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Denies",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Live Updates: Iran denies Trump's claim that U.S.-Iran negotiations to begin today after U.S. strikes called off - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ1dLLUtEN1BOZURoRGtpQ1JYaDRibllHa25fRHBpNXlrSUdLV1N3NzVETUFZN3FXTFZlUTB2dmJWd1hSWUNRdDdVcUNnTmNfTTgtVXd1eTJ3WmNoRWxrY2FhcFdlX1d4bUxQdzVIcWM5RHNHNDBsOEN0TjFVTGN5ZHMtZkJ2SW5JTVJLWC04YzJmRG9CTlM5MGRVdzFTNVNYcVVOcGlzeFlSamc?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 14:25:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Claim",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Live Updates: Iran denies Trump's claim that U.S.-Iran negotiations to begin today after U.S. strikes called off - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ1dLLUtEN1BOZURoRGtpQ1JYaDRibllHa25fRHBpNXlrSUdLV1N3NzVETUFZN3FXTFZlUTB2dmJWd1hSWUNRdDdVcUNnTmNfTTgtVXd1eTJ3WmNoRWxrY2FhcFdlX1d4bUxQdzVIcWM5RHNHNDBsOEN0TjFVTGN5ZHMtZkJ2SW5JTVJLWC04YzJmRG9CTlM5MGRVdzFTNVNYcVVOcGlzeFlSamc?oc=5",
+          "source": "Google News",
+          "published": "Mon, 03 Aug 2026 14:25:00 GMT"
         }
       ]
     },
@@ -499,153 +666,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump says new Iran negotiations starting: What we know - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWGdNdW9TZk1weWFsQnp1TXJQdEFpek9zNU54c2RDbWFLYVZnZ1c4X000SEVoMzJBT1o0TnB6SGlxSXpabnhWcDFXdmVGV2lERUFuSmhkUFpYUHFEZmVwbEcwQU9IeVhobFc2dEtZZG1vRWNiUUdncTIzVGJYUE5EcG5UMS0yMnNiWkh6czVfcDdUUTNXRWswVlVn0gGfAUFVX3lxTE8xenluRGFhNEJNXzl6aHNveThpd1djU0NkZnVXVmRpWkxqMUdBWWpiY1NOeWpRbnpuWlYzUXNlSWtVbEdSVkI1WGYySWQ0TEJiaXBteVJaT0tzMkFUQ0RrOGxzNm9ISUxvbS12WDc2enZTR0tONnkwUnFZWkRzby0yOEYtYXVMaUFDSFIxelBDNWt6RmxQVU9UcUJldUdpQQ?oc=5",
+          "title": "Live Updates: Iran denies Trump's claim that U.S.-Iran negotiations to begin today after U.S. strikes called off - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ1dLLUtEN1BOZURoRGtpQ1JYaDRibllHa25fRHBpNXlrSUdLV1N3NzVETUFZN3FXTFZlUTB2dmJWd1hSWUNRdDdVcUNnTmNfTTgtVXd1eTJ3WmNoRWxrY2FhcFdlX1d4bUxQdzVIcWM5RHNHNDBsOEN0TjFVTGN5ZHMtZkJ2SW5JTVJLWC04YzJmRG9CTlM5MGRVdzFTNVNYcVVOcGlzeFlSamc?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 09:51:27 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Starting",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump says new Iran negotiations starting: What we know - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWGdNdW9TZk1weWFsQnp1TXJQdEFpek9zNU54c2RDbWFLYVZnZ1c4X000SEVoMzJBT1o0TnB6SGlxSXpabnhWcDFXdmVGV2lERUFuSmhkUFpYUHFEZmVwbEcwQU9IeVhobFc2dEtZZG1vRWNiUUdncTIzVGJYUE5EcG5UMS0yMnNiWkh6czVfcDdUUTNXRWswVlVn0gGfAUFVX3lxTE8xenluRGFhNEJNXzl6aHNveThpd1djU0NkZnVXVmRpWkxqMUdBWWpiY1NOeWpRbnpuWlYzUXNlSWtVbEdSVkI1WGYySWQ0TEJiaXBteVJaT0tzMkFUQ0RrOGxzNm9ISUxvbS12WDc2enZTR0tONnkwUnFZWkRzby0yOEYtYXVMaUFDSFIxelBDNWt6RmxQVU9UcUJldUdpQQ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 09:51:27 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Washington",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Washington state wildfires force 60,000 people to evacuate homes - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hUTFuYXVsblNnQ2pLLUdMQ19KR1pwVWdQZDZHVzB0dC1pWlBmVG83MnpCaVNfUFR1VjdIN2VLa0VCbzVGZHpOM01CS0RIaHFLaGdmZVlUZ2ozQQ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 11:11:36 GMT"
-        }
-      ]
-    },
-    {
-      "word": "State",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Washington state wildfires force 60,000 people to evacuate homes - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hUTFuYXVsblNnQ2pLLUdMQ19KR1pwVWdQZDZHVzB0dC1pWlBmVG83MnpCaVNfUFR1VjdIN2VLa0VCbzVGZHpOM01CS0RIaHFLaGdmZVlUZ2ozQQ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 11:11:36 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Wildfires",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Washington state wildfires force 60,000 people to evacuate homes - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hUTFuYXVsblNnQ2pLLUdMQ19KR1pwVWdQZDZHVzB0dC1pWlBmVG83MnpCaVNfUFR1VjdIN2VLa0VCbzVGZHpOM01CS0RIaHFLaGdmZVlUZ2ozQQ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 11:11:36 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Force",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Washington state wildfires force 60,000 people to evacuate homes - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hUTFuYXVsblNnQ2pLLUdMQ19KR1pwVWdQZDZHVzB0dC1pWlBmVG83MnpCaVNfUFR1VjdIN2VLa0VCbzVGZHpOM01CS0RIaHFLaGdmZVlUZ2ozQQ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 11:11:36 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Evacuate",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Washington state wildfires force 60,000 people to evacuate homes - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hUTFuYXVsblNnQ2pLLUdMQ19KR1pwVWdQZDZHVzB0dC1pWlBmVG83MnpCaVNfUFR1VjdIN2VLa0VCbzVGZHpOM01CS0RIaHFLaGdmZVlUZ2ozQQ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 11:11:36 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Homes",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Washington state wildfires force 60,000 people to evacuate homes - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hUTFuYXVsblNnQ2pLLUdMQ19KR1pwVWdQZDZHVzB0dC1pWlBmVG83MnpCaVNfUFR1VjdIN2VLa0VCbzVGZHpOM01CS0RIaHFLaGdmZVlUZ2ozQQ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 11:11:36 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Max",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Rep. Max Miller not dropping out after domestic abuse allegations - Axios",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZX05Oejc3VkxMZENHSzVIN3Zwc2JaeWNXOXJKM2laeWRBd3hhOFBpZ1Q4RDVMa1Ita1pXTjBIaUdIZDAxTjlXeVRVcXRoR21RdnJTOHFkRUhQQk5PdVdiSzd5VnJrY3NYbEJCcXB4QjJBNEhHc3g0?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 09:44:34 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Miller",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Rep. Max Miller not dropping out after domestic abuse allegations - Axios",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZX05Oejc3VkxMZENHSzVIN3Zwc2JaeWNXOXJKM2laeWRBd3hhOFBpZ1Q4RDVMa1Ita1pXTjBIaUdIZDAxTjlXeVRVcXRoR21RdnJTOHFkRUhQQk5PdVdiSzd5VnJrY3NYbEJCcXB4QjJBNEhHc3g0?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 09:44:34 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Dropping",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Rep. Max Miller not dropping out after domestic abuse allegations - Axios",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZX05Oejc3VkxMZENHSzVIN3Zwc2JaeWNXOXJKM2laeWRBd3hhOFBpZ1Q4RDVMa1Ita1pXTjBIaUdIZDAxTjlXeVRVcXRoR21RdnJTOHFkRUhQQk5PdVdiSzd5VnJrY3NYbEJCcXB4QjJBNEhHc3g0?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 09:44:34 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Domestic",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Rep. Max Miller not dropping out after domestic abuse allegations - Axios",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZX05Oejc3VkxMZENHSzVIN3Zwc2JaeWNXOXJKM2laeWRBd3hhOFBpZ1Q4RDVMa1Ita1pXTjBIaUdIZDAxTjlXeVRVcXRoR21RdnJTOHFkRUhQQk5PdVdiSzd5VnJrY3NYbEJCcXB4QjJBNEhHc3g0?oc=5",
-          "source": "Google News",
-          "published": "Mon, 03 Aug 2026 09:44:34 GMT"
+          "published": "Mon, 03 Aug 2026 14:25:00 GMT"
         }
       ]
     }
