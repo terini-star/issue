@@ -1,315 +1,288 @@
 {
   "language": "ko",
-  "last_updated": 1785825249.821385,
+  "last_updated": 1785836555.51331,
   "count": 40,
   "trends": [
     {
-      "word": "대통령",
-      "count": 3,
-      "category": "PERSON",
-      "articles": [
-        {
-          "title": "이 대통령 “경찰, 엄청난 권한…수사 비위는 해임·파면 등 엄중 책임” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xUlVXSDRuQ2RteFl1ajhTZjFrYU1uOHY2QTJYME5UcWNFRlJfbFhoNjB5clQ5S1g4NXRYZUlSWWdvWkI5Y2dNWF9zb000TGh2eU9jZ3I3VFo1NzF0QXk5R0pZQkdhZWhkc2lJ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 04 Aug 2026 04:28:00 GMT"
-        },
-        {
-          "title": "이 대통령, 7시간 반 부동산 점검 회의…“신속하게 최대한 주택 공급” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hZFBZY2Y3TUdBQ3RpZ3lESGxoeFFtUjNZbWNtbGJqMElYYzltQVZkZTBlZC1WQWswLTUwT3N5NDRpX0RvNk0wYXN2Z3gyRjROTHVSRDNycTZmY0RMWFBaWjhBSnBvTjFMd3Flemd4Q2t6VWdh?oc=5",
-          "source": "Google News",
-          "published": "Tue, 04 Aug 2026 01:16:00 GMT"
-        },
-        {
-          "title": "李대통령 \"월급은 최고 49.5% 세금인데, 100억대 부동산 양도소득엔 세금 몇 억 밖에\" - KBC광주방송",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96TDdjU20zcjBWYWxpZXpNeV9TODQ5RFpYdnZNVV8tdlZDeUQtMWtwSndxcUtVN0ZFZU93T215bkRPUjNnWmZSZUt2b0l2M1lhdzNsblZHSXJBQ0h2M2F4TUtR?oc=5",
-          "source": "Google News",
-          "published": "Tue, 04 Aug 2026 02:34:10 GMT"
-        }
-      ]
-    },
-    {
-      "word": "오인",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘美무인기 오인’ 1군단, 이번엔 아군기를 적군기로 오인? - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQck9fZ0RWWWtDTzJrNG5aWThXVW16UGFlTTlpcUFvOVVscUJwekRDM2pHM25kR3RZSUZYeDR6MlJpVmVhNVZtampWeUhCSjY2MWZKaVZZbWVNQkRjb1RQdnFvZkVqZEhfRm4teUdLQ1d5ZGlkQ3gzejdBcGk3ZVN5SVBFQVpSSVIxY2p0R2xUTDY?oc=5",
-          "source": "Google News",
-          "published": "Tue, 04 Aug 2026 01:29:00 GMT"
-        }
-      ]
-    },
-    {
       "word": "폭염",
-      "count": 2,
+      "count": 4,
       "category": "NOUN",
       "articles": [
         {
-          "title": "추경호 대구시장 \"폭염은 중대 재난\"…구청장·군수 대책회의 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81N2U4SUxLdW5ySDNtaWpObU9qN0ljNjc5d1NrU1NTU1RkUnY0TF9mbHJ3SGs1TFhPNTlXbG10SExvZjhxWVg3NWFGdm9WUmxDckxPTHBoMXk3VmvSAWBBVV95cUxOa1ExY1ZrYWRrOUFWMUt0QkxKcFBvOTBYaW1oeS1zSkZPYUxrMWI3UGRHZGZaSUJ5NVBoRUYzTWJUU0lJRk9nSWJlTnMybEYtWEJaUHMyWVJQUkJ4VHJoZUI?oc=5",
+          "title": "“폭염 강도, 여기서 더 심해질 듯”…내일 중대경보 인천·안산·김포까지 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xdnpVWmFxSVZTaDE4cVpQQlF2OEtjREpNMUhjMHJfWEMxVTRDQ1pYVUpaV1g1ZmdRMm1XVXB1T3prSHdUX2VVbmxqdEpjTHFMUWFfcEhrS2huZ2Q2UHhPMy10a0NlRUo5NW9ISQ?oc=5",
           "source": "Google News",
-          "published": "Mon, 03 Aug 2026 08:55:16 GMT"
+          "published": "Tue, 04 Aug 2026 08:41:00 GMT"
         },
         {
-          "title": "폭염이 삼킨 프로야구…잠실·광주 경기 취소 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kZmN2TXZVMHdyV3FmUTVVa3VFd2tfMWpSdVAwZGJIZGF3NmVtMWlrbHhqLW9WUkVxUGQ4RHJiYkhQc0tpUlRfN1JuajdiWkhPcExvMnN6UGs1UQ?oc=5",
+          "title": "수도권 첫 ‘폭염중대경보’…현재 폭염 상황은? - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpbkZYV0NVUVQ2MUtpYmVxZlhQUjN2MDNKNWYwclRCbWFKMGJQUVZDeERqWmNtTmR1R0JBaXdOOHJGUFVTZlVESDV1QWZHNFpQSWQ4VF9GRjVJVkE?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 04:31:18 GMT"
-        }
-      ]
-    },
-    {
-      "word": "부동산",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령, 7시간 반 부동산 점검 회의…“신속하게 최대한 주택 공급” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hZFBZY2Y3TUdBQ3RpZ3lESGxoeFFtUjNZbWNtbGJqMElYYzltQVZkZTBlZC1WQWswLTUwT3N5NDRpX0RvNk0wYXN2Z3gyRjROTHVSRDNycTZmY0RMWFBaWjhBSnBvTjFMd3Flemd4Q2t6VWdh?oc=5",
-          "source": "Google News",
-          "published": "Tue, 04 Aug 2026 01:16:00 GMT"
+          "published": "Tue, 04 Aug 2026 08:07:00 GMT"
         },
         {
-          "title": "李대통령 \"월급은 최고 49.5% 세금인데, 100억대 부동산 양도소득엔 세금 몇 억 밖에\" - KBC광주방송",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96TDdjU20zcjBWYWxpZXpNeV9TODQ5RFpYdnZNVV8tdlZDeUQtMWtwSndxcUtVN0ZFZU93T215bkRPUjNnWmZSZUt2b0l2M1lhdzNsblZHSXJBQ0h2M2F4TUtR?oc=5",
+          "title": "전국 폭염에 전날 온열질환자 186명…올해 하루 최다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wYlFIc1BDN0ZTcXRRaEI5TzBJSndNemRadnBNYkEzcDRMX0NTSjhnNnIycjZRRjBKSVhVU0lmNHZUMHZIWFVYMGxhQkQ1YXNPVlBBU21RancyaEZnT0Nna0NrUExDb3hQdDMwclR4UkRQdw?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 02:34:10 GMT"
+          "published": "Tue, 04 Aug 2026 08:01:00 GMT"
+        },
+        {
+          "title": "\"선수들 안 다치는 게 가장 중요\"...이범호 감독, 폭염 취소에 \"남은 일정이 걱정\" - KBC광주방송",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE54OEt4WklTZEpFNGxMcE1GajE3X1JBTHlDRWNGb1VlMjJiRUNTd01nZ2Vab1pPZjFZWU5rMmxrM1dsVERESFpZTjIxY3lsMFRGeWNlUkE5NTBoOXNaUjRUNTh3?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 09:01:38 GMT"
         }
       ]
     },
     {
-      "word": "날리",
+      "word": "감독",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[사진]김재홍 감독, 재벌X형사 시즌2로 돌아왔어요 - osen.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CVHBENlBybG9JXy1kUE5RZGJhT2ZadDhwakhBVU52NWg5OUVMQU1FVnVPekxMUHhtX2hBOWF4VlN0eDNwZ2dDTTdqTmlpOWhkU0xB?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 02:56:00 GMT"
+        },
+        {
+          "title": "‘K리그2 12위’ 성남FC 전경준 감독, 결국 팀 떠난다 - 기호일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnMXpNb1RWZi1KNlZIb01nTVY3U3p0a0RrRmRlY0RpY0VQWVRRa2s4M2kteWtvN1EyYnpIcVhraVhjSzJkQ2p4Um5uN1RVV1dTeVpEQmtZUGJLXy10N3htR0Z6ekRpd3R6RE5BZmR5OA?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 07:45:15 GMT"
+        },
+        {
+          "title": "\"선수들 안 다치는 게 가장 중요\"...이범호 감독, 폭염 취소에 \"남은 일정이 걱정\" - KBC광주방송",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE54OEt4WklTZEpFNGxMcE1GajE3X1JBTHlDRWNGb1VlMjJiRUNTd01nZ2Vab1pPZjFZWU5rMmxrM1dsVERESFpZTjIxY3lsMFRGeWNlUkE5NTBoOXNaUjRUNTh3?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 09:01:38 GMT"
+        }
+      ]
+    },
+    {
+      "word": "만에",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[SBS 재벌X형사2] 말발 날리는 ‘멋진 신세계’, 액션발 날리는 ‘김부장’ 이어 돈발 날린다! SBS표 사이다 불패 신화 예약! - 누리일보",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SNFJ0M3NPX1llcE9OdmhtRTBkT0pFTXFaaDJiQzRUdDdoN3pXVjhxZUsxR3JKSFBuZWdIZFZmVmtEMEpZQ0REMG1yNGhSeU5Oei14VlVWb0J6blBN?oc=5",
+          "title": "소비자물가 석 달 만에 2%대…\"석유 최고가격제로 0.3%p↓ 효과\"(종합2보) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBILWtLcjF1cDE4bkJOM0VlYzRMSW1hd05Kd1lSSGNnNFQ3ekNiS2N4emp1UU9EdXVhdGxnWU9RTmtDWi16SEJmeUxJc25nX0dQU2JNanhkVHJBTUHSAWBBVV95cUxOakY3aURNOUc2d0MwdkczajFQTlVUUndHdWJRbHMzTURHRFNVYjhGOU1rb1NLYjBySWNtdDB4NVB6NUNpa3NURmxjQW1ERWcwTlBaRXRJRDdVM3pZaHBRNWk?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 02:10:41 GMT"
+          "published": "Tue, 04 Aug 2026 01:32:05 GMT"
+        },
+        {
+          "title": "'사랑이 온다' 1억 받고 하석진과 이별한 안희연…8년 만에 재회 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeVVTeW5Xd096VWJDVkluUUFYcTh1bTk1bXpiVlliV2lrU1pVT09md3Nuczl0ajZTQWF0VGVrN3JEcDFteWZPbHRTZlc2NDlpekJRMmhPRmU5amo1cWJPSUdwN3Z3RlQ0OEMwN0tkSUIxVmpMdWRZbzZBQjlCY1Juc05KV0s2bWthNEpnaDRIMA?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 00:10:00 GMT"
         }
       ]
     },
     {
-      "word": "경찰",
+      "word": "강도",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령 “경찰, 엄청난 권한…수사 비위는 해임·파면 등 엄중 책임” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xUlVXSDRuQ2RteFl1ajhTZjFrYU1uOHY2QTJYME5UcWNFRlJfbFhoNjB5clQ5S1g4NXRYZUlSWWdvWkI5Y2dNWF9zb000TGh2eU9jZ3I3VFo1NzF0QXk5R0pZQkdhZWhkc2lJ?oc=5",
+          "title": "“폭염 강도, 여기서 더 심해질 듯”…내일 중대경보 인천·안산·김포까지 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xdnpVWmFxSVZTaDE4cVpQQlF2OEtjREpNMUhjMHJfWEMxVTRDQ1pYVUpaV1g1ZmdRMm1XVXB1T3prSHdUX2VVbmxqdEpjTHFMUWFfcEhrS2huZ2Q2UHhPMy10a0NlRUo5NW9ISQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 04:28:00 GMT"
+          "published": "Tue, 04 Aug 2026 08:41:00 GMT"
         }
       ]
     },
     {
-      "word": "엄청난",
+      "word": "여기서",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령 “경찰, 엄청난 권한…수사 비위는 해임·파면 등 엄중 책임” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xUlVXSDRuQ2RteFl1ajhTZjFrYU1uOHY2QTJYME5UcWNFRlJfbFhoNjB5clQ5S1g4NXRYZUlSWWdvWkI5Y2dNWF9zb000TGh2eU9jZ3I3VFo1NzF0QXk5R0pZQkdhZWhkc2lJ?oc=5",
+          "title": "“폭염 강도, 여기서 더 심해질 듯”…내일 중대경보 인천·안산·김포까지 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xdnpVWmFxSVZTaDE4cVpQQlF2OEtjREpNMUhjMHJfWEMxVTRDQ1pYVUpaV1g1ZmdRMm1XVXB1T3prSHdUX2VVbmxqdEpjTHFMUWFfcEhrS2huZ2Q2UHhPMy10a0NlRUo5NW9ISQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 04:28:00 GMT"
+          "published": "Tue, 04 Aug 2026 08:41:00 GMT"
         }
       ]
     },
     {
-      "word": "권한수사",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "이 대통령 “경찰, 엄청난 권한…수사 비위는 해임·파면 등 엄중 책임” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xUlVXSDRuQ2RteFl1ajhTZjFrYU1uOHY2QTJYME5UcWNFRlJfbFhoNjB5clQ5S1g4NXRYZUlSWWdvWkI5Y2dNWF9zb000TGh2eU9jZ3I3VFo1NzF0QXk5R0pZQkdhZWhkc2lJ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 04 Aug 2026 04:28:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "비위",
+      "word": "심해질",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령 “경찰, 엄청난 권한…수사 비위는 해임·파면 등 엄중 책임” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xUlVXSDRuQ2RteFl1ajhTZjFrYU1uOHY2QTJYME5UcWNFRlJfbFhoNjB5clQ5S1g4NXRYZUlSWWdvWkI5Y2dNWF9zb000TGh2eU9jZ3I3VFo1NzF0QXk5R0pZQkdhZWhkc2lJ?oc=5",
+          "title": "“폭염 강도, 여기서 더 심해질 듯”…내일 중대경보 인천·안산·김포까지 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xdnpVWmFxSVZTaDE4cVpQQlF2OEtjREpNMUhjMHJfWEMxVTRDQ1pYVUpaV1g1ZmdRMm1XVXB1T3prSHdUX2VVbmxqdEpjTHFMUWFfcEhrS2huZ2Q2UHhPMy10a0NlRUo5NW9ISQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 04:28:00 GMT"
+          "published": "Tue, 04 Aug 2026 08:41:00 GMT"
         }
       ]
     },
     {
-      "word": "해임파면",
+      "word": "듯내일",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령 “경찰, 엄청난 권한…수사 비위는 해임·파면 등 엄중 책임” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xUlVXSDRuQ2RteFl1ajhTZjFrYU1uOHY2QTJYME5UcWNFRlJfbFhoNjB5clQ5S1g4NXRYZUlSWWdvWkI5Y2dNWF9zb000TGh2eU9jZ3I3VFo1NzF0QXk5R0pZQkdhZWhkc2lJ?oc=5",
+          "title": "“폭염 강도, 여기서 더 심해질 듯”…내일 중대경보 인천·안산·김포까지 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xdnpVWmFxSVZTaDE4cVpQQlF2OEtjREpNMUhjMHJfWEMxVTRDQ1pYVUpaV1g1ZmdRMm1XVXB1T3prSHdUX2VVbmxqdEpjTHFMUWFfcEhrS2huZ2Q2UHhPMy10a0NlRUo5NW9ISQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 04:28:00 GMT"
+          "published": "Tue, 04 Aug 2026 08:41:00 GMT"
         }
       ]
     },
     {
-      "word": "엄중",
+      "word": "중대경보",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령 “경찰, 엄청난 권한…수사 비위는 해임·파면 등 엄중 책임” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xUlVXSDRuQ2RteFl1ajhTZjFrYU1uOHY2QTJYME5UcWNFRlJfbFhoNjB5clQ5S1g4NXRYZUlSWWdvWkI5Y2dNWF9zb000TGh2eU9jZ3I3VFo1NzF0QXk5R0pZQkdhZWhkc2lJ?oc=5",
+          "title": "“폭염 강도, 여기서 더 심해질 듯”…내일 중대경보 인천·안산·김포까지 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xdnpVWmFxSVZTaDE4cVpQQlF2OEtjREpNMUhjMHJfWEMxVTRDQ1pYVUpaV1g1ZmdRMm1XVXB1T3prSHdUX2VVbmxqdEpjTHFMUWFfcEhrS2huZ2Q2UHhPMy10a0NlRUo5NW9ISQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 04:28:00 GMT"
+          "published": "Tue, 04 Aug 2026 08:41:00 GMT"
         }
       ]
     },
     {
-      "word": "책임",
+      "word": "인천안산김포",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령 “경찰, 엄청난 권한…수사 비위는 해임·파면 등 엄중 책임” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xUlVXSDRuQ2RteFl1ajhTZjFrYU1uOHY2QTJYME5UcWNFRlJfbFhoNjB5clQ5S1g4NXRYZUlSWWdvWkI5Y2dNWF9zb000TGh2eU9jZ3I3VFo1NzF0QXk5R0pZQkdhZWhkc2lJ?oc=5",
+          "title": "“폭염 강도, 여기서 더 심해질 듯”…내일 중대경보 인천·안산·김포까지 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xdnpVWmFxSVZTaDE4cVpQQlF2OEtjREpNMUhjMHJfWEMxVTRDQ1pYVUpaV1g1ZmdRMm1XVXB1T3prSHdUX2VVbmxqdEpjTHFMUWFfcEhrS2huZ2Q2UHhPMy10a0NlRUo5NW9ISQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 04:28:00 GMT"
+          "published": "Tue, 04 Aug 2026 08:41:00 GMT"
         }
       ]
     },
     {
-      "word": "서울경기",
+      "word": "검찰",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "서울·경기 첫 ‘폭염중대경보’ 발효…최고기온 39도 안팎 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QNExZT0loU1FUUFQ4RlZmLWM5UU9EZmsya0VTd0wzTnd1d1VoOHFSZ1hUNmlXb2NBUDJILXd0bFFXaG91T1NFYS1XNmtsdlFFY2JVTFdubmc2U2ZmamdRNHNiSWJoUTdhalBlcg?oc=5",
+          "title": "李, 검찰 수사권 폐지에 \"사필귀정의 필연적 조치\"...거부권 행사 안할 듯 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT2xzTUxCc0hQRDRQZzRSbHUtWFd3bE9zWnV3cTR5NkRzeGdNRWlUcjlCVU1HeHp3QmFNaE1qTTZwNElDbWVBTkM0aDNRbjVPZUhidHpRbVVFVDF4M292YlVUaWFmaTRSN212d1h2Y0N6X0w5REtmNk55d1NHVmhoYXBsZXRGRVpCeExmZTMzZEY?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 02:03:00 GMT"
+          "published": "Tue, 04 Aug 2026 01:38:00 GMT"
         }
       ]
     },
     {
-      "word": "폭염중대경보",
+      "word": "수사권",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "서울·경기 첫 ‘폭염중대경보’ 발효…최고기온 39도 안팎 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QNExZT0loU1FUUFQ4RlZmLWM5UU9EZmsya0VTd0wzTnd1d1VoOHFSZ1hUNmlXb2NBUDJILXd0bFFXaG91T1NFYS1XNmtsdlFFY2JVTFdubmc2U2ZmamdRNHNiSWJoUTdhalBlcg?oc=5",
+          "title": "李, 검찰 수사권 폐지에 \"사필귀정의 필연적 조치\"...거부권 행사 안할 듯 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT2xzTUxCc0hQRDRQZzRSbHUtWFd3bE9zWnV3cTR5NkRzeGdNRWlUcjlCVU1HeHp3QmFNaE1qTTZwNElDbWVBTkM0aDNRbjVPZUhidHpRbVVFVDF4M292YlVUaWFmaTRSN212d1h2Y0N6X0w5REtmNk55d1NHVmhoYXBsZXRGRVpCeExmZTMzZEY?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 02:03:00 GMT"
+          "published": "Tue, 04 Aug 2026 01:38:00 GMT"
         }
       ]
     },
     {
-      "word": "발효최고기온",
+      "word": "폐지",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "서울·경기 첫 ‘폭염중대경보’ 발효…최고기온 39도 안팎 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QNExZT0loU1FUUFQ4RlZmLWM5UU9EZmsya0VTd0wzTnd1d1VoOHFSZ1hUNmlXb2NBUDJILXd0bFFXaG91T1NFYS1XNmtsdlFFY2JVTFdubmc2U2ZmamdRNHNiSWJoUTdhalBlcg?oc=5",
+          "title": "李, 검찰 수사권 폐지에 \"사필귀정의 필연적 조치\"...거부권 행사 안할 듯 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT2xzTUxCc0hQRDRQZzRSbHUtWFd3bE9zWnV3cTR5NkRzeGdNRWlUcjlCVU1HeHp3QmFNaE1qTTZwNElDbWVBTkM0aDNRbjVPZUhidHpRbVVFVDF4M292YlVUaWFmaTRSN212d1h2Y0N6X0w5REtmNk55d1NHVmhoYXBsZXRGRVpCeExmZTMzZEY?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 02:03:00 GMT"
+          "published": "Tue, 04 Aug 2026 01:38:00 GMT"
         }
       ]
     },
     {
-      "word": "39",
+      "word": "사필귀정",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "서울·경기 첫 ‘폭염중대경보’ 발효…최고기온 39도 안팎 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QNExZT0loU1FUUFQ4RlZmLWM5UU9EZmsya0VTd0wzTnd1d1VoOHFSZ1hUNmlXb2NBUDJILXd0bFFXaG91T1NFYS1XNmtsdlFFY2JVTFdubmc2U2ZmamdRNHNiSWJoUTdhalBlcg?oc=5",
+          "title": "李, 검찰 수사권 폐지에 \"사필귀정의 필연적 조치\"...거부권 행사 안할 듯 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT2xzTUxCc0hQRDRQZzRSbHUtWFd3bE9zWnV3cTR5NkRzeGdNRWlUcjlCVU1HeHp3QmFNaE1qTTZwNElDbWVBTkM0aDNRbjVPZUhidHpRbVVFVDF4M292YlVUaWFmaTRSN212d1h2Y0N6X0w5REtmNk55d1NHVmhoYXBsZXRGRVpCeExmZTMzZEY?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 02:03:00 GMT"
+          "published": "Tue, 04 Aug 2026 01:38:00 GMT"
         }
       ]
     },
     {
-      "word": "안팎",
+      "word": "필연",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "서울·경기 첫 ‘폭염중대경보’ 발효…최고기온 39도 안팎 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QNExZT0loU1FUUFQ4RlZmLWM5UU9EZmsya0VTd0wzTnd1d1VoOHFSZ1hUNmlXb2NBUDJILXd0bFFXaG91T1NFYS1XNmtsdlFFY2JVTFdubmc2U2ZmamdRNHNiSWJoUTdhalBlcg?oc=5",
+          "title": "李, 검찰 수사권 폐지에 \"사필귀정의 필연적 조치\"...거부권 행사 안할 듯 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT2xzTUxCc0hQRDRQZzRSbHUtWFd3bE9zWnV3cTR5NkRzeGdNRWlUcjlCVU1HeHp3QmFNaE1qTTZwNElDbWVBTkM0aDNRbjVPZUhidHpRbVVFVDF4M292YlVUaWFmaTRSN212d1h2Y0N6X0w5REtmNk55d1NHVmhoYXBsZXRGRVpCeExmZTMzZEY?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 02:03:00 GMT"
+          "published": "Tue, 04 Aug 2026 01:38:00 GMT"
         }
       ]
     },
     {
-      "word": "폭격",
+      "word": "조치거부권",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "폭격도 협상도 안먹히는 이란, ‘진퇴양난’ 트럼프 행정부 “아이디어 구합니다” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45TWdNWDRVZHR6Q2hPNW4wN2c2Y21YNjVtV2lMS2ZjTFl3Wjh3YVNBVXhTTVM0ejhGekwwZGRLY0U0ZEtBRXdLZXJXRmpYcXVYbFRaYUFXYmpJZ9IBX0FVX3lxTE9mOER1Umh0d0ppeTIwNUNjQmpFeXBwaEQ0OTFJSUN6b3pQNEJzUktJQTJDWExMcTZETVk5U2Q0RGVwbFU5bkNUSk9vajFxYkE2Mkg0M2dxYTlIV25RMnE0?oc=5",
+          "title": "李, 검찰 수사권 폐지에 \"사필귀정의 필연적 조치\"...거부권 행사 안할 듯 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT2xzTUxCc0hQRDRQZzRSbHUtWFd3bE9zWnV3cTR5NkRzeGdNRWlUcjlCVU1HeHp3QmFNaE1qTTZwNElDbWVBTkM0aDNRbjVPZUhidHpRbVVFVDF4M292YlVUaWFmaTRSN212d1h2Y0N6X0w5REtmNk55d1NHVmhoYXBsZXRGRVpCeExmZTMzZEY?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 02:10:00 GMT"
+          "published": "Tue, 04 Aug 2026 01:38:00 GMT"
         }
       ]
     },
     {
-      "word": "협상",
+      "word": "행사",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "폭격도 협상도 안먹히는 이란, ‘진퇴양난’ 트럼프 행정부 “아이디어 구합니다” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45TWdNWDRVZHR6Q2hPNW4wN2c2Y21YNjVtV2lMS2ZjTFl3Wjh3YVNBVXhTTVM0ejhGekwwZGRLY0U0ZEtBRXdLZXJXRmpYcXVYbFRaYUFXYmpJZ9IBX0FVX3lxTE9mOER1Umh0d0ppeTIwNUNjQmpFeXBwaEQ0OTFJSUN6b3pQNEJzUktJQTJDWExMcTZETVk5U2Q0RGVwbFU5bkNUSk9vajFxYkE2Mkg0M2dxYTlIV25RMnE0?oc=5",
+          "title": "李, 검찰 수사권 폐지에 \"사필귀정의 필연적 조치\"...거부권 행사 안할 듯 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT2xzTUxCc0hQRDRQZzRSbHUtWFd3bE9zWnV3cTR5NkRzeGdNRWlUcjlCVU1HeHp3QmFNaE1qTTZwNElDbWVBTkM0aDNRbjVPZUhidHpRbVVFVDF4M292YlVUaWFmaTRSN212d1h2Y0N6X0w5REtmNk55d1NHVmhoYXBsZXRGRVpCeExmZTMzZEY?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 02:10:00 GMT"
+          "published": "Tue, 04 Aug 2026 01:38:00 GMT"
         }
       ]
     },
     {
-      "word": "안먹히",
+      "word": "안할",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "폭격도 협상도 안먹히는 이란, ‘진퇴양난’ 트럼프 행정부 “아이디어 구합니다” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45TWdNWDRVZHR6Q2hPNW4wN2c2Y21YNjVtV2lMS2ZjTFl3Wjh3YVNBVXhTTVM0ejhGekwwZGRLY0U0ZEtBRXdLZXJXRmpYcXVYbFRaYUFXYmpJZ9IBX0FVX3lxTE9mOER1Umh0d0ppeTIwNUNjQmpFeXBwaEQ0OTFJSUN6b3pQNEJzUktJQTJDWExMcTZETVk5U2Q0RGVwbFU5bkNUSk9vajFxYkE2Mkg0M2dxYTlIV25RMnE0?oc=5",
+          "title": "李, 검찰 수사권 폐지에 \"사필귀정의 필연적 조치\"...거부권 행사 안할 듯 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT2xzTUxCc0hQRDRQZzRSbHUtWFd3bE9zWnV3cTR5NkRzeGdNRWlUcjlCVU1HeHp3QmFNaE1qTTZwNElDbWVBTkM0aDNRbjVPZUhidHpRbVVFVDF4M292YlVUaWFmaTRSN212d1h2Y0N6X0w5REtmNk55d1NHVmhoYXBsZXRGRVpCeExmZTMzZEY?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 02:10:00 GMT"
+          "published": "Tue, 04 Aug 2026 01:38:00 GMT"
         }
       ]
     },
     {
-      "word": "이란",
+      "word": "수도권",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "폭격도 협상도 안먹히는 이란, ‘진퇴양난’ 트럼프 행정부 “아이디어 구합니다” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45TWdNWDRVZHR6Q2hPNW4wN2c2Y21YNjVtV2lMS2ZjTFl3Wjh3YVNBVXhTTVM0ejhGekwwZGRLY0U0ZEtBRXdLZXJXRmpYcXVYbFRaYUFXYmpJZ9IBX0FVX3lxTE9mOER1Umh0d0ppeTIwNUNjQmpFeXBwaEQ0OTFJSUN6b3pQNEJzUktJQTJDWExMcTZETVk5U2Q0RGVwbFU5bkNUSk9vajFxYkE2Mkg0M2dxYTlIV25RMnE0?oc=5",
+          "title": "수도권 첫 ‘폭염중대경보’…현재 폭염 상황은? - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpbkZYV0NVUVQ2MUtpYmVxZlhQUjN2MDNKNWYwclRCbWFKMGJQUVZDeERqWmNtTmR1R0JBaXdOOHJGUFVTZlVESDV1QWZHNFpQSWQ4VF9GRjVJVkE?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 02:10:00 GMT"
+          "published": "Tue, 04 Aug 2026 08:07:00 GMT"
         }
       ]
     },
     {
-      "word": "진퇴양난",
+      "word": "폭염중대경보현재",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "폭격도 협상도 안먹히는 이란, ‘진퇴양난’ 트럼프 행정부 “아이디어 구합니다” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45TWdNWDRVZHR6Q2hPNW4wN2c2Y21YNjVtV2lMS2ZjTFl3Wjh3YVNBVXhTTVM0ejhGekwwZGRLY0U0ZEtBRXdLZXJXRmpYcXVYbFRaYUFXYmpJZ9IBX0FVX3lxTE9mOER1Umh0d0ppeTIwNUNjQmpFeXBwaEQ0OTFJSUN6b3pQNEJzUktJQTJDWExMcTZETVk5U2Q0RGVwbFU5bkNUSk9vajFxYkE2Mkg0M2dxYTlIV25RMnE0?oc=5",
+          "title": "수도권 첫 ‘폭염중대경보’…현재 폭염 상황은? - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpbkZYV0NVUVQ2MUtpYmVxZlhQUjN2MDNKNWYwclRCbWFKMGJQUVZDeERqWmNtTmR1R0JBaXdOOHJGUFVTZlVESDV1QWZHNFpQSWQ4VF9GRjVJVkE?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 02:10:00 GMT"
+          "published": "Tue, 04 Aug 2026 08:07:00 GMT"
         }
       ]
     },
@@ -319,231 +292,270 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "폭격도 협상도 안먹히는 이란, ‘진퇴양난’ 트럼프 행정부 “아이디어 구합니다” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45TWdNWDRVZHR6Q2hPNW4wN2c2Y21YNjVtV2lMS2ZjTFl3Wjh3YVNBVXhTTVM0ejhGekwwZGRLY0U0ZEtBRXdLZXJXRmpYcXVYbFRaYUFXYmpJZ9IBX0FVX3lxTE9mOER1Umh0d0ppeTIwNUNjQmpFeXBwaEQ0OTFJSUN6b3pQNEJzUktJQTJDWExMcTZETVk5U2Q0RGVwbFU5bkNUSk9vajFxYkE2Mkg0M2dxYTlIV25RMnE0?oc=5",
+          "title": "트럼프 대통령, 이란과 진행 중인 협상은 합의 위한 ‘마지막 기회’ - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iQk9ZWW1FaDQ3WFdhbnhXcEFFeWZvRGc4RnA3VGdQalRndU92VEFwRUhtcVZWYkVKOWdQdVpNOHE5b08tc2YtLXd3S094aUpC0gFTQVVfeXFMT0FtQmFYM2l1VzFlaEtMM0R1SWgtWktPRDhwb3h6SzVJUVpuV2o5TDgxZTh2am1TeHVoOVk3QklTR2xSV28yMDNFNFQzTVZXbVltU0U?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 02:10:00 GMT"
+          "published": "Mon, 03 Aug 2026 20:45:37 GMT"
         }
       ]
     },
     {
-      "word": "행정부",
+      "word": "대통령",
       "count": 1,
-      "category": "ORGANIZATION",
+      "category": "PERSON",
       "articles": [
         {
-          "title": "폭격도 협상도 안먹히는 이란, ‘진퇴양난’ 트럼프 행정부 “아이디어 구합니다” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45TWdNWDRVZHR6Q2hPNW4wN2c2Y21YNjVtV2lMS2ZjTFl3Wjh3YVNBVXhTTVM0ejhGekwwZGRLY0U0ZEtBRXdLZXJXRmpYcXVYbFRaYUFXYmpJZ9IBX0FVX3lxTE9mOER1Umh0d0ppeTIwNUNjQmpFeXBwaEQ0OTFJSUN6b3pQNEJzUktJQTJDWExMcTZETVk5U2Q0RGVwbFU5bkNUSk9vajFxYkE2Mkg0M2dxYTlIV25RMnE0?oc=5",
+          "title": "트럼프 대통령, 이란과 진행 중인 협상은 합의 위한 ‘마지막 기회’ - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iQk9ZWW1FaDQ3WFdhbnhXcEFFeWZvRGc4RnA3VGdQalRndU92VEFwRUhtcVZWYkVKOWdQdVpNOHE5b08tc2YtLXd3S094aUpC0gFTQVVfeXFMT0FtQmFYM2l1VzFlaEtMM0R1SWgtWktPRDhwb3h6SzVJUVpuV2o5TDgxZTh2am1TeHVoOVk3QklTR2xSV28yMDNFNFQzTVZXbVltU0U?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 02:10:00 GMT"
+          "published": "Mon, 03 Aug 2026 20:45:37 GMT"
         }
       ]
     },
     {
-      "word": "아이디어",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "폭격도 협상도 안먹히는 이란, ‘진퇴양난’ 트럼프 행정부 “아이디어 구합니다” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45TWdNWDRVZHR6Q2hPNW4wN2c2Y21YNjVtV2lMS2ZjTFl3Wjh3YVNBVXhTTVM0ejhGekwwZGRLY0U0ZEtBRXdLZXJXRmpYcXVYbFRaYUFXYmpJZ9IBX0FVX3lxTE9mOER1Umh0d0ppeTIwNUNjQmpFeXBwaEQ0OTFJSUN6b3pQNEJzUktJQTJDWExMcTZETVk5U2Q0RGVwbFU5bkNUSk9vajFxYkE2Mkg0M2dxYTlIV25RMnE0?oc=5",
-          "source": "Google News",
-          "published": "Tue, 04 Aug 2026 02:10:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "구합니다",
+      "word": "이란",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "폭격도 협상도 안먹히는 이란, ‘진퇴양난’ 트럼프 행정부 “아이디어 구합니다” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45TWdNWDRVZHR6Q2hPNW4wN2c2Y21YNjVtV2lMS2ZjTFl3Wjh3YVNBVXhTTVM0ejhGekwwZGRLY0U0ZEtBRXdLZXJXRmpYcXVYbFRaYUFXYmpJZ9IBX0FVX3lxTE9mOER1Umh0d0ppeTIwNUNjQmpFeXBwaEQ0OTFJSUN6b3pQNEJzUktJQTJDWExMcTZETVk5U2Q0RGVwbFU5bkNUSk9vajFxYkE2Mkg0M2dxYTlIV25RMnE0?oc=5",
+          "title": "트럼프 대통령, 이란과 진행 중인 협상은 합의 위한 ‘마지막 기회’ - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iQk9ZWW1FaDQ3WFdhbnhXcEFFeWZvRGc4RnA3VGdQalRndU92VEFwRUhtcVZWYkVKOWdQdVpNOHE5b08tc2YtLXd3S094aUpC0gFTQVVfeXFMT0FtQmFYM2l1VzFlaEtMM0R1SWgtWktPRDhwb3h6SzVJUVpuV2o5TDgxZTh2am1TeHVoOVk3QklTR2xSV28yMDNFNFQzTVZXbVltU0U?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 02:10:00 GMT"
+          "published": "Mon, 03 Aug 2026 20:45:37 GMT"
         }
       ]
     },
     {
-      "word": "무인기",
+      "word": "중인",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘美무인기 오인’ 1군단, 이번엔 아군기를 적군기로 오인? - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQck9fZ0RWWWtDTzJrNG5aWThXVW16UGFlTTlpcUFvOVVscUJwekRDM2pHM25kR3RZSUZYeDR6MlJpVmVhNVZtampWeUhCSjY2MWZKaVZZbWVNQkRjb1RQdnFvZkVqZEhfRm4teUdLQ1d5ZGlkQ3gzejdBcGk3ZVN5SVBFQVpSSVIxY2p0R2xUTDY?oc=5",
+          "title": "트럼프 대통령, 이란과 진행 중인 협상은 합의 위한 ‘마지막 기회’ - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iQk9ZWW1FaDQ3WFdhbnhXcEFFeWZvRGc4RnA3VGdQalRndU92VEFwRUhtcVZWYkVKOWdQdVpNOHE5b08tc2YtLXd3S094aUpC0gFTQVVfeXFMT0FtQmFYM2l1VzFlaEtMM0R1SWgtWktPRDhwb3h6SzVJUVpuV2o5TDgxZTh2am1TeHVoOVk3QklTR2xSV28yMDNFNFQzTVZXbVltU0U?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 01:29:00 GMT"
+          "published": "Mon, 03 Aug 2026 20:45:37 GMT"
         }
       ]
     },
     {
-      "word": "1군단",
+      "word": "협상",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘美무인기 오인’ 1군단, 이번엔 아군기를 적군기로 오인? - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQck9fZ0RWWWtDTzJrNG5aWThXVW16UGFlTTlpcUFvOVVscUJwekRDM2pHM25kR3RZSUZYeDR6MlJpVmVhNVZtampWeUhCSjY2MWZKaVZZbWVNQkRjb1RQdnFvZkVqZEhfRm4teUdLQ1d5ZGlkQ3gzejdBcGk3ZVN5SVBFQVpSSVIxY2p0R2xUTDY?oc=5",
+          "title": "트럼프 대통령, 이란과 진행 중인 협상은 합의 위한 ‘마지막 기회’ - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iQk9ZWW1FaDQ3WFdhbnhXcEFFeWZvRGc4RnA3VGdQalRndU92VEFwRUhtcVZWYkVKOWdQdVpNOHE5b08tc2YtLXd3S094aUpC0gFTQVVfeXFMT0FtQmFYM2l1VzFlaEtMM0R1SWgtWktPRDhwb3h6SzVJUVpuV2o5TDgxZTh2am1TeHVoOVk3QklTR2xSV28yMDNFNFQzTVZXbVltU0U?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 01:29:00 GMT"
+          "published": "Mon, 03 Aug 2026 20:45:37 GMT"
         }
       ]
     },
     {
-      "word": "이번엔",
+      "word": "합의",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘美무인기 오인’ 1군단, 이번엔 아군기를 적군기로 오인? - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQck9fZ0RWWWtDTzJrNG5aWThXVW16UGFlTTlpcUFvOVVscUJwekRDM2pHM25kR3RZSUZYeDR6MlJpVmVhNVZtampWeUhCSjY2MWZKaVZZbWVNQkRjb1RQdnFvZkVqZEhfRm4teUdLQ1d5ZGlkQ3gzejdBcGk3ZVN5SVBFQVpSSVIxY2p0R2xUTDY?oc=5",
+          "title": "트럼프 대통령, 이란과 진행 중인 협상은 합의 위한 ‘마지막 기회’ - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iQk9ZWW1FaDQ3WFdhbnhXcEFFeWZvRGc4RnA3VGdQalRndU92VEFwRUhtcVZWYkVKOWdQdVpNOHE5b08tc2YtLXd3S094aUpC0gFTQVVfeXFMT0FtQmFYM2l1VzFlaEtMM0R1SWgtWktPRDhwb3h6SzVJUVpuV2o5TDgxZTh2am1TeHVoOVk3QklTR2xSV28yMDNFNFQzTVZXbVltU0U?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 01:29:00 GMT"
+          "published": "Mon, 03 Aug 2026 20:45:37 GMT"
         }
       ]
     },
     {
-      "word": "아군기",
+      "word": "위한",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘美무인기 오인’ 1군단, 이번엔 아군기를 적군기로 오인? - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQck9fZ0RWWWtDTzJrNG5aWThXVW16UGFlTTlpcUFvOVVscUJwekRDM2pHM25kR3RZSUZYeDR6MlJpVmVhNVZtampWeUhCSjY2MWZKaVZZbWVNQkRjb1RQdnFvZkVqZEhfRm4teUdLQ1d5ZGlkQ3gzejdBcGk3ZVN5SVBFQVpSSVIxY2p0R2xUTDY?oc=5",
+          "title": "트럼프 대통령, 이란과 진행 중인 협상은 합의 위한 ‘마지막 기회’ - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iQk9ZWW1FaDQ3WFdhbnhXcEFFeWZvRGc4RnA3VGdQalRndU92VEFwRUhtcVZWYkVKOWdQdVpNOHE5b08tc2YtLXd3S094aUpC0gFTQVVfeXFMT0FtQmFYM2l1VzFlaEtMM0R1SWgtWktPRDhwb3h6SzVJUVpuV2o5TDgxZTh2am1TeHVoOVk3QklTR2xSV28yMDNFNFQzTVZXbVltU0U?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 01:29:00 GMT"
+          "published": "Mon, 03 Aug 2026 20:45:37 GMT"
         }
       ]
     },
     {
-      "word": "적군기",
+      "word": "마지막",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘美무인기 오인’ 1군단, 이번엔 아군기를 적군기로 오인? - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQck9fZ0RWWWtDTzJrNG5aWThXVW16UGFlTTlpcUFvOVVscUJwekRDM2pHM25kR3RZSUZYeDR6MlJpVmVhNVZtampWeUhCSjY2MWZKaVZZbWVNQkRjb1RQdnFvZkVqZEhfRm4teUdLQ1d5ZGlkQ3gzejdBcGk3ZVN5SVBFQVpSSVIxY2p0R2xUTDY?oc=5",
+          "title": "트럼프 대통령, 이란과 진행 중인 협상은 합의 위한 ‘마지막 기회’ - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iQk9ZWW1FaDQ3WFdhbnhXcEFFeWZvRGc4RnA3VGdQalRndU92VEFwRUhtcVZWYkVKOWdQdVpNOHE5b08tc2YtLXd3S094aUpC0gFTQVVfeXFMT0FtQmFYM2l1VzFlaEtMM0R1SWgtWktPRDhwb3h6SzVJUVpuV2o5TDgxZTh2am1TeHVoOVk3QklTR2xSV28yMDNFNFQzTVZXbVltU0U?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 01:29:00 GMT"
+          "published": "Mon, 03 Aug 2026 20:45:37 GMT"
         }
       ]
     },
     {
-      "word": "오류",
+      "word": "기회",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"큰 오류 아니면 다음 시각 투표자 수 가감해 보고\"…합수본, 선관위 지침 확보 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObnotSDBTRjluTXdhR1Eyb3p6Vzc2V2VTQTNhNXpLbER2M29DdVBxNUxxbTN1S1N1MWpwU09ScHJheG85cHRRb2owSk82SzZKTWduMEFjUVUzTllCdXg2TmZhWEtPb2g4WmpzdlV3SEpkWEFsQzJrdXVKMk9IbWZxa0hISTVBT3M?oc=5",
+          "title": "트럼프 대통령, 이란과 진행 중인 협상은 합의 위한 ‘마지막 기회’ - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iQk9ZWW1FaDQ3WFdhbnhXcEFFeWZvRGc4RnA3VGdQalRndU92VEFwRUhtcVZWYkVKOWdQdVpNOHE5b08tc2YtLXd3S094aUpC0gFTQVVfeXFMT0FtQmFYM2l1VzFlaEtMM0R1SWgtWktPRDhwb3h6SzVJUVpuV2o5TDgxZTh2am1TeHVoOVk3QklTR2xSV28yMDNFNFQzTVZXbVltU0U?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 01:52:00 GMT"
+          "published": "Mon, 03 Aug 2026 20:45:37 GMT"
         }
       ]
     },
     {
-      "word": "아니면",
+      "word": "김은혜",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"큰 오류 아니면 다음 시각 투표자 수 가감해 보고\"…합수본, 선관위 지침 확보 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObnotSDBTRjluTXdhR1Eyb3p6Vzc2V2VTQTNhNXpLbER2M29DdVBxNUxxbTN1S1N1MWpwU09ScHJheG85cHRRb2owSk82SzZKTWduMEFjUVUzTllCdXg2TmZhWEtPb2g4WmpzdlV3SEpkWEFsQzJrdXVKMk9IbWZxa0hISTVBT3M?oc=5",
+          "title": "김은혜 \"시흥서도 시간대별 투표율 조작…경기도 세 번째\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sbkdWQklwUFktLWVSZlFZX1FJanpBckcwdEZ3WldoeDN0MjVmX3NDSWYwTGsxMmc0Y3pDYUtCMFUtcy1RRlZNSEhnbjJjeXQ3UmJFcjZoSXlIeF9jcVkza0k2QWc2Vmc?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 01:52:00 GMT"
+          "published": "Tue, 04 Aug 2026 06:52:00 GMT"
         }
       ]
     },
     {
-      "word": "다음",
+      "word": "시흥서",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"큰 오류 아니면 다음 시각 투표자 수 가감해 보고\"…합수본, 선관위 지침 확보 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObnotSDBTRjluTXdhR1Eyb3p6Vzc2V2VTQTNhNXpLbER2M29DdVBxNUxxbTN1S1N1MWpwU09ScHJheG85cHRRb2owSk82SzZKTWduMEFjUVUzTllCdXg2TmZhWEtPb2g4WmpzdlV3SEpkWEFsQzJrdXVKMk9IbWZxa0hISTVBT3M?oc=5",
+          "title": "김은혜 \"시흥서도 시간대별 투표율 조작…경기도 세 번째\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sbkdWQklwUFktLWVSZlFZX1FJanpBckcwdEZ3WldoeDN0MjVmX3NDSWYwTGsxMmc0Y3pDYUtCMFUtcy1RRlZNSEhnbjJjeXQ3UmJFcjZoSXlIeF9jcVkza0k2QWc2Vmc?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 01:52:00 GMT"
+          "published": "Tue, 04 Aug 2026 06:52:00 GMT"
         }
       ]
     },
     {
-      "word": "시각",
+      "word": "시간대별",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"큰 오류 아니면 다음 시각 투표자 수 가감해 보고\"…합수본, 선관위 지침 확보 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObnotSDBTRjluTXdhR1Eyb3p6Vzc2V2VTQTNhNXpLbER2M29DdVBxNUxxbTN1S1N1MWpwU09ScHJheG85cHRRb2owSk82SzZKTWduMEFjUVUzTllCdXg2TmZhWEtPb2g4WmpzdlV3SEpkWEFsQzJrdXVKMk9IbWZxa0hISTVBT3M?oc=5",
+          "title": "김은혜 \"시흥서도 시간대별 투표율 조작…경기도 세 번째\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sbkdWQklwUFktLWVSZlFZX1FJanpBckcwdEZ3WldoeDN0MjVmX3NDSWYwTGsxMmc0Y3pDYUtCMFUtcy1RRlZNSEhnbjJjeXQ3UmJFcjZoSXlIeF9jcVkza0k2QWc2Vmc?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 01:52:00 GMT"
+          "published": "Tue, 04 Aug 2026 06:52:00 GMT"
         }
       ]
     },
     {
-      "word": "투표자",
+      "word": "투표율",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"큰 오류 아니면 다음 시각 투표자 수 가감해 보고\"…합수본, 선관위 지침 확보 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObnotSDBTRjluTXdhR1Eyb3p6Vzc2V2VTQTNhNXpLbER2M29DdVBxNUxxbTN1S1N1MWpwU09ScHJheG85cHRRb2owSk82SzZKTWduMEFjUVUzTllCdXg2TmZhWEtPb2g4WmpzdlV3SEpkWEFsQzJrdXVKMk9IbWZxa0hISTVBT3M?oc=5",
+          "title": "김은혜 \"시흥서도 시간대별 투표율 조작…경기도 세 번째\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sbkdWQklwUFktLWVSZlFZX1FJanpBckcwdEZ3WldoeDN0MjVmX3NDSWYwTGsxMmc0Y3pDYUtCMFUtcy1RRlZNSEhnbjJjeXQ3UmJFcjZoSXlIeF9jcVkza0k2QWc2Vmc?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 01:52:00 GMT"
+          "published": "Tue, 04 Aug 2026 06:52:00 GMT"
         }
       ]
     },
     {
-      "word": "가감해",
+      "word": "조작경기",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"큰 오류 아니면 다음 시각 투표자 수 가감해 보고\"…합수본, 선관위 지침 확보 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObnotSDBTRjluTXdhR1Eyb3p6Vzc2V2VTQTNhNXpLbER2M29DdVBxNUxxbTN1S1N1MWpwU09ScHJheG85cHRRb2owSk82SzZKTWduMEFjUVUzTllCdXg2TmZhWEtPb2g4WmpzdlV3SEpkWEFsQzJrdXVKMk9IbWZxa0hISTVBT3M?oc=5",
+          "title": "김은혜 \"시흥서도 시간대별 투표율 조작…경기도 세 번째\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sbkdWQklwUFktLWVSZlFZX1FJanpBckcwdEZ3WldoeDN0MjVmX3NDSWYwTGsxMmc0Y3pDYUtCMFUtcy1RRlZNSEhnbjJjeXQ3UmJFcjZoSXlIeF9jcVkza0k2QWc2Vmc?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 01:52:00 GMT"
+          "published": "Tue, 04 Aug 2026 06:52:00 GMT"
         }
       ]
     },
     {
-      "word": "보고합수본",
+      "word": "번째",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"큰 오류 아니면 다음 시각 투표자 수 가감해 보고\"…합수본, 선관위 지침 확보 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObnotSDBTRjluTXdhR1Eyb3p6Vzc2V2VTQTNhNXpLbER2M29DdVBxNUxxbTN1S1N1MWpwU09ScHJheG85cHRRb2owSk82SzZKTWduMEFjUVUzTllCdXg2TmZhWEtPb2g4WmpzdlV3SEpkWEFsQzJrdXVKMk9IbWZxa0hISTVBT3M?oc=5",
+          "title": "김은혜 \"시흥서도 시간대별 투표율 조작…경기도 세 번째\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sbkdWQklwUFktLWVSZlFZX1FJanpBckcwdEZ3WldoeDN0MjVmX3NDSWYwTGsxMmc0Y3pDYUtCMFUtcy1RRlZNSEhnbjJjeXQ3UmJFcjZoSXlIeF9jcVkza0k2QWc2Vmc?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 01:52:00 GMT"
+          "published": "Tue, 04 Aug 2026 06:52:00 GMT"
         }
       ]
     },
     {
-      "word": "선관위",
+      "word": "마이크",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"큰 오류 아니면 다음 시각 투표자 수 가감해 보고\"…합수본, 선관위 지침 확보 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObnotSDBTRjluTXdhR1Eyb3p6Vzc2V2VTQTNhNXpLbER2M29DdVBxNUxxbTN1S1N1MWpwU09ScHJheG85cHRRb2owSk82SzZKTWduMEFjUVUzTllCdXg2TmZhWEtPb2g4WmpzdlV3SEpkWEFsQzJrdXVKMk9IbWZxa0hISTVBT3M?oc=5",
+          "title": "마이크 꺼진 줄 알았던 최민희 \"박쥐\"…김영호 \"일베 문화\" - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4waHZSdEh5WkUxNzd1eGdXTThmT3Y3bk5zajVHdWhIaGN2LUQtejNDXzBDdjY1VkJiWUtVVkRkNy1xeUdaTGNpR25IaHoxalAteVBvcFN2S3ByQQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 01:52:00 GMT"
+          "published": "Tue, 04 Aug 2026 03:34:02 GMT"
         }
       ]
     },
     {
-      "word": "지침",
+      "word": "꺼진",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"큰 오류 아니면 다음 시각 투표자 수 가감해 보고\"…합수본, 선관위 지침 확보 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObnotSDBTRjluTXdhR1Eyb3p6Vzc2V2VTQTNhNXpLbER2M29DdVBxNUxxbTN1S1N1MWpwU09ScHJheG85cHRRb2owSk82SzZKTWduMEFjUVUzTllCdXg2TmZhWEtPb2g4WmpzdlV3SEpkWEFsQzJrdXVKMk9IbWZxa0hISTVBT3M?oc=5",
+          "title": "마이크 꺼진 줄 알았던 최민희 \"박쥐\"…김영호 \"일베 문화\" - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4waHZSdEh5WkUxNzd1eGdXTThmT3Y3bk5zajVHdWhIaGN2LUQtejNDXzBDdjY1VkJiWUtVVkRkNy1xeUdaTGNpR25IaHoxalAteVBvcFN2S3ByQQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 01:52:00 GMT"
+          "published": "Tue, 04 Aug 2026 03:34:02 GMT"
+        }
+      ]
+    },
+    {
+      "word": "알았던",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "마이크 꺼진 줄 알았던 최민희 \"박쥐\"…김영호 \"일베 문화\" - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4waHZSdEh5WkUxNzd1eGdXTThmT3Y3bk5zajVHdWhIaGN2LUQtejNDXzBDdjY1VkJiWUtVVkRkNy1xeUdaTGNpR25IaHoxalAteVBvcFN2S3ByQQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 03:34:02 GMT"
+        }
+      ]
+    },
+    {
+      "word": "최민희",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "마이크 꺼진 줄 알았던 최민희 \"박쥐\"…김영호 \"일베 문화\" - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4waHZSdEh5WkUxNzd1eGdXTThmT3Y3bk5zajVHdWhIaGN2LUQtejNDXzBDdjY1VkJiWUtVVkRkNy1xeUdaTGNpR25IaHoxalAteVBvcFN2S3ByQQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 03:34:02 GMT"
+        }
+      ]
+    },
+    {
+      "word": "박쥐김영호",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "마이크 꺼진 줄 알았던 최민희 \"박쥐\"…김영호 \"일베 문화\" - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4waHZSdEh5WkUxNzd1eGdXTThmT3Y3bk5zajVHdWhIaGN2LUQtejNDXzBDdjY1VkJiWUtVVkRkNy1xeUdaTGNpR25IaHoxalAteVBvcFN2S3ByQQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 03:34:02 GMT"
+        }
+      ]
+    },
+    {
+      "word": "일베",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "마이크 꺼진 줄 알았던 최민희 \"박쥐\"…김영호 \"일베 문화\" - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4waHZSdEh5WkUxNzd1eGdXTThmT3Y3bk5zajVHdWhIaGN2LUQtejNDXzBDdjY1VkJiWUtVVkRkNy1xeUdaTGNpR25IaHoxalAteVBvcFN2S3ByQQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 03:34:02 GMT"
         }
       ]
     }
