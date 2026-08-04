@@ -1,68 +1,131 @@
 {
   "language": "ko",
-  "last_updated": 1785845183.7010849,
+  "last_updated": 1785857337.2930894,
   "count": 40,
   "trends": [
     {
-      "word": "폭염",
+      "word": "대통령",
       "count": 4,
+      "category": "PERSON",
+      "articles": [
+        {
+          "title": "부동산 여론 심상치않자…이 대통령, 세제 이어 공급 속도전 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KTHpPbTNTYWE3VGstSTk3X25KR0xKZnptQjQxNUpzS3NQdjlBZW9nY2syXzNWZjNxWkk1cDM2QUFVNmc4cnVJTGJBTkRwMHlyaC1wQWc0ZEVycnlEM1FuXzF6Z0x0YzhCbThF?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 14:21:00 GMT"
+        },
+        {
+          "title": "이 대통령, 연임 개헌 논란에 일단 ‘침묵’…여권서도 “직접 정리해야” 우려 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SNHRtb1hUQ0s0NHdFdGJPUFBrM09FS0JTUXJNQ2trVThwODdjcjZyQmNwU3dFQ3BYaDFxUzlFWUtWRjBpRGFXZmlXQ2otMVU?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 07:00:40 GMT"
+        },
+        {
+          "title": "李대통령 \"공정위, 경제檢 역할 제대로…담합 꿈 못꾸게 해달라\" - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83SmlVRjE3dFVaN3RZeFozQ2hPTlMtNHNFc2RiTW5yWEphbFpDem55aENNeU1iRGs1NXN0UmNtek5uT0gwbzgzUzlzTmdxWVVxMjg2UEFLaXFWQkHSAWBBVV95cUxPTk9LUlNRVWsxVDc3ckRhUkJoX0VyUndvaDRzV3FoMXpSZ3NHLVVSOGY5VU0zeFRCTzd4ZHNZNXVzSkwySEQweDhCVkJtRE5ra0doTU5nUGZ4Z255UTVqQmU?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 07:59:30 GMT"
+        },
+        {
+          "title": "이 대통령 “배달 플랫폼 경쟁 이미 없어져…과도한 수수료 통제해야” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jSjd5bmJralRWWGExeHc5LW1ZS2ZYLVhNSVh3YlNPZWJBMFhKcHdFSzZtX2hWcmJKbU9GUkxEVlgwN05telBfQmttRHBfT3c3RzVKY1FuUC0ySWw3TnA4ckhoTmc4QjZMNlB6RTBWNXFrRW9W?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 10:17:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "감독",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "'제주SK전 신승' 콤파니 뮌헨 감독 \"양팀 모두 많은 에너지를 보여준 경기\" - 헤드라인제주",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WLWFjeUdoQzczZ25EazZWUVJWODNKSUVCZTh1cndYb0RmZFNuWGFrY0xmMlY4ckliamhRNU9aOVI2d0ppQVRpVnFELURwamg0dk9MUGhIb0s3akpkcFBtcWVSUkFKYlJKYmV3Vkx0N1JBTUU?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 13:23:32 GMT"
+        },
+        {
+          "title": "[단독]펩 과르디올라 오른팔로 불렸던 토렌트 감독, 한국 대표팀 사령탑 도전 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52SDdtd2lLWVFpLVlSOFZkc28yVlkyaGhrb2Q1T2dveUUzUXdtUS1lOEVESDFRdlRNdTIyd3A1TXR5dVA5V2YtQkRtd3hlQmM2UGQzQ1phcVBaZ9IBX0FVX3lxTE04M3VyZFJsU0kzb0RWUTVkZnBYaEllVlB0dERZdXJ6My1Jd0ZLVWRMRUN6NGk4cERidTh6YjdnZUVMMExMdElnbDlqZ21zdnZJU3A4NkVTbkVCazlrUDRJ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 05:04:00 GMT"
+        },
+        {
+          "title": "K리그2 성남 \"전경준 감독과 계약 종료…대행 체제 전환\" - news.sbs.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hZkpGYmZZVUlxTk1LN3lEVFhZN1kwR3BpYU9VQmp5NzhWdTdJRWUtUFBWU2l1dFRieFlkMTQ1Ync3b0VjRUE1RnQ1NzBsZnprYUgyYVl6cm5fdnViM3k2OWpkMzllZW0zTHc?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 09:46:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "세제",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "부동산 여론 심상치않자…이 대통령, 세제 이어 공급 속도전 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KTHpPbTNTYWE3VGstSTk3X25KR0xKZnptQjQxNUpzS3NQdjlBZW9nY2syXzNWZjNxWkk1cDM2QUFVNmc4cnVJTGJBTkRwMHlyaC1wQWc0ZEVycnlEM1FuXzF6Z0x0YzhCbThF?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 14:21:00 GMT"
+        },
+        {
+          "title": "세제 개편 정책 목표는 결국 ‘증세’… “이직·파견 때마다 취득·양도세 물고 집 사나?” - 조선비즈 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMWVRZ1FtUnZ2VjBMRW9Xa2Q1UENmYVlrc0tLMFZsVmd5VVZicFNYSjBjQ2RURi11VE43dnB1VXNXbnYwVDh1LTdpTmhtVmF0bThYT1NIV21IaW84YWVENktJaUtFRUplWklQbzdNOHB0OUNpWTJDeXg0N2JoSHh4aE9zUTUtMmU1SnlhczhzcjlWNTB2Um94c9IBrAFBVV95cUxNRTZFTXhRLVktb1hpSDVBLXVhRk0zeWFmWmlPWVdqa1V0OXlJTnZJVzBvQXlGRmc2X1NwT1dGdmJaZ2s1UlEyM2hoY0Zlc1JTdDh5NVAxcWVIcXpCQS1VeWtkZlA0UGh1aGkxWVkzb1AxWDBWQnU1cUctcG1zdS00U2JBcUdyS2psSlNXcjNhQllmd0NMMEE4X3ptaFZfaWpFcFdSV19lalp2RXNS?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 09:07:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "폭염",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
           "title": "“폭염 강도, 여기서 더 심해질 듯”…내일 중대경보 인천·안산·김포까지 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xdnpVWmFxSVZTaDE4cVpQQlF2OEtjREpNMUhjMHJfWEMxVTRDQ1pYVUpaV1g1ZmdRMm1XVXB1T3prSHdUX2VVbmxqdEpjTHFMUWFfcEhrS2huZ2Q2UHhPMy10a0NlRUo5NW9ISQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 11:13:00 GMT"
+          "published": "Tue, 04 Aug 2026 12:14:00 GMT"
         },
         {
-          "title": "수도권 첫 ‘폭염중대경보’…현재 폭염 상황은? - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpbkZYV0NVUVQ2MUtpYmVxZlhQUjN2MDNKNWYwclRCbWFKMGJQUVZDeERqWmNtTmR1R0JBaXdOOHJGUFVTZlVESDV1QWZHNFpQSWQ4VF9GRjVJVkE?oc=5",
+          "title": "KBO, 37도 폭염 속 퓨처스리그 경기 강행 '논란' - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wV1BBUDVlVm5sdWpScGI3TE93Ri1yNHVwLWRsWDAwRl9OcjZSUFhVTGRYM0VSQjg0Ny1KMUYzNmQyWW4ya2paLXExVjhaYnM?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 08:07:00 GMT"
-        },
-        {
-          "title": "연이은 폭염에 온열질환 추정 사망자 2명 발생 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Qb3F5SUh3ZUVTclg4bS0xem1rR3d0OGpHMXlwWGYwX29NRkNuTFJPOGRqaW53b2ZSaTkyRUoxV3I0a192RkFWaHh0dDdHTVhpTFVOVnRVVl9fVDQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 04 Aug 2026 07:25:00 GMT"
-        },
-        {
-          "title": "李대통령 \"폭염, 국가재난 사태로 보고 필요한 조치 총력 추진\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wYXJtZVdsN1FLT0xvdlNQaUhjZS1KdXZ2ME1SeGQ5MU1JQ1hINlF1dHhYWUtSbmNZeEUwYm9KWlZ1WFJrSlNjVWZuLU43V3hvT2NTYW1xeGRCeXfSAWBBVV95cUxOS0hZMnh4Y2JKaldfVnh5QW03UFRycm5aQWItQW1wcFdyeDNRWWREODBRM0VmNHFmZEJPOThGWjVZdWhYX1NwZzF1TDItMElkSDc5OG55dEw2eTcyTVBTUEk?oc=5",
-          "source": "Google News",
-          "published": "Tue, 04 Aug 2026 01:23:30 GMT"
+          "published": "Tue, 04 Aug 2026 07:34:00 GMT"
         }
       ]
     },
     {
-      "word": "대통령",
-      "count": 2,
-      "category": "PERSON",
-      "articles": [
-        {
-          "title": "이 대통령 “엄청난 권한 갖는 경찰, 안전한 걸까 우려 있어…더 높은 책임 요구” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RNXRiajVPX29sT05VQnNKNnd6NFhKRnZxeWdaczJFWnRWSmEtZEU4eVhBQ1dGc3BqQXNPUDRkNzRhVk5OYnJfaTh4UGdfXzNlaWNubklONFBxX193b0JJeDVIYjM4Zw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 04 Aug 2026 06:03:00 GMT"
-        },
-        {
-          "title": "李대통령 \"폭염, 국가재난 사태로 보고 필요한 조치 총력 추진\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wYXJtZVdsN1FLT0xvdlNQaUhjZS1KdXZ2ME1SeGQ5MU1JQ1hINlF1dHhYWUtSbmNZeEUwYm9KWlZ1WFJrSlNjVWZuLU43V3hvT2NTYW1xeGRCeXfSAWBBVV95cUxOS0hZMnh4Y2JKaldfVnh5QW03UFRycm5aQWItQW1wcFdyeDNRWWREODBRM0VmNHFmZEJPOThGWjVZdWhYX1NwZzF1TDItMElkSDc5OG55dEw2eTcyTVBTUEk?oc=5",
-          "source": "Google News",
-          "published": "Tue, 04 Aug 2026 01:23:30 GMT"
-        }
-      ]
-    },
-    {
-      "word": "사태",
+      "word": "논란",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "李대통령 \"폭염, 국가재난 사태로 보고 필요한 조치 총력 추진\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wYXJtZVdsN1FLT0xvdlNQaUhjZS1KdXZ2ME1SeGQ5MU1JQ1hINlF1dHhYWUtSbmNZeEUwYm9KWlZ1WFJrSlNjVWZuLU43V3hvT2NTYW1xeGRCeXfSAWBBVV95cUxOS0hZMnh4Y2JKaldfVnh5QW03UFRycm5aQWItQW1wcFdyeDNRWWREODBRM0VmNHFmZEJPOThGWjVZdWhYX1NwZzF1TDItMElkSDc5OG55dEw2eTcyTVBTUEk?oc=5",
+          "title": "이 대통령, 연임 개헌 논란에 일단 ‘침묵’…여권서도 “직접 정리해야” 우려 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SNHRtb1hUQ0s0NHdFdGJPUFBrM09FS0JTUXJNQ2trVThwODdjcjZyQmNwU3dFQ3BYaDFxUzlFWUtWRjBpRGFXZmlXQ2otMVU?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 01:23:30 GMT"
+          "published": "Tue, 04 Aug 2026 07:00:40 GMT"
+        },
+        {
+          "title": "KBO, 37도 폭염 속 퓨처스리그 경기 강행 '논란' - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wV1BBUDVlVm5sdWpScGI3TE93Ri1yNHVwLWRsWDAwRl9OcjZSUFhVTGRYM0VSQjg0Ny1KMUYzNmQyWW4ya2paLXExVjhaYnM?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 07:34:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "경제",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "李대통령 \"공정위, 경제檢 역할 제대로…담합 꿈 못꾸게 해달라\" - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83SmlVRjE3dFVaN3RZeFozQ2hPTlMtNHNFc2RiTW5yWEphbFpDem55aENNeU1iRGs1NXN0UmNtek5uT0gwbzgzUzlzTmdxWVVxMjg2UEFLaXFWQkHSAWBBVV95cUxPTk9LUlNRVWsxVDc3ckRhUkJoX0VyUndvaDRzV3FoMXpSZ3NHLVVSOGY5VU0zeFRCTzd4ZHNZNXVzSkwySEQweDhCVkJtRE5ra0doTU5nUGZ4Z255UTVqQmU?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 07:59:30 GMT"
         },
         {
           "title": "세우타 사태, '이민 무기화' 대표적 사례… 경제 규모 10분의 1 모로코의 스페인 압박 수단 - 뉴스핌",
@@ -73,34 +136,320 @@
       ]
     },
     {
-      "word": "ROG",
-      "count": 2,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "ROG는 ROG Swift OLED PG27UCWM 및 PG32UCWM 모니터의 사전 주문을 시작한다고 발표했습니다. - GameGPU",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVlhYRXlQblVLeHRPSXVsWUR4MDVYSEJVTlJFRFhBaHl1a1hvaU40UnZfZDl5STdlXy02YWF4Yzk2QlRvdFB4SHYxbVFiOXRhN3RYR0Z1X3F3dkFQSWJaREk1VmtNNzdGQi1YMEl6V1RvWklneGo1clRneklGVkZlQWdfeVhMQ0RhUXB3elE2NlZvMHN3Z1NhMW12ZXBqQzlnMElSc1c5WFNtU21UQnVJblJNT2k0RXBVUUE?oc=5",
-          "source": "Google News",
-          "published": "Tue, 04 Aug 2026 11:40:14 GMT"
-        }
-      ]
-    },
-    {
-      "word": "활동",
+      "word": "공식",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"눈 안 감기고 입 돌아가\"…유퉁, 안면마비 증세로 '활동 중단' - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZNGlPQVZtN0dxbF9ra2tRNl9tanpWcG45bHN0M0NPbGRYTzhLXzJtTWRhM2Z5YjlJSXhSeGxKWl90TWFVa1ZXbDJZRkJWZUFBbnFReXNxdWFtZw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 04 Aug 2026 05:45:42 GMT"
-        },
-        {
-          "title": "'친부 갈등' 서민재, 나홀로 출산 子 향한 애틋한 심경...육아 전하며 활동 재개 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLVBraUVNektBU3MxcTVkaUhBX3NneFVyNmtrSlByejZUNi1zVm9rcDdHc0FVSVJVOUpUSTE1LWlVQzJCenEyMVp4Y3ZHNjhMVEp1cVJveEF1MVFjSVB3dTd1ZlZhU2FhaU5fMUNYNV9tdlVvc25SeFZmZGg1Nk91MnVkVHRJSGVsNHlKV3ktYjVBR2E2?oc=5",
+          "title": "[공식] 알디원 상현, 5일 성대 폴립 제거 수술..\"3주간 공식 스케줄 불참\" [전문] - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPekpYcTc3Y3BGUUpzQVVmb3NEYW54ODYyVy1KWTd2MGJNeWViQkloQ1hfOEk5eEZSdDB3X0tmQkZzS2drejI2bHYzVnZ3c2Z1MW5FNG90NUtObENfLUxtQnA1UHdVc2M0N0IyaEM1cEkycUZkMHo5WTA3bW9CNENjelEwaFRPNnp0Z3c?oc=5",
           "source": "Google News",
           "published": "Tue, 04 Aug 2026 07:59:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "경기",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "KBO, 37도 폭염 속 퓨처스리그 경기 강행 '논란' - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wV1BBUDVlVm5sdWpScGI3TE93Ri1yNHVwLWRsWDAwRl9OcjZSUFhVTGRYM0VSQjg0Ny1KMUYzNmQyWW4ya2paLXExVjhaYnM?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 07:34:00 GMT"
+        },
+        {
+          "title": "'제주SK전 신승' 콤파니 뮌헨 감독 \"양팀 모두 많은 에너지를 보여준 경기\" - 헤드라인제주",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WLWFjeUdoQzczZ25EazZWUVJWODNKSUVCZTh1cndYb0RmZFNuWGFrY0xmMlY4ckliamhRNU9aOVI2d0ppQVRpVnFELURwamg0dk9MUGhIb0s3akpkcFBtcWVSUkFKYlJKYmV3Vkx0N1JBTUU?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 13:23:32 GMT"
+        }
+      ]
+    },
+    {
+      "word": "검사",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "검사 수사권 72년 만에 사라져…형소법 개정안 핵심 3가지 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5NW8tTDlsXzh6eVU3MS14U1A2dWJidTNobElHc0NSbFBlaWo0TTE0SGRpa3Y5dUxlNi1vd3U1Mmo2T2FXOEFoeXdnR3psU1BaRkx5bENiVGtUSTZBdnVNczVjb1FUNDVnaWVsLUNaOVN1UQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 11:21:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "수사권",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "검사 수사권 72년 만에 사라져…형소법 개정안 핵심 3가지 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5NW8tTDlsXzh6eVU3MS14U1A2dWJidTNobElHc0NSbFBlaWo0TTE0SGRpa3Y5dUxlNi1vd3U1Mmo2T2FXOEFoeXdnR3psU1BaRkx5bENiVGtUSTZBdnVNczVjb1FUNDVnaWVsLUNaOVN1UQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 11:21:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "72년",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "검사 수사권 72년 만에 사라져…형소법 개정안 핵심 3가지 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5NW8tTDlsXzh6eVU3MS14U1A2dWJidTNobElHc0NSbFBlaWo0TTE0SGRpa3Y5dUxlNi1vd3U1Mmo2T2FXOEFoeXdnR3psU1BaRkx5bENiVGtUSTZBdnVNczVjb1FUNDVnaWVsLUNaOVN1UQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 11:21:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "만에",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "검사 수사권 72년 만에 사라져…형소법 개정안 핵심 3가지 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5NW8tTDlsXzh6eVU3MS14U1A2dWJidTNobElHc0NSbFBlaWo0TTE0SGRpa3Y5dUxlNi1vd3U1Mmo2T2FXOEFoeXdnR3psU1BaRkx5bENiVGtUSTZBdnVNczVjb1FUNDVnaWVsLUNaOVN1UQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 11:21:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "사라져형소법",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "검사 수사권 72년 만에 사라져…형소법 개정안 핵심 3가지 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5NW8tTDlsXzh6eVU3MS14U1A2dWJidTNobElHc0NSbFBlaWo0TTE0SGRpa3Y5dUxlNi1vd3U1Mmo2T2FXOEFoeXdnR3psU1BaRkx5bENiVGtUSTZBdnVNczVjb1FUNDVnaWVsLUNaOVN1UQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 11:21:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "개정안",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "검사 수사권 72년 만에 사라져…형소법 개정안 핵심 3가지 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5NW8tTDlsXzh6eVU3MS14U1A2dWJidTNobElHc0NSbFBlaWo0TTE0SGRpa3Y5dUxlNi1vd3U1Mmo2T2FXOEFoeXdnR3psU1BaRkx5bENiVGtUSTZBdnVNczVjb1FUNDVnaWVsLUNaOVN1UQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 11:21:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "핵심",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "검사 수사권 72년 만에 사라져…형소법 개정안 핵심 3가지 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5NW8tTDlsXzh6eVU3MS14U1A2dWJidTNobElHc0NSbFBlaWo0TTE0SGRpa3Y5dUxlNi1vd3U1Mmo2T2FXOEFoeXdnR3psU1BaRkx5bENiVGtUSTZBdnVNczVjb1FUNDVnaWVsLUNaOVN1UQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 11:21:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "3가지",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "검사 수사권 72년 만에 사라져…형소법 개정안 핵심 3가지 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5NW8tTDlsXzh6eVU3MS14U1A2dWJidTNobElHc0NSbFBlaWo0TTE0SGRpa3Y5dUxlNi1vd3U1Mmo2T2FXOEFoeXdnR3psU1BaRkx5bENiVGtUSTZBdnVNczVjb1FUNDVnaWVsLUNaOVN1UQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 11:21:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "이란오",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "\"이란·오만, 호르무즈 통항 협상 타결 근접… 서비스료 부과\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLXdWN3ZYb3o2c2l5eHB4dmpyMUVScXBCczltRjAxNmhkdnF5c0drNEJMYWhfcUYtcGItMU5FUXpNYkZES3J4Y1FsZjFRS2ZIcWtaZVZwV3VRNktkWDE1M0FYbzZFMXpYcUlXU3dRS05NbFJMbjY0VVkwMXZOR2VSTmN1Y1BYa18xay1KdG5sYVRpNnJCWklDMFp5WVBkUQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 07:58:13 GMT"
+        }
+      ]
+    },
+    {
+      "word": "호르무즈",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "\"이란·오만, 호르무즈 통항 협상 타결 근접… 서비스료 부과\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLXdWN3ZYb3o2c2l5eHB4dmpyMUVScXBCczltRjAxNmhkdnF5c0drNEJMYWhfcUYtcGItMU5FUXpNYkZES3J4Y1FsZjFRS2ZIcWtaZVZwV3VRNktkWDE1M0FYbzZFMXpYcUlXU3dRS05NbFJMbjY0VVkwMXZOR2VSTmN1Y1BYa18xay1KdG5sYVRpNnJCWklDMFp5WVBkUQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 07:58:13 GMT"
+        }
+      ]
+    },
+    {
+      "word": "통항",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "\"이란·오만, 호르무즈 통항 협상 타결 근접… 서비스료 부과\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLXdWN3ZYb3o2c2l5eHB4dmpyMUVScXBCczltRjAxNmhkdnF5c0drNEJMYWhfcUYtcGItMU5FUXpNYkZES3J4Y1FsZjFRS2ZIcWtaZVZwV3VRNktkWDE1M0FYbzZFMXpYcUlXU3dRS05NbFJMbjY0VVkwMXZOR2VSTmN1Y1BYa18xay1KdG5sYVRpNnJCWklDMFp5WVBkUQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 07:58:13 GMT"
+        }
+      ]
+    },
+    {
+      "word": "협상",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "\"이란·오만, 호르무즈 통항 협상 타결 근접… 서비스료 부과\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLXdWN3ZYb3o2c2l5eHB4dmpyMUVScXBCczltRjAxNmhkdnF5c0drNEJMYWhfcUYtcGItMU5FUXpNYkZES3J4Y1FsZjFRS2ZIcWtaZVZwV3VRNktkWDE1M0FYbzZFMXpYcUlXU3dRS05NbFJMbjY0VVkwMXZOR2VSTmN1Y1BYa18xay1KdG5sYVRpNnJCWklDMFp5WVBkUQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 07:58:13 GMT"
+        }
+      ]
+    },
+    {
+      "word": "타결",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "\"이란·오만, 호르무즈 통항 협상 타결 근접… 서비스료 부과\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLXdWN3ZYb3o2c2l5eHB4dmpyMUVScXBCczltRjAxNmhkdnF5c0drNEJMYWhfcUYtcGItMU5FUXpNYkZES3J4Y1FsZjFRS2ZIcWtaZVZwV3VRNktkWDE1M0FYbzZFMXpYcUlXU3dRS05NbFJMbjY0VVkwMXZOR2VSTmN1Y1BYa18xay1KdG5sYVRpNnJCWklDMFp5WVBkUQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 07:58:13 GMT"
+        }
+      ]
+    },
+    {
+      "word": "근접",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "\"이란·오만, 호르무즈 통항 협상 타결 근접… 서비스료 부과\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLXdWN3ZYb3o2c2l5eHB4dmpyMUVScXBCczltRjAxNmhkdnF5c0drNEJMYWhfcUYtcGItMU5FUXpNYkZES3J4Y1FsZjFRS2ZIcWtaZVZwV3VRNktkWDE1M0FYbzZFMXpYcUlXU3dRS05NbFJMbjY0VVkwMXZOR2VSTmN1Y1BYa18xay1KdG5sYVRpNnJCWklDMFp5WVBkUQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 07:58:13 GMT"
+        }
+      ]
+    },
+    {
+      "word": "서비스료",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "\"이란·오만, 호르무즈 통항 협상 타결 근접… 서비스료 부과\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLXdWN3ZYb3o2c2l5eHB4dmpyMUVScXBCczltRjAxNmhkdnF5c0drNEJMYWhfcUYtcGItMU5FUXpNYkZES3J4Y1FsZjFRS2ZIcWtaZVZwV3VRNktkWDE1M0FYbzZFMXpYcUlXU3dRS05NbFJMbjY0VVkwMXZOR2VSTmN1Y1BYa18xay1KdG5sYVRpNnJCWklDMFp5WVBkUQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 07:58:13 GMT"
+        }
+      ]
+    },
+    {
+      "word": "부과",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "\"이란·오만, 호르무즈 통항 협상 타결 근접… 서비스료 부과\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLXdWN3ZYb3o2c2l5eHB4dmpyMUVScXBCczltRjAxNmhkdnF5c0drNEJMYWhfcUYtcGItMU5FUXpNYkZES3J4Y1FsZjFRS2ZIcWtaZVZwV3VRNktkWDE1M0FYbzZFMXpYcUlXU3dRS05NbFJMbjY0VVkwMXZOR2VSTmN1Y1BYa18xay1KdG5sYVRpNnJCWklDMFp5WVBkUQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 07:58:13 GMT"
+        }
+      ]
+    },
+    {
+      "word": "부동산",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "부동산 여론 심상치않자…이 대통령, 세제 이어 공급 속도전 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KTHpPbTNTYWE3VGstSTk3X25KR0xKZnptQjQxNUpzS3NQdjlBZW9nY2syXzNWZjNxWkk1cDM2QUFVNmc4cnVJTGJBTkRwMHlyaC1wQWc0ZEVycnlEM1FuXzF6Z0x0YzhCbThF?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 14:21:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "여론",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "부동산 여론 심상치않자…이 대통령, 세제 이어 공급 속도전 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KTHpPbTNTYWE3VGstSTk3X25KR0xKZnptQjQxNUpzS3NQdjlBZW9nY2syXzNWZjNxWkk1cDM2QUFVNmc4cnVJTGJBTkRwMHlyaC1wQWc0ZEVycnlEM1FuXzF6Z0x0YzhCbThF?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 14:21:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "심상치않자",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "부동산 여론 심상치않자…이 대통령, 세제 이어 공급 속도전 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KTHpPbTNTYWE3VGstSTk3X25KR0xKZnptQjQxNUpzS3NQdjlBZW9nY2syXzNWZjNxWkk1cDM2QUFVNmc4cnVJTGJBTkRwMHlyaC1wQWc0ZEVycnlEM1FuXzF6Z0x0YzhCbThF?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 14:21:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "이어",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "부동산 여론 심상치않자…이 대통령, 세제 이어 공급 속도전 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KTHpPbTNTYWE3VGstSTk3X25KR0xKZnptQjQxNUpzS3NQdjlBZW9nY2syXzNWZjNxWkk1cDM2QUFVNmc4cnVJTGJBTkRwMHlyaC1wQWc0ZEVycnlEM1FuXzF6Z0x0YzhCbThF?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 14:21:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "공급",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "부동산 여론 심상치않자…이 대통령, 세제 이어 공급 속도전 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KTHpPbTNTYWE3VGstSTk3X25KR0xKZnptQjQxNUpzS3NQdjlBZW9nY2syXzNWZjNxWkk1cDM2QUFVNmc4cnVJTGJBTkRwMHlyaC1wQWc0ZEVycnlEM1FuXzF6Z0x0YzhCbThF?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 14:21:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "속도전",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "부동산 여론 심상치않자…이 대통령, 세제 이어 공급 속도전 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KTHpPbTNTYWE3VGstSTk3X25KR0xKZnptQjQxNUpzS3NQdjlBZW9nY2syXzNWZjNxWkk1cDM2QUFVNmc4cnVJTGJBTkRwMHlyaC1wQWc0ZEVycnlEM1FuXzF6Z0x0YzhCbThF?oc=5",
+          "source": "Google News",
+          "published": "Tue, 04 Aug 2026 14:21:00 GMT"
         }
       ]
     },
@@ -113,7 +462,7 @@
           "title": "“폭염 강도, 여기서 더 심해질 듯”…내일 중대경보 인천·안산·김포까지 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xdnpVWmFxSVZTaDE4cVpQQlF2OEtjREpNMUhjMHJfWEMxVTRDQ1pYVUpaV1g1ZmdRMm1XVXB1T3prSHdUX2VVbmxqdEpjTHFMUWFfcEhrS2huZ2Q2UHhPMy10a0NlRUo5NW9ISQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 11:13:00 GMT"
+          "published": "Tue, 04 Aug 2026 12:14:00 GMT"
         }
       ]
     },
@@ -126,7 +475,7 @@
           "title": "“폭염 강도, 여기서 더 심해질 듯”…내일 중대경보 인천·안산·김포까지 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xdnpVWmFxSVZTaDE4cVpQQlF2OEtjREpNMUhjMHJfWEMxVTRDQ1pYVUpaV1g1ZmdRMm1XVXB1T3prSHdUX2VVbmxqdEpjTHFMUWFfcEhrS2huZ2Q2UHhPMy10a0NlRUo5NW9ISQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 11:13:00 GMT"
+          "published": "Tue, 04 Aug 2026 12:14:00 GMT"
         }
       ]
     },
@@ -139,7 +488,7 @@
           "title": "“폭염 강도, 여기서 더 심해질 듯”…내일 중대경보 인천·안산·김포까지 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xdnpVWmFxSVZTaDE4cVpQQlF2OEtjREpNMUhjMHJfWEMxVTRDQ1pYVUpaV1g1ZmdRMm1XVXB1T3prSHdUX2VVbmxqdEpjTHFMUWFfcEhrS2huZ2Q2UHhPMy10a0NlRUo5NW9ISQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 11:13:00 GMT"
+          "published": "Tue, 04 Aug 2026 12:14:00 GMT"
         }
       ]
     },
@@ -152,7 +501,7 @@
           "title": "“폭염 강도, 여기서 더 심해질 듯”…내일 중대경보 인천·안산·김포까지 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xdnpVWmFxSVZTaDE4cVpQQlF2OEtjREpNMUhjMHJfWEMxVTRDQ1pYVUpaV1g1ZmdRMm1XVXB1T3prSHdUX2VVbmxqdEpjTHFMUWFfcEhrS2huZ2Q2UHhPMy10a0NlRUo5NW9ISQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 11:13:00 GMT"
+          "published": "Tue, 04 Aug 2026 12:14:00 GMT"
         }
       ]
     },
@@ -165,7 +514,7 @@
           "title": "“폭염 강도, 여기서 더 심해질 듯”…내일 중대경보 인천·안산·김포까지 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xdnpVWmFxSVZTaDE4cVpQQlF2OEtjREpNMUhjMHJfWEMxVTRDQ1pYVUpaV1g1ZmdRMm1XVXB1T3prSHdUX2VVbmxqdEpjTHFMUWFfcEhrS2huZ2Q2UHhPMy10a0NlRUo5NW9ISQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 11:13:00 GMT"
+          "published": "Tue, 04 Aug 2026 12:14:00 GMT"
         }
       ]
     },
@@ -178,384 +527,59 @@
           "title": "“폭염 강도, 여기서 더 심해질 듯”…내일 중대경보 인천·안산·김포까지 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xdnpVWmFxSVZTaDE4cVpQQlF2OEtjREpNMUhjMHJfWEMxVTRDQ1pYVUpaV1g1ZmdRMm1XVXB1T3prSHdUX2VVbmxqdEpjTHFMUWFfcEhrS2huZ2Q2UHhPMy10a0NlRUo5NW9ISQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 11:13:00 GMT"
+          "published": "Tue, 04 Aug 2026 12:14:00 GMT"
         }
       ]
     },
     {
-      "word": "이란오",
+      "word": "연임",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"이란·오만, 호르무즈 통항 협상 타결 근접…서비스료 부과\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLXdWN3ZYb3o2c2l5eHB4dmpyMUVScXBCczltRjAxNmhkdnF5c0drNEJMYWhfcUYtcGItMU5FUXpNYkZES3J4Y1FsZjFRS2ZIcWtaZVZwV3VRNktkWDE1M0FYbzZFMXpYcUlXU3dRS05NbFJMbjY0VVkwMXZOR2VSTmN1Y1BYa18xay1KdG5sYVRpNnJCWklDMFp5WVBkUQ?oc=5",
+          "title": "이 대통령, 연임 개헌 논란에 일단 ‘침묵’…여권서도 “직접 정리해야” 우려 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SNHRtb1hUQ0s0NHdFdGJPUFBrM09FS0JTUXJNQ2trVThwODdjcjZyQmNwU3dFQ3BYaDFxUzlFWUtWRjBpRGFXZmlXQ2otMVU?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 07:53:00 GMT"
+          "published": "Tue, 04 Aug 2026 07:00:40 GMT"
         }
       ]
     },
     {
-      "word": "호르무즈",
+      "word": "개헌",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"이란·오만, 호르무즈 통항 협상 타결 근접…서비스료 부과\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLXdWN3ZYb3o2c2l5eHB4dmpyMUVScXBCczltRjAxNmhkdnF5c0drNEJMYWhfcUYtcGItMU5FUXpNYkZES3J4Y1FsZjFRS2ZIcWtaZVZwV3VRNktkWDE1M0FYbzZFMXpYcUlXU3dRS05NbFJMbjY0VVkwMXZOR2VSTmN1Y1BYa18xay1KdG5sYVRpNnJCWklDMFp5WVBkUQ?oc=5",
+          "title": "이 대통령, 연임 개헌 논란에 일단 ‘침묵’…여권서도 “직접 정리해야” 우려 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SNHRtb1hUQ0s0NHdFdGJPUFBrM09FS0JTUXJNQ2trVThwODdjcjZyQmNwU3dFQ3BYaDFxUzlFWUtWRjBpRGFXZmlXQ2otMVU?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 07:53:00 GMT"
+          "published": "Tue, 04 Aug 2026 07:00:40 GMT"
         }
       ]
     },
     {
-      "word": "통항",
+      "word": "일단",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"이란·오만, 호르무즈 통항 협상 타결 근접…서비스료 부과\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLXdWN3ZYb3o2c2l5eHB4dmpyMUVScXBCczltRjAxNmhkdnF5c0drNEJMYWhfcUYtcGItMU5FUXpNYkZES3J4Y1FsZjFRS2ZIcWtaZVZwV3VRNktkWDE1M0FYbzZFMXpYcUlXU3dRS05NbFJMbjY0VVkwMXZOR2VSTmN1Y1BYa18xay1KdG5sYVRpNnJCWklDMFp5WVBkUQ?oc=5",
+          "title": "이 대통령, 연임 개헌 논란에 일단 ‘침묵’…여권서도 “직접 정리해야” 우려 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SNHRtb1hUQ0s0NHdFdGJPUFBrM09FS0JTUXJNQ2trVThwODdjcjZyQmNwU3dFQ3BYaDFxUzlFWUtWRjBpRGFXZmlXQ2otMVU?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 07:53:00 GMT"
+          "published": "Tue, 04 Aug 2026 07:00:40 GMT"
         }
       ]
     },
     {
-      "word": "협상",
+      "word": "침묵여권서",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"이란·오만, 호르무즈 통항 협상 타결 근접…서비스료 부과\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLXdWN3ZYb3o2c2l5eHB4dmpyMUVScXBCczltRjAxNmhkdnF5c0drNEJMYWhfcUYtcGItMU5FUXpNYkZES3J4Y1FsZjFRS2ZIcWtaZVZwV3VRNktkWDE1M0FYbzZFMXpYcUlXU3dRS05NbFJMbjY0VVkwMXZOR2VSTmN1Y1BYa18xay1KdG5sYVRpNnJCWklDMFp5WVBkUQ?oc=5",
+          "title": "이 대통령, 연임 개헌 논란에 일단 ‘침묵’…여권서도 “직접 정리해야” 우려 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SNHRtb1hUQ0s0NHdFdGJPUFBrM09FS0JTUXJNQ2trVThwODdjcjZyQmNwU3dFQ3BYaDFxUzlFWUtWRjBpRGFXZmlXQ2otMVU?oc=5",
           "source": "Google News",
-          "published": "Tue, 04 Aug 2026 07:53:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "타결",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "\"이란·오만, 호르무즈 통항 협상 타결 근접…서비스료 부과\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLXdWN3ZYb3o2c2l5eHB4dmpyMUVScXBCczltRjAxNmhkdnF5c0drNEJMYWhfcUYtcGItMU5FUXpNYkZES3J4Y1FsZjFRS2ZIcWtaZVZwV3VRNktkWDE1M0FYbzZFMXpYcUlXU3dRS05NbFJMbjY0VVkwMXZOR2VSTmN1Y1BYa18xay1KdG5sYVRpNnJCWklDMFp5WVBkUQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 04 Aug 2026 07:53:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "근접서비스료",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "\"이란·오만, 호르무즈 통항 협상 타결 근접…서비스료 부과\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLXdWN3ZYb3o2c2l5eHB4dmpyMUVScXBCczltRjAxNmhkdnF5c0drNEJMYWhfcUYtcGItMU5FUXpNYkZES3J4Y1FsZjFRS2ZIcWtaZVZwV3VRNktkWDE1M0FYbzZFMXpYcUlXU3dRS05NbFJMbjY0VVkwMXZOR2VSTmN1Y1BYa18xay1KdG5sYVRpNnJCWklDMFp5WVBkUQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 04 Aug 2026 07:53:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "부과",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "\"이란·오만, 호르무즈 통항 협상 타결 근접…서비스료 부과\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLXdWN3ZYb3o2c2l5eHB4dmpyMUVScXBCczltRjAxNmhkdnF5c0drNEJMYWhfcUYtcGItMU5FUXpNYkZES3J4Y1FsZjFRS2ZIcWtaZVZwV3VRNktkWDE1M0FYbzZFMXpYcUlXU3dRS05NbFJMbjY0VVkwMXZOR2VSTmN1Y1BYa18xay1KdG5sYVRpNnJCWklDMFp5WVBkUQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 04 Aug 2026 07:53:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "수도권",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "수도권 첫 ‘폭염중대경보’…현재 폭염 상황은? - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpbkZYV0NVUVQ2MUtpYmVxZlhQUjN2MDNKNWYwclRCbWFKMGJQUVZDeERqWmNtTmR1R0JBaXdOOHJGUFVTZlVESDV1QWZHNFpQSWQ4VF9GRjVJVkE?oc=5",
-          "source": "Google News",
-          "published": "Tue, 04 Aug 2026 08:07:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "폭염중대경보현재",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "수도권 첫 ‘폭염중대경보’…현재 폭염 상황은? - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpbkZYV0NVUVQ2MUtpYmVxZlhQUjN2MDNKNWYwclRCbWFKMGJQUVZDeERqWmNtTmR1R0JBaXdOOHJGUFVTZlVESDV1QWZHNFpQSWQ4VF9GRjVJVkE?oc=5",
-          "source": "Google News",
-          "published": "Tue, 04 Aug 2026 08:07:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "엄청난",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 “엄청난 권한 갖는 경찰, 안전한 걸까 우려 있어…더 높은 책임 요구” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RNXRiajVPX29sT05VQnNKNnd6NFhKRnZxeWdaczJFWnRWSmEtZEU4eVhBQ1dGc3BqQXNPUDRkNzRhVk5OYnJfaTh4UGdfXzNlaWNubklONFBxX193b0JJeDVIYjM4Zw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 04 Aug 2026 06:03:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "권한",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 “엄청난 권한 갖는 경찰, 안전한 걸까 우려 있어…더 높은 책임 요구” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RNXRiajVPX29sT05VQnNKNnd6NFhKRnZxeWdaczJFWnRWSmEtZEU4eVhBQ1dGc3BqQXNPUDRkNzRhVk5OYnJfaTh4UGdfXzNlaWNubklONFBxX193b0JJeDVIYjM4Zw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 04 Aug 2026 06:03:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "갖는",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 “엄청난 권한 갖는 경찰, 안전한 걸까 우려 있어…더 높은 책임 요구” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RNXRiajVPX29sT05VQnNKNnd6NFhKRnZxeWdaczJFWnRWSmEtZEU4eVhBQ1dGc3BqQXNPUDRkNzRhVk5OYnJfaTh4UGdfXzNlaWNubklONFBxX193b0JJeDVIYjM4Zw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 04 Aug 2026 06:03:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "경찰",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 “엄청난 권한 갖는 경찰, 안전한 걸까 우려 있어…더 높은 책임 요구” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RNXRiajVPX29sT05VQnNKNnd6NFhKRnZxeWdaczJFWnRWSmEtZEU4eVhBQ1dGc3BqQXNPUDRkNzRhVk5OYnJfaTh4UGdfXzNlaWNubklONFBxX193b0JJeDVIYjM4Zw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 04 Aug 2026 06:03:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "안전",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 “엄청난 권한 갖는 경찰, 안전한 걸까 우려 있어…더 높은 책임 요구” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RNXRiajVPX29sT05VQnNKNnd6NFhKRnZxeWdaczJFWnRWSmEtZEU4eVhBQ1dGc3BqQXNPUDRkNzRhVk5OYnJfaTh4UGdfXzNlaWNubklONFBxX193b0JJeDVIYjM4Zw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 04 Aug 2026 06:03:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "걸까",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 “엄청난 권한 갖는 경찰, 안전한 걸까 우려 있어…더 높은 책임 요구” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RNXRiajVPX29sT05VQnNKNnd6NFhKRnZxeWdaczJFWnRWSmEtZEU4eVhBQ1dGc3BqQXNPUDRkNzRhVk5OYnJfaTh4UGdfXzNlaWNubklONFBxX193b0JJeDVIYjM4Zw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 04 Aug 2026 06:03:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "있어더",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 “엄청난 권한 갖는 경찰, 안전한 걸까 우려 있어…더 높은 책임 요구” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RNXRiajVPX29sT05VQnNKNnd6NFhKRnZxeWdaczJFWnRWSmEtZEU4eVhBQ1dGc3BqQXNPUDRkNzRhVk5OYnJfaTh4UGdfXzNlaWNubklONFBxX193b0JJeDVIYjM4Zw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 04 Aug 2026 06:03:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "높은",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 “엄청난 권한 갖는 경찰, 안전한 걸까 우려 있어…더 높은 책임 요구” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RNXRiajVPX29sT05VQnNKNnd6NFhKRnZxeWdaczJFWnRWSmEtZEU4eVhBQ1dGc3BqQXNPUDRkNzRhVk5OYnJfaTh4UGdfXzNlaWNubklONFBxX193b0JJeDVIYjM4Zw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 04 Aug 2026 06:03:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "책임",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 “엄청난 권한 갖는 경찰, 안전한 걸까 우려 있어…더 높은 책임 요구” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RNXRiajVPX29sT05VQnNKNnd6NFhKRnZxeWdaczJFWnRWSmEtZEU4eVhBQ1dGc3BqQXNPUDRkNzRhVk5OYnJfaTh4UGdfXzNlaWNubklONFBxX193b0JJeDVIYjM4Zw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 04 Aug 2026 06:03:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "요구",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 “엄청난 권한 갖는 경찰, 안전한 걸까 우려 있어…더 높은 책임 요구” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RNXRiajVPX29sT05VQnNKNnd6NFhKRnZxeWdaczJFWnRWSmEtZEU4eVhBQ1dGc3BqQXNPUDRkNzRhVk5OYnJfaTh4UGdfXzNlaWNubklONFBxX193b0JJeDVIYjM4Zw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 04 Aug 2026 06:03:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "연이",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "연이은 폭염에 온열질환 추정 사망자 2명 발생 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Qb3F5SUh3ZUVTclg4bS0xem1rR3d0OGpHMXlwWGYwX29NRkNuTFJPOGRqaW53b2ZSaTkyRUoxV3I0a192RkFWaHh0dDdHTVhpTFVOVnRVVl9fVDQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 04 Aug 2026 07:25:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "온열질환",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "연이은 폭염에 온열질환 추정 사망자 2명 발생 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Qb3F5SUh3ZUVTclg4bS0xem1rR3d0OGpHMXlwWGYwX29NRkNuTFJPOGRqaW53b2ZSaTkyRUoxV3I0a192RkFWaHh0dDdHTVhpTFVOVnRVVl9fVDQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 04 Aug 2026 07:25:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "추정",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "연이은 폭염에 온열질환 추정 사망자 2명 발생 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Qb3F5SUh3ZUVTclg4bS0xem1rR3d0OGpHMXlwWGYwX29NRkNuTFJPOGRqaW53b2ZSaTkyRUoxV3I0a192RkFWaHh0dDdHTVhpTFVOVnRVVl9fVDQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 04 Aug 2026 07:25:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "사망자",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "연이은 폭염에 온열질환 추정 사망자 2명 발생 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Qb3F5SUh3ZUVTclg4bS0xem1rR3d0OGpHMXlwWGYwX29NRkNuTFJPOGRqaW53b2ZSaTkyRUoxV3I0a192RkFWaHh0dDdHTVhpTFVOVnRVVl9fVDQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 04 Aug 2026 07:25:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "2명",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "연이은 폭염에 온열질환 추정 사망자 2명 발생 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Qb3F5SUh3ZUVTclg4bS0xem1rR3d0OGpHMXlwWGYwX29NRkNuTFJPOGRqaW53b2ZSaTkyRUoxV3I0a192RkFWaHh0dDdHTVhpTFVOVnRVVl9fVDQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 04 Aug 2026 07:25:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "발생",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "연이은 폭염에 온열질환 추정 사망자 2명 발생 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Qb3F5SUh3ZUVTclg4bS0xem1rR3d0OGpHMXlwWGYwX29NRkNuTFJPOGRqaW53b2ZSaTkyRUoxV3I0a192RkFWaHh0dDdHTVhpTFVOVnRVVl9fVDQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 04 Aug 2026 07:25:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "육군",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "\"육군 1군단 '아군 무인기'도 오인\"‥합참 \"승인 고도 이상으로 비행\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94eU9lUjF5V1cxaGtKaWgxbzF1SEZ4eUZydms5VzNnWTBPdVc3aVppbmpwVkN4Zlc5ZHZyWWtFd2tsbXltM0lJY1NEWWV5Q2RTWXlJRXZkMndrTURCR0RRTmp2WktoUzlRcnk2M1JBUFZUaTF5c2ppY9IBeEFVX3lxTFBtdVZ3bVBfZVVFRnpyWjJhVVVJdGJTVnRqU3JRajJiT3lvNkJSMWJvTi1wcHZNaEtldl9GMk5fRjRTdjVwTjBmUHkxOTRQZnVNQzVNNnVrbko4YVo2NHlWOGJwQ0JPVWZMMjlRcUNlV1Z4Y3NzRU9taQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 04 Aug 2026 05:00:21 GMT"
-        }
-      ]
-    },
-    {
-      "word": "1군단",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "\"육군 1군단 '아군 무인기'도 오인\"‥합참 \"승인 고도 이상으로 비행\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94eU9lUjF5V1cxaGtKaWgxbzF1SEZ4eUZydms5VzNnWTBPdVc3aVppbmpwVkN4Zlc5ZHZyWWtFd2tsbXltM0lJY1NEWWV5Q2RTWXlJRXZkMndrTURCR0RRTmp2WktoUzlRcnk2M1JBUFZUaTF5c2ppY9IBeEFVX3lxTFBtdVZ3bVBfZVVFRnpyWjJhVVVJdGJTVnRqU3JRajJiT3lvNkJSMWJvTi1wcHZNaEtldl9GMk5fRjRTdjVwTjBmUHkxOTRQZnVNQzVNNnVrbko4YVo2NHlWOGJwQ0JPVWZMMjlRcUNlV1Z4Y3NzRU9taQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 04 Aug 2026 05:00:21 GMT"
-        }
-      ]
-    },
-    {
-      "word": "아군",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "\"육군 1군단 '아군 무인기'도 오인\"‥합참 \"승인 고도 이상으로 비행\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94eU9lUjF5V1cxaGtKaWgxbzF1SEZ4eUZydms5VzNnWTBPdVc3aVppbmpwVkN4Zlc5ZHZyWWtFd2tsbXltM0lJY1NEWWV5Q2RTWXlJRXZkMndrTURCR0RRTmp2WktoUzlRcnk2M1JBUFZUaTF5c2ppY9IBeEFVX3lxTFBtdVZ3bVBfZVVFRnpyWjJhVVVJdGJTVnRqU3JRajJiT3lvNkJSMWJvTi1wcHZNaEtldl9GMk5fRjRTdjVwTjBmUHkxOTRQZnVNQzVNNnVrbko4YVo2NHlWOGJwQ0JPVWZMMjlRcUNlV1Z4Y3NzRU9taQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 04 Aug 2026 05:00:21 GMT"
-        }
-      ]
-    },
-    {
-      "word": "무인기",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "\"육군 1군단 '아군 무인기'도 오인\"‥합참 \"승인 고도 이상으로 비행\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94eU9lUjF5V1cxaGtKaWgxbzF1SEZ4eUZydms5VzNnWTBPdVc3aVppbmpwVkN4Zlc5ZHZyWWtFd2tsbXltM0lJY1NEWWV5Q2RTWXlJRXZkMndrTURCR0RRTmp2WktoUzlRcnk2M1JBUFZUaTF5c2ppY9IBeEFVX3lxTFBtdVZ3bVBfZVVFRnpyWjJhVVVJdGJTVnRqU3JRajJiT3lvNkJSMWJvTi1wcHZNaEtldl9GMk5fRjRTdjVwTjBmUHkxOTRQZnVNQzVNNnVrbko4YVo2NHlWOGJwQ0JPVWZMMjlRcUNlV1Z4Y3NzRU9taQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 04 Aug 2026 05:00:21 GMT"
+          "published": "Tue, 04 Aug 2026 07:00:40 GMT"
         }
       ]
     }
