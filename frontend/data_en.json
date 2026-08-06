@@ -1,125 +1,86 @@
 {
   "language": "en",
-  "last_updated": 1785998261.1424603,
+  "last_updated": 1786009455.0259423,
   "count": 40,
   "trends": [
     {
       "word": "Trump",
-      "count": 3,
+      "count": 4,
       "category": "NOUN",
       "articles": [
-        {
-          "title": "Trump says El-Sayed is ‘full of s‑‑‑,’ calls him a ‘man of hate’ - The Hill",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTloyMFcwSGxfS1g2TTV2TVpzbFR6cGU5dzQycW14SWV2X2NKMWlobUdJblFYSlNVbE5ma3NyaUhMTXJJUHhCZE9BLUV0M2VyQ1pUSFRXd3c3WWhRemdoNkJ2TkJiTnljSDNFNUowSWNLTVh0d0QwNmRWVnhkOWpENFpxd2VrNDI4ZC1TNmpnS2hmY0NxbVHSAZsBQVVfeXFMTUdZay10U3pBSloxMWlQX0hrUWFiaEk2ajJHMmFRWXNxNnlmSlhBS0VTQnR5bjMyOWxkRS04NVBfVWVZem52a1RtanBOVUdoOHNhOF82dXA0RlRHMjJDTkF3MzdrMTU2aXZxWnBDQmVLZmtTN2dtQTdreURiVnFSSUgxUllXaGc2Y2NqNmVzUzhQVHVrRmgySjhUYkU?oc=5",
-          "source": "Google News",
-          "published": "Wed, 05 Aug 2026 22:17:00 GMT"
-        },
         {
           "title": "Live Updates: Trump says Strait of Hormuz deal could happen soon amid Iran-Oman talks - CBS News",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ3luLUxvekFtWFdpQU9vSnJ2RzRwdndUZ205VmYwcEl2WDNPSmZ1YUNteThESjB4LW5SdHlXX3pyZkdqNGtQd0JDQU5oeER4U21BY1AtMUpiSEdDWHZacnV5SGdQOXpzdllRU1lTLUtFZlFlU25JWGgtMnRSaE9sdVNOWQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 06 Aug 2026 04:01:00 GMT"
+          "published": "Thu, 06 Aug 2026 07:01:00 GMT"
+        },
+        {
+          "title": "Trump says El-Sayed is ‘full of s‑‑‑,’ calls him a ‘man of hate’ - thehill.com",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTloyMFcwSGxfS1g2TTV2TVpzbFR6cGU5dzQycW14SWV2X2NKMWlobUdJblFYSlNVbE5ma3NyaUhMTXJJUHhCZE9BLUV0M2VyQ1pUSFRXd3c3WWhRemdoNkJ2TkJiTnljSDNFNUowSWNLTVh0d0QwNmRWVnhkOWpENFpxd2VrNDI4ZC1TNmpnS2hmY0NxbVHSAZsBQVVfeXFMTUdZay10U3pBSloxMWlQX0hrUWFiaEk2ajJHMmFRWXNxNnlmSlhBS0VTQnR5bjMyOWxkRS04NVBfVWVZem52a1RtanBOVUdoOHNhOF82dXA0RlRHMjJDTkF3MzdrMTU2aXZxWnBDQmVLZmtTN2dtQTdreURiVnFSSUgxUllXaGc2Y2NqNmVzUzhQVHVrRmgySjhUYkU?oc=5",
+          "source": "Google News",
+          "published": "Wed, 05 Aug 2026 22:17:00 GMT"
         },
         {
           "title": "Trump, Hegseth clashed at Camp David over Iran missile depletion concerns - The Washington Post",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaUliZlNTQUp4dGdITlFNX19DTENuNkh5TkJaMlJvMXhKRDlOWFhmVXNTT2RMSnQyLVlOWExDNWlJN0Q3QUY0bDBJWVBHMnFOSjZEUEdidkhFaEI3YVVlM0Jxa0taV2RVcEFwWFNNb180YmZqU3VDY3VzdU9zQ183VXBYWk9tVFFyeVQ5WDFpWWxfaDNQVFJ3LWM0Q2oyTWdtdFVXNmZtb01Nd1I5OWFoZy0taTJ0VWVXMHVJRjNGd3pCY0JpcWZLQjdB?oc=5",
           "source": "Google News",
-          "published": "Thu, 06 Aug 2026 06:34:37 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Sayed",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump says El-Sayed is ‘full of s‑‑‑,’ calls him a ‘man of hate’ - The Hill",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTloyMFcwSGxfS1g2TTV2TVpzbFR6cGU5dzQycW14SWV2X2NKMWlobUdJblFYSlNVbE5ma3NyaUhMTXJJUHhCZE9BLUV0M2VyQ1pUSFRXd3c3WWhRemdoNkJ2TkJiTnljSDNFNUowSWNLTVh0d0QwNmRWVnhkOWpENFpxd2VrNDI4ZC1TNmpnS2hmY0NxbVHSAZsBQVVfeXFMTUdZay10U3pBSloxMWlQX0hrUWFiaEk2ajJHMmFRWXNxNnlmSlhBS0VTQnR5bjMyOWxkRS04NVBfVWVZem52a1RtanBOVUdoOHNhOF82dXA0RlRHMjJDTkF3MzdrMTU2aXZxWnBDQmVLZmtTN2dtQTdreURiVnFSSUgxUllXaGc2Y2NqNmVzUzhQVHVrRmgySjhUYkU?oc=5",
-          "source": "Google News",
-          "published": "Wed, 05 Aug 2026 22:17:00 GMT"
+          "published": "Thu, 06 Aug 2026 09:40:23 GMT"
         },
         {
-          "title": "After Michigan Loss, AIPAC Weighs a Second Effort to Defeat El-Sayed - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMmlEM29LSkF6UGhjUXJNaHo5OHRlRHV0cUFxNUVoRmpuSUdiTl9veEdDNnVSS2c0bzF6MDlycHJkZnYyeXFsY3NyRHRha1k1Nm1MbHlsTDZQRGdkR0phclJ3NGZqRnE3RHlrQy1MSWpyT2l0ZjcxVnpVd29FQk9vRmIxUlpOUHdBdWk4?oc=5",
+          "title": "Federal judge acknowledges Supreme Court ruling clearing path for Trump to end Haiti TPS - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTmV4cWNKeW95Q2pCdmt0Nk0zWk4tTHpuRmx0bTFYMGtPUjJpRTA5WnZGMEl0bFM0RkcwX0dyQ2dWckdlNTlpemxOY2hGZzQ2dzJUZmwyQUVfdy1QYWtPS1VnMXR2aFlEMkw4NEVtQ3Rmejhzc1FmRVdVdE9MWk41SHVWUnVrcVA4aVZhZGVUVllvVlNiTTNsak1BdV96R2lKTWQxaU8ySW1oVG1aQlRuNlQwMW3SAboBQVVfeXFMTVkwNGVMWVk4TlVtRUJoMkhmV2IyX2dYWEY2VVVTT3dxbm5VTV9XaDBhOXBoVi02Vm05TTNQeDc0OFNjV09mR0VPOWdSS2NvdktWNmRFeW5sbktNTFFUVkk2bzN3d3dmcmJFZVN6QkF4UWVmOE95eFFCRzFVcWJOb1hEQi15V3ExZmpoSkFtVG1fS05ocWxtQldqeDdhaDE1dk96bjgwOGRfcW1BdTMwNlFaaG5vb2tEVDV3?oc=5",
           "source": "Google News",
-          "published": "Wed, 05 Aug 2026 23:48:35 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Full",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump says El-Sayed is ‘full of s‑‑‑,’ calls him a ‘man of hate’ - The Hill",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTloyMFcwSGxfS1g2TTV2TVpzbFR6cGU5dzQycW14SWV2X2NKMWlobUdJblFYSlNVbE5ma3NyaUhMTXJJUHhCZE9BLUV0M2VyQ1pUSFRXd3c3WWhRemdoNkJ2TkJiTnljSDNFNUowSWNLTVh0d0QwNmRWVnhkOWpENFpxd2VrNDI4ZC1TNmpnS2hmY0NxbVHSAZsBQVVfeXFMTUdZay10U3pBSloxMWlQX0hrUWFiaEk2ajJHMmFRWXNxNnlmSlhBS0VTQnR5bjMyOWxkRS04NVBfVWVZem52a1RtanBOVUdoOHNhOF82dXA0RlRHMjJDTkF3MzdrMTU2aXZxWnBDQmVLZmtTN2dtQTdreURiVnFSSUgxUllXaGc2Y2NqNmVzUzhQVHVrRmgySjhUYkU?oc=5",
-          "source": "Google News",
-          "published": "Wed, 05 Aug 2026 22:17:00 GMT"
-        },
-        {
-          "title": "Joshua Van vs. Alexandre Pantoja 2, Arman Tsarukyan vs. Mauricio Ruffy set as full UFC 331 card revealed - MMA Fighting",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQREJSRGdZZFN0c0ZvWDA5Q3Y4LWRNcU9ESEhKNnEtRGM3Z0MtRE9xQVVuM2paZWFXMmw1RGV3NVJMZGowNk1kSE1CcDdYOU40U1BxdUhfS1JKeXdIZHRTQVlFdkRqcTlZN3VaZF9GbEdINVU1LWYzSVQ5ZHVfM0F0MXlkQVJMdkthZW5WMlVYZGJhTGswamNncjFmcHJfLWNuNTQ1VVhJNlVOc2sxd2JYV3JxajNLOHhobUpxNkV5VGhmaTloQjVSTFduekp2WmltbmdHVUMycw?oc=5",
-          "source": "Google News",
-          "published": "Wed, 05 Aug 2026 23:18:35 GMT"
+          "published": "Thu, 06 Aug 2026 01:17:12 GMT"
         }
       ]
     },
     {
       "word": "Live",
-      "count": 2,
+      "count": 3,
       "category": "NOUN",
       "articles": [
         {
           "title": "Live Updates: Trump says Strait of Hormuz deal could happen soon amid Iran-Oman talks - CBS News",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ3luLUxvekFtWFdpQU9vSnJ2RzRwdndUZ205VmYwcEl2WDNPSmZ1YUNteThESjB4LW5SdHlXX3pyZkdqNGtQd0JDQU5oeER4U21BY1AtMUpiSEdDWHZacnV5SGdQOXpzdllRU1lTLUtFZlFlU25JWGgtMnRSaE9sdVNOWQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 06 Aug 2026 04:01:00 GMT"
+          "published": "Thu, 06 Aug 2026 07:01:00 GMT"
         },
         {
-          "title": "Total solar eclipse Aug. 12, 2026 live updates — 1 week to go - Space",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMHBLVmdyYmhUaDVlaVFRa1pqeURKUEVTaFNHb0d3MjV2dkN2MXNIM3pNMnQxaVQ4TlNTb2EweXhsNTB4aTB1MGxFdjhXaEpzMEs0eXdXZVNMTHVZckw3MmJfMkRQcnlsVHJ2VFJKRV95c2RNMlBpemxxTEdiUTQ4aVF4emUtUW1ud1U0LWRsdXkzbDNCYmc?oc=5",
+          "title": "Dow futures inch higher after blue-chip index posts new record close: Live updates - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sdDVGOGpOTml1NUpGRV9OVS1PdEdMd1pZWUZxekExRW5vUVFUT1N6dDJva1Y4UTRleEY3aFRDSGZFOHVxQUhLa2xPSjk4Um9ybzBXNzA3R2M0VjZHdDFYdk9kbWQzSHVQRERJNzhZRkItNjU1ZHo40gF8QVVfeXFMTzIzSjJPbUJOWmYwbG56bHI1TUNhUmpjaElWMDhvM3I1UC1WZ2lqNE9wdUwwYWY3N3FsLUc5TktPLVgwNVlrNFFRbnJQTFFOV2d2WU9JUVhtckRVVzRlekViVm9qcWhOTnBlV2tkc3BsNG1RSnk5LV9BeEstRQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 05 Aug 2026 17:08:36 GMT"
+          "published": "Thu, 06 Aug 2026 07:14:00 GMT"
+        },
+        {
+          "title": "Total solar eclipse Aug. 12, 2026 live updates — 6 days to totality - Space",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSHhtZ0xXREUyX0kxejRsWGpXSnUzQkNDeER6dTg3djlqMzctdWlULTllTk9TWWFCbGNZdDExSG1kRVhTaElTN18wSDFYb1VFQkxaQ3liYXVscU5Ra25rQm9VVlI2c19SSDhNTzdkNE5SeU12NmxsZjFzaGNJZXhjNE1zaURqNTV1c1hqalVuS1FqM09IMDZhMXJMMlVkQQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 06 Aug 2026 09:03:51 GMT"
         }
       ]
     },
     {
       "word": "Updates",
-      "count": 2,
+      "count": 3,
       "category": "NOUN",
       "articles": [
         {
           "title": "Live Updates: Trump says Strait of Hormuz deal could happen soon amid Iran-Oman talks - CBS News",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ3luLUxvekFtWFdpQU9vSnJ2RzRwdndUZ205VmYwcEl2WDNPSmZ1YUNteThESjB4LW5SdHlXX3pyZkdqNGtQd0JDQU5oeER4U21BY1AtMUpiSEdDWHZacnV5SGdQOXpzdllRU1lTLUtFZlFlU25JWGgtMnRSaE9sdVNOWQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 06 Aug 2026 04:01:00 GMT"
+          "published": "Thu, 06 Aug 2026 07:01:00 GMT"
         },
         {
-          "title": "Total solar eclipse Aug. 12, 2026 live updates — 1 week to go - Space",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMHBLVmdyYmhUaDVlaVFRa1pqeURKUEVTaFNHb0d3MjV2dkN2MXNIM3pNMnQxaVQ4TlNTb2EweXhsNTB4aTB1MGxFdjhXaEpzMEs0eXdXZVNMTHVZckw3MmJfMkRQcnlsVHJ2VFJKRV95c2RNMlBpemxxTEdiUTQ4aVF4emUtUW1ud1U0LWRsdXkzbDNCYmc?oc=5",
+          "title": "Dow futures inch higher after blue-chip index posts new record close: Live updates - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sdDVGOGpOTml1NUpGRV9OVS1PdEdMd1pZWUZxekExRW5vUVFUT1N6dDJva1Y4UTRleEY3aFRDSGZFOHVxQUhLa2xPSjk4Um9ybzBXNzA3R2M0VjZHdDFYdk9kbWQzSHVQRERJNzhZRkItNjU1ZHo40gF8QVVfeXFMTzIzSjJPbUJOWmYwbG56bHI1TUNhUmpjaElWMDhvM3I1UC1WZ2lqNE9wdUwwYWY3N3FsLUc5TktPLVgwNVlrNFFRbnJQTFFOV2d2WU9JUVhtckRVVzRlekViVm9qcWhOTnBlV2tkc3BsNG1RSnk5LV9BeEstRQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 05 Aug 2026 17:08:36 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Deal",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Live Updates: Trump says Strait of Hormuz deal could happen soon amid Iran-Oman talks - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ3luLUxvekFtWFdpQU9vSnJ2RzRwdndUZ205VmYwcEl2WDNPSmZ1YUNteThESjB4LW5SdHlXX3pyZkdqNGtQd0JDQU5oeER4U21BY1AtMUpiSEdDWHZacnV5SGdQOXpzdllRU1lTLUtFZlFlU25JWGgtMnRSaE9sdVNOWQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 06 Aug 2026 04:01:00 GMT"
+          "published": "Thu, 06 Aug 2026 07:14:00 GMT"
         },
         {
-          "title": "Disney and TikTok Ink Wide-Ranging Deal, Videos From Tech Platform Will Be Added to Disney+ - The Hollywood Reporter",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORVpHMjZrcHRFdTVWN3ZiNWRvWHRDdmFzUEt3QXhIdG82SkNmbUtSVXE3MlZmMXlKa2FhSUNvNHpOYkhINGxyc1VqMVc2SlpsNGxBbnhBZ0tyWUpCMlp5MENJRE5WQWg4RzFCNDM5WkVucEdRT2xKYkNLUUZpVmpWZmpKYmdOaEd6Ui1BeWNYclFsWnptT04zVERsck94OWdYUUVRbQ?oc=5",
+          "title": "Total solar eclipse Aug. 12, 2026 live updates — 6 days to totality - Space",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSHhtZ0xXREUyX0kxejRsWGpXSnUzQkNDeER6dTg3djlqMzctdWlULTllTk9TWWFCbGNZdDExSG1kRVhTaElTN18wSDFYb1VFQkxaQ3liYXVscU5Ra25rQm9VVlI2c19SSDhNTzdkNE5SeU12NmxsZjFzaGNJZXhjNE1zaURqNTV1c1hqalVuS1FqM09IMDZhMXJMMlVkQQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 06 Aug 2026 01:58:38 GMT"
+          "published": "Thu, 06 Aug 2026 09:03:51 GMT"
         }
       ]
     },
@@ -132,32 +93,13 @@
           "title": "Live Updates: Trump says Strait of Hormuz deal could happen soon amid Iran-Oman talks - CBS News",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ3luLUxvekFtWFdpQU9vSnJ2RzRwdndUZ205VmYwcEl2WDNPSmZ1YUNteThESjB4LW5SdHlXX3pyZkdqNGtQd0JDQU5oeER4U21BY1AtMUpiSEdDWHZacnV5SGdQOXpzdllRU1lTLUtFZlFlU25JWGgtMnRSaE9sdVNOWQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 06 Aug 2026 04:01:00 GMT"
+          "published": "Thu, 06 Aug 2026 07:01:00 GMT"
         },
         {
           "title": "Trump, Hegseth clashed at Camp David over Iran missile depletion concerns - The Washington Post",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaUliZlNTQUp4dGdITlFNX19DTENuNkh5TkJaMlJvMXhKRDlOWFhmVXNTT2RMSnQyLVlOWExDNWlJN0Q3QUY0bDBJWVBHMnFOSjZEUEdidkhFaEI3YVVlM0Jxa0taV2RVcEFwWFNNb180YmZqU3VDY3VzdU9zQ183VXBYWk9tVFFyeVQ5WDFpWWxfaDNQVFJ3LWM0Q2oyTWdtdFVXNmZtb01Nd1I5OWFoZy0taTJ0VWVXMHVJRjNGd3pCY0JpcWZLQjdB?oc=5",
           "source": "Google News",
-          "published": "Thu, 06 Aug 2026 06:34:37 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Exclusive",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Exclusive | Senate Panel Says It Has Obtained Copy of Fauci’s Covid-Era Phone - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYVhudzl3bkNNTXhqeXFPa0docnlNMm0zRkgtLUQ3ZGhOY09ZRjBfeV9RMVFwOXJZdnRJMlN2TlYzNi0zWXpKMl9nSU1tTHotVTlfX0JhTU40NDJWanF0OXFuRU9TdnZ0SThRYmxCWG9HNTZwQkE0NjNCUHp2NE8zZEszcw?oc=5",
-          "source": "Google News",
-          "published": "Wed, 05 Aug 2026 23:13:00 GMT"
-        },
-        {
-          "title": "Exclusive / Demis Hassabis was shifting away from DeepMind CEO duties for a year - Semafor",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQWJRSzBheW5KelZNbmt1RHpoM3Jza1R3ZVNQR2xodXBkdnoxWHZISEFZR2s4RjdJeDlnN0k3c0tDT0VlYTh5bTBMcElfUy1TWGlzYlRGeV9ZazJ2UTlyaTZYYVowWXhIQmtFWEszalowN0tNRVBfNzNSaE02NUZLd0tBQ3FITzRlSUlSWHNEM01ILWlnYmN3MXRvRXg4WTY0V2xEcW1PSEMzTVg2WVBqQw?oc=5",
-          "source": "Google News",
-          "published": "Wed, 05 Aug 2026 22:33:00 GMT"
+          "published": "Thu, 06 Aug 2026 09:40:23 GMT"
         }
       ]
     },
@@ -167,13 +109,13 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Exclusive | Senate Panel Says It Has Obtained Copy of Fauci’s Covid-Era Phone - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYVhudzl3bkNNTXhqeXFPa0docnlNMm0zRkgtLUQ3ZGhOY09ZRjBfeV9RMVFwOXJZdnRJMlN2TlYzNi0zWXpKMl9nSU1tTHotVTlfX0JhTU40NDJWanF0OXFuRU9TdnZ0SThRYmxCWG9HNTZwQkE0NjNCUHp2NE8zZEszcw?oc=5",
+          "title": "Senate committee set to vote on whether to hold Fauci in contempt of Congress - npr.org",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObllHTkttLTBZTFR6cXZNd3R3Tm9MZk5OMWl0bGtjODlLZFZuYmdCRXctMXp4X3p3dGNFM1dlb011ZDJieHJWZkVBTmFHcW1CbDQ3U015blMxRVpEYVY3VmZVRG0tSHVrSHlMQVdDYjVNMEZTcUZaLXppR3dlb1RpdHpmZmxubDFlUHhGVA?oc=5",
           "source": "Google News",
-          "published": "Wed, 05 Aug 2026 23:13:00 GMT"
+          "published": "Thu, 06 Aug 2026 07:16:22 GMT"
         },
         {
-          "title": "Senate’s summer pileup is threatening a quick recess escape - Politico",
+          "title": "Senate’s summer pileup is threatening a quick recess escape - politico.com",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYzRNaGNNd3RLTl8tNUJlZThtUDBUSnpkd1BQUm5IWFFFem43T2YwZl9zdnlvR3ZLcDZDVUJOQ2NpRkFVaTJaMzlhMEFOYXBuWFY5UU9fVHVwM25UR0tFY3NNN1FweTZCbFplNS01bmpDMkoxbVhZTVFpT1FEQzJrZ2lvVQ?oc=5",
           "source": "Google News",
           "published": "Thu, 06 Aug 2026 00:39:00 GMT"
@@ -181,34 +123,97 @@
       ]
     },
     {
-      "word": "Major",
+      "word": "Hold",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Explosive drone forces shutdown at major German airport serving NATO, Ukraine flights - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMHNUakdTWU41aDlBaklRS2lsdmdUdXFtUk1BTG94WmdwaVJaSVNPWE1wUWxjUV8zRkQwVXFjaGJhR0hsczVuTGJaZ25KV3pjNjhhNk5kVTlIZjY4MEhka3ZXRFhWVFZqZ0N0aGpQZ0lxZWpHRnQ2d0FncjRWN1N1bWpIbkNNNUVLVGc2NFdtMVFUZmJpMUk1UDk3LTAza3VkQWx3cHAyZGdjd184dE1NctIBtgFBVV95cUxPU2hCRjFjRnNHY19sLWNzTk9zU05ONEUtZDV2dkFOU0Nfc18tanJfRWVEWjJPM2tWTElHUGhiNmQ5bWtUVDhHeER1UldSQ3BtU3V3TVVteklNSGR3NDY4Snc4UW1oN3dGRnVTU1N4OHRXSmc2dzFJdGdGd05wbHZ6Si04b3FMbmxTTDhmUHB3TDRObUdJazMzbll6Q2Y5MDZqQkRad0xyd2VtVlhQYzBtXzdQYng5QQ?oc=5",
+          "title": "Senate committee set to vote on whether to hold Fauci in contempt of Congress - npr.org",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObllHTkttLTBZTFR6cXZNd3R3Tm9MZk5OMWl0bGtjODlLZFZuYmdCRXctMXp4X3p3dGNFM1dlb011ZDJieHJWZkVBTmFHcW1CbDQ3U015blMxRVpEYVY3VmZVRG0tSHVrSHlMQVdDYjVNMEZTcUZaLXppR3dlb1RpdHpmZmxubDFlUHhGVA?oc=5",
           "source": "Google News",
-          "published": "Wed, 05 Aug 2026 23:32:23 GMT"
+          "published": "Thu, 06 Aug 2026 07:16:22 GMT"
         },
         {
-          "title": "Most detailed images ever taken of sun's surface revealed: \"Major step forward\" - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yVTRLYkVkd1UxdzZGQ3BRSVIxaTM4Rno0Z2RFelpycnBsZ095LTVDSGFiUHRIY3pkTzNZYzNnS1poS3BJblZ6RXB0bE9BeHFfb3ZDYzJKRFJxeTh3Q3RVaTQ2ekxkbDIyeGdObTc4TDhHTUxJTDlWRFVFWQ?oc=5",
+          "title": "Lions GM Brad Holmes speaks on Jahmyr Gibbs’ contract hold-in - Pride Of Detroit",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ2Rnb1NuSVFBRmQzc1dESEVQZGVLdUZGS092N1VBbm5nWUxFcGxqVjN5c0xzSkg4aGVJX2trYVIyaHp0M0JJcjBpUVVSczRyOE9tX0lPcVB1aHRmQkNnaG9TaW9ZaDRsaVprR0NHWXJyZlUxdFpDRTEwMVpzQnB1VnMtSW5RQjlaczNqdEIxekl6anoxQzlZMzlFclNHNDRzZkd6MHZVR0dLdHRnWlQ3UjJrWS1NVnl4?oc=5",
           "source": "Google News",
-          "published": "Thu, 06 Aug 2026 00:55:02 GMT"
+          "published": "Wed, 05 Aug 2026 17:55:17 GMT"
         }
       ]
     },
     {
-      "word": "Spain",
+      "word": "Fire",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Spain's Ceuta seeks transfer of unaccompanied migrant minors to mainland Spain after border rush - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNamh6Wi15cnNtQ2dJZ3BZV1A1YTRsaG5MbHNWcW9nZi1qVm5lVGpYdlVqTE1JLWZ3VGZtNzBSTTJERXh3a0QzSmFHdnVua3htUDNhbF9WdVVwMUgwRUhxWUFvZUVDbHktb0lnaTBVeTIyVVhiZ21zREtaZkQ3eFFMUTdxSzJsQ05GRkhrMzNLMUlWNzJQdlJLeGJVcVI3MFNjWS1MMk9tYTlIbEpQOUMtYkg0N3NoT051cldQcHh4cmlMRUtN?oc=5",
+          "title": "Firefighters are working 16-hour shifts as they battle the Spokane Complex Fire - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc29WdnRiUjA0cFRxSWlJdTNfc00xTEtIU0NUbWZ5aUlrM190cDE0Z0VENTBNU1VLaGVtajFBdnJ1ZS1JdEJOcWV3U21YTmN6eTVVMWp0dWJVQTcwTU9jZ1lDWWJta3lMc2JHWl9zdmczbld2WEtwWlI1MEJyUXdPeEE1cEl6RFdXWVRHemFxSzAtbllmUzk2dGE0TUJOV3ZPVTlEUjN5al9hTldPUTRuVE1wNkNBdw?oc=5",
           "source": "Google News",
-          "published": "Wed, 05 Aug 2026 22:41:31 GMT"
+          "published": "Thu, 06 Aug 2026 02:47:00 GMT"
+        },
+        {
+          "title": "Gann Fire: Man arrested near site of where wildfire sparked, says he did not mean to start it - KCRA",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYmNsa0lOcXNvQlpHbmRBMUFvYlc1cENBM1hTZVVQY3FOdWhmUkl3ZWtKbC1qc3c3X1YzWDJlQnhtVkFNWEpLLWR4THFtUnhlLW92WGU1NmpsSTlPd3d6U0RiblZQV2xlc3g5QkkyR2pBcVh5a3l6SHQ3VEtseGl3VGVDdm5sbHA2bEFGN1Nqc1djaVU?oc=5",
+          "source": "Google News",
+          "published": "Thu, 06 Aug 2026 05:59:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Threatening",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Senate’s summer pileup is threatening a quick recess escape - politico.com",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYzRNaGNNd3RLTl8tNUJlZThtUDBUSnpkd1BQUm5IWFFFem43T2YwZl9zdnlvR3ZLcDZDVUJOQ2NpRkFVaTJaMzlhMEFOYXBuWFY5UU9fVHVwM25UR0tFY3NNN1FweTZCbFplNS01bmpDMkoxbVhZTVFpT1FEQzJrZ2lvVQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 06 Aug 2026 00:39:00 GMT"
+        },
+        {
+          "title": "Unpaid wages and deadly risk: Why health workers are threatening to abandon the Ebola response - CNN",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTmJGUEpFYjN5RHY5ajBsTDQwaUhRRl96TDRjb3ZPRXJpR2F4c2ZjeUxobl96ekhSV1ZWbUJralB6MVZsNkJTU2F6VVdqa0J4TzBWS01lamxXbUxNVDZUWHpZaVg2QWtJV0NaQXVDQjRZOGZRWjZ3amNqQ2Ytb3A4SjZnRnVLQ2FVZ2drYg?oc=5",
+          "source": "Google News",
+          "published": "Thu, 06 Aug 2026 04:01:29 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Path",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Federal judge acknowledges Supreme Court ruling clearing path for Trump to end Haiti TPS - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTmV4cWNKeW95Q2pCdmt0Nk0zWk4tTHpuRmx0bTFYMGtPUjJpRTA5WnZGMEl0bFM0RkcwX0dyQ2dWckdlNTlpemxOY2hGZzQ2dzJUZmwyQUVfdy1QYWtPS1VnMXR2aFlEMkw4NEVtQ3Rmejhzc1FmRVdVdE9MWk41SHVWUnVrcVA4aVZhZGVUVllvVlNiTTNsak1BdV96R2lKTWQxaU8ySW1oVG1aQlRuNlQwMW3SAboBQVVfeXFMTVkwNGVMWVk4TlVtRUJoMkhmV2IyX2dYWEY2VVVTT3dxbm5VTV9XaDBhOXBoVi02Vm05TTNQeDc0OFNjV09mR0VPOWdSS2NvdktWNmRFeW5sbktNTFFUVkk2bzN3d3dmcmJFZVN6QkF4UWVmOE95eFFCRzFVcWJOb1hEQi15V3ExZmpoSkFtVG1fS05ocWxtQldqeDdhaDE1dk96bjgwOGRfcW1BdTMwNlFaaG5vb2tEVDV3?oc=5",
+          "source": "Google News",
+          "published": "Thu, 06 Aug 2026 01:17:12 GMT"
+        },
+        {
+          "title": "Minecraft Gets Nintendo Switch 2 Version With an Upgrade Path for Switch 1 Owners - IGN",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU3drSGxYM3NNSm1jTnoxaWl4Qm5OMHF1enlPUHhhM3hOSkdibUFfbkpMbk94S3VVdUxVN0xfdzdRUVgtUmYydHBMbmNGY2oyem5yNTFvZnBNLXl0QUkzcWNoVDdYNy0zSFdyZHR1dnBRX0dHNWRDaVVmdDBBMExlRXJYSHFyXzBDQkhmaDR2MjRJU2FCWU92YW1Bd1FzUDZBM01JY0g3cE9kRnV3TGVoZ19HUHZqUQ?oc=5",
+          "source": "Google News",
+          "published": "Wed, 05 Aug 2026 21:14:21 GMT"
+        }
+      ]
+    },
+    {
+      "word": "North",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "What we know about North Korean forces joining Russia's war against Ukraine - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPck5RYzRha0ZtTldodHlHZENRNDVadTRPNGoxblhlYmNsOG9iUzhlemNsSFZ2RDZqLUVJWHRTQXluejluUW04Rks5M3l4ZDd1OXBWeVpwODFfRjJHeFlPN2d2S0RSbjFXZkVBWDNmTGZfRFpCWkF4ZTJ4ZlJoRDBVSkhTbHR0UmJEQTduQ3Jra2ZueHhQalhxZXBVRXNBb3NuLWgyRktBM1czU3lrdUNVZndZNlBrXzJjbFlsdS1yTnF0amdiQndQNlVCWWd1WUxQWncw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 06 Aug 2026 07:50:02 GMT"
+        },
+        {
+          "title": "Meteor shower dubbed 'the Perseids' will follow a solar eclipse on August 12— and will light up the sky from North Carolina to Alaska - New York Post",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNMmlVN3NobEd3OFZMejBQUW1OYTAtWjhNd2w3RzVnTkxveXBhMGFsZUZJZlo2WWNZSGd1Y3dXc0xZaUpSdEM2S3Qtb0xmRFh2XzFNbFVYLTJDTmFYVlIwWmZQT3lqdlpMUjJ3a1oxWFF2M3Iwcl8xR2RnNzRSMndfbkRXa3JKNnlLaG1xWWRmYThRVDBFRmdIM3JXMVA4MXp4ZVJZTWt2MDRqeU5fc0xrY0lJMmVDdHhIRlRnVktfSHJ1NXpHZnFVQW1FU1hxRlN0TVI1ZzhrRDZ6OURSQllHTmk0bXNrMlNudUR4Tl9RaHFIa3pIVldVOXJMYVdkQQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 06 Aug 2026 02:58:00 GMT"
         }
       ]
     },
@@ -218,13 +223,13 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Exclusive / Demis Hassabis was shifting away from DeepMind CEO duties for a year - Semafor",
+          "title": "Exclusive / Demis Hassabis was shifting away from DeepMind CEO duties for a year - semafor.com",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQWJRSzBheW5KelZNbmt1RHpoM3Jza1R3ZVNQR2xodXBkdnoxWHZISEFZR2s4RjdJeDlnN0k3c0tDT0VlYTh5bTBMcElfUy1TWGlzYlRGeV9ZazJ2UTlyaTZYYVowWXhIQmtFWEszalowN0tNRVBfNzNSaE02NUZLd0tBQ3FITzRlSUlSWHNEM01ILWlnYmN3MXRvRXg4WTY0V2xEcW1PSEMzTVg2WVBqQw?oc=5",
           "source": "Google News",
           "published": "Wed, 05 Aug 2026 22:33:00 GMT"
         },
         {
-          "title": "Regal Cinemas CEO Champions Paramount-WBD Merger - deadline.com",
+          "title": "Regal Cinemas CEO Champions Paramount-WBD Merger - Deadline",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdTZhODcxS0EtRkRPeEhYNW4yWFpiUlZGcHVGRHR4N2VreFRKOThvaTdkVlNJb05qNWxzYW12WGJCd2I2QkNPT05kNkpaUEVYMEN0VXZuZHprTkVVaXc5NnJmUVFfUkhrRXZvR0hoME5TZ1dUSGo4ZXkzQm5ub3Q0ZUtMeldGZGswUHFOWS1UOU0?oc=5",
           "source": "Google News",
           "published": "Thu, 06 Aug 2026 00:15:00 GMT"
@@ -237,7 +242,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "SpaceX Stock Drops on Ballooning AI Bill - WSJ",
+          "title": "SpaceX Stock Drops on Ballooning AI Bill - wsj.com",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeE05SFI2LXZiUDhPdWtjXzdYRFdBNE9vUnBaRzZEeVVjRWVlWFlLci1FMEVMSWtSQTZwR2VPMThoNzg3ckYwdGpiQTJEaGJaRll4Ukdpcm14X3FJVDI1Z1ZyWEdiSnhBOXdxVUFXeU9Ba2V3MTlSRHh3dF9zaGZtVWpVbDl3bjRoRDVNNA?oc=5",
           "source": "Google News",
           "published": "Wed, 05 Aug 2026 20:31:00 GMT"
@@ -251,111 +256,72 @@
       ]
     },
     {
-      "word": "Tiktok",
+      "word": "Switch",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "TikTok says moderator error delayed removal of Perez Hilton's livestream showing acts of self-harm - foxbusiness.com",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVnpmM0dFTG1ObUhRNklHZkcyU1FKOU1mXzAxT01zMENCcGYzV3ZnSGowekVqbmY5STNNT2llTnZHUzFYU3l3OU1pZGVvSkhjcXo2aFpvM1YzQUtYNlBOLUJqM292azBtVTNHbGFsc2oxMGlTaVo2MHdtQ1BBeTVOMkR6Uk9WSF90OHRfZTNfUHZYTHJsa01YczUyT3QxZmx6NWM3dlJFQThCa2hNdHdNdjROWHhGUDlYdjY3d2JDaThJclFyQnlIalBSUjd3UdIB0wFBVV95cUxQeXpvSFBCdmgzRk1QV0FtOWZxODBwZGlhNXMxNUVhQlk1WFlla1JiS2hITmRkUjFlRktoX0tqTGtVZDl3aWVTeXZwMnB6WFkxbHFMbVNUZkNkVnNQVGRfZF9zdnVobTdVRS1ZbGduMTVDM2JlcE1jSU9SbUNYeTlleGFURUx0TFc2NG5seWsyMF8zN3h1M3ZPanBGVlZfQXRrd2RQMXVIX0ZjZ0ZTQm4tNnYwV0ttLVJnS0hMcUwwdjRRR1JudnZzVnhBSmw5YTR1QWZZ?oc=5",
+          "title": "Minecraft Gets Nintendo Switch 2 Version With an Upgrade Path for Switch 1 Owners - IGN",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU3drSGxYM3NNSm1jTnoxaWl4Qm5OMHF1enlPUHhhM3hOSkdibUFfbkpMbk94S3VVdUxVN0xfdzdRUVgtUmYydHBMbmNGY2oyem5yNTFvZnBNLXl0QUkzcWNoVDdYNy0zSFdyZHR1dnBRX0dHNWRDaVVmdDBBMExlRXJYSHFyXzBDQkhmaDR2MjRJU2FCWU92YW1Bd1FzUDZBM01JY0g3cE9kRnV3TGVoZ19HUHZqUQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 06 Aug 2026 03:56:00 GMT"
+          "published": "Wed, 05 Aug 2026 21:14:21 GMT"
+        }
+      ]
+    },
+    {
+      "word": "August",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Horoscope for Thursday, August 06, 2026 - Chicago Sun-Times",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU0NjXzVLNXQ0VUoyRW9OemlfOGlfNTNWRXBRcG9rVGZHT2xfMWd0a0E3WmQ4MExZTk5XVjE3eXRuZnVnbkZyT0xfV3g2eUdVZEkxWFhSN0ZKNjk2R1RsRkNvcUpjZFEzS2lxR0t4N1VId3VaTkIxd1ZZam8tbTVPYzZCMGY5NW51VGlfbUhyck5UUnlfYlE?oc=5",
+          "source": "Google News",
+          "published": "Thu, 06 Aug 2026 05:01:00 GMT"
         },
         {
-          "title": "Disney and TikTok Ink Wide-Ranging Deal, Videos From Tech Platform Will Be Added to Disney+ - The Hollywood Reporter",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORVpHMjZrcHRFdTVWN3ZiNWRvWHRDdmFzUEt3QXhIdG82SkNmbUtSVXE3MlZmMXlKa2FhSUNvNHpOYkhINGxyc1VqMVc2SlpsNGxBbnhBZ0tyWUpCMlp5MENJRE5WQWg4RzFCNDM5WkVucEdRT2xKYkNLUUZpVmpWZmpKYmdOaEd6Ui1BeWNYclFsWnptT04zVERsck94OWdYUUVRbQ?oc=5",
+          "title": "Meteor shower dubbed 'the Perseids' will follow a solar eclipse on August 12— and will light up the sky from North Carolina to Alaska - New York Post",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNMmlVN3NobEd3OFZMejBQUW1OYTAtWjhNd2w3RzVnTkxveXBhMGFsZUZJZlo2WWNZSGd1Y3dXc0xZaUpSdEM2S3Qtb0xmRFh2XzFNbFVYLTJDTmFYVlIwWmZQT3lqdlpMUjJ3a1oxWFF2M3Iwcl8xR2RnNzRSMndfbkRXa3JKNnlLaG1xWWRmYThRVDBFRmdIM3JXMVA4MXp4ZVJZTWt2MDRqeU5fc0xrY0lJMmVDdHhIRlRnVktfSHJ1NXpHZnFVQW1FU1hxRlN0TVI1ZzhrRDZ6OURSQllHTmk0bXNrMlNudUR4Tl9RaHFIa3pIVldVOXJMYVdkQQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 06 Aug 2026 01:58:38 GMT"
+          "published": "Thu, 06 Aug 2026 02:58:00 GMT"
         }
       ]
     },
     {
-      "word": "Disney",
+      "word": "Solar",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Disney and TikTok Ink Wide-Ranging Deal, Videos From Tech Platform Will Be Added to Disney+ - The Hollywood Reporter",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORVpHMjZrcHRFdTVWN3ZiNWRvWHRDdmFzUEt3QXhIdG82SkNmbUtSVXE3MlZmMXlKa2FhSUNvNHpOYkhINGxyc1VqMVc2SlpsNGxBbnhBZ0tyWUpCMlp5MENJRE5WQWg4RzFCNDM5WkVucEdRT2xKYkNLUUZpVmpWZmpKYmdOaEd6Ui1BeWNYclFsWnptT04zVERsck94OWdYUUVRbQ?oc=5",
+          "title": "Meteor shower dubbed 'the Perseids' will follow a solar eclipse on August 12— and will light up the sky from North Carolina to Alaska - New York Post",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNMmlVN3NobEd3OFZMejBQUW1OYTAtWjhNd2w3RzVnTkxveXBhMGFsZUZJZlo2WWNZSGd1Y3dXc0xZaUpSdEM2S3Qtb0xmRFh2XzFNbFVYLTJDTmFYVlIwWmZQT3lqdlpMUjJ3a1oxWFF2M3Iwcl8xR2RnNzRSMndfbkRXa3JKNnlLaG1xWWRmYThRVDBFRmdIM3JXMVA4MXp4ZVJZTWt2MDRqeU5fc0xrY0lJMmVDdHhIRlRnVktfSHJ1NXpHZnFVQW1FU1hxRlN0TVI1ZzhrRDZ6OURSQllHTmk0bXNrMlNudUR4Tl9RaHFIa3pIVldVOXJMYVdkQQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 06 Aug 2026 01:58:38 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Revealed",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Joshua Van vs. Alexandre Pantoja 2, Arman Tsarukyan vs. Mauricio Ruffy set as full UFC 331 card revealed - MMA Fighting",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQREJSRGdZZFN0c0ZvWDA5Q3Y4LWRNcU9ESEhKNnEtRGM3Z0MtRE9xQVVuM2paZWFXMmw1RGV3NVJMZGowNk1kSE1CcDdYOU40U1BxdUhfS1JKeXdIZHRTQVlFdkRqcTlZN3VaZF9GbEdINVU1LWYzSVQ5ZHVfM0F0MXlkQVJMdkthZW5WMlVYZGJhTGswamNncjFmcHJfLWNuNTQ1VVhJNlVOc2sxd2JYV3JxajNLOHhobUpxNkV5VGhmaTloQjVSTFduekp2WmltbmdHVUMycw?oc=5",
-          "source": "Google News",
-          "published": "Wed, 05 Aug 2026 23:18:35 GMT"
+          "published": "Thu, 06 Aug 2026 02:58:00 GMT"
         },
         {
-          "title": "Most detailed images ever taken of sun's surface revealed: \"Major step forward\" - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yVTRLYkVkd1UxdzZGQ3BRSVIxaTM4Rno0Z2RFelpycnBsZ095LTVDSGFiUHRIY3pkTzNZYzNnS1poS3BJblZ6RXB0bE9BeHFfb3ZDYzJKRFJxeTh3Q3RVaTQ2ekxkbDIyeGdObTc4TDhHTUxJTDlWRFVFWQ?oc=5",
+          "title": "Total solar eclipse Aug. 12, 2026 live updates — 6 days to totality - Space",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSHhtZ0xXREUyX0kxejRsWGpXSnUzQkNDeER6dTg3djlqMzctdWlULTllTk9TWWFCbGNZdDExSG1kRVhTaElTN18wSDFYb1VFQkxaQ3liYXVscU5Ra25rQm9VVlI2c19SSDhNTzdkNE5SeU12NmxsZjFzaGNJZXhjNE1zaURqNTV1c1hqalVuS1FqM09IMDZhMXJMMlVkQQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 06 Aug 2026 00:55:02 GMT"
+          "published": "Thu, 06 Aug 2026 09:03:51 GMT"
         }
       ]
     },
     {
-      "word": "may",
+      "word": "Eclipse",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Two origins of life: Free-living cells may have emerged twice as bacteria and archaea diverged - Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QNHM2RmVhV0t4eW1ERnhEZGdYTVhzb0RvYkxzaHZUYUFpQWlXUFpZbHVMei1wTjBRVm1SdkRkWlE5ajFaQUQ5WmRPNWR6amU1dDJfTTFDVTBNc1VGak9nLTc2MWVBU0hJTzRkUlM4Q2NPV2h4eEE?oc=5",
+          "title": "Meteor shower dubbed 'the Perseids' will follow a solar eclipse on August 12— and will light up the sky from North Carolina to Alaska - New York Post",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNMmlVN3NobEd3OFZMejBQUW1OYTAtWjhNd2w3RzVnTkxveXBhMGFsZUZJZlo2WWNZSGd1Y3dXc0xZaUpSdEM2S3Qtb0xmRFh2XzFNbFVYLTJDTmFYVlIwWmZQT3lqdlpMUjJ3a1oxWFF2M3Iwcl8xR2RnNzRSMndfbkRXa3JKNnlLaG1xWWRmYThRVDBFRmdIM3JXMVA4MXp4ZVJZTWt2MDRqeU5fc0xrY0lJMmVDdHhIRlRnVktfSHJ1NXpHZnFVQW1FU1hxRlN0TVI1ZzhrRDZ6OURSQllHTmk0bXNrMlNudUR4Tl9RaHFIa3pIVldVOXJMYVdkQQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 05 Aug 2026 18:00:13 GMT"
+          "published": "Thu, 06 Aug 2026 02:58:00 GMT"
         },
         {
-          "title": "Avoiding 3 things during middle age may delay dementia risk by 13 years - CNN",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZERjOUd3Y20wbkJDMU13ZS1kRTBfb2dNQ2dEeHRWVUFzRWVRaFlOc0tpY21GTzNJUnl0SjRRcFdVaGhpckVoOVlNVHZfMHBpRUY4ZWdoeDBVcmdrcmNBbEhTME5UUkFDZm9ZaVZpbDNiRHFkSjd0SnhfVEwyekxHcWRIbDV6YXVVb05Hampuc0U?oc=5",
+          "title": "Total solar eclipse Aug. 12, 2026 live updates — 6 days to totality - Space",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSHhtZ0xXREUyX0kxejRsWGpXSnUzQkNDeER6dTg3djlqMzctdWlULTllTk9TWWFCbGNZdDExSG1kRVhTaElTN18wSDFYb1VFQkxaQ3liYXVscU5Ra25rQm9VVlI2c19SSDhNTzdkNE5SeU12NmxsZjFzaGNJZXhjNE1zaURqNTV1c1hqalVuS1FqM09IMDZhMXJMMlVkQQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 05 Aug 2026 20:04:17 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Calls",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump says El-Sayed is ‘full of s‑‑‑,’ calls him a ‘man of hate’ - The Hill",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTloyMFcwSGxfS1g2TTV2TVpzbFR6cGU5dzQycW14SWV2X2NKMWlobUdJblFYSlNVbE5ma3NyaUhMTXJJUHhCZE9BLUV0M2VyQ1pUSFRXd3c3WWhRemdoNkJ2TkJiTnljSDNFNUowSWNLTVh0d0QwNmRWVnhkOWpENFpxd2VrNDI4ZC1TNmpnS2hmY0NxbVHSAZsBQVVfeXFMTUdZay10U3pBSloxMWlQX0hrUWFiaEk2ajJHMmFRWXNxNnlmSlhBS0VTQnR5bjMyOWxkRS04NVBfVWVZem52a1RtanBOVUdoOHNhOF82dXA0RlRHMjJDTkF3MzdrMTU2aXZxWnBDQmVLZmtTN2dtQTdreURiVnFSSUgxUllXaGc2Y2NqNmVzUzhQVHVrRmgySjhUYkU?oc=5",
-          "source": "Google News",
-          "published": "Wed, 05 Aug 2026 22:17:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "man",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump says El-Sayed is ‘full of s‑‑‑,’ calls him a ‘man of hate’ - The Hill",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTloyMFcwSGxfS1g2TTV2TVpzbFR6cGU5dzQycW14SWV2X2NKMWlobUdJblFYSlNVbE5ma3NyaUhMTXJJUHhCZE9BLUV0M2VyQ1pUSFRXd3c3WWhRemdoNkJ2TkJiTnljSDNFNUowSWNLTVh0d0QwNmRWVnhkOWpENFpxd2VrNDI4ZC1TNmpnS2hmY0NxbVHSAZsBQVVfeXFMTUdZay10U3pBSloxMWlQX0hrUWFiaEk2ajJHMmFRWXNxNnlmSlhBS0VTQnR5bjMyOWxkRS04NVBfVWVZem52a1RtanBOVUdoOHNhOF82dXA0RlRHMjJDTkF3MzdrMTU2aXZxWnBDQmVLZmtTN2dtQTdreURiVnFSSUgxUllXaGc2Y2NqNmVzUzhQVHVrRmgySjhUYkU?oc=5",
-          "source": "Google News",
-          "published": "Wed, 05 Aug 2026 22:17:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Hate",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump says El-Sayed is ‘full of s‑‑‑,’ calls him a ‘man of hate’ - The Hill",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTloyMFcwSGxfS1g2TTV2TVpzbFR6cGU5dzQycW14SWV2X2NKMWlobUdJblFYSlNVbE5ma3NyaUhMTXJJUHhCZE9BLUV0M2VyQ1pUSFRXd3c3WWhRemdoNkJ2TkJiTnljSDNFNUowSWNLTVh0d0QwNmRWVnhkOWpENFpxd2VrNDI4ZC1TNmpnS2hmY0NxbVHSAZsBQVVfeXFMTUdZay10U3pBSloxMWlQX0hrUWFiaEk2ajJHMmFRWXNxNnlmSlhBS0VTQnR5bjMyOWxkRS04NVBfVWVZem52a1RtanBOVUdoOHNhOF82dXA0RlRHMjJDTkF3MzdrMTU2aXZxWnBDQmVLZmtTN2dtQTdreURiVnFSSUgxUllXaGc2Y2NqNmVzUzhQVHVrRmgySjhUYkU?oc=5",
-          "source": "Google News",
-          "published": "Wed, 05 Aug 2026 22:17:00 GMT"
+          "published": "Thu, 06 Aug 2026 09:03:51 GMT"
         }
       ]
     },
@@ -368,7 +334,7 @@
           "title": "Live Updates: Trump says Strait of Hormuz deal could happen soon amid Iran-Oman talks - CBS News",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ3luLUxvekFtWFdpQU9vSnJ2RzRwdndUZ205VmYwcEl2WDNPSmZ1YUNteThESjB4LW5SdHlXX3pyZkdqNGtQd0JDQU5oeER4U21BY1AtMUpiSEdDWHZacnV5SGdQOXpzdllRU1lTLUtFZlFlU25JWGgtMnRSaE9sdVNOWQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 06 Aug 2026 04:01:00 GMT"
+          "published": "Thu, 06 Aug 2026 07:01:00 GMT"
         }
       ]
     },
@@ -381,7 +347,20 @@
           "title": "Live Updates: Trump says Strait of Hormuz deal could happen soon amid Iran-Oman talks - CBS News",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ3luLUxvekFtWFdpQU9vSnJ2RzRwdndUZ205VmYwcEl2WDNPSmZ1YUNteThESjB4LW5SdHlXX3pyZkdqNGtQd0JDQU5oeER4U21BY1AtMUpiSEdDWHZacnV5SGdQOXpzdllRU1lTLUtFZlFlU25JWGgtMnRSaE9sdVNOWQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 06 Aug 2026 04:01:00 GMT"
+          "published": "Thu, 06 Aug 2026 07:01:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Deal",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Live Updates: Trump says Strait of Hormuz deal could happen soon amid Iran-Oman talks - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ3luLUxvekFtWFdpQU9vSnJ2RzRwdndUZ205VmYwcEl2WDNPSmZ1YUNteThESjB4LW5SdHlXX3pyZkdqNGtQd0JDQU5oeER4U21BY1AtMUpiSEdDWHZacnV5SGdQOXpzdllRU1lTLUtFZlFlU25JWGgtMnRSaE9sdVNOWQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 06 Aug 2026 07:01:00 GMT"
         }
       ]
     },
@@ -394,7 +373,7 @@
           "title": "Live Updates: Trump says Strait of Hormuz deal could happen soon amid Iran-Oman talks - CBS News",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ3luLUxvekFtWFdpQU9vSnJ2RzRwdndUZ205VmYwcEl2WDNPSmZ1YUNteThESjB4LW5SdHlXX3pyZkdqNGtQd0JDQU5oeER4U21BY1AtMUpiSEdDWHZacnV5SGdQOXpzdllRU1lTLUtFZlFlU25JWGgtMnRSaE9sdVNOWQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 06 Aug 2026 04:01:00 GMT"
+          "published": "Thu, 06 Aug 2026 07:01:00 GMT"
         }
       ]
     },
@@ -407,7 +386,7 @@
           "title": "Live Updates: Trump says Strait of Hormuz deal could happen soon amid Iran-Oman talks - CBS News",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ3luLUxvekFtWFdpQU9vSnJ2RzRwdndUZ205VmYwcEl2WDNPSmZ1YUNteThESjB4LW5SdHlXX3pyZkdqNGtQd0JDQU5oeER4U21BY1AtMUpiSEdDWHZacnV5SGdQOXpzdllRU1lTLUtFZlFlU25JWGgtMnRSaE9sdVNOWQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 06 Aug 2026 04:01:00 GMT"
+          "published": "Thu, 06 Aug 2026 07:01:00 GMT"
         }
       ]
     },
@@ -420,7 +399,7 @@
           "title": "Live Updates: Trump says Strait of Hormuz deal could happen soon amid Iran-Oman talks - CBS News",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ3luLUxvekFtWFdpQU9vSnJ2RzRwdndUZ205VmYwcEl2WDNPSmZ1YUNteThESjB4LW5SdHlXX3pyZkdqNGtQd0JDQU5oeER4U21BY1AtMUpiSEdDWHZacnV5SGdQOXpzdllRU1lTLUtFZlFlU25JWGgtMnRSaE9sdVNOWQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 06 Aug 2026 04:01:00 GMT"
+          "published": "Thu, 06 Aug 2026 07:01:00 GMT"
         }
       ]
     },
@@ -433,7 +412,7 @@
           "title": "Live Updates: Trump says Strait of Hormuz deal could happen soon amid Iran-Oman talks - CBS News",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ3luLUxvekFtWFdpQU9vSnJ2RzRwdndUZ205VmYwcEl2WDNPSmZ1YUNteThESjB4LW5SdHlXX3pyZkdqNGtQd0JDQU5oeER4U21BY1AtMUpiSEdDWHZacnV5SGdQOXpzdllRU1lTLUtFZlFlU25JWGgtMnRSaE9sdVNOWQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 06 Aug 2026 04:01:00 GMT"
+          "published": "Thu, 06 Aug 2026 07:01:00 GMT"
         }
       ]
     },
@@ -446,7 +425,163 @@
           "title": "Live Updates: Trump says Strait of Hormuz deal could happen soon amid Iran-Oman talks - CBS News",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ3luLUxvekFtWFdpQU9vSnJ2RzRwdndUZ205VmYwcEl2WDNPSmZ1YUNteThESjB4LW5SdHlXX3pyZkdqNGtQd0JDQU5oeER4U21BY1AtMUpiSEdDWHZacnV5SGdQOXpzdllRU1lTLUtFZlFlU25JWGgtMnRSaE9sdVNOWQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 06 Aug 2026 04:01:00 GMT"
+          "published": "Thu, 06 Aug 2026 07:01:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Sayed",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump says El-Sayed is ‘full of s‑‑‑,’ calls him a ‘man of hate’ - thehill.com",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTloyMFcwSGxfS1g2TTV2TVpzbFR6cGU5dzQycW14SWV2X2NKMWlobUdJblFYSlNVbE5ma3NyaUhMTXJJUHhCZE9BLUV0M2VyQ1pUSFRXd3c3WWhRemdoNkJ2TkJiTnljSDNFNUowSWNLTVh0d0QwNmRWVnhkOWpENFpxd2VrNDI4ZC1TNmpnS2hmY0NxbVHSAZsBQVVfeXFMTUdZay10U3pBSloxMWlQX0hrUWFiaEk2ajJHMmFRWXNxNnlmSlhBS0VTQnR5bjMyOWxkRS04NVBfVWVZem52a1RtanBOVUdoOHNhOF82dXA0RlRHMjJDTkF3MzdrMTU2aXZxWnBDQmVLZmtTN2dtQTdreURiVnFSSUgxUllXaGc2Y2NqNmVzUzhQVHVrRmgySjhUYkU?oc=5",
+          "source": "Google News",
+          "published": "Wed, 05 Aug 2026 22:17:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Full",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump says El-Sayed is ‘full of s‑‑‑,’ calls him a ‘man of hate’ - thehill.com",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTloyMFcwSGxfS1g2TTV2TVpzbFR6cGU5dzQycW14SWV2X2NKMWlobUdJblFYSlNVbE5ma3NyaUhMTXJJUHhCZE9BLUV0M2VyQ1pUSFRXd3c3WWhRemdoNkJ2TkJiTnljSDNFNUowSWNLTVh0d0QwNmRWVnhkOWpENFpxd2VrNDI4ZC1TNmpnS2hmY0NxbVHSAZsBQVVfeXFMTUdZay10U3pBSloxMWlQX0hrUWFiaEk2ajJHMmFRWXNxNnlmSlhBS0VTQnR5bjMyOWxkRS04NVBfVWVZem52a1RtanBOVUdoOHNhOF82dXA0RlRHMjJDTkF3MzdrMTU2aXZxWnBDQmVLZmtTN2dtQTdreURiVnFSSUgxUllXaGc2Y2NqNmVzUzhQVHVrRmgySjhUYkU?oc=5",
+          "source": "Google News",
+          "published": "Wed, 05 Aug 2026 22:17:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Calls",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump says El-Sayed is ‘full of s‑‑‑,’ calls him a ‘man of hate’ - thehill.com",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTloyMFcwSGxfS1g2TTV2TVpzbFR6cGU5dzQycW14SWV2X2NKMWlobUdJblFYSlNVbE5ma3NyaUhMTXJJUHhCZE9BLUV0M2VyQ1pUSFRXd3c3WWhRemdoNkJ2TkJiTnljSDNFNUowSWNLTVh0d0QwNmRWVnhkOWpENFpxd2VrNDI4ZC1TNmpnS2hmY0NxbVHSAZsBQVVfeXFMTUdZay10U3pBSloxMWlQX0hrUWFiaEk2ajJHMmFRWXNxNnlmSlhBS0VTQnR5bjMyOWxkRS04NVBfVWVZem52a1RtanBOVUdoOHNhOF82dXA0RlRHMjJDTkF3MzdrMTU2aXZxWnBDQmVLZmtTN2dtQTdreURiVnFSSUgxUllXaGc2Y2NqNmVzUzhQVHVrRmgySjhUYkU?oc=5",
+          "source": "Google News",
+          "published": "Wed, 05 Aug 2026 22:17:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "man",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump says El-Sayed is ‘full of s‑‑‑,’ calls him a ‘man of hate’ - thehill.com",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTloyMFcwSGxfS1g2TTV2TVpzbFR6cGU5dzQycW14SWV2X2NKMWlobUdJblFYSlNVbE5ma3NyaUhMTXJJUHhCZE9BLUV0M2VyQ1pUSFRXd3c3WWhRemdoNkJ2TkJiTnljSDNFNUowSWNLTVh0d0QwNmRWVnhkOWpENFpxd2VrNDI4ZC1TNmpnS2hmY0NxbVHSAZsBQVVfeXFMTUdZay10U3pBSloxMWlQX0hrUWFiaEk2ajJHMmFRWXNxNnlmSlhBS0VTQnR5bjMyOWxkRS04NVBfVWVZem52a1RtanBOVUdoOHNhOF82dXA0RlRHMjJDTkF3MzdrMTU2aXZxWnBDQmVLZmtTN2dtQTdreURiVnFSSUgxUllXaGc2Y2NqNmVzUzhQVHVrRmgySjhUYkU?oc=5",
+          "source": "Google News",
+          "published": "Wed, 05 Aug 2026 22:17:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Hate",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump says El-Sayed is ‘full of s‑‑‑,’ calls him a ‘man of hate’ - thehill.com",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTloyMFcwSGxfS1g2TTV2TVpzbFR6cGU5dzQycW14SWV2X2NKMWlobUdJblFYSlNVbE5ma3NyaUhMTXJJUHhCZE9BLUV0M2VyQ1pUSFRXd3c3WWhRemdoNkJ2TkJiTnljSDNFNUowSWNLTVh0d0QwNmRWVnhkOWpENFpxd2VrNDI4ZC1TNmpnS2hmY0NxbVHSAZsBQVVfeXFMTUdZay10U3pBSloxMWlQX0hrUWFiaEk2ajJHMmFRWXNxNnlmSlhBS0VTQnR5bjMyOWxkRS04NVBfVWVZem52a1RtanBOVUdoOHNhOF82dXA0RlRHMjJDTkF3MzdrMTU2aXZxWnBDQmVLZmtTN2dtQTdreURiVnFSSUgxUllXaGc2Y2NqNmVzUzhQVHVrRmgySjhUYkU?oc=5",
+          "source": "Google News",
+          "published": "Wed, 05 Aug 2026 22:17:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Committee",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Senate committee set to vote on whether to hold Fauci in contempt of Congress - npr.org",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObllHTkttLTBZTFR6cXZNd3R3Tm9MZk5OMWl0bGtjODlLZFZuYmdCRXctMXp4X3p3dGNFM1dlb011ZDJieHJWZkVBTmFHcW1CbDQ3U015blMxRVpEYVY3VmZVRG0tSHVrSHlMQVdDYjVNMEZTcUZaLXppR3dlb1RpdHpmZmxubDFlUHhGVA?oc=5",
+          "source": "Google News",
+          "published": "Thu, 06 Aug 2026 07:16:22 GMT"
+        }
+      ]
+    },
+    {
+      "word": "set",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Senate committee set to vote on whether to hold Fauci in contempt of Congress - npr.org",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObllHTkttLTBZTFR6cXZNd3R3Tm9MZk5OMWl0bGtjODlLZFZuYmdCRXctMXp4X3p3dGNFM1dlb011ZDJieHJWZkVBTmFHcW1CbDQ3U015blMxRVpEYVY3VmZVRG0tSHVrSHlMQVdDYjVNMEZTcUZaLXppR3dlb1RpdHpmZmxubDFlUHhGVA?oc=5",
+          "source": "Google News",
+          "published": "Thu, 06 Aug 2026 07:16:22 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Vote",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Senate committee set to vote on whether to hold Fauci in contempt of Congress - npr.org",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObllHTkttLTBZTFR6cXZNd3R3Tm9MZk5OMWl0bGtjODlLZFZuYmdCRXctMXp4X3p3dGNFM1dlb011ZDJieHJWZkVBTmFHcW1CbDQ3U015blMxRVpEYVY3VmZVRG0tSHVrSHlMQVdDYjVNMEZTcUZaLXppR3dlb1RpdHpmZmxubDFlUHhGVA?oc=5",
+          "source": "Google News",
+          "published": "Thu, 06 Aug 2026 07:16:22 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Whether",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Senate committee set to vote on whether to hold Fauci in contempt of Congress - npr.org",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObllHTkttLTBZTFR6cXZNd3R3Tm9MZk5OMWl0bGtjODlLZFZuYmdCRXctMXp4X3p3dGNFM1dlb011ZDJieHJWZkVBTmFHcW1CbDQ3U015blMxRVpEYVY3VmZVRG0tSHVrSHlMQVdDYjVNMEZTcUZaLXppR3dlb1RpdHpmZmxubDFlUHhGVA?oc=5",
+          "source": "Google News",
+          "published": "Thu, 06 Aug 2026 07:16:22 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Fauci",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Senate committee set to vote on whether to hold Fauci in contempt of Congress - npr.org",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObllHTkttLTBZTFR6cXZNd3R3Tm9MZk5OMWl0bGtjODlLZFZuYmdCRXctMXp4X3p3dGNFM1dlb011ZDJieHJWZkVBTmFHcW1CbDQ3U015blMxRVpEYVY3VmZVRG0tSHVrSHlMQVdDYjVNMEZTcUZaLXppR3dlb1RpdHpmZmxubDFlUHhGVA?oc=5",
+          "source": "Google News",
+          "published": "Thu, 06 Aug 2026 07:16:22 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Contempt",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Senate committee set to vote on whether to hold Fauci in contempt of Congress - npr.org",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObllHTkttLTBZTFR6cXZNd3R3Tm9MZk5OMWl0bGtjODlLZFZuYmdCRXctMXp4X3p3dGNFM1dlb011ZDJieHJWZkVBTmFHcW1CbDQ3U015blMxRVpEYVY3VmZVRG0tSHVrSHlMQVdDYjVNMEZTcUZaLXppR3dlb1RpdHpmZmxubDFlUHhGVA?oc=5",
+          "source": "Google News",
+          "published": "Thu, 06 Aug 2026 07:16:22 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Congress",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Senate committee set to vote on whether to hold Fauci in contempt of Congress - npr.org",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObllHTkttLTBZTFR6cXZNd3R3Tm9MZk5OMWl0bGtjODlLZFZuYmdCRXctMXp4X3p3dGNFM1dlb011ZDJieHJWZkVBTmFHcW1CbDQ3U015blMxRVpEYVY3VmZVRG0tSHVrSHlMQVdDYjVNMEZTcUZaLXppR3dlb1RpdHpmZmxubDFlUHhGVA?oc=5",
+          "source": "Google News",
+          "published": "Thu, 06 Aug 2026 07:16:22 GMT"
         }
       ]
     },
@@ -459,7 +594,7 @@
           "title": "Trump, Hegseth clashed at Camp David over Iran missile depletion concerns - The Washington Post",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaUliZlNTQUp4dGdITlFNX19DTENuNkh5TkJaMlJvMXhKRDlOWFhmVXNTT2RMSnQyLVlOWExDNWlJN0Q3QUY0bDBJWVBHMnFOSjZEUEdidkhFaEI3YVVlM0Jxa0taV2RVcEFwWFNNb180YmZqU3VDY3VzdU9zQ183VXBYWk9tVFFyeVQ5WDFpWWxfaDNQVFJ3LWM0Q2oyTWdtdFVXNmZtb01Nd1I5OWFoZy0taTJ0VWVXMHVJRjNGd3pCY0JpcWZLQjdB?oc=5",
           "source": "Google News",
-          "published": "Thu, 06 Aug 2026 06:34:37 GMT"
+          "published": "Thu, 06 Aug 2026 09:40:23 GMT"
         }
       ]
     },
@@ -472,7 +607,7 @@
           "title": "Trump, Hegseth clashed at Camp David over Iran missile depletion concerns - The Washington Post",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaUliZlNTQUp4dGdITlFNX19DTENuNkh5TkJaMlJvMXhKRDlOWFhmVXNTT2RMSnQyLVlOWExDNWlJN0Q3QUY0bDBJWVBHMnFOSjZEUEdidkhFaEI3YVVlM0Jxa0taV2RVcEFwWFNNb180YmZqU3VDY3VzdU9zQ183VXBYWk9tVFFyeVQ5WDFpWWxfaDNQVFJ3LWM0Q2oyTWdtdFVXNmZtb01Nd1I5OWFoZy0taTJ0VWVXMHVJRjNGd3pCY0JpcWZLQjdB?oc=5",
           "source": "Google News",
-          "published": "Thu, 06 Aug 2026 06:34:37 GMT"
+          "published": "Thu, 06 Aug 2026 09:40:23 GMT"
         }
       ]
     },
@@ -485,7 +620,7 @@
           "title": "Trump, Hegseth clashed at Camp David over Iran missile depletion concerns - The Washington Post",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaUliZlNTQUp4dGdITlFNX19DTENuNkh5TkJaMlJvMXhKRDlOWFhmVXNTT2RMSnQyLVlOWExDNWlJN0Q3QUY0bDBJWVBHMnFOSjZEUEdidkhFaEI3YVVlM0Jxa0taV2RVcEFwWFNNb180YmZqU3VDY3VzdU9zQ183VXBYWk9tVFFyeVQ5WDFpWWxfaDNQVFJ3LWM0Q2oyTWdtdFVXNmZtb01Nd1I5OWFoZy0taTJ0VWVXMHVJRjNGd3pCY0JpcWZLQjdB?oc=5",
           "source": "Google News",
-          "published": "Thu, 06 Aug 2026 06:34:37 GMT"
+          "published": "Thu, 06 Aug 2026 09:40:23 GMT"
         }
       ]
     },
@@ -498,124 +633,7 @@
           "title": "Trump, Hegseth clashed at Camp David over Iran missile depletion concerns - The Washington Post",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaUliZlNTQUp4dGdITlFNX19DTENuNkh5TkJaMlJvMXhKRDlOWFhmVXNTT2RMSnQyLVlOWExDNWlJN0Q3QUY0bDBJWVBHMnFOSjZEUEdidkhFaEI3YVVlM0Jxa0taV2RVcEFwWFNNb180YmZqU3VDY3VzdU9zQ183VXBYWk9tVFFyeVQ5WDFpWWxfaDNQVFJ3LWM0Q2oyTWdtdFVXNmZtb01Nd1I5OWFoZy0taTJ0VWVXMHVJRjNGd3pCY0JpcWZLQjdB?oc=5",
           "source": "Google News",
-          "published": "Thu, 06 Aug 2026 06:34:37 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Missile",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump, Hegseth clashed at Camp David over Iran missile depletion concerns - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaUliZlNTQUp4dGdITlFNX19DTENuNkh5TkJaMlJvMXhKRDlOWFhmVXNTT2RMSnQyLVlOWExDNWlJN0Q3QUY0bDBJWVBHMnFOSjZEUEdidkhFaEI3YVVlM0Jxa0taV2RVcEFwWFNNb180YmZqU3VDY3VzdU9zQ183VXBYWk9tVFFyeVQ5WDFpWWxfaDNQVFJ3LWM0Q2oyTWdtdFVXNmZtb01Nd1I5OWFoZy0taTJ0VWVXMHVJRjNGd3pCY0JpcWZLQjdB?oc=5",
-          "source": "Google News",
-          "published": "Thu, 06 Aug 2026 06:34:37 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Depletion",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump, Hegseth clashed at Camp David over Iran missile depletion concerns - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaUliZlNTQUp4dGdITlFNX19DTENuNkh5TkJaMlJvMXhKRDlOWFhmVXNTT2RMSnQyLVlOWExDNWlJN0Q3QUY0bDBJWVBHMnFOSjZEUEdidkhFaEI3YVVlM0Jxa0taV2RVcEFwWFNNb180YmZqU3VDY3VzdU9zQ183VXBYWk9tVFFyeVQ5WDFpWWxfaDNQVFJ3LWM0Q2oyTWdtdFVXNmZtb01Nd1I5OWFoZy0taTJ0VWVXMHVJRjNGd3pCY0JpcWZLQjdB?oc=5",
-          "source": "Google News",
-          "published": "Thu, 06 Aug 2026 06:34:37 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Concerns",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump, Hegseth clashed at Camp David over Iran missile depletion concerns - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaUliZlNTQUp4dGdITlFNX19DTENuNkh5TkJaMlJvMXhKRDlOWFhmVXNTT2RMSnQyLVlOWExDNWlJN0Q3QUY0bDBJWVBHMnFOSjZEUEdidkhFaEI3YVVlM0Jxa0taV2RVcEFwWFNNb180YmZqU3VDY3VzdU9zQ183VXBYWk9tVFFyeVQ5WDFpWWxfaDNQVFJ3LWM0Q2oyTWdtdFVXNmZtb01Nd1I5OWFoZy0taTJ0VWVXMHVJRjNGd3pCY0JpcWZLQjdB?oc=5",
-          "source": "Google News",
-          "published": "Thu, 06 Aug 2026 06:34:37 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Panel",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Exclusive | Senate Panel Says It Has Obtained Copy of Fauci’s Covid-Era Phone - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYVhudzl3bkNNTXhqeXFPa0docnlNMm0zRkgtLUQ3ZGhOY09ZRjBfeV9RMVFwOXJZdnRJMlN2TlYzNi0zWXpKMl9nSU1tTHotVTlfX0JhTU40NDJWanF0OXFuRU9TdnZ0SThRYmxCWG9HNTZwQkE0NjNCUHp2NE8zZEszcw?oc=5",
-          "source": "Google News",
-          "published": "Wed, 05 Aug 2026 23:13:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Obtained",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Exclusive | Senate Panel Says It Has Obtained Copy of Fauci’s Covid-Era Phone - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYVhudzl3bkNNTXhqeXFPa0docnlNMm0zRkgtLUQ3ZGhOY09ZRjBfeV9RMVFwOXJZdnRJMlN2TlYzNi0zWXpKMl9nSU1tTHotVTlfX0JhTU40NDJWanF0OXFuRU9TdnZ0SThRYmxCWG9HNTZwQkE0NjNCUHp2NE8zZEszcw?oc=5",
-          "source": "Google News",
-          "published": "Wed, 05 Aug 2026 23:13:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Copy",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Exclusive | Senate Panel Says It Has Obtained Copy of Fauci’s Covid-Era Phone - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYVhudzl3bkNNTXhqeXFPa0docnlNMm0zRkgtLUQ3ZGhOY09ZRjBfeV9RMVFwOXJZdnRJMlN2TlYzNi0zWXpKMl9nSU1tTHotVTlfX0JhTU40NDJWanF0OXFuRU9TdnZ0SThRYmxCWG9HNTZwQkE0NjNCUHp2NE8zZEszcw?oc=5",
-          "source": "Google News",
-          "published": "Wed, 05 Aug 2026 23:13:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Fauci",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Exclusive | Senate Panel Says It Has Obtained Copy of Fauci’s Covid-Era Phone - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYVhudzl3bkNNTXhqeXFPa0docnlNMm0zRkgtLUQ3ZGhOY09ZRjBfeV9RMVFwOXJZdnRJMlN2TlYzNi0zWXpKMl9nSU1tTHotVTlfX0JhTU40NDJWanF0OXFuRU9TdnZ0SThRYmxCWG9HNTZwQkE0NjNCUHp2NE8zZEszcw?oc=5",
-          "source": "Google News",
-          "published": "Wed, 05 Aug 2026 23:13:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Covid",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Exclusive | Senate Panel Says It Has Obtained Copy of Fauci’s Covid-Era Phone - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYVhudzl3bkNNTXhqeXFPa0docnlNMm0zRkgtLUQ3ZGhOY09ZRjBfeV9RMVFwOXJZdnRJMlN2TlYzNi0zWXpKMl9nSU1tTHotVTlfX0JhTU40NDJWanF0OXFuRU9TdnZ0SThRYmxCWG9HNTZwQkE0NjNCUHp2NE8zZEszcw?oc=5",
-          "source": "Google News",
-          "published": "Wed, 05 Aug 2026 23:13:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Era",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Exclusive | Senate Panel Says It Has Obtained Copy of Fauci’s Covid-Era Phone - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYVhudzl3bkNNTXhqeXFPa0docnlNMm0zRkgtLUQ3ZGhOY09ZRjBfeV9RMVFwOXJZdnRJMlN2TlYzNi0zWXpKMl9nSU1tTHotVTlfX0JhTU40NDJWanF0OXFuRU9TdnZ0SThRYmxCWG9HNTZwQkE0NjNCUHp2NE8zZEszcw?oc=5",
-          "source": "Google News",
-          "published": "Wed, 05 Aug 2026 23:13:00 GMT"
+          "published": "Thu, 06 Aug 2026 09:40:23 GMT"
         }
       ]
     }
