@@ -1,131 +1,144 @@
 {
   "language": "ko",
-  "last_updated": 1786139226.344339,
+  "last_updated": 1786145958.8678,
   "count": 40,
   "trends": [
     {
-      "word": "민주당",
+      "word": "대통령",
       "count": 3,
+      "category": "PERSON",
+      "articles": [
+        {
+          "title": "이 대통령, 부동산 2차 점검회의…“공급 최대한 늘리고 시기도 앞당겨라” - hani.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54MUdpdkRpX0g0SkVndnM1WENKZ2JhM2pVZ2dxbldyOXpnM1N5VmJham9sS0tKZUlBRllBNFZtcUxmaEphVlQ5UGVJQ0FQeWF4bkNZdnk4Vk45UjlPUkhpcXhJcnpPRWhJSWcw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 07 Aug 2026 15:47:00 GMT"
+        },
+        {
+          "title": "극한 폭염피해 확산…李 대통령 “전방위 대응책 강구” - 농민신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91M0NTYzMxWk03X3pTYUVRd05XU0F6WnZYWnY3WG9zYmdzQWxUSHhtUVZReVQ4N0dXRjBoNktiSUpOMU5ZVGlldDJKTTQzbmJRRjRxQWw0MXppQQ?oc=5",
+          "source": "Google News",
+          "published": "Fri, 07 Aug 2026 23:05:09 GMT"
+        },
+        {
+          "title": "트럼프 대통령 \"호르무즈 해협 재개방 합의, 곧 이뤄질 수도\" - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GeGItRjdic21TZjJINmY0R1Q2ZFhKWFdBUkJLOXlUeWUyeXd2UTk5Q3pSdnQzTHRQaEh4bTJsR21HaUFGZjlmMmlPRzVVcXE4eFRDQ1Q1dmg0UTFfYk5tWmRmNkFUOUxRTW5vSnh5R2ZBd9IBdEFVX3lxTE40U2NRTm1VcVlQTkdDZmpWaUVHZGhJTlYxOFNndHRydmVOdm9TWFFoVVR6eXRPYWtqSDVXT1VqWGdGTFRFS1BwdXdCU25EaHAtd2d6OXk0bWpiNlJmLVdZdUpsSEJsQkZwWTN4aTVYZkplY0Z0?oc=5",
+          "source": "Google News",
+          "published": "Fri, 07 Aug 2026 15:09:37 GMT"
+        }
+      ]
+    },
+    {
+      "word": "2차",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령, 부동산 2차 점검회의…“공급 최대한 늘리고 시기도 앞당겨라” - hani.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54MUdpdkRpX0g0SkVndnM1WENKZ2JhM2pVZ2dxbldyOXpnM1N5VmJham9sS0tKZUlBRllBNFZtcUxmaEphVlQ5UGVJQ0FQeWF4bkNZdnk4Vk45UjlPUkhpcXhJcnpPRWhJSWcw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 07 Aug 2026 15:47:00 GMT"
+        },
+        {
+          "title": "'2차 가해' 논란 후 자진하차…김선태, 술병 가득한 방서 공개한 근황 - 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DZGZoUzF6cHF0N2dqenRvb0pGRDY2UWh4TTRTVzVENGZrYzNHRWVwQ2pPQlhOcW1oVUt4N0dfTWMtRVAxLTlUeTc3WEI5V1haelVUbjhreENVUQ?oc=5",
+          "source": "Google News",
+          "published": "Fri, 07 Aug 2026 20:50:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "민주당",
+      "count": 2,
       "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "치열한 민주당 경선, 영화 ‘친구’와 다른 결말 쓸 수 있을까 [웁스구라] - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oYXN2cGhLNW5ubjNoM2dpcm1TdEltd0VnTzBIV2RSbm00MV9BdXlSbmprcU1FVnlLa1FoOE15bm1xZ0tUSE5RRkRFU0J1Vk5ZUEZudGwwdmMzS2xWWGZGbVBlTzJSRnExY1FSN3F3YzVqS096?oc=5",
+          "title": "민주당 전대, 오늘 제주·인천 경선…정청래·김민석 ’초접전’ 속 2차전 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PVGJ5QThydzVuODkxZmJ5U0VqZGlzREphbGFidjF5cm9FTy1OcFFoZmlNQ1J5c0JYaVg1QXlsMkNKeTl6ekpGT2pUd01CSHh5MzlfQlJDbEdyZG03cFJIbWtBei1OaDA?oc=5",
           "source": "Google News",
-          "published": "Fri, 07 Aug 2026 15:46:00 GMT"
+          "published": "Fri, 07 Aug 2026 21:17:00 GMT"
         },
         {
           "title": "민주당 황희, 폐버스 개조해 청년 주거공간으로 쓰자며 ‘버스하우스’ 제안…국힘 “청년세대 모욕” - 경향신문",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsaW9yb0wzR0d0QVQtcGZ2S2FJeWFCVjRIT3ZzYWN2RXM2Mng0cDB6bHJZdmcxREIzZW9KOXVKZXZSbWpsdzF6UTh5bGN0RFN2NHJLQ0JPd0d0UdIBX0FVX3lxTE9MZTBrVW9fNkN1b2YzNEJXdHZYZmRJenhKWkNleXlsOHFYZ0luZ0c0VGJvUzFsS0YyU0k5cDNINnBiMFZBR3dFZ3ptRFBxcEF0d1d0R3U1T2xER0tQeW8w?oc=5",
           "source": "Google News",
           "published": "Fri, 07 Aug 2026 09:04:00 GMT"
-        },
-        {
-          "title": "민주당 전대, 오늘 제주·인천 경선…정청래·김민석 ’초접전’ 속 2차전 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PVGJ5QThydzVuODkxZmJ5U0VqZGlzREphbGFidjF5cm9FTy1OcFFoZmlNQ1J5c0JYaVg1QXlsMkNKeTl6ekpGT2pUd01CSHh5MzlfQlJDbEdyZG03cFJIbWtBei1OaDA?oc=5",
-          "source": "Google News",
-          "published": "Fri, 07 Aug 2026 21:17:00 GMT"
         }
       ]
     },
     {
-      "word": "트럼프",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프 대통령 \"호르무즈 해협 재개방 합의, 곧 이뤄질 수도\" - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GeGItRjdic21TZjJINmY0R1Q2ZFhKWFdBUkJLOXlUeWUyeXd2UTk5Q3pSdnQzTHRQaEh4bTJsR21HaUFGZjlmMmlPRzVVcXE4eFRDQ1Q1dmg0UTFfYk5tWmRmNkFUOUxRTW5vSnh5R2ZBd9IBdEFVX3lxTE40U2NRTm1VcVlQTkdDZmpWaUVHZGhJTlYxOFNndHRydmVOdm9TWFFoVVR6eXRPYWtqSDVXT1VqWGdGTFRFS1BwdXdCU25EaHAtd2d6OXk0bWpiNlJmLVdZdUpsSEJsQkZwWTN4aTVYZkplY0Z0?oc=5",
-          "source": "Google News",
-          "published": "Fri, 07 Aug 2026 15:09:37 GMT"
-        },
-        {
-          "title": "트럼프, '탄약부족' 보도에 격노…\"'누가 흘리나' 색출 지시\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00MEhHcXUyaTlJVlFGdlpYZlAzenV5YzRWR1ExNk83RG41N1ViUU9SaVF4QVdNQmlLVEVwYzQ1Y05qal9xWVdJZzlBekNYUUpLVEU2czNaOVRrT2fSAWBBVV95cUxOSl9qandyd2ZOdnJvUDhvM2JtNGE3VFp6RmtKWGlJbTByNE9KRV9YY0ZEdVlHZU1UYWc3a0FnMTZZXzFURk9IOHNLaXVncjdKR3lYX0psSDY1am4tZTNYN2s?oc=5",
-          "source": "Google News",
-          "published": "Fri, 07 Aug 2026 15:07:52 GMT"
-        },
-        {
-          "title": "트럼프 \"美 금리 전 세계에서 가장 낮아야\" - news.einfomax.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40T1NlSFpMNVRPMUQzVUNGTTJhUUVzeWg1eExONTdDS1YtSGQzY1VOcUFTcnB3SElSdy10elJDbV92d0NkZDlWN0NiaF9URUtOelRiS29hUFdkN0I4MU5rWmJabm9GOXI1MUlPbDR1Tnk?oc=5",
-          "source": "Google News",
-          "published": "Fri, 07 Aug 2026 13:53:56 GMT"
-        }
-      ]
-    },
-    {
-      "word": "대통령",
-      "count": 2,
-      "category": "PERSON",
-      "articles": [
-        {
-          "title": "이 대통령, 부동산 2차 점검회의…“공급 최대한 늘리고 시기도 앞당겨라” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54MUdpdkRpX0g0SkVndnM1WENKZ2JhM2pVZ2dxbldyOXpnM1N5VmJham9sS0tKZUlBRllBNFZtcUxmaEphVlQ5UGVJQ0FQeWF4bkNZdnk4Vk45UjlPUkhpcXhJcnpPRWhJSWcw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 07 Aug 2026 15:47:00 GMT"
-        },
-        {
-          "title": "트럼프 대통령 \"호르무즈 해협 재개방 합의, 곧 이뤄질 수도\" - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GeGItRjdic21TZjJINmY0R1Q2ZFhKWFdBUkJLOXlUeWUyeXd2UTk5Q3pSdnQzTHRQaEh4bTJsR21HaUFGZjlmMmlPRzVVcXE4eFRDQ1Q1dmg0UTFfYk5tWmRmNkFUOUxRTW5vSnh5R2ZBd9IBdEFVX3lxTE40U2NRTm1VcVlQTkdDZmpWaUVHZGhJTlYxOFNndHRydmVOdm9TWFFoVVR6eXRPYWtqSDVXT1VqWGdGTFRFS1BwdXdCU25EaHAtd2d6OXk0bWpiNlJmLVdZdUpsSEJsQkZwWTN4aTVYZkplY0Z0?oc=5",
-          "source": "Google News",
-          "published": "Fri, 07 Aug 2026 15:09:37 GMT"
-        }
-      ]
-    },
-    {
-      "word": "경찰",
+      "word": "극한",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보] 경찰, 9월 초부터 ‘가족사건 상피제’ 전격 실시 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrU1BlUlU1YUhqZW1ib21zTUU4aE1IUjVjZWw5RGZvam45NmwyUllrejhNeklpNDlxTnZlREw1aEJSZU1QNERlM3lNaE9GWThIVVB4bA?oc=5",
+          "title": "극한 폭염피해 확산…李 대통령 “전방위 대응책 강구” - 농민신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91M0NTYzMxWk03X3pTYUVRd05XU0F6WnZYWnY3WG9zYmdzQWxUSHhtUVZReVQ4N0dXRjBoNktiSUpOMU5ZVGlldDJKTTQzbmJRRjRxQWw0MXppQQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 07 Aug 2026 08:38:16 GMT"
+          "published": "Fri, 07 Aug 2026 23:05:09 GMT"
         },
         {
-          "title": "축구협회 겨눈 경찰, 정몽규·이임생 등 '윗선 개입' 수사 분수령 - 경기일보",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IZjVVNG9wc0xaMHdqMXI3T3k1anhma3ViLW1IQTAxSTRfTjlqMmxCWUo2Q0NUMTEtNVBsYTNrakdTQ3pZWUNvb1U1SmpNQ1FPNlgwQ0E2el8ta1k?oc=5",
+          "title": "봉황대기, 극한 폭염에 ‘오전’에 시작했지만…결국 선수는 탈진 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10V2tJWXBaUkpEcUkzLTlXR0V4ZjVhbUtmRVBRaDFDNWVPdWh5c3FEbDlKcDZtQVZFeWhFUnhrWWttSHYxTzBuSUhYVXVJLUU?oc=5",
           "source": "Google News",
-          "published": "Fri, 07 Aug 2026 04:23:31 GMT"
+          "published": "Fri, 07 Aug 2026 14:07:00 GMT"
         }
       ]
     },
     {
-      "word": "폭염",
+      "word": "강원",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "폭염에 온열질환자 2천8백여 명…가축 83만 마리 폐사 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1icVVhSnRLWURNWUlMODlEOEtHbVRpa3J0M0VNcElnTlRPVlltQVBuZUJqRERvR0VocmZoeWR4VGNrYnFDTU5nbDBpZHY2ZERJNjl3bG1ZVWNhc3M?oc=5",
+          "title": "강원 고성 평지에 호우주의보…원주 등 7곳 폭염경보 유지 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BOFZYMWZPN0JsVzBjR0hHQjVoQ0xEaW4tbno5RVg3SnpUaVF3QXAxTmo1ZjMzcGFTZWZGWDRUWWNQTXV6YXV4SlE3OVR3V1JlRUdYanU2STJvcTTSAWBBVV95cUxObjV4eGxILXV5bGRDRWlfNGVDbFh0XzBIakNmc05uRWpsaFNSZU80Vl9SdVAyS1ZkZC1LZHB3c2NzWTVGNzlyRHRtVWJEZGJyVXRvMVJ1emRGV3dtVF9PVUU?oc=5",
           "source": "Google News",
-          "published": "Fri, 07 Aug 2026 12:13:00 GMT"
+          "published": "Fri, 07 Aug 2026 22:31:27 GMT"
         },
         {
-          "title": "폭염 속 봉황대기 개막…선수 어지럼증으로 경기 잠시 중단 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCamhwanF2WlRXOGJDaXl0MS1SaWp0R1gzSjZpel9VenhtbW9iVzZUSk5xYWFYUy1Da0RUc2Q3MjdOQUU3UUF6ZkV4ZV9mWGViTDI5aWVETUNSWEXSAWBBVV95cUxQUnRyZnhEdnpvRVJzLS02eVVaWVhPdlNkTDAyVlpERTlHYk1KWFdQYTAxVlczS05rOWJfVjY2a2J0WUlqbDJWT1p3OHVQbnJOeUJDdVRVNGRLQnhJYUU0bVU?oc=5",
+          "title": "강원 원주 태장동 아파트서 정전…주민 불편(종합) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ETDBLRE12R2dBQWxUNThaZzFQTHZJOW9nYnYwa1R5bl8wMHpNVFQ1UUtwY1pCOUZMbFo0bFN3a3h3M0U4dkRhSzNicTNUN3hxcHJsZlJmLWNPMGPSAWBBVV95cUxPUjdmaVpucjNhYS1zY2tzYTlnWkhNX3ZjSzdZTHJxRHhURzhlZ2c1Mk1CWkdPaUFRZEJGUl94dmpqcENTOVZyVG9NMEQ1U2tqZHJkR1UyQXBKaUVkWDJoSWw?oc=5",
           "source": "Google News",
-          "published": "Fri, 07 Aug 2026 06:08:18 GMT"
+          "published": "Fri, 07 Aug 2026 15:10:43 GMT"
         }
       ]
     },
     {
-      "word": "지시",
+      "word": "8월",
       "count": 2,
-      "category": "LOCATION",
+      "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프, '탄약부족' 보도에 격노…\"'누가 흘리나' 색출 지시\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00MEhHcXUyaTlJVlFGdlpYZlAzenV5YzRWR1ExNk83RG41N1ViUU9SaVF4QVdNQmlLVEVwYzQ1Y05qal9xWVdJZzlBekNYUUpLVEU2czNaOVRrT2fSAWBBVV95cUxOSl9qandyd2ZOdnJvUDhvM2JtNGE3VFp6RmtKWGlJbTByNE9KRV9YY0ZEdVlHZU1UYWc3a0FnMTZZXzFURk9IOHNLaXVncjdKR3lYX0psSDY1am4tZTNYN2s?oc=5",
+          "title": "최혁진, '조희대 탄핵안' 8월 본회의 보고 추진‥\"송영길·김민석도 서명해달라\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBwOFIySjM0clpZclNaQWN6dUhhOXMyRVlPZnpiSVpySVR3ZUpNMXBnaGxVLUdHNjE4XzVycWRhak55RFhoVkxQdF9vLUVkVXJsUXZQcE8yN1V5ZEpXTHFka3h4LTFucXdOXzhMRVVFUFBIdFU0OEY3VtIBeEFVX3lxTE9SRkZac293VHVLaGM0R19KdU9KZThnb1pTNWdDd2RCVVRmMUVsQk8zNlVCVGFHdWRMVEhwWEIxTFpUdURmR3JOb0IxWnpzWVZZaVhMYmRrWE42YUgtX3dpVmpRTk5lSWxQdjZZRDlRM3o5MGpxQ3dHMw?oc=5",
           "source": "Google News",
-          "published": "Fri, 07 Aug 2026 15:07:52 GMT"
+          "published": "Fri, 07 Aug 2026 07:22:29 GMT"
         },
         {
-          "title": "ISA 개편-주가 누르기 방지법안 논란에… 李, 전면 재검토 지시 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mbUpUc1lvcTY5WjM3dTF4c3pKNzIwVzIwLWNkb1ZBQy1BRXpzaXNxRFg3cXlFUGpWUkRqNDhCZmFteFNjZERYM2hfVXVySWtTSFlrOVlmeHN5STAzblktaWtwNHdWR2tjdndLc3RTcGdfWU8yQ2w00gFmQVVfeXFMUEFmbUlqeDhaSjM4TVA0OEFVZGFGZUVTSG9xMVNPdkZUS1c4RTUwd3g1LTdYRkwtVnlWbkhUeGdLbFJPSFFwczUzdnlBbkhiR2t0V1VTQ2t6cjFyZTdtYXR5M3Z2cHVB?oc=5",
+          "title": "[지윤철학원의 오늘의 운세] 2026년 8월 8일 토요일 띠별 운세 - 뉴스투데이",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kellMUmVzUmFQanFILV9YaW5sdlBNZXh1cVZ5WVBHUG1Ganptc29IM21HQW1FTjVjeGJHUkJfZDNCcEs2elZKSXBzWFA0S0kxajh2MlFEV0hhNGNHc2c?oc=5",
           "source": "Google News",
-          "published": "Fri, 07 Aug 2026 16:40:00 GMT"
+          "published": "Fri, 07 Aug 2026 18:33:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "이란",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이란 반체제 매체 \"최고지도자 모즈타바 매우 위독\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NcGlQRDBQZ3dzMU9iNGRIdkx0QnNQOHNUc2wzR3NIaW1ZZFowbDUtdkYwaWRSdGdLdVhiV2Npb0djakNrMFBpa2VJdVdWRTdJSzlHd0VhYzhQSWRPTnRsci1hU0dIT2c?oc=5",
+          "source": "Google News",
+          "published": "Fri, 07 Aug 2026 08:18:00 GMT"
+        },
+        {
+          "title": "美재무부 \"'이란 자금세탁' 가상화폐 거래소들 제재\" - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41QVdqMG14eWpKcDRtVVhhNk04NzVaTV9IanBaVXVhSkQxc29aM0ZKMTlRLWQ0YnZNcWRNNm9FZXF0LXVwUlpNOFlrV08wNk82X2JJU1I0WlcxVkHSAWBBVV95cUxPaDRwaGJMdHQ3Nk0wNVlyOUtBRTR2bnRLY2xndWQ2MmdGZUU5d2tzRURhSmVnZDVheTkyaWxmSlMwRDBnRlVNV3R4RUo2TG80MjBfOFNFUWNXZU1Ha0xNaXE?oc=5",
+          "source": "Google News",
+          "published": "Fri, 07 Aug 2026 19:22:37 GMT"
         }
       ]
     },
@@ -135,35 +148,35 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "ISA 개편-주가 누르기 방지법안 논란에… 李, 전면 재검토 지시 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mbUpUc1lvcTY5WjM3dTF4c3pKNzIwVzIwLWNkb1ZBQy1BRXpzaXNxRFg3cXlFUGpWUkRqNDhCZmFteFNjZERYM2hfVXVySWtTSFlrOVlmeHN5STAzblktaWtwNHdWR2tjdndLc3RTcGdfWU8yQ2w00gFmQVVfeXFMUEFmbUlqeDhaSjM4TVA0OEFVZGFGZUVTSG9xMVNPdkZUS1c4RTUwd3g1LTdYRkwtVnlWbkhUeGdLbFJPSFFwczUzdnlBbkhiR2t0V1VTQ2t6cjFyZTdtYXR5M3Z2cHVB?oc=5",
+          "title": "주가누르기 '장려법'인가요? 세제개편안 '맹탕' 논란 [주末머니] - 아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DRWI1ZmhyZ0s4N1Bid2RKNDVRV0MwbGpKRmpnRHFVc25IbGE4TkFqTEF2Sk9UUk1YblVLeE1QMzVzbWE4X1A3NUkwckI5Nk9MRnY3ZVFZbk5WZGFjMjFmcQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 07 Aug 2026 16:40:00 GMT"
+          "published": "Fri, 07 Aug 2026 23:09:00 GMT"
         },
         {
-          "title": "'‘리센느 논란’에 프로그램 폐지 후..김선태, 술병 가득+수척해진 모습 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN0FPdTViZGNxcUtsUEpHcFNPaXJheVdmRkkxVTctS3dqWGlhLWp5dVRnNThQSDZZME54c2hBZjZzNlN4UEJTUXRGZlNVSW45SDNPTS11NWlIVWlWN0xrRmlmcXdJS0djZXEzd2dHc2M3QVFjMlQ2aWhadXI3NmRhYWYyRUdxWVR1cFd2NGpMOA?oc=5",
+          "title": "'2차 가해' 논란 후 자진하차…김선태, 술병 가득한 방서 공개한 근황 - 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DZGZoUzF6cHF0N2dqenRvb0pGRDY2UWh4TTRTVzVENGZrYzNHRWVwQ2pPQlhOcW1oVUt4N0dfTWMtRVAxLTlUeTc3WEI5V1haelVUbjhreENVUQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 07 Aug 2026 10:25:12 GMT"
+          "published": "Fri, 07 Aug 2026 20:50:00 GMT"
         }
       ]
     },
     {
-      "word": "금리",
+      "word": "공개",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 \"美 금리 전 세계에서 가장 낮아야\" - news.einfomax.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40T1NlSFpMNVRPMUQzVUNGTTJhUUVzeWg1eExONTdDS1YtSGQzY1VOcUFTcnB3SElSdy10elJDbV92d0NkZDlWN0NiaF9URUtOelRiS29hUFdkN0I4MU5rWmJabm9GOXI1MUlPbDR1Tnk?oc=5",
+          "title": "Rockstar Games와 Netflix, ‘Grand Theft Auto VI: An Extended Look’ 공개 예고 - Hypebeast.KR",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNenA2VkY2MnNoR012VVRYTXVWa2szR3N3X1ZtRWNBZFA1bDNSaDYzT3NVbHN3UTJLVmVXd2wxYndrVEpDeGpTRmN0QlpreDRVTkhrSmZfZmYtYXNHUmZwTVNWbHRTT1FuYVprSkZISVdNMEdNbWtoZFV6VWRXckY3MGhpUnE2MmN1NkFjNGNETGFhU2tmcThzWi04RGgtbkcxMGFWcFZMd3N6bUVSQlkzUlhxQV8?oc=5",
           "source": "Google News",
-          "published": "Fri, 07 Aug 2026 13:53:56 GMT"
+          "published": "Fri, 07 Aug 2026 03:39:36 GMT"
         },
         {
-          "title": "뉴욕 증시, 금리 인상 기대론 후퇴에 상승…S&P500 ’사상 최고치’ - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Ba0pyWWp3bWRSTFo4ZHdiWDFiT2tNaFdkd0k2ZWh3emdLNDFhQXFDWHpuQU1mbk5iQjZ0OEdvdmRfTDhSWGQxc2JNNWdZZ0RPSEJGWnRCVzM0UXVDNzdDaFRGQTdVdEU?oc=5",
+          "title": "'2차 가해' 논란 후 자진하차…김선태, 술병 가득한 방서 공개한 근황 - 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DZGZoUzF6cHF0N2dqenRvb0pGRDY2UWh4TTRTVzVENGZrYzNHRWVwQ2pPQlhOcW1oVUt4N0dfTWMtRVAxLTlUeTc3WEI5V1haelVUbjhreENVUQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 07 Aug 2026 21:17:00 GMT"
+          "published": "Fri, 07 Aug 2026 20:50:00 GMT"
         }
       ]
     },
@@ -173,48 +186,23 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "[오늘의 운세] 2026년 08월 08일 띠별 운세 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DV0thTGdlVThIV3FKalRaSkNIN2t2MU5xclF5SC0tRlhLY3dLYnVaejBHMEhBQ0tEVTJqOWlxYzlQT29zYWJVSGh1YlF4dERXQXJxemQ1bGxrdUlnR2c?oc=5",
+          "title": "[지윤철학원의 오늘의 운세] 2026년 8월 8일 토요일 띠별 운세 - 뉴스투데이",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kellMUmVzUmFQanFILV9YaW5sdlBNZXh1cVZ5WVBHUG1Ganptc29IM21HQW1FTjVjeGJHUkJfZDNCcEs2elZKSXBzWFA0S0kxajh2MlFEV0hhNGNHc2c?oc=5",
           "source": "Google News",
-          "published": "Fri, 07 Aug 2026 15:01:00 GMT"
+          "published": "Fri, 07 Aug 2026 18:33:00 GMT"
         }
       ]
     },
     {
-      "word": "축구협회",
-      "count": 2,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "축구협회 심판 성 접대 의혹, 해외도 관심↑…감독 선임 과정 수사까지 외신 주목 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ucGl2eTA1UE5PRkNYRGRLU2lPUnF1dDV1ZzZTM3JlMzFvVUlpdXZTbTNheWF5V3hWR2xHS2JMaVROOElZVDRFdkk4YnVsSjRaVkc0eVQ2MGVOX1FU?oc=5",
-          "source": "Google News",
-          "published": "Fri, 07 Aug 2026 15:35:00 GMT"
-        },
-        {
-          "title": "축구협회 겨눈 경찰, 정몽규·이임생 등 '윗선 개입' 수사 분수령 - 경기일보",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IZjVVNG9wc0xaMHdqMXI3T3k1anhma3ViLW1IQTAxSTRfTjlqMmxCWUo2Q0NUMTEtNVBsYTNrakdTQ3pZWUNvb1U1SmpNQ1FPNlgwQ0E2el8ta1k?oc=5",
-          "source": "Google News",
-          "published": "Fri, 07 Aug 2026 04:23:31 GMT"
-        }
-      ]
-    },
-    {
-      "word": "수사",
+      "word": "심판",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "축구협회 심판 성 접대 의혹, 해외도 관심↑…감독 선임 과정 수사까지 외신 주목 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ucGl2eTA1UE5PRkNYRGRLU2lPUnF1dDV1ZzZTM3JlMzFvVUlpdXZTbTNheWF5V3hWR2xHS2JMaVROOElZVDRFdkk4YnVsSjRaVkc0eVQ2MGVOX1FU?oc=5",
+          "title": "‘심판 마사지’ 기안 뒤 안마시술소 결제…축구협회 조직적 심판 접대 의혹 - hani.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVU0pHbVp3bTl3MU1Mbk1XQWxZUnNVS21rTWRLaTlNNzhic012aHpfSlRYcnR0U0tiV3U0UldiZldGRngwemRCYUJnVF8waWtmR1ZxXzFZYmtXRlhzdTVidTdFQ2FuV3AyUngwNkZDTHlvdw?oc=5",
           "source": "Google News",
-          "published": "Fri, 07 Aug 2026 15:35:00 GMT"
-        },
-        {
-          "title": "축구협회 겨눈 경찰, 정몽규·이임생 등 '윗선 개입' 수사 분수령 - 경기일보",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IZjVVNG9wc0xaMHdqMXI3T3k1anhma3ViLW1IQTAxSTRfTjlqMmxCWUo2Q0NUMTEtNVBsYTNrakdTQ3pZWUNvb1U1SmpNQ1FPNlgwQ0E2el8ta1k?oc=5",
-          "source": "Google News",
-          "published": "Fri, 07 Aug 2026 04:23:31 GMT"
+          "published": "Fri, 07 Aug 2026 15:46:00 GMT"
         }
       ]
     },
@@ -224,20 +212,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령, 부동산 2차 점검회의…“공급 최대한 늘리고 시기도 앞당겨라” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54MUdpdkRpX0g0SkVndnM1WENKZ2JhM2pVZ2dxbldyOXpnM1N5VmJham9sS0tKZUlBRllBNFZtcUxmaEphVlQ5UGVJQ0FQeWF4bkNZdnk4Vk45UjlPUkhpcXhJcnpPRWhJSWcw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 07 Aug 2026 15:47:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "2차",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령, 부동산 2차 점검회의…“공급 최대한 늘리고 시기도 앞당겨라” - 한겨레",
+          "title": "이 대통령, 부동산 2차 점검회의…“공급 최대한 늘리고 시기도 앞당겨라” - hani.co.kr",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54MUdpdkRpX0g0SkVndnM1WENKZ2JhM2pVZ2dxbldyOXpnM1N5VmJham9sS0tKZUlBRllBNFZtcUxmaEphVlQ5UGVJQ0FQeWF4bkNZdnk4Vk45UjlPUkhpcXhJcnpPRWhJSWcw?oc=5",
           "source": "Google News",
           "published": "Fri, 07 Aug 2026 15:47:00 GMT"
@@ -250,7 +225,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령, 부동산 2차 점검회의…“공급 최대한 늘리고 시기도 앞당겨라” - 한겨레",
+          "title": "이 대통령, 부동산 2차 점검회의…“공급 최대한 늘리고 시기도 앞당겨라” - hani.co.kr",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54MUdpdkRpX0g0SkVndnM1WENKZ2JhM2pVZ2dxbldyOXpnM1N5VmJham9sS0tKZUlBRllBNFZtcUxmaEphVlQ5UGVJQ0FQeWF4bkNZdnk4Vk45UjlPUkhpcXhJcnpPRWhJSWcw?oc=5",
           "source": "Google News",
           "published": "Fri, 07 Aug 2026 15:47:00 GMT"
@@ -263,7 +238,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령, 부동산 2차 점검회의…“공급 최대한 늘리고 시기도 앞당겨라” - 한겨레",
+          "title": "이 대통령, 부동산 2차 점검회의…“공급 최대한 늘리고 시기도 앞당겨라” - hani.co.kr",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54MUdpdkRpX0g0SkVndnM1WENKZ2JhM2pVZ2dxbldyOXpnM1N5VmJham9sS0tKZUlBRllBNFZtcUxmaEphVlQ5UGVJQ0FQeWF4bkNZdnk4Vk45UjlPUkhpcXhJcnpPRWhJSWcw?oc=5",
           "source": "Google News",
           "published": "Fri, 07 Aug 2026 15:47:00 GMT"
@@ -276,7 +251,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령, 부동산 2차 점검회의…“공급 최대한 늘리고 시기도 앞당겨라” - 한겨레",
+          "title": "이 대통령, 부동산 2차 점검회의…“공급 최대한 늘리고 시기도 앞당겨라” - hani.co.kr",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54MUdpdkRpX0g0SkVndnM1WENKZ2JhM2pVZ2dxbldyOXpnM1N5VmJham9sS0tKZUlBRllBNFZtcUxmaEphVlQ5UGVJQ0FQeWF4bkNZdnk4Vk45UjlPUkhpcXhJcnpPRWhJSWcw?oc=5",
           "source": "Google News",
           "published": "Fri, 07 Aug 2026 15:47:00 GMT"
@@ -289,7 +264,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령, 부동산 2차 점검회의…“공급 최대한 늘리고 시기도 앞당겨라” - 한겨레",
+          "title": "이 대통령, 부동산 2차 점검회의…“공급 최대한 늘리고 시기도 앞당겨라” - hani.co.kr",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54MUdpdkRpX0g0SkVndnM1WENKZ2JhM2pVZ2dxbldyOXpnM1N5VmJham9sS0tKZUlBRllBNFZtcUxmaEphVlQ5UGVJQ0FQeWF4bkNZdnk4Vk45UjlPUkhpcXhJcnpPRWhJSWcw?oc=5",
           "source": "Google News",
           "published": "Fri, 07 Aug 2026 15:47:00 GMT"
@@ -297,197 +272,132 @@
       ]
     },
     {
-      "word": "주말",
+      "word": "전대",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[주말 날씨] 제주도, 태풍 영향 강풍.풍랑특보...내일까지 반가운 '비' - 헤드라인제주",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HcnA2WW8xQ3V4YlllN1ppUXNfTjdydnFmOEVNT29kYWdTSUF3YlBNZUlqWlR2OENxNUN0YzViWHRNOGRCVi0yODBMcEZDS0hxUDEtSHNzaWVCWTVUeDNnWDBrMXZYRG9EVEVXYUJZLU9ielE?oc=5",
+          "title": "민주당 전대, 오늘 제주·인천 경선…정청래·김민석 ’초접전’ 속 2차전 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PVGJ5QThydzVuODkxZmJ5U0VqZGlzREphbGFidjF5cm9FTy1OcFFoZmlNQ1J5c0JYaVg1QXlsMkNKeTl6ekpGT2pUd01CSHh5MzlfQlJDbEdyZG03cFJIbWtBei1OaDA?oc=5",
           "source": "Google News",
-          "published": "Fri, 07 Aug 2026 21:05:00 GMT"
+          "published": "Fri, 07 Aug 2026 21:17:00 GMT"
         }
       ]
     },
     {
-      "word": "날씨",
+      "word": "제주인천",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[주말 날씨] 제주도, 태풍 영향 강풍.풍랑특보...내일까지 반가운 '비' - 헤드라인제주",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HcnA2WW8xQ3V4YlllN1ppUXNfTjdydnFmOEVNT29kYWdTSUF3YlBNZUlqWlR2OENxNUN0YzViWHRNOGRCVi0yODBMcEZDS0hxUDEtSHNzaWVCWTVUeDNnWDBrMXZYRG9EVEVXYUJZLU9ielE?oc=5",
+          "title": "민주당 전대, 오늘 제주·인천 경선…정청래·김민석 ’초접전’ 속 2차전 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PVGJ5QThydzVuODkxZmJ5U0VqZGlzREphbGFidjF5cm9FTy1OcFFoZmlNQ1J5c0JYaVg1QXlsMkNKeTl6ekpGT2pUd01CSHh5MzlfQlJDbEdyZG03cFJIbWtBei1OaDA?oc=5",
           "source": "Google News",
-          "published": "Fri, 07 Aug 2026 21:05:00 GMT"
+          "published": "Fri, 07 Aug 2026 21:17:00 GMT"
         }
       ]
     },
     {
-      "word": "제주",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "[주말 날씨] 제주도, 태풍 영향 강풍.풍랑특보...내일까지 반가운 '비' - 헤드라인제주",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HcnA2WW8xQ3V4YlllN1ppUXNfTjdydnFmOEVNT29kYWdTSUF3YlBNZUlqWlR2OENxNUN0YzViWHRNOGRCVi0yODBMcEZDS0hxUDEtSHNzaWVCWTVUeDNnWDBrMXZYRG9EVEVXYUJZLU9ielE?oc=5",
-          "source": "Google News",
-          "published": "Fri, 07 Aug 2026 21:05:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "태풍",
+      "word": "경선정청래김민석",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[주말 날씨] 제주도, 태풍 영향 강풍.풍랑특보...내일까지 반가운 '비' - 헤드라인제주",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HcnA2WW8xQ3V4YlllN1ppUXNfTjdydnFmOEVNT29kYWdTSUF3YlBNZUlqWlR2OENxNUN0YzViWHRNOGRCVi0yODBMcEZDS0hxUDEtSHNzaWVCWTVUeDNnWDBrMXZYRG9EVEVXYUJZLU9ielE?oc=5",
+          "title": "민주당 전대, 오늘 제주·인천 경선…정청래·김민석 ’초접전’ 속 2차전 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PVGJ5QThydzVuODkxZmJ5U0VqZGlzREphbGFidjF5cm9FTy1OcFFoZmlNQ1J5c0JYaVg1QXlsMkNKeTl6ekpGT2pUd01CSHh5MzlfQlJDbEdyZG03cFJIbWtBei1OaDA?oc=5",
           "source": "Google News",
-          "published": "Fri, 07 Aug 2026 21:05:00 GMT"
+          "published": "Fri, 07 Aug 2026 21:17:00 GMT"
         }
       ]
     },
     {
-      "word": "영향",
+      "word": "초접전",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[주말 날씨] 제주도, 태풍 영향 강풍.풍랑특보...내일까지 반가운 '비' - 헤드라인제주",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HcnA2WW8xQ3V4YlllN1ppUXNfTjdydnFmOEVNT29kYWdTSUF3YlBNZUlqWlR2OENxNUN0YzViWHRNOGRCVi0yODBMcEZDS0hxUDEtSHNzaWVCWTVUeDNnWDBrMXZYRG9EVEVXYUJZLU9ielE?oc=5",
+          "title": "민주당 전대, 오늘 제주·인천 경선…정청래·김민석 ’초접전’ 속 2차전 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PVGJ5QThydzVuODkxZmJ5U0VqZGlzREphbGFidjF5cm9FTy1OcFFoZmlNQ1J5c0JYaVg1QXlsMkNKeTl6ekpGT2pUd01CSHh5MzlfQlJDbEdyZG03cFJIbWtBei1OaDA?oc=5",
           "source": "Google News",
-          "published": "Fri, 07 Aug 2026 21:05:00 GMT"
+          "published": "Fri, 07 Aug 2026 21:17:00 GMT"
         }
       ]
     },
     {
-      "word": "강풍풍랑특보내일",
+      "word": "2차전",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[주말 날씨] 제주도, 태풍 영향 강풍.풍랑특보...내일까지 반가운 '비' - 헤드라인제주",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HcnA2WW8xQ3V4YlllN1ppUXNfTjdydnFmOEVNT29kYWdTSUF3YlBNZUlqWlR2OENxNUN0YzViWHRNOGRCVi0yODBMcEZDS0hxUDEtSHNzaWVCWTVUeDNnWDBrMXZYRG9EVEVXYUJZLU9ielE?oc=5",
+          "title": "민주당 전대, 오늘 제주·인천 경선…정청래·김민석 ’초접전’ 속 2차전 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PVGJ5QThydzVuODkxZmJ5U0VqZGlzREphbGFidjF5cm9FTy1OcFFoZmlNQ1J5c0JYaVg1QXlsMkNKeTl6ekpGT2pUd01CSHh5MzlfQlJDbEdyZG03cFJIbWtBei1OaDA?oc=5",
           "source": "Google News",
-          "published": "Fri, 07 Aug 2026 21:05:00 GMT"
+          "published": "Fri, 07 Aug 2026 21:17:00 GMT"
         }
       ]
     },
     {
-      "word": "반가운",
+      "word": "폭염피해",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[주말 날씨] 제주도, 태풍 영향 강풍.풍랑특보...내일까지 반가운 '비' - 헤드라인제주",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HcnA2WW8xQ3V4YlllN1ppUXNfTjdydnFmOEVNT29kYWdTSUF3YlBNZUlqWlR2OENxNUN0YzViWHRNOGRCVi0yODBMcEZDS0hxUDEtSHNzaWVCWTVUeDNnWDBrMXZYRG9EVEVXYUJZLU9ielE?oc=5",
+          "title": "극한 폭염피해 확산…李 대통령 “전방위 대응책 강구” - 농민신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91M0NTYzMxWk03X3pTYUVRd05XU0F6WnZYWnY3WG9zYmdzQWxUSHhtUVZReVQ4N0dXRjBoNktiSUpOMU5ZVGlldDJKTTQzbmJRRjRxQWw0MXppQQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 07 Aug 2026 21:05:00 GMT"
+          "published": "Fri, 07 Aug 2026 23:05:09 GMT"
         }
       ]
     },
     {
-      "word": "치열",
+      "word": "확산",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "치열한 민주당 경선, 영화 ‘친구’와 다른 결말 쓸 수 있을까 [웁스구라] - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oYXN2cGhLNW5ubjNoM2dpcm1TdEltd0VnTzBIV2RSbm00MV9BdXlSbmprcU1FVnlLa1FoOE15bm1xZ0tUSE5RRkRFU0J1Vk5ZUEZudGwwdmMzS2xWWGZGbVBlTzJSRnExY1FSN3F3YzVqS096?oc=5",
+          "title": "극한 폭염피해 확산…李 대통령 “전방위 대응책 강구” - 농민신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91M0NTYzMxWk03X3pTYUVRd05XU0F6WnZYWnY3WG9zYmdzQWxUSHhtUVZReVQ4N0dXRjBoNktiSUpOMU5ZVGlldDJKTTQzbmJRRjRxQWw0MXppQQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 07 Aug 2026 15:46:00 GMT"
+          "published": "Fri, 07 Aug 2026 23:05:09 GMT"
         }
       ]
     },
     {
-      "word": "경선",
+      "word": "전방위",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "치열한 민주당 경선, 영화 ‘친구’와 다른 결말 쓸 수 있을까 [웁스구라] - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oYXN2cGhLNW5ubjNoM2dpcm1TdEltd0VnTzBIV2RSbm00MV9BdXlSbmprcU1FVnlLa1FoOE15bm1xZ0tUSE5RRkRFU0J1Vk5ZUEZudGwwdmMzS2xWWGZGbVBlTzJSRnExY1FSN3F3YzVqS096?oc=5",
+          "title": "극한 폭염피해 확산…李 대통령 “전방위 대응책 강구” - 농민신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91M0NTYzMxWk03X3pTYUVRd05XU0F6WnZYWnY3WG9zYmdzQWxUSHhtUVZReVQ4N0dXRjBoNktiSUpOMU5ZVGlldDJKTTQzbmJRRjRxQWw0MXppQQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 07 Aug 2026 15:46:00 GMT"
+          "published": "Fri, 07 Aug 2026 23:05:09 GMT"
         }
       ]
     },
     {
-      "word": "영화",
+      "word": "대응책",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "치열한 민주당 경선, 영화 ‘친구’와 다른 결말 쓸 수 있을까 [웁스구라] - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oYXN2cGhLNW5ubjNoM2dpcm1TdEltd0VnTzBIV2RSbm00MV9BdXlSbmprcU1FVnlLa1FoOE15bm1xZ0tUSE5RRkRFU0J1Vk5ZUEZudGwwdmMzS2xWWGZGbVBlTzJSRnExY1FSN3F3YzVqS096?oc=5",
+          "title": "극한 폭염피해 확산…李 대통령 “전방위 대응책 강구” - 농민신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91M0NTYzMxWk03X3pTYUVRd05XU0F6WnZYWnY3WG9zYmdzQWxUSHhtUVZReVQ4N0dXRjBoNktiSUpOMU5ZVGlldDJKTTQzbmJRRjRxQWw0MXppQQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 07 Aug 2026 15:46:00 GMT"
+          "published": "Fri, 07 Aug 2026 23:05:09 GMT"
         }
       ]
     },
     {
-      "word": "친구",
+      "word": "강구",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "치열한 민주당 경선, 영화 ‘친구’와 다른 결말 쓸 수 있을까 [웁스구라] - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oYXN2cGhLNW5ubjNoM2dpcm1TdEltd0VnTzBIV2RSbm00MV9BdXlSbmprcU1FVnlLa1FoOE15bm1xZ0tUSE5RRkRFU0J1Vk5ZUEZudGwwdmMzS2xWWGZGbVBlTzJSRnExY1FSN3F3YzVqS096?oc=5",
+          "title": "극한 폭염피해 확산…李 대통령 “전방위 대응책 강구” - 농민신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91M0NTYzMxWk03X3pTYUVRd05XU0F6WnZYWnY3WG9zYmdzQWxUSHhtUVZReVQ4N0dXRjBoNktiSUpOMU5ZVGlldDJKTTQzbmJRRjRxQWw0MXppQQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 07 Aug 2026 15:46:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "다른",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "치열한 민주당 경선, 영화 ‘친구’와 다른 결말 쓸 수 있을까 [웁스구라] - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oYXN2cGhLNW5ubjNoM2dpcm1TdEltd0VnTzBIV2RSbm00MV9BdXlSbmprcU1FVnlLa1FoOE15bm1xZ0tUSE5RRkRFU0J1Vk5ZUEZudGwwdmMzS2xWWGZGbVBlTzJSRnExY1FSN3F3YzVqS096?oc=5",
-          "source": "Google News",
-          "published": "Fri, 07 Aug 2026 15:46:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "결말",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "치열한 민주당 경선, 영화 ‘친구’와 다른 결말 쓸 수 있을까 [웁스구라] - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oYXN2cGhLNW5ubjNoM2dpcm1TdEltd0VnTzBIV2RSbm00MV9BdXlSbmprcU1FVnlLa1FoOE15bm1xZ0tUSE5RRkRFU0J1Vk5ZUEZudGwwdmMzS2xWWGZGbVBlTzJSRnExY1FSN3F3YzVqS096?oc=5",
-          "source": "Google News",
-          "published": "Fri, 07 Aug 2026 15:46:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "있을까",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "치열한 민주당 경선, 영화 ‘친구’와 다른 결말 쓸 수 있을까 [웁스구라] - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oYXN2cGhLNW5ubjNoM2dpcm1TdEltd0VnTzBIV2RSbm00MV9BdXlSbmprcU1FVnlLa1FoOE15bm1xZ0tUSE5RRkRFU0J1Vk5ZUEZudGwwdmMzS2xWWGZGbVBlTzJSRnExY1FSN3F3YzVqS096?oc=5",
-          "source": "Google News",
-          "published": "Fri, 07 Aug 2026 15:46:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "웁스구",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "치열한 민주당 경선, 영화 ‘친구’와 다른 결말 쓸 수 있을까 [웁스구라] - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oYXN2cGhLNW5ubjNoM2dpcm1TdEltd0VnTzBIV2RSbm00MV9BdXlSbmprcU1FVnlLa1FoOE15bm1xZ0tUSE5RRkRFU0J1Vk5ZUEZudGwwdmMzS2xWWGZGbVBlTzJSRnExY1FSN3F3YzVqS096?oc=5",
-          "source": "Google News",
-          "published": "Fri, 07 Aug 2026 15:46:00 GMT"
+          "published": "Fri, 07 Aug 2026 23:05:09 GMT"
         }
       ]
     },
@@ -557,41 +467,119 @@
       ]
     },
     {
-      "word": "9월",
+      "word": "전쟁부",
       "count": 1,
-      "category": "NOUN",
+      "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "[속보] 경찰, 9월 초부터 ‘가족사건 상피제’ 전격 실시 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrU1BlUlU1YUhqZW1ib21zTUU4aE1IUjVjZWw5RGZvam45NmwyUllrejhNeklpNDlxTnZlREw1aEJSZU1QNERlM3lNaE9GWThIVVB4bA?oc=5",
+          "title": "미 전쟁부, 탄약 부족설 일축…“필요한 모든 것 다 갖춰” - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPalowdUV6TWN0WXFLSU1LSm1uMWp5U0t1T2ZOd2JyMmdVd2FiQ2JQOUpXSVdNLS1aTk5IU2gwamNZUDNaT1NqSUp1Y2c2UVdidVRYby1wMVZfYmFFR09ad042NW1qeU80SmxJdHdwMzNkb3ZVYXVaV0FuNzdSd2M1ZElQZlNORV84aGpyRng4NGRJSTBISGh5ZHBnVGNKVjJkRFo0WVNnNFc1WWtwbER5RERoZWttV1ZMVV91ZUxMZm1tUlJxVlZF0gHKAUFVX3lxTE51el9VZDJRcS01dXJNRU9pSmJVRmRwNEQ1VU9zQTFQQUNWT3BLUDFaV1VKd0ZtNmFhRTM2a0JxYXFWS3kxSktINFZPQTVXU1VZQnpWUmJjeURkNzdrck9EZ0tyWFA5bVZySGZFVGtwdVpHbmR5MjFySDlFRmpJelVFdVlJVTBERlFtQ015NmVfY2NZYmpudEUyaEl5eFdqTTdZeUxNdU1hYkU5NmpyOTFSS0QtMmloMDNsSHZyVnlGUmRCRlA2WmpadGc?oc=5",
           "source": "Google News",
-          "published": "Fri, 07 Aug 2026 08:38:16 GMT"
+          "published": "Fri, 07 Aug 2026 19:10:28 GMT"
         }
       ]
     },
     {
-      "word": "초부터",
+      "word": "탄약",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보] 경찰, 9월 초부터 ‘가족사건 상피제’ 전격 실시 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrU1BlUlU1YUhqZW1ib21zTUU4aE1IUjVjZWw5RGZvam45NmwyUllrejhNeklpNDlxTnZlREw1aEJSZU1QNERlM3lNaE9GWThIVVB4bA?oc=5",
+          "title": "미 전쟁부, 탄약 부족설 일축…“필요한 모든 것 다 갖춰” - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPalowdUV6TWN0WXFLSU1LSm1uMWp5U0t1T2ZOd2JyMmdVd2FiQ2JQOUpXSVdNLS1aTk5IU2gwamNZUDNaT1NqSUp1Y2c2UVdidVRYby1wMVZfYmFFR09ad042NW1qeU80SmxJdHdwMzNkb3ZVYXVaV0FuNzdSd2M1ZElQZlNORV84aGpyRng4NGRJSTBISGh5ZHBnVGNKVjJkRFo0WVNnNFc1WWtwbER5RERoZWttV1ZMVV91ZUxMZm1tUlJxVlZF0gHKAUFVX3lxTE51el9VZDJRcS01dXJNRU9pSmJVRmRwNEQ1VU9zQTFQQUNWT3BLUDFaV1VKd0ZtNmFhRTM2a0JxYXFWS3kxSktINFZPQTVXU1VZQnpWUmJjeURkNzdrck9EZ0tyWFA5bVZySGZFVGtwdVpHbmR5MjFySDlFRmpJelVFdVlJVTBERlFtQ015NmVfY2NZYmpudEUyaEl5eFdqTTdZeUxNdU1hYkU5NmpyOTFSS0QtMmloMDNsSHZyVnlGUmRCRlA2WmpadGc?oc=5",
           "source": "Google News",
-          "published": "Fri, 07 Aug 2026 08:38:16 GMT"
+          "published": "Fri, 07 Aug 2026 19:10:28 GMT"
         }
       ]
     },
     {
-      "word": "가족사건",
+      "word": "부족설",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보] 경찰, 9월 초부터 ‘가족사건 상피제’ 전격 실시 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrU1BlUlU1YUhqZW1ib21zTUU4aE1IUjVjZWw5RGZvam45NmwyUllrejhNeklpNDlxTnZlREw1aEJSZU1QNERlM3lNaE9GWThIVVB4bA?oc=5",
+          "title": "미 전쟁부, 탄약 부족설 일축…“필요한 모든 것 다 갖춰” - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPalowdUV6TWN0WXFLSU1LSm1uMWp5U0t1T2ZOd2JyMmdVd2FiQ2JQOUpXSVdNLS1aTk5IU2gwamNZUDNaT1NqSUp1Y2c2UVdidVRYby1wMVZfYmFFR09ad042NW1qeU80SmxJdHdwMzNkb3ZVYXVaV0FuNzdSd2M1ZElQZlNORV84aGpyRng4NGRJSTBISGh5ZHBnVGNKVjJkRFo0WVNnNFc1WWtwbER5RERoZWttV1ZMVV91ZUxMZm1tUlJxVlZF0gHKAUFVX3lxTE51el9VZDJRcS01dXJNRU9pSmJVRmRwNEQ1VU9zQTFQQUNWT3BLUDFaV1VKd0ZtNmFhRTM2a0JxYXFWS3kxSktINFZPQTVXU1VZQnpWUmJjeURkNzdrck9EZ0tyWFA5bVZySGZFVGtwdVpHbmR5MjFySDlFRmpJelVFdVlJVTBERlFtQ015NmVfY2NZYmpudEUyaEl5eFdqTTdZeUxNdU1hYkU5NmpyOTFSS0QtMmloMDNsSHZyVnlGUmRCRlA2WmpadGc?oc=5",
           "source": "Google News",
-          "published": "Fri, 07 Aug 2026 08:38:16 GMT"
+          "published": "Fri, 07 Aug 2026 19:10:28 GMT"
+        }
+      ]
+    },
+    {
+      "word": "일축필요",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "미 전쟁부, 탄약 부족설 일축…“필요한 모든 것 다 갖춰” - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPalowdUV6TWN0WXFLSU1LSm1uMWp5U0t1T2ZOd2JyMmdVd2FiQ2JQOUpXSVdNLS1aTk5IU2gwamNZUDNaT1NqSUp1Y2c2UVdidVRYby1wMVZfYmFFR09ad042NW1qeU80SmxJdHdwMzNkb3ZVYXVaV0FuNzdSd2M1ZElQZlNORV84aGpyRng4NGRJSTBISGh5ZHBnVGNKVjJkRFo0WVNnNFc1WWtwbER5RERoZWttV1ZMVV91ZUxMZm1tUlJxVlZF0gHKAUFVX3lxTE51el9VZDJRcS01dXJNRU9pSmJVRmRwNEQ1VU9zQTFQQUNWT3BLUDFaV1VKd0ZtNmFhRTM2a0JxYXFWS3kxSktINFZPQTVXU1VZQnpWUmJjeURkNzdrck9EZ0tyWFA5bVZySGZFVGtwdVpHbmR5MjFySDlFRmpJelVFdVlJVTBERlFtQ015NmVfY2NZYmpudEUyaEl5eFdqTTdZeUxNdU1hYkU5NmpyOTFSS0QtMmloMDNsSHZyVnlGUmRCRlA2WmpadGc?oc=5",
+          "source": "Google News",
+          "published": "Fri, 07 Aug 2026 19:10:28 GMT"
+        }
+      ]
+    },
+    {
+      "word": "모든",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "미 전쟁부, 탄약 부족설 일축…“필요한 모든 것 다 갖춰” - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPalowdUV6TWN0WXFLSU1LSm1uMWp5U0t1T2ZOd2JyMmdVd2FiQ2JQOUpXSVdNLS1aTk5IU2gwamNZUDNaT1NqSUp1Y2c2UVdidVRYby1wMVZfYmFFR09ad042NW1qeU80SmxJdHdwMzNkb3ZVYXVaV0FuNzdSd2M1ZElQZlNORV84aGpyRng4NGRJSTBISGh5ZHBnVGNKVjJkRFo0WVNnNFc1WWtwbER5RERoZWttV1ZMVV91ZUxMZm1tUlJxVlZF0gHKAUFVX3lxTE51el9VZDJRcS01dXJNRU9pSmJVRmRwNEQ1VU9zQTFQQUNWT3BLUDFaV1VKd0ZtNmFhRTM2a0JxYXFWS3kxSktINFZPQTVXU1VZQnpWUmJjeURkNzdrck9EZ0tyWFA5bVZySGZFVGtwdVpHbmR5MjFySDlFRmpJelVFdVlJVTBERlFtQ015NmVfY2NZYmpudEUyaEl5eFdqTTdZeUxNdU1hYkU5NmpyOTFSS0QtMmloMDNsSHZyVnlGUmRCRlA2WmpadGc?oc=5",
+          "source": "Google News",
+          "published": "Fri, 07 Aug 2026 19:10:28 GMT"
+        }
+      ]
+    },
+    {
+      "word": "갖춰",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "미 전쟁부, 탄약 부족설 일축…“필요한 모든 것 다 갖춰” - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPalowdUV6TWN0WXFLSU1LSm1uMWp5U0t1T2ZOd2JyMmdVd2FiQ2JQOUpXSVdNLS1aTk5IU2gwamNZUDNaT1NqSUp1Y2c2UVdidVRYby1wMVZfYmFFR09ad042NW1qeU80SmxJdHdwMzNkb3ZVYXVaV0FuNzdSd2M1ZElQZlNORV84aGpyRng4NGRJSTBISGh5ZHBnVGNKVjJkRFo0WVNnNFc1WWtwbER5RERoZWttV1ZMVV91ZUxMZm1tUlJxVlZF0gHKAUFVX3lxTE51el9VZDJRcS01dXJNRU9pSmJVRmRwNEQ1VU9zQTFQQUNWT3BLUDFaV1VKd0ZtNmFhRTM2a0JxYXFWS3kxSktINFZPQTVXU1VZQnpWUmJjeURkNzdrck9EZ0tyWFA5bVZySGZFVGtwdVpHbmR5MjFySDlFRmpJelVFdVlJVTBERlFtQ015NmVfY2NZYmpudEUyaEl5eFdqTTdZeUxNdU1hYkU5NmpyOTFSS0QtMmloMDNsSHZyVnlGUmRCRlA2WmpadGc?oc=5",
+          "source": "Google News",
+          "published": "Fri, 07 Aug 2026 19:10:28 GMT"
+        }
+      ]
+    },
+    {
+      "word": "트럼프",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프 대통령 \"호르무즈 해협 재개방 합의, 곧 이뤄질 수도\" - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GeGItRjdic21TZjJINmY0R1Q2ZFhKWFdBUkJLOXlUeWUyeXd2UTk5Q3pSdnQzTHRQaEh4bTJsR21HaUFGZjlmMmlPRzVVcXE4eFRDQ1Q1dmg0UTFfYk5tWmRmNkFUOUxRTW5vSnh5R2ZBd9IBdEFVX3lxTE40U2NRTm1VcVlQTkdDZmpWaUVHZGhJTlYxOFNndHRydmVOdm9TWFFoVVR6eXRPYWtqSDVXT1VqWGdGTFRFS1BwdXdCU25EaHAtd2d6OXk0bWpiNlJmLVdZdUpsSEJsQkZwWTN4aTVYZkplY0Z0?oc=5",
+          "source": "Google News",
+          "published": "Fri, 07 Aug 2026 15:09:37 GMT"
+        }
+      ]
+    },
+    {
+      "word": "호르무즈",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프 대통령 \"호르무즈 해협 재개방 합의, 곧 이뤄질 수도\" - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GeGItRjdic21TZjJINmY0R1Q2ZFhKWFdBUkJLOXlUeWUyeXd2UTk5Q3pSdnQzTHRQaEh4bTJsR21HaUFGZjlmMmlPRzVVcXE4eFRDQ1Q1dmg0UTFfYk5tWmRmNkFUOUxRTW5vSnh5R2ZBd9IBdEFVX3lxTE40U2NRTm1VcVlQTkdDZmpWaUVHZGhJTlYxOFNndHRydmVOdm9TWFFoVVR6eXRPYWtqSDVXT1VqWGdGTFRFS1BwdXdCU25EaHAtd2d6OXk0bWpiNlJmLVdZdUpsSEJsQkZwWTN4aTVYZkplY0Z0?oc=5",
+          "source": "Google News",
+          "published": "Fri, 07 Aug 2026 15:09:37 GMT"
+        }
+      ]
+    },
+    {
+      "word": "해협",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프 대통령 \"호르무즈 해협 재개방 합의, 곧 이뤄질 수도\" - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GeGItRjdic21TZjJINmY0R1Q2ZFhKWFdBUkJLOXlUeWUyeXd2UTk5Q3pSdnQzTHRQaEh4bTJsR21HaUFGZjlmMmlPRzVVcXE4eFRDQ1Q1dmg0UTFfYk5tWmRmNkFUOUxRTW5vSnh5R2ZBd9IBdEFVX3lxTE40U2NRTm1VcVlQTkdDZmpWaUVHZGhJTlYxOFNndHRydmVOdm9TWFFoVVR6eXRPYWtqSDVXT1VqWGdGTFRFS1BwdXdCU25EaHAtd2d6OXk0bWpiNlJmLVdZdUpsSEJsQkZwWTN4aTVYZkplY0Z0?oc=5",
+          "source": "Google News",
+          "published": "Fri, 07 Aug 2026 15:09:37 GMT"
         }
       ]
     }
