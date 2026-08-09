@@ -1,77 +1,15 @@
 {
   "language": "en",
-  "last_updated": 1786308045.0988646,
+  "last_updated": 1786311549.2746327,
   "count": 40,
   "trends": [
-    {
-      "word": "Iran",
-      "count": 4,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVlSazBucFNIOGZ3aG91cDZhcTFfMWI4NWMycVczNWtmVHRKTU54WlJud1JqVUxCOW84U1p0OU5aSjdBNnJHS2xmLVVIaVdGZUpNemJKaTA5aV9TU1NHaHlZMEo1X1VjX2wxTExReTl0Tk5SYkRsMWsxWUo3UWw3UE1iV0N2UmJydWZFeHZpX01Ba1NISVdtei01OXRnMUtpem80dW5wa1FKNnhNQzZOMGlJMG8?oc=5",
-          "source": "Google News",
-          "published": "Sun, 09 Aug 2026 18:55:32 GMT"
-        },
-        {
-          "title": "Trump to Axios: \"We are low keying it\" with Iran - Axios",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VRTFsbVotRUtYVFc1M0hWQktsNFVfODhxNGhIaGFPV3BDNHhRTk1fYXFYUHpHLWJQQmxJdGJxbllQc3ZLSkRjSkxfYWdadzNnX1FfSmxnQUZBUjJFR013MnE1dw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 09 Aug 2026 17:07:51 GMT"
-        },
-        {
-          "title": "Pentagon presses defense firms to build weapons as Iran war depletes stocks - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMEVSY1poSEdoWXlVam44MEZhT2RqY3lRYWE1M001R2tlb2E3aUlWdEJHeWFvem5wY0ZXRzdKMzNTMTBCdUdHTWtxV2hucWRnVmk3SExENGk5M1lUeTN2RzA1V1F1RU54S041Q2U5WG5iZVdTUkhSUG5jQ3hna0tEeDNDNWVJN2E3ZzRRNl9lSmlrOXFtWFFKU3E0MmtrVkFQSmVqcmoyNDh5U29ZS1hRQ00wY3hKd1RNdklWWkZUaGo?oc=5",
-          "source": "Google News",
-          "published": "Sun, 09 Aug 2026 04:02:28 GMT"
-        },
-        {
-          "title": "Iran Taps Longtime I.R.G.C. Commander Mohsen Rezaei to Top Security Post - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWTBPR3o2SktiSEZibkJVOERvb3hxZTlOWWFkWjlEUU1sMmlTY3NXd3MxM293N3RGOHN0LTJLclBfRGJDX3drdzlBbExzLW83bTBlQVo3V2dMN1pjN1lFdUkxVEFoT3I0MThrRG9ZUFRIMVRFVHlKRWszcEwtNFFTMDRDdEN0VFpiOUF5ZGNwZVVRek1QTnMxVkJxNA?oc=5",
-          "source": "Google News",
-          "published": "Sun, 09 Aug 2026 18:18:22 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Trump",
-      "count": 4,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Israel rejects Trump's Gaza plan, more details emerge on the Strait of Hormuz and other Mideast news - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV2psZVVzWDFLUWxaM0N2dTlwTXpyQUhLVXRUNzFMZ1hoWVpQQk1iUXlZQWNFRTJKeFRZSFdfOWZCU0VxenBzOExCUXJDZm9DM3FCMmpOYXc5Y1dkSHpPOUdUTDFYN09mc0d0NmV4ZEtDWEhuVDdMcjN3QWdpcmlXUy1KcGRXd1NuSmt6ZTNMX0hTanNQZF9DelRIMFQxUHJ3UUJEb3FhM3QzMFRrNnZ5ZW9n?oc=5",
-          "source": "Google News",
-          "published": "Sun, 09 Aug 2026 19:33:00 GMT"
-        },
-        {
-          "title": "Trump to Axios: \"We are low keying it\" with Iran - Axios",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VRTFsbVotRUtYVFc1M0hWQktsNFVfODhxNGhIaGFPV3BDNHhRTk1fYXFYUHpHLWJQQmxJdGJxbllQc3ZLSkRjSkxfYWdadzNnX1FfSmxnQUZBUjJFR013MnE1dw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 09 Aug 2026 17:07:51 GMT"
-        },
-        {
-          "title": "Trump’s Hold on Republicans Tested in Race to Replace Lindsey Graham - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQm5YblRFUUtOQlRLaUgxZGhuQUdVSE9TWVVsREItWVgxTHludmQyS002eTZCRVFnS1BDbXpIdV95NXQ4a1ViN1FXOVZ5YWtOVXZwUnB1OFNFU0RqcGdMNk84eUpwbnBkNGhoSnZYOUNhMTlHTmU5SnlIRjRRdG5lLTZlcWJ2OXBJVjhmS2duSEQ5WTBkcGZVRmJSVWlPc2IxM2xaRF9KMDRQZm85ZGlmalMxc05YQQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 09 Aug 2026 17:00:00 GMT"
-        },
-        {
-          "title": "Trump's ex-lawyer Todd Blanche confirmed as attorney general - Euronews.com",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMjMzSjhTU2t5eUpCY3V2WEU3TVBNM2xhX0VXN2dyQkpGbF9vZ2g2eWZfNF9qZE11QWlONzhoekppeWZZblZ3NjlnRGlfLVczV19tMkpWUXljRk9vemtRdTh5R01PNnFrTlNPWTlISTZsTEFTeGR6UHhRN1BueEVJaWd0Y0d6SVJ0N2tLZXM3Tm55M0o4S2FMd0N6RXZMZXRqczVSRzhmcjlwc0VfcmhVT2NxZE4xMHd1UGdSM0Z1a1NjTW1D?oc=5",
-          "source": "Google News",
-          "published": "Sun, 09 Aug 2026 07:22:12 GMT"
-        }
-      ]
-    },
     {
       "word": "Pixel",
       "count": 4,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Made by Google 2026 Launch Live: Pixel 11, Pixel 11 Pro Fold, Pixel Watch 5, Gemini, and all the news - androidcentral.com",
+          "title": "Made by Google 2026 Launch Live: Pixel 11, Pixel 11 Pro Fold, Pixel Watch 5, Gemini, and all the news - Android Central",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWnNFYXB1WDJabkZxOTFYcThHWmFjRzhLMHowQVA3ZWNQaU1mUDBldWd0TnRqVUpTZUJyYXB4dDh0azBBSnNtQ2dFeTFyQlFwLU1CdUJld1BQX0JPU2lJVTl3dU9CcGxUc1hCc2QwTEd1Rld0b0ZEQmtBUUQ2cnNfRENxMzNaaDMtaXdiaVVka1l3NjdOaF9qR1hRQmhGUjRaOENMUTlheFhtb3ZCOUQxOE5HYkZibEczQnpENmRZdExUMmJBaV85Ui1PRWlVOERxUFF6NEFB?oc=5",
           "source": "Google News",
           "published": "Sun, 09 Aug 2026 20:02:36 GMT"
@@ -85,12 +23,62 @@
       ]
     },
     {
+      "word": "Iran",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVlSazBucFNIOGZ3aG91cDZhcTFfMWI4NWMycVczNWtmVHRKTU54WlJud1JqVUxCOW84U1p0OU5aSjdBNnJHS2xmLVVIaVdGZUpNemJKaTA5aV9TU1NHaHlZMEo1X1VjX2wxTExReTl0Tk5SYkRsMWsxWUo3UWw3UE1iV0N2UmJydWZFeHZpX01Ba1NISVdtei01OXRnMUtpem80dW5wa1FKNnhNQzZOMGlJMG8?oc=5",
+          "source": "Google News",
+          "published": "Sun, 09 Aug 2026 18:55:32 GMT"
+        },
+        {
+          "title": "Trump Thought Opening the Strait of Hormuz Was Imminent. Iran Had Other Plans. - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdjBPMlROTlJtRUlMdW1nVEZJYVNPWERpM0JfM0U2M3lMU0hMbUctb24xVlozZGdGTXZqdy1LdkVDcm90TU5KejhlZDAxNDJmTEFHa0pWa0tiNDdNVE5PdDJqMkJlcEEyaFVhTmpKWlVKczNsVDBGcW5tWXhRLWdOdXdKeUNQRjZzbXZEQ3BYT0g2ZnhPRE9fVlk2TQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 09 Aug 2026 11:00:00 GMT"
+        },
+        {
+          "title": "Iran Taps Longtime I.R.G.C. Commander Mohsen Rezaei to Top Security Post - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWTBPR3o2SktiSEZibkJVOERvb3hxZTlOWWFkWjlEUU1sMmlTY3NXd3MxM293N3RGOHN0LTJLclBfRGJDX3drdzlBbExzLW83bTBlQVo3V2dMN1pjN1lFdUkxVEFoT3I0MThrRG9ZUFRIMVRFVHlKRWszcEwtNFFTMDRDdEN0VFpiOUF5ZGNwZVVRek1QTnMxVkJxNA?oc=5",
+          "source": "Google News",
+          "published": "Sun, 09 Aug 2026 18:18:22 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Trump",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Israel rejects Trump’s 15-point plan for Gaza, stoking tensions with US - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNVU1NERmSFZKVC1xQW5DNnlSOW9rZkxkX0QyR2dqVW5ZUWE4NkU4dTdkYnNLZmIxWkpqOUR6bGNJbFRlSEVacXVqTVQ2SmR3dUwxUzkyOEFYX3Zib25SSE1POGpVeDYxNHZlbUpKdWRIcUNPYW0yQXkxNmM2MGl1LUFmZjVBbWFVWENqdtIBkgFBVV95cUxQSzljRG01aUtFTjdDemp4OFM5T1lpbE5JOTJpSGxnX1RqWGFFQzlycDNWSEpsRTRPbkRWX2lxV2w2dXRsZl9OU3BJZDlKc2o5eDNWbTMyLVlMdmIxSl9RYzNQZGFra09DU2VmTFBlSTlhZnhCWURULUFzeGFyMFBrUXNGTHNKMkhkOVlkT2hHelVqQQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 09 Aug 2026 20:37:30 GMT"
+        },
+        {
+          "title": "Trump Thought Opening the Strait of Hormuz Was Imminent. Iran Had Other Plans. - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdjBPMlROTlJtRUlMdW1nVEZJYVNPWERpM0JfM0U2M3lMU0hMbUctb24xVlozZGdGTXZqdy1LdkVDcm90TU5KejhlZDAxNDJmTEFHa0pWa0tiNDdNVE5PdDJqMkJlcEEyaFVhTmpKWlVKczNsVDBGcW5tWXhRLWdOdXdKeUNQRjZzbXZEQ3BYT0g2ZnhPRE9fVlk2TQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 09 Aug 2026 11:00:00 GMT"
+        },
+        {
+          "title": "Trump's ex-lawyer Todd Blanche confirmed as attorney general - euronews.com",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMjMzSjhTU2t5eUpCY3V2WEU3TVBNM2xhX0VXN2dyQkpGbF9vZ2g2eWZfNF9qZE11QWlONzhoekppeWZZblZ3NjlnRGlfLVczV19tMkpWUXljRk9vemtRdTh5R01PNnFrTlNPWTlISTZsTEFTeGR6UHhRN1BueEVJaWd0Y0d6SVJ0N2tLZXM3Tm55M0o4S2FMd0N6RXZMZXRqczVSRzhmcjlwc0VfcmhVT2NxZE4xMHd1UGdSM0Z1a1NjTW1D?oc=5",
+          "source": "Google News",
+          "published": "Sun, 09 Aug 2026 07:22:12 GMT"
+        }
+      ]
+    },
+    {
       "word": "Final",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz - reuters.com",
+          "title": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVlSazBucFNIOGZ3aG91cDZhcTFfMWI4NWMycVczNWtmVHRKTU54WlJud1JqVUxCOW84U1p0OU5aSjdBNnJHS2xmLVVIaVdGZUpNemJKaTA5aV9TU1NHaHlZMEo1X1VjX2wxTExReTl0Tk5SYkRsMWsxWUo3UWw3UE1iV0N2UmJydWZFeHZpX01Ba1NISVdtei01OXRnMUtpem80dW5wa1FKNnhNQzZOMGlJMG8?oc=5",
           "source": "Google News",
           "published": "Sun, 09 Aug 2026 18:55:32 GMT"
@@ -109,54 +97,16 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz - reuters.com",
+          "title": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVlSazBucFNIOGZ3aG91cDZhcTFfMWI4NWMycVczNWtmVHRKTU54WlJud1JqVUxCOW84U1p0OU5aSjdBNnJHS2xmLVVIaVdGZUpNemJKaTA5aV9TU1NHaHlZMEo1X1VjX2wxTExReTl0Tk5SYkRsMWsxWUo3UWw3UE1iV0N2UmJydWZFeHZpX01Ba1NISVdtei01OXRnMUtpem80dW5wa1FKNnhNQzZOMGlJMG8?oc=5",
           "source": "Google News",
           "published": "Sun, 09 Aug 2026 18:55:32 GMT"
         },
         {
-          "title": "Israel rejects Trump's Gaza plan, more details emerge on the Strait of Hormuz and other Mideast news - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV2psZVVzWDFLUWxaM0N2dTlwTXpyQUhLVXRUNzFMZ1hoWVpQQk1iUXlZQWNFRTJKeFRZSFdfOWZCU0VxenBzOExCUXJDZm9DM3FCMmpOYXc5Y1dkSHpPOUdUTDFYN09mc0d0NmV4ZEtDWEhuVDdMcjN3QWdpcmlXUy1KcGRXd1NuSmt6ZTNMX0hTanNQZF9DelRIMFQxUHJ3UUJEb3FhM3QzMFRrNnZ5ZW9n?oc=5",
+          "title": "Trump Thought Opening the Strait of Hormuz Was Imminent. Iran Had Other Plans. - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdjBPMlROTlJtRUlMdW1nVEZJYVNPWERpM0JfM0U2M3lMU0hMbUctb24xVlozZGdGTXZqdy1LdkVDcm90TU5KejhlZDAxNDJmTEFHa0pWa0tiNDdNVE5PdDJqMkJlcEEyaFVhTmpKWlVKczNsVDBGcW5tWXhRLWdOdXdKeUNQRjZzbXZEQ3BYT0g2ZnhPRE9fVlk2TQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 09 Aug 2026 19:33:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Details",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Israel rejects Trump's Gaza plan, more details emerge on the Strait of Hormuz and other Mideast news - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV2psZVVzWDFLUWxaM0N2dTlwTXpyQUhLVXRUNzFMZ1hoWVpQQk1iUXlZQWNFRTJKeFRZSFdfOWZCU0VxenBzOExCUXJDZm9DM3FCMmpOYXc5Y1dkSHpPOUdUTDFYN09mc0d0NmV4ZEtDWEhuVDdMcjN3QWdpcmlXUy1KcGRXd1NuSmt6ZTNMX0hTanNQZF9DelRIMFQxUHJ3UUJEb3FhM3QzMFRrNnZ5ZW9n?oc=5",
-          "source": "Google News",
-          "published": "Sun, 09 Aug 2026 19:33:00 GMT"
-        },
-        {
-          "title": "Patrick Mahomes details final steps in pre-camp injury clearance - Arrowhead Pride",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdURYM2Q0Y3JmUHZEZmExanVtd0hjVTdRc2tlTmVQTEl6T1d1TldFc1BMazk1RzVQVnNkS0V3OGppekVUTktHQVFNVUZqODg1cjN6Y2h2WDhmbEdoZHBnTGhKZVJpSE1lNExaWjZSN0cwR0pTVGVOR3FqM1BWNkpzcTRKVkZEMTBPOEkwZlVLeGZiZWxIa2Z6c1pBSWd2N3BLWDF3VHBMMzc2OWhVV2hhbGp1VG96Wk1WbjRHRVRid2Y?oc=5",
-          "source": "Google News",
-          "published": "Sun, 09 Aug 2026 13:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Senate",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Obama and Abdul El-Sayed Spoke to Discuss Unity After Michigan Senate Primary - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON00taDFWNTV6eDBwYzJ2MVRtNmxMa3dhZzhhZ3Y4MzJFWTVaWXhFZm1FUHhGMjVySnBjeGp6R3lrTmNuNnZsSEZUUWRrZTZjLVBnOWFuT2RHaEdGdGlsX1huTE4xOHlsQWNJTlNhc0txeG5faDBsYUdoQjNtV05xTDIzVE0zT09OMnJSZjU1TlNiQQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 09 Aug 2026 18:38:03 GMT"
-        },
-        {
-          "title": "US Senate advances landmark crypto bill before heading on August recess - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMVhmVXltaDhxQW1BeWtBZktQbmNhUGI1Y0s5X2xJSDVaSkZPLXZlckdUMWRoSmcwX0NvUmtERjBrc3dRc1lPQXMxZzVlVmFVMnpXMjEwTGZzaEs0anJPdzJ4UU9RMFRpVjFHMWJKekFNaThIZjA4cUZZMm85MVhfbGt2YlNKV2d3SHY5TGI5UjdXOWlocTdiQ1RqMUtQMXBDZHlzTUdTZDNGbW5yeWtwWl81TTZ0ZTNSeHNlTTdB?oc=5",
-          "source": "Google News",
-          "published": "Sat, 08 Aug 2026 20:24:41 GMT"
+          "published": "Sun, 09 Aug 2026 11:00:00 GMT"
         }
       ]
     },
@@ -166,16 +116,35 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Pentagon presses defense firms to build weapons as Iran war depletes stocks - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMEVSY1poSEdoWXlVam44MEZhT2RqY3lRYWE1M001R2tlb2E3aUlWdEJHeWFvem5wY0ZXRzdKMzNTMTBCdUdHTWtxV2hucWRnVmk3SExENGk5M1lUeTN2RzA1V1F1RU54S041Q2U5WG5iZVdTUkhSUG5jQ3hna0tEeDNDNWVJN2E3ZzRRNl9lSmlrOXFtWFFKU3E0MmtrVkFQSmVqcmoyNDh5U29ZS1hRQ00wY3hKd1RNdklWWkZUaGo?oc=5",
+          "title": "Pentagon pushes defense companies to boost weapons production after concerns of depleted stocks - AP News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS05uS1RyLUd6dmFHSkt1bUxJUzA2RnVrZlhwZDFJQmVrQ19wRmd2RFNJRWQ5RGVoZDRGeXlIWi1laXQySGUxaERfQkszMGdOVElVdmFfRDYzNWdrU2ppQU1DS2VULWtsUnNMTTZXMVAzV1VTdnMzaG5VLW1kMUlScndvenRpaVhGQUxVSFdmb1VqR2thZm15LVZoMlBSYTc0THFQV3RRLXJXaXdhb0V0UFhR?oc=5",
           "source": "Google News",
-          "published": "Sun, 09 Aug 2026 04:02:28 GMT"
+          "published": "Sun, 09 Aug 2026 02:00:00 GMT"
         },
         {
           "title": "'Very little to like': Wall Street assesses surprise July jobs report as stocks jump - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN29tUTN4WXpkU2VBVGFreXR6ZjJnRW5EZUNraWthVmtXRGVKS3dhb0o0eGZnLXdtLU1WQUZnTXBlaUtZV044QVVCdTROYVh6VF9mWDhZY3Y1QlUyZl9SUXJBbTVxN3hIb3NWZXl2LUNObUYtRUpiMVItWHk2bkRZcGlQeXR6Q1E3VUZhN2dnWDNuc1ZraTl0ZkswaGhkUDBaTWhGWTFoZ2ZNa1l4M3NfRC1Ma1BhaGxMZEVlbVhOemNIbEhBZTktVGFqc1pGaUpNYkFMMA?oc=5",
           "source": "Google News",
           "published": "Sun, 09 Aug 2026 11:35:29 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Man",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wRFZRWjR4ZFVkSW00eXlCbVhpekxGX1RNRmlmSnJCdzUza3FPWVIxczVCeTB2SUhRRjZ2R1FpazNLOXR5Y2lXMDVNZDh3U0ttMlVqVndmZzYtZw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 09 Aug 2026 19:40:09 GMT"
+        },
+        {
+          "title": "‘Spider-Man: Brand New Day’ keeps record pace, ‘The Odyssey’ sets new high for Nolan - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMDRXM1E2Z25Ta2tVMlJGVVFmbUFzLXRMc09IR1NWN3F2ZFNubFlVUERBcHliSEFQZFNEYUdRS29NdDc3NUFoclg1VmlEWTdUczY1NlpOQkszcVlTODRuX0dDa1NVeU5NRVVzRU90SlYwWVJxa2wyVENwNy10TmtHNlNJZ2JkUV9xbkFQY0pESFpWdjY1RUR4XzBwTmx4dDRZSHVsaUNmQTZXUQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 09 Aug 2026 19:42:00 GMT"
         }
       ]
     },
@@ -195,6 +164,25 @@
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVHZ4ZTczbFBkMldxZ1AxeXpPbUZlcFlRMFdIekNfcDVjUVp5VTUtaHIwVWMxLTdfdEg0cmoxVFQwX2w5cVdTekxUbXBQSm1ib0EwRW5yWUNFS1lpUDZJaDQ2cGh3bFFTdWdfeHRBOVFySWpiWVhhelFBQjNkODZrRy1rUGxHbWNwTkpnSTAtMFJpYnJVTFc5NGxtcVQ2TFpxWDB2TEdWNnpKMVNOanp5dTlOdw?oc=5",
           "source": "Google News",
           "published": "Sun, 09 Aug 2026 16:09:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Post",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Iran Taps Longtime I.R.G.C. Commander Mohsen Rezaei to Top Security Post - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWTBPR3o2SktiSEZibkJVOERvb3hxZTlOWWFkWjlEUU1sMmlTY3NXd3MxM293N3RGOHN0LTJLclBfRGJDX3drdzlBbExzLW83bTBlQVo3V2dMN1pjN1lFdUkxVEFoT3I0MThrRG9ZUFRIMVRFVHlKRWszcEwtNFFTMDRDdEN0VFpiOUF5ZGNwZVVRek1QTnMxVkJxNA?oc=5",
+          "source": "Google News",
+          "published": "Sun, 09 Aug 2026 18:18:22 GMT"
+        },
+        {
+          "title": "Paramount Making Deals To Theaters For 30 Films A Year Post WBD Acquisition; Cinema United Still Anti-Merger - Deadline",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBxQV8wSDZOeXE5anlWdHhGQVBoNmRSeWo3OUJnMkpfa2RCQ3ZxeWxvMkpQR2d1cE5uRzJkTFp0SDYzZGg3cWQwY2QxY3VfQjY3Vm5RbVRFa2ROdkloODJVUWk5VFZsTkhtUUVmQkJ0WUhKUzFESmZEWk5n?oc=5",
+          "source": "Google News",
+          "published": "Sun, 09 Aug 2026 19:21:00 GMT"
         }
       ]
     },
@@ -223,7 +211,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Made by Google 2026 Launch Live: Pixel 11, Pixel 11 Pro Fold, Pixel Watch 5, Gemini, and all the news - androidcentral.com",
+          "title": "Made by Google 2026 Launch Live: Pixel 11, Pixel 11 Pro Fold, Pixel Watch 5, Gemini, and all the news - Android Central",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWnNFYXB1WDJabkZxOTFYcThHWmFjRzhLMHowQVA3ZWNQaU1mUDBldWd0TnRqVUpTZUJyYXB4dDh0azBBSnNtQ2dFeTFyQlFwLU1CdUJld1BQX0JPU2lJVTl3dU9CcGxUc1hCc2QwTEd1Rld0b0ZEQmtBUUQ2cnNfRENxMzNaaDMtaXdiaVVka1l3NjdOaF9qR1hRQmhGUjRaOENMUTlheFhtb3ZCOUQxOE5HYkZibEczQnpENmRZdExUMmJBaV85Ui1PRWlVOERxUFF6NEFB?oc=5",
           "source": "Google News",
           "published": "Sun, 09 Aug 2026 20:02:36 GMT"
@@ -237,59 +225,21 @@
       ]
     },
     {
-      "word": "Pattern",
+      "word": "Still",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "This ‘adversarial’ pattern can prevent surveillance cameras from detecting you - TechCrunch",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNVg2Ukk5N2VHY2ZmN00wQmsza3JILVdCYkNKZmRubUUtazFNeXlPdE5PVVhVYVJXNEg2R3BXMl92VW1HQ3FVQkdvWWZ0WDl0Q2J6RVF6WVhpR3hKT2pXWmhacXA3NE55ckROTWc3UE85QThCRDVzYXlfeWliOGgtNVJQSlRWYXp4VjJaSl94QktHbDRUbUpZQ3gtWjZQQTJLZG1VM05vcWlFRnZsa0tVbQ?oc=5",
+          "title": "The Pixel 10 Pro is a flawed and inconsistent phone — and I'm still using it one year later - Android Authority",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjZXJKMDFSQm9nQ0EteDNxRU5Nc1pocWlLRjFCUGlBclhHSVR2TTBNWXI2MjZiakwzVEhVQlc4djhEcTA0cF9HNWZjS0EzRXZ1bDJiRzhsTDNOVE9oOXVEdjUyVnoza1gwNUdWemszdnlpYVljZjlHSg?oc=5",
           "source": "Google News",
-          "published": "Sun, 09 Aug 2026 14:00:00 GMT"
+          "published": "Sun, 09 Aug 2026 10:00:00 GMT"
         },
         {
-          "title": "AI creates 16 new viruses that never existed in nature after learning DNA’s pattern from 9 trillion nucleot... - Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcm1FMW9IMzM1RExhVTRpOGpoNVlmT2JXSTVTcDFTYlMxMXVBSlk3NVN2bzMzU292RWJvOUR4QTNWbjBxa2Y2X3RWZUM5S29RcWh0bFBTMVZvd18xY2pEMVNiOFN2Vy1TczM1SzJYVGdkT1JqQWllRFd5cmp0bkFsbDF1Q2tsMzlKQkJKU2p4OA?oc=5",
+          "title": "Paramount Making Deals To Theaters For 30 Films A Year Post WBD Acquisition; Cinema United Still Anti-Merger - Deadline",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBxQV8wSDZOeXE5anlWdHhGQVBoNmRSeWo3OUJnMkpfa2RCQ3ZxeWxvMkpQR2d1cE5uRzJkTFp0SDYzZGg3cWQwY2QxY3VfQjY3Vm5RbVRFa2ROdkloODJVUWk5VFZsTkhtUUVmQkJ0WUhKUzFESmZEWk5n?oc=5",
           "source": "Google News",
-          "published": "Sat, 08 Aug 2026 11:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Second",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘Spider-Man: Brand New Day’ Is Second-Fastest Film To Cross $1B At Int’l Box Office; Global Now At $1.67B - Deadline",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQalBnRDJKdjlPV2ljMjhjVkpLWjZxSVVKNzh0NkVjU2Nnak5oeHlSS01fYUdpZm5oaU9Wc3pldlltRF9NSXF1bnI0U2Z4Yk5vem51dEZZS2tsdEFRdTBhRTJHelJjSHZIc3BXdU1iUWZEd1ZCbzY0eEV2S2R3LUdwY2RtNmJPTWZNNExObVZ4T3VEckxNdmkyNkI3UE5pamM?oc=5",
-          "source": "Google News",
-          "published": "Sun, 09 Aug 2026 16:05:00 GMT"
-        },
-        {
-          "title": "Don Nelson, second-winningest coach in NBA history, dies at 86 - ESPN",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYVVURzVvT2NldmtfYnV0MGxUbDFkV3VzUWUtVzYzZFZxekw5MW5xbXBCX0psR1R5NmExdW52a2JWNFYzLWR0bkdrRkdXTUVMRjI2U2tJcEtETWd4WmlsYXh3cEgtelJDeVM4LXEwTElwWlZBQUhTd0dpdXYxVzRyTk9iWkpLS2ZyM3VkQUNxM2d4YnlSOFliRmlFRjgwOGJj?oc=5",
-          "source": "Google News",
-          "published": "Sun, 09 Aug 2026 18:10:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Film",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘Spider-Man: Brand New Day’ Is Second-Fastest Film To Cross $1B At Int’l Box Office; Global Now At $1.67B - Deadline",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQalBnRDJKdjlPV2ljMjhjVkpLWjZxSVVKNzh0NkVjU2Nnak5oeHlSS01fYUdpZm5oaU9Wc3pldlltRF9NSXF1bnI0U2Z4Yk5vem51dEZZS2tsdEFRdTBhRTJHelJjSHZIc3BXdU1iUWZEd1ZCbzY0eEV2S2R3LUdwY2RtNmJPTWZNNExObVZ4T3VEckxNdmkyNkI3UE5pamM?oc=5",
-          "source": "Google News",
-          "published": "Sun, 09 Aug 2026 16:05:00 GMT"
-        },
-        {
-          "title": "Ellison Offers Theaters Contract Guarantee for Paramount-Warner Bros. 30-Film Annual Slate - Variety",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVUN0cnZGVUdHZGxER2dQLWtzQzQzNVlXSG02dlp4UWdjOEVfYm9SdWJZc0l3QTZBaUl1MGU5SWRuSGpRNjItRUFtQmdFMkRyaDFFZmlzRl92c292V2lNbkE3d1dPdlZsVUZRSHBIX3hOUzYwdTFMYmFhY1NfUldZLWR4dXVwWDVWcnlfdHRZZTJPOTkxVzZidzltVVExNTZ6ZkJEdG0xUGNmazJJWmh4cGdLbnhNTzZyeFRsYkZlY1Y3dw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 09 Aug 2026 13:49:00 GMT"
+          "published": "Sun, 09 Aug 2026 19:21:00 GMT"
         }
       ]
     },
@@ -299,7 +249,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "What We Know About Perez Hilton Hospitalization: Surgery Needed After ‘Significant Blood Loss’ - forbes.com",
+          "title": "What We Know About Perez Hilton Hospitalization: Surgery Needed After ‘Significant Blood Loss’ - Forbes",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLVZ0QUdiV3BrQnpiVVFIREdjcHp1ZnI1OTlvMnk5Vy1lNlM0VFk3V1hjZ3FYMThCZFVuSkVfYkhxa3pDcXpEY3Q3WWpHbXE5VXlvaFlQczFGN2tkN0dJVkZ1LU96Z0pja1dRSFMyZk16T0hVMWFQcUNNeEM1M2xsb1pzY0JFd2JySjlMeE1kX0NNX09oSXRYZWVULWtNRDNCRjI2dkdnTWt0Q3dsdlE0bTBDR0Znbk9UV3VJVERlbjRGQ3dnUmI3dlhldXBydw?oc=5",
           "source": "Google News",
           "published": "Sun, 09 Aug 2026 19:48:00 GMT"
@@ -318,16 +268,16 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Quillan Salkilld reveals he may have suffered knee injury in win over Mateusz Gamrot: ‘I heard a little pop’ - MMA Fighting",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUXE0ZEUyWEc2MUZhdzg1b0FidDM4aHNXRVl5SjFIVTF1dENXbDNfMUdZRjZyeFp4aFZydmk3OXVCTWowdy1KWkh2dnZrb0hXaVFBclY0YUZrb3NSMEE2U1d5dnJKUGIyTHJMVFFoMXVYdUFWZ1NCanRVbHo0eTVPbUpYOXl4SXoxQl83QmxKVE5FWXFPejdEQXBWWlU3WG9RODlRZ0tvMmJ0ajNReEZJbk1hMGc5YWJDS3pQUkhkSy1GNEZEZGNJWnotTEp2THg1T2FiamdwbUJIVG5j?oc=5",
-          "source": "Google News",
-          "published": "Sun, 09 Aug 2026 15:00:00 GMT"
-        },
-        {
           "title": "Patrick Mahomes details final steps in pre-camp injury clearance - Arrowhead Pride",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdURYM2Q0Y3JmUHZEZmExanVtd0hjVTdRc2tlTmVQTEl6T1d1TldFc1BMazk1RzVQVnNkS0V3OGppekVUTktHQVFNVUZqODg1cjN6Y2h2WDhmbEdoZHBnTGhKZVJpSE1lNExaWjZSN0cwR0pTVGVOR3FqM1BWNkpzcTRKVkZEMTBPOEkwZlVLeGZiZWxIa2Z6c1pBSWd2N3BLWDF3VHBMMzc2OWhVV2hhbGp1VG96Wk1WbjRHRVRid2Y?oc=5",
           "source": "Google News",
           "published": "Sun, 09 Aug 2026 13:00:00 GMT"
+        },
+        {
+          "title": "Quillan Salkilld reveals he may have suffered knee injury in win over Mateusz Gamrot: ‘I heard a little pop’ - MMA Fighting",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUXE0ZEUyWEc2MUZhdzg1b0FidDM4aHNXRVl5SjFIVTF1dENXbDNfMUdZRjZyeFp4aFZydmk3OXVCTWowdy1KWkh2dnZrb0hXaVFBclY0YUZrb3NSMEE2U1d5dnJKUGIyTHJMVFFoMXVYdUFWZ1NCanRVbHo0eTVPbUpYOXl4SXoxQl83QmxKVE5FWXFPejdEQXBWWlU3WG9RODlRZ0tvMmJ0ajNReEZJbk1hMGc5YWJDS3pQUkhkSy1GNEZEZGNJWnotTEp2THg1T2FiamdwbUJIVG5j?oc=5",
+          "source": "Google News",
+          "published": "Sun, 09 Aug 2026 15:00:00 GMT"
         }
       ]
     },
@@ -362,7 +312,7 @@
           "published": "Sun, 09 Aug 2026 16:09:00 GMT"
         },
         {
-          "title": "How much coffee is too much coffee for your health? - The Star",
+          "title": "How much coffee is too much coffee for your health? - thestar.com.my",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV1dFTHRqUmxjYW1VLWpSWFJyRnE2c1drLW9HeWVqTUliMktSUjBQNXpRYnRDUWVZMTR1ZUdkVUhsWTFlM2k3dFQ5VTc4TWQwbUY5dldMV1k5ODhKWEQ5bHBoeVR6OEJYcTJvald2RjlNT1RCN1Z4Vk1HSW5rSlF4UHNWMjhjcV9VVjV4a0FrM2dsck5lcDRDaTRNLXhYb0ZpZ1ZmMXFISjBiTjgzb0E?oc=5",
           "source": "Google News",
           "published": "Sat, 08 Aug 2026 10:06:00 GMT"
@@ -375,7 +325,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "How much coffee is too much coffee for your health? - The Star",
+          "title": "How much coffee is too much coffee for your health? - thestar.com.my",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV1dFTHRqUmxjYW1VLWpSWFJyRnE2c1drLW9HeWVqTUliMktSUjBQNXpRYnRDUWVZMTR1ZUdkVUhsWTFlM2k3dFQ5VTc4TWQwbUY5dldMV1k5ODhKWEQ5bHBoeVR6OEJYcTJvald2RjlNT1RCN1Z4Vk1HSW5rSlF4UHNWMjhjcV9VVjV4a0FrM2dsck5lcDRDaTRNLXhYb0ZpZ1ZmMXFISjBiTjgzb0E?oc=5",
           "source": "Google News",
           "published": "Sat, 08 Aug 2026 10:06:00 GMT"
@@ -388,7 +338,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "How much coffee is too much coffee for your health? - The Star",
+          "title": "How much coffee is too much coffee for your health? - thestar.com.my",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV1dFTHRqUmxjYW1VLWpSWFJyRnE2c1drLW9HeWVqTUliMktSUjBQNXpRYnRDUWVZMTR1ZUdkVUhsWTFlM2k3dFQ5VTc4TWQwbUY5dldMV1k5ODhKWEQ5bHBoeVR6OEJYcTJvald2RjlNT1RCN1Z4Vk1HSW5rSlF4UHNWMjhjcV9VVjV4a0FrM2dsck5lcDRDaTRNLXhYb0ZpZ1ZmMXFISjBiTjgzb0E?oc=5",
           "source": "Google News",
           "published": "Sat, 08 Aug 2026 10:06:00 GMT"
@@ -401,7 +351,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz - reuters.com",
+          "title": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVlSazBucFNIOGZ3aG91cDZhcTFfMWI4NWMycVczNWtmVHRKTU54WlJud1JqVUxCOW84U1p0OU5aSjdBNnJHS2xmLVVIaVdGZUpNemJKaTA5aV9TU1NHaHlZMEo1X1VjX2wxTExReTl0Tk5SYkRsMWsxWUo3UWw3UE1iV0N2UmJydWZFeHZpX01Ba1NISVdtei01OXRnMUtpem80dW5wa1FKNnhNQzZOMGlJMG8?oc=5",
           "source": "Google News",
           "published": "Sun, 09 Aug 2026 18:55:32 GMT"
@@ -414,7 +364,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz - reuters.com",
+          "title": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVlSazBucFNIOGZ3aG91cDZhcTFfMWI4NWMycVczNWtmVHRKTU54WlJud1JqVUxCOW84U1p0OU5aSjdBNnJHS2xmLVVIaVdGZUpNemJKaTA5aV9TU1NHaHlZMEo1X1VjX2wxTExReTl0Tk5SYkRsMWsxWUo3UWw3UE1iV0N2UmJydWZFeHZpX01Ba1NISVdtei01OXRnMUtpem80dW5wa1FKNnhNQzZOMGlJMG8?oc=5",
           "source": "Google News",
           "published": "Sun, 09 Aug 2026 18:55:32 GMT"
@@ -427,7 +377,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz - reuters.com",
+          "title": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVlSazBucFNIOGZ3aG91cDZhcTFfMWI4NWMycVczNWtmVHRKTU54WlJud1JqVUxCOW84U1p0OU5aSjdBNnJHS2xmLVVIaVdGZUpNemJKaTA5aV9TU1NHaHlZMEo1X1VjX2wxTExReTl0Tk5SYkRsMWsxWUo3UWw3UE1iV0N2UmJydWZFeHZpX01Ba1NISVdtei01OXRnMUtpem80dW5wa1FKNnhNQzZOMGlJMG8?oc=5",
           "source": "Google News",
           "published": "Sun, 09 Aug 2026 18:55:32 GMT"
@@ -440,7 +390,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz - reuters.com",
+          "title": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVlSazBucFNIOGZ3aG91cDZhcTFfMWI4NWMycVczNWtmVHRKTU54WlJud1JqVUxCOW84U1p0OU5aSjdBNnJHS2xmLVVIaVdGZUpNemJKaTA5aV9TU1NHaHlZMEo1X1VjX2wxTExReTl0Tk5SYkRsMWsxWUo3UWw3UE1iV0N2UmJydWZFeHZpX01Ba1NISVdtei01OXRnMUtpem80dW5wa1FKNnhNQzZOMGlJMG8?oc=5",
           "source": "Google News",
           "published": "Sun, 09 Aug 2026 18:55:32 GMT"
@@ -453,7 +403,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz - reuters.com",
+          "title": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVlSazBucFNIOGZ3aG91cDZhcTFfMWI4NWMycVczNWtmVHRKTU54WlJud1JqVUxCOW84U1p0OU5aSjdBNnJHS2xmLVVIaVdGZUpNemJKaTA5aV9TU1NHaHlZMEo1X1VjX2wxTExReTl0Tk5SYkRsMWsxWUo3UWw3UE1iV0N2UmJydWZFeHZpX01Ba1NISVdtei01OXRnMUtpem80dW5wa1FKNnhNQzZOMGlJMG8?oc=5",
           "source": "Google News",
           "published": "Sun, 09 Aug 2026 18:55:32 GMT"
@@ -466,7 +416,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz - reuters.com",
+          "title": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz - Reuters",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVlSazBucFNIOGZ3aG91cDZhcTFfMWI4NWMycVczNWtmVHRKTU54WlJud1JqVUxCOW84U1p0OU5aSjdBNnJHS2xmLVVIaVdGZUpNemJKaTA5aV9TU1NHaHlZMEo1X1VjX2wxTExReTl0Tk5SYkRsMWsxWUo3UWw3UE1iV0N2UmJydWZFeHZpX01Ba1NISVdtei01OXRnMUtpem80dW5wa1FKNnhNQzZOMGlJMG8?oc=5",
           "source": "Google News",
           "published": "Sun, 09 Aug 2026 18:55:32 GMT"
@@ -479,10 +429,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Israel rejects Trump's Gaza plan, more details emerge on the Strait of Hormuz and other Mideast news - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV2psZVVzWDFLUWxaM0N2dTlwTXpyQUhLVXRUNzFMZ1hoWVpQQk1iUXlZQWNFRTJKeFRZSFdfOWZCU0VxenBzOExCUXJDZm9DM3FCMmpOYXc5Y1dkSHpPOUdUTDFYN09mc0d0NmV4ZEtDWEhuVDdMcjN3QWdpcmlXUy1KcGRXd1NuSmt6ZTNMX0hTanNQZF9DelRIMFQxUHJ3UUJEb3FhM3QzMFRrNnZ5ZW9n?oc=5",
+          "title": "Israel rejects Trump’s 15-point plan for Gaza, stoking tensions with US - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNVU1NERmSFZKVC1xQW5DNnlSOW9rZkxkX0QyR2dqVW5ZUWE4NkU4dTdkYnNLZmIxWkpqOUR6bGNJbFRlSEVacXVqTVQ2SmR3dUwxUzkyOEFYX3Zib25SSE1POGpVeDYxNHZlbUpKdWRIcUNPYW0yQXkxNmM2MGl1LUFmZjVBbWFVWENqdtIBkgFBVV95cUxQSzljRG01aUtFTjdDemp4OFM5T1lpbE5JOTJpSGxnX1RqWGFFQzlycDNWSEpsRTRPbkRWX2lxV2w2dXRsZl9OU3BJZDlKc2o5eDNWbTMyLVlMdmIxSl9RYzNQZGFra09DU2VmTFBlSTlhZnhCWURULUFzeGFyMFBrUXNGTHNKMkhkOVlkT2hHelVqQQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 09 Aug 2026 19:33:00 GMT"
+          "published": "Sun, 09 Aug 2026 20:37:30 GMT"
         }
       ]
     },
@@ -492,23 +442,23 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Israel rejects Trump's Gaza plan, more details emerge on the Strait of Hormuz and other Mideast news - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV2psZVVzWDFLUWxaM0N2dTlwTXpyQUhLVXRUNzFMZ1hoWVpQQk1iUXlZQWNFRTJKeFRZSFdfOWZCU0VxenBzOExCUXJDZm9DM3FCMmpOYXc5Y1dkSHpPOUdUTDFYN09mc0d0NmV4ZEtDWEhuVDdMcjN3QWdpcmlXUy1KcGRXd1NuSmt6ZTNMX0hTanNQZF9DelRIMFQxUHJ3UUJEb3FhM3QzMFRrNnZ5ZW9n?oc=5",
+          "title": "Israel rejects Trump’s 15-point plan for Gaza, stoking tensions with US - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNVU1NERmSFZKVC1xQW5DNnlSOW9rZkxkX0QyR2dqVW5ZUWE4NkU4dTdkYnNLZmIxWkpqOUR6bGNJbFRlSEVacXVqTVQ2SmR3dUwxUzkyOEFYX3Zib25SSE1POGpVeDYxNHZlbUpKdWRIcUNPYW0yQXkxNmM2MGl1LUFmZjVBbWFVWENqdtIBkgFBVV95cUxQSzljRG01aUtFTjdDemp4OFM5T1lpbE5JOTJpSGxnX1RqWGFFQzlycDNWSEpsRTRPbkRWX2lxV2w2dXRsZl9OU3BJZDlKc2o5eDNWbTMyLVlMdmIxSl9RYzNQZGFra09DU2VmTFBlSTlhZnhCWURULUFzeGFyMFBrUXNGTHNKMkhkOVlkT2hHelVqQQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 09 Aug 2026 19:33:00 GMT"
+          "published": "Sun, 09 Aug 2026 20:37:30 GMT"
         }
       ]
     },
     {
-      "word": "Gaza",
+      "word": "Point",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Israel rejects Trump's Gaza plan, more details emerge on the Strait of Hormuz and other Mideast news - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV2psZVVzWDFLUWxaM0N2dTlwTXpyQUhLVXRUNzFMZ1hoWVpQQk1iUXlZQWNFRTJKeFRZSFdfOWZCU0VxenBzOExCUXJDZm9DM3FCMmpOYXc5Y1dkSHpPOUdUTDFYN09mc0d0NmV4ZEtDWEhuVDdMcjN3QWdpcmlXUy1KcGRXd1NuSmt6ZTNMX0hTanNQZF9DelRIMFQxUHJ3UUJEb3FhM3QzMFRrNnZ5ZW9n?oc=5",
+          "title": "Israel rejects Trump’s 15-point plan for Gaza, stoking tensions with US - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNVU1NERmSFZKVC1xQW5DNnlSOW9rZkxkX0QyR2dqVW5ZUWE4NkU4dTdkYnNLZmIxWkpqOUR6bGNJbFRlSEVacXVqTVQ2SmR3dUwxUzkyOEFYX3Zib25SSE1POGpVeDYxNHZlbUpKdWRIcUNPYW0yQXkxNmM2MGl1LUFmZjVBbWFVWENqdtIBkgFBVV95cUxQSzljRG01aUtFTjdDemp4OFM5T1lpbE5JOTJpSGxnX1RqWGFFQzlycDNWSEpsRTRPbkRWX2lxV2w2dXRsZl9OU3BJZDlKc2o5eDNWbTMyLVlMdmIxSl9RYzNQZGFra09DU2VmTFBlSTlhZnhCWURULUFzeGFyMFBrUXNGTHNKMkhkOVlkT2hHelVqQQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 09 Aug 2026 19:33:00 GMT"
+          "published": "Sun, 09 Aug 2026 20:37:30 GMT"
         }
       ]
     },
@@ -518,49 +468,49 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Israel rejects Trump's Gaza plan, more details emerge on the Strait of Hormuz and other Mideast news - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV2psZVVzWDFLUWxaM0N2dTlwTXpyQUhLVXRUNzFMZ1hoWVpQQk1iUXlZQWNFRTJKeFRZSFdfOWZCU0VxenBzOExCUXJDZm9DM3FCMmpOYXc5Y1dkSHpPOUdUTDFYN09mc0d0NmV4ZEtDWEhuVDdMcjN3QWdpcmlXUy1KcGRXd1NuSmt6ZTNMX0hTanNQZF9DelRIMFQxUHJ3UUJEb3FhM3QzMFRrNnZ5ZW9n?oc=5",
+          "title": "Israel rejects Trump’s 15-point plan for Gaza, stoking tensions with US - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNVU1NERmSFZKVC1xQW5DNnlSOW9rZkxkX0QyR2dqVW5ZUWE4NkU4dTdkYnNLZmIxWkpqOUR6bGNJbFRlSEVacXVqTVQ2SmR3dUwxUzkyOEFYX3Zib25SSE1POGpVeDYxNHZlbUpKdWRIcUNPYW0yQXkxNmM2MGl1LUFmZjVBbWFVWENqdtIBkgFBVV95cUxQSzljRG01aUtFTjdDemp4OFM5T1lpbE5JOTJpSGxnX1RqWGFFQzlycDNWSEpsRTRPbkRWX2lxV2w2dXRsZl9OU3BJZDlKc2o5eDNWbTMyLVlMdmIxSl9RYzNQZGFra09DU2VmTFBlSTlhZnhCWURULUFzeGFyMFBrUXNGTHNKMkhkOVlkT2hHelVqQQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 09 Aug 2026 19:33:00 GMT"
+          "published": "Sun, 09 Aug 2026 20:37:30 GMT"
         }
       ]
     },
     {
-      "word": "Emerge",
+      "word": "Gaza",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Israel rejects Trump's Gaza plan, more details emerge on the Strait of Hormuz and other Mideast news - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV2psZVVzWDFLUWxaM0N2dTlwTXpyQUhLVXRUNzFMZ1hoWVpQQk1iUXlZQWNFRTJKeFRZSFdfOWZCU0VxenBzOExCUXJDZm9DM3FCMmpOYXc5Y1dkSHpPOUdUTDFYN09mc0d0NmV4ZEtDWEhuVDdMcjN3QWdpcmlXUy1KcGRXd1NuSmt6ZTNMX0hTanNQZF9DelRIMFQxUHJ3UUJEb3FhM3QzMFRrNnZ5ZW9n?oc=5",
+          "title": "Israel rejects Trump’s 15-point plan for Gaza, stoking tensions with US - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNVU1NERmSFZKVC1xQW5DNnlSOW9rZkxkX0QyR2dqVW5ZUWE4NkU4dTdkYnNLZmIxWkpqOUR6bGNJbFRlSEVacXVqTVQ2SmR3dUwxUzkyOEFYX3Zib25SSE1POGpVeDYxNHZlbUpKdWRIcUNPYW0yQXkxNmM2MGl1LUFmZjVBbWFVWENqdtIBkgFBVV95cUxQSzljRG01aUtFTjdDemp4OFM5T1lpbE5JOTJpSGxnX1RqWGFFQzlycDNWSEpsRTRPbkRWX2lxV2w2dXRsZl9OU3BJZDlKc2o5eDNWbTMyLVlMdmIxSl9RYzNQZGFra09DU2VmTFBlSTlhZnhCWURULUFzeGFyMFBrUXNGTHNKMkhkOVlkT2hHelVqQQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 09 Aug 2026 19:33:00 GMT"
+          "published": "Sun, 09 Aug 2026 20:37:30 GMT"
         }
       ]
     },
     {
-      "word": "Strait",
+      "word": "Stoking",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Israel rejects Trump's Gaza plan, more details emerge on the Strait of Hormuz and other Mideast news - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV2psZVVzWDFLUWxaM0N2dTlwTXpyQUhLVXRUNzFMZ1hoWVpQQk1iUXlZQWNFRTJKeFRZSFdfOWZCU0VxenBzOExCUXJDZm9DM3FCMmpOYXc5Y1dkSHpPOUdUTDFYN09mc0d0NmV4ZEtDWEhuVDdMcjN3QWdpcmlXUy1KcGRXd1NuSmt6ZTNMX0hTanNQZF9DelRIMFQxUHJ3UUJEb3FhM3QzMFRrNnZ5ZW9n?oc=5",
+          "title": "Israel rejects Trump’s 15-point plan for Gaza, stoking tensions with US - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNVU1NERmSFZKVC1xQW5DNnlSOW9rZkxkX0QyR2dqVW5ZUWE4NkU4dTdkYnNLZmIxWkpqOUR6bGNJbFRlSEVacXVqTVQ2SmR3dUwxUzkyOEFYX3Zib25SSE1POGpVeDYxNHZlbUpKdWRIcUNPYW0yQXkxNmM2MGl1LUFmZjVBbWFVWENqdtIBkgFBVV95cUxQSzljRG01aUtFTjdDemp4OFM5T1lpbE5JOTJpSGxnX1RqWGFFQzlycDNWSEpsRTRPbkRWX2lxV2w2dXRsZl9OU3BJZDlKc2o5eDNWbTMyLVlMdmIxSl9RYzNQZGFra09DU2VmTFBlSTlhZnhCWURULUFzeGFyMFBrUXNGTHNKMkhkOVlkT2hHelVqQQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 09 Aug 2026 19:33:00 GMT"
+          "published": "Sun, 09 Aug 2026 20:37:30 GMT"
         }
       ]
     },
     {
-      "word": "Mideast",
+      "word": "Tensions",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Israel rejects Trump's Gaza plan, more details emerge on the Strait of Hormuz and other Mideast news - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV2psZVVzWDFLUWxaM0N2dTlwTXpyQUhLVXRUNzFMZ1hoWVpQQk1iUXlZQWNFRTJKeFRZSFdfOWZCU0VxenBzOExCUXJDZm9DM3FCMmpOYXc5Y1dkSHpPOUdUTDFYN09mc0d0NmV4ZEtDWEhuVDdMcjN3QWdpcmlXUy1KcGRXd1NuSmt6ZTNMX0hTanNQZF9DelRIMFQxUHJ3UUJEb3FhM3QzMFRrNnZ5ZW9n?oc=5",
+          "title": "Israel rejects Trump’s 15-point plan for Gaza, stoking tensions with US - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNVU1NERmSFZKVC1xQW5DNnlSOW9rZkxkX0QyR2dqVW5ZUWE4NkU4dTdkYnNLZmIxWkpqOUR6bGNJbFRlSEVacXVqTVQ2SmR3dUwxUzkyOEFYX3Zib25SSE1POGpVeDYxNHZlbUpKdWRIcUNPYW0yQXkxNmM2MGl1LUFmZjVBbWFVWENqdtIBkgFBVV95cUxQSzljRG01aUtFTjdDemp4OFM5T1lpbE5JOTJpSGxnX1RqWGFFQzlycDNWSEpsRTRPbkRWX2lxV2w2dXRsZl9OU3BJZDlKc2o5eDNWbTMyLVlMdmIxSl9RYzNQZGFra09DU2VmTFBlSTlhZnhCWURULUFzeGFyMFBrUXNGTHNKMkhkOVlkT2hHelVqQQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 09 Aug 2026 19:33:00 GMT"
+          "published": "Sun, 09 Aug 2026 20:37:30 GMT"
         }
       ]
     },
@@ -644,6 +594,32 @@
     },
     {
       "word": "Michigan",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Obama and Abdul El-Sayed Spoke to Discuss Unity After Michigan Senate Primary - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON00taDFWNTV6eDBwYzJ2MVRtNmxMa3dhZzhhZ3Y4MzJFWTVaWXhFZm1FUHhGMjVySnBjeGp6R3lrTmNuNnZsSEZUUWRrZTZjLVBnOWFuT2RHaEdGdGlsX1huTE4xOHlsQWNJTlNhc0txeG5faDBsYUdoQjNtV05xTDIzVE0zT09OMnJSZjU1TlNiQQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 09 Aug 2026 18:38:03 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Senate",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Obama and Abdul El-Sayed Spoke to Discuss Unity After Michigan Senate Primary - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON00taDFWNTV6eDBwYzJ2MVRtNmxMa3dhZzhhZ3Y4MzJFWTVaWXhFZm1FUHhGMjVySnBjeGp6R3lrTmNuNnZsSEZUUWRrZTZjLVBnOWFuT2RHaEdGdGlsX1huTE4xOHlsQWNJTlNhc0txeG5faDBsYUdoQjNtV05xTDIzVE0zT09OMnJSZjU1TlNiQQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 09 Aug 2026 18:38:03 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Primary",
       "count": 1,
       "category": "NOUN",
       "articles": [
