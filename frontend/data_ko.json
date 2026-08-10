@@ -1,24 +1,68 @@
 {
   "language": "ko",
-  "last_updated": 1786357436.5912058,
+  "last_updated": 1786362800.7937138,
   "count": 40,
   "trends": [
     {
-      "word": "김민석",
+      "word": "대통령",
+      "count": 3,
+      "category": "PERSON",
+      "articles": [
+        {
+          "title": "이 대통령 “호남 반도체, 구마모토 속도로”…‘2년 내’ 준공 지시 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hRTRNM3NGdVBoOTlPYklQSjRpTmNsSy1xSmZZX1d2U3ZveXZaaUV2VXNCRnB4dmUtZEt2TjJJYkxDUDk2NjZOTnBZcmlZTVlYNW5KOVF0ZkFXLTBucGlwSTlXQU5uTUhIZHRR?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 08:15:00 GMT"
+        },
+        {
+          "title": "李대통령 지지율 43.3% 최저치…부동산정책·형소법개정 등 영향 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10Vng1T1BpNkxOemZmOEpXclF2ZjU1OEUyWlpQaHQ0OWtmLUwwMmczbG5OelJZU3p6Q3FCeXNiWXBhSHlPVGVCMmxENXpkSVdwTmREZUlLVUZ4Zw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 01:22:10 GMT"
+        },
+        {
+          "title": "레버리지·ISA 연타석 헛발질에 대통령도 질타 … 이억원·이찬진 거취도 흔들 - biz.newdaily.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yWXNQTVZ0ODhpNURmU1hsc1o5Q0FLU2VOVXd6NjhqMnpFaUNVWVFHWDJQNlAtRk4xbmY5RHdaUVFzR1BGSlFGM1hSWmhDcU1waXBYWVlnUkM5REdrcWJld1JXcms1Z0hoYjFlWU05VEgwWTMzVGp6dXdQRdIBgAFBVV95cUxQckd3QmVmOXctajdtOTlIdGpNRkFDQVBialc2NHlqWG1nZ3ViQVFvTDV0LXFmM2dXY1lISVduT1lqRUhUMmc5QTNiell6eTg4NG9jb2YwZVFnOXBYb1hQRWU2QW1vSU9uQXIxXzhIR0FTN3YzSi1xRUpjMFU0ckJXZg?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 01:37:13 GMT"
+        }
+      ]
+    },
+    {
+      "word": "호남",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김민석 \"야당의 개소리도 참았는데, 정청래 '선거 승리' 발언은 너무 화나\" - imnews.imbc.com",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9janJTdV9hOThKTHJDSVVKbS1uZURoZUtFeHlEdzg1Zm9MbjNBVkc0eGFtQjl3Y0dLZUhjeWoyOU9PTjBSLVFxakt3Sk1sOWJzQzRjVnYxTTRqbHJzR0EzMWZNcmpmSHVYYlhPbEkyNnZjX2o4ODc3ONIBeEFVX3lxTE5sVjhGd01pNXowZEVNYTBLa3FkUG1oLU43MEtNQXM3SDVNY1lfS3Bpd0p5R1RUT2Z1Q0FfQjhSeFhTMHEwUlU2Y2FDLVVYZElTMS1GOFEtVjJlZUg4TENxbVlsOVhLdHgtcUhSSEoySmRyc1ZvSlhwcw?oc=5",
+          "title": "이 대통령 “호남 반도체, 구마모토 속도로”…‘2년 내’ 준공 지시 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hRTRNM3NGdVBoOTlPYklQSjRpTmNsSy1xSmZZX1d2U3ZveXZaaUV2VXNCRnB4dmUtZEt2TjJJYkxDUDk2NjZOTnBZcmlZTVlYNW5KOVF0ZkFXLTBucGlwSTlXQU5uTUhIZHRR?oc=5",
           "source": "Google News",
-          "published": "Mon, 10 Aug 2026 07:46:42 GMT"
+          "published": "Mon, 10 Aug 2026 08:15:00 GMT"
         },
         {
-          "title": "김민석 “내년 재보선 치른 뒤 당대표 재신임 묻겠다” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10dnBfejRJRjVfaGtYaExSLS1KSFpTZ2lGTW1Oa1QxNDgtQkRVODlNdDViU3dfZ3k2bHpTdE41RG5SbzE1SFdMWnVGWGdjdHpMemdUZXc5N210cHc3SGlSaUhkclJtZTg3ZjhEX05Ga2FuOEx0SERj0gFmQVVfeXFMTWEzN2UyaHpFTXpEN01pUXNJc3Y3SzY5NUlZR2JMOURRbmo2bnh6LUJzdE9XZGo4UU1HTzBUWHVHWmlfNE4wRmZHOXB0aGg2Q08zNTgwWVZTMHRNeGRsU1U2T2JORGR3?oc=5",
+          "title": "김민석 호남 - 정청래 수도권 “우위”…71% 승부처 ‘과반’ 총력전 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9leExWanJUWDcyX3R3N001YW9jdmRHc3pfN3g5a0l3Tk1SRVFkQVBHRnlIZmpLSUtTZnhhYVU4ZTQwcEJrdVlBdXEzUEtRZ2VhalZnR0NUOFZLSHhncGx1c0tVQkZKVV9EdF96WkpRNUVDX3dC?oc=5",
           "source": "Google News",
-          "published": "Mon, 10 Aug 2026 03:51:00 GMT"
+          "published": "Mon, 10 Aug 2026 09:24:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "공개",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "선관위 “투표율 공개 1→2시간 단위 조정…전수조사 대신 표본조사” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zN2p6V0R5cnJDLTRubll3cVNnNjkzQnVUbGpJY1IwS1RyVmF0YUJkMHhnSzZ2REpUMTVQWW5TWmxEMmtnbmxRVkVCcUNwWFYtYkt1Z3RlRmlLdHFibE9qeThENHUxWlliZGQ1aHZZRkFuWVBL?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 07:55:00 GMT"
+        },
+        {
+          "title": "김수현, 첫 생방송 무대 복귀…인도네시아 자카르타서 공개 일정 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MclBOdzFTdDFTWXNEb3RoSUE4MFFtajlLSU9WNmFOQVRBNU9FV1lvMTRuMDJzTUUtc09TTFJhdzhvaUJlWGZpWGFxRGhVbzQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 07:17:27 GMT"
         }
       ]
     },
@@ -28,458 +72,196 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프, 이란 6대 요구에도 “로키 대응”…승리 선언하고 발 빼나 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmWWJ2U1ZRVGdrTzJRVk5mc3FkRDVmcURPWEs5eGFHU0wzOW5YbDhXLUVSUHl6WXhtMVhvTl9SY2FWTHVDdVlCc0ZmUEZWME5YS2lVWEhYWVNITlh5dDJ4WUZYNWJQWDJra3BfX2tDRmR4aHM?oc=5",
-          "source": "Google News",
-          "published": "Mon, 10 Aug 2026 09:03:00 GMT"
-        },
-        {
-          "title": "\"트럼프, '핵 합의 없는 종전'도 검토\"‥이란전 출구 모색 - imnews.imbc.com",
+          "title": "\"트럼프, '핵 합의 없는 종전'도 검토\"‥이란전 출구 모색 - MBC 뉴스",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YSWg0aGxOU0RRVV9NWDlHTjNmVUtDcXl2NFlUR01BMl80Vmt6Q0E3OVlJVkQ3UGJfbWU4azg5YUp0NmZaajNzWWdOZW9vbXJEQzNWS2ZiMDVqWkJBNG5XYWZwOUNyRVlUOWVhenNKaXktNzJ10gF0QVVfeXFMT0czLTBack9WMXp4VmRNYXdGcExLSU5mVkVIaVhsUUlFeGFDSm52cDFyU0VnZTBEbDBnRlpldXdJUHI0WnE0RERSYjBLS2JoZV9oTkdaY196NmoyY2JpZHQtay0ycmdVQ3Q0eV80d2JZb3YtMkM?oc=5",
           "source": "Google News",
           "published": "Mon, 10 Aug 2026 06:50:12 GMT"
+        },
+        {
+          "title": "WSJ \"트럼프, 호르무즈 재개방 전제로 이란전 종전 검토\" - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qWnFIaV8wV1B6T2RyYkNPTFo3VWI4LXd6Si1XckVXbDNOSF9tMFJ1ZnBTVzJNLWVSZ3d1Y3ZXdjN6VktpYVI1aC15V1djcW1ORXBDVXVQSUlEQQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 07:50:41 GMT"
         }
       ]
     },
     {
-      "word": "강훈식",
+      "word": "종전",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "\"트럼프, '핵 합의 없는 종전'도 검토\"‥이란전 출구 모색 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YSWg0aGxOU0RRVV9NWDlHTjNmVUtDcXl2NFlUR01BMl80Vmt6Q0E3OVlJVkQ3UGJfbWU4azg5YUp0NmZaajNzWWdOZW9vbXJEQzNWS2ZiMDVqWkJBNG5XYWZwOUNyRVlUOWVhenNKaXktNzJ10gF0QVVfeXFMT0czLTBack9WMXp4VmRNYXdGcExLSU5mVkVIaVhsUUlFeGFDSm52cDFyU0VnZTBEbDBnRlpldXdJUHI0WnE0RERSYjBLS2JoZV9oTkdaY196NmoyY2JpZHQtay0ycmdVQ3Q0eV80d2JZb3YtMkM?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 06:50:12 GMT"
+        },
+        {
+          "title": "WSJ \"트럼프, 호르무즈 재개방 전제로 이란전 종전 검토\" - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qWnFIaV8wV1B6T2RyYkNPTFo3VWI4LXd6Si1XckVXbDNOSF9tMFJ1ZnBTVzJNLWVSZ3d1Y3ZXdjN6VktpYVI1aC15V1djcW1ORXBDVXVQSUlEQQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 07:50:41 GMT"
+        }
+      ]
+    },
+    {
+      "word": "폭염",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "태풍 3개 돌핀·찬홈·페이러우 동시 북상…한반도 폭염 꺾일까 - 경기일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hbk9DT1Z6TkxWWjZWcnVaWFNGbUhNTzdGQlR0X0RFcjV0TXNBejFjempYdkpOV2d2ZGFJRkFjZ3Jab2l0bWVEYi1OOVZHQUt3bzQ5eDhZZEVMVVk?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 04:09:46 GMT"
+        },
+        {
+          "title": "\"안전이 최우선\"…대한체육회, 봉황대기 야구장 폭염 대응 점검 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TellyVllPREVIdnN2ME1saXZOYXFFUDk1dE1QeV9aQWs4YmJuWUFFTkI0OGVmZ3FwRnRLQl9OMHJQYk9rOFlJam11TkhwSmk1eXBXaFVNNTh3QjjSAWBBVV95cUxOdXRfajVWdXg2dmRRNFRpUVdHMTVxV0trdVU0czJSTFZzRG9pNExhTmJTNE95a2VUWnZGSEdYMUxUNXFURVZZdllqWVpudkRaanBxNU5sNDJORjhYaTEtU20?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 05:14:43 GMT"
+        }
+      ]
+    },
+    {
+      "word": "코스닥",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "코스닥 5% 급등에 매수 사이드카…코스피 1% 상승세 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jWkNNMV9WX3NyM21TeC16QVFnazl2SnRjYnpYQlBKQ2M5T3B4UUlUeGE4NjFFcUxXVXNFcUEwU3c5bmJsY29fUHdkbU91YUkyVHEwOWttR0J2V1VRRFJ6NVJKNm9VSkE?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 01:55:00 GMT"
+        },
+        {
+          "title": "\"코스닥 매수 타이밍…'순환매·정책·주도주' 3박자 완성\" - news.mtn.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xV1BsQ2J5TjQ1T2ZoakN2VV93NXUyTkRQZHVhZ1doT2dMcDV0NjkzZ0s3djdHaDJTTVdQMHE2TkVKTDdad1BWUWNqWWtWQ0xwN0w2UmE0X01QUkhMVnY1NzFlWEw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 03:40:09 GMT"
+        }
+      ]
+    },
+    {
+      "word": "매수",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "코스닥 5% 급등에 매수 사이드카…코스피 1% 상승세 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jWkNNMV9WX3NyM21TeC16QVFnazl2SnRjYnpYQlBKQ2M5T3B4UUlUeGE4NjFFcUxXVXNFcUEwU3c5bmJsY29fUHdkbU91YUkyVHEwOWttR0J2V1VRRFJ6NVJKNm9VSkE?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 01:55:00 GMT"
+        },
+        {
+          "title": "\"코스닥 매수 타이밍…'순환매·정책·주도주' 3박자 완성\" - news.mtn.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xV1BsQ2J5TjQ1T2ZoakN2VV93NXUyTkRQZHVhZ1doT2dMcDV0NjkzZ0s3djdHaDJTTVdQMHE2TkVKTDdad1BWUWNqWWtWQ0xwN0w2UmE0X01QUkhMVnY1NzFlWEw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 03:40:09 GMT"
+        }
+      ]
+    },
+    {
+      "word": "반도체",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보] 강훈식 “연내 메가특구 특별법 추진”…주 52시간 예외 노동계 논의 필요 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lUkNWQzhUSW1iTjdOTzQ2dTJQYnhoS1FWOGxsVndySjVSYWFQeXF5blJkdzZVU0pwVjJ1QmxXV1ZXeDJwRnN3Qk15bjF5cGdHc1hZY1YyOHJRRGw4bDdNcEZEMlFvVzJNbVBj?oc=5",
+          "title": "이 대통령 “호남 반도체, 구마모토 속도로”…‘2년 내’ 준공 지시 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hRTRNM3NGdVBoOTlPYklQSjRpTmNsSy1xSmZZX1d2U3ZveXZaaUV2VXNCRnB4dmUtZEt2TjJJYkxDUDk2NjZOTnBZcmlZTVlYNW5KOVF0ZkFXLTBucGlwSTlXQU5uTUhIZHRR?oc=5",
           "source": "Google News",
-          "published": "Mon, 10 Aug 2026 09:12:00 GMT"
+          "published": "Mon, 10 Aug 2026 08:15:00 GMT"
         }
       ]
     },
     {
-      "word": "연내",
+      "word": "구마모토",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보] 강훈식 “연내 메가특구 특별법 추진”…주 52시간 예외 노동계 논의 필요 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lUkNWQzhUSW1iTjdOTzQ2dTJQYnhoS1FWOGxsVndySjVSYWFQeXF5blJkdzZVU0pwVjJ1QmxXV1ZXeDJwRnN3Qk15bjF5cGdHc1hZY1YyOHJRRGw4bDdNcEZEMlFvVzJNbVBj?oc=5",
+          "title": "이 대통령 “호남 반도체, 구마모토 속도로”…‘2년 내’ 준공 지시 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hRTRNM3NGdVBoOTlPYklQSjRpTmNsSy1xSmZZX1d2U3ZveXZaaUV2VXNCRnB4dmUtZEt2TjJJYkxDUDk2NjZOTnBZcmlZTVlYNW5KOVF0ZkFXLTBucGlwSTlXQU5uTUhIZHRR?oc=5",
           "source": "Google News",
-          "published": "Mon, 10 Aug 2026 09:12:00 GMT"
+          "published": "Mon, 10 Aug 2026 08:15:00 GMT"
         }
       ]
     },
     {
-      "word": "메가특구",
+      "word": "속도로2년",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보] 강훈식 “연내 메가특구 특별법 추진”…주 52시간 예외 노동계 논의 필요 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lUkNWQzhUSW1iTjdOTzQ2dTJQYnhoS1FWOGxsVndySjVSYWFQeXF5blJkdzZVU0pwVjJ1QmxXV1ZXeDJwRnN3Qk15bjF5cGdHc1hZY1YyOHJRRGw4bDdNcEZEMlFvVzJNbVBj?oc=5",
+          "title": "이 대통령 “호남 반도체, 구마모토 속도로”…‘2년 내’ 준공 지시 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hRTRNM3NGdVBoOTlPYklQSjRpTmNsSy1xSmZZX1d2U3ZveXZaaUV2VXNCRnB4dmUtZEt2TjJJYkxDUDk2NjZOTnBZcmlZTVlYNW5KOVF0ZkFXLTBucGlwSTlXQU5uTUhIZHRR?oc=5",
           "source": "Google News",
-          "published": "Mon, 10 Aug 2026 09:12:00 GMT"
+          "published": "Mon, 10 Aug 2026 08:15:00 GMT"
         }
       ]
     },
     {
-      "word": "특별법",
+      "word": "준공",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보] 강훈식 “연내 메가특구 특별법 추진”…주 52시간 예외 노동계 논의 필요 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lUkNWQzhUSW1iTjdOTzQ2dTJQYnhoS1FWOGxsVndySjVSYWFQeXF5blJkdzZVU0pwVjJ1QmxXV1ZXeDJwRnN3Qk15bjF5cGdHc1hZY1YyOHJRRGw4bDdNcEZEMlFvVzJNbVBj?oc=5",
+          "title": "이 대통령 “호남 반도체, 구마모토 속도로”…‘2년 내’ 준공 지시 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hRTRNM3NGdVBoOTlPYklQSjRpTmNsSy1xSmZZX1d2U3ZveXZaaUV2VXNCRnB4dmUtZEt2TjJJYkxDUDk2NjZOTnBZcmlZTVlYNW5KOVF0ZkFXLTBucGlwSTlXQU5uTUhIZHRR?oc=5",
           "source": "Google News",
-          "published": "Mon, 10 Aug 2026 09:12:00 GMT"
+          "published": "Mon, 10 Aug 2026 08:15:00 GMT"
         }
       ]
     },
     {
-      "word": "추진주",
+      "word": "지시",
       "count": 1,
       "category": "LOCATION",
       "articles": [
         {
-          "title": "[속보] 강훈식 “연내 메가특구 특별법 추진”…주 52시간 예외 노동계 논의 필요 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lUkNWQzhUSW1iTjdOTzQ2dTJQYnhoS1FWOGxsVndySjVSYWFQeXF5blJkdzZVU0pwVjJ1QmxXV1ZXeDJwRnN3Qk15bjF5cGdHc1hZY1YyOHJRRGw4bDdNcEZEMlFvVzJNbVBj?oc=5",
+          "title": "이 대통령 “호남 반도체, 구마모토 속도로”…‘2년 내’ 준공 지시 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hRTRNM3NGdVBoOTlPYklQSjRpTmNsSy1xSmZZX1d2U3ZveXZaaUV2VXNCRnB4dmUtZEt2TjJJYkxDUDk2NjZOTnBZcmlZTVlYNW5KOVF0ZkFXLTBucGlwSTlXQU5uTUhIZHRR?oc=5",
           "source": "Google News",
-          "published": "Mon, 10 Aug 2026 09:12:00 GMT"
+          "published": "Mon, 10 Aug 2026 08:15:00 GMT"
         }
       ]
     },
     {
-      "word": "52시간",
+      "word": "김민석",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보] 강훈식 “연내 메가특구 특별법 추진”…주 52시간 예외 노동계 논의 필요 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lUkNWQzhUSW1iTjdOTzQ2dTJQYnhoS1FWOGxsVndySjVSYWFQeXF5blJkdzZVU0pwVjJ1QmxXV1ZXeDJwRnN3Qk15bjF5cGdHc1hZY1YyOHJRRGw4bDdNcEZEMlFvVzJNbVBj?oc=5",
+          "title": "김민석 호남 - 정청래 수도권 “우위”…71% 승부처 ‘과반’ 총력전 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9leExWanJUWDcyX3R3N001YW9jdmRHc3pfN3g5a0l3Tk1SRVFkQVBHRnlIZmpLSUtTZnhhYVU4ZTQwcEJrdVlBdXEzUEtRZ2VhalZnR0NUOFZLSHhncGx1c0tVQkZKVV9EdF96WkpRNUVDX3dC?oc=5",
           "source": "Google News",
-          "published": "Mon, 10 Aug 2026 09:12:00 GMT"
+          "published": "Mon, 10 Aug 2026 09:24:00 GMT"
         }
       ]
     },
     {
-      "word": "예외",
+      "word": "검사님",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보] 강훈식 “연내 메가특구 특별법 추진”…주 52시간 예외 노동계 논의 필요 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lUkNWQzhUSW1iTjdOTzQ2dTJQYnhoS1FWOGxsVndySjVSYWFQeXF5blJkdzZVU0pwVjJ1QmxXV1ZXeDJwRnN3Qk15bjF5cGdHc1hZY1YyOHJRRGw4bDdNcEZEMlFvVzJNbVBj?oc=5",
+          "title": "“검사님, 그간 영부인 수사 다 해봤나요?”…김건희, 로저비비에 수수 신문 과정서 특검에 격앙 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jSENhdlp6aHc1MmZUb0hIYnZjaFI3ZTZmOXBTV0c0UW9XTkdKZC1IUnUzYm1hNmxZN3c3SG40MUtqRlpaS3dfOVNnWmdYMEtBM0R4TllEeDRSSkhWVlJvaVNsR1kxd3ZKQWMzSUZkSzJsUmFHRVHSAWZBVV95cUxPbzc0QUVEczBJamZOR1hmcVFWQUxNUUNTOHN0SXRqSzh5NnpQcHhvdW13bVJILS1hWDlYa1FqcG1lUjhCR3RtSHk5TEpFN3ZrcFBTc093OUtyZVlUYTFUVG9Kd1J1aFE?oc=5",
           "source": "Google News",
-          "published": "Mon, 10 Aug 2026 09:12:00 GMT"
+          "published": "Mon, 10 Aug 2026 06:42:00 GMT"
         }
       ]
     },
     {
-      "word": "노동계",
+      "word": "그간",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보] 강훈식 “연내 메가특구 특별법 추진”…주 52시간 예외 노동계 논의 필요 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lUkNWQzhUSW1iTjdOTzQ2dTJQYnhoS1FWOGxsVndySjVSYWFQeXF5blJkdzZVU0pwVjJ1QmxXV1ZXeDJwRnN3Qk15bjF5cGdHc1hZY1YyOHJRRGw4bDdNcEZEMlFvVzJNbVBj?oc=5",
+          "title": "“검사님, 그간 영부인 수사 다 해봤나요?”…김건희, 로저비비에 수수 신문 과정서 특검에 격앙 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jSENhdlp6aHc1MmZUb0hIYnZjaFI3ZTZmOXBTV0c0UW9XTkdKZC1IUnUzYm1hNmxZN3c3SG40MUtqRlpaS3dfOVNnWmdYMEtBM0R4TllEeDRSSkhWVlJvaVNsR1kxd3ZKQWMzSUZkSzJsUmFHRVHSAWZBVV95cUxPbzc0QUVEczBJamZOR1hmcVFWQUxNUUNTOHN0SXRqSzh5NnpQcHhvdW13bVJILS1hWDlYa1FqcG1lUjhCR3RtSHk5TEpFN3ZrcFBTc093OUtyZVlUYTFUVG9Kd1J1aFE?oc=5",
           "source": "Google News",
-          "published": "Mon, 10 Aug 2026 09:12:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "논의",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[속보] 강훈식 “연내 메가특구 특별법 추진”…주 52시간 예외 노동계 논의 필요 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lUkNWQzhUSW1iTjdOTzQ2dTJQYnhoS1FWOGxsVndySjVSYWFQeXF5blJkdzZVU0pwVjJ1QmxXV1ZXeDJwRnN3Qk15bjF5cGdHc1hZY1YyOHJRRGw4bDdNcEZEMlFvVzJNbVBj?oc=5",
-          "source": "Google News",
-          "published": "Mon, 10 Aug 2026 09:12:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "필요",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[속보] 강훈식 “연내 메가특구 특별법 추진”…주 52시간 예외 노동계 논의 필요 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lUkNWQzhUSW1iTjdOTzQ2dTJQYnhoS1FWOGxsVndySjVSYWFQeXF5blJkdzZVU0pwVjJ1QmxXV1ZXeDJwRnN3Qk15bjF5cGdHc1hZY1YyOHJRRGw4bDdNcEZEMlFvVzJNbVBj?oc=5",
-          "source": "Google News",
-          "published": "Mon, 10 Aug 2026 09:12:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "야당",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김민석 \"야당의 개소리도 참았는데, 정청래 '선거 승리' 발언은 너무 화나\" - imnews.imbc.com",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9janJTdV9hOThKTHJDSVVKbS1uZURoZUtFeHlEdzg1Zm9MbjNBVkc0eGFtQjl3Y0dLZUhjeWoyOU9PTjBSLVFxakt3Sk1sOWJzQzRjVnYxTTRqbHJzR0EzMWZNcmpmSHVYYlhPbEkyNnZjX2o4ODc3ONIBeEFVX3lxTE5sVjhGd01pNXowZEVNYTBLa3FkUG1oLU43MEtNQXM3SDVNY1lfS3Bpd0p5R1RUT2Z1Q0FfQjhSeFhTMHEwUlU2Y2FDLVVYZElTMS1GOFEtVjJlZUg4TENxbVlsOVhLdHgtcUhSSEoySmRyc1ZvSlhwcw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 10 Aug 2026 07:46:42 GMT"
-        }
-      ]
-    },
-    {
-      "word": "개소리",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김민석 \"야당의 개소리도 참았는데, 정청래 '선거 승리' 발언은 너무 화나\" - imnews.imbc.com",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9janJTdV9hOThKTHJDSVVKbS1uZURoZUtFeHlEdzg1Zm9MbjNBVkc0eGFtQjl3Y0dLZUhjeWoyOU9PTjBSLVFxakt3Sk1sOWJzQzRjVnYxTTRqbHJzR0EzMWZNcmpmSHVYYlhPbEkyNnZjX2o4ODc3ONIBeEFVX3lxTE5sVjhGd01pNXowZEVNYTBLa3FkUG1oLU43MEtNQXM3SDVNY1lfS3Bpd0p5R1RUT2Z1Q0FfQjhSeFhTMHEwUlU2Y2FDLVVYZElTMS1GOFEtVjJlZUg4TENxbVlsOVhLdHgtcUhSSEoySmRyc1ZvSlhwcw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 10 Aug 2026 07:46:42 GMT"
-        }
-      ]
-    },
-    {
-      "word": "참았는데",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김민석 \"야당의 개소리도 참았는데, 정청래 '선거 승리' 발언은 너무 화나\" - imnews.imbc.com",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9janJTdV9hOThKTHJDSVVKbS1uZURoZUtFeHlEdzg1Zm9MbjNBVkc0eGFtQjl3Y0dLZUhjeWoyOU9PTjBSLVFxakt3Sk1sOWJzQzRjVnYxTTRqbHJzR0EzMWZNcmpmSHVYYlhPbEkyNnZjX2o4ODc3ONIBeEFVX3lxTE5sVjhGd01pNXowZEVNYTBLa3FkUG1oLU43MEtNQXM3SDVNY1lfS3Bpd0p5R1RUT2Z1Q0FfQjhSeFhTMHEwUlU2Y2FDLVVYZElTMS1GOFEtVjJlZUg4TENxbVlsOVhLdHgtcUhSSEoySmRyc1ZvSlhwcw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 10 Aug 2026 07:46:42 GMT"
-        }
-      ]
-    },
-    {
-      "word": "정청래",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김민석 \"야당의 개소리도 참았는데, 정청래 '선거 승리' 발언은 너무 화나\" - imnews.imbc.com",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9janJTdV9hOThKTHJDSVVKbS1uZURoZUtFeHlEdzg1Zm9MbjNBVkc0eGFtQjl3Y0dLZUhjeWoyOU9PTjBSLVFxakt3Sk1sOWJzQzRjVnYxTTRqbHJzR0EzMWZNcmpmSHVYYlhPbEkyNnZjX2o4ODc3ONIBeEFVX3lxTE5sVjhGd01pNXowZEVNYTBLa3FkUG1oLU43MEtNQXM3SDVNY1lfS3Bpd0p5R1RUT2Z1Q0FfQjhSeFhTMHEwUlU2Y2FDLVVYZElTMS1GOFEtVjJlZUg4TENxbVlsOVhLdHgtcUhSSEoySmRyc1ZvSlhwcw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 10 Aug 2026 07:46:42 GMT"
-        }
-      ]
-    },
-    {
-      "word": "선거",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김민석 \"야당의 개소리도 참았는데, 정청래 '선거 승리' 발언은 너무 화나\" - imnews.imbc.com",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9janJTdV9hOThKTHJDSVVKbS1uZURoZUtFeHlEdzg1Zm9MbjNBVkc0eGFtQjl3Y0dLZUhjeWoyOU9PTjBSLVFxakt3Sk1sOWJzQzRjVnYxTTRqbHJzR0EzMWZNcmpmSHVYYlhPbEkyNnZjX2o4ODc3ONIBeEFVX3lxTE5sVjhGd01pNXowZEVNYTBLa3FkUG1oLU43MEtNQXM3SDVNY1lfS3Bpd0p5R1RUT2Z1Q0FfQjhSeFhTMHEwUlU2Y2FDLVVYZElTMS1GOFEtVjJlZUg4TENxbVlsOVhLdHgtcUhSSEoySmRyc1ZvSlhwcw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 10 Aug 2026 07:46:42 GMT"
-        }
-      ]
-    },
-    {
-      "word": "승리",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김민석 \"야당의 개소리도 참았는데, 정청래 '선거 승리' 발언은 너무 화나\" - imnews.imbc.com",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9janJTdV9hOThKTHJDSVVKbS1uZURoZUtFeHlEdzg1Zm9MbjNBVkc0eGFtQjl3Y0dLZUhjeWoyOU9PTjBSLVFxakt3Sk1sOWJzQzRjVnYxTTRqbHJzR0EzMWZNcmpmSHVYYlhPbEkyNnZjX2o4ODc3ONIBeEFVX3lxTE5sVjhGd01pNXowZEVNYTBLa3FkUG1oLU43MEtNQXM3SDVNY1lfS3Bpd0p5R1RUT2Z1Q0FfQjhSeFhTMHEwUlU2Y2FDLVVYZElTMS1GOFEtVjJlZUg4TENxbVlsOVhLdHgtcUhSSEoySmRyc1ZvSlhwcw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 10 Aug 2026 07:46:42 GMT"
-        }
-      ]
-    },
-    {
-      "word": "발언",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김민석 \"야당의 개소리도 참았는데, 정청래 '선거 승리' 발언은 너무 화나\" - imnews.imbc.com",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9janJTdV9hOThKTHJDSVVKbS1uZURoZUtFeHlEdzg1Zm9MbjNBVkc0eGFtQjl3Y0dLZUhjeWoyOU9PTjBSLVFxakt3Sk1sOWJzQzRjVnYxTTRqbHJzR0EzMWZNcmpmSHVYYlhPbEkyNnZjX2o4ODc3ONIBeEFVX3lxTE5sVjhGd01pNXowZEVNYTBLa3FkUG1oLU43MEtNQXM3SDVNY1lfS3Bpd0p5R1RUT2Z1Q0FfQjhSeFhTMHEwUlU2Y2FDLVVYZElTMS1GOFEtVjJlZUg4TENxbVlsOVhLdHgtcUhSSEoySmRyc1ZvSlhwcw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 10 Aug 2026 07:46:42 GMT"
-        }
-      ]
-    },
-    {
-      "word": "너무",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김민석 \"야당의 개소리도 참았는데, 정청래 '선거 승리' 발언은 너무 화나\" - imnews.imbc.com",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9janJTdV9hOThKTHJDSVVKbS1uZURoZUtFeHlEdzg1Zm9MbjNBVkc0eGFtQjl3Y0dLZUhjeWoyOU9PTjBSLVFxakt3Sk1sOWJzQzRjVnYxTTRqbHJzR0EzMWZNcmpmSHVYYlhPbEkyNnZjX2o4ODc3ONIBeEFVX3lxTE5sVjhGd01pNXowZEVNYTBLa3FkUG1oLU43MEtNQXM3SDVNY1lfS3Bpd0p5R1RUT2Z1Q0FfQjhSeFhTMHEwUlU2Y2FDLVVYZElTMS1GOFEtVjJlZUg4TENxbVlsOVhLdHgtcUhSSEoySmRyc1ZvSlhwcw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 10 Aug 2026 07:46:42 GMT"
-        }
-      ]
-    },
-    {
-      "word": "화나",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김민석 \"야당의 개소리도 참았는데, 정청래 '선거 승리' 발언은 너무 화나\" - imnews.imbc.com",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9janJTdV9hOThKTHJDSVVKbS1uZURoZUtFeHlEdzg1Zm9MbjNBVkc0eGFtQjl3Y0dLZUhjeWoyOU9PTjBSLVFxakt3Sk1sOWJzQzRjVnYxTTRqbHJzR0EzMWZNcmpmSHVYYlhPbEkyNnZjX2o4ODc3ONIBeEFVX3lxTE5sVjhGd01pNXowZEVNYTBLa3FkUG1oLU43MEtNQXM3SDVNY1lfS3Bpd0p5R1RUT2Z1Q0FfQjhSeFhTMHEwUlU2Y2FDLVVYZElTMS1GOFEtVjJlZUg4TENxbVlsOVhLdHgtcUhSSEoySmRyc1ZvSlhwcw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 10 Aug 2026 07:46:42 GMT"
-        }
-      ]
-    },
-    {
-      "word": "민주당",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "민주당 내서도 반발…황희 “버스하우스 구상 이유 여하 막론 사과” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Da2laYkdpdVRTU3Vna2I0YlR0bFB1R3BhVEJZT0V4TmJlQ0JqaFg5ZHpIS1p5TGhKd2FCcHAwdVk1cW9fZ2ZWejFjLU1xUi1rdmlVc2VSRWJ3Z9IBX0FVX3lxTE5Gay1WdVlRRDBnU2NrMU5IZTd3bEc4eTE3aHhlOEdCZFlONFpPUW1VQ0xGRWVpX1VOYUVodEZtXzRvVjFTSXZ2bVRkWE85aTBteEgxOGRZcXdWWUU0c0ow?oc=5",
-          "source": "Google News",
-          "published": "Mon, 10 Aug 2026 08:26:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "내서",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "민주당 내서도 반발…황희 “버스하우스 구상 이유 여하 막론 사과” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Da2laYkdpdVRTU3Vna2I0YlR0bFB1R3BhVEJZT0V4TmJlQ0JqaFg5ZHpIS1p5TGhKd2FCcHAwdVk1cW9fZ2ZWejFjLU1xUi1rdmlVc2VSRWJ3Z9IBX0FVX3lxTE5Gay1WdVlRRDBnU2NrMU5IZTd3bEc4eTE3aHhlOEdCZFlONFpPUW1VQ0xGRWVpX1VOYUVodEZtXzRvVjFTSXZ2bVRkWE85aTBteEgxOGRZcXdWWUU0c0ow?oc=5",
-          "source": "Google News",
-          "published": "Mon, 10 Aug 2026 08:26:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "반발황희",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "민주당 내서도 반발…황희 “버스하우스 구상 이유 여하 막론 사과” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Da2laYkdpdVRTU3Vna2I0YlR0bFB1R3BhVEJZT0V4TmJlQ0JqaFg5ZHpIS1p5TGhKd2FCcHAwdVk1cW9fZ2ZWejFjLU1xUi1rdmlVc2VSRWJ3Z9IBX0FVX3lxTE5Gay1WdVlRRDBnU2NrMU5IZTd3bEc4eTE3aHhlOEdCZFlONFpPUW1VQ0xGRWVpX1VOYUVodEZtXzRvVjFTSXZ2bVRkWE85aTBteEgxOGRZcXdWWUU0c0ow?oc=5",
-          "source": "Google News",
-          "published": "Mon, 10 Aug 2026 08:26:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "버스하우스",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "민주당 내서도 반발…황희 “버스하우스 구상 이유 여하 막론 사과” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Da2laYkdpdVRTU3Vna2I0YlR0bFB1R3BhVEJZT0V4TmJlQ0JqaFg5ZHpIS1p5TGhKd2FCcHAwdVk1cW9fZ2ZWejFjLU1xUi1rdmlVc2VSRWJ3Z9IBX0FVX3lxTE5Gay1WdVlRRDBnU2NrMU5IZTd3bEc4eTE3aHhlOEdCZFlONFpPUW1VQ0xGRWVpX1VOYUVodEZtXzRvVjFTSXZ2bVRkWE85aTBteEgxOGRZcXdWWUU0c0ow?oc=5",
-          "source": "Google News",
-          "published": "Mon, 10 Aug 2026 08:26:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "구상",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "민주당 내서도 반발…황희 “버스하우스 구상 이유 여하 막론 사과” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Da2laYkdpdVRTU3Vna2I0YlR0bFB1R3BhVEJZT0V4TmJlQ0JqaFg5ZHpIS1p5TGhKd2FCcHAwdVk1cW9fZ2ZWejFjLU1xUi1rdmlVc2VSRWJ3Z9IBX0FVX3lxTE5Gay1WdVlRRDBnU2NrMU5IZTd3bEc4eTE3aHhlOEdCZFlONFpPUW1VQ0xGRWVpX1VOYUVodEZtXzRvVjFTSXZ2bVRkWE85aTBteEgxOGRZcXdWWUU0c0ow?oc=5",
-          "source": "Google News",
-          "published": "Mon, 10 Aug 2026 08:26:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "여하",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "민주당 내서도 반발…황희 “버스하우스 구상 이유 여하 막론 사과” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Da2laYkdpdVRTU3Vna2I0YlR0bFB1R3BhVEJZT0V4TmJlQ0JqaFg5ZHpIS1p5TGhKd2FCcHAwdVk1cW9fZ2ZWejFjLU1xUi1rdmlVc2VSRWJ3Z9IBX0FVX3lxTE5Gay1WdVlRRDBnU2NrMU5IZTd3bEc4eTE3aHhlOEdCZFlONFpPUW1VQ0xGRWVpX1VOYUVodEZtXzRvVjFTSXZ2bVRkWE85aTBteEgxOGRZcXdWWUU0c0ow?oc=5",
-          "source": "Google News",
-          "published": "Mon, 10 Aug 2026 08:26:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "막론",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "민주당 내서도 반발…황희 “버스하우스 구상 이유 여하 막론 사과” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Da2laYkdpdVRTU3Vna2I0YlR0bFB1R3BhVEJZT0V4TmJlQ0JqaFg5ZHpIS1p5TGhKd2FCcHAwdVk1cW9fZ2ZWejFjLU1xUi1rdmlVc2VSRWJ3Z9IBX0FVX3lxTE5Gay1WdVlRRDBnU2NrMU5IZTd3bEc4eTE3aHhlOEdCZFlONFpPUW1VQ0xGRWVpX1VOYUVodEZtXzRvVjFTSXZ2bVRkWE85aTBteEgxOGRZcXdWWUU0c0ow?oc=5",
-          "source": "Google News",
-          "published": "Mon, 10 Aug 2026 08:26:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "사과",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "민주당 내서도 반발…황희 “버스하우스 구상 이유 여하 막론 사과” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Da2laYkdpdVRTU3Vna2I0YlR0bFB1R3BhVEJZT0V4TmJlQ0JqaFg5ZHpIS1p5TGhKd2FCcHAwdVk1cW9fZ2ZWejFjLU1xUi1rdmlVc2VSRWJ3Z9IBX0FVX3lxTE5Gay1WdVlRRDBnU2NrMU5IZTd3bEc4eTE3aHhlOEdCZFlONFpPUW1VQ0xGRWVpX1VOYUVodEZtXzRvVjFTSXZ2bVRkWE85aTBteEgxOGRZcXdWWUU0c0ow?oc=5",
-          "source": "Google News",
-          "published": "Mon, 10 Aug 2026 08:26:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "제15호",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[속보] 제15호 태풍 `찬홈` 이동경로, 日 지나 동해로…돌핀·페이러우는? - 부산일보",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56RnFJY24zazVNMUNxeG85WVc3UTV4UjlSdi0zNTZ0V1hQbnRnWVJOS1hBRW93SXJsdUN2dzBiNW9RTFA2M0VvMHViTFc0SXZTc21fSXZiZVNPR0ZWYnJORE1ma081aUlzTm45T3pwVFJva3FD?oc=5",
-          "source": "Google News",
-          "published": "Mon, 10 Aug 2026 00:26:19 GMT"
-        }
-      ]
-    },
-    {
-      "word": "태풍",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[속보] 제15호 태풍 `찬홈` 이동경로, 日 지나 동해로…돌핀·페이러우는? - 부산일보",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56RnFJY24zazVNMUNxeG85WVc3UTV4UjlSdi0zNTZ0V1hQbnRnWVJOS1hBRW93SXJsdUN2dzBiNW9RTFA2M0VvMHViTFc0SXZTc21fSXZiZVNPR0ZWYnJORE1ma081aUlzTm45T3pwVFJva3FD?oc=5",
-          "source": "Google News",
-          "published": "Mon, 10 Aug 2026 00:26:19 GMT"
-        }
-      ]
-    },
-    {
-      "word": "찬홈",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[속보] 제15호 태풍 `찬홈` 이동경로, 日 지나 동해로…돌핀·페이러우는? - 부산일보",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56RnFJY24zazVNMUNxeG85WVc3UTV4UjlSdi0zNTZ0V1hQbnRnWVJOS1hBRW93SXJsdUN2dzBiNW9RTFA2M0VvMHViTFc0SXZTc21fSXZiZVNPR0ZWYnJORE1ma081aUlzTm45T3pwVFJva3FD?oc=5",
-          "source": "Google News",
-          "published": "Mon, 10 Aug 2026 00:26:19 GMT"
-        }
-      ]
-    },
-    {
-      "word": "이동경",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[속보] 제15호 태풍 `찬홈` 이동경로, 日 지나 동해로…돌핀·페이러우는? - 부산일보",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56RnFJY24zazVNMUNxeG85WVc3UTV4UjlSdi0zNTZ0V1hQbnRnWVJOS1hBRW93SXJsdUN2dzBiNW9RTFA2M0VvMHViTFc0SXZTc21fSXZiZVNPR0ZWYnJORE1ma081aUlzTm45T3pwVFJva3FD?oc=5",
-          "source": "Google News",
-          "published": "Mon, 10 Aug 2026 00:26:19 GMT"
-        }
-      ]
-    },
-    {
-      "word": "지나",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[속보] 제15호 태풍 `찬홈` 이동경로, 日 지나 동해로…돌핀·페이러우는? - 부산일보",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56RnFJY24zazVNMUNxeG85WVc3UTV4UjlSdi0zNTZ0V1hQbnRnWVJOS1hBRW93SXJsdUN2dzBiNW9RTFA2M0VvMHViTFc0SXZTc21fSXZiZVNPR0ZWYnJORE1ma081aUlzTm45T3pwVFJva3FD?oc=5",
-          "source": "Google News",
-          "published": "Mon, 10 Aug 2026 00:26:19 GMT"
-        }
-      ]
-    },
-    {
-      "word": "동해로돌핀페이러우",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[속보] 제15호 태풍 `찬홈` 이동경로, 日 지나 동해로…돌핀·페이러우는? - 부산일보",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56RnFJY24zazVNMUNxeG85WVc3UTV4UjlSdi0zNTZ0V1hQbnRnWVJOS1hBRW93SXJsdUN2dzBiNW9RTFA2M0VvMHViTFc0SXZTc21fSXZiZVNPR0ZWYnJORE1ma081aUlzTm45T3pwVFJva3FD?oc=5",
-          "source": "Google News",
-          "published": "Mon, 10 Aug 2026 00:26:19 GMT"
-        }
-      ]
-    },
-    {
-      "word": "김건희",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김건희 “영부인은 옷 색깔마다 클러치백 필수…짝퉁 많이 샀다” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE94Nm9sLWpTdEdKa1U3dUlhTGpsRV83SHVxRGREREtMMkhPdmdzZlYxWFhVOVZCT0dHaTlvSEVrX3hNUm5oNzgwbVhBdkNTNUVaX2VGa19IX2hsWjNiRkFqS1R2UjE3aktOY1E3QTZYbF96UQ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 10 Aug 2026 07:39:00 GMT"
+          "published": "Mon, 10 Aug 2026 06:42:00 GMT"
         }
       ]
     },
@@ -489,49 +271,309 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "김건희 “영부인은 옷 색깔마다 클러치백 필수…짝퉁 많이 샀다” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE94Nm9sLWpTdEdKa1U3dUlhTGpsRV83SHVxRGREREtMMkhPdmdzZlYxWFhVOVZCT0dHaTlvSEVrX3hNUm5oNzgwbVhBdkNTNUVaX2VGa19IX2hsWjNiRkFqS1R2UjE3aktOY1E3QTZYbF96UQ?oc=5",
+          "title": "“검사님, 그간 영부인 수사 다 해봤나요?”…김건희, 로저비비에 수수 신문 과정서 특검에 격앙 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jSENhdlp6aHc1MmZUb0hIYnZjaFI3ZTZmOXBTV0c0UW9XTkdKZC1IUnUzYm1hNmxZN3c3SG40MUtqRlpaS3dfOVNnWmdYMEtBM0R4TllEeDRSSkhWVlJvaVNsR1kxd3ZKQWMzSUZkSzJsUmFHRVHSAWZBVV95cUxPbzc0QUVEczBJamZOR1hmcVFWQUxNUUNTOHN0SXRqSzh5NnpQcHhvdW13bVJILS1hWDlYa1FqcG1lUjhCR3RtSHk5TEpFN3ZrcFBTc093OUtyZVlUYTFUVG9Kd1J1aFE?oc=5",
           "source": "Google News",
-          "published": "Mon, 10 Aug 2026 07:39:00 GMT"
+          "published": "Mon, 10 Aug 2026 06:42:00 GMT"
         }
       ]
     },
     {
-      "word": "색깔마다",
+      "word": "수사",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김건희 “영부인은 옷 색깔마다 클러치백 필수…짝퉁 많이 샀다” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE94Nm9sLWpTdEdKa1U3dUlhTGpsRV83SHVxRGREREtMMkhPdmdzZlYxWFhVOVZCT0dHaTlvSEVrX3hNUm5oNzgwbVhBdkNTNUVaX2VGa19IX2hsWjNiRkFqS1R2UjE3aktOY1E3QTZYbF96UQ?oc=5",
+          "title": "“검사님, 그간 영부인 수사 다 해봤나요?”…김건희, 로저비비에 수수 신문 과정서 특검에 격앙 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jSENhdlp6aHc1MmZUb0hIYnZjaFI3ZTZmOXBTV0c0UW9XTkdKZC1IUnUzYm1hNmxZN3c3SG40MUtqRlpaS3dfOVNnWmdYMEtBM0R4TllEeDRSSkhWVlJvaVNsR1kxd3ZKQWMzSUZkSzJsUmFHRVHSAWZBVV95cUxPbzc0QUVEczBJamZOR1hmcVFWQUxNUUNTOHN0SXRqSzh5NnpQcHhvdW13bVJILS1hWDlYa1FqcG1lUjhCR3RtSHk5TEpFN3ZrcFBTc093OUtyZVlUYTFUVG9Kd1J1aFE?oc=5",
           "source": "Google News",
-          "published": "Mon, 10 Aug 2026 07:39:00 GMT"
+          "published": "Mon, 10 Aug 2026 06:42:00 GMT"
         }
       ]
     },
     {
-      "word": "클러치백",
+      "word": "해봤나요김건희",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김건희 “영부인은 옷 색깔마다 클러치백 필수…짝퉁 많이 샀다” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE94Nm9sLWpTdEdKa1U3dUlhTGpsRV83SHVxRGREREtMMkhPdmdzZlYxWFhVOVZCT0dHaTlvSEVrX3hNUm5oNzgwbVhBdkNTNUVaX2VGa19IX2hsWjNiRkFqS1R2UjE3aktOY1E3QTZYbF96UQ?oc=5",
+          "title": "“검사님, 그간 영부인 수사 다 해봤나요?”…김건희, 로저비비에 수수 신문 과정서 특검에 격앙 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jSENhdlp6aHc1MmZUb0hIYnZjaFI3ZTZmOXBTV0c0UW9XTkdKZC1IUnUzYm1hNmxZN3c3SG40MUtqRlpaS3dfOVNnWmdYMEtBM0R4TllEeDRSSkhWVlJvaVNsR1kxd3ZKQWMzSUZkSzJsUmFHRVHSAWZBVV95cUxPbzc0QUVEczBJamZOR1hmcVFWQUxNUUNTOHN0SXRqSzh5NnpQcHhvdW13bVJILS1hWDlYa1FqcG1lUjhCR3RtSHk5TEpFN3ZrcFBTc093OUtyZVlUYTFUVG9Kd1J1aFE?oc=5",
           "source": "Google News",
-          "published": "Mon, 10 Aug 2026 07:39:00 GMT"
+          "published": "Mon, 10 Aug 2026 06:42:00 GMT"
         }
       ]
     },
     {
-      "word": "필수짝퉁",
+      "word": "로저비비",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김건희 “영부인은 옷 색깔마다 클러치백 필수…짝퉁 많이 샀다” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE94Nm9sLWpTdEdKa1U3dUlhTGpsRV83SHVxRGREREtMMkhPdmdzZlYxWFhVOVZCT0dHaTlvSEVrX3hNUm5oNzgwbVhBdkNTNUVaX2VGa19IX2hsWjNiRkFqS1R2UjE3aktOY1E3QTZYbF96UQ?oc=5",
+          "title": "“검사님, 그간 영부인 수사 다 해봤나요?”…김건희, 로저비비에 수수 신문 과정서 특검에 격앙 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jSENhdlp6aHc1MmZUb0hIYnZjaFI3ZTZmOXBTV0c0UW9XTkdKZC1IUnUzYm1hNmxZN3c3SG40MUtqRlpaS3dfOVNnWmdYMEtBM0R4TllEeDRSSkhWVlJvaVNsR1kxd3ZKQWMzSUZkSzJsUmFHRVHSAWZBVV95cUxPbzc0QUVEczBJamZOR1hmcVFWQUxNUUNTOHN0SXRqSzh5NnpQcHhvdW13bVJILS1hWDlYa1FqcG1lUjhCR3RtSHk5TEpFN3ZrcFBTc093OUtyZVlUYTFUVG9Kd1J1aFE?oc=5",
           "source": "Google News",
-          "published": "Mon, 10 Aug 2026 07:39:00 GMT"
+          "published": "Mon, 10 Aug 2026 06:42:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "수수",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "“검사님, 그간 영부인 수사 다 해봤나요?”…김건희, 로저비비에 수수 신문 과정서 특검에 격앙 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jSENhdlp6aHc1MmZUb0hIYnZjaFI3ZTZmOXBTV0c0UW9XTkdKZC1IUnUzYm1hNmxZN3c3SG40MUtqRlpaS3dfOVNnWmdYMEtBM0R4TllEeDRSSkhWVlJvaVNsR1kxd3ZKQWMzSUZkSzJsUmFHRVHSAWZBVV95cUxPbzc0QUVEczBJamZOR1hmcVFWQUxNUUNTOHN0SXRqSzh5NnpQcHhvdW13bVJILS1hWDlYa1FqcG1lUjhCR3RtSHk5TEpFN3ZrcFBTc093OUtyZVlUYTFUVG9Kd1J1aFE?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 06:42:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "신문",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "“검사님, 그간 영부인 수사 다 해봤나요?”…김건희, 로저비비에 수수 신문 과정서 특검에 격앙 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jSENhdlp6aHc1MmZUb0hIYnZjaFI3ZTZmOXBTV0c0UW9XTkdKZC1IUnUzYm1hNmxZN3c3SG40MUtqRlpaS3dfOVNnWmdYMEtBM0R4TllEeDRSSkhWVlJvaVNsR1kxd3ZKQWMzSUZkSzJsUmFHRVHSAWZBVV95cUxPbzc0QUVEczBJamZOR1hmcVFWQUxNUUNTOHN0SXRqSzh5NnpQcHhvdW13bVJILS1hWDlYa1FqcG1lUjhCR3RtSHk5TEpFN3ZrcFBTc093OUtyZVlUYTFUVG9Kd1J1aFE?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 06:42:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "과정서",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "“검사님, 그간 영부인 수사 다 해봤나요?”…김건희, 로저비비에 수수 신문 과정서 특검에 격앙 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jSENhdlp6aHc1MmZUb0hIYnZjaFI3ZTZmOXBTV0c0UW9XTkdKZC1IUnUzYm1hNmxZN3c3SG40MUtqRlpaS3dfOVNnWmdYMEtBM0R4TllEeDRSSkhWVlJvaVNsR1kxd3ZKQWMzSUZkSzJsUmFHRVHSAWZBVV95cUxPbzc0QUVEczBJamZOR1hmcVFWQUxNUUNTOHN0SXRqSzh5NnpQcHhvdW13bVJILS1hWDlYa1FqcG1lUjhCR3RtSHk5TEpFN3ZrcFBTc093OUtyZVlUYTFUVG9Kd1J1aFE?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 06:42:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "특검",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "“검사님, 그간 영부인 수사 다 해봤나요?”…김건희, 로저비비에 수수 신문 과정서 특검에 격앙 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jSENhdlp6aHc1MmZUb0hIYnZjaFI3ZTZmOXBTV0c0UW9XTkdKZC1IUnUzYm1hNmxZN3c3SG40MUtqRlpaS3dfOVNnWmdYMEtBM0R4TllEeDRSSkhWVlJvaVNsR1kxd3ZKQWMzSUZkSzJsUmFHRVHSAWZBVV95cUxPbzc0QUVEczBJamZOR1hmcVFWQUxNUUNTOHN0SXRqSzh5NnpQcHhvdW13bVJILS1hWDlYa1FqcG1lUjhCR3RtSHk5TEpFN3ZrcFBTc093OUtyZVlUYTFUVG9Kd1J1aFE?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 06:42:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "격앙",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "“검사님, 그간 영부인 수사 다 해봤나요?”…김건희, 로저비비에 수수 신문 과정서 특검에 격앙 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jSENhdlp6aHc1MmZUb0hIYnZjaFI3ZTZmOXBTV0c0UW9XTkdKZC1IUnUzYm1hNmxZN3c3SG40MUtqRlpaS3dfOVNnWmdYMEtBM0R4TllEeDRSSkhWVlJvaVNsR1kxd3ZKQWMzSUZkSzJsUmFHRVHSAWZBVV95cUxPbzc0QUVEczBJamZOR1hmcVFWQUxNUUNTOHN0SXRqSzh5NnpQcHhvdW13bVJILS1hWDlYa1FqcG1lUjhCR3RtSHk5TEpFN3ZrcFBTc093OUtyZVlUYTFUVG9Kd1J1aFE?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 06:42:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "한남",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "'한남 더 휠' 버스 밈 대폭발‥\"상처드려\" 엎드린 황희 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10dF9rYWlGdkhMUlp1R3FUWGJGdy0tNWZuREpNMzdBWHVWdkFlNndnSHdwX042c2lXY1czODNfTjFGdHR0MkU1aVhmZFRwUWw0eWd4VExvdnpqNTdZZmo2YWVEbnhINm01RTRYYmo4cjAtTDRHX3VqONIBeEFVX3lxTFBoY3pUMlMwNUxYQ2plbXRFdHQzeWJvZmd5cnpxUDdhbmtHdUVpRWF0dXE1Zi1hNVdnbUpZMnVaU2J5dDNSZW5BaFVkMDdubHg1T3BjSThNS0IxQmlaU2NaZmtJbjM1cTlRelRvVjBwUFZJM3paUGRLTw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 07:37:46 GMT"
+        }
+      ]
+    },
+    {
+      "word": "버스",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "'한남 더 휠' 버스 밈 대폭발‥\"상처드려\" 엎드린 황희 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10dF9rYWlGdkhMUlp1R3FUWGJGdy0tNWZuREpNMzdBWHVWdkFlNndnSHdwX042c2lXY1czODNfTjFGdHR0MkU1aVhmZFRwUWw0eWd4VExvdnpqNTdZZmo2YWVEbnhINm01RTRYYmo4cjAtTDRHX3VqONIBeEFVX3lxTFBoY3pUMlMwNUxYQ2plbXRFdHQzeWJvZmd5cnpxUDdhbmtHdUVpRWF0dXE1Zi1hNVdnbUpZMnVaU2J5dDNSZW5BaFVkMDdubHg1T3BjSThNS0IxQmlaU2NaZmtJbjM1cTlRelRvVjBwUFZJM3paUGRLTw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 07:37:46 GMT"
+        }
+      ]
+    },
+    {
+      "word": "대폭발상처드려",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "'한남 더 휠' 버스 밈 대폭발‥\"상처드려\" 엎드린 황희 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10dF9rYWlGdkhMUlp1R3FUWGJGdy0tNWZuREpNMzdBWHVWdkFlNndnSHdwX042c2lXY1czODNfTjFGdHR0MkU1aVhmZFRwUWw0eWd4VExvdnpqNTdZZmo2YWVEbnhINm01RTRYYmo4cjAtTDRHX3VqONIBeEFVX3lxTFBoY3pUMlMwNUxYQ2plbXRFdHQzeWJvZmd5cnpxUDdhbmtHdUVpRWF0dXE1Zi1hNVdnbUpZMnVaU2J5dDNSZW5BaFVkMDdubHg1T3BjSThNS0IxQmlaU2NaZmtJbjM1cTlRelRvVjBwUFZJM3paUGRLTw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 07:37:46 GMT"
+        }
+      ]
+    },
+    {
+      "word": "엎드린",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "'한남 더 휠' 버스 밈 대폭발‥\"상처드려\" 엎드린 황희 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10dF9rYWlGdkhMUlp1R3FUWGJGdy0tNWZuREpNMzdBWHVWdkFlNndnSHdwX042c2lXY1czODNfTjFGdHR0MkU1aVhmZFRwUWw0eWd4VExvdnpqNTdZZmo2YWVEbnhINm01RTRYYmo4cjAtTDRHX3VqONIBeEFVX3lxTFBoY3pUMlMwNUxYQ2plbXRFdHQzeWJvZmd5cnpxUDdhbmtHdUVpRWF0dXE1Zi1hNVdnbUpZMnVaU2J5dDNSZW5BaFVkMDdubHg1T3BjSThNS0IxQmlaU2NaZmtJbjM1cTlRelRvVjBwUFZJM3paUGRLTw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 07:37:46 GMT"
+        }
+      ]
+    },
+    {
+      "word": "황희",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "'한남 더 휠' 버스 밈 대폭발‥\"상처드려\" 엎드린 황희 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10dF9rYWlGdkhMUlp1R3FUWGJGdy0tNWZuREpNMzdBWHVWdkFlNndnSHdwX042c2lXY1czODNfTjFGdHR0MkU1aVhmZFRwUWw0eWd4VExvdnpqNTdZZmo2YWVEbnhINm01RTRYYmo4cjAtTDRHX3VqONIBeEFVX3lxTFBoY3pUMlMwNUxYQ2plbXRFdHQzeWJvZmd5cnpxUDdhbmtHdUVpRWF0dXE1Zi1hNVdnbUpZMnVaU2J5dDNSZW5BaFVkMDdubHg1T3BjSThNS0IxQmlaU2NaZmtJbjM1cTlRelRvVjBwUFZJM3paUGRLTw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 07:37:46 GMT"
+        }
+      ]
+    },
+    {
+      "word": "선관위",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "선관위 “투표율 공개 1→2시간 단위 조정…전수조사 대신 표본조사” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zN2p6V0R5cnJDLTRubll3cVNnNjkzQnVUbGpJY1IwS1RyVmF0YUJkMHhnSzZ2REpUMTVQWW5TWmxEMmtnbmxRVkVCcUNwWFYtYkt1Z3RlRmlLdHFibE9qeThENHUxWlliZGQ1aHZZRkFuWVBL?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 07:55:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "투표율",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "선관위 “투표율 공개 1→2시간 단위 조정…전수조사 대신 표본조사” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zN2p6V0R5cnJDLTRubll3cVNnNjkzQnVUbGpJY1IwS1RyVmF0YUJkMHhnSzZ2REpUMTVQWW5TWmxEMmtnbmxRVkVCcUNwWFYtYkt1Z3RlRmlLdHFibE9qeThENHUxWlliZGQ1aHZZRkFuWVBL?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 07:55:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "12시간",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "선관위 “투표율 공개 1→2시간 단위 조정…전수조사 대신 표본조사” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zN2p6V0R5cnJDLTRubll3cVNnNjkzQnVUbGpJY1IwS1RyVmF0YUJkMHhnSzZ2REpUMTVQWW5TWmxEMmtnbmxRVkVCcUNwWFYtYkt1Z3RlRmlLdHFibE9qeThENHUxWlliZGQ1aHZZRkFuWVBL?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 07:55:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "단위",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "선관위 “투표율 공개 1→2시간 단위 조정…전수조사 대신 표본조사” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zN2p6V0R5cnJDLTRubll3cVNnNjkzQnVUbGpJY1IwS1RyVmF0YUJkMHhnSzZ2REpUMTVQWW5TWmxEMmtnbmxRVkVCcUNwWFYtYkt1Z3RlRmlLdHFibE9qeThENHUxWlliZGQ1aHZZRkFuWVBL?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 07:55:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "조정전수조사",
+      "count": 1,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "선관위 “투표율 공개 1→2시간 단위 조정…전수조사 대신 표본조사” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zN2p6V0R5cnJDLTRubll3cVNnNjkzQnVUbGpJY1IwS1RyVmF0YUJkMHhnSzZ2REpUMTVQWW5TWmxEMmtnbmxRVkVCcUNwWFYtYkt1Z3RlRmlLdHFibE9qeThENHUxWlliZGQ1aHZZRkFuWVBL?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 07:55:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "대신",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "선관위 “투표율 공개 1→2시간 단위 조정…전수조사 대신 표본조사” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zN2p6V0R5cnJDLTRubll3cVNnNjkzQnVUbGpJY1IwS1RyVmF0YUJkMHhnSzZ2REpUMTVQWW5TWmxEMmtnbmxRVkVCcUNwWFYtYkt1Z3RlRmlLdHFibE9qeThENHUxWlliZGQ1aHZZRkFuWVBL?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 07:55:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "표본조사",
+      "count": 1,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "선관위 “투표율 공개 1→2시간 단위 조정…전수조사 대신 표본조사” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zN2p6V0R5cnJDLTRubll3cVNnNjkzQnVUbGpJY1IwS1RyVmF0YUJkMHhnSzZ2REpUMTVQWW5TWmxEMmtnbmxRVkVCcUNwWFYtYkt1Z3RlRmlLdHFibE9qeThENHUxWlliZGQ1aHZZRkFuWVBL?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 07:55:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "합의",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "\"트럼프, '핵 합의 없는 종전'도 검토\"‥이란전 출구 모색 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YSWg0aGxOU0RRVV9NWDlHTjNmVUtDcXl2NFlUR01BMl80Vmt6Q0E3OVlJVkQ3UGJfbWU4azg5YUp0NmZaajNzWWdOZW9vbXJEQzNWS2ZiMDVqWkJBNG5XYWZwOUNyRVlUOWVhenNKaXktNzJ10gF0QVVfeXFMT0czLTBack9WMXp4VmRNYXdGcExLSU5mVkVIaVhsUUlFeGFDSm52cDFyU0VnZTBEbDBnRlpldXdJUHI0WnE0RERSYjBLS2JoZV9oTkdaY196NmoyY2JpZHQtay0ycmdVQ3Q0eV80d2JZb3YtMkM?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 06:50:12 GMT"
+        }
+      ]
+    },
+    {
+      "word": "없는",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "\"트럼프, '핵 합의 없는 종전'도 검토\"‥이란전 출구 모색 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YSWg0aGxOU0RRVV9NWDlHTjNmVUtDcXl2NFlUR01BMl80Vmt6Q0E3OVlJVkQ3UGJfbWU4azg5YUp0NmZaajNzWWdOZW9vbXJEQzNWS2ZiMDVqWkJBNG5XYWZwOUNyRVlUOWVhenNKaXktNzJ10gF0QVVfeXFMT0czLTBack9WMXp4VmRNYXdGcExLSU5mVkVIaVhsUUlFeGFDSm52cDFyU0VnZTBEbDBnRlpldXdJUHI0WnE0RERSYjBLS2JoZV9oTkdaY196NmoyY2JpZHQtay0ycmdVQ3Q0eV80d2JZb3YtMkM?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 06:50:12 GMT"
+        }
+      ]
+    },
+    {
+      "word": "검토이란전",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "\"트럼프, '핵 합의 없는 종전'도 검토\"‥이란전 출구 모색 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YSWg0aGxOU0RRVV9NWDlHTjNmVUtDcXl2NFlUR01BMl80Vmt6Q0E3OVlJVkQ3UGJfbWU4azg5YUp0NmZaajNzWWdOZW9vbXJEQzNWS2ZiMDVqWkJBNG5XYWZwOUNyRVlUOWVhenNKaXktNzJ10gF0QVVfeXFMT0czLTBack9WMXp4VmRNYXdGcExLSU5mVkVIaVhsUUlFeGFDSm52cDFyU0VnZTBEbDBnRlpldXdJUHI0WnE0RERSYjBLS2JoZV9oTkdaY196NmoyY2JpZHQtay0ycmdVQ3Q0eV80d2JZb3YtMkM?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 06:50:12 GMT"
         }
       ]
     }
