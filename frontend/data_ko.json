@@ -1,172 +1,243 @@
 {
   "language": "ko",
-  "last_updated": 1786401979.8875034,
+  "last_updated": 1786405277.0097828,
   "count": 40,
   "trends": [
+    {
+      "word": "대통령",
+      "count": 2,
+      "category": "PERSON",
+      "articles": [
+        {
+          "title": "李대통령 \"호남 반도체 전격전\"…軍공항 2028년까지 옮긴다 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WMWd2SldyZVdzS2RnY0xwcDAyMklqYS1uLVAwOTZzNjFzU0FXMkJ4UlVxaURZeDlkMHFPajBMUGU0bkZFaEV4ZnhsdmRPZjJiNlZyc1BCNGlrZw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 05:23:08 GMT"
+        },
+        {
+          "title": "트럼프 대통령, 이란에 ‘배상’ 요구 - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc1hJVWM3NUR6Yk5Rb1dXeWQ1aG4zMEFmRDdHdjNRTmQ3YndYQWlLbDlKM3luTk1vU1J0VjJuODRJSmM3T1B0aF9DUGVVcFZQdlItaWdfa3RWNnkwM2llYTFVUVdmTmlQWnBkN3Y3REFvZEpYM09jb3B6RUtkS1NsOElkOVhWaUVKUzZsT2VCNkhSX2ZVM2NETlRlRdIBngFBVV95cUxQM29RNkpSZEdjeGNMSTZlRmZiTm1BZ1BYd1ptX0I1X29zYmdTYVNrSHlEelQ2bm1Zc3Vtd2Y3Z2RLRkhwTnlsMXBTNnF5dXdCU2xNdlpHTlV5SjVkZmp3MUlad3RFRWNKN191VTU3LTVtR1hPTHJrMTRxUDZYdkpNVklRcnA1VGlQRDkzUDRIcHhZSXd5LXdobEZ1VWJ6dw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 20:44:30 GMT"
+        }
+      ]
+    },
     {
       "word": "호남",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
+          "title": "李대통령 \"호남 반도체 전격전\"…軍공항 2028년까지 옮긴다 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WMWd2SldyZVdzS2RnY0xwcDAyMklqYS1uLVAwOTZzNjFzU0FXMkJ4UlVxaURZeDlkMHFPajBMUGU0bkZFaEV4ZnhsdmRPZjJiNlZyc1BCNGlrZw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 05:23:08 GMT"
+        },
+        {
           "title": "김민석 호남 - 정청래 수도권 “우위”…71% 승부처 ‘과반’ 총력전 - hani.co.kr",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9leExWanJUWDcyX3R3N001YW9jdmRHc3pfN3g5a0l3Tk1SRVFkQVBHRnlIZmpLSUtTZnhhYVU4ZTQwcEJrdVlBdXEzUEtRZ2VhalZnR0NUOFZLSHhncGx1c0tVQkZKVV9EdF96WkpRNUVDX3dC?oc=5",
           "source": "Google News",
           "published": "Mon, 10 Aug 2026 13:11:00 GMT"
-        },
-        {
-          "title": "11일부터 호남 당원 투표 개시…김민석 “메가프로젝트 1순위 추진”, 정청래 “당을 배신한 적 없다” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fSHJzQ3NBUDBsVERiTXI3WHNQa0lHSk90ODY2TFBKVUdJZlhzWTk5aV9wQVh3eVlPb1N2M1l5Tl9FZlJuc3ZwQnpiSjVDc1RYN3U5YkRwLU1id9IBX0FVX3lxTFBSY0ViS0dYUzVGVFNRRTBBLVg3VU5ibFJzUVVfR3NpbXkzbTdlOTBJWHRNRWg1dndJOG5Td3hIQ1RqTlpVZGpnMFNjalVFS0ZQcENuUm5qN3Q5dmE5WUlZ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 10 Aug 2026 10:12:00 GMT"
         }
       ]
     },
     {
-      "word": "선택",
+      "word": "수사",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "하나뿐인 병상, 청년과 노인 중 누구를 살릴 것인가···다음 팬데믹의 ‘윤리적 선택’ 시민에게 물었다 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RTy0xQThTRWp0Vkpxa3hDSHRKNEdjSV9lVXlHZDZrd3M1dGhrWE5qdnRHbWQ2TkJPQ2FqdnRaNTNfaVB0b0RUb0c5bDA3cFVoNHBQSHpNMGZCQdIBX0FVX3lxTE9aTEJ0cUhELWxlWk5UQnVjbzlZRHREdmpERlM3aXpjdTdXazdXOEREMGZKajNoUGdFdEFrS2l3Yi1MSDJ6bUxMQ0dMYkQ5YzRBZFlvWWZSQ0VhZFhJMTJZ?oc=5",
+          "title": "김건희, 명품 선물 추궁받자... \"다른 영부인들 수사는 다 해봤냐\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQnFmdE1TbHhCRy14YnNrYk1nRno2MUFVOXFNcGV1RjRaOTJ1WU1UNld3N3hlZ244STgtUklOeFBKVzVvMUxVVzlsVEpjblVsYWpYRnk5OXFvZWJrclJhNmMtR0RCR200OHQxOHdRVi1GeWNBb1BWeDNacEdHSFpySDVGekthalk?oc=5",
           "source": "Google News",
-          "published": "Mon, 10 Aug 2026 21:00:00 GMT"
+          "published": "Mon, 10 Aug 2026 08:33:51 GMT"
         },
         {
-          "title": "\"빛으로 원하는 뇌회로만 켠다\"... 적외선만으로 선택 자극하는 초경량 무선 신경조절 기술 개발 - 특허뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1VdVVuZXlmZlBCTHVlcnRsQnpRSzVnX1BvZ1VoTjJWaDVmcDVRZHNYLWlIV3JlNzhKZC0zMk5UaGlCNk9uM1cycg?oc=5",
+          "title": "축구협회 ‘성 접대’ 15년 전인데…지금 수사 가능할까? - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrRW9HZ0lJX1VXX3BUZXRlREE5TjJVSHBJVEl4OFF6cmkyMmFVeFBwb3c1U1JWYTB6al9QREg4eDRoUmNleU1QWWZpVUlIN2s?oc=5",
           "source": "Google News",
-          "published": "Mon, 10 Aug 2026 05:37:00 GMT"
+          "published": "Mon, 10 Aug 2026 22:03:05 GMT"
         }
       ]
     },
     {
-      "word": "공격",
+      "word": "아파트",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "우크라이나 드론, 러시아 석유 허브 공격 ‘13명 사망’…러시아 대법원 ‘반전 정당 의회 선거’ 금지 - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWDVpYVNDaExsYk5JNU12UXVuQ2FXNnVXcFpVd3FVNDU2cGVmNmlaOVJOSmp6dEtjRWVKY2V1RUZyX1U1cGVMNWpEQXFrd2ZTRExRLWVrbGt3WnRsZHhuX0lzSE5MZ05FYS0wUXlmcWtBUGZOZHVvemEzUlYyZS1uX3JVT3BtWHNkMGdTNzNCeFJfVDJUME9lZXQwS1BpbDhKSWg3akdEcU03cEVsVlVSZ0luRjIzOHpvaEJqOW1nZWJfVExXYzJMdUhXUFhIS3NNWFJnVlF3OER4bWtGMEdnRkhHVzJOd9IB6AFBVV95cUxNRGFPVGdOLWNhTHJNamNhMzVlR01kbUpMSUpwdmJ0UVZPVEI5RlZINmJFRHpmM3R6b0RVSVpmXy1HTWFkbFJYV3Jic1ZNLTAxWmRCSnNDcG10ay1kQVVwSDdlUGZNeVNzSHA0RGw0N3dDRjNaMDlYaHJYZTNTZmNqS0pGNk1paTU3Q3YtQjFyM2lnTFVSalJENWw1c1k4LVhDNVJkOG5IYXNueEVEd2lLR19hRWtzWVNEQ3FxWURlVjZtNlpTakJHLUdVdVd6OTg3NGQ2ZUVQblZuM29hWTgwckpyWEt5b0dm?oc=5",
+          "title": "\"공원 없애고 아파트만 물려주나\"…용산어린이정원 주택공급 반발 [르포] - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12azlBTGN1Z1FUMnJZemdPSDRGRW5jdnNCMEZsR3BGTmtRZXllYkUzMzdvRnh5cFNoLS1wTUtvek9oNGw1WkFtblhUdkd1TzA?oc=5",
           "source": "Google News",
-          "published": "Mon, 10 Aug 2026 20:46:04 GMT"
+          "published": "Mon, 10 Aug 2026 21:04:05 GMT"
         },
         {
-          "title": "\"공격 지역 어디든\" 시메오네의 '이강인 활용법', 첫 경기서 얼마나 나왔나 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONFdqelVCMHktS0VWZTJwOFB1b0s2OHJoQUJCVXlaWEVicHRCeDN5WVU4cmc3bWo3cXZnRmtaZExVNUxObkFhYkg2QldhWGNNeEpJM2h6NnRvbmxhejNFV2VTdmZCZkxkZ0x3OW1nSGJZZUlORzg2ZklIQUNkWkE1X2ZSaGlHM1VJQ2pZ?oc=5",
+          "title": "아파트 잔금대출 풀었지만 가뭄 지속… 속타는 실수요자 - 조선비즈 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcHpiLU1wYjlCcEItTHF2TXF1eUR2X3ZWMWV5d21KZjlQdUNMaG5FZEVfREdPSzIxU3RxWGF2M1ctbGRURUtyWWw5M21xT1lHN3VDUWsyNHlPZTlQTVJsX09IRlVZSkNCTS1oTm0yWVRXNDFLV2tCaG54MFFINUxlSdIBlAFBVV95cUxNbi02YnJPZ3c1WGMzbWJHVHRjRUlFUmR3a1p1bzYyWTFLWlpyNFJTbTBrWFFjZTB6QlE4M1Zwa2M1QWxucWNkbE5qclN6YXV4eEdzZ2NXOXN4RlgtT3BZa3k5aDNjQnF5QXBKU2lHTS1HdUVKX2RjNE1sa1lmOUVUOHpHZllRT0pvRnAyaVZmTFNYRFpG?oc=5",
           "source": "Google News",
-          "published": "Mon, 10 Aug 2026 19:54:00 GMT"
+          "published": "Mon, 10 Aug 2026 05:20:00 GMT"
         }
       ]
     },
     {
-      "word": "대한",
+      "word": "전시",
       "count": 2,
-      "category": "NOUN",
+      "category": "LOCATION",
       "articles": [
         {
-          "title": "곧 출시될 에일리언 파이어팀 엘리트 2 슈팅 게임의 의무병 클래스 능력에 대한 자세한 정보입니다. - GameGPU",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeHRVUVdlTVAwU2E4RlRrdGwwVU9XQmdubzdkdk5FSmdfLVM4R0VZLXhlUmFqZS1fYXZXdlFBNV9RREpockhlNGlkMmR2X1BUMzZaRU5IaUhJLVVTQ0NpTkl6bkpRWFVsYmJzOThHOTg0VTFYdVVGV2lib3o5QW0tYi1LTE5JTzFkUWx4Y3NFN2dmeWRoVjBfTEkxWEFnaktOWkpUcjVMWUlodzV2S21VcUNEaVJHRzNYVlVfeDdR?oc=5",
+          "title": "뮤즈엠, 글로벌 아티스트 IP 전시 사업 본격화…'엔하이픈' 전시 서울 개최 - 네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9veXlNQjlNbWZyU3VZaDFwOVg4NnFfZHg5cHZFZVV0bTRWbUhPRFVJMXhPcl9HV3BwYUQ2Z1hEQ1ZUZ1QxXzJXbk54VnlJM2l2Y3JR?oc=5",
           "source": "Google News",
-          "published": "Mon, 10 Aug 2026 22:17:31 GMT"
+          "published": "Mon, 10 Aug 2026 23:01:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "축구협회",
+      "count": 2,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "축구협회 ‘성 접대’ 15년 전인데…지금 수사 가능할까? - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrRW9HZ0lJX1VXX3BUZXRlREE5TjJVSHBJVEl4OFF6cmkyMmFVeFBwb3c1U1JWYTB6al9QREg4eDRoUmNleU1QWWZpVUlIN2s?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 22:03:05 GMT"
         },
         {
-          "title": "마블 액션 영화 '베놈'과 '마블 블레이드'의 개봉에 대한 소문 - GameGPU",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZDRqUUo3T1ROZ2MteEwzcFJfSjU1bVAwN1NiZV9Ha0MwYkRtb3NxYnM5RFQzSTAzdUVFQXRYS0F3ZzJGOFY5Y2dGT3dTbUdGVnRsN1JuTkpOTFlraDh0d3E4UHlhMGVfNkE4WTk1RFhBanhFZ01mRzBfcm9XQldDdFV3NUpvZlktWE1saG5R?oc=5",
+          "title": "축구협회 '비공개' 강조했는데…日 '포옛 감독' 유력 보도 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UcjNfRWJFVGE3U2RCd3hGWXo2Nk9sVm1ReWxBQ2tycy1KYmE5SnNKSEplamJHZ0EweWZLalZyQVF2bkxJVFJ6bWNOdGhTbi0yWjNUU08zYVhYdw?oc=5",
           "source": "Google News",
-          "published": "Mon, 10 Aug 2026 21:29:58 GMT"
+          "published": "Mon, 10 Aug 2026 23:20:59 GMT"
         }
       ]
     },
     {
-      "word": "마블",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "마블 액션 영화 '베놈'과 '마블 블레이드'의 개봉에 대한 소문 - GameGPU",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZDRqUUo3T1ROZ2MteEwzcFJfSjU1bVAwN1NiZV9Ha0MwYkRtb3NxYnM5RFQzSTAzdUVFQXRYS0F3ZzJGOFY5Y2dGT3dTbUdGVnRsN1JuTkpOTFlraDh0d3E4UHlhMGVfNkE4WTk1RFhBanhFZ01mRzBfcm9XQldDdFV3NUpvZlktWE1saG5R?oc=5",
-          "source": "Google News",
-          "published": "Mon, 10 Aug 2026 21:29:58 GMT"
-        }
-      ]
-    },
-    {
-      "word": "250만평",
+      "word": "콜롬비아",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "250만평 호남산단 확대 추진…송전선로 1년 당겨 2028년 구축 - hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qa2tEc2tucm9tcHZFV25Dd1JCdENPcXRoSEN3OWYyVi03RzZMdmV0TUdVWWIwTkY3OUNLcFRBeEF4S0g2bXBraXRJT3FJdVlBNDhVdWZVWlBMVTdvb0VNLVVBRUl3T0sxNVpEOFRqRWdDZExz?oc=5",
+          "title": "콜롬비아 덮친 21세기 최대 강진…111명 사망, 건물 61채 완파 - hani.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xTEpqRExlS2lUM2RHQTZUWHoyMlNwaERMbUJBZUp2VjNHQmJ5SzJiNUU2YmtaTlVoS1ZqcW5mSmFLNVNJb0FYMUxKTDNCMy1QYlB2X2pzRDdGbmVYYWZmUGlfR0FENEVySW04alU4aw?oc=5",
           "source": "Google News",
-          "published": "Mon, 10 Aug 2026 13:05:00 GMT"
+          "published": "Mon, 10 Aug 2026 23:10:00 GMT"
         }
       ]
     },
     {
-      "word": "호남산단",
+      "word": "덮친",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "250만평 호남산단 확대 추진…송전선로 1년 당겨 2028년 구축 - hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qa2tEc2tucm9tcHZFV25Dd1JCdENPcXRoSEN3OWYyVi03RzZMdmV0TUdVWWIwTkY3OUNLcFRBeEF4S0g2bXBraXRJT3FJdVlBNDhVdWZVWlBMVTdvb0VNLVVBRUl3T0sxNVpEOFRqRWdDZExz?oc=5",
+          "title": "콜롬비아 덮친 21세기 최대 강진…111명 사망, 건물 61채 완파 - hani.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xTEpqRExlS2lUM2RHQTZUWHoyMlNwaERMbUJBZUp2VjNHQmJ5SzJiNUU2YmtaTlVoS1ZqcW5mSmFLNVNJb0FYMUxKTDNCMy1QYlB2X2pzRDdGbmVYYWZmUGlfR0FENEVySW04alU4aw?oc=5",
           "source": "Google News",
-          "published": "Mon, 10 Aug 2026 13:05:00 GMT"
+          "published": "Mon, 10 Aug 2026 23:10:00 GMT"
         }
       ]
     },
     {
-      "word": "확대",
+      "word": "21세기",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "250만평 호남산단 확대 추진…송전선로 1년 당겨 2028년 구축 - hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qa2tEc2tucm9tcHZFV25Dd1JCdENPcXRoSEN3OWYyVi03RzZMdmV0TUdVWWIwTkY3OUNLcFRBeEF4S0g2bXBraXRJT3FJdVlBNDhVdWZVWlBMVTdvb0VNLVVBRUl3T0sxNVpEOFRqRWdDZExz?oc=5",
+          "title": "콜롬비아 덮친 21세기 최대 강진…111명 사망, 건물 61채 완파 - hani.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xTEpqRExlS2lUM2RHQTZUWHoyMlNwaERMbUJBZUp2VjNHQmJ5SzJiNUU2YmtaTlVoS1ZqcW5mSmFLNVNJb0FYMUxKTDNCMy1QYlB2X2pzRDdGbmVYYWZmUGlfR0FENEVySW04alU4aw?oc=5",
           "source": "Google News",
-          "published": "Mon, 10 Aug 2026 13:05:00 GMT"
+          "published": "Mon, 10 Aug 2026 23:10:00 GMT"
         }
       ]
     },
     {
-      "word": "추진송전선",
+      "word": "강진111명",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "250만평 호남산단 확대 추진…송전선로 1년 당겨 2028년 구축 - hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qa2tEc2tucm9tcHZFV25Dd1JCdENPcXRoSEN3OWYyVi03RzZMdmV0TUdVWWIwTkY3OUNLcFRBeEF4S0g2bXBraXRJT3FJdVlBNDhVdWZVWlBMVTdvb0VNLVVBRUl3T0sxNVpEOFRqRWdDZExz?oc=5",
+          "title": "콜롬비아 덮친 21세기 최대 강진…111명 사망, 건물 61채 완파 - hani.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xTEpqRExlS2lUM2RHQTZUWHoyMlNwaERMbUJBZUp2VjNHQmJ5SzJiNUU2YmtaTlVoS1ZqcW5mSmFLNVNJb0FYMUxKTDNCMy1QYlB2X2pzRDdGbmVYYWZmUGlfR0FENEVySW04alU4aw?oc=5",
           "source": "Google News",
-          "published": "Mon, 10 Aug 2026 13:05:00 GMT"
+          "published": "Mon, 10 Aug 2026 23:10:00 GMT"
         }
       ]
     },
     {
-      "word": "1년",
+      "word": "사망",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "250만평 호남산단 확대 추진…송전선로 1년 당겨 2028년 구축 - hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qa2tEc2tucm9tcHZFV25Dd1JCdENPcXRoSEN3OWYyVi03RzZMdmV0TUdVWWIwTkY3OUNLcFRBeEF4S0g2bXBraXRJT3FJdVlBNDhVdWZVWlBMVTdvb0VNLVVBRUl3T0sxNVpEOFRqRWdDZExz?oc=5",
+          "title": "콜롬비아 덮친 21세기 최대 강진…111명 사망, 건물 61채 완파 - hani.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xTEpqRExlS2lUM2RHQTZUWHoyMlNwaERMbUJBZUp2VjNHQmJ5SzJiNUU2YmtaTlVoS1ZqcW5mSmFLNVNJb0FYMUxKTDNCMy1QYlB2X2pzRDdGbmVYYWZmUGlfR0FENEVySW04alU4aw?oc=5",
           "source": "Google News",
-          "published": "Mon, 10 Aug 2026 13:05:00 GMT"
+          "published": "Mon, 10 Aug 2026 23:10:00 GMT"
         }
       ]
     },
     {
-      "word": "당겨",
+      "word": "건물",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "250만평 호남산단 확대 추진…송전선로 1년 당겨 2028년 구축 - hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qa2tEc2tucm9tcHZFV25Dd1JCdENPcXRoSEN3OWYyVi03RzZMdmV0TUdVWWIwTkY3OUNLcFRBeEF4S0g2bXBraXRJT3FJdVlBNDhVdWZVWlBMVTdvb0VNLVVBRUl3T0sxNVpEOFRqRWdDZExz?oc=5",
+          "title": "콜롬비아 덮친 21세기 최대 강진…111명 사망, 건물 61채 완파 - hani.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xTEpqRExlS2lUM2RHQTZUWHoyMlNwaERMbUJBZUp2VjNHQmJ5SzJiNUU2YmtaTlVoS1ZqcW5mSmFLNVNJb0FYMUxKTDNCMy1QYlB2X2pzRDdGbmVYYWZmUGlfR0FENEVySW04alU4aw?oc=5",
           "source": "Google News",
-          "published": "Mon, 10 Aug 2026 13:05:00 GMT"
+          "published": "Mon, 10 Aug 2026 23:10:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "61채",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "콜롬비아 덮친 21세기 최대 강진…111명 사망, 건물 61채 완파 - hani.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xTEpqRExlS2lUM2RHQTZUWHoyMlNwaERMbUJBZUp2VjNHQmJ5SzJiNUU2YmtaTlVoS1ZqcW5mSmFLNVNJb0FYMUxKTDNCMy1QYlB2X2pzRDdGbmVYYWZmUGlfR0FENEVySW04alU4aw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 23:10:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "완파",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "콜롬비아 덮친 21세기 최대 강진…111명 사망, 건물 61채 완파 - hani.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xTEpqRExlS2lUM2RHQTZUWHoyMlNwaERMbUJBZUp2VjNHQmJ5SzJiNUU2YmtaTlVoS1ZqcW5mSmFLNVNJb0FYMUxKTDNCMy1QYlB2X2pzRDdGbmVYYWZmUGlfR0FENEVySW04alU4aw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 23:10:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "반도체",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "李대통령 \"호남 반도체 전격전\"…軍공항 2028년까지 옮긴다 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WMWd2SldyZVdzS2RnY0xwcDAyMklqYS1uLVAwOTZzNjFzU0FXMkJ4UlVxaURZeDlkMHFPajBMUGU0bkZFaEV4ZnhsdmRPZjJiNlZyc1BCNGlrZw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 05:23:08 GMT"
+        }
+      ]
+    },
+    {
+      "word": "전격전공항",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "李대통령 \"호남 반도체 전격전\"…軍공항 2028년까지 옮긴다 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WMWd2SldyZVdzS2RnY0xwcDAyMklqYS1uLVAwOTZzNjFzU0FXMkJ4UlVxaURZeDlkMHFPajBMUGU0bkZFaEV4ZnhsdmRPZjJiNlZyc1BCNGlrZw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 05:23:08 GMT"
         }
       ]
     },
@@ -176,114 +247,101 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "250만평 호남산단 확대 추진…송전선로 1년 당겨 2028년 구축 - hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qa2tEc2tucm9tcHZFV25Dd1JCdENPcXRoSEN3OWYyVi03RzZMdmV0TUdVWWIwTkY3OUNLcFRBeEF4S0g2bXBraXRJT3FJdVlBNDhVdWZVWlBMVTdvb0VNLVVBRUl3T0sxNVpEOFRqRWdDZExz?oc=5",
+          "title": "李대통령 \"호남 반도체 전격전\"…軍공항 2028년까지 옮긴다 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WMWd2SldyZVdzS2RnY0xwcDAyMklqYS1uLVAwOTZzNjFzU0FXMkJ4UlVxaURZeDlkMHFPajBMUGU0bkZFaEV4ZnhsdmRPZjJiNlZyc1BCNGlrZw?oc=5",
           "source": "Google News",
-          "published": "Mon, 10 Aug 2026 13:05:00 GMT"
+          "published": "Mon, 10 Aug 2026 05:23:08 GMT"
         }
       ]
     },
     {
-      "word": "구축",
+      "word": "옮긴다",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "250만평 호남산단 확대 추진…송전선로 1년 당겨 2028년 구축 - hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qa2tEc2tucm9tcHZFV25Dd1JCdENPcXRoSEN3OWYyVi03RzZMdmV0TUdVWWIwTkY3OUNLcFRBeEF4S0g2bXBraXRJT3FJdVlBNDhVdWZVWlBMVTdvb0VNLVVBRUl3T0sxNVpEOFRqRWdDZExz?oc=5",
+          "title": "李대통령 \"호남 반도체 전격전\"…軍공항 2028년까지 옮긴다 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WMWd2SldyZVdzS2RnY0xwcDAyMklqYS1uLVAwOTZzNjFzU0FXMkJ4UlVxaURZeDlkMHFPajBMUGU0bkZFaEV4ZnhsdmRPZjJiNlZyc1BCNGlrZw?oc=5",
           "source": "Google News",
-          "published": "Mon, 10 Aug 2026 13:05:00 GMT"
+          "published": "Mon, 10 Aug 2026 05:23:08 GMT"
         }
       ]
     },
     {
-      "word": "속보콜롬비아서",
+      "word": "3개",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보]콜롬비아서 규모 7.4 강진···최소 20명 사망·건물 20채 붕괴 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42aS0tZ1VvLXhYcTM3ZDJyaTNpNnVScHNUVUVxN3doODBYbXNnOWVOTXU3Tkd1RHc0ZlNEb0tnOXVYajVtanVtSXN0SW1QVnFITkZJTGJ6RG9od9IBX0FVX3lxTE41TDRUU21UUzRVTUxkcXJBeUhMRUU4aEl1TDk5ZldxT1Y0TFhDb1Y4UkJMc001WVJpMEozMW5oTWNPQTBiZWtmb1dWWUlTOHc1NXNBLVliYXJzcnY5Z0dB?oc=5",
+          "title": "3개 태풍 동시에…태풍 ‘찬홈’ 한반도 영향은? - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VMDR1S19vM011Qm90LUJFbTV3b2FGeWJ1ejQtOHo2eUxINVdPaDByX1EzRExYcmFrbTdzd09uMGNXMk9tZHlDRTdHUHJtSV9HOThKbXkyRTRsd28?oc=5",
           "source": "Google News",
-          "published": "Mon, 10 Aug 2026 12:56:00 GMT"
+          "published": "Mon, 10 Aug 2026 12:24:00 GMT"
         }
       ]
     },
     {
-      "word": "규모",
+      "word": "태풍",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보]콜롬비아서 규모 7.4 강진···최소 20명 사망·건물 20채 붕괴 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42aS0tZ1VvLXhYcTM3ZDJyaTNpNnVScHNUVUVxN3doODBYbXNnOWVOTXU3Tkd1RHc0ZlNEb0tnOXVYajVtanVtSXN0SW1QVnFITkZJTGJ6RG9od9IBX0FVX3lxTE41TDRUU21UUzRVTUxkcXJBeUhMRUU4aEl1TDk5ZldxT1Y0TFhDb1Y4UkJMc001WVJpMEozMW5oTWNPQTBiZWtmb1dWWUlTOHc1NXNBLVliYXJzcnY5Z0dB?oc=5",
+          "title": "3개 태풍 동시에…태풍 ‘찬홈’ 한반도 영향은? - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VMDR1S19vM011Qm90LUJFbTV3b2FGeWJ1ejQtOHo2eUxINVdPaDByX1EzRExYcmFrbTdzd09uMGNXMk9tZHlDRTdHUHJtSV9HOThKbXkyRTRsd28?oc=5",
           "source": "Google News",
-          "published": "Mon, 10 Aug 2026 12:56:00 GMT"
+          "published": "Mon, 10 Aug 2026 12:24:00 GMT"
         }
       ]
     },
     {
-      "word": "강진최소",
+      "word": "동시에태풍",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보]콜롬비아서 규모 7.4 강진···최소 20명 사망·건물 20채 붕괴 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42aS0tZ1VvLXhYcTM3ZDJyaTNpNnVScHNUVUVxN3doODBYbXNnOWVOTXU3Tkd1RHc0ZlNEb0tnOXVYajVtanVtSXN0SW1QVnFITkZJTGJ6RG9od9IBX0FVX3lxTE41TDRUU21UUzRVTUxkcXJBeUhMRUU4aEl1TDk5ZldxT1Y0TFhDb1Y4UkJMc001WVJpMEozMW5oTWNPQTBiZWtmb1dWWUlTOHc1NXNBLVliYXJzcnY5Z0dB?oc=5",
+          "title": "3개 태풍 동시에…태풍 ‘찬홈’ 한반도 영향은? - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VMDR1S19vM011Qm90LUJFbTV3b2FGeWJ1ejQtOHo2eUxINVdPaDByX1EzRExYcmFrbTdzd09uMGNXMk9tZHlDRTdHUHJtSV9HOThKbXkyRTRsd28?oc=5",
           "source": "Google News",
-          "published": "Mon, 10 Aug 2026 12:56:00 GMT"
+          "published": "Mon, 10 Aug 2026 12:24:00 GMT"
         }
       ]
     },
     {
-      "word": "20명",
+      "word": "찬홈",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보]콜롬비아서 규모 7.4 강진···최소 20명 사망·건물 20채 붕괴 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42aS0tZ1VvLXhYcTM3ZDJyaTNpNnVScHNUVUVxN3doODBYbXNnOWVOTXU3Tkd1RHc0ZlNEb0tnOXVYajVtanVtSXN0SW1QVnFITkZJTGJ6RG9od9IBX0FVX3lxTE41TDRUU21UUzRVTUxkcXJBeUhMRUU4aEl1TDk5ZldxT1Y0TFhDb1Y4UkJMc001WVJpMEozMW5oTWNPQTBiZWtmb1dWWUlTOHc1NXNBLVliYXJzcnY5Z0dB?oc=5",
+          "title": "3개 태풍 동시에…태풍 ‘찬홈’ 한반도 영향은? - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VMDR1S19vM011Qm90LUJFbTV3b2FGeWJ1ejQtOHo2eUxINVdPaDByX1EzRExYcmFrbTdzd09uMGNXMk9tZHlDRTdHUHJtSV9HOThKbXkyRTRsd28?oc=5",
           "source": "Google News",
-          "published": "Mon, 10 Aug 2026 12:56:00 GMT"
+          "published": "Mon, 10 Aug 2026 12:24:00 GMT"
         }
       ]
     },
     {
-      "word": "사망건물",
+      "word": "한반",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보]콜롬비아서 규모 7.4 강진···최소 20명 사망·건물 20채 붕괴 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42aS0tZ1VvLXhYcTM3ZDJyaTNpNnVScHNUVUVxN3doODBYbXNnOWVOTXU3Tkd1RHc0ZlNEb0tnOXVYajVtanVtSXN0SW1QVnFITkZJTGJ6RG9od9IBX0FVX3lxTE41TDRUU21UUzRVTUxkcXJBeUhMRUU4aEl1TDk5ZldxT1Y0TFhDb1Y4UkJMc001WVJpMEozMW5oTWNPQTBiZWtmb1dWWUlTOHc1NXNBLVliYXJzcnY5Z0dB?oc=5",
+          "title": "3개 태풍 동시에…태풍 ‘찬홈’ 한반도 영향은? - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VMDR1S19vM011Qm90LUJFbTV3b2FGeWJ1ejQtOHo2eUxINVdPaDByX1EzRExYcmFrbTdzd09uMGNXMk9tZHlDRTdHUHJtSV9HOThKbXkyRTRsd28?oc=5",
           "source": "Google News",
-          "published": "Mon, 10 Aug 2026 12:56:00 GMT"
+          "published": "Mon, 10 Aug 2026 12:24:00 GMT"
         }
       ]
     },
     {
-      "word": "20채",
+      "word": "영향",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보]콜롬비아서 규모 7.4 강진···최소 20명 사망·건물 20채 붕괴 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42aS0tZ1VvLXhYcTM3ZDJyaTNpNnVScHNUVUVxN3doODBYbXNnOWVOTXU3Tkd1RHc0ZlNEb0tnOXVYajVtanVtSXN0SW1QVnFITkZJTGJ6RG9od9IBX0FVX3lxTE41TDRUU21UUzRVTUxkcXJBeUhMRUU4aEl1TDk5ZldxT1Y0TFhDb1Y4UkJMc001WVJpMEozMW5oTWNPQTBiZWtmb1dWWUlTOHc1NXNBLVliYXJzcnY5Z0dB?oc=5",
+          "title": "3개 태풍 동시에…태풍 ‘찬홈’ 한반도 영향은? - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VMDR1S19vM011Qm90LUJFbTV3b2FGeWJ1ejQtOHo2eUxINVdPaDByX1EzRExYcmFrbTdzd09uMGNXMk9tZHlDRTdHUHJtSV9HOThKbXkyRTRsd28?oc=5",
           "source": "Google News",
-          "published": "Mon, 10 Aug 2026 12:56:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "붕괴",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[속보]콜롬비아서 규모 7.4 강진···최소 20명 사망·건물 20채 붕괴 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42aS0tZ1VvLXhYcTM3ZDJyaTNpNnVScHNUVUVxN3doODBYbXNnOWVOTXU3Tkd1RHc0ZlNEb0tnOXVYajVtanVtSXN0SW1QVnFITkZJTGJ6RG9od9IBX0FVX3lxTE41TDRUU21UUzRVTUxkcXJBeUhMRUU4aEl1TDk5ZldxT1Y0TFhDb1Y4UkJMc001WVJpMEozMW5oTWNPQTBiZWtmb1dWWUlTOHc1NXNBLVliYXJzcnY5Z0dB?oc=5",
-          "source": "Google News",
-          "published": "Mon, 10 Aug 2026 12:56:00 GMT"
+          "published": "Mon, 10 Aug 2026 12:24:00 GMT"
         }
       ]
     },
@@ -301,171 +359,93 @@
       ]
     },
     {
-      "word": "총리",
+      "word": "한병",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "韓총리, 평택 창고 화재에 \"화재진압·인명검색에 최선\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwdE9RQlpRR254Tk5ldk44Z3BvYTA0SlVmWWtHZFpxaGpaWGNfSlBlNlpUVlN5V0dPRGxnMl90d09PdnhGSjNXVF91YzlxM1RYOHIwMC1tM1ExYVXSAWBBVV95cUxPQTVzYWhxdmxRdkZJVzAxYzdoVkhGaE5RNjZ4M2xTc3FZdTduLVl1RXo4eUdvd2lrN0xaNWtmRlJYSkZiUVVieVFlUXJ1NmcwMEhZeFZwOW1DVVNTeUNNM2M?oc=5",
+          "title": "한병도 \"尹·오세훈·국힘 무능이 주택 공급 절벽 주범\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11NHI0c2c1NmwwNlk0MVRoYzcwenptdGlEU1REQV9NeGdubjJDdDh3dEtNRDNsVUY3MWRrTXp2X0Q1ek0ydW1ZSDFkd1ZqOFdhYUR3X3Z1MjkyVnJ3VnRRMVFaS2ZJYmo3VlFkbjdxZ2hiM1QyVG9yd9IBeEFVX3lxTE9vQU9hbHBkSnJ6MEp3eE5DdjJNNUlrUTd3WlhscGNuUEVORndoYzJRV1dGcGM3TFhYUTlpSzJnSkJ3cFlkWHJRZFltaW9LRTFSbEd6dnVNOUhWckM0YjNTYTNpMjUyY01IMU9BdWQ0T2plSHlwNFdPMg?oc=5",
           "source": "Google News",
-          "published": "Mon, 10 Aug 2026 22:14:47 GMT"
+          "published": "Mon, 10 Aug 2026 02:22:26 GMT"
         }
       ]
     },
     {
-      "word": "평택",
+      "word": "오세훈국힘",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "韓총리, 평택 창고 화재에 \"화재진압·인명검색에 최선\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwdE9RQlpRR254Tk5ldk44Z3BvYTA0SlVmWWtHZFpxaGpaWGNfSlBlNlpUVlN5V0dPRGxnMl90d09PdnhGSjNXVF91YzlxM1RYOHIwMC1tM1ExYVXSAWBBVV95cUxPQTVzYWhxdmxRdkZJVzAxYzdoVkhGaE5RNjZ4M2xTc3FZdTduLVl1RXo4eUdvd2lrN0xaNWtmRlJYSkZiUVVieVFlUXJ1NmcwMEhZeFZwOW1DVVNTeUNNM2M?oc=5",
+          "title": "한병도 \"尹·오세훈·국힘 무능이 주택 공급 절벽 주범\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11NHI0c2c1NmwwNlk0MVRoYzcwenptdGlEU1REQV9NeGdubjJDdDh3dEtNRDNsVUY3MWRrTXp2X0Q1ek0ydW1ZSDFkd1ZqOFdhYUR3X3Z1MjkyVnJ3VnRRMVFaS2ZJYmo3VlFkbjdxZ2hiM1QyVG9yd9IBeEFVX3lxTE9vQU9hbHBkSnJ6MEp3eE5DdjJNNUlrUTd3WlhscGNuUEVORndoYzJRV1dGcGM3TFhYUTlpSzJnSkJ3cFlkWHJRZFltaW9LRTFSbEd6dnVNOUhWckM0YjNTYTNpMjUyY01IMU9BdWQ0T2plSHlwNFdPMg?oc=5",
           "source": "Google News",
-          "published": "Mon, 10 Aug 2026 22:14:47 GMT"
+          "published": "Mon, 10 Aug 2026 02:22:26 GMT"
         }
       ]
     },
     {
-      "word": "창고",
+      "word": "무능",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "韓총리, 평택 창고 화재에 \"화재진압·인명검색에 최선\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwdE9RQlpRR254Tk5ldk44Z3BvYTA0SlVmWWtHZFpxaGpaWGNfSlBlNlpUVlN5V0dPRGxnMl90d09PdnhGSjNXVF91YzlxM1RYOHIwMC1tM1ExYVXSAWBBVV95cUxPQTVzYWhxdmxRdkZJVzAxYzdoVkhGaE5RNjZ4M2xTc3FZdTduLVl1RXo4eUdvd2lrN0xaNWtmRlJYSkZiUVVieVFlUXJ1NmcwMEhZeFZwOW1DVVNTeUNNM2M?oc=5",
+          "title": "한병도 \"尹·오세훈·국힘 무능이 주택 공급 절벽 주범\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11NHI0c2c1NmwwNlk0MVRoYzcwenptdGlEU1REQV9NeGdubjJDdDh3dEtNRDNsVUY3MWRrTXp2X0Q1ek0ydW1ZSDFkd1ZqOFdhYUR3X3Z1MjkyVnJ3VnRRMVFaS2ZJYmo3VlFkbjdxZ2hiM1QyVG9yd9IBeEFVX3lxTE9vQU9hbHBkSnJ6MEp3eE5DdjJNNUlrUTd3WlhscGNuUEVORndoYzJRV1dGcGM3TFhYUTlpSzJnSkJ3cFlkWHJRZFltaW9LRTFSbEd6dnVNOUhWckM0YjNTYTNpMjUyY01IMU9BdWQ0T2plSHlwNFdPMg?oc=5",
           "source": "Google News",
-          "published": "Mon, 10 Aug 2026 22:14:47 GMT"
+          "published": "Mon, 10 Aug 2026 02:22:26 GMT"
         }
       ]
     },
     {
-      "word": "화재",
+      "word": "주택",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "韓총리, 평택 창고 화재에 \"화재진압·인명검색에 최선\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwdE9RQlpRR254Tk5ldk44Z3BvYTA0SlVmWWtHZFpxaGpaWGNfSlBlNlpUVlN5V0dPRGxnMl90d09PdnhGSjNXVF91YzlxM1RYOHIwMC1tM1ExYVXSAWBBVV95cUxPQTVzYWhxdmxRdkZJVzAxYzdoVkhGaE5RNjZ4M2xTc3FZdTduLVl1RXo4eUdvd2lrN0xaNWtmRlJYSkZiUVVieVFlUXJ1NmcwMEhZeFZwOW1DVVNTeUNNM2M?oc=5",
+          "title": "한병도 \"尹·오세훈·국힘 무능이 주택 공급 절벽 주범\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11NHI0c2c1NmwwNlk0MVRoYzcwenptdGlEU1REQV9NeGdubjJDdDh3dEtNRDNsVUY3MWRrTXp2X0Q1ek0ydW1ZSDFkd1ZqOFdhYUR3X3Z1MjkyVnJ3VnRRMVFaS2ZJYmo3VlFkbjdxZ2hiM1QyVG9yd9IBeEFVX3lxTE9vQU9hbHBkSnJ6MEp3eE5DdjJNNUlrUTd3WlhscGNuUEVORndoYzJRV1dGcGM3TFhYUTlpSzJnSkJ3cFlkWHJRZFltaW9LRTFSbEd6dnVNOUhWckM0YjNTYTNpMjUyY01IMU9BdWQ0T2plSHlwNFdPMg?oc=5",
           "source": "Google News",
-          "published": "Mon, 10 Aug 2026 22:14:47 GMT"
+          "published": "Mon, 10 Aug 2026 02:22:26 GMT"
         }
       ]
     },
     {
-      "word": "화재진압인명검색",
+      "word": "공급",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "韓총리, 평택 창고 화재에 \"화재진압·인명검색에 최선\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwdE9RQlpRR254Tk5ldk44Z3BvYTA0SlVmWWtHZFpxaGpaWGNfSlBlNlpUVlN5V0dPRGxnMl90d09PdnhGSjNXVF91YzlxM1RYOHIwMC1tM1ExYVXSAWBBVV95cUxPQTVzYWhxdmxRdkZJVzAxYzdoVkhGaE5RNjZ4M2xTc3FZdTduLVl1RXo4eUdvd2lrN0xaNWtmRlJYSkZiUVVieVFlUXJ1NmcwMEhZeFZwOW1DVVNTeUNNM2M?oc=5",
+          "title": "한병도 \"尹·오세훈·국힘 무능이 주택 공급 절벽 주범\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11NHI0c2c1NmwwNlk0MVRoYzcwenptdGlEU1REQV9NeGdubjJDdDh3dEtNRDNsVUY3MWRrTXp2X0Q1ek0ydW1ZSDFkd1ZqOFdhYUR3X3Z1MjkyVnJ3VnRRMVFaS2ZJYmo3VlFkbjdxZ2hiM1QyVG9yd9IBeEFVX3lxTE9vQU9hbHBkSnJ6MEp3eE5DdjJNNUlrUTd3WlhscGNuUEVORndoYzJRV1dGcGM3TFhYUTlpSzJnSkJ3cFlkWHJRZFltaW9LRTFSbEd6dnVNOUhWckM0YjNTYTNpMjUyY01IMU9BdWQ0T2plSHlwNFdPMg?oc=5",
           "source": "Google News",
-          "published": "Mon, 10 Aug 2026 22:14:47 GMT"
+          "published": "Mon, 10 Aug 2026 02:22:26 GMT"
         }
       ]
     },
     {
-      "word": "최선",
+      "word": "절벽",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "韓총리, 평택 창고 화재에 \"화재진압·인명검색에 최선\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwdE9RQlpRR254Tk5ldk44Z3BvYTA0SlVmWWtHZFpxaGpaWGNfSlBlNlpUVlN5V0dPRGxnMl90d09PdnhGSjNXVF91YzlxM1RYOHIwMC1tM1ExYVXSAWBBVV95cUxPQTVzYWhxdmxRdkZJVzAxYzdoVkhGaE5RNjZ4M2xTc3FZdTduLVl1RXo4eUdvd2lrN0xaNWtmRlJYSkZiUVVieVFlUXJ1NmcwMEhZeFZwOW1DVVNTeUNNM2M?oc=5",
+          "title": "한병도 \"尹·오세훈·국힘 무능이 주택 공급 절벽 주범\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11NHI0c2c1NmwwNlk0MVRoYzcwenptdGlEU1REQV9NeGdubjJDdDh3dEtNRDNsVUY3MWRrTXp2X0Q1ek0ydW1ZSDFkd1ZqOFdhYUR3X3Z1MjkyVnJ3VnRRMVFaS2ZJYmo3VlFkbjdxZ2hiM1QyVG9yd9IBeEFVX3lxTE9vQU9hbHBkSnJ6MEp3eE5DdjJNNUlrUTd3WlhscGNuUEVORndoYzJRV1dGcGM3TFhYUTlpSzJnSkJ3cFlkWHJRZFltaW9LRTFSbEd6dnVNOUhWckM0YjNTYTNpMjUyY01IMU9BdWQ0T2plSHlwNFdPMg?oc=5",
           "source": "Google News",
-          "published": "Mon, 10 Aug 2026 22:14:47 GMT"
+          "published": "Mon, 10 Aug 2026 02:22:26 GMT"
         }
       ]
     },
     {
-      "word": "비운",
+      "word": "주범",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"집 비운 지 5년 넘었는데 첫삽도 못떴다\"…서울 재건축 '비명' - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13NG1LV2xaTTVqWENJbmVyc0JvODlPMEZ6dEUzbFQ2WXV4eEFyZFVlOTVyWTlPR3ljbnRCRXVEN0xGR1RYSlZXOURfM2RxWC1yRUU5OHZXMlA5QQ?oc=5",
+          "title": "한병도 \"尹·오세훈·국힘 무능이 주택 공급 절벽 주범\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11NHI0c2c1NmwwNlk0MVRoYzcwenptdGlEU1REQV9NeGdubjJDdDh3dEtNRDNsVUY3MWRrTXp2X0Q1ek0ydW1ZSDFkd1ZqOFdhYUR3X3Z1MjkyVnJ3VnRRMVFaS2ZJYmo3VlFkbjdxZ2hiM1QyVG9yd9IBeEFVX3lxTE9vQU9hbHBkSnJ6MEp3eE5DdjJNNUlrUTd3WlhscGNuUEVORndoYzJRV1dGcGM3TFhYUTlpSzJnSkJ3cFlkWHJRZFltaW9LRTFSbEd6dnVNOUhWckM0YjNTYTNpMjUyY01IMU9BdWQ0T2plSHlwNFdPMg?oc=5",
           "source": "Google News",
-          "published": "Mon, 10 Aug 2026 08:46:17 GMT"
-        }
-      ]
-    },
-    {
-      "word": "5년",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "\"집 비운 지 5년 넘었는데 첫삽도 못떴다\"…서울 재건축 '비명' - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13NG1LV2xaTTVqWENJbmVyc0JvODlPMEZ6dEUzbFQ2WXV4eEFyZFVlOTVyWTlPR3ljbnRCRXVEN0xGR1RYSlZXOURfM2RxWC1yRUU5OHZXMlA5QQ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 10 Aug 2026 08:46:17 GMT"
-        }
-      ]
-    },
-    {
-      "word": "넘었는데",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "\"집 비운 지 5년 넘었는데 첫삽도 못떴다\"…서울 재건축 '비명' - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13NG1LV2xaTTVqWENJbmVyc0JvODlPMEZ6dEUzbFQ2WXV4eEFyZFVlOTVyWTlPR3ljbnRCRXVEN0xGR1RYSlZXOURfM2RxWC1yRUU5OHZXMlA5QQ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 10 Aug 2026 08:46:17 GMT"
-        }
-      ]
-    },
-    {
-      "word": "첫삽",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "\"집 비운 지 5년 넘었는데 첫삽도 못떴다\"…서울 재건축 '비명' - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13NG1LV2xaTTVqWENJbmVyc0JvODlPMEZ6dEUzbFQ2WXV4eEFyZFVlOTVyWTlPR3ljbnRCRXVEN0xGR1RYSlZXOURfM2RxWC1yRUU5OHZXMlA5QQ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 10 Aug 2026 08:46:17 GMT"
-        }
-      ]
-    },
-    {
-      "word": "못떴다서울",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "\"집 비운 지 5년 넘었는데 첫삽도 못떴다\"…서울 재건축 '비명' - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13NG1LV2xaTTVqWENJbmVyc0JvODlPMEZ6dEUzbFQ2WXV4eEFyZFVlOTVyWTlPR3ljbnRCRXVEN0xGR1RYSlZXOURfM2RxWC1yRUU5OHZXMlA5QQ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 10 Aug 2026 08:46:17 GMT"
-        }
-      ]
-    },
-    {
-      "word": "재건축",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "\"집 비운 지 5년 넘었는데 첫삽도 못떴다\"…서울 재건축 '비명' - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13NG1LV2xaTTVqWENJbmVyc0JvODlPMEZ6dEUzbFQ2WXV4eEFyZFVlOTVyWTlPR3ljbnRCRXVEN0xGR1RYSlZXOURfM2RxWC1yRUU5OHZXMlA5QQ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 10 Aug 2026 08:46:17 GMT"
-        }
-      ]
-    },
-    {
-      "word": "비명",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "\"집 비운 지 5년 넘었는데 첫삽도 못떴다\"…서울 재건축 '비명' - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13NG1LV2xaTTVqWENJbmVyc0JvODlPMEZ6dEUzbFQ2WXV4eEFyZFVlOTVyWTlPR3ljbnRCRXVEN0xGR1RYSlZXOURfM2RxWC1yRUU5OHZXMlA5QQ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 10 Aug 2026 08:46:17 GMT"
+          "published": "Mon, 10 Aug 2026 02:22:26 GMT"
         }
       ]
     },
@@ -473,19 +453,6 @@
       "word": "트럼프",
       "count": 1,
       "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프 대통령, 이란에 ‘배상’ 요구 - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc1hJVWM3NUR6Yk5Rb1dXeWQ1aG4zMEFmRDdHdjNRTmQ3YndYQWlLbDlKM3luTk1vU1J0VjJuODRJSmM3T1B0aF9DUGVVcFZQdlItaWdfa3RWNnkwM2llYTFVUVdmTmlQWnBkN3Y3REFvZEpYM09jb3B6RUtkS1NsOElkOVhWaUVKUzZsT2VCNkhSX2ZVM2NETlRlRdIBngFBVV95cUxQM29RNkpSZEdjeGNMSTZlRmZiTm1BZ1BYd1ptX0I1X29zYmdTYVNrSHlEelQ2bm1Zc3Vtd2Y3Z2RLRkhwTnlsMXBTNnF5dXdCU2xNdlpHTlV5SjVkZmp3MUlad3RFRWNKN191VTU3LTVtR1hPTHJrMTRxUDZYdkpNVklRcnA1VGlQRDkzUDRIcHhZSXd5LXdobEZ1VWJ6dw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 10 Aug 2026 20:44:30 GMT"
-        }
-      ]
-    },
-    {
-      "word": "대통령",
-      "count": 1,
-      "category": "PERSON",
       "articles": [
         {
           "title": "트럼프 대통령, 이란에 ‘배상’ 요구 - VOA 한국어 홈페이지",
@@ -535,15 +502,54 @@
       ]
     },
     {
-      "word": "11일",
+      "word": "코스닥",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "11일부터 호남 당원 투표 개시…김민석 “메가프로젝트 1순위 추진”, 정청래 “당을 배신한 적 없다” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fSHJzQ3NBUDBsVERiTXI3WHNQa0lHSk90ODY2TFBKVUdJZlhzWTk5aV9wQVh3eVlPb1N2M1l5Tl9FZlJuc3ZwQnpiSjVDc1RYN3U5YkRwLU1id9IBX0FVX3lxTFBSY0ViS0dYUzVGVFNRRTBBLVg3VU5ibFJzUVVfR3NpbXkzbTdlOTBJWHRNRWg1dndJOG5Td3hIQ1RqTlpVZGpnMFNjalVFS0ZQcENuUm5qN3Q5dmE5WUlZ?oc=5",
+          "title": "코스닥 4%대 급등에 매수 사이드카 발동‥올해 18번째 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44TjVFanR1bzdhME1MSDc1dTNBTVgwcTBRU1dEMmtYUzZ0Y2p3dUxIY2NlUTY3QVZmVmlqbUh1U29mbkhoS0paSFVDRldGeFRxYk81MG1XNFZsdGNNY0ZDUVdKUDBxdWRtbVViOU1zZ21aZnE50gF0QVVfeXFMT1NudFd4YXBxd0x1dV83ZzkydW1YQk92bk00QlR6YklEMm5DM0x0SklneDFYQ1ZWa1FabTFwbzUyN1pWYU9Jajd0TGZkb1FEeURseVdCTzRJc3NhQW9ZRzM3Slk1d1UzMkpjZzJaYWxOcmhvUU8?oc=5",
           "source": "Google News",
-          "published": "Mon, 10 Aug 2026 10:12:00 GMT"
+          "published": "Mon, 10 Aug 2026 01:11:17 GMT"
+        }
+      ]
+    },
+    {
+      "word": "4대",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "코스닥 4%대 급등에 매수 사이드카 발동‥올해 18번째 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44TjVFanR1bzdhME1MSDc1dTNBTVgwcTBRU1dEMmtYUzZ0Y2p3dUxIY2NlUTY3QVZmVmlqbUh1U29mbkhoS0paSFVDRldGeFRxYk81MG1XNFZsdGNNY0ZDUVdKUDBxdWRtbVViOU1zZ21aZnE50gF0QVVfeXFMT1NudFd4YXBxd0x1dV83ZzkydW1YQk92bk00QlR6YklEMm5DM0x0SklneDFYQ1ZWa1FabTFwbzUyN1pWYU9Jajd0TGZkb1FEeURseVdCTzRJc3NhQW9ZRzM3Slk1d1UzMkpjZzJaYWxOcmhvUU8?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 01:11:17 GMT"
+        }
+      ]
+    },
+    {
+      "word": "급등",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "코스닥 4%대 급등에 매수 사이드카 발동‥올해 18번째 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44TjVFanR1bzdhME1MSDc1dTNBTVgwcTBRU1dEMmtYUzZ0Y2p3dUxIY2NlUTY3QVZmVmlqbUh1U29mbkhoS0paSFVDRldGeFRxYk81MG1XNFZsdGNNY0ZDUVdKUDBxdWRtbVViOU1zZ21aZnE50gF0QVVfeXFMT1NudFd4YXBxd0x1dV83ZzkydW1YQk92bk00QlR6YklEMm5DM0x0SklneDFYQ1ZWa1FabTFwbzUyN1pWYU9Jajd0TGZkb1FEeURseVdCTzRJc3NhQW9ZRzM3Slk1d1UzMkpjZzJaYWxOcmhvUU8?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 01:11:17 GMT"
+        }
+      ]
+    },
+    {
+      "word": "매수",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "코스닥 4%대 급등에 매수 사이드카 발동‥올해 18번째 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44TjVFanR1bzdhME1MSDc1dTNBTVgwcTBRU1dEMmtYUzZ0Y2p3dUxIY2NlUTY3QVZmVmlqbUh1U29mbkhoS0paSFVDRldGeFRxYk81MG1XNFZsdGNNY0ZDUVdKUDBxdWRtbVViOU1zZ21aZnE50gF0QVVfeXFMT1NudFd4YXBxd0x1dV83ZzkydW1YQk92bk00QlR6YklEMm5DM0x0SklneDFYQ1ZWa1FabTFwbzUyN1pWYU9Jajd0TGZkb1FEeURseVdCTzRJc3NhQW9ZRzM3Slk1d1UzMkpjZzJaYWxOcmhvUU8?oc=5",
+          "source": "Google News",
+          "published": "Mon, 10 Aug 2026 01:11:17 GMT"
         }
       ]
     }
