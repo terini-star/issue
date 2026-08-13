@@ -1,29 +1,92 @@
 {
   "language": "ko",
-  "last_updated": 1786640575.7379272,
+  "last_updated": 1786648306.8227522,
   "count": 40,
   "trends": [
     {
-      "word": "대통령",
-      "count": 2,
-      "category": "PERSON",
+      "word": "트럼프",
+      "count": 3,
+      "category": "NOUN",
       "articles": [
         {
-          "title": "‘서울 주거 불안 세대’의 외면…이 대통령 지지율 49% 최저 - hani.co.kr",
+          "title": "트럼프 전용기 기만 작전, 푸틴 비밀주의에 비하면… - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVkFaTElEQ0YwQmFITndnWGRSMDZQQ0M0a2x3RE5hNUdJWEtXcW4zeU12SGxHNlI5ZDlXUkFRaGxrcUV6VUxpdmdNUVZoSTJmcHBkaURpS2dDY3QtT3pTekttTF9HU28yRHZzOGhQVjhtYUc5d3ZRWjNLWU4xWXlaQXNDZ3ZpWUdpdWZaSUV2SnBQYW9rSW9HOUJVQVc4dw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 01:43:15 GMT"
+        },
+        {
+          "title": "트럼프 지지율 33% 최저치 경신 - 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTUllHUHVYRHEyXy11REhhZWw4cHlNWWpnY3A0cERlbVlvcjVtTUxaQUVyS1Q2V2xBWlpiQkZSTXFYVUpWX2hjRF9iNlU1SFVFNXZqWm92MzN4UQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 09:22:51 GMT"
+        },
+        {
+          "title": "\"최악 가짜 정보\"…이란, '호르무즈 완전통제' 트럼프 주장 반박(종합) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15RnVVV3loNC1HemtGMzB5M1JvZENuU3BWUmtNY3VwX0t1UV9KcXBJaDVYeVpRa2tKSzdET2RLSEF4dmpJcnoyTGZ3YVc5Q3RKbWhwdEl6UnF5dWfSAWBBVV95cUxPUjJ4aGJLOHkxUzUzcmd2Uy0tVVdtcGd5WFE1TmRuZHRrQjJaSHRpQnVlTTQ0d29vdkUzOUVRUkdvaDNYcXNoTGZUczlLbGY1SGg1NWxYRU16amJlY1ZaNW8?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 13:02:36 GMT"
+        }
+      ]
+    },
+    {
+      "word": "지지율",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘서울 주거 불안 세대’의 외면…이 대통령 지지율 49% 최저 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54TER5cHJPSzQtYzQ2a2swQnQ0aFY4QUhGa0xXMnE1U0x0eWRIQlZSeERrT0NxVVAzYjl2OXZ3ZDBkRkxIcVhLWFIxdDlkZVFHZHJ4dWIyX05LcWZfSGZEaGpBazUtMHVGX0sw?oc=5",
           "source": "Google News",
           "published": "Thu, 13 Aug 2026 13:14:00 GMT"
         },
         {
-          "title": "\"李대통령, 분권형 개헌 제안에 '내 임기 단축해서라도 해야'\"(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MRmY1dEpyZlJockNyNTV2Tm1TeGs5Um5aVkRDcmUxVzQtM09BbzA2cWFwZUN4S0VqTWNQTjQ5M2lsa25nREdLUXBsR0V2TlB6cHdOMWNBV0x3YmvSAWBBVV95cUxQZHNFSU9Vb0I5ZnI4MzZhdGtHc0gybC0wSjl1ODktbVBmcVJ0VExUNUNmbnRJWWp2OGl4UkkwaHFidjR3QkppdERncWFOaXYyZC1VWDhwcTE2VUdEY1hRa1k?oc=5",
+          "title": "트럼프 지지율 33% 최저치 경신 - 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTUllHUHVYRHEyXy11REhhZWw4cHlNWWpnY3A0cERlbVlvcjVtTUxaQUVyS1Q2V2xBWlpiQkZSTXFYVUpWX2hjRF9iNlU1SFVFNXZqWm92MzN4UQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 08:17:04 GMT"
+          "published": "Thu, 13 Aug 2026 09:22:51 GMT"
         }
       ]
     },
     {
       "word": "부동산",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "“부동산은 투기, 주식은 투자란 이분법적 사고 극복을” “붕어 아이큐도 아니고”…표는 3위여도 ‘입’은 1위 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Rejh3UlNHRmZ0aTB4MXFzWExzcUpzYkFPQVhmUjNVM21BWEM5b282VTFJU0pHb0FRSW9LV2JNdWFDMUw2TkdfZ3pYazBicDVGOHptbXh4UnA1UdIBX0FVX3lxTE5yNi1DRUpZV1FWUV9ZRFM4SEpQdFlhRFREZFRoY1phdjRGNEl3OFkxdzZTcnBpbTdBbmx4Rm94S2RJRkZtbVhaWXdMZl9YQzVMOEg2OHRkQnZOb0xsQVp3?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 12:31:00 GMT"
+        },
+        {
+          "title": "與 의총서 \"이대로면 총선·대선 못한다\"‥李 정부 부동산 정책 '성토' - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LWVJuX3pxR0h3eE5wcnF1bjJDMlZLZEhhb1RiUmlQbllQNzNoeDJFajB1NG1ncHlyS05pN0hVQTVXRm9TUk84MXlMMDR1UHhZbGxvV20wQWxuTFM3cVBVUjNxWTEyQ0pnbWlBTlVIRU84RU96VDdUd9IBeEFVX3lxTE9mYnZEZklKajhKY2pNWExiZXhON1Fvc1hTcG5heENwbF9IX3AtQzR5Vno2OUJrRGxNZkdnd29iSmZCOHFGOHZtb1lpSmtHelpXeFl0UlBlMVFwVlZyTUNVVWNjejlMSkJDVWJLcXJodkhNM29QYlhISw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 09:18:18 GMT"
+        }
+      ]
+    },
+    {
+      "word": "1위",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "“부동산은 투기, 주식은 투자란 이분법적 사고 극복을” “붕어 아이큐도 아니고”…표는 3위여도 ‘입’은 1위 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Rejh3UlNHRmZ0aTB4MXFzWExzcUpzYkFPQVhmUjNVM21BWEM5b282VTFJU0pHb0FRSW9LV2JNdWFDMUw2TkdfZ3pYazBicDVGOHptbXh4UnA1UdIBX0FVX3lxTE5yNi1DRUpZV1FWUV9ZRFM4SEpQdFlhRFREZFRoY1phdjRGNEl3OFkxdzZTcnBpbTdBbmx4Rm94S2RJRkZtbVhaWXdMZl9YQzVMOEg2OHRkQnZOb0xsQVp3?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 12:31:00 GMT"
+        },
+        {
+          "title": "탁구 혼복 세계 1위 임종훈-신유빈, 유럽 스매시 8강서 고배 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qdWFFX2RvTkt2cTJTemNqWkV1c2ZSMWVjbDhyem1pUGV0RlpQLUc4WU9FUkRKalZ2TG43dG9Ha09ZUzhfM2xVXy1CUDNVT3RQa0xyUExJSUVQYUhP?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 11:38:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "정부",
       "count": 2,
       "category": "NOUN",
       "articles": [
@@ -34,10 +97,10 @@
           "published": "Thu, 13 Aug 2026 09:18:18 GMT"
         },
         {
-          "title": "내년부터 '비거주 1주택자' 전세대출 보증 막힌다 [8·13 부동산 금융대책] - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iSG03VXlESGNWaGUzajBZTnotSkhIcm85ZmtQbXVQUmdJUXdyOS1KMWVLRVN3NkxqZDl1anR4S0VCQUpZUkdnRE1sSHNVTGxvaWJjOGt6cGFEdw?oc=5",
+          "title": "미 정부, 북한 추정 해커 악용 '윈도우 결함' 발견…연방기관에 긴급 조치 명령 - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaUZ6RkxkLUE5MHZiLXRzVXpJSDJRZktxV2tDR2Q1MmN6MDlVV085ZFRpa1hNUVNqbnNKSjhUUTV1MG54V0QzRnRpNXRTVEhoSXNXQTJuY1QtekRPR0hUVk9KZTdEVkNiWnNMV3dyNUJlTXRvVEh6Q1dIX29DdDdOb3RXMzBnWm1iUVNLcFMtQ1JsQk8zZGVTdHdDU2tXNkHSAaIBQVVfeXFMTmttTU9GcGVXVG83QXpuUVdhd0x6UEFqOGRoNXlfaVFNd2E0TVRHUUhDcUtKOFZlb3Q2VUsycmZ1OFpmMFZLaEFodW1FUkxRbC1lTXFrZEVxSzJOcVhXWnprOERaZTYwWGdBa3Q2eGhmajR5bzNMR0JqaVpXeWNpME1ZQ1NXLXV6X2YxaUVaT253eDVhUDFCSEdEdlhqSUptdnNB?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 03:00:18 GMT"
+          "published": "Thu, 13 Aug 2026 18:14:45 GMT"
         }
       ]
     },
@@ -47,7 +110,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "“넌 임신도 못하겠다” 성희롱에 사생활 감시까지…정부, 병원 내 ‘태움’ 잡는다 - 동아일보",
+          "title": "“넌 임신도 못하겠다” 성희롱에 사생활 감시까지…정부, 병원 내 ‘태움’ 잡는다 - donga.com",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoOVlZNmszeW5HSE5TeFd5RUNycWp3cjk2SUJWVmdpT0FHSEVRVFlleGQwaFowZkVFSkdISmU1WjhBaC1FRFYwQ2o0c2VFNS1xandLLWVFUTUtZGhsb1ZmdUFsNjUwdjVxMGlPNnE4Zlh2eDR3V1HSAWZBVV95cUxORExQbG9FM2EyYmJXUmV0RG50cEZmUDlfZGFaTjNSUFdvTXA3a0JZdjRhT2hESmVzODZtT0lzdkIwQi1pczYtLXlzWmJhTjZTM2d0dkFURnR4d0p5RHpNalNTNmJpMVE?oc=5",
           "source": "Google News",
           "published": "Thu, 13 Aug 2026 08:41:25 GMT"
@@ -61,40 +124,21 @@
       ]
     },
     {
-      "word": "유럽",
+      "word": "연휴",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "유럽 '세기의 일식 우주쇼', 우리 달 탐사선도 포착했다 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GOFprUVBWakhQTXVJOUQ1anR0OW9LM2tza29xQXlHSnV1RE5tYW0welpRRWctQXNVQkt2TlRKdzd0NUlFd3VoanNkRWN1Z2E2VVFqNF9hVnBvNDTSAWBBVV95cUxQYWhSNnNOanNwN0NPcXkwSnhSOHlYUHJfbVFKM2lCbi1ZNk83Wm5WSXA3Vkp2Zi1GU0JPakp5Mmc1Qm9rdWlFejlmZHcyMEZIMDM0eTg4Tmg3ZDNmNXFlUmk?oc=5",
+          "title": "[날씨] 금요일 말복, 한낮 체감 33℃ 더위…광복절 연휴 비 소식 - yonhapnewstv.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qMXhod21iUmVLLThKd25GY0VxM08yZ1pOV3VqVzZ0Y0RKWlZhQlV6NkZsSndsd2FrbURfYzV1RnhYelJNclFPcmVHY20tOVFJRmdEQUJWa29GMzhEWXNaM1h4cTY3XzA?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 07:25:39 GMT"
+          "published": "Thu, 13 Aug 2026 14:40:00 GMT"
         },
         {
-          "title": "탁구 혼복 세계 1위 임종훈-신유빈, 유럽 스매시 8강서 고배 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0ZzlpbFdFRjJ5cGxBM0Noem8xN1B0WFc5ZHRadlRBX1F1LTM1eWlvR1dQSkx4QktTOEt6Q0tSV2tZRW1RbEZubWF2a0ZOWDlRNDlMYUlRUmRzdw?oc=5",
+          "title": "연휴 ‘돌핀’이 남긴 비구름 온다…“해갈에 도움” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBsWFRiMlE0Mkt2UEx6eDJkWWRLX25Kclp2Z0l2OUFWTFZkM0tONEFZQTc0aDRKNXFwRmhKYUpIeTJQdnpueVE2ZFhoS3UyTklndEVha3VMSHJQeENQWW9JOHlvRThzZw?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 11:38:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "포착",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "유럽 '세기의 일식 우주쇼', 우리 달 탐사선도 포착했다 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GOFprUVBWakhQTXVJOUQ1anR0OW9LM2tza29xQXlHSnV1RE5tYW0welpRRWctQXNVQkt2TlRKdzd0NUlFd3VoanNkRWN1Z2E2VVFqNF9hVnBvNDTSAWBBVV95cUxQYWhSNnNOanNwN0NPcXkwSnhSOHlYUHJfbVFKM2lCbi1ZNk83Wm5WSXA3Vkp2Zi1GU0JPakp5Mmc1Qm9rdWlFejlmZHcyMEZIMDM0eTg4Tmg3ZDNmNXFlUmk?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 07:25:39 GMT"
-        },
-        {
-          "title": "[우주칼럼] “별처럼 빛나는 블랙홀”…JWST가 포착한 ‘블랙홀 별’, 초기 우주 블랙홀 성장의 새 단서 - 뉴스스페이스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54dDBBa0tnLUQ4Yl9sbXo2OE5ZNUVoeDVPYnp0X0loS3NjYm5yOE5yT1FTSjRJVFNnU3ctTXJxbl9aTzkxcnlOUjhLQXRNXzVGSDlqaGtXQnc1eEcwWmVPMw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 07:22:26 GMT"
+          "published": "Thu, 13 Aug 2026 12:23:00 GMT"
         }
       ]
     },
@@ -110,48 +154,10 @@
           "published": "Thu, 13 Aug 2026 14:31:07 GMT"
         },
         {
-          "title": "유명 기업 사칭→검색 결과 악용…정교해지는 북한 해킹 - 디지털투데이",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00bFBRM2E1SGJRcnJDcldSWXpmNUhHcERIRmlLUDBjWXNGWFpkemFRMlpwNUpzQnFfNWdhejhYYm1sdTNLX2hFSWp4MDkwSm9QX3VUVjJ5amhNam9mLVJtbE94YndLRFo0MGd2a3FOaU5jMmc?oc=5",
+          "title": "미 정부, 북한 추정 해커 악용 '윈도우 결함' 발견…연방기관에 긴급 조치 명령 - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaUZ6RkxkLUE5MHZiLXRzVXpJSDJRZktxV2tDR2Q1MmN6MDlVV085ZFRpa1hNUVNqbnNKSjhUUTV1MG54V0QzRnRpNXRTVEhoSXNXQTJuY1QtekRPR0hUVk9KZTdEVkNiWnNMV3dyNUJlTXRvVEh6Q1dIX29DdDdOb3RXMzBnWm1iUVNLcFMtQ1JsQk8zZGVTdHdDU2tXNkHSAaIBQVVfeXFMTmttTU9GcGVXVG83QXpuUVdhd0x6UEFqOGRoNXlfaVFNd2E0TVRHUUhDcUtKOFZlb3Q2VUsycmZ1OFpmMFZLaEFodW1FUkxRbC1lTXFrZEVxSzJOcVhXWnprOERaZTYwWGdBa3Q2eGhmajR5bzNMR0JqaVpXeWNpME1ZQ1NXLXV6X2YxaUVaT253eDVhUDFCSEdEdlhqSUptdnNB?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 02:07:05 GMT"
-        }
-      ]
-    },
-    {
-      "word": "전쟁",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "국무부 \"북한 무기 이전이 전쟁 장기화…러시아의 북한군 훈련은 안보리 결의 위반\" - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13cGljWHhqUGIwZEpXYkphNGEtQ1poYXdTVS10TDlFYzZYS2ZZU3YtektWOVkxMko5d20yNEhTVlh4d3NfQzhPN1ExaC1ucmtMNUdtRUN1TW8wUWVIV2VrVHBFTkZoS1dtZWN5bXl0eVQ5N3lCU3fSAXhBVV95cUxOS1gzWjlxZEhHZGl6SkxPdU5rVjJEVENhYzh5Y0IyRDlMX1g0cmtlbUV5anEtcU4xRFRnVUdFVHdtcTItWHg0VWpDRmk1NlU1N2x6amFCVHhWR0xucTJqOVFXVFkyUXRSZlFheW9aR0hyQlBjU19aRk4?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 14:31:07 GMT"
-        },
-        {
-          "title": "‘오디세이’ 암표 30만원까지…아이맥스관, 전쟁 같은 ‘피케팅’ - hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFeFFOeGZxZ0VSTW9ETGpJclZ5b1IteEdHUFV1WXktdllNRDZMOHNWeTI1UkFEVmlqSGFIOVFsZVh4a0tyazI1SG03czF6VlFGUzBBSkRWNTRZYTkyc25kUXBtS3FfbVJmeEkwazgwbzQyUQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 09:40:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "상대",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“5개월째 이란 상대 美항모 장병들, 정신 건강 악화…제대로 된 식사도 없어” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WZjEyYVB4RGFpcFlBbFNHVWhXSzBZdGlmWHFkVnRqNWIzem12Y0lHVDRKSWpia3dQT1F0c2JrYnlNMWZGN0k3Z2JRRXhuWlIyVEtVN0pJS0h6dUgzQ2xlS0N0OXJtT1I1SWxhd1dBQjVqclnSAWZBVV95cUxPeHhSdFhVc0loMEZMS2Q4RGZsaE1UalZWVEZwUzhBc2tqN09hYV9JUUNxcWhUcUFMSF96S2w4U2l3QjQ0di1Wa0pkWjg4QXNBbDdNT2VwendiTmtwZFExaVVVa1lzWWc?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 07:54:00 GMT"
-        },
-        {
-          "title": "황정민 상대 2억 원 손배소, 오늘 1차 조정기일 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FUDczckVHRy03WWRZZmR2TUZrZ3hub0UxaHVBcUl3UlVQb0hiVmVyU3JOcHlYRGEzMXFPeGZwVThrSzFsWmJXczByclBhaUNLanVDWDFvUGRiUG1hU3c?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 15:05:00 GMT"
+          "published": "Thu, 13 Aug 2026 18:14:45 GMT"
         }
       ]
     },
@@ -169,21 +175,151 @@
       ]
     },
     {
-      "word": "8강",
+      "word": "키움",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "손서연 19점 U-17 여자배구, 필리핀 완파 세계선수권 8강 진출 - 경남도민신문",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvYzBTMjBWMG5vcDY1eDJsR0l0T1AxY1hzdVBkWjNKTE1ZNHVSN0JNb3RSNURBVTFiYktPN2EtUGxCMnNBbHdnVHNfWV9GOFZWd3hEd2lfQWpCV2VsZDQ4YW1HbEstb2xV?oc=5",
+          "title": "'침몰 직전' LG, 키움 '보약' 먹고 위기탈출! 한숨 돌린 염갈량…7~8월 위닝시리즈 3번 모두 키움 [고척포커스] - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU3QtbE04TE1JMWcxTmZOMVlJcFNLSDBsOHNmTEJQQjljZ2E5TVRPSlpjRlJscF85cHVYcnJtRU1XYTFGOXFNMWRoRTN3VENtZi1jMkpHSmp3dnkxcFFrZk5HUndrYWR5SksxaGdGSlhnMWtKLXlKR3FManZHSko4Mzh5UQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 07:03:19 GMT"
+          "published": "Thu, 13 Aug 2026 16:15:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "위험",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "\"평소 계단 오르는 사람, 심혈관질환 사망 위험 39% 낮아\" - 세무사신문",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TY1pILVlCZ24zY1Fod3dIb2JkejlTVnRHYXA1cnJSaWJsbXBOSHNfMEZ3YzJONHMwcV96N0ZiYUJmOUNiVUNQTmxhNGdiZDNNemQxZGlsVGt2d0hEZjdVV0xicFhNbWJDcmdaMm9R?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 00:53:31 GMT"
         },
         {
-          "title": "손흥민 풀타임·승부차기 성공… LAFC, 케레타로 꺾고 리그스컵 8강 '청신호' - 경기일보",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uNUl2M2ZBckdaOFYxRHhBdlZ6ZGU2a1huX0IzcEUzcnRNWFBMSUJvQjN5ejFNTWt1UWtDUlNPUFJUVHBRNWt4bGxmbmE3bS13QmUzRU1QbTkxOUE?oc=5",
+          "title": "폐경 후 호르몬 요법, 알츠하이머 위험도 낮출까 '새 연구' - 의협신문",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iS1JTVktiaUVtV2NKaDVCNFhBbHI0Q3dMaXpmZG9TTTJ1MUgtdC1EdDRLdUhhNy05QUdBQTFRMXQ4YzA0Q0d0RVhDaUREVWNBUFFsNlMwci1wUURFNjk0M1hYdTBVNHg2QmkybjlRUk5nUQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 07:16:12 GMT"
+          "published": "Thu, 13 Aug 2026 02:08:33 GMT"
+        }
+      ]
+    },
+    {
+      "word": "이진숙",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이진숙이 주최한 ‘국회 5·18 토론회’서 논란 “광주를 고립·분열시켜야”…전두환 옹호도 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50TDNxR2FUUXp3My1IdmhsOTBsWnNEMzJvT1FIMkJwNmh3eWRsQS1ZLTRmc0pqNmNDTm85emJmeTgyaWRqUk9jS2MyN3Z0eXpJbjBaZFFpWGNUd9IBX0FVX3lxTE9ZMnlmdzhneG9TTnVXSkJxbTdKemZjaUpOeWJPTWlDMXF5VHh0NndUX1BOSmdUS1NUcHRGOWQ2SkhrODNvc0MwTGJtY0VhMGhsQ1RjU0ZreElnMXpxT2RR?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 12:28:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "주최",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이진숙이 주최한 ‘국회 5·18 토론회’서 논란 “광주를 고립·분열시켜야”…전두환 옹호도 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50TDNxR2FUUXp3My1IdmhsOTBsWnNEMzJvT1FIMkJwNmh3eWRsQS1ZLTRmc0pqNmNDTm85emJmeTgyaWRqUk9jS2MyN3Z0eXpJbjBaZFFpWGNUd9IBX0FVX3lxTE9ZMnlmdzhneG9TTnVXSkJxbTdKemZjaUpOeWJPTWlDMXF5VHh0NndUX1BOSmdUS1NUcHRGOWQ2SkhrODNvc0MwTGJtY0VhMGhsQ1RjU0ZreElnMXpxT2RR?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 12:28:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "국회",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이진숙이 주최한 ‘국회 5·18 토론회’서 논란 “광주를 고립·분열시켜야”…전두환 옹호도 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50TDNxR2FUUXp3My1IdmhsOTBsWnNEMzJvT1FIMkJwNmh3eWRsQS1ZLTRmc0pqNmNDTm85emJmeTgyaWRqUk9jS2MyN3Z0eXpJbjBaZFFpWGNUd9IBX0FVX3lxTE9ZMnlmdzhneG9TTnVXSkJxbTdKemZjaUpOeWJPTWlDMXF5VHh0NndUX1BOSmdUS1NUcHRGOWQ2SkhrODNvc0MwTGJtY0VhMGhsQ1RjU0ZreElnMXpxT2RR?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 12:28:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "518",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이진숙이 주최한 ‘국회 5·18 토론회’서 논란 “광주를 고립·분열시켜야”…전두환 옹호도 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50TDNxR2FUUXp3My1IdmhsOTBsWnNEMzJvT1FIMkJwNmh3eWRsQS1ZLTRmc0pqNmNDTm85emJmeTgyaWRqUk9jS2MyN3Z0eXpJbjBaZFFpWGNUd9IBX0FVX3lxTE9ZMnlmdzhneG9TTnVXSkJxbTdKemZjaUpOeWJPTWlDMXF5VHh0NndUX1BOSmdUS1NUcHRGOWQ2SkhrODNvc0MwTGJtY0VhMGhsQ1RjU0ZreElnMXpxT2RR?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 12:28:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "토론회서",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이진숙이 주최한 ‘국회 5·18 토론회’서 논란 “광주를 고립·분열시켜야”…전두환 옹호도 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50TDNxR2FUUXp3My1IdmhsOTBsWnNEMzJvT1FIMkJwNmh3eWRsQS1ZLTRmc0pqNmNDTm85emJmeTgyaWRqUk9jS2MyN3Z0eXpJbjBaZFFpWGNUd9IBX0FVX3lxTE9ZMnlmdzhneG9TTnVXSkJxbTdKemZjaUpOeWJPTWlDMXF5VHh0NndUX1BOSmdUS1NUcHRGOWQ2SkhrODNvc0MwTGJtY0VhMGhsQ1RjU0ZreElnMXpxT2RR?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 12:28:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "논란",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이진숙이 주최한 ‘국회 5·18 토론회’서 논란 “광주를 고립·분열시켜야”…전두환 옹호도 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50TDNxR2FUUXp3My1IdmhsOTBsWnNEMzJvT1FIMkJwNmh3eWRsQS1ZLTRmc0pqNmNDTm85emJmeTgyaWRqUk9jS2MyN3Z0eXpJbjBaZFFpWGNUd9IBX0FVX3lxTE9ZMnlmdzhneG9TTnVXSkJxbTdKemZjaUpOeWJPTWlDMXF5VHh0NndUX1BOSmdUS1NUcHRGOWQ2SkhrODNvc0MwTGJtY0VhMGhsQ1RjU0ZreElnMXpxT2RR?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 12:28:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "광주",
+      "count": 1,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "이진숙이 주최한 ‘국회 5·18 토론회’서 논란 “광주를 고립·분열시켜야”…전두환 옹호도 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50TDNxR2FUUXp3My1IdmhsOTBsWnNEMzJvT1FIMkJwNmh3eWRsQS1ZLTRmc0pqNmNDTm85emJmeTgyaWRqUk9jS2MyN3Z0eXpJbjBaZFFpWGNUd9IBX0FVX3lxTE9ZMnlmdzhneG9TTnVXSkJxbTdKemZjaUpOeWJPTWlDMXF5VHh0NndUX1BOSmdUS1NUcHRGOWQ2SkhrODNvc0MwTGJtY0VhMGhsQ1RjU0ZreElnMXpxT2RR?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 12:28:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "고립분열시켜야전두환",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이진숙이 주최한 ‘국회 5·18 토론회’서 논란 “광주를 고립·분열시켜야”…전두환 옹호도 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50TDNxR2FUUXp3My1IdmhsOTBsWnNEMzJvT1FIMkJwNmh3eWRsQS1ZLTRmc0pqNmNDTm85emJmeTgyaWRqUk9jS2MyN3Z0eXpJbjBaZFFpWGNUd9IBX0FVX3lxTE9ZMnlmdzhneG9TTnVXSkJxbTdKemZjaUpOeWJPTWlDMXF5VHh0NndUX1BOSmdUS1NUcHRGOWQ2SkhrODNvc0MwTGJtY0VhMGhsQ1RjU0ZreElnMXpxT2RR?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 12:28:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "옹호",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이진숙이 주최한 ‘국회 5·18 토론회’서 논란 “광주를 고립·분열시켜야”…전두환 옹호도 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50TDNxR2FUUXp3My1IdmhsOTBsWnNEMzJvT1FIMkJwNmh3eWRsQS1ZLTRmc0pqNmNDTm85emJmeTgyaWRqUk9jS2MyN3Z0eXpJbjBaZFFpWGNUd9IBX0FVX3lxTE9ZMnlmdzhneG9TTnVXSkJxbTdKemZjaUpOeWJPTWlDMXF5VHh0NndUX1BOSmdUS1NUcHRGOWQ2SkhrODNvc0MwTGJtY0VhMGhsQ1RjU0ZreElnMXpxT2RR?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 12:28:00 GMT"
         }
       ]
     },
@@ -193,7 +329,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘서울 주거 불안 세대’의 외면…이 대통령 지지율 49% 최저 - hani.co.kr",
+          "title": "‘서울 주거 불안 세대’의 외면…이 대통령 지지율 49% 최저 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54TER5cHJPSzQtYzQ2a2swQnQ0aFY4QUhGa0xXMnE1U0x0eWRIQlZSeERrT0NxVVAzYjl2OXZ3ZDBkRkxIcVhLWFIxdDlkZVFHZHJ4dWIyX05LcWZfSGZEaGpBazUtMHVGX0sw?oc=5",
           "source": "Google News",
           "published": "Thu, 13 Aug 2026 13:14:00 GMT"
@@ -206,7 +342,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘서울 주거 불안 세대’의 외면…이 대통령 지지율 49% 최저 - hani.co.kr",
+          "title": "‘서울 주거 불안 세대’의 외면…이 대통령 지지율 49% 최저 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54TER5cHJPSzQtYzQ2a2swQnQ0aFY4QUhGa0xXMnE1U0x0eWRIQlZSeERrT0NxVVAzYjl2OXZ3ZDBkRkxIcVhLWFIxdDlkZVFHZHJ4dWIyX05LcWZfSGZEaGpBazUtMHVGX0sw?oc=5",
           "source": "Google News",
           "published": "Thu, 13 Aug 2026 13:14:00 GMT"
@@ -219,7 +355,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘서울 주거 불안 세대’의 외면…이 대통령 지지율 49% 최저 - hani.co.kr",
+          "title": "‘서울 주거 불안 세대’의 외면…이 대통령 지지율 49% 최저 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54TER5cHJPSzQtYzQ2a2swQnQ0aFY4QUhGa0xXMnE1U0x0eWRIQlZSeERrT0NxVVAzYjl2OXZ3ZDBkRkxIcVhLWFIxdDlkZVFHZHJ4dWIyX05LcWZfSGZEaGpBazUtMHVGX0sw?oc=5",
           "source": "Google News",
           "published": "Thu, 13 Aug 2026 13:14:00 GMT"
@@ -232,7 +368,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘서울 주거 불안 세대’의 외면…이 대통령 지지율 49% 최저 - hani.co.kr",
+          "title": "‘서울 주거 불안 세대’의 외면…이 대통령 지지율 49% 최저 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54TER5cHJPSzQtYzQ2a2swQnQ0aFY4QUhGa0xXMnE1U0x0eWRIQlZSeERrT0NxVVAzYjl2OXZ3ZDBkRkxIcVhLWFIxdDlkZVFHZHJ4dWIyX05LcWZfSGZEaGpBazUtMHVGX0sw?oc=5",
           "source": "Google News",
           "published": "Thu, 13 Aug 2026 13:14:00 GMT"
@@ -245,7 +381,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘서울 주거 불안 세대’의 외면…이 대통령 지지율 49% 최저 - hani.co.kr",
+          "title": "‘서울 주거 불안 세대’의 외면…이 대통령 지지율 49% 최저 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54TER5cHJPSzQtYzQ2a2swQnQ0aFY4QUhGa0xXMnE1U0x0eWRIQlZSeERrT0NxVVAzYjl2OXZ3ZDBkRkxIcVhLWFIxdDlkZVFHZHJ4dWIyX05LcWZfSGZEaGpBazUtMHVGX0sw?oc=5",
           "source": "Google News",
           "published": "Thu, 13 Aug 2026 13:14:00 GMT"
@@ -253,12 +389,12 @@
       ]
     },
     {
-      "word": "지지율",
+      "word": "대통령",
       "count": 1,
-      "category": "NOUN",
+      "category": "PERSON",
       "articles": [
         {
-          "title": "‘서울 주거 불안 세대’의 외면…이 대통령 지지율 49% 최저 - hani.co.kr",
+          "title": "‘서울 주거 불안 세대’의 외면…이 대통령 지지율 49% 최저 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54TER5cHJPSzQtYzQ2a2swQnQ0aFY4QUhGa0xXMnE1U0x0eWRIQlZSeERrT0NxVVAzYjl2OXZ3ZDBkRkxIcVhLWFIxdDlkZVFHZHJ4dWIyX05LcWZfSGZEaGpBazUtMHVGX0sw?oc=5",
           "source": "Google News",
           "published": "Thu, 13 Aug 2026 13:14:00 GMT"
@@ -271,23 +407,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘서울 주거 불안 세대’의 외면…이 대통령 지지율 49% 최저 - hani.co.kr",
+          "title": "‘서울 주거 불안 세대’의 외면…이 대통령 지지율 49% 최저 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54TER5cHJPSzQtYzQ2a2swQnQ0aFY4QUhGa0xXMnE1U0x0eWRIQlZSeERrT0NxVVAzYjl2OXZ3ZDBkRkxIcVhLWFIxdDlkZVFHZHJ4dWIyX05LcWZfSGZEaGpBazUtMHVGX0sw?oc=5",
           "source": "Google News",
           "published": "Thu, 13 Aug 2026 13:14:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "트럼프",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프 전용기 기만작전, 푸틴에 비하면 애들 장난…어떻기에? - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxclFZSHpPMmpBWXQxbGVCeWNnV2pTbUIzMXQya0tDZ3FXdHIyQTJsSmRwNlNUYWc2NWRESDZtTTlmT1pGRzN4em94dWJRZkJNaW5vc2dvanBkSk95cTI0cnlwQWhhRXdBMkJOY0lQOXNkS0HSAWZBVV95cUxPa1p2Wi1DX25OTW5NTktuZkQ2VFFQUG03R2RFd1ZhdkJyOTJUTzRjN0VLVEgxVk1lMndHVlpoX3R6M2ZnLXA3V3BiNHhoUF9WSXhGaE1OOGE4TzlJX19fNVBleW5GX0E?oc=5",
-          "source": "Google News",
-          "published": "Wed, 12 Aug 2026 23:32:00 GMT"
         }
       ]
     },
@@ -297,23 +420,36 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 전용기 기만작전, 푸틴에 비하면 애들 장난…어떻기에? - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxclFZSHpPMmpBWXQxbGVCeWNnV2pTbUIzMXQya0tDZ3FXdHIyQTJsSmRwNlNUYWc2NWRESDZtTTlmT1pGRzN4em94dWJRZkJNaW5vc2dvanBkSk95cTI0cnlwQWhhRXdBMkJOY0lQOXNkS0HSAWZBVV95cUxPa1p2Wi1DX25OTW5NTktuZkQ2VFFQUG03R2RFd1ZhdkJyOTJUTzRjN0VLVEgxVk1lMndHVlpoX3R6M2ZnLXA3V3BiNHhoUF9WSXhGaE1OOGE4TzlJX19fNVBleW5GX0E?oc=5",
+          "title": "트럼프 전용기 기만 작전, 푸틴 비밀주의에 비하면… - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVkFaTElEQ0YwQmFITndnWGRSMDZQQ0M0a2x3RE5hNUdJWEtXcW4zeU12SGxHNlI5ZDlXUkFRaGxrcUV6VUxpdmdNUVZoSTJmcHBkaURpS2dDY3QtT3pTekttTF9HU28yRHZzOGhQVjhtYUc5d3ZRWjNLWU4xWXlaQXNDZ3ZpWUdpdWZaSUV2SnBQYW9rSW9HOUJVQVc4dw?oc=5",
           "source": "Google News",
-          "published": "Wed, 12 Aug 2026 23:32:00 GMT"
+          "published": "Thu, 13 Aug 2026 01:43:15 GMT"
         }
       ]
     },
     {
-      "word": "기만작전",
+      "word": "기만",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 전용기 기만작전, 푸틴에 비하면 애들 장난…어떻기에? - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxclFZSHpPMmpBWXQxbGVCeWNnV2pTbUIzMXQya0tDZ3FXdHIyQTJsSmRwNlNUYWc2NWRESDZtTTlmT1pGRzN4em94dWJRZkJNaW5vc2dvanBkSk95cTI0cnlwQWhhRXdBMkJOY0lQOXNkS0HSAWZBVV95cUxPa1p2Wi1DX25OTW5NTktuZkQ2VFFQUG03R2RFd1ZhdkJyOTJUTzRjN0VLVEgxVk1lMndHVlpoX3R6M2ZnLXA3V3BiNHhoUF9WSXhGaE1OOGE4TzlJX19fNVBleW5GX0E?oc=5",
+          "title": "트럼프 전용기 기만 작전, 푸틴 비밀주의에 비하면… - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVkFaTElEQ0YwQmFITndnWGRSMDZQQ0M0a2x3RE5hNUdJWEtXcW4zeU12SGxHNlI5ZDlXUkFRaGxrcUV6VUxpdmdNUVZoSTJmcHBkaURpS2dDY3QtT3pTekttTF9HU28yRHZzOGhQVjhtYUc5d3ZRWjNLWU4xWXlaQXNDZ3ZpWUdpdWZaSUV2SnBQYW9rSW9HOUJVQVc4dw?oc=5",
           "source": "Google News",
-          "published": "Wed, 12 Aug 2026 23:32:00 GMT"
+          "published": "Thu, 13 Aug 2026 01:43:15 GMT"
+        }
+      ]
+    },
+    {
+      "word": "작전",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프 전용기 기만 작전, 푸틴 비밀주의에 비하면… - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVkFaTElEQ0YwQmFITndnWGRSMDZQQ0M0a2x3RE5hNUdJWEtXcW4zeU12SGxHNlI5ZDlXUkFRaGxrcUV6VUxpdmdNUVZoSTJmcHBkaURpS2dDY3QtT3pTekttTF9HU28yRHZzOGhQVjhtYUc5d3ZRWjNLWU4xWXlaQXNDZ3ZpWUdpdWZaSUV2SnBQYW9rSW9HOUJVQVc4dw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 01:43:15 GMT"
         }
       ]
     },
@@ -323,10 +459,23 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 전용기 기만작전, 푸틴에 비하면 애들 장난…어떻기에? - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxclFZSHpPMmpBWXQxbGVCeWNnV2pTbUIzMXQya0tDZ3FXdHIyQTJsSmRwNlNUYWc2NWRESDZtTTlmT1pGRzN4em94dWJRZkJNaW5vc2dvanBkSk95cTI0cnlwQWhhRXdBMkJOY0lQOXNkS0HSAWZBVV95cUxPa1p2Wi1DX25OTW5NTktuZkQ2VFFQUG03R2RFd1ZhdkJyOTJUTzRjN0VLVEgxVk1lMndHVlpoX3R6M2ZnLXA3V3BiNHhoUF9WSXhGaE1OOGE4TzlJX19fNVBleW5GX0E?oc=5",
+          "title": "트럼프 전용기 기만 작전, 푸틴 비밀주의에 비하면… - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVkFaTElEQ0YwQmFITndnWGRSMDZQQ0M0a2x3RE5hNUdJWEtXcW4zeU12SGxHNlI5ZDlXUkFRaGxrcUV6VUxpdmdNUVZoSTJmcHBkaURpS2dDY3QtT3pTekttTF9HU28yRHZzOGhQVjhtYUc5d3ZRWjNLWU4xWXlaQXNDZ3ZpWUdpdWZaSUV2SnBQYW9rSW9HOUJVQVc4dw?oc=5",
           "source": "Google News",
-          "published": "Wed, 12 Aug 2026 23:32:00 GMT"
+          "published": "Thu, 13 Aug 2026 01:43:15 GMT"
+        }
+      ]
+    },
+    {
+      "word": "비밀주",
+      "count": 1,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "트럼프 전용기 기만 작전, 푸틴 비밀주의에 비하면… - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVkFaTElEQ0YwQmFITndnWGRSMDZQQ0M0a2x3RE5hNUdJWEtXcW4zeU12SGxHNlI5ZDlXUkFRaGxrcUV6VUxpdmdNUVZoSTJmcHBkaURpS2dDY3QtT3pTekttTF9HU28yRHZzOGhQVjhtYUc5d3ZRWjNLWU4xWXlaQXNDZ3ZpWUdpdWZaSUV2SnBQYW9rSW9HOUJVQVc4dw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 01:43:15 GMT"
         }
       ]
     },
@@ -336,244 +485,101 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 전용기 기만작전, 푸틴에 비하면 애들 장난…어떻기에? - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxclFZSHpPMmpBWXQxbGVCeWNnV2pTbUIzMXQya0tDZ3FXdHIyQTJsSmRwNlNUYWc2NWRESDZtTTlmT1pGRzN4em94dWJRZkJNaW5vc2dvanBkSk95cTI0cnlwQWhhRXdBMkJOY0lQOXNkS0HSAWZBVV95cUxPa1p2Wi1DX25OTW5NTktuZkQ2VFFQUG03R2RFd1ZhdkJyOTJUTzRjN0VLVEgxVk1lMndHVlpoX3R6M2ZnLXA3V3BiNHhoUF9WSXhGaE1OOGE4TzlJX19fNVBleW5GX0E?oc=5",
+          "title": "트럼프 전용기 기만 작전, 푸틴 비밀주의에 비하면… - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVkFaTElEQ0YwQmFITndnWGRSMDZQQ0M0a2x3RE5hNUdJWEtXcW4zeU12SGxHNlI5ZDlXUkFRaGxrcUV6VUxpdmdNUVZoSTJmcHBkaURpS2dDY3QtT3pTekttTF9HU28yRHZzOGhQVjhtYUc5d3ZRWjNLWU4xWXlaQXNDZ3ZpWUdpdWZaSUV2SnBQYW9rSW9HOUJVQVc4dw?oc=5",
           "source": "Google News",
-          "published": "Wed, 12 Aug 2026 23:32:00 GMT"
+          "published": "Thu, 13 Aug 2026 01:43:15 GMT"
         }
       ]
     },
     {
-      "word": "애들",
+      "word": "투기",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 전용기 기만작전, 푸틴에 비하면 애들 장난…어떻기에? - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxclFZSHpPMmpBWXQxbGVCeWNnV2pTbUIzMXQya0tDZ3FXdHIyQTJsSmRwNlNUYWc2NWRESDZtTTlmT1pGRzN4em94dWJRZkJNaW5vc2dvanBkSk95cTI0cnlwQWhhRXdBMkJOY0lQOXNkS0HSAWZBVV95cUxPa1p2Wi1DX25OTW5NTktuZkQ2VFFQUG03R2RFd1ZhdkJyOTJUTzRjN0VLVEgxVk1lMndHVlpoX3R6M2ZnLXA3V3BiNHhoUF9WSXhGaE1OOGE4TzlJX19fNVBleW5GX0E?oc=5",
+          "title": "“부동산은 투기, 주식은 투자란 이분법적 사고 극복을” “붕어 아이큐도 아니고”…표는 3위여도 ‘입’은 1위 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Rejh3UlNHRmZ0aTB4MXFzWExzcUpzYkFPQVhmUjNVM21BWEM5b282VTFJU0pHb0FRSW9LV2JNdWFDMUw2TkdfZ3pYazBicDVGOHptbXh4UnA1UdIBX0FVX3lxTE5yNi1DRUpZV1FWUV9ZRFM4SEpQdFlhRFREZFRoY1phdjRGNEl3OFkxdzZTcnBpbTdBbmx4Rm94S2RJRkZtbVhaWXdMZl9YQzVMOEg2OHRkQnZOb0xsQVp3?oc=5",
           "source": "Google News",
-          "published": "Wed, 12 Aug 2026 23:32:00 GMT"
+          "published": "Thu, 13 Aug 2026 12:31:00 GMT"
         }
       ]
     },
     {
-      "word": "장난어떻기",
+      "word": "주식",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 전용기 기만작전, 푸틴에 비하면 애들 장난…어떻기에? - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxclFZSHpPMmpBWXQxbGVCeWNnV2pTbUIzMXQya0tDZ3FXdHIyQTJsSmRwNlNUYWc2NWRESDZtTTlmT1pGRzN4em94dWJRZkJNaW5vc2dvanBkSk95cTI0cnlwQWhhRXdBMkJOY0lQOXNkS0HSAWZBVV95cUxPa1p2Wi1DX25OTW5NTktuZkQ2VFFQUG03R2RFd1ZhdkJyOTJUTzRjN0VLVEgxVk1lMndHVlpoX3R6M2ZnLXA3V3BiNHhoUF9WSXhGaE1OOGE4TzlJX19fNVBleW5GX0E?oc=5",
+          "title": "“부동산은 투기, 주식은 투자란 이분법적 사고 극복을” “붕어 아이큐도 아니고”…표는 3위여도 ‘입’은 1위 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Rejh3UlNHRmZ0aTB4MXFzWExzcUpzYkFPQVhmUjNVM21BWEM5b282VTFJU0pHb0FRSW9LV2JNdWFDMUw2TkdfZ3pYazBicDVGOHptbXh4UnA1UdIBX0FVX3lxTE5yNi1DRUpZV1FWUV9ZRFM4SEpQdFlhRFREZFRoY1phdjRGNEl3OFkxdzZTcnBpbTdBbmx4Rm94S2RJRkZtbVhaWXdMZl9YQzVMOEg2OHRkQnZOb0xsQVp3?oc=5",
           "source": "Google News",
-          "published": "Wed, 12 Aug 2026 23:32:00 GMT"
+          "published": "Thu, 13 Aug 2026 12:31:00 GMT"
         }
       ]
     },
     {
-      "word": "드디어가뭄",
+      "word": "투자란",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "드디어…‘가뭄 끝 단비’ 광복절 연휴에 오면 기온 30도까지 - hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBITkh1WVFsREE2ZzlqdlhJRFNocHFBOVZQZU9QVG54ZTF2enFoTnFpOXA0dEVFbkdkRmRuZDAwTUdudUFCY284OEZ2Y0FYTFNmNS1wdm9mNVZyQ3U1ZWxBRmFyYmZLQW5kNF9mcQ?oc=5",
+          "title": "“부동산은 투기, 주식은 투자란 이분법적 사고 극복을” “붕어 아이큐도 아니고”…표는 3위여도 ‘입’은 1위 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Rejh3UlNHRmZ0aTB4MXFzWExzcUpzYkFPQVhmUjNVM21BWEM5b282VTFJU0pHb0FRSW9LV2JNdWFDMUw2TkdfZ3pYazBicDVGOHptbXh4UnA1UdIBX0FVX3lxTE5yNi1DRUpZV1FWUV9ZRFM4SEpQdFlhRFREZFRoY1phdjRGNEl3OFkxdzZTcnBpbTdBbmx4Rm94S2RJRkZtbVhaWXdMZl9YQzVMOEg2OHRkQnZOb0xsQVp3?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 13:14:00 GMT"
+          "published": "Thu, 13 Aug 2026 12:31:00 GMT"
         }
       ]
     },
     {
-      "word": "단비",
+      "word": "이분법",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "드디어…‘가뭄 끝 단비’ 광복절 연휴에 오면 기온 30도까지 - hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBITkh1WVFsREE2ZzlqdlhJRFNocHFBOVZQZU9QVG54ZTF2enFoTnFpOXA0dEVFbkdkRmRuZDAwTUdudUFCY284OEZ2Y0FYTFNmNS1wdm9mNVZyQ3U1ZWxBRmFyYmZLQW5kNF9mcQ?oc=5",
+          "title": "“부동산은 투기, 주식은 투자란 이분법적 사고 극복을” “붕어 아이큐도 아니고”…표는 3위여도 ‘입’은 1위 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Rejh3UlNHRmZ0aTB4MXFzWExzcUpzYkFPQVhmUjNVM21BWEM5b282VTFJU0pHb0FRSW9LV2JNdWFDMUw2TkdfZ3pYazBicDVGOHptbXh4UnA1UdIBX0FVX3lxTE5yNi1DRUpZV1FWUV9ZRFM4SEpQdFlhRFREZFRoY1phdjRGNEl3OFkxdzZTcnBpbTdBbmx4Rm94S2RJRkZtbVhaWXdMZl9YQzVMOEg2OHRkQnZOb0xsQVp3?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 13:14:00 GMT"
+          "published": "Thu, 13 Aug 2026 12:31:00 GMT"
         }
       ]
     },
     {
-      "word": "광복절",
+      "word": "사고",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "드디어…‘가뭄 끝 단비’ 광복절 연휴에 오면 기온 30도까지 - hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBITkh1WVFsREE2ZzlqdlhJRFNocHFBOVZQZU9QVG54ZTF2enFoTnFpOXA0dEVFbkdkRmRuZDAwTUdudUFCY284OEZ2Y0FYTFNmNS1wdm9mNVZyQ3U1ZWxBRmFyYmZLQW5kNF9mcQ?oc=5",
+          "title": "“부동산은 투기, 주식은 투자란 이분법적 사고 극복을” “붕어 아이큐도 아니고”…표는 3위여도 ‘입’은 1위 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Rejh3UlNHRmZ0aTB4MXFzWExzcUpzYkFPQVhmUjNVM21BWEM5b282VTFJU0pHb0FRSW9LV2JNdWFDMUw2TkdfZ3pYazBicDVGOHptbXh4UnA1UdIBX0FVX3lxTE5yNi1DRUpZV1FWUV9ZRFM4SEpQdFlhRFREZFRoY1phdjRGNEl3OFkxdzZTcnBpbTdBbmx4Rm94S2RJRkZtbVhaWXdMZl9YQzVMOEg2OHRkQnZOb0xsQVp3?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 13:14:00 GMT"
+          "published": "Thu, 13 Aug 2026 12:31:00 GMT"
         }
       ]
     },
     {
-      "word": "연휴",
+      "word": "극복",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "드디어…‘가뭄 끝 단비’ 광복절 연휴에 오면 기온 30도까지 - hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBITkh1WVFsREE2ZzlqdlhJRFNocHFBOVZQZU9QVG54ZTF2enFoTnFpOXA0dEVFbkdkRmRuZDAwTUdudUFCY284OEZ2Y0FYTFNmNS1wdm9mNVZyQ3U1ZWxBRmFyYmZLQW5kNF9mcQ?oc=5",
+          "title": "“부동산은 투기, 주식은 투자란 이분법적 사고 극복을” “붕어 아이큐도 아니고”…표는 3위여도 ‘입’은 1위 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Rejh3UlNHRmZ0aTB4MXFzWExzcUpzYkFPQVhmUjNVM21BWEM5b282VTFJU0pHb0FRSW9LV2JNdWFDMUw2TkdfZ3pYazBicDVGOHptbXh4UnA1UdIBX0FVX3lxTE5yNi1DRUpZV1FWUV9ZRFM4SEpQdFlhRFREZFRoY1phdjRGNEl3OFkxdzZTcnBpbTdBbmx4Rm94S2RJRkZtbVhaWXdMZl9YQzVMOEg2OHRkQnZOb0xsQVp3?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 13:14:00 GMT"
+          "published": "Thu, 13 Aug 2026 12:31:00 GMT"
         }
       ]
     },
     {
-      "word": "오면",
+      "word": "붕어",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "드디어…‘가뭄 끝 단비’ 광복절 연휴에 오면 기온 30도까지 - hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBITkh1WVFsREE2ZzlqdlhJRFNocHFBOVZQZU9QVG54ZTF2enFoTnFpOXA0dEVFbkdkRmRuZDAwTUdudUFCY284OEZ2Y0FYTFNmNS1wdm9mNVZyQ3U1ZWxBRmFyYmZLQW5kNF9mcQ?oc=5",
+          "title": "“부동산은 투기, 주식은 투자란 이분법적 사고 극복을” “붕어 아이큐도 아니고”…표는 3위여도 ‘입’은 1위 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Rejh3UlNHRmZ0aTB4MXFzWExzcUpzYkFPQVhmUjNVM21BWEM5b282VTFJU0pHb0FRSW9LV2JNdWFDMUw2TkdfZ3pYazBicDVGOHptbXh4UnA1UdIBX0FVX3lxTE5yNi1DRUpZV1FWUV9ZRFM4SEpQdFlhRFREZFRoY1phdjRGNEl3OFkxdzZTcnBpbTdBbmx4Rm94S2RJRkZtbVhaWXdMZl9YQzVMOEg2OHRkQnZOb0xsQVp3?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 13:14:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "기온",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "드디어…‘가뭄 끝 단비’ 광복절 연휴에 오면 기온 30도까지 - hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBITkh1WVFsREE2ZzlqdlhJRFNocHFBOVZQZU9QVG54ZTF2enFoTnFpOXA0dEVFbkdkRmRuZDAwTUdudUFCY284OEZ2Y0FYTFNmNS1wdm9mNVZyQ3U1ZWxBRmFyYmZLQW5kNF9mcQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 13:14:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "30",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "드디어…‘가뭄 끝 단비’ 광복절 연휴에 오면 기온 30도까지 - hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBITkh1WVFsREE2ZzlqdlhJRFNocHFBOVZQZU9QVG54ZTF2enFoTnFpOXA0dEVFbkdkRmRuZDAwTUdudUFCY284OEZ2Y0FYTFNmNS1wdm9mNVZyQ3U1ZWxBRmFyYmZLQW5kNF9mcQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 13:14:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "의총서",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "與 의총서 \"이대로면 총선·대선 못한다\"‥李 정부 부동산 정책 '성토' - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LWVJuX3pxR0h3eE5wcnF1bjJDMlZLZEhhb1RiUmlQbllQNzNoeDJFajB1NG1ncHlyS05pN0hVQTVXRm9TUk84MXlMMDR1UHhZbGxvV20wQWxuTFM3cVBVUjNxWTEyQ0pnbWlBTlVIRU84RU96VDdUd9IBeEFVX3lxTE9mYnZEZklKajhKY2pNWExiZXhON1Fvc1hTcG5heENwbF9IX3AtQzR5Vno2OUJrRGxNZkdnd29iSmZCOHFGOHZtb1lpSmtHelpXeFl0UlBlMVFwVlZyTUNVVWNjejlMSkJDVWJLcXJodkhNM29QYlhISw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 09:18:18 GMT"
-        }
-      ]
-    },
-    {
-      "word": "이대로면",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "與 의총서 \"이대로면 총선·대선 못한다\"‥李 정부 부동산 정책 '성토' - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LWVJuX3pxR0h3eE5wcnF1bjJDMlZLZEhhb1RiUmlQbllQNzNoeDJFajB1NG1ncHlyS05pN0hVQTVXRm9TUk84MXlMMDR1UHhZbGxvV20wQWxuTFM3cVBVUjNxWTEyQ0pnbWlBTlVIRU84RU96VDdUd9IBeEFVX3lxTE9mYnZEZklKajhKY2pNWExiZXhON1Fvc1hTcG5heENwbF9IX3AtQzR5Vno2OUJrRGxNZkdnd29iSmZCOHFGOHZtb1lpSmtHelpXeFl0UlBlMVFwVlZyTUNVVWNjejlMSkJDVWJLcXJodkhNM29QYlhISw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 09:18:18 GMT"
-        }
-      ]
-    },
-    {
-      "word": "총선대선",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "與 의총서 \"이대로면 총선·대선 못한다\"‥李 정부 부동산 정책 '성토' - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LWVJuX3pxR0h3eE5wcnF1bjJDMlZLZEhhb1RiUmlQbllQNzNoeDJFajB1NG1ncHlyS05pN0hVQTVXRm9TUk84MXlMMDR1UHhZbGxvV20wQWxuTFM3cVBVUjNxWTEyQ0pnbWlBTlVIRU84RU96VDdUd9IBeEFVX3lxTE9mYnZEZklKajhKY2pNWExiZXhON1Fvc1hTcG5heENwbF9IX3AtQzR5Vno2OUJrRGxNZkdnd29iSmZCOHFGOHZtb1lpSmtHelpXeFl0UlBlMVFwVlZyTUNVVWNjejlMSkJDVWJLcXJodkhNM29QYlhISw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 09:18:18 GMT"
-        }
-      ]
-    },
-    {
-      "word": "못한다",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "與 의총서 \"이대로면 총선·대선 못한다\"‥李 정부 부동산 정책 '성토' - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LWVJuX3pxR0h3eE5wcnF1bjJDMlZLZEhhb1RiUmlQbllQNzNoeDJFajB1NG1ncHlyS05pN0hVQTVXRm9TUk84MXlMMDR1UHhZbGxvV20wQWxuTFM3cVBVUjNxWTEyQ0pnbWlBTlVIRU84RU96VDdUd9IBeEFVX3lxTE9mYnZEZklKajhKY2pNWExiZXhON1Fvc1hTcG5heENwbF9IX3AtQzR5Vno2OUJrRGxNZkdnd29iSmZCOHFGOHZtb1lpSmtHelpXeFl0UlBlMVFwVlZyTUNVVWNjejlMSkJDVWJLcXJodkhNM29QYlhISw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 09:18:18 GMT"
-        }
-      ]
-    },
-    {
-      "word": "정부",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "與 의총서 \"이대로면 총선·대선 못한다\"‥李 정부 부동산 정책 '성토' - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LWVJuX3pxR0h3eE5wcnF1bjJDMlZLZEhhb1RiUmlQbllQNzNoeDJFajB1NG1ncHlyS05pN0hVQTVXRm9TUk84MXlMMDR1UHhZbGxvV20wQWxuTFM3cVBVUjNxWTEyQ0pnbWlBTlVIRU84RU96VDdUd9IBeEFVX3lxTE9mYnZEZklKajhKY2pNWExiZXhON1Fvc1hTcG5heENwbF9IX3AtQzR5Vno2OUJrRGxNZkdnd29iSmZCOHFGOHZtb1lpSmtHelpXeFl0UlBlMVFwVlZyTUNVVWNjejlMSkJDVWJLcXJodkhNM29QYlhISw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 09:18:18 GMT"
-        }
-      ]
-    },
-    {
-      "word": "정책",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "與 의총서 \"이대로면 총선·대선 못한다\"‥李 정부 부동산 정책 '성토' - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LWVJuX3pxR0h3eE5wcnF1bjJDMlZLZEhhb1RiUmlQbllQNzNoeDJFajB1NG1ncHlyS05pN0hVQTVXRm9TUk84MXlMMDR1UHhZbGxvV20wQWxuTFM3cVBVUjNxWTEyQ0pnbWlBTlVIRU84RU96VDdUd9IBeEFVX3lxTE9mYnZEZklKajhKY2pNWExiZXhON1Fvc1hTcG5heENwbF9IX3AtQzR5Vno2OUJrRGxNZkdnd29iSmZCOHFGOHZtb1lpSmtHelpXeFl0UlBlMVFwVlZyTUNVVWNjejlMSkJDVWJLcXJodkhNM29QYlhISw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 09:18:18 GMT"
-        }
-      ]
-    },
-    {
-      "word": "성토",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "與 의총서 \"이대로면 총선·대선 못한다\"‥李 정부 부동산 정책 '성토' - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LWVJuX3pxR0h3eE5wcnF1bjJDMlZLZEhhb1RiUmlQbllQNzNoeDJFajB1NG1ncHlyS05pN0hVQTVXRm9TUk84MXlMMDR1UHhZbGxvV20wQWxuTFM3cVBVUjNxWTEyQ0pnbWlBTlVIRU84RU96VDdUd9IBeEFVX3lxTE9mYnZEZklKajhKY2pNWExiZXhON1Fvc1hTcG5heENwbF9IX3AtQzR5Vno2OUJrRGxNZkdnd29iSmZCOHFGOHZtb1lpSmtHelpXeFl0UlBlMVFwVlZyTUNVVWNjejlMSkJDVWJLcXJodkhNM29QYlhISw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 09:18:18 GMT"
-        }
-      ]
-    },
-    {
-      "word": "여름철",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "여름철 수상 안전관리 대책기간 9월 13일까지 연장…가뭄·폭염 집중 점검 - 대한민국 정책브리핑",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTXZDSko1RzlQVFVqbmtQTU5wUkktd3FhTTRnX1pldl9OckF1b0lNLW5xckhaMFRJc0F5cFM5RFlZUHlXZjFnZDJDcFdneDlFQXNnblJlSDVidDVqdTU5WmtiY1ZkWUJjdnBKSkpYaHkxSnRtcGg4MnRtWDZaR1c5ZkVZYTQ1X3FEc1R4aQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 08:55:15 GMT"
-        }
-      ]
-    },
-    {
-      "word": "수상",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "여름철 수상 안전관리 대책기간 9월 13일까지 연장…가뭄·폭염 집중 점검 - 대한민국 정책브리핑",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTXZDSko1RzlQVFVqbmtQTU5wUkktd3FhTTRnX1pldl9OckF1b0lNLW5xckhaMFRJc0F5cFM5RFlZUHlXZjFnZDJDcFdneDlFQXNnblJlSDVidDVqdTU5WmtiY1ZkWUJjdnBKSkpYaHkxSnRtcGg4MnRtWDZaR1c5ZkVZYTQ1X3FEc1R4aQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 08:55:15 GMT"
+          "published": "Thu, 13 Aug 2026 12:31:00 GMT"
         }
       ]
     }
