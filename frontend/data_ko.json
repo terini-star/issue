@@ -1,18 +1,81 @@
 {
   "language": "ko",
-  "last_updated": 1786609574.0774162,
+  "last_updated": 1786616104.9764266,
   "count": 40,
   "trends": [
     {
-      "word": "아기",
+      "word": "대통령",
+      "count": 2,
+      "category": "PERSON",
+      "articles": [
+        {
+          "title": "민주당 지지층서 김민석 44%·정청래 25%…이 대통령 지지율 49%, 취임 후 최저[NBS] - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CeHVhLTNqbHptN205QWlNMHJyNUhZOFdTMzlQQzN3dDFHREZoV1MxUlotcUVKYWdBbWNvaHNLWjNPM0UwRjZvb0RDZlJ0QTNibHBydHpGWjl2d9IBX0FVX3lxTFBWU0kzVXlJZkNXMzBRUEUzVy1hbFFIR0k5eTd5U04zbkxSUDJPajc4X3pybHhiNEM1Z2NsYmNKdnBteVBkekJoWEVGQnE2d1F1RTdVcFBpZEg4MFlHME40?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 02:23:00 GMT"
+        },
+        {
+          "title": "국힘 \"박상용 검사 징계, 대통령 재판취소 빌드업\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wOXB2eFd0TEZuYk8zZk1UbjVPaWtyMXV1dk5rWGhITWFDQWhNSlpGUGRLazNFX0tSano5WjRwRWxseVdQRjRIOWtVS1FXY0tHRUptbzVSMXJYaXFvTTlQRzZsM1dsak0?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 02:39:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "검사",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"아기가 같이 있어요\"… 콜롬비아 지진 잔해 속 아기 구조 - yonhapnewstv.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zVFpOSVZGMHY1SWNUWmtVSW11WUF2VnEzX1R4Z0ttU0pvZ3hzMXlPa1ZlOGdPd2pULTd5bDMtZnAwNThrWHVQeUdFdzgyRm4ta1NaT0VzbW1DbXVyZ0tLYVQ5akMxUXM?oc=5",
+          "title": "국힘 \"박상용 검사 징계, 대통령 재판취소 빌드업\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wOXB2eFd0TEZuYk8zZk1UbjVPaWtyMXV1dk5rWGhITWFDQWhNSlpGUGRLazNFX0tSano5WjRwRWxseVdQRjRIOWtVS1FXY0tHRUptbzVSMXJYaXFvTTlQRzZsM1dsak0?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 05:17:00 GMT"
+          "published": "Thu, 13 Aug 2026 02:39:00 GMT"
+        },
+        {
+          "title": "기존 검사로 못 찾던 천식 핵심 유전자, 새 분석법으로 찾아낸다 - 하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zN2R0amJzZlNBUDJYLXAwUVc3S05hdS13NVJFNkd2M3ZSVlhiNEFHeVdNZWhUU2hoZmtTdmR5R29mUTJ6V0lfWnF2QTJDM201ZkFqdFptTF90MXVSWUE4bzF4NmRuOFpab3c?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 06:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "내년",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "日, 내년 말 대외정보기관 창설 목표…안보 전반 확대 - 네이트",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UWTNGTzNTR2g2YklnZHFtdVhCaHZLV2Qtc1dUQ2dzbV9OcWgxYVFCeEd5VWlyZlRXMnJDOUlvWnh2M2RLSDdCQ2luaXdmSWNESlI5MVFhbUMxY0tDMF9vUw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 08:14:00 GMT"
+        },
+        {
+          "title": "내년부터 '비거주 1주택자' 전세대출 보증 막힌다 [8·13 부동산 금융대책] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iSG03VXlESGNWaGUzajBZTnotSkhIcm85ZmtQbXVQUmdJUXdyOS1KMWVLRVN3NkxqZDl1anR4S0VCQUpZUkdnRE1sSHNVTGxvaWJjOGt6cGFEdw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 03:00:18 GMT"
+        }
+      ]
+    },
+    {
+      "word": "출시",
+      "count": 2,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "보금자리론 ‘결혼 페널티’ 없앤다…내년 청년 주거 지원 3종 세트 출시 - 농민신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KbUx1Z2JMMk9DUHFYcWgtdWg5Sk55TmFzU0dPRHZhMFZ1QTQ4Q1ZWdFllaFk3Wk54QWNHaUNZQzNfeXBfVkc1ZldWM0J4cVZnMzdxdGNERTVFdw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 06:31:00 GMT"
+        },
+        {
+          "title": "아크 레이더스, '출시 후 최대 업데이트' 10월 8일 적용 - 인벤",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPMWpTWUd1eWZfTU9yMHVkOFlDdGYzRmlNQkltYzh2WFc1NXdPSVF1cGYtVnBYZ21TVE1jbWtBMFlxWGFFdHV4UWdvXzNDLVYyNDhHcXFWQVc4RlhONkE?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 09:55:54 GMT"
         }
       ]
     },
@@ -30,31 +93,12 @@
       ]
     },
     {
-      "word": "논란",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "JYP “’언행 논란’ 건일, 엑디즈 팀 탈퇴·전속계약 해지“ - yonhapnewstv.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCSTIzdWxlVDZMQmZiN0JFX2N5UUwzREE3WGF3NzJaVkFoWnh3b25DNWNTNkoxQWVoZk5ETGJTTlYzNDNHbWdWRE44OG1EUzkya0x0aVY3OWNRSm1NZENHRGdXdTNHQlE?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 06:47:00 GMT"
-        },
-        {
-          "title": "‘성접대 의혹’ 한국-쿠웨이트전 주심, 2년 뒤 월드컵 개막전 휘슬…PK 판정은 세계적 논란 - 스포츠경향",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhVXZIT3BpVnFlWVJ3Zkt5V2RtUG1SandrR3k2WmF1Q2VSdmVNNGl3TnhxOWg1US1BMGI2bUlsVkFJS2xjMXNwWnE4WjdLcDF5TV9ZREJha0t0dU1GaGfSAWNBVV95cUxQUFQzMUgxaFduTHRIM0ZtcFNFM2Y4QkVMX1JiR21kYUYzbl9IQm44TGc4bmQzMWtBcnJnNGxfLVo2SUVFY21wMmhieDZtSWJnR3Y3ZWJWUmM1bWtIWVF5dmg5eDA?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 03:01:00 GMT"
-        }
-      ]
-    },
-    {
       "word": "위험",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "폐경 후 호르몬 요법, 알츠하이머 위험도 낮출까 '새 연구' - 의협신문",
+          "title": "폐경 후 호르몬 요법, 알츠하이머 위험도 낮출까 '새 연구' - doctorsnews.co.kr",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iS1JTVktiaUVtV2NKaDVCNFhBbHI0Q3dMaXpmZG9TTTJ1MUgtdC1EdDRLdUhhNy05QUdBQTFRMXQ4YzA0Q0d0RVhDaUREVWNBUFFsNlMwci1wUURFNjk0M1hYdTBVNHg2QmkybjlRUk5nUQ?oc=5",
           "source": "Google News",
           "published": "Thu, 13 Aug 2026 02:08:33 GMT"
@@ -68,80 +112,379 @@
       ]
     },
     {
-      "word": "대통령",
-      "count": 1,
-      "category": "PERSON",
-      "articles": [
-        {
-          "title": "이 대통령 “시한폭탄 같은 부동산…‘잃어버린 20년’ 올 수도” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xY2NfZk44U2dPTXoycVNzR1dhdUdCTjBsemlkWTh1aDQ1M3MtY3hyRk80dnE0aks2LVVBZkJaUjlsRDYyWFhKYmMwOEltcDZIOTA4M3BRYThybXR3QW8yM1lIRFpBV0VrQzlv?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 05:21:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "시한폭탄",
+      "word": "고쳐서",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령 “시한폭탄 같은 부동산…‘잃어버린 20년’ 올 수도” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xY2NfZk44U2dPTXoycVNzR1dhdUdCTjBsemlkWTh1aDQ1M3MtY3hyRk80dnE0aks2LVVBZkJaUjlsRDYyWFhKYmMwOEltcDZIOTA4M3BRYThybXR3QW8yM1lIRFpBV0VrQzlv?oc=5",
+          "title": "李 \"법 고쳐서라도 택지 확보\"…부동산 공급 총력전 선언 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zdm9wUXZ1TnpxdDVIZHVPRS1UVUIyaEZuMng1eGRfeW1kT3ktVmlxcDdvMDA2ZS1CWUdKNjRSYVlKWG9yWmZKMGgxQmt6WXJMWVhBWWE1S2JFdw?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 05:21:00 GMT"
+          "published": "Thu, 13 Aug 2026 06:12:54 GMT"
         }
       ]
     },
     {
-      "word": "같은",
+      "word": "택지",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령 “시한폭탄 같은 부동산…‘잃어버린 20년’ 올 수도” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xY2NfZk44U2dPTXoycVNzR1dhdUdCTjBsemlkWTh1aDQ1M3MtY3hyRk80dnE0aks2LVVBZkJaUjlsRDYyWFhKYmMwOEltcDZIOTA4M3BRYThybXR3QW8yM1lIRFpBV0VrQzlv?oc=5",
+          "title": "李 \"법 고쳐서라도 택지 확보\"…부동산 공급 총력전 선언 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zdm9wUXZ1TnpxdDVIZHVPRS1UVUIyaEZuMng1eGRfeW1kT3ktVmlxcDdvMDA2ZS1CWUdKNjRSYVlKWG9yWmZKMGgxQmt6WXJMWVhBWWE1S2JFdw?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 05:21:00 GMT"
+          "published": "Thu, 13 Aug 2026 06:12:54 GMT"
         }
       ]
     },
     {
-      "word": "부동산잃어버린",
+      "word": "확보부동산",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령 “시한폭탄 같은 부동산…‘잃어버린 20년’ 올 수도” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xY2NfZk44U2dPTXoycVNzR1dhdUdCTjBsemlkWTh1aDQ1M3MtY3hyRk80dnE0aks2LVVBZkJaUjlsRDYyWFhKYmMwOEltcDZIOTA4M3BRYThybXR3QW8yM1lIRFpBV0VrQzlv?oc=5",
+          "title": "李 \"법 고쳐서라도 택지 확보\"…부동산 공급 총력전 선언 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zdm9wUXZ1TnpxdDVIZHVPRS1UVUIyaEZuMng1eGRfeW1kT3ktVmlxcDdvMDA2ZS1CWUdKNjRSYVlKWG9yWmZKMGgxQmt6WXJMWVhBWWE1S2JFdw?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 05:21:00 GMT"
+          "published": "Thu, 13 Aug 2026 06:12:54 GMT"
         }
       ]
     },
     {
-      "word": "20년",
+      "word": "공급",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령 “시한폭탄 같은 부동산…‘잃어버린 20년’ 올 수도” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xY2NfZk44U2dPTXoycVNzR1dhdUdCTjBsemlkWTh1aDQ1M3MtY3hyRk80dnE0aks2LVVBZkJaUjlsRDYyWFhKYmMwOEltcDZIOTA4M3BRYThybXR3QW8yM1lIRFpBV0VrQzlv?oc=5",
+          "title": "李 \"법 고쳐서라도 택지 확보\"…부동산 공급 총력전 선언 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zdm9wUXZ1TnpxdDVIZHVPRS1UVUIyaEZuMng1eGRfeW1kT3ktVmlxcDdvMDA2ZS1CWUdKNjRSYVlKWG9yWmZKMGgxQmt6WXJMWVhBWWE1S2JFdw?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 05:21:00 GMT"
+          "published": "Thu, 13 Aug 2026 06:12:54 GMT"
         }
       ]
     },
     {
-      "word": "수도",
+      "word": "총력전",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령 “시한폭탄 같은 부동산…‘잃어버린 20년’ 올 수도” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xY2NfZk44U2dPTXoycVNzR1dhdUdCTjBsemlkWTh1aDQ1M3MtY3hyRk80dnE0aks2LVVBZkJaUjlsRDYyWFhKYmMwOEltcDZIOTA4M3BRYThybXR3QW8yM1lIRFpBV0VrQzlv?oc=5",
+          "title": "李 \"법 고쳐서라도 택지 확보\"…부동산 공급 총력전 선언 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zdm9wUXZ1TnpxdDVIZHVPRS1UVUIyaEZuMng1eGRfeW1kT3ktVmlxcDdvMDA2ZS1CWUdKNjRSYVlKWG9yWmZKMGgxQmt6WXJMWVhBWWE1S2JFdw?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 05:21:00 GMT"
+          "published": "Thu, 13 Aug 2026 06:12:54 GMT"
+        }
+      ]
+    },
+    {
+      "word": "선언",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "李 \"법 고쳐서라도 택지 확보\"…부동산 공급 총력전 선언 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zdm9wUXZ1TnpxdDVIZHVPRS1UVUIyaEZuMng1eGRfeW1kT3ktVmlxcDdvMDA2ZS1CWUdKNjRSYVlKWG9yWmZKMGgxQmt6WXJMWVhBWWE1S2JFdw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 06:12:54 GMT"
+        }
+      ]
+    },
+    {
+      "word": "드디어가뭄",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "드디어…‘가뭄 끝 단비’ 광복절 연휴에 내리면 기온 30도까지 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBITkh1WVFsREE2ZzlqdlhJRFNocHFBOVZQZU9QVG54ZTF2enFoTnFpOXA0dEVFbkdkRmRuZDAwTUdudUFCY284OEZ2Y0FYTFNmNS1wdm9mNVZyQ3U1ZWxBRmFyYmZLQW5kNF9mcQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 05:22:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "단비",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "드디어…‘가뭄 끝 단비’ 광복절 연휴에 내리면 기온 30도까지 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBITkh1WVFsREE2ZzlqdlhJRFNocHFBOVZQZU9QVG54ZTF2enFoTnFpOXA0dEVFbkdkRmRuZDAwTUdudUFCY284OEZ2Y0FYTFNmNS1wdm9mNVZyQ3U1ZWxBRmFyYmZLQW5kNF9mcQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 05:22:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "광복절",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "드디어…‘가뭄 끝 단비’ 광복절 연휴에 내리면 기온 30도까지 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBITkh1WVFsREE2ZzlqdlhJRFNocHFBOVZQZU9QVG54ZTF2enFoTnFpOXA0dEVFbkdkRmRuZDAwTUdudUFCY284OEZ2Y0FYTFNmNS1wdm9mNVZyQ3U1ZWxBRmFyYmZLQW5kNF9mcQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 05:22:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "연휴",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "드디어…‘가뭄 끝 단비’ 광복절 연휴에 내리면 기온 30도까지 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBITkh1WVFsREE2ZzlqdlhJRFNocHFBOVZQZU9QVG54ZTF2enFoTnFpOXA0dEVFbkdkRmRuZDAwTUdudUFCY284OEZ2Y0FYTFNmNS1wdm9mNVZyQ3U1ZWxBRmFyYmZLQW5kNF9mcQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 05:22:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "내리면",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "드디어…‘가뭄 끝 단비’ 광복절 연휴에 내리면 기온 30도까지 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBITkh1WVFsREE2ZzlqdlhJRFNocHFBOVZQZU9QVG54ZTF2enFoTnFpOXA0dEVFbkdkRmRuZDAwTUdudUFCY284OEZ2Y0FYTFNmNS1wdm9mNVZyQ3U1ZWxBRmFyYmZLQW5kNF9mcQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 05:22:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "기온",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "드디어…‘가뭄 끝 단비’ 광복절 연휴에 내리면 기온 30도까지 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBITkh1WVFsREE2ZzlqdlhJRFNocHFBOVZQZU9QVG54ZTF2enFoTnFpOXA0dEVFbkdkRmRuZDAwTUdudUFCY284OEZ2Y0FYTFNmNS1wdm9mNVZyQ3U1ZWxBRmFyYmZLQW5kNF9mcQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 05:22:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "30",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "드디어…‘가뭄 끝 단비’ 광복절 연휴에 내리면 기온 30도까지 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBITkh1WVFsREE2ZzlqdlhJRFNocHFBOVZQZU9QVG54ZTF2enFoTnFpOXA0dEVFbkdkRmRuZDAwTUdudUFCY284OEZ2Y0FYTFNmNS1wdm9mNVZyQ3U1ZWxBRmFyYmZLQW5kNF9mcQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 05:22:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "이진숙",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이진숙 토론회서 이영훈 “5·18 소요사태, 광주정신은 시대착오” 망언 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LTExRSWtoSm9jYlc2b3dkQW91Z2htOTBVdFNwRXd3QXg2T3FuMzdJT29RZjU2NElsZG9aNjloSU9WSlJZVGE2WUZadlRwOWhWMnhNTGdYSHdCWkZOYWs3dXB6NlV5YU5IREtKZXljbklqSFB3?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 08:12:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "토론회서",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이진숙 토론회서 이영훈 “5·18 소요사태, 광주정신은 시대착오” 망언 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LTExRSWtoSm9jYlc2b3dkQW91Z2htOTBVdFNwRXd3QXg2T3FuMzdJT29RZjU2NElsZG9aNjloSU9WSlJZVGE2WUZadlRwOWhWMnhNTGdYSHdCWkZOYWs3dXB6NlV5YU5IREtKZXljbklqSFB3?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 08:12:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "이영훈",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이진숙 토론회서 이영훈 “5·18 소요사태, 광주정신은 시대착오” 망언 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LTExRSWtoSm9jYlc2b3dkQW91Z2htOTBVdFNwRXd3QXg2T3FuMzdJT29RZjU2NElsZG9aNjloSU9WSlJZVGE2WUZadlRwOWhWMnhNTGdYSHdCWkZOYWs3dXB6NlV5YU5IREtKZXljbklqSFB3?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 08:12:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "518",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이진숙 토론회서 이영훈 “5·18 소요사태, 광주정신은 시대착오” 망언 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LTExRSWtoSm9jYlc2b3dkQW91Z2htOTBVdFNwRXd3QXg2T3FuMzdJT29RZjU2NElsZG9aNjloSU9WSlJZVGE2WUZadlRwOWhWMnhNTGdYSHdCWkZOYWs3dXB6NlV5YU5IREtKZXljbklqSFB3?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 08:12:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "소요사태",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이진숙 토론회서 이영훈 “5·18 소요사태, 광주정신은 시대착오” 망언 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LTExRSWtoSm9jYlc2b3dkQW91Z2htOTBVdFNwRXd3QXg2T3FuMzdJT29RZjU2NElsZG9aNjloSU9WSlJZVGE2WUZadlRwOWhWMnhNTGdYSHdCWkZOYWs3dXB6NlV5YU5IREtKZXljbklqSFB3?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 08:12:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "광주정신",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이진숙 토론회서 이영훈 “5·18 소요사태, 광주정신은 시대착오” 망언 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LTExRSWtoSm9jYlc2b3dkQW91Z2htOTBVdFNwRXd3QXg2T3FuMzdJT29RZjU2NElsZG9aNjloSU9WSlJZVGE2WUZadlRwOWhWMnhNTGdYSHdCWkZOYWs3dXB6NlV5YU5IREtKZXljbklqSFB3?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 08:12:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "시대착오",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이진숙 토론회서 이영훈 “5·18 소요사태, 광주정신은 시대착오” 망언 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LTExRSWtoSm9jYlc2b3dkQW91Z2htOTBVdFNwRXd3QXg2T3FuMzdJT29RZjU2NElsZG9aNjloSU9WSlJZVGE2WUZadlRwOWhWMnhNTGdYSHdCWkZOYWs3dXB6NlV5YU5IREtKZXljbklqSFB3?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 08:12:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "망언",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이진숙 토론회서 이영훈 “5·18 소요사태, 광주정신은 시대착오” 망언 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LTExRSWtoSm9jYlc2b3dkQW91Z2htOTBVdFNwRXd3QXg2T3FuMzdJT29RZjU2NElsZG9aNjloSU9WSlJZVGE2WUZadlRwOWhWMnhNTGdYSHdCWkZOYWs3dXB6NlV5YU5IREtKZXljbklqSFB3?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 08:12:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "민주당",
+      "count": 1,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "민주당 지지층서 김민석 44%·정청래 25%…이 대통령 지지율 49%, 취임 후 최저[NBS] - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CeHVhLTNqbHptN205QWlNMHJyNUhZOFdTMzlQQzN3dDFHREZoV1MxUlotcUVKYWdBbWNvaHNLWjNPM0UwRjZvb0RDZlJ0QTNibHBydHpGWjl2d9IBX0FVX3lxTFBWU0kzVXlJZkNXMzBRUEUzVy1hbFFIR0k5eTd5U04zbkxSUDJPajc4X3pybHhiNEM1Z2NsYmNKdnBteVBkekJoWEVGQnE2d1F1RTdVcFBpZEg4MFlHME40?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 02:23:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "지지층서",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "민주당 지지층서 김민석 44%·정청래 25%…이 대통령 지지율 49%, 취임 후 최저[NBS] - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CeHVhLTNqbHptN205QWlNMHJyNUhZOFdTMzlQQzN3dDFHREZoV1MxUlotcUVKYWdBbWNvaHNLWjNPM0UwRjZvb0RDZlJ0QTNibHBydHpGWjl2d9IBX0FVX3lxTFBWU0kzVXlJZkNXMzBRUEUzVy1hbFFIR0k5eTd5U04zbkxSUDJPajc4X3pybHhiNEM1Z2NsYmNKdnBteVBkekJoWEVGQnE2d1F1RTdVcFBpZEg4MFlHME40?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 02:23:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "김민석",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "민주당 지지층서 김민석 44%·정청래 25%…이 대통령 지지율 49%, 취임 후 최저[NBS] - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CeHVhLTNqbHptN205QWlNMHJyNUhZOFdTMzlQQzN3dDFHREZoV1MxUlotcUVKYWdBbWNvaHNLWjNPM0UwRjZvb0RDZlJ0QTNibHBydHpGWjl2d9IBX0FVX3lxTFBWU0kzVXlJZkNXMzBRUEUzVy1hbFFIR0k5eTd5U04zbkxSUDJPajc4X3pybHhiNEM1Z2NsYmNKdnBteVBkekJoWEVGQnE2d1F1RTdVcFBpZEg4MFlHME40?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 02:23:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "44정청래",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "민주당 지지층서 김민석 44%·정청래 25%…이 대통령 지지율 49%, 취임 후 최저[NBS] - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CeHVhLTNqbHptN205QWlNMHJyNUhZOFdTMzlQQzN3dDFHREZoV1MxUlotcUVKYWdBbWNvaHNLWjNPM0UwRjZvb0RDZlJ0QTNibHBydHpGWjl2d9IBX0FVX3lxTFBWU0kzVXlJZkNXMzBRUEUzVy1hbFFIR0k5eTd5U04zbkxSUDJPajc4X3pybHhiNEM1Z2NsYmNKdnBteVBkekJoWEVGQnE2d1F1RTdVcFBpZEg4MFlHME40?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 02:23:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "25",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "민주당 지지층서 김민석 44%·정청래 25%…이 대통령 지지율 49%, 취임 후 최저[NBS] - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CeHVhLTNqbHptN205QWlNMHJyNUhZOFdTMzlQQzN3dDFHREZoV1MxUlotcUVKYWdBbWNvaHNLWjNPM0UwRjZvb0RDZlJ0QTNibHBydHpGWjl2d9IBX0FVX3lxTFBWU0kzVXlJZkNXMzBRUEUzVy1hbFFIR0k5eTd5U04zbkxSUDJPajc4X3pybHhiNEM1Z2NsYmNKdnBteVBkekJoWEVGQnE2d1F1RTdVcFBpZEg4MFlHME40?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 02:23:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "지지율",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "민주당 지지층서 김민석 44%·정청래 25%…이 대통령 지지율 49%, 취임 후 최저[NBS] - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CeHVhLTNqbHptN205QWlNMHJyNUhZOFdTMzlQQzN3dDFHREZoV1MxUlotcUVKYWdBbWNvaHNLWjNPM0UwRjZvb0RDZlJ0QTNibHBydHpGWjl2d9IBX0FVX3lxTFBWU0kzVXlJZkNXMzBRUEUzVy1hbFFIR0k5eTd5U04zbkxSUDJPajc4X3pybHhiNEM1Z2NsYmNKdnBteVBkekJoWEVGQnE2d1F1RTdVcFBpZEg4MFlHME40?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 02:23:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "취임",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "민주당 지지층서 김민석 44%·정청래 25%…이 대통령 지지율 49%, 취임 후 최저[NBS] - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CeHVhLTNqbHptN205QWlNMHJyNUhZOFdTMzlQQzN3dDFHREZoV1MxUlotcUVKYWdBbWNvaHNLWjNPM0UwRjZvb0RDZlJ0QTNibHBydHpGWjl2d9IBX0FVX3lxTFBWU0kzVXlJZkNXMzBRUEUzVy1hbFFIR0k5eTd5U04zbkxSUDJPajc4X3pybHhiNEM1Z2NsYmNKdnBteVBkekJoWEVGQnE2d1F1RTdVcFBpZEg4MFlHME40?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 02:23:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "최저NBS",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "민주당 지지층서 김민석 44%·정청래 25%…이 대통령 지지율 49%, 취임 후 최저[NBS] - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CeHVhLTNqbHptN205QWlNMHJyNUhZOFdTMzlQQzN3dDFHREZoV1MxUlotcUVKYWdBbWNvaHNLWjNPM0UwRjZvb0RDZlJ0QTNibHBydHpGWjl2d9IBX0FVX3lxTFBWU0kzVXlJZkNXMzBRUEUzVy1hbFFIR0k5eTd5U04zbkxSUDJPajc4X3pybHhiNEM1Z2NsYmNKdnBteVBkekJoWEVGQnE2d1F1RTdVcFBpZEg4MFlHME40?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 02:23:00 GMT"
         }
       ]
     },
@@ -151,7 +494,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘모텔 감금’에 ‘성착취물’ 제작까지…태국 거점 보이스피싱 일당 검거 - news.kbs.co.kr",
+          "title": "‘모텔 감금’에 ‘성착취물’ 제작까지…태국 거점 보이스피싱 일당 검거 - KBS 뉴스",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RUFQ5WTh5d0RXenRHTU1CRkUtWURqaU1GRVRPVVh3SmtLQzBoaTdSOHZDbDM4R0IyQUE0U2tHcnpJeFpRMTQtYWR1Ykd0WkNDSkRYOVpKb3M3bVU?oc=5",
           "source": "Google News",
           "published": "Thu, 13 Aug 2026 03:04:00 GMT"
@@ -164,7 +507,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘모텔 감금’에 ‘성착취물’ 제작까지…태국 거점 보이스피싱 일당 검거 - news.kbs.co.kr",
+          "title": "‘모텔 감금’에 ‘성착취물’ 제작까지…태국 거점 보이스피싱 일당 검거 - KBS 뉴스",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RUFQ5WTh5d0RXenRHTU1CRkUtWURqaU1GRVRPVVh3SmtLQzBoaTdSOHZDbDM4R0IyQUE0U2tHcnpJeFpRMTQtYWR1Ykd0WkNDSkRYOVpKb3M3bVU?oc=5",
           "source": "Google News",
           "published": "Thu, 13 Aug 2026 03:04:00 GMT"
@@ -177,7 +520,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘모텔 감금’에 ‘성착취물’ 제작까지…태국 거점 보이스피싱 일당 검거 - news.kbs.co.kr",
+          "title": "‘모텔 감금’에 ‘성착취물’ 제작까지…태국 거점 보이스피싱 일당 검거 - KBS 뉴스",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RUFQ5WTh5d0RXenRHTU1CRkUtWURqaU1GRVRPVVh3SmtLQzBoaTdSOHZDbDM4R0IyQUE0U2tHcnpJeFpRMTQtYWR1Ykd0WkNDSkRYOVpKb3M3bVU?oc=5",
           "source": "Google News",
           "published": "Thu, 13 Aug 2026 03:04:00 GMT"
@@ -190,7 +533,7 @@
       "category": "LOCATION",
       "articles": [
         {
-          "title": "‘모텔 감금’에 ‘성착취물’ 제작까지…태국 거점 보이스피싱 일당 검거 - news.kbs.co.kr",
+          "title": "‘모텔 감금’에 ‘성착취물’ 제작까지…태국 거점 보이스피싱 일당 검거 - KBS 뉴스",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RUFQ5WTh5d0RXenRHTU1CRkUtWURqaU1GRVRPVVh3SmtLQzBoaTdSOHZDbDM4R0IyQUE0U2tHcnpJeFpRMTQtYWR1Ykd0WkNDSkRYOVpKb3M3bVU?oc=5",
           "source": "Google News",
           "published": "Thu, 13 Aug 2026 03:04:00 GMT"
@@ -203,335 +546,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘모텔 감금’에 ‘성착취물’ 제작까지…태국 거점 보이스피싱 일당 검거 - news.kbs.co.kr",
+          "title": "‘모텔 감금’에 ‘성착취물’ 제작까지…태국 거점 보이스피싱 일당 검거 - KBS 뉴스",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RUFQ5WTh5d0RXenRHTU1CRkUtWURqaU1GRVRPVVh3SmtLQzBoaTdSOHZDbDM4R0IyQUE0U2tHcnpJeFpRMTQtYWR1Ykd0WkNDSkRYOVpKb3M3bVU?oc=5",
           "source": "Google News",
           "published": "Thu, 13 Aug 2026 03:04:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "보이스피싱",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘모텔 감금’에 ‘성착취물’ 제작까지…태국 거점 보이스피싱 일당 검거 - news.kbs.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RUFQ5WTh5d0RXenRHTU1CRkUtWURqaU1GRVRPVVh3SmtLQzBoaTdSOHZDbDM4R0IyQUE0U2tHcnpJeFpRMTQtYWR1Ykd0WkNDSkRYOVpKb3M3bVU?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 03:04:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "일당",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘모텔 감금’에 ‘성착취물’ 제작까지…태국 거점 보이스피싱 일당 검거 - news.kbs.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RUFQ5WTh5d0RXenRHTU1CRkUtWURqaU1GRVRPVVh3SmtLQzBoaTdSOHZDbDM4R0IyQUE0U2tHcnpJeFpRMTQtYWR1Ykd0WkNDSkRYOVpKb3M3bVU?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 03:04:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "검거",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘모텔 감금’에 ‘성착취물’ 제작까지…태국 거점 보이스피싱 일당 검거 - news.kbs.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RUFQ5WTh5d0RXenRHTU1CRkUtWURqaU1GRVRPVVh3SmtLQzBoaTdSOHZDbDM4R0IyQUE0U2tHcnpJeFpRMTQtYWR1Ykd0WkNDSkRYOVpKb3M3bVU?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 03:04:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "지어서",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“집 못 지어서 미쳤나 싶게”…李정부 ‘닥치고 공급’에 강남·용산은 빠져 - mk.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAza3M3R2J2Tkw3d2ZoQXVFT1VNTjduQmt0N3B5cUhZNm5NTmlrQVVGLUJobWNwUUdLc2VEVk4xem5EZ3RhbllmQ2E2eU4zLTdBMVVyYzI2TkU?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 04:22:07 GMT"
-        }
-      ]
-    },
-    {
-      "word": "미쳤",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“집 못 지어서 미쳤나 싶게”…李정부 ‘닥치고 공급’에 강남·용산은 빠져 - mk.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAza3M3R2J2Tkw3d2ZoQXVFT1VNTjduQmt0N3B5cUhZNm5NTmlrQVVGLUJobWNwUUdLc2VEVk4xem5EZ3RhbllmQ2E2eU4zLTdBMVVyYzI2TkU?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 04:22:07 GMT"
-        }
-      ]
-    },
-    {
-      "word": "싶게정부",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "“집 못 지어서 미쳤나 싶게”…李정부 ‘닥치고 공급’에 강남·용산은 빠져 - mk.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAza3M3R2J2Tkw3d2ZoQXVFT1VNTjduQmt0N3B5cUhZNm5NTmlrQVVGLUJobWNwUUdLc2VEVk4xem5EZ3RhbllmQ2E2eU4zLTdBMVVyYzI2TkU?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 04:22:07 GMT"
-        }
-      ]
-    },
-    {
-      "word": "닥치",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“집 못 지어서 미쳤나 싶게”…李정부 ‘닥치고 공급’에 강남·용산은 빠져 - mk.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAza3M3R2J2Tkw3d2ZoQXVFT1VNTjduQmt0N3B5cUhZNm5NTmlrQVVGLUJobWNwUUdLc2VEVk4xem5EZ3RhbllmQ2E2eU4zLTdBMVVyYzI2TkU?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 04:22:07 GMT"
-        }
-      ]
-    },
-    {
-      "word": "공급",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“집 못 지어서 미쳤나 싶게”…李정부 ‘닥치고 공급’에 강남·용산은 빠져 - mk.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAza3M3R2J2Tkw3d2ZoQXVFT1VNTjduQmt0N3B5cUhZNm5NTmlrQVVGLUJobWNwUUdLc2VEVk4xem5EZ3RhbllmQ2E2eU4zLTdBMVVyYzI2TkU?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 04:22:07 GMT"
-        }
-      ]
-    },
-    {
-      "word": "강남용산",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“집 못 지어서 미쳤나 싶게”…李정부 ‘닥치고 공급’에 강남·용산은 빠져 - mk.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAza3M3R2J2Tkw3d2ZoQXVFT1VNTjduQmt0N3B5cUhZNm5NTmlrQVVGLUJobWNwUUdLc2VEVk4xem5EZ3RhbllmQ2E2eU4zLTdBMVVyYzI2TkU?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 04:22:07 GMT"
-        }
-      ]
-    },
-    {
-      "word": "빠져",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“집 못 지어서 미쳤나 싶게”…李정부 ‘닥치고 공급’에 강남·용산은 빠져 - mk.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAza3M3R2J2Tkw3d2ZoQXVFT1VNTjduQmt0N3B5cUhZNm5NTmlrQVVGLUJobWNwUUdLc2VEVk4xem5EZ3RhbllmQ2E2eU4zLTdBMVVyYzI2TkU?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 04:22:07 GMT"
-        }
-      ]
-    },
-    {
-      "word": "국민의힘",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "국민의힘, 당협위원장 임기 연장 없이 '당원 투표' 선출 검토 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKSVJFRElCOHV6VVEydWxKU1dfZ2xpOUpBV2hMZV8yVVdvNHBDNmJOOHB5ZGh2QXNzaHAyZjNtUEZXNjVNUHlyVmlqSmVKY0syY0g1eDA2Qk9Ic3FaQnc?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 04:53:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "당협위원장",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "국민의힘, 당협위원장 임기 연장 없이 '당원 투표' 선출 검토 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKSVJFRElCOHV6VVEydWxKU1dfZ2xpOUpBV2hMZV8yVVdvNHBDNmJOOHB5ZGh2QXNzaHAyZjNtUEZXNjVNUHlyVmlqSmVKY0syY0g1eDA2Qk9Ic3FaQnc?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 04:53:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "임기",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "국민의힘, 당협위원장 임기 연장 없이 '당원 투표' 선출 검토 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKSVJFRElCOHV6VVEydWxKU1dfZ2xpOUpBV2hMZV8yVVdvNHBDNmJOOHB5ZGh2QXNzaHAyZjNtUEZXNjVNUHlyVmlqSmVKY0syY0g1eDA2Qk9Ic3FaQnc?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 04:53:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "연장",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "국민의힘, 당협위원장 임기 연장 없이 '당원 투표' 선출 검토 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKSVJFRElCOHV6VVEydWxKU1dfZ2xpOUpBV2hMZV8yVVdvNHBDNmJOOHB5ZGh2QXNzaHAyZjNtUEZXNjVNUHlyVmlqSmVKY0syY0g1eDA2Qk9Ic3FaQnc?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 04:53:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "없이",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "국민의힘, 당협위원장 임기 연장 없이 '당원 투표' 선출 검토 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKSVJFRElCOHV6VVEydWxKU1dfZ2xpOUpBV2hMZV8yVVdvNHBDNmJOOHB5ZGh2QXNzaHAyZjNtUEZXNjVNUHlyVmlqSmVKY0syY0g1eDA2Qk9Ic3FaQnc?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 04:53:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "당원",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "국민의힘, 당협위원장 임기 연장 없이 '당원 투표' 선출 검토 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKSVJFRElCOHV6VVEydWxKU1dfZ2xpOUpBV2hMZV8yVVdvNHBDNmJOOHB5ZGh2QXNzaHAyZjNtUEZXNjVNUHlyVmlqSmVKY0syY0g1eDA2Qk9Ic3FaQnc?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 04:53:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "투표",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "국민의힘, 당협위원장 임기 연장 없이 '당원 투표' 선출 검토 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKSVJFRElCOHV6VVEydWxKU1dfZ2xpOUpBV2hMZV8yVVdvNHBDNmJOOHB5ZGh2QXNzaHAyZjNtUEZXNjVNUHlyVmlqSmVKY0syY0g1eDA2Qk9Ic3FaQnc?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 04:53:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "선출",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "국민의힘, 당협위원장 임기 연장 없이 '당원 투표' 선출 검토 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKSVJFRElCOHV6VVEydWxKU1dfZ2xpOUpBV2hMZV8yVVdvNHBDNmJOOHB5ZGh2QXNzaHAyZjNtUEZXNjVNUHlyVmlqSmVKY0syY0g1eDA2Qk9Ic3FaQnc?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 04:53:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "검토",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "국민의힘, 당협위원장 임기 연장 없이 '당원 투표' 선출 검토 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKSVJFRElCOHV6VVEydWxKU1dfZ2xpOUpBV2hMZV8yVVdvNHBDNmJOOHB5ZGh2QXNzaHAyZjNtUEZXNjVNUHlyVmlqSmVKY0syY0g1eDA2Qk9Ic3FaQnc?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 04:53:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "박상용",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "박상용, 법무부 감찰위 출석‥\"위원 추가임명, 판사 교체와 비슷\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uSkxselByTnhod1l6aXVlelBuOHRLWVloX1llUEk2dlJZa0J4aDg0RGhfcEpYTjNuWDQxSDVmUWRSNzJXckwzemtiNjN1UFJ0dnhwdFZfelNuaEtBUTNNWVRTQlhVQWE3aGpXQURrbi1LTTNlQ2840gF3QVVfeXFMUG41SzNQWllCbEt5eHFjZ195Yms4aG1TU1cydGREMGZIbTBPTDAycjF2b19YOUhJR0NGdDA4S0E4RnhBMzhyTjcwVzVNd2p4Z1BKYkNmZ1p0THZTay1mWVI5TmhRVFZRS0tEem1IR3RIMWxBUU14NXM?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 05:38:36 GMT"
-        }
-      ]
-    },
-    {
-      "word": "법무부",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "박상용, 법무부 감찰위 출석‥\"위원 추가임명, 판사 교체와 비슷\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uSkxselByTnhod1l6aXVlelBuOHRLWVloX1llUEk2dlJZa0J4aDg0RGhfcEpYTjNuWDQxSDVmUWRSNzJXckwzemtiNjN1UFJ0dnhwdFZfelNuaEtBUTNNWVRTQlhVQWE3aGpXQURrbi1LTTNlQ2840gF3QVVfeXFMUG41SzNQWllCbEt5eHFjZ195Yms4aG1TU1cydGREMGZIbTBPTDAycjF2b19YOUhJR0NGdDA4S0E4RnhBMzhyTjcwVzVNd2p4Z1BKYkNmZ1p0THZTay1mWVI5TmhRVFZRS0tEem1IR3RIMWxBUU14NXM?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 05:38:36 GMT"
-        }
-      ]
-    },
-    {
-      "word": "감찰위",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "박상용, 법무부 감찰위 출석‥\"위원 추가임명, 판사 교체와 비슷\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uSkxselByTnhod1l6aXVlelBuOHRLWVloX1llUEk2dlJZa0J4aDg0RGhfcEpYTjNuWDQxSDVmUWRSNzJXckwzemtiNjN1UFJ0dnhwdFZfelNuaEtBUTNNWVRTQlhVQWE3aGpXQURrbi1LTTNlQ2840gF3QVVfeXFMUG41SzNQWllCbEt5eHFjZ195Yms4aG1TU1cydGREMGZIbTBPTDAycjF2b19YOUhJR0NGdDA4S0E4RnhBMzhyTjcwVzVNd2p4Z1BKYkNmZ1p0THZTay1mWVI5TmhRVFZRS0tEem1IR3RIMWxBUU14NXM?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 05:38:36 GMT"
-        }
-      ]
-    },
-    {
-      "word": "출석위원",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "박상용, 법무부 감찰위 출석‥\"위원 추가임명, 판사 교체와 비슷\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uSkxselByTnhod1l6aXVlelBuOHRLWVloX1llUEk2dlJZa0J4aDg0RGhfcEpYTjNuWDQxSDVmUWRSNzJXckwzemtiNjN1UFJ0dnhwdFZfelNuaEtBUTNNWVRTQlhVQWE3aGpXQURrbi1LTTNlQ2840gF3QVVfeXFMUG41SzNQWllCbEt5eHFjZ195Yms4aG1TU1cydGREMGZIbTBPTDAycjF2b19YOUhJR0NGdDA4S0E4RnhBMzhyTjcwVzVNd2p4Z1BKYkNmZ1p0THZTay1mWVI5TmhRVFZRS0tEem1IR3RIMWxBUU14NXM?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 05:38:36 GMT"
-        }
-      ]
-    },
-    {
-      "word": "추가임명",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "박상용, 법무부 감찰위 출석‥\"위원 추가임명, 판사 교체와 비슷\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uSkxselByTnhod1l6aXVlelBuOHRLWVloX1llUEk2dlJZa0J4aDg0RGhfcEpYTjNuWDQxSDVmUWRSNzJXckwzemtiNjN1UFJ0dnhwdFZfelNuaEtBUTNNWVRTQlhVQWE3aGpXQURrbi1LTTNlQ2840gF3QVVfeXFMUG41SzNQWllCbEt5eHFjZ195Yms4aG1TU1cydGREMGZIbTBPTDAycjF2b19YOUhJR0NGdDA4S0E4RnhBMzhyTjcwVzVNd2p4Z1BKYkNmZ1p0THZTay1mWVI5TmhRVFZRS0tEem1IR3RIMWxBUU14NXM?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 05:38:36 GMT"
-        }
-      ]
-    },
-    {
-      "word": "판사",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "박상용, 법무부 감찰위 출석‥\"위원 추가임명, 판사 교체와 비슷\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uSkxselByTnhod1l6aXVlelBuOHRLWVloX1llUEk2dlJZa0J4aDg0RGhfcEpYTjNuWDQxSDVmUWRSNzJXckwzemtiNjN1UFJ0dnhwdFZfelNuaEtBUTNNWVRTQlhVQWE3aGpXQURrbi1LTTNlQ2840gF3QVVfeXFMUG41SzNQWllCbEt5eHFjZ195Yms4aG1TU1cydGREMGZIbTBPTDAycjF2b19YOUhJR0NGdDA4S0E4RnhBMzhyTjcwVzVNd2p4Z1BKYkNmZ1p0THZTay1mWVI5TmhRVFZRS0tEem1IR3RIMWxBUU14NXM?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 05:38:36 GMT"
         }
       ]
     }
