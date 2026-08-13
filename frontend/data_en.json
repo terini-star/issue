@@ -1,125 +1,75 @@
 {
   "language": "en",
-  "last_updated": 1786648306.618977,
+  "last_updated": 1786654327.0549212,
   "count": 40,
   "trends": [
     {
       "word": "Trump",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Judge dismisses Trump administration lawsuit alleging Harvard failed to protect Jewish students - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeUxNQlNveHU1ZXM3bHZMVG55SDExN1MzdUN4UXRZTmVwT2EwS2gyMnI3YXJDM0VYcnFyeEpiNUI3bUlWSXYtSXM0NkRnMVc1ODN5V1pOdlVSdUh4WTYtV2ZzVGwwbk5tV0t1NmpBWTZGaUNmMHlOOGFBb2hPdDZMbjZKM2wtNnVhNUU4aEFVNFF0bHM3bTJocmw5aTU3bW1XN3Bmb1dnQjhTcWxnYXl5RDZtcldJQ1M5SnFCN1Jn?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 16:50:56 GMT"
-        },
-        {
-          "title": "Late Night Ribs Trump for Leaving Staff Behind on Air Force One - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRktTdWd0QlNmcVBXQkg3QUNSMWlub192VEZfUFlhWE83M2ZlLXZxUzNraUlpYlRNOGdvYXpNS0VjbTYwMVF2cGVvYzI4S0lqLUxMNDFWSHRoQXZWSlVHRUZhUXdpR3F6UUFiRnhUUWNyZy1hNjI4SDJST2UxMlVMOUhUN3Byd2VteGpHOXZZTlAxQTUyZnctRnNIMA?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 06:22:11 GMT"
-        },
-        {
-          "title": "Lawsuit seeks to ban Trump Media from charging for early access to president's posts on US policy - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPejlTamVWblRiVFJyZEhlbUd4Wm02RmRhVkxFdm9tN05WY0hxNEhaa01ENVMxaVdSd0laMnJRZFM4S2puNjRHdnAtdGhleHRoQlpTdUVfS1NkbjlDX3VXNnlpeGRRN3NNeGhLS1BscUd0eGdoamNzczNGMWp4c3l4RkhTRC02bGdlbDYzRDcwOXgzZHdxRjhjSmV1QjZPeTRLUkwtX0xzdUJTQkxmeThYT21UWWkwNXF5WElN?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 12:10:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Murder",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Watch Live: Lindsay Clancy murder trial resumes with testimony from Massachusetts State Police investigators - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNXRXeHVkYTdzNjF6NXNEdzFmZkIzTXhEZHF5SDB0OTBRVmxoM2VndWNLZ1hJZ294cGp1VTB2NGsxMGwtVkF5aE1NYUR5bnEzaVBtWHhrM2ExYkR3cmRPYWdvWVhpQktlZXR4eml6UDZmMGJRbVNyTlJFelZLMjhWbg?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 16:29:32 GMT"
-        },
-        {
-          "title": "Mangione could plead guilty in federal case ahead of NY murder trial - NPR",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSGt3V2dySjFtSE9zUFVBa2NibnBWVkhaMC1hVWVvUDg2blNfY0s3OHEzM3pod0JmZGw0M3FSQ0VKem5GSWtrOVJHX2dnQXJwbFJVS2dOcDk3dkdxdUxteUtoalpTSE1ieEpmbzRKQmhzWUUxYktTS2RrREJtVlVwOUxIYlpZbndUcDN0UGdRTk8?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 17:29:15 GMT"
-        },
-        {
-          "title": "Tennessee executes death row inmate Darrell Hines for 1985 murder of Catherine Jenkins - WZTV",
-          "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQeEQxb0hXRUg4enk1cmN5alNTOVVndUJZbF9vR003dF9QMlBBMW5oMDJ5bUUtUW5vaGlhTmpETnVhay1kN09CZ3hpZjBNaHBuaWhuTVcyNVNXOXFKMHVGeEVHMG9QNk1TcTZoNHpkTVJPX1d5QjlOWWJ3MWN1d3FtTWx0Z2hiQno4bDdJMnNGVkhNbmloenBQeld5UVhMdWVwalBrTE9SMDljWGJNS1V2S05tblJicFBSNS0tM2pWeGRkRlM4Um5kNUFLazl6Yk9DbUJfVTQxV2xlYTlkTnFPT2dQOTB2M3BGLVY3YVI5TFpoNWxQZEZ2UElrN2xEeXhKbGlLdkNtRzhNbDM2dEFtblRYR21MUjVXMkFsQ3ZWMTNrQk13SXF1eTVBeWd5QTRN?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 17:37:30 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Lawsuit",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Judge dismisses Trump administration lawsuit alleging Harvard failed to protect Jewish students - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeUxNQlNveHU1ZXM3bHZMVG55SDExN1MzdUN4UXRZTmVwT2EwS2gyMnI3YXJDM0VYcnFyeEpiNUI3bUlWSXYtSXM0NkRnMVc1ODN5V1pOdlVSdUh4WTYtV2ZzVGwwbk5tV0t1NmpBWTZGaUNmMHlOOGFBb2hPdDZMbjZKM2wtNnVhNUU4aEFVNFF0bHM3bTJocmw5aTU3bW1XN3Bmb1dnQjhTcWxnYXl5RDZtcldJQ1M5SnFCN1Jn?oc=5",
+          "title": "Kennedy Center Board Decides to Inscribe Trump’s Name on Building - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMUVtb2JxWGVIWGNvTThwOWdKc291YU50QmZhRlhyMVhiU3Vpc0ZfSnFIbjdwQl9CbVdXc1dDbVpzbzFEWGE2a1pwYmdJaDUtODNfeGdiX3RVOTJMbUVNS0ppcmViVXNlQmFxS3JDSzNlNWFrbmE0LTdFMlI5aU1FNjhDdVBXSmZwU0NkSjdtbEZYa0FxQXc?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 16:50:56 GMT"
+          "published": "Thu, 13 Aug 2026 19:23:53 GMT"
         },
         {
-          "title": "Lawsuit seeks to ban Trump Media from charging for early access to president's posts on US policy - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPejlTamVWblRiVFJyZEhlbUd4Wm02RmRhVkxFdm9tN05WY0hxNEhaa01ENVMxaVdSd0laMnJRZFM4S2puNjRHdnAtdGhleHRoQlpTdUVfS1NkbjlDX3VXNnlpeGRRN3NNeGhLS1BscUd0eGdoamNzczNGMWp4c3l4RkhTRC02bGdlbDYzRDcwOXgzZHdxRjhjSmV1QjZPeTRLUkwtX0xzdUJTQkxmeThYT21UWWkwNXF5WElN?oc=5",
+          "title": "Federal judge dismisses Trump administration’s antisemitism lawsuit against Harvard - Politico",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNFcxX2ZXdzYwM3N0cDM4NHdKTEFlellUOWJXX2tSdHdNU2gwSEE4Rkc4dGVWdlZaMzJtSnY5UVVhQkQ1QkViYkE5Si1oLWdvV2haVEFyNVRFZlZUZ3VzYml1RWdHN0ozbWQ1QUpEY1NFVG5LeEJycW10QXk5MUpUWVdNVWV1YzdrcHZEVDU2NA?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 12:10:00 GMT"
+          "published": "Thu, 13 Aug 2026 19:15:00 GMT"
         }
       ]
     },
     {
-      "word": "Trial",
+      "word": "House",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Watch Live: Lindsay Clancy murder trial resumes with testimony from Massachusetts State Police investigators - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNXRXeHVkYTdzNjF6NXNEdzFmZkIzTXhEZHF5SDB0OTBRVmxoM2VndWNLZ1hJZ294cGp1VTB2NGsxMGwtVkF5aE1NYUR5bnEzaVBtWHhrM2ExYkR3cmRPYWdvWVhpQktlZXR4eml6UDZmMGJRbVNyTlJFelZLMjhWbg?oc=5",
+          "title": "Who could replace White House Press Secretary Karoline Leavitt? - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpcHlwNWN0QlVQVG42MHpEeE1JcDVoc0ZadGEtTTlhYXo1d0hlX09tU1RWSzgtMHJKd0c0cVgxeHhrZ01Qbmo3c2U3Snl3X3JIV0liRm9ISEhoZw?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 16:29:32 GMT"
+          "published": "Thu, 13 Aug 2026 14:56:19 GMT"
         },
         {
-          "title": "Mangione could plead guilty in federal case ahead of NY murder trial - NPR",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSGt3V2dySjFtSE9zUFVBa2NibnBWVkhaMC1hVWVvUDg2blNfY0s3OHEzM3pod0JmZGw0M3FSQ0VKem5GSWtrOVJHX2dnQXJwbFJVS2dOcDk3dkdxdUxteUtoalpTSE1ieEpmbzRKQmhzWUUxYktTS2RrREJtVlVwOUxIYlpZbndUcDN0UGdRTk8?oc=5",
+          "title": "10 House incumbent lawmakers who saw their 2026 re-election bids end in primary defeat - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdGlFSUx5V0dxaWtrQmVmX1NuTEw3VnZiTG1wX2lxeEpwelBHQVpiSUpMOVVmS2FuX2NzbUh5YlhLOHZHeFRaWUZ2YmdPdnRkdEU5UlVNQnFkN1cwUEtnRVdVaktfUk91Rmd0YU5xWTl3N2g3MDRMSG01QTZEWURTai04Z1VvajBiX1lkM3NPN1ZoTEdQaktIY3hqQTlRMl9EZVpkVW1MSl9hR2NQdk0w0gG0AUFVX3lxTE9ydjJqRm0wRDMwYnVJWTBsZ005RllqU2VrS0pKdEpBNXYxOGM0V29oS3lPd2R2SWNHczNZLWU2X0VtYUc3empkeGVaUzFHdlZKcFprQWU0dEJuOFdLem5maGFSajBYVFR1cG94ZWpXRHZvY2JkWnNFUEs3bjc4TEwzeDJRdjFidHNyOEpzNlpiUUpqOG45Q1Z5N2g5MWI0WGxqdUFFVm1GVFM5M0dzc1RwR3lacA?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 17:29:15 GMT"
+          "published": "Thu, 13 Aug 2026 17:23:56 GMT"
         }
       ]
     },
     {
-      "word": "Death",
+      "word": "Federal",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Tennessee executes death row inmate Darrell Hines for 1985 murder of Catherine Jenkins - WZTV",
-          "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQeEQxb0hXRUg4enk1cmN5alNTOVVndUJZbF9vR003dF9QMlBBMW5oMDJ5bUUtUW5vaGlhTmpETnVhay1kN09CZ3hpZjBNaHBuaWhuTVcyNVNXOXFKMHVGeEVHMG9QNk1TcTZoNHpkTVJPX1d5QjlOWWJ3MWN1d3FtTWx0Z2hiQno4bDdJMnNGVkhNbmloenBQeld5UVhMdWVwalBrTE9SMDljWGJNS1V2S05tblJicFBSNS0tM2pWeGRkRlM4Um5kNUFLazl6Yk9DbUJfVTQxV2xlYTlkTnFPT2dQOTB2M3BGLVY3YVI5TFpoNWxQZEZ2UElrN2xEeXhKbGlLdkNtRzhNbDM2dEFtblRYR21MUjVXMkFsQ3ZWMTNrQk13SXF1eTVBeWd5QTRN?oc=5",
+          "title": "Federal judge dismisses Trump administration’s antisemitism lawsuit against Harvard - Politico",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNFcxX2ZXdzYwM3N0cDM4NHdKTEFlellUOWJXX2tSdHdNU2gwSEE4Rkc4dGVWdlZaMzJtSnY5UVVhQkQ1QkViYkE5Si1oLWdvV2haVEFyNVRFZlZUZ3VzYml1RWdHN0ozbWQ1QUpEY1NFVG5LeEJycW10QXk5MUpUWVdNVWV1YzdrcHZEVDU2NA?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 17:37:30 GMT"
+          "published": "Thu, 13 Aug 2026 19:15:00 GMT"
         },
         {
-          "title": "Colombia earthquake death toll rises as frantic search for survivors continues - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLUtpR3ZFcmpmMEJkUEhJZS16TWtGb1NTM2t3eEtCUDl5dUc0MkthNk9fMlJNbU1UbUVmQ3N0Ty1iZzRpb2g5VTMxLXh4ZTVjVEEyM1VIbUJBYXFya3BrS21IaUt6bm1kWVhYejhSeXFHQmdQNW5tdW1kS0o1d1Iwczd2UVM4ZDhGUlNYM1JRUXJudUpFdlI0eUlaVQ?oc=5",
+          "title": "Luigi Mangione expected to plead guilty in New York federal case - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcTFzYkNVb2FMLUtiWEFXWVlQSkRTNnVYTVJCejZrXzNMZTlNQmlBYlNkRWtuMTB4d0kwTzl5THpTVHNSV0xXcHFfSUxyemxkdW1KMDdtYnB3UjZEbm8yT19fdlRSS0dVcm1mWnk4Y3FJdzltU1pFcWI5SlVuTmJGWkp4a09QSXpZX1VZcUlQUUMwcXRieVlRdmh5ZFM2WHRyOGxMd1I5bmJ6UQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 00:22:00 GMT"
+          "published": "Thu, 13 Aug 2026 19:29:47 GMT"
         }
       ]
     },
     {
-      "word": "Early",
+      "word": "Black",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Lawsuit seeks to ban Trump Media from charging for early access to president's posts on US policy - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPejlTamVWblRiVFJyZEhlbUd4Wm02RmRhVkxFdm9tN05WY0hxNEhaa01ENVMxaVdSd0laMnJRZFM4S2puNjRHdnAtdGhleHRoQlpTdUVfS1NkbjlDX3VXNnlpeGRRN3NNeGhLS1BscUd0eGdoamNzczNGMWp4c3l4RkhTRC02bGdlbDYzRDcwOXgzZHdxRjhjSmV1QjZPeTRLUkwtX0xzdUJTQkxmeThYT21UWWkwNXF5WElN?oc=5",
+          "title": "EXCLUSIVE: Ukraine offers Russia truce in Black Sea as food supply fears mount, source says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaVAyN1FTME4xT3BNeld6NHNVMEpaWElYUkJrVjdmZmFVMVBtX0NlZGp3cXk4UUItS1ZDaGhCVE54bkptY0tiSTJDTHF2VU5HSzB3YTRFay1KY09uM1RuNkZJSXFtbVNiNVlzTU1rWEF2TTV4LUZzazNDU2dkdTVsdENPdnFvZDJMWmcxWTdwNE5na2NzeVBwVlVwTnNrQUN5VHV3bEIwaS1vTmZXOVhGeEVnN1FyQ1VxMTQ0T2g4aw?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 12:10:00 GMT"
+          "published": "Thu, 13 Aug 2026 18:24:22 GMT"
         },
         {
           "title": "Newly discovered \"black hole star\" could solve mystery of strange red dots spotted in the early universe - CBS News",
@@ -130,15 +80,34 @@
       ]
     },
     {
+      "word": "Player",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Powerball player in Illinois wins $1 billion jackpot - ABC News - Breaking News, Latest News and Videos",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR2FhOUQyanpVcHBCaDJJQmNScjBfci1vMzBwSjZxbUhmSmRicWZBZmtNTDJtX2pTTU12cXdrbmlITEZadm5yMHRIc0FvbUEtdjJRWEFrRjd0RnRnU1dSdFpLeXNVbzdkUDJwaTZ0ZGRyZDVaXzVtNEtuOGk0OUljeDU0MkQwa0p5OGdIR2I5QXVyUjJJ0gGaAUFVX3lxTE5CMUhBUTdfbHNqZ3ljeUJ0VGc5dHJBQl9hY25Ic3ViZEdWZml4cjdmeGxxb3lheWJMNDY4MVVZTFUwbzhkM283R0VJNHUtUXBsRXlKM2FQcmNPaVhTVHdLaG1CakgzVDRWN1U0NFBTRGhNaG1NemFpWlduaFR6YzNBd05FRnY5WWlWd1kyN0VIcnYtcEN6TU01WXc?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 17:49:00 GMT"
+        },
+        {
+          "title": "Commanders QB Jayden Daniels now reportedly wants LSU to give back his Heisman Trophy over another player wearing No. 5 - Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOVXZQeG42SlNzTFM3TkdMUG96WkhxaEVvQm12b09JX1RYX2hGZ29uMHgyQlRPU1hhYXAtNUtyS1c2VmNtUkdOVjdjcEhQQUI3WFdENWhIaGczYy0zWTRLWWUyVERRZXN2NkdLd2NiNlh0T1R3bWU5SG40bWxuQWg2WWRDeWh6bkI5dzRfUmNzWl9qOWtud2tVeFptU2NWMmtJb3A5T2hvOW1ReFVmSDJybzBIQldHXy1DUGozYnFGd2c5RVV1QW9DWnozVVZzbHR1LVRRSGtCNHVyckxnZkN1LWE1NTVTV1NRdG9zTnlMby1COFVsM3l5enlRTVFDNHhUSVc0MTRFTTFaaXEtYnlKMzVYRHhuVFJMWjVBNlc3ZW9MekE?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 17:43:10 GMT"
+        }
+      ]
+    },
+    {
       "word": "Billion",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "$1 billion Powerball jackpot has a winner - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONzE5NUlLVTI4Z1Y2bG9oRG5Pb1FvdnVIVFg0UVhlVlEyUXBSVktxZXJnWW9sdVZ4REIxazRYYmFubXg4RzZLWnU0NDdsbWNBOU43elFiU005cjBVNkdkaUpSN3BybDdHaGJVUmxyWjc3dnY0ZnUtVmw1aEVfdVNrMWtJY1dqMnctb1I0Ykw4NHFKQUNQUXJ3?oc=5",
+          "title": "Powerball player in Illinois wins $1 billion jackpot - ABC News - Breaking News, Latest News and Videos",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR2FhOUQyanpVcHBCaDJJQmNScjBfci1vMzBwSjZxbUhmSmRicWZBZmtNTDJtX2pTTU12cXdrbmlITEZadm5yMHRIc0FvbUEtdjJRWEFrRjd0RnRnU1dSdFpLeXNVbzdkUDJwaTZ0ZGRyZDVaXzVtNEtuOGk0OUljeDU0MkQwa0p5OGdIR2I5QXVyUjJJ0gGaAUFVX3lxTE5CMUhBUTdfbHNqZ3ljeUJ0VGc5dHJBQl9hY25Ic3ViZEdWZml4cjdmeGxxb3lheWJMNDY4MVVZTFUwbzhkM283R0VJNHUtUXBsRXlKM2FQcmNPaVhTVHdLaG1CakgzVDRWN1U0NFBTRGhNaG1NemFpWlduaFR6YzNBd05FRnY5WWlWd1kyN0VIcnYtcEN6TU01WXc?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 19:07:07 GMT"
+          "published": "Thu, 13 Aug 2026 17:49:00 GMT"
         },
         {
           "title": "Lakers sold at $12.5 billion valuation: NBA execs, agents react - ESPN",
@@ -149,53 +118,59 @@
       ]
     },
     {
-      "word": "Inflation",
+      "word": "Early",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Stocks rise and interest rates fall after inflation report - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNTFaSEQyZkFiaU1KTkNPU2FuTk40RmpObmYtUUVXdVU2a2JIZ3RJSThFZ2pNdkZCYU53SjlyU0ZTMUlKVEl4Qi1pV2QxUkotYngtZ3pDRmZ6djhTUWhOc1dvVXlWckxDNG5kOUdCNkgtQ1plb1hJMUxmOWNCMXNDbVUxMWQ?oc=5",
+          "title": "Anthropic CFO Krishna Rao is leading early IPO meetings with investors and has not discussed valuation, sources say - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRlZFSERVa2Z4YzhjRVpKc0V1YktMcks5QWRlS2NIZ1Nzd0hLb2lONVVELXZILThaWnh1SXNvYURMZTVQcWRDUWkwZ2ZDMjFLNHJ3T05QQzhhVHRLazVOSzZxYmNoYnhvTW1pLW1fZy1kdUhQbjVuODRDRUgxLXE0QVd5cFp0d9IBiwFBVV95cUxPb29DaEVJYXY5Ym5xeXNLVlVuM0dKZlFsQVN4Y2FnZElCUzhSaUphd0h5RnRLT1BOdkpCQk9sbHBIZWw1cXgza3gxM1JjYkp4M1BKSUZkMF9DZTdxWjRxX2p6ei1oS2RhLVpHSEY3Q1otQUlKcmRLLXVMV095U2Rsclp2ZFl1NU9fVHZF?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 18:01:33 GMT"
+          "published": "Thu, 13 Aug 2026 17:00:49 GMT"
         },
         {
-          "title": "US wholesale inflation slowed more than expected in July - CNN",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6OGxCWktJVHZkSFhXa0lnUnI5QWNfaUg2cGw2emlaNUZRalkwMVZVRkhzcmJzQWlTZWJQcXhWbG9tNDYtVjFudHJkYVI0enhINGtTcC1TMW9BZkx3b0xMTTBBUkM0dGUtcjJOR1lqWXlnclBxSlJjMVBB?oc=5",
+          "title": "Newly discovered \"black hole star\" could solve mystery of strange red dots spotted in the early universe - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1DbU1vbElpenowNmxSeWcydlZtNVgtc2EzSV9NQmEwLXdUQXk3bjFpYkxPMVZsa3NWOTQ1S09hd2ZrVWZnTjdqWWNiZEVTeVpGd2RnUDBkaHNVQ29GcTdiU191NThGMXNxOGdCdTlOcEc4VG5xc1BwbFdJYTdLZw?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 12:43:08 GMT"
+          "published": "Wed, 12 Aug 2026 16:42:39 GMT"
         }
       ]
     },
     {
-      "word": "Iphone",
+      "word": "Valuation",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "iPhone 18 Pro and iPhone Ultra: When is the Next Apple Event? - MacRumors",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM09ma0tqRWhvM3YyTlROeE4tSkZFV2ZKWnZ1dy1KQ1hRQldsbVhHNkRzRWZKYTFYaklxdDhLRjhlM2JkTHNFV21OaW9ZT0txc1NHZlZfR29iS0JlbGdRMVVvTGNrcl9NUkVYajBCZ2lRSTFuZE9LSEw2R2t0T2kyRm1qTGpHVnY1UVdkSQ?oc=5",
+          "title": "Anthropic CFO Krishna Rao is leading early IPO meetings with investors and has not discussed valuation, sources say - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRlZFSERVa2Z4YzhjRVpKc0V1YktMcks5QWRlS2NIZ1Nzd0hLb2lONVVELXZILThaWnh1SXNvYURMZTVQcWRDUWkwZ2ZDMjFLNHJ3T05QQzhhVHRLazVOSzZxYmNoYnhvTW1pLW1fZy1kdUhQbjVuODRDRUgxLXE0QVd5cFp0d9IBiwFBVV95cUxPb29DaEVJYXY5Ym5xeXNLVlVuM0dKZlFsQVN4Y2FnZElCUzhSaUphd0h5RnRLT1BOdkpCQk9sbHBIZWw1cXgza3gxM1JjYkp4M1BKSUZkMF9DZTdxWjRxX2p6ei1oS2RhLVpHSEY3Q1otQUlKcmRLLXVMV095U2Rsclp2ZFl1NU9fVHZF?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 14:11:35 GMT"
+          "published": "Thu, 13 Aug 2026 17:00:49 GMT"
+        },
+        {
+          "title": "Lakers sold at $12.5 billion valuation: NBA execs, agents react - ESPN",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYWI5RmNua3lWbXRkb2dMTk9VLUFodWZ5NUl3X2drbVZTU01yWlo3U2Jlam1rOWlVOFJwYVZHd0JFN2ZRUzJkS3E1a0ZySmlaaWNnN0tJVU42Z2pwWG15N1o2NHNBSkVHQ2FZcEc2Ti1hX2l1V3V0SlVrbUVnZ3Z3T3Y0Wm1RaWZSR28wZS1waDJwV2lJUWE5Ylhva3Z6bTZXVEhTemtXdXZHZHdiUXJ0bS1FRDhWbmtUbUNPTzV3Zlp2bEVSUmtyd0g3TTM2ZWM4OWd6aS1Zdjc?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 15:00:00 GMT"
         }
       ]
     },
     {
-      "word": "Peak",
+      "word": "NBA",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "The Perseid meteor shower peak was spectacular: Here are our favorite photos - Space",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYXdRSHZ4c1E3REFvbnFTRzZtaE9tQjRab1JENE55QUNGZFVxekZsZ2h3M1dRX1ZyR0Z4Wkx4VmphX0pOaWoxT3dfcjFUcmdoYVRwZzJLYXd1elZfcVVndXdKb2lqZGIyZHI1YXp5SHJaWDFfX0U5bUstU0lIQzk1RG4td2wzVW1oay16R2RkVTREVkJTcmFpWTVHMzkwS0h1TFViSVhXSllKSWxfbVVLTmk5Y2pndVdpUTRyaG1CMDlMVVJnVkdPWHBNb2w?oc=5",
+          "title": "Lakers sold at $12.5 billion valuation: NBA execs, agents react - ESPN",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYWI5RmNua3lWbXRkb2dMTk9VLUFodWZ5NUl3X2drbVZTU01yWlo3U2Jlam1rOWlVOFJwYVZHd0JFN2ZRUzJkS3E1a0ZySmlaaWNnN0tJVU42Z2pwWG15N1o2NHNBSkVHQ2FZcEc2Ti1hX2l1V3V0SlVrbUVnZ3Z3T3Y0Wm1RaWZSR28wZS1waDJwV2lJUWE5Ylhva3Z6bTZXVEhTemtXdXZHZHdiUXJ0bS1FRDhWbmtUbUNPTzV3Zlp2bEVSUmtyd0g3TTM2ZWM4OWd6aS1Zdjc?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 15:23:08 GMT"
+          "published": "Thu, 13 Aug 2026 15:00:00 GMT"
         },
         {
-          "title": "When is the solar eclipse? Peak timing and the Midwest cities that could see it - NBC 5 Chicago",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWFNndDVkV2MwT0xZbXFSU0RmeW9WOTdfem1wOGRxa01XQXRMX0RKdjVJTXFjUG5MUC15Y29kb1F2bFhjQ1pianRfajg5SkRNdTNkT1Z3S2tPS2hWcm1KTlhpTkJVR3FEQTByWEZwU3lqMExVWVNZbnFMM0JjU3MxLWtpcTlacGcteDUxNkx3SUtETHpEU0ZCZW8zbXVndUR2aUZsbklZM3lHVjVtd2VZQlpRUXJxQlhWUVlaYnZfb9IBxwFBVV95cUxQR21GeWZ2b1ZnTzlVN2dqQjk0Z1pYYWFVQzdRRktqOXF0SnlBT01RN3JkSVBYSFI4Tk1BUkZwTHZPb1RZdWN4eUVzUHZsaWxaLTB3ZjZKNTBoZ2Y0ZmZ4MUNYVFRlcjdiVFJZcC1Nd1FyMy1FNW9uNXAtNU56VWd4LVZIY2poTTdGdlZiNG05dEhRMTdyZlU4c1JhSUt2MUswelFwRDhTaWRjNF9QMWJoSlVtUGU3eE0tVS02N3BLRXZJSHRrUGQ4?oc=5",
+          "title": "2026-27 NBA Schedule Released for Official Regular-Season Slate - Bleacher Report",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYzExalFGS0R0Z1g5cmZ3VC1UTGNXVFFzRFIyZkFhT3hUaXNieFhVQ2ZyZXB1R3NTS2RDZ3VUOHdrOGRtX3ktN19MQ1JkZW5yc3p5X2phY3BKejJjWHpyc1hScWpCMzBnVm5oOHhXMV8ybnpUSFFkSFRmUElZbnpLMXI3MFVwUlRPb1J3NmpRaVV4eEpnRUdOWU9ma1YySFhaLUhkdU5qVQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 12 Aug 2026 16:22:54 GMT"
+          "published": "Thu, 13 Aug 2026 19:02:17 GMT"
         }
       ]
     },
@@ -219,28 +194,21 @@
       ]
     },
     {
-      "word": "Hospice",
+      "word": "Outbreak",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "My husband was kicked out of hospice for dying too slowly. Here's what I learned about navigating hospice care. - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9CdnIycF9NZDFlZmNZX3VudUFSM3BRVFktV3RVbm5hSEN6SDZZT2RhZ0dvS3BpSXZoZXdXeGlFR3ViNWkzd1Q0eFhPdFl4YU1uWE9FOGhfWkh3Y2pDdFhWc0ZibV9EamhpNWtMM3ZKSmFvTTlnTWdmaDJLVGw?oc=5",
+          "title": "Ebola outbreak caused by new ‘animal transmission’: What that means - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUExzVXFVZkFvamhRU0JlMlU0VjBsZ3M1TmlRQzJPWmJRbUF2UHJBYW5LcVhMWDdBekl2cnRhclpZUVZNcEZzNVRyN29OVDdHdmhJSEhjSlR4TjZqejN4dzFBcUdSa0FEYmk0ZEtRTVFLaVlFV0Z4MUpjOFhkazZvZ2Exa09FVVEwLTA2YkVVcmtFbG5uTW5DSkhtRXRRSzNEQ3h4TFZKUDHSAa4BQVVfeXFMTzhpekVSR3pnMUMtdFNCa202Y3dSb1M3cHhuMzU3T2NxdjV1UVVieE9sWGpkWHZwQU53WFNRZ1hiZFZhay1ibzU0MlJHVFYxWmZTNmZvQTI1RHl6SHpWX0dwRVo3eFZiR1V1ZjJ4dkFaXzJ5M1VuTDZCOXJURGlxSUtaWklKekpaY0VWSW5odmZjSUN1ZVBhVXpleHBxLTQyUDhfNGY0cGQyQWRjckZ3?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 09:00:02 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Free",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
+          "published": "Thu, 13 Aug 2026 14:30:01 GMT"
+        },
         {
-          "title": "FREE TO READ | Free food distribution across the Region in wake of storms - nwitimes.com",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMThCZ3NXREZfSG5HUXpuQVVqVkVzS0ZhVjhacjhLNmstck40Z2ZaMWJQR3lGdGJxellfckwwcW00WkxxM2JwSjIydVFLXzBmNFc4VXZRRS10T3dNZUkySU5oUUhHZ1RqLThFWW9qeEhSanoxQ0VINm9MMTg2RVFwaEFmQ2cyT3lSRkxpa3lDVWYybVk?oc=5",
+          "title": "The U.S. is experiencing the largest outbreak of measles in 35 years. Here's what you need to know in the D.C. region - WAMU",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQ0tGMEdfOFpFN0MtT3VjVXZ4TFZtY2lkNEVUTllfZ2FkYjdaXzh3NVIzSzdkY0NyT19MWUF4MEpTZG5CelItQk9lTGZxM1pPWHpVMjFONk5jUlZSV19OcUgwbEFkS1lQeWZxN0hqRkl3U0tmeU5wUHBCaUQwdHlQeWJ0YTVfcFlKYzNyRmhvZ1J3b2V6SHR2R1pjeXl3SmRiZU5yRTloS2JCa0pxREpSWUEyb2hULUEza1B0SzNjOUZ0X0ZOMkhlaHc0a1ZVQlFaaE5LZ2pNc2FiUjhTanlr?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 16:29:00 GMT"
+          "published": "Thu, 13 Aug 2026 14:21:39 GMT"
         }
       ]
     },
@@ -250,10 +218,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "USS Abraham Lincoln to be replaced amid poor troop conditions - NBC News",
+          "title": "USS Abraham Lincoln to be replaced amid poor conditions for troops deployed to Middle East - NBC News",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFdVXzh0UWVKOEhqYzJkY0JTQ3V6QlFybFl2Wk16b2hBc1NabnZVcjlDR3VWLUliRW1ublNiWVN0cE5VZnRhSk1QZzc2SWJEeUlOM1Y4NmE3SzdrWHF3YXhIc2ptaVpuQ2hFV2FkZ1o4R3BKVTFpT0NhQU51THk5S0thWlN1M0VuTllmanJXNjR5N0JXSXJLMFhVQzFjUklQTnl6OUl6ZlJENHVMcmJQaUZ3?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 17:13:06 GMT"
+          "published": "Thu, 13 Aug 2026 19:49:34 GMT"
         }
       ]
     },
@@ -263,10 +231,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "USS Abraham Lincoln to be replaced amid poor troop conditions - NBC News",
+          "title": "USS Abraham Lincoln to be replaced amid poor conditions for troops deployed to Middle East - NBC News",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFdVXzh0UWVKOEhqYzJkY0JTQ3V6QlFybFl2Wk16b2hBc1NabnZVcjlDR3VWLUliRW1ublNiWVN0cE5VZnRhSk1QZzc2SWJEeUlOM1Y4NmE3SzdrWHF3YXhIc2ptaVpuQ2hFV2FkZ1o4R3BKVTFpT0NhQU51THk5S0thWlN1M0VuTllmanJXNjR5N0JXSXJLMFhVQzFjUklQTnl6OUl6ZlJENHVMcmJQaUZ3?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 17:13:06 GMT"
+          "published": "Thu, 13 Aug 2026 19:49:34 GMT"
         }
       ]
     },
@@ -276,10 +244,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "USS Abraham Lincoln to be replaced amid poor troop conditions - NBC News",
+          "title": "USS Abraham Lincoln to be replaced amid poor conditions for troops deployed to Middle East - NBC News",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFdVXzh0UWVKOEhqYzJkY0JTQ3V6QlFybFl2Wk16b2hBc1NabnZVcjlDR3VWLUliRW1ublNiWVN0cE5VZnRhSk1QZzc2SWJEeUlOM1Y4NmE3SzdrWHF3YXhIc2ptaVpuQ2hFV2FkZ1o4R3BKVTFpT0NhQU51THk5S0thWlN1M0VuTllmanJXNjR5N0JXSXJLMFhVQzFjUklQTnl6OUl6ZlJENHVMcmJQaUZ3?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 17:13:06 GMT"
+          "published": "Thu, 13 Aug 2026 19:49:34 GMT"
         }
       ]
     },
@@ -289,10 +257,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "USS Abraham Lincoln to be replaced amid poor troop conditions - NBC News",
+          "title": "USS Abraham Lincoln to be replaced amid poor conditions for troops deployed to Middle East - NBC News",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFdVXzh0UWVKOEhqYzJkY0JTQ3V6QlFybFl2Wk16b2hBc1NabnZVcjlDR3VWLUliRW1ublNiWVN0cE5VZnRhSk1QZzc2SWJEeUlOM1Y4NmE3SzdrWHF3YXhIc2ptaVpuQ2hFV2FkZ1o4R3BKVTFpT0NhQU51THk5S0thWlN1M0VuTllmanJXNjR5N0JXSXJLMFhVQzFjUklQTnl6OUl6ZlJENHVMcmJQaUZ3?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 17:13:06 GMT"
+          "published": "Thu, 13 Aug 2026 19:49:34 GMT"
         }
       ]
     },
@@ -302,10 +270,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "USS Abraham Lincoln to be replaced amid poor troop conditions - NBC News",
+          "title": "USS Abraham Lincoln to be replaced amid poor conditions for troops deployed to Middle East - NBC News",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFdVXzh0UWVKOEhqYzJkY0JTQ3V6QlFybFl2Wk16b2hBc1NabnZVcjlDR3VWLUliRW1ublNiWVN0cE5VZnRhSk1QZzc2SWJEeUlOM1Y4NmE3SzdrWHF3YXhIc2ptaVpuQ2hFV2FkZ1o4R3BKVTFpT0NhQU51THk5S0thWlN1M0VuTllmanJXNjR5N0JXSXJLMFhVQzFjUklQTnl6OUl6ZlJENHVMcmJQaUZ3?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 17:13:06 GMT"
+          "published": "Thu, 13 Aug 2026 19:49:34 GMT"
         }
       ]
     },
@@ -315,23 +283,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "USS Abraham Lincoln to be replaced amid poor troop conditions - NBC News",
+          "title": "USS Abraham Lincoln to be replaced amid poor conditions for troops deployed to Middle East - NBC News",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFdVXzh0UWVKOEhqYzJkY0JTQ3V6QlFybFl2Wk16b2hBc1NabnZVcjlDR3VWLUliRW1ublNiWVN0cE5VZnRhSk1QZzc2SWJEeUlOM1Y4NmE3SzdrWHF3YXhIc2ptaVpuQ2hFV2FkZ1o4R3BKVTFpT0NhQU51THk5S0thWlN1M0VuTllmanJXNjR5N0JXSXJLMFhVQzFjUklQTnl6OUl6ZlJENHVMcmJQaUZ3?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 17:13:06 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Troop",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "USS Abraham Lincoln to be replaced amid poor troop conditions - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFdVXzh0UWVKOEhqYzJkY0JTQ3V6QlFybFl2Wk16b2hBc1NabnZVcjlDR3VWLUliRW1ublNiWVN0cE5VZnRhSk1QZzc2SWJEeUlOM1Y4NmE3SzdrWHF3YXhIc2ptaVpuQ2hFV2FkZ1o4R3BKVTFpT0NhQU51THk5S0thWlN1M0VuTllmanJXNjR5N0JXSXJLMFhVQzFjUklQTnl6OUl6ZlJENHVMcmJQaUZ3?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 17:13:06 GMT"
+          "published": "Thu, 13 Aug 2026 19:49:34 GMT"
         }
       ]
     },
@@ -341,23 +296,153 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "USS Abraham Lincoln to be replaced amid poor troop conditions - NBC News",
+          "title": "USS Abraham Lincoln to be replaced amid poor conditions for troops deployed to Middle East - NBC News",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFdVXzh0UWVKOEhqYzJkY0JTQ3V6QlFybFl2Wk16b2hBc1NabnZVcjlDR3VWLUliRW1ublNiWVN0cE5VZnRhSk1QZzc2SWJEeUlOM1Y4NmE3SzdrWHF3YXhIc2ptaVpuQ2hFV2FkZ1o4R3BKVTFpT0NhQU51THk5S0thWlN1M0VuTllmanJXNjR5N0JXSXJLMFhVQzFjUklQTnl6OUl6ZlJENHVMcmJQaUZ3?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 17:13:06 GMT"
+          "published": "Thu, 13 Aug 2026 19:49:34 GMT"
         }
       ]
     },
     {
-      "word": "Potentially",
+      "word": "Troops",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Who could potentially replace White House Press Secretary Karoline Leavitt? - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpcHlwNWN0QlVQVG42MHpEeE1JcDVoc0ZadGEtTTlhYXo1d0hlX09tU1RWSzgtMHJKd0c0cVgxeHhrZ01Qbmo3c2U3Snl3X3JIV0liRm9ISEhoZw?oc=5",
+          "title": "USS Abraham Lincoln to be replaced amid poor conditions for troops deployed to Middle East - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFdVXzh0UWVKOEhqYzJkY0JTQ3V6QlFybFl2Wk16b2hBc1NabnZVcjlDR3VWLUliRW1ublNiWVN0cE5VZnRhSk1QZzc2SWJEeUlOM1Y4NmE3SzdrWHF3YXhIc2ptaVpuQ2hFV2FkZ1o4R3BKVTFpT0NhQU51THk5S0thWlN1M0VuTllmanJXNjR5N0JXSXJLMFhVQzFjUklQTnl6OUl6ZlJENHVMcmJQaUZ3?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 14:56:19 GMT"
+          "published": "Thu, 13 Aug 2026 19:49:34 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Deployed",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "USS Abraham Lincoln to be replaced amid poor conditions for troops deployed to Middle East - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFdVXzh0UWVKOEhqYzJkY0JTQ3V6QlFybFl2Wk16b2hBc1NabnZVcjlDR3VWLUliRW1ublNiWVN0cE5VZnRhSk1QZzc2SWJEeUlOM1Y4NmE3SzdrWHF3YXhIc2ptaVpuQ2hFV2FkZ1o4R3BKVTFpT0NhQU51THk5S0thWlN1M0VuTllmanJXNjR5N0JXSXJLMFhVQzFjUklQTnl6OUl6ZlJENHVMcmJQaUZ3?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 19:49:34 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Middle",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "USS Abraham Lincoln to be replaced amid poor conditions for troops deployed to Middle East - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFdVXzh0UWVKOEhqYzJkY0JTQ3V6QlFybFl2Wk16b2hBc1NabnZVcjlDR3VWLUliRW1ublNiWVN0cE5VZnRhSk1QZzc2SWJEeUlOM1Y4NmE3SzdrWHF3YXhIc2ptaVpuQ2hFV2FkZ1o4R3BKVTFpT0NhQU51THk5S0thWlN1M0VuTllmanJXNjR5N0JXSXJLMFhVQzFjUklQTnl6OUl6ZlJENHVMcmJQaUZ3?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 19:49:34 GMT"
+        }
+      ]
+    },
+    {
+      "word": "East",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "USS Abraham Lincoln to be replaced amid poor conditions for troops deployed to Middle East - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFdVXzh0UWVKOEhqYzJkY0JTQ3V6QlFybFl2Wk16b2hBc1NabnZVcjlDR3VWLUliRW1ublNiWVN0cE5VZnRhSk1QZzc2SWJEeUlOM1Y4NmE3SzdrWHF3YXhIc2ptaVpuQ2hFV2FkZ1o4R3BKVTFpT0NhQU51THk5S0thWlN1M0VuTllmanJXNjR5N0JXSXJLMFhVQzFjUklQTnl6OUl6ZlJENHVMcmJQaUZ3?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 19:49:34 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Kennedy",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Kennedy Center Board Decides to Inscribe Trump’s Name on Building - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMUVtb2JxWGVIWGNvTThwOWdKc291YU50QmZhRlhyMVhiU3Vpc0ZfSnFIbjdwQl9CbVdXc1dDbVpzbzFEWGE2a1pwYmdJaDUtODNfeGdiX3RVOTJMbUVNS0ppcmViVXNlQmFxS3JDSzNlNWFrbmE0LTdFMlI5aU1FNjhDdVBXSmZwU0NkSjdtbEZYa0FxQXc?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 19:23:53 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Center",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Kennedy Center Board Decides to Inscribe Trump’s Name on Building - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMUVtb2JxWGVIWGNvTThwOWdKc291YU50QmZhRlhyMVhiU3Vpc0ZfSnFIbjdwQl9CbVdXc1dDbVpzbzFEWGE2a1pwYmdJaDUtODNfeGdiX3RVOTJMbUVNS0ppcmViVXNlQmFxS3JDSzNlNWFrbmE0LTdFMlI5aU1FNjhDdVBXSmZwU0NkSjdtbEZYa0FxQXc?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 19:23:53 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Board",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Kennedy Center Board Decides to Inscribe Trump’s Name on Building - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMUVtb2JxWGVIWGNvTThwOWdKc291YU50QmZhRlhyMVhiU3Vpc0ZfSnFIbjdwQl9CbVdXc1dDbVpzbzFEWGE2a1pwYmdJaDUtODNfeGdiX3RVOTJMbUVNS0ppcmViVXNlQmFxS3JDSzNlNWFrbmE0LTdFMlI5aU1FNjhDdVBXSmZwU0NkSjdtbEZYa0FxQXc?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 19:23:53 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Decides",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Kennedy Center Board Decides to Inscribe Trump’s Name on Building - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMUVtb2JxWGVIWGNvTThwOWdKc291YU50QmZhRlhyMVhiU3Vpc0ZfSnFIbjdwQl9CbVdXc1dDbVpzbzFEWGE2a1pwYmdJaDUtODNfeGdiX3RVOTJMbUVNS0ppcmViVXNlQmFxS3JDSzNlNWFrbmE0LTdFMlI5aU1FNjhDdVBXSmZwU0NkSjdtbEZYa0FxQXc?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 19:23:53 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Inscribe",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Kennedy Center Board Decides to Inscribe Trump’s Name on Building - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMUVtb2JxWGVIWGNvTThwOWdKc291YU50QmZhRlhyMVhiU3Vpc0ZfSnFIbjdwQl9CbVdXc1dDbVpzbzFEWGE2a1pwYmdJaDUtODNfeGdiX3RVOTJMbUVNS0ppcmViVXNlQmFxS3JDSzNlNWFrbmE0LTdFMlI5aU1FNjhDdVBXSmZwU0NkSjdtbEZYa0FxQXc?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 19:23:53 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Name",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Kennedy Center Board Decides to Inscribe Trump’s Name on Building - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMUVtb2JxWGVIWGNvTThwOWdKc291YU50QmZhRlhyMVhiU3Vpc0ZfSnFIbjdwQl9CbVdXc1dDbVpzbzFEWGE2a1pwYmdJaDUtODNfeGdiX3RVOTJMbUVNS0ppcmViVXNlQmFxS3JDSzNlNWFrbmE0LTdFMlI5aU1FNjhDdVBXSmZwU0NkSjdtbEZYa0FxQXc?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 19:23:53 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Building",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Kennedy Center Board Decides to Inscribe Trump’s Name on Building - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMUVtb2JxWGVIWGNvTThwOWdKc291YU50QmZhRlhyMVhiU3Vpc0ZfSnFIbjdwQl9CbVdXc1dDbVpzbzFEWGE2a1pwYmdJaDUtODNfeGdiX3RVOTJMbUVNS0ppcmViVXNlQmFxS3JDSzNlNWFrbmE0LTdFMlI5aU1FNjhDdVBXSmZwU0NkSjdtbEZYa0FxQXc?oc=5",
+          "source": "Google News",
+          "published": "Thu, 13 Aug 2026 19:23:53 GMT"
         }
       ]
     },
@@ -367,7 +452,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Who could potentially replace White House Press Secretary Karoline Leavitt? - BBC",
+          "title": "Who could replace White House Press Secretary Karoline Leavitt? - BBC",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpcHlwNWN0QlVQVG42MHpEeE1JcDVoc0ZadGEtTTlhYXo1d0hlX09tU1RWSzgtMHJKd0c0cVgxeHhrZ01Qbmo3c2U3Snl3X3JIV0liRm9ISEhoZw?oc=5",
           "source": "Google News",
           "published": "Thu, 13 Aug 2026 14:56:19 GMT"
@@ -380,20 +465,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Who could potentially replace White House Press Secretary Karoline Leavitt? - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpcHlwNWN0QlVQVG42MHpEeE1JcDVoc0ZadGEtTTlhYXo1d0hlX09tU1RWSzgtMHJKd0c0cVgxeHhrZ01Qbmo3c2U3Snl3X3JIV0liRm9ISEhoZw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 14:56:19 GMT"
-        }
-      ]
-    },
-    {
-      "word": "House",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Who could potentially replace White House Press Secretary Karoline Leavitt? - BBC",
+          "title": "Who could replace White House Press Secretary Karoline Leavitt? - BBC",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpcHlwNWN0QlVQVG42MHpEeE1JcDVoc0ZadGEtTTlhYXo1d0hlX09tU1RWSzgtMHJKd0c0cVgxeHhrZ01Qbmo3c2U3Snl3X3JIV0liRm9ISEhoZw?oc=5",
           "source": "Google News",
           "published": "Thu, 13 Aug 2026 14:56:19 GMT"
@@ -406,7 +478,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Who could potentially replace White House Press Secretary Karoline Leavitt? - BBC",
+          "title": "Who could replace White House Press Secretary Karoline Leavitt? - BBC",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpcHlwNWN0QlVQVG42MHpEeE1JcDVoc0ZadGEtTTlhYXo1d0hlX09tU1RWSzgtMHJKd0c0cVgxeHhrZ01Qbmo3c2U3Snl3X3JIV0liRm9ISEhoZw?oc=5",
           "source": "Google News",
           "published": "Thu, 13 Aug 2026 14:56:19 GMT"
@@ -419,7 +491,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Who could potentially replace White House Press Secretary Karoline Leavitt? - BBC",
+          "title": "Who could replace White House Press Secretary Karoline Leavitt? - BBC",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpcHlwNWN0QlVQVG42MHpEeE1JcDVoc0ZadGEtTTlhYXo1d0hlX09tU1RWSzgtMHJKd0c0cVgxeHhrZ01Qbmo3c2U3Snl3X3JIV0liRm9ISEhoZw?oc=5",
           "source": "Google News",
           "published": "Thu, 13 Aug 2026 14:56:19 GMT"
@@ -432,7 +504,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Who could potentially replace White House Press Secretary Karoline Leavitt? - BBC",
+          "title": "Who could replace White House Press Secretary Karoline Leavitt? - BBC",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpcHlwNWN0QlVQVG42MHpEeE1JcDVoc0ZadGEtTTlhYXo1d0hlX09tU1RWSzgtMHJKd0c0cVgxeHhrZ01Qbmo3c2U3Snl3X3JIV0liRm9ISEhoZw?oc=5",
           "source": "Google News",
           "published": "Thu, 13 Aug 2026 14:56:19 GMT"
@@ -445,7 +517,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Who could potentially replace White House Press Secretary Karoline Leavitt? - BBC",
+          "title": "Who could replace White House Press Secretary Karoline Leavitt? - BBC",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpcHlwNWN0QlVQVG42MHpEeE1JcDVoc0ZadGEtTTlhYXo1d0hlX09tU1RWSzgtMHJKd0c0cVgxeHhrZ01Qbmo3c2U3Snl3X3JIV0liRm9ISEhoZw?oc=5",
           "source": "Google News",
           "published": "Thu, 13 Aug 2026 14:56:19 GMT"
@@ -458,10 +530,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Judge dismisses Trump administration lawsuit alleging Harvard failed to protect Jewish students - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeUxNQlNveHU1ZXM3bHZMVG55SDExN1MzdUN4UXRZTmVwT2EwS2gyMnI3YXJDM0VYcnFyeEpiNUI3bUlWSXYtSXM0NkRnMVc1ODN5V1pOdlVSdUh4WTYtV2ZzVGwwbk5tV0t1NmpBWTZGaUNmMHlOOGFBb2hPdDZMbjZKM2wtNnVhNUU4aEFVNFF0bHM3bTJocmw5aTU3bW1XN3Bmb1dnQjhTcWxnYXl5RDZtcldJQ1M5SnFCN1Jn?oc=5",
+          "title": "Federal judge dismisses Trump administration’s antisemitism lawsuit against Harvard - Politico",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNFcxX2ZXdzYwM3N0cDM4NHdKTEFlellUOWJXX2tSdHdNU2gwSEE4Rkc4dGVWdlZaMzJtSnY5UVVhQkQ1QkViYkE5Si1oLWdvV2haVEFyNVRFZlZUZ3VzYml1RWdHN0ozbWQ1QUpEY1NFVG5LeEJycW10QXk5MUpUWVdNVWV1YzdrcHZEVDU2NA?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 16:50:56 GMT"
+          "published": "Thu, 13 Aug 2026 19:15:00 GMT"
         }
       ]
     },
@@ -471,10 +543,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Judge dismisses Trump administration lawsuit alleging Harvard failed to protect Jewish students - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeUxNQlNveHU1ZXM3bHZMVG55SDExN1MzdUN4UXRZTmVwT2EwS2gyMnI3YXJDM0VYcnFyeEpiNUI3bUlWSXYtSXM0NkRnMVc1ODN5V1pOdlVSdUh4WTYtV2ZzVGwwbk5tV0t1NmpBWTZGaUNmMHlOOGFBb2hPdDZMbjZKM2wtNnVhNUU4aEFVNFF0bHM3bTJocmw5aTU3bW1XN3Bmb1dnQjhTcWxnYXl5RDZtcldJQ1M5SnFCN1Jn?oc=5",
+          "title": "Federal judge dismisses Trump administration’s antisemitism lawsuit against Harvard - Politico",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNFcxX2ZXdzYwM3N0cDM4NHdKTEFlellUOWJXX2tSdHdNU2gwSEE4Rkc4dGVWdlZaMzJtSnY5UVVhQkQ1QkViYkE5Si1oLWdvV2haVEFyNVRFZlZUZ3VzYml1RWdHN0ozbWQ1QUpEY1NFVG5LeEJycW10QXk5MUpUWVdNVWV1YzdrcHZEVDU2NA?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 16:50:56 GMT"
+          "published": "Thu, 13 Aug 2026 19:15:00 GMT"
         }
       ]
     },
@@ -484,114 +556,36 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Judge dismisses Trump administration lawsuit alleging Harvard failed to protect Jewish students - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeUxNQlNveHU1ZXM3bHZMVG55SDExN1MzdUN4UXRZTmVwT2EwS2gyMnI3YXJDM0VYcnFyeEpiNUI3bUlWSXYtSXM0NkRnMVc1ODN5V1pOdlVSdUh4WTYtV2ZzVGwwbk5tV0t1NmpBWTZGaUNmMHlOOGFBb2hPdDZMbjZKM2wtNnVhNUU4aEFVNFF0bHM3bTJocmw5aTU3bW1XN3Bmb1dnQjhTcWxnYXl5RDZtcldJQ1M5SnFCN1Jn?oc=5",
+          "title": "Federal judge dismisses Trump administration’s antisemitism lawsuit against Harvard - Politico",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNFcxX2ZXdzYwM3N0cDM4NHdKTEFlellUOWJXX2tSdHdNU2gwSEE4Rkc4dGVWdlZaMzJtSnY5UVVhQkQ1QkViYkE5Si1oLWdvV2haVEFyNVRFZlZUZ3VzYml1RWdHN0ozbWQ1QUpEY1NFVG5LeEJycW10QXk5MUpUWVdNVWV1YzdrcHZEVDU2NA?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 16:50:56 GMT"
+          "published": "Thu, 13 Aug 2026 19:15:00 GMT"
         }
       ]
     },
     {
-      "word": "Alleging",
+      "word": "Antisemitism",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Judge dismisses Trump administration lawsuit alleging Harvard failed to protect Jewish students - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeUxNQlNveHU1ZXM3bHZMVG55SDExN1MzdUN4UXRZTmVwT2EwS2gyMnI3YXJDM0VYcnFyeEpiNUI3bUlWSXYtSXM0NkRnMVc1ODN5V1pOdlVSdUh4WTYtV2ZzVGwwbk5tV0t1NmpBWTZGaUNmMHlOOGFBb2hPdDZMbjZKM2wtNnVhNUU4aEFVNFF0bHM3bTJocmw5aTU3bW1XN3Bmb1dnQjhTcWxnYXl5RDZtcldJQ1M5SnFCN1Jn?oc=5",
+          "title": "Federal judge dismisses Trump administration’s antisemitism lawsuit against Harvard - Politico",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNFcxX2ZXdzYwM3N0cDM4NHdKTEFlellUOWJXX2tSdHdNU2gwSEE4Rkc4dGVWdlZaMzJtSnY5UVVhQkQ1QkViYkE5Si1oLWdvV2haVEFyNVRFZlZUZ3VzYml1RWdHN0ozbWQ1QUpEY1NFVG5LeEJycW10QXk5MUpUWVdNVWV1YzdrcHZEVDU2NA?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 16:50:56 GMT"
+          "published": "Thu, 13 Aug 2026 19:15:00 GMT"
         }
       ]
     },
     {
-      "word": "Harvard",
+      "word": "Lawsuit",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Judge dismisses Trump administration lawsuit alleging Harvard failed to protect Jewish students - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeUxNQlNveHU1ZXM3bHZMVG55SDExN1MzdUN4UXRZTmVwT2EwS2gyMnI3YXJDM0VYcnFyeEpiNUI3bUlWSXYtSXM0NkRnMVc1ODN5V1pOdlVSdUh4WTYtV2ZzVGwwbk5tV0t1NmpBWTZGaUNmMHlOOGFBb2hPdDZMbjZKM2wtNnVhNUU4aEFVNFF0bHM3bTJocmw5aTU3bW1XN3Bmb1dnQjhTcWxnYXl5RDZtcldJQ1M5SnFCN1Jn?oc=5",
+          "title": "Federal judge dismisses Trump administration’s antisemitism lawsuit against Harvard - Politico",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNFcxX2ZXdzYwM3N0cDM4NHdKTEFlellUOWJXX2tSdHdNU2gwSEE4Rkc4dGVWdlZaMzJtSnY5UVVhQkQ1QkViYkE5Si1oLWdvV2haVEFyNVRFZlZUZ3VzYml1RWdHN0ozbWQ1QUpEY1NFVG5LeEJycW10QXk5MUpUWVdNVWV1YzdrcHZEVDU2NA?oc=5",
           "source": "Google News",
-          "published": "Thu, 13 Aug 2026 16:50:56 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Failed",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Judge dismisses Trump administration lawsuit alleging Harvard failed to protect Jewish students - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeUxNQlNveHU1ZXM3bHZMVG55SDExN1MzdUN4UXRZTmVwT2EwS2gyMnI3YXJDM0VYcnFyeEpiNUI3bUlWSXYtSXM0NkRnMVc1ODN5V1pOdlVSdUh4WTYtV2ZzVGwwbk5tV0t1NmpBWTZGaUNmMHlOOGFBb2hPdDZMbjZKM2wtNnVhNUU4aEFVNFF0bHM3bTJocmw5aTU3bW1XN3Bmb1dnQjhTcWxnYXl5RDZtcldJQ1M5SnFCN1Jn?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 16:50:56 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Protect",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Judge dismisses Trump administration lawsuit alleging Harvard failed to protect Jewish students - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeUxNQlNveHU1ZXM3bHZMVG55SDExN1MzdUN4UXRZTmVwT2EwS2gyMnI3YXJDM0VYcnFyeEpiNUI3bUlWSXYtSXM0NkRnMVc1ODN5V1pOdlVSdUh4WTYtV2ZzVGwwbk5tV0t1NmpBWTZGaUNmMHlOOGFBb2hPdDZMbjZKM2wtNnVhNUU4aEFVNFF0bHM3bTJocmw5aTU3bW1XN3Bmb1dnQjhTcWxnYXl5RDZtcldJQ1M5SnFCN1Jn?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 16:50:56 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Jewish",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Judge dismisses Trump administration lawsuit alleging Harvard failed to protect Jewish students - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeUxNQlNveHU1ZXM3bHZMVG55SDExN1MzdUN4UXRZTmVwT2EwS2gyMnI3YXJDM0VYcnFyeEpiNUI3bUlWSXYtSXM0NkRnMVc1ODN5V1pOdlVSdUh4WTYtV2ZzVGwwbk5tV0t1NmpBWTZGaUNmMHlOOGFBb2hPdDZMbjZKM2wtNnVhNUU4aEFVNFF0bHM3bTJocmw5aTU3bW1XN3Bmb1dnQjhTcWxnYXl5RDZtcldJQ1M5SnFCN1Jn?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 16:50:56 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Students",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Judge dismisses Trump administration lawsuit alleging Harvard failed to protect Jewish students - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeUxNQlNveHU1ZXM3bHZMVG55SDExN1MzdUN4UXRZTmVwT2EwS2gyMnI3YXJDM0VYcnFyeEpiNUI3bUlWSXYtSXM0NkRnMVc1ODN5V1pOdlVSdUh4WTYtV2ZzVGwwbk5tV0t1NmpBWTZGaUNmMHlOOGFBb2hPdDZMbjZKM2wtNnVhNUU4aEFVNFF0bHM3bTJocmw5aTU3bW1XN3Bmb1dnQjhTcWxnYXl5RDZtcldJQ1M5SnFCN1Jn?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 16:50:56 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Flock",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Flock camera scandals prompt company to make changes - USA Today",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYWx2dXUxQ2hkWl8tWVRLTkhTdFI5QTNZSnZ4UlBFSWpUTWJ0VmFIY3ItZzVtLXNUWl85UHhia2Nra3Rkd0NDR2FIekQ5V2NUaHFFOHlTcFNiLWF2eFlyVnQ4Z3J1MXBaUEk3MHRJY3FRU1RSQzFKeWUyRWw0ZThuYWd0dlUyazQ3b0NkUEg2cl9KUjBRZjFHUXNqaVNpbW1yMkJURVZJNHh0b2N0TjMyMjQwczVHUQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 14:02:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Camera",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Flock camera scandals prompt company to make changes - USA Today",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYWx2dXUxQ2hkWl8tWVRLTkhTdFI5QTNZSnZ4UlBFSWpUTWJ0VmFIY3ItZzVtLXNUWl85UHhia2Nra3Rkd0NDR2FIekQ5V2NUaHFFOHlTcFNiLWF2eFlyVnQ4Z3J1MXBaUEk3MHRJY3FRU1RSQzFKeWUyRWw0ZThuYWd0dlUyazQ3b0NkUEg2cl9KUjBRZjFHUXNqaVNpbW1yMkJURVZJNHh0b2N0TjMyMjQwczVHUQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 13 Aug 2026 14:02:00 GMT"
+          "published": "Thu, 13 Aug 2026 19:15:00 GMT"
         }
       ]
     }
