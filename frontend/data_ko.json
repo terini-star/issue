@@ -1,94 +1,37 @@
 {
   "language": "ko",
-  "last_updated": 1786908344.1047292,
+  "last_updated": 1786912222.027185,
   "count": 40,
   "trends": [
     {
-      "word": "대통령",
-      "count": 2,
-      "category": "PERSON",
-      "articles": [
-        {
-          "title": "대통령이 띄운 ‘권력구조 개헌’…국힘 반발에 실현 불투명 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLYk83cy1RVDJDamUwcFdPUVkxUjZkaWdtUUIwMDFDWEFzSlhWajg1OXJSR2NfR0VFcld2NU94ZXFzNHN4clltU1Z6NkdfLVNKMnk2TjYzN05VWkJGclQwak9sZUR1QjAyQkNJ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 16 Aug 2026 13:09:00 GMT"
-        },
-        {
-          "title": "日언론 \"李대통령 광복절 경축사, 한일 미래협력 강조\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sZFhLeW9EZ0VzQzJZakYxTjlDZTE1T2Qya3RJQ0UtRUFCTXkyMUZWWkxuSXdBVVFmczZUcmp0NEhJQm50UHRKRXdLcDRYLXdDN1JOdGJfUzdhMmfSAWBBVV95cUxNc0hmdVhOSFpDQzBzUGZRUXEzZjI1bmw4dmdDRzNzUDd2T3hhWlFpaU5CX2R1VFlfRkRySjVmWmRUNWd6TEs5SFl2Z1hWWXZZNExRVHRzTk1jdnhZbmNId1U?oc=5",
-          "source": "Google News",
-          "published": "Sun, 16 Aug 2026 02:07:48 GMT"
-        }
-      ]
-    },
-    {
-      "word": "증조부",
-      "count": 2,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "‘친일파 증조부’ 하영 논란에 ‘2기 친일재산환수위’ 관심···정성호 “최소 325억원 환수 예상” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jX04yRkRWMUFqRkY3Q2pqMTVUN29rcmFOeHdfVGktZENOZmdDWVB1T1VsQWtPWTVuQlRlQkFpNkZvdU9XYnV3Y0lRdHZVT3lQaE9rSXZRRFltQdIBX0FVX3lxTE4xN1J6SnY2XzAwckFPOE9ZRkRMNEdxQW5yRm0zLWo5VE1FZEk5ZEJRQVY1NjVhQWlmLUZFTHF5bVlwSTBoSGRCR29EaHJsaXJYSllYV1NsNVdjM2JjOFZV?oc=5",
-          "source": "Google News",
-          "published": "Sun, 16 Aug 2026 06:34:00 GMT"
-        },
-        {
-          "title": "하영, 증조부 친일 논란 속 눈물의 촬영장…SBS ‘승산’측 하차 불가 진퇴양난 - 스포츠경향",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuZWNBWEl1blBDOFVtcmRrQTVxTVRIaGRwTzRDWldvMUtRelIzRC1LajVaLWFnaWxaOElkeGRmd3Z1M19LSGZwc3FiWlBPaWZ2VW1wYnFzRFFsYlpGNUHSAWNBVV95cUxQc09vNmc1OXFteVo2c19Nc3NRNm9ORk90OWpTRWdXcklqdGlGTnU1RWx3Y1h3VEk4SEhpZHRpNDl3bHlLWnp4UEM4NTNSRloyTVdLajFPMHE3V2lBd2IzWmZETGs?oc=5",
-          "source": "Google News",
-          "published": "Sun, 16 Aug 2026 03:42:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "하영",
+      "word": "후보",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘친일파 증조부’ 하영 논란에 ‘2기 친일재산환수위’ 관심···정성호 “최소 325억원 환수 예상” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jX04yRkRWMUFqRkY3Q2pqMTVUN29rcmFOeHdfVGktZENOZmdDWVB1T1VsQWtPWTVuQlRlQkFpNkZvdU9XYnV3Y0lRdHZVT3lQaE9rSXZRRFltQdIBX0FVX3lxTE4xN1J6SnY2XzAwckFPOE9ZRkRMNEdxQW5yRm0zLWo5VE1FZEk5ZEJRQVY1NjVhQWlmLUZFTHF5bVlwSTBoSGRCR29EaHJsaXJYSllYV1NsNVdjM2JjOFZV?oc=5",
+          "title": "임미애·김영호, 與최고위원 후보 사퇴...\"김용에 한 표 모아달라\" - KBC광주방송",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IOHdDd2habnA5RmRkdnZGczkzYTNMVTVRZGQwdkZBMnZpU0FrWjQ2TkZxczJuSGU3QXFLemVRR3VocjExWUZrYWYzM3l3SUl0a0FxbmVUTy1fX0JFWFhhdmVn?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 06:34:00 GMT"
+          "published": "Sun, 16 Aug 2026 12:30:24 GMT"
         },
         {
-          "title": "하영, 증조부 친일 논란 속 눈물의 촬영장…SBS ‘승산’측 하차 불가 진퇴양난 - 스포츠경향",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuZWNBWEl1blBDOFVtcmRrQTVxTVRIaGRwTzRDWldvMUtRelIzRC1LajVaLWFnaWxaOElkeGRmd3Z1M19LSGZwc3FiWlBPaWZ2VW1wYnFzRFFsYlpGNUHSAWNBVV95cUxQc09vNmc1OXFteVo2c19Nc3NRNm9ORk90OWpTRWdXcklqdGlGTnU1RWx3Y1h3VEk4SEhpZHRpNDl3bHlLWnp4UEM4NTNSRloyTVdLajFPMHE3V2lBd2IzWmZETGs?oc=5",
+          "title": "최민희 ‘수석최고’ 선두 탈환…‘팀정청래’ 후보 모두 최고위 입성하나 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BUU93RnUzU0tNdjNmSDBWSVlwTC1EWHBZVnJxMUVWcncyTVlULXhwQ0xYVUVLTExqcnYzOXEyaGxpNF80VkQ5NGx6SWEyWEFkVU50SnlRRW9VZ9IBX0FVX3lxTFBQNkcwcmt3VzRkQjVGTllBUk8ya0JSZXZUQnlBcTRJSEtUV0VPd09kNVZ6RG80dUxWMW85bzUxeUZCVV9ZUkJBbXRFd1E2cnFaRXJUZ1RxMXlLbm1rQTQ4?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 03:42:00 GMT"
+          "published": "Sun, 16 Aug 2026 10:20:00 GMT"
         }
       ]
     },
     {
-      "word": "논란",
+      "word": "연임",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘친일파 증조부’ 하영 논란에 ‘2기 친일재산환수위’ 관심···정성호 “최소 325억원 환수 예상” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jX04yRkRWMUFqRkY3Q2pqMTVUN29rcmFOeHdfVGktZENOZmdDWVB1T1VsQWtPWTVuQlRlQkFpNkZvdU9XYnV3Y0lRdHZVT3lQaE9rSXZRRFltQdIBX0FVX3lxTE4xN1J6SnY2XzAwckFPOE9ZRkRMNEdxQW5yRm0zLWo5VE1FZEk5ZEJRQVY1NjVhQWlmLUZFTHF5bVlwSTBoSGRCR29EaHJsaXJYSllYV1NsNVdjM2JjOFZV?oc=5",
+          "title": "국힘 김태호 “이 대통령 ‘연임 안 한다’ 밝히면 야당도 개헌논의 동참해야” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2Y1ctOWVIZ3FRWmdNN2hWU2ZITE5iY0JTTnBnVkNzaFowMW5VNl92ekgtRTQ0bEZ4QlRaVkZuT1E1VnpMSDhyRE81eVo1Y2tEM0QyYkRMa3F1c0x1NzkyZm1DalRmT3VoNmZ0eElsejE5d2Rt?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 06:34:00 GMT"
-        },
-        {
-          "title": "하영, 증조부 친일 논란 속 눈물의 촬영장…SBS ‘승산’측 하차 불가 진퇴양난 - 스포츠경향",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuZWNBWEl1blBDOFVtcmRrQTVxTVRIaGRwTzRDWldvMUtRelIzRC1LajVaLWFnaWxaOElkeGRmd3Z1M19LSGZwc3FiWlBPaWZ2VW1wYnFzRFFsYlpGNUHSAWNBVV95cUxQc09vNmc1OXFteVo2c19Nc3NRNm9ORk90OWpTRWdXcklqdGlGTnU1RWx3Y1h3VEk4SEhpZHRpNDl3bHlLWnp4UEM4NTNSRloyTVdLajFPMHE3V2lBd2IzWmZETGs?oc=5",
-          "source": "Google News",
-          "published": "Sun, 16 Aug 2026 03:42:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "광복절",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "日언론 \"李대통령 광복절 경축사, 한일 미래협력 강조\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sZFhLeW9EZ0VzQzJZakYxTjlDZTE1T2Qya3RJQ0UtRUFCTXkyMUZWWkxuSXdBVVFmczZUcmp0NEhJQm50UHRKRXdLcDRYLXdDN1JOdGJfUzdhMmfSAWBBVV95cUxNc0hmdVhOSFpDQzBzUGZRUXEzZjI1bmw4dmdDRzNzUDd2T3hhWlFpaU5CX2R1VFlfRkRySjVmWmRUNWd6TEs5SFl2Z1hWWXZZNExRVHRzTk1jdnhZbmNId1U?oc=5",
-          "source": "Google News",
-          "published": "Sun, 16 Aug 2026 02:07:48 GMT"
+          "published": "Sun, 16 Aug 2026 08:47:00 GMT"
         },
         {
           "title": "‘이승만 목걸이’ 걸고 광복절 올공 집회 간 장동혁···“이재명 연임 개헌 막아야” - 경향신문",
@@ -104,92 +47,16 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "美, 트럼프 행정명령·일라이릴리 소송에 ‘들썩’[클릭, 글로벌 제약·바이오] - 팜이데일리",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90WEYwcW5LUS1wNmlnTi1hUENBWmlPbGNSbEE0Zk9TbzJ2QU9VcXIwdDJOQlZvZ1BuSWxIN04weWkzYzF3OWw2Q0wxWkU5MGVXWVFiNENjbU5CNXhQOWU5c1NkY2RuMmRGMldTUktn?oc=5",
+          "title": "美, 트럼프 행정명령·일라이릴리 소송에 ‘들썩’[클릭, 글로벌 제약·바이오] - edaily.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOakVBeG9JdkJuNkFnVzN6NmctM0k0ZXp1cHExdGlod2hLRDRDU1RRTVhTWkRUakt5TTRMNWRjYXl1X2dhbUdlOUphREJyUWZqMjJXaWlMYkswbnVILWJLcnhoQ3ZpWFlsYy1HWWtwVUFPT1Z3WXE3d0tmV3U1enpFNA?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 14:55:03 GMT"
+          "published": "Sun, 16 Aug 2026 14:56:02 GMT"
         },
         {
-          "title": "끝나는 ‘60일 휴전’… 트럼프 “호르무즈는 美 영토”, 이란 “망상” - chosun.com",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNREZjVjdqNGhXb3EyZUp2RUx6LVVmRzdDTnJKNldySE9FSTdXZkg3T1FwS2xkQXdIVzZRNlJWdWR0OWRZTXZYbGFtRUNiLXktaVcyTVFhRnJVTnI4QS0waTRpTnhUcjNjMFR2RkVtczRSWlo5U2tJemprTm5JcWFPeHRoZ2s1UUFRbVZFTU5rQ2VCSEJSMTNKZi1ZcEo?oc=5",
+          "title": "트럼프 “호르무즈 해협, 조만간 美영토로 선언”… 이란 “망상, 계속 봉쇄” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mNm02emZTdDBMa1pYX2JjY3dDbC1lUFhWczQtUU9Fc1JRaktEUW41S19ESGhiQnVDdjN4ek5RbDRoMTZ1MWJBemhGQmNXVE1IWmt1RS1RUWE1RHhCNXRRYnZYS2VmdFE5dVBr0gFmQVVfeXFMTThUYllwQUV1NndFVHJUMzZWQUpHcFhSaXE3OUNQcHlUdUNjMW5QYW4zSDJCRmxjeVBRWHNPbVlFdzRlVnNFYVhDXzZEbkptNGdDd3VwN0ROYW9CU09OOTY5cmk2TjlR?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 06:59:03 GMT"
-        }
-      ]
-    },
-    {
-      "word": "엄마",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "콜롬비아 지진…아기는 32시간 버텼지만 엄마는 끝내 시신으로 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05ZzJ4MzlNUy10eVNpMTByY1BGMGpwSG41ODZLYWpyUmZsNEdUMlNWM19FX1FySXRZbHdLUVF2NUFsTXM4aXh6RHJfRW5mTHJWTDJKZFlmSkJyWDTSAWBBVV95cUxOUFY5eGhZcnU4WEpha19ETXNrOWJQbi1CcERyZDZOeHdPdzVCNlJ3U0hpVWhHTU8zSkJ6NWZWcUhCbnlyeHQwZG5fOWx6RVFEYWpLZXpmMUZsdGhxSmw0T3U?oc=5",
-          "source": "Google News",
-          "published": "Sun, 16 Aug 2026 16:15:56 GMT"
-        },
-        {
-          "title": "“내가 더 잘 살게” 린, 이혼 이야기 꺼냈다…母의 “엄마는 믿어”에 결국 '울컥' - 조선비즈 - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTTFLeUwxaEkxYldleTl5VjlSZG9oMXR4OTdaaDV2RHhRd1ZXdnI2QkZzWkJTczZjb3FnRFRZX0VDUEpvTVowQTVmSS1ub2J6cm1uSUpOTU9EOVJXOFdvV01Qc3N6VDVpSi1UMTlxN25Gek0zQVlXMmJlSFJ1RF9GUmE5d0Q3UXp4T1pBMWtaa2VGQW_SAacBQVVfeXFMTzNlNldEbXhULTdod3d4ZldoLUZYcUdnQXdZQjNtZGk1dk5UTzlpM3VabGYxNjF3WE8wVDF6S3Y4bUtad0xRUVo4Ulczall3aHJmeFZSc0ZuSnoxbDZ3VWxnSkFqcW5nYnJDQkp2bDNua1BnZlF4cXM4aUpvQ2UzSHdmRnNVU2VWTVUzQ3ZOcGtmNW5TZmpDTTkzazE5cmlwSGFmRHpBWUk?oc=5",
-          "source": "Google News",
-          "published": "Sun, 16 Aug 2026 12:58:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "한국",
-      "count": 2,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "'또 너냐' 한국 텃밭까지 밀고 들어왔다…K조선 '초비상' - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SaHZsa1psTXo1eFVTeHgtZVo4NGQyWExkWDNxZnZfU0lhTy1SNVhudlEyQjJYU0d0WU93U25NbV9GMzB6eWRoazQ3S1FzZDN2UnBOeWRqeDFDdw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 16 Aug 2026 09:06:16 GMT"
-        },
-        {
-          "title": "한국 남자농구, 일본에 29점 차 대패…이틀 연속 최다 격차 경신 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xbGJ2Ukk3YVQ4LWtnX2dFQ1JxdXJfX1JjMkpQQnktWVJBUGM0dlVCZlJUVEhfeVc3aHNVU0didjZfcy1jaDZjLVZ2MzZPdnRUQWVlRm4zam0xbmvSAWBBVV95cUxQVVRRM3JKNFFObGpsbHk5MG90QUo0NDhrQmJQU3MwdTlDUjBaRkJHMkdpWjZTTkJOOS01UmNKXzdhWER2Q2N6b2V2alJtc0N1bWtSWmwwOWVHcV93X3BjVGk?oc=5",
-          "source": "Google News",
-          "published": "Sun, 16 Aug 2026 12:17:23 GMT"
-        }
-      ]
-    },
-    {
-      "word": "연속",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "＂27만전자·160만닉스 회복＂…5일 연속 오른 코스피, 이번주도 달릴까 - 한국경제TV",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwbWlvc3d1N1d6UzhMS2RqWGoxRExPMlFGU3FSMW82TDFzbXhiRmdxQVdrMElHQThxYlh5Xy1OTVVvYXBnRk5mTmNqTUNtRWNhWTBsa1Nxa01pWnBGZVFrY25CeUV2b2VUVWM1dTRhcFBpSlZM?oc=5",
-          "source": "Google News",
-          "published": "Sun, 16 Aug 2026 10:42:00 GMT"
-        },
-        {
-          "title": "한국 남자농구, 일본에 29점 차 대패…이틀 연속 최다 격차 경신 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xbGJ2Ukk3YVQ4LWtnX2dFQ1JxdXJfX1JjMkpQQnktWVJBUGM0dlVCZlJUVEhfeVc3aHNVU0didjZfcy1jaDZjLVZ2MzZPdnRUQWVlRm4zam0xbmvSAWBBVV95cUxQVVRRM3JKNFFObGpsbHk5MG90QUo0NDhrQmJQU3MwdTlDUjBaRkJHMkdpWjZTTkJOOS01UmNKXzdhWER2Q2N6b2V2alJtc0N1bWtSWmwwOWVHcV93X3BjVGk?oc=5",
-          "source": "Google News",
-          "published": "Sun, 16 Aug 2026 12:17:23 GMT"
-        }
-      ]
-    },
-    {
-      "word": "4경기",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "손흥민 MLS 4경기 연속골 마감‥LAFC, 샌디에이고에 0-1 패배 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CWmZNVFNNQmwzdnlUbVFVWlgybFctUlM5YUw1U2pMNnk1cFhmcnZubmFsQ2hjX2g2cE9DNzc1VGdaVWtzcXZrSHU5ZjRLcVY0QmkydjBmXzEtaW9Qam9sTVVXc2ZOUjRiNThnQWNtYkZOMFpuSUHSAXZBVV95cUxQQ1hET0xiSkNwcFVMd1dRd3ZaalBXMlhCUWktOVNsMGZqbllFQTZna3J3NG8wcjQwdFFLYXF4eU0wNEZ2bTZEM0x2S0JzU3JfSl8zbVl1NEFkUldwLWNJS3dRN2RuUDM1dllrWTlIVHVoSkc2b1BB?oc=5",
-          "source": "Google News",
-          "published": "Sun, 16 Aug 2026 08:13:17 GMT"
-        },
-        {
-          "title": "4경기 무안타 침묵 날린 이정후, 한 이닝 멀티히트 - 국제신문",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSDloaGZXMWoxSEdQNFJRVVJwRFlFdGpob3pFN0VrU0Jkc1VCMUdpNHEyX2xOLTRXQ0xES3pUXzItNUVBNTEwdEhBVVctMFhFeHM0NnRjcXlCVTNvR2Q1M1UzY2hUYmlJdGpvTEJXbWozRFY5SnNOaWwyZGtIcWU4U2t4TUl5eHNBZ0QtUXZR?oc=5",
-          "source": "Google News",
-          "published": "Sun, 16 Aug 2026 10:06:00 GMT"
+          "published": "Sun, 16 Aug 2026 16:40:00 GMT"
         }
       ]
     },
@@ -207,67 +74,54 @@
       ]
     },
     {
-      "word": "김민석",
+      "word": "김민석정청래",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김민석 연승…민주당 대표 ‘유력’ - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCWnlYVEhXd2x5YXlwdjgxNW1lYkRPNDdFT2tyMzZzbEtTdS1UclhNZkR0cGZvemExNUYwQUlQV1dqc2hiZ2ptek40aGpBV0xLSXlFWnp2UXdPUdIBX0FVX3lxTFBpcTlwM1AyMDFITjVfSTF2NmF1em5QRTNjcnZfRUo2RGpoMmd2a2VnQ1R1eHBBUWN2bmFXWW1EWmk0RFR3Q3VLQkNBMHMzV1JLU0NsNUVWd19MZ0JXWVo0?oc=5",
+          "title": "김민석-정청래 8.4%P差… 오늘 당대표 결정 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBOMTJxd1NHN0o2Q0RXTkFoeVc2X3JxM2c5ZzkwRnBvVFZ2X00ySUhweHRHNXBfZDhJSllLQ20tQjlJY0FFamtlOFlxdHJybXgyeFlUTFNZSUVEMDJPczFpc1NGVkJ0UzhNaFM1MFFLRTg3aktYNDhj0gFmQVVfeXFMTXJXU3FGWGltbU5HSXhqQVhvXzE0VkJDM0ZtMXcwSm44LWVCWUxVTE1kbmdvTjQ4SEFGdlEyMmE4Tl9nUFVfYUZNNWplVnVZYWEzY2J5LW5PNFZSNWV6YUxDSExZV19R?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 12:27:00 GMT"
+          "published": "Sun, 16 Aug 2026 16:40:00 GMT"
         }
       ]
     },
     {
-      "word": "연승민주당",
+      "word": "84P",
       "count": 1,
       "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "김민석 연승…민주당 대표 ‘유력’ - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCWnlYVEhXd2x5YXlwdjgxNW1lYkRPNDdFT2tyMzZzbEtTdS1UclhNZkR0cGZvemExNUYwQUlQV1dqc2hiZ2ptek40aGpBV0xLSXlFWnp2UXdPUdIBX0FVX3lxTFBpcTlwM1AyMDFITjVfSTF2NmF1em5QRTNjcnZfRUo2RGpoMmd2a2VnQ1R1eHBBUWN2bmFXWW1EWmk0RFR3Q3VLQkNBMHMzV1JLU0NsNUVWd19MZ0JXWVo0?oc=5",
+          "title": "김민석-정청래 8.4%P差… 오늘 당대표 결정 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBOMTJxd1NHN0o2Q0RXTkFoeVc2X3JxM2c5ZzkwRnBvVFZ2X00ySUhweHRHNXBfZDhJSllLQ20tQjlJY0FFamtlOFlxdHJybXgyeFlUTFNZSUVEMDJPczFpc1NGVkJ0UzhNaFM1MFFLRTg3aktYNDhj0gFmQVVfeXFMTXJXU3FGWGltbU5HSXhqQVhvXzE0VkJDM0ZtMXcwSm44LWVCWUxVTE1kbmdvTjQ4SEFGdlEyMmE4Tl9nUFVfYUZNNWplVnVZYWEzY2J5LW5PNFZSNWV6YUxDSExZV19R?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 12:27:00 GMT"
+          "published": "Sun, 16 Aug 2026 16:40:00 GMT"
         }
       ]
     },
     {
-      "word": "대표",
+      "word": "당대표",
       "count": 1,
-      "category": "NOUN",
+      "category": "PERSON",
       "articles": [
         {
-          "title": "김민석 연승…민주당 대표 ‘유력’ - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCWnlYVEhXd2x5YXlwdjgxNW1lYkRPNDdFT2tyMzZzbEtTdS1UclhNZkR0cGZvemExNUYwQUlQV1dqc2hiZ2ptek40aGpBV0xLSXlFWnp2UXdPUdIBX0FVX3lxTFBpcTlwM1AyMDFITjVfSTF2NmF1em5QRTNjcnZfRUo2RGpoMmd2a2VnQ1R1eHBBUWN2bmFXWW1EWmk0RFR3Q3VLQkNBMHMzV1JLU0NsNUVWd19MZ0JXWVo0?oc=5",
+          "title": "김민석-정청래 8.4%P差… 오늘 당대표 결정 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBOMTJxd1NHN0o2Q0RXTkFoeVc2X3JxM2c5ZzkwRnBvVFZ2X00ySUhweHRHNXBfZDhJSllLQ20tQjlJY0FFamtlOFlxdHJybXgyeFlUTFNZSUVEMDJPczFpc1NGVkJ0UzhNaFM1MFFLRTg3aktYNDhj0gFmQVVfeXFMTXJXU3FGWGltbU5HSXhqQVhvXzE0VkJDM0ZtMXcwSm44LWVCWUxVTE1kbmdvTjQ4SEFGdlEyMmE4Tl9nUFVfYUZNNWplVnVZYWEzY2J5LW5PNFZSNWV6YUxDSExZV19R?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 12:27:00 GMT"
+          "published": "Sun, 16 Aug 2026 16:40:00 GMT"
         }
       ]
     },
     {
-      "word": "유력",
+      "word": "결정",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김민석 연승…민주당 대표 ‘유력’ - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCWnlYVEhXd2x5YXlwdjgxNW1lYkRPNDdFT2tyMzZzbEtTdS1UclhNZkR0cGZvemExNUYwQUlQV1dqc2hiZ2ptek40aGpBV0xLSXlFWnp2UXdPUdIBX0FVX3lxTFBpcTlwM1AyMDFITjVfSTF2NmF1em5QRTNjcnZfRUo2RGpoMmd2a2VnQ1R1eHBBUWN2bmFXWW1EWmk0RFR3Q3VLQkNBMHMzV1JLU0NsNUVWd19MZ0JXWVo0?oc=5",
+          "title": "김민석-정청래 8.4%P差… 오늘 당대표 결정 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBOMTJxd1NHN0o2Q0RXTkFoeVc2X3JxM2c5ZzkwRnBvVFZ2X00ySUhweHRHNXBfZDhJSllLQ20tQjlJY0FFamtlOFlxdHJybXgyeFlUTFNZSUVEMDJPczFpc1NGVkJ0UzhNaFM1MFFLRTg3aktYNDhj0gFmQVVfeXFMTXJXU3FGWGltbU5HSXhqQVhvXzE0VkJDM0ZtMXcwSm44LWVCWUxVTE1kbmdvTjQ4SEFGdlEyMmE4Tl9nUFVfYUZNNWplVnVZYWEzY2J5LW5PNFZSNWV6YUxDSExZV19R?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 12:27:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "경남",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "경남 등 남부 '호우특보'‥오전까지 강한 비 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE13cXdPWmpYV1YwX2dmR2dQTzFFMjZMSFFOcEZ2ZU5BWE5PX2FEcER3NE83TE9ZWTgxaEZMb3JKbEw2el9mbmhmV0dvWldFZTRLeU9EUjZLVUZfTXkzVUt6NWg0bEZ6cE1meDRyaFVxa2ZkMjZBWkpN0gF3QVVfeXFMUFBxRzQxVFVOYXBQVFhFblhNeUlSUENram5VQlRMRDNtUlNQa0tkdXJxZ01acHUyU3NZZnFqbWdoTll5UWVOUml4dWJ0V3d3dU5UR3FYMHRZTUJQUUhFbEY4eGFhOGxlSEZLNkNFNFd0V0FicmtmUVU?oc=5",
-          "source": "Google News",
-          "published": "Sun, 16 Aug 2026 14:57:10 GMT"
+          "published": "Sun, 16 Aug 2026 16:40:00 GMT"
         }
       ]
     },
@@ -277,140 +131,75 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "경남 등 남부 '호우특보'‥오전까지 강한 비 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE13cXdPWmpYV1YwX2dmR2dQTzFFMjZMSFFOcEZ2ZU5BWE5PX2FEcER3NE83TE9ZWTgxaEZMb3JKbEw2el9mbmhmV0dvWldFZTRLeU9EUjZLVUZfTXkzVUt6NWg0bEZ6cE1meDRyaFVxa2ZkMjZBWkpN0gF3QVVfeXFMUFBxRzQxVFVOYXBQVFhFblhNeUlSUENram5VQlRMRDNtUlNQa0tkdXJxZ01acHUyU3NZZnFqbWdoTll5UWVOUml4dWJ0V3d3dU5UR3FYMHRZTUJQUUhFbEY4eGFhOGxlSEZLNkNFNFd0V0FicmtmUVU?oc=5",
+          "title": "남부 호우… 광주·전남·경남에 비 피해 신고 잇따라 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOGVJZWZRYVk3cXJfRE1YaTNNX2phejUyMl8tQk1oUXljM3kwTGI4WGtFb01MVENkZFlrbXZuZmFaWlgwcXpXQms4YTFTRWM1eldhamZVTnM0Y2N3c2lDRjh1Vlc1dTF0ZktMWTZJWjJPSHJHRnIxejd1MURvWTQtbk9mN1JJdw?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 14:57:10 GMT"
+          "published": "Sun, 16 Aug 2026 13:16:58 GMT"
         }
       ]
     },
     {
-      "word": "호우특보오전",
+      "word": "호우",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "경남 등 남부 '호우특보'‥오전까지 강한 비 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE13cXdPWmpYV1YwX2dmR2dQTzFFMjZMSFFOcEZ2ZU5BWE5PX2FEcER3NE83TE9ZWTgxaEZMb3JKbEw2el9mbmhmV0dvWldFZTRLeU9EUjZLVUZfTXkzVUt6NWg0bEZ6cE1meDRyaFVxa2ZkMjZBWkpN0gF3QVVfeXFMUFBxRzQxVFVOYXBQVFhFblhNeUlSUENram5VQlRMRDNtUlNQa0tkdXJxZ01acHUyU3NZZnFqbWdoTll5UWVOUml4dWJ0V3d3dU5UR3FYMHRZTUJQUUhFbEY4eGFhOGxlSEZLNkNFNFd0V0FicmtmUVU?oc=5",
+          "title": "남부 호우… 광주·전남·경남에 비 피해 신고 잇따라 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOGVJZWZRYVk3cXJfRE1YaTNNX2phejUyMl8tQk1oUXljM3kwTGI4WGtFb01MVENkZFlrbXZuZmFaWlgwcXpXQms4YTFTRWM1eldhamZVTnM0Y2N3c2lDRjh1Vlc1dTF0ZktMWTZJWjJPSHJHRnIxejd1MURvWTQtbk9mN1JJdw?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 14:57:10 GMT"
+          "published": "Sun, 16 Aug 2026 13:16:58 GMT"
         }
       ]
     },
     {
-      "word": "강한",
+      "word": "광주전남경남",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "경남 등 남부 '호우특보'‥오전까지 강한 비 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE13cXdPWmpYV1YwX2dmR2dQTzFFMjZMSFFOcEZ2ZU5BWE5PX2FEcER3NE83TE9ZWTgxaEZMb3JKbEw2el9mbmhmV0dvWldFZTRLeU9EUjZLVUZfTXkzVUt6NWg0bEZ6cE1meDRyaFVxa2ZkMjZBWkpN0gF3QVVfeXFMUFBxRzQxVFVOYXBQVFhFblhNeUlSUENram5VQlRMRDNtUlNQa0tkdXJxZ01acHUyU3NZZnFqbWdoTll5UWVOUml4dWJ0V3d3dU5UR3FYMHRZTUJQUUhFbEY4eGFhOGxlSEZLNkNFNFd0V0FicmtmUVU?oc=5",
+          "title": "남부 호우… 광주·전남·경남에 비 피해 신고 잇따라 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOGVJZWZRYVk3cXJfRE1YaTNNX2phejUyMl8tQk1oUXljM3kwTGI4WGtFb01MVENkZFlrbXZuZmFaWlgwcXpXQms4YTFTRWM1eldhamZVTnM0Y2N3c2lDRjh1Vlc1dTF0ZktMWTZJWjJPSHJHRnIxejd1MURvWTQtbk9mN1JJdw?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 14:57:10 GMT"
+          "published": "Sun, 16 Aug 2026 13:16:58 GMT"
         }
       ]
     },
     {
-      "word": "띄운",
+      "word": "피해",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "대통령이 띄운 ‘권력구조 개헌’…국힘 반발에 실현 불투명 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLYk83cy1RVDJDamUwcFdPUVkxUjZkaWdtUUIwMDFDWEFzSlhWajg1OXJSR2NfR0VFcld2NU94ZXFzNHN4clltU1Z6NkdfLVNKMnk2TjYzN05VWkJGclQwak9sZUR1QjAyQkNJ?oc=5",
+          "title": "남부 호우… 광주·전남·경남에 비 피해 신고 잇따라 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOGVJZWZRYVk3cXJfRE1YaTNNX2phejUyMl8tQk1oUXljM3kwTGI4WGtFb01MVENkZFlrbXZuZmFaWlgwcXpXQms4YTFTRWM1eldhamZVTnM0Y2N3c2lDRjh1Vlc1dTF0ZktMWTZJWjJPSHJHRnIxejd1MURvWTQtbk9mN1JJdw?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 13:09:00 GMT"
+          "published": "Sun, 16 Aug 2026 13:16:58 GMT"
         }
       ]
     },
     {
-      "word": "권력구조",
+      "word": "신고",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "대통령이 띄운 ‘권력구조 개헌’…국힘 반발에 실현 불투명 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLYk83cy1RVDJDamUwcFdPUVkxUjZkaWdtUUIwMDFDWEFzSlhWajg1OXJSR2NfR0VFcld2NU94ZXFzNHN4clltU1Z6NkdfLVNKMnk2TjYzN05VWkJGclQwak9sZUR1QjAyQkNJ?oc=5",
+          "title": "남부 호우… 광주·전남·경남에 비 피해 신고 잇따라 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOGVJZWZRYVk3cXJfRE1YaTNNX2phejUyMl8tQk1oUXljM3kwTGI4WGtFb01MVENkZFlrbXZuZmFaWlgwcXpXQms4YTFTRWM1eldhamZVTnM0Y2N3c2lDRjh1Vlc1dTF0ZktMWTZJWjJPSHJHRnIxejd1MURvWTQtbk9mN1JJdw?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 13:09:00 GMT"
+          "published": "Sun, 16 Aug 2026 13:16:58 GMT"
         }
       ]
     },
     {
-      "word": "개헌국힘",
+      "word": "잇따",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "대통령이 띄운 ‘권력구조 개헌’…국힘 반발에 실현 불투명 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLYk83cy1RVDJDamUwcFdPUVkxUjZkaWdtUUIwMDFDWEFzSlhWajg1OXJSR2NfR0VFcld2NU94ZXFzNHN4clltU1Z6NkdfLVNKMnk2TjYzN05VWkJGclQwak9sZUR1QjAyQkNJ?oc=5",
+          "title": "남부 호우… 광주·전남·경남에 비 피해 신고 잇따라 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOGVJZWZRYVk3cXJfRE1YaTNNX2phejUyMl8tQk1oUXljM3kwTGI4WGtFb01MVENkZFlrbXZuZmFaWlgwcXpXQms4YTFTRWM1eldhamZVTnM0Y2N3c2lDRjh1Vlc1dTF0ZktMWTZJWjJPSHJHRnIxejd1MURvWTQtbk9mN1JJdw?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 13:09:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "반발",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "대통령이 띄운 ‘권력구조 개헌’…국힘 반발에 실현 불투명 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLYk83cy1RVDJDamUwcFdPUVkxUjZkaWdtUUIwMDFDWEFzSlhWajg1OXJSR2NfR0VFcld2NU94ZXFzNHN4clltU1Z6NkdfLVNKMnk2TjYzN05VWkJGclQwak9sZUR1QjAyQkNJ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 16 Aug 2026 13:09:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "실현",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "대통령이 띄운 ‘권력구조 개헌’…국힘 반발에 실현 불투명 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLYk83cy1RVDJDamUwcFdPUVkxUjZkaWdtUUIwMDFDWEFzSlhWajg1OXJSR2NfR0VFcld2NU94ZXFzNHN4clltU1Z6NkdfLVNKMnk2TjYzN05VWkJGclQwak9sZUR1QjAyQkNJ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 16 Aug 2026 13:09:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "불투명",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "대통령이 띄운 ‘권력구조 개헌’…국힘 반발에 실현 불투명 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLYk83cy1RVDJDamUwcFdPUVkxUjZkaWdtUUIwMDFDWEFzSlhWajg1OXJSR2NfR0VFcld2NU94ZXFzNHN4clltU1Z6NkdfLVNKMnk2TjYzN05VWkJGclQwak9sZUR1QjAyQkNJ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 16 Aug 2026 13:09:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "당선권",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "당선권 밖 ‘친명’ 임미애·김영호 사퇴 “김용 최고위원 만들어 달라” - chosun.com",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR1hSR0hBMXVBQzV0Y0pDYy02Mkd0YVFoM2lpRWNxa0dEYi1GVkdOVXJvOEJJandLNkZqZFpYX2NreTV1QXVSbVRaZVdySndhSHBDNk5XWDRsQU9MT19qYXJYY2ZiTGZzYXVWY1QxajJiMEtKRFF6cEtyaXo0MlV6TlhvSWJqZw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 16 Aug 2026 12:12:32 GMT"
-        }
-      ]
-    },
-    {
-      "word": "친명",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "당선권 밖 ‘친명’ 임미애·김영호 사퇴 “김용 최고위원 만들어 달라” - chosun.com",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR1hSR0hBMXVBQzV0Y0pDYy02Mkd0YVFoM2lpRWNxa0dEYi1GVkdOVXJvOEJJandLNkZqZFpYX2NreTV1QXVSbVRaZVdySndhSHBDNk5XWDRsQU9MT19qYXJYY2ZiTGZzYXVWY1QxajJiMEtKRFF6cEtyaXo0MlV6TlhvSWJqZw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 16 Aug 2026 12:12:32 GMT"
+          "published": "Sun, 16 Aug 2026 13:16:58 GMT"
         }
       ]
     },
@@ -420,36 +209,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "당선권 밖 ‘친명’ 임미애·김영호 사퇴 “김용 최고위원 만들어 달라” - chosun.com",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR1hSR0hBMXVBQzV0Y0pDYy02Mkd0YVFoM2lpRWNxa0dEYi1GVkdOVXJvOEJJandLNkZqZFpYX2NreTV1QXVSbVRaZVdySndhSHBDNk5XWDRsQU9MT19qYXJYY2ZiTGZzYXVWY1QxajJiMEtKRFF6cEtyaXo0MlV6TlhvSWJqZw?oc=5",
+          "title": "임미애·김영호, 與최고위원 후보 사퇴...\"김용에 한 표 모아달라\" - KBC광주방송",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IOHdDd2habnA5RmRkdnZGczkzYTNMVTVRZGQwdkZBMnZpU0FrWjQ2TkZxczJuSGU3QXFLemVRR3VocjExWUZrYWYzM3l3SUl0a0FxbmVUTy1fX0JFWFhhdmVn?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 12:12:32 GMT"
-        }
-      ]
-    },
-    {
-      "word": "사퇴",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "당선권 밖 ‘친명’ 임미애·김영호 사퇴 “김용 최고위원 만들어 달라” - chosun.com",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR1hSR0hBMXVBQzV0Y0pDYy02Mkd0YVFoM2lpRWNxa0dEYi1GVkdOVXJvOEJJandLNkZqZFpYX2NreTV1QXVSbVRaZVdySndhSHBDNk5XWDRsQU9MT19qYXJYY2ZiTGZzYXVWY1QxajJiMEtKRFF6cEtyaXo0MlV6TlhvSWJqZw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 16 Aug 2026 12:12:32 GMT"
-        }
-      ]
-    },
-    {
-      "word": "김용",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "당선권 밖 ‘친명’ 임미애·김영호 사퇴 “김용 최고위원 만들어 달라” - chosun.com",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR1hSR0hBMXVBQzV0Y0pDYy02Mkd0YVFoM2lpRWNxa0dEYi1GVkdOVXJvOEJJandLNkZqZFpYX2NreTV1QXVSbVRaZVdySndhSHBDNk5XWDRsQU9MT19qYXJYY2ZiTGZzYXVWY1QxajJiMEtKRFF6cEtyaXo0MlV6TlhvSWJqZw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 16 Aug 2026 12:12:32 GMT"
+          "published": "Sun, 16 Aug 2026 12:30:24 GMT"
         }
       ]
     },
@@ -459,127 +222,322 @@
       "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "당선권 밖 ‘친명’ 임미애·김영호 사퇴 “김용 최고위원 만들어 달라” - chosun.com",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR1hSR0hBMXVBQzV0Y0pDYy02Mkd0YVFoM2lpRWNxa0dEYi1GVkdOVXJvOEJJandLNkZqZFpYX2NreTV1QXVSbVRaZVdySndhSHBDNk5XWDRsQU9MT19qYXJYY2ZiTGZzYXVWY1QxajJiMEtKRFF6cEtyaXo0MlV6TlhvSWJqZw?oc=5",
+          "title": "임미애·김영호, 與최고위원 후보 사퇴...\"김용에 한 표 모아달라\" - KBC광주방송",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IOHdDd2habnA5RmRkdnZGczkzYTNMVTVRZGQwdkZBMnZpU0FrWjQ2TkZxczJuSGU3QXFLemVRR3VocjExWUZrYWYzM3l3SUl0a0FxbmVUTy1fX0JFWFhhdmVn?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 12:12:32 GMT"
+          "published": "Sun, 16 Aug 2026 12:30:24 GMT"
         }
       ]
     },
     {
-      "word": "만들어",
+      "word": "사퇴김용",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "당선권 밖 ‘친명’ 임미애·김영호 사퇴 “김용 최고위원 만들어 달라” - chosun.com",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR1hSR0hBMXVBQzV0Y0pDYy02Mkd0YVFoM2lpRWNxa0dEYi1GVkdOVXJvOEJJandLNkZqZFpYX2NreTV1QXVSbVRaZVdySndhSHBDNk5XWDRsQU9MT19qYXJYY2ZiTGZzYXVWY1QxajJiMEtKRFF6cEtyaXo0MlV6TlhvSWJqZw?oc=5",
+          "title": "임미애·김영호, 與최고위원 후보 사퇴...\"김용에 한 표 모아달라\" - KBC광주방송",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IOHdDd2habnA5RmRkdnZGczkzYTNMVTVRZGQwdkZBMnZpU0FrWjQ2TkZxczJuSGU3QXFLemVRR3VocjExWUZrYWYzM3l3SUl0a0FxbmVUTy1fX0JFWFhhdmVn?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 12:12:32 GMT"
+          "published": "Sun, 16 Aug 2026 12:30:24 GMT"
         }
       ]
     },
     {
-      "word": "달라",
+      "word": "모아달",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "당선권 밖 ‘친명’ 임미애·김영호 사퇴 “김용 최고위원 만들어 달라” - chosun.com",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR1hSR0hBMXVBQzV0Y0pDYy02Mkd0YVFoM2lpRWNxa0dEYi1GVkdOVXJvOEJJandLNkZqZFpYX2NreTV1QXVSbVRaZVdySndhSHBDNk5XWDRsQU9MT19qYXJYY2ZiTGZzYXVWY1QxajJiMEtKRFF6cEtyaXo0MlV6TlhvSWJqZw?oc=5",
+          "title": "임미애·김영호, 與최고위원 후보 사퇴...\"김용에 한 표 모아달라\" - KBC광주방송",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IOHdDd2habnA5RmRkdnZGczkzYTNMVTVRZGQwdkZBMnZpU0FrWjQ2TkZxczJuSGU3QXFLemVRR3VocjExWUZrYWYzM3l3SUl0a0FxbmVUTy1fX0JFWFhhdmVn?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 12:12:32 GMT"
+          "published": "Sun, 16 Aug 2026 12:30:24 GMT"
         }
       ]
     },
     {
-      "word": "친일파",
+      "word": "국힘",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘친일파 증조부’ 하영 논란에 ‘2기 친일재산환수위’ 관심···정성호 “최소 325억원 환수 예상” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jX04yRkRWMUFqRkY3Q2pqMTVUN29rcmFOeHdfVGktZENOZmdDWVB1T1VsQWtPWTVuQlRlQkFpNkZvdU9XYnV3Y0lRdHZVT3lQaE9rSXZRRFltQdIBX0FVX3lxTE4xN1J6SnY2XzAwckFPOE9ZRkRMNEdxQW5yRm0zLWo5VE1FZEk5ZEJRQVY1NjVhQWlmLUZFTHF5bVlwSTBoSGRCR29EaHJsaXJYSllYV1NsNVdjM2JjOFZV?oc=5",
+          "title": "국힘 김태호 “이 대통령 ‘연임 안 한다’ 밝히면 야당도 개헌논의 동참해야” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2Y1ctOWVIZ3FRWmdNN2hWU2ZITE5iY0JTTnBnVkNzaFowMW5VNl92ekgtRTQ0bEZ4QlRaVkZuT1E1VnpMSDhyRE81eVo1Y2tEM0QyYkRMa3F1c0x1NzkyZm1DalRmT3VoNmZ0eElsejE5d2Rt?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 06:34:00 GMT"
+          "published": "Sun, 16 Aug 2026 08:47:00 GMT"
         }
       ]
     },
     {
-      "word": "2기",
+      "word": "김태호",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘친일파 증조부’ 하영 논란에 ‘2기 친일재산환수위’ 관심···정성호 “최소 325억원 환수 예상” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jX04yRkRWMUFqRkY3Q2pqMTVUN29rcmFOeHdfVGktZENOZmdDWVB1T1VsQWtPWTVuQlRlQkFpNkZvdU9XYnV3Y0lRdHZVT3lQaE9rSXZRRFltQdIBX0FVX3lxTE4xN1J6SnY2XzAwckFPOE9ZRkRMNEdxQW5yRm0zLWo5VE1FZEk5ZEJRQVY1NjVhQWlmLUZFTHF5bVlwSTBoSGRCR29EaHJsaXJYSllYV1NsNVdjM2JjOFZV?oc=5",
+          "title": "국힘 김태호 “이 대통령 ‘연임 안 한다’ 밝히면 야당도 개헌논의 동참해야” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2Y1ctOWVIZ3FRWmdNN2hWU2ZITE5iY0JTTnBnVkNzaFowMW5VNl92ekgtRTQ0bEZ4QlRaVkZuT1E1VnpMSDhyRE81eVo1Y2tEM0QyYkRMa3F1c0x1NzkyZm1DalRmT3VoNmZ0eElsejE5d2Rt?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 06:34:00 GMT"
+          "published": "Sun, 16 Aug 2026 08:47:00 GMT"
         }
       ]
     },
     {
-      "word": "친일재산환수위",
+      "word": "대통령",
+      "count": 1,
+      "category": "PERSON",
+      "articles": [
+        {
+          "title": "국힘 김태호 “이 대통령 ‘연임 안 한다’ 밝히면 야당도 개헌논의 동참해야” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2Y1ctOWVIZ3FRWmdNN2hWU2ZITE5iY0JTTnBnVkNzaFowMW5VNl92ekgtRTQ0bEZ4QlRaVkZuT1E1VnpMSDhyRE81eVo1Y2tEM0QyYkRMa3F1c0x1NzkyZm1DalRmT3VoNmZ0eElsejE5d2Rt?oc=5",
+          "source": "Google News",
+          "published": "Sun, 16 Aug 2026 08:47:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "한다",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘친일파 증조부’ 하영 논란에 ‘2기 친일재산환수위’ 관심···정성호 “최소 325억원 환수 예상” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jX04yRkRWMUFqRkY3Q2pqMTVUN29rcmFOeHdfVGktZENOZmdDWVB1T1VsQWtPWTVuQlRlQkFpNkZvdU9XYnV3Y0lRdHZVT3lQaE9rSXZRRFltQdIBX0FVX3lxTE4xN1J6SnY2XzAwckFPOE9ZRkRMNEdxQW5yRm0zLWo5VE1FZEk5ZEJRQVY1NjVhQWlmLUZFTHF5bVlwSTBoSGRCR29EaHJsaXJYSllYV1NsNVdjM2JjOFZV?oc=5",
+          "title": "국힘 김태호 “이 대통령 ‘연임 안 한다’ 밝히면 야당도 개헌논의 동참해야” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2Y1ctOWVIZ3FRWmdNN2hWU2ZITE5iY0JTTnBnVkNzaFowMW5VNl92ekgtRTQ0bEZ4QlRaVkZuT1E1VnpMSDhyRE81eVo1Y2tEM0QyYkRMa3F1c0x1NzkyZm1DalRmT3VoNmZ0eElsejE5d2Rt?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 06:34:00 GMT"
+          "published": "Sun, 16 Aug 2026 08:47:00 GMT"
         }
       ]
     },
     {
-      "word": "관심정성호",
+      "word": "밝히면",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘친일파 증조부’ 하영 논란에 ‘2기 친일재산환수위’ 관심···정성호 “최소 325억원 환수 예상” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jX04yRkRWMUFqRkY3Q2pqMTVUN29rcmFOeHdfVGktZENOZmdDWVB1T1VsQWtPWTVuQlRlQkFpNkZvdU9XYnV3Y0lRdHZVT3lQaE9rSXZRRFltQdIBX0FVX3lxTE4xN1J6SnY2XzAwckFPOE9ZRkRMNEdxQW5yRm0zLWo5VE1FZEk5ZEJRQVY1NjVhQWlmLUZFTHF5bVlwSTBoSGRCR29EaHJsaXJYSllYV1NsNVdjM2JjOFZV?oc=5",
+          "title": "국힘 김태호 “이 대통령 ‘연임 안 한다’ 밝히면 야당도 개헌논의 동참해야” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2Y1ctOWVIZ3FRWmdNN2hWU2ZITE5iY0JTTnBnVkNzaFowMW5VNl92ekgtRTQ0bEZ4QlRaVkZuT1E1VnpMSDhyRE81eVo1Y2tEM0QyYkRMa3F1c0x1NzkyZm1DalRmT3VoNmZ0eElsejE5d2Rt?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 06:34:00 GMT"
+          "published": "Sun, 16 Aug 2026 08:47:00 GMT"
         }
       ]
     },
     {
-      "word": "325억원",
+      "word": "야당",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "국힘 김태호 “이 대통령 ‘연임 안 한다’ 밝히면 야당도 개헌논의 동참해야” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2Y1ctOWVIZ3FRWmdNN2hWU2ZITE5iY0JTTnBnVkNzaFowMW5VNl92ekgtRTQ0bEZ4QlRaVkZuT1E1VnpMSDhyRE81eVo1Y2tEM0QyYkRMa3F1c0x1NzkyZm1DalRmT3VoNmZ0eElsejE5d2Rt?oc=5",
+          "source": "Google News",
+          "published": "Sun, 16 Aug 2026 08:47:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "개헌논",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "국힘 김태호 “이 대통령 ‘연임 안 한다’ 밝히면 야당도 개헌논의 동참해야” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2Y1ctOWVIZ3FRWmdNN2hWU2ZITE5iY0JTTnBnVkNzaFowMW5VNl92ekgtRTQ0bEZ4QlRaVkZuT1E1VnpMSDhyRE81eVo1Y2tEM0QyYkRMa3F1c0x1NzkyZm1DalRmT3VoNmZ0eElsejE5d2Rt?oc=5",
+          "source": "Google News",
+          "published": "Sun, 16 Aug 2026 08:47:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "동참해야",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "국힘 김태호 “이 대통령 ‘연임 안 한다’ 밝히면 야당도 개헌논의 동참해야” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2Y1ctOWVIZ3FRWmdNN2hWU2ZITE5iY0JTTnBnVkNzaFowMW5VNl92ekgtRTQ0bEZ4QlRaVkZuT1E1VnpMSDhyRE81eVo1Y2tEM0QyYkRMa3F1c0x1NzkyZm1DalRmT3VoNmZ0eElsejE5d2Rt?oc=5",
+          "source": "Google News",
+          "published": "Sun, 16 Aug 2026 08:47:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "최민희",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "최민희 ‘수석최고’ 선두 탈환…‘팀정청래’ 후보 모두 최고위 입성하나 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BUU93RnUzU0tNdjNmSDBWSVlwTC1EWHBZVnJxMUVWcncyTVlULXhwQ0xYVUVLTExqcnYzOXEyaGxpNF80VkQ5NGx6SWEyWEFkVU50SnlRRW9VZ9IBX0FVX3lxTFBQNkcwcmt3VzRkQjVGTllBUk8ya0JSZXZUQnlBcTRJSEtUV0VPd09kNVZ6RG80dUxWMW85bzUxeUZCVV9ZUkJBbXRFd1E2cnFaRXJUZ1RxMXlLbm1rQTQ4?oc=5",
+          "source": "Google News",
+          "published": "Sun, 16 Aug 2026 10:20:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "수석최",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "최민희 ‘수석최고’ 선두 탈환…‘팀정청래’ 후보 모두 최고위 입성하나 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BUU93RnUzU0tNdjNmSDBWSVlwTC1EWHBZVnJxMUVWcncyTVlULXhwQ0xYVUVLTExqcnYzOXEyaGxpNF80VkQ5NGx6SWEyWEFkVU50SnlRRW9VZ9IBX0FVX3lxTFBQNkcwcmt3VzRkQjVGTllBUk8ya0JSZXZUQnlBcTRJSEtUV0VPd09kNVZ6RG80dUxWMW85bzUxeUZCVV9ZUkJBbXRFd1E2cnFaRXJUZ1RxMXlLbm1rQTQ4?oc=5",
+          "source": "Google News",
+          "published": "Sun, 16 Aug 2026 10:20:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "선두",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "최민희 ‘수석최고’ 선두 탈환…‘팀정청래’ 후보 모두 최고위 입성하나 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BUU93RnUzU0tNdjNmSDBWSVlwTC1EWHBZVnJxMUVWcncyTVlULXhwQ0xYVUVLTExqcnYzOXEyaGxpNF80VkQ5NGx6SWEyWEFkVU50SnlRRW9VZ9IBX0FVX3lxTFBQNkcwcmt3VzRkQjVGTllBUk8ya0JSZXZUQnlBcTRJSEtUV0VPd09kNVZ6RG80dUxWMW85bzUxeUZCVV9ZUkJBbXRFd1E2cnFaRXJUZ1RxMXlLbm1rQTQ4?oc=5",
+          "source": "Google News",
+          "published": "Sun, 16 Aug 2026 10:20:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "탈환팀정청래",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "최민희 ‘수석최고’ 선두 탈환…‘팀정청래’ 후보 모두 최고위 입성하나 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BUU93RnUzU0tNdjNmSDBWSVlwTC1EWHBZVnJxMUVWcncyTVlULXhwQ0xYVUVLTExqcnYzOXEyaGxpNF80VkQ5NGx6SWEyWEFkVU50SnlRRW9VZ9IBX0FVX3lxTFBQNkcwcmt3VzRkQjVGTllBUk8ya0JSZXZUQnlBcTRJSEtUV0VPd09kNVZ6RG80dUxWMW85bzUxeUZCVV9ZUkJBbXRFd1E2cnFaRXJUZ1RxMXlLbm1rQTQ4?oc=5",
+          "source": "Google News",
+          "published": "Sun, 16 Aug 2026 10:20:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "모두",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "최민희 ‘수석최고’ 선두 탈환…‘팀정청래’ 후보 모두 최고위 입성하나 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BUU93RnUzU0tNdjNmSDBWSVlwTC1EWHBZVnJxMUVWcncyTVlULXhwQ0xYVUVLTExqcnYzOXEyaGxpNF80VkQ5NGx6SWEyWEFkVU50SnlRRW9VZ9IBX0FVX3lxTFBQNkcwcmt3VzRkQjVGTllBUk8ya0JSZXZUQnlBcTRJSEtUV0VPd09kNVZ6RG80dUxWMW85bzUxeUZCVV9ZUkJBbXRFd1E2cnFaRXJUZ1RxMXlLbm1rQTQ4?oc=5",
+          "source": "Google News",
+          "published": "Sun, 16 Aug 2026 10:20:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "최고위",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "최민희 ‘수석최고’ 선두 탈환…‘팀정청래’ 후보 모두 최고위 입성하나 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BUU93RnUzU0tNdjNmSDBWSVlwTC1EWHBZVnJxMUVWcncyTVlULXhwQ0xYVUVLTExqcnYzOXEyaGxpNF80VkQ5NGx6SWEyWEFkVU50SnlRRW9VZ9IBX0FVX3lxTFBQNkcwcmt3VzRkQjVGTllBUk8ya0JSZXZUQnlBcTRJSEtUV0VPd09kNVZ6RG80dUxWMW85bzUxeUZCVV9ZUkJBbXRFd1E2cnFaRXJUZ1RxMXlLbm1rQTQ4?oc=5",
+          "source": "Google News",
+          "published": "Sun, 16 Aug 2026 10:20:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "입성",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "최민희 ‘수석최고’ 선두 탈환…‘팀정청래’ 후보 모두 최고위 입성하나 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BUU93RnUzU0tNdjNmSDBWSVlwTC1EWHBZVnJxMUVWcncyTVlULXhwQ0xYVUVLTExqcnYzOXEyaGxpNF80VkQ5NGx6SWEyWEFkVU50SnlRRW9VZ9IBX0FVX3lxTFBQNkcwcmt3VzRkQjVGTllBUk8ya0JSZXZUQnlBcTRJSEtUV0VPd09kNVZ6RG80dUxWMW85bzUxeUZCVV9ZUkJBbXRFd1E2cnFaRXJUZ1RxMXlLbm1rQTQ4?oc=5",
+          "source": "Google News",
+          "published": "Sun, 16 Aug 2026 10:20:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "9440억원",
       "count": 1,
       "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "‘친일파 증조부’ 하영 논란에 ‘2기 친일재산환수위’ 관심···정성호 “최소 325억원 환수 예상” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jX04yRkRWMUFqRkY3Q2pqMTVUN29rcmFOeHdfVGktZENOZmdDWVB1T1VsQWtPWTVuQlRlQkFpNkZvdU9XYnV3Y0lRdHZVT3lQaE9rSXZRRFltQdIBX0FVX3lxTE4xN1J6SnY2XzAwckFPOE9ZRkRMNEdxQW5yRm0zLWo5VE1FZEk5ZEJRQVY1NjVhQWlmLUZFTHF5bVlwSTBoSGRCR29EaHJsaXJYSllYV1NsNVdjM2JjOFZV?oc=5",
+          "title": "“9440억원 재산분할 일부 주식으로”…최태원에 노소영 “현금만” - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmMWdYSUkxTkNLNmRUQ3V5a2xpSzVwWE1fSXgwaVN6R0dYcTlyUlI2YTh2TDQxcjdGV2oyVkdCckRBQWVVVHR4S3hJRVlwZ1hlZWE0UQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 06:34:00 GMT"
+          "published": "Sun, 16 Aug 2026 05:40:09 GMT"
         }
       ]
     },
     {
-      "word": "환수",
+      "word": "재산분",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘친일파 증조부’ 하영 논란에 ‘2기 친일재산환수위’ 관심···정성호 “최소 325억원 환수 예상” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jX04yRkRWMUFqRkY3Q2pqMTVUN29rcmFOeHdfVGktZENOZmdDWVB1T1VsQWtPWTVuQlRlQkFpNkZvdU9XYnV3Y0lRdHZVT3lQaE9rSXZRRFltQdIBX0FVX3lxTE4xN1J6SnY2XzAwckFPOE9ZRkRMNEdxQW5yRm0zLWo5VE1FZEk5ZEJRQVY1NjVhQWlmLUZFTHF5bVlwSTBoSGRCR29EaHJsaXJYSllYV1NsNVdjM2JjOFZV?oc=5",
+          "title": "“9440억원 재산분할 일부 주식으로”…최태원에 노소영 “현금만” - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmMWdYSUkxTkNLNmRUQ3V5a2xpSzVwWE1fSXgwaVN6R0dYcTlyUlI2YTh2TDQxcjdGV2oyVkdCckRBQWVVVHR4S3hJRVlwZ1hlZWE0UQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 06:34:00 GMT"
+          "published": "Sun, 16 Aug 2026 05:40:09 GMT"
         }
       ]
     },
     {
-      "word": "예상",
+      "word": "주식으로최태원",
+      "count": 1,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "“9440억원 재산분할 일부 주식으로”…최태원에 노소영 “현금만” - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmMWdYSUkxTkNLNmRUQ3V5a2xpSzVwWE1fSXgwaVN6R0dYcTlyUlI2YTh2TDQxcjdGV2oyVkdCckRBQWVVVHR4S3hJRVlwZ1hlZWE0UQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 16 Aug 2026 05:40:09 GMT"
+        }
+      ]
+    },
+    {
+      "word": "노소영",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘친일파 증조부’ 하영 논란에 ‘2기 친일재산환수위’ 관심···정성호 “최소 325억원 환수 예상” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jX04yRkRWMUFqRkY3Q2pqMTVUN29rcmFOeHdfVGktZENOZmdDWVB1T1VsQWtPWTVuQlRlQkFpNkZvdU9XYnV3Y0lRdHZVT3lQaE9rSXZRRFltQdIBX0FVX3lxTE4xN1J6SnY2XzAwckFPOE9ZRkRMNEdxQW5yRm0zLWo5VE1FZEk5ZEJRQVY1NjVhQWlmLUZFTHF5bVlwSTBoSGRCR29EaHJsaXJYSllYV1NsNVdjM2JjOFZV?oc=5",
+          "title": "“9440억원 재산분할 일부 주식으로”…최태원에 노소영 “현금만” - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmMWdYSUkxTkNLNmRUQ3V5a2xpSzVwWE1fSXgwaVN6R0dYcTlyUlI2YTh2TDQxcjdGV2oyVkdCckRBQWVVVHR4S3hJRVlwZ1hlZWE0UQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 06:34:00 GMT"
+          "published": "Sun, 16 Aug 2026 05:40:09 GMT"
+        }
+      ]
+    },
+    {
+      "word": "현금",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "“9440억원 재산분할 일부 주식으로”…최태원에 노소영 “현금만” - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmMWdYSUkxTkNLNmRUQ3V5a2xpSzVwWE1fSXgwaVN6R0dYcTlyUlI2YTh2TDQxcjdGV2oyVkdCckRBQWVVVHR4S3hJRVlwZ1hlZWE0UQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 16 Aug 2026 05:40:09 GMT"
+        }
+      ]
+    },
+    {
+      "word": "중년",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "\"중년 남성이 밀쳤다\"…최민희, 합동연설회 입장 중 넘어져 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wQ2dNeHJBcHFyTXFWS05HVVdRNnhxSU1xdUVmUTEyZ3E0RUtCcUU1Mlh3OV95cEt4alFBMUlNdklJRE55V1RRN2YxV2JMOXBlc1ZoWGVBeVFTZw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 16 Aug 2026 09:01:44 GMT"
+        }
+      ]
+    },
+    {
+      "word": "남성",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "\"중년 남성이 밀쳤다\"…최민희, 합동연설회 입장 중 넘어져 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wQ2dNeHJBcHFyTXFWS05HVVdRNnhxSU1xdUVmUTEyZ3E0RUtCcUU1Mlh3OV95cEt4alFBMUlNdklJRE55V1RRN2YxV2JMOXBlc1ZoWGVBeVFTZw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 16 Aug 2026 09:01:44 GMT"
         }
       ]
     }
