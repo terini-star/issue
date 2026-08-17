@@ -1,50 +1,126 @@
 {
   "language": "ko",
-  "last_updated": 1786922788.772234,
+  "last_updated": 1786931093.2848217,
   "count": 40,
   "trends": [
+    {
+      "word": "등장",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "같은 회사 21번 들락날락…실업급여 '1억' 받은 직장인 등장 [곽용희의 일자리노트] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QU2ZxWnJLZmZ2eHhpRERsaU9qd085S3E5dFBDSjhmMnp3blA3dmZ3NUU4R0dIWW12SG9vRFZIeFotSXRUdXlWS1hnQ0FUeHNvQVNpc2lRLWIxQQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 16 Aug 2026 21:00:05 GMT"
+        },
+        {
+          "title": "\"내 조상 중에 친일파 있을까\"…하영 증조부 논란에 '판별 사이트' 등장 - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtcm92VGdzLWVNUG9DZ090NDlBcDVRWVVCc2J6RmxQbWRiT2k4MGFLQzZyMDBYREJGVmNMRTlxRWZRR3RFNkNKQlRONEtxSjI3bG5uYlBMV2NOeUdoOXJFNzdB0gFnQVVfeXFMUHJfRVlhMmZVSmtFUkE4azNYRmpDVUlFZjk1YlhSU3RKR0NsRzhjY2g0aXdtY2tJNXRIMVhVQ0tSXzFTRDhLaW5LcGxqbS16Q2hvQnpXaGNRSXJYR2kyQjdaTEgtZlFfUQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 16 Aug 2026 20:25:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "연속",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령 지지율 43.0%, 취임 후 최저…5주 연속 하락[리얼미터] - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPamt0ZWtOSVNKa2VqaHdpeVlxRDFnRGNfTzhxYWpMTlNTRVFnWUhHc0tteklfa3pTRlpFYVZSbDlWLXgzcjJpZDg3d3dYYndTTlUzdzcwOWgwUdIBX0FVX3lxTE5uRmNvNEowQ3U2YmkxMHdUaWpKNmRsb2gxcUdjYi1wQ1lMalFjcktRY1lyclN2NU1Ta3VJSDVqVEZfeFIyc3ZkTEYyWTcxeXBDY3A4blV0NzNpTUdzb2Fv?oc=5",
+          "source": "Google News",
+          "published": "Mon, 17 Aug 2026 00:38:00 GMT"
+        },
+        {
+          "title": "이정후 2경기 연속 안타·타율 0.292...김하성은 벤치 - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKMUloOVh1b1ZYOFhOZVp5cy1oSjBlaUdwZzBNWWgzd1Jwd1lkTXI3XzMyUEthVmxPV1poa3BTbFZTQWtlaGs5OE4wcm9Gcmpkb0wtQXdlWWpGV1ZBTWc?oc=5",
+          "source": "Google News",
+          "published": "Mon, 17 Aug 2026 00:40:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "넘어",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "부산·경남 폭우로 주민 130여 명 대피‥피해 신고 600건 넘어 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUdGxkVG9YM0M0amRURktURXd1c3RiTm01WG1wT2pTSUl0Q3hWTjg5a0VYRUY3ZVBUWmVyLUlNdlFmZ0VOSWRhSjVxLUFRWUtMa3Y5V0J2ZGhOVkc4eXNlTkU1UHpZZm96QkJLck9DYjZVb0c1WWJj0gF3QVVfeXFMT2NhcmdwLU0yNXNCeDJaN3hZSXQ0eE5rZHNDdWgtZHc2N3IzYnFkRC1Gdm1fLUhhQ09UVUllLTR6MlJzbGI5MDBDVDhsRjVwVU1FaE0yMjdMSDcwdXQwMHFPX0syaW81SHJXRC1pcnc4NVltVW1udTQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 17 Aug 2026 01:18:01 GMT"
+        },
+        {
+          "title": "K뷰티의 진화… 제품 넘어 AI기반 피부관리에 美소비자 열광 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PR1ZRT3NybFVlWEFnQnNuMVVyNXN6MHo1MnB0N3lSaWVYQWN2SDg5Z3N1dTFTQWJYbHRpc1htcWkzbDB4RDFFSnlWaXBfTDFFY3dHb19kNHY0M0I4SkdUVlRJemE3VVRsaXFvTTNFRFk3YWczbFHSAWZBVV95cUxOcGh0ZFpETXAzcjMtcjdNOWtMVFQwTXBUVkpadjI1OFVKM2taTG5fNmllLVp6RUtoU1cxYjFEM0RZUHAwTV9QSVRwZDBKNWQ5cmtOLW9LdkdpamNGTDZtc055SmRqdmc?oc=5",
+          "source": "Google News",
+          "published": "Sun, 16 Aug 2026 16:40:00 GMT"
+        }
+      ]
+    },
     {
       "word": "논란",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "美중부사령관, 장기파병 투신시도 논란 '링컨함' 전격 방문 - 노컷뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42ZzlCQ2xHc09yT1dJR1daNWtBY3JwQXNKMUFTazlYRE5mVmtiNmtBa2syb0Ixa0Y4QkVRWHlJZy1BVk1ZTHd4YWtXT0w3RDk3VFE?oc=5",
+          "title": "미 중부사령관, 'USS 링컨호 정신건강 문제' 인정…장기 중동 배치 논란 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mVDk0QzZHZ0Z5SEVIRWkyUlVyQnRZMUwzNldVMmxzQW9BakNkamRTLTBaSGlMVlpyVnc1TTktdGM4RUdyWm90bGQyaEpvT3FDbUMxdk9ueENDRmlE?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 21:30:00 GMT"
+          "published": "Sun, 16 Aug 2026 20:32:00 GMT"
         },
         {
-          "title": "하영 증조부 논란에 '친일파 스캐너' 사이트까지 주목 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53MnptMlhFU1ozb3JxajBvc0VMUTdOTEp5a2lKQ3p4QU1INmpablJ1T3NLYlFldm05RzRiLWNwR2tQRWJZVGJONzQ0Mml3RWt3d0ZGM0F0NGxrVmU1dEE?oc=5",
+          "title": "\"내 조상 중에 친일파 있을까\"…하영 증조부 논란에 '판별 사이트' 등장 - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtcm92VGdzLWVNUG9DZ090NDlBcDVRWVVCc2J6RmxQbWRiT2k4MGFLQzZyMDBYREJGVmNMRTlxRWZRR3RFNkNKQlRONEtxSjI3bG5uYlBMV2NOeUdoOXJFNzdB0gFnQVVfeXFMUHJfRVlhMmZVSmtFUkE4azNYRmpDVUlFZjk1YlhSU3RKR0NsRzhjY2g0aXdtY2tJNXRIMVhVQ0tSXzFTRDhLaW5LcGxqbS16Q2hvQnpXaGNRSXJYR2kyQjdaTEgtZlFfUQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 07:09:00 GMT"
+          "published": "Sun, 16 Aug 2026 20:25:00 GMT"
         }
       ]
     },
     {
-      "word": "총리",
+      "word": "주택공급",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "한 총리 \"주택공급상황, 총리 최우선 과제로 관리…매주 현장 점검\" - 한국방송뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wbTJiUnNYOE56QnFoODF5M2lzbFpHRWEtTEZSWE0zczFwM2FjejYxM3FBMFNkZFhEbmptcl9vRnlxdGU2cHZEVUNLMVdfOWFuVXhPLW5VcVdTcDM3RlE?oc=5",
+          "title": "주택공급 방안, 정비사업 주요 내용은 | 주택공급 한 축 정비사업… 재개발·재건축 ‘속도전’ - 한국주택경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5adnFzTmdqa3NYcnp4am56Rk16YUxOXzVveU94NTZnSEM5VldxT3JYbjg3U1JxdFQxVldJN1ZnSl9FZy1Sd2ZNbnRTQTRJS3lEN1JWWVZGWExOdEF3c3BqZC1OODk3X1lq?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 19:13:34 GMT"
+          "published": "Mon, 17 Aug 2026 00:37:39 GMT"
         }
       ]
     },
     {
-      "word": "세계",
+      "word": "정비사업",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘세계 최초’ ‘세계 최대’ 경쟁하는 한·중… 고부가 선박 수주전, 암모니아로 확대 - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdTNHd2trZTZRdElremNzOWJWa0dXVzFRajJSdFpoWVVHNGRpOTVxcUZTSXhkQlZ1TzZtc2EyLVdQSnVicE5VR1BQbnBzN2lYeG1uTXZZdmNabWNLQW56RkdGSDBiZFhEakdHMXhnY3FSSWh1ZVdoZHlZaTJyN0Iyd2I0dmU?oc=5",
+          "title": "주택공급 방안, 정비사업 주요 내용은 | 주택공급 한 축 정비사업… 재개발·재건축 ‘속도전’ - 한국주택경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5adnFzTmdqa3NYcnp4am56Rk16YUxOXzVveU94NTZnSEM5VldxT3JYbjg3U1JxdFQxVldJN1ZnSl9FZy1Sd2ZNbnRTQTRJS3lEN1JWWVZGWExOdEF3c3BqZC1OODk3X1lq?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 21:00:00 GMT"
+          "published": "Mon, 17 Aug 2026 00:37:39 GMT"
+        }
+      ]
+    },
+    {
+      "word": "광복절",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "BTS 지민, 광복절 美 공연서 태극기 품었다 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfY0c1X2NBNXpRVkxhNEdtNnJNNXJNbnNiU1dBR3Ftd2xGOEhJcVhxNmxWTmN2OVdqNTF2NEpFWlB4SWJJb3BVenlqQ1BqN0k?oc=5",
+          "source": "Google News",
+          "published": "Mon, 17 Aug 2026 00:18:40 GMT"
+        },
+        {
+          "title": "광복절 주간인데… 남자 농구대표팀 ‘한일전 대굴욕’ - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1DTnlTSVBaVERrQk94X1lZdHJVRDRTU2dtbFROUS1xTHpPZ2hvUzIwTGFhS3F0OE9PUXVnS1ZGZzB2amNEMlE?oc=5",
+          "source": "Google News",
+          "published": "Sun, 16 Aug 2026 16:17:38 GMT"
         }
       ]
     },
@@ -62,236 +138,106 @@
       ]
     },
     {
-      "word": "김민석",
+      "word": "경남",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“김민석 유리한 고지 선점”… 정청래, 여론조사 20%P 이겨야 승산 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82dGQxT1p5SWt5Rmd1Yk1QMlhXWkdiMzBjenJ3TWRncTI5aDBhQ2pqcGlKRjFFbld3ZlJyRy1LTWpidllURTdSU2lEcWRhZ19wZ2FvLUFlU19VbF9YbFZJLWdDT0sxTlBraXl5bkprVHZxampTVjg40gFmQVVfeXFMT1Z2Y1pMUTFlb0ZxSG1Jc3B5Mmk3d3pwcW1zX3RTa1pjWm1WZFZDVGxlSWtfTzVDRlJ6LXh1SHlCaTBXUVNRNjVvZF9ZcmU3RlN4dVM1U3RYbVJTQ25tRzdPTjJOU1R3?oc=5",
+          "title": "경남 물폭탄 피해 잇따라...거제 산사태 1명 사망·2명 부상 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hbThRYXY1UnJLcGd1UWtHQUZQazI1aUw0MmRSZm5vNWh1RVhvUTBsTHlZU0NZRkZ5Y0xVQUVTZV9FR0xxWVExVE1XdXBIYlM5YUw3dlhkRzhxN2Jt?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 16:40:00 GMT"
+          "published": "Mon, 17 Aug 2026 01:08:00 GMT"
         }
       ]
     },
     {
-      "word": "유리",
+      "word": "물폭탄",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“김민석 유리한 고지 선점”… 정청래, 여론조사 20%P 이겨야 승산 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82dGQxT1p5SWt5Rmd1Yk1QMlhXWkdiMzBjenJ3TWRncTI5aDBhQ2pqcGlKRjFFbld3ZlJyRy1LTWpidllURTdSU2lEcWRhZ19wZ2FvLUFlU19VbF9YbFZJLWdDT0sxTlBraXl5bkprVHZxampTVjg40gFmQVVfeXFMT1Z2Y1pMUTFlb0ZxSG1Jc3B5Mmk3d3pwcW1zX3RTa1pjWm1WZFZDVGxlSWtfTzVDRlJ6LXh1SHlCaTBXUVNRNjVvZF9ZcmU3RlN4dVM1U3RYbVJTQ25tRzdPTjJOU1R3?oc=5",
+          "title": "경남 물폭탄 피해 잇따라...거제 산사태 1명 사망·2명 부상 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hbThRYXY1UnJLcGd1UWtHQUZQazI1aUw0MmRSZm5vNWh1RVhvUTBsTHlZU0NZRkZ5Y0xVQUVTZV9FR0xxWVExVE1XdXBIYlM5YUw3dlhkRzhxN2Jt?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 16:40:00 GMT"
+          "published": "Mon, 17 Aug 2026 01:08:00 GMT"
         }
       ]
     },
     {
-      "word": "고지",
+      "word": "피해",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“김민석 유리한 고지 선점”… 정청래, 여론조사 20%P 이겨야 승산 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82dGQxT1p5SWt5Rmd1Yk1QMlhXWkdiMzBjenJ3TWRncTI5aDBhQ2pqcGlKRjFFbld3ZlJyRy1LTWpidllURTdSU2lEcWRhZ19wZ2FvLUFlU19VbF9YbFZJLWdDT0sxTlBraXl5bkprVHZxampTVjg40gFmQVVfeXFMT1Z2Y1pMUTFlb0ZxSG1Jc3B5Mmk3d3pwcW1zX3RTa1pjWm1WZFZDVGxlSWtfTzVDRlJ6LXh1SHlCaTBXUVNRNjVvZF9ZcmU3RlN4dVM1U3RYbVJTQ25tRzdPTjJOU1R3?oc=5",
+          "title": "경남 물폭탄 피해 잇따라...거제 산사태 1명 사망·2명 부상 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hbThRYXY1UnJLcGd1UWtHQUZQazI1aUw0MmRSZm5vNWh1RVhvUTBsTHlZU0NZRkZ5Y0xVQUVTZV9FR0xxWVExVE1XdXBIYlM5YUw3dlhkRzhxN2Jt?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 16:40:00 GMT"
+          "published": "Mon, 17 Aug 2026 01:08:00 GMT"
         }
       ]
     },
     {
-      "word": "선점",
+      "word": "잇따라거제",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“김민석 유리한 고지 선점”… 정청래, 여론조사 20%P 이겨야 승산 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82dGQxT1p5SWt5Rmd1Yk1QMlhXWkdiMzBjenJ3TWRncTI5aDBhQ2pqcGlKRjFFbld3ZlJyRy1LTWpidllURTdSU2lEcWRhZ19wZ2FvLUFlU19VbF9YbFZJLWdDT0sxTlBraXl5bkprVHZxampTVjg40gFmQVVfeXFMT1Z2Y1pMUTFlb0ZxSG1Jc3B5Mmk3d3pwcW1zX3RTa1pjWm1WZFZDVGxlSWtfTzVDRlJ6LXh1SHlCaTBXUVNRNjVvZF9ZcmU3RlN4dVM1U3RYbVJTQ25tRzdPTjJOU1R3?oc=5",
+          "title": "경남 물폭탄 피해 잇따라...거제 산사태 1명 사망·2명 부상 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hbThRYXY1UnJLcGd1UWtHQUZQazI1aUw0MmRSZm5vNWh1RVhvUTBsTHlZU0NZRkZ5Y0xVQUVTZV9FR0xxWVExVE1XdXBIYlM5YUw3dlhkRzhxN2Jt?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 16:40:00 GMT"
+          "published": "Mon, 17 Aug 2026 01:08:00 GMT"
         }
       ]
     },
     {
-      "word": "정청래",
+      "word": "산사태",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“김민석 유리한 고지 선점”… 정청래, 여론조사 20%P 이겨야 승산 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82dGQxT1p5SWt5Rmd1Yk1QMlhXWkdiMzBjenJ3TWRncTI5aDBhQ2pqcGlKRjFFbld3ZlJyRy1LTWpidllURTdSU2lEcWRhZ19wZ2FvLUFlU19VbF9YbFZJLWdDT0sxTlBraXl5bkprVHZxampTVjg40gFmQVVfeXFMT1Z2Y1pMUTFlb0ZxSG1Jc3B5Mmk3d3pwcW1zX3RTa1pjWm1WZFZDVGxlSWtfTzVDRlJ6LXh1SHlCaTBXUVNRNjVvZF9ZcmU3RlN4dVM1U3RYbVJTQ25tRzdPTjJOU1R3?oc=5",
+          "title": "경남 물폭탄 피해 잇따라...거제 산사태 1명 사망·2명 부상 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hbThRYXY1UnJLcGd1UWtHQUZQazI1aUw0MmRSZm5vNWh1RVhvUTBsTHlZU0NZRkZ5Y0xVQUVTZV9FR0xxWVExVE1XdXBIYlM5YUw3dlhkRzhxN2Jt?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 16:40:00 GMT"
+          "published": "Mon, 17 Aug 2026 01:08:00 GMT"
         }
       ]
     },
     {
-      "word": "여론조사",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "“김민석 유리한 고지 선점”… 정청래, 여론조사 20%P 이겨야 승산 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82dGQxT1p5SWt5Rmd1Yk1QMlhXWkdiMzBjenJ3TWRncTI5aDBhQ2pqcGlKRjFFbld3ZlJyRy1LTWpidllURTdSU2lEcWRhZ19wZ2FvLUFlU19VbF9YbFZJLWdDT0sxTlBraXl5bkprVHZxampTVjg40gFmQVVfeXFMT1Z2Y1pMUTFlb0ZxSG1Jc3B5Mmk3d3pwcW1zX3RTa1pjWm1WZFZDVGxlSWtfTzVDRlJ6LXh1SHlCaTBXUVNRNjVvZF9ZcmU3RlN4dVM1U3RYbVJTQ25tRzdPTjJOU1R3?oc=5",
-          "source": "Google News",
-          "published": "Sun, 16 Aug 2026 16:40:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "20P",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "“김민석 유리한 고지 선점”… 정청래, 여론조사 20%P 이겨야 승산 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82dGQxT1p5SWt5Rmd1Yk1QMlhXWkdiMzBjenJ3TWRncTI5aDBhQ2pqcGlKRjFFbld3ZlJyRy1LTWpidllURTdSU2lEcWRhZ19wZ2FvLUFlU19VbF9YbFZJLWdDT0sxTlBraXl5bkprVHZxampTVjg40gFmQVVfeXFMT1Z2Y1pMUTFlb0ZxSG1Jc3B5Mmk3d3pwcW1zX3RTa1pjWm1WZFZDVGxlSWtfTzVDRlJ6LXh1SHlCaTBXUVNRNjVvZF9ZcmU3RlN4dVM1U3RYbVJTQ25tRzdPTjJOU1R3?oc=5",
-          "source": "Google News",
-          "published": "Sun, 16 Aug 2026 16:40:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "이겨야",
+      "word": "1명",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“김민석 유리한 고지 선점”… 정청래, 여론조사 20%P 이겨야 승산 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82dGQxT1p5SWt5Rmd1Yk1QMlhXWkdiMzBjenJ3TWRncTI5aDBhQ2pqcGlKRjFFbld3ZlJyRy1LTWpidllURTdSU2lEcWRhZ19wZ2FvLUFlU19VbF9YbFZJLWdDT0sxTlBraXl5bkprVHZxampTVjg40gFmQVVfeXFMT1Z2Y1pMUTFlb0ZxSG1Jc3B5Mmk3d3pwcW1zX3RTa1pjWm1WZFZDVGxlSWtfTzVDRlJ6LXh1SHlCaTBXUVNRNjVvZF9ZcmU3RlN4dVM1U3RYbVJTQ25tRzdPTjJOU1R3?oc=5",
+          "title": "경남 물폭탄 피해 잇따라...거제 산사태 1명 사망·2명 부상 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hbThRYXY1UnJLcGd1UWtHQUZQazI1aUw0MmRSZm5vNWh1RVhvUTBsTHlZU0NZRkZ5Y0xVQUVTZV9FR0xxWVExVE1XdXBIYlM5YUw3dlhkRzhxN2Jt?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 16:40:00 GMT"
+          "published": "Mon, 17 Aug 2026 01:08:00 GMT"
         }
       ]
     },
     {
-      "word": "승산",
+      "word": "사망2명",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“김민석 유리한 고지 선점”… 정청래, 여론조사 20%P 이겨야 승산 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82dGQxT1p5SWt5Rmd1Yk1QMlhXWkdiMzBjenJ3TWRncTI5aDBhQ2pqcGlKRjFFbld3ZlJyRy1LTWpidllURTdSU2lEcWRhZ19wZ2FvLUFlU19VbF9YbFZJLWdDT0sxTlBraXl5bkprVHZxampTVjg40gFmQVVfeXFMT1Z2Y1pMUTFlb0ZxSG1Jc3B5Mmk3d3pwcW1zX3RTa1pjWm1WZFZDVGxlSWtfTzVDRlJ6LXh1SHlCaTBXUVNRNjVvZF9ZcmU3RlN4dVM1U3RYbVJTQ25tRzdPTjJOU1R3?oc=5",
+          "title": "경남 물폭탄 피해 잇따라...거제 산사태 1명 사망·2명 부상 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hbThRYXY1UnJLcGd1UWtHQUZQazI1aUw0MmRSZm5vNWh1RVhvUTBsTHlZU0NZRkZ5Y0xVQUVTZV9FR0xxWVExVE1XdXBIYlM5YUw3dlhkRzhxN2Jt?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 16:40:00 GMT"
+          "published": "Mon, 17 Aug 2026 01:08:00 GMT"
         }
       ]
     },
     {
-      "word": "집중호우",
+      "word": "부상",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "'집중호우' 중대본 1단계 가동‥경남 거제 20여 명 고립돼 구조 나서 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5nVjF3UUdTejhQQ1VzUnFMRFNManJ2MlZFU0JNTnB5M0dVUjFyaVRkem1hV0I4RmxpQjM1X3FtUXFzQW5oOFRmYWU1WTVjTnVfdS1TaFMtTHMycF9xVjRUdUxqTHpSZDBCcEJfdFdfX1d3Tmd0bVV30gF3QVVfeXFMTlJoWWlrVzFqZmxONWlrZnctY1JjWEtFX3pRODFWYUJ2QTJad0Y4Mm5pSWZRNU13TE5pSVJQblMtTDNmQTJmeWhzOGxId2JINERNUTE4eVFuU0J0cnJqa2RYMzhCa2NvVnpDRzRCSTZrRTBPWVhZNnM?oc=5",
+          "title": "경남 물폭탄 피해 잇따라...거제 산사태 1명 사망·2명 부상 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hbThRYXY1UnJLcGd1UWtHQUZQazI1aUw0MmRSZm5vNWh1RVhvUTBsTHlZU0NZRkZ5Y0xVQUVTZV9FR0xxWVExVE1XdXBIYlM5YUw3dlhkRzhxN2Jt?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 22:31:08 GMT"
-        }
-      ]
-    },
-    {
-      "word": "중대본",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "'집중호우' 중대본 1단계 가동‥경남 거제 20여 명 고립돼 구조 나서 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5nVjF3UUdTejhQQ1VzUnFMRFNManJ2MlZFU0JNTnB5M0dVUjFyaVRkem1hV0I4RmxpQjM1X3FtUXFzQW5oOFRmYWU1WTVjTnVfdS1TaFMtTHMycF9xVjRUdUxqTHpSZDBCcEJfdFdfX1d3Tmd0bVV30gF3QVVfeXFMTlJoWWlrVzFqZmxONWlrZnctY1JjWEtFX3pRODFWYUJ2QTJad0Y4Mm5pSWZRNU13TE5pSVJQblMtTDNmQTJmeWhzOGxId2JINERNUTE4eVFuU0J0cnJqa2RYMzhCa2NvVnpDRzRCSTZrRTBPWVhZNnM?oc=5",
-          "source": "Google News",
-          "published": "Sun, 16 Aug 2026 22:31:08 GMT"
-        }
-      ]
-    },
-    {
-      "word": "1단계",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "'집중호우' 중대본 1단계 가동‥경남 거제 20여 명 고립돼 구조 나서 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5nVjF3UUdTejhQQ1VzUnFMRFNManJ2MlZFU0JNTnB5M0dVUjFyaVRkem1hV0I4RmxpQjM1X3FtUXFzQW5oOFRmYWU1WTVjTnVfdS1TaFMtTHMycF9xVjRUdUxqTHpSZDBCcEJfdFdfX1d3Tmd0bVV30gF3QVVfeXFMTlJoWWlrVzFqZmxONWlrZnctY1JjWEtFX3pRODFWYUJ2QTJad0Y4Mm5pSWZRNU13TE5pSVJQblMtTDNmQTJmeWhzOGxId2JINERNUTE4eVFuU0J0cnJqa2RYMzhCa2NvVnpDRzRCSTZrRTBPWVhZNnM?oc=5",
-          "source": "Google News",
-          "published": "Sun, 16 Aug 2026 22:31:08 GMT"
-        }
-      ]
-    },
-    {
-      "word": "가동경남",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "'집중호우' 중대본 1단계 가동‥경남 거제 20여 명 고립돼 구조 나서 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5nVjF3UUdTejhQQ1VzUnFMRFNManJ2MlZFU0JNTnB5M0dVUjFyaVRkem1hV0I4RmxpQjM1X3FtUXFzQW5oOFRmYWU1WTVjTnVfdS1TaFMtTHMycF9xVjRUdUxqTHpSZDBCcEJfdFdfX1d3Tmd0bVV30gF3QVVfeXFMTlJoWWlrVzFqZmxONWlrZnctY1JjWEtFX3pRODFWYUJ2QTJad0Y4Mm5pSWZRNU13TE5pSVJQblMtTDNmQTJmeWhzOGxId2JINERNUTE4eVFuU0J0cnJqa2RYMzhCa2NvVnpDRzRCSTZrRTBPWVhZNnM?oc=5",
-          "source": "Google News",
-          "published": "Sun, 16 Aug 2026 22:31:08 GMT"
-        }
-      ]
-    },
-    {
-      "word": "거제",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "'집중호우' 중대본 1단계 가동‥경남 거제 20여 명 고립돼 구조 나서 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5nVjF3UUdTejhQQ1VzUnFMRFNManJ2MlZFU0JNTnB5M0dVUjFyaVRkem1hV0I4RmxpQjM1X3FtUXFzQW5oOFRmYWU1WTVjTnVfdS1TaFMtTHMycF9xVjRUdUxqTHpSZDBCcEJfdFdfX1d3Tmd0bVV30gF3QVVfeXFMTlJoWWlrVzFqZmxONWlrZnctY1JjWEtFX3pRODFWYUJ2QTJad0Y4Mm5pSWZRNU13TE5pSVJQblMtTDNmQTJmeWhzOGxId2JINERNUTE4eVFuU0J0cnJqa2RYMzhCa2NvVnpDRzRCSTZrRTBPWVhZNnM?oc=5",
-          "source": "Google News",
-          "published": "Sun, 16 Aug 2026 22:31:08 GMT"
-        }
-      ]
-    },
-    {
-      "word": "20여",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "'집중호우' 중대본 1단계 가동‥경남 거제 20여 명 고립돼 구조 나서 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5nVjF3UUdTejhQQ1VzUnFMRFNManJ2MlZFU0JNTnB5M0dVUjFyaVRkem1hV0I4RmxpQjM1X3FtUXFzQW5oOFRmYWU1WTVjTnVfdS1TaFMtTHMycF9xVjRUdUxqTHpSZDBCcEJfdFdfX1d3Tmd0bVV30gF3QVVfeXFMTlJoWWlrVzFqZmxONWlrZnctY1JjWEtFX3pRODFWYUJ2QTJad0Y4Mm5pSWZRNU13TE5pSVJQblMtTDNmQTJmeWhzOGxId2JINERNUTE4eVFuU0J0cnJqa2RYMzhCa2NvVnpDRzRCSTZrRTBPWVhZNnM?oc=5",
-          "source": "Google News",
-          "published": "Sun, 16 Aug 2026 22:31:08 GMT"
-        }
-      ]
-    },
-    {
-      "word": "고립돼",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "'집중호우' 중대본 1단계 가동‥경남 거제 20여 명 고립돼 구조 나서 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5nVjF3UUdTejhQQ1VzUnFMRFNManJ2MlZFU0JNTnB5M0dVUjFyaVRkem1hV0I4RmxpQjM1X3FtUXFzQW5oOFRmYWU1WTVjTnVfdS1TaFMtTHMycF9xVjRUdUxqTHpSZDBCcEJfdFdfX1d3Tmd0bVV30gF3QVVfeXFMTlJoWWlrVzFqZmxONWlrZnctY1JjWEtFX3pRODFWYUJ2QTJad0Y4Mm5pSWZRNU13TE5pSVJQblMtTDNmQTJmeWhzOGxId2JINERNUTE4eVFuU0J0cnJqa2RYMzhCa2NvVnpDRzRCSTZrRTBPWVhZNnM?oc=5",
-          "source": "Google News",
-          "published": "Sun, 16 Aug 2026 22:31:08 GMT"
-        }
-      ]
-    },
-    {
-      "word": "구조",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "'집중호우' 중대본 1단계 가동‥경남 거제 20여 명 고립돼 구조 나서 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5nVjF3UUdTejhQQ1VzUnFMRFNManJ2MlZFU0JNTnB5M0dVUjFyaVRkem1hV0I4RmxpQjM1X3FtUXFzQW5oOFRmYWU1WTVjTnVfdS1TaFMtTHMycF9xVjRUdUxqTHpSZDBCcEJfdFdfX1d3Tmd0bVV30gF3QVVfeXFMTlJoWWlrVzFqZmxONWlrZnctY1JjWEtFX3pRODFWYUJ2QTJad0Y4Mm5pSWZRNU13TE5pSVJQblMtTDNmQTJmeWhzOGxId2JINERNUTE4eVFuU0J0cnJqa2RYMzhCa2NvVnpDRzRCSTZrRTBPWVhZNnM?oc=5",
-          "source": "Google News",
-          "published": "Sun, 16 Aug 2026 22:31:08 GMT"
-        }
-      ]
-    },
-    {
-      "word": "나서",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "'집중호우' 중대본 1단계 가동‥경남 거제 20여 명 고립돼 구조 나서 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5nVjF3UUdTejhQQ1VzUnFMRFNManJ2MlZFU0JNTnB5M0dVUjFyaVRkem1hV0I4RmxpQjM1X3FtUXFzQW5oOFRmYWU1WTVjTnVfdS1TaFMtTHMycF9xVjRUdUxqTHpSZDBCcEJfdFdfX1d3Tmd0bVV30gF3QVVfeXFMTlJoWWlrVzFqZmxONWlrZnctY1JjWEtFX3pRODFWYUJ2QTJad0Y4Mm5pSWZRNU13TE5pSVJQblMtTDNmQTJmeWhzOGxId2JINERNUTE4eVFuU0J0cnJqa2RYMzhCa2NvVnpDRzRCSTZrRTBPWVhZNnM?oc=5",
-          "source": "Google News",
-          "published": "Sun, 16 Aug 2026 22:31:08 GMT"
+          "published": "Mon, 17 Aug 2026 01:08:00 GMT"
         }
       ]
     },
@@ -301,49 +247,62 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보] 트럼프 “김정은과 좋은 관계…한미연합훈련 대폭 축소 지시” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IRlQ4TFNldkgzU0xkclNLMFhVeHVYc1JjVVhUVzVZVENYSk1BaWhLZFB5bnlGWDNXM29DUzd6dXlNY21jM1N2Ulc0Nkw2MFB4MHZUYUQwbzU2ZGd6ZFJkZnRzaWxUTF9kZTZrc1ZEZw?oc=5",
+          "title": "[속보] 트럼프 “한미연합훈련 오래전부터 마음에 안 들어, 대폭 축소 지시···나와 김정은 매우 좋은 관계” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jODlnWTgxTkJXZG11NUstUVg4ak9EaUo1T1JiNTdTczZPTUo3MDBod2hmdzJ5d2lyNGFYMjBtR1ZiRnJOT1VicTJqS2RVMm53YmpkcFQzVXhZUdIBX0FVX3lxTE1tVGFhc0pJT0pzTEo2cmpjV0J0WGY5cEFWT1hkM0NMTUlzQi1VN1g1Szd0Q3hCZTNmbDBDZHR5a0Q5dnZMUFB5Q0VoSHJvb19wS2xJVkN4MXJIamRPRDFN?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 22:55:00 GMT"
+          "published": "Sun, 16 Aug 2026 23:00:00 GMT"
         }
       ]
     },
     {
-      "word": "김정",
+      "word": "한미연합훈련",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보] 트럼프 “김정은과 좋은 관계…한미연합훈련 대폭 축소 지시” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IRlQ4TFNldkgzU0xkclNLMFhVeHVYc1JjVVhUVzVZVENYSk1BaWhLZFB5bnlGWDNXM29DUzd6dXlNY21jM1N2Ulc0Nkw2MFB4MHZUYUQwbzU2ZGd6ZFJkZnRzaWxUTF9kZTZrc1ZEZw?oc=5",
+          "title": "[속보] 트럼프 “한미연합훈련 오래전부터 마음에 안 들어, 대폭 축소 지시···나와 김정은 매우 좋은 관계” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jODlnWTgxTkJXZG11NUstUVg4ak9EaUo1T1JiNTdTczZPTUo3MDBod2hmdzJ5d2lyNGFYMjBtR1ZiRnJOT1VicTJqS2RVMm53YmpkcFQzVXhZUdIBX0FVX3lxTE1tVGFhc0pJT0pzTEo2cmpjV0J0WGY5cEFWT1hkM0NMTUlzQi1VN1g1Szd0Q3hCZTNmbDBDZHR5a0Q5dnZMUFB5Q0VoSHJvb19wS2xJVkN4MXJIamRPRDFN?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 22:55:00 GMT"
+          "published": "Sun, 16 Aug 2026 23:00:00 GMT"
         }
       ]
     },
     {
-      "word": "좋은",
+      "word": "오래전",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보] 트럼프 “김정은과 좋은 관계…한미연합훈련 대폭 축소 지시” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IRlQ4TFNldkgzU0xkclNLMFhVeHVYc1JjVVhUVzVZVENYSk1BaWhLZFB5bnlGWDNXM29DUzd6dXlNY21jM1N2Ulc0Nkw2MFB4MHZUYUQwbzU2ZGd6ZFJkZnRzaWxUTF9kZTZrc1ZEZw?oc=5",
+          "title": "[속보] 트럼프 “한미연합훈련 오래전부터 마음에 안 들어, 대폭 축소 지시···나와 김정은 매우 좋은 관계” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jODlnWTgxTkJXZG11NUstUVg4ak9EaUo1T1JiNTdTczZPTUo3MDBod2hmdzJ5d2lyNGFYMjBtR1ZiRnJOT1VicTJqS2RVMm53YmpkcFQzVXhZUdIBX0FVX3lxTE1tVGFhc0pJT0pzTEo2cmpjV0J0WGY5cEFWT1hkM0NMTUlzQi1VN1g1Szd0Q3hCZTNmbDBDZHR5a0Q5dnZMUFB5Q0VoSHJvb19wS2xJVkN4MXJIamRPRDFN?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 22:55:00 GMT"
+          "published": "Sun, 16 Aug 2026 23:00:00 GMT"
         }
       ]
     },
     {
-      "word": "관계한미연합훈련",
+      "word": "마음",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보] 트럼프 “김정은과 좋은 관계…한미연합훈련 대폭 축소 지시” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IRlQ4TFNldkgzU0xkclNLMFhVeHVYc1JjVVhUVzVZVENYSk1BaWhLZFB5bnlGWDNXM29DUzd6dXlNY21jM1N2Ulc0Nkw2MFB4MHZUYUQwbzU2ZGd6ZFJkZnRzaWxUTF9kZTZrc1ZEZw?oc=5",
+          "title": "[속보] 트럼프 “한미연합훈련 오래전부터 마음에 안 들어, 대폭 축소 지시···나와 김정은 매우 좋은 관계” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jODlnWTgxTkJXZG11NUstUVg4ak9EaUo1T1JiNTdTczZPTUo3MDBod2hmdzJ5d2lyNGFYMjBtR1ZiRnJOT1VicTJqS2RVMm53YmpkcFQzVXhZUdIBX0FVX3lxTE1tVGFhc0pJT0pzTEo2cmpjV0J0WGY5cEFWT1hkM0NMTUlzQi1VN1g1Szd0Q3hCZTNmbDBDZHR5a0Q5dnZMUFB5Q0VoSHJvb19wS2xJVkN4MXJIamRPRDFN?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 22:55:00 GMT"
+          "published": "Sun, 16 Aug 2026 23:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "들어",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보] 트럼프 “한미연합훈련 오래전부터 마음에 안 들어, 대폭 축소 지시···나와 김정은 매우 좋은 관계” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jODlnWTgxTkJXZG11NUstUVg4ak9EaUo1T1JiNTdTczZPTUo3MDBod2hmdzJ5d2lyNGFYMjBtR1ZiRnJOT1VicTJqS2RVMm53YmpkcFQzVXhZUdIBX0FVX3lxTE1tVGFhc0pJT0pzTEo2cmpjV0J0WGY5cEFWT1hkM0NMTUlzQi1VN1g1Szd0Q3hCZTNmbDBDZHR5a0Q5dnZMUFB5Q0VoSHJvb19wS2xJVkN4MXJIamRPRDFN?oc=5",
+          "source": "Google News",
+          "published": "Sun, 16 Aug 2026 23:00:00 GMT"
         }
       ]
     },
@@ -353,10 +312,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보] 트럼프 “김정은과 좋은 관계…한미연합훈련 대폭 축소 지시” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IRlQ4TFNldkgzU0xkclNLMFhVeHVYc1JjVVhUVzVZVENYSk1BaWhLZFB5bnlGWDNXM29DUzd6dXlNY21jM1N2Ulc0Nkw2MFB4MHZUYUQwbzU2ZGd6ZFJkZnRzaWxUTF9kZTZrc1ZEZw?oc=5",
+          "title": "[속보] 트럼프 “한미연합훈련 오래전부터 마음에 안 들어, 대폭 축소 지시···나와 김정은 매우 좋은 관계” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jODlnWTgxTkJXZG11NUstUVg4ak9EaUo1T1JiNTdTczZPTUo3MDBod2hmdzJ5d2lyNGFYMjBtR1ZiRnJOT1VicTJqS2RVMm53YmpkcFQzVXhZUdIBX0FVX3lxTE1tVGFhc0pJT0pzTEo2cmpjV0J0WGY5cEFWT1hkM0NMTUlzQi1VN1g1Szd0Q3hCZTNmbDBDZHR5a0Q5dnZMUFB5Q0VoSHJvb19wS2xJVkN4MXJIamRPRDFN?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 22:55:00 GMT"
+          "published": "Sun, 16 Aug 2026 23:00:00 GMT"
         }
       ]
     },
@@ -366,10 +325,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보] 트럼프 “김정은과 좋은 관계…한미연합훈련 대폭 축소 지시” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IRlQ4TFNldkgzU0xkclNLMFhVeHVYc1JjVVhUVzVZVENYSk1BaWhLZFB5bnlGWDNXM29DUzd6dXlNY21jM1N2Ulc0Nkw2MFB4MHZUYUQwbzU2ZGd6ZFJkZnRzaWxUTF9kZTZrc1ZEZw?oc=5",
+          "title": "[속보] 트럼프 “한미연합훈련 오래전부터 마음에 안 들어, 대폭 축소 지시···나와 김정은 매우 좋은 관계” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jODlnWTgxTkJXZG11NUstUVg4ak9EaUo1T1JiNTdTczZPTUo3MDBod2hmdzJ5d2lyNGFYMjBtR1ZiRnJOT1VicTJqS2RVMm53YmpkcFQzVXhZUdIBX0FVX3lxTE1tVGFhc0pJT0pzTEo2cmpjV0J0WGY5cEFWT1hkM0NMTUlzQi1VN1g1Szd0Q3hCZTNmbDBDZHR5a0Q5dnZMUFB5Q0VoSHJvb19wS2xJVkN4MXJIamRPRDFN?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 22:55:00 GMT"
+          "published": "Sun, 16 Aug 2026 23:00:00 GMT"
         }
       ]
     },
@@ -379,153 +338,218 @@
       "category": "LOCATION",
       "articles": [
         {
-          "title": "[속보] 트럼프 “김정은과 좋은 관계…한미연합훈련 대폭 축소 지시” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IRlQ4TFNldkgzU0xkclNLMFhVeHVYc1JjVVhUVzVZVENYSk1BaWhLZFB5bnlGWDNXM29DUzd6dXlNY21jM1N2Ulc0Nkw2MFB4MHZUYUQwbzU2ZGd6ZFJkZnRzaWxUTF9kZTZrc1ZEZw?oc=5",
+          "title": "[속보] 트럼프 “한미연합훈련 오래전부터 마음에 안 들어, 대폭 축소 지시···나와 김정은 매우 좋은 관계” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jODlnWTgxTkJXZG11NUstUVg4ak9EaUo1T1JiNTdTczZPTUo3MDBod2hmdzJ5d2lyNGFYMjBtR1ZiRnJOT1VicTJqS2RVMm53YmpkcFQzVXhZUdIBX0FVX3lxTE1tVGFhc0pJT0pzTEo2cmpjV0J0WGY5cEFWT1hkM0NMTUlzQi1VN1g1Szd0Q3hCZTNmbDBDZHR5a0Q5dnZMUFB5Q0VoSHJvb19wS2xJVkN4MXJIamRPRDFN?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 22:55:00 GMT"
+          "published": "Sun, 16 Aug 2026 23:00:00 GMT"
         }
       ]
     },
     {
-      "word": "경남",
+      "word": "김정",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "경남 등 남부 '호우특보'‥오전까지 강한 비 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE13cXdPWmpYV1YwX2dmR2dQTzFFMjZMSFFOcEZ2ZU5BWE5PX2FEcER3NE83TE9ZWTgxaEZMb3JKbEw2el9mbmhmV0dvWldFZTRLeU9EUjZLVUZfTXkzVUt6NWg0bEZ6cE1meDRyaFVxa2ZkMjZBWkpN0gF3QVVfeXFMUFBxRzQxVFVOYXBQVFhFblhNeUlSUENram5VQlRMRDNtUlNQa0tkdXJxZ01acHUyU3NZZnFqbWdoTll5UWVOUml4dWJ0V3d3dU5UR3FYMHRZTUJQUUhFbEY4eGFhOGxlSEZLNkNFNFd0V0FicmtmUVU?oc=5",
+          "title": "[속보] 트럼프 “한미연합훈련 오래전부터 마음에 안 들어, 대폭 축소 지시···나와 김정은 매우 좋은 관계” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jODlnWTgxTkJXZG11NUstUVg4ak9EaUo1T1JiNTdTczZPTUo3MDBod2hmdzJ5d2lyNGFYMjBtR1ZiRnJOT1VicTJqS2RVMm53YmpkcFQzVXhZUdIBX0FVX3lxTE1tVGFhc0pJT0pzTEo2cmpjV0J0WGY5cEFWT1hkM0NMTUlzQi1VN1g1Szd0Q3hCZTNmbDBDZHR5a0Q5dnZMUFB5Q0VoSHJvb19wS2xJVkN4MXJIamRPRDFN?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 14:57:10 GMT"
+          "published": "Sun, 16 Aug 2026 23:00:00 GMT"
         }
       ]
     },
     {
-      "word": "남부",
+      "word": "매우",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "경남 등 남부 '호우특보'‥오전까지 강한 비 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE13cXdPWmpYV1YwX2dmR2dQTzFFMjZMSFFOcEZ2ZU5BWE5PX2FEcER3NE83TE9ZWTgxaEZMb3JKbEw2el9mbmhmV0dvWldFZTRLeU9EUjZLVUZfTXkzVUt6NWg0bEZ6cE1meDRyaFVxa2ZkMjZBWkpN0gF3QVVfeXFMUFBxRzQxVFVOYXBQVFhFblhNeUlSUENram5VQlRMRDNtUlNQa0tkdXJxZ01acHUyU3NZZnFqbWdoTll5UWVOUml4dWJ0V3d3dU5UR3FYMHRZTUJQUUhFbEY4eGFhOGxlSEZLNkNFNFd0V0FicmtmUVU?oc=5",
+          "title": "[속보] 트럼프 “한미연합훈련 오래전부터 마음에 안 들어, 대폭 축소 지시···나와 김정은 매우 좋은 관계” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jODlnWTgxTkJXZG11NUstUVg4ak9EaUo1T1JiNTdTczZPTUo3MDBod2hmdzJ5d2lyNGFYMjBtR1ZiRnJOT1VicTJqS2RVMm53YmpkcFQzVXhZUdIBX0FVX3lxTE1tVGFhc0pJT0pzTEo2cmpjV0J0WGY5cEFWT1hkM0NMTUlzQi1VN1g1Szd0Q3hCZTNmbDBDZHR5a0Q5dnZMUFB5Q0VoSHJvb19wS2xJVkN4MXJIamRPRDFN?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 14:57:10 GMT"
+          "published": "Sun, 16 Aug 2026 23:00:00 GMT"
         }
       ]
     },
     {
-      "word": "호우특보오전",
+      "word": "좋은",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "경남 등 남부 '호우특보'‥오전까지 강한 비 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE13cXdPWmpYV1YwX2dmR2dQTzFFMjZMSFFOcEZ2ZU5BWE5PX2FEcER3NE83TE9ZWTgxaEZMb3JKbEw2el9mbmhmV0dvWldFZTRLeU9EUjZLVUZfTXkzVUt6NWg0bEZ6cE1meDRyaFVxa2ZkMjZBWkpN0gF3QVVfeXFMUFBxRzQxVFVOYXBQVFhFblhNeUlSUENram5VQlRMRDNtUlNQa0tkdXJxZ01acHUyU3NZZnFqbWdoTll5UWVOUml4dWJ0V3d3dU5UR3FYMHRZTUJQUUhFbEY4eGFhOGxlSEZLNkNFNFd0V0FicmtmUVU?oc=5",
+          "title": "[속보] 트럼프 “한미연합훈련 오래전부터 마음에 안 들어, 대폭 축소 지시···나와 김정은 매우 좋은 관계” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jODlnWTgxTkJXZG11NUstUVg4ak9EaUo1T1JiNTdTczZPTUo3MDBod2hmdzJ5d2lyNGFYMjBtR1ZiRnJOT1VicTJqS2RVMm53YmpkcFQzVXhZUdIBX0FVX3lxTE1tVGFhc0pJT0pzTEo2cmpjV0J0WGY5cEFWT1hkM0NMTUlzQi1VN1g1Szd0Q3hCZTNmbDBDZHR5a0Q5dnZMUFB5Q0VoSHJvb19wS2xJVkN4MXJIamRPRDFN?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 14:57:10 GMT"
+          "published": "Sun, 16 Aug 2026 23:00:00 GMT"
         }
       ]
     },
     {
-      "word": "강한",
+      "word": "관계",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "경남 등 남부 '호우특보'‥오전까지 강한 비 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE13cXdPWmpYV1YwX2dmR2dQTzFFMjZMSFFOcEZ2ZU5BWE5PX2FEcER3NE83TE9ZWTgxaEZMb3JKbEw2el9mbmhmV0dvWldFZTRLeU9EUjZLVUZfTXkzVUt6NWg0bEZ6cE1meDRyaFVxa2ZkMjZBWkpN0gF3QVVfeXFMUFBxRzQxVFVOYXBQVFhFblhNeUlSUENram5VQlRMRDNtUlNQa0tkdXJxZ01acHUyU3NZZnFqbWdoTll5UWVOUml4dWJ0V3d3dU5UR3FYMHRZTUJQUUhFbEY4eGFhOGxlSEZLNkNFNFd0V0FicmtmUVU?oc=5",
+          "title": "[속보] 트럼프 “한미연합훈련 오래전부터 마음에 안 들어, 대폭 축소 지시···나와 김정은 매우 좋은 관계” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jODlnWTgxTkJXZG11NUstUVg4ak9EaUo1T1JiNTdTczZPTUo3MDBod2hmdzJ5d2lyNGFYMjBtR1ZiRnJOT1VicTJqS2RVMm53YmpkcFQzVXhZUdIBX0FVX3lxTE1tVGFhc0pJT0pzTEo2cmpjV0J0WGY5cEFWT1hkM0NMTUlzQi1VN1g1Szd0Q3hCZTNmbDBDZHR5a0Q5dnZMUFB5Q0VoSHJvb19wS2xJVkN4MXJIamRPRDFN?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 14:57:10 GMT"
+          "published": "Sun, 16 Aug 2026 23:00:00 GMT"
         }
       ]
     },
     {
-      "word": "4년",
+      "word": "민주",
       "count": 1,
-      "category": "NOUN",
+      "category": "LOCATION",
       "articles": [
         {
-          "title": "‘4년 중임’ 띄운 이 대통령…임기 단축·총리 추천·여야 합의 ‘난관’ - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JY19ZRjU2YUs4MTRza1JkUy15YjcxZkFYWU43azFlU0NBYXZzbms3QzY3NVg3aTJnN3FtVm1fVklTQlpuT1RIU3FsUVI1MERlVFNia0FudXhWd9IBX0FVX3lxTE9mcVpjRmdQdUdqaXFBTXZKN3UyZG53aXY0U2lvdHg3blpnNHdnYkFuTTNrNGpobFVtUFRIWnYyeWppc0RlaFdWbGdRRnh6dmE0WEV2aTJSZmxJVWcyMkhV?oc=5",
+          "title": "민주, 오늘 당대표 선출…김민석 과반 얻을까, 선호투표 적용될까 - hani.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrbDBoVmNiZG9RM29aMlFIb25CbEtfS0ZKS3VTUWxvZDlYLUI1RWVrUDdybTlZZmxZYWk2QmFfLVdzYXdyYmhkQUhwSUF0Unp2cS1sZ2JaV3hMNXU2S29peGM3b0JvLU9YeFk3QmJoa2hBeTQy?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 12:13:00 GMT"
+          "published": "Mon, 17 Aug 2026 01:00:00 GMT"
         }
       ]
     },
     {
-      "word": "중임",
+      "word": "당대표",
       "count": 1,
-      "category": "NOUN",
+      "category": "PERSON",
       "articles": [
         {
-          "title": "‘4년 중임’ 띄운 이 대통령…임기 단축·총리 추천·여야 합의 ‘난관’ - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JY19ZRjU2YUs4MTRza1JkUy15YjcxZkFYWU43azFlU0NBYXZzbms3QzY3NVg3aTJnN3FtVm1fVklTQlpuT1RIU3FsUVI1MERlVFNia0FudXhWd9IBX0FVX3lxTE9mcVpjRmdQdUdqaXFBTXZKN3UyZG53aXY0U2lvdHg3blpnNHdnYkFuTTNrNGpobFVtUFRIWnYyeWppc0RlaFdWbGdRRnh6dmE0WEV2aTJSZmxJVWcyMkhV?oc=5",
+          "title": "민주, 오늘 당대표 선출…김민석 과반 얻을까, 선호투표 적용될까 - hani.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrbDBoVmNiZG9RM29aMlFIb25CbEtfS0ZKS3VTUWxvZDlYLUI1RWVrUDdybTlZZmxZYWk2QmFfLVdzYXdyYmhkQUhwSUF0Unp2cS1sZ2JaV3hMNXU2S29peGM3b0JvLU9YeFk3QmJoa2hBeTQy?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 12:13:00 GMT"
+          "published": "Mon, 17 Aug 2026 01:00:00 GMT"
         }
       ]
     },
     {
-      "word": "띄운",
+      "word": "선출김민석",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘4년 중임’ 띄운 이 대통령…임기 단축·총리 추천·여야 합의 ‘난관’ - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JY19ZRjU2YUs4MTRza1JkUy15YjcxZkFYWU43azFlU0NBYXZzbms3QzY3NVg3aTJnN3FtVm1fVklTQlpuT1RIU3FsUVI1MERlVFNia0FudXhWd9IBX0FVX3lxTE9mcVpjRmdQdUdqaXFBTXZKN3UyZG53aXY0U2lvdHg3blpnNHdnYkFuTTNrNGpobFVtUFRIWnYyeWppc0RlaFdWbGdRRnh6dmE0WEV2aTJSZmxJVWcyMkhV?oc=5",
+          "title": "민주, 오늘 당대표 선출…김민석 과반 얻을까, 선호투표 적용될까 - hani.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrbDBoVmNiZG9RM29aMlFIb25CbEtfS0ZKS3VTUWxvZDlYLUI1RWVrUDdybTlZZmxZYWk2QmFfLVdzYXdyYmhkQUhwSUF0Unp2cS1sZ2JaV3hMNXU2S29peGM3b0JvLU9YeFk3QmJoa2hBeTQy?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 12:13:00 GMT"
+          "published": "Mon, 17 Aug 2026 01:00:00 GMT"
         }
       ]
     },
     {
-      "word": "대통령임기",
+      "word": "과반",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘4년 중임’ 띄운 이 대통령…임기 단축·총리 추천·여야 합의 ‘난관’ - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JY19ZRjU2YUs4MTRza1JkUy15YjcxZkFYWU43azFlU0NBYXZzbms3QzY3NVg3aTJnN3FtVm1fVklTQlpuT1RIU3FsUVI1MERlVFNia0FudXhWd9IBX0FVX3lxTE9mcVpjRmdQdUdqaXFBTXZKN3UyZG53aXY0U2lvdHg3blpnNHdnYkFuTTNrNGpobFVtUFRIWnYyeWppc0RlaFdWbGdRRnh6dmE0WEV2aTJSZmxJVWcyMkhV?oc=5",
+          "title": "민주, 오늘 당대표 선출…김민석 과반 얻을까, 선호투표 적용될까 - hani.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrbDBoVmNiZG9RM29aMlFIb25CbEtfS0ZKS3VTUWxvZDlYLUI1RWVrUDdybTlZZmxZYWk2QmFfLVdzYXdyYmhkQUhwSUF0Unp2cS1sZ2JaV3hMNXU2S29peGM3b0JvLU9YeFk3QmJoa2hBeTQy?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 12:13:00 GMT"
+          "published": "Mon, 17 Aug 2026 01:00:00 GMT"
         }
       ]
     },
     {
-      "word": "단축총리",
+      "word": "얻을까",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘4년 중임’ 띄운 이 대통령…임기 단축·총리 추천·여야 합의 ‘난관’ - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JY19ZRjU2YUs4MTRza1JkUy15YjcxZkFYWU43azFlU0NBYXZzbms3QzY3NVg3aTJnN3FtVm1fVklTQlpuT1RIU3FsUVI1MERlVFNia0FudXhWd9IBX0FVX3lxTE9mcVpjRmdQdUdqaXFBTXZKN3UyZG53aXY0U2lvdHg3blpnNHdnYkFuTTNrNGpobFVtUFRIWnYyeWppc0RlaFdWbGdRRnh6dmE0WEV2aTJSZmxJVWcyMkhV?oc=5",
+          "title": "민주, 오늘 당대표 선출…김민석 과반 얻을까, 선호투표 적용될까 - hani.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrbDBoVmNiZG9RM29aMlFIb25CbEtfS0ZKS3VTUWxvZDlYLUI1RWVrUDdybTlZZmxZYWk2QmFfLVdzYXdyYmhkQUhwSUF0Unp2cS1sZ2JaV3hMNXU2S29peGM3b0JvLU9YeFk3QmJoa2hBeTQy?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 12:13:00 GMT"
+          "published": "Mon, 17 Aug 2026 01:00:00 GMT"
         }
       ]
     },
     {
-      "word": "추천여야",
+      "word": "선호투표",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘4년 중임’ 띄운 이 대통령…임기 단축·총리 추천·여야 합의 ‘난관’ - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JY19ZRjU2YUs4MTRza1JkUy15YjcxZkFYWU43azFlU0NBYXZzbms3QzY3NVg3aTJnN3FtVm1fVklTQlpuT1RIU3FsUVI1MERlVFNia0FudXhWd9IBX0FVX3lxTE9mcVpjRmdQdUdqaXFBTXZKN3UyZG53aXY0U2lvdHg3blpnNHdnYkFuTTNrNGpobFVtUFRIWnYyeWppc0RlaFdWbGdRRnh6dmE0WEV2aTJSZmxJVWcyMkhV?oc=5",
+          "title": "민주, 오늘 당대표 선출…김민석 과반 얻을까, 선호투표 적용될까 - hani.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrbDBoVmNiZG9RM29aMlFIb25CbEtfS0ZKS3VTUWxvZDlYLUI1RWVrUDdybTlZZmxZYWk2QmFfLVdzYXdyYmhkQUhwSUF0Unp2cS1sZ2JaV3hMNXU2S29peGM3b0JvLU9YeFk3QmJoa2hBeTQy?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 12:13:00 GMT"
+          "published": "Mon, 17 Aug 2026 01:00:00 GMT"
         }
       ]
     },
     {
-      "word": "합의",
+      "word": "적용될까",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘4년 중임’ 띄운 이 대통령…임기 단축·총리 추천·여야 합의 ‘난관’ - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JY19ZRjU2YUs4MTRza1JkUy15YjcxZkFYWU43azFlU0NBYXZzbms3QzY3NVg3aTJnN3FtVm1fVklTQlpuT1RIU3FsUVI1MERlVFNia0FudXhWd9IBX0FVX3lxTE9mcVpjRmdQdUdqaXFBTXZKN3UyZG53aXY0U2lvdHg3blpnNHdnYkFuTTNrNGpobFVtUFRIWnYyeWppc0RlaFdWbGdRRnh6dmE0WEV2aTJSZmxJVWcyMkhV?oc=5",
+          "title": "민주, 오늘 당대표 선출…김민석 과반 얻을까, 선호투표 적용될까 - hani.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrbDBoVmNiZG9RM29aMlFIb25CbEtfS0ZKS3VTUWxvZDlYLUI1RWVrUDdybTlZZmxZYWk2QmFfLVdzYXdyYmhkQUhwSUF0Unp2cS1sZ2JaV3hMNXU2S29peGM3b0JvLU9YeFk3QmJoa2hBeTQy?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 12:13:00 GMT"
+          "published": "Mon, 17 Aug 2026 01:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "국힘",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "국힘 ‘李 개헌 골프’ 후폭풍… “해당 의원 징계” 비난 빗발 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQk5XeEIwRGw5aU5pN0JYR0ZhTTd1bkZJZTZnQ3NkT20xRGZwMlJrLVZEdGZmZGhDU09raURWNk1BM01fZ1ZtU2xGcTJCVU8ta0xFaDhEd2h4WE9faHFsYkh3QWh0ajduZGdtVndCTXJIU2hNWXZQa0stSmRQXzlVMGxpR01BaVg5S0stNGdhTlA?oc=5",
+          "source": "Google News",
+          "published": "Sun, 16 Aug 2026 15:43:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "개헌",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "국힘 ‘李 개헌 골프’ 후폭풍… “해당 의원 징계” 비난 빗발 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQk5XeEIwRGw5aU5pN0JYR0ZhTTd1bkZJZTZnQ3NkT20xRGZwMlJrLVZEdGZmZGhDU09raURWNk1BM01fZ1ZtU2xGcTJCVU8ta0xFaDhEd2h4WE9faHFsYkh3QWh0ajduZGdtVndCTXJIU2hNWXZQa0stSmRQXzlVMGxpR01BaVg5S0stNGdhTlA?oc=5",
+          "source": "Google News",
+          "published": "Sun, 16 Aug 2026 15:43:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "골프",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "국힘 ‘李 개헌 골프’ 후폭풍… “해당 의원 징계” 비난 빗발 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQk5XeEIwRGw5aU5pN0JYR0ZhTTd1bkZJZTZnQ3NkT20xRGZwMlJrLVZEdGZmZGhDU09raURWNk1BM01fZ1ZtU2xGcTJCVU8ta0xFaDhEd2h4WE9faHFsYkh3QWh0ajduZGdtVndCTXJIU2hNWXZQa0stSmRQXzlVMGxpR01BaVg5S0stNGdhTlA?oc=5",
+          "source": "Google News",
+          "published": "Sun, 16 Aug 2026 15:43:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "후폭풍",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "국힘 ‘李 개헌 골프’ 후폭풍… “해당 의원 징계” 비난 빗발 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQk5XeEIwRGw5aU5pN0JYR0ZhTTd1bkZJZTZnQ3NkT20xRGZwMlJrLVZEdGZmZGhDU09raURWNk1BM01fZ1ZtU2xGcTJCVU8ta0xFaDhEd2h4WE9faHFsYkh3QWh0ajduZGdtVndCTXJIU2hNWXZQa0stSmRQXzlVMGxpR01BaVg5S0stNGdhTlA?oc=5",
+          "source": "Google News",
+          "published": "Sun, 16 Aug 2026 15:43:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "해당",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "국힘 ‘李 개헌 골프’ 후폭풍… “해당 의원 징계” 비난 빗발 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQk5XeEIwRGw5aU5pN0JYR0ZhTTd1bkZJZTZnQ3NkT20xRGZwMlJrLVZEdGZmZGhDU09raURWNk1BM01fZ1ZtU2xGcTJCVU8ta0xFaDhEd2h4WE9faHFsYkh3QWh0ajduZGdtVndCTXJIU2hNWXZQa0stSmRQXzlVMGxpR01BaVg5S0stNGdhTlA?oc=5",
+          "source": "Google News",
+          "published": "Sun, 16 Aug 2026 15:43:00 GMT"
         }
       ]
     }
