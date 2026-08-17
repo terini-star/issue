@@ -1,24 +1,62 @@
 {
   "language": "ko",
-  "last_updated": 1786966307.5426266,
+  "last_updated": 1786971386.4541447,
   "count": 40,
   "trends": [
     {
-      "word": "정부",
+      "word": "민주당",
+      "count": 2,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "민주당 대표 김민석 “국민 삶 책임지는 당으로” - hani.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BS3BFQWQzbXluczc0TlZWNG80cm1ZdklJcC1EQlJGeUhRTmtZM1EyQnpsNGFlMWxGYWpGdTZVQ3JTY0dkQWdKdFlQTEgwWFU0cndfTVVseERrQ2dTTWFsWlR2NkxhNFR0RmVTQmtLZmJ0S2I2?oc=5",
+          "source": "Google News",
+          "published": "Mon, 17 Aug 2026 11:42:00 GMT"
+        },
+        {
+          "title": "[속보] 민주당 최고위원에 최민희, 박선원, 서미화, 이성윤, 한민수 당선 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PQlYxUjRjQnBSWmczSjNKSVlWZTByc3kzSU5aRGdER1FuSlk4Q2VTdkpaMDdibzJEc3JKajdTQnJSU1ZFOS1RYmZ5Mjl2YkZpaFZkU2IycjRuMi1oV0JmdUFNN1ZFMXEwRU9rX3NMVTFSWmxTWUdJS9IBeEFVX3lxTE00WHdZaElCSUpLUHN6LUtmQXpKWTRDOFp4bk5YMHBBZ19ha0VPTEZReUhBdGxzcVNMRHBHRDRDZmlLS0JXSHQ5YXN0M05NdjRLVVZuYXhCVFl2RWNRLVFHZG1BVXJQTHd1c0w3elRUVzgxOThfaTNWYw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 17 Aug 2026 09:53:52 GMT"
+        }
+      ]
+    },
+    {
+      "word": "거제",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김민석, ‘18년 야인’ 거친 이재명 정부 첫 총리…여당 대표로 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0OWV6OVAxeGpPQkU2VXdPR2UxaFAxMEVfV3FsVFlEbU1Nam03bzVhdEhHZU5xVGl3WHdzODNqMkdPWHRMN3ZWbkFmWS1wd212Z05nU2RwMjdxb19YRWNILXFVRzFqQ0ZjN2c?oc=5",
+          "title": "거제 900㎜ '물폭탄'에 피해 속출…국가소방동원령 3차 발령 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pNktPODJWMWFieGtDTE1sSnUya3J3WTJycGlUX1pNNEw2UDJzTVVwQnVBZWZ1YlJwNXAxaEh0YmhxMFFOOGFHRUFZWE5pRWFkTXdQeHBxczFMWnl4?oc=5",
           "source": "Google News",
-          "published": "Mon, 17 Aug 2026 10:15:00 GMT"
+          "published": "Mon, 17 Aug 2026 11:36:00 GMT"
         },
         {
-          "title": "정부, ISA 납입한도 이월 유지 검토…부동산 세제는 큰 틀 유지 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ReFFoTGd1Qm5ETG9wNG9OTWZhQnBkN2tHMVNNbU9pNDJ4S180QTRkcm9CYTJMd1QydEI1NXhQeFRqVUdOMWFNd2FqclY2WjZJVnA5ZVMwS00zNzNX?oc=5",
+          "title": "거제 200년에 한번인 폭우…‘시간당 100㎜’ 극한호우 뉴노멀 됐다 - hani.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uanNhV1VxVDVuaTRIYndVQlF4VVhTYmVBMnVGZzJsWXFqaS1SYWlsLVBjUDBjeWZqRU1vUzZyaWRIdnNmMWw5Vjh4WU1lWjNVTDE2WFlGM1VkUk5SUEZhN3p5cVR1MGtKVm80Xw?oc=5",
           "source": "Google News",
-          "published": "Mon, 17 Aug 2026 07:01:00 GMT"
+          "published": "Mon, 17 Aug 2026 11:15:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "900",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "거제 900㎜ '물폭탄'에 피해 속출…국가소방동원령 3차 발령 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pNktPODJWMWFieGtDTE1sSnUya3J3WTJycGlUX1pNNEw2UDJzTVVwQnVBZWZ1YlJwNXAxaEh0YmhxMFFOOGFHRUFZWE5pRWFkTXdQeHBxczFMWnl4?oc=5",
+          "source": "Google News",
+          "published": "Mon, 17 Aug 2026 11:36:00 GMT"
+        },
+        {
+          "title": "'레이디 제인♥' 임현태, 주식 수익률 900% 실현…\"이젠 삼전닉스보다 이것\" (동상이몽2) - 조선비즈 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONGlsdXFheko1Z1d3YjNZcGxmdFFNdU52U3RIZFVrZVhfNEpMdkw4Y3lpeVBQeG5YNXhsYzgzWS04N3ZtUVdlbjJhRy1nSWVNSHhQdDNBUEthX2hlRjQ0cnM2eElMNzdRSldxdUd5R1hEbHIzWXpReDBOYUZaQmd3YXJkSzjSAZgBQVVfeXFMUDVuZEV1bngtWFp1eWxzT2dYLTM3MHpPd3BSUXNudU9qV2NETlJIQTdITzdNdHNjeFA1czVubk5DSmp5aEwtY1JtOXdlbFRYZXlRbThTWWNPSndrcU1uYm1KQ3F5NUxqUC1sUXpqNlNRRDQ0SEZkQkhUQ2JoRUpqTll4TEJmdS1KQ2k3REkyaFFJeGVZbzRfaGY?oc=5",
+          "source": "Google News",
+          "published": "Mon, 17 Aug 2026 09:20:00 GMT"
         }
       ]
     },
@@ -34,10 +72,10 @@
           "published": "Mon, 17 Aug 2026 09:14:00 GMT"
         },
         {
-          "title": "트럼프 ‘이란 돈줄’ 조이기…중국 자극에 유가 상승 딜레마 부딪혀 - 한겨레",
+          "title": "트럼프 ‘이란 돈줄’ 조이기…중국 자극에 유가 상승 딜레마 부딪혀 - hani.co.kr",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ybDk0Z2czZmV4ZzdkV3k2bnpLbWxzT19pbWpEa3BaZ1JJRmdRTjU2ekhXVWMtRklBZ3pEd045U2tlRXpaMUpSaEVyQTM4YzFjSjJ4SDdxSXFja3JKWmZLMHpBalJBb1Z6bmFxbEFPVzk1SVU?oc=5",
           "source": "Google News",
-          "published": "Mon, 17 Aug 2026 10:02:00 GMT"
+          "published": "Mon, 17 Aug 2026 11:07:00 GMT"
         }
       ]
     },
@@ -72,7 +110,7 @@
           "published": "Mon, 17 Aug 2026 06:52:47 GMT"
         },
         {
-          "title": "하영 증조부 논란에 “우리 집안은?”…친일파·독립운동가 찾아주는 ‘스캐너’ 인기 - khan.co.kr",
+          "title": "‘우리 집안에 친일파와 독립운동가 다 있다고?’···하영 증조부 논란에 ‘조상 조회’ 유행 - 경향신문",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aUGFkX0Z5eDZBSzBnZFd2VGRJU05uUDdBYTdvbzFXUThUc2YtaEdMaUdra0FDcGdIZ2lNQklLV0tWUFotQmN6NXhCSmRLY1MtYlNzZERIX2lmd9IBX0FVX3lxTE1xcHg4bGlwYllNak9pOEY2UlpRRm02MW16NGl6aW1QY0hCbTFVaGdSVklyUUxEb1hkZ1FkWWZUUGlYNmRWZEM4Z2llYWMtV3FEN0Y2enpPVDI4WDJ1bWN3?oc=5",
           "source": "Google News",
           "published": "Mon, 17 Aug 2026 07:25:00 GMT"
@@ -80,53 +118,28 @@
       ]
     },
     {
-      "word": "대통령",
-      "count": 2,
-      "category": "PERSON",
-      "articles": [
-        {
-          "title": "이 대통령 지지율 43%‥5주 연속 내림세 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9yU3RYbmNXQnNTZWJreFRfRkh1QnlmY3N6cDVDMDBJOTdxZ1FUaG1Tdk5VUWRYMTRCRjZhd1d1Yi12eHJTN3BKT2g4NHU2RTgyYTUzaG11MWI0VER2UkNWUzdJRzBXdFYzbTMzUFpJbFRhVXlYMUFtYdIBeEFVX3lxTE9JV3k3ZC1nQ0NTRUl3M1RxcTJ6UG8zbnF3QThCWjczenFLR3pGQWYyZ3lMQms1eGhOWnhXQWtMck5jZ2lpQmVRd1d6aV9lWkYyZFZQVmFocW4yQXZiTTBjVUtzTGt4b0M3TW94dmkwMENyX2E2MnZkOQ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 17 Aug 2026 02:04:35 GMT"
-        },
-        {
-          "title": "李대통령, 인니 강진에 \"안타까움 금할 수 없다…깊은 위로 전해\" - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0ZXlNTE4yZHNJY3FhbEhkS01GRHFPUGZxVzloYlF1Nk53WjZRbE45c0xWWDhJb2ozYWVxaDgxYnBWWFVjSHhmd1djYWJ3SEJuMFZFVDF0LUtBUQ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 17 Aug 2026 11:01:51 GMT"
-        }
-      ]
-    },
-    {
-      "word": "상승",
+      "word": "조직",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 ‘이란 돈줄’ 조이기…중국 자극에 유가 상승 딜레마 부딪혀 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ybDk0Z2czZmV4ZzdkV3k2bnpLbWxzT19pbWpEa3BaZ1JJRmdRTjU2ekhXVWMtRklBZ3pEd045U2tlRXpaMUpSaEVyQTM4YzFjSjJ4SDdxSXFja3JKWmZLMHpBalJBb1Z6bmFxbEFPVzk1SVU?oc=5",
+          "title": "패배한 정청래 “조직은 바람 못 이겨, 이번엔 조직이 너무 셌다” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vVHA3WVpReDluWmxQZlV0MEgyUE1HWm5faWpIdkNJamRzRGNqQmNwcV9KZWtvM2ktNGxnLXhQNk5lUWFETGRUaEZPejkwTVB4WWlBNmZKMThiam9EZ0cyOFIzWTBjSHpQaVJQeFN0cm9hOS1sWGFZ0gFmQVVfeXFMT1dUTU1MQ29HVlZBUUF5VU5mU21zNEhISEZoWUU3UzBrSW9KUTlneUktYmVWU0tycjRjd2xURWl0X0NyMy1seWk1V0JmN2dLZkE4a1E0YVJ4cUVuQ0IzYk1YVFZQMF9B?oc=5",
           "source": "Google News",
-          "published": "Mon, 17 Aug 2026 10:02:00 GMT"
-        },
-        {
-          "title": "서울 아파트 월세화 '뚜렷'…7년새 월세 비중 7.8%p 상승 - 뉴스토마토",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvbVFMMlRYOHlYbnpfQW8zQnhCWTVPUHo0bUoyZ3I0UEREeFZweGlJUFF3QXQtVUJRcTcxUFFOVk80djhVS0dVdlhwYXNqZHhOWU0yeWV3c3IxZUcteUlTRA?oc=5",
-          "source": "Google News",
-          "published": "Mon, 17 Aug 2026 04:51:51 GMT"
+          "published": "Mon, 17 Aug 2026 11:54:00 GMT"
         }
       ]
     },
     {
-      "word": "월세",
+      "word": "투자",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "서울 아파트 월세화 '뚜렷'…7년새 월세 비중 7.8%p 상승 - 뉴스토마토",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvbVFMMlRYOHlYbnpfQW8zQnhCWTVPUHo0bUoyZ3I0UEREeFZweGlJUFF3QXQtVUJRcTcxUFFOVk80djhVS0dVdlhwYXNqZHhOWU0yeWV3c3IxZUcteUlTRA?oc=5",
+          "title": "\"中헤지펀드들, 2분기 美 AI기업 투자 줄이고 메모리 투자 확대\" - 연합뉴스 한민족센터",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BdEY3TUxJak9maTc4amdxVFEyMnVBN1M2clB0eWhINkFuZnpCbnoteUhmUzdTSnozaVlTLU4xanZVYmFveUw4X3hscmdaOUVmZG9BbFQ5WnllUnhxYUUtemJpd2JjS1BPdnhuNTgxelVGUHd5?oc=5",
           "source": "Google News",
-          "published": "Mon, 17 Aug 2026 04:51:51 GMT"
+          "published": "Mon, 17 Aug 2026 10:00:53 GMT"
         }
       ]
     },
@@ -144,6 +157,25 @@
       ]
     },
     {
+      "word": "감독",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘한국 야구의 전설’ 백인천 전 감독 별세…야구계 추모 물결 - 전민일보",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MTEdrMktwU3M1cDh6eTdvOG00UUNMWktvbnBQbUVPdGo5TmRkd0UyU1NCSVdqMmVTc1ViNDBCNTNOdmUxTTdqRjQ0bjI1cnhrenJCemc4ZGt0T3NWVV9fYUNJeTNZdw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 17 Aug 2026 05:27:18 GMT"
+        },
+        {
+          "title": "축구협회, 대표팀 임시 감독 이번주 면접…포옛은 서류 전형서 탈락 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44eXRtb2RQODlxTTdkb1hPcXZMbGNYWGhvWm5pSzgzSGhqTWhPQktNMllmaElPNGNlaHR0X1FGN24tVmo3dG9sbU91MEVWSVpmY3VEekdNbDAwMjkxTDdtRUE3bkxPc0s1eTl0NWJveVZ0eFR5MGfSAWZBVV95cUxQUjgyM2NmWFlkWHJ2clRpa292Vi1xeDhTdXpvYkFJVC1GYTlOM3RDc21jRmwzZXFidFA2dFQ4MEZlVUpWUTl6YlI4NWFvZklOVno2dGVjamFwaEt2Yjd5SWtHeEthQlE?oc=5",
+          "source": "Google News",
+          "published": "Mon, 17 Aug 2026 10:25:16 GMT"
+        }
+      ]
+    },
+    {
       "word": "치매",
       "count": 2,
       "category": "NOUN",
@@ -157,210 +189,132 @@
       ]
     },
     {
-      "word": "김민석",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김민석, ‘18년 야인’ 거친 이재명 정부 첫 총리…여당 대표로 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0OWV6OVAxeGpPQkU2VXdPR2UxaFAxMEVfV3FsVFlEbU1Nam03bzVhdEhHZU5xVGl3WHdzODNqMkdPWHRMN3ZWbkFmWS1wd212Z05nU2RwMjdxb19YRWNILXFVRzFqQ0ZjN2c?oc=5",
-          "source": "Google News",
-          "published": "Mon, 17 Aug 2026 10:15:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "18년",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김민석, ‘18년 야인’ 거친 이재명 정부 첫 총리…여당 대표로 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0OWV6OVAxeGpPQkU2VXdPR2UxaFAxMEVfV3FsVFlEbU1Nam03bzVhdEhHZU5xVGl3WHdzODNqMkdPWHRMN3ZWbkFmWS1wd212Z05nU2RwMjdxb19YRWNILXFVRzFqQ0ZjN2c?oc=5",
-          "source": "Google News",
-          "published": "Mon, 17 Aug 2026 10:15:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "야인",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김민석, ‘18년 야인’ 거친 이재명 정부 첫 총리…여당 대표로 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0OWV6OVAxeGpPQkU2VXdPR2UxaFAxMEVfV3FsVFlEbU1Nam03bzVhdEhHZU5xVGl3WHdzODNqMkdPWHRMN3ZWbkFmWS1wd212Z05nU2RwMjdxb19YRWNILXFVRzFqQ0ZjN2c?oc=5",
-          "source": "Google News",
-          "published": "Mon, 17 Aug 2026 10:15:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "거친",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김민석, ‘18년 야인’ 거친 이재명 정부 첫 총리…여당 대표로 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0OWV6OVAxeGpPQkU2VXdPR2UxaFAxMEVfV3FsVFlEbU1Nam03bzVhdEhHZU5xVGl3WHdzODNqMkdPWHRMN3ZWbkFmWS1wd212Z05nU2RwMjdxb19YRWNILXFVRzFqQ0ZjN2c?oc=5",
-          "source": "Google News",
-          "published": "Mon, 17 Aug 2026 10:15:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "이재명",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김민석, ‘18년 야인’ 거친 이재명 정부 첫 총리…여당 대표로 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0OWV6OVAxeGpPQkU2VXdPR2UxaFAxMEVfV3FsVFlEbU1Nam03bzVhdEhHZU5xVGl3WHdzODNqMkdPWHRMN3ZWbkFmWS1wd212Z05nU2RwMjdxb19YRWNILXFVRzFqQ0ZjN2c?oc=5",
-          "source": "Google News",
-          "published": "Mon, 17 Aug 2026 10:15:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "총리여당",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "김민석, ‘18년 야인’ 거친 이재명 정부 첫 총리…여당 대표로 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0OWV6OVAxeGpPQkU2VXdPR2UxaFAxMEVfV3FsVFlEbU1Nam03bzVhdEhHZU5xVGl3WHdzODNqMkdPWHRMN3ZWbkFmWS1wd212Z05nU2RwMjdxb19YRWNILXFVRzFqQ0ZjN2c?oc=5",
-          "source": "Google News",
-          "published": "Mon, 17 Aug 2026 10:15:00 GMT"
-        }
-      ]
-    },
-    {
       "word": "대표",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김민석, ‘18년 야인’ 거친 이재명 정부 첫 총리…여당 대표로 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0OWV6OVAxeGpPQkU2VXdPR2UxaFAxMEVfV3FsVFlEbU1Nam03bzVhdEhHZU5xVGl3WHdzODNqMkdPWHRMN3ZWbkFmWS1wd212Z05nU2RwMjdxb19YRWNILXFVRzFqQ0ZjN2c?oc=5",
+          "title": "민주당 대표 김민석 “국민 삶 책임지는 당으로” - hani.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BS3BFQWQzbXluczc0TlZWNG80cm1ZdklJcC1EQlJGeUhRTmtZM1EyQnpsNGFlMWxGYWpGdTZVQ3JTY0dkQWdKdFlQTEgwWFU0cndfTVVseERrQ2dTTWFsWlR2NkxhNFR0RmVTQmtLZmJ0S2I2?oc=5",
           "source": "Google News",
-          "published": "Mon, 17 Aug 2026 10:15:00 GMT"
+          "published": "Mon, 17 Aug 2026 11:42:00 GMT"
         }
       ]
     },
     {
-      "word": "르포토사",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "[르포]“토사 속에 사람 다리 보이는데 빼내질 못해”···아파트가 산사태에 관통당했다 - khan.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FN25YZXpEVXVGZmVnWUtZU1N6RDVTYXFMYnFJdE5ZQlZUdS0tZG1ZOVEwRmRWOUhNQmwxV0RsZjVaZWx4QkJ5a0RxNDNKSGxCWjJZZzlOalJyd9IBX0FVX3lxTE9YQklBWGt0WFZ0bWRqdHNnZFpDWnFYZDhUdTJLRmdYX1J4eHYtbkVvd3g0ejBKUkh4NVRwTWthbnNLSllHakszcGxTWURUd1pqTnFJVjBTbWY5M3hmQVcw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 17 Aug 2026 07:53:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "속에",
+      "word": "김민석",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[르포]“토사 속에 사람 다리 보이는데 빼내질 못해”···아파트가 산사태에 관통당했다 - khan.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FN25YZXpEVXVGZmVnWUtZU1N6RDVTYXFMYnFJdE5ZQlZUdS0tZG1ZOVEwRmRWOUhNQmwxV0RsZjVaZWx4QkJ5a0RxNDNKSGxCWjJZZzlOalJyd9IBX0FVX3lxTE9YQklBWGt0WFZ0bWRqdHNnZFpDWnFYZDhUdTJLRmdYX1J4eHYtbkVvd3g0ejBKUkh4NVRwTWthbnNLSllHakszcGxTWURUd1pqTnFJVjBTbWY5M3hmQVcw?oc=5",
+          "title": "민주당 대표 김민석 “국민 삶 책임지는 당으로” - hani.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BS3BFQWQzbXluczc0TlZWNG80cm1ZdklJcC1EQlJGeUhRTmtZM1EyQnpsNGFlMWxGYWpGdTZVQ3JTY0dkQWdKdFlQTEgwWFU0cndfTVVseERrQ2dTTWFsWlR2NkxhNFR0RmVTQmtLZmJ0S2I2?oc=5",
           "source": "Google News",
-          "published": "Mon, 17 Aug 2026 07:53:00 GMT"
+          "published": "Mon, 17 Aug 2026 11:42:00 GMT"
         }
       ]
     },
     {
-      "word": "사람",
+      "word": "국민",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[르포]“토사 속에 사람 다리 보이는데 빼내질 못해”···아파트가 산사태에 관통당했다 - khan.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FN25YZXpEVXVGZmVnWUtZU1N6RDVTYXFMYnFJdE5ZQlZUdS0tZG1ZOVEwRmRWOUhNQmwxV0RsZjVaZWx4QkJ5a0RxNDNKSGxCWjJZZzlOalJyd9IBX0FVX3lxTE9YQklBWGt0WFZ0bWRqdHNnZFpDWnFYZDhUdTJLRmdYX1J4eHYtbkVvd3g0ejBKUkh4NVRwTWthbnNLSllHakszcGxTWURUd1pqTnFJVjBTbWY5M3hmQVcw?oc=5",
+          "title": "민주당 대표 김민석 “국민 삶 책임지는 당으로” - hani.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BS3BFQWQzbXluczc0TlZWNG80cm1ZdklJcC1EQlJGeUhRTmtZM1EyQnpsNGFlMWxGYWpGdTZVQ3JTY0dkQWdKdFlQTEgwWFU0cndfTVVseERrQ2dTTWFsWlR2NkxhNFR0RmVTQmtLZmJ0S2I2?oc=5",
           "source": "Google News",
-          "published": "Mon, 17 Aug 2026 07:53:00 GMT"
+          "published": "Mon, 17 Aug 2026 11:42:00 GMT"
         }
       ]
     },
     {
-      "word": "다리",
+      "word": "책임지",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[르포]“토사 속에 사람 다리 보이는데 빼내질 못해”···아파트가 산사태에 관통당했다 - khan.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FN25YZXpEVXVGZmVnWUtZU1N6RDVTYXFMYnFJdE5ZQlZUdS0tZG1ZOVEwRmRWOUhNQmwxV0RsZjVaZWx4QkJ5a0RxNDNKSGxCWjJZZzlOalJyd9IBX0FVX3lxTE9YQklBWGt0WFZ0bWRqdHNnZFpDWnFYZDhUdTJLRmdYX1J4eHYtbkVvd3g0ejBKUkh4NVRwTWthbnNLSllHakszcGxTWURUd1pqTnFJVjBTbWY5M3hmQVcw?oc=5",
+          "title": "민주당 대표 김민석 “국민 삶 책임지는 당으로” - hani.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BS3BFQWQzbXluczc0TlZWNG80cm1ZdklJcC1EQlJGeUhRTmtZM1EyQnpsNGFlMWxGYWpGdTZVQ3JTY0dkQWdKdFlQTEgwWFU0cndfTVVseERrQ2dTTWFsWlR2NkxhNFR0RmVTQmtLZmJ0S2I2?oc=5",
           "source": "Google News",
-          "published": "Mon, 17 Aug 2026 07:53:00 GMT"
+          "published": "Mon, 17 Aug 2026 11:42:00 GMT"
         }
       ]
     },
     {
-      "word": "보이는데",
+      "word": "당으",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[르포]“토사 속에 사람 다리 보이는데 빼내질 못해”···아파트가 산사태에 관통당했다 - khan.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FN25YZXpEVXVGZmVnWUtZU1N6RDVTYXFMYnFJdE5ZQlZUdS0tZG1ZOVEwRmRWOUhNQmwxV0RsZjVaZWx4QkJ5a0RxNDNKSGxCWjJZZzlOalJyd9IBX0FVX3lxTE9YQklBWGt0WFZ0bWRqdHNnZFpDWnFYZDhUdTJLRmdYX1J4eHYtbkVvd3g0ejBKUkh4NVRwTWthbnNLSllHakszcGxTWURUd1pqTnFJVjBTbWY5M3hmQVcw?oc=5",
+          "title": "민주당 대표 김민석 “국민 삶 책임지는 당으로” - hani.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BS3BFQWQzbXluczc0TlZWNG80cm1ZdklJcC1EQlJGeUhRTmtZM1EyQnpsNGFlMWxGYWpGdTZVQ3JTY0dkQWdKdFlQTEgwWFU0cndfTVVseERrQ2dTTWFsWlR2NkxhNFR0RmVTQmtLZmJ0S2I2?oc=5",
           "source": "Google News",
-          "published": "Mon, 17 Aug 2026 07:53:00 GMT"
+          "published": "Mon, 17 Aug 2026 11:42:00 GMT"
         }
       ]
     },
     {
-      "word": "빼내질",
+      "word": "물폭탄",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[르포]“토사 속에 사람 다리 보이는데 빼내질 못해”···아파트가 산사태에 관통당했다 - khan.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FN25YZXpEVXVGZmVnWUtZU1N6RDVTYXFMYnFJdE5ZQlZUdS0tZG1ZOVEwRmRWOUhNQmwxV0RsZjVaZWx4QkJ5a0RxNDNKSGxCWjJZZzlOalJyd9IBX0FVX3lxTE9YQklBWGt0WFZ0bWRqdHNnZFpDWnFYZDhUdTJLRmdYX1J4eHYtbkVvd3g0ejBKUkh4NVRwTWthbnNLSllHakszcGxTWURUd1pqTnFJVjBTbWY5M3hmQVcw?oc=5",
+          "title": "거제 900㎜ '물폭탄'에 피해 속출…국가소방동원령 3차 발령 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pNktPODJWMWFieGtDTE1sSnUya3J3WTJycGlUX1pNNEw2UDJzTVVwQnVBZWZ1YlJwNXAxaEh0YmhxMFFOOGFHRUFZWE5pRWFkTXdQeHBxczFMWnl4?oc=5",
           "source": "Google News",
-          "published": "Mon, 17 Aug 2026 07:53:00 GMT"
+          "published": "Mon, 17 Aug 2026 11:36:00 GMT"
         }
       ]
     },
     {
-      "word": "못해아파트",
+      "word": "피해",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[르포]“토사 속에 사람 다리 보이는데 빼내질 못해”···아파트가 산사태에 관통당했다 - khan.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FN25YZXpEVXVGZmVnWUtZU1N6RDVTYXFMYnFJdE5ZQlZUdS0tZG1ZOVEwRmRWOUhNQmwxV0RsZjVaZWx4QkJ5a0RxNDNKSGxCWjJZZzlOalJyd9IBX0FVX3lxTE9YQklBWGt0WFZ0bWRqdHNnZFpDWnFYZDhUdTJLRmdYX1J4eHYtbkVvd3g0ejBKUkh4NVRwTWthbnNLSllHakszcGxTWURUd1pqTnFJVjBTbWY5M3hmQVcw?oc=5",
+          "title": "거제 900㎜ '물폭탄'에 피해 속출…국가소방동원령 3차 발령 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pNktPODJWMWFieGtDTE1sSnUya3J3WTJycGlUX1pNNEw2UDJzTVVwQnVBZWZ1YlJwNXAxaEh0YmhxMFFOOGFHRUFZWE5pRWFkTXdQeHBxczFMWnl4?oc=5",
           "source": "Google News",
-          "published": "Mon, 17 Aug 2026 07:53:00 GMT"
+          "published": "Mon, 17 Aug 2026 11:36:00 GMT"
         }
       ]
     },
     {
-      "word": "산사태",
+      "word": "속출국가소방동원령",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[르포]“토사 속에 사람 다리 보이는데 빼내질 못해”···아파트가 산사태에 관통당했다 - khan.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FN25YZXpEVXVGZmVnWUtZU1N6RDVTYXFMYnFJdE5ZQlZUdS0tZG1ZOVEwRmRWOUhNQmwxV0RsZjVaZWx4QkJ5a0RxNDNKSGxCWjJZZzlOalJyd9IBX0FVX3lxTE9YQklBWGt0WFZ0bWRqdHNnZFpDWnFYZDhUdTJLRmdYX1J4eHYtbkVvd3g0ejBKUkh4NVRwTWthbnNLSllHakszcGxTWURUd1pqTnFJVjBTbWY5M3hmQVcw?oc=5",
+          "title": "거제 900㎜ '물폭탄'에 피해 속출…국가소방동원령 3차 발령 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pNktPODJWMWFieGtDTE1sSnUya3J3WTJycGlUX1pNNEw2UDJzTVVwQnVBZWZ1YlJwNXAxaEh0YmhxMFFOOGFHRUFZWE5pRWFkTXdQeHBxczFMWnl4?oc=5",
           "source": "Google News",
-          "published": "Mon, 17 Aug 2026 07:53:00 GMT"
+          "published": "Mon, 17 Aug 2026 11:36:00 GMT"
         }
       ]
     },
     {
-      "word": "관통당",
+      "word": "3차",
       "count": 1,
-      "category": "ORGANIZATION",
+      "category": "NOUN",
       "articles": [
         {
-          "title": "[르포]“토사 속에 사람 다리 보이는데 빼내질 못해”···아파트가 산사태에 관통당했다 - khan.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FN25YZXpEVXVGZmVnWUtZU1N6RDVTYXFMYnFJdE5ZQlZUdS0tZG1ZOVEwRmRWOUhNQmwxV0RsZjVaZWx4QkJ5a0RxNDNKSGxCWjJZZzlOalJyd9IBX0FVX3lxTE9YQklBWGt0WFZ0bWRqdHNnZFpDWnFYZDhUdTJLRmdYX1J4eHYtbkVvd3g0ejBKUkh4NVRwTWthbnNLSllHakszcGxTWURUd1pqTnFJVjBTbWY5M3hmQVcw?oc=5",
+          "title": "거제 900㎜ '물폭탄'에 피해 속출…국가소방동원령 3차 발령 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pNktPODJWMWFieGtDTE1sSnUya3J3WTJycGlUX1pNNEw2UDJzTVVwQnVBZWZ1YlJwNXAxaEh0YmhxMFFOOGFHRUFZWE5pRWFkTXdQeHBxczFMWnl4?oc=5",
           "source": "Google News",
-          "published": "Mon, 17 Aug 2026 07:53:00 GMT"
+          "published": "Mon, 17 Aug 2026 11:36:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "발령",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "거제 900㎜ '물폭탄'에 피해 속출…국가소방동원령 3차 발령 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pNktPODJWMWFieGtDTE1sSnUya3J3WTJycGlUX1pNNEw2UDJzTVVwQnVBZWZ1YlJwNXAxaEh0YmhxMFFOOGFHRUFZWE5pRWFkTXdQeHBxczFMWnl4?oc=5",
+          "source": "Google News",
+          "published": "Mon, 17 Aug 2026 11:36:00 GMT"
         }
       ]
     },
@@ -556,6 +510,58 @@
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvMDdLVllTU0x0dUN1Q1ZPYXpHZGtNZ1JIS1BDZjVONTg3d2VES1pfdGpBOXZxQ0VfTWIxS0Q0X0YtOFVQeU9Kc3dqTV93TURUcERzc3pvcjFHVlg1ZTlCSmRuX2p6NXpqM1BZNDVLNU5pcWsxYjFtLdIBeEFVX3lxTFA2M0Z3ZnZaNWZEWU9ZbGhKN3JBSHRfV3RZejhLYVJUS1NsQjQ4d2pJMW5DZnNxOFdIMDhVN2NTX012bUl1NjJuZ1dZOHVDcFZJOG1EdUdOeDhtV1Fsdk1aM0VHMUlHOEJTN05qMS1ReGlaa3JwLWpraw?oc=5",
           "source": "Google News",
           "published": "Mon, 17 Aug 2026 06:52:47 GMT"
+        }
+      ]
+    },
+    {
+      "word": "징계",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "'5·18 폄훼 논란' 이진숙, 국힘 윤리위 제소 \"최고 수준 징계 요청\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvMDdLVllTU0x0dUN1Q1ZPYXpHZGtNZ1JIS1BDZjVONTg3d2VES1pfdGpBOXZxQ0VfTWIxS0Q0X0YtOFVQeU9Kc3dqTV93TURUcERzc3pvcjFHVlg1ZTlCSmRuX2p6NXpqM1BZNDVLNU5pcWsxYjFtLdIBeEFVX3lxTFA2M0Z3ZnZaNWZEWU9ZbGhKN3JBSHRfV3RZejhLYVJUS1NsQjQ4d2pJMW5DZnNxOFdIMDhVN2NTX012bUl1NjJuZ1dZOHVDcFZJOG1EdUdOeDhtV1Fsdk1aM0VHMUlHOEJTN05qMS1ReGlaa3JwLWpraw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 17 Aug 2026 06:52:47 GMT"
+        }
+      ]
+    },
+    {
+      "word": "요청",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "'5·18 폄훼 논란' 이진숙, 국힘 윤리위 제소 \"최고 수준 징계 요청\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvMDdLVllTU0x0dUN1Q1ZPYXpHZGtNZ1JIS1BDZjVONTg3d2VES1pfdGpBOXZxQ0VfTWIxS0Q0X0YtOFVQeU9Kc3dqTV93TURUcERzc3pvcjFHVlg1ZTlCSmRuX2p6NXpqM1BZNDVLNU5pcWsxYjFtLdIBeEFVX3lxTFA2M0Z3ZnZaNWZEWU9ZbGhKN3JBSHRfV3RZejhLYVJUS1NsQjQ4d2pJMW5DZnNxOFdIMDhVN2NTX012bUl1NjJuZ1dZOHVDcFZJOG1EdUdOeDhtV1Fsdk1aM0VHMUlHOEJTN05qMS1ReGlaa3JwLWpraw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 17 Aug 2026 06:52:47 GMT"
+        }
+      ]
+    },
+    {
+      "word": "200년",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "거제 200년에 한번인 폭우…‘시간당 100㎜’ 극한호우 뉴노멀 됐다 - hani.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uanNhV1VxVDVuaTRIYndVQlF4VVhTYmVBMnVGZzJsWXFqaS1SYWlsLVBjUDBjeWZqRU1vUzZyaWRIdnNmMWw5Vjh4WU1lWjNVTDE2WFlGM1VkUk5SUEZhN3p5cVR1MGtKVm80Xw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 17 Aug 2026 11:15:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "한번인",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "거제 200년에 한번인 폭우…‘시간당 100㎜’ 극한호우 뉴노멀 됐다 - hani.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uanNhV1VxVDVuaTRIYndVQlF4VVhTYmVBMnVGZzJsWXFqaS1SYWlsLVBjUDBjeWZqRU1vUzZyaWRIdnNmMWw5Vjh4WU1lWjNVTDE2WFlGM1VkUk5SUEZhN3p5cVR1MGtKVm80Xw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 17 Aug 2026 11:15:00 GMT"
         }
       ]
     }
