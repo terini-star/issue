@@ -1,11 +1,30 @@
 {
   "language": "ko",
-  "last_updated": 1786945220.817176,
+  "last_updated": 1786950465.859547,
   "count": 40,
   "trends": [
     {
+      "word": "사망",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "거제 780㎜ ‘물폭탄’에 아파트 매몰…산사태로 1명 사망, 2명 부상 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhdTBtRVJjX0JXXzJrdEs1ZDZnbUtmODh1RV92WVF6a1JtQUd0eE4tVS12X3EzQzJjWVBXS196eDk5NjFYT25HN3J0TU1GLU1GcGZyMTFMQjBPUW9qbl8wRE9SYkk?oc=5",
+          "source": "Google News",
+          "published": "Mon, 17 Aug 2026 05:51:00 GMT"
+        },
+        {
+          "title": "인도네시아 규모 7.7 강진에 53명 사망 - 천지일보",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10c0pvWEpSYVhISE83TGN4N3NJWmVtTUk4M3NWQ25jTE5lMzVXUmRnaUU3VGI2SlpwMW1XYzFaby1nQ01VSF8wYU1XNDQwRzk5NUZONnRsWHJZdkwzamxOVk5tdUJzc2VuWmc?oc=5",
+          "source": "Google News",
+          "published": "Mon, 17 Aug 2026 05:04:54 GMT"
+        }
+      ]
+    },
+    {
       "word": "논란",
-      "count": 3,
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
@@ -15,54 +34,29 @@
           "published": "Mon, 17 Aug 2026 04:26:49 GMT"
         },
         {
-          "title": "美중부사령관, 장기파병 투신시도 논란 '링컨함' 전격 방문 - 노컷뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42ZzlCQ2xHc09yT1dJR1daNWtBY3JwQXNKMUFTazlYRE5mVmtiNmtBa2syb0Ixa0Y4QkVRWHlJZy1BVk1ZTHd4YWtXT0w3RDk3VFE?oc=5",
+          "title": "‘증조부 친일 논란’ 하영, 29세에 “첫 한복” 발언 파묘 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04NlQ5ZW5ON25uQ3ZBTWljcHVTY3RyN1NYb2pVM0pVVWx1ZHRuTFhMa2V6Qks1TDQzREc5QzBORzZXY0IzVDZnem03N2JFa0VLbUhGag?oc=5",
           "source": "Google News",
-          "published": "Sun, 16 Aug 2026 21:30:00 GMT"
-        },
-        {
-          "title": "BTS 지민, 美 한복판서 '태극기 무대의상'…친일파 논란에 운 연예계에 비춘 빛[SC이슈] - chosun.com",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcUUxdHo5di1Kck1kRjl5MUFuWmhDTUZpVGdveHFFWmJPb29pNndhUkhDNndLTnQyTXY3MVQ0Q0lGRWIwT3pHMGhoSFQ1aTVILTQwTjlmWG5vWmNncC1oVjZxeHFMSEFQVXdCX0VPZG5TNnlrRXhyZjluaC1ReFA5eDNPWnpucTFRMlIyel9TdVJfcDBx?oc=5",
-          "source": "Google News",
-          "published": "Mon, 17 Aug 2026 00:05:00 GMT"
+          "published": "Mon, 17 Aug 2026 02:07:45 GMT"
         }
       ]
     },
     {
-      "word": "연속",
+      "word": "대통령",
       "count": 2,
-      "category": "NOUN",
+      "category": "PERSON",
       "articles": [
         {
-          "title": "이 대통령 지지율 43%‥5주 연속 내림세 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9yU3RYbmNXQnNTZWJreFRfRkh1QnlmY3N6cDVDMDBJOTdxZ1FUaG1Tdk5VUWRYMTRCRjZhd1d1Yi12eHJTN3BKT2g4NHU2RTgyYTUzaG11MWI0VER2UkNWUzdJRzBXdFYzbTMzUFpJbFRhVXlYMUFtYdIBeEFVX3lxTE9JV3k3ZC1nQ0NTRUl3M1RxcTJ6UG8zbnF3QThCWjczenFLR3pGQWYyZ3lMQms1eGhOWnhXQWtMck5jZ2lpQmVRd1d6aV9lWkYyZFZQVmFocW4yQXZiTTBjVUtzTGt4b0M3TW94dmkwMENyX2E2MnZkOQ?oc=5",
+          "title": "[속보] 李대통령 지지율 43.0% '취임 후 최저'…5주째 하락 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XeXJmNDR3aFJGcjhMSTBHN0V0YTVRNWtycGtZM1pDd0VlM3JVLVFKLWZzNTQzRGc2WklmVmdYRW5qQ2xjQnpfTnVTSkZ5NjhlUmNOa19JZ1lTZw?oc=5",
           "source": "Google News",
-          "published": "Mon, 17 Aug 2026 02:04:35 GMT"
+          "published": "Sun, 16 Aug 2026 23:06:24 GMT"
         },
         {
-          "title": "이정후 2경기 연속 안타·타율 0.292...김하성은 벤치 - ytn.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKMUloOVh1b1ZYOFhOZVp5cy1oSjBlaUdwZzBNWWgzd1Jwd1lkTXI3XzMyUEthVmxPV1poa3BTbFZTQWtlaGs5OE4wcm9Gcmpkb0wtQXdlWWpGV1ZBTWc?oc=5",
+          "title": "이 대통령 \"민주당, 하나일 때 가장 강해…새 지도부 중심으로 뭉쳐야\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBra3hkYnVmWjJ1U3VVXzBEVloyOXNraHpGc0ZPU0tEcEEzSC10b1dwM3NMNGktaVNCLThIWU5Ld0ZUUEhlbFdjMnp6b2VyZEhfWEowSDB2U0U0cXExaWV3VkQ4Zy1uaUk?oc=5",
           "source": "Google News",
-          "published": "Mon, 17 Aug 2026 00:40:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "피해",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "해남보다 비 적게 내렸는데…목포에 비 피해 80% 쏠린 이유 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tZ3N6ZDVrRXB3cXNhS21EZllPUERheXhHQzd2RjlFSEc2eU9SNmJ5b1BxS0VuRTlQamcxZ1d4bHZ5WWtQSHhiUDBfUUJOWkVXdW5QVGY0VDNJeDFXbmI1dw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 17 Aug 2026 04:40:00 GMT"
-        },
-        {
-          "title": "가뭄에 단비 내렸지만···남부 폭우에 피해 잇따라 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3U1FjTTJyaENjNFItWHVxdXVqM3Y5UFZGckVLSUtONFRkY0dtWlhIeWxKUzhVUFRvQ3A0dTBOU21RYmE4WktKM0xIY0NXZG0xY2NZU2JlNHFEZ9IBX0FVX3lxTE5iRXpkekwtdG9CREJrVmlhNm9oNV9nUk9Sb3hTc01Cd2NaN3J2TzVxaWRQTnRtenAwZ1M5V0pqTGFWOEJ1SzNZcUltWnhRSjhuZFZGeTFwdHdNRzhzOGo0?oc=5",
-          "source": "Google News",
-          "published": "Sun, 16 Aug 2026 08:50:00 GMT"
+          "published": "Mon, 17 Aug 2026 06:16:00 GMT"
         }
       ]
     },
@@ -86,21 +80,21 @@
       ]
     },
     {
-      "word": "일본",
+      "word": "포착",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "제니, 일본 ’서머 소닉’서 무대…도쿄·오사카 모두 ’헤드라이너’ - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YbzBqOFVtVURJR2J2NzRCSzJEY3BKTm5mdnNkUlJiek0zMV90ZTF4TC00bWVGSVF5alI5WmU1VzRwMl9YTXhlaExEaVhyWnZTQkl5ajlCNWIzUUtlclhCYlRUN3dwWmM?oc=5",
+          "title": "블랙홀 지옥불 주변서 물 분자 포착…은하 중심부 사상 첫 대발견 - 글로벌이코노믹",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWjNpbEM1WktueU1zNEJyQmNIaTJKVS00UXF5TUdvQUswR2N2dWtjMHA2STd3VWFSUDNpOVNkX3ZzQUlqMnBmei1wM2YtN1V6djU3Rm80Z3lJeVJ4Q1VsZUZxd2Y4U1dLalpISTVWLWNXdkF0Q3RqSkNvQm41a2N0aDZWWUo4eFYw?oc=5",
           "source": "Google News",
-          "published": "Mon, 17 Aug 2026 04:28:00 GMT"
+          "published": "Mon, 17 Aug 2026 03:44:04 GMT"
         },
         {
-          "title": "'한일전 최다 격차 패배' 2연전 마친 마줄스 감독 \"강한 일본 상대로 좋은 경험...팀 상태와 보완점 확인했다\" - chosun.com",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTjFlTXdsUzU2TDZqNlIyUlplaXUyWEVIYzBfdmNoQ3M4dW0yZFpCNzlMUnpHWk1vd2RtR0YtbzFLQzVrT0J0SEpMRk9WRDM2dXFPcEtnMFhfRTljQlFtVmVlbVNBWkJ2dVR3bFR4NEJOY1NxalJnd0llR3FxelRyNjZ2SVNydw?oc=5",
+          "title": "BTS 지민, 기습 스킨십…美 소아암 아미 \"아이 갓 어 키스!\" 감동 포착 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SNjlGcUVKU1RhNmU0ckllZnlaMndvVzVadFJOc1BaUWtQNS1oeGhrVzhnQldidUdxalZXV3RKa09VNlNmMHN1clVaMEFKTC1Dbk1UUkdPRFAyZw?oc=5",
           "source": "Google News",
-          "published": "Mon, 17 Aug 2026 01:59:00 GMT"
+          "published": "Mon, 17 Aug 2026 06:03:11 GMT"
         }
       ]
     },
@@ -118,171 +112,184 @@
       ]
     },
     {
-      "word": "소방청",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "소방청, 경남 집중호우 인명구조 총력 대응…136명 구조 - newspim.com",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6aDd1c0NNek1Md2cxOUdRUE9WaTBkcGNQSVhDX0ZTeFRxaUE3LWdLd3hCWFZScndhXzlZQ1ZfYkNYNlhHMEdTdlR6YmRvY0lFUURNc3piVzNzZDNC?oc=5",
-          "source": "Google News",
-          "published": "Mon, 17 Aug 2026 05:06:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "경남",
+      "word": "거제",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "소방청, 경남 집중호우 인명구조 총력 대응…136명 구조 - newspim.com",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6aDd1c0NNek1Md2cxOUdRUE9WaTBkcGNQSVhDX0ZTeFRxaUE3LWdLd3hCWFZScndhXzlZQ1ZfYkNYNlhHMEdTdlR6YmRvY0lFUURNc3piVzNzZDNC?oc=5",
+          "title": "거제 780㎜ ‘물폭탄’에 아파트 매몰…산사태로 1명 사망, 2명 부상 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhdTBtRVJjX0JXXzJrdEs1ZDZnbUtmODh1RV92WVF6a1JtQUd0eE4tVS12X3EzQzJjWVBXS196eDk5NjFYT25HN3J0TU1GLU1GcGZyMTFMQjBPUW9qbl8wRE9SYkk?oc=5",
           "source": "Google News",
-          "published": "Mon, 17 Aug 2026 05:06:00 GMT"
+          "published": "Mon, 17 Aug 2026 05:51:00 GMT"
         }
       ]
     },
     {
-      "word": "집중호우",
+      "word": "780",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "소방청, 경남 집중호우 인명구조 총력 대응…136명 구조 - newspim.com",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6aDd1c0NNek1Md2cxOUdRUE9WaTBkcGNQSVhDX0ZTeFRxaUE3LWdLd3hCWFZScndhXzlZQ1ZfYkNYNlhHMEdTdlR6YmRvY0lFUURNc3piVzNzZDNC?oc=5",
+          "title": "거제 780㎜ ‘물폭탄’에 아파트 매몰…산사태로 1명 사망, 2명 부상 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhdTBtRVJjX0JXXzJrdEs1ZDZnbUtmODh1RV92WVF6a1JtQUd0eE4tVS12X3EzQzJjWVBXS196eDk5NjFYT25HN3J0TU1GLU1GcGZyMTFMQjBPUW9qbl8wRE9SYkk?oc=5",
           "source": "Google News",
-          "published": "Mon, 17 Aug 2026 05:06:00 GMT"
+          "published": "Mon, 17 Aug 2026 05:51:00 GMT"
         }
       ]
     },
     {
-      "word": "인명구조",
+      "word": "물폭탄",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "소방청, 경남 집중호우 인명구조 총력 대응…136명 구조 - newspim.com",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6aDd1c0NNek1Md2cxOUdRUE9WaTBkcGNQSVhDX0ZTeFRxaUE3LWdLd3hCWFZScndhXzlZQ1ZfYkNYNlhHMEdTdlR6YmRvY0lFUURNc3piVzNzZDNC?oc=5",
+          "title": "거제 780㎜ ‘물폭탄’에 아파트 매몰…산사태로 1명 사망, 2명 부상 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhdTBtRVJjX0JXXzJrdEs1ZDZnbUtmODh1RV92WVF6a1JtQUd0eE4tVS12X3EzQzJjWVBXS196eDk5NjFYT25HN3J0TU1GLU1GcGZyMTFMQjBPUW9qbl8wRE9SYkk?oc=5",
           "source": "Google News",
-          "published": "Mon, 17 Aug 2026 05:06:00 GMT"
+          "published": "Mon, 17 Aug 2026 05:51:00 GMT"
         }
       ]
     },
     {
-      "word": "총력",
+      "word": "아파트",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "소방청, 경남 집중호우 인명구조 총력 대응…136명 구조 - newspim.com",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6aDd1c0NNek1Md2cxOUdRUE9WaTBkcGNQSVhDX0ZTeFRxaUE3LWdLd3hCWFZScndhXzlZQ1ZfYkNYNlhHMEdTdlR6YmRvY0lFUURNc3piVzNzZDNC?oc=5",
+          "title": "거제 780㎜ ‘물폭탄’에 아파트 매몰…산사태로 1명 사망, 2명 부상 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhdTBtRVJjX0JXXzJrdEs1ZDZnbUtmODh1RV92WVF6a1JtQUd0eE4tVS12X3EzQzJjWVBXS196eDk5NjFYT25HN3J0TU1GLU1GcGZyMTFMQjBPUW9qbl8wRE9SYkk?oc=5",
           "source": "Google News",
-          "published": "Mon, 17 Aug 2026 05:06:00 GMT"
+          "published": "Mon, 17 Aug 2026 05:51:00 GMT"
         }
       ]
     },
     {
-      "word": "대응136명",
+      "word": "매몰산사태",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "소방청, 경남 집중호우 인명구조 총력 대응…136명 구조 - newspim.com",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6aDd1c0NNek1Md2cxOUdRUE9WaTBkcGNQSVhDX0ZTeFRxaUE3LWdLd3hCWFZScndhXzlZQ1ZfYkNYNlhHMEdTdlR6YmRvY0lFUURNc3piVzNzZDNC?oc=5",
+          "title": "거제 780㎜ ‘물폭탄’에 아파트 매몰…산사태로 1명 사망, 2명 부상 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhdTBtRVJjX0JXXzJrdEs1ZDZnbUtmODh1RV92WVF6a1JtQUd0eE4tVS12X3EzQzJjWVBXS196eDk5NjFYT25HN3J0TU1GLU1GcGZyMTFMQjBPUW9qbl8wRE9SYkk?oc=5",
           "source": "Google News",
-          "published": "Mon, 17 Aug 2026 05:06:00 GMT"
+          "published": "Mon, 17 Aug 2026 05:51:00 GMT"
         }
       ]
     },
     {
-      "word": "구조",
+      "word": "1명",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "소방청, 경남 집중호우 인명구조 총력 대응…136명 구조 - newspim.com",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6aDd1c0NNek1Md2cxOUdRUE9WaTBkcGNQSVhDX0ZTeFRxaUE3LWdLd3hCWFZScndhXzlZQ1ZfYkNYNlhHMEdTdlR6YmRvY0lFUURNc3piVzNzZDNC?oc=5",
+          "title": "거제 780㎜ ‘물폭탄’에 아파트 매몰…산사태로 1명 사망, 2명 부상 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhdTBtRVJjX0JXXzJrdEs1ZDZnbUtmODh1RV92WVF6a1JtQUd0eE4tVS12X3EzQzJjWVBXS196eDk5NjFYT25HN3J0TU1GLU1GcGZyMTFMQjBPUW9qbl8wRE9SYkk?oc=5",
           "source": "Google News",
-          "published": "Mon, 17 Aug 2026 05:06:00 GMT"
+          "published": "Mon, 17 Aug 2026 05:51:00 GMT"
         }
       ]
     },
     {
-      "word": "과반",
+      "word": "2명",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "과반까지 1%…김민석, 오늘 ‘민주당 대표’ 확정될까 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrbDBoVmNiZG9RM29aMlFIb25CbEtfS0ZKS3VTUWxvZDlYLUI1RWVrUDdybTlZZmxZYWk2QmFfLVdzYXdyYmhkQUhwSUF0Unp2cS1sZ2JaV3hMNXU2S29peGM3b0JvLU9YeFk3QmJoa2hBeTQy?oc=5",
+          "title": "거제 780㎜ ‘물폭탄’에 아파트 매몰…산사태로 1명 사망, 2명 부상 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhdTBtRVJjX0JXXzJrdEs1ZDZnbUtmODh1RV92WVF6a1JtQUd0eE4tVS12X3EzQzJjWVBXS196eDk5NjFYT25HN3J0TU1GLU1GcGZyMTFMQjBPUW9qbl8wRE9SYkk?oc=5",
           "source": "Google News",
-          "published": "Mon, 17 Aug 2026 01:44:00 GMT"
+          "published": "Mon, 17 Aug 2026 05:51:00 GMT"
         }
       ]
     },
     {
-      "word": "1김민석",
+      "word": "부상",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "과반까지 1%…김민석, 오늘 ‘민주당 대표’ 확정될까 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrbDBoVmNiZG9RM29aMlFIb25CbEtfS0ZKS3VTUWxvZDlYLUI1RWVrUDdybTlZZmxZYWk2QmFfLVdzYXdyYmhkQUhwSUF0Unp2cS1sZ2JaV3hMNXU2S29peGM3b0JvLU9YeFk3QmJoa2hBeTQy?oc=5",
+          "title": "거제 780㎜ ‘물폭탄’에 아파트 매몰…산사태로 1명 사망, 2명 부상 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhdTBtRVJjX0JXXzJrdEs1ZDZnbUtmODh1RV92WVF6a1JtQUd0eE4tVS12X3EzQzJjWVBXS196eDk5NjFYT25HN3J0TU1GLU1GcGZyMTFMQjBPUW9qbl8wRE9SYkk?oc=5",
           "source": "Google News",
-          "published": "Mon, 17 Aug 2026 01:44:00 GMT"
+          "published": "Mon, 17 Aug 2026 05:51:00 GMT"
         }
       ]
     },
     {
-      "word": "민주당",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "과반까지 1%…김민석, 오늘 ‘민주당 대표’ 확정될까 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrbDBoVmNiZG9RM29aMlFIb25CbEtfS0ZKS3VTUWxvZDlYLUI1RWVrUDdybTlZZmxZYWk2QmFfLVdzYXdyYmhkQUhwSUF0Unp2cS1sZ2JaV3hMNXU2S29peGM3b0JvLU9YeFk3QmJoa2hBeTQy?oc=5",
-          "source": "Google News",
-          "published": "Mon, 17 Aug 2026 01:44:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "대표",
+      "word": "트럼프",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "과반까지 1%…김민석, 오늘 ‘민주당 대표’ 확정될까 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrbDBoVmNiZG9RM29aMlFIb25CbEtfS0ZKS3VTUWxvZDlYLUI1RWVrUDdybTlZZmxZYWk2QmFfLVdzYXdyYmhkQUhwSUF0Unp2cS1sZ2JaV3hMNXU2S29peGM3b0JvLU9YeFk3QmJoa2hBeTQy?oc=5",
+          "title": "트럼프 “한미연합훈련 오래전부터 마음에 안 들어, 대폭 축소 지시···나와 김정은 매우 좋은 관계” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jODlnWTgxTkJXZG11NUstUVg4ak9EaUo1T1JiNTdTczZPTUo3MDBod2hmdzJ5d2lyNGFYMjBtR1ZiRnJOT1VicTJqS2RVMm53YmpkcFQzVXhZUdIBX0FVX3lxTE1tVGFhc0pJT0pzTEo2cmpjV0J0WGY5cEFWT1hkM0NMTUlzQi1VN1g1Szd0Q3hCZTNmbDBDZHR5a0Q5dnZMUFB5Q0VoSHJvb19wS2xJVkN4MXJIamRPRDFN?oc=5",
           "source": "Google News",
-          "published": "Mon, 17 Aug 2026 01:44:00 GMT"
+          "published": "Mon, 17 Aug 2026 05:12:00 GMT"
         }
       ]
     },
     {
-      "word": "확정될까",
+      "word": "한미연합훈련",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "과반까지 1%…김민석, 오늘 ‘민주당 대표’ 확정될까 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrbDBoVmNiZG9RM29aMlFIb25CbEtfS0ZKS3VTUWxvZDlYLUI1RWVrUDdybTlZZmxZYWk2QmFfLVdzYXdyYmhkQUhwSUF0Unp2cS1sZ2JaV3hMNXU2S29peGM3b0JvLU9YeFk3QmJoa2hBeTQy?oc=5",
+          "title": "트럼프 “한미연합훈련 오래전부터 마음에 안 들어, 대폭 축소 지시···나와 김정은 매우 좋은 관계” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jODlnWTgxTkJXZG11NUstUVg4ak9EaUo1T1JiNTdTczZPTUo3MDBod2hmdzJ5d2lyNGFYMjBtR1ZiRnJOT1VicTJqS2RVMm53YmpkcFQzVXhZUdIBX0FVX3lxTE1tVGFhc0pJT0pzTEo2cmpjV0J0WGY5cEFWT1hkM0NMTUlzQi1VN1g1Szd0Q3hCZTNmbDBDZHR5a0Q5dnZMUFB5Q0VoSHJvb19wS2xJVkN4MXJIamRPRDFN?oc=5",
           "source": "Google News",
-          "published": "Mon, 17 Aug 2026 01:44:00 GMT"
+          "published": "Mon, 17 Aug 2026 05:12:00 GMT"
         }
       ]
     },
     {
-      "word": "한미훈련",
+      "word": "오래전",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“한미훈련 축소, 근시안적 실수” 미 정치권 비판···“적대국 편들며 동맹국에 맞서” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UMU10SjBidjJaeHNzWjl0anE3cVlac3R4SkozdG1fUHowSVp1Ry1tc2Y1c3JqY2hhajJKZnVJdENlNEFuUUwxcEdZM3p3YnBkaHc3ZHE4anhqZ9IBX0FVX3lxTE9oMi0zOGhBdWVTZ0cyYUNDTG9sYVd2QTFJaHJFZFplMWV0bjdwMjRJS0M4VUdrYXhLZ2hkN2JPOUlpeHhsUEdSaTN5UWo3UEtvT042X2EzY1R6VFplbXlB?oc=5",
+          "title": "트럼프 “한미연합훈련 오래전부터 마음에 안 들어, 대폭 축소 지시···나와 김정은 매우 좋은 관계” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jODlnWTgxTkJXZG11NUstUVg4ak9EaUo1T1JiNTdTczZPTUo3MDBod2hmdzJ5d2lyNGFYMjBtR1ZiRnJOT1VicTJqS2RVMm53YmpkcFQzVXhZUdIBX0FVX3lxTE1tVGFhc0pJT0pzTEo2cmpjV0J0WGY5cEFWT1hkM0NMTUlzQi1VN1g1Szd0Q3hCZTNmbDBDZHR5a0Q5dnZMUFB5Q0VoSHJvb19wS2xJVkN4MXJIamRPRDFN?oc=5",
           "source": "Google News",
-          "published": "Mon, 17 Aug 2026 03:42:00 GMT"
+          "published": "Mon, 17 Aug 2026 05:12:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "마음",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프 “한미연합훈련 오래전부터 마음에 안 들어, 대폭 축소 지시···나와 김정은 매우 좋은 관계” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jODlnWTgxTkJXZG11NUstUVg4ak9EaUo1T1JiNTdTczZPTUo3MDBod2hmdzJ5d2lyNGFYMjBtR1ZiRnJOT1VicTJqS2RVMm53YmpkcFQzVXhZUdIBX0FVX3lxTE1tVGFhc0pJT0pzTEo2cmpjV0J0WGY5cEFWT1hkM0NMTUlzQi1VN1g1Szd0Q3hCZTNmbDBDZHR5a0Q5dnZMUFB5Q0VoSHJvb19wS2xJVkN4MXJIamRPRDFN?oc=5",
+          "source": "Google News",
+          "published": "Mon, 17 Aug 2026 05:12:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "들어",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프 “한미연합훈련 오래전부터 마음에 안 들어, 대폭 축소 지시···나와 김정은 매우 좋은 관계” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jODlnWTgxTkJXZG11NUstUVg4ak9EaUo1T1JiNTdTczZPTUo3MDBod2hmdzJ5d2lyNGFYMjBtR1ZiRnJOT1VicTJqS2RVMm53YmpkcFQzVXhZUdIBX0FVX3lxTE1tVGFhc0pJT0pzTEo2cmpjV0J0WGY5cEFWT1hkM0NMTUlzQi1VN1g1Szd0Q3hCZTNmbDBDZHR5a0Q5dnZMUFB5Q0VoSHJvb19wS2xJVkN4MXJIamRPRDFN?oc=5",
+          "source": "Google News",
+          "published": "Mon, 17 Aug 2026 05:12:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "대폭",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프 “한미연합훈련 오래전부터 마음에 안 들어, 대폭 축소 지시···나와 김정은 매우 좋은 관계” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jODlnWTgxTkJXZG11NUstUVg4ak9EaUo1T1JiNTdTczZPTUo3MDBod2hmdzJ5d2lyNGFYMjBtR1ZiRnJOT1VicTJqS2RVMm53YmpkcFQzVXhZUdIBX0FVX3lxTE1tVGFhc0pJT0pzTEo2cmpjV0J0WGY5cEFWT1hkM0NMTUlzQi1VN1g1Szd0Q3hCZTNmbDBDZHR5a0Q5dnZMUFB5Q0VoSHJvb19wS2xJVkN4MXJIamRPRDFN?oc=5",
+          "source": "Google News",
+          "published": "Mon, 17 Aug 2026 05:12:00 GMT"
         }
       ]
     },
@@ -292,166 +299,127 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "“한미훈련 축소, 근시안적 실수” 미 정치권 비판···“적대국 편들며 동맹국에 맞서” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UMU10SjBidjJaeHNzWjl0anE3cVlac3R4SkozdG1fUHowSVp1Ry1tc2Y1c3JqY2hhajJKZnVJdENlNEFuUUwxcEdZM3p3YnBkaHc3ZHE4anhqZ9IBX0FVX3lxTE9oMi0zOGhBdWVTZ0cyYUNDTG9sYVd2QTFJaHJFZFplMWV0bjdwMjRJS0M4VUdrYXhLZ2hkN2JPOUlpeHhsUEdSaTN5UWo3UEtvT042X2EzY1R6VFplbXlB?oc=5",
+          "title": "트럼프 “한미연합훈련 오래전부터 마음에 안 들어, 대폭 축소 지시···나와 김정은 매우 좋은 관계” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jODlnWTgxTkJXZG11NUstUVg4ak9EaUo1T1JiNTdTczZPTUo3MDBod2hmdzJ5d2lyNGFYMjBtR1ZiRnJOT1VicTJqS2RVMm53YmpkcFQzVXhZUdIBX0FVX3lxTE1tVGFhc0pJT0pzTEo2cmpjV0J0WGY5cEFWT1hkM0NMTUlzQi1VN1g1Szd0Q3hCZTNmbDBDZHR5a0Q5dnZMUFB5Q0VoSHJvb19wS2xJVkN4MXJIamRPRDFN?oc=5",
           "source": "Google News",
-          "published": "Mon, 17 Aug 2026 03:42:00 GMT"
+          "published": "Mon, 17 Aug 2026 05:12:00 GMT"
         }
       ]
     },
     {
-      "word": "근시안",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“한미훈련 축소, 근시안적 실수” 미 정치권 비판···“적대국 편들며 동맹국에 맞서” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UMU10SjBidjJaeHNzWjl0anE3cVlac3R4SkozdG1fUHowSVp1Ry1tc2Y1c3JqY2hhajJKZnVJdENlNEFuUUwxcEdZM3p3YnBkaHc3ZHE4anhqZ9IBX0FVX3lxTE9oMi0zOGhBdWVTZ0cyYUNDTG9sYVd2QTFJaHJFZFplMWV0bjdwMjRJS0M4VUdrYXhLZ2hkN2JPOUlpeHhsUEdSaTN5UWo3UEtvT042X2EzY1R6VFplbXlB?oc=5",
-          "source": "Google News",
-          "published": "Mon, 17 Aug 2026 03:42:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "실수",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“한미훈련 축소, 근시안적 실수” 미 정치권 비판···“적대국 편들며 동맹국에 맞서” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UMU10SjBidjJaeHNzWjl0anE3cVlac3R4SkozdG1fUHowSVp1Ry1tc2Y1c3JqY2hhajJKZnVJdENlNEFuUUwxcEdZM3p3YnBkaHc3ZHE4anhqZ9IBX0FVX3lxTE9oMi0zOGhBdWVTZ0cyYUNDTG9sYVd2QTFJaHJFZFplMWV0bjdwMjRJS0M4VUdrYXhLZ2hkN2JPOUlpeHhsUEdSaTN5UWo3UEtvT042X2EzY1R6VFplbXlB?oc=5",
-          "source": "Google News",
-          "published": "Mon, 17 Aug 2026 03:42:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "정치권",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“한미훈련 축소, 근시안적 실수” 미 정치권 비판···“적대국 편들며 동맹국에 맞서” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UMU10SjBidjJaeHNzWjl0anE3cVlac3R4SkozdG1fUHowSVp1Ry1tc2Y1c3JqY2hhajJKZnVJdENlNEFuUUwxcEdZM3p3YnBkaHc3ZHE4anhqZ9IBX0FVX3lxTE9oMi0zOGhBdWVTZ0cyYUNDTG9sYVd2QTFJaHJFZFplMWV0bjdwMjRJS0M4VUdrYXhLZ2hkN2JPOUlpeHhsUEdSaTN5UWo3UEtvT042X2EzY1R6VFplbXlB?oc=5",
-          "source": "Google News",
-          "published": "Mon, 17 Aug 2026 03:42:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "비판적대국",
+      "word": "지시",
       "count": 1,
       "category": "LOCATION",
       "articles": [
         {
-          "title": "“한미훈련 축소, 근시안적 실수” 미 정치권 비판···“적대국 편들며 동맹국에 맞서” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UMU10SjBidjJaeHNzWjl0anE3cVlac3R4SkozdG1fUHowSVp1Ry1tc2Y1c3JqY2hhajJKZnVJdENlNEFuUUwxcEdZM3p3YnBkaHc3ZHE4anhqZ9IBX0FVX3lxTE9oMi0zOGhBdWVTZ0cyYUNDTG9sYVd2QTFJaHJFZFplMWV0bjdwMjRJS0M4VUdrYXhLZ2hkN2JPOUlpeHhsUEdSaTN5UWo3UEtvT042X2EzY1R6VFplbXlB?oc=5",
+          "title": "트럼프 “한미연합훈련 오래전부터 마음에 안 들어, 대폭 축소 지시···나와 김정은 매우 좋은 관계” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jODlnWTgxTkJXZG11NUstUVg4ak9EaUo1T1JiNTdTczZPTUo3MDBod2hmdzJ5d2lyNGFYMjBtR1ZiRnJOT1VicTJqS2RVMm53YmpkcFQzVXhZUdIBX0FVX3lxTE1tVGFhc0pJT0pzTEo2cmpjV0J0WGY5cEFWT1hkM0NMTUlzQi1VN1g1Szd0Q3hCZTNmbDBDZHR5a0Q5dnZMUFB5Q0VoSHJvb19wS2xJVkN4MXJIamRPRDFN?oc=5",
           "source": "Google News",
-          "published": "Mon, 17 Aug 2026 03:42:00 GMT"
+          "published": "Mon, 17 Aug 2026 05:12:00 GMT"
         }
       ]
     },
     {
-      "word": "편들",
+      "word": "김정",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“한미훈련 축소, 근시안적 실수” 미 정치권 비판···“적대국 편들며 동맹국에 맞서” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UMU10SjBidjJaeHNzWjl0anE3cVlac3R4SkozdG1fUHowSVp1Ry1tc2Y1c3JqY2hhajJKZnVJdENlNEFuUUwxcEdZM3p3YnBkaHc3ZHE4anhqZ9IBX0FVX3lxTE9oMi0zOGhBdWVTZ0cyYUNDTG9sYVd2QTFJaHJFZFplMWV0bjdwMjRJS0M4VUdrYXhLZ2hkN2JPOUlpeHhsUEdSaTN5UWo3UEtvT042X2EzY1R6VFplbXlB?oc=5",
+          "title": "트럼프 “한미연합훈련 오래전부터 마음에 안 들어, 대폭 축소 지시···나와 김정은 매우 좋은 관계” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jODlnWTgxTkJXZG11NUstUVg4ak9EaUo1T1JiNTdTczZPTUo3MDBod2hmdzJ5d2lyNGFYMjBtR1ZiRnJOT1VicTJqS2RVMm53YmpkcFQzVXhZUdIBX0FVX3lxTE1tVGFhc0pJT0pzTEo2cmpjV0J0WGY5cEFWT1hkM0NMTUlzQi1VN1g1Szd0Q3hCZTNmbDBDZHR5a0Q5dnZMUFB5Q0VoSHJvb19wS2xJVkN4MXJIamRPRDFN?oc=5",
           "source": "Google News",
-          "published": "Mon, 17 Aug 2026 03:42:00 GMT"
+          "published": "Mon, 17 Aug 2026 05:12:00 GMT"
         }
       ]
     },
     {
-      "word": "동맹국",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "“한미훈련 축소, 근시안적 실수” 미 정치권 비판···“적대국 편들며 동맹국에 맞서” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UMU10SjBidjJaeHNzWjl0anE3cVlac3R4SkozdG1fUHowSVp1Ry1tc2Y1c3JqY2hhajJKZnVJdENlNEFuUUwxcEdZM3p3YnBkaHc3ZHE4anhqZ9IBX0FVX3lxTE9oMi0zOGhBdWVTZ0cyYUNDTG9sYVd2QTFJaHJFZFplMWV0bjdwMjRJS0M4VUdrYXhLZ2hkN2JPOUlpeHhsUEdSaTN5UWo3UEtvT042X2EzY1R6VFplbXlB?oc=5",
-          "source": "Google News",
-          "published": "Mon, 17 Aug 2026 03:42:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "맞서",
+      "word": "매우",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“한미훈련 축소, 근시안적 실수” 미 정치권 비판···“적대국 편들며 동맹국에 맞서” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UMU10SjBidjJaeHNzWjl0anE3cVlac3R4SkozdG1fUHowSVp1Ry1tc2Y1c3JqY2hhajJKZnVJdENlNEFuUUwxcEdZM3p3YnBkaHc3ZHE4anhqZ9IBX0FVX3lxTE9oMi0zOGhBdWVTZ0cyYUNDTG9sYVd2QTFJaHJFZFplMWV0bjdwMjRJS0M4VUdrYXhLZ2hkN2JPOUlpeHhsUEdSaTN5UWo3UEtvT042X2EzY1R6VFplbXlB?oc=5",
+          "title": "트럼프 “한미연합훈련 오래전부터 마음에 안 들어, 대폭 축소 지시···나와 김정은 매우 좋은 관계” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jODlnWTgxTkJXZG11NUstUVg4ak9EaUo1T1JiNTdTczZPTUo3MDBod2hmdzJ5d2lyNGFYMjBtR1ZiRnJOT1VicTJqS2RVMm53YmpkcFQzVXhZUdIBX0FVX3lxTE1tVGFhc0pJT0pzTEo2cmpjV0J0WGY5cEFWT1hkM0NMTUlzQi1VN1g1Szd0Q3hCZTNmbDBDZHR5a0Q5dnZMUFB5Q0VoSHJvb19wS2xJVkN4MXJIamRPRDFN?oc=5",
           "source": "Google News",
-          "published": "Mon, 17 Aug 2026 03:42:00 GMT"
+          "published": "Mon, 17 Aug 2026 05:12:00 GMT"
         }
       ]
     },
     {
-      "word": "서귀포시",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "서귀포시 동부 등 제주 3곳 호우주의보 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vSjZBbTE2bUkwOVh1aGFOSWxjS1lvTDlTTXZIcVRNOGNNZEVnRldWWTRsU19uV0lpTEpwVzZPNGJZUV93aWhOMnRkd0tSN05xZ2pxaWc2ajJrU03SAWBBVV95cUxNR0dmQWtwR0RXUUpBVi1DWm1PejNKTUN5eXhFZ2lsN2ZkUi01Tm5XWllid2xHSzdIZG93X2lKSF8zTEhvWHBsWmNjRFprN3l4RXhJdmpraUUxSGRnQ3R3T0s?oc=5",
-          "source": "Google News",
-          "published": "Mon, 17 Aug 2026 04:40:32 GMT"
-        }
-      ]
-    },
-    {
-      "word": "동부",
+      "word": "좋은",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "서귀포시 동부 등 제주 3곳 호우주의보 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vSjZBbTE2bUkwOVh1aGFOSWxjS1lvTDlTTXZIcVRNOGNNZEVnRldWWTRsU19uV0lpTEpwVzZPNGJZUV93aWhOMnRkd0tSN05xZ2pxaWc2ajJrU03SAWBBVV95cUxNR0dmQWtwR0RXUUpBVi1DWm1PejNKTUN5eXhFZ2lsN2ZkUi01Tm5XWllid2xHSzdIZG93X2lKSF8zTEhvWHBsWmNjRFprN3l4RXhJdmpraUUxSGRnQ3R3T0s?oc=5",
+          "title": "트럼프 “한미연합훈련 오래전부터 마음에 안 들어, 대폭 축소 지시···나와 김정은 매우 좋은 관계” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jODlnWTgxTkJXZG11NUstUVg4ak9EaUo1T1JiNTdTczZPTUo3MDBod2hmdzJ5d2lyNGFYMjBtR1ZiRnJOT1VicTJqS2RVMm53YmpkcFQzVXhZUdIBX0FVX3lxTE1tVGFhc0pJT0pzTEo2cmpjV0J0WGY5cEFWT1hkM0NMTUlzQi1VN1g1Szd0Q3hCZTNmbDBDZHR5a0Q5dnZMUFB5Q0VoSHJvb19wS2xJVkN4MXJIamRPRDFN?oc=5",
           "source": "Google News",
-          "published": "Mon, 17 Aug 2026 04:40:32 GMT"
+          "published": "Mon, 17 Aug 2026 05:12:00 GMT"
         }
       ]
     },
     {
-      "word": "제주",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "서귀포시 동부 등 제주 3곳 호우주의보 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vSjZBbTE2bUkwOVh1aGFOSWxjS1lvTDlTTXZIcVRNOGNNZEVnRldWWTRsU19uV0lpTEpwVzZPNGJZUV93aWhOMnRkd0tSN05xZ2pxaWc2ajJrU03SAWBBVV95cUxNR0dmQWtwR0RXUUpBVi1DWm1PejNKTUN5eXhFZ2lsN2ZkUi01Tm5XWllid2xHSzdIZG93X2lKSF8zTEhvWHBsWmNjRFprN3l4RXhJdmpraUUxSGRnQ3R3T0s?oc=5",
-          "source": "Google News",
-          "published": "Mon, 17 Aug 2026 04:40:32 GMT"
-        }
-      ]
-    },
-    {
-      "word": "3곳",
+      "word": "관계",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "서귀포시 동부 등 제주 3곳 호우주의보 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vSjZBbTE2bUkwOVh1aGFOSWxjS1lvTDlTTXZIcVRNOGNNZEVnRldWWTRsU19uV0lpTEpwVzZPNGJZUV93aWhOMnRkd0tSN05xZ2pxaWc2ajJrU03SAWBBVV95cUxNR0dmQWtwR0RXUUpBVi1DWm1PejNKTUN5eXhFZ2lsN2ZkUi01Tm5XWllid2xHSzdIZG93X2lKSF8zTEhvWHBsWmNjRFprN3l4RXhJdmpraUUxSGRnQ3R3T0s?oc=5",
+          "title": "트럼프 “한미연합훈련 오래전부터 마음에 안 들어, 대폭 축소 지시···나와 김정은 매우 좋은 관계” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jODlnWTgxTkJXZG11NUstUVg4ak9EaUo1T1JiNTdTczZPTUo3MDBod2hmdzJ5d2lyNGFYMjBtR1ZiRnJOT1VicTJqS2RVMm53YmpkcFQzVXhZUdIBX0FVX3lxTE1tVGFhc0pJT0pzTEo2cmpjV0J0WGY5cEFWT1hkM0NMTUlzQi1VN1g1Szd0Q3hCZTNmbDBDZHR5a0Q5dnZMUFB5Q0VoSHJvb19wS2xJVkN4MXJIamRPRDFN?oc=5",
           "source": "Google News",
-          "published": "Mon, 17 Aug 2026 04:40:32 GMT"
+          "published": "Mon, 17 Aug 2026 05:12:00 GMT"
         }
       ]
     },
     {
-      "word": "호우주의보",
+      "word": "김민석정청래",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "서귀포시 동부 등 제주 3곳 호우주의보 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vSjZBbTE2bUkwOVh1aGFOSWxjS1lvTDlTTXZIcVRNOGNNZEVnRldWWTRsU19uV0lpTEpwVzZPNGJZUV93aWhOMnRkd0tSN05xZ2pxaWc2ajJrU03SAWBBVV95cUxNR0dmQWtwR0RXUUpBVi1DWm1PejNKTUN5eXhFZ2lsN2ZkUi01Tm5XWllid2xHSzdIZG93X2lKSF8zTEhvWHBsWmNjRFprN3l4RXhJdmpraUUxSGRnQ3R3T0s?oc=5",
+          "title": "김민석-정청래 8.4%P差… 오늘 당대표 결정 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBOMTJxd1NHN0o2Q0RXTkFoeVc2X3JxM2c5ZzkwRnBvVFZ2X00ySUhweHRHNXBfZDhJSllLQ20tQjlJY0FFamtlOFlxdHJybXgyeFlUTFNZSUVEMDJPczFpc1NGVkJ0UzhNaFM1MFFLRTg3aktYNDhj0gFmQVVfeXFMTXJXU3FGWGltbU5HSXhqQVhvXzE0VkJDM0ZtMXcwSm44LWVCWUxVTE1kbmdvTjQ4SEFGdlEyMmE4Tl9nUFVfYUZNNWplVnVZYWEzY2J5LW5PNFZSNWV6YUxDSExZV19R?oc=5",
           "source": "Google News",
-          "published": "Mon, 17 Aug 2026 04:40:32 GMT"
+          "published": "Sun, 16 Aug 2026 16:40:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "84P",
+      "count": 1,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "김민석-정청래 8.4%P差… 오늘 당대표 결정 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBOMTJxd1NHN0o2Q0RXTkFoeVc2X3JxM2c5ZzkwRnBvVFZ2X00ySUhweHRHNXBfZDhJSllLQ20tQjlJY0FFamtlOFlxdHJybXgyeFlUTFNZSUVEMDJPczFpc1NGVkJ0UzhNaFM1MFFLRTg3aktYNDhj0gFmQVVfeXFMTXJXU3FGWGltbU5HSXhqQVhvXzE0VkJDM0ZtMXcwSm44LWVCWUxVTE1kbmdvTjQ4SEFGdlEyMmE4Tl9nUFVfYUZNNWplVnVZYWEzY2J5LW5PNFZSNWV6YUxDSExZV19R?oc=5",
+          "source": "Google News",
+          "published": "Sun, 16 Aug 2026 16:40:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "당대표",
+      "count": 1,
+      "category": "PERSON",
+      "articles": [
+        {
+          "title": "김민석-정청래 8.4%P差… 오늘 당대표 결정 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBOMTJxd1NHN0o2Q0RXTkFoeVc2X3JxM2c5ZzkwRnBvVFZ2X00ySUhweHRHNXBfZDhJSllLQ20tQjlJY0FFamtlOFlxdHJybXgyeFlUTFNZSUVEMDJPczFpc1NGVkJ0UzhNaFM1MFFLRTg3aktYNDhj0gFmQVVfeXFMTXJXU3FGWGltbU5HSXhqQVhvXzE0VkJDM0ZtMXcwSm44LWVCWUxVTE1kbmdvTjQ4SEFGdlEyMmE4Tl9nUFVfYUZNNWplVnVZYWEzY2J5LW5PNFZSNWV6YUxDSExZV19R?oc=5",
+          "source": "Google News",
+          "published": "Sun, 16 Aug 2026 16:40:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "결정",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김민석-정청래 8.4%P差… 오늘 당대표 결정 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBOMTJxd1NHN0o2Q0RXTkFoeVc2X3JxM2c5ZzkwRnBvVFZ2X00ySUhweHRHNXBfZDhJSllLQ20tQjlJY0FFamtlOFlxdHJybXgyeFlUTFNZSUVEMDJPczFpc1NGVkJ0UzhNaFM1MFFLRTg3aktYNDhj0gFmQVVfeXFMTXJXU3FGWGltbU5HSXhqQVhvXzE0VkJDM0ZtMXcwSm44LWVCWUxVTE1kbmdvTjQ4SEFGdlEyMmE4Tl9nUFVfYUZNNWplVnVZYWEzY2J5LW5PNFZSNWV6YUxDSExZV19R?oc=5",
+          "source": "Google News",
+          "published": "Sun, 16 Aug 2026 16:40:00 GMT"
         }
       ]
     },
@@ -552,7 +520,33 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘주택 잠기고 가로수 쓰러지고’… 부산서 비피해 신고 50건 - chosun.com",
+          "title": "‘주택 잠기고 가로수 쓰러지고’… 부산서 비피해 신고 50건 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSEhlVTYtbUdHUE1HblFOSVRnN0ZWVWxKUWx2VlJFdmNCdE5XZ3lPRFBqazVxai12R1dGQmZmQ2ptbFN3ZzVlNUdhUzhaU2V5NDZqQmJVM3JZYmlRZUlIOE1GOENHckpxWnlqWXdUMm9wNjZiR2swcjdVVGV4dTRaWl9ZR09sdw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 17 Aug 2026 01:57:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "잠기",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘주택 잠기고 가로수 쓰러지고’… 부산서 비피해 신고 50건 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSEhlVTYtbUdHUE1HblFOSVRnN0ZWVWxKUWx2VlJFdmNCdE5XZ3lPRFBqazVxai12R1dGQmZmQ2ptbFN3ZzVlNUdhUzhaU2V5NDZqQmJVM3JZYmlRZUlIOE1GOENHckpxWnlqWXdUMm9wNjZiR2swcjdVVGV4dTRaWl9ZR09sdw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 17 Aug 2026 01:57:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "가로수",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘주택 잠기고 가로수 쓰러지고’… 부산서 비피해 신고 50건 - 조선일보",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSEhlVTYtbUdHUE1HblFOSVRnN0ZWVWxKUWx2VlJFdmNCdE5XZ3lPRFBqazVxai12R1dGQmZmQ2ptbFN3ZzVlNUdhUzhaU2V5NDZqQmJVM3JZYmlRZUlIOE1GOENHckpxWnlqWXdUMm9wNjZiR2swcjdVVGV4dTRaWl9ZR09sdw?oc=5",
           "source": "Google News",
           "published": "Mon, 17 Aug 2026 01:57:00 GMT"
