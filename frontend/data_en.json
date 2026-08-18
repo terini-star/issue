@@ -1,125 +1,187 @@
 {
   "language": "en",
-  "last_updated": 1787081541.9792717,
+  "last_updated": 1787085074.726479,
   "count": 40,
   "trends": [
     {
       "word": "Trump",
+      "count": 5,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Ossoff calls Trump a ‘draft-dodging, crook president,’ intensifying his feud with White House - CNN",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yTkRSb3lyQTdQQ08wNlpBVml1VjFoYV9BOWk5Z1VERXFaMXFaTHBOQmk0cU5KLVQ2ZzJuMzRiM1dQZmw1WUFnR2ZRV1BJTmhYS2h1TFFBZTRFQmRkRU5nRnNuQXlBQ1IySXN3Unczaw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 18 Aug 2026 18:51:18 GMT"
+        },
+        {
+          "title": "Trump is weighing whether to grant Canada a tariff reprieve - politico.com",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWnlfNlhXN0hPbENYcWlMcDh2aFlkLWQ1WGJWQVlIRTFEUEo1WC02enIydUE0VnFsSENWam5VY1EtMXAyVno3RHpCZlQ1RFR5R0FpTmFxYzdxWjBEUk1feFJRMEl0QVFPUTF4UXQ1bjNseWxvemdpZmJDMXJrczIxTG0wVVltVjVDaFF4QWl3?oc=5",
+          "source": "Google News",
+          "published": "Tue, 18 Aug 2026 19:09:00 GMT"
+        },
+        {
+          "title": "U.S.-Iran Updates: Trump says no talks with Iran taking place as standoff over Strait of Hormuz continues - cbsnews.com",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96dTlXTXdLdkJfWHpuYUtTRlp1dDh5SEd2a2F6ZUxwcTJCa3kxRXhqaUE1aHhmWTFxOG9Zd21SQzBsalAyRjN1czlieHlXT1lIT1MtcnFDM0tTX1dCeDJqRHdJTXZZYjVHLXRndEJlZ1N6akkyMWRmR2Z5TQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 18 Aug 2026 20:01:00 GMT"
+        },
+        {
+          "title": "Trump moves to strip protections from 44M acres of national forest - The Hill",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ2s3OTJfOS02YzlBUFU2UjVhMTlnRms5SkhsLWgzZlRnSklPYi12ZzB6LVlKUkFPSkQ2Z2JfajJ6ZjZCZHhpS3ZGYjBoWXpUc2stUUtfS0xWXzIyQkFPeFFSVERGY0lPUWt1RVltZlphOEFUMGE2QUkwWjlFVzZoUFdtY1otUWMzckVldXAwd3I5QllpOW9ObVJqbFE5dW5XVmotWDdSRzB6SFBEWmxuclBiU3VWRm5FdXpkNFhiMFRlWFhmMm95dU12XzljbVU3bVdMb9IB2gFBVV95cUxNZVlCUGwyUS03OUo4cUdGQUJxb2hFUzRDUjlDR05TTnNjVlJsbUFEOXg5T0JjWXNhVE1oVXVIbVRKdmJ4bmpCN2JtM0VQVDd1R1hXOGRscGFLZ3h5bEx1T192WU5PcXZDZW5tZlRidS16YmF2NWIzZl9uenkzTjFfR3VlcmVyZU9zazBTMEJZNXRzdHQzckVQc1lLTkJfWjFJd25mOWp4MmttcmlqZUVOMno4VXI3Wk5PS1hlM0MxeW9ZUGx3a3NKS3JoSUdYakRfMG9QUFR5RUdvZw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 18 Aug 2026 16:55:00 GMT"
+        },
+        {
+          "title": "South Korea president calls for military independence in wake of Trump call to cut joint drills - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQU9PcnNSS2ZQQmxoOFNldmdkQ0RWTmwtVEFQdGl5bkJTcnBoUWR6TUJjS0lnSXFTeG5qU1JZRFNiS2tnTGw0R040YkVYUHFDZHkzdzFmMnpEUmFpanRPR045cmNlYXhPbEZnN0JvZ0pRaHhvY2JHQWJiNHRtNlBIbWVKRnFCaDlnSmc1T3VaRExIVEFsRGw5QWJzMjZzZ2RxZzRWQ3JLTlcwRFpCQXdqeFh6eThGZw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 18 Aug 2026 17:20:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Iran",
       "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump says US has no planned talks with Iran and other news from the Middle East - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUGE0ZXdacDJQQU1FSTNKRzRoV21MR3h5R1FIekhsU054VE9WSzdUdThYNmY3emZwQWpXUFczUklKU2MzZVdUeV9ZaWtoaF9IUXRaT24xS0Y2MmdlbnlxT1JicndhbWpfb1N4Z09GeDV4UGMyQUdLb3Utb3pqNTNDQTR2amh2cTVGZTJ5S3FVVzlWZmoyNHNLUy12WnM3YUtiMW01Vnp5TmRQWjdQS3c?oc=5",
+          "title": "Iran is losing control of the Strait of Hormuz - CNN",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UYmdZbW8tMm55Yzg4Z3VFeDFiWUk2TDNWWU13aVdKU2tSSmtOb3FMWnBaOWRxMW1tMUZna01vZnpZUXdMaDNKLVVVR1FOMTlrZm03V2JWeGVzR2VxY19QbkdCaFR6ckdhOVdFU05PWEhvMnc?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 17:33:00 GMT"
+          "published": "Tue, 18 Aug 2026 18:17:01 GMT"
         },
         {
-          "title": "Jon Ossoff Blasts Trump ‘Sycophants’ As He Doubles Down On Natalie Harp Dig - forbes.com",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOFZGRmpNV2wyWDVhMS1ydzlJSGVNeHJ1QlZ5TlNiX0RiUkdPUUZtdmppOVQyOTA0M0JBLU5PRXltbUloWlVsMm9XQTBmbDNtMXF4amRBeFVrbWViajFQQWlMSUROYWFsekktUk4xYWdhVlhiZmhtdzFvWkVhRzNJZ0VsR0drdTV0U3EybzJvT0h3UUs4bHNQY1JhWktNVnVXZ1dvVndvc1VrN1o2TzF0R2RzaTVuM0V0R3BsSk9YS0w?oc=5",
+          "title": "U.S.-Iran Updates: Trump says no talks with Iran taking place as standoff over Strait of Hormuz continues - cbsnews.com",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96dTlXTXdLdkJfWHpuYUtTRlp1dDh5SEd2a2F6ZUxwcTJCa3kxRXhqaUE1aHhmWTFxOG9Zd21SQzBsalAyRjN1czlieHlXT1lIT1MtcnFDM0tTX1dCeDJqRHdJTXZZYjVHLXRndEJlZ1N6akkyMWRmR2Z5TQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 16:49:18 GMT"
-        },
-        {
-          "title": "S. Korea stresses US alliance amid confusion over Trump drill cut - NPR",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS0hHcURzLTMtaWtPNTNVV3Bzanp0ekxlMFpTQXJYZ2VTbGozaDFnOGYzOTgzSzZxUzFGd3Bvb3c4aUlObGJZaDREVTRVeGNFdl9Jc3NiUTBfb1BkakRkRko5M1cwWTZYdTBvTWI4Z1Y3RW9pWEJhU2R0WTZBSjlobGstcldGOC1scUwtZlRjYTVxSV9NMnl6cVU0Wm05MTluWnVKZjBxZUJUd3c?oc=5",
-          "source": "Google News",
-          "published": "Tue, 18 Aug 2026 15:19:40 GMT"
+          "published": "Tue, 18 Aug 2026 20:01:00 GMT"
         }
       ]
     },
     {
-      "word": "Talks",
-      "count": 2,
+      "word": "Calls",
+      "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump says US has no planned talks with Iran and other news from the Middle East - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUGE0ZXdacDJQQU1FSTNKRzRoV21MR3h5R1FIekhsU054VE9WSzdUdThYNmY3emZwQWpXUFczUklKU2MzZVdUeV9ZaWtoaF9IUXRaT24xS0Y2MmdlbnlxT1JicndhbWpfb1N4Z09GeDV4UGMyQUdLb3Utb3pqNTNDQTR2amh2cTVGZTJ5S3FVVzlWZmoyNHNLUy12WnM3YUtiMW01Vnp5TmRQWjdQS3c?oc=5",
+          "title": "Ossoff calls Trump a ‘draft-dodging, crook president,’ intensifying his feud with White House - CNN",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yTkRSb3lyQTdQQ08wNlpBVml1VjFoYV9BOWk5Z1VERXFaMXFaTHBOQmk0cU5KLVQ2ZzJuMzRiM1dQZmw1WUFnR2ZRV1BJTmhYS2h1TFFBZTRFQmRkRU5nRnNuQXlBQ1IySXN3Unczaw?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 17:33:00 GMT"
+          "published": "Tue, 18 Aug 2026 18:51:18 GMT"
         },
         {
-          "title": "U.S., Canada in last-minute talks to head off steep new U.S. tariffs - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRlZBMlQyUTFIcTBzX2VqS1VuangwQVpiS0FfNTdmUTRjZ08zc2hOMWotS0hCSzVFTzM2RTNYXzdjTGwwbWJsWm5pb2JtZnZIOU1vbHdnOHEwVHBBeC1OcDBTTTNrS0F5amRBRmdkbWF1RFlheGhfNm1fMEhjUXlRdFdwQ0k?oc=5",
+          "title": "South Korea president calls for military independence in wake of Trump call to cut joint drills - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQU9PcnNSS2ZQQmxoOFNldmdkQ0RWTmwtVEFQdGl5bkJTcnBoUWR6TUJjS0lnSXFTeG5qU1JZRFNiS2tnTGw0R040YkVYUHFDZHkzdzFmMnpEUmFpanRPR045cmNlYXhPbEZnN0JvZ0pRaHhvY2JHQWJiNHRtNlBIbWVKRnFCaDlnSmc1T3VaRExIVEFsRGw5QWJzMjZzZ2RxZzRWQ3JLTlcwRFpCQXdqeFh6eThGZw?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 11:28:00 GMT"
+          "published": "Tue, 18 Aug 2026 17:20:00 GMT"
+        },
+        {
+          "title": "Jeanie Buss’ attorney calls out ESPN’s Shams Charania for ‘false’ report regarding Lakers ownership stake - Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNDlPbWhZaFpDSE8xSTdBODFaUWZpanlVRmhjNWxOc19WdkRsT1RQSWhWQ3pIUGlVa2F6UDBOR09ESS1yRkJwTjNtdmZpc2VxMWZFZGtWaVAyRE9pQ1gxMUcxRWdMQjNKcEU2YjdpZzBSRTltN0dMNGJ2MEdjY2tTa3hWV0NWZUk?oc=5",
+          "source": "Google News",
+          "published": "Tue, 18 Aug 2026 15:30:31 GMT"
         }
       ]
     },
     {
-      "word": "East",
-      "count": 2,
+      "word": "Apple",
+      "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump says US has no planned talks with Iran and other news from the Middle East - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUGE0ZXdacDJQQU1FSTNKRzRoV21MR3h5R1FIekhsU054VE9WSzdUdThYNmY3emZwQWpXUFczUklKU2MzZVdUeV9ZaWtoaF9IUXRaT24xS0Y2MmdlbnlxT1JicndhbWpfb1N4Z09GeDV4UGMyQUdLb3Utb3pqNTNDQTR2amh2cTVGZTJ5S3FVVzlWZmoyNHNLUy12WnM3YUtiMW01Vnp5TmRQWjdQS3c?oc=5",
+          "title": "Apple’s new macOS update reportedly contains a video of AirPods with a camera - TechCrunch",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWHcxX0hLZm5EZGtNeHVtanhFWWNfWXRpU3B1MFdrckxURy1KY3RCVVFvX2k0Ry11OGh3QTJGWEJ6UFFvM0hvUC0yZDdlSjlGRDNJQWRBYzFUc2NTcHRZd09BcHlCcjNFMWp4eTZ6MmkzcUxVbGloZkxWaUExYlNHX1VEUl9adGRiZEJoVTBvc2lnOENQYkNxc1JzWVRiRV94clpRcV9FV3htVTN3cWxuWA?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 17:33:00 GMT"
+          "published": "Tue, 18 Aug 2026 13:28:51 GMT"
         },
         {
-          "title": "Florence Pugh-Led ‘East Of Eden’ Sets Netflix Release Date, Unveils First Photos - Deadline",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQWlpbHkwblNlX2g5dk9GcGdnZVNtelJaaEFvVlpKU0JYYjhCUmZCaE5wWmVhV1ZiM1FQcGxVNk5TNWI5dFg0ME1lMUJnVEI4bk9VNERzVENIc0R3OEV4VUJ0WlFtR3VtZHVnNy1pQ0NValZMUlZtaGJlUzFQa1RVaW9ZbFZOeDI3Rl92ZUpVVmhJYzhfdDNCMVduQQ?oc=5",
+          "title": "Apple’s big Home product overhaul leaked in new report - 9to5Mac",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU0dyLTV6Vmx3MFMwc1JfQUNvY3NWMjdRSGprRFpnNmVYN1RqSnQtOUY5cF9nSG9XZnd6NGFVWkdudGRfT3N4TDJwY1NQLTJpNWZLcXNiSTRld2huVmFWQ0EwUGZMWDlnNmxGYzl5MU9Md1Q4T29VVHJHaGl3RnVnbmwxOHF1b2RzUEdhMWFn?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 17:39:00 GMT"
+          "published": "Tue, 18 Aug 2026 14:31:00 GMT"
+        },
+        {
+          "title": "Pixel 11 Pro XL vs. iPhone 17 Pro Max: I Compared Google and Apple’s Flagship Phones - CNET",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMmNCS20xV3dkVDdfMmpLVXp3Qlk1a2hZNzhZVFdJNEJYREhkc3hsbWU1N19HaVIyQk1TT0N6MTRQRGhzRUx1b0JWTTNSX29uRWJqb1Z4dW1mODJDU09ZdFlmSFFlb3hqNnJuWjNkQjY0bWF3OEtXdGZ2dy1vaVg3YnhYTVA0T3RRODduanBneTNnSFpy?oc=5",
+          "source": "Google News",
+          "published": "Tue, 18 Aug 2026 01:45:00 GMT"
         }
       ]
     },
     {
-      "word": "Florida",
+      "word": "Control",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Election Live Updates: Florida, Alaska and Wyoming Hold Key Primaries - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQci1UckpMV09GWU5CY3VPWGxobnZnOEh6akZLb0syV3A1bGd4Zi1sSEpFajZ2YTc5UnpBSHpsejQyQnJHRFdQTkIxYlZUb1Rfak43bUFzMjhzc0trZVQxNkRaTWZxdENhUWFVVGMxSGk3N09CUkIxTnMyWTdidmFpb2h2TEk?oc=5",
+          "title": "Iran is losing control of the Strait of Hormuz - CNN",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UYmdZbW8tMm55Yzg4Z3VFeDFiWUk2TDNWWU13aVdKU2tSSmtOb3FMWnBaOWRxMW1tMUZna01vZnpZUXdMaDNKLVVVR1FOMTlrZm03V2JWeGVzR2VxY19QbkdCaFR6ckdhOVdFU05PWEhvMnc?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 18:24:18 GMT"
+          "published": "Tue, 18 Aug 2026 18:17:01 GMT"
         },
         {
-          "title": "DeSantis Ally In Florida Arrested On Child Sex-Abuse Charges - forbes.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV2N0S1Y0ZWVmeUltNDRxejlUZENuMUh0WEVLQUVZQ19uQzUyako2UFZNZ0NMVU81bS16RmRTM3RpYzAzSTZMNzBUSzdwWW1lUmpwMTdfcU1BUmJ1UGlLRnNTeU5CcEtMc1NucndoQnM0NGNYMEdVamVxWFZrd3ZWc1g0NWV0ZWNvdVNadkdOX3JURzlyb1dQM19ueHI5a3J6X2c1SUpkZ0hadEhXajR3NEd1OGg?oc=5",
+          "title": "WHO says Congo Ebola outbreak can still be brought under control within three months - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWGFoT0VRSHp6MWZuVTZJRnlUSkNENVhiNW5zWDVYR1JxN3ZaaGx2SFhXUnNoUW8wdmtBNnpaNGNIcU90MTJaNWxqX2UwSlM0bVVYTW52cFdIN1BzMzdZYXdMMi1RekhKblVqbV9STFgwbHgtMXRIb3dSWjcwU3QxY25ZaS1DTDM1YUZ6c3gtclIzaGNiN2hyZDcyaVJ6Q3Z4TUZFTjlCMlYyQVhKZGFVZTIyNVdBamR6YTlXNXZvVUlkZ2QydU9yWnZxT2JyZUZMRU1TWTZDMmhSS3VBWFU1NEI2UQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 15:40:03 GMT"
+          "published": "Tue, 18 Aug 2026 19:28:36 GMT"
         }
       ]
     },
     {
-      "word": "Children",
+      "word": "Strait",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zVlROb0pCT0JmUEpYTzJaUVdaTDVzVTdmeFBCOFFkeGFaWUJTRGE4eHVOTWJ0bzhCZ05sYXNWR19NTXBpNEJiQ0d2S2NSRDZlTnJadGxuN0plUQ?oc=5",
+          "title": "Iran is losing control of the Strait of Hormuz - CNN",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UYmdZbW8tMm55Yzg4Z3VFeDFiWUk2TDNWWU13aVdKU2tSSmtOb3FMWnBaOWRxMW1tMUZna01vZnpZUXdMaDNKLVVVR1FOMTlrZm03V2JWeGVzR2VxY19QbkdCaFR6ckdhOVdFU05PWEhvMnc?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 17:54:46 GMT"
+          "published": "Tue, 18 Aug 2026 18:17:01 GMT"
         },
         {
-          "title": "More U.S. Parents Opting Children Out of Vaccine Requirements, C.D.C. Reports - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fZ0pUSjlMM1pndW1wbm00cno4bTcxN1JtXzQzMVp5blRTNjhjRkw0ajRjTG56NHVhQ2xHQXBjZC12bEkyTVBHNHhweHFXcFpZdndRMTBJenRiN25VSV95UHZIaU5RcEV1S0NLem00aDJlSGt1SDViRA?oc=5",
+          "title": "U.S.-Iran Updates: Trump says no talks with Iran taking place as standoff over Strait of Hormuz continues - cbsnews.com",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96dTlXTXdLdkJfWHpuYUtTRlp1dDh5SEd2a2F6ZUxwcTJCa3kxRXhqaUE1aHhmWTFxOG9Zd21SQzBsalAyRjN1czlieHlXT1lIT1MtcnFDM0tTX1dCeDJqRHdJTXZZYjVHLXRndEJlZ1N6akkyMWRmR2Z5TQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 16:04:00 GMT"
+          "published": "Tue, 18 Aug 2026 20:01:00 GMT"
         }
       ]
     },
     {
-      "word": "Mother",
+      "word": "Hormuz",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zVlROb0pCT0JmUEpYTzJaUVdaTDVzVTdmeFBCOFFkeGFaWUJTRGE4eHVOTWJ0bzhCZ05sYXNWR19NTXBpNEJiQ0d2S2NSRDZlTnJadGxuN0plUQ?oc=5",
+          "title": "Iran is losing control of the Strait of Hormuz - CNN",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UYmdZbW8tMm55Yzg4Z3VFeDFiWUk2TDNWWU13aVdKU2tSSmtOb3FMWnBaOWRxMW1tMUZna01vZnpZUXdMaDNKLVVVR1FOMTlrZm03V2JWeGVzR2VxY19QbkdCaFR6ckdhOVdFU05PWEhvMnc?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 17:54:46 GMT"
+          "published": "Tue, 18 Aug 2026 18:17:01 GMT"
         },
         {
-          "title": "Hayden Panettiere’s mother shares first public comments since her daughter’s death - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWFRfSHNuR3hNZklHbWk0NnNFNW1iczBfTXktLUxSckRJMm9HR1VfNk42djFRZDVqNGdqUWp6S19EV0ZGclhna2RSLWEwVmFaVTctUkNmZVhvLW1OZUtVeTlsZU5CeE5zTlhlVEZkV1ZXRmw4MkJNdjdjX08yREMwbWhCZXZMNDdtM09WS1EtLXJua2h1T1YyVDRqU3pUeEFyNTMtOFpBejlvdGVibDJVbGRaZnFCbF9uZWc?oc=5",
+          "title": "U.S.-Iran Updates: Trump says no talks with Iran taking place as standoff over Strait of Hormuz continues - cbsnews.com",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96dTlXTXdLdkJfWHpuYUtTRlp1dDh5SEd2a2F6ZUxwcTJCa3kxRXhqaUE1aHhmWTFxOG9Zd21SQzBsalAyRjN1czlieHlXT1lIT1MtcnFDM0tTX1dCeDJqRHdJTXZZYjVHLXRndEJlZ1N6akkyMWRmR2Z5TQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 18:38:33 GMT"
+          "published": "Tue, 18 Aug 2026 20:01:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "President",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Ossoff calls Trump a ‘draft-dodging, crook president,’ intensifying his feud with White House - CNN",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yTkRSb3lyQTdQQ08wNlpBVml1VjFoYV9BOWk5Z1VERXFaMXFaTHBOQmk0cU5KLVQ2ZzJuMzRiM1dQZmw1WUFnR2ZRV1BJTmhYS2h1TFFBZTRFQmRkRU5nRnNuQXlBQ1IySXN3Unczaw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 18 Aug 2026 18:51:18 GMT"
+        },
+        {
+          "title": "South Korea president calls for military independence in wake of Trump call to cut joint drills - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQU9PcnNSS2ZQQmxoOFNldmdkQ0RWTmwtVEFQdGl5bkJTcnBoUWR6TUJjS0lnSXFTeG5qU1JZRFNiS2tnTGw0R040YkVYUHFDZHkzdzFmMnpEUmFpanRPR045cmNlYXhPbEZnN0JvZ0pRaHhvY2JHQWJiNHRtNlBIbWVKRnFCaDlnSmc1T3VaRExIVEFsRGw5QWJzMjZzZ2RxZzRWQ3JLTlcwRFpCQXdqeFh6eThGZw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 18 Aug 2026 17:20:00 GMT"
         }
       ]
     },
@@ -135,29 +197,105 @@
           "published": "Tue, 18 Aug 2026 15:40:03 GMT"
         },
         {
-          "title": "Meta 'hid the truth' over child safety, court hears, as social media trial begins - BBC",
+          "title": "Meta 'hid the truth' over child safety, court hears, as social media trial begins - bbc.com",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95eGhJRXZqdTAyWnhKVlBDZ1hvUms5eFZIN0lPTU5Nd0JTUXFMX3dGMWRKbHNYZjc0OFA0SHJNSS1zNnJPbTNyN2hGMlJGMVNaYXg2ZjlB?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 17:24:36 GMT"
+          "published": "Tue, 18 Aug 2026 20:09:27 GMT"
         }
       ]
     },
     {
-      "word": "Places",
+      "word": "Dead",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Justice Department to send a record 1,000 monitors to polling places in midterm elections - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOb0F2c2YtSFc4bGdyeUd4MldGU2VrTTQ4RUllVWF5Y0lfekhsX3dkWC1iSXZUbkRkcmlld1JjZEl2cmxsUFdKa01PcUNPT2RiQVdZRGNxalVDOHhjejJHbGdEdDJaXzVqV3hNTkxXLW54R2dfUUVoMlpfbmdZYWdhbw?oc=5",
+          "title": "Hawaii’s Storm Ravages a Cemetery, Setting Off a Hunt for the Dead - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOVVwd054ZVA0cEMwU01FXzZ4M0hVNWZoTVRNc3owa0F1OFlvbkVKNGZLaHVGN2Z0dU9JNkVOaUozMlRSMGgwTHBLUVRjZF9sdnV4QXAxNXZVQ0NWd1FwZUl3ZkxkUjVyUXpsNzFXd2NkUFF6UkdmeGlza1BpNE1yQnl1Zl9UTnZq?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 16:14:10 GMT"
+          "published": "Tue, 18 Aug 2026 17:06:36 GMT"
         },
         {
-          "title": "Iowa officials identify places visited during measles contagion - KCCI",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVGdxWUZEdkVFX3dKbk1pZlJNc1VsbzFzNlZzdWs2cHdNR3hBZ2laNU9ZYTY4eDdGaS10Umw4Y2tKSHpkWTJiMG9reTB3Um1TSmN2M2FBTmdyRnIyV0JrSURzSVNDUzBQaGNpYkpGS0dPaDJySEFwT19XTUsyZkZzbFhQRXpPNHg2MG9rZWZ4d0RuQQ?oc=5",
+          "title": "Frank Beard, ZZ Top’s Hard-Shuffling Drummer, Dead at 77 - Rolling Stone",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUlowa29uSEJ4b09jQmVSWmZlVkZCdk5EWGxRd1poeXZKSmY3NGlQaHo2TzNJOXFJbXNmMVNMSk5naGtEcmZ2bDRTY0FBTzNIUktMZzMzY21uZnRwSnhnTzVQczc3QTMyTFM4NWNWZXRpOWRjVHhQRmxaSzZnUnN5dG9yNXA2eFJuSnE1ekRJcWRWOUNzWVRLcFRGVmY4MjQ?oc=5",
           "source": "Google News",
-          "published": "Mon, 17 Aug 2026 21:32:00 GMT"
+          "published": "Tue, 18 Aug 2026 19:17:21 GMT"
+        }
+      ]
+    },
+    {
+      "word": "cut",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Penn State frat pledges were made to cut and bag cocaine for college drug ring, authorities say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMjA2ZEd5VnpuODl0YVZTLWVvWVVybWdveEMxdEZSM3FhOGotelJ4blVnQldCOXJ0Uml2RWFaakMxa2ZvT2xLNGd0alRWV0NXcm1fQ1hmcURicERyUzYzX2J0ZlNXZDFNREFESVJmaXRIVVF4SW5WUkpxLUlKVF94ZFFqZHBvejJGQVluNVMzUjA1YTZ2OW5NTGh6VUhFeVEwRlRkYUNLN0pGODlpRWdN?oc=5",
+          "source": "Google News",
+          "published": "Tue, 18 Aug 2026 17:18:00 GMT"
+        },
+        {
+          "title": "South Korea president calls for military independence in wake of Trump call to cut joint drills - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQU9PcnNSS2ZQQmxoOFNldmdkQ0RWTmwtVEFQdGl5bkJTcnBoUWR6TUJjS0lnSXFTeG5qU1JZRFNiS2tnTGw0R040YkVYUHFDZHkzdzFmMnpEUmFpanRPR045cmNlYXhPbEZnN0JvZ0pRaHhvY2JHQWJiNHRtNlBIbWVKRnFCaDlnSmc1T3VaRExIVEFsRGw5QWJzMjZzZ2RxZzRWQ3JLTlcwRFpCQXdqeFh6eThGZw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 18 Aug 2026 17:20:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "College",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Penn State frat pledges were made to cut and bag cocaine for college drug ring, authorities say - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMjA2ZEd5VnpuODl0YVZTLWVvWVVybWdveEMxdEZSM3FhOGotelJ4blVnQldCOXJ0Uml2RWFaakMxa2ZvT2xLNGd0alRWV0NXcm1fQ1hmcURicERyUzYzX2J0ZlNXZDFNREFESVJmaXRIVVF4SW5WUkpxLUlKVF94ZFFqZHBvejJGQVluNVMzUjA1YTZ2OW5NTGh6VUhFeVEwRlRkYUNLN0pGODlpRWdN?oc=5",
+          "source": "Google News",
+          "published": "Tue, 18 Aug 2026 17:18:00 GMT"
+        },
+        {
+          "title": "College football coaching tiers 2026: It’s Curt Cignetti and Kirby Smart, then everyone else - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbktMdG9TZGJhN01aaXdJSVotYkMzUFNtSkVkLTlvUDd2T2ZmQUtsRGw2eW8yYzRZYkV3RVJXYjF2UHJxRjBhM19hZWVfd1Vnd3ZJTTNnODV0QmdnZEh1TEdFbFNCMlZfaHpRc3FwdVViNk9rU2hRd1REMVVFU2hnRWs2azRhU2owLXJtWHNzQlg0WHNqNFEwN3BZRWI1ckVyNFlfUXJ3?oc=5",
+          "source": "Google News",
+          "published": "Tue, 18 Aug 2026 10:00:05 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Military",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "South Korea president calls for military independence in wake of Trump call to cut joint drills - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQU9PcnNSS2ZQQmxoOFNldmdkQ0RWTmwtVEFQdGl5bkJTcnBoUWR6TUJjS0lnSXFTeG5qU1JZRFNiS2tnTGw0R040YkVYUHFDZHkzdzFmMnpEUmFpanRPR045cmNlYXhPbEZnN0JvZ0pRaHhvY2JHQWJiNHRtNlBIbWVKRnFCaDlnSmc1T3VaRExIVEFsRGw5QWJzMjZzZ2RxZzRWQ3JLTlcwRFpCQXdqeFh6eThGZw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 18 Aug 2026 17:20:00 GMT"
+        },
+        {
+          "title": "Israeli Strike on Syrian Military Air Base Draws U.S. Criticism - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNjlWMm9vRVhPaWVUYWQxNE1uWUdwaFp6UTRES0hrSG1BR2VBQzFBVEQzUEVNVkd6QjQxZXc2dFJJeUcwZFFYRWdwYW8yTXBXa3NaM2owcmx1b2s1SlJMNVZrUmV5ZnhmR0dQd1FKczJrSG94MmRLbEZCUy1ZTzJjLTh5NUNFUGtFSDl1NjdhY044STQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 18 Aug 2026 16:10:02 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Begins",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "As rubble clears, Colombia begins focusing on recovery after the earthquake - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT21Oem1fQjd6WXhMS2NaNFBua0pKWVhKWXdRYTJLb0lhY09XOUtrSVdKQUN6cW9pS3pzc1FkUnAxcGRtSHdIWXFfbzk1SFkxb3hoSzBqYlIyMENOTjVGVlRJZG9OWlVodzRBTUJPZUlrZEF0cUtLZTFxZ2VOdDVhcHVpcVotWFNqU0loT2pQUUtYTnFISU1DVXd4em1ZRmhyR0xOejk3MWZJMlFKMllUbDAxZFhYd9IBuwFBVV95cUxPdlprMFJfdXlweEtTYTdfeGJLM3NVVURSUmUxVzBQd19FcTZ6RjNOaTNiTW9SUE9jNEFTOUVTdzQ4dW8ydGtpbGFncjFHc08xXzh1bFhqSkRvZnNibmpwR2I1Wk1LaWQ4TVpwZnlDaVJnMkNqVFdCVXFOSkRTbU5UaUstVEh4RC1RNGpPaVFsbFJrSVNYRVhGb01GRENZbjZwbTFHRXQzVTlNZnBUN0ZGT0NLa21wSlFoTktR?oc=5",
+          "source": "Google News",
+          "published": "Tue, 18 Aug 2026 03:11:09 GMT"
+        },
+        {
+          "title": "Meta 'hid the truth' over child safety, court hears, as social media trial begins - bbc.com",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95eGhJRXZqdTAyWnhKVlBDZ1hvUms5eFZIN0lPTU5Nd0JTUXFMX3dGMWRKbHNYZjc0OFA0SHJNSS1zNnJPbTNyN2hGMlJGMVNaYXg2ZjlB?oc=5",
+          "source": "Google News",
+          "published": "Tue, 18 Aug 2026 20:09:27 GMT"
         }
       ]
     },
@@ -167,10 +305,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Meta 'hid the truth' over child safety, court hears, as social media trial begins - BBC",
+          "title": "Meta 'hid the truth' over child safety, court hears, as social media trial begins - bbc.com",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95eGhJRXZqdTAyWnhKVlBDZ1hvUms5eFZIN0lPTU5Nd0JTUXFMX3dGMWRKbHNYZjc0OFA0SHJNSS1zNnJPbTNyN2hGMlJGMVNaYXg2ZjlB?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 17:24:36 GMT"
+          "published": "Tue, 18 Aug 2026 20:09:27 GMT"
         },
         {
           "title": "OpenAI unveils ChatGPT for Teens with stronger guardrails to tackle safety risks - Reuters",
@@ -181,21 +319,59 @@
       ]
     },
     {
-      "word": "Unveils",
+      "word": "Trial",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "OpenAI unveils ChatGPT for Teens with stronger guardrails to tackle safety risks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVlMzd203czRIQzl2a0RlczBUQnFHcklwTnNqc3hfdHNBSW5QdFVReFJZdTFBM1pvUGlLeWZJWUVHTHlzMUdTbHVBNXI1OWM2Q2FtS0ZON3hEcENqQ3J5Z0RvOFgwdm9FZzY0b3RfWlJIMmtINHZtQmdQYlplbi1rS3hkVGw3TXN3RThwZ3EwQzI0N2ZVVTN3WVBWVWI4c29wdGllRl9Pd09YTGxaRWxudHdZQmRaSFc4SEE?oc=5",
+          "title": "Meta 'hid the truth' over child safety, court hears, as social media trial begins - bbc.com",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95eGhJRXZqdTAyWnhKVlBDZ1hvUms5eFZIN0lPTU5Nd0JTUXFMX3dGMWRKbHNYZjc0OFA0SHJNSS1zNnJPbTNyN2hGMlJGMVNaYXg2ZjlB?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 18:06:54 GMT"
+          "published": "Tue, 18 Aug 2026 20:09:27 GMT"
         },
         {
-          "title": "Florence Pugh-Led ‘East Of Eden’ Sets Netflix Release Date, Unveils First Photos - Deadline",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQWlpbHkwblNlX2g5dk9GcGdnZVNtelJaaEFvVlpKU0JYYjhCUmZCaE5wWmVhV1ZiM1FQcGxVNk5TNWI5dFg0ME1lMUJnVEI4bk9VNERzVENIc0R3OEV4VUJ0WlFtR3VtZHVnNy1pQ0NValZMUlZtaGJlUzFQa1RVaW9ZbFZOeDI3Rl92ZUpVVmhJYzhfdDNCMVduQQ?oc=5",
+          "title": "Forensic pathologist details Tupac Shakur’s fatal wounds at Duane ‘Keffe D’ Davis trial - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVm5jaWZuQ1A3V1BBMU1HM1Bia29QNG9NcTBwMnFzb1F2eDlLTkw2aHdwQnRaR042TW5jRVNHZWoyMm1xZXlpenBNdkNkNVVyR2l1NF93ZXZRLTBGY1RBZ2NVUU5jZVdCalk3MWt4Q2pyeExmM28xYnVGZzZmRHB4ZjBPU2oxc1l2RnpzeXR3MEtuUHk3WWxJYy1OdzFlTjJDWWNKRkJsMjI?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 17:39:00 GMT"
+          "published": "Tue, 18 Aug 2026 18:55:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Home",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Home Depot customers stick to smaller projects as housing costs stay high - Fox Business",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdG10WF82WUl3RXUzdVJNeE9lMi1udjJNTzIyNVFBVGszNWJZa1NEOWdUTnE5UDZtdnQ5bHVzVmFCd2pTcWktYkYyeTIzWUxvTlVPSVZlcWs3Vy1HcUEtTWJKUlNpTjJSUVFqdDJrT0o0amh3ZjBnUkdObjk3UVFUMmdMRnAzYXF30gGOAUFVX3lxTE9Ua193MUMzQV9Sek1yblM5TmxiaHFacG5paGM0S3JXVDQ3M0VvYkx3OVhnVkJZbnU3bW90dUhWdEpqc2lVRndLUWVVaVlzNy1yOHpZb3oxZ2g4U0kxSWhuSERCTUVjekVjT01PaG52Zm8zYi0wLW1VencySkM1OUF0RVRIcGtGcDhaZVVzS3c?oc=5",
+          "source": "Google News",
+          "published": "Tue, 18 Aug 2026 15:01:00 GMT"
+        },
+        {
+          "title": "Apple’s big Home product overhaul leaked in new report - 9to5Mac",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU0dyLTV6Vmx3MFMwc1JfQUNvY3NWMjdRSGprRFpnNmVYN1RqSnQtOUY5cF9nSG9XZnd6NGFVWkdudGRfT3N4TDJwY1NQLTJpNWZLcXNiSTRld2huVmFWQ0EwUGZMWDlnNmxGYzl5MU9Md1Q4T29VVHJHaGl3RnVnbmwxOHF1b2RzUEdhMWFn?oc=5",
+          "source": "Google News",
+          "published": "Tue, 18 Aug 2026 14:31:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Smaller",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Home Depot customers stick to smaller projects as housing costs stay high - Fox Business",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdG10WF82WUl3RXUzdVJNeE9lMi1udjJNTzIyNVFBVGszNWJZa1NEOWdUTnE5UDZtdnQ5bHVzVmFCd2pTcWktYkYyeTIzWUxvTlVPSVZlcWs3Vy1HcUEtTWJKUlNpTjJSUVFqdDJrT0o0amh3ZjBnUkdObjk3UVFUMmdMRnAzYXF30gGOAUFVX3lxTE9Ua193MUMzQV9Sek1yblM5TmxiaHFacG5paGM0S3JXVDQ3M0VvYkx3OVhnVkJZbnU3bW90dUhWdEpqc2lVRndLUWVVaVlzNy1yOHpZb3oxZ2g4U0kxSWhuSERCTUVjekVjT01PaG52Zm8zYi0wLW1VencySkM1OUF0RVRIcGtGcDhaZVVzS3c?oc=5",
+          "source": "Google News",
+          "published": "Tue, 18 Aug 2026 15:01:00 GMT"
+        },
+        {
+          "title": "The Milky Way devoured a smaller galaxy about 11.8 billion years ago - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMThhdG1kOE0xRk5oNUlaNU5helBxRmxHNDlkNDJZOEZKMmIyaWhUVXE0WFA2MGh2RkszdElYVFFtNHZITW5QR3ZRRUdQRDRSejlwcFAwLTIxVnhVOFFXbm9pbXhYa2pZMnF1bmVvNUh3bDNLUkk0Y1c1YWlmckRkNnF0VkdtOWZzVmhkVnh5ZEdyU25YLUxoVldBNC01empFbkVoSmlmckE?oc=5",
+          "source": "Google News",
+          "published": "Tue, 18 Aug 2026 09:01:46 GMT"
         }
       ]
     },
@@ -219,63 +395,6 @@
       ]
     },
     {
-      "word": "Highest",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Bond Sell-Off Sends Borrowing Costs to Highest Level Since 2007 - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vSUxrUno5VVNWbTdFZ0hMRkxUeVYxY2s4NnIyUkV4WFJMYnFDNXIzVGdYMm92NzFoemRxRUZyRlA3d3VrYXFjTUtFMGhscE90NmRRNjZKYTc2OUhpYVBEdUVSWXBQUmN4bkpZaGxPQnNQTTQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 18 Aug 2026 18:22:53 GMT"
-        },
-        {
-          "title": "Flight attendants and pilots have highest risk of dying from radiation-linked cancers, study says - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT3JHUFU3bm1UX2JOSWVRZ2dVWEhOX0daYjRjeVdoOVBvb01tMU04aDhNXzJzd1RJVW9aTXlGNmZDMW1BTGNKanZ1dExnSnd6UFhSclpUOG8yOFE4elF5R0lwZlNOZGFWZDlUT1h3aGMwQkllb0VTRDE5SkdWN05uM2ZaZy1KeUIxMG9ZN0U0R2NZSWhncVE?oc=5",
-          "source": "Google News",
-          "published": "Tue, 18 Aug 2026 15:21:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Since",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Bond Sell-Off Sends Borrowing Costs to Highest Level Since 2007 - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vSUxrUno5VVNWbTdFZ0hMRkxUeVYxY2s4NnIyUkV4WFJMYnFDNXIzVGdYMm92NzFoemRxRUZyRlA3d3VrYXFjTUtFMGhscE90NmRRNjZKYTc2OUhpYVBEdUVSWXBQUmN4bkpZaGxPQnNQTTQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 18 Aug 2026 18:22:53 GMT"
-        },
-        {
-          "title": "Hayden Panettiere’s mother shares first public comments since her daughter’s death - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWFRfSHNuR3hNZklHbWk0NnNFNW1iczBfTXktLUxSckRJMm9HR1VfNk42djFRZDVqNGdqUWp6S19EV0ZGclhna2RSLWEwVmFaVTctUkNmZVhvLW1OZUtVeTlsZU5CeE5zTlhlVEZkV1ZXRmw4MkJNdjdjX08yREMwbWhCZXZMNDdtM09WS1EtLXJua2h1T1YyVDRqU3pUeEFyNTMtOFpBejlvdGVibDJVbGRaZnFCbF9uZWc?oc=5",
-          "source": "Google News",
-          "published": "Tue, 18 Aug 2026 18:38:33 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Finally",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Google Wallet's fancy new colorful UI is finally rolling out - Android Authority",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOV2phUGNJZUo2OU5GSHpqZ1V1cDNTTVZDLVNuRVJYTjFZMHpOVmJqR3U0UHNRdkJodWN6aHV2aFlMX00wWGhlVDRJQkFuZFNFbUZYbExGd3lOZU01NGRmOFN0Zm9MMkNsVDZLTUFpYWd0VWxLRGpMNXRxaXJmNnNOQUZR?oc=5",
-          "source": "Google News",
-          "published": "Tue, 18 Aug 2026 12:45:00 GMT"
-        },
-        {
-          "title": "Exclusive: You Can Finally Buy a Fairphone—a Sustainable, Repairable Smartphone—in the US - WIRED",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUk9SZjV6RXRaVzdHLVI3WC1LM3pzT2U5RmlaRTN5WjNub2lvcW9YQkN6UnItREVtdk1oS0E0NWtxOFcweGhCN09VUWRQQjF5ZVJHRlVPZm5iNHdGdU1lQjRfYkoyb2xma2tjYzJGQVV0ZGJVbUY3MnZtUGxBUFl2ZjJXclY4ckRob203ODJRYTNsU19lT01OaUJWQ2poU1RUbVBmeGx5TkRlQQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 18 Aug 2026 10:30:00 GMT"
-        }
-      ]
-    },
-    {
       "word": "Pro",
       "count": 2,
       "category": "NOUN",
@@ -294,7 +413,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Rosie O’Donnell Crushed Her ‘Kimmel’ Monologue by Doing What Jimmy Kimmel Doesn’t - hollywoodreporter.com",
+          "title": "Rosie O’Donnell Crushed Her ‘Kimmel’ Monologue by Doing What Jimmy Kimmel Doesn’t - The Hollywood Reporter",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbl9ieWRKc3BucE84OXYzQV9ZYl9RdTlKejhmcno4SUZsUzJlNlBVU1RGX2M0V2lKX1JSTGZxZ1pmenJmRUpJbGpBUUtISXFNNXBvZ3BNRC1QSll4TEMyM2tvazRpSVIzLUczbFlaRV82a0hRSlpZeGhISk9MWlBYYlphczFVYnBCNFhIUUpXUXJjRlFuTXZxWUprcm1kazJs?oc=5",
           "source": "Google News",
           "published": "Tue, 18 Aug 2026 16:39:10 GMT"
@@ -302,145 +421,158 @@
       ]
     },
     {
-      "word": "Planned",
+      "word": "Losing",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump says US has no planned talks with Iran and other news from the Middle East - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUGE0ZXdacDJQQU1FSTNKRzRoV21MR3h5R1FIekhsU054VE9WSzdUdThYNmY3emZwQWpXUFczUklKU2MzZVdUeV9ZaWtoaF9IUXRaT24xS0Y2MmdlbnlxT1JicndhbWpfb1N4Z09GeDV4UGMyQUdLb3Utb3pqNTNDQTR2amh2cTVGZTJ5S3FVVzlWZmoyNHNLUy12WnM3YUtiMW01Vnp5TmRQWjdQS3c?oc=5",
+          "title": "Iran is losing control of the Strait of Hormuz - CNN",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UYmdZbW8tMm55Yzg4Z3VFeDFiWUk2TDNWWU13aVdKU2tSSmtOb3FMWnBaOWRxMW1tMUZna01vZnpZUXdMaDNKLVVVR1FOMTlrZm03V2JWeGVzR2VxY19QbkdCaFR6ckdhOVdFU05PWEhvMnc?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 17:33:00 GMT"
+          "published": "Tue, 18 Aug 2026 18:17:01 GMT"
         }
       ]
     },
     {
-      "word": "Iran",
+      "word": "Ossoff",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump says US has no planned talks with Iran and other news from the Middle East - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUGE0ZXdacDJQQU1FSTNKRzRoV21MR3h5R1FIekhsU054VE9WSzdUdThYNmY3emZwQWpXUFczUklKU2MzZVdUeV9ZaWtoaF9IUXRaT24xS0Y2MmdlbnlxT1JicndhbWpfb1N4Z09GeDV4UGMyQUdLb3Utb3pqNTNDQTR2amh2cTVGZTJ5S3FVVzlWZmoyNHNLUy12WnM3YUtiMW01Vnp5TmRQWjdQS3c?oc=5",
+          "title": "Ossoff calls Trump a ‘draft-dodging, crook president,’ intensifying his feud with White House - CNN",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yTkRSb3lyQTdQQ08wNlpBVml1VjFoYV9BOWk5Z1VERXFaMXFaTHBOQmk0cU5KLVQ2ZzJuMzRiM1dQZmw1WUFnR2ZRV1BJTmhYS2h1TFFBZTRFQmRkRU5nRnNuQXlBQ1IySXN3Unczaw?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 17:33:00 GMT"
+          "published": "Tue, 18 Aug 2026 18:51:18 GMT"
         }
       ]
     },
     {
-      "word": "Middle",
+      "word": "Draft",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump says US has no planned talks with Iran and other news from the Middle East - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUGE0ZXdacDJQQU1FSTNKRzRoV21MR3h5R1FIekhsU054VE9WSzdUdThYNmY3emZwQWpXUFczUklKU2MzZVdUeV9ZaWtoaF9IUXRaT24xS0Y2MmdlbnlxT1JicndhbWpfb1N4Z09GeDV4UGMyQUdLb3Utb3pqNTNDQTR2amh2cTVGZTJ5S3FVVzlWZmoyNHNLUy12WnM3YUtiMW01Vnp5TmRQWjdQS3c?oc=5",
+          "title": "Ossoff calls Trump a ‘draft-dodging, crook president,’ intensifying his feud with White House - CNN",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yTkRSb3lyQTdQQ08wNlpBVml1VjFoYV9BOWk5Z1VERXFaMXFaTHBOQmk0cU5KLVQ2ZzJuMzRiM1dQZmw1WUFnR2ZRV1BJTmhYS2h1TFFBZTRFQmRkRU5nRnNuQXlBQ1IySXN3Unczaw?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 17:33:00 GMT"
+          "published": "Tue, 18 Aug 2026 18:51:18 GMT"
         }
       ]
     },
     {
-      "word": "Election",
+      "word": "Dodging",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Election Live Updates: Florida, Alaska and Wyoming Hold Key Primaries - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQci1UckpMV09GWU5CY3VPWGxobnZnOEh6akZLb0syV3A1bGd4Zi1sSEpFajZ2YTc5UnpBSHpsejQyQnJHRFdQTkIxYlZUb1Rfak43bUFzMjhzc0trZVQxNkRaTWZxdENhUWFVVGMxSGk3N09CUkIxTnMyWTdidmFpb2h2TEk?oc=5",
+          "title": "Ossoff calls Trump a ‘draft-dodging, crook president,’ intensifying his feud with White House - CNN",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yTkRSb3lyQTdQQ08wNlpBVml1VjFoYV9BOWk5Z1VERXFaMXFaTHBOQmk0cU5KLVQ2ZzJuMzRiM1dQZmw1WUFnR2ZRV1BJTmhYS2h1TFFBZTRFQmRkRU5nRnNuQXlBQ1IySXN3Unczaw?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 18:24:18 GMT"
+          "published": "Tue, 18 Aug 2026 18:51:18 GMT"
         }
       ]
     },
     {
-      "word": "Live",
+      "word": "Crook",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Election Live Updates: Florida, Alaska and Wyoming Hold Key Primaries - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQci1UckpMV09GWU5CY3VPWGxobnZnOEh6akZLb0syV3A1bGd4Zi1sSEpFajZ2YTc5UnpBSHpsejQyQnJHRFdQTkIxYlZUb1Rfak43bUFzMjhzc0trZVQxNkRaTWZxdENhUWFVVGMxSGk3N09CUkIxTnMyWTdidmFpb2h2TEk?oc=5",
+          "title": "Ossoff calls Trump a ‘draft-dodging, crook president,’ intensifying his feud with White House - CNN",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yTkRSb3lyQTdQQ08wNlpBVml1VjFoYV9BOWk5Z1VERXFaMXFaTHBOQmk0cU5KLVQ2ZzJuMzRiM1dQZmw1WUFnR2ZRV1BJTmhYS2h1TFFBZTRFQmRkRU5nRnNuQXlBQ1IySXN3Unczaw?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 18:24:18 GMT"
+          "published": "Tue, 18 Aug 2026 18:51:18 GMT"
         }
       ]
     },
     {
-      "word": "Updates",
+      "word": "Intensifying",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Election Live Updates: Florida, Alaska and Wyoming Hold Key Primaries - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQci1UckpMV09GWU5CY3VPWGxobnZnOEh6akZLb0syV3A1bGd4Zi1sSEpFajZ2YTc5UnpBSHpsejQyQnJHRFdQTkIxYlZUb1Rfak43bUFzMjhzc0trZVQxNkRaTWZxdENhUWFVVGMxSGk3N09CUkIxTnMyWTdidmFpb2h2TEk?oc=5",
+          "title": "Ossoff calls Trump a ‘draft-dodging, crook president,’ intensifying his feud with White House - CNN",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yTkRSb3lyQTdQQ08wNlpBVml1VjFoYV9BOWk5Z1VERXFaMXFaTHBOQmk0cU5KLVQ2ZzJuMzRiM1dQZmw1WUFnR2ZRV1BJTmhYS2h1TFFBZTRFQmRkRU5nRnNuQXlBQ1IySXN3Unczaw?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 18:24:18 GMT"
+          "published": "Tue, 18 Aug 2026 18:51:18 GMT"
         }
       ]
     },
     {
-      "word": "Alaska",
+      "word": "Feud",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Election Live Updates: Florida, Alaska and Wyoming Hold Key Primaries - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQci1UckpMV09GWU5CY3VPWGxobnZnOEh6akZLb0syV3A1bGd4Zi1sSEpFajZ2YTc5UnpBSHpsejQyQnJHRFdQTkIxYlZUb1Rfak43bUFzMjhzc0trZVQxNkRaTWZxdENhUWFVVGMxSGk3N09CUkIxTnMyWTdidmFpb2h2TEk?oc=5",
+          "title": "Ossoff calls Trump a ‘draft-dodging, crook president,’ intensifying his feud with White House - CNN",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yTkRSb3lyQTdQQ08wNlpBVml1VjFoYV9BOWk5Z1VERXFaMXFaTHBOQmk0cU5KLVQ2ZzJuMzRiM1dQZmw1WUFnR2ZRV1BJTmhYS2h1TFFBZTRFQmRkRU5nRnNuQXlBQ1IySXN3Unczaw?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 18:24:18 GMT"
+          "published": "Tue, 18 Aug 2026 18:51:18 GMT"
         }
       ]
     },
     {
-      "word": "Wyoming",
+      "word": "White",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Election Live Updates: Florida, Alaska and Wyoming Hold Key Primaries - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQci1UckpMV09GWU5CY3VPWGxobnZnOEh6akZLb0syV3A1bGd4Zi1sSEpFajZ2YTc5UnpBSHpsejQyQnJHRFdQTkIxYlZUb1Rfak43bUFzMjhzc0trZVQxNkRaTWZxdENhUWFVVGMxSGk3N09CUkIxTnMyWTdidmFpb2h2TEk?oc=5",
+          "title": "Ossoff calls Trump a ‘draft-dodging, crook president,’ intensifying his feud with White House - CNN",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yTkRSb3lyQTdQQ08wNlpBVml1VjFoYV9BOWk5Z1VERXFaMXFaTHBOQmk0cU5KLVQ2ZzJuMzRiM1dQZmw1WUFnR2ZRV1BJTmhYS2h1TFFBZTRFQmRkRU5nRnNuQXlBQ1IySXN3Unczaw?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 18:24:18 GMT"
+          "published": "Tue, 18 Aug 2026 18:51:18 GMT"
         }
       ]
     },
     {
-      "word": "Hold",
+      "word": "House",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Election Live Updates: Florida, Alaska and Wyoming Hold Key Primaries - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQci1UckpMV09GWU5CY3VPWGxobnZnOEh6akZLb0syV3A1bGd4Zi1sSEpFajZ2YTc5UnpBSHpsejQyQnJHRFdQTkIxYlZUb1Rfak43bUFzMjhzc0trZVQxNkRaTWZxdENhUWFVVGMxSGk3N09CUkIxTnMyWTdidmFpb2h2TEk?oc=5",
+          "title": "Ossoff calls Trump a ‘draft-dodging, crook president,’ intensifying his feud with White House - CNN",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yTkRSb3lyQTdQQ08wNlpBVml1VjFoYV9BOWk5Z1VERXFaMXFaTHBOQmk0cU5KLVQ2ZzJuMzRiM1dQZmw1WUFnR2ZRV1BJTmhYS2h1TFFBZTRFQmRkRU5nRnNuQXlBQ1IySXN3Unczaw?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 18:24:18 GMT"
+          "published": "Tue, 18 Aug 2026 18:51:18 GMT"
         }
       ]
     },
     {
-      "word": "Key",
+      "word": "Weighing",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Election Live Updates: Florida, Alaska and Wyoming Hold Key Primaries - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQci1UckpMV09GWU5CY3VPWGxobnZnOEh6akZLb0syV3A1bGd4Zi1sSEpFajZ2YTc5UnpBSHpsejQyQnJHRFdQTkIxYlZUb1Rfak43bUFzMjhzc0trZVQxNkRaTWZxdENhUWFVVGMxSGk3N09CUkIxTnMyWTdidmFpb2h2TEk?oc=5",
+          "title": "Trump is weighing whether to grant Canada a tariff reprieve - politico.com",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWnlfNlhXN0hPbENYcWlMcDh2aFlkLWQ1WGJWQVlIRTFEUEo1WC02enIydUE0VnFsSENWam5VY1EtMXAyVno3RHpCZlQ1RFR5R0FpTmFxYzdxWjBEUk1feFJRMEl0QVFPUTF4UXQ1bjNseWxvemdpZmJDMXJrczIxTG0wVVltVjVDaFF4QWl3?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 18:24:18 GMT"
+          "published": "Tue, 18 Aug 2026 19:09:00 GMT"
         }
       ]
     },
     {
-      "word": "Primaries",
+      "word": "Whether",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Election Live Updates: Florida, Alaska and Wyoming Hold Key Primaries - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQci1UckpMV09GWU5CY3VPWGxobnZnOEh6akZLb0syV3A1bGd4Zi1sSEpFajZ2YTc5UnpBSHpsejQyQnJHRFdQTkIxYlZUb1Rfak43bUFzMjhzc0trZVQxNkRaTWZxdENhUWFVVGMxSGk3N09CUkIxTnMyWTdidmFpb2h2TEk?oc=5",
+          "title": "Trump is weighing whether to grant Canada a tariff reprieve - politico.com",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWnlfNlhXN0hPbENYcWlMcDh2aFlkLWQ1WGJWQVlIRTFEUEo1WC02enIydUE0VnFsSENWam5VY1EtMXAyVno3RHpCZlQ1RFR5R0FpTmFxYzdxWjBEUk1feFJRMEl0QVFPUTF4UXQ1bjNseWxvemdpZmJDMXJrczIxTG0wVVltVjVDaFF4QWl3?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 18:24:18 GMT"
+          "published": "Tue, 18 Aug 2026 19:09:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Grant",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump is weighing whether to grant Canada a tariff reprieve - politico.com",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWnlfNlhXN0hPbENYcWlMcDh2aFlkLWQ1WGJWQVlIRTFEUEo1WC02enIydUE0VnFsSENWam5VY1EtMXAyVno3RHpCZlQ1RFR5R0FpTmFxYzdxWjBEUk1feFJRMEl0QVFPUTF4UXQ1bjNseWxvemdpZmJDMXJrczIxTG0wVVltVjVDaFF4QWl3?oc=5",
+          "source": "Google News",
+          "published": "Tue, 18 Aug 2026 19:09:00 GMT"
         }
       ]
     },
@@ -450,166 +582,88 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "U.S., Canada in last-minute talks to head off steep new U.S. tariffs - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRlZBMlQyUTFIcTBzX2VqS1VuangwQVpiS0FfNTdmUTRjZ08zc2hOMWotS0hCSzVFTzM2RTNYXzdjTGwwbWJsWm5pb2JtZnZIOU1vbHdnOHEwVHBBeC1OcDBTTTNrS0F5amRBRmdkbWF1RFlheGhfNm1fMEhjUXlRdFdwQ0k?oc=5",
+          "title": "Trump is weighing whether to grant Canada a tariff reprieve - politico.com",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWnlfNlhXN0hPbENYcWlMcDh2aFlkLWQ1WGJWQVlIRTFEUEo1WC02enIydUE0VnFsSENWam5VY1EtMXAyVno3RHpCZlQ1RFR5R0FpTmFxYzdxWjBEUk1feFJRMEl0QVFPUTF4UXQ1bjNseWxvemdpZmJDMXJrczIxTG0wVVltVjVDaFF4QWl3?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 11:28:00 GMT"
+          "published": "Tue, 18 Aug 2026 19:09:00 GMT"
         }
       ]
     },
     {
-      "word": "Last",
+      "word": "Tariff",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "U.S., Canada in last-minute talks to head off steep new U.S. tariffs - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRlZBMlQyUTFIcTBzX2VqS1VuangwQVpiS0FfNTdmUTRjZ08zc2hOMWotS0hCSzVFTzM2RTNYXzdjTGwwbWJsWm5pb2JtZnZIOU1vbHdnOHEwVHBBeC1OcDBTTTNrS0F5amRBRmdkbWF1RFlheGhfNm1fMEhjUXlRdFdwQ0k?oc=5",
+          "title": "Trump is weighing whether to grant Canada a tariff reprieve - politico.com",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWnlfNlhXN0hPbENYcWlMcDh2aFlkLWQ1WGJWQVlIRTFEUEo1WC02enIydUE0VnFsSENWam5VY1EtMXAyVno3RHpCZlQ1RFR5R0FpTmFxYzdxWjBEUk1feFJRMEl0QVFPUTF4UXQ1bjNseWxvemdpZmJDMXJrczIxTG0wVVltVjVDaFF4QWl3?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 11:28:00 GMT"
+          "published": "Tue, 18 Aug 2026 19:09:00 GMT"
         }
       ]
     },
     {
-      "word": "Minute",
+      "word": "Reprieve",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "U.S., Canada in last-minute talks to head off steep new U.S. tariffs - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRlZBMlQyUTFIcTBzX2VqS1VuangwQVpiS0FfNTdmUTRjZ08zc2hOMWotS0hCSzVFTzM2RTNYXzdjTGwwbWJsWm5pb2JtZnZIOU1vbHdnOHEwVHBBeC1OcDBTTTNrS0F5amRBRmdkbWF1RFlheGhfNm1fMEhjUXlRdFdwQ0k?oc=5",
+          "title": "Trump is weighing whether to grant Canada a tariff reprieve - politico.com",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWnlfNlhXN0hPbENYcWlMcDh2aFlkLWQ1WGJWQVlIRTFEUEo1WC02enIydUE0VnFsSENWam5VY1EtMXAyVno3RHpCZlQ1RFR5R0FpTmFxYzdxWjBEUk1feFJRMEl0QVFPUTF4UXQ1bjNseWxvemdpZmJDMXJrczIxTG0wVVltVjVDaFF4QWl3?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 11:28:00 GMT"
+          "published": "Tue, 18 Aug 2026 19:09:00 GMT"
         }
       ]
     },
     {
-      "word": "Head",
+      "word": "ABC",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "U.S., Canada in last-minute talks to head off steep new U.S. tariffs - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRlZBMlQyUTFIcTBzX2VqS1VuangwQVpiS0FfNTdmUTRjZ08zc2hOMWotS0hCSzVFTzM2RTNYXzdjTGwwbWJsWm5pb2JtZnZIOU1vbHdnOHEwVHBBeC1OcDBTTTNrS0F5amRBRmdkbWF1RFlheGhfNm1fMEhjUXlRdFdwQ0k?oc=5",
+          "title": "ABC sues FCC over challenge to broadcast licenses - PBS",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT3BIbGVObGM5VWhoWTU4UWEzWkQ3TThrY3FvdlNCVGl3UHBCblpzUDZfNHhRTEJicmx4WThRVk1ZX2dKbUtaZUJLUEdNeUxCR3dMVURSOEg4aUlqMkllTkRqamNUU3htLTI2Sk9EUkNHTTJTTml2Y3p5SVdPOGlCQmNZVW9yVlNUMnlCVVNR?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 11:28:00 GMT"
+          "published": "Tue, 18 Aug 2026 17:46:09 GMT"
         }
       ]
     },
     {
-      "word": "Steep",
+      "word": "Sues",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "U.S., Canada in last-minute talks to head off steep new U.S. tariffs - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRlZBMlQyUTFIcTBzX2VqS1VuangwQVpiS0FfNTdmUTRjZ08zc2hOMWotS0hCSzVFTzM2RTNYXzdjTGwwbWJsWm5pb2JtZnZIOU1vbHdnOHEwVHBBeC1OcDBTTTNrS0F5amRBRmdkbWF1RFlheGhfNm1fMEhjUXlRdFdwQ0k?oc=5",
+          "title": "ABC sues FCC over challenge to broadcast licenses - PBS",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT3BIbGVObGM5VWhoWTU4UWEzWkQ3TThrY3FvdlNCVGl3UHBCblpzUDZfNHhRTEJicmx4WThRVk1ZX2dKbUtaZUJLUEdNeUxCR3dMVURSOEg4aUlqMkllTkRqamNUU3htLTI2Sk9EUkNHTTJTTml2Y3p5SVdPOGlCQmNZVW9yVlNUMnlCVVNR?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 11:28:00 GMT"
+          "published": "Tue, 18 Aug 2026 17:46:09 GMT"
         }
       ]
     },
     {
-      "word": "Tariffs",
+      "word": "FCC",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "U.S., Canada in last-minute talks to head off steep new U.S. tariffs - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRlZBMlQyUTFIcTBzX2VqS1VuangwQVpiS0FfNTdmUTRjZ08zc2hOMWotS0hCSzVFTzM2RTNYXzdjTGwwbWJsWm5pb2JtZnZIOU1vbHdnOHEwVHBBeC1OcDBTTTNrS0F5amRBRmdkbWF1RFlheGhfNm1fMEhjUXlRdFdwQ0k?oc=5",
+          "title": "ABC sues FCC over challenge to broadcast licenses - PBS",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT3BIbGVObGM5VWhoWTU4UWEzWkQ3TThrY3FvdlNCVGl3UHBCblpzUDZfNHhRTEJicmx4WThRVk1ZX2dKbUtaZUJLUEdNeUxCR3dMVURSOEg4aUlqMkllTkRqamNUU3htLTI2Sk9EUkNHTTJTTml2Y3p5SVdPOGlCQmNZVW9yVlNUMnlCVVNR?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 11:28:00 GMT"
+          "published": "Tue, 18 Aug 2026 17:46:09 GMT"
         }
       ]
     },
     {
-      "word": "Lindsay",
+      "word": "Challenge",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zVlROb0pCT0JmUEpYTzJaUVdaTDVzVTdmeFBCOFFkeGFaWUJTRGE4eHVOTWJ0bzhCZ05sYXNWR19NTXBpNEJiQ0d2S2NSRDZlTnJadGxuN0plUQ?oc=5",
+          "title": "ABC sues FCC over challenge to broadcast licenses - PBS",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT3BIbGVObGM5VWhoWTU4UWEzWkQ3TThrY3FvdlNCVGl3UHBCblpzUDZfNHhRTEJicmx4WThRVk1ZX2dKbUtaZUJLUEdNeUxCR3dMVURSOEg4aUlqMkllTkRqamNUU3htLTI2Sk9EUkNHTTJTTml2Y3p5SVdPOGlCQmNZVW9yVlNUMnlCVVNR?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 17:54:46 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Clancy",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zVlROb0pCT0JmUEpYTzJaUVdaTDVzVTdmeFBCOFFkeGFaWUJTRGE4eHVOTWJ0bzhCZ05sYXNWR19NTXBpNEJiQ0d2S2NSRDZlTnJadGxuN0plUQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 18 Aug 2026 17:54:46 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Begged",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zVlROb0pCT0JmUEpYTzJaUVdaTDVzVTdmeFBCOFFkeGFaWUJTRGE4eHVOTWJ0bzhCZ05sYXNWR19NTXBpNEJiQ0d2S2NSRDZlTnJadGxuN0plUQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 18 Aug 2026 17:54:46 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Help",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zVlROb0pCT0JmUEpYTzJaUVdaTDVzVTdmeFBCOFFkeGFaWUJTRGE4eHVOTWJ0bzhCZ05sYXNWR19NTXBpNEJiQ0d2S2NSRDZlTnJadGxuN0plUQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 18 Aug 2026 17:54:46 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Killings",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zVlROb0pCT0JmUEpYTzJaUVdaTDVzVTdmeFBCOFFkeGFaWUJTRGE4eHVOTWJ0bzhCZ05sYXNWR19NTXBpNEJiQ0d2S2NSRDZlTnJadGxuN0plUQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 18 Aug 2026 17:54:46 GMT"
-        }
-      ]
-    },
-    {
-      "word": "law",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zVlROb0pCT0JmUEpYTzJaUVdaTDVzVTdmeFBCOFFkeGFaWUJTRGE4eHVOTWJ0bzhCZ05sYXNWR19NTXBpNEJiQ0d2S2NSRDZlTnJadGxuN0plUQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 18 Aug 2026 17:54:46 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Testifies",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zVlROb0pCT0JmUEpYTzJaUVdaTDVzVTdmeFBCOFFkeGFaWUJTRGE4eHVOTWJ0bzhCZ05sYXNWR19NTXBpNEJiQ0d2S2NSRDZlTnJadGxuN0plUQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 18 Aug 2026 17:54:46 GMT"
+          "published": "Tue, 18 Aug 2026 17:46:09 GMT"
         }
       ]
     }
