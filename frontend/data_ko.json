@@ -1,58 +1,8 @@
 {
   "language": "ko",
-  "last_updated": 1787057895.4677882,
+  "last_updated": 1787061026.0365126,
   "count": 40,
   "trends": [
-    {
-      "word": "대통령",
-      "count": 4,
-      "category": "PERSON",
-      "articles": [
-        {
-          "title": "[단독] 조희대 대법원장, '대통령 협의' 관례 깨고 대법관 제청 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JVlJfUjVWTjU3X0JLOW5ZVVFZSUdQX2hpSmRqNV9xUlNudGpuYjJWbERLcmthQ0hoUlNSWVdxemcxNlRWZTY0ZTR1alV5LXRKcTF5M1BsOWtsOVhJZkZLbW9WSjB1aVh1cXpaTFZfd2dpNnk3ZXlF0gF3QVVfeXFMTjZJbTExRlpwMXRwTXBXLWZDcXpRR0hCbms5UmNDQmw3WDV1cy1mU296eUtfOXAxbmtMMW0wNmlZN2tpbkc2UUtSZDBoa3U5U3c1Vlp4bG8zbVI2MmlGNXhpLWxLakh5MFF1bGtrV2p3RkpRaVkyb2s?oc=5",
-          "source": "Google News",
-          "published": "Tue, 18 Aug 2026 10:43:02 GMT"
-        },
-        {
-          "title": "오세훈 “재건축·재개발 속도 내게 규제 풀어야”…이 대통령 “집값 폭등시킬 가능성 높여선 안 돼” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zX21LZXdFNzVuT1VRUFU3Mml0bEtldjlGZXhKajZ4Rk1SXzV3a3Z4RGNFbk9yMjBua0ZXS1N1U3FNaWEzSW5RZUpxTnhCNjBBNW9qV3NKbFBEQdIBX0FVX3lxTE4xX2VhV0FfTUc3QXRVUW16bXc5eGNodk5BUWRkdktyRHI2bkNmcFNaY1NGV2MzUExqYTZva2N1blJOQlJseFF3d1NMcmpHa1B4ZzJJbGRiWWR3ZjU5eGZZ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 18 Aug 2026 12:07:00 GMT"
-        },
-        {
-          "title": "트럼프 대통령 “김정은, 대화 제안에 응답”…이재명 대통령 “을지연습, 북한 공격 의도 없어” - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcmtKZDMyQjBWamhfLTNwQVZHb0ZlUk5VVEp2UlJtZ2dRVXlkWGNnOUtUdEdUY0NlRGxNU0xGd3J3RU1OZXFWRExzSlZNMDB6N3BVQUhoVGxlRExZMFlBZWtNdjZzbU9TeXkzREhreGpkelYyUk1ya1VNRXE1WjNfZENn0gGEAUFVX3lxTE1qZFJiZEpXMlp0QzhnZThnUVhFNE1vSXJjVmJqSHloRVRjOVUyRHZRaHFCLWZ2R1Q5eXZMR29oaVNnclRZamlFSzVDT0RDcVR2VXk3ay1UWS1qdlAwRUx4TnBVb05vZG5Kb2xXNVprT0pQV3pFbWpHMHVjaWhmU0ZKdkhoRw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 18 Aug 2026 12:39:59 GMT"
-        }
-      ]
-    },
-    {
-      "word": "가능",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "오세훈 “재건축·재개발 속도 내게 규제 풀어야”…이 대통령 “집값 폭등시킬 가능성 높여선 안 돼” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zX21LZXdFNzVuT1VRUFU3Mml0bEtldjlGZXhKajZ4Rk1SXzV3a3Z4RGNFbk9yMjBua0ZXS1N1U3FNaWEzSW5RZUpxTnhCNjBBNW9qV3NKbFBEQdIBX0FVX3lxTE4xX2VhV0FfTUc3QXRVUW16bXc5eGNodk5BUWRkdktyRHI2bkNmcFNaY1NGV2MzUExqYTZva2N1blJOQlJseFF3d1NMcmpHa1B4ZzJJbGRiWWR3ZjU5eGZZ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 18 Aug 2026 12:07:00 GMT"
-        },
-        {
-          "title": "인텔 차세대 CPU 연내 출시 가능성↑ P코어에 신기술 탑재로 성능 향상 기대 - 아이러브PC방",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUWm9fWnluWXh3Slh1THg3enB4Y2I5NktrNDl2aXlTLTJUbmlQejNLbXRlX1RxVGxBSWlKd29kYjJpYnBGU0ppeS1jX1p5SnlCNmlhTjRYMzRydVhGY083enlVZnhlU3hGWmtFZmlxZw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 18 Aug 2026 07:10:00 GMT"
-        },
-        {
-          "title": "비눗방울서 착안한 ‘숨 쉬는 인공 폐’ 개발...팽창과 수축 가능 - hidomin.com",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OSzNCR3FnMzlLT3FsNmgtQ0dqVHlJb3FzNUVWamtOQkVrOVg1OVVpSWxxR1NleUh2TjBkakZkWTZicWtZemV5SHVTSk9TMHBmbUVYeDBrd0pMWDJITmpSeEpNN3psR1p6N3c?oc=5",
-          "source": "Google News",
-          "published": "Tue, 18 Aug 2026 04:45:00 GMT"
-        }
-      ]
-    },
     {
       "word": "트럼프",
       "count": 3,
@@ -79,21 +29,71 @@
       ]
     },
     {
-      "word": "인사",
-      "count": 2,
+      "word": "대통령",
+      "count": 3,
+      "category": "PERSON",
+      "articles": [
+        {
+          "title": "트럼프 대통령 “김정은, 대화 제안에 응답”…이재명 대통령 “을지연습, 북한 공격 의도 없어” - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcmtKZDMyQjBWamhfLTNwQVZHb0ZlUk5VVEp2UlJtZ2dRVXlkWGNnOUtUdEdUY0NlRGxNU0xGd3J3RU1OZXFWRExzSlZNMDB6N3BVQUhoVGxlRExZMFlBZWtNdjZzbU9TeXkzREhreGpkelYyUk1ya1VNRXE1WjNfZENn0gGEAUFVX3lxTE1qZFJiZEpXMlp0QzhnZThnUVhFNE1vSXJjVmJqSHloRVRjOVUyRHZRaHFCLWZ2R1Q5eXZMR29oaVNnclRZamlFSzVDT0RDcVR2VXk3ay1UWS1qdlAwRUx4TnBVb05vZG5Kb2xXNVprT0pQV3pFbWpHMHVjaWhmU0ZKdkhoRw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 18 Aug 2026 12:39:59 GMT"
+        },
+        {
+          "title": "[단독] 조희대 대법원장, '대통령 협의' 관례 깨고 대법관 제청 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JVlJfUjVWTjU3X0JLOW5ZVVFZSUdQX2hpSmRqNV9xUlNudGpuYjJWbERLcmthQ0hoUlNSWVdxemcxNlRWZTY0ZTR1alV5LXRKcTF5M1BsOWtsOVhJZkZLbW9WSjB1aVh1cXpaTFZfd2dpNnk3ZXlF0gF3QVVfeXFMTjZJbTExRlpwMXRwTXBXLWZDcXpRR0hCbms5UmNDQmw3WDV1cy1mU296eUtfOXAxbmtMMW0wNmlZN2tpbkc2UUtSZDBoa3U5U3c1Vlp4bG8zbVI2MmlGNXhpLWxLakh5MFF1bGtrV2p3RkpRaVkyb2s?oc=5",
+          "source": "Google News",
+          "published": "Tue, 18 Aug 2026 10:43:02 GMT"
+        }
+      ]
+    },
+    {
+      "word": "가능",
+      "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "정성호 “사직서 빨리 수리해달라”…청와대 “후속 인사 때까지 일하라” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE44LXhsaks0LWVoWnVEZFQ5NDBBUHlFYUN2RmltbjE4cDhyTm5SNndkZFJyUkp4OGYyb3JTODEtYnBwTUJOQUFlN2ZrVm5FS2NnVS1oOWV4eG03WWJJckJfNWEwbUI4VGtxSzhVOGgtLThjdw?oc=5",
+          "title": "李, 오세훈에 반박 \"집값폭등 가능성 높여선 안돼\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd25nNWZmZkFQdlJvWWxrRDBYRUdWZEJpZTVUczVGSTNuV3VMNk4xYTVCRE0xU0ItUkkxdTFBcWdmdkRWbFQxTVN2OTZ1WXBhX2NpcDhGb2c0cGNNeVFMVFh3M0RyODg0cVN1Mnhoc3pheFgteGFzYWNaSXFGTERlSGRoQkhQWmVz?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 12:16:00 GMT"
+          "published": "Tue, 18 Aug 2026 09:56:59 GMT"
         },
         {
-          "title": "‘김민석호’ 한정애 사무총장·권칠승 정책위의장 임명에 “통합 이미지 인사” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8ydXNOcENSUHM5SmhIQ3MyaUNWTk5fYms5UkpobTJMZkhXSk5IeGVjendEcEZsNXlEbDB5TV9TRFprdHF2RTd0b0JPTjlhWjBoYmlOSHdYTV9IbnhjMUxHb1A4UEg0cVpXUEpHX2J6T3BCamNC?oc=5",
+          "title": "인텔 차세대 CPU 연내 출시 가능성↑ P코어에 신기술 탑재로 성능 향상 기대 - 아이러브PC방",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUWm9fWnluWXh3Slh1THg3enB4Y2I5NktrNDl2aXlTLTJUbmlQejNLbXRlX1RxVGxBSWlKd29kYjJpYnBGU0ppeS1jX1p5SnlCNmlhTjRYMzRydVhGY083enlVZnhlU3hGWmtFZmlxZw?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 11:15:00 GMT"
+          "published": "Tue, 18 Aug 2026 07:10:00 GMT"
+        },
+        {
+          "title": "비눗방울서 착안한 ‘숨 쉬는 인공 폐’ 개발...팽창과 수축 가능 - hidomin.com",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OSzNCR3FnMzlLT3FsNmgtQ0dqVHlJb3FzNUVWamtOQkVrOVg1OVVpSWxxR1NleUh2TjBkakZkWTZicWtZemV5SHVTSk9TMHBmbUVYeDBrd0pMWDJITmpSeEpNN3psR1p6N3c?oc=5",
+          "source": "Google News",
+          "published": "Tue, 18 Aug 2026 04:45:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "공식",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[공식] 블랙핑크 제니, 악의적 편집 영상에 법적 대응..“선처 없다” (전문) - 조선비즈 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWXhfU3ZDVEFMaGFZLVFob1FaVmRRTTZORDFBdnV0R3FUYTVBZElwUjRYSloyb1ZCTVA3VVRiSFUxZGdoMWpLc283UnBMbUtiR3k2eTV0eUZheDF4VGp0eWlVVzY0MkV3eHJCOUdSaDZWLWphbHNjbVNFZVZSUmN3SEhSaDlqbXZreWszZzBidVdRTVHSAacBQVVfeXFMT2E5blB6WjlaSG92b2pYVkZzZjc3SWc4WDBUY0o2MGlDSXdIV192TWZ3VjJoNEdPUHoyZUxPVFlTaE05T3daTEx0RkZUeGIybUI5OWFQbk4tVldNcEVTUUs5RFJhaWNpZElLejEwSFpkWVhIeE9IN1RBUUFYQTdGdGFybUFKUWlQeGE5ZHNQRjR5T0JUeDlKSGxaZXRjMFVhR0w1eGJPUlU?oc=5",
+          "source": "Google News",
+          "published": "Tue, 18 Aug 2026 11:34:00 GMT"
+        },
+        {
+          "title": "[공식] 래퍼♥작가 부부 탄생…'여자 아웃사이더' 타이미, 9월 13일 깜짝 결혼 발표 - osen.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnRnN5ZVNyTVRMRkxDRXhpTWR0ZDRudjBpYTNHT19JYVNzNDFRU3hLWDJ5bmZwQ19Qb041N3A0VFlNR09XVl9xRVMzMjMtaHRRb0xhNw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 18 Aug 2026 10:14:00 GMT"
+        },
+        {
+          "title": "이강인, 스페인 AT마드리드 공식 입단…\"우승하기 위해 왔다\" - TV조선뉴스",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MTHpnRnpmWmJlWmQ0NWd6MUFPMVVIQk9saW9SeV9YYnQtdWd3a3lWOGc4SVNmaWZqVXBLeWhvQmtWVjRwdV9KaWVDWVpmY2hSc2E2dUdRX1R2ZV96QlJvRTR6SDVQUWFNdnBBbTNfSDJtSDQtVnM3WEpIREhvTG8?oc=5",
+          "source": "Google News",
+          "published": "Tue, 18 Aug 2026 12:45:05 GMT"
         }
       ]
     },
@@ -117,21 +117,40 @@
       ]
     },
     {
-      "word": "첫날",
+      "word": "공격",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김민석, 취임 첫날 靑강훈식과 포옹…“벽 없는 원팀” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjc2hWaXRqd084ZWRxQmhOTEhzRmw3Q0hJY0hMdlBMaTc0d1UydmFjNWlSb0g2S2RmalhWV2lnZWJKQnF1QjJ6UWpfSExrOGZsR2dITUxNVEJ0bDh2WjRNRzBieDV6bHF5T2ZHcnh4Zk4tX2tiaVlz0gFmQVVfeXFMUHAxNEhZY3Nha3REZG1SLU9MRVlDcUhqS1p1aEc0b25TYlZGdkp1WC12RUpxdnNrdnN6dDkza3dKcVJ0eHVtck5iRUFfWHVyTVFDdnE2Q19DNHROQ0JxN1BLZUNQMlNR?oc=5",
+          "title": "트럼프 대통령 “김정은, 대화 제안에 응답”…이재명 대통령 “을지연습, 북한 공격 의도 없어” - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcmtKZDMyQjBWamhfLTNwQVZHb0ZlUk5VVEp2UlJtZ2dRVXlkWGNnOUtUdEdUY0NlRGxNU0xGd3J3RU1OZXFWRExzSlZNMDB6N3BVQUhoVGxlRExZMFlBZWtNdjZzbU9TeXkzREhreGpkelYyUk1ya1VNRXE1WjNfZENn0gGEAUFVX3lxTE1qZFJiZEpXMlp0QzhnZThnUVhFNE1vSXJjVmJqSHloRVRjOVUyRHZRaHFCLWZ2R1Q5eXZMR29oaVNnclRZamlFSzVDT0RDcVR2VXk3ay1UWS1qdlAwRUx4TnBVb05vZG5Kb2xXNVprT0pQV3pFbWpHMHVjaWhmU0ZKdkhoRw?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 00:12:00 GMT"
+          "published": "Tue, 18 Aug 2026 12:39:59 GMT"
         },
         {
-          "title": "미·이란 종전 MOU 만료 첫날 호르무즈서 선박 피격 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96bUNWaklqQ1FWTlY5TWtEQlN1VjNZVkZ6ZnA1dXlWRXlmQ002UWNpUHBOQUVYV3JEWkxrRFgyQjFrQ19GMlFzQ2hIQndlWWVVbkM0ZnJGMERTdWJSdEk0SUpFZjRGeUk?oc=5",
+          "title": "러시아 \"영국은 테러 공범\"…우크라, 영국제 드론으로 본토 공격 - 노컷뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9USG1LT05RM2tEOVprLW10a25vWUplVDRIYTM0N3dyaG52bG9wb3Q4ak5MYVFhVkhMSnZ1TnRaRmlhMjl6N1piUWZQdm5NZUlHVFE?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 05:53:00 GMT"
+          "published": "Tue, 18 Aug 2026 08:24:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "마약",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "경찰, '수원 마약 좀비' 30대 남성 압수수색‥마약 정황 포착 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5CSFcwdXVHaFRHRHpfUDgxTFJhS3pyYjBKemdqMFY4eWRZR011Y3R4YWg2M1UzblFBS09hbndKUkFFLVNUX0JVZldIYUszQnFydG83NHo2VmtHbElSMXlicUplTnFocllQZ0pJMzdhSDhYdHBrenpv0gF3QVVfeXFMTVZubGhDVlJ3RFBCSlFPUnAtVm1GUktrTHdBODhOdFowa2NvN05Ub1pCeWRTdWU1dnNKZ1hYcnZNNWVFdUs4SUVsUjBmZnFuWE1NUWJQQzJPWXRhNGFEY2dlYmhELWhSUTZuMzNDbkV2akFIVHFrazg?oc=5",
+          "source": "Google News",
+          "published": "Tue, 18 Aug 2026 06:03:38 GMT"
+        },
+        {
+          "title": "‘마약 집유’ 유아인, ‘파묘’ 장재현 영화로 복귀…‘뱀피르’ 주연 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBBZktMLWppSHYtWHBvdEtmN3FHcW1HTEVBVm13TVZQM1Bfa2JTMEJTNGxwRTU2RWhUVElkNVB2NGNmb1gzZUVfOW5RaGNBSjNUYVVfbXlzNWVFamZDcGxpSFFqUVd2VVo5UDlmOHJJd2FDZw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 18 Aug 2026 09:08:00 GMT"
         }
       ]
     },
@@ -168,93 +187,197 @@
       ]
     },
     {
-      "word": "극한",
+      "word": "대화",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘극한 폭우’ 거제서 팔 걷은 자원봉사자들…복구도 위로도 ‘함께’ - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nUXJoemdydGx6cTktUFJMMXZPMWZKSnoyS18tbXltcFdLaXp5OXlJLS1Yem1TQlBwaE0zODFvR0FIeFNfRV9FLW9Lb2tpVHNBbmNIUmtVblV5VXlwR29seFlfUmw?oc=5",
+          "title": "트럼프 대통령 “김정은, 대화 제안에 응답”…이재명 대통령 “을지연습, 북한 공격 의도 없어” - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcmtKZDMyQjBWamhfLTNwQVZHb0ZlUk5VVEp2UlJtZ2dRVXlkWGNnOUtUdEdUY0NlRGxNU0xGd3J3RU1OZXFWRExzSlZNMDB6N3BVQUhoVGxlRExZMFlBZWtNdjZzbU9TeXkzREhreGpkelYyUk1ya1VNRXE1WjNfZENn0gGEAUFVX3lxTE1qZFJiZEpXMlp0QzhnZThnUVhFNE1vSXJjVmJqSHloRVRjOVUyRHZRaHFCLWZ2R1Q5eXZMR29oaVNnclRZamlFSzVDT0RDcVR2VXk3ay1UWS1qdlAwRUx4TnBVb05vZG5Kb2xXNVprT0pQV3pFbWpHMHVjaWhmU0ZKdkhoRw?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 12:17:00 GMT"
+          "published": "Tue, 18 Aug 2026 12:39:59 GMT"
         }
       ]
     },
     {
-      "word": "폭우",
+      "word": "제안",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘극한 폭우’ 거제서 팔 걷은 자원봉사자들…복구도 위로도 ‘함께’ - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nUXJoemdydGx6cTktUFJMMXZPMWZKSnoyS18tbXltcFdLaXp5OXlJLS1Yem1TQlBwaE0zODFvR0FIeFNfRV9FLW9Lb2tpVHNBbmNIUmtVblV5VXlwR29seFlfUmw?oc=5",
+          "title": "트럼프 대통령 “김정은, 대화 제안에 응답”…이재명 대통령 “을지연습, 북한 공격 의도 없어” - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcmtKZDMyQjBWamhfLTNwQVZHb0ZlUk5VVEp2UlJtZ2dRVXlkWGNnOUtUdEdUY0NlRGxNU0xGd3J3RU1OZXFWRExzSlZNMDB6N3BVQUhoVGxlRExZMFlBZWtNdjZzbU9TeXkzREhreGpkelYyUk1ya1VNRXE1WjNfZENn0gGEAUFVX3lxTE1qZFJiZEpXMlp0QzhnZThnUVhFNE1vSXJjVmJqSHloRVRjOVUyRHZRaHFCLWZ2R1Q5eXZMR29oaVNnclRZamlFSzVDT0RDcVR2VXk3ay1UWS1qdlAwRUx4TnBVb05vZG5Kb2xXNVprT0pQV3pFbWpHMHVjaWhmU0ZKdkhoRw?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 12:17:00 GMT"
+          "published": "Tue, 18 Aug 2026 12:39:59 GMT"
         }
       ]
     },
     {
-      "word": "거제서",
+      "word": "응답이재명",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘극한 폭우’ 거제서 팔 걷은 자원봉사자들…복구도 위로도 ‘함께’ - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nUXJoemdydGx6cTktUFJMMXZPMWZKSnoyS18tbXltcFdLaXp5OXlJLS1Yem1TQlBwaE0zODFvR0FIeFNfRV9FLW9Lb2tpVHNBbmNIUmtVblV5VXlwR29seFlfUmw?oc=5",
+          "title": "트럼프 대통령 “김정은, 대화 제안에 응답”…이재명 대통령 “을지연습, 북한 공격 의도 없어” - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcmtKZDMyQjBWamhfLTNwQVZHb0ZlUk5VVEp2UlJtZ2dRVXlkWGNnOUtUdEdUY0NlRGxNU0xGd3J3RU1OZXFWRExzSlZNMDB6N3BVQUhoVGxlRExZMFlBZWtNdjZzbU9TeXkzREhreGpkelYyUk1ya1VNRXE1WjNfZENn0gGEAUFVX3lxTE1qZFJiZEpXMlp0QzhnZThnUVhFNE1vSXJjVmJqSHloRVRjOVUyRHZRaHFCLWZ2R1Q5eXZMR29oaVNnclRZamlFSzVDT0RDcVR2VXk3ay1UWS1qdlAwRUx4TnBVb05vZG5Kb2xXNVprT0pQV3pFbWpHMHVjaWhmU0ZKdkhoRw?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 12:17:00 GMT"
+          "published": "Tue, 18 Aug 2026 12:39:59 GMT"
         }
       ]
     },
     {
-      "word": "걷은",
+      "word": "을지연습",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘극한 폭우’ 거제서 팔 걷은 자원봉사자들…복구도 위로도 ‘함께’ - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nUXJoemdydGx6cTktUFJMMXZPMWZKSnoyS18tbXltcFdLaXp5OXlJLS1Yem1TQlBwaE0zODFvR0FIeFNfRV9FLW9Lb2tpVHNBbmNIUmtVblV5VXlwR29seFlfUmw?oc=5",
+          "title": "트럼프 대통령 “김정은, 대화 제안에 응답”…이재명 대통령 “을지연습, 북한 공격 의도 없어” - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcmtKZDMyQjBWamhfLTNwQVZHb0ZlUk5VVEp2UlJtZ2dRVXlkWGNnOUtUdEdUY0NlRGxNU0xGd3J3RU1OZXFWRExzSlZNMDB6N3BVQUhoVGxlRExZMFlBZWtNdjZzbU9TeXkzREhreGpkelYyUk1ya1VNRXE1WjNfZENn0gGEAUFVX3lxTE1qZFJiZEpXMlp0QzhnZThnUVhFNE1vSXJjVmJqSHloRVRjOVUyRHZRaHFCLWZ2R1Q5eXZMR29oaVNnclRZamlFSzVDT0RDcVR2VXk3ay1UWS1qdlAwRUx4TnBVb05vZG5Kb2xXNVprT0pQV3pFbWpHMHVjaWhmU0ZKdkhoRw?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 12:17:00 GMT"
+          "published": "Tue, 18 Aug 2026 12:39:59 GMT"
         }
       ]
     },
     {
-      "word": "자원봉사자들복구",
+      "word": "북한",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘극한 폭우’ 거제서 팔 걷은 자원봉사자들…복구도 위로도 ‘함께’ - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nUXJoemdydGx6cTktUFJMMXZPMWZKSnoyS18tbXltcFdLaXp5OXlJLS1Yem1TQlBwaE0zODFvR0FIeFNfRV9FLW9Lb2tpVHNBbmNIUmtVblV5VXlwR29seFlfUmw?oc=5",
+          "title": "트럼프 대통령 “김정은, 대화 제안에 응답”…이재명 대통령 “을지연습, 북한 공격 의도 없어” - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcmtKZDMyQjBWamhfLTNwQVZHb0ZlUk5VVEp2UlJtZ2dRVXlkWGNnOUtUdEdUY0NlRGxNU0xGd3J3RU1OZXFWRExzSlZNMDB6N3BVQUhoVGxlRExZMFlBZWtNdjZzbU9TeXkzREhreGpkelYyUk1ya1VNRXE1WjNfZENn0gGEAUFVX3lxTE1qZFJiZEpXMlp0QzhnZThnUVhFNE1vSXJjVmJqSHloRVRjOVUyRHZRaHFCLWZ2R1Q5eXZMR29oaVNnclRZamlFSzVDT0RDcVR2VXk3ay1UWS1qdlAwRUx4TnBVb05vZG5Kb2xXNVprT0pQV3pFbWpHMHVjaWhmU0ZKdkhoRw?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 12:17:00 GMT"
+          "published": "Tue, 18 Aug 2026 12:39:59 GMT"
         }
       ]
     },
     {
-      "word": "위로",
+      "word": "의도",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘극한 폭우’ 거제서 팔 걷은 자원봉사자들…복구도 위로도 ‘함께’ - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nUXJoemdydGx6cTktUFJMMXZPMWZKSnoyS18tbXltcFdLaXp5OXlJLS1Yem1TQlBwaE0zODFvR0FIeFNfRV9FLW9Lb2tpVHNBbmNIUmtVblV5VXlwR29seFlfUmw?oc=5",
+          "title": "트럼프 대통령 “김정은, 대화 제안에 응답”…이재명 대통령 “을지연습, 북한 공격 의도 없어” - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcmtKZDMyQjBWamhfLTNwQVZHb0ZlUk5VVEp2UlJtZ2dRVXlkWGNnOUtUdEdUY0NlRGxNU0xGd3J3RU1OZXFWRExzSlZNMDB6N3BVQUhoVGxlRExZMFlBZWtNdjZzbU9TeXkzREhreGpkelYyUk1ya1VNRXE1WjNfZENn0gGEAUFVX3lxTE1qZFJiZEpXMlp0QzhnZThnUVhFNE1vSXJjVmJqSHloRVRjOVUyRHZRaHFCLWZ2R1Q5eXZMR29oaVNnclRZamlFSzVDT0RDcVR2VXk3ay1UWS1qdlAwRUx4TnBVb05vZG5Kb2xXNVprT0pQV3pFbWpHMHVjaWhmU0ZKdkhoRw?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 12:17:00 GMT"
+          "published": "Tue, 18 Aug 2026 12:39:59 GMT"
         }
       ]
     },
     {
-      "word": "함께",
+      "word": "없어",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘극한 폭우’ 거제서 팔 걷은 자원봉사자들…복구도 위로도 ‘함께’ - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nUXJoemdydGx6cTktUFJMMXZPMWZKSnoyS18tbXltcFdLaXp5OXlJLS1Yem1TQlBwaE0zODFvR0FIeFNfRV9FLW9Lb2tpVHNBbmNIUmtVblV5VXlwR29seFlfUmw?oc=5",
+          "title": "트럼프 대통령 “김정은, 대화 제안에 응답”…이재명 대통령 “을지연습, 북한 공격 의도 없어” - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcmtKZDMyQjBWamhfLTNwQVZHb0ZlUk5VVEp2UlJtZ2dRVXlkWGNnOUtUdEdUY0NlRGxNU0xGd3J3RU1OZXFWRExzSlZNMDB6N3BVQUhoVGxlRExZMFlBZWtNdjZzbU9TeXkzREhreGpkelYyUk1ya1VNRXE1WjNfZENn0gGEAUFVX3lxTE1qZFJiZEpXMlp0QzhnZThnUVhFNE1vSXJjVmJqSHloRVRjOVUyRHZRaHFCLWZ2R1Q5eXZMR29oaVNnclRZamlFSzVDT0RDcVR2VXk3ay1UWS1qdlAwRUx4TnBVb05vZG5Kb2xXNVprT0pQV3pFbWpHMHVjaWhmU0ZKdkhoRw?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 12:17:00 GMT"
+          "published": "Tue, 18 Aug 2026 12:39:59 GMT"
+        }
+      ]
+    },
+    {
+      "word": "정성호",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정성호 “사직서 빨리 수리해달라”…청와대 “후속 인사 때까지 일하라” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE44LXhsaks0LWVoWnVEZFQ5NDBBUHlFYUN2RmltbjE4cDhyTm5SNndkZFJyUkp4OGYyb3JTODEtYnBwTUJOQUFlN2ZrVm5FS2NnVS1oOWV4eG03WWJJckJfNWEwbUI4VGtxSzhVOGgtLThjdw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 18 Aug 2026 12:16:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "사직서",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정성호 “사직서 빨리 수리해달라”…청와대 “후속 인사 때까지 일하라” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE44LXhsaks0LWVoWnVEZFQ5NDBBUHlFYUN2RmltbjE4cDhyTm5SNndkZFJyUkp4OGYyb3JTODEtYnBwTUJOQUFlN2ZrVm5FS2NnVS1oOWV4eG03WWJJckJfNWEwbUI4VGtxSzhVOGgtLThjdw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 18 Aug 2026 12:16:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "빨리",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정성호 “사직서 빨리 수리해달라”…청와대 “후속 인사 때까지 일하라” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE44LXhsaks0LWVoWnVEZFQ5NDBBUHlFYUN2RmltbjE4cDhyTm5SNndkZFJyUkp4OGYyb3JTODEtYnBwTUJOQUFlN2ZrVm5FS2NnVS1oOWV4eG03WWJJckJfNWEwbUI4VGtxSzhVOGgtLThjdw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 18 Aug 2026 12:16:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "수리해달라청와대",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정성호 “사직서 빨리 수리해달라”…청와대 “후속 인사 때까지 일하라” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE44LXhsaks0LWVoWnVEZFQ5NDBBUHlFYUN2RmltbjE4cDhyTm5SNndkZFJyUkp4OGYyb3JTODEtYnBwTUJOQUFlN2ZrVm5FS2NnVS1oOWV4eG03WWJJckJfNWEwbUI4VGtxSzhVOGgtLThjdw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 18 Aug 2026 12:16:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "후속",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정성호 “사직서 빨리 수리해달라”…청와대 “후속 인사 때까지 일하라” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE44LXhsaks0LWVoWnVEZFQ5NDBBUHlFYUN2RmltbjE4cDhyTm5SNndkZFJyUkp4OGYyb3JTODEtYnBwTUJOQUFlN2ZrVm5FS2NnVS1oOWV4eG03WWJJckJfNWEwbUI4VGtxSzhVOGgtLThjdw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 18 Aug 2026 12:16:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "인사",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정성호 “사직서 빨리 수리해달라”…청와대 “후속 인사 때까지 일하라” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE44LXhsaks0LWVoWnVEZFQ5NDBBUHlFYUN2RmltbjE4cDhyTm5SNndkZFJyUkp4OGYyb3JTODEtYnBwTUJOQUFlN2ZrVm5FS2NnVS1oOWV4eG03WWJJckJfNWEwbUI4VGtxSzhVOGgtLThjdw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 18 Aug 2026 12:16:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "때까지",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정성호 “사직서 빨리 수리해달라”…청와대 “후속 인사 때까지 일하라” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE44LXhsaks0LWVoWnVEZFQ5NDBBUHlFYUN2RmltbjE4cDhyTm5SNndkZFJyUkp4OGYyb3JTODEtYnBwTUJOQUFlN2ZrVm5FS2NnVS1oOWV4eG03WWJJckJfNWEwbUI4VGtxSzhVOGgtLThjdw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 18 Aug 2026 12:16:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "일하",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정성호 “사직서 빨리 수리해달라”…청와대 “후속 인사 때까지 일하라” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE44LXhsaks0LWVoWnVEZFQ5NDBBUHlFYUN2RmltbjE4cDhyTm5SNndkZFJyUkp4OGYyb3JTODEtYnBwTUJOQUFlN2ZrVm5FS2NnVS1oOWV4eG03WWJJckJfNWEwbUI4VGtxSzhVOGgtLThjdw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 18 Aug 2026 12:16:00 GMT"
         }
       ]
     },
@@ -350,236 +473,119 @@
       ]
     },
     {
-      "word": "정성호",
+      "word": "뜯긴",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "정성호 “사직서 빨리 수리해달라”…청와대 “후속 인사 때까지 일하라” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE44LXhsaks0LWVoWnVEZFQ5NDBBUHlFYUN2RmltbjE4cDhyTm5SNndkZFJyUkp4OGYyb3JTODEtYnBwTUJOQUFlN2ZrVm5FS2NnVS1oOWV4eG03WWJJckJfNWEwbUI4VGtxSzhVOGgtLThjdw?oc=5",
+          "title": "뜯긴 도로, 진흙탕 점포…“어디부터 손댈지 막막” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaejVDMnpYUGp5TXA1NFlQOVBRamhDYy0zbUhrYTI1ZFAybXEtNVphM2IxdUdoUUtHcGk1YWxFS0xRMUtsbmR3RThISGozX3c1cjRGN3Z3QTFSZ9IBX0FVX3lxTFBxRGZrb2thNGkwTkdhaWZYczFfRGVxcUlXNHV1RnN3aEdZMWYwWDVEU1g2Q2RNbjhEcmk2MjJIa2RZNVZnQUZrQVlGLWlpenJHSWVuSnQ4R0Q3UV90UTV3?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 12:16:00 GMT"
+          "published": "Tue, 18 Aug 2026 12:29:00 GMT"
         }
       ]
     },
     {
-      "word": "사직서",
+      "word": "도로",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "정성호 “사직서 빨리 수리해달라”…청와대 “후속 인사 때까지 일하라” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE44LXhsaks0LWVoWnVEZFQ5NDBBUHlFYUN2RmltbjE4cDhyTm5SNndkZFJyUkp4OGYyb3JTODEtYnBwTUJOQUFlN2ZrVm5FS2NnVS1oOWV4eG03WWJJckJfNWEwbUI4VGtxSzhVOGgtLThjdw?oc=5",
+          "title": "뜯긴 도로, 진흙탕 점포…“어디부터 손댈지 막막” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaejVDMnpYUGp5TXA1NFlQOVBRamhDYy0zbUhrYTI1ZFAybXEtNVphM2IxdUdoUUtHcGk1YWxFS0xRMUtsbmR3RThISGozX3c1cjRGN3Z3QTFSZ9IBX0FVX3lxTFBxRGZrb2thNGkwTkdhaWZYczFfRGVxcUlXNHV1RnN3aEdZMWYwWDVEU1g2Q2RNbjhEcmk2MjJIa2RZNVZnQUZrQVlGLWlpenJHSWVuSnQ4R0Q3UV90UTV3?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 12:16:00 GMT"
+          "published": "Tue, 18 Aug 2026 12:29:00 GMT"
         }
       ]
     },
     {
-      "word": "빨리",
+      "word": "진흙탕",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "정성호 “사직서 빨리 수리해달라”…청와대 “후속 인사 때까지 일하라” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE44LXhsaks0LWVoWnVEZFQ5NDBBUHlFYUN2RmltbjE4cDhyTm5SNndkZFJyUkp4OGYyb3JTODEtYnBwTUJOQUFlN2ZrVm5FS2NnVS1oOWV4eG03WWJJckJfNWEwbUI4VGtxSzhVOGgtLThjdw?oc=5",
+          "title": "뜯긴 도로, 진흙탕 점포…“어디부터 손댈지 막막” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaejVDMnpYUGp5TXA1NFlQOVBRamhDYy0zbUhrYTI1ZFAybXEtNVphM2IxdUdoUUtHcGk1YWxFS0xRMUtsbmR3RThISGozX3c1cjRGN3Z3QTFSZ9IBX0FVX3lxTFBxRGZrb2thNGkwTkdhaWZYczFfRGVxcUlXNHV1RnN3aEdZMWYwWDVEU1g2Q2RNbjhEcmk2MjJIa2RZNVZnQUZrQVlGLWlpenJHSWVuSnQ4R0Q3UV90UTV3?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 12:16:00 GMT"
+          "published": "Tue, 18 Aug 2026 12:29:00 GMT"
         }
       ]
     },
     {
-      "word": "수리해달라청와대",
+      "word": "점포어디",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "정성호 “사직서 빨리 수리해달라”…청와대 “후속 인사 때까지 일하라” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE44LXhsaks0LWVoWnVEZFQ5NDBBUHlFYUN2RmltbjE4cDhyTm5SNndkZFJyUkp4OGYyb3JTODEtYnBwTUJOQUFlN2ZrVm5FS2NnVS1oOWV4eG03WWJJckJfNWEwbUI4VGtxSzhVOGgtLThjdw?oc=5",
+          "title": "뜯긴 도로, 진흙탕 점포…“어디부터 손댈지 막막” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaejVDMnpYUGp5TXA1NFlQOVBRamhDYy0zbUhrYTI1ZFAybXEtNVphM2IxdUdoUUtHcGk1YWxFS0xRMUtsbmR3RThISGozX3c1cjRGN3Z3QTFSZ9IBX0FVX3lxTFBxRGZrb2thNGkwTkdhaWZYczFfRGVxcUlXNHV1RnN3aEdZMWYwWDVEU1g2Q2RNbjhEcmk2MjJIa2RZNVZnQUZrQVlGLWlpenJHSWVuSnQ4R0Q3UV90UTV3?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 12:16:00 GMT"
+          "published": "Tue, 18 Aug 2026 12:29:00 GMT"
         }
       ]
     },
     {
-      "word": "후속",
+      "word": "손댈지",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "정성호 “사직서 빨리 수리해달라”…청와대 “후속 인사 때까지 일하라” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE44LXhsaks0LWVoWnVEZFQ5NDBBUHlFYUN2RmltbjE4cDhyTm5SNndkZFJyUkp4OGYyb3JTODEtYnBwTUJOQUFlN2ZrVm5FS2NnVS1oOWV4eG03WWJJckJfNWEwbUI4VGtxSzhVOGgtLThjdw?oc=5",
+          "title": "뜯긴 도로, 진흙탕 점포…“어디부터 손댈지 막막” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaejVDMnpYUGp5TXA1NFlQOVBRamhDYy0zbUhrYTI1ZFAybXEtNVphM2IxdUdoUUtHcGk1YWxFS0xRMUtsbmR3RThISGozX3c1cjRGN3Z3QTFSZ9IBX0FVX3lxTFBxRGZrb2thNGkwTkdhaWZYczFfRGVxcUlXNHV1RnN3aEdZMWYwWDVEU1g2Q2RNbjhEcmk2MjJIa2RZNVZnQUZrQVlGLWlpenJHSWVuSnQ4R0Q3UV90UTV3?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 12:16:00 GMT"
+          "published": "Tue, 18 Aug 2026 12:29:00 GMT"
         }
       ]
     },
     {
-      "word": "때까지",
+      "word": "막막",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "정성호 “사직서 빨리 수리해달라”…청와대 “후속 인사 때까지 일하라” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE44LXhsaks0LWVoWnVEZFQ5NDBBUHlFYUN2RmltbjE4cDhyTm5SNndkZFJyUkp4OGYyb3JTODEtYnBwTUJOQUFlN2ZrVm5FS2NnVS1oOWV4eG03WWJJckJfNWEwbUI4VGtxSzhVOGgtLThjdw?oc=5",
+          "title": "뜯긴 도로, 진흙탕 점포…“어디부터 손댈지 막막” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaejVDMnpYUGp5TXA1NFlQOVBRamhDYy0zbUhrYTI1ZFAybXEtNVphM2IxdUdoUUtHcGk1YWxFS0xRMUtsbmR3RThISGozX3c1cjRGN3Z3QTFSZ9IBX0FVX3lxTFBxRGZrb2thNGkwTkdhaWZYczFfRGVxcUlXNHV1RnN3aEdZMWYwWDVEU1g2Q2RNbjhEcmk2MjJIa2RZNVZnQUZrQVlGLWlpenJHSWVuSnQ4R0Q3UV90UTV3?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 12:16:00 GMT"
+          "published": "Tue, 18 Aug 2026 12:29:00 GMT"
         }
       ]
     },
     {
-      "word": "일하",
+      "word": "선관위",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "정성호 “사직서 빨리 수리해달라”…청와대 “후속 인사 때까지 일하라” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE44LXhsaks0LWVoWnVEZFQ5NDBBUHlFYUN2RmltbjE4cDhyTm5SNndkZFJyUkp4OGYyb3JTODEtYnBwTUJOQUFlN2ZrVm5FS2NnVS1oOWV4eG03WWJJckJfNWEwbUI4VGtxSzhVOGgtLThjdw?oc=5",
+          "title": "선관위 특검에 검사 출신 이태한... \"정치적 선입견 없이 법·원칙 따라 수사\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMzM3V0kxZHZKelJLWGNEWlBPMDIzYzc2SHdTWUFHWm5sSnJTbnpaVDMtWUtldTNQM3FFbWtETTYyZ1lib3RjZWVtQzA2cUlmT1hXb3NpcFkwclhSZjNSUVB4UVJCYkFxa0RFS0lrQ3RHdVU3d1FOWDZ5cnQwaDEwWERZQWhqMzQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 12:16:00 GMT"
+          "published": "Tue, 18 Aug 2026 10:23:00 GMT"
         }
       ]
     },
     {
-      "word": "오세훈",
+      "word": "특검",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "오세훈 “재건축·재개발 속도 내게 규제 풀어야”…이 대통령 “집값 폭등시킬 가능성 높여선 안 돼” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zX21LZXdFNzVuT1VRUFU3Mml0bEtldjlGZXhKajZ4Rk1SXzV3a3Z4RGNFbk9yMjBua0ZXS1N1U3FNaWEzSW5RZUpxTnhCNjBBNW9qV3NKbFBEQdIBX0FVX3lxTE4xX2VhV0FfTUc3QXRVUW16bXc5eGNodk5BUWRkdktyRHI2bkNmcFNaY1NGV2MzUExqYTZva2N1blJOQlJseFF3d1NMcmpHa1B4ZzJJbGRiWWR3ZjU5eGZZ?oc=5",
+          "title": "선관위 특검에 검사 출신 이태한... \"정치적 선입견 없이 법·원칙 따라 수사\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMzM3V0kxZHZKelJLWGNEWlBPMDIzYzc2SHdTWUFHWm5sSnJTbnpaVDMtWUtldTNQM3FFbWtETTYyZ1lib3RjZWVtQzA2cUlmT1hXb3NpcFkwclhSZjNSUVB4UVJCYkFxa0RFS0lrQ3RHdVU3d1FOWDZ5cnQwaDEwWERZQWhqMzQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 12:07:00 GMT"
+          "published": "Tue, 18 Aug 2026 10:23:00 GMT"
         }
       ]
     },
     {
-      "word": "재건축재개발",
+      "word": "검사",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "오세훈 “재건축·재개발 속도 내게 규제 풀어야”…이 대통령 “집값 폭등시킬 가능성 높여선 안 돼” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zX21LZXdFNzVuT1VRUFU3Mml0bEtldjlGZXhKajZ4Rk1SXzV3a3Z4RGNFbk9yMjBua0ZXS1N1U3FNaWEzSW5RZUpxTnhCNjBBNW9qV3NKbFBEQdIBX0FVX3lxTE4xX2VhV0FfTUc3QXRVUW16bXc5eGNodk5BUWRkdktyRHI2bkNmcFNaY1NGV2MzUExqYTZva2N1blJOQlJseFF3d1NMcmpHa1B4ZzJJbGRiWWR3ZjU5eGZZ?oc=5",
+          "title": "선관위 특검에 검사 출신 이태한... \"정치적 선입견 없이 법·원칙 따라 수사\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMzM3V0kxZHZKelJLWGNEWlBPMDIzYzc2SHdTWUFHWm5sSnJTbnpaVDMtWUtldTNQM3FFbWtETTYyZ1lib3RjZWVtQzA2cUlmT1hXb3NpcFkwclhSZjNSUVB4UVJCYkFxa0RFS0lrQ3RHdVU3d1FOWDZ5cnQwaDEwWERZQWhqMzQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 12:07:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "속도",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "오세훈 “재건축·재개발 속도 내게 규제 풀어야”…이 대통령 “집값 폭등시킬 가능성 높여선 안 돼” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zX21LZXdFNzVuT1VRUFU3Mml0bEtldjlGZXhKajZ4Rk1SXzV3a3Z4RGNFbk9yMjBua0ZXS1N1U3FNaWEzSW5RZUpxTnhCNjBBNW9qV3NKbFBEQdIBX0FVX3lxTE4xX2VhV0FfTUc3QXRVUW16bXc5eGNodk5BUWRkdktyRHI2bkNmcFNaY1NGV2MzUExqYTZva2N1blJOQlJseFF3d1NMcmpHa1B4ZzJJbGRiWWR3ZjU5eGZZ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 18 Aug 2026 12:07:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "내게",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "오세훈 “재건축·재개발 속도 내게 규제 풀어야”…이 대통령 “집값 폭등시킬 가능성 높여선 안 돼” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zX21LZXdFNzVuT1VRUFU3Mml0bEtldjlGZXhKajZ4Rk1SXzV3a3Z4RGNFbk9yMjBua0ZXS1N1U3FNaWEzSW5RZUpxTnhCNjBBNW9qV3NKbFBEQdIBX0FVX3lxTE4xX2VhV0FfTUc3QXRVUW16bXc5eGNodk5BUWRkdktyRHI2bkNmcFNaY1NGV2MzUExqYTZva2N1blJOQlJseFF3d1NMcmpHa1B4ZzJJbGRiWWR3ZjU5eGZZ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 18 Aug 2026 12:07:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "규제",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "오세훈 “재건축·재개발 속도 내게 규제 풀어야”…이 대통령 “집값 폭등시킬 가능성 높여선 안 돼” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zX21LZXdFNzVuT1VRUFU3Mml0bEtldjlGZXhKajZ4Rk1SXzV3a3Z4RGNFbk9yMjBua0ZXS1N1U3FNaWEzSW5RZUpxTnhCNjBBNW9qV3NKbFBEQdIBX0FVX3lxTE4xX2VhV0FfTUc3QXRVUW16bXc5eGNodk5BUWRkdktyRHI2bkNmcFNaY1NGV2MzUExqYTZva2N1blJOQlJseFF3d1NMcmpHa1B4ZzJJbGRiWWR3ZjU5eGZZ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 18 Aug 2026 12:07:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "풀어야",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "오세훈 “재건축·재개발 속도 내게 규제 풀어야”…이 대통령 “집값 폭등시킬 가능성 높여선 안 돼” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zX21LZXdFNzVuT1VRUFU3Mml0bEtldjlGZXhKajZ4Rk1SXzV3a3Z4RGNFbk9yMjBua0ZXS1N1U3FNaWEzSW5RZUpxTnhCNjBBNW9qV3NKbFBEQdIBX0FVX3lxTE4xX2VhV0FfTUc3QXRVUW16bXc5eGNodk5BUWRkdktyRHI2bkNmcFNaY1NGV2MzUExqYTZva2N1blJOQlJseFF3d1NMcmpHa1B4ZzJJbGRiWWR3ZjU5eGZZ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 18 Aug 2026 12:07:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "집값",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "오세훈 “재건축·재개발 속도 내게 규제 풀어야”…이 대통령 “집값 폭등시킬 가능성 높여선 안 돼” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zX21LZXdFNzVuT1VRUFU3Mml0bEtldjlGZXhKajZ4Rk1SXzV3a3Z4RGNFbk9yMjBua0ZXS1N1U3FNaWEzSW5RZUpxTnhCNjBBNW9qV3NKbFBEQdIBX0FVX3lxTE4xX2VhV0FfTUc3QXRVUW16bXc5eGNodk5BUWRkdktyRHI2bkNmcFNaY1NGV2MzUExqYTZva2N1blJOQlJseFF3d1NMcmpHa1B4ZzJJbGRiWWR3ZjU5eGZZ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 18 Aug 2026 12:07:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "폭등시킬",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "오세훈 “재건축·재개발 속도 내게 규제 풀어야”…이 대통령 “집값 폭등시킬 가능성 높여선 안 돼” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zX21LZXdFNzVuT1VRUFU3Mml0bEtldjlGZXhKajZ4Rk1SXzV3a3Z4RGNFbk9yMjBua0ZXS1N1U3FNaWEzSW5RZUpxTnhCNjBBNW9qV3NKbFBEQdIBX0FVX3lxTE4xX2VhV0FfTUc3QXRVUW16bXc5eGNodk5BUWRkdktyRHI2bkNmcFNaY1NGV2MzUExqYTZva2N1blJOQlJseFF3d1NMcmpHa1B4ZzJJbGRiWWR3ZjU5eGZZ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 18 Aug 2026 12:07:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "높여선",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "오세훈 “재건축·재개발 속도 내게 규제 풀어야”…이 대통령 “집값 폭등시킬 가능성 높여선 안 돼” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zX21LZXdFNzVuT1VRUFU3Mml0bEtldjlGZXhKajZ4Rk1SXzV3a3Z4RGNFbk9yMjBua0ZXS1N1U3FNaWEzSW5RZUpxTnhCNjBBNW9qV3NKbFBEQdIBX0FVX3lxTE4xX2VhV0FfTUc3QXRVUW16bXc5eGNodk5BUWRkdktyRHI2bkNmcFNaY1NGV2MzUExqYTZva2N1blJOQlJseFF3d1NMcmpHa1B4ZzJJbGRiWWR3ZjU5eGZZ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 18 Aug 2026 12:07:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "대화",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프 대통령 “김정은, 대화 제안에 응답”…이재명 대통령 “을지연습, 북한 공격 의도 없어” - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcmtKZDMyQjBWamhfLTNwQVZHb0ZlUk5VVEp2UlJtZ2dRVXlkWGNnOUtUdEdUY0NlRGxNU0xGd3J3RU1OZXFWRExzSlZNMDB6N3BVQUhoVGxlRExZMFlBZWtNdjZzbU9TeXkzREhreGpkelYyUk1ya1VNRXE1WjNfZENn0gGEAUFVX3lxTE1qZFJiZEpXMlp0QzhnZThnUVhFNE1vSXJjVmJqSHloRVRjOVUyRHZRaHFCLWZ2R1Q5eXZMR29oaVNnclRZamlFSzVDT0RDcVR2VXk3ay1UWS1qdlAwRUx4TnBVb05vZG5Kb2xXNVprT0pQV3pFbWpHMHVjaWhmU0ZKdkhoRw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 18 Aug 2026 12:39:59 GMT"
-        }
-      ]
-    },
-    {
-      "word": "제안",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프 대통령 “김정은, 대화 제안에 응답”…이재명 대통령 “을지연습, 북한 공격 의도 없어” - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcmtKZDMyQjBWamhfLTNwQVZHb0ZlUk5VVEp2UlJtZ2dRVXlkWGNnOUtUdEdUY0NlRGxNU0xGd3J3RU1OZXFWRExzSlZNMDB6N3BVQUhoVGxlRExZMFlBZWtNdjZzbU9TeXkzREhreGpkelYyUk1ya1VNRXE1WjNfZENn0gGEAUFVX3lxTE1qZFJiZEpXMlp0QzhnZThnUVhFNE1vSXJjVmJqSHloRVRjOVUyRHZRaHFCLWZ2R1Q5eXZMR29oaVNnclRZamlFSzVDT0RDcVR2VXk3ay1UWS1qdlAwRUx4TnBVb05vZG5Kb2xXNVprT0pQV3pFbWpHMHVjaWhmU0ZKdkhoRw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 18 Aug 2026 12:39:59 GMT"
+          "published": "Tue, 18 Aug 2026 10:23:00 GMT"
         }
       ]
     }
