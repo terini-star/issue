@@ -1,11 +1,11 @@
 {
   "language": "en",
-  "last_updated": 1787129175.2236066,
+  "last_updated": 1787132398.765173,
   "count": 40,
   "trends": [
     {
       "word": "Trump",
-      "count": 5,
+      "count": 4,
       "category": "NOUN",
       "articles": [
         {
@@ -27,13 +27,7 @@
           "published": "Wed, 19 Aug 2026 01:15:00 GMT"
         },
         {
-          "title": "U.S.-Iran Updates: Trump says no talks with Iran taking place as standoff over Strait of Hormuz continues - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96dTlXTXdLdkJfWHpuYUtTRlp1dDh5SEd2a2F6ZUxwcTJCa3kxRXhqaUE1aHhmWTFxOG9Zd21SQzBsalAyRjN1czlieHlXT1lIT1MtcnFDM0tTX1dCeDJqRHdJTXZZYjVHLXRndEJlZ1N6akkyMWRmR2Z5TQ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 03:43:00 GMT"
-        },
-        {
-          "title": "Trump administration moves to kill ‘roadless rule,’ but Colorado has its own protections - Colorado Public Radio",
+          "title": "Trump administration moves to kill ‘roadless rule,’ but Colorado has its own protections - cpr.org",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YcUthVUNURDJaVElMdU53TEc5Y3JqR3NZc2pQQUJjeHE4X2Rzd01uNXhvclpkYlNfSmdra01vVjFCQVpSTTdGQlcwaXJkVEY5R1RKU2lnZHVWX0FDQkN2ZVNNQnlJaWlqbFZHb1VnMlRSTkVQYjBiSWdPLTM?oc=5",
           "source": "Google News",
           "published": "Tue, 18 Aug 2026 20:50:14 GMT"
@@ -41,8 +35,77 @@
       ]
     },
     {
-      "word": "Florida",
+      "word": "Wins",
       "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Ryan Elijah beats Cory Mills, wins Republican nomination for US House, AP projects - WESH",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM19yVTBYSmFzaWFEOHNla3hSM1gwMTBTaVFLNW1ZSS1JVWNlYlI3SW1lT2Roc1h5bUtzVE5kNElkRENLR3FZel95cnhaZjkwbFFYZkRIMlBfVXhuY2YzWVhXN2VrYmNXaVcyaWdFSmFGTXp5bGJVUFBIZUtERDBqUUQwMlE1dnBNcFhrMWRUci1iWnhKN3hxcWtmeVNXeHRKUzlPSFdDVWNucUlSQ0FFOVlUN2J1Nlh3S2c?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 02:43:00 GMT"
+        },
+        {
+          "title": "Trump-backed Rep. Harriet Hageman wins Republican Senate primary in Wyoming - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa1BaZENXd3YtNEVDcUMtVF9qYUVZOG8xMUlLSzVrWURoWlpBLWRSMzM3emFoeWVZblhXYkVXSzg1dWNRWXAtQkVqb3hORzNzdmFpaW9Tb2lzOW0tLXc4SU1wVVRTSU13WXRhb1JtWGRqLTNyRERCc0tBRUFzMC12aTdoT0xIaG5CZ093bjBWbXFLZkJoeVVtNzdiWC1ZVHBMR1lHemg4ekw5NWVKWC1iLXFSSUo3b3lzQ1g3am5VckhDQVZR?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 02:53:00 GMT"
+        },
+        {
+          "title": "US Rep Byron Donalds wins GOP nod for Florida governor against Ex-Rep David Jolly for the Democrats - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTTFETUJQZkVvNDNDajRVdEhmQktncnJKN0Rqa2o3U3ZZSDhzSTRKVV84YkwtOEx3Q0pDRHQ0cHEtYmhOcDQwTkVTOXdHWkpIVWZxenE5cDZOaFFxOXdwczcyU0JXR1A0cmhfWGx5cms4NU10bUV4a2l2ckZ0dmVMdVRyMjIzX3puVjlxRnJNZTZJWnJpb1h2R1ZUaTlhRW9OMWg4WVlOZTNVNnVl?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 02:22:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Rep",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump-backed Rep. Harriet Hageman wins Republican Senate primary in Wyoming - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa1BaZENXd3YtNEVDcUMtVF9qYUVZOG8xMUlLSzVrWURoWlpBLWRSMzM3emFoeWVZblhXYkVXSzg1dWNRWXAtQkVqb3hORzNzdmFpaW9Tb2lzOW0tLXc4SU1wVVRTSU13WXRhb1JtWGRqLTNyRERCc0tBRUFzMC12aTdoT0xIaG5CZ093bjBWbXFLZkJoeVVtNzdiWC1ZVHBMR1lHemg4ekw5NWVKWC1iLXFSSUo3b3lzQ1g3am5VckhDQVZR?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 02:53:00 GMT"
+        },
+        {
+          "title": "US Rep Byron Donalds wins GOP nod for Florida governor against Ex-Rep David Jolly for the Democrats - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTTFETUJQZkVvNDNDajRVdEhmQktncnJKN0Rqa2o3U3ZZSDhzSTRKVV84YkwtOEx3Q0pDRHQ0cHEtYmhOcDQwTkVTOXdHWkpIVWZxenE5cDZOaFFxOXdwczcyU0JXR1A0cmhfWGx5cms4NU10bUV4a2l2ckZ0dmVMdVRyMjIzX3puVjlxRnJNZTZJWnJpb1h2R1ZUaTlhRW9OMWg4WVlOZTNVNnVl?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 02:22:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Joint",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Seoul, Washington to halve joint drills as Trump reportedly seeks summit with North Korea's Kim - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQlNrV2dqeGpRc3I1Z3BVNVFpUVBFOG5yOUE1bnluN2ktY0lCY2s4VHk5WDNNWEJibEtwZ3Y3SGM2MjVYUnNFZWhNNm9seXhTTWYzTGFJMmNCU0h6WVVNV3ZLSTBXY1lROW9pUjJJYXh4dWU3TXVjSGYzZEQtdm9TUkhqREF2LTdxektlVFNlSk03bDNNcTIzYlFXVlJFaUdUZTcya2xxd9IBrAFBVV95cUxPb1d4V2FMUEYzemU2RVpfSE5ZQ1JpOExGWHlLRzlsSmhwcW52b1hWUVhPNHlNUHYzT2V5V2x6cDd3RmMzRGpkTWNyNUtlQ1pEWXl0X2t5dzMwRjY4ckRYOEtVdkMyZjE2bE1BLVdyWUdvbWt0ZHJvSTRrZ05OZ3RnX3lwUHV2NEhscW45aUVFbzJieU9WR1l5ZHNhOTNyM2dpVS12YjE4em9relpY?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 01:15:00 GMT"
+        },
+        {
+          "title": "Chargers Torch 49ers: 4 Takeaways From San Francisco-Los Angeles Joint Practice - FOX Sports",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORVZSVllhaFFJUzVURVI3T09qTlV5NC1VNUxZcnJrMnJveEtQMC0yc2hZNE5qS3h5djROQnVUNExXdVRZMmdQdlNDMm8tQVBCY3BJNy02R3NkQWh3bmhHdXR2Skd2SkwzTXd6SUJya1NQSGNtRWE0TU5uYlF2QzNPVVVzLVp4cXdYcXNhX3B4SGxZNzM4c2VUTDVQZVhkVm84am1GWmlSWTZzQ1NTcTRXYUt1cjV3WmvSAbcBQVVfeXFMT09wUVVhdGRmYUE0MVhPWF9YREVLUV9iOUY3SkdqNlA4TEpoWHA0dndSZzVZQm42NFJOZU51R3NjdWVZczVPcEZTVG1ISER4QjZSRXV6ZTlXU09HYkJHY3Y2S0ZjQWxTeV9xSGxaM2R5LTdJUUJGa0gwOUJwV2t3OHVhVFgxWHZrUzJST3cyY1lER0tlVDJrNUVHemd6aVZaRDlKTlNuejlocnhENzJxTWN4bmNyV3BF?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 02:08:05 GMT"
+        },
+        {
+          "title": "Multiple fights mar Cowboys-Saints joint practice - NBC Sports",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU01xXzdFLS1NZnp0eXE5NFdreUpJZDhJNUU0cWtKNDJnZkZ0ZS1qQXFldzdCNjF3bFVjWVBpeE9aa3RFWHROZnRIY3F6OVp3ZnRRTnhzNFdsVzlwR2h6dVRCdU1HTkNWYk5QcmZ3QXgzMndJd0llRGgwUkZGYXdhRmNtbmsyU0VjUnFuNzlFZ3N5N3Q5U21VQkFsSnJYVGo0NEVzOFFLNm81TnQ0M09kYQ?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 06:15:53 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Florida",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
@@ -52,96 +115,53 @@
           "published": "Wed, 19 Aug 2026 04:26:45 GMT"
         },
         {
-          "title": "Embattled incumbent Cory Mills ousted in Florida primary - politico.com",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfR3phdnR4LWlBeENSaVpzMWFSRnNDUDd1NkNicUxNcENwRnJ4N0NOU1RyN0RXOWZQaEtETm5McHdXQUhvOHBvbkR6T05ZMDJNeUZfd1lJSTFid0Y2M1ZZX0ZmZUdNSkN5cU1NVUNMVmNTZkhfbXVZVFhTNFE5QQ?oc=5",
+          "title": "US Rep Byron Donalds wins GOP nod for Florida governor against Ex-Rep David Jolly for the Democrats - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTTFETUJQZkVvNDNDajRVdEhmQktncnJKN0Rqa2o3U3ZZSDhzSTRKVV84YkwtOEx3Q0pDRHQ0cHEtYmhOcDQwTkVTOXdHWkpIVWZxenE5cDZOaFFxOXdwczcyU0JXR1A0cmhfWGx5cms4NU10bUV4a2l2ckZ0dmVMdVRyMjIzX3puVjlxRnJNZTZJWnJpb1h2R1ZUaTlhRW9OMWg4WVlOZTNVNnVl?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 02:04:00 GMT"
-        },
-        {
-          "title": "Florida governor's race is set - politico.com",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOFJJeXZtQnpyY21tOWRpcGRrMDR4bkFMdG9ITWhrZHVrdHh1N0sxekR0cU13Y2c3eGNtanc0SFRlM0dhVVF2UlVibXZleW1hTnNOZlhsYVYyTE85cXd4ZUZkMEdfUjlocE9QWUttbU9YeURCTTFZX0pJR0dlM0V5aHZTYU81djg?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 02:31:00 GMT"
+          "published": "Wed, 19 Aug 2026 02:22:00 GMT"
         }
       ]
     },
     {
-      "word": "set",
-      "count": 3,
+      "word": "Takeaways",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Florida governor's race is set - politico.com",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOFJJeXZtQnpyY21tOWRpcGRrMDR4bkFMdG9ITWhrZHVrdHh1N0sxekR0cU13Y2c3eGNtanc0SFRlM0dhVVF2UlVibXZleW1hTnNOZlhsYVYyTE85cXd4ZUZkMEdfUjlocE9QWUttbU9YeURCTTFZX0pJR0dlM0V5aHZTYU81djg?oc=5",
+          "title": "A Stunning Win for the Left in Florida: 6 Takeaways From Tuesday’s Primaries - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNX3FqMGhFUnNYbDFEZTdMWUxEaG1PTHVWYzRKODNXU2JRTE95VzF1MzAzWjBud2sxeHZ4d2hPcUtwMkxrcWR5c0RSeDh1X2R4eU9tMjNGd0pTazlOc09QTE1LRGJpVWtQVWxFUmNnNENGM0s3Q1F0dy1ieXIwUU1lYlZfUDBnQQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 02:31:00 GMT"
+          "published": "Wed, 19 Aug 2026 04:26:45 GMT"
         },
         {
-          "title": "Target is set to report earnings before the bell. Here's what to expect - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qbGJ2ajhnbkUwUVNhYkk3SVc3bzlaWVdrendoaXlpM3JjYkliMVI0ZkJybWMxVllyNFBJRjFWYk5faDlLVFg1am5KV0QtVDdCbnFsNkxtRFZzUVhPN0EyempURUFUdG1pMmNISEFVQlM2UdIBd0FVX3lxTE4yWG43Y0FmeVRVZml1UThMVU1qdVU0LW9CUHV0ZTc5ZmRha2x6VjNfaTBLb25jTVlhaDRqMFhBdmpHUFprckJJeml6NTdrRW1aWDV1TnVIZ05wM2VPY251eTVGOENlMFRxWnp3R0dIbGtUcl9aX2tZ?oc=5",
+          "title": "Chargers Torch 49ers: 4 Takeaways From San Francisco-Los Angeles Joint Practice - FOX Sports",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORVZSVllhaFFJUzVURVI3T09qTlV5NC1VNUxZcnJrMnJveEtQMC0yc2hZNE5qS3h5djROQnVUNExXdVRZMmdQdlNDMm8tQVBCY3BJNy02R3NkQWh3bmhHdXR2Skd2SkwzTXd6SUJya1NQSGNtRWE0TU5uYlF2QzNPVVVzLVp4cXdYcXNhX3B4SGxZNzM4c2VUTDVQZVhkVm84am1GWmlSWTZzQ1NTcTRXYUt1cjV3WmvSAbcBQVVfeXFMT09wUVVhdGRmYUE0MVhPWF9YREVLUV9iOUY3SkdqNlA4TEpoWHA0dndSZzVZQm42NFJOZU51R3NjdWVZczVPcEZTVG1ISER4QjZSRXV6ZTlXU09HYkJHY3Y2S0ZjQWxTeV9xSGxaM2R5LTdJUUJGa0gwOUJwV2t3OHVhVFgxWHZrUzJST3cyY1lER0tlVDJrNUVHemd6aVZaRDlKTlNuejlocnhENzJxTWN4bmNyV3BF?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 04:01:01 GMT"
-        },
-        {
-          "title": "Google just set the date for its big Googlebook event in New York - Android Central",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc0xUSW92MFgybzRYRlQybEUyS29yUG5nVnZET3pjaHBKX3Vab29nODVXSm4zRV85MEJWOHZYeUpwcjVXbHliaWl3bm1FazZwQVNlaDlBYmxKaFJkSk5YZ3NoVHN1NWFVbzlNWmRqWTl4bHVUMmVZaXNSZjYzUC1pT1VMaENjbVFwMDVRSmY2SV9HVDZIWjdvRl85cHg5QWN5eWU3dDhhUDBpMDA4VTA2OTdod0lwY1E?oc=5",
-          "source": "Google News",
-          "published": "Tue, 18 Aug 2026 20:42:05 GMT"
+          "published": "Wed, 19 Aug 2026 02:08:05 GMT"
         }
       ]
     },
     {
-      "word": "Grows",
-      "count": 3,
+      "word": "Republican",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Israel defends strike on Syria as U.S. frustration with Bibi grows - Axios",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYm9BMmh3VTlYTDhPWlY1b0JPYWZITWtQZFh4dVRDdFU0QzdlaWRIcWNOdk04NVZ3a1lXelNIdktFcGFidmxuRG12UXcxd1dWNV9qXzN2OEdMeHZDSF9lT3lrOUVGbVMxT0NZZkJkdXpmRUhsQXRFTjhkUUxETWVDeTF3?oc=5",
+          "title": "Ryan Elijah beats Cory Mills, wins Republican nomination for US House, AP projects - WESH",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM19yVTBYSmFzaWFEOHNla3hSM1gwMTBTaVFLNW1ZSS1JVWNlYlI3SW1lT2Roc1h5bUtzVE5kNElkRENLR3FZel95cnhaZjkwbFFYZkRIMlBfVXhuY2YzWVhXN2VrYmNXaVcyaWdFSmFGTXp5bGJVUFBIZUtERDBqUUQwMlE1dnBNcFhrMWRUci1iWnhKN3hxcWtmeVNXeHRKUzlPSFdDVWNucUlSQ0FFOVlUN2J1Nlh3S2c?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 05:42:44 GMT"
+          "published": "Wed, 19 Aug 2026 02:43:00 GMT"
         },
         {
-          "title": "GTA 6 gameplay and map leaks see DMCA strikes, as confidence grows in their legitimacy - Notebookcheck",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcTBaQnNUYV9aU0ZJYTJ6SVcyS2ZlZllQZUZMNkZyeVBtb0ptV25EUHlranlEeDlLVVkwcVZEbGxrX25UOGwxZ0FjZWJaSkNjQkptZTFUbDRtdGxxUU05Y0xQRzRZeXJTNDFFWERPdXFFYlZ4QVVyYnJRVkdqWnJ6U0tYQ2tiOHlUZUdUUzA4M0NDUldoTjNtMFY0cGJpRFZUSUo0UjctRENSN1k3eDA2eEpTeWNmZmlISjBoUzRESFJIcnkxMnYtdXl3?oc=5",
+          "title": "Trump-backed Rep. Harriet Hageman wins Republican Senate primary in Wyoming - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa1BaZENXd3YtNEVDcUMtVF9qYUVZOG8xMUlLSzVrWURoWlpBLWRSMzM3emFoeWVZblhXYkVXSzg1dWNRWXAtQkVqb3hORzNzdmFpaW9Tb2lzOW0tLXc4SU1wVVRTSU13WXRhb1JtWGRqLTNyRERCc0tBRUFzMC12aTdoT0xIaG5CZ093bjBWbXFLZkJoeVVtNzdiWC1ZVHBMR1lHemg4ekw5NWVKWC1iLXFSSUo3b3lzQ1g3am5VckhDQVZR?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 19:13:00 GMT"
-        },
-        {
-          "title": "Measles outbreak in southwestern Wisconsin grows, 2 cases confirmed in Grant County - Channel 3000",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNV0k2VmwzMjY5TVRLbFNNTmpObkVXRUdvQ0FTdnVnQUNfU0czcDZQUHV5NHJzck9ORnBYN3poTjFkNk84cFhVaFFvcHYxSVg3UEFoMnhDMHE0ak1QaTUzSkNzQkNuYzJNTEp3RElQSWdOQjFySUxtdy1abEJMZzNPMjlTRU05SzVBMXQySFNPMzd1Z3dYXzloeW1WVHNKRGR0UUJUUmktaVdPTm1VR1BkR3cyaUFlOC0tRmFMdnozUXRSaDBEZzdJODlMR1V5ZTFucXJmRUFOQkVOX1VkM0x0dXlBVHJfS3FNSXlOd0M1bjM5NWx4akpKOQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 18 Aug 2026 18:10:00 GMT"
+          "published": "Wed, 19 Aug 2026 02:53:00 GMT"
         }
       ]
     },
     {
-      "word": "Trial",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "'Catastrophic' hotel blunder caused unfair trial, mushroom murderer's lawyers tell court - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43UzlnemlmZUZnNkV0LXREWnNZYjVIWGx1MG5mT1Q5d3hiVDVrSFBmcmlHNFlTMDZzNExMUXloRUxvVjdLVmVnVHNNUklJVUNsMnM2dk5R?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 06:04:33 GMT"
-        },
-        {
-          "title": "Meta social media addiction trial kicks off with major implications for company’s future - finance.yahoo.com",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQajhVZDBTcldYUG5feE91ZmtFbFBWeS1Eb3JfVGw1bDgwR0tPdU1wR056MlRTNDdNN1cyZjgwTFZrcjZSSUZkaDhtMDdmdC1nLS1XTUhlS1AtczJHdVhndzdmbjdSV0tGSElWTzB1cEtxbks4YVpJTmhxX2N1d0k2SXJHelJLT19fUWszbVotejhuVXZua1BaanlJcnllX3A4RjNSWjM4dnZfUnZnWllXd3pBNnAxZ1F5Ui12XzhWbzJWYWswUGtCNllKWjZ0ZWtiMnp4SmlxWEZjUFpSUWdDSQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 18 Aug 2026 21:54:58 GMT"
-        },
-        {
-          "title": "Tupac Shakur trial: lawyers share full account of killing as witnesses still refuse to testify - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE14NFlxLTI3cXVCRmJZeVdfQVBGRlVlVGRuTTg5QmNYZFRMa0ZDMDd1UXRwbWJKTmE4Nk1FaWhzTWNQS1o5NndFS3JLUFpGTUUwVDRfcVExVEswOS1CRjhTQUNUMXRDZWVuaVgxV3l1SFY3R3F4ZXcyWkFnMHU?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 03:08:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Primary",
+      "word": "Senate",
       "count": 2,
       "category": "NOUN",
       "articles": [
@@ -152,42 +172,10 @@
           "published": "Wed, 19 Aug 2026 02:53:00 GMT"
         },
         {
-          "title": "Embattled incumbent Cory Mills ousted in Florida primary - politico.com",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfR3phdnR4LWlBeENSaVpzMWFSRnNDUDd1NkNicUxNcENwRnJ4N0NOU1RyN0RXOWZQaEtETm5McHdXQUhvOHBvbkR6T05ZMDJNeUZfd1lJSTFid0Y2M1ZZX0ZmZUdNSkN5cU1NVUNMVmNTZkhfbXVZVFhTNFE5QQ?oc=5",
+          "title": "U.S. Senate race will have two Dan Sullivans and a Mary Peltola - Alaska Public Media",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOGw3YVRsWUR6N0VRZGxzaFNGakcxMjZDVkhxNE9RcnF2OXhkSzRXSkZxNkdYeG4zOUwyT20ybHI0cHFtRC1xbzhJRTB1ajZhbXhORzF2YUtnQ2hDblFIQm8zeWhPbm8xVlJiWThCV3lNR0R0SXNrZmR1TGQ5MWlucGs2bkVWZVpOUnhib3libi1tcjNyNWRIVUExSGlxdXNFNGZDbmduaFhIQWJCTm81Vnh0a0NsU0VkRFpUV1ZwZ3FvYXVtZURLNQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 02:04:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Iran",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "U.S.-Iran Updates: Trump says no talks with Iran taking place as standoff over Strait of Hormuz continues - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96dTlXTXdLdkJfWHpuYUtTRlp1dDh5SEd2a2F6ZUxwcTJCa3kxRXhqaUE1aHhmWTFxOG9Zd21SQzBsalAyRjN1czlieHlXT1lIT1MtcnFDM0tTX1dCeDJqRHdJTXZZYjVHLXRndEJlZ1N6akkyMWRmR2Z5TQ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 03:43:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "State",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Alleged leader of Penn State frat cocaine ring arraigned, denied bail - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUVd4bVdFUGpzN0FaQjRJcmJZSGk4a1dqVHhMUEJUT09JREZDUjgxR1REU0E5cWdpQW5DcjhYVUFPT243cDBsMWhvVWkzWno4NEpBUEY4YkNZV2gwU25hYjE5V2JIb1Q4QW45d01JOE10SXNrR3N5ZlNvSGdpMHl0SFVJWVFQdUVWUFlpdms5RG10ZGpOVk5EczYtLWxGMWFRc01Lcnk0VUFaTW1mUDB2alF1VGp1TEJLTmxDT05zbjE0cG8?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 03:29:42 GMT"
-        },
-        {
-          "title": "COVID is ‘growing’ in nearly every state, CDC reports. Here’s where levels are highest - thehill.com",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRHNGMV9ycGI5RWFaal9oVVVVS2trQXE2Ti1haFBCaDMycU5mWHk4ZWFTUXYzM3AxRk5BWll0M3hOdl9wM2RURnREbjd2QWxYNFF5bE9VdjByN1ljTF83NGk0WHQtdy1hZjREUmN0VTRhWG5CVzgwdVRWUkpOeC04NGNJRVZhWmhuY2k1U0RuM1pGUzFrcVBybHAwVHpXMEhud0E0aEpRRFM0SV9ucU9BeWM5dm8ybDRnd2tPTDVOMUZZRDY5M0JV0gHMAUFVX3lxTE9ORmdSUUlrT1hZV3ZzMTF5WVEzMUFSbEVWRjJkTHZZb1BZZG5HUzJIUzFFbndobjBQZzBIOEE4LXA1WWxpV280bUJISThMaWllbVFTS0ZJQlNpQUJ3UzZiWU5DNWRLRjY1b1dhMGZqQmVOcHJrOVAwWXJfR0xfZEVfLVJfb0wwVjdxdDZqVm5PUUx5OWNMMm0yUjZNRWJLb1ZuT2RFWWJEbkNiRjdXZ1pJX0ZHVVFxLXJnckZua2tQQUExWTVvbW9LazMyZw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 18 Aug 2026 21:23:00 GMT"
+          "published": "Wed, 19 Aug 2026 05:45:00 GMT"
         }
       ]
     },
@@ -197,7 +185,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump administration moves to kill ‘roadless rule,’ but Colorado has its own protections - Colorado Public Radio",
+          "title": "Trump administration moves to kill ‘roadless rule,’ but Colorado has its own protections - cpr.org",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YcUthVUNURDJaVElMdU53TEc5Y3JqR3NZc2pQQUJjeHE4X2Rzd01uNXhvclpkYlNfSmdra01vVjFCQVpSTTdGQlcwaXJkVEY5R1RKU2lnZHVWX0FDQkN2ZVNNQnlJaWlqbFZHb1VnMlRSTkVQYjBiSWdPLTM?oc=5",
           "source": "Google News",
           "published": "Tue, 18 Aug 2026 20:50:14 GMT"
@@ -230,15 +218,47 @@
       ]
     },
     {
-      "word": "Lawyers",
+      "word": "Grows",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "'Catastrophic' hotel blunder caused unfair trial, mushroom murderer's lawyers tell court - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43UzlnemlmZUZnNkV0LXREWnNZYjVIWGx1MG5mT1Q5d3hiVDVrSFBmcmlHNFlTMDZzNExMUXloRUxvVjdLVmVnVHNNUklJVUNsMnM2dk5R?oc=5",
+          "title": "Israel defends strike on Syria as U.S. frustration with Bibi grows - Axios",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYm9BMmh3VTlYTDhPWlY1b0JPYWZITWtQZFh4dVRDdFU0QzdlaWRIcWNOdk04NVZ3a1lXelNIdktFcGFidmxuRG12UXcxd1dWNV9qXzN2OEdMeHZDSF9lT3lrOUVGbVMxT0NZZkJkdXpmRUhsQXRFTjhkUUxETWVDeTF3?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 06:04:33 GMT"
+          "published": "Wed, 19 Aug 2026 05:42:44 GMT"
+        },
+        {
+          "title": "Measles outbreak in southwestern Wisconsin grows, 2 cases confirmed in Grant County - Channel 3000",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNV0k2VmwzMjY5TVRLbFNNTmpObkVXRUdvQ0FTdnVnQUNfU0czcDZQUHV5NHJzck9ORnBYN3poTjFkNk84cFhVaFFvcHYxSVg3UEFoMnhDMHE0ak1QaTUzSkNzQkNuYzJNTEp3RElQSWdOQjFySUxtdy1abEJMZzNPMjlTRU05SzVBMXQySFNPMzd1Z3dYXzloeW1WVHNKRGR0UUJUUmktaVdPTm1VR1BkR3cyaUFlOC0tRmFMdnozUXRSaDBEZzdJODlMR1V5ZTFucXJmRUFOQkVOX1VkM0x0dXlBVHJfS3FNSXlOd0M1bjM5NWx4akpKOQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 18 Aug 2026 18:10:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "China",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "China completes first stage of work at disputed South China Sea reef, images show - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWjlHMXpDTU1lN0ZxdTV0cWJwMktYTG52MU5RX1JXVTFaemlzbl9TdzZRWS1IN3dCM0d4ZmdLaGtTVjI1NHU5U1N1Mi02bGVteGtDZXlOZWpOcmlMbExyMnpnX0V1WG5hUWJ2ZmlULUVxU1RjZWo3SllHU04tLVFIbmV0WDJEV1hFdllaRHR5Y0I4NkVNTjFub3VqTHV5aUFYdFhGMkU1SV96NlFsdEtHQmZNeGNVeVhPdHlwZDhBVQ?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 07:19:44 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Trial",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Meta social media addiction trial kicks off with major implications for company’s future - finance.yahoo.com",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQajhVZDBTcldYUG5feE91ZmtFbFBWeS1Eb3JfVGw1bDgwR0tPdU1wR056MlRTNDdNN1cyZjgwTFZrcjZSSUZkaDhtMDdmdC1nLS1XTUhlS1AtczJHdVhndzdmbjdSV0tGSElWTzB1cEtxbks4YVpJTmhxX2N1d0k2SXJHelJLT19fUWszbVotejhuVXZua1BaanlJcnllX3A4RjNSWjM4dnZfUnZnWllXd3pBNnAxZ1F5Ui12XzhWbzJWYWswUGtCNllKWjZ0ZWtiMnp4SmlxWEZjUFpSUWdDSQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 18 Aug 2026 21:54:58 GMT"
         },
         {
           "title": "Tupac Shakur trial: lawyers share full account of killing as witnesses still refuse to testify - The Guardian",
@@ -268,91 +288,40 @@
       ]
     },
     {
-      "word": "Billion",
+      "word": "set",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Anthropic Pre-IPO Credit Facility Set to Climb Past $10 Billion - Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNU9mVXV0ZTMtd20xVkxqQXZwVF9rMTRQMmZJOGlZV0hvb1pGQUpRemRlZHYxUEJUbXFUQTBKWGNfSTg0TWxNbEJGb3JjWVdfSGVvOERjemJabTFmSFlHRlB5Mk1kbWE1c2dOQm92enZfVV9McTdDZmxRMDc1UmlHaDAyR3FJb3NVbE9NVmJaVVgyeTdTb1g4dnFCcXY1bXZTNV9MX0szN0FOblBmdmNHRm5Sdw?oc=5",
+          "title": "Target is set to report earnings before the bell. Here's what to expect - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qbGJ2ajhnbkUwUVNhYkk3SVc3bzlaWVdrendoaXlpM3JjYkliMVI0ZkJybWMxVllyNFBJRjFWYk5faDlLVFg1am5KV0QtVDdCbnFsNkxtRFZzUVhPN0EyempURUFUdG1pMmNISEFVQlM2UdIBd0FVX3lxTE4yWG43Y0FmeVRVZml1UThMVU1qdVU0LW9CUHV0ZTc5ZmRha2x6VjNfaTBLb25jTVlhaDRqMFhBdmpHUFprckJJeml6NTdrRW1aWDV1TnVIZ05wM2VPY251eTVGOENlMFRxWnp3R0dIbGtUcl9aX2tZ?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 16:42:15 GMT"
+          "published": "Wed, 19 Aug 2026 04:01:01 GMT"
         },
         {
-          "title": "Layered rock in India shows potential signs of microbial life dating to 3.5 billion years ago - phys.org",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PVFVRblpsdUlvcWpCZFpIbU10eXhKY3RLMDN3cjBkZkE1ZHJheXYtc0lzeXJMUmM1WU5XSjE0YkxRakYtcm1CcUlXbkZUOGJGMFhtN2x5RkJVWXZpUDFxUG9Iem9GbnFNdFZHWU9zTW80R0s1X2kyY3JNR3hlUQ?oc=5",
+          "title": "Investors set sights on Swiss franc for popular carry trades after yen intervention - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVnAzS0lzUXlRcWhYbXljdDlSVWZNM2lXMVd4aUNMVllRdnNrRV91SjJ2TVFiV1BpQmdsN3VOV1hNV0g3bHdRUFFvUGxEYmh4R29UTkFnQU5qcldLX0FpRzVYbzRocl9Gd1U2Qk9JTlFwUmhDQ3BOTVBybTdKXzhoTm1rOFMyU28wZmQ0Q21KZlY0Qzkzb3NHc2VUbG40TnhCQjFTbkJBbXE1bHdQeXZMNjdXYWhwNnI4cXZjZ0VkMWtqandIeWh4ag?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 16:30:02 GMT"
+          "published": "Wed, 19 Aug 2026 04:02:00 GMT"
         }
       ]
     },
     {
-      "word": "York",
+      "word": "Practice",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Google just set the date for its big Googlebook event in New York - Android Central",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc0xUSW92MFgybzRYRlQybEUyS29yUG5nVnZET3pjaHBKX3Vab29nODVXSm4zRV85MEJWOHZYeUpwcjVXbHliaWl3bm1FazZwQVNlaDlBYmxKaFJkSk5YZ3NoVHN1NWFVbzlNWmRqWTl4bHVUMmVZaXNSZjYzUC1pT1VMaENjbVFwMDVRSmY2SV9HVDZIWjdvRl85cHg5QWN5eWU3dDhhUDBpMDA4VTA2OTdod0lwY1E?oc=5",
+          "title": "Chargers Torch 49ers: 4 Takeaways From San Francisco-Los Angeles Joint Practice - FOX Sports",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORVZSVllhaFFJUzVURVI3T09qTlV5NC1VNUxZcnJrMnJveEtQMC0yc2hZNE5qS3h5djROQnVUNExXdVRZMmdQdlNDMm8tQVBCY3BJNy02R3NkQWh3bmhHdXR2Skd2SkwzTXd6SUJya1NQSGNtRWE0TU5uYlF2QzNPVVVzLVp4cXdYcXNhX3B4SGxZNzM4c2VUTDVQZVhkVm84am1GWmlSWTZzQ1NTcTRXYUt1cjV3WmvSAbcBQVVfeXFMT09wUVVhdGRmYUE0MVhPWF9YREVLUV9iOUY3SkdqNlA4TEpoWHA0dndSZzVZQm42NFJOZU51R3NjdWVZczVPcEZTVG1ISER4QjZSRXV6ZTlXU09HYkJHY3Y2S0ZjQWxTeV9xSGxaM2R5LTdJUUJGa0gwOUJwV2t3OHVhVFgxWHZrUzJST3cyY1lER0tlVDJrNUVHemd6aVZaRDlKTlNuejlocnhENzJxTWN4bmNyV3BF?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 20:42:05 GMT"
+          "published": "Wed, 19 Aug 2026 02:08:05 GMT"
         },
         {
-          "title": "Anthony Joshua and Tyson Fury close to November 20 fight in New York - BoxingScene",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU09DVGFrcmd6TWZKbFd2aVlEZ0JIdHF0UmRXQThOR2NqZ1ZIOWNubXdvWEJzQmhsMXBQU1ZkZllHZTZmbWQya190M2xMcDc2ZUtudG54andTeVIxTmdUbG5UYzJaMnlEdC1McklSQlplS2hKSDdCWEN4R2M4cHRlaXFyN1Z3eHoxWkZ1SmVJcXVyMkV4N2RSaEc5RFVmei1tbEhxQWd1OWo2NEZfWGI3R1FfbmVPdw?oc=5",
+          "title": "Multiple fights mar Cowboys-Saints joint practice - NBC Sports",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU01xXzdFLS1NZnp0eXE5NFdreUpJZDhJNUU0cWtKNDJnZkZ0ZS1qQXFldzdCNjF3bFVjWVBpeE9aa3RFWHROZnRIY3F6OVp3ZnRRTnhzNFdsVzlwR2h6dVRCdU1HTkNWYk5QcmZ3QXgzMndJd0llRGgwUkZGYXdhRmNtbmsyU0VjUnFuNzlFZ3N5N3Q5U21VQkFsSnJYVGo0NEVzOFFLNm81TnQ0M09kYQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 18 Aug 2026 21:20:44 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Claude",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Claude can do more with Gmail and Google Drive, and access to Claude Cowork is expanding. - The Verge",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX2JpbkJTeFR5Zmt0UnVtbUVHMXNHd1NmVi13a005Zy1zMlkyT2ZxMkliWmFOejgzcHg4aG5JYjVoUVdqLVROanR6RkRCRFdja01tQlpxbC1LSTdHTzJBN2syN295UjdhYXVERTJUVFVKVTNROHVsY0JGa1oxZC1ZcUxYc2JKSnAwY2J0aHJjNTdhUWU5aE9LNTF4RTFuTjhHVHVMNzQ5ZkVBZU9VVzNvcGlB?oc=5",
-          "source": "Google News",
-          "published": "Tue, 18 Aug 2026 22:53:36 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Rock",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Frank Beard, drummer of boogie-rock trio ZZ Top, dies at 77 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWlNCVzQ4SmVTODRVX2kyMVU3SGFOXzUzQkJ2dG1LLVJmeTYwNExtYVUwWUc3WGpoS1hGa3UtN19aamZtQW5pa3JSdFltZjZJX2pzQUtNRm9ldmpqY1dOQ1RsMHBlZWp2enFIaGZFVUdSMDFfOXlvTzRsVk1WUlQ4YWNhSjM2eVFETlRPaTZlb0wzdw?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 00:15:00 GMT"
-        },
-        {
-          "title": "Layered rock in India shows potential signs of microbial life dating to 3.5 billion years ago - phys.org",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PVFVRblpsdUlvcWpCZFpIbU10eXhKY3RLMDN3cjBkZkE1ZHJheXYtc0lzeXJMUmM1WU5XSjE0YkxRakYtcm1CcUlXbkZUOGJGMFhtN2x5RkJVWXZpUDFxUG9Iem9GbnFNdFZHWU9zTW80R0s1X2kyY3JNR3hlUQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 18 Aug 2026 16:30:02 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Season",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Olivia Colman Joins ‘Only Murders in the Building’ Season 6 - Variety",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUG1hOTk1ZndyWERSTnJLT0pJd3ViUkl5Tm1oSTUzNDlIY05tQXB4RFc5ZldHdExSZkdLejlvbGdlNVk4Z3lzUC16N1dBT3kwRGp5Y0QtTU5Fb2RudWoyVXd0WV84bjRVNFlOMDFSQmlrS0VjaGJYdUppQ3dCa20zTnVCS1RpdU51N0E5Zkt3Wl9IWXJ2NnROeXkxZnZKcm8?oc=5",
-          "source": "Google News",
-          "published": "Tue, 18 Aug 2026 16:57:00 GMT"
-        },
-        {
-          "title": "DWCS Results: Season 10, Week 2 - MMA Fighting",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MYmVmcld0Z1pHek1VdjRjWUFwVnVfMTFFbUJiUF9sd2NsdVNMbklqOWtCc3NReHhZSXFQRGdDRzlpeGRhZmg4ZVhtZlYxemJiWld2LWJpak5rZUxGNFVnZTN1LW5ENzZhMG9JLTMwRUhsakEtSTMw?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 01:17:18 GMT"
+          "published": "Wed, 19 Aug 2026 06:15:53 GMT"
         }
       ]
     },
@@ -422,19 +391,6 @@
     },
     {
       "word": "Left",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "A Stunning Win for the Left in Florida: 6 Takeaways From Tuesday’s Primaries - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNX3FqMGhFUnNYbDFEZTdMWUxEaG1PTHVWYzRKODNXU2JRTE95VzF1MzAzWjBud2sxeHZ4d2hPcUtwMkxrcWR5c0RSeDh1X2R4eU9tMjNGd0pTazlOc09QTE1LRGJpVWtQVWxFUmNnNENGM0s3Q1F0dy1ieXIwUU1lYlZfUDBnQQ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 04:26:45 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Takeaways",
       "count": 1,
       "category": "NOUN",
       "articles": [
@@ -525,20 +481,111 @@
       ]
     },
     {
-      "word": "Backed",
+      "word": "Ryan",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump-backed Rep. Harriet Hageman wins Republican Senate primary in Wyoming - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa1BaZENXd3YtNEVDcUMtVF9qYUVZOG8xMUlLSzVrWURoWlpBLWRSMzM3emFoeWVZblhXYkVXSzg1dWNRWXAtQkVqb3hORzNzdmFpaW9Tb2lzOW0tLXc4SU1wVVRTSU13WXRhb1JtWGRqLTNyRERCc0tBRUFzMC12aTdoT0xIaG5CZ093bjBWbXFLZkJoeVVtNzdiWC1ZVHBMR1lHemg4ekw5NWVKWC1iLXFSSUo3b3lzQ1g3am5VckhDQVZR?oc=5",
+          "title": "Ryan Elijah beats Cory Mills, wins Republican nomination for US House, AP projects - WESH",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM19yVTBYSmFzaWFEOHNla3hSM1gwMTBTaVFLNW1ZSS1JVWNlYlI3SW1lT2Roc1h5bUtzVE5kNElkRENLR3FZel95cnhaZjkwbFFYZkRIMlBfVXhuY2YzWVhXN2VrYmNXaVcyaWdFSmFGTXp5bGJVUFBIZUtERDBqUUQwMlE1dnBNcFhrMWRUci1iWnhKN3hxcWtmeVNXeHRKUzlPSFdDVWNucUlSQ0FFOVlUN2J1Nlh3S2c?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 02:53:00 GMT"
+          "published": "Wed, 19 Aug 2026 02:43:00 GMT"
         }
       ]
     },
     {
-      "word": "Rep",
+      "word": "Elijah",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Ryan Elijah beats Cory Mills, wins Republican nomination for US House, AP projects - WESH",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM19yVTBYSmFzaWFEOHNla3hSM1gwMTBTaVFLNW1ZSS1JVWNlYlI3SW1lT2Roc1h5bUtzVE5kNElkRENLR3FZel95cnhaZjkwbFFYZkRIMlBfVXhuY2YzWVhXN2VrYmNXaVcyaWdFSmFGTXp5bGJVUFBIZUtERDBqUUQwMlE1dnBNcFhrMWRUci1iWnhKN3hxcWtmeVNXeHRKUzlPSFdDVWNucUlSQ0FFOVlUN2J1Nlh3S2c?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 02:43:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Beats",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Ryan Elijah beats Cory Mills, wins Republican nomination for US House, AP projects - WESH",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM19yVTBYSmFzaWFEOHNla3hSM1gwMTBTaVFLNW1ZSS1JVWNlYlI3SW1lT2Roc1h5bUtzVE5kNElkRENLR3FZel95cnhaZjkwbFFYZkRIMlBfVXhuY2YzWVhXN2VrYmNXaVcyaWdFSmFGTXp5bGJVUFBIZUtERDBqUUQwMlE1dnBNcFhrMWRUci1iWnhKN3hxcWtmeVNXeHRKUzlPSFdDVWNucUlSQ0FFOVlUN2J1Nlh3S2c?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 02:43:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Cory",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Ryan Elijah beats Cory Mills, wins Republican nomination for US House, AP projects - WESH",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM19yVTBYSmFzaWFEOHNla3hSM1gwMTBTaVFLNW1ZSS1JVWNlYlI3SW1lT2Roc1h5bUtzVE5kNElkRENLR3FZel95cnhaZjkwbFFYZkRIMlBfVXhuY2YzWVhXN2VrYmNXaVcyaWdFSmFGTXp5bGJVUFBIZUtERDBqUUQwMlE1dnBNcFhrMWRUci1iWnhKN3hxcWtmeVNXeHRKUzlPSFdDVWNucUlSQ0FFOVlUN2J1Nlh3S2c?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 02:43:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Mills",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Ryan Elijah beats Cory Mills, wins Republican nomination for US House, AP projects - WESH",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM19yVTBYSmFzaWFEOHNla3hSM1gwMTBTaVFLNW1ZSS1JVWNlYlI3SW1lT2Roc1h5bUtzVE5kNElkRENLR3FZel95cnhaZjkwbFFYZkRIMlBfVXhuY2YzWVhXN2VrYmNXaVcyaWdFSmFGTXp5bGJVUFBIZUtERDBqUUQwMlE1dnBNcFhrMWRUci1iWnhKN3hxcWtmeVNXeHRKUzlPSFdDVWNucUlSQ0FFOVlUN2J1Nlh3S2c?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 02:43:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Nomination",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Ryan Elijah beats Cory Mills, wins Republican nomination for US House, AP projects - WESH",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM19yVTBYSmFzaWFEOHNla3hSM1gwMTBTaVFLNW1ZSS1JVWNlYlI3SW1lT2Roc1h5bUtzVE5kNElkRENLR3FZel95cnhaZjkwbFFYZkRIMlBfVXhuY2YzWVhXN2VrYmNXaVcyaWdFSmFGTXp5bGJVUFBIZUtERDBqUUQwMlE1dnBNcFhrMWRUci1iWnhKN3hxcWtmeVNXeHRKUzlPSFdDVWNucUlSQ0FFOVlUN2J1Nlh3S2c?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 02:43:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "House",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Ryan Elijah beats Cory Mills, wins Republican nomination for US House, AP projects - WESH",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM19yVTBYSmFzaWFEOHNla3hSM1gwMTBTaVFLNW1ZSS1JVWNlYlI3SW1lT2Roc1h5bUtzVE5kNElkRENLR3FZel95cnhaZjkwbFFYZkRIMlBfVXhuY2YzWVhXN2VrYmNXaVcyaWdFSmFGTXp5bGJVUFBIZUtERDBqUUQwMlE1dnBNcFhrMWRUci1iWnhKN3hxcWtmeVNXeHRKUzlPSFdDVWNucUlSQ0FFOVlUN2J1Nlh3S2c?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 02:43:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Projects",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Ryan Elijah beats Cory Mills, wins Republican nomination for US House, AP projects - WESH",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM19yVTBYSmFzaWFEOHNla3hSM1gwMTBTaVFLNW1ZSS1JVWNlYlI3SW1lT2Roc1h5bUtzVE5kNElkRENLR3FZel95cnhaZjkwbFFYZkRIMlBfVXhuY2YzWVhXN2VrYmNXaVcyaWdFSmFGTXp5bGJVUFBIZUtERDBqUUQwMlE1dnBNcFhrMWRUci1iWnhKN3hxcWtmeVNXeHRKUzlPSFdDVWNucUlSQ0FFOVlUN2J1Nlh3S2c?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 02:43:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Backed",
       "count": 1,
       "category": "NOUN",
       "articles": [
@@ -577,33 +624,7 @@
       ]
     },
     {
-      "word": "Wins",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump-backed Rep. Harriet Hageman wins Republican Senate primary in Wyoming - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa1BaZENXd3YtNEVDcUMtVF9qYUVZOG8xMUlLSzVrWURoWlpBLWRSMzM3emFoeWVZblhXYkVXSzg1dWNRWXAtQkVqb3hORzNzdmFpaW9Tb2lzOW0tLXc4SU1wVVRTSU13WXRhb1JtWGRqLTNyRERCc0tBRUFzMC12aTdoT0xIaG5CZ093bjBWbXFLZkJoeVVtNzdiWC1ZVHBMR1lHemg4ekw5NWVKWC1iLXFSSUo3b3lzQ1g3am5VckhDQVZR?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 02:53:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Republican",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump-backed Rep. Harriet Hageman wins Republican Senate primary in Wyoming - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa1BaZENXd3YtNEVDcUMtVF9qYUVZOG8xMUlLSzVrWURoWlpBLWRSMzM3emFoeWVZblhXYkVXSzg1dWNRWXAtQkVqb3hORzNzdmFpaW9Tb2lzOW0tLXc4SU1wVVRTSU13WXRhb1JtWGRqLTNyRERCc0tBRUFzMC12aTdoT0xIaG5CZ093bjBWbXFLZkJoeVVtNzdiWC1ZVHBMR1lHemg4ekw5NWVKWC1iLXFSSUo3b3lzQ1g3am5VckhDQVZR?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 02:53:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Senate",
+      "word": "Primary",
       "count": 1,
       "category": "NOUN",
       "articles": [
@@ -625,45 +646,6 @@
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa1BaZENXd3YtNEVDcUMtVF9qYUVZOG8xMUlLSzVrWURoWlpBLWRSMzM3emFoeWVZblhXYkVXSzg1dWNRWXAtQkVqb3hORzNzdmFpaW9Tb2lzOW0tLXc4SU1wVVRTSU13WXRhb1JtWGRqLTNyRERCc0tBRUFzMC12aTdoT0xIaG5CZ093bjBWbXFLZkJoeVVtNzdiWC1ZVHBMR1lHemg4ekw5NWVKWC1iLXFSSUo3b3lzQ1g3am5VckhDQVZR?oc=5",
           "source": "Google News",
           "published": "Wed, 19 Aug 2026 02:53:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Embattled",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Embattled incumbent Cory Mills ousted in Florida primary - politico.com",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfR3phdnR4LWlBeENSaVpzMWFSRnNDUDd1NkNicUxNcENwRnJ4N0NOU1RyN0RXOWZQaEtETm5McHdXQUhvOHBvbkR6T05ZMDJNeUZfd1lJSTFid0Y2M1ZZX0ZmZUdNSkN5cU1NVUNMVmNTZkhfbXVZVFhTNFE5QQ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 02:04:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Incumbent",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Embattled incumbent Cory Mills ousted in Florida primary - politico.com",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfR3phdnR4LWlBeENSaVpzMWFSRnNDUDd1NkNicUxNcENwRnJ4N0NOU1RyN0RXOWZQaEtETm5McHdXQUhvOHBvbkR6T05ZMDJNeUZfd1lJSTFid0Y2M1ZZX0ZmZUdNSkN5cU1NVUNMVmNTZkhfbXVZVFhTNFE5QQ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 02:04:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Cory",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Embattled incumbent Cory Mills ousted in Florida primary - politico.com",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfR3phdnR4LWlBeENSaVpzMWFSRnNDUDd1NkNicUxNcENwRnJ4N0NOU1RyN0RXOWZQaEtETm5McHdXQUhvOHBvbkR6T05ZMDJNeUZfd1lJSTFid0Y2M1ZZX0ZmZUdNSkN5cU1NVUNMVmNTZkhfbXVZVFhTNFE5QQ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 02:04:00 GMT"
         }
       ]
     }
