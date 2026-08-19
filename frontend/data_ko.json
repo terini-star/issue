@@ -1,37 +1,56 @@
 {
   "language": "ko",
-  "last_updated": 1787117797.5832703,
+  "last_updated": 1787122503.432731,
   "count": 40,
   "trends": [
     {
-      "word": "용산공원",
-      "count": 2,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "오세훈 \"용산공원 한번 훼손하면 되돌릴 수 없어…절대 양보 없다\" - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FNTlRWnZieWFRNy04aHpPTF92WkNVeVNWZXdoZlV2R3JFMkxKM0MtUktmdUJFa0U4UGZTTGZJaGxDU0sxbFNndjdJeU5PX3ZWQzFDcmcxZkZITEhW?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 04:33:00 GMT"
-        },
-        {
-          "title": "靑 경제수석 \"용산공원, 너무 커서 치안문제...사람도 별로없어\" - chosun.com",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdHQtMy1kQTRqMEEzaHIxM0Jvc0RlRWdtNXk2S3B4VHRPUGdwV3FzcDJCcUtKUXBQU1B6V0VROXJ4N3hjeWxzR3l6aVZWNldISERINVRIa0MtUTlpVS1CTGZRU0hDM3ExeGNkcENXdmlodnlPN3N0bENZRjYxZFd0QlZDMzd5bjctc2FYVklzS08?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 00:29:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "이란",
+      "word": "나선",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘이란 자금 통로’ UAE, 무역·금융 중단…이란, 협상장 끌어낼까 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mdU1SLUVGb2x6MmREN21NMnRtc19SQjZJR1RRSlNVTjhwSEt5Z1NCMHBkZS0zNmo1Zk82d1p1WXAyakxBc2szNm1ad2xHb0JOYUl5bXFXazkxS2dTbjVLZFJoalNEY2JBZ1VkOXYtampZZ28?oc=5",
+          "title": "달성군민이 선택한 국회의원 제명 안돼?···‘이진숙 구하기’ 나선 국힘 지역구 군의원들 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yNTlxS0YzYVZ4dUZFd2l6X1o2azVrV2VSVWtUenVTWTFEblRxVENlTlI5TUE0ZmhwM0VzWUlXUktPT3U3LVZURmtxaG1OREhBV3B1cHBreVBmQdIBX0FVX3lxTE4tTUg2NC1RYUhiVnZrSDIzYUx3MjhkalhNbXJ2eXJTUENlUWdUNVB5NklRR3d5Z2NjQXVJZnhDQ1pjWGdaRVJJZTZLMGJ4U0FGT0FhT2JvOF81QUJsclc0?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 05:20:00 GMT"
+          "published": "Wed, 19 Aug 2026 02:25:00 GMT"
+        },
+        {
+          "title": "“그늘도 시민의 기본 권리”···‘그늘보행권’ 선언하고 그늘길 조성 나선 서울시 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KaUVUWjNjWmNFeEh2dmJYak9HazBUd1pSb3NHZDlGbWxFdVBpSjdCNDIxc0NtX2dadGcwR0ZaVVZwdnhhZUhjckhaYmVnVEt4WDRkQ0Fpc1dtUdIBX0FVX3lxTE92TEZRTUxPWHUxZG8ydTlWbGJBWnpyWU1YaVhGOFZRbTNBMUVjTWhyZXF3UVBkS0ozLWt4RW1CZm9QR2VlMXY0LWdISDA0bU5XVVRaejhMbVlRYW11U040?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 00:50:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "국힘",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "달성군민이 선택한 국회의원 제명 안돼?···‘이진숙 구하기’ 나선 국힘 지역구 군의원들 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yNTlxS0YzYVZ4dUZFd2l6X1o2azVrV2VSVWtUenVTWTFEblRxVENlTlI5TUE0ZmhwM0VzWUlXUktPT3U3LVZURmtxaG1OREhBV3B1cHBreVBmQdIBX0FVX3lxTE4tTUg2NC1RYUhiVnZrSDIzYUx3MjhkalhNbXJ2eXJTUENlUWdUNVB5NklRR3d5Z2NjQXVJZnhDQ1pjWGdaRVJJZTZLMGJ4U0FGT0FhT2JvOF81QUJsclc0?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 02:25:00 GMT"
+        },
+        {
+          "title": "국힘 서울시당·오세훈, ‘부동산 여론전’…“재개발·재건축 풀어야” - news.kbs.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MMzBRc3RCbGstbjZFdHMxOVhpb2N1UWdCTi1xWXk4NnZXRl9PWmdTWUZDMjZzSFpzZlBGWGN3N1NsdDRyaTRZSks1LTdubDhTYmYzMXBFOHNuVWM?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 05:01:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "경제",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "경제 급소 때린다… 우크라, 에너지시설-러는 곡물 수출항 공습 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5uVV9FQ1JESW1WYTJNQ2pJd0N6ZmJQdl9MMFhWZ1F6dnRwWE11WVN1X1FweUNjcG9LU1JyVEhySmJHVTRlMTNkREl4VWdqQVQwc0RMelVoR3hBclNRZXFjMnEwQi11d2JtX1dWcEdSNnNoWU3SAWZBVV95cUxPbDNnNUJMbGQ4M3RVYnh5NG1MNVhRLXFwUEF1Zm0zQ2VzU21SX01VdFV2Z2N4OTFxanpLc0hObGs3NU1kQW0wd2VGdTE5YlNsLWp5cmlVVF84bHo2TFdDVDBBWFFXb3c?oc=5",
+          "source": "Google News",
+          "published": "Tue, 18 Aug 2026 19:30:00 GMT"
         },
         {
           "title": "“이란, 미 제재에도 버틸 것”···트럼프 경제 압박 안 통하나 - 경향신문",
@@ -42,21 +61,21 @@
       ]
     },
     {
-      "word": "공개",
+      "word": "이란",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"다누리호가 도왔다\"...NASA, 팰컨9 로켓 달 충돌구 사진 공개 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vY3N3QzdhUUpjVDM0dDBsU1c5RWJaQmo0QnVZM3FFdmVlZXppOVZXUmt1NHZ5OVdOUEtEYVcyajJTdFRVX3RldlFER3YzMDVSV2Z2NWVRQ1ZTU1lEbWc?oc=5",
+          "title": "UAE, 이란 미사일 공격에‥무역·금융거래 '전면 중단' - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HRXdhOFlKVTY5VjBGRlEzbGVCWDlTaU1jLUVHVkJNeW5jMHVpRXF5T1BkNkFvdWlhU1hrTndRVWVEY3dKd1ZUelBqd0c1VHhJVmhyNFhRRHh5czNrOVBNMTdwWlBiZ1RXM1E5aG0zR2JUVElH0gF0QVVfeXFMUElIRUdOTS1UbUJuVFpiWXQwLTJvNzlPQ3RrQzB1ZGNUTkNKa2lJMXJLYVUtaWZZeFF0QjBZUHNrX0QzUWhlNmdscjBzWTA3WjJDbnRCc3VmS1pVS2d0Tml1QllIeXRiR1hra0FwM1ZXSHdqa0w?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 01:48:00 GMT"
+          "published": "Wed, 19 Aug 2026 00:21:54 GMT"
         },
         {
-          "title": "라이엇 게임즈, 발로란트 액트 5 시작 알리는 13.04 패치 공개 - 아크로팬",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VTU80UERHZW5aNG8yR01QamhXbUFwMUExMmtENy1fajBKZXlVWnl0S0plcTJCNHpJd2NDV2tJd1N0NFVfcTBXbHZHX2RLeU1taDRMRHZvbFMtMkU?oc=5",
+          "title": "“이란, 미 제재에도 버틸 것”···트럼프 경제 압박 안 통하나 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCcV9IZU9tZFRyWDU1YmJjaVQ2czlwYlM2dnk2TW1BWE10UVJIYVFvMGRBcWx4NEp4ZlNraDlzd3B3YXVIS2RBSnhybUFNU0lIZ01lNzlCaV9jZ9IBX0FVX3lxTE5aU3hZRTZnX2stVkx2Z3o0dTlhOV9mbHI0Ry1qMmd1Mjl6WVlZY2lzeW9vcEpLNHNkMWpma0lneWR0UFA3ZG96dm5JOUk3YmlQYnVCbXNtcTMwMUVUNUJJ?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 04:16:00 GMT"
+          "published": "Wed, 19 Aug 2026 01:09:00 GMT"
         }
       ]
     },
@@ -152,392 +171,379 @@
       ]
     },
     {
-      "word": "한미",
+      "word": "달성군민",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "한·미 훈련 축소에…북한 “명백한 행동으로 자위권 행사” 수위 조절 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55b0k3QWxpdVdlb2hlRDJubHc4X01NSDhNelAtQThaNmZRS2dJdTk5aHhaX180cTJFWHBsUks5UkFKSmUxZllDZnlqeVVVSGFaVE52MVg0cVUwd9IBX0FVX3lxTE54OGFERmFhcHdFYmVaUFJwMUFxM2dXUG0xaVFWRHNrUTB6cDdQdnUyZVRGQXMwb3ZPSDNtV09OaWc4TjdlZlpkY3c0SXFodEZDSURkb3paRGd0ajVUNVlj?oc=5",
+          "title": "달성군민이 선택한 국회의원 제명 안돼?···‘이진숙 구하기’ 나선 국힘 지역구 군의원들 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yNTlxS0YzYVZ4dUZFd2l6X1o2azVrV2VSVWtUenVTWTFEblRxVENlTlI5TUE0ZmhwM0VzWUlXUktPT3U3LVZURmtxaG1OREhBV3B1cHBreVBmQdIBX0FVX3lxTE4tTUg2NC1RYUhiVnZrSDIzYUx3MjhkalhNbXJ2eXJTUENlUWdUNVB5NklRR3d5Z2NjQXVJZnhDQ1pjWGdaRVJJZTZLMGJ4U0FGT0FhT2JvOF81QUJsclc0?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 02:19:00 GMT"
+          "published": "Wed, 19 Aug 2026 02:25:00 GMT"
         }
       ]
     },
     {
-      "word": "훈련",
+      "word": "선택",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "한·미 훈련 축소에…북한 “명백한 행동으로 자위권 행사” 수위 조절 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55b0k3QWxpdVdlb2hlRDJubHc4X01NSDhNelAtQThaNmZRS2dJdTk5aHhaX180cTJFWHBsUks5UkFKSmUxZllDZnlqeVVVSGFaVE52MVg0cVUwd9IBX0FVX3lxTE54OGFERmFhcHdFYmVaUFJwMUFxM2dXUG0xaVFWRHNrUTB6cDdQdnUyZVRGQXMwb3ZPSDNtV09OaWc4TjdlZlpkY3c0SXFodEZDSURkb3paRGd0ajVUNVlj?oc=5",
+          "title": "달성군민이 선택한 국회의원 제명 안돼?···‘이진숙 구하기’ 나선 국힘 지역구 군의원들 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yNTlxS0YzYVZ4dUZFd2l6X1o2azVrV2VSVWtUenVTWTFEblRxVENlTlI5TUE0ZmhwM0VzWUlXUktPT3U3LVZURmtxaG1OREhBV3B1cHBreVBmQdIBX0FVX3lxTE4tTUg2NC1RYUhiVnZrSDIzYUx3MjhkalhNbXJ2eXJTUENlUWdUNVB5NklRR3d5Z2NjQXVJZnhDQ1pjWGdaRVJJZTZLMGJ4U0FGT0FhT2JvOF81QUJsclc0?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 02:19:00 GMT"
+          "published": "Wed, 19 Aug 2026 02:25:00 GMT"
         }
       ]
     },
     {
-      "word": "축소에북",
+      "word": "국회의원",
       "count": 1,
-      "category": "NOUN",
+      "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "한·미 훈련 축소에…북한 “명백한 행동으로 자위권 행사” 수위 조절 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55b0k3QWxpdVdlb2hlRDJubHc4X01NSDhNelAtQThaNmZRS2dJdTk5aHhaX180cTJFWHBsUks5UkFKSmUxZllDZnlqeVVVSGFaVE52MVg0cVUwd9IBX0FVX3lxTE54OGFERmFhcHdFYmVaUFJwMUFxM2dXUG0xaVFWRHNrUTB6cDdQdnUyZVRGQXMwb3ZPSDNtV09OaWc4TjdlZlpkY3c0SXFodEZDSURkb3paRGd0ajVUNVlj?oc=5",
+          "title": "달성군민이 선택한 국회의원 제명 안돼?···‘이진숙 구하기’ 나선 국힘 지역구 군의원들 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yNTlxS0YzYVZ4dUZFd2l6X1o2azVrV2VSVWtUenVTWTFEblRxVENlTlI5TUE0ZmhwM0VzWUlXUktPT3U3LVZURmtxaG1OREhBV3B1cHBreVBmQdIBX0FVX3lxTE4tTUg2NC1RYUhiVnZrSDIzYUx3MjhkalhNbXJ2eXJTUENlUWdUNVB5NklRR3d5Z2NjQXVJZnhDQ1pjWGdaRVJJZTZLMGJ4U0FGT0FhT2JvOF81QUJsclc0?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 02:19:00 GMT"
+          "published": "Wed, 19 Aug 2026 02:25:00 GMT"
         }
       ]
     },
     {
-      "word": "명백",
+      "word": "제명",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "한·미 훈련 축소에…북한 “명백한 행동으로 자위권 행사” 수위 조절 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55b0k3QWxpdVdlb2hlRDJubHc4X01NSDhNelAtQThaNmZRS2dJdTk5aHhaX180cTJFWHBsUks5UkFKSmUxZllDZnlqeVVVSGFaVE52MVg0cVUwd9IBX0FVX3lxTE54OGFERmFhcHdFYmVaUFJwMUFxM2dXUG0xaVFWRHNrUTB6cDdQdnUyZVRGQXMwb3ZPSDNtV09OaWc4TjdlZlpkY3c0SXFodEZDSURkb3paRGd0ajVUNVlj?oc=5",
+          "title": "달성군민이 선택한 국회의원 제명 안돼?···‘이진숙 구하기’ 나선 국힘 지역구 군의원들 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yNTlxS0YzYVZ4dUZFd2l6X1o2azVrV2VSVWtUenVTWTFEblRxVENlTlI5TUE0ZmhwM0VzWUlXUktPT3U3LVZURmtxaG1OREhBV3B1cHBreVBmQdIBX0FVX3lxTE4tTUg2NC1RYUhiVnZrSDIzYUx3MjhkalhNbXJ2eXJTUENlUWdUNVB5NklRR3d5Z2NjQXVJZnhDQ1pjWGdaRVJJZTZLMGJ4U0FGT0FhT2JvOF81QUJsclc0?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 02:19:00 GMT"
+          "published": "Wed, 19 Aug 2026 02:25:00 GMT"
         }
       ]
     },
     {
-      "word": "행동",
+      "word": "안돼이진숙",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "한·미 훈련 축소에…북한 “명백한 행동으로 자위권 행사” 수위 조절 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55b0k3QWxpdVdlb2hlRDJubHc4X01NSDhNelAtQThaNmZRS2dJdTk5aHhaX180cTJFWHBsUks5UkFKSmUxZllDZnlqeVVVSGFaVE52MVg0cVUwd9IBX0FVX3lxTE54OGFERmFhcHdFYmVaUFJwMUFxM2dXUG0xaVFWRHNrUTB6cDdQdnUyZVRGQXMwb3ZPSDNtV09OaWc4TjdlZlpkY3c0SXFodEZDSURkb3paRGd0ajVUNVlj?oc=5",
+          "title": "달성군민이 선택한 국회의원 제명 안돼?···‘이진숙 구하기’ 나선 국힘 지역구 군의원들 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yNTlxS0YzYVZ4dUZFd2l6X1o2azVrV2VSVWtUenVTWTFEblRxVENlTlI5TUE0ZmhwM0VzWUlXUktPT3U3LVZURmtxaG1OREhBV3B1cHBreVBmQdIBX0FVX3lxTE4tTUg2NC1RYUhiVnZrSDIzYUx3MjhkalhNbXJ2eXJTUENlUWdUNVB5NklRR3d5Z2NjQXVJZnhDQ1pjWGdaRVJJZTZLMGJ4U0FGT0FhT2JvOF81QUJsclc0?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 02:19:00 GMT"
+          "published": "Wed, 19 Aug 2026 02:25:00 GMT"
         }
       ]
     },
     {
-      "word": "자위권",
+      "word": "구하기",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "한·미 훈련 축소에…북한 “명백한 행동으로 자위권 행사” 수위 조절 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55b0k3QWxpdVdlb2hlRDJubHc4X01NSDhNelAtQThaNmZRS2dJdTk5aHhaX180cTJFWHBsUks5UkFKSmUxZllDZnlqeVVVSGFaVE52MVg0cVUwd9IBX0FVX3lxTE54OGFERmFhcHdFYmVaUFJwMUFxM2dXUG0xaVFWRHNrUTB6cDdQdnUyZVRGQXMwb3ZPSDNtV09OaWc4TjdlZlpkY3c0SXFodEZDSURkb3paRGd0ajVUNVlj?oc=5",
+          "title": "달성군민이 선택한 국회의원 제명 안돼?···‘이진숙 구하기’ 나선 국힘 지역구 군의원들 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yNTlxS0YzYVZ4dUZFd2l6X1o2azVrV2VSVWtUenVTWTFEblRxVENlTlI5TUE0ZmhwM0VzWUlXUktPT3U3LVZURmtxaG1OREhBV3B1cHBreVBmQdIBX0FVX3lxTE4tTUg2NC1RYUhiVnZrSDIzYUx3MjhkalhNbXJ2eXJTUENlUWdUNVB5NklRR3d5Z2NjQXVJZnhDQ1pjWGdaRVJJZTZLMGJ4U0FGT0FhT2JvOF81QUJsclc0?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 02:19:00 GMT"
+          "published": "Wed, 19 Aug 2026 02:25:00 GMT"
         }
       ]
     },
     {
-      "word": "행사",
+      "word": "지역구",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "한·미 훈련 축소에…북한 “명백한 행동으로 자위권 행사” 수위 조절 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55b0k3QWxpdVdlb2hlRDJubHc4X01NSDhNelAtQThaNmZRS2dJdTk5aHhaX180cTJFWHBsUks5UkFKSmUxZllDZnlqeVVVSGFaVE52MVg0cVUwd9IBX0FVX3lxTE54OGFERmFhcHdFYmVaUFJwMUFxM2dXUG0xaVFWRHNrUTB6cDdQdnUyZVRGQXMwb3ZPSDNtV09OaWc4TjdlZlpkY3c0SXFodEZDSURkb3paRGd0ajVUNVlj?oc=5",
+          "title": "달성군민이 선택한 국회의원 제명 안돼?···‘이진숙 구하기’ 나선 국힘 지역구 군의원들 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yNTlxS0YzYVZ4dUZFd2l6X1o2azVrV2VSVWtUenVTWTFEblRxVENlTlI5TUE0ZmhwM0VzWUlXUktPT3U3LVZURmtxaG1OREhBV3B1cHBreVBmQdIBX0FVX3lxTE4tTUg2NC1RYUhiVnZrSDIzYUx3MjhkalhNbXJ2eXJTUENlUWdUNVB5NklRR3d5Z2NjQXVJZnhDQ1pjWGdaRVJJZTZLMGJ4U0FGT0FhT2JvOF81QUJsclc0?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 02:19:00 GMT"
+          "published": "Wed, 19 Aug 2026 02:25:00 GMT"
         }
       ]
     },
     {
-      "word": "수위",
+      "word": "군의원",
       "count": 1,
-      "category": "NOUN",
+      "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "한·미 훈련 축소에…북한 “명백한 행동으로 자위권 행사” 수위 조절 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55b0k3QWxpdVdlb2hlRDJubHc4X01NSDhNelAtQThaNmZRS2dJdTk5aHhaX180cTJFWHBsUks5UkFKSmUxZllDZnlqeVVVSGFaVE52MVg0cVUwd9IBX0FVX3lxTE54OGFERmFhcHdFYmVaUFJwMUFxM2dXUG0xaVFWRHNrUTB6cDdQdnUyZVRGQXMwb3ZPSDNtV09OaWc4TjdlZlpkY3c0SXFodEZDSURkb3paRGd0ajVUNVlj?oc=5",
+          "title": "달성군민이 선택한 국회의원 제명 안돼?···‘이진숙 구하기’ 나선 국힘 지역구 군의원들 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yNTlxS0YzYVZ4dUZFd2l6X1o2azVrV2VSVWtUenVTWTFEblRxVENlTlI5TUE0ZmhwM0VzWUlXUktPT3U3LVZURmtxaG1OREhBV3B1cHBreVBmQdIBX0FVX3lxTE4tTUg2NC1RYUhiVnZrSDIzYUx3MjhkalhNbXJ2eXJTUENlUWdUNVB5NklRR3d5Z2NjQXVJZnhDQ1pjWGdaRVJJZTZLMGJ4U0FGT0FhT2JvOF81QUJsclc0?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 02:19:00 GMT"
+          "published": "Wed, 19 Aug 2026 02:25:00 GMT"
         }
       ]
     },
     {
-      "word": "조절",
+      "word": "조현",
       "count": 1,
-      "category": "NOUN",
+      "category": "LOCATION",
       "articles": [
         {
-          "title": "한·미 훈련 축소에…북한 “명백한 행동으로 자위권 행사” 수위 조절 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55b0k3QWxpdVdlb2hlRDJubHc4X01NSDhNelAtQThaNmZRS2dJdTk5aHhaX180cTJFWHBsUks5UkFKSmUxZllDZnlqeVVVSGFaVE52MVg0cVUwd9IBX0FVX3lxTE54OGFERmFhcHdFYmVaUFJwMUFxM2dXUG0xaVFWRHNrUTB6cDdQdnUyZVRGQXMwb3ZPSDNtV09OaWc4TjdlZlpkY3c0SXFodEZDSURkb3paRGd0ajVUNVlj?oc=5",
+          "title": "조현, 연합훈련 축소 등 트럼프 발언 \"사전 통보받지 못했다\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVU5ELUk4Z3plMTE3VDlNZTNCR2ZBQ1l3Y3NOTzBHcEZ3LU1PMVBjVC1sSi1WSDBWLW9oOVpzUjF3eURwblNsdXJ1dVlmb2NZNjVXS25OdTlQTHltZW1XZTExQnFYc29ETFBXUllPdEFHTXN0SzdSaFFSSjRoTjBtMmxMb2hqbEN1dXN3enRDWDljdw?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 02:19:00 GMT"
+          "published": "Wed, 19 Aug 2026 01:41:00 GMT"
         }
       ]
     },
     {
-      "word": "오세훈",
+      "word": "연합훈련",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "오세훈 \"용산공원 한번 훼손하면 되돌릴 수 없어…절대 양보 없다\" - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FNTlRWnZieWFRNy04aHpPTF92WkNVeVNWZXdoZlV2R3JFMkxKM0MtUktmdUJFa0U4UGZTTGZJaGxDU0sxbFNndjdJeU5PX3ZWQzFDcmcxZkZITEhW?oc=5",
+          "title": "조현, 연합훈련 축소 등 트럼프 발언 \"사전 통보받지 못했다\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVU5ELUk4Z3plMTE3VDlNZTNCR2ZBQ1l3Y3NOTzBHcEZ3LU1PMVBjVC1sSi1WSDBWLW9oOVpzUjF3eURwblNsdXJ1dVlmb2NZNjVXS25OdTlQTHltZW1XZTExQnFYc29ETFBXUllPdEFHTXN0SzdSaFFSSjRoTjBtMmxMb2hqbEN1dXN3enRDWDljdw?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 04:33:00 GMT"
+          "published": "Wed, 19 Aug 2026 01:41:00 GMT"
         }
       ]
     },
     {
-      "word": "한번",
+      "word": "축소",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "오세훈 \"용산공원 한번 훼손하면 되돌릴 수 없어…절대 양보 없다\" - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FNTlRWnZieWFRNy04aHpPTF92WkNVeVNWZXdoZlV2R3JFMkxKM0MtUktmdUJFa0U4UGZTTGZJaGxDU0sxbFNndjdJeU5PX3ZWQzFDcmcxZkZITEhW?oc=5",
+          "title": "조현, 연합훈련 축소 등 트럼프 발언 \"사전 통보받지 못했다\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVU5ELUk4Z3plMTE3VDlNZTNCR2ZBQ1l3Y3NOTzBHcEZ3LU1PMVBjVC1sSi1WSDBWLW9oOVpzUjF3eURwblNsdXJ1dVlmb2NZNjVXS25OdTlQTHltZW1XZTExQnFYc29ETFBXUllPdEFHTXN0SzdSaFFSSjRoTjBtMmxMb2hqbEN1dXN3enRDWDljdw?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 04:33:00 GMT"
+          "published": "Wed, 19 Aug 2026 01:41:00 GMT"
         }
       ]
     },
     {
-      "word": "훼손하면",
+      "word": "트럼프",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "오세훈 \"용산공원 한번 훼손하면 되돌릴 수 없어…절대 양보 없다\" - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FNTlRWnZieWFRNy04aHpPTF92WkNVeVNWZXdoZlV2R3JFMkxKM0MtUktmdUJFa0U4UGZTTGZJaGxDU0sxbFNndjdJeU5PX3ZWQzFDcmcxZkZITEhW?oc=5",
+          "title": "조현, 연합훈련 축소 등 트럼프 발언 \"사전 통보받지 못했다\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVU5ELUk4Z3plMTE3VDlNZTNCR2ZBQ1l3Y3NOTzBHcEZ3LU1PMVBjVC1sSi1WSDBWLW9oOVpzUjF3eURwblNsdXJ1dVlmb2NZNjVXS25OdTlQTHltZW1XZTExQnFYc29ETFBXUllPdEFHTXN0SzdSaFFSSjRoTjBtMmxMb2hqbEN1dXN3enRDWDljdw?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 04:33:00 GMT"
+          "published": "Wed, 19 Aug 2026 01:41:00 GMT"
         }
       ]
     },
     {
-      "word": "되돌릴",
+      "word": "발언",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "오세훈 \"용산공원 한번 훼손하면 되돌릴 수 없어…절대 양보 없다\" - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FNTlRWnZieWFRNy04aHpPTF92WkNVeVNWZXdoZlV2R3JFMkxKM0MtUktmdUJFa0U4UGZTTGZJaGxDU0sxbFNndjdJeU5PX3ZWQzFDcmcxZkZITEhW?oc=5",
+          "title": "조현, 연합훈련 축소 등 트럼프 발언 \"사전 통보받지 못했다\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVU5ELUk4Z3plMTE3VDlNZTNCR2ZBQ1l3Y3NOTzBHcEZ3LU1PMVBjVC1sSi1WSDBWLW9oOVpzUjF3eURwblNsdXJ1dVlmb2NZNjVXS25OdTlQTHltZW1XZTExQnFYc29ETFBXUllPdEFHTXN0SzdSaFFSSjRoTjBtMmxMb2hqbEN1dXN3enRDWDljdw?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 04:33:00 GMT"
+          "published": "Wed, 19 Aug 2026 01:41:00 GMT"
         }
       ]
     },
     {
-      "word": "없어절대",
+      "word": "사전",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "오세훈 \"용산공원 한번 훼손하면 되돌릴 수 없어…절대 양보 없다\" - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FNTlRWnZieWFRNy04aHpPTF92WkNVeVNWZXdoZlV2R3JFMkxKM0MtUktmdUJFa0U4UGZTTGZJaGxDU0sxbFNndjdJeU5PX3ZWQzFDcmcxZkZITEhW?oc=5",
+          "title": "조현, 연합훈련 축소 등 트럼프 발언 \"사전 통보받지 못했다\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVU5ELUk4Z3plMTE3VDlNZTNCR2ZBQ1l3Y3NOTzBHcEZ3LU1PMVBjVC1sSi1WSDBWLW9oOVpzUjF3eURwblNsdXJ1dVlmb2NZNjVXS25OdTlQTHltZW1XZTExQnFYc29ETFBXUllPdEFHTXN0SzdSaFFSSjRoTjBtMmxMb2hqbEN1dXN3enRDWDljdw?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 04:33:00 GMT"
+          "published": "Wed, 19 Aug 2026 01:41:00 GMT"
         }
       ]
     },
     {
-      "word": "양보",
+      "word": "통보받지",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "오세훈 \"용산공원 한번 훼손하면 되돌릴 수 없어…절대 양보 없다\" - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FNTlRWnZieWFRNy04aHpPTF92WkNVeVNWZXdoZlV2R3JFMkxKM0MtUktmdUJFa0U4UGZTTGZJaGxDU0sxbFNndjdJeU5PX3ZWQzFDcmcxZkZITEhW?oc=5",
+          "title": "조현, 연합훈련 축소 등 트럼프 발언 \"사전 통보받지 못했다\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVU5ELUk4Z3plMTE3VDlNZTNCR2ZBQ1l3Y3NOTzBHcEZ3LU1PMVBjVC1sSi1WSDBWLW9oOVpzUjF3eURwblNsdXJ1dVlmb2NZNjVXS25OdTlQTHltZW1XZTExQnFYc29ETFBXUllPdEFHTXN0SzdSaFFSSjRoTjBtMmxMb2hqbEN1dXN3enRDWDljdw?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 04:33:00 GMT"
+          "published": "Wed, 19 Aug 2026 01:41:00 GMT"
         }
       ]
     },
     {
-      "word": "없다",
+      "word": "못했다",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "오세훈 \"용산공원 한번 훼손하면 되돌릴 수 없어…절대 양보 없다\" - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FNTlRWnZieWFRNy04aHpPTF92WkNVeVNWZXdoZlV2R3JFMkxKM0MtUktmdUJFa0U4UGZTTGZJaGxDU0sxbFNndjdJeU5PX3ZWQzFDcmcxZkZITEhW?oc=5",
+          "title": "조현, 연합훈련 축소 등 트럼프 발언 \"사전 통보받지 못했다\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVU5ELUk4Z3plMTE3VDlNZTNCR2ZBQ1l3Y3NOTzBHcEZ3LU1PMVBjVC1sSi1WSDBWLW9oOVpzUjF3eURwblNsdXJ1dVlmb2NZNjVXS25OdTlQTHltZW1XZTExQnFYc29ETFBXUllPdEFHTXN0SzdSaFFSSjRoTjBtMmxMb2hqbEN1dXN3enRDWDljdw?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 04:33:00 GMT"
+          "published": "Wed, 19 Aug 2026 01:41:00 GMT"
         }
       ]
     },
     {
-      "word": "계엄",
+      "word": "서울시당오세훈",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보] ‘계엄 직무유기’ 조태용 전 국정원장, 항소심서 징역 2년 6개월 - chosun.com",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMUpsbUx0dDQzME55NWUzUHQtTUJpNTV4NXlDcGo0amdnRVUtLWJSYXc2NnluRHZsS1FneWlXdklsQ09UdWFxT3hsaW1laXZCN3BLTWluYkZYakFlek1Jb28tMjh2UXZFRUtyWjNsdTBrME5kV2UwZHBWOGMzNlpoSGFwblp0UzQ?oc=5",
+          "title": "국힘 서울시당·오세훈, ‘부동산 여론전’…“재개발·재건축 풀어야” - news.kbs.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MMzBRc3RCbGstbjZFdHMxOVhpb2N1UWdCTi1xWXk4NnZXRl9PWmdTWUZDMjZzSFpzZlBGWGN3N1NsdDRyaTRZSks1LTdubDhTYmYzMXBFOHNuVWM?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 02:22:00 GMT"
+          "published": "Wed, 19 Aug 2026 05:01:00 GMT"
         }
       ]
     },
     {
-      "word": "직무유기",
+      "word": "부동산",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보] ‘계엄 직무유기’ 조태용 전 국정원장, 항소심서 징역 2년 6개월 - chosun.com",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMUpsbUx0dDQzME55NWUzUHQtTUJpNTV4NXlDcGo0amdnRVUtLWJSYXc2NnluRHZsS1FneWlXdklsQ09UdWFxT3hsaW1laXZCN3BLTWluYkZYakFlek1Jb28tMjh2UXZFRUtyWjNsdTBrME5kV2UwZHBWOGMzNlpoSGFwblp0UzQ?oc=5",
+          "title": "국힘 서울시당·오세훈, ‘부동산 여론전’…“재개발·재건축 풀어야” - news.kbs.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MMzBRc3RCbGstbjZFdHMxOVhpb2N1UWdCTi1xWXk4NnZXRl9PWmdTWUZDMjZzSFpzZlBGWGN3N1NsdDRyaTRZSks1LTdubDhTYmYzMXBFOHNuVWM?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 02:22:00 GMT"
+          "published": "Wed, 19 Aug 2026 05:01:00 GMT"
         }
       ]
     },
     {
-      "word": "조태용",
+      "word": "여론전재개발재건축",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보] ‘계엄 직무유기’ 조태용 전 국정원장, 항소심서 징역 2년 6개월 - chosun.com",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMUpsbUx0dDQzME55NWUzUHQtTUJpNTV4NXlDcGo0amdnRVUtLWJSYXc2NnluRHZsS1FneWlXdklsQ09UdWFxT3hsaW1laXZCN3BLTWluYkZYakFlek1Jb28tMjh2UXZFRUtyWjNsdTBrME5kV2UwZHBWOGMzNlpoSGFwblp0UzQ?oc=5",
+          "title": "국힘 서울시당·오세훈, ‘부동산 여론전’…“재개발·재건축 풀어야” - news.kbs.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MMzBRc3RCbGstbjZFdHMxOVhpb2N1UWdCTi1xWXk4NnZXRl9PWmdTWUZDMjZzSFpzZlBGWGN3N1NsdDRyaTRZSks1LTdubDhTYmYzMXBFOHNuVWM?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 02:22:00 GMT"
+          "published": "Wed, 19 Aug 2026 05:01:00 GMT"
         }
       ]
     },
     {
-      "word": "국정원장",
+      "word": "풀어야",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보] ‘계엄 직무유기’ 조태용 전 국정원장, 항소심서 징역 2년 6개월 - chosun.com",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMUpsbUx0dDQzME55NWUzUHQtTUJpNTV4NXlDcGo0amdnRVUtLWJSYXc2NnluRHZsS1FneWlXdklsQ09UdWFxT3hsaW1laXZCN3BLTWluYkZYakFlek1Jb28tMjh2UXZFRUtyWjNsdTBrME5kV2UwZHBWOGMzNlpoSGFwblp0UzQ?oc=5",
+          "title": "국힘 서울시당·오세훈, ‘부동산 여론전’…“재개발·재건축 풀어야” - news.kbs.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MMzBRc3RCbGstbjZFdHMxOVhpb2N1UWdCTi1xWXk4NnZXRl9PWmdTWUZDMjZzSFpzZlBGWGN3N1NsdDRyaTRZSks1LTdubDhTYmYzMXBFOHNuVWM?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 02:22:00 GMT"
+          "published": "Wed, 19 Aug 2026 05:01:00 GMT"
         }
       ]
     },
     {
-      "word": "항소심서",
+      "word": "특검",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보] ‘계엄 직무유기’ 조태용 전 국정원장, 항소심서 징역 2년 6개월 - chosun.com",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMUpsbUx0dDQzME55NWUzUHQtTUJpNTV4NXlDcGo0amdnRVUtLWJSYXc2NnluRHZsS1FneWlXdklsQ09UdWFxT3hsaW1laXZCN3BLTWluYkZYakFlek1Jb28tMjh2UXZFRUtyWjNsdTBrME5kV2UwZHBWOGMzNlpoSGFwblp0UzQ?oc=5",
+          "title": "[속보] 특검, '1심 무죄' 윤석열 위증 혐의 2심서 벌금 1천만원 구형 - 경기일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0WXdmV2IxLUR6bEE1QzhCWFlUeFlaMmRKNGpfZzllYWlHNEFnT3l3eExIZmhCamZLdDZTYXFjSmVFcWFpWVBTcjUyNTd3cU5hU21EN05aMDBSSDA?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 02:22:00 GMT"
+          "published": "Wed, 19 Aug 2026 05:54:29 GMT"
         }
       ]
     },
     {
-      "word": "징역",
+      "word": "1심",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보] ‘계엄 직무유기’ 조태용 전 국정원장, 항소심서 징역 2년 6개월 - chosun.com",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMUpsbUx0dDQzME55NWUzUHQtTUJpNTV4NXlDcGo0amdnRVUtLWJSYXc2NnluRHZsS1FneWlXdklsQ09UdWFxT3hsaW1laXZCN3BLTWluYkZYakFlek1Jb28tMjh2UXZFRUtyWjNsdTBrME5kV2UwZHBWOGMzNlpoSGFwblp0UzQ?oc=5",
+          "title": "[속보] 특검, '1심 무죄' 윤석열 위증 혐의 2심서 벌금 1천만원 구형 - 경기일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0WXdmV2IxLUR6bEE1QzhCWFlUeFlaMmRKNGpfZzllYWlHNEFnT3l3eExIZmhCamZLdDZTYXFjSmVFcWFpWVBTcjUyNTd3cU5hU21EN05aMDBSSDA?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 02:22:00 GMT"
+          "published": "Wed, 19 Aug 2026 05:54:29 GMT"
         }
       ]
     },
     {
-      "word": "2년",
+      "word": "무죄",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보] ‘계엄 직무유기’ 조태용 전 국정원장, 항소심서 징역 2년 6개월 - chosun.com",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMUpsbUx0dDQzME55NWUzUHQtTUJpNTV4NXlDcGo0amdnRVUtLWJSYXc2NnluRHZsS1FneWlXdklsQ09UdWFxT3hsaW1laXZCN3BLTWluYkZYakFlek1Jb28tMjh2UXZFRUtyWjNsdTBrME5kV2UwZHBWOGMzNlpoSGFwblp0UzQ?oc=5",
+          "title": "[속보] 특검, '1심 무죄' 윤석열 위증 혐의 2심서 벌금 1천만원 구형 - 경기일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0WXdmV2IxLUR6bEE1QzhCWFlUeFlaMmRKNGpfZzllYWlHNEFnT3l3eExIZmhCamZLdDZTYXFjSmVFcWFpWVBTcjUyNTd3cU5hU21EN05aMDBSSDA?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 02:22:00 GMT"
+          "published": "Wed, 19 Aug 2026 05:54:29 GMT"
         }
       ]
     },
     {
-      "word": "6개월",
+      "word": "윤석열",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보] ‘계엄 직무유기’ 조태용 전 국정원장, 항소심서 징역 2년 6개월 - chosun.com",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMUpsbUx0dDQzME55NWUzUHQtTUJpNTV4NXlDcGo0amdnRVUtLWJSYXc2NnluRHZsS1FneWlXdklsQ09UdWFxT3hsaW1laXZCN3BLTWluYkZYakFlek1Jb28tMjh2UXZFRUtyWjNsdTBrME5kV2UwZHBWOGMzNlpoSGFwblp0UzQ?oc=5",
+          "title": "[속보] 특검, '1심 무죄' 윤석열 위증 혐의 2심서 벌금 1천만원 구형 - 경기일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0WXdmV2IxLUR6bEE1QzhCWFlUeFlaMmRKNGpfZzllYWlHNEFnT3l3eExIZmhCamZLdDZTYXFjSmVFcWFpWVBTcjUyNTd3cU5hU21EN05aMDBSSDA?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 02:22:00 GMT"
+          "published": "Wed, 19 Aug 2026 05:54:29 GMT"
         }
       ]
     },
     {
-      "word": "엄마",
+      "word": "위증",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"엄마 밥 먹고싶어‥살려달라\" 김소영 최후진술 '경악' - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9NdkQ2QktSb1dxSTkzbWdfMi0yU1g5Y2xUakZ5aW9TSVY1d0tpWEEydWlqUUpqbXpKTGtfc2paQXFjZnczQUFOanprbmduSTRuLUlpYWtfM1hEOEFDREtCdXgzZ0JkallXOXJsNDhuZUxuaWZac0NZ0gF3QVVfeXFMTkhFNnNyTjFWRTBkMnBDVTZNaXZ0OGNFSXk5aTNxWVJmbVdDY3RGOHpDY3I3MWdXYUVTSFlIQlFTM1JNNUpvUzdBTnh4Nml5dmZwTnAta0Vmem5IcENpU0psRXN1WGtBcVlweDNGUmNhTkk5cXY5ZG8?oc=5",
+          "title": "[속보] 특검, '1심 무죄' 윤석열 위증 혐의 2심서 벌금 1천만원 구형 - 경기일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0WXdmV2IxLUR6bEE1QzhCWFlUeFlaMmRKNGpfZzllYWlHNEFnT3l3eExIZmhCamZLdDZTYXFjSmVFcWFpWVBTcjUyNTd3cU5hU21EN05aMDBSSDA?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 02:54:47 GMT"
+          "published": "Wed, 19 Aug 2026 05:54:29 GMT"
         }
       ]
     },
     {
-      "word": "먹고싶어살려달",
+      "word": "혐의",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"엄마 밥 먹고싶어‥살려달라\" 김소영 최후진술 '경악' - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9NdkQ2QktSb1dxSTkzbWdfMi0yU1g5Y2xUakZ5aW9TSVY1d0tpWEEydWlqUUpqbXpKTGtfc2paQXFjZnczQUFOanprbmduSTRuLUlpYWtfM1hEOEFDREtCdXgzZ0JkallXOXJsNDhuZUxuaWZac0NZ0gF3QVVfeXFMTkhFNnNyTjFWRTBkMnBDVTZNaXZ0OGNFSXk5aTNxWVJmbVdDY3RGOHpDY3I3MWdXYUVTSFlIQlFTM1JNNUpvUzdBTnh4Nml5dmZwTnAta0Vmem5IcENpU0psRXN1WGtBcVlweDNGUmNhTkk5cXY5ZG8?oc=5",
+          "title": "[속보] 특검, '1심 무죄' 윤석열 위증 혐의 2심서 벌금 1천만원 구형 - 경기일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0WXdmV2IxLUR6bEE1QzhCWFlUeFlaMmRKNGpfZzllYWlHNEFnT3l3eExIZmhCamZLdDZTYXFjSmVFcWFpWVBTcjUyNTd3cU5hU21EN05aMDBSSDA?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 02:54:47 GMT"
+          "published": "Wed, 19 Aug 2026 05:54:29 GMT"
         }
       ]
     },
     {
-      "word": "김소영",
+      "word": "2심서",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"엄마 밥 먹고싶어‥살려달라\" 김소영 최후진술 '경악' - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9NdkQ2QktSb1dxSTkzbWdfMi0yU1g5Y2xUakZ5aW9TSVY1d0tpWEEydWlqUUpqbXpKTGtfc2paQXFjZnczQUFOanprbmduSTRuLUlpYWtfM1hEOEFDREtCdXgzZ0JkallXOXJsNDhuZUxuaWZac0NZ0gF3QVVfeXFMTkhFNnNyTjFWRTBkMnBDVTZNaXZ0OGNFSXk5aTNxWVJmbVdDY3RGOHpDY3I3MWdXYUVTSFlIQlFTM1JNNUpvUzdBTnh4Nml5dmZwTnAta0Vmem5IcENpU0psRXN1WGtBcVlweDNGUmNhTkk5cXY5ZG8?oc=5",
+          "title": "[속보] 특검, '1심 무죄' 윤석열 위증 혐의 2심서 벌금 1천만원 구형 - 경기일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0WXdmV2IxLUR6bEE1QzhCWFlUeFlaMmRKNGpfZzllYWlHNEFnT3l3eExIZmhCamZLdDZTYXFjSmVFcWFpWVBTcjUyNTd3cU5hU21EN05aMDBSSDA?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 02:54:47 GMT"
+          "published": "Wed, 19 Aug 2026 05:54:29 GMT"
         }
       ]
     },
     {
-      "word": "최후진술",
+      "word": "벌금",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"엄마 밥 먹고싶어‥살려달라\" 김소영 최후진술 '경악' - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9NdkQ2QktSb1dxSTkzbWdfMi0yU1g5Y2xUakZ5aW9TSVY1d0tpWEEydWlqUUpqbXpKTGtfc2paQXFjZnczQUFOanprbmduSTRuLUlpYWtfM1hEOEFDREtCdXgzZ0JkallXOXJsNDhuZUxuaWZac0NZ0gF3QVVfeXFMTkhFNnNyTjFWRTBkMnBDVTZNaXZ0OGNFSXk5aTNxWVJmbVdDY3RGOHpDY3I3MWdXYUVTSFlIQlFTM1JNNUpvUzdBTnh4Nml5dmZwTnAta0Vmem5IcENpU0psRXN1WGtBcVlweDNGUmNhTkk5cXY5ZG8?oc=5",
+          "title": "[속보] 특검, '1심 무죄' 윤석열 위증 혐의 2심서 벌금 1천만원 구형 - 경기일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0WXdmV2IxLUR6bEE1QzhCWFlUeFlaMmRKNGpfZzllYWlHNEFnT3l3eExIZmhCamZLdDZTYXFjSmVFcWFpWVBTcjUyNTd3cU5hU21EN05aMDBSSDA?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 02:54:47 GMT"
+          "published": "Wed, 19 Aug 2026 05:54:29 GMT"
         }
       ]
     },
     {
-      "word": "경악",
+      "word": "1천만원",
       "count": 1,
-      "category": "NOUN",
+      "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "\"엄마 밥 먹고싶어‥살려달라\" 김소영 최후진술 '경악' - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9NdkQ2QktSb1dxSTkzbWdfMi0yU1g5Y2xUakZ5aW9TSVY1d0tpWEEydWlqUUpqbXpKTGtfc2paQXFjZnczQUFOanprbmduSTRuLUlpYWtfM1hEOEFDREtCdXgzZ0JkallXOXJsNDhuZUxuaWZac0NZ0gF3QVVfeXFMTkhFNnNyTjFWRTBkMnBDVTZNaXZ0OGNFSXk5aTNxWVJmbVdDY3RGOHpDY3I3MWdXYUVTSFlIQlFTM1JNNUpvUzdBTnh4Nml5dmZwTnAta0Vmem5IcENpU0psRXN1WGtBcVlweDNGUmNhTkk5cXY5ZG8?oc=5",
+          "title": "[속보] 특검, '1심 무죄' 윤석열 위증 혐의 2심서 벌금 1천만원 구형 - 경기일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0WXdmV2IxLUR6bEE1QzhCWFlUeFlaMmRKNGpfZzllYWlHNEFnT3l3eExIZmhCamZLdDZTYXFjSmVFcWFpWVBTcjUyNTd3cU5hU21EN05aMDBSSDA?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 02:54:47 GMT"
-        }
-      ]
-    },
-    {
-      "word": "명함",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "'명함 넣은 명절선물' 백성현 논산시장 1심서 당선무효형 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Uek45cmpaOGJuMkZWRVp0NkVRYnNSN2hHbXhVNkVaRkhoR3R2X2E5b21EWkV2YjNmaGxCYlpvdkg4dkthdzNxb3BjVmpGOFp4cHQ1ZW1pRU9hOVHSAWBBVV95cUxOMExqTlpLMGM1TWRsNWtxY0lqTEZLS3IyeWdMaTNwaldPVDF0Vm55a0I3aHVGMkpLSWRyMkNVTTZkbzJWYVJLUXg2S0F5Qjk2VjlqakF4Y0hCaFVLNlI5dTI?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 05:00:06 GMT"
+          "published": "Wed, 19 Aug 2026 05:54:29 GMT"
         }
       ]
     }
