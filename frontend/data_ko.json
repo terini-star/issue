@@ -1,81 +1,68 @@
 {
   "language": "ko",
-  "last_updated": 1787147542.3647273,
+  "last_updated": 1787150432.9701579,
   "count": 40,
   "trends": [
     {
-      "word": "한반",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프 ‘일방주의’에 휘둘리는 한반도 안보 - khan.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfclE2NnJPcmJsaDRvRzB3QU5BcWFJcXlWUkFnTUVYcHREcVhBaG1SS2hjQlFEbTJUeFM3SGREeEE5azh1c0JCdzRoWEhKMWxtUDZrQ0hYUEpoZ9IBX0FVX3lxTE1CeXpxUTA4S2hScVMwNVB2QjJaNnJKQlJoRzNrZk8xcV96LU9DanlDRkJsQmZ6X0tKMzNEQm5iTlJpTEpZc1dlcGxsbnZFSHhrd2tCWW5tUFNndDd0SDM0?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 12:25:00 GMT"
-        },
-        {
-          "title": "[속보] 왕이 중국 외교부장 \"한반도 평화·안정 위해 건설적 역할 하겠다\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RaGJnT2h3WGgwSllqOXZMQzJma0Rubl9ia1czM2JOSjRDaUxVZTY0dnZFVzRhZ0pVUVJST09Ec2N3WXE4WlZ4Ti1WQVdHMGx1QThCckI0cFphVldiTFBfc05leXZjSXJiZUlxRW54aXdMWnYzeFRkONIBeEFVX3lxTFA0OXNoSHdIQndlWUNHSl96QXgtbWRuMFk5N0JpUDY3bTB4ZGtudjdQWmZ3ZFlRSUluU0hkeGlpV0JIQ1B5XzlUcHZyekhEMmI2S0hpUkFtemdONWFVMnVvSTVyeHFIanU3VTFWWVdKUlZsTHMtaHBjbg?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 10:35:53 GMT"
-        }
-      ]
-    },
-    {
-      "word": "의혹",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[속보] 종합특검, '국정원 내란 관여 의혹' 조태용·홍장원 기소 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52NXJZbjdQUXhUOElTTjI4RTdiMlRudjJwRmxwWmN4VThmdFJadGtINE1ZS2t3QTIwWVRZZzVMa2Y0Rm9vallKeVZvQW1uSmRfTC0xZEZVMmEyS0pWeGdGSF9NbFBfSGNmdGZPYzZhUUtmLUJtVHkw0gF3QVVfeXFMT0pfTG1rYS00eDF6YzJ4czFEc0lXbW9wR3NrQmJFMXZRN19iMGNDMUdlX21YdC1DdmZveGFJWFh2NXJzdkZNYWwtd29XMC03bkg0LXdYdENFazd1TDhsanNZQWVQZ21iNlROaXJrbzNWcmNSaXdVQXc?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 09:46:41 GMT"
-        },
-        {
-          "title": "김호철 감사원장 \"감사원 대한축구협회 심판 성접대 사건 무마 의혹 살펴볼 것\" - 한국NGO신문",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53UDNRUHFVLVRRYy15SnRQUmE0VlhzeVNxTXAzVm1ZQW9lY0I1UjNyZ1Bjc1U4Sm5lRWdsNE9EallxSU5GejV3NENMWXZ6TGcyRUxtem9mS19WTnhqMk9aNHpzdDFHR2c2?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 10:17:50 GMT"
-        }
-      ]
-    },
-    {
-      "word": "우크",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "젤렌스키에 반기 든 우크라 ‘드론전 영웅’... “대선 실시해야” - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeTNCZUktYVRodnpkMVRSVXpMSUEwanJPcVRKeWI1ZVAtWHUtYVBTc01zZm5mdWxmN2tHTE4yTmNnNEdjdjc0VGNKR0RxSGgzaTRrUWgtVER0NExoYnFJSkRvRG0yT0RvUk5EOHpDblotUmlaNjBtVVYweGNwMG9MT0lyQVpMYVA5R2tpT1VWNEtEVHRmM01sNG04dmlMUQ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 03:56:43 GMT"
-        },
-        {
-          "title": "경제 급소 때린다… 우크라, 에너지시설-러는 곡물 수출항 공습 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5uVV9FQ1JESW1WYTJNQ2pJd0N6ZmJQdl9MMFhWZ1F6dnRwWE11WVN1X1FweUNjcG9LU1JyVEhySmJHVTRlMTNkREl4VWdqQVQwc0RMelVoR3hBclNRZXFjMnEwQi11d2JtX1dWcEdSNnNoWU3SAWZBVV95cUxPbDNnNUJMbGQ4M3RVYnh5NG1MNVhRLXFwUEF1Zm0zQ2VzU21SX01VdFV2Z2N4OTFxanpLc0hObGs3NU1kQW0wd2VGdTE5YlNsLWp5cmlVVF84bHo2TFdDVDBBWFFXb3c?oc=5",
-          "source": "Google News",
-          "published": "Tue, 18 Aug 2026 19:30:00 GMT"
-        }
-      ]
-    },
-    {
       "word": "미국",
-      "count": 2,
+      "count": 3,
       "category": "LOCATION",
       "articles": [
         {
-          "title": "이란 \"미국이 선 넘으면 유럽까지 타격\"…확전 시나리오 검토 - 노컷뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10dmRBYnJLeExSdFo2VDBoYVQ4UGduWklVQW9Na3ZMVW1yaERVYVc0QWhhWkZiX2JlVDJYb2s4ZVJuZ3I1TW9BS1ZmZjhIQTUybnc?oc=5",
+          "title": "\"이란, 미국 전쟁 확대 시 유럽 내 미군 자산 타격도 고려\" - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmMGVkUThpcTBUWFVrZ2ZKejlyWl80dklYUEI2dDRIUGkzSzZZTkxHbW55eWJvQ3BxWVFRODFVYWZUMlViSmdsSG5yQklPQjVvREFfQlNKNFZISW_SAWBBVV95cUxPOEhadXgtamprZWlkWDlfNnJhX010akt2MEJqdHBEeUF0aU9KNy1sWU5TalF1NF9BeF9EM0FsTDVKRzVzRmFyakJjWmtoUWtMN2tfYnhwTkdYa0tyXzBDcDk?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 08:49:00 GMT"
+          "published": "Wed, 19 Aug 2026 07:01:08 GMT"
         },
         {
           "title": "한화 K9, 미 차세대 자주포 시제품 계약 체결…‘체계 종합 무기’ 미국 첫 수출 - KBS 뉴스",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfN2RuX1JUaGJXRGVhYUM1TTQwdkZJZGt4VmJRWFowUnkzVnhCWVI3TkJMUk9pOTJqdHRpLWVtN2x4djFidXY5bUdCd2NBODhmemoxa3QtVENMWEE?oc=5",
           "source": "Google News",
           "published": "Wed, 19 Aug 2026 05:04:00 GMT"
+        },
+        {
+          "title": "[김종인] 미국 장기 국채금리 급등…원인과 전망은 - 지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LSTVlaUFuNG9EUTRrSVZUMFdMLUFmTlRrY2JkRUxlSHk2a0VkQUlleVZzYTFsdV84aG8yVGRVay0xX2tXYjJTLVQyelJQY3RzMVVTQ1dB?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 01:16:30 GMT"
+        }
+      ]
+    },
+    {
+      "word": "대통령",
+      "count": 2,
+      "category": "PERSON",
+      "articles": [
+        {
+          "title": "이 대통령, 김민석·정청래·송영길과 만찬…“더 강한 원팀 공감대” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94WldYNWU0T2FrRE5KOXFDQkxOMEo2aWNTU1ktY1M5WDllSkR3NVFoN05odlRQZ3R0VjhZLUN4aFMzY3JCaTRxQ0d5cWQySVAwZGVjaEtBYzBrTmFPcDMyajVQT25WS0FmY2I4?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 13:40:00 GMT"
+        },
+        {
+          "title": "‘대통령 패싱’ 반박한 대법원 “靑에 만남 요구했는데 안 됐다” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ER1RBZGNpWjdfSmJCcG5lQW52VDZpMmltanVaMkRmWVk5bWt6NTlqSWFTMno5Ukh4UUtMVGdsdndlTGYzb2hsZTVEMXBLS0tUb3dqRHgyX2pFNVNVdVlwNXRIUEx6VHFqaWtrbGtzZVFncGF5ai1Z0gFmQVVfeXFMTVBQWkczTi0yTDVRQ0x3Q1h5MHNwYnBXZkw5WDlSWFBncEtyTmRhSEphZ0RlNFNQQ0NheVNHVkdNSlJiNHBpUlVERW8wOWMyUmRfN1VETWp0dTZKMThaSkVUR2pYVlJ3?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 09:14:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "확대",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "\"이란, 미국 전쟁 확대 시 유럽 내 미군 자산 타격도 고려\" - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmMGVkUThpcTBUWFVrZ2ZKejlyWl80dklYUEI2dDRIUGkzSzZZTkxHbW55eWJvQ3BxWVFRODFVYWZUMlViSmdsSG5yQklPQjVvREFfQlNKNFZISW_SAWBBVV95cUxPOEhadXgtamprZWlkWDlfNnJhX010akt2MEJqdHBEeUF0aU9KNy1sWU5TalF1NF9BeF9EM0FsTDVKRzVzRmFyakJjWmtoUWtMN2tfYnhwTkdYa0tyXzBDcDk?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 07:01:08 GMT"
+        },
+        {
+          "title": "하이닉스, ‘역대 최대’ 40조 자사주 매입·소각…배당 확대도 추진 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TWHpkWVpBUlpybTlVbmVmdlljWlFSVUdOa2xUcE1yMm9VUUNYVzh2ZUdTbjhpZmhINmZmSmZtajBvN3J2aGtZMjVtc0VZM1pKRUYzd3F2djdVNlIwVWppZ1lUdnZTU0RPYm1ZT05nYk5NZw?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 09:53:00 GMT"
         }
       ]
     },
@@ -99,288 +86,197 @@
       ]
     },
     {
-      "word": "조희대",
+      "word": "김여정",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "조희대 ‘서면 제청’, 청와대-대법원 ‘대법관 구성’ 힘겨루기가 사태 뿌리 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WcnduckJ1UjJuYzA0dVFfcjRHMWNOYXdKVDhISVRIcXVmcDlFb0VwZDZxcmdZWS1NZWpKbWVuZmxVbHN4VGFXM0xaWmNscXdaajNxVWtjTnBySHhJZGNwV24tc012aXd4WElzTS1oRHc1dw?oc=5",
+          "title": "[속보] 김여정 “한·미 연습 축소 평할 가치 없어…두 지도자 관계는 훌륭” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04TUhkY3ZKU1pqVE5ySFY2TFVUZmlaWkRGQ2I3emFqMmdWaEsxc1hSemJpRUx5Ti1aVXowWUtEWVBKMWtISEpueTNmVmRnaG1MMkZQWmFIaUhDd9IBX0FVX3lxTE9YMVdBS04zYkZhOGw2NjN3azc3MXVTb3hnUzJSWmNfVjRXUGFsdl9zYWVvV3gyTW45cDBvWktXOWp3MkFYekJKYUlnN2owZHAtVV9yUGJBNTRkUC16MVlB?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 10:39:00 GMT"
+          "published": "Wed, 19 Aug 2026 13:40:00 GMT"
         }
       ]
     },
     {
-      "word": "서면",
+      "word": "한미",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "조희대 ‘서면 제청’, 청와대-대법원 ‘대법관 구성’ 힘겨루기가 사태 뿌리 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WcnduckJ1UjJuYzA0dVFfcjRHMWNOYXdKVDhISVRIcXVmcDlFb0VwZDZxcmdZWS1NZWpKbWVuZmxVbHN4VGFXM0xaWmNscXdaajNxVWtjTnBySHhJZGNwV24tc012aXd4WElzTS1oRHc1dw?oc=5",
+          "title": "[속보] 김여정 “한·미 연습 축소 평할 가치 없어…두 지도자 관계는 훌륭” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04TUhkY3ZKU1pqVE5ySFY2TFVUZmlaWkRGQ2I3emFqMmdWaEsxc1hSemJpRUx5Ti1aVXowWUtEWVBKMWtISEpueTNmVmRnaG1MMkZQWmFIaUhDd9IBX0FVX3lxTE9YMVdBS04zYkZhOGw2NjN3azc3MXVTb3hnUzJSWmNfVjRXUGFsdl9zYWVvV3gyTW45cDBvWktXOWp3MkFYekJKYUlnN2owZHAtVV9yUGJBNTRkUC16MVlB?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 10:39:00 GMT"
+          "published": "Wed, 19 Aug 2026 13:40:00 GMT"
         }
       ]
     },
     {
-      "word": "제청",
+      "word": "연습",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "조희대 ‘서면 제청’, 청와대-대법원 ‘대법관 구성’ 힘겨루기가 사태 뿌리 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WcnduckJ1UjJuYzA0dVFfcjRHMWNOYXdKVDhISVRIcXVmcDlFb0VwZDZxcmdZWS1NZWpKbWVuZmxVbHN4VGFXM0xaWmNscXdaajNxVWtjTnBySHhJZGNwV24tc012aXd4WElzTS1oRHc1dw?oc=5",
+          "title": "[속보] 김여정 “한·미 연습 축소 평할 가치 없어…두 지도자 관계는 훌륭” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04TUhkY3ZKU1pqVE5ySFY2TFVUZmlaWkRGQ2I3emFqMmdWaEsxc1hSemJpRUx5Ti1aVXowWUtEWVBKMWtISEpueTNmVmRnaG1MMkZQWmFIaUhDd9IBX0FVX3lxTE9YMVdBS04zYkZhOGw2NjN3azc3MXVTb3hnUzJSWmNfVjRXUGFsdl9zYWVvV3gyTW45cDBvWktXOWp3MkFYekJKYUlnN2owZHAtVV9yUGJBNTRkUC16MVlB?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 10:39:00 GMT"
+          "published": "Wed, 19 Aug 2026 13:40:00 GMT"
         }
       ]
     },
     {
-      "word": "청와대대법원",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "조희대 ‘서면 제청’, 청와대-대법원 ‘대법관 구성’ 힘겨루기가 사태 뿌리 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WcnduckJ1UjJuYzA0dVFfcjRHMWNOYXdKVDhISVRIcXVmcDlFb0VwZDZxcmdZWS1NZWpKbWVuZmxVbHN4VGFXM0xaWmNscXdaajNxVWtjTnBySHhJZGNwV24tc012aXd4WElzTS1oRHc1dw?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 10:39:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "대법관",
+      "word": "축소",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "조희대 ‘서면 제청’, 청와대-대법원 ‘대법관 구성’ 힘겨루기가 사태 뿌리 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WcnduckJ1UjJuYzA0dVFfcjRHMWNOYXdKVDhISVRIcXVmcDlFb0VwZDZxcmdZWS1NZWpKbWVuZmxVbHN4VGFXM0xaWmNscXdaajNxVWtjTnBySHhJZGNwV24tc012aXd4WElzTS1oRHc1dw?oc=5",
+          "title": "[속보] 김여정 “한·미 연습 축소 평할 가치 없어…두 지도자 관계는 훌륭” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04TUhkY3ZKU1pqVE5ySFY2TFVUZmlaWkRGQ2I3emFqMmdWaEsxc1hSemJpRUx5Ti1aVXowWUtEWVBKMWtISEpueTNmVmRnaG1MMkZQWmFIaUhDd9IBX0FVX3lxTE9YMVdBS04zYkZhOGw2NjN3azc3MXVTb3hnUzJSWmNfVjRXUGFsdl9zYWVvV3gyTW45cDBvWktXOWp3MkFYekJKYUlnN2owZHAtVV9yUGJBNTRkUC16MVlB?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 10:39:00 GMT"
+          "published": "Wed, 19 Aug 2026 13:40:00 GMT"
         }
       ]
     },
     {
-      "word": "구성",
+      "word": "평할",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "조희대 ‘서면 제청’, 청와대-대법원 ‘대법관 구성’ 힘겨루기가 사태 뿌리 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WcnduckJ1UjJuYzA0dVFfcjRHMWNOYXdKVDhISVRIcXVmcDlFb0VwZDZxcmdZWS1NZWpKbWVuZmxVbHN4VGFXM0xaWmNscXdaajNxVWtjTnBySHhJZGNwV24tc012aXd4WElzTS1oRHc1dw?oc=5",
+          "title": "[속보] 김여정 “한·미 연습 축소 평할 가치 없어…두 지도자 관계는 훌륭” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04TUhkY3ZKU1pqVE5ySFY2TFVUZmlaWkRGQ2I3emFqMmdWaEsxc1hSemJpRUx5Ti1aVXowWUtEWVBKMWtISEpueTNmVmRnaG1MMkZQWmFIaUhDd9IBX0FVX3lxTE9YMVdBS04zYkZhOGw2NjN3azc3MXVTb3hnUzJSWmNfVjRXUGFsdl9zYWVvV3gyTW45cDBvWktXOWp3MkFYekJKYUlnN2owZHAtVV9yUGJBNTRkUC16MVlB?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 10:39:00 GMT"
+          "published": "Wed, 19 Aug 2026 13:40:00 GMT"
         }
       ]
     },
     {
-      "word": "힘겨루기",
+      "word": "가치",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "조희대 ‘서면 제청’, 청와대-대법원 ‘대법관 구성’ 힘겨루기가 사태 뿌리 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WcnduckJ1UjJuYzA0dVFfcjRHMWNOYXdKVDhISVRIcXVmcDlFb0VwZDZxcmdZWS1NZWpKbWVuZmxVbHN4VGFXM0xaWmNscXdaajNxVWtjTnBySHhJZGNwV24tc012aXd4WElzTS1oRHc1dw?oc=5",
+          "title": "[속보] 김여정 “한·미 연습 축소 평할 가치 없어…두 지도자 관계는 훌륭” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04TUhkY3ZKU1pqVE5ySFY2TFVUZmlaWkRGQ2I3emFqMmdWaEsxc1hSemJpRUx5Ti1aVXowWUtEWVBKMWtISEpueTNmVmRnaG1MMkZQWmFIaUhDd9IBX0FVX3lxTE9YMVdBS04zYkZhOGw2NjN3azc3MXVTb3hnUzJSWmNfVjRXUGFsdl9zYWVvV3gyTW45cDBvWktXOWp3MkFYekJKYUlnN2owZHAtVV9yUGJBNTRkUC16MVlB?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 10:39:00 GMT"
+          "published": "Wed, 19 Aug 2026 13:40:00 GMT"
         }
       ]
     },
     {
-      "word": "사태",
+      "word": "없어두",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "조희대 ‘서면 제청’, 청와대-대법원 ‘대법관 구성’ 힘겨루기가 사태 뿌리 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WcnduckJ1UjJuYzA0dVFfcjRHMWNOYXdKVDhISVRIcXVmcDlFb0VwZDZxcmdZWS1NZWpKbWVuZmxVbHN4VGFXM0xaWmNscXdaajNxVWtjTnBySHhJZGNwV24tc012aXd4WElzTS1oRHc1dw?oc=5",
+          "title": "[속보] 김여정 “한·미 연습 축소 평할 가치 없어…두 지도자 관계는 훌륭” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04TUhkY3ZKU1pqVE5ySFY2TFVUZmlaWkRGQ2I3emFqMmdWaEsxc1hSemJpRUx5Ti1aVXowWUtEWVBKMWtISEpueTNmVmRnaG1MMkZQWmFIaUhDd9IBX0FVX3lxTE9YMVdBS04zYkZhOGw2NjN3azc3MXVTb3hnUzJSWmNfVjRXUGFsdl9zYWVvV3gyTW45cDBvWktXOWp3MkFYekJKYUlnN2owZHAtVV9yUGJBNTRkUC16MVlB?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 10:39:00 GMT"
+          "published": "Wed, 19 Aug 2026 13:40:00 GMT"
         }
       ]
     },
     {
-      "word": "뿌리",
+      "word": "지도자",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "조희대 ‘서면 제청’, 청와대-대법원 ‘대법관 구성’ 힘겨루기가 사태 뿌리 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WcnduckJ1UjJuYzA0dVFfcjRHMWNOYXdKVDhISVRIcXVmcDlFb0VwZDZxcmdZWS1NZWpKbWVuZmxVbHN4VGFXM0xaWmNscXdaajNxVWtjTnBySHhJZGNwV24tc012aXd4WElzTS1oRHc1dw?oc=5",
+          "title": "[속보] 김여정 “한·미 연습 축소 평할 가치 없어…두 지도자 관계는 훌륭” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04TUhkY3ZKU1pqVE5ySFY2TFVUZmlaWkRGQ2I3emFqMmdWaEsxc1hSemJpRUx5Ti1aVXowWUtEWVBKMWtISEpueTNmVmRnaG1MMkZQWmFIaUhDd9IBX0FVX3lxTE9YMVdBS04zYkZhOGw2NjN3azc3MXVTb3hnUzJSWmNfVjRXUGFsdl9zYWVvV3gyTW45cDBvWktXOWp3MkFYekJKYUlnN2owZHAtVV9yUGJBNTRkUC16MVlB?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 10:39:00 GMT"
+          "published": "Wed, 19 Aug 2026 13:40:00 GMT"
         }
       ]
     },
     {
-      "word": "트럼프",
+      "word": "관계",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 ‘일방주의’에 휘둘리는 한반도 안보 - khan.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfclE2NnJPcmJsaDRvRzB3QU5BcWFJcXlWUkFnTUVYcHREcVhBaG1SS2hjQlFEbTJUeFM3SGREeEE5azh1c0JCdzRoWEhKMWxtUDZrQ0hYUEpoZ9IBX0FVX3lxTE1CeXpxUTA4S2hScVMwNVB2QjJaNnJKQlJoRzNrZk8xcV96LU9DanlDRkJsQmZ6X0tKMzNEQm5iTlJpTEpZc1dlcGxsbnZFSHhrd2tCWW5tUFNndDd0SDM0?oc=5",
+          "title": "[속보] 김여정 “한·미 연습 축소 평할 가치 없어…두 지도자 관계는 훌륭” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04TUhkY3ZKU1pqVE5ySFY2TFVUZmlaWkRGQ2I3emFqMmdWaEsxc1hSemJpRUx5Ti1aVXowWUtEWVBKMWtISEpueTNmVmRnaG1MMkZQWmFIaUhDd9IBX0FVX3lxTE9YMVdBS04zYkZhOGw2NjN3azc3MXVTb3hnUzJSWmNfVjRXUGFsdl9zYWVvV3gyTW45cDBvWktXOWp3MkFYekJKYUlnN2owZHAtVV9yUGJBNTRkUC16MVlB?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 12:25:00 GMT"
+          "published": "Wed, 19 Aug 2026 13:40:00 GMT"
         }
       ]
     },
     {
-      "word": "일방주",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "트럼프 ‘일방주의’에 휘둘리는 한반도 안보 - khan.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfclE2NnJPcmJsaDRvRzB3QU5BcWFJcXlWUkFnTUVYcHREcVhBaG1SS2hjQlFEbTJUeFM3SGREeEE5azh1c0JCdzRoWEhKMWxtUDZrQ0hYUEpoZ9IBX0FVX3lxTE1CeXpxUTA4S2hScVMwNVB2QjJaNnJKQlJoRzNrZk8xcV96LU9DanlDRkJsQmZ6X0tKMzNEQm5iTlJpTEpZc1dlcGxsbnZFSHhrd2tCWW5tUFNndDd0SDM0?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 12:25:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "휘둘리",
+      "word": "훌륭",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 ‘일방주의’에 휘둘리는 한반도 안보 - khan.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfclE2NnJPcmJsaDRvRzB3QU5BcWFJcXlWUkFnTUVYcHREcVhBaG1SS2hjQlFEbTJUeFM3SGREeEE5azh1c0JCdzRoWEhKMWxtUDZrQ0hYUEpoZ9IBX0FVX3lxTE1CeXpxUTA4S2hScVMwNVB2QjJaNnJKQlJoRzNrZk8xcV96LU9DanlDRkJsQmZ6X0tKMzNEQm5iTlJpTEpZc1dlcGxsbnZFSHhrd2tCWW5tUFNndDd0SDM0?oc=5",
+          "title": "[속보] 김여정 “한·미 연습 축소 평할 가치 없어…두 지도자 관계는 훌륭” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04TUhkY3ZKU1pqVE5ySFY2TFVUZmlaWkRGQ2I3emFqMmdWaEsxc1hSemJpRUx5Ti1aVXowWUtEWVBKMWtISEpueTNmVmRnaG1MMkZQWmFIaUhDd9IBX0FVX3lxTE9YMVdBS04zYkZhOGw2NjN3azc3MXVTb3hnUzJSWmNfVjRXUGFsdl9zYWVvV3gyTW45cDBvWktXOWp3MkFYekJKYUlnN2owZHAtVV9yUGJBNTRkUC16MVlB?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 12:25:00 GMT"
+          "published": "Wed, 19 Aug 2026 13:40:00 GMT"
         }
       ]
     },
     {
-      "word": "안보",
+      "word": "김민석정청래송영길",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 ‘일방주의’에 휘둘리는 한반도 안보 - khan.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfclE2NnJPcmJsaDRvRzB3QU5BcWFJcXlWUkFnTUVYcHREcVhBaG1SS2hjQlFEbTJUeFM3SGREeEE5azh1c0JCdzRoWEhKMWxtUDZrQ0hYUEpoZ9IBX0FVX3lxTE1CeXpxUTA4S2hScVMwNVB2QjJaNnJKQlJoRzNrZk8xcV96LU9DanlDRkJsQmZ6X0tKMzNEQm5iTlJpTEpZc1dlcGxsbnZFSHhrd2tCWW5tUFNndDd0SDM0?oc=5",
+          "title": "이 대통령, 김민석·정청래·송영길과 만찬…“더 강한 원팀 공감대” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94WldYNWU0T2FrRE5KOXFDQkxOMEo2aWNTU1ktY1M5WDllSkR3NVFoN05odlRQZ3R0VjhZLUN4aFMzY3JCaTRxQ0d5cWQySVAwZGVjaEtBYzBrTmFPcDMyajVQT25WS0FmY2I4?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 12:25:00 GMT"
+          "published": "Wed, 19 Aug 2026 13:40:00 GMT"
         }
       ]
     },
     {
-      "word": "수마",
+      "word": "만찬더",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "수마 할퀸 거제·통영 복구 땀방울... 걸그룹 리센느도 5000만원 기부 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3aDNjaE1OUjlXUHZhQnNzejA2TS1kZWE0TzJ0ekQ4eXlZclBsYS03X2xqU2Zud3RyamRCc2tPbHlVZ1pIM0swbTZKX0p0NnpRSXhrdHN2MVRmNVlrUnhteDJWc1ZPYV84dWVPVWx0RUg1Nm95cWtCcG9n?oc=5",
+          "title": "이 대통령, 김민석·정청래·송영길과 만찬…“더 강한 원팀 공감대” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94WldYNWU0T2FrRE5KOXFDQkxOMEo2aWNTU1ktY1M5WDllSkR3NVFoN05odlRQZ3R0VjhZLUN4aFMzY3JCaTRxQ0d5cWQySVAwZGVjaEtBYzBrTmFPcDMyajVQT25WS0FmY2I4?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 10:12:21 GMT"
+          "published": "Wed, 19 Aug 2026 13:40:00 GMT"
         }
       ]
     },
     {
-      "word": "할퀸",
+      "word": "강한",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "수마 할퀸 거제·통영 복구 땀방울... 걸그룹 리센느도 5000만원 기부 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3aDNjaE1OUjlXUHZhQnNzejA2TS1kZWE0TzJ0ekQ4eXlZclBsYS03X2xqU2Zud3RyamRCc2tPbHlVZ1pIM0swbTZKX0p0NnpRSXhrdHN2MVRmNVlrUnhteDJWc1ZPYV84dWVPVWx0RUg1Nm95cWtCcG9n?oc=5",
+          "title": "이 대통령, 김민석·정청래·송영길과 만찬…“더 강한 원팀 공감대” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94WldYNWU0T2FrRE5KOXFDQkxOMEo2aWNTU1ktY1M5WDllSkR3NVFoN05odlRQZ3R0VjhZLUN4aFMzY3JCaTRxQ0d5cWQySVAwZGVjaEtBYzBrTmFPcDMyajVQT25WS0FmY2I4?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 10:12:21 GMT"
+          "published": "Wed, 19 Aug 2026 13:40:00 GMT"
         }
       ]
     },
     {
-      "word": "거제통영",
+      "word": "원팀",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "수마 할퀸 거제·통영 복구 땀방울... 걸그룹 리센느도 5000만원 기부 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3aDNjaE1OUjlXUHZhQnNzejA2TS1kZWE0TzJ0ekQ4eXlZclBsYS03X2xqU2Zud3RyamRCc2tPbHlVZ1pIM0swbTZKX0p0NnpRSXhrdHN2MVRmNVlrUnhteDJWc1ZPYV84dWVPVWx0RUg1Nm95cWtCcG9n?oc=5",
+          "title": "이 대통령, 김민석·정청래·송영길과 만찬…“더 강한 원팀 공감대” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94WldYNWU0T2FrRE5KOXFDQkxOMEo2aWNTU1ktY1M5WDllSkR3NVFoN05odlRQZ3R0VjhZLUN4aFMzY3JCaTRxQ0d5cWQySVAwZGVjaEtBYzBrTmFPcDMyajVQT25WS0FmY2I4?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 10:12:21 GMT"
+          "published": "Wed, 19 Aug 2026 13:40:00 GMT"
         }
       ]
     },
     {
-      "word": "복구",
+      "word": "공감대",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "수마 할퀸 거제·통영 복구 땀방울... 걸그룹 리센느도 5000만원 기부 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3aDNjaE1OUjlXUHZhQnNzejA2TS1kZWE0TzJ0ekQ4eXlZclBsYS03X2xqU2Zud3RyamRCc2tPbHlVZ1pIM0swbTZKX0p0NnpRSXhrdHN2MVRmNVlrUnhteDJWc1ZPYV84dWVPVWx0RUg1Nm95cWtCcG9n?oc=5",
+          "title": "이 대통령, 김민석·정청래·송영길과 만찬…“더 강한 원팀 공감대” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94WldYNWU0T2FrRE5KOXFDQkxOMEo2aWNTU1ktY1M5WDllSkR3NVFoN05odlRQZ3R0VjhZLUN4aFMzY3JCaTRxQ0d5cWQySVAwZGVjaEtBYzBrTmFPcDMyajVQT25WS0FmY2I4?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 10:12:21 GMT"
-        }
-      ]
-    },
-    {
-      "word": "땀방울",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "수마 할퀸 거제·통영 복구 땀방울... 걸그룹 리센느도 5000만원 기부 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3aDNjaE1OUjlXUHZhQnNzejA2TS1kZWE0TzJ0ekQ4eXlZclBsYS03X2xqU2Zud3RyamRCc2tPbHlVZ1pIM0swbTZKX0p0NnpRSXhrdHN2MVRmNVlrUnhteDJWc1ZPYV84dWVPVWx0RUg1Nm95cWtCcG9n?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 10:12:21 GMT"
-        }
-      ]
-    },
-    {
-      "word": "걸그룹",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "수마 할퀸 거제·통영 복구 땀방울... 걸그룹 리센느도 5000만원 기부 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3aDNjaE1OUjlXUHZhQnNzejA2TS1kZWE0TzJ0ekQ4eXlZclBsYS03X2xqU2Zud3RyamRCc2tPbHlVZ1pIM0swbTZKX0p0NnpRSXhrdHN2MVRmNVlrUnhteDJWc1ZPYV84dWVPVWx0RUg1Nm95cWtCcG9n?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 10:12:21 GMT"
-        }
-      ]
-    },
-    {
-      "word": "리센느",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "수마 할퀸 거제·통영 복구 땀방울... 걸그룹 리센느도 5000만원 기부 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3aDNjaE1OUjlXUHZhQnNzejA2TS1kZWE0TzJ0ekQ4eXlZclBsYS03X2xqU2Zud3RyamRCc2tPbHlVZ1pIM0swbTZKX0p0NnpRSXhrdHN2MVRmNVlrUnhteDJWc1ZPYV84dWVPVWx0RUg1Nm95cWtCcG9n?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 10:12:21 GMT"
-        }
-      ]
-    },
-    {
-      "word": "5000만원",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "수마 할퀸 거제·통영 복구 땀방울... 걸그룹 리센느도 5000만원 기부 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3aDNjaE1OUjlXUHZhQnNzejA2TS1kZWE0TzJ0ekQ4eXlZclBsYS03X2xqU2Zud3RyamRCc2tPbHlVZ1pIM0swbTZKX0p0NnpRSXhrdHN2MVRmNVlrUnhteDJWc1ZPYV84dWVPVWx0RUg1Nm95cWtCcG9n?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 10:12:21 GMT"
-        }
-      ]
-    },
-    {
-      "word": "기부",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "수마 할퀸 거제·통영 복구 땀방울... 걸그룹 리센느도 5000만원 기부 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3aDNjaE1OUjlXUHZhQnNzejA2TS1kZWE0TzJ0ekQ4eXlZclBsYS03X2xqU2Zud3RyamRCc2tPbHlVZ1pIM0swbTZKX0p0NnpRSXhrdHN2MVRmNVlrUnhteDJWc1ZPYV84dWVPVWx0RUg1Nm95cWtCcG9n?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 10:12:21 GMT"
+          "published": "Wed, 19 Aug 2026 13:40:00 GMT"
         }
       ]
     },
@@ -463,93 +359,197 @@
       ]
     },
     {
-      "word": "표현",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "“표현의 자유”…이진숙 ‘5·18 폄훼 포럼’ 사과 거부로 과방위 파행 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CLUNNVlpZTE9wU1B3eGZ6VG8taUk2dl9oTWlVSDA3S29FVWlJSEhuUGFRR2dhRk80SV8xWUQ2NmMtc3hpai1rR1pkbm5KZjdpa2huQzlUVE9LRmxIRnZNaFlwMHU?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 08:35:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "자유이진숙",
+      "word": "2차",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“표현의 자유”…이진숙 ‘5·18 폄훼 포럼’ 사과 거부로 과방위 파행 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CLUNNVlpZTE9wU1B3eGZ6VG8taUk2dl9oTWlVSDA3S29FVWlJSEhuUGFRR2dhRk80SV8xWUQ2NmMtc3hpai1rR1pkbm5KZjdpa2huQzlUVE9LRmxIRnZNaFlwMHU?oc=5",
+          "title": "2차 특검, 홍장원 등 前 국정원 간부 4명 내란 가담 혐의 기소 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONHd6cWFQcjBEZGhWRWpKTFNuSGpDOHpEWXcwZUdMT0FOOW5FZVREaC1DTmVSb1B1ZHBSTktIZFBPUUQ0Qm9hSy1WUXBMNU4wcWZPQ29ydTd4Y1gzZGEzWWs5eDZFcFdwQUx6N2hLcTAzN1RNNkc2WUdtYnZ0cjF0UzBwZkQ3bDg?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 08:35:00 GMT"
+          "published": "Wed, 19 Aug 2026 10:57:12 GMT"
         }
       ]
     },
     {
-      "word": "518",
+      "word": "특검",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“표현의 자유”…이진숙 ‘5·18 폄훼 포럼’ 사과 거부로 과방위 파행 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CLUNNVlpZTE9wU1B3eGZ6VG8taUk2dl9oTWlVSDA3S29FVWlJSEhuUGFRR2dhRk80SV8xWUQ2NmMtc3hpai1rR1pkbm5KZjdpa2huQzlUVE9LRmxIRnZNaFlwMHU?oc=5",
+          "title": "2차 특검, 홍장원 등 前 국정원 간부 4명 내란 가담 혐의 기소 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONHd6cWFQcjBEZGhWRWpKTFNuSGpDOHpEWXcwZUdMT0FOOW5FZVREaC1DTmVSb1B1ZHBSTktIZFBPUUQ0Qm9hSy1WUXBMNU4wcWZPQ29ydTd4Y1gzZGEzWWs5eDZFcFdwQUx6N2hLcTAzN1RNNkc2WUdtYnZ0cjF0UzBwZkQ3bDg?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 08:35:00 GMT"
+          "published": "Wed, 19 Aug 2026 10:57:12 GMT"
         }
       ]
     },
     {
-      "word": "폄훼",
+      "word": "홍장원",
       "count": 1,
-      "category": "NOUN",
+      "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "“표현의 자유”…이진숙 ‘5·18 폄훼 포럼’ 사과 거부로 과방위 파행 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CLUNNVlpZTE9wU1B3eGZ6VG8taUk2dl9oTWlVSDA3S29FVWlJSEhuUGFRR2dhRk80SV8xWUQ2NmMtc3hpai1rR1pkbm5KZjdpa2huQzlUVE9LRmxIRnZNaFlwMHU?oc=5",
+          "title": "2차 특검, 홍장원 등 前 국정원 간부 4명 내란 가담 혐의 기소 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONHd6cWFQcjBEZGhWRWpKTFNuSGpDOHpEWXcwZUdMT0FOOW5FZVREaC1DTmVSb1B1ZHBSTktIZFBPUUQ0Qm9hSy1WUXBMNU4wcWZPQ29ydTd4Y1gzZGEzWWs5eDZFcFdwQUx6N2hLcTAzN1RNNkc2WUdtYnZ0cjF0UzBwZkQ3bDg?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 08:35:00 GMT"
+          "published": "Wed, 19 Aug 2026 10:57:12 GMT"
         }
       ]
     },
     {
-      "word": "포럼",
+      "word": "국정원",
       "count": 1,
-      "category": "NOUN",
+      "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "“표현의 자유”…이진숙 ‘5·18 폄훼 포럼’ 사과 거부로 과방위 파행 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CLUNNVlpZTE9wU1B3eGZ6VG8taUk2dl9oTWlVSDA3S29FVWlJSEhuUGFRR2dhRk80SV8xWUQ2NmMtc3hpai1rR1pkbm5KZjdpa2huQzlUVE9LRmxIRnZNaFlwMHU?oc=5",
+          "title": "2차 특검, 홍장원 등 前 국정원 간부 4명 내란 가담 혐의 기소 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONHd6cWFQcjBEZGhWRWpKTFNuSGpDOHpEWXcwZUdMT0FOOW5FZVREaC1DTmVSb1B1ZHBSTktIZFBPUUQ0Qm9hSy1WUXBMNU4wcWZPQ29ydTd4Y1gzZGEzWWs5eDZFcFdwQUx6N2hLcTAzN1RNNkc2WUdtYnZ0cjF0UzBwZkQ3bDg?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 08:35:00 GMT"
+          "published": "Wed, 19 Aug 2026 10:57:12 GMT"
         }
       ]
     },
     {
-      "word": "사과",
+      "word": "간부",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“표현의 자유”…이진숙 ‘5·18 폄훼 포럼’ 사과 거부로 과방위 파행 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CLUNNVlpZTE9wU1B3eGZ6VG8taUk2dl9oTWlVSDA3S29FVWlJSEhuUGFRR2dhRk80SV8xWUQ2NmMtc3hpai1rR1pkbm5KZjdpa2huQzlUVE9LRmxIRnZNaFlwMHU?oc=5",
+          "title": "2차 특검, 홍장원 등 前 국정원 간부 4명 내란 가담 혐의 기소 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONHd6cWFQcjBEZGhWRWpKTFNuSGpDOHpEWXcwZUdMT0FOOW5FZVREaC1DTmVSb1B1ZHBSTktIZFBPUUQ0Qm9hSy1WUXBMNU4wcWZPQ29ydTd4Y1gzZGEzWWs5eDZFcFdwQUx6N2hLcTAzN1RNNkc2WUdtYnZ0cjF0UzBwZkQ3bDg?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 08:35:00 GMT"
+          "published": "Wed, 19 Aug 2026 10:57:12 GMT"
         }
       ]
     },
     {
-      "word": "거부",
+      "word": "4명",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“표현의 자유”…이진숙 ‘5·18 폄훼 포럼’ 사과 거부로 과방위 파행 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CLUNNVlpZTE9wU1B3eGZ6VG8taUk2dl9oTWlVSDA3S29FVWlJSEhuUGFRR2dhRk80SV8xWUQ2NmMtc3hpai1rR1pkbm5KZjdpa2huQzlUVE9LRmxIRnZNaFlwMHU?oc=5",
+          "title": "2차 특검, 홍장원 등 前 국정원 간부 4명 내란 가담 혐의 기소 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONHd6cWFQcjBEZGhWRWpKTFNuSGpDOHpEWXcwZUdMT0FOOW5FZVREaC1DTmVSb1B1ZHBSTktIZFBPUUQ0Qm9hSy1WUXBMNU4wcWZPQ29ydTd4Y1gzZGEzWWs5eDZFcFdwQUx6N2hLcTAzN1RNNkc2WUdtYnZ0cjF0UzBwZkQ3bDg?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 08:35:00 GMT"
+          "published": "Wed, 19 Aug 2026 10:57:12 GMT"
+        }
+      ]
+    },
+    {
+      "word": "내란",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "2차 특검, 홍장원 등 前 국정원 간부 4명 내란 가담 혐의 기소 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONHd6cWFQcjBEZGhWRWpKTFNuSGpDOHpEWXcwZUdMT0FOOW5FZVREaC1DTmVSb1B1ZHBSTktIZFBPUUQ0Qm9hSy1WUXBMNU4wcWZPQ29ydTd4Y1gzZGEzWWs5eDZFcFdwQUx6N2hLcTAzN1RNNkc2WUdtYnZ0cjF0UzBwZkQ3bDg?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 10:57:12 GMT"
+        }
+      ]
+    },
+    {
+      "word": "가담",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "2차 특검, 홍장원 등 前 국정원 간부 4명 내란 가담 혐의 기소 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONHd6cWFQcjBEZGhWRWpKTFNuSGpDOHpEWXcwZUdMT0FOOW5FZVREaC1DTmVSb1B1ZHBSTktIZFBPUUQ0Qm9hSy1WUXBMNU4wcWZPQ29ydTd4Y1gzZGEzWWs5eDZFcFdwQUx6N2hLcTAzN1RNNkc2WUdtYnZ0cjF0UzBwZkQ3bDg?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 10:57:12 GMT"
+        }
+      ]
+    },
+    {
+      "word": "혐의",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "2차 특검, 홍장원 등 前 국정원 간부 4명 내란 가담 혐의 기소 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONHd6cWFQcjBEZGhWRWpKTFNuSGpDOHpEWXcwZUdMT0FOOW5FZVREaC1DTmVSb1B1ZHBSTktIZFBPUUQ0Qm9hSy1WUXBMNU4wcWZPQ29ydTd4Y1gzZGEzWWs5eDZFcFdwQUx6N2hLcTAzN1RNNkc2WUdtYnZ0cjF0UzBwZkQ3bDg?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 10:57:12 GMT"
+        }
+      ]
+    },
+    {
+      "word": "기소",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "2차 특검, 홍장원 등 前 국정원 간부 4명 내란 가담 혐의 기소 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONHd6cWFQcjBEZGhWRWpKTFNuSGpDOHpEWXcwZUdMT0FOOW5FZVREaC1DTmVSb1B1ZHBSTktIZFBPUUQ0Qm9hSy1WUXBMNU4wcWZPQ29ydTd4Y1gzZGEzWWs5eDZFcFdwQUx6N2hLcTAzN1RNNkc2WUdtYnZ0cjF0UzBwZkQ3bDg?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 10:57:12 GMT"
+        }
+      ]
+    },
+    {
+      "word": "패싱",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘대통령 패싱’ 반박한 대법원 “靑에 만남 요구했는데 안 됐다” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ER1RBZGNpWjdfSmJCcG5lQW52VDZpMmltanVaMkRmWVk5bWt6NTlqSWFTMno5Ukh4UUtMVGdsdndlTGYzb2hsZTVEMXBLS0tUb3dqRHgyX2pFNVNVdVlwNXRIUEx6VHFqaWtrbGtzZVFncGF5ai1Z0gFmQVVfeXFMTVBQWkczTi0yTDVRQ0x3Q1h5MHNwYnBXZkw5WDlSWFBncEtyTmRhSEphZ0RlNFNQQ0NheVNHVkdNSlJiNHBpUlVERW8wOWMyUmRfN1VETWp0dTZKMThaSkVUR2pYVlJ3?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 09:14:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "반박",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘대통령 패싱’ 반박한 대법원 “靑에 만남 요구했는데 안 됐다” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ER1RBZGNpWjdfSmJCcG5lQW52VDZpMmltanVaMkRmWVk5bWt6NTlqSWFTMno5Ukh4UUtMVGdsdndlTGYzb2hsZTVEMXBLS0tUb3dqRHgyX2pFNVNVdVlwNXRIUEx6VHFqaWtrbGtzZVFncGF5ai1Z0gFmQVVfeXFMTVBQWkczTi0yTDVRQ0x3Q1h5MHNwYnBXZkw5WDlSWFBncEtyTmRhSEphZ0RlNFNQQ0NheVNHVkdNSlJiNHBpUlVERW8wOWMyUmRfN1VETWp0dTZKMThaSkVUR2pYVlJ3?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 09:14:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "대법원",
+      "count": 1,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "‘대통령 패싱’ 반박한 대법원 “靑에 만남 요구했는데 안 됐다” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ER1RBZGNpWjdfSmJCcG5lQW52VDZpMmltanVaMkRmWVk5bWt6NTlqSWFTMno5Ukh4UUtMVGdsdndlTGYzb2hsZTVEMXBLS0tUb3dqRHgyX2pFNVNVdVlwNXRIUEx6VHFqaWtrbGtzZVFncGF5ai1Z0gFmQVVfeXFMTVBQWkczTi0yTDVRQ0x3Q1h5MHNwYnBXZkw5WDlSWFBncEtyTmRhSEphZ0RlNFNQQ0NheVNHVkdNSlJiNHBpUlVERW8wOWMyUmRfN1VETWp0dTZKMThaSkVUR2pYVlJ3?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 09:14:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "만남",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘대통령 패싱’ 반박한 대법원 “靑에 만남 요구했는데 안 됐다” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ER1RBZGNpWjdfSmJCcG5lQW52VDZpMmltanVaMkRmWVk5bWt6NTlqSWFTMno5Ukh4UUtMVGdsdndlTGYzb2hsZTVEMXBLS0tUb3dqRHgyX2pFNVNVdVlwNXRIUEx6VHFqaWtrbGtzZVFncGF5ai1Z0gFmQVVfeXFMTVBQWkczTi0yTDVRQ0x3Q1h5MHNwYnBXZkw5WDlSWFBncEtyTmRhSEphZ0RlNFNQQ0NheVNHVkdNSlJiNHBpUlVERW8wOWMyUmRfN1VETWp0dTZKMThaSkVUR2pYVlJ3?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 09:14:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "요구했는데",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘대통령 패싱’ 반박한 대법원 “靑에 만남 요구했는데 안 됐다” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ER1RBZGNpWjdfSmJCcG5lQW52VDZpMmltanVaMkRmWVk5bWt6NTlqSWFTMno5Ukh4UUtMVGdsdndlTGYzb2hsZTVEMXBLS0tUb3dqRHgyX2pFNVNVdVlwNXRIUEx6VHFqaWtrbGtzZVFncGF5ai1Z0gFmQVVfeXFMTVBQWkczTi0yTDVRQ0x3Q1h5MHNwYnBXZkw5WDlSWFBncEtyTmRhSEphZ0RlNFNQQ0NheVNHVkdNSlJiNHBpUlVERW8wOWMyUmRfN1VETWp0dTZKMThaSkVUR2pYVlJ3?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 09:14:00 GMT"
         }
       ]
     }
