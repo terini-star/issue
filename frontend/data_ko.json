@@ -1,29 +1,98 @@
 {
   "language": "ko",
-  "last_updated": 1787182121.9061313,
+  "last_updated": 1787190038.7377143,
   "count": 40,
   "trends": [
+    {
+      "word": "트럼프",
+      "count": 4,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프 “김정은, 57개 핵무기 보유…올해 안에 만날 것” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91dVc1TXpOUEVVbnBoRFBRVGV1czJCN2FMOEhHN1g5a3I3ZGd2UEdqR3I3QndNQWxyZlVHZXpyQlZON2dPQmUxNHd5ODdkdnZmWWktbFBBbjVCZm8?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 21:01:00 GMT"
+        },
+        {
+          "title": "이 대통령 “트럼프 결단에 경의···한미훈련 축소해 대화 여건 조성” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Rb19iYk1QS2ZBcXdhX1pQeW5JcG1BSlJpTjBzOUVUYjVOcUEydVQwWFlJM3V4dXZ3bHV1U2I4aG8xNkE4MnVaZHJBOVFKUkJzQ1VBRkdqdlRQZw?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 23:18:00 GMT"
+        },
+        {
+          "title": "안규백 “이 대통령, 트럼프에 이란 협조 ‘노 땡스’? 사실 아냐” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XcXJzQ2JZWVVKNmlQMmNmNVprR01JSTJ5dUNwWm5rVHR0VEtnTDRKVW5SckZxbkZEbzFrSEpzTElxUzAzT3daVEdOcHpjckNZTDJmbjk5cF96U1ZwQy1mOTF2ZndzMnpLMDNqdEFFbHV0WV9w?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 13:09:00 GMT"
+        },
+        {
+          "title": "트럼프, '이란 경제고립 작전' 선언‥\"지원국도 막대한 대가\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xU0RhMlpNWjdSN1diM2JQbU1KRVI4Sk51a3RQZEpCcXJrRzhFLW1rS1M5b2JXTmFDVV9Oc0NqV2F1VzYzT2ZjdDBEb1VuVHR6c21CM1ZIXzcwT045cTY5NDVnTHV2RVRlUXlvZDdSREdqeWc50gF0QVVfeXFMTWtrZVpGUUE1U3R2cWhEUlhwNVJPa2FBZGRiVmQxV3pMOTAtYmNMQVZTazVDUFdDaGZlNGdwMDlKdlhIdmRKWTM0bGh2ZkZJUG9aczh2QjItTHNKeU9tSHVPazlFMVZ6d0NCZ3Y1TGdDZGs0Y0I?oc=5",
+          "source": "Google News",
+          "published": "Thu, 20 Aug 2026 00:18:45 GMT"
+        }
+      ]
+    },
+    {
+      "word": "내란",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘내란 맞선 공직자’로 불렸던 2人… 2차 특검, 내란 가담 혐의 기소 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOU16S20yTFNFVkpBbWFfT2V4MUFMZ0Qzd3RncTB0TGlwS2hoaGxPYk1NTEgtOXNYV3YwWUJfUTVSMVgzV2NCdEhBUmh0ZHU5bFh0bG9POU5BM3I0V0g1NUNxeXVRZ0p1Q3Q4Z3daZWI5d21ZTjlsSnh0dWNnS3BRdHlQQWNQRkU?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 15:45:00 GMT"
+        },
+        {
+          "title": "김민석 \"전대 과한 표현 사과\"… 정청래 \"우린 내란 넘은 동지\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVXNRUkczM1FfT0JFczlLekpEVDVkM2ZGaDZaSEZ1VUVpRUQ5WlpjeGFtV0l2aktPV0VUaHE2ak0zck9hcy1aQWZlQmtwdlVvOXotbXNNTnVwdWVXN1dLSzZUQUFFNlJyWFVfTkkydVZBSVJzUW5rWUxKQnJwRzVpdG9zQW5VazlF?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 15:47:00 GMT"
+        }
+      ]
+    },
     {
       "word": "대통령",
       "count": 2,
       "category": "PERSON",
       "articles": [
         {
-          "title": "이 대통령, 김민석·정청래·송영길과 만찬…“더 강한 원팀 공감대” - hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94WldYNWU0T2FrRE5KOXFDQkxOMEo2aWNTU1ktY1M5WDllSkR3NVFoN05odlRQZ3R0VjhZLUN4aFMzY3JCaTRxQ0d5cWQySVAwZGVjaEtBYzBrTmFPcDMyajVQT25WS0FmY2I4?oc=5",
+          "title": "이 대통령 “트럼프 결단에 경의···한미훈련 축소해 대화 여건 조성” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Rb19iYk1QS2ZBcXdhX1pQeW5JcG1BSlJpTjBzOUVUYjVOcUEydVQwWFlJM3V4dXZ3bHV1U2I4aG8xNkE4MnVaZHJBOVFKUkJzQ1VBRkdqdlRQZw?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 16:24:00 GMT"
+          "published": "Wed, 19 Aug 2026 23:18:00 GMT"
         },
         {
-          "title": "법사위 범여권 “대법관 ’서면제청’ 대통령 패싱“…조희대 출석요구 의결 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RRWRCbTNPTXR6VlhjZU1SOTViSFRZdkVSSWhUTXc5RVZZcjI1YnM1YXNGdnpUTmtPT21vd3pQb2s4QlZ3SnMtWVFsdll5em1UdzZMa2pYektfZ0M2SktucEF6QmZpdGs?oc=5",
+          "title": "안규백 “이 대통령, 트럼프에 이란 협조 ‘노 땡스’? 사실 아냐” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XcXJzQ2JZWVVKNmlQMmNmNVprR01JSTJ5dUNwWm5rVHR0VEtnTDRKVW5SckZxbkZEbzFrSEpzTElxUzAzT3daVEdOcHpjckNZTDJmbjk5cF96U1ZwQy1mOTF2ZndzMnpLMDNqdEFFbHV0WV9w?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 04:12:00 GMT"
+          "published": "Wed, 19 Aug 2026 13:09:00 GMT"
         }
       ]
     },
     {
-      "word": "매입",
+      "word": "이란",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "안규백 “이 대통령, 트럼프에 이란 협조 ‘노 땡스’? 사실 아냐” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XcXJzQ2JZWVVKNmlQMmNmNVprR01JSTJ5dUNwWm5rVHR0VEtnTDRKVW5SckZxbkZEbzFrSEpzTElxUzAzT3daVEdOcHpjckNZTDJmbjk5cF96U1ZwQy1mOTF2ZndzMnpLMDNqdEFFbHV0WV9w?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 13:09:00 GMT"
+        },
+        {
+          "title": "트럼프, '이란 경제고립 작전' 선언‥\"지원국도 막대한 대가\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xU0RhMlpNWjdSN1diM2JQbU1KRVI4Sk51a3RQZEpCcXJrRzhFLW1rS1M5b2JXTmFDVV9Oc0NqV2F1VzYzT2ZjdDBEb1VuVHR6c21CM1ZIXzcwT045cTY5NDVnTHV2RVRlUXlvZDdSREdqeWc50gF0QVVfeXFMTWtrZVpGUUE1U3R2cWhEUlhwNVJPa2FBZGRiVmQxV3pMOTAtYmNMQVZTazVDUFdDaGZlNGdwMDlKdlhIdmRKWTM0bGh2ZkZJUG9aczh2QjItTHNKeU9tSHVPazlFMVZ6d0NCZ3Y1TGdDZGs0Y0I?oc=5",
+          "source": "Google News",
+          "published": "Thu, 20 Aug 2026 00:18:45 GMT"
+        }
+      ]
+    },
+    {
+      "word": "진정",
       "count": 2,
       "category": "NOUN",
       "articles": [
@@ -34,61 +103,67 @@
           "published": "Wed, 19 Aug 2026 12:28:23 GMT"
         },
         {
-          "title": "미 재무부 국채 매입에 국채금리 안도…뉴욕증시 소폭 상승 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jaXJzVWxvTXJvcXo2UFpIajcxdGp2ZDZPT3kzYzZkcGxlc2h6T1F3YV8yaVctOWYwaDJ2VG41SmhoVWRZb1pZX2F1ZzZIVGluQ1JPcGFVR3pmcWM?oc=5",
+          "title": "美 국채금리 진정에 상승 마감…모더나 177% 폭등 [뉴욕증시 브리핑] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13bnl3S3BiQ3llTjVrWmN2THRORVN1TkpLUVdZRHdTaFpjdDA5end0T3I5YndyVHBPVFItQ0YtM3BJVWhQZW9laDRHWFdKNDJiaWhDWlZQd2Zzdw?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 21:50:00 GMT"
+          "published": "Wed, 19 Aug 2026 22:15:22 GMT"
         }
       ]
     },
     {
-      "word": "8월",
+      "word": "40조",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[8월 20일 간추린 뉴스] 스토커2 신규 확장팩 '코스트 오브 호프' 출시 - 인벤",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBWGRqdDhpNmJFUmZudElsLWZ2eTAzbHNlTmo0RUEzM19maC1GaXhIUDNyejVnallmRnJoZGdRSWFSRUlhamJTU0YtVVVvekFjM0k1dk1Ea0tNZ2UtYnc?oc=5",
+          "title": "SK하이닉스 ADR 하루만에 급반등…美 금리 진정 속 40조 자사주 매입 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83a3FvRE4yQk5SZTk3aHBrMEFseVBtXy1TRXN4NHkzX0JaXzZFQldZaUFfQXZidDJVVU1aOWdEeXk4UUtBcE94WUtGeTBwc1pzNGM5ZzRBTjBuQnA5UGhERjRxRGV0SHl6dzdEQXhFNnU?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 22:00:02 GMT"
+          "published": "Wed, 19 Aug 2026 12:28:23 GMT"
         },
         {
-          "title": "[AI그래픽] 한화 화이트 7이닝 2실점, 8월 18 대전 한화전 투구 분석 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlYjNpVi1XZ0h6XzM4dmtNM0QyNkRROUdWSXpDWU9RLWNqNk9CbzNwc0J3dS1obmFpQkZpd2JoOV91el9TaHltdkg2XzZOek9kandMcHFhZlFKVzk0?oc=5",
+          "title": "‘40조 주주환원’에 하닉 7%대 급등…코스피 3% 상승 출발 - JTBC",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QOHhrWmR4eDdwZHZURlFxM0NEeHhxZ2NZZE94TUVkSG1kcWdFczlpVXZQV3FYb2Jzd0VhNURhYnowclhfYkxMRkpLZ2FyS3YwSmJITw?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 13:06:00 GMT"
+          "published": "Thu, 20 Aug 2026 00:09:00 GMT"
         }
       ]
     },
     {
-      "word": "준비",
+      "word": "상승",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“욕 먹을 준비 돼” 장서희, 빌런 되더니…‘욕망의 덫’ 자체최고시청률 경신[美친 시청률] - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOENvekhmM055RG9nanZYT0tCSDVlZ2hJb2hGZGh2SzhPZ2dzRm43MmFpeUlyeXVPcEFxTTloYVVxdWNoM2czZTlzMlNaS3I3SFdNOUVVcHFqT1ZRRlRBdG5uX1pNZVBST3VqX09fUGFEX01wcHp5MElncy1MU09mV0N2SnVIU1RGMFJEem44VQ?oc=5",
+          "title": "美 국채금리 진정에 상승 마감…모더나 177% 폭등 [뉴욕증시 브리핑] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13bnl3S3BiQ3llTjVrWmN2THRORVN1TkpLUVdZRHdTaFpjdDA5end0T3I5YndyVHBPVFItQ0YtM3BJVWhQZW9laDRHWFdKNDJiaWhDWlZQd2Zzdw?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 23:10:00 GMT"
+          "published": "Wed, 19 Aug 2026 22:15:22 GMT"
         },
         {
-          "title": "추성훈 방송 활동 중단, 11월 은퇴전 준비에 집중 - sports.donga.com",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sRE5WMmRLOGdsSy01LUF6WXM0WlBIeWJ4V3hDZEdaSDJ6ejdUVHllRjZFS2cxWFFMbzRvQTE1czlWSVJ2VkN4WndXb0h5a3RNNDJBNTA1UDY0YWdBOExWTTR1Z3d3T0k1TFRnbTZ3?oc=5",
+          "title": "‘40조 주주환원’에 하닉 7%대 급등…코스피 3% 상승 출발 - JTBC",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QOHhrWmR4eDdwZHZURlFxM0NEeHhxZ2NZZE94TUVkSG1kcWdFczlpVXZQV3FYb2Jzd0VhNURhYnowclhfYkxMRkpLZ2FyS3YwSmJITw?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 12:55:32 GMT"
+          "published": "Thu, 20 Aug 2026 00:09:00 GMT"
         }
       ]
     },
     {
-      "word": "트럼프",
-      "count": 1,
+      "word": "앞두",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "​[속보] 트럼프 “김정은, 연내 만날 것”…‘비핵화 목표냐’엔 “말하고 싶지 않다” - hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fSWJkZnExbWNRY3FkRHZkU3ZQWU5IRE91UUhoQXVSZDIwelZSS21CcTNsQVYtV3FZdjh6SVFDUV9vSXB0MnV6M3JSTHpUV0Z0Q2dybENnYzFGOFRIekZtUk5BQkNNbWVJVzhPbXMyNA?oc=5",
+          "title": "외인 2조 매도에도 1400원 붕괴 … '46조 법인세' 앞두고 원화 강세 베팅 - 뉴데일리",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jcVl4S3NWblRXT2FOLVFudHRIR0hIWjhSQ3FpTkllZ3ZwbDBXQjJ3X2xfQmhMMjhQdzJFNEVXY2RhcE1jWlJSX1BhV0tXRzl5MGlmY2w0anA0c05ySWFPNThEekFFS21HZzc0V0FnalBXQmZEeWVFa25OONIBgAFBVV95cUxQZjR4MXd6V3VJdE9aWnpaRnQ3S2tiUklUTjVfYlpLQmlpZ01Lbk4xbUVUZXR2R2JmczNIOGxSRG5TeUI0R0xhWHFZU21TSmpIbTdYMnFQVl9DYXNKOFJfcmNaSkZZVnlObWJEZ1ZTdGZ4emIwWkNGaU5wTXdER2ZfYg?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 20:32:00 GMT"
+          "published": "Wed, 19 Aug 2026 07:41:03 GMT"
+        },
+        {
+          "title": "“14년 기다려준 미모의 아내” KCM, 10월 결혼 앞두고 웨딩 사진 공개 - 스포츠경향",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nLTZ4MGh1cUhGV0xkc0hEcXNPNTdoT1EtWno5YkhUcHlQWFVuTk9hRUJTeTc3WWhnNFYtVHVxTFJJOFhSQUYxZTYtSkxSdXFDbDBIVE5pSklfelhLOHfSAWNBVV95cUxQRTE5TzJ5UWZDVFpIZ3pqSFltaFVVM2VlekJFcmNOQUU0dDI5UFd1MXd1V29UWnJ6LVVOMHVOMUJaZktJOXpqdi1BbDh6elg2TGJQZ0VyMDRMeHp6c0lGckhkblU?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 23:13:00 GMT"
         }
       ]
     },
@@ -98,23 +173,62 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "​[속보] 트럼프 “김정은, 연내 만날 것”…‘비핵화 목표냐’엔 “말하고 싶지 않다” - hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fSWJkZnExbWNRY3FkRHZkU3ZQWU5IRE91UUhoQXVSZDIwelZSS21CcTNsQVYtV3FZdjh6SVFDUV9vSXB0MnV6M3JSTHpUV0Z0Q2dybENnYzFGOFRIekZtUk5BQkNNbWVJVzhPbXMyNA?oc=5",
+          "title": "트럼프 “김정은, 57개 핵무기 보유…올해 안에 만날 것” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91dVc1TXpOUEVVbnBoRFBRVGV1czJCN2FMOEhHN1g5a3I3ZGd2UEdqR3I3QndNQWxyZlVHZXpyQlZON2dPQmUxNHd5ODdkdnZmWWktbFBBbjVCZm8?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 20:32:00 GMT"
+          "published": "Wed, 19 Aug 2026 21:01:00 GMT"
         }
       ]
     },
     {
-      "word": "연내",
+      "word": "57개",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "​[속보] 트럼프 “김정은, 연내 만날 것”…‘비핵화 목표냐’엔 “말하고 싶지 않다” - hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fSWJkZnExbWNRY3FkRHZkU3ZQWU5IRE91UUhoQXVSZDIwelZSS21CcTNsQVYtV3FZdjh6SVFDUV9vSXB0MnV6M3JSTHpUV0Z0Q2dybENnYzFGOFRIekZtUk5BQkNNbWVJVzhPbXMyNA?oc=5",
+          "title": "트럼프 “김정은, 57개 핵무기 보유…올해 안에 만날 것” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91dVc1TXpOUEVVbnBoRFBRVGV1czJCN2FMOEhHN1g5a3I3ZGd2UEdqR3I3QndNQWxyZlVHZXpyQlZON2dPQmUxNHd5ODdkdnZmWWktbFBBbjVCZm8?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 20:32:00 GMT"
+          "published": "Wed, 19 Aug 2026 21:01:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "핵무기",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프 “김정은, 57개 핵무기 보유…올해 안에 만날 것” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91dVc1TXpOUEVVbnBoRFBRVGV1czJCN2FMOEhHN1g5a3I3ZGd2UEdqR3I3QndNQWxyZlVHZXpyQlZON2dPQmUxNHd5ODdkdnZmWWktbFBBbjVCZm8?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 21:01:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "보유올해",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프 “김정은, 57개 핵무기 보유…올해 안에 만날 것” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91dVc1TXpOUEVVbnBoRFBRVGV1czJCN2FMOEhHN1g5a3I3ZGd2UEdqR3I3QndNQWxyZlVHZXpyQlZON2dPQmUxNHd5ODdkdnZmWWktbFBBbjVCZm8?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 21:01:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "안에",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프 “김정은, 57개 핵무기 보유…올해 안에 만날 것” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91dVc1TXpOUEVVbnBoRFBRVGV1czJCN2FMOEhHN1g5a3I3ZGd2UEdqR3I3QndNQWxyZlVHZXpyQlZON2dPQmUxNHd5ODdkdnZmWWktbFBBbjVCZm8?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 21:01:00 GMT"
         }
       ]
     },
@@ -124,179 +238,283 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "​[속보] 트럼프 “김정은, 연내 만날 것”…‘비핵화 목표냐’엔 “말하고 싶지 않다” - hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fSWJkZnExbWNRY3FkRHZkU3ZQWU5IRE91UUhoQXVSZDIwelZSS21CcTNsQVYtV3FZdjh6SVFDUV9vSXB0MnV6M3JSTHpUV0Z0Q2dybENnYzFGOFRIekZtUk5BQkNNbWVJVzhPbXMyNA?oc=5",
+          "title": "트럼프 “김정은, 57개 핵무기 보유…올해 안에 만날 것” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91dVc1TXpOUEVVbnBoRFBRVGV1czJCN2FMOEhHN1g5a3I3ZGd2UEdqR3I3QndNQWxyZlVHZXpyQlZON2dPQmUxNHd5ODdkdnZmWWktbFBBbjVCZm8?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 20:32:00 GMT"
+          "published": "Wed, 19 Aug 2026 21:01:00 GMT"
         }
       ]
     },
     {
-      "word": "것비핵",
+      "word": "김영진",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "​[속보] 트럼프 “김정은, 연내 만날 것”…‘비핵화 목표냐’엔 “말하고 싶지 않다” - hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fSWJkZnExbWNRY3FkRHZkU3ZQWU5IRE91UUhoQXVSZDIwelZSS21CcTNsQVYtV3FZdjh6SVFDUV9vSXB0MnV6M3JSTHpUV0Z0Q2dybENnYzFGOFRIekZtUk5BQkNNbWVJVzhPbXMyNA?oc=5",
+          "title": "김영진 “조희대, 결자해지 하라” 윤건영 “대법원장의 반란” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15bjdVZ2pBOGVzUlhVMGRVcjNkNzhFN2E5NWp3RXM5eTFwWUQ5Z0Fpd1ZFWWQ0cFJwcjdFVkluSWNQTHlIXzljbDVpU2dZR1k2M3dYYXg3am9HN1RrN0d4N3dsZTdLdEhrOEFYUFM1MUU1SlVx?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 20:32:00 GMT"
+          "published": "Thu, 20 Aug 2026 00:58:00 GMT"
         }
       ]
     },
     {
-      "word": "목표냐엔",
+      "word": "조희대",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "​[속보] 트럼프 “김정은, 연내 만날 것”…‘비핵화 목표냐’엔 “말하고 싶지 않다” - hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fSWJkZnExbWNRY3FkRHZkU3ZQWU5IRE91UUhoQXVSZDIwelZSS21CcTNsQVYtV3FZdjh6SVFDUV9vSXB0MnV6M3JSTHpUV0Z0Q2dybENnYzFGOFRIekZtUk5BQkNNbWVJVzhPbXMyNA?oc=5",
+          "title": "김영진 “조희대, 결자해지 하라” 윤건영 “대법원장의 반란” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15bjdVZ2pBOGVzUlhVMGRVcjNkNzhFN2E5NWp3RXM5eTFwWUQ5Z0Fpd1ZFWWQ0cFJwcjdFVkluSWNQTHlIXzljbDVpU2dZR1k2M3dYYXg3am9HN1RrN0d4N3dsZTdLdEhrOEFYUFM1MUU1SlVx?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 20:32:00 GMT"
+          "published": "Thu, 20 Aug 2026 00:58:00 GMT"
         }
       ]
     },
     {
-      "word": "말하",
+      "word": "결자해지",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "​[속보] 트럼프 “김정은, 연내 만날 것”…‘비핵화 목표냐’엔 “말하고 싶지 않다” - hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fSWJkZnExbWNRY3FkRHZkU3ZQWU5IRE91UUhoQXVSZDIwelZSS21CcTNsQVYtV3FZdjh6SVFDUV9vSXB0MnV6M3JSTHpUV0Z0Q2dybENnYzFGOFRIekZtUk5BQkNNbWVJVzhPbXMyNA?oc=5",
+          "title": "김영진 “조희대, 결자해지 하라” 윤건영 “대법원장의 반란” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15bjdVZ2pBOGVzUlhVMGRVcjNkNzhFN2E5NWp3RXM5eTFwWUQ5Z0Fpd1ZFWWQ0cFJwcjdFVkluSWNQTHlIXzljbDVpU2dZR1k2M3dYYXg3am9HN1RrN0d4N3dsZTdLdEhrOEFYUFM1MUU1SlVx?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 20:32:00 GMT"
+          "published": "Thu, 20 Aug 2026 00:58:00 GMT"
         }
       ]
     },
     {
-      "word": "싶지",
+      "word": "하라",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "​[속보] 트럼프 “김정은, 연내 만날 것”…‘비핵화 목표냐’엔 “말하고 싶지 않다” - hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fSWJkZnExbWNRY3FkRHZkU3ZQWU5IRE91UUhoQXVSZDIwelZSS21CcTNsQVYtV3FZdjh6SVFDUV9vSXB0MnV6M3JSTHpUV0Z0Q2dybENnYzFGOFRIekZtUk5BQkNNbWVJVzhPbXMyNA?oc=5",
+          "title": "김영진 “조희대, 결자해지 하라” 윤건영 “대법원장의 반란” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15bjdVZ2pBOGVzUlhVMGRVcjNkNzhFN2E5NWp3RXM5eTFwWUQ5Z0Fpd1ZFWWQ0cFJwcjdFVkluSWNQTHlIXzljbDVpU2dZR1k2M3dYYXg3am9HN1RrN0d4N3dsZTdLdEhrOEFYUFM1MUU1SlVx?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 20:32:00 GMT"
+          "published": "Thu, 20 Aug 2026 00:58:00 GMT"
         }
       ]
     },
     {
-      "word": "않다",
+      "word": "윤건영",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "​[속보] 트럼프 “김정은, 연내 만날 것”…‘비핵화 목표냐’엔 “말하고 싶지 않다” - hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fSWJkZnExbWNRY3FkRHZkU3ZQWU5IRE91UUhoQXVSZDIwelZSS21CcTNsQVYtV3FZdjh6SVFDUV9vSXB0MnV6M3JSTHpUV0Z0Q2dybENnYzFGOFRIekZtUk5BQkNNbWVJVzhPbXMyNA?oc=5",
+          "title": "김영진 “조희대, 결자해지 하라” 윤건영 “대법원장의 반란” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15bjdVZ2pBOGVzUlhVMGRVcjNkNzhFN2E5NWp3RXM5eTFwWUQ5Z0Fpd1ZFWWQ0cFJwcjdFVkluSWNQTHlIXzljbDVpU2dZR1k2M3dYYXg3am9HN1RrN0d4N3dsZTdLdEhrOEFYUFM1MUU1SlVx?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 20:32:00 GMT"
+          "published": "Thu, 20 Aug 2026 00:58:00 GMT"
         }
       ]
     },
     {
-      "word": "내부고발",
+      "word": "대법원장",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘내부고발’ 홍장원, ‘회군 지시’ 조성현 재판행...내란특검 판단 뒤집혔다 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBieXB1bzM4cUk1dnNiZjFseUJiN3dFdjhFNU1NUjRVZmd3OHd3cFNhajJBVWFjRGZXWWI3VDBtZlhKTE1VRWtEYVRyYi05R0p4VHRIVTdUWTNTQdIBX0FVX3lxTE8wUmw4cVJBMWFERFk3TUlVcG54V2dLU3NhR0ZISWFmQTZZRmZtQ1dpSGFnajFqMC1ieWY4WkVfTnJyWHNCbWZsbHNhT2lsWUZXLUllTENiT3A2clVXaUxv?oc=5",
+          "title": "김영진 “조희대, 결자해지 하라” 윤건영 “대법원장의 반란” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15bjdVZ2pBOGVzUlhVMGRVcjNkNzhFN2E5NWp3RXM5eTFwWUQ5Z0Fpd1ZFWWQ0cFJwcjdFVkluSWNQTHlIXzljbDVpU2dZR1k2M3dYYXg3am9HN1RrN0d4N3dsZTdLdEhrOEFYUFM1MUU1SlVx?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 10:20:00 GMT"
+          "published": "Thu, 20 Aug 2026 00:58:00 GMT"
         }
       ]
     },
     {
-      "word": "홍장원",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "‘내부고발’ 홍장원, ‘회군 지시’ 조성현 재판행...내란특검 판단 뒤집혔다 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBieXB1bzM4cUk1dnNiZjFseUJiN3dFdjhFNU1NUjRVZmd3OHd3cFNhajJBVWFjRGZXWWI3VDBtZlhKTE1VRWtEYVRyYi05R0p4VHRIVTdUWTNTQdIBX0FVX3lxTE8wUmw4cVJBMWFERFk3TUlVcG54V2dLU3NhR0ZISWFmQTZZRmZtQ1dpSGFnajFqMC1ieWY4WkVfTnJyWHNCbWZsbHNhT2lsWUZXLUllTENiT3A2clVXaUxv?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 10:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "회군",
+      "word": "반란",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘내부고발’ 홍장원, ‘회군 지시’ 조성현 재판행...내란특검 판단 뒤집혔다 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBieXB1bzM4cUk1dnNiZjFseUJiN3dFdjhFNU1NUjRVZmd3OHd3cFNhajJBVWFjRGZXWWI3VDBtZlhKTE1VRWtEYVRyYi05R0p4VHRIVTdUWTNTQdIBX0FVX3lxTE8wUmw4cVJBMWFERFk3TUlVcG54V2dLU3NhR0ZISWFmQTZZRmZtQ1dpSGFnajFqMC1ieWY4WkVfTnJyWHNCbWZsbHNhT2lsWUZXLUllTENiT3A2clVXaUxv?oc=5",
+          "title": "김영진 “조희대, 결자해지 하라” 윤건영 “대법원장의 반란” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15bjdVZ2pBOGVzUlhVMGRVcjNkNzhFN2E5NWp3RXM5eTFwWUQ5Z0Fpd1ZFWWQ0cFJwcjdFVkluSWNQTHlIXzljbDVpU2dZR1k2M3dYYXg3am9HN1RrN0d4N3dsZTdLdEhrOEFYUFM1MUU1SlVx?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 10:20:00 GMT"
+          "published": "Thu, 20 Aug 2026 00:58:00 GMT"
         }
       ]
     },
     {
-      "word": "지시",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "‘내부고발’ 홍장원, ‘회군 지시’ 조성현 재판행...내란특검 판단 뒤집혔다 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBieXB1bzM4cUk1dnNiZjFseUJiN3dFdjhFNU1NUjRVZmd3OHd3cFNhajJBVWFjRGZXWWI3VDBtZlhKTE1VRWtEYVRyYi05R0p4VHRIVTdUWTNTQdIBX0FVX3lxTE8wUmw4cVJBMWFERFk3TUlVcG54V2dLU3NhR0ZISWFmQTZZRmZtQ1dpSGFnajFqMC1ieWY4WkVfTnJyWHNCbWZsbHNhT2lsWUZXLUllTENiT3A2clVXaUxv?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 10:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "조성현",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "‘내부고발’ 홍장원, ‘회군 지시’ 조성현 재판행...내란특검 판단 뒤집혔다 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBieXB1bzM4cUk1dnNiZjFseUJiN3dFdjhFNU1NUjRVZmd3OHd3cFNhajJBVWFjRGZXWWI3VDBtZlhKTE1VRWtEYVRyYi05R0p4VHRIVTdUWTNTQdIBX0FVX3lxTE8wUmw4cVJBMWFERFk3TUlVcG54V2dLU3NhR0ZISWFmQTZZRmZtQ1dpSGFnajFqMC1ieWY4WkVfTnJyWHNCbWZsbHNhT2lsWUZXLUllTENiT3A2clVXaUxv?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 10:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "재판행내란특검",
+      "word": "결단",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘내부고발’ 홍장원, ‘회군 지시’ 조성현 재판행...내란특검 판단 뒤집혔다 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBieXB1bzM4cUk1dnNiZjFseUJiN3dFdjhFNU1NUjRVZmd3OHd3cFNhajJBVWFjRGZXWWI3VDBtZlhKTE1VRWtEYVRyYi05R0p4VHRIVTdUWTNTQdIBX0FVX3lxTE8wUmw4cVJBMWFERFk3TUlVcG54V2dLU3NhR0ZISWFmQTZZRmZtQ1dpSGFnajFqMC1ieWY4WkVfTnJyWHNCbWZsbHNhT2lsWUZXLUllTENiT3A2clVXaUxv?oc=5",
+          "title": "이 대통령 “트럼프 결단에 경의···한미훈련 축소해 대화 여건 조성” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Rb19iYk1QS2ZBcXdhX1pQeW5JcG1BSlJpTjBzOUVUYjVOcUEydVQwWFlJM3V4dXZ3bHV1U2I4aG8xNkE4MnVaZHJBOVFKUkJzQ1VBRkdqdlRQZw?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 10:20:00 GMT"
+          "published": "Wed, 19 Aug 2026 23:18:00 GMT"
         }
       ]
     },
     {
-      "word": "판단",
+      "word": "경의한미훈련",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘내부고발’ 홍장원, ‘회군 지시’ 조성현 재판행...내란특검 판단 뒤집혔다 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBieXB1bzM4cUk1dnNiZjFseUJiN3dFdjhFNU1NUjRVZmd3OHd3cFNhajJBVWFjRGZXWWI3VDBtZlhKTE1VRWtEYVRyYi05R0p4VHRIVTdUWTNTQdIBX0FVX3lxTE8wUmw4cVJBMWFERFk3TUlVcG54V2dLU3NhR0ZISWFmQTZZRmZtQ1dpSGFnajFqMC1ieWY4WkVfTnJyWHNCbWZsbHNhT2lsWUZXLUllTENiT3A2clVXaUxv?oc=5",
+          "title": "이 대통령 “트럼프 결단에 경의···한미훈련 축소해 대화 여건 조성” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Rb19iYk1QS2ZBcXdhX1pQeW5JcG1BSlJpTjBzOUVUYjVOcUEydVQwWFlJM3V4dXZ3bHV1U2I4aG8xNkE4MnVaZHJBOVFKUkJzQ1VBRkdqdlRQZw?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 10:20:00 GMT"
+          "published": "Wed, 19 Aug 2026 23:18:00 GMT"
         }
       ]
     },
     {
-      "word": "뒤집혔다",
+      "word": "축소해",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘내부고발’ 홍장원, ‘회군 지시’ 조성현 재판행...내란특검 판단 뒤집혔다 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBieXB1bzM4cUk1dnNiZjFseUJiN3dFdjhFNU1NUjRVZmd3OHd3cFNhajJBVWFjRGZXWWI3VDBtZlhKTE1VRWtEYVRyYi05R0p4VHRIVTdUWTNTQdIBX0FVX3lxTE8wUmw4cVJBMWFERFk3TUlVcG54V2dLU3NhR0ZISWFmQTZZRmZtQ1dpSGFnajFqMC1ieWY4WkVfTnJyWHNCbWZsbHNhT2lsWUZXLUllTENiT3A2clVXaUxv?oc=5",
+          "title": "이 대통령 “트럼프 결단에 경의···한미훈련 축소해 대화 여건 조성” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Rb19iYk1QS2ZBcXdhX1pQeW5JcG1BSlJpTjBzOUVUYjVOcUEydVQwWFlJM3V4dXZ3bHV1U2I4aG8xNkE4MnVaZHJBOVFKUkJzQ1VBRkdqdlRQZw?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 10:20:00 GMT"
+          "published": "Wed, 19 Aug 2026 23:18:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "대화",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령 “트럼프 결단에 경의···한미훈련 축소해 대화 여건 조성” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Rb19iYk1QS2ZBcXdhX1pQeW5JcG1BSlJpTjBzOUVUYjVOcUEydVQwWFlJM3V4dXZ3bHV1U2I4aG8xNkE4MnVaZHJBOVFKUkJzQ1VBRkdqdlRQZw?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 23:18:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "여건",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령 “트럼프 결단에 경의···한미훈련 축소해 대화 여건 조성” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Rb19iYk1QS2ZBcXdhX1pQeW5JcG1BSlJpTjBzOUVUYjVOcUEydVQwWFlJM3V4dXZ3bHV1U2I4aG8xNkE4MnVaZHJBOVFKUkJzQ1VBRkdqdlRQZw?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 23:18:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "조성",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령 “트럼프 결단에 경의···한미훈련 축소해 대화 여건 조성” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Rb19iYk1QS2ZBcXdhX1pQeW5JcG1BSlJpTjBzOUVUYjVOcUEydVQwWFlJM3V4dXZ3bHV1U2I4aG8xNkE4MnVaZHJBOVFKUkJzQ1VBRkdqdlRQZw?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 23:18:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "맞선",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘내란 맞선 공직자’로 불렸던 2人… 2차 특검, 내란 가담 혐의 기소 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOU16S20yTFNFVkpBbWFfT2V4MUFMZ0Qzd3RncTB0TGlwS2hoaGxPYk1NTEgtOXNYV3YwWUJfUTVSMVgzV2NCdEhBUmh0ZHU5bFh0bG9POU5BM3I0V0g1NUNxeXVRZ0p1Q3Q4Z3daZWI5d21ZTjlsSnh0dWNnS3BRdHlQQWNQRkU?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 15:45:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "공직자",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘내란 맞선 공직자’로 불렸던 2人… 2차 특검, 내란 가담 혐의 기소 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOU16S20yTFNFVkpBbWFfT2V4MUFMZ0Qzd3RncTB0TGlwS2hoaGxPYk1NTEgtOXNYV3YwWUJfUTVSMVgzV2NCdEhBUmh0ZHU5bFh0bG9POU5BM3I0V0g1NUNxeXVRZ0p1Q3Q4Z3daZWI5d21ZTjlsSnh0dWNnS3BRdHlQQWNQRkU?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 15:45:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "불렸던",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘내란 맞선 공직자’로 불렸던 2人… 2차 특검, 내란 가담 혐의 기소 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOU16S20yTFNFVkpBbWFfT2V4MUFMZ0Qzd3RncTB0TGlwS2hoaGxPYk1NTEgtOXNYV3YwWUJfUTVSMVgzV2NCdEhBUmh0ZHU5bFh0bG9POU5BM3I0V0g1NUNxeXVRZ0p1Q3Q4Z3daZWI5d21ZTjlsSnh0dWNnS3BRdHlQQWNQRkU?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 15:45:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "2차",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘내란 맞선 공직자’로 불렸던 2人… 2차 특검, 내란 가담 혐의 기소 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOU16S20yTFNFVkpBbWFfT2V4MUFMZ0Qzd3RncTB0TGlwS2hoaGxPYk1NTEgtOXNYV3YwWUJfUTVSMVgzV2NCdEhBUmh0ZHU5bFh0bG9POU5BM3I0V0g1NUNxeXVRZ0p1Q3Q4Z3daZWI5d21ZTjlsSnh0dWNnS3BRdHlQQWNQRkU?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 15:45:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "특검",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘내란 맞선 공직자’로 불렸던 2人… 2차 특검, 내란 가담 혐의 기소 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOU16S20yTFNFVkpBbWFfT2V4MUFMZ0Qzd3RncTB0TGlwS2hoaGxPYk1NTEgtOXNYV3YwWUJfUTVSMVgzV2NCdEhBUmh0ZHU5bFh0bG9POU5BM3I0V0g1NUNxeXVRZ0p1Q3Q4Z3daZWI5d21ZTjlsSnh0dWNnS3BRdHlQQWNQRkU?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 15:45:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "가담",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘내란 맞선 공직자’로 불렸던 2人… 2차 특검, 내란 가담 혐의 기소 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOU16S20yTFNFVkpBbWFfT2V4MUFMZ0Qzd3RncTB0TGlwS2hoaGxPYk1NTEgtOXNYV3YwWUJfUTVSMVgzV2NCdEhBUmh0ZHU5bFh0bG9POU5BM3I0V0g1NUNxeXVRZ0p1Q3Q4Z3daZWI5d21ZTjlsSnh0dWNnS3BRdHlQQWNQRkU?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 15:45:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "혐의",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘내란 맞선 공직자’로 불렸던 2人… 2차 특검, 내란 가담 혐의 기소 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOU16S20yTFNFVkpBbWFfT2V4MUFMZ0Qzd3RncTB0TGlwS2hoaGxPYk1NTEgtOXNYV3YwWUJfUTVSMVgzV2NCdEhBUmh0ZHU5bFh0bG9POU5BM3I0V0g1NUNxeXVRZ0p1Q3Q4Z3daZWI5d21ZTjlsSnh0dWNnS3BRdHlQQWNQRkU?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 15:45:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "기소",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘내란 맞선 공직자’로 불렸던 2人… 2차 특검, 내란 가담 혐의 기소 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOU16S20yTFNFVkpBbWFfT2V4MUFMZ0Qzd3RncTB0TGlwS2hoaGxPYk1NTEgtOXNYV3YwWUJfUTVSMVgzV2NCdEhBUmh0ZHU5bFh0bG9POU5BM3I0V0g1NUNxeXVRZ0p1Q3Q4Z3daZWI5d21ZTjlsSnh0dWNnS3BRdHlQQWNQRkU?oc=5",
+          "source": "Google News",
+          "published": "Wed, 19 Aug 2026 15:45:00 GMT"
         }
       ]
     },
@@ -306,244 +524,62 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "왕이 \"북미회담은 양국이 결정할 일…美, 대북적대정책 바꿔야\"(종합2보) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpWTU2NmRJY2Yxc0FVdF9Md1NLZHgyWnJ0a2pPYThKODBNMXBNSl9TSGlSQWVIVzhfRFVCRHdJdXdVMFBSa09tRkVKNlA1V3dHZEtYTlVZQ2NCS1HSAWBBVV95cUxPbmlUU3BMY1pyM2dJOGwtc1JPQkFhVHo1bXFFbzZINXFDajNwR01pejZwX1VHYnJadzdEYWdzdjlsU1g1QmZRQmNRUHNtaGRROEpFY0p4cjlaVVhsYVM1cDU?oc=5",
+          "title": "왕이, 북·미 회담 중재 묻자 “미, 대북 적대정책 바꿔야” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ySEFUWWFweG1Eb1FSdjRnaGdPbXE3V1piZUM1SVFfLW82WGlKNnppdUhRaHBhOS1FY09LcF8xM3BUMHF0UV8tdUhkWWRyWnNFQmNkM1dEVy1zXzJIeVFValloRDBKMHpWS2dYSHlQeF9GNFpY?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 14:44:33 GMT"
+          "published": "Wed, 19 Aug 2026 14:45:00 GMT"
         }
       ]
     },
     {
-      "word": "북미회담",
+      "word": "북미",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "왕이 \"북미회담은 양국이 결정할 일…美, 대북적대정책 바꿔야\"(종합2보) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpWTU2NmRJY2Yxc0FVdF9Md1NLZHgyWnJ0a2pPYThKODBNMXBNSl9TSGlSQWVIVzhfRFVCRHdJdXdVMFBSa09tRkVKNlA1V3dHZEtYTlVZQ2NCS1HSAWBBVV95cUxPbmlUU3BMY1pyM2dJOGwtc1JPQkFhVHo1bXFFbzZINXFDajNwR01pejZwX1VHYnJadzdEYWdzdjlsU1g1QmZRQmNRUHNtaGRROEpFY0p4cjlaVVhsYVM1cDU?oc=5",
+          "title": "왕이, 북·미 회담 중재 묻자 “미, 대북 적대정책 바꿔야” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ySEFUWWFweG1Eb1FSdjRnaGdPbXE3V1piZUM1SVFfLW82WGlKNnppdUhRaHBhOS1FY09LcF8xM3BUMHF0UV8tdUhkWWRyWnNFQmNkM1dEVy1zXzJIeVFValloRDBKMHpWS2dYSHlQeF9GNFpY?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 14:44:33 GMT"
+          "published": "Wed, 19 Aug 2026 14:45:00 GMT"
         }
       ]
     },
     {
-      "word": "양국",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "왕이 \"북미회담은 양국이 결정할 일…美, 대북적대정책 바꿔야\"(종합2보) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpWTU2NmRJY2Yxc0FVdF9Md1NLZHgyWnJ0a2pPYThKODBNMXBNSl9TSGlSQWVIVzhfRFVCRHdJdXdVMFBSa09tRkVKNlA1V3dHZEtYTlVZQ2NCS1HSAWBBVV95cUxPbmlUU3BMY1pyM2dJOGwtc1JPQkFhVHo1bXFFbzZINXFDajNwR01pejZwX1VHYnJadzdEYWdzdjlsU1g1QmZRQmNRUHNtaGRROEpFY0p4cjlaVVhsYVM1cDU?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 14:44:33 GMT"
-        }
-      ]
-    },
-    {
-      "word": "결정",
+      "word": "회담",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "왕이 \"북미회담은 양국이 결정할 일…美, 대북적대정책 바꿔야\"(종합2보) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpWTU2NmRJY2Yxc0FVdF9Md1NLZHgyWnJ0a2pPYThKODBNMXBNSl9TSGlSQWVIVzhfRFVCRHdJdXdVMFBSa09tRkVKNlA1V3dHZEtYTlVZQ2NCS1HSAWBBVV95cUxPbmlUU3BMY1pyM2dJOGwtc1JPQkFhVHo1bXFFbzZINXFDajNwR01pejZwX1VHYnJadzdEYWdzdjlsU1g1QmZRQmNRUHNtaGRROEpFY0p4cjlaVVhsYVM1cDU?oc=5",
+          "title": "왕이, 북·미 회담 중재 묻자 “미, 대북 적대정책 바꿔야” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ySEFUWWFweG1Eb1FSdjRnaGdPbXE3V1piZUM1SVFfLW82WGlKNnppdUhRaHBhOS1FY09LcF8xM3BUMHF0UV8tdUhkWWRyWnNFQmNkM1dEVy1zXzJIeVFValloRDBKMHpWS2dYSHlQeF9GNFpY?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 14:44:33 GMT"
+          "published": "Wed, 19 Aug 2026 14:45:00 GMT"
         }
       ]
     },
     {
-      "word": "대북적대정책",
+      "word": "중재",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "왕이 \"북미회담은 양국이 결정할 일…美, 대북적대정책 바꿔야\"(종합2보) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpWTU2NmRJY2Yxc0FVdF9Md1NLZHgyWnJ0a2pPYThKODBNMXBNSl9TSGlSQWVIVzhfRFVCRHdJdXdVMFBSa09tRkVKNlA1V3dHZEtYTlVZQ2NCS1HSAWBBVV95cUxPbmlUU3BMY1pyM2dJOGwtc1JPQkFhVHo1bXFFbzZINXFDajNwR01pejZwX1VHYnJadzdEYWdzdjlsU1g1QmZRQmNRUHNtaGRROEpFY0p4cjlaVVhsYVM1cDU?oc=5",
+          "title": "왕이, 북·미 회담 중재 묻자 “미, 대북 적대정책 바꿔야” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ySEFUWWFweG1Eb1FSdjRnaGdPbXE3V1piZUM1SVFfLW82WGlKNnppdUhRaHBhOS1FY09LcF8xM3BUMHF0UV8tdUhkWWRyWnNFQmNkM1dEVy1zXzJIeVFValloRDBKMHpWS2dYSHlQeF9GNFpY?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 14:44:33 GMT"
+          "published": "Wed, 19 Aug 2026 14:45:00 GMT"
         }
       ]
     },
     {
-      "word": "바꿔야종합2보",
+      "word": "묻자",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "왕이 \"북미회담은 양국이 결정할 일…美, 대북적대정책 바꿔야\"(종합2보) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpWTU2NmRJY2Yxc0FVdF9Md1NLZHgyWnJ0a2pPYThKODBNMXBNSl9TSGlSQWVIVzhfRFVCRHdJdXdVMFBSa09tRkVKNlA1V3dHZEtYTlVZQ2NCS1HSAWBBVV95cUxPbmlUU3BMY1pyM2dJOGwtc1JPQkFhVHo1bXFFbzZINXFDajNwR01pejZwX1VHYnJadzdEYWdzdjlsU1g1QmZRQmNRUHNtaGRROEpFY0p4cjlaVVhsYVM1cDU?oc=5",
+          "title": "왕이, 북·미 회담 중재 묻자 “미, 대북 적대정책 바꿔야” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ySEFUWWFweG1Eb1FSdjRnaGdPbXE3V1piZUM1SVFfLW82WGlKNnppdUhRaHBhOS1FY09LcF8xM3BUMHF0UV8tdUhkWWRyWnNFQmNkM1dEVy1zXzJIeVFValloRDBKMHpWS2dYSHlQeF9GNFpY?oc=5",
           "source": "Google News",
-          "published": "Wed, 19 Aug 2026 14:44:33 GMT"
-        }
-      ]
-    },
-    {
-      "word": "김민석정청래송영길",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령, 김민석·정청래·송영길과 만찬…“더 강한 원팀 공감대” - hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94WldYNWU0T2FrRE5KOXFDQkxOMEo2aWNTU1ktY1M5WDllSkR3NVFoN05odlRQZ3R0VjhZLUN4aFMzY3JCaTRxQ0d5cWQySVAwZGVjaEtBYzBrTmFPcDMyajVQT25WS0FmY2I4?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 16:24:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "만찬더",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령, 김민석·정청래·송영길과 만찬…“더 강한 원팀 공감대” - hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94WldYNWU0T2FrRE5KOXFDQkxOMEo2aWNTU1ktY1M5WDllSkR3NVFoN05odlRQZ3R0VjhZLUN4aFMzY3JCaTRxQ0d5cWQySVAwZGVjaEtBYzBrTmFPcDMyajVQT25WS0FmY2I4?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 16:24:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "강한",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령, 김민석·정청래·송영길과 만찬…“더 강한 원팀 공감대” - hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94WldYNWU0T2FrRE5KOXFDQkxOMEo2aWNTU1ktY1M5WDllSkR3NVFoN05odlRQZ3R0VjhZLUN4aFMzY3JCaTRxQ0d5cWQySVAwZGVjaEtBYzBrTmFPcDMyajVQT25WS0FmY2I4?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 16:24:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "원팀",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령, 김민석·정청래·송영길과 만찬…“더 강한 원팀 공감대” - hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94WldYNWU0T2FrRE5KOXFDQkxOMEo2aWNTU1ktY1M5WDllSkR3NVFoN05odlRQZ3R0VjhZLUN4aFMzY3JCaTRxQ0d5cWQySVAwZGVjaEtBYzBrTmFPcDMyajVQT25WS0FmY2I4?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 16:24:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "공감대",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령, 김민석·정청래·송영길과 만찬…“더 강한 원팀 공감대” - hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94WldYNWU0T2FrRE5KOXFDQkxOMEo2aWNTU1ktY1M5WDllSkR3NVFoN05odlRQZ3R0VjhZLUN4aFMzY3JCaTRxQ0d5cWQySVAwZGVjaEtBYzBrTmFPcDMyajVQT25WS0FmY2I4?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 16:24:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "오디세",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[삶, 오디세이] 어느 연기자의 친일파 조상 논란을 바라보며 - 경기일보",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OVFFNbEJDYmxkVTE3RnctMkRlMDhMXzZ1QmhOSnkwWW5aQi1mR3p5SHE1czJFX3VvU2dGS2RhcXRpOGxjQkRnYTdXd0J0ZXE2ZzlIelY4M3VINUU?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 10:33:17 GMT"
-        }
-      ]
-    },
-    {
-      "word": "어느",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[삶, 오디세이] 어느 연기자의 친일파 조상 논란을 바라보며 - 경기일보",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OVFFNbEJDYmxkVTE3RnctMkRlMDhMXzZ1QmhOSnkwWW5aQi1mR3p5SHE1czJFX3VvU2dGS2RhcXRpOGxjQkRnYTdXd0J0ZXE2ZzlIelY4M3VINUU?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 10:33:17 GMT"
-        }
-      ]
-    },
-    {
-      "word": "연기자",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[삶, 오디세이] 어느 연기자의 친일파 조상 논란을 바라보며 - 경기일보",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OVFFNbEJDYmxkVTE3RnctMkRlMDhMXzZ1QmhOSnkwWW5aQi1mR3p5SHE1czJFX3VvU2dGS2RhcXRpOGxjQkRnYTdXd0J0ZXE2ZzlIelY4M3VINUU?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 10:33:17 GMT"
-        }
-      ]
-    },
-    {
-      "word": "친일파",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[삶, 오디세이] 어느 연기자의 친일파 조상 논란을 바라보며 - 경기일보",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OVFFNbEJDYmxkVTE3RnctMkRlMDhMXzZ1QmhOSnkwWW5aQi1mR3p5SHE1czJFX3VvU2dGS2RhcXRpOGxjQkRnYTdXd0J0ZXE2ZzlIelY4M3VINUU?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 10:33:17 GMT"
-        }
-      ]
-    },
-    {
-      "word": "조상",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[삶, 오디세이] 어느 연기자의 친일파 조상 논란을 바라보며 - 경기일보",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OVFFNbEJDYmxkVTE3RnctMkRlMDhMXzZ1QmhOSnkwWW5aQi1mR3p5SHE1czJFX3VvU2dGS2RhcXRpOGxjQkRnYTdXd0J0ZXE2ZzlIelY4M3VINUU?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 10:33:17 GMT"
-        }
-      ]
-    },
-    {
-      "word": "논란",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[삶, 오디세이] 어느 연기자의 친일파 조상 논란을 바라보며 - 경기일보",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OVFFNbEJDYmxkVTE3RnctMkRlMDhMXzZ1QmhOSnkwWW5aQi1mR3p5SHE1czJFX3VvU2dGS2RhcXRpOGxjQkRnYTdXd0J0ZXE2ZzlIelY4M3VINUU?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 10:33:17 GMT"
-        }
-      ]
-    },
-    {
-      "word": "바라보",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[삶, 오디세이] 어느 연기자의 친일파 조상 논란을 바라보며 - 경기일보",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OVFFNbEJDYmxkVTE3RnctMkRlMDhMXzZ1QmhOSnkwWW5aQi1mR3p5SHE1czJFX3VvU2dGS2RhcXRpOGxjQkRnYTdXd0J0ZXE2ZzlIelY4M3VINUU?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 10:33:17 GMT"
-        }
-      ]
-    },
-    {
-      "word": "전국",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "전국 곳곳 소나기에도 무더위 계속···낮 최고 33도 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZc0dMNGVOa3k0OVhoa0x0RkZhVmd5M3NHbmtLcm8tRnlVemlBTW4xbkhaU3cyREpUVG1ITHJnRTJfdGFkQy1lX043d1BTNHVNb212emdmdk1zZ9IBX0FVX3lxTE5WZ253OXJiN0N1TDZmNTZNWi1rMmZtOEgxeF9xcDFmSzg1XzhlQkJxa1dMNEV0a18xRHVKWFkxNnYzby03SmJJWjY1OUt6TzBET2RNbG1TVEcxam4tT24w?oc=5",
-          "source": "Google News",
-          "published": "Wed, 19 Aug 2026 22:21:00 GMT"
+          "published": "Wed, 19 Aug 2026 14:45:00 GMT"
         }
       ]
     }
