@@ -1,98 +1,67 @@
 {
   "language": "ko",
-  "last_updated": 1787268694.924777,
+  "last_updated": 1787276745.7769198,
   "count": 40,
   "trends": [
     {
-      "word": "트럼프",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김정은 만나려는 트럼프에 “북한 위협 고조” 경고 계속 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuSHNkVTg1anl2Q01wMXlmTXJKREdZVk95OEttMHoxMEV4WXZWeUpMOEd2aFBKMTZsNEVaZGFRNzV5Skc1amN2YkFNTmVpdHFxbTRlUGlRc2tUT00?oc=5",
-          "source": "Google News",
-          "published": "Thu, 20 Aug 2026 21:10:00 GMT"
-        },
-        {
-          "title": "트럼프 띄운 이 대통령, 북미 지렛대로 평화체제 안착 기대 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TSkFORmxwdlp0cTltWE96VllXZm5ZWnhQWnc1eFhmSF9oZXFpQjkyYWRIQ3lRT2N2RG1Vb0hYVENhQ0FPOWhJbG1jYlJDck5ReXV6Zk9PVndaVzV6TmlBZmtHUmN6bXBfZWNJ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 20 Aug 2026 13:18:00 GMT"
-        },
-        {
-          "title": "트럼프 대통령, 이란 상대 ‘파괴적’ 경제 압박 선언…이란에 숨통 틔워주는 국가들에 경고 - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNjJFSFV1S3BZZFRhVzJ5ZFF5OTJyWnE5LW9lZWJBY1BhNlpqQWR6RDBNU08wcUtPMlloSWJMbFZoN0xZZEVjZHFHTml5eDJWc3V0V1NkRURCSzJFRV9IMG8yUXU5UzRKUlM0dXRSS1hQS0hza3ljcnlTYWtpaXQ1bm1sSm1VekhUNG85N1JSeUFjcDhGRXdVWDZUYzVTWl9nWEwzeDR5azNFekRNSDdrVW5B0gG0AUFVX3lxTE82X2JOYUlGTUtuOE5NSVdCMXB6bk8wVE5HZ1JJMVlDMWdlT3pPV3R5TGhIcl9hOTJGRHBkdmNRbW1LZnpzZEZhV0lfdGc4a2ZWWGFPN3E5VmxwNF9ncEp1c3AzT2RYeXYzQXgtbDdVZ0EtVEdzVGdBbWN1ZnN5QWhDRElROE9raGdGN0w5SVRkOXh4NlVZUEhHS1FXVmhpemNQVVRGbk9mbEZYNkVmVXpnYWtnZg?oc=5",
-          "source": "Google News",
-          "published": "Thu, 20 Aug 2026 18:25:58 GMT"
-        }
-      ]
-    },
-    {
       "word": "대통령",
-      "count": 3,
+      "count": 2,
       "category": "PERSON",
       "articles": [
         {
-          "title": "트럼프 띄운 이 대통령, 북미 지렛대로 평화체제 안착 기대 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TSkFORmxwdlp0cTltWE96VllXZm5ZWnhQWnc1eFhmSF9oZXFpQjkyYWRIQ3lRT2N2RG1Vb0hYVENhQ0FPOWhJbG1jYlJDck5ReXV6Zk9PVndaVzV6TmlBZmtHUmN6bXBfZWNJ?oc=5",
+          "title": "청, 조희대 ‘대통령 패싱’에 불쾌감…“임명권 무시 초유 사태” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95THpYaGpVWmZKMzBPR2pnWHh3NVhNSTZXbnFMQWpkXzlILTVxY1ZobFBQeEZsRnU3Zk5NMnVkakNvQkxXZVdTN3VuUFdPRzRkMUh0UVRYbzV2OTRVaHlfWFJCTkpMVnZEVjFZ?oc=5",
           "source": "Google News",
-          "published": "Thu, 20 Aug 2026 13:18:00 GMT"
+          "published": "Thu, 20 Aug 2026 23:05:00 GMT"
         },
         {
-          "title": "트럼프 대통령, 이란 상대 ‘파괴적’ 경제 압박 선언…이란에 숨통 틔워주는 국가들에 경고 - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNjJFSFV1S3BZZFRhVzJ5ZFF5OTJyWnE5LW9lZWJBY1BhNlpqQWR6RDBNU08wcUtPMlloSWJMbFZoN0xZZEVjZHFHTml5eDJWc3V0V1NkRURCSzJFRV9IMG8yUXU5UzRKUlM0dXRSS1hQS0hza3ljcnlTYWtpaXQ1bm1sSm1VekhUNG85N1JSeUFjcDhGRXdVWDZUYzVTWl9nWEwzeDR5azNFekRNSDdrVW5B0gG0AUFVX3lxTE82X2JOYUlGTUtuOE5NSVdCMXB6bk8wVE5HZ1JJMVlDMWdlT3pPV3R5TGhIcl9hOTJGRHBkdmNRbW1LZnpzZEZhV0lfdGc4a2ZWWGFPN3E5VmxwNF9ncEp1c3AzT2RYeXYzQXgtbDdVZ0EtVEdzVGdBbWN1ZnN5QWhDRElROE9raGdGN0w5SVRkOXh4NlVZUEhHS1FXVmhpemNQVVRGbk9mbEZYNkVmVXpnYWtnZg?oc=5",
+          "title": "이 대통령, 패스트트랙 단축법 통과에 \"이훈기 등 민주당 의원들 수고 많으셨다\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBna2xLNE00bzF3Z2toYlZ2N1d4MnhfMjgzOUk3bXJYVFcxU3lua3hiMXBLb1dweFpkTklycUVrN3czMWxaREV0cVBxajBtd2RmMjVUMkNxQkgya3NnUi1GMXVjRWR0S2ItVXo1LU50T2JEb2pJdW1KUNIBeEFVX3lxTE1PRUFOZXJkUUppT0ZwUEp4cmxVOU95cEoyU1M0T0ViLXF3YVlKc211QXJxYS0tRWtHa0g2LWh4ZGVYdFB6NVhkcjFORlFQUEJWM1BnbkVPbDJoZE9UUjhsSEkxVnlpQk5JNzlJUkNMNlhTRHpmb3pWOA?oc=5",
           "source": "Google News",
-          "published": "Thu, 20 Aug 2026 18:25:58 GMT"
-        },
-        {
-          "title": "대통령 4년 중·연임 개헌 '반대' 50.9%·'찬성' 46.0%[리얼미터] - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43MmJoYzNnMklTUGs1ckpLRGhBZjE4dHFENFNCZGc5bXV4MUU0VUhnZ3ZnSzZjQXV3SzhPWGlaY0pHQXRJRnZnaXpLV0VtRXFrX05UWC1ISklVZzjSAWBBVV95cUxPcExONTRoLXREX0ppU3JSN2JIYVV2NmJJYVBrMVJjNXl0RkttakdVQkhnbDhDelI1X2tXbVNrdWlnZndiVDIyX2x3NFdzdGp3bWlZSDNSOFB1bkdjOGVlSks?oc=5",
-          "source": "Google News",
-          "published": "Thu, 20 Aug 2026 10:23:28 GMT"
+          "published": "Fri, 21 Aug 2026 00:07:18 GMT"
         }
       ]
     },
     {
-      "word": "경고",
+      "word": "김민석",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김정은 만나려는 트럼프에 “북한 위협 고조” 경고 계속 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuSHNkVTg1anl2Q01wMXlmTXJKREdZVk95OEttMHoxMEV4WXZWeUpMOEd2aFBKMTZsNEVaZGFRNzV5Skc1amN2YkFNTmVpdHFxbTRlUGlRc2tUT00?oc=5",
+          "title": "김민석, 지명직 최고위원에 ‘청년’ 전용기·‘노동’ 권미경 지명…9인 지도부 완성 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yd1psVFZPY2pud0Mxd2Y0NmZXVHNiMjRpbHZtUVJkT01lSnU3d2tVM1FyRzRWOWxTNTRXX0x6OTlkbjJuWk0tbi1uUTJQRUhjYnFXZDVfam44Z9IBX0FVX3lxTFBnZVdqVmVabWprMFRidXUtQjJCeW9Lb19iSEdnaFgtR3FHd1NDaTRPLUNhdTRKdFRuVVNHSkp3N1dTNHVfX09VTDd0ZXlWV2lMQkRzTjZ1YWI2NU5BMVRz?oc=5",
           "source": "Google News",
-          "published": "Thu, 20 Aug 2026 21:10:00 GMT"
+          "published": "Thu, 20 Aug 2026 06:17:00 GMT"
         },
         {
-          "title": "트럼프 대통령, 이란 상대 ‘파괴적’ 경제 압박 선언…이란에 숨통 틔워주는 국가들에 경고 - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNjJFSFV1S3BZZFRhVzJ5ZFF5OTJyWnE5LW9lZWJBY1BhNlpqQWR6RDBNU08wcUtPMlloSWJMbFZoN0xZZEVjZHFHTml5eDJWc3V0V1NkRURCSzJFRV9IMG8yUXU5UzRKUlM0dXRSS1hQS0hza3ljcnlTYWtpaXQ1bm1sSm1VekhUNG85N1JSeUFjcDhGRXdVWDZUYzVTWl9nWEwzeDR5azNFekRNSDdrVW5B0gG0AUFVX3lxTE82X2JOYUlGTUtuOE5NSVdCMXB6bk8wVE5HZ1JJMVlDMWdlT3pPV3R5TGhIcl9hOTJGRHBkdmNRbW1LZnpzZEZhV0lfdGc4a2ZWWGFPN3E5VmxwNF9ncEp1c3AzT2RYeXYzQXgtbDdVZ0EtVEdzVGdBbWN1ZnN5QWhDRElROE9raGdGN0w5SVRkOXh4NlVZUEhHS1FXVmhpemNQVVRGbk9mbEZYNkVmVXpnYWtnZg?oc=5",
+          "title": "김민석 “이진숙 5·18 폄훼, 국회 제명 사안”…조정식 만나 “지도력 부탁” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XY0hnZ1VpbFU2QVZkaHJEZFV5SXdadzlqSWd5RzNaRE45RFZCQ01IQmdFYUUyMUxHTkI1ajZMei1hbnVjeEEwMk11OVV0dlFXNGFPcXo4LUt2MzJ6NHVCdGxVM19FTjBNSlE?oc=5",
           "source": "Google News",
-          "published": "Thu, 20 Aug 2026 18:25:58 GMT"
+          "published": "Thu, 20 Aug 2026 07:59:00 GMT"
         }
       ]
     },
     {
-      "word": "일제히",
+      "word": "통과",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김민석 체제 사흘만에… 친청계 최고위원 3명, 일제히 반기 들었다 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZVNWSmdiVnJ2VFhfaUpJZ0QtSzNLR1g3SnlJZ29wejRyTnBsNEd0Vjc4QmZzc200T3k0Yi1zeGZfQThuQVBlWkZPSVJXMGkwTlJNQUFxaFFCTGFmUmVKMUJSSmE5bEJ1ekJuVXhLbmZ0c09LdEhBa0tkRGdfTHdMRlEtQ1FNZw?oc=5",
+          "title": "이 대통령, 패스트트랙 단축법 통과에 \"이훈기 등 민주당 의원들 수고 많으셨다\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBna2xLNE00bzF3Z2toYlZ2N1d4MnhfMjgzOUk3bXJYVFcxU3lua3hiMXBLb1dweFpkTklycUVrN3czMWxaREV0cVBxajBtd2RmMjVUMkNxQkgya3NnUi1GMXVjRWR0S2ItVXo1LU50T2JEb2pJdW1KUNIBeEFVX3lxTE1PRUFOZXJkUUppT0ZwUEp4cmxVOU95cEoyU1M0T0ViLXF3YVlKc211QXJxYS0tRWtHa0g2LWh4ZGVYdFB6NVhkcjFORlFQUEJWM1BnbkVPbDJoZE9UUjhsSEkxVnlpQk5JNzlJUkNMNlhTRHpmb3pWOA?oc=5",
           "source": "Google News",
-          "published": "Thu, 20 Aug 2026 15:47:00 GMT"
+          "published": "Fri, 21 Aug 2026 00:07:18 GMT"
         },
         {
-          "title": "뉴욕증시, 美국채금리 반등에 일제히 하락…다우 1.3%↓(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tTXpQNTJmYmRsN0swYkp2T0NLc2ZlRUVzVlVPdnhaVnRwQndhdnpnUWpKeFlxNjJjX2I1SC1KSjFZNzlTdTI5YVZRbTlvclEtYzVRVHNoc3B0TVnSAWBBVV95cUxOX21NbWV4TEgtbFExMWliUllFLVpEM3VrSEZldURlYkVFa1F6dWZGT1NwalR4TDRZalRQa21ybm5Ed0ZGN1Y4RXY5Xy1NVG1YMnFqcWh6bjlHb0dvWW9ORlE?oc=5",
+          "title": "미국 중부사령부, “미군, 호르무즈 해협 통과 6억 6천만 배럴 석유 수송 선박 1,300척 지원” - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SWFFMSGw5Vk9kQi1KTXVQdUFwLTdwU05zWWtQSkZkMWhKNk9NbTZydERyQWJkeldkUkNxYmo0VGt1SGpYcnphQS1zYWVCd3lLWTN1aGZ5QzRhMXdLVGo1OUUzb1Vac3R2XzVZ0gFuQVVfeXFMTkNiNkh3OVM4MGlfOEVsa3F6czVFUTBWSTVjV1dpLVVBSFlXUnoxYlUwSE9DSjBVcFpScXdxeFRCSHlLUmZNd01SYlliX3BVT1U0UGRfTWVuczNQRW1WZXdicDFxVU1BRXZXZHRZdUE?oc=5",
           "source": "Google News",
-          "published": "Thu, 20 Aug 2026 21:20:44 GMT"
+          "published": "Thu, 20 Aug 2026 21:27:13 GMT"
         }
       ]
     },
     {
-      "word": "서울",
+      "word": "공장",
       "count": 2,
       "category": "NOUN",
       "articles": [
@@ -103,10 +72,10 @@
           "published": "Thu, 20 Aug 2026 22:17:00 GMT"
         },
         {
-          "title": "서울 아파트값 5년 만에 최대 상승…6월 실거래가 2.5% ‘쑥’ - 경기일보",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qRXA1emR3aWoxalk4NGo0dlFqQ0UzbGJaSUZEWXhsOXlkWkJhcmpocTZUcVlKX20tNURNQlFqS2FVWVVaTzBzQUU0Vmpyb0Q2TnVpRlVYdlJuMUU?oc=5",
+          "title": "현대차 노조, 10년 만에 전면파업…전 공장 '올스톱' - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DQkFxdUVmeUFSdWNvZnhuNjdiQ2VFMXhQOVZxV3ZoOHZ0MmNvVTYzQzZIWkdWWDdzdXFGRnBSaFF5NmdFNWRoRnM4WlJYWUhXby01S0VGYjBDUUk?oc=5",
           "source": "Google News",
-          "published": "Thu, 20 Aug 2026 21:52:05 GMT"
+          "published": "Thu, 20 Aug 2026 21:45:00 GMT"
         }
       ]
     },
@@ -137,359 +106,80 @@
       ]
     },
     {
-      "word": "효과",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“아, 간지러워”…모기 물린 곳에 ‘십자 표시’ 정말 효과 있을까? - 농민신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uMkdwLUNMbUZGUFc0QTNNT2hwMjZyUE41Y3dVV3lNMVFucTVMbnBIb0gxTkFmSmJxVnBPbk8yQTIxbi1PMmVZR212aUIyektyeFVWR2k2dWxzZw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 20 Aug 2026 19:00:00 GMT"
-        },
-        {
-          "title": "혈액검사로 알츠하이머병 치료 효과 예측 가능 - 재활뉴스",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hdDV0ZWdaTkszVDBTaTN1dm56ZTFfdm1yUGpVRmJnRi1UV0hXVXJsc1VWNG9tRVA0T0ZvOEJzeHoxOURMd3BNczBvcXYtMGRQOUZSdU1hTmxfb1VOLTVjQ3N6bFNnWXExRmFN?oc=5",
-          "source": "Google News",
-          "published": "Thu, 20 Aug 2026 20:30:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "법원",
+      "word": "조희대",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“법원을 또 공격 대상으로 만들어”…조희대 ‘서면제청 논란’에 판사들도 부글부글 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xdTRGX21mcUdLbFJVcHEzODFlSnFpYlFxVG1zVkpDQ0d1dUl1bFMyWUh2dEUxZHF6SU1YUEZMcVJOdU1xN3hJZjd6THJseTlFemwxX3FIREtud9IBX0FVX3lxTE9mbzZmQjVERHk0VWpUS1Q2WGptaGhGN1ExMmIzdTJtRXB3WE92eTBweVg1Y2pJUHBBNWdtelN4czZ0VkpTU3lxYU1iVEN0dE9rX09Gc25UZnB4QU8tYXAw?oc=5",
+          "title": "청, 조희대 ‘대통령 패싱’에 불쾌감…“임명권 무시 초유 사태” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95THpYaGpVWmZKMzBPR2pnWHh3NVhNSTZXbnFMQWpkXzlILTVxY1ZobFBQeEZsRnU3Zk5NMnVkakNvQkxXZVdTN3VuUFdPRzRkMUh0UVRYbzV2OTRVaHlfWFJCTkpMVnZEVjFZ?oc=5",
           "source": "Google News",
-          "published": "Thu, 20 Aug 2026 21:00:00 GMT"
+          "published": "Thu, 20 Aug 2026 23:05:00 GMT"
         }
       ]
     },
     {
-      "word": "공격",
+      "word": "패싱",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“법원을 또 공격 대상으로 만들어”…조희대 ‘서면제청 논란’에 판사들도 부글부글 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xdTRGX21mcUdLbFJVcHEzODFlSnFpYlFxVG1zVkpDQ0d1dUl1bFMyWUh2dEUxZHF6SU1YUEZMcVJOdU1xN3hJZjd6THJseTlFemwxX3FIREtud9IBX0FVX3lxTE9mbzZmQjVERHk0VWpUS1Q2WGptaGhGN1ExMmIzdTJtRXB3WE92eTBweVg1Y2pJUHBBNWdtelN4czZ0VkpTU3lxYU1iVEN0dE9rX09Gc25UZnB4QU8tYXAw?oc=5",
+          "title": "청, 조희대 ‘대통령 패싱’에 불쾌감…“임명권 무시 초유 사태” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95THpYaGpVWmZKMzBPR2pnWHh3NVhNSTZXbnFMQWpkXzlILTVxY1ZobFBQeEZsRnU3Zk5NMnVkakNvQkxXZVdTN3VuUFdPRzRkMUh0UVRYbzV2OTRVaHlfWFJCTkpMVnZEVjFZ?oc=5",
           "source": "Google News",
-          "published": "Thu, 20 Aug 2026 21:00:00 GMT"
+          "published": "Thu, 20 Aug 2026 23:05:00 GMT"
         }
       ]
     },
     {
-      "word": "대상",
+      "word": "불쾌감임명권",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“법원을 또 공격 대상으로 만들어”…조희대 ‘서면제청 논란’에 판사들도 부글부글 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xdTRGX21mcUdLbFJVcHEzODFlSnFpYlFxVG1zVkpDQ0d1dUl1bFMyWUh2dEUxZHF6SU1YUEZMcVJOdU1xN3hJZjd6THJseTlFemwxX3FIREtud9IBX0FVX3lxTE9mbzZmQjVERHk0VWpUS1Q2WGptaGhGN1ExMmIzdTJtRXB3WE92eTBweVg1Y2pJUHBBNWdtelN4czZ0VkpTU3lxYU1iVEN0dE9rX09Gc25UZnB4QU8tYXAw?oc=5",
+          "title": "청, 조희대 ‘대통령 패싱’에 불쾌감…“임명권 무시 초유 사태” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95THpYaGpVWmZKMzBPR2pnWHh3NVhNSTZXbnFMQWpkXzlILTVxY1ZobFBQeEZsRnU3Zk5NMnVkakNvQkxXZVdTN3VuUFdPRzRkMUh0UVRYbzV2OTRVaHlfWFJCTkpMVnZEVjFZ?oc=5",
           "source": "Google News",
-          "published": "Thu, 20 Aug 2026 21:00:00 GMT"
+          "published": "Thu, 20 Aug 2026 23:05:00 GMT"
         }
       ]
     },
     {
-      "word": "만들어조희대",
+      "word": "무시",
+      "count": 1,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "청, 조희대 ‘대통령 패싱’에 불쾌감…“임명권 무시 초유 사태” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95THpYaGpVWmZKMzBPR2pnWHh3NVhNSTZXbnFMQWpkXzlILTVxY1ZobFBQeEZsRnU3Zk5NMnVkakNvQkxXZVdTN3VuUFdPRzRkMUh0UVRYbzV2OTRVaHlfWFJCTkpMVnZEVjFZ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 20 Aug 2026 23:05:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "초유",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“법원을 또 공격 대상으로 만들어”…조희대 ‘서면제청 논란’에 판사들도 부글부글 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xdTRGX21mcUdLbFJVcHEzODFlSnFpYlFxVG1zVkpDQ0d1dUl1bFMyWUh2dEUxZHF6SU1YUEZMcVJOdU1xN3hJZjd6THJseTlFemwxX3FIREtud9IBX0FVX3lxTE9mbzZmQjVERHk0VWpUS1Q2WGptaGhGN1ExMmIzdTJtRXB3WE92eTBweVg1Y2pJUHBBNWdtelN4czZ0VkpTU3lxYU1iVEN0dE9rX09Gc25UZnB4QU8tYXAw?oc=5",
+          "title": "청, 조희대 ‘대통령 패싱’에 불쾌감…“임명권 무시 초유 사태” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95THpYaGpVWmZKMzBPR2pnWHh3NVhNSTZXbnFMQWpkXzlILTVxY1ZobFBQeEZsRnU3Zk5NMnVkakNvQkxXZVdTN3VuUFdPRzRkMUh0UVRYbzV2OTRVaHlfWFJCTkpMVnZEVjFZ?oc=5",
           "source": "Google News",
-          "published": "Thu, 20 Aug 2026 21:00:00 GMT"
+          "published": "Thu, 20 Aug 2026 23:05:00 GMT"
         }
       ]
     },
     {
-      "word": "서면제청",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "“법원을 또 공격 대상으로 만들어”…조희대 ‘서면제청 논란’에 판사들도 부글부글 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xdTRGX21mcUdLbFJVcHEzODFlSnFpYlFxVG1zVkpDQ0d1dUl1bFMyWUh2dEUxZHF6SU1YUEZMcVJOdU1xN3hJZjd6THJseTlFemwxX3FIREtud9IBX0FVX3lxTE9mbzZmQjVERHk0VWpUS1Q2WGptaGhGN1ExMmIzdTJtRXB3WE92eTBweVg1Y2pJUHBBNWdtelN4czZ0VkpTU3lxYU1iVEN0dE9rX09Gc25UZnB4QU8tYXAw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 20 Aug 2026 21:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "논란",
+      "word": "사태",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“법원을 또 공격 대상으로 만들어”…조희대 ‘서면제청 논란’에 판사들도 부글부글 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xdTRGX21mcUdLbFJVcHEzODFlSnFpYlFxVG1zVkpDQ0d1dUl1bFMyWUh2dEUxZHF6SU1YUEZMcVJOdU1xN3hJZjd6THJseTlFemwxX3FIREtud9IBX0FVX3lxTE9mbzZmQjVERHk0VWpUS1Q2WGptaGhGN1ExMmIzdTJtRXB3WE92eTBweVg1Y2pJUHBBNWdtelN4czZ0VkpTU3lxYU1iVEN0dE9rX09Gc25UZnB4QU8tYXAw?oc=5",
+          "title": "청, 조희대 ‘대통령 패싱’에 불쾌감…“임명권 무시 초유 사태” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95THpYaGpVWmZKMzBPR2pnWHh3NVhNSTZXbnFMQWpkXzlILTVxY1ZobFBQeEZsRnU3Zk5NMnVkakNvQkxXZVdTN3VuUFdPRzRkMUh0UVRYbzV2OTRVaHlfWFJCTkpMVnZEVjFZ?oc=5",
           "source": "Google News",
-          "published": "Thu, 20 Aug 2026 21:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "판사",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“법원을 또 공격 대상으로 만들어”…조희대 ‘서면제청 논란’에 판사들도 부글부글 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xdTRGX21mcUdLbFJVcHEzODFlSnFpYlFxVG1zVkpDQ0d1dUl1bFMyWUh2dEUxZHF6SU1YUEZMcVJOdU1xN3hJZjd6THJseTlFemwxX3FIREtud9IBX0FVX3lxTE9mbzZmQjVERHk0VWpUS1Q2WGptaGhGN1ExMmIzdTJtRXB3WE92eTBweVg1Y2pJUHBBNWdtelN4czZ0VkpTU3lxYU1iVEN0dE9rX09Gc25UZnB4QU8tYXAw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 20 Aug 2026 21:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "부글부글",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“법원을 또 공격 대상으로 만들어”…조희대 ‘서면제청 논란’에 판사들도 부글부글 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xdTRGX21mcUdLbFJVcHEzODFlSnFpYlFxVG1zVkpDQ0d1dUl1bFMyWUh2dEUxZHF6SU1YUEZMcVJOdU1xN3hJZjd6THJseTlFemwxX3FIREtud9IBX0FVX3lxTE9mbzZmQjVERHk0VWpUS1Q2WGptaGhGN1ExMmIzdTJtRXB3WE92eTBweVg1Y2pJUHBBNWdtelN4czZ0VkpTU3lxYU1iVEN0dE9rX09Gc25UZnB4QU8tYXAw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 20 Aug 2026 21:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "김정",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김정은 만나려는 트럼프에 “북한 위협 고조” 경고 계속 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuSHNkVTg1anl2Q01wMXlmTXJKREdZVk95OEttMHoxMEV4WXZWeUpMOEd2aFBKMTZsNEVaZGFRNzV5Skc1amN2YkFNTmVpdHFxbTRlUGlRc2tUT00?oc=5",
-          "source": "Google News",
-          "published": "Thu, 20 Aug 2026 21:10:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "만나려",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김정은 만나려는 트럼프에 “북한 위협 고조” 경고 계속 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuSHNkVTg1anl2Q01wMXlmTXJKREdZVk95OEttMHoxMEV4WXZWeUpMOEd2aFBKMTZsNEVaZGFRNzV5Skc1amN2YkFNTmVpdHFxbTRlUGlRc2tUT00?oc=5",
-          "source": "Google News",
-          "published": "Thu, 20 Aug 2026 21:10:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "북한",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김정은 만나려는 트럼프에 “북한 위협 고조” 경고 계속 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuSHNkVTg1anl2Q01wMXlmTXJKREdZVk95OEttMHoxMEV4WXZWeUpMOEd2aFBKMTZsNEVaZGFRNzV5Skc1amN2YkFNTmVpdHFxbTRlUGlRc2tUT00?oc=5",
-          "source": "Google News",
-          "published": "Thu, 20 Aug 2026 21:10:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "위협",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김정은 만나려는 트럼프에 “북한 위협 고조” 경고 계속 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuSHNkVTg1anl2Q01wMXlmTXJKREdZVk95OEttMHoxMEV4WXZWeUpMOEd2aFBKMTZsNEVaZGFRNzV5Skc1amN2YkFNTmVpdHFxbTRlUGlRc2tUT00?oc=5",
-          "source": "Google News",
-          "published": "Thu, 20 Aug 2026 21:10:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "고조",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김정은 만나려는 트럼프에 “북한 위협 고조” 경고 계속 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuSHNkVTg1anl2Q01wMXlmTXJKREdZVk95OEttMHoxMEV4WXZWeUpMOEd2aFBKMTZsNEVaZGFRNzV5Skc1amN2YkFNTmVpdHFxbTRlUGlRc2tUT00?oc=5",
-          "source": "Google News",
-          "published": "Thu, 20 Aug 2026 21:10:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "계속",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김정은 만나려는 트럼프에 “북한 위협 고조” 경고 계속 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuSHNkVTg1anl2Q01wMXlmTXJKREdZVk95OEttMHoxMEV4WXZWeUpMOEd2aFBKMTZsNEVaZGFRNzV5Skc1amN2YkFNTmVpdHFxbTRlUGlRc2tUT00?oc=5",
-          "source": "Google News",
-          "published": "Thu, 20 Aug 2026 21:10:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "띄운",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프 띄운 이 대통령, 북미 지렛대로 평화체제 안착 기대 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TSkFORmxwdlp0cTltWE96VllXZm5ZWnhQWnc1eFhmSF9oZXFpQjkyYWRIQ3lRT2N2RG1Vb0hYVENhQ0FPOWhJbG1jYlJDck5ReXV6Zk9PVndaVzV6TmlBZmtHUmN6bXBfZWNJ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 20 Aug 2026 13:18:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "북미",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프 띄운 이 대통령, 북미 지렛대로 평화체제 안착 기대 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TSkFORmxwdlp0cTltWE96VllXZm5ZWnhQWnc1eFhmSF9oZXFpQjkyYWRIQ3lRT2N2RG1Vb0hYVENhQ0FPOWhJbG1jYlJDck5ReXV6Zk9PVndaVzV6TmlBZmtHUmN6bXBfZWNJ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 20 Aug 2026 13:18:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "지렛대",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프 띄운 이 대통령, 북미 지렛대로 평화체제 안착 기대 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TSkFORmxwdlp0cTltWE96VllXZm5ZWnhQWnc1eFhmSF9oZXFpQjkyYWRIQ3lRT2N2RG1Vb0hYVENhQ0FPOWhJbG1jYlJDck5ReXV6Zk9PVndaVzV6TmlBZmtHUmN6bXBfZWNJ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 20 Aug 2026 13:18:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "평화체제",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프 띄운 이 대통령, 북미 지렛대로 평화체제 안착 기대 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TSkFORmxwdlp0cTltWE96VllXZm5ZWnhQWnc1eFhmSF9oZXFpQjkyYWRIQ3lRT2N2RG1Vb0hYVENhQ0FPOWhJbG1jYlJDck5ReXV6Zk9PVndaVzV6TmlBZmtHUmN6bXBfZWNJ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 20 Aug 2026 13:18:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "안착",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프 띄운 이 대통령, 북미 지렛대로 평화체제 안착 기대 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TSkFORmxwdlp0cTltWE96VllXZm5ZWnhQWnc1eFhmSF9oZXFpQjkyYWRIQ3lRT2N2RG1Vb0hYVENhQ0FPOWhJbG1jYlJDck5ReXV6Zk9PVndaVzV6TmlBZmtHUmN6bXBfZWNJ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 20 Aug 2026 13:18:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "기대",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프 띄운 이 대통령, 북미 지렛대로 평화체제 안착 기대 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TSkFORmxwdlp0cTltWE96VllXZm5ZWnhQWnc1eFhmSF9oZXFpQjkyYWRIQ3lRT2N2RG1Vb0hYVENhQ0FPOWhJbG1jYlJDck5ReXV6Zk9PVndaVzV6TmlBZmtHUmN6bXBfZWNJ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 20 Aug 2026 13:18:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "중수청",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "중수청 특례임용에 검사·수사관 등 2천375명 지원…정원의 82.6% - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JakpwSTZoSC0xWjkwMmF3NDYteGcwcTl3cExnTWdhRnR3dmU1QlRrdFNBb196SnlkVmJxRmRFS3BaV3NGVGY3Nlp2S0FKLXh4cTlMWFJKR1dxejDSAWBBVV95cUxOaFlXYVpFOE10Q0E0enlvVEQ4MHdxYjU1S01mVm8yb1p4a1gzTVNmQlpIcDdMN0wtYi1hTXdCVHlFV2VvZFUyaUhkY1dQZ3VWakZlVHZBUmU0cjZFZXNCLVM?oc=5",
-          "source": "Google News",
-          "published": "Thu, 20 Aug 2026 13:23:17 GMT"
-        }
-      ]
-    },
-    {
-      "word": "특례임용",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "중수청 특례임용에 검사·수사관 등 2천375명 지원…정원의 82.6% - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JakpwSTZoSC0xWjkwMmF3NDYteGcwcTl3cExnTWdhRnR3dmU1QlRrdFNBb196SnlkVmJxRmRFS3BaV3NGVGY3Nlp2S0FKLXh4cTlMWFJKR1dxejDSAWBBVV95cUxOaFlXYVpFOE10Q0E0enlvVEQ4MHdxYjU1S01mVm8yb1p4a1gzTVNmQlpIcDdMN0wtYi1hTXdCVHlFV2VvZFUyaUhkY1dQZ3VWakZlVHZBUmU0cjZFZXNCLVM?oc=5",
-          "source": "Google News",
-          "published": "Thu, 20 Aug 2026 13:23:17 GMT"
-        }
-      ]
-    },
-    {
-      "word": "검사수사관",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "중수청 특례임용에 검사·수사관 등 2천375명 지원…정원의 82.6% - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JakpwSTZoSC0xWjkwMmF3NDYteGcwcTl3cExnTWdhRnR3dmU1QlRrdFNBb196SnlkVmJxRmRFS3BaV3NGVGY3Nlp2S0FKLXh4cTlMWFJKR1dxejDSAWBBVV95cUxOaFlXYVpFOE10Q0E0enlvVEQ4MHdxYjU1S01mVm8yb1p4a1gzTVNmQlpIcDdMN0wtYi1hTXdCVHlFV2VvZFUyaUhkY1dQZ3VWakZlVHZBUmU0cjZFZXNCLVM?oc=5",
-          "source": "Google News",
-          "published": "Thu, 20 Aug 2026 13:23:17 GMT"
-        }
-      ]
-    },
-    {
-      "word": "2천375명",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "중수청 특례임용에 검사·수사관 등 2천375명 지원…정원의 82.6% - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JakpwSTZoSC0xWjkwMmF3NDYteGcwcTl3cExnTWdhRnR3dmU1QlRrdFNBb196SnlkVmJxRmRFS3BaV3NGVGY3Nlp2S0FKLXh4cTlMWFJKR1dxejDSAWBBVV95cUxOaFlXYVpFOE10Q0E0enlvVEQ4MHdxYjU1S01mVm8yb1p4a1gzTVNmQlpIcDdMN0wtYi1hTXdCVHlFV2VvZFUyaUhkY1dQZ3VWakZlVHZBUmU0cjZFZXNCLVM?oc=5",
-          "source": "Google News",
-          "published": "Thu, 20 Aug 2026 13:23:17 GMT"
-        }
-      ]
-    },
-    {
-      "word": "지원정원",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "중수청 특례임용에 검사·수사관 등 2천375명 지원…정원의 82.6% - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JakpwSTZoSC0xWjkwMmF3NDYteGcwcTl3cExnTWdhRnR3dmU1QlRrdFNBb196SnlkVmJxRmRFS3BaV3NGVGY3Nlp2S0FKLXh4cTlMWFJKR1dxejDSAWBBVV95cUxOaFlXYVpFOE10Q0E0enlvVEQ4MHdxYjU1S01mVm8yb1p4a1gzTVNmQlpIcDdMN0wtYi1hTXdCVHlFV2VvZFUyaUhkY1dQZ3VWakZlVHZBUmU0cjZFZXNCLVM?oc=5",
-          "source": "Google News",
-          "published": "Thu, 20 Aug 2026 13:23:17 GMT"
-        }
-      ]
-    },
-    {
-      "word": "826",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "중수청 특례임용에 검사·수사관 등 2천375명 지원…정원의 82.6% - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JakpwSTZoSC0xWjkwMmF3NDYteGcwcTl3cExnTWdhRnR3dmU1QlRrdFNBb196SnlkVmJxRmRFS3BaV3NGVGY3Nlp2S0FKLXh4cTlMWFJKR1dxejDSAWBBVV95cUxOaFlXYVpFOE10Q0E0enlvVEQ4MHdxYjU1S01mVm8yb1p4a1gzTVNmQlpIcDdMN0wtYi1hTXdCVHlFV2VvZFUyaUhkY1dQZ3VWakZlVHZBUmU0cjZFZXNCLVM?oc=5",
-          "source": "Google News",
-          "published": "Thu, 20 Aug 2026 13:23:17 GMT"
+          "published": "Thu, 20 Aug 2026 23:05:00 GMT"
         }
       ]
     },
@@ -499,49 +189,49 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 대통령, 이란 상대 ‘파괴적’ 경제 압박 선언…이란에 숨통 틔워주는 국가들에 경고 - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNjJFSFV1S3BZZFRhVzJ5ZFF5OTJyWnE5LW9lZWJBY1BhNlpqQWR6RDBNU08wcUtPMlloSWJMbFZoN0xZZEVjZHFHTml5eDJWc3V0V1NkRURCSzJFRV9IMG8yUXU5UzRKUlM0dXRSS1hQS0hza3ljcnlTYWtpaXQ1bm1sSm1VekhUNG85N1JSeUFjcDhGRXdVWDZUYzVTWl9nWEwzeDR5azNFekRNSDdrVW5B0gG0AUFVX3lxTE82X2JOYUlGTUtuOE5NSVdCMXB6bk8wVE5HZ1JJMVlDMWdlT3pPV3R5TGhIcl9hOTJGRHBkdmNRbW1LZnpzZEZhV0lfdGc4a2ZWWGFPN3E5VmxwNF9ncEp1c3AzT2RYeXYzQXgtbDdVZ0EtVEdzVGdBbWN1ZnN5QWhDRElROE9raGdGN0w5SVRkOXh4NlVZUEhHS1FXVmhpemNQVVRGbk9mbEZYNkVmVXpnYWtnZg?oc=5",
+          "title": "美, 이란 제재에 동맹 동참 압박… \"우리편이냐 아니면 맞설거냐\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR0Y0ZjFjSnAxT29vM1ZWSmh5SHFFdVJXc2Q2Q3Jja2hiem1uaTF0N1N5alRCenF2VU92b25nSkJsQkwxdFJkLTBHUjNETVBPODkxZUEtYTg5VXhjYlhCREFQWlVQQ1ROdFJqS1BOTlBBaTNOS1lWNnBDLURrcXdzZlg1RmU?oc=5",
           "source": "Google News",
-          "published": "Thu, 20 Aug 2026 18:25:58 GMT"
+          "published": "Thu, 20 Aug 2026 21:31:00 GMT"
         }
       ]
     },
     {
-      "word": "상대",
+      "word": "제재",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 대통령, 이란 상대 ‘파괴적’ 경제 압박 선언…이란에 숨통 틔워주는 국가들에 경고 - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNjJFSFV1S3BZZFRhVzJ5ZFF5OTJyWnE5LW9lZWJBY1BhNlpqQWR6RDBNU08wcUtPMlloSWJMbFZoN0xZZEVjZHFHTml5eDJWc3V0V1NkRURCSzJFRV9IMG8yUXU5UzRKUlM0dXRSS1hQS0hza3ljcnlTYWtpaXQ1bm1sSm1VekhUNG85N1JSeUFjcDhGRXdVWDZUYzVTWl9nWEwzeDR5azNFekRNSDdrVW5B0gG0AUFVX3lxTE82X2JOYUlGTUtuOE5NSVdCMXB6bk8wVE5HZ1JJMVlDMWdlT3pPV3R5TGhIcl9hOTJGRHBkdmNRbW1LZnpzZEZhV0lfdGc4a2ZWWGFPN3E5VmxwNF9ncEp1c3AzT2RYeXYzQXgtbDdVZ0EtVEdzVGdBbWN1ZnN5QWhDRElROE9raGdGN0w5SVRkOXh4NlVZUEhHS1FXVmhpemNQVVRGbk9mbEZYNkVmVXpnYWtnZg?oc=5",
+          "title": "美, 이란 제재에 동맹 동참 압박… \"우리편이냐 아니면 맞설거냐\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR0Y0ZjFjSnAxT29vM1ZWSmh5SHFFdVJXc2Q2Q3Jja2hiem1uaTF0N1N5alRCenF2VU92b25nSkJsQkwxdFJkLTBHUjNETVBPODkxZUEtYTg5VXhjYlhCREFQWlVQQ1ROdFJqS1BOTlBBaTNOS1lWNnBDLURrcXdzZlg1RmU?oc=5",
           "source": "Google News",
-          "published": "Thu, 20 Aug 2026 18:25:58 GMT"
+          "published": "Thu, 20 Aug 2026 21:31:00 GMT"
         }
       ]
     },
     {
-      "word": "파괴",
+      "word": "동맹",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 대통령, 이란 상대 ‘파괴적’ 경제 압박 선언…이란에 숨통 틔워주는 국가들에 경고 - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNjJFSFV1S3BZZFRhVzJ5ZFF5OTJyWnE5LW9lZWJBY1BhNlpqQWR6RDBNU08wcUtPMlloSWJMbFZoN0xZZEVjZHFHTml5eDJWc3V0V1NkRURCSzJFRV9IMG8yUXU5UzRKUlM0dXRSS1hQS0hza3ljcnlTYWtpaXQ1bm1sSm1VekhUNG85N1JSeUFjcDhGRXdVWDZUYzVTWl9nWEwzeDR5azNFekRNSDdrVW5B0gG0AUFVX3lxTE82X2JOYUlGTUtuOE5NSVdCMXB6bk8wVE5HZ1JJMVlDMWdlT3pPV3R5TGhIcl9hOTJGRHBkdmNRbW1LZnpzZEZhV0lfdGc4a2ZWWGFPN3E5VmxwNF9ncEp1c3AzT2RYeXYzQXgtbDdVZ0EtVEdzVGdBbWN1ZnN5QWhDRElROE9raGdGN0w5SVRkOXh4NlVZUEhHS1FXVmhpemNQVVRGbk9mbEZYNkVmVXpnYWtnZg?oc=5",
+          "title": "美, 이란 제재에 동맹 동참 압박… \"우리편이냐 아니면 맞설거냐\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR0Y0ZjFjSnAxT29vM1ZWSmh5SHFFdVJXc2Q2Q3Jja2hiem1uaTF0N1N5alRCenF2VU92b25nSkJsQkwxdFJkLTBHUjNETVBPODkxZUEtYTg5VXhjYlhCREFQWlVQQ1ROdFJqS1BOTlBBaTNOS1lWNnBDLURrcXdzZlg1RmU?oc=5",
           "source": "Google News",
-          "published": "Thu, 20 Aug 2026 18:25:58 GMT"
+          "published": "Thu, 20 Aug 2026 21:31:00 GMT"
         }
       ]
     },
     {
-      "word": "경제",
+      "word": "동참",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 대통령, 이란 상대 ‘파괴적’ 경제 압박 선언…이란에 숨통 틔워주는 국가들에 경고 - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNjJFSFV1S3BZZFRhVzJ5ZFF5OTJyWnE5LW9lZWJBY1BhNlpqQWR6RDBNU08wcUtPMlloSWJMbFZoN0xZZEVjZHFHTml5eDJWc3V0V1NkRURCSzJFRV9IMG8yUXU5UzRKUlM0dXRSS1hQS0hza3ljcnlTYWtpaXQ1bm1sSm1VekhUNG85N1JSeUFjcDhGRXdVWDZUYzVTWl9nWEwzeDR5azNFekRNSDdrVW5B0gG0AUFVX3lxTE82X2JOYUlGTUtuOE5NSVdCMXB6bk8wVE5HZ1JJMVlDMWdlT3pPV3R5TGhIcl9hOTJGRHBkdmNRbW1LZnpzZEZhV0lfdGc4a2ZWWGFPN3E5VmxwNF9ncEp1c3AzT2RYeXYzQXgtbDdVZ0EtVEdzVGdBbWN1ZnN5QWhDRElROE9raGdGN0w5SVRkOXh4NlVZUEhHS1FXVmhpemNQVVRGbk9mbEZYNkVmVXpnYWtnZg?oc=5",
+          "title": "美, 이란 제재에 동맹 동참 압박… \"우리편이냐 아니면 맞설거냐\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR0Y0ZjFjSnAxT29vM1ZWSmh5SHFFdVJXc2Q2Q3Jja2hiem1uaTF0N1N5alRCenF2VU92b25nSkJsQkwxdFJkLTBHUjNETVBPODkxZUEtYTg5VXhjYlhCREFQWlVQQ1ROdFJqS1BOTlBBaTNOS1lWNnBDLURrcXdzZlg1RmU?oc=5",
           "source": "Google News",
-          "published": "Thu, 20 Aug 2026 18:25:58 GMT"
+          "published": "Thu, 20 Aug 2026 21:31:00 GMT"
         }
       ]
     },
@@ -551,23 +241,309 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 대통령, 이란 상대 ‘파괴적’ 경제 압박 선언…이란에 숨통 틔워주는 국가들에 경고 - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNjJFSFV1S3BZZFRhVzJ5ZFF5OTJyWnE5LW9lZWJBY1BhNlpqQWR6RDBNU08wcUtPMlloSWJMbFZoN0xZZEVjZHFHTml5eDJWc3V0V1NkRURCSzJFRV9IMG8yUXU5UzRKUlM0dXRSS1hQS0hza3ljcnlTYWtpaXQ1bm1sSm1VekhUNG85N1JSeUFjcDhGRXdVWDZUYzVTWl9nWEwzeDR5azNFekRNSDdrVW5B0gG0AUFVX3lxTE82X2JOYUlGTUtuOE5NSVdCMXB6bk8wVE5HZ1JJMVlDMWdlT3pPV3R5TGhIcl9hOTJGRHBkdmNRbW1LZnpzZEZhV0lfdGc4a2ZWWGFPN3E5VmxwNF9ncEp1c3AzT2RYeXYzQXgtbDdVZ0EtVEdzVGdBbWN1ZnN5QWhDRElROE9raGdGN0w5SVRkOXh4NlVZUEhHS1FXVmhpemNQVVRGbk9mbEZYNkVmVXpnYWtnZg?oc=5",
+          "title": "美, 이란 제재에 동맹 동참 압박… \"우리편이냐 아니면 맞설거냐\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR0Y0ZjFjSnAxT29vM1ZWSmh5SHFFdVJXc2Q2Q3Jja2hiem1uaTF0N1N5alRCenF2VU92b25nSkJsQkwxdFJkLTBHUjNETVBPODkxZUEtYTg5VXhjYlhCREFQWlVQQ1ROdFJqS1BOTlBBaTNOS1lWNnBDLURrcXdzZlg1RmU?oc=5",
           "source": "Google News",
-          "published": "Thu, 20 Aug 2026 18:25:58 GMT"
+          "published": "Thu, 20 Aug 2026 21:31:00 GMT"
         }
       ]
     },
     {
-      "word": "선언이란",
+      "word": "우리편이냐",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 대통령, 이란 상대 ‘파괴적’ 경제 압박 선언…이란에 숨통 틔워주는 국가들에 경고 - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNjJFSFV1S3BZZFRhVzJ5ZFF5OTJyWnE5LW9lZWJBY1BhNlpqQWR6RDBNU08wcUtPMlloSWJMbFZoN0xZZEVjZHFHTml5eDJWc3V0V1NkRURCSzJFRV9IMG8yUXU5UzRKUlM0dXRSS1hQS0hza3ljcnlTYWtpaXQ1bm1sSm1VekhUNG85N1JSeUFjcDhGRXdVWDZUYzVTWl9nWEwzeDR5azNFekRNSDdrVW5B0gG0AUFVX3lxTE82X2JOYUlGTUtuOE5NSVdCMXB6bk8wVE5HZ1JJMVlDMWdlT3pPV3R5TGhIcl9hOTJGRHBkdmNRbW1LZnpzZEZhV0lfdGc4a2ZWWGFPN3E5VmxwNF9ncEp1c3AzT2RYeXYzQXgtbDdVZ0EtVEdzVGdBbWN1ZnN5QWhDRElROE9raGdGN0w5SVRkOXh4NlVZUEhHS1FXVmhpemNQVVRGbk9mbEZYNkVmVXpnYWtnZg?oc=5",
+          "title": "美, 이란 제재에 동맹 동참 압박… \"우리편이냐 아니면 맞설거냐\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR0Y0ZjFjSnAxT29vM1ZWSmh5SHFFdVJXc2Q2Q3Jja2hiem1uaTF0N1N5alRCenF2VU92b25nSkJsQkwxdFJkLTBHUjNETVBPODkxZUEtYTg5VXhjYlhCREFQWlVQQ1ROdFJqS1BOTlBBaTNOS1lWNnBDLURrcXdzZlg1RmU?oc=5",
           "source": "Google News",
-          "published": "Thu, 20 Aug 2026 18:25:58 GMT"
+          "published": "Thu, 20 Aug 2026 21:31:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "아니면",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "美, 이란 제재에 동맹 동참 압박… \"우리편이냐 아니면 맞설거냐\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR0Y0ZjFjSnAxT29vM1ZWSmh5SHFFdVJXc2Q2Q3Jja2hiem1uaTF0N1N5alRCenF2VU92b25nSkJsQkwxdFJkLTBHUjNETVBPODkxZUEtYTg5VXhjYlhCREFQWlVQQ1ROdFJqS1BOTlBBaTNOS1lWNnBDLURrcXdzZlg1RmU?oc=5",
+          "source": "Google News",
+          "published": "Thu, 20 Aug 2026 21:31:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "맞설거냐",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "美, 이란 제재에 동맹 동참 압박… \"우리편이냐 아니면 맞설거냐\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR0Y0ZjFjSnAxT29vM1ZWSmh5SHFFdVJXc2Q2Q3Jja2hiem1uaTF0N1N5alRCenF2VU92b25nSkJsQkwxdFJkLTBHUjNETVBPODkxZUEtYTg5VXhjYlhCREFQWlVQQ1ROdFJqS1BOTlBBaTNOS1lWNnBDLURrcXdzZlg1RmU?oc=5",
+          "source": "Google News",
+          "published": "Thu, 20 Aug 2026 21:31:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "지명직",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김민석, 지명직 최고위원에 ‘청년’ 전용기·‘노동’ 권미경 지명…9인 지도부 완성 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yd1psVFZPY2pud0Mxd2Y0NmZXVHNiMjRpbHZtUVJkT01lSnU3d2tVM1FyRzRWOWxTNTRXX0x6OTlkbjJuWk0tbi1uUTJQRUhjYnFXZDVfam44Z9IBX0FVX3lxTFBnZVdqVmVabWprMFRidXUtQjJCeW9Lb19iSEdnaFgtR3FHd1NDaTRPLUNhdTRKdFRuVVNHSkp3N1dTNHVfX09VTDd0ZXlWV2lMQkRzTjZ1YWI2NU5BMVRz?oc=5",
+          "source": "Google News",
+          "published": "Thu, 20 Aug 2026 06:17:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "최고위원",
+      "count": 1,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "김민석, 지명직 최고위원에 ‘청년’ 전용기·‘노동’ 권미경 지명…9인 지도부 완성 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yd1psVFZPY2pud0Mxd2Y0NmZXVHNiMjRpbHZtUVJkT01lSnU3d2tVM1FyRzRWOWxTNTRXX0x6OTlkbjJuWk0tbi1uUTJQRUhjYnFXZDVfam44Z9IBX0FVX3lxTFBnZVdqVmVabWprMFRidXUtQjJCeW9Lb19iSEdnaFgtR3FHd1NDaTRPLUNhdTRKdFRuVVNHSkp3N1dTNHVfX09VTDd0ZXlWV2lMQkRzTjZ1YWI2NU5BMVRz?oc=5",
+          "source": "Google News",
+          "published": "Thu, 20 Aug 2026 06:17:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "청년",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김민석, 지명직 최고위원에 ‘청년’ 전용기·‘노동’ 권미경 지명…9인 지도부 완성 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yd1psVFZPY2pud0Mxd2Y0NmZXVHNiMjRpbHZtUVJkT01lSnU3d2tVM1FyRzRWOWxTNTRXX0x6OTlkbjJuWk0tbi1uUTJQRUhjYnFXZDVfam44Z9IBX0FVX3lxTFBnZVdqVmVabWprMFRidXUtQjJCeW9Lb19iSEdnaFgtR3FHd1NDaTRPLUNhdTRKdFRuVVNHSkp3N1dTNHVfX09VTDd0ZXlWV2lMQkRzTjZ1YWI2NU5BMVRz?oc=5",
+          "source": "Google News",
+          "published": "Thu, 20 Aug 2026 06:17:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "전용기노동",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김민석, 지명직 최고위원에 ‘청년’ 전용기·‘노동’ 권미경 지명…9인 지도부 완성 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yd1psVFZPY2pud0Mxd2Y0NmZXVHNiMjRpbHZtUVJkT01lSnU3d2tVM1FyRzRWOWxTNTRXX0x6OTlkbjJuWk0tbi1uUTJQRUhjYnFXZDVfam44Z9IBX0FVX3lxTFBnZVdqVmVabWprMFRidXUtQjJCeW9Lb19iSEdnaFgtR3FHd1NDaTRPLUNhdTRKdFRuVVNHSkp3N1dTNHVfX09VTDd0ZXlWV2lMQkRzTjZ1YWI2NU5BMVRz?oc=5",
+          "source": "Google News",
+          "published": "Thu, 20 Aug 2026 06:17:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "권미경",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김민석, 지명직 최고위원에 ‘청년’ 전용기·‘노동’ 권미경 지명…9인 지도부 완성 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yd1psVFZPY2pud0Mxd2Y0NmZXVHNiMjRpbHZtUVJkT01lSnU3d2tVM1FyRzRWOWxTNTRXX0x6OTlkbjJuWk0tbi1uUTJQRUhjYnFXZDVfam44Z9IBX0FVX3lxTFBnZVdqVmVabWprMFRidXUtQjJCeW9Lb19iSEdnaFgtR3FHd1NDaTRPLUNhdTRKdFRuVVNHSkp3N1dTNHVfX09VTDd0ZXlWV2lMQkRzTjZ1YWI2NU5BMVRz?oc=5",
+          "source": "Google News",
+          "published": "Thu, 20 Aug 2026 06:17:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "지명9인",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김민석, 지명직 최고위원에 ‘청년’ 전용기·‘노동’ 권미경 지명…9인 지도부 완성 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yd1psVFZPY2pud0Mxd2Y0NmZXVHNiMjRpbHZtUVJkT01lSnU3d2tVM1FyRzRWOWxTNTRXX0x6OTlkbjJuWk0tbi1uUTJQRUhjYnFXZDVfam44Z9IBX0FVX3lxTFBnZVdqVmVabWprMFRidXUtQjJCeW9Lb19iSEdnaFgtR3FHd1NDaTRPLUNhdTRKdFRuVVNHSkp3N1dTNHVfX09VTDd0ZXlWV2lMQkRzTjZ1YWI2NU5BMVRz?oc=5",
+          "source": "Google News",
+          "published": "Thu, 20 Aug 2026 06:17:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "지도부",
+      "count": 1,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "김민석, 지명직 최고위원에 ‘청년’ 전용기·‘노동’ 권미경 지명…9인 지도부 완성 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yd1psVFZPY2pud0Mxd2Y0NmZXVHNiMjRpbHZtUVJkT01lSnU3d2tVM1FyRzRWOWxTNTRXX0x6OTlkbjJuWk0tbi1uUTJQRUhjYnFXZDVfam44Z9IBX0FVX3lxTFBnZVdqVmVabWprMFRidXUtQjJCeW9Lb19iSEdnaFgtR3FHd1NDaTRPLUNhdTRKdFRuVVNHSkp3N1dTNHVfX09VTDd0ZXlWV2lMQkRzTjZ1YWI2NU5BMVRz?oc=5",
+          "source": "Google News",
+          "published": "Thu, 20 Aug 2026 06:17:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "완성",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김민석, 지명직 최고위원에 ‘청년’ 전용기·‘노동’ 권미경 지명…9인 지도부 완성 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yd1psVFZPY2pud0Mxd2Y0NmZXVHNiMjRpbHZtUVJkT01lSnU3d2tVM1FyRzRWOWxTNTRXX0x6OTlkbjJuWk0tbi1uUTJQRUhjYnFXZDVfam44Z9IBX0FVX3lxTFBnZVdqVmVabWprMFRidXUtQjJCeW9Lb19iSEdnaFgtR3FHd1NDaTRPLUNhdTRKdFRuVVNHSkp3N1dTNHVfX09VTDd0ZXlWV2lMQkRzTjZ1YWI2NU5BMVRz?oc=5",
+          "source": "Google News",
+          "published": "Thu, 20 Aug 2026 06:17:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "패스트트랙",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령, 패스트트랙 단축법 통과에 \"이훈기 등 민주당 의원들 수고 많으셨다\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBna2xLNE00bzF3Z2toYlZ2N1d4MnhfMjgzOUk3bXJYVFcxU3lua3hiMXBLb1dweFpkTklycUVrN3czMWxaREV0cVBxajBtd2RmMjVUMkNxQkgya3NnUi1GMXVjRWR0S2ItVXo1LU50T2JEb2pJdW1KUNIBeEFVX3lxTE1PRUFOZXJkUUppT0ZwUEp4cmxVOU95cEoyU1M0T0ViLXF3YVlKc211QXJxYS0tRWtHa0g2LWh4ZGVYdFB6NVhkcjFORlFQUEJWM1BnbkVPbDJoZE9UUjhsSEkxVnlpQk5JNzlJUkNMNlhTRHpmb3pWOA?oc=5",
+          "source": "Google News",
+          "published": "Fri, 21 Aug 2026 00:07:18 GMT"
+        }
+      ]
+    },
+    {
+      "word": "단축법",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령, 패스트트랙 단축법 통과에 \"이훈기 등 민주당 의원들 수고 많으셨다\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBna2xLNE00bzF3Z2toYlZ2N1d4MnhfMjgzOUk3bXJYVFcxU3lua3hiMXBLb1dweFpkTklycUVrN3czMWxaREV0cVBxajBtd2RmMjVUMkNxQkgya3NnUi1GMXVjRWR0S2ItVXo1LU50T2JEb2pJdW1KUNIBeEFVX3lxTE1PRUFOZXJkUUppT0ZwUEp4cmxVOU95cEoyU1M0T0ViLXF3YVlKc211QXJxYS0tRWtHa0g2LWh4ZGVYdFB6NVhkcjFORlFQUEJWM1BnbkVPbDJoZE9UUjhsSEkxVnlpQk5JNzlJUkNMNlhTRHpmb3pWOA?oc=5",
+          "source": "Google News",
+          "published": "Fri, 21 Aug 2026 00:07:18 GMT"
+        }
+      ]
+    },
+    {
+      "word": "이훈기",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령, 패스트트랙 단축법 통과에 \"이훈기 등 민주당 의원들 수고 많으셨다\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBna2xLNE00bzF3Z2toYlZ2N1d4MnhfMjgzOUk3bXJYVFcxU3lua3hiMXBLb1dweFpkTklycUVrN3czMWxaREV0cVBxajBtd2RmMjVUMkNxQkgya3NnUi1GMXVjRWR0S2ItVXo1LU50T2JEb2pJdW1KUNIBeEFVX3lxTE1PRUFOZXJkUUppT0ZwUEp4cmxVOU95cEoyU1M0T0ViLXF3YVlKc211QXJxYS0tRWtHa0g2LWh4ZGVYdFB6NVhkcjFORlFQUEJWM1BnbkVPbDJoZE9UUjhsSEkxVnlpQk5JNzlJUkNMNlhTRHpmb3pWOA?oc=5",
+          "source": "Google News",
+          "published": "Fri, 21 Aug 2026 00:07:18 GMT"
+        }
+      ]
+    },
+    {
+      "word": "민주당",
+      "count": 1,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "이 대통령, 패스트트랙 단축법 통과에 \"이훈기 등 민주당 의원들 수고 많으셨다\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBna2xLNE00bzF3Z2toYlZ2N1d4MnhfMjgzOUk3bXJYVFcxU3lua3hiMXBLb1dweFpkTklycUVrN3czMWxaREV0cVBxajBtd2RmMjVUMkNxQkgya3NnUi1GMXVjRWR0S2ItVXo1LU50T2JEb2pJdW1KUNIBeEFVX3lxTE1PRUFOZXJkUUppT0ZwUEp4cmxVOU95cEoyU1M0T0ViLXF3YVlKc211QXJxYS0tRWtHa0g2LWh4ZGVYdFB6NVhkcjFORlFQUEJWM1BnbkVPbDJoZE9UUjhsSEkxVnlpQk5JNzlJUkNMNlhTRHpmb3pWOA?oc=5",
+          "source": "Google News",
+          "published": "Fri, 21 Aug 2026 00:07:18 GMT"
+        }
+      ]
+    },
+    {
+      "word": "의원",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령, 패스트트랙 단축법 통과에 \"이훈기 등 민주당 의원들 수고 많으셨다\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBna2xLNE00bzF3Z2toYlZ2N1d4MnhfMjgzOUk3bXJYVFcxU3lua3hiMXBLb1dweFpkTklycUVrN3czMWxaREV0cVBxajBtd2RmMjVUMkNxQkgya3NnUi1GMXVjRWR0S2ItVXo1LU50T2JEb2pJdW1KUNIBeEFVX3lxTE1PRUFOZXJkUUppT0ZwUEp4cmxVOU95cEoyU1M0T0ViLXF3YVlKc211QXJxYS0tRWtHa0g2LWh4ZGVYdFB6NVhkcjFORlFQUEJWM1BnbkVPbDJoZE9UUjhsSEkxVnlpQk5JNzlJUkNMNlhTRHpmb3pWOA?oc=5",
+          "source": "Google News",
+          "published": "Fri, 21 Aug 2026 00:07:18 GMT"
+        }
+      ]
+    },
+    {
+      "word": "수고",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령, 패스트트랙 단축법 통과에 \"이훈기 등 민주당 의원들 수고 많으셨다\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBna2xLNE00bzF3Z2toYlZ2N1d4MnhfMjgzOUk3bXJYVFcxU3lua3hiMXBLb1dweFpkTklycUVrN3czMWxaREV0cVBxajBtd2RmMjVUMkNxQkgya3NnUi1GMXVjRWR0S2ItVXo1LU50T2JEb2pJdW1KUNIBeEFVX3lxTE1PRUFOZXJkUUppT0ZwUEp4cmxVOU95cEoyU1M0T0ViLXF3YVlKc211QXJxYS0tRWtHa0g2LWh4ZGVYdFB6NVhkcjFORlFQUEJWM1BnbkVPbDJoZE9UUjhsSEkxVnlpQk5JNzlJUkNMNlhTRHpmb3pWOA?oc=5",
+          "source": "Google News",
+          "published": "Fri, 21 Aug 2026 00:07:18 GMT"
+        }
+      ]
+    },
+    {
+      "word": "많으셨다",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령, 패스트트랙 단축법 통과에 \"이훈기 등 민주당 의원들 수고 많으셨다\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBna2xLNE00bzF3Z2toYlZ2N1d4MnhfMjgzOUk3bXJYVFcxU3lua3hiMXBLb1dweFpkTklycUVrN3czMWxaREV0cVBxajBtd2RmMjVUMkNxQkgya3NnUi1GMXVjRWR0S2ItVXo1LU50T2JEb2pJdW1KUNIBeEFVX3lxTE1PRUFOZXJkUUppT0ZwUEp4cmxVOU95cEoyU1M0T0ViLXF3YVlKc211QXJxYS0tRWtHa0g2LWh4ZGVYdFB6NVhkcjFORlFQUEJWM1BnbkVPbDJoZE9UUjhsSEkxVnlpQk5JNzlJUkNMNlhTRHpmb3pWOA?oc=5",
+          "source": "Google News",
+          "published": "Fri, 21 Aug 2026 00:07:18 GMT"
+        }
+      ]
+    },
+    {
+      "word": "김여정",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김여정 ‘연이틀’ 담화…미국엔 “두 정상 관계 훌륭”, 한국엔 “가긍해” 독설 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRZm5KU0pOSW1LZGVYMVJEd04zenBNT3NpNHJia20wVFdZdWl5LVhOTEdHcW12MTg5LTc0dEVhYWdFRXUwOURuVDBmaThSUnZEdkFCWFRnNjY3N0JGcGNzTGJmNHFaZkZpOVF2UVFGMWVLN0It?oc=5",
+          "source": "Google News",
+          "published": "Thu, 20 Aug 2026 21:55:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "연이틀",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김여정 ‘연이틀’ 담화…미국엔 “두 정상 관계 훌륭”, 한국엔 “가긍해” 독설 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRZm5KU0pOSW1LZGVYMVJEd04zenBNT3NpNHJia20wVFdZdWl5LVhOTEdHcW12MTg5LTc0dEVhYWdFRXUwOURuVDBmaThSUnZEdkFCWFRnNjY3N0JGcGNzTGJmNHFaZkZpOVF2UVFGMWVLN0It?oc=5",
+          "source": "Google News",
+          "published": "Thu, 20 Aug 2026 21:55:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "담화미국엔",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김여정 ‘연이틀’ 담화…미국엔 “두 정상 관계 훌륭”, 한국엔 “가긍해” 독설 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRZm5KU0pOSW1LZGVYMVJEd04zenBNT3NpNHJia20wVFdZdWl5LVhOTEdHcW12MTg5LTc0dEVhYWdFRXUwOURuVDBmaThSUnZEdkFCWFRnNjY3N0JGcGNzTGJmNHFaZkZpOVF2UVFGMWVLN0It?oc=5",
+          "source": "Google News",
+          "published": "Thu, 20 Aug 2026 21:55:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "정상",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김여정 ‘연이틀’ 담화…미국엔 “두 정상 관계 훌륭”, 한국엔 “가긍해” 독설 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRZm5KU0pOSW1LZGVYMVJEd04zenBNT3NpNHJia20wVFdZdWl5LVhOTEdHcW12MTg5LTc0dEVhYWdFRXUwOURuVDBmaThSUnZEdkFCWFRnNjY3N0JGcGNzTGJmNHFaZkZpOVF2UVFGMWVLN0It?oc=5",
+          "source": "Google News",
+          "published": "Thu, 20 Aug 2026 21:55:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "관계",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김여정 ‘연이틀’ 담화…미국엔 “두 정상 관계 훌륭”, 한국엔 “가긍해” 독설 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRZm5KU0pOSW1LZGVYMVJEd04zenBNT3NpNHJia20wVFdZdWl5LVhOTEdHcW12MTg5LTc0dEVhYWdFRXUwOURuVDBmaThSUnZEdkFCWFRnNjY3N0JGcGNzTGJmNHFaZkZpOVF2UVFGMWVLN0It?oc=5",
+          "source": "Google News",
+          "published": "Thu, 20 Aug 2026 21:55:00 GMT"
         }
       ]
     }
