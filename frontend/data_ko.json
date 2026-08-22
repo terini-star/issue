@@ -1,68 +1,18 @@
 {
   "language": "ko",
-  "last_updated": 1787391203.1142902,
+  "last_updated": 1787394624.4289293,
   "count": 40,
   "trends": [
     {
-      "word": "트럼프",
-      "count": 4,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "美민주, '트럼프發 북미회담' 공세 강화…\"김정은에 굴복\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jQVZ5XzQwbkZnRkxKN2lrZkE4Y1dQVXl3TlZpalJPYW9wWnl3Q2ltcjM4bGlOd2FRZDVPSFhubmhmSFppQThfd3h4c0JyLU1wR3RuQk5XbGptZzTSAWBBVV95cUxQTl9kOXFQODN5UDhPREg4ck51aGhscUZsZ3Z0RTYtUW5BSXZYT29SOGxCblo3YmZwUzBpT2lpdXlSejkweGxqN2duOEpzSlVCWEQtSjRNYThob1NfMmdINHo?oc=5",
-          "source": "Google News",
-          "published": "Fri, 21 Aug 2026 18:44:55 GMT"
-        },
-        {
-          "title": "\"50% 트럼프 관세\" 현실화‥미·캐나다 무역협상 결렬 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ERUR1ODdCd3JEOE1CYVlIS2JHVjJ3YnEtR1MwVS0tc2pWY0J1M0xwQ2taNkdkY2p4ZG9ER1pWLVBFWXdVTi1UTWl1ZlkzYUdqbFlBMnJQTTlsanAtb3FjTG1hYXFSRnotV1VwR2ZtcXk1c0wy0gF0QVVfeXFMTTQ2Z1NIWC1ucmhtYU0wZENDbjViNEpDVHJmMkdRSGl2dHB2WWFuMjkyYjZ4dGJiTXBtSW5KMk00cEc0em1lQUNDUW83RVpTUDZwOGV6bU1KZ2hzQUFWLVFDVFMzdV9GdW40T1pMdEpVc1FrNW4?oc=5",
-          "source": "Google News",
-          "published": "Sat, 22 Aug 2026 05:12:41 GMT"
-        },
-        {
-          "title": "트럼프 북미 대화 추진에 미 민주당 공세‥\"김정은에 굴복하고 동맹 소외\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1dFBJaHBINUtTZzRwd3pTQkxoQjBVZVljOHRvQm1rM3hzdVJVaUpwUWRsSkxZbjBaZWdQWWhXT3dJY2NvUnkzb0JBbmg5QlhUNzNDdnFFMS1ybHc3TXlZZ19LNHhXYnlhMW9iZGZkVDdJVWxs0gF0QVVfeXFMUGxKWldQNGhmSGF0blhRUXdZQWF5WVgwdUN0UEpPRGkzbjJGYWFlUzBXSlloNV9zbjZJMkd2Qk9pb3NfMjlleDRNTk5UWFNwUTgwa21rNFNDSE9qaUhLY2Y5a0NXZGJCeTFycnp6TEdPUFlLMUQ?oc=5",
-          "source": "Google News",
-          "published": "Sat, 22 Aug 2026 02:11:00 GMT"
-        },
-        {
-          "title": "트럼프 “호르무즈 해협은 현재 美 영토... 이란, 합의 원해” - 조선비즈 - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZEhjRTBXcUJwM3NkdVI5Tk9oa1dtZkNyY2U0VEFHMDhWTkFHWUdBMlhrUkh3RHU5V25PMFBuM2t5YjI0T2pmcVdaM0t0T3l2NWptUmRyRHZhRm4ySFFKZlhoVWdPZVoxOWpocFZITHhIY0U1UDRrM0E0MG5qVTNzQjFqT0pfUWhtZEoxcG8zemY0cUNjcjdYbk5nbkpPd9IBsgFBVV95cUxPSnV2bWhybGVLRzF3azFaX0xNeURPSVdSU1NrRWJUNzk0dnRqTzNZTnpPdjNPVDcwdGZvbjNJZjVRN2NqMnp6SnFBQW9DWHVGS1pwUGl4S2xyZ29hQ2NHTjJ1X2FTaHNabXo5VEFzMHhCUXV6ZEF5NlktMG9GTUNYNTRKU3U0UVRZVVZUYW1FM1EzaUhtMlFhWU4yYTFHa21TcDhvdFIyU1M1azg5enVrckhR?oc=5",
-          "source": "Google News",
-          "published": "Sat, 22 Aug 2026 01:53:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "오세훈",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "오세훈, 용산공원에 주택공급 반대...대체부지 제안 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LWVR0dG11cEozZFFlSnFMZ1FBakR3dzBjNkNhcGM1NjFsaFRtV3FDQ0RjQi0xZkVQX2VqaXViaDFtOENsalU5aUs0TzRMMTdXU0pEdFF0QUhVbkhPRFE?oc=5",
-          "source": "Google News",
-          "published": "Sat, 22 Aug 2026 08:28:00 GMT"
-        },
-        {
-          "title": "항소심서 무죄 주장 오세훈 향해, 민주 “시민에 사과하는 게 먼저” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPeF85WHNYVGtJV1RUVFhtYnVWSzdnYjQyMUx6MVlLamdQRGtyNGp1LWhtUldZRlVucGJWNnBWeGpaV3BfNXN3X25KLUNOLVBybjBBQ05XSWR4SWdPNmVKcDR0UXlvYUdxOGc?oc=5",
-          "source": "Google News",
-          "published": "Sat, 22 Aug 2026 03:42:00 GMT"
-        }
-      ]
-    },
-    {
       "word": "무죄",
-      "count": 2,
+      "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "항소심서 무죄 주장 오세훈 향해, 민주 “시민에 사과하는 게 먼저” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPeF85WHNYVGtJV1RUVFhtYnVWSzdnYjQyMUx6MVlLamdQRGtyNGp1LWhtUldZRlVucGJWNnBWeGpaV3BfNXN3X25KLUNOLVBybjBBQ05XSWR4SWdPNmVKcDR0UXlvYUdxOGc?oc=5",
+          "title": "민주당, '여론조사 대납' 무죄 주장 오세훈에 \"무죄 프레임에만 골몰‥민생 뒷전\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsTTVpUmpXVGxFY0JMdXNiZ2R1V0Zva1lMQ3hWODR4TXAwX2ZpVWZ6X0doMkVnQm45V3M1YnhUUnhDcVAzb0VRRDNHeG5Hcm1Wdkk0ZUZ5ejVxYnhNQXE4TXE4enp5ZTJwOWpYVFp1d1hoVGZ2NUFzdtIBeEFVX3lxTFByVkRERG94eW9wUDdxQVF1MmJJSVlqalZ3UEN5c2RnQlZnNklmdEttUV9mQW5FbjFqM3FTUW0xczhTZVFNQ3pnLWpydmR5S24ybXhTZVRLamlNSmgydk1DSm9pYnY4eVRGZXFVQ1lhOW1uWFhERUVucw?oc=5",
           "source": "Google News",
-          "published": "Sat, 22 Aug 2026 03:42:00 GMT"
+          "published": "Sat, 22 Aug 2026 02:35:00 GMT"
         },
         {
           "title": "한동훈 “與 ‘노웅래 무죄’에 억울한 척...국회서 녹음파일 틀어보자” - 조선일보",
@@ -73,40 +23,122 @@
       ]
     },
     {
-      "word": "민주",
-      "count": 2,
-      "category": "LOCATION",
+      "word": "사람",
+      "count": 3,
+      "category": "NOUN",
       "articles": [
         {
-          "title": "항소심서 무죄 주장 오세훈 향해, 민주 “시민에 사과하는 게 먼저” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPeF85WHNYVGtJV1RUVFhtYnVWSzdnYjQyMUx6MVlLamdQRGtyNGp1LWhtUldZRlVucGJWNnBWeGpaV3BfNXN3X25KLUNOLVBybjBBQ05XSWR4SWdPNmVKcDR0UXlvYUdxOGc?oc=5",
+          "title": "\"도와준 사람 매장\" 비난…박위 낙상사고→공익요원 저격 논란 무슨일 - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kTzRmVTlvcUVzLVhXNnQyWlItSGdYQlh0bWVDUnJfNDR4NXZhV2ltdmVPbDRCUnluWUpsOHJSOW9iSWRqWDRVTnVIaUtWWWtmOUotbjlwcTdvUFVLbWR1LVlVTUN0SnhnZzVR0gFwQVVfeXFMTWUxUDU1ZU43VHZ0aTYxRlh3dl9fdWdLYmxvWndneGwyamNyckJER01GalpXZElneEFZNUt3bjNpR0V3aXludS1BazNETzhrdnhhLUJPRHNFVVBvUGhnRVNZVlJqamVUaFJ2WlpCVktERQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 22 Aug 2026 03:42:00 GMT"
+          "published": "Fri, 21 Aug 2026 23:07:11 GMT"
         },
         {
-          "title": "美민주, '트럼프發 북미회담' 공세 강화…\"김정은에 굴복\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jQVZ5XzQwbkZnRkxKN2lrZkE4Y1dQVXl3TlZpalJPYW9wWnl3Q2ltcjM4bGlOd2FRZDVPSFhubmhmSFppQThfd3h4c0JyLU1wR3RuQk5XbGptZzTSAWBBVV95cUxQTl9kOXFQODN5UDhPREg4ck51aGhscUZsZ3Z0RTYtUW5BSXZYT29SOGxCblo3YmZwUzBpT2lpdXlSejkweGxqN2duOEpzSlVCWEQtSjRNYThob1NfMmdINHo?oc=5",
+          "title": "정석원 “말 안하면 사람들 오해 샀다..♥백지영이 날 어른 만들어” [순간포착] - 조선비즈 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORHdDRUZjN1NhYThfRURaRFc4cDJQd2VrYkNNdGx4QWN5SV81WHhqMHNJdHYxWE14RHk1NmVVdDFJZkt5SnM1WHJ6U3YyLU13WnpBTWktRkJMWWUwWEFCUXBsVmtUVUp4UW50V2dHLVBZWEhlSGNsM0F5STVBU1o4UjJ0TGR0WjlqMzdjUkpUVHN3MGfSAacBQVVfeXFMTTZ3am44TURQLVZhWXRXSHd0Uk5YanpXSWRwRHQ2cEJwVHBEMGFRYl8zcDFTRldIRWdHNjVoNkdzeFM1VzlJZXVtOVUtT0NDZHhmd1QxSG9kWjhYOU5oTG5Ed1hsazluY3NBZjlreUhGaUJOaDdiVFhDRUhvWWRPa05jWDU1TFZwS2ZFR0VQeG5GNTh4YlVMRXlVbG42dkw2RUd1X19fQlk?oc=5",
           "source": "Google News",
-          "published": "Fri, 21 Aug 2026 18:44:55 GMT"
+          "published": "Sat, 22 Aug 2026 05:54:00 GMT"
+        },
+        {
+          "title": "공복 혈당 수치는 건강한 사람과 당뇨병 환자에게 안전합니다 - Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQTNMLXgyWHdRbHRlLWRYbEZRclktbXdWc3JFODdubkpBWjFvQnNZMVozRkdJVVU5ZkhXOE9sX3M2Skt0U2xnVkxmUnZJTTF2UkNBLWNPSktDWFVUZWlQSVNEc1lGcmpiY0VNQUloNVRTaG1xMjJBTXpfczhiUExlUnV4TFJRZHhCeTBUTEtNWEZId1pzVFF0SjBNYlNnZkxaNUtUNnVNSGFVRHgxY0dYWnR4cW8?oc=5",
+          "source": "Google News",
+          "published": "Sat, 22 Aug 2026 06:51:18 GMT"
         }
       ]
     },
     {
-      "word": "굴복",
+      "word": "오세훈",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "美민주, '트럼프發 북미회담' 공세 강화…\"김정은에 굴복\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jQVZ5XzQwbkZnRkxKN2lrZkE4Y1dQVXl3TlZpalJPYW9wWnl3Q2ltcjM4bGlOd2FRZDVPSFhubmhmSFppQThfd3h4c0JyLU1wR3RuQk5XbGptZzTSAWBBVV95cUxQTl9kOXFQODN5UDhPREg4ck51aGhscUZsZ3Z0RTYtUW5BSXZYT29SOGxCblo3YmZwUzBpT2lpdXlSejkweGxqN2duOEpzSlVCWEQtSjRNYThob1NfMmdINHo?oc=5",
+          "title": "오세훈 “용산공원 1㎝도 양보 못 해”…김영배 “자기 정치만” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8yRVRna0V6QlBKMWQ4U1pSWFpVQ0lmT3dJYzdrZ3MtbXZBR3pkcnlON0lsQXA2eV9IN2NRa0JMYXVNVE9WMU1IWWdNZVlSRHNhVEJWa1RmMWlKUWFSOHdkTFVWM0ZkR25jbXhCSTI2ZTJaX3hf?oc=5",
           "source": "Google News",
-          "published": "Fri, 21 Aug 2026 18:44:55 GMT"
+          "published": "Sat, 22 Aug 2026 09:01:00 GMT"
+        },
+        {
+          "title": "민주당, '여론조사 대납' 무죄 주장 오세훈에 \"무죄 프레임에만 골몰‥민생 뒷전\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsTTVpUmpXVGxFY0JMdXNiZ2R1V0Zva1lMQ3hWODR4TXAwX2ZpVWZ6X0doMkVnQm45V3M1YnhUUnhDcVAzb0VRRDNHeG5Hcm1Wdkk0ZUZ5ejVxYnhNQXE4TXE4enp5ZTJwOWpYVFp1d1hoVGZ2NUFzdtIBeEFVX3lxTFByVkRERG94eW9wUDdxQVF1MmJJSVlqalZ3UEN5c2RnQlZnNklmdEttUV9mQW5FbjFqM3FTUW0xczhTZVFNQ3pnLWpydmR5S24ybXhTZVRLamlNSmgydk1DSm9pYnY4eVRGZXFVQ1lhOW1uWFhERUVucw?oc=5",
+          "source": "Google News",
+          "published": "Sat, 22 Aug 2026 02:35:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "민주당",
+      "count": 2,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "민주당, '여론조사 대납' 무죄 주장 오세훈에 \"무죄 프레임에만 골몰‥민생 뒷전\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsTTVpUmpXVGxFY0JMdXNiZ2R1V0Zva1lMQ3hWODR4TXAwX2ZpVWZ6X0doMkVnQm45V3M1YnhUUnhDcVAzb0VRRDNHeG5Hcm1Wdkk0ZUZ5ejVxYnhNQXE4TXE4enp5ZTJwOWpYVFp1d1hoVGZ2NUFzdtIBeEFVX3lxTFByVkRERG94eW9wUDdxQVF1MmJJSVlqalZ3UEN5c2RnQlZnNklmdEttUV9mQW5FbjFqM3FTUW0xczhTZVFNQ3pnLWpydmR5S24ybXhTZVRLamlNSmgydk1DSm9pYnY4eVRGZXFVQ1lhOW1uWFhERUVucw?oc=5",
+          "source": "Google News",
+          "published": "Sat, 22 Aug 2026 02:35:00 GMT"
         },
         {
           "title": "트럼프 북미 대화 추진에 미 민주당 공세‥\"김정은에 굴복하고 동맹 소외\" - MBC 뉴스",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1dFBJaHBINUtTZzRwd3pTQkxoQjBVZVljOHRvQm1rM3hzdVJVaUpwUWRsSkxZbjBaZWdQWWhXT3dJY2NvUnkzb0JBbmg5QlhUNzNDdnFFMS1ybHc3TXlZZ19LNHhXYnlhMW9iZGZkVDdJVWxs0gF0QVVfeXFMUGxKWldQNGhmSGF0blhRUXdZQWF5WVgwdUN0UEpPRGkzbjJGYWFlUzBXSlloNV9zbjZJMkd2Qk9pb3NfMjlleDRNTk5UWFNwUTgwa21rNFNDSE9qaUhLY2Y5a0NXZGJCeTFycnp6TEdPUFlLMUQ?oc=5",
           "source": "Google News",
           "published": "Sat, 22 Aug 2026 02:11:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "대통령",
+      "count": 2,
+      "category": "PERSON",
+      "articles": [
+        {
+          "title": "與 의원들 28일 李대통령과 청와대 오찬...전원 참석 전망 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMlVjRjJidERPVm91TG9mbWgyaWhHcExYM1hLM25yNS1PQmYyZERjdWJoTDhCclhtXzBtd0lTUWFnMkhVeDRySy1vcFlxTTlURko5NGVaME9qR3c3TVpyRmE0U2NWQkEzTTBjckVsZmFKTFkwS0pZWFE4b0xaNURTNFNPSl9sdw?oc=5",
+          "source": "Google News",
+          "published": "Sat, 22 Aug 2026 04:25:00 GMT"
+        },
+        {
+          "title": "이 대통령, 조희대 겨냥?···“최근 반부패보다 헌정질서 파괴 행위가 더 심각, 대책 논의해야” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LdTh6bEd2RGliY2k5RGp4UmlOVkktbXhFVjhWNEc1T0FWZ3RSWDdmc19FaGJBZFlWaUpmZ1NyWS1DLTdQejBYSWFrMEwzSFU1RmFIb1NDZmtOd9IBX0FVX3lxTE40emxmX04xZGs1Vmdvc09qSkI5SWhXdGg4VU9zd2xSQzhtakJIak5IRkxSUlhsTFlrdWlQdFVZWTR6bnBQcHJnTHdCOGVCa0MwTkxGUTZ2THVNak5NTm1j?oc=5",
+          "source": "Google News",
+          "published": "Fri, 21 Aug 2026 10:41:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "만에",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이혼 과정서 실토된 ‘노태우 비자금’ 수사 착수…30여년 만에 봉인 풀릴까 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0blpzQmdtS0M4Q2NBLWJrTDBkT2xZSVJQaEg5Ujk0NGhJYUd4NjdnOHNlbll4bTVxbVNKWlNPVlZmM2pVcTVRb3Fyb0w4dGh1TUwzNlhXd1pqdUZDQkI4NVpRN3JDMDRfeUh4NEpFYjZCUQ?oc=5",
+          "source": "Google News",
+          "published": "Fri, 21 Aug 2026 23:38:00 GMT"
+        },
+        {
+          "title": "美 국채금리 또 올랐지만…3대 지수 하루 만에 반등 [뉴욕증시 브리핑] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UWEh4dTlPOW9uU01VU0dsSjlvcWd0U1lkb0JOZWkyREVDejktOXphdGZUQ09fSVpKTmtvd18yaWNlTTJBN2U3elJCcW9mZUlCZGtPSDBlaEpLZw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 21 Aug 2026 22:13:57 GMT"
+        }
+      ]
+    },
+    {
+      "word": "트럼프",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프 북미 대화 추진에 미 민주당 공세‥\"김정은에 굴복하고 동맹 소외\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1dFBJaHBINUtTZzRwd3pTQkxoQjBVZVljOHRvQm1rM3hzdVJVaUpwUWRsSkxZbjBaZWdQWWhXT3dJY2NvUnkzb0JBbmg5QlhUNzNDdnFFMS1ybHc3TXlZZ19LNHhXYnlhMW9iZGZkVDdJVWxs0gF0QVVfeXFMUGxKWldQNGhmSGF0blhRUXdZQWF5WVgwdUN0UEpPRGkzbjJGYWFlUzBXSlloNV9zbjZJMkd2Qk9pb3NfMjlleDRNTk5UWFNwUTgwa21rNFNDSE9qaUhLY2Y5a0NXZGJCeTFycnp6TEdPUFlLMUQ?oc=5",
+          "source": "Google News",
+          "published": "Sat, 22 Aug 2026 02:11:00 GMT"
+        },
+        {
+          "title": "트럼프 \"호르무즈는 현재 美영토…이란, 합의 절실해\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PbmdfaDdYNkRaY1FXNXQ4MXlwelhFM0o4VDVoVUVyeFRQbi04VGRLY2lvWE5QbTIyYXNmeHRkX0pKQ0UwMnRjTEZFLUFWaV9CeTBHelQ4aEwyaVVQbEVibzNQYXloZVU?oc=5",
+          "source": "Google News",
+          "published": "Sat, 22 Aug 2026 01:37:00 GMT"
         }
       ]
     },
@@ -126,44 +158,6 @@
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Rd0hqY0JENjUwcGN3aUR1Y1I1MUxJeFBLVXhWdDByU29YMF9wU0gyRkhBczE5WDJsNnZaSzB6ODEtWW5FSTljaG1wLXk5bWV2S3pKcC0wR09GTDhDdUtjM08wdEVYbWVjTGc?oc=5",
           "source": "Google News",
           "published": "Sat, 22 Aug 2026 02:34:58 GMT"
-        }
-      ]
-    },
-    {
-      "word": "제거",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "윈도 디펜더가 공격 도구로…MS 정상 드라이버 악용해 보안 기능 제거 - 데일리시큐",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DdnhOcWVBS214ZWR1UXE0ekdpY3JrOXBXY1pWakxGNklwY1B5ZVNtenFvR0dfNVJWSkdPenhZekQ2eTgyUWl4QVN6Y3ZxTUJwUGNid0NJM1NYMXBsbWVzTjhQdlhsRjg1WnNtbA?oc=5",
-          "source": "Google News",
-          "published": "Sat, 22 Aug 2026 07:26:06 GMT"
-        },
-        {
-          "title": "칸호아에서 거의 1,000명이 피부를 통해 신장 결석을 제거했습니다 - Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeDlrYmw1ak5YWnlkVWZnM0oxZE5iUGs5YXctUFU1TXB0eVVLeXRJZ25CZ2R4dmxnVFJ1Ymgzelp6YkI4MUpMR0tfZWlVTllLYUh1U3FaOEZyeFBXX1p5V3hQazJBc0psWW9qYlN1VmZJSENqV2o4QjVkU0RNV1cyZi1pNGx0WFdXUEZaWmR5Vkx4UFRFQ1lmeno0c1Q?oc=5",
-          "source": "Google News",
-          "published": "Sat, 22 Aug 2026 05:58:01 GMT"
-        }
-      ]
-    },
-    {
-      "word": "사람",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "정석원 “말 안하면 사람들 오해 샀다..♥백지영이 날 어른 만들어” [순간포착] - 조선비즈 - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORHdDRUZjN1NhYThfRURaRFc4cDJQd2VrYkNNdGx4QWN5SV81WHhqMHNJdHYxWE14RHk1NmVVdDFJZkt5SnM1WHJ6U3YyLU13WnpBTWktRkJMWWUwWEFCUXBsVmtUVUp4UW50V2dHLVBZWEhlSGNsM0F5STVBU1o4UjJ0TGR0WjlqMzdjUkpUVHN3MGfSAacBQVVfeXFMTTZ3am44TURQLVZhWXRXSHd0Uk5YanpXSWRwRHQ2cEJwVHBEMGFRYl8zcDFTRldIRWdHNjVoNkdzeFM1VzlJZXVtOVUtT0NDZHhmd1QxSG9kWjhYOU5oTG5Ed1hsazluY3NBZjlreUhGaUJOaDdiVFhDRUhvWWRPa05jWDU1TFZwS2ZFR0VQeG5GNTh4YlVMRXlVbG42dkw2RUd1X19fQlk?oc=5",
-          "source": "Google News",
-          "published": "Sat, 22 Aug 2026 05:54:00 GMT"
-        },
-        {
-          "title": "공복 혈당 수치는 건강한 사람과 당뇨병 환자에게 안전합니다 - Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQTNMLXgyWHdRbHRlLWRYbEZRclktbXdWc3JFODdubkpBWjFvQnNZMVozRkdJVVU5ZkhXOE9sX3M2Skt0U2xnVkxmUnZJTTF2UkNBLWNPSktDWFVUZWlQSVNEc1lGcmpiY0VNQUloNVRTaG1xMjJBTXpfczhiUExlUnV4TFJRZHhCeTBUTEtNWEZId1pzVFF0SjBNYlNnZkxaNUtUNnVNSGFVRHgxY0dYWnR4cW8?oc=5",
-          "source": "Google News",
-          "published": "Sat, 22 Aug 2026 06:51:18 GMT"
         }
       ]
     },
@@ -192,62 +186,192 @@
       "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "오세훈, 용산공원에 주택공급 반대...대체부지 제안 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LWVR0dG11cEozZFFlSnFMZ1FBakR3dzBjNkNhcGM1NjFsaFRtV3FDQ0RjQi0xZkVQX2VqaXViaDFtOENsalU5aUs0TzRMMTdXU0pEdFF0QUhVbkhPRFE?oc=5",
+          "title": "오세훈 “용산공원 1㎝도 양보 못 해”…김영배 “자기 정치만” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8yRVRna0V6QlBKMWQ4U1pSWFpVQ0lmT3dJYzdrZ3MtbXZBR3pkcnlON0lsQXA2eV9IN2NRa0JMYXVNVE9WMU1IWWdNZVlSRHNhVEJWa1RmMWlKUWFSOHdkTFVWM0ZkR25jbXhCSTI2ZTJaX3hf?oc=5",
           "source": "Google News",
-          "published": "Sat, 22 Aug 2026 08:28:00 GMT"
+          "published": "Sat, 22 Aug 2026 09:01:00 GMT"
         }
       ]
     },
     {
-      "word": "주택공급",
+      "word": "1도",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "오세훈, 용산공원에 주택공급 반대...대체부지 제안 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LWVR0dG11cEozZFFlSnFMZ1FBakR3dzBjNkNhcGM1NjFsaFRtV3FDQ0RjQi0xZkVQX2VqaXViaDFtOENsalU5aUs0TzRMMTdXU0pEdFF0QUhVbkhPRFE?oc=5",
+          "title": "오세훈 “용산공원 1㎝도 양보 못 해”…김영배 “자기 정치만” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8yRVRna0V6QlBKMWQ4U1pSWFpVQ0lmT3dJYzdrZ3MtbXZBR3pkcnlON0lsQXA2eV9IN2NRa0JMYXVNVE9WMU1IWWdNZVlSRHNhVEJWa1RmMWlKUWFSOHdkTFVWM0ZkR25jbXhCSTI2ZTJaX3hf?oc=5",
           "source": "Google News",
-          "published": "Sat, 22 Aug 2026 08:28:00 GMT"
+          "published": "Sat, 22 Aug 2026 09:01:00 GMT"
         }
       ]
     },
     {
-      "word": "반대대체부지",
+      "word": "양보",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "오세훈, 용산공원에 주택공급 반대...대체부지 제안 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LWVR0dG11cEozZFFlSnFMZ1FBakR3dzBjNkNhcGM1NjFsaFRtV3FDQ0RjQi0xZkVQX2VqaXViaDFtOENsalU5aUs0TzRMMTdXU0pEdFF0QUhVbkhPRFE?oc=5",
+          "title": "오세훈 “용산공원 1㎝도 양보 못 해”…김영배 “자기 정치만” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8yRVRna0V6QlBKMWQ4U1pSWFpVQ0lmT3dJYzdrZ3MtbXZBR3pkcnlON0lsQXA2eV9IN2NRa0JMYXVNVE9WMU1IWWdNZVlSRHNhVEJWa1RmMWlKUWFSOHdkTFVWM0ZkR25jbXhCSTI2ZTJaX3hf?oc=5",
           "source": "Google News",
-          "published": "Sat, 22 Aug 2026 08:28:00 GMT"
+          "published": "Sat, 22 Aug 2026 09:01:00 GMT"
         }
       ]
     },
     {
-      "word": "제안",
+      "word": "해김영배",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "오세훈, 용산공원에 주택공급 반대...대체부지 제안 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LWVR0dG11cEozZFFlSnFMZ1FBakR3dzBjNkNhcGM1NjFsaFRtV3FDQ0RjQi0xZkVQX2VqaXViaDFtOENsalU5aUs0TzRMMTdXU0pEdFF0QUhVbkhPRFE?oc=5",
+          "title": "오세훈 “용산공원 1㎝도 양보 못 해”…김영배 “자기 정치만” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8yRVRna0V6QlBKMWQ4U1pSWFpVQ0lmT3dJYzdrZ3MtbXZBR3pkcnlON0lsQXA2eV9IN2NRa0JMYXVNVE9WMU1IWWdNZVlSRHNhVEJWa1RmMWlKUWFSOHdkTFVWM0ZkR25jbXhCSTI2ZTJaX3hf?oc=5",
           "source": "Google News",
-          "published": "Sat, 22 Aug 2026 08:28:00 GMT"
+          "published": "Sat, 22 Aug 2026 09:01:00 GMT"
         }
       ]
     },
     {
-      "word": "항소심서",
+      "word": "자기",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "항소심서 무죄 주장 오세훈 향해, 민주 “시민에 사과하는 게 먼저” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPeF85WHNYVGtJV1RUVFhtYnVWSzdnYjQyMUx6MVlLamdQRGtyNGp1LWhtUldZRlVucGJWNnBWeGpaV3BfNXN3X25KLUNOLVBybjBBQ05XSWR4SWdPNmVKcDR0UXlvYUdxOGc?oc=5",
+          "title": "오세훈 “용산공원 1㎝도 양보 못 해”…김영배 “자기 정치만” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8yRVRna0V6QlBKMWQ4U1pSWFpVQ0lmT3dJYzdrZ3MtbXZBR3pkcnlON0lsQXA2eV9IN2NRa0JMYXVNVE9WMU1IWWdNZVlSRHNhVEJWa1RmMWlKUWFSOHdkTFVWM0ZkR25jbXhCSTI2ZTJaX3hf?oc=5",
           "source": "Google News",
-          "published": "Sat, 22 Aug 2026 03:42:00 GMT"
+          "published": "Sat, 22 Aug 2026 09:01:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "정치",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "오세훈 “용산공원 1㎝도 양보 못 해”…김영배 “자기 정치만” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8yRVRna0V6QlBKMWQ4U1pSWFpVQ0lmT3dJYzdrZ3MtbXZBR3pkcnlON0lsQXA2eV9IN2NRa0JMYXVNVE9WMU1IWWdNZVlSRHNhVEJWa1RmMWlKUWFSOHdkTFVWM0ZkR25jbXhCSTI2ZTJaX3hf?oc=5",
+          "source": "Google News",
+          "published": "Sat, 22 Aug 2026 09:01:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "봉은사",
+      "count": 1,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "봉은사 주지 지낸 명진스님 입적···제주서 프리다이빙 사고 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RUWZfcm4zUXYwQUhoR2x4UWUzd2M5T2hVaVFmdF9yY1oydEI0T3gyWVBWUWl0a0VQaE5zM2NXaHFVLWRYWUl5cDB3bWVFR2VQZGs1RHJ4WThwQdIBX0FVX3lxTE9OZEwyRTRtWkxvZ1A4VG1TZFI4MkFoNmdrVXNHWUNyY1FWX1ZKeGxvR29xd21BaWlrQ21ETjQzNE5WUGNVRU03aGRnLXZ2OWVQZ0F1bllNUUlvdGtkM0hF?oc=5",
+          "source": "Google News",
+          "published": "Sat, 22 Aug 2026 07:04:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "주지",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "봉은사 주지 지낸 명진스님 입적···제주서 프리다이빙 사고 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RUWZfcm4zUXYwQUhoR2x4UWUzd2M5T2hVaVFmdF9yY1oydEI0T3gyWVBWUWl0a0VQaE5zM2NXaHFVLWRYWUl5cDB3bWVFR2VQZGs1RHJ4WThwQdIBX0FVX3lxTE9OZEwyRTRtWkxvZ1A4VG1TZFI4MkFoNmdrVXNHWUNyY1FWX1ZKeGxvR29xd21BaWlrQ21ETjQzNE5WUGNVRU03aGRnLXZ2OWVQZ0F1bllNUUlvdGtkM0hF?oc=5",
+          "source": "Google News",
+          "published": "Sat, 22 Aug 2026 07:04:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "지낸",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "봉은사 주지 지낸 명진스님 입적···제주서 프리다이빙 사고 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RUWZfcm4zUXYwQUhoR2x4UWUzd2M5T2hVaVFmdF9yY1oydEI0T3gyWVBWUWl0a0VQaE5zM2NXaHFVLWRYWUl5cDB3bWVFR2VQZGs1RHJ4WThwQdIBX0FVX3lxTE9OZEwyRTRtWkxvZ1A4VG1TZFI4MkFoNmdrVXNHWUNyY1FWX1ZKeGxvR29xd21BaWlrQ21ETjQzNE5WUGNVRU03aGRnLXZ2OWVQZ0F1bllNUUlvdGtkM0hF?oc=5",
+          "source": "Google News",
+          "published": "Sat, 22 Aug 2026 07:04:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "명진스님",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "봉은사 주지 지낸 명진스님 입적···제주서 프리다이빙 사고 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RUWZfcm4zUXYwQUhoR2x4UWUzd2M5T2hVaVFmdF9yY1oydEI0T3gyWVBWUWl0a0VQaE5zM2NXaHFVLWRYWUl5cDB3bWVFR2VQZGs1RHJ4WThwQdIBX0FVX3lxTE9OZEwyRTRtWkxvZ1A4VG1TZFI4MkFoNmdrVXNHWUNyY1FWX1ZKeGxvR29xd21BaWlrQ21ETjQzNE5WUGNVRU03aGRnLXZ2OWVQZ0F1bllNUUlvdGtkM0hF?oc=5",
+          "source": "Google News",
+          "published": "Sat, 22 Aug 2026 07:04:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "입적제주서",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "봉은사 주지 지낸 명진스님 입적···제주서 프리다이빙 사고 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RUWZfcm4zUXYwQUhoR2x4UWUzd2M5T2hVaVFmdF9yY1oydEI0T3gyWVBWUWl0a0VQaE5zM2NXaHFVLWRYWUl5cDB3bWVFR2VQZGs1RHJ4WThwQdIBX0FVX3lxTE9OZEwyRTRtWkxvZ1A4VG1TZFI4MkFoNmdrVXNHWUNyY1FWX1ZKeGxvR29xd21BaWlrQ21ETjQzNE5WUGNVRU03aGRnLXZ2OWVQZ0F1bllNUUlvdGtkM0hF?oc=5",
+          "source": "Google News",
+          "published": "Sat, 22 Aug 2026 07:04:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "프리다이빙",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "봉은사 주지 지낸 명진스님 입적···제주서 프리다이빙 사고 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RUWZfcm4zUXYwQUhoR2x4UWUzd2M5T2hVaVFmdF9yY1oydEI0T3gyWVBWUWl0a0VQaE5zM2NXaHFVLWRYWUl5cDB3bWVFR2VQZGs1RHJ4WThwQdIBX0FVX3lxTE9OZEwyRTRtWkxvZ1A4VG1TZFI4MkFoNmdrVXNHWUNyY1FWX1ZKeGxvR29xd21BaWlrQ21ETjQzNE5WUGNVRU03aGRnLXZ2OWVQZ0F1bllNUUlvdGtkM0hF?oc=5",
+          "source": "Google News",
+          "published": "Sat, 22 Aug 2026 07:04:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "사고",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "봉은사 주지 지낸 명진스님 입적···제주서 프리다이빙 사고 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RUWZfcm4zUXYwQUhoR2x4UWUzd2M5T2hVaVFmdF9yY1oydEI0T3gyWVBWUWl0a0VQaE5zM2NXaHFVLWRYWUl5cDB3bWVFR2VQZGs1RHJ4WThwQdIBX0FVX3lxTE9OZEwyRTRtWkxvZ1A4VG1TZFI4MkFoNmdrVXNHWUNyY1FWX1ZKeGxvR29xd21BaWlrQ21ETjQzNE5WUGNVRU03aGRnLXZ2OWVQZ0F1bllNUUlvdGtkM0hF?oc=5",
+          "source": "Google News",
+          "published": "Sat, 22 Aug 2026 07:04:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "여론조사",
+      "count": 1,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "민주당, '여론조사 대납' 무죄 주장 오세훈에 \"무죄 프레임에만 골몰‥민생 뒷전\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsTTVpUmpXVGxFY0JMdXNiZ2R1V0Zva1lMQ3hWODR4TXAwX2ZpVWZ6X0doMkVnQm45V3M1YnhUUnhDcVAzb0VRRDNHeG5Hcm1Wdkk0ZUZ5ejVxYnhNQXE4TXE4enp5ZTJwOWpYVFp1d1hoVGZ2NUFzdtIBeEFVX3lxTFByVkRERG94eW9wUDdxQVF1MmJJSVlqalZ3UEN5c2RnQlZnNklmdEttUV9mQW5FbjFqM3FTUW0xczhTZVFNQ3pnLWpydmR5S24ybXhTZVRLamlNSmgydk1DSm9pYnY4eVRGZXFVQ1lhOW1uWFhERUVucw?oc=5",
+          "source": "Google News",
+          "published": "Sat, 22 Aug 2026 02:35:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "대납",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "민주당, '여론조사 대납' 무죄 주장 오세훈에 \"무죄 프레임에만 골몰‥민생 뒷전\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsTTVpUmpXVGxFY0JMdXNiZ2R1V0Zva1lMQ3hWODR4TXAwX2ZpVWZ6X0doMkVnQm45V3M1YnhUUnhDcVAzb0VRRDNHeG5Hcm1Wdkk0ZUZ5ejVxYnhNQXE4TXE4enp5ZTJwOWpYVFp1d1hoVGZ2NUFzdtIBeEFVX3lxTFByVkRERG94eW9wUDdxQVF1MmJJSVlqalZ3UEN5c2RnQlZnNklmdEttUV9mQW5FbjFqM3FTUW0xczhTZVFNQ3pnLWpydmR5S24ybXhTZVRLamlNSmgydk1DSm9pYnY4eVRGZXFVQ1lhOW1uWFhERUVucw?oc=5",
+          "source": "Google News",
+          "published": "Sat, 22 Aug 2026 02:35:00 GMT"
         }
       ]
     },
@@ -257,166 +381,153 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "항소심서 무죄 주장 오세훈 향해, 민주 “시민에 사과하는 게 먼저” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPeF85WHNYVGtJV1RUVFhtYnVWSzdnYjQyMUx6MVlLamdQRGtyNGp1LWhtUldZRlVucGJWNnBWeGpaV3BfNXN3X25KLUNOLVBybjBBQ05XSWR4SWdPNmVKcDR0UXlvYUdxOGc?oc=5",
+          "title": "민주당, '여론조사 대납' 무죄 주장 오세훈에 \"무죄 프레임에만 골몰‥민생 뒷전\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsTTVpUmpXVGxFY0JMdXNiZ2R1V0Zva1lMQ3hWODR4TXAwX2ZpVWZ6X0doMkVnQm45V3M1YnhUUnhDcVAzb0VRRDNHeG5Hcm1Wdkk0ZUZ5ejVxYnhNQXE4TXE4enp5ZTJwOWpYVFp1d1hoVGZ2NUFzdtIBeEFVX3lxTFByVkRERG94eW9wUDdxQVF1MmJJSVlqalZ3UEN5c2RnQlZnNklmdEttUV9mQW5FbjFqM3FTUW0xczhTZVFNQ3pnLWpydmR5S24ybXhTZVRLamlNSmgydk1DSm9pYnY4eVRGZXFVQ1lhOW1uWFhERUVucw?oc=5",
           "source": "Google News",
-          "published": "Sat, 22 Aug 2026 03:42:00 GMT"
+          "published": "Sat, 22 Aug 2026 02:35:00 GMT"
         }
       ]
     },
     {
-      "word": "향해",
+      "word": "프레임",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "항소심서 무죄 주장 오세훈 향해, 민주 “시민에 사과하는 게 먼저” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPeF85WHNYVGtJV1RUVFhtYnVWSzdnYjQyMUx6MVlLamdQRGtyNGp1LWhtUldZRlVucGJWNnBWeGpaV3BfNXN3X25KLUNOLVBybjBBQ05XSWR4SWdPNmVKcDR0UXlvYUdxOGc?oc=5",
+          "title": "민주당, '여론조사 대납' 무죄 주장 오세훈에 \"무죄 프레임에만 골몰‥민생 뒷전\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsTTVpUmpXVGxFY0JMdXNiZ2R1V0Zva1lMQ3hWODR4TXAwX2ZpVWZ6X0doMkVnQm45V3M1YnhUUnhDcVAzb0VRRDNHeG5Hcm1Wdkk0ZUZ5ejVxYnhNQXE4TXE4enp5ZTJwOWpYVFp1d1hoVGZ2NUFzdtIBeEFVX3lxTFByVkRERG94eW9wUDdxQVF1MmJJSVlqalZ3UEN5c2RnQlZnNklmdEttUV9mQW5FbjFqM3FTUW0xczhTZVFNQ3pnLWpydmR5S24ybXhTZVRLamlNSmgydk1DSm9pYnY4eVRGZXFVQ1lhOW1uWFhERUVucw?oc=5",
           "source": "Google News",
-          "published": "Sat, 22 Aug 2026 03:42:00 GMT"
+          "published": "Sat, 22 Aug 2026 02:35:00 GMT"
         }
       ]
     },
     {
-      "word": "시민",
+      "word": "골몰민생",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "항소심서 무죄 주장 오세훈 향해, 민주 “시민에 사과하는 게 먼저” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPeF85WHNYVGtJV1RUVFhtYnVWSzdnYjQyMUx6MVlLamdQRGtyNGp1LWhtUldZRlVucGJWNnBWeGpaV3BfNXN3X25KLUNOLVBybjBBQ05XSWR4SWdPNmVKcDR0UXlvYUdxOGc?oc=5",
+          "title": "민주당, '여론조사 대납' 무죄 주장 오세훈에 \"무죄 프레임에만 골몰‥민생 뒷전\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsTTVpUmpXVGxFY0JMdXNiZ2R1V0Zva1lMQ3hWODR4TXAwX2ZpVWZ6X0doMkVnQm45V3M1YnhUUnhDcVAzb0VRRDNHeG5Hcm1Wdkk0ZUZ5ejVxYnhNQXE4TXE4enp5ZTJwOWpYVFp1d1hoVGZ2NUFzdtIBeEFVX3lxTFByVkRERG94eW9wUDdxQVF1MmJJSVlqalZ3UEN5c2RnQlZnNklmdEttUV9mQW5FbjFqM3FTUW0xczhTZVFNQ3pnLWpydmR5S24ybXhTZVRLamlNSmgydk1DSm9pYnY4eVRGZXFVQ1lhOW1uWFhERUVucw?oc=5",
           "source": "Google News",
-          "published": "Sat, 22 Aug 2026 03:42:00 GMT"
+          "published": "Sat, 22 Aug 2026 02:35:00 GMT"
         }
       ]
     },
     {
-      "word": "사과",
+      "word": "뒷전",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "항소심서 무죄 주장 오세훈 향해, 민주 “시민에 사과하는 게 먼저” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPeF85WHNYVGtJV1RUVFhtYnVWSzdnYjQyMUx6MVlLamdQRGtyNGp1LWhtUldZRlVucGJWNnBWeGpaV3BfNXN3X25KLUNOLVBybjBBQ05XSWR4SWdPNmVKcDR0UXlvYUdxOGc?oc=5",
+          "title": "민주당, '여론조사 대납' 무죄 주장 오세훈에 \"무죄 프레임에만 골몰‥민생 뒷전\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsTTVpUmpXVGxFY0JMdXNiZ2R1V0Zva1lMQ3hWODR4TXAwX2ZpVWZ6X0doMkVnQm45V3M1YnhUUnhDcVAzb0VRRDNHeG5Hcm1Wdkk0ZUZ5ejVxYnhNQXE4TXE4enp5ZTJwOWpYVFp1d1hoVGZ2NUFzdtIBeEFVX3lxTFByVkRERG94eW9wUDdxQVF1MmJJSVlqalZ3UEN5c2RnQlZnNklmdEttUV9mQW5FbjFqM3FTUW0xczhTZVFNQ3pnLWpydmR5S24ybXhTZVRLamlNSmgydk1DSm9pYnY4eVRGZXFVQ1lhOW1uWFhERUVucw?oc=5",
           "source": "Google News",
-          "published": "Sat, 22 Aug 2026 03:42:00 GMT"
+          "published": "Sat, 22 Aug 2026 02:35:00 GMT"
         }
       ]
     },
     {
-      "word": "먼저",
+      "word": "한미훈련",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "항소심서 무죄 주장 오세훈 향해, 민주 “시민에 사과하는 게 먼저” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPeF85WHNYVGtJV1RUVFhtYnVWSzdnYjQyMUx6MVlLamdQRGtyNGp1LWhtUldZRlVucGJWNnBWeGpaV3BfNXN3X25KLUNOLVBybjBBQ05XSWR4SWdPNmVKcDR0UXlvYUdxOGc?oc=5",
+          "title": "한미훈련 축소에 놀란 동맹국들…“美 의존 줄이자” 자강 속도전 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwczk3eFRNOTR4d0Q4Wm5iQ2ZiSklVTmJYODFjUDI2OFpNTTlmUHhDcTFkX1U0SUl2NnAtUG1rc1pENjhsdjBrMFlua1d6eDlDMEl6RWo5b0JJQzRVZm5veGJub0U4UTRKdVBhc3hWbkpCaDDSAWZBVV95cUxPV0JiSzNMMHRIeGpkRUNDT055Qi1pTW5RVzdNVjVkN2tnZUJqTjQ0Y0hhZXhLUmc3VlVwbFczX09RaEh6cUpwQUFWVjdpRnBXSTMxdnJGbjI1VlRhTU9tRFJiM3FLNnc?oc=5",
           "source": "Google News",
-          "published": "Sat, 22 Aug 2026 03:42:00 GMT"
+          "published": "Fri, 21 Aug 2026 04:47:00 GMT"
         }
       ]
     },
     {
-      "word": "조희대",
+      "word": "축소",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "野, 조희대 증인 채택에 “사법부 장악 쿠데타…탄핵 사전 청문회” - 경기일보",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tZTUwRmxHY0lkWnpVdi1VX1JQWTVFQ0VIMll1MXhiSlJBb1Npd2FDVndUSngzeFhxZXZBVlpSUDVNcFVFSzJTX3llNllrejVoRmNZNUczdGdacDg?oc=5",
+          "title": "한미훈련 축소에 놀란 동맹국들…“美 의존 줄이자” 자강 속도전 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwczk3eFRNOTR4d0Q4Wm5iQ2ZiSklVTmJYODFjUDI2OFpNTTlmUHhDcTFkX1U0SUl2NnAtUG1rc1pENjhsdjBrMFlua1d6eDlDMEl6RWo5b0JJQzRVZm5veGJub0U4UTRKdVBhc3hWbkpCaDDSAWZBVV95cUxPV0JiSzNMMHRIeGpkRUNDT055Qi1pTW5RVzdNVjVkN2tnZUJqTjQ0Y0hhZXhLUmc3VlVwbFczX09RaEh6cUpwQUFWVjdpRnBXSTMxdnJGbjI1VlRhTU9tRFJiM3FLNnc?oc=5",
           "source": "Google News",
-          "published": "Sat, 22 Aug 2026 06:39:01 GMT"
+          "published": "Fri, 21 Aug 2026 04:47:00 GMT"
         }
       ]
     },
     {
-      "word": "증인",
+      "word": "놀란",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "野, 조희대 증인 채택에 “사법부 장악 쿠데타…탄핵 사전 청문회” - 경기일보",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tZTUwRmxHY0lkWnpVdi1VX1JQWTVFQ0VIMll1MXhiSlJBb1Npd2FDVndUSngzeFhxZXZBVlpSUDVNcFVFSzJTX3llNllrejVoRmNZNUczdGdacDg?oc=5",
+          "title": "한미훈련 축소에 놀란 동맹국들…“美 의존 줄이자” 자강 속도전 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwczk3eFRNOTR4d0Q4Wm5iQ2ZiSklVTmJYODFjUDI2OFpNTTlmUHhDcTFkX1U0SUl2NnAtUG1rc1pENjhsdjBrMFlua1d6eDlDMEl6RWo5b0JJQzRVZm5veGJub0U4UTRKdVBhc3hWbkpCaDDSAWZBVV95cUxPV0JiSzNMMHRIeGpkRUNDT055Qi1pTW5RVzdNVjVkN2tnZUJqTjQ0Y0hhZXhLUmc3VlVwbFczX09RaEh6cUpwQUFWVjdpRnBXSTMxdnJGbjI1VlRhTU9tRFJiM3FLNnc?oc=5",
           "source": "Google News",
-          "published": "Sat, 22 Aug 2026 06:39:01 GMT"
+          "published": "Fri, 21 Aug 2026 04:47:00 GMT"
         }
       ]
     },
     {
-      "word": "채택",
+      "word": "동맹국",
+      "count": 1,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "한미훈련 축소에 놀란 동맹국들…“美 의존 줄이자” 자강 속도전 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwczk3eFRNOTR4d0Q4Wm5iQ2ZiSklVTmJYODFjUDI2OFpNTTlmUHhDcTFkX1U0SUl2NnAtUG1rc1pENjhsdjBrMFlua1d6eDlDMEl6RWo5b0JJQzRVZm5veGJub0U4UTRKdVBhc3hWbkpCaDDSAWZBVV95cUxPV0JiSzNMMHRIeGpkRUNDT055Qi1pTW5RVzdNVjVkN2tnZUJqTjQ0Y0hhZXhLUmc3VlVwbFczX09RaEh6cUpwQUFWVjdpRnBXSTMxdnJGbjI1VlRhTU9tRFJiM3FLNnc?oc=5",
+          "source": "Google News",
+          "published": "Fri, 21 Aug 2026 04:47:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "의존",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "野, 조희대 증인 채택에 “사법부 장악 쿠데타…탄핵 사전 청문회” - 경기일보",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tZTUwRmxHY0lkWnpVdi1VX1JQWTVFQ0VIMll1MXhiSlJBb1Npd2FDVndUSngzeFhxZXZBVlpSUDVNcFVFSzJTX3llNllrejVoRmNZNUczdGdacDg?oc=5",
+          "title": "한미훈련 축소에 놀란 동맹국들…“美 의존 줄이자” 자강 속도전 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwczk3eFRNOTR4d0Q4Wm5iQ2ZiSklVTmJYODFjUDI2OFpNTTlmUHhDcTFkX1U0SUl2NnAtUG1rc1pENjhsdjBrMFlua1d6eDlDMEl6RWo5b0JJQzRVZm5veGJub0U4UTRKdVBhc3hWbkpCaDDSAWZBVV95cUxPV0JiSzNMMHRIeGpkRUNDT055Qi1pTW5RVzdNVjVkN2tnZUJqTjQ0Y0hhZXhLUmc3VlVwbFczX09RaEh6cUpwQUFWVjdpRnBXSTMxdnJGbjI1VlRhTU9tRFJiM3FLNnc?oc=5",
           "source": "Google News",
-          "published": "Sat, 22 Aug 2026 06:39:01 GMT"
+          "published": "Fri, 21 Aug 2026 04:47:00 GMT"
         }
       ]
     },
     {
-      "word": "사법부",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "野, 조희대 증인 채택에 “사법부 장악 쿠데타…탄핵 사전 청문회” - 경기일보",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tZTUwRmxHY0lkWnpVdi1VX1JQWTVFQ0VIMll1MXhiSlJBb1Npd2FDVndUSngzeFhxZXZBVlpSUDVNcFVFSzJTX3llNllrejVoRmNZNUczdGdacDg?oc=5",
-          "source": "Google News",
-          "published": "Sat, 22 Aug 2026 06:39:01 GMT"
-        }
-      ]
-    },
-    {
-      "word": "장악",
+      "word": "줄이자",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "野, 조희대 증인 채택에 “사법부 장악 쿠데타…탄핵 사전 청문회” - 경기일보",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tZTUwRmxHY0lkWnpVdi1VX1JQWTVFQ0VIMll1MXhiSlJBb1Npd2FDVndUSngzeFhxZXZBVlpSUDVNcFVFSzJTX3llNllrejVoRmNZNUczdGdacDg?oc=5",
+          "title": "한미훈련 축소에 놀란 동맹국들…“美 의존 줄이자” 자강 속도전 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwczk3eFRNOTR4d0Q4Wm5iQ2ZiSklVTmJYODFjUDI2OFpNTTlmUHhDcTFkX1U0SUl2NnAtUG1rc1pENjhsdjBrMFlua1d6eDlDMEl6RWo5b0JJQzRVZm5veGJub0U4UTRKdVBhc3hWbkpCaDDSAWZBVV95cUxPV0JiSzNMMHRIeGpkRUNDT055Qi1pTW5RVzdNVjVkN2tnZUJqTjQ0Y0hhZXhLUmc3VlVwbFczX09RaEh6cUpwQUFWVjdpRnBXSTMxdnJGbjI1VlRhTU9tRFJiM3FLNnc?oc=5",
           "source": "Google News",
-          "published": "Sat, 22 Aug 2026 06:39:01 GMT"
+          "published": "Fri, 21 Aug 2026 04:47:00 GMT"
         }
       ]
     },
     {
-      "word": "쿠데타탄핵",
+      "word": "자강",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "野, 조희대 증인 채택에 “사법부 장악 쿠데타…탄핵 사전 청문회” - 경기일보",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tZTUwRmxHY0lkWnpVdi1VX1JQWTVFQ0VIMll1MXhiSlJBb1Npd2FDVndUSngzeFhxZXZBVlpSUDVNcFVFSzJTX3llNllrejVoRmNZNUczdGdacDg?oc=5",
+          "title": "한미훈련 축소에 놀란 동맹국들…“美 의존 줄이자” 자강 속도전 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwczk3eFRNOTR4d0Q4Wm5iQ2ZiSklVTmJYODFjUDI2OFpNTTlmUHhDcTFkX1U0SUl2NnAtUG1rc1pENjhsdjBrMFlua1d6eDlDMEl6RWo5b0JJQzRVZm5veGJub0U4UTRKdVBhc3hWbkpCaDDSAWZBVV95cUxPV0JiSzNMMHRIeGpkRUNDT055Qi1pTW5RVzdNVjVkN2tnZUJqTjQ0Y0hhZXhLUmc3VlVwbFczX09RaEh6cUpwQUFWVjdpRnBXSTMxdnJGbjI1VlRhTU9tRFJiM3FLNnc?oc=5",
           "source": "Google News",
-          "published": "Sat, 22 Aug 2026 06:39:01 GMT"
+          "published": "Fri, 21 Aug 2026 04:47:00 GMT"
         }
       ]
     },
     {
-      "word": "사전",
+      "word": "속도전",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "野, 조희대 증인 채택에 “사법부 장악 쿠데타…탄핵 사전 청문회” - 경기일보",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tZTUwRmxHY0lkWnpVdi1VX1JQWTVFQ0VIMll1MXhiSlJBb1Npd2FDVndUSngzeFhxZXZBVlpSUDVNcFVFSzJTX3llNllrejVoRmNZNUczdGdacDg?oc=5",
+          "title": "한미훈련 축소에 놀란 동맹국들…“美 의존 줄이자” 자강 속도전 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwczk3eFRNOTR4d0Q4Wm5iQ2ZiSklVTmJYODFjUDI2OFpNTTlmUHhDcTFkX1U0SUl2NnAtUG1rc1pENjhsdjBrMFlua1d6eDlDMEl6RWo5b0JJQzRVZm5veGJub0U4UTRKdVBhc3hWbkpCaDDSAWZBVV95cUxPV0JiSzNMMHRIeGpkRUNDT055Qi1pTW5RVzdNVjVkN2tnZUJqTjQ0Y0hhZXhLUmc3VlVwbFczX09RaEh6cUpwQUFWVjdpRnBXSTMxdnJGbjI1VlRhTU9tRFJiM3FLNnc?oc=5",
           "source": "Google News",
-          "published": "Sat, 22 Aug 2026 06:39:01 GMT"
-        }
-      ]
-    },
-    {
-      "word": "청문회",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "野, 조희대 증인 채택에 “사법부 장악 쿠데타…탄핵 사전 청문회” - 경기일보",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tZTUwRmxHY0lkWnpVdi1VX1JQWTVFQ0VIMll1MXhiSlJBb1Npd2FDVndUSngzeFhxZXZBVlpSUDVNcFVFSzJTX3llNllrejVoRmNZNUczdGdacDg?oc=5",
-          "source": "Google News",
-          "published": "Sat, 22 Aug 2026 06:39:01 GMT"
+          "published": "Fri, 21 Aug 2026 04:47:00 GMT"
         }
       ]
     },
@@ -469,123 +580,6 @@
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVnVkM25TUjJEWWxGcDl6OE9BVE9reTZkQjZwTks0dzA2TjFBR1VPTjlYSFNTYkktTU1yZlZiNnpvNTE1YWtvNjdaRHN2QkNVcDF3TXVudTFNbnpTTDZ5QVN6d3ozYU04NWh5dGg4QWt6SVFTeWF5dlVoTGRvSkRLTUNvWk9tUQ?oc=5",
           "source": "Google News",
           "published": "Sat, 22 Aug 2026 05:24:02 GMT"
-        }
-      ]
-    },
-    {
-      "word": "녹음파일",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "한동훈 “與 ‘노웅래 무죄’에 억울한 척...국회서 녹음파일 틀어보자” - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVnVkM25TUjJEWWxGcDl6OE9BVE9reTZkQjZwTks0dzA2TjFBR1VPTjlYSFNTYkktTU1yZlZiNnpvNTE1YWtvNjdaRHN2QkNVcDF3TXVudTFNbnpTTDZ5QVN6d3ozYU04NWh5dGg4QWt6SVFTeWF5dlVoTGRvSkRLTUNvWk9tUQ?oc=5",
-          "source": "Google News",
-          "published": "Sat, 22 Aug 2026 05:24:02 GMT"
-        }
-      ]
-    },
-    {
-      "word": "틀어보자",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "한동훈 “與 ‘노웅래 무죄’에 억울한 척...국회서 녹음파일 틀어보자” - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVnVkM25TUjJEWWxGcDl6OE9BVE9reTZkQjZwTks0dzA2TjFBR1VPTjlYSFNTYkktTU1yZlZiNnpvNTE1YWtvNjdaRHN2QkNVcDF3TXVudTFNbnpTTDZ5QVN6d3ozYU04NWh5dGg4QWt6SVFTeWF5dlVoTGRvSkRLTUNvWk9tUQ?oc=5",
-          "source": "Google News",
-          "published": "Sat, 22 Aug 2026 05:24:02 GMT"
-        }
-      ]
-    },
-    {
-      "word": "15분",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "15분 만에 숨은 적 식별…드론 이어 상업 위성도 ‘전술무기’ 됐다 - 중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zcEV5M09DZmhRN3dfU0dUNnM1TlAyeHRiOFFfMTJiUjNKR2c3YVYtQ09wdXZQdXlRbmJ1QTVmeGN0aVlROHcxdkotcXJSb0kzUXBTOXB3?oc=5",
-          "source": "Google News",
-          "published": "Fri, 21 Aug 2026 21:00:03 GMT"
-        }
-      ]
-    },
-    {
-      "word": "만에",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "15분 만에 숨은 적 식별…드론 이어 상업 위성도 ‘전술무기’ 됐다 - 중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zcEV5M09DZmhRN3dfU0dUNnM1TlAyeHRiOFFfMTJiUjNKR2c3YVYtQ09wdXZQdXlRbmJ1QTVmeGN0aVlROHcxdkotcXJSb0kzUXBTOXB3?oc=5",
-          "source": "Google News",
-          "published": "Fri, 21 Aug 2026 21:00:03 GMT"
-        }
-      ]
-    },
-    {
-      "word": "숨은",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "15분 만에 숨은 적 식별…드론 이어 상업 위성도 ‘전술무기’ 됐다 - 중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zcEV5M09DZmhRN3dfU0dUNnM1TlAyeHRiOFFfMTJiUjNKR2c3YVYtQ09wdXZQdXlRbmJ1QTVmeGN0aVlROHcxdkotcXJSb0kzUXBTOXB3?oc=5",
-          "source": "Google News",
-          "published": "Fri, 21 Aug 2026 21:00:03 GMT"
-        }
-      ]
-    },
-    {
-      "word": "식별드론",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "15분 만에 숨은 적 식별…드론 이어 상업 위성도 ‘전술무기’ 됐다 - 중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zcEV5M09DZmhRN3dfU0dUNnM1TlAyeHRiOFFfMTJiUjNKR2c3YVYtQ09wdXZQdXlRbmJ1QTVmeGN0aVlROHcxdkotcXJSb0kzUXBTOXB3?oc=5",
-          "source": "Google News",
-          "published": "Fri, 21 Aug 2026 21:00:03 GMT"
-        }
-      ]
-    },
-    {
-      "word": "이어",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "15분 만에 숨은 적 식별…드론 이어 상업 위성도 ‘전술무기’ 됐다 - 중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zcEV5M09DZmhRN3dfU0dUNnM1TlAyeHRiOFFfMTJiUjNKR2c3YVYtQ09wdXZQdXlRbmJ1QTVmeGN0aVlROHcxdkotcXJSb0kzUXBTOXB3?oc=5",
-          "source": "Google News",
-          "published": "Fri, 21 Aug 2026 21:00:03 GMT"
-        }
-      ]
-    },
-    {
-      "word": "상업",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "15분 만에 숨은 적 식별…드론 이어 상업 위성도 ‘전술무기’ 됐다 - 중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zcEV5M09DZmhRN3dfU0dUNnM1TlAyeHRiOFFfMTJiUjNKR2c3YVYtQ09wdXZQdXlRbmJ1QTVmeGN0aVlROHcxdkotcXJSb0kzUXBTOXB3?oc=5",
-          "source": "Google News",
-          "published": "Fri, 21 Aug 2026 21:00:03 GMT"
-        }
-      ]
-    },
-    {
-      "word": "위성",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "15분 만에 숨은 적 식별…드론 이어 상업 위성도 ‘전술무기’ 됐다 - 중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zcEV5M09DZmhRN3dfU0dUNnM1TlAyeHRiOFFfMTJiUjNKR2c3YVYtQ09wdXZQdXlRbmJ1QTVmeGN0aVlROHcxdkotcXJSb0kzUXBTOXB3?oc=5",
-          "source": "Google News",
-          "published": "Fri, 21 Aug 2026 21:00:03 GMT"
         }
       ]
     }
