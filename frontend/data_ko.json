@@ -1,6 +1,6 @@
 {
   "language": "ko",
-  "last_updated": 1787489568.6329277,
+  "last_updated": 1787492236.5967667,
   "count": 40,
   "trends": [
     {
@@ -61,6 +61,25 @@
       ]
     },
     {
+      "word": "서울",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "처서에도 무더위 계속... 서울 전역 폭염주의보 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMF8xVzk4SGg1aXJpbmcxRFNLZHN6RjJhMXBxc25YOHBpUGVnWmlzT1lFbDZiak1oMXZpSUFkQmU2UmhWVHhGVTFWckhRM0FjOUJsdTJOa1JCNjAtS2M5OGJobWNLM3M2dFJsR1FpTGR4eGdNd1NONUVLZ3NqckJ3Y0cwMGtaTkxVQTJGM0o4SlVrTnExdFdj?oc=5",
+          "source": "Google News",
+          "published": "Sun, 23 Aug 2026 04:14:19 GMT"
+        },
+        {
+          "title": "서울 아파트값 평균 16억 원 돌파...강북권 강세 - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pZGhsUlFIMVBwSkRYRXF3RVBpdGJQaE1tV3preTBLblpQQXE5V1lGckNoTjJsSi1PUWpFT3hqNW80WFQ5TjF0dWhrMENqYU5SNjFMZ2tvQUJPY0JoV2c?oc=5",
+          "source": "Google News",
+          "published": "Sun, 23 Aug 2026 09:48:00 GMT"
+        }
+      ]
+    },
+    {
       "word": "우크",
       "count": 2,
       "category": "NOUN",
@@ -80,25 +99,6 @@
       ]
     },
     {
-      "word": "NASA",
-      "count": 2,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "NASA 우주선 오픈소스 소프트웨어에 치명적 취약점…로그인 없이 장비 명령 실행 - 데일리시큐",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EUDNBMkpidk5sOUtnR0FPSW1OcjVOZl9WeGdyLXNCTUJrQ21ISHpWUVV2M2s1LXRBeGVYczJMS09Nb1pKYVJ4cFRwc2pHUzU3b1A5Yk9OWERibW9HQ0xfU1BkQUFTQTUwdVd1VQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 23 Aug 2026 12:24:20 GMT"
-        },
-        {
-          "title": "NASA, 달·화성 ‘인간 오염’ 경고…‘밀항 미생물’ 달 남극서 7일 생존 - 자유일보",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TRDdMYzkyQlNOSjAwR1p6N3AwYllWNXEyeXRQTVZRczM4cDVRODBsamVENDdFbWpuZ3ZwVmpuWUdpRVVPWXV1cUhrUHVwUFNNUGNObnQtWlZYa0ZIclVuUkhTUnhZM0pzUk040gFvQVVfeXFMUEQ3RnFGN3llR3BnTDJQSnpGVGJrRU5sejZDT1BCVm5OMm51ZjVpSFFOS1RrVnY5ZERSUXlOVVQybWxKRDZsalV0cGMwUThjYUFkN3VRcUxYTWpOQnFjUUo4bTFNZ2RCYnN4cjd6NHVN?oc=5",
-          "source": "Google News",
-          "published": "Sun, 23 Aug 2026 05:15:00 GMT"
-        }
-      ]
-    },
-    {
       "word": "세계선수권",
       "count": 2,
       "category": "NOUN",
@@ -114,97 +114,6 @@
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qcGhsd2xjTHhNNVJCMTRweVFlajJOdDdmLXp2eDlHblNGMUpmejVkTjRNWlMtczY2UzFqREcyU1FaOTRJNkhvbDNQaDk2Tk9COWx6RDdSTm1MTXPSAWBBVV95cUxOcWRaa2JocGJLa2swblozZFVLUDk0NXRtMjVvbUd2YVZZRUkwTVFhVWxZT3RaYUd6c2Y5UGF5TlZpV192UEpaMVhOMW91ejg2alFDbGJES2Y2WEhCc0FoQ0g?oc=5",
           "source": "Google News",
           "published": "Sun, 23 Aug 2026 10:21:42 GMT"
-        }
-      ]
-    },
-    {
-      "word": "제주",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "제주 실종 ‘허위 종결’ 또 있었다…재신고 하루 만에 백골 시신 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96T3Nvbk1rWjl4WTlYOVFBZkhqQ25wY3N5NEFsc256ekdPY3RHT3d0a1kyX1F3Qng5Rm9iWm50SXFPRWRnZnlGSmNRRFFPM2dzaU9aZXRrWlZLZ9IBX0FVX3lxTFBTeW5YM3VQZUl1ZjBUcTVLTDVCallaWk14TjZtR0YxN3pmcDZrcGlIa0xDNk05ODZBTjNsbndyRmNnM1BFSlJrdmtSazlvc3FWSEJBTXktbk4zODlBRm9R?oc=5",
-          "source": "Google News",
-          "published": "Sun, 23 Aug 2026 11:57:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "실종",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "제주 실종 ‘허위 종결’ 또 있었다…재신고 하루 만에 백골 시신 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96T3Nvbk1rWjl4WTlYOVFBZkhqQ25wY3N5NEFsc256ekdPY3RHT3d0a1kyX1F3Qng5Rm9iWm50SXFPRWRnZnlGSmNRRFFPM2dzaU9aZXRrWlZLZ9IBX0FVX3lxTFBTeW5YM3VQZUl1ZjBUcTVLTDVCallaWk14TjZtR0YxN3pmcDZrcGlIa0xDNk05ODZBTjNsbndyRmNnM1BFSlJrdmtSazlvc3FWSEJBTXktbk4zODlBRm9R?oc=5",
-          "source": "Google News",
-          "published": "Sun, 23 Aug 2026 11:57:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "허위",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "제주 실종 ‘허위 종결’ 또 있었다…재신고 하루 만에 백골 시신 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96T3Nvbk1rWjl4WTlYOVFBZkhqQ25wY3N5NEFsc256ekdPY3RHT3d0a1kyX1F3Qng5Rm9iWm50SXFPRWRnZnlGSmNRRFFPM2dzaU9aZXRrWlZLZ9IBX0FVX3lxTFBTeW5YM3VQZUl1ZjBUcTVLTDVCallaWk14TjZtR0YxN3pmcDZrcGlIa0xDNk05ODZBTjNsbndyRmNnM1BFSlJrdmtSazlvc3FWSEJBTXktbk4zODlBRm9R?oc=5",
-          "source": "Google News",
-          "published": "Sun, 23 Aug 2026 11:57:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "종결",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "제주 실종 ‘허위 종결’ 또 있었다…재신고 하루 만에 백골 시신 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96T3Nvbk1rWjl4WTlYOVFBZkhqQ25wY3N5NEFsc256ekdPY3RHT3d0a1kyX1F3Qng5Rm9iWm50SXFPRWRnZnlGSmNRRFFPM2dzaU9aZXRrWlZLZ9IBX0FVX3lxTFBTeW5YM3VQZUl1ZjBUcTVLTDVCallaWk14TjZtR0YxN3pmcDZrcGlIa0xDNk05ODZBTjNsbndyRmNnM1BFSlJrdmtSazlvc3FWSEJBTXktbk4zODlBRm9R?oc=5",
-          "source": "Google News",
-          "published": "Sun, 23 Aug 2026 11:57:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "있었다재신",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "제주 실종 ‘허위 종결’ 또 있었다…재신고 하루 만에 백골 시신 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96T3Nvbk1rWjl4WTlYOVFBZkhqQ25wY3N5NEFsc256ekdPY3RHT3d0a1kyX1F3Qng5Rm9iWm50SXFPRWRnZnlGSmNRRFFPM2dzaU9aZXRrWlZLZ9IBX0FVX3lxTFBTeW5YM3VQZUl1ZjBUcTVLTDVCallaWk14TjZtR0YxN3pmcDZrcGlIa0xDNk05ODZBTjNsbndyRmNnM1BFSlJrdmtSazlvc3FWSEJBTXktbk4zODlBRm9R?oc=5",
-          "source": "Google News",
-          "published": "Sun, 23 Aug 2026 11:57:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "백골",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "제주 실종 ‘허위 종결’ 또 있었다…재신고 하루 만에 백골 시신 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96T3Nvbk1rWjl4WTlYOVFBZkhqQ25wY3N5NEFsc256ekdPY3RHT3d0a1kyX1F3Qng5Rm9iWm50SXFPRWRnZnlGSmNRRFFPM2dzaU9aZXRrWlZLZ9IBX0FVX3lxTFBTeW5YM3VQZUl1ZjBUcTVLTDVCallaWk14TjZtR0YxN3pmcDZrcGlIa0xDNk05ODZBTjNsbndyRmNnM1BFSlJrdmtSazlvc3FWSEJBTXktbk4zODlBRm9R?oc=5",
-          "source": "Google News",
-          "published": "Sun, 23 Aug 2026 11:57:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "시신",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "제주 실종 ‘허위 종결’ 또 있었다…재신고 하루 만에 백골 시신 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96T3Nvbk1rWjl4WTlYOVFBZkhqQ25wY3N5NEFsc256ekdPY3RHT3d0a1kyX1F3Qng5Rm9iWm50SXFPRWRnZnlGSmNRRFFPM2dzaU9aZXRrWlZLZ9IBX0FVX3lxTFBTeW5YM3VQZUl1ZjBUcTVLTDVCallaWk14TjZtR0YxN3pmcDZrcGlIa0xDNk05ODZBTjNsbndyRmNnM1BFSlJrdmtSazlvc3FWSEJBTXktbk4zODlBRm9R?oc=5",
-          "source": "Google News",
-          "published": "Sun, 23 Aug 2026 11:57:00 GMT"
         }
       ]
     },
@@ -300,6 +209,162 @@
       ]
     },
     {
+      "word": "제주",
+      "count": 1,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "제주 실종 ‘허위 종결’ 또 있었다…재신고 하루 만에 백골 시신 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96T3Nvbk1rWjl4WTlYOVFBZkhqQ25wY3N5NEFsc256ekdPY3RHT3d0a1kyX1F3Qng5Rm9iWm50SXFPRWRnZnlGSmNRRFFPM2dzaU9aZXRrWlZLZ9IBX0FVX3lxTFBTeW5YM3VQZUl1ZjBUcTVLTDVCallaWk14TjZtR0YxN3pmcDZrcGlIa0xDNk05ODZBTjNsbndyRmNnM1BFSlJrdmtSazlvc3FWSEJBTXktbk4zODlBRm9R?oc=5",
+          "source": "Google News",
+          "published": "Sun, 23 Aug 2026 11:57:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "실종",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "제주 실종 ‘허위 종결’ 또 있었다…재신고 하루 만에 백골 시신 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96T3Nvbk1rWjl4WTlYOVFBZkhqQ25wY3N5NEFsc256ekdPY3RHT3d0a1kyX1F3Qng5Rm9iWm50SXFPRWRnZnlGSmNRRFFPM2dzaU9aZXRrWlZLZ9IBX0FVX3lxTFBTeW5YM3VQZUl1ZjBUcTVLTDVCallaWk14TjZtR0YxN3pmcDZrcGlIa0xDNk05ODZBTjNsbndyRmNnM1BFSlJrdmtSazlvc3FWSEJBTXktbk4zODlBRm9R?oc=5",
+          "source": "Google News",
+          "published": "Sun, 23 Aug 2026 11:57:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "허위",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "제주 실종 ‘허위 종결’ 또 있었다…재신고 하루 만에 백골 시신 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96T3Nvbk1rWjl4WTlYOVFBZkhqQ25wY3N5NEFsc256ekdPY3RHT3d0a1kyX1F3Qng5Rm9iWm50SXFPRWRnZnlGSmNRRFFPM2dzaU9aZXRrWlZLZ9IBX0FVX3lxTFBTeW5YM3VQZUl1ZjBUcTVLTDVCallaWk14TjZtR0YxN3pmcDZrcGlIa0xDNk05ODZBTjNsbndyRmNnM1BFSlJrdmtSazlvc3FWSEJBTXktbk4zODlBRm9R?oc=5",
+          "source": "Google News",
+          "published": "Sun, 23 Aug 2026 11:57:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "종결",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "제주 실종 ‘허위 종결’ 또 있었다…재신고 하루 만에 백골 시신 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96T3Nvbk1rWjl4WTlYOVFBZkhqQ25wY3N5NEFsc256ekdPY3RHT3d0a1kyX1F3Qng5Rm9iWm50SXFPRWRnZnlGSmNRRFFPM2dzaU9aZXRrWlZLZ9IBX0FVX3lxTFBTeW5YM3VQZUl1ZjBUcTVLTDVCallaWk14TjZtR0YxN3pmcDZrcGlIa0xDNk05ODZBTjNsbndyRmNnM1BFSlJrdmtSazlvc3FWSEJBTXktbk4zODlBRm9R?oc=5",
+          "source": "Google News",
+          "published": "Sun, 23 Aug 2026 11:57:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "있었다재신",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "제주 실종 ‘허위 종결’ 또 있었다…재신고 하루 만에 백골 시신 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96T3Nvbk1rWjl4WTlYOVFBZkhqQ25wY3N5NEFsc256ekdPY3RHT3d0a1kyX1F3Qng5Rm9iWm50SXFPRWRnZnlGSmNRRFFPM2dzaU9aZXRrWlZLZ9IBX0FVX3lxTFBTeW5YM3VQZUl1ZjBUcTVLTDVCallaWk14TjZtR0YxN3pmcDZrcGlIa0xDNk05ODZBTjNsbndyRmNnM1BFSlJrdmtSazlvc3FWSEJBTXktbk4zODlBRm9R?oc=5",
+          "source": "Google News",
+          "published": "Sun, 23 Aug 2026 11:57:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "백골",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "제주 실종 ‘허위 종결’ 또 있었다…재신고 하루 만에 백골 시신 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96T3Nvbk1rWjl4WTlYOVFBZkhqQ25wY3N5NEFsc256ekdPY3RHT3d0a1kyX1F3Qng5Rm9iWm50SXFPRWRnZnlGSmNRRFFPM2dzaU9aZXRrWlZLZ9IBX0FVX3lxTFBTeW5YM3VQZUl1ZjBUcTVLTDVCallaWk14TjZtR0YxN3pmcDZrcGlIa0xDNk05ODZBTjNsbndyRmNnM1BFSlJrdmtSazlvc3FWSEJBTXktbk4zODlBRm9R?oc=5",
+          "source": "Google News",
+          "published": "Sun, 23 Aug 2026 11:57:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "시신",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "제주 실종 ‘허위 종결’ 또 있었다…재신고 하루 만에 백골 시신 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96T3Nvbk1rWjl4WTlYOVFBZkhqQ25wY3N5NEFsc256ekdPY3RHT3d0a1kyX1F3Qng5Rm9iWm50SXFPRWRnZnlGSmNRRFFPM2dzaU9aZXRrWlZLZ9IBX0FVX3lxTFBTeW5YM3VQZUl1ZjBUcTVLTDVCallaWk14TjZtR0YxN3pmcDZrcGlIa0xDNk05ODZBTjNsbndyRmNnM1BFSlJrdmtSazlvc3FWSEJBTXktbk4zODlBRm9R?oc=5",
+          "source": "Google News",
+          "published": "Sun, 23 Aug 2026 11:57:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "대법관",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "대법관 14→26명으로…전문가들 “인선 제도, 더 투명해야” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Hc1VfOEtSWW5FT0VOajJHWEhiOURMUXY1cGVZTnlIUFR0R1hBZXI5ZHZaMndsN0wydmptdU9Gd2dkRlZxT2ZadzJ5WDdPYVlOeXRsYVBBNXU3UElBT3E2UUVyMGp2R0dpdkZ1c2xXTldWdw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 23 Aug 2026 10:46:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "1426명으로전문",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "대법관 14→26명으로…전문가들 “인선 제도, 더 투명해야” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Hc1VfOEtSWW5FT0VOajJHWEhiOURMUXY1cGVZTnlIUFR0R1hBZXI5ZHZaMndsN0wydmptdU9Gd2dkRlZxT2ZadzJ5WDdPYVlOeXRsYVBBNXU3UElBT3E2UUVyMGp2R0dpdkZ1c2xXTldWdw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 23 Aug 2026 10:46:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "인선",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "대법관 14→26명으로…전문가들 “인선 제도, 더 투명해야” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Hc1VfOEtSWW5FT0VOajJHWEhiOURMUXY1cGVZTnlIUFR0R1hBZXI5ZHZaMndsN0wydmptdU9Gd2dkRlZxT2ZadzJ5WDdPYVlOeXRsYVBBNXU3UElBT3E2UUVyMGp2R0dpdkZ1c2xXTldWdw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 23 Aug 2026 10:46:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "제도",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "대법관 14→26명으로…전문가들 “인선 제도, 더 투명해야” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Hc1VfOEtSWW5FT0VOajJHWEhiOURMUXY1cGVZTnlIUFR0R1hBZXI5ZHZaMndsN0wydmptdU9Gd2dkRlZxT2ZadzJ5WDdPYVlOeXRsYVBBNXU3UElBT3E2UUVyMGp2R0dpdkZ1c2xXTldWdw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 23 Aug 2026 10:46:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "투명해야",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "대법관 14→26명으로…전문가들 “인선 제도, 더 투명해야” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Hc1VfOEtSWW5FT0VOajJHWEhiOURMUXY1cGVZTnlIUFR0R1hBZXI5ZHZaMndsN0wydmptdU9Gd2dkRlZxT2ZadzJ5WDdPYVlOeXRsYVBBNXU3UElBT3E2UUVyMGp2R0dpdkZ1c2xXTldWdw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 23 Aug 2026 10:46:00 GMT"
+        }
+      ]
+    },
+    {
       "word": "이란",
       "count": 1,
       "category": "NOUN",
@@ -391,171 +456,106 @@
       ]
     },
     {
-      "word": "홍준표",
+      "word": "장동혁",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "홍준표 “조선제일껌” 한동훈 또 직격…‘노웅래 녹취록’ 공개 주장에 “무식” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RZ1RhSFVldmxaa0diLXJ4dkJteC1KaUl1UHNwdWo2aHptNmVxd1Y5WF9iVlFwMnVYZkFGeHZMV05nMTVOX2VsWERWMVV1QXJxRFBoZ2I1UVZqQWY3amNhV2xYekVPVE9ZY0NhUTVtd1BRZ3B6?oc=5",
+          "title": "장동혁, 당협위원장 254명 전원 재선출 강행하나…국힘 ‘폭풍전야’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIcUJRTVFqWktLM194RkR3am1WMUVCNGYyT1k5RFJIclRsMnBOTmpoYUp3REloaXlqTEIxYUQwRW81OGRXZFlIZlB5bk9zWjlYUGNxWWczMXdhamhIVHp5SWpIaWR0d3J1WUdOMWh5RjNHcm5Y?oc=5",
           "source": "Google News",
-          "published": "Sun, 23 Aug 2026 07:57:00 GMT"
+          "published": "Sun, 23 Aug 2026 10:37:00 GMT"
         }
       ]
     },
     {
-      "word": "조선제일껌",
+      "word": "당협위원장",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "홍준표 “조선제일껌” 한동훈 또 직격…‘노웅래 녹취록’ 공개 주장에 “무식” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RZ1RhSFVldmxaa0diLXJ4dkJteC1KaUl1UHNwdWo2aHptNmVxd1Y5WF9iVlFwMnVYZkFGeHZMV05nMTVOX2VsWERWMVV1QXJxRFBoZ2I1UVZqQWY3amNhV2xYekVPVE9ZY0NhUTVtd1BRZ3B6?oc=5",
+          "title": "장동혁, 당협위원장 254명 전원 재선출 강행하나…국힘 ‘폭풍전야’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIcUJRTVFqWktLM194RkR3am1WMUVCNGYyT1k5RFJIclRsMnBOTmpoYUp3REloaXlqTEIxYUQwRW81OGRXZFlIZlB5bk9zWjlYUGNxWWczMXdhamhIVHp5SWpIaWR0d3J1WUdOMWh5RjNHcm5Y?oc=5",
           "source": "Google News",
-          "published": "Sun, 23 Aug 2026 07:57:00 GMT"
+          "published": "Sun, 23 Aug 2026 10:37:00 GMT"
         }
       ]
     },
     {
-      "word": "한동훈",
+      "word": "254명",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "홍준표 “조선제일껌” 한동훈 또 직격…‘노웅래 녹취록’ 공개 주장에 “무식” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RZ1RhSFVldmxaa0diLXJ4dkJteC1KaUl1UHNwdWo2aHptNmVxd1Y5WF9iVlFwMnVYZkFGeHZMV05nMTVOX2VsWERWMVV1QXJxRFBoZ2I1UVZqQWY3amNhV2xYekVPVE9ZY0NhUTVtd1BRZ3B6?oc=5",
+          "title": "장동혁, 당협위원장 254명 전원 재선출 강행하나…국힘 ‘폭풍전야’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIcUJRTVFqWktLM194RkR3am1WMUVCNGYyT1k5RFJIclRsMnBOTmpoYUp3REloaXlqTEIxYUQwRW81OGRXZFlIZlB5bk9zWjlYUGNxWWczMXdhamhIVHp5SWpIaWR0d3J1WUdOMWh5RjNHcm5Y?oc=5",
           "source": "Google News",
-          "published": "Sun, 23 Aug 2026 07:57:00 GMT"
+          "published": "Sun, 23 Aug 2026 10:37:00 GMT"
         }
       ]
     },
     {
-      "word": "직격노웅래",
+      "word": "전원",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "홍준표 “조선제일껌” 한동훈 또 직격…‘노웅래 녹취록’ 공개 주장에 “무식” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RZ1RhSFVldmxaa0diLXJ4dkJteC1KaUl1UHNwdWo2aHptNmVxd1Y5WF9iVlFwMnVYZkFGeHZMV05nMTVOX2VsWERWMVV1QXJxRFBoZ2I1UVZqQWY3amNhV2xYekVPVE9ZY0NhUTVtd1BRZ3B6?oc=5",
+          "title": "장동혁, 당협위원장 254명 전원 재선출 강행하나…국힘 ‘폭풍전야’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIcUJRTVFqWktLM194RkR3am1WMUVCNGYyT1k5RFJIclRsMnBOTmpoYUp3REloaXlqTEIxYUQwRW81OGRXZFlIZlB5bk9zWjlYUGNxWWczMXdhamhIVHp5SWpIaWR0d3J1WUdOMWh5RjNHcm5Y?oc=5",
           "source": "Google News",
-          "published": "Sun, 23 Aug 2026 07:57:00 GMT"
+          "published": "Sun, 23 Aug 2026 10:37:00 GMT"
         }
       ]
     },
     {
-      "word": "녹취록",
+      "word": "재선출",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "홍준표 “조선제일껌” 한동훈 또 직격…‘노웅래 녹취록’ 공개 주장에 “무식” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RZ1RhSFVldmxaa0diLXJ4dkJteC1KaUl1UHNwdWo2aHptNmVxd1Y5WF9iVlFwMnVYZkFGeHZMV05nMTVOX2VsWERWMVV1QXJxRFBoZ2I1UVZqQWY3amNhV2xYekVPVE9ZY0NhUTVtd1BRZ3B6?oc=5",
+          "title": "장동혁, 당협위원장 254명 전원 재선출 강행하나…국힘 ‘폭풍전야’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIcUJRTVFqWktLM194RkR3am1WMUVCNGYyT1k5RFJIclRsMnBOTmpoYUp3REloaXlqTEIxYUQwRW81OGRXZFlIZlB5bk9zWjlYUGNxWWczMXdhamhIVHp5SWpIaWR0d3J1WUdOMWh5RjNHcm5Y?oc=5",
           "source": "Google News",
-          "published": "Sun, 23 Aug 2026 07:57:00 GMT"
+          "published": "Sun, 23 Aug 2026 10:37:00 GMT"
         }
       ]
     },
     {
-      "word": "공개",
+      "word": "강행하나국힘",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "홍준표 “조선제일껌” 한동훈 또 직격…‘노웅래 녹취록’ 공개 주장에 “무식” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RZ1RhSFVldmxaa0diLXJ4dkJteC1KaUl1UHNwdWo2aHptNmVxd1Y5WF9iVlFwMnVYZkFGeHZMV05nMTVOX2VsWERWMVV1QXJxRFBoZ2I1UVZqQWY3amNhV2xYekVPVE9ZY0NhUTVtd1BRZ3B6?oc=5",
+          "title": "장동혁, 당협위원장 254명 전원 재선출 강행하나…국힘 ‘폭풍전야’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIcUJRTVFqWktLM194RkR3am1WMUVCNGYyT1k5RFJIclRsMnBOTmpoYUp3REloaXlqTEIxYUQwRW81OGRXZFlIZlB5bk9zWjlYUGNxWWczMXdhamhIVHp5SWpIaWR0d3J1WUdOMWh5RjNHcm5Y?oc=5",
           "source": "Google News",
-          "published": "Sun, 23 Aug 2026 07:57:00 GMT"
+          "published": "Sun, 23 Aug 2026 10:37:00 GMT"
         }
       ]
     },
     {
-      "word": "주장",
+      "word": "폭풍전야",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "홍준표 “조선제일껌” 한동훈 또 직격…‘노웅래 녹취록’ 공개 주장에 “무식” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RZ1RhSFVldmxaa0diLXJ4dkJteC1KaUl1UHNwdWo2aHptNmVxd1Y5WF9iVlFwMnVYZkFGeHZMV05nMTVOX2VsWERWMVV1QXJxRFBoZ2I1UVZqQWY3amNhV2xYekVPVE9ZY0NhUTVtd1BRZ3B6?oc=5",
+          "title": "장동혁, 당협위원장 254명 전원 재선출 강행하나…국힘 ‘폭풍전야’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIcUJRTVFqWktLM194RkR3am1WMUVCNGYyT1k5RFJIclRsMnBOTmpoYUp3REloaXlqTEIxYUQwRW81OGRXZFlIZlB5bk9zWjlYUGNxWWczMXdhamhIVHp5SWpIaWR0d3J1WUdOMWh5RjNHcm5Y?oc=5",
           "source": "Google News",
-          "published": "Sun, 23 Aug 2026 07:57:00 GMT"
+          "published": "Sun, 23 Aug 2026 10:37:00 GMT"
         }
       ]
     },
     {
-      "word": "무식",
+      "word": "반도체",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "홍준표 “조선제일껌” 한동훈 또 직격…‘노웅래 녹취록’ 공개 주장에 “무식” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RZ1RhSFVldmxaa0diLXJ4dkJteC1KaUl1UHNwdWo2aHptNmVxd1Y5WF9iVlFwMnVYZkFGeHZMV05nMTVOX2VsWERWMVV1QXJxRFBoZ2I1UVZqQWY3amNhV2xYekVPVE9ZY0NhUTVtd1BRZ3B6?oc=5",
+          "title": "반도체 초호황에 150조 미래대응기금…‘양극화 해소’는 빠져 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE80UEt6b2tva05aWFNTV21FeDduSVZyNWlnSXBNWmRxcm9UM3Z6TzBLNVhtQ0YtdmprU01YZnNpVjBsb0hWbkxWalNNUEoyLTUtcjRGbkQ5UlI5RndZbXlKY0VDdnZZUURnb0c1RlJ1SDFGZw?oc=5",
           "source": "Google News",
-          "published": "Sun, 23 Aug 2026 07:57:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "대법관",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "대법관 14→26명으로…전문가들 “인선 제도, 더 투명해야” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Hc1VfOEtSWW5FT0VOajJHWEhiOURMUXY1cGVZTnlIUFR0R1hBZXI5ZHZaMndsN0wydmptdU9Gd2dkRlZxT2ZadzJ5WDdPYVlOeXRsYVBBNXU3UElBT3E2UUVyMGp2R0dpdkZ1c2xXTldWdw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 23 Aug 2026 10:46:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "1426명으로전문",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "대법관 14→26명으로…전문가들 “인선 제도, 더 투명해야” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Hc1VfOEtSWW5FT0VOajJHWEhiOURMUXY1cGVZTnlIUFR0R1hBZXI5ZHZaMndsN0wydmptdU9Gd2dkRlZxT2ZadzJ5WDdPYVlOeXRsYVBBNXU3UElBT3E2UUVyMGp2R0dpdkZ1c2xXTldWdw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 23 Aug 2026 10:46:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "인선",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "대법관 14→26명으로…전문가들 “인선 제도, 더 투명해야” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Hc1VfOEtSWW5FT0VOajJHWEhiOURMUXY1cGVZTnlIUFR0R1hBZXI5ZHZaMndsN0wydmptdU9Gd2dkRlZxT2ZadzJ5WDdPYVlOeXRsYVBBNXU3UElBT3E2UUVyMGp2R0dpdkZ1c2xXTldWdw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 23 Aug 2026 10:46:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "제도",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "대법관 14→26명으로…전문가들 “인선 제도, 더 투명해야” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Hc1VfOEtSWW5FT0VOajJHWEhiOURMUXY1cGVZTnlIUFR0R1hBZXI5ZHZaMndsN0wydmptdU9Gd2dkRlZxT2ZadzJ5WDdPYVlOeXRsYVBBNXU3UElBT3E2UUVyMGp2R0dpdkZ1c2xXTldWdw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 23 Aug 2026 10:46:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "투명해야",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "대법관 14→26명으로…전문가들 “인선 제도, 더 투명해야” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Hc1VfOEtSWW5FT0VOajJHWEhiOURMUXY1cGVZTnlIUFR0R1hBZXI5ZHZaMndsN0wydmptdU9Gd2dkRlZxT2ZadzJ5WDdPYVlOeXRsYVBBNXU3UElBT3E2UUVyMGp2R0dpdkZ1c2xXTldWdw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 23 Aug 2026 10:46:00 GMT"
+          "published": "Sun, 23 Aug 2026 10:55:00 GMT"
         }
       ]
     }
