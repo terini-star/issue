@@ -1,118 +1,43 @@
 {
   "language": "ko",
-  "last_updated": 1787636232.2072113,
+  "last_updated": 1787641117.160765,
   "count": 40,
   "trends": [
     {
-      "word": "필요",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[속보] 李 \"경찰 앞으로 가장 큰 권력... 국민 우려 커, 개혁기구 필요\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSXJPd0wycEJxdlN3RWo2anZLX2ZyMjZhd3JWblJucG1mVk9mTzdET2NxaGVKb2dwckJzV1dWc1o4RUY3VTViYldkSjdFMUdpeWtNS0hKZFR5M1JyZTVmVjZLSEFHRTd4aG1CS1FHVUpURWxpS05raUM1R2tZZnF3Zkxaa1g2eTRTUEFjM1E0SnY?oc=5",
-          "source": "Google News",
-          "published": "Tue, 25 Aug 2026 01:20:00 GMT"
-        },
-        {
-          "title": "민주 “비거주 1주택 종부세 기본공제, 실거주와 구분 필요 없어” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kSERFWE85MXRGc1YtV0dxY3hDQ09rbVo0LTZFRUZFTkF0cXZGcWJkQTN2a2ZWN2FISU1tMVVrQU5yampTZ1VZcndVVWFhZkswaGZHNXV3eldWRHpaTlN6Y3llVXBTb1ZYZFlXUTVNRDFrT1pw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 25 Aug 2026 05:10:00 GMT"
-        },
-        {
-          "title": "\"장애로 구독자 늘릴 필요 없다\"…김혁건, 박위 논란에 소신 발언 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NZzl0LThOUlhjMGdpSHJITkNXZFlUNXhCUGQtQTlZOURYUmRJT0ZFMUR4MUYxS1BkTFpXemtMQklETjBQOHZfUmxkMTR5RXpOQTF2MG1yckpwUQ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 24 Aug 2026 21:00:04 GMT"
-        }
-      ]
-    },
-    {
-      "word": "이란",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "네타냐후 \"이란, 내 아들 암살 시도‥경호 사치 아냐\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03UGVPQmh1UzFPb2pGaEMtZDhDOHJsRTNkQUNUU0stSzRETkNXNkFsUndVV1hVNXMxTkxPU2lRMUNYOXlvUFk2T1c0MGdJemRBb0ZWZW0wTEdIWUVRYVBfWi03VlFZcXF5TWpYbmo0LWpiV25C0gF0QVVfeXFMUDYxUVN1SnNab2pZcDgtMTN3WTVGblVsV0RCT1BFZHpVZkpTOEJuMy1XUExUU0NwU2o3dXpvWFY5Ulh4c0VmRnJ5R01ETkU1MzU3WGFLa2lXYndGV2xINXVfSXRyTDZ2TGNwZ29jb0VDbzRrdGc?oc=5",
-          "source": "Google News",
-          "published": "Mon, 24 Aug 2026 19:17:09 GMT"
-        },
-        {
-          "title": "미 ’이란 경제전쟁’ 속 호르무즈서 유조선 또 피격 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1YmFMVWVodno1YlBKc0J6UEtFLTB4Z1EzQy04T0d4S3RPR3hIOElNWmdiY2lFaEdWR0RvRVBsbjVDUkNUNzctZTlncTZ5NTZMM0dHWk01Z0ZVYWR1akdHcjkzQ2xic3M?oc=5",
-          "source": "Google News",
-          "published": "Tue, 25 Aug 2026 01:06:00 GMT"
-        },
-        {
-          "title": "美, 이란 거래 제3국 '2차 제재'…\"'경제적 왕따' 작전 개시\" - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01YjlnM21CYy03aUtxU1RCT2Rua1VVRjdXOWRRdWQtNnF3SmhsRUlvcGRPWUV5R0swM2ItNHdzN2k1NGJ4YTlxN081RlR6dTlRRzI5c3M2b2RyUQ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 24 Aug 2026 21:19:56 GMT"
-        }
-      ]
-    },
-    {
-      "word": "출시",
-      "count": 3,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "카드 대신 건물로 덱빌딩, ‘콤보랜즈’ 8월 24일 스팀 출시 - 인디게임닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAzVXU4NFlZaFBseGRfWGNEdTh6TzR1Y2I0N3N1R05BbWFKZ1RtUm0wbGlvWVAxUmtVWUJJMEdZOXlCT2ZjcVFEamo5SHo?oc=5",
-          "source": "Google News",
-          "published": "Tue, 25 Aug 2026 03:37:23 GMT"
-        },
-        {
-          "title": "CDPR, '위쳐4' 2028년 출시 목표…신규 3부작 포문 - 지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HdXVMdkdMMllfQVFGbGZib01lRkxXSDA4YVA5TFBvbVBuX25BdFJJVXZPOTVSZ0t2V0ZfSGhQLWJfMnNaYUxqZUd5ZUNjelRnVTVaRGZ3?oc=5",
-          "source": "Google News",
-          "published": "Tue, 25 Aug 2026 00:24:21 GMT"
-        },
-        {
-          "title": "‘더 블러드 오브 던워커’, 출시 첫날 60fps 모드 지원 - 경향게임스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FQUh0a003VmpjeTFBUmRMSXpFRVkxY05WNDkwR0JvbGRGdDdMVmE2V2d2aVJLb3VqYXRUdXBHN21XMm9rV2Nsel9uVFdOWWtIZVBlWWJKalBCSUxsU1Mwa3pQeEdBNmt4YWFUaw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 25 Aug 2026 04:18:43 GMT"
-        }
-      ]
-    },
-    {
-      "word": "착수",
+      "word": "경찰",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘실종사건 허위 종결’ 제주 서부경찰서 지휘라인 4명 대기발령…감찰 착수 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vMzNQcE05UjNXelFsN2NWVVUyWFZpaGFuRENLVm1xSmtVeXhOVzY0dTNCeURsY0lfNFR3SWJwdHNFZ2dMVXhlSmRpSUIyZ21EWHBVV3RKYzJlWlNxQ0hna0lIN1dNRHU0d3VXY2llai1fdw?oc=5",
+          "title": "\"경찰이 어떻게 암장합니까\"라더니…박은정 예상 빗나갔나 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92Vm1KZjI5R0FramZjb0VEVHBMM0hZQkt3TXN5M2dtNGxCcnY1SVRvODlMTzUteVdGd2NrMnFKcXFHc1lOeDhwbk9VaEtILV9rbVlLeUcyQUoyQQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 03:00:00 GMT"
+          "published": "Tue, 25 Aug 2026 01:53:36 GMT"
         },
         {
-          "title": "회삿돈으로 200억대 '황제 사택'‥50개 업체 세무조사 착수 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vbUhKZHBEaFR0by1kMEJ6MTRSbF94aDRsY3NsYUdmc2UzM2dIZ3NCNEtwRVpUMk5vRXc3QWxBTnRQWDhqVUNNbERmbURGUjdmSkl6c3FydXFqOXllaXp3M0FGckYxQ2pSX0paa3dxWHR5YWty0gF0QVVfeXFMUHUwQXRjVFVyYXpGeF91dmRCTzA2eDRNUjBqWUpYcFRXWDhNeERaNzM1THh4STM2Qk1HRlJWeGdWYUhuV016ZnNwT0psWk9GakZfNjRITkhlWVlETGwxQnp5V1RRcGktdzZybU9SU21GTjFDZFg?oc=5",
+          "title": "이 대통령 “경찰, 최대 권력 갖지만 기강 해이…개혁기구 만들라” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tZlk2VmlaQndvb2Ywa3JnckdZaTBuUGJDeHRTMDNzdmU1TzhQTEktdkc2UHBXX2ZsbER1bXdxbFNhN3ZNWXJBZ3lYRDJfNmpWSFYybW9McExSd2d1U0gyV0JFeHRHTEJoN21F?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 04:36:19 GMT"
+          "published": "Tue, 25 Aug 2026 05:26:00 GMT"
         }
       ]
     },
     {
-      "word": "가장",
+      "word": "대통령",
       "count": 2,
-      "category": "NOUN",
+      "category": "PERSON",
       "articles": [
         {
-          "title": "[속보] 李 \"경찰 앞으로 가장 큰 권력... 국민 우려 커, 개혁기구 필요\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSXJPd0wycEJxdlN3RWo2anZLX2ZyMjZhd3JWblJucG1mVk9mTzdET2NxaGVKb2dwckJzV1dWc1o4RUY3VTViYldkSjdFMUdpeWtNS0hKZFR5M1JyZTVmVjZLSEFHRTd4aG1CS1FHVUpURWxpS05raUM1R2tZZnF3Zkxaa1g2eTRTUEFjM1E0SnY?oc=5",
+          "title": "이 대통령 “경찰, 최대 권력 갖지만 기강 해이…개혁기구 만들라” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tZlk2VmlaQndvb2Ywa3JnckdZaTBuUGJDeHRTMDNzdmU1TzhQTEktdkc2UHBXX2ZsbER1bXdxbFNhN3ZNWXJBZ3lYRDJfNmpWSFYybW9McExSd2d1U0gyV0JFeHRHTEJoN21F?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 01:20:00 GMT"
+          "published": "Tue, 25 Aug 2026 05:26:00 GMT"
         },
         {
-          "title": "\"부상 걱정했는데 오히려 체력에 도움\" 박주봉 감독도 놀란 안세영의 퍼펙트 우승...\"결승이 가장 완벽했다\" [현장 인터뷰] - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX2VWTUdGZmRka3RkXy1mV1k5cU5TOFdaSl9nalNiTE5hR19iaGlXWFdCVklsaWFJa0ZpeWU1QVM0WE9DNkwtMWFjNlZ5VmJzVXFrVHBhUl91dkluaXZleS1DQ25KYThZUW51SFJERUFzTTNIa0VWbEFMcTZJTkExLUhNcFRObXdmVXBz?oc=5",
+          "title": "친명계, 이 대통령 尹에 비유한 유시민 향해 \"무당이냐\" 반발 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5KRUw3MGNybDNXSWVSdGJiaEh6OHdycVVwS1FoT0t6bGVXLW0xM2Z1aVFVWktrNUdIcTRMWXo3RjIteXg5MjV3N3ktODRacWUtTENZQzhESHRKLWxxQmZEeW12NS15aG80cG01OHpCaXdGU0hVcTJjR9IBeEFVX3lxTE1feWNmRC1JU2txWUlBclJjc3J2SVhzaVAtcjAtaHFBcU1vdnk0dUZMdHlzUGJYVGRsZXFUaVpBeW5aRVItalZaQi1ORWcxS3RBNHNzdXFBemlPbXozMTJqdWZuUW92ZVBSUURJLW9KNnNuVVBRSEdtZQ?oc=5",
           "source": "Google News",
-          "published": "Mon, 24 Aug 2026 23:08:00 GMT"
+          "published": "Tue, 25 Aug 2026 05:48:38 GMT"
         }
       ]
     },
@@ -136,40 +61,40 @@
       ]
     },
     {
-      "word": "지원",
+      "word": "직후",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "당정 “내년 예산안, 3대 메가·AI 집중…2030년 달 착륙 지원도” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KNW9Ob2J6d0VLWGZ2QzAxSERtekxmYzIxWVkwczZVbm15LWZIYnVKVktPWE1GSTdNaTlKUkVGZ2JIX3VET1V5LU8zQXNISDJRZ2poUkRXSTZkQ3ZPMXZ6VC1rbUJVXzB2NFl2WHE3QjRmdmx1?oc=5",
+          "title": "대이란 제재발표 직후 호르무즈 유조선 또 공격 - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSdkllME9iT2FWenVEQlF4QzktS1duOG5ZU1h3TjJoNHNwYlY2bUZEMnoxNzNYSTdSeDBhVTQ3V1JVd1BLOXZWaVhIdldXQXpkTzRKRVpqWjY3Z3lsVFE?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 02:42:00 GMT"
+          "published": "Tue, 25 Aug 2026 01:02:00 GMT"
         },
         {
-          "title": "‘더 블러드 오브 던워커’, 출시 첫날 60fps 모드 지원 - 경향게임스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FQUh0a003VmpjeTFBUmRMSXpFRVkxY05WNDkwR0JvbGRGdDdMVmE2V2d2aVJLb3VqYXRUdXBHN21XMm9rV2Nsel9uVFdOWWtIZVBlWWJKalBCSUxsU1Mwa3pQeEdBNmt4YWFUaw?oc=5",
+          "title": "코스피, 개장 직후 6400선 급락…삼전 주주환원 여파 이어지나 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NcC1rZ0NsQUt1eWpZUUh3Z1htd1NFVzAycE85Z09lZmdfYlVJako1RUZQaWd6ZmlCYTRGaENTTEZDTENwNFNwbnllekJUM1J0LWhqZlloa1BrcjFzNVFPOElCSFBxMW8?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 04:18:43 GMT"
+          "published": "Tue, 25 Aug 2026 01:07:00 GMT"
         }
       ]
     },
     {
-      "word": "논란",
+      "word": "결국",
       "count": 2,
-      "category": "NOUN",
+      "category": "LOCATION",
       "articles": [
         {
-          "title": "국회 운영위, '5·18 폄훼 논란' 이진숙 제명촉구안 與주도 의결 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOQ1RyVWt6Um1KdHJEejJNWlBPaXRSaE43SjR0MUtZSC1USWJaWG1kcVFTaTB1eVdteDhFN3lwMFhKSjRtUzNtYTczNWthek5yLWVVXzEtcXU1dEtSTHZIdkZWSC12N3diQkN6eE90LW1iV2xFTEFMV9IBeEFVX3lxTE1NeUV6cHpYT2ZzWWxPMWEtbWlkUFNVbVU3S3lZZDFlOTY3TGNDMFRDSV81U0lyV0JVamlTaXl2TW91Y1daSnU0UFlNNE80QWtyYWM0WFRtbWRCVHZ4MVU5QnY0bGJ5ZjJWWTFsNnl1TFJFZHRMaVBaaQ?oc=5",
+          "title": "‘스벅 응원’ 배재고 2명, 결국 야구 그만뒀다 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVjZVa2ZqVTVqNFdWZ2VqbkRGeVpYeDdESk5jUDNmUlBLc3ZBQlNhT3NEejFjdk9wWEFyS0FWMS1mcjV5M19Dalg2ZWVkQTIzczZvanJ1c3JISTNjYm10VGgyRGlGNThsMkZoMnFFZUtGU2d5d2JpeDVCMmFUX25kMmtEcw?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 02:14:00 GMT"
+          "published": "Mon, 24 Aug 2026 21:17:00 GMT"
         },
         {
-          "title": "\"장애로 구독자 늘릴 필요 없다\"…김혁건, 박위 논란에 소신 발언 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NZzl0LThOUlhjMGdpSHJITkNXZFlUNXhCUGQtQTlZOURYUmRJT0ZFMUR4MUYxS1BkTFpXemtMQklETjBQOHZfUmxkMTR5RXpOQTF2MG1yckpwUQ?oc=5",
+          "title": "리전 고 '벽돌' 만든 BIOS…레노버, 결국 무상수리 결정 - 케이벤치",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBOUVlwZ2FBMWk4RTBYUGN0MnlDNWx0MWJQakdER1ZqNkxzalpBVVpnTHM4QTRzak9jTUNrWEVrbkhLN3FfMVVSNQ?oc=5",
           "source": "Google News",
-          "published": "Mon, 24 Aug 2026 21:00:04 GMT"
+          "published": "Tue, 25 Aug 2026 06:04:13 GMT"
         }
       ]
     },
@@ -185,159 +110,119 @@
           "published": "Tue, 25 Aug 2026 01:07:00 GMT"
         },
         {
-          "title": "'목 디스크' 한승연, 여전히 \"불편해보여\"…치료에도 더 심해진 무대 [Oh!쎈 이슈] - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRdU1vRmk1bEdRN3lJcnBKU192Qjk3X01SOHNOX1hWZFNVbXlvdlBwTnN0ZFhVM1d0TWxhWnFWUGRMb0dSdEtlN0E0M0RyR0E?oc=5",
+          "title": "'목 디스크' 한승연, 여전히 \"불편해보여\"…치료에도 더 심해진 무대 [Oh!쎈 이슈] - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQUFuSVZxSDBhemtHTzRYMWE5M1N5WUNDTjhMN2FWb1NVcV9VLXN4U1NoVzZuSlRTbmJMTHRXeWU1NGZHZXVCUWR2NWI4Yld5dzJTVHByTG13S2U5OER4ZUx1N1dZU0duc2tWSTBVbzFBRHdZWnp1X2NkRmtRZXRJaTROazNYblllbkE?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 04:20:37 GMT"
+          "published": "Tue, 25 Aug 2026 04:20:00 GMT"
         }
       ]
     },
     {
-      "word": "위험",
+      "word": "이란",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "대장암, 검진만 잘 받아도 사망 위험 낮아진다 - 하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54VV8tV2JQZFJKdVNaWWV5d3FoWlZUb3lMX2p2cWtwT2liT3ZpZlh0blRuRTNheUQ1UklYNWFBcTQ0cGJoeFdxTUVjZFpFQmt0ZGp0eVg0OUJWMGR5OFNITlR4U0t0RUszd3c?oc=5",
+          "title": "네타냐후 \"이란, 내 아들 암살 시도‥경호 사치 아냐\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03UGVPQmh1UzFPb2pGaEMtZDhDOHJsRTNkQUNUU0stSzRETkNXNkFsUndVV1hVNXMxTkxPU2lRMUNYOXlvUFk2T1c0MGdJemRBb0ZWZW0wTEdIWUVRYVBfWi03VlFZcXF5TWpYbmo0LWpiV25C0gF0QVVfeXFMUDYxUVN1SnNab2pZcDgtMTN3WTVGblVsV0RCT1BFZHpVZkpTOEJuMy1XUExUU0NwU2o3dXpvWFY5Ulh4c0VmRnJ5R01ETkU1MzU3WGFLa2lXYndGV2xINXVfSXRyTDZ2TGNwZ29jb0VDbzRrdGc?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 03:30:00 GMT"
+          "published": "Mon, 24 Aug 2026 19:17:09 GMT"
         },
         {
-          "title": "“운동할 시간 없다면 딱 3분”…13개 암 위험 낮춘 ‘뜻밖의 습관’ - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0TmM2WFd4bXQ3NUZhNElja2pTWVVzNlBHN2Y4d1FkWHdmSTFMWWpqMVNRa24yUmpycXZMTXJObkJxcWpsUWI0Z1pjUjh4Zw?oc=5",
+          "title": "美, 이란 거래 제3국 '2차 제재'…\"'경제적 왕따' 작전 개시\" - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01YjlnM21CYy03aUtxU1RCT2Rua1VVRjdXOWRRdWQtNnF3SmhsRUlvcGRPWUV5R0swM2ItNHdzN2k1NGJ4YTlxN081RlR6dTlRRzI5c3M2b2RyUQ?oc=5",
           "source": "Google News",
-          "published": "Mon, 24 Aug 2026 02:42:55 GMT"
+          "published": "Mon, 24 Aug 2026 21:19:56 GMT"
         }
       ]
     },
     {
-      "word": "실종사건",
+      "word": "가을",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "피크민 블룸, 가을 축제 테마 소시지 데코피크민 추가 - 베타뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10UU9BaEg3eVhKeUtoU1RYQVpFTTVSdDdqSENJTUZDcmVPMzUyZTZCS21LWnV1WTVrSkdqZ2M2ZUxYM21CVG90cjRRYkgybm9TdFNBdUNHd3VXVUJ0LW01eDhBSmo?oc=5",
+          "source": "Google News",
+          "published": "Tue, 25 Aug 2026 05:19:20 GMT"
+        },
+        {
+          "title": "전원주 유튜브 제작진 전원 하차… 소속사 “재정비 후 가을 복귀” - 조선비즈 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbHNOOVJPd0swZThaMmpueHFVc0g4c2tuUWVGX2UtNXAwU2NoalpnQXlMamJNaFRkUk1pOTNfS2xUcGdyZHc2OVNQS2tmWmVkSm9DUmNaeVpCZUtnUmw5LTRtZ21HUTFla2VsQUNLMjdTWTExcDItWnRpdnl5R3dWWXJjNERENm9yR0pTLWFSQkgyZVnSAacBQVVfeXFMTkdONklDOVdZMVMyTkhHSWxITzhCbzFnZ2p5dHl2VkpVcXpzb0JxdGNlaURmbWJnTGtfNVh4LWVKSXFQenVxQ09UeG4yb3Q3bVl4LUt1US1jOEFnaEQ5SDYxUGZQUlhTTVJCSmF4X3pPMmNZUndVN2ZwOV9rLU1USHVJQnk0Rm1MbDdRTWItYjBSdldtOVZDbTNrWlhMMjZSa0ktckVPQms?oc=5",
+          "source": "Google News",
+          "published": "Tue, 25 Aug 2026 02:34:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "만에",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김수현, 1년 5개월 만에 공식 석상…\"인니 생방송 출연.사실상 공식활동 선언\" - 한국NGO신문",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wbWFOaG5kVTV6anA2RmhDRHNMX1VZbnQzTV95ekhYVWotbGl5Y3NsWHVYTHVSXzh6S0dtQXhIRFF0SUpNLTNVLTVXdVFzazJxYVJKQ25XZi03R05iUlJZa1dfYmtTTWk3?oc=5",
+          "source": "Google News",
+          "published": "Mon, 24 Aug 2026 22:51:14 GMT"
+        },
+        {
+          "title": "미국 연구진, 이중 머리 분자로 11일 만에 림프종 종양 제거 - 바이오북미디어",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9seW9YZC1WMk9WZlQ3LVhVcU9qZ1d3ZGJVdjN6dkxyakJRbHVEazAzUDVMNURUN05DZFZIeHJFS2pjQkNDUWNRTHAxbWRMREx4TS12Vw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 25 Aug 2026 06:11:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "어떻게",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘실종사건 허위 종결’ 제주 서부경찰서 지휘라인 4명 대기발령…감찰 착수 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vMzNQcE05UjNXelFsN2NWVVUyWFZpaGFuRENLVm1xSmtVeXhOVzY0dTNCeURsY0lfNFR3SWJwdHNFZ2dMVXhlSmRpSUIyZ21EWHBVV3RKYzJlWlNxQ0hna0lIN1dNRHU0d3VXY2llai1fdw?oc=5",
+          "title": "\"경찰이 어떻게 암장합니까\"라더니…박은정 예상 빗나갔나 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92Vm1KZjI5R0FramZjb0VEVHBMM0hZQkt3TXN5M2dtNGxCcnY1SVRvODlMTzUteVdGd2NrMnFKcXFHc1lOeDhwbk9VaEtILV9rbVlLeUcyQUoyQQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 03:00:00 GMT"
+          "published": "Tue, 25 Aug 2026 01:53:36 GMT"
         }
       ]
     },
     {
-      "word": "허위",
+      "word": "암장합니까라더니박은정",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘실종사건 허위 종결’ 제주 서부경찰서 지휘라인 4명 대기발령…감찰 착수 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vMzNQcE05UjNXelFsN2NWVVUyWFZpaGFuRENLVm1xSmtVeXhOVzY0dTNCeURsY0lfNFR3SWJwdHNFZ2dMVXhlSmRpSUIyZ21EWHBVV3RKYzJlWlNxQ0hna0lIN1dNRHU0d3VXY2llai1fdw?oc=5",
+          "title": "\"경찰이 어떻게 암장합니까\"라더니…박은정 예상 빗나갔나 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92Vm1KZjI5R0FramZjb0VEVHBMM0hZQkt3TXN5M2dtNGxCcnY1SVRvODlMTzUteVdGd2NrMnFKcXFHc1lOeDhwbk9VaEtILV9rbVlLeUcyQUoyQQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 03:00:00 GMT"
+          "published": "Tue, 25 Aug 2026 01:53:36 GMT"
         }
       ]
     },
     {
-      "word": "종결",
+      "word": "예상",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘실종사건 허위 종결’ 제주 서부경찰서 지휘라인 4명 대기발령…감찰 착수 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vMzNQcE05UjNXelFsN2NWVVUyWFZpaGFuRENLVm1xSmtVeXhOVzY0dTNCeURsY0lfNFR3SWJwdHNFZ2dMVXhlSmRpSUIyZ21EWHBVV3RKYzJlWlNxQ0hna0lIN1dNRHU0d3VXY2llai1fdw?oc=5",
+          "title": "\"경찰이 어떻게 암장합니까\"라더니…박은정 예상 빗나갔나 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92Vm1KZjI5R0FramZjb0VEVHBMM0hZQkt3TXN5M2dtNGxCcnY1SVRvODlMTzUteVdGd2NrMnFKcXFHc1lOeDhwbk9VaEtILV9rbVlLeUcyQUoyQQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 03:00:00 GMT"
+          "published": "Tue, 25 Aug 2026 01:53:36 GMT"
         }
       ]
     },
     {
-      "word": "제주",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "‘실종사건 허위 종결’ 제주 서부경찰서 지휘라인 4명 대기발령…감찰 착수 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vMzNQcE05UjNXelFsN2NWVVUyWFZpaGFuRENLVm1xSmtVeXhOVzY0dTNCeURsY0lfNFR3SWJwdHNFZ2dMVXhlSmRpSUIyZ21EWHBVV3RKYzJlWlNxQ0hna0lIN1dNRHU0d3VXY2llai1fdw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 25 Aug 2026 03:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "서부경찰서",
+      "word": "빗나갔",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘실종사건 허위 종결’ 제주 서부경찰서 지휘라인 4명 대기발령…감찰 착수 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vMzNQcE05UjNXelFsN2NWVVUyWFZpaGFuRENLVm1xSmtVeXhOVzY0dTNCeURsY0lfNFR3SWJwdHNFZ2dMVXhlSmRpSUIyZ21EWHBVV3RKYzJlWlNxQ0hna0lIN1dNRHU0d3VXY2llai1fdw?oc=5",
+          "title": "\"경찰이 어떻게 암장합니까\"라더니…박은정 예상 빗나갔나 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92Vm1KZjI5R0FramZjb0VEVHBMM0hZQkt3TXN5M2dtNGxCcnY1SVRvODlMTzUteVdGd2NrMnFKcXFHc1lOeDhwbk9VaEtILV9rbVlLeUcyQUoyQQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 03:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "지휘라인",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘실종사건 허위 종결’ 제주 서부경찰서 지휘라인 4명 대기발령…감찰 착수 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vMzNQcE05UjNXelFsN2NWVVUyWFZpaGFuRENLVm1xSmtVeXhOVzY0dTNCeURsY0lfNFR3SWJwdHNFZ2dMVXhlSmRpSUIyZ21EWHBVV3RKYzJlWlNxQ0hna0lIN1dNRHU0d3VXY2llai1fdw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 25 Aug 2026 03:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "4명",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘실종사건 허위 종결’ 제주 서부경찰서 지휘라인 4명 대기발령…감찰 착수 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vMzNQcE05UjNXelFsN2NWVVUyWFZpaGFuRENLVm1xSmtVeXhOVzY0dTNCeURsY0lfNFR3SWJwdHNFZ2dMVXhlSmRpSUIyZ21EWHBVV3RKYzJlWlNxQ0hna0lIN1dNRHU0d3VXY2llai1fdw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 25 Aug 2026 03:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "대기발령감찰",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘실종사건 허위 종결’ 제주 서부경찰서 지휘라인 4명 대기발령…감찰 착수 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vMzNQcE05UjNXelFsN2NWVVUyWFZpaGFuRENLVm1xSmtVeXhOVzY0dTNCeURsY0lfNFR3SWJwdHNFZ2dMVXhlSmRpSUIyZ21EWHBVV3RKYzJlWlNxQ0hna0lIN1dNRHU0d3VXY2llai1fdw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 25 Aug 2026 03:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "경찰",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[속보] 李 \"경찰 앞으로 가장 큰 권력... 국민 우려 커, 개혁기구 필요\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSXJPd0wycEJxdlN3RWo2anZLX2ZyMjZhd3JWblJucG1mVk9mTzdET2NxaGVKb2dwckJzV1dWc1o4RUY3VTViYldkSjdFMUdpeWtNS0hKZFR5M1JyZTVmVjZLSEFHRTd4aG1CS1FHVUpURWxpS05raUM1R2tZZnF3Zkxaa1g2eTRTUEFjM1E0SnY?oc=5",
-          "source": "Google News",
-          "published": "Tue, 25 Aug 2026 01:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "앞으",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[속보] 李 \"경찰 앞으로 가장 큰 권력... 국민 우려 커, 개혁기구 필요\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSXJPd0wycEJxdlN3RWo2anZLX2ZyMjZhd3JWblJucG1mVk9mTzdET2NxaGVKb2dwckJzV1dWc1o4RUY3VTViYldkSjdFMUdpeWtNS0hKZFR5M1JyZTVmVjZLSEFHRTd4aG1CS1FHVUpURWxpS05raUM1R2tZZnF3Zkxaa1g2eTRTUEFjM1E0SnY?oc=5",
-          "source": "Google News",
-          "published": "Tue, 25 Aug 2026 01:20:00 GMT"
+          "published": "Tue, 25 Aug 2026 01:53:36 GMT"
         }
       ]
     },
@@ -347,36 +232,62 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보] 李 \"경찰 앞으로 가장 큰 권력... 국민 우려 커, 개혁기구 필요\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSXJPd0wycEJxdlN3RWo2anZLX2ZyMjZhd3JWblJucG1mVk9mTzdET2NxaGVKb2dwckJzV1dWc1o4RUY3VTViYldkSjdFMUdpeWtNS0hKZFR5M1JyZTVmVjZLSEFHRTd4aG1CS1FHVUpURWxpS05raUM1R2tZZnF3Zkxaa1g2eTRTUEFjM1E0SnY?oc=5",
+          "title": "이 대통령 “경찰, 최대 권력 갖지만 기강 해이…개혁기구 만들라” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tZlk2VmlaQndvb2Ywa3JnckdZaTBuUGJDeHRTMDNzdmU1TzhQTEktdkc2UHBXX2ZsbER1bXdxbFNhN3ZNWXJBZ3lYRDJfNmpWSFYybW9McExSd2d1U0gyV0JFeHRHTEJoN21F?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 01:20:00 GMT"
+          "published": "Tue, 25 Aug 2026 05:26:00 GMT"
         }
       ]
     },
     {
-      "word": "국민",
+      "word": "갖지",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보] 李 \"경찰 앞으로 가장 큰 권력... 국민 우려 커, 개혁기구 필요\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSXJPd0wycEJxdlN3RWo2anZLX2ZyMjZhd3JWblJucG1mVk9mTzdET2NxaGVKb2dwckJzV1dWc1o4RUY3VTViYldkSjdFMUdpeWtNS0hKZFR5M1JyZTVmVjZLSEFHRTd4aG1CS1FHVUpURWxpS05raUM1R2tZZnF3Zkxaa1g2eTRTUEFjM1E0SnY?oc=5",
+          "title": "이 대통령 “경찰, 최대 권력 갖지만 기강 해이…개혁기구 만들라” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tZlk2VmlaQndvb2Ywa3JnckdZaTBuUGJDeHRTMDNzdmU1TzhQTEktdkc2UHBXX2ZsbER1bXdxbFNhN3ZNWXJBZ3lYRDJfNmpWSFYybW9McExSd2d1U0gyV0JFeHRHTEJoN21F?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 01:20:00 GMT"
+          "published": "Tue, 25 Aug 2026 05:26:00 GMT"
         }
       ]
     },
     {
-      "word": "개혁기구",
+      "word": "기강",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보] 李 \"경찰 앞으로 가장 큰 권력... 국민 우려 커, 개혁기구 필요\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSXJPd0wycEJxdlN3RWo2anZLX2ZyMjZhd3JWblJucG1mVk9mTzdET2NxaGVKb2dwckJzV1dWc1o4RUY3VTViYldkSjdFMUdpeWtNS0hKZFR5M1JyZTVmVjZLSEFHRTd4aG1CS1FHVUpURWxpS05raUM1R2tZZnF3Zkxaa1g2eTRTUEFjM1E0SnY?oc=5",
+          "title": "이 대통령 “경찰, 최대 권력 갖지만 기강 해이…개혁기구 만들라” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tZlk2VmlaQndvb2Ywa3JnckdZaTBuUGJDeHRTMDNzdmU1TzhQTEktdkc2UHBXX2ZsbER1bXdxbFNhN3ZNWXJBZ3lYRDJfNmpWSFYybW9McExSd2d1U0gyV0JFeHRHTEJoN21F?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 01:20:00 GMT"
+          "published": "Tue, 25 Aug 2026 05:26:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "해이개혁기구",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령 “경찰, 최대 권력 갖지만 기강 해이…개혁기구 만들라” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tZlk2VmlaQndvb2Ywa3JnckdZaTBuUGJDeHRTMDNzdmU1TzhQTEktdkc2UHBXX2ZsbER1bXdxbFNhN3ZNWXJBZ3lYRDJfNmpWSFYybW9McExSd2d1U0gyV0JFeHRHTEJoN21F?oc=5",
+          "source": "Google News",
+          "published": "Tue, 25 Aug 2026 05:26:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "만들",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령 “경찰, 최대 권력 갖지만 기강 해이…개혁기구 만들라” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tZlk2VmlaQndvb2Ywa3JnckdZaTBuUGJDeHRTMDNzdmU1TzhQTEktdkc2UHBXX2ZsbER1bXdxbFNhN3ZNWXJBZ3lYRDJfNmpWSFYybW9McExSd2d1U0gyV0JFeHRHTEJoN21F?oc=5",
+          "source": "Google News",
+          "published": "Tue, 25 Aug 2026 05:26:00 GMT"
         }
       ]
     },
@@ -459,132 +370,145 @@
       ]
     },
     {
+      "word": "친명계",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "친명계, 이 대통령 尹에 비유한 유시민 향해 \"무당이냐\" 반발 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5KRUw3MGNybDNXSWVSdGJiaEh6OHdycVVwS1FoT0t6bGVXLW0xM2Z1aVFVWktrNUdIcTRMWXo3RjIteXg5MjV3N3ktODRacWUtTENZQzhESHRKLWxxQmZEeW12NS15aG80cG01OHpCaXdGU0hVcTJjR9IBeEFVX3lxTE1feWNmRC1JU2txWUlBclJjc3J2SVhzaVAtcjAtaHFBcU1vdnk0dUZMdHlzUGJYVGRsZXFUaVpBeW5aRVItalZaQi1ORWcxS3RBNHNzdXFBemlPbXozMTJqdWZuUW92ZVBSUURJLW9KNnNuVVBRSEdtZQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 25 Aug 2026 05:48:38 GMT"
+        }
+      ]
+    },
+    {
+      "word": "비유",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "친명계, 이 대통령 尹에 비유한 유시민 향해 \"무당이냐\" 반발 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5KRUw3MGNybDNXSWVSdGJiaEh6OHdycVVwS1FoT0t6bGVXLW0xM2Z1aVFVWktrNUdIcTRMWXo3RjIteXg5MjV3N3ktODRacWUtTENZQzhESHRKLWxxQmZEeW12NS15aG80cG01OHpCaXdGU0hVcTJjR9IBeEFVX3lxTE1feWNmRC1JU2txWUlBclJjc3J2SVhzaVAtcjAtaHFBcU1vdnk0dUZMdHlzUGJYVGRsZXFUaVpBeW5aRVItalZaQi1ORWcxS3RBNHNzdXFBemlPbXozMTJqdWZuUW92ZVBSUURJLW9KNnNuVVBRSEdtZQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 25 Aug 2026 05:48:38 GMT"
+        }
+      ]
+    },
+    {
       "word": "유시민",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“유시민, 책임 없이 독설만 뿜어…이 대통령을 윤석열 빗대 억측과 저주” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82azdDUVBNQVU4aldBbHlVU0xoYy0tUU1QNVJFVVdFcEVFUnU1WDh4NGUxeDFPRjJDMEpndWZKbGJpVE1fYS1CbmdXeHc3VEg4Y3RfdWFUX3UzWGVIUVc5Zm1ucmhMMG9PblhiaklwOXBoRXNI?oc=5",
+          "title": "친명계, 이 대통령 尹에 비유한 유시민 향해 \"무당이냐\" 반발 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5KRUw3MGNybDNXSWVSdGJiaEh6OHdycVVwS1FoT0t6bGVXLW0xM2Z1aVFVWktrNUdIcTRMWXo3RjIteXg5MjV3N3ktODRacWUtTENZQzhESHRKLWxxQmZEeW12NS15aG80cG01OHpCaXdGU0hVcTJjR9IBeEFVX3lxTE1feWNmRC1JU2txWUlBclJjc3J2SVhzaVAtcjAtaHFBcU1vdnk0dUZMdHlzUGJYVGRsZXFUaVpBeW5aRVItalZaQi1ORWcxS3RBNHNzdXFBemlPbXozMTJqdWZuUW92ZVBSUURJLW9KNnNuVVBRSEdtZQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 02:08:00 GMT"
+          "published": "Tue, 25 Aug 2026 05:48:38 GMT"
         }
       ]
     },
     {
-      "word": "책임",
+      "word": "향해",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“유시민, 책임 없이 독설만 뿜어…이 대통령을 윤석열 빗대 억측과 저주” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82azdDUVBNQVU4aldBbHlVU0xoYy0tUU1QNVJFVVdFcEVFUnU1WDh4NGUxeDFPRjJDMEpndWZKbGJpVE1fYS1CbmdXeHc3VEg4Y3RfdWFUX3UzWGVIUVc5Zm1ucmhMMG9PblhiaklwOXBoRXNI?oc=5",
+          "title": "친명계, 이 대통령 尹에 비유한 유시민 향해 \"무당이냐\" 반발 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5KRUw3MGNybDNXSWVSdGJiaEh6OHdycVVwS1FoT0t6bGVXLW0xM2Z1aVFVWktrNUdIcTRMWXo3RjIteXg5MjV3N3ktODRacWUtTENZQzhESHRKLWxxQmZEeW12NS15aG80cG01OHpCaXdGU0hVcTJjR9IBeEFVX3lxTE1feWNmRC1JU2txWUlBclJjc3J2SVhzaVAtcjAtaHFBcU1vdnk0dUZMdHlzUGJYVGRsZXFUaVpBeW5aRVItalZaQi1ORWcxS3RBNHNzdXFBemlPbXozMTJqdWZuUW92ZVBSUURJLW9KNnNuVVBRSEdtZQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 02:08:00 GMT"
+          "published": "Tue, 25 Aug 2026 05:48:38 GMT"
         }
       ]
     },
     {
-      "word": "없이",
+      "word": "무당이냐",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“유시민, 책임 없이 독설만 뿜어…이 대통령을 윤석열 빗대 억측과 저주” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82azdDUVBNQVU4aldBbHlVU0xoYy0tUU1QNVJFVVdFcEVFUnU1WDh4NGUxeDFPRjJDMEpndWZKbGJpVE1fYS1CbmdXeHc3VEg4Y3RfdWFUX3UzWGVIUVc5Zm1ucmhMMG9PblhiaklwOXBoRXNI?oc=5",
+          "title": "친명계, 이 대통령 尹에 비유한 유시민 향해 \"무당이냐\" 반발 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5KRUw3MGNybDNXSWVSdGJiaEh6OHdycVVwS1FoT0t6bGVXLW0xM2Z1aVFVWktrNUdIcTRMWXo3RjIteXg5MjV3N3ktODRacWUtTENZQzhESHRKLWxxQmZEeW12NS15aG80cG01OHpCaXdGU0hVcTJjR9IBeEFVX3lxTE1feWNmRC1JU2txWUlBclJjc3J2SVhzaVAtcjAtaHFBcU1vdnk0dUZMdHlzUGJYVGRsZXFUaVpBeW5aRVItalZaQi1ORWcxS3RBNHNzdXFBemlPbXozMTJqdWZuUW92ZVBSUURJLW9KNnNuVVBRSEdtZQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 02:08:00 GMT"
+          "published": "Tue, 25 Aug 2026 05:48:38 GMT"
         }
       ]
     },
     {
-      "word": "독설",
+      "word": "반발",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“유시민, 책임 없이 독설만 뿜어…이 대통령을 윤석열 빗대 억측과 저주” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82azdDUVBNQVU4aldBbHlVU0xoYy0tUU1QNVJFVVdFcEVFUnU1WDh4NGUxeDFPRjJDMEpndWZKbGJpVE1fYS1CbmdXeHc3VEg4Y3RfdWFUX3UzWGVIUVc5Zm1ucmhMMG9PblhiaklwOXBoRXNI?oc=5",
+          "title": "친명계, 이 대통령 尹에 비유한 유시민 향해 \"무당이냐\" 반발 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5KRUw3MGNybDNXSWVSdGJiaEh6OHdycVVwS1FoT0t6bGVXLW0xM2Z1aVFVWktrNUdIcTRMWXo3RjIteXg5MjV3N3ktODRacWUtTENZQzhESHRKLWxxQmZEeW12NS15aG80cG01OHpCaXdGU0hVcTJjR9IBeEFVX3lxTE1feWNmRC1JU2txWUlBclJjc3J2SVhzaVAtcjAtaHFBcU1vdnk0dUZMdHlzUGJYVGRsZXFUaVpBeW5aRVItalZaQi1ORWcxS3RBNHNzdXFBemlPbXozMTJqdWZuUW92ZVBSUURJLW9KNnNuVVBRSEdtZQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 02:08:00 GMT"
+          "published": "Tue, 25 Aug 2026 05:48:38 GMT"
         }
       ]
     },
     {
-      "word": "뿜어",
+      "word": "대이란",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“유시민, 책임 없이 독설만 뿜어…이 대통령을 윤석열 빗대 억측과 저주” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82azdDUVBNQVU4aldBbHlVU0xoYy0tUU1QNVJFVVdFcEVFUnU1WDh4NGUxeDFPRjJDMEpndWZKbGJpVE1fYS1CbmdXeHc3VEg4Y3RfdWFUX3UzWGVIUVc5Zm1ucmhMMG9PblhiaklwOXBoRXNI?oc=5",
+          "title": "대이란 제재발표 직후 호르무즈 유조선 또 공격 - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSdkllME9iT2FWenVEQlF4QzktS1duOG5ZU1h3TjJoNHNwYlY2bUZEMnoxNzNYSTdSeDBhVTQ3V1JVd1BLOXZWaVhIdldXQXpkTzRKRVpqWjY3Z3lsVFE?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 02:08:00 GMT"
+          "published": "Tue, 25 Aug 2026 01:02:00 GMT"
         }
       ]
     },
     {
-      "word": "대통령",
-      "count": 1,
-      "category": "PERSON",
-      "articles": [
-        {
-          "title": "“유시민, 책임 없이 독설만 뿜어…이 대통령을 윤석열 빗대 억측과 저주” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82azdDUVBNQVU4aldBbHlVU0xoYy0tUU1QNVJFVVdFcEVFUnU1WDh4NGUxeDFPRjJDMEpndWZKbGJpVE1fYS1CbmdXeHc3VEg4Y3RfdWFUX3UzWGVIUVc5Zm1ucmhMMG9PblhiaklwOXBoRXNI?oc=5",
-          "source": "Google News",
-          "published": "Tue, 25 Aug 2026 02:08:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "윤석열",
+      "word": "제재발표",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“유시민, 책임 없이 독설만 뿜어…이 대통령을 윤석열 빗대 억측과 저주” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82azdDUVBNQVU4aldBbHlVU0xoYy0tUU1QNVJFVVdFcEVFUnU1WDh4NGUxeDFPRjJDMEpndWZKbGJpVE1fYS1CbmdXeHc3VEg4Y3RfdWFUX3UzWGVIUVc5Zm1ucmhMMG9PblhiaklwOXBoRXNI?oc=5",
+          "title": "대이란 제재발표 직후 호르무즈 유조선 또 공격 - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSdkllME9iT2FWenVEQlF4QzktS1duOG5ZU1h3TjJoNHNwYlY2bUZEMnoxNzNYSTdSeDBhVTQ3V1JVd1BLOXZWaVhIdldXQXpkTzRKRVpqWjY3Z3lsVFE?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 02:08:00 GMT"
+          "published": "Tue, 25 Aug 2026 01:02:00 GMT"
         }
       ]
     },
     {
-      "word": "빗대",
+      "word": "호르무즈",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“유시민, 책임 없이 독설만 뿜어…이 대통령을 윤석열 빗대 억측과 저주” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82azdDUVBNQVU4aldBbHlVU0xoYy0tUU1QNVJFVVdFcEVFUnU1WDh4NGUxeDFPRjJDMEpndWZKbGJpVE1fYS1CbmdXeHc3VEg4Y3RfdWFUX3UzWGVIUVc5Zm1ucmhMMG9PblhiaklwOXBoRXNI?oc=5",
+          "title": "대이란 제재발표 직후 호르무즈 유조선 또 공격 - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSdkllME9iT2FWenVEQlF4QzktS1duOG5ZU1h3TjJoNHNwYlY2bUZEMnoxNzNYSTdSeDBhVTQ3V1JVd1BLOXZWaVhIdldXQXpkTzRKRVpqWjY3Z3lsVFE?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 02:08:00 GMT"
+          "published": "Tue, 25 Aug 2026 01:02:00 GMT"
         }
       ]
     },
     {
-      "word": "억측",
+      "word": "유조선",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“유시민, 책임 없이 독설만 뿜어…이 대통령을 윤석열 빗대 억측과 저주” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82azdDUVBNQVU4aldBbHlVU0xoYy0tUU1QNVJFVVdFcEVFUnU1WDh4NGUxeDFPRjJDMEpndWZKbGJpVE1fYS1CbmdXeHc3VEg4Y3RfdWFUX3UzWGVIUVc5Zm1ucmhMMG9PblhiaklwOXBoRXNI?oc=5",
+          "title": "대이란 제재발표 직후 호르무즈 유조선 또 공격 - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSdkllME9iT2FWenVEQlF4QzktS1duOG5ZU1h3TjJoNHNwYlY2bUZEMnoxNzNYSTdSeDBhVTQ3V1JVd1BLOXZWaVhIdldXQXpkTzRKRVpqWjY3Z3lsVFE?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 02:08:00 GMT"
+          "published": "Tue, 25 Aug 2026 01:02:00 GMT"
         }
       ]
     },
     {
-      "word": "저주",
+      "word": "공격",
       "count": 1,
-      "category": "LOCATION",
+      "category": "NOUN",
       "articles": [
         {
-          "title": "“유시민, 책임 없이 독설만 뿜어…이 대통령을 윤석열 빗대 억측과 저주” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82azdDUVBNQVU4aldBbHlVU0xoYy0tUU1QNVJFVVdFcEVFUnU1WDh4NGUxeDFPRjJDMEpndWZKbGJpVE1fYS1CbmdXeHc3VEg4Y3RfdWFUX3UzWGVIUVc5Zm1ucmhMMG9PblhiaklwOXBoRXNI?oc=5",
+          "title": "대이란 제재발표 직후 호르무즈 유조선 또 공격 - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSdkllME9iT2FWenVEQlF4QzktS1duOG5ZU1h3TjJoNHNwYlY2bUZEMnoxNzNYSTdSeDBhVTQ3V1JVd1BLOXZWaVhIdldXQXpkTzRKRVpqWjY3Z3lsVFE?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 02:08:00 GMT"
+          "published": "Tue, 25 Aug 2026 01:02:00 GMT"
         }
       ]
     },
@@ -594,10 +518,62 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "당정 “내년 예산안, 3대 메가·AI 집중…2030년 달 착륙 지원도” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KNW9Ob2J6d0VLWGZ2QzAxSERtekxmYzIxWVkwczZVbm15LWZIYnVKVktPWE1GSTdNaTlKUkVGZ2JIX3VET1V5LU8zQXNISDJRZ2poUkRXSTZkQ3ZPMXZ6VC1rbUJVXzB2NFl2WHE3QjRmdmx1?oc=5",
+          "title": "당정 \"내년도 예산안, 지방국립대 등록금 전액 지원\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNS1BDNnhKOWRGMmtpYnRqRkQxYm5rZ24xVkR2MHpqczE1NkQ1dFpucVNzQ2QyTVlrdER2UGQ0aWYzam1DR1ZyR05JV083cGxZeGU0T1dmQmNObVBkNjJGRnNEM0t5dFlrR0NxRUxGdFl6NFFvcm1EVzV6d0kzelhrYjE0bXVaQQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 02:42:00 GMT"
+          "published": "Tue, 25 Aug 2026 01:48:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "내년",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "당정 \"내년도 예산안, 지방국립대 등록금 전액 지원\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNS1BDNnhKOWRGMmtpYnRqRkQxYm5rZ24xVkR2MHpqczE1NkQ1dFpucVNzQ2QyTVlrdER2UGQ0aWYzam1DR1ZyR05JV083cGxZeGU0T1dmQmNObVBkNjJGRnNEM0t5dFlrR0NxRUxGdFl6NFFvcm1EVzV6d0kzelhrYjE0bXVaQQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 25 Aug 2026 01:48:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "예산안",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "당정 \"내년도 예산안, 지방국립대 등록금 전액 지원\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNS1BDNnhKOWRGMmtpYnRqRkQxYm5rZ24xVkR2MHpqczE1NkQ1dFpucVNzQ2QyTVlrdER2UGQ0aWYzam1DR1ZyR05JV083cGxZeGU0T1dmQmNObVBkNjJGRnNEM0t5dFlrR0NxRUxGdFl6NFFvcm1EVzV6d0kzelhrYjE0bXVaQQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 25 Aug 2026 01:48:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "지방국립대",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "당정 \"내년도 예산안, 지방국립대 등록금 전액 지원\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNS1BDNnhKOWRGMmtpYnRqRkQxYm5rZ24xVkR2MHpqczE1NkQ1dFpucVNzQ2QyTVlrdER2UGQ0aWYzam1DR1ZyR05JV083cGxZeGU0T1dmQmNObVBkNjJGRnNEM0t5dFlrR0NxRUxGdFl6NFFvcm1EVzV6d0kzelhrYjE0bXVaQQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 25 Aug 2026 01:48:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "등록금",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "당정 \"내년도 예산안, 지방국립대 등록금 전액 지원\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNS1BDNnhKOWRGMmtpYnRqRkQxYm5rZ24xVkR2MHpqczE1NkQ1dFpucVNzQ2QyTVlrdER2UGQ0aWYzam1DR1ZyR05JV083cGxZeGU0T1dmQmNObVBkNjJGRnNEM0t5dFlrR0NxRUxGdFl6NFFvcm1EVzV6d0kzelhrYjE0bXVaQQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 25 Aug 2026 01:48:00 GMT"
         }
       ]
     }
