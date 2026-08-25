@@ -1,8 +1,52 @@
 {
   "language": "ko",
-  "last_updated": 1787686635.5094602,
+  "last_updated": 1787690165.7878683,
   "count": 40,
   "trends": [
+    {
+      "word": "트럼프",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프, ’한미훈련 축소’ SNS 시제 바꿔 재탕…연일 김정은 구애 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1La25Ubm4xc2ZycHN4aVRwaWtENmVvR012VUpCak5tMXFpaGJRMjFHc01VVEFQemRBQUI1MDVSaDl2TndSc1ctemNzS3FCZmU4cEdQRmJyQjN0U0YxN2pIUmtiRFN5Mms?oc=5",
+          "source": "Google News",
+          "published": "Tue, 25 Aug 2026 15:14:00 GMT"
+        },
+        {
+          "title": "트럼프 이번엔 미-캐 국경 도발…“온타리오호 이름, 아메리카호 변경 검토” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeldqd1JnVmhqQ1A4XzZjN19SZmk1YVZPQUFTQzlHZDdjcm0zeXh4eG1lTWd3d3l0dk1DYWdZdWtMVHFTd2lkN1VkN1lKT2lZb3hHNnZ1dXBXM2R0dXAzbW8zd21wcGJrUUZNZUp6MmJMTVh6b0pya3lhell0LU4tMWF3?oc=5",
+          "source": "Google News",
+          "published": "Tue, 25 Aug 2026 13:38:00 GMT"
+        },
+        {
+          "title": "美전문가 \"북미회담 가능성 희박…한미일에 최대 도전은 트럼프\" - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JQ3FLOHBqdEEzMDZBVDJwWUl1LXcxNHh4bDRuMEtWQ0tKLVVmYmd3SHJra0YwV3drQ0lSQnlWWFVqTi1uN19wR25aR2xPOHdnTkpSYnI1eXl6V0XSAWBBVV95cUxPNmtQMnB2ZkdTeU4tdWV2OG5LZkoySGVRakprMjYyU09sSnhQempxQWl3NEdUMVNid1RueFY0c1RROVdFNHEwTGhfT1A0M0FVS2g1QVJMSElNN0ttdDZ2YmQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 25 Aug 2026 17:55:33 GMT"
+        }
+      ]
+    },
+    {
+      "word": "실종",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘장미란 실종’ 접수 2시간 만에... 내부망에 “교통사고 사망” 종결 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVlpVMUFaV3RKaDh2Mzk1VHBRNEE1UUFsbTZ5M3BaWUZjUHExXzVlWHREaXd4bDNuVk8tVmp5QUlJYUpqclJLOG1IUHdsT3ZXZXg1c3VlS3ZZcnBaaVNESllUUzJXNTdMWElQeU1JdHhhWFFqRTlsQjVjYUFwcndRS3pJVVFsYzFPaVZoYUlfMjE?oc=5",
+          "source": "Google News",
+          "published": "Tue, 25 Aug 2026 13:01:28 GMT"
+        },
+        {
+          "title": "대구서 실종된 20대 중국인 유학생 숨진 채 발견…30대 남성 살인 혐의 검거 - hidomin.com",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqcnI1cGVCV2tHZjdRZkFRbFpIV0FNcFdud1JiYlVLMUluWHVENENkNjExUWVFaGZPUF9RVHVkdFVVYjVWYS12b2ZubmNPbjUyaDZkdURyUVdrSVRlVUFqNG9Ldlh4Y3B5MFE?oc=5",
+          "source": "Google News",
+          "published": "Tue, 25 Aug 2026 12:29:46 GMT"
+        }
+      ]
+    },
     {
       "word": "대통령",
       "count": 2,
@@ -36,78 +80,91 @@
       ]
     },
     {
-      "word": "실종",
+      "word": "필요",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘장미란 실종’ 접수 2시간 만에... 내부망에 “교통사고 사망” 종결 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVlpVMUFaV3RKaDh2Mzk1VHBRNEE1UUFsbTZ5M3BaWUZjUHExXzVlWHREaXd4bDNuVk8tVmp5QUlJYUpqclJLOG1IUHdsT3ZXZXg1c3VlS3ZZcnBaaVNESllUUzJXNTdMWElQeU1JdHhhWFFqRTlsQjVjYUFwcndRS3pJVVFsYzFPaVZoYUlfMjE?oc=5",
+          "title": "이 대통령 “정책 ‘오락가락’ 비난, 연연할 필요 없어”···‘비거주 1주택 차등안’ 수정에 힘 싣기 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wWVB4S1Y2bDVEc09OMTNudHZwLVFPRU9FcHFiN1ROZHkycmNzLW02UUMtcDhxMWhobXFYMWxCSGxWeElmWHl0ZkpfbTR4bzlUUXBKMFFITU1pUdIBX0FVX3lxTFBUOUluTzBLcGg2ZXlHN181VFIzWnNJLXc5UEVCX21uUWlrckpuMGt1TFFhU1FCUkp2X3daUl90WmNydUNnTGRzVnZlWl93NzlOT3ozTExBYnVsQnRXeUtZ?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 13:01:28 GMT"
+          "published": "Tue, 25 Aug 2026 08:07:00 GMT"
         },
         {
-          "title": "대구서 실종된 20대 중국인 유학생 숨진 채 발견…30대 남성 살인 혐의 검거 - hidomin.com",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqcnI1cGVCV2tHZjdRZkFRbFpIV0FNcFdud1JiYlVLMUluWHVENENkNjExUWVFaGZPUF9RVHVkdFVVYjVWYS12b2ZubmNPbjUyaDZkdURyUVdrSVRlVUFqNG9Ldlh4Y3B5MFE?oc=5",
+          "title": "법원행정처장, 與 '조희대 씨' 호칭에 \"대법원장 존중할 필요\" - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XTnEyd3ZJcUtSSzdnUkF1TXJrbDA1NEJRLTlJYmdYMWRLcjNKbExrSUM3ZFRodWtWYVRZRWdQS284dDFGNjNtV2xiandZX2RpNFNIMEJGUzVSdW_SAWBBVV95cUxNcDhyUFVGXzBoeWhPSEtpVWtJVWg2UVlwQ0dFdFFydXBTc2t5Tm9LM1JiTEptYjN1bFlBTFFtbTBXVFFhWmtIcnVNd2JWeEgtY09MM1g5akdETUtRc2p6b2w?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 12:29:46 GMT"
+          "published": "Tue, 25 Aug 2026 09:15:21 GMT"
         }
       ]
     },
     {
-      "word": "트럼프",
+      "word": "518",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프, ’한미훈련 축소’ SNS 시제 바꿔 재탕…연일 김정은 구애 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1La25Ubm4xc2ZycHN4aVRwaWtENmVvR012VUpCak5tMXFpaGJRMjFHc01VVEFQemRBQUI1MDVSaDl2TndSc1ctemNzS3FCZmU4cEdQRmJyQjN0U0YxN2pIUmtiRFN5Mms?oc=5",
+          "title": "'5·18 폄훼 논란' 이진숙, 제명 촉구 결의안 가결에 \"5·18 성역화 완성되나\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrYl9VenZUVWx0Z2kxSTM3MzFuNmZScEJIbWEtMkVIUkZycW5BN0hKcW4tb09DZTJUMG9oUWFMN1dSMVYtOHQ0bk5udGphOFRKbjZud3RSbzhLOUc2VU9OdUZEcmQ4ZnNVTmE4QWpZLS0xVElDWlk2X9IBeEFVX3lxTE9qOUdpUmFCSGpTR3ZWeVFmOFowQmsxeDQtbnpaQkdROUN0blQyM3h2MENtS0o5cjVQUzIwVnRJaVV0OVBpNVg1N3ZkXzd5S2xHSURBZXhVYXhZckFCR05zUG5BTmFjY2hfOFVKdnFZQm1NdXJiWEZTaA?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 15:14:00 GMT"
-        },
-        {
-          "title": "美전문가 \"북미회담 가능성 희박…한미일에 최대 도전은 트럼프\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JQ3FLOHBqdEEzMDZBVDJwWUl1LXcxNHh4bDRuMEtWQ0tKLVVmYmd3SHJra0YwV3drQ0lSQnlWWFVqTi1uN19wR25aR2xPOHdnTkpSYnI1eXl6V0XSAWBBVV95cUxPNmtQMnB2ZkdTeU4tdWV2OG5LZkoySGVRakprMjYyU09sSnhQempxQWl3NEdUMVNid1RueFY0c1RROVdFNHEwTGhfT1A0M0FVS2g1QVJMSElNN0ttdDZ2YmQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 25 Aug 2026 17:55:33 GMT"
+          "published": "Tue, 25 Aug 2026 05:50:44 GMT"
         }
       ]
     },
     {
-      "word": "이상",
+      "word": "논란",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "60대 이상만 노렸다…112 신고 전화도 가로챈 보이스피싱 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lcUF1WWNBanFySE0tMzgzcDRRcUhia29LSVdRN24wWWZxN2JpbDViX29ocjZwR1E3SDNScFJOdG1HaWIza0NkcjF0a0lKRWNIQmtSVUJSV1ZvVDg?oc=5",
+          "title": "'5·18 폄훼 논란' 이진숙, 제명 촉구 결의안 가결에 \"5·18 성역화 완성되나\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrYl9VenZUVWx0Z2kxSTM3MzFuNmZScEJIbWEtMkVIUkZycW5BN0hKcW4tb09DZTJUMG9oUWFMN1dSMVYtOHQ0bk5udGphOFRKbjZud3RSbzhLOUc2VU9OdUZEcmQ4ZnNVTmE4QWpZLS0xVElDWlk2X9IBeEFVX3lxTE9qOUdpUmFCSGpTR3ZWeVFmOFowQmsxeDQtbnpaQkdROUN0blQyM3h2MENtS0o5cjVQUzIwVnRJaVV0OVBpNVg1N3ZkXzd5S2xHSURBZXhVYXhZckFCR05zUG5BTmFjY2hfOFVKdnFZQm1NdXJiWEZTaA?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 12:21:00 GMT"
+          "published": "Tue, 25 Aug 2026 05:50:44 GMT"
         },
         {
-          "title": "비타민D 하루 5,000IU 이상 먹으면… 경도인지장애 노인, 인지기능 점수 ↑ - 하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fNXQyRGFjRUpuMUYtTWMzZzB0UmVKUzV4U0U1Vmo2eHVUdm1iTmxJR1NLMEhtbU1uZnRJcmV2QmVJV2h1TktxaDk0bWhZZ2NTMjBLdFlOVld4NHo4OXhtdEZsZHN0TDNybXc?oc=5",
+          "title": "박위, 특강 줄줄이 취소…낙상 CCTV 공개 논란 탓 - 채널A",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVSy1oWGoxWktRb3dtMnVVbTB3bW1pRXl3Mkt4alRtUjRXaEJtQ3pFOW9OblBpVkVoR0REcDJ0cWdybWVXT25rc1FCV2E5ZHpvajYtYWFma0JoX1pzU2fSAWNBVV95cUxNemdMQ3lOa3JUMWlfa1lteGp4U1FjRGJPSDBDeVhreUplbEJxZXR2bmMxbm9TTGNOTjBuNWVRUVJORndjSUFEQ2hQZmVGRmxjZjE3WTg2ZUFHcFF4aE9LeUQyak0?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 10:00:00 GMT"
+          "published": "Tue, 25 Aug 2026 05:25:00 GMT"
         }
       ]
     },
     {
-      "word": "도전",
+      "word": "코스피",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "美전문가 \"북미회담 가능성 희박…한미일에 최대 도전은 트럼프\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JQ3FLOHBqdEEzMDZBVDJwWUl1LXcxNHh4bDRuMEtWQ0tKLVVmYmd3SHJra0YwV3drQ0lSQnlWWFVqTi1uN19wR25aR2xPOHdnTkpSYnI1eXl6V0XSAWBBVV95cUxPNmtQMnB2ZkdTeU4tdWV2OG5LZkoySGVRakprMjYyU09sSnhQempxQWl3NEdUMVNid1RueFY0c1RROVdFNHEwTGhfT1A0M0FVS2g1QVJMSElNN0ttdDZ2YmQ?oc=5",
+          "title": "코스피, 개장 직후 6400선 급락…삼전 주주환원 여파 이어지나 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NcC1rZ0NsQUt1eWpZUUh3Z1htd1NFVzAycE85Z09lZmdfYlVJako1RUZQaWd6ZmlCYTRGaENTTEZDTENwNFNwbnllekJUM1J0LWhqZlloa1BrcjFzNVFPOElCSFBxMW8?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 17:55:33 GMT"
+          "published": "Tue, 25 Aug 2026 01:07:00 GMT"
         },
         {
-          "title": "‘금의환향’ 안세영…이제 아시안게임 2연패 도전 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FTlRqNmhoREhBUHpmMHY2Z1p1My1WVmVhVWlrZGxEQTEyUDFkRG5RUlRqSWZvNmRjMUpWZDF4VDZwcDhjVVA2bmRlNHJFNC1MN0d3dkNOS2dUTGs?oc=5",
+          "title": "엔비디아 실적·워시 연설, 코스피 향방 가를 듯 - 조선비즈 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc1dzSG95S204djE3RWRMemdBUHJSVVU1cEpuemtOV2dLR3hIMGdxS0FZelA4eHZqeEtjY1V3TnFJUF9MZ3kxbTNGVU5Fc05kTlV2UXdSRWJTdmd6ZnBqdWplMEJmcWpOdXdDYjRKVjYzZ0FSUkJtbG91WGFmTWtYZW4yVUx6NjBL0gGcAUFVX3lxTE1zQ19IbW1UNDFfa0lLLUhoODlCTU8xOGZvWWZheF9zUXV1NWdsOHNMeDFyNFZhbmxScF83Mk9JempKTW82RDVsVVYyMXJuZ2R0Z1RhTk9sSW9XOS1lOS05cFRnOUVjYk1zMHVQQXVkRTJfTnFGWTZrSE5UTXdRTGhDeUFYbVZ5eE5HXzBMNEdrU1Y1VmM5aUU1dmFDUA?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 12:53:00 GMT"
+          "published": "Tue, 25 Aug 2026 15:35:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "공동",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "美, 원전 기업 웨스팅하우스 지분 공동 인수 제안?… 산업부는 사실 부인 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FLS01Z1MxcDZtcDdzc3NvTWFsbmNTdnJpMVU1d3dUWkQ4QVM5RXFMS3Q3TXJ2a05XR3AwSHdxRE5lNUNBT2dTZXZXTWxmUlZ4RTVJcXRldjIwdGJ6R0FvVE1GLUhObUpvdnQ5VUdBU2pPSWJCMVHSAWZBVV95cUxQcDcwVmNqMGhPaW9JS01BWXRRQUs3UlJURThHbUhtR0ZGX2RBYzFMSFpzVV9xV3dsUnhGOXRwTkE1eGhsQWNqYlNwenB5S1MwcUVveTUtdm44WEI2RnA0SjREZmI0dlE?oc=5",
+          "source": "Google News",
+          "published": "Tue, 25 Aug 2026 11:26:12 GMT"
+        },
+        {
+          "title": "강원FC 홈경기, 강릉 단독 개최서 '강릉·춘천 공동 개최'로 다시 논의 - 강원신문",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzMkc1RVp2VjdyOFd1ZWRmRlRJRWg1akFjYVhKZlhzckhYanM2UXdTSWNkRGphSUtzWGQ1WkFORXE3V0hicDYwLVJvU2RCNWdsdUo4TmxxTV9CcktaMVRESHVpZ0FpX0dU?oc=5",
+          "source": "Google News",
+          "published": "Tue, 25 Aug 2026 11:20:48 GMT"
         }
       ]
     },
@@ -136,29 +193,16 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "유비소프트 ‘레이맨 레전드 리톨드’ 신규 영상 ONL 공개… 리듬 액션 스테이지 ‘시선’ - 경향게임스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03NzB0c0QtSTREcVNsSzdMX0pFVEkyY0IwME5SR0o0RHA0STJ2Q0xWRjMzY2UyVGtPbXd4b3NseV9fa3Raa1pwMXZZSmVVcC1hZWRjLWNFeGtmdUdmaGl1R3ZBbjEtc2tkZHN5aA?oc=5",
+          "title": "‘워락: 던전앤드래곤’ 알파 영상 공개 … 다채로운 마법 활용한 액션 어드벤쳐 - 경향게임스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtY2FULW55ODdoTnppeTBLQWp5UzVBMFFiYTRnbk9jVkFMbGFtd2pxV0tveVBuc3BKQTM4bThRWnhzWTg4V2sxNHl0RTlNMm9jeXZFb0txVm0tQkVfcUdRX1ZOajFha0ZVa2hOaA?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 18:40:24 GMT"
+          "published": "Tue, 25 Aug 2026 20:19:27 GMT"
         },
         {
           "title": "박위, 특강 줄줄이 취소…낙상 CCTV 공개 논란 탓 - 채널A",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVSy1oWGoxWktRb3dtMnVVbTB3bW1pRXl3Mkt4alRtUjRXaEJtQ3pFOW9OblBpVkVoR0REcDJ0cWdybWVXT25rc1FCV2E5ZHpvajYtYWFma0JoX1pzU2fSAWNBVV95cUxNemdMQ3lOa3JUMWlfa1lteGp4U1FjRGJPSDBDeVhreUplbEJxZXR2bmMxbm9TTGNOTjBuNWVRUVJORndjSUFEQ2hQZmVGRmxjZjE3WTg2ZUFHcFF4aE9LeUQyak0?oc=5",
           "source": "Google News",
           "published": "Tue, 25 Aug 2026 05:25:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "30일",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "페블 타임 2, 배터리는 30일 가지만 보증 기간도 똑같이 30일에 그친다 - 위키트리",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43ZmFjTkJCdEF4ZmduNzJHNmdiQnI3em1KN2dwQW9tVjV4MjZ2d0xlTXdrTlVfYldDMV8wQkJMbS13WkpQcUh6Tm12VGZ3S2FqXy1EVHR3?oc=5",
-          "source": "Google News",
-          "published": "Tue, 25 Aug 2026 16:55:00 GMT"
         }
       ]
     },
@@ -172,84 +216,6 @@
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KUmt5alBnbmZoTF83MENEcjE5cFR1ZFhMMmIyYjBndTlLRU5VUHpsQXU1V2p4Z3lBS0tsS24tZ2xlVkxVOHFoREFkODYzRlJGalZ2eXFSbkFQQnp4dEE?oc=5",
           "source": "Google News",
           "published": "Tue, 25 Aug 2026 18:33:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "다른",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 “다른 점 찾으면 원수, 같은 점 찾으면 형제”…여 지도부와 만찬 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZVEl2YXRiUUVoNHpTaEhEZTExNE9SZ3VkcmREU0lHa3FaUWNoV01ES0R1SGh1cm9fa3M3cEI1SVNsV1djWVNFZ0M3d2Vpa1pVaDZlNkNseThRcjNKWlZld3RoQTZXcEpCRUE2ZkR2azBmQmh4?oc=5",
-          "source": "Google News",
-          "published": "Tue, 25 Aug 2026 13:07:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "원수",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 “다른 점 찾으면 원수, 같은 점 찾으면 형제”…여 지도부와 만찬 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZVEl2YXRiUUVoNHpTaEhEZTExNE9SZ3VkcmREU0lHa3FaUWNoV01ES0R1SGh1cm9fa3M3cEI1SVNsV1djWVNFZ0M3d2Vpa1pVaDZlNkNseThRcjNKWlZld3RoQTZXcEpCRUE2ZkR2azBmQmh4?oc=5",
-          "source": "Google News",
-          "published": "Tue, 25 Aug 2026 13:07:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "같은",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 “다른 점 찾으면 원수, 같은 점 찾으면 형제”…여 지도부와 만찬 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZVEl2YXRiUUVoNHpTaEhEZTExNE9SZ3VkcmREU0lHa3FaUWNoV01ES0R1SGh1cm9fa3M3cEI1SVNsV1djWVNFZ0M3d2Vpa1pVaDZlNkNseThRcjNKWlZld3RoQTZXcEpCRUE2ZkR2azBmQmh4?oc=5",
-          "source": "Google News",
-          "published": "Tue, 25 Aug 2026 13:07:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "형제여",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 “다른 점 찾으면 원수, 같은 점 찾으면 형제”…여 지도부와 만찬 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZVEl2YXRiUUVoNHpTaEhEZTExNE9SZ3VkcmREU0lHa3FaUWNoV01ES0R1SGh1cm9fa3M3cEI1SVNsV1djWVNFZ0M3d2Vpa1pVaDZlNkNseThRcjNKWlZld3RoQTZXcEpCRUE2ZkR2azBmQmh4?oc=5",
-          "source": "Google News",
-          "published": "Tue, 25 Aug 2026 13:07:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "지도부",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "이 대통령 “다른 점 찾으면 원수, 같은 점 찾으면 형제”…여 지도부와 만찬 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZVEl2YXRiUUVoNHpTaEhEZTExNE9SZ3VkcmREU0lHa3FaUWNoV01ES0R1SGh1cm9fa3M3cEI1SVNsV1djWVNFZ0M3d2Vpa1pVaDZlNkNseThRcjNKWlZld3RoQTZXcEpCRUE2ZkR2azBmQmh4?oc=5",
-          "source": "Google News",
-          "published": "Tue, 25 Aug 2026 13:07:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "만찬",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 “다른 점 찾으면 원수, 같은 점 찾으면 형제”…여 지도부와 만찬 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZVEl2YXRiUUVoNHpTaEhEZTExNE9SZ3VkcmREU0lHa3FaUWNoV01ES0R1SGh1cm9fa3M3cEI1SVNsV1djWVNFZ0M3d2Vpa1pVaDZlNkNseThRcjNKWlZld3RoQTZXcEpCRUE2ZkR2azBmQmh4?oc=5",
-          "source": "Google News",
-          "published": "Tue, 25 Aug 2026 13:07:00 GMT"
         }
       ]
     },
@@ -358,6 +324,188 @@
       ]
     },
     {
+      "word": "다른",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령 “다른 점 찾으면 원수, 같은 점 찾으면 형제”…여 지도부와 만찬 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZVEl2YXRiUUVoNHpTaEhEZTExNE9SZ3VkcmREU0lHa3FaUWNoV01ES0R1SGh1cm9fa3M3cEI1SVNsV1djWVNFZ0M3d2Vpa1pVaDZlNkNseThRcjNKWlZld3RoQTZXcEpCRUE2ZkR2azBmQmh4?oc=5",
+          "source": "Google News",
+          "published": "Tue, 25 Aug 2026 13:07:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "원수",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령 “다른 점 찾으면 원수, 같은 점 찾으면 형제”…여 지도부와 만찬 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZVEl2YXRiUUVoNHpTaEhEZTExNE9SZ3VkcmREU0lHa3FaUWNoV01ES0R1SGh1cm9fa3M3cEI1SVNsV1djWVNFZ0M3d2Vpa1pVaDZlNkNseThRcjNKWlZld3RoQTZXcEpCRUE2ZkR2azBmQmh4?oc=5",
+          "source": "Google News",
+          "published": "Tue, 25 Aug 2026 13:07:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "같은",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령 “다른 점 찾으면 원수, 같은 점 찾으면 형제”…여 지도부와 만찬 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZVEl2YXRiUUVoNHpTaEhEZTExNE9SZ3VkcmREU0lHa3FaUWNoV01ES0R1SGh1cm9fa3M3cEI1SVNsV1djWVNFZ0M3d2Vpa1pVaDZlNkNseThRcjNKWlZld3RoQTZXcEpCRUE2ZkR2azBmQmh4?oc=5",
+          "source": "Google News",
+          "published": "Tue, 25 Aug 2026 13:07:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "형제여",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령 “다른 점 찾으면 원수, 같은 점 찾으면 형제”…여 지도부와 만찬 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZVEl2YXRiUUVoNHpTaEhEZTExNE9SZ3VkcmREU0lHa3FaUWNoV01ES0R1SGh1cm9fa3M3cEI1SVNsV1djWVNFZ0M3d2Vpa1pVaDZlNkNseThRcjNKWlZld3RoQTZXcEpCRUE2ZkR2azBmQmh4?oc=5",
+          "source": "Google News",
+          "published": "Tue, 25 Aug 2026 13:07:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "지도부",
+      "count": 1,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "이 대통령 “다른 점 찾으면 원수, 같은 점 찾으면 형제”…여 지도부와 만찬 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZVEl2YXRiUUVoNHpTaEhEZTExNE9SZ3VkcmREU0lHa3FaUWNoV01ES0R1SGh1cm9fa3M3cEI1SVNsV1djWVNFZ0M3d2Vpa1pVaDZlNkNseThRcjNKWlZld3RoQTZXcEpCRUE2ZkR2azBmQmh4?oc=5",
+          "source": "Google News",
+          "published": "Tue, 25 Aug 2026 13:07:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "만찬",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령 “다른 점 찾으면 원수, 같은 점 찾으면 형제”…여 지도부와 만찬 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZVEl2YXRiUUVoNHpTaEhEZTExNE9SZ3VkcmREU0lHa3FaUWNoV01ES0R1SGh1cm9fa3M3cEI1SVNsV1djWVNFZ0M3d2Vpa1pVaDZlNkNseThRcjNKWlZld3RoQTZXcEpCRUE2ZkR2azBmQmh4?oc=5",
+          "source": "Google News",
+          "published": "Tue, 25 Aug 2026 13:07:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "친명",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "친명 “유시민, 작가가 아니라 무당… 저주 퍼부어” 비판 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBHcHRVcE0zUTluNzZlT1pXQkg2TEFJajVySnZEcjNOemExUzdOb2xSX1R3QkdFcWZUMGtXb3NyWDNZZjNKRFA5emdYSktKSEFockpVcjBYR2FvUGFheDJ4RG9QUEFObGI4U3dacEdkZG9vX3BMSzln0gFmQVVfeXFMT2ZmSmRKS0NWRVZMU213a3dpTmpYWW1wYkFYWi1xOHZrR0d6NXN3OExROUJ4eHE1aFp0QWcxeXpzSUllczhscjctVTg0dFhaekQ1T3hMaExGQTVXSkZDNWdwU2VhUjNn?oc=5",
+          "source": "Google News",
+          "published": "Tue, 25 Aug 2026 19:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "유시민",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "친명 “유시민, 작가가 아니라 무당… 저주 퍼부어” 비판 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBHcHRVcE0zUTluNzZlT1pXQkg2TEFJajVySnZEcjNOemExUzdOb2xSX1R3QkdFcWZUMGtXb3NyWDNZZjNKRFA5emdYSktKSEFockpVcjBYR2FvUGFheDJ4RG9QUEFObGI4U3dacEdkZG9vX3BMSzln0gFmQVVfeXFMT2ZmSmRKS0NWRVZMU213a3dpTmpYWW1wYkFYWi1xOHZrR0d6NXN3OExROUJ4eHE1aFp0QWcxeXpzSUllczhscjctVTg0dFhaekQ1T3hMaExGQTVXSkZDNWdwU2VhUjNn?oc=5",
+          "source": "Google News",
+          "published": "Tue, 25 Aug 2026 19:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "작가",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "친명 “유시민, 작가가 아니라 무당… 저주 퍼부어” 비판 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBHcHRVcE0zUTluNzZlT1pXQkg2TEFJajVySnZEcjNOemExUzdOb2xSX1R3QkdFcWZUMGtXb3NyWDNZZjNKRFA5emdYSktKSEFockpVcjBYR2FvUGFheDJ4RG9QUEFObGI4U3dacEdkZG9vX3BMSzln0gFmQVVfeXFMT2ZmSmRKS0NWRVZMU213a3dpTmpYWW1wYkFYWi1xOHZrR0d6NXN3OExROUJ4eHE1aFp0QWcxeXpzSUllczhscjctVTg0dFhaekQ1T3hMaExGQTVXSkZDNWdwU2VhUjNn?oc=5",
+          "source": "Google News",
+          "published": "Tue, 25 Aug 2026 19:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "아니",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "친명 “유시민, 작가가 아니라 무당… 저주 퍼부어” 비판 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBHcHRVcE0zUTluNzZlT1pXQkg2TEFJajVySnZEcjNOemExUzdOb2xSX1R3QkdFcWZUMGtXb3NyWDNZZjNKRFA5emdYSktKSEFockpVcjBYR2FvUGFheDJ4RG9QUEFObGI4U3dacEdkZG9vX3BMSzln0gFmQVVfeXFMT2ZmSmRKS0NWRVZMU213a3dpTmpYWW1wYkFYWi1xOHZrR0d6NXN3OExROUJ4eHE1aFp0QWcxeXpzSUllczhscjctVTg0dFhaekQ1T3hMaExGQTVXSkZDNWdwU2VhUjNn?oc=5",
+          "source": "Google News",
+          "published": "Tue, 25 Aug 2026 19:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "무당",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "친명 “유시민, 작가가 아니라 무당… 저주 퍼부어” 비판 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBHcHRVcE0zUTluNzZlT1pXQkg2TEFJajVySnZEcjNOemExUzdOb2xSX1R3QkdFcWZUMGtXb3NyWDNZZjNKRFA5emdYSktKSEFockpVcjBYR2FvUGFheDJ4RG9QUEFObGI4U3dacEdkZG9vX3BMSzln0gFmQVVfeXFMT2ZmSmRKS0NWRVZMU213a3dpTmpYWW1wYkFYWi1xOHZrR0d6NXN3OExROUJ4eHE1aFp0QWcxeXpzSUllczhscjctVTg0dFhaekQ1T3hMaExGQTVXSkZDNWdwU2VhUjNn?oc=5",
+          "source": "Google News",
+          "published": "Tue, 25 Aug 2026 19:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "저주",
+      "count": 1,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "친명 “유시민, 작가가 아니라 무당… 저주 퍼부어” 비판 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBHcHRVcE0zUTluNzZlT1pXQkg2TEFJajVySnZEcjNOemExUzdOb2xSX1R3QkdFcWZUMGtXb3NyWDNZZjNKRFA5emdYSktKSEFockpVcjBYR2FvUGFheDJ4RG9QUEFObGI4U3dacEdkZG9vX3BMSzln0gFmQVVfeXFMT2ZmSmRKS0NWRVZMU213a3dpTmpYWW1wYkFYWi1xOHZrR0d6NXN3OExROUJ4eHE1aFp0QWcxeXpzSUllczhscjctVTg0dFhaekQ1T3hMaExGQTVXSkZDNWdwU2VhUjNn?oc=5",
+          "source": "Google News",
+          "published": "Tue, 25 Aug 2026 19:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "퍼부어",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "친명 “유시민, 작가가 아니라 무당… 저주 퍼부어” 비판 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBHcHRVcE0zUTluNzZlT1pXQkg2TEFJajVySnZEcjNOemExUzdOb2xSX1R3QkdFcWZUMGtXb3NyWDNZZjNKRFA5emdYSktKSEFockpVcjBYR2FvUGFheDJ4RG9QUEFObGI4U3dacEdkZG9vX3BMSzln0gFmQVVfeXFMT2ZmSmRKS0NWRVZMU213a3dpTmpYWW1wYkFYWi1xOHZrR0d6NXN3OExROUJ4eHE1aFp0QWcxeXpzSUllczhscjctVTg0dFhaekQ1T3hMaExGQTVXSkZDNWdwU2VhUjNn?oc=5",
+          "source": "Google News",
+          "published": "Tue, 25 Aug 2026 19:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "비판",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "친명 “유시민, 작가가 아니라 무당… 저주 퍼부어” 비판 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBHcHRVcE0zUTluNzZlT1pXQkg2TEFJajVySnZEcjNOemExUzdOb2xSX1R3QkdFcWZUMGtXb3NyWDNZZjNKRFA5emdYSktKSEFockpVcjBYR2FvUGFheDJ4RG9QUEFObGI4U3dacEdkZG9vX3BMSzln0gFmQVVfeXFMT2ZmSmRKS0NWRVZMU213a3dpTmpYWW1wYkFYWi1xOHZrR0d6NXN3OExROUJ4eHE1aFp0QWcxeXpzSUllczhscjctVTg0dFhaekQ1T3hMaExGQTVXSkZDNWdwU2VhUjNn?oc=5",
+          "source": "Google News",
+          "published": "Tue, 25 Aug 2026 19:30:00 GMT"
+        }
+      ]
+    },
+    {
       "word": "정책",
       "count": 1,
       "category": "NOUN",
@@ -410,19 +558,6 @@
       ]
     },
     {
-      "word": "필요",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 “정책 ‘오락가락’ 비난, 연연할 필요 없어”···‘비거주 1주택 차등안’ 수정에 힘 싣기 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wWVB4S1Y2bDVEc09OMTNudHZwLVFPRU9FcHFiN1ROZHkycmNzLW02UUMtcDhxMWhobXFYMWxCSGxWeElmWHl0ZkpfbTR4bzlUUXBKMFFITU1pUdIBX0FVX3lxTFBUOUluTzBLcGg2ZXlHN181VFIzWnNJLXc5UEVCX21uUWlrckpuMGt1TFFhU1FCUkp2X3daUl90WmNydUNnTGRzVnZlWl93NzlOT3ozTExBYnVsQnRXeUtZ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 25 Aug 2026 08:07:00 GMT"
-        }
-      ]
-    },
-    {
       "word": "없어비거주",
       "count": 1,
       "category": "LOCATION",
@@ -445,123 +580,6 @@
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wWVB4S1Y2bDVEc09OMTNudHZwLVFPRU9FcHFiN1ROZHkycmNzLW02UUMtcDhxMWhobXFYMWxCSGxWeElmWHl0ZkpfbTR4bzlUUXBKMFFITU1pUdIBX0FVX3lxTFBUOUluTzBLcGg2ZXlHN181VFIzWnNJLXc5UEVCX21uUWlrckpuMGt1TFFhU1FCUkp2X3daUl90WmNydUNnTGRzVnZlWl93NzlOT3ozTExBYnVsQnRXeUtZ?oc=5",
           "source": "Google News",
           "published": "Tue, 25 Aug 2026 08:07:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "차등안",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 “정책 ‘오락가락’ 비난, 연연할 필요 없어”···‘비거주 1주택 차등안’ 수정에 힘 싣기 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wWVB4S1Y2bDVEc09OMTNudHZwLVFPRU9FcHFiN1ROZHkycmNzLW02UUMtcDhxMWhobXFYMWxCSGxWeElmWHl0ZkpfbTR4bzlUUXBKMFFITU1pUdIBX0FVX3lxTFBUOUluTzBLcGg2ZXlHN181VFIzWnNJLXc5UEVCX21uUWlrckpuMGt1TFFhU1FCUkp2X3daUl90WmNydUNnTGRzVnZlWl93NzlOT3ozTExBYnVsQnRXeUtZ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 25 Aug 2026 08:07:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "수정",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 “정책 ‘오락가락’ 비난, 연연할 필요 없어”···‘비거주 1주택 차등안’ 수정에 힘 싣기 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wWVB4S1Y2bDVEc09OMTNudHZwLVFPRU9FcHFiN1ROZHkycmNzLW02UUMtcDhxMWhobXFYMWxCSGxWeElmWHl0ZkpfbTR4bzlUUXBKMFFITU1pUdIBX0FVX3lxTFBUOUluTzBLcGg2ZXlHN181VFIzWnNJLXc5UEVCX21uUWlrckpuMGt1TFFhU1FCUkp2X3daUl90WmNydUNnTGRzVnZlWl93NzlOT3ozTExBYnVsQnRXeUtZ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 25 Aug 2026 08:07:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "싣기",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 “정책 ‘오락가락’ 비난, 연연할 필요 없어”···‘비거주 1주택 차등안’ 수정에 힘 싣기 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wWVB4S1Y2bDVEc09OMTNudHZwLVFPRU9FcHFiN1ROZHkycmNzLW02UUMtcDhxMWhobXFYMWxCSGxWeElmWHl0ZkpfbTR4bzlUUXBKMFFITU1pUdIBX0FVX3lxTFBUOUluTzBLcGg2ZXlHN181VFIzWnNJLXc5UEVCX21uUWlrckpuMGt1TFFhU1FCUkp2X3daUl90WmNydUNnTGRzVnZlWl93NzlOT3ozTExBYnVsQnRXeUtZ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 25 Aug 2026 08:07:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "부동산",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘부동산은 버티면 된다’ 확신 줄라…정부 ‘실거주 원칙’ 두고 고민 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1MERfTl91d2ZTQjRITDRTVFk4ZVROX1A0Wi16a2hnSVJmU3hnYjFCa1BSRkxDbVk3OUxkclRUR1F3REJDYWFaeDVDN3FMUHRBbnlWQmw4aWljS2JRNnE5MGNrT1NFZU1lOWJYeVhrdHZZQQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 25 Aug 2026 13:07:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "버티면",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘부동산은 버티면 된다’ 확신 줄라…정부 ‘실거주 원칙’ 두고 고민 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1MERfTl91d2ZTQjRITDRTVFk4ZVROX1A0Wi16a2hnSVJmU3hnYjFCa1BSRkxDbVk3OUxkclRUR1F3REJDYWFaeDVDN3FMUHRBbnlWQmw4aWljS2JRNnE5MGNrT1NFZU1lOWJYeVhrdHZZQQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 25 Aug 2026 13:07:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "된다",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘부동산은 버티면 된다’ 확신 줄라…정부 ‘실거주 원칙’ 두고 고민 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1MERfTl91d2ZTQjRITDRTVFk4ZVROX1A0Wi16a2hnSVJmU3hnYjFCa1BSRkxDbVk3OUxkclRUR1F3REJDYWFaeDVDN3FMUHRBbnlWQmw4aWljS2JRNnE5MGNrT1NFZU1lOWJYeVhrdHZZQQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 25 Aug 2026 13:07:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "확신",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘부동산은 버티면 된다’ 확신 줄라…정부 ‘실거주 원칙’ 두고 고민 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1MERfTl91d2ZTQjRITDRTVFk4ZVROX1A0Wi16a2hnSVJmU3hnYjFCa1BSRkxDbVk3OUxkclRUR1F3REJDYWFaeDVDN3FMUHRBbnlWQmw4aWljS2JRNnE5MGNrT1NFZU1lOWJYeVhrdHZZQQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 25 Aug 2026 13:07:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "줄라정부",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "‘부동산은 버티면 된다’ 확신 줄라…정부 ‘실거주 원칙’ 두고 고민 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1MERfTl91d2ZTQjRITDRTVFk4ZVROX1A0Wi16a2hnSVJmU3hnYjFCa1BSRkxDbVk3OUxkclRUR1F3REJDYWFaeDVDN3FMUHRBbnlWQmw4aWljS2JRNnE5MGNrT1NFZU1lOWJYeVhrdHZZQQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 25 Aug 2026 13:07:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "실거주",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "‘부동산은 버티면 된다’ 확신 줄라…정부 ‘실거주 원칙’ 두고 고민 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1MERfTl91d2ZTQjRITDRTVFk4ZVROX1A0Wi16a2hnSVJmU3hnYjFCa1BSRkxDbVk3OUxkclRUR1F3REJDYWFaeDVDN3FMUHRBbnlWQmw4aWljS2JRNnE5MGNrT1NFZU1lOWJYeVhrdHZZQQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 25 Aug 2026 13:07:00 GMT"
         }
       ]
     }
