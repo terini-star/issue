@@ -1,80 +1,157 @@
 {
   "language": "en",
-  "last_updated": 1787749517.9209976,
+  "last_updated": 1787755885.9239879,
   "count": 40,
   "trends": [
     {
+      "word": "Billion",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Meta to Pay Up to $17.1 Billion in Landmark Settlement Over Social Media Addiction Claims - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd0dRVTg3ZWtFRUJ5eDBpeFU5dHJfbVd5MXI4cUJ2aTR1NUFCOXZRMVY4TThva1Z0VkxRckttUlhjZ2wtaFJoTzd0bkFtazVBMmpYaHBDMmVieXdqaDhVTGUzR2FmMl9VNFJIbU1qTlM5X3d5VXlPTkNxdnNMalBpaG1FdUNiRkwyWGptenNOR2Y2UWhucExmcXJFNzdwZw?oc=5",
+          "source": "Google News",
+          "published": "Wed, 26 Aug 2026 13:26:04 GMT"
+        },
+        {
+          "title": "SpaceX Is Building A $100 Billion 'Starbase' Launch Site In Louisiana - Engadget",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQUJVd3h4dUVKU0ZSTk5pdnUxOHNxMnk2X3hnQm1DUVkwZWlfVXk2WHFWRTQ5Wjd5R2oxVHpfLUlnMHEtYlUycVZqYkVFUkNIZnpqYkJSclA2V2pqQ2Q5Z0JnbXB3NWljZEwyczk1SlUteVdhN1V5NDBYOTNqdFFDd09SbFk0TTVydHU5WFQ4cS1vaThjV1p0NW82SnlUWDlyTHc?oc=5",
+          "source": "Google News",
+          "published": "Wed, 26 Aug 2026 07:05:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "China",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Hundreds missing and many feared dead after massive flash flood hits Nepal-China border - CNN",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaVMxckk4ZEFnYk1CNWNNb2dNeXFhbXloT1dCa0dtQ2xCWTUwWTNqWXhyS2IxdXZyZW5mbXlMSmhfTi1FclBhcG9NTDRCc2JOOUV1aWNPWnl2NW1OTTM0X1gtcm4tSjNuNHJGdHNIMVcxM05qZFQ5emtCTTE2ZU1YR0hTVVU3dw?oc=5",
+          "source": "Google News",
+          "published": "Wed, 26 Aug 2026 14:34:00 GMT"
+        },
+        {
+          "title": "China: Dissident artist jailed for satirical Mao sculptures - DW.com",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT0h2SkprcGMzVXRlMFYtN1Z4TThtb1Z4NmVmQ3RUX21OMXZVT0E2U2phM2hzZnp0TC1TRmhCc1FCS3ZQNXpvNjIycGJpT3NSdkxEcVJKMm5qZWdIRl9vQkU5S3hYUG5ZWjY4cHVQb09NWVVtVzdhSmhnVlprbnlCZE1JQ2ROZUtPeU1ZQ1V6SkFGV3JTYUHSAZYBQVVfeXFMTUVvTXNGbWZzYmlxX0JPZC1hSnRGZXgtM3BuQjl1ZUlhek5uYi1UcGVhbnlLd3M5cnpUeGl5TldaR3oxSGh1QkE1b1l1NUlVeDNab1BGU0RaN05FSHZKYUdpT3UyYkNtRjZoZWkzSzZTQ1VmVl9CWjJxUkFwckZBRWlEc3JuZmVvOUxvLVM2NnUwTUNZQ0ZR?oc=5",
+          "source": "Google News",
+          "published": "Wed, 26 Aug 2026 03:48:47 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Iran",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Iran War Updates: Trump says U.S. \"achieving a very big victory,\" war \"will continue for as long as necessary\" - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUzJMQjNVM25NNWFDSVZ5MjlBRThTT1o3Q3k4QWZRemJLa2VEajBVR0l4OW0xVUNURWZraGVRcGlFWm5iZDZUektjWnlwQjdVdV94YU94Z2hlVklPbW1uc0dkYVdNQlhmeldmWG9OWjJrSHB6UkVFeEVjTXlvRkxTLXNn?oc=5",
+          "source": "Google News",
+          "published": "Wed, 26 Aug 2026 11:12:00 GMT"
+        },
+        {
+          "title": "One US dollar now costs 2 million rials in Iran, and here’s what it can buy - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOXzNicy1XM1BQN1hMbnpRWlJTS0F2ZU1qczQ5dnVaMzF2aERydzc3SHJjRFpIcmZVTG8yalZHeEh5YUZkUVNKamxLZUk2SUJsVTRKRnNkOXJWWHFPMG9vaVQwS3VPV2xrWTVvRXdEQm5NRExJTHIwdVYzY2htTGV0ZGJtQ1A3clFBYW0tbFEtVVQ1LU5QQ3BZQTRHU1pUbTNZaUhVQlFieDdBTU5CSUdzQmxhUzlzUFBM0gG-AUFVX3lxTE5KN3BWWkFmTGpCUFE0VVpTZkg1VVNxdmY1VHFPRkNwellkUU1TTXBEMGJGajlTQnREMTdyUzFxb3l3eFFVdDZ0ZVdkVmtPTFhiTUtRUGtJWl9fYkV1RUNTNHo4b1FTXy1GQjBQdEpCYnVwY3owM05xNGFhSGtjYW9MajM0cmFHbVFWTUU4TnhBZkstTC0tS0VtRzFSaGh4TjR5QVpCcFdzS2djdldPN2N3Z1R4cjhraGZEaXB3ZGc?oc=5",
+          "source": "Google News",
+          "published": "Wed, 26 Aug 2026 10:14:10 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Updates",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Iran War Updates: Trump says U.S. \"achieving a very big victory,\" war \"will continue for as long as necessary\" - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUzJMQjNVM25NNWFDSVZ5MjlBRThTT1o3Q3k4QWZRemJLa2VEajBVR0l4OW0xVUNURWZraGVRcGlFWm5iZDZUektjWnlwQjdVdV94YU94Z2hlVklPbW1uc0dkYVdNQlhmeldmWG9OWjJrSHB6UkVFeEVjTXlvRkxTLXNn?oc=5",
+          "source": "Google News",
+          "published": "Wed, 26 Aug 2026 11:12:00 GMT"
+        },
+        {
+          "title": "Partial lunar eclipse Aug. 27-28 live updates — 1 day to go - Space",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTlROZExaWGNJWVQ2N2hNNXNENVZtdHdEUktIekNiOEFjazFqaEtUN3dtSURqTUc0VWZDcU9CUmVkZ0l4cS1BVTBfNko3Qkk4VjdUTml6Wk42Q19xbmczTjctRk9RbTRXV2VldEs4NEpoSzJyb29OVThaVFFsaDByNWtwQlRfOGtjTTBVdQ?oc=5",
+          "source": "Google News",
+          "published": "Wed, 26 Aug 2026 07:17:09 GMT"
+        }
+      ]
+    },
+    {
       "word": "Trump",
-      "count": 3,
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Graham, and Trump, Triumph: Six Takeaways From Runoffs in South Carolina and Oklahoma - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc0RHVlc5QzdOanU1V1BZZ0ZGNzJaMUJTODFRdVNnQWkyeDhhWmtDR0VlaG5ieENBU28tUWNPNHFYTE0zV2dKVHRfNEdyWEJ0U0NZMnpyb1NCcnFWLUNhQnFBWTE1WXgyQXhOWkp6RHI1ekZzWHFYOE81YkYtdzZrbUc1V3ItOXktMDg1am8zRVJRNkZMZGtFT3J3?oc=5",
+          "title": "Iran War Updates: Trump says U.S. \"achieving a very big victory,\" war \"will continue for as long as necessary\" - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUzJMQjNVM25NNWFDSVZ5MjlBRThTT1o3Q3k4QWZRemJLa2VEajBVR0l4OW0xVUNURWZraGVRcGlFWm5iZDZUektjWnlwQjdVdV94YU94Z2hlVklPbW1uc0dkYVdNQlhmeldmWG9OWjJrSHB6UkVFeEVjTXlvRkxTLXNn?oc=5",
           "source": "Google News",
-          "published": "Wed, 26 Aug 2026 03:34:59 GMT"
+          "published": "Wed, 26 Aug 2026 11:12:00 GMT"
         },
         {
-          "title": "Canadian politicians say Trump can rename that lake whatever he likes, but it'll 'always be Lake Ontario' - Business Insider",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeHJ1OFYybkh6Um9qYmdCWnc5ZV84WFBoaEJnTFhIb0ZZSEtJakJZa3Jxb01PVUhMWWh0RExJaDdTOWgwak5YR1pBdmRmM294NnZUa3FBQ3h5WEFDRW1QNTNxd3M0VTRLMDZIdFdaaFRjaWdPRFRNS3ZtMVdHTnd1RUJLMFZuQjdfa0VoSHBHUXA3RU43MmxRTk5yQlIwbzUt?oc=5",
+          "title": "Trump mulls renaming Lake Ontario as ‘Lake America.’ Canadians balk at the idea - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcHZ4b0Z3a0UwYkFxV2loZlZSUVQ4TUtKTjhLc1NxcDBJVDVRNXZ0WnJqNVRwY1o0UmRYY2lyaXJFaE1LVDVEQTJweFg1NjNkS1RYaEo5TmpjeUV6MGM2aXRGVXZKZUUzWWRnYXNrSEdkc3ExUTBXQXk4WGFja2ctOXN0d0U2c19fWFJ5SEMzZG4?oc=5",
           "source": "Google News",
-          "published": "Wed, 26 Aug 2026 05:15:50 GMT"
-        },
-        {
-          "title": "Trump admin pauses visa appointments worldwide amid heightened screening for applicants - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54NldtVmZHX05YckxGelFHc1pGel9TQ1F2RHBGZGlsb3hfend6QWJsRkRzVXhfQzNqVnFIMnpRcWRYemhGNGRxeE5ZVko1TWFldUZXWXZMR2ZTX3hMY29Hd2pSOVdWR3FORDJBSEltVi1ENWdKb2h1a9IBfkFVX3lxTE5JOE1MTS1UVmdfaE9kV0xWNnhMRjZ2TGY2U2J1Snd1ZEZXTWYwQlROWXc0RldkQ2xzOHhtaDZTakxEUEJkbnBVLU5oUVBqN05GSlF6WnktTF9uQ1VYZHZFeGY5eXc0OV9VSzFJLWZoUU84OEk4R1cwSlhWU1Exdw?oc=5",
-          "source": "Google News",
-          "published": "Wed, 26 Aug 2026 07:41:57 GMT"
+          "published": "Wed, 26 Aug 2026 14:24:00 GMT"
         }
       ]
     },
     {
-      "word": "State",
-      "count": 3,
+      "word": "war",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Experts for Prosecution Discuss Clancy’s Mental State at Time of Killings - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQLUJiZkJVd3E1YVJFekhxbjBlN2ZlMnFKd2VHVWhhcTNHSmVWQkNKc1A5bGhVZENYbUloSmZXckg2TmVxOFpHaVU0bUpGRk5XdDZOLUtQN3BjM1pMd1AzU09EeWE5VG9uQThmOUtkeVI?oc=5",
+          "title": "Iran War Updates: Trump says U.S. \"achieving a very big victory,\" war \"will continue for as long as necessary\" - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUzJMQjNVM25NNWFDSVZ5MjlBRThTT1o3Q3k4QWZRemJLa2VEajBVR0l4OW0xVUNURWZraGVRcGlFWm5iZDZUektjWnlwQjdVdV94YU94Z2hlVklPbW1uc0dkYVdNQlhmeldmWG9OWjJrSHB6UkVFeEVjTXlvRkxTLXNn?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 23:46:01 GMT"
+          "published": "Wed, 26 Aug 2026 11:12:00 GMT"
         },
         {
-          "title": "Putin signs decree allowing state seizure of drone-hit businesses - Euronews.com",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNejRtcXdxTXNUcUFGWE95STFnM29IOUR6SWJ0bWI0ZWVsOVluamFDSDZTdGg2ZlFEenR5WHduRHZMelc2Wl8zQzA3UkppVGJPc3ZDQW5JSFRLVFJBekUxY3JSSGlqck1GejRCZEdRSlQyUkYtdUEwTFBCZWtHMDBRU1VuLUY1dVZPXzE2Tl9MZEJ3dnhXZXdtMjJyYWlVeG5iR2g3TlZwQ3MxUHc5OEsyVWZ3?oc=5",
+          "title": "Wiped out: US faces surging toilet paper prices amid trade war with Canada - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYmZCZjZ0SGxaZTZhS0RlcGNwcFJVb3V3aUNhOXJhVHpFZDd1SEE0V3BfZkYyY1hNbDZzRVhuTHFBRlYwNFdiYWJEZ2F3dnNpbXlCU2tMQW5KSW1UZFlBNkxvckhKRE1oMkYtNTQ4SHhJWnFMZElqbDhFT0NqdlkwXzNyeFA4bWk4M2p5Y0pyRlZiUEJFT1dz?oc=5",
           "source": "Google News",
-          "published": "Wed, 26 Aug 2026 09:41:31 GMT"
-        },
-        {
-          "title": "Two unvaccinated people die of measles in US state of Pennsylvania - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUUI4Q205bzN2T1Nzb2h6U0dhd2JES0ZPNHJ0TmtQMmI4d1ZFLTVvY1hnbkZrZ0o0U2NKVGd2X2tnWVE5ZVFMemF4eWZjY0p1YU5ZRE9aSWJBdnk4T19QcHY0MUdfT29YdUZnNENZdEdqcFRVbGlYZDFIWWhaNWcyV1c3X0hab2h0SWtUSEhBeGh2b1ZKbWxGci1vY2c0WjZ3VklpbDBZR0s0TWfSAbABQVVfeXFMT1FrRVZnb0NMTGtEUU5UVTB5QXM4U0RNWXVvRHkwQnh2VDVHVHU3elhXWWs0WURtN003Z29CR09yOTNWQllQcWtEZXpEQmY0ZjNvNDFsRDJsWEdyNjRRWkFvQ29ENkVVNzlaR0M4LTJNb0xQOGx5ZEFfOWNTWFhWMjBkWXIwTjVZTHpCc0hrWnhkY29teF9SemNsOXRQVzNhdzZlUGRKUjlCSTZHRF9pZ0w?oc=5",
-          "source": "Google News",
-          "published": "Tue, 25 Aug 2026 19:32:03 GMT"
+          "published": "Wed, 26 Aug 2026 10:00:00 GMT"
         }
       ]
     },
     {
-      "word": "Dead",
-      "count": 3,
+      "word": "Long",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "More than 50 kidnapped as violent gang attack in Haiti leaves 47 dead - NPR",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTVFQZlJQSUg3YW9TTkpuX1YwZkV2V2Iwa25zYU5CdG1BTzlZN0REeWZsTlM5R1hsYy1seERnQ2tVTUh6UXVmNnFabTFQUmhNZllXS1F0d3JKZ2NuNHlsell3d0paT1U2NzBNRnVrNi1udWlBM2ZLdi1td2Q4T3RIYUYtNkI3MGYtVklV?oc=5",
+          "title": "Iran War Updates: Trump says U.S. \"achieving a very big victory,\" war \"will continue for as long as necessary\" - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUzJMQjNVM25NNWFDSVZ5MjlBRThTT1o3Q3k4QWZRemJLa2VEajBVR0l4OW0xVUNURWZraGVRcGlFWm5iZDZUektjWnlwQjdVdV94YU94Z2hlVklPbW1uc0dkYVdNQlhmeldmWG9OWjJrSHB6UkVFeEVjTXlvRkxTLXNn?oc=5",
           "source": "Google News",
-          "published": "Wed, 26 Aug 2026 05:45:34 GMT"
+          "published": "Wed, 26 Aug 2026 11:12:00 GMT"
         },
         {
-          "title": "‘Dead in the water’: Why Bessent should fear the bond market - Politico",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORWUyMkJUVjBDUzNFbE4xT0Q5aVRLaHdHbDZydzZMcjh2MUtYSEVOcHQyU1VKdkppNnQ5SzFqT0ZSaUdXZVppc1BtbVBod1pZWFNYRmdwU21FajYxZGo5Umt5UEhVSEU0UWxWSnpPMmNqaVVuMDFmdXZxSlFBT0ZVTHdxMUdYV3RmS1lr?oc=5",
+          "title": "Norah O'Donnell: Secrets of the gut microbiome and how it impacts our long-term brain health - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPXzE4anJHSUZEX0FmOFhXdmdqal9CMlhsSkxkSzcya216alpva1U2MGZjbWFfSFY5R0pmMEJwVWozOTFIeDJiSHZwQ2lsOXg3LUNra18tRmN4TkhzeVlENWZDbkp6NmhxQlNFR0dxYnJCUTRSZkFOVThha0dHLTVfZ2RydXQ3ZnplWDBsYjN2QVk?oc=5",
           "source": "Google News",
-          "published": "Wed, 26 Aug 2026 09:01:00 GMT"
+          "published": "Wed, 26 Aug 2026 11:05:25 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Drop",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Before Hegseth fired him, top general was advised to drop Kid Rock probe - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRU1RbzNpMzFhWFNmaXQ4ZmhkYkpKNWxyMjRzcWhTUVFLTklPMTZpbFB0cmhybFJQTzZIWUJHSlJFZUU2UEpUWEJ4V0hMYjY5NkYwOWtDQnRULXFQOFpicjBJNUlIcHVQTE9wbGRFMkV0SHpVOGE2V1ZHMDBlQ0FmbnFKVGhkY3BSejVBRnREdTFaZ2tsSldvUDZjNmtvcW90M1ZlSnE0UWRDbjlsT1RZU1B6MzF4aFFrMTlYNUZTZjA2ODZzT2l3QzBaSGdzVHBqQnJF?oc=5",
+          "source": "Google News",
+          "published": "Wed, 26 Aug 2026 12:32:41 GMT"
         },
         {
-          "title": "Dolly Parton dead at 80 as country music world mourns beloved icon whose songs shaped generations - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkRTllNkF3bTBueVEzcHAzdEtfOW9wdVBucWFhVEdfdHpSdzhqU19PZWI0amNHVmlJRkFGOFAyYlU4RGU2Y25HUnJjZXJaazYzYl9nM0E1bjB6Z1VmWXI3U1kwaUN2ZWVQUVlZNGRwMF96NmU3NnJwOA?oc=5",
+          "title": "Serena Williams, Carlos Alcaraz drop quarterfinal match after opening-round win in US Open mixed doubles - Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOOEgwS0dhSzAyRTljWDV1Y05HekxUekt1M0xxbkotNlVfdDdqbzcyUFdHbldudEU3SUFXdktfbFRXSWNvV01iUWU2ckxRUXFlOVNQV3U4T2pidElJdDd5WC1IX2ZHUXJsYUFyVVlUVC0wX0J4dkhVV0ZpWnpLQVA0X1d5TktveWNBZENvNUIxc1FTeGNRdXJzODdDTWFVZnZ5UDg1akYyVk9YMUhzSkcycFVTM3M3ZDJpaldyQk9YbGlQYTZ4bVdEb1loQ25tSWx6Vm9oMFVnczV0N3M5R0hkSFowNnRKcXFiaEE0dGhZcnFSOUx4SF9Rdi0yVGFYR3E4dnc?oc=5",
           "source": "Google News",
-          "published": "Wed, 26 Aug 2026 09:26:28 GMT"
+          "published": "Tue, 25 Aug 2026 22:15:57 GMT"
         }
       ]
     },
@@ -91,85 +168,9 @@
         },
         {
           "title": "Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSVVsa2NwekdQT3BYM2xVT0g2YnNRZE5DVVJEVEo5Q0xkSXhnYTNlck5JQ1U2a2U3Y1dVdFZqMlU3ZU9CVzNFbVBpdERTSmtrZldKZUw5c1dSLVAxU3Q0bzUzZjAwNXFheGJGcDdjVEQtWU1sdlVkRUNLOExUdy1VVXBKR0t2VENtbzZoWDlzaUItZ0RNaURuUkUxOUxQMGdrN0hpNUpXVHNCS3JUTGp0b2VoWTNYdkh5TjQtZTNIQQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSVVsa2NwekdQT3BYM2xVT0g2YnNRZE5DVVJEVEo5Q0xkSXhnYTNlck5JQ1U2a2U3Y1dVdFZqMlU3ZU9CVzNFbVBpdERTSmtrZldKZUw5c1dSLVAxU3Q0bzUzZjAwNXFheGJGcDdjVEQtWU1sdlVkRUNLOExUdy1VVXBKR0t2VENtbzZoWDlzaUItZ0RNaURuUkUxOUxQMGdrN0hpNUpXVHNCS3JUTGp0b2VoWTNYdkh5TjQtZTNIQdIBxAFBVV95cUxNNy1Wc1cya0tNay0wRGduUFBkZnhtM2RlcVBIeVRzTmVSb0hTT3ZHMzk0dndGa1ZnUS1MdENyMzE3bHpySEQ1RmVjTjM5cFVWRDduTTJtWmNKVGV6MG9JZExkYnFCdVg2ZjB3a0o3amo3SkVLRDhNXzgweG9DZHYxamdKN05yMUlleVR5ZG5tUkNyR2ZpQjBOLWtUZmdmWXQ3aDlJRVFpUWROTnY4SDVycXdfTl9DMkl2RG5CVVR2bDRtNHl6?oc=5",
           "source": "Google News",
           "published": "Wed, 26 Aug 2026 12:32:36 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Amid",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Wiped out: US faces surging toilet paper prices amid trade war with Canada - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYmZCZjZ0SGxaZTZhS0RlcGNwcFJVb3V3aUNhOXJhVHpFZDd1SEE0V3BfZkYyY1hNbDZzRVhuTHFBRlYwNFdiYWJEZ2F3dnNpbXlCU2tMQW5KSW1UZFlBNkxvckhKRE1oMkYtNTQ4SHhJWnFMZElqbDhFT0NqdlkwXzNyeFA4bWk4M2p5Y0pyRlZiUEJFT1dz?oc=5",
-          "source": "Google News",
-          "published": "Wed, 26 Aug 2026 10:00:00 GMT"
-        },
-        {
-          "title": "Trump admin pauses visa appointments worldwide amid heightened screening for applicants - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54NldtVmZHX05YckxGelFHc1pGel9TQ1F2RHBGZGlsb3hfend6QWJsRkRzVXhfQzNqVnFIMnpRcWRYemhGNGRxeE5ZVko1TWFldUZXWXZMR2ZTX3hMY29Hd2pSOVdWR3FORDJBSEltVi1ENWdKb2h1a9IBfkFVX3lxTE5JOE1MTS1UVmdfaE9kV0xWNnhMRjZ2TGY2U2J1Snd1ZEZXTWYwQlROWXc0RldkQ2xzOHhtaDZTakxEUEJkbnBVLU5oUVBqN05GSlF6WnktTF9uQ1VYZHZFeGY5eXc0OV9VSzFJLWZoUU84OEk4R1cwSlhWU1Exdw?oc=5",
-          "source": "Google News",
-          "published": "Wed, 26 Aug 2026 07:41:57 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Live",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Live Updates: Iran and Oman edge toward temporary Strait of Hormuz reopening plan, but Tehran insists U.S. lift blockade - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUzJMQjNVM25NNWFDSVZ5MjlBRThTT1o3Q3k4QWZRemJLa2VEajBVR0l4OW0xVUNURWZraGVRcGlFWm5iZDZUektjWnlwQjdVdV94YU94Z2hlVklPbW1uc0dkYVdNQlhmeldmWG9OWjJrSHB6UkVFeEVjTXlvRkxTLXNn?oc=5",
-          "source": "Google News",
-          "published": "Wed, 26 Aug 2026 11:12:00 GMT"
-        },
-        {
-          "title": "Partial lunar eclipse Aug. 27-28 live updates — 1 day to go - Space",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSTVWY2FvQmVMQlNpTzFORE1NQ2JVQmRNSFgxTkpHbDZ6aFg0WXNBckFOODB3S0gwWmRKZnNnUFFFMDJtcmw0THhJYUFFN2hTM0FTSU51Q1hyRHZSZDl6bF9oM21GcG91ejh1TUMyc1Z5WXZWbVZZcExFZWMzVk8zd3ZIWWNJT2Z2YzdPN25vZHN4YjYtVXdldTZheVM?oc=5",
-          "source": "Google News",
-          "published": "Wed, 26 Aug 2026 09:48:51 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Updates",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Live Updates: Iran and Oman edge toward temporary Strait of Hormuz reopening plan, but Tehran insists U.S. lift blockade - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUzJMQjNVM25NNWFDSVZ5MjlBRThTT1o3Q3k4QWZRemJLa2VEajBVR0l4OW0xVUNURWZraGVRcGlFWm5iZDZUektjWnlwQjdVdV94YU94Z2hlVklPbW1uc0dkYVdNQlhmeldmWG9OWjJrSHB6UkVFeEVjTXlvRkxTLXNn?oc=5",
-          "source": "Google News",
-          "published": "Wed, 26 Aug 2026 11:12:00 GMT"
-        },
-        {
-          "title": "Partial lunar eclipse Aug. 27-28 live updates — 1 day to go - Space",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSTVWY2FvQmVMQlNpTzFORE1NQ2JVQmRNSFgxTkpHbDZ6aFg0WXNBckFOODB3S0gwWmRKZnNnUFFFMDJtcmw0THhJYUFFN2hTM0FTSU51Q1hyRHZSZDl6bF9oM21GcG91ejh1TUMyc1Z5WXZWbVZZcExFZWMzVk8zd3ZIWWNJT2Z2YzdPN25vZHN4YjYtVXdldTZheVM?oc=5",
-          "source": "Google News",
-          "published": "Wed, 26 Aug 2026 09:48:51 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Iran",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Live Updates: Iran and Oman edge toward temporary Strait of Hormuz reopening plan, but Tehran insists U.S. lift blockade - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUzJMQjNVM25NNWFDSVZ5MjlBRThTT1o3Q3k4QWZRemJLa2VEajBVR0l4OW0xVUNURWZraGVRcGlFWm5iZDZUektjWnlwQjdVdV94YU94Z2hlVklPbW1uc0dkYVdNQlhmeldmWG9OWjJrSHB6UkVFeEVjTXlvRkxTLXNn?oc=5",
-          "source": "Google News",
-          "published": "Wed, 26 Aug 2026 11:12:00 GMT"
-        },
-        {
-          "title": "One US dollar now costs 2 million rials in Iran, and here’s what it can buy - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOXzNicy1XM1BQN1hMbnpRWlJTS0F2ZU1qczQ5dnVaMzF2aERydzc3SHJjRFpIcmZVTG8yalZHeEh5YUZkUVNKamxLZUk2SUJsVTRKRnNkOXJWWHFPMG9vaVQwS3VPV2xrWTVvRXdEQm5NRExJTHIwdVYzY2htTGV0ZGJtQ1A3clFBYW0tbFEtVVQ1LU5QQ3BZQTRHU1pUbTNZaUhVQlFieDdBTU5CSUdzQmxhUzlzUFBM0gG-AUFVX3lxTE5KN3BWWkFmTGpCUFE0VVpTZkg1VVNxdmY1VHFPRkNwellkUU1TTXBEMGJGajlTQnREMTdyUzFxb3l3eFFVdDZ0ZVdkVmtPTFhiTUtRUGtJWl9fYkV1RUNTNHo4b1FTXy1GQjBQdEpCYnVwY3owM05xNGFhSGtjYW9MajM0cmFHbVFWTUU4TnhBZkstTC0tS0VtRzFSaGh4TjR5QVpCcFdzS2djdldPN2N3Z1R4cjhraGZEaXB3ZGc?oc=5",
-          "source": "Google News",
-          "published": "Wed, 26 Aug 2026 10:14:10 GMT"
         }
       ]
     },
@@ -179,15 +180,15 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Canadian politicians say Trump can rename that lake whatever he likes, but it'll 'always be Lake Ontario' - Business Insider",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeHJ1OFYybkh6Um9qYmdCWnc5ZV84WFBoaEJnTFhIb0ZZSEtJakJZa3Jxb01PVUhMWWh0RExJaDdTOWgwak5YR1pBdmRmM294NnZUa3FBQ3h5WEFDRW1QNTNxd3M0VTRLMDZIdFdaaFRjaWdPRFRNS3ZtMVdHTnd1RUJLMFZuQjdfa0VoSHBHUXA3RU43MmxRTk5yQlIwbzUt?oc=5",
+          "title": "Trump mulls renaming Lake Ontario as ‘Lake America.’ Canadians balk at the idea - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcHZ4b0Z3a0UwYkFxV2loZlZSUVQ4TUtKTjhLc1NxcDBJVDVRNXZ0WnJqNVRwY1o0UmRYY2lyaXJFaE1LVDVEQTJweFg1NjNkS1RYaEo5TmpjeUV6MGM2aXRGVXZKZUUzWWRnYXNrSEdkc3ExUTBXQXk4WGFja2ctOXN0d0U2c19fWFJ5SEMzZG4?oc=5",
           "source": "Google News",
-          "published": "Wed, 26 Aug 2026 05:15:50 GMT"
+          "published": "Wed, 26 Aug 2026 14:24:00 GMT"
         }
       ]
     },
     {
-      "word": "Attack",
+      "word": "Arrest",
       "count": 2,
       "category": "NOUN",
       "articles": [
@@ -198,23 +199,10 @@
           "published": "Wed, 26 Aug 2026 09:30:58 GMT"
         },
         {
-          "title": "More than 50 kidnapped as violent gang attack in Haiti leaves 47 dead - NPR",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTVFQZlJQSUg3YW9TTkpuX1YwZkV2V2Iwa25zYU5CdG1BTzlZN0REeWZsTlM5R1hsYy1seERnQ2tVTUh6UXVmNnFabTFQUmhNZllXS1F0d3JKZ2NuNHlsell3d0paT1U2NzBNRnVrNi1udWlBM2ZLdi1td2Q4T3RIYUYtNkI3MGYtVklV?oc=5",
+          "title": "Fred Warner: Jed York arrest really wasn’t a topic of conversation in 49ers’ locker room - NBC Sports",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVWtsUW5pZ1RiY0RhYWMwZWExT0phUHppd2FSZTdGWDhBOVlMMy1WaEZOS0ZiY2QxZkJoUU1tOFJSM2Q5QVYwM1p0LVZrbk5zSWFDamVGbEFHZDJ5RVY3bFk2SnZ6UGtXbjNFLWtYUk1lQ3VpOUhwZU5BdUJtSXdEZU1kc3BncDV4Q0ZUMWtJMnJwa19PaUZtWVdRejlqRnlFc2owWGpic19Wb3dnelR6cU1PVXloNXZrcm1sS0ZMUDQxU090X3ZSV1dSQnFDX1haZjhGeE5hNUNYa1NTR0ZQSQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 26 Aug 2026 05:45:34 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Starbase",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Starbase Louisiana: SpaceX announces enormous $100 billion Starbase launch site - Space",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdWZrM0JkVjNZZ0c1OGZESm1oLTBLWFFoRkhERmNJUHIyeVpmRC00QzgxakhhYW9TSHlpSGhjTDAzQVlsOWI5ekxudU1ua1JpSGtqRFNjZUdJY2VUbWF3X19COHVSSzFrcnlTejREU2RQWDFLYm1MLWEtTHFMRWhSZFZoc19RRFl4WGJLVE5KV3kwZHUyNDU2UGx5a3BNV0QzZUY5MkdGdWc5N2otRGY3OExldll5Q2E1VHR0UzV4aXZmSUdURGxYVFZzQlBJWVBOUUhVYTVRSQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 25 Aug 2026 18:27:22 GMT"
+          "published": "Wed, 26 Aug 2026 10:54:09 GMT"
         }
       ]
     },
@@ -224,16 +212,16 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Starbase Louisiana: SpaceX announces enormous $100 billion Starbase launch site - Space",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdWZrM0JkVjNZZ0c1OGZESm1oLTBLWFFoRkhERmNJUHIyeVpmRC00QzgxakhhYW9TSHlpSGhjTDAzQVlsOWI5ekxudU1ua1JpSGtqRFNjZUdJY2VUbWF3X19COHVSSzFrcnlTejREU2RQWDFLYm1MLWEtTHFMRWhSZFZoc19RRFl4WGJLVE5KV3kwZHUyNDU2UGx5a3BNV0QzZUY5MkdGdWc5N2otRGY3OExldll5Q2E1VHR0UzV4aXZmSUdURGxYVFZzQlBJWVBOUUhVYTVRSQ?oc=5",
+          "title": "SpaceX Is Building A $100 Billion 'Starbase' Launch Site In Louisiana - Engadget",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQUJVd3h4dUVKU0ZSTk5pdnUxOHNxMnk2X3hnQm1DUVkwZWlfVXk2WHFWRTQ5Wjd5R2oxVHpfLUlnMHEtYlUycVZqYkVFUkNIZnpqYkJSclA2V2pqQ2Q5Z0JnbXB3NWljZEwyczk1SlUteVdhN1V5NDBYOTNqdFFDd09SbFk0TTVydHU5WFQ4cS1vaThjV1p0NW82SnlUWDlyTHc?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 18:27:22 GMT"
+          "published": "Wed, 26 Aug 2026 07:05:00 GMT"
         },
         {
-          "title": "SpaceX Ends Falcon 9 Starlink Flights From Florida to Prioritize Starship - PCMag",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRmIwZUViMm1MMmdyMFVMUnl0RzYzNWhpRWFfY3NYdHN6LWlkWFE4WmgzTkVxVGJlRlhOcElKMHUtRGZRUWZERHB6TndrZXU5RHJSc0NWa0lVT2xUbksxb2VkNVFLV05ORlZFMUNqM0lQRGJ6Vm5oaEt3Rm5HMGhoWWpsdHItTVJELUgydVpiXzh1Tk1zN3NZb0Q0MG5tN2xRbVE?oc=5",
+          "title": "SpaceX launches 27 Starlink satellites on Falcon 9 rocket from Vandenberg - Spaceflight Now",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSFd1a2l5OW9pRVF1cG5aX3BaTHZrSnBoSnpRRVh5V1hpVDlXVDRLcTBESVRYNndxTHlGWFpfcmNEQ2cybUw4TzNWNm4zZ0xSRS1BVmJnbGt6WVB6SmtNcmRra0lpV2FjbWFfWVJiOTJ4RE5UR3c5TVNmTEgtSm15Q29kZ2txM3NQOGlhWWdEVGlqOTF0NWJ0TGhOYlNBWl9pOGRjMFl2QWRvQnVKY1kzRjdPSVFfYlFxcHV6QlpwSTlUblFaLWtnRw?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 19:51:51 GMT"
+          "published": "Wed, 26 Aug 2026 07:56:06 GMT"
         }
       ]
     },
@@ -243,73 +231,54 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Starbase Louisiana: SpaceX announces enormous $100 billion Starbase launch site - Space",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdWZrM0JkVjNZZ0c1OGZESm1oLTBLWFFoRkhERmNJUHIyeVpmRC00QzgxakhhYW9TSHlpSGhjTDAzQVlsOWI5ekxudU1ua1JpSGtqRFNjZUdJY2VUbWF3X19COHVSSzFrcnlTejREU2RQWDFLYm1MLWEtTHFMRWhSZFZoc19RRFl4WGJLVE5KV3kwZHUyNDU2UGx5a3BNV0QzZUY5MkdGdWc5N2otRGY3OExldll5Q2E1VHR0UzV4aXZmSUdURGxYVFZzQlBJWVBOUUhVYTVRSQ?oc=5",
+          "title": "SpaceX Is Building A $100 Billion 'Starbase' Launch Site In Louisiana - Engadget",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQUJVd3h4dUVKU0ZSTk5pdnUxOHNxMnk2X3hnQm1DUVkwZWlfVXk2WHFWRTQ5Wjd5R2oxVHpfLUlnMHEtYlUycVZqYkVFUkNIZnpqYkJSclA2V2pqQ2Q5Z0JnbXB3NWljZEwyczk1SlUteVdhN1V5NDBYOTNqdFFDd09SbFk0TTVydHU5WFQ4cS1vaThjV1p0NW82SnlUWDlyTHc?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 18:27:22 GMT"
+          "published": "Wed, 26 Aug 2026 07:05:00 GMT"
         },
         {
           "title": "With launch of Roman telescope, NASA hopes to unlock mystery of dark energy - The Washington Post",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaHFNT01fRlVLRHpWbVhCaGNmMWxxTS1ZOVlHLTRRQ0pkSGxxTGpEZVVHcE5qcnMtdkR1Q1N5bU1UdVVBd1RMa3Y3Z0VGNFdmV2dST3VaS3dYMi0ydmwyWmlpRE9HRVphRDJPUnB1RS0ySnlMUHdJWVhPLTQwVXVnT1dkYkRaMjMyN1pLZmxGZndpeF9oakdyci1ldHhheXlHZ09WaEp4SE40YXpHTmQ0VmZSUnR5clk?oc=5",
           "source": "Google News",
-          "published": "Wed, 26 Aug 2026 11:32:54 GMT"
+          "published": "Wed, 26 Aug 2026 14:32:54 GMT"
         }
       ]
     },
     {
-      "word": "Site",
+      "word": "Fastest",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Starbase Louisiana: SpaceX announces enormous $100 billion Starbase launch site - Space",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdWZrM0JkVjNZZ0c1OGZESm1oLTBLWFFoRkhERmNJUHIyeVpmRC00QzgxakhhYW9TSHlpSGhjTDAzQVlsOWI5ekxudU1ua1JpSGtqRFNjZUdJY2VUbWF3X19COHVSSzFrcnlTejREU2RQWDFLYm1MLWEtTHFMRWhSZFZoc19RRFl4WGJLVE5KV3kwZHUyNDU2UGx5a3BNV0QzZUY5MkdGdWc5N2otRGY3OExldll5Q2E1VHR0UzV4aXZmSUdURGxYVFZzQlBJWVBOUUhVYTVRSQ?oc=5",
+          "title": "Nvidia earnings could reveal its fastest-growing business isn’t chips: Chart of the Day - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQd2NXVzJYZ210S2NuS29YdTBndnNxMXRrenhkYmdxZzR4ZXB1dFBldnFfZFZRV2JCN1dPY0JmaUhpd2xERndlam5BMmp3bWhQMEhQSGFGQzJoZTFFREVGRG4yaFZ1bDVWbU90Mm5NNVR2WmxZYjNBbzg3TUliOEVGQnVtamY5d0dmdTJibGliLUsyXzRTYmdLRUdtc1NfZGZodmt3SlNJVi1vRS14dkVxdzU4azBoblZDS0NkOS0wSmw0SHp0aXptaWFzMEJMZHlENTlvb1ZpSWJBdw?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 18:27:22 GMT"
+          "published": "Wed, 26 Aug 2026 10:00:00 GMT"
         },
         {
-          "title": "Owner says business dips at Ottumwa Pizza Ranch after being named possible measles exposure site - KCCI",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdEZqOFd1U0tZNzF5bmRhdHpfbElheGtKUUtfdFVSdjZtR3Y4QU96UWZodmZFanVjZUlHN2lQS0E5bEpyRVBrMzFpQm5pbDhYejExZ19CRGVTWGxGMEJyY2d1YmswakNzd1lQbzk1VGUxUFAxNnFxczJkWkd4YnlfMWVoNy01Y213VERXSXNRc29CcUE5NTZvOWo1N0dmRGxZcTF1UFhQNm9sSnhqSHlGamhJc3MweUxKd2dZ?oc=5",
+          "title": "Fastest-growing Ebola outbreak on record threatens to become worst in history - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcXRpTkZCc2ZJQ2VpbUpQRXpnanYzeVZEQk51V0lCMUJRLXlSMHJabmRfWEZRa0g2MXlWMk03dFp6SlRySUxteDMxbW9mTXZSZVZ4TmdYWng3S1F4NWRsNHFVb2xCcjR2RGZidmlvYTJ3X1BhcWkyMkhuMFdGQnUzUFlSSXMzazV1Ykczd3NMb0xmYzJ5UF8wTm5pSU1PcFNUU2pHNmlaYVdiQnluYnBiWVhn?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 23:35:00 GMT"
+          "published": "Wed, 26 Aug 2026 13:32:34 GMT"
         }
       ]
     },
     {
-      "word": "Apple",
+      "word": "Growing",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Apple defies memory shortage with new Mac minis - The Register",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWUt0ZDhjTGc3bmIwWWtiOGVpTHRDZjJjdDh0ODlFUnlHTlc4cGZBRjQwOE9wS3NnVUdLVnRyVDZ6OUl6WFM3dWE2NEd2RUs2dUpsSlBrQWdFbmlOUjdJdFN4N2xVdHRVNGdKYTlaZVY4S0EtWGU5MkhYcnE0ZTdhejQ5eFJuOGlwa2NTVzRHVkhqaU56S3hENVIxVkZKVnB3NlBSWU1uRQ?oc=5",
+          "title": "Nvidia earnings could reveal its fastest-growing business isn’t chips: Chart of the Day - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQd2NXVzJYZ210S2NuS29YdTBndnNxMXRrenhkYmdxZzR4ZXB1dFBldnFfZFZRV2JCN1dPY0JmaUhpd2xERndlam5BMmp3bWhQMEhQSGFGQzJoZTFFREVGRG4yaFZ1bDVWbU90Mm5NNVR2WmxZYjNBbzg3TUliOEVGQnVtamY5d0dmdTJibGliLUsyXzRTYmdLRUdtc1NfZGZodmt3SlNJVi1vRS14dkVxdzU4azBoblZDS0NkOS0wSmw0SHp0aXptaWFzMEJMZHlENTlvb1ZpSWJBdw?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 20:18:19 GMT"
+          "published": "Wed, 26 Aug 2026 10:00:00 GMT"
         },
         {
-          "title": "Apple's 40W Dynamic Power Adapter Expands to More Countries - MacRumors",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRHRWdjgzRG5LcGdUNFNHRzJLNjlEaHNRRkZLQnhuWlJYaWZZQ054YUVXRXplR0RYRTdpdGVpZVJQeTlpLTFGUmRzV1ZrOFZnTUlJWEFHTEExdmtPMVoweTVGN2VkM21Oand2T2FxMUlpOUdFeE5SRng1LU44UzVJM0xn?oc=5",
+          "title": "Fastest-growing Ebola outbreak on record threatens to become worst in history - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcXRpTkZCc2ZJQ2VpbUpQRXpnanYzeVZEQk51V0lCMUJRLXlSMHJabmRfWEZRa0g2MXlWMk03dFp6SlRySUxteDMxbW9mTXZSZVZ4TmdYWng3S1F4NWRsNHFVb2xCcjR2RGZidmlvYTJ3X1BhcWkyMkhuMFdGQnUzUFlSSXMzazV1Ykczd3NMb0xmYzJ5UF8wTm5pSU1PcFNUU2pHNmlaYVdiQnluYnBiWVhn?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 17:45:21 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Music",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Dolly Parton dead at 80 as country music world mourns beloved icon whose songs shaped generations - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkRTllNkF3bTBueVEzcHAzdEtfOW9wdVBucWFhVEdfdHpSdzhqU19PZWI0amNHVmlJRkFGOFAyYlU4RGU2Y25HUnJjZXJaazYzYl9nM0E1bjB6Z1VmWXI3U1kwaUN2ZWVQUVlZNGRwMF96NmU3NnJwOA?oc=5",
-          "source": "Google News",
-          "published": "Wed, 26 Aug 2026 09:26:28 GMT"
-        },
-        {
-          "title": "Harry Styles and the Residencies Taking Over the Music Industry - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQlBzM0x0OHVlZ2F4TUNMQlMyRUY4QVo5djA3WVlpdVF1aldjNzJlbjExRlA4N25DWUR0VTRLRWRrWVhOUmppMHdLMlgtaE0yVjNaUE1qaFZ0SGpTMERjVVR5NlRjRlQtanJtUUU1dkVKN25NeHRYWG1DaUtWNk1MVk1rMFFBWVNYM1FOUlZn?oc=5",
-          "source": "Google News",
-          "published": "Wed, 26 Aug 2026 09:02:50 GMT"
+          "published": "Wed, 26 Aug 2026 13:32:34 GMT"
         }
       ]
     },
@@ -319,158 +288,158 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Prince Harry and wife Meghan arrive in the UK as they make a fresh start in Britain - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUUsyQ1JrTl9WQnlqLTBQczcwUXUwSllrTEc5NnNFV0lsN3Z5LTFqc3Rnd3pUcmpBTWt3aW54d2M1SW5TQlNSRWtLdUQzUlNLejhLdVBDX3hEM0NGcWlZcnl6dUJVaUNfWkFUYkJxdzdaZlYwaHVjVVAwdWdVMjNxUzM5Y1BDSzdiRWxRUVdWa21ueUlPYUFYVFlpVzJtdUYtcG1yOQ?oc=5",
+          "title": "Prince Harry and Meghan arrive back in UK, six years after leaving royal life behind - CNN",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5yUnZqLURtYUR3b1BZZW5uM1hBRUlZSEJqWWE4UXBwMEZnbHVTTEc3TVFzOXU0VFZBcW5Dc1EyZ0I2VEVCTnNqSVB2NXpobUhRRmpOMXNGUDVRN2I4ampKNEpvSWdBOUNYLVd2cy02S29taXFkS0o0?oc=5",
           "source": "Google News",
-          "published": "Wed, 26 Aug 2026 12:34:00 GMT"
+          "published": "Wed, 26 Aug 2026 12:23:48 GMT"
         },
         {
-          "title": "Harry Styles and the Residencies Taking Over the Music Industry - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQlBzM0x0OHVlZ2F4TUNMQlMyRUY4QVo5djA3WVlpdVF1aldjNzJlbjExRlA4N25DWUR0VTRLRWRrWVhOUmppMHdLMlgtaE0yVjNaUE1qaFZ0SGpTMERjVVR5NlRjRlQtanJtUUU1dkVKN25NeHRYWG1DaUtWNk1MVk1rMFFBWVNYM1FOUlZn?oc=5",
+          "title": "Rupert Grint Will Join ‘Harry Potter’ Again, This Time on Broadway - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT05RZERXNVAzRWw0VVdZRXZPM3NfTTZrVFl2cFJSRGJJYUJ4ZU5LVXBWLXZoS1FKX2VJRm1TRjVmX0J4bTdaTzE0T0hETHAxYmNnM3pYVENQTkYwZ2NJQ1M0Wk9YZDNhVDRQMkFUV2syanhFeDczN21oSWFYRHFlTVladDhjUnRUa2c?oc=5",
           "source": "Google News",
-          "published": "Wed, 26 Aug 2026 09:02:50 GMT"
+          "published": "Wed, 26 Aug 2026 13:30:05 GMT"
         }
       ]
     },
     {
-      "word": "Video",
+      "word": "Life",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "DWCS 89 video: Bella Mir shocked by Alex Apodaca in all-time MMA upset - MMA Junkie",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcktXaVMxN2xVcm5NVHpyOUh4T01tQ19yczJsdUk3ZHZoYVBUUnhPc1ZIVFhKbG55TlBJOV9UZWk5dTllYXZqajdkcU1rQ0wyOHZXbU5raHJEalRWUVdWVFI1ZWtCS3M4VElpWEdLUG1OYTk5VmVYWWtzMU1idXloRFgwWGRzVVVSX0IxR1ZuZnZMbmJrdTFpRWQxSEFJb1BfM2s2RkxLdTM1Zl9uWkZZTm9BeWlYdnJfdWI2NHNnSExOa0xsSlBQUl9LZjFRT3F2bl9WQ1NrczhzVW5rYVZESk5BTmk?oc=5",
+          "title": "Prince Harry and Meghan arrive back in UK, six years after leaving royal life behind - CNN",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5yUnZqLURtYUR3b1BZZW5uM1hBRUlZSEJqWWE4UXBwMEZnbHVTTEc3TVFzOXU0VFZBcW5Dc1EyZ0I2VEVCTnNqSVB2NXpobUhRRmpOMXNGUDVRN2I4ampKNEpvSWdBOUNYLVd2cy02S29taXFkS0o0?oc=5",
           "source": "Google News",
-          "published": "Wed, 26 Aug 2026 01:13:15 GMT"
+          "published": "Wed, 26 Aug 2026 12:23:48 GMT"
         },
         {
-          "title": "'You just saved the video dish': Two astronauts complete spacewalk to replace ISS antenna - Space",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOG95ak4xZ2Q4WERpRFFkNmVuMXk1YWlQOXQ1MklOZzNvUS12a0FZdDV0NTZFaEpvUnRrN0FFRjFRaTdsYzZMTjZLYzVETDU0dzdRVWUxdy1WQUJfUXJLUWNkVjl1NkNwYi1SYVVlMXI0b3FrZFFoaVphRWpFR2ozSFFDZHhubUdIbDduLUg1cmxvdmFoSzdsaDlsMzlHdkd2eUItZ1M3N1RIeDAxRXI0YnhzN0tYTWpESFJDdmthTUF3MDVuUmxleWdqY2h2djZac3JOUTdKalVJYWxCSXlXaktJWndhTWlmM2c?oc=5",
+          "title": "Eating less of common ingredient early in life may slash cancer risk decades later - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd2ZYNlZZQWZZLTk2WHJ5d0cwSEZxZDd0cE9Ca3lsMmp5YXFmaUdXWEJYUjBsVE5ZVUlGRnlxUmt4Q0tyVklQTkl3YXBLQ3VnaVZRNXQ5bDNaTXEwQVRCZC1oU09OVWc0TnBnWUl2MW1Tb1pnTDEwc19KRGZ1a0lBX2V2YXp5ei1EemlaWEZpQ0VPcWxZYU9VWWpSa2RvcHllU2xZV0E0dkFUR1HSAbABQVVfeXFMTl9STkNPbkFuQnFIcEhmZTE1QzdRWHRnMlF0MlpfTWFtUk5EQzBvTDNKLWlvYkpOS1pzSmphalJ3d19QclAxYkdqMWNGNW5vTldaU2xiM19pQUZWZWJXejBrVzRvWmxMWW5MY2VpeXFPVE51c3hGNzY3ZFZlT3BMaThocENRR1hlMGdtcVBRdGR6dllPVkZxOFB2TjBlU0JNTzFSN043TmVhcEN0elRraTY?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 21:00:00 GMT"
+          "published": "Wed, 26 Aug 2026 11:00:30 GMT"
         }
       ]
     },
     {
-      "word": "Measles",
+      "word": "Decades",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Two unvaccinated people die of measles in US state of Pennsylvania - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUUI4Q205bzN2T1Nzb2h6U0dhd2JES0ZPNHJ0TmtQMmI4d1ZFLTVvY1hnbkZrZ0o0U2NKVGd2X2tnWVE5ZVFMemF4eWZjY0p1YU5ZRE9aSWJBdnk4T19QcHY0MUdfT29YdUZnNENZdEdqcFRVbGlYZDFIWWhaNWcyV1c3X0hab2h0SWtUSEhBeGh2b1ZKbWxGci1vY2c0WjZ3VklpbDBZR0s0TWfSAbABQVVfeXFMT1FrRVZnb0NMTGtEUU5UVTB5QXM4U0RNWXVvRHkwQnh2VDVHVHU3elhXWWs0WURtN003Z29CR09yOTNWQllQcWtEZXpEQmY0ZjNvNDFsRDJsWEdyNjRRWkFvQ29ENkVVNzlaR0M4LTJNb0xQOGx5ZEFfOWNTWFhWMjBkWXIwTjVZTHpCc0hrWnhkY29teF9SemNsOXRQVzNhdzZlUGRKUjlCSTZHRF9pZ0w?oc=5",
+          "title": "Officials warn of 'potential severity of the illness' after Pennsylvania reports first measles deaths in decades - 6abc Philadelphia",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaWpJUDR1VlNlNHlTREF2SlUzYnFob3JjaFd3bm91SlpXYUJTa2FVYm9kYnZlbDNjXzZsU096Ti1Va19Cd3EtWnp0TGJVNkl3U3UtUzRtM3NmM3R3SlNCNHRBMUMtekFuQ3RsM1JCcjU5ZzdENDdQcUo0LTFCQmJiRng1NnJyRE94OWhjYWtmOG1sa2ZLbGFwcmNlQ25uYjltdTZhZHl0NWJGUkstclluanFYMmpUb1JDeVFlRWNkeHfSAcYBQVVfeXFMTWxYZmJya01QclU2NDJGZ1V3Zjd3azJVem1XR1lsUWs4NjJHUW14Z1VVUHBGMmt6MlFrdEJTenoxMFkzM180dEx1YzRhSGF0Y0VPUHhIVThiWWpzMERfeGhWczhDZTBjUjlaMEtFRTg1dE5BZ0RwUjAyRlRESm9wVk9pNkNQWFN2dE5oSWoxY0YyZXV2YkY1UTltX29qZy0zbElnZWg1dHJnLXFlREZpNE9OOWlJNTVRTUVBX2l1UXNUR0hPMUFn?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 19:32:03 GMT"
+          "published": "Wed, 26 Aug 2026 12:01:40 GMT"
         },
         {
-          "title": "Owner says business dips at Ottumwa Pizza Ranch after being named possible measles exposure site - KCCI",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdEZqOFd1U0tZNzF5bmRhdHpfbElheGtKUUtfdFVSdjZtR3Y4QU96UWZodmZFanVjZUlHN2lQS0E5bEpyRVBrMzFpQm5pbDhYejExZ19CRGVTWGxGMEJyY2d1YmswakNzd1lQbzk1VGUxUFAxNnFxczJkWkd4YnlfMWVoNy01Y213VERXSXNRc29CcUE5NTZvOWo1N0dmRGxZcTF1UFhQNm9sSnhqSHlGamhJc3MweUxKd2dZ?oc=5",
+          "title": "Eating less of common ingredient early in life may slash cancer risk decades later - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd2ZYNlZZQWZZLTk2WHJ5d0cwSEZxZDd0cE9Ca3lsMmp5YXFmaUdXWEJYUjBsVE5ZVUlGRnlxUmt4Q0tyVklQTkl3YXBLQ3VnaVZRNXQ5bDNaTXEwQVRCZC1oU09OVWc0TnBnWUl2MW1Tb1pnTDEwc19KRGZ1a0lBX2V2YXp5ei1EemlaWEZpQ0VPcWxZYU9VWWpSa2RvcHllU2xZV0E0dkFUR1HSAbABQVVfeXFMTl9STkNPbkFuQnFIcEhmZTE1QzdRWHRnMlF0MlpfTWFtUk5EQzBvTDNKLWlvYkpOS1pzSmphalJ3d19QclAxYkdqMWNGNW5vTldaU2xiM19pQUZWZWJXejBrVzRvWmxMWW5MY2VpeXFPVE51c3hGNzY3ZFZlT3BMaThocENRR1hlMGdtcVBRdGR6dllPVkZxOFB2TjBlU0JNTzFSN043TmVhcEN0elRraTY?oc=5",
           "source": "Google News",
-          "published": "Tue, 25 Aug 2026 23:35:00 GMT"
+          "published": "Wed, 26 Aug 2026 11:00:30 GMT"
         }
       ]
     },
     {
-      "word": "Wiped",
+      "word": "Meta",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Wiped out: US faces surging toilet paper prices amid trade war with Canada - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYmZCZjZ0SGxaZTZhS0RlcGNwcFJVb3V3aUNhOXJhVHpFZDd1SEE0V3BfZkYyY1hNbDZzRVhuTHFBRlYwNFdiYWJEZ2F3dnNpbXlCU2tMQW5KSW1UZFlBNkxvckhKRE1oMkYtNTQ4SHhJWnFMZElqbDhFT0NqdlkwXzNyeFA4bWk4M2p5Y0pyRlZiUEJFT1dz?oc=5",
+          "title": "Meta to Pay Up to $17.1 Billion in Landmark Settlement Over Social Media Addiction Claims - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd0dRVTg3ZWtFRUJ5eDBpeFU5dHJfbVd5MXI4cUJ2aTR1NUFCOXZRMVY4TThva1Z0VkxRckttUlhjZ2wtaFJoTzd0bkFtazVBMmpYaHBDMmVieXdqaDhVTGUzR2FmMl9VNFJIbU1qTlM5X3d5VXlPTkNxdnNMalBpaG1FdUNiRkwyWGptenNOR2Y2UWhucExmcXJFNzdwZw?oc=5",
           "source": "Google News",
-          "published": "Wed, 26 Aug 2026 10:00:00 GMT"
+          "published": "Wed, 26 Aug 2026 13:26:04 GMT"
         }
       ]
     },
     {
-      "word": "Faces",
+      "word": "Pay",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Wiped out: US faces surging toilet paper prices amid trade war with Canada - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYmZCZjZ0SGxaZTZhS0RlcGNwcFJVb3V3aUNhOXJhVHpFZDd1SEE0V3BfZkYyY1hNbDZzRVhuTHFBRlYwNFdiYWJEZ2F3dnNpbXlCU2tMQW5KSW1UZFlBNkxvckhKRE1oMkYtNTQ4SHhJWnFMZElqbDhFT0NqdlkwXzNyeFA4bWk4M2p5Y0pyRlZiUEJFT1dz?oc=5",
+          "title": "Meta to Pay Up to $17.1 Billion in Landmark Settlement Over Social Media Addiction Claims - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd0dRVTg3ZWtFRUJ5eDBpeFU5dHJfbVd5MXI4cUJ2aTR1NUFCOXZRMVY4TThva1Z0VkxRckttUlhjZ2wtaFJoTzd0bkFtazVBMmpYaHBDMmVieXdqaDhVTGUzR2FmMl9VNFJIbU1qTlM5X3d5VXlPTkNxdnNMalBpaG1FdUNiRkwyWGptenNOR2Y2UWhucExmcXJFNzdwZw?oc=5",
           "source": "Google News",
-          "published": "Wed, 26 Aug 2026 10:00:00 GMT"
+          "published": "Wed, 26 Aug 2026 13:26:04 GMT"
         }
       ]
     },
     {
-      "word": "Surging",
+      "word": "Landmark",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Wiped out: US faces surging toilet paper prices amid trade war with Canada - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYmZCZjZ0SGxaZTZhS0RlcGNwcFJVb3V3aUNhOXJhVHpFZDd1SEE0V3BfZkYyY1hNbDZzRVhuTHFBRlYwNFdiYWJEZ2F3dnNpbXlCU2tMQW5KSW1UZFlBNkxvckhKRE1oMkYtNTQ4SHhJWnFMZElqbDhFT0NqdlkwXzNyeFA4bWk4M2p5Y0pyRlZiUEJFT1dz?oc=5",
+          "title": "Meta to Pay Up to $17.1 Billion in Landmark Settlement Over Social Media Addiction Claims - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd0dRVTg3ZWtFRUJ5eDBpeFU5dHJfbVd5MXI4cUJ2aTR1NUFCOXZRMVY4TThva1Z0VkxRckttUlhjZ2wtaFJoTzd0bkFtazVBMmpYaHBDMmVieXdqaDhVTGUzR2FmMl9VNFJIbU1qTlM5X3d5VXlPTkNxdnNMalBpaG1FdUNiRkwyWGptenNOR2Y2UWhucExmcXJFNzdwZw?oc=5",
           "source": "Google News",
-          "published": "Wed, 26 Aug 2026 10:00:00 GMT"
+          "published": "Wed, 26 Aug 2026 13:26:04 GMT"
         }
       ]
     },
     {
-      "word": "Toilet",
+      "word": "Settlement",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Wiped out: US faces surging toilet paper prices amid trade war with Canada - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYmZCZjZ0SGxaZTZhS0RlcGNwcFJVb3V3aUNhOXJhVHpFZDd1SEE0V3BfZkYyY1hNbDZzRVhuTHFBRlYwNFdiYWJEZ2F3dnNpbXlCU2tMQW5KSW1UZFlBNkxvckhKRE1oMkYtNTQ4SHhJWnFMZElqbDhFT0NqdlkwXzNyeFA4bWk4M2p5Y0pyRlZiUEJFT1dz?oc=5",
+          "title": "Meta to Pay Up to $17.1 Billion in Landmark Settlement Over Social Media Addiction Claims - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd0dRVTg3ZWtFRUJ5eDBpeFU5dHJfbVd5MXI4cUJ2aTR1NUFCOXZRMVY4TThva1Z0VkxRckttUlhjZ2wtaFJoTzd0bkFtazVBMmpYaHBDMmVieXdqaDhVTGUzR2FmMl9VNFJIbU1qTlM5X3d5VXlPTkNxdnNMalBpaG1FdUNiRkwyWGptenNOR2Y2UWhucExmcXJFNzdwZw?oc=5",
           "source": "Google News",
-          "published": "Wed, 26 Aug 2026 10:00:00 GMT"
+          "published": "Wed, 26 Aug 2026 13:26:04 GMT"
         }
       ]
     },
     {
-      "word": "Paper",
+      "word": "Social",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Wiped out: US faces surging toilet paper prices amid trade war with Canada - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYmZCZjZ0SGxaZTZhS0RlcGNwcFJVb3V3aUNhOXJhVHpFZDd1SEE0V3BfZkYyY1hNbDZzRVhuTHFBRlYwNFdiYWJEZ2F3dnNpbXlCU2tMQW5KSW1UZFlBNkxvckhKRE1oMkYtNTQ4SHhJWnFMZElqbDhFT0NqdlkwXzNyeFA4bWk4M2p5Y0pyRlZiUEJFT1dz?oc=5",
+          "title": "Meta to Pay Up to $17.1 Billion in Landmark Settlement Over Social Media Addiction Claims - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd0dRVTg3ZWtFRUJ5eDBpeFU5dHJfbVd5MXI4cUJ2aTR1NUFCOXZRMVY4TThva1Z0VkxRckttUlhjZ2wtaFJoTzd0bkFtazVBMmpYaHBDMmVieXdqaDhVTGUzR2FmMl9VNFJIbU1qTlM5X3d5VXlPTkNxdnNMalBpaG1FdUNiRkwyWGptenNOR2Y2UWhucExmcXJFNzdwZw?oc=5",
           "source": "Google News",
-          "published": "Wed, 26 Aug 2026 10:00:00 GMT"
+          "published": "Wed, 26 Aug 2026 13:26:04 GMT"
         }
       ]
     },
     {
-      "word": "Trade",
+      "word": "Media",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Wiped out: US faces surging toilet paper prices amid trade war with Canada - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYmZCZjZ0SGxaZTZhS0RlcGNwcFJVb3V3aUNhOXJhVHpFZDd1SEE0V3BfZkYyY1hNbDZzRVhuTHFBRlYwNFdiYWJEZ2F3dnNpbXlCU2tMQW5KSW1UZFlBNkxvckhKRE1oMkYtNTQ4SHhJWnFMZElqbDhFT0NqdlkwXzNyeFA4bWk4M2p5Y0pyRlZiUEJFT1dz?oc=5",
+          "title": "Meta to Pay Up to $17.1 Billion in Landmark Settlement Over Social Media Addiction Claims - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd0dRVTg3ZWtFRUJ5eDBpeFU5dHJfbVd5MXI4cUJ2aTR1NUFCOXZRMVY4TThva1Z0VkxRckttUlhjZ2wtaFJoTzd0bkFtazVBMmpYaHBDMmVieXdqaDhVTGUzR2FmMl9VNFJIbU1qTlM5X3d5VXlPTkNxdnNMalBpaG1FdUNiRkwyWGptenNOR2Y2UWhucExmcXJFNzdwZw?oc=5",
           "source": "Google News",
-          "published": "Wed, 26 Aug 2026 10:00:00 GMT"
+          "published": "Wed, 26 Aug 2026 13:26:04 GMT"
         }
       ]
     },
     {
-      "word": "war",
+      "word": "Addiction",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Wiped out: US faces surging toilet paper prices amid trade war with Canada - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYmZCZjZ0SGxaZTZhS0RlcGNwcFJVb3V3aUNhOXJhVHpFZDd1SEE0V3BfZkYyY1hNbDZzRVhuTHFBRlYwNFdiYWJEZ2F3dnNpbXlCU2tMQW5KSW1UZFlBNkxvckhKRE1oMkYtNTQ4SHhJWnFMZElqbDhFT0NqdlkwXzNyeFA4bWk4M2p5Y0pyRlZiUEJFT1dz?oc=5",
+          "title": "Meta to Pay Up to $17.1 Billion in Landmark Settlement Over Social Media Addiction Claims - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd0dRVTg3ZWtFRUJ5eDBpeFU5dHJfbVd5MXI4cUJ2aTR1NUFCOXZRMVY4TThva1Z0VkxRckttUlhjZ2wtaFJoTzd0bkFtazVBMmpYaHBDMmVieXdqaDhVTGUzR2FmMl9VNFJIbU1qTlM5X3d5VXlPTkNxdnNMalBpaG1FdUNiRkwyWGptenNOR2Y2UWhucExmcXJFNzdwZw?oc=5",
           "source": "Google News",
-          "published": "Wed, 26 Aug 2026 10:00:00 GMT"
+          "published": "Wed, 26 Aug 2026 13:26:04 GMT"
         }
       ]
     },
     {
-      "word": "Canada",
+      "word": "Claims",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Wiped out: US faces surging toilet paper prices amid trade war with Canada - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYmZCZjZ0SGxaZTZhS0RlcGNwcFJVb3V3aUNhOXJhVHpFZDd1SEE0V3BfZkYyY1hNbDZzRVhuTHFBRlYwNFdiYWJEZ2F3dnNpbXlCU2tMQW5KSW1UZFlBNkxvckhKRE1oMkYtNTQ4SHhJWnFMZElqbDhFT0NqdlkwXzNyeFA4bWk4M2p5Y0pyRlZiUEJFT1dz?oc=5",
+          "title": "Meta to Pay Up to $17.1 Billion in Landmark Settlement Over Social Media Addiction Claims - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd0dRVTg3ZWtFRUJ5eDBpeFU5dHJfbVd5MXI4cUJ2aTR1NUFCOXZRMVY4TThva1Z0VkxRckttUlhjZ2wtaFJoTzd0bkFtazVBMmpYaHBDMmVieXdqaDhVTGUzR2FmMl9VNFJIbU1qTlM5X3d5VXlPTkNxdnNMalBpaG1FdUNiRkwyWGptenNOR2Y2UWhucExmcXJFNzdwZw?oc=5",
           "source": "Google News",
-          "published": "Wed, 26 Aug 2026 10:00:00 GMT"
+          "published": "Wed, 26 Aug 2026 13:26:04 GMT"
         }
       ]
     },
@@ -480,10 +449,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Hundreds missing, including 291 foreign tourists, after flash flood on Nepal-Tibet border - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qX3ZFX29jdVdvdDcyVnlUUnRBUnVWMmlTYjA4QVFUTE1DelhPN01XOWxzZ3dlUGRWQ19FYkg0X3FodjBQb3VyWW4xb0R2V0QtNGV3RTN3?oc=5",
+          "title": "Hundreds missing and many feared dead after massive flash flood hits Nepal-China border - CNN",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaVMxckk4ZEFnYk1CNWNNb2dNeXFhbXloT1dCa0dtQ2xCWTUwWTNqWXhyS2IxdXZyZW5mbXlMSmhfTi1FclBhcG9NTDRCc2JOOUV1aWNPWnl2NW1OTTM0X1gtcm4tSjNuNHJGdHNIMVcxM05qZFQ5emtCTTE2ZU1YR0hTVVU3dw?oc=5",
           "source": "Google News",
-          "published": "Wed, 26 Aug 2026 10:55:42 GMT"
+          "published": "Wed, 26 Aug 2026 14:34:00 GMT"
         }
       ]
     },
@@ -493,49 +462,49 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Hundreds missing, including 291 foreign tourists, after flash flood on Nepal-Tibet border - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qX3ZFX29jdVdvdDcyVnlUUnRBUnVWMmlTYjA4QVFUTE1DelhPN01XOWxzZ3dlUGRWQ19FYkg0X3FodjBQb3VyWW4xb0R2V0QtNGV3RTN3?oc=5",
+          "title": "Hundreds missing and many feared dead after massive flash flood hits Nepal-China border - CNN",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaVMxckk4ZEFnYk1CNWNNb2dNeXFhbXloT1dCa0dtQ2xCWTUwWTNqWXhyS2IxdXZyZW5mbXlMSmhfTi1FclBhcG9NTDRCc2JOOUV1aWNPWnl2NW1OTTM0X1gtcm4tSjNuNHJGdHNIMVcxM05qZFQ5emtCTTE2ZU1YR0hTVVU3dw?oc=5",
           "source": "Google News",
-          "published": "Wed, 26 Aug 2026 10:55:42 GMT"
+          "published": "Wed, 26 Aug 2026 14:34:00 GMT"
         }
       ]
     },
     {
-      "word": "Including",
+      "word": "Feared",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Hundreds missing, including 291 foreign tourists, after flash flood on Nepal-Tibet border - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qX3ZFX29jdVdvdDcyVnlUUnRBUnVWMmlTYjA4QVFUTE1DelhPN01XOWxzZ3dlUGRWQ19FYkg0X3FodjBQb3VyWW4xb0R2V0QtNGV3RTN3?oc=5",
+          "title": "Hundreds missing and many feared dead after massive flash flood hits Nepal-China border - CNN",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaVMxckk4ZEFnYk1CNWNNb2dNeXFhbXloT1dCa0dtQ2xCWTUwWTNqWXhyS2IxdXZyZW5mbXlMSmhfTi1FclBhcG9NTDRCc2JOOUV1aWNPWnl2NW1OTTM0X1gtcm4tSjNuNHJGdHNIMVcxM05qZFQ5emtCTTE2ZU1YR0hTVVU3dw?oc=5",
           "source": "Google News",
-          "published": "Wed, 26 Aug 2026 10:55:42 GMT"
+          "published": "Wed, 26 Aug 2026 14:34:00 GMT"
         }
       ]
     },
     {
-      "word": "Foreign",
+      "word": "Dead",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Hundreds missing, including 291 foreign tourists, after flash flood on Nepal-Tibet border - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qX3ZFX29jdVdvdDcyVnlUUnRBUnVWMmlTYjA4QVFUTE1DelhPN01XOWxzZ3dlUGRWQ19FYkg0X3FodjBQb3VyWW4xb0R2V0QtNGV3RTN3?oc=5",
+          "title": "Hundreds missing and many feared dead after massive flash flood hits Nepal-China border - CNN",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaVMxckk4ZEFnYk1CNWNNb2dNeXFhbXloT1dCa0dtQ2xCWTUwWTNqWXhyS2IxdXZyZW5mbXlMSmhfTi1FclBhcG9NTDRCc2JOOUV1aWNPWnl2NW1OTTM0X1gtcm4tSjNuNHJGdHNIMVcxM05qZFQ5emtCTTE2ZU1YR0hTVVU3dw?oc=5",
           "source": "Google News",
-          "published": "Wed, 26 Aug 2026 10:55:42 GMT"
+          "published": "Wed, 26 Aug 2026 14:34:00 GMT"
         }
       ]
     },
     {
-      "word": "Tourists",
+      "word": "Massive",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Hundreds missing, including 291 foreign tourists, after flash flood on Nepal-Tibet border - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qX3ZFX29jdVdvdDcyVnlUUnRBUnVWMmlTYjA4QVFUTE1DelhPN01XOWxzZ3dlUGRWQ19FYkg0X3FodjBQb3VyWW4xb0R2V0QtNGV3RTN3?oc=5",
+          "title": "Hundreds missing and many feared dead after massive flash flood hits Nepal-China border - CNN",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaVMxckk4ZEFnYk1CNWNNb2dNeXFhbXloT1dCa0dtQ2xCWTUwWTNqWXhyS2IxdXZyZW5mbXlMSmhfTi1FclBhcG9NTDRCc2JOOUV1aWNPWnl2NW1OTTM0X1gtcm4tSjNuNHJGdHNIMVcxM05qZFQ5emtCTTE2ZU1YR0hTVVU3dw?oc=5",
           "source": "Google News",
-          "published": "Wed, 26 Aug 2026 10:55:42 GMT"
+          "published": "Wed, 26 Aug 2026 14:34:00 GMT"
         }
       ]
     },
@@ -545,10 +514,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Hundreds missing, including 291 foreign tourists, after flash flood on Nepal-Tibet border - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qX3ZFX29jdVdvdDcyVnlUUnRBUnVWMmlTYjA4QVFUTE1DelhPN01XOWxzZ3dlUGRWQ19FYkg0X3FodjBQb3VyWW4xb0R2V0QtNGV3RTN3?oc=5",
+          "title": "Hundreds missing and many feared dead after massive flash flood hits Nepal-China border - CNN",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaVMxckk4ZEFnYk1CNWNNb2dNeXFhbXloT1dCa0dtQ2xCWTUwWTNqWXhyS2IxdXZyZW5mbXlMSmhfTi1FclBhcG9NTDRCc2JOOUV1aWNPWnl2NW1OTTM0X1gtcm4tSjNuNHJGdHNIMVcxM05qZFQ5emtCTTE2ZU1YR0hTVVU3dw?oc=5",
           "source": "Google News",
-          "published": "Wed, 26 Aug 2026 10:55:42 GMT"
+          "published": "Wed, 26 Aug 2026 14:34:00 GMT"
         }
       ]
     },
@@ -558,10 +527,23 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Hundreds missing, including 291 foreign tourists, after flash flood on Nepal-Tibet border - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qX3ZFX29jdVdvdDcyVnlUUnRBUnVWMmlTYjA4QVFUTE1DelhPN01XOWxzZ3dlUGRWQ19FYkg0X3FodjBQb3VyWW4xb0R2V0QtNGV3RTN3?oc=5",
+          "title": "Hundreds missing and many feared dead after massive flash flood hits Nepal-China border - CNN",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaVMxckk4ZEFnYk1CNWNNb2dNeXFhbXloT1dCa0dtQ2xCWTUwWTNqWXhyS2IxdXZyZW5mbXlMSmhfTi1FclBhcG9NTDRCc2JOOUV1aWNPWnl2NW1OTTM0X1gtcm4tSjNuNHJGdHNIMVcxM05qZFQ5emtCTTE2ZU1YR0hTVVU3dw?oc=5",
           "source": "Google News",
-          "published": "Wed, 26 Aug 2026 10:55:42 GMT"
+          "published": "Wed, 26 Aug 2026 14:34:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Hits",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Hundreds missing and many feared dead after massive flash flood hits Nepal-China border - CNN",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaVMxckk4ZEFnYk1CNWNNb2dNeXFhbXloT1dCa0dtQ2xCWTUwWTNqWXhyS2IxdXZyZW5mbXlMSmhfTi1FclBhcG9NTDRCc2JOOUV1aWNPWnl2NW1OTTM0X1gtcm4tSjNuNHJGdHNIMVcxM05qZFQ5emtCTTE2ZU1YR0hTVVU3dw?oc=5",
+          "source": "Google News",
+          "published": "Wed, 26 Aug 2026 14:34:00 GMT"
         }
       ]
     },
@@ -571,23 +553,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Hundreds missing, including 291 foreign tourists, after flash flood on Nepal-Tibet border - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qX3ZFX29jdVdvdDcyVnlUUnRBUnVWMmlTYjA4QVFUTE1DelhPN01XOWxzZ3dlUGRWQ19FYkg0X3FodjBQb3VyWW4xb0R2V0QtNGV3RTN3?oc=5",
+          "title": "Hundreds missing and many feared dead after massive flash flood hits Nepal-China border - CNN",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaVMxckk4ZEFnYk1CNWNNb2dNeXFhbXloT1dCa0dtQ2xCWTUwWTNqWXhyS2IxdXZyZW5mbXlMSmhfTi1FclBhcG9NTDRCc2JOOUV1aWNPWnl2NW1OTTM0X1gtcm4tSjNuNHJGdHNIMVcxM05qZFQ5emtCTTE2ZU1YR0hTVVU3dw?oc=5",
           "source": "Google News",
-          "published": "Wed, 26 Aug 2026 10:55:42 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Tibet",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Hundreds missing, including 291 foreign tourists, after flash flood on Nepal-Tibet border - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qX3ZFX29jdVdvdDcyVnlUUnRBUnVWMmlTYjA4QVFUTE1DelhPN01XOWxzZ3dlUGRWQ19FYkg0X3FodjBQb3VyWW4xb0R2V0QtNGV3RTN3?oc=5",
-          "source": "Google News",
-          "published": "Wed, 26 Aug 2026 10:55:42 GMT"
+          "published": "Wed, 26 Aug 2026 14:34:00 GMT"
         }
       ]
     },
@@ -597,49 +566,62 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Hundreds missing, including 291 foreign tourists, after flash flood on Nepal-Tibet border - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qX3ZFX29jdVdvdDcyVnlUUnRBUnVWMmlTYjA4QVFUTE1DelhPN01XOWxzZ3dlUGRWQ19FYkg0X3FodjBQb3VyWW4xb0R2V0QtNGV3RTN3?oc=5",
+          "title": "Hundreds missing and many feared dead after massive flash flood hits Nepal-China border - CNN",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaVMxckk4ZEFnYk1CNWNNb2dNeXFhbXloT1dCa0dtQ2xCWTUwWTNqWXhyS2IxdXZyZW5mbXlMSmhfTi1FclBhcG9NTDRCc2JOOUV1aWNPWnl2NW1OTTM0X1gtcm4tSjNuNHJGdHNIMVcxM05qZFQ5emtCTTE2ZU1YR0hTVVU3dw?oc=5",
           "source": "Google News",
-          "published": "Wed, 26 Aug 2026 10:55:42 GMT"
+          "published": "Wed, 26 Aug 2026 14:34:00 GMT"
         }
       ]
     },
     {
-      "word": "Graham",
+      "word": "War",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Graham, and Trump, Triumph: Six Takeaways From Runoffs in South Carolina and Oklahoma - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc0RHVlc5QzdOanU1V1BZZ0ZGNzJaMUJTODFRdVNnQWkyeDhhWmtDR0VlaG5ieENBU28tUWNPNHFYTE0zV2dKVHRfNEdyWEJ0U0NZMnpyb1NCcnFWLUNhQnFBWTE1WXgyQXhOWkp6RHI1ekZzWHFYOE81YkYtdzZrbUc1V3ItOXktMDg1am8zRVJRNkZMZGtFT3J3?oc=5",
+          "title": "Iran War Updates: Trump says U.S. \"achieving a very big victory,\" war \"will continue for as long as necessary\" - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUzJMQjNVM25NNWFDSVZ5MjlBRThTT1o3Q3k4QWZRemJLa2VEajBVR0l4OW0xVUNURWZraGVRcGlFWm5iZDZUektjWnlwQjdVdV94YU94Z2hlVklPbW1uc0dkYVdNQlhmeldmWG9OWjJrSHB6UkVFeEVjTXlvRkxTLXNn?oc=5",
           "source": "Google News",
-          "published": "Wed, 26 Aug 2026 03:34:59 GMT"
+          "published": "Wed, 26 Aug 2026 11:12:00 GMT"
         }
       ]
     },
     {
-      "word": "Triumph",
+      "word": "Achieving",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Graham, and Trump, Triumph: Six Takeaways From Runoffs in South Carolina and Oklahoma - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc0RHVlc5QzdOanU1V1BZZ0ZGNzJaMUJTODFRdVNnQWkyeDhhWmtDR0VlaG5ieENBU28tUWNPNHFYTE0zV2dKVHRfNEdyWEJ0U0NZMnpyb1NCcnFWLUNhQnFBWTE1WXgyQXhOWkp6RHI1ekZzWHFYOE81YkYtdzZrbUc1V3ItOXktMDg1am8zRVJRNkZMZGtFT3J3?oc=5",
+          "title": "Iran War Updates: Trump says U.S. \"achieving a very big victory,\" war \"will continue for as long as necessary\" - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUzJMQjNVM25NNWFDSVZ5MjlBRThTT1o3Q3k4QWZRemJLa2VEajBVR0l4OW0xVUNURWZraGVRcGlFWm5iZDZUektjWnlwQjdVdV94YU94Z2hlVklPbW1uc0dkYVdNQlhmeldmWG9OWjJrSHB6UkVFeEVjTXlvRkxTLXNn?oc=5",
           "source": "Google News",
-          "published": "Wed, 26 Aug 2026 03:34:59 GMT"
+          "published": "Wed, 26 Aug 2026 11:12:00 GMT"
         }
       ]
     },
     {
-      "word": "Six",
+      "word": "big",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Graham, and Trump, Triumph: Six Takeaways From Runoffs in South Carolina and Oklahoma - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc0RHVlc5QzdOanU1V1BZZ0ZGNzJaMUJTODFRdVNnQWkyeDhhWmtDR0VlaG5ieENBU28tUWNPNHFYTE0zV2dKVHRfNEdyWEJ0U0NZMnpyb1NCcnFWLUNhQnFBWTE1WXgyQXhOWkp6RHI1ekZzWHFYOE81YkYtdzZrbUc1V3ItOXktMDg1am8zRVJRNkZMZGtFT3J3?oc=5",
+          "title": "Iran War Updates: Trump says U.S. \"achieving a very big victory,\" war \"will continue for as long as necessary\" - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUzJMQjNVM25NNWFDSVZ5MjlBRThTT1o3Q3k4QWZRemJLa2VEajBVR0l4OW0xVUNURWZraGVRcGlFWm5iZDZUektjWnlwQjdVdV94YU94Z2hlVklPbW1uc0dkYVdNQlhmeldmWG9OWjJrSHB6UkVFeEVjTXlvRkxTLXNn?oc=5",
           "source": "Google News",
-          "published": "Wed, 26 Aug 2026 03:34:59 GMT"
+          "published": "Wed, 26 Aug 2026 11:12:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Victory",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Iran War Updates: Trump says U.S. \"achieving a very big victory,\" war \"will continue for as long as necessary\" - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUzJMQjNVM25NNWFDSVZ5MjlBRThTT1o3Q3k4QWZRemJLa2VEajBVR0l4OW0xVUNURWZraGVRcGlFWm5iZDZUektjWnlwQjdVdV94YU94Z2hlVklPbW1uc0dkYVdNQlhmeldmWG9OWjJrSHB6UkVFeEVjTXlvRkxTLXNn?oc=5",
+          "source": "Google News",
+          "published": "Wed, 26 Aug 2026 11:12:00 GMT"
         }
       ]
     }
