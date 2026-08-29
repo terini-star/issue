@@ -1,124 +1,43 @@
 {
   "language": "ko",
-  "last_updated": 1787937438.4005954,
+  "last_updated": 1787967618.462715,
   "count": 40,
   "trends": [
     {
-      "word": "이란",
-      "count": 4,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "美, G20 상대로 '이란 경제왕따 작전' 세몰이 나선다 - 미디어제주",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjWlVWekd2OURrOURMN0xVS3phaUFmRzBGZThwVWFpcjU2R1JhTm56b1k0ZGxJdXVkOVJXcDh3Mzh1UTRNdW5KYWJIQ2FPdTZtMFFIVmtHdm9QZ3pqeG0zcWVKM0g4eXJSR0YtZtIBcEFVX3lxTE5yMm5BSjZLQWdYMEFCd0xNZ3hhTFdYWlN5RlhLRGd2NFd4cTV5dUtQdEgtWFF2OWRUQmNSVHJleFJtYjU3U3pKY2dWUjktS3hmU1JjNmNwb1lETi05QVdoWXRLUFZpNjJBWjBpOFpMWHQ?oc=5",
-          "source": "Google News",
-          "published": "Fri, 28 Aug 2026 08:28:23 GMT"
-        },
-        {
-          "title": "미 중부사령부 \"호르무즈 해협 이란 기뢰 완전 제거…항로 개방\" - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fSmZNb0tpRnhCSWRJTE93TlNPUWN4MWgwLUpycGowVkhGWmROcENITnVrVVJGNTN3OTlpZHItTnF1em1CN0w5ZmtWUXl4MnFn0gFTQVVfeXFMT2UtN1c2MG1NcUJaUVNkX1RVcEFuNVczOHVuWlkyRHMtcVhrc3EzWE9Cc2hYWi1UZTZzSFVHOVR2TXk0TVZ3NDQtRUlPTGZpWlAxekk?oc=5",
-          "source": "Google News",
-          "published": "Fri, 28 Aug 2026 14:45:09 GMT"
-        },
-        {
-          "title": "이란 전쟁 6개월…중재국들 ‘호르무즈 개방’ 노력, 트럼프는 거부 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVUduZ3VDd0tvSFM4UEZNOTBxekRJN3NtM2VjdENuRjRyMmpZNkJJZjY2c1pjODZjT2hkcVlNQ2V1aGw4cWduWE9objlHcXZaakIxX2xncXhoNC1zTXFFZHE1WUtHcVFuTjV2RWRIZVdpdDB6SENrZzdiSzNxUGowb2RB?oc=5",
-          "source": "Google News",
-          "published": "Fri, 28 Aug 2026 09:17:00 GMT"
-        },
-        {
-          "title": "이란 안보 수장 “호르무즈 해협 개방 조건 정리 중···트럼프 아들 암살설은 거짓” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyalN5Zk9kRG9OR3V4U2dhNUZkalBMQUtUNnhZbHIxV09mdUdial9yN2I4clN3Z21URWYtQ0h4cV9xY2cxR3BFMHo4SlhCQzRYbndsMWNoZ2c4UdIBX0FVX3lxTFBWSkc5UmRiYldlQkdTaXZrR1J4SFI3alJ1WFBNR2JabFNxN2I4bGdHQmxqTE0xLWQ0YmNRZGhzUVBodmZLRW5NcmJMbHdJVGRkZW1YOFlNQzJuMzhscFRN?oc=5",
-          "source": "Google News",
-          "published": "Thu, 27 Aug 2026 22:49:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "호르무즈",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "미 중부사령부 \"호르무즈 해협 이란 기뢰 완전 제거…항로 개방\" - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fSmZNb0tpRnhCSWRJTE93TlNPUWN4MWgwLUpycGowVkhGWmROcENITnVrVVJGNTN3OTlpZHItTnF1em1CN0w5ZmtWUXl4MnFn0gFTQVVfeXFMT2UtN1c2MG1NcUJaUVNkX1RVcEFuNVczOHVuWlkyRHMtcVhrc3EzWE9Cc2hYWi1UZTZzSFVHOVR2TXk0TVZ3NDQtRUlPTGZpWlAxekk?oc=5",
-          "source": "Google News",
-          "published": "Fri, 28 Aug 2026 14:45:09 GMT"
-        },
-        {
-          "title": "이란 전쟁 6개월…중재국들 ‘호르무즈 개방’ 노력, 트럼프는 거부 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVUduZ3VDd0tvSFM4UEZNOTBxekRJN3NtM2VjdENuRjRyMmpZNkJJZjY2c1pjODZjT2hkcVlNQ2V1aGw4cWduWE9objlHcXZaakIxX2xncXhoNC1zTXFFZHE1WUtHcVFuTjV2RWRIZVdpdDB6SENrZzdiSzNxUGowb2RB?oc=5",
-          "source": "Google News",
-          "published": "Fri, 28 Aug 2026 09:17:00 GMT"
-        },
-        {
-          "title": "이란 안보 수장 “호르무즈 해협 개방 조건 정리 중···트럼프 아들 암살설은 거짓” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyalN5Zk9kRG9OR3V4U2dhNUZkalBMQUtUNnhZbHIxV09mdUdial9yN2I4clN3Z21URWYtQ0h4cV9xY2cxR3BFMHo4SlhCQzRYbndsMWNoZ2c4UdIBX0FVX3lxTFBWSkc5UmRiYldlQkdTaXZrR1J4SFI3alJ1WFBNR2JabFNxN2I4bGdHQmxqTE0xLWQ0YmNRZGhzUVBodmZLRW5NcmJMbHdJVGRkZW1YOFlNQzJuMzhscFRN?oc=5",
-          "source": "Google News",
-          "published": "Thu, 27 Aug 2026 22:49:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "개방",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "미 중부사령부 \"호르무즈 해협 이란 기뢰 완전 제거…항로 개방\" - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fSmZNb0tpRnhCSWRJTE93TlNPUWN4MWgwLUpycGowVkhGWmROcENITnVrVVJGNTN3OTlpZHItTnF1em1CN0w5ZmtWUXl4MnFn0gFTQVVfeXFMT2UtN1c2MG1NcUJaUVNkX1RVcEFuNVczOHVuWlkyRHMtcVhrc3EzWE9Cc2hYWi1UZTZzSFVHOVR2TXk0TVZ3NDQtRUlPTGZpWlAxekk?oc=5",
-          "source": "Google News",
-          "published": "Fri, 28 Aug 2026 14:45:09 GMT"
-        },
-        {
-          "title": "이란 전쟁 6개월…중재국들 ‘호르무즈 개방’ 노력, 트럼프는 거부 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVUduZ3VDd0tvSFM4UEZNOTBxekRJN3NtM2VjdENuRjRyMmpZNkJJZjY2c1pjODZjT2hkcVlNQ2V1aGw4cWduWE9objlHcXZaakIxX2xncXhoNC1zTXFFZHE1WUtHcVFuTjV2RWRIZVdpdDB6SENrZzdiSzNxUGowb2RB?oc=5",
-          "source": "Google News",
-          "published": "Fri, 28 Aug 2026 09:17:00 GMT"
-        },
-        {
-          "title": "이란 안보 수장 “호르무즈 해협 개방 조건 정리 중···트럼프 아들 암살설은 거짓” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyalN5Zk9kRG9OR3V4U2dhNUZkalBMQUtUNnhZbHIxV09mdUdial9yN2I4clN3Z21URWYtQ0h4cV9xY2cxR3BFMHo4SlhCQzRYbndsMWNoZ2c4UdIBX0FVX3lxTFBWSkc5UmRiYldlQkdTaXZrR1J4SFI3alJ1WFBNR2JabFNxN2I4bGdHQmxqTE0xLWQ0YmNRZGhzUVBodmZLRW5NcmJMbHdJVGRkZW1YOFlNQzJuMzhscFRN?oc=5",
-          "source": "Google News",
-          "published": "Thu, 27 Aug 2026 22:49:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "정부",
+      "word": "카드",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "지방 중소기업 청년 월 50만원 적금하면 정부가 12만5000원 지원 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rRDYyTExiTV9IT1g4ckFLX3JMenFzeV9ybDZGcFZjdzFOcE9qRzlEM0F2X2hHWjE2WDhBOEFFTkJGR1VqUFdSWVZONGtLanRTRTBld3NucUtad9IBX0FVX3lxTE9QaXByc0lORWs2WDdFMGtfVzliNkQ2Mm9SVHBLVG81RnFEMlhudkdPbUdtdUViU2s3QWxfOUN2ZHk5M0Jlbm5aeWgtMFhET2hQMWFSeTRGNzFiT1owb2lj?oc=5",
+          "title": "[경제뭔데]오세훈이 던진 ‘용적률 1.2배’ 카드, 국토부가 선뜻 못 받는 까닭은 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uMVZaN1c0YmlGc0JJMmRoa28ySFpQX0xWeDBZU3QtNzBiRWFIamZGcXVJMmNvZWVnQmVBMHJ3N0NJdllfaUh6TzhTZ0dyV1pLWW9XQ3UtTnFDZ9IBX0FVX3lxTE1aYmlwWEZyU1drdC1KMllMb05qal8tcTM2VFdrSzJ0eFR0c1Ryd3lKTVlJclg4cm0wZldSUWpHNzhMNS1qaU12a21hZ2tGSm1pWFIzZ3ZKTGthSU15Vi00?oc=5",
           "source": "Google News",
-          "published": "Fri, 28 Aug 2026 07:30:00 GMT"
+          "published": "Fri, 28 Aug 2026 21:00:00 GMT"
         },
         {
-          "title": "미 트럼프 정부, 또 반도체 관세 카드 만지작... \"단기적 자승자박, 장기적 위협\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWVM4Um5jVDJkYllSeFVvYXdTajRQT1Q0VFNNU3NocFJOazRsSFZha1hNNmw4SHFDVjRkSms1TzFld3J3aE9WZkVzcHZoeDY5bTNZWEdhZllTejJiSV95VUU1eU1pRGJUTUdXRUxOQmgtUmhiTzVra28wWHJuWTNNT0RsYw?oc=5",
+          "title": "WK리그 심판, 지소연 선수에 \"생리하나 봐\" 발언 파문…항의하자 옐로 카드 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12OUpCbFIyQ0dncWUzWjBSa2VfeHdoZ1Y1UTR6a0phcnFQOFA2TU16MFE4SzJVckZRaHJpZGV0X2pndXVvWHhEYlJ4OExMeEFkVzNidlBicWdscmVoR1RIOGk2dDBkNVE?oc=5",
           "source": "Google News",
-          "published": "Fri, 28 Aug 2026 06:03:32 GMT"
+          "published": "Fri, 28 Aug 2026 22:12:00 GMT"
         }
       ]
     },
     {
-      "word": "지원",
+      "word": "유지",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "지방 중소기업 청년 월 50만원 적금하면 정부가 12만5000원 지원 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rRDYyTExiTV9IT1g4ckFLX3JMenFzeV9ybDZGcFZjdzFOcE9qRzlEM0F2X2hHWjE2WDhBOEFFTkJGR1VqUFdSWVZONGtLanRTRTBld3NucUtad9IBX0FVX3lxTE9QaXByc0lORWs2WDdFMGtfVzliNkQ2Mm9SVHBLVG81RnFEMlhudkdPbUdtdUViU2s3QWxfOUN2ZHk5M0Jlbm5aeWgtMFhET2hQMWFSeTRGNzFiT1owb2lj?oc=5",
+          "title": "전남 흑산도·홍도에 폭염경보…여수 등 22곳 폭염주의보 유지 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ISXh6VDc4NEZqLXZYTkYxZldsNHhUTzdEOVBWNVpvZFlQTUl1b00yZzdYcmdURWhpM1ROS3dNMHVva1Q5cS02aFVsTHk5amdmdUVSOS1iNU1LOUE?oc=5",
           "source": "Google News",
-          "published": "Fri, 28 Aug 2026 07:30:00 GMT"
+          "published": "Sat, 29 Aug 2026 01:07:15 GMT"
         },
         {
-          "title": "로이킴, 박재정 업어키웠네 \"'일 없을 때 행사 데려가..여행비도 지원\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ3FXWWg5M3k1eG1rd2NGcEtqbi1wRXNFWGV0bWh0MmhLT0V2X2FJcUJmYllmcFlITWFEem9fMUNydVNyd21iTlRlU3k0dzEtcTR2YzBVemZrbDhEZkFSZG5Tc2o2VnF6eGlkbDE2WEhqdlBxVzBwX20xc1lhS09JaC0xNEJRRUZBWUZZa2NLMA?oc=5",
+          "title": "주유소 기름값 15주째 하락…휘발유·경유 1천800원대 유지 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wWWpPb0lvR0NHUlJlejhDc0htMUNzNUJ3b1Y1eTN4MHNObHNIb1ExelZnNnk5N3pxVmhmN1Q1UTdzNl80WHhBWTBNa19lak9WNmc?oc=5",
           "source": "Google News",
-          "published": "Fri, 28 Aug 2026 15:51:00 GMT"
+          "published": "Fri, 28 Aug 2026 22:01:00 GMT"
         }
       ]
     },
@@ -142,38 +61,6 @@
       ]
     },
     {
-      "word": "주말",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "주말 전국에 장대비…곳곳 시간당 50㎜ 폭우 [주말 날씨] - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2RTFxRm5sa284ZUgzWFdQMjNDa1FJY2wyT29xYU9RTXF4M05ieTlRQlJfSXZ5QlZnYXRubzlheW1ReW0xdDJ3cGdvS1JoYkZCa1BOSA?oc=5",
-          "source": "Google News",
-          "published": "Fri, 28 Aug 2026 01:45:27 GMT"
-        }
-      ]
-    },
-    {
-      "word": "해협",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "미 중부사령부 \"호르무즈 해협 이란 기뢰 완전 제거…항로 개방\" - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fSmZNb0tpRnhCSWRJTE93TlNPUWN4MWgwLUpycGowVkhGWmROcENITnVrVVJGNTN3OTlpZHItTnF1em1CN0w5ZmtWUXl4MnFn0gFTQVVfeXFMT2UtN1c2MG1NcUJaUVNkX1RVcEFuNVczOHVuWlkyRHMtcVhrc3EzWE9Cc2hYWi1UZTZzSFVHOVR2TXk0TVZ3NDQtRUlPTGZpWlAxekk?oc=5",
-          "source": "Google News",
-          "published": "Fri, 28 Aug 2026 14:45:09 GMT"
-        },
-        {
-          "title": "이란 안보 수장 “호르무즈 해협 개방 조건 정리 중···트럼프 아들 암살설은 거짓” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyalN5Zk9kRG9OR3V4U2dhNUZkalBMQUtUNnhZbHIxV09mdUdial9yN2I4clN3Z21URWYtQ0h4cV9xY2cxR3BFMHo4SlhCQzRYbndsMWNoZ2c4UdIBX0FVX3lxTFBWSkc5UmRiYldlQkdTaXZrR1J4SFI3alJ1WFBNR2JabFNxN2I4bGdHQmxqTE0xLWQ0YmNRZGhzUVBodmZLRW5NcmJMbHdJVGRkZW1YOFlNQzJuMzhscFRN?oc=5",
-          "source": "Google News",
-          "published": "Thu, 27 Aug 2026 22:49:00 GMT"
-        }
-      ]
-    },
-    {
       "word": "트럼프",
       "count": 2,
       "category": "NOUN",
@@ -185,425 +72,490 @@
           "published": "Fri, 28 Aug 2026 09:17:00 GMT"
         },
         {
-          "title": "미 트럼프 정부, 또 반도체 관세 카드 만지작... \"단기적 자승자박, 장기적 위협\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWVM4Um5jVDJkYllSeFVvYXdTajRQT1Q0VFNNU3NocFJOazRsSFZha1hNNmw4SHFDVjRkSms1TzFld3J3aE9WZkVzcHZoeDY5bTNZWEdhZllTejJiSV95VUU1eU1pRGJUTUdXRUxOQmgtUmhiTzVra28wWHJuWTNNT0RsYw?oc=5",
+          "title": "트럼프 대통령, ‘미·캐나다 관세 갈등’ 속 온타리오호 개칭 - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9UTFRzUzZORlgyRFhWTXFTUTBYeHhqRXR3YjZMeTAydnkwT1pUNzVENU9ENVMwaUg1aGY5X2pKcXVabEpIRFFTM2tSb2NtcmJjTzBDZVBBaG1UcTM1aW1xaVl6OEZkeGszbjhJQU5RTERMZ9IBdEFVX3lxTE1jaEw0clpCY1FkQ2dCSVIwZmI5NzBMNlB4aHR4N1ZXSVRfS2FITmI2WTJGdU5vcFJQc1pJVElvc2E1eTBweUFwSWpkT2ZKTmItdUROU04zMXJRQUJmZmtqOEY2TzhsUG1mMy13VGtEZ1JNdHhJ?oc=5",
           "source": "Google News",
-          "published": "Fri, 28 Aug 2026 06:03:32 GMT"
+          "published": "Fri, 28 Aug 2026 17:57:20 GMT"
         }
       ]
     },
     {
-      "word": "자진",
+      "word": "관세",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "’CCTV 공개 논란’ 유튜버 박위, 서울시 홍보대사 자진 사임 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MSkdvZlR1S1ZiaWI0TnhXRnRLMkVxSnBfZldLNzBDZFhaWHFGWjRoWUFPclg3SDF3MjQxdnlIaXFtdHQ0cVMwZkx5VmU1M05nRDQ0V0dpLWdrMVNPMjkwVFdwVnZEZzA?oc=5",
+          "title": "트럼프 대통령, ‘미·캐나다 관세 갈등’ 속 온타리오호 개칭 - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9UTFRzUzZORlgyRFhWTXFTUTBYeHhqRXR3YjZMeTAydnkwT1pUNzVENU9ENVMwaUg1aGY5X2pKcXVabEpIRFFTM2tSb2NtcmJjTzBDZVBBaG1UcTM1aW1xaVl6OEZkeGszbjhJQU5RTERMZ9IBdEFVX3lxTE1jaEw0clpCY1FkQ2dCSVIwZmI5NzBMNlB4aHR4N1ZXSVRfS2FITmI2WTJGdU5vcFJQc1pJVElvc2E1eTBweUFwSWpkT2ZKTmItdUROU04zMXJRQUJmZmtqOEY2TzhsUG1mMy13VGtEZ1JNdHhJ?oc=5",
           "source": "Google News",
-          "published": "Thu, 27 Aug 2026 23:14:00 GMT"
+          "published": "Fri, 28 Aug 2026 17:57:20 GMT"
         },
         {
-          "title": "여자배구 정관장 고희진 감독 자진 사퇴…코치 부적절 행위에 책임 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiTE9MUTFBVTBEWlc2cEZTVl9KamVodkdfVFFqWExqVmJjNmh0UnBham1aRW5sX1VDcnZKRUtZMldZd1NTM2ZNNElUcTRsbldlNks1clRXSWExY2s?oc=5",
+          "title": "'관세 피하려면 美서 공장 더 지어야'...트럼프 으름장에 부담 커진 삼전닉스 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5dm1rNks5N3VWazFnbG9MT2Zxbmc4MlAxRGozUWZZRVQzaVlRTmR1UzVOTl8wcWVsb0tOVFpFbEdvUnl2Z0tpWUVUYkFfNUhBa2dHWFpyN2N2UQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 28 Aug 2026 13:05:00 GMT"
+          "published": "Fri, 28 Aug 2026 08:51:18 GMT"
         }
       ]
     },
     {
-      "word": "위험",
+      "word": "발언",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "에스트로겐 치료받은 여성, 알츠하이머병 위험 낮았다… 美 대규모 분석 결과 - 하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhYkpHTDJBcDYwU2RJT1FwazFtMmNpUWVPdm4xd2FaQVBhM29nR194UnlnWlptUlBhbnRmelZ0Wl92VkVyMURvOGJIZW1RaXJyZUZEbFY0MlUtbnNFa2tFMk9SNUppdVBhVnc?oc=5",
+          "title": "잭슨홀 매파 발언에 비트코인 후퇴…7만7000달러대로 밀렸다 - 디지털투데이",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hbEpPb3lJZmFKdmNqRmQxOElSdjNwOXhXZlNKUWVvZ29kU01nYkU0QUVRd2JPaDZ5TW41OTRWY2ZXTzhWRGp5UnYxQ3o1MUJpM0F4NTBXMXZrZjZYc0xFSXdLTVVFZGVBUGhqM0h2WGJYZ0U?oc=5",
           "source": "Google News",
-          "published": "Fri, 28 Aug 2026 07:00:00 GMT"
+          "published": "Fri, 28 Aug 2026 22:00:31 GMT"
         },
         {
-          "title": "당뇨약의 변신은 무죄…‘마운자로’, 美서 심혈관 위험 감소 적응증 획득 - 헬스코리아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oTHI4b1B2SG4xcjVaRTlWUUZ6UVFSREZBaVlfZVF0bFlzdWpFTU5sb1ZmWFVqU2pXQXJEVC1wSVMtYWhhNlhwaUdNOUNOYTA3eDJqd3MyOWRfR2ZYbmg2ZUJfejZrdUk?oc=5",
+          "title": "WK리그 심판, 지소연 선수에 \"생리하나 봐\" 발언 파문…항의하자 옐로 카드 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12OUpCbFIyQ0dncWUzWjBSa2VfeHdoZ1Y1UTR6a0phcnFQOFA2TU16MFE4SzJVckZRaHJpZGV0X2pndXVvWHhEYlJ4OExMeEFkVzNidlBicWdscmVoR1RIOGk2dDBkNVE?oc=5",
           "source": "Google News",
-          "published": "Fri, 28 Aug 2026 12:15:47 GMT"
+          "published": "Fri, 28 Aug 2026 22:12:00 GMT"
         }
       ]
     },
     {
-      "word": "벽엔",
+      "word": "30대",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "벽엔 실종자, 철문엔 시신 사진... 가족 못 찾은 사람은 눈물만 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNG9LS3V5cUZTbW5CQUpnVFkxSlB3N3FxUUV5Sk9TcUNfV0RFa0ZQRUVMWnFvaTA2T3dUNW1pU3BiOWlFWFJZTVI4YUhXMkVvVkxMYXZZSkd4ejRDN3ZFNUNONjZHZGl4aU5Rejc4dVdJUjNmalRuMXY2YzZaV0t5OWwtNHZPZHVrd1NaMDR3WFI?oc=5",
+          "title": "30대 래퍼 출신 네팔 총리, 정치적 시험대···강진 덮친 베네수·콜롬비아의 엇갈린 초기 대응 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KYmVkcHJwWHQ3WE05empwaDhwb2ltWUw3QTVCZG5JX1RPM2tKWGRJdW9fQWxpVXQ4RDhVcnJBMGdWU0R2bUNyNnJoMTVYdHROVk13VlB2OHpHQdIBX0FVX3lxTFA5RmVfVlJtMkd5eHVvV2Z2Z1JPRm1KQ21XRGV4YTBxZlBfejdiVVVHRHVOQnd2a0JfV2FqUk9XdGVMcl9LWnZ4Yjhyb0ZNUkowaEpwV1dDUy1KTlRBcnpJ?oc=5",
           "source": "Google News",
-          "published": "Fri, 28 Aug 2026 13:46:53 GMT"
+          "published": "Fri, 28 Aug 2026 21:00:00 GMT"
         }
       ]
     },
     {
-      "word": "실종자",
+      "word": "래퍼",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "벽엔 실종자, 철문엔 시신 사진... 가족 못 찾은 사람은 눈물만 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNG9LS3V5cUZTbW5CQUpnVFkxSlB3N3FxUUV5Sk9TcUNfV0RFa0ZQRUVMWnFvaTA2T3dUNW1pU3BiOWlFWFJZTVI4YUhXMkVvVkxMYXZZSkd4ejRDN3ZFNUNONjZHZGl4aU5Rejc4dVdJUjNmalRuMXY2YzZaV0t5OWwtNHZPZHVrd1NaMDR3WFI?oc=5",
+          "title": "30대 래퍼 출신 네팔 총리, 정치적 시험대···강진 덮친 베네수·콜롬비아의 엇갈린 초기 대응 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KYmVkcHJwWHQ3WE05empwaDhwb2ltWUw3QTVCZG5JX1RPM2tKWGRJdW9fQWxpVXQ4RDhVcnJBMGdWU0R2bUNyNnJoMTVYdHROVk13VlB2OHpHQdIBX0FVX3lxTFA5RmVfVlJtMkd5eHVvV2Z2Z1JPRm1KQ21XRGV4YTBxZlBfejdiVVVHRHVOQnd2a0JfV2FqUk9XdGVMcl9LWnZ4Yjhyb0ZNUkowaEpwV1dDUy1KTlRBcnpJ?oc=5",
           "source": "Google News",
-          "published": "Fri, 28 Aug 2026 13:46:53 GMT"
+          "published": "Fri, 28 Aug 2026 21:00:00 GMT"
         }
       ]
     },
     {
-      "word": "철문엔",
+      "word": "출신",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "벽엔 실종자, 철문엔 시신 사진... 가족 못 찾은 사람은 눈물만 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNG9LS3V5cUZTbW5CQUpnVFkxSlB3N3FxUUV5Sk9TcUNfV0RFa0ZQRUVMWnFvaTA2T3dUNW1pU3BiOWlFWFJZTVI4YUhXMkVvVkxMYXZZSkd4ejRDN3ZFNUNONjZHZGl4aU5Rejc4dVdJUjNmalRuMXY2YzZaV0t5OWwtNHZPZHVrd1NaMDR3WFI?oc=5",
+          "title": "30대 래퍼 출신 네팔 총리, 정치적 시험대···강진 덮친 베네수·콜롬비아의 엇갈린 초기 대응 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KYmVkcHJwWHQ3WE05empwaDhwb2ltWUw3QTVCZG5JX1RPM2tKWGRJdW9fQWxpVXQ4RDhVcnJBMGdWU0R2bUNyNnJoMTVYdHROVk13VlB2OHpHQdIBX0FVX3lxTFA5RmVfVlJtMkd5eHVvV2Z2Z1JPRm1KQ21XRGV4YTBxZlBfejdiVVVHRHVOQnd2a0JfV2FqUk9XdGVMcl9LWnZ4Yjhyb0ZNUkowaEpwV1dDUy1KTlRBcnpJ?oc=5",
           "source": "Google News",
-          "published": "Fri, 28 Aug 2026 13:46:53 GMT"
+          "published": "Fri, 28 Aug 2026 21:00:00 GMT"
         }
       ]
     },
     {
-      "word": "시신",
+      "word": "네팔",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "벽엔 실종자, 철문엔 시신 사진... 가족 못 찾은 사람은 눈물만 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNG9LS3V5cUZTbW5CQUpnVFkxSlB3N3FxUUV5Sk9TcUNfV0RFa0ZQRUVMWnFvaTA2T3dUNW1pU3BiOWlFWFJZTVI4YUhXMkVvVkxMYXZZSkd4ejRDN3ZFNUNONjZHZGl4aU5Rejc4dVdJUjNmalRuMXY2YzZaV0t5OWwtNHZPZHVrd1NaMDR3WFI?oc=5",
+          "title": "30대 래퍼 출신 네팔 총리, 정치적 시험대···강진 덮친 베네수·콜롬비아의 엇갈린 초기 대응 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KYmVkcHJwWHQ3WE05empwaDhwb2ltWUw3QTVCZG5JX1RPM2tKWGRJdW9fQWxpVXQ4RDhVcnJBMGdWU0R2bUNyNnJoMTVYdHROVk13VlB2OHpHQdIBX0FVX3lxTFA5RmVfVlJtMkd5eHVvV2Z2Z1JPRm1KQ21XRGV4YTBxZlBfejdiVVVHRHVOQnd2a0JfV2FqUk9XdGVMcl9LWnZ4Yjhyb0ZNUkowaEpwV1dDUy1KTlRBcnpJ?oc=5",
           "source": "Google News",
-          "published": "Fri, 28 Aug 2026 13:46:53 GMT"
+          "published": "Fri, 28 Aug 2026 21:00:00 GMT"
         }
       ]
     },
     {
-      "word": "사진",
+      "word": "총리",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "벽엔 실종자, 철문엔 시신 사진... 가족 못 찾은 사람은 눈물만 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNG9LS3V5cUZTbW5CQUpnVFkxSlB3N3FxUUV5Sk9TcUNfV0RFa0ZQRUVMWnFvaTA2T3dUNW1pU3BiOWlFWFJZTVI4YUhXMkVvVkxMYXZZSkd4ejRDN3ZFNUNONjZHZGl4aU5Rejc4dVdJUjNmalRuMXY2YzZaV0t5OWwtNHZPZHVrd1NaMDR3WFI?oc=5",
+          "title": "30대 래퍼 출신 네팔 총리, 정치적 시험대···강진 덮친 베네수·콜롬비아의 엇갈린 초기 대응 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KYmVkcHJwWHQ3WE05empwaDhwb2ltWUw3QTVCZG5JX1RPM2tKWGRJdW9fQWxpVXQ4RDhVcnJBMGdWU0R2bUNyNnJoMTVYdHROVk13VlB2OHpHQdIBX0FVX3lxTFA5RmVfVlJtMkd5eHVvV2Z2Z1JPRm1KQ21XRGV4YTBxZlBfejdiVVVHRHVOQnd2a0JfV2FqUk9XdGVMcl9LWnZ4Yjhyb0ZNUkowaEpwV1dDUy1KTlRBcnpJ?oc=5",
           "source": "Google News",
-          "published": "Fri, 28 Aug 2026 13:46:53 GMT"
+          "published": "Fri, 28 Aug 2026 21:00:00 GMT"
         }
       ]
     },
     {
-      "word": "가족",
+      "word": "정치",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "벽엔 실종자, 철문엔 시신 사진... 가족 못 찾은 사람은 눈물만 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNG9LS3V5cUZTbW5CQUpnVFkxSlB3N3FxUUV5Sk9TcUNfV0RFa0ZQRUVMWnFvaTA2T3dUNW1pU3BiOWlFWFJZTVI4YUhXMkVvVkxMYXZZSkd4ejRDN3ZFNUNONjZHZGl4aU5Rejc4dVdJUjNmalRuMXY2YzZaV0t5OWwtNHZPZHVrd1NaMDR3WFI?oc=5",
+          "title": "30대 래퍼 출신 네팔 총리, 정치적 시험대···강진 덮친 베네수·콜롬비아의 엇갈린 초기 대응 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KYmVkcHJwWHQ3WE05empwaDhwb2ltWUw3QTVCZG5JX1RPM2tKWGRJdW9fQWxpVXQ4RDhVcnJBMGdWU0R2bUNyNnJoMTVYdHROVk13VlB2OHpHQdIBX0FVX3lxTFA5RmVfVlJtMkd5eHVvV2Z2Z1JPRm1KQ21XRGV4YTBxZlBfejdiVVVHRHVOQnd2a0JfV2FqUk9XdGVMcl9LWnZ4Yjhyb0ZNUkowaEpwV1dDUy1KTlRBcnpJ?oc=5",
           "source": "Google News",
-          "published": "Fri, 28 Aug 2026 13:46:53 GMT"
+          "published": "Fri, 28 Aug 2026 21:00:00 GMT"
         }
       ]
     },
     {
-      "word": "찾은",
+      "word": "시험대강진",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "벽엔 실종자, 철문엔 시신 사진... 가족 못 찾은 사람은 눈물만 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNG9LS3V5cUZTbW5CQUpnVFkxSlB3N3FxUUV5Sk9TcUNfV0RFa0ZQRUVMWnFvaTA2T3dUNW1pU3BiOWlFWFJZTVI4YUhXMkVvVkxMYXZZSkd4ejRDN3ZFNUNONjZHZGl4aU5Rejc4dVdJUjNmalRuMXY2YzZaV0t5OWwtNHZPZHVrd1NaMDR3WFI?oc=5",
+          "title": "30대 래퍼 출신 네팔 총리, 정치적 시험대···강진 덮친 베네수·콜롬비아의 엇갈린 초기 대응 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KYmVkcHJwWHQ3WE05empwaDhwb2ltWUw3QTVCZG5JX1RPM2tKWGRJdW9fQWxpVXQ4RDhVcnJBMGdWU0R2bUNyNnJoMTVYdHROVk13VlB2OHpHQdIBX0FVX3lxTFA5RmVfVlJtMkd5eHVvV2Z2Z1JPRm1KQ21XRGV4YTBxZlBfejdiVVVHRHVOQnd2a0JfV2FqUk9XdGVMcl9LWnZ4Yjhyb0ZNUkowaEpwV1dDUy1KTlRBcnpJ?oc=5",
           "source": "Google News",
-          "published": "Fri, 28 Aug 2026 13:46:53 GMT"
+          "published": "Fri, 28 Aug 2026 21:00:00 GMT"
         }
       ]
     },
     {
-      "word": "사람",
+      "word": "덮친",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "벽엔 실종자, 철문엔 시신 사진... 가족 못 찾은 사람은 눈물만 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNG9LS3V5cUZTbW5CQUpnVFkxSlB3N3FxUUV5Sk9TcUNfV0RFa0ZQRUVMWnFvaTA2T3dUNW1pU3BiOWlFWFJZTVI4YUhXMkVvVkxMYXZZSkd4ejRDN3ZFNUNONjZHZGl4aU5Rejc4dVdJUjNmalRuMXY2YzZaV0t5OWwtNHZPZHVrd1NaMDR3WFI?oc=5",
+          "title": "30대 래퍼 출신 네팔 총리, 정치적 시험대···강진 덮친 베네수·콜롬비아의 엇갈린 초기 대응 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KYmVkcHJwWHQ3WE05empwaDhwb2ltWUw3QTVCZG5JX1RPM2tKWGRJdW9fQWxpVXQ4RDhVcnJBMGdWU0R2bUNyNnJoMTVYdHROVk13VlB2OHpHQdIBX0FVX3lxTFA5RmVfVlJtMkd5eHVvV2Z2Z1JPRm1KQ21XRGV4YTBxZlBfejdiVVVHRHVOQnd2a0JfV2FqUk9XdGVMcl9LWnZ4Yjhyb0ZNUkowaEpwV1dDUy1KTlRBcnpJ?oc=5",
           "source": "Google News",
-          "published": "Fri, 28 Aug 2026 13:46:53 GMT"
+          "published": "Fri, 28 Aug 2026 21:00:00 GMT"
         }
       ]
     },
     {
-      "word": "눈물",
+      "word": "베네수콜롬비아",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "벽엔 실종자, 철문엔 시신 사진... 가족 못 찾은 사람은 눈물만 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNG9LS3V5cUZTbW5CQUpnVFkxSlB3N3FxUUV5Sk9TcUNfV0RFa0ZQRUVMWnFvaTA2T3dUNW1pU3BiOWlFWFJZTVI4YUhXMkVvVkxMYXZZSkd4ejRDN3ZFNUNONjZHZGl4aU5Rejc4dVdJUjNmalRuMXY2YzZaV0t5OWwtNHZPZHVrd1NaMDR3WFI?oc=5",
+          "title": "30대 래퍼 출신 네팔 총리, 정치적 시험대···강진 덮친 베네수·콜롬비아의 엇갈린 초기 대응 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KYmVkcHJwWHQ3WE05empwaDhwb2ltWUw3QTVCZG5JX1RPM2tKWGRJdW9fQWxpVXQ4RDhVcnJBMGdWU0R2bUNyNnJoMTVYdHROVk13VlB2OHpHQdIBX0FVX3lxTFA5RmVfVlJtMkd5eHVvV2Z2Z1JPRm1KQ21XRGV4YTBxZlBfejdiVVVHRHVOQnd2a0JfV2FqUk9XdGVMcl9LWnZ4Yjhyb0ZNUkowaEpwV1dDUy1KTlRBcnpJ?oc=5",
           "source": "Google News",
-          "published": "Fri, 28 Aug 2026 13:46:53 GMT"
+          "published": "Fri, 28 Aug 2026 21:00:00 GMT"
         }
       ]
     },
     {
-      "word": "국회",
+      "word": "엇갈린",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“국회 ‘백골단’ 몰고 온” 김민전…박근혜 만난 뒤 “윤석열도 보고 싶어” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RaW5yWWR3WnlmamxOeUJKTzRwQzM4Uzhmc1RDQ080V0JrNWxYVlktT01ZR3RlZnA1QTJUYTJNYXZ3X3VZMU5URDJNQjlOTkdXUE5UTW84WWhsdVp3V2lfeEk3cjUwQmhPQnZXR2w4WW1VU2pT?oc=5",
+          "title": "30대 래퍼 출신 네팔 총리, 정치적 시험대···강진 덮친 베네수·콜롬비아의 엇갈린 초기 대응 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KYmVkcHJwWHQ3WE05empwaDhwb2ltWUw3QTVCZG5JX1RPM2tKWGRJdW9fQWxpVXQ4RDhVcnJBMGdWU0R2bUNyNnJoMTVYdHROVk13VlB2OHpHQdIBX0FVX3lxTFA5RmVfVlJtMkd5eHVvV2Z2Z1JPRm1KQ21XRGV4YTBxZlBfejdiVVVHRHVOQnd2a0JfV2FqUk9XdGVMcl9LWnZ4Yjhyb0ZNUkowaEpwV1dDUy1KTlRBcnpJ?oc=5",
           "source": "Google News",
-          "published": "Fri, 28 Aug 2026 13:06:00 GMT"
+          "published": "Fri, 28 Aug 2026 21:00:00 GMT"
         }
       ]
     },
     {
-      "word": "백골단",
+      "word": "초기",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“국회 ‘백골단’ 몰고 온” 김민전…박근혜 만난 뒤 “윤석열도 보고 싶어” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RaW5yWWR3WnlmamxOeUJKTzRwQzM4Uzhmc1RDQ080V0JrNWxYVlktT01ZR3RlZnA1QTJUYTJNYXZ3X3VZMU5URDJNQjlOTkdXUE5UTW84WWhsdVp3V2lfeEk3cjUwQmhPQnZXR2w4WW1VU2pT?oc=5",
+          "title": "30대 래퍼 출신 네팔 총리, 정치적 시험대···강진 덮친 베네수·콜롬비아의 엇갈린 초기 대응 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KYmVkcHJwWHQ3WE05empwaDhwb2ltWUw3QTVCZG5JX1RPM2tKWGRJdW9fQWxpVXQ4RDhVcnJBMGdWU0R2bUNyNnJoMTVYdHROVk13VlB2OHpHQdIBX0FVX3lxTFA5RmVfVlJtMkd5eHVvV2Z2Z1JPRm1KQ21XRGV4YTBxZlBfejdiVVVHRHVOQnd2a0JfV2FqUk9XdGVMcl9LWnZ4Yjhyb0ZNUkowaEpwV1dDUy1KTlRBcnpJ?oc=5",
           "source": "Google News",
-          "published": "Fri, 28 Aug 2026 13:06:00 GMT"
+          "published": "Fri, 28 Aug 2026 21:00:00 GMT"
         }
       ]
     },
     {
-      "word": "몰고",
+      "word": "대응",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“국회 ‘백골단’ 몰고 온” 김민전…박근혜 만난 뒤 “윤석열도 보고 싶어” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RaW5yWWR3WnlmamxOeUJKTzRwQzM4Uzhmc1RDQ080V0JrNWxYVlktT01ZR3RlZnA1QTJUYTJNYXZ3X3VZMU5URDJNQjlOTkdXUE5UTW84WWhsdVp3V2lfeEk3cjUwQmhPQnZXR2w4WW1VU2pT?oc=5",
+          "title": "30대 래퍼 출신 네팔 총리, 정치적 시험대···강진 덮친 베네수·콜롬비아의 엇갈린 초기 대응 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KYmVkcHJwWHQ3WE05empwaDhwb2ltWUw3QTVCZG5JX1RPM2tKWGRJdW9fQWxpVXQ4RDhVcnJBMGdWU0R2bUNyNnJoMTVYdHROVk13VlB2OHpHQdIBX0FVX3lxTFA5RmVfVlJtMkd5eHVvV2Z2Z1JPRm1KQ21XRGV4YTBxZlBfejdiVVVHRHVOQnd2a0JfV2FqUk9XdGVMcl9LWnZ4Yjhyb0ZNUkowaEpwV1dDUy1KTlRBcnpJ?oc=5",
           "source": "Google News",
-          "published": "Fri, 28 Aug 2026 13:06:00 GMT"
+          "published": "Fri, 28 Aug 2026 21:00:00 GMT"
         }
       ]
     },
     {
-      "word": "김민전박근혜",
+      "word": "청와대",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“국회 ‘백골단’ 몰고 온” 김민전…박근혜 만난 뒤 “윤석열도 보고 싶어” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RaW5yWWR3WnlmamxOeUJKTzRwQzM4Uzhmc1RDQ080V0JrNWxYVlktT01ZR3RlZnA1QTJUYTJNYXZ3X3VZMU5URDJNQjlOTkdXUE5UTW84WWhsdVp3V2lfeEk3cjUwQmhPQnZXR2w4WW1VU2pT?oc=5",
+          "title": "청와대, 대법원장에 ‘손봉기 재제청’ 요청…“절차적 완결성 갖추지 못해” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41dklSMS1Pc2ZGcWxObmRMdHdNV040Y0FRVDB0MUxHdWFpWk82NGRaNG5PQmdoNVZEMzlvUEhtQkx3RjZJMGJMemZoakVGdlBBelRDSmtiRFJiWEk?oc=5",
           "source": "Google News",
-          "published": "Fri, 28 Aug 2026 13:06:00 GMT"
+          "published": "Fri, 28 Aug 2026 21:26:00 GMT"
         }
       ]
     },
     {
-      "word": "만난",
+      "word": "대법원장",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“국회 ‘백골단’ 몰고 온” 김민전…박근혜 만난 뒤 “윤석열도 보고 싶어” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RaW5yWWR3WnlmamxOeUJKTzRwQzM4Uzhmc1RDQ080V0JrNWxYVlktT01ZR3RlZnA1QTJUYTJNYXZ3X3VZMU5URDJNQjlOTkdXUE5UTW84WWhsdVp3V2lfeEk3cjUwQmhPQnZXR2w4WW1VU2pT?oc=5",
+          "title": "청와대, 대법원장에 ‘손봉기 재제청’ 요청…“절차적 완결성 갖추지 못해” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41dklSMS1Pc2ZGcWxObmRMdHdNV040Y0FRVDB0MUxHdWFpWk82NGRaNG5PQmdoNVZEMzlvUEhtQkx3RjZJMGJMemZoakVGdlBBelRDSmtiRFJiWEk?oc=5",
           "source": "Google News",
-          "published": "Fri, 28 Aug 2026 13:06:00 GMT"
+          "published": "Fri, 28 Aug 2026 21:26:00 GMT"
         }
       ]
     },
     {
-      "word": "윤석열",
+      "word": "손봉기",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“국회 ‘백골단’ 몰고 온” 김민전…박근혜 만난 뒤 “윤석열도 보고 싶어” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RaW5yWWR3WnlmamxOeUJKTzRwQzM4Uzhmc1RDQ080V0JrNWxYVlktT01ZR3RlZnA1QTJUYTJNYXZ3X3VZMU5URDJNQjlOTkdXUE5UTW84WWhsdVp3V2lfeEk3cjUwQmhPQnZXR2w4WW1VU2pT?oc=5",
+          "title": "청와대, 대법원장에 ‘손봉기 재제청’ 요청…“절차적 완결성 갖추지 못해” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41dklSMS1Pc2ZGcWxObmRMdHdNV040Y0FRVDB0MUxHdWFpWk82NGRaNG5PQmdoNVZEMzlvUEhtQkx3RjZJMGJMemZoakVGdlBBelRDSmtiRFJiWEk?oc=5",
           "source": "Google News",
-          "published": "Fri, 28 Aug 2026 13:06:00 GMT"
+          "published": "Fri, 28 Aug 2026 21:26:00 GMT"
         }
       ]
     },
     {
-      "word": "보고",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“국회 ‘백골단’ 몰고 온” 김민전…박근혜 만난 뒤 “윤석열도 보고 싶어” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RaW5yWWR3WnlmamxOeUJKTzRwQzM4Uzhmc1RDQ080V0JrNWxYVlktT01ZR3RlZnA1QTJUYTJNYXZ3X3VZMU5URDJNQjlOTkdXUE5UTW84WWhsdVp3V2lfeEk3cjUwQmhPQnZXR2w4WW1VU2pT?oc=5",
-          "source": "Google News",
-          "published": "Fri, 28 Aug 2026 13:06:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "싶어",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“국회 ‘백골단’ 몰고 온” 김민전…박근혜 만난 뒤 “윤석열도 보고 싶어” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RaW5yWWR3WnlmamxOeUJKTzRwQzM4Uzhmc1RDQ080V0JrNWxYVlktT01ZR3RlZnA1QTJUYTJNYXZ3X3VZMU5URDJNQjlOTkdXUE5UTW84WWhsdVp3V2lfeEk3cjUwQmhPQnZXR2w4WW1VU2pT?oc=5",
-          "source": "Google News",
-          "published": "Fri, 28 Aug 2026 13:06:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "지방",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "지방 중소기업 청년 월 50만원 적금하면 정부가 12만5000원 지원 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rRDYyTExiTV9IT1g4ckFLX3JMenFzeV9ybDZGcFZjdzFOcE9qRzlEM0F2X2hHWjE2WDhBOEFFTkJGR1VqUFdSWVZONGtLanRTRTBld3NucUtad9IBX0FVX3lxTE9QaXByc0lORWs2WDdFMGtfVzliNkQ2Mm9SVHBLVG81RnFEMlhudkdPbUdtdUViU2s3QWxfOUN2ZHk5M0Jlbm5aeWgtMFhET2hQMWFSeTRGNzFiT1owb2lj?oc=5",
-          "source": "Google News",
-          "published": "Fri, 28 Aug 2026 07:30:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "중소기업",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "지방 중소기업 청년 월 50만원 적금하면 정부가 12만5000원 지원 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rRDYyTExiTV9IT1g4ckFLX3JMenFzeV9ybDZGcFZjdzFOcE9qRzlEM0F2X2hHWjE2WDhBOEFFTkJGR1VqUFdSWVZONGtLanRTRTBld3NucUtad9IBX0FVX3lxTE9QaXByc0lORWs2WDdFMGtfVzliNkQ2Mm9SVHBLVG81RnFEMlhudkdPbUdtdUViU2s3QWxfOUN2ZHk5M0Jlbm5aeWgtMFhET2hQMWFSeTRGNzFiT1owb2lj?oc=5",
-          "source": "Google News",
-          "published": "Fri, 28 Aug 2026 07:30:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "청년",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "지방 중소기업 청년 월 50만원 적금하면 정부가 12만5000원 지원 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rRDYyTExiTV9IT1g4ckFLX3JMenFzeV9ybDZGcFZjdzFOcE9qRzlEM0F2X2hHWjE2WDhBOEFFTkJGR1VqUFdSWVZONGtLanRTRTBld3NucUtad9IBX0FVX3lxTE9QaXByc0lORWs2WDdFMGtfVzliNkQ2Mm9SVHBLVG81RnFEMlhudkdPbUdtdUViU2s3QWxfOUN2ZHk5M0Jlbm5aeWgtMFhET2hQMWFSeTRGNzFiT1owb2lj?oc=5",
-          "source": "Google News",
-          "published": "Fri, 28 Aug 2026 07:30:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "50만원",
+      "word": "재제청",
       "count": 1,
       "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "지방 중소기업 청년 월 50만원 적금하면 정부가 12만5000원 지원 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rRDYyTExiTV9IT1g4ckFLX3JMenFzeV9ybDZGcFZjdzFOcE9qRzlEM0F2X2hHWjE2WDhBOEFFTkJGR1VqUFdSWVZONGtLanRTRTBld3NucUtad9IBX0FVX3lxTE9QaXByc0lORWs2WDdFMGtfVzliNkQ2Mm9SVHBLVG81RnFEMlhudkdPbUdtdUViU2s3QWxfOUN2ZHk5M0Jlbm5aeWgtMFhET2hQMWFSeTRGNzFiT1owb2lj?oc=5",
+          "title": "청와대, 대법원장에 ‘손봉기 재제청’ 요청…“절차적 완결성 갖추지 못해” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41dklSMS1Pc2ZGcWxObmRMdHdNV040Y0FRVDB0MUxHdWFpWk82NGRaNG5PQmdoNVZEMzlvUEhtQkx3RjZJMGJMemZoakVGdlBBelRDSmtiRFJiWEk?oc=5",
           "source": "Google News",
-          "published": "Fri, 28 Aug 2026 07:30:00 GMT"
+          "published": "Fri, 28 Aug 2026 21:26:00 GMT"
         }
       ]
     },
     {
-      "word": "적금하면",
+      "word": "요청절차",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "지방 중소기업 청년 월 50만원 적금하면 정부가 12만5000원 지원 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rRDYyTExiTV9IT1g4ckFLX3JMenFzeV9ybDZGcFZjdzFOcE9qRzlEM0F2X2hHWjE2WDhBOEFFTkJGR1VqUFdSWVZONGtLanRTRTBld3NucUtad9IBX0FVX3lxTE9QaXByc0lORWs2WDdFMGtfVzliNkQ2Mm9SVHBLVG81RnFEMlhudkdPbUdtdUViU2s3QWxfOUN2ZHk5M0Jlbm5aeWgtMFhET2hQMWFSeTRGNzFiT1owb2lj?oc=5",
+          "title": "청와대, 대법원장에 ‘손봉기 재제청’ 요청…“절차적 완결성 갖추지 못해” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41dklSMS1Pc2ZGcWxObmRMdHdNV040Y0FRVDB0MUxHdWFpWk82NGRaNG5PQmdoNVZEMzlvUEhtQkx3RjZJMGJMemZoakVGdlBBelRDSmtiRFJiWEk?oc=5",
           "source": "Google News",
-          "published": "Fri, 28 Aug 2026 07:30:00 GMT"
+          "published": "Fri, 28 Aug 2026 21:26:00 GMT"
         }
       ]
     },
     {
-      "word": "12만5000원",
+      "word": "완결",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "청와대, 대법원장에 ‘손봉기 재제청’ 요청…“절차적 완결성 갖추지 못해” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41dklSMS1Pc2ZGcWxObmRMdHdNV040Y0FRVDB0MUxHdWFpWk82NGRaNG5PQmdoNVZEMzlvUEhtQkx3RjZJMGJMemZoakVGdlBBelRDSmtiRFJiWEk?oc=5",
+          "source": "Google News",
+          "published": "Fri, 28 Aug 2026 21:26:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "갖추지",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "청와대, 대법원장에 ‘손봉기 재제청’ 요청…“절차적 완결성 갖추지 못해” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41dklSMS1Pc2ZGcWxObmRMdHdNV040Y0FRVDB0MUxHdWFpWk82NGRaNG5PQmdoNVZEMzlvUEhtQkx3RjZJMGJMemZoakVGdlBBelRDSmtiRFJiWEk?oc=5",
+          "source": "Google News",
+          "published": "Fri, 28 Aug 2026 21:26:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "못해",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "청와대, 대법원장에 ‘손봉기 재제청’ 요청…“절차적 완결성 갖추지 못해” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41dklSMS1Pc2ZGcWxObmRMdHdNV040Y0FRVDB0MUxHdWFpWk82NGRaNG5PQmdoNVZEMzlvUEhtQkx3RjZJMGJMemZoakVGdlBBelRDSmtiRFJiWEk?oc=5",
+          "source": "Google News",
+          "published": "Fri, 28 Aug 2026 21:26:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "2026",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[2026 정기국회 현안과제] 기본적 노후소득보장을 위한 기초연금 개혁 - 참여연대",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uaVBjbm8waFZxZTRZREU2QkU1VmhlQTRiYXluQlVQUWxPbnJOTnVBNDNpLWZidHhJMk55YVNHTUJObmdKbElfcFRoOURvcFZmQXV3?oc=5",
+          "source": "Google News",
+          "published": "Fri, 28 Aug 2026 06:02:15 GMT"
+        }
+      ]
+    },
+    {
+      "word": "정기국회",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[2026 정기국회 현안과제] 기본적 노후소득보장을 위한 기초연금 개혁 - 참여연대",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uaVBjbm8waFZxZTRZREU2QkU1VmhlQTRiYXluQlVQUWxPbnJOTnVBNDNpLWZidHhJMk55YVNHTUJObmdKbElfcFRoOURvcFZmQXV3?oc=5",
+          "source": "Google News",
+          "published": "Fri, 28 Aug 2026 06:02:15 GMT"
+        }
+      ]
+    },
+    {
+      "word": "현안과제",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[2026 정기국회 현안과제] 기본적 노후소득보장을 위한 기초연금 개혁 - 참여연대",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uaVBjbm8waFZxZTRZREU2QkU1VmhlQTRiYXluQlVQUWxPbnJOTnVBNDNpLWZidHhJMk55YVNHTUJObmdKbElfcFRoOURvcFZmQXV3?oc=5",
+          "source": "Google News",
+          "published": "Fri, 28 Aug 2026 06:02:15 GMT"
+        }
+      ]
+    },
+    {
+      "word": "기본",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[2026 정기국회 현안과제] 기본적 노후소득보장을 위한 기초연금 개혁 - 참여연대",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uaVBjbm8waFZxZTRZREU2QkU1VmhlQTRiYXluQlVQUWxPbnJOTnVBNDNpLWZidHhJMk55YVNHTUJObmdKbElfcFRoOURvcFZmQXV3?oc=5",
+          "source": "Google News",
+          "published": "Fri, 28 Aug 2026 06:02:15 GMT"
+        }
+      ]
+    },
+    {
+      "word": "노후소득보장",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[2026 정기국회 현안과제] 기본적 노후소득보장을 위한 기초연금 개혁 - 참여연대",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uaVBjbm8waFZxZTRZREU2QkU1VmhlQTRiYXluQlVQUWxPbnJOTnVBNDNpLWZidHhJMk55YVNHTUJObmdKbElfcFRoOURvcFZmQXV3?oc=5",
+          "source": "Google News",
+          "published": "Fri, 28 Aug 2026 06:02:15 GMT"
+        }
+      ]
+    },
+    {
+      "word": "위한",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[2026 정기국회 현안과제] 기본적 노후소득보장을 위한 기초연금 개혁 - 참여연대",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uaVBjbm8waFZxZTRZREU2QkU1VmhlQTRiYXluQlVQUWxPbnJOTnVBNDNpLWZidHhJMk55YVNHTUJObmdKbElfcFRoOURvcFZmQXV3?oc=5",
+          "source": "Google News",
+          "published": "Fri, 28 Aug 2026 06:02:15 GMT"
+        }
+      ]
+    },
+    {
+      "word": "기초연금",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[2026 정기국회 현안과제] 기본적 노후소득보장을 위한 기초연금 개혁 - 참여연대",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uaVBjbm8waFZxZTRZREU2QkU1VmhlQTRiYXluQlVQUWxPbnJOTnVBNDNpLWZidHhJMk55YVNHTUJObmdKbElfcFRoOURvcFZmQXV3?oc=5",
+          "source": "Google News",
+          "published": "Fri, 28 Aug 2026 06:02:15 GMT"
+        }
+      ]
+    },
+    {
+      "word": "개혁",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[2026 정기국회 현안과제] 기본적 노후소득보장을 위한 기초연금 개혁 - 참여연대",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uaVBjbm8waFZxZTRZREU2QkU1VmhlQTRiYXluQlVQUWxPbnJOTnVBNDNpLWZidHhJMk55YVNHTUJObmdKbElfcFRoOURvcFZmQXV3?oc=5",
+          "source": "Google News",
+          "published": "Fri, 28 Aug 2026 06:02:15 GMT"
+        }
+      ]
+    },
+    {
+      "word": "내년",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "내년 결혼하면 100만원, 아이 낳으면 최대 2000만원 받는다 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CWjVrQlE5QWx3cVZIYmI4b3E1c1FsQzd3WFFyU2dEMVVQaGVfSVpEWXBJbDhyenkwTHVTZDlYdnlqNjBzajJjaXVrOFRONk5JanBBeThabkZiTkVHVEk2SEZyNUw0RW11TFBFMXZBU3RyQ2h1RVHSAWZBVV95cUxOWjVIUUVrYmVkcFphM3RuYk50dURaeE9JVFdxVFJmRHVGbzlfaEZUUTNteXZsdDk4dFVhcmFMTnVtbGVlZDJ0YUxXbXdLNXNjeEVGSWtoQUdDRnMyUFdCTS1XamVJZ2c?oc=5",
+          "source": "Google News",
+          "published": "Fri, 28 Aug 2026 08:09:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "결혼하면",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "내년 결혼하면 100만원, 아이 낳으면 최대 2000만원 받는다 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CWjVrQlE5QWx3cVZIYmI4b3E1c1FsQzd3WFFyU2dEMVVQaGVfSVpEWXBJbDhyenkwTHVTZDlYdnlqNjBzajJjaXVrOFRONk5JanBBeThabkZiTkVHVEk2SEZyNUw0RW11TFBFMXZBU3RyQ2h1RVHSAWZBVV95cUxOWjVIUUVrYmVkcFphM3RuYk50dURaeE9JVFdxVFJmRHVGbzlfaEZUUTNteXZsdDk4dFVhcmFMTnVtbGVlZDJ0YUxXbXdLNXNjeEVGSWtoQUdDRnMyUFdCTS1XamVJZ2c?oc=5",
+          "source": "Google News",
+          "published": "Fri, 28 Aug 2026 08:09:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "100만원",
       "count": 1,
       "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "지방 중소기업 청년 월 50만원 적금하면 정부가 12만5000원 지원 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rRDYyTExiTV9IT1g4ckFLX3JMenFzeV9ybDZGcFZjdzFOcE9qRzlEM0F2X2hHWjE2WDhBOEFFTkJGR1VqUFdSWVZONGtLanRTRTBld3NucUtad9IBX0FVX3lxTE9QaXByc0lORWs2WDdFMGtfVzliNkQ2Mm9SVHBLVG81RnFEMlhudkdPbUdtdUViU2s3QWxfOUN2ZHk5M0Jlbm5aeWgtMFhET2hQMWFSeTRGNzFiT1owb2lj?oc=5",
+          "title": "내년 결혼하면 100만원, 아이 낳으면 최대 2000만원 받는다 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CWjVrQlE5QWx3cVZIYmI4b3E1c1FsQzd3WFFyU2dEMVVQaGVfSVpEWXBJbDhyenkwTHVTZDlYdnlqNjBzajJjaXVrOFRONk5JanBBeThabkZiTkVHVEk2SEZyNUw0RW11TFBFMXZBU3RyQ2h1RVHSAWZBVV95cUxOWjVIUUVrYmVkcFphM3RuYk50dURaeE9JVFdxVFJmRHVGbzlfaEZUUTNteXZsdDk4dFVhcmFMTnVtbGVlZDJ0YUxXbXdLNXNjeEVGSWtoQUdDRnMyUFdCTS1XamVJZ2c?oc=5",
           "source": "Google News",
-          "published": "Fri, 28 Aug 2026 07:30:00 GMT"
+          "published": "Fri, 28 Aug 2026 08:09:00 GMT"
         }
       ]
     },
     {
-      "word": "지지율",
+      "word": "아이",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "李 지지율 42%로 취임후 최저… 부정평가 첫 50% - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4wdlgwSjRkclV2eTZiZXpmRnZlYzBYODh2cGFzcUxDN0tyaVhoZ3BkUmZaUFNZODhkV1ZqZWlfbVFOdXUxNm9BZzZTVm9LSmQ0Mk5CWUZBRzFucF9fRzRkZFFhRWhjLW5kZnlUbUFMZDdRNmVDZUow0gFmQVVfeXFMT2hweVlwYkxwWFZjQ19GcWVNbU1qbGRPc21nbGJhYjdhWUZUWUppWGh1b0tiRGE5UW1SYzBlRXZGNlgwS3JibHEyOEtxbFVxcXVxUl95LWpfbTJUUFQ2VS11cWJEVTR3?oc=5",
+          "title": "내년 결혼하면 100만원, 아이 낳으면 최대 2000만원 받는다 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CWjVrQlE5QWx3cVZIYmI4b3E1c1FsQzd3WFFyU2dEMVVQaGVfSVpEWXBJbDhyenkwTHVTZDlYdnlqNjBzajJjaXVrOFRONk5JanBBeThabkZiTkVHVEk2SEZyNUw0RW11TFBFMXZBU3RyQ2h1RVHSAWZBVV95cUxOWjVIUUVrYmVkcFphM3RuYk50dURaeE9JVFdxVFJmRHVGbzlfaEZUUTNteXZsdDk4dFVhcmFMTnVtbGVlZDJ0YUxXbXdLNXNjeEVGSWtoQUdDRnMyUFdCTS1XamVJZ2c?oc=5",
           "source": "Google News",
-          "published": "Fri, 28 Aug 2026 16:40:00 GMT"
+          "published": "Fri, 28 Aug 2026 08:09:00 GMT"
         }
       ]
     },
     {
-      "word": "42",
+      "word": "낳으면",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "李 지지율 42%로 취임후 최저… 부정평가 첫 50% - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4wdlgwSjRkclV2eTZiZXpmRnZlYzBYODh2cGFzcUxDN0tyaVhoZ3BkUmZaUFNZODhkV1ZqZWlfbVFOdXUxNm9BZzZTVm9LSmQ0Mk5CWUZBRzFucF9fRzRkZFFhRWhjLW5kZnlUbUFMZDdRNmVDZUow0gFmQVVfeXFMT2hweVlwYkxwWFZjQ19GcWVNbU1qbGRPc21nbGJhYjdhWUZUWUppWGh1b0tiRGE5UW1SYzBlRXZGNlgwS3JibHEyOEtxbFVxcXVxUl95LWpfbTJUUFQ2VS11cWJEVTR3?oc=5",
+          "title": "내년 결혼하면 100만원, 아이 낳으면 최대 2000만원 받는다 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CWjVrQlE5QWx3cVZIYmI4b3E1c1FsQzd3WFFyU2dEMVVQaGVfSVpEWXBJbDhyenkwTHVTZDlYdnlqNjBzajJjaXVrOFRONk5JanBBeThabkZiTkVHVEk2SEZyNUw0RW11TFBFMXZBU3RyQ2h1RVHSAWZBVV95cUxOWjVIUUVrYmVkcFphM3RuYk50dURaeE9JVFdxVFJmRHVGbzlfaEZUUTNteXZsdDk4dFVhcmFMTnVtbGVlZDJ0YUxXbXdLNXNjeEVGSWtoQUdDRnMyUFdCTS1XamVJZ2c?oc=5",
           "source": "Google News",
-          "published": "Fri, 28 Aug 2026 16:40:00 GMT"
+          "published": "Fri, 28 Aug 2026 08:09:00 GMT"
         }
       ]
     },
     {
-      "word": "취임후",
+      "word": "2000만원",
       "count": 1,
-      "category": "NOUN",
+      "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "李 지지율 42%로 취임후 최저… 부정평가 첫 50% - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4wdlgwSjRkclV2eTZiZXpmRnZlYzBYODh2cGFzcUxDN0tyaVhoZ3BkUmZaUFNZODhkV1ZqZWlfbVFOdXUxNm9BZzZTVm9LSmQ0Mk5CWUZBRzFucF9fRzRkZFFhRWhjLW5kZnlUbUFMZDdRNmVDZUow0gFmQVVfeXFMT2hweVlwYkxwWFZjQ19GcWVNbU1qbGRPc21nbGJhYjdhWUZUWUppWGh1b0tiRGE5UW1SYzBlRXZGNlgwS3JibHEyOEtxbFVxcXVxUl95LWpfbTJUUFQ2VS11cWJEVTR3?oc=5",
+          "title": "내년 결혼하면 100만원, 아이 낳으면 최대 2000만원 받는다 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CWjVrQlE5QWx3cVZIYmI4b3E1c1FsQzd3WFFyU2dEMVVQaGVfSVpEWXBJbDhyenkwTHVTZDlYdnlqNjBzajJjaXVrOFRONk5JanBBeThabkZiTkVHVEk2SEZyNUw0RW11TFBFMXZBU3RyQ2h1RVHSAWZBVV95cUxOWjVIUUVrYmVkcFphM3RuYk50dURaeE9JVFdxVFJmRHVGbzlfaEZUUTNteXZsdDk4dFVhcmFMTnVtbGVlZDJ0YUxXbXdLNXNjeEVGSWtoQUdDRnMyUFdCTS1XamVJZ2c?oc=5",
           "source": "Google News",
-          "published": "Fri, 28 Aug 2026 16:40:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "최저",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "李 지지율 42%로 취임후 최저… 부정평가 첫 50% - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4wdlgwSjRkclV2eTZiZXpmRnZlYzBYODh2cGFzcUxDN0tyaVhoZ3BkUmZaUFNZODhkV1ZqZWlfbVFOdXUxNm9BZzZTVm9LSmQ0Mk5CWUZBRzFucF9fRzRkZFFhRWhjLW5kZnlUbUFMZDdRNmVDZUow0gFmQVVfeXFMT2hweVlwYkxwWFZjQ19GcWVNbU1qbGRPc21nbGJhYjdhWUZUWUppWGh1b0tiRGE5UW1SYzBlRXZGNlgwS3JibHEyOEtxbFVxcXVxUl95LWpfbTJUUFQ2VS11cWJEVTR3?oc=5",
-          "source": "Google News",
-          "published": "Fri, 28 Aug 2026 16:40:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "부정평",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "李 지지율 42%로 취임후 최저… 부정평가 첫 50% - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4wdlgwSjRkclV2eTZiZXpmRnZlYzBYODh2cGFzcUxDN0tyaVhoZ3BkUmZaUFNZODhkV1ZqZWlfbVFOdXUxNm9BZzZTVm9LSmQ0Mk5CWUZBRzFucF9fRzRkZFFhRWhjLW5kZnlUbUFMZDdRNmVDZUow0gFmQVVfeXFMT2hweVlwYkxwWFZjQ19GcWVNbU1qbGRPc21nbGJhYjdhWUZUWUppWGh1b0tiRGE5UW1SYzBlRXZGNlgwS3JibHEyOEtxbFVxcXVxUl95LWpfbTJUUFQ2VS11cWJEVTR3?oc=5",
-          "source": "Google News",
-          "published": "Fri, 28 Aug 2026 16:40:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "제청",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "靑에 제청 반려받은 조희대 \"국민께 죄송, 내주 입장낼 것\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMVIzWTZoQnVwM1RkcWxIMHViQnJkel9zNVl6eFRsZkdMRkRjUF91Z3VScXpPV01KX0dzZmNuR2RnWWxZbHRiLXlLRlFHYW4yNC02MFk4RW9lMlB4VkZROF9KWm5VZjk4OUY3OHhyMklJbEY2dmFOZXpmR2JhVVJDZ1NIMGZna0k?oc=5",
-          "source": "Google News",
-          "published": "Fri, 28 Aug 2026 09:23:00 GMT"
+          "published": "Fri, 28 Aug 2026 08:09:00 GMT"
         }
       ]
     }
