@@ -1,74 +1,36 @@
 {
   "language": "en",
-  "last_updated": 1788256397.3963044,
+  "last_updated": 1788273683.1998787,
   "count": 40,
   "trends": [
     {
-      "word": "Death",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Nepal floods death toll tops 900 as number of missing nearly doubles to more than 4,200 - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVE5BVHJRclNCNmtWZUJlZHBKal93RWd3enc5NjhqNnktY1Z2bGJNa250QVBuRUsyYkNkMWVEb2RCVWFlSzRqM0dQYTNxbENkSnpZMHNTZ1lVWkdyV2JuZzZwRkMzNGhtTzNsbXJERXpudnlxdDMtRmNMNUk4dWtHUndsUlhqenBCWEhKbnlnc29TeEFvRE9WWUc1RFMteGRWUEJJNFlPMU1tNXht?oc=5",
-          "source": "Google News",
-          "published": "Mon, 31 Aug 2026 20:19:00 GMT"
-        },
-        {
-          "title": "Death Toll Rises in Grand Canyon Flood as Search Continues - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oaDJ2U0NRbE12dVZIOEpCQVB4dmpoYzVWaGg4X1FFMEl1RGhnVWpNdjFkb2pqc3JhWGc2YmJnNmcxWWpNd0NMU0N6dXZPY3ptZHRNT2VyckhLMFMwczVOYkJKNGNtcjU0c1JMNWxzTQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 06:03:00 GMT"
-        },
-        {
-          "title": "Over 6,000 Ebola cases confirmed in DRC as death toll nears 3,000 - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRjJ5ei03WHc5dmxhejdOcGh6ZEtIWnlDTWdvbmhqdV9kOWFmbWZ2aU1YdzN6Rm9RT19IcUNTc3N3X2RyanFZZWN0ZThwbjk2SXo0ZWJBSmdyRzRiblNjMEdNZTlvaG82WXBrNmlDM0Q0bzRjXzlhUmNhN25jYkJjclg3WTdWWmVtczMyenNNSFk1aUZFQXZqY0VDT216R0RGSmtIZ3ExONIBrAFBVV95cUxOOEpqT01LRHk0NFg1RldCUko1blhQYUNKNVRGSjdCLUhyazNGT0g3WFJSZUkyeEJBMnBrVkxzRjFOYTN0SDhqc1FfbUJYNS1KQkhCbE9RaGlnZjlRLUcwckd4d0NFQXhNY0R6QzZqS0RBMVhSWDJzUncxRndWOC0yV3VkS0tLT1lPbkRKdkJlMEdBQVR1OW91MFI5OFRwbTNSOUJoelpGR0gzUk9y?oc=5",
-          "source": "Google News",
-          "published": "Mon, 31 Aug 2026 16:38:04 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Toll",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Nepal floods death toll tops 900 as number of missing nearly doubles to more than 4,200 - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVE5BVHJRclNCNmtWZUJlZHBKal93RWd3enc5NjhqNnktY1Z2bGJNa250QVBuRUsyYkNkMWVEb2RCVWFlSzRqM0dQYTNxbENkSnpZMHNTZ1lVWkdyV2JuZzZwRkMzNGhtTzNsbXJERXpudnlxdDMtRmNMNUk4dWtHUndsUlhqenBCWEhKbnlnc29TeEFvRE9WWUc1RFMteGRWUEJJNFlPMU1tNXht?oc=5",
-          "source": "Google News",
-          "published": "Mon, 31 Aug 2026 20:19:00 GMT"
-        },
-        {
-          "title": "Death Toll Rises in Grand Canyon Flood as Search Continues - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oaDJ2U0NRbE12dVZIOEpCQVB4dmpoYzVWaGg4X1FFMEl1RGhnVWpNdjFkb2pqc3JhWGc2YmJnNmcxWWpNd0NMU0N6dXZPY3ptZHRNT2VyckhLMFMwczVOYkJKNGNtcjU0c1JMNWxzTQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 06:03:00 GMT"
-        },
-        {
-          "title": "Over 6,000 Ebola cases confirmed in DRC as death toll nears 3,000 - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRjJ5ei03WHc5dmxhejdOcGh6ZEtIWnlDTWdvbmhqdV9kOWFmbWZ2aU1YdzN6Rm9RT19IcUNTc3N3X2RyanFZZWN0ZThwbjk2SXo0ZWJBSmdyRzRiblNjMEdNZTlvaG82WXBrNmlDM0Q0bzRjXzlhUmNhN25jYkJjclg3WTdWWmVtczMyenNNSFk1aUZFQXZqY0VDT216R0RGSmtIZ3ExONIBrAFBVV95cUxOOEpqT01LRHk0NFg1RldCUko1blhQYUNKNVRGSjdCLUhyazNGT0g3WFJSZUkyeEJBMnBrVkxzRjFOYTN0SDhqc1FfbUJYNS1KQkhCbE9RaGlnZjlRLUcwckd4d0NFQXhNY0R6QzZqS0RBMVhSWDJzUncxRndWOC0yV3VkS0tLT1lPbkRKdkJlMEdBQVR1OW91MFI5OFRwbTNSOUJoelpGR0gzUk9y?oc=5",
-          "source": "Google News",
-          "published": "Mon, 31 Aug 2026 16:38:04 GMT"
-        }
-      ]
-    },
-    {
       "word": "Trump",
-      "count": 3,
+      "count": 5,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Citing California as a problem state, Trump administration shuts down 110 trucking schools - Los Angeles Times",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSVFGMWdMVnRnT216UDN0VmxjaG1Qc2swOFRWR2lfRXpqNlVzdGRqM2g5RDRlZGJYX2l5Y2EyN3JiaUNHRFJZMkdDZmY1RFYwNjdLSlV5Y0tzVExLWUZTby03TWh3ajgzcTdKTVhPOGdDQndhcEZ1NlZrTFdXVUJKN0J0cG5qTG5OUnQ0R1UtcG96d1JQQXJ3emlGMGdHZU93T2hXWV9JWG5oVkF0LXp6MF9qZlJ0Ym9mNXdZZXVPY1ZRMEFtMnk5Y1ZKWHFXYkllX25J?oc=5",
+          "title": "The secret history of Trump's Venezuelan oil baron - Axios",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Rc1dUd2lOLTloRkZLT2dFdmNxVEZTRlpNX09mWTMta1N6ZU8tM3ZveHFPQXJuei1ralE3ZlVhQUtMdW5YNnVGWGJ1RkpReVVmZUtIYlBGa3ZUc0lfNUNPeWJBZTljbDh4Umc?oc=5",
           "source": "Google News",
-          "published": "Mon, 31 Aug 2026 22:35:38 GMT"
+          "published": "Tue, 01 Sep 2026 09:00:32 GMT"
         },
         {
-          "title": "Live Updates: Trump vows to hit Iran hard after U.S., Tehran exchange strikes for the first time in weeks - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX3VPTi0xVlBhMThyb19kVkpfWmJ5Q054dGxfeEFUMFFlN1NGZ2pwYU82ei03S28yNHJSc1lsampHMnFJYXpQbjJSR1hGNWpNT3pUTC05V1dhT1BfTTVQVkd1eF9BSU45bU1udS01QXRhdHdaY0pfUS1NZ0tac2JoeTlvSW9nVkNHdjRrbUZpN1o?oc=5",
+          "title": "Iran is again talking peace after Trump's warning of retaliation, consequences - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSUlENTlQdV9BcnM2RGVSajVRRVhCVTJRQUFIS1ltdmNjWHVBczlVa3o1ZFpNa2dMemNkdUxma2ZYYmVMYTV0VWptYUxLX2dKblp3cG9VZENaZmgyMTFXT294MjdEQ204a0NheDdMY011dDRDWndpaDQyajdrRzdYUUxWVXlURVp6Z01iWWstM2hKdw?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 07:22:00 GMT"
+          "published": "Tue, 01 Sep 2026 11:02:33 GMT"
+        },
+        {
+          "title": "‘Our threat level should be up’: Republicans worry Trump’s super PAC is taking the midterms easy - Politico",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcWxpOWtZenJ5a1R2b0plWWlRWnlwTnZYN2Z3eVU2UWxsQXBUWFN4SGxFb0tRQ2ktMDRzVzBfWlRFckF5OW1FTTFqZWZfOGh6a2FIcDdNYjJ2a0cxUGQ1eEFZaXhIWmhCd1Z0eHFtTHhNM0oxc1ZCU2ZkM245WEVEV202Sjk5STRIMEM3Yw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 09:00:00 GMT"
+        },
+        {
+          "title": "The Trump-shaped problems awaiting Andy Burnham, ranked - politico.eu",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSnRXMklEX2hRZXM0dldoUmU4Nk1GNUNEdkpGVkhWRTB5aVdNOXBXVGRadGc1S0N3LU5jUTRDQUo5aS1DYTNPZ3VrNVFjdWktMXFweEVLWE1KWVdaZGpTWFpkQ3BOSTUzWjBVWlN3U0h0VlBIanNlTHVENUtZZHg2cGoxZ01tZ2dGMGo1WnRxOUNGSDg5?oc=5",
+          "source": "Google News",
+          "published": "Mon, 31 Aug 2026 03:01:00 GMT"
         },
         {
           "title": "Trump calls for federal tax incentives to benefit TV and movie industry - NBC News",
@@ -79,225 +41,41 @@
       ]
     },
     {
-      "word": "John",
+      "word": "Found",
       "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "John Ternus to lead Apple into the age of AI - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTFJXbVlMMGdzcl9FRUhKTloxbDJ3X3N5V3MwV0JlV0lCQTV3THhBdWQzb0JSWG5neTFVY2NlVlNmM0YwX0tiMVRVdzYxdzNpeG9yWGp6alRJZmdVcmNaS2IzYkZYRjdiOWgwNVBOZHZqUC11V0Vyb3IyTlhlSkZPNUVMWFJXOWt5MXktcl9LUHbSAZYBQVVfeXFMUHNER09BS20zb0IyMUowSm1hd0tlcFB3NEZFenNSYTdiLVlyclVsTEU5R2haMnZlY25GaDg1YkZqc3EwWm51ZXFNelVPNE5sUDVWci1HUHhBb0daUzJtMl91Nkt1WWs2OGdVMG1WRDMwQVAtMnc5Qms2emd3TEpPUDQ3ZjFLMEE1UFhGSFViWkpJVFpJZHhR?oc=5",
+          "title": "Improvised explosive devices found near German power plant, police say - Euronews.com",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX1R2aW5QdmR6MkE0YVpyVXh5THN0Vm5qUWJxa3NjUXl2RHppdFNuOXo4RU9NM2RXUloxeFhLS29nUXhHYUhaUmI4NWdBMks1c2VpNlN5UWZIc1BsMDlvZ014TDhVbURtYjlrNmxxeVZBTl9ERnB6LVhlRkJmZGxrR05Fa3RXbnctdmlPQURzekw4S3VwM2ZmR2RNWlpFVWJpUXR1d01GOGsxaFpsMU53QllIODRoSlBMalpJ?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 03:24:09 GMT"
+          "published": "Tue, 01 Sep 2026 12:05:57 GMT"
         },
         {
-          "title": "Amid backlash, museum cancels planned Met Gala exhibit on fashion designer John Galliano - NPR",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNWtYS0hmS0J3Y2wtQnFzTHZIRlJ5eWNOZkJ0dnZJWjNCUlhxdGhjN05nZ29jMkZOMU1uVzdSR1dQb0JtS1QzSlFnd0lWMThzYy1LZkhfOTI0UmctQUxIdFdEWllaVHFQekxqLUF0ZTVuNDRzTTh6Rkw4N2ZpaFh0QXRIaF9pZzVxaXc?oc=5",
+          "title": "Keffe D found guilty in Tupac Shakur murder trial nearly 30 years later - USA Today",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQanpjNGs3ZkFQdGpfUk5RaTRQYVdjbndSU05BeFNIRThfLXZsdDhMTnBuRm1tQWstX0hGY3EzNTh0N1dmZkRmUUt5VlVsNmJRaC1QVF84NnNPM0MtT2Z2UDlVOURYalpQMkl6ZmdtRzlwc3BKOHNETDFlMmdoTkhqLTE1SUI5NGVGNU9FaUl1Wk0xMjFrOWJrWDEtVUVmaUdrQmp6ME9ZOFR2NWhoaWlZMlJuR1RiSHhnbWdVbzBkTUdOTEVlUklERw?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 05:43:37 GMT"
+          "published": "Tue, 01 Sep 2026 11:31:00 GMT"
         },
         {
-          "title": "John McEnroe blasted for ‘disrespectful’ comment after Novak Djokovic’s US Open defeat to Mariano Navone - Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb0tKYi1WSTdES19vbEFpR2c3Y29MQldZTTB6TFhqcUFQQVF6eUxBc0U1V0xtUWc2c0VHYV9tT3J1enhHdDFQSS1HRkdXT0N0a3Ftc2VYWTBRQTJ1dmdPdDI1ZEVKMWJ1d1M1cUVVV3FTZ3VwX0dRbGYtZkYweDl4dl92emczdHZzR0R3eVVicWUxZlE?oc=5",
+          "title": "He thought he had a sinus infection. An urgent care found something wrong with his heart. - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOFlZWko3b1FCSHpEd1laYmpIMlp0dzdNY25JUmtoZkZfQVF5bTR3TTljczAzWjFpRVFoWVpJMGQyQVJsZGd4NVNwTno0ZEY1U3ZveXBjVmJlVmE0MW9JTlEyZzFEMUg2Z210NnJSYTZRMVRfbG9nNzdtRFIyYkM3YjRZV00?oc=5",
           "source": "Google News",
-          "published": "Mon, 31 Aug 2026 12:53:16 GMT"
+          "published": "Sat, 29 Aug 2026 12:00:12 GMT"
         }
       ]
     },
     {
-      "word": "Nepal",
-      "count": 2,
+      "word": "Space",
+      "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Nepal floods death toll tops 900 as number of missing nearly doubles to more than 4,200 - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVE5BVHJRclNCNmtWZUJlZHBKal93RWd3enc5NjhqNnktY1Z2bGJNa250QVBuRUsyYkNkMWVEb2RCVWFlSzRqM0dQYTNxbENkSnpZMHNTZ1lVWkdyV2JuZzZwRkMzNGhtTzNsbXJERXpudnlxdDMtRmNMNUk4dWtHUndsUlhqenBCWEhKbnlnc29TeEFvRE9WWUc1RFMteGRWUEJJNFlPMU1tNXht?oc=5",
+          "title": "If space data centers feel far-fetched, why not interstellar travel? - TechCrunch",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZERYT3cxRG5OTGdSOHIyc2V2YXlmZndFT2dfTkNXbnhOTzUwOXM1QW5nSkprUmE0RHpWTmViTHJTMXJkSExxTFhhQmJ5MVhTdWw4ZEh3TGtJaUozeE8xaFJGUS1ob1J4YWtrLW5WNDJIS04xRHZfcmFzakRLX2k1LWVYQ1dBR0hNU0EzcjBvMmtLenRvcG5WMmxxRjl6MHNSVVRR?oc=5",
           "source": "Google News",
-          "published": "Mon, 31 Aug 2026 20:19:00 GMT"
+          "published": "Tue, 01 Sep 2026 10:00:00 GMT"
         },
-        {
-          "title": "They were building infrastructure in Nepal. Their families in China want to know what happened to them - CNN",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdnozNjB0cDRmbGdnQ2N0N3hqVjNhT25BQ0lwaElSTzlZN09WMEhUbkVScFoxNGFjcTZQSjJ5RDdhbVJ5X0dUZ054WlFtSkNRTTZWelYtWVE0REtrRmxUN292anVOaWtvYXVoMnJEZkJKNldpNEhTYWpTdXVNSXdETEYxdDJ0U3RmSXFrQmd3?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 08:16:29 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Vance",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Vance unloads on El-Sayed after Usha swipe with brutal warning: 'Way out of your league' - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZXFvYzBNc3ZhM25STi1wR01CRFF4eVN3aVpQa3A5MWRDNFlDUEdtT29Ja0ExUTFtR0ZXa3RMc2xhQjA2ZEt5NXhUM285T2lvT3JEWmZPamZ3bnR2QUtVeERWdEQyR2gybzFsWlNQeDU5VzlyR09LTDNUSWppQkNYeXA2S29HYTFQLU9LenRvd1dGeHRHZjd4OHNTQXRXT2xjb25xZTdlMDJJRXfSAbABQVVfeXFMUFpEUXAwV0FIOEVJQ0d0OHlSSFlkYkVPNzJueHRDZWV0T0ZrM1l2OUdmSmxjXzhwVHExc09RWXd5TDg4cUU3aDZJS0U5and6Mk1RWTVxRUlGU2VLTUtvZDZ1VlNmSW1GUzBpdHNpbHJZcnhpanphNkJxV29SUVRCM2F4RTdsTk83cElkMk4wcGVFaDRaNDFMV25HY1VMOUV4bElDbVJMaUptVWtVRUxIWXI?oc=5",
-          "source": "Google News",
-          "published": "Mon, 31 Aug 2026 20:32:49 GMT"
-        },
-        {
-          "title": "Vance offers olive branch to pro-Israel Republicans in closed-door speech - Politico",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX0x6OUVQQmlvMmpPWkJ2SFRBa1pfdk8tNUdOU1ltMUpyejZnb1RhZFBhMGQyOUtjTGFFMm02R3ExRmI1TWJCd2FaRFpQRGJ1RU9XM05IQVVsSWVFQVJtVXpvQWFRRGkwc01Xb3cyLWRpX0hQQ09lNEZoSk5PV2ZvTThQRHhqQk13azg3b1RtNA?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 04:48:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "State",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Citing California as a problem state, Trump administration shuts down 110 trucking schools - Los Angeles Times",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSVFGMWdMVnRnT216UDN0VmxjaG1Qc2swOFRWR2lfRXpqNlVzdGRqM2g5RDRlZGJYX2l5Y2EyN3JiaUNHRFJZMkdDZmY1RFYwNjdLSlV5Y0tzVExLWUZTby03TWh3ajgzcTdKTVhPOGdDQndhcEZ1NlZrTFdXVUJKN0J0cG5qTG5OUnQ0R1UtcG96d1JQQXJ3emlGMGdHZU93T2hXWV9JWG5oVkF0LXp6MF9qZlJ0Ym9mNXdZZXVPY1ZRMEFtMnk5Y1ZKWHFXYkllX25J?oc=5",
-          "source": "Google News",
-          "published": "Mon, 31 Aug 2026 22:35:38 GMT"
-        },
-        {
-          "title": "Kalshi bans former congressman George Santos for life after State of the Union trades - NPR",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSlBES3JWekZGM2UtQ2ktaWF4UWp3a0o3Z2JmTTA3clJkUTU0Ymh6ak9xNXo2ZUJGM1B6SXRwSU1aOGMzNzljajZObTE4cFBZZ3FrdURjWG0zQzJQanFMUjljNXJEbnAzU3dJSmthamJaY0NQb1lDTndnR3pvVDVRa1l6T2dNZzFTdFY4eDNxRVpNdw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 31 Aug 2026 20:21:47 GMT"
-        }
-      ]
-    },
-    {
-      "word": "pro",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Vance offers olive branch to pro-Israel Republicans in closed-door speech - Politico",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX0x6OUVQQmlvMmpPWkJ2SFRBa1pfdk8tNUdOU1ltMUpyejZnb1RhZFBhMGQyOUtjTGFFMm02R3ExRmI1TWJCd2FaRFpQRGJ1RU9XM05IQVVsSWVFQVJtVXpvQWFRRGkwc01Xb3cyLWRpX0hQQ09lNEZoSk5PV2ZvTThQRHhqQk13azg3b1RtNA?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 04:48:00 GMT"
-        },
-        {
-          "title": "SEC ponders extreme steps if LSU uses former pro players, including boycott, expulsion, report says - WAFB",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVWIxZkNzT01fUlJxekJnSG9KcUh4cVh5akJvM2J5OUZjeVZVUzAwNl9ReWVJZEtBRnlYdnU0eG4yVlcxUHZHaGREVnE0b0lVdjBlUnpORGRrbWtXampNeTI0Y0ZHcDZzVkc2ZlBlTWtDc2VIOUxNNlhSWVFieVNCS0VTXzV4NV9PN29GMmM5LThWOGFTTnh4b2lQZGp5V2Z4dFlzS3JxS1UydjYwNTVySFdRalk4bllOeXpYOFZhbjd6WmdyclhjYw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 31 Aug 2026 20:37:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Iran",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Live Updates: Trump vows to hit Iran hard after U.S., Tehran exchange strikes for the first time in weeks - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX3VPTi0xVlBhMThyb19kVkpfWmJ5Q054dGxfeEFUMFFlN1NGZ2pwYU82ei03S28yNHJSc1lsampHMnFJYXpQbjJSR1hGNWpNT3pUTC05V1dhT1BfTTVQVkd1eF9BSU45bU1udS01QXRhdHdaY0pfUS1NZ0tac2JoeTlvSW9nVkNHdjRrbUZpN1o?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 07:22:00 GMT"
-        },
-        {
-          "title": "Asian Stocks to Fall as Iran Flare-Up Boosts Oil: Markets Wrap - Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR3lDeFpHVlptcnBMcThtNzhEVVM2d1AyMkI5bVQwSUlCQjhWd0VhbXdqaTF2NzJUc2FXSHpJX20zTVBmRlkxMG5BWXptMTQzejdQU3hqQUZHcno1bldsdE5iUG5BMFY4cUNBMDBfaGE4RG9jSElQSndGNGNBMlNMdXcyTFJaVUFhS0trQnJncFRsMExRZGluZFVOVkgzUHlFYWptTkNjQTc2OGFXYWc1Yzl3?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 08:38:28 GMT"
-        }
-      ]
-    },
-    {
-      "word": "China",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "They were building infrastructure in Nepal. Their families in China want to know what happened to them - CNN",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdnozNjB0cDRmbGdnQ2N0N3hqVjNhT25BQ0lwaElSTzlZN09WMEhUbkVScFoxNGFjcTZQSjJ5RDdhbVJ5X0dUZ054WlFtSkNRTTZWelYtWVE0REtrRmxUN292anVOaWtvYXVoMnJEZkJKNldpNEhTYWpTdXVNSXdETEYxdDJ0U3RmSXFrQmd3?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 08:16:29 GMT"
-        },
-        {
-          "title": "China warns of 'consequences' over Taiwan presence at Pacific leaders meeting - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbk54R0FXekgzSkFrRUZRVjFKZUdDdmNfaDF6ZGRJMzlqdXd2NG5iTEYyS21MUkRWX3BWVWREVS04SjIzOVQ1Qm5aa0tNcHNQZno3M0JacjFoSEVmdkFyakN0RGlmZ3BYTFpaeGVFQ3JFVUtLY2RxSDRDWVlhQzFyNDVuM2FYQnVBeTU0OXo1UEllajdzZUZPWmxJdmxFMkc4UTFfMXBZTVNIZGNfZ25zOGV6VWJVRDhMZnhIQw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 00:53:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Russian",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Nonstop Russian Drones Make for Dangerous New Phase of War in Kyiv - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVG0tY2JEZTR3TFNBcFZtX1A4R0ppanFQcnNOaEFBb090VXF0R3gwRnkzSFBMeTYyT3IxaWdqNkJFeXRadDFqTERaQnBTMEVrMzJJeVZ5alN3aXBsYlhqMTlZcmlJTFpaSWZMRDdfTEJPUkFIY0FZTHkwWVBpaFEyZDdESFhseTN6MnRFX1Ataw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 31 Aug 2026 10:14:04 GMT"
-        },
-        {
-          "title": "Indian Prime Minister Modi asks Putin to end Ukraine war amid U.S. tariff threat on Russian oil - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN2xOMTZWRlBPVG9URC1jc01hN2Ytd2daYmJCS0lvYlJaOGs5U3Jwcm55ZXlBenpQcERvcUdLdERXTF95RmM2TThVXzNZSDZVWHdQdUp2UW1oMjVSRnlxZzRPenVmVmpsWnNmMFZIOV9IYUljSEVhcFJYOUZZaG5LOVlR0gGHAUFVX3lxTFBIT0hRTmZMMTQ2MnlLV2Y2UU1IYVRZZktxNl9PcVl2VURxWlRZVFQxN2s4RDRNT2JJa2F3VFJpQ08wZEhadTVzOFFPdHh5MDNwZUZQMC1mQ085X1hpZjJXSkxvVHFpM3NVWWF6blRQbkxBTTBaMGlkcVdZUEtqbXNVZFVSWnRUVQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 01:51:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Amid",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Indian Prime Minister Modi asks Putin to end Ukraine war amid U.S. tariff threat on Russian oil - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN2xOMTZWRlBPVG9URC1jc01hN2Ytd2daYmJCS0lvYlJaOGs5U3Jwcm55ZXlBenpQcERvcUdLdERXTF95RmM2TThVXzNZSDZVWHdQdUp2UW1oMjVSRnlxZzRPenVmVmpsWnNmMFZIOV9IYUljSEVhcFJYOUZZaG5LOVlR0gGHAUFVX3lxTFBIT0hRTmZMMTQ2MnlLV2Y2UU1IYVRZZktxNl9PcVl2VURxWlRZVFQxN2s4RDRNT2JJa2F3VFJpQ08wZEhadTVzOFFPdHh5MDNwZUZQMC1mQ085X1hpZjJXSkxvVHFpM3NVWWF6blRQbkxBTTBaMGlkcVdZUEtqbXNVZFVSWnRUVQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 01:51:00 GMT"
-        },
-        {
-          "title": "Amid backlash, museum cancels planned Met Gala exhibit on fashion designer John Galliano - NPR",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNWtYS0hmS0J3Y2wtQnFzTHZIRlJ5eWNOZkJ0dnZJWjNCUlhxdGhjN05nZ29jMkZOMU1uVzdSR1dQb0JtS1QzSlFnd0lWMThzYy1LZkhfOTI0UmctQUxIdFdEWllaVHFQekxqLUF0ZTVuNDRzTTh6Rkw4N2ZpaFh0QXRIaF9pZzVxaXc?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 05:43:37 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Fall",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Shein shares fall in long-awaited stock market debut - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4OXlfeUd1N19UMTBXX2FNTzFadlpmVnU0LWttZlI5SE1ucUJlVEl0YmJxR0VMYnlzcjhTNjFkbmtCV1Z2OHo5NHJZa0YzYi1LRHFxRDBYMW42QQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 04:15:15 GMT"
-        },
-        {
-          "title": "Asian Stocks to Fall as Iran Flare-Up Boosts Oil: Markets Wrap - Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR3lDeFpHVlptcnBMcThtNzhEVVM2d1AyMkI5bVQwSUlCQjhWd0VhbXdqaTF2NzJUc2FXSHpJX20zTVBmRlkxMG5BWXptMTQzejdQU3hqQUZHcno1bldsdE5iUG5BMFY4cUNBMDBfaGE4RG9jSElQSndGNGNBMlNMdXcyTFJaVUFhS0trQnJncFRsMExRZGluZFVOVkgzUHlFYWptTkNjQTc2OGFXYWc1Yzl3?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 08:38:28 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Former",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Kalshi bans former congressman George Santos for life after State of the Union trades - NPR",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSlBES3JWekZGM2UtQ2ktaWF4UWp3a0o3Z2JmTTA3clJkUTU0Ymh6ak9xNXo2ZUJGM1B6SXRwSU1aOGMzNzljajZObTE4cFBZZ3FrdURjWG0zQzJQanFMUjljNXJEbnAzU3dJSmthamJaY0NQb1lDTndnR3pvVDVRa1l6T2dNZzFTdFY4eDNxRVpNdw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 31 Aug 2026 20:21:47 GMT"
-        },
-        {
-          "title": "SEC ponders extreme steps if LSU uses former pro players, including boycott, expulsion, report says - WAFB",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVWIxZkNzT01fUlJxekJnSG9KcUh4cVh5akJvM2J5OUZjeVZVUzAwNl9ReWVJZEtBRnlYdnU0eG4yVlcxUHZHaGREVnE0b0lVdjBlUnpORGRrbWtXampNeTI0Y0ZHcDZzVkc2ZlBlTWtDc2VIOUxNNlhSWVFieVNCS0VTXzV4NV9PN29GMmM5LThWOGFTTnh4b2lQZGp5V2Z4dFlzS3JxS1UydjYwNTVySFdRalk4bllOeXpYOFZhbjd6WmdyclhjYw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 31 Aug 2026 20:37:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Nasa",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
         {
           "title": "'No guts, no glory': How I captured NASA's Roman Space Telescope cross the sun on a picture-perfect SpaceX Falcon Heavy launch - Space",
           "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPWHY0VVpFOUFJbTNsNzRKVVpPbWVjbTZyT0VyNXROamE0cC03U0RnM0x2dEpMQzdYQ3l2cHc4LVl6eTFiZk5Ma1hld1NXUW5lVUpfMDMxdzNHNXM1YW9FR3diRGN0SDFhLVlEQXBfcXkzOUNBUXhpVUREODVDTGhyaTZxNzdtR1lzSE45T05mMW9ueXM5WUFFX00wMHM4SkdfNTNCTENTMmFyaEQ3MWVvazN2b2xTam05RXhnSHp5ejVPV2EtenNqalJPazN2MWR4TUl2LXUyWFBhRFZseWx2V2UzY3Y3NXc3RW12S0dYOVZpTENFanFNNzhUZTJWTE1JUThRd3hxMWI1bHJ1NEE?oc=5",
@@ -313,7 +91,235 @@
       ]
     },
     {
-      "word": "Space",
+      "word": "Service",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Postal Service plans may keep voters from getting ballots, whistleblower says - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOGxKMC1Qbl96RS0tQ2FLekFhWUpOMEFGVnJOeEVNbG1kYVlmcDFNS2VzcmhuamVJSXhPMHdUNnIxLUZ6bzhNblpNZnVaaDRNZjZTVWFnTEJiWXVVN2dnZ3ZyMFltODNFVzFhNWsyUkJuaEpsUFNkLWhLWXFVUkh2SzVHR0kyNFR2QndOSVk1ZTl2YU56b0NGWmdiaVlTS3FQdml4dHUwSFlTdE9v?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 13:02:29 GMT"
+        },
+        {
+          "title": "Microsoft Outlook Hit by Exchange Online Service Outage - CNET",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQUl2YW1tRkRvY3hKNW5SUDNONERVYmVuQXUwR2JSS0dSVk1IcGdnU19zU1RmeHhqUUJ5ODJacE1RLTEzSEpUSFRmaV9oUFZ3WUtMSFZZTnJTSDljVF9Uanc0bVd0QnAzRU1ockVGY2RoX1YwUDIyc19kZE1HaHR2NldTc0U3LUk?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 12:04:48 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Secret",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "The secret history of Trump's Venezuelan oil baron - Axios",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Rc1dUd2lOLTloRkZLT2dFdmNxVEZTRlpNX09mWTMta1N6ZU8tM3ZveHFPQXJuei1ralE3ZlVhQUtMdW5YNnVGWGJ1RkpReVVmZUtIYlBGa3ZUc0lfNUNPeWJBZTljbDh4Umc?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 09:00:32 GMT"
+        },
+        {
+          "title": "How Amazon’s ‘Secret’ Ad Pricing System Worked, According to the FTC - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVnk2YUNQZkkzTTZtbEdZNWktQWhmdUNYcmhUWDNkWTk1bkQ0N21GR2hYRjYweWN6ejQwOW9HYzV4dUR5MmFpWFplYWpkLWdfd2FXQS1wOEd5TGVHXzlTWkZBRzV1bnFpajE3QXRndFBSR2pwaXY3b0VLb2xjOGlIRFFqdW5ZZFhGc3p1cWFXbHY1RXNrQ280ZTBrT2kzbWwtXzlvd3MzVW1ad3Ft?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 02:25:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "oil",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "The secret history of Trump's Venezuelan oil baron - Axios",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Rc1dUd2lOLTloRkZLT2dFdmNxVEZTRlpNX09mWTMta1N6ZU8tM3ZveHFPQXJuei1ralE3ZlVhQUtMdW5YNnVGWGJ1RkpReVVmZUtIYlBGa3ZUc0lfNUNPeWJBZTljbDh4Umc?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 09:00:32 GMT"
+        },
+        {
+          "title": "Two tankers carrying Saudi oil attacked in Strait of Hormuz - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbTdiazZLdjJmZFUzaDZwUHpSV3R0b2lubVJLcXdtNmk1WEZjbU96MjJveEl4dl9FWjl3V3kwTVQtY0N5WnhINS1PSXoyNUNtYXpub0EwWVBCZklqaTJPTXN0QmxaTWJ3b284NWx4ckg4S3NONkl4WEVnSzdaaV94cUJ0YXI3UlZHV3RwZ1B2am8xMHc2VnV1TTBjcExjSEg1R2d0RWhuUkY?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 12:31:35 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Puts",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Nepal Puts Cost of Disaster at $5 Billion, Blaming Climate Change - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY1ViY0U1bUpneHlxdXhWSFgzZTFEOE0yYTYwc19DMURIN19DSkdpRFFlWE9wUHdSdV9zS2JiUmFxMmZ3ODBhTGc4Nlo5N3BOUEl5VGU5dk94OWVMTmlFekZxRUJuaEx5YzBJNVFkWEFJTE9jU2VlUGk2bllpMkt4Qg?oc=5",
+          "source": "Google News",
+          "published": "Mon, 31 Aug 2026 20:48:16 GMT"
+        },
+        {
+          "title": "Global Bond Sell-Off Puts Investors on Edge - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GZlF0TVVUdVRWVDFlU1d3N29jRktkWFludDB3ZS1NM0ZuTVpFVl9laWg0blBLcjBaOXh0Rk5IdWsxckQ5Q295OVJYZWlhNHVkUG54WXFxNGkyMDJsOUZPUWVhMG9ZbXA5SnhHQmZKWWhNZmc?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 14:01:44 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Guilty",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Not just guilty or not - The jury's options in Lindsay Clancy's murder trial - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53dlNGUGJ6NGNLWklCLVI0SHgtcnpDeXhyNkFpVDBDRkRUMG9SMjJLbGRWcjE3WWE3cldKSk9vNjZVV2tpYVktUEk2ZHBhSndhWVdtT0puMjlDQQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 10:46:25 GMT"
+        },
+        {
+          "title": "Keffe D found guilty in Tupac Shakur murder trial nearly 30 years later - USA Today",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQanpjNGs3ZkFQdGpfUk5RaTRQYVdjbndSU05BeFNIRThfLXZsdDhMTnBuRm1tQWstX0hGY3EzNTh0N1dmZkRmUUt5VlVsNmJRaC1QVF84NnNPM0MtT2Z2UDlVOURYalpQMkl6ZmdtRzlwc3BKOHNETDFlMmdoTkhqLTE1SUI5NGVGNU9FaUl1Wk0xMjFrOWJrWDEtVUVmaUdrQmp6ME9ZOFR2NWhoaWlZMlJuR1RiSHhnbWdVbzBkTUdOTEVlUklERw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 11:31:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Federal",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "\"Long overdue\" Trucking Association of New York weighs in on federal CDL crackdown - WRGB",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb1kwMlBoS2lwWl9aaWhYU0llZ1ZpYnN0NmJGUjBtb3ZlYXNzTHpDMnNRTS1zeTNtelMwQWhHWFpvcjZwLTBLYXp5bzZ6M1hONjF1RlNnNjRvRW1RZ28wN05yWU9lQVB3LV9LV1NnWEpiLVhxVW01ZXlYekZ6d2YxSjJ3aXZjM3hkYW1HZ0dneDZNLW5lRk5QeFRaa0hoMTdxUjN6bVl3b1JnNm4yQzFyNlVLQUE?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 06:44:59 GMT"
+        },
+        {
+          "title": "Trump calls for federal tax incentives to benefit TV and movie industry - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdXFlc2VwNzhHRkNvdk0yMl92RW1BbVNlMmZKQU5WRWJTSTZ1Nm41ZXVIMmZYT0lRS3RTVS1RaGpFN1lNMzJ2LVdHQnhZZl9QQTZQRmplLVZKNWxScU1rQXptNFZDaGtQQ2U5N3Zfd2VlZEFBaVkwSXJBQXpQRlo2MU5wamtvR1lyTzJ2dFdZQjRaSFFjbjFaUkNYZlZVSGVmcTJ1N0pid0VLcHZYNk9YOTlPeDNtLWpS?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 02:03:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Republicans",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Vance offers olive branch to pro-Israel Republicans in closed-door speech - Politico",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX0x6OUVQQmlvMmpPWkJ2SFRBa1pfdk8tNUdOU1ltMUpyejZnb1RhZFBhMGQyOUtjTGFFMm02R3ExRmI1TWJCd2FaRFpQRGJ1RU9XM05IQVVsSWVFQVJtVXpvQWFRRGkwc01Xb3cyLWRpX0hQQ09lNEZoSk5PV2ZvTThQRHhqQk13azg3b1RtNA?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 04:48:00 GMT"
+        },
+        {
+          "title": "‘Our threat level should be up’: Republicans worry Trump’s super PAC is taking the midterms easy - Politico",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcWxpOWtZenJ5a1R2b0plWWlRWnlwTnZYN2Z3eVU2UWxsQXBUWFN4SGxFb0tRQ2ktMDRzVzBfWlRFckF5OW1FTTFqZWZfOGh6a2FIcDdNYjJ2a0cxUGQ1eEFZaXhIWmhCd1Z0eHFtTHhNM0oxc1ZCU2ZkM245WEVEV202Sjk5STRIMEM3Yw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 09:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Near",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Improvised explosive devices found near German power plant, police say - Euronews.com",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX1R2aW5QdmR6MkE0YVpyVXh5THN0Vm5qUWJxa3NjUXl2RHppdFNuOXo4RU9NM2RXUloxeFhLS29nUXhHYUhaUmI4NWdBMks1c2VpNlN5UWZIc1BsMDlvZ014TDhVbURtYjlrNmxxeVZBTl9ERnB6LVhlRkJmZGxrR05Fa3RXbnctdmlPQURzekw4S3VwM2ZmR2RNWlpFVWJpUXR1d01GOGsxaFpsMU53QllIODRoSlBMalpJ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 12:05:57 GMT"
+        },
+        {
+          "title": "A near-total lunar eclipse will be visible in the U.S. Thursday. Here’s when to watch. - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeU1iV2NDaGRTb0dIOGg2ZXNpdm1QVnNEeWNpNXczUkRXTl9GUTN3amNJTlluNk10aXJhOXhjeTk4SWlEb1FMdFR5Snk1aTBpajZJa0VJc1ViNVR5SGJ4bl93akZBcWZiWm9jRE93cl94eDRRcjhVS3FSYTdIRlVCU3VvRDJjRUZsWHAxbTU0Y0ZOVnpLbjV6dHVWLXJSWkpKYmVlOWxqV0xVREZwY1E?oc=5",
+          "source": "Google News",
+          "published": "Thu, 27 Aug 2026 13:15:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Power",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Improvised explosive devices found near German power plant, police say - Euronews.com",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX1R2aW5QdmR6MkE0YVpyVXh5THN0Vm5qUWJxa3NjUXl2RHppdFNuOXo4RU9NM2RXUloxeFhLS29nUXhHYUhaUmI4NWdBMks1c2VpNlN5UWZIc1BsMDlvZ014TDhVbURtYjlrNmxxeVZBTl9ERnB6LVhlRkJmZGxrR05Fa3RXbnctdmlPQURzekw4S3VwM2ZmR2RNWlpFVWJpUXR1d01GOGsxaFpsMU53QllIODRoSlBMalpJ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 12:05:57 GMT"
+        },
+        {
+          "title": "China and the U.S. Offer Competing Showcases of Global Power - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS183eTBub0ZGUWRoUUktNEphcFBxaXZQNlp4MWNBR01JV1ZWQUdVTWo1TXFfMHdReUw2amFFazZpaVdMRG45TDNoRjF2T29KakVXVDR5Y2l1Sk13R2NlcUdnLUVIRnJVeWpTaXNZRGw5M0dDLXpYS0UtSW1lY3pEZU0tRkxFUlk5VVE?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 08:59:42 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Global",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "China and the U.S. Offer Competing Showcases of Global Power - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS183eTBub0ZGUWRoUUktNEphcFBxaXZQNlp4MWNBR01JV1ZWQUdVTWo1TXFfMHdReUw2amFFazZpaVdMRG45TDNoRjF2T29KakVXVDR5Y2l1Sk13R2NlcUdnLUVIRnJVeWpTaXNZRGw5M0dDLXpYS0UtSW1lY3pEZU0tRkxFUlk5VVE?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 08:59:42 GMT"
+        },
+        {
+          "title": "Global Bond Sell-Off Puts Investors on Edge - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GZlF0TVVUdVRWVDFlU1d3N29jRktkWFludDB3ZS1NM0ZuTVpFVl9laWg0blBLcjBaOXh0Rk5IdWsxckQ5Q295OVJYZWlhNHVkUG54WXFxNGkyMDJsOUZPUWVhMG9ZbXA5SnhHQmZKWWhNZmc?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 14:01:44 GMT"
+        }
+      ]
+    },
+    {
+      "word": "John",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "John Ternus is now the CEO of Apple - The Verge",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9saEFQWWdCcnJPYzhlLTAybEtuUG11bXhrXzBxMkE2SVdBYkpwYnhNSjRfbVlLXzdJVWl5cmRueXppV01jY25FOFd2aVdEYmVtRFlQdF80TlJ4ZkJwUTlFckFlZEpHTXIyOVE?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 11:06:12 GMT"
+        },
+        {
+          "title": "John McEnroe takes subtle dig at Mariano Navone after stunning Novak Djokovic upset: ‘Court 21’ - nypost.com",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPemlmb19pQ2Y4cjJhbGRrbHBLSmZNYUhnbWJ0YlhPY1k5Y3UxOHVUaVpmVnZaVG1oUkZUUFlFZ2lMRUppdDNXeTNOMjNJZnl1RmJrbFBBLXR6dldTeVZjUWJPR1Jfa3pySDRCTG41aDlBZ2VCaEw0X2Jxem94cllDRm03UFBqaE5TSmVMX3Jjelp6SWxHWDRkN0V5cXA5SXdwajNSTzVjaEdDeXZrVWRzbDV6eTdla1F2QU4zTlJB?oc=5",
+          "source": "Google News",
+          "published": "Mon, 31 Aug 2026 16:20:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Hit",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Microsoft Outlook Hit by Exchange Online Service Outage - CNET",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQUl2YW1tRkRvY3hKNW5SUDNONERVYmVuQXUwR2JSS0dSVk1IcGdnU19zU1RmeHhqUUJ5ODJacE1RLTEzSEpUSFRmaV9oUFZ3WUtMSFZZTnJTSDljVF9Uanc0bVd0QnAzRU1ockVGY2RoX1YwUDIyc19kZE1HaHR2NldTc0U3LUk?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 12:04:48 GMT"
+        },
+        {
+          "title": "‘Obsession’ EP Sues Over Allegedly Being Scammed Out Of Promised Profits From High-Grossing Horror Hit - Deadline",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUkMyN21tREVUMGc0Q180SmlQWmJsS3lZZkpMdWQ0NV9hUmR6ajJ5QVZnVDJCQmcxNi1oWUhwSnI1ZWtndENtYmkxbldRcC1HOHV3aW1ldW1NenNsUkh1c1ctLXFaNjBxTHlwV2VCZVA3bm42S1hiVDBqOEFHM1Azaw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 03:23:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Nasa",
       "count": 2,
       "category": "NOUN",
       "articles": [
@@ -351,138 +357,223 @@
       ]
     },
     {
-      "word": "Measles",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "The CDC hasn’t added 2 deaths to its measles database. Here’s why. - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaUVZekc4UERTUzVPWHB1ZTg4Xy01cmVGLUd2cnBPLUs1RmRfNTMycTQzakNjNk9WWmxncl9zRHZvZlo1RGhpc044WGViVUNjZDNzRng1Zi1lSlVYX2EwU3FDSGJsdDhrX2FBZms4WTNvTjdjTEF0aVB2cU9JcTk0ZmlFdnlEbVlVM2dWLS1JTWhRNFBjS3AwaHZYcUkzU01tbFlUZ1RLeG54Ym9GaVFERHNTMA?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 06:57:52 GMT"
-        },
-        {
-          "title": "Hendersonville gas station, Asheville hotel identified as measles exposure sites - WLOS",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdVlvMXlqekxjUXpSZUV1ZlMtMUZxQzUzSUVHandmR2xVNmcyaTFEeVBjMWlxa20wY1pnc1JUaWZHOHZjQkF1Y1NvY3ZobzJUSTFZVnE4RXZ6blV5a05iMTl4WER3VDFlZ1BCb2phU0ZzeVFqWmo4UzRydVBiTUtoeGRWc05LNzcxLVA0ME9pQTQtWVUxTFBSOV9lOW9NV0dRcTlyTjRyOGRpUmlISDJ4Q3ZQZzRVZHU3OEw4UE1sVGVvTG5r?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 02:40:22 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Army",
+      "word": "Postal",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Army Secretary Dan Driscoll resigns from post - Axios",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CUkNVVDQ2MjJmU0tZX2pXamJYQVUxdl9oRFhabzZOVjJMOVNzTDFWbTIwRU81a3NlRmU0ellVMmNoOVN2RVVJbkx1VlN2dVRDY1dseEVkR1JDalR6YTY1ZkVaWU1VN1VxbnRhXzNzOFlETnZrNHl4dmR3OGRxcFk?oc=5",
+          "title": "Postal Service plans may keep voters from getting ballots, whistleblower says - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOGxKMC1Qbl96RS0tQ2FLekFhWUpOMEFGVnJOeEVNbG1kYVlmcDFNS2VzcmhuamVJSXhPMHdUNnIxLUZ6bzhNblpNZnVaaDRNZjZTVWFnTEJiWXVVN2dnZ3ZyMFltODNFVzFhNWsyUkJuaEpsUFNkLWhLWXFVUkh2SzVHR0kyNFR2QndOSVk1ZTl2YU56b0NGWmdiaVlTS3FQdml4dHUwSFlTdE9v?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 06:47:06 GMT"
+          "published": "Tue, 01 Sep 2026 13:02:29 GMT"
         }
       ]
     },
     {
-      "word": "Secretary",
+      "word": "Plans",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Army Secretary Dan Driscoll resigns from post - Axios",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CUkNVVDQ2MjJmU0tZX2pXamJYQVUxdl9oRFhabzZOVjJMOVNzTDFWbTIwRU81a3NlRmU0ellVMmNoOVN2RVVJbkx1VlN2dVRDY1dseEVkR1JDalR6YTY1ZkVaWU1VN1VxbnRhXzNzOFlETnZrNHl4dmR3OGRxcFk?oc=5",
+          "title": "Postal Service plans may keep voters from getting ballots, whistleblower says - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOGxKMC1Qbl96RS0tQ2FLekFhWUpOMEFGVnJOeEVNbG1kYVlmcDFNS2VzcmhuamVJSXhPMHdUNnIxLUZ6bzhNblpNZnVaaDRNZjZTVWFnTEJiWXVVN2dnZ3ZyMFltODNFVzFhNWsyUkJuaEpsUFNkLWhLWXFVUkh2SzVHR0kyNFR2QndOSVk1ZTl2YU56b0NGWmdiaVlTS3FQdml4dHUwSFlTdE9v?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 06:47:06 GMT"
+          "published": "Tue, 01 Sep 2026 13:02:29 GMT"
         }
       ]
     },
     {
-      "word": "Dan",
+      "word": "may",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Army Secretary Dan Driscoll resigns from post - Axios",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CUkNVVDQ2MjJmU0tZX2pXamJYQVUxdl9oRFhabzZOVjJMOVNzTDFWbTIwRU81a3NlRmU0ellVMmNoOVN2RVVJbkx1VlN2dVRDY1dseEVkR1JDalR6YTY1ZkVaWU1VN1VxbnRhXzNzOFlETnZrNHl4dmR3OGRxcFk?oc=5",
+          "title": "Postal Service plans may keep voters from getting ballots, whistleblower says - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOGxKMC1Qbl96RS0tQ2FLekFhWUpOMEFGVnJOeEVNbG1kYVlmcDFNS2VzcmhuamVJSXhPMHdUNnIxLUZ6bzhNblpNZnVaaDRNZjZTVWFnTEJiWXVVN2dnZ3ZyMFltODNFVzFhNWsyUkJuaEpsUFNkLWhLWXFVUkh2SzVHR0kyNFR2QndOSVk1ZTl2YU56b0NGWmdiaVlTS3FQdml4dHUwSFlTdE9v?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 06:47:06 GMT"
+          "published": "Tue, 01 Sep 2026 13:02:29 GMT"
         }
       ]
     },
     {
-      "word": "Driscoll",
+      "word": "Keep",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Army Secretary Dan Driscoll resigns from post - Axios",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CUkNVVDQ2MjJmU0tZX2pXamJYQVUxdl9oRFhabzZOVjJMOVNzTDFWbTIwRU81a3NlRmU0ellVMmNoOVN2RVVJbkx1VlN2dVRDY1dseEVkR1JDalR6YTY1ZkVaWU1VN1VxbnRhXzNzOFlETnZrNHl4dmR3OGRxcFk?oc=5",
+          "title": "Postal Service plans may keep voters from getting ballots, whistleblower says - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOGxKMC1Qbl96RS0tQ2FLekFhWUpOMEFGVnJOeEVNbG1kYVlmcDFNS2VzcmhuamVJSXhPMHdUNnIxLUZ6bzhNblpNZnVaaDRNZjZTVWFnTEJiWXVVN2dnZ3ZyMFltODNFVzFhNWsyUkJuaEpsUFNkLWhLWXFVUkh2SzVHR0kyNFR2QndOSVk1ZTl2YU56b0NGWmdiaVlTS3FQdml4dHUwSFlTdE9v?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 06:47:06 GMT"
+          "published": "Tue, 01 Sep 2026 13:02:29 GMT"
         }
       ]
     },
     {
-      "word": "Resigns",
+      "word": "Voters",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Army Secretary Dan Driscoll resigns from post - Axios",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CUkNVVDQ2MjJmU0tZX2pXamJYQVUxdl9oRFhabzZOVjJMOVNzTDFWbTIwRU81a3NlRmU0ellVMmNoOVN2RVVJbkx1VlN2dVRDY1dseEVkR1JDalR6YTY1ZkVaWU1VN1VxbnRhXzNzOFlETnZrNHl4dmR3OGRxcFk?oc=5",
+          "title": "Postal Service plans may keep voters from getting ballots, whistleblower says - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOGxKMC1Qbl96RS0tQ2FLekFhWUpOMEFGVnJOeEVNbG1kYVlmcDFNS2VzcmhuamVJSXhPMHdUNnIxLUZ6bzhNblpNZnVaaDRNZjZTVWFnTEJiWXVVN2dnZ3ZyMFltODNFVzFhNWsyUkJuaEpsUFNkLWhLWXFVUkh2SzVHR0kyNFR2QndOSVk1ZTl2YU56b0NGWmdiaVlTS3FQdml4dHUwSFlTdE9v?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 06:47:06 GMT"
+          "published": "Tue, 01 Sep 2026 13:02:29 GMT"
         }
       ]
     },
     {
-      "word": "Post",
+      "word": "Getting",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Army Secretary Dan Driscoll resigns from post - Axios",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CUkNVVDQ2MjJmU0tZX2pXamJYQVUxdl9oRFhabzZOVjJMOVNzTDFWbTIwRU81a3NlRmU0ellVMmNoOVN2RVVJbkx1VlN2dVRDY1dseEVkR1JDalR6YTY1ZkVaWU1VN1VxbnRhXzNzOFlETnZrNHl4dmR3OGRxcFk?oc=5",
+          "title": "Postal Service plans may keep voters from getting ballots, whistleblower says - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOGxKMC1Qbl96RS0tQ2FLekFhWUpOMEFGVnJOeEVNbG1kYVlmcDFNS2VzcmhuamVJSXhPMHdUNnIxLUZ6bzhNblpNZnVaaDRNZjZTVWFnTEJiWXVVN2dnZ3ZyMFltODNFVzFhNWsyUkJuaEpsUFNkLWhLWXFVUkh2SzVHR0kyNFR2QndOSVk1ZTl2YU56b0NGWmdiaVlTS3FQdml4dHUwSFlTdE9v?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 06:47:06 GMT"
+          "published": "Tue, 01 Sep 2026 13:02:29 GMT"
         }
       ]
     },
     {
-      "word": "Floods",
+      "word": "Ballots",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Nepal floods death toll tops 900 as number of missing nearly doubles to more than 4,200 - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVE5BVHJRclNCNmtWZUJlZHBKal93RWd3enc5NjhqNnktY1Z2bGJNa250QVBuRUsyYkNkMWVEb2RCVWFlSzRqM0dQYTNxbENkSnpZMHNTZ1lVWkdyV2JuZzZwRkMzNGhtTzNsbXJERXpudnlxdDMtRmNMNUk4dWtHUndsUlhqenBCWEhKbnlnc29TeEFvRE9WWUc1RFMteGRWUEJJNFlPMU1tNXht?oc=5",
+          "title": "Postal Service plans may keep voters from getting ballots, whistleblower says - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOGxKMC1Qbl96RS0tQ2FLekFhWUpOMEFGVnJOeEVNbG1kYVlmcDFNS2VzcmhuamVJSXhPMHdUNnIxLUZ6bzhNblpNZnVaaDRNZjZTVWFnTEJiWXVVN2dnZ3ZyMFltODNFVzFhNWsyUkJuaEpsUFNkLWhLWXFVUkh2SzVHR0kyNFR2QndOSVk1ZTl2YU56b0NGWmdiaVlTS3FQdml4dHUwSFlTdE9v?oc=5",
           "source": "Google News",
-          "published": "Mon, 31 Aug 2026 20:19:00 GMT"
+          "published": "Tue, 01 Sep 2026 13:02:29 GMT"
         }
       ]
     },
     {
-      "word": "Tops",
+      "word": "Whistleblower",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Nepal floods death toll tops 900 as number of missing nearly doubles to more than 4,200 - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVE5BVHJRclNCNmtWZUJlZHBKal93RWd3enc5NjhqNnktY1Z2bGJNa250QVBuRUsyYkNkMWVEb2RCVWFlSzRqM0dQYTNxbENkSnpZMHNTZ1lVWkdyV2JuZzZwRkMzNGhtTzNsbXJERXpudnlxdDMtRmNMNUk4dWtHUndsUlhqenBCWEhKbnlnc29TeEFvRE9WWUc1RFMteGRWUEJJNFlPMU1tNXht?oc=5",
+          "title": "Postal Service plans may keep voters from getting ballots, whistleblower says - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOGxKMC1Qbl96RS0tQ2FLekFhWUpOMEFGVnJOeEVNbG1kYVlmcDFNS2VzcmhuamVJSXhPMHdUNnIxLUZ6bzhNblpNZnVaaDRNZjZTVWFnTEJiWXVVN2dnZ3ZyMFltODNFVzFhNWsyUkJuaEpsUFNkLWhLWXFVUkh2SzVHR0kyNFR2QndOSVk1ZTl2YU56b0NGWmdiaVlTS3FQdml4dHUwSFlTdE9v?oc=5",
           "source": "Google News",
-          "published": "Mon, 31 Aug 2026 20:19:00 GMT"
+          "published": "Tue, 01 Sep 2026 13:02:29 GMT"
         }
       ]
     },
     {
-      "word": "Number",
+      "word": "History",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Nepal floods death toll tops 900 as number of missing nearly doubles to more than 4,200 - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVE5BVHJRclNCNmtWZUJlZHBKal93RWd3enc5NjhqNnktY1Z2bGJNa250QVBuRUsyYkNkMWVEb2RCVWFlSzRqM0dQYTNxbENkSnpZMHNTZ1lVWkdyV2JuZzZwRkMzNGhtTzNsbXJERXpudnlxdDMtRmNMNUk4dWtHUndsUlhqenBCWEhKbnlnc29TeEFvRE9WWUc1RFMteGRWUEJJNFlPMU1tNXht?oc=5",
+          "title": "The secret history of Trump's Venezuelan oil baron - Axios",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Rc1dUd2lOLTloRkZLT2dFdmNxVEZTRlpNX09mWTMta1N6ZU8tM3ZveHFPQXJuei1ralE3ZlVhQUtMdW5YNnVGWGJ1RkpReVVmZUtIYlBGa3ZUc0lfNUNPeWJBZTljbDh4Umc?oc=5",
           "source": "Google News",
-          "published": "Mon, 31 Aug 2026 20:19:00 GMT"
+          "published": "Tue, 01 Sep 2026 09:00:32 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Venezuelan",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "The secret history of Trump's Venezuelan oil baron - Axios",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Rc1dUd2lOLTloRkZLT2dFdmNxVEZTRlpNX09mWTMta1N6ZU8tM3ZveHFPQXJuei1ralE3ZlVhQUtMdW5YNnVGWGJ1RkpReVVmZUtIYlBGa3ZUc0lfNUNPeWJBZTljbDh4Umc?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 09:00:32 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Baron",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "The secret history of Trump's Venezuelan oil baron - Axios",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Rc1dUd2lOLTloRkZLT2dFdmNxVEZTRlpNX09mWTMta1N6ZU8tM3ZveHFPQXJuei1ralE3ZlVhQUtMdW5YNnVGWGJ1RkpReVVmZUtIYlBGa3ZUc0lfNUNPeWJBZTljbDh4Umc?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 09:00:32 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Grand",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Grand Canyon flash flood kills 2, with others missing. What to know - azcentral.com",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUFRZWk9aajJNWEI4eEFya2R2SmhtTmJDRUJZY1g2dzQ0OXBJbjhTcUo2VlM0MmRURnNqODhPU1hfUjVNOUJvb0pfdVZKNURzVlJGZVRPQ1pOT1ZGLTBTRGp5U0d4VzZfRmd5RDZKVVZqUkxadW80Zkc5V2JQZGNtQzFWTGR5RW1ZSFphbHBqZGtIVjAxVHFZMVczRm1zX1VUYUxLZ3hobWxrNjdMdjZDOUxVNlNnWEND?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 03:10:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Canyon",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Grand Canyon flash flood kills 2, with others missing. What to know - azcentral.com",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUFRZWk9aajJNWEI4eEFya2R2SmhtTmJDRUJZY1g2dzQ0OXBJbjhTcUo2VlM0MmRURnNqODhPU1hfUjVNOUJvb0pfdVZKNURzVlJGZVRPQ1pOT1ZGLTBTRGp5U0d4VzZfRmd5RDZKVVZqUkxadW80Zkc5V2JQZGNtQzFWTGR5RW1ZSFphbHBqZGtIVjAxVHFZMVczRm1zX1VUYUxLZ3hobWxrNjdMdjZDOUxVNlNnWEND?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 03:10:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Flash",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Grand Canyon flash flood kills 2, with others missing. What to know - azcentral.com",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUFRZWk9aajJNWEI4eEFya2R2SmhtTmJDRUJZY1g2dzQ0OXBJbjhTcUo2VlM0MmRURnNqODhPU1hfUjVNOUJvb0pfdVZKNURzVlJGZVRPQ1pOT1ZGLTBTRGp5U0d4VzZfRmd5RDZKVVZqUkxadW80Zkc5V2JQZGNtQzFWTGR5RW1ZSFphbHBqZGtIVjAxVHFZMVczRm1zX1VUYUxLZ3hobWxrNjdMdjZDOUxVNlNnWEND?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 03:10:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Flood",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Grand Canyon flash flood kills 2, with others missing. What to know - azcentral.com",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUFRZWk9aajJNWEI4eEFya2R2SmhtTmJDRUJZY1g2dzQ0OXBJbjhTcUo2VlM0MmRURnNqODhPU1hfUjVNOUJvb0pfdVZKNURzVlJGZVRPQ1pOT1ZGLTBTRGp5U0d4VzZfRmd5RDZKVVZqUkxadW80Zkc5V2JQZGNtQzFWTGR5RW1ZSFphbHBqZGtIVjAxVHFZMVczRm1zX1VUYUxLZ3hobWxrNjdMdjZDOUxVNlNnWEND?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 03:10:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Kills",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Grand Canyon flash flood kills 2, with others missing. What to know - azcentral.com",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUFRZWk9aajJNWEI4eEFya2R2SmhtTmJDRUJZY1g2dzQ0OXBJbjhTcUo2VlM0MmRURnNqODhPU1hfUjVNOUJvb0pfdVZKNURzVlJGZVRPQ1pOT1ZGLTBTRGp5U0d4VzZfRmd5RDZKVVZqUkxadW80Zkc5V2JQZGNtQzFWTGR5RW1ZSFphbHBqZGtIVjAxVHFZMVczRm1zX1VUYUxLZ3hobWxrNjdMdjZDOUxVNlNnWEND?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 03:10:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Others",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Grand Canyon flash flood kills 2, with others missing. What to know - azcentral.com",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUFRZWk9aajJNWEI4eEFya2R2SmhtTmJDRUJZY1g2dzQ0OXBJbjhTcUo2VlM0MmRURnNqODhPU1hfUjVNOUJvb0pfdVZKNURzVlJGZVRPQ1pOT1ZGLTBTRGp5U0d4VzZfRmd5RDZKVVZqUkxadW80Zkc5V2JQZGNtQzFWTGR5RW1ZSFphbHBqZGtIVjAxVHFZMVczRm1zX1VUYUxLZ3hobWxrNjdMdjZDOUxVNlNnWEND?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 03:10:00 GMT"
         }
       ]
     },
@@ -492,166 +583,75 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Nepal floods death toll tops 900 as number of missing nearly doubles to more than 4,200 - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVE5BVHJRclNCNmtWZUJlZHBKal93RWd3enc5NjhqNnktY1Z2bGJNa250QVBuRUsyYkNkMWVEb2RCVWFlSzRqM0dQYTNxbENkSnpZMHNTZ1lVWkdyV2JuZzZwRkMzNGhtTzNsbXJERXpudnlxdDMtRmNMNUk4dWtHUndsUlhqenBCWEhKbnlnc29TeEFvRE9WWUc1RFMteGRWUEJJNFlPMU1tNXht?oc=5",
+          "title": "Grand Canyon flash flood kills 2, with others missing. What to know - azcentral.com",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUFRZWk9aajJNWEI4eEFya2R2SmhtTmJDRUJZY1g2dzQ0OXBJbjhTcUo2VlM0MmRURnNqODhPU1hfUjVNOUJvb0pfdVZKNURzVlJGZVRPQ1pOT1ZGLTBTRGp5U0d4VzZfRmd5RDZKVVZqUkxadW80Zkc5V2JQZGNtQzFWTGR5RW1ZSFphbHBqZGtIVjAxVHFZMVczRm1zX1VUYUxLZ3hobWxrNjdMdjZDOUxVNlNnWEND?oc=5",
           "source": "Google News",
-          "published": "Mon, 31 Aug 2026 20:19:00 GMT"
+          "published": "Tue, 01 Sep 2026 03:10:00 GMT"
         }
       ]
     },
     {
-      "word": "Nearly",
+      "word": "Know",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Nepal floods death toll tops 900 as number of missing nearly doubles to more than 4,200 - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVE5BVHJRclNCNmtWZUJlZHBKal93RWd3enc5NjhqNnktY1Z2bGJNa250QVBuRUsyYkNkMWVEb2RCVWFlSzRqM0dQYTNxbENkSnpZMHNTZ1lVWkdyV2JuZzZwRkMzNGhtTzNsbXJERXpudnlxdDMtRmNMNUk4dWtHUndsUlhqenBCWEhKbnlnc29TeEFvRE9WWUc1RFMteGRWUEJJNFlPMU1tNXht?oc=5",
+          "title": "Grand Canyon flash flood kills 2, with others missing. What to know - azcentral.com",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUFRZWk9aajJNWEI4eEFya2R2SmhtTmJDRUJZY1g2dzQ0OXBJbjhTcUo2VlM0MmRURnNqODhPU1hfUjVNOUJvb0pfdVZKNURzVlJGZVRPQ1pOT1ZGLTBTRGp5U0d4VzZfRmd5RDZKVVZqUkxadW80Zkc5V2JQZGNtQzFWTGR5RW1ZSFphbHBqZGtIVjAxVHFZMVczRm1zX1VUYUxLZ3hobWxrNjdMdjZDOUxVNlNnWEND?oc=5",
           "source": "Google News",
-          "published": "Mon, 31 Aug 2026 20:19:00 GMT"
+          "published": "Tue, 01 Sep 2026 03:10:00 GMT"
         }
       ]
     },
     {
-      "word": "Doubles",
+      "word": "Nepal",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Nepal floods death toll tops 900 as number of missing nearly doubles to more than 4,200 - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVE5BVHJRclNCNmtWZUJlZHBKal93RWd3enc5NjhqNnktY1Z2bGJNa250QVBuRUsyYkNkMWVEb2RCVWFlSzRqM0dQYTNxbENkSnpZMHNTZ1lVWkdyV2JuZzZwRkMzNGhtTzNsbXJERXpudnlxdDMtRmNMNUk4dWtHUndsUlhqenBCWEhKbnlnc29TeEFvRE9WWUc1RFMteGRWUEJJNFlPMU1tNXht?oc=5",
+          "title": "Nepal Puts Cost of Disaster at $5 Billion, Blaming Climate Change - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY1ViY0U1bUpneHlxdXhWSFgzZTFEOE0yYTYwc19DMURIN19DSkdpRFFlWE9wUHdSdV9zS2JiUmFxMmZ3ODBhTGc4Nlo5N3BOUEl5VGU5dk94OWVMTmlFekZxRUJuaEx5YzBJNVFkWEFJTE9jU2VlUGk2bllpMkt4Qg?oc=5",
           "source": "Google News",
-          "published": "Mon, 31 Aug 2026 20:19:00 GMT"
+          "published": "Mon, 31 Aug 2026 20:48:16 GMT"
         }
       ]
     },
     {
-      "word": "Setting",
+      "word": "Cost",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Setting expectations for Tropical Storm Edouard and the greater Houston area - Space City Weather",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWXJjVkU4YU8yVk9HV0tDcG9zcmNKLUxuUUJkTU00a2RTOWJ3N2stdFFoUjZad3dROG9WNEhWYUxBVVpNUU90YnFaRVJPaER4ZnJkSEZCOHZlZTJpREpzYmZIWGgxdEpzTmRPaWdmWmFuMmdTUVhDVlZTVHE2ZkYtZGNrQ2E5dGZvSlZzekx0aGZmRFBBZnZVSzNuR3p2WlZJVlFyU25pdTRrZw?oc=5",
+          "title": "Nepal Puts Cost of Disaster at $5 Billion, Blaming Climate Change - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY1ViY0U1bUpneHlxdXhWSFgzZTFEOE0yYTYwc19DMURIN19DSkdpRFFlWE9wUHdSdV9zS2JiUmFxMmZ3ODBhTGc4Nlo5N3BOUEl5VGU5dk94OWVMTmlFekZxRUJuaEx5YzBJNVFkWEFJTE9jU2VlUGk2bllpMkt4Qg?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 03:01:06 GMT"
+          "published": "Mon, 31 Aug 2026 20:48:16 GMT"
         }
       ]
     },
     {
-      "word": "Expectations",
+      "word": "Disaster",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Setting expectations for Tropical Storm Edouard and the greater Houston area - Space City Weather",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWXJjVkU4YU8yVk9HV0tDcG9zcmNKLUxuUUJkTU00a2RTOWJ3N2stdFFoUjZad3dROG9WNEhWYUxBVVpNUU90YnFaRVJPaER4ZnJkSEZCOHZlZTJpREpzYmZIWGgxdEpzTmRPaWdmWmFuMmdTUVhDVlZTVHE2ZkYtZGNrQ2E5dGZvSlZzekx0aGZmRFBBZnZVSzNuR3p2WlZJVlFyU25pdTRrZw?oc=5",
+          "title": "Nepal Puts Cost of Disaster at $5 Billion, Blaming Climate Change - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY1ViY0U1bUpneHlxdXhWSFgzZTFEOE0yYTYwc19DMURIN19DSkdpRFFlWE9wUHdSdV9zS2JiUmFxMmZ3ODBhTGc4Nlo5N3BOUEl5VGU5dk94OWVMTmlFekZxRUJuaEx5YzBJNVFkWEFJTE9jU2VlUGk2bllpMkt4Qg?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 03:01:06 GMT"
+          "published": "Mon, 31 Aug 2026 20:48:16 GMT"
         }
       ]
     },
     {
-      "word": "Tropical",
+      "word": "Billion",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Setting expectations for Tropical Storm Edouard and the greater Houston area - Space City Weather",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWXJjVkU4YU8yVk9HV0tDcG9zcmNKLUxuUUJkTU00a2RTOWJ3N2stdFFoUjZad3dROG9WNEhWYUxBVVpNUU90YnFaRVJPaER4ZnJkSEZCOHZlZTJpREpzYmZIWGgxdEpzTmRPaWdmWmFuMmdTUVhDVlZTVHE2ZkYtZGNrQ2E5dGZvSlZzekx0aGZmRFBBZnZVSzNuR3p2WlZJVlFyU25pdTRrZw?oc=5",
+          "title": "Nepal Puts Cost of Disaster at $5 Billion, Blaming Climate Change - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY1ViY0U1bUpneHlxdXhWSFgzZTFEOE0yYTYwc19DMURIN19DSkdpRFFlWE9wUHdSdV9zS2JiUmFxMmZ3ODBhTGc4Nlo5N3BOUEl5VGU5dk94OWVMTmlFekZxRUJuaEx5YzBJNVFkWEFJTE9jU2VlUGk2bllpMkt4Qg?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 03:01:06 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Storm",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Setting expectations for Tropical Storm Edouard and the greater Houston area - Space City Weather",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWXJjVkU4YU8yVk9HV0tDcG9zcmNKLUxuUUJkTU00a2RTOWJ3N2stdFFoUjZad3dROG9WNEhWYUxBVVpNUU90YnFaRVJPaER4ZnJkSEZCOHZlZTJpREpzYmZIWGgxdEpzTmRPaWdmWmFuMmdTUVhDVlZTVHE2ZkYtZGNrQ2E5dGZvSlZzekx0aGZmRFBBZnZVSzNuR3p2WlZJVlFyU25pdTRrZw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 03:01:06 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Edouard",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Setting expectations for Tropical Storm Edouard and the greater Houston area - Space City Weather",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWXJjVkU4YU8yVk9HV0tDcG9zcmNKLUxuUUJkTU00a2RTOWJ3N2stdFFoUjZad3dROG9WNEhWYUxBVVpNUU90YnFaRVJPaER4ZnJkSEZCOHZlZTJpREpzYmZIWGgxdEpzTmRPaWdmWmFuMmdTUVhDVlZTVHE2ZkYtZGNrQ2E5dGZvSlZzekx0aGZmRFBBZnZVSzNuR3p2WlZJVlFyU25pdTRrZw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 03:01:06 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Greater",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Setting expectations for Tropical Storm Edouard and the greater Houston area - Space City Weather",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWXJjVkU4YU8yVk9HV0tDcG9zcmNKLUxuUUJkTU00a2RTOWJ3N2stdFFoUjZad3dROG9WNEhWYUxBVVpNUU90YnFaRVJPaER4ZnJkSEZCOHZlZTJpREpzYmZIWGgxdEpzTmRPaWdmWmFuMmdTUVhDVlZTVHE2ZkYtZGNrQ2E5dGZvSlZzekx0aGZmRFBBZnZVSzNuR3p2WlZJVlFyU25pdTRrZw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 03:01:06 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Houston",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Setting expectations for Tropical Storm Edouard and the greater Houston area - Space City Weather",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWXJjVkU4YU8yVk9HV0tDcG9zcmNKLUxuUUJkTU00a2RTOWJ3N2stdFFoUjZad3dROG9WNEhWYUxBVVpNUU90YnFaRVJPaER4ZnJkSEZCOHZlZTJpREpzYmZIWGgxdEpzTmRPaWdmWmFuMmdTUVhDVlZTVHE2ZkYtZGNrQ2E5dGZvSlZzekx0aGZmRFBBZnZVSzNuR3p2WlZJVlFyU25pdTRrZw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 03:01:06 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Area",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Setting expectations for Tropical Storm Edouard and the greater Houston area - Space City Weather",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWXJjVkU4YU8yVk9HV0tDcG9zcmNKLUxuUUJkTU00a2RTOWJ3N2stdFFoUjZad3dROG9WNEhWYUxBVVpNUU90YnFaRVJPaER4ZnJkSEZCOHZlZTJpREpzYmZIWGgxdEpzTmRPaWdmWmFuMmdTUVhDVlZTVHE2ZkYtZGNrQ2E5dGZvSlZzekx0aGZmRFBBZnZVSzNuR3p2WlZJVlFyU25pdTRrZw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 03:01:06 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Supreme",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Supreme Court clears way for White House ballroom construction to continue - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQVU3b25SV3d1WlRDSmUtWVVvYURpbk5DLVRoQTVoR1BlNUFzQ1BobkR3SjhvLS03WEVid3Y2OWExVkRQY2RwZ2lHSTlTSXJGUzdNMFRjWVlHajIyMnViVEt6S3pHbjI0cU5md3ZpcjlMWmlZS0IxWHNmVW0tME02T2ZiUkpIYkNmZDN6X0lINTlQbmlsRkg4ajhXajhTX2tXRVJ2ZUJIc3Jjdw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 06:17:46 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Court",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Supreme Court clears way for White House ballroom construction to continue - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQVU3b25SV3d1WlRDSmUtWVVvYURpbk5DLVRoQTVoR1BlNUFzQ1BobkR3SjhvLS03WEVid3Y2OWExVkRQY2RwZ2lHSTlTSXJGUzdNMFRjWVlHajIyMnViVEt6S3pHbjI0cU5md3ZpcjlMWmlZS0IxWHNmVW0tME02T2ZiUkpIYkNmZDN6X0lINTlQbmlsRkg4ajhXajhTX2tXRVJ2ZUJIc3Jjdw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 06:17:46 GMT"
+          "published": "Mon, 31 Aug 2026 20:48:16 GMT"
         }
       ]
     }
