@@ -1,252 +1,100 @@
 {
   "language": "en",
-  "last_updated": 1788298877.4301498,
+  "last_updated": 1788306978.0808294,
   "count": 40,
   "trends": [
     {
-      "word": "Live",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Live updates: Lindsay Clancy trial jury unable to reach unanimous decision - cnn.com",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84eGZnQXZCekxHcFozSE1aMC1PcV9GUTctYmlFNElkbXBUREVVbzR3dDRhUTJ5X1lhaUZPazJReWxyUG8wRnVzSTRuN2pJQXdBVUJnQmgzVnZLQmVOUHNmVFE5b2lkTDhBUjExZmVwallmUQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 17:54:00 GMT"
-        },
-        {
-          "title": "Dow falls more than 400 points, oil rises after new U.S. strikes against Iran: Live updates - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hazhOTnRDN2llRzM5b3FMY1d2X1pxaVZqN2dEa3h0Tm5lMHpES0FXS0xaRUlDbFMxYTJhQUxObjVyQTduNGdEU1l3ZHc3Q3BMaFFVTU5MNHpfdmtnd1JKLTNoODUzOHJaQktsQmJBQWVVOUNMVk1r0gF8QVVfeXFMTTJhei1Nc1M2SmNlZ1N2UG51VkJTcEVRcEhIdW5vZ1dGUVhXTzRGWi1lR256M1ZNYXJmT3phRzBqU0VSTTBZeWFMS1FlVW9sdUkzRnpLTUJFUS1NZ0ZUN2ttc1RpYTUwRi1XemZMbnZpT0Z5SlRMbklHYlNRZg?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 20:09:00 GMT"
-        },
-        {
-          "title": "Gemini Live's latest upgrade makes talking across languages easier - Android Authority",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM2Q3UHptcDhIclE3NzVoRW5mVTkyc2ZGR1BSZ0JoSFFSR3AyZ212MjZKUUJCSmQ3cFU2OGVydE1RVlpmcHNwYUt4aTI5RlNpVW9ONldzWjhtVGtEM2RQSEF4Q2FhWHgtUEN2ZEFLWENRWmhNRFlwX0lwN3VsWHdhazVPYzdqRTg?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 08:54:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Dark",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Dark matter breakthrough may have happened in South Dakota lab - NewsNation",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zT2Q2T0dSekE4WXFBNjQwMEtMZkVacWtlWDhzY0h3WmZNSzJUd2Y3YkJzT2xEenB2a0F4V1pNcGxEUUZueG45LVI2OUh4N3dFSGZDcHY5dWNxZlBCM3hyVEcxUTBZejdDdzVLeWh6OTJVd0w3UFJGQ2VMa1rSAYIBQVVfeXFMT2FvWGsxUVlzQ3czakVmQmJaQWFtRG1oTUpvdGRKb3pqQzI5WkgwRkhTQzlYQllGeTNqN3B1VkRoMHZnVTI2VVkybEs5U1BVVzFKT2tTT1o4UEQ5ZW5FbWZYMGpRVHU5SWtwZm01d3VHVmdablZaeENiTUFjS2dyN0c2dw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 15:27:10 GMT"
-        },
-        {
-          "title": "How NASA's new space telescope could help solve mysteries of dark energy and dark matter - PBS",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLWE1ZGtTRzlTRkhwQklWZzB0c2FSOGV0MEZrUHdoS1NIU3pWSmNtc2E0VVRPTUJrN2dEMU9fU2VxZVV6UUZxcW9FM19XSUkwUVNTd1JoVDU2RUJ5WnN4S2dHZ1B4S3ZCZzdzU3hvWkFYa0w1RFd0U2lsdWsycHJLdzJMUElGZDMwQi1NN1NwS1M5b0J0LWVyTUhtUkZsN255WjJzOEozVlByd3Y3Z2ZOeW1WeWQyS29Pa09Ma3Rn?oc=5",
-          "source": "Google News",
-          "published": "Mon, 31 Aug 2026 22:30:50 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Moon",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "A full moon and partial lunar eclipse are coming soon. Here’s what to know - cnn.com",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaktYNWxFQjA3Q1k1eURxelh5MXhodVFGdjhsQjJxN2VXZERUR282RUYtRFAzdEVxT2VFaUlvSjhTT3BIZkU3dFIyUDJtM3ItMEp5aGlwTnU5aEJ4VmJhNTNsSFpjVzJONW9hVXRTZjM4blRJTDlmVVhSRi1ZaUdNM3htcw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 27 Aug 2026 12:00:29 GMT"
-        },
-        {
-          "title": "September full moon 2026 — When, where and how to see the Harvest Moon - Space",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNE9XUHVjX3I0TEtBbjR2SS1HS2hlYlpaeTNIVF9xWXd3b21KUzhzNHVtd0lmekRmWXl5YkI1NmtWclQ3UTVkN25UZWlxTWY4bzJneW5idHI5QXV5aF81ZkYwZnJxeVNnN2lSbFJQYmJPR0UzbHQ1a245N0JIZHZJZjUwZ0U1WUh3N0Jyc1dKWWlhSE8tTzc5SE5yTjZVVEtjcUE?oc=5",
-          "source": "Google News",
-          "published": "Mon, 31 Aug 2026 13:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Launches",
+      "word": "Trump",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "U.S. Launches Airstrikes on Iran for Second Time in Three Days - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQkJhNDBNOW00TjJ1ZjdIQ3BmSHJpSEVEVTVKMkNaRksxaDByenc5V2pRZVd1WENGVFA3WVgwbXhfNHd6UWxxZTRzZnp2amJ0cHBZWEY5d2k1TkNabjEzbVM5RVQwQVU2TUUzQjA0OXdub2NmNG1iTHhMcUFFY3Q0VElYZ0hxZzg?oc=5",
+          "title": "U.S. has launched ‘large and powerful’ strikes on Iran, Trump says - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWxnU3Z6ai1MZ2Y0Zktlanl3Q2dKQ1FpQUthWDVfeTJ0NjFQWUZLYWlxcnAzUUlVY0tHQkpEY2RMMjhRWmZpZDZVM3pqeE5DTlZKY05BS2pWWWlyT2JUYkRpTEhlS3IyMmtZNHB2LVMtZnVyaEIyZEdWSGFfRHJwdnpSM3Joc1ZjZDRxMlN0clI0bVNVbnN2V3RKYUw?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 17:13:41 GMT"
+          "published": "Tue, 01 Sep 2026 22:42:36 GMT"
         },
         {
-          "title": "Mozilla launches ad blocking for Firefox on iOS - The Verge",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QeTVwb2taVEstVHNrcTlfT0xidmpRZUhvWjBuZFYxYXg2dVpXeXNjR0FoRUo0MFZCT052WS1nLThVS1dTNHpNSmtBMk5TOHZORnozSWdGdHpOYWZOaFJQYmhEWHJPT1llVGY3NlFLRzc4QnE2T1pHa2pLOUxvTm8?oc=5",
+          "title": "The verdict is in: America hates Trump’s renaming of Lake Ontario - The Independent",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX1Bldldhc1FONy1pZ3lndUtoREE4OXlxdm9rNU5LYUljYk9lTXhMN1JtN19DLTBCdjMwWjYwYnZfbWphNjJETnZ1ZUxPUVp5M1RKM1RoYTFXcDBpR0ZLakwzTmhybDhaUUxSbEc4QmlETXhmc3dmS241eW5zeFBOWmZneG5JY292SkdDTGxfVWswSVJSbXZYdGt5OWxBSnNjdVotTEpfVDZRUU1Ea2RBeDY1UQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 13:00:00 GMT"
+          "published": "Tue, 01 Sep 2026 16:20:00 GMT"
         }
       ]
     },
     {
-      "word": "Iran",
+      "word": "House",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "U.S. Launches Airstrikes on Iran for Second Time in Three Days - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQkJhNDBNOW00TjJ1ZjdIQ3BmSHJpSEVEVTVKMkNaRksxaDByenc5V2pRZVd1WENGVFA3WVgwbXhfNHd6UWxxZTRzZnp2amJ0cHBZWEY5d2k1TkNabjEzbVM5RVQwQVU2TUUzQjA0OXdub2NmNG1iTHhMcUFFY3Q0VElYZ0hxZzg?oc=5",
+          "title": "House passes short-term funding bill to avoid a shutdown before the election - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaTNfUEU3RlZZZGNSb1BzaFpJSkNHN18zd2JZdF85MmVHNEd6T0wzdEVDWkNfdHhLLUg1WVVDUWlCYzJzYnRhaVp2RHBQOE55SWV5Y2MwbV9ZeFVab04weVZUNjJPNng5Z1FybFRXNkp1Y0JTdzRYSndWOUdyNEtfaDRDcGJQZXpyVU81SGRuZTd3V2ViQXpmSEdQRVhMaW54ZjdmbzVQeWE?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 17:13:41 GMT"
+          "published": "Tue, 01 Sep 2026 19:56:00 GMT"
         },
         {
-          "title": "Dow falls more than 400 points, oil rises after new U.S. strikes against Iran: Live updates - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hazhOTnRDN2llRzM5b3FMY1d2X1pxaVZqN2dEa3h0Tm5lMHpES0FXS0xaRUlDbFMxYTJhQUxObjVyQTduNGdEU1l3ZHc3Q3BMaFFVTU5MNHpfdmtnd1JKLTNoODUzOHJaQktsQmJBQWVVOUNMVk1r0gF8QVVfeXFMTTJhei1Nc1M2SmNlZ1N2UG51VkJTcEVRcEhIdW5vZ1dGUVhXTzRGWi1lR256M1ZNYXJmT3phRzBqU0VSTTBZeWFMS1FlVW9sdUkzRnpLTUJFUS1NZ0ZUN2ttc1RpYTUwRi1XemZMbnZpT0Z5SlRMbklHYlNRZg?oc=5",
+          "title": "House GOP censures one of its own over conduct with female staffers - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQT1RwVDZkM09jTTFvV1g5Q294eDVXb2FJY2o5MlpYLTVaSEk4Z1p5ZVQwRU5KZ3QzaU54OFp3MnB5enlKak5RMmo2bXF0SmtLYTBsT0NnZ3dUNGZTRy1pckVnTTE5c2VIY3A3Zm9CSFQ3QmxhQl9TTWZJRmRuREZoZUFyb1pyLXFoN0NvUjBZMnVQejNQRzE1UXVLb194emhsQlllX0tZX01TY09FTWJZZzdaU01aemtqWU1fWEk3MGJyWm56cElZWmllbnI4c0VIMURYTTVn?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 20:09:00 GMT"
+          "published": "Tue, 01 Sep 2026 23:45:19 GMT"
         }
       ]
     },
     {
-      "word": "Updates",
+      "word": "Deadly",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Live updates: Lindsay Clancy trial jury unable to reach unanimous decision - cnn.com",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84eGZnQXZCekxHcFozSE1aMC1PcV9GUTctYmlFNElkbXBUREVVbzR3dDRhUTJ5X1lhaUZPazJReWxyUG8wRnVzSTRuN2pJQXdBVUJnQmgzVnZLQmVOUHNmVFE5b2lkTDhBUjExZmVwallmUQ?oc=5",
+          "title": "Times Square stabbing: Victims, suspect identified in deadly stabbings, police-involved shooting - ABC7 New York",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQek1VdTNpM1loNXZxTnFOLWY0aEU4a1NYelBjdGxIRjdQcU54a0M5WU1CLTFhM0FYTWxUSGtjTGx0am5mZC16c2dJY0F1SjNneDFELXh6ZTBrXzN4elRhT3ZGZWxiQnpXNU54WU5IczlaUXNPbjBWSHdwZkVhQWtSWVFxRlpCMzlqdFZ6cWlwTXA1QVZoQmZNdnA3TC1wV3JtYjNNRHZ5dHRuUUJNVm9aa3dTcEV2YTE0THBIQ1NlRkhqQdIBxwFBVV95cUxQWWRVS3hudU10MTV0MUV3S0FZY0RkN0VmXzdweno0Ti1uN2thTHVVTGRnNURKaFpoWS0xV3RXdm1vT0xDS3plOEpPYlhSWHFOcWVFb0s1NFBJbWlqeDA1ZU45MmZ3RUw0ZG5kOXFIcllYX2FiYUk2TmoxVmdBOWZJUDNvcHoyc1hpVVEzQUd0VDBjZllQNllEc2hCYnIwMjBCZ0lBcE9sbXhYMks5UUpUWWRBcDA4cldqbk92Mk0zOW1Kd3IyOWRr?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 17:54:00 GMT"
+          "published": "Tue, 01 Sep 2026 22:41:25 GMT"
         },
         {
-          "title": "Dow falls more than 400 points, oil rises after new U.S. strikes against Iran: Live updates - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hazhOTnRDN2llRzM5b3FMY1d2X1pxaVZqN2dEa3h0Tm5lMHpES0FXS0xaRUlDbFMxYTJhQUxObjVyQTduNGdEU1l3ZHc3Q3BMaFFVTU5MNHpfdmtnd1JKLTNoODUzOHJaQktsQmJBQWVVOUNMVk1r0gF8QVVfeXFMTTJhei1Nc1M2SmNlZ1N2UG51VkJTcEVRcEhIdW5vZ1dGUVhXTzRGWi1lR256M1ZNYXJmT3phRzBqU0VSTTBZeWFMS1FlVW9sdUkzRnpLTUJFUS1NZ0ZUN2ttc1RpYTUwRi1XemZMbnZpT0Z5SlRMbklHYlNRZg?oc=5",
+          "title": "How Monsoon Season Supercharged the Deadly Grand Canyon Flooding - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORlp5TTd6X1p3X0w5Y2Q1WUx1MWJjLUl6LXM2U21jaE1QREZuVVA3M0FYLVRMSkJCU2tlenpURFh2amJoOENMXzluVVJNR2NUejFCVnJPMDRCV1dwT1FYbGpxcTNfeDNPNUo2ckZQNUk1eWJtNmI1SjZidkxqbVVlQ0ljVEZhVHZWVmtvR2x3?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 20:09:00 GMT"
+          "published": "Tue, 01 Sep 2026 21:34:42 GMT"
         }
       ]
     },
     {
-      "word": "Attack",
+      "word": "GOP",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Bank of America VP killed in Times Square stabbing attack - Fox Business",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ2FtRUVpOVRob0p6Qi03Z0psV3FnYjB2dkFXOGZZZ19nSzlXZzNmY2tGUFdqcEZSS25uN04xcHMybVIyZE81NlQyWEtiWXJaSFhzNVVIY2czdlh6c3lHc2d6MHZITnZqNlRGYUJzdWp6eDNHT0NRSFE1V01pdlJZeEVpQ2RQbVhqc09JMXdKbUwzOFdHTWfSAZsBQVVfeXFMTkZhejBSaDZ5VWR3NVhWa2dFNVJqc3l1UG9wdlpDeEc1aF9IdTM4T1I0ZDRfNnNYWmZDTHNRWE1rajBwbjg0WER0LUZvT0MwU3V4Y00wZEFfTVR3QnpNOWU5V2hremtweEJJNVBneXB5SWpvbVZSaWJDc1NFTHB5eGlVME5PTGtaOE9aeGxLSXY5eFRwTWFSQmJKcGM?oc=5",
+          "title": "GOP senator ‘disappointed’ over departure of Army secretary who clashed with Hegseth - The Hill",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTG9UeU9ISkhWWnZxakpoMVZMV2g1UGZlTHZfWnhEVExnMmR0WWhaZGZqQWJMYUQzWWEweks5b1VubnRBZWpSdWNoejBsMHRpTnV1UUxSQXVBMDJXR0hYbXR6VUZzS3gzSjhZbHlmZDlkdm1NRy1vYUw0cDh5c2ppOUFBbm01aTjSAYwBQVVfeXFMTU90WFFNZ1dhZW9tbEw0S2Y4ZHdUMktTV3dpS0tUdUlxUi1naVNhaVpNVFlrckhra0tiTHNyNlFvMGczV0RxRk9TeGZ0WW8wMkRreDN4RkNRQmQ3WlJqcXJZTDJ4Qjlta3FNcXJHLVd4UVc0c0ZPWWMtSG5sVVVlZEl2bG9qdVp4WmFQVlg?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 15:55:00 GMT"
+          "published": "Tue, 01 Sep 2026 18:12:00 GMT"
         },
         {
-          "title": "Germany says Russia responsible for drone attack at Leipzig airport - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeE1lRUstV1lRTDlmeGRheDFMS0JsTHhNcFUwc2FIYWp0dWxMcWdyN3ZnMEpYRmRidU5QUUZWeV9paTE4c09QYjZSRHd2Vnc0Vnc4dV9CUzJZc1VHMjVoajRFeWU4U1FZekxab0d1MXd6UTFlLVZvWEVQTmw2S1M3ZEVQaUYya0dVTEhIaEtXQzQwN3NkbXR4UXZEY0hXY3lqNEhPYm8xOVphY21rWFE?oc=5",
+          "title": "House GOP censures one of its own over conduct with female staffers - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQT1RwVDZkM09jTTFvV1g5Q294eDVXb2FJY2o5MlpYLTVaSEk4Z1p5ZVQwRU5KZ3QzaU54OFp3MnB5enlKak5RMmo2bXF0SmtLYTBsT0NnZ3dUNGZTRy1pckVnTTE5c2VIY3A3Zm9CSFQ3QmxhQl9TTWZJRmRuREZoZUFyb1pyLXFoN0NvUjBZMnVQejNQRzE1UXVLb194emhsQlllX0tZX01TY09FTWJZZzdaU01aemtqWU1fWEk3MGJyWm56cElZWmllbnI4c0VIMURYTTVn?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 20:35:42 GMT"
+          "published": "Tue, 01 Sep 2026 23:45:19 GMT"
         }
       ]
     },
     {
-      "word": "Apple",
+      "word": "Dies",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "MapQuest app reaches No 1 on US Apple list after defying Trump’s Lake Ontario order - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPT3BTRFVuNEVtODZNbS1CeU45elVlc1RLWE56SnZib3lJdWhCU19OejZLZUtJdTZ1aDNSM21fYl9iVzlra241clVpMGI3OWVIZDktNC1EdUJ3R2J0ZE1FZkRyYm5XNXNfeEY2bWpwTmxpV1hUby1BOXhlOXo4ckdmOQ?oc=5",
+          "title": "Haitian student dies by suicide after ICE issued him an ankle monitor - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSnlSbUJLdmtBTXZFaXMxNThrZG9Wd1hrTG5TX1ZiNmZPLXNWYWtQX2xRSm9GMzd2SWxXTVA3V3hGdlVSbVlZRzlqdFBPRDk4TXVlSVFDNXhvNXp2bDNrNlZ1UmdSUGphN2J2NVlJOTBFWUc3V0doLTJtYWpvRGJoRW9LYW05QUlaVURwZnRNNktMbF9nTld3bF93VFBpMUJLOGxHaHNHSTRJYmYyZ3F4RGUxQWkyYy1DWmc?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 14:07:00 GMT"
+          "published": "Tue, 01 Sep 2026 21:39:15 GMT"
         },
         {
-          "title": "John Ternus hypes ‘huge launch next week’ in first memo as Apple CEO - TechCrunch",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNREs2aUZVMkFlanBOSnNzTUprdmxjVWhWSXZvUzhCRWM2eUlRX2dLb2VCSldTR0JRZjNpVEJmU1V2QXlxVllKeTZld3k4clBTZE1DdVpBTmp3TjNRellpY01vMnkwYkU5ZTVEc3VRd19lMzZDY1FZUGtMZU1fVkJ2LXRodXdULWhMTVdWSTZNZmRCakZDNlFRbkZOZ3lxcGNyM2Rn?oc=5",
+          "title": "Teen dies from ‘brain-eating amoeba’ just days after young girl succumbs to same rare infection - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY0xnVG54X2V4d3hxTG9zbjUzRVRxaVJFdHBIQmMxT1N5Vzd2bkY4ZUVHbXZJdndJVFlJaEpEVWRxRDlxM3plZkdaUDVYbkluWVlYRXVPRFJhWDM4cTlMX2JEZEg5T0JfYThqVXAtRHlKR2ZIOFVuRUdUcnJ5RlI3T3l0ZEtzdktqd3FHTklBRjN6cDFPMDhLT0paM2lheEdxX0hTNUQ5Z2daNVpjVVU0MtIBtgFBVV95cUxNMzFtZVZQcXRXckNRdExNQldhU1dBRzB6UlYzS05aRFllR3hrNjJiUzhWX05Db25zV3FBQlpscEZmdGdzQmVhOGsxdDF1cjdnRG1KX2VqVWh1aGM3bjNaeXdtWkdOX2tSdjlSMnRkQ3FQRE1yZzdGNHBCUmtDREl4akNDQjBhSTFSUTZQTFFMYXFjNjE4bVFOVHRDS2RzODNFMFJKUWxzd1RCdXBkdXBXV1JCajJHdw?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 19:45:28 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Deaths",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Grand Canyon flash flooding deaths spur questions over whether warnings could have come sooner - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ2RCN3VoTFBCeTVicU53elBpZ1NKVzRYZWU5T2ZuVDdKdGxhdVpaM1VnQjBWWDQ1WXdCcHNsdm1YSWRhU2J3REZWUjVqdmxORDFNVmRfQ3RneEVsTGQyZV95WmpuZ09nQmw5S29Tb0wxa0dGVUJmSUN5REJMMFE3eXBJeUx1Skc4eWJYNDA4NnhLdGJmQ25vRU1jSQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 14:37:18 GMT"
-        },
-        {
-          "title": "CDC reported then deleted two measles deaths that were questioned by RFK Jr. - Ars Technica",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTFNra1pYdWlkUlZKYXVfaDFtOWFZam4wT25adDVyQ3Z6Q2Q3U1VZUjNwWC1CZEI2NVNfN1hZSHlURXlNMllTYVFodXZmVk9NOEJoV0JpUm1Rdkk3YVlaeDZXUENRVFdKcV9UanlLZmNVbTVhQnBseTdraG5Uekx6U09jdUM1QktTNzJRbDd0ekxnWG03YWVBa0RnWXE1NlJtM2pYWGczSDljeEpUSk1fM1REajRSdw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 18:21:16 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Oil",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "The Biggest Oil Deal or Theft at Gunpoint? U.S. Claims Majority Control of Venezuela’s Oil Reserves - Democracy Now!",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wdjRDdWt3dmpyXzVXS2VPZFlIbnZqMG9zcS15b0pJSXF2bmd5S3lrVzBfTWFpanU5NGwtS2NWYkwyTHFVb3RiTHVzSHFNcDNzQXlJaW9XSHpSdy1BVTdnVTVrSGZKNEppejZKTTdrMA?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 20:36:59 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Vote",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "2 House Democrats vote to salvage GOP agenda - Politico",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVXc1Ri1yVG1VWGpGeEtqMDkzSjBTa0NXc2VnOXl1dHYxQWJaNGgwRDhVNFZaZFhld3Q1MjIyM3pOLVlBb2h6Q2x1MU05SllVTW5Edkkyd1ZpRUs2RVlDUlQ0YkhfMVpKdHhFQ29CeTdzZVAxLTJma3RvWEFjaUV1MTQwX3Bxb2RidW41WHBUU2gxWlp4RVJBb2FCWnM?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 18:53:00 GMT"
-        },
-        {
-          "title": "California Assembly rejects vote on wildfire bill. Legislature adjourns for year - Sacramento Bee",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYVF4THZzeEZHemE5eHozMDZDNDZicUVnb0hXRnJUWGZRU2RfTGppRHpxTDFGazItSDEtR0FpVENyOEFZeXBqdnpaSzhMdzU1RURCMlU4ZFlDTmxMZXZpUDN5U1ZkMmlMT1hlcURRa19INDZ5S0VIODc5NWxSUGlqbGxycHBUNENkWHJn0gGLAUFVX3lxTE4xeUNIbU9HQnBZczBrNWZ4MlYyUlY0Y0xjcElpSXJ4SVlYRUlILTRTR0ZIS0ttWVJ3QWVuaFVneUNaQVAyeGp1QmhETHdFTXBSem9yelNRSWt5X2dEejdONWZJZTZuUnJCTFdUWHN3NFF5RVM4VTRPeHdGaGUxZ0ROMjgzVGxXamVPLW8?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 19:33:33 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Find",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Drones helped find people after Nepal floods but the search inside hydropower tunnels is a challenge - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN1RNRGhlQ3hVZFV2QzhDRVNaa29oWk9vbHhyVV8wbS1BQXktdTZmZkdvb2R0RUpFb19KYnctdFRsaDY5YUpUVjBZUDhQNWRRVEJCYjRiTXFoMGV0T1d5WUYxSTJPSm9NOE5GaHIwZTJneENxdVdoOTY5UWtxcU9vR3VBZUQwUTV5LXVVTDVWck1YaGxMTzJScnVNbzFLTmwtdmNrZndPUQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 15:51:00 GMT"
-        },
-        {
-          "title": "Rabid Baby Goats Send Health Officials Scrambling to Find Everyone Who Cuddled Them - Gizmodo",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZzJGamlpTDRFaHhkNWpINF91Y0p0RXAxcUN6MVd2T0VTUEN4UHcxMS00blFzMXhCcUhEVkpOZ19ucVBxZ0daUTRZRWhKU2FyQ0xjblFncFk4dG82XzFmeUtfd04xS1FhTzd2LUZULUl2MEozQjFtbzB3YWgtZFZzbGU3c08tZXNYWlEzMVdhWVJ0dU1GazY4TkRDSGRzMnFyWF9pVEFQaXJyNkZLQVdjalo1Tjk?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 16:05:45 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Inside",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Drones helped find people after Nepal floods but the search inside hydropower tunnels is a challenge - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN1RNRGhlQ3hVZFV2QzhDRVNaa29oWk9vbHhyVV8wbS1BQXktdTZmZkdvb2R0RUpFb19KYnctdFRsaDY5YUpUVjBZUDhQNWRRVEJCYjRiTXFoMGV0T1d5WUYxSTJPSm9NOE5GaHIwZTJneENxdVdoOTY5UWtxcU9vR3VBZUQwUTV5LXVVTDVWck1YaGxMTzJScnVNbzFLTmwtdmNrZndPUQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 15:51:00 GMT"
-        },
-        {
-          "title": "Inside the Singular Animation Process of ‘Coyote Vs. Acme’ - hollywoodreporter.com",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUzZLZzQ3aTRVNVpiSFFWSm80TmZfdk9oMjQ3WFF2dTNMcUhVOEw2QjhQZVgtZUZyLXNNalpoSWpNNlc2dHJWdEFRQVhqa0tVV3ZVZ1BETjE3ZnJidGs4a2V5NzJVYjVqcnc0SUp2b0xlbWMyeDdBeG9wRERkdWxrN05TOHFWcGdXOFJtVndkbERueFNWeTlieXhFbFFVNzJPZFB4X2hGQ1hVZk50eFFZ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 17:28:42 GMT"
+          "published": "Tue, 01 Sep 2026 19:56:20 GMT"
         }
       ]
     },
@@ -256,10 +104,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Germany says Russia responsible for drone attack at Leipzig airport - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeE1lRUstV1lRTDlmeGRheDFMS0JsTHhNcFUwc2FIYWp0dWxMcWdyN3ZnMEpYRmRidU5QUUZWeV9paTE4c09QYjZSRHd2Vnc0Vnc4dV9CUzJZc1VHMjVoajRFeWU4U1FZekxab0d1MXd6UTFlLVZvWEVQTmw2S1M3ZEVQaUYya0dVTEhIaEtXQzQwN3NkbXR4UXZEY0hXY3lqNEhPYm8xOVphY21rWFE?oc=5",
+          "title": "Germany accuses Russia of drone attack on Leipzig airport - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPakFNUE0yV1ZxMjAyalhrejhwSzEyMXl3SGtjcENTVlRNQ2RoZ2VyeWU0bzBwMWNfcmw4WW9PMTRmYVBmNnMxT3FicWVaOU9TSTZNVmtRa3ZyYkw5RlE4OF9aMWw3bVZTS1lnT19rYkp0NnlFcHpjWmhnNGY1T0U1LThkTXlmSXBqNGFkZ0VCU25wREVPVWJ6Y2w0amFBZ9IBowFBVV95cUxQSnROWDl2dmc1eEUzd21oSnp3dThKdWo2QWJKOGZmTXpFZmZRaTF5OG05UGtXeWkwVkZMYm5KbHBvS3E3ZEMyejJlQ2FKNm1xMlBxYkgtbldVdkZoZVVnd2VhTG9jZFlrWnZSd2lrX3lBRG5qOGlhcGdnR2VnSllGbkctbzFpNUVDWDNTdHR0WTh6YnBPZThaWXZZbzRnbnVpQ0V3?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 20:35:42 GMT"
+          "published": "Tue, 01 Sep 2026 19:10:44 GMT"
         },
         {
           "title": "Spain's leader says Russia and Israel fueled Ceuta migrant crisis \"disinformation\" - CBS News",
@@ -270,155 +118,162 @@
       ]
     },
     {
-      "word": "Found",
+      "word": "Ahead",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“Had he decided to never write the book, he would not, probably, have ever been prosecuted”: Duane Keith Davis found guilty of murder of Tupac Shakur - MusicRadar",
-          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNbURDVGt5THdZRkxLRjNVUDFkMjdCUWlNQTV5MGdicjI2MnlXTU82NGxPMDhDN0Z0bjRrXzhPTzAtVnQ2d0lVbHVRYk12Ql9WVzNsLURrSlp4eUQxd2pvLTNaaklMdnY5dU03U0lJY29sTjcyZ0Y0SGJSZE9aUUNHVkl4UWtNMmxod2xUVHplZFVIN2Z1YmQzNTZ6RU5tX0pWalZET2lxN0l0RkoyaDJJaVdhV0tfREtfRzZBS05oTExYOHk1cHhOUGFJMXZHQmVZMW92aUhhWjBpaXJoNU9KSkloRzk0amthQjdYSVRBblRTTHdxendVcHNuM2lXN0o1UlhTbEFGT3MybUFVYkdZN0o0blgyMDJleHoteTc4RklQeUFh?oc=5",
+          "title": "Dell Stock Gains After Earnings Come In Way Ahead of Estimates - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xWmNLMDZEeXFDOVdDdHJlaWtNUl9mTDBnNVVHSDBnWkhiM3JmZ1g0OXJacmVHN3pNNXF1TFU0Y1NHa0F6UnJDZGxNei1XNlFjMVpmUGtmODVrUUd1THNibVFhbHYyUEZzMlhjbjQ4ZFRFY3ZlcGc?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 11:07:16 GMT"
+          "published": "Tue, 01 Sep 2026 20:52:00 GMT"
         },
         {
-          "title": "North Carolina teen dies after contracting rare brain-eating amoeba found in freshwater: Officials - ABC News - Breaking News, Latest News and Videos",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWDV3YjlUQV9LWlUtU3hQUi1aMGZWamZZTndoeVd5VEFBcTFTUTNyRS12VklROUZjZU9uVktOeDYzX3VlS29CcUxpelEyR2M1dy1xNVFpY1hoaUc4NF9LNzUxTnFrRmxNVDJTd0lQc3loS3lZd29Bd1VGcG5MYWtZWURieXlCVkNnY1pIWXJFZWU4dFQzMF9XS2NIRdIBoAFBVV95cUxPM3RSakZhRUdpSjhUOGNvUWdQcm1IN0hLRUp6OHJRbWlZeXg5TGVoWmFFQXljVEswc1NQdURhS0dza1o1YnFoWlR3Wl9SbWw4OXVaZGdLdTROX1g0MDlRQm5TRTQ5dnV1Wm1EZkJNcS05UElBcHlJb3hOdDFxZTlKZkkyY25kYTU2RXJCWG9mTDRBUXRFMC1xQTY4UjBsNTVM?oc=5",
+          "title": "NFL’s 11 best comebacks from retirement, ranked ahead of Aaron Donald’s Rams return - sbnation.com",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQWNMZ0xmWkprdTIyOVBXeGdETnZWUVVybGRNTHBlQWpvbl8yVEpVVnpZeHYzTWFhQkxCWVpENkNsdW5rWnhWZXFkclc2UzZVSWpTdkNtdFlndDFTbHVxT0JTbmxWUkJ2ckF1RTd4SHBKVW5PakZERTZGcFd2d2tNV0RySzk0YzR0M25OUGxXR3ljaWZJSDlLUGx6TWt4aGpwMXhxQVkxQ3JqUQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 14:56:02 GMT"
+          "published": "Tue, 01 Sep 2026 15:03:13 GMT"
         }
       ]
     },
     {
-      "word": "Help",
+      "word": "September",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Big & Rich say Dolly Parton put fame aside to help neighbors after 2016 Tennessee wildfires - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQXVqamRvSEdfdkFsenh0NlB5SzFSdkRfcmxFZVZWVXpHaVgwcUk4U3JMME5uODVDZ3c1dHk0VldHNFhudFZuTUpZeTNjandWODMyTTNMb3FHXzZJbEV6eEFkcWgtbi1SRFpSR0YzbFVkNFBwQ2RqUWY2QlZGdVZKenRSbUVHQ1FFRkFSZUEzNVhBWU9vc2dwT0dKVnk2YlJvaUF0d0M3c1loU1Y2V2tQSlBkb0xrLXB3ZjV4S0VfZmFUZ9IBxwFBVV95cUxNZlVLUHFKU3ZOaHJRbTExY3Zia25rdVoxdXpUSjJMRTFyN0U1ZVhEdzhNbEwtQXdNX2FFR1k3WWVrSmNfWXJfbTFmakNCR1dHTWtISjNncDZCcWR3Q2dZLXROYTVYTmNDdmp4UHZic2J2bjZMZGFTTllTTFpDclRaSnE1WXdxckRmeGpZMkR5c3JEN3l2bzZkRDNQMFZoVnY2cDZGcmxPbklneWlHbXUwTWlfajlfcVk4QXp5ZnhYVFpuYjZ5aFRj?oc=5",
+          "title": "DLSS 5 Officially Goes Live September 3 With NBA 2K27, Exclusive to RTX 50-series \"Blackwell\" GPUs - TechPowerUp",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaG1EQndMeHRhY0ZoQmZ6RWNmQlBBSzlDdlJGVHctcG5mOE5hQmNMRUZwVXRsdnlaRVFrVWdiNmQ4OTFEQldnSUJJMUZNNnB4ZExnU0dRWjVjSlF2TGVmLXlHZXdkZWh3czVUb210aVBnZXlYS3ZFZlYxeG1oZ1U3cWgxaGxMMHpISVhfMHdKSlVIdGYwY1l1ckdjZWNLTmozX0VfTUxQYW9CYXN0LVFQbzdFTVBuZ3hwRXNWQnlTTnl3WkVxYnVSSzh30gHPAUFVX3lxTFB4LTRGWXBNVlZsWEkyQm5KMm8wVmZSUUlRVlBRZmxIbjBaSzZVUmo5QmxXTmJjMmdOT3hJdlFfMHNYaTJNUlZZR0tPSWFJTlBldkdQMHJUaXpyUDZJT2lacE5NNzkzRXQxc1VNV1pBZDBMQ2c2TmhuQUlwQmtkTjQzWm9fMGNQY2NPcmtwamxrQk1rTDhkelhHdmtwSVNCYkpEMTIzMlhFQzFRRDJabm4zb0ZScDB6NmF3Zjg3OEE2Zlp3aERHOHNFSENMTldYUQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 14:00:51 GMT"
+          "published": "Tue, 01 Sep 2026 16:36:43 GMT"
         },
         {
-          "title": "How NASA's new space telescope could help solve mysteries of dark energy and dark matter - PBS",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLWE1ZGtTRzlTRkhwQklWZzB0c2FSOGV0MEZrUHdoS1NIU3pWSmNtc2E0VVRPTUJrN2dEMU9fU2VxZVV6UUZxcW9FM19XSUkwUVNTd1JoVDU2RUJ5WnN4S2dHZ1B4S3ZCZzdzU3hvWkFYa0w1RFd0U2lsdWsycHJLdzJMUElGZDMwQi1NN1NwS1M5b0J0LWVyTUhtUkZsN255WjJzOEozVlByd3Y3Z2ZOeW1WeWQyS29Pa09Ma3Rn?oc=5",
+          "title": "Night sky September 2026 — The best things to see this month - Space",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5OaTZHUVRXVTJtZjAyamtXUWhyY2FZbkk4NXhDMWh4TElxSzY2el9jby1TdHhoWjV0dXF3bjFVRC1RaGprWEJzNEhqb3YwZlpwYnVjSlpwYVJOR09aaWJiSFEwY3lLUlhhejdfTXU4RXlZMHg4MnA4Rg?oc=5",
           "source": "Google News",
-          "published": "Mon, 31 Aug 2026 22:30:50 GMT"
+          "published": "Tue, 01 Sep 2026 11:57:16 GMT"
         }
       ]
     },
     {
-      "word": "Matter",
+      "word": "NBA",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Dark matter breakthrough may have happened in South Dakota lab - NewsNation",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zT2Q2T0dSekE4WXFBNjQwMEtMZkVacWtlWDhzY0h3WmZNSzJUd2Y3YkJzT2xEenB2a0F4V1pNcGxEUUZueG45LVI2OUh4N3dFSGZDcHY5dWNxZlBCM3hyVEcxUTBZejdDdzVLeWh6OTJVd0w3UFJGQ2VMa1rSAYIBQVVfeXFMT2FvWGsxUVlzQ3czakVmQmJaQWFtRG1oTUpvdGRKb3pqQzI5WkgwRkhTQzlYQllGeTNqN3B1VkRoMHZnVTI2VVkybEs5U1BVVzFKT2tTT1o4UEQ5ZW5FbWZYMGpRVHU5SWtwZm01d3VHVmdablZaeENiTUFjS2dyN0c2dw?oc=5",
+          "title": "DLSS 5 Officially Goes Live September 3 With NBA 2K27, Exclusive to RTX 50-series \"Blackwell\" GPUs - TechPowerUp",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaG1EQndMeHRhY0ZoQmZ6RWNmQlBBSzlDdlJGVHctcG5mOE5hQmNMRUZwVXRsdnlaRVFrVWdiNmQ4OTFEQldnSUJJMUZNNnB4ZExnU0dRWjVjSlF2TGVmLXlHZXdkZWh3czVUb210aVBnZXlYS3ZFZlYxeG1oZ1U3cWgxaGxMMHpISVhfMHdKSlVIdGYwY1l1ckdjZWNLTmozX0VfTUxQYW9CYXN0LVFQbzdFTVBuZ3hwRXNWQnlTTnl3WkVxYnVSSzh30gHPAUFVX3lxTFB4LTRGWXBNVlZsWEkyQm5KMm8wVmZSUUlRVlBRZmxIbjBaSzZVUmo5QmxXTmJjMmdOT3hJdlFfMHNYaTJNUlZZR0tPSWFJTlBldkdQMHJUaXpyUDZJT2lacE5NNzkzRXQxc1VNV1pBZDBMQ2c2TmhuQUlwQmtkTjQzWm9fMGNQY2NPcmtwamxrQk1rTDhkelhHdmtwSVNCYkpEMTIzMlhFQzFRRDJabm4zb0ZScDB6NmF3Zjg3OEE2Zlp3aERHOHNFSENMTldYUQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 15:27:10 GMT"
+          "published": "Tue, 01 Sep 2026 16:36:43 GMT"
         },
         {
-          "title": "How NASA's new space telescope could help solve mysteries of dark energy and dark matter - PBS",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLWE1ZGtTRzlTRkhwQklWZzB0c2FSOGV0MEZrUHdoS1NIU3pWSmNtc2E0VVRPTUJrN2dEMU9fU2VxZVV6UUZxcW9FM19XSUkwUVNTd1JoVDU2RUJ5WnN4S2dHZ1B4S3ZCZzdzU3hvWkFYa0w1RFd0U2lsdWsycHJLdzJMUElGZDMwQi1NN1NwS1M5b0J0LWVyTUhtUkZsN255WjJzOEozVlByd3Y3Z2ZOeW1WeWQyS29Pa09Ma3Rn?oc=5",
+          "title": "Allen Iverson Reacts to Naomi Osaka Honoring NBA Icon With US Open Outfit in Trending Video, Photos - Bleacher Report",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOU4yblZRbFlqZXRpNC01SlFBajdkbWl1bVZXaDdpTldHaEh3b0RXSGkyM0RvWXNYQlhLc25uWThHalhNbGtvbUZmX3M0bkk3S01jQTFnTkNmNWtHMS1va3NPYXRiYVlBOGRyOVRZblpyNk9odnRzVl9FLUFaemxYUEctN2J1a3RDYVJ0TWJtQklSaW9yZUhFUzBKSDM0ZDFENVN4Nkg4TWFrNVg1VmpNdkV4SGVYcUFqc1IzWGhrS3FXcm9nMTFPU0tldUs?oc=5",
           "source": "Google News",
-          "published": "Mon, 31 Aug 2026 22:30:50 GMT"
+          "published": "Tue, 01 Sep 2026 20:41:03 GMT"
         }
       ]
     },
     {
-      "word": "Full",
+      "word": "Best",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "A full moon and partial lunar eclipse are coming soon. Here’s what to know - cnn.com",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaktYNWxFQjA3Q1k1eURxelh5MXhodVFGdjhsQjJxN2VXZERUR282RUYtRFAzdEVxT2VFaUlvSjhTT3BIZkU3dFIyUDJtM3ItMEp5aGlwTnU5aEJ4VmJhNTNsSFpjVzJONW9hVXRTZjM4blRJTDlmVVhSRi1ZaUdNM3htcw?oc=5",
+          "title": "NFL’s 11 best comebacks from retirement, ranked ahead of Aaron Donald’s Rams return - sbnation.com",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQWNMZ0xmWkprdTIyOVBXeGdETnZWUVVybGRNTHBlQWpvbl8yVEpVVnpZeHYzTWFhQkxCWVpENkNsdW5rWnhWZXFkclc2UzZVSWpTdkNtdFlndDFTbHVxT0JTbmxWUkJ2ckF1RTd4SHBKVW5PakZERTZGcFd2d2tNV0RySzk0YzR0M25OUGxXR3ljaWZJSDlLUGx6TWt4aGpwMXhxQVkxQ3JqUQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 27 Aug 2026 12:00:29 GMT"
+          "published": "Tue, 01 Sep 2026 15:03:13 GMT"
         },
         {
-          "title": "September full moon 2026 — When, where and how to see the Harvest Moon - Space",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNE9XUHVjX3I0TEtBbjR2SS1HS2hlYlpaeTNIVF9xWXd3b21KUzhzNHVtd0lmekRmWXl5YkI1NmtWclQ3UTVkN25UZWlxTWY4bzJneW5idHI5QXV5aF81ZkYwZnJxeVNnN2lSbFJQYmJPR0UzbHQ1a245N0JIZHZJZjUwZ0U1WUh3N0Jyc1dKWWlhSE8tTzc5SE5yTjZVVEtjcUE?oc=5",
+          "title": "Night sky September 2026 — The best things to see this month - Space",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5OaTZHUVRXVTJtZjAyamtXUWhyY2FZbkk4NXhDMWh4TElxSzY2el9jby1TdHhoWjV0dXF3bjFVRC1RaGprWEJzNEhqb3YwZlpwYnVjSlpwYVJOR09aaWJiSFEwY3lLUlhhejdfTXU4RXlZMHg4MnA4Rg?oc=5",
           "source": "Google News",
-          "published": "Mon, 31 Aug 2026 13:00:00 GMT"
+          "published": "Tue, 01 Sep 2026 11:57:16 GMT"
         }
       ]
     },
     {
-      "word": "Know",
+      "word": "Rams",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "A full moon and partial lunar eclipse are coming soon. Here’s what to know - cnn.com",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaktYNWxFQjA3Q1k1eURxelh5MXhodVFGdjhsQjJxN2VXZERUR282RUYtRFAzdEVxT2VFaUlvSjhTT3BIZkU3dFIyUDJtM3ItMEp5aGlwTnU5aEJ4VmJhNTNsSFpjVzJONW9hVXRTZjM4blRJTDlmVVhSRi1ZaUdNM3htcw?oc=5",
+          "title": "NFL’s 11 best comebacks from retirement, ranked ahead of Aaron Donald’s Rams return - sbnation.com",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQWNMZ0xmWkprdTIyOVBXeGdETnZWUVVybGRNTHBlQWpvbl8yVEpVVnpZeHYzTWFhQkxCWVpENkNsdW5rWnhWZXFkclc2UzZVSWpTdkNtdFlndDFTbHVxT0JTbmxWUkJ2ckF1RTd4SHBKVW5PakZERTZGcFd2d2tNV0RySzk0YzR0M25OUGxXR3ljaWZJSDlLUGx6TWt4aGpwMXhxQVkxQ3JqUQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 27 Aug 2026 12:00:29 GMT"
+          "published": "Tue, 01 Sep 2026 15:03:13 GMT"
         },
         {
-          "title": "Column | I’m an oncologist. Every man should know this about prostate cancer. - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONUUzdHFyeVVZMTd3SmE5TEdnSFBURlRISTlJd2dnYlNJeVQ4RFFVcVJYOHV2TEZwbXFPa0JEMWZTdTJqVDVfemxCVjMxUzdMQl9SQ2ViX3N2amZOZ2RuODllU2RSNDBYc2hSeXg1WGxDSlFxbzg2N2NoS1NpQ204U2hsUEdYRExZTDRqWkpqV0xMRkFEQXBHYTlfUS1sUVcwVnNEdC16V3E5QQ?oc=5",
+          "title": "Rams owner Stan Kroenke agrees to buy Angels, ending Arte Moreno’s troubled tenure - Los Angeles Times",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVzI3aHM4QVl1OGxCTDBGa08tTmFkaHlsekE1ZzZlRlB2VDB0WFdWSUhsVWY5TW5ZUDhjZkkxRXVZR2hlbU5panNPQS14VWNMWm1iejZuY0J0NjdjczBkZnhaai1UYWlfcUJ0M0VRa0pKYUhLdklBbWdLRVNfa3R4LU5FZGh6YjlZa2xWWG5HMHcwbW5xektzTDQ5N2phMmxMX3FvVVlBS2liVkNsY0Eyd3hnSkVEdw?oc=5",
           "source": "Google News",
-          "published": "Mon, 31 Aug 2026 17:00:00 GMT"
+          "published": "Tue, 01 Sep 2026 21:48:00 GMT"
         }
       ]
     },
     {
-      "word": "Officials",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "North Carolina teen dies after contracting rare brain-eating amoeba found in freshwater: Officials - ABC News - Breaking News, Latest News and Videos",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWDV3YjlUQV9LWlUtU3hQUi1aMGZWamZZTndoeVd5VEFBcTFTUTNyRS12VklROUZjZU9uVktOeDYzX3VlS29CcUxpelEyR2M1dy1xNVFpY1hoaUc4NF9LNzUxTnFrRmxNVDJTd0lQc3loS3lZd29Bd1VGcG5MYWtZWURieXlCVkNnY1pIWXJFZWU4dFQzMF9XS2NIRdIBoAFBVV95cUxPM3RSakZhRUdpSjhUOGNvUWdQcm1IN0hLRUp6OHJRbWlZeXg5TGVoWmFFQXljVEswc1NQdURhS0dza1o1YnFoWlR3Wl9SbWw4OXVaZGdLdTROX1g0MDlRQm5TRTQ5dnV1Wm1EZkJNcS05UElBcHlJb3hOdDFxZTlKZkkyY25kYTU2RXJCWG9mTDRBUXRFMC1xQTY4UjBsNTVM?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 14:56:02 GMT"
-        },
-        {
-          "title": "Rabid Baby Goats Send Health Officials Scrambling to Find Everyone Who Cuddled Them - Gizmodo",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZzJGamlpTDRFaHhkNWpINF91Y0p0RXAxcUN6MVd2T0VTUEN4UHcxMS00blFzMXhCcUhEVkpOZ19ucVBxZ0daUTRZRWhKU2FyQ0xjblFncFk4dG82XzFmeUtfd04xS1FhTzd2LUZULUl2MEozQjFtbzB3YWgtZFZzbGU3c08tZXNYWlEzMVdhWVJ0dU1GazY4TkRDSGRzMnFyWF9pVEFQaXJyNkZLQVdjalo1Tjk?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 16:05:45 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Airstrikes",
+      "word": "Launched",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "U.S. Launches Airstrikes on Iran for Second Time in Three Days - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQkJhNDBNOW00TjJ1ZjdIQ3BmSHJpSEVEVTVKMkNaRksxaDByenc5V2pRZVd1WENGVFA3WVgwbXhfNHd6UWxxZTRzZnp2amJ0cHBZWEY5d2k1TkNabjEzbVM5RVQwQVU2TUUzQjA0OXdub2NmNG1iTHhMcUFFY3Q0VElYZ0hxZzg?oc=5",
+          "title": "U.S. has launched ‘large and powerful’ strikes on Iran, Trump says - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWxnU3Z6ai1MZ2Y0Zktlanl3Q2dKQ1FpQUthWDVfeTJ0NjFQWUZLYWlxcnAzUUlVY0tHQkpEY2RMMjhRWmZpZDZVM3pqeE5DTlZKY05BS2pWWWlyT2JUYkRpTEhlS3IyMmtZNHB2LVMtZnVyaEIyZEdWSGFfRHJwdnpSM3Joc1ZjZDRxMlN0clI0bVNVbnN2V3RKYUw?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 17:13:41 GMT"
+          "published": "Tue, 01 Sep 2026 22:42:36 GMT"
         }
       ]
     },
     {
-      "word": "Second",
+      "word": "Large",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "U.S. Launches Airstrikes on Iran for Second Time in Three Days - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQkJhNDBNOW00TjJ1ZjdIQ3BmSHJpSEVEVTVKMkNaRksxaDByenc5V2pRZVd1WENGVFA3WVgwbXhfNHd6UWxxZTRzZnp2amJ0cHBZWEY5d2k1TkNabjEzbVM5RVQwQVU2TUUzQjA0OXdub2NmNG1iTHhMcUFFY3Q0VElYZ0hxZzg?oc=5",
+          "title": "U.S. has launched ‘large and powerful’ strikes on Iran, Trump says - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWxnU3Z6ai1MZ2Y0Zktlanl3Q2dKQ1FpQUthWDVfeTJ0NjFQWUZLYWlxcnAzUUlVY0tHQkpEY2RMMjhRWmZpZDZVM3pqeE5DTlZKY05BS2pWWWlyT2JUYkRpTEhlS3IyMmtZNHB2LVMtZnVyaEIyZEdWSGFfRHJwdnpSM3Joc1ZjZDRxMlN0clI0bVNVbnN2V3RKYUw?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 17:13:41 GMT"
+          "published": "Tue, 01 Sep 2026 22:42:36 GMT"
         }
       ]
     },
     {
-      "word": "Three",
+      "word": "Powerful",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "U.S. Launches Airstrikes on Iran for Second Time in Three Days - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQkJhNDBNOW00TjJ1ZjdIQ3BmSHJpSEVEVTVKMkNaRksxaDByenc5V2pRZVd1WENGVFA3WVgwbXhfNHd6UWxxZTRzZnp2amJ0cHBZWEY5d2k1TkNabjEzbVM5RVQwQVU2TUUzQjA0OXdub2NmNG1iTHhMcUFFY3Q0VElYZ0hxZzg?oc=5",
+          "title": "U.S. has launched ‘large and powerful’ strikes on Iran, Trump says - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWxnU3Z6ai1MZ2Y0Zktlanl3Q2dKQ1FpQUthWDVfeTJ0NjFQWUZLYWlxcnAzUUlVY0tHQkpEY2RMMjhRWmZpZDZVM3pqeE5DTlZKY05BS2pWWWlyT2JUYkRpTEhlS3IyMmtZNHB2LVMtZnVyaEIyZEdWSGFfRHJwdnpSM3Joc1ZjZDRxMlN0clI0bVNVbnN2V3RKYUw?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 17:13:41 GMT"
+          "published": "Tue, 01 Sep 2026 22:42:36 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Strikes",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "U.S. has launched ‘large and powerful’ strikes on Iran, Trump says - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWxnU3Z6ai1MZ2Y0Zktlanl3Q2dKQ1FpQUthWDVfeTJ0NjFQWUZLYWlxcnAzUUlVY0tHQkpEY2RMMjhRWmZpZDZVM3pqeE5DTlZKY05BS2pWWWlyT2JUYkRpTEhlS3IyMmtZNHB2LVMtZnVyaEIyZEdWSGFfRHJwdnpSM3Joc1ZjZDRxMlN0clI0bVNVbnN2V3RKYUw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 22:42:36 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Iran",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "U.S. has launched ‘large and powerful’ strikes on Iran, Trump says - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWxnU3Z6ai1MZ2Y0Zktlanl3Q2dKQ1FpQUthWDVfeTJ0NjFQWUZLYWlxcnAzUUlVY0tHQkpEY2RMMjhRWmZpZDZVM3pqeE5DTlZKY05BS2pWWWlyT2JUYkRpTEhlS3IyMmtZNHB2LVMtZnVyaEIyZEdWSGFfRHJwdnpSM3Joc1ZjZDRxMlN0clI0bVNVbnN2V3RKYUw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 22:42:36 GMT"
         }
       ]
     },
@@ -428,10 +283,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Live updates: Lindsay Clancy trial jury unable to reach unanimous decision - cnn.com",
+          "title": "Lindsay Clancy trial jury unable to reach unanimous decision - CNN",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84eGZnQXZCekxHcFozSE1aMC1PcV9GUTctYmlFNElkbXBUREVVbzR3dDRhUTJ5X1lhaUZPazJReWxyUG8wRnVzSTRuN2pJQXdBVUJnQmgzVnZLQmVOUHNmVFE5b2lkTDhBUjExZmVwallmUQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 17:54:00 GMT"
+          "published": "Tue, 01 Sep 2026 23:06:00 GMT"
         }
       ]
     },
@@ -441,10 +296,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Live updates: Lindsay Clancy trial jury unable to reach unanimous decision - cnn.com",
+          "title": "Lindsay Clancy trial jury unable to reach unanimous decision - CNN",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84eGZnQXZCekxHcFozSE1aMC1PcV9GUTctYmlFNElkbXBUREVVbzR3dDRhUTJ5X1lhaUZPazJReWxyUG8wRnVzSTRuN2pJQXdBVUJnQmgzVnZLQmVOUHNmVFE5b2lkTDhBUjExZmVwallmUQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 17:54:00 GMT"
+          "published": "Tue, 01 Sep 2026 23:06:00 GMT"
         }
       ]
     },
@@ -454,10 +309,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Live updates: Lindsay Clancy trial jury unable to reach unanimous decision - cnn.com",
+          "title": "Lindsay Clancy trial jury unable to reach unanimous decision - CNN",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84eGZnQXZCekxHcFozSE1aMC1PcV9GUTctYmlFNElkbXBUREVVbzR3dDRhUTJ5X1lhaUZPazJReWxyUG8wRnVzSTRuN2pJQXdBVUJnQmgzVnZLQmVOUHNmVFE5b2lkTDhBUjExZmVwallmUQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 17:54:00 GMT"
+          "published": "Tue, 01 Sep 2026 23:06:00 GMT"
         }
       ]
     },
@@ -467,10 +322,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Live updates: Lindsay Clancy trial jury unable to reach unanimous decision - cnn.com",
+          "title": "Lindsay Clancy trial jury unable to reach unanimous decision - CNN",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84eGZnQXZCekxHcFozSE1aMC1PcV9GUTctYmlFNElkbXBUREVVbzR3dDRhUTJ5X1lhaUZPazJReWxyUG8wRnVzSTRuN2pJQXdBVUJnQmgzVnZLQmVOUHNmVFE5b2lkTDhBUjExZmVwallmUQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 17:54:00 GMT"
+          "published": "Tue, 01 Sep 2026 23:06:00 GMT"
         }
       ]
     },
@@ -480,10 +335,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Live updates: Lindsay Clancy trial jury unable to reach unanimous decision - cnn.com",
+          "title": "Lindsay Clancy trial jury unable to reach unanimous decision - CNN",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84eGZnQXZCekxHcFozSE1aMC1PcV9GUTctYmlFNElkbXBUREVVbzR3dDRhUTJ5X1lhaUZPazJReWxyUG8wRnVzSTRuN2pJQXdBVUJnQmgzVnZLQmVOUHNmVFE5b2lkTDhBUjExZmVwallmUQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 17:54:00 GMT"
+          "published": "Tue, 01 Sep 2026 23:06:00 GMT"
         }
       ]
     },
@@ -493,10 +348,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Live updates: Lindsay Clancy trial jury unable to reach unanimous decision - cnn.com",
+          "title": "Lindsay Clancy trial jury unable to reach unanimous decision - CNN",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84eGZnQXZCekxHcFozSE1aMC1PcV9GUTctYmlFNElkbXBUREVVbzR3dDRhUTJ5X1lhaUZPazJReWxyUG8wRnVzSTRuN2pJQXdBVUJnQmgzVnZLQmVOUHNmVFE5b2lkTDhBUjExZmVwallmUQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 17:54:00 GMT"
+          "published": "Tue, 01 Sep 2026 23:06:00 GMT"
         }
       ]
     },
@@ -506,10 +361,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Live updates: Lindsay Clancy trial jury unable to reach unanimous decision - cnn.com",
+          "title": "Lindsay Clancy trial jury unable to reach unanimous decision - CNN",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84eGZnQXZCekxHcFozSE1aMC1PcV9GUTctYmlFNElkbXBUREVVbzR3dDRhUTJ5X1lhaUZPazJReWxyUG8wRnVzSTRuN2pJQXdBVUJnQmgzVnZLQmVOUHNmVFE5b2lkTDhBUjExZmVwallmUQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 17:54:00 GMT"
+          "published": "Tue, 01 Sep 2026 23:06:00 GMT"
         }
       ]
     },
@@ -519,49 +374,88 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Live updates: Lindsay Clancy trial jury unable to reach unanimous decision - cnn.com",
+          "title": "Lindsay Clancy trial jury unable to reach unanimous decision - CNN",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84eGZnQXZCekxHcFozSE1aMC1PcV9GUTctYmlFNElkbXBUREVVbzR3dDRhUTJ5X1lhaUZPazJReWxyUG8wRnVzSTRuN2pJQXdBVUJnQmgzVnZLQmVOUHNmVFE5b2lkTDhBUjExZmVwallmUQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 17:54:00 GMT"
+          "published": "Tue, 01 Sep 2026 23:06:00 GMT"
         }
       ]
     },
     {
-      "word": "Congress",
+      "word": "Passes",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Congress averts a government shutdown ahead of the midterms - NPR",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM2NNRUVvaVJVZ0dKS1Rjdkc2T09mNHhZN2dTVnpqMG1wcS1oSU5zS1czYjJ0WW0wSFlOYTF2SV9ZTUxQZmRPdHVzU0Jua0JGYm9UZjZCay1RVTZ0UjZFOTZiOHkxaVRtMnlnUFl3UVRXRG9jX0tONXNNNHR1TXBweW9la2RkY2ItOU04?oc=5",
+          "title": "House passes short-term funding bill to avoid a shutdown before the election - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaTNfUEU3RlZZZGNSb1BzaFpJSkNHN18zd2JZdF85MmVHNEd6T0wzdEVDWkNfdHhLLUg1WVVDUWlCYzJzYnRhaVp2RHBQOE55SWV5Y2MwbV9ZeFVab04weVZUNjJPNng5Z1FybFRXNkp1Y0JTdzRYSndWOUdyNEtfaDRDcGJQZXpyVU81SGRuZTd3V2ViQXpmSEdQRVhMaW54ZjdmbzVQeWE?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 18:06:33 GMT"
+          "published": "Tue, 01 Sep 2026 19:56:00 GMT"
         }
       ]
     },
     {
-      "word": "Averts",
+      "word": "Short",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Congress averts a government shutdown ahead of the midterms - NPR",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM2NNRUVvaVJVZ0dKS1Rjdkc2T09mNHhZN2dTVnpqMG1wcS1oSU5zS1czYjJ0WW0wSFlOYTF2SV9ZTUxQZmRPdHVzU0Jua0JGYm9UZjZCay1RVTZ0UjZFOTZiOHkxaVRtMnlnUFl3UVRXRG9jX0tONXNNNHR1TXBweW9la2RkY2ItOU04?oc=5",
+          "title": "House passes short-term funding bill to avoid a shutdown before the election - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaTNfUEU3RlZZZGNSb1BzaFpJSkNHN18zd2JZdF85MmVHNEd6T0wzdEVDWkNfdHhLLUg1WVVDUWlCYzJzYnRhaVp2RHBQOE55SWV5Y2MwbV9ZeFVab04weVZUNjJPNng5Z1FybFRXNkp1Y0JTdzRYSndWOUdyNEtfaDRDcGJQZXpyVU81SGRuZTd3V2ViQXpmSEdQRVhMaW54ZjdmbzVQeWE?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 18:06:33 GMT"
+          "published": "Tue, 01 Sep 2026 19:56:00 GMT"
         }
       ]
     },
     {
-      "word": "Government",
+      "word": "Term",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Congress averts a government shutdown ahead of the midterms - NPR",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM2NNRUVvaVJVZ0dKS1Rjdkc2T09mNHhZN2dTVnpqMG1wcS1oSU5zS1czYjJ0WW0wSFlOYTF2SV9ZTUxQZmRPdHVzU0Jua0JGYm9UZjZCay1RVTZ0UjZFOTZiOHkxaVRtMnlnUFl3UVRXRG9jX0tONXNNNHR1TXBweW9la2RkY2ItOU04?oc=5",
+          "title": "House passes short-term funding bill to avoid a shutdown before the election - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaTNfUEU3RlZZZGNSb1BzaFpJSkNHN18zd2JZdF85MmVHNEd6T0wzdEVDWkNfdHhLLUg1WVVDUWlCYzJzYnRhaVp2RHBQOE55SWV5Y2MwbV9ZeFVab04weVZUNjJPNng5Z1FybFRXNkp1Y0JTdzRYSndWOUdyNEtfaDRDcGJQZXpyVU81SGRuZTd3V2ViQXpmSEdQRVhMaW54ZjdmbzVQeWE?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 18:06:33 GMT"
+          "published": "Tue, 01 Sep 2026 19:56:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Funding",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "House passes short-term funding bill to avoid a shutdown before the election - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaTNfUEU3RlZZZGNSb1BzaFpJSkNHN18zd2JZdF85MmVHNEd6T0wzdEVDWkNfdHhLLUg1WVVDUWlCYzJzYnRhaVp2RHBQOE55SWV5Y2MwbV9ZeFVab04weVZUNjJPNng5Z1FybFRXNkp1Y0JTdzRYSndWOUdyNEtfaDRDcGJQZXpyVU81SGRuZTd3V2ViQXpmSEdQRVhMaW54ZjdmbzVQeWE?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 19:56:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Bill",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "House passes short-term funding bill to avoid a shutdown before the election - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaTNfUEU3RlZZZGNSb1BzaFpJSkNHN18zd2JZdF85MmVHNEd6T0wzdEVDWkNfdHhLLUg1WVVDUWlCYzJzYnRhaVp2RHBQOE55SWV5Y2MwbV9ZeFVab04weVZUNjJPNng5Z1FybFRXNkp1Y0JTdzRYSndWOUdyNEtfaDRDcGJQZXpyVU81SGRuZTd3V2ViQXpmSEdQRVhMaW54ZjdmbzVQeWE?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 19:56:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Avoid",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "House passes short-term funding bill to avoid a shutdown before the election - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaTNfUEU3RlZZZGNSb1BzaFpJSkNHN18zd2JZdF85MmVHNEd6T0wzdEVDWkNfdHhLLUg1WVVDUWlCYzJzYnRhaVp2RHBQOE55SWV5Y2MwbV9ZeFVab04weVZUNjJPNng5Z1FybFRXNkp1Y0JTdzRYSndWOUdyNEtfaDRDcGJQZXpyVU81SGRuZTd3V2ViQXpmSEdQRVhMaW54ZjdmbzVQeWE?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 19:56:00 GMT"
         }
       ]
     },
@@ -571,75 +465,127 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Congress averts a government shutdown ahead of the midterms - NPR",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM2NNRUVvaVJVZ0dKS1Rjdkc2T09mNHhZN2dTVnpqMG1wcS1oSU5zS1czYjJ0WW0wSFlOYTF2SV9ZTUxQZmRPdHVzU0Jua0JGYm9UZjZCay1RVTZ0UjZFOTZiOHkxaVRtMnlnUFl3UVRXRG9jX0tONXNNNHR1TXBweW9la2RkY2ItOU04?oc=5",
+          "title": "House passes short-term funding bill to avoid a shutdown before the election - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaTNfUEU3RlZZZGNSb1BzaFpJSkNHN18zd2JZdF85MmVHNEd6T0wzdEVDWkNfdHhLLUg1WVVDUWlCYzJzYnRhaVp2RHBQOE55SWV5Y2MwbV9ZeFVab04weVZUNjJPNng5Z1FybFRXNkp1Y0JTdzRYSndWOUdyNEtfaDRDcGJQZXpyVU81SGRuZTd3V2ViQXpmSEdQRVhMaW54ZjdmbzVQeWE?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 18:06:33 GMT"
+          "published": "Tue, 01 Sep 2026 19:56:00 GMT"
         }
       ]
     },
     {
-      "word": "Ahead",
+      "word": "Election",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Congress averts a government shutdown ahead of the midterms - NPR",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM2NNRUVvaVJVZ0dKS1Rjdkc2T09mNHhZN2dTVnpqMG1wcS1oSU5zS1czYjJ0WW0wSFlOYTF2SV9ZTUxQZmRPdHVzU0Jua0JGYm9UZjZCay1RVTZ0UjZFOTZiOHkxaVRtMnlnUFl3UVRXRG9jX0tONXNNNHR1TXBweW9la2RkY2ItOU04?oc=5",
+          "title": "House passes short-term funding bill to avoid a shutdown before the election - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaTNfUEU3RlZZZGNSb1BzaFpJSkNHN18zd2JZdF85MmVHNEd6T0wzdEVDWkNfdHhLLUg1WVVDUWlCYzJzYnRhaVp2RHBQOE55SWV5Y2MwbV9ZeFVab04weVZUNjJPNng5Z1FybFRXNkp1Y0JTdzRYSndWOUdyNEtfaDRDcGJQZXpyVU81SGRuZTd3V2ViQXpmSEdQRVhMaW54ZjdmbzVQeWE?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 18:06:33 GMT"
+          "published": "Tue, 01 Sep 2026 19:56:00 GMT"
         }
       ]
     },
     {
-      "word": "Midterms",
+      "word": "Square",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Congress averts a government shutdown ahead of the midterms - NPR",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM2NNRUVvaVJVZ0dKS1Rjdkc2T09mNHhZN2dTVnpqMG1wcS1oSU5zS1czYjJ0WW0wSFlOYTF2SV9ZTUxQZmRPdHVzU0Jua0JGYm9UZjZCay1RVTZ0UjZFOTZiOHkxaVRtMnlnUFl3UVRXRG9jX0tONXNNNHR1TXBweW9la2RkY2ItOU04?oc=5",
+          "title": "Times Square stabbing: Victims, suspect identified in deadly stabbings, police-involved shooting - ABC7 New York",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQek1VdTNpM1loNXZxTnFOLWY0aEU4a1NYelBjdGxIRjdQcU54a0M5WU1CLTFhM0FYTWxUSGtjTGx0am5mZC16c2dJY0F1SjNneDFELXh6ZTBrXzN4elRhT3ZGZWxiQnpXNU54WU5IczlaUXNPbjBWSHdwZkVhQWtSWVFxRlpCMzlqdFZ6cWlwTXA1QVZoQmZNdnA3TC1wV3JtYjNNRHZ5dHRuUUJNVm9aa3dTcEV2YTE0THBIQ1NlRkhqQdIBxwFBVV95cUxQWWRVS3hudU10MTV0MUV3S0FZY0RkN0VmXzdweno0Ti1uN2thTHVVTGRnNURKaFpoWS0xV3RXdm1vT0xDS3plOEpPYlhSWHFOcWVFb0s1NFBJbWlqeDA1ZU45MmZ3RUw0ZG5kOXFIcllYX2FiYUk2TmoxVmdBOWZJUDNvcHoyc1hpVVEzQUd0VDBjZllQNllEc2hCYnIwMjBCZ0lBcE9sbXhYMks5UUpUWWRBcDA4cldqbk92Mk0zOW1Kd3IyOWRr?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 18:06:33 GMT"
+          "published": "Tue, 01 Sep 2026 22:41:25 GMT"
         }
       ]
     },
     {
-      "word": "Usps",
+      "word": "Stabbing",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "USPS whistleblower warns new ballot system could fail - Axios",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8xSWQwd0ViOFRzbV9hYnRSRG82QlplejUtQVVwR3otaE53OUdLRnViN3V0U19Id1FqWmxCVm1NTGVISUZSckRaaDRwcE5mR0N4QnBQRG82LXNrUXVaV21sWGstWXVScHhDUlBlcnRmY0RWSklBRlNGa1ZNNDQ?oc=5",
+          "title": "Times Square stabbing: Victims, suspect identified in deadly stabbings, police-involved shooting - ABC7 New York",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQek1VdTNpM1loNXZxTnFOLWY0aEU4a1NYelBjdGxIRjdQcU54a0M5WU1CLTFhM0FYTWxUSGtjTGx0am5mZC16c2dJY0F1SjNneDFELXh6ZTBrXzN4elRhT3ZGZWxiQnpXNU54WU5IczlaUXNPbjBWSHdwZkVhQWtSWVFxRlpCMzlqdFZ6cWlwTXA1QVZoQmZNdnA3TC1wV3JtYjNNRHZ5dHRuUUJNVm9aa3dTcEV2YTE0THBIQ1NlRkhqQdIBxwFBVV95cUxQWWRVS3hudU10MTV0MUV3S0FZY0RkN0VmXzdweno0Ti1uN2thTHVVTGRnNURKaFpoWS0xV3RXdm1vT0xDS3plOEpPYlhSWHFOcWVFb0s1NFBJbWlqeDA1ZU45MmZ3RUw0ZG5kOXFIcllYX2FiYUk2TmoxVmdBOWZJUDNvcHoyc1hpVVEzQUd0VDBjZllQNllEc2hCYnIwMjBCZ0lBcE9sbXhYMks5UUpUWWRBcDA4cldqbk92Mk0zOW1Kd3IyOWRr?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 20:55:38 GMT"
+          "published": "Tue, 01 Sep 2026 22:41:25 GMT"
         }
       ]
     },
     {
-      "word": "Whistleblower",
+      "word": "Victims",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "USPS whistleblower warns new ballot system could fail - Axios",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8xSWQwd0ViOFRzbV9hYnRSRG82QlplejUtQVVwR3otaE53OUdLRnViN3V0U19Id1FqWmxCVm1NTGVISUZSckRaaDRwcE5mR0N4QnBQRG82LXNrUXVaV21sWGstWXVScHhDUlBlcnRmY0RWSklBRlNGa1ZNNDQ?oc=5",
+          "title": "Times Square stabbing: Victims, suspect identified in deadly stabbings, police-involved shooting - ABC7 New York",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQek1VdTNpM1loNXZxTnFOLWY0aEU4a1NYelBjdGxIRjdQcU54a0M5WU1CLTFhM0FYTWxUSGtjTGx0am5mZC16c2dJY0F1SjNneDFELXh6ZTBrXzN4elRhT3ZGZWxiQnpXNU54WU5IczlaUXNPbjBWSHdwZkVhQWtSWVFxRlpCMzlqdFZ6cWlwTXA1QVZoQmZNdnA3TC1wV3JtYjNNRHZ5dHRuUUJNVm9aa3dTcEV2YTE0THBIQ1NlRkhqQdIBxwFBVV95cUxQWWRVS3hudU10MTV0MUV3S0FZY0RkN0VmXzdweno0Ti1uN2thTHVVTGRnNURKaFpoWS0xV3RXdm1vT0xDS3plOEpPYlhSWHFOcWVFb0s1NFBJbWlqeDA1ZU45MmZ3RUw0ZG5kOXFIcllYX2FiYUk2TmoxVmdBOWZJUDNvcHoyc1hpVVEzQUd0VDBjZllQNllEc2hCYnIwMjBCZ0lBcE9sbXhYMks5UUpUWWRBcDA4cldqbk92Mk0zOW1Kd3IyOWRr?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 20:55:38 GMT"
+          "published": "Tue, 01 Sep 2026 22:41:25 GMT"
         }
       ]
     },
     {
-      "word": "Warns",
+      "word": "Suspect",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "USPS whistleblower warns new ballot system could fail - Axios",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8xSWQwd0ViOFRzbV9hYnRSRG82QlplejUtQVVwR3otaE53OUdLRnViN3V0U19Id1FqWmxCVm1NTGVISUZSckRaaDRwcE5mR0N4QnBQRG82LXNrUXVaV21sWGstWXVScHhDUlBlcnRmY0RWSklBRlNGa1ZNNDQ?oc=5",
+          "title": "Times Square stabbing: Victims, suspect identified in deadly stabbings, police-involved shooting - ABC7 New York",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQek1VdTNpM1loNXZxTnFOLWY0aEU4a1NYelBjdGxIRjdQcU54a0M5WU1CLTFhM0FYTWxUSGtjTGx0am5mZC16c2dJY0F1SjNneDFELXh6ZTBrXzN4elRhT3ZGZWxiQnpXNU54WU5IczlaUXNPbjBWSHdwZkVhQWtSWVFxRlpCMzlqdFZ6cWlwTXA1QVZoQmZNdnA3TC1wV3JtYjNNRHZ5dHRuUUJNVm9aa3dTcEV2YTE0THBIQ1NlRkhqQdIBxwFBVV95cUxQWWRVS3hudU10MTV0MUV3S0FZY0RkN0VmXzdweno0Ti1uN2thTHVVTGRnNURKaFpoWS0xV3RXdm1vT0xDS3plOEpPYlhSWHFOcWVFb0s1NFBJbWlqeDA1ZU45MmZ3RUw0ZG5kOXFIcllYX2FiYUk2TmoxVmdBOWZJUDNvcHoyc1hpVVEzQUd0VDBjZllQNllEc2hCYnIwMjBCZ0lBcE9sbXhYMks5UUpUWWRBcDA4cldqbk92Mk0zOW1Kd3IyOWRr?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 20:55:38 GMT"
+          "published": "Tue, 01 Sep 2026 22:41:25 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Identified",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Times Square stabbing: Victims, suspect identified in deadly stabbings, police-involved shooting - ABC7 New York",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQek1VdTNpM1loNXZxTnFOLWY0aEU4a1NYelBjdGxIRjdQcU54a0M5WU1CLTFhM0FYTWxUSGtjTGx0am5mZC16c2dJY0F1SjNneDFELXh6ZTBrXzN4elRhT3ZGZWxiQnpXNU54WU5IczlaUXNPbjBWSHdwZkVhQWtSWVFxRlpCMzlqdFZ6cWlwTXA1QVZoQmZNdnA3TC1wV3JtYjNNRHZ5dHRuUUJNVm9aa3dTcEV2YTE0THBIQ1NlRkhqQdIBxwFBVV95cUxQWWRVS3hudU10MTV0MUV3S0FZY0RkN0VmXzdweno0Ti1uN2thTHVVTGRnNURKaFpoWS0xV3RXdm1vT0xDS3plOEpPYlhSWHFOcWVFb0s1NFBJbWlqeDA1ZU45MmZ3RUw0ZG5kOXFIcllYX2FiYUk2TmoxVmdBOWZJUDNvcHoyc1hpVVEzQUd0VDBjZllQNllEc2hCYnIwMjBCZ0lBcE9sbXhYMks5UUpUWWRBcDA4cldqbk92Mk0zOW1Kd3IyOWRr?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 22:41:25 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Stabbings",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Times Square stabbing: Victims, suspect identified in deadly stabbings, police-involved shooting - ABC7 New York",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQek1VdTNpM1loNXZxTnFOLWY0aEU4a1NYelBjdGxIRjdQcU54a0M5WU1CLTFhM0FYTWxUSGtjTGx0am5mZC16c2dJY0F1SjNneDFELXh6ZTBrXzN4elRhT3ZGZWxiQnpXNU54WU5IczlaUXNPbjBWSHdwZkVhQWtSWVFxRlpCMzlqdFZ6cWlwTXA1QVZoQmZNdnA3TC1wV3JtYjNNRHZ5dHRuUUJNVm9aa3dTcEV2YTE0THBIQ1NlRkhqQdIBxwFBVV95cUxQWWRVS3hudU10MTV0MUV3S0FZY0RkN0VmXzdweno0Ti1uN2thTHVVTGRnNURKaFpoWS0xV3RXdm1vT0xDS3plOEpPYlhSWHFOcWVFb0s1NFBJbWlqeDA1ZU45MmZ3RUw0ZG5kOXFIcllYX2FiYUk2TmoxVmdBOWZJUDNvcHoyc1hpVVEzQUd0VDBjZllQNllEc2hCYnIwMjBCZ0lBcE9sbXhYMks5UUpUWWRBcDA4cldqbk92Mk0zOW1Kd3IyOWRr?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 22:41:25 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Police",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Times Square stabbing: Victims, suspect identified in deadly stabbings, police-involved shooting - ABC7 New York",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQek1VdTNpM1loNXZxTnFOLWY0aEU4a1NYelBjdGxIRjdQcU54a0M5WU1CLTFhM0FYTWxUSGtjTGx0am5mZC16c2dJY0F1SjNneDFELXh6ZTBrXzN4elRhT3ZGZWxiQnpXNU54WU5IczlaUXNPbjBWSHdwZkVhQWtSWVFxRlpCMzlqdFZ6cWlwTXA1QVZoQmZNdnA3TC1wV3JtYjNNRHZ5dHRuUUJNVm9aa3dTcEV2YTE0THBIQ1NlRkhqQdIBxwFBVV95cUxQWWRVS3hudU10MTV0MUV3S0FZY0RkN0VmXzdweno0Ti1uN2thTHVVTGRnNURKaFpoWS0xV3RXdm1vT0xDS3plOEpPYlhSWHFOcWVFb0s1NFBJbWlqeDA1ZU45MmZ3RUw0ZG5kOXFIcllYX2FiYUk2TmoxVmdBOWZJUDNvcHoyc1hpVVEzQUd0VDBjZllQNllEc2hCYnIwMjBCZ0lBcE9sbXhYMks5UUpUWWRBcDA4cldqbk92Mk0zOW1Kd3IyOWRr?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 22:41:25 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Involved",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Times Square stabbing: Victims, suspect identified in deadly stabbings, police-involved shooting - ABC7 New York",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQek1VdTNpM1loNXZxTnFOLWY0aEU4a1NYelBjdGxIRjdQcU54a0M5WU1CLTFhM0FYTWxUSGtjTGx0am5mZC16c2dJY0F1SjNneDFELXh6ZTBrXzN4elRhT3ZGZWxiQnpXNU54WU5IczlaUXNPbjBWSHdwZkVhQWtSWVFxRlpCMzlqdFZ6cWlwTXA1QVZoQmZNdnA3TC1wV3JtYjNNRHZ5dHRuUUJNVm9aa3dTcEV2YTE0THBIQ1NlRkhqQdIBxwFBVV95cUxQWWRVS3hudU10MTV0MUV3S0FZY0RkN0VmXzdweno0Ti1uN2thTHVVTGRnNURKaFpoWS0xV3RXdm1vT0xDS3plOEpPYlhSWHFOcWVFb0s1NFBJbWlqeDA1ZU45MmZ3RUw0ZG5kOXFIcllYX2FiYUk2TmoxVmdBOWZJUDNvcHoyc1hpVVEzQUd0VDBjZllQNllEc2hCYnIwMjBCZ0lBcE9sbXhYMks5UUpUWWRBcDA4cldqbk92Mk0zOW1Kd3IyOWRr?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 22:41:25 GMT"
         }
       ]
     }
