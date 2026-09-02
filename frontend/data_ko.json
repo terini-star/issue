@@ -1,132 +1,94 @@
 {
   "language": "ko",
-  "last_updated": 1788306978.3048105,
+  "last_updated": 1788322488.5481029,
   "count": 40,
   "trends": [
     {
-      "word": "가능",
+      "word": "빙하",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "靑 “김용범, 개각 다음날 사의표명”… 내각-참모 후속 교체 가능성 - donga.com",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uRVRlZ195a2dael9fa0RsanNLaVhaV1c1Z0RsNjZBRjNpeGdBRlVYRzdmNGpYdUNiRkVsbVlsOGF4YzZyb2c4Z2NmUVpoM0kwekx2NUs2dDVaME9FY2xwSkVxaUZEOEdGazFWdzZGZmRfbTh6UXNJ0gFmQVVfeXFMUDhPVjd5Uk5NMWdwcmlhQVRkRDNuTVIyOEJSZTNJRzlHQk1jUl9pUDV1S0RfaHotdGpEdkVnSEFyNEVyMk5OUGEwSkM5T2tSZTVoTjBXdU52WmVaUzRxczU2WnRTSDhB?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 19:30:00 GMT"
-        },
-        {
-          "title": "국정원 \"김주애 사실상 후계자 내정…북미정상회담 언제든 가능\" - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91cUlzTHRENFdNcHRtWVhFWHBfaHBWMjRxZnhLV2lJUkVQcl9iOFJqZzRQMU52cEoyOGJQS01RY2o2c2ZNSWFKV01NZTRPWTlPZ3RxSl9Ya2JCQQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 14:00:08 GMT"
-        }
-      ]
-    },
-    {
-      "word": "한국",
-      "count": 2,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "한국 선사 유조선 등 2척 호르무즈서 피격...미·이란 군사 충돌 속 '불똥' - KBC광주방송",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoSTlUMEpBbXB0R2ZpVDd6RXRVQXRYdjlfdE1xU0pNMEJzaWF3SW9DQ0R4ZUdJUG5Ub1NQVWJ2S2hrNDRuNWF4SURsZzZrVWRMdFNxNjBHdWRQUHFWZTQ0NmR3?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 23:20:02 GMT"
-        },
-        {
-          "title": "[단독]위기의 한국 축구! 홍명보 후임, 임시 사령탑에 '엔리케 오른팔' 로베르토 모레노 '내정'…사상 첫 스페인 감독 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV1RYMVVUQkp2WF82dlNOT1pvNUx0X1lRdEZhdDZ5aHplUDlpMmRNeVRPMUJCSmlaTGM5UnA5enZVZUVYTUZmWjNaeUZBcERKem82amVyMmdWRFhNeHFVcnBrakdPMEFSSlhQS0p5cFZIRFY1S29oUnlObk1tOWhneFVJQQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 01:53:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "이란",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "미, 이란 남부 대규모 공습에 이란 미사일·드론 보복…트럼프 “더 큰 공격 대기” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zdjJSNk5EVW5ManhYSDFFaGlNR2NoVWVsVjNVYnU4MXhxakNZTk5tbFlVS3R0OFdPeDBzYXlVTW1ybG9JVGt4V0NVMTAwNENVUHNkZm1mSWxFSV9DUWVvb1luSWMtMG10MTlpYXhPalhFRUE?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 21:48:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "부실",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "홈플러스 회생 여부…은행권 5.4조 '부실 뇌관' 될라 - 비즈워치",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mSGptSkRTMWd0M2VicWdOUFduWFp6RG1rS29Uc25nYXRkNWY4N1BLWS1VVDlkb0xsbGJ1bnMxMlFaQ0pFVmNIWkJWZkhac2lFLXVaaGF0U1Z5eVRDQ2xzZ3pHZ0Z3SmVMcDRZ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 23:22:03 GMT"
-        },
-        {
-          "title": "중소기업·개인사업자 부실 '눈덩이'...은행권 건전성 '빨간불' - 파이낸셜포스트",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiZi1OMl91dUt0MnZwdGNSMnlTbnBVN2VEekVGakZfdTZ6ZTZBRHNiZ2ljWG5YS0k4MF9DeFNwNkdLMnMtQnM2c3pqWlFyRFI4VmNhc19lVG9LM0tZWmdkbXVLcUFrUEw0Q053SWROT3lNWjNa?oc=5",
+          "title": "12년 전 히말라야 ‘빙하 쓰나미’ 예고한 PD···“1000명 희생 경고 현실 안 되길 바랐지만” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxQlpOYWc0Y1lUTjJoUzFkdWJQbnZseXRGQWxxUGRuMkRONHZ6N09ZRmNIQXhWNnhIRGQ2WlRjZDNGUW1jX3NpeFJkWWRLdlFaU3NQaEY0NUlNUdIBX0FVX3lxTE5STWlLSkRFTm84VXlmZVNvSC1aOFlZb2lndDc2QWJMX2VCVGRfeHEyX3ZPZEJqY0xXb1BRaDNnd0FSRHZpcURReURnNWxYTVVBb2FiZTRfY2pIOFBZS1dz?oc=5",
           "source": "Google News",
           "published": "Tue, 01 Sep 2026 21:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "기능",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "일상 속 필요한 기능과 성능 갖춘 삼성 '뉴 갤럭시 북6' - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9INnVPS2l6MVBtRWNMOW1fLUwzTjVZY1BzSmYtd1E2dnZaUTBFUkhycHE4VmRIYWFBVkNGN2FraGltOEExNkJzUE85MEVKcDZraEQ1N3VzY2VSSXJPTG8xeA?oc=5",
-          "source": "Google News",
-          "published": "Mon, 31 Aug 2026 23:19:00 GMT"
         },
         {
-          "title": "신장이식 환자 운동하면 기능 오래 유지ㆍ사망 위험 감소 - 메드월드뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RNHZDd1ptWmxUUWU2REx6SzlUNV9sanBhdEJhVnJKVFZaUldoakdWOE1LU1doUVYtVUpUci1zQmlJbzkxZzk5YUVBdWdTT2hCRGVIS3MwdXJJVXZKaVdUVXRyNzE3aUE?oc=5",
+          "title": "\"빙하 붕괴 며칠 전부터 징후‥구할 수 있었다\" 국제연구팀 보고서 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMS3Awb01ScldFcGhkZ1hFcDRfTjJ0dGcza0tHNk4zNXVvU3JRcEo5UGhpVGpTNWY3MDRsaG9mVGJEenlXTUF6akxVNW55aWswLW9wQzFQNF9fTEdYbWY3ZWYwZU5wb3VRUjNCLTVMS25hSE1E0gF0QVVfeXFMUHUxOVlTR0xCb3pKYjZKOG1wMmsxZWVrWXpwWDF5bUYwbk5IOFVlQl9tcXdyb0owNkFodnNkMENHaFdwMk1yTG1DNVdUTmtYRGZ6MzJMR2s3VlRiYTQ4QTdmajUtR25mRUVsOVF0bGMyZk16VEk?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 02:15:52 GMT"
+          "published": "Wed, 02 Sep 2026 01:54:48 GMT"
         }
       ]
     },
     {
-      "word": "감독",
+      "word": "경고",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[단독]위기의 한국 축구! 홍명보 후임, 임시 사령탑에 '엔리케 오른팔' 로베르토 모레노 '내정'…사상 첫 스페인 감독 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV1RYMVVUQkp2WF82dlNOT1pvNUx0X1lRdEZhdDZ5aHplUDlpMmRNeVRPMUJCSmlaTGM5UnA5enZVZUVYTUZmWjNaeUZBcERKem82amVyMmdWRFhNeHFVcnBrakdPMEFSSlhQS0p5cFZIRFY1S29oUnlObk1tOWhneFVJQQ?oc=5",
+          "title": "12년 전 히말라야 ‘빙하 쓰나미’ 예고한 PD···“1000명 희생 경고 현실 안 되길 바랐지만” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxQlpOYWc0Y1lUTjJoUzFkdWJQbnZseXRGQWxxUGRuMkRONHZ6N09ZRmNIQXhWNnhIRGQ2WlRjZDNGUW1jX3NpeFJkWWRLdlFaU3NQaEY0NUlNUdIBX0FVX3lxTE5STWlLSkRFTm84VXlmZVNvSC1aOFlZb2lndDc2QWJMX2VCVGRfeHEyX3ZPZEJqY0xXb1BRaDNnd0FSRHZpcURReURnNWxYTVVBb2FiZTRfY2pIOFBZS1dz?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 01:53:00 GMT"
+          "published": "Tue, 01 Sep 2026 21:00:00 GMT"
         },
         {
-          "title": "[핌in잠실] LG 염경엽 감독 \"마무리는 손주영, 고우석은 '2이닝 필승조' 활용\" - newspim.com",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tbHItVUNsUmw5Y3QyTlBwdFNFcXM5LUNEMUV1b1AtTkVvSWZKQ2Jna01VZlktYWxOU3REdmtXdXk0UndRUUhPbExUYkFJdlZiTm1NYlFMakxZWDFz?oc=5",
+          "title": "유성선병원 배민욱 전문의 \"가슴 통증 없어도 위험...일상의 경고 신호\" - 충청뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xaTZHWkQ2NnFCc29QSHRKbll4OEdsNlBwU2ZDOHRFVTEtWlRKUl9OUGJHcXJITHdrT2RuYWlJTXFCYWI3Ym9nSjhfSHpHNmJ5TkJoSmF0RWpXTzQyM0FfVU5MMTJ6dGc5Tm0zaA?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 21:53:00 GMT"
+          "published": "Wed, 02 Sep 2026 01:58:43 GMT"
         }
       ]
     },
     {
-      "word": "환자",
+      "word": "재개",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "중앙대병원, 난소암 환자 맞춤 치료 오가노이드 배양법 개발 - khanews.com",
+          "title": "미·이란 교전 재개에 국제유가 급등…석유株 동반 강세 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iaU9fcDQxVDRnV1dlMTVCZUNGZzVQZHYxOXVQQzFmc2Z1SUZNd1BiTXkxNFhOQ2xkeFdIUUhad0FTdkVaT0laY2h1YTU3TF9SOUxZWHV0T2dkdw?oc=5",
+          "source": "Google News",
+          "published": "Wed, 02 Sep 2026 00:16:55 GMT"
+        },
+        {
+          "title": "코스피 6671선 하락 출발…美·이란 공습 재개에 유가·금리 급등 영향 - 전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1EWXdnYXM4cUU0cElUaWR4STBUcUxzcTRlclFvREhVNW0yX0U1NDNNaDE3UWRMTmdQVjJuNFUtbmRhM2pld3hCTTlqaU4tUQ?oc=5",
+          "source": "Google News",
+          "published": "Wed, 02 Sep 2026 00:46:05 GMT"
+        }
+      ]
+    },
+    {
+      "word": "무선",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "2.4GHz 무선 동글 분실 염려 해소... 콕스 무선 게이밍 헤드셋 'CX-5' - ilovepc.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FZzhjYmdnUE9LenI5MEtGb1lZd3VjNE8tNlc2RFRudl9ZUU5GcjdNblo1WEtVUW4wMkd5eWpKTFFjMFJmdlVPZUxFcEZJWjkzNnIxa3Q2cjFjcVpKYUgzclQxNkFYRTYtWnlR?oc=5",
+          "source": "Google News",
+          "published": "Wed, 02 Sep 2026 02:42:31 GMT"
+        }
+      ]
+    },
+    {
+      "word": "치료",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "\"기억이 없어진다\"던 치료를 28번… 여에스더가 받은 전기경련치료란? - 하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mX19PMk5va0hTdU9XMW5zZWdNbHI4MDRHdVFGMDdsT2c5QXBQRjhibTdUcmRualJRSUwtNUZwRnlSZFhXNUJjMUVySFAzaGZHV1BVcGhLSzRKdm4yUkI0c3F1bjJpdzhlbEE?oc=5",
+          "source": "Google News",
+          "published": "Wed, 02 Sep 2026 02:00:00 GMT"
+        },
+        {
+          "title": "중앙대병원, 난소암 환자 맞춤 치료 오가노이드 배양법 개발 - 병원신문",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HV2MxMnNIcnFmeUV5WElXS05KbnhtRnBucU9jVjd5ckI3djBuVWFkYUJ5LTlzSFd0Vy1KM2dERmlzT0ctR3Bzem02MzV5MF9qaUVpTVk4YjFWd1FCRDJnenJvWVNlOTlsWlE?oc=5",
           "source": "Google News",
           "published": "Tue, 01 Sep 2026 09:48:04 GMT"
-        },
-        {
-          "title": "신장이식 환자 운동하면 기능 오래 유지ㆍ사망 위험 감소 - 메드월드뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RNHZDd1ptWmxUUWU2REx6SzlUNV9sanBhdEJhVnJKVFZaUldoakdWOE1LU1doUVYtVUpUci1zQmlJbzkxZzk5YUVBdWdTT2hCRGVIS3MwdXJJVXZKaVdUVXRyNzE3aUE?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 02:15:52 GMT"
         }
       ]
     },
@@ -136,146 +98,269 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "신장이식 환자 운동하면 기능 오래 유지ㆍ사망 위험 감소 - 메드월드뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RNHZDd1ptWmxUUWU2REx6SzlUNV9sanBhdEJhVnJKVFZaUldoakdWOE1LU1doUVYtVUpUci1zQmlJbzkxZzk5YUVBdWdTT2hCRGVIS3MwdXJJVXZKaVdUVXRyNzE3aUE?oc=5",
+          "title": "뇌졸중 위험 크지 않은 심방세동 환자도 혈전 예방해야 - 후생신보",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5xbWdHc0hjWEJwRUhIZjk5RExNazVCRklzcUI4Z2U0TlIyLXY0dmN4WmRnVEVKM2JrMGtlTHdocWpEZ2ND?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 02:15:52 GMT"
+          "published": "Wed, 02 Sep 2026 01:03:00 GMT"
         },
         {
-          "title": "알츠하이머 위험 유전자, 치매 전부터 면역계 교란...“저탄고지 식단에 완화” - 디멘시아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uUW5kQWxHLVZIWDZvQ3FnUE9ybVFybXU5OHRfYzA1VDJVVGF1Z3VCalhhYXYxZFVzQlpKRlRoXzM1VEotYnZhR3ZRdlRZSnNTOWRWb2ZpSGE0c3lGazk0WDFvbUkwa3ZERlh6cGwyUzVhQQ?oc=5",
+          "title": "대상포진 백신 맞았더니 심혈관질환 위험 줄었다 - DongA Science",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sTHI1REtubmczdDZzaEZuNlMwcGw4cU1KcE9Xbjc3RWVnQWxtay1ZY09FVGJoM0FBX1hNSm9IaGNEMks4Z2NlQjRUenN0a0tQN1RkMA?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 10:03:25 GMT"
+          "published": "Thu, 27 Aug 2026 07:14:00 GMT"
         }
       ]
     },
     {
-      "word": "김용범",
-      "count": 1,
+      "word": "환자",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "靑 “김용범, 개각 다음날 사의표명”… 내각-참모 후속 교체 가능성 - donga.com",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uRVRlZ195a2dael9fa0RsanNLaVhaV1c1Z0RsNjZBRjNpeGdBRlVYRzdmNGpYdUNiRkVsbVlsOGF4YzZyb2c4Z2NmUVpoM0kwekx2NUs2dDVaME9FY2xwSkVxaUZEOEdGazFWdzZGZmRfbTh6UXNJ0gFmQVVfeXFMUDhPVjd5Uk5NMWdwcmlhQVRkRDNuTVIyOEJSZTNJRzlHQk1jUl9pUDV1S0RfaHotdGpEdkVnSEFyNEVyMk5OUGEwSkM5T2tSZTVoTjBXdU52WmVaUzRxczU2WnRTSDhB?oc=5",
+          "title": "뇌졸중 위험 크지 않은 심방세동 환자도 혈전 예방해야 - 후생신보",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5xbWdHc0hjWEJwRUhIZjk5RExNazVCRklzcUI4Z2U0TlIyLXY0dmN4WmRnVEVKM2JrMGtlTHdocWpEZ2ND?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 19:30:00 GMT"
+          "published": "Wed, 02 Sep 2026 01:03:00 GMT"
+        },
+        {
+          "title": "중앙대병원, 난소암 환자 맞춤 치료 오가노이드 배양법 개발 - 병원신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HV2MxMnNIcnFmeUV5WElXS05KbnhtRnBucU9jVjd5ckI3djBuVWFkYUJ5LTlzSFd0Vy1KM2dERmlzT0ctR3Bzem02MzV5MF9qaUVpTVk4YjFWd1FCRDJnenJvWVNlOTlsWlE?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 09:48:04 GMT"
         }
       ]
     },
     {
-      "word": "개각",
+      "word": "송영길",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "靑 “김용범, 개각 다음날 사의표명”… 내각-참모 후속 교체 가능성 - donga.com",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uRVRlZ195a2dael9fa0RsanNLaVhaV1c1Z0RsNjZBRjNpeGdBRlVYRzdmNGpYdUNiRkVsbVlsOGF4YzZyb2c4Z2NmUVpoM0kwekx2NUs2dDVaME9FY2xwSkVxaUZEOEdGazFWdzZGZmRfbTh6UXNJ0gFmQVVfeXFMUDhPVjd5Uk5NMWdwcmlhQVRkRDNuTVIyOEJSZTNJRzlHQk1jUl9pUDV1S0RfaHotdGpEdkVnSEFyNEVyMk5OUGEwSkM5T2tSZTVoTjBXdU52WmVaUzRxczU2WnRTSDhB?oc=5",
+          "title": "송영길 “용혜인 장관 임명, 2030에 소구력?…민심 수용 쉽잖을 것” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LRHdkM3FxNlFWOXIzeG95Z2RGWVE2R0EtMDNoWlpBU1NGVnZYNXdvaHJYRHk3TzBfdmxNMzEwUExZTGFrekVzZUlXSjBwMkJlMkVOYmpZNGg5RGZMYzRWRzk1Y1RPNXlLeUJ0UXlVOXRXbS1k?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 19:30:00 GMT"
+          "published": "Wed, 02 Sep 2026 02:18:00 GMT"
         }
       ]
     },
     {
-      "word": "다음날",
+      "word": "용혜인",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "靑 “김용범, 개각 다음날 사의표명”… 내각-참모 후속 교체 가능성 - donga.com",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uRVRlZ195a2dael9fa0RsanNLaVhaV1c1Z0RsNjZBRjNpeGdBRlVYRzdmNGpYdUNiRkVsbVlsOGF4YzZyb2c4Z2NmUVpoM0kwekx2NUs2dDVaME9FY2xwSkVxaUZEOEdGazFWdzZGZmRfbTh6UXNJ0gFmQVVfeXFMUDhPVjd5Uk5NMWdwcmlhQVRkRDNuTVIyOEJSZTNJRzlHQk1jUl9pUDV1S0RfaHotdGpEdkVnSEFyNEVyMk5OUGEwSkM5T2tSZTVoTjBXdU52WmVaUzRxczU2WnRTSDhB?oc=5",
+          "title": "송영길 “용혜인 장관 임명, 2030에 소구력?…민심 수용 쉽잖을 것” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LRHdkM3FxNlFWOXIzeG95Z2RGWVE2R0EtMDNoWlpBU1NGVnZYNXdvaHJYRHk3TzBfdmxNMzEwUExZTGFrekVzZUlXSjBwMkJlMkVOYmpZNGg5RGZMYzRWRzk1Y1RPNXlLeUJ0UXlVOXRXbS1k?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 19:30:00 GMT"
+          "published": "Wed, 02 Sep 2026 02:18:00 GMT"
         }
       ]
     },
     {
-      "word": "사의표명",
+      "word": "장관",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "靑 “김용범, 개각 다음날 사의표명”… 내각-참모 후속 교체 가능성 - donga.com",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uRVRlZ195a2dael9fa0RsanNLaVhaV1c1Z0RsNjZBRjNpeGdBRlVYRzdmNGpYdUNiRkVsbVlsOGF4YzZyb2c4Z2NmUVpoM0kwekx2NUs2dDVaME9FY2xwSkVxaUZEOEdGazFWdzZGZmRfbTh6UXNJ0gFmQVVfeXFMUDhPVjd5Uk5NMWdwcmlhQVRkRDNuTVIyOEJSZTNJRzlHQk1jUl9pUDV1S0RfaHotdGpEdkVnSEFyNEVyMk5OUGEwSkM5T2tSZTVoTjBXdU52WmVaUzRxczU2WnRTSDhB?oc=5",
+          "title": "송영길 “용혜인 장관 임명, 2030에 소구력?…민심 수용 쉽잖을 것” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LRHdkM3FxNlFWOXIzeG95Z2RGWVE2R0EtMDNoWlpBU1NGVnZYNXdvaHJYRHk3TzBfdmxNMzEwUExZTGFrekVzZUlXSjBwMkJlMkVOYmpZNGg5RGZMYzRWRzk1Y1RPNXlLeUJ0UXlVOXRXbS1k?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 19:30:00 GMT"
+          "published": "Wed, 02 Sep 2026 02:18:00 GMT"
         }
       ]
     },
     {
-      "word": "내각참모",
+      "word": "임명",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "靑 “김용범, 개각 다음날 사의표명”… 내각-참모 후속 교체 가능성 - donga.com",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uRVRlZ195a2dael9fa0RsanNLaVhaV1c1Z0RsNjZBRjNpeGdBRlVYRzdmNGpYdUNiRkVsbVlsOGF4YzZyb2c4Z2NmUVpoM0kwekx2NUs2dDVaME9FY2xwSkVxaUZEOEdGazFWdzZGZmRfbTh6UXNJ0gFmQVVfeXFMUDhPVjd5Uk5NMWdwcmlhQVRkRDNuTVIyOEJSZTNJRzlHQk1jUl9pUDV1S0RfaHotdGpEdkVnSEFyNEVyMk5OUGEwSkM5T2tSZTVoTjBXdU52WmVaUzRxczU2WnRTSDhB?oc=5",
+          "title": "송영길 “용혜인 장관 임명, 2030에 소구력?…민심 수용 쉽잖을 것” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LRHdkM3FxNlFWOXIzeG95Z2RGWVE2R0EtMDNoWlpBU1NGVnZYNXdvaHJYRHk3TzBfdmxNMzEwUExZTGFrekVzZUlXSjBwMkJlMkVOYmpZNGg5RGZMYzRWRzk1Y1RPNXlLeUJ0UXlVOXRXbS1k?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 19:30:00 GMT"
+          "published": "Wed, 02 Sep 2026 02:18:00 GMT"
         }
       ]
     },
     {
-      "word": "후속",
+      "word": "2030",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "靑 “김용범, 개각 다음날 사의표명”… 내각-참모 후속 교체 가능성 - donga.com",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uRVRlZ195a2dael9fa0RsanNLaVhaV1c1Z0RsNjZBRjNpeGdBRlVYRzdmNGpYdUNiRkVsbVlsOGF4YzZyb2c4Z2NmUVpoM0kwekx2NUs2dDVaME9FY2xwSkVxaUZEOEdGazFWdzZGZmRfbTh6UXNJ0gFmQVVfeXFMUDhPVjd5Uk5NMWdwcmlhQVRkRDNuTVIyOEJSZTNJRzlHQk1jUl9pUDV1S0RfaHotdGpEdkVnSEFyNEVyMk5OUGEwSkM5T2tSZTVoTjBXdU52WmVaUzRxczU2WnRTSDhB?oc=5",
+          "title": "송영길 “용혜인 장관 임명, 2030에 소구력?…민심 수용 쉽잖을 것” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LRHdkM3FxNlFWOXIzeG95Z2RGWVE2R0EtMDNoWlpBU1NGVnZYNXdvaHJYRHk3TzBfdmxNMzEwUExZTGFrekVzZUlXSjBwMkJlMkVOYmpZNGg5RGZMYzRWRzk1Y1RPNXlLeUJ0UXlVOXRXbS1k?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 19:30:00 GMT"
+          "published": "Wed, 02 Sep 2026 02:18:00 GMT"
         }
       ]
     },
     {
-      "word": "교체",
+      "word": "소구력민심",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "靑 “김용범, 개각 다음날 사의표명”… 내각-참모 후속 교체 가능성 - donga.com",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uRVRlZ195a2dael9fa0RsanNLaVhaV1c1Z0RsNjZBRjNpeGdBRlVYRzdmNGpYdUNiRkVsbVlsOGF4YzZyb2c4Z2NmUVpoM0kwekx2NUs2dDVaME9FY2xwSkVxaUZEOEdGazFWdzZGZmRfbTh6UXNJ0gFmQVVfeXFMUDhPVjd5Uk5NMWdwcmlhQVRkRDNuTVIyOEJSZTNJRzlHQk1jUl9pUDV1S0RfaHotdGpEdkVnSEFyNEVyMk5OUGEwSkM5T2tSZTVoTjBXdU52WmVaUzRxczU2WnRTSDhB?oc=5",
+          "title": "송영길 “용혜인 장관 임명, 2030에 소구력?…민심 수용 쉽잖을 것” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LRHdkM3FxNlFWOXIzeG95Z2RGWVE2R0EtMDNoWlpBU1NGVnZYNXdvaHJYRHk3TzBfdmxNMzEwUExZTGFrekVzZUlXSjBwMkJlMkVOYmpZNGg5RGZMYzRWRzk1Y1RPNXlLeUJ0UXlVOXRXbS1k?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 19:30:00 GMT"
+          "published": "Wed, 02 Sep 2026 02:18:00 GMT"
         }
       ]
     },
     {
-      "word": "선사",
+      "word": "수용",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "한국 선사 유조선 등 2척 호르무즈서 피격...미·이란 군사 충돌 속 '불똥' - KBC광주방송",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoSTlUMEpBbXB0R2ZpVDd6RXRVQXRYdjlfdE1xU0pNMEJzaWF3SW9DQ0R4ZUdJUG5Ub1NQVWJ2S2hrNDRuNWF4SURsZzZrVWRMdFNxNjBHdWRQUHFWZTQ0NmR3?oc=5",
+          "title": "송영길 “용혜인 장관 임명, 2030에 소구력?…민심 수용 쉽잖을 것” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LRHdkM3FxNlFWOXIzeG95Z2RGWVE2R0EtMDNoWlpBU1NGVnZYNXdvaHJYRHk3TzBfdmxNMzEwUExZTGFrekVzZUlXSjBwMkJlMkVOYmpZNGg5RGZMYzRWRzk1Y1RPNXlLeUJ0UXlVOXRXbS1k?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 23:20:02 GMT"
+          "published": "Wed, 02 Sep 2026 02:18:00 GMT"
         }
       ]
     },
     {
-      "word": "유조선",
+      "word": "쉽잖",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "한국 선사 유조선 등 2척 호르무즈서 피격...미·이란 군사 충돌 속 '불똥' - KBC광주방송",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoSTlUMEpBbXB0R2ZpVDd6RXRVQXRYdjlfdE1xU0pNMEJzaWF3SW9DQ0R4ZUdJUG5Ub1NQVWJ2S2hrNDRuNWF4SURsZzZrVWRMdFNxNjBHdWRQUHFWZTQ0NmR3?oc=5",
+          "title": "송영길 “용혜인 장관 임명, 2030에 소구력?…민심 수용 쉽잖을 것” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LRHdkM3FxNlFWOXIzeG95Z2RGWVE2R0EtMDNoWlpBU1NGVnZYNXdvaHJYRHk3TzBfdmxNMzEwUExZTGFrekVzZUlXSjBwMkJlMkVOYmpZNGg5RGZMYzRWRzk1Y1RPNXlLeUJ0UXlVOXRXbS1k?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 23:20:02 GMT"
+          "published": "Wed, 02 Sep 2026 02:18:00 GMT"
         }
       ]
     },
     {
-      "word": "2척",
+      "word": "12년",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "한국 선사 유조선 등 2척 호르무즈서 피격...미·이란 군사 충돌 속 '불똥' - KBC광주방송",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoSTlUMEpBbXB0R2ZpVDd6RXRVQXRYdjlfdE1xU0pNMEJzaWF3SW9DQ0R4ZUdJUG5Ub1NQVWJ2S2hrNDRuNWF4SURsZzZrVWRMdFNxNjBHdWRQUHFWZTQ0NmR3?oc=5",
+          "title": "12년 전 히말라야 ‘빙하 쓰나미’ 예고한 PD···“1000명 희생 경고 현실 안 되길 바랐지만” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxQlpOYWc0Y1lUTjJoUzFkdWJQbnZseXRGQWxxUGRuMkRONHZ6N09ZRmNIQXhWNnhIRGQ2WlRjZDNGUW1jX3NpeFJkWWRLdlFaU3NQaEY0NUlNUdIBX0FVX3lxTE5STWlLSkRFTm84VXlmZVNvSC1aOFlZb2lndDc2QWJMX2VCVGRfeHEyX3ZPZEJqY0xXb1BRaDNnd0FSRHZpcURReURnNWxYTVVBb2FiZTRfY2pIOFBZS1dz?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 23:20:02 GMT"
+          "published": "Tue, 01 Sep 2026 21:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "히말라야",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "12년 전 히말라야 ‘빙하 쓰나미’ 예고한 PD···“1000명 희생 경고 현실 안 되길 바랐지만” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxQlpOYWc0Y1lUTjJoUzFkdWJQbnZseXRGQWxxUGRuMkRONHZ6N09ZRmNIQXhWNnhIRGQ2WlRjZDNGUW1jX3NpeFJkWWRLdlFaU3NQaEY0NUlNUdIBX0FVX3lxTE5STWlLSkRFTm84VXlmZVNvSC1aOFlZb2lndDc2QWJMX2VCVGRfeHEyX3ZPZEJqY0xXb1BRaDNnd0FSRHZpcURReURnNWxYTVVBb2FiZTRfY2pIOFBZS1dz?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 21:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "쓰나미",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "12년 전 히말라야 ‘빙하 쓰나미’ 예고한 PD···“1000명 희생 경고 현실 안 되길 바랐지만” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxQlpOYWc0Y1lUTjJoUzFkdWJQbnZseXRGQWxxUGRuMkRONHZ6N09ZRmNIQXhWNnhIRGQ2WlRjZDNGUW1jX3NpeFJkWWRLdlFaU3NQaEY0NUlNUdIBX0FVX3lxTE5STWlLSkRFTm84VXlmZVNvSC1aOFlZb2lndDc2QWJMX2VCVGRfeHEyX3ZPZEJqY0xXb1BRaDNnd0FSRHZpcURReURnNWxYTVVBb2FiZTRfY2pIOFBZS1dz?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 21:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "예고",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "12년 전 히말라야 ‘빙하 쓰나미’ 예고한 PD···“1000명 희생 경고 현실 안 되길 바랐지만” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxQlpOYWc0Y1lUTjJoUzFkdWJQbnZseXRGQWxxUGRuMkRONHZ6N09ZRmNIQXhWNnhIRGQ2WlRjZDNGUW1jX3NpeFJkWWRLdlFaU3NQaEY0NUlNUdIBX0FVX3lxTE5STWlLSkRFTm84VXlmZVNvSC1aOFlZb2lndDc2QWJMX2VCVGRfeHEyX3ZPZEJqY0xXb1BRaDNnd0FSRHZpcURReURnNWxYTVVBb2FiZTRfY2pIOFBZS1dz?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 21:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "PD1000명",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "12년 전 히말라야 ‘빙하 쓰나미’ 예고한 PD···“1000명 희생 경고 현실 안 되길 바랐지만” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxQlpOYWc0Y1lUTjJoUzFkdWJQbnZseXRGQWxxUGRuMkRONHZ6N09ZRmNIQXhWNnhIRGQ2WlRjZDNGUW1jX3NpeFJkWWRLdlFaU3NQaEY0NUlNUdIBX0FVX3lxTE5STWlLSkRFTm84VXlmZVNvSC1aOFlZb2lndDc2QWJMX2VCVGRfeHEyX3ZPZEJqY0xXb1BRaDNnd0FSRHZpcURReURnNWxYTVVBb2FiZTRfY2pIOFBZS1dz?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 21:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "희생",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "12년 전 히말라야 ‘빙하 쓰나미’ 예고한 PD···“1000명 희생 경고 현실 안 되길 바랐지만” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxQlpOYWc0Y1lUTjJoUzFkdWJQbnZseXRGQWxxUGRuMkRONHZ6N09ZRmNIQXhWNnhIRGQ2WlRjZDNGUW1jX3NpeFJkWWRLdlFaU3NQaEY0NUlNUdIBX0FVX3lxTE5STWlLSkRFTm84VXlmZVNvSC1aOFlZb2lndDc2QWJMX2VCVGRfeHEyX3ZPZEJqY0xXb1BRaDNnd0FSRHZpcURReURnNWxYTVVBb2FiZTRfY2pIOFBZS1dz?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 21:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "현실",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "12년 전 히말라야 ‘빙하 쓰나미’ 예고한 PD···“1000명 희생 경고 현실 안 되길 바랐지만” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxQlpOYWc0Y1lUTjJoUzFkdWJQbnZseXRGQWxxUGRuMkRONHZ6N09ZRmNIQXhWNnhIRGQ2WlRjZDNGUW1jX3NpeFJkWWRLdlFaU3NQaEY0NUlNUdIBX0FVX3lxTE5STWlLSkRFTm84VXlmZVNvSC1aOFlZb2lndDc2QWJMX2VCVGRfeHEyX3ZPZEJqY0xXb1BRaDNnd0FSRHZpcURReURnNWxYTVVBb2FiZTRfY2pIOFBZS1dz?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 21:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "되길",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "12년 전 히말라야 ‘빙하 쓰나미’ 예고한 PD···“1000명 희생 경고 현실 안 되길 바랐지만” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxQlpOYWc0Y1lUTjJoUzFkdWJQbnZseXRGQWxxUGRuMkRONHZ6N09ZRmNIQXhWNnhIRGQ2WlRjZDNGUW1jX3NpeFJkWWRLdlFaU3NQaEY0NUlNUdIBX0FVX3lxTE5STWlLSkRFTm84VXlmZVNvSC1aOFlZb2lndDc2QWJMX2VCVGRfeHEyX3ZPZEJqY0xXb1BRaDNnd0FSRHZpcURReURnNWxYTVVBb2FiZTRfY2pIOFBZS1dz?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 21:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "바랐지",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "12년 전 히말라야 ‘빙하 쓰나미’ 예고한 PD···“1000명 희생 경고 현실 안 되길 바랐지만” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxQlpOYWc0Y1lUTjJoUzFkdWJQbnZseXRGQWxxUGRuMkRONHZ6N09ZRmNIQXhWNnhIRGQ2WlRjZDNGUW1jX3NpeFJkWWRLdlFaU3NQaEY0NUlNUdIBX0FVX3lxTE5STWlLSkRFTm84VXlmZVNvSC1aOFlZb2lndDc2QWJMX2VCVGRfeHEyX3ZPZEJqY0xXb1BRaDNnd0FSRHZpcURReURnNWxYTVVBb2FiZTRfY2pIOFBZS1dz?oc=5",
+          "source": "Google News",
+          "published": "Tue, 01 Sep 2026 21:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "해운협회",
+      "count": 1,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "해운협회 \"호르무즈서 피격된 선박, 장금상선 소유 아니야\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VdE9mVEY0NDI5d1g5TjNLTjEwTVMwbkVJczdzUENrMmZ4ZThLOHNUWE9CeGxMLVM3RVNoajNpUFBIQV9PLTV0bk5sX3VjbW1ZMDlVUVp6UVQyb1NqcUNONnFuQV8zWW5IYjdBLTdFVjZmQWdQ0gF0QVVfeXFMUFY0MUIyTVZuSEpGYnpVckZaZkV4aENrenVWS1hsRklGM1JVMUloX1VwcHBva3YyN2lGVHJmbWs5b3h2czZmWGluUlA4SGFIcDlEUWRKSkpGbVgwNXNjMHA2NDdYUExXUHZTZlBncl96VmdwV0k?oc=5",
+          "source": "Google News",
+          "published": "Wed, 02 Sep 2026 02:30:19 GMT"
         }
       ]
     },
@@ -285,283 +370,192 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "한국 선사 유조선 등 2척 호르무즈서 피격...미·이란 군사 충돌 속 '불똥' - KBC광주방송",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoSTlUMEpBbXB0R2ZpVDd6RXRVQXRYdjlfdE1xU0pNMEJzaWF3SW9DQ0R4ZUdJUG5Ub1NQVWJ2S2hrNDRuNWF4SURsZzZrVWRMdFNxNjBHdWRQUHFWZTQ0NmR3?oc=5",
+          "title": "해운협회 \"호르무즈서 피격된 선박, 장금상선 소유 아니야\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VdE9mVEY0NDI5d1g5TjNLTjEwTVMwbkVJczdzUENrMmZ4ZThLOHNUWE9CeGxMLVM3RVNoajNpUFBIQV9PLTV0bk5sX3VjbW1ZMDlVUVp6UVQyb1NqcUNONnFuQV8zWW5IYjdBLTdFVjZmQWdQ0gF0QVVfeXFMUFY0MUIyTVZuSEpGYnpVckZaZkV4aENrenVWS1hsRklGM1JVMUloX1VwcHBva3YyN2lGVHJmbWs5b3h2czZmWGluUlA4SGFIcDlEUWRKSkpGbVgwNXNjMHA2NDdYUExXUHZTZlBncl96VmdwV0k?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 23:20:02 GMT"
+          "published": "Wed, 02 Sep 2026 02:30:19 GMT"
         }
       ]
     },
     {
-      "word": "피격미이란",
+      "word": "피격",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "한국 선사 유조선 등 2척 호르무즈서 피격...미·이란 군사 충돌 속 '불똥' - KBC광주방송",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoSTlUMEpBbXB0R2ZpVDd6RXRVQXRYdjlfdE1xU0pNMEJzaWF3SW9DQ0R4ZUdJUG5Ub1NQVWJ2S2hrNDRuNWF4SURsZzZrVWRMdFNxNjBHdWRQUHFWZTQ0NmR3?oc=5",
+          "title": "해운협회 \"호르무즈서 피격된 선박, 장금상선 소유 아니야\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VdE9mVEY0NDI5d1g5TjNLTjEwTVMwbkVJczdzUENrMmZ4ZThLOHNUWE9CeGxMLVM3RVNoajNpUFBIQV9PLTV0bk5sX3VjbW1ZMDlVUVp6UVQyb1NqcUNONnFuQV8zWW5IYjdBLTdFVjZmQWdQ0gF0QVVfeXFMUFY0MUIyTVZuSEpGYnpVckZaZkV4aENrenVWS1hsRklGM1JVMUloX1VwcHBva3YyN2lGVHJmbWs5b3h2czZmWGluUlA4SGFIcDlEUWRKSkpGbVgwNXNjMHA2NDdYUExXUHZTZlBncl96VmdwV0k?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 23:20:02 GMT"
+          "published": "Wed, 02 Sep 2026 02:30:19 GMT"
         }
       ]
     },
     {
-      "word": "군사",
+      "word": "선박",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "한국 선사 유조선 등 2척 호르무즈서 피격...미·이란 군사 충돌 속 '불똥' - KBC광주방송",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoSTlUMEpBbXB0R2ZpVDd6RXRVQXRYdjlfdE1xU0pNMEJzaWF3SW9DQ0R4ZUdJUG5Ub1NQVWJ2S2hrNDRuNWF4SURsZzZrVWRMdFNxNjBHdWRQUHFWZTQ0NmR3?oc=5",
+          "title": "해운협회 \"호르무즈서 피격된 선박, 장금상선 소유 아니야\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VdE9mVEY0NDI5d1g5TjNLTjEwTVMwbkVJczdzUENrMmZ4ZThLOHNUWE9CeGxMLVM3RVNoajNpUFBIQV9PLTV0bk5sX3VjbW1ZMDlVUVp6UVQyb1NqcUNONnFuQV8zWW5IYjdBLTdFVjZmQWdQ0gF0QVVfeXFMUFY0MUIyTVZuSEpGYnpVckZaZkV4aENrenVWS1hsRklGM1JVMUloX1VwcHBva3YyN2lGVHJmbWs5b3h2czZmWGluUlA4SGFIcDlEUWRKSkpGbVgwNXNjMHA2NDdYUExXUHZTZlBncl96VmdwV0k?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 23:20:02 GMT"
+          "published": "Wed, 02 Sep 2026 02:30:19 GMT"
         }
       ]
     },
     {
-      "word": "충돌",
+      "word": "장금상선",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "한국 선사 유조선 등 2척 호르무즈서 피격...미·이란 군사 충돌 속 '불똥' - KBC광주방송",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoSTlUMEpBbXB0R2ZpVDd6RXRVQXRYdjlfdE1xU0pNMEJzaWF3SW9DQ0R4ZUdJUG5Ub1NQVWJ2S2hrNDRuNWF4SURsZzZrVWRMdFNxNjBHdWRQUHFWZTQ0NmR3?oc=5",
+          "title": "해운협회 \"호르무즈서 피격된 선박, 장금상선 소유 아니야\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VdE9mVEY0NDI5d1g5TjNLTjEwTVMwbkVJczdzUENrMmZ4ZThLOHNUWE9CeGxMLVM3RVNoajNpUFBIQV9PLTV0bk5sX3VjbW1ZMDlVUVp6UVQyb1NqcUNONnFuQV8zWW5IYjdBLTdFVjZmQWdQ0gF0QVVfeXFMUFY0MUIyTVZuSEpGYnpVckZaZkV4aENrenVWS1hsRklGM1JVMUloX1VwcHBva3YyN2lGVHJmbWs5b3h2czZmWGluUlA4SGFIcDlEUWRKSkpGbVgwNXNjMHA2NDdYUExXUHZTZlBncl96VmdwV0k?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 23:20:02 GMT"
+          "published": "Wed, 02 Sep 2026 02:30:19 GMT"
         }
       ]
     },
     {
-      "word": "불똥",
+      "word": "소유",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "한국 선사 유조선 등 2척 호르무즈서 피격...미·이란 군사 충돌 속 '불똥' - KBC광주방송",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoSTlUMEpBbXB0R2ZpVDd6RXRVQXRYdjlfdE1xU0pNMEJzaWF3SW9DQ0R4ZUdJUG5Ub1NQVWJ2S2hrNDRuNWF4SURsZzZrVWRMdFNxNjBHdWRQUHFWZTQ0NmR3?oc=5",
+          "title": "해운협회 \"호르무즈서 피격된 선박, 장금상선 소유 아니야\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VdE9mVEY0NDI5d1g5TjNLTjEwTVMwbkVJczdzUENrMmZ4ZThLOHNUWE9CeGxMLVM3RVNoajNpUFBIQV9PLTV0bk5sX3VjbW1ZMDlVUVp6UVQyb1NqcUNONnFuQV8zWW5IYjdBLTdFVjZmQWdQ0gF0QVVfeXFMUFY0MUIyTVZuSEpGYnpVckZaZkV4aENrenVWS1hsRklGM1JVMUloX1VwcHBva3YyN2lGVHJmbWs5b3h2czZmWGluUlA4SGFIcDlEUWRKSkpGbVgwNXNjMHA2NDdYUExXUHZTZlBncl96VmdwV0k?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 23:20:02 GMT"
+          "published": "Wed, 02 Sep 2026 02:30:19 GMT"
         }
       ]
     },
     {
-      "word": "중국인",
+      "word": "아니야",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "중국인 '31살 정창성'‥\"팔공산에서 시신일부 추가 발견\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTLWZqYk9hMHVLZzNmV0NWWEFVODQ2VkV2eDRaVW1Pc1laZUQ0cTJRdVZFVlpIcTAyUU80SE5zdGVUODVzZUhvaVUxWk91RFk?oc=5",
+          "title": "해운협회 \"호르무즈서 피격된 선박, 장금상선 소유 아니야\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VdE9mVEY0NDI5d1g5TjNLTjEwTVMwbkVJczdzUENrMmZ4ZThLOHNUWE9CeGxMLVM3RVNoajNpUFBIQV9PLTV0bk5sX3VjbW1ZMDlVUVp6UVQyb1NqcUNONnFuQV8zWW5IYjdBLTdFVjZmQWdQ0gF0QVVfeXFMUFY0MUIyTVZuSEpGYnpVckZaZkV4aENrenVWS1hsRklGM1JVMUloX1VwcHBva3YyN2lGVHJmbWs5b3h2czZmWGluUlA4SGFIcDlEUWRKSkpGbVgwNXNjMHA2NDdYUExXUHZTZlBncl96VmdwV0k?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 11:43:14 GMT"
+          "published": "Wed, 02 Sep 2026 02:30:19 GMT"
         }
       ]
     },
     {
-      "word": "31살",
+      "word": "미이란",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "중국인 '31살 정창성'‥\"팔공산에서 시신일부 추가 발견\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTLWZqYk9hMHVLZzNmV0NWWEFVODQ2VkV2eDRaVW1Pc1laZUQ0cTJRdVZFVlpIcTAyUU80SE5zdGVUODVzZUhvaVUxWk91RFk?oc=5",
+          "title": "미·이란 교전 재개에 국제유가 급등…석유株 동반 강세 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iaU9fcDQxVDRnV1dlMTVCZUNGZzVQZHYxOXVQQzFmc2Z1SUZNd1BiTXkxNFhOQ2xkeFdIUUhad0FTdkVaT0laY2h1YTU3TF9SOUxZWHV0T2dkdw?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 11:43:14 GMT"
+          "published": "Wed, 02 Sep 2026 00:16:55 GMT"
         }
       ]
     },
     {
-      "word": "정창성팔공산",
+      "word": "교전",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "중국인 '31살 정창성'‥\"팔공산에서 시신일부 추가 발견\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTLWZqYk9hMHVLZzNmV0NWWEFVODQ2VkV2eDRaVW1Pc1laZUQ0cTJRdVZFVlpIcTAyUU80SE5zdGVUODVzZUhvaVUxWk91RFk?oc=5",
+          "title": "미·이란 교전 재개에 국제유가 급등…석유株 동반 강세 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iaU9fcDQxVDRnV1dlMTVCZUNGZzVQZHYxOXVQQzFmc2Z1SUZNd1BiTXkxNFhOQ2xkeFdIUUhad0FTdkVaT0laY2h1YTU3TF9SOUxZWHV0T2dkdw?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 11:43:14 GMT"
+          "published": "Wed, 02 Sep 2026 00:16:55 GMT"
         }
       ]
     },
     {
-      "word": "시신일부",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "중국인 '31살 정창성'‥\"팔공산에서 시신일부 추가 발견\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTLWZqYk9hMHVLZzNmV0NWWEFVODQ2VkV2eDRaVW1Pc1laZUQ0cTJRdVZFVlpIcTAyUU80SE5zdGVUODVzZUhvaVUxWk91RFk?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 11:43:14 GMT"
-        }
-      ]
-    },
-    {
-      "word": "추가",
+      "word": "국제유",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "중국인 '31살 정창성'‥\"팔공산에서 시신일부 추가 발견\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTLWZqYk9hMHVLZzNmV0NWWEFVODQ2VkV2eDRaVW1Pc1laZUQ0cTJRdVZFVlpIcTAyUU80SE5zdGVUODVzZUhvaVUxWk91RFk?oc=5",
+          "title": "미·이란 교전 재개에 국제유가 급등…석유株 동반 강세 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iaU9fcDQxVDRnV1dlMTVCZUNGZzVQZHYxOXVQQzFmc2Z1SUZNd1BiTXkxNFhOQ2xkeFdIUUhad0FTdkVaT0laY2h1YTU3TF9SOUxZWHV0T2dkdw?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 11:43:14 GMT"
+          "published": "Wed, 02 Sep 2026 00:16:55 GMT"
         }
       ]
     },
     {
-      "word": "발견",
+      "word": "급등석유",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "중국인 '31살 정창성'‥\"팔공산에서 시신일부 추가 발견\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTLWZqYk9hMHVLZzNmV0NWWEFVODQ2VkV2eDRaVW1Pc1laZUQ0cTJRdVZFVlpIcTAyUU80SE5zdGVUODVzZUhvaVUxWk91RFk?oc=5",
+          "title": "미·이란 교전 재개에 국제유가 급등…석유株 동반 강세 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iaU9fcDQxVDRnV1dlMTVCZUNGZzVQZHYxOXVQQzFmc2Z1SUZNd1BiTXkxNFhOQ2xkeFdIUUhad0FTdkVaT0laY2h1YTU3TF9SOUxZWHV0T2dkdw?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 11:43:14 GMT"
+          "published": "Wed, 02 Sep 2026 00:16:55 GMT"
         }
       ]
     },
     {
-      "word": "허위",
+      "word": "동반",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "허위 종결 25건…성인 실종이라 안일했다? - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sdVNqMnFWME5VSDdJN2VINHhOY0R4UUc2eldFbllQV3gtR2w2N1dpeDRfaEU2SUp0TnZ4b2hVZVVlQ3hwVTVmOE9sQVpDa2o0Yk52UC1kYkpuQdIBX0FVX3lxTFB2Sm9TdE5MMnQxSy11ajVTd1dZSmtWRTVNdy1yMkxqNW9Gd2U3MFZpbDVMaVpuYmhPNWtYVjdfUEN1M284M2RiUjlJbGlPUnEyY0ZsRFA0TDhpRE12ODdF?oc=5",
+          "title": "미·이란 교전 재개에 국제유가 급등…석유株 동반 강세 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iaU9fcDQxVDRnV1dlMTVCZUNGZzVQZHYxOXVQQzFmc2Z1SUZNd1BiTXkxNFhOQ2xkeFdIUUhad0FTdkVaT0laY2h1YTU3TF9SOUxZWHV0T2dkdw?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 12:14:00 GMT"
+          "published": "Wed, 02 Sep 2026 00:16:55 GMT"
         }
       ]
     },
     {
-      "word": "종결",
+      "word": "강세",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "허위 종결 25건…성인 실종이라 안일했다? - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sdVNqMnFWME5VSDdJN2VINHhOY0R4UUc2eldFbllQV3gtR2w2N1dpeDRfaEU2SUp0TnZ4b2hVZVVlQ3hwVTVmOE9sQVpDa2o0Yk52UC1kYkpuQdIBX0FVX3lxTFB2Sm9TdE5MMnQxSy11ajVTd1dZSmtWRTVNdy1yMkxqNW9Gd2U3MFZpbDVMaVpuYmhPNWtYVjdfUEN1M284M2RiUjlJbGlPUnEyY0ZsRFA0TDhpRE12ODdF?oc=5",
+          "title": "미·이란 교전 재개에 국제유가 급등…석유株 동반 강세 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iaU9fcDQxVDRnV1dlMTVCZUNGZzVQZHYxOXVQQzFmc2Z1SUZNd1BiTXkxNFhOQ2xkeFdIUUhad0FTdkVaT0laY2h1YTU3TF9SOUxZWHV0T2dkdw?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 12:14:00 GMT"
+          "published": "Wed, 02 Sep 2026 00:16:55 GMT"
         }
       ]
     },
     {
-      "word": "25건성인",
+      "word": "비닐봉지",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "허위 종결 25건…성인 실종이라 안일했다? - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sdVNqMnFWME5VSDdJN2VINHhOY0R4UUc2eldFbllQV3gtR2w2N1dpeDRfaEU2SUp0TnZ4b2hVZVVlQ3hwVTVmOE9sQVpDa2o0Yk52UC1kYkpuQdIBX0FVX3lxTFB2Sm9TdE5MMnQxSy11ajVTd1dZSmtWRTVNdy1yMkxqNW9Gd2U3MFZpbDVMaVpuYmhPNWtYVjdfUEN1M284M2RiUjlJbGlPUnEyY0ZsRFA0TDhpRE12ODdF?oc=5",
+          "title": "비닐봉지 들고 휴대폰 보며 '태연'…정창성, 범행 후 CCTV 모습 - 경기일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81NTkxenNhYkVkaTk1SUN6TTAxd0hOWmFqUnpIT1VWSnRRTXMzSl9zOVM4ZFdVbmQ2cHpFeGtHT1RiWHhkcHIxOXQ3TmJYRWZzbFlUa3FKbHBPcW8?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 12:14:00 GMT"
+          "published": "Wed, 02 Sep 2026 00:56:21 GMT"
         }
       ]
     },
     {
-      "word": "실종",
+      "word": "들고",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "허위 종결 25건…성인 실종이라 안일했다? - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sdVNqMnFWME5VSDdJN2VINHhOY0R4UUc2eldFbllQV3gtR2w2N1dpeDRfaEU2SUp0TnZ4b2hVZVVlQ3hwVTVmOE9sQVpDa2o0Yk52UC1kYkpuQdIBX0FVX3lxTFB2Sm9TdE5MMnQxSy11ajVTd1dZSmtWRTVNdy1yMkxqNW9Gd2U3MFZpbDVMaVpuYmhPNWtYVjdfUEN1M284M2RiUjlJbGlPUnEyY0ZsRFA0TDhpRE12ODdF?oc=5",
+          "title": "비닐봉지 들고 휴대폰 보며 '태연'…정창성, 범행 후 CCTV 모습 - 경기일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81NTkxenNhYkVkaTk1SUN6TTAxd0hOWmFqUnpIT1VWSnRRTXMzSl9zOVM4ZFdVbmQ2cHpFeGtHT1RiWHhkcHIxOXQ3TmJYRWZzbFlUa3FKbHBPcW8?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 12:14:00 GMT"
+          "published": "Wed, 02 Sep 2026 00:56:21 GMT"
         }
       ]
     },
     {
-      "word": "안일",
+      "word": "휴대폰",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "허위 종결 25건…성인 실종이라 안일했다? - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sdVNqMnFWME5VSDdJN2VINHhOY0R4UUc2eldFbllQV3gtR2w2N1dpeDRfaEU2SUp0TnZ4b2hVZVVlQ3hwVTVmOE9sQVpDa2o0Yk52UC1kYkpuQdIBX0FVX3lxTFB2Sm9TdE5MMnQxSy11ajVTd1dZSmtWRTVNdy1yMkxqNW9Gd2U3MFZpbDVMaVpuYmhPNWtYVjdfUEN1M284M2RiUjlJbGlPUnEyY0ZsRFA0TDhpRE12ODdF?oc=5",
+          "title": "비닐봉지 들고 휴대폰 보며 '태연'…정창성, 범행 후 CCTV 모습 - 경기일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81NTkxenNhYkVkaTk1SUN6TTAxd0hOWmFqUnpIT1VWSnRRTXMzSl9zOVM4ZFdVbmQ2cHpFeGtHT1RiWHhkcHIxOXQ3TmJYRWZzbFlUa3FKbHBPcW8?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 12:14:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "남부",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "미, 이란 남부 대규모 공습에 이란 미사일·드론 보복…트럼프 “더 큰 공격 대기” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zdjJSNk5EVW5ManhYSDFFaGlNR2NoVWVsVjNVYnU4MXhxakNZTk5tbFlVS3R0OFdPeDBzYXlVTW1ybG9JVGt4V0NVMTAwNENVUHNkZm1mSWxFSV9DUWVvb1luSWMtMG10MTlpYXhPalhFRUE?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 21:48:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "대규모",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "미, 이란 남부 대규모 공습에 이란 미사일·드론 보복…트럼프 “더 큰 공격 대기” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zdjJSNk5EVW5ManhYSDFFaGlNR2NoVWVsVjNVYnU4MXhxakNZTk5tbFlVS3R0OFdPeDBzYXlVTW1ybG9JVGt4V0NVMTAwNENVUHNkZm1mSWxFSV9DUWVvb1luSWMtMG10MTlpYXhPalhFRUE?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 21:48:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "공습",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "미, 이란 남부 대규모 공습에 이란 미사일·드론 보복…트럼프 “더 큰 공격 대기” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zdjJSNk5EVW5ManhYSDFFaGlNR2NoVWVsVjNVYnU4MXhxakNZTk5tbFlVS3R0OFdPeDBzYXlVTW1ybG9JVGt4V0NVMTAwNENVUHNkZm1mSWxFSV9DUWVvb1luSWMtMG10MTlpYXhPalhFRUE?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 21:48:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "미사일드론",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "미, 이란 남부 대규모 공습에 이란 미사일·드론 보복…트럼프 “더 큰 공격 대기” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zdjJSNk5EVW5ManhYSDFFaGlNR2NoVWVsVjNVYnU4MXhxakNZTk5tbFlVS3R0OFdPeDBzYXlVTW1ybG9JVGt4V0NVMTAwNENVUHNkZm1mSWxFSV9DUWVvb1luSWMtMG10MTlpYXhPalhFRUE?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 21:48:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "보복트럼프",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "미, 이란 남부 대규모 공습에 이란 미사일·드론 보복…트럼프 “더 큰 공격 대기” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zdjJSNk5EVW5ManhYSDFFaGlNR2NoVWVsVjNVYnU4MXhxakNZTk5tbFlVS3R0OFdPeDBzYXlVTW1ybG9JVGt4V0NVMTAwNENVUHNkZm1mSWxFSV9DUWVvb1luSWMtMG10MTlpYXhPalhFRUE?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 21:48:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "공격",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "미, 이란 남부 대규모 공습에 이란 미사일·드론 보복…트럼프 “더 큰 공격 대기” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zdjJSNk5EVW5ManhYSDFFaGlNR2NoVWVsVjNVYnU4MXhxakNZTk5tbFlVS3R0OFdPeDBzYXlVTW1ybG9JVGt4V0NVMTAwNENVUHNkZm1mSWxFSV9DUWVvb1luSWMtMG10MTlpYXhPalhFRUE?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 21:48:00 GMT"
+          "published": "Wed, 02 Sep 2026 00:56:21 GMT"
         }
       ]
     }
