@@ -1,105 +1,144 @@
 {
   "language": "en",
-  "last_updated": 1788428096.6569211,
+  "last_updated": 1788445198.157732,
   "count": 40,
   "trends": [
     {
-      "word": "Trump",
-      "count": 4,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump to travel for embattled Republicans in last 30 days of midterms - politico.com",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMURZcTROMzV3UnNjaXRBWm1hR0o4U2VzNDVyMERyYzU1UjdfZlRvQU9yOFhnVE5Md1NfVnVESkRmOW9fN2ZybnF6bUJvOHZxS2xjeGh0Y0VIQmZWWm1oVnFyVk1RSGk2dHFSRnZUQ3g2WEg1T2FndEg3TXB5ZnZQcUpQekxPY3J2c0Z0MUZPbUtaVXRJUjZtTEhhTVFINEVzb25Sbks3VUE4RWRvNk42Wnl6UHQ1NnlHODJr?oc=5",
-          "source": "Google News",
-          "published": "Thu, 03 Sep 2026 01:14:00 GMT"
-        },
-        {
-          "title": "Live Updates: Trump says U.S. prepared to strike Iran \"anytime we want\" after carrying out \"very heavy attack\" - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaGpwVVBCeVNvZE5lV3RCSFl0M2E1cnZlZS0wMjVSRFlrS1E5ZXFWSml2MGdKZEFMaHlSRFc1Ylc1WkRPTy1IaEpRZzFrbFpBZFJJbmw4RnVYaDJxWDFUQ3hlVk9JMUJ5Zk1HXzQ1Z2RxbVpWN2dTa3lFTzdwN3V3QjFTb20tSEdkOTRnQS10eUEwaFBQWlcxSmQwbUZxRmhCOEptYXhaTWJyNGpnV0E?oc=5",
-          "source": "Google News",
-          "published": "Thu, 03 Sep 2026 06:48:00 GMT"
-        },
-        {
-          "title": "Heads or tails? $1 coin with Trump's face and gold finish to go on sale - KSL News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTmZUTHFjQ2R5dTlWSnEtWkt6Z2tPdXk4RnM0anVqemxoQnhFZXFRX3JaVllQR1R5eWF0ZjNEcTFyVmdJUUVhb1BHYXY4cHBiWURGWmtoZ2lQdXM0Ri15Y3RKTE94dnFJZjNua2xHM045Y25QOVA3bm5lX1h1Sm0ydDZLczB4U3QxSldZb2JtSTltYUpYNzlkMEdhVUkzRzlIWlZWaklJRHI?oc=5",
-          "source": "Google News",
-          "published": "Wed, 02 Sep 2026 20:44:37 GMT"
-        },
-        {
-          "title": "Apple Maps renames Lake Ontario ‘Lake America’ for US users after Trump order - Fox Business",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNnYwMl94bm9CemhoUFlSbmNYNG96ZDdnaGw2YmFlRUtUYmRtU1ZhM2pnbzFqNXVXUXhNLWZyeGJPSnZ2WUpCLWZyZFN5QnpNd0dvLWlDWGlEZ042OU5jMGlaenVKM0Zwcjl6VVVYcVpjYTRUamd5cjJPU05YN1MzQU92a2NZR0pGcmdfNFdBTFA4N3BoSEdOOF9oVTRDTGJzYXF2ZlZSMlVmR2PSAbABQVVfeXFMUGxfdm1aQUtsWDZRNHVRa3U2Tmx5NnpyQW5XeUxKYTNhSjdheVZEamJaNnY5c3ZVdE5jLWdiX2J2QldUaUdKZFU2S2FLWmtpdTRjM1hBd0NKRU9walRDT0xuVHNsS3dZdDEzM1FBbHpta29pelk4NFAzZVBLUXA4N012MEZYUUt2UzMwZ2cycUcxUFVzNm9mUmt2Y1VINkg3YmFZTkRYTGVpTGMtWWY5RGk?oc=5",
-          "source": "Google News",
-          "published": "Wed, 02 Sep 2026 11:23:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Apple",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Apple Maps renames Lake Ontario ‘Lake America’ for US users after Trump order - Fox Business",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNnYwMl94bm9CemhoUFlSbmNYNG96ZDdnaGw2YmFlRUtUYmRtU1ZhM2pnbzFqNXVXUXhNLWZyeGJPSnZ2WUpCLWZyZFN5QnpNd0dvLWlDWGlEZ042OU5jMGlaenVKM0Zwcjl6VVVYcVpjYTRUamd5cjJPU05YN1MzQU92a2NZR0pGcmdfNFdBTFA4N3BoSEdOOF9oVTRDTGJzYXF2ZlZSMlVmR2PSAbABQVVfeXFMUGxfdm1aQUtsWDZRNHVRa3U2Tmx5NnpyQW5XeUxKYTNhSjdheVZEamJaNnY5c3ZVdE5jLWdiX2J2QldUaUdKZFU2S2FLWmtpdTRjM1hBd0NKRU9walRDT0xuVHNsS3dZdDEzM1FBbHpta29pelk4NFAzZVBLUXA4N012MEZYUUt2UzMwZ2cycUcxUFVzNm9mUmt2Y1VINkg3YmFZTkRYTGVpTGMtWWY5RGk?oc=5",
-          "source": "Google News",
-          "published": "Wed, 02 Sep 2026 11:23:00 GMT"
-        },
-        {
-          "title": "Xiaomi beats Apple to market with wide Xiaomi 18 Fold reveal - androidauthority.com",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RSGM1V3ZZLWZ1TjNYdVNTc1RSdVZqT0pySmJBQmNjT1ZiVlpCQmF0bmtGWHd1TmFfenZNOXBOTl9WUG82bzBlLU9ZQ2lrZ3B4TGxjdVFSWl9tbnFlUDFTbENveFB1NVhHc3A0UFczck1YZWppOHdtTFpuSQ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 02 Sep 2026 09:36:00 GMT"
-        },
-        {
-          "title": "Ryan Reynolds’ new Apple TV spy movie is a winner, reviews here - 9to5Mac",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYTI5bm5kLXpwREpfd2dEMldNcUZfWjFib3UxRGZGLWtfR0xCanlRd1F4TTdXQmM0YUE3bkFZRDZOLUZJTlJqTU9Kb2phY21jNVhScEhDWHBTNWxwMXI5UU1EeUpTcXBSRGxEMUVWNVMtVDdLUEdPbk9ZOExQYmxNeWJlMHJZdDZLVTlJX01pNm9NNVJlRjlDMA?oc=5",
-          "source": "Google News",
-          "published": "Wed, 02 Sep 2026 19:53:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Next",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Health insurance costs projected to spike next year by most in two decades - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWEExZERhZ3JDSWF2ZnRFM0tYTkJkcFdZbzQ0UXMtSDFuUGFzcWI5c3l2Uy1JTzM2ZC1acmlYQk5ZR2JEeFJEN3RBbWN5MENGeUJKVE1tU2NjcGN1VHg4ZXVmNl82RWhlYTd0VUE0WVM5dXd1MzBYOVEtTGdNODVxNG9OZnM3Z0x4SVFJaG9vcnVsT3phQlVmNE5UVEFqemwzZTk5WHZpbU9PS2V4VlZiSG56ODY?oc=5",
-          "source": "Google News",
-          "published": "Thu, 03 Sep 2026 03:30:00 GMT"
-        },
-        {
-          "title": "Raptors-Clippers Trade Expected To Be Finalized ‘In The Next Couple Of Days’ - hoopsrumors.com",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObDRwSC1Rb2dXM21NSGY2N2M4bDh4OUJ4Zmx3ZXdHa09IbVBqRl9tdDFvLXJBZFJjWnEwVmI3QXUxVXVDQnJSOEkxcVE0dEZfRlgtNDlfSVBIcjVqZW43bVBrODhrWU55NnJ0bnBZMkxOYU9KSUh5VDlsVHlYdWpaajhBQkNMX1BReE02TjdtZ2ZKUHFzSnVSNUg4MlFPUGN3MkRRX0U3aTkzd0ZqQXRaUQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 03 Sep 2026 02:59:50 GMT"
-        },
-        {
-          "title": "Sabalenka, Partying? Next Question, Says World No.1 - Tennis Now",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5LY3lvaUZLbm9iV3pVcHVZV2pkVUhXTVIwWmtEN25UYmVxeGlKeTBuM2NpSXZ5S3hJX19DU3Rmclk3b3Fsd2N3Y1YwbFA3ek5ZZjF5VF9FdkZvMThJZDFrUS1WeVJmTGQ3WUF0azB4eEdhZzZsdmtiOV83dw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 03 Sep 2026 03:30:34 GMT"
-        }
-      ]
-    },
-    {
       "word": "Iran",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Iran strikes Kuwait as Trump says renewed Mideast hostilities will not last 'too long' - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaE5KOWRmZmI1OElBb1Fna0FCWlZqZkNfbWh0RDN1cHdvT3lqc1p6Y3ZuQm9lSWRtVFliajlSYnFZZHdMM1dOWGhUeWZVa0FkX18tOTdCRVc1V29NeWN1aWpjWlNQYkZLeVp6bTI4UU9uZnFCXzR5ZTlBUF9aMFQzcEZnbzlIcFJnbm9naVN3alozSUdyUlpNVmxR0gGfAUFVX3lxTE9aQnE4dkJ0b1E4MVB6V3pLaE5xYzBBOHR2WVlocFRmS1kwTDB3Zi0wS2tHSkU1Yk9ndHUySW9ZcDFwQS1QVUo0VktGQ0tUQk9kR01BbEo2QjNHVjZCYjF6ZjdzRzdJa05BU3JhRVYxR2pZQ29xTmpiZmFaOVBkSndMaGNUSjI5cVNUNnBteWRNa3R3VVZDaERIZk1nS29IMA?oc=5",
+          "source": "Google News",
+          "published": "Thu, 03 Sep 2026 02:26:00 GMT"
+        },
+        {
+          "title": "What to know about a reported US airstrike that hit a wedding in Iran - AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdEhWS2I1TC1EYTJvMlVOWHpTTUYySkNNNkp4TV9LWWlHb190SGFralhreDNhU0ZaaERwTWhJbmtMa3Jab1F6YVR2YTF1NGNFM2Q4b3NUVGg5ZjFaSWl1Mm1sRktxdnlkV21rWjJVTkd6WTFTU2hUVVRQT0tISTMyZEpIVEdGZFAxbnhBeU1HcVVLTFVrRUNOa1VIcHZBQQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 03 Sep 2026 01:05:00 GMT"
+        },
+        {
+          "title": "‘We Are Stalled’: US-Iran Conflict Stuck With No End in Sight - Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaWIxcm90dTNDWnZDUElYS1phT2xtTzB2MUdnbUhCQVdhbGFDV1U2V0NBcTZSQzdhYUVuVEM3WHVLdnNQclloWlI0R1ctSi1kbzA0bDdZOG84YUEtZXJKcVhLYnUtTkEtUWhKYkoxdVJqNmhhVTNLd3RTckRQOXYtZ0dEZEtTMmNCaVJSRmZLdU03aENielB2ZGd6VVZ3M2RaTXA3TmQ2a0d2THhZLVdB?oc=5",
+          "source": "Google News",
+          "published": "Thu, 03 Sep 2026 09:02:10 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Trump",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Iran war escalation raises concern over civilian death toll - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZmJEcTdhQU9kcW41Z2J6enVZU2NHQ253eVV1VDJKOXBSTTJfbGhfVi1wbTQ0U1gzRllLb2xUUV9LRGRZaWpvaUlSWWRwQTdBaXdNY2x1Z3pxU1U1WjJSdzdKWGR6a2FLSXN6dnBPQ3NhM1hwUkxOZlIyd0dDX0ZycjdVSlpEUFN5N1NQbWR2UW1oRHNBU3BTZENPbGotQVFOSmdfUUFJNERYbEZTVzU3WDlrUQ?oc=5",
+          "title": "Iran strikes Kuwait as Trump says renewed Mideast hostilities will not last 'too long' - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaE5KOWRmZmI1OElBb1Fna0FCWlZqZkNfbWh0RDN1cHdvT3lqc1p6Y3ZuQm9lSWRtVFliajlSYnFZZHdMM1dOWGhUeWZVa0FkX18tOTdCRVc1V29NeWN1aWpjWlNQYkZLeVp6bTI4UU9uZnFCXzR5ZTlBUF9aMFQzcEZnbzlIcFJnbm9naVN3alozSUdyUlpNVmxR0gGfAUFVX3lxTE9aQnE4dkJ0b1E4MVB6V3pLaE5xYzBBOHR2WVlocFRmS1kwTDB3Zi0wS2tHSkU1Yk9ndHUySW9ZcDFwQS1QVUo0VktGQ0tUQk9kR01BbEo2QjNHVjZCYjF6ZjdzRzdJa05BU3JhRVYxR2pZQ29xTmpiZmFaOVBkSndMaGNUSjI5cVNUNnBteWRNa3R3VVZDaERIZk1nS29IMA?oc=5",
           "source": "Google News",
-          "published": "Thu, 03 Sep 2026 05:42:52 GMT"
+          "published": "Thu, 03 Sep 2026 02:26:00 GMT"
         },
         {
-          "title": "Live Updates: Trump says U.S. prepared to strike Iran \"anytime we want\" after carrying out \"very heavy attack\" - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaGpwVVBCeVNvZE5lV3RCSFl0M2E1cnZlZS0wMjVSRFlrS1E5ZXFWSml2MGdKZEFMaHlSRFc1Ylc1WkRPTy1IaEpRZzFrbFpBZFJJbmw4RnVYaDJxWDFUQ3hlVk9JMUJ5Zk1HXzQ1Z2RxbVpWN2dTa3lFTzdwN3V3QjFTb20tSEdkOTRnQS10eUEwaFBQWlcxSmQwbUZxRmhCOEptYXhaTWJyNGpnV0E?oc=5",
+          "title": "Trump says he’ll campaign for Republicans in 35 races ahead of the midterms - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOHhZVnNtVlhwUDFZVk9EWEN2LXZmTmR6UTYzN0hTclRQazBBeHFQVjFFZ3hRUWJMd2YyUkx4SW1nbzgxcVM4UUh0R1plT1R6a0hwYkpDVXZDTW1sZjBlbV95TnZkbEl0VDA2ekxBWUlGX1ZBWFRTZXRQTGlmZTVlbk9XMTJvRDJNV0xHZWFvb1BwZGVUbnp4WmZjYko0aGU0ZXp3Q0h4VHRBVVl5UzVkVkNyTWdRMjhJb3c?oc=5",
           "source": "Google News",
-          "published": "Thu, 03 Sep 2026 06:48:00 GMT"
+          "published": "Thu, 03 Sep 2026 02:15:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Mideast",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Iran strikes Kuwait as Trump says renewed Mideast hostilities will not last 'too long' - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaE5KOWRmZmI1OElBb1Fna0FCWlZqZkNfbWh0RDN1cHdvT3lqc1p6Y3ZuQm9lSWRtVFliajlSYnFZZHdMM1dOWGhUeWZVa0FkX18tOTdCRVc1V29NeWN1aWpjWlNQYkZLeVp6bTI4UU9uZnFCXzR5ZTlBUF9aMFQzcEZnbzlIcFJnbm9naVN3alozSUdyUlpNVmxR0gGfAUFVX3lxTE9aQnE4dkJ0b1E4MVB6V3pLaE5xYzBBOHR2WVlocFRmS1kwTDB3Zi0wS2tHSkU1Yk9ndHUySW9ZcDFwQS1QVUo0VktGQ0tUQk9kR01BbEo2QjNHVjZCYjF6ZjdzRzdJa05BU3JhRVYxR2pZQ29xTmpiZmFaOVBkSndMaGNUSjI5cVNUNnBteWRNa3R3VVZDaERIZk1nS29IMA?oc=5",
+          "source": "Google News",
+          "published": "Thu, 03 Sep 2026 02:26:00 GMT"
+        },
+        {
+          "title": "China’s Xi Bolsters Mideast Ties With Egypt Visit Ahead of Planned U.S. Trip - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVkF0czdNM2FCckNVV0g0Ri0tYlp0SVNPcGF3OTNPNmk4UFFHbzJFeG1xOHVka3NQcjJRYWV1VTlZMUp1UnMtbkdfLURMMkVGaHFlVWxjNm9KNTFudW9MM0REYXlRcUNoNXVkZEgtMnBwR2p5VF9sQXZqUW5xbzdGY0czUGpBNkZEb0JxVkFvSlBKaW9zeTB4czFOWFBVeDdJR1FucDdaVThTR3p0eFE?oc=5",
+          "source": "Google News",
+          "published": "Wed, 02 Sep 2026 17:07:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Ahead",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump says he’ll campaign for Republicans in 35 races ahead of the midterms - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOHhZVnNtVlhwUDFZVk9EWEN2LXZmTmR6UTYzN0hTclRQazBBeHFQVjFFZ3hRUWJMd2YyUkx4SW1nbzgxcVM4UUh0R1plT1R6a0hwYkpDVXZDTW1sZjBlbV95TnZkbEl0VDA2ekxBWUlGX1ZBWFRTZXRQTGlmZTVlbk9XMTJvRDJNV0xHZWFvb1BwZGVUbnp4WmZjYko0aGU0ZXp3Q0h4VHRBVVl5UzVkVkNyTWdRMjhJb3c?oc=5",
+          "source": "Google News",
+          "published": "Thu, 03 Sep 2026 02:15:00 GMT"
+        },
+        {
+          "title": "China’s Xi Bolsters Mideast Ties With Egypt Visit Ahead of Planned U.S. Trip - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVkF0czdNM2FCckNVV0g0Ri0tYlp0SVNPcGF3OTNPNmk4UFFHbzJFeG1xOHVka3NQcjJRYWV1VTlZMUp1UnMtbkdfLURMMkVGaHFlVWxjNm9KNTFudW9MM0REYXlRcUNoNXVkZEgtMnBwR2p5VF9sQXZqUW5xbzdGY0czUGpBNkZEb0JxVkFvSlBKaW9zeTB4czFOWFBVeDdJR1FucDdaVThTR3p0eFE?oc=5",
+          "source": "Google News",
+          "published": "Wed, 02 Sep 2026 17:07:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Judge",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Clancy jurors tell judge they're still deadlocked on fifth day of deliberations - WBUR",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa09mN1daa042ZFI0bXFGbWZrQlhsWV83YzFPaGxYLWcwZkllN1ZoTlNoX3Fab1h6ZGQ1NVZybXZuN3RHWU5VRkZEVDVQOS1QNHhpWVF2Y0FtZTc2Ni13NUF1SlZYdllyU0pkQ2NGY25MaldiRGdISUNyQVNwbkpFejRnSVR0TUlBUEpqbFZ2Y3pHR05WZTZBN0FB?oc=5",
+          "source": "Google News",
+          "published": "Wed, 02 Sep 2026 22:19:20 GMT"
+        },
+        {
+          "title": "Google spared from ad-business breakup, but judge orders changes to how it operates - TechCrunch",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYmtWODYzMFdHYmNKbERFd25EV1Z4OHRMcjg0RDVEMVduOEc4eWdGd0h3V0Z5SHE3WW43UUFlY2FTdEdrblBaaXV5c19yQUtscU1WRlRUVEJsYmtJQ1JnUEIwR1RwSEkyejVTYnZqQ2xFQ0ZWQ0Q1Z3JIUDhSTGwzMTEzMVIybWpmTGNiaGUyZTViaDV5aEVsbUhUTmpCSTlNOFVyQzlHZFFwZnJkSnZxcnYzallZR2lB?oc=5",
+          "source": "Google News",
+          "published": "Wed, 02 Sep 2026 21:38:34 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Evidence",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Spain's PM Sanchez says no evidence Morocco orchestrated Ceuta border surge - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTTkzbWhhWktPS0RDWmlYRFBhRkJUUXBYNjFZYWpwZ3lwbHhFaHJqd2hVMWdzV3JDYkt5amxZYUVkd01iUVo5Z2U4a0QwRG1WYlVVaXd0eE45YzBSczEyNlRvY3JuNGdBaHFtT0NubGpsTHpqY2RqQk9ybW5PZzJ2Si1EcTNNaGlIbjZPMnhrR0s1bTBVTmNJUTVuODlkZlhvaGw1Q21ZbFdSNmlDN1o5eU1xRGFKSzBWLXhrNEdIaHE?oc=5",
+          "source": "Google News",
+          "published": "Thu, 03 Sep 2026 10:51:46 GMT"
+        },
+        {
+          "title": "Scientists may have detected the 1st direct evidence of dark matter - Space",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWlVreXE3d3JMbmNEb0xyYmlHSTQzQU41OWxsMmZCanJLNHB5MzVSdGVQQVk1WW5IYkJQajlLVXdMc0xfbjBLWTJacFFlNTBIaFNRVG0wR1BDX0wzdTU5V2lnRDlWa0RYVTZ1OGhRREdNZEtYMi03bHBPMTRuczNLbDlWSlZwbHh1SzN5MjJMTE90WDNNLTU0ZFp3VExoTDF0bmVkeWdYb0ZwcXViVTkteF9PWQ?oc=5",
+          "source": "Google News",
+          "published": "Wed, 02 Sep 2026 13:18:41 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Open",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Nvidia to buy Hugging Face for $13 billion in big bet on open AI models - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSktMTEFzVUpJM09CZGMxcnEtMVJHTElxMllESE9QbHdMbjl4MmQ2TjJvSjRXY1Q3RUVmNGMxQ2xIMTVtOWhnVHYyWGluNmNDektRcVloUmZfTmdWMDJyMFRrTjZHYzl6aUYyd1JYM3hQenBmeFJ1N3FleW01SF9HeFVSZ3oxMlBsS3BrcHZiblZBWTNSWDQyMzdSWGMwMnJ3NnNTbG14R3FTb1BUdGc?oc=5",
+          "source": "Google News",
+          "published": "Thu, 03 Sep 2026 13:18:06 GMT"
+        },
+        {
+          "title": "Carlos Alcaraz issues public warning to the ATP Tour at the US Open, ‘it’s impossible’ - tennishead.net",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT2xOUURmNU41OXU4UHMxN0VMeHZkcFZnYmFmZU9aa19yVEs0YlpuR0lXbHVRNWZ6WlhFMzJmTG4xQS1BZFBPTjl1eFp5TnFMZ1h6TWJOdXc0dk9kSlpMZ3RtdmNiNnkzdi1JV0R0QWtRY005Mmsxc1cxblJ2eEVuQWNGZ2hXSldOUGdqaTlkamRKX0gzcHo3cXdzRG1jem9jSjFRX1hTU3hiUQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 03 Sep 2026 06:15:00 GMT"
         }
       ]
     },
@@ -109,440 +148,203 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Iran war escalation raises concern over civilian death toll - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZmJEcTdhQU9kcW41Z2J6enVZU2NHQ253eVV1VDJKOXBSTTJfbGhfVi1wbTQ0U1gzRllLb2xUUV9LRGRZaWpvaUlSWWRwQTdBaXdNY2x1Z3pxU1U1WjJSdzdKWGR6a2FLSXN6dnBPQ3NhM1hwUkxOZlIyd0dDX0ZycjdVSlpEUFN5N1NQbWR2UW1oRHNBU3BTZENPbGotQVFOSmdfUUFJNERYbEZTVzU3WDlrUQ?oc=5",
+          "title": "Rocky Horror star Tim Curry's cause of death revealed as coronary artery disease - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IR0x3anRzVmJsUDJVR25jRGViU2lrdzVwU3BMcDhQUkpGZEZrWGNlR0JQWFFnQ1FNUFh6UUs1OWloem13Q3BIYzNwUVZIX1BSSEdjTmJERDZNQQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 03 Sep 2026 05:42:52 GMT"
+          "published": "Wed, 02 Sep 2026 23:47:02 GMT"
         },
         {
-          "title": "Lancaster County coroner confirms investigation of another death of child who had measles - LancasterOnline",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPNVdrVVFpdVRJWjJpOFVaVVdRSGpvaGpqWmFpbUotSjZYWjhOaWdnNVJqN3k3TV9zRjg3RHVNZVlTMW9QYVRLbFgzUmlqSGw2Qnc2WS1JSXZmcjl1MTJHWk15NHVsV1lPZlJvYXBqTFY5OGttVmlNYkduRHNBNGlfNGYzN185MDk3VkhESnhJNFo3MEtVakNOMXpjcGkyU1ZGUERCYmRkcW91b1RSMUk2Q3c4RVNDWHJqWUNpZnBlWmVCellrdnZ0Unk4bnNQTm1CbktDV0FaUnZuemJaVlNYU0Q0VU9KNlp0U1VUdHpUQnBNUmR3R3FMbkpMU04wSmUxcDZyNm14Zy1Hdw?oc=5",
+          "title": "Musician, Pregnant Wife and 3-Year-Old Daughter Shot to Death in Mexico - TMZ",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhZFU4Z3JIS190UnhTZ0FPREJVbzdOdnc1TDV6RkZKZHRjV0dPbHBNLUxCbkFhUk4tVjd0a1ZZNmlVVWJvblJaMTE1SHJKeUs0Tm1FZVJmaUM5MGxZYU81X0lCdzJfcFJoX0JKTXBueUJLWk1P?oc=5",
           "source": "Google News",
-          "published": "Wed, 02 Sep 2026 18:00:00 GMT"
+          "published": "Thu, 03 Sep 2026 13:39:07 GMT"
         }
       ]
     },
     {
-      "word": "Confirms",
+      "word": "NFL",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "US oil giant Chevron confirms it will expand operations in Venezuela - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeUY5RDVMaG9WMTE1ZHVocE9lUWVQWXNiOFBGY3dUc3hOdTVIYzRtNkwyV0VJYTRPcnNSR2hoYkh6Q2JFQ3RYS2JQSTlVeXhrcF9XVzBVeVA5OEdxSVp1RHZ1QmhWX1FXM3lYVWdVeEF0T1V5TFh0cS1scmdZd2d2RVg2aE0wd3Z5T1gxRE5BbkI?oc=5",
+          "title": "Kirk Cousins Named Raiders' QB1 Over Fernando Mendoza for NFL Week 1 vs. Dolphins - Bleacher Report",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNkx0cDZ6dUpBMlFVRGRBRml3TTFCYnppbFZuVXl6NUJhY1NmT1djU2Yxd2U0bUZPU1FPUW1XTE1LZDBVSjcxYVRvSmRTeVFQTFplNm5uZ3FDN2ZNb1BrMnZwME12QW83dzVNcExxR19Mamw0eWEySkYwUEktcUlKb2JKbU10MGFUTGFHT3Q2TG1lVWdWVjJjVUNwNHdvSU1SazROQ2dPMTdEN2c1VWlTTHEwMVRqR0ViRFktZw?oc=5",
           "source": "Google News",
-          "published": "Thu, 03 Sep 2026 04:12:00 GMT"
+          "published": "Wed, 02 Sep 2026 16:50:37 GMT"
         },
         {
-          "title": "Lancaster County coroner confirms investigation of another death of child who had measles - LancasterOnline",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPNVdrVVFpdVRJWjJpOFVaVVdRSGpvaGpqWmFpbUotSjZYWjhOaWdnNVJqN3k3TV9zRjg3RHVNZVlTMW9QYVRLbFgzUmlqSGw2Qnc2WS1JSXZmcjl1MTJHWk15NHVsV1lPZlJvYXBqTFY5OGttVmlNYkduRHNBNGlfNGYzN185MDk3VkhESnhJNFo3MEtVakNOMXpjcGkyU1ZGUERCYmRkcW91b1RSMUk2Q3c4RVNDWHJqWUNpZnBlWmVCellrdnZ0Unk4bnNQTm1CbktDV0FaUnZuemJaVlNYU0Q0VU9KNlp0U1VUdHpUQnBNUmR3R3FMbkpMU04wSmUxcDZyNm14Zy1Hdw?oc=5",
+          "title": "Georgia AG suggests LSU be suspended, removed from SEC if Tigers roster former NFL players - On3",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZUZPQW5BakhzeUh4ajI1QmJudURQZmYyN3R0a2VWMDR3T2RQNVJaR3lUQzVwc2JrUGFqMzJISXFZSm03bTlmWnFjYlUxR0ZydGtEVnFEQm14bHZHT0N6YlpjUnh5U0VZUUhSc2ROMVljTlJYandqRWNXMkpZNVhWODJpbTJXS2VxMkV5dndicUJjMVFnN2NJLXgyTDZDS1k5WnNvN0NFYl9vaU9QLTlkSmVZSDg5Zw?oc=5",
           "source": "Google News",
-          "published": "Wed, 02 Sep 2026 18:00:00 GMT"
+          "published": "Thu, 03 Sep 2026 00:39:35 GMT"
         }
       ]
     },
     {
-      "word": "Long",
+      "word": "may",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "The long-term implications of Pete Hegseth’s US military purges - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMGJZZUhvSUY1MW53NDlWTGk3bUgzdXhLVWpsU29FVlh6VjBqeWRhOFpranNFMkRPNUxfZW1HSGNIT3dFcmxYc2xPYl9CZjEyZDh1RHpab1JPV2FaOFM5MklLMDNlZUZjQ24xLWQ5OUthTXp2ZExDS2QwWDNVLXBxWl9wXzRpYmdnNVNqcXVYdWVUSUkxS3fSAZsBQVVfeXFMTy1ERzRLdTNLUHdtdC1jRE9KWDZET3I2U3lIb3FiMV9IaHBTNE92UDhkNHdpNFkxQlFNMHo1ZGJzOWd3Z3plUXROVmh0RUFmVGxRMGZTYzVaN082OVdMX2hTOUtoa1hCWVAzZ01OM2loZkFiZG9LbXdmRFh5elZKTWpUNmVfSGpudkRWNUR5VXRqR3ZUc0FLcU1hM0E?oc=5",
+          "title": "Scientists may have detected the 1st direct evidence of dark matter - Space",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWlVreXE3d3JMbmNEb0xyYmlHSTQzQU41OWxsMmZCanJLNHB5MzVSdGVQQVk1WW5IYkJQajlLVXdMc0xfbjBLWTJacFFlNTBIaFNRVG0wR1BDX0wzdTU5V2lnRDlWa0RYVTZ1OGhRREdNZEtYMi03bHBPMTRuczNLbDlWSlZwbHh1SzN5MjJMTE90WDNNLTU0ZFp3VExoTDF0bmVkeWdYb0ZwcXViVTkteF9PWQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 02 Sep 2026 20:52:07 GMT"
+          "published": "Wed, 02 Sep 2026 13:18:41 GMT"
         },
         {
-          "title": "George Lucas Says Opening Lucas Museum ‘Almost Broke My Will’: ‘It’s Taken So Long to Get Here’ - Variety",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5GU0g0WlJkcmhjbTkxLXdqX2Nfb2FRTWZac3paMGZxSXdlUmVTNTF3d05XamxoUkg5Z0l5Z1JkSFFKLVRGclY0R2hMbWxmQW03YzNrb290OUhRUUV6REhaOG0wMEhnWU1RTmlzZF9ObkVjbC02cnVJYWd3?oc=5",
+          "title": "GLP-1 medications may worsen or speed hair loss in some men, study finds - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVzd3OWNoUGtJY25zYUJNR2Z1ZGcyYTJrbXhqcHBxbG0yRllwdTJKRFVOamlVRFBWdVB3Wm0yQkg0MDZyNDdReEtLX2c4SEdJZXRyazU0WGY0VF9teGQ4MzJsQzBEQ1pvNFJ5Y05RUTlWZkJWc3lOcjRYVUh1eG9tSFdwbW81YzNnNU1uRVpqckt2Q0hxeFhWa1JJVnkzZGJic201Y2dlU2RKQQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 03 Sep 2026 01:08:00 GMT"
+          "published": "Thu, 03 Sep 2026 09:00:00 GMT"
         }
       ]
     },
     {
-      "word": "Live",
+      "word": "Deaths",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Live Updates: Trump says U.S. prepared to strike Iran \"anytime we want\" after carrying out \"very heavy attack\" - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaGpwVVBCeVNvZE5lV3RCSFl0M2E1cnZlZS0wMjVSRFlrS1E5ZXFWSml2MGdKZEFMaHlSRFc1Ylc1WkRPTy1IaEpRZzFrbFpBZFJJbmw4RnVYaDJxWDFUQ3hlVk9JMUJ5Zk1HXzQ1Z2RxbVpWN2dTa3lFTzdwN3V3QjFTb20tSEdkOTRnQS10eUEwaFBQWlcxSmQwbUZxRmhCOEptYXhaTWJyNGpnV0E?oc=5",
+          "title": "Pediatrician says RFK Jr. sowing doubt about measles-associated deaths - PBS",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd2NCQUlibk9RNW9pZ0NsZVNnZFNIVnZBcUlsMHAwTktFN2twZ2d5V3o0dmsxX2xwYjEwUnVHMlhHUHZ4OUFnckFLUWtFc1ZJaGJGR0N6Z3p5UzNRZE9RSFBvU0VkVVdmV0dSRW9tRGtidklPaUFMZ0ZlRl9FWUg5dkhuZjdYdGNBUE9WUG5hYTNaUl9pRzNHd3pqWVNhbThrNk5mbUhR?oc=5",
           "source": "Google News",
-          "published": "Thu, 03 Sep 2026 06:48:00 GMT"
+          "published": "Wed, 02 Sep 2026 22:25:25 GMT"
         },
         {
-          "title": "Stock futures are little changed after major averages snap three-day losing streaks: Live updates - cnbc.com",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tZmdtNmZXU09LTVJCOFJZbG1uYmJwd0c2ZFM2S3UwQXo4WjVzNmJ6TXBXWlFPTmdHQ1hPVnVuc01vbktmdjAySlcwZ19YbURRSHhtTFJjR3N3T1BaVElvNXNHT0MwT2VNS1dzTXBiNWM5Y0I4d2pF0gF8QVVfeXFMUFZoRkZnVzM4WFBfMWM3Y0ZWbDZHYUVJNlkzanZFM2hoZWl4Wl9FYkJwaHE5a1U2SmFoWUZyMTVHS1BuZDd5c2x0a29rRnZGLW9JRW9rNWN4UXlhS0ItZ2VYWE5lRG1kWDZxZXdlZDlHSk1GZFVaakkxV2txZQ?oc=5",
+          "title": "Congo's Ebola outbreak shows no signs of slowing as deaths top 3,000 - KSL News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT2R3MjZaYnRQSUVpMHJrelR3Vk9xZzFJa0dsT2hjcXFKR3dQTWRZeThpd1lqZ2xtSXlpVzQwM0luSVJBZG5LYXZIc3kwZXlPTXE4UGQxdW9iTUUxcnFMcksxeGh5eHQtczFCRkxkUkM0VlBPakpYa3UwTEk1WnZjZFJLdTl1NUM0QTJ1aFplYkFmT3hwcmphbzlNcTBMZU1lZHRKWFNn?oc=5",
           "source": "Google News",
-          "published": "Thu, 03 Sep 2026 06:32:29 GMT"
+          "published": "Wed, 02 Sep 2026 21:17:01 GMT"
         }
       ]
     },
     {
-      "word": "Updates",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Live Updates: Trump says U.S. prepared to strike Iran \"anytime we want\" after carrying out \"very heavy attack\" - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaGpwVVBCeVNvZE5lV3RCSFl0M2E1cnZlZS0wMjVSRFlrS1E5ZXFWSml2MGdKZEFMaHlSRFc1Ylc1WkRPTy1IaEpRZzFrbFpBZFJJbmw4RnVYaDJxWDFUQ3hlVk9JMUJ5Zk1HXzQ1Z2RxbVpWN2dTa3lFTzdwN3V3QjFTb20tSEdkOTRnQS10eUEwaFBQWlcxSmQwbUZxRmhCOEptYXhaTWJyNGpnV0E?oc=5",
-          "source": "Google News",
-          "published": "Thu, 03 Sep 2026 06:48:00 GMT"
-        },
-        {
-          "title": "Stock futures are little changed after major averages snap three-day losing streaks: Live updates - cnbc.com",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tZmdtNmZXU09LTVJCOFJZbG1uYmJwd0c2ZFM2S3UwQXo4WjVzNmJ6TXBXWlFPTmdHQ1hPVnVuc01vbktmdjAySlcwZ19YbURRSHhtTFJjR3N3T1BaVElvNXNHT0MwT2VNS1dzTXBiNWM5Y0I4d2pF0gF8QVVfeXFMUFZoRkZnVzM4WFBfMWM3Y0ZWbDZHYUVJNlkzanZFM2hoZWl4Wl9FYkJwaHE5a1U2SmFoWUZyMTVHS1BuZDd5c2x0a29rRnZGLW9JRW9rNWN4UXlhS0ItZ2VYWE5lRG1kWDZxZXdlZDlHSk1GZFVaakkxV2txZQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 03 Sep 2026 06:32:29 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Heavy",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Live Updates: Trump says U.S. prepared to strike Iran \"anytime we want\" after carrying out \"very heavy attack\" - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaGpwVVBCeVNvZE5lV3RCSFl0M2E1cnZlZS0wMjVSRFlrS1E5ZXFWSml2MGdKZEFMaHlSRFc1Ylc1WkRPTy1IaEpRZzFrbFpBZFJJbmw4RnVYaDJxWDFUQ3hlVk9JMUJ5Zk1HXzQ1Z2RxbVpWN2dTa3lFTzdwN3V3QjFTb20tSEdkOTRnQS10eUEwaFBQWlcxSmQwbUZxRmhCOEptYXhaTWJyNGpnV0E?oc=5",
-          "source": "Google News",
-          "published": "Thu, 03 Sep 2026 06:48:00 GMT"
-        },
-        {
-          "title": "Falcon Heavy brings the heat photo of the day for Sept. 2, 2026 - Space",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSEZ2aDhWOE4yU3g1c0ltOHdJdUNDUFg5ZllaTUF6eDEyd29mQWhsS0VqNGl2TmhTVmVyYW5MTjhRZWNySUYyM1N0amNqb2VkRGVPdW91bjM1aUNreEV4NURSV25zb0dPQ0FrQUpoRS1LOWRRQjAzV2p3TGhiRlFJSERVUEJTWjgxWlhrQ3R0OUwzQ25wTmlmczNCcGI1ZDREZEhTcERtY0VmNktNZkNnNHprOXlIMUdNMWxYdDFBN1daUThtX1E?oc=5",
-          "source": "Google News",
-          "published": "Wed, 02 Sep 2026 14:10:07 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Full",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Minneapolis mass shooting: Police share latest details [Full news conference] - FOX 9 Minneapolis-St. Paul",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaTY3Zi1QOVk4NXBDd3o1dVBzSXFyVll0WW1lcnUzODV5cGNOUFVzS0w2UXhEWnRqU3ZoVExLMmRhRjVlQ0kwUElMN2lsOVdsMjlaS0tpR0tSLXQxdnRlbXVUcXFTcjlvelNjZlNtVkhUZTJ2bUM5N2JRVEZOVzdyZF9hTVN4aXZVVTZra3h1WmpOWWhBOFp4LVZ30gGfAUFVX3lxTE92QXFTOGZuZ0hVcmVzbVFhc2V3dUlESFFFTWRLT1RZRWNyTmU5dEZudFdzRVNiVGZqTVRHUGh3eWNDakk2bG9pTHg5YkNZSHNkdm56RFpZMEJ4U3l5aVZPLVRKaVB0clBNV3lodk5nYy1CeFhqTks5aDJwRnNDSWhmWE95X3duRGFaWkZuUnQ3YlNhdVJEal9oY2diUzlXaw?oc=5",
-          "source": "Google News",
-          "published": "Wed, 02 Sep 2026 23:34:05 GMT"
-        },
-        {
-          "title": "In pictures: August’s full moon and partial lunar eclipse - CNN",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMW9zSFVmQzd2eERfRjJzZXg2elM2X2Y5V1B6eTRqc0xCR0lwMnlEVGdkSm96czlGdm5XUnpSdG11SXNnOUlzcUJmQ0FRbUx3QUdBRXlFT3dQZ21wWGk4ZHJUWjc2eWkzeE1uSzByVkZ3MVhsTlNUS0Y4aHE1bm5ReWxVTFRMbGlTSm82OExB?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 19:16:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Charge",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "What is the Tuey-Rodriguez instruction, aka 'dynamite charge,' given in Lindsay Clancy's trial? - WCVB",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ214U0NyTkpOVWhNZUhkWmRYLURJdE5vdS1FUG1maXlXRElONWVSYnNVTzBOQ3ZTQVg4YkxxYmVZMkpmRDFZdkozYkpzNWM5dUJDUXJiNjJyZ1VYUUp4U05QcTQwdkZwZ1p3WmREUzllTW01RUlTMDQ1SU1kSTJLMWtMQ0ZLazBVMTQtVkZrdEIyNk0?oc=5",
-          "source": "Google News",
-          "published": "Wed, 02 Sep 2026 20:39:00 GMT"
-        },
-        {
-          "title": "Tiger Woods pleads no contest to reckless driving charge over rollover crash in Florida - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRmVlMUxPcy1WZnNsam52M1N3aHE1V0NNbmJScW54c3FIYXNvd2d0WVktUFFHTm9yVFhLUkRmRVdaMV9SNjZaTk1ydmRBTHZmaWxYTEZXc3JYb3NxeHkyckVCS1lqRG0tM3BWcmlyQ09rY2syQlZIRUNiekdSNm9yMDhGdTUwY20yWDZlS1NjbzZGbEhGcUdkNw?oc=5",
-          "source": "Google News",
-          "published": "Wed, 02 Sep 2026 21:54:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Lake",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Apple Maps renames Lake Ontario ‘Lake America’ for US users after Trump order - Fox Business",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNnYwMl94bm9CemhoUFlSbmNYNG96ZDdnaGw2YmFlRUtUYmRtU1ZhM2pnbzFqNXVXUXhNLWZyeGJPSnZ2WUpCLWZyZFN5QnpNd0dvLWlDWGlEZ042OU5jMGlaenVKM0Zwcjl6VVVYcVpjYTRUamd5cjJPU05YN1MzQU92a2NZR0pGcmdfNFdBTFA4N3BoSEdOOF9oVTRDTGJzYXF2ZlZSMlVmR2PSAbABQVVfeXFMUGxfdm1aQUtsWDZRNHVRa3U2Tmx5NnpyQW5XeUxKYTNhSjdheVZEamJaNnY5c3ZVdE5jLWdiX2J2QldUaUdKZFU2S2FLWmtpdTRjM1hBd0NKRU9walRDT0xuVHNsS3dZdDEzM1FBbHpta29pelk4NFAzZVBLUXA4N012MEZYUUt2UzMwZ2cycUcxUFVzNm9mUmt2Y1VINkg3YmFZTkRYTGVpTGMtWWY5RGk?oc=5",
-          "source": "Google News",
-          "published": "Wed, 02 Sep 2026 11:23:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Health",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Health insurance costs projected to spike next year by most in two decades - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWEExZERhZ3JDSWF2ZnRFM0tYTkJkcFdZbzQ0UXMtSDFuUGFzcWI5c3l2Uy1JTzM2ZC1acmlYQk5ZR2JEeFJEN3RBbWN5MENGeUJKVE1tU2NjcGN1VHg4ZXVmNl82RWhlYTd0VUE0WVM5dXd1MzBYOVEtTGdNODVxNG9OZnM3Z0x4SVFJaG9vcnVsT3phQlVmNE5UVEFqemwzZTk5WHZpbU9PS2V4VlZiSG56ODY?oc=5",
-          "source": "Google News",
-          "published": "Thu, 03 Sep 2026 03:30:00 GMT"
-        },
-        {
-          "title": "Measles exposure reported at Portland-area Legacy Health hospitals, clinic - OregonLive.com",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLWIzaHVvUVhtMFNFd0MyRGdsMmwwUDBlV2s4TnZNLV9GaGFLUFVZSWh4dEVXWWVfQXhVdFBQbm02eFUtN1ZPclZjYW5ublFxQmI3X3BmQ0tNVXZOc3hLU3E2OHk4d2k2MzY1TEVGTXByLXhBdFBqVVF1Unl5TmFxd09ZU3RfS01QMXZHTTA0QWFWaC0zV2tRb1VyU0tpYzJPXzF0X3BPTERobElibXpYcDc4VjdMR3E3SHdzM9IB0AFBVV95cUxQUGJFUk1VV0ZOcEpLX3RDUHg5ekE2bXZhUDY0M3dIc2dVVmxwOTdKUTFINFNlZ3VMdWJoNnYyRWFXTm5MajBFQ0RXTkpzdTd3cE9uUWhRQTV1dWRCei1HSmJsYS0zS1BvWkRzc1ExWXJNMEZzY0Y1aDVoVVF3Smp5elpIRG9ld3VJVWJZRVdDYlduSEtzYXhjeTBCZXNOeGlKckM3b2ZSNjU5UEt4MVBuUE5LNzVXMUN4WFRCNTNjUXlFMjV2M2RSaWZLMHlKdUpG?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 21:46:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Xiaomi",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Xiaomi beats Apple to market with wide Xiaomi 18 Fold reveal - androidauthority.com",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RSGM1V3ZZLWZ1TjNYdVNTc1RSdVZqT0pySmJBQmNjT1ZiVlpCQmF0bmtGWHd1TmFfenZNOXBOTl9WUG82bzBlLU9ZQ2lrZ3B4TGxjdVFSWl9tbnFlUDFTbENveFB1NVhHc3A0UFczck1YZWppOHdtTFpuSQ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 02 Sep 2026 09:36:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "George",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "George Clooney weighs in after Paramount accuses Mark Ruffalo of antisemitism - Entertainment Weekly",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdHJMTFZhazZPeGtoS2N1NHRaLUFma2sxb2VnTXpUSXRnWUozYmpsQXliUDM4ZDlpM3lTbFhJX0NrMGU4TDdZM3dtTEdrV2Z3ekM0Rjhzcnp5QzRQX2Fyd1lBS3FXaVRDY0w1WDJCVVg2RzBWUkpjSXJWZVR4czFFZng5WnRGaUJqWm5YSU1QRjdUNzg?oc=5",
-          "source": "Google News",
-          "published": "Wed, 02 Sep 2026 17:23:11 GMT"
-        },
-        {
-          "title": "George Lucas Says Opening Lucas Museum ‘Almost Broke My Will’: ‘It’s Taken So Long to Get Here’ - Variety",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5GU0g0WlJkcmhjbTkxLXdqX2Nfb2FRTWZac3paMGZxSXdlUmVTNTF3d05XamxoUkg5Z0l5Z1JkSFFKLVRGclY0R2hMbWxmQW03YzNrb290OUhRUUV6REhaOG0wMEhnWU1RTmlzZF9ObkVjbC02cnVJYWd3?oc=5",
-          "source": "Google News",
-          "published": "Thu, 03 Sep 2026 01:08:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Lucas",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "George Lucas Says Opening Lucas Museum ‘Almost Broke My Will’: ‘It’s Taken So Long to Get Here’ - Variety",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5GU0g0WlJkcmhjbTkxLXdqX2Nfb2FRTWZac3paMGZxSXdlUmVTNTF3d05XamxoUkg5Z0l5Z1JkSFFKLVRGclY0R2hMbWxmQW03YzNrb290OUhRUUV6REhaOG0wMEhnWU1RTmlzZF9ObkVjbC02cnVJYWd3?oc=5",
-          "source": "Google News",
-          "published": "Thu, 03 Sep 2026 01:08:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Measles",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Lancaster County coroner confirms investigation of another death of child who had measles - LancasterOnline",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPNVdrVVFpdVRJWjJpOFVaVVdRSGpvaGpqWmFpbUotSjZYWjhOaWdnNVJqN3k3TV9zRjg3RHVNZVlTMW9QYVRLbFgzUmlqSGw2Qnc2WS1JSXZmcjl1MTJHWk15NHVsV1lPZlJvYXBqTFY5OGttVmlNYkduRHNBNGlfNGYzN185MDk3VkhESnhJNFo3MEtVakNOMXpjcGkyU1ZGUERCYmRkcW91b1RSMUk2Q3c4RVNDWHJqWUNpZnBlWmVCellrdnZ0Unk4bnNQTm1CbktDV0FaUnZuemJaVlNYU0Q0VU9KNlp0U1VUdHpUQnBNUmR3R3FMbkpMU04wSmUxcDZyNm14Zy1Hdw?oc=5",
-          "source": "Google News",
-          "published": "Wed, 02 Sep 2026 18:00:00 GMT"
-        },
-        {
-          "title": "Measles exposure reported at Portland-area Legacy Health hospitals, clinic - OregonLive.com",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLWIzaHVvUVhtMFNFd0MyRGdsMmwwUDBlV2s4TnZNLV9GaGFLUFVZSWh4dEVXWWVfQXhVdFBQbm02eFUtN1ZPclZjYW5ublFxQmI3X3BmQ0tNVXZOc3hLU3E2OHk4d2k2MzY1TEVGTXByLXhBdFBqVVF1Unl5TmFxd09ZU3RfS01QMXZHTTA0QWFWaC0zV2tRb1VyU0tpYzJPXzF0X3BPTERobElibXpYcDc4VjdMR3E3SHdzM9IB0AFBVV95cUxQUGJFUk1VV0ZOcEpLX3RDUHg5ekE2bXZhUDY0M3dIc2dVVmxwOTdKUTFINFNlZ3VMdWJoNnYyRWFXTm5MajBFQ0RXTkpzdTd3cE9uUWhRQTV1dWRCei1HSmJsYS0zS1BvWkRzc1ExWXJNMEZzY0Y1aDVoVVF3Smp5elpIRG9ld3VJVWJZRVdDYlduSEtzYXhjeTBCZXNOeGlKckM3b2ZSNjU5UEt4MVBuUE5LNzVXMUN4WFRCNTNjUXlFMjV2M2RSaWZLMHlKdUpG?oc=5",
-          "source": "Google News",
-          "published": "Tue, 01 Sep 2026 21:46:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "war",
+      "word": "Gloria",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Iran war escalation raises concern over civilian death toll - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZmJEcTdhQU9kcW41Z2J6enVZU2NHQ253eVV1VDJKOXBSTTJfbGhfVi1wbTQ0U1gzRllLb2xUUV9LRGRZaWpvaUlSWWRwQTdBaXdNY2x1Z3pxU1U1WjJSdzdKWGR6a2FLSXN6dnBPQ3NhM1hwUkxOZlIyd0dDX0ZycjdVSlpEUFN5N1NQbWR2UW1oRHNBU3BTZENPbGotQVFOSmdfUUFJNERYbEZTVzU3WDlrUQ?oc=5",
+          "title": "Gloria Steinem, trailblazing feminist organizer, dies at 92 - Politico",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSDhWMWZuaEVuRWJGVFRCUjd0dGhnZlhZZ2Z1TzExQ1duY0xFQktmZl9SbGdNbl85NHYwQmItbzdWU09lcmMyNDBsNlVxRDVHaVFqV29lVUREbm9kMnVPUXFGbW9CTy0wdExORGI5cE1kRy1mVUlXR3hxWGZQZ1RKNHBPbjdxVW5RSzVUTmFfc0ppZw?oc=5",
           "source": "Google News",
-          "published": "Thu, 03 Sep 2026 05:42:52 GMT"
+          "published": "Thu, 03 Sep 2026 10:35:00 GMT"
         }
       ]
     },
     {
-      "word": "Escalation",
+      "word": "Steinem",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Iran war escalation raises concern over civilian death toll - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZmJEcTdhQU9kcW41Z2J6enVZU2NHQ253eVV1VDJKOXBSTTJfbGhfVi1wbTQ0U1gzRllLb2xUUV9LRGRZaWpvaUlSWWRwQTdBaXdNY2x1Z3pxU1U1WjJSdzdKWGR6a2FLSXN6dnBPQ3NhM1hwUkxOZlIyd0dDX0ZycjdVSlpEUFN5N1NQbWR2UW1oRHNBU3BTZENPbGotQVFOSmdfUUFJNERYbEZTVzU3WDlrUQ?oc=5",
+          "title": "Gloria Steinem, trailblazing feminist organizer, dies at 92 - Politico",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSDhWMWZuaEVuRWJGVFRCUjd0dGhnZlhZZ2Z1TzExQ1duY0xFQktmZl9SbGdNbl85NHYwQmItbzdWU09lcmMyNDBsNlVxRDVHaVFqV29lVUREbm9kMnVPUXFGbW9CTy0wdExORGI5cE1kRy1mVUlXR3hxWGZQZ1RKNHBPbjdxVW5RSzVUTmFfc0ppZw?oc=5",
           "source": "Google News",
-          "published": "Thu, 03 Sep 2026 05:42:52 GMT"
+          "published": "Thu, 03 Sep 2026 10:35:00 GMT"
         }
       ]
     },
     {
-      "word": "Raises",
+      "word": "Trailblazing",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Iran war escalation raises concern over civilian death toll - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZmJEcTdhQU9kcW41Z2J6enVZU2NHQ253eVV1VDJKOXBSTTJfbGhfVi1wbTQ0U1gzRllLb2xUUV9LRGRZaWpvaUlSWWRwQTdBaXdNY2x1Z3pxU1U1WjJSdzdKWGR6a2FLSXN6dnBPQ3NhM1hwUkxOZlIyd0dDX0ZycjdVSlpEUFN5N1NQbWR2UW1oRHNBU3BTZENPbGotQVFOSmdfUUFJNERYbEZTVzU3WDlrUQ?oc=5",
+          "title": "Gloria Steinem, trailblazing feminist organizer, dies at 92 - Politico",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSDhWMWZuaEVuRWJGVFRCUjd0dGhnZlhZZ2Z1TzExQ1duY0xFQktmZl9SbGdNbl85NHYwQmItbzdWU09lcmMyNDBsNlVxRDVHaVFqV29lVUREbm9kMnVPUXFGbW9CTy0wdExORGI5cE1kRy1mVUlXR3hxWGZQZ1RKNHBPbjdxVW5RSzVUTmFfc0ppZw?oc=5",
           "source": "Google News",
-          "published": "Thu, 03 Sep 2026 05:42:52 GMT"
+          "published": "Thu, 03 Sep 2026 10:35:00 GMT"
         }
       ]
     },
     {
-      "word": "Concern",
+      "word": "Feminist",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Iran war escalation raises concern over civilian death toll - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZmJEcTdhQU9kcW41Z2J6enVZU2NHQ253eVV1VDJKOXBSTTJfbGhfVi1wbTQ0U1gzRllLb2xUUV9LRGRZaWpvaUlSWWRwQTdBaXdNY2x1Z3pxU1U1WjJSdzdKWGR6a2FLSXN6dnBPQ3NhM1hwUkxOZlIyd0dDX0ZycjdVSlpEUFN5N1NQbWR2UW1oRHNBU3BTZENPbGotQVFOSmdfUUFJNERYbEZTVzU3WDlrUQ?oc=5",
+          "title": "Gloria Steinem, trailblazing feminist organizer, dies at 92 - Politico",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSDhWMWZuaEVuRWJGVFRCUjd0dGhnZlhZZ2Z1TzExQ1duY0xFQktmZl9SbGdNbl85NHYwQmItbzdWU09lcmMyNDBsNlVxRDVHaVFqV29lVUREbm9kMnVPUXFGbW9CTy0wdExORGI5cE1kRy1mVUlXR3hxWGZQZ1RKNHBPbjdxVW5RSzVUTmFfc0ppZw?oc=5",
           "source": "Google News",
-          "published": "Thu, 03 Sep 2026 05:42:52 GMT"
+          "published": "Thu, 03 Sep 2026 10:35:00 GMT"
         }
       ]
     },
     {
-      "word": "Civilian",
+      "word": "Organizer",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Iran war escalation raises concern over civilian death toll - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZmJEcTdhQU9kcW41Z2J6enVZU2NHQ253eVV1VDJKOXBSTTJfbGhfVi1wbTQ0U1gzRllLb2xUUV9LRGRZaWpvaUlSWWRwQTdBaXdNY2x1Z3pxU1U1WjJSdzdKWGR6a2FLSXN6dnBPQ3NhM1hwUkxOZlIyd0dDX0ZycjdVSlpEUFN5N1NQbWR2UW1oRHNBU3BTZENPbGotQVFOSmdfUUFJNERYbEZTVzU3WDlrUQ?oc=5",
+          "title": "Gloria Steinem, trailblazing feminist organizer, dies at 92 - Politico",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSDhWMWZuaEVuRWJGVFRCUjd0dGhnZlhZZ2Z1TzExQ1duY0xFQktmZl9SbGdNbl85NHYwQmItbzdWU09lcmMyNDBsNlVxRDVHaVFqV29lVUREbm9kMnVPUXFGbW9CTy0wdExORGI5cE1kRy1mVUlXR3hxWGZQZ1RKNHBPbjdxVW5RSzVUTmFfc0ppZw?oc=5",
           "source": "Google News",
-          "published": "Thu, 03 Sep 2026 05:42:52 GMT"
+          "published": "Thu, 03 Sep 2026 10:35:00 GMT"
         }
       ]
     },
     {
-      "word": "Toll",
+      "word": "Dies",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Iran war escalation raises concern over civilian death toll - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZmJEcTdhQU9kcW41Z2J6enVZU2NHQ253eVV1VDJKOXBSTTJfbGhfVi1wbTQ0U1gzRllLb2xUUV9LRGRZaWpvaUlSWWRwQTdBaXdNY2x1Z3pxU1U1WjJSdzdKWGR6a2FLSXN6dnBPQ3NhM1hwUkxOZlIyd0dDX0ZycjdVSlpEUFN5N1NQbWR2UW1oRHNBU3BTZENPbGotQVFOSmdfUUFJNERYbEZTVzU3WDlrUQ?oc=5",
+          "title": "Gloria Steinem, trailblazing feminist organizer, dies at 92 - Politico",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSDhWMWZuaEVuRWJGVFRCUjd0dGhnZlhZZ2Z1TzExQ1duY0xFQktmZl9SbGdNbl85NHYwQmItbzdWU09lcmMyNDBsNlVxRDVHaVFqV29lVUREbm9kMnVPUXFGbW9CTy0wdExORGI5cE1kRy1mVUlXR3hxWGZQZ1RKNHBPbjdxVW5RSzVUTmFfc0ppZw?oc=5",
           "source": "Google News",
-          "published": "Thu, 03 Sep 2026 05:42:52 GMT"
+          "published": "Thu, 03 Sep 2026 10:35:00 GMT"
         }
       ]
     },
     {
-      "word": "oil",
+      "word": "Strikes",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "US oil giant Chevron confirms it will expand operations in Venezuela - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeUY5RDVMaG9WMTE1ZHVocE9lUWVQWXNiOFBGY3dUc3hOdTVIYzRtNkwyV0VJYTRPcnNSR2hoYkh6Q2JFQ3RYS2JQSTlVeXhrcF9XVzBVeVA5OEdxSVp1RHZ1QmhWX1FXM3lYVWdVeEF0T1V5TFh0cS1scmdZd2d2RVg2aE0wd3Z5T1gxRE5BbkI?oc=5",
+          "title": "Iran strikes Kuwait as Trump says renewed Mideast hostilities will not last 'too long' - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaE5KOWRmZmI1OElBb1Fna0FCWlZqZkNfbWh0RDN1cHdvT3lqc1p6Y3ZuQm9lSWRtVFliajlSYnFZZHdMM1dOWGhUeWZVa0FkX18tOTdCRVc1V29NeWN1aWpjWlNQYkZLeVp6bTI4UU9uZnFCXzR5ZTlBUF9aMFQzcEZnbzlIcFJnbm9naVN3alozSUdyUlpNVmxR0gGfAUFVX3lxTE9aQnE4dkJ0b1E4MVB6V3pLaE5xYzBBOHR2WVlocFRmS1kwTDB3Zi0wS2tHSkU1Yk9ndHUySW9ZcDFwQS1QVUo0VktGQ0tUQk9kR01BbEo2QjNHVjZCYjF6ZjdzRzdJa05BU3JhRVYxR2pZQ29xTmpiZmFaOVBkSndMaGNUSjI5cVNUNnBteWRNa3R3VVZDaERIZk1nS29IMA?oc=5",
           "source": "Google News",
-          "published": "Thu, 03 Sep 2026 04:12:00 GMT"
+          "published": "Thu, 03 Sep 2026 02:26:00 GMT"
         }
       ]
     },
     {
-      "word": "Giant",
+      "word": "Kuwait",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "US oil giant Chevron confirms it will expand operations in Venezuela - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeUY5RDVMaG9WMTE1ZHVocE9lUWVQWXNiOFBGY3dUc3hOdTVIYzRtNkwyV0VJYTRPcnNSR2hoYkh6Q2JFQ3RYS2JQSTlVeXhrcF9XVzBVeVA5OEdxSVp1RHZ1QmhWX1FXM3lYVWdVeEF0T1V5TFh0cS1scmdZd2d2RVg2aE0wd3Z5T1gxRE5BbkI?oc=5",
+          "title": "Iran strikes Kuwait as Trump says renewed Mideast hostilities will not last 'too long' - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaE5KOWRmZmI1OElBb1Fna0FCWlZqZkNfbWh0RDN1cHdvT3lqc1p6Y3ZuQm9lSWRtVFliajlSYnFZZHdMM1dOWGhUeWZVa0FkX18tOTdCRVc1V29NeWN1aWpjWlNQYkZLeVp6bTI4UU9uZnFCXzR5ZTlBUF9aMFQzcEZnbzlIcFJnbm9naVN3alozSUdyUlpNVmxR0gGfAUFVX3lxTE9aQnE4dkJ0b1E4MVB6V3pLaE5xYzBBOHR2WVlocFRmS1kwTDB3Zi0wS2tHSkU1Yk9ndHUySW9ZcDFwQS1QVUo0VktGQ0tUQk9kR01BbEo2QjNHVjZCYjF6ZjdzRzdJa05BU3JhRVYxR2pZQ29xTmpiZmFaOVBkSndMaGNUSjI5cVNUNnBteWRNa3R3VVZDaERIZk1nS29IMA?oc=5",
           "source": "Google News",
-          "published": "Thu, 03 Sep 2026 04:12:00 GMT"
+          "published": "Thu, 03 Sep 2026 02:26:00 GMT"
         }
       ]
     },
     {
-      "word": "Chevron",
+      "word": "Renewed",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "US oil giant Chevron confirms it will expand operations in Venezuela - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeUY5RDVMaG9WMTE1ZHVocE9lUWVQWXNiOFBGY3dUc3hOdTVIYzRtNkwyV0VJYTRPcnNSR2hoYkh6Q2JFQ3RYS2JQSTlVeXhrcF9XVzBVeVA5OEdxSVp1RHZ1QmhWX1FXM3lYVWdVeEF0T1V5TFh0cS1scmdZd2d2RVg2aE0wd3Z5T1gxRE5BbkI?oc=5",
+          "title": "Iran strikes Kuwait as Trump says renewed Mideast hostilities will not last 'too long' - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaE5KOWRmZmI1OElBb1Fna0FCWlZqZkNfbWh0RDN1cHdvT3lqc1p6Y3ZuQm9lSWRtVFliajlSYnFZZHdMM1dOWGhUeWZVa0FkX18tOTdCRVc1V29NeWN1aWpjWlNQYkZLeVp6bTI4UU9uZnFCXzR5ZTlBUF9aMFQzcEZnbzlIcFJnbm9naVN3alozSUdyUlpNVmxR0gGfAUFVX3lxTE9aQnE4dkJ0b1E4MVB6V3pLaE5xYzBBOHR2WVlocFRmS1kwTDB3Zi0wS2tHSkU1Yk9ndHUySW9ZcDFwQS1QVUo0VktGQ0tUQk9kR01BbEo2QjNHVjZCYjF6ZjdzRzdJa05BU3JhRVYxR2pZQ29xTmpiZmFaOVBkSndMaGNUSjI5cVNUNnBteWRNa3R3VVZDaERIZk1nS29IMA?oc=5",
           "source": "Google News",
-          "published": "Thu, 03 Sep 2026 04:12:00 GMT"
+          "published": "Thu, 03 Sep 2026 02:26:00 GMT"
         }
       ]
     },
     {
-      "word": "Expand",
+      "word": "Hostilities",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "US oil giant Chevron confirms it will expand operations in Venezuela - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeUY5RDVMaG9WMTE1ZHVocE9lUWVQWXNiOFBGY3dUc3hOdTVIYzRtNkwyV0VJYTRPcnNSR2hoYkh6Q2JFQ3RYS2JQSTlVeXhrcF9XVzBVeVA5OEdxSVp1RHZ1QmhWX1FXM3lYVWdVeEF0T1V5TFh0cS1scmdZd2d2RVg2aE0wd3Z5T1gxRE5BbkI?oc=5",
+          "title": "Iran strikes Kuwait as Trump says renewed Mideast hostilities will not last 'too long' - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaE5KOWRmZmI1OElBb1Fna0FCWlZqZkNfbWh0RDN1cHdvT3lqc1p6Y3ZuQm9lSWRtVFliajlSYnFZZHdMM1dOWGhUeWZVa0FkX18tOTdCRVc1V29NeWN1aWpjWlNQYkZLeVp6bTI4UU9uZnFCXzR5ZTlBUF9aMFQzcEZnbzlIcFJnbm9naVN3alozSUdyUlpNVmxR0gGfAUFVX3lxTE9aQnE4dkJ0b1E4MVB6V3pLaE5xYzBBOHR2WVlocFRmS1kwTDB3Zi0wS2tHSkU1Yk9ndHUySW9ZcDFwQS1QVUo0VktGQ0tUQk9kR01BbEo2QjNHVjZCYjF6ZjdzRzdJa05BU3JhRVYxR2pZQ29xTmpiZmFaOVBkSndMaGNUSjI5cVNUNnBteWRNa3R3VVZDaERIZk1nS29IMA?oc=5",
           "source": "Google News",
-          "published": "Thu, 03 Sep 2026 04:12:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Operations",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "US oil giant Chevron confirms it will expand operations in Venezuela - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeUY5RDVMaG9WMTE1ZHVocE9lUWVQWXNiOFBGY3dUc3hOdTVIYzRtNkwyV0VJYTRPcnNSR2hoYkh6Q2JFQ3RYS2JQSTlVeXhrcF9XVzBVeVA5OEdxSVp1RHZ1QmhWX1FXM3lYVWdVeEF0T1V5TFh0cS1scmdZd2d2RVg2aE0wd3Z5T1gxRE5BbkI?oc=5",
-          "source": "Google News",
-          "published": "Thu, 03 Sep 2026 04:12:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Venezuela",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "US oil giant Chevron confirms it will expand operations in Venezuela - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeUY5RDVMaG9WMTE1ZHVocE9lUWVQWXNiOFBGY3dUc3hOdTVIYzRtNkwyV0VJYTRPcnNSR2hoYkh6Q2JFQ3RYS2JQSTlVeXhrcF9XVzBVeVA5OEdxSVp1RHZ1QmhWX1FXM3lYVWdVeEF0T1V5TFh0cS1scmdZd2d2RVg2aE0wd3Z5T1gxRE5BbkI?oc=5",
-          "source": "Google News",
-          "published": "Thu, 03 Sep 2026 04:12:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Travel",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump to travel for embattled Republicans in last 30 days of midterms - politico.com",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMURZcTROMzV3UnNjaXRBWm1hR0o4U2VzNDVyMERyYzU1UjdfZlRvQU9yOFhnVE5Md1NfVnVESkRmOW9fN2ZybnF6bUJvOHZxS2xjeGh0Y0VIQmZWWm1oVnFyVk1RSGk2dHFSRnZUQ3g2WEg1T2FndEg3TXB5ZnZQcUpQekxPY3J2c0Z0MUZPbUtaVXRJUjZtTEhhTVFINEVzb25Sbks3VUE4RWRvNk42Wnl6UHQ1NnlHODJr?oc=5",
-          "source": "Google News",
-          "published": "Thu, 03 Sep 2026 01:14:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Embattled",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump to travel for embattled Republicans in last 30 days of midterms - politico.com",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMURZcTROMzV3UnNjaXRBWm1hR0o4U2VzNDVyMERyYzU1UjdfZlRvQU9yOFhnVE5Md1NfVnVESkRmOW9fN2ZybnF6bUJvOHZxS2xjeGh0Y0VIQmZWWm1oVnFyVk1RSGk2dHFSRnZUQ3g2WEg1T2FndEg3TXB5ZnZQcUpQekxPY3J2c0Z0MUZPbUtaVXRJUjZtTEhhTVFINEVzb25Sbks3VUE4RWRvNk42Wnl6UHQ1NnlHODJr?oc=5",
-          "source": "Google News",
-          "published": "Thu, 03 Sep 2026 01:14:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Republicans",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump to travel for embattled Republicans in last 30 days of midterms - politico.com",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMURZcTROMzV3UnNjaXRBWm1hR0o4U2VzNDVyMERyYzU1UjdfZlRvQU9yOFhnVE5Md1NfVnVESkRmOW9fN2ZybnF6bUJvOHZxS2xjeGh0Y0VIQmZWWm1oVnFyVk1RSGk2dHFSRnZUQ3g2WEg1T2FndEg3TXB5ZnZQcUpQekxPY3J2c0Z0MUZPbUtaVXRJUjZtTEhhTVFINEVzb25Sbks3VUE4RWRvNk42Wnl6UHQ1NnlHODJr?oc=5",
-          "source": "Google News",
-          "published": "Thu, 03 Sep 2026 01:14:00 GMT"
+          "published": "Thu, 03 Sep 2026 02:26:00 GMT"
         }
       ]
     },
@@ -552,10 +354,62 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump to travel for embattled Republicans in last 30 days of midterms - politico.com",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMURZcTROMzV3UnNjaXRBWm1hR0o4U2VzNDVyMERyYzU1UjdfZlRvQU9yOFhnVE5Md1NfVnVESkRmOW9fN2ZybnF6bUJvOHZxS2xjeGh0Y0VIQmZWWm1oVnFyVk1RSGk2dHFSRnZUQ3g2WEg1T2FndEg3TXB5ZnZQcUpQekxPY3J2c0Z0MUZPbUtaVXRJUjZtTEhhTVFINEVzb25Sbks3VUE4RWRvNk42Wnl6UHQ1NnlHODJr?oc=5",
+          "title": "Iran strikes Kuwait as Trump says renewed Mideast hostilities will not last 'too long' - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaE5KOWRmZmI1OElBb1Fna0FCWlZqZkNfbWh0RDN1cHdvT3lqc1p6Y3ZuQm9lSWRtVFliajlSYnFZZHdMM1dOWGhUeWZVa0FkX18tOTdCRVc1V29NeWN1aWpjWlNQYkZLeVp6bTI4UU9uZnFCXzR5ZTlBUF9aMFQzcEZnbzlIcFJnbm9naVN3alozSUdyUlpNVmxR0gGfAUFVX3lxTE9aQnE4dkJ0b1E4MVB6V3pLaE5xYzBBOHR2WVlocFRmS1kwTDB3Zi0wS2tHSkU1Yk9ndHUySW9ZcDFwQS1QVUo0VktGQ0tUQk9kR01BbEo2QjNHVjZCYjF6ZjdzRzdJa05BU3JhRVYxR2pZQ29xTmpiZmFaOVBkSndMaGNUSjI5cVNUNnBteWRNa3R3VVZDaERIZk1nS29IMA?oc=5",
           "source": "Google News",
-          "published": "Thu, 03 Sep 2026 01:14:00 GMT"
+          "published": "Thu, 03 Sep 2026 02:26:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Long",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Iran strikes Kuwait as Trump says renewed Mideast hostilities will not last 'too long' - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaE5KOWRmZmI1OElBb1Fna0FCWlZqZkNfbWh0RDN1cHdvT3lqc1p6Y3ZuQm9lSWRtVFliajlSYnFZZHdMM1dOWGhUeWZVa0FkX18tOTdCRVc1V29NeWN1aWpjWlNQYkZLeVp6bTI4UU9uZnFCXzR5ZTlBUF9aMFQzcEZnbzlIcFJnbm9naVN3alozSUdyUlpNVmxR0gGfAUFVX3lxTE9aQnE4dkJ0b1E4MVB6V3pLaE5xYzBBOHR2WVlocFRmS1kwTDB3Zi0wS2tHSkU1Yk9ndHUySW9ZcDFwQS1QVUo0VktGQ0tUQk9kR01BbEo2QjNHVjZCYjF6ZjdzRzdJa05BU3JhRVYxR2pZQ29xTmpiZmFaOVBkSndMaGNUSjI5cVNUNnBteWRNa3R3VVZDaERIZk1nS29IMA?oc=5",
+          "source": "Google News",
+          "published": "Thu, 03 Sep 2026 02:26:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Campaign",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump says he’ll campaign for Republicans in 35 races ahead of the midterms - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOHhZVnNtVlhwUDFZVk9EWEN2LXZmTmR6UTYzN0hTclRQazBBeHFQVjFFZ3hRUWJMd2YyUkx4SW1nbzgxcVM4UUh0R1plT1R6a0hwYkpDVXZDTW1sZjBlbV95TnZkbEl0VDA2ekxBWUlGX1ZBWFRTZXRQTGlmZTVlbk9XMTJvRDJNV0xHZWFvb1BwZGVUbnp4WmZjYko0aGU0ZXp3Q0h4VHRBVVl5UzVkVkNyTWdRMjhJb3c?oc=5",
+          "source": "Google News",
+          "published": "Thu, 03 Sep 2026 02:15:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Republicans",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump says he’ll campaign for Republicans in 35 races ahead of the midterms - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOHhZVnNtVlhwUDFZVk9EWEN2LXZmTmR6UTYzN0hTclRQazBBeHFQVjFFZ3hRUWJMd2YyUkx4SW1nbzgxcVM4UUh0R1plT1R6a0hwYkpDVXZDTW1sZjBlbV95TnZkbEl0VDA2ekxBWUlGX1ZBWFRTZXRQTGlmZTVlbk9XMTJvRDJNV0xHZWFvb1BwZGVUbnp4WmZjYko0aGU0ZXp3Q0h4VHRBVVl5UzVkVkNyTWdRMjhJb3c?oc=5",
+          "source": "Google News",
+          "published": "Thu, 03 Sep 2026 02:15:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Races",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump says he’ll campaign for Republicans in 35 races ahead of the midterms - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOHhZVnNtVlhwUDFZVk9EWEN2LXZmTmR6UTYzN0hTclRQazBBeHFQVjFFZ3hRUWJMd2YyUkx4SW1nbzgxcVM4UUh0R1plT1R6a0hwYkpDVXZDTW1sZjBlbV95TnZkbEl0VDA2ekxBWUlGX1ZBWFRTZXRQTGlmZTVlbk9XMTJvRDJNV0xHZWFvb1BwZGVUbnp4WmZjYko0aGU0ZXp3Q0h4VHRBVVl5UzVkVkNyTWdRMjhJb3c?oc=5",
+          "source": "Google News",
+          "published": "Thu, 03 Sep 2026 02:15:00 GMT"
         }
       ]
     },
@@ -565,75 +419,179 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump to travel for embattled Republicans in last 30 days of midterms - politico.com",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMURZcTROMzV3UnNjaXRBWm1hR0o4U2VzNDVyMERyYzU1UjdfZlRvQU9yOFhnVE5Md1NfVnVESkRmOW9fN2ZybnF6bUJvOHZxS2xjeGh0Y0VIQmZWWm1oVnFyVk1RSGk2dHFSRnZUQ3g2WEg1T2FndEg3TXB5ZnZQcUpQekxPY3J2c0Z0MUZPbUtaVXRJUjZtTEhhTVFINEVzb25Sbks3VUE4RWRvNk42Wnl6UHQ1NnlHODJr?oc=5",
+          "title": "Trump says he’ll campaign for Republicans in 35 races ahead of the midterms - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOHhZVnNtVlhwUDFZVk9EWEN2LXZmTmR6UTYzN0hTclRQazBBeHFQVjFFZ3hRUWJMd2YyUkx4SW1nbzgxcVM4UUh0R1plT1R6a0hwYkpDVXZDTW1sZjBlbV95TnZkbEl0VDA2ekxBWUlGX1ZBWFRTZXRQTGlmZTVlbk9XMTJvRDJNV0xHZWFvb1BwZGVUbnp4WmZjYko0aGU0ZXp3Q0h4VHRBVVl5UzVkVkNyTWdRMjhJb3c?oc=5",
           "source": "Google News",
-          "published": "Thu, 03 Sep 2026 01:14:00 GMT"
+          "published": "Thu, 03 Sep 2026 02:15:00 GMT"
         }
       ]
     },
     {
-      "word": "Term",
+      "word": "USS",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "The long-term implications of Pete Hegseth’s US military purges - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMGJZZUhvSUY1MW53NDlWTGk3bUgzdXhLVWpsU29FVlh6VjBqeWRhOFpranNFMkRPNUxfZW1HSGNIT3dFcmxYc2xPYl9CZjEyZDh1RHpab1JPV2FaOFM5MklLMDNlZUZjQ24xLWQ5OUthTXp2ZExDS2QwWDNVLXBxWl9wXzRpYmdnNVNqcXVYdWVUSUkxS3fSAZsBQVVfeXFMTy1ERzRLdTNLUHdtdC1jRE9KWDZET3I2U3lIb3FiMV9IaHBTNE92UDhkNHdpNFkxQlFNMHo1ZGJzOWd3Z3plUXROVmh0RUFmVGxRMGZTYzVaN082OVdMX2hTOUtoa1hCWVAzZ01OM2loZkFiZG9LbXdmRFh5elZKTWpUNmVfSGpudkRWNUR5VXRqR3ZUc0FLcU1hM0E?oc=5",
+          "title": "USS Abraham Lincoln: US sailors unwind in Thailand by shopping and bar-hopping - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ndHN0aWh5dVc5d29TeFpMNURKajU5ck1VaEVaeGFkLTZoaVoxcHBQcXB1WFlWMmJRdGNSS215WHR0bHgxcWhHU2FrZUlJWmxuRE1Nem9ObUgtdw?oc=5",
           "source": "Google News",
-          "published": "Wed, 02 Sep 2026 20:52:07 GMT"
+          "published": "Thu, 03 Sep 2026 11:33:09 GMT"
         }
       ]
     },
     {
-      "word": "Implications",
+      "word": "Abraham",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "The long-term implications of Pete Hegseth’s US military purges - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMGJZZUhvSUY1MW53NDlWTGk3bUgzdXhLVWpsU29FVlh6VjBqeWRhOFpranNFMkRPNUxfZW1HSGNIT3dFcmxYc2xPYl9CZjEyZDh1RHpab1JPV2FaOFM5MklLMDNlZUZjQ24xLWQ5OUthTXp2ZExDS2QwWDNVLXBxWl9wXzRpYmdnNVNqcXVYdWVUSUkxS3fSAZsBQVVfeXFMTy1ERzRLdTNLUHdtdC1jRE9KWDZET3I2U3lIb3FiMV9IaHBTNE92UDhkNHdpNFkxQlFNMHo1ZGJzOWd3Z3plUXROVmh0RUFmVGxRMGZTYzVaN082OVdMX2hTOUtoa1hCWVAzZ01OM2loZkFiZG9LbXdmRFh5elZKTWpUNmVfSGpudkRWNUR5VXRqR3ZUc0FLcU1hM0E?oc=5",
+          "title": "USS Abraham Lincoln: US sailors unwind in Thailand by shopping and bar-hopping - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ndHN0aWh5dVc5d29TeFpMNURKajU5ck1VaEVaeGFkLTZoaVoxcHBQcXB1WFlWMmJRdGNSS215WHR0bHgxcWhHU2FrZUlJWmxuRE1Nem9ObUgtdw?oc=5",
           "source": "Google News",
-          "published": "Wed, 02 Sep 2026 20:52:07 GMT"
+          "published": "Thu, 03 Sep 2026 11:33:09 GMT"
         }
       ]
     },
     {
-      "word": "Pete",
+      "word": "Lincoln",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "The long-term implications of Pete Hegseth’s US military purges - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMGJZZUhvSUY1MW53NDlWTGk3bUgzdXhLVWpsU29FVlh6VjBqeWRhOFpranNFMkRPNUxfZW1HSGNIT3dFcmxYc2xPYl9CZjEyZDh1RHpab1JPV2FaOFM5MklLMDNlZUZjQ24xLWQ5OUthTXp2ZExDS2QwWDNVLXBxWl9wXzRpYmdnNVNqcXVYdWVUSUkxS3fSAZsBQVVfeXFMTy1ERzRLdTNLUHdtdC1jRE9KWDZET3I2U3lIb3FiMV9IaHBTNE92UDhkNHdpNFkxQlFNMHo1ZGJzOWd3Z3plUXROVmh0RUFmVGxRMGZTYzVaN082OVdMX2hTOUtoa1hCWVAzZ01OM2loZkFiZG9LbXdmRFh5elZKTWpUNmVfSGpudkRWNUR5VXRqR3ZUc0FLcU1hM0E?oc=5",
+          "title": "USS Abraham Lincoln: US sailors unwind in Thailand by shopping and bar-hopping - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ndHN0aWh5dVc5d29TeFpMNURKajU5ck1VaEVaeGFkLTZoaVoxcHBQcXB1WFlWMmJRdGNSS215WHR0bHgxcWhHU2FrZUlJWmxuRE1Nem9ObUgtdw?oc=5",
           "source": "Google News",
-          "published": "Wed, 02 Sep 2026 20:52:07 GMT"
+          "published": "Thu, 03 Sep 2026 11:33:09 GMT"
         }
       ]
     },
     {
-      "word": "Hegseth",
+      "word": "Sailors",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "The long-term implications of Pete Hegseth’s US military purges - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMGJZZUhvSUY1MW53NDlWTGk3bUgzdXhLVWpsU29FVlh6VjBqeWRhOFpranNFMkRPNUxfZW1HSGNIT3dFcmxYc2xPYl9CZjEyZDh1RHpab1JPV2FaOFM5MklLMDNlZUZjQ24xLWQ5OUthTXp2ZExDS2QwWDNVLXBxWl9wXzRpYmdnNVNqcXVYdWVUSUkxS3fSAZsBQVVfeXFMTy1ERzRLdTNLUHdtdC1jRE9KWDZET3I2U3lIb3FiMV9IaHBTNE92UDhkNHdpNFkxQlFNMHo1ZGJzOWd3Z3plUXROVmh0RUFmVGxRMGZTYzVaN082OVdMX2hTOUtoa1hCWVAzZ01OM2loZkFiZG9LbXdmRFh5elZKTWpUNmVfSGpudkRWNUR5VXRqR3ZUc0FLcU1hM0E?oc=5",
+          "title": "USS Abraham Lincoln: US sailors unwind in Thailand by shopping and bar-hopping - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ndHN0aWh5dVc5d29TeFpMNURKajU5ck1VaEVaeGFkLTZoaVoxcHBQcXB1WFlWMmJRdGNSS215WHR0bHgxcWhHU2FrZUlJWmxuRE1Nem9ObUgtdw?oc=5",
           "source": "Google News",
-          "published": "Wed, 02 Sep 2026 20:52:07 GMT"
+          "published": "Thu, 03 Sep 2026 11:33:09 GMT"
         }
       ]
     },
     {
-      "word": "Military",
+      "word": "Unwind",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "The long-term implications of Pete Hegseth’s US military purges - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMGJZZUhvSUY1MW53NDlWTGk3bUgzdXhLVWpsU29FVlh6VjBqeWRhOFpranNFMkRPNUxfZW1HSGNIT3dFcmxYc2xPYl9CZjEyZDh1RHpab1JPV2FaOFM5MklLMDNlZUZjQ24xLWQ5OUthTXp2ZExDS2QwWDNVLXBxWl9wXzRpYmdnNVNqcXVYdWVUSUkxS3fSAZsBQVVfeXFMTy1ERzRLdTNLUHdtdC1jRE9KWDZET3I2U3lIb3FiMV9IaHBTNE92UDhkNHdpNFkxQlFNMHo1ZGJzOWd3Z3plUXROVmh0RUFmVGxRMGZTYzVaN082OVdMX2hTOUtoa1hCWVAzZ01OM2loZkFiZG9LbXdmRFh5elZKTWpUNmVfSGpudkRWNUR5VXRqR3ZUc0FLcU1hM0E?oc=5",
+          "title": "USS Abraham Lincoln: US sailors unwind in Thailand by shopping and bar-hopping - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ndHN0aWh5dVc5d29TeFpMNURKajU5ck1VaEVaeGFkLTZoaVoxcHBQcXB1WFlWMmJRdGNSS215WHR0bHgxcWhHU2FrZUlJWmxuRE1Nem9ObUgtdw?oc=5",
           "source": "Google News",
-          "published": "Wed, 02 Sep 2026 20:52:07 GMT"
+          "published": "Thu, 03 Sep 2026 11:33:09 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Thailand",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "USS Abraham Lincoln: US sailors unwind in Thailand by shopping and bar-hopping - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ndHN0aWh5dVc5d29TeFpMNURKajU5ck1VaEVaeGFkLTZoaVoxcHBQcXB1WFlWMmJRdGNSS215WHR0bHgxcWhHU2FrZUlJWmxuRE1Nem9ObUgtdw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 03 Sep 2026 11:33:09 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Shopping",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "USS Abraham Lincoln: US sailors unwind in Thailand by shopping and bar-hopping - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ndHN0aWh5dVc5d29TeFpMNURKajU5ck1VaEVaeGFkLTZoaVoxcHBQcXB1WFlWMmJRdGNSS215WHR0bHgxcWhHU2FrZUlJWmxuRE1Nem9ObUgtdw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 03 Sep 2026 11:33:09 GMT"
+        }
+      ]
+    },
+    {
+      "word": "bar",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "USS Abraham Lincoln: US sailors unwind in Thailand by shopping and bar-hopping - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ndHN0aWh5dVc5d29TeFpMNURKajU5ck1VaEVaeGFkLTZoaVoxcHBQcXB1WFlWMmJRdGNSS215WHR0bHgxcWhHU2FrZUlJWmxuRE1Nem9ObUgtdw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 03 Sep 2026 11:33:09 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Hopping",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "USS Abraham Lincoln: US sailors unwind in Thailand by shopping and bar-hopping - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ndHN0aWh5dVc5d29TeFpMNURKajU5ck1VaEVaeGFkLTZoaVoxcHBQcXB1WFlWMmJRdGNSS215WHR0bHgxcWhHU2FrZUlJWmxuRE1Nem9ObUgtdw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 03 Sep 2026 11:33:09 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Clancy",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Clancy jurors tell judge they're still deadlocked on fifth day of deliberations - WBUR",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa09mN1daa042ZFI0bXFGbWZrQlhsWV83YzFPaGxYLWcwZkllN1ZoTlNoX3Fab1h6ZGQ1NVZybXZuN3RHWU5VRkZEVDVQOS1QNHhpWVF2Y0FtZTc2Ni13NUF1SlZYdllyU0pkQ2NGY25MaldiRGdISUNyQVNwbkpFejRnSVR0TUlBUEpqbFZ2Y3pHR05WZTZBN0FB?oc=5",
+          "source": "Google News",
+          "published": "Wed, 02 Sep 2026 22:19:20 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Jurors",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Clancy jurors tell judge they're still deadlocked on fifth day of deliberations - WBUR",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa09mN1daa042ZFI0bXFGbWZrQlhsWV83YzFPaGxYLWcwZkllN1ZoTlNoX3Fab1h6ZGQ1NVZybXZuN3RHWU5VRkZEVDVQOS1QNHhpWVF2Y0FtZTc2Ni13NUF1SlZYdllyU0pkQ2NGY25MaldiRGdISUNyQVNwbkpFejRnSVR0TUlBUEpqbFZ2Y3pHR05WZTZBN0FB?oc=5",
+          "source": "Google News",
+          "published": "Wed, 02 Sep 2026 22:19:20 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Tell",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Clancy jurors tell judge they're still deadlocked on fifth day of deliberations - WBUR",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa09mN1daa042ZFI0bXFGbWZrQlhsWV83YzFPaGxYLWcwZkllN1ZoTlNoX3Fab1h6ZGQ1NVZybXZuN3RHWU5VRkZEVDVQOS1QNHhpWVF2Y0FtZTc2Ni13NUF1SlZYdllyU0pkQ2NGY25MaldiRGdISUNyQVNwbkpFejRnSVR0TUlBUEpqbFZ2Y3pHR05WZTZBN0FB?oc=5",
+          "source": "Google News",
+          "published": "Wed, 02 Sep 2026 22:19:20 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Still",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Clancy jurors tell judge they're still deadlocked on fifth day of deliberations - WBUR",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa09mN1daa042ZFI0bXFGbWZrQlhsWV83YzFPaGxYLWcwZkllN1ZoTlNoX3Fab1h6ZGQ1NVZybXZuN3RHWU5VRkZEVDVQOS1QNHhpWVF2Y0FtZTc2Ni13NUF1SlZYdllyU0pkQ2NGY25MaldiRGdISUNyQVNwbkpFejRnSVR0TUlBUEpqbFZ2Y3pHR05WZTZBN0FB?oc=5",
+          "source": "Google News",
+          "published": "Wed, 02 Sep 2026 22:19:20 GMT"
         }
       ]
     }
