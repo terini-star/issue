@@ -1,27 +1,65 @@
 {
   "language": "ko",
-  "last_updated": 1788598502.1156874,
+  "last_updated": 1788611573.2546928,
   "count": 40,
   "trends": [
     {
-      "word": "미국",
+      "word": "실종자",
       "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "네팔·한국 구호대, 중국인 1명 구조…한국인 실종자 근무 발전소서 발견 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53MVBIVlhUSUstM1AxNTkwYTIyWnVBMlR6c1VjSFQtUDc3SUdUZnZ1cjJPcmJyMk1IMGpZWGZqcHdtSkhMMkJrMl9zRjdFcFNBTlcyaXBpZW1GQdIBX0FVX3lxTFBCQk45X0p2UndadHpCZUdJU2FYT1lONlZKSlZ6MEkzMDhBYkc3MzRrWkt0ek5NM0J5TmlPNGVsTjc5VXFpUG1yYXpPNXZlLXd5Yk54LUpKUm1Ga0pFbWww?oc=5",
+          "source": "Google News",
+          "published": "Sat, 05 Sep 2026 09:09:00 GMT"
+        },
+        {
+          "title": "아직 못 찾은 예인선 실종자 6명…나흘째 야간 수색 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QRG5HZU5mVDEwTmc5eGxVN1VncHlQckswbFMxMGZtTy14b1ptTEdDQVk2QW56Nzl3VS12b2d5S3N1QWxudVJkVHczekxFMEtfdkJjRGxLb1lrajQ?oc=5",
+          "source": "Google News",
+          "published": "Sat, 05 Sep 2026 10:14:00 GMT"
+        },
+        {
+          "title": "대홍수 10일째 네팔·티베트 사망자 1375명, 실종자 5500명 이상 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZVjdxQjhOLW84NkpOeEktY0l4dE5CMnlNdmt1YlhOcmh0Z19RTUlsTnROSVBFMXNPVHRxZ1QzUkRBVi1FcURDTVp5aWFvck5VU1JBQmZtU3pFQdIBX0FVX3lxTE5QMEJWTWhjZHZBaUpYRTRxSTdHdnVQemIyTldUZGRIblZQT3kxUElZLXFTOGZvR1AxUXhoQ1VQQ0pfSzlkd1g4dWpvWW85d0VjZHhVYkZibjgxLTJuWkN3?oc=5",
+          "source": "Google News",
+          "published": "Sat, 05 Sep 2026 11:11:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "발견",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "네팔·한국 구호대, 중국인 1명 구조…한국인 실종자 근무 발전소서 발견 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53MVBIVlhUSUstM1AxNTkwYTIyWnVBMlR6c1VjSFQtUDc3SUdUZnZ1cjJPcmJyMk1IMGpZWGZqcHdtSkhMMkJrMl9zRjdFcFNBTlcyaXBpZW1GQdIBX0FVX3lxTFBCQk45X0p2UndadHpCZUdJU2FYT1lONlZKSlZ6MEkzMDhBYkc3MzRrWkt0ek5NM0J5TmlPNGVsTjc5VXFpUG1yYXpPNXZlLXd5Yk54LUpKUm1Ga0pFbWww?oc=5",
+          "source": "Google News",
+          "published": "Sat, 05 Sep 2026 09:09:00 GMT"
+        },
+        {
+          "title": "[해외 크리에이티브] “치매, 노화로 넘기지 마세요” 타타 트러스트, 치매 조기 발견 중요성 알리는 인식 개선 캠페인 전개 - 매드타임스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rbmF1NEF4VVR2STQ3Q2FUcDdqMDNDNWV1TkVBdVMxNDVXdzM2TDVOYXROZmJhdkFOM1NtYVdaQ1hFVmJZY1pwUWo0c19vT2E5eXBkbkltVVpmbWtuX25TalNrZzRNYWM1b2ZZNA?oc=5",
+          "source": "Google News",
+          "published": "Fri, 04 Sep 2026 15:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "미국",
+      "count": 2,
       "category": "LOCATION",
       "articles": [
         {
-          "title": "미국 “한국 호르무즈 파병 여전히 기다리는 중” - hani.co.kr",
+          "title": "미국 “한국 호르무즈 파병 여전히 기다리는 중” - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03YlpUb0hvSng1dnpSWkJZRkUyVGdXektjQ29ReDJqZDlSdkMzU2hWRFlMelNObkphdXRheUFheGU0bk1TTFA1THdfY19vZi11RzYxN3pleTYtdXllYnNGTkJBSDVfNGdzWU51WEhoNA?oc=5",
           "source": "Google News",
           "published": "Sat, 05 Sep 2026 00:03:00 GMT"
         },
         {
-          "title": "트럼프 “연준 금리인하 안하면 미국이 적자 보는 나라와는 무역 중단” - khan.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBObnUyTWdYOW9ZSktXTWtsWWVqRmJCZkZ0eE9XZGRLeGtIX3BqbGRhNXlCbWM2WWJKRHdCcE5RRndjdzhGQlRHZjlyTUtrMFFMSXJVUnUxNFZRUdIBX0FVX3lxTE5HUXczQVJzNWlVZVdidmRuVkJsb1JvX192Vy1ramE5SUVtSHJDdVpTX084NUhzekExMzQtZ0R0LXFjUGR4NGZvT1hsN3h5TDY0dnVPdml6T0JnNkg0eklJ?oc=5",
-          "source": "Google News",
-          "published": "Sat, 05 Sep 2026 04:46:00 GMT"
-        },
-        {
-          "title": "[미국 특징주] 스페이스X, 나사 암흑에너지 탐사 우주망원경 발사 - 뉴스핌",
+          "title": "[미국 특징주] 스페이스X, 나사 암흑에너지 탐사 우주망원경 발사 - newspim.com",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwQzNwTTJyVmhhSjZOb191Ynd1VHE1TlZmSmQ4Nl9GVUFHbElkVTd5OGxnZDktUlZzSXRsOXd5UHlGVFluRkdjTGRHUmRRb1lmZ1J1YUl0ZWVraHF3?oc=5",
           "source": "Google News",
           "published": "Sun, 30 Aug 2026 23:11:00 GMT"
@@ -29,110 +67,110 @@
       ]
     },
     {
-      "word": "대통령",
+      "word": "용혜인",
       "count": 2,
-      "category": "PERSON",
+      "category": "NOUN",
       "articles": [
         {
-          "title": "국힘 “이 대통령, ‘연임 없다’ 네 마디를 못 해…‘꼼수 개헌’ 우려” - hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QaUR0S3B4UXh6NE1ONm10OTZscEJ6bWEwN1oydmVuWWVMUVdJQ2dUd2s5MlZoclQ4WjltOE1iMFNZR3FrSmdldWpLTDRhUE9XSm16dTA1UEs1Z0pxNjM5OEtMRTNSTURYOEFHTzNiZ01RaDdC?oc=5",
+          "title": "국힘 “용혜인 사퇴 거부 뒤엔 김현지…좌파 카르텔 빌드업” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YbTRhMjJOS21POXVaZ2s1MnRIMFhaRjFjNGRaTEpFWnN6UW9FVlhWbmZuQUpXWEg1VDAyYllXMnJuam5mYkJjWnhWYUZPMVRzb3VtVWJBb0FyQdIBX0FVX3lxTE9QdS1fZ1lySmVVYWFCbHJwbTQ5VFRhWUxZbXFuMDNxdUpNTFlOaGcxQjZZb0VvakcwUEpCYU8ydUpmWWRsUnFiZTlndzJVa19MdERWTVNKT3BkOXJRQ1Jj?oc=5",
           "source": "Google News",
-          "published": "Sat, 05 Sep 2026 08:01:00 GMT"
+          "published": "Sat, 05 Sep 2026 04:37:00 GMT"
         },
         {
-          "title": "이 대통령, '수출 역대 최대' 성과보고 SNS에...국정 성과 홍보 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jVXU5WERfNG5Ua3c2UmxkTjN0VUxob0V4R25vNDdyRk5Ba0JKcWRuQmJleXpkX200VGprc0JuNEM5ejVia09XZjB0VV8zRUZ5U2wtTVptM0IzR3BSaFE?oc=5",
+          "title": "용혜인 “1억 9천만 원 당비 납부, 절세 목적 아냐” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BZHJDR1lVQURyQkduTDE4RjZELThwWTgyRU5ja254Q3BPZ1JubmNwcXZ2bTNIZ3ppaGltWXRiNGlZMUItMFJTcC1GS2pkQm8wREYzRFd0ZFphbms?oc=5",
           "source": "Google News",
-          "published": "Sat, 05 Sep 2026 07:18:00 GMT"
+          "published": "Sat, 05 Sep 2026 06:46:00 GMT"
         }
       ]
     },
     {
-      "word": "다시",
+      "word": "아냐",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "용혜인 “1억 9천만 원 당비 납부, 절세 목적 아냐” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BZHJDR1lVQURyQkduTDE4RjZELThwWTgyRU5ja254Q3BPZ1JubmNwcXZ2bTNIZ3ppaGltWXRiNGlZMUItMFJTcC1GS2pkQm8wREYzRFd0ZFphbms?oc=5",
+          "source": "Google News",
+          "published": "Sat, 05 Sep 2026 06:46:00 GMT"
+        },
+        {
+          "title": "미군 18명 숨졌는데…트럼프 “이란전은 사소한 충돌, 전쟁 아냐” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1RZkVPSWZMY1JVZmJ2Z08xQWFmcjhSRWk3cTlRLTZKS0cxdDNNSEhaeG5MaXhqeFVibkp0WVhyaWZTR3NPUW1aVWtkSTk5cHZoYVNianB3VzJvOWZnNzZvNl9UcjF0UzRIbmNJeWlqLUd3bUHSAWZBVV95cUxOOVVIMnR2YkszeU5jMkVxWEhFb0c0cENRbGV2bHNROG1YTWVlUVRHbzA3R1NwalNXVVNMa3hZQWpJdXBNclJEOGZ2TXU0eU1LUm8yZ2wydFNYMUljU21MS3V6STZyRWc?oc=5",
+          "source": "Google News",
+          "published": "Sat, 05 Sep 2026 04:33:54 GMT"
+        }
+      ]
+    },
+    {
+      "word": "아직",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "아직 못 찾은 예인선 실종자 6명…나흘째 야간 수색 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QRG5HZU5mVDEwTmc5eGxVN1VncHlQckswbFMxMGZtTy14b1ptTEdDQVk2QW56Nzl3VS12b2d5S3N1QWxudVJkVHczekxFMEtfdkJjRGxLb1lrajQ?oc=5",
+          "source": "Google News",
+          "published": "Sat, 05 Sep 2026 10:14:00 GMT"
+        },
+        {
+          "title": "‘광고비 얼마일까?’ 뉴욕 타임스퀘어에 광고낸 노조…삼전 DX노조, “우리 아직 있다” - 문화일보",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00Nkd4OS1td0U3Y1QtZzlCOXo3OHRxSzJ2aGZiMTRLQmRDNExMUXRlOFRFOGRNMzJtVlZlMXdtV0hxNHJpSDZ2aWVQWGdfRXhC?oc=5",
+          "source": "Google News",
+          "published": "Sat, 05 Sep 2026 11:28:36 GMT"
+        }
+      ]
+    },
+    {
+      "word": "장관",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정점식 \"기소유예 법무부 장관 어불성설…김승원 지명 철회해야\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DeHdCelNRZU9JX3NmRkFtLTVKZms3a0xuVFVkTDFjRk9QVWNUNVpyNXllaHJqd1VzTlQyRWNTXzlUQnExMFJkRWNyWURfblR0U21pbjZRWWpsb3RVUGNCNmtHMHlVQXc?oc=5",
+          "source": "Google News",
+          "published": "Fri, 04 Sep 2026 00:52:00 GMT"
+        },
+        {
+          "title": "조현 외교부 장관, 네팔로 출국…\"긴급구호진 만나 향후 대책 논의\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9EdEVKTVpXLTdCVU80T3MzTnR2M1JseGJPd1lIeDdQV1habkR1NkpUNExnQk5TVTl6UERVeVB2eE9IR0VpdVZseGJWYmdNeFlMd3VtWDY0UzRReVpndnB1X1ZDV2lLdWM?oc=5",
+          "source": "Google News",
+          "published": "Sat, 05 Sep 2026 04:48:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "조현",
       "count": 2,
       "category": "LOCATION",
       "articles": [
         {
-          "title": "[글로컬] '안데스 빙하 소송' 히말라야에서 다시 제기된다면 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnNU5Sa2k0OFVDRV9Oa2pnenhRQmJNUVRJYUtYSU1kMU1nSjRTbTBhekRrWUo2RFRhcnI3bDhraVkyd0s1UG51eUhlTGdhOTNRNXdYRWlXTWRsVHPSAWBBVV95cUxOUXc1ZlIyYUtkblFBVTdtUVVEOXNIVGQ4eGRsOV9oTWp1a3JwdlhQZTNzWXpScEs3X1hkYW1qWVV0ZVB3bFZMcmdaRHVFOWJPMlBMNjN4MW5hNjBYRDdXcmw?oc=5",
+          "title": "조현 외교부 장관, 네팔로 출국…\"긴급구호진 만나 향후 대책 논의\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9EdEVKTVpXLTdCVU80T3MzTnR2M1JseGJPd1lIeDdQV1habkR1NkpUNExnQk5TVTl6UERVeVB2eE9IR0VpdVZseGJWYmdNeFlMd3VtWDY0UzRReVpndnB1X1ZDV2lLdWM?oc=5",
           "source": "Google News",
-          "published": "Fri, 04 Sep 2026 23:08:01 GMT"
+          "published": "Sat, 05 Sep 2026 04:48:00 GMT"
         },
         {
-          "title": "돼지 신장으로 ‘9개월’ 살고 다시 인간 신장 이식받아...최초 성공 사례 - munhwa.com",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFSW9pUFJQY0tNR2h4dWNrdWlvVTRacGdZNDZfM0MyQWw1X3dnN3lDb3B1cGpUeE9kQU51QUhYX3hWbmppWVcwa2p0U0dMc2VC?oc=5",
+          "title": "베리굿 조현, 초밀착 원피스에 민망한 부위가 ‘불룩’ 논란 - seoul.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PZjVsNHNzRzZVUTVpalk5bzN4RUI5X2VuQmZ0SDJQUlM4RE9ZejBrVWUzTjhqeWc0emVRazdzUVozRzBIV2FPVi1XOEt4NzV4ZEZsMFRndHFFQlRzdDRjWWhn?oc=5",
           "source": "Google News",
-          "published": "Sat, 05 Sep 2026 05:46:57 GMT"
+          "published": "Sat, 05 Sep 2026 03:28:13 GMT"
         }
       ]
     },
     {
-      "word": "불꽃축제",
+      "word": "전쟁",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "'100만 불꽃축제' 도심 교통통제…여의도 일대 지하철·버스 무정차 통과 - news1.kr",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DODExUUoxX2t0RHlQbHQ1NmlBN0xjcGVSSkRuVnRYR2lsRnZzVE5OS3NNMjNXbGI1ZnFmVEJmc3k1SERuZVN6allwdkIzeGFmdVFVd2Q2VmFCMlIyT2VzWUM5VGXSAWpBVV95cUxPVmF1TmZFZ1dFb0NWU1ZZSk96X0hEelpRSWZkSDVldlJ0LVNEMzYwRUVFOVp3S3VNMHA1bkdRWXBlQl9BLURnTnhaQTlyd1pSeXlONkloWU1kSVVyT2dheGdnb0tFeDZxWlBR?oc=5",
+          "title": "미군 18명 숨졌는데…트럼프 “이란전은 사소한 충돌, 전쟁 아냐” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1RZkVPSWZMY1JVZmJ2Z08xQWFmcjhSRWk3cTlRLTZKS0cxdDNNSEhaeG5MaXhqeFVibkp0WVhyaWZTR3NPUW1aVWtkSTk5cHZoYVNianB3VzJvOWZnNzZvNl9UcjF0UzRIbmNJeWlqLUd3bUHSAWZBVV95cUxOOVVIMnR2YkszeU5jMkVxWEhFb0c0cENRbGV2bHNROG1YTWVlUVRHbzA3R1NwalNXVVNMa3hZQWpJdXBNclJEOGZ2TXU0eU1LUm8yZ2wydFNYMUljU21MS3V6STZyRWc?oc=5",
           "source": "Google News",
-          "published": "Fri, 04 Sep 2026 21:00:00 GMT"
-        },
-        {
-          "title": "김지민, ‘불꽃축제 명당’ 신혼집 공개…“전야제를 본식처럼” - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hcFoxd1FYbTl2Ulp3OTNCazlYenItQ2gweUc1MWx6T0kyeEtmSU9rNUNPb0xIeDRZZTNncEhmT3l0bTAtaXNiRW5SRmRsQ1B3dk1rWGRFQ3o?oc=5",
-          "source": "Google News",
-          "published": "Sat, 05 Sep 2026 06:48:46 GMT"
-        }
-      ]
-    },
-    {
-      "word": "호르무즈",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "미국 “한국 호르무즈 파병 여전히 기다리는 중” - hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03YlpUb0hvSng1dnpSWkJZRkUyVGdXektjQ29ReDJqZDlSdkMzU2hWRFlMelNObkphdXRheUFheGU0bk1TTFA1THdfY19vZi11RzYxN3pleTYtdXllYnNGTkJBSDVfNGdzWU51WEhoNA?oc=5",
-          "source": "Google News",
-          "published": "Sat, 05 Sep 2026 00:03:00 GMT"
-        },
-        {
-          "title": "호르무즈 불확실성 장기화…SK·포스코 해외 자원개발 가치 부각 - 파이낸셜뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CTjV5Z1lYRzlzZ1M1U2dFWkd3a3daU2JtNjNWLXdvVFlNM1pUWmYwX29qNEpCdEV1VFotTEJZYmExOTRVN0hoU0tZclVoeVVab3UxeW50eVItZw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 04 Sep 2026 21:59:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "트럼프",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프 “이란 핵시설 ‘곡괭이산’ 곧 공격할 수도”···이란전은 “별거아닌 사소한 일” - khan.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QcEFIdEJfVWowdVl6a2stNVBETzZuV1JvZHlXci1JdXJ6TzlLZFQ0Qzg2bjhvWVo3Wm1PVzhHUmJNMDVSTEYxd0lYM0ItQzJuS1h6bWI3SFNPUdIBX0FVX3lxTE4xU2FyZ1hSWjVBdENhWlFPYTZZN2Z3cHlPUElRUklYM0Fkd3JwWi1SSURoQVczS1NpRjJMWUtCS2VRMWhXX2JwaExMcmdhSmFINF9aTm9UUzZOcEZ6eGxF?oc=5",
-          "source": "Google News",
-          "published": "Sat, 05 Sep 2026 05:50:00 GMT"
-        },
-        {
-          "title": "트럼프 “연준 금리인하 안하면 미국이 적자 보는 나라와는 무역 중단” - khan.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBObnUyTWdYOW9ZSktXTWtsWWVqRmJCZkZ0eE9XZGRLeGtIX3BqbGRhNXlCbWM2WWJKRHdCcE5RRndjdzhGQlRHZjlyTUtrMFFMSXJVUnUxNFZRUdIBX0FVX3lxTE5HUXczQVJzNWlVZVdidmRuVkJsb1JvX192Vy1ramE5SUVtSHJDdVpTX084NUhzekExMzQtZ0R0LXFjUGR4NGZvT1hsN3h5TDY0dnVPdml6T0JnNkg0eklJ?oc=5",
-          "source": "Google News",
-          "published": "Sat, 05 Sep 2026 04:46:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "이란",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프 “이란 핵시설 ‘곡괭이산’ 곧 공격할 수도”···이란전은 “별거아닌 사소한 일” - khan.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QcEFIdEJfVWowdVl6a2stNVBETzZuV1JvZHlXci1JdXJ6TzlLZFQ0Qzg2bjhvWVo3Wm1PVzhHUmJNMDVSTEYxd0lYM0ItQzJuS1h6bWI3SFNPUdIBX0FVX3lxTE4xU2FyZ1hSWjVBdENhWlFPYTZZN2Z3cHlPUElRUklYM0Fkd3JwWi1SSURoQVczS1NpRjJMWUtCS2VRMWhXX2JwaExMcmdhSmFINF9aTm9UUzZOcEZ6eGxF?oc=5",
-          "source": "Google News",
-          "published": "Sat, 05 Sep 2026 05:50:00 GMT"
+          "published": "Sat, 05 Sep 2026 04:33:54 GMT"
         },
         {
           "title": "\"이란, 전쟁 통해 군사적 자신감 키워... 장기전 불사 전망\" - hidomin.com",
@@ -143,40 +181,21 @@
       ]
     },
     {
-      "word": "중국",
-      "count": 2,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "중국 티베트 지역 사망자 31명으로 늘어…실종자는 531명 - yonhapnewstv.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwS0JfWER4ZXA2Ylotd1hLeTQxTWFXTG5Qd0paUkZuUHJZNTRIVXpOTTZaUjh3UUs2UHl2cXd5Q1pYNmdTbEQyNVQ1NDRHcF9aN00tWGhHNHdNRXh3NUp1X0Y5ckMxUkU?oc=5",
-          "source": "Google News",
-          "published": "Fri, 04 Sep 2026 12:36:00 GMT"
-        },
-        {
-          "title": "안세영, 중국 마스터스 결승행‥아시안게임 앞두고 '최상 컨디션' - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fZmpwUDM4YTdQbkFzNTBXaWhIWGdYaHVJSkRraE9UWHpwQzRjei11d3FpczZWVEVuN3dPWG9NNGdqSkEtZ29xeEczSVFGbHhJRm5lUERna3ZVemZ4SENCNDVzTXlnMllyVzFiMWgzLW5DVHVxUXfSAXZBVV95cUxPZmNiQUpNQUlqdjFxMnFPMEFxenMxX3U3SWJFWUJIV3RHYTVXSXktbHZGZWtRQXVFRjhuRVBoeFU2cGFoTFRQcC1BTkJyMWtTemdkU0VldGk3bWZNS2FCMkFuYVNZU1Nrc2NsQlAyMkJPbDZyTWZ3?oc=5",
-          "source": "Google News",
-          "published": "Sat, 05 Sep 2026 06:48:52 GMT"
-        }
-      ]
-    },
-    {
-      "word": "해외",
+      "word": "논란",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "호르무즈 불확실성 장기화…SK·포스코 해외 자원개발 가치 부각 - 파이낸셜뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CTjV5Z1lYRzlzZ1M1U2dFWkd3a3daU2JtNjNWLXdvVFlNM1pUWmYwX29qNEpCdEV1VFotTEJZYmExOTRVN0hoU0tZclVoeVVab3UxeW50eVItZw?oc=5",
+          "title": "[AI연예가] '나혼산' 즉흥여행 조작 논란에 제작진 사과, 지예은·바타 결혼 발표 - newspim.com",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE91MVJhTlhSRlRXbndJZE9fN01WV2w0RENndl9JbWw0NmttdmhYN0duVk5XUmtwVF82ZzdEcHRwMlFacDFLd0ZCUzdUaUgtckh6NDJzNm5UOGwwU2d2?oc=5",
           "source": "Google News",
-          "published": "Fri, 04 Sep 2026 21:59:00 GMT"
+          "published": "Fri, 04 Sep 2026 21:02:00 GMT"
         },
         {
-          "title": "[해외 크리에이티브] “치매, 노화로 넘기지 마세요” 타타 트러스트, 치매 조기 발견 중요성 알리는 인식 개선 캠페인 전개 - 매드타임스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rbmF1NEF4VVR2STQ3Q2FUcDdqMDNDNWV1TkVBdVMxNDVXdzM2TDVOYXROZmJhdkFOM1NtYVdaQ1hFVmJZY1pwUWo0c19vT2E5eXBkbkltVVpmbWtuX25TalNrZzRNYWM1b2ZZNA?oc=5",
+          "title": "베리굿 조현, 초밀착 원피스에 민망한 부위가 ‘불룩’ 논란 - seoul.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PZjVsNHNzRzZVUTVpalk5bzN4RUI5X2VuQmZ0SDJQUlM4RE9ZejBrVWUzTjhqeWc0emVRazdzUVozRzBIV2FPVi1XOEt4NzV4ZEZsMFRndHFFQlRzdDRjWWhn?oc=5",
           "source": "Google News",
-          "published": "Fri, 04 Sep 2026 15:00:00 GMT"
+          "published": "Sat, 05 Sep 2026 03:28:13 GMT"
         }
       ]
     },
@@ -199,10 +218,166 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "돼지 신장으로 ‘9개월’ 살고 다시 인간 신장 이식받아...최초 성공 사례 - munhwa.com",
+          "title": "돼지 신장으로 ‘9개월’ 살고 다시 인간 신장 이식받아...최초 성공 사례 - 문화일보",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFSW9pUFJQY0tNR2h4dWNrdWlvVTRacGdZNDZfM0MyQWw1X3dnN3lDb3B1cGpUeE9kQU51QUhYX3hWbmppWVcwa2p0U0dMc2VC?oc=5",
           "source": "Google News",
           "published": "Sat, 05 Sep 2026 05:46:57 GMT"
+        }
+      ]
+    },
+    {
+      "word": "네팔한국",
+      "count": 1,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "네팔·한국 구호대, 중국인 1명 구조…한국인 실종자 근무 발전소서 발견 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53MVBIVlhUSUstM1AxNTkwYTIyWnVBMlR6c1VjSFQtUDc3SUdUZnZ1cjJPcmJyMk1IMGpZWGZqcHdtSkhMMkJrMl9zRjdFcFNBTlcyaXBpZW1GQdIBX0FVX3lxTFBCQk45X0p2UndadHpCZUdJU2FYT1lONlZKSlZ6MEkzMDhBYkc3MzRrWkt0ek5NM0J5TmlPNGVsTjc5VXFpUG1yYXpPNXZlLXd5Yk54LUpKUm1Ga0pFbWww?oc=5",
+          "source": "Google News",
+          "published": "Sat, 05 Sep 2026 09:09:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "구호대",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "네팔·한국 구호대, 중국인 1명 구조…한국인 실종자 근무 발전소서 발견 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53MVBIVlhUSUstM1AxNTkwYTIyWnVBMlR6c1VjSFQtUDc3SUdUZnZ1cjJPcmJyMk1IMGpZWGZqcHdtSkhMMkJrMl9zRjdFcFNBTlcyaXBpZW1GQdIBX0FVX3lxTFBCQk45X0p2UndadHpCZUdJU2FYT1lONlZKSlZ6MEkzMDhBYkc3MzRrWkt0ek5NM0J5TmlPNGVsTjc5VXFpUG1yYXpPNXZlLXd5Yk54LUpKUm1Ga0pFbWww?oc=5",
+          "source": "Google News",
+          "published": "Sat, 05 Sep 2026 09:09:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "중국인",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "네팔·한국 구호대, 중국인 1명 구조…한국인 실종자 근무 발전소서 발견 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53MVBIVlhUSUstM1AxNTkwYTIyWnVBMlR6c1VjSFQtUDc3SUdUZnZ1cjJPcmJyMk1IMGpZWGZqcHdtSkhMMkJrMl9zRjdFcFNBTlcyaXBpZW1GQdIBX0FVX3lxTFBCQk45X0p2UndadHpCZUdJU2FYT1lONlZKSlZ6MEkzMDhBYkc3MzRrWkt0ek5NM0J5TmlPNGVsTjc5VXFpUG1yYXpPNXZlLXd5Yk54LUpKUm1Ga0pFbWww?oc=5",
+          "source": "Google News",
+          "published": "Sat, 05 Sep 2026 09:09:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "1명",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "네팔·한국 구호대, 중국인 1명 구조…한국인 실종자 근무 발전소서 발견 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53MVBIVlhUSUstM1AxNTkwYTIyWnVBMlR6c1VjSFQtUDc3SUdUZnZ1cjJPcmJyMk1IMGpZWGZqcHdtSkhMMkJrMl9zRjdFcFNBTlcyaXBpZW1GQdIBX0FVX3lxTFBCQk45X0p2UndadHpCZUdJU2FYT1lONlZKSlZ6MEkzMDhBYkc3MzRrWkt0ek5NM0J5TmlPNGVsTjc5VXFpUG1yYXpPNXZlLXd5Yk54LUpKUm1Ga0pFbWww?oc=5",
+          "source": "Google News",
+          "published": "Sat, 05 Sep 2026 09:09:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "구조한국인",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "네팔·한국 구호대, 중국인 1명 구조…한국인 실종자 근무 발전소서 발견 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53MVBIVlhUSUstM1AxNTkwYTIyWnVBMlR6c1VjSFQtUDc3SUdUZnZ1cjJPcmJyMk1IMGpZWGZqcHdtSkhMMkJrMl9zRjdFcFNBTlcyaXBpZW1GQdIBX0FVX3lxTFBCQk45X0p2UndadHpCZUdJU2FYT1lONlZKSlZ6MEkzMDhBYkc3MzRrWkt0ek5NM0J5TmlPNGVsTjc5VXFpUG1yYXpPNXZlLXd5Yk54LUpKUm1Ga0pFbWww?oc=5",
+          "source": "Google News",
+          "published": "Sat, 05 Sep 2026 09:09:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "근무",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "네팔·한국 구호대, 중국인 1명 구조…한국인 실종자 근무 발전소서 발견 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53MVBIVlhUSUstM1AxNTkwYTIyWnVBMlR6c1VjSFQtUDc3SUdUZnZ1cjJPcmJyMk1IMGpZWGZqcHdtSkhMMkJrMl9zRjdFcFNBTlcyaXBpZW1GQdIBX0FVX3lxTFBCQk45X0p2UndadHpCZUdJU2FYT1lONlZKSlZ6MEkzMDhBYkc3MzRrWkt0ek5NM0J5TmlPNGVsTjc5VXFpUG1yYXpPNXZlLXd5Yk54LUpKUm1Ga0pFbWww?oc=5",
+          "source": "Google News",
+          "published": "Sat, 05 Sep 2026 09:09:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "발전소서",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "네팔·한국 구호대, 중국인 1명 구조…한국인 실종자 근무 발전소서 발견 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53MVBIVlhUSUstM1AxNTkwYTIyWnVBMlR6c1VjSFQtUDc3SUdUZnZ1cjJPcmJyMk1IMGpZWGZqcHdtSkhMMkJrMl9zRjdFcFNBTlcyaXBpZW1GQdIBX0FVX3lxTFBCQk45X0p2UndadHpCZUdJU2FYT1lONlZKSlZ6MEkzMDhBYkc3MzRrWkt0ek5NM0J5TmlPNGVsTjc5VXFpUG1yYXpPNXZlLXd5Yk54LUpKUm1Ga0pFbWww?oc=5",
+          "source": "Google News",
+          "published": "Sat, 05 Sep 2026 09:09:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "한국",
+      "count": 1,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "미국 “한국 호르무즈 파병 여전히 기다리는 중” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03YlpUb0hvSng1dnpSWkJZRkUyVGdXektjQ29ReDJqZDlSdkMzU2hWRFlMelNObkphdXRheUFheGU0bk1TTFA1THdfY19vZi11RzYxN3pleTYtdXllYnNGTkJBSDVfNGdzWU51WEhoNA?oc=5",
+          "source": "Google News",
+          "published": "Sat, 05 Sep 2026 00:03:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "호르무즈",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "미국 “한국 호르무즈 파병 여전히 기다리는 중” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03YlpUb0hvSng1dnpSWkJZRkUyVGdXektjQ29ReDJqZDlSdkMzU2hWRFlMelNObkphdXRheUFheGU0bk1TTFA1THdfY19vZi11RzYxN3pleTYtdXllYnNGTkJBSDVfNGdzWU51WEhoNA?oc=5",
+          "source": "Google News",
+          "published": "Sat, 05 Sep 2026 00:03:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "파병",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "미국 “한국 호르무즈 파병 여전히 기다리는 중” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03YlpUb0hvSng1dnpSWkJZRkUyVGdXektjQ29ReDJqZDlSdkMzU2hWRFlMelNObkphdXRheUFheGU0bk1TTFA1THdfY19vZi11RzYxN3pleTYtdXllYnNGTkJBSDVfNGdzWU51WEhoNA?oc=5",
+          "source": "Google News",
+          "published": "Sat, 05 Sep 2026 00:03:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "여전히",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "미국 “한국 호르무즈 파병 여전히 기다리는 중” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03YlpUb0hvSng1dnpSWkJZRkUyVGdXektjQ29ReDJqZDlSdkMzU2hWRFlMelNObkphdXRheUFheGU0bk1TTFA1THdfY19vZi11RzYxN3pleTYtdXllYnNGTkJBSDVfNGdzWU51WEhoNA?oc=5",
+          "source": "Google News",
+          "published": "Sat, 05 Sep 2026 00:03:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "기다리",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "미국 “한국 호르무즈 파병 여전히 기다리는 중” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03YlpUb0hvSng1dnpSWkJZRkUyVGdXektjQ29ReDJqZDlSdkMzU2hWRFlMelNObkphdXRheUFheGU0bk1TTFA1THdfY19vZi11RzYxN3pleTYtdXllYnNGTkJBSDVfNGdzWU51WEhoNA?oc=5",
+          "source": "Google News",
+          "published": "Sat, 05 Sep 2026 00:03:00 GMT"
         }
       ]
     },
@@ -212,205 +387,127 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "국힘 “이 대통령, ‘연임 없다’ 네 마디를 못 해…‘꼼수 개헌’ 우려” - hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QaUR0S3B4UXh6NE1ONm10OTZscEJ6bWEwN1oydmVuWWVMUVdJQ2dUd2s5MlZoclQ4WjltOE1iMFNZR3FrSmdldWpLTDRhUE9XSm16dTA1UEs1Z0pxNjM5OEtMRTNSTURYOEFHTzNiZ01RaDdC?oc=5",
+          "title": "국힘 “용혜인 사퇴 거부 뒤엔 김현지…좌파 카르텔 빌드업” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YbTRhMjJOS21POXVaZ2s1MnRIMFhaRjFjNGRaTEpFWnN6UW9FVlhWbmZuQUpXWEg1VDAyYllXMnJuam5mYkJjWnhWYUZPMVRzb3VtVWJBb0FyQdIBX0FVX3lxTE9QdS1fZ1lySmVVYWFCbHJwbTQ5VFRhWUxZbXFuMDNxdUpNTFlOaGcxQjZZb0VvakcwUEpCYU8ydUpmWWRsUnFiZTlndzJVa19MdERWTVNKT3BkOXJRQ1Jj?oc=5",
           "source": "Google News",
-          "published": "Sat, 05 Sep 2026 08:01:00 GMT"
+          "published": "Sat, 05 Sep 2026 04:37:00 GMT"
         }
       ]
     },
     {
-      "word": "연임",
+      "word": "사퇴",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "국힘 “이 대통령, ‘연임 없다’ 네 마디를 못 해…‘꼼수 개헌’ 우려” - hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QaUR0S3B4UXh6NE1ONm10OTZscEJ6bWEwN1oydmVuWWVMUVdJQ2dUd2s5MlZoclQ4WjltOE1iMFNZR3FrSmdldWpLTDRhUE9XSm16dTA1UEs1Z0pxNjM5OEtMRTNSTURYOEFHTzNiZ01RaDdC?oc=5",
+          "title": "국힘 “용혜인 사퇴 거부 뒤엔 김현지…좌파 카르텔 빌드업” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YbTRhMjJOS21POXVaZ2s1MnRIMFhaRjFjNGRaTEpFWnN6UW9FVlhWbmZuQUpXWEg1VDAyYllXMnJuam5mYkJjWnhWYUZPMVRzb3VtVWJBb0FyQdIBX0FVX3lxTE9QdS1fZ1lySmVVYWFCbHJwbTQ5VFRhWUxZbXFuMDNxdUpNTFlOaGcxQjZZb0VvakcwUEpCYU8ydUpmWWRsUnFiZTlndzJVa19MdERWTVNKT3BkOXJRQ1Jj?oc=5",
           "source": "Google News",
-          "published": "Sat, 05 Sep 2026 08:01:00 GMT"
+          "published": "Sat, 05 Sep 2026 04:37:00 GMT"
         }
       ]
     },
     {
-      "word": "없다",
+      "word": "거부",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "국힘 “이 대통령, ‘연임 없다’ 네 마디를 못 해…‘꼼수 개헌’ 우려” - hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QaUR0S3B4UXh6NE1ONm10OTZscEJ6bWEwN1oydmVuWWVMUVdJQ2dUd2s5MlZoclQ4WjltOE1iMFNZR3FrSmdldWpLTDRhUE9XSm16dTA1UEs1Z0pxNjM5OEtMRTNSTURYOEFHTzNiZ01RaDdC?oc=5",
+          "title": "국힘 “용혜인 사퇴 거부 뒤엔 김현지…좌파 카르텔 빌드업” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YbTRhMjJOS21POXVaZ2s1MnRIMFhaRjFjNGRaTEpFWnN6UW9FVlhWbmZuQUpXWEg1VDAyYllXMnJuam5mYkJjWnhWYUZPMVRzb3VtVWJBb0FyQdIBX0FVX3lxTE9QdS1fZ1lySmVVYWFCbHJwbTQ5VFRhWUxZbXFuMDNxdUpNTFlOaGcxQjZZb0VvakcwUEpCYU8ydUpmWWRsUnFiZTlndzJVa19MdERWTVNKT3BkOXJRQ1Jj?oc=5",
           "source": "Google News",
-          "published": "Sat, 05 Sep 2026 08:01:00 GMT"
+          "published": "Sat, 05 Sep 2026 04:37:00 GMT"
         }
       ]
     },
     {
-      "word": "마디",
+      "word": "뒤엔",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "국힘 “이 대통령, ‘연임 없다’ 네 마디를 못 해…‘꼼수 개헌’ 우려” - hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QaUR0S3B4UXh6NE1ONm10OTZscEJ6bWEwN1oydmVuWWVMUVdJQ2dUd2s5MlZoclQ4WjltOE1iMFNZR3FrSmdldWpLTDRhUE9XSm16dTA1UEs1Z0pxNjM5OEtMRTNSTURYOEFHTzNiZ01RaDdC?oc=5",
+          "title": "국힘 “용혜인 사퇴 거부 뒤엔 김현지…좌파 카르텔 빌드업” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YbTRhMjJOS21POXVaZ2s1MnRIMFhaRjFjNGRaTEpFWnN6UW9FVlhWbmZuQUpXWEg1VDAyYllXMnJuam5mYkJjWnhWYUZPMVRzb3VtVWJBb0FyQdIBX0FVX3lxTE9QdS1fZ1lySmVVYWFCbHJwbTQ5VFRhWUxZbXFuMDNxdUpNTFlOaGcxQjZZb0VvakcwUEpCYU8ydUpmWWRsUnFiZTlndzJVa19MdERWTVNKT3BkOXJRQ1Jj?oc=5",
           "source": "Google News",
-          "published": "Sat, 05 Sep 2026 08:01:00 GMT"
+          "published": "Sat, 05 Sep 2026 04:37:00 GMT"
         }
       ]
     },
     {
-      "word": "해꼼수",
+      "word": "김현지좌파",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "국힘 “이 대통령, ‘연임 없다’ 네 마디를 못 해…‘꼼수 개헌’ 우려” - hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QaUR0S3B4UXh6NE1ONm10OTZscEJ6bWEwN1oydmVuWWVMUVdJQ2dUd2s5MlZoclQ4WjltOE1iMFNZR3FrSmdldWpLTDRhUE9XSm16dTA1UEs1Z0pxNjM5OEtMRTNSTURYOEFHTzNiZ01RaDdC?oc=5",
+          "title": "국힘 “용혜인 사퇴 거부 뒤엔 김현지…좌파 카르텔 빌드업” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YbTRhMjJOS21POXVaZ2s1MnRIMFhaRjFjNGRaTEpFWnN6UW9FVlhWbmZuQUpXWEg1VDAyYllXMnJuam5mYkJjWnhWYUZPMVRzb3VtVWJBb0FyQdIBX0FVX3lxTE9QdS1fZ1lySmVVYWFCbHJwbTQ5VFRhWUxZbXFuMDNxdUpNTFlOaGcxQjZZb0VvakcwUEpCYU8ydUpmWWRsUnFiZTlndzJVa19MdERWTVNKT3BkOXJRQ1Jj?oc=5",
           "source": "Google News",
-          "published": "Sat, 05 Sep 2026 08:01:00 GMT"
+          "published": "Sat, 05 Sep 2026 04:37:00 GMT"
         }
       ]
     },
     {
-      "word": "개헌",
+      "word": "카르텔",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "국힘 “이 대통령, ‘연임 없다’ 네 마디를 못 해…‘꼼수 개헌’ 우려” - hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QaUR0S3B4UXh6NE1ONm10OTZscEJ6bWEwN1oydmVuWWVMUVdJQ2dUd2s5MlZoclQ4WjltOE1iMFNZR3FrSmdldWpLTDRhUE9XSm16dTA1UEs1Z0pxNjM5OEtMRTNSTURYOEFHTzNiZ01RaDdC?oc=5",
+          "title": "국힘 “용혜인 사퇴 거부 뒤엔 김현지…좌파 카르텔 빌드업” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YbTRhMjJOS21POXVaZ2s1MnRIMFhaRjFjNGRaTEpFWnN6UW9FVlhWbmZuQUpXWEg1VDAyYllXMnJuam5mYkJjWnhWYUZPMVRzb3VtVWJBb0FyQdIBX0FVX3lxTE9QdS1fZ1lySmVVYWFCbHJwbTQ5VFRhWUxZbXFuMDNxdUpNTFlOaGcxQjZZb0VvakcwUEpCYU8ydUpmWWRsUnFiZTlndzJVa19MdERWTVNKT3BkOXJRQ1Jj?oc=5",
           "source": "Google News",
-          "published": "Sat, 05 Sep 2026 08:01:00 GMT"
+          "published": "Sat, 05 Sep 2026 04:37:00 GMT"
         }
       ]
     },
     {
-      "word": "용혜인",
+      "word": "빌드업",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"용혜인, 애초에 장관직 고사했어야\"…與 내부서 '사퇴론' 분출 [여의도는 지금] - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tVFg0MWctcXQ3MURkUC1vdFFrZE1GMVhUWDNITkVjajJLX3pDdm5WSEJoaGRGRnlhVmhBaWFJZllwRW1ZTnpVYlhTemk4bFBDeXZPb1cwMjY4QQ?oc=5",
+          "title": "국힘 “용혜인 사퇴 거부 뒤엔 김현지…좌파 카르텔 빌드업” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YbTRhMjJOS21POXVaZ2s1MnRIMFhaRjFjNGRaTEpFWnN6UW9FVlhWbmZuQUpXWEg1VDAyYllXMnJuam5mYkJjWnhWYUZPMVRzb3VtVWJBb0FyQdIBX0FVX3lxTE9QdS1fZ1lySmVVYWFCbHJwbTQ5VFRhWUxZbXFuMDNxdUpNTFlOaGcxQjZZb0VvakcwUEpCYU8ydUpmWWRsUnFiZTlndzJVa19MdERWTVNKT3BkOXJRQ1Jj?oc=5",
           "source": "Google News",
-          "published": "Sat, 05 Sep 2026 00:00:30 GMT"
+          "published": "Sat, 05 Sep 2026 04:37:00 GMT"
         }
       ]
     },
     {
-      "word": "애초",
+      "word": "단독평균보다",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"용혜인, 애초에 장관직 고사했어야\"…與 내부서 '사퇴론' 분출 [여의도는 지금] - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tVFg0MWctcXQ3MURkUC1vdFFrZE1GMVhUWDNITkVjajJLX3pDdm5WSEJoaGRGRnlhVmhBaWFJZllwRW1ZTnpVYlhTemk4bFBDeXZPb1cwMjY4QQ?oc=5",
+          "title": "[단독]평균보다 2배 빨랐다… ‘김승원 로비 의혹’ 제넨셀, 33일 만에 식약처 승인 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUmVZdGdyTDlGWjRIdjlRV25vTkRLVjZfSkUza24wMF9URFhKYTBTdUtwME1oa2s1WWxzckdJbDVva2JJSXF1UXpmQ0daV1FCWl9zRDA2WktxcGQwaVFuZHF6czRhSGtObEN0cjhRRlMtNUh0V21nYzduSzN6a0RxeUhvek96QQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 05 Sep 2026 00:00:30 GMT"
+          "published": "Sat, 05 Sep 2026 09:19:00 GMT"
         }
       ]
     },
     {
-      "word": "장관직",
+      "word": "2배",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"용혜인, 애초에 장관직 고사했어야\"…與 내부서 '사퇴론' 분출 [여의도는 지금] - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tVFg0MWctcXQ3MURkUC1vdFFrZE1GMVhUWDNITkVjajJLX3pDdm5WSEJoaGRGRnlhVmhBaWFJZllwRW1ZTnpVYlhTemk4bFBDeXZPb1cwMjY4QQ?oc=5",
+          "title": "[단독]평균보다 2배 빨랐다… ‘김승원 로비 의혹’ 제넨셀, 33일 만에 식약처 승인 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUmVZdGdyTDlGWjRIdjlRV25vTkRLVjZfSkUza24wMF9URFhKYTBTdUtwME1oa2s1WWxzckdJbDVva2JJSXF1UXpmQ0daV1FCWl9zRDA2WktxcGQwaVFuZHF6czRhSGtObEN0cjhRRlMtNUh0V21nYzduSzN6a0RxeUhvek96QQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 05 Sep 2026 00:00:30 GMT"
+          "published": "Sat, 05 Sep 2026 09:19:00 GMT"
         }
       ]
     },
     {
-      "word": "고사했어야",
+      "word": "빨랐다",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"용혜인, 애초에 장관직 고사했어야\"…與 내부서 '사퇴론' 분출 [여의도는 지금] - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tVFg0MWctcXQ3MURkUC1vdFFrZE1GMVhUWDNITkVjajJLX3pDdm5WSEJoaGRGRnlhVmhBaWFJZllwRW1ZTnpVYlhTemk4bFBDeXZPb1cwMjY4QQ?oc=5",
+          "title": "[단독]평균보다 2배 빨랐다… ‘김승원 로비 의혹’ 제넨셀, 33일 만에 식약처 승인 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUmVZdGdyTDlGWjRIdjlRV25vTkRLVjZfSkUza24wMF9URFhKYTBTdUtwME1oa2s1WWxzckdJbDVva2JJSXF1UXpmQ0daV1FCWl9zRDA2WktxcGQwaVFuZHF6czRhSGtObEN0cjhRRlMtNUh0V21nYzduSzN6a0RxeUhvek96QQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 05 Sep 2026 00:00:30 GMT"
-        }
-      ]
-    },
-    {
-      "word": "내부서",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "\"용혜인, 애초에 장관직 고사했어야\"…與 내부서 '사퇴론' 분출 [여의도는 지금] - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tVFg0MWctcXQ3MURkUC1vdFFrZE1GMVhUWDNITkVjajJLX3pDdm5WSEJoaGRGRnlhVmhBaWFJZllwRW1ZTnpVYlhTemk4bFBDeXZPb1cwMjY4QQ?oc=5",
-          "source": "Google News",
-          "published": "Sat, 05 Sep 2026 00:00:30 GMT"
-        }
-      ]
-    },
-    {
-      "word": "사퇴론",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "\"용혜인, 애초에 장관직 고사했어야\"…與 내부서 '사퇴론' 분출 [여의도는 지금] - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tVFg0MWctcXQ3MURkUC1vdFFrZE1GMVhUWDNITkVjajJLX3pDdm5WSEJoaGRGRnlhVmhBaWFJZllwRW1ZTnpVYlhTemk4bFBDeXZPb1cwMjY4QQ?oc=5",
-          "source": "Google News",
-          "published": "Sat, 05 Sep 2026 00:00:30 GMT"
-        }
-      ]
-    },
-    {
-      "word": "분출",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "\"용혜인, 애초에 장관직 고사했어야\"…與 내부서 '사퇴론' 분출 [여의도는 지금] - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tVFg0MWctcXQ3MURkUC1vdFFrZE1GMVhUWDNITkVjajJLX3pDdm5WSEJoaGRGRnlhVmhBaWFJZllwRW1ZTnpVYlhTemk4bFBDeXZPb1cwMjY4QQ?oc=5",
-          "source": "Google News",
-          "published": "Sat, 05 Sep 2026 00:00:30 GMT"
-        }
-      ]
-    },
-    {
-      "word": "여의",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "\"용혜인, 애초에 장관직 고사했어야\"…與 내부서 '사퇴론' 분출 [여의도는 지금] - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tVFg0MWctcXQ3MURkUC1vdFFrZE1GMVhUWDNITkVjajJLX3pDdm5WSEJoaGRGRnlhVmhBaWFJZllwRW1ZTnpVYlhTemk4bFBDeXZPb1cwMjY4QQ?oc=5",
-          "source": "Google News",
-          "published": "Sat, 05 Sep 2026 00:00:30 GMT"
-        }
-      ]
-    },
-    {
-      "word": "지금",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "\"용혜인, 애초에 장관직 고사했어야\"…與 내부서 '사퇴론' 분출 [여의도는 지금] - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tVFg0MWctcXQ3MURkUC1vdFFrZE1GMVhUWDNITkVjajJLX3pDdm5WSEJoaGRGRnlhVmhBaWFJZllwRW1ZTnpVYlhTemk4bFBDeXZPb1cwMjY4QQ?oc=5",
-          "source": "Google News",
-          "published": "Sat, 05 Sep 2026 00:00:30 GMT"
-        }
-      ]
-    },
-    {
-      "word": "한동훈",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "한동훈 “김승원, 브로커에 ‘보고 싶어 눈물’·‘복지부에 푸시해줄까’” 녹취록 공개 - khan.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBybmV0VG1LWnRFTS1Sd0o2UGx5S2xnMlAySFAwR2gyb3dRYWt2S3lSZUxRT3diMTVjWS1LZ3dyZFpLMHBwWi1fVWg4Uk1Pb1dGQUxhWmw1WHA0Z9IBX0FVX3lxTE0tbk1OdVUyZkp3Q25HcDlPUkY2bGp3X1lFSHBvYWhZSXZaT3NmSTJ2VjFZN1NsU0NIdHZOVm5xZnNZSXZ2c3dMSjVFVlBKU3BkUDR1elYyZEZISGxkMmhF?oc=5",
-          "source": "Google News",
-          "published": "Sat, 05 Sep 2026 08:34:00 GMT"
+          "published": "Sat, 05 Sep 2026 09:19:00 GMT"
         }
       ]
     },
@@ -420,166 +517,75 @@
       "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "한동훈 “김승원, 브로커에 ‘보고 싶어 눈물’·‘복지부에 푸시해줄까’” 녹취록 공개 - khan.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBybmV0VG1LWnRFTS1Sd0o2UGx5S2xnMlAySFAwR2gyb3dRYWt2S3lSZUxRT3diMTVjWS1LZ3dyZFpLMHBwWi1fVWg4Uk1Pb1dGQUxhWmw1WHA0Z9IBX0FVX3lxTE0tbk1OdVUyZkp3Q25HcDlPUkY2bGp3X1lFSHBvYWhZSXZaT3NmSTJ2VjFZN1NsU0NIdHZOVm5xZnNZSXZ2c3dMSjVFVlBKU3BkUDR1elYyZEZISGxkMmhF?oc=5",
+          "title": "[단독]평균보다 2배 빨랐다… ‘김승원 로비 의혹’ 제넨셀, 33일 만에 식약처 승인 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUmVZdGdyTDlGWjRIdjlRV25vTkRLVjZfSkUza24wMF9URFhKYTBTdUtwME1oa2s1WWxzckdJbDVva2JJSXF1UXpmQ0daV1FCWl9zRDA2WktxcGQwaVFuZHF6czRhSGtObEN0cjhRRlMtNUh0V21nYzduSzN6a0RxeUhvek96QQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 05 Sep 2026 08:34:00 GMT"
+          "published": "Sat, 05 Sep 2026 09:19:00 GMT"
         }
       ]
     },
     {
-      "word": "브로커",
+      "word": "로비",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "한동훈 “김승원, 브로커에 ‘보고 싶어 눈물’·‘복지부에 푸시해줄까’” 녹취록 공개 - khan.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBybmV0VG1LWnRFTS1Sd0o2UGx5S2xnMlAySFAwR2gyb3dRYWt2S3lSZUxRT3diMTVjWS1LZ3dyZFpLMHBwWi1fVWg4Uk1Pb1dGQUxhWmw1WHA0Z9IBX0FVX3lxTE0tbk1OdVUyZkp3Q25HcDlPUkY2bGp3X1lFSHBvYWhZSXZaT3NmSTJ2VjFZN1NsU0NIdHZOVm5xZnNZSXZ2c3dMSjVFVlBKU3BkUDR1elYyZEZISGxkMmhF?oc=5",
+          "title": "[단독]평균보다 2배 빨랐다… ‘김승원 로비 의혹’ 제넨셀, 33일 만에 식약처 승인 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUmVZdGdyTDlGWjRIdjlRV25vTkRLVjZfSkUza24wMF9URFhKYTBTdUtwME1oa2s1WWxzckdJbDVva2JJSXF1UXpmQ0daV1FCWl9zRDA2WktxcGQwaVFuZHF6czRhSGtObEN0cjhRRlMtNUh0V21nYzduSzN6a0RxeUhvek96QQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 05 Sep 2026 08:34:00 GMT"
+          "published": "Sat, 05 Sep 2026 09:19:00 GMT"
         }
       ]
     },
     {
-      "word": "보고",
+      "word": "의혹",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "한동훈 “김승원, 브로커에 ‘보고 싶어 눈물’·‘복지부에 푸시해줄까’” 녹취록 공개 - khan.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBybmV0VG1LWnRFTS1Sd0o2UGx5S2xnMlAySFAwR2gyb3dRYWt2S3lSZUxRT3diMTVjWS1LZ3dyZFpLMHBwWi1fVWg4Uk1Pb1dGQUxhWmw1WHA0Z9IBX0FVX3lxTE0tbk1OdVUyZkp3Q25HcDlPUkY2bGp3X1lFSHBvYWhZSXZaT3NmSTJ2VjFZN1NsU0NIdHZOVm5xZnNZSXZ2c3dMSjVFVlBKU3BkUDR1elYyZEZISGxkMmhF?oc=5",
+          "title": "[단독]평균보다 2배 빨랐다… ‘김승원 로비 의혹’ 제넨셀, 33일 만에 식약처 승인 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUmVZdGdyTDlGWjRIdjlRV25vTkRLVjZfSkUza24wMF9URFhKYTBTdUtwME1oa2s1WWxzckdJbDVva2JJSXF1UXpmQ0daV1FCWl9zRDA2WktxcGQwaVFuZHF6czRhSGtObEN0cjhRRlMtNUh0V21nYzduSzN6a0RxeUhvek96QQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 05 Sep 2026 08:34:00 GMT"
+          "published": "Sat, 05 Sep 2026 09:19:00 GMT"
         }
       ]
     },
     {
-      "word": "싶어",
+      "word": "제넨셀",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "한동훈 “김승원, 브로커에 ‘보고 싶어 눈물’·‘복지부에 푸시해줄까’” 녹취록 공개 - khan.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBybmV0VG1LWnRFTS1Sd0o2UGx5S2xnMlAySFAwR2gyb3dRYWt2S3lSZUxRT3diMTVjWS1LZ3dyZFpLMHBwWi1fVWg4Uk1Pb1dGQUxhWmw1WHA0Z9IBX0FVX3lxTE0tbk1OdVUyZkp3Q25HcDlPUkY2bGp3X1lFSHBvYWhZSXZaT3NmSTJ2VjFZN1NsU0NIdHZOVm5xZnNZSXZ2c3dMSjVFVlBKU3BkUDR1elYyZEZISGxkMmhF?oc=5",
+          "title": "[단독]평균보다 2배 빨랐다… ‘김승원 로비 의혹’ 제넨셀, 33일 만에 식약처 승인 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUmVZdGdyTDlGWjRIdjlRV25vTkRLVjZfSkUza24wMF9URFhKYTBTdUtwME1oa2s1WWxzckdJbDVva2JJSXF1UXpmQ0daV1FCWl9zRDA2WktxcGQwaVFuZHF6czRhSGtObEN0cjhRRlMtNUh0V21nYzduSzN6a0RxeUhvek96QQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 05 Sep 2026 08:34:00 GMT"
+          "published": "Sat, 05 Sep 2026 09:19:00 GMT"
         }
       ]
     },
     {
-      "word": "눈물복지부",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "한동훈 “김승원, 브로커에 ‘보고 싶어 눈물’·‘복지부에 푸시해줄까’” 녹취록 공개 - khan.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBybmV0VG1LWnRFTS1Sd0o2UGx5S2xnMlAySFAwR2gyb3dRYWt2S3lSZUxRT3diMTVjWS1LZ3dyZFpLMHBwWi1fVWg4Uk1Pb1dGQUxhWmw1WHA0Z9IBX0FVX3lxTE0tbk1OdVUyZkp3Q25HcDlPUkY2bGp3X1lFSHBvYWhZSXZaT3NmSTJ2VjFZN1NsU0NIdHZOVm5xZnNZSXZ2c3dMSjVFVlBKU3BkUDR1elYyZEZISGxkMmhF?oc=5",
-          "source": "Google News",
-          "published": "Sat, 05 Sep 2026 08:34:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "푸시해줄까",
+      "word": "33일",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "한동훈 “김승원, 브로커에 ‘보고 싶어 눈물’·‘복지부에 푸시해줄까’” 녹취록 공개 - khan.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBybmV0VG1LWnRFTS1Sd0o2UGx5S2xnMlAySFAwR2gyb3dRYWt2S3lSZUxRT3diMTVjWS1LZ3dyZFpLMHBwWi1fVWg4Uk1Pb1dGQUxhWmw1WHA0Z9IBX0FVX3lxTE0tbk1OdVUyZkp3Q25HcDlPUkY2bGp3X1lFSHBvYWhZSXZaT3NmSTJ2VjFZN1NsU0NIdHZOVm5xZnNZSXZ2c3dMSjVFVlBKU3BkUDR1elYyZEZISGxkMmhF?oc=5",
+          "title": "[단독]평균보다 2배 빨랐다… ‘김승원 로비 의혹’ 제넨셀, 33일 만에 식약처 승인 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUmVZdGdyTDlGWjRIdjlRV25vTkRLVjZfSkUza24wMF9URFhKYTBTdUtwME1oa2s1WWxzckdJbDVva2JJSXF1UXpmQ0daV1FCWl9zRDA2WktxcGQwaVFuZHF6czRhSGtObEN0cjhRRlMtNUh0V21nYzduSzN6a0RxeUhvek96QQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 05 Sep 2026 08:34:00 GMT"
+          "published": "Sat, 05 Sep 2026 09:19:00 GMT"
         }
       ]
     },
     {
-      "word": "녹취록",
+      "word": "만에",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "한동훈 “김승원, 브로커에 ‘보고 싶어 눈물’·‘복지부에 푸시해줄까’” 녹취록 공개 - khan.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBybmV0VG1LWnRFTS1Sd0o2UGx5S2xnMlAySFAwR2gyb3dRYWt2S3lSZUxRT3diMTVjWS1LZ3dyZFpLMHBwWi1fVWg4Uk1Pb1dGQUxhWmw1WHA0Z9IBX0FVX3lxTE0tbk1OdVUyZkp3Q25HcDlPUkY2bGp3X1lFSHBvYWhZSXZaT3NmSTJ2VjFZN1NsU0NIdHZOVm5xZnNZSXZ2c3dMSjVFVlBKU3BkUDR1elYyZEZISGxkMmhF?oc=5",
+          "title": "[단독]평균보다 2배 빨랐다… ‘김승원 로비 의혹’ 제넨셀, 33일 만에 식약처 승인 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUmVZdGdyTDlGWjRIdjlRV25vTkRLVjZfSkUza24wMF9URFhKYTBTdUtwME1oa2s1WWxzckdJbDVva2JJSXF1UXpmQ0daV1FCWl9zRDA2WktxcGQwaVFuZHF6czRhSGtObEN0cjhRRlMtNUh0V21nYzduSzN6a0RxeUhvek96QQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 05 Sep 2026 08:34:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "공개",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "한동훈 “김승원, 브로커에 ‘보고 싶어 눈물’·‘복지부에 푸시해줄까’” 녹취록 공개 - khan.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBybmV0VG1LWnRFTS1Sd0o2UGx5S2xnMlAySFAwR2gyb3dRYWt2S3lSZUxRT3diMTVjWS1LZ3dyZFpLMHBwWi1fVWg4Uk1Pb1dGQUxhWmw1WHA0Z9IBX0FVX3lxTE0tbk1OdVUyZkp3Q25HcDlPUkY2bGp3X1lFSHBvYWhZSXZaT3NmSTJ2VjFZN1NsU0NIdHZOVm5xZnNZSXZ2c3dMSjVFVlBKU3BkUDR1elYyZEZISGxkMmhF?oc=5",
-          "source": "Google News",
-          "published": "Sat, 05 Sep 2026 08:34:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "글로컬",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[글로컬] '안데스 빙하 소송' 히말라야에서 다시 제기된다면 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnNU5Sa2k0OFVDRV9Oa2pnenhRQmJNUVRJYUtYSU1kMU1nSjRTbTBhekRrWUo2RFRhcnI3bDhraVkyd0s1UG51eUhlTGdhOTNRNXdYRWlXTWRsVHPSAWBBVV95cUxOUXc1ZlIyYUtkblFBVTdtUVVEOXNIVGQ4eGRsOV9oTWp1a3JwdlhQZTNzWXpScEs3X1hkYW1qWVV0ZVB3bFZMcmdaRHVFOWJPMlBMNjN4MW5hNjBYRDdXcmw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 04 Sep 2026 23:08:01 GMT"
-        }
-      ]
-    },
-    {
-      "word": "안데스",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[글로컬] '안데스 빙하 소송' 히말라야에서 다시 제기된다면 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnNU5Sa2k0OFVDRV9Oa2pnenhRQmJNUVRJYUtYSU1kMU1nSjRTbTBhekRrWUo2RFRhcnI3bDhraVkyd0s1UG51eUhlTGdhOTNRNXdYRWlXTWRsVHPSAWBBVV95cUxOUXc1ZlIyYUtkblFBVTdtUVVEOXNIVGQ4eGRsOV9oTWp1a3JwdlhQZTNzWXpScEs3X1hkYW1qWVV0ZVB3bFZMcmdaRHVFOWJPMlBMNjN4MW5hNjBYRDdXcmw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 04 Sep 2026 23:08:01 GMT"
-        }
-      ]
-    },
-    {
-      "word": "빙하",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[글로컬] '안데스 빙하 소송' 히말라야에서 다시 제기된다면 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnNU5Sa2k0OFVDRV9Oa2pnenhRQmJNUVRJYUtYSU1kMU1nSjRTbTBhekRrWUo2RFRhcnI3bDhraVkyd0s1UG51eUhlTGdhOTNRNXdYRWlXTWRsVHPSAWBBVV95cUxOUXc1ZlIyYUtkblFBVTdtUVVEOXNIVGQ4eGRsOV9oTWp1a3JwdlhQZTNzWXpScEs3X1hkYW1qWVV0ZVB3bFZMcmdaRHVFOWJPMlBMNjN4MW5hNjBYRDdXcmw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 04 Sep 2026 23:08:01 GMT"
-        }
-      ]
-    },
-    {
-      "word": "소송",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[글로컬] '안데스 빙하 소송' 히말라야에서 다시 제기된다면 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnNU5Sa2k0OFVDRV9Oa2pnenhRQmJNUVRJYUtYSU1kMU1nSjRTbTBhekRrWUo2RFRhcnI3bDhraVkyd0s1UG51eUhlTGdhOTNRNXdYRWlXTWRsVHPSAWBBVV95cUxOUXc1ZlIyYUtkblFBVTdtUVVEOXNIVGQ4eGRsOV9oTWp1a3JwdlhQZTNzWXpScEs3X1hkYW1qWVV0ZVB3bFZMcmdaRHVFOWJPMlBMNjN4MW5hNjBYRDdXcmw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 04 Sep 2026 23:08:01 GMT"
-        }
-      ]
-    },
-    {
-      "word": "히말라야",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[글로컬] '안데스 빙하 소송' 히말라야에서 다시 제기된다면 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnNU5Sa2k0OFVDRV9Oa2pnenhRQmJNUVRJYUtYSU1kMU1nSjRTbTBhekRrWUo2RFRhcnI3bDhraVkyd0s1UG51eUhlTGdhOTNRNXdYRWlXTWRsVHPSAWBBVV95cUxOUXc1ZlIyYUtkblFBVTdtUVVEOXNIVGQ4eGRsOV9oTWp1a3JwdlhQZTNzWXpScEs3X1hkYW1qWVV0ZVB3bFZMcmdaRHVFOWJPMlBMNjN4MW5hNjBYRDdXcmw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 04 Sep 2026 23:08:01 GMT"
+          "published": "Sat, 05 Sep 2026 09:19:00 GMT"
         }
       ]
     }
