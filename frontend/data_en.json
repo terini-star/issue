@@ -1,181 +1,24 @@
 {
   "language": "en",
-  "last_updated": 1788775519.5739477,
+  "last_updated": 1788798105.0391848,
   "count": 40,
   "trends": [
-    {
-      "word": "Trump",
-      "count": 4,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump approval rating drops to record low in new poll - The Independent",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUjBqRmtXVDNzd0I1N3pScW9JbVRReXI3SVVJRGNkcFJTY2dvd1AwV0lYZHRrT2tQbjBmRXBVNWhISDQtMDFyRkhnVVNTSFp2YXNiNU1iaHBaS1g5Umh1eHZHQlJQNnNqU0s1OEc0ZWgySUREOXZNVERrQnZ0NU9zWHlLc3FIWnlSLTE2TkVDYk9Sdmt0ODlfRlBTWnN6bGpHOFJUNmdmdFFIbzdQR0FwSWswLWZkLWZEcldfR3lWcTg?oc=5",
-          "source": "Google News",
-          "published": "Mon, 07 Sep 2026 03:19:00 GMT"
-        },
-        {
-          "title": "Trump appeals to Supreme Court as time runs out on push to restrict mail voting - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWXAyQlp5eGUxc0c5VEZlY3duVzh2TzlvVjljbV9HTDltWnFuRmdzbDQ4N3RTZ3A4STl1VFNKYlZoRm5ISHVsMW5hOTBEazZ0ZTFpNUJPb0VvM2kwZFhidmdGZ0FlcHpRdlhuWWdaQldQa2RjcEFxU2tTTUVnYnVpNno1T1NzR3BoMDBoU3VqNGtfSU9VQWZiX0JBZEVQNDNCR0N2UlNMb2g3WkU?oc=5",
-          "source": "Google News",
-          "published": "Sun, 06 Sep 2026 22:24:43 GMT"
-        },
-        {
-          "title": "Trump shares map that renames New Mexico as ‘New America’ - CNN",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVDVWc3hyWGJ2YmZ0a2tialpTSFByTVlTV2lVMzIxa3UyWkhoRUdyLXQzeVZBSTVfWlM4YWw2a0ZFdTc3bUo2UDRMTVpxbFBaR1pxcjdueVhySS1iV0gyMzhIQTlaUFZmS28wUUlIUV95R2ozMHc0TWpiSkhsQUUtMnYycXNoQ2ZyaXVZ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 07 Sep 2026 02:36:00 GMT"
-        },
-        {
-          "title": "EU to give Greenland a cash boost amid Trump annexation drive - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUEowN0xTcUtyLU1rMXoxb0NNYWZaVi02WHJXNlhWZzRqWTNKbFpKckFNdUEzOFJaUWxRZHNyMUJBZXBuUk9VZXF0VkVsNjl3ZEtnWDI5aTlwSjdCS2FxcmUyclExS3lNTVZJTUlFMmY5dXhEREFKR1A0Qkg4Z0syanJmNWdialFqTHdIakZaQlgwMW5tYjA4YnRwbE5fOWc?oc=5",
-          "source": "Google News",
-          "published": "Sun, 06 Sep 2026 23:57:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Iran",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Deadly Iran wedding strike likely due to U.S. bomb missing a nearby target - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaXNKcllFR3pBVUpvRm9hUkcwV0d6YlJabVRjcy00QW5pcE0yRDkzclpSTE9MSjI0SjNFSnBrTXlwXzRUdWRuSzlvdXo3dDZrb1pDZEg4eER2b1hyWnlZRHozTmlick5vMk50enVZdU5YMi05dlhSY0d1amx0OUNfTF9QMk9WMElFVmpYeUlXMHdNZzJXRFdPQXdhSmNLV3pGOE1oeUhuaVFCQjVVZEVPYzBROUV4SVM1U3c?oc=5",
-          "source": "Google News",
-          "published": "Sun, 06 Sep 2026 23:25:18 GMT"
-        },
-        {
-          "title": "Iran claims strike on a U.S. ship in the Strait of Hormuz but the U.S. denies it - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQjFZYld3STFWaVdhR2hGb25NdVJQeml2TU5PRDlsa2lFbVc4a1huRXU0MlFYd0lvem4tR3dablZsMDBkUVpQMjNDb0dlTjdicVVLMWwtUDh1cnlBSkUwUDFYUlNfLUs3QTB0SmU4d3VXQmxady1jRkhQMnRYdjZ1bDVKTEhRaVpWT1dZaXVCYmNhMEZGOVAyeHI1Z3o?oc=5",
-          "source": "Google News",
-          "published": "Sun, 06 Sep 2026 19:51:10 GMT"
-        },
-        {
-          "title": "Oil prices hold near 6-week highs on US-Iran attacks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2l5blJOWGZlTWtiTzJFdl80Vm9jb3QxSHp5YUpRR0l6THd2RmZ6cDd2OUtFakRhYkRXbWdSdUxUU0tYSVl1YTRTS1RzYTVQem1OOVFDR01ZRXNEeDBuWEwweHd0RDZnS1B0dE1PbFhXb3JMWjNGY1JLMHpvUkpGRDE0ZUtXZk10akVNOUhSVklQYjdHZ1JCS25ReUc?oc=5",
-          "source": "Google News",
-          "published": "Mon, 07 Sep 2026 00:15:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Top",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "The Top Tech Trends at IFA Berlin 2026 - CNET",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzhfN2gwdWFneXQtS3ExNi0zS0tCNlZxZUFSVTZEMHJBREYzc0pxdzg1MzJ0NjYtYnZocnk4ZnJKN2gyckZKaVdCQXMwRDZPeFB0S0dqUXNrRVdOVUhzNjRaN21TMXhXUlZ4S3RJQlZuekJIcmJnTm93ZXFhS2Zrdk5oQVhLVTlD?oc=5",
-          "source": "Google News",
-          "published": "Sun, 06 Sep 2026 20:31:53 GMT"
-        },
-        {
-          "title": "Huawei, Xiaomi to Debut New Top Phones on Eve of Foldable iPhone - Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYkJ5QVhFNWQxVmlGNDJzYnlBYmRhZ3VTN1NZOGF0SXhycXFMY28zM2tnSFEtS21kWjlkQmkyRklmd3EyUGNHUkZTV0hoLVFYMkUtSmtfcEdNa0dSYm9NMUlPcFJzbVNmSUtzREtMU1hLSWcxOThwb1RBb3I3bHRIUGlDQ29LM2l1eU4wVDF0N0hKMW02cWlXSjZDQmpPak1yY3JPV1RybWE2akV4UHVXRGgweGQ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 07 Sep 2026 09:12:43 GMT"
-        },
-        {
-          "title": "Top US doctors offer updated flu and COVID vaccine recommendations, aiming to ease confusion - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRVU4MVZQTEgzNGtFVGZsZGNJRWJyaWtNZTJBQmh5bWZjRldXQXp5SVpoQkQwVVJjWXJZVG1CSU1XTFRiNlpzWGhCR19LWGU0bnhwQVEwaTlDS2FjenVEdzFDb1QxUHBEMmFYeGp2Ukt5cXdCYWhHQlk2eDFyZlJNMGhLTzVvaEJkc0hTOGJnaDU5LUsyY1p5dThpbTBrU3hzM3c?oc=5",
-          "source": "Google News",
-          "published": "Wed, 02 Sep 2026 22:56:00 GMT"
-        }
-      ]
-    },
     {
       "word": "win",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Germany’s far-right AfD thanks Elon Musk as France warns state election win a ‘serious moment’ - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDBvY1BwR2xpOTJxUy1yQXRMeGg2Y0pZeURLY0d2Rm9KZVpnNllsSGxqWl9lVHVWa2JZWG9WZmNQaGI2UGI1bWNHZGcyRERId3lya3lXdGRraUdRc0tTNXZNSHZOcWFuMHNNWmFjOXBGazc5LW5BNEsxV1lsYURRNVl3MTZkWUw2ZGlfSk1YOXF1ZGdFamxESlI4UFRycDQ?oc=5",
+          "title": "Germany's AfD calls for parties to work with it after Saxony-Anhalt win - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16M2ZOX0FoMjloOVMyeXRibklUYm10aW5fTlJjcmtuYVNFdE9fQ2k1TXo5aDNZUjI0UHFQeWFBZnBSaVNQdkIxX1JDUlR3QXZpbFNlS3RzRi1XQQ?oc=5",
           "source": "Google News",
-          "published": "Mon, 07 Sep 2026 07:13:00 GMT"
+          "published": "Mon, 07 Sep 2026 14:04:01 GMT"
         },
         {
-          "title": "Michigan fans stormed the field, but players didn't want to celebrate WMU win: 'Sick to my stomach' - 247Sports",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZWxCM2J0SEZPT3liOXYwVHlRblM4dHZYZENkRVExTG9LTG9yT2lYMzFhazdjZXlZeW54eU9jdHJTRWJpU1BDdmp6WjVLd3NXOWFwYjNGRy1JbzhRbTJsU21ZRlhKYVVoM3l1VWdBUng1X3l5UG9sX0ZDdzhRWEJkdU5EN2tjVXNsVzgweGt3Sk1PSDBOUXQtNzhBM1NwMFRxeWlGZFQzVE5XRVVfRGYzZ3hMTy1ZakpZXzk5emVnQ1pGc3BTbllRWjAxdWFqclJFWmQ2S29YZjVRUFo4TnVjem5VQk1LV00?oc=5",
+          "title": "Ole Miss outlasts Louisville: Trinidad Chambliss, Rebels win wild shootout with walk-off field goal - CBS Sports",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYkI4OEFlOWtMaHhHX2Rrdnd0RF82WDdRTFdDYXJXQmF0ejFqNzl3WGNUUlUyZF9PRlhzSGxSX29ScDEwN25VdUhKbXd1d0hLMGFlRWM0b2dRNGdjQk55angxV2pvLVhjWjJMYTEyZVRPQ2VnVG1RUUFNdGpMUEdJaVdNd2pOV1dfQnJLdVNfalcxRnpaSHRhek9kQmNjY001RDYyQk04dUNpVHFvVnlsNzZjdkhsOE0?oc=5",
           "source": "Google News",
-          "published": "Sun, 06 Sep 2026 21:32:35 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Hurricane",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Hurricane Marie remains offshore, but rain, high surf batter SoCal. What to know - Los Angeles Times",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa1B1cUlRVWpRZFJrTnBvc1BKbWhaaVhIUERhT1pTWnFJMWpiNUQzb2F4ckY3LU5FSEZ6TlpLWEo1b1lIeE1QR2F3eHh3MVViN2hRSUlEODdjdmFxRFA4dVk1LUhyMWpRRG1RQTYtdE1tVVBPbWItdG43eHBMNEFKM2JHQk9DbG9ZY3cxZXA4Yw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 07 Sep 2026 02:58:56 GMT"
-        },
-        {
-          "title": "Hurricane watch issued for Kauai as Lowell’s track shifts closer to Hawaii - sfchronicle.com",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVkg1bWRMUVJOQjdFd2xPSWRnVGZ5bzRaOTdaVjlrWFJxYkVELXRGc1hsdjhSSkdqSzRUU2ZLTzFWTkZ3WnplaWdLUnFJaFFBVkNzbDhvYWtFMUhJbXl4aVhpVktua0MzSWlSdU8yaWpLb0s5cXR0TU42aFFQV0tXU3dGSmwyM3M?oc=5",
-          "source": "Google News",
-          "published": "Mon, 07 Sep 2026 03:18:19 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Event",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Amy Acton unharmed after man lunges at her during campaign event; suspect now in custody - WLWT",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNEJScWRZMGQ1UllOZWpZMWtwdE9uU0NYVll2V0h0X3BhS3FZYVdtYzVfS18yd3IzQkVfdE5KMG9JNFlybFR0Y1FqV0dTdlAwbExtelVLMllTVTNTNHVOblZIRy1JM21WcWxDb2RwUHY4UkI1MTIwMGJrZjA5TTUxcEV4MXhkdTEtTDJSMk5fVnJMcGdS?oc=5",
-          "source": "Google News",
-          "published": "Mon, 07 Sep 2026 04:34:04 GMT"
-        },
-        {
-          "title": "Apple (AAPL) Sets iPhone Launch Event. The First Under New CEO John Ternus - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcW9BT3d1eWhRSUU4Z2xzQlBHQmF2MHRSNVdSc1Q5aHNqM182OXg5R1d6LTl5QjZ5Mng3ck4tQzlOcnFZMVVLLXpHQlRmSFpPcTlhbzZUQThDZE9ocWZyc08xZU9wdjdreFRrWFY3RklyTzZwTXBfTTNKdDhjZFVncndINThFeUNJeEh0VW1ITHhmSzhy?oc=5",
-          "source": "Google News",
-          "published": "Sun, 06 Sep 2026 22:12:25 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Strike",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Deadly Iran wedding strike likely due to U.S. bomb missing a nearby target - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaXNKcllFR3pBVUpvRm9hUkcwV0d6YlJabVRjcy00QW5pcE0yRDkzclpSTE9MSjI0SjNFSnBrTXlwXzRUdWRuSzlvdXo3dDZrb1pDZEg4eER2b1hyWnlZRHozTmlick5vMk50enVZdU5YMi05dlhSY0d1amx0OUNfTF9QMk9WMElFVmpYeUlXMHdNZzJXRFdPQXdhSmNLV3pGOE1oeUhuaVFCQjVVZEVPYzBROUV4SVM1U3c?oc=5",
-          "source": "Google News",
-          "published": "Sun, 06 Sep 2026 23:25:18 GMT"
-        },
-        {
-          "title": "Iran claims strike on a U.S. ship in the Strait of Hormuz but the U.S. denies it - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQjFZYld3STFWaVdhR2hGb25NdVJQeml2TU5PRDlsa2lFbVc4a1huRXU0MlFYd0lvem4tR3dablZsMDBkUVpQMjNDb0dlTjdicVVLMWwtUDh1cnlBSkUwUDFYUlNfLUs3QTB0SmU4d3VXQmxady1jRkhQMnRYdjZ1bDVKTEhRaVpWT1dZaXVCYmNhMEZGOVAyeHI1Z3o?oc=5",
-          "source": "Google News",
-          "published": "Sun, 06 Sep 2026 19:51:10 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Hold",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Witkoff and Kushner hold Ukraine talks after meeting Putin - dw.com",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY3JHeGxZZzc2VWpSa2ZhN2dmYS1STm5IVFRjZGlCLVlZMkN1ZG5rQV84YVNvaVpPU1pLci0zYlZTaWJ5X0d0N3BROEkwTzlNUVNLWVF3U2VZN2pveGNnRjVMdnRCQWZZYW5SUC1faGJMZElza19HMEM0QWZFaVp5emI0SUVwcHFncDFsM1JsMEY3eHFMOWxkSV9ZNkdQbGFzS0Vr0gGjAUFVX3lxTE5KMThEMExUMkp1dTA0TlFQbDZHY2dlRkd5NnloNlAzdmtrNGFueC1icjVyczJlQjRWQmVZamE4UDMzaURFcXdyZHl2UjM0TmtRa0dEN3lfQVk4Tmd3aDdyVmctMGdFb0NTTDk1LWMtS0hUSktiQ3A2bElRcVBLS3k2czJ0MG1sWUZ3VzJrZzd5YzAtWnVkWkxZejM1OHpXQTBFb0E?oc=5",
-          "source": "Google News",
-          "published": "Mon, 07 Sep 2026 06:07:41 GMT"
-        },
-        {
-          "title": "Oil prices hold near 6-week highs on US-Iran attacks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2l5blJOWGZlTWtiTzJFdl80Vm9jb3QxSHp5YUpRR0l6THd2RmZ6cDd2OUtFakRhYkRXbWdSdUxUU0tYSVl1YTRTS1RzYTVQem1OOVFDR01ZRXNEeDBuWEwweHd0RDZnS1B0dE1PbFhXb3JMWjNGY1JLMHpvUkpGRDE0ZUtXZk10akVNOUhSVklQYjdHZ1JCS25ReUc?oc=5",
-          "source": "Google News",
-          "published": "Mon, 07 Sep 2026 00:15:00 GMT"
+          "published": "Mon, 07 Sep 2026 06:47:05 GMT"
         }
       ]
     },
@@ -199,15 +42,15 @@
       ]
     },
     {
-      "word": "Ship",
+      "word": "Spacex",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Iran claims strike on a U.S. ship in the Strait of Hormuz but the U.S. denies it - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQjFZYld3STFWaVdhR2hGb25NdVJQeml2TU5PRDlsa2lFbVc4a1huRXU0MlFYd0lvem4tR3dablZsMDBkUVpQMjNDb0dlTjdicVVLMWwtUDh1cnlBSkUwUDFYUlNfLUs3QTB0SmU4d3VXQmxady1jRkhQMnRYdjZ1bDVKTEhRaVpWT1dZaXVCYmNhMEZGOVAyeHI1Z3o?oc=5",
+          "title": "SpaceX rival launches rocket in historic first, says industry is 'desperate' for more - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS3RrTEI3WGZWNmhSMWU3YnNiRHBaNE1vdzlSLWJGWUZZdzNwQ0hEWFRDZkpJWkdKYjdfa1R1eDF4Y0dFbWRRbTBfbWJnVjVrNEF1WW1yMTlqZ3l4LTBYN0dmc2lqV1pyVGl3UkI1ZU82dWkwdjVkcWxLdnFwclpfeDJCa3fSAYoBQVVfeXFMUGN5V2JLOVpDVjNTRXVPQ2pfRUtyTFpSMnhQbllJODV5NlI1cVVMZXhNMGdCMnEyVGp0UlhsOHBoLTQwT0VyTzdJaXhOR3BTRThIblE3MmxkLWpmenNlc0FnLUVBYjlHT0RxcGh4WHU5OHQwZlNrcGgteEd3M3ZENG50dVM5bHZ4UUNn?oc=5",
           "source": "Google News",
-          "published": "Sun, 06 Sep 2026 19:51:10 GMT"
+          "published": "Mon, 07 Sep 2026 10:51:03 GMT"
         },
         {
           "title": "SpaceX Falcon 9 rocket launches 27 Starlink satellites, lands on ship at sea (video) - Space",
@@ -218,154 +61,173 @@
       ]
     },
     {
-      "word": "Oil",
+      "word": "Launches",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Oil on troubled waters - The Economist",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZWdRNmlrYmd6NkpwZUFUOWFXQklhVDZOSzNtUkFxU05teTdiRDlPUnJSSXVMNEFtTklRWVVwTTZVSVZjVWUwcEllZ1l5NHA5U3JQQjJwLVZSV3dRMWVsdWhfS2Z2WndhWGtsYmE4VENoOTdndnh5S2pVRDNZS2xjMWUtTHpiY3dUdGhfMmFONmtOVlN0TjFj?oc=5",
+          "title": "SpaceX rival launches rocket in historic first, says industry is 'desperate' for more - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS3RrTEI3WGZWNmhSMWU3YnNiRHBaNE1vdzlSLWJGWUZZdzNwQ0hEWFRDZkpJWkdKYjdfa1R1eDF4Y0dFbWRRbTBfbWJnVjVrNEF1WW1yMTlqZ3l4LTBYN0dmc2lqV1pyVGl3UkI1ZU82dWkwdjVkcWxLdnFwclpfeDJCa3fSAYoBQVVfeXFMUGN5V2JLOVpDVjNTRXVPQ2pfRUtyTFpSMnhQbllJODV5NlI1cVVMZXhNMGdCMnEyVGp0UlhsOHBoLTQwT0VyTzdJaXhOR3BTRThIblE3MmxkLWpmenNlc0FnLUVBYjlHT0RxcGh4WHU5OHQwZlNrcGgteEd3M3ZENG50dVM5bHZ4UUNn?oc=5",
           "source": "Google News",
-          "published": "Mon, 07 Sep 2026 07:24:43 GMT"
+          "published": "Mon, 07 Sep 2026 10:51:03 GMT"
         },
         {
-          "title": "Oil prices hold near 6-week highs on US-Iran attacks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2l5blJOWGZlTWtiTzJFdl80Vm9jb3QxSHp5YUpRR0l6THd2RmZ6cDd2OUtFakRhYkRXbWdSdUxUU0tYSVl1YTRTS1RzYTVQem1OOVFDR01ZRXNEeDBuWEwweHd0RDZnS1B0dE1PbFhXb3JMWjNGY1JLMHpvUkpGRDE0ZUtXZk10akVNOUhSVklQYjdHZ1JCS25ReUc?oc=5",
+          "title": "SpaceX Falcon 9 rocket launches 27 Starlink satellites, lands on ship at sea (video) - Space",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWXNNSXZXejJnZXcyZ1VSSWNXZUVCR1VLaDhxLWZibU1iY1RNT3hZbU5WMnFJRTJUYXY2STF6UnM0X1kzZm5fTk1nRGFHTTNwMjl1WWRuTEVnbGhGTnlTaGlYSzNxbkNoamI1ZnU2aDljUnRmbGtmOUxrdGVmeGxTb0d5V1F2YnZwcUg3SlZfa2xJRDJYcDhiWVZTbnMtRXpoY0xR?oc=5",
           "source": "Google News",
-          "published": "Mon, 07 Sep 2026 00:15:00 GMT"
+          "published": "Sun, 06 Sep 2026 15:54:11 GMT"
         }
       ]
     },
     {
-      "word": "Week",
+      "word": "Rocket",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Oil prices hold near 6-week highs on US-Iran attacks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2l5blJOWGZlTWtiTzJFdl80Vm9jb3QxSHp5YUpRR0l6THd2RmZ6cDd2OUtFakRhYkRXbWdSdUxUU0tYSVl1YTRTS1RzYTVQem1OOVFDR01ZRXNEeDBuWEwweHd0RDZnS1B0dE1PbFhXb3JMWjNGY1JLMHpvUkpGRDE0ZUtXZk10akVNOUhSVklQYjdHZ1JCS25ReUc?oc=5",
+          "title": "SpaceX rival launches rocket in historic first, says industry is 'desperate' for more - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS3RrTEI3WGZWNmhSMWU3YnNiRHBaNE1vdzlSLWJGWUZZdzNwQ0hEWFRDZkpJWkdKYjdfa1R1eDF4Y0dFbWRRbTBfbWJnVjVrNEF1WW1yMTlqZ3l4LTBYN0dmc2lqV1pyVGl3UkI1ZU82dWkwdjVkcWxLdnFwclpfeDJCa3fSAYoBQVVfeXFMUGN5V2JLOVpDVjNTRXVPQ2pfRUtyTFpSMnhQbllJODV5NlI1cVVMZXhNMGdCMnEyVGp0UlhsOHBoLTQwT0VyTzdJaXhOR3BTRThIblE3MmxkLWpmenNlc0FnLUVBYjlHT0RxcGh4WHU5OHQwZlNrcGgteEd3M3ZENG50dVM5bHZ4UUNn?oc=5",
           "source": "Google News",
-          "published": "Mon, 07 Sep 2026 00:15:00 GMT"
+          "published": "Mon, 07 Sep 2026 10:51:03 GMT"
         },
         {
-          "title": "Has National Championship picture in college football already changed after a stunning first week? - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWlJHczhqTEd3TzY3MlN2M0JxSUotRVNFLXBUbXg0bEZncTEwX3lNU05Wd3dfcnNWNkdqbWhyQmxhUVlXWE1LeVd5VG1OY3ZUaDZ5SlZHSVlZSXNpNkttdGxGejRBVWJYUnZQdHcyN3FEUEZpcW5uMFBSVU56dThmbWJoTjc1N3NnYkdiZlZTOGtocklWWmo1MHlPdERZU09YZG1NNzh1WURLRWw3X3plVg?oc=5",
+          "title": "SpaceX Falcon 9 rocket launches 27 Starlink satellites, lands on ship at sea (video) - Space",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWXNNSXZXejJnZXcyZ1VSSWNXZUVCR1VLaDhxLWZibU1iY1RNT3hZbU5WMnFJRTJUYXY2STF6UnM0X1kzZm5fTk1nRGFHTTNwMjl1WWRuTEVnbGhGTnlTaGlYSzNxbkNoamI1ZnU2aDljUnRmbGtmOUxrdGVmeGxTb0d5V1F2YnZwcUg3SlZfa2xJRDJYcDhiWVZTbnMtRXpoY0xR?oc=5",
           "source": "Google News",
-          "published": "Sun, 06 Sep 2026 21:26:23 GMT"
+          "published": "Sun, 06 Sep 2026 15:54:11 GMT"
         }
       ]
     },
     {
-      "word": "Tech",
+      "word": "Traders",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "The Top Tech Trends at IFA Berlin 2026 - CNET",
+          "title": "Why is Kenya cracking down on foreign traders and small retailers? - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZGdFZk95dVV4ZnA0YnpkSlUxYW04N3dUQjRLc3FtTzdhY0trVHkzQVRwR1dKLWV1TGlFYUx1Sk9UVVowcEVTcXVNREgxTHlZQzI3RFBsXzN5eW4ybGFjejNucjVDbWp3d0tMaHlIZkhFckJ1N1JGbThwQ0RGTlVJSTFpcmpzOTFyek45SUh4c19qTXR2a2lDQXlyNnBWWFNsZlhLazZhd2rSAa4BQVVfeXFMT0tmUmJ5TGV5Uk9xT3lGWDFwM0NTLVB1QnA4cjhtTk1BTnBUeTN5RGlGZXZvN1ZHRDlaLTNiMERvVmJYb3J6TVRmTEVpNXNRRUFpM3hpc2tlQkRhUFgzLVp6cGJWUnlmM09nMXRjMWNFY191RHgxT2hmVGFjRkJEMGxaclZlTS1lSTY3MTB4cjZrR3FEWVM0ZnN4ZjJJai1lSHRVVU1hRkg0YVNVa0hR?oc=5",
+          "source": "Google News",
+          "published": "Mon, 07 Sep 2026 01:10:56 GMT"
+        },
+        {
+          "title": "Yen surges to 6-month high as traders stay alert for signs of intervention - Financial Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTW1iQURkTWNpamRkUkE4dnJITl9LMXgta1A3a0ZZR0paWHV2MU5yLWRPdThCUkhsRGZjWXVPVzRfclpkX1Frd1hxdEVma1k2OWNueGVGVUFRRmdXM0V3Uzk5ck1VUXNaenBMbVNHUXdWME00RThQNGE2Qi1PbG5OT2NrMTc?oc=5",
+          "source": "Google News",
+          "published": "Mon, 07 Sep 2026 11:45:02 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Colors",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "iPhone 18 Pro appears to show new colors in a retail store, but likely fake - 9to5Mac",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQalppQUhLOVhKTG1TeDhGdm53VW1xMjNNUjBubUt2M3BXdzRPcmNIalBXNmhXSzBMQjQxeTBKUW54MDAyTTVfNVlRNXBFbmxjVi03dGd3eUlKWTJua0hHYldNN2lSYWx1NW80dTFQQTdTdXBEeUNzU25jcFQwSmprdWVHME1YQ2hPcS15MHd6V0FJNW1YbzBCQzlQU3BYUk1GUVFSdy11d3FlZw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 07 Sep 2026 13:30:00 GMT"
+        },
+        {
+          "title": "Xiaomi 18 Fold: New colors officially revealed - Notebookcheck",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZUxtQWZvczB0V0xXMF9WUTIxT0t1dnNYRVVKdnh2am9CdExhbGoxVFZjelFrZGFGUXpPRDN5RFZ4X2EtWkk0ZWE4N3hDa1huMWE4TzhTRUptVGh3QUZ2eUtQV0M0eXd2NnFJc2xtOTJzX0JxMjRGNjkyc3owcm1vaVdaYnNVNWR6R0JockxhRE5VOTNi?oc=5",
+          "source": "Google News",
+          "published": "Sun, 06 Sep 2026 00:52:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Top",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "The Top Tech Trends at IFA Berlin 2026 - cnet.com",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzhfN2gwdWFneXQtS3ExNi0zS0tCNlZxZUFSVTZEMHJBREYzc0pxdzg1MzJ0NjYtYnZocnk4ZnJKN2gyckZKaVdCQXMwRDZPeFB0S0dqUXNrRVdOVUhzNjRaN21TMXhXUlZ4S3RJQlZuekJIcmJnTm93ZXFhS2Zrdk5oQVhLVTlD?oc=5",
           "source": "Google News",
           "published": "Sun, 06 Sep 2026 20:31:53 GMT"
         },
         {
-          "title": "Let’s take a look at the retro tech making a comeback - TechCrunch",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVl9LaHhhUkM2YmJwUEVKOExHQUt4N2xsNnZRcVk0S0RibTFkMUFBR3NiUEc0QVdhcGpkeVpuXzFqTUdpN2daT1VKSlowUkZWZm5aV0czb1pGaHJfSnNlbDNtM0o3dUx5SXB2U1JTdVV6NnRiYUJuMEdxaF9xY3A3aGl5d2xMeDNrc2lQMHpKbHc?oc=5",
+          "title": "Top U.S. doctors offer updated flu and COVID vaccine recommendations, aiming to ease confusion - PBS",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSjZuRG5GTnVsU09fWjNLMHo5b0pKaXBjMWx4ZTV0Z3BicUdVLTNHTl9hUUZLSHR1YWN6dHJDdml4TVhFN1Zudkh6NVQwSG5FZ1lsdzM3WVZiTFR4bm15eTFqV1hkYWJmYjZxWDlPT2M3dU9wR3B4ajlPeERKcjNkR2FydXNuLTEwdG9TZGpEaGdodGxSck5meV9xTExDUXdteWp2dFlsUFZCY1JBQmhQRk16TmRYMHNSd2daeTdjZ2Q2RUdoOGQ0?oc=5",
           "source": "Google News",
-          "published": "Sun, 06 Sep 2026 16:00:00 GMT"
+          "published": "Wed, 02 Sep 2026 18:21:19 GMT"
         }
       ]
     },
     {
-      "word": "Iphone",
+      "word": "Field",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Apple (AAPL) Sets iPhone Launch Event. The First Under New CEO John Ternus - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcW9BT3d1eWhRSUU4Z2xzQlBHQmF2MHRSNVdSc1Q5aHNqM182OXg5R1d6LTl5QjZ5Mng3ck4tQzlOcnFZMVVLLXpHQlRmSFpPcTlhbzZUQThDZE9ocWZyc08xZU9wdjdreFRrWFY3RklyTzZwTXBfTTNKdDhjZFVncndINThFeUNJeEh0VW1ITHhmSzhy?oc=5",
+          "title": "Michigan fans storming the field after beating a MAC school was amazing, Ole Miss fan goes viral & LSU fights - foxnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWkdVYVNTaTZXTER4enJpUDJwNkRuUXpReG4wWUhZN256NFBmOUFpR3JVWVNmanhOM1ozT1Z3VmxHcWhFSUZxbWZsTEUwMExFV1NhZnBzNG53clpmdVNoRnV1eUxyaFRYblp6YnFhQzdyd0lSaDJwdVRyRnpoLXhlM05hMUx3aUhfT3BsQVlpMEhGRS1VeW0yTW03ME5MaTVtWXo0VFV4YmRvRExfUmJ2ZjBXUDBId2ZZWHR2Nnk4aXFCa040UU9Rbw?oc=5",
           "source": "Google News",
-          "published": "Sun, 06 Sep 2026 22:12:25 GMT"
+          "published": "Mon, 07 Sep 2026 13:13:19 GMT"
         },
         {
-          "title": "Huawei, Xiaomi to Debut New Top Phones on Eve of Foldable iPhone - Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYkJ5QVhFNWQxVmlGNDJzYnlBYmRhZ3VTN1NZOGF0SXhycXFMY28zM2tnSFEtS21kWjlkQmkyRklmd3EyUGNHUkZTV0hoLVFYMkUtSmtfcEdNa0dSYm9NMUlPcFJzbVNmSUtzREtMU1hLSWcxOThwb1RBb3I3bHRIUGlDQ29LM2l1eU4wVDF0N0hKMW02cWlXSjZDQmpPak1yY3JPV1RybWE2akV4UHVXRGgweGQ?oc=5",
+          "title": "Ole Miss outlasts Louisville: Trinidad Chambliss, Rebels win wild shootout with walk-off field goal - CBS Sports",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYkI4OEFlOWtMaHhHX2Rrdnd0RF82WDdRTFdDYXJXQmF0ejFqNzl3WGNUUlUyZF9PRlhzSGxSX29ScDEwN25VdUhKbXd1d0hLMGFlRWM0b2dRNGdjQk55angxV2pvLVhjWjJMYTEyZVRPQ2VnVG1RUUFNdGpMUEdJaVdNd2pOV1dfQnJLdVNfalcxRnpaSHRhek9kQmNjY001RDYyQk04dUNpVHFvVnlsNzZjdkhsOE0?oc=5",
           "source": "Google News",
-          "published": "Mon, 07 Sep 2026 09:12:43 GMT"
+          "published": "Mon, 07 Sep 2026 06:47:05 GMT"
         }
       ]
     },
     {
-      "word": "Winners",
+      "word": "Ole",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘Widow’s Bay,’ ‘DTF: St. Louis’ and ‘Spider-Noir’ — Despite Its Cancellation — Dominate Creative Arts Emmys Night 2 Winners (FULL LIST) - Variety",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZUtfN2FmMGNHR3g0ZGxKTEhxTFo2aGhTUnBMa3kyVVE0MXp1S2MyVkZndzZUbE9jakJFQjRDd0NWOXpMTkk4VkYxV2FlX0NESnhQYjcycHY4XzlpVy1lb0trTUZZczZ4UnlPd1lBOWFfU3pVUHpYNXd4NGNPM2JZaWI3TDc0YUhxeVNLb2t4SFNuMEREVWNFQQ?oc=5",
+          "title": "Michigan fans storming the field after beating a MAC school was amazing, Ole Miss fan goes viral & LSU fights - foxnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWkdVYVNTaTZXTER4enJpUDJwNkRuUXpReG4wWUhZN256NFBmOUFpR3JVWVNmanhOM1ozT1Z3VmxHcWhFSUZxbWZsTEUwMExFV1NhZnBzNG53clpmdVNoRnV1eUxyaFRYblp6YnFhQzdyd0lSaDJwdVRyRnpoLXhlM05hMUx3aUhfT3BsQVlpMEhGRS1VeW0yTW03ME5MaTVtWXo0VFV4YmRvRExfUmJ2ZjBXUDBId2ZZWHR2Nnk4aXFCa040UU9Rbw?oc=5",
           "source": "Google News",
-          "published": "Sun, 06 Sep 2026 23:51:00 GMT"
+          "published": "Mon, 07 Sep 2026 13:13:19 GMT"
         },
         {
-          "title": "Angel Reese's defense leads USA vs Italy FIBA World Cup winners, losers - USA Today",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWjJmcmw5T2JOYzIwY1ByZGZFdW9EWXFhUHI2Y2hncmhtYWxpUFJGcjQwRnFLcDlqbUxIR0ZHS0UzVzhIb0dzZzlVM2lNaG8wRjd4NHFWMV9aelFkR0hRd0NWTkZMTk5SeDBEbFpxenhjc1ZZU3NJMnIwTDhWUVRRY0gxNEI5Nm10Q3RIX0xfVlRjY05FZE5KZHhTQnJvQnVPNlFqX2FPN1JnWW16Y2hTVFJ0c3ctSzNTRXhRUG93?oc=5",
+          "title": "Ole Miss outlasts Louisville: Trinidad Chambliss, Rebels win wild shootout with walk-off field goal - CBS Sports",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYkI4OEFlOWtMaHhHX2Rrdnd0RF82WDdRTFdDYXJXQmF0ejFqNzl3WGNUUlUyZF9PRlhzSGxSX29ScDEwN25VdUhKbXd1d0hLMGFlRWM0b2dRNGdjQk55angxV2pvLVhjWjJMYTEyZVRPQ2VnVG1RUUFNdGpMUEdJaVdNd2pOV1dfQnJLdVNfalcxRnpaSHRhek9kQmNjY001RDYyQk04dUNpVHFvVnlsNzZjdkhsOE0?oc=5",
           "source": "Google News",
-          "published": "Mon, 07 Sep 2026 02:20:00 GMT"
+          "published": "Mon, 07 Sep 2026 06:47:05 GMT"
         }
       ]
     },
     {
-      "word": "Latest",
+      "word": "Miss",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "The Latest Act from Lane Kiffin’s College Circus: Winning Actual Football Games - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sOVhMLU5JdWVqR21HOUpZUXBwcUxwMUl0ZG1SUjY0Z2M4akhzR1VJWWxnZHBNbXRJUUs4ZllIZ3FzcmEzd25lRkJDNGxJeEpTdTE3UWw3czB6a0hPM25tM05hbVpMM3FaZHJFbGc4eFJ4STZXdDlF?oc=5",
+          "title": "Michigan fans storming the field after beating a MAC school was amazing, Ole Miss fan goes viral & LSU fights - foxnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWkdVYVNTaTZXTER4enJpUDJwNkRuUXpReG4wWUhZN256NFBmOUFpR3JVWVNmanhOM1ozT1Z3VmxHcWhFSUZxbWZsTEUwMExFV1NhZnBzNG53clpmdVNoRnV1eUxyaFRYblp6YnFhQzdyd0lSaDJwdVRyRnpoLXhlM05hMUx3aUhfT3BsQVlpMEhGRS1VeW0yTW03ME5MaTVtWXo0VFV4YmRvRExfUmJ2ZjBXUDBId2ZZWHR2Nnk4aXFCa040UU9Rbw?oc=5",
           "source": "Google News",
-          "published": "Sun, 06 Sep 2026 16:00:00 GMT"
+          "published": "Mon, 07 Sep 2026 13:13:19 GMT"
         },
         {
-          "title": "NASA’s latest mission to map the cosmos takes off - The Economist",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdlpaRmYxVjQ0Y20zMlk5MW5aTVduY3hyRExxTFh0dDhxU0N3M2w4bUR2TGpDMUlYSGV1QmNuS184WEdpSkk1RjJlOFpKaGdxREl5UmstVHNTOEktZHJLVzNXLW01MFlMTmY5U0t1TVRSLUxrZ3oybnFvbEw4cnVWejEzZ25XdXBoRUdzQWtPRVdYVmtnX0c0eVMxd0U1NGFWNlozV2tyamlpMTYz?oc=5",
+          "title": "Ole Miss outlasts Louisville: Trinidad Chambliss, Rebels win wild shootout with walk-off field goal - CBS Sports",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYkI4OEFlOWtMaHhHX2Rrdnd0RF82WDdRTFdDYXJXQmF0ejFqNzl3WGNUUlUyZF9PRlhzSGxSX29ScDEwN25VdUhKbXd1d0hLMGFlRWM0b2dRNGdjQk55angxV2pvLVhjWjJMYTEyZVRPQ2VnVG1RUUFNdGpMUEdJaVdNd2pOV1dfQnJLdVNfalcxRnpaSHRhek9kQmNjY001RDYyQk04dUNpVHFvVnlsNzZjdkhsOE0?oc=5",
           "source": "Google News",
-          "published": "Wed, 02 Sep 2026 19:08:20 GMT"
+          "published": "Mon, 07 Sep 2026 06:47:05 GMT"
         }
       ]
     },
     {
-      "word": "College",
+      "word": "Teams",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "The Latest Act from Lane Kiffin’s College Circus: Winning Actual Football Games - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sOVhMLU5JdWVqR21HOUpZUXBwcUxwMUl0ZG1SUjY0Z2M4akhzR1VJWWxnZHBNbXRJUUs4ZllIZ3FzcmEzd25lRkJDNGxJeEpTdTE3UWw3czB6a0hPM25tM05hbVpMM3FaZHJFbGc4eFJ4STZXdDlF?oc=5",
+          "title": "2026 NFL season sim: Predictions, surprises, playoff teams - ESPN",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVTNGdFl4SFFmMEN5YTJWcDExc0dfVzBfY09UeE01Q19hdUhUOFV5R3U4QlEyeEZWY2VPZWc5M0YteEV6UF9GN2FGTmIyYVlPdzVGNkh6aHh0bWZiZGNkYlF5VEhGMHRBZ3BTZVZYX2VINVphWHFDQWcwQ290VHp1dTVuTklDZEJfQWlxVnJaNWhyLUdMT1V1WmZmcWxIcHR1bnBfcGV4Wm8zZ193Qm1ySFJreVVrMkE?oc=5",
           "source": "Google News",
-          "published": "Sun, 06 Sep 2026 16:00:00 GMT"
+          "published": "Mon, 07 Sep 2026 10:30:00 GMT"
         },
         {
-          "title": "Has National Championship picture in college football already changed after a stunning first week? - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWlJHczhqTEd3TzY3MlN2M0JxSUotRVNFLXBUbXg0bEZncTEwX3lNU05Wd3dfcnNWNkdqbWhyQmxhUVlXWE1LeVd5VG1OY3ZUaDZ5SlZHSVlZSXNpNkttdGxGejRBVWJYUnZQdHcyN3FEUEZpcW5uMFBSVU56dThmbWJoTjc1N3NnYkdiZlZTOGtocklWWmo1MHlPdERZU09YZG1NNzh1WURLRWw3X3plVg?oc=5",
+          "title": "Congo’s Ebola burial teams battle community anger, fatigue and fear of infection - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSEY4cG5kQmVGWEpvMnJMcHptRTRBZmk3Y25wb2xtRFpha0dLWG1RUkFidjNCZGNGNG5rM2hEZDRfcnZVTmc4ZEdvVTNndVFCRW92ZjFVVHVYbVZPTzFCRm5sNnJsd3hhTTNiZlF6WnJoR3p2VVc1ejFzU1E4Q2c5b3NlaHdaT0o1ZW1qQWFKYTNCUjdY?oc=5",
           "source": "Google News",
-          "published": "Sun, 06 Sep 2026 21:26:23 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Football",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "The Latest Act from Lane Kiffin’s College Circus: Winning Actual Football Games - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sOVhMLU5JdWVqR21HOUpZUXBwcUxwMUl0ZG1SUjY0Z2M4akhzR1VJWWxnZHBNbXRJUUs4ZllIZ3FzcmEzd25lRkJDNGxJeEpTdTE3UWw3czB6a0hPM25tM05hbVpMM3FaZHJFbGc4eFJ4STZXdDlF?oc=5",
-          "source": "Google News",
-          "published": "Sun, 06 Sep 2026 16:00:00 GMT"
-        },
-        {
-          "title": "Has National Championship picture in college football already changed after a stunning first week? - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWlJHczhqTEd3TzY3MlN2M0JxSUotRVNFLXBUbXg0bEZncTEwX3lNU05Wd3dfcnNWNkdqbWhyQmxhUVlXWE1LeVd5VG1OY3ZUaDZ5SlZHSVlZSXNpNkttdGxGejRBVWJYUnZQdHcyN3FEUEZpcW5uMFBSVU56dThmbWJoTjc1N3NnYkdiZlZTOGtocklWWmo1MHlPdERZU09YZG1NNzh1WURLRWw3X3plVg?oc=5",
-          "source": "Google News",
-          "published": "Sun, 06 Sep 2026 21:26:23 GMT"
+          "published": "Mon, 07 Sep 2026 08:35:00 GMT"
         }
       ]
     },
@@ -389,60 +251,15 @@
       ]
     },
     {
-      "word": "Largest",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Something Strange Just Happened With the World’s Largest Dark Matter Detector - Futurism",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1pdVlGYjBoZHdQVVVteDVBdXFleHpXNzhreS1Ld2NZc0pQdmRTM2x4Y0EyMnNoWEpEQzltZFhvNDlPeGtkZFhXaHMzcGd4ZzY3X1A5WlBQMmZOWFVyN1pEVHcxeDRQdkJkbm9aUEkwdTdsc1E?oc=5",
-          "source": "Google News",
-          "published": "Sat, 05 Sep 2026 14:02:00 GMT"
-        },
-        {
-          "title": "Pennsylvania’s measles crisis: Inside the nation’s largest outbreak - Pittsburgh Post-Gazette",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUldJTm42d2dhZU9keVBFZW43aVJxZTlEZ3hEcE54aWVFQXd1NTNCSzBOYUxIWU02cjdFRlItYi1FZ2tSd1ZnWk1jR01aVnRfekFKZklUaXFpaHpxMWdhTGxwaXVDdjZNY29Gdl9OZnhEaWlMTUMtUXdjMUNnQ1J0YkltMlhXSW9NV3JuZVB1MEFVMmNMeUp0NldiQ0VDZEFBdXhsTW5IUkVKWlJ6Mi0xcVVtVGltZUNFaHNIOHlwaHVhSE4yWG9DSkx2U1dfVmJ1?oc=5",
-          "source": "Google News",
-          "published": "Mon, 07 Sep 2026 07:25:57 GMT"
-        }
-      ]
-    },
-    {
       "word": "Germany",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Germany’s far-right AfD thanks Elon Musk as France warns state election win a ‘serious moment’ - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDBvY1BwR2xpOTJxUy1yQXRMeGg2Y0pZeURLY0d2Rm9KZVpnNllsSGxqWl9lVHVWa2JZWG9WZmNQaGI2UGI1bWNHZGcyRERId3lya3lXdGRraUdRc0tTNXZNSHZOcWFuMHNNWmFjOXBGazc5LW5BNEsxV1lsYURRNVl3MTZkWUw2ZGlfSk1YOXF1ZGdFamxESlI4UFRycDQ?oc=5",
+          "title": "Germany's AfD calls for parties to work with it after Saxony-Anhalt win - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16M2ZOX0FoMjloOVMyeXRibklUYm10aW5fTlJjcmtuYVNFdE9fQ2k1TXo5aDNZUjI0UHFQeWFBZnBSaVNQdkIxX1JDUlR3QXZpbFNlS3RzRi1XQQ?oc=5",
           "source": "Google News",
-          "published": "Mon, 07 Sep 2026 07:13:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "far",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Germany’s far-right AfD thanks Elon Musk as France warns state election win a ‘serious moment’ - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDBvY1BwR2xpOTJxUy1yQXRMeGg2Y0pZeURLY0d2Rm9KZVpnNllsSGxqWl9lVHVWa2JZWG9WZmNQaGI2UGI1bWNHZGcyRERId3lya3lXdGRraUdRc0tTNXZNSHZOcWFuMHNNWmFjOXBGazc5LW5BNEsxV1lsYURRNVl3MTZkWUw2ZGlfSk1YOXF1ZGdFamxESlI4UFRycDQ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 07 Sep 2026 07:13:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Right",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Germany’s far-right AfD thanks Elon Musk as France warns state election win a ‘serious moment’ - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDBvY1BwR2xpOTJxUy1yQXRMeGg2Y0pZeURLY0d2Rm9KZVpnNllsSGxqWl9lVHVWa2JZWG9WZmNQaGI2UGI1bWNHZGcyRERId3lya3lXdGRraUdRc0tTNXZNSHZOcWFuMHNNWmFjOXBGazc5LW5BNEsxV1lsYURRNVl3MTZkWUw2ZGlfSk1YOXF1ZGdFamxESlI4UFRycDQ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 07 Sep 2026 07:13:00 GMT"
+          "published": "Mon, 07 Sep 2026 14:04:01 GMT"
         }
       ]
     },
@@ -452,218 +269,335 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Germany’s far-right AfD thanks Elon Musk as France warns state election win a ‘serious moment’ - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDBvY1BwR2xpOTJxUy1yQXRMeGg2Y0pZeURLY0d2Rm9KZVpnNllsSGxqWl9lVHVWa2JZWG9WZmNQaGI2UGI1bWNHZGcyRERId3lya3lXdGRraUdRc0tTNXZNSHZOcWFuMHNNWmFjOXBGazc5LW5BNEsxV1lsYURRNVl3MTZkWUw2ZGlfSk1YOXF1ZGdFamxESlI4UFRycDQ?oc=5",
+          "title": "Germany's AfD calls for parties to work with it after Saxony-Anhalt win - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16M2ZOX0FoMjloOVMyeXRibklUYm10aW5fTlJjcmtuYVNFdE9fQ2k1TXo5aDNZUjI0UHFQeWFBZnBSaVNQdkIxX1JDUlR3QXZpbFNlS3RzRi1XQQ?oc=5",
           "source": "Google News",
-          "published": "Mon, 07 Sep 2026 07:13:00 GMT"
+          "published": "Mon, 07 Sep 2026 14:04:01 GMT"
         }
       ]
     },
     {
-      "word": "Thanks",
+      "word": "Calls",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Germany’s far-right AfD thanks Elon Musk as France warns state election win a ‘serious moment’ - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDBvY1BwR2xpOTJxUy1yQXRMeGg2Y0pZeURLY0d2Rm9KZVpnNllsSGxqWl9lVHVWa2JZWG9WZmNQaGI2UGI1bWNHZGcyRERId3lya3lXdGRraUdRc0tTNXZNSHZOcWFuMHNNWmFjOXBGazc5LW5BNEsxV1lsYURRNVl3MTZkWUw2ZGlfSk1YOXF1ZGdFamxESlI4UFRycDQ?oc=5",
+          "title": "Germany's AfD calls for parties to work with it after Saxony-Anhalt win - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16M2ZOX0FoMjloOVMyeXRibklUYm10aW5fTlJjcmtuYVNFdE9fQ2k1TXo5aDNZUjI0UHFQeWFBZnBSaVNQdkIxX1JDUlR3QXZpbFNlS3RzRi1XQQ?oc=5",
           "source": "Google News",
-          "published": "Mon, 07 Sep 2026 07:13:00 GMT"
+          "published": "Mon, 07 Sep 2026 14:04:01 GMT"
         }
       ]
     },
     {
-      "word": "Elon",
+      "word": "Parties",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Germany’s far-right AfD thanks Elon Musk as France warns state election win a ‘serious moment’ - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDBvY1BwR2xpOTJxUy1yQXRMeGg2Y0pZeURLY0d2Rm9KZVpnNllsSGxqWl9lVHVWa2JZWG9WZmNQaGI2UGI1bWNHZGcyRERId3lya3lXdGRraUdRc0tTNXZNSHZOcWFuMHNNWmFjOXBGazc5LW5BNEsxV1lsYURRNVl3MTZkWUw2ZGlfSk1YOXF1ZGdFamxESlI4UFRycDQ?oc=5",
+          "title": "Germany's AfD calls for parties to work with it after Saxony-Anhalt win - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16M2ZOX0FoMjloOVMyeXRibklUYm10aW5fTlJjcmtuYVNFdE9fQ2k1TXo5aDNZUjI0UHFQeWFBZnBSaVNQdkIxX1JDUlR3QXZpbFNlS3RzRi1XQQ?oc=5",
           "source": "Google News",
-          "published": "Mon, 07 Sep 2026 07:13:00 GMT"
+          "published": "Mon, 07 Sep 2026 14:04:01 GMT"
         }
       ]
     },
     {
-      "word": "Musk",
+      "word": "Work",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Germany’s far-right AfD thanks Elon Musk as France warns state election win a ‘serious moment’ - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDBvY1BwR2xpOTJxUy1yQXRMeGg2Y0pZeURLY0d2Rm9KZVpnNllsSGxqWl9lVHVWa2JZWG9WZmNQaGI2UGI1bWNHZGcyRERId3lya3lXdGRraUdRc0tTNXZNSHZOcWFuMHNNWmFjOXBGazc5LW5BNEsxV1lsYURRNVl3MTZkWUw2ZGlfSk1YOXF1ZGdFamxESlI4UFRycDQ?oc=5",
+          "title": "Germany's AfD calls for parties to work with it after Saxony-Anhalt win - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16M2ZOX0FoMjloOVMyeXRibklUYm10aW5fTlJjcmtuYVNFdE9fQ2k1TXo5aDNZUjI0UHFQeWFBZnBSaVNQdkIxX1JDUlR3QXZpbFNlS3RzRi1XQQ?oc=5",
           "source": "Google News",
-          "published": "Mon, 07 Sep 2026 07:13:00 GMT"
+          "published": "Mon, 07 Sep 2026 14:04:01 GMT"
         }
       ]
     },
     {
-      "word": "France",
+      "word": "Saxony",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Germany’s far-right AfD thanks Elon Musk as France warns state election win a ‘serious moment’ - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDBvY1BwR2xpOTJxUy1yQXRMeGg2Y0pZeURLY0d2Rm9KZVpnNllsSGxqWl9lVHVWa2JZWG9WZmNQaGI2UGI1bWNHZGcyRERId3lya3lXdGRraUdRc0tTNXZNSHZOcWFuMHNNWmFjOXBGazc5LW5BNEsxV1lsYURRNVl3MTZkWUw2ZGlfSk1YOXF1ZGdFamxESlI4UFRycDQ?oc=5",
+          "title": "Germany's AfD calls for parties to work with it after Saxony-Anhalt win - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16M2ZOX0FoMjloOVMyeXRibklUYm10aW5fTlJjcmtuYVNFdE9fQ2k1TXo5aDNZUjI0UHFQeWFBZnBSaVNQdkIxX1JDUlR3QXZpbFNlS3RzRi1XQQ?oc=5",
           "source": "Google News",
-          "published": "Mon, 07 Sep 2026 07:13:00 GMT"
+          "published": "Mon, 07 Sep 2026 14:04:01 GMT"
         }
       ]
     },
     {
-      "word": "Warns",
+      "word": "Anhalt",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Germany’s far-right AfD thanks Elon Musk as France warns state election win a ‘serious moment’ - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDBvY1BwR2xpOTJxUy1yQXRMeGg2Y0pZeURLY0d2Rm9KZVpnNllsSGxqWl9lVHVWa2JZWG9WZmNQaGI2UGI1bWNHZGcyRERId3lya3lXdGRraUdRc0tTNXZNSHZOcWFuMHNNWmFjOXBGazc5LW5BNEsxV1lsYURRNVl3MTZkWUw2ZGlfSk1YOXF1ZGdFamxESlI4UFRycDQ?oc=5",
+          "title": "Germany's AfD calls for parties to work with it after Saxony-Anhalt win - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16M2ZOX0FoMjloOVMyeXRibklUYm10aW5fTlJjcmtuYVNFdE9fQ2k1TXo5aDNZUjI0UHFQeWFBZnBSaVNQdkIxX1JDUlR3QXZpbFNlS3RzRi1XQQ?oc=5",
           "source": "Google News",
-          "published": "Mon, 07 Sep 2026 07:13:00 GMT"
+          "published": "Mon, 07 Sep 2026 14:04:01 GMT"
         }
       ]
     },
     {
-      "word": "State",
+      "word": "Hurricane",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Germany’s far-right AfD thanks Elon Musk as France warns state election win a ‘serious moment’ - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDBvY1BwR2xpOTJxUy1yQXRMeGg2Y0pZeURLY0d2Rm9KZVpnNllsSGxqWl9lVHVWa2JZWG9WZmNQaGI2UGI1bWNHZGcyRERId3lya3lXdGRraUdRc0tTNXZNSHZOcWFuMHNNWmFjOXBGazc5LW5BNEsxV1lsYURRNVl3MTZkWUw2ZGlfSk1YOXF1ZGdFamxESlI4UFRycDQ?oc=5",
+          "title": "Hurricane warning issued for western Hawaii as Lowell approaches - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Vb0x0SkV1TV9INmhFN0RFd015Qno3M2FBcGs3eGFrbWpzUWNjQUxjSnZTVG10WWlZYW9jQzh2X1p2ZC0wci1ZQjZMWVlxcFUxdDhfckZCX1puaWFPSWppckZxUDlNLWV0NnRDUHVn?oc=5",
           "source": "Google News",
-          "published": "Mon, 07 Sep 2026 07:13:00 GMT"
+          "published": "Mon, 07 Sep 2026 13:51:49 GMT"
         }
       ]
     },
     {
-      "word": "Election",
+      "word": "Warning",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Germany’s far-right AfD thanks Elon Musk as France warns state election win a ‘serious moment’ - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDBvY1BwR2xpOTJxUy1yQXRMeGg2Y0pZeURLY0d2Rm9KZVpnNllsSGxqWl9lVHVWa2JZWG9WZmNQaGI2UGI1bWNHZGcyRERId3lya3lXdGRraUdRc0tTNXZNSHZOcWFuMHNNWmFjOXBGazc5LW5BNEsxV1lsYURRNVl3MTZkWUw2ZGlfSk1YOXF1ZGdFamxESlI4UFRycDQ?oc=5",
+          "title": "Hurricane warning issued for western Hawaii as Lowell approaches - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Vb0x0SkV1TV9INmhFN0RFd015Qno3M2FBcGs3eGFrbWpzUWNjQUxjSnZTVG10WWlZYW9jQzh2X1p2ZC0wci1ZQjZMWVlxcFUxdDhfckZCX1puaWFPSWppckZxUDlNLWV0NnRDUHVn?oc=5",
           "source": "Google News",
-          "published": "Mon, 07 Sep 2026 07:13:00 GMT"
+          "published": "Mon, 07 Sep 2026 13:51:49 GMT"
         }
       ]
     },
     {
-      "word": "Serious",
+      "word": "Issued",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Germany’s far-right AfD thanks Elon Musk as France warns state election win a ‘serious moment’ - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDBvY1BwR2xpOTJxUy1yQXRMeGg2Y0pZeURLY0d2Rm9KZVpnNllsSGxqWl9lVHVWa2JZWG9WZmNQaGI2UGI1bWNHZGcyRERId3lya3lXdGRraUdRc0tTNXZNSHZOcWFuMHNNWmFjOXBGazc5LW5BNEsxV1lsYURRNVl3MTZkWUw2ZGlfSk1YOXF1ZGdFamxESlI4UFRycDQ?oc=5",
+          "title": "Hurricane warning issued for western Hawaii as Lowell approaches - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Vb0x0SkV1TV9INmhFN0RFd015Qno3M2FBcGs3eGFrbWpzUWNjQUxjSnZTVG10WWlZYW9jQzh2X1p2ZC0wci1ZQjZMWVlxcFUxdDhfckZCX1puaWFPSWppckZxUDlNLWV0NnRDUHVn?oc=5",
           "source": "Google News",
-          "published": "Mon, 07 Sep 2026 07:13:00 GMT"
+          "published": "Mon, 07 Sep 2026 13:51:49 GMT"
         }
       ]
     },
     {
-      "word": "Moment",
+      "word": "Western",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Germany’s far-right AfD thanks Elon Musk as France warns state election win a ‘serious moment’ - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDBvY1BwR2xpOTJxUy1yQXRMeGg2Y0pZeURLY0d2Rm9KZVpnNllsSGxqWl9lVHVWa2JZWG9WZmNQaGI2UGI1bWNHZGcyRERId3lya3lXdGRraUdRc0tTNXZNSHZOcWFuMHNNWmFjOXBGazc5LW5BNEsxV1lsYURRNVl3MTZkWUw2ZGlfSk1YOXF1ZGdFamxESlI4UFRycDQ?oc=5",
+          "title": "Hurricane warning issued for western Hawaii as Lowell approaches - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Vb0x0SkV1TV9INmhFN0RFd015Qno3M2FBcGs3eGFrbWpzUWNjQUxjSnZTVG10WWlZYW9jQzh2X1p2ZC0wci1ZQjZMWVlxcFUxdDhfckZCX1puaWFPSWppckZxUDlNLWV0NnRDUHVn?oc=5",
           "source": "Google News",
-          "published": "Mon, 07 Sep 2026 07:13:00 GMT"
+          "published": "Mon, 07 Sep 2026 13:51:49 GMT"
         }
       ]
     },
     {
-      "word": "Marie",
+      "word": "Hawaii",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Hurricane Marie remains offshore, but rain, high surf batter SoCal. What to know - Los Angeles Times",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa1B1cUlRVWpRZFJrTnBvc1BKbWhaaVhIUERhT1pTWnFJMWpiNUQzb2F4ckY3LU5FSEZ6TlpLWEo1b1lIeE1QR2F3eHh3MVViN2hRSUlEODdjdmFxRFA4dVk1LUhyMWpRRG1RQTYtdE1tVVBPbWItdG43eHBMNEFKM2JHQk9DbG9ZY3cxZXA4Yw?oc=5",
+          "title": "Hurricane warning issued for western Hawaii as Lowell approaches - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Vb0x0SkV1TV9INmhFN0RFd015Qno3M2FBcGs3eGFrbWpzUWNjQUxjSnZTVG10WWlZYW9jQzh2X1p2ZC0wci1ZQjZMWVlxcFUxdDhfckZCX1puaWFPSWppckZxUDlNLWV0NnRDUHVn?oc=5",
           "source": "Google News",
-          "published": "Mon, 07 Sep 2026 02:58:56 GMT"
+          "published": "Mon, 07 Sep 2026 13:51:49 GMT"
         }
       ]
     },
     {
-      "word": "Remains",
+      "word": "Lowell",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Hurricane Marie remains offshore, but rain, high surf batter SoCal. What to know - Los Angeles Times",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa1B1cUlRVWpRZFJrTnBvc1BKbWhaaVhIUERhT1pTWnFJMWpiNUQzb2F4ckY3LU5FSEZ6TlpLWEo1b1lIeE1QR2F3eHh3MVViN2hRSUlEODdjdmFxRFA4dVk1LUhyMWpRRG1RQTYtdE1tVVBPbWItdG43eHBMNEFKM2JHQk9DbG9ZY3cxZXA4Yw?oc=5",
+          "title": "Hurricane warning issued for western Hawaii as Lowell approaches - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Vb0x0SkV1TV9INmhFN0RFd015Qno3M2FBcGs3eGFrbWpzUWNjQUxjSnZTVG10WWlZYW9jQzh2X1p2ZC0wci1ZQjZMWVlxcFUxdDhfckZCX1puaWFPSWppckZxUDlNLWV0NnRDUHVn?oc=5",
           "source": "Google News",
-          "published": "Mon, 07 Sep 2026 02:58:56 GMT"
+          "published": "Mon, 07 Sep 2026 13:51:49 GMT"
         }
       ]
     },
     {
-      "word": "Offshore",
+      "word": "Approaches",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Hurricane Marie remains offshore, but rain, high surf batter SoCal. What to know - Los Angeles Times",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa1B1cUlRVWpRZFJrTnBvc1BKbWhaaVhIUERhT1pTWnFJMWpiNUQzb2F4ckY3LU5FSEZ6TlpLWEo1b1lIeE1QR2F3eHh3MVViN2hRSUlEODdjdmFxRFA4dVk1LUhyMWpRRG1RQTYtdE1tVVBPbWItdG43eHBMNEFKM2JHQk9DbG9ZY3cxZXA4Yw?oc=5",
+          "title": "Hurricane warning issued for western Hawaii as Lowell approaches - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Vb0x0SkV1TV9INmhFN0RFd015Qno3M2FBcGs3eGFrbWpzUWNjQUxjSnZTVG10WWlZYW9jQzh2X1p2ZC0wci1ZQjZMWVlxcFUxdDhfckZCX1puaWFPSWppckZxUDlNLWV0NnRDUHVn?oc=5",
           "source": "Google News",
-          "published": "Mon, 07 Sep 2026 02:58:56 GMT"
+          "published": "Mon, 07 Sep 2026 13:51:49 GMT"
         }
       ]
     },
     {
-      "word": "Rain",
+      "word": "Iran",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Hurricane Marie remains offshore, but rain, high surf batter SoCal. What to know - Los Angeles Times",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa1B1cUlRVWpRZFJrTnBvc1BKbWhaaVhIUERhT1pTWnFJMWpiNUQzb2F4ckY3LU5FSEZ6TlpLWEo1b1lIeE1QR2F3eHh3MVViN2hRSUlEODdjdmFxRFA4dVk1LUhyMWpRRG1RQTYtdE1tVVBPbWItdG43eHBMNEFKM2JHQk9DbG9ZY3cxZXA4Yw?oc=5",
+          "title": "Can Iran enforce a restricted zone in the Strait of Hormuz? - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVEt3eFVmQzY5SGV4MS1nV194dS1QZmtocWEwQVpkTkpKYldmcV8wWjRnT3llQVV1ZFJDXzRHWEpfM2R2Y2VSWHJPOEpqVXBrWm92MzZQaTh4aUhZUkNkZ0tfR3kzTm1lNzlKQUVxQU5udGFuMjB1REktN0loMmZQNDF5NENDVW8tQlJ0cDg1NTh3S0xpMUtjOVp1d3RqUTjSAaQBQVVfeXFMTWZyOFFNR0NJNy1aYTVwZi1lX0NYdW1fOThtR1ZHLVFVMWtQd3g1aUotQWR1WDU4TC0ydjRrX3dxS0w4eGlfcnYxdTd2Z1BiTGVEZlYzdFFKdGxqeGVHSVRxMUREY001Uy12MUprT2w2aXRmdFZ0UW93M3JNYWdCU3J2X20wNHZjWWhNQ2RmZlJwYmpsYlRwUjJQUFRqbzFVMlk0SGo?oc=5",
           "source": "Google News",
-          "published": "Mon, 07 Sep 2026 02:58:56 GMT"
+          "published": "Mon, 07 Sep 2026 11:41:10 GMT"
         }
       ]
     },
     {
-      "word": "High",
+      "word": "Enforce",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Hurricane Marie remains offshore, but rain, high surf batter SoCal. What to know - Los Angeles Times",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa1B1cUlRVWpRZFJrTnBvc1BKbWhaaVhIUERhT1pTWnFJMWpiNUQzb2F4ckY3LU5FSEZ6TlpLWEo1b1lIeE1QR2F3eHh3MVViN2hRSUlEODdjdmFxRFA4dVk1LUhyMWpRRG1RQTYtdE1tVVBPbWItdG43eHBMNEFKM2JHQk9DbG9ZY3cxZXA4Yw?oc=5",
+          "title": "Can Iran enforce a restricted zone in the Strait of Hormuz? - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVEt3eFVmQzY5SGV4MS1nV194dS1QZmtocWEwQVpkTkpKYldmcV8wWjRnT3llQVV1ZFJDXzRHWEpfM2R2Y2VSWHJPOEpqVXBrWm92MzZQaTh4aUhZUkNkZ0tfR3kzTm1lNzlKQUVxQU5udGFuMjB1REktN0loMmZQNDF5NENDVW8tQlJ0cDg1NTh3S0xpMUtjOVp1d3RqUTjSAaQBQVVfeXFMTWZyOFFNR0NJNy1aYTVwZi1lX0NYdW1fOThtR1ZHLVFVMWtQd3g1aUotQWR1WDU4TC0ydjRrX3dxS0w4eGlfcnYxdTd2Z1BiTGVEZlYzdFFKdGxqeGVHSVRxMUREY001Uy12MUprT2w2aXRmdFZ0UW93M3JNYWdCU3J2X20wNHZjWWhNQ2RmZlJwYmpsYlRwUjJQUFRqbzFVMlk0SGo?oc=5",
           "source": "Google News",
-          "published": "Mon, 07 Sep 2026 02:58:56 GMT"
+          "published": "Mon, 07 Sep 2026 11:41:10 GMT"
         }
       ]
     },
     {
-      "word": "Surf",
+      "word": "Restricted",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Hurricane Marie remains offshore, but rain, high surf batter SoCal. What to know - Los Angeles Times",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa1B1cUlRVWpRZFJrTnBvc1BKbWhaaVhIUERhT1pTWnFJMWpiNUQzb2F4ckY3LU5FSEZ6TlpLWEo1b1lIeE1QR2F3eHh3MVViN2hRSUlEODdjdmFxRFA4dVk1LUhyMWpRRG1RQTYtdE1tVVBPbWItdG43eHBMNEFKM2JHQk9DbG9ZY3cxZXA4Yw?oc=5",
+          "title": "Can Iran enforce a restricted zone in the Strait of Hormuz? - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVEt3eFVmQzY5SGV4MS1nV194dS1QZmtocWEwQVpkTkpKYldmcV8wWjRnT3llQVV1ZFJDXzRHWEpfM2R2Y2VSWHJPOEpqVXBrWm92MzZQaTh4aUhZUkNkZ0tfR3kzTm1lNzlKQUVxQU5udGFuMjB1REktN0loMmZQNDF5NENDVW8tQlJ0cDg1NTh3S0xpMUtjOVp1d3RqUTjSAaQBQVVfeXFMTWZyOFFNR0NJNy1aYTVwZi1lX0NYdW1fOThtR1ZHLVFVMWtQd3g1aUotQWR1WDU4TC0ydjRrX3dxS0w4eGlfcnYxdTd2Z1BiTGVEZlYzdFFKdGxqeGVHSVRxMUREY001Uy12MUprT2w2aXRmdFZ0UW93M3JNYWdCU3J2X20wNHZjWWhNQ2RmZlJwYmpsYlRwUjJQUFRqbzFVMlk0SGo?oc=5",
           "source": "Google News",
-          "published": "Mon, 07 Sep 2026 02:58:56 GMT"
+          "published": "Mon, 07 Sep 2026 11:41:10 GMT"
         }
       ]
     },
     {
-      "word": "Batter",
+      "word": "Zone",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Hurricane Marie remains offshore, but rain, high surf batter SoCal. What to know - Los Angeles Times",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa1B1cUlRVWpRZFJrTnBvc1BKbWhaaVhIUERhT1pTWnFJMWpiNUQzb2F4ckY3LU5FSEZ6TlpLWEo1b1lIeE1QR2F3eHh3MVViN2hRSUlEODdjdmFxRFA4dVk1LUhyMWpRRG1RQTYtdE1tVVBPbWItdG43eHBMNEFKM2JHQk9DbG9ZY3cxZXA4Yw?oc=5",
+          "title": "Can Iran enforce a restricted zone in the Strait of Hormuz? - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVEt3eFVmQzY5SGV4MS1nV194dS1QZmtocWEwQVpkTkpKYldmcV8wWjRnT3llQVV1ZFJDXzRHWEpfM2R2Y2VSWHJPOEpqVXBrWm92MzZQaTh4aUhZUkNkZ0tfR3kzTm1lNzlKQUVxQU5udGFuMjB1REktN0loMmZQNDF5NENDVW8tQlJ0cDg1NTh3S0xpMUtjOVp1d3RqUTjSAaQBQVVfeXFMTWZyOFFNR0NJNy1aYTVwZi1lX0NYdW1fOThtR1ZHLVFVMWtQd3g1aUotQWR1WDU4TC0ydjRrX3dxS0w4eGlfcnYxdTd2Z1BiTGVEZlYzdFFKdGxqeGVHSVRxMUREY001Uy12MUprT2w2aXRmdFZ0UW93M3JNYWdCU3J2X20wNHZjWWhNQ2RmZlJwYmpsYlRwUjJQUFRqbzFVMlk0SGo?oc=5",
           "source": "Google News",
-          "published": "Mon, 07 Sep 2026 02:58:56 GMT"
+          "published": "Mon, 07 Sep 2026 11:41:10 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Strait",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Can Iran enforce a restricted zone in the Strait of Hormuz? - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVEt3eFVmQzY5SGV4MS1nV194dS1QZmtocWEwQVpkTkpKYldmcV8wWjRnT3llQVV1ZFJDXzRHWEpfM2R2Y2VSWHJPOEpqVXBrWm92MzZQaTh4aUhZUkNkZ0tfR3kzTm1lNzlKQUVxQU5udGFuMjB1REktN0loMmZQNDF5NENDVW8tQlJ0cDg1NTh3S0xpMUtjOVp1d3RqUTjSAaQBQVVfeXFMTWZyOFFNR0NJNy1aYTVwZi1lX0NYdW1fOThtR1ZHLVFVMWtQd3g1aUotQWR1WDU4TC0ydjRrX3dxS0w4eGlfcnYxdTd2Z1BiTGVEZlYzdFFKdGxqeGVHSVRxMUREY001Uy12MUprT2w2aXRmdFZ0UW93M3JNYWdCU3J2X20wNHZjWWhNQ2RmZlJwYmpsYlRwUjJQUFRqbzFVMlk0SGo?oc=5",
+          "source": "Google News",
+          "published": "Mon, 07 Sep 2026 11:41:10 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Hormuz",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Can Iran enforce a restricted zone in the Strait of Hormuz? - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVEt3eFVmQzY5SGV4MS1nV194dS1QZmtocWEwQVpkTkpKYldmcV8wWjRnT3llQVV1ZFJDXzRHWEpfM2R2Y2VSWHJPOEpqVXBrWm92MzZQaTh4aUhZUkNkZ0tfR3kzTm1lNzlKQUVxQU5udGFuMjB1REktN0loMmZQNDF5NENDVW8tQlJ0cDg1NTh3S0xpMUtjOVp1d3RqUTjSAaQBQVVfeXFMTWZyOFFNR0NJNy1aYTVwZi1lX0NYdW1fOThtR1ZHLVFVMWtQd3g1aUotQWR1WDU4TC0ydjRrX3dxS0w4eGlfcnYxdTd2Z1BiTGVEZlYzdFFKdGxqeGVHSVRxMUREY001Uy12MUprT2w2aXRmdFZ0UW93M3JNYWdCU3J2X20wNHZjWWhNQ2RmZlJwYmpsYlRwUjJQUFRqbzFVMlk0SGo?oc=5",
+          "source": "Google News",
+          "published": "Mon, 07 Sep 2026 11:41:10 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Trump",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump shares map that renames New Mexico as ‘New America’ - CNN",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVDVWc3hyWGJ2YmZ0a2tialpTSFByTVlTV2lVMzIxa3UyWkhoRUdyLXQzeVZBSTVfWlM4YWw2a0ZFdTc3bUo2UDRMTVpxbFBaR1pxcjdueVhySS1iV0gyMzhIQTlaUFZmS28wUUlIUV95R2ozMHc0TWpiSkhsQUUtMnYycXNoQ2ZyaXVZ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 07 Sep 2026 02:36:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Shares",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump shares map that renames New Mexico as ‘New America’ - CNN",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVDVWc3hyWGJ2YmZ0a2tialpTSFByTVlTV2lVMzIxa3UyWkhoRUdyLXQzeVZBSTVfWlM4YWw2a0ZFdTc3bUo2UDRMTVpxbFBaR1pxcjdueVhySS1iV0gyMzhIQTlaUFZmS28wUUlIUV95R2ozMHc0TWpiSkhsQUUtMnYycXNoQ2ZyaXVZ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 07 Sep 2026 02:36:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Renames",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump shares map that renames New Mexico as ‘New America’ - CNN",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVDVWc3hyWGJ2YmZ0a2tialpTSFByTVlTV2lVMzIxa3UyWkhoRUdyLXQzeVZBSTVfWlM4YWw2a0ZFdTc3bUo2UDRMTVpxbFBaR1pxcjdueVhySS1iV0gyMzhIQTlaUFZmS28wUUlIUV95R2ozMHc0TWpiSkhsQUUtMnYycXNoQ2ZyaXVZ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 07 Sep 2026 02:36:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Mexico",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump shares map that renames New Mexico as ‘New America’ - CNN",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVDVWc3hyWGJ2YmZ0a2tialpTSFByTVlTV2lVMzIxa3UyWkhoRUdyLXQzeVZBSTVfWlM4YWw2a0ZFdTc3bUo2UDRMTVpxbFBaR1pxcjdueVhySS1iV0gyMzhIQTlaUFZmS28wUUlIUV95R2ozMHc0TWpiSkhsQUUtMnYycXNoQ2ZyaXVZ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 07 Sep 2026 02:36:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "America",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump shares map that renames New Mexico as ‘New America’ - CNN",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVDVWc3hyWGJ2YmZ0a2tialpTSFByTVlTV2lVMzIxa3UyWkhoRUdyLXQzeVZBSTVfWlM4YWw2a0ZFdTc3bUo2UDRMTVpxbFBaR1pxcjdueVhySS1iV0gyMzhIQTlaUFZmS28wUUlIUV95R2ozMHc0TWpiSkhsQUUtMnYycXNoQ2ZyaXVZ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 07 Sep 2026 02:36:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Ratko",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Ratko Mladić, the ‘Butcher of Bosnia’, given hero’s funeral in Serbia - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZDQwV0N5TEVua05mMi13aVo5TnFoTVVIRHlDVjllLWh1RTY3bm13NkkzOHRDZU5qYkNOZlFkRzZhTlZjYnFjV2ZLdzJPYzB5R1FUR1RCRW1ISzZYSzVySC0zSXUxbTBVM0ZZVUMzUVAxZmswQVhIYTVMaEZoYkxiVU1UdldVbHdYUlNFczhqWkY2NjVvaFJGT3F3X1YxdzB3N0E?oc=5",
+          "source": "Google News",
+          "published": "Mon, 07 Sep 2026 12:12:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Butcher",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Ratko Mladić, the ‘Butcher of Bosnia’, given hero’s funeral in Serbia - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZDQwV0N5TEVua05mMi13aVo5TnFoTVVIRHlDVjllLWh1RTY3bm13NkkzOHRDZU5qYkNOZlFkRzZhTlZjYnFjV2ZLdzJPYzB5R1FUR1RCRW1ISzZYSzVySC0zSXUxbTBVM0ZZVUMzUVAxZmswQVhIYTVMaEZoYkxiVU1UdldVbHdYUlNFczhqWkY2NjVvaFJGT3F3X1YxdzB3N0E?oc=5",
+          "source": "Google News",
+          "published": "Mon, 07 Sep 2026 12:12:00 GMT"
         }
       ]
     }
