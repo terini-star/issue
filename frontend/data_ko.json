@@ -1,138 +1,315 @@
 {
   "language": "ko",
-  "last_updated": 1788823437.240107,
+  "last_updated": 1788840746.135417,
   "count": 40,
   "trends": [
-    {
-      "word": "가능",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[단독] 김승원 검찰 최종 결론 보니 “봐주기 부담…무죄 가능성” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BS1hyYnV2dnNJcGJTQTUyZWh6LU9ZRThVd21MUW5KWE1PSVdzbFhLWnhER1NTNks4NDNxSkQ5R19NRmU5UjM3bG52NFMyS01kTFdZZlpVOTVUQUU?oc=5",
-          "source": "Google News",
-          "published": "Mon, 07 Sep 2026 12:08:00 GMT"
-        },
-        {
-          "title": "[잇슈 컬처] 베일 벗은 ‘가능한 사랑’ 기립 박수…외신 반응은? - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lZlJiWmJIdktYY2FZVXFQMTlTQkVHWUlpSHRGamZFTnVnNWVHb3VsMnlmREMxLUxuaTRLOHV2SS1MdEUyakQ4TWgyTnFpcm1zcnAyb0JBb29mOVU?oc=5",
-          "source": "Google News",
-          "published": "Mon, 07 Sep 2026 21:59:00 GMT"
-        },
-        {
-          "title": "면역세포 '말기 탈진' 상태 막는다···난치성 뇌종양 치료 가능성 제시 - edaily.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVmhWd2JxMEdWY2puTTZqZnZEa1pnVUROSmhOSzJXWDVHemw3d05LZWZRaXUtQk1GR1FZTzZLbThxaFN2VGRERUVvZUdacENsS3NHYm5wTjdnWkVjbzRraVl0TDk5YkNUWUU1bTJ1ZWk5QTYxLUdEZFBXNENRV0J0OA?oc=5",
-          "source": "Google News",
-          "published": "Mon, 07 Sep 2026 22:30:03 GMT"
-        }
-      ]
-    },
-    {
-      "word": "이야기",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[스팟+터뷰] 이기헌 민주당 의원 “파병은 헌법과 국익에 맞지 않아…트럼프에 멈추라고 이야기할 때가 됐다” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uMGJlYjNYWlFpT1FWVFlpWC0yTmhpbHR0bGkyaE1rSTRDZlpRZHJPWDB0VWVVNlY0bjFWUUw3eEpPcFlSMkR1d2hrQmJ2X2xxblM3VEpvMUdEd9IBX0FVX3lxTE5QWHp1TXdjWmczSXkyN3pFR0djUlh3RGIyX1FINDRBOFhMTXNmZlFNelJSV0ZJYnBPWWFwd1E2R0M0c1NVQ0g0NTVPSVliaFVfYlFNdFFPaHh5WWl5c3BN?oc=5",
-          "source": "Google News",
-          "published": "Mon, 07 Sep 2026 21:00:00 GMT"
-        },
-        {
-          "title": "[오민지 원장의 한의학 이야기] ‘바늘로 찌르는’ 공포, 신경통 후유증 막는 침치료 - ilyoseoul.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50akxLX2YzaHVKbk5IV1BMbnVHOXFERTdybGlrWThJVXA1cXJ2YTBYX2ZLeWJiUy00UF9qRlFlSlJNTnJLWV81ZDZGVDJpcDZLdE4yTi1LSkVObGlobE95REJLRG0tdjV1NlpmZ2wzdw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 04 Sep 2026 11:00:25 GMT"
-        }
-      ]
-    },
     {
       "word": "대통령",
       "count": 2,
       "category": "PERSON",
       "articles": [
         {
-          "title": "이 대통령, 초대 중수청장에 김지용 변호사 지명 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oUEMwT3ZvNFNrcWdfVDhCWkdUY2IwVllhUEZsT1F2amp0VEt5UGhQTGx5MnE5NExHNmFHaDlSdXdJREVXZnNEZjVSV1FPQmRsc2JrbG8tc29YMTBrUlpva3N5cGNhZmZIOHk0?oc=5",
+          "title": "이 대통령, 초대 중수청장 후보자에 김지용 변호사 지명 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UU0E3VmlJRjFuWWdQSUFMbkM1V29TYXlqUFZ1a2lNV3R0MndBUVloY2F3YkhrT3hjV051UmJrOGpMVXpiRDlLOUUtc2pWd0ludUhvOHlVc09NN2FfN20wUkNQdGgzODA?oc=5",
           "source": "Google News",
-          "published": "Mon, 07 Sep 2026 20:29:00 GMT"
+          "published": "Mon, 07 Sep 2026 20:40:00 GMT"
         },
         {
-          "title": "이 대통령, 전도연·김도연과 셀카…“아내가 꼭 찍어오래서” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wVUhqS1ZtaS1hbmZPQ0dBd21VNnJWYXJiWEd2alV3ZFE5ZUlxT29TUXhWdzY3X0tBdmpvbWwtTGhQTG5EZ0o0aU1RTFQ2S1hVLXQyTlFjVzg5N0hFTGtEdEtneDRQWFo2QnNR?oc=5",
+          "title": "李대통령 지지도 37.4%로 또 최저치…서울·2030 지지율 20%대[리얼미터](종합) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBySmMtekUtcFU1NkJEYmRneGUtaGVUZldOcFNiOUFuS3FwY013R0lfT29FYTlvWU9NYWUxbzJBTktxcXl3bi1BMTRqa3pVdGJ3R0dxN2NqOGxGZE3SAWBBVV95cUxOUFBWRWF2V2JiSzF1VDRfUDNISFU2eWs1Tjd0R083VDB6R0hTbmVhZFRMSENOaS05b0xQVEZ1ZWxXYjE4b0liZVJIMFZaSlY1d1NQeXJxNjg5MlZxb0E3SGo?oc=5",
           "source": "Google News",
-          "published": "Mon, 07 Sep 2026 15:40:00 GMT"
+          "published": "Mon, 07 Sep 2026 00:28:04 GMT"
         }
       ]
     },
     {
-      "word": "트럼프",
+      "word": "GDP",
       "count": 2,
-      "category": "NOUN",
+      "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "젤렌스키 “푸틴, 미 중간선거 전 트럼프에 외교적 성과 안길 수도” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GRDZIeWx2ekg0WnlaMzZjeTBkYTBnaDRJbEVhcjRMZ2pPcmE0UE50cTJPT3YtTzJPRWNjeEM3bWJxblFZX01jUkkzNFRNNlVwT2JwZ016MVhSUEIwNE1zSnBTdFQ3VElGZ0pPTkhn?oc=5",
+          "title": "올해 2분기 GDP 0.6% 성장…명목 GDP 47년 만 최고치 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUTkV3ZG1oek1oQ2xYZEs4QVZiSHJpTmNuX3M4RG0wb2ZGMktsT0lNNVE2VV9BV2NRNk5lcEptaFNlVkZXcG55TGZ1NkVneDJhUkRRYVNNUVpxTmM?oc=5",
           "source": "Google News",
-          "published": "Mon, 07 Sep 2026 23:06:00 GMT"
-        },
-        {
-          "title": "트럼프, 캐나다 對美 보복관세 앞두고 '제트기 판매금지' 위협(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TeUtzWFA2Y2NhQ09TV1Z5MmhzdHVfVEV6YW12SGFhYkFhRmhIcXNKRi1TSldzQlphWHVRcElELUV4TUtxODJUOV9JajlhZ1dRZkRNeUdyVWVGR03SAWBBVV95cUxQQ3o4OWlwZEpvSkVCX1lVWElWcE1Qdlc0cVVnUkwwMk1SZGRMNHZiVlZaYTVmVTBLYTBmajZYZFRBc044OXRWZlJRVkVuUGdkTkVJRHFpSm5tR2tRQWgyTVU?oc=5",
-          "source": "Google News",
-          "published": "Mon, 07 Sep 2026 21:09:09 GMT"
+          "published": "Tue, 08 Sep 2026 03:15:00 GMT"
         }
       ]
     },
     {
-      "word": "억제",
+      "word": "금리",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"유럽, 러 하이브리드 전쟁 억제 실패\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iQ2FrdlpOUEJWTWUzVlJpZFMxX2VHRzNnazZaODlaQTR3dGpuSkpLdW9SbU1QbjBCMTMtOC1sT0pINGNyUjcyV0Z1MEp1dnJxbVZWT3R0T3J4Nk3SAWBBVV95cUxQVjlUempRajZaYTl3VDdUdHFRamhjOVBFcjFfZEJSanVZRTFwZUd1Ni1kZkZ6S1hyNkh2d2plc1R0bUYxOVlvNHU3M2JqcHVpV0RfR21lZ0RzMGJFeTdvblA?oc=5",
+          "title": "시중 금리 오르자 '10년 이상 금리 고정 주택담보대출' 다시 꺼낸 금융위…결국 관건은 '이자 부담' - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTkxicXliSEdIajFuaHh0VzhQZ3N5SC1PdjVyVnNpNWUzUnJPYVdRamRlTkxnY0doUmUxNmtfVktqdmh3WHcya2c4dlNiVG8yMWRPQ2tySTNvdDFkeHFoYW5EVVhSWFlpNThKTlRUZHFjR2NwRnkxVVRiVGlENnJKbDRfZUxwTDhCSHFoNHZB?oc=5",
           "source": "Google News",
-          "published": "Mon, 07 Sep 2026 06:06:38 GMT"
-        },
-        {
-          "title": "식욕만 억제하는 줄 알았는데…노화도 늦출 수 있다는 ‘위고비’ 효과 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uOWZ4cWRoN2k1Z3JOeGpCOUdLbUFLZVBGMU1jY2hRdW16RGxTQlJ4R2UyM0V0V0ZQN2VDazEyOXRqT2dvOHdwQnRYX3BqUHMyS2c?oc=5",
-          "source": "Google News",
-          "published": "Mon, 07 Sep 2026 21:59:28 GMT"
+          "published": "Mon, 07 Sep 2026 23:28:00 GMT"
         }
       ]
     },
     {
-      "word": "안세영",
+      "word": "10년",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"안세영 압도적인 아시안게임 우승 후보...2연패로 새 역사 쓸 것\" 해외언론도 주목한 여제 안세영 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMURTS0dUMzhNSHF5Yk5wTjhVY2d2dWdIeE1SWkhhQjl5TVVxelpNeHJHVVZXUjRRcXFLSklsZUpRLVpXeVIyWkhHREl2aDRqb0ctTGpRLTduQURYVGhDRmRETkRpS3pjaVpFUjFyUENiNzZ0SG5FMXdPZFVqMlYtNGtXOW9BRDF3bHg0?oc=5",
+          "title": "시중 금리 오르자 '10년 이상 금리 고정 주택담보대출' 다시 꺼낸 금융위…결국 관건은 '이자 부담' - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTkxicXliSEdIajFuaHh0VzhQZ3N5SC1PdjVyVnNpNWUzUnJPYVdRamRlTkxnY0doUmUxNmtfVktqdmh3WHcya2c4dlNiVG8yMWRPQ2tySTNvdDFkeHFoYW5EVVhSWFlpNThKTlRUZHFjR2NwRnkxVVRiVGlENnJKbDRfZUxwTDhCSHFoNHZB?oc=5",
           "source": "Google News",
-          "published": "Mon, 07 Sep 2026 10:44:00 GMT"
+          "published": "Mon, 07 Sep 2026 23:28:00 GMT"
+        },
+        {
+          "title": "\"위고비 맞으면 10년 더 산다?\"…근력·기억력까지 좋아진다는 '뜻밖의 연구' [헬스톡] - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zSnl0Q3VOTDNmN0VlX3lmdURFZXRSbV9JaGR2VUxIQWFfRFR6OVZvUFRwcUFlLWdUSzBSWG1mZlp1M3lDUENlMS1wbi1kRmM?oc=5",
+          "source": "Google News",
+          "published": "Tue, 08 Sep 2026 00:11:29 GMT"
         }
       ]
     },
     {
-      "word": "치료",
+      "word": "공개",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "면역세포 '말기 탈진' 상태 막는다···난치성 뇌종양 치료 가능성 제시 - edaily.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVmhWd2JxMEdWY2puTTZqZnZEa1pnVUROSmhOSzJXWDVHemw3d05LZWZRaXUtQk1GR1FZTzZLbThxaFN2VGRERUVvZUdacENsS3NHYm5wTjdnWkVjbzRraVl0TDk5YkNUWUU1bTJ1ZWk5QTYxLUdEZFBXNENRV0J0OA?oc=5",
+          "title": "비버 노동자들의 생존 경쟁, ‘Wood Goes BRRR’ 공개 - 인디게임닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBRQS1PajVpSDJFaUx2bkpQanNWdzYxeFVwUUNtT2FvLWhJckxqMC0wWVJqdVlETDlLeVpVREx2V1VoVjlBbFZQUE5RNEI?oc=5",
           "source": "Google News",
-          "published": "Mon, 07 Sep 2026 22:30:03 GMT"
+          "published": "Tue, 08 Sep 2026 03:13:22 GMT"
         },
         {
-          "title": "\"유방·갑상선암 치료는 시간 싸움… 빠른 진단·수술로 불안 덜어\" - 헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VYUVNNEt6Q0l4T1Qwd294VkNmTVF2ZTc3RTVHWXFBeDFpZ1NnMmx2MzJ5UXBGMjZ3eXhVamFmdlV2Z2lmalpJcWk3TFMxVm9FMVpLS2gzekpzVVRGMkRoWHg5WEFHZTIwYkpkYUIxYjkwbV9GWm1EUFdrVUFTUkk?oc=5",
+          "title": "'소원' 소재원 작가, 고영욱 공개 저격..\"피해자들에 안 부끄럽나, 그만하라\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNU0NBSVFGYUQxT0NIV2dPb2dqaXZzRFNMQlA1Q1owM29rRUpTTkFJUjMyeDFKUENiaHBvSGdnVzBRczdwTU12YVZlaFY2TkdWblRzN2VmQUx4VGxXdVQ3MGoxRnptbWhpX281bGtDQVNMQzNEYV9USlMyMjdDSXNTV0JBRDhBMC11V245bkl2VQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 01 Sep 2026 22:01:00 GMT"
+          "published": "Mon, 07 Sep 2026 22:29:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "뜻밖",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "\"0.063? 오늘은 운전 안 해\" 노엘, 음주운전 전력 후 생긴 '뜻밖의 루틴' - 아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fV3p6ejVOWnZEekViTFI4ODJLZkwxOG8wQkZtS3owcnFzaUoteG9YNGVEdWRIMjhKaEdDRW55aHQwZGstREtGbjFJYW8xaGd6Q2d6RHMxT2F5N2VmdW1aZw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 08 Sep 2026 02:10:26 GMT"
+        },
+        {
+          "title": "\"위고비 맞으면 10년 더 산다?\"…근력·기억력까지 좋아진다는 '뜻밖의 연구' [헬스톡] - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zSnl0Q3VOTDNmN0VlX3lmdURFZXRSbV9JaGR2VUxIQWFfRFR6OVZvUFRwcUFlLWdUSzBSWG1mZlp1M3lDUENlMS1wbi1kRmM?oc=5",
+          "source": "Google News",
+          "published": "Tue, 08 Sep 2026 00:11:29 GMT"
+        }
+      ]
+    },
+    {
+      "word": "한동훈",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "한동훈, ‘신약 로비 의혹’ 녹취록 추가 공개…최재성 해명 재반박 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xb09wWTZubnlPUldXaUFvN3BwYmpMQ0FZeHYyR3RpWkVGSWN5SmpJQmp3Y3QxZDY1UF9nOWJvVURCM01SaDBVYXE4QWQxbFNEX3JOcG8yUlVyUW8?oc=5",
+          "source": "Google News",
+          "published": "Tue, 08 Sep 2026 02:41:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "신약",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "한동훈, ‘신약 로비 의혹’ 녹취록 추가 공개…최재성 해명 재반박 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xb09wWTZubnlPUldXaUFvN3BwYmpMQ0FZeHYyR3RpWkVGSWN5SmpJQmp3Y3QxZDY1UF9nOWJvVURCM01SaDBVYXE4QWQxbFNEX3JOcG8yUlVyUW8?oc=5",
+          "source": "Google News",
+          "published": "Tue, 08 Sep 2026 02:41:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "로비",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "한동훈, ‘신약 로비 의혹’ 녹취록 추가 공개…최재성 해명 재반박 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xb09wWTZubnlPUldXaUFvN3BwYmpMQ0FZeHYyR3RpWkVGSWN5SmpJQmp3Y3QxZDY1UF9nOWJvVURCM01SaDBVYXE4QWQxbFNEX3JOcG8yUlVyUW8?oc=5",
+          "source": "Google News",
+          "published": "Tue, 08 Sep 2026 02:41:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "의혹",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "한동훈, ‘신약 로비 의혹’ 녹취록 추가 공개…최재성 해명 재반박 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xb09wWTZubnlPUldXaUFvN3BwYmpMQ0FZeHYyR3RpWkVGSWN5SmpJQmp3Y3QxZDY1UF9nOWJvVURCM01SaDBVYXE4QWQxbFNEX3JOcG8yUlVyUW8?oc=5",
+          "source": "Google News",
+          "published": "Tue, 08 Sep 2026 02:41:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "녹취록",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "한동훈, ‘신약 로비 의혹’ 녹취록 추가 공개…최재성 해명 재반박 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xb09wWTZubnlPUldXaUFvN3BwYmpMQ0FZeHYyR3RpWkVGSWN5SmpJQmp3Y3QxZDY1UF9nOWJvVURCM01SaDBVYXE4QWQxbFNEX3JOcG8yUlVyUW8?oc=5",
+          "source": "Google News",
+          "published": "Tue, 08 Sep 2026 02:41:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "추가",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "한동훈, ‘신약 로비 의혹’ 녹취록 추가 공개…최재성 해명 재반박 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xb09wWTZubnlPUldXaUFvN3BwYmpMQ0FZeHYyR3RpWkVGSWN5SmpJQmp3Y3QxZDY1UF9nOWJvVURCM01SaDBVYXE4QWQxbFNEX3JOcG8yUlVyUW8?oc=5",
+          "source": "Google News",
+          "published": "Tue, 08 Sep 2026 02:41:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "공개최재",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "한동훈, ‘신약 로비 의혹’ 녹취록 추가 공개…최재성 해명 재반박 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xb09wWTZubnlPUldXaUFvN3BwYmpMQ0FZeHYyR3RpWkVGSWN5SmpJQmp3Y3QxZDY1UF9nOWJvVURCM01SaDBVYXE4QWQxbFNEX3JOcG8yUlVyUW8?oc=5",
+          "source": "Google News",
+          "published": "Tue, 08 Sep 2026 02:41:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "해명",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "한동훈, ‘신약 로비 의혹’ 녹취록 추가 공개…최재성 해명 재반박 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xb09wWTZubnlPUldXaUFvN3BwYmpMQ0FZeHYyR3RpWkVGSWN5SmpJQmp3Y3QxZDY1UF9nOWJvVURCM01SaDBVYXE4QWQxbFNEX3JOcG8yUlVyUW8?oc=5",
+          "source": "Google News",
+          "published": "Tue, 08 Sep 2026 02:41:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "재반박",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "한동훈, ‘신약 로비 의혹’ 녹취록 추가 공개…최재성 해명 재반박 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xb09wWTZubnlPUldXaUFvN3BwYmpMQ0FZeHYyR3RpWkVGSWN5SmpJQmp3Y3QxZDY1UF9nOWJvVURCM01SaDBVYXE4QWQxbFNEX3JOcG8yUlVyUW8?oc=5",
+          "source": "Google News",
+          "published": "Tue, 08 Sep 2026 02:41:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "속보경찰",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보]경찰, ‘봉쇄 시위’ 올공 핸드볼경기장 진입 성공 - khan.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WMk4zSDVna1ltdjhDbDU5c2hxcUIzNjQ5UG1qamV6N1p0UUdGX0YtRE9SLW9tSFdQWC1RV3I3cUZIa2N2UzVzNXVKQ19ZYVR6Q0lWaWtSb0s3QdIBX0FVX3lxTFBvZTFIZWlzTmhmd3N6TEprbnZJRXRSQXlXQTVha0Jtd3o3WmNqeURFQllmYmtTR2pwdWoyaTRWMWl3QUgxd3NRT0Z2UzAyZDJoRmRuc2R4RFpVRW9VamVB?oc=5",
+          "source": "Google News",
+          "published": "Tue, 08 Sep 2026 00:15:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "봉쇄",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보]경찰, ‘봉쇄 시위’ 올공 핸드볼경기장 진입 성공 - khan.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WMk4zSDVna1ltdjhDbDU5c2hxcUIzNjQ5UG1qamV6N1p0UUdGX0YtRE9SLW9tSFdQWC1RV3I3cUZIa2N2UzVzNXVKQ19ZYVR6Q0lWaWtSb0s3QdIBX0FVX3lxTFBvZTFIZWlzTmhmd3N6TEprbnZJRXRSQXlXQTVha0Jtd3o3WmNqeURFQllmYmtTR2pwdWoyaTRWMWl3QUgxd3NRT0Z2UzAyZDJoRmRuc2R4RFpVRW9VamVB?oc=5",
+          "source": "Google News",
+          "published": "Tue, 08 Sep 2026 00:15:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "시위",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보]경찰, ‘봉쇄 시위’ 올공 핸드볼경기장 진입 성공 - khan.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WMk4zSDVna1ltdjhDbDU5c2hxcUIzNjQ5UG1qamV6N1p0UUdGX0YtRE9SLW9tSFdQWC1RV3I3cUZIa2N2UzVzNXVKQ19ZYVR6Q0lWaWtSb0s3QdIBX0FVX3lxTFBvZTFIZWlzTmhmd3N6TEprbnZJRXRSQXlXQTVha0Jtd3o3WmNqeURFQllmYmtTR2pwdWoyaTRWMWl3QUgxd3NRT0Z2UzAyZDJoRmRuc2R4RFpVRW9VamVB?oc=5",
+          "source": "Google News",
+          "published": "Tue, 08 Sep 2026 00:15:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "올공",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보]경찰, ‘봉쇄 시위’ 올공 핸드볼경기장 진입 성공 - khan.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WMk4zSDVna1ltdjhDbDU5c2hxcUIzNjQ5UG1qamV6N1p0UUdGX0YtRE9SLW9tSFdQWC1RV3I3cUZIa2N2UzVzNXVKQ19ZYVR6Q0lWaWtSb0s3QdIBX0FVX3lxTFBvZTFIZWlzTmhmd3N6TEprbnZJRXRSQXlXQTVha0Jtd3o3WmNqeURFQllmYmtTR2pwdWoyaTRWMWl3QUgxd3NRT0Z2UzAyZDJoRmRuc2R4RFpVRW9VamVB?oc=5",
+          "source": "Google News",
+          "published": "Tue, 08 Sep 2026 00:15:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "핸드볼경기장",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보]경찰, ‘봉쇄 시위’ 올공 핸드볼경기장 진입 성공 - khan.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WMk4zSDVna1ltdjhDbDU5c2hxcUIzNjQ5UG1qamV6N1p0UUdGX0YtRE9SLW9tSFdQWC1RV3I3cUZIa2N2UzVzNXVKQ19ZYVR6Q0lWaWtSb0s3QdIBX0FVX3lxTFBvZTFIZWlzTmhmd3N6TEprbnZJRXRSQXlXQTVha0Jtd3o3WmNqeURFQllmYmtTR2pwdWoyaTRWMWl3QUgxd3NRT0Z2UzAyZDJoRmRuc2R4RFpVRW9VamVB?oc=5",
+          "source": "Google News",
+          "published": "Tue, 08 Sep 2026 00:15:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "진입",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보]경찰, ‘봉쇄 시위’ 올공 핸드볼경기장 진입 성공 - khan.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WMk4zSDVna1ltdjhDbDU5c2hxcUIzNjQ5UG1qamV6N1p0UUdGX0YtRE9SLW9tSFdQWC1RV3I3cUZIa2N2UzVzNXVKQ19ZYVR6Q0lWaWtSb0s3QdIBX0FVX3lxTFBvZTFIZWlzTmhmd3N6TEprbnZJRXRSQXlXQTVha0Jtd3o3WmNqeURFQllmYmtTR2pwdWoyaTRWMWl3QUgxd3NRT0Z2UzAyZDJoRmRuc2R4RFpVRW9VamVB?oc=5",
+          "source": "Google News",
+          "published": "Tue, 08 Sep 2026 00:15:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "성공",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보]경찰, ‘봉쇄 시위’ 올공 핸드볼경기장 진입 성공 - khan.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WMk4zSDVna1ltdjhDbDU5c2hxcUIzNjQ5UG1qamV6N1p0UUdGX0YtRE9SLW9tSFdQWC1RV3I3cUZIa2N2UzVzNXVKQ19ZYVR6Q0lWaWtSb0s3QdIBX0FVX3lxTFBvZTFIZWlzTmhmd3N6TEprbnZJRXRSQXlXQTVha0Jtd3o3WmNqeURFQllmYmtTR2pwdWoyaTRWMWl3QUgxd3NRT0Z2UzAyZDJoRmRuc2R4RFpVRW9VamVB?oc=5",
+          "source": "Google News",
+          "published": "Tue, 08 Sep 2026 00:15:00 GMT"
         }
       ]
     },
@@ -142,7 +319,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "[스팟+터뷰] 이기헌 민주당 의원 “파병은 헌법과 국익에 맞지 않아…트럼프에 멈추라고 이야기할 때가 됐다” - 경향신문",
+          "title": "[스팟+터뷰] 이기헌 민주당 의원 “파병은 헌법과 국익에 맞지 않아…트럼프에 멈추라고 이야기할 때가 됐다” - khan.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uMGJlYjNYWlFpT1FWVFlpWC0yTmhpbHR0bGkyaE1rSTRDZlpRZHJPWDB0VWVVNlY0bjFWUUw3eEpPcFlSMkR1d2hrQmJ2X2xxblM3VEpvMUdEd9IBX0FVX3lxTE5QWHp1TXdjWmczSXkyN3pFR0djUlh3RGIyX1FINDRBOFhMTXNmZlFNelJSV0ZJYnBPWWFwd1E2R0M0c1NVQ0g0NTVPSVliaFVfYlFNdFFPaHh5WWl5c3BN?oc=5",
           "source": "Google News",
           "published": "Mon, 07 Sep 2026 21:00:00 GMT"
@@ -155,7 +332,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "[스팟+터뷰] 이기헌 민주당 의원 “파병은 헌법과 국익에 맞지 않아…트럼프에 멈추라고 이야기할 때가 됐다” - 경향신문",
+          "title": "[스팟+터뷰] 이기헌 민주당 의원 “파병은 헌법과 국익에 맞지 않아…트럼프에 멈추라고 이야기할 때가 됐다” - khan.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uMGJlYjNYWlFpT1FWVFlpWC0yTmhpbHR0bGkyaE1rSTRDZlpRZHJPWDB0VWVVNlY0bjFWUUw3eEpPcFlSMkR1d2hrQmJ2X2xxblM3VEpvMUdEd9IBX0FVX3lxTE5QWHp1TXdjWmczSXkyN3pFR0djUlh3RGIyX1FINDRBOFhMTXNmZlFNelJSV0ZJYnBPWWFwd1E2R0M0c1NVQ0g0NTVPSVliaFVfYlFNdFFPaHh5WWl5c3BN?oc=5",
           "source": "Google News",
           "published": "Mon, 07 Sep 2026 21:00:00 GMT"
@@ -168,7 +345,7 @@
       "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "[스팟+터뷰] 이기헌 민주당 의원 “파병은 헌법과 국익에 맞지 않아…트럼프에 멈추라고 이야기할 때가 됐다” - 경향신문",
+          "title": "[스팟+터뷰] 이기헌 민주당 의원 “파병은 헌법과 국익에 맞지 않아…트럼프에 멈추라고 이야기할 때가 됐다” - khan.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uMGJlYjNYWlFpT1FWVFlpWC0yTmhpbHR0bGkyaE1rSTRDZlpRZHJPWDB0VWVVNlY0bjFWUUw3eEpPcFlSMkR1d2hrQmJ2X2xxblM3VEpvMUdEd9IBX0FVX3lxTE5QWHp1TXdjWmczSXkyN3pFR0djUlh3RGIyX1FINDRBOFhMTXNmZlFNelJSV0ZJYnBPWWFwd1E2R0M0c1NVQ0g0NTVPSVliaFVfYlFNdFFPaHh5WWl5c3BN?oc=5",
           "source": "Google News",
           "published": "Mon, 07 Sep 2026 21:00:00 GMT"
@@ -181,7 +358,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "[스팟+터뷰] 이기헌 민주당 의원 “파병은 헌법과 국익에 맞지 않아…트럼프에 멈추라고 이야기할 때가 됐다” - 경향신문",
+          "title": "[스팟+터뷰] 이기헌 민주당 의원 “파병은 헌법과 국익에 맞지 않아…트럼프에 멈추라고 이야기할 때가 됐다” - khan.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uMGJlYjNYWlFpT1FWVFlpWC0yTmhpbHR0bGkyaE1rSTRDZlpRZHJPWDB0VWVVNlY0bjFWUUw3eEpPcFlSMkR1d2hrQmJ2X2xxblM3VEpvMUdEd9IBX0FVX3lxTE5QWHp1TXdjWmczSXkyN3pFR0djUlh3RGIyX1FINDRBOFhMTXNmZlFNelJSV0ZJYnBPWWFwd1E2R0M0c1NVQ0g0NTVPSVliaFVfYlFNdFFPaHh5WWl5c3BN?oc=5",
           "source": "Google News",
           "published": "Mon, 07 Sep 2026 21:00:00 GMT"
@@ -194,7 +371,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "[스팟+터뷰] 이기헌 민주당 의원 “파병은 헌법과 국익에 맞지 않아…트럼프에 멈추라고 이야기할 때가 됐다” - 경향신문",
+          "title": "[스팟+터뷰] 이기헌 민주당 의원 “파병은 헌법과 국익에 맞지 않아…트럼프에 멈추라고 이야기할 때가 됐다” - khan.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uMGJlYjNYWlFpT1FWVFlpWC0yTmhpbHR0bGkyaE1rSTRDZlpRZHJPWDB0VWVVNlY0bjFWUUw3eEpPcFlSMkR1d2hrQmJ2X2xxblM3VEpvMUdEd9IBX0FVX3lxTE5QWHp1TXdjWmczSXkyN3pFR0djUlh3RGIyX1FINDRBOFhMTXNmZlFNelJSV0ZJYnBPWWFwd1E2R0M0c1NVQ0g0NTVPSVliaFVfYlFNdFFPaHh5WWl5c3BN?oc=5",
           "source": "Google News",
           "published": "Mon, 07 Sep 2026 21:00:00 GMT"
@@ -207,7 +384,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "[스팟+터뷰] 이기헌 민주당 의원 “파병은 헌법과 국익에 맞지 않아…트럼프에 멈추라고 이야기할 때가 됐다” - 경향신문",
+          "title": "[스팟+터뷰] 이기헌 민주당 의원 “파병은 헌법과 국익에 맞지 않아…트럼프에 멈추라고 이야기할 때가 됐다” - khan.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uMGJlYjNYWlFpT1FWVFlpWC0yTmhpbHR0bGkyaE1rSTRDZlpRZHJPWDB0VWVVNlY0bjFWUUw3eEpPcFlSMkR1d2hrQmJ2X2xxblM3VEpvMUdEd9IBX0FVX3lxTE5QWHp1TXdjWmczSXkyN3pFR0djUlh3RGIyX1FINDRBOFhMTXNmZlFNelJSV0ZJYnBPWWFwd1E2R0M0c1NVQ0g0NTVPSVliaFVfYlFNdFFPaHh5WWl5c3BN?oc=5",
           "source": "Google News",
           "published": "Mon, 07 Sep 2026 21:00:00 GMT"
@@ -220,7 +397,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "[스팟+터뷰] 이기헌 민주당 의원 “파병은 헌법과 국익에 맞지 않아…트럼프에 멈추라고 이야기할 때가 됐다” - 경향신문",
+          "title": "[스팟+터뷰] 이기헌 민주당 의원 “파병은 헌법과 국익에 맞지 않아…트럼프에 멈추라고 이야기할 때가 됐다” - khan.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uMGJlYjNYWlFpT1FWVFlpWC0yTmhpbHR0bGkyaE1rSTRDZlpRZHJPWDB0VWVVNlY0bjFWUUw3eEpPcFlSMkR1d2hrQmJ2X2xxblM3VEpvMUdEd9IBX0FVX3lxTE5QWHp1TXdjWmczSXkyN3pFR0djUlh3RGIyX1FINDRBOFhMTXNmZlFNelJSV0ZJYnBPWWFwd1E2R0M0c1NVQ0g0NTVPSVliaFVfYlFNdFFPaHh5WWl5c3BN?oc=5",
           "source": "Google News",
           "published": "Mon, 07 Sep 2026 21:00:00 GMT"
@@ -233,7 +410,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "[스팟+터뷰] 이기헌 민주당 의원 “파병은 헌법과 국익에 맞지 않아…트럼프에 멈추라고 이야기할 때가 됐다” - 경향신문",
+          "title": "[스팟+터뷰] 이기헌 민주당 의원 “파병은 헌법과 국익에 맞지 않아…트럼프에 멈추라고 이야기할 때가 됐다” - khan.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uMGJlYjNYWlFpT1FWVFlpWC0yTmhpbHR0bGkyaE1rSTRDZlpRZHJPWDB0VWVVNlY0bjFWUUw3eEpPcFlSMkR1d2hrQmJ2X2xxblM3VEpvMUdEd9IBX0FVX3lxTE5QWHp1TXdjWmczSXkyN3pFR0djUlh3RGIyX1FINDRBOFhMTXNmZlFNelJSV0ZJYnBPWWFwd1E2R0M0c1NVQ0g0NTVPSVliaFVfYlFNdFFPaHh5WWl5c3BN?oc=5",
           "source": "Google News",
           "published": "Mon, 07 Sep 2026 21:00:00 GMT"
@@ -246,7 +423,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "[스팟+터뷰] 이기헌 민주당 의원 “파병은 헌법과 국익에 맞지 않아…트럼프에 멈추라고 이야기할 때가 됐다” - 경향신문",
+          "title": "[스팟+터뷰] 이기헌 민주당 의원 “파병은 헌법과 국익에 맞지 않아…트럼프에 멈추라고 이야기할 때가 됐다” - khan.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uMGJlYjNYWlFpT1FWVFlpWC0yTmhpbHR0bGkyaE1rSTRDZlpRZHJPWDB0VWVVNlY0bjFWUUw3eEpPcFlSMkR1d2hrQmJ2X2xxblM3VEpvMUdEd9IBX0FVX3lxTE5QWHp1TXdjWmczSXkyN3pFR0djUlh3RGIyX1FINDRBOFhMTXNmZlFNelJSV0ZJYnBPWWFwd1E2R0M0c1NVQ0g0NTVPSVliaFVfYlFNdFFPaHh5WWl5c3BN?oc=5",
           "source": "Google News",
           "published": "Mon, 07 Sep 2026 21:00:00 GMT"
@@ -259,7 +436,20 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "[스팟+터뷰] 이기헌 민주당 의원 “파병은 헌법과 국익에 맞지 않아…트럼프에 멈추라고 이야기할 때가 됐다” - 경향신문",
+          "title": "[스팟+터뷰] 이기헌 민주당 의원 “파병은 헌법과 국익에 맞지 않아…트럼프에 멈추라고 이야기할 때가 됐다” - khan.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uMGJlYjNYWlFpT1FWVFlpWC0yTmhpbHR0bGkyaE1rSTRDZlpRZHJPWDB0VWVVNlY0bjFWUUw3eEpPcFlSMkR1d2hrQmJ2X2xxblM3VEpvMUdEd9IBX0FVX3lxTE5QWHp1TXdjWmczSXkyN3pFR0djUlh3RGIyX1FINDRBOFhMTXNmZlFNelJSV0ZJYnBPWWFwd1E2R0M0c1NVQ0g0NTVPSVliaFVfYlFNdFFPaHh5WWl5c3BN?oc=5",
+          "source": "Google News",
+          "published": "Mon, 07 Sep 2026 21:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "이야기",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[스팟+터뷰] 이기헌 민주당 의원 “파병은 헌법과 국익에 맞지 않아…트럼프에 멈추라고 이야기할 때가 됐다” - khan.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uMGJlYjNYWlFpT1FWVFlpWC0yTmhpbHR0bGkyaE1rSTRDZlpRZHJPWDB0VWVVNlY0bjFWUUw3eEpPcFlSMkR1d2hrQmJ2X2xxblM3VEpvMUdEd9IBX0FVX3lxTE5QWHp1TXdjWmczSXkyN3pFR0djUlh3RGIyX1FINDRBOFhMTXNmZlFNelJSV0ZJYnBPWWFwd1E2R0M0c1NVQ0g0NTVPSVliaFVfYlFNdFFPaHh5WWl5c3BN?oc=5",
           "source": "Google News",
           "published": "Mon, 07 Sep 2026 21:00:00 GMT"
@@ -272,7 +462,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "[스팟+터뷰] 이기헌 민주당 의원 “파병은 헌법과 국익에 맞지 않아…트럼프에 멈추라고 이야기할 때가 됐다” - 경향신문",
+          "title": "[스팟+터뷰] 이기헌 민주당 의원 “파병은 헌법과 국익에 맞지 않아…트럼프에 멈추라고 이야기할 때가 됐다” - khan.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uMGJlYjNYWlFpT1FWVFlpWC0yTmhpbHR0bGkyaE1rSTRDZlpRZHJPWDB0VWVVNlY0bjFWUUw3eEpPcFlSMkR1d2hrQmJ2X2xxblM3VEpvMUdEd9IBX0FVX3lxTE5QWHp1TXdjWmczSXkyN3pFR0djUlh3RGIyX1FINDRBOFhMTXNmZlFNelJSV0ZJYnBPWWFwd1E2R0M0c1NVQ0g0NTVPSVliaFVfYlFNdFFPaHh5WWl5c3BN?oc=5",
           "source": "Google News",
           "published": "Mon, 07 Sep 2026 21:00:00 GMT"
@@ -285,7 +475,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "[스팟+터뷰] 이기헌 민주당 의원 “파병은 헌법과 국익에 맞지 않아…트럼프에 멈추라고 이야기할 때가 됐다” - 경향신문",
+          "title": "[스팟+터뷰] 이기헌 민주당 의원 “파병은 헌법과 국익에 맞지 않아…트럼프에 멈추라고 이야기할 때가 됐다” - khan.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uMGJlYjNYWlFpT1FWVFlpWC0yTmhpbHR0bGkyaE1rSTRDZlpRZHJPWDB0VWVVNlY0bjFWUUw3eEpPcFlSMkR1d2hrQmJ2X2xxblM3VEpvMUdEd9IBX0FVX3lxTE5QWHp1TXdjWmczSXkyN3pFR0djUlh3RGIyX1FINDRBOFhMTXNmZlFNelJSV0ZJYnBPWWFwd1E2R0M0c1NVQ0g0NTVPSVliaFVfYlFNdFFPaHh5WWl5c3BN?oc=5",
           "source": "Google News",
           "published": "Mon, 07 Sep 2026 21:00:00 GMT"
@@ -293,275 +483,67 @@
       ]
     },
     {
-      "word": "초대",
+      "word": "정점식",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령, 초대 중수청장에 김지용 변호사 지명 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oUEMwT3ZvNFNrcWdfVDhCWkdUY2IwVllhUEZsT1F2amp0VEt5UGhQTGx5MnE5NExHNmFHaDlSdXdJREVXZnNEZjVSV1FPQmRsc2JrbG8tc29YMTBrUlpva3N5cGNhZmZIOHk0?oc=5",
+          "title": "정점식 ‘이재명 정부서 개헌은 없다’…김민석 추진에 반대 쐐기 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QRWlBNkFmV1dSWTAyNWotc0MxSTg5ZE5LX0I4M1RiM21SZUpHVDFXeC1zaHFPUzJwNG40cjg0OFhHVlpmRzJfb0FDRWVjSUFrQVpSQ1hpQ1RQb3pWUDRCUzUzcFdZV25KV0hjTzdRb3ZUTGdF?oc=5",
           "source": "Google News",
-          "published": "Mon, 07 Sep 2026 20:29:00 GMT"
+          "published": "Tue, 08 Sep 2026 02:40:00 GMT"
         }
       ]
     },
     {
-      "word": "중수청장",
+      "word": "이재명",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령, 초대 중수청장에 김지용 변호사 지명 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oUEMwT3ZvNFNrcWdfVDhCWkdUY2IwVllhUEZsT1F2amp0VEt5UGhQTGx5MnE5NExHNmFHaDlSdXdJREVXZnNEZjVSV1FPQmRsc2JrbG8tc29YMTBrUlpva3N5cGNhZmZIOHk0?oc=5",
+          "title": "정점식 ‘이재명 정부서 개헌은 없다’…김민석 추진에 반대 쐐기 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QRWlBNkFmV1dSWTAyNWotc0MxSTg5ZE5LX0I4M1RiM21SZUpHVDFXeC1zaHFPUzJwNG40cjg0OFhHVlpmRzJfb0FDRWVjSUFrQVpSQ1hpQ1RQb3pWUDRCUzUzcFdZV25KV0hjTzdRb3ZUTGdF?oc=5",
           "source": "Google News",
-          "published": "Mon, 07 Sep 2026 20:29:00 GMT"
+          "published": "Tue, 08 Sep 2026 02:40:00 GMT"
         }
       ]
     },
     {
-      "word": "김지용",
+      "word": "정부서",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령, 초대 중수청장에 김지용 변호사 지명 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oUEMwT3ZvNFNrcWdfVDhCWkdUY2IwVllhUEZsT1F2amp0VEt5UGhQTGx5MnE5NExHNmFHaDlSdXdJREVXZnNEZjVSV1FPQmRsc2JrbG8tc29YMTBrUlpva3N5cGNhZmZIOHk0?oc=5",
+          "title": "정점식 ‘이재명 정부서 개헌은 없다’…김민석 추진에 반대 쐐기 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QRWlBNkFmV1dSWTAyNWotc0MxSTg5ZE5LX0I4M1RiM21SZUpHVDFXeC1zaHFPUzJwNG40cjg0OFhHVlpmRzJfb0FDRWVjSUFrQVpSQ1hpQ1RQb3pWUDRCUzUzcFdZV25KV0hjTzdRb3ZUTGdF?oc=5",
           "source": "Google News",
-          "published": "Mon, 07 Sep 2026 20:29:00 GMT"
+          "published": "Tue, 08 Sep 2026 02:40:00 GMT"
         }
       ]
     },
     {
-      "word": "변호사",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "이 대통령, 초대 중수청장에 김지용 변호사 지명 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oUEMwT3ZvNFNrcWdfVDhCWkdUY2IwVllhUEZsT1F2amp0VEt5UGhQTGx5MnE5NExHNmFHaDlSdXdJREVXZnNEZjVSV1FPQmRsc2JrbG8tc29YMTBrUlpva3N5cGNhZmZIOHk0?oc=5",
-          "source": "Google News",
-          "published": "Mon, 07 Sep 2026 20:29:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "지명",
+      "word": "개헌",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령, 초대 중수청장에 김지용 변호사 지명 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oUEMwT3ZvNFNrcWdfVDhCWkdUY2IwVllhUEZsT1F2amp0VEt5UGhQTGx5MnE5NExHNmFHaDlSdXdJREVXZnNEZjVSV1FPQmRsc2JrbG8tc29YMTBrUlpva3N5cGNhZmZIOHk0?oc=5",
+          "title": "정점식 ‘이재명 정부서 개헌은 없다’…김민석 추진에 반대 쐐기 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QRWlBNkFmV1dSWTAyNWotc0MxSTg5ZE5LX0I4M1RiM21SZUpHVDFXeC1zaHFPUzJwNG40cjg0OFhHVlpmRzJfb0FDRWVjSUFrQVpSQ1hpQ1RQb3pWUDRCUzUzcFdZV25KV0hjTzdRb3ZUTGdF?oc=5",
           "source": "Google News",
-          "published": "Mon, 07 Sep 2026 20:29:00 GMT"
+          "published": "Tue, 08 Sep 2026 02:40:00 GMT"
         }
       ]
     },
     {
-      "word": "김승원",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "[단독] 김승원 검찰 최종 결론 보니 “봐주기 부담…무죄 가능성” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BS1hyYnV2dnNJcGJTQTUyZWh6LU9ZRThVd21MUW5KWE1PSVdzbFhLWnhER1NTNks4NDNxSkQ5R19NRmU5UjM3bG52NFMyS01kTFdZZlpVOTVUQUU?oc=5",
-          "source": "Google News",
-          "published": "Mon, 07 Sep 2026 12:08:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "검찰",
+      "word": "없다김민석",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[단독] 김승원 검찰 최종 결론 보니 “봐주기 부담…무죄 가능성” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BS1hyYnV2dnNJcGJTQTUyZWh6LU9ZRThVd21MUW5KWE1PSVdzbFhLWnhER1NTNks4NDNxSkQ5R19NRmU5UjM3bG52NFMyS01kTFdZZlpVOTVUQUU?oc=5",
+          "title": "정점식 ‘이재명 정부서 개헌은 없다’…김민석 추진에 반대 쐐기 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QRWlBNkFmV1dSWTAyNWotc0MxSTg5ZE5LX0I4M1RiM21SZUpHVDFXeC1zaHFPUzJwNG40cjg0OFhHVlpmRzJfb0FDRWVjSUFrQVpSQ1hpQ1RQb3pWUDRCUzUzcFdZV25KV0hjTzdRb3ZUTGdF?oc=5",
           "source": "Google News",
-          "published": "Mon, 07 Sep 2026 12:08:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "최종",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[단독] 김승원 검찰 최종 결론 보니 “봐주기 부담…무죄 가능성” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BS1hyYnV2dnNJcGJTQTUyZWh6LU9ZRThVd21MUW5KWE1PSVdzbFhLWnhER1NTNks4NDNxSkQ5R19NRmU5UjM3bG52NFMyS01kTFdZZlpVOTVUQUU?oc=5",
-          "source": "Google News",
-          "published": "Mon, 07 Sep 2026 12:08:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "결론",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[단독] 김승원 검찰 최종 결론 보니 “봐주기 부담…무죄 가능성” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BS1hyYnV2dnNJcGJTQTUyZWh6LU9ZRThVd21MUW5KWE1PSVdzbFhLWnhER1NTNks4NDNxSkQ5R19NRmU5UjM3bG52NFMyS01kTFdZZlpVOTVUQUU?oc=5",
-          "source": "Google News",
-          "published": "Mon, 07 Sep 2026 12:08:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "보니",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[단독] 김승원 검찰 최종 결론 보니 “봐주기 부담…무죄 가능성” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BS1hyYnV2dnNJcGJTQTUyZWh6LU9ZRThVd21MUW5KWE1PSVdzbFhLWnhER1NTNks4NDNxSkQ5R19NRmU5UjM3bG52NFMyS01kTFdZZlpVOTVUQUU?oc=5",
-          "source": "Google News",
-          "published": "Mon, 07 Sep 2026 12:08:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "봐주기",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[단독] 김승원 검찰 최종 결론 보니 “봐주기 부담…무죄 가능성” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BS1hyYnV2dnNJcGJTQTUyZWh6LU9ZRThVd21MUW5KWE1PSVdzbFhLWnhER1NTNks4NDNxSkQ5R19NRmU5UjM3bG52NFMyS01kTFdZZlpVOTVUQUU?oc=5",
-          "source": "Google News",
-          "published": "Mon, 07 Sep 2026 12:08:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "부담무죄",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[단독] 김승원 검찰 최종 결론 보니 “봐주기 부담…무죄 가능성” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BS1hyYnV2dnNJcGJTQTUyZWh6LU9ZRThVd21MUW5KWE1PSVdzbFhLWnhER1NTNks4NDNxSkQ5R19NRmU5UjM3bG52NFMyS01kTFdZZlpVOTVUQUU?oc=5",
-          "source": "Google News",
-          "published": "Mon, 07 Sep 2026 12:08:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "네팔",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "네팔 입장 바꿔 \"한국인 9명 실종 지역 도보수색 협조\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5X3JkNFVfLU14alRPWHVHU1Rsb3NWV3UtQWNwV1E1a3JfbWlCOGVIYlNLZ1RRMHNuS0l6RmNaN2g1V3FmMHlOQmNxWld1b0ViX2N1cnhkZXkwSkliSmdjY2d5SlJjZHFYU1VLamNqa09pNHZq0gF0QVVfeXFMUExEY1JXWi01Q2FwLWJPSjVROGNOWXFoNndrQ0JWNTdEWlQyWUR3WW1rSDRNZTNobWhGNHRRXzNONktiTTYwa0lUQjFJUkYybWh2V3Y3SWU1eTBmX0FFWmIzVi1SeDB2S3RGTHkwUTZMVXJ3YmI?oc=5",
-          "source": "Google News",
-          "published": "Mon, 07 Sep 2026 19:24:51 GMT"
-        }
-      ]
-    },
-    {
-      "word": "입장",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "네팔 입장 바꿔 \"한국인 9명 실종 지역 도보수색 협조\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5X3JkNFVfLU14alRPWHVHU1Rsb3NWV3UtQWNwV1E1a3JfbWlCOGVIYlNLZ1RRMHNuS0l6RmNaN2g1V3FmMHlOQmNxWld1b0ViX2N1cnhkZXkwSkliSmdjY2d5SlJjZHFYU1VLamNqa09pNHZq0gF0QVVfeXFMUExEY1JXWi01Q2FwLWJPSjVROGNOWXFoNndrQ0JWNTdEWlQyWUR3WW1rSDRNZTNobWhGNHRRXzNONktiTTYwa0lUQjFJUkYybWh2V3Y3SWU1eTBmX0FFWmIzVi1SeDB2S3RGTHkwUTZMVXJ3YmI?oc=5",
-          "source": "Google News",
-          "published": "Mon, 07 Sep 2026 19:24:51 GMT"
-        }
-      ]
-    },
-    {
-      "word": "바꿔",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "네팔 입장 바꿔 \"한국인 9명 실종 지역 도보수색 협조\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5X3JkNFVfLU14alRPWHVHU1Rsb3NWV3UtQWNwV1E1a3JfbWlCOGVIYlNLZ1RRMHNuS0l6RmNaN2g1V3FmMHlOQmNxWld1b0ViX2N1cnhkZXkwSkliSmdjY2d5SlJjZHFYU1VLamNqa09pNHZq0gF0QVVfeXFMUExEY1JXWi01Q2FwLWJPSjVROGNOWXFoNndrQ0JWNTdEWlQyWUR3WW1rSDRNZTNobWhGNHRRXzNONktiTTYwa0lUQjFJUkYybWh2V3Y3SWU1eTBmX0FFWmIzVi1SeDB2S3RGTHkwUTZMVXJ3YmI?oc=5",
-          "source": "Google News",
-          "published": "Mon, 07 Sep 2026 19:24:51 GMT"
-        }
-      ]
-    },
-    {
-      "word": "한국인",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "네팔 입장 바꿔 \"한국인 9명 실종 지역 도보수색 협조\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5X3JkNFVfLU14alRPWHVHU1Rsb3NWV3UtQWNwV1E1a3JfbWlCOGVIYlNLZ1RRMHNuS0l6RmNaN2g1V3FmMHlOQmNxWld1b0ViX2N1cnhkZXkwSkliSmdjY2d5SlJjZHFYU1VLamNqa09pNHZq0gF0QVVfeXFMUExEY1JXWi01Q2FwLWJPSjVROGNOWXFoNndrQ0JWNTdEWlQyWUR3WW1rSDRNZTNobWhGNHRRXzNONktiTTYwa0lUQjFJUkYybWh2V3Y3SWU1eTBmX0FFWmIzVi1SeDB2S3RGTHkwUTZMVXJ3YmI?oc=5",
-          "source": "Google News",
-          "published": "Mon, 07 Sep 2026 19:24:51 GMT"
-        }
-      ]
-    },
-    {
-      "word": "9명",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "네팔 입장 바꿔 \"한국인 9명 실종 지역 도보수색 협조\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5X3JkNFVfLU14alRPWHVHU1Rsb3NWV3UtQWNwV1E1a3JfbWlCOGVIYlNLZ1RRMHNuS0l6RmNaN2g1V3FmMHlOQmNxWld1b0ViX2N1cnhkZXkwSkliSmdjY2d5SlJjZHFYU1VLamNqa09pNHZq0gF0QVVfeXFMUExEY1JXWi01Q2FwLWJPSjVROGNOWXFoNndrQ0JWNTdEWlQyWUR3WW1rSDRNZTNobWhGNHRRXzNONktiTTYwa0lUQjFJUkYybWh2V3Y3SWU1eTBmX0FFWmIzVi1SeDB2S3RGTHkwUTZMVXJ3YmI?oc=5",
-          "source": "Google News",
-          "published": "Mon, 07 Sep 2026 19:24:51 GMT"
-        }
-      ]
-    },
-    {
-      "word": "실종",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "네팔 입장 바꿔 \"한국인 9명 실종 지역 도보수색 협조\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5X3JkNFVfLU14alRPWHVHU1Rsb3NWV3UtQWNwV1E1a3JfbWlCOGVIYlNLZ1RRMHNuS0l6RmNaN2g1V3FmMHlOQmNxWld1b0ViX2N1cnhkZXkwSkliSmdjY2d5SlJjZHFYU1VLamNqa09pNHZq0gF0QVVfeXFMUExEY1JXWi01Q2FwLWJPSjVROGNOWXFoNndrQ0JWNTdEWlQyWUR3WW1rSDRNZTNobWhGNHRRXzNONktiTTYwa0lUQjFJUkYybWh2V3Y3SWU1eTBmX0FFWmIzVi1SeDB2S3RGTHkwUTZMVXJ3YmI?oc=5",
-          "source": "Google News",
-          "published": "Mon, 07 Sep 2026 19:24:51 GMT"
-        }
-      ]
-    },
-    {
-      "word": "지역",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "네팔 입장 바꿔 \"한국인 9명 실종 지역 도보수색 협조\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5X3JkNFVfLU14alRPWHVHU1Rsb3NWV3UtQWNwV1E1a3JfbWlCOGVIYlNLZ1RRMHNuS0l6RmNaN2g1V3FmMHlOQmNxWld1b0ViX2N1cnhkZXkwSkliSmdjY2d5SlJjZHFYU1VLamNqa09pNHZq0gF0QVVfeXFMUExEY1JXWi01Q2FwLWJPSjVROGNOWXFoNndrQ0JWNTdEWlQyWUR3WW1rSDRNZTNobWhGNHRRXzNONktiTTYwa0lUQjFJUkYybWh2V3Y3SWU1eTBmX0FFWmIzVi1SeDB2S3RGTHkwUTZMVXJ3YmI?oc=5",
-          "source": "Google News",
-          "published": "Mon, 07 Sep 2026 19:24:51 GMT"
-        }
-      ]
-    },
-    {
-      "word": "도보수색",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "네팔 입장 바꿔 \"한국인 9명 실종 지역 도보수색 협조\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5X3JkNFVfLU14alRPWHVHU1Rsb3NWV3UtQWNwV1E1a3JfbWlCOGVIYlNLZ1RRMHNuS0l6RmNaN2g1V3FmMHlOQmNxWld1b0ViX2N1cnhkZXkwSkliSmdjY2d5SlJjZHFYU1VLamNqa09pNHZq0gF0QVVfeXFMUExEY1JXWi01Q2FwLWJPSjVROGNOWXFoNndrQ0JWNTdEWlQyWUR3WW1rSDRNZTNobWhGNHRRXzNONktiTTYwa0lUQjFJUkYybWh2V3Y3SWU1eTBmX0FFWmIzVi1SeDB2S3RGTHkwUTZMVXJ3YmI?oc=5",
-          "source": "Google News",
-          "published": "Mon, 07 Sep 2026 19:24:51 GMT"
-        }
-      ]
-    },
-    {
-      "word": "협조",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "네팔 입장 바꿔 \"한국인 9명 실종 지역 도보수색 협조\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5X3JkNFVfLU14alRPWHVHU1Rsb3NWV3UtQWNwV1E1a3JfbWlCOGVIYlNLZ1RRMHNuS0l6RmNaN2g1V3FmMHlOQmNxWld1b0ViX2N1cnhkZXkwSkliSmdjY2d5SlJjZHFYU1VLamNqa09pNHZq0gF0QVVfeXFMUExEY1JXWi01Q2FwLWJPSjVROGNOWXFoNndrQ0JWNTdEWlQyWUR3WW1rSDRNZTNobWhGNHRRXzNONktiTTYwa0lUQjFJUkYybWh2V3Y3SWU1eTBmX0FFWmIzVi1SeDB2S3RGTHkwUTZMVXJ3YmI?oc=5",
-          "source": "Google News",
-          "published": "Mon, 07 Sep 2026 19:24:51 GMT"
+          "published": "Tue, 08 Sep 2026 02:40:00 GMT"
         }
       ]
     }
