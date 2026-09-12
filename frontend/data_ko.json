@@ -1,61 +1,104 @@
 {
   "language": "ko",
-  "last_updated": 1789209076.9438574,
+  "last_updated": 1789221480.1333418,
   "count": 40,
   "trends": [
     {
-      "word": "여론",
+      "word": "대통령",
+      "count": 4,
+      "category": "PERSON",
+      "articles": [
+        {
+          "title": "추미애, 이 대통령 향해 \"왜 내란세력에 전전긍긍하나\" 작심 비판 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MTVpPTjM1NUNPYmRTMXJxYlZyMFBnMU9URmlNSVQ1dS1abC1mUnEzUzFILUxDWnAxOTdfMmNrZU1xZ2ZLUWg1MUxlUm5fZXhWS0c3QzRHM2ZBZHR0MUJ1WFM3X0VGY1V6ZElLS0JwZy1oZ2ZuTVZuZA?oc=5",
+          "source": "Google News",
+          "published": "Sat, 12 Sep 2026 10:29:31 GMT"
+        },
+        {
+          "title": "이 대통령 “개혁 한순간도 포기한 적 없어···과격한 선동 경계해야” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lXzh2bzdsRE1SYXM0cTZpT1l1MDBmQVUxa2cyMjhUbXBSYmZSM3RrS3JfUWFKcVhLY1g2ZnJnOGJkRl95MHVSNVk5Q3QtbWJvODBWRTduRHJXZ9IBX0FVX3lxTE1WMkNfTzdGNzEyQjM0UHgxdHVHX1UydHA5UGtjT1A0ZVlrTy1OM0ZuMnB6YWczbFc3emFKRnFFNlNfaXhhUG5lQkdTNkUzN194Tk1FWXFUeEtrSWd6d2ZF?oc=5",
+          "source": "Google News",
+          "published": "Sat, 12 Sep 2026 10:44:00 GMT"
+        },
+        {
+          "title": "이 대통령, 북극항로 선박 영국 도착에 \"역사적 첫길\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TZFZLdVBYVmVvSjZBOC01SEFDYnVtTDZhVm5vVmQwV0hKOFRmU0hISWhjQzJCM1NvQ09CMGswNGhfQS1TZ1NrUndDWmJLWmJCWVpMX1hUbWtFdkF1NExqXzdseGo3Smpsd0hxX25oVV9TRl9oSnpWVdIBeEFVX3lxTE9DcEtyZy1JeFI1WlJKY3N0VWJPSTRqMGR4T2tGb2VyX1F4aV9GREZXWGsyWk9Ta1lNaDVJdHc5MEVaalBtMERnRHl0TWQ2cUswaDdKckNJVy1UU3lyekVwc1loTU9wRVdWczZTbUw4QllPQnFoWU5URQ?oc=5",
+          "source": "Google News",
+          "published": "Sat, 12 Sep 2026 09:17:56 GMT"
+        },
+        {
+          "title": "이 대통령 “국제유가 폭등에도 국내 휘발유·경유 가격 안정···걱정 안 해도 돼” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hWFNZUUFmR2hGSGN3U29YRnJKZVBjTjNDMXB3UDBRSk9fZDIxQ1U4UjdHUWt5bF9FX0U0aHowMThhT3F6WmlwYkphTDMycjVYUnRPNXV4WG9pd9IBX0FVX3lxTE1hYTlDMWpzbXRJNUlaX2ZWQW95Z1ZaX0FPd05lVUo0ZTdKZEsxaUFIREIwREdwdWtnUUtDTDU0SG9seHZ1a0pwNlE1RVh0anVFNjY0aDVqZVBodUVFVHdR?oc=5",
+          "source": "Google News",
+          "published": "Sat, 12 Sep 2026 07:38:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "전쟁",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "“호르무즈 가는 순간 한국은 전쟁 당사국”…전국 곳곳서 ‘파병 반대’ 집회 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tNzNYa01ndU0xQTFuUWxDaVktS2FGWEVvcWpUR1JVVFl1cEhCNWcxbjFZTExlX0dKOUgwcjhqRWRFTFRUdnJxNlJRQ2R1YkVUSHFUN0NhLTdoUdIBX0FVX3lxTE14TjR5Zy03VnJxX0llRnhuUEhON1E4NWd6MnVrc1R6Rlc0OF9lYWExblFCbVJjeXFhcjQxUG1NTFBrYlc0WkpIUjBkRk9JWmhDUkRYQ0JXZ0RhcHNULTlJ?oc=5",
+          "source": "Google News",
+          "published": "Sat, 12 Sep 2026 10:37:00 GMT"
+        },
+        {
+          "title": "이란 전쟁, 예멘 후티 반군의 빠른 진격으로 위험한 새 국면 맞나 - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zM2ZLelNwV2xNcGxfNWJHaGJ5TTZfdEVfQ0dMSmN1ektreFcyM1Y5WkVfdnpjUVdyX3VndnpIUXF0LVNfZ0RkYVQtQ1FjbkNnaUdJVE5CYjVxNDBs0gFiQVVfeXFMTTlhcTV2djlnR1ZXTDc1VGNDdDIzRE5mWXBhQ3E0N1R3MkxvTlc5cTJrYzFITGlxaWZ5R25uem5JWmJEdmN6TUZFMENtZVVGVGh6cFIwUENfQ2o3a1lBQldvZVE?oc=5",
+          "source": "Google News",
+          "published": "Sat, 12 Sep 2026 09:36:08 GMT"
+        },
+        {
+          "title": "\"유가 급락할 것\"…트럼프, 이란 전쟁 종식 자신한 이유 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mejdhTXZHRWlWWkFJa0JZT2JFSzEzUzlmQXlyNVV3WkYxdmVKdDk4LXoyS0xWT0JfV0NERlU5M1R6TjhOd2ltY3A1RHZ3YUxKVnlFZ1FCdUVzQQ?oc=5",
+          "source": "Google News",
+          "published": "Sat, 12 Sep 2026 10:55:15 GMT"
+        }
+      ]
+    },
+    {
+      "word": "호르무즈",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "민주당 \"용혜인 논란, 청년 여론 들끓어\"‥내일 고위당정 논의 가능성 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95ai1rQXVWMVduUWJTTF9CSnNNSnZJWFNFYk5Qa1c0M3Ruc3lpckF0aXppTVNhNVN4UWRYbWRtcjRMS3lqY216Z2NyOVF0WDBVYTV0V2RrN0FVanBGcVhwY1h6OTZxZkxjZk1Xc1haQVQxRDlkbHNRMNIBeEFVX3lxTFBPa1pRWS1wWmR0QVBmekRZYng0OHhYdGo5QU5vSW5RZlpfcWUxZHgyWC14YmU4cWp1enpKZlZObV8wUXJFZUZqT0hDWlA0MzF2WFNnWnpxa3ZFamRsaGhFYTQ5OTdjejNSZnNKcmtSS1V0VEY4QXlhVg?oc=5",
+          "title": "“호르무즈 가는 순간 한국은 전쟁 당사국”…전국 곳곳서 ‘파병 반대’ 집회 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tNzNYa01ndU0xQTFuUWxDaVktS2FGWEVvcWpUR1JVVFl1cEhCNWcxbjFZTExlX0dKOUgwcjhqRWRFTFRUdnJxNlJRQ2R1YkVUSHFUN0NhLTdoUdIBX0FVX3lxTE14TjR5Zy03VnJxX0llRnhuUEhON1E4NWd6MnVrc1R6Rlc0OF9lYWExblFCbVJjeXFhcjQxUG1NTFBrYlc0WkpIUjBkRk9JWmhDUkRYQ0JXZ0RhcHNULTlJ?oc=5",
           "source": "Google News",
-          "published": "Sat, 12 Sep 2026 04:42:06 GMT"
+          "published": "Sat, 12 Sep 2026 10:37:00 GMT"
         },
         {
-          "title": "40%대 무너진 李 지지율…김승원·용혜인 부적합 여론 압도 [갤럽] - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91c2I1d3FMLVBBd1JfZEJRS0RLcXphWFZBUm1TY293UHp3YnByemY0QW9WbnlpNU43eXpJeHVSTGtoYi1vNGQxbDVrak53MnRjbUpVa3FFSTdUdw?oc=5",
+          "title": "미, 호르무즈 선박 호위 시간대 축소…장기전 대비하나 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EMzAxSHRUcWhaYnhaU1g4YVJwejVWbkRkdlZueTRHTi1wYXMtS2VaNEg3S25KakNSM2NXeGNKOVdGdUVtU2JhODhvci13dl90MVZScXhtaHZSNXJjMFY4aXcwSU94TVU?oc=5",
           "source": "Google News",
-          "published": "Fri, 11 Sep 2026 01:23:24 GMT"
+          "published": "Sat, 12 Sep 2026 06:56:00 GMT"
         }
       ]
     },
     {
-      "word": "김승원",
+      "word": "한국",
       "count": 2,
-      "category": "ORGANIZATION",
+      "category": "LOCATION",
       "articles": [
         {
-          "title": "김승원, 이대통령 ‘공소 취소’ 질문에 “검찰 중립성 지키도록 지휘·감독” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hSjY3NmU3ME1MYVpuazZFX3J3SGUtU2ZyMEFVTWZPd3lIeFR4TEVDSVNIaUg4Q0NLQTRUX2FVUnhmMU16WWRBdWl2UURmaTV5SGI2UEVVVEJHenJiNjN1NW1HM0dMQmxnN2pxTGN4UnJudw?oc=5",
+          "title": "“호르무즈 가는 순간 한국은 전쟁 당사국”…전국 곳곳서 ‘파병 반대’ 집회 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tNzNYa01ndU0xQTFuUWxDaVktS2FGWEVvcWpUR1JVVFl1cEhCNWcxbjFZTExlX0dKOUgwcjhqRWRFTFRUdnJxNlJRQ2R1YkVUSHFUN0NhLTdoUdIBX0FVX3lxTE14TjR5Zy03VnJxX0llRnhuUEhON1E4NWd6MnVrc1R6Rlc0OF9lYWExblFCbVJjeXFhcjQxUG1NTFBrYlc0WkpIUjBkRk9JWmhDUkRYQ0JXZ0RhcHNULTlJ?oc=5",
           "source": "Google News",
-          "published": "Sat, 12 Sep 2026 06:59:00 GMT"
+          "published": "Sat, 12 Sep 2026 10:37:00 GMT"
         },
         {
-          "title": "경찰, 김승원 법무장관 후보자 '신약 청탁' 연이틀 고발인 조사 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xYWx4anVQMEVDOXpTVGYxaWxUdElpQTg1UWEtMDFxTmp6WXI0R0pESXpKQ1E5azNjZFhoMVFmaFpzQWZNLWVoTTlNeFEzRi02UWwzVXBkSlFrV1cwR1pVQUVWRkx4a3RRaXU3ZDRzb3FoMDhwd3pZ0gF3QVVfeXFMUEo2NDF2ZHZDZkZHNlhrdHBRSDdoa2UxNUN0bktkTy1TZXdIazZ4V0lMd1NsejAzLVQtSDJRTUNMTng5U1pVd0RnUzktU3FDX2ZhWG5PX010VEhGYVdBM2tBRHhqM19QZXBmQzlCYXZfOFg1MGtYZVE?oc=5",
+          "title": "한국 U-18 야구, 아시아청소년선수권 결승서 일본과 격돌(종합) - 연합뉴스 한민족센터",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XMHNkbUF0QTNxelJtS0w5MkRaTFJtbmxKTEFtSnNkUXpnWWxVOVJpNEkxakVRX19GZFF5MGgzWENuRjUyZGIzMklDTmJOaTVXQlZaRWkxRHVZbjhGaG1BbjZibUY2UmcwVDhlUERiNWNLLXpH?oc=5",
           "source": "Google News",
-          "published": "Sat, 12 Sep 2026 02:32:58 GMT"
+          "published": "Sat, 12 Sep 2026 12:38:05 GMT"
         }
       ]
     },
     {
-      "word": "파병",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[반도 앨리스] “파병 거절해도 받아들여지는 시대” 희망한 노 전 대통령…23년 지나도 ‘파병 딜레마’ - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oOHhrdmJsSWFpZ1lYV0dpQXVUMENUMVRyNkdhRkp2WExyUV9NdGgzTFdfbFpQSFlhRkhhWnJkZmNYQ2FjbXViU0pIdXVkSktiNmU2NEd5UFl1QdIBX0FVX3lxTE9LekRHN3NFNEtIQlkxOEstR1JvcmNDczBYV21LR1BDMmNzUjY0LVFsQzNISlJTTTl3TW1RWW5PQUs5cnUzYUQxdUJBNU01TmJaRU9DVzZWOW9Wa2JMZ1g0?oc=5",
-          "source": "Google News",
-          "published": "Fri, 11 Sep 2026 23:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "위험",
+      "word": "이란",
       "count": 2,
       "category": "NOUN",
       "articles": [
@@ -66,93 +109,112 @@
           "published": "Sat, 12 Sep 2026 09:36:08 GMT"
         },
         {
-          "title": "탄수화물 섭취량 극도로 줄이면 '당뇨병 위험 낮아진다' - 후생신보",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5FcDIxSHRwNTl4NmlXLXZablg3Y3l0T0NCUGJyQ0N4NlBoYnpFVHNYQm5RWGp5Uy1RRlR6YlU4cW9rLUk3VEE?oc=5",
+          "title": "\"유가 급락할 것\"…트럼프, 이란 전쟁 종식 자신한 이유 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mejdhTXZHRWlWWkFJa0JZT2JFSzEzUzlmQXlyNVV3WkYxdmVKdDk4LXoyS0xWT0JfV0NERlU5M1R6TjhOd2ltY3A1RHZ3YUxKVnlFZ1FCdUVzQQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 09 Sep 2026 02:27:00 GMT"
+          "published": "Sat, 12 Sep 2026 10:55:15 GMT"
         }
       ]
     },
     {
-      "word": "아들",
+      "word": "빠른",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "진도 ‘신비의 바닷길’ 인근서 일가족 빠져…엄마와 3살 아들 심정지 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54WWRON3ppeUtoU2Z0YWJ6TEJEczdWZmRaRzlrQ09PUGlqenpWZ2xWZlFKX1lQei1TeUxZNC1LWEpaQkhmbWhaeXE1R2MwcFoxNmt5Umo5WEpOSUIxVjdoeTFKMWFZUXk0ZjlDc1REeEVJYXA3SXfSAWZBVV95cUxPOGxGZk1hM1hqNnRaMTQ2X3BKOXFZeDZkd0Z2TEFXWVl3S3hSeVFJb3ZRdTZveGV0WENuQUMwbk53eUt0enNtdTBTZXJ1UDRZa1VHcWowYm5kcjR2Y2xjZGdEbnhlOGc?oc=5",
+          "title": "이란 전쟁, 예멘 후티 반군의 빠른 진격으로 위험한 새 국면 맞나 - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zM2ZLelNwV2xNcGxfNWJHaGJ5TTZfdEVfQ0dMSmN1ektreFcyM1Y5WkVfdnpjUVdyX3VndnpIUXF0LVNfZ0RkYVQtQ1FjbkNnaUdJVE5CYjVxNDBs0gFiQVVfeXFMTTlhcTV2djlnR1ZXTDc1VGNDdDIzRE5mWXBhQ3E0N1R3MkxvTlc5cTJrYzFITGlxaWZ5R25uem5JWmJEdmN6TUZFMENtZVVGVGh6cFIwUENfQ2o3a1lBQldvZVE?oc=5",
           "source": "Google News",
-          "published": "Sat, 12 Sep 2026 07:23:00 GMT"
+          "published": "Sat, 12 Sep 2026 09:36:08 GMT"
         },
         {
-          "title": "손예진, 아들 외모 자랑 후회 “배우 안 하기 힘든 얼굴이라니…” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fMGd6V3ZFS012emk0U2ZqVHA3czRRVWI0cU5xMXloLUVTWjJwc2RfNzlaVzV4MkJaMGhoNElLTDAyNDhHMUM4R0pmZ3MyQWY3NXNhWlBvX0tLU2hNNi0wTm8yTi1Ga19oeGpKetIBYkFVX3lxTE05OHBVN05hMFB4TjZybzFwZWdrUmlNVlN5bzFVMWZyUzJYTFVpS29WZS1kaUpwUjZPRGNwV1kydzVYbWxaT1JPYVNLSlZoRGswMTNGTzYzUXhUdF9oSGQ4X0h3?oc=5",
+          "title": "‘빠른 회복세’ 잔류군에서 첫 훈련 소화한 김도영, 이범호 감독은 “몸 상태에는 문제없어, 내일 홈 경기 훈련 ... - 스포츠경향",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKQWpKdDhoZ1I4YnhPWjdRUmhmTzZDUTF6ZzlvVW42a0RJNUZBczdsSHdtLU9ZUXBaMnZ0OGFYejJ1NFlNUWlQajd4X1llWGl4MXVCSFFwbDB5Q1pDMEHSAWNBVV95cUxOZ21CcXBLNU1MTFlETDBiTThFSndnZXJBcE9ZeFF1VW5od0FFajRpM3VSdmFpMFRHM3VsX3ZBN1plUU9LMnYwT3NvQ0xJYnVVeDg2aGhfcnR4S1JOZmpuY25FYzA?oc=5",
           "source": "Google News",
-          "published": "Sat, 12 Sep 2026 09:25:19 GMT"
+          "published": "Sat, 12 Sep 2026 07:47:00 GMT"
         }
       ]
     },
     {
-      "word": "크록스",
+      "word": "선박",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“간호사 크록스 나만 보기 싫음?”…의료진이 크록스 신는 진짜 이유 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wT2hIZWtxbkI0VmZiNHozRTV6dkhjeElzbmg1RTBUZ3ZOWEZGRV9Ra0lVMWo4ZW5QS1cyM0pOYnJfVlBqbm9hTTdaaGVFQXFEN19xb2JrN25Kd9IBX0FVX3lxTFBTOGJPeFhJWnFrM2JTbzloZ0dBQWlESTBXMEpDT0plQzI5R2xUVkFaUV81RXl2anZFMjhRcklXQ1BocU5GXzlSUmZnLXgtZTdUNFVVcVFHeGIzdnExUXFR?oc=5",
+          "title": "이 대통령, 북극항로 선박 영국 도착에 \"역사적 첫길\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TZFZLdVBYVmVvSjZBOC01SEFDYnVtTDZhVm5vVmQwV0hKOFRmU0hISWhjQzJCM1NvQ09CMGswNGhfQS1TZ1NrUndDWmJLWmJCWVpMX1hUbWtFdkF1NExqXzdseGo3Smpsd0hxX25oVV9TRl9oSnpWVdIBeEFVX3lxTE9DcEtyZy1JeFI1WlJKY3N0VWJPSTRqMGR4T2tGb2VyX1F4aV9GREZXWGsyWk9Ta1lNaDVJdHc5MEVaalBtMERnRHl0TWQ2cUswaDdKckNJVy1UU3lyekVwc1loTU9wRVdWczZTbUw4QllPQnFoWU5URQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 11 Sep 2026 22:00:00 GMT"
+          "published": "Sat, 12 Sep 2026 09:17:56 GMT"
+        },
+        {
+          "title": "미, 호르무즈 선박 호위 시간대 축소…장기전 대비하나 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EMzAxSHRUcWhaYnhaU1g4YVJwejVWbkRkdlZueTRHTi1wYXMtS2VaNEg3S25KakNSM2NXeGNKOVdGdUVtU2JhODhvci13dl90MVZScXhtaHZSNXJjMFY4aXcwSU94TVU?oc=5",
+          "source": "Google News",
+          "published": "Sat, 12 Sep 2026 06:56:00 GMT"
         }
       ]
     },
     {
-      "word": "건강",
+      "word": "국내",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "전원주 유튜브 중단, 건강 때문 아니었다…\"출연료 올리려다\" - 아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjUHpNY1FHZENDekduVHFBU3BnNWlmbVcyRVkzckFfaUNHbWVOaUpFRXpxd19FVU9tcXRRbjBmekFrNXE3c0lRS2NZY0NkOFJGNHhiT3JGV0pCZjdCQ3B0NA?oc=5",
+          "title": "이 대통령 “국제유가 폭등에도 국내 휘발유·경유 가격 안정···걱정 안 해도 돼” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hWFNZUUFmR2hGSGN3U29YRnJKZVBjTjNDMXB3UDBRSk9fZDIxQ1U4UjdHUWt5bF9FX0U0aHowMThhT3F6WmlwYkphTDMycjVYUnRPNXV4WG9pd9IBX0FVX3lxTE1hYTlDMWpzbXRJNUlaX2ZWQW95Z1ZaX0FPd05lVUo0ZTdKZEsxaUFIREIwREdwdWtnUUtDTDU0SG9seHZ1a0pwNlE1RVh0anVFNjY0aDVqZVBodUVFVHdR?oc=5",
           "source": "Google News",
-          "published": "Sat, 12 Sep 2026 07:01:04 GMT"
+          "published": "Sat, 12 Sep 2026 07:38:00 GMT"
         },
         {
-          "title": "“향긋한 ‘이 나물’ 무쳐 먹었더니?”…혈압·눈 건강까지 챙긴다, 뭘까? - 코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE50clZUZW9mS1NybTFXV3NNQzY0bnk3NUNQbVNTWnI0NUVyMC1NYi1jWENyOG1iY2JxeHlLbl9uWHMzQQ?oc=5",
+          "title": "DDR5 192GB도 ‘6000 CL26’…코잇, 바이윈 하이엔드 메모리 ‘VORTEX’ 국내 출시 - 뉴스탭",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wTU5VUEhqakxwdnU1cDBaRl9mNHF4YnJVcnlaS1FWUEY4LUJrVERvWkhST0xzX1l3bWltcDNZVmREMnJmWlVBa3d5b0VlaHBSeXpoYzRXcjlFa0VVRG9fdlBjMzBKczc1NTZ1dQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 12 Sep 2026 03:06:00 GMT"
+          "published": "Sat, 12 Sep 2026 02:15:57 GMT"
         }
       ]
     },
     {
-      "word": "KIA",
+      "word": "훈련",
       "count": 2,
-      "category": "ORGANIZATION",
+      "category": "NOUN",
       "articles": [
         {
-          "title": "[AI프리뷰] 12일 수원 KT-KIA전, 6일 만의 재대결 펼치는 KT 대니엘과 KIA 네일 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85SExXSWxhRkpDRlQ3emhlQm1FTGRHajZnNUoyV0Yta2FjdE1ka3FFbW1tX0FDdDlDUC0xS2xJanNDU2xmYjZKaWg5aTVUYW9yWWJNOE5saUZmVFFT?oc=5",
+          "title": "‘빠른 회복세’ 잔류군에서 첫 훈련 소화한 김도영, 이범호 감독은 “몸 상태에는 문제없어, 내일 홈 경기 훈련 ... - 스포츠경향",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKQWpKdDhoZ1I4YnhPWjdRUmhmTzZDUTF6ZzlvVW42a0RJNUZBczdsSHdtLU9ZUXBaMnZ0OGFYejJ1NFlNUWlQajd4X1llWGl4MXVCSFFwbDB5Q1pDMEHSAWNBVV95cUxOZ21CcXBLNU1MTFlETDBiTThFSndnZXJBcE9ZeFF1VW5od0FFajRpM3VSdmFpMFRHM3VsX3ZBN1plUU9LMnYwT3NvQ0xJYnVVeDg2aGhfcnR4S1JOZmpuY25FYzA?oc=5",
           "source": "Google News",
-          "published": "Sat, 12 Sep 2026 03:28:00 GMT"
-        },
-        {
-          "title": "‘코뼈 수술’ KIA 김도영, 퇴원 후 선수단 합류…AG 정상 출전 확정 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EeklveXhJRzRUSy1vSGpra1B4WC1STkVQMEtJakYybUxvc0FYU1RQVEhnSnRCemc0NTFhdmhpYjhoVE1PTTFrQ0piSERnblBGblUtSkJvOWgwRFVsZVluTnl4dWRrM0EtcXo3eE84X1F2c1ZZ0gFmQVVfeXFMT0dlUGhWVTBfRFpydHA1TjNVS3QyajkyOUctWlFralJhRXhZTnFPRG5pV3M1b3BKYklXUmZuaFRiTHNRakNOVy1oODBPRThFR2JDMTBBSTdlbDZRVVpISDBCREhRak5R?oc=5",
-          "source": "Google News",
-          "published": "Fri, 11 Sep 2026 12:41:00 GMT"
+          "published": "Sat, 12 Sep 2026 07:47:00 GMT"
         }
       ]
     },
     {
-      "word": "민주당",
+      "word": "결승서",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "한화생명, T1에 3:1 승…LCK 결승서 젠지와 리매치 성사 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TRW1qNE5zVmtTdHlqZ1FOSDc5R1N4b19xaE9PS3dNazh4Qkh0TW1aSjA5TG05RTFDOXZzRC11Rmd0NnZBby1FMVVlV1Rjck1xRmhVM0JXTGxkbkHSAWBBVV95cUxQUlM0UE96TWpCVlFBZXFmU05ZSVRJN2RNcEU2dW8tc2hmZGlUTUFzNEhfWG5KaS1yd3dUQkVJZU9tcTFPUlVnaVpGVng4TDdyN2tEOTRvUlpxVWstRUlsdnA?oc=5",
+          "source": "Google News",
+          "published": "Sat, 12 Sep 2026 09:14:14 GMT"
+        },
+        {
+          "title": "한국 U-18 야구, 아시아청소년선수권 결승서 일본과 격돌(종합) - 연합뉴스 한민족센터",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XMHNkbUF0QTNxelJtS0w5MkRaTFJtbmxKTEFtSnNkUXpnWWxVOVJpNEkxakVRX19GZFF5MGgzWENuRjUyZGIzMklDTmJOaTVXQlZaRWkxRHVZbjhGaG1BbjZibUY2UmcwVDhlUERiNWNLLXpH?oc=5",
+          "source": "Google News",
+          "published": "Sat, 12 Sep 2026 12:38:05 GMT"
+        }
+      ]
+    },
+    {
+      "word": "민주",
       "count": 1,
-      "category": "ORGANIZATION",
+      "category": "LOCATION",
       "articles": [
         {
-          "title": "민주당 \"용혜인 논란, 청년 여론 들끓어\"‥내일 고위당정 논의 가능성 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95ai1rQXVWMVduUWJTTF9CSnNNSnZJWFNFYk5Qa1c0M3Ruc3lpckF0aXppTVNhNVN4UWRYbWRtcjRMS3lqY216Z2NyOVF0WDBVYTV0V2RrN0FVanBGcVhwY1h6OTZxZkxjZk1Xc1haQVQxRDlkbHNRMNIBeEFVX3lxTFBPa1pRWS1wWmR0QVBmekRZYng0OHhYdGo5QU5vSW5RZlpfcWUxZHgyWC14YmU4cWp1enpKZlZObV8wUXJFZUZqT0hDWlA0MzF2WFNnWnpxa3ZFamRsaGhFYTQ5OTdjejNSZnNKcmtSS1V0VEY4QXlhVg?oc=5",
+          "title": "민주 “용혜인에 청년 여론 들끓어 심각한 상황…대책 필요” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DaVhwVFphdHdORHRFYkNlLWY5TlgtejBFcVZXMXNZMmR5VmtIWl9kTUlxVXF0ZFpvNnQ3U2RjVzFMWHA0a0dpTVhXOFgtUURzd3dTUmQ2UnItWEhBZU1SdWI3Y0xpcTFGOWc?oc=5",
           "source": "Google News",
-          "published": "Sat, 12 Sep 2026 04:42:06 GMT"
+          "published": "Sat, 12 Sep 2026 07:13:00 GMT"
         }
       ]
     },
@@ -162,23 +224,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "민주당 \"용혜인 논란, 청년 여론 들끓어\"‥내일 고위당정 논의 가능성 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95ai1rQXVWMVduUWJTTF9CSnNNSnZJWFNFYk5Qa1c0M3Ruc3lpckF0aXppTVNhNVN4UWRYbWRtcjRMS3lqY216Z2NyOVF0WDBVYTV0V2RrN0FVanBGcVhwY1h6OTZxZkxjZk1Xc1haQVQxRDlkbHNRMNIBeEFVX3lxTFBPa1pRWS1wWmR0QVBmekRZYng0OHhYdGo5QU5vSW5RZlpfcWUxZHgyWC14YmU4cWp1enpKZlZObV8wUXJFZUZqT0hDWlA0MzF2WFNnWnpxa3ZFamRsaGhFYTQ5OTdjejNSZnNKcmtSS1V0VEY4QXlhVg?oc=5",
+          "title": "민주 “용혜인에 청년 여론 들끓어 심각한 상황…대책 필요” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DaVhwVFphdHdORHRFYkNlLWY5TlgtejBFcVZXMXNZMmR5VmtIWl9kTUlxVXF0ZFpvNnQ3U2RjVzFMWHA0a0dpTVhXOFgtUURzd3dTUmQ2UnItWEhBZU1SdWI3Y0xpcTFGOWc?oc=5",
           "source": "Google News",
-          "published": "Sat, 12 Sep 2026 04:42:06 GMT"
-        }
-      ]
-    },
-    {
-      "word": "논란",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "민주당 \"용혜인 논란, 청년 여론 들끓어\"‥내일 고위당정 논의 가능성 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95ai1rQXVWMVduUWJTTF9CSnNNSnZJWFNFYk5Qa1c0M3Ruc3lpckF0aXppTVNhNVN4UWRYbWRtcjRMS3lqY216Z2NyOVF0WDBVYTV0V2RrN0FVanBGcVhwY1h6OTZxZkxjZk1Xc1haQVQxRDlkbHNRMNIBeEFVX3lxTFBPa1pRWS1wWmR0QVBmekRZYng0OHhYdGo5QU5vSW5RZlpfcWUxZHgyWC14YmU4cWp1enpKZlZObV8wUXJFZUZqT0hDWlA0MzF2WFNnWnpxa3ZFamRsaGhFYTQ5OTdjejNSZnNKcmtSS1V0VEY4QXlhVg?oc=5",
-          "source": "Google News",
-          "published": "Sat, 12 Sep 2026 04:42:06 GMT"
+          "published": "Sat, 12 Sep 2026 07:13:00 GMT"
         }
       ]
     },
@@ -188,374 +237,361 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "민주당 \"용혜인 논란, 청년 여론 들끓어\"‥내일 고위당정 논의 가능성 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95ai1rQXVWMVduUWJTTF9CSnNNSnZJWFNFYk5Qa1c0M3Ruc3lpckF0aXppTVNhNVN4UWRYbWRtcjRMS3lqY216Z2NyOVF0WDBVYTV0V2RrN0FVanBGcVhwY1h6OTZxZkxjZk1Xc1haQVQxRDlkbHNRMNIBeEFVX3lxTFBPa1pRWS1wWmR0QVBmekRZYng0OHhYdGo5QU5vSW5RZlpfcWUxZHgyWC14YmU4cWp1enpKZlZObV8wUXJFZUZqT0hDWlA0MzF2WFNnWnpxa3ZFamRsaGhFYTQ5OTdjejNSZnNKcmtSS1V0VEY4QXlhVg?oc=5",
+          "title": "민주 “용혜인에 청년 여론 들끓어 심각한 상황…대책 필요” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DaVhwVFphdHdORHRFYkNlLWY5TlgtejBFcVZXMXNZMmR5VmtIWl9kTUlxVXF0ZFpvNnQ3U2RjVzFMWHA0a0dpTVhXOFgtUURzd3dTUmQ2UnItWEhBZU1SdWI3Y0xpcTFGOWc?oc=5",
           "source": "Google News",
-          "published": "Sat, 12 Sep 2026 04:42:06 GMT"
+          "published": "Sat, 12 Sep 2026 07:13:00 GMT"
         }
       ]
     },
     {
-      "word": "들끓어내일",
+      "word": "여론",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "민주당 \"용혜인 논란, 청년 여론 들끓어\"‥내일 고위당정 논의 가능성 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95ai1rQXVWMVduUWJTTF9CSnNNSnZJWFNFYk5Qa1c0M3Ruc3lpckF0aXppTVNhNVN4UWRYbWRtcjRMS3lqY216Z2NyOVF0WDBVYTV0V2RrN0FVanBGcVhwY1h6OTZxZkxjZk1Xc1haQVQxRDlkbHNRMNIBeEFVX3lxTFBPa1pRWS1wWmR0QVBmekRZYng0OHhYdGo5QU5vSW5RZlpfcWUxZHgyWC14YmU4cWp1enpKZlZObV8wUXJFZUZqT0hDWlA0MzF2WFNnWnpxa3ZFamRsaGhFYTQ5OTdjejNSZnNKcmtSS1V0VEY4QXlhVg?oc=5",
+          "title": "민주 “용혜인에 청년 여론 들끓어 심각한 상황…대책 필요” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DaVhwVFphdHdORHRFYkNlLWY5TlgtejBFcVZXMXNZMmR5VmtIWl9kTUlxVXF0ZFpvNnQ3U2RjVzFMWHA0a0dpTVhXOFgtUURzd3dTUmQ2UnItWEhBZU1SdWI3Y0xpcTFGOWc?oc=5",
           "source": "Google News",
-          "published": "Sat, 12 Sep 2026 04:42:06 GMT"
+          "published": "Sat, 12 Sep 2026 07:13:00 GMT"
         }
       ]
     },
     {
-      "word": "고위당정",
+      "word": "들끓어",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "민주당 \"용혜인 논란, 청년 여론 들끓어\"‥내일 고위당정 논의 가능성 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95ai1rQXVWMVduUWJTTF9CSnNNSnZJWFNFYk5Qa1c0M3Ruc3lpckF0aXppTVNhNVN4UWRYbWRtcjRMS3lqY216Z2NyOVF0WDBVYTV0V2RrN0FVanBGcVhwY1h6OTZxZkxjZk1Xc1haQVQxRDlkbHNRMNIBeEFVX3lxTFBPa1pRWS1wWmR0QVBmekRZYng0OHhYdGo5QU5vSW5RZlpfcWUxZHgyWC14YmU4cWp1enpKZlZObV8wUXJFZUZqT0hDWlA0MzF2WFNnWnpxa3ZFamRsaGhFYTQ5OTdjejNSZnNKcmtSS1V0VEY4QXlhVg?oc=5",
+          "title": "민주 “용혜인에 청년 여론 들끓어 심각한 상황…대책 필요” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DaVhwVFphdHdORHRFYkNlLWY5TlgtejBFcVZXMXNZMmR5VmtIWl9kTUlxVXF0ZFpvNnQ3U2RjVzFMWHA0a0dpTVhXOFgtUURzd3dTUmQ2UnItWEhBZU1SdWI3Y0xpcTFGOWc?oc=5",
           "source": "Google News",
-          "published": "Sat, 12 Sep 2026 04:42:06 GMT"
+          "published": "Sat, 12 Sep 2026 07:13:00 GMT"
         }
       ]
     },
     {
-      "word": "논의",
+      "word": "심각",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "민주당 \"용혜인 논란, 청년 여론 들끓어\"‥내일 고위당정 논의 가능성 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95ai1rQXVWMVduUWJTTF9CSnNNSnZJWFNFYk5Qa1c0M3Ruc3lpckF0aXppTVNhNVN4UWRYbWRtcjRMS3lqY216Z2NyOVF0WDBVYTV0V2RrN0FVanBGcVhwY1h6OTZxZkxjZk1Xc1haQVQxRDlkbHNRMNIBeEFVX3lxTFBPa1pRWS1wWmR0QVBmekRZYng0OHhYdGo5QU5vSW5RZlpfcWUxZHgyWC14YmU4cWp1enpKZlZObV8wUXJFZUZqT0hDWlA0MzF2WFNnWnpxa3ZFamRsaGhFYTQ5OTdjejNSZnNKcmtSS1V0VEY4QXlhVg?oc=5",
+          "title": "민주 “용혜인에 청년 여론 들끓어 심각한 상황…대책 필요” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DaVhwVFphdHdORHRFYkNlLWY5TlgtejBFcVZXMXNZMmR5VmtIWl9kTUlxVXF0ZFpvNnQ3U2RjVzFMWHA0a0dpTVhXOFgtUURzd3dTUmQ2UnItWEhBZU1SdWI3Y0xpcTFGOWc?oc=5",
           "source": "Google News",
-          "published": "Sat, 12 Sep 2026 04:42:06 GMT"
+          "published": "Sat, 12 Sep 2026 07:13:00 GMT"
         }
       ]
     },
     {
-      "word": "가능",
+      "word": "상황대책",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "민주당 \"용혜인 논란, 청년 여론 들끓어\"‥내일 고위당정 논의 가능성 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95ai1rQXVWMVduUWJTTF9CSnNNSnZJWFNFYk5Qa1c0M3Ruc3lpckF0aXppTVNhNVN4UWRYbWRtcjRMS3lqY216Z2NyOVF0WDBVYTV0V2RrN0FVanBGcVhwY1h6OTZxZkxjZk1Xc1haQVQxRDlkbHNRMNIBeEFVX3lxTFBPa1pRWS1wWmR0QVBmekRZYng0OHhYdGo5QU5vSW5RZlpfcWUxZHgyWC14YmU4cWp1enpKZlZObV8wUXJFZUZqT0hDWlA0MzF2WFNnWnpxa3ZFamRsaGhFYTQ5OTdjejNSZnNKcmtSS1V0VEY4QXlhVg?oc=5",
+          "title": "민주 “용혜인에 청년 여론 들끓어 심각한 상황…대책 필요” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DaVhwVFphdHdORHRFYkNlLWY5TlgtejBFcVZXMXNZMmR5VmtIWl9kTUlxVXF0ZFpvNnQ3U2RjVzFMWHA0a0dpTVhXOFgtUURzd3dTUmQ2UnItWEhBZU1SdWI3Y0xpcTFGOWc?oc=5",
           "source": "Google News",
-          "published": "Sat, 12 Sep 2026 04:42:06 GMT"
+          "published": "Sat, 12 Sep 2026 07:13:00 GMT"
         }
       ]
     },
     {
-      "word": "호르무즈",
+      "word": "필요",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "미, 호르무즈 선박 호위 시간대 축소…장기전 대비하나 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EMzAxSHRUcWhaYnhaU1g4YVJwejVWbkRkdlZueTRHTi1wYXMtS2VaNEg3S25KakNSM2NXeGNKOVdGdUVtU2JhODhvci13dl90MVZScXhtaHZSNXJjMFY4aXcwSU94TVU?oc=5",
+          "title": "민주 “용혜인에 청년 여론 들끓어 심각한 상황…대책 필요” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DaVhwVFphdHdORHRFYkNlLWY5TlgtejBFcVZXMXNZMmR5VmtIWl9kTUlxVXF0ZFpvNnQ3U2RjVzFMWHA0a0dpTVhXOFgtUURzd3dTUmQ2UnItWEhBZU1SdWI3Y0xpcTFGOWc?oc=5",
           "source": "Google News",
-          "published": "Sat, 12 Sep 2026 06:56:00 GMT"
+          "published": "Sat, 12 Sep 2026 07:13:00 GMT"
         }
       ]
     },
     {
-      "word": "선박",
+      "word": "가는",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "미, 호르무즈 선박 호위 시간대 축소…장기전 대비하나 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EMzAxSHRUcWhaYnhaU1g4YVJwejVWbkRkdlZueTRHTi1wYXMtS2VaNEg3S25KakNSM2NXeGNKOVdGdUVtU2JhODhvci13dl90MVZScXhtaHZSNXJjMFY4aXcwSU94TVU?oc=5",
+          "title": "“호르무즈 가는 순간 한국은 전쟁 당사국”…전국 곳곳서 ‘파병 반대’ 집회 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tNzNYa01ndU0xQTFuUWxDaVktS2FGWEVvcWpUR1JVVFl1cEhCNWcxbjFZTExlX0dKOUgwcjhqRWRFTFRUdnJxNlJRQ2R1YkVUSHFUN0NhLTdoUdIBX0FVX3lxTE14TjR5Zy03VnJxX0llRnhuUEhON1E4NWd6MnVrc1R6Rlc0OF9lYWExblFCbVJjeXFhcjQxUG1NTFBrYlc0WkpIUjBkRk9JWmhDUkRYQ0JXZ0RhcHNULTlJ?oc=5",
           "source": "Google News",
-          "published": "Sat, 12 Sep 2026 06:56:00 GMT"
+          "published": "Sat, 12 Sep 2026 10:37:00 GMT"
         }
       ]
     },
     {
-      "word": "호위",
+      "word": "순간",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "미, 호르무즈 선박 호위 시간대 축소…장기전 대비하나 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EMzAxSHRUcWhaYnhaU1g4YVJwejVWbkRkdlZueTRHTi1wYXMtS2VaNEg3S25KakNSM2NXeGNKOVdGdUVtU2JhODhvci13dl90MVZScXhtaHZSNXJjMFY4aXcwSU94TVU?oc=5",
+          "title": "“호르무즈 가는 순간 한국은 전쟁 당사국”…전국 곳곳서 ‘파병 반대’ 집회 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tNzNYa01ndU0xQTFuUWxDaVktS2FGWEVvcWpUR1JVVFl1cEhCNWcxbjFZTExlX0dKOUgwcjhqRWRFTFRUdnJxNlJRQ2R1YkVUSHFUN0NhLTdoUdIBX0FVX3lxTE14TjR5Zy03VnJxX0llRnhuUEhON1E4NWd6MnVrc1R6Rlc0OF9lYWExblFCbVJjeXFhcjQxUG1NTFBrYlc0WkpIUjBkRk9JWmhDUkRYQ0JXZ0RhcHNULTlJ?oc=5",
           "source": "Google News",
-          "published": "Sat, 12 Sep 2026 06:56:00 GMT"
+          "published": "Sat, 12 Sep 2026 10:37:00 GMT"
         }
       ]
     },
     {
-      "word": "시간대",
+      "word": "당사국전국",
+      "count": 1,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "“호르무즈 가는 순간 한국은 전쟁 당사국”…전국 곳곳서 ‘파병 반대’ 집회 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tNzNYa01ndU0xQTFuUWxDaVktS2FGWEVvcWpUR1JVVFl1cEhCNWcxbjFZTExlX0dKOUgwcjhqRWRFTFRUdnJxNlJRQ2R1YkVUSHFUN0NhLTdoUdIBX0FVX3lxTE14TjR5Zy03VnJxX0llRnhuUEhON1E4NWd6MnVrc1R6Rlc0OF9lYWExblFCbVJjeXFhcjQxUG1NTFBrYlc0WkpIUjBkRk9JWmhDUkRYQ0JXZ0RhcHNULTlJ?oc=5",
+          "source": "Google News",
+          "published": "Sat, 12 Sep 2026 10:37:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "곳곳서",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "미, 호르무즈 선박 호위 시간대 축소…장기전 대비하나 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EMzAxSHRUcWhaYnhaU1g4YVJwejVWbkRkdlZueTRHTi1wYXMtS2VaNEg3S25KakNSM2NXeGNKOVdGdUVtU2JhODhvci13dl90MVZScXhtaHZSNXJjMFY4aXcwSU94TVU?oc=5",
+          "title": "“호르무즈 가는 순간 한국은 전쟁 당사국”…전국 곳곳서 ‘파병 반대’ 집회 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tNzNYa01ndU0xQTFuUWxDaVktS2FGWEVvcWpUR1JVVFl1cEhCNWcxbjFZTExlX0dKOUgwcjhqRWRFTFRUdnJxNlJRQ2R1YkVUSHFUN0NhLTdoUdIBX0FVX3lxTE14TjR5Zy03VnJxX0llRnhuUEhON1E4NWd6MnVrc1R6Rlc0OF9lYWExblFCbVJjeXFhcjQxUG1NTFBrYlc0WkpIUjBkRk9JWmhDUkRYQ0JXZ0RhcHNULTlJ?oc=5",
           "source": "Google News",
-          "published": "Sat, 12 Sep 2026 06:56:00 GMT"
+          "published": "Sat, 12 Sep 2026 10:37:00 GMT"
         }
       ]
     },
     {
-      "word": "축소장기전",
+      "word": "파병",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "미, 호르무즈 선박 호위 시간대 축소…장기전 대비하나 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EMzAxSHRUcWhaYnhaU1g4YVJwejVWbkRkdlZueTRHTi1wYXMtS2VaNEg3S25KakNSM2NXeGNKOVdGdUVtU2JhODhvci13dl90MVZScXhtaHZSNXJjMFY4aXcwSU94TVU?oc=5",
+          "title": "“호르무즈 가는 순간 한국은 전쟁 당사국”…전국 곳곳서 ‘파병 반대’ 집회 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tNzNYa01ndU0xQTFuUWxDaVktS2FGWEVvcWpUR1JVVFl1cEhCNWcxbjFZTExlX0dKOUgwcjhqRWRFTFRUdnJxNlJRQ2R1YkVUSHFUN0NhLTdoUdIBX0FVX3lxTE14TjR5Zy03VnJxX0llRnhuUEhON1E4NWd6MnVrc1R6Rlc0OF9lYWExblFCbVJjeXFhcjQxUG1NTFBrYlc0WkpIUjBkRk9JWmhDUkRYQ0JXZ0RhcHNULTlJ?oc=5",
           "source": "Google News",
-          "published": "Sat, 12 Sep 2026 06:56:00 GMT"
+          "published": "Sat, 12 Sep 2026 10:37:00 GMT"
         }
       ]
     },
     {
-      "word": "대비",
+      "word": "반대",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "미, 호르무즈 선박 호위 시간대 축소…장기전 대비하나 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EMzAxSHRUcWhaYnhaU1g4YVJwejVWbkRkdlZueTRHTi1wYXMtS2VaNEg3S25KakNSM2NXeGNKOVdGdUVtU2JhODhvci13dl90MVZScXhtaHZSNXJjMFY4aXcwSU94TVU?oc=5",
+          "title": "“호르무즈 가는 순간 한국은 전쟁 당사국”…전국 곳곳서 ‘파병 반대’ 집회 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tNzNYa01ndU0xQTFuUWxDaVktS2FGWEVvcWpUR1JVVFl1cEhCNWcxbjFZTExlX0dKOUgwcjhqRWRFTFRUdnJxNlJRQ2R1YkVUSHFUN0NhLTdoUdIBX0FVX3lxTE14TjR5Zy03VnJxX0llRnhuUEhON1E4NWd6MnVrc1R6Rlc0OF9lYWExblFCbVJjeXFhcjQxUG1NTFBrYlc0WkpIUjBkRk9JWmhDUkRYQ0JXZ0RhcHNULTlJ?oc=5",
           "source": "Google News",
-          "published": "Sat, 12 Sep 2026 06:56:00 GMT"
+          "published": "Sat, 12 Sep 2026 10:37:00 GMT"
         }
       ]
     },
     {
-      "word": "이대통령",
-      "count": 1,
-      "category": "PERSON",
-      "articles": [
-        {
-          "title": "김승원, 이대통령 ‘공소 취소’ 질문에 “검찰 중립성 지키도록 지휘·감독” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hSjY3NmU3ME1MYVpuazZFX3J3SGUtU2ZyMEFVTWZPd3lIeFR4TEVDSVNIaUg4Q0NLQTRUX2FVUnhmMU16WWRBdWl2UURmaTV5SGI2UEVVVEJHenJiNjN1NW1HM0dMQmxnN2pxTGN4UnJudw?oc=5",
-          "source": "Google News",
-          "published": "Sat, 12 Sep 2026 06:59:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "공소",
+      "word": "집회",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김승원, 이대통령 ‘공소 취소’ 질문에 “검찰 중립성 지키도록 지휘·감독” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hSjY3NmU3ME1MYVpuazZFX3J3SGUtU2ZyMEFVTWZPd3lIeFR4TEVDSVNIaUg4Q0NLQTRUX2FVUnhmMU16WWRBdWl2UURmaTV5SGI2UEVVVEJHenJiNjN1NW1HM0dMQmxnN2pxTGN4UnJudw?oc=5",
+          "title": "“호르무즈 가는 순간 한국은 전쟁 당사국”…전국 곳곳서 ‘파병 반대’ 집회 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tNzNYa01ndU0xQTFuUWxDaVktS2FGWEVvcWpUR1JVVFl1cEhCNWcxbjFZTExlX0dKOUgwcjhqRWRFTFRUdnJxNlJRQ2R1YkVUSHFUN0NhLTdoUdIBX0FVX3lxTE14TjR5Zy03VnJxX0llRnhuUEhON1E4NWd6MnVrc1R6Rlc0OF9lYWExblFCbVJjeXFhcjQxUG1NTFBrYlc0WkpIUjBkRk9JWmhDUkRYQ0JXZ0RhcHNULTlJ?oc=5",
           "source": "Google News",
-          "published": "Sat, 12 Sep 2026 06:59:00 GMT"
+          "published": "Sat, 12 Sep 2026 10:37:00 GMT"
         }
       ]
     },
     {
-      "word": "취소",
+      "word": "추미애",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김승원, 이대통령 ‘공소 취소’ 질문에 “검찰 중립성 지키도록 지휘·감독” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hSjY3NmU3ME1MYVpuazZFX3J3SGUtU2ZyMEFVTWZPd3lIeFR4TEVDSVNIaUg4Q0NLQTRUX2FVUnhmMU16WWRBdWl2UURmaTV5SGI2UEVVVEJHenJiNjN1NW1HM0dMQmxnN2pxTGN4UnJudw?oc=5",
+          "title": "추미애, 이 대통령 향해 \"왜 내란세력에 전전긍긍하나\" 작심 비판 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MTVpPTjM1NUNPYmRTMXJxYlZyMFBnMU9URmlNSVQ1dS1abC1mUnEzUzFILUxDWnAxOTdfMmNrZU1xZ2ZLUWg1MUxlUm5fZXhWS0c3QzRHM2ZBZHR0MUJ1WFM3X0VGY1V6ZElLS0JwZy1oZ2ZuTVZuZA?oc=5",
           "source": "Google News",
-          "published": "Sat, 12 Sep 2026 06:59:00 GMT"
+          "published": "Sat, 12 Sep 2026 10:29:31 GMT"
         }
       ]
     },
     {
-      "word": "질문",
+      "word": "향해",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김승원, 이대통령 ‘공소 취소’ 질문에 “검찰 중립성 지키도록 지휘·감독” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hSjY3NmU3ME1MYVpuazZFX3J3SGUtU2ZyMEFVTWZPd3lIeFR4TEVDSVNIaUg4Q0NLQTRUX2FVUnhmMU16WWRBdWl2UURmaTV5SGI2UEVVVEJHenJiNjN1NW1HM0dMQmxnN2pxTGN4UnJudw?oc=5",
+          "title": "추미애, 이 대통령 향해 \"왜 내란세력에 전전긍긍하나\" 작심 비판 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MTVpPTjM1NUNPYmRTMXJxYlZyMFBnMU9URmlNSVQ1dS1abC1mUnEzUzFILUxDWnAxOTdfMmNrZU1xZ2ZLUWg1MUxlUm5fZXhWS0c3QzRHM2ZBZHR0MUJ1WFM3X0VGY1V6ZElLS0JwZy1oZ2ZuTVZuZA?oc=5",
           "source": "Google News",
-          "published": "Sat, 12 Sep 2026 06:59:00 GMT"
+          "published": "Sat, 12 Sep 2026 10:29:31 GMT"
         }
       ]
     },
     {
-      "word": "검찰",
+      "word": "내란세력",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김승원, 이대통령 ‘공소 취소’ 질문에 “검찰 중립성 지키도록 지휘·감독” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hSjY3NmU3ME1MYVpuazZFX3J3SGUtU2ZyMEFVTWZPd3lIeFR4TEVDSVNIaUg4Q0NLQTRUX2FVUnhmMU16WWRBdWl2UURmaTV5SGI2UEVVVEJHenJiNjN1NW1HM0dMQmxnN2pxTGN4UnJudw?oc=5",
+          "title": "추미애, 이 대통령 향해 \"왜 내란세력에 전전긍긍하나\" 작심 비판 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MTVpPTjM1NUNPYmRTMXJxYlZyMFBnMU9URmlNSVQ1dS1abC1mUnEzUzFILUxDWnAxOTdfMmNrZU1xZ2ZLUWg1MUxlUm5fZXhWS0c3QzRHM2ZBZHR0MUJ1WFM3X0VGY1V6ZElLS0JwZy1oZ2ZuTVZuZA?oc=5",
           "source": "Google News",
-          "published": "Sat, 12 Sep 2026 06:59:00 GMT"
+          "published": "Sat, 12 Sep 2026 10:29:31 GMT"
         }
       ]
     },
     {
-      "word": "중립",
+      "word": "전전긍긍",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김승원, 이대통령 ‘공소 취소’ 질문에 “검찰 중립성 지키도록 지휘·감독” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hSjY3NmU3ME1MYVpuazZFX3J3SGUtU2ZyMEFVTWZPd3lIeFR4TEVDSVNIaUg4Q0NLQTRUX2FVUnhmMU16WWRBdWl2UURmaTV5SGI2UEVVVEJHenJiNjN1NW1HM0dMQmxnN2pxTGN4UnJudw?oc=5",
+          "title": "추미애, 이 대통령 향해 \"왜 내란세력에 전전긍긍하나\" 작심 비판 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MTVpPTjM1NUNPYmRTMXJxYlZyMFBnMU9URmlNSVQ1dS1abC1mUnEzUzFILUxDWnAxOTdfMmNrZU1xZ2ZLUWg1MUxlUm5fZXhWS0c3QzRHM2ZBZHR0MUJ1WFM3X0VGY1V6ZElLS0JwZy1oZ2ZuTVZuZA?oc=5",
           "source": "Google News",
-          "published": "Sat, 12 Sep 2026 06:59:00 GMT"
+          "published": "Sat, 12 Sep 2026 10:29:31 GMT"
         }
       ]
     },
     {
-      "word": "지키도록",
+      "word": "작심",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김승원, 이대통령 ‘공소 취소’ 질문에 “검찰 중립성 지키도록 지휘·감독” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hSjY3NmU3ME1MYVpuazZFX3J3SGUtU2ZyMEFVTWZPd3lIeFR4TEVDSVNIaUg4Q0NLQTRUX2FVUnhmMU16WWRBdWl2UURmaTV5SGI2UEVVVEJHenJiNjN1NW1HM0dMQmxnN2pxTGN4UnJudw?oc=5",
+          "title": "추미애, 이 대통령 향해 \"왜 내란세력에 전전긍긍하나\" 작심 비판 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MTVpPTjM1NUNPYmRTMXJxYlZyMFBnMU9URmlNSVQ1dS1abC1mUnEzUzFILUxDWnAxOTdfMmNrZU1xZ2ZLUWg1MUxlUm5fZXhWS0c3QzRHM2ZBZHR0MUJ1WFM3X0VGY1V6ZElLS0JwZy1oZ2ZuTVZuZA?oc=5",
           "source": "Google News",
-          "published": "Sat, 12 Sep 2026 06:59:00 GMT"
+          "published": "Sat, 12 Sep 2026 10:29:31 GMT"
         }
       ]
     },
     {
-      "word": "지휘감독",
-      "count": 1,
-      "category": "PERSON",
-      "articles": [
-        {
-          "title": "김승원, 이대통령 ‘공소 취소’ 질문에 “검찰 중립성 지키도록 지휘·감독” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hSjY3NmU3ME1MYVpuazZFX3J3SGUtU2ZyMEFVTWZPd3lIeFR4TEVDSVNIaUg4Q0NLQTRUX2FVUnhmMU16WWRBdWl2UURmaTV5SGI2UEVVVEJHenJiNjN1NW1HM0dMQmxnN2pxTGN4UnJudw?oc=5",
-          "source": "Google News",
-          "published": "Sat, 12 Sep 2026 06:59:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "해경",
+      "word": "비판",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "해경, 서해 NLL 불법조업 中어선 1척 나포·91척 퇴거 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82eVR5M0xqbXVpMmNCbjVYakFXM09qRG1zcVFzYlFuSUJIMEZITHNxYnNkT3NfX1pHTGFhQXRHaDBub0pHNlpzcjlTVDNtRlJBcWxqSDlhOFdwREXSAWBBVV95cUxNMnFQZGxicWJnQnV2ODkxVVZZWTRVT1pYb2RwWjVtS0tsaWp6TFFVUldpRjRkX1J4R3B0Z0RmV29kM0Vnajc2ckNaMkQxaXA3b3BHUlRzRzF3cVlYWlFvaGY?oc=5",
+          "title": "추미애, 이 대통령 향해 \"왜 내란세력에 전전긍긍하나\" 작심 비판 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MTVpPTjM1NUNPYmRTMXJxYlZyMFBnMU9URmlNSVQ1dS1abC1mUnEzUzFILUxDWnAxOTdfMmNrZU1xZ2ZLUWg1MUxlUm5fZXhWS0c3QzRHM2ZBZHR0MUJ1WFM3X0VGY1V6ZElLS0JwZy1oZ2ZuTVZuZA?oc=5",
           "source": "Google News",
-          "published": "Sat, 12 Sep 2026 00:00:08 GMT"
+          "published": "Sat, 12 Sep 2026 10:29:31 GMT"
         }
       ]
     },
     {
-      "word": "서해",
+      "word": "네팔",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "해경, 서해 NLL 불법조업 中어선 1척 나포·91척 퇴거 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82eVR5M0xqbXVpMmNCbjVYakFXM09qRG1zcVFzYlFuSUJIMEZITHNxYnNkT3NfX1pHTGFhQXRHaDBub0pHNlpzcjlTVDNtRlJBcWxqSDlhOFdwREXSAWBBVV95cUxNMnFQZGxicWJnQnV2ODkxVVZZWTRVT1pYb2RwWjVtS0tsaWp6TFFVUldpRjRkX1J4R3B0Z0RmV29kM0Vnajc2ckNaMkQxaXA3b3BHUlRzRzF3cVlYWlFvaGY?oc=5",
+          "title": "네팔 터널서 9일 만에 구조된 기계반장 “흙탕물 마시며 버텨” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SMEhNbzFWMmgzOUM2dUJlNHZHMnROVWltWFd3SlUzNXg3Q0lhYmRtQkszVjBRNVA0bGtIeEtOS1NLOERXNjFlUWV0SW9fc2x1V1lkLXhtTTBXcTQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 12 Sep 2026 00:00:08 GMT"
+          "published": "Sat, 12 Sep 2026 02:37:00 GMT"
         }
       ]
     },
     {
-      "word": "NLL",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "해경, 서해 NLL 불법조업 中어선 1척 나포·91척 퇴거 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82eVR5M0xqbXVpMmNCbjVYakFXM09qRG1zcVFzYlFuSUJIMEZITHNxYnNkT3NfX1pHTGFhQXRHaDBub0pHNlpzcjlTVDNtRlJBcWxqSDlhOFdwREXSAWBBVV95cUxNMnFQZGxicWJnQnV2ODkxVVZZWTRVT1pYb2RwWjVtS0tsaWp6TFFVUldpRjRkX1J4R3B0Z0RmV29kM0Vnajc2ckNaMkQxaXA3b3BHUlRzRzF3cVlYWlFvaGY?oc=5",
-          "source": "Google News",
-          "published": "Sat, 12 Sep 2026 00:00:08 GMT"
-        }
-      ]
-    },
-    {
-      "word": "불법조업",
+      "word": "터널서",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "해경, 서해 NLL 불법조업 中어선 1척 나포·91척 퇴거 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82eVR5M0xqbXVpMmNCbjVYakFXM09qRG1zcVFzYlFuSUJIMEZITHNxYnNkT3NfX1pHTGFhQXRHaDBub0pHNlpzcjlTVDNtRlJBcWxqSDlhOFdwREXSAWBBVV95cUxNMnFQZGxicWJnQnV2ODkxVVZZWTRVT1pYb2RwWjVtS0tsaWp6TFFVUldpRjRkX1J4R3B0Z0RmV29kM0Vnajc2ckNaMkQxaXA3b3BHUlRzRzF3cVlYWlFvaGY?oc=5",
+          "title": "네팔 터널서 9일 만에 구조된 기계반장 “흙탕물 마시며 버텨” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SMEhNbzFWMmgzOUM2dUJlNHZHMnROVWltWFd3SlUzNXg3Q0lhYmRtQkszVjBRNVA0bGtIeEtOS1NLOERXNjFlUWV0SW9fc2x1V1lkLXhtTTBXcTQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 12 Sep 2026 00:00:08 GMT"
+          "published": "Sat, 12 Sep 2026 02:37:00 GMT"
         }
       ]
     },
     {
-      "word": "어선",
+      "word": "9일",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "해경, 서해 NLL 불법조업 中어선 1척 나포·91척 퇴거 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82eVR5M0xqbXVpMmNCbjVYakFXM09qRG1zcVFzYlFuSUJIMEZITHNxYnNkT3NfX1pHTGFhQXRHaDBub0pHNlpzcjlTVDNtRlJBcWxqSDlhOFdwREXSAWBBVV95cUxNMnFQZGxicWJnQnV2ODkxVVZZWTRVT1pYb2RwWjVtS0tsaWp6TFFVUldpRjRkX1J4R3B0Z0RmV29kM0Vnajc2ckNaMkQxaXA3b3BHUlRzRzF3cVlYWlFvaGY?oc=5",
+          "title": "네팔 터널서 9일 만에 구조된 기계반장 “흙탕물 마시며 버텨” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SMEhNbzFWMmgzOUM2dUJlNHZHMnROVWltWFd3SlUzNXg3Q0lhYmRtQkszVjBRNVA0bGtIeEtOS1NLOERXNjFlUWV0SW9fc2x1V1lkLXhtTTBXcTQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 12 Sep 2026 00:00:08 GMT"
+          "published": "Sat, 12 Sep 2026 02:37:00 GMT"
         }
       ]
     },
     {
-      "word": "1척",
+      "word": "만에",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "해경, 서해 NLL 불법조업 中어선 1척 나포·91척 퇴거 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82eVR5M0xqbXVpMmNCbjVYakFXM09qRG1zcVFzYlFuSUJIMEZITHNxYnNkT3NfX1pHTGFhQXRHaDBub0pHNlpzcjlTVDNtRlJBcWxqSDlhOFdwREXSAWBBVV95cUxNMnFQZGxicWJnQnV2ODkxVVZZWTRVT1pYb2RwWjVtS0tsaWp6TFFVUldpRjRkX1J4R3B0Z0RmV29kM0Vnajc2ckNaMkQxaXA3b3BHUlRzRzF3cVlYWlFvaGY?oc=5",
+          "title": "네팔 터널서 9일 만에 구조된 기계반장 “흙탕물 마시며 버텨” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SMEhNbzFWMmgzOUM2dUJlNHZHMnROVWltWFd3SlUzNXg3Q0lhYmRtQkszVjBRNVA0bGtIeEtOS1NLOERXNjFlUWV0SW9fc2x1V1lkLXhtTTBXcTQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 12 Sep 2026 00:00:08 GMT"
+          "published": "Sat, 12 Sep 2026 02:37:00 GMT"
         }
       ]
     },
     {
-      "word": "나포91척",
+      "word": "구조",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "해경, 서해 NLL 불법조업 中어선 1척 나포·91척 퇴거 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82eVR5M0xqbXVpMmNCbjVYakFXM09qRG1zcVFzYlFuSUJIMEZITHNxYnNkT3NfX1pHTGFhQXRHaDBub0pHNlpzcjlTVDNtRlJBcWxqSDlhOFdwREXSAWBBVV95cUxNMnFQZGxicWJnQnV2ODkxVVZZWTRVT1pYb2RwWjVtS0tsaWp6TFFVUldpRjRkX1J4R3B0Z0RmV29kM0Vnajc2ckNaMkQxaXA3b3BHUlRzRzF3cVlYWlFvaGY?oc=5",
+          "title": "네팔 터널서 9일 만에 구조된 기계반장 “흙탕물 마시며 버텨” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SMEhNbzFWMmgzOUM2dUJlNHZHMnROVWltWFd3SlUzNXg3Q0lhYmRtQkszVjBRNVA0bGtIeEtOS1NLOERXNjFlUWV0SW9fc2x1V1lkLXhtTTBXcTQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 12 Sep 2026 00:00:08 GMT"
+          "published": "Sat, 12 Sep 2026 02:37:00 GMT"
         }
       ]
     },
     {
-      "word": "퇴거",
+      "word": "기계반장",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "해경, 서해 NLL 불법조업 中어선 1척 나포·91척 퇴거 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82eVR5M0xqbXVpMmNCbjVYakFXM09qRG1zcVFzYlFuSUJIMEZITHNxYnNkT3NfX1pHTGFhQXRHaDBub0pHNlpzcjlTVDNtRlJBcWxqSDlhOFdwREXSAWBBVV95cUxNMnFQZGxicWJnQnV2ODkxVVZZWTRVT1pYb2RwWjVtS0tsaWp6TFFVUldpRjRkX1J4R3B0Z0RmV29kM0Vnajc2ckNaMkQxaXA3b3BHUlRzRzF3cVlYWlFvaGY?oc=5",
+          "title": "네팔 터널서 9일 만에 구조된 기계반장 “흙탕물 마시며 버텨” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SMEhNbzFWMmgzOUM2dUJlNHZHMnROVWltWFd3SlUzNXg3Q0lhYmRtQkszVjBRNVA0bGtIeEtOS1NLOERXNjFlUWV0SW9fc2x1V1lkLXhtTTBXcTQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 12 Sep 2026 00:00:08 GMT"
+          "published": "Sat, 12 Sep 2026 02:37:00 GMT"
         }
       ]
     },
     {
-      "word": "반도",
+      "word": "흙탕물",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[반도 앨리스] “파병 거절해도 받아들여지는 시대” 희망한 노 전 대통령…23년 지나도 ‘파병 딜레마’ - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oOHhrdmJsSWFpZ1lYV0dpQXVUMENUMVRyNkdhRkp2WExyUV9NdGgzTFdfbFpQSFlhRkhhWnJkZmNYQ2FjbXViU0pIdXVkSktiNmU2NEd5UFl1QdIBX0FVX3lxTE9LekRHN3NFNEtIQlkxOEstR1JvcmNDczBYV21LR1BDMmNzUjY0LVFsQzNISlJTTTl3TW1RWW5PQUs5cnUzYUQxdUJBNU01TmJaRU9DVzZWOW9Wa2JMZ1g0?oc=5",
+          "title": "네팔 터널서 9일 만에 구조된 기계반장 “흙탕물 마시며 버텨” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SMEhNbzFWMmgzOUM2dUJlNHZHMnROVWltWFd3SlUzNXg3Q0lhYmRtQkszVjBRNVA0bGtIeEtOS1NLOERXNjFlUWV0SW9fc2x1V1lkLXhtTTBXcTQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 11 Sep 2026 23:00:00 GMT"
+          "published": "Sat, 12 Sep 2026 02:37:00 GMT"
         }
       ]
     },
     {
-      "word": "앨리스",
+      "word": "마시",
+      "count": 1,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "네팔 터널서 9일 만에 구조된 기계반장 “흙탕물 마시며 버텨” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SMEhNbzFWMmgzOUM2dUJlNHZHMnROVWltWFd3SlUzNXg3Q0lhYmRtQkszVjBRNVA0bGtIeEtOS1NLOERXNjFlUWV0SW9fc2x1V1lkLXhtTTBXcTQ?oc=5",
+          "source": "Google News",
+          "published": "Sat, 12 Sep 2026 02:37:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "버텨",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[반도 앨리스] “파병 거절해도 받아들여지는 시대” 희망한 노 전 대통령…23년 지나도 ‘파병 딜레마’ - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oOHhrdmJsSWFpZ1lYV0dpQXVUMENUMVRyNkdhRkp2WExyUV9NdGgzTFdfbFpQSFlhRkhhWnJkZmNYQ2FjbXViU0pIdXVkSktiNmU2NEd5UFl1QdIBX0FVX3lxTE9LekRHN3NFNEtIQlkxOEstR1JvcmNDczBYV21LR1BDMmNzUjY0LVFsQzNISlJTTTl3TW1RWW5PQUs5cnUzYUQxdUJBNU01TmJaRU9DVzZWOW9Wa2JMZ1g0?oc=5",
+          "title": "네팔 터널서 9일 만에 구조된 기계반장 “흙탕물 마시며 버텨” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SMEhNbzFWMmgzOUM2dUJlNHZHMnROVWltWFd3SlUzNXg3Q0lhYmRtQkszVjBRNVA0bGtIeEtOS1NLOERXNjFlUWV0SW9fc2x1V1lkLXhtTTBXcTQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 11 Sep 2026 23:00:00 GMT"
+          "published": "Sat, 12 Sep 2026 02:37:00 GMT"
         }
       ]
     }
