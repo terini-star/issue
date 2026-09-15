@@ -1,198 +1,383 @@
 {
   "language": "ko",
-  "last_updated": 1789426934.7096183,
+  "last_updated": 1789446792.326311,
   "count": 40,
   "trends": [
     {
-      "word": "후보자",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "제넨셀 영장 기각 판사…김성수 대법관 후보자 \"사실이면 엄중 징계\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNVJsVVFhcmhZbFpsUDRFNldiaFNnTTF6cUF4eUMxVnl0T0V6ck9WbTJMUG9nNml4eW8xQ0N3Wk1tSnpHS3k3cU1JRk03OC1FRFpEcWN4U0RmRGpBcmxjLVlSSWw2NmtXeXBILTRhM2FPWkhpdVhheEtpODA2aXRibEpSMWpFY2c?oc=5",
-          "source": "Google News",
-          "published": "Mon, 14 Sep 2026 09:10:00 GMT"
-        },
-        {
-          "title": "청와대, 김지용 중수청장 후보자 추가 검증…지명 철회는 미지수 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQQ09mTklfQ3lBSDY1OGd2Tk5ZeWhudTVKQ3l3TGtnby1DN09JZXFoN0F0djhUbS1QVTZCRzJaREpPM21JalZSR3hlZUF4bE00WHotaGpXZ2pKU3JEVm5PbkJub2ZqVE42UDRr?oc=5",
-          "source": "Google News",
-          "published": "Mon, 14 Sep 2026 15:52:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "경험",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "청문회 D-1 김승원 \"30년 법조인 경험, 새 형사사법체계 정착에 쓰여지길\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ETVJWM0R1Z2djN2dQMHZWaEtoZWtjSDlKQ01DSWc5ZnlPSGswYlNlY2dWUzJtZ2VMWXdjaU5QREhJN1BMdTdyandMekQ4T0ZTYjRYQkZHSGNzdVBWM0Z6cXlxRF91TUlrWGRYM1NUQXpHLXdoNlhJ0gF3QVVfeXFMTjZSNWZvTTFFelFyYUZWVnMtbTBPclh0dEZ1M0RpUUNQSFFTSGFWdENTZHBnTnF6YjVHSUw0VHJaV1c0MktiZ0xxSUxuRkRXT2Y1RWxQTG5vYVVYbWNiUy1xLVh3azg1bHUzWlB5SzV3UUJGalVFMmc?oc=5",
-          "source": "Google News",
-          "published": "Mon, 14 Sep 2026 02:50:32 GMT"
-        },
-        {
-          "title": "에이치플러스 양지병원 비만대사외과 의료진, 국제학술대회서 고난도 치료 경험 공유 - 관악신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ocTg0UE92ZEdiM25vZUZrVlJITFJyQmJ2RXhHakJWYzRyYlZYLVRVcmxZZGtnSW5YcDhSeVRFT01qTFlKT1JoaE9sckF6OG4tbGhBNjJDYWdkeEVYMHFfbXV0dHc2WDBhR1E?oc=5",
-          "source": "Google News",
-          "published": "Mon, 14 Sep 2026 05:40:27 GMT"
-        }
-      ]
-    },
-    {
-      "word": "확대",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "송유관 피격에…\"사우디, 호르무즈 통한 원유 수출 확대 모색\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0RWRrS1U3UUlBM1dZVm9oRVFxNUFNSXluTDliX081U1BJMHA5NnFxWU1Bd0JZQkMyYkF1b0cyaDEyQ1lUcU9TTGdMaGhpNFV5WENJWElGWXR4TjTSAWBBVV95cUxONmYxNzY3SG5SbEtERGllQ1RwYjFWcnZvTkY5UVgxdktnRlB4UjA2VUZ3S3RUWW02bVNlR2F3ZlV6VVBJUU9JYkpSWFZZREZ5RXA0U1lpLXFqdFFpNWpTTE0?oc=5",
-          "source": "Google News",
-          "published": "Mon, 14 Sep 2026 21:37:08 GMT"
-        },
-        {
-          "title": "나토 수장 \"폴란드 접경 때린 러 드론, 우크라 지원 확대로 대응\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43X2JjRnl1Z0VHQk0zb2JhWGZIeklKRFFqZkhvaUI1dGJlS3EySmVnbVY2SkVCdG9PQVBQREV1UXFQN1h6bGVzX3d4OEdRbGdBcEhzUGNlRjNKMUXSAWBBVV95cUxOMUVNWVZMYWhudkdITDVCdTdQREloTEtFeW9yblJCR1d1RklJbXVtMnJRYWMtcjY0U1dZcUVZM0xfTjFqMWJYcWIxVnFXb2Y2ei1uS2VkQkxLeWF0MjZGNjU?oc=5",
-          "source": "Google News",
-          "published": "Mon, 14 Sep 2026 16:21:45 GMT"
-        }
-      ]
-    },
-    {
       "word": "트럼프",
-      "count": 2,
+      "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보] 트럼프 \"AI에 대한 역겨운 음모…中만 기뻐할 것\" - hankyung.com",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fT041NjA0M3ZHeVNSdkFhSE1oQjExbElsMWhhcU1uazFpQm9VRUt2SzVnQXZieTZKaDFZVEZVVXJxMTlfcm9jWXpqMkt2YlhBYy1UVmsxaTNLZw?oc=5",
+          "title": "트럼프 대통령 “이란과 협상에 열려 있어…호르무즈 통과 비용 미국에 부담해야” - voakorea.com",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMTJwRkR2NVUtMWZURnNGLXU2N0JaTlJrMGtLOGZJYlN1cVlMY3l4bmhjeG96RXV2YWlEOU56cTVrV0lNcEFVQXBhV1g3Z1Jxd2pDZk45ckd0d1M4OW45SjJNU3J0RXV3dXNlNHFkMWpEem95UDJZcWNHazJnTnJNUFA4dVlNUThpeVhZdG8wNjNVSlRMUl9Ma3VYLW1uVFQ2VVVzbzRR0gGoAUFVX3lxTE9FTm9qYXNUSkExYU95Nk1EeW1XenY5cVZIMzdmb3RjLU9La2Z6dXNWTGdHQjRqVEl5cE9fQzdYRWVLemN5RWx6SWtRWkQ3bk1jVHgxRTR0cmJPWWN5TXlBaUljTHlyOGJTZzJwNm50RjMzT0NTcU4tWHdZVFR0ZUVRdWdqQ2t1amE4ZzlIcTkxQ1lGS0VrYURKT1NCODlQLWlRcV9sMngzQw?oc=5",
           "source": "Google News",
-          "published": "Mon, 14 Sep 2026 14:11:13 GMT"
+          "published": "Mon, 14 Sep 2026 18:38:12 GMT"
         },
         {
-          "title": "[뉴욕채권] 국채가↑…10년물 5% 상회 후 매수세 속 트럼프도 진화 나서 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83c25DZmk2eGxHRmF3ODZ2enJpQ1ZCY00tY01PTG9mb3FNcTdpM0Q5d05DZ2xGNWE4di01ZFM2UUt6clNWb1dodWVSeWlzTjEwMHptcm9pZUhiUy1jUHpQZTRWOGlSdXUzRjJqN1BfX2w?oc=5",
+          "title": "트럼프 “러시아-우크라이나, 에너지 시설 타격 않기로” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kd1lsN2V0S19WcnlodktxN2FENnBabnZCOHhTcEM0Q2lSM1lJdG5JU0tVaVJGTmh2N1IzU3c0N3BoUjVvd2FxMjdNTGNvb0s0YnNuS0dtc1htME1mZUJjMU9qRkRHQmZ4bllXWnVjR3U3cEHSAWZBVV95cUxQalkzeW5PeGJfdGdoM3Z2MDQ1R29pV0hGYXpYcGo1Nk5SOUJYQzJxUXlWNEpQN3dpUGZPRGxHU2phZWFadDRrbmV3NFVqb2FDeWVxNVdocjM0SjkzZWd6TVNvNXpsc1E?oc=5",
           "source": "Google News",
-          "published": "Mon, 14 Sep 2026 22:02:51 GMT"
+          "published": "Mon, 14 Sep 2026 21:30:00 GMT"
+        },
+        {
+          "title": "젠슨 황, 트럼프에 “AI 속도조절 안 된다”…앤트로픽·오픈AI에 정면 반박[이규화의 글로벌AI] - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NaDBXTEk2Y2ROVHBNTGFpcTZmaWltSFBVSFI3emdTalU2VkIwMkZYNldhX3NzTVRaTFJmZGhfNk40SDV0YmNUTlZ3SVlOaWc?oc=5",
+          "source": "Google News",
+          "published": "Mon, 14 Sep 2026 23:10:42 GMT"
         }
       ]
     },
     {
-      "word": "감독",
+      "word": "김승원",
+      "count": 2,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "김승원 인사청문회 ‘한동훈 정조준’…“수사 정보 정치적 이용 바로잡겠다” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PMzhJT3FVVWoyM1FiVjlKLWdreldwTWNZd2t0dzI5dnR6N3pPN3V3R05kQXFYeVVzcnlGTXpVc294UEJ2XzBEb3Bfazl2SS1LMG9FRF8tQ0RKdTlQUmlMcm04UFlxb1pqLVp0RW9vUWNUZw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 15 Sep 2026 02:35:00 GMT"
+        },
+        {
+          "title": "김승원 청문회 시작부터 충돌…“법무장관 자격 없어” “끝난 사건” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hZzl6UkhJeE80RURSbmJ0VUFWbTFScGlOclRmSVdrbV95WXFobjFjdHliVDJyWHJyaWV6NEVpVUFXZDhpbHVleUZKUFNjZEVydDMwd1VLZmljdW8?oc=5",
+          "source": "Google News",
+          "published": "Tue, 15 Sep 2026 03:02:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "한동훈",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘홍명보호’의 전술적 실패를 무수히 돌려봤을텐데...“홍명보 감독 존중, 평가는 적절치 않아” 모레노 감독, ‘동방예의지국’에 딱 어울리는 임시 사령탑이 왔다 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95SlhNdFVwYUlyQXBtMjNINUxXZDJYeDlSSEZUZU1DcW9VTGZlSzdlRjNrY2Fpek5nNEl0Q29qdXRoRGFaTjdud3hzMTM4VUE?oc=5",
+          "title": "김승원 인사청문회 ‘한동훈 정조준’…“수사 정보 정치적 이용 바로잡겠다” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PMzhJT3FVVWoyM1FiVjlKLWdreldwTWNZd2t0dzI5dnR6N3pPN3V3R05kQXFYeVVzcnlGTXpVc294UEJ2XzBEb3Bfazl2SS1LMG9FRF8tQ0RKdTlQUmlMcm04UFlxb1pqLVp0RW9vUWNUZw?oc=5",
           "source": "Google News",
-          "published": "Mon, 14 Sep 2026 15:16:44 GMT"
+          "published": "Tue, 15 Sep 2026 02:35:00 GMT"
+        },
+        {
+          "title": "김민석 “한동훈 어차피 법 심판 받을 것…국회 제명 대상서 당분간 빼기로” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TbzlZT210WnRqb21uRzZrbWNXT1FPaDdndnllSGZaWURPcGlhYkNCSW1SSTJNV2dCd3ozVlljdXpaNWZkei12T2pwZDN1REVUWnVjU0llNnpVVHJXZ24xMU0taGJ6NXE1ZkswWTAzZE5wNU9C?oc=5",
+          "source": "Google News",
+          "published": "Tue, 15 Sep 2026 01:45:00 GMT"
         }
       ]
     },
     {
-      "word": "제넨셀",
-      "count": 1,
+      "word": "사우디",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "제넨셀 영장 기각 판사…김성수 대법관 후보자 \"사실이면 엄중 징계\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNVJsVVFhcmhZbFpsUDRFNldiaFNnTTF6cUF4eUMxVnl0T0V6ck9WbTJMUG9nNml4eW8xQ0N3Wk1tSnpHS3k3cU1JRk03OC1FRFpEcWN4U0RmRGpBcmxjLVlSSWw2NmtXeXBILTRhM2FPWkhpdVhheEtpODA2aXRibEpSMWpFY2c?oc=5",
+          "title": "사우디 송유관 폐쇄에 미 경유값 최고치…백악관도 ’촉각’ - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDbTQtUnM2c1VoeER4U2NoRVgwdUZzbkFVNmZjOW96cUZZRGlBbHdIN2J6MmVpYmZFTnFFclhCWXFUUjB2OE5INmVETVFYRUVLNTVBZEVtVHBWYlNDVTBnZWZJcEZET2c?oc=5",
           "source": "Google News",
-          "published": "Mon, 14 Sep 2026 09:10:00 GMT"
+          "published": "Tue, 15 Sep 2026 02:48:00 GMT"
+        },
+        {
+          "title": "사우디 송유관 피격에 11월 이후 국내 원유 수급 '빨간불' - 한국무역협회-KITA.NET",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVThqc1c1Tm1sdkdMWmY2clNqeXd5ZGNVcUcxT1REcUtVdl9hN3pCTUZicXJSc0RBZU1TTWk2YnVVUDBKVk5jSVZBYm5WQkozTVM4R2pNYjlpSlozN2JOWFRkeFpRbUhUclczTW5WZURLSDdRRTJKdnZKQ1ZXaHFmbGVnSzlzU3dNcC16UHRsS3dzSkJYVW44RXB6QzhIMndKMkxTX3dtVEp4cmJ5RXNVM3hlLXJzcUVOZnoyZW0wanVYM2Vwa1daSjk4aVpDajBfbkY0QkNB?oc=5",
+          "source": "Google News",
+          "published": "Tue, 15 Sep 2026 02:00:37 GMT"
         }
       ]
     },
     {
-      "word": "영장",
-      "count": 1,
+      "word": "송유관",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "제넨셀 영장 기각 판사…김성수 대법관 후보자 \"사실이면 엄중 징계\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNVJsVVFhcmhZbFpsUDRFNldiaFNnTTF6cUF4eUMxVnl0T0V6ck9WbTJMUG9nNml4eW8xQ0N3Wk1tSnpHS3k3cU1JRk03OC1FRFpEcWN4U0RmRGpBcmxjLVlSSWw2NmtXeXBILTRhM2FPWkhpdVhheEtpODA2aXRibEpSMWpFY2c?oc=5",
+          "title": "사우디 송유관 폐쇄에 미 경유값 최고치…백악관도 ’촉각’ - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDbTQtUnM2c1VoeER4U2NoRVgwdUZzbkFVNmZjOW96cUZZRGlBbHdIN2J6MmVpYmZFTnFFclhCWXFUUjB2OE5INmVETVFYRUVLNTVBZEVtVHBWYlNDVTBnZWZJcEZET2c?oc=5",
           "source": "Google News",
-          "published": "Mon, 14 Sep 2026 09:10:00 GMT"
+          "published": "Tue, 15 Sep 2026 02:48:00 GMT"
+        },
+        {
+          "title": "사우디 송유관 피격에 11월 이후 국내 원유 수급 '빨간불' - 한국무역협회-KITA.NET",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVThqc1c1Tm1sdkdMWmY2clNqeXd5ZGNVcUcxT1REcUtVdl9hN3pCTUZicXJSc0RBZU1TTWk2YnVVUDBKVk5jSVZBYm5WQkozTVM4R2pNYjlpSlozN2JOWFRkeFpRbUhUclczTW5WZURLSDdRRTJKdnZKQ1ZXaHFmbGVnSzlzU3dNcC16UHRsS3dzSkJYVW44RXB6QzhIMndKMkxTX3dtVEp4cmJ5RXNVM3hlLXJzcUVOZnoyZW0wanVYM2Vwa1daSjk4aVpDajBfbkY0QkNB?oc=5",
+          "source": "Google News",
+          "published": "Tue, 15 Sep 2026 02:00:37 GMT"
         }
       ]
     },
     {
-      "word": "기각",
-      "count": 1,
+      "word": "여성",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "제넨셀 영장 기각 판사…김성수 대법관 후보자 \"사실이면 엄중 징계\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNVJsVVFhcmhZbFpsUDRFNldiaFNnTTF6cUF4eUMxVnl0T0V6ck9WbTJMUG9nNml4eW8xQ0N3Wk1tSnpHS3k3cU1JRk03OC1FRFpEcWN4U0RmRGpBcmxjLVlSSWw2NmtXeXBILTRhM2FPWkhpdVhheEtpODA2aXRibEpSMWpFY2c?oc=5",
+          "title": "서울 곳곳서 여성 27명 불법 촬영... 中 관광객 재판행 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ1BiclRmTm5YODNZeHVsTkZQUUhqb05fVFdRWHE4eFRIMzRybUE3LXIzUXJzVXpyWGY0QWhjb0ZTQ28yVnlHdzFuXzNsWGNPUlhqWVY2TDJEdmRYUW5LUk93MlRyQUFfM1F5VDJfeDF6UWI5Rjg4MEJ5dFAxQjhkMWZGVFpMT2U4a1BiWU9WSl8?oc=5",
           "source": "Google News",
-          "published": "Mon, 14 Sep 2026 09:10:00 GMT"
+          "published": "Tue, 15 Sep 2026 00:54:00 GMT"
+        },
+        {
+          "title": "갱년기 여성 불면증, 호르몬 변화만이 아니다…수면무호흡증도 원인 - 이코노미사이언스",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDT3ZtMWdRU2lEYlVZbkhtNmFFdmxrMmpMN1lmemJyRnRYUWs4cmswYUNVekdZN25FVzZRV2hsZVVXU19PMUllbC1VQjNYbmRJMWJtb1ZYRjhRQVdzTkR3M3UxM3NKdW1ucHJKeFVPZw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 15 Sep 2026 01:31:22 GMT"
         }
       ]
     },
     {
-      "word": "판사김성수",
-      "count": 1,
+      "word": "앞두",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "제넨셀 영장 기각 판사…김성수 대법관 후보자 \"사실이면 엄중 징계\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNVJsVVFhcmhZbFpsUDRFNldiaFNnTTF6cUF4eUMxVnl0T0V6ck9WbTJMUG9nNml4eW8xQ0N3Wk1tSnpHS3k3cU1JRk03OC1FRFpEcWN4U0RmRGpBcmxjLVlSSWw2NmtXeXBILTRhM2FPWkhpdVhheEtpODA2aXRibEpSMWpFY2c?oc=5",
+          "title": "서울시, 버스 파업 앞두고 비상수송대책 점검‥\"행정력 총동원\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JN1NpRGNtYkxGQ1NSZmFTcWpqaHU2eTV4NklqZzk4YTlOdjkzS1R4bkZOcnNvaXFOemFueEhqeUpnekZuTlJ0M1p2LWdxNWJRLUZvS1NfaGYxWmwzN3lLYkw2UTZGaWczUUhQZFZfLTdXcUplMENJ0gF3QVVfeXFMTS1qeUd4WmxCOW5KcUNvYXFtaFZiTnM5Z1V4c3hoWkN4VElMb2xwR2ZhM290REdkVlFqT3lteTFlWmJsaTBFeGJxSWthT0ttVFJDQnAxSzhfMU80aHdnbUZYOHNUUGtlS01kQzRqcHZyUmF1Y0lQclE?oc=5",
           "source": "Google News",
-          "published": "Mon, 14 Sep 2026 09:10:00 GMT"
+          "published": "Tue, 15 Sep 2026 01:51:20 GMT"
+        },
+        {
+          "title": "美 중간선거 50일 앞두고 금리 인상 유력… \"트럼프·워시 허니문 끝날 것\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcXZ1aGFrbkdWcERrSVR4SjVzQXZsTGhaaW1yRWhPbFRoSkxrY01kMndUOTVvOFd6TzlxSUxPUGlSVUlOYjYtNWM1Y1JaajI2bW1JU1JrNE5oeFR4OHVWSUsyNzJRWmFId3pISmtWVTlyOXNpY2dUazdCUm9KYkZMTWQ2X2drWWpP?oc=5",
+          "source": "Google News",
+          "published": "Mon, 14 Sep 2026 20:34:00 GMT"
         }
       ]
     },
     {
-      "word": "대법관",
-      "count": 1,
+      "word": "이란",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "제넨셀 영장 기각 판사…김성수 대법관 후보자 \"사실이면 엄중 징계\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNVJsVVFhcmhZbFpsUDRFNldiaFNnTTF6cUF4eUMxVnl0T0V6ck9WbTJMUG9nNml4eW8xQ0N3Wk1tSnpHS3k3cU1JRk03OC1FRFpEcWN4U0RmRGpBcmxjLVlSSWw2NmtXeXBILTRhM2FPWkhpdVhheEtpODA2aXRibEpSMWpFY2c?oc=5",
+          "title": "이란 혁명수비대 \"호르무즈서 초대형 유조선 기뢰 충돌해 폭발\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xSFNsZ29adlIzdzlwUEU0b2xfMXhoR09hX3oxVDQwaHF2eXRYWWc3dnBRcDNNVXVlcUZoYXVVZ2dHWEd1YUNKMDdUcUExQjFaTVU0MDRld3pjU3AtUXdNYjZpYk44Vkk?oc=5",
           "source": "Google News",
-          "published": "Mon, 14 Sep 2026 09:10:00 GMT"
+          "published": "Mon, 14 Sep 2026 20:41:00 GMT"
+        },
+        {
+          "title": "트럼프 대통령 “이란과 협상에 열려 있어…호르무즈 통과 비용 미국에 부담해야” - voakorea.com",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMTJwRkR2NVUtMWZURnNGLXU2N0JaTlJrMGtLOGZJYlN1cVlMY3l4bmhjeG96RXV2YWlEOU56cTVrV0lNcEFVQXBhV1g3Z1Jxd2pDZk45ckd0d1M4OW45SjJNU3J0RXV3dXNlNHFkMWpEem95UDJZcWNHazJnTnJNUFA4dVlNUThpeVhZdG8wNjNVSlRMUl9Ma3VYLW1uVFQ2VVVzbzRR0gGoAUFVX3lxTE9FTm9qYXNUSkExYU95Nk1EeW1XenY5cVZIMzdmb3RjLU9La2Z6dXNWTGdHQjRqVEl5cE9fQzdYRWVLemN5RWx6SWtRWkQ3bk1jVHgxRTR0cmJPWWN5TXlBaUljTHlyOGJTZzJwNm50RjMzT0NTcU4tWHdZVFR0ZUVRdWdqQ2t1amE4ZzlIcTkxQ1lGS0VrYURKT1NCODlQLWlRcV9sMngzQw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 14 Sep 2026 18:38:12 GMT"
         }
       ]
     },
     {
-      "word": "사실이면",
-      "count": 1,
+      "word": "금리",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "제넨셀 영장 기각 판사…김성수 대법관 후보자 \"사실이면 엄중 징계\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNVJsVVFhcmhZbFpsUDRFNldiaFNnTTF6cUF4eUMxVnl0T0V6ck9WbTJMUG9nNml4eW8xQ0N3Wk1tSnpHS3k3cU1JRk03OC1FRFpEcWN4U0RmRGpBcmxjLVlSSWw2NmtXeXBILTRhM2FPWkhpdVhheEtpODA2aXRibEpSMWpFY2c?oc=5",
+          "title": "미 10년물 국채 금리 5% 돌파…반도체주 급락 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oU0QzYkhPaHZVaUY4azNSLWtQRWpxU3VkMnZwcllHc25WWTNiaFhGTHQwWnI5RlBvSkFELVREbHYtMElFUUluYmNJQWdobjk2Z3VwWjZfVUwxbGM?oc=5",
           "source": "Google News",
-          "published": "Mon, 14 Sep 2026 09:10:00 GMT"
+          "published": "Mon, 14 Sep 2026 22:14:00 GMT"
+        },
+        {
+          "title": "美 중간선거 50일 앞두고 금리 인상 유력… \"트럼프·워시 허니문 끝날 것\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcXZ1aGFrbkdWcERrSVR4SjVzQXZsTGhaaW1yRWhPbFRoSkxrY01kMndUOTVvOFd6TzlxSUxPUGlSVUlOYjYtNWM1Y1JaajI2bW1JU1JrNE5oeFR4OHVWSUsyNzJRWmFId3pISmtWVTlyOXNpY2dUazdCUm9KYkZMTWQ2X2drWWpP?oc=5",
+          "source": "Google News",
+          "published": "Mon, 14 Sep 2026 20:34:00 GMT"
         }
       ]
     },
     {
-      "word": "엄중",
-      "count": 1,
+      "word": "경로",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "제넨셀 영장 기각 판사…김성수 대법관 후보자 \"사실이면 엄중 징계\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNVJsVVFhcmhZbFpsUDRFNldiaFNnTTF6cUF4eUMxVnl0T0V6ck9WbTJMUG9nNml4eW8xQ0N3Wk1tSnpHS3k3cU1JRk03OC1FRFpEcWN4U0RmRGpBcmxjLVlSSWw2NmtXeXBILTRhM2FPWkhpdVhheEtpODA2aXRibEpSMWpFY2c?oc=5",
+          "title": "루이소체치매, 진행 경로 두 가지로 구분된다 - 의학신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81LUNRTmhRWHFoenFCVTE3eVBKeXBzbnhucUdVUmg0X0k4UEJsNVBGZ2xQeVVfVVhmeERGMkx1REJIejhNdXBiQ3Bud2xpaU41SjlMQlB6SVZXUEdkRkVWR1ZlR2l3RjNDMHc?oc=5",
           "source": "Google News",
-          "published": "Mon, 14 Sep 2026 09:10:00 GMT"
+          "published": "Tue, 15 Sep 2026 01:36:40 GMT"
+        },
+        {
+          "title": "'독성물질'이 뇌 청소 돕는다…KIST, 치매 치료 새 경로 규명 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CVzRsamdJZ2w0NXMxMVZOWnVSN1dXcTU1Nkp4SnVyWFh5c1FSQUh5blRPVXlueHVLR2lMNk1GU2J0a3h6Ym5ITWQ3M0lhRTRQZnY0a1l1d1FXSXPSAWBBVV95cUxPM201dG9oeF92dE1BWEpVbEVBYTJjNjVISXAyUmhUbHVmOFEtTUFpSGNVdlJXRkxQandTR0NtTDV0ODVUQUJIS2NjNFcxS19HSEN3a1VsV0NpUjZqZUg5RGc?oc=5",
+          "source": "Google News",
+          "published": "Tue, 15 Sep 2026 03:00:20 GMT"
         }
       ]
     },
     {
-      "word": "징계",
+      "word": "단독식약처장",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "제넨셀 영장 기각 판사…김성수 대법관 후보자 \"사실이면 엄중 징계\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNVJsVVFhcmhZbFpsUDRFNldiaFNnTTF6cUF4eUMxVnl0T0V6ck9WbTJMUG9nNml4eW8xQ0N3Wk1tSnpHS3k3cU1JRk03OC1FRFpEcWN4U0RmRGpBcmxjLVlSSWw2NmtXeXBILTRhM2FPWkhpdVhheEtpODA2aXRibEpSMWpFY2c?oc=5",
+          "title": "[단독]식약처장 비서, 검찰에 “국회의원 청탁은 김승원뿐…‘국부유출’은 말도 안되는 내용” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhWEFXVTFWdFVsNGZGT2RWSDVsR1MwSV83TTQ5U0ZidnRJVm1TMWlGc1YtSGlYUFFONTBhR3JjOTYzTUo2dUFCN1lYMDEycGl3eVUyWTEwRTRfZ9IBX0FVX3lxTFAyRHJ6UmpVUVFFRjhNRGJHX25OZ2Y5QXdIWG9ZWEk3dEpKNWhjRWVlOElJQzZiLTQ3TEl6LU1HT29HM0Y4aGJKTnNZYlFqbTlmT2pfVUk0UkRVMW01dTYw?oc=5",
           "source": "Google News",
-          "published": "Mon, 14 Sep 2026 09:10:00 GMT"
+          "published": "Tue, 15 Sep 2026 02:04:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "비서",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[단독]식약처장 비서, 검찰에 “국회의원 청탁은 김승원뿐…‘국부유출’은 말도 안되는 내용” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhWEFXVTFWdFVsNGZGT2RWSDVsR1MwSV83TTQ5U0ZidnRJVm1TMWlGc1YtSGlYUFFONTBhR3JjOTYzTUo2dUFCN1lYMDEycGl3eVUyWTEwRTRfZ9IBX0FVX3lxTFAyRHJ6UmpVUVFFRjhNRGJHX25OZ2Y5QXdIWG9ZWEk3dEpKNWhjRWVlOElJQzZiLTQ3TEl6LU1HT29HM0Y4aGJKTnNZYlFqbTlmT2pfVUk0UkRVMW01dTYw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 15 Sep 2026 02:04:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "검찰",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[단독]식약처장 비서, 검찰에 “국회의원 청탁은 김승원뿐…‘국부유출’은 말도 안되는 내용” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhWEFXVTFWdFVsNGZGT2RWSDVsR1MwSV83TTQ5U0ZidnRJVm1TMWlGc1YtSGlYUFFONTBhR3JjOTYzTUo2dUFCN1lYMDEycGl3eVUyWTEwRTRfZ9IBX0FVX3lxTFAyRHJ6UmpVUVFFRjhNRGJHX25OZ2Y5QXdIWG9ZWEk3dEpKNWhjRWVlOElJQzZiLTQ3TEl6LU1HT29HM0Y4aGJKTnNZYlFqbTlmT2pfVUk0UkRVMW01dTYw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 15 Sep 2026 02:04:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "국회의원",
+      "count": 1,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "[단독]식약처장 비서, 검찰에 “국회의원 청탁은 김승원뿐…‘국부유출’은 말도 안되는 내용” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhWEFXVTFWdFVsNGZGT2RWSDVsR1MwSV83TTQ5U0ZidnRJVm1TMWlGc1YtSGlYUFFONTBhR3JjOTYzTUo2dUFCN1lYMDEycGl3eVUyWTEwRTRfZ9IBX0FVX3lxTFAyRHJ6UmpVUVFFRjhNRGJHX25OZ2Y5QXdIWG9ZWEk3dEpKNWhjRWVlOElJQzZiLTQ3TEl6LU1HT29HM0Y4aGJKTnNZYlFqbTlmT2pfVUk0UkRVMW01dTYw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 15 Sep 2026 02:04:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "청탁",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[단독]식약처장 비서, 검찰에 “국회의원 청탁은 김승원뿐…‘국부유출’은 말도 안되는 내용” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhWEFXVTFWdFVsNGZGT2RWSDVsR1MwSV83TTQ5U0ZidnRJVm1TMWlGc1YtSGlYUFFONTBhR3JjOTYzTUo2dUFCN1lYMDEycGl3eVUyWTEwRTRfZ9IBX0FVX3lxTFAyRHJ6UmpVUVFFRjhNRGJHX25OZ2Y5QXdIWG9ZWEk3dEpKNWhjRWVlOElJQzZiLTQ3TEl6LU1HT29HM0Y4aGJKTnNZYlFqbTlmT2pfVUk0UkRVMW01dTYw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 15 Sep 2026 02:04:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "김승원뿐국부유출",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[단독]식약처장 비서, 검찰에 “국회의원 청탁은 김승원뿐…‘국부유출’은 말도 안되는 내용” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhWEFXVTFWdFVsNGZGT2RWSDVsR1MwSV83TTQ5U0ZidnRJVm1TMWlGc1YtSGlYUFFONTBhR3JjOTYzTUo2dUFCN1lYMDEycGl3eVUyWTEwRTRfZ9IBX0FVX3lxTFAyRHJ6UmpVUVFFRjhNRGJHX25OZ2Y5QXdIWG9ZWEk3dEpKNWhjRWVlOElJQzZiLTQ3TEl6LU1HT29HM0Y4aGJKTnNZYlFqbTlmT2pfVUk0UkRVMW01dTYw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 15 Sep 2026 02:04:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "말도",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[단독]식약처장 비서, 검찰에 “국회의원 청탁은 김승원뿐…‘국부유출’은 말도 안되는 내용” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhWEFXVTFWdFVsNGZGT2RWSDVsR1MwSV83TTQ5U0ZidnRJVm1TMWlGc1YtSGlYUFFONTBhR3JjOTYzTUo2dUFCN1lYMDEycGl3eVUyWTEwRTRfZ9IBX0FVX3lxTFAyRHJ6UmpVUVFFRjhNRGJHX25OZ2Y5QXdIWG9ZWEk3dEpKNWhjRWVlOElJQzZiLTQ3TEl6LU1HT29HM0Y4aGJKTnNZYlFqbTlmT2pfVUk0UkRVMW01dTYw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 15 Sep 2026 02:04:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "안되",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[단독]식약처장 비서, 검찰에 “국회의원 청탁은 김승원뿐…‘국부유출’은 말도 안되는 내용” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhWEFXVTFWdFVsNGZGT2RWSDVsR1MwSV83TTQ5U0ZidnRJVm1TMWlGc1YtSGlYUFFONTBhR3JjOTYzTUo2dUFCN1lYMDEycGl3eVUyWTEwRTRfZ9IBX0FVX3lxTFAyRHJ6UmpVUVFFRjhNRGJHX25OZ2Y5QXdIWG9ZWEk3dEpKNWhjRWVlOElJQzZiLTQ3TEl6LU1HT29HM0Y4aGJKTnNZYlFqbTlmT2pfVUk0UkRVMW01dTYw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 15 Sep 2026 02:04:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "인사청문회",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김승원 인사청문회 ‘한동훈 정조준’…“수사 정보 정치적 이용 바로잡겠다” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PMzhJT3FVVWoyM1FiVjlKLWdreldwTWNZd2t0dzI5dnR6N3pPN3V3R05kQXFYeVVzcnlGTXpVc294UEJ2XzBEb3Bfazl2SS1LMG9FRF8tQ0RKdTlQUmlMcm04UFlxb1pqLVp0RW9vUWNUZw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 15 Sep 2026 02:35:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "정조준수사",
+      "count": 1,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "김승원 인사청문회 ‘한동훈 정조준’…“수사 정보 정치적 이용 바로잡겠다” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PMzhJT3FVVWoyM1FiVjlKLWdreldwTWNZd2t0dzI5dnR6N3pPN3V3R05kQXFYeVVzcnlGTXpVc294UEJ2XzBEb3Bfazl2SS1LMG9FRF8tQ0RKdTlQUmlMcm04UFlxb1pqLVp0RW9vUWNUZw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 15 Sep 2026 02:35:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "정보",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김승원 인사청문회 ‘한동훈 정조준’…“수사 정보 정치적 이용 바로잡겠다” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PMzhJT3FVVWoyM1FiVjlKLWdreldwTWNZd2t0dzI5dnR6N3pPN3V3R05kQXFYeVVzcnlGTXpVc294UEJ2XzBEb3Bfazl2SS1LMG9FRF8tQ0RKdTlQUmlMcm04UFlxb1pqLVp0RW9vUWNUZw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 15 Sep 2026 02:35:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "정치",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김승원 인사청문회 ‘한동훈 정조준’…“수사 정보 정치적 이용 바로잡겠다” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PMzhJT3FVVWoyM1FiVjlKLWdreldwTWNZd2t0dzI5dnR6N3pPN3V3R05kQXFYeVVzcnlGTXpVc294UEJ2XzBEb3Bfazl2SS1LMG9FRF8tQ0RKdTlQUmlMcm04UFlxb1pqLVp0RW9vUWNUZw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 15 Sep 2026 02:35:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "이용",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김승원 인사청문회 ‘한동훈 정조준’…“수사 정보 정치적 이용 바로잡겠다” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PMzhJT3FVVWoyM1FiVjlKLWdreldwTWNZd2t0dzI5dnR6N3pPN3V3R05kQXFYeVVzcnlGTXpVc294UEJ2XzBEb3Bfazl2SS1LMG9FRF8tQ0RKdTlQUmlMcm04UFlxb1pqLVp0RW9vUWNUZw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 15 Sep 2026 02:35:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "바로잡겠다",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김승원 인사청문회 ‘한동훈 정조준’…“수사 정보 정치적 이용 바로잡겠다” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PMzhJT3FVVWoyM1FiVjlKLWdreldwTWNZd2t0dzI5dnR6N3pPN3V3R05kQXFYeVVzcnlGTXpVc294UEJ2XzBEb3Bfazl2SS1LMG9FRF8tQ0RKdTlQUmlMcm04UFlxb1pqLVp0RW9vUWNUZw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 15 Sep 2026 02:35:00 GMT"
         }
       ]
     },
@@ -202,348 +387,205 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "김민석 “노무현 탄핵 전조와 비슷”…여권내 노선 갈등 또 과열 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xQWt2ZWxGZnNEUHZMSi00eTBCSU9rSXBVQzJRaDFYMmVZVTg0T0d1MEpDcV9jZEZKYmpTc09vQ0NUMDR6aUtjcGozQ2Vod3lPbi1XTjdaWUQ2aVRLMExlREF4MldiZEI1LVE5UU9TUmJLeXZE?oc=5",
+          "title": "김민석 “한동훈 어차피 법 심판 받을 것…국회 제명 대상서 당분간 빼기로” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TbzlZT210WnRqb21uRzZrbWNXT1FPaDdndnllSGZaWURPcGlhYkNCSW1SSTJNV2dCd3ozVlljdXpaNWZkei12T2pwZDN1REVUWnVjU0llNnpVVHJXZ24xMU0taGJ6NXE1ZkswWTAzZE5wNU9C?oc=5",
           "source": "Google News",
-          "published": "Mon, 14 Sep 2026 15:48:00 GMT"
+          "published": "Tue, 15 Sep 2026 01:45:00 GMT"
         }
       ]
     },
     {
-      "word": "노무현",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "김민석 “노무현 탄핵 전조와 비슷”…여권내 노선 갈등 또 과열 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xQWt2ZWxGZnNEUHZMSi00eTBCSU9rSXBVQzJRaDFYMmVZVTg0T0d1MEpDcV9jZEZKYmpTc09vQ0NUMDR6aUtjcGozQ2Vod3lPbi1XTjdaWUQ2aVRLMExlREF4MldiZEI1LVE5UU9TUmJLeXZE?oc=5",
-          "source": "Google News",
-          "published": "Mon, 14 Sep 2026 15:48:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "탄핵",
+      "word": "어차피",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김민석 “노무현 탄핵 전조와 비슷”…여권내 노선 갈등 또 과열 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xQWt2ZWxGZnNEUHZMSi00eTBCSU9rSXBVQzJRaDFYMmVZVTg0T0d1MEpDcV9jZEZKYmpTc09vQ0NUMDR6aUtjcGozQ2Vod3lPbi1XTjdaWUQ2aVRLMExlREF4MldiZEI1LVE5UU9TUmJLeXZE?oc=5",
+          "title": "김민석 “한동훈 어차피 법 심판 받을 것…국회 제명 대상서 당분간 빼기로” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TbzlZT210WnRqb21uRzZrbWNXT1FPaDdndnllSGZaWURPcGlhYkNCSW1SSTJNV2dCd3ozVlljdXpaNWZkei12T2pwZDN1REVUWnVjU0llNnpVVHJXZ24xMU0taGJ6NXE1ZkswWTAzZE5wNU9C?oc=5",
           "source": "Google News",
-          "published": "Mon, 14 Sep 2026 15:48:00 GMT"
+          "published": "Tue, 15 Sep 2026 01:45:00 GMT"
         }
       ]
     },
     {
-      "word": "전조",
+      "word": "심판",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김민석 “노무현 탄핵 전조와 비슷”…여권내 노선 갈등 또 과열 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xQWt2ZWxGZnNEUHZMSi00eTBCSU9rSXBVQzJRaDFYMmVZVTg0T0d1MEpDcV9jZEZKYmpTc09vQ0NUMDR6aUtjcGozQ2Vod3lPbi1XTjdaWUQ2aVRLMExlREF4MldiZEI1LVE5UU9TUmJLeXZE?oc=5",
+          "title": "김민석 “한동훈 어차피 법 심판 받을 것…국회 제명 대상서 당분간 빼기로” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TbzlZT210WnRqb21uRzZrbWNXT1FPaDdndnllSGZaWURPcGlhYkNCSW1SSTJNV2dCd3ozVlljdXpaNWZkei12T2pwZDN1REVUWnVjU0llNnpVVHJXZ24xMU0taGJ6NXE1ZkswWTAzZE5wNU9C?oc=5",
           "source": "Google News",
-          "published": "Mon, 14 Sep 2026 15:48:00 GMT"
+          "published": "Tue, 15 Sep 2026 01:45:00 GMT"
         }
       ]
     },
     {
-      "word": "비슷여권내",
+      "word": "받을",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김민석 “노무현 탄핵 전조와 비슷”…여권내 노선 갈등 또 과열 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xQWt2ZWxGZnNEUHZMSi00eTBCSU9rSXBVQzJRaDFYMmVZVTg0T0d1MEpDcV9jZEZKYmpTc09vQ0NUMDR6aUtjcGozQ2Vod3lPbi1XTjdaWUQ2aVRLMExlREF4MldiZEI1LVE5UU9TUmJLeXZE?oc=5",
+          "title": "김민석 “한동훈 어차피 법 심판 받을 것…국회 제명 대상서 당분간 빼기로” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TbzlZT210WnRqb21uRzZrbWNXT1FPaDdndnllSGZaWURPcGlhYkNCSW1SSTJNV2dCd3ozVlljdXpaNWZkei12T2pwZDN1REVUWnVjU0llNnpVVHJXZ24xMU0taGJ6NXE1ZkswWTAzZE5wNU9C?oc=5",
           "source": "Google News",
-          "published": "Mon, 14 Sep 2026 15:48:00 GMT"
+          "published": "Tue, 15 Sep 2026 01:45:00 GMT"
         }
       ]
     },
     {
-      "word": "노선",
+      "word": "것국회",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김민석 “노무현 탄핵 전조와 비슷”…여권내 노선 갈등 또 과열 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xQWt2ZWxGZnNEUHZMSi00eTBCSU9rSXBVQzJRaDFYMmVZVTg0T0d1MEpDcV9jZEZKYmpTc09vQ0NUMDR6aUtjcGozQ2Vod3lPbi1XTjdaWUQ2aVRLMExlREF4MldiZEI1LVE5UU9TUmJLeXZE?oc=5",
+          "title": "김민석 “한동훈 어차피 법 심판 받을 것…국회 제명 대상서 당분간 빼기로” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TbzlZT210WnRqb21uRzZrbWNXT1FPaDdndnllSGZaWURPcGlhYkNCSW1SSTJNV2dCd3ozVlljdXpaNWZkei12T2pwZDN1REVUWnVjU0llNnpVVHJXZ24xMU0taGJ6NXE1ZkswWTAzZE5wNU9C?oc=5",
           "source": "Google News",
-          "published": "Mon, 14 Sep 2026 15:48:00 GMT"
+          "published": "Tue, 15 Sep 2026 01:45:00 GMT"
         }
       ]
     },
     {
-      "word": "갈등",
+      "word": "제명",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김민석 “노무현 탄핵 전조와 비슷”…여권내 노선 갈등 또 과열 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xQWt2ZWxGZnNEUHZMSi00eTBCSU9rSXBVQzJRaDFYMmVZVTg0T0d1MEpDcV9jZEZKYmpTc09vQ0NUMDR6aUtjcGozQ2Vod3lPbi1XTjdaWUQ2aVRLMExlREF4MldiZEI1LVE5UU9TUmJLeXZE?oc=5",
+          "title": "김민석 “한동훈 어차피 법 심판 받을 것…국회 제명 대상서 당분간 빼기로” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TbzlZT210WnRqb21uRzZrbWNXT1FPaDdndnllSGZaWURPcGlhYkNCSW1SSTJNV2dCd3ozVlljdXpaNWZkei12T2pwZDN1REVUWnVjU0llNnpVVHJXZ24xMU0taGJ6NXE1ZkswWTAzZE5wNU9C?oc=5",
           "source": "Google News",
-          "published": "Mon, 14 Sep 2026 15:48:00 GMT"
+          "published": "Tue, 15 Sep 2026 01:45:00 GMT"
         }
       ]
     },
     {
-      "word": "과열",
+      "word": "대상서",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김민석 “노무현 탄핵 전조와 비슷”…여권내 노선 갈등 또 과열 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xQWt2ZWxGZnNEUHZMSi00eTBCSU9rSXBVQzJRaDFYMmVZVTg0T0d1MEpDcV9jZEZKYmpTc09vQ0NUMDR6aUtjcGozQ2Vod3lPbi1XTjdaWUQ2aVRLMExlREF4MldiZEI1LVE5UU9TUmJLeXZE?oc=5",
+          "title": "김민석 “한동훈 어차피 법 심판 받을 것…국회 제명 대상서 당분간 빼기로” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TbzlZT210WnRqb21uRzZrbWNXT1FPaDdndnllSGZaWURPcGlhYkNCSW1SSTJNV2dCd3ozVlljdXpaNWZkei12T2pwZDN1REVUWnVjU0llNnpVVHJXZ24xMU0taGJ6NXE1ZkswWTAzZE5wNU9C?oc=5",
           "source": "Google News",
-          "published": "Mon, 14 Sep 2026 15:48:00 GMT"
+          "published": "Tue, 15 Sep 2026 01:45:00 GMT"
         }
       ]
     },
     {
-      "word": "국힘",
+      "word": "당분간",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "국힘 “김생용사 어불성설”…민주 “이슬만 먹고 사는 분 없어” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lZXZtcmFKUUFQN2VSbEQxMFBYalZhdkRoOVZsT3ZjY1pnUllXOS0zREQwOEV0SzMtOUN2X3VOOWFfVTRET2YzRmQ0Vy1OWGUwMzA4WEYxVVUyREduQ0JmTEFfTktmaGdyQ0FKYlM3UFdrNnRM?oc=5",
+          "title": "김민석 “한동훈 어차피 법 심판 받을 것…국회 제명 대상서 당분간 빼기로” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TbzlZT210WnRqb21uRzZrbWNXT1FPaDdndnllSGZaWURPcGlhYkNCSW1SSTJNV2dCd3ozVlljdXpaNWZkei12T2pwZDN1REVUWnVjU0llNnpVVHJXZ24xMU0taGJ6NXE1ZkswWTAzZE5wNU9C?oc=5",
           "source": "Google News",
-          "published": "Mon, 14 Sep 2026 08:46:00 GMT"
+          "published": "Tue, 15 Sep 2026 01:45:00 GMT"
         }
       ]
     },
     {
-      "word": "김생용사",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "국힘 “김생용사 어불성설”…민주 “이슬만 먹고 사는 분 없어” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lZXZtcmFKUUFQN2VSbEQxMFBYalZhdkRoOVZsT3ZjY1pnUllXOS0zREQwOEV0SzMtOUN2X3VOOWFfVTRET2YzRmQ0Vy1OWGUwMzA4WEYxVVUyREduQ0JmTEFfTktmaGdyQ0FKYlM3UFdrNnRM?oc=5",
-          "source": "Google News",
-          "published": "Mon, 14 Sep 2026 08:46:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "어불성설민주",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "국힘 “김생용사 어불성설”…민주 “이슬만 먹고 사는 분 없어” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lZXZtcmFKUUFQN2VSbEQxMFBYalZhdkRoOVZsT3ZjY1pnUllXOS0zREQwOEV0SzMtOUN2X3VOOWFfVTRET2YzRmQ0Vy1OWGUwMzA4WEYxVVUyREduQ0JmTEFfTktmaGdyQ0FKYlM3UFdrNnRM?oc=5",
-          "source": "Google News",
-          "published": "Mon, 14 Sep 2026 08:46:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "이슬",
+      "word": "빼기",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "국힘 “김생용사 어불성설”…민주 “이슬만 먹고 사는 분 없어” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lZXZtcmFKUUFQN2VSbEQxMFBYalZhdkRoOVZsT3ZjY1pnUllXOS0zREQwOEV0SzMtOUN2X3VOOWFfVTRET2YzRmQ0Vy1OWGUwMzA4WEYxVVUyREduQ0JmTEFfTktmaGdyQ0FKYlM3UFdrNnRM?oc=5",
+          "title": "김민석 “한동훈 어차피 법 심판 받을 것…국회 제명 대상서 당분간 빼기로” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TbzlZT210WnRqb21uRzZrbWNXT1FPaDdndnllSGZaWURPcGlhYkNCSW1SSTJNV2dCd3ozVlljdXpaNWZkei12T2pwZDN1REVUWnVjU0llNnpVVHJXZ24xMU0taGJ6NXE1ZkswWTAzZE5wNU9C?oc=5",
           "source": "Google News",
-          "published": "Mon, 14 Sep 2026 08:46:00 GMT"
+          "published": "Tue, 15 Sep 2026 01:45:00 GMT"
         }
       ]
     },
     {
-      "word": "먹고",
+      "word": "비상",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "국힘 “김생용사 어불성설”…민주 “이슬만 먹고 사는 분 없어” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lZXZtcmFKUUFQN2VSbEQxMFBYalZhdkRoOVZsT3ZjY1pnUllXOS0zREQwOEV0SzMtOUN2X3VOOWFfVTRET2YzRmQ0Vy1OWGUwMzA4WEYxVVUyREduQ0JmTEFfTktmaGdyQ0FKYlM3UFdrNnRM?oc=5",
+          "title": "\"비상 상황\" 추미애 선언에 직접 등판한 김동연…\"위기 아냐\" - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zRmJFZ0hZandoOEMyQzVBRFdhWS1UUUNZOG4yTThGb3R3eEU0RzAxNzZvUVphZmhyS2tkdGFwc2Zla2tQekQtWjV6VjdsUG53S0Q4ZWpLMC1RUQ?oc=5",
           "source": "Google News",
-          "published": "Mon, 14 Sep 2026 08:46:00 GMT"
+          "published": "Tue, 15 Sep 2026 00:47:40 GMT"
         }
       ]
     },
     {
-      "word": "사는",
+      "word": "추미애",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "국힘 “김생용사 어불성설”…민주 “이슬만 먹고 사는 분 없어” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lZXZtcmFKUUFQN2VSbEQxMFBYalZhdkRoOVZsT3ZjY1pnUllXOS0zREQwOEV0SzMtOUN2X3VOOWFfVTRET2YzRmQ0Vy1OWGUwMzA4WEYxVVUyREduQ0JmTEFfTktmaGdyQ0FKYlM3UFdrNnRM?oc=5",
+          "title": "\"비상 상황\" 추미애 선언에 직접 등판한 김동연…\"위기 아냐\" - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zRmJFZ0hZandoOEMyQzVBRFdhWS1UUUNZOG4yTThGb3R3eEU0RzAxNzZvUVphZmhyS2tkdGFwc2Zla2tQekQtWjV6VjdsUG53S0Q4ZWpLMC1RUQ?oc=5",
           "source": "Google News",
-          "published": "Mon, 14 Sep 2026 08:46:00 GMT"
+          "published": "Tue, 15 Sep 2026 00:47:40 GMT"
         }
       ]
     },
     {
-      "word": "없어",
+      "word": "선언",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "국힘 “김생용사 어불성설”…민주 “이슬만 먹고 사는 분 없어” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lZXZtcmFKUUFQN2VSbEQxMFBYalZhdkRoOVZsT3ZjY1pnUllXOS0zREQwOEV0SzMtOUN2X3VOOWFfVTRET2YzRmQ0Vy1OWGUwMzA4WEYxVVUyREduQ0JmTEFfTktmaGdyQ0FKYlM3UFdrNnRM?oc=5",
+          "title": "\"비상 상황\" 추미애 선언에 직접 등판한 김동연…\"위기 아냐\" - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zRmJFZ0hZandoOEMyQzVBRFdhWS1UUUNZOG4yTThGb3R3eEU0RzAxNzZvUVphZmhyS2tkdGFwc2Zla2tQekQtWjV6VjdsUG53S0Q4ZWpLMC1RUQ?oc=5",
           "source": "Google News",
-          "published": "Mon, 14 Sep 2026 08:46:00 GMT"
+          "published": "Tue, 15 Sep 2026 00:47:40 GMT"
         }
       ]
     },
     {
-      "word": "이러다",
+      "word": "직접",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"이러다 배민처럼 될라\" 공포에…발칵 뒤집힌 동네 약국들 - hankyung.com",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HelR0RDJlTGdvbGZfeWdDamU4ajl2UkhIYkw1MlZfcGNZZGF0Q0lxUTlaWlVNWmkxaEtOc0x2TUctQTcxVERwMmtYbTh4WjBMdzc0Z2h6S3FEdw?oc=5",
+          "title": "\"비상 상황\" 추미애 선언에 직접 등판한 김동연…\"위기 아냐\" - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zRmJFZ0hZandoOEMyQzVBRFdhWS1UUUNZOG4yTThGb3R3eEU0RzAxNzZvUVphZmhyS2tkdGFwc2Zla2tQekQtWjV6VjdsUG53S0Q4ZWpLMC1RUQ?oc=5",
           "source": "Google News",
-          "published": "Mon, 14 Sep 2026 11:00:02 GMT"
+          "published": "Tue, 15 Sep 2026 00:47:40 GMT"
         }
       ]
     },
     {
-      "word": "배민처럼",
+      "word": "등판",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"이러다 배민처럼 될라\" 공포에…발칵 뒤집힌 동네 약국들 - hankyung.com",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HelR0RDJlTGdvbGZfeWdDamU4ajl2UkhIYkw1MlZfcGNZZGF0Q0lxUTlaWlVNWmkxaEtOc0x2TUctQTcxVERwMmtYbTh4WjBMdzc0Z2h6S3FEdw?oc=5",
+          "title": "\"비상 상황\" 추미애 선언에 직접 등판한 김동연…\"위기 아냐\" - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zRmJFZ0hZandoOEMyQzVBRFdhWS1UUUNZOG4yTThGb3R3eEU0RzAxNzZvUVphZmhyS2tkdGFwc2Zla2tQekQtWjV6VjdsUG53S0Q4ZWpLMC1RUQ?oc=5",
           "source": "Google News",
-          "published": "Mon, 14 Sep 2026 11:00:02 GMT"
+          "published": "Tue, 15 Sep 2026 00:47:40 GMT"
         }
       ]
     },
     {
-      "word": "될라",
+      "word": "김동연위기",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"이러다 배민처럼 될라\" 공포에…발칵 뒤집힌 동네 약국들 - hankyung.com",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HelR0RDJlTGdvbGZfeWdDamU4ajl2UkhIYkw1MlZfcGNZZGF0Q0lxUTlaWlVNWmkxaEtOc0x2TUctQTcxVERwMmtYbTh4WjBMdzc0Z2h6S3FEdw?oc=5",
+          "title": "\"비상 상황\" 추미애 선언에 직접 등판한 김동연…\"위기 아냐\" - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zRmJFZ0hZandoOEMyQzVBRFdhWS1UUUNZOG4yTThGb3R3eEU0RzAxNzZvUVphZmhyS2tkdGFwc2Zla2tQekQtWjV6VjdsUG53S0Q4ZWpLMC1RUQ?oc=5",
           "source": "Google News",
-          "published": "Mon, 14 Sep 2026 11:00:02 GMT"
+          "published": "Tue, 15 Sep 2026 00:47:40 GMT"
         }
       ]
     },
     {
-      "word": "공포에발칵",
+      "word": "아냐",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"이러다 배민처럼 될라\" 공포에…발칵 뒤집힌 동네 약국들 - hankyung.com",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HelR0RDJlTGdvbGZfeWdDamU4ajl2UkhIYkw1MlZfcGNZZGF0Q0lxUTlaWlVNWmkxaEtOc0x2TUctQTcxVERwMmtYbTh4WjBMdzc0Z2h6S3FEdw?oc=5",
+          "title": "\"비상 상황\" 추미애 선언에 직접 등판한 김동연…\"위기 아냐\" - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zRmJFZ0hZandoOEMyQzVBRFdhWS1UUUNZOG4yTThGb3R3eEU0RzAxNzZvUVphZmhyS2tkdGFwc2Zla2tQekQtWjV6VjdsUG53S0Q4ZWpLMC1RUQ?oc=5",
           "source": "Google News",
-          "published": "Mon, 14 Sep 2026 11:00:02 GMT"
-        }
-      ]
-    },
-    {
-      "word": "뒤집힌",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "\"이러다 배민처럼 될라\" 공포에…발칵 뒤집힌 동네 약국들 - hankyung.com",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HelR0RDJlTGdvbGZfeWdDamU4ajl2UkhIYkw1MlZfcGNZZGF0Q0lxUTlaWlVNWmkxaEtOc0x2TUctQTcxVERwMmtYbTh4WjBMdzc0Z2h6S3FEdw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 14 Sep 2026 11:00:02 GMT"
-        }
-      ]
-    },
-    {
-      "word": "동네",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "\"이러다 배민처럼 될라\" 공포에…발칵 뒤집힌 동네 약국들 - hankyung.com",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HelR0RDJlTGdvbGZfeWdDamU4ajl2UkhIYkw1MlZfcGNZZGF0Q0lxUTlaWlVNWmkxaEtOc0x2TUctQTcxVERwMmtYbTh4WjBMdzc0Z2h6S3FEdw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 14 Sep 2026 11:00:02 GMT"
-        }
-      ]
-    },
-    {
-      "word": "약국",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "\"이러다 배민처럼 될라\" 공포에…발칵 뒤집힌 동네 약국들 - hankyung.com",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HelR0RDJlTGdvbGZfeWdDamU4ajl2UkhIYkw1MlZfcGNZZGF0Q0lxUTlaWlVNWmkxaEtOc0x2TUctQTcxVERwMmtYbTh4WjBMdzc0Z2h6S3FEdw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 14 Sep 2026 11:00:02 GMT"
-        }
-      ]
-    },
-    {
-      "word": "청와대",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "청와대, 김지용 중수청장 후보자 추가 검증…지명 철회는 미지수 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQQ09mTklfQ3lBSDY1OGd2Tk5ZeWhudTVKQ3l3TGtnby1DN09JZXFoN0F0djhUbS1QVTZCRzJaREpPM21JalZSR3hlZUF4bE00WHotaGpXZ2pKU3JEVm5PbkJub2ZqVE42UDRr?oc=5",
-          "source": "Google News",
-          "published": "Mon, 14 Sep 2026 15:52:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "김지용",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "청와대, 김지용 중수청장 후보자 추가 검증…지명 철회는 미지수 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQQ09mTklfQ3lBSDY1OGd2Tk5ZeWhudTVKQ3l3TGtnby1DN09JZXFoN0F0djhUbS1QVTZCRzJaREpPM21JalZSR3hlZUF4bE00WHotaGpXZ2pKU3JEVm5PbkJub2ZqVE42UDRr?oc=5",
-          "source": "Google News",
-          "published": "Mon, 14 Sep 2026 15:52:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "중수청장",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "청와대, 김지용 중수청장 후보자 추가 검증…지명 철회는 미지수 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQQ09mTklfQ3lBSDY1OGd2Tk5ZeWhudTVKQ3l3TGtnby1DN09JZXFoN0F0djhUbS1QVTZCRzJaREpPM21JalZSR3hlZUF4bE00WHotaGpXZ2pKU3JEVm5PbkJub2ZqVE42UDRr?oc=5",
-          "source": "Google News",
-          "published": "Mon, 14 Sep 2026 15:52:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "추가",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "청와대, 김지용 중수청장 후보자 추가 검증…지명 철회는 미지수 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQQ09mTklfQ3lBSDY1OGd2Tk5ZeWhudTVKQ3l3TGtnby1DN09JZXFoN0F0djhUbS1QVTZCRzJaREpPM21JalZSR3hlZUF4bE00WHotaGpXZ2pKU3JEVm5PbkJub2ZqVE42UDRr?oc=5",
-          "source": "Google News",
-          "published": "Mon, 14 Sep 2026 15:52:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "검증지명",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "청와대, 김지용 중수청장 후보자 추가 검증…지명 철회는 미지수 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQQ09mTklfQ3lBSDY1OGd2Tk5ZeWhudTVKQ3l3TGtnby1DN09JZXFoN0F0djhUbS1QVTZCRzJaREpPM21JalZSR3hlZUF4bE00WHotaGpXZ2pKU3JEVm5PbkJub2ZqVE42UDRr?oc=5",
-          "source": "Google News",
-          "published": "Mon, 14 Sep 2026 15:52:00 GMT"
+          "published": "Tue, 15 Sep 2026 00:47:40 GMT"
         }
       ]
     }
