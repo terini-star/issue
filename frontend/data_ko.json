@@ -1,169 +1,81 @@
 {
   "language": "ko",
-  "last_updated": 1789543983.0085583,
+  "last_updated": 1789564943.8028138,
   "count": 40,
   "trends": [
-    {
-      "word": "논란",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "강신철, ‘철거민 특공’ 논란에 “토지 수용돼 큰 손해 봐…정당한 보상” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tXzZzaGJJSkhxVVdjTzdkUEQ0ck93Ujh1U0FxSkdIZW1VQ1M5djc3dXBELUhZbFo3MVQ5Zmdzem9fTGxROTZySTFwWFd6SjhNOC01bkJxM0N1R3JVX04xU1RQdC1XVHBZ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 05:25:00 GMT"
-        },
-        {
-          "title": "'12억 관사' 추미애, 이번엔 7700만원 관용차 논란... 김동연 4개월 탄 차 두고 새로 구입 - hankookilbo.com",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JbXczRGtXRThMWTJxenFlNHRKdGJ5V3g5WU54XzB4MUxBN2E5U0ZYYWlDaVdIdVB5UDVuclJ1cWFEWk1zN3RNSUt6N2ZnVXBLMmRySkJBWWRtRDZsWlhPX3YwRXpBYzJKU1g2aVV30gFzQVVfeXFMUDNINUlWT1MwenQtLVBtem9PQ1VYRDhDNmYtY19DTXo1QzI2eHZQVGpOLU5rbEJJUVhqNTJFc1lSLXQ3dlY2WkM0MUpvbmotRVNZMHBHYUwtWTZVOFE3M1M4YWUwOGFER1hMaV9meUU0cHpfQQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 15 Sep 2026 09:30:00 GMT"
-        },
-        {
-          "title": "박위 침묵 속 송지은은 '눈물'…\"남편 논란 해결부터\" 지적도 - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YelNtMk9DTlpYRUIwQ0lQaEpKaDFrc1I0b3lKdXA5eWRqRkNkNGxGVTN4Yll6MzFjY0V6MllXUFNMbDZCSE5YZ01sTU4zOWJJRndsUlpKaXpfRktCcEdtOGZUQXNwXzhDX3V5d0s3R2lodkHSAXhBVV95cUxNNG1QY1BTS3ByOWhPQWVIU2ZLRXZ5SExPOXZaOHh0ajFuNHYtb3pHMVNVX2s2NDZZaHlHMkduMzVYeDExMFVaWDdZbExhWkpJODM3aFhoaXBEbnRidEpJLTJBSUx2MXdaRTBQR3J6U0pRV21pR183eGU?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 01:06:17 GMT"
-        }
-      ]
-    },
-    {
-      "word": "트럼프",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프 '에너지 휴전' 발표 하루 만에…러·우크라 또 공방(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lYnZRS0toXzlqc2lPZ0dRZnB0UkNCU25NWVVMUGh3VkhTbzdROWY4M1dZb1lHX0tYRjRWQXZXZVQ5R256N083NjY4X0xaNkNxOEVnVHpaN1daa0HSAWBBVV95cUxONGF2M2g5OGMwZVE1V0FXd002dW9hZkliWkZzR3JTZzJsRi1Ud09jWGVoQlBGd0Y2bUlkZzlHMWl2RFBtOUVLdEpkUjlWajVjUXdPUjZhLUhXeEdSZ2cyQU4?oc=5",
-          "source": "Google News",
-          "published": "Tue, 15 Sep 2026 10:24:38 GMT"
-        },
-        {
-          "title": "트럼프, 케네디센터 ‘폐쇄’…자신의 이름 추가 못하자 몽니 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbzlVQ2d6U0pZTUlMVWNLRURiRldFQ015N2NrWkV4eVBoaTRFYnVybk9FQ0t6aUNkeXIxd094TVlCRDhmb1pQVE1ERVdnUW1mU1hjZEpnaF9leHM2WFlLN1Bib21WNWxtT0FSRHJ6amxTNDdEZnRfOFR1c0t3WXl4MHRR?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 02:30:00 GMT"
-        },
-        {
-          "title": "트럼프 “‘AI 위험론’은 역겨운 음모…중국이 기뻐할 유일한 나라” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TVDJWWFJqSTVnNmZYVGxIM080V05SeW93VFpFTktCc093TWR1SDFoeDlmcl83RTZhS0ltUmotRURIUW9QdGpodmU2QTlycHBVemdrcDlLa3ItSHpKZWxBVDNGMVl1SmJORE9FVnBGVQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 15 Sep 2026 11:33:00 GMT"
-        }
-      ]
-    },
     {
       "word": "김승원",
       "count": 2,
       "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "참여연대 \"김승원 부적격\"...한동훈 \"임명 강행 시 거리로 나가야\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbERKQ3FJa3h5M2FQM05kWkFPQjBRTnB5WHkwY2RIQVhVYnVFYTVDT2NFNEViYmUwQlp0TGItbnVxekpJYXUySnhkc2pzYmRhTVBKX0otUnRRVHVlcDhCM2JPdFplNkViaXMwS1BXbG44bDAtRThkUFZoTWVza1EyV1EyNnY4N0FONFJwcTdsZnY?oc=5",
+          "title": "여 “적격” 야 “심판” 김승원 청문보고서 충돌 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tZjhuRjZ6cF9Sbjl1Y1VJS1Uxc3M3MnZUVzFvdE9PcmNnNWVwaFVJM193R1VvQmF5amZrdGFxMVRrTmQ3b2V1WHhfeXlmOEdUamJBZXByQUNIZ9IBX0FVX3lxTE1XZy04OER4b0prMElBVkd1eFdkb2RxLXc0d0RhelBNRlFHMGtxV3FEREFtS01iUFRfVDdKbmw5VldYcEIyamNfcWw4cWprLTNwWVh1M1AxdTBaeGVTWFEw?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 01:28:00 GMT"
+          "published": "Wed, 16 Sep 2026 12:04:00 GMT"
         },
         {
-          "title": "한동훈 “김승원 임명 땐 이 대통령 임기 못 마쳐…국민, 거리로 나갈 것” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RS1FPRDBmaEdOWmpxR3BzZ25YM3I5ekpvTkY1RUo0UTI2Q01kekRFZlBxaVI2aEtrZklUcHBSdWZqV2RDcHN6cGxKNDRTYldHTW0zLVJ6R1RrcUxoaXZaRzJUcTVUMkp0V2RsX2VKVU1FNTJk?oc=5",
+          "title": "[단독] 김승원, 정 판사 재판부 사건 수임…“안 했다” 청문회 해명과 배치 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHcjlhVkdNbVVmbU14RTEtR1czVjE1bEh2dlItZEVNV2xLclpYVXVfWERsd3gzTHJvc3JEbDRvTS1KaThzRnk2dUlEZ0RjQTRoaXk1czNsS2xuUmRldU1yWm5jNl9vejFEYUZOend6MXRoZw?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 01:41:00 GMT"
+          "published": "Wed, 16 Sep 2026 09:32:00 GMT"
         }
       ]
     },
     {
-      "word": "임명",
+      "word": "청문회",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "참여연대 \"김승원 부적격\"...한동훈 \"임명 강행 시 거리로 나가야\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbERKQ3FJa3h5M2FQM05kWkFPQjBRTnB5WHkwY2RIQVhVYnVFYTVDT2NFNEViYmUwQlp0TGItbnVxekpJYXUySnhkc2pzYmRhTVBKX0otUnRRVHVlcDhCM2JPdFplNkViaXMwS1BXbG44bDAtRThkUFZoTWVza1EyV1EyNnY4N0FONFJwcTdsZnY?oc=5",
+          "title": "[단독] 김승원, 정 판사 재판부 사건 수임…“안 했다” 청문회 해명과 배치 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHcjlhVkdNbVVmbU14RTEtR1czVjE1bEh2dlItZEVNV2xLclpYVXVfWERsd3gzTHJvc3JEbDRvTS1KaThzRnk2dUlEZ0RjQTRoaXk1czNsS2xuUmRldU1yWm5jNl9vejFEYUZOend6MXRoZw?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 01:28:00 GMT"
+          "published": "Wed, 16 Sep 2026 09:32:00 GMT"
         },
         {
-          "title": "한동훈 “김승원 임명 땐 이 대통령 임기 못 마쳐…국민, 거리로 나갈 것” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RS1FPRDBmaEdOWmpxR3BzZ25YM3I5ekpvTkY1RUo0UTI2Q01kekRFZlBxaVI2aEtrZklUcHBSdWZqV2RDcHN6cGxKNDRTYldHTW0zLVJ6R1RrcUxoaXZaRzJUcTVUMkp0V2RsX2VKVU1FNTJk?oc=5",
+          "title": "홍지선 청문회, ‘서울 집값’·‘잦은 전세’ 놓고 격돌 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fRnVPNjkyMkQ2VTZtU1FYUlFDOEUtSExsX0pJZjQ5WUcwbnF1MFJ3WXRvUE5TeWRXSGJlSWNqOE1yc0xlQ3RvbTFkU1RhM0hlNmRmYWVmb0F1TWs?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 01:41:00 GMT"
+          "published": "Wed, 16 Sep 2026 12:03:00 GMT"
         }
       ]
     },
     {
-      "word": "거리",
+      "word": "정식",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "참여연대 \"김승원 부적격\"...한동훈 \"임명 강행 시 거리로 나가야\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbERKQ3FJa3h5M2FQM05kWkFPQjBRTnB5WHkwY2RIQVhVYnVFYTVDT2NFNEViYmUwQlp0TGItbnVxekpJYXUySnhkc2pzYmRhTVBKX0otUnRRVHVlcDhCM2JPdFplNkViaXMwS1BXbG44bDAtRThkUFZoTWVza1EyV1EyNnY4N0FONFJwcTdsZnY?oc=5",
+          "title": "임신중지 약물 정식 도입 추진…낙태죄 헌법불합치 결정 7년 만 - 대한민국 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55N3JBUEdRVGIwbTVVb081ODVsN2x5UFhMd2Zvc0hTMjJhVHZFejRic1pxTXlhTTRQSklmUndXbGE0MXJwTmQ5S053TURuZWt5TEhaQ09mdExySC1SMVFsUkF3VndxRGlKbHNJTQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 01:28:00 GMT"
+          "published": "Wed, 16 Sep 2026 08:11:04 GMT"
         },
         {
-          "title": "한동훈 “김승원 임명 땐 이 대통령 임기 못 마쳐…국민, 거리로 나갈 것” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RS1FPRDBmaEdOWmpxR3BzZ25YM3I5ekpvTkY1RUo0UTI2Q01kekRFZlBxaVI2aEtrZklUcHBSdWZqV2RDcHN6cGxKNDRTYldHTW0zLVJ6R1RrcUxoaXZaRzJUcTVUMkp0V2RsX2VKVU1FNTJk?oc=5",
+          "title": "H2, 자겍스 생존 게임 ‘룬스케이프: 드래곤와일즈’ 정식 버전 출시 - ipnn.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iTFF1QjYtYUtEUjg3bEJWZ2xFSk9wVGlIWmtJYnh2RWd1T1d4S3JfdVZWU2NDWWo3ZUFoM202U0FiODRZR0ZoUlV0QTFqTkdJMmpyVmRJOEQwWEpqNjBzS1VQOUI4SU96?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 01:41:00 GMT"
+          "published": "Wed, 16 Sep 2026 09:44:47 GMT"
         }
       ]
     },
     {
-      "word": "7년",
+      "word": "미국서",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "임신중지 약물 7년 만에 정식 도입…내년 1분기 목표 - DongA Science",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJQzVfOGlycG45TmlKOFlwU3MwRk1sUnoteFdCanJVMU9JMWJPVE5DcVc1VnFCcUFKbjNGUjhpa2F5WjlIVXFhcXp4VnU4dDhvMGlpZw?oc=5",
+          "title": "로이터 \"SK하이닉스, 인텔과 미국서 메모리칩 생산 방안 협의 중\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0YU05VHA2TTdpM1NIZlQyMl91bGUzeEd1dVloQnhrLXU4b3JEWHVVUGpBd2JHcjRoOGJhNFlSS1Y1S1IwTFZMcENselZmazJFTXhDVDhpZEY1dkhQd2xrVll2eHU2WWM?oc=5",
           "source": "Google News",
-          "published": "Tue, 15 Sep 2026 15:00:00 GMT"
+          "published": "Wed, 16 Sep 2026 06:49:00 GMT"
         },
         {
-          "title": "[MLB] SF 이정후, '7년 만의 기록' 2루타 30개…SD 송성문 대수비·ATL 김하성 결장 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwb3kxUlVDeTE3VDVBakRkcjY1SDlsRmF3SVF2NzBnSTdJcGZXNTNYeE5kOFRJZ082YmNTSEpTWGhfZDVna002M0psa2tYMVAxcFJxV3BtMmpRZw?oc=5",
+          "title": "[아시안게임] 미국서 오자마자 출격…농구대표팀 하나로 묶은 최준용의 의지 - 연합뉴스 한민족센터",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAzcDFuV2dpREFWUVl3UUZIcGF4c3lGZTAxMFBlRUgzdnhUM3RQdWZTeDBQRXpWSDVBaDU0aFRpVjFuc1pscUVsTmxDX0NpS1VVN1c4eUtHZ1g4MjY5ZGxTNHdlNG4zOUFEVEFCZWlqdmNyVG9y?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 05:54:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "드론",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "사우디 \"성지 메카로 발사된 후티 드론 격추\" - imnews.imbc.com",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EeXNuTVZlZFZPUklsS2JmUGYybUZicV9xUFdyYUU0TWsyeTlmOXU0U1lWSFotT0RYRm1jaFFnZEpkbGhtRHgwRVY4ZUpsUUV6OHVLclJzY1JFbkRQYWx2cFpQeHRZU1ctUXB4U3VJbkFoUWU40gF0QVVfeXFMT3B2ZGpVSHF2OE1MOUhvVkN2LTdvVTd2T0k5UGVqT1BZbmd4cXFNV2FrOHg4T0habUVrZklwcHlZR0hWT0ZBWHlDbXVRT2lGVnpxUmZzbXFyY0w4eWo0azNQZGh4S3B2Wi1fVE50ZWptemNYTVk?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 01:40:00 GMT"
-        },
-        {
-          "title": "‘더 빠르고 매서워졌다’…러 제트 드론 800대 공습에 우크라 반격 카드 꺼냈다 [밀리터리노트] - 서울신문",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPN3hBNkd2cU1YT1NWeV91MkVzclpIb09Ga0R5Mi1Vc1VHZGcydXl2dm5ibEFsXzdtWExoNjQ3aVFWMGQyMkM4aXU5bi1oQi13d0Q2X0YxUlBITkliS2ZGdjQxdzVRSW15dTBDalk3SWhzZFUyVlZja1lPcWJ1dGptbQ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 05:31:09 GMT"
-        }
-      ]
-    },
-    {
-      "word": "추가",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프, 케네디센터 ‘폐쇄’…자신의 이름 추가 못하자 몽니 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbzlVQ2d6U0pZTUlMVWNLRURiRldFQ015N2NrWkV4eVBoaTRFYnVybk9FQ0t6aUNkeXIxd094TVlCRDhmb1pQVE1ERVdnUW1mU1hjZEpnaF9leHM2WFlLN1Bib21WNWxtT0FSRHJ6amxTNDdEZnRfOFR1c0t3WXl4MHRR?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 02:30:00 GMT"
-        },
-        {
-          "title": "[정보] 7일짜리 데스/다엘 투구 구매 가능! 픽시 깃털 상품 추가 - inven.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54d2x2cDRUYi1CUnM4RF95QktKcWliMnhETm5JMlJTRzdzUFhLX0t0VUxVX21HZDRNOGk1TzBzSE5hOERYZ1dWRV9tcVQ3NEFTaUtiZmdFM0d3S0FxblE?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 06:26:22 GMT"
+          "published": "Wed, 16 Sep 2026 08:23:22 GMT"
         }
       ]
     },
@@ -179,75 +91,321 @@
           "published": "Wed, 16 Sep 2026 06:35:00 GMT"
         },
         {
-          "title": "'한국전 선발 나올까?' 왕옌청, 5실점 난타…류지현 감독은 어떻게 봤을까 \"결국 당일 컨디션이 중요해\" [오!쎈 고척] - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdkNRUWNLMTFpOVllQTJnT2pIWXg5aWI4dVM4WHFsS19NWGJOQXNid0E4M1RqQ3pQY1BPRXFkZ00tV1lWUWQwZFdZS2xuYnFFZVpTXzUyT0NZSGkxOE8tVFFtOW5YZDI5anhoT3VEU1lsZUstNVI3UE1ta29LbUNxa3VVaw?oc=5",
+          "title": "[아시안게임] 차상현 여자배구대표팀 감독 \"고비 넘겼다…강소휘 많이 회복\" - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Rak5ReG44ejZBTnhjM0ItRTdVNzkyNm1RRG5qcThzekswSWpPbEQ5Nk5FaEtZcUVYSGMtM2pNcmpfQzZNSHFJR3JoSGxqcVIxLVVWc0QtSmpYcHPSAWBBVV95cUxPZVRIQ09YRDNwNkY5UEZmd0J1ay1qd185Ti1hVnZiUTdySUN2TEZlX1FCcEFMVWc3VjZJN1lRVkRjZlFFaDdTVm9BdEhWS2s5OTh6LWM4SVBJQVZhSzZGS1A?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 05:40:00 GMT"
+          "published": "Wed, 16 Sep 2026 09:14:11 GMT"
         }
       ]
     },
     {
-      "word": "참여연대",
+      "word": "아시안게임",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[아시안게임] 차상현 여자배구대표팀 감독 \"고비 넘겼다…강소휘 많이 회복\" - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Rak5ReG44ejZBTnhjM0ItRTdVNzkyNm1RRG5qcThzekswSWpPbEQ5Nk5FaEtZcUVYSGMtM2pNcmpfQzZNSHFJR3JoSGxqcVIxLVVWc0QtSmpYcHPSAWBBVV95cUxPZVRIQ09YRDNwNkY5UEZmd0J1ay1qd185Ti1hVnZiUTdySUN2TEZlX1FCcEFMVWc3VjZJN1lRVkRjZlFFaDdTVm9BdEhWS2s5OTh6LWM4SVBJQVZhSzZGS1A?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 09:14:11 GMT"
+        },
+        {
+          "title": "[아시안게임] 미국서 오자마자 출격…농구대표팀 하나로 묶은 최준용의 의지 - 연합뉴스 한민족센터",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAzcDFuV2dpREFWUVl3UUZIcGF4c3lGZTAxMFBlRUgzdnhUM3RQdWZTeDBQRXpWSDVBaDU0aFRpVjFuc1pscUVsTmxDX0NpS1VVN1c4eUtHZ1g4MjY5ZGxTNHdlNG4zOUFEVEFCZWlqdmNyVG9y?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 08:23:22 GMT"
+        }
+      ]
+    },
+    {
+      "word": "심혈관",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "2030 통풍 환자, 관절뿐 아니라 심혈관 건강도 살펴야···심방세동 위험 44% 높아 - doctorstimes.com",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YVHJRU1o5cWloQVVBZHFOY05qaUpVVHlwS0dJR080UURXWVhTbzVLc1RwNmplRGlhYzlGS3lnb3hzWFRnRm5hRG45TGRhYXpZRVhuLWpxeGhkM2tGU1dIUUJlNlRlZGJsWEdROF9KQQ?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 05:45:15 GMT"
+        },
+        {
+          "title": "유방암 좌측 방사선치료와 6개 심혈관 위험요인 - 데일리메디",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWMEtud3R2bnd1RkxxM3ZDM3JobzdWYngwdWlfQ3J1bEZFSVBiSDc2M3BkTjdaSmUzV0pRUVRuMEpOUmhQVWI1NklFbk5NYzNBOHdpRld2TnJnSWdpeEhkWThSMmRwdk1h?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 08:08:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "적격",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "참여연대 \"김승원 부적격\"...한동훈 \"임명 강행 시 거리로 나가야\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbERKQ3FJa3h5M2FQM05kWkFPQjBRTnB5WHkwY2RIQVhVYnVFYTVDT2NFNEViYmUwQlp0TGItbnVxekpJYXUySnhkc2pzYmRhTVBKX0otUnRRVHVlcDhCM2JPdFplNkViaXMwS1BXbG44bDAtRThkUFZoTWVza1EyV1EyNnY4N0FONFJwcTdsZnY?oc=5",
+          "title": "여 “적격” 야 “심판” 김승원 청문보고서 충돌 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tZjhuRjZ6cF9Sbjl1Y1VJS1Uxc3M3MnZUVzFvdE9PcmNnNWVwaFVJM193R1VvQmF5amZrdGFxMVRrTmQ3b2V1WHhfeXlmOEdUamJBZXByQUNIZ9IBX0FVX3lxTE1XZy04OER4b0prMElBVkd1eFdkb2RxLXc0d0RhelBNRlFHMGtxV3FEREFtS01iUFRfVDdKbmw5VldYcEIyamNfcWw4cWprLTNwWVh1M1AxdTBaeGVTWFEw?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 01:28:00 GMT"
+          "published": "Wed, 16 Sep 2026 12:04:00 GMT"
         }
       ]
     },
     {
-      "word": "부적격한동훈",
+      "word": "심판",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "참여연대 \"김승원 부적격\"...한동훈 \"임명 강행 시 거리로 나가야\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbERKQ3FJa3h5M2FQM05kWkFPQjBRTnB5WHkwY2RIQVhVYnVFYTVDT2NFNEViYmUwQlp0TGItbnVxekpJYXUySnhkc2pzYmRhTVBKX0otUnRRVHVlcDhCM2JPdFplNkViaXMwS1BXbG44bDAtRThkUFZoTWVza1EyV1EyNnY4N0FONFJwcTdsZnY?oc=5",
+          "title": "여 “적격” 야 “심판” 김승원 청문보고서 충돌 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tZjhuRjZ6cF9Sbjl1Y1VJS1Uxc3M3MnZUVzFvdE9PcmNnNWVwaFVJM193R1VvQmF5amZrdGFxMVRrTmQ3b2V1WHhfeXlmOEdUamJBZXByQUNIZ9IBX0FVX3lxTE1XZy04OER4b0prMElBVkd1eFdkb2RxLXc0d0RhelBNRlFHMGtxV3FEREFtS01iUFRfVDdKbmw5VldYcEIyamNfcWw4cWprLTNwWVh1M1AxdTBaeGVTWFEw?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 01:28:00 GMT"
+          "published": "Wed, 16 Sep 2026 12:04:00 GMT"
         }
       ]
     },
     {
-      "word": "강행",
+      "word": "청문보고서",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "참여연대 \"김승원 부적격\"...한동훈 \"임명 강행 시 거리로 나가야\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbERKQ3FJa3h5M2FQM05kWkFPQjBRTnB5WHkwY2RIQVhVYnVFYTVDT2NFNEViYmUwQlp0TGItbnVxekpJYXUySnhkc2pzYmRhTVBKX0otUnRRVHVlcDhCM2JPdFplNkViaXMwS1BXbG44bDAtRThkUFZoTWVza1EyV1EyNnY4N0FONFJwcTdsZnY?oc=5",
+          "title": "여 “적격” 야 “심판” 김승원 청문보고서 충돌 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tZjhuRjZ6cF9Sbjl1Y1VJS1Uxc3M3MnZUVzFvdE9PcmNnNWVwaFVJM193R1VvQmF5amZrdGFxMVRrTmQ3b2V1WHhfeXlmOEdUamJBZXByQUNIZ9IBX0FVX3lxTE1XZy04OER4b0prMElBVkd1eFdkb2RxLXc0d0RhelBNRlFHMGtxV3FEREFtS01iUFRfVDdKbmw5VldYcEIyamNfcWw4cWprLTNwWVh1M1AxdTBaeGVTWFEw?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 01:28:00 GMT"
+          "published": "Wed, 16 Sep 2026 12:04:00 GMT"
         }
       ]
     },
     {
-      "word": "나가야",
+      "word": "충돌",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "참여연대 \"김승원 부적격\"...한동훈 \"임명 강행 시 거리로 나가야\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbERKQ3FJa3h5M2FQM05kWkFPQjBRTnB5WHkwY2RIQVhVYnVFYTVDT2NFNEViYmUwQlp0TGItbnVxekpJYXUySnhkc2pzYmRhTVBKX0otUnRRVHVlcDhCM2JPdFplNkViaXMwS1BXbG44bDAtRThkUFZoTWVza1EyV1EyNnY4N0FONFJwcTdsZnY?oc=5",
+          "title": "여 “적격” 야 “심판” 김승원 청문보고서 충돌 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tZjhuRjZ6cF9Sbjl1Y1VJS1Uxc3M3MnZUVzFvdE9PcmNnNWVwaFVJM193R1VvQmF5amZrdGFxMVRrTmQ3b2V1WHhfeXlmOEdUamJBZXByQUNIZ9IBX0FVX3lxTE1XZy04OER4b0prMElBVkd1eFdkb2RxLXc0d0RhelBNRlFHMGtxV3FEREFtS01iUFRfVDdKbmw5VldYcEIyamNfcWw4cWprLTNwWVh1M1AxdTBaeGVTWFEw?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 01:28:00 GMT"
+          "published": "Wed, 16 Sep 2026 12:04:00 GMT"
         }
       ]
     },
     {
-      "word": "교육부",
+      "word": "1심",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "'1심 시장직 상실형' 오세훈 2심서 '명태균 녹음' 새롭게 등장 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uM0xDbEpaZEowU3VHam9KVW80VnNHaXFLRmJfWUozbVRzNzFobFlHZVdxdi1WTUV5MWU0VU1wb2V6cTVMSXNYRXk5T0dxaWlJaXNtSU03d1FqVUtxRmVnSEZhbHRYMGZOT2dMUmxPR1M4c3MwbDZZ0gF3QVVfeXFMTmJnS1lHQ2ctR0JTZmdPM1lVQXRGMkw0V1Q3azlGWk4tUzZWYVNpOVU2Sno5YWc4U3NJUjVIVFEwZG1wZVRXbnRZMzJhZ2IxWlMxaXExRFlHZW5QS2lNbThkRGJLU3V5XzFqS202dVlrSTFxMk92Qlk?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 09:05:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "시장직",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "'1심 시장직 상실형' 오세훈 2심서 '명태균 녹음' 새롭게 등장 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uM0xDbEpaZEowU3VHam9KVW80VnNHaXFLRmJfWUozbVRzNzFobFlHZVdxdi1WTUV5MWU0VU1wb2V6cTVMSXNYRXk5T0dxaWlJaXNtSU03d1FqVUtxRmVnSEZhbHRYMGZOT2dMUmxPR1M4c3MwbDZZ0gF3QVVfeXFMTmJnS1lHQ2ctR0JTZmdPM1lVQXRGMkw0V1Q3azlGWk4tUzZWYVNpOVU2Sno5YWc4U3NJUjVIVFEwZG1wZVRXbnRZMzJhZ2IxWlMxaXExRFlHZW5QS2lNbThkRGJLU3V5XzFqS202dVlrSTFxMk92Qlk?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 09:05:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "상실형",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "'1심 시장직 상실형' 오세훈 2심서 '명태균 녹음' 새롭게 등장 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uM0xDbEpaZEowU3VHam9KVW80VnNHaXFLRmJfWUozbVRzNzFobFlHZVdxdi1WTUV5MWU0VU1wb2V6cTVMSXNYRXk5T0dxaWlJaXNtSU03d1FqVUtxRmVnSEZhbHRYMGZOT2dMUmxPR1M4c3MwbDZZ0gF3QVVfeXFMTmJnS1lHQ2ctR0JTZmdPM1lVQXRGMkw0V1Q3azlGWk4tUzZWYVNpOVU2Sno5YWc4U3NJUjVIVFEwZG1wZVRXbnRZMzJhZ2IxWlMxaXExRFlHZW5QS2lNbThkRGJLU3V5XzFqS202dVlrSTFxMk92Qlk?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 09:05:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "오세훈",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "'1심 시장직 상실형' 오세훈 2심서 '명태균 녹음' 새롭게 등장 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uM0xDbEpaZEowU3VHam9KVW80VnNHaXFLRmJfWUozbVRzNzFobFlHZVdxdi1WTUV5MWU0VU1wb2V6cTVMSXNYRXk5T0dxaWlJaXNtSU03d1FqVUtxRmVnSEZhbHRYMGZOT2dMUmxPR1M4c3MwbDZZ0gF3QVVfeXFMTmJnS1lHQ2ctR0JTZmdPM1lVQXRGMkw0V1Q3azlGWk4tUzZWYVNpOVU2Sno5YWc4U3NJUjVIVFEwZG1wZVRXbnRZMzJhZ2IxWlMxaXExRFlHZW5QS2lNbThkRGJLU3V5XzFqS202dVlrSTFxMk92Qlk?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 09:05:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "2심서",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "'1심 시장직 상실형' 오세훈 2심서 '명태균 녹음' 새롭게 등장 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uM0xDbEpaZEowU3VHam9KVW80VnNHaXFLRmJfWUozbVRzNzFobFlHZVdxdi1WTUV5MWU0VU1wb2V6cTVMSXNYRXk5T0dxaWlJaXNtSU03d1FqVUtxRmVnSEZhbHRYMGZOT2dMUmxPR1M4c3MwbDZZ0gF3QVVfeXFMTmJnS1lHQ2ctR0JTZmdPM1lVQXRGMkw0V1Q3azlGWk4tUzZWYVNpOVU2Sno5YWc4U3NJUjVIVFEwZG1wZVRXbnRZMzJhZ2IxWlMxaXExRFlHZW5QS2lNbThkRGJLU3V5XzFqS202dVlrSTFxMk92Qlk?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 09:05:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "명태균",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "'1심 시장직 상실형' 오세훈 2심서 '명태균 녹음' 새롭게 등장 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uM0xDbEpaZEowU3VHam9KVW80VnNHaXFLRmJfWUozbVRzNzFobFlHZVdxdi1WTUV5MWU0VU1wb2V6cTVMSXNYRXk5T0dxaWlJaXNtSU03d1FqVUtxRmVnSEZhbHRYMGZOT2dMUmxPR1M4c3MwbDZZ0gF3QVVfeXFMTmJnS1lHQ2ctR0JTZmdPM1lVQXRGMkw0V1Q3azlGWk4tUzZWYVNpOVU2Sno5YWc4U3NJUjVIVFEwZG1wZVRXbnRZMzJhZ2IxWlMxaXExRFlHZW5QS2lNbThkRGJLU3V5XzFqS202dVlrSTFxMk92Qlk?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 09:05:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "녹음",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "'1심 시장직 상실형' 오세훈 2심서 '명태균 녹음' 새롭게 등장 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uM0xDbEpaZEowU3VHam9KVW80VnNHaXFLRmJfWUozbVRzNzFobFlHZVdxdi1WTUV5MWU0VU1wb2V6cTVMSXNYRXk5T0dxaWlJaXNtSU03d1FqVUtxRmVnSEZhbHRYMGZOT2dMUmxPR1M4c3MwbDZZ0gF3QVVfeXFMTmJnS1lHQ2ctR0JTZmdPM1lVQXRGMkw0V1Q3azlGWk4tUzZWYVNpOVU2Sno5YWc4U3NJUjVIVFEwZG1wZVRXbnRZMzJhZ2IxWlMxaXExRFlHZW5QS2lNbThkRGJLU3V5XzFqS202dVlrSTFxMk92Qlk?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 09:05:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "새롭게",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "'1심 시장직 상실형' 오세훈 2심서 '명태균 녹음' 새롭게 등장 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uM0xDbEpaZEowU3VHam9KVW80VnNHaXFLRmJfWUozbVRzNzFobFlHZVdxdi1WTUV5MWU0VU1wb2V6cTVMSXNYRXk5T0dxaWlJaXNtSU03d1FqVUtxRmVnSEZhbHRYMGZOT2dMUmxPR1M4c3MwbDZZ0gF3QVVfeXFMTmJnS1lHQ2ctR0JTZmdPM1lVQXRGMkw0V1Q3azlGWk4tUzZWYVNpOVU2Sno5YWc4U3NJUjVIVFEwZG1wZVRXbnRZMzJhZ2IxWlMxaXExRFlHZW5QS2lNbThkRGJLU3V5XzFqS202dVlrSTFxMk92Qlk?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 09:05:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "등장",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "'1심 시장직 상실형' 오세훈 2심서 '명태균 녹음' 새롭게 등장 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uM0xDbEpaZEowU3VHam9KVW80VnNHaXFLRmJfWUozbVRzNzFobFlHZVdxdi1WTUV5MWU0VU1wb2V6cTVMSXNYRXk5T0dxaWlJaXNtSU03d1FqVUtxRmVnSEZhbHRYMGZOT2dMUmxPR1M4c3MwbDZZ0gF3QVVfeXFMTmJnS1lHQ2ctR0JTZmdPM1lVQXRGMkw0V1Q3azlGWk4tUzZWYVNpOVU2Sno5YWc4U3NJUjVIVFEwZG1wZVRXbnRZMzJhZ2IxWlMxaXExRFlHZW5QS2lNbThkRGJLU3V5XzFqS202dVlrSTFxMk92Qlk?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 09:05:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "김민석",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김민석 “교섭단체 요건, 15석 정도가 현실적”…12석 혁신당 ‘부글’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TTE1vZ0VfbEU3SHVTVThKQTB0ZkNZYTUwaTJ4eGhpbTZaLTBkY2JCYk4wTjJzNFZReUhuRnBWc0JNWXFYLU1MZjNNZEQ1TGxOblpVdF9pWFYyQV9rek45djdPX2o5dUVORnptTnppTTVqa2xl?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 11:13:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "교섭단체",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김민석 “교섭단체 요건, 15석 정도가 현실적”…12석 혁신당 ‘부글’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TTE1vZ0VfbEU3SHVTVThKQTB0ZkNZYTUwaTJ4eGhpbTZaLTBkY2JCYk4wTjJzNFZReUhuRnBWc0JNWXFYLU1MZjNNZEQ1TGxOblpVdF9pWFYyQV9rek45djdPX2o5dUVORnptTnppTTVqa2xl?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 11:13:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "요건",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김민석 “교섭단체 요건, 15석 정도가 현실적”…12석 혁신당 ‘부글’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TTE1vZ0VfbEU3SHVTVThKQTB0ZkNZYTUwaTJ4eGhpbTZaLTBkY2JCYk4wTjJzNFZReUhuRnBWc0JNWXFYLU1MZjNNZEQ1TGxOblpVdF9pWFYyQV9rek45djdPX2o5dUVORnptTnppTTVqa2xl?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 11:13:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "15석",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김민석 “교섭단체 요건, 15석 정도가 현실적”…12석 혁신당 ‘부글’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TTE1vZ0VfbEU3SHVTVThKQTB0ZkNZYTUwaTJ4eGhpbTZaLTBkY2JCYk4wTjJzNFZReUhuRnBWc0JNWXFYLU1MZjNNZEQ1TGxOblpVdF9pWFYyQV9rek45djdPX2o5dUVORnptTnppTTVqa2xl?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 11:13:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "현실적12석",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김민석 “교섭단체 요건, 15석 정도가 현실적”…12석 혁신당 ‘부글’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TTE1vZ0VfbEU3SHVTVThKQTB0ZkNZYTUwaTJ4eGhpbTZaLTBkY2JCYk4wTjJzNFZReUhuRnBWc0JNWXFYLU1MZjNNZEQ1TGxOblpVdF9pWFYyQV9rek45djdPX2o5dUVORnptTnppTTVqa2xl?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 11:13:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "혁신당",
       "count": 1,
       "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "교육부 “수시 경쟁률 공개 뒤 낸 원서, 접수 취소 검토…17개 대학 해당” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3eUNjODZTMTN6YmppUHdxMEd0UThodkduenNGa3RyTGFYRWFkUlFSejVDNVRPaV9UUVRtazdxOGF4LU16N1RsdDlBTnRGZnRCbUhMNXo3NDFtMTJHOVdKWm55TFotOVpCQUE?oc=5",
+          "title": "김민석 “교섭단체 요건, 15석 정도가 현실적”…12석 혁신당 ‘부글’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TTE1vZ0VfbEU3SHVTVThKQTB0ZkNZYTUwaTJ4eGhpbTZaLTBkY2JCYk4wTjJzNFZReUhuRnBWc0JNWXFYLU1MZjNNZEQ1TGxOblpVdF9pWFYyQV9rek45djdPX2o5dUVORnptTnppTTVqa2xl?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 02:19:00 GMT"
+          "published": "Wed, 16 Sep 2026 11:13:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "부글",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김민석 “교섭단체 요건, 15석 정도가 현실적”…12석 혁신당 ‘부글’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TTE1vZ0VfbEU3SHVTVThKQTB0ZkNZYTUwaTJ4eGhpbTZaLTBkY2JCYk4wTjJzNFZReUhuRnBWc0JNWXFYLU1MZjNNZEQ1TGxOblpVdF9pWFYyQV9rek45djdPX2o5dUVORnptTnppTTVqa2xl?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 11:13:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "최교진",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "최교진 “수시 원서 접수 ‘먹통’ 구제 대상 250명 가량” - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQktvQVA3MTVBSTZoNTFteFp3bWNGOGkxS3hZN0pieTNTSlRSWW5CeVo5bURrRUFoR0J4VWFkTGZ4T2ljNERNQ2ZwbWFzU0tLbmp5V3RneWNLSDVFMzlzV0NycWhROE1WMlpyTHdtalhzczhhR1VCQjhMWWktNkwyREVWRmk0REk?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 06:34:00 GMT"
         }
       ]
     },
@@ -257,36 +415,10 @@
       "category": "LOCATION",
       "articles": [
         {
-          "title": "교육부 “수시 경쟁률 공개 뒤 낸 원서, 접수 취소 검토…17개 대학 해당” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3eUNjODZTMTN6YmppUHdxMEd0UThodkduenNGa3RyTGFYRWFkUlFSejVDNVRPaV9UUVRtazdxOGF4LU16N1RsdDlBTnRGZnRCbUhMNXo3NDFtMTJHOVdKWm55TFotOVpCQUE?oc=5",
+          "title": "최교진 “수시 원서 접수 ‘먹통’ 구제 대상 250명 가량” - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQktvQVA3MTVBSTZoNTFteFp3bWNGOGkxS3hZN0pieTNTSlRSWW5CeVo5bURrRUFoR0J4VWFkTGZ4T2ljNERNQ2ZwbWFzU0tLbmp5V3RneWNLSDVFMzlzV0NycWhROE1WMlpyTHdtalhzczhhR1VCQjhMWWktNkwyREVWRmk0REk?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 02:19:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "경쟁률",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "교육부 “수시 경쟁률 공개 뒤 낸 원서, 접수 취소 검토…17개 대학 해당” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3eUNjODZTMTN6YmppUHdxMEd0UThodkduenNGa3RyTGFYRWFkUlFSejVDNVRPaV9UUVRtazdxOGF4LU16N1RsdDlBTnRGZnRCbUhMNXo3NDFtMTJHOVdKWm55TFotOVpCQUE?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 02:19:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "공개",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "교육부 “수시 경쟁률 공개 뒤 낸 원서, 접수 취소 검토…17개 대학 해당” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3eUNjODZTMTN6YmppUHdxMEd0UThodkduenNGa3RyTGFYRWFkUlFSejVDNVRPaV9UUVRtazdxOGF4LU16N1RsdDlBTnRGZnRCbUhMNXo3NDFtMTJHOVdKWm55TFotOVpCQUE?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 02:19:00 GMT"
+          "published": "Wed, 16 Sep 2026 06:34:00 GMT"
         }
       ]
     },
@@ -296,10 +428,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "교육부 “수시 경쟁률 공개 뒤 낸 원서, 접수 취소 검토…17개 대학 해당” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3eUNjODZTMTN6YmppUHdxMEd0UThodkduenNGa3RyTGFYRWFkUlFSejVDNVRPaV9UUVRtazdxOGF4LU16N1RsdDlBTnRGZnRCbUhMNXo3NDFtMTJHOVdKWm55TFotOVpCQUE?oc=5",
+          "title": "최교진 “수시 원서 접수 ‘먹통’ 구제 대상 250명 가량” - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQktvQVA3MTVBSTZoNTFteFp3bWNGOGkxS3hZN0pieTNTSlRSWW5CeVo5bURrRUFoR0J4VWFkTGZ4T2ljNERNQ2ZwbWFzU0tLbmp5V3RneWNLSDVFMzlzV0NycWhROE1WMlpyTHdtalhzczhhR1VCQjhMWWktNkwyREVWRmk0REk?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 02:19:00 GMT"
+          "published": "Wed, 16 Sep 2026 06:34:00 GMT"
         }
       ]
     },
@@ -309,283 +441,127 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "교육부 “수시 경쟁률 공개 뒤 낸 원서, 접수 취소 검토…17개 대학 해당” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3eUNjODZTMTN6YmppUHdxMEd0UThodkduenNGa3RyTGFYRWFkUlFSejVDNVRPaV9UUVRtazdxOGF4LU16N1RsdDlBTnRGZnRCbUhMNXo3NDFtMTJHOVdKWm55TFotOVpCQUE?oc=5",
+          "title": "최교진 “수시 원서 접수 ‘먹통’ 구제 대상 250명 가량” - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQktvQVA3MTVBSTZoNTFteFp3bWNGOGkxS3hZN0pieTNTSlRSWW5CeVo5bURrRUFoR0J4VWFkTGZ4T2ljNERNQ2ZwbWFzU0tLbmp5V3RneWNLSDVFMzlzV0NycWhROE1WMlpyTHdtalhzczhhR1VCQjhMWWktNkwyREVWRmk0REk?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 02:19:00 GMT"
+          "published": "Wed, 16 Sep 2026 06:34:00 GMT"
         }
       ]
     },
     {
-      "word": "취소",
+      "word": "먹통",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "교육부 “수시 경쟁률 공개 뒤 낸 원서, 접수 취소 검토…17개 대학 해당” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3eUNjODZTMTN6YmppUHdxMEd0UThodkduenNGa3RyTGFYRWFkUlFSejVDNVRPaV9UUVRtazdxOGF4LU16N1RsdDlBTnRGZnRCbUhMNXo3NDFtMTJHOVdKWm55TFotOVpCQUE?oc=5",
+          "title": "최교진 “수시 원서 접수 ‘먹통’ 구제 대상 250명 가량” - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQktvQVA3MTVBSTZoNTFteFp3bWNGOGkxS3hZN0pieTNTSlRSWW5CeVo5bURrRUFoR0J4VWFkTGZ4T2ljNERNQ2ZwbWFzU0tLbmp5V3RneWNLSDVFMzlzV0NycWhROE1WMlpyTHdtalhzczhhR1VCQjhMWWktNkwyREVWRmk0REk?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 02:19:00 GMT"
+          "published": "Wed, 16 Sep 2026 06:34:00 GMT"
         }
       ]
     },
     {
-      "word": "검토17개",
+      "word": "구제",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "교육부 “수시 경쟁률 공개 뒤 낸 원서, 접수 취소 검토…17개 대학 해당” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3eUNjODZTMTN6YmppUHdxMEd0UThodkduenNGa3RyTGFYRWFkUlFSejVDNVRPaV9UUVRtazdxOGF4LU16N1RsdDlBTnRGZnRCbUhMNXo3NDFtMTJHOVdKWm55TFotOVpCQUE?oc=5",
+          "title": "최교진 “수시 원서 접수 ‘먹통’ 구제 대상 250명 가량” - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQktvQVA3MTVBSTZoNTFteFp3bWNGOGkxS3hZN0pieTNTSlRSWW5CeVo5bURrRUFoR0J4VWFkTGZ4T2ljNERNQ2ZwbWFzU0tLbmp5V3RneWNLSDVFMzlzV0NycWhROE1WMlpyTHdtalhzczhhR1VCQjhMWWktNkwyREVWRmk0REk?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 02:19:00 GMT"
+          "published": "Wed, 16 Sep 2026 06:34:00 GMT"
         }
       ]
     },
     {
-      "word": "대학",
+      "word": "대상",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "교육부 “수시 경쟁률 공개 뒤 낸 원서, 접수 취소 검토…17개 대학 해당” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3eUNjODZTMTN6YmppUHdxMEd0UThodkduenNGa3RyTGFYRWFkUlFSejVDNVRPaV9UUVRtazdxOGF4LU16N1RsdDlBTnRGZnRCbUhMNXo3NDFtMTJHOVdKWm55TFotOVpCQUE?oc=5",
+          "title": "최교진 “수시 원서 접수 ‘먹통’ 구제 대상 250명 가량” - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQktvQVA3MTVBSTZoNTFteFp3bWNGOGkxS3hZN0pieTNTSlRSWW5CeVo5bURrRUFoR0J4VWFkTGZ4T2ljNERNQ2ZwbWFzU0tLbmp5V3RneWNLSDVFMzlzV0NycWhROE1WMlpyTHdtalhzczhhR1VCQjhMWWktNkwyREVWRmk0REk?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 02:19:00 GMT"
+          "published": "Wed, 16 Sep 2026 06:34:00 GMT"
         }
       ]
     },
     {
-      "word": "해당",
+      "word": "250명",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "교육부 “수시 경쟁률 공개 뒤 낸 원서, 접수 취소 검토…17개 대학 해당” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3eUNjODZTMTN6YmppUHdxMEd0UThodkduenNGa3RyTGFYRWFkUlFSejVDNVRPaV9UUVRtazdxOGF4LU16N1RsdDlBTnRGZnRCbUhMNXo3NDFtMTJHOVdKWm55TFotOVpCQUE?oc=5",
+          "title": "최교진 “수시 원서 접수 ‘먹통’ 구제 대상 250명 가량” - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQktvQVA3MTVBSTZoNTFteFp3bWNGOGkxS3hZN0pieTNTSlRSWW5CeVo5bURrRUFoR0J4VWFkTGZ4T2ljNERNQ2ZwbWFzU0tLbmp5V3RneWNLSDVFMzlzV0NycWhROE1WMlpyTHdtalhzczhhR1VCQjhMWWktNkwyREVWRmk0REk?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 02:19:00 GMT"
+          "published": "Wed, 16 Sep 2026 06:34:00 GMT"
         }
       ]
     },
     {
-      "word": "강신철",
+      "word": "가량",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "강신철, ‘철거민 특공’ 논란에 “토지 수용돼 큰 손해 봐…정당한 보상” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tXzZzaGJJSkhxVVdjTzdkUEQ0ck93Ujh1U0FxSkdIZW1VQ1M5djc3dXBELUhZbFo3MVQ5Zmdzem9fTGxROTZySTFwWFd6SjhNOC01bkJxM0N1R3JVX04xU1RQdC1XVHBZ?oc=5",
+          "title": "최교진 “수시 원서 접수 ‘먹통’ 구제 대상 250명 가량” - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQktvQVA3MTVBSTZoNTFteFp3bWNGOGkxS3hZN0pieTNTSlRSWW5CeVo5bURrRUFoR0J4VWFkTGZ4T2ljNERNQ2ZwbWFzU0tLbmp5V3RneWNLSDVFMzlzV0NycWhROE1WMlpyTHdtalhzczhhR1VCQjhMWWktNkwyREVWRmk0REk?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 05:25:00 GMT"
+          "published": "Wed, 16 Sep 2026 06:34:00 GMT"
         }
       ]
     },
     {
-      "word": "철거민",
+      "word": "추미애",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "강신철, ‘철거민 특공’ 논란에 “토지 수용돼 큰 손해 봐…정당한 보상” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tXzZzaGJJSkhxVVdjTzdkUEQ0ck93Ujh1U0FxSkdIZW1VQ1M5djc3dXBELUhZbFo3MVQ5Zmdzem9fTGxROTZySTFwWFd6SjhNOC01bkJxM0N1R3JVX04xU1RQdC1XVHBZ?oc=5",
+          "title": "“추미애 사퇴 다시 촉구” 경기도청원 홈피 도배 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jTFpTUVhYTnRyVTFVbmIyeDBGTGJickU0bHRJMTQyQndXNlJKTUJJZFRWUlBfOElmREtIeFg3ZVZKMi1ZRE5qSjM1Z2lNS0U?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 05:25:00 GMT"
+          "published": "Wed, 16 Sep 2026 09:42:00 GMT"
         }
       ]
     },
     {
-      "word": "특공",
+      "word": "사퇴",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "강신철, ‘철거민 특공’ 논란에 “토지 수용돼 큰 손해 봐…정당한 보상” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tXzZzaGJJSkhxVVdjTzdkUEQ0ck93Ujh1U0FxSkdIZW1VQ1M5djc3dXBELUhZbFo3MVQ5Zmdzem9fTGxROTZySTFwWFd6SjhNOC01bkJxM0N1R3JVX04xU1RQdC1XVHBZ?oc=5",
+          "title": "“추미애 사퇴 다시 촉구” 경기도청원 홈피 도배 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jTFpTUVhYTnRyVTFVbmIyeDBGTGJickU0bHRJMTQyQndXNlJKTUJJZFRWUlBfOElmREtIeFg3ZVZKMi1ZRE5qSjM1Z2lNS0U?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 05:25:00 GMT"
+          "published": "Wed, 16 Sep 2026 09:42:00 GMT"
         }
       ]
     },
     {
-      "word": "토지",
+      "word": "다시",
+      "count": 1,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "“추미애 사퇴 다시 촉구” 경기도청원 홈피 도배 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jTFpTUVhYTnRyVTFVbmIyeDBGTGJickU0bHRJMTQyQndXNlJKTUJJZFRWUlBfOElmREtIeFg3ZVZKMi1ZRE5qSjM1Z2lNS0U?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 09:42:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "촉구",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "강신철, ‘철거민 특공’ 논란에 “토지 수용돼 큰 손해 봐…정당한 보상” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tXzZzaGJJSkhxVVdjTzdkUEQ0ck93Ujh1U0FxSkdIZW1VQ1M5djc3dXBELUhZbFo3MVQ5Zmdzem9fTGxROTZySTFwWFd6SjhNOC01bkJxM0N1R3JVX04xU1RQdC1XVHBZ?oc=5",
+          "title": "“추미애 사퇴 다시 촉구” 경기도청원 홈피 도배 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jTFpTUVhYTnRyVTFVbmIyeDBGTGJickU0bHRJMTQyQndXNlJKTUJJZFRWUlBfOElmREtIeFg3ZVZKMi1ZRE5qSjM1Z2lNS0U?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 05:25:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "수용돼",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "강신철, ‘철거민 특공’ 논란에 “토지 수용돼 큰 손해 봐…정당한 보상” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tXzZzaGJJSkhxVVdjTzdkUEQ0ck93Ujh1U0FxSkdIZW1VQ1M5djc3dXBELUhZbFo3MVQ5Zmdzem9fTGxROTZySTFwWFd6SjhNOC01bkJxM0N1R3JVX04xU1RQdC1XVHBZ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 05:25:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "손해",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "강신철, ‘철거민 특공’ 논란에 “토지 수용돼 큰 손해 봐…정당한 보상” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tXzZzaGJJSkhxVVdjTzdkUEQ0ck93Ujh1U0FxSkdIZW1VQ1M5djc3dXBELUhZbFo3MVQ5Zmdzem9fTGxROTZySTFwWFd6SjhNOC01bkJxM0N1R3JVX04xU1RQdC1XVHBZ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 05:25:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "봐정당",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "강신철, ‘철거민 특공’ 논란에 “토지 수용돼 큰 손해 봐…정당한 보상” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tXzZzaGJJSkhxVVdjTzdkUEQ0ck93Ujh1U0FxSkdIZW1VQ1M5djc3dXBELUhZbFo3MVQ5Zmdzem9fTGxROTZySTFwWFd6SjhNOC01bkJxM0N1R3JVX04xU1RQdC1XVHBZ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 05:25:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "보상",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "강신철, ‘철거민 특공’ 논란에 “토지 수용돼 큰 손해 봐…정당한 보상” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tXzZzaGJJSkhxVVdjTzdkUEQ0ck93Ujh1U0FxSkdIZW1VQ1M5djc3dXBELUhZbFo3MVQ5Zmdzem9fTGxROTZySTFwWFd6SjhNOC01bkJxM0N1R3JVX04xU1RQdC1XVHBZ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 05:25:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "임신중지",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "임신중지 약물 7년 만에 정식 도입…내년 1분기 목표 - DongA Science",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJQzVfOGlycG45TmlKOFlwU3MwRk1sUnoteFdCanJVMU9JMWJPVE5DcVc1VnFCcUFKbjNGUjhpa2F5WjlIVXFhcXp4VnU4dDhvMGlpZw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 15 Sep 2026 15:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "약물",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "임신중지 약물 7년 만에 정식 도입…내년 1분기 목표 - DongA Science",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJQzVfOGlycG45TmlKOFlwU3MwRk1sUnoteFdCanJVMU9JMWJPVE5DcVc1VnFCcUFKbjNGUjhpa2F5WjlIVXFhcXp4VnU4dDhvMGlpZw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 15 Sep 2026 15:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "만에",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "임신중지 약물 7년 만에 정식 도입…내년 1분기 목표 - DongA Science",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJQzVfOGlycG45TmlKOFlwU3MwRk1sUnoteFdCanJVMU9JMWJPVE5DcVc1VnFCcUFKbjNGUjhpa2F5WjlIVXFhcXp4VnU4dDhvMGlpZw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 15 Sep 2026 15:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "정식",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "임신중지 약물 7년 만에 정식 도입…내년 1분기 목표 - DongA Science",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJQzVfOGlycG45TmlKOFlwU3MwRk1sUnoteFdCanJVMU9JMWJPVE5DcVc1VnFCcUFKbjNGUjhpa2F5WjlIVXFhcXp4VnU4dDhvMGlpZw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 15 Sep 2026 15:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "도입내년",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "임신중지 약물 7년 만에 정식 도입…내년 1분기 목표 - DongA Science",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJQzVfOGlycG45TmlKOFlwU3MwRk1sUnoteFdCanJVMU9JMWJPVE5DcVc1VnFCcUFKbjNGUjhpa2F5WjlIVXFhcXp4VnU4dDhvMGlpZw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 15 Sep 2026 15:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "1분기",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "임신중지 약물 7년 만에 정식 도입…내년 1분기 목표 - DongA Science",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJQzVfOGlycG45TmlKOFlwU3MwRk1sUnoteFdCanJVMU9JMWJPVE5DcVc1VnFCcUFKbjNGUjhpa2F5WjlIVXFhcXp4VnU4dDhvMGlpZw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 15 Sep 2026 15:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "목표",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "임신중지 약물 7년 만에 정식 도입…내년 1분기 목표 - DongA Science",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJQzVfOGlycG45TmlKOFlwU3MwRk1sUnoteFdCanJVMU9JMWJPVE5DcVc1VnFCcUFKbjNGUjhpa2F5WjlIVXFhcXp4VnU4dDhvMGlpZw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 15 Sep 2026 15:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "사우디",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "사우디 \"성지 메카로 발사된 후티 드론 격추\" - imnews.imbc.com",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EeXNuTVZlZFZPUklsS2JmUGYybUZicV9xUFdyYUU0TWsyeTlmOXU0U1lWSFotT0RYRm1jaFFnZEpkbGhtRHgwRVY4ZUpsUUV6OHVLclJzY1JFbkRQYWx2cFpQeHRZU1ctUXB4U3VJbkFoUWU40gF0QVVfeXFMT3B2ZGpVSHF2OE1MOUhvVkN2LTdvVTd2T0k5UGVqT1BZbmd4cXFNV2FrOHg4T0habUVrZklwcHlZR0hWT0ZBWHlDbXVRT2lGVnpxUmZzbXFyY0w4eWo0azNQZGh4S3B2Wi1fVE50ZWptemNYTVk?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 01:40:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "성지",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "사우디 \"성지 메카로 발사된 후티 드론 격추\" - imnews.imbc.com",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EeXNuTVZlZFZPUklsS2JmUGYybUZicV9xUFdyYUU0TWsyeTlmOXU0U1lWSFotT0RYRm1jaFFnZEpkbGhtRHgwRVY4ZUpsUUV6OHVLclJzY1JFbkRQYWx2cFpQeHRZU1ctUXB4U3VJbkFoUWU40gF0QVVfeXFMT3B2ZGpVSHF2OE1MOUhvVkN2LTdvVTd2T0k5UGVqT1BZbmd4cXFNV2FrOHg4T0habUVrZklwcHlZR0hWT0ZBWHlDbXVRT2lGVnpxUmZzbXFyY0w4eWo0azNQZGh4S3B2Wi1fVE50ZWptemNYTVk?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 01:40:00 GMT"
+          "published": "Wed, 16 Sep 2026 09:42:00 GMT"
         }
       ]
     }
