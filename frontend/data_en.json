@@ -1,244 +1,100 @@
 {
   "language": "en",
-  "last_updated": 1789564943.6684039,
+  "last_updated": 1789581924.8179893,
   "count": 40,
   "trends": [
     {
+      "word": "House",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Mike Johnson cancels another House session day - Politico",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaVEwcDJmak1qOEgza0hmdjRsZWY3Vzc3MGJGOE14d2FLMGh0bkQxSi1DejN1bEN6dXJDODZlSXg3X3cwbm5CYUVTY0hQN2xXWEZfdzBCeERFbUcycnV6bmxjYXNrZkRlR2VuTXlnbEU2VkJsZ1N4bnBTYzRYMlotWDZkUjJBVHZZZXFmV0dDLTRhSllZX1ZEVWsxME9KdHN4ZW9Uak9VSXZmaF9w?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 15:23:25 GMT"
+        },
+        {
+          "title": "House votes to limit Trump's power to strike Iran for 3rd time, as 7 Republicans defect - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPemFWRzlJa1NQdVdadlg4NW84NFJXaGlybDJfTDYwWkV1WjE2VTFlZGxxV1pTZjZ6UWtQa3FkODEwQWpXaV9UeVZBT0JzVnZfTDgxUDUtWHJtNlg5VVg4QzNJZlk3RzExMUppcXN6N0JKUUFlSEtKeWxIdWw1YzBMSTZZa2hUOG12UHc?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 14:29:12 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Member",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "EU's von der Leyen wants Canada to become bloc's first associate member - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdDFWcUdmR2RJTzZXM3ZMQ2ZqVTI4Z2JBVmRfUnpuZEk4c2lfbU5iY3hCaHdwcTFZd0JEdDBaREdQSWlhUTVaTUFvaUxabjRpTFVjTjJEcl95Y1cwb01hOWZOUGpoWTE1NnJfU1RPZ2Z3SlRZSkg1eGwyaU9kMTd3UkpQNF9KT1lKRm81c0dHNC1YbjFUWjgwdXZpX2FkR0lXQTUxWFVCS1FSY01aZF9jVl9Md3FXUGxhM3NsYmRB?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 13:29:58 GMT"
+        },
+        {
+          "title": "Obamas' dog Sunny dies: \"A cherished member of our family\" - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CaUFuV3Fhdl9IZkMwYjhtdWg5V05DNVZDdDdRS2hkei1JNTBMaVNOVnY4NnN0Zl9iOVU2RFdYb09fenRSeHpmUG9rckV0MTJDaUxaRDNIZ0FhTUZoV2VN?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 15:30:00 GMT"
+        }
+      ]
+    },
+    {
       "word": "Trump",
-      "count": 4,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump says Kennedy Center to close as court rules his name must stay off building - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0ZTlQbFZvdzdIdmFFRVNadU1OOW96S3JGMW9ZckhIT1JoMmw2YW1KazVlRTBfSE5ETWlZeC1rMTE1VkVzekU1X0RvUURXeXlZU2MwNzQtazIzU0E?oc=5",
-          "source": "Google News",
-          "published": "Tue, 15 Sep 2026 21:55:20 GMT"
-        },
-        {
-          "title": "Trump Defended A.I. Data Centers on Truth Social, and Commenters Clapped Back - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPalk5OTBNM0ViSURONjkzYlViSURsR1Z6MVkwaHc1U1V3UjFVX29jSTZGVGJlTjlzQm1MaTQ1UFdPamlnZlZWLU5ZSUIzQVpkemh1Mnc0UGF3UWZ3T2Q1UnYzZl9tS1hQdzJqcGFLek1ZM2I5WXpza3o4T05uOGVqOG9abjBaQnRySHA0T3p0TQ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 01:20:59 GMT"
-        },
-        {
-          "title": "7 Republicans rebel against Trump, vote with Dems to rein in Iran war powers - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZC0zWnRFdFU3a3lhXzZWYy1laF9fTXd2RFNuRE9XNWFMVi1wbVp1d0lvblJ3NGR4dmxEaXZ3aTJONERqSjVoTF9OVG5UajZ5TmgtWEFFb0ZyczBBYW5hOEVya2JQdXRMWFVnVk5ZU3JzRFlnQkk1aDJPNFV2cFlLbk9lRHlpRFZ3OGYycWhidlBMd0ZVb1A3MHAwSdIBoAFBVV95cUxObWNQbzNkUXNFVkV6S3VLZVVkeDRQMEQtLWpjLUhMMHU4c0x5MUl4c1JLQTZVcEdWc1lhc2ZPTzhmRWdId2JwZm81ZnBaeV9TVnU3OVF1OW5IYmpUS2cxRGNTM3g1ZFlrX2k4NjRSV3JMN2gxUzNzWUcxZ1FuVVJ6djkteXJwbU1pWlZOSDdHajlpelp5UGpObmdmODlzNnlE?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 04:19:51 GMT"
-        },
-        {
-          "title": "Senators question Trump's picks for top health positions, including surgeon general - NPR",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQT3BIaElhZ0FkWDhzUkEzcnVuTkQ0a2xpX3duSHRnYUU5elRWeEtGZ1hDWS1uNEk0ZTRHUGhXX045dm45a2dBS09KelRabm9DYlZWem5ueDlaUEVWYnJBQU1KOHFsT1BSei1nbVg0ZWg4eXY2dmsyTUNjSlFoOGtOWVhQRXRrdEtRd2p6Q3BzYlpVUDdPcnc?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 10:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Decision",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Election officials get mail-in voting clarity after Supreme Court decision - PBS",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUXByamdISVdPLUxfY2pqSXA1ZkRVNnJOVkVpYXdmdC12LTVjMThEOE5nM0tUaU03MGtKeHJxMnAyWjJxNWk0YlBlTXNJYmFmTG9hdElZWWxhNnRwUDB6dmk1YlJEallXWG1aSVM5SEg3dml0UzhiYVd6cWJXVGlVSXNveVRnVEtVMEdHYzgtcUUxOUNnUGZ2X0pZZkZyeEJpTTE4TkZoNjRDdjQ3SEE?oc=5",
-          "source": "Google News",
-          "published": "Tue, 15 Sep 2026 22:55:38 GMT"
-        },
-        {
-          "title": "Fed Meeting Today: Dow Futures Edge Up as Investors Await Warsh Rate Decision - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUE5oTVluRXJXSEZFTGp6UUpwcjluaGhVUlpsbGJ1WnFnVU05MDhSNDMwT3ZleW5fQnhia1ZYbFZ0SzN3dFNkSzRnV1lxbUpyREtpSnZlYndsRFM1RW5GeW1WcTdvRnZfNVh1TXAzWWVBVEZPZnAtYm9JLXNick5YZA?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 12:43:00 GMT"
-        },
-        {
-          "title": "Stock futures edge higher ahead of pivotal Fed rate decision: Live updates - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93dm9pVTkxd0Y4Wk5sZUI4dTNRY1MyLV9RVDBuYm1pckV4WmU2TUR2azJvcUs0ZUZLSUZwbE4xNFFGUWJ5OGN5YjFub1NuZ015aVNKUTJMUmY2YzlTLWg0MFhaREI1Y1JwYjBTd1BCWVZYT3pnRmFN0gF8QVVfeXFMTVRqZWVyaXIwbEgwZTdhOW9IcXZGS2tVaUxZUHkycFFDUnhJNzU3QzhrR0ttcGlPNGljM0xEbnFjOVExQ0E4SDZZaEVpTnRVT1NEQU9rSm1XdGNhYm5tRS0yWThSQmh5T0RwUzU3dlpLT19JR0JvNTgzUkxHbQ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 12:16:11 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Iphone",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "The iPhone 18 Pro’s big camera update is all about the small gains - The Verge",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNam1ULUI3UHZHWHFkNUNuVjF5aUNBb3RQYS11ZUVwcHFnbjB4YS10WTI2dHZkc2Q2WDBSX1hTc3I4ZE8teHZpa3ZNZXd4MVRSVXF1WUFQdUp0d0NmTVByaGpMbFdONkg4WWYwTjRuRnFfUWQ5WmRidlJDV3JKRk1NQkY0NA?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 12:00:00 GMT"
-        },
-        {
-          "title": "3D models of new iPhone Duo, iPhone 18 Pro and 18 Pro Max are now available in our database - GSMArena.com",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdkFlMFhPU19sRmlyTVJQQmxRU2NmVTd4ZEU3LXJiaWRLV1ZxaU5fcVRVejMwM3IzbEU5dXV2WUV6TkUwNkpYUWgyYlA5RldFVUlCYzhwVWJfSWRrUE1DeUdHMGRSOGYzRzIzRVZuS1hlUjlMSnNOSmVaNUU2eFdQMTNYcmFZWmFaUmYzVUdUT3dCUjhsZ2oyVlh4QXk1dnoxMTQyMV96WklrczlJZ0hISkNtYnZMSGduUjJhWXhNclVvU1RPOGl0WGNB?oc=5",
-          "source": "Google News",
-          "published": "Tue, 15 Sep 2026 19:04:02 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Pro",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "The iPhone 18 Pro’s big camera update is all about the small gains - The Verge",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNam1ULUI3UHZHWHFkNUNuVjF5aUNBb3RQYS11ZUVwcHFnbjB4YS10WTI2dHZkc2Q2WDBSX1hTc3I4ZE8teHZpa3ZNZXd4MVRSVXF1WUFQdUp0d0NmTVByaGpMbFdONkg4WWYwTjRuRnFfUWQ5WmRidlJDV3JKRk1NQkY0NA?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 12:00:00 GMT"
-        },
-        {
-          "title": "3D models of new iPhone Duo, iPhone 18 Pro and 18 Pro Max are now available in our database - GSMArena.com",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdkFlMFhPU19sRmlyTVJQQmxRU2NmVTd4ZEU3LXJiaWRLV1ZxaU5fcVRVejMwM3IzbEU5dXV2WUV6TkUwNkpYUWgyYlA5RldFVUlCYzhwVWJfSWRrUE1DeUdHMGRSOGYzRzIzRVZuS1hlUjlMSnNOSmVaNUU2eFdQMTNYcmFZWmFaUmYzVUdUT3dCUjhsZ2oyVlh4QXk1dnoxMTQyMV96WklrczlJZ0hISkNtYnZMSGduUjJhWXhNclVvU1RPOGl0WGNB?oc=5",
-          "source": "Google News",
-          "published": "Tue, 15 Sep 2026 19:04:02 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Video",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘Resident Evil’ First Reactions: Zach Cregger’s Zombie Horror Is ‘Gloriously Gory’ and One of ‘The Best Video Game Adaptations’ Ever - Variety",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQUYxMEQ5SVRzVUcweENadUdvTUFYLWFnVVJMNXd2aThIb1RTYkxYNHgyZV9YMkVYaXFWSUlobEhHX1BERHZTNzhyeGhPWHBzSVBzWThyNGhMeEExZ1UtRUlPUU9SbUNzU2VFdEhIY2tKa2ZFQjFNT0JRcmZuZjNYcTBtMGlCS3VuUU1BSzcxdVNPSE9RSXVsTERpR1RuYlNybllBSw?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 03:09:00 GMT"
-        },
-        {
-          "title": "Arch Manning apologizes for “insensitive comment” about AI video from Saturday’s game - NBC Sports",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYzgxejlmUW9GR2FWaC1jM3BZWTBLREF1TExEZ2oyTDlFamNkeTMtbGhiXzhGWmpGeC16dUdYS1VodjdwZHVhNEc4TnRtTDIxa3diTEtDMGsxS2JIdHR6UnktcGFfZVBCRU1teFF4MzRleVlMVHhKOXNWNVlvMDFNbnM1NGxIbDg5N3ZwMDBtempFRXZZVEFGYjVrVmNYVnhSaDMycE9EV01SQlMzUU1HX2gybmxDYnhzQm1MUUlLVzBiV1JNdmlwTXVjR0FCUmZJU1BCRmlVeV9iYnRP?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 03:20:46 GMT"
-        },
-        {
-          "title": "Vega C rocket launches 2 European Earth-observing satellites to orbit from South America (video) - space.com",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPS0x4TWtzbm4wUG1KTGZPbFJ0QnkwZ3NTSlFkY3Z2dzJRX2Nlc19mcl9DQ2dUdVdHXzU5aXBnSXFwQUVrb1N3MFlySHdzdWR4aTEwTEgxTS0tVko2ZXdVb0xFakpfSFF1Y0JZcWN2U19FZGdfTnpSM0NRcDVkWlh2Z0M1dTRuWTZaWW1WWDN3RGlFcU51V3lBV0hZMDRzLXBMVFVpc3VoUDhmcU9qVjNwcUtYUjk5Y3lsdkFfMmVaRFI2WTVURHR1aHNtSQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 15 Sep 2026 01:37:02 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Earth",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Satellites show Earth lost more than 12 trillion tons of ice from Greenland, Antarctica in 47 years - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUWJnakJxOTNkV2xKMC1Xa044S20xalNDMjZ5TEpvcmE4V2QzZktCUGJJQlZuYnhtY3Y3WDJuQXZiM2lMUkFad1hGaWZBci1IQzMzY055b1BnNlU2TkxtaEhqeWY3SlhybklEYi1ndWdPSkFJWlpBa2daVmN1NlViYXFwZFRWdElSU0Y3ejUyMEFZMTl4UGtwSmxwX0gtU1dCRGl4Q3VDanJuc2ViWUJjVXdPQkdDU1VqMjhHU0VnMFRWTzg4?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 10:44:06 GMT"
-        },
-        {
-          "title": "Vega C rocket launches 2 European Earth-observing satellites to orbit from South America (video) - space.com",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPS0x4TWtzbm4wUG1KTGZPbFJ0QnkwZ3NTSlFkY3Z2dzJRX2Nlc19mcl9DQ2dUdVdHXzU5aXBnSXFwQUVrb1N3MFlySHdzdWR4aTEwTEgxTS0tVko2ZXdVb0xFakpfSFF1Y0JZcWN2U19FZGdfTnpSM0NRcDVkWlh2Z0M1dTRuWTZaWW1WWDN3RGlFcU51V3lBV0hZMDRzLXBMVFVpc3VoUDhmcU9qVjNwcUtYUjk5Y3lsdkFfMmVaRFI2WTVURHR1aHNtSQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 15 Sep 2026 01:37:02 GMT"
-        },
-        {
-          "title": "T rex footprints unearthed in first-ever discovery 66 million years after creature walked the Earth - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU3dNNXdONHFXQXJUMFlGcTBDYkVzdEtJVFNKckJoSEk5ZE50VWFYcmt5eV81b19aQktjb3NTcTR2MnEzajdMSlhvWU9tS2czUlc1aG9mUXF6YmFfaEhwUzlyZjkwTzBXWE9nYmR5c04wak9WaVBmelJBY1VzeXhCNlhiaVdYYXk1VW5WMzVGQTE5RjlRcFdTa05hcWk5ZHhRbUM5ZXljLWZmUlo0ZFNjSGJjalNfNTJz0gG-AUFVX3lxTE5JbFVIaWIyV05yb3I5OFlrZkx2ektiZkhOcEI0cFRBWnNRYUVlMmFpcjFJQUJmalpsVlNRRERlQjlETjZlb1NXaFVmb2xrY3pIRGxWVjZDZ19HdTBDa3pmUWhZTzR3dG90V3NFMzlnZk00emxKWWpqYVFGU0NTSGt2Mnk0NVFyVFo3YjNuSk9jTTNwTzdyZVQ3UFdFM3F3Mi1rQWFaaFJLeGY5aFdRWDRSMGpQNVUzUmp3dmNLWkE?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 12:00:25 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Court",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump says Kennedy Center to close as court rules his name must stay off building - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0ZTlQbFZvdzdIdmFFRVNadU1OOW96S3JGMW9ZckhIT1JoMmw2YW1KazVlRTBfSE5ETWlZeC1rMTE1VkVzekU1X0RvUURXeXlZU2MwNzQtazIzU0E?oc=5",
+          "title": "Democrat Says Trump Threw ‘Tantrum’ During Kennedy Center Board Meeting After Court Ruling - Forbes",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQ2dIdy15OW9JZkFsTk5LVmZKZU9kclpqdllZWC1RaE5kWERzMDlwQWU5M3ZFOUN4MUZWMFhSLWZVaXVZYjFHQTdBZ2RocFZQRUVwaXpoTVVZSnZLN0phYjdGcFdJenFSZ1c1UzhwRVo3NmE1clVqZ2VLa3hCdHBodlJQZ0MxalFjTUZaMHlrNmtUYUtZVlBCclZuWkNHQWhPV1gtVGpOWElaWFJEaDVEczlWbmNzNF9QYVZDOHpLem9SLTZIVWtSclpwWFg2SlZfZ1oybThncDEwZw?oc=5",
           "source": "Google News",
-          "published": "Tue, 15 Sep 2026 21:55:20 GMT"
+          "published": "Wed, 16 Sep 2026 08:51:58 GMT"
         },
         {
-          "title": "Election officials get mail-in voting clarity after Supreme Court decision - PBS",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUXByamdISVdPLUxfY2pqSXA1ZkRVNnJOVkVpYXdmdC12LTVjMThEOE5nM0tUaU03MGtKeHJxMnAyWjJxNWk0YlBlTXNJYmFmTG9hdElZWWxhNnRwUDB6dmk1YlJEallXWG1aSVM5SEg3dml0UzhiYVd6cWJXVGlVSXNveVRnVEtVMEdHYzgtcUUxOUNnUGZ2X0pZZkZyeEJpTTE4TkZoNjRDdjQ3SEE?oc=5",
+          "title": "House votes to limit Trump's power to strike Iran for 3rd time, as 7 Republicans defect - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPemFWRzlJa1NQdVdadlg4NW84NFJXaGlybDJfTDYwWkV1WjE2VTFlZGxxV1pTZjZ6UWtQa3FkODEwQWpXaV9UeVZBT0JzVnZfTDgxUDUtWHJtNlg5VVg4QzNJZlk3RzExMUppcXN6N0JKUUFlSEtKeWxIdWw1YzBMSTZZa2hUOG12UHc?oc=5",
           "source": "Google News",
-          "published": "Tue, 15 Sep 2026 22:55:38 GMT"
+          "published": "Wed, 16 Sep 2026 14:29:12 GMT"
         }
       ]
     },
     {
-      "word": "Building",
+      "word": "Meeting",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump says Kennedy Center to close as court rules his name must stay off building - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0ZTlQbFZvdzdIdmFFRVNadU1OOW96S3JGMW9ZckhIT1JoMmw2YW1KazVlRTBfSE5ETWlZeC1rMTE1VkVzekU1X0RvUURXeXlZU2MwNzQtazIzU0E?oc=5",
+          "title": "Democrat Says Trump Threw ‘Tantrum’ During Kennedy Center Board Meeting After Court Ruling - Forbes",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQ2dIdy15OW9JZkFsTk5LVmZKZU9kclpqdllZWC1RaE5kWERzMDlwQWU5M3ZFOUN4MUZWMFhSLWZVaXVZYjFHQTdBZ2RocFZQRUVwaXpoTVVZSnZLN0phYjdGcFdJenFSZ1c1UzhwRVo3NmE1clVqZ2VLa3hCdHBodlJQZ0MxalFjTUZaMHlrNmtUYUtZVlBCclZuWkNHQWhPV1gtVGpOWElaWFJEaDVEczlWbmNzNF9QYVZDOHpLem9SLTZIVWtSclpwWFg2SlZfZ1oybThncDEwZw?oc=5",
           "source": "Google News",
-          "published": "Tue, 15 Sep 2026 21:55:20 GMT"
+          "published": "Wed, 16 Sep 2026 08:51:58 GMT"
         },
         {
-          "title": "Gaza building collapse kills at least 20, dozens more trapped under rubble - CNN",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYy01NThzSm5BSUFhR2FFNnpHYjFBUGs3MDBuaWNTYWxQUEZEbFNqUkJWcG9tZjNoc3V5bl90UjdkNTV2aEZseUUtU00wSF82d3Q2d1NISjBtMUhQTWliZXFocmdlTHlGcXpWMjV2S2R1Rl9TeGtrelNDQUFpd2NvTndTbmF1R3RqYWp2Q0dzTQ?oc=5",
+          "title": "Fed meeting live updates: Rate hike expected for the first time in three years - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RWUJMaHR6WU9hNlFYTnlPQ1lqS0xsMnRuTlMtdndQaXFJdXpKVXhiQS1IbjJiUVpudkRqWDdoZWZIekpsQy1VYU1uMUJQUHZMZjFCVU9Fa1gzdGZkMFpqSWZwWXY2Y1dnTU9teG5uZlhBVTVYU0HSAXtBVV95cUxPZDNnc0c0YVZIQkNTTlJDRWpYNXNBdUxrRUtaeTdZVUVHa3JJVXpCZmNVdTJaZ0x3Q1E4bGNhVUVkbjBDdmVreldONlE3Y3NXSm9YeThsdGhkM1ozME9iZ2JVa0p4NVVkTHpqcW1WSnVoMlMwWkpkRi1YdHM?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 11:16:14 GMT"
+          "published": "Wed, 16 Sep 2026 15:44:00 GMT"
         }
       ]
     },
     {
-      "word": "Election",
+      "word": "Saudi",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Election officials get mail-in voting clarity after Supreme Court decision - PBS",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUXByamdISVdPLUxfY2pqSXA1ZkRVNnJOVkVpYXdmdC12LTVjMThEOE5nM0tUaU03MGtKeHJxMnAyWjJxNWk0YlBlTXNJYmFmTG9hdElZWWxhNnRwUDB6dmk1YlJEallXWG1aSVM5SEg3dml0UzhiYVd6cWJXVGlVSXNveVRnVEtVMEdHYzgtcUUxOUNnUGZ2X0pZZkZyeEJpTTE4TkZoNjRDdjQ3SEE?oc=5",
+          "title": "Saudi Pipeline Attack Risks ‘Disastrous’ Loss of Oil as Fighting Escalates - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTzVjMkh4M1lsaEJyZkV0a3lzMlhVNHVsZVNoV1A4d0VkTjluTFgwc0JXTHpPNWRFMjlfdThqMmxlLTI4dGRaalR4SnBEZmZ6aDBxTGNRNzZMX0VzVk9tcmIyR1pvS0l4ZlNBbjctU0hWWUJIYXRIdTFNc1NhVFRnLUVwY2E?oc=5",
           "source": "Google News",
-          "published": "Tue, 15 Sep 2026 22:55:38 GMT"
+          "published": "Wed, 16 Sep 2026 15:15:11 GMT"
         },
         {
-          "title": "The Election May Be a Snoozefest, but Russians Fear What Could Follow - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmR3FUcklhRE5nTS1mUmJDa2FQT1FVZV9RRUoxcEVMNVl0Nm9CLWI4QWhkaU1MSU9DelpWQm9QeHNGYU1tanRjRFRSZktWZlNucUI3czhSU0VROTlqNlp1elFfOEJVS016MWg4aGp2MmJSQTUydV8ydUlDVDZidw?oc=5",
+          "title": "Saudi Arabia accuses Houthis of attacking Mecca, warns holy city is a ‘red line’ - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN2pLVUdEbDUtZmVUNXBKNlVkTkY0c25fN1ltQUw4YUxPbEdEMzBXOHY4MGE4dVdzLVlsZE5wcndULWFjN2l1Um16N1FNNGRPUzkzZnJRMHNsbU9vQnNiYURXNmVDRWlOcG9tX3VlSjVydHVPZnh2T1FOMFZxNmxMMmY3SHZobkxZNFp1NDZ3MWpFWDBwM3Q4QUMtYnQteHFHQUNUZzNXWXM5c25neEZiQkxjMWd3Zw?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 12:44:17 GMT"
-        }
-      ]
-    },
-    {
-      "word": "war",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "7 Republicans rebel against Trump, vote with Dems to rein in Iran war powers - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZC0zWnRFdFU3a3lhXzZWYy1laF9fTXd2RFNuRE9XNWFMVi1wbVp1d0lvblJ3NGR4dmxEaXZ3aTJONERqSjVoTF9OVG5UajZ5TmgtWEFFb0ZyczBBYW5hOEVya2JQdXRMWFVnVk5ZU3JzRFlnQkk1aDJPNFV2cFlLbk9lRHlpRFZ3OGYycWhidlBMd0ZVb1A3MHAwSdIBoAFBVV95cUxObWNQbzNkUXNFVkV6S3VLZVVkeDRQMEQtLWpjLUhMMHU4c0x5MUl4c1JLQTZVcEdWc1lhc2ZPTzhmRWdId2JwZm81ZnBaeV9TVnU3OVF1OW5IYmpUS2cxRGNTM3g1ZFlrX2k4NjRSV3JMN2gxUzNzWUcxZ1FuVVJ6djkteXJwbU1pWlZOSDdHajlpelp5UGpObmdmODlzNnlE?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 04:19:51 GMT"
-        },
-        {
-          "title": "Former Kosovo President Hashim Thaci sentenced to 25 years for war crimes - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaFV6aFpSZ2w0MjBMQWVvSlc3X1VJN3lrWGp4N0Y1bVAybERjR3hlR203V3U5VTQ3VGljcXNXQTM0aHFIV0w2RWVWRXdZQjVCUFpHQTh1clhaQ2JZOW8xV1JJbWczNDA1R291eExzMnJnNXdpcUROaExvd1NsUDVFRzBJaF9lSUtwdjlyNmZmNHBnS0NMd190ZFdZVmZVaTQ0R1h30gGoAUFVX3lxTFBFQmJpM0xpeHdoZTJKekFydDZlWHNOcWZvMjBYMW5XXzJFcy0wbTE1ajVXU2dzcXprM281NWY1QUViUkRvRVBLTGllZEx2X1pIZlEyZHZhMjE2TGpqV1hYcVBwWG5ULXlqMFBJTDJGWlRFcUJMMG11UThvWGdiOXNUYTg4M0dRc3E0SkFpSTNEU0FzZG5sZnJ5V3hZb2VzbkxudlZ1ZGZJRg?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 13:02:08 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Americans",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Poll: Americans say there’s a serious risk of AI destroying humanity - Politico",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNUc0MTYzZ2FSRUQ0c0doT3lBUl9yV3FzVG5VVFhFSFNLaFdOMjdsdmM5d1hYWEVkWkE1MU1ZRFpWSEU0Q2VkZmR5NnZwVVBCMFQwd1k2dGhXT1V0R1Z2NmxLRm5pRHcwdEpPdk1yUW5ObTZNcnJYNzZ4aGJFWGJkTktBSUticDhpemtnUjR4cGhjemtmN0J4ajZnclU?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 09:45:00 GMT"
-        },
-        {
-          "title": "Americans are tired. Women and young adults, most of all. - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaTRiZkR3cGlKS29RMlctS1lJUzdOY3N6emJDQVZvRFpVd1gwM3VfenA5Z1VObmNYNkEzNUlROXhQVkhZTmVzSjRHYTJJRU1UaFd3TEllbXpYczktVnQyOW5ITE9yYmJrRzI2LVhaaUh2TmZSVkNxaFRYczdTR3BFbGk4OFh4ZkVGelNabW9hdmhJblQzdGc4QS04NUtOZw?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 12:07:26 GMT"
+          "published": "Wed, 16 Sep 2026 10:41:21 GMT"
         }
       ]
     },
@@ -248,16 +104,35 @@
       "category": "NOUN",
       "articles": [
         {
+          "title": "Saudi Pipeline Attack Risks ‘Disastrous’ Loss of Oil as Fighting Escalates - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTzVjMkh4M1lsaEJyZkV0a3lzMlhVNHVsZVNoV1A4d0VkTjluTFgwc0JXTHpPNWRFMjlfdThqMmxlLTI4dGRaalR4SnBEZmZ6aDBxTGNRNzZMX0VzVk9tcmIyR1pvS0l4ZlNBbjctU0hWWUJIYXRIdTFNc1NhVFRnLUVwY2E?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 15:15:11 GMT"
+        },
+        {
           "title": "Attack on University of Texas Students Tests Texas G.O.P. Unity - The New York Times",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNTE1M0lXVHpaZFdoclgtRTc4YmFvMTdKa1N4Z1RRSl9kWERteDRGSXRiZWttVUVQVmVxMmh0TVFhRzNEZXpCMzRicUpmQXhOT0M0dUE5N09kV2JBbXdabG5Bc0dEYk5nZm1TajVaRnVfc1dFbXNaczQ2UEpYSFU4d3lGS1JUTTZ5Y1NFelJFc0JKX01SRW9XV1hLYXN3SnZPd2lrNDdB?oc=5",
           "source": "Google News",
           "published": "Wed, 16 Sep 2026 09:04:24 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Family",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Obamas' dog Sunny dies: \"A cherished member of our family\" - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CaUFuV3Fhdl9IZkMwYjhtdWg5V05DNVZDdDdRS2hkei1JNTBMaVNOVnY4NnN0Zl9iOVU2RFdYb09fenRSeHpmUG9rckV0MTJDaUxaRDNIZ0FhTUZoV2VN?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 15:30:00 GMT"
         },
         {
-          "title": "Saudi Arabia calls an attempted Mecca attack a 'red line' as Houthis deny they did it - NPR",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObGNUalU2dmp3SUZWMUw3d0lSRDRMNFVhRURZcFJBT3AySk1DbVpPbzJzZUFnak9obmJnajJPR1p1S0ZVRm1ndmFzOWs0cndScTB4U05MTTlaMXIycXBXQ3FqRjByWldlVTdCRkVRU2t5bzdEdVd4TXRPeENvVENsVXUxZHA?oc=5",
+          "title": "Charlie Kirk's family alleges UVU knew of rooftop security risk before his assassination: legal filing - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQamhlTlJ4Z04xTTdndHVUc1V3Mkdqa0Q2b0NHWnJfcmMtWlNXUUxYNkl1ZE4yV25qMXMxTkJhYUdNMHQ3WTB1dXlRLWxLTE9PN3FJNHk2MTNTZHlhWnVMblBqbDV6eFRMQjlXSXFxdDJNTnVqZWJidXN5akVIZlkxVV8xUmxTMEh4Q1FuRTl1bEpGdXU2ZmlJbjlNN1hIbU5lYWN6ZUdtLU1yb2RDTWwxR2RCZzBWckJxQWtB0gHAAUFVX3lxTFBnQzdtYlJnSVlHXzVtck9MRlVIaVlGQmZKYzh6MmxmZHo4SkdGU2ZXZ19XTlZlNFZNdmY4dTREU1o5RmZLd2dZTlNuUXJIeV9kRjhkRVZsQ0lxVm1RTlpFV0tEQjMwTEh4MUQ3dThSV2FvU21DQTBNM2ZSeVBZTjdoU05qMU1CS0tGVlRXZGdlZnVaTnFmeGFNN0VrYWk2NG9QLVpSQUd0amNjYTNZd3dkN2I0UWRiMDVja2JwNTFIWA?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 09:04:27 GMT"
+          "published": "Wed, 16 Sep 2026 10:00:35 GMT"
         }
       ]
     },
@@ -275,303 +150,130 @@
       ]
     },
     {
-      "word": "Fed",
+      "word": "war",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Fed Meeting Today: Dow Futures Edge Up as Investors Await Warsh Rate Decision - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUE5oTVluRXJXSEZFTGp6UUpwcjluaGhVUlpsbGJ1WnFnVU05MDhSNDMwT3ZleW5fQnhia1ZYbFZ0SzN3dFNkSzRnV1lxbUpyREtpSnZlYndsRFM1RW5GeW1WcTdvRnZfNVh1TXAzWWVBVEZPZnAtYm9JLXNick5YZA?oc=5",
+          "title": "Former Kosovo President Hashim Thaci sentenced to 25 years for war crimes - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaFV6aFpSZ2w0MjBMQWVvSlc3X1VJN3lrWGp4N0Y1bVAybERjR3hlR203V3U5VTQ3VGljcXNXQTM0aHFIV0w2RWVWRXdZQjVCUFpHQTh1clhaQ2JZOW8xV1JJbWczNDA1R291eExzMnJnNXdpcUROaExvd1NsUDVFRzBJaF9lSUtwdjlyNmZmNHBnS0NMd190ZFdZVmZVaTQ0R1h30gGoAUFVX3lxTFBFQmJpM0xpeHdoZTJKekFydDZlWHNOcWZvMjBYMW5XXzJFcy0wbTE1ajVXU2dzcXprM281NWY1QUViUkRvRVBLTGllZEx2X1pIZlEyZHZhMjE2TGpqV1hYcVBwWG5ULXlqMFBJTDJGWlRFcUJMMG11UThvWGdiOXNUYTg4M0dRc3E0SkFpSTNEU0FzZG5sZnJ5V3hZb2VzbkxudlZ1ZGZJRg?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 12:43:00 GMT"
+          "published": "Wed, 16 Sep 2026 15:32:09 GMT"
         },
         {
-          "title": "Stock futures edge higher ahead of pivotal Fed rate decision: Live updates - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93dm9pVTkxd0Y4Wk5sZUI4dTNRY1MyLV9RVDBuYm1pckV4WmU2TUR2azJvcUs0ZUZLSUZwbE4xNFFGUWJ5OGN5YjFub1NuZ015aVNKUTJMUmY2YzlTLWg0MFhaREI1Y1JwYjBTd1BCWVZYT3pnRmFN0gF8QVVfeXFMTVRqZWVyaXIwbEgwZTdhOW9IcXZGS2tVaUxZUHkycFFDUnhJNzU3QzhrR0ttcGlPNGljM0xEbnFjOVExQ0E4SDZZaEVpTnRVT1NEQU9rSm1XdGNhYm5tRS0yWThSQmh5T0RwUzU3dlpLT19JR0JvNTgzUkxHbQ?oc=5",
+          "title": "At least 21 killed after war-damaged Gaza building collapses - bbc.com",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yU0RUSGI1STdCZGNyRW9zVHBFX1pnQ0lkZEc2N3FwUThybHRYTzlQWXdzWFpDVzNtcXNMWXMxdGoxM0VqMDhRZXg5dDZLbFllWE5RNWZld01rcU0?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 12:16:11 GMT"
+          "published": "Wed, 16 Sep 2026 17:16:47 GMT"
         }
       ]
     },
     {
-      "word": "Futures",
+      "word": "Review",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Fed Meeting Today: Dow Futures Edge Up as Investors Await Warsh Rate Decision - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUE5oTVluRXJXSEZFTGp6UUpwcjluaGhVUlpsbGJ1WnFnVU05MDhSNDMwT3ZleW5fQnhia1ZYbFZ0SzN3dFNkSzRnV1lxbUpyREtpSnZlYndsRFM1RW5GeW1WcTdvRnZfNVh1TXAzWWVBVEZPZnAtYm9JLXNick5YZA?oc=5",
+          "title": "macOS 27 Golden Gate: The Ars Technica review - Ars Technica",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSmw5ZUF3NWE0dS1yaDJNLS1GdDdLZmpvaGRETUxzSHd5a2JreFJQNjdsd05YbG9yWUttWGNoaHlJbTdfNGtrcXhUNWc5aVBMbkdMekg5Rjd1MUxkVUxBUml3WnhvRXNtMFd6ZDVQYW5qbm95c01MRXk3b0dQOTExZFctTGFxTUREYVJZUjhn?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 12:43:00 GMT"
+          "published": "Wed, 16 Sep 2026 14:50:06 GMT"
         },
         {
-          "title": "Stock futures edge higher ahead of pivotal Fed rate decision: Live updates - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93dm9pVTkxd0Y4Wk5sZUI4dTNRY1MyLV9RVDBuYm1pckV4WmU2TUR2azJvcUs0ZUZLSUZwbE4xNFFGUWJ5OGN5YjFub1NuZ015aVNKUTJMUmY2YzlTLWg0MFhaREI1Y1JwYjBTd1BCWVZYT3pnRmFN0gF8QVVfeXFMTVRqZWVyaXIwbEgwZTdhOW9IcXZGS2tVaUxZUHkycFFDUnhJNzU3QzhrR0ttcGlPNGljM0xEbnFjOVExQ0E4SDZZaEVpTnRVT1NEQU9rSm1XdGNhYm5tRS0yWThSQmh5T0RwUzU3dlpLT19JR0JvNTgzUkxHbQ?oc=5",
+          "title": "‘Resident Evil’ Review: Zach Cregger Gives a Fatigued Franchise an Exhilarating Shot in the Arm - The Hollywood Reporter",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM3dOVlBxZTdMZzJjUTdldmttcFZ2a05yNnJLNlpUY3hOMHZENGx2SDNPMDdlazNxcjNsa2hybDdrcENtRkxMa0Q2V3k0NXRNS3pRTDF0MmlmVEJxS2hsSWpMNVJYTS1FTEd1d0s3VEt3NVlqM0hfX3J3QUZPVDBWM1JrVG04Z1lMdGhyUk9JXzNtc3VtaXFjMEtkbkI1M0lidkoyZmJicXBBTVhoZG05U3k5LWc?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 12:16:11 GMT"
+          "published": "Wed, 16 Sep 2026 16:00:40 GMT"
         }
       ]
     },
     {
-      "word": "Edge",
+      "word": "Man",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Fed Meeting Today: Dow Futures Edge Up as Investors Await Warsh Rate Decision - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUE5oTVluRXJXSEZFTGp6UUpwcjluaGhVUlpsbGJ1WnFnVU05MDhSNDMwT3ZleW5fQnhia1ZYbFZ0SzN3dFNkSzRnV1lxbUpyREtpSnZlYndsRFM1RW5GeW1WcTdvRnZfNVh1TXAzWWVBVEZPZnAtYm9JLXNick5YZA?oc=5",
+          "title": "‘Spider-Man: Brand New Day’ Overtakes ‘Star Wars: Force Awakens’ as Highest-Grossing Movie of All Time at Domestic Box Office - Variety",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdzlNbjRBMFB3ZmxPaERjaFJNajBzNm5XMXYyMnlEU3h4VFpER0hndEtEYzRIcE1ibHpBREJWRDBUamZmS2lKLXFveDZhM1hKSFhCWWhMYlZlTEFJdWhDWWpPUldPeUtnTFdWYlJpV0lwTFA3UVNsRVBDM05QdjRKNl9uNkN3M2hlSjVxcC1raDJKT3RBdjZEQ1lUMXdIOEJtZi1ScEtDam9fT3J0T21GU0ljNA?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 12:43:00 GMT"
+          "published": "Wed, 16 Sep 2026 14:49:00 GMT"
         },
         {
-          "title": "Stock futures edge higher ahead of pivotal Fed rate decision: Live updates - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93dm9pVTkxd0Y4Wk5sZUI4dTNRY1MyLV9RVDBuYm1pckV4WmU2TUR2azJvcUs0ZUZLSUZwbE4xNFFGUWJ5OGN5YjFub1NuZ015aVNKUTJMUmY2YzlTLWg0MFhaREI1Y1JwYjBTd1BCWVZYT3pnRmFN0gF8QVVfeXFMTVRqZWVyaXIwbEgwZTdhOW9IcXZGS2tVaUxZUHkycFFDUnhJNzU3QzhrR0ttcGlPNGljM0xEbnFjOVExQ0E4SDZZaEVpTnRVT1NEQU9rSm1XdGNhYm5tRS0yWThSQmh5T0RwUzU3dlpLT19JR0JvNTgzUkxHbQ?oc=5",
+          "title": "Barcelona, Real Madrid monitoring JJ Gabriel situation at Man United - sources - ESPN",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTTZwQWdiVGRxWThLMmEzaFZFV2ZWVTRBVVhNeFJGUVdyajBIVW8yMVhMWU1nQThmLVlNelpObDJfbU9mU0VPTnk5MGo1N3VGVTI3czRFeWZ0V3NoMmgxNU51QjlsMTYwV1FPZWlkY0xwVGQyUUVhWVI5MElKY0I4UEwxbndrempLeUxFZ0ZNOGs5MnQ2b1ZxZTJfYXlXZm84d0dkMHhURFl4R28z?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 12:16:11 GMT"
+          "published": "Wed, 16 Sep 2026 09:51:00 GMT"
         }
       ]
     },
     {
-      "word": "Rate",
+      "word": "United",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Fed Meeting Today: Dow Futures Edge Up as Investors Await Warsh Rate Decision - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUE5oTVluRXJXSEZFTGp6UUpwcjluaGhVUlpsbGJ1WnFnVU05MDhSNDMwT3ZleW5fQnhia1ZYbFZ0SzN3dFNkSzRnV1lxbUpyREtpSnZlYndsRFM1RW5GeW1WcTdvRnZfNVh1TXAzWWVBVEZPZnAtYm9JLXNick5YZA?oc=5",
+          "title": "Barcelona, Real Madrid monitoring JJ Gabriel situation at Man United - sources - ESPN",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTTZwQWdiVGRxWThLMmEzaFZFV2ZWVTRBVVhNeFJGUVdyajBIVW8yMVhMWU1nQThmLVlNelpObDJfbU9mU0VPTnk5MGo1N3VGVTI3czRFeWZ0V3NoMmgxNU51QjlsMTYwV1FPZWlkY0xwVGQyUUVhWVI5MElKY0I4UEwxbndrempLeUxFZ0ZNOGs5MnQ2b1ZxZTJfYXlXZm84d0dkMHhURFl4R28z?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 12:43:00 GMT"
+          "published": "Wed, 16 Sep 2026 09:51:00 GMT"
         },
         {
-          "title": "Stock futures edge higher ahead of pivotal Fed rate decision: Live updates - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93dm9pVTkxd0Y4Wk5sZUI4dTNRY1MyLV9RVDBuYm1pckV4WmU2TUR2azJvcUs0ZUZLSUZwbE4xNFFGUWJ5OGN5YjFub1NuZ015aVNKUTJMUmY2YzlTLWg0MFhaREI1Y1JwYjBTd1BCWVZYT3pnRmFN0gF8QVVfeXFMTVRqZWVyaXIwbEgwZTdhOW9IcXZGS2tVaUxZUHkycFFDUnhJNzU3QzhrR0ttcGlPNGljM0xEbnFjOVExQ0E4SDZZaEVpTnRVT1NEQU9rSm1XdGNhYm5tRS0yWThSQmh5T0RwUzU3dlpLT19JR0JvNTgzUkxHbQ?oc=5",
+          "title": "How common are measles deaths in the United States as vaccination rates fall? - CNN",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA3UDVxNDduSlg2N0U0RXlLTUdKRDlkM0RPVU9ROVl1elVqOFJFNWFnaVlqbWZCLVRQX1F2UDdMX095em0yTllGekFfNkt3ajZNejNKV3g1dHFsMGRwVlY0MEtvZUdocEJsZE85ZFp4dEFUZm8?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 12:16:11 GMT"
+          "published": "Wed, 16 Sep 2026 11:00:29 GMT"
         }
       ]
     },
     {
-      "word": "Update",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "The iPhone 18 Pro’s big camera update is all about the small gains - The Verge",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNam1ULUI3UHZHWHFkNUNuVjF5aUNBb3RQYS11ZUVwcHFnbjB4YS10WTI2dHZkc2Q2WDBSX1hTc3I4ZE8teHZpa3ZNZXd4MVRSVXF1WUFQdUp0d0NmTVByaGpMbFdONkg4WWYwTjRuRnFfUWQ5WmRidlJDV3JKRk1NQkY0NA?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 12:00:00 GMT"
-        },
-        {
-          "title": "Samsung releases stable One UI 9.0 update for Galaxy S26 series - SamMobile",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNU2tFMkkyRnVlZHFvMUo5Zy1JamJzQ3ZKYmlXV2RlMzNQcEQ1TzNEWjgxcVZoZm5CV0R2Y1Vqa0VaTHNON1R4anV4S0ZXTVRDcnlVa0tFTEJaVG9NZlhjbVhROUR1VFhiRnVTOGp6amRpdEd1YlNPcDU5SF9EUTVUa0NR?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 08:28:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Season",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "'Dancing With The Stars' Season 35 Premiere Recap: Who Went Home? - Deadline",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOXzViYlZxQlZMTXNfcTB6MVlEN2EySm9TMW9wZzNUU1laQVJvME1RX2U0eFFpdzMyS1ZDMmp5RHpfOU1vT2RnWDBJU0wxSGk5d2doTEZpU0FYRjByb0FmMDBYak9od0o2ei04V242c043akRrUllITGkycDMweDdIbDZaY3ZOLUk5c1d0d2RCLUR3dw?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 01:59:00 GMT"
-        },
-        {
-          "title": "Monaco sprint and season opener Plan B - F1's 2027 calendar - The Race",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRGNvaGRiT1pRVE5ET3BFeXRELWtZRElfbllTWFpXNExURWhaa2F5dzZlaFdpbEZsSG5WZjczWFQ4R3dHRDhtaGJaSFUtckMzaWVJblBSaUlkNDB6VG5qb0VkN1IydUI2UFBCbkliMWZKZXVFeHRRTkdkNHU0U1oxTXEzNkU0UlIxa092Znh0YUxLNTRvdXFfRWFCRkh3aXBIMUE?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 09:04:34 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Game",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘Resident Evil’ First Reactions: Zach Cregger’s Zombie Horror Is ‘Gloriously Gory’ and One of ‘The Best Video Game Adaptations’ Ever - Variety",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQUYxMEQ5SVRzVUcweENadUdvTUFYLWFnVVJMNXd2aThIb1RTYkxYNHgyZV9YMkVYaXFWSUlobEhHX1BERHZTNzhyeGhPWHBzSVBzWThyNGhMeEExZ1UtRUlPUU9SbUNzU2VFdEhIY2tKa2ZFQjFNT0JRcmZuZjNYcTBtMGlCS3VuUU1BSzcxdVNPSE9RSXVsTERpR1RuYlNybllBSw?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 03:09:00 GMT"
-        },
-        {
-          "title": "Arch Manning apologizes for “insensitive comment” about AI video from Saturday’s game - NBC Sports",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYzgxejlmUW9GR2FWaC1jM3BZWTBLREF1TExEZ2oyTDlFamNkeTMtbGhiXzhGWmpGeC16dUdYS1VodjdwZHVhNEc4TnRtTDIxa3diTEtDMGsxS2JIdHR6UnktcGFfZVBCRU1teFF4MzRleVlMVHhKOXNWNVlvMDFNbnM1NGxIbDg5N3ZwMDBtempFRXZZVEFGYjVrVmNYVnhSaDMycE9EV01SQlMzUU1HX2gybmxDYnhzQm1MUUlLVzBiV1JNdmlwTXVjR0FCUmZJU1BCRmlVeV9iYnRP?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 03:20:46 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Ever",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘Resident Evil’ First Reactions: Zach Cregger’s Zombie Horror Is ‘Gloriously Gory’ and One of ‘The Best Video Game Adaptations’ Ever - Variety",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQUYxMEQ5SVRzVUcweENadUdvTUFYLWFnVVJMNXd2aThIb1RTYkxYNHgyZV9YMkVYaXFWSUlobEhHX1BERHZTNzhyeGhPWHBzSVBzWThyNGhMeEExZ1UtRUlPUU9SbUNzU2VFdEhIY2tKa2ZFQjFNT0JRcmZuZjNYcTBtMGlCS3VuUU1BSzcxdVNPSE9RSXVsTERpR1RuYlNybllBSw?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 03:09:00 GMT"
-        },
-        {
-          "title": "T rex footprints unearthed in first-ever discovery 66 million years after creature walked the Earth - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU3dNNXdONHFXQXJUMFlGcTBDYkVzdEtJVFNKckJoSEk5ZE50VWFYcmt5eV81b19aQktjb3NTcTR2MnEzajdMSlhvWU9tS2czUlc1aG9mUXF6YmFfaEhwUzlyZjkwTzBXWE9nYmR5c04wak9WaVBmelJBY1VzeXhCNlhiaVdYYXk1VW5WMzVGQTE5RjlRcFdTa05hcWk5ZHhRbUM5ZXljLWZmUlo0ZFNjSGJjalNfNTJz0gG-AUFVX3lxTE5JbFVIaWIyV05yb3I5OFlrZkx2ektiZkhOcEI0cFRBWnNRYUVlMmFpcjFJQUJmalpsVlNRRERlQjlETjZlb1NXaFVmb2xrY3pIRGxWVjZDZ19HdTBDa3pmUWhZTzR3dG90V3NFMzlnZk00emxKWWpqYVFGU0NTSGt2Mnk0NVFyVFo3YjNuSk9jTTNwTzdyZVQ3UFdFM3F3Mi1rQWFaaFJLeGY5aFdRWDRSMGpQNVUzUmp3dmNLWkE?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 12:00:25 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Satellites",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Satellites show Earth lost more than 12 trillion tons of ice from Greenland, Antarctica in 47 years - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUWJnakJxOTNkV2xKMC1Xa044S20xalNDMjZ5TEpvcmE4V2QzZktCUGJJQlZuYnhtY3Y3WDJuQXZiM2lMUkFad1hGaWZBci1IQzMzY055b1BnNlU2TkxtaEhqeWY3SlhybklEYi1ndWdPSkFJWlpBa2daVmN1NlViYXFwZFRWdElSU0Y3ejUyMEFZMTl4UGtwSmxwX0gtU1dCRGl4Q3VDanJuc2ViWUJjVXdPQkdDU1VqMjhHU0VnMFRWTzg4?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 10:44:06 GMT"
-        },
-        {
-          "title": "Vega C rocket launches 2 European Earth-observing satellites to orbit from South America (video) - space.com",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPS0x4TWtzbm4wUG1KTGZPbFJ0QnkwZ3NTSlFkY3Z2dzJRX2Nlc19mcl9DQ2dUdVdHXzU5aXBnSXFwQUVrb1N3MFlySHdzdWR4aTEwTEgxTS0tVko2ZXdVb0xFakpfSFF1Y0JZcWN2U19FZGdfTnpSM0NRcDVkWlh2Z0M1dTRuWTZaWW1WWDN3RGlFcU51V3lBV0hZMDRzLXBMVFVpc3VoUDhmcU9qVjNwcUtYUjk5Y3lsdkFfMmVaRFI2WTVURHR1aHNtSQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 15 Sep 2026 01:37:02 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Dead",
+      "word": "Mike",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "3 dead after news helicopter reporting for NBC L.A. crashes while covering fatal bus collision - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTkZKTnpWb1VuME1pWVJfX2hUR0NTNXRLNzFmREpOeVEyaDBVUnBpZGppRVRkd1FsLWxackJjYU1jS0FUR0ZjS2tYeXlPcHBlT1pTMEs0ajBOWFptZDMycHZvNjVuYm9tMkNmOW1ySnFpQnQtdjRCTVY5NnVhOHBxWUdpRFk3S2o3dThwa1NPTGYtMEE?oc=5",
+          "title": "Mike Johnson cancels another House session day - Politico",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaVEwcDJmak1qOEgza0hmdjRsZWY3Vzc3MGJGOE14d2FLMGh0bkQxSi1DejN1bEN6dXJDODZlSXg3X3cwbm5CYUVTY0hQN2xXWEZfdzBCeERFbUcycnV6bmxjYXNrZkRlR2VuTXlnbEU2VkJsZ1N4bnBTYzRYMlotWDZkUjJBVHZZZXFmV0dDLTRhSllZX1ZEVWsxME9KdHN4ZW9Uak9VSXZmaF9w?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 10:11:00 GMT"
+          "published": "Wed, 16 Sep 2026 15:23:25 GMT"
         }
       ]
     },
     {
-      "word": "Helicopter",
+      "word": "Johnson",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "3 dead after news helicopter reporting for NBC L.A. crashes while covering fatal bus collision - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTkZKTnpWb1VuME1pWVJfX2hUR0NTNXRLNzFmREpOeVEyaDBVUnBpZGppRVRkd1FsLWxackJjYU1jS0FUR0ZjS2tYeXlPcHBlT1pTMEs0ajBOWFptZDMycHZvNjVuYm9tMkNmOW1ySnFpQnQtdjRCTVY5NnVhOHBxWUdpRFk3S2o3dThwa1NPTGYtMEE?oc=5",
+          "title": "Mike Johnson cancels another House session day - Politico",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaVEwcDJmak1qOEgza0hmdjRsZWY3Vzc3MGJGOE14d2FLMGh0bkQxSi1DejN1bEN6dXJDODZlSXg3X3cwbm5CYUVTY0hQN2xXWEZfdzBCeERFbUcycnV6bmxjYXNrZkRlR2VuTXlnbEU2VkJsZ1N4bnBTYzRYMlotWDZkUjJBVHZZZXFmV0dDLTRhSllZX1ZEVWsxME9KdHN4ZW9Uak9VSXZmaF9w?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 10:11:00 GMT"
+          "published": "Wed, 16 Sep 2026 15:23:25 GMT"
         }
       ]
     },
     {
-      "word": "Reporting",
+      "word": "Cancels",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "3 dead after news helicopter reporting for NBC L.A. crashes while covering fatal bus collision - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTkZKTnpWb1VuME1pWVJfX2hUR0NTNXRLNzFmREpOeVEyaDBVUnBpZGppRVRkd1FsLWxackJjYU1jS0FUR0ZjS2tYeXlPcHBlT1pTMEs0ajBOWFptZDMycHZvNjVuYm9tMkNmOW1ySnFpQnQtdjRCTVY5NnVhOHBxWUdpRFk3S2o3dThwa1NPTGYtMEE?oc=5",
+          "title": "Mike Johnson cancels another House session day - Politico",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaVEwcDJmak1qOEgza0hmdjRsZWY3Vzc3MGJGOE14d2FLMGh0bkQxSi1DejN1bEN6dXJDODZlSXg3X3cwbm5CYUVTY0hQN2xXWEZfdzBCeERFbUcycnV6bmxjYXNrZkRlR2VuTXlnbEU2VkJsZ1N4bnBTYzRYMlotWDZkUjJBVHZZZXFmV0dDLTRhSllZX1ZEVWsxME9KdHN4ZW9Uak9VSXZmaF9w?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 10:11:00 GMT"
+          "published": "Wed, 16 Sep 2026 15:23:25 GMT"
         }
       ]
     },
     {
-      "word": "NBC",
+      "word": "Session",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "3 dead after news helicopter reporting for NBC L.A. crashes while covering fatal bus collision - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTkZKTnpWb1VuME1pWVJfX2hUR0NTNXRLNzFmREpOeVEyaDBVUnBpZGppRVRkd1FsLWxackJjYU1jS0FUR0ZjS2tYeXlPcHBlT1pTMEs0ajBOWFptZDMycHZvNjVuYm9tMkNmOW1ySnFpQnQtdjRCTVY5NnVhOHBxWUdpRFk3S2o3dThwa1NPTGYtMEE?oc=5",
+          "title": "Mike Johnson cancels another House session day - Politico",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaVEwcDJmak1qOEgza0hmdjRsZWY3Vzc3MGJGOE14d2FLMGh0bkQxSi1DejN1bEN6dXJDODZlSXg3X3cwbm5CYUVTY0hQN2xXWEZfdzBCeERFbUcycnV6bmxjYXNrZkRlR2VuTXlnbEU2VkJsZ1N4bnBTYzRYMlotWDZkUjJBVHZZZXFmV0dDLTRhSllZX1ZEVWsxME9KdHN4ZW9Uak9VSXZmaF9w?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 10:11:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Crashes",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "3 dead after news helicopter reporting for NBC L.A. crashes while covering fatal bus collision - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTkZKTnpWb1VuME1pWVJfX2hUR0NTNXRLNzFmREpOeVEyaDBVUnBpZGppRVRkd1FsLWxackJjYU1jS0FUR0ZjS2tYeXlPcHBlT1pTMEs0ajBOWFptZDMycHZvNjVuYm9tMkNmOW1ySnFpQnQtdjRCTVY5NnVhOHBxWUdpRFk3S2o3dThwa1NPTGYtMEE?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 10:11:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Covering",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "3 dead after news helicopter reporting for NBC L.A. crashes while covering fatal bus collision - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTkZKTnpWb1VuME1pWVJfX2hUR0NTNXRLNzFmREpOeVEyaDBVUnBpZGppRVRkd1FsLWxackJjYU1jS0FUR0ZjS2tYeXlPcHBlT1pTMEs0ajBOWFptZDMycHZvNjVuYm9tMkNmOW1ySnFpQnQtdjRCTVY5NnVhOHBxWUdpRFk3S2o3dThwa1NPTGYtMEE?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 10:11:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Fatal",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "3 dead after news helicopter reporting for NBC L.A. crashes while covering fatal bus collision - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTkZKTnpWb1VuME1pWVJfX2hUR0NTNXRLNzFmREpOeVEyaDBVUnBpZGppRVRkd1FsLWxackJjYU1jS0FUR0ZjS2tYeXlPcHBlT1pTMEs0ajBOWFptZDMycHZvNjVuYm9tMkNmOW1ySnFpQnQtdjRCTVY5NnVhOHBxWUdpRFk3S2o3dThwa1NPTGYtMEE?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 10:11:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "bus",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "3 dead after news helicopter reporting for NBC L.A. crashes while covering fatal bus collision - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTkZKTnpWb1VuME1pWVJfX2hUR0NTNXRLNzFmREpOeVEyaDBVUnBpZGppRVRkd1FsLWxackJjYU1jS0FUR0ZjS2tYeXlPcHBlT1pTMEs0ajBOWFptZDMycHZvNjVuYm9tMkNmOW1ySnFpQnQtdjRCTVY5NnVhOHBxWUdpRFk3S2o3dThwa1NPTGYtMEE?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 10:11:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Collision",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "3 dead after news helicopter reporting for NBC L.A. crashes while covering fatal bus collision - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTkZKTnpWb1VuME1pWVJfX2hUR0NTNXRLNzFmREpOeVEyaDBVUnBpZGppRVRkd1FsLWxackJjYU1jS0FUR0ZjS2tYeXlPcHBlT1pTMEs0ajBOWFptZDMycHZvNjVuYm9tMkNmOW1ySnFpQnQtdjRCTVY5NnVhOHBxWUdpRFk3S2o3dThwa1NPTGYtMEE?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 10:11:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Ursula",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "EU's Ursula von der Leyen says she wants Canada to become an associate member - NPR",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVDF4OWt4WmpETklJNzUtWkhpMENveENwNXRWdE5hcGVBTXg1R3owNW91TjFqU2xmSG9ndzFhZ3kzWUY2a0RXY0I0ZWd3OV8xNF9RWkZvMUNfalVkeGpmTC1DUEl4UHFiZ2ZneGczdTgyMnFmbjBmaDdJTDRVU1VLdW9IUEg?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 10:48:22 GMT"
+          "published": "Wed, 16 Sep 2026 15:23:25 GMT"
         }
       ]
     },
@@ -581,10 +283,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "EU's Ursula von der Leyen says she wants Canada to become an associate member - NPR",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVDF4OWt4WmpETklJNzUtWkhpMENveENwNXRWdE5hcGVBTXg1R3owNW91TjFqU2xmSG9ndzFhZ3kzWUY2a0RXY0I0ZWd3OV8xNF9RWkZvMUNfalVkeGpmTC1DUEl4UHFiZ2ZneGczdTgyMnFmbjBmaDdJTDRVU1VLdW9IUEg?oc=5",
+          "title": "EU's von der Leyen wants Canada to become bloc's first associate member - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdDFWcUdmR2RJTzZXM3ZMQ2ZqVTI4Z2JBVmRfUnpuZEk4c2lfbU5iY3hCaHdwcTFZd0JEdDBaREdQSWlhUTVaTUFvaUxabjRpTFVjTjJEcl95Y1cwb01hOWZOUGpoWTE1NnJfU1RPZ2Z3SlRZSkg1eGwyaU9kMTd3UkpQNF9KT1lKRm81c0dHNC1YbjFUWjgwdXZpX2FkR0lXQTUxWFVCS1FSY01aZF9jVl9Md3FXUGxhM3NsYmRB?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 10:48:22 GMT"
+          "published": "Wed, 16 Sep 2026 13:29:58 GMT"
         }
       ]
     },
@@ -594,10 +296,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "EU's Ursula von der Leyen says she wants Canada to become an associate member - NPR",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVDF4OWt4WmpETklJNzUtWkhpMENveENwNXRWdE5hcGVBTXg1R3owNW91TjFqU2xmSG9ndzFhZ3kzWUY2a0RXY0I0ZWd3OV8xNF9RWkZvMUNfalVkeGpmTC1DUEl4UHFiZ2ZneGczdTgyMnFmbjBmaDdJTDRVU1VLdW9IUEg?oc=5",
+          "title": "EU's von der Leyen wants Canada to become bloc's first associate member - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdDFWcUdmR2RJTzZXM3ZMQ2ZqVTI4Z2JBVmRfUnpuZEk4c2lfbU5iY3hCaHdwcTFZd0JEdDBaREdQSWlhUTVaTUFvaUxabjRpTFVjTjJEcl95Y1cwb01hOWZOUGpoWTE1NnJfU1RPZ2Z3SlRZSkg1eGwyaU9kMTd3UkpQNF9KT1lKRm81c0dHNC1YbjFUWjgwdXZpX2FkR0lXQTUxWFVCS1FSY01aZF9jVl9Md3FXUGxhM3NsYmRB?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 10:48:22 GMT"
+          "published": "Wed, 16 Sep 2026 13:29:58 GMT"
         }
       ]
     },
@@ -607,10 +309,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "EU's Ursula von der Leyen says she wants Canada to become an associate member - NPR",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVDF4OWt4WmpETklJNzUtWkhpMENveENwNXRWdE5hcGVBTXg1R3owNW91TjFqU2xmSG9ndzFhZ3kzWUY2a0RXY0I0ZWd3OV8xNF9RWkZvMUNfalVkeGpmTC1DUEl4UHFiZ2ZneGczdTgyMnFmbjBmaDdJTDRVU1VLdW9IUEg?oc=5",
+          "title": "EU's von der Leyen wants Canada to become bloc's first associate member - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdDFWcUdmR2RJTzZXM3ZMQ2ZqVTI4Z2JBVmRfUnpuZEk4c2lfbU5iY3hCaHdwcTFZd0JEdDBaREdQSWlhUTVaTUFvaUxabjRpTFVjTjJEcl95Y1cwb01hOWZOUGpoWTE1NnJfU1RPZ2Z3SlRZSkg1eGwyaU9kMTd3UkpQNF9KT1lKRm81c0dHNC1YbjFUWjgwdXZpX2FkR0lXQTUxWFVCS1FSY01aZF9jVl9Md3FXUGxhM3NsYmRB?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 10:48:22 GMT"
+          "published": "Wed, 16 Sep 2026 13:29:58 GMT"
         }
       ]
     },
@@ -620,10 +322,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "EU's Ursula von der Leyen says she wants Canada to become an associate member - NPR",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVDF4OWt4WmpETklJNzUtWkhpMENveENwNXRWdE5hcGVBTXg1R3owNW91TjFqU2xmSG9ndzFhZ3kzWUY2a0RXY0I0ZWd3OV8xNF9RWkZvMUNfalVkeGpmTC1DUEl4UHFiZ2ZneGczdTgyMnFmbjBmaDdJTDRVU1VLdW9IUEg?oc=5",
+          "title": "EU's von der Leyen wants Canada to become bloc's first associate member - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdDFWcUdmR2RJTzZXM3ZMQ2ZqVTI4Z2JBVmRfUnpuZEk4c2lfbU5iY3hCaHdwcTFZd0JEdDBaREdQSWlhUTVaTUFvaUxabjRpTFVjTjJEcl95Y1cwb01hOWZOUGpoWTE1NnJfU1RPZ2Z3SlRZSkg1eGwyaU9kMTd3UkpQNF9KT1lKRm81c0dHNC1YbjFUWjgwdXZpX2FkR0lXQTUxWFVCS1FSY01aZF9jVl9Md3FXUGxhM3NsYmRB?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 10:48:22 GMT"
+          "published": "Wed, 16 Sep 2026 13:29:58 GMT"
         }
       ]
     },
@@ -633,10 +335,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "EU's Ursula von der Leyen says she wants Canada to become an associate member - NPR",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVDF4OWt4WmpETklJNzUtWkhpMENveENwNXRWdE5hcGVBTXg1R3owNW91TjFqU2xmSG9ndzFhZ3kzWUY2a0RXY0I0ZWd3OV8xNF9RWkZvMUNfalVkeGpmTC1DUEl4UHFiZ2ZneGczdTgyMnFmbjBmaDdJTDRVU1VLdW9IUEg?oc=5",
+          "title": "EU's von der Leyen wants Canada to become bloc's first associate member - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdDFWcUdmR2RJTzZXM3ZMQ2ZqVTI4Z2JBVmRfUnpuZEk4c2lfbU5iY3hCaHdwcTFZd0JEdDBaREdQSWlhUTVaTUFvaUxabjRpTFVjTjJEcl95Y1cwb01hOWZOUGpoWTE1NnJfU1RPZ2Z3SlRZSkg1eGwyaU9kMTd3UkpQNF9KT1lKRm81c0dHNC1YbjFUWjgwdXZpX2FkR0lXQTUxWFVCS1FSY01aZF9jVl9Md3FXUGxhM3NsYmRB?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 10:48:22 GMT"
+          "published": "Wed, 16 Sep 2026 13:29:58 GMT"
         }
       ]
     },
@@ -646,10 +348,23 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "EU's Ursula von der Leyen says she wants Canada to become an associate member - NPR",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVDF4OWt4WmpETklJNzUtWkhpMENveENwNXRWdE5hcGVBTXg1R3owNW91TjFqU2xmSG9ndzFhZ3kzWUY2a0RXY0I0ZWd3OV8xNF9RWkZvMUNfalVkeGpmTC1DUEl4UHFiZ2ZneGczdTgyMnFmbjBmaDdJTDRVU1VLdW9IUEg?oc=5",
+          "title": "EU's von der Leyen wants Canada to become bloc's first associate member - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdDFWcUdmR2RJTzZXM3ZMQ2ZqVTI4Z2JBVmRfUnpuZEk4c2lfbU5iY3hCaHdwcTFZd0JEdDBaREdQSWlhUTVaTUFvaUxabjRpTFVjTjJEcl95Y1cwb01hOWZOUGpoWTE1NnJfU1RPZ2Z3SlRZSkg1eGwyaU9kMTd3UkpQNF9KT1lKRm81c0dHNC1YbjFUWjgwdXZpX2FkR0lXQTUxWFVCS1FSY01aZF9jVl9Md3FXUGxhM3NsYmRB?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 10:48:22 GMT"
+          "published": "Wed, 16 Sep 2026 13:29:58 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Bloc",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "EU's von der Leyen wants Canada to become bloc's first associate member - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdDFWcUdmR2RJTzZXM3ZMQ2ZqVTI4Z2JBVmRfUnpuZEk4c2lfbU5iY3hCaHdwcTFZd0JEdDBaREdQSWlhUTVaTUFvaUxabjRpTFVjTjJEcl95Y1cwb01hOWZOUGpoWTE1NnJfU1RPZ2Z3SlRZSkg1eGwyaU9kMTd3UkpQNF9KT1lKRm81c0dHNC1YbjFUWjgwdXZpX2FkR0lXQTUxWFVCS1FSY01aZF9jVl9Md3FXUGxhM3NsYmRB?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 13:29:58 GMT"
         }
       ]
     },
@@ -659,23 +374,218 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "EU's Ursula von der Leyen says she wants Canada to become an associate member - NPR",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVDF4OWt4WmpETklJNzUtWkhpMENveENwNXRWdE5hcGVBTXg1R3owNW91TjFqU2xmSG9ndzFhZ3kzWUY2a0RXY0I0ZWd3OV8xNF9RWkZvMUNfalVkeGpmTC1DUEl4UHFiZ2ZneGczdTgyMnFmbjBmaDdJTDRVU1VLdW9IUEg?oc=5",
+          "title": "EU's von der Leyen wants Canada to become bloc's first associate member - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdDFWcUdmR2RJTzZXM3ZMQ2ZqVTI4Z2JBVmRfUnpuZEk4c2lfbU5iY3hCaHdwcTFZd0JEdDBaREdQSWlhUTVaTUFvaUxabjRpTFVjTjJEcl95Y1cwb01hOWZOUGpoWTE1NnJfU1RPZ2Z3SlRZSkg1eGwyaU9kMTd3UkpQNF9KT1lKRm81c0dHNC1YbjFUWjgwdXZpX2FkR0lXQTUxWFVCS1FSY01aZF9jVl9Md3FXUGxhM3NsYmRB?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 10:48:22 GMT"
+          "published": "Wed, 16 Sep 2026 13:29:58 GMT"
         }
       ]
     },
     {
-      "word": "Member",
+      "word": "Know",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "EU's Ursula von der Leyen says she wants Canada to become an associate member - NPR",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVDF4OWt4WmpETklJNzUtWkhpMENveENwNXRWdE5hcGVBTXg1R3owNW91TjFqU2xmSG9ndzFhZ3kzWUY2a0RXY0I0ZWd3OV8xNF9RWkZvMUNfalVkeGpmTC1DUEl4UHFiZ2ZneGczdTgyMnFmbjBmaDdJTDRVU1VLdW9IUEg?oc=5",
+          "title": "What to know about the victims of the NBC Los Angeles news helicopter crash - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTS1FdmpZaEhJeU1tNEl6OHJMY3hFU3ZYMWQtTGNZYXFROEMtNXdiUm8zT3BjMTVGUDcyOUhGcFdGSDlaMl9wUThSLTZrazZmclZxREtzUHVKTVZ5bmE4aVhteWUxdmpCUE5BMXBHMFMzYW9wdFRENWZnNUdlY0tMLWl5SkRVVzJvM2sza2k0WHAxV29yS1FQdTZ3akZ6em5aZm91TWhIS3o4bXNZNGdDbV9uTi0?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 10:48:22 GMT"
+          "published": "Wed, 16 Sep 2026 13:09:21 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Victims",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "What to know about the victims of the NBC Los Angeles news helicopter crash - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTS1FdmpZaEhJeU1tNEl6OHJMY3hFU3ZYMWQtTGNZYXFROEMtNXdiUm8zT3BjMTVGUDcyOUhGcFdGSDlaMl9wUThSLTZrazZmclZxREtzUHVKTVZ5bmE4aVhteWUxdmpCUE5BMXBHMFMzYW9wdFRENWZnNUdlY0tMLWl5SkRVVzJvM2sza2k0WHAxV29yS1FQdTZ3akZ6em5aZm91TWhIS3o4bXNZNGdDbV9uTi0?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 13:09:21 GMT"
+        }
+      ]
+    },
+    {
+      "word": "NBC",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "What to know about the victims of the NBC Los Angeles news helicopter crash - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTS1FdmpZaEhJeU1tNEl6OHJMY3hFU3ZYMWQtTGNZYXFROEMtNXdiUm8zT3BjMTVGUDcyOUhGcFdGSDlaMl9wUThSLTZrazZmclZxREtzUHVKTVZ5bmE4aVhteWUxdmpCUE5BMXBHMFMzYW9wdFRENWZnNUdlY0tMLWl5SkRVVzJvM2sza2k0WHAxV29yS1FQdTZ3akZ6em5aZm91TWhIS3o4bXNZNGdDbV9uTi0?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 13:09:21 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Los",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "What to know about the victims of the NBC Los Angeles news helicopter crash - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTS1FdmpZaEhJeU1tNEl6OHJMY3hFU3ZYMWQtTGNZYXFROEMtNXdiUm8zT3BjMTVGUDcyOUhGcFdGSDlaMl9wUThSLTZrazZmclZxREtzUHVKTVZ5bmE4aVhteWUxdmpCUE5BMXBHMFMzYW9wdFRENWZnNUdlY0tMLWl5SkRVVzJvM2sza2k0WHAxV29yS1FQdTZ3akZ6em5aZm91TWhIS3o4bXNZNGdDbV9uTi0?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 13:09:21 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Angeles",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "What to know about the victims of the NBC Los Angeles news helicopter crash - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTS1FdmpZaEhJeU1tNEl6OHJMY3hFU3ZYMWQtTGNZYXFROEMtNXdiUm8zT3BjMTVGUDcyOUhGcFdGSDlaMl9wUThSLTZrazZmclZxREtzUHVKTVZ5bmE4aVhteWUxdmpCUE5BMXBHMFMzYW9wdFRENWZnNUdlY0tMLWl5SkRVVzJvM2sza2k0WHAxV29yS1FQdTZ3akZ6em5aZm91TWhIS3o4bXNZNGdDbV9uTi0?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 13:09:21 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Helicopter",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "What to know about the victims of the NBC Los Angeles news helicopter crash - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTS1FdmpZaEhJeU1tNEl6OHJMY3hFU3ZYMWQtTGNZYXFROEMtNXdiUm8zT3BjMTVGUDcyOUhGcFdGSDlaMl9wUThSLTZrazZmclZxREtzUHVKTVZ5bmE4aVhteWUxdmpCUE5BMXBHMFMzYW9wdFRENWZnNUdlY0tMLWl5SkRVVzJvM2sza2k0WHAxV29yS1FQdTZ3akZ6em5aZm91TWhIS3o4bXNZNGdDbV9uTi0?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 13:09:21 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Crash",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "What to know about the victims of the NBC Los Angeles news helicopter crash - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTS1FdmpZaEhJeU1tNEl6OHJMY3hFU3ZYMWQtTGNZYXFROEMtNXdiUm8zT3BjMTVGUDcyOUhGcFdGSDlaMl9wUThSLTZrazZmclZxREtzUHVKTVZ5bmE4aVhteWUxdmpCUE5BMXBHMFMzYW9wdFRENWZnNUdlY0tMLWl5SkRVVzJvM2sza2k0WHAxV29yS1FQdTZ3akZ6em5aZm91TWhIS3o4bXNZNGdDbV9uTi0?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 13:09:21 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Democrat",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Democrat Says Trump Threw ‘Tantrum’ During Kennedy Center Board Meeting After Court Ruling - Forbes",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQ2dIdy15OW9JZkFsTk5LVmZKZU9kclpqdllZWC1RaE5kWERzMDlwQWU5M3ZFOUN4MUZWMFhSLWZVaXVZYjFHQTdBZ2RocFZQRUVwaXpoTVVZSnZLN0phYjdGcFdJenFSZ1c1UzhwRVo3NmE1clVqZ2VLa3hCdHBodlJQZ0MxalFjTUZaMHlrNmtUYUtZVlBCclZuWkNHQWhPV1gtVGpOWElaWFJEaDVEczlWbmNzNF9QYVZDOHpLem9SLTZIVWtSclpwWFg2SlZfZ1oybThncDEwZw?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 08:51:58 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Threw",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Democrat Says Trump Threw ‘Tantrum’ During Kennedy Center Board Meeting After Court Ruling - Forbes",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQ2dIdy15OW9JZkFsTk5LVmZKZU9kclpqdllZWC1RaE5kWERzMDlwQWU5M3ZFOUN4MUZWMFhSLWZVaXVZYjFHQTdBZ2RocFZQRUVwaXpoTVVZSnZLN0phYjdGcFdJenFSZ1c1UzhwRVo3NmE1clVqZ2VLa3hCdHBodlJQZ0MxalFjTUZaMHlrNmtUYUtZVlBCclZuWkNHQWhPV1gtVGpOWElaWFJEaDVEczlWbmNzNF9QYVZDOHpLem9SLTZIVWtSclpwWFg2SlZfZ1oybThncDEwZw?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 08:51:58 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Tantrum",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Democrat Says Trump Threw ‘Tantrum’ During Kennedy Center Board Meeting After Court Ruling - Forbes",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQ2dIdy15OW9JZkFsTk5LVmZKZU9kclpqdllZWC1RaE5kWERzMDlwQWU5M3ZFOUN4MUZWMFhSLWZVaXVZYjFHQTdBZ2RocFZQRUVwaXpoTVVZSnZLN0phYjdGcFdJenFSZ1c1UzhwRVo3NmE1clVqZ2VLa3hCdHBodlJQZ0MxalFjTUZaMHlrNmtUYUtZVlBCclZuWkNHQWhPV1gtVGpOWElaWFJEaDVEczlWbmNzNF9QYVZDOHpLem9SLTZIVWtSclpwWFg2SlZfZ1oybThncDEwZw?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 08:51:58 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Kennedy",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Democrat Says Trump Threw ‘Tantrum’ During Kennedy Center Board Meeting After Court Ruling - Forbes",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQ2dIdy15OW9JZkFsTk5LVmZKZU9kclpqdllZWC1RaE5kWERzMDlwQWU5M3ZFOUN4MUZWMFhSLWZVaXVZYjFHQTdBZ2RocFZQRUVwaXpoTVVZSnZLN0phYjdGcFdJenFSZ1c1UzhwRVo3NmE1clVqZ2VLa3hCdHBodlJQZ0MxalFjTUZaMHlrNmtUYUtZVlBCclZuWkNHQWhPV1gtVGpOWElaWFJEaDVEczlWbmNzNF9QYVZDOHpLem9SLTZIVWtSclpwWFg2SlZfZ1oybThncDEwZw?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 08:51:58 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Center",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Democrat Says Trump Threw ‘Tantrum’ During Kennedy Center Board Meeting After Court Ruling - Forbes",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQ2dIdy15OW9JZkFsTk5LVmZKZU9kclpqdllZWC1RaE5kWERzMDlwQWU5M3ZFOUN4MUZWMFhSLWZVaXVZYjFHQTdBZ2RocFZQRUVwaXpoTVVZSnZLN0phYjdGcFdJenFSZ1c1UzhwRVo3NmE1clVqZ2VLa3hCdHBodlJQZ0MxalFjTUZaMHlrNmtUYUtZVlBCclZuWkNHQWhPV1gtVGpOWElaWFJEaDVEczlWbmNzNF9QYVZDOHpLem9SLTZIVWtSclpwWFg2SlZfZ1oybThncDEwZw?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 08:51:58 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Board",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Democrat Says Trump Threw ‘Tantrum’ During Kennedy Center Board Meeting After Court Ruling - Forbes",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQ2dIdy15OW9JZkFsTk5LVmZKZU9kclpqdllZWC1RaE5kWERzMDlwQWU5M3ZFOUN4MUZWMFhSLWZVaXVZYjFHQTdBZ2RocFZQRUVwaXpoTVVZSnZLN0phYjdGcFdJenFSZ1c1UzhwRVo3NmE1clVqZ2VLa3hCdHBodlJQZ0MxalFjTUZaMHlrNmtUYUtZVlBCclZuWkNHQWhPV1gtVGpOWElaWFJEaDVEczlWbmNzNF9QYVZDOHpLem9SLTZIVWtSclpwWFg2SlZfZ1oybThncDEwZw?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 08:51:58 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Court",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Democrat Says Trump Threw ‘Tantrum’ During Kennedy Center Board Meeting After Court Ruling - Forbes",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQ2dIdy15OW9JZkFsTk5LVmZKZU9kclpqdllZWC1RaE5kWERzMDlwQWU5M3ZFOUN4MUZWMFhSLWZVaXVZYjFHQTdBZ2RocFZQRUVwaXpoTVVZSnZLN0phYjdGcFdJenFSZ1c1UzhwRVo3NmE1clVqZ2VLa3hCdHBodlJQZ0MxalFjTUZaMHlrNmtUYUtZVlBCclZuWkNHQWhPV1gtVGpOWElaWFJEaDVEczlWbmNzNF9QYVZDOHpLem9SLTZIVWtSclpwWFg2SlZfZ1oybThncDEwZw?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 08:51:58 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Ruling",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Democrat Says Trump Threw ‘Tantrum’ During Kennedy Center Board Meeting After Court Ruling - Forbes",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQ2dIdy15OW9JZkFsTk5LVmZKZU9kclpqdllZWC1RaE5kWERzMDlwQWU5M3ZFOUN4MUZWMFhSLWZVaXVZYjFHQTdBZ2RocFZQRUVwaXpoTVVZSnZLN0phYjdGcFdJenFSZ1c1UzhwRVo3NmE1clVqZ2VLa3hCdHBodlJQZ0MxalFjTUZaMHlrNmtUYUtZVlBCclZuWkNHQWhPV1gtVGpOWElaWFJEaDVEczlWbmNzNF9QYVZDOHpLem9SLTZIVWtSclpwWFg2SlZfZ1oybThncDEwZw?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 08:51:58 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Pipeline",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Saudi Pipeline Attack Risks ‘Disastrous’ Loss of Oil as Fighting Escalates - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTzVjMkh4M1lsaEJyZkV0a3lzMlhVNHVsZVNoV1A4d0VkTjluTFgwc0JXTHpPNWRFMjlfdThqMmxlLTI4dGRaalR4SnBEZmZ6aDBxTGNRNzZMX0VzVk9tcmIyR1pvS0l4ZlNBbjctU0hWWUJIYXRIdTFNc1NhVFRnLUVwY2E?oc=5",
+          "source": "Google News",
+          "published": "Wed, 16 Sep 2026 15:15:11 GMT"
         }
       ]
     }
