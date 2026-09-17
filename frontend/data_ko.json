@@ -1,366 +1,145 @@
 {
   "language": "ko",
-  "last_updated": 1789607712.4707043,
+  "last_updated": 1789630142.5815134,
   "count": 40,
   "trends": [
     {
+      "word": "대통령",
+      "count": 2,
+      "category": "PERSON",
+      "articles": [
+        {
+          "title": "이 대통령 내일 기자회견…‘솔직하고 직격으로 답하겠다’ 뜻 밝혀 - hani.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kZGQtdTRCVTdoV3hYNVJPdkM2M1BxcHZHZ0RNSTNGUFdORE95Ry1wSkk0SVJ5aW5xeExLLWhMckQxSkN5NzE3NkU4SmVwN0txVWRsa2VfTVRvS2xnYldKUDNTZGpaOUN1OXUw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 17 Sep 2026 07:21:00 GMT"
+        },
+        {
+          "title": "[속보]한동훈, 대통령 제치고 신뢰 정치인 1위-한국갤럽 - 문화일보",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52OXFWV0IzV0kyQ2Q3NzNyUFdrVnlJVzZSTFBhbjhNTW5xV2xVQnZNRFI1X041blhsb0N3UTU3Qzh4aGI3cUJOaE5HWVdWQi1a?oc=5",
+          "source": "Google News",
+          "published": "Thu, 17 Sep 2026 01:48:19 GMT"
+        }
+      ]
+    },
+    {
+      "word": "요구",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "추미애 ‘지사직 사퇴’ 이어 ‘탈당 요구’ 청원…“중앙정치 과도 개입” 주장 - hani.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IWEsxRGdhNEZBQ3JqeHRBaEozaXFYeWM3R0w0VWJYTmNTVTZIQzFSa1lsbzdKMEdLb2p1Nk1VTVBJajRMclFTMW43aFdMQWFTb1JDNXA4VElKSWNxTkRGenpmUQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 17 Sep 2026 02:47:00 GMT"
+        },
+        {
+          "title": "\"이순신 막더니 도요토미 등장\"...서경덕, 아시안게임 조직위 사과 요구 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tU1NaMnA3ZS1HZG9qWnVlcmpzSVBqRU5TWndub2xsREZ5c2c4dFJ3TUlnS0pXa0RhdW9FeEZXR1h0Ri1Ud3dpaXMxeWdqNmp0ZlJnX2NEank0cFBxSHBaVHVHYnFQRTg?oc=5",
+          "source": "Google News",
+          "published": "Thu, 17 Sep 2026 02:34:00 GMT"
+        }
+      ]
+    },
+    {
       "word": "트럼프",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "\"트럼프, 내주 유엔총회서 걸프국들과 '이란 전후 구상' 논의\" - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5VkJPXzB3Y2owemhPMTZHYTRlMWZpeEhlTlNzR1RYX3d4dktwZVJuaHpSanFqbnYyRUsta3lFT1ZqekdSeVhrcm5fTUNDc2hnQ3IwdDJtOFBfWGtG?oc=5",
-          "source": "Google News",
-          "published": "Thu, 17 Sep 2026 00:11:00 GMT"
-        },
-        {
-          "title": "트럼프 ‘에너지 휴전’ 발표 하루 만에 러·우크라 또 공방 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiaFpBVXNQcE52UlpvT002aktheGxyN3JaS3dJRWMxN2NqZjhmSGpGTVNsOWY2TnJkU24zeEhTc3N2V2ZvdkNzNFFKN05PbXYtSE05MjFjSmJPQzQ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 15 Sep 2026 10:36:00 GMT"
-        },
-        {
-          "title": "트럼프 \"미국 금리 1% 또는 그보다 낮아야…빨리 내려라\"(상보) - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XdW1JTjFUYjRSZEdDdmJpX1pPTS1pa09NVm9QcHp1SkNSa1pyUkNBem1XUG85VlJCOGNob21hN2JMR1J3aDlIVUVnM193LWVaWlZwTXFDbzNqdXVvUnFQZU1OY3NUVk9uVlI4RWhabEo?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 22:49:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "국민",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "국민 52%가 \"김승원 반대\"… 귀막은 與는 \"적임자\" 밀어붙여 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYTV2QmlpZDhVMmpEOUdxSUJNODV4Mk9uT2VzWE1OUFphZU5rMXlzbkc0XzJMVGR5MlF1UEFOQTlwUG1zbXVWQnpQRHhyd1N0OUVyWm1xTDZZM1NhOWdfYmRrcFhULXFoUm9nZm1mQXdGQ3hGQjJ5MjBTN2F2SDc5UnRicWdUdw?oc=5",
+          "title": "트럼프, 중동 6개국 지도자와 뉴욕 회동 추진…이란전 논의 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQNWY0WTFKa3hTSU5jWjFKV3JDQ2lxdkp3Q2ctMlJfY05fRi1YWUxhRjR0UmtFUm56ZDhUSVZ2dlhlM2tOTEpuMUNGbGZsNWNPRkxIMU5Md1FjcTTSAWBBVV95cUxOM1ozb3J5dVlhcXJfdjk2Skl3d1hvdEloVm5hMEV2Q2d5UDg2Ung1QXhLWVlHTTNvcnNHdzlVTlZ1TmFsck0xSFFiclFHZm9IdkVuWVRQTkpoclhlSU51Zmo?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 15:49:00 GMT"
+          "published": "Thu, 17 Sep 2026 02:22:22 GMT"
         },
         {
-          "title": "[영남타워] 인사는 국민의 눈높이에서 시작돼야 한다 - 영남일보",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EaWwzbkVqUlExRFltejVhYlZUclRWTjhLMFhUMmpWYUxud2VPRXdNWDZ1VjAwWjFrU2lhd2tjaEhtNHBaTGFZUHZsQW53WmZxSER2dGtPb0w5SXFWZXVRVEY5bw?oc=5",
+          "title": "트럼프, 캐나다의 EU 준회원국 추진에 \"적대 행위…고율 관세\" 경고 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsLXF0aUpzdzN4SVJTVElkUjg2dzZxMmc2cE45Y0NlYjBnaENGTjAxTjg3UVh3OGVWTXlxV0VKNW1na0JEZ3BmY2xUeFU0UjJxdmU4MEFoQzNlMUV2?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 21:00:00 GMT"
+          "published": "Thu, 17 Sep 2026 05:23:00 GMT"
         }
       ]
     },
     {
-      "word": "반대",
+      "word": "연속",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "국민 52%가 \"김승원 반대\"… 귀막은 與는 \"적임자\" 밀어붙여 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYTV2QmlpZDhVMmpEOUdxSUJNODV4Mk9uT2VzWE1OUFphZU5rMXlzbkc0XzJMVGR5MlF1UEFOQTlwUG1zbXVWQnpQRHhyd1N0OUVyWm1xTDZZM1NhOWdfYmRrcFhULXFoUm9nZm1mQXdGQ3hGQjJ5MjBTN2F2SDc5UnRicWdUdw?oc=5",
+          "title": "미 금리 만장일치 인상…“일회성 아닌 연속 인상의 시작” - hani.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nd2dkMXNaeG1kOUVXUS0zVnVhS25FNkJBQ1FvaXRyM0ZNSXFHZjF5YTE1dHRWUmFtdE8xUEdNZFROS3JwdWQ5eFdxS2RRS1JSOVJFUEJBX1FvbWdOeGdDTUkwdkM5WWF1eFBuanVqcXZlUQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 15:49:00 GMT"
+          "published": "Thu, 17 Sep 2026 02:20:00 GMT"
         },
         {
-          "title": "행안부 \"김지용, 김학의·정진웅 기소 반대…수사·기소 분리 반대 안 해\" - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zei1BMW8wVXB0OEVWZGNEMzZyN21xU1JNcXJwZDlfNG1xWll5OF9LY1g2emtsTG9hWHhjR3FWbG1tMEg5M0NnS2lUcU8wNVN2VlJOUDUtWmg1ZEJHNkNkQXd6aXdHR0E?oc=5",
+          "title": "상무표 예방주사 따끔하네…오원석, 연속 4안타 진땀→1이닝 2실점 [고척 현장] - chosun.com",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWHpldGpqZmtCUzItbVpUMUZTZGdoU0xOVmlNNXhqbkpPZC1uVThWOFM1cmhCbzdWNkFDNTcyOFM5WXFqRU51cDBhZVUxR0lBZnMxNGxHMTFFN1JvaGx1Z2hLZHZUb2d5dWRjdHltbzNXRldmcUg3QV9UaktNZDNTa2F4QQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 17 Sep 2026 00:50:00 GMT"
+          "published": "Thu, 17 Sep 2026 06:06:00 GMT"
         }
       ]
     },
     {
-      "word": "제시",
-      "count": 2,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "배경훈 부총리 \"대한민국 AI 시계 늦추지 않겠다\"…'속도책임' 제시 - 지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPWkJxRG8xbUtvdVZNYmlZTlBScGdYWm1uak94MFdHNnlEbUtKSWpWdGdLdGhfODcyVVc1Und0aGtPalJTbDU1d0ZmXzBTWV9oM0hmcXZ3?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 06:30:05 GMT"
-        },
-        {
-          "title": "고대 안암병원 이호승·이재민 교수 연구팀, 고위험 급성담낭염 새로운 내시경 치료 전략 제시 - 한국의약통신",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56cm9tV09YZFVKOTE4YkNld3pmaU9SSTVSbFRZNVZZblVSeF9iMVozZEZYLXpJRW9GZFJncXFWeHZONkVyVVhhcVJabDVUV0RncHRJU1BEWkZ4c2FQeVhTYjJNaHFEZFpnanpV?oc=5",
-          "source": "Google News",
-          "published": "Thu, 17 Sep 2026 00:34:31 GMT"
-        }
-      ]
-    },
-    {
-      "word": "건강",
+      "word": "공개",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "2030 통풍 환자, 관절뿐 아니라 심혈관 건강도 살펴야···심방세동 위험 44% 높아 - 의사신문",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YVHJRU1o5cWloQVVBZHFOY05qaUpVVHlwS0dJR080UURXWVhTbzVLc1RwNmplRGlhYzlGS3lnb3hzWFRnRm5hRG45TGRhYXpZRVhuLWpxeGhkM2tGU1dIUUJlNlRlZGJsWEdROF9KQQ?oc=5",
+          "title": "[도쿄게임쇼 2026]'블루 아카이브' 차기작 베일 벗었다…넥슨게임즈, 신작 '파레이돌리아' 최초 공개 - 알파경제",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TU1FKbjlySnJyUVdlYUNjMlBZaEdfcWd1ZjdubnBkbGNXTUlMSE16LVBuTkNrM3NxUC1hOEJ3Ml9zVXBUdlZoSnpxS25QN1NPZFUwcjJ1cGZZUFM5SWFxdzZkV1dPX3hLcjd2bUhB?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 05:45:15 GMT"
+          "published": "Thu, 17 Sep 2026 05:28:29 GMT"
         },
         {
-          "title": "노인의학 3개 학회, 초고령사회 노인 호흡기 건강 보장 정책 공동 제안 - 한국의약통신",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aVXJZQXFlb3VrRUtNc0tMU3RPenZXVTNSY3dKcU44dzROdHN3enhtUzVBTjdvSGNkenp0aHpsUlVRN0hGTVpMQi1hOWdnYVRpeUlieF9KZHFKXzZEMjlKT1NXWlNzdzF4aHdz?oc=5",
+          "title": "신세계인터내셔날 어그, 새 얼굴에 장원영 발탁…FW 캠페인 공개 - 전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90dE5hTlR6b2RZWjAwb05qazVuY2RTTV9kZlZWZE5pUDlLWjFweWNMS1c3d3ZXdVZtV29ham1PNDV1Nmw0anI2OEJjZDJVUQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 17 Sep 2026 00:27:53 GMT"
+          "published": "Thu, 17 Sep 2026 01:59:24 GMT"
         }
       ]
     },
     {
-      "word": "단독김승원",
-      "count": 1,
-      "category": "ORGANIZATION",
+      "word": "아시안게임",
+      "count": 2,
+      "category": "NOUN",
       "articles": [
         {
-          "title": "[단독]김승원 브로커, 판사 앞에서 ‘제넨셀 로비’ 언급 정황···영장기각에 영향 미쳤나 - khan.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xQmJEREFvQnc5WjhselAyRDM5WThTdmk3NHhzbkkySlFET0N3dGF2dG1mVEhxaFEwR0J1c0dQT1FNV05rVmZtaEMyZUthSkp5bjBSRUhqbUVhUdIBX0FVX3lxTE9rSlE2NlhweXVKY18xZmdGX0tFODRBU183M3VWdTNaZnAwdlpIZGVrZUtBUlAxWGZQNHNNMFNyMW1QeF9YNDNONWxISFZfMl9oUmpmek9ORno5Y0p3SHpZ?oc=5",
+          "title": "[아시안게임] 여자배구 차상현 감독 \"베트남전에 초점…정신 무장할 것\" - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tQVFEOVJlaWxMQVZ0SExfdGtydjJVSUNzeGxoaEEwM0JFaGlrdGRBbnFNQURBZmNEZzBvT3FpNWZLM2pXY1JJUXRacU5PVDJ5RlU1S0tHd3VhNHPSAWBBVV95cUxQODE3Ty0wc1VJNVRHMUVpQVpqSmNCQVpfVzJUS1dPeEJvS1lPaG82aWdaUGhtREQ4eTE2MWxKV2NIWEpTdWx5MHV5cUhMVkd5eEVBaWtiREtmT0V4TkFyYmg?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 21:00:00 GMT"
+          "published": "Thu, 17 Sep 2026 06:02:10 GMT"
+        },
+        {
+          "title": "\"이순신 막더니 도요토미 등장\"...서경덕, 아시안게임 조직위 사과 요구 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tU1NaMnA3ZS1HZG9qWnVlcmpzSVBqRU5TWndub2xsREZ5c2c4dFJ3TUlnS0pXa0RhdW9FeEZXR1h0Ri1Ud3dpaXMxeWdqNmp0ZlJnX2NEank0cFBxSHBaVHVHYnFQRTg?oc=5",
+          "source": "Google News",
+          "published": "Thu, 17 Sep 2026 02:34:00 GMT"
         }
       ]
     },
     {
-      "word": "브로커",
+      "word": "국회",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[단독]김승원 브로커, 판사 앞에서 ‘제넨셀 로비’ 언급 정황···영장기각에 영향 미쳤나 - khan.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xQmJEREFvQnc5WjhselAyRDM5WThTdmk3NHhzbkkySlFET0N3dGF2dG1mVEhxaFEwR0J1c0dQT1FNV05rVmZtaEMyZUthSkp5bjBSRUhqbUVhUdIBX0FVX3lxTE9rSlE2NlhweXVKY18xZmdGX0tFODRBU183M3VWdTNaZnAwdlpIZGVrZUtBUlAxWGZQNHNNMFNyMW1QeF9YNDNONWxISFZfMl9oUmpmek9ORno5Y0p3SHpZ?oc=5",
+          "title": "[속보] 국회 법사위, 김승원 인사청문보고서 與 주도 채택…국힘 퇴장 - chosun.com",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOFl2NXdkM25YeXhUZ1B5aXIzdmd0TmdzZjNEZlJlV0lQanByUHR2YUQ0cXJDM1RuNF9pVFYyTTNrYmR3WDZ5MlE0bEVOcFFDVzRqOTZWTDBCazlKNTdwZ1NYSTJrV2ZJLV9kaExWWDhqUlZDWTVRUVBMT3NpcDY5ZVJXVzlidDVDLUpUMnlHUXQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 21:00:00 GMT"
+          "published": "Thu, 17 Sep 2026 03:47:00 GMT"
         }
       ]
     },
     {
-      "word": "판사",
+      "word": "법사위",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[단독]김승원 브로커, 판사 앞에서 ‘제넨셀 로비’ 언급 정황···영장기각에 영향 미쳤나 - khan.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xQmJEREFvQnc5WjhselAyRDM5WThTdmk3NHhzbkkySlFET0N3dGF2dG1mVEhxaFEwR0J1c0dQT1FNV05rVmZtaEMyZUthSkp5bjBSRUhqbUVhUdIBX0FVX3lxTE9rSlE2NlhweXVKY18xZmdGX0tFODRBU183M3VWdTNaZnAwdlpIZGVrZUtBUlAxWGZQNHNNMFNyMW1QeF9YNDNONWxISFZfMl9oUmpmek9ORno5Y0p3SHpZ?oc=5",
+          "title": "[속보] 국회 법사위, 김승원 인사청문보고서 與 주도 채택…국힘 퇴장 - chosun.com",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOFl2NXdkM25YeXhUZ1B5aXIzdmd0TmdzZjNEZlJlV0lQanByUHR2YUQ0cXJDM1RuNF9pVFYyTTNrYmR3WDZ5MlE0bEVOcFFDVzRqOTZWTDBCazlKNTdwZ1NYSTJrV2ZJLV9kaExWWDhqUlZDWTVRUVBMT3NpcDY5ZVJXVzlidDVDLUpUMnlHUXQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 21:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "앞에서",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[단독]김승원 브로커, 판사 앞에서 ‘제넨셀 로비’ 언급 정황···영장기각에 영향 미쳤나 - khan.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xQmJEREFvQnc5WjhselAyRDM5WThTdmk3NHhzbkkySlFET0N3dGF2dG1mVEhxaFEwR0J1c0dQT1FNV05rVmZtaEMyZUthSkp5bjBSRUhqbUVhUdIBX0FVX3lxTE9rSlE2NlhweXVKY18xZmdGX0tFODRBU183M3VWdTNaZnAwdlpIZGVrZUtBUlAxWGZQNHNNMFNyMW1QeF9YNDNONWxISFZfMl9oUmpmek9ORno5Y0p3SHpZ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 21:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "제넨셀",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[단독]김승원 브로커, 판사 앞에서 ‘제넨셀 로비’ 언급 정황···영장기각에 영향 미쳤나 - khan.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xQmJEREFvQnc5WjhselAyRDM5WThTdmk3NHhzbkkySlFET0N3dGF2dG1mVEhxaFEwR0J1c0dQT1FNV05rVmZtaEMyZUthSkp5bjBSRUhqbUVhUdIBX0FVX3lxTE9rSlE2NlhweXVKY18xZmdGX0tFODRBU183M3VWdTNaZnAwdlpIZGVrZUtBUlAxWGZQNHNNMFNyMW1QeF9YNDNONWxISFZfMl9oUmpmek9ORno5Y0p3SHpZ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 21:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "로비",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[단독]김승원 브로커, 판사 앞에서 ‘제넨셀 로비’ 언급 정황···영장기각에 영향 미쳤나 - khan.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xQmJEREFvQnc5WjhselAyRDM5WThTdmk3NHhzbkkySlFET0N3dGF2dG1mVEhxaFEwR0J1c0dQT1FNV05rVmZtaEMyZUthSkp5bjBSRUhqbUVhUdIBX0FVX3lxTE9rSlE2NlhweXVKY18xZmdGX0tFODRBU183M3VWdTNaZnAwdlpIZGVrZUtBUlAxWGZQNHNNMFNyMW1QeF9YNDNONWxISFZfMl9oUmpmek9ORno5Y0p3SHpZ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 21:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "언급",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[단독]김승원 브로커, 판사 앞에서 ‘제넨셀 로비’ 언급 정황···영장기각에 영향 미쳤나 - khan.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xQmJEREFvQnc5WjhselAyRDM5WThTdmk3NHhzbkkySlFET0N3dGF2dG1mVEhxaFEwR0J1c0dQT1FNV05rVmZtaEMyZUthSkp5bjBSRUhqbUVhUdIBX0FVX3lxTE9rSlE2NlhweXVKY18xZmdGX0tFODRBU183M3VWdTNaZnAwdlpIZGVrZUtBUlAxWGZQNHNNMFNyMW1QeF9YNDNONWxISFZfMl9oUmpmek9ORno5Y0p3SHpZ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 21:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "정황영장기각",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[단독]김승원 브로커, 판사 앞에서 ‘제넨셀 로비’ 언급 정황···영장기각에 영향 미쳤나 - khan.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xQmJEREFvQnc5WjhselAyRDM5WThTdmk3NHhzbkkySlFET0N3dGF2dG1mVEhxaFEwR0J1c0dQT1FNV05rVmZtaEMyZUthSkp5bjBSRUhqbUVhUdIBX0FVX3lxTE9rSlE2NlhweXVKY18xZmdGX0tFODRBU183M3VWdTNaZnAwdlpIZGVrZUtBUlAxWGZQNHNNMFNyMW1QeF9YNDNONWxISFZfMl9oUmpmek9ORno5Y0p3SHpZ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 21:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "영향",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[단독]김승원 브로커, 판사 앞에서 ‘제넨셀 로비’ 언급 정황···영장기각에 영향 미쳤나 - khan.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xQmJEREFvQnc5WjhselAyRDM5WThTdmk3NHhzbkkySlFET0N3dGF2dG1mVEhxaFEwR0J1c0dQT1FNV05rVmZtaEMyZUthSkp5bjBSRUhqbUVhUdIBX0FVX3lxTE9rSlE2NlhweXVKY18xZmdGX0tFODRBU183M3VWdTNaZnAwdlpIZGVrZUtBUlAxWGZQNHNNMFNyMW1QeF9YNDNONWxISFZfMl9oUmpmek9ORno5Y0p3SHpZ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 21:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "미쳤",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[단독]김승원 브로커, 판사 앞에서 ‘제넨셀 로비’ 언급 정황···영장기각에 영향 미쳤나 - khan.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xQmJEREFvQnc5WjhselAyRDM5WThTdmk3NHhzbkkySlFET0N3dGF2dG1mVEhxaFEwR0J1c0dQT1FNV05rVmZtaEMyZUthSkp5bjBSRUhqbUVhUdIBX0FVX3lxTE9rSlE2NlhweXVKY18xZmdGX0tFODRBU183M3VWdTNaZnAwdlpIZGVrZUtBUlAxWGZQNHNNMFNyMW1QeF9YNDNONWxISFZfMl9oUmpmek9ORno5Y0p3SHpZ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 21:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "후티",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "후티, 사우디 공세 강화…메카 공격 부인하고 “석유시설 타격” 주장 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tc0RlUjUySzBtYzRfZ182dDFucjRfcmVlUjNNSXBpT3VVdzhuX1I1d0NYTmRNMDF4b0NpWHJEUnNfYTRQMlZLQXhvVlF2ZlI5ZzA4ODZOMlhLNWxNTGFYc3VSOUY5Y25obk9HM09VWWo4ME0?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 13:14:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "사우디",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "후티, 사우디 공세 강화…메카 공격 부인하고 “석유시설 타격” 주장 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tc0RlUjUySzBtYzRfZ182dDFucjRfcmVlUjNNSXBpT3VVdzhuX1I1d0NYTmRNMDF4b0NpWHJEUnNfYTRQMlZLQXhvVlF2ZlI5ZzA4ODZOMlhLNWxNTGFYc3VSOUY5Y25obk9HM09VWWo4ME0?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 13:14:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "공세",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "후티, 사우디 공세 강화…메카 공격 부인하고 “석유시설 타격” 주장 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tc0RlUjUySzBtYzRfZ182dDFucjRfcmVlUjNNSXBpT3VVdzhuX1I1d0NYTmRNMDF4b0NpWHJEUnNfYTRQMlZLQXhvVlF2ZlI5ZzA4ODZOMlhLNWxNTGFYc3VSOUY5Y25obk9HM09VWWo4ME0?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 13:14:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "강화메카",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "후티, 사우디 공세 강화…메카 공격 부인하고 “석유시설 타격” 주장 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tc0RlUjUySzBtYzRfZ182dDFucjRfcmVlUjNNSXBpT3VVdzhuX1I1d0NYTmRNMDF4b0NpWHJEUnNfYTRQMlZLQXhvVlF2ZlI5ZzA4ODZOMlhLNWxNTGFYc3VSOUY5Y25obk9HM09VWWo4ME0?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 13:14:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "공격",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "후티, 사우디 공세 강화…메카 공격 부인하고 “석유시설 타격” 주장 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tc0RlUjUySzBtYzRfZ182dDFucjRfcmVlUjNNSXBpT3VVdzhuX1I1d0NYTmRNMDF4b0NpWHJEUnNfYTRQMlZLQXhvVlF2ZlI5ZzA4ODZOMlhLNWxNTGFYc3VSOUY5Y25obk9HM09VWWo4ME0?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 13:14:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "부인",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "후티, 사우디 공세 강화…메카 공격 부인하고 “석유시설 타격” 주장 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tc0RlUjUySzBtYzRfZ182dDFucjRfcmVlUjNNSXBpT3VVdzhuX1I1d0NYTmRNMDF4b0NpWHJEUnNfYTRQMlZLQXhvVlF2ZlI5ZzA4ODZOMlhLNWxNTGFYc3VSOUY5Y25obk9HM09VWWo4ME0?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 13:14:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "석유시설",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "후티, 사우디 공세 강화…메카 공격 부인하고 “석유시설 타격” 주장 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tc0RlUjUySzBtYzRfZ182dDFucjRfcmVlUjNNSXBpT3VVdzhuX1I1d0NYTmRNMDF4b0NpWHJEUnNfYTRQMlZLQXhvVlF2ZlI5ZzA4ODZOMlhLNWxNTGFYc3VSOUY5Y25obk9HM09VWWo4ME0?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 13:14:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "타격",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "후티, 사우디 공세 강화…메카 공격 부인하고 “석유시설 타격” 주장 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tc0RlUjUySzBtYzRfZ182dDFucjRfcmVlUjNNSXBpT3VVdzhuX1I1d0NYTmRNMDF4b0NpWHJEUnNfYTRQMlZLQXhvVlF2ZlI5ZzA4ODZOMlhLNWxNTGFYc3VSOUY5Y25obk9HM09VWWo4ME0?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 13:14:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "주장",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "후티, 사우디 공세 강화…메카 공격 부인하고 “석유시설 타격” 주장 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tc0RlUjUySzBtYzRfZ182dDFucjRfcmVlUjNNSXBpT3VVdzhuX1I1d0NYTmRNMDF4b0NpWHJEUnNfYTRQMlZLQXhvVlF2ZlI5ZzA4ODZOMlhLNWxNTGFYc3VSOUY5Y25obk9HM09VWWo4ME0?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 13:14:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "52",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "국민 52%가 \"김승원 반대\"… 귀막은 與는 \"적임자\" 밀어붙여 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYTV2QmlpZDhVMmpEOUdxSUJNODV4Mk9uT2VzWE1OUFphZU5rMXlzbkc0XzJMVGR5MlF1UEFOQTlwUG1zbXVWQnpQRHhyd1N0OUVyWm1xTDZZM1NhOWdfYmRrcFhULXFoUm9nZm1mQXdGQ3hGQjJ5MjBTN2F2SDc5UnRicWdUdw?oc=5",
-          "source": "Google News",
-          "published": "Wed, 16 Sep 2026 15:49:00 GMT"
+          "published": "Thu, 17 Sep 2026 03:47:00 GMT"
         }
       ]
     },
@@ -370,192 +149,413 @@
       "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "국민 52%가 \"김승원 반대\"… 귀막은 與는 \"적임자\" 밀어붙여 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYTV2QmlpZDhVMmpEOUdxSUJNODV4Mk9uT2VzWE1OUFphZU5rMXlzbkc0XzJMVGR5MlF1UEFOQTlwUG1zbXVWQnpQRHhyd1N0OUVyWm1xTDZZM1NhOWdfYmRrcFhULXFoUm9nZm1mQXdGQ3hGQjJ5MjBTN2F2SDc5UnRicWdUdw?oc=5",
+          "title": "[속보] 국회 법사위, 김승원 인사청문보고서 與 주도 채택…국힘 퇴장 - chosun.com",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOFl2NXdkM25YeXhUZ1B5aXIzdmd0TmdzZjNEZlJlV0lQanByUHR2YUQ0cXJDM1RuNF9pVFYyTTNrYmR3WDZ5MlE0bEVOcFFDVzRqOTZWTDBCazlKNTdwZ1NYSTJrV2ZJLV9kaExWWDhqUlZDWTVRUVBMT3NpcDY5ZVJXVzlidDVDLUpUMnlHUXQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 15:49:00 GMT"
+          "published": "Thu, 17 Sep 2026 03:47:00 GMT"
         }
       ]
     },
     {
-      "word": "귀막",
+      "word": "인사청문보고서",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "국민 52%가 \"김승원 반대\"… 귀막은 與는 \"적임자\" 밀어붙여 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYTV2QmlpZDhVMmpEOUdxSUJNODV4Mk9uT2VzWE1OUFphZU5rMXlzbkc0XzJMVGR5MlF1UEFOQTlwUG1zbXVWQnpQRHhyd1N0OUVyWm1xTDZZM1NhOWdfYmRrcFhULXFoUm9nZm1mQXdGQ3hGQjJ5MjBTN2F2SDc5UnRicWdUdw?oc=5",
+          "title": "[속보] 국회 법사위, 김승원 인사청문보고서 與 주도 채택…국힘 퇴장 - chosun.com",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOFl2NXdkM25YeXhUZ1B5aXIzdmd0TmdzZjNEZlJlV0lQanByUHR2YUQ0cXJDM1RuNF9pVFYyTTNrYmR3WDZ5MlE0bEVOcFFDVzRqOTZWTDBCazlKNTdwZ1NYSTJrV2ZJLV9kaExWWDhqUlZDWTVRUVBMT3NpcDY5ZVJXVzlidDVDLUpUMnlHUXQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 15:49:00 GMT"
+          "published": "Thu, 17 Sep 2026 03:47:00 GMT"
         }
       ]
     },
     {
-      "word": "적임자",
+      "word": "주도",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "국민 52%가 \"김승원 반대\"… 귀막은 與는 \"적임자\" 밀어붙여 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYTV2QmlpZDhVMmpEOUdxSUJNODV4Mk9uT2VzWE1OUFphZU5rMXlzbkc0XzJMVGR5MlF1UEFOQTlwUG1zbXVWQnpQRHhyd1N0OUVyWm1xTDZZM1NhOWdfYmRrcFhULXFoUm9nZm1mQXdGQ3hGQjJ5MjBTN2F2SDc5UnRicWdUdw?oc=5",
+          "title": "[속보] 국회 법사위, 김승원 인사청문보고서 與 주도 채택…국힘 퇴장 - chosun.com",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOFl2NXdkM25YeXhUZ1B5aXIzdmd0TmdzZjNEZlJlV0lQanByUHR2YUQ0cXJDM1RuNF9pVFYyTTNrYmR3WDZ5MlE0bEVOcFFDVzRqOTZWTDBCazlKNTdwZ1NYSTJrV2ZJLV9kaExWWDhqUlZDWTVRUVBMT3NpcDY5ZVJXVzlidDVDLUpUMnlHUXQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 15:49:00 GMT"
+          "published": "Thu, 17 Sep 2026 03:47:00 GMT"
         }
       ]
     },
     {
-      "word": "밀어붙여",
+      "word": "채택국힘",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "국민 52%가 \"김승원 반대\"… 귀막은 與는 \"적임자\" 밀어붙여 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYTV2QmlpZDhVMmpEOUdxSUJNODV4Mk9uT2VzWE1OUFphZU5rMXlzbkc0XzJMVGR5MlF1UEFOQTlwUG1zbXVWQnpQRHhyd1N0OUVyWm1xTDZZM1NhOWdfYmRrcFhULXFoUm9nZm1mQXdGQ3hGQjJ5MjBTN2F2SDc5UnRicWdUdw?oc=5",
+          "title": "[속보] 국회 법사위, 김승원 인사청문보고서 與 주도 채택…국힘 퇴장 - chosun.com",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOFl2NXdkM25YeXhUZ1B5aXIzdmd0TmdzZjNEZlJlV0lQanByUHR2YUQ0cXJDM1RuNF9pVFYyTTNrYmR3WDZ5MlE0bEVOcFFDVzRqOTZWTDBCazlKNTdwZ1NYSTJrV2ZJLV9kaExWWDhqUlZDWTVRUVBMT3NpcDY5ZVJXVzlidDVDLUpUMnlHUXQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 16 Sep 2026 15:49:00 GMT"
+          "published": "Thu, 17 Sep 2026 03:47:00 GMT"
         }
       ]
     },
     {
-      "word": "행안부",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "행안부 \"김지용, 김학의·정진웅 기소 반대…수사·기소 분리 반대 안 해\" - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zei1BMW8wVXB0OEVWZGNEMzZyN21xU1JNcXJwZDlfNG1xWll5OF9LY1g2emtsTG9hWHhjR3FWbG1tMEg5M0NnS2lUcU8wNVN2VlJOUDUtWmg1ZEJHNkNkQXd6aXdHR0E?oc=5",
-          "source": "Google News",
-          "published": "Thu, 17 Sep 2026 00:50:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "김지용",
+      "word": "퇴장",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "행안부 \"김지용, 김학의·정진웅 기소 반대…수사·기소 분리 반대 안 해\" - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zei1BMW8wVXB0OEVWZGNEMzZyN21xU1JNcXJwZDlfNG1xWll5OF9LY1g2emtsTG9hWHhjR3FWbG1tMEg5M0NnS2lUcU8wNVN2VlJOUDUtWmg1ZEJHNkNkQXd6aXdHR0E?oc=5",
+          "title": "[속보] 국회 법사위, 김승원 인사청문보고서 與 주도 채택…국힘 퇴장 - chosun.com",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOFl2NXdkM25YeXhUZ1B5aXIzdmd0TmdzZjNEZlJlV0lQanByUHR2YUQ0cXJDM1RuNF9pVFYyTTNrYmR3WDZ5MlE0bEVOcFFDVzRqOTZWTDBCazlKNTdwZ1NYSTJrV2ZJLV9kaExWWDhqUlZDWTVRUVBMT3NpcDY5ZVJXVzlidDVDLUpUMnlHUXQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 17 Sep 2026 00:50:00 GMT"
+          "published": "Thu, 17 Sep 2026 03:47:00 GMT"
         }
       ]
     },
     {
-      "word": "김학의정진웅",
+      "word": "기자회견솔직",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "행안부 \"김지용, 김학의·정진웅 기소 반대…수사·기소 분리 반대 안 해\" - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zei1BMW8wVXB0OEVWZGNEMzZyN21xU1JNcXJwZDlfNG1xWll5OF9LY1g2emtsTG9hWHhjR3FWbG1tMEg5M0NnS2lUcU8wNVN2VlJOUDUtWmg1ZEJHNkNkQXd6aXdHR0E?oc=5",
+          "title": "이 대통령 내일 기자회견…‘솔직하고 직격으로 답하겠다’ 뜻 밝혀 - hani.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kZGQtdTRCVTdoV3hYNVJPdkM2M1BxcHZHZ0RNSTNGUFdORE95Ry1wSkk0SVJ5aW5xeExLLWhMckQxSkN5NzE3NkU4SmVwN0txVWRsa2VfTVRvS2xnYldKUDNTZGpaOUN1OXUw?oc=5",
           "source": "Google News",
-          "published": "Thu, 17 Sep 2026 00:50:00 GMT"
+          "published": "Thu, 17 Sep 2026 07:21:00 GMT"
         }
       ]
     },
     {
-      "word": "기소",
+      "word": "직격",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "행안부 \"김지용, 김학의·정진웅 기소 반대…수사·기소 분리 반대 안 해\" - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zei1BMW8wVXB0OEVWZGNEMzZyN21xU1JNcXJwZDlfNG1xWll5OF9LY1g2emtsTG9hWHhjR3FWbG1tMEg5M0NnS2lUcU8wNVN2VlJOUDUtWmg1ZEJHNkNkQXd6aXdHR0E?oc=5",
+          "title": "이 대통령 내일 기자회견…‘솔직하고 직격으로 답하겠다’ 뜻 밝혀 - hani.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kZGQtdTRCVTdoV3hYNVJPdkM2M1BxcHZHZ0RNSTNGUFdORE95Ry1wSkk0SVJ5aW5xeExLLWhMckQxSkN5NzE3NkU4SmVwN0txVWRsa2VfTVRvS2xnYldKUDNTZGpaOUN1OXUw?oc=5",
           "source": "Google News",
-          "published": "Thu, 17 Sep 2026 00:50:00 GMT"
+          "published": "Thu, 17 Sep 2026 07:21:00 GMT"
         }
       ]
     },
     {
-      "word": "반대수사기소",
+      "word": "답하겠다",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "행안부 \"김지용, 김학의·정진웅 기소 반대…수사·기소 분리 반대 안 해\" - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zei1BMW8wVXB0OEVWZGNEMzZyN21xU1JNcXJwZDlfNG1xWll5OF9LY1g2emtsTG9hWHhjR3FWbG1tMEg5M0NnS2lUcU8wNVN2VlJOUDUtWmg1ZEJHNkNkQXd6aXdHR0E?oc=5",
+          "title": "이 대통령 내일 기자회견…‘솔직하고 직격으로 답하겠다’ 뜻 밝혀 - hani.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kZGQtdTRCVTdoV3hYNVJPdkM2M1BxcHZHZ0RNSTNGUFdORE95Ry1wSkk0SVJ5aW5xeExLLWhMckQxSkN5NzE3NkU4SmVwN0txVWRsa2VfTVRvS2xnYldKUDNTZGpaOUN1OXUw?oc=5",
           "source": "Google News",
-          "published": "Thu, 17 Sep 2026 00:50:00 GMT"
+          "published": "Thu, 17 Sep 2026 07:21:00 GMT"
         }
       ]
     },
     {
-      "word": "분리",
+      "word": "밝혀",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "행안부 \"김지용, 김학의·정진웅 기소 반대…수사·기소 분리 반대 안 해\" - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zei1BMW8wVXB0OEVWZGNEMzZyN21xU1JNcXJwZDlfNG1xWll5OF9LY1g2emtsTG9hWHhjR3FWbG1tMEg5M0NnS2lUcU8wNVN2VlJOUDUtWmg1ZEJHNkNkQXd6aXdHR0E?oc=5",
+          "title": "이 대통령 내일 기자회견…‘솔직하고 직격으로 답하겠다’ 뜻 밝혀 - hani.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kZGQtdTRCVTdoV3hYNVJPdkM2M1BxcHZHZ0RNSTNGUFdORE95Ry1wSkk0SVJ5aW5xeExLLWhMckQxSkN5NzE3NkU4SmVwN0txVWRsa2VfTVRvS2xnYldKUDNTZGpaOUN1OXUw?oc=5",
           "source": "Google News",
-          "published": "Thu, 17 Sep 2026 00:50:00 GMT"
+          "published": "Thu, 17 Sep 2026 07:21:00 GMT"
         }
       ]
     },
     {
-      "word": "대통령",
-      "count": 1,
-      "category": "PERSON",
-      "articles": [
-        {
-          "title": "이 대통령 “’암표 거래’ 부당 수익 반드시 환수…큰 대가 치를 것“ - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5leEFXeXl4VzA5MzhaQ19SMDVhRnRnUzh1UEZzMkFVY1BkMjZTdDczYzU1VzJtX0VfcDhtaktOTFhjdl9FelhGWDRDNXpPQnRHYkpJSFNxaWJXLXA1QU1veFZBaVdsMmM?oc=5",
-          "source": "Google News",
-          "published": "Thu, 17 Sep 2026 00:45:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "암표",
+      "word": "속보경쟁률",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령 “’암표 거래’ 부당 수익 반드시 환수…큰 대가 치를 것“ - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5leEFXeXl4VzA5MzhaQ19SMDVhRnRnUzh1UEZzMkFVY1BkMjZTdDczYzU1VzJtX0VfcDhtaktOTFhjdl9FelhGWDRDNXpPQnRHYkpJSFNxaWJXLXA1QU1veFZBaVdsMmM?oc=5",
+          "title": "[속보]‘경쟁률 보고 지원’ 3건 취소 권고…수시 먹통 354건 구제 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mcldYamwyRHRnNmQtVERuUmM4bmcwUzFHS3lsTlhSd2ctRF9qSEFhcWFKbzNEdjBIN1ZVb1hFdDltM1NrZ29JLXRWcE9xZ3ItVVNoZzVyT3J2QdIBX0FVX3lxTE16dWdfTmlxRV9TdGYxRnA2aXFwdXFUam1ZQ0IzQ1ZnN1BaMkdxT2ZhY0lQbEtyM1lhbkEtWWJFdGl6Yy1pakxlNGpoYmU5MlFKblRUR2JuUFoxNDhiUER3?oc=5",
           "source": "Google News",
-          "published": "Thu, 17 Sep 2026 00:45:00 GMT"
+          "published": "Thu, 17 Sep 2026 07:00:00 GMT"
         }
       ]
     },
     {
-      "word": "거래",
+      "word": "보고",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령 “’암표 거래’ 부당 수익 반드시 환수…큰 대가 치를 것“ - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5leEFXeXl4VzA5MzhaQ19SMDVhRnRnUzh1UEZzMkFVY1BkMjZTdDczYzU1VzJtX0VfcDhtaktOTFhjdl9FelhGWDRDNXpPQnRHYkpJSFNxaWJXLXA1QU1veFZBaVdsMmM?oc=5",
+          "title": "[속보]‘경쟁률 보고 지원’ 3건 취소 권고…수시 먹통 354건 구제 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mcldYamwyRHRnNmQtVERuUmM4bmcwUzFHS3lsTlhSd2ctRF9qSEFhcWFKbzNEdjBIN1ZVb1hFdDltM1NrZ29JLXRWcE9xZ3ItVVNoZzVyT3J2QdIBX0FVX3lxTE16dWdfTmlxRV9TdGYxRnA2aXFwdXFUam1ZQ0IzQ1ZnN1BaMkdxT2ZhY0lQbEtyM1lhbkEtWWJFdGl6Yy1pakxlNGpoYmU5MlFKblRUR2JuUFoxNDhiUER3?oc=5",
           "source": "Google News",
-          "published": "Thu, 17 Sep 2026 00:45:00 GMT"
+          "published": "Thu, 17 Sep 2026 07:00:00 GMT"
         }
       ]
     },
     {
-      "word": "부당",
+      "word": "지원",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령 “’암표 거래’ 부당 수익 반드시 환수…큰 대가 치를 것“ - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5leEFXeXl4VzA5MzhaQ19SMDVhRnRnUzh1UEZzMkFVY1BkMjZTdDczYzU1VzJtX0VfcDhtaktOTFhjdl9FelhGWDRDNXpPQnRHYkpJSFNxaWJXLXA1QU1veFZBaVdsMmM?oc=5",
+          "title": "[속보]‘경쟁률 보고 지원’ 3건 취소 권고…수시 먹통 354건 구제 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mcldYamwyRHRnNmQtVERuUmM4bmcwUzFHS3lsTlhSd2ctRF9qSEFhcWFKbzNEdjBIN1ZVb1hFdDltM1NrZ29JLXRWcE9xZ3ItVVNoZzVyT3J2QdIBX0FVX3lxTE16dWdfTmlxRV9TdGYxRnA2aXFwdXFUam1ZQ0IzQ1ZnN1BaMkdxT2ZhY0lQbEtyM1lhbkEtWWJFdGl6Yy1pakxlNGpoYmU5MlFKblRUR2JuUFoxNDhiUER3?oc=5",
           "source": "Google News",
-          "published": "Thu, 17 Sep 2026 00:45:00 GMT"
+          "published": "Thu, 17 Sep 2026 07:00:00 GMT"
         }
       ]
     },
     {
-      "word": "수익",
+      "word": "3건",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령 “’암표 거래’ 부당 수익 반드시 환수…큰 대가 치를 것“ - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5leEFXeXl4VzA5MzhaQ19SMDVhRnRnUzh1UEZzMkFVY1BkMjZTdDczYzU1VzJtX0VfcDhtaktOTFhjdl9FelhGWDRDNXpPQnRHYkpJSFNxaWJXLXA1QU1veFZBaVdsMmM?oc=5",
+          "title": "[속보]‘경쟁률 보고 지원’ 3건 취소 권고…수시 먹통 354건 구제 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mcldYamwyRHRnNmQtVERuUmM4bmcwUzFHS3lsTlhSd2ctRF9qSEFhcWFKbzNEdjBIN1ZVb1hFdDltM1NrZ29JLXRWcE9xZ3ItVVNoZzVyT3J2QdIBX0FVX3lxTE16dWdfTmlxRV9TdGYxRnA2aXFwdXFUam1ZQ0IzQ1ZnN1BaMkdxT2ZhY0lQbEtyM1lhbkEtWWJFdGl6Yy1pakxlNGpoYmU5MlFKblRUR2JuUFoxNDhiUER3?oc=5",
           "source": "Google News",
-          "published": "Thu, 17 Sep 2026 00:45:00 GMT"
+          "published": "Thu, 17 Sep 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "취소",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보]‘경쟁률 보고 지원’ 3건 취소 권고…수시 먹통 354건 구제 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mcldYamwyRHRnNmQtVERuUmM4bmcwUzFHS3lsTlhSd2ctRF9qSEFhcWFKbzNEdjBIN1ZVb1hFdDltM1NrZ29JLXRWcE9xZ3ItVVNoZzVyT3J2QdIBX0FVX3lxTE16dWdfTmlxRV9TdGYxRnA2aXFwdXFUam1ZQ0IzQ1ZnN1BaMkdxT2ZhY0lQbEtyM1lhbkEtWWJFdGl6Yy1pakxlNGpoYmU5MlFKblRUR2JuUFoxNDhiUER3?oc=5",
+          "source": "Google News",
+          "published": "Thu, 17 Sep 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "권고수시",
+      "count": 1,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "[속보]‘경쟁률 보고 지원’ 3건 취소 권고…수시 먹통 354건 구제 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mcldYamwyRHRnNmQtVERuUmM4bmcwUzFHS3lsTlhSd2ctRF9qSEFhcWFKbzNEdjBIN1ZVb1hFdDltM1NrZ29JLXRWcE9xZ3ItVVNoZzVyT3J2QdIBX0FVX3lxTE16dWdfTmlxRV9TdGYxRnA2aXFwdXFUam1ZQ0IzQ1ZnN1BaMkdxT2ZhY0lQbEtyM1lhbkEtWWJFdGl6Yy1pakxlNGpoYmU5MlFKblRUR2JuUFoxNDhiUER3?oc=5",
+          "source": "Google News",
+          "published": "Thu, 17 Sep 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "먹통",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보]‘경쟁률 보고 지원’ 3건 취소 권고…수시 먹통 354건 구제 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mcldYamwyRHRnNmQtVERuUmM4bmcwUzFHS3lsTlhSd2ctRF9qSEFhcWFKbzNEdjBIN1ZVb1hFdDltM1NrZ29JLXRWcE9xZ3ItVVNoZzVyT3J2QdIBX0FVX3lxTE16dWdfTmlxRV9TdGYxRnA2aXFwdXFUam1ZQ0IzQ1ZnN1BaMkdxT2ZhY0lQbEtyM1lhbkEtWWJFdGl6Yy1pakxlNGpoYmU5MlFKblRUR2JuUFoxNDhiUER3?oc=5",
+          "source": "Google News",
+          "published": "Thu, 17 Sep 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "354건",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보]‘경쟁률 보고 지원’ 3건 취소 권고…수시 먹통 354건 구제 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mcldYamwyRHRnNmQtVERuUmM4bmcwUzFHS3lsTlhSd2ctRF9qSEFhcWFKbzNEdjBIN1ZVb1hFdDltM1NrZ29JLXRWcE9xZ3ItVVNoZzVyT3J2QdIBX0FVX3lxTE16dWdfTmlxRV9TdGYxRnA2aXFwdXFUam1ZQ0IzQ1ZnN1BaMkdxT2ZhY0lQbEtyM1lhbkEtWWJFdGl6Yy1pakxlNGpoYmU5MlFKblRUR2JuUFoxNDhiUER3?oc=5",
+          "source": "Google News",
+          "published": "Thu, 17 Sep 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "구제",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보]‘경쟁률 보고 지원’ 3건 취소 권고…수시 먹통 354건 구제 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mcldYamwyRHRnNmQtVERuUmM4bmcwUzFHS3lsTlhSd2ctRF9qSEFhcWFKbzNEdjBIN1ZVb1hFdDltM1NrZ29JLXRWcE9xZ3ItVVNoZzVyT3J2QdIBX0FVX3lxTE16dWdfTmlxRV9TdGYxRnA2aXFwdXFUam1ZQ0IzQ1ZnN1BaMkdxT2ZhY0lQbEtyM1lhbkEtWWJFdGl6Yy1pakxlNGpoYmU5MlFKblRUR2JuUFoxNDhiUER3?oc=5",
+          "source": "Google News",
+          "published": "Thu, 17 Sep 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "취준생",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "취준생 죽음 내몬 ‘김민수 검사’ 사기 총책 등 67명 검거 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jQkNVY1A4Z3V4Wld5ZGZ4enRTdnZ3LUE4U0tpeWlNNXF2SjllUGVONXFXMW8zRVZXLUphY05ka0EtX1QxdTBFUEVzbTlZbHBIT3lxV1d4RHI0NW8?oc=5",
+          "source": "Google News",
+          "published": "Thu, 17 Sep 2026 02:37:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "죽음",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "취준생 죽음 내몬 ‘김민수 검사’ 사기 총책 등 67명 검거 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jQkNVY1A4Z3V4Wld5ZGZ4enRTdnZ3LUE4U0tpeWlNNXF2SjllUGVONXFXMW8zRVZXLUphY05ka0EtX1QxdTBFUEVzbTlZbHBIT3lxV1d4RHI0NW8?oc=5",
+          "source": "Google News",
+          "published": "Thu, 17 Sep 2026 02:37:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "내몬",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "취준생 죽음 내몬 ‘김민수 검사’ 사기 총책 등 67명 검거 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jQkNVY1A4Z3V4Wld5ZGZ4enRTdnZ3LUE4U0tpeWlNNXF2SjllUGVONXFXMW8zRVZXLUphY05ka0EtX1QxdTBFUEVzbTlZbHBIT3lxV1d4RHI0NW8?oc=5",
+          "source": "Google News",
+          "published": "Thu, 17 Sep 2026 02:37:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "김민수",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "취준생 죽음 내몬 ‘김민수 검사’ 사기 총책 등 67명 검거 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jQkNVY1A4Z3V4Wld5ZGZ4enRTdnZ3LUE4U0tpeWlNNXF2SjllUGVONXFXMW8zRVZXLUphY05ka0EtX1QxdTBFUEVzbTlZbHBIT3lxV1d4RHI0NW8?oc=5",
+          "source": "Google News",
+          "published": "Thu, 17 Sep 2026 02:37:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "검사",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "취준생 죽음 내몬 ‘김민수 검사’ 사기 총책 등 67명 검거 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jQkNVY1A4Z3V4Wld5ZGZ4enRTdnZ3LUE4U0tpeWlNNXF2SjllUGVONXFXMW8zRVZXLUphY05ka0EtX1QxdTBFUEVzbTlZbHBIT3lxV1d4RHI0NW8?oc=5",
+          "source": "Google News",
+          "published": "Thu, 17 Sep 2026 02:37:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "사기",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "취준생 죽음 내몬 ‘김민수 검사’ 사기 총책 등 67명 검거 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jQkNVY1A4Z3V4Wld5ZGZ4enRTdnZ3LUE4U0tpeWlNNXF2SjllUGVONXFXMW8zRVZXLUphY05ka0EtX1QxdTBFUEVzbTlZbHBIT3lxV1d4RHI0NW8?oc=5",
+          "source": "Google News",
+          "published": "Thu, 17 Sep 2026 02:37:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "총책",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "취준생 죽음 내몬 ‘김민수 검사’ 사기 총책 등 67명 검거 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jQkNVY1A4Z3V4Wld5ZGZ4enRTdnZ3LUE4U0tpeWlNNXF2SjllUGVONXFXMW8zRVZXLUphY05ka0EtX1QxdTBFUEVzbTlZbHBIT3lxV1d4RHI0NW8?oc=5",
+          "source": "Google News",
+          "published": "Thu, 17 Sep 2026 02:37:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "67명",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "취준생 죽음 내몬 ‘김민수 검사’ 사기 총책 등 67명 검거 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jQkNVY1A4Z3V4Wld5ZGZ4enRTdnZ3LUE4U0tpeWlNNXF2SjllUGVONXFXMW8zRVZXLUphY05ka0EtX1QxdTBFUEVzbTlZbHBIT3lxV1d4RHI0NW8?oc=5",
+          "source": "Google News",
+          "published": "Thu, 17 Sep 2026 02:37:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "검거",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "취준생 죽음 내몬 ‘김민수 검사’ 사기 총책 등 67명 검거 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jQkNVY1A4Z3V4Wld5ZGZ4enRTdnZ3LUE4U0tpeWlNNXF2SjllUGVONXFXMW8zRVZXLUphY05ka0EtX1QxdTBFUEVzbTlZbHBIT3lxV1d4RHI0NW8?oc=5",
+          "source": "Google News",
+          "published": "Thu, 17 Sep 2026 02:37:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "민주",
+      "count": 1,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "민주 \"고품질 임대주택 등 청년 주거복지플랜 마련…추석 전 발표\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXaUNBaDV0YWtsLXJ0aTJ2Z1l0R2ZFdnE2YjVsQVJUcnRZalU0bUd2ajc3TW1wdS1VcHVELVlWVnJTc1A3XzNpRF9UTzZGQWw5S3l5OU9CUlk3RUJiS3dfVFNtVmdUM0k?oc=5",
+          "source": "Google News",
+          "published": "Thu, 17 Sep 2026 02:45:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "고품질",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "민주 \"고품질 임대주택 등 청년 주거복지플랜 마련…추석 전 발표\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXaUNBaDV0YWtsLXJ0aTJ2Z1l0R2ZFdnE2YjVsQVJUcnRZalU0bUd2ajc3TW1wdS1VcHVELVlWVnJTc1A3XzNpRF9UTzZGQWw5S3l5OU9CUlk3RUJiS3dfVFNtVmdUM0k?oc=5",
+          "source": "Google News",
+          "published": "Thu, 17 Sep 2026 02:45:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "임대주택",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "민주 \"고품질 임대주택 등 청년 주거복지플랜 마련…추석 전 발표\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXaUNBaDV0YWtsLXJ0aTJ2Z1l0R2ZFdnE2YjVsQVJUcnRZalU0bUd2ajc3TW1wdS1VcHVELVlWVnJTc1A3XzNpRF9UTzZGQWw5S3l5OU9CUlk3RUJiS3dfVFNtVmdUM0k?oc=5",
+          "source": "Google News",
+          "published": "Thu, 17 Sep 2026 02:45:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "청년",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "민주 \"고품질 임대주택 등 청년 주거복지플랜 마련…추석 전 발표\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXaUNBaDV0YWtsLXJ0aTJ2Z1l0R2ZFdnE2YjVsQVJUcnRZalU0bUd2ajc3TW1wdS1VcHVELVlWVnJTc1A3XzNpRF9UTzZGQWw5S3l5OU9CUlk3RUJiS3dfVFNtVmdUM0k?oc=5",
+          "source": "Google News",
+          "published": "Thu, 17 Sep 2026 02:45:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "주거복지플랜",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "민주 \"고품질 임대주택 등 청년 주거복지플랜 마련…추석 전 발표\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXaUNBaDV0YWtsLXJ0aTJ2Z1l0R2ZFdnE2YjVsQVJUcnRZalU0bUd2ajc3TW1wdS1VcHVELVlWVnJTc1A3XzNpRF9UTzZGQWw5S3l5OU9CUlk3RUJiS3dfVFNtVmdUM0k?oc=5",
+          "source": "Google News",
+          "published": "Thu, 17 Sep 2026 02:45:00 GMT"
         }
       ]
     }
