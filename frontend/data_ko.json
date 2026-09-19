@@ -1,113 +1,144 @@
 {
   "language": "ko",
-  "last_updated": 1789837664.609782,
+  "last_updated": 1789849591.372754,
   "count": 40,
   "trends": [
+    {
+      "word": "RTX",
+      "count": 4,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "Radeon RX 10800 XT 4K 게임 및 로컬 AI에서 RTX 5090보다 15~25% 더 나은 성능을 발휘할 수 있습니다. - GameGPU",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMFd5c2diYk9NLV9qY3c1bXFReFVIYndadVFyei13V3ZOclRpSEpqeFJIbzB5TjVraGUyV3dzaW4xNWFlbDZZNWRURE1ndVR5U3E4czhkZWZDaHcweVdZVmhWNHc0MjJ4bDAyVHFDUWstQmtkMEVmcmV3T0NpSjNIZXZ5X0k2N0dSMXo5a0VaTjNwNGVZenRvSElsR0hLZW9BTFExb1NDem5CR3VlT1BMZjdTNmVnaHM?oc=5",
+          "source": "Google News",
+          "published": "Sat, 19 Sep 2026 19:30:38 GMT"
+        },
+        {
+          "title": "RTX 5070, RTX 5080, RTX 5090에서 원인을 알 수 없는 PCIe Gen 5 오류로 인해 시스템이 멈추는 현상이 계속 발생하고 있습니다. - GameGPU",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZkZOYWFVcjdRT21YRHNHVzR5aUUycGNWX2N3ZUJjLU9pZzB3aDVmR0l3MTZmZUx6NHE4aXhiSWN6eDZTWHBza3hzUTc4UmdzTDhRUDlBS0I2aVNVcEdYNmxSOG1BSnU5R1lUaTJ3TGladEVRM0dndFh2VFIzbHVJNV9FVGowYzhuZU5EcUVoUjdERG9rTlZGYkQ5RTFYbUdFYVp5N2xka0ZKb1ZqRTZ5N2hUeS1jSW0yQldrNjJ3?oc=5",
+          "source": "Google News",
+          "published": "Sat, 19 Sep 2026 18:19:51 GMT"
+        }
+      ]
+    },
+    {
+      "word": "대통령",
+      "count": 3,
+      "category": "PERSON",
+      "articles": [
+        {
+          "title": "사퇴 김승원 “대통령 회견 보며 결심”…신약로비 의혹 강력 부인 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LbHZuWFpuNjI2R1VfRzNIYTFndC1QeGxVNl9aeDd6dERKWlRVMVZIRTJSSUhaMloxVjQ3QkJCWTNHVzFTc21wRWd6RHZvQVRKX21Ubkh3SGJTUEMwOEdaMHFvQ0xyVU1RZ2VMN1NLd3RHTWk3?oc=5",
+          "source": "Google News",
+          "published": "Sat, 19 Sep 2026 03:22:00 GMT"
+        },
+        {
+          "title": "이 대통령, 게시글 인용 논란에 \"상처받는 분 있다면 유감\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoOXQ5OWRFQkJjZTFhMVFBMGdPRENnbUFYcWV5VzhtcklwdHlzNnFiTDZ3NXcwYkZvWWFXaE15VHlkZy02YjAzM18wSHF1VzZ6M1VCT3pSVG9RWWlmV2VlNWRlRUtqX2M?oc=5",
+          "source": "Google News",
+          "published": "Sat, 19 Sep 2026 13:51:00 GMT"
+        },
+        {
+          "title": "이 대통령 “청년 전담조직 신설 고민…나도 청년인 가족 있어” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yZFBDdVE4WXA2VXZ5UXZaWHFZZHBvU2NWYlNmenNzYTVyMzA3MmxjYldYUWVtMzltcDhvWk5QZHZyS3l0ZFhEZThjU3o5a3ZjSWFyVGFjbDlhUEVuSDVqb2w4d1VQMlNjeTRV?oc=5",
+          "source": "Google News",
+          "published": "Sat, 19 Sep 2026 05:42:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "사퇴",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "사퇴 김승원 “대통령 회견 보며 결심”…신약로비 의혹 강력 부인 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LbHZuWFpuNjI2R1VfRzNIYTFndC1QeGxVNl9aeDd6dERKWlRVMVZIRTJSSUhaMloxVjQ3QkJCWTNHVzFTc21wRWd6RHZvQVRKX21Ubkh3SGJTUEMwOEdaMHFvQ0xyVU1RZ2VMN1NLd3RHTWk3?oc=5",
+          "source": "Google News",
+          "published": "Sat, 19 Sep 2026 03:22:00 GMT"
+        },
+        {
+          "title": "한동훈, 김승원 사퇴에 “국민 승리…민주당 결사 옹호에도 이겨” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4wTUY1QjROM2RSUTVJYVMzNXROUEdaWktlLXhpMV9Ud0p6MEpfSWF2X1JyNHNjcGlDYnhkU08yUW9aR3hjc2ZnT0Rjc1RmYlpXdExRZXYwbTlNcnAtRElaZ1NYd3VPUUsxYmt2UlF3M08tZi1o?oc=5",
+          "source": "Google News",
+          "published": "Sat, 19 Sep 2026 05:24:00 GMT"
+        }
+      ]
+    },
     {
       "word": "김승원",
       "count": 2,
       "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "김승원 후보자 전격 사퇴…“정부에 부담 더해선 안돼” - news.kbs.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHaU5TSWZXVFR5YUhIMHVjbzJQTnV3THdqdlFUSHlTdkt5TUNjRDRSREhFM0tuWjdtRXJ1VVZaV0hraWstaGdfTXgyUDJLRjY3cHk3eTczUjNQendIdzdwajluVXB6Zw?oc=5",
+          "title": "사퇴 김승원 “대통령 회견 보며 결심”…신약로비 의혹 강력 부인 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LbHZuWFpuNjI2R1VfRzNIYTFndC1QeGxVNl9aeDd6dERKWlRVMVZIRTJSSUhaMloxVjQ3QkJCWTNHVzFTc21wRWd6RHZvQVRKX21Ubkh3SGJTUEMwOEdaMHFvQ0xyVU1RZ2VMN1NLd3RHTWk3?oc=5",
           "source": "Google News",
-          "published": "Sat, 19 Sep 2026 12:01:00 GMT"
+          "published": "Sat, 19 Sep 2026 03:22:00 GMT"
         },
         {
-          "title": "김승원 \"기밀 유출 밝힐 것\"…한동훈 \"복수할 테면 하라\" - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iTjA5bmc4bmVPNWhXdG9xWUw5VldIQ1ZDWktfTUl5OGtOWnE3ZnZLcmJrd0c2bEwwaXloZGZDSHFwUFVORktuM1VyWEVLTjFDZXpQRWVRd1Njdw?oc=5",
+          "title": "한동훈, 김승원 사퇴에 “국민 승리…민주당 결사 옹호에도 이겨” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4wTUY1QjROM2RSUTVJYVMzNXROUEdaWktlLXhpMV9Ud0p6MEpfSWF2X1JyNHNjcGlDYnhkU08yUW9aR3hjc2ZnT0Rjc1RmYlpXdExRZXYwbTlNcnAtRElaZ1NYd3VPUUsxYmt2UlF3M08tZi1o?oc=5",
           "source": "Google News",
-          "published": "Sat, 19 Sep 2026 06:17:16 GMT"
+          "published": "Sat, 19 Sep 2026 05:24:00 GMT"
         }
       ]
     },
     {
-      "word": "주의",
+      "word": "의혹",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "전국 대체로 맑음…영남 해안 강풍 주의 - news.kbs.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HdXVuTnpsU19BOXN1ZW5PZl9qSE9ockVqdTU2Nl9ra1ZaVHUzX254VURKR0JIZU1KS216SG9wYld0c19POUlhS1dpRkRpRjdNSzV5cWdhdkRDMUE?oc=5",
+          "title": "사퇴 김승원 “대통령 회견 보며 결심”…신약로비 의혹 강력 부인 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LbHZuWFpuNjI2R1VfRzNIYTFndC1QeGxVNl9aeDd6dERKWlRVMVZIRTJSSUhaMloxVjQ3QkJCWTNHVzFTc21wRWd6RHZvQVRKX21Ubkh3SGJTUEMwOEdaMHFvQ0xyVU1RZ2VMN1NLd3RHTWk3?oc=5",
           "source": "Google News",
-          "published": "Sat, 19 Sep 2026 15:01:00 GMT"
+          "published": "Sat, 19 Sep 2026 03:22:00 GMT"
         },
         {
-          "title": "“상어가 또 나타났다”···부산 북항 친수공원 연이틀 출몰 ‘주의’ - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yM2ZYVy1SV3J4dFdSbXBQVFpjdU5TRmdleVFELWdLSkIyMHlIVnRZdG50YkJEdVNwWEpqd1ExcVRlNFR1YS11eVUtdTg2cXk0MlNCREJEdVR6UdIBX0FVX3lxTE0tUzl4OHRGRzV5VkRvaEVRNGUwREdTV1VRS3Y0QU1XTkREbmpFalFSVGp1ejA2c0dmSVhwaDVLQk1DbW4zUnJ5X1l6YldISWN4UjBVSU1uWEtWbldMczN3?oc=5",
+          "title": "\"신천지 출신도 있지만\"…박진영, 종교모임 '사이비 의혹' 직접 반박 - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zalI0TzBIcnNwd2FKaW5LalVPcGlpaGR5WHUtZlFKVHZTOUR6WmhqLS1aQ3EzLWdnSXR6U1FYYWlkWURiMzdPcWlJTm9LTjR2OVp5ejZ3UTF1cG5od0I0RXAwY3NwWkFMa2dnYXRRSGM3dknSAXhBVV95cUxQc18yTGRFMnZKTzVudllfeXEwb3h2SkFucXZ3eDRQcnBKV2dUcUdQSjVTTWRpbTZjS3RNc1BDQi1lWktCcG1uV2UwcHgwNTdHNkZXZzBiSkZMOEZwMUp0S2daSEZ2TzUyOWhyQWhaVGt5TnlSakxzVW0?oc=5",
           "source": "Google News",
-          "published": "Sat, 19 Sep 2026 06:28:00 GMT"
+          "published": "Sat, 19 Sep 2026 10:16:58 GMT"
         }
       ]
     },
     {
-      "word": "이란전",
+      "word": "부상",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "미 국방부 “이란전 비용 62조원”…미군기지 수리비는 빠졌다 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcmxDeHd6YjVRS1Bmak0yd3o4YTVmeEZ0TE1zUU1DWmRlb3Y2SVpveWxVcWdQczlJQi1BNWRydVFjc24wR2tucGJaR3hIaHAwcFpEMk91a2xONXEzbm1id0ZuUEVyajAxMlVsdXl5Q3E5c1pUTkdzeWVMcVE2cXBWc0NB?oc=5",
+          "title": "경북 경주 한 주택에서 불… 진화 중 붕괴로 30대 소방관 등 2명 부상 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcU5yRXVkUm1YWXRIRUJqbWJFQkg5ekMyR19xblR2T2ZfaUJSTUFTZHlFMHh1RFpXRUJ3NXAwRVNuMXNRSG5lNjNGcGZIYTBTYkY0TzRvOC1Sd0JfX2FpQUZ5ZEtWZThGci1Tc0Zyd3NNOUplQ3IxOEJnQU5UUmNJNWYzWUw4dw?oc=5",
           "source": "Google News",
-          "published": "Sat, 19 Sep 2026 07:02:00 GMT"
+          "published": "Sat, 19 Sep 2026 11:35:14 GMT"
         },
         {
-          "title": "트럼프, 중간선거 위기감 커졌나…WP \"선거에 이란전 영향 인식\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ia1VVSl96bkNUUWQ2RnJUdXU3SDZfWG5ucmRnWUFJTndwcGxmQURyNU8yaDRYaTRXNnZyUFluTzJwaWc1ZGQzS29xMThlUzFNYWZ4S0xOSWRBeDTSAWBBVV95cUxNbFB2ZHdyLUJCYUJ1N2tnNERPVDc3a05hRzJRbDEtVWQ2MjJqR0lyYzRLQ3JGUTlJSFRBMXkwZ3U3WkNXYTYzempOV0wwWW9uRXlnVkhqem9XV1hRNU5GRWs?oc=5",
+          "title": "파키스탄 경찰 단지에 무장 테러‥31명 사망·100여 명 부상 - imnews.imbc.com",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fR21lSzBVRmxpWk1WcEFnS3RnZTJsOHJKT2J2S21FcDRQMmJmNTNEaUFHUTllSzI4OUxqaGJmLU9ucEpPd0x6aVFQc1pkSnBtSzYwSk15dmQxcWhmTUNYRll0WVgyQ0lhYWZoTndTYTNfNFlZ0gF0QVVfeXFMUEwxVlNCNFV1VGVUal9veUNBaWN3Y2RoYm9pTEpNSjhnQzVNVnludmFCcmg0MFVZLTktR2QybG84Zk1Jc0lPNTlHVFhtTGpINV9MMlZSa2VkTUh4Qzl1V19SR1J4SkpEaThsbmxRb19IbmRib1o?oc=5",
           "source": "Google News",
-          "published": "Sat, 19 Sep 2026 14:00:45 GMT"
+          "published": "Sat, 19 Sep 2026 07:47:39 GMT"
         }
       ]
     },
     {
-      "word": "아시안게임",
+      "word": "계속",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "공항서 막힌 태극기, 아시안게임 개회식서 힘차게 펄럭였다...신유빈·김동용 대한민국 선봉 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdm5FNUprc2t2LUtRS1BlZHZKVERJandWd1RqelFmLWRhbmJ5TE9iMFllaGxWN0Z4OElURFpSbGZQUTZUVld0V181bG9xTUJGRVI2QlpjSFFkY1JHT3VCWjR3dHo5b1M4eTJvY3NQVDZheElVVWJZVW1jaVctell4cG1wNGlXQ2UtYmNZ?oc=5",
+          "title": "계속 불어나는 이란전쟁 비용…美국방부 \"62조원 지출\" - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZeFBDQmpyU0RfYWlQU3hNZUlNREVoR0lHNTZRUGZoZmt0SXlEcXQxSXkydk5PNHBjR3NYaDAtYlFoVU9Bc2FZWFhrcy15RzFZdG9lWEFZZTdGX1nSAWBBVV95cUxNazJzdGswQW14Q3hhblNEMGc3X21POGItRGtaRkItNVVqNlNNMW80dTFwRG55RDBCZ3I1VHY4RU5tZVcyUGdMMDJxVy1vek5GN3JGeHJoX2dtOEV2LWl4MUw?oc=5",
           "source": "Google News",
-          "published": "Sat, 19 Sep 2026 13:01:00 GMT"
+          "published": "Sat, 19 Sep 2026 05:00:48 GMT"
         },
         {
-          "title": "[아시안게임] 야구대표팀 곽빈·최민석·소형준 불펜 투구로 구위 점검 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXMm5fa1g2Q2w5ZUFXUHQyN2tWOW9RT0VFNVB0QngzRHhWVUdHYmtOQ1MwM2dBR2U5TExsdXlyWjdCdnQ3cmUtekdKR2Y4UHRzeUdYS3Z2dFBXZlHSAWBBVV95cUxOblE4S2hMZmFzVV9WcUxpU3czR0RhVUF5d2NwQXY5UXRkaE5iZmhMeWhPVmpJWXJiQVZURmdlbm9XellPbkpfRlBObUI4b0tIbmwxeTRPelJFOTlXUFhQRGk?oc=5",
+          "title": "RTX 5070, RTX 5080, RTX 5090에서 원인을 알 수 없는 PCIe Gen 5 오류로 인해 시스템이 멈추는 현상이 계속 발생하고 있습니다. - GameGPU",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZkZOYWFVcjdRT21YRHNHVzR5aUUycGNWX2N3ZUJjLU9pZzB3aDVmR0l3MTZmZUx6NHE4aXhiSWN6eDZTWHBza3hzUTc4UmdzTDhRUDlBS0I2aVNVcEdYNmxSOG1BSnU5R1lUaTJ3TGladEVRM0dndFh2VFIzbHVJNV9FVGowYzhuZU5EcUVoUjdERG9rTlZGYkQ5RTFYbUdFYVp5N2xka0ZKb1ZqRTZ5N2hUeS1jSW0yQldrNjJ3?oc=5",
           "source": "Google News",
-          "published": "Sat, 19 Sep 2026 06:53:46 GMT"
-        }
-      ]
-    },
-    {
-      "word": "메가",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“지구 불태우는 ‘메가 폭주’ 멈춰라”…3대 메가 프로젝트 반대 확산 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hWWx1VkE5c0pyNnhxbHRxU252Vi12Sy1KbFdsTEFwcC1xamVlOThVUkl6YTdPUjVSY2VGLTRRaEZ4cU1OTEFPb0x4VG8yZlJjS0dQTzJaYVp2RjRmZ01rVEdqbXMxRWpTTnE0Vk1pUllpUQ?oc=5",
-          "source": "Google News",
-          "published": "Sat, 19 Sep 2026 09:47:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "응원",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령, 지지자 응원 글에 \"위로 많이 돼‥더 개혁해 더 나은 세상\" - imnews.imbc.com",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDbVU1VGpwQ1hfX0VTQ1R0NHFlYTJRVmJKRENEUWw0Rko3VFk4bkJNWFJXaGo5Y1puT3FlT1BtVjBJOVJ3NEFaMEc0Z1dJWDVqTkVqdkpvSk1QR3dGWVF5ZUVfa0cwN1JPdUI0TG1sb1NZQUR1VjNEa9IBeEFVX3lxTE9BcnlZcnZPMDFIZUtMMzlLd2dXTW1kVDlsTVlKa2dKV0hqNjJYa1J5a0pFbFlqY04tdjlGeU1tVkNjTzZEU0Ria0I3cFZjTlF6SlZLRzFWTDVKM0JEVHhlREx4UFlta3FMcGluS040Y1ZEMUtyT29Tcg?oc=5",
-          "source": "Google News",
-          "published": "Sat, 19 Sep 2026 01:57:13 GMT"
-        },
-        {
-          "title": "아시안게임서 '욱일기' 응원 막아야…서경덕, 외신에 공론화 - 강원신문",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuVEV2QUY2UXRkdjJVZHE0cFhyVE1EN2VkS2hpVXRIR1ZJUkhRS2FBZHFaVGJBLXFDSl84TFYzTXVZVG14YklSNHZSUEp1NGZnRGlST3dlaHpFcXJWQ3Rzeng2Y2NNZU1I?oc=5",
-          "source": "Google News",
-          "published": "Sat, 19 Sep 2026 13:47:36 GMT"
+          "published": "Sat, 19 Sep 2026 18:19:51 GMT"
         }
       ]
     },
@@ -123,181 +154,71 @@
           "published": "Sat, 19 Sep 2026 14:00:45 GMT"
         },
         {
-          "title": "트럼프는 'AI 위험' 사기라고 했지만…백악관 내부선 신중론도 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rckhQU01UYkNqa1dkZGU2OVpnY0Q4enQwTzhBb1FKWVVmelhYOVBXeWVmRUNRdXNCbXkxS01qbi1Yc2RsSWlNaVh5bThlN1JhbW1mUXo2YmFkNEHSAWBBVV95cUxPT3BuRGdEWmtwVC1iM01VY3R0TXFEaFdHbHFVNE5ZUDBNTXlFOGZWZmxhTG9YcmdTZ1MtR2JhV3JtTHlmU2pJaDloaUdBbjMtUXdFcmp1RGJpVWpYc0x1RWY?oc=5",
+          "title": "“AI 위험은 사기” 트럼프 일축했지만…백악관 내부에선 우려 확산 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Cd0hGdWppMlY4a21mbzdqUngwTUkzZXJZaU9lUkJZU1ktcHJHVXRELWEwR0NqS0hDV2tJcEl4dWJCV1o4YXdTZ1ZlWTFXM0ZraUxwa2w0ZGM1ZFE?oc=5",
           "source": "Google News",
-          "published": "Sat, 19 Sep 2026 07:23:51 GMT"
+          "published": "Sat, 19 Sep 2026 08:38:00 GMT"
         }
       ]
     },
     {
-      "word": "금리",
+      "word": "있습니다",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "일본 금리 올렸는데 엔화는 급락…당국 ‘레이트 체크’로 개입 경고 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zUkNBejdCaW9OTmxaLVhCYW5RUzQteGh5b1Fjek1pSHNUV3VQT0RBcElLS3FmdG1BcVh1N3E5TUNLRk16THdlanNOalNBb21HRXBMam5fMERwd9IBX0FVX3lxTFBBU3dEbnJYNXpJdnlPTVpOekNCS1dhNFB4aDVCZVRHTU9OMnc5WWFIdkNGV2s0WGR0TFdyNlRmQy1vNlpzSDNaSVJWTGJ3TUlRZ0JWU0VUdEE3US1TamNn?oc=5",
+          "title": "Radeon RX 10800 XT 4K 게임 및 로컬 AI에서 RTX 5090보다 15~25% 더 나은 성능을 발휘할 수 있습니다. - GameGPU",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMFd5c2diYk9NLV9qY3c1bXFReFVIYndadVFyei13V3ZOclRpSEpqeFJIbzB5TjVraGUyV3dzaW4xNWFlbDZZNWRURE1ndVR5U3E4czhkZWZDaHcweVdZVmhWNHc0MjJ4bDAyVHFDUWstQmtkMEVmcmV3T0NpSjNIZXZ5X0k2N0dSMXo5a0VaTjNwNGVZenRvSElsR0hLZW9BTFExb1NDem5CR3VlT1BMZjdTNmVnaHM?oc=5",
           "source": "Google News",
-          "published": "Sat, 19 Sep 2026 11:12:00 GMT"
+          "published": "Sat, 19 Sep 2026 19:30:38 GMT"
         },
         {
-          "title": "뉴욕 증시, 국채 금리 상승·반도체주 강세에 혼조 마감 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKVFNlckFHNE1RVmdqWWJmVXl4N1lLMkFOU1l2V2t3bFFMWUttRlJYQVVGRGxCcThBUXBGVFlkckJSMjhub3l3Vm50dkRra1lRQ1B4T05LS1NqLXR1dHc?oc=5",
+          "title": "RTX 5070, RTX 5080, RTX 5090에서 원인을 알 수 없는 PCIe Gen 5 오류로 인해 시스템이 멈추는 현상이 계속 발생하고 있습니다. - GameGPU",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZkZOYWFVcjdRT21YRHNHVzR5aUUycGNWX2N3ZUJjLU9pZzB3aDVmR0l3MTZmZUx6NHE4aXhiSWN6eDZTWHBza3hzUTc4UmdzTDhRUDlBS0I2aVNVcEdYNmxSOG1BSnU5R1lUaTJ3TGladEVRM0dndFh2VFIzbHVJNV9FVGowYzhuZU5EcUVoUjdERG9rTlZGYkQ5RTFYbUdFYVp5N2xka0ZKb1ZqRTZ5N2hUeS1jSW0yQldrNjJ3?oc=5",
           "source": "Google News",
-          "published": "Fri, 18 Sep 2026 22:31:00 GMT"
+          "published": "Sat, 19 Sep 2026 18:19:51 GMT"
         }
       ]
     },
     {
-      "word": "2026",
+      "word": "제안",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[TGS 2026] \"더 넣는다고 좋은 게임 아냐\"…`모던워페어4`의 선택과 집중 - 디지털데일리",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5icEZxUXFpUmZENExfbDBpcmJNNHRUaGR2eld6Tzg0eXdScHUzNHpBOUpkQVNaYUl0Wk1aN2MwVXlEaUpLSmxnQUVkNkRDblVoMlFKcDRid3R4MkV0Q0N6RzVR?oc=5",
+          "title": "윤미라 \"스폰서 제안 숱하게 왔다, 집 찾아오기도…인생 망친 애들 여럿\" - news1.kr",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82OWVjSkdNTi13ZC1YZWlQMmJ4LUlIakZ6NXBBaTdaLXBzR2t6M1RRX0ZYVUJKa2V5aHVDLXl4U3BHUkpNSTBtejVUWjNHdnZvdnBmVlp1N19XdF95aV9XSUtlRGfSAWpBVV95cUxPVXdoeWd0eEJ4bEE1cHdZY1hBN3d1SER1NHEtUF9rR0lhbzJPTWZHemZQTkhRaTlBY1Vhc1ZmQldjRWs4ZG43dkhpWlNhV0IzRF9KM3dWdzhMLXY5Nk52T1RyN3JIVjh1M2hn?oc=5",
           "source": "Google News",
-          "published": "Thu, 17 Sep 2026 22:58:39 GMT"
+          "published": "Fri, 18 Sep 2026 20:10:00 GMT"
         },
         {
-          "title": "[2026 아시안게임]삼척시청 전사들 펄펄…한국 女핸드볼 홍콩 완파 - 강원일보",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5icnJUbkZmVjhQbENPQUxTbzdiVzhyWldVTGVqUTlGVlA4a29OQWNneFZ2OWtMVzR3eElvOEtuVGhhaEVaLWVuTko2dHZlT29xM0YtdlN4SEFuMHM?oc=5",
+          "title": "노인의학 3개 학회, 초고령사회 노인 호흡기 건강 보장 정책 공동 제안 - 지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJeVVZb1lnYXFQTzg4MmZ5N3pCazJsOWxSclFrdUFGLTA5YU5tTkVScVNKY1NtNWphMk1GNlFacmJxMHVVbERLaHJEcjdmY19VVHZjemRn?oc=5",
           "source": "Google News",
-          "published": "Sat, 19 Sep 2026 12:28:02 GMT"
+          "published": "Fri, 18 Sep 2026 04:53:35 GMT"
         }
       ]
     },
     {
-      "word": "DLSS",
-      "count": 2,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "DLSS 5를 적용하면 RTX 4070에서 4K 해상도로 플레이할 때 철권 8의 프레임 속도가 60에서 45로 떨어집니다. - GameGPU",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNHU2T2RXNWJJd1FtbWtzOXR3MDA1SjZDcGEyNC1hWktvbVVPTjcyX2swOTgtNlAwazZZZmdSRzlCclJwel9aS1JoRU5sRWZoT213OUFibHpXczhPdE9LR29Kd1lteUxwS05MR1E5TU81c2o4R2VjYmpMSHB5UGlYZGUxNUEtX1RBbHNIWmY1bDJPcndQVEE?oc=5",
-          "source": "Google News",
-          "published": "Sat, 19 Sep 2026 14:28:56 GMT"
-        },
-        {
-          "title": "DLSS 5는 모션 블러 없이 Horizon Zero Dawn의 화면을 더욱 선명하게 만듭니다. - GameGPU",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVnFwYnhKV2lnNl8xRHpUaHFGUGhlVGFSS0EyNUFCd0pfbWlVQ3NMc2ZlamdiS0x3anpfeUdWRDlrUEktLV9YdjVjb013Z3pkX25BYWJJTzRjbnVtVFNEeXlyUm85eG80NUk0dk9zVDRMb04ySnQ1a1ZudVVxS3V3UzB3R3hDNTNMdTk4MGpjSF9tbU1BaFpZakxZOThsNzlVOU5xWA?oc=5",
-          "source": "Google News",
-          "published": "Sat, 19 Sep 2026 13:20:59 GMT"
-        }
-      ]
-    },
-    {
-      "word": "신천지",
+      "word": "해설",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "'JYP 수장' 박진영 \"우리 교회 무슨 파? 신천지 출신 있다고 신천지 아냐\" [스타이슈] - starnewskorea.com",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81SXhwWVhWSzNIZmt6YXdoa0Y3X1JkOVE1djVhQVJSR1RrX09remw4TWJaM3Z0d3hzd3ZucjJUTl83QUhqd3ltSWJ6ajlaLXNzZzgySDFidEl1c2xvcWtNU2M0R1JTbThUQ21OdTRvRlpvdFU?oc=5",
+          "title": "[사진] '훈남 해설'의 대명사 김동준 해설 - 미주중앙일보",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiajVWUkVtYUhIWVFnN1Z5eWJlb1I3a1E5anN4czVYTFBtbmxyZ0l2UFlvWmsxamwyU3hoa1hxNktsYml6b1VfWFg3LUhodUh4OFJtWjQtcEFHblB4VDlIcWZ3?oc=5",
           "source": "Google News",
-          "published": "Sat, 19 Sep 2026 10:05:17 GMT"
+          "published": "Sat, 19 Sep 2026 11:19:00 GMT"
         }
       ]
     },
     {
-      "word": "캐치",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "최예나, ‘캐치 캐치’ 대박 예상했다 “이준 커버 보고 '곡 뺏겼다' 위기의식”(전참시) - 조선비즈 - biz.chosun.com",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTWpzNmJNVm0wcmlYYzdocG82MnJ0VE5lU3ZVNE9paXJRdVUzVzVWbHRiSEVoSnQwWENmSE9kU3JPMEZVeEtVc0lvZ3VUcmxpUXppRzA2Q3VtVTVaNlYtTzdackRtUV9HV2NmMUZSckFNcXgtZV9tX0xyLUNsVmZjNTZBUkY5TEhnNHVrbTNZZ2h1eDTSAacBQVVfeXFMUGIwTzFMZEl5Tkk1SEN1ZUFJWnp1NG9pSmttVW05SzVnc2JBSWREMkE4ZU14aFE5MmJyVlExTEpFckZrUk50N0ZGNXBhUkRUaC02MnhiR3NMdld5cnBzVTBDU25YTDg4QWdiT2hyOTVMLWE4eElYaXY1bTU5cktXYjI1ZTd6M1ZQVFU5R25kMlVnZGVCRWZNNG5mYVZBM3g4UURRdmtEM2M?oc=5",
-          "source": "Google News",
-          "published": "Sat, 19 Sep 2026 14:50:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "후보자",
+      "word": "사이다",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김승원 후보자 전격 사퇴…“정부에 부담 더해선 안돼” - news.kbs.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHaU5TSWZXVFR5YUhIMHVjbzJQTnV3THdqdlFUSHlTdkt5TUNjRDRSREhFM0tuWjdtRXJ1VVZaV0hraWstaGdfTXgyUDJLRjY3cHk3eTczUjNQendIdzdwajluVXB6Zw?oc=5",
-          "source": "Google News",
-          "published": "Sat, 19 Sep 2026 12:01:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "전격",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김승원 후보자 전격 사퇴…“정부에 부담 더해선 안돼” - news.kbs.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHaU5TSWZXVFR5YUhIMHVjbzJQTnV3THdqdlFUSHlTdkt5TUNjRDRSREhFM0tuWjdtRXJ1VVZaV0hraWstaGdfTXgyUDJLRjY3cHk3eTczUjNQendIdzdwajluVXB6Zw?oc=5",
-          "source": "Google News",
-          "published": "Sat, 19 Sep 2026 12:01:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "사퇴정부",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "김승원 후보자 전격 사퇴…“정부에 부담 더해선 안돼” - news.kbs.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHaU5TSWZXVFR5YUhIMHVjbzJQTnV3THdqdlFUSHlTdkt5TUNjRDRSREhFM0tuWjdtRXJ1VVZaV0hraWstaGdfTXgyUDJLRjY3cHk3eTczUjNQendIdzdwajluVXB6Zw?oc=5",
-          "source": "Google News",
-          "published": "Sat, 19 Sep 2026 12:01:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "부담",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김승원 후보자 전격 사퇴…“정부에 부담 더해선 안돼” - news.kbs.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHaU5TSWZXVFR5YUhIMHVjbzJQTnV3THdqdlFUSHlTdkt5TUNjRDRSREhFM0tuWjdtRXJ1VVZaV0hraWstaGdfTXgyUDJLRjY3cHk3eTczUjNQendIdzdwajluVXB6Zw?oc=5",
-          "source": "Google News",
-          "published": "Sat, 19 Sep 2026 12:01:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "더해선",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김승원 후보자 전격 사퇴…“정부에 부담 더해선 안돼” - news.kbs.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHaU5TSWZXVFR5YUhIMHVjbzJQTnV3THdqdlFUSHlTdkt5TUNjRDRSREhFM0tuWjdtRXJ1VVZaV0hraWstaGdfTXgyUDJLRjY3cHk3eTczUjNQendIdzdwajluVXB6Zw?oc=5",
-          "source": "Google News",
-          "published": "Sat, 19 Sep 2026 12:01:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "안돼",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김승원 후보자 전격 사퇴…“정부에 부담 더해선 안돼” - news.kbs.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHaU5TSWZXVFR5YUhIMHVjbzJQTnV3THdqdlFUSHlTdkt5TUNjRDRSREhFM0tuWjdtRXJ1VVZaV0hraWstaGdfTXgyUDJLRjY3cHk3eTczUjNQendIdzdwajluVXB6Zw?oc=5",
-          "source": "Google News",
-          "published": "Sat, 19 Sep 2026 12:01:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "부족함",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘부족함’ 13번 언급한 李대통령…그간의 기자회견 살펴보니 - 동아일보",
+          "title": "‘사이다’에서 “부족했다”까지…李 기자회견 살펴보니 - 동아일보",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55S1c5aUh4dkxQeU9rbDB6OXdXR1duR2h1elV6T1VfWHVBbHRabXFhNlJ4OUliblBXdGZ0X2hsLUhfNWRpTmhwbXlaVVVKblJnSnNrTzJ5Nko1RXVHNzg2UU5nczd3LXFNTzdydVNxVTYyMWt3UTVj0gFmQVVfeXFMTzljbkxGRFM2SlZ4LVNPdl83bmNWMzRYUUx0a0t5cFkzcjN0WDhhMTRwUnhoY1FTYmp4b0hjdGJBeUNHZTlvLVhhVzBpaXc1OUV4M1hIb0RQM2tFZFNndUIxbG9teXpR?oc=5",
           "source": "Google News",
           "published": "Sat, 19 Sep 2026 08:42:00 GMT"
@@ -305,38 +226,12 @@
       ]
     },
     {
-      "word": "13번",
+      "word": "부족",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘부족함’ 13번 언급한 李대통령…그간의 기자회견 살펴보니 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55S1c5aUh4dkxQeU9rbDB6OXdXR1duR2h1elV6T1VfWHVBbHRabXFhNlJ4OUliblBXdGZ0X2hsLUhfNWRpTmhwbXlaVVVKblJnSnNrTzJ5Nko1RXVHNzg2UU5nczd3LXFNTzdydVNxVTYyMWt3UTVj0gFmQVVfeXFMTzljbkxGRFM2SlZ4LVNPdl83bmNWMzRYUUx0a0t5cFkzcjN0WDhhMTRwUnhoY1FTYmp4b0hjdGJBeUNHZTlvLVhhVzBpaXc1OUV4M1hIb0RQM2tFZFNndUIxbG9teXpR?oc=5",
-          "source": "Google News",
-          "published": "Sat, 19 Sep 2026 08:42:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "언급",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘부족함’ 13번 언급한 李대통령…그간의 기자회견 살펴보니 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55S1c5aUh4dkxQeU9rbDB6OXdXR1duR2h1elV6T1VfWHVBbHRabXFhNlJ4OUliblBXdGZ0X2hsLUhfNWRpTmhwbXlaVVVKblJnSnNrTzJ5Nko1RXVHNzg2UU5nczd3LXFNTzdydVNxVTYyMWt3UTVj0gFmQVVfeXFMTzljbkxGRFM2SlZ4LVNPdl83bmNWMzRYUUx0a0t5cFkzcjN0WDhhMTRwUnhoY1FTYmp4b0hjdGJBeUNHZTlvLVhhVzBpaXc1OUV4M1hIb0RQM2tFZFNndUIxbG9teXpR?oc=5",
-          "source": "Google News",
-          "published": "Sat, 19 Sep 2026 08:42:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "대통령그간",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘부족함’ 13번 언급한 李대통령…그간의 기자회견 살펴보니 - 동아일보",
+          "title": "‘사이다’에서 “부족했다”까지…李 기자회견 살펴보니 - 동아일보",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55S1c5aUh4dkxQeU9rbDB6OXdXR1duR2h1elV6T1VfWHVBbHRabXFhNlJ4OUliblBXdGZ0X2hsLUhfNWRpTmhwbXlaVVVKblJnSnNrTzJ5Nko1RXVHNzg2UU5nczd3LXFNTzdydVNxVTYyMWt3UTVj0gFmQVVfeXFMTzljbkxGRFM2SlZ4LVNPdl83bmNWMzRYUUx0a0t5cFkzcjN0WDhhMTRwUnhoY1FTYmp4b0hjdGJBeUNHZTlvLVhhVzBpaXc1OUV4M1hIb0RQM2tFZFNndUIxbG9teXpR?oc=5",
           "source": "Google News",
           "published": "Sat, 19 Sep 2026 08:42:00 GMT"
@@ -349,7 +244,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘부족함’ 13번 언급한 李대통령…그간의 기자회견 살펴보니 - 동아일보",
+          "title": "‘사이다’에서 “부족했다”까지…李 기자회견 살펴보니 - 동아일보",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55S1c5aUh4dkxQeU9rbDB6OXdXR1duR2h1elV6T1VfWHVBbHRabXFhNlJ4OUliblBXdGZ0X2hsLUhfNWRpTmhwbXlaVVVKblJnSnNrTzJ5Nko1RXVHNzg2UU5nczd3LXFNTzdydVNxVTYyMWt3UTVj0gFmQVVfeXFMTzljbkxGRFM2SlZ4LVNPdl83bmNWMzRYUUx0a0t5cFkzcjN0WDhhMTRwUnhoY1FTYmp4b0hjdGJBeUNHZTlvLVhhVzBpaXc1OUV4M1hIb0RQM2tFZFNndUIxbG9teXpR?oc=5",
           "source": "Google News",
           "published": "Sat, 19 Sep 2026 08:42:00 GMT"
@@ -362,10 +257,153 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘부족함’ 13번 언급한 李대통령…그간의 기자회견 살펴보니 - 동아일보",
+          "title": "‘사이다’에서 “부족했다”까지…李 기자회견 살펴보니 - 동아일보",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55S1c5aUh4dkxQeU9rbDB6OXdXR1duR2h1elV6T1VfWHVBbHRabXFhNlJ4OUliblBXdGZ0X2hsLUhfNWRpTmhwbXlaVVVKblJnSnNrTzJ5Nko1RXVHNzg2UU5nczd3LXFNTzdydVNxVTYyMWt3UTVj0gFmQVVfeXFMTzljbkxGRFM2SlZ4LVNPdl83bmNWMzRYUUx0a0t5cFkzcjN0WDhhMTRwUnhoY1FTYmp4b0hjdGJBeUNHZTlvLVhhVzBpaXc1OUV4M1hIb0RQM2tFZFNndUIxbG9teXpR?oc=5",
           "source": "Google News",
           "published": "Sat, 19 Sep 2026 08:42:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "회견",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "사퇴 김승원 “대통령 회견 보며 결심”…신약로비 의혹 강력 부인 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LbHZuWFpuNjI2R1VfRzNIYTFndC1QeGxVNl9aeDd6dERKWlRVMVZIRTJSSUhaMloxVjQ3QkJCWTNHVzFTc21wRWd6RHZvQVRKX21Ubkh3SGJTUEMwOEdaMHFvQ0xyVU1RZ2VMN1NLd3RHTWk3?oc=5",
+          "source": "Google News",
+          "published": "Sat, 19 Sep 2026 03:22:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "보며",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "사퇴 김승원 “대통령 회견 보며 결심”…신약로비 의혹 강력 부인 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LbHZuWFpuNjI2R1VfRzNIYTFndC1QeGxVNl9aeDd6dERKWlRVMVZIRTJSSUhaMloxVjQ3QkJCWTNHVzFTc21wRWd6RHZvQVRKX21Ubkh3SGJTUEMwOEdaMHFvQ0xyVU1RZ2VMN1NLd3RHTWk3?oc=5",
+          "source": "Google News",
+          "published": "Sat, 19 Sep 2026 03:22:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "결심신약로비",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "사퇴 김승원 “대통령 회견 보며 결심”…신약로비 의혹 강력 부인 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LbHZuWFpuNjI2R1VfRzNIYTFndC1QeGxVNl9aeDd6dERKWlRVMVZIRTJSSUhaMloxVjQ3QkJCWTNHVzFTc21wRWd6RHZvQVRKX21Ubkh3SGJTUEMwOEdaMHFvQ0xyVU1RZ2VMN1NLd3RHTWk3?oc=5",
+          "source": "Google News",
+          "published": "Sat, 19 Sep 2026 03:22:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "강력",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "사퇴 김승원 “대통령 회견 보며 결심”…신약로비 의혹 강력 부인 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LbHZuWFpuNjI2R1VfRzNIYTFndC1QeGxVNl9aeDd6dERKWlRVMVZIRTJSSUhaMloxVjQ3QkJCWTNHVzFTc21wRWd6RHZvQVRKX21Ubkh3SGJTUEMwOEdaMHFvQ0xyVU1RZ2VMN1NLd3RHTWk3?oc=5",
+          "source": "Google News",
+          "published": "Sat, 19 Sep 2026 03:22:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "부인",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "사퇴 김승원 “대통령 회견 보며 결심”…신약로비 의혹 강력 부인 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LbHZuWFpuNjI2R1VfRzNIYTFndC1QeGxVNl9aeDd6dERKWlRVMVZIRTJSSUhaMloxVjQ3QkJCWTNHVzFTc21wRWd6RHZvQVRKX21Ubkh3SGJTUEMwOEdaMHFvQ0xyVU1RZ2VMN1NLd3RHTWk3?oc=5",
+          "source": "Google News",
+          "published": "Sat, 19 Sep 2026 03:22:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "게시글",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령, 게시글 인용 논란에 \"상처받는 분 있다면 유감\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoOXQ5OWRFQkJjZTFhMVFBMGdPRENnbUFYcWV5VzhtcklwdHlzNnFiTDZ3NXcwYkZvWWFXaE15VHlkZy02YjAzM18wSHF1VzZ6M1VCT3pSVG9RWWlmV2VlNWRlRUtqX2M?oc=5",
+          "source": "Google News",
+          "published": "Sat, 19 Sep 2026 13:51:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "인용",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령, 게시글 인용 논란에 \"상처받는 분 있다면 유감\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoOXQ5OWRFQkJjZTFhMVFBMGdPRENnbUFYcWV5VzhtcklwdHlzNnFiTDZ3NXcwYkZvWWFXaE15VHlkZy02YjAzM18wSHF1VzZ6M1VCT3pSVG9RWWlmV2VlNWRlRUtqX2M?oc=5",
+          "source": "Google News",
+          "published": "Sat, 19 Sep 2026 13:51:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "논란",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령, 게시글 인용 논란에 \"상처받는 분 있다면 유감\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoOXQ5OWRFQkJjZTFhMVFBMGdPRENnbUFYcWV5VzhtcklwdHlzNnFiTDZ3NXcwYkZvWWFXaE15VHlkZy02YjAzM18wSHF1VzZ6M1VCT3pSVG9RWWlmV2VlNWRlRUtqX2M?oc=5",
+          "source": "Google News",
+          "published": "Sat, 19 Sep 2026 13:51:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "상처받",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령, 게시글 인용 논란에 \"상처받는 분 있다면 유감\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoOXQ5OWRFQkJjZTFhMVFBMGdPRENnbUFYcWV5VzhtcklwdHlzNnFiTDZ3NXcwYkZvWWFXaE15VHlkZy02YjAzM18wSHF1VzZ6M1VCT3pSVG9RWWlmV2VlNWRlRUtqX2M?oc=5",
+          "source": "Google News",
+          "published": "Sat, 19 Sep 2026 13:51:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "있다면",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령, 게시글 인용 논란에 \"상처받는 분 있다면 유감\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoOXQ5OWRFQkJjZTFhMVFBMGdPRENnbUFYcWV5VzhtcklwdHlzNnFiTDZ3NXcwYkZvWWFXaE15VHlkZy02YjAzM18wSHF1VzZ6M1VCT3pSVG9RWWlmV2VlNWRlRUtqX2M?oc=5",
+          "source": "Google News",
+          "published": "Sat, 19 Sep 2026 13:51:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "유감",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령, 게시글 인용 논란에 \"상처받는 분 있다면 유감\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoOXQ5OWRFQkJjZTFhMVFBMGdPRENnbUFYcWV5VzhtcklwdHlzNnFiTDZ3NXcwYkZvWWFXaE15VHlkZy02YjAzM18wSHF1VzZ6M1VCT3pSVG9RWWlmV2VlNWRlRUtqX2M?oc=5",
+          "source": "Google News",
+          "published": "Sat, 19 Sep 2026 13:51:00 GMT"
         }
       ]
     },
@@ -461,103 +499,12 @@
       ]
     },
     {
-      "word": "기밀",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김승원 \"기밀 유출 밝힐 것\"…한동훈 \"복수할 테면 하라\" - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iTjA5bmc4bmVPNWhXdG9xWUw5VldIQ1ZDWktfTUl5OGtOWnE3ZnZLcmJrd0c2bEwwaXloZGZDSHFwUFVORktuM1VyWEVLTjFDZXpQRWVRd1Njdw?oc=5",
-          "source": "Google News",
-          "published": "Sat, 19 Sep 2026 06:17:16 GMT"
-        }
-      ]
-    },
-    {
-      "word": "유출",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김승원 \"기밀 유출 밝힐 것\"…한동훈 \"복수할 테면 하라\" - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iTjA5bmc4bmVPNWhXdG9xWUw5VldIQ1ZDWktfTUl5OGtOWnE3ZnZLcmJrd0c2bEwwaXloZGZDSHFwUFVORktuM1VyWEVLTjFDZXpQRWVRd1Njdw?oc=5",
-          "source": "Google News",
-          "published": "Sat, 19 Sep 2026 06:17:16 GMT"
-        }
-      ]
-    },
-    {
-      "word": "밝힐",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김승원 \"기밀 유출 밝힐 것\"…한동훈 \"복수할 테면 하라\" - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iTjA5bmc4bmVPNWhXdG9xWUw5VldIQ1ZDWktfTUl5OGtOWnE3ZnZLcmJrd0c2bEwwaXloZGZDSHFwUFVORktuM1VyWEVLTjFDZXpQRWVRd1Njdw?oc=5",
-          "source": "Google News",
-          "published": "Sat, 19 Sep 2026 06:17:16 GMT"
-        }
-      ]
-    },
-    {
-      "word": "것한동훈",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김승원 \"기밀 유출 밝힐 것\"…한동훈 \"복수할 테면 하라\" - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iTjA5bmc4bmVPNWhXdG9xWUw5VldIQ1ZDWktfTUl5OGtOWnE3ZnZLcmJrd0c2bEwwaXloZGZDSHFwUFVORktuM1VyWEVLTjFDZXpQRWVRd1Njdw?oc=5",
-          "source": "Google News",
-          "published": "Sat, 19 Sep 2026 06:17:16 GMT"
-        }
-      ]
-    },
-    {
-      "word": "복수",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김승원 \"기밀 유출 밝힐 것\"…한동훈 \"복수할 테면 하라\" - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iTjA5bmc4bmVPNWhXdG9xWUw5VldIQ1ZDWktfTUl5OGtOWnE3ZnZLcmJrd0c2bEwwaXloZGZDSHFwUFVORktuM1VyWEVLTjFDZXpQRWVRd1Njdw?oc=5",
-          "source": "Google News",
-          "published": "Sat, 19 Sep 2026 06:17:16 GMT"
-        }
-      ]
-    },
-    {
-      "word": "테면",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김승원 \"기밀 유출 밝힐 것\"…한동훈 \"복수할 테면 하라\" - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iTjA5bmc4bmVPNWhXdG9xWUw5VldIQ1ZDWktfTUl5OGtOWnE3ZnZLcmJrd0c2bEwwaXloZGZDSHFwUFVORktuM1VyWEVLTjFDZXpQRWVRd1Njdw?oc=5",
-          "source": "Google News",
-          "published": "Sat, 19 Sep 2026 06:17:16 GMT"
-        }
-      ]
-    },
-    {
-      "word": "하라",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김승원 \"기밀 유출 밝힐 것\"…한동훈 \"복수할 테면 하라\" - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iTjA5bmc4bmVPNWhXdG9xWUw5VldIQ1ZDWktfTUl5OGtOWnE3ZnZLcmJrd0c2bEwwaXloZGZDSHFwUFVORktuM1VyWEVLTjFDZXpQRWVRd1Njdw?oc=5",
-          "source": "Google News",
-          "published": "Sat, 19 Sep 2026 06:17:16 GMT"
-        }
-      ]
-    },
-    {
       "word": "전국",
       "count": 1,
       "category": "LOCATION",
       "articles": [
         {
-          "title": "전국 대체로 맑음…영남 해안 강풍 주의 - news.kbs.co.kr",
+          "title": "전국 대체로 맑음…영남 해안 강풍 주의 - KBS 뉴스",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HdXVuTnpsU19BOXN1ZW5PZl9qSE9ockVqdTU2Nl9ra1ZaVHUzX254VURKR0JIZU1KS216SG9wYld0c19POUlhS1dpRkRpRjdNSzV5cWdhdkRDMUE?oc=5",
           "source": "Google News",
           "published": "Sat, 19 Sep 2026 15:01:00 GMT"
@@ -570,10 +517,75 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "전국 대체로 맑음…영남 해안 강풍 주의 - news.kbs.co.kr",
+          "title": "전국 대체로 맑음…영남 해안 강풍 주의 - KBS 뉴스",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HdXVuTnpsU19BOXN1ZW5PZl9qSE9ockVqdTU2Nl9ra1ZaVHUzX254VURKR0JIZU1KS216SG9wYld0c19POUlhS1dpRkRpRjdNSzV5cWdhdkRDMUE?oc=5",
           "source": "Google News",
           "published": "Sat, 19 Sep 2026 15:01:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "맑음영남",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "전국 대체로 맑음…영남 해안 강풍 주의 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HdXVuTnpsU19BOXN1ZW5PZl9qSE9ockVqdTU2Nl9ra1ZaVHUzX254VURKR0JIZU1KS216SG9wYld0c19POUlhS1dpRkRpRjdNSzV5cWdhdkRDMUE?oc=5",
+          "source": "Google News",
+          "published": "Sat, 19 Sep 2026 15:01:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "해안",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "전국 대체로 맑음…영남 해안 강풍 주의 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HdXVuTnpsU19BOXN1ZW5PZl9qSE9ockVqdTU2Nl9ra1ZaVHUzX254VURKR0JIZU1KS216SG9wYld0c19POUlhS1dpRkRpRjdNSzV5cWdhdkRDMUE?oc=5",
+          "source": "Google News",
+          "published": "Sat, 19 Sep 2026 15:01:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "강풍",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "전국 대체로 맑음…영남 해안 강풍 주의 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HdXVuTnpsU19BOXN1ZW5PZl9qSE9ockVqdTU2Nl9ra1ZaVHUzX254VURKR0JIZU1KS216SG9wYld0c19POUlhS1dpRkRpRjdNSzV5cWdhdkRDMUE?oc=5",
+          "source": "Google News",
+          "published": "Sat, 19 Sep 2026 15:01:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "주의",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "전국 대체로 맑음…영남 해안 강풍 주의 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HdXVuTnpsU19BOXN1ZW5PZl9qSE9ockVqdTU2Nl9ra1ZaVHUzX254VURKR0JIZU1KS216SG9wYld0c19POUlhS1dpRkRpRjdNSzV5cWdhdkRDMUE?oc=5",
+          "source": "Google News",
+          "published": "Sat, 19 Sep 2026 15:01:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "청년",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령 “청년 전담조직 신설 고민…나도 청년인 가족 있어” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yZFBDdVE4WXA2VXZ5UXZaWHFZZHBvU2NWYlNmenNzYTVyMzA3MmxjYldYUWVtMzltcDhvWk5QZHZyS3l0ZFhEZThjU3o5a3ZjSWFyVGFjbDlhUEVuSDVqb2w4d1VQMlNjeTRV?oc=5",
+          "source": "Google News",
+          "published": "Sat, 19 Sep 2026 05:42:00 GMT"
         }
       ]
     }
