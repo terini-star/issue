@@ -1,81 +1,328 @@
 {
   "language": "en",
-  "last_updated": 1789949053.718562,
+  "last_updated": 1789970723.125354,
   "count": 40,
   "trends": [
     {
       "word": "Trump",
-      "count": 5,
+      "count": 4,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump says his planned arch would become a 'military complex' able to host drones and snipers - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOakc1V2NPUmNYZkVvZ05DR3ZLWk1jeWczejNDRnhsMTl4bkZlUnNiUWx6VTZhcnhFS3BLQV9CNnRJSi1Cb2Y4Q1lwbDYyMkN0MnRSWV94cll0eGNXbkhxaWJfOXVBMjFjc2ozSGtSa0dlM3NlVHdQbENBUExJUFRBZUY2X0UxRGNFTlROWGI4dG95ODdTcUdzYm1CaFFGUG9SZmRlLUgxaw?oc=5",
+          "title": "White House strips CNN of TV pool assignment as Trump’s press ban escalates - CNN",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUTXNYeWdJU1p5eXktUjhBcWQ5V2kzNmVnU1BtdUR1RDFIRnI1bjRvMWljdkp3OVpqOFZGeEdGZEZ5TFBnY3FpZzEwRFhacXlGc0xvVThLX2NHQ19nd0g1XzJwQkxlRG9oc2tiNl91b1BZSFVvV0E?oc=5",
           "source": "Google News",
-          "published": "Sun, 20 Sep 2026 20:03:00 GMT"
+          "published": "Mon, 21 Sep 2026 03:11:00 GMT"
         },
         {
-          "title": "Sen. John Barrasso says Trump isn’t violating the Constitution by banning reporters from the White House - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdFhKdXpiNHg5eXZreWczMGFjMlZ5NHV5cWVBa0FsSDFmNTJ1Vnh0c3FmdlZHYl9kZDhsTU4wa1dBUzQtVG9yOXNoTjRPQVlLZG1oUWRfYlB6d3RDZ2xmNzdmOGlkOVd5ejhmWXBTWlpBeEVuNFZ0R200SVhjbVBOQnJiX0pVRGFiN2JUSDI2Y1lpdmJMTnU4c0pseWNnekU0SDZ3Z0hCV05VU3lMa1JsaXNWV2FGSUdIOTk4OXplNHVaeVdt?oc=5",
+          "title": "Trump says planned 250-foot arch will be ‘military complex’ for drones, snipers - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWG01QmJRWlVMc2lLZEo5NVhTZ1VpTHhfaDBTWV8yaXI5MFZJcS1Id251OWxoZmRUWkg5aWRaMjJUdXZiWnY2WjNTUm9CMHg3QXNPbFpQakV5WW1uVWktam1BNmI4Tkk5ZGw5V3p6SlNoYlhjeWpWYVRfWXgzX3lHRUdYNW9XWlM0U0dVdFB1Nm44R2d2YWtObG8ydlhoWG9CM1FZNFp5LWJTb0p0bXhCeFd0TE1ldw?oc=5",
           "source": "Google News",
-          "published": "Sun, 20 Sep 2026 14:52:46 GMT"
-        },
-        {
-          "title": "Trump reportedly to form health funding board that could veto ‘woke’ initiatives - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTV9CMDhqQjJOU2kxZGRrNTBGX3hyVUVwZTlrZEszb1YtMGxuM0RrZFRvZkpJVXdhU1RqUW5Hc2N0bkhkQWM4QkJncXVaNUtuQkVWaUpwRTgxeTRmbm40aFU1Q05kS09LaTF6LUlpLWFHOWt4d3J1MDJDLUNzelBBTmNXZk9xS1NSNmNpWHFOa2ZPWjV3dzYzWA?oc=5",
-          "source": "Google News",
-          "published": "Sun, 20 Sep 2026 21:53:00 GMT"
-        },
-        {
-          "title": "Trump weighs fresh demands from Iran ahead of UN visit - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTExpYVNGTUpyTmx3U2tieTAybzNGdmE5bXJxbWVhWlVIR0JNemtHZEd4Q1VWWklHRGdmWURaemwwME5iN1NVTmRCcV9XNWItMVN0ck54elYyZ1k2TkFTamdSSDVDd1FSdzJKeTNqQXE0NXJuOWhwa3NVN1N1NFNaeEp0LWVWbFU?oc=5",
-          "source": "Google News",
-          "published": "Sun, 20 Sep 2026 19:31:52 GMT"
+          "published": "Mon, 21 Sep 2026 03:14:28 GMT"
         },
         {
           "title": "House Republican doubles down on jab at Trump’s immigration enforcement - The Guardian",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSUptS2ROcnQteGtRalFoM1JfTFlHSlVYbnQ5Y3VtTUI5dmt0MHpiX19EOXhUQlRwOUREMGRCT0ttRTdSN1lOTUlBV1JNSDJGYkcwbmRoRU9jUW1TNF94aEtEVXc1VHQ1NFdQcktoRURpTTlYVjhUM21JZHB2N0prd2ZCQTNLbGg1aWw5UHoxZDEyOUF1RXBBVTVDbThwdw?oc=5",
           "source": "Google News",
           "published": "Sun, 20 Sep 2026 17:04:00 GMT"
+        },
+        {
+          "title": "Macron and Carney announce closer France-Canada ties amid Trump tensions - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTFyT0lMekcyYzNGUUNGcmZHTTQ1dmhEMzAtQU9zdUxrOE94bWJpQ2c1eTRTMWhyVnNmQngyTWJaamxGc0tKbGk2dmRDUHZRcFpjZjZXZWo5UVB6NE5fRjZKd18zQjBSZEJFcFgwSXB3RTJVbHhrUUxlY0FobExmZEQ3TlhpeTRzZWctMHQwRHA1QUpJMXhVTw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 21 Sep 2026 01:09:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Talks",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Patrick Clancy talks about grief, forgiveness and the future with ‘60 Minutes’ after Lindsay Clancy mistrial - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMVdncHA5WklIMXFuRUdHYWhRU2huLXFVdlNEQkZSdkxIWlhKSmhLSks0Y3V2dVhOM2xMaFRFNlBLWVhuMnAySGdMZ3lwUWp0MnlJWkRHai1UeElLYlNhQlFWQnFrV2lBbUZZUVhBXzNrUzdOQnRiREhGMkxrTzBLekhmNlhpMzFkMDBvZ0NfeTNLSEV5TmdMckJyLVQyTlpDUXFLcEJ2dFFmcEhKeENYMGEwVQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 21 Sep 2026 01:47:00 GMT"
+        },
+        {
+          "title": "US proposes AI incident alert system in talks with China, Bessent says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTjA1TWd5LThuOFFaNWotd3FvV2FtbVRJUjZ0MHlELW1nM2lJaDRseEEyUHlIeHgtQWUySzVmRXlTM0R4aFdmTl9MQmRBaTRFY1NqTF9rTlppbnpoZmlVaEpQRWNzZ0tDWnQ4T1JiODZOUmNGMml6N3ViSVRpRTR3QkozOGp4YTloVTNUUUV1ZFBHMFFpeWc?oc=5",
+          "source": "Google News",
+          "published": "Mon, 21 Sep 2026 03:41:00 GMT"
+        },
+        {
+          "title": "Paramount Suit Settlement Talks Blocked By Four State Attorneys General - Deadline",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPazRhRkxmbkliV1E0Z1h6aENtSDVPTUdGZnNZX0hscTQ5Tmo2R2hVVkpZNVVfdlJDYTNVcDhOT0VMS1FCS19pT2E2QjNJRGxpdnBCeUJ4a3F3a0tubG91UXYzSU8xQ1dLWFRuRUlFMzVvcGM1a0NaNjVRSnBKTDVCQmNnRE9ZVzZma3pYbjF3?oc=5",
+          "source": "Google News",
+          "published": "Mon, 21 Sep 2026 02:43:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "State",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1od3dPRXB2cGIyd3kwXzQ5UVpWUGIwbmZ2cjNCUWFBTGc1M1VJcS1SVFJCMkZGYkhTSEZlRWNtUC1GR1pWRXhHRTYtRGdTWDR6clpwblkxa04weGM?oc=5",
+          "source": "Google News",
+          "published": "Mon, 21 Sep 2026 03:22:44 GMT"
+        },
+        {
+          "title": "Paramount Suit Settlement Talks Blocked By Four State Attorneys General - Deadline",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPazRhRkxmbkliV1E0Z1h6aENtSDVPTUdGZnNZX0hscTQ5Tmo2R2hVVkpZNVVfdlJDYTNVcDhOT0VMS1FCS19pT2E2QjNJRGxpdnBCeUJ4a3F3a0tubG91UXYzSU8xQ1dLWFRuRUlFMzVvcGM1a0NaNjVRSnBKTDVCQmNnRE9ZVzZma3pYbjF3?oc=5",
+          "source": "Google News",
+          "published": "Mon, 21 Sep 2026 02:43:00 GMT"
+        },
+        {
+          "title": "Tropical disease spread by mosquitoes claims first recorded death in southern US state - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWW12NzZocWRVQWcwOGV2RVExNEYxcFUyTkVOdEJFVlBzNVRvU0tVRktGWXE5YjBoZDkzYzlmYmVSbHNiUWowOHlpVldoRzM1UjhxZG9la3NCUVpjTzlXS0h5N01rZHVkZlc0N3h0Q2xWd042R2QzUjc4enpCQ1FES05PWXYtYVA2Sl9CRkVmdEFOaFFGTTZEdzJFOTRwdGxnNU9qVEdOemd5ZmZya0ww0gG0AUFVX3lxTE1hQUpQMEZ5Ym1adnNRaW9yZW5FUFpQY2xIWEFsNzdNMy1hN1BidVBCVkJFdllSY1VTcWpQU2RKbUNiUi1YY2gxR3JtOFN1NWRRTjlDUWZnUDduVDBzcFZTNUpJek9SWmtDRkg1b0RJdW1DcVk2VF81RTlROUZBbEZHbDYxT1JQaVFfQUpuV0NvNGljRERzaVoxUkZzaVhjQzd6cmotUjZaMjZTaDlPMnpBQTU4OA?oc=5",
+          "source": "Google News",
+          "published": "Sat, 19 Sep 2026 15:27:52 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Loss",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Fed and BoE step up scrutiny of bank exposure to trading firms after Jane Street loss - Financial Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ3otVXhYMVhIaTl4dHZJLXlIbVZmV3ZMZ0RQM2RTU0ZKTlpIZ3VfaEtlSF9RTU5NUy1yUEJpLWdXcFdmeWVseWhGQVJ0VnZ5LXVVa1VIN2hjVDk2dmVJVWw5MHMwemhCTTZOeUhoUjBCWEdsWHFQaTZzRWE3TnBpYlItbG8?oc=5",
+          "source": "Google News",
+          "published": "Mon, 21 Sep 2026 04:00:11 GMT"
+        },
+        {
+          "title": "Bears QB Caleb Williams hurts hamstring on non-contact play in 9-3 loss to Vikings - Chicago Sun-Times",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMHZDVkp1eDRLNDQ4NS11cHNDTmJIQjNCQ2h6SnhhNkR5OG81UWw0cldTN3BhTm5UcnVNU1NMaUJMb19GWXYzRjJKVFo2OXM0U2xybzY1ODVYNFdWMFV6SGpwelRUMl9PaFRYQVIta0lwSXY5anRqbGRMaXBxLTN0ekpBWVd1X2lFc1R1MjhpdVN0ZTlpUmVZbHRnTXBBTG9xd3dlSmd3?oc=5",
+          "source": "Google News",
+          "published": "Sun, 20 Sep 2026 22:45:00 GMT"
+        },
+        {
+          "title": "Jayden Daniels’s dislocated elbow overshadows Commanders’ loss to Cowboys - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaUIteXhoTGhTeFo5REtGMTJaNFl2S2VXU001TlNZckd0UmFaMUVmZU84Ulp4MUFQNlhGeE9ESUFZZnhIcE5zaWxFb1ROMWNjSHN0UlQxRDktU0lUUEQ1MFk5Mk9WNGc3ZmxGeFFpOS00dGllSDdTVUp6Sk52bnFsQng4anpMMWR5YjNwclc2V3VtXzN3dWRFMlk3SzA4U21rcWY5YXlHaE1MU296ejVqeEN2QjBBZw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 21 Sep 2026 04:29:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Measles",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Pennsylvania Measles Outbreak Met With Defiance and a Rush to Vaccinate - The Seattle Times",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUEF6MnhqZmVHN2hSSWNlcGlOUHpwLUV5ZFoxTlJjaFgzLTBndEhwcVlDSDFuVG4xR3FjTk94eHR4eVBESUY3WXdQaDZ4NWJfTGt5azNDNDBDRjB6SlU0Tm1renR0X3oxOGN5b243WGplVEdHRHZjSlQ5ZkdmbXNQeVFFSS12X0VYajFHd2lWdXhobExBX2FzT0ZTNzRaSEJlbkpKdHZSTDlWQmVJTmwzckREZTI?oc=5",
+          "source": "Google News",
+          "published": "Mon, 21 Sep 2026 01:32:01 GMT"
+        },
+        {
+          "title": "There was a possible measles exposure at Philadelphia International Airport - Inquirer.com",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYVJxaWx3clRTZk5sdWRzOFM3ZlVaX1Q5WXBhZFJva0xpX3d0dDM3OEJvblNDWHR0eFpWNE5lVGNDMjdHVDZfNlk4bDR2eXVpNlVFenhaWnJieDVYOE1XWmV2dzdHcDFRYTlIUmZrak5RckJXRURTMXlmQUt3Y0hja2JDQm95M2pVTW1lQkszV2hKc05WdEN3cWxpakVQZGpWZWxxOUFlR3JKVE9Rb1pBbnBXSkRmMG14cjh0R2hR?oc=5",
+          "source": "Google News",
+          "published": "Sun, 20 Sep 2026 00:22:59 GMT"
+        },
+        {
+          "title": "Measles-infected traveler exposed Amtrak riders across California, including in L.A. - KTLA",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMUZ6UHhJSHA1T0NwcWNGeG43Z3RmZVYxRGdzM0QxejlyS2hRdmVZWFA5NDFBRUdHRTl4bHM2UW0tRV9rak9MbHNJSlg1NlNaSlJMRVdIc0lsWGsxamhMQjduV3dreGV4Znk0UnI1WnBsN0JjT284QTZSc0xjVnZtVEhsbUFpR0420gGOAUFVX3lxTE1venZOYXlfVmt4WFhaX0lGQ3J6Q0gzMWs3N0VBZ09maDFyVHQ0aDVfNDQtamJfSXhFaTctRnFSYkRvbFZVOEdSZGNEVllUbFoyWlBHSFNvX0RVU0kyRXJpaDYtYW5Xb0dQeE1yRDRxODQwSVFHUjZ3NkdsQV9LLS01Z2Y5VGtnQ1JGVzZXT0E?oc=5",
+          "source": "Google News",
+          "published": "Mon, 21 Sep 2026 00:44:07 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Clancy",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Patrick Clancy talks about grief, forgiveness and the future with ‘60 Minutes’ after Lindsay Clancy mistrial - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMVdncHA5WklIMXFuRUdHYWhRU2huLXFVdlNEQkZSdkxIWlhKSmhLSks0Y3V2dVhOM2xMaFRFNlBLWVhuMnAySGdMZ3lwUWp0MnlJWkRHai1UeElLYlNhQlFWQnFrV2lBbUZZUVhBXzNrUzdOQnRiREhGMkxrTzBLekhmNlhpMzFkMDBvZ0NfeTNLSEV5TmdMckJyLVQyTlpDUXFLcEJ2dFFmcEhKeENYMGEwVQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 21 Sep 2026 01:47:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "man",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "ICE officer shoots and wounds man in Austin, Texas, officials say - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSzhfRUVJQlNGbEtRdFNZa25BSzVGbXVrSnV6aTI2VEZ3aEJLWDNESzRBMXRJNTVhSkhLbnlPS2xhSm9IdlZJVEhuYUZhQ3M5N21YbU0weGdjakpBaVoxMGtpODlMSWJfMGcteDJ2czNzZlBrR2xYTktuS2RWeDRKclJFUXBNQmdmWm1JdmVvX0RaTU1MV2FSeUNfaE5zbUpacTJKTkQtNNIBrAFBVV95cUxOMVc4d1Q1QkZBenlrUjM0NU9TeVk1aHlObnBpQndRTzRkdmZ6eWFsSWNobTY5dWtFeFBOSlp3aW9pMlNpM0pFQ0VHQ0pDU3VOanoyUldpdDRxNmphM0JtMEhuRlh5Ni1tQ21XcFNxTnotVXJtVU9QYWJxQ0ZOTnI1UXkzZnd0T2VEdTlrWi1MVGRRTDRvOGlOTkZjTXVRT01rNDZWZndtbVhCaDB4?oc=5",
+          "source": "Google News",
+          "published": "Mon, 21 Sep 2026 02:42:39 GMT"
+        },
+        {
+          "title": "Family mourns man killed on ground in KNBC helicopter crash - KTLA",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUTBNeS1LaWx4WV9STWFEbVZSVWg4LWhoT2E1bFh5XzRqRURKeWFCXzR2U2hma2pvYnlJZ19ELVBPWTAwb1I0ZTBJdVhDNnZfVlhoekZNQ1hsemJqR2ZFYnp0SFNVWHZoQWJPZDZNLWRQMWxrbmpXUFV3TFVvOEszZzRZMzVVMUR1aU5JYTRqcTROYmVYdHpQZdIBngFBVV95cUxPLV9IOE1FMEZNYmNjeTMwNHZuTDQwVE1IQkcyYjZuVW9zZHE1d09YR1pXbFlWbVlNSGRVLWtPVS1Zd3JrYkZDbkFtNzRNLVBkTHZKbUtCMVdzZkdsdWJjc0hJMm9abnJqRlo5TjJNbndjMGZ6VHFjdElwRV9KQVJTTGQ4ZHlyQUZ2Ni02LWN2cXpIRnRBSjBBNThCbENBQQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 21 Sep 2026 01:32:15 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Election",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1od3dPRXB2cGIyd3kwXzQ5UVpWUGIwbmZ2cjNCUWFBTGc1M1VJcS1SVFJCMkZGYkhTSEZlRWNtUC1GR1pWRXhHRTYtRGdTWDR6clpwblkxa04weGM?oc=5",
+          "source": "Google News",
+          "published": "Mon, 21 Sep 2026 03:22:44 GMT"
+        },
+        {
+          "title": "Polls close in Russian wartime election with ruling party set to dominate - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ3hESHhwaGxIbkFrWXZRZXB5SkdwNVBfNEtFUkpRaURYeVhhQVFJNXNVT2lCNHdVWF9FbFJGbkxHMFd4WVk1WnhWSi1xb2d2dVdmSnFBc2hxbXBnVFdKY2JSYi1SSk9uZXQ1Nkk4SmY0OHNhX0Z1OVhyd2thZFlmU2NoY2UtSFpGdWtqQjE2dmJjbzV4YVBQOE9uS0diVXZqWjNYZDlEY0lEUE12VmRlcU1vaU_SAboBQVVfeXFMTTZnZGpYN0ROZFhPRWJBYlc5cEl4VklLc0FGZlRXVGV1YXdfTUJhdGs1UFRWbXFYZTlnYXlseG5adlJLNVFTSDZwblZNQml3UEZ2WUpza2VTVUpnY0MwZ1ZxbUtNejRfMWg4V2R3QzFzVWdxZEtTeTh2aWVlQmdON2xZbVpOalZuSklLWHFDc3p4OHdaYUlIOUNPeF9XU2pwbGNQZ1RTZ0J1c2wwaGJnampYOGw1cDdFTDJ3?oc=5",
+          "source": "Google News",
+          "published": "Mon, 21 Sep 2026 05:15:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Party",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1od3dPRXB2cGIyd3kwXzQ5UVpWUGIwbmZ2cjNCUWFBTGc1M1VJcS1SVFJCMkZGYkhTSEZlRWNtUC1GR1pWRXhHRTYtRGdTWDR6clpwblkxa04weGM?oc=5",
+          "source": "Google News",
+          "published": "Mon, 21 Sep 2026 03:22:44 GMT"
+        },
+        {
+          "title": "Polls close in Russian wartime election with ruling party set to dominate - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ3hESHhwaGxIbkFrWXZRZXB5SkdwNVBfNEtFUkpRaURYeVhhQVFJNXNVT2lCNHdVWF9FbFJGbkxHMFd4WVk1WnhWSi1xb2d2dVdmSnFBc2hxbXBnVFdKY2JSYi1SSk9uZXQ1Nkk4SmY0OHNhX0Z1OVhyd2thZFlmU2NoY2UtSFpGdWtqQjE2dmJjbzV4YVBQOE9uS0diVXZqWjNYZDlEY0lEUE12VmRlcU1vaU_SAboBQVVfeXFMTTZnZGpYN0ROZFhPRWJBYlc5cEl4VklLc0FGZlRXVGV1YXdfTUJhdGs1UFRWbXFYZTlnYXlseG5adlJLNVFTSDZwblZNQml3UEZ2WUpza2VTVUpnY0MwZ1ZxbUtNejRfMWg4V2R3QzFzVWdxZEtTeTh2aWVlQmdON2xZbVpOalZuSklLWHFDc3p4OHdaYUlIOUNPeF9XU2pwbGNQZ1RTZ0J1c2wwaGJnampYOGw1cDdFTDJ3?oc=5",
+          "source": "Google News",
+          "published": "Mon, 21 Sep 2026 05:15:00 GMT"
         }
       ]
     },
     {
       "word": "House",
-      "count": 3,
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Sen. John Barrasso says Trump isn’t violating the Constitution by banning reporters from the White House - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdFhKdXpiNHg5eXZreWczMGFjMlZ5NHV5cWVBa0FsSDFmNTJ1Vnh0c3FmdlZHYl9kZDhsTU4wa1dBUzQtVG9yOXNoTjRPQVlLZG1oUWRfYlB6d3RDZ2xmNzdmOGlkOVd5ejhmWXBTWlpBeEVuNFZ0R200SVhjbVBOQnJiX0pVRGFiN2JUSDI2Y1lpdmJMTnU4c0pseWNnekU0SDZ3Z0hCV05VU3lMa1JsaXNWV2FGSUdIOTk4OXplNHVaeVdt?oc=5",
+          "title": "White House strips CNN of TV pool assignment as Trump’s press ban escalates - CNN",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUTXNYeWdJU1p5eXktUjhBcWQ5V2kzNmVnU1BtdUR1RDFIRnI1bjRvMWljdkp3OVpqOFZGeEdGZEZ5TFBnY3FpZzEwRFhacXlGc0xvVThLX2NHQ19nd0g1XzJwQkxlRG9oc2tiNl91b1BZSFVvV0E?oc=5",
           "source": "Google News",
-          "published": "Sun, 20 Sep 2026 14:52:46 GMT"
+          "published": "Mon, 21 Sep 2026 03:11:00 GMT"
         },
         {
           "title": "House Republican doubles down on jab at Trump’s immigration enforcement - The Guardian",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSUptS2ROcnQteGtRalFoM1JfTFlHSlVYbnQ5Y3VtTUI5dmt0MHpiX19EOXhUQlRwOUREMGRCT0ttRTdSN1lOTUlBV1JNSDJGYkcwbmRoRU9jUW1TNF94aEtEVXc1VHQ1NFdQcktoRURpTTlYVjhUM21JZHB2N0prd2ZCQTNLbGg1aWw5UHoxZDEyOUF1RXBBVTVDbThwdw?oc=5",
           "source": "Google News",
           "published": "Sun, 20 Sep 2026 17:04:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Canada",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "After the EU’s offer to Canada, could Australia also embrace a ‘Eurovision’? - The Conversation",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNjBaUktuak9MZUNLVUdVZ3cwNEdMalRXeXc5eTl0dnJHY1FsWVJVSlNWWmM5ZkZNdEFDX0VCQk1pemZfSzNrT19yOFJTZVdqOWhrSF9MQlBtbUQ1eTRtdWg0OHpWc040YU1Da1djVkdZZU1zdUx1SDlLWVlXR3VsRURIWGRoUHlhSXFpUjJuSEZ2aDZiWHB4bzVXU256V1BVakE3LVRqTlVRZw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 20 Sep 2026 20:13:09 GMT"
         },
         {
-          "title": "AI’s Wobbly House of Cards Puts Markets and US Economy at Risk - Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOUIzTWFrSUtlVXdxeVFicV9kTjY4bnlHa295MjlFVlYyYzQ4VGp4NXBPbWlLM2RDUkdocWZ3VHU0R0lKTTFtWElhbHMtQXdhREZLc203d3dpMzI4UTFSUGN2em5QM2ZQMC1aZkZrMUx5YUNTZXJmbE90dmxSNVVrTVpUYXFoOTFUT1VZRWx3ZWNjOENjSzNYdWJFeGtLZlBGTnZWS0Q4aFd0MWxORTA5dWIxdw?oc=5",
+          "title": "Macron and Carney announce closer France-Canada ties amid Trump tensions - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTFyT0lMekcyYzNGUUNGcmZHTTQ1dmhEMzAtQU9zdUxrOE94bWJpQ2c1eTRTMWhyVnNmQngyTWJaamxGc0tKbGk2dmRDUHZRcFpjZjZXZWo5UVB6NE5fRjZKd18zQjBSZEJFcFgwSXB3RTJVbHhrUUxlY0FobExmZEQ3TlhpeTRzZWctMHQwRHA1QUpJMXhVTw?oc=5",
           "source": "Google News",
-          "published": "Sun, 20 Sep 2026 13:00:00 GMT"
+          "published": "Mon, 21 Sep 2026 01:09:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Russian",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Polls close in Russian wartime election with ruling party set to dominate - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ3hESHhwaGxIbkFrWXZRZXB5SkdwNVBfNEtFUkpRaURYeVhhQVFJNXNVT2lCNHdVWF9FbFJGbkxHMFd4WVk1WnhWSi1xb2d2dVdmSnFBc2hxbXBnVFdKY2JSYi1SSk9uZXQ1Nkk4SmY0OHNhX0Z1OVhyd2thZFlmU2NoY2UtSFpGdWtqQjE2dmJjbzV4YVBQOE9uS0diVXZqWjNYZDlEY0lEUE12VmRlcU1vaU_SAboBQVVfeXFMTTZnZGpYN0ROZFhPRWJBYlc5cEl4VklLc0FGZlRXVGV1YXdfTUJhdGs1UFRWbXFYZTlnYXlseG5adlJLNVFTSDZwblZNQml3UEZ2WUpza2VTVUpnY0MwZ1ZxbUtNejRfMWg4V2R3QzFzVWdxZEtTeTh2aWVlQmdON2xZbVpOalZuSklLWHFDc3p4OHdaYUlIOUNPeF9XU2pwbGNQZ1RTZ0J1c2wwaGJnampYOGw1cDdFTDJ3?oc=5",
+          "source": "Google News",
+          "published": "Mon, 21 Sep 2026 05:15:00 GMT"
+        },
+        {
+          "title": "Russian Progress spacecraft delivers 3 tons of cargo to the ISS (video) - Space",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMkthZGxKVy1ZemdSSFJpY0l6V2p6bU5UZVk1c2xMU2ZHRzItRVB6ZDdMQkFuSlRGanFVdkJjQl9JQm5OVG1fZHEwSm1VYWUwTVV5VTFhUXd6d1BqVU9MQ3ptUGVXdlhPUDMwdEtiVVRYeklweGViVjJNNVRBOVNXeHF0ODhIbXJrWC1sb3dXUnpfc29jckZfRHBuMzZEVXczTWJuRGdTTnA4WHlsTWtQVjBxQ0FwZw?oc=5",
+          "source": "Google News",
+          "published": "Sat, 19 Sep 2026 15:00:09 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Reserve",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Poison suspected in deaths of ten lions in game reserve in Tanzania - NPR",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZHk5cVl4dVNsaW1vWV82am04cXpFUmo3R1NRRTBSN1JQTW54eEJVQ2ZLMzhaWEFWcXRhMjRUQ1dDM2NWbTdTTUhka0tTZ3N4MFhPTU5LSzNTa2IwbFlyd25BUjdKTEU4Vk5WckozNk1jcHhITHZxRlo4WkpYaDllbjZKcWk3TERzdTRlQ1YxWGM5Qi11OEdnVlZvWWZsSUo4aDZZTzBlQ2I4Z0tMNjhlZGRn?oc=5",
+          "source": "Google News",
+          "published": "Sun, 20 Sep 2026 21:39:24 GMT"
+        },
+        {
+          "title": "Federal Reserve rate hike reflects new world of sticky inflation and faster growth - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeUxpb0hhaEY4MGl0T21yM2ZObndRRlBrc0owTWxDM1FKMlFrWmF5Q21aNGFXdFh2QW5RRTJMMkVZSnJkdnpJMEdTWEFzTjFLQ2RCUWNqWXdlVVJoalBTLUxTMFJHN3pQVlAyLTdGLXBDdnlWbFlzMEJRTlowcklrY2NOaXEyOUE0cG4zQS1oRkxFR1JORWFBNHdJUXRnSGpILWc?oc=5",
+          "source": "Google News",
+          "published": "Sun, 20 Sep 2026 13:45:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Exposure",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Fed and BoE step up scrutiny of bank exposure to trading firms after Jane Street loss - Financial Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ3otVXhYMVhIaTl4dHZJLXlIbVZmV3ZMZ0RQM2RTU0ZKTlpIZ3VfaEtlSF9RTU5NUy1yUEJpLWdXcFdmeWVseWhGQVJ0VnZ5LXVVa1VIN2hjVDk2dmVJVWw5MHMwemhCTTZOeUhoUjBCWEdsWHFQaTZzRWE3TnBpYlItbG8?oc=5",
+          "source": "Google News",
+          "published": "Mon, 21 Sep 2026 04:00:11 GMT"
+        },
+        {
+          "title": "There was a possible measles exposure at Philadelphia International Airport - Inquirer.com",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYVJxaWx3clRTZk5sdWRzOFM3ZlVaX1Q5WXBhZFJva0xpX3d0dDM3OEJvblNDWHR0eFpWNE5lVGNDMjdHVDZfNlk4bDR2eXVpNlVFenhaWnJieDVYOE1XWmV2dzdHcDFRYTlIUmZrak5RckJXRURTMXlmQUt3Y0hja2JDQm95M2pVTW1lQkszV2hKc05WdEN3cWxpakVQZGpWZWxxOUFlR3JKVE9Rb1pBbnBXSkRmMG14cjh0R2hR?oc=5",
+          "source": "Google News",
+          "published": "Sun, 20 Sep 2026 00:22:59 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Pro",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "iFixit tears down iPhone 18 Pro, explores variable aperture, finds concerning repair issue - 9to5Mac",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRkJONzgxNm9oOTY2UEJ5U0o0UVJfU29uTTBoN3NkdFpIZm1WTzk3OHFuaTlYeW1oVkVCaXd6bktnQW5pRmNZeTdQSzlkdlNadFEzMFYyLUZMR3JVeGFHRjhMV1h3MEE1Z1ZMNVJlX0xYUUhTSHR0X3dEaWFPdDNMaEM1bHYxdEVMYkxBeFlZVk9jLXk2S2U1RnAwRU1FSnRlRDlsZGJVNWRSY2JYRzFHdVlYOFI4NzFkcWVRRQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 20 Sep 2026 22:02:00 GMT"
+        },
+        {
+          "title": "5 phones to buy instead of the Google Pixel 11 Pro - digitaltrends.com",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUktDUGRvdDE4RGctTy1TZE4yQnI0bHRDSVdJVjNEOGkwTHBVVU9zendiSlBTSnVkWkpOMlRyTkdIRnNJUEZ4M0o3WnNKb2M3Qjd0NXRPSFVyREdBaS1uSzNlZWRwTXgzb0lMQ2xaR0phb2JPWjE4SW81a2cyeXdBRVRUXzZGaU5uWkVxSS02RXkzQQ?oc=5",
+          "source": "Google News",
+          "published": "Sat, 19 Sep 2026 14:34:50 GMT"
         }
       ]
     },
     {
       "word": "Philadelphia",
-      "count": 3,
+      "count": 2,
       "category": "NOUN",
       "articles": [
-        {
-          "title": "Philadelphia woman was ‘petrified’ of ex-husband before she vanished. Now her case is part of a mystery involving 6 other women. - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaENoN3dESkFBMktUelVCdGJVd1BMbEJSdENWdEhEXzdFdEJaSlh3VnA1akdYVEZ2RFpQMUpXcGhySTQ1d1k5TWVYSTFfQmtUNXVJU2syWDdHZVFjQmZwMVp2anVPeGtPbTdTMUx0d2t0ZlBXRElma085SnFJMTZYQV9uai1LaHNqcDdvQ1BrQXhtZXc?oc=5",
-          "source": "Google News",
-          "published": "Sun, 20 Sep 2026 12:00:40 GMT"
-        },
         {
           "title": "Inside the Fear, Anger, and Hope at Ed Sheeran’s Philadelphia Concert - Rolling Stone",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2pCSlJjMjJMMFgyNFdTRVpQdTVKYTN5eUpIWkV5ampHZWVoNjlFN2lsOVpUTjBfSGdMeU93Qk16MzlOZUdnOHZ2NXY3Vms3NVctbnU3bTRpMlZXSlZMdE1aWTVWOFBLeXVIRXJJUlhxRTlpRDhZUGZhbUpUa2FNNzN5WHQ4dTltcmppcGdLSVBfZzdXXzduQ1RSbEswdUVPUFR0cWZVTXpjWWhRbWc?oc=5",
@@ -91,227 +338,37 @@
       ]
     },
     {
-      "word": "Federal",
+      "word": "Takeaways",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Federal immigration agent shoots and injures man in Austin, Texas - NPR",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TOXNKd1NTc1ZGLXNJX1gySDVLTERVSW9EbXhvdktpTHNFT3lETkR3MlFLTnJzTEZSWW9sY2IyOUNyNVh2azUwYWdJaVdYN19pQVFPNkI3YTVSY3VTTWUxck8xZ3RKb2wwdzZUNldRb3hvelBTQXZPTnJB?oc=5",
+          "title": "Rapid Reaction: 3 instant takeaways from Chiefs-Colts - Arrowhead Pride",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb1Z0eUZfN2o2R3Y2LTZYemljSHlGa2JqLWdYNGE1TkN1UnVCQ2xlVmxKUXg1TWdfYVV0bXdnUnFXWjduWk1fQkVYbGZxWXlOa0h3MW53bFlqbXRmcVR1NDh1TVNUdDN0WkRob1B0N3RwSmxqRWZUMDJFYzhLYk1tcVlSMk9WcFVwZXB1eVE1NFBMSjgwYlNqMmptZ1dPWE5iM2FhS0JYWWU1R29KZG5GUW5fTQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 20 Sep 2026 21:53:00 GMT"
+          "published": "Mon, 21 Sep 2026 04:00:00 GMT"
         },
         {
-          "title": "Federal Reserve rate hike reflects new world of sticky inflation and faster growth - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeUxpb0hhaEY4MGl0T21yM2ZObndRRlBrc0owTWxDM1FKMlFrWmF5Q21aNGFXdFh2QW5RRTJMMkVZSnJkdnpJMEdTWEFzTjFLQ2RCUWNqWXdlVVJoalBTLUxTMFJHN3pQVlAyLTdGLXBDdnlWbFlzMEJRTlowcklrY2NOaXEyOUE0cG4zQS1oRkxFR1JORWFBNHdJUXRnSGpILWc?oc=5",
+          "title": "NFL Week 2: Takeaways, questions, fantasy spin for Sunday games - ESPN",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMkRqRjBMNUtGS3dXMnlsNDRWZ09DNkJ4RzRtOHlfYkZQMkZiandYNVlvb0h3Y0V6aEJHaGNNQnJPYWRiZnE3Mmx2NlIydUF6YmtjYnhkOU9maWpMaGJBX080ZldJVFE0cU15S2JMRVlVN3BFT19qTmlCUy1nYTRUaGU4bExGTHYyWXdYZjZ4UVpoXzA?oc=5",
           "source": "Google News",
-          "published": "Sun, 20 Sep 2026 13:45:00 GMT"
+          "published": "Mon, 21 Sep 2026 04:55:00 GMT"
         }
       ]
     },
     {
-      "word": "Immigration",
+      "word": "Moon",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Federal immigration agent shoots and injures man in Austin, Texas - NPR",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TOXNKd1NTc1ZGLXNJX1gySDVLTERVSW9EbXhvdktpTHNFT3lETkR3MlFLTnJzTEZSWW9sY2IyOUNyNVh2azUwYWdJaVdYN19pQVFPNkI3YTVSY3VTTWUxck8xZ3RKb2wwdzZUNldRb3hvelBTQXZPTnJB?oc=5",
+          "title": "Venus ate its moon: How Earth's 'twin' could have swallowed a rocky satellite - phys.org",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HSVB6aFhqOEtnWlFSMjFoS3paVXdZbjc5NzBra2N4dndlSkFLTHl4RnF1Z0JMN1lGRUtQLWgxNVFfM3l5cml4bElCeG5xRUZSWEMyNzZiN1VpZTVEY0ptdHNzN25xY3R6TlQ0Qg?oc=5",
           "source": "Google News",
-          "published": "Sun, 20 Sep 2026 21:53:00 GMT"
+          "published": "Sun, 20 Sep 2026 18:30:02 GMT"
         },
         {
-          "title": "House Republican doubles down on jab at Trump’s immigration enforcement - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSUptS2ROcnQteGtRalFoM1JfTFlHSlVYbnQ5Y3VtTUI5dmt0MHpiX19EOXhUQlRwOUREMGRCT0ttRTdSN1lOTUlBV1JNSDJGYkcwbmRoRU9jUW1TNF94aEtEVXc1VHQ1NFdQcktoRURpTTlYVjhUM21JZHB2N0prd2ZCQTNLbGg1aWw5UHoxZDEyOUF1RXBBVTVDbThwdw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 20 Sep 2026 17:04:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Drones",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump says his planned arch would become a 'military complex' able to host drones and snipers - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOakc1V2NPUmNYZkVvZ05DR3ZLWk1jeWczejNDRnhsMTl4bkZlUnNiUWx6VTZhcnhFS3BLQV9CNnRJSi1Cb2Y4Q1lwbDYyMkN0MnRSWV94cll0eGNXbkhxaWJfOXVBMjFjc2ozSGtSa0dlM3NlVHdQbENBUExJUFRBZUY2X0UxRGNFTlROWGI4dG95ODdTcUdzYm1CaFFGUG9SZmRlLUgxaw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 20 Sep 2026 20:03:00 GMT"
-        },
-        {
-          "title": "Ukraine fires over 1,000 drones at Russia, including 'largest ever' attack on Moscow - PBS",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUG4xdzdpSmtOVGxlTDNNQVJVOW8tVGsydzBiN1ZZc2ZfVTA1V25xX1Q1NDYzb3BETmF2Wkg3Zno2UTU5ZG41QW0tS3h1Xy1uZ2JoSDFlYkxDeEFPVEVkTmo0Z05fanZaS3FuWGNBYjgxQm1IdDNESWtBdFZqZ09rdlpaVGZvTWRWSXd0UW0tRWI4TU40bEhNd29oc1lnUnhpNXhmNG9CVE1IamE5aG1iZ1pzd2tmUdIBuwFBVV95cUxNR29JOXNnRGVGUmFVd1NhTGFpREJ0VXcyN1FLc0tCN1lseV9VdHI4Zmd6b1lHSEdRSmhFeU45YzQyaE9vTnA4d21YNk5JQTA3M2xLUFFUd2NlMl9JZzRZQlFxWTZRMGM5UTJRMHlvTVVoSDU2QjlEaWNET1JqSmo4NVRNNlpTa3BZMmRVNlAyeEozZGNyajZCUUc4Vkx1SlNnRkZSWnk3VTJkNU9ISWVQNENQc193dDNOcUVj?oc=5",
-          "source": "Google News",
-          "published": "Sun, 20 Sep 2026 15:54:32 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Russia",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Early returns in Russia’s parliamentary election show the main Kremlin party leading - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVTdMN1ZGRTNNQy1IQUk3RXhDYklxaHlDV2ptNHZfMWFQaGpaQmd6QkpwVUxpSjlBc0ZGWV9fMkFWeGQ0UEpnWGZONEZLc214amFHX3BnWUwtRTBKQTlScWVWRmFsNkxucWNCOFpJWXg0dVNWOFNabG1ObWlkRS1nbUhFRlU4Wl9HRVN6SGxDU19JUlUyenlIUl9MRWpsbUs3NEZFRGpGU3Y?oc=5",
-          "source": "Google News",
-          "published": "Sun, 20 Sep 2026 23:44:00 GMT"
-        },
-        {
-          "title": "Ukraine fires over 1,000 drones at Russia, including 'largest ever' attack on Moscow - PBS",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUG4xdzdpSmtOVGxlTDNNQVJVOW8tVGsydzBiN1ZZc2ZfVTA1V25xX1Q1NDYzb3BETmF2Wkg3Zno2UTU5ZG41QW0tS3h1Xy1uZ2JoSDFlYkxDeEFPVEVkTmo0Z05fanZaS3FuWGNBYjgxQm1IdDNESWtBdFZqZ09rdlpaVGZvTWRWSXd0UW0tRWI4TU40bEhNd29oc1lnUnhpNXhmNG9CVE1IamE5aG1iZ1pzd2tmUdIBuwFBVV95cUxNR29JOXNnRGVGUmFVd1NhTGFpREJ0VXcyN1FLc0tCN1lseV9VdHI4Zmd6b1lHSEdRSmhFeU45YzQyaE9vTnA4d21YNk5JQTA3M2xLUFFUd2NlMl9JZzRZQlFxWTZRMGM5UTJRMHlvTVVoSDU2QjlEaWNET1JqSmo4NVRNNlpTa3BZMmRVNlAyeEozZGNyajZCUUc4Vkx1SlNnRkZSWnk3VTJkNU9ISWVQNENQc193dDNOcUVj?oc=5",
-          "source": "Google News",
-          "published": "Sun, 20 Sep 2026 15:54:32 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Space",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Canada, France to Develop Shared Space Launch Infrastructure - Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWkVHNTQxNGsta1F2Y2hfeDQtbEE5Y3BoV3J6eEQ2ckJDWTlmajRTVHFBbjRkVG9MVVd0SC1JdlNyZTdwd0Q5QVVpZ3J0bXR6TWpCX1BJQWxPeUpkVmhDVzZGTlRUNkh3MHQydmRmLXNBYTZqMVhWMHh0dElBLWp5LUZJcG04dmVKd3RsRTVTVzVuOFpuNS1XLUhBaVIxMUU2SXlCUlF0RGZjYVlVSUhV?oc=5",
-          "source": "Google News",
-          "published": "Sun, 20 Sep 2026 18:30:12 GMT"
-        },
-        {
-          "title": "'We are on our way to groundbreaking science': Stars turn neon-green in first test image from NASA's Roman telescope — Space photo of the week - Live Science",
-          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPVzM0Q0FMeElhZ0d0Vm92cEkzUm9EeWFiUzBsYUdfZmJndVhwQnBPamNoV3N3VXRXYjd2NlcwcXI1WGR6Y3Z6V3NnWTE1UUJRR3QtRy1zb0xWRjcyWUgzRHlNaTM4ak5vRmtEdlU4NVVMNndNN2FkNDFTMmpwQzhBd09ZLTQ3SnNJbFdZNDhLcHYtVzJYYlBqblRCYktMNHhtZzhFZHAyU1BZS1FtYUtYeU5XbElmcXVaQlREVGwwY1duYXo1M1NkWDctaWx6OXQ4N2pSQldQYWFHNk9LdXd6Q1duSEw0ak1wZkoyWXJSMXNGS005WlE4ZnhCZVlSVm91REVUTW5mY1R6Z2Yz?oc=5",
-          "source": "Google News",
-          "published": "Sun, 20 Sep 2026 10:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "old",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Too old to hire? These Americans lost their jobs at 60 - usatoday.com",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRG54Rl9hSm1EMEVOR2R2QVFMcGYxQy1FU2FkWnROdnZ4MzZUWnRROGJFdWZicWh2amJDNjc1Y3BLN05FZlRrTm44ZzFHazNiUHZXN0JxWlNaMkJGUmFKZjdkOUhnUXlvbTlrNGVKQVZUWEluWnlCdWMtMERWQ01icm5LMGpzNEU1V1VwbEwtTEloRU1sc3JNU2o3dVluTjlveHJONWI5NTgzR29xU0NEZjVGSTJJRzI3T25ZQXlTNVpUZ2Zl?oc=5",
-          "source": "Google News",
-          "published": "Sun, 20 Sep 2026 16:32:00 GMT"
-        },
-        {
-          "title": "My 13-year-old refused to share his location with me. I was annoyed — until I realized he had a point. - Business Insider",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcGNCRkVuNERIb1A2RVg2MHUyMTZZVXVqU0ZWcXNNMlJQZnhIRXhhbFptTEpuR1VTX3FSRzJRYllhcWdfaE4yX2xBNlZWbE5MOUZfLUQ5QWNLdGswY2ZTR3E0RzQxekhYakpkaDBYTjFPR1hqb0xDZHdhUzUwOEJkR3J5SVllaThaX0R5ajRocVB6Y0hTVUJoaGdrSlM?oc=5",
-          "source": "Google News",
-          "published": "Sun, 20 Sep 2026 18:55:26 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Lost",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Too old to hire? These Americans lost their jobs at 60 - usatoday.com",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRG54Rl9hSm1EMEVOR2R2QVFMcGYxQy1FU2FkWnROdnZ4MzZUWnRROGJFdWZicWh2amJDNjc1Y3BLN05FZlRrTm44ZzFHazNiUHZXN0JxWlNaMkJGUmFKZjdkOUhnUXlvbTlrNGVKQVZUWEluWnlCdWMtMERWQ01icm5LMGpzNEU1V1VwbEwtTEloRU1sc3JNU2o3dVluTjlveHJONWI5NTgzR29xU0NEZjVGSTJJRzI3T25ZQXlTNVpUZ2Zl?oc=5",
-          "source": "Google News",
-          "published": "Sun, 20 Sep 2026 16:32:00 GMT"
-        },
-        {
-          "title": "Satellites show Earth lost more than 12 trillion tons of ice from Greenland, Antarctica in 47 years - KSL News",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUnlVeHVkUkVMeTRSd3ZNeFRtUElaZnlXRlF0NFpXYVNRRE5fdm9WWVhUV3ltTFE1djM1bDhzb3A1cUh2cFpsWDBwX2xpbFdZVUJBRmg2bm9CLS02Ti0xWDhmdmR2VFp6YUhnVHRBd3EyRU9PcjFqUnptZl9raFpES19rWjBSUFctQUpDVzJvVlhZdHB4R0YwQU0tM002VnBVMk1tcmdqUXVnQzAzVU1seHVJLUJuUUpVMjJKSGxteVhaQ0NBVGp4MGZOdjdlcHNt?oc=5",
-          "source": "Google News",
-          "published": "Sun, 20 Sep 2026 19:04:18 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Risk",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "AI Risk Is Everywhere and It's Making Billion Dollar Funds Nervous - Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRXczNmN1MGZ3X3NMU2toblJ1dUJ3bzRwVU9nNmRMMjdTbzRUdHRQMlNQNnhkV0ttSHF3OVlVbHZuNEdRdlgyS1hqamJkS3Q0NEJscXJsR3JsMmJqdzRmdk9pTGJLQmZvNjhvU29nMXd2VGs3RzJhd0gwMk1TWFBEVGUwVE5hNlppTi1Hd0pmejNKUm1PTGZTalU1UUNCNEtheDZRVVJhUmYxVzNZNGxJNF9QWU44QQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 20 Sep 2026 21:00:01 GMT"
-        },
-        {
-          "title": "AI’s Wobbly House of Cards Puts Markets and US Economy at Risk - Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOUIzTWFrSUtlVXdxeVFicV9kTjY4bnlHa295MjlFVlYyYzQ4VGp4NXBPbWlLM2RDUkdocWZ3VHU0R0lKTTFtWElhbHMtQXdhREZLc203d3dpMzI4UTFSUGN2em5QM2ZQMC1aZkZrMUx5YUNTZXJmbE90dmxSNVVrTVpUYXFoOTFUT1VZRWx3ZWNjOENjSzNYdWJFeGtLZlBGTnZWS0Q4aFd0MWxORTA5dWIxdw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 20 Sep 2026 13:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Game",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Jayden Daniels exits Commanders’ game vs. Cowboys with elbow injury - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaUIteXhoTGhTeFo5REtGMTJaNFl2S2VXU001TlNZckd0UmFaMUVmZU84Ulp4MUFQNlhGeE9ESUFZZnhIcE5zaWxFb1ROMWNjSHN0UlQxRDktU0lUUEQ1MFk5Mk9WNGc3ZmxGeFFpOS00dGllSDdTVUp6Sk52bnFsQng4anpMMWR5YjNwclc2V3VtXzN3dWRFMlk3SzA4U21rcWY5YXlHaE1MU296ejVqeEN2QjBBZw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 20 Sep 2026 23:52:27 GMT"
-        },
-        {
-          "title": "Roob's Observations after Hurts leads magical game-winning drive over Titans - NBC Sports Philadelphia",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM3RYUUxSTnFfRHZlaWNFN1ItV3U2QlZVN3VwMkRtRERjOFZBZXNOTmtIZXNFa3pNbzhfQWptX2hjRTl1RGxtQzJ2ejI3MmJXTE1INWpVUWVwTkJzLVR5YkxZMGhuRTY1eVBEYXBHWGZvUlpoVDNEMTZhWS1EalVlVHNiQnF0eGUwU0QtLW9KQWlLWVFHY3h4RDQwdTRXRGl3dDJVZFhkWHZUM19lZXdzcy0xN3ZYeW0zd19KeTVlMGxsbmZ5T0s2dXZCN01HOWEt0gHYAUFVX3lxTE5BNDhPTWREUnFrSmVZOGF6MnJZQlBxV2N0U0tMcnUxRFhISnRFYW1TWmZMWlE2Tm45aFpYV2RuRy1tcTR5UlU0aXk2d3ZXbWFRcWstQ3M5NlQ0S0NFYzJYb1B2dEZpSnJ4ZUlzRUZGRzB3QV9obUs2ZTh6Q0p3OGVqY0NlMlRnc2NzZGxfVG5vTm82NzMyT2ZoT2IwUGlUcFFYME1MSG1oOTNlRDNOa2xSMUlGX3dIZWlsblh2bUQ4cWtXa3Q4QzFnSDlRb1hyRXpfblZKb2dGQQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 20 Sep 2026 20:32:38 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Week",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "AP Top 25 poll: Ole Miss climbs to No. 4 in Week 4 college football rankings after taking down LSU - CBS Sports",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUEFtTmkyU1NBcm9sWm5CRnFqeFJlUXprT0hSaEtTX3R4OWtEV1plaWVnVXZlaGpvWEt2MW9NOTRSVWJQcHJVMy1mRWFWdFVUQ0FYSFVNNGFZT2h3ZmpwZXBncTZ4eFFsZ3BVTnBVRzJyRmtyZHN1RjZ6Y0lrZFdHMVRhU0d4cXI0bEZ4cVUzdlRWMUMxdDNWU2FfVWtiYnQ4Q3ZmeExaTkhtTk9XZHc?oc=5",
-          "source": "Google News",
-          "published": "Sun, 20 Sep 2026 19:15:00 GMT"
-        },
-        {
-          "title": "'We are on our way to groundbreaking science': Stars turn neon-green in first test image from NASA's Roman telescope — Space photo of the week - Live Science",
-          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPVzM0Q0FMeElhZ0d0Vm92cEkzUm9EeWFiUzBsYUdfZmJndVhwQnBPamNoV3N3VXRXYjd2NlcwcXI1WGR6Y3Z6V3NnWTE1UUJRR3QtRy1zb0xWRjcyWUgzRHlNaTM4ak5vRmtEdlU4NVVMNndNN2FkNDFTMmpwQzhBd09ZLTQ3SnNJbFdZNDhLcHYtVzJYYlBqblRCYktMNHhtZzhFZHAyU1BZS1FtYUtYeU5XbElmcXVaQlREVGwwY1duYXo1M1NkWDctaWx6OXQ4N2pSQldQYWFHNk9LdXd6Q1duSEw0ak1wZkoyWXJSMXNGS005WlE4ZnhCZVlSVm91REVUTW5mY1R6Z2Yz?oc=5",
-          "source": "Google News",
-          "published": "Sun, 20 Sep 2026 10:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Tons",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Russian Progress spacecraft delivers 3 tons of cargo to the ISS (video) - space.com",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMkthZGxKVy1ZemdSSFJpY0l6V2p6bU5UZVk1c2xMU2ZHRzItRVB6ZDdMQkFuSlRGanFVdkJjQl9JQm5OVG1fZHEwSm1VYWUwTVV5VTFhUXd6d1BqVU9MQ3ptUGVXdlhPUDMwdEtiVVRYeklweGViVjJNNVRBOVNXeHF0ODhIbXJrWC1sb3dXUnpfc29jckZfRHBuMzZEVXczTWJuRGdTTnA4WHlsTWtQVjBxQ0FwZw?oc=5",
-          "source": "Google News",
-          "published": "Sat, 19 Sep 2026 15:00:09 GMT"
-        },
-        {
-          "title": "Satellites show Earth lost more than 12 trillion tons of ice from Greenland, Antarctica in 47 years - KSL News",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUnlVeHVkUkVMeTRSd3ZNeFRtUElaZnlXRlF0NFpXYVNRRE5fdm9WWVhUV3ltTFE1djM1bDhzb3A1cUh2cFpsWDBwX2xpbFdZVUJBRmg2bm9CLS02Ti0xWDhmdmR2VFp6YUhnVHRBd3EyRU9PcjFqUnptZl9raFpES19rWjBSUFctQUpDVzJvVlhZdHB4R0YwQU0tM002VnBVMk1tcmdqUXVnQzAzVU1seHVJLUJuUUpVMjJKSGxteVhaQ0NBVGp4MGZOdjdlcHNt?oc=5",
-          "source": "Google News",
-          "published": "Sun, 20 Sep 2026 19:04:18 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Roman",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "'We are on our way to groundbreaking science': Stars turn neon-green in first test image from NASA's Roman telescope — Space photo of the week - Live Science",
-          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPVzM0Q0FMeElhZ0d0Vm92cEkzUm9EeWFiUzBsYUdfZmJndVhwQnBPamNoV3N3VXRXYjd2NlcwcXI1WGR6Y3Z6V3NnWTE1UUJRR3QtRy1zb0xWRjcyWUgzRHlNaTM4ak5vRmtEdlU4NVVMNndNN2FkNDFTMmpwQzhBd09ZLTQ3SnNJbFdZNDhLcHYtVzJYYlBqblRCYktMNHhtZzhFZHAyU1BZS1FtYUtYeU5XbElmcXVaQlREVGwwY1duYXo1M1NkWDctaWx6OXQ4N2pSQldQYWFHNk9LdXd6Q1duSEw0ak1wZkoyWXJSMXNGS005WlE4ZnhCZVlSVm91REVUTW5mY1R6Z2Yz?oc=5",
-          "source": "Google News",
-          "published": "Sun, 20 Sep 2026 10:00:00 GMT"
-        },
-        {
-          "title": "Scientists Discover New Crater on the Moon, Bigger Than the Roman Colosseum, That Was Created in a ‘Once-in-a-Lifetime’ Impact - Yahoo",
+          "title": "Scientists Discover New Crater on the Moon, Bigger Than the Roman Colosseum, That Was Created in a ‘Once-in-a-Lifetime’ Impact - yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM0hBdzduQzV2MFo3NElyM2ZHd21uVnR5QVdGVW1ocWJReWY2SjFCM003cG5lY1BuSzZ5RnNQcHA1Sl92Smh0aFdoQmZGcGp4R2JXS2FlY3VUWUR2LUpCaFBDR09NcjVEUjl4X1hrcWVQUnhkclRRU0FBTTRXdlFIMmt0em95bkc4c09yYmtEY2VoR2ZzcHRJX0xVaHdhQQ?oc=5",
           "source": "Google News",
           "published": "Sat, 19 Sep 2026 15:30:00 GMT"
@@ -319,53 +376,119 @@
       ]
     },
     {
-      "word": "Scientists",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Scientists Discover New Crater on the Moon, Bigger Than the Roman Colosseum, That Was Created in a ‘Once-in-a-Lifetime’ Impact - Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM0hBdzduQzV2MFo3NElyM2ZHd21uVnR5QVdGVW1ocWJReWY2SjFCM003cG5lY1BuSzZ5RnNQcHA1Sl92Smh0aFdoQmZGcGp4R2JXS2FlY3VUWUR2LUpCaFBDR09NcjVEUjl4X1hrcWVQUnhkclRRU0FBTTRXdlFIMmt0em95bkc4c09yYmtEY2VoR2ZzcHRJX0xVaHdhQQ?oc=5",
-          "source": "Google News",
-          "published": "Sat, 19 Sep 2026 15:30:00 GMT"
-        },
-        {
-          "title": "Scientists Unleash Franken-Mice With Brains That Are Nearly Half Human - Futurism",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYndlWjYtQUxuNUJPelJMY0lqa0kyb093bERkaUo3a3hyWkFKNzk2ODR1a2hfeG13VDlaQTZ1NU5HWmYzZkFJR1E2dHByY3JPY01IYTBCRUd2TERqNExDNFY1dGpEZlZqOEhJcTk5UlVmbHlrRGJhZDBOajhxcXFRazVVM2NvVHdDUFl5eHhEX0VZYnd0TkE?oc=5",
-          "source": "Google News",
-          "published": "Sun, 20 Sep 2026 11:02:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Measles",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Pa. Measles Outbreak Met With Both Defiance and a Rush to Vaccinate - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zWFQ2Ym1idE1DeUdJR3g4b3dJVzlWUG1kTTJCb1pEOGpPRXRBT1NvQXJXYUQ4ajk2c0QyX3VzOFpMQWxYcERMbWhUeDNOdmRab09WeUVqUGJaVnJLcjRrUlNUTnVfN0JwcHJkUkNrOEw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 20 Sep 2026 09:03:12 GMT"
-        },
-        {
-          "title": "There was a possible measles exposure at Philadelphia International Airport - Inquirer.com",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYVJxaWx3clRTZk5sdWRzOFM3ZlVaX1Q5WXBhZFJva0xpX3d0dDM3OEJvblNDWHR0eFpWNE5lVGNDMjdHVDZfNlk4bDR2eXVpNlVFenhaWnJieDVYOE1XWmV2dzdHcDFRYTlIUmZrak5RckJXRURTMXlmQUt3Y0hja2JDQm95M2pVTW1lQkszV2hKc05WdEN3cWxpakVQZGpWZWxxOUFlR3JKVE9Rb1pBbnBXSkRmMG14cjh0R2hR?oc=5",
-          "source": "Google News",
-          "published": "Sun, 20 Sep 2026 00:22:59 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Agent",
+      "word": "Patrick",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Federal immigration agent shoots and injures man in Austin, Texas - NPR",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TOXNKd1NTc1ZGLXNJX1gySDVLTERVSW9EbXhvdktpTHNFT3lETkR3MlFLTnJzTEZSWW9sY2IyOUNyNVh2azUwYWdJaVdYN19pQVFPNkI3YTVSY3VTTWUxck8xZ3RKb2wwdzZUNldRb3hvelBTQXZPTnJB?oc=5",
+          "title": "Patrick Clancy talks about grief, forgiveness and the future with ‘60 Minutes’ after Lindsay Clancy mistrial - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMVdncHA5WklIMXFuRUdHYWhRU2huLXFVdlNEQkZSdkxIWlhKSmhLSks0Y3V2dVhOM2xMaFRFNlBLWVhuMnAySGdMZ3lwUWp0MnlJWkRHai1UeElLYlNhQlFWQnFrV2lBbUZZUVhBXzNrUzdOQnRiREhGMkxrTzBLekhmNlhpMzFkMDBvZ0NfeTNLSEV5TmdMckJyLVQyTlpDUXFLcEJ2dFFmcEhKeENYMGEwVQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 20 Sep 2026 21:53:00 GMT"
+          "published": "Mon, 21 Sep 2026 01:47:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Grief",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Patrick Clancy talks about grief, forgiveness and the future with ‘60 Minutes’ after Lindsay Clancy mistrial - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMVdncHA5WklIMXFuRUdHYWhRU2huLXFVdlNEQkZSdkxIWlhKSmhLSks0Y3V2dVhOM2xMaFRFNlBLWVhuMnAySGdMZ3lwUWp0MnlJWkRHai1UeElLYlNhQlFWQnFrV2lBbUZZUVhBXzNrUzdOQnRiREhGMkxrTzBLekhmNlhpMzFkMDBvZ0NfeTNLSEV5TmdMckJyLVQyTlpDUXFLcEJ2dFFmcEhKeENYMGEwVQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 21 Sep 2026 01:47:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Forgiveness",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Patrick Clancy talks about grief, forgiveness and the future with ‘60 Minutes’ after Lindsay Clancy mistrial - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMVdncHA5WklIMXFuRUdHYWhRU2huLXFVdlNEQkZSdkxIWlhKSmhLSks0Y3V2dVhOM2xMaFRFNlBLWVhuMnAySGdMZ3lwUWp0MnlJWkRHai1UeElLYlNhQlFWQnFrV2lBbUZZUVhBXzNrUzdOQnRiREhGMkxrTzBLekhmNlhpMzFkMDBvZ0NfeTNLSEV5TmdMckJyLVQyTlpDUXFLcEJ2dFFmcEhKeENYMGEwVQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 21 Sep 2026 01:47:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Future",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Patrick Clancy talks about grief, forgiveness and the future with ‘60 Minutes’ after Lindsay Clancy mistrial - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMVdncHA5WklIMXFuRUdHYWhRU2huLXFVdlNEQkZSdkxIWlhKSmhLSks0Y3V2dVhOM2xMaFRFNlBLWVhuMnAySGdMZ3lwUWp0MnlJWkRHai1UeElLYlNhQlFWQnFrV2lBbUZZUVhBXzNrUzdOQnRiREhGMkxrTzBLekhmNlhpMzFkMDBvZ0NfeTNLSEV5TmdMckJyLVQyTlpDUXFLcEJ2dFFmcEhKeENYMGEwVQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 21 Sep 2026 01:47:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Minutes",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Patrick Clancy talks about grief, forgiveness and the future with ‘60 Minutes’ after Lindsay Clancy mistrial - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMVdncHA5WklIMXFuRUdHYWhRU2huLXFVdlNEQkZSdkxIWlhKSmhLSks0Y3V2dVhOM2xMaFRFNlBLWVhuMnAySGdMZ3lwUWp0MnlJWkRHai1UeElLYlNhQlFWQnFrV2lBbUZZUVhBXzNrUzdOQnRiREhGMkxrTzBLekhmNlhpMzFkMDBvZ0NfeTNLSEV5TmdMckJyLVQyTlpDUXFLcEJ2dFFmcEhKeENYMGEwVQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 21 Sep 2026 01:47:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Lindsay",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Patrick Clancy talks about grief, forgiveness and the future with ‘60 Minutes’ after Lindsay Clancy mistrial - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMVdncHA5WklIMXFuRUdHYWhRU2huLXFVdlNEQkZSdkxIWlhKSmhLSks0Y3V2dVhOM2xMaFRFNlBLWVhuMnAySGdMZ3lwUWp0MnlJWkRHai1UeElLYlNhQlFWQnFrV2lBbUZZUVhBXzNrUzdOQnRiREhGMkxrTzBLekhmNlhpMzFkMDBvZ0NfeTNLSEV5TmdMckJyLVQyTlpDUXFLcEJ2dFFmcEhKeENYMGEwVQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 21 Sep 2026 01:47:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Mistrial",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Patrick Clancy talks about grief, forgiveness and the future with ‘60 Minutes’ after Lindsay Clancy mistrial - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMVdncHA5WklIMXFuRUdHYWhRU2huLXFVdlNEQkZSdkxIWlhKSmhLSks0Y3V2dVhOM2xMaFRFNlBLWVhuMnAySGdMZ3lwUWp0MnlJWkRHai1UeElLYlNhQlFWQnFrV2lBbUZZUVhBXzNrUzdOQnRiREhGMkxrTzBLekhmNlhpMzFkMDBvZ0NfeTNLSEV5TmdMckJyLVQyTlpDUXFLcEJ2dFFmcEhKeENYMGEwVQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 21 Sep 2026 01:47:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "ICE",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "ICE officer shoots and wounds man in Austin, Texas, officials say - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSzhfRUVJQlNGbEtRdFNZa25BSzVGbXVrSnV6aTI2VEZ3aEJLWDNESzRBMXRJNTVhSkhLbnlPS2xhSm9IdlZJVEhuYUZhQ3M5N21YbU0weGdjakpBaVoxMGtpODlMSWJfMGcteDJ2czNzZlBrR2xYTktuS2RWeDRKclJFUXBNQmdmWm1JdmVvX0RaTU1MV2FSeUNfaE5zbUpacTJKTkQtNNIBrAFBVV95cUxOMVc4d1Q1QkZBenlrUjM0NU9TeVk1aHlObnBpQndRTzRkdmZ6eWFsSWNobTY5dWtFeFBOSlp3aW9pMlNpM0pFQ0VHQ0pDU3VOanoyUldpdDRxNmphM0JtMEhuRlh5Ni1tQ21XcFNxTnotVXJtVU9QYWJxQ0ZOTnI1UXkzZnd0T2VEdTlrWi1MVGRRTDRvOGlOTkZjTXVRT01rNDZWZndtbVhCaDB4?oc=5",
+          "source": "Google News",
+          "published": "Mon, 21 Sep 2026 02:42:39 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Officer",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "ICE officer shoots and wounds man in Austin, Texas, officials say - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSzhfRUVJQlNGbEtRdFNZa25BSzVGbXVrSnV6aTI2VEZ3aEJLWDNESzRBMXRJNTVhSkhLbnlPS2xhSm9IdlZJVEhuYUZhQ3M5N21YbU0weGdjakpBaVoxMGtpODlMSWJfMGcteDJ2czNzZlBrR2xYTktuS2RWeDRKclJFUXBNQmdmWm1JdmVvX0RaTU1MV2FSeUNfaE5zbUpacTJKTkQtNNIBrAFBVV95cUxOMVc4d1Q1QkZBenlrUjM0NU9TeVk1aHlObnBpQndRTzRkdmZ6eWFsSWNobTY5dWtFeFBOSlp3aW9pMlNpM0pFQ0VHQ0pDU3VOanoyUldpdDRxNmphM0JtMEhuRlh5Ni1tQ21XcFNxTnotVXJtVU9QYWJxQ0ZOTnI1UXkzZnd0T2VEdTlrWi1MVGRRTDRvOGlOTkZjTXVRT01rNDZWZndtbVhCaDB4?oc=5",
+          "source": "Google News",
+          "published": "Mon, 21 Sep 2026 02:42:39 GMT"
         }
       ]
     },
@@ -375,36 +498,23 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Federal immigration agent shoots and injures man in Austin, Texas - NPR",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TOXNKd1NTc1ZGLXNJX1gySDVLTERVSW9EbXhvdktpTHNFT3lETkR3MlFLTnJzTEZSWW9sY2IyOUNyNVh2azUwYWdJaVdYN19pQVFPNkI3YTVSY3VTTWUxck8xZ3RKb2wwdzZUNldRb3hvelBTQXZPTnJB?oc=5",
+          "title": "ICE officer shoots and wounds man in Austin, Texas, officials say - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSzhfRUVJQlNGbEtRdFNZa25BSzVGbXVrSnV6aTI2VEZ3aEJLWDNESzRBMXRJNTVhSkhLbnlPS2xhSm9IdlZJVEhuYUZhQ3M5N21YbU0weGdjakpBaVoxMGtpODlMSWJfMGcteDJ2czNzZlBrR2xYTktuS2RWeDRKclJFUXBNQmdmWm1JdmVvX0RaTU1MV2FSeUNfaE5zbUpacTJKTkQtNNIBrAFBVV95cUxOMVc4d1Q1QkZBenlrUjM0NU9TeVk1aHlObnBpQndRTzRkdmZ6eWFsSWNobTY5dWtFeFBOSlp3aW9pMlNpM0pFQ0VHQ0pDU3VOanoyUldpdDRxNmphM0JtMEhuRlh5Ni1tQ21XcFNxTnotVXJtVU9QYWJxQ0ZOTnI1UXkzZnd0T2VEdTlrWi1MVGRRTDRvOGlOTkZjTXVRT01rNDZWZndtbVhCaDB4?oc=5",
           "source": "Google News",
-          "published": "Sun, 20 Sep 2026 21:53:00 GMT"
+          "published": "Mon, 21 Sep 2026 02:42:39 GMT"
         }
       ]
     },
     {
-      "word": "Injures",
+      "word": "Wounds",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Federal immigration agent shoots and injures man in Austin, Texas - NPR",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TOXNKd1NTc1ZGLXNJX1gySDVLTERVSW9EbXhvdktpTHNFT3lETkR3MlFLTnJzTEZSWW9sY2IyOUNyNVh2azUwYWdJaVdYN19pQVFPNkI3YTVSY3VTTWUxck8xZ3RKb2wwdzZUNldRb3hvelBTQXZPTnJB?oc=5",
+          "title": "ICE officer shoots and wounds man in Austin, Texas, officials say - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSzhfRUVJQlNGbEtRdFNZa25BSzVGbXVrSnV6aTI2VEZ3aEJLWDNESzRBMXRJNTVhSkhLbnlPS2xhSm9IdlZJVEhuYUZhQ3M5N21YbU0weGdjakpBaVoxMGtpODlMSWJfMGcteDJ2czNzZlBrR2xYTktuS2RWeDRKclJFUXBNQmdmWm1JdmVvX0RaTU1MV2FSeUNfaE5zbUpacTJKTkQtNNIBrAFBVV95cUxOMVc4d1Q1QkZBenlrUjM0NU9TeVk1aHlObnBpQndRTzRkdmZ6eWFsSWNobTY5dWtFeFBOSlp3aW9pMlNpM0pFQ0VHQ0pDU3VOanoyUldpdDRxNmphM0JtMEhuRlh5Ni1tQ21XcFNxTnotVXJtVU9QYWJxQ0ZOTnI1UXkzZnd0T2VEdTlrWi1MVGRRTDRvOGlOTkZjTXVRT01rNDZWZndtbVhCaDB4?oc=5",
           "source": "Google News",
-          "published": "Sun, 20 Sep 2026 21:53:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "man",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Federal immigration agent shoots and injures man in Austin, Texas - NPR",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TOXNKd1NTc1ZGLXNJX1gySDVLTERVSW9EbXhvdktpTHNFT3lETkR3MlFLTnJzTEZSWW9sY2IyOUNyNVh2azUwYWdJaVdYN19pQVFPNkI3YTVSY3VTTWUxck8xZ3RKb2wwdzZUNldRb3hvelBTQXZPTnJB?oc=5",
-          "source": "Google News",
-          "published": "Sun, 20 Sep 2026 21:53:00 GMT"
+          "published": "Mon, 21 Sep 2026 02:42:39 GMT"
         }
       ]
     },
@@ -414,10 +524,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Federal immigration agent shoots and injures man in Austin, Texas - NPR",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TOXNKd1NTc1ZGLXNJX1gySDVLTERVSW9EbXhvdktpTHNFT3lETkR3MlFLTnJzTEZSWW9sY2IyOUNyNVh2azUwYWdJaVdYN19pQVFPNkI3YTVSY3VTTWUxck8xZ3RKb2wwdzZUNldRb3hvelBTQXZPTnJB?oc=5",
+          "title": "ICE officer shoots and wounds man in Austin, Texas, officials say - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSzhfRUVJQlNGbEtRdFNZa25BSzVGbXVrSnV6aTI2VEZ3aEJLWDNESzRBMXRJNTVhSkhLbnlPS2xhSm9IdlZJVEhuYUZhQ3M5N21YbU0weGdjakpBaVoxMGtpODlMSWJfMGcteDJ2czNzZlBrR2xYTktuS2RWeDRKclJFUXBNQmdmWm1JdmVvX0RaTU1MV2FSeUNfaE5zbUpacTJKTkQtNNIBrAFBVV95cUxOMVc4d1Q1QkZBenlrUjM0NU9TeVk1aHlObnBpQndRTzRkdmZ6eWFsSWNobTY5dWtFeFBOSlp3aW9pMlNpM0pFQ0VHQ0pDU3VOanoyUldpdDRxNmphM0JtMEhuRlh5Ni1tQ21XcFNxTnotVXJtVU9QYWJxQ0ZOTnI1UXkzZnd0T2VEdTlrWi1MVGRRTDRvOGlOTkZjTXVRT01rNDZWZndtbVhCaDB4?oc=5",
           "source": "Google News",
-          "published": "Sun, 20 Sep 2026 21:53:00 GMT"
+          "published": "Mon, 21 Sep 2026 02:42:39 GMT"
         }
       ]
     },
@@ -427,218 +537,49 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Federal immigration agent shoots and injures man in Austin, Texas - NPR",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TOXNKd1NTc1ZGLXNJX1gySDVLTERVSW9EbXhvdktpTHNFT3lETkR3MlFLTnJzTEZSWW9sY2IyOUNyNVh2azUwYWdJaVdYN19pQVFPNkI3YTVSY3VTTWUxck8xZ3RKb2wwdzZUNldRb3hvelBTQXZPTnJB?oc=5",
+          "title": "ICE officer shoots and wounds man in Austin, Texas, officials say - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSzhfRUVJQlNGbEtRdFNZa25BSzVGbXVrSnV6aTI2VEZ3aEJLWDNESzRBMXRJNTVhSkhLbnlPS2xhSm9IdlZJVEhuYUZhQ3M5N21YbU0weGdjakpBaVoxMGtpODlMSWJfMGcteDJ2czNzZlBrR2xYTktuS2RWeDRKclJFUXBNQmdmWm1JdmVvX0RaTU1MV2FSeUNfaE5zbUpacTJKTkQtNNIBrAFBVV95cUxOMVc4d1Q1QkZBenlrUjM0NU9TeVk1aHlObnBpQndRTzRkdmZ6eWFsSWNobTY5dWtFeFBOSlp3aW9pMlNpM0pFQ0VHQ0pDU3VOanoyUldpdDRxNmphM0JtMEhuRlh5Ni1tQ21XcFNxTnotVXJtVU9QYWJxQ0ZOTnI1UXkzZnd0T2VEdTlrWi1MVGRRTDRvOGlOTkZjTXVRT01rNDZWZndtbVhCaDB4?oc=5",
           "source": "Google News",
-          "published": "Sun, 20 Sep 2026 21:53:00 GMT"
+          "published": "Mon, 21 Sep 2026 02:42:39 GMT"
         }
       ]
     },
     {
-      "word": "Planned",
+      "word": "Officials",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump says his planned arch would become a 'military complex' able to host drones and snipers - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOakc1V2NPUmNYZkVvZ05DR3ZLWk1jeWczejNDRnhsMTl4bkZlUnNiUWx6VTZhcnhFS3BLQV9CNnRJSi1Cb2Y4Q1lwbDYyMkN0MnRSWV94cll0eGNXbkhxaWJfOXVBMjFjc2ozSGtSa0dlM3NlVHdQbENBUExJUFRBZUY2X0UxRGNFTlROWGI4dG95ODdTcUdzYm1CaFFGUG9SZmRlLUgxaw?oc=5",
+          "title": "ICE officer shoots and wounds man in Austin, Texas, officials say - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSzhfRUVJQlNGbEtRdFNZa25BSzVGbXVrSnV6aTI2VEZ3aEJLWDNESzRBMXRJNTVhSkhLbnlPS2xhSm9IdlZJVEhuYUZhQ3M5N21YbU0weGdjakpBaVoxMGtpODlMSWJfMGcteDJ2czNzZlBrR2xYTktuS2RWeDRKclJFUXBNQmdmWm1JdmVvX0RaTU1MV2FSeUNfaE5zbUpacTJKTkQtNNIBrAFBVV95cUxOMVc4d1Q1QkZBenlrUjM0NU9TeVk1aHlObnBpQndRTzRkdmZ6eWFsSWNobTY5dWtFeFBOSlp3aW9pMlNpM0pFQ0VHQ0pDU3VOanoyUldpdDRxNmphM0JtMEhuRlh5Ni1tQ21XcFNxTnotVXJtVU9QYWJxQ0ZOTnI1UXkzZnd0T2VEdTlrWi1MVGRRTDRvOGlOTkZjTXVRT01rNDZWZndtbVhCaDB4?oc=5",
           "source": "Google News",
-          "published": "Sun, 20 Sep 2026 20:03:00 GMT"
+          "published": "Mon, 21 Sep 2026 02:42:39 GMT"
         }
       ]
     },
     {
-      "word": "Arch",
+      "word": "German",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump says his planned arch would become a 'military complex' able to host drones and snipers - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOakc1V2NPUmNYZkVvZ05DR3ZLWk1jeWczejNDRnhsMTl4bkZlUnNiUWx6VTZhcnhFS3BLQV9CNnRJSi1Cb2Y4Q1lwbDYyMkN0MnRSWV94cll0eGNXbkhxaWJfOXVBMjFjc2ozSGtSa0dlM3NlVHdQbENBUExJUFRBZUY2X0UxRGNFTlROWGI4dG95ODdTcUdzYm1CaFFGUG9SZmRlLUgxaw?oc=5",
+          "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1od3dPRXB2cGIyd3kwXzQ5UVpWUGIwbmZ2cjNCUWFBTGc1M1VJcS1SVFJCMkZGYkhTSEZlRWNtUC1GR1pWRXhHRTYtRGdTWDR6clpwblkxa04weGM?oc=5",
           "source": "Google News",
-          "published": "Sun, 20 Sep 2026 20:03:00 GMT"
+          "published": "Mon, 21 Sep 2026 03:22:44 GMT"
         }
       ]
     },
     {
-      "word": "Become",
+      "word": "Chancellor",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump says his planned arch would become a 'military complex' able to host drones and snipers - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOakc1V2NPUmNYZkVvZ05DR3ZLWk1jeWczejNDRnhsMTl4bkZlUnNiUWx6VTZhcnhFS3BLQV9CNnRJSi1Cb2Y4Q1lwbDYyMkN0MnRSWV94cll0eGNXbkhxaWJfOXVBMjFjc2ozSGtSa0dlM3NlVHdQbENBUExJUFRBZUY2X0UxRGNFTlROWGI4dG95ODdTcUdzYm1CaFFGUG9SZmRlLUgxaw?oc=5",
+          "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1od3dPRXB2cGIyd3kwXzQ5UVpWUGIwbmZ2cjNCUWFBTGc1M1VJcS1SVFJCMkZGYkhTSEZlRWNtUC1GR1pWRXhHRTYtRGdTWDR6clpwblkxa04weGM?oc=5",
           "source": "Google News",
-          "published": "Sun, 20 Sep 2026 20:03:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Military",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump says his planned arch would become a 'military complex' able to host drones and snipers - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOakc1V2NPUmNYZkVvZ05DR3ZLWk1jeWczejNDRnhsMTl4bkZlUnNiUWx6VTZhcnhFS3BLQV9CNnRJSi1Cb2Y4Q1lwbDYyMkN0MnRSWV94cll0eGNXbkhxaWJfOXVBMjFjc2ozSGtSa0dlM3NlVHdQbENBUExJUFRBZUY2X0UxRGNFTlROWGI4dG95ODdTcUdzYm1CaFFGUG9SZmRlLUgxaw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 20 Sep 2026 20:03:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Complex",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump says his planned arch would become a 'military complex' able to host drones and snipers - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOakc1V2NPUmNYZkVvZ05DR3ZLWk1jeWczejNDRnhsMTl4bkZlUnNiUWx6VTZhcnhFS3BLQV9CNnRJSi1Cb2Y4Q1lwbDYyMkN0MnRSWV94cll0eGNXbkhxaWJfOXVBMjFjc2ozSGtSa0dlM3NlVHdQbENBUExJUFRBZUY2X0UxRGNFTlROWGI4dG95ODdTcUdzYm1CaFFGUG9SZmRlLUgxaw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 20 Sep 2026 20:03:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Able",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump says his planned arch would become a 'military complex' able to host drones and snipers - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOakc1V2NPUmNYZkVvZ05DR3ZLWk1jeWczejNDRnhsMTl4bkZlUnNiUWx6VTZhcnhFS3BLQV9CNnRJSi1Cb2Y4Q1lwbDYyMkN0MnRSWV94cll0eGNXbkhxaWJfOXVBMjFjc2ozSGtSa0dlM3NlVHdQbENBUExJUFRBZUY2X0UxRGNFTlROWGI4dG95ODdTcUdzYm1CaFFGUG9SZmRlLUgxaw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 20 Sep 2026 20:03:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Host",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump says his planned arch would become a 'military complex' able to host drones and snipers - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOakc1V2NPUmNYZkVvZ05DR3ZLWk1jeWczejNDRnhsMTl4bkZlUnNiUWx6VTZhcnhFS3BLQV9CNnRJSi1Cb2Y4Q1lwbDYyMkN0MnRSWV94cll0eGNXbkhxaWJfOXVBMjFjc2ozSGtSa0dlM3NlVHdQbENBUExJUFRBZUY2X0UxRGNFTlROWGI4dG95ODdTcUdzYm1CaFFGUG9SZmRlLUgxaw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 20 Sep 2026 20:03:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Snipers",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump says his planned arch would become a 'military complex' able to host drones and snipers - AP News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOakc1V2NPUmNYZkVvZ05DR3ZLWk1jeWczejNDRnhsMTl4bkZlUnNiUWx6VTZhcnhFS3BLQV9CNnRJSi1Cb2Y4Q1lwbDYyMkN0MnRSWV94cll0eGNXbkhxaWJfOXVBMjFjc2ozSGtSa0dlM3NlVHdQbENBUExJUFRBZUY2X0UxRGNFTlROWGI4dG95ODdTcUdzYm1CaFFGUG9SZmRlLUgxaw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 20 Sep 2026 20:03:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Sen",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Sen. John Barrasso says Trump isn’t violating the Constitution by banning reporters from the White House - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdFhKdXpiNHg5eXZreWczMGFjMlZ5NHV5cWVBa0FsSDFmNTJ1Vnh0c3FmdlZHYl9kZDhsTU4wa1dBUzQtVG9yOXNoTjRPQVlLZG1oUWRfYlB6d3RDZ2xmNzdmOGlkOVd5ejhmWXBTWlpBeEVuNFZ0R200SVhjbVBOQnJiX0pVRGFiN2JUSDI2Y1lpdmJMTnU4c0pseWNnekU0SDZ3Z0hCV05VU3lMa1JsaXNWV2FGSUdIOTk4OXplNHVaeVdt?oc=5",
-          "source": "Google News",
-          "published": "Sun, 20 Sep 2026 14:52:46 GMT"
-        }
-      ]
-    },
-    {
-      "word": "John",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Sen. John Barrasso says Trump isn’t violating the Constitution by banning reporters from the White House - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdFhKdXpiNHg5eXZreWczMGFjMlZ5NHV5cWVBa0FsSDFmNTJ1Vnh0c3FmdlZHYl9kZDhsTU4wa1dBUzQtVG9yOXNoTjRPQVlLZG1oUWRfYlB6d3RDZ2xmNzdmOGlkOVd5ejhmWXBTWlpBeEVuNFZ0R200SVhjbVBOQnJiX0pVRGFiN2JUSDI2Y1lpdmJMTnU4c0pseWNnekU0SDZ3Z0hCV05VU3lMa1JsaXNWV2FGSUdIOTk4OXplNHVaeVdt?oc=5",
-          "source": "Google News",
-          "published": "Sun, 20 Sep 2026 14:52:46 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Barrasso",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Sen. John Barrasso says Trump isn’t violating the Constitution by banning reporters from the White House - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdFhKdXpiNHg5eXZreWczMGFjMlZ5NHV5cWVBa0FsSDFmNTJ1Vnh0c3FmdlZHYl9kZDhsTU4wa1dBUzQtVG9yOXNoTjRPQVlLZG1oUWRfYlB6d3RDZ2xmNzdmOGlkOVd5ejhmWXBTWlpBeEVuNFZ0R200SVhjbVBOQnJiX0pVRGFiN2JUSDI2Y1lpdmJMTnU4c0pseWNnekU0SDZ3Z0hCV05VU3lMa1JsaXNWV2FGSUdIOTk4OXplNHVaeVdt?oc=5",
-          "source": "Google News",
-          "published": "Sun, 20 Sep 2026 14:52:46 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Violating",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Sen. John Barrasso says Trump isn’t violating the Constitution by banning reporters from the White House - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdFhKdXpiNHg5eXZreWczMGFjMlZ5NHV5cWVBa0FsSDFmNTJ1Vnh0c3FmdlZHYl9kZDhsTU4wa1dBUzQtVG9yOXNoTjRPQVlLZG1oUWRfYlB6d3RDZ2xmNzdmOGlkOVd5ejhmWXBTWlpBeEVuNFZ0R200SVhjbVBOQnJiX0pVRGFiN2JUSDI2Y1lpdmJMTnU4c0pseWNnekU0SDZ3Z0hCV05VU3lMa1JsaXNWV2FGSUdIOTk4OXplNHVaeVdt?oc=5",
-          "source": "Google News",
-          "published": "Sun, 20 Sep 2026 14:52:46 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Constitution",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Sen. John Barrasso says Trump isn’t violating the Constitution by banning reporters from the White House - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdFhKdXpiNHg5eXZreWczMGFjMlZ5NHV5cWVBa0FsSDFmNTJ1Vnh0c3FmdlZHYl9kZDhsTU4wa1dBUzQtVG9yOXNoTjRPQVlLZG1oUWRfYlB6d3RDZ2xmNzdmOGlkOVd5ejhmWXBTWlpBeEVuNFZ0R200SVhjbVBOQnJiX0pVRGFiN2JUSDI2Y1lpdmJMTnU4c0pseWNnekU0SDZ3Z0hCV05VU3lMa1JsaXNWV2FGSUdIOTk4OXplNHVaeVdt?oc=5",
-          "source": "Google News",
-          "published": "Sun, 20 Sep 2026 14:52:46 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Banning",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Sen. John Barrasso says Trump isn’t violating the Constitution by banning reporters from the White House - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdFhKdXpiNHg5eXZreWczMGFjMlZ5NHV5cWVBa0FsSDFmNTJ1Vnh0c3FmdlZHYl9kZDhsTU4wa1dBUzQtVG9yOXNoTjRPQVlLZG1oUWRfYlB6d3RDZ2xmNzdmOGlkOVd5ejhmWXBTWlpBeEVuNFZ0R200SVhjbVBOQnJiX0pVRGFiN2JUSDI2Y1lpdmJMTnU4c0pseWNnekU0SDZ3Z0hCV05VU3lMa1JsaXNWV2FGSUdIOTk4OXplNHVaeVdt?oc=5",
-          "source": "Google News",
-          "published": "Sun, 20 Sep 2026 14:52:46 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Reporters",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Sen. John Barrasso says Trump isn’t violating the Constitution by banning reporters from the White House - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdFhKdXpiNHg5eXZreWczMGFjMlZ5NHV5cWVBa0FsSDFmNTJ1Vnh0c3FmdlZHYl9kZDhsTU4wa1dBUzQtVG9yOXNoTjRPQVlLZG1oUWRfYlB6d3RDZ2xmNzdmOGlkOVd5ejhmWXBTWlpBeEVuNFZ0R200SVhjbVBOQnJiX0pVRGFiN2JUSDI2Y1lpdmJMTnU4c0pseWNnekU0SDZ3Z0hCV05VU3lMa1JsaXNWV2FGSUdIOTk4OXplNHVaeVdt?oc=5",
-          "source": "Google News",
-          "published": "Sun, 20 Sep 2026 14:52:46 GMT"
-        }
-      ]
-    },
-    {
-      "word": "White",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Sen. John Barrasso says Trump isn’t violating the Constitution by banning reporters from the White House - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdFhKdXpiNHg5eXZreWczMGFjMlZ5NHV5cWVBa0FsSDFmNTJ1Vnh0c3FmdlZHYl9kZDhsTU4wa1dBUzQtVG9yOXNoTjRPQVlLZG1oUWRfYlB6d3RDZ2xmNzdmOGlkOVd5ejhmWXBTWlpBeEVuNFZ0R200SVhjbVBOQnJiX0pVRGFiN2JUSDI2Y1lpdmJMTnU4c0pseWNnekU0SDZ3Z0hCV05VU3lMa1JsaXNWV2FGSUdIOTk4OXplNHVaeVdt?oc=5",
-          "source": "Google News",
-          "published": "Sun, 20 Sep 2026 14:52:46 GMT"
+          "published": "Mon, 21 Sep 2026 03:22:44 GMT"
         }
       ]
     },
@@ -648,10 +589,75 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Merz vows to stay on as chancellor despite ‘disaster’ in another German regional vote - politico.eu",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTllIc0c2TVppVnhKV2YzZkZQYUVob0FVenBUYWFkTEV0TnYyUE83VDFqQ3hIbnBRSDdZYndyMkdRQnQteW5vaHdsVk9GdkRFODRRb0hjTUNJaldDWTZuaEpaRDV2WFlNdXFwYjBjVnE2Z3dYSFJwRV9STDg3elRxTmtLUXpDaXZWMmtHUldoSzQzVkVfck1XWjNkaXVsRUF2X0JFWEtVcTVnSmY5WVNJ?oc=5",
+          "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1od3dPRXB2cGIyd3kwXzQ5UVpWUGIwbmZ2cjNCUWFBTGc1M1VJcS1SVFJCMkZGYkhTSEZlRWNtUC1GR1pWRXhHRTYtRGdTWDR6clpwblkxa04weGM?oc=5",
           "source": "Google News",
-          "published": "Sun, 20 Sep 2026 17:12:00 GMT"
+          "published": "Mon, 21 Sep 2026 03:22:44 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Calls",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1od3dPRXB2cGIyd3kwXzQ5UVpWUGIwbmZ2cjNCUWFBTGc1M1VJcS1SVFJCMkZGYkhTSEZlRWNtUC1GR1pWRXhHRTYtRGdTWDR6clpwblkxa04weGM?oc=5",
+          "source": "Google News",
+          "published": "Mon, 21 Sep 2026 03:22:44 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Disaster",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1od3dPRXB2cGIyd3kwXzQ5UVpWUGIwbmZ2cjNCUWFBTGc1M1VJcS1SVFJCMkZGYkhTSEZlRWNtUC1GR1pWRXhHRTYtRGdTWDR6clpwblkxa04weGM?oc=5",
+          "source": "Google News",
+          "published": "Mon, 21 Sep 2026 03:22:44 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Vows",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1od3dPRXB2cGIyd3kwXzQ5UVpWUGIwbmZ2cjNCUWFBTGc1M1VJcS1SVFJCMkZGYkhTSEZlRWNtUC1GR1pWRXhHRTYtRGdTWDR6clpwblkxa04weGM?oc=5",
+          "source": "Google News",
+          "published": "Mon, 21 Sep 2026 03:22:44 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Stay",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1od3dPRXB2cGIyd3kwXzQ5UVpWUGIwbmZ2cjNCUWFBTGc1M1VJcS1SVFJCMkZGYkhTSEZlRWNtUC1GR1pWRXhHRTYtRGdTWDR6clpwblkxa04weGM?oc=5",
+          "source": "Google News",
+          "published": "Mon, 21 Sep 2026 03:22:44 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Proposes",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "US proposes AI incident alert system in talks with China, Bessent says - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTjA1TWd5LThuOFFaNWotd3FvV2FtbVRJUjZ0MHlELW1nM2lJaDRseEEyUHlIeHgtQWUySzVmRXlTM0R4aFdmTl9MQmRBaTRFY1NqTF9rTlppbnpoZmlVaEpQRWNzZ0tDWnQ4T1JiODZOUmNGMml6N3ViSVRpRTR3QkozOGp4YTloVTNUUUV1ZFBHMFFpeWc?oc=5",
+          "source": "Google News",
+          "published": "Mon, 21 Sep 2026 03:41:00 GMT"
         }
       ]
     }
