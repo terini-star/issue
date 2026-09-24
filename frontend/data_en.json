@@ -1,162 +1,49 @@
 {
   "language": "en",
-  "last_updated": 1790243425.969182,
+  "last_updated": 1790261429.9494898,
   "count": 40,
   "trends": [
     {
       "word": "Trump",
-      "count": 6,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Judge blocks Trump's White House media ban, orders access to be restored - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2V0SEZGX1dfSmIwdGdRLU4zTlFsdVlDa3dXeS1EVnczQV9yUzJIXzN3NVhvR2gzcVBMTFBkY0g2Qk1xWGladm51WVQ1ZkN6Q19MTDAySThlMjhYSzNKaFJYeXFaUnpZNUZ3SkRBcTRVaGFORElVUkdHZG16UXQxcUVuTjROUFFycnNuQi11VDNHdlVtcWZnNTk3bDE?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 05:07:00 GMT"
-        },
-        {
-          "title": "Trump gives Xi Jinping rare airport welcome as summit visit begins - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdHhaaUFNQmIxNFF4eFUxelRnUVFBNE5BWUlLcEx3OENoWWRaaXdfTzhHcDhqWUwyNVNNazQtMGZVVmpIYnB2UXZWVGJSNTBfVVVSeXN6TG15SUFNSU5UYlpjRV95Y1g3TkkxNjdrZ205ZXYxS0NWa1RsN2d6M2lXQ2MxeW9BalFUd1NBM0ZtLTEyYXNKNUl6TVhIdnBKR1cxemlhYlp1b1Y0eTJLT0pR?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 06:10:21 GMT"
-        },
-        {
-          "title": "Iran War Updates: Iran's president calls U.S. attacks \"cowardly\" as Trump threatens annihilation - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSWU4WXp4UDJYb25pa3BRYTNqSW1rcFhDdF9vMXdoekszMG1JbEttak9SWDhnWnotU21ucFhVYlByOGQwaFdoRE1DeU04WXVjTVN2a0dmSzJoR3VsNGozZi0zQ0tNbkdMRkVRd0Z3MzE3QnFNWkNpYTgycTBqLUJ3QUNYN1hWVFA5NGdnS2JycV9KUTE1VnBQcQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 05:17:31 GMT"
-        },
-        {
-          "title": "Judge tosses Trump's lawsuit against Des Moines Register - axios.com",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV2wxcGhfODBYUVRxeVpHbTY3TGJhS2MwcGxVaGFmZXY5bDd4V2lyTEY2LVlTcWdtZ0t5N2o4ckdmRFV6czhUZnVoT210U1Uxdkl6bTBpT21fOHlsLUl6SlhUQXBUbWlFdTNaX1Q4VEhDUjhGbjM1SDk1OVVhSVJ5ZC1n?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 04:54:57 GMT"
-        },
-        {
-          "title": "Florida governor candidate Byron Donalds stands by Trump after some mentions of the president removed from website - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeG43ejY1Q3pzRU9CZXZlaXFiMjB3ZzZoSmVMTHJFa1RrTHItYmdTNzVXSlhiUlRuNkJYX2oydVZsZG5lMG4tOHdZRnFBWEV1U19MQXItTjhQUHpTY0h0Qm1YQmhXOUxoZFY3OF85ajRQUk5MSGJ5ZUh5NDdfc1diekZFYlBWMDBDb3FVcTBVODNlZnN4cndPQzU1TktuNk1nN1doeEpwdm0ydFRp?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 03:49:00 GMT"
-        },
-        {
-          "title": "Trump, Iran talk war, peace for hours after 'annihilation' threat - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVERKV0t4aXRFTUlFMDhmWEtHVkRlcEJ1amlYd2VldndnTHdmVnUyZnFNdk03ZGZySE9MYnVZY2Q5Y0pOaEJxbXFQU1U5LUJ1bTNnNjZ4SWxJZTNFOTYwTVJ4RTBfa3lmMHNvRUhHTUYyNDg3eHFBWVluOUZxaXF1S0VKbV90SEcxSFAxemNYTExrQWRVMmxzSlhGLXo0UQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 01:33:39 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Iran",
       "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Iran War Updates: Iran's president calls U.S. attacks \"cowardly\" as Trump threatens annihilation - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSWU4WXp4UDJYb25pa3BRYTNqSW1rcFhDdF9vMXdoekszMG1JbEttak9SWDhnWnotU21ucFhVYlByOGQwaFdoRE1DeU04WXVjTVN2a0dmSzJoR3VsNGozZi0zQ0tNbkdMRkVRd0Z3MzE3QnFNWkNpYTgycTBqLUJ3QUNYN1hWVFA5NGdnS2JycV9KUTE1VnBQcQ?oc=5",
+          "title": "CNN, Politico, MS NOW journalists barred from White House after judge blocks Trump’s ban - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYWRqVjhhMVRSQWVBZ0lXOU1CY3V5bk1rQ1NiSjQ2UHptUnhfVXJLXzhqZ2RoSnNfT3dWOTROUVpsYWJMbGZURUlXOGF3czU4SUlUUXM1X1NPWjBJdTVuV09zVndLMFNPUkZwZzJjN2F4ckVHSkl3NmpmemhZbjVMdzk0NDBLUERuc0UzUXdlX0VyVl8yaFN6MUNYZC0yRlNIdDZLbm9wcHE5T2s?oc=5",
           "source": "Google News",
-          "published": "Thu, 24 Sep 2026 05:17:31 GMT"
+          "published": "Thu, 24 Sep 2026 13:40:39 GMT"
         },
         {
-          "title": "Trump, Iran talk war, peace for hours after 'annihilation' threat - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVERKV0t4aXRFTUlFMDhmWEtHVkRlcEJ1amlYd2VldndnTHdmVnUyZnFNdk03ZGZySE9MYnVZY2Q5Y0pOaEJxbXFQU1U5LUJ1bTNnNjZ4SWxJZTNFOTYwTVJ4RTBfa3lmMHNvRUhHTUYyNDg3eHFBWVluOUZxaXF1S0VKbV90SEcxSFAxemNYTExrQWRVMmxzSlhGLXo0UQ?oc=5",
+          "title": "Trump-Xi live updates: leaders of US and China to talk AI and trade in major Washington meeting - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR2J2dXpTbXlfWFcxbldGenBkTWFXU1BCWG9yamdJN2VpMEpQM0VfdTgwd0dsSXMwb1B6WlhhNnptUE1FZHFhYkdhVE9tcTBpWEhhU1J1dGc0RDhyN2hRamNLcG1fWC15NUpOZ2JlaU5XcjJZY252ck1abHk3M2htWmR4bjE0T1BUWkhaeDh3NmtIaDlkNWpsN21TS1FvenlIVGoyaUdwMTk4Yks4Q0locg?oc=5",
           "source": "Google News",
-          "published": "Thu, 24 Sep 2026 01:33:39 GMT"
+          "published": "Thu, 24 Sep 2026 13:30:00 GMT"
+        },
+        {
+          "title": "Trump’s FDA pick to face scrutiny over abortion pill access at confirmation hearing - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeGVpeXZ4QW9qVmlrSkZpWUU5SWcxeklwZXYyQ1gwLTFoSlBEcFZaTFRiT1hfUnV4eEZsZFRBLUV5TGN4REkwYmZyTHp0dWYyai1KMlViQnVoc3Q0YnVLOG1Da0RqNU5zYU8xS25jX0xWcHJfVnhBa2FOem9xc3Z5RTVwTlhwZHFQTmFHNE10VTg2VEJQU3hXV2JsVDZfTGp4aWRCb0h6c1pDbjN6WF9aYXZXMDU1b2FxOWdXSkRXc0didw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 24 Sep 2026 09:00:00 GMT"
         }
       ]
     },
     {
-      "word": "Judge",
+      "word": "Live",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Judge blocks Trump's White House media ban, orders access to be restored - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2V0SEZGX1dfSmIwdGdRLU4zTlFsdVlDa3dXeS1EVnczQV9yUzJIXzN3NVhvR2gzcVBMTFBkY0g2Qk1xWGladm51WVQ1ZkN6Q19MTDAySThlMjhYSzNKaFJYeXFaUnpZNUZ3SkRBcTRVaGFORElVUkdHZG16UXQxcUVuTjROUFFycnNuQi11VDNHdlVtcWZnNTk3bDE?oc=5",
+          "title": "Trump-Xi live updates: leaders of US and China to talk AI and trade in major Washington meeting - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR2J2dXpTbXlfWFcxbldGenBkTWFXU1BCWG9yamdJN2VpMEpQM0VfdTgwd0dsSXMwb1B6WlhhNnptUE1FZHFhYkdhVE9tcTBpWEhhU1J1dGc0RDhyN2hRamNLcG1fWC15NUpOZ2JlaU5XcjJZY252ck1abHk3M2htWmR4bjE0T1BUWkhaeDh3NmtIaDlkNWpsN21TS1FvenlIVGoyaUdwMTk4Yks4Q0locg?oc=5",
           "source": "Google News",
-          "published": "Thu, 24 Sep 2026 05:07:00 GMT"
+          "published": "Thu, 24 Sep 2026 13:30:00 GMT"
         },
         {
-          "title": "Judge tosses Trump's lawsuit against Des Moines Register - axios.com",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV2wxcGhfODBYUVRxeVpHbTY3TGJhS2MwcGxVaGFmZXY5bDd4V2lyTEY2LVlTcWdtZ0t5N2o4ckdmRFV6czhUZnVoT210U1Uxdkl6bTBpT21fOHlsLUl6SlhUQXBUbWlFdTNaX1Q4VEhDUjhGbjM1SDk1OVVhSVJ5ZC1n?oc=5",
+          "title": "Stock futures slide again as Treasury yields push higher, Oracle leads Nasdaq names lower: Live updates - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kSThnZGdDMlpreHVoQ2NfOEs2blNBWnhLZWZyZjUzUVdhT0JwTjBQMDJ0b1F4cFRiaW1icDNTNHpSdEFLVmpKM2MxT3Voa25WSUxwY1RsYno3UU5qTG1Ec09mU3lveEFYUTk5VVFTbDdXQU9PT2xj0gF8QVVfeXFMT3hBNUw4aTh3Q1VGT1RZUXZ2RUtmamZLZXd6TGRkVExWQmVFVWw0RHJPNnBxMjJMcXREZF93enk1VFdkMGEwS21ZX21GbG54QWVqZ3hQZFgzZ3VockF0enVCdkhQYkhNbk1VNndtNFIxY2F2bnRNZHYxLVdCaA?oc=5",
           "source": "Google News",
-          "published": "Thu, 24 Sep 2026 04:54:57 GMT"
-        }
-      ]
-    },
-    {
-      "word": "House",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Judge blocks Trump's White House media ban, orders access to be restored - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2V0SEZGX1dfSmIwdGdRLU4zTlFsdVlDa3dXeS1EVnczQV9yUzJIXzN3NVhvR2gzcVBMTFBkY0g2Qk1xWGladm51WVQ1ZkN6Q19MTDAySThlMjhYSzNKaFJYeXFaUnpZNUZ3SkRBcTRVaGFORElVUkdHZG16UXQxcUVuTjROUFFycnNuQi11VDNHdlVtcWZnNTk3bDE?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 05:07:00 GMT"
-        },
-        {
-          "title": "Elizabeth Holmes to Transfer to Halfway House in August 2027 - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU0tFZ29YUVR3eGhyM3REVGExazF5ci13UDNUN2lrM1A4cnV3YU9peDBCVFFIb3hUa3d5N3Nxdk80Q21DLTZ2d3hYTFc0NHB2QjQwaXFiNzJKNVhlX1p6Qmpyd3FkelhwRVFOTWYtTGJSQWx5WFI1dWtOeldQM1pEVnRscG8taWc0OXJJLXRUZXBPalhM?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 03:53:54 GMT"
-        }
-      ]
-    },
-    {
-      "word": "ban",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Judge blocks Trump's White House media ban, orders access to be restored - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2V0SEZGX1dfSmIwdGdRLU4zTlFsdVlDa3dXeS1EVnczQV9yUzJIXzN3NVhvR2gzcVBMTFBkY0g2Qk1xWGladm51WVQ1ZkN6Q19MTDAySThlMjhYSzNKaFJYeXFaUnpZNUZ3SkRBcTRVaGFORElVUkdHZG16UXQxcUVuTjROUFFycnNuQi11VDNHdlVtcWZnNTk3bDE?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 05:07:00 GMT"
-        },
-        {
-          "title": "US oil industry pushes back against proposed diesel export ban - Financial Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYnN3N2JBRkd4V18yazlNbjQ2NE1rdVloeklTcmlXbFZMSldycXk2NUtVRFdLSEhUazExZkZiUGZGV2ZTZnJTQmhZTlpSdGFVUXpHQm5NOEVuYkR2Mi1tYnVJUW9RNVVuUzFsRlRZTkFqNENwbm1kN25lamhtUENjVUhmOHE?oc=5",
-          "source": "Google News",
-          "published": "Wed, 23 Sep 2026 23:44:57 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Nolo",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Hurricane Polo fuels fears of landslides in Mexico as Nolo closes in on Hawaii - NPR",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWVBvMElSMnJpaVVXUkdLMHl0Zm9Sc05iMC1udVgxRGlsTXN2QjJob1JJZm9ORXFVNTZhYm1zSjFRVV9tNDdreEoxLTJYbzJvcldKT1hmelYtSUJVdWpkc1VwMUNfNEpxcWpuUjZERmZRUE16SWpsNjVOU29PM2ZkaDFfTWo?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 03:19:45 GMT"
-        },
-        {
-          "title": "Tropical Storm Nolo: List of Hawaii closures, cancellations - hawaiinewsnow.com",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUkYwU0M0QWpQakJYeGxqeW96NHQyQ0hRVWZwd3dRNlRZcDlKRTZraDg1Y3JBOUQzZ3p3OU5GclRwYmlxYjVtRHBsLWlBVzZUUnh5NnBDdjYyVUhtY1JGQ0JXbm1zNWIyZHZJdTVHaXdycGRMRElJY1hUbXZnbG9sN0Jjc3g3VEhwMlk1MUpxaEt1Vkp4QVZkSE5mSGzSAbABQVVfeXFMUEpwdzFkcC1NM0VydGdtNndfSHlKZmd1VmdINWhpclppcnc3dno5UXBIdV9NUlVaemt6NHE5dVBIc1Rnb3dVRUlqVWRGYkQzejNFdTV1N3M5aXViV1NrbkJtZ0tsRHNqOExZci10Tklla1R1aHdWSjlFS29EejlDMmJXeW9CRHpEWmg1bzNyby1pZFdIQk5CUTY2Ynd2STY3SUcwUjE5dXJjem5NTloyNjU?oc=5",
-          "source": "Google News",
-          "published": "Wed, 23 Sep 2026 22:46:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Hawaii",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Hurricane Polo fuels fears of landslides in Mexico as Nolo closes in on Hawaii - NPR",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWVBvMElSMnJpaVVXUkdLMHl0Zm9Sc05iMC1udVgxRGlsTXN2QjJob1JJZm9ORXFVNTZhYm1zSjFRVV9tNDdreEoxLTJYbzJvcldKT1hmelYtSUJVdWpkc1VwMUNfNEpxcWpuUjZERmZRUE16SWpsNjVOU29PM2ZkaDFfTWo?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 03:19:45 GMT"
-        },
-        {
-          "title": "Tropical Storm Nolo: List of Hawaii closures, cancellations - hawaiinewsnow.com",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUkYwU0M0QWpQakJYeGxqeW96NHQyQ0hRVWZwd3dRNlRZcDlKRTZraDg1Y3JBOUQzZ3p3OU5GclRwYmlxYjVtRHBsLWlBVzZUUnh5NnBDdjYyVUhtY1JGQ0JXbm1zNWIyZHZJdTVHaXdycGRMRElJY1hUbXZnbG9sN0Jjc3g3VEhwMlk1MUpxaEt1Vkp4QVZkSE5mSGzSAbABQVVfeXFMUEpwdzFkcC1NM0VydGdtNndfSHlKZmd1VmdINWhpclppcnc3dno5UXBIdV9NUlVaemt6NHE5dVBIc1Rnb3dVRUlqVWRGYkQzejNFdTV1N3M5aXViV1NrbkJtZ0tsRHNqOExZci10Tklla1R1aHdWSjlFS29EejlDMmJXeW9CRHpEWmg1bzNyby1pZFdIQk5CUTY2Ynd2STY3SUcwUjE5dXJjem5NTloyNjU?oc=5",
-          "source": "Google News",
-          "published": "Wed, 23 Sep 2026 22:46:00 GMT"
+          "published": "Thu, 24 Sep 2026 13:14:00 GMT"
         }
       ]
     },
@@ -166,263 +53,73 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Iran War Updates: Iran's president calls U.S. attacks \"cowardly\" as Trump threatens annihilation - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSWU4WXp4UDJYb25pa3BRYTNqSW1rcFhDdF9vMXdoekszMG1JbEttak9SWDhnWnotU21ucFhVYlByOGQwaFdoRE1DeU04WXVjTVN2a0dmSzJoR3VsNGozZi0zQ0tNbkdMRkVRd0Z3MzE3QnFNWkNpYTgycTBqLUJ3QUNYN1hWVFA5NGdnS2JycV9KUTE1VnBQcQ?oc=5",
+          "title": "Trump-Xi live updates: leaders of US and China to talk AI and trade in major Washington meeting - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR2J2dXpTbXlfWFcxbldGenBkTWFXU1BCWG9yamdJN2VpMEpQM0VfdTgwd0dsSXMwb1B6WlhhNnptUE1FZHFhYkdhVE9tcTBpWEhhU1J1dGc0RDhyN2hRamNLcG1fWC15NUpOZ2JlaU5XcjJZY252ck1abHk3M2htWmR4bjE0T1BUWkhaeDh3NmtIaDlkNWpsN21TS1FvenlIVGoyaUdwMTk4Yks4Q0locg?oc=5",
           "source": "Google News",
-          "published": "Thu, 24 Sep 2026 05:17:31 GMT"
+          "published": "Thu, 24 Sep 2026 13:30:00 GMT"
         },
         {
-          "title": "Stock futures flat after soaring Treasury yields trigger market sell-off: Live updates - CNBC",
+          "title": "Stock futures slide again as Treasury yields push higher, Oracle leads Nasdaq names lower: Live updates - CNBC",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kSThnZGdDMlpreHVoQ2NfOEs2blNBWnhLZWZyZjUzUVdhT0JwTjBQMDJ0b1F4cFRiaW1icDNTNHpSdEFLVmpKM2MxT3Voa25WSUxwY1RsYno3UU5qTG1Ec09mU3lveEFYUTk5VVFTbDdXQU9PT2xj0gF8QVVfeXFMT3hBNUw4aTh3Q1VGT1RZUXZ2RUtmamZLZXd6TGRkVExWQmVFVWw0RHJPNnBxMjJMcXREZF93enk1VFdkMGEwS21ZX21GbG54QWVqZ3hQZFgzZ3VockF0enVCdkhQYkhNbk1VNndtNFIxY2F2bnRNZHYxLVdCaA?oc=5",
           "source": "Google News",
-          "published": "Thu, 24 Sep 2026 06:05:48 GMT"
+          "published": "Thu, 24 Sep 2026 13:14:00 GMT"
         }
       ]
     },
     {
-      "word": "President",
+      "word": "Major",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Iran War Updates: Iran's president calls U.S. attacks \"cowardly\" as Trump threatens annihilation - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSWU4WXp4UDJYb25pa3BRYTNqSW1rcFhDdF9vMXdoekszMG1JbEttak9SWDhnWnotU21ucFhVYlByOGQwaFdoRE1DeU04WXVjTVN2a0dmSzJoR3VsNGozZi0zQ0tNbkdMRkVRd0Z3MzE3QnFNWkNpYTgycTBqLUJ3QUNYN1hWVFA5NGdnS2JycV9KUTE1VnBQcQ?oc=5",
+          "title": "Trump-Xi live updates: leaders of US and China to talk AI and trade in major Washington meeting - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR2J2dXpTbXlfWFcxbldGenBkTWFXU1BCWG9yamdJN2VpMEpQM0VfdTgwd0dsSXMwb1B6WlhhNnptUE1FZHFhYkdhVE9tcTBpWEhhU1J1dGc0RDhyN2hRamNLcG1fWC15NUpOZ2JlaU5XcjJZY252ck1abHk3M2htWmR4bjE0T1BUWkhaeDh3NmtIaDlkNWpsN21TS1FvenlIVGoyaUdwMTk4Yks4Q0locg?oc=5",
           "source": "Google News",
-          "published": "Thu, 24 Sep 2026 05:17:31 GMT"
+          "published": "Thu, 24 Sep 2026 13:30:00 GMT"
         },
         {
-          "title": "Florida governor candidate Byron Donalds stands by Trump after some mentions of the president removed from website - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeG43ejY1Q3pzRU9CZXZlaXFiMjB3ZzZoSmVMTHJFa1RrTHItYmdTNzVXSlhiUlRuNkJYX2oydVZsZG5lMG4tOHdZRnFBWEV1U19MQXItTjhQUHpTY0h0Qm1YQmhXOUxoZFY3OF85ajRQUk5MSGJ5ZUh5NDdfc1diekZFYlBWMDBDb3FVcTBVODNlZnN4cndPQzU1TktuNk1nN1doeEpwdm0ydFRp?oc=5",
+          "title": "Just one small serving of ultra-processed food a day linked to higher disease risk, major study finds - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPY18tMGhudXFzakZRbVZYWWVPRnpCR2U5eGxvTHJBS0FNMXF2Z1UzQ2wxcmdUeFhUMVJEWnhnUTl2VUJQWS1LbHc3R2ZDNEhBOXBTOVM0TXh6SXpUdHhDX0ZLOXRHejM4Yi1aQnVHd3dPYmtfbjNSdHl6a1Axd0ZGTS1LRXZhNEJMUTVETHd2TzYtZl9hQnEyanF4NmdCWlRCN1lCcW05ZGt1cnRzenc0LV90T3d4QlJ0NE1qZHJKWlk3WkEyZWfSAcsBQVVfeXFMTS1uc3hUbk5KOGJRQ3QwXzVXWU9zakhKaEdBbHZRNUg3dWJ1TXk2ME90eFZORkdkUm5qVXBSbmVxWlVGMEV2Sy1NQU5IYXlNWDNKMkRmVVRDc1ZmSVVFMXRHV2pmVmR1T1I5Tlg4SVdQZExvLXlOWlRSN1U0NGVBdklfNnZnZGh0d0xxeTRqaVRxRWIwaU1jNHZPakdmcEZueXp1cTZfaUpnNTRJNDhrNU5jM1Bhb2s4VjBoMWtJV0tBdjgwOEtsRlNKT2M?oc=5",
           "source": "Google News",
-          "published": "Thu, 24 Sep 2026 03:49:00 GMT"
+          "published": "Wed, 23 Sep 2026 23:55:27 GMT"
         }
       ]
     },
     {
-      "word": "Attacks",
+      "word": "Data",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Iran War Updates: Iran's president calls U.S. attacks \"cowardly\" as Trump threatens annihilation - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSWU4WXp4UDJYb25pa3BRYTNqSW1rcFhDdF9vMXdoekszMG1JbEttak9SWDhnWnotU21ucFhVYlByOGQwaFdoRE1DeU04WXVjTVN2a0dmSzJoR3VsNGozZi0zQ0tNbkdMRkVRd0Z3MzE3QnFNWkNpYTgycTBqLUJ3QUNYN1hWVFA5NGdnS2JycV9KUTE1VnBQcQ?oc=5",
+          "title": "OpenAI’s agents breached Australian government data. Its human response may do more damage. - Politico",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQzEwX09ETllOandOaE5Pa3JpMU1LVUlKcS02ZkdEQnhVVGs0QWVlSWpHMm5ibTdaajNhbVpaNE9EVDdxbW00blhHbjlHcE53cDNXbUc2ZjFjcUtUbXYtYXc2ejNKdVdLTGI1YU5UNDNTXzFiQjlTMmpRY00xVzBLRTY0NHJWbUIyYzdyS3NUQVRHN0U?oc=5",
           "source": "Google News",
-          "published": "Thu, 24 Sep 2026 05:17:31 GMT"
+          "published": "Thu, 24 Sep 2026 11:47:00 GMT"
         },
         {
-          "title": "Turkey's Erdogan tells Ukraine's Zelenskiy that Black Sea attacks are inexplicable - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeEVzc2ZoVlNjY0pjRXFjRVZBOFVfdk1SRU5zUkpPUEplOVE2bWFaRHBCLVEwMHRtQXEyVXJ4d2toVWdZdzE0RTNGSzN5SFhta25VajFvc256U0F4SHNJbWIzcHhwV0lWSXc4ZEEwSHhyZWpZekk3eFlZdkhxVVpRUFhDQzN3LURmR1JyYjFfYzNrckU4bHpVekdrekVPdlNzOUQzellmWEZLWGx4bnpNWkNVV1VCdUJ6OE9FME53dFc0ajNkYmtVXzViYkVKWTA?oc=5",
+          "title": "Oracle Cites ‘Force Majeure’ to Shield Itself on Controversial Data Center - Bloomberg",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR3J4S0lNZEtDZ25YQWdUQkplRTFuVFlCTzFpOHc4MDVTQk1kZ3BUZkUwV3p5QmFwV2V3MEdBYmdRdU1xQTE4RzJYd0RhZTBoUmtXcFRzZlBINFN5LVBINXR4TEk1YlcxZ0RlOVE2YVYwZHE1WkdrVlN2WG5XcHVKcDJkdFhnVUk4ZkpHeEtrZ1NHM0VRZ21EZ3l0YXBBZUpnWG9BcG9vZG00NnNiNEppcnVwdkFRY0dkWnFzbFlhekU?oc=5",
           "source": "Google News",
-          "published": "Thu, 24 Sep 2026 04:45:00 GMT"
+          "published": "Thu, 24 Sep 2026 12:25:36 GMT"
         }
       ]
     },
     {
-      "word": "Annihilation",
+      "word": "Fight",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Iran War Updates: Iran's president calls U.S. attacks \"cowardly\" as Trump threatens annihilation - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSWU4WXp4UDJYb25pa3BRYTNqSW1rcFhDdF9vMXdoekszMG1JbEttak9SWDhnWnotU21ucFhVYlByOGQwaFdoRE1DeU04WXVjTVN2a0dmSzJoR3VsNGozZi0zQ0tNbkdMRkVRd0Z3MzE3QnFNWkNpYTgycTBqLUJ3QUNYN1hWVFA5NGdnS2JycV9KUTE1VnBQcQ?oc=5",
+          "title": "Israel’s Netanyahu takes the U.N. stage facing global isolation and a fight for his political future - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa2JxWlF4WmxTck14RHRJUDNMZjdwanJrVUxOLW5rV1RJUzE4MjdHRjBmYnRPWWhEc2R3WU9kQlZ5WTNtLWtDdktGV2dfUTFiN3NSVkU0ZTVDM25WLXRhNEFxVkpBbVVpeVRHY1ZrSnVDbjVkQ2hXcWlMZkowaWgzUjFyalFwbUJ3a2lZUWVuX0l6OGtaWTFYLU1uenR5bkE0TFJ5UVZHbFJIUV9SaXhV?oc=5",
           "source": "Google News",
-          "published": "Thu, 24 Sep 2026 05:17:31 GMT"
+          "published": "Thu, 24 Sep 2026 12:03:32 GMT"
         },
         {
-          "title": "Trump, Iran talk war, peace for hours after 'annihilation' threat - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVERKV0t4aXRFTUlFMDhmWEtHVkRlcEJ1amlYd2VldndnTHdmVnUyZnFNdk03ZGZySE9MYnVZY2Q5Y0pOaEJxbXFQU1U5LUJ1bTNnNjZ4SWxJZTNFOTYwTVJ4RTBfa3lmMHNvRUhHTUYyNDg3eHFBWVluOUZxaXF1S0VKbV90SEcxSFAxemNYTExrQWRVMmxzSlhGLXo0UQ?oc=5",
+          "title": "Fury vs Joshua: Cardiff to host heavyweight fight on 11 December - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92dWF6dnNNVFNvUTN3T1dqbnRWaWFiUVNEdV9ZdmN5cmZrQjh1Z1dxc2lnRFFLYTl5dnZvM1VrcFE0TVJQYndMbUNUR2x3dGF0VV82NEt3NGZRR0FDeDVyUHlIVGk?oc=5",
           "source": "Google News",
-          "published": "Thu, 24 Sep 2026 01:33:39 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Black",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Philly teacher, activist admits she lied for years about being Palestinian and Black - phillyvoice.com",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRzR3V21uY0YwUFRkb3lxZzZUZDhkNmh6QzVsekhDbkp5VE9FVk42bHE3Z3NTNzFNY3E3ZVljS0Z0TGdocGNNTUVhRmNjcHVBMTdnWm9hbk1NbU04TlROLWNBT1V5dzB5WWNCUXd0V19sandhZHhrdTYtVE5jZ0hwUXg1d2xqMkwzTUE?oc=5",
-          "source": "Google News",
-          "published": "Wed, 23 Sep 2026 21:01:44 GMT"
-        },
-        {
-          "title": "Turkey's Erdogan tells Ukraine's Zelenskiy that Black Sea attacks are inexplicable - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeEVzc2ZoVlNjY0pjRXFjRVZBOFVfdk1SRU5zUkpPUEplOVE2bWFaRHBCLVEwMHRtQXEyVXJ4d2toVWdZdzE0RTNGSzN5SFhta25VajFvc256U0F4SHNJbWIzcHhwV0lWSXc4ZEEwSHhyZWpZekk3eFlZdkhxVVpRUFhDQzN3LURmR1JyYjFfYzNrckU4bHpVekdrekVPdlNzOUQzellmWEZLWGx4bnpNWkNVV1VCdUJ6OE9FME53dFc0ajNkYmtVXzViYkVKWTA?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 04:45:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Stop",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Inside France’s Push to Stop Migrant Boats to the U.K. - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR20yUVhITTE4ZThRR1lWTXhCdXVfY1ZxZ0dKRHh0REpiSTdISk5WNXYxbkRHY3NWNk5xdVM5OVNhY3JVSV9lV3B6ZHROUm1XM0xqMUs1MDM3UlBSVWFlbTVTc2x6M2tJOU4wam9XTVgxXzBmUTRoQXdCRy1DY211WEpuZmFNam5iT2tqUW9qSkFSUQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 04:01:10 GMT"
-        },
-        {
-          "title": "In Amish country, nurses go door to door to stop deadly spread of measles - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvazFMSmU0T256eHRBQ0UzaXVNcVN6QlNnWUJ1Qm94S3VtVU1EcmhiTVkzdnRpTTdOcDRQWjc2VHlMNW9iVzZQU0pWcFdDakRlRWtoeGxCcFJIQnM?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 00:15:46 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Peace",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump, Iran talk war, peace for hours after 'annihilation' threat - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVERKV0t4aXRFTUlFMDhmWEtHVkRlcEJ1amlYd2VldndnTHdmVnUyZnFNdk03ZGZySE9MYnVZY2Q5Y0pOaEJxbXFQU1U5LUJ1bTNnNjZ4SWxJZTNFOTYwTVJ4RTBfa3lmMHNvRUhHTUYyNDg3eHFBWVluOUZxaXF1S0VKbV90SEcxSFAxemNYTExrQWRVMmxzSlhGLXo0UQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 01:33:39 GMT"
-        },
-        {
-          "title": "Bonds shaky, oil eases off highs amid trade, peace talks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWEltUDlJNE9jWHA5VlhOV21YTl9vZnZzMjQ1ZldQTmNSOHQ4NDMyZzlVbHVXZ1NqN01WR0d1aWxKVTQ1LURRTGhKQjlYbzUydHBYRVVuUkt3dFhRWDB1VDdWQTZhVy1Fb0pIM1hRa0UtTWZGQ1ZIa0MzSm1SUEdPR2pjNA?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 01:48:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Elizabeth",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Elizabeth Holmes to Transfer to Halfway House in August 2027 - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU0tFZ29YUVR3eGhyM3REVGExazF5ci13UDNUN2lrM1A4cnV3YU9peDBCVFFIb3hUa3d5N3Nxdk80Q21DLTZ2d3hYTFc0NHB2QjQwaXFiNzJKNVhlX1p6Qmpyd3FkelhwRVFOTWYtTGJSQWx5WFI1dWtOeldQM1pEVnRscG8taWc0OXJJLXRUZXBPalhM?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 03:53:54 GMT"
-        },
-        {
-          "title": "Full Trailer For Nathan Fielder’s Elizabeth Holmes Documentary Reveals New Details - Forbes",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRmt1QXJMYkpEazhBUDFMNUVKQ2Rla0hMV2c4WU05czUwZ0NBcXpqM2JKandJVm9VZkgxYklQN0pyMlpfWWpHZDBKeTNyXzUyclZPVUR4dmRpNlc5U25vS1QwYXdIMmZuZl9fUVdVcnkwYTVUR2xCT2JxTkRpbndGLVFvMkdLOExRM2dTWnZSelE0TUJ1MU40aElqZGh6enZ0THdxUUFGRjdVb0dNQ2otS0ZaenhZZXJtZDJJbE1wN3BJUGMwa1FOODRNWjFfaUFsU1N1RnJZbmdLeUdsSlJlc1B6ZWVlTzRjRUdSbU1jcnpuY25C?oc=5",
-          "source": "Google News",
-          "published": "Wed, 23 Sep 2026 16:18:54 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Holmes",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Elizabeth Holmes to Transfer to Halfway House in August 2027 - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU0tFZ29YUVR3eGhyM3REVGExazF5ci13UDNUN2lrM1A4cnV3YU9peDBCVFFIb3hUa3d5N3Nxdk80Q21DLTZ2d3hYTFc0NHB2QjQwaXFiNzJKNVhlX1p6Qmpyd3FkelhwRVFOTWYtTGJSQWx5WFI1dWtOeldQM1pEVnRscG8taWc0OXJJLXRUZXBPalhM?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 03:53:54 GMT"
-        },
-        {
-          "title": "Full Trailer For Nathan Fielder’s Elizabeth Holmes Documentary Reveals New Details - Forbes",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRmt1QXJMYkpEazhBUDFMNUVKQ2Rla0hMV2c4WU05czUwZ0NBcXpqM2JKandJVm9VZkgxYklQN0pyMlpfWWpHZDBKeTNyXzUyclZPVUR4dmRpNlc5U25vS1QwYXdIMmZuZl9fUVdVcnkwYTVUR2xCT2JxTkRpbndGLVFvMkdLOExRM2dTWnZSelE0TUJ1MU40aElqZGh6enZ0THdxUUFGRjdVb0dNQ2otS0ZaenhZZXJtZDJJbE1wN3BJUGMwa1FOODRNWjFfaUFsU1N1RnJZbmdLeUdsSlJlc1B6ZWVlTzRjRUdSbU1jcnpuY25C?oc=5",
-          "source": "Google News",
-          "published": "Wed, 23 Sep 2026 16:18:54 GMT"
-        }
-      ]
-    },
-    {
-      "word": "oil",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Bonds shaky, oil eases off highs amid trade, peace talks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWEltUDlJNE9jWHA5VlhOV21YTl9vZnZzMjQ1ZldQTmNSOHQ4NDMyZzlVbHVXZ1NqN01WR0d1aWxKVTQ1LURRTGhKQjlYbzUydHBYRVVuUkt3dFhRWDB1VDdWQTZhVy1Fb0pIM1hRa0UtTWZGQ1ZIa0MzSm1SUEdPR2pjNA?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 01:48:00 GMT"
-        },
-        {
-          "title": "US oil industry pushes back against proposed diesel export ban - Financial Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYnN3N2JBRkd4V18yazlNbjQ2NE1rdVloeklTcmlXbFZMSldycXk2NUtVRFdLSEhUazExZkZiUGZGV2ZTZnJTQmhZTlpSdGFVUXpHQm5NOEVuYkR2Mi1tYnVJUW9RNVVuUzFsRlRZTkFqNENwbm1kN25lamhtUENjVUhmOHE?oc=5",
-          "source": "Google News",
-          "published": "Wed, 23 Sep 2026 23:44:57 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Amid",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Bonds shaky, oil eases off highs amid trade, peace talks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWEltUDlJNE9jWHA5VlhOV21YTl9vZnZzMjQ1ZldQTmNSOHQ4NDMyZzlVbHVXZ1NqN01WR0d1aWxKVTQ1LURRTGhKQjlYbzUydHBYRVVuUkt3dFhRWDB1VDdWQTZhVy1Fb0pIM1hRa0UtTWZGQ1ZIa0MzSm1SUEdPR2pjNA?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 01:48:00 GMT"
-        },
-        {
-          "title": "Harrison Jr. blocking out noise amid slow start for Cardinals - ESPN",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN0NzZW9OWGJwVUdrY0lxMUJOWDctUnlWYXlOaEJlUjBTSzI1MVRpT0otNkZVX2djYXUteVM5SlIyLU1yVFAtR0NGekV5V3U1VWc3ZlpFM28wUGpYdHZ4RkQwYVZsNFk2a0dnRkdWbzYxblR5LXhiUXd6YlJUS0V1M0pxQ1ZoTFhPY202Z0Q2OHRabG1VQWhZ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 01:27:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Meta",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Meta's Charm gadget carries CEO Zuckerberg's big AI ambitions - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR2h1c2dZMG5ya1BGWURiTFpoTVQ2MlRuRXlxVmFzVkFJWHBfVmg4SGl1T0ttVUNrY04wMVJuUGZtVlhWYTAwN3IzUEUyOW9KQmVoUDhfY2UzYnREQ3J2NnQyUGN1bkN3MnU0LTIzLWZCYXVwSDFDb0tqZDNvVlhUUGRxY042cUxUeTVKdzRyNnNhYWJ1VG5EWXV6aGN4U0V6eEF3Y0x4dnJTdV9COExXZTYtU09fRUlnY3c?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 04:40:18 GMT"
-        },
-        {
-          "title": "Meta's New Holographic Avatars Are Here And They're Surprisingly Real - Engadget",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU3JYX0RfdXQ5em15VjZoRXhZUDkzZTlqQmFZUUI5RUgta1lsTE55MlVMcTJjbE9HbG5tM3pzUHF4VE1RRmVuQlliQXA2WHV2Zm82SnFZcVVQM1FiTmtaRHk4cTdiUFdyQUlhWlJIQU10ald5dEFlbEwycW9LckVRb0xpWl9DbXdNNXUxb3R4Zm5RR0hQdm41Vg?oc=5",
-          "source": "Google News",
-          "published": "Wed, 23 Sep 2026 23:53:01 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Zuckerberg",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Meta's Charm gadget carries CEO Zuckerberg's big AI ambitions - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR2h1c2dZMG5ya1BGWURiTFpoTVQ2MlRuRXlxVmFzVkFJWHBfVmg4SGl1T0ttVUNrY04wMVJuUGZtVlhWYTAwN3IzUEUyOW9KQmVoUDhfY2UzYnREQ3J2NnQyUGN1bkN3MnU0LTIzLWZCYXVwSDFDb0tqZDNvVlhUUGRxY042cUxUeTVKdzRyNnNhYWJ1VG5EWXV6aGN4U0V6eEF3Y0x4dnJTdV9COExXZTYtU09fRUlnY3c?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 04:40:18 GMT"
-        },
-        {
-          "title": "Mark Zuckerberg predicts Muse will become a \"personal superintelligence\" for billions. - axios.com",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5mOGRoa2Q0RVp3MEZHQVlQd0FwT0tCaU80eW9LYk1JWmdKcjlQUjZ3dmsyb3Y1allwZTFJWV92WDVvZXNsamhVZXBoUkRSSHpLN09yczNjdUlER09meXlVaC1iSmwycEJkd2NrZWhBNVZXMXZBREMwR3lGcw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 00:55:47 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Really",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "What's really true in 'Brothers'? McConaughey, Harrelson set record straight - USA Today",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNY2hxTzFpODZNSWtZX0M2aW5hQ2FTdUpnWFU4ZWZWajBpdmNseUlnVHgyd0o2MTBmM2NoaEc5czRkaUJwbzB0aEdQb1U3TzV3QnN2aXdEcXQ0YTB2ZlFLN2k2Sm1XNEI0eExCeDBCS2tVM0lPNFRON0xSZWVDZF95MGZqeThObzRaQVZhWGVzZkRKa1RPUmxxcm1fSlo3S05WYWcwbVVRSEh0OEktY2NrWjh0Qy16N1V5dTRkUVozOVRnMFJGWG1jWS1VaHJXZ0tEcXZ1VzRwYTNWSm13QmdB?oc=5",
-          "source": "Google News",
-          "published": "Wed, 23 Sep 2026 23:26:00 GMT"
-        },
-        {
-          "title": "'Really Unique' Amoeba Thrives in California's Hot Springs - Newser",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSWJnXzFCcUZrUnhvQVQyaU1zQkRHRm5qYjdWNHBFdy1PY3ZLNU44UmVoRlZzVmlyeXRMaTdTSVBvazBiWVg4a2pzMFRlMTZ5S01pdE0yZjhqRm9CbjNMVTgwek9mV2dDMkZKVmdkWlhxbk9ubEhNeDl0QmlKQXdSVEQ3bW5IdEhQM1BuUHRCRUNENzhCNmRVTC1WQQ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 23 Sep 2026 20:40:00 GMT"
+          "published": "Thu, 24 Sep 2026 11:57:33 GMT"
         }
       ]
     },
@@ -432,10 +129,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "What's really true in 'Brothers'? McConaughey, Harrelson set record straight - USA Today",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNY2hxTzFpODZNSWtZX0M2aW5hQ2FTdUpnWFU4ZWZWajBpdmNseUlnVHgyd0o2MTBmM2NoaEc5czRkaUJwbzB0aEdQb1U3TzV3QnN2aXdEcXQ0YTB2ZlFLN2k2Sm1XNEI0eExCeDBCS2tVM0lPNFRON0xSZWVDZF95MGZqeThObzRaQVZhWGVzZkRKa1RPUmxxcm1fSlo3S05WYWcwbVVRSEh0OEktY2NrWjh0Qy16N1V5dTRkUVozOVRnMFJGWG1jWS1VaHJXZ0tEcXZ1VzRwYTNWSm13QmdB?oc=5",
+          "title": "Rare September Nor’easter set to slam East Coast with heavy rain, damaging winds - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX282Q2lBdlVfZlpyX1BDbEJ2TFp0Z0xTN2dpSnE5VXJpX2haLUJacnhmSmxZWm83LVNySFVraERiLVhRRU5VMlgxeXhObGVKaldUUzNJUXpaR1dveWZMWTZCSkIxRkluUmdkVFJOQVBxSFM4LXZaN3lwWWFFaHRXSkxsUUk5WGpJcFBDUXlOWWp5RjgzbEQtc0VyRENqQQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 23 Sep 2026 23:26:00 GMT"
+          "published": "Thu, 24 Sep 2026 13:40:19 GMT"
         },
         {
           "title": "SpaceX's next astronaut launch for NASA now set for Oct. 1 after delay - Space",
@@ -446,117 +143,321 @@
       ]
     },
     {
-      "word": "Season",
+      "word": "Injured",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘America’s Got Talent’ Crowns Season 21 Champion - Billboard",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcHlpRGFkNGMxWUR4TDJkYkV5elBNTVZua19ld3ZtelNxSGtBQThwU2JHeUx2d1luUjBPS0dWS0czN0dUbmY3aWg1MDJSeF9lLUVBUzV5LXR1bk9sVHo0LU1LZ3pYMGxDWmFMaUhLZjJUeUJtaTJnN3ZRaE5jZ3AxUVh2TUgyZWVZa3Z1RnY2ZVBkbkw3TGJZ?oc=5",
+          "title": "ICE Mistakenly Detains U.S. Citizen in Chicago Area, Leaving Him Injured - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ2xMaExyRjlMZk5OcXlfTHV6TUQ3Tmw5Vk94VWtVMG9CVTg0Q2VzbG5yOWJhVkMwM2Npb3RzZmZ1UU50Q0t4cmN2WlZmMnYzbkdBejlSOE1ocUpZYm9vUGE1WjlxMWUzeG5BZVRFQkpsZVB3TmZvRHBOR1RkcDdVcWFrRENKY053MXUw?oc=5",
           "source": "Google News",
-          "published": "Thu, 24 Sep 2026 03:35:18 GMT"
+          "published": "Thu, 24 Sep 2026 11:30:00 GMT"
         },
         {
-          "title": "Exploring Giants quarterback options with Jaxson Dart sidelined for rest of regular season - SNY",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1wTHR1OThTOWx1bGR0NDBDR1RES09NY3piSVdTRldlZl9Zc2xfejRTV1JuZnVSZ2VRYktpaXRVc0tnb0doaENMYlBBTkNRSC1HVUptTXAzQ0U0R1dlcnpxQzRvYzhWYkMxZ05wdTkzQVl6VzlWdmJOV203Yw?oc=5",
+          "title": "1 killed, 4 injured in knife attack at Benedictine abbey in Poland - The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTEx0U2lXeEZfTnp1MUNvQUpQNVQ1dm1FMlVFcFRVWGltVUFvcGM5LWxETUZJM2JSUDRmdmFqUjJiVzBZbEY5czQtRGpzcjhWejBoUE5ZMnc2TkM0WmlPVE5LczZOYzRrTFNlV3pkTHBDZDRCNXMwRTRMOFk1azFLNkVCVWlNdEtxWi1DV25ldDVFN1lTVlRENHJXZjZ6Vk5iRGkyNHVnSE9yYm5Dd2huMU16TDhuUDF3dWp4a2QtMTZGNEUwX0VRWmJRMy1vbW01ek9hcUlad9IB3AFBVV95cUxNbXdFdDB0TWVFQmxHcG9VZ2pMNDZPdUZ2MG9qRmh4cUdCMFVBWWhhNlNmZGRhSWhVM0xzZEVkN3ppRm80MXdONlNxbllDR1hseUVpYmc2VTZOekVFdlBscG4xekVia0M3UXlZUkVhV05PWXJaMDdURF9LQXJvOTdXREVidUstUUdYWm5rLW1nTm54MVdRYWU5dEstWU4zLWpRYmFmLTBCZ1pDRG4wajRaVWJ2bGlGLTVJbXg3SFE2U2xHYkRCZ0lCczdrOWtXa2xsUjNGa0R3bUNMSXNs?oc=5",
           "source": "Google News",
-          "published": "Wed, 23 Sep 2026 20:55:31 GMT"
+          "published": "Thu, 24 Sep 2026 11:40:00 GMT"
         }
       ]
     },
     {
-      "word": "Home",
+      "word": "Pick",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Packers can make home opener history on Thursday night vs. Falcons - Packers Wire",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORTh3enRBQWc3VkRJaGZvUlJBUkRfdHVlVVBLNmRDRXdxN2ZqRVNXUHQxY0RpZHEyOWh4V0lqV2dkbmNlMnhVMmJKNVpfbHBROWhkV0dJVUJPd0xfeXRBSG9QVVhJM1NscE1iTGliWTdab2k4VGp2NUtlN0xOUnRraHVNSlAyOTNwRnR3Si1ldlBaZTdYX0thbUV6cTcwZVlya3dUcHNUYmRIcWcySUlXQXdtMGxlVlh2aW94RHlBcGhQbHh1ZktOdUU5ODQzVTlsUjZrMlgwOHBWdGRiM0o1eg?oc=5",
+          "title": "Trump’s FDA pick to face scrutiny over abortion pill access at confirmation hearing - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeGVpeXZ4QW9qVmlrSkZpWUU5SWcxeklwZXYyQ1gwLTFoSlBEcFZaTFRiT1hfUnV4eEZsZFRBLUV5TGN4REkwYmZyTHp0dWYyai1KMlViQnVoc3Q0YnVLOG1Da0RqNU5zYU8xS25jX0xWcHJfVnhBa2FOem9xc3Z5RTVwTlhwZHFQTmFHNE10VTg2VEJQU3hXV2JsVDZfTGp4aWRCb0h6c1pDbjN6WF9aYXZXMDU1b2FxOWdXSkRXc0didw?oc=5",
           "source": "Google News",
-          "published": "Wed, 23 Sep 2026 14:37:00 GMT"
+          "published": "Thu, 24 Sep 2026 09:00:00 GMT"
         },
         {
-          "title": "NFL Week 3 picks, odds: Josh Allen furthers Chargers free fall, Saints stay hot in home opener - CBS Sports",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rZ1hTVVlTVmR6eEFBQk9wdzJKc1RHc202bk0tZTNNTmkzdTNnTWhJRC1SSklEbldHdjBqaGlLazUtb1hZTUhTTzdTaHRZdVVXQkZaNGxSa1NVQU5PUG9ON2J6NF91NHRUdnV3VmppdWVwNGViV0RlZnVMWXJRbVU?oc=5",
+          "title": "People are ditching their vapes only to pick up another surprising habit - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWmZ4ajVqRzZXTXRLbFpjanEzdmx6V0JiV2JhV1FQZW00ZktJYlR2SzZRWHRmVTVBRkE0LTVuMDhtaHl4aDZhRHRyRUZKTERSWjlRd09yS0txUTRUcnFiekItZDJUMmltVzRzaWJHLXVWZnR5TVVuSkM1YWJyb3JLVUFCONIBiAFBVV95cUxNNUtsaHZzQ1I2UnByWUJ5QzJ0QTA1Nkl3aTZ1Vy1TYWtyQVd4VmFBRTJXUmZQZjlwUUZYRWJaNzdCalVIZmNGV3RmQk42c3pRZXpVQmY1VFd6VnpDWUR0di03NEVVUUtjS3BwUlpHdEFvUkFCdWtIUXlmNDZ6cC1rQi1ubjdmRzly?oc=5",
           "source": "Google News",
-          "published": "Wed, 23 Sep 2026 12:54:00 GMT"
+          "published": "Thu, 24 Sep 2026 11:00:36 GMT"
         }
       ]
     },
     {
-      "word": "Opener",
+      "word": "High",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Packers can make home opener history on Thursday night vs. Falcons - Packers Wire",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORTh3enRBQWc3VkRJaGZvUlJBUkRfdHVlVVBLNmRDRXdxN2ZqRVNXUHQxY0RpZHEyOWh4V0lqV2dkbmNlMnhVMmJKNVpfbHBROWhkV0dJVUJPd0xfeXRBSG9QVVhJM1NscE1iTGliWTdab2k4VGp2NUtlN0xOUnRraHVNSlAyOTNwRnR3Si1ldlBaZTdYX0thbUV6cTcwZVlya3dUcHNUYmRIcWcySUlXQXdtMGxlVlh2aW94RHlBcGhQbHh1ZktOdUU5ODQzVTlsUjZrMlgwOHBWdGRiM0o1eg?oc=5",
+          "title": "The High-Stakes Corruption Scandal Shaking Up Brazil’s Election - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZjF3N1h0a3lfWDZ4R2V6ZGNwZmlfZGdtWW1fQ2tJSzFuT2I0eFVqMy1aUTFkS2drZ0VhX1hJYnBBZUh0WEJGU0xBTGNTOTVyZXNlQ0ZJRzhFOFhKTVk3eFpfbEg3RjBBdDRWcXhxSjFYNWY4cFVyRlFQZ0I5cVZUY2xPM3dKek5mX194akxad2I5MGluWDRuT2l3YTBkZmVjM0E3ZFFMSQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 23 Sep 2026 14:37:00 GMT"
+          "published": "Thu, 24 Sep 2026 09:01:19 GMT"
         },
         {
-          "title": "NFL Week 3 picks, odds: Josh Allen furthers Chargers free fall, Saints stay hot in home opener - CBS Sports",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rZ1hTVVlTVmR6eEFBQk9wdzJKc1RHc202bk0tZTNNTmkzdTNnTWhJRC1SSklEbldHdjBqaGlLazUtb1hZTUhTTzdTaHRZdVVXQkZaNGxSa1NVQU5PUG9ON2J6NF91NHRUdnV3VmppdWVwNGViV0RlZnVMWXJRbVU?oc=5",
+          "title": "A high school teacher stumbled across two giant footprints — and marked a first for science - cnn.com",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTnlfV3JHOFlqTWd4Nko3U3dyV2padHFVc19GRElkUFBpSlpmcS1wdkRheE1KQTdtOXV0RjBZaF9fT1VzT1lZSV9WQVdVbVdfNF96WjM2Vm5OT05XOG9WTEczME54N3QxRmpSeE1WLXJRd25UejktZWw1VG1iZ1VhV3JCZGZwRmhJ?oc=5",
           "source": "Google News",
-          "published": "Wed, 23 Sep 2026 12:54:00 GMT"
+          "published": "Wed, 23 Sep 2026 18:42:58 GMT"
         }
       ]
     },
     {
-      "word": "Disease",
+      "word": "Push",
       "count": 2,
       "category": "NOUN",
       "articles": [
+        {
+          "title": "Stock futures slide again as Treasury yields push higher, Oracle leads Nasdaq names lower: Live updates - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kSThnZGdDMlpreHVoQ2NfOEs2blNBWnhLZWZyZjUzUVdhT0JwTjBQMDJ0b1F4cFRiaW1icDNTNHpSdEFLVmpKM2MxT3Voa25WSUxwY1RsYno3UU5qTG1Ec09mU3lveEFYUTk5VVFTbDdXQU9PT2xj0gF8QVVfeXFMT3hBNUw4aTh3Q1VGT1RZUXZ2RUtmamZLZXd6TGRkVExWQmVFVWw0RHJPNnBxMjJMcXREZF93enk1VFdkMGEwS21ZX21GbG54QWVqZ3hQZFgzZ3VockF0enVCdkhQYkhNbk1VNndtNFIxY2F2bnRNZHYxLVdCaA?oc=5",
+          "source": "Google News",
+          "published": "Thu, 24 Sep 2026 13:14:00 GMT"
+        },
+        {
+          "title": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant as part of AI agent push - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZE4zZGJhTHNYbjFqTkFSQzctWEVRb1E0ZUZJVGVfZEdJSUpaSS1vOEpKdU9lenBqWGJUSEJ0eWhDS3lRTGZXelgyTkVjWlpxcTNZQnhVUDltWXh4RkE5VVlFNEMyc0N6dktNaEduUEN0ZzhPZUVjanY1UGszaTNTcVBOMHNIUUpaLUHSAY8BQVVfeXFMTXRHVmpoQXdRa2c1MjVscHM5WG5WVHpYa2pJRXphSnI3OVdLdE5lVEs2aGdxVE9uWXVlY1RueVlTU25nUFk4cnFIOG1hZTJ3azlxUVl0RHRoVmE4WXVrT0hBNHg5Y2JETzFRQ0EwenB5MzU5YU8wRzdZRHVtbDJIUUJ1d1lWbzlQVjJfZllGRGc?oc=5",
+          "source": "Google News",
+          "published": "Thu, 24 Sep 2026 00:45:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Higher",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Stock futures slide again as Treasury yields push higher, Oracle leads Nasdaq names lower: Live updates - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kSThnZGdDMlpreHVoQ2NfOEs2blNBWnhLZWZyZjUzUVdhT0JwTjBQMDJ0b1F4cFRiaW1icDNTNHpSdEFLVmpKM2MxT3Voa25WSUxwY1RsYno3UU5qTG1Ec09mU3lveEFYUTk5VVFTbDdXQU9PT2xj0gF8QVVfeXFMT3hBNUw4aTh3Q1VGT1RZUXZ2RUtmamZLZXd6TGRkVExWQmVFVWw0RHJPNnBxMjJMcXREZF93enk1VFdkMGEwS21ZX21GbG54QWVqZ3hQZFgzZ3VockF0enVCdkhQYkhNbk1VNndtNFIxY2F2bnRNZHYxLVdCaA?oc=5",
+          "source": "Google News",
+          "published": "Thu, 24 Sep 2026 13:14:00 GMT"
+        },
         {
           "title": "Just one small serving of ultra-processed food a day linked to higher disease risk, major study finds - Fox News",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPY18tMGhudXFzakZRbVZYWWVPRnpCR2U5eGxvTHJBS0FNMXF2Z1UzQ2wxcmdUeFhUMVJEWnhnUTl2VUJQWS1LbHc3R2ZDNEhBOXBTOVM0TXh6SXpUdHhDX0ZLOXRHejM4Yi1aQnVHd3dPYmtfbjNSdHl6a1Axd0ZGTS1LRXZhNEJMUTVETHd2TzYtZl9hQnEyanF4NmdCWlRCN1lCcW05ZGt1cnRzenc0LV90T3d4QlJ0NE1qZHJKWlk3WkEyZWfSAcsBQVVfeXFMTS1uc3hUbk5KOGJRQ3QwXzVXWU9zakhKaEdBbHZRNUg3dWJ1TXk2ME90eFZORkdkUm5qVXBSbmVxWlVGMEV2Sy1NQU5IYXlNWDNKMkRmVVRDc1ZmSVVFMXRHV2pmVmR1T1I5Tlg4SVdQZExvLXlOWlRSN1U0NGVBdklfNnZnZGh0d0xxeTRqaVRxRWIwaU1jNHZPakdmcEZueXp1cTZfaUpnNTRJNDhrNU5jM1Bhb2s4VjBoMWtJV0tBdjgwOEtsRlNKT2M?oc=5",
           "source": "Google News",
           "published": "Wed, 23 Sep 2026 23:55:27 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Oracle",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Stock futures slide again as Treasury yields push higher, Oracle leads Nasdaq names lower: Live updates - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kSThnZGdDMlpreHVoQ2NfOEs2blNBWnhLZWZyZjUzUVdhT0JwTjBQMDJ0b1F4cFRiaW1icDNTNHpSdEFLVmpKM2MxT3Voa25WSUxwY1RsYno3UU5qTG1Ec09mU3lveEFYUTk5VVFTbDdXQU9PT2xj0gF8QVVfeXFMT3hBNUw4aTh3Q1VGT1RZUXZ2RUtmamZLZXd6TGRkVExWQmVFVWw0RHJPNnBxMjJMcXREZF93enk1VFdkMGEwS21ZX21GbG54QWVqZ3hQZFgzZ3VockF0enVCdkhQYkhNbk1VNndtNFIxY2F2bnRNZHYxLVdCaA?oc=5",
+          "source": "Google News",
+          "published": "Thu, 24 Sep 2026 13:14:00 GMT"
         },
         {
-          "title": "Bone density and the \"silent disease\": 4 things women should know about bone health - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObkpPcWR5eTBXNWpNX2JzUkx0eS14TG03RUYyVVU1SlIxLXpJOG52eEs5cDNfaklHMUFpTEpzcWgtdEEweTlnWTdTMmtFcUVENElxQUpKdGJnc2VqUmxGUnZaajB1SllvNEFXcFFHa25sOFJWRWd3QVo0OW9sRVNGdmliTW9fMU0tT2NaQks3SQ?oc=5",
+          "title": "Oracle Cites ‘Force Majeure’ to Shield Itself on Controversial Data Center - Bloomberg",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR3J4S0lNZEtDZ25YQWdUQkplRTFuVFlCTzFpOHc4MDVTQk1kZ3BUZkUwV3p5QmFwV2V3MEdBYmdRdU1xQTE4RzJYd0RhZTBoUmtXcFRzZlBINFN5LVBINXR4TEk1YlcxZ0RlOVE2YVYwZHE1WkdrVlN2WG5XcHVKcDJkdFhnVUk4ZkpHeEtrZ1NHM0VRZ21EZ3l0YXBBZUpnWG9BcG9vZG00NnNiNEppcnVwdkFRY0dkWnFzbFlhekU?oc=5",
           "source": "Google News",
-          "published": "Wed, 23 Sep 2026 11:00:00 GMT"
+          "published": "Thu, 24 Sep 2026 12:25:36 GMT"
         }
       ]
     },
     {
-      "word": "Door",
+      "word": "Nasdaq",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "In Amish country, nurses go door to door to stop deadly spread of measles - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvazFMSmU0T256eHRBQ0UzaXVNcVN6QlNnWUJ1Qm94S3VtVU1EcmhiTVkzdnRpTTdOcDRQWjc2VHlMNW9iVzZQU0pWcFdDakRlRWtoeGxCcFJIQnM?oc=5",
+          "title": "Stock futures slide again as Treasury yields push higher, Oracle leads Nasdaq names lower: Live updates - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kSThnZGdDMlpreHVoQ2NfOEs2blNBWnhLZWZyZjUzUVdhT0JwTjBQMDJ0b1F4cFRiaW1icDNTNHpSdEFLVmpKM2MxT3Voa25WSUxwY1RsYno3UU5qTG1Ec09mU3lveEFYUTk5VVFTbDdXQU9PT2xj0gF8QVVfeXFMT3hBNUw4aTh3Q1VGT1RZUXZ2RUtmamZLZXd6TGRkVExWQmVFVWw0RHJPNnBxMjJMcXREZF93enk1VFdkMGEwS21ZX21GbG54QWVqZ3hQZFgzZ3VockF0enVCdkhQYkhNbk1VNndtNFIxY2F2bnRNZHYxLVdCaA?oc=5",
           "source": "Google News",
-          "published": "Thu, 24 Sep 2026 00:15:46 GMT"
+          "published": "Thu, 24 Sep 2026 13:14:00 GMT"
+        },
+        {
+          "title": "Google unveils new Gemini 3.8 Flash TTS, Gemini 3.8 Flash-Lite TTS AI models (GOOG:NASDAQ) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZHRISG1vU0F4SF9zM255VjA4RkM5X2hEb21FUFZvVVdnMVh0QVQ4OGZOZThPajJaSTRQNHJkRWFQd013XzdBUnNvNTZwcEFIMjVWTFR4czhwUVh6eTJMSkhuMG5HU05KWGROZlFjNG93NWxXVmJ5UTJTb05ZTXpWckk3MS1FVVBZMTZoZVBac3RNeU9fdElHUG5lekp2cWNyWFJ6Q3FUbHhMY2xqWVFkWGwtYw?oc=5",
+          "source": "Google News",
+          "published": "Wed, 23 Sep 2026 15:44:21 GMT"
         }
       ]
     },
     {
-      "word": "Bone",
+      "word": "Controversial",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Bone density and the \"silent disease\": 4 things women should know about bone health - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObkpPcWR5eTBXNWpNX2JzUkx0eS14TG03RUYyVVU1SlIxLXpJOG52eEs5cDNfaklHMUFpTEpzcWgtdEEweTlnWTdTMmtFcUVENElxQUpKdGJnc2VqUmxGUnZaajB1SllvNEFXcFFHa25sOFJWRWd3QVo0OW9sRVNGdmliTW9fMU0tT2NaQks3SQ?oc=5",
+          "title": "One blood test could screen you for 50 cancers. Here’s why it’s controversial. - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV3RFSlhqcUhIUzJadmVZU2lsYVcyekdqVnd0aGRrNjZBNXFscW1MN1EtZEk4WHhRdmJhRXI2M0tiRmx5RzJOME5XTG03aHVpdE1oZ242SjU0T2p2WHJ1Um04X05ZLWdiNW1wYmFKRE5QZnM4c2JWb3RWQWUzcFhXQzhYdDZXbjZxQ0YzWFZqc191SG5MaEt3TXNZQVZNWmxrbWZ0T2dPQWYtVHZTbEo4Sm0xbW9HYXN4anhxUQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 23 Sep 2026 11:00:00 GMT"
+          "published": "Thu, 24 Sep 2026 13:33:10 GMT"
+        },
+        {
+          "title": "Oracle Cites ‘Force Majeure’ to Shield Itself on Controversial Data Center - Bloomberg",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR3J4S0lNZEtDZ25YQWdUQkplRTFuVFlCTzFpOHc4MDVTQk1kZ3BUZkUwV3p5QmFwV2V3MEdBYmdRdU1xQTE4RzJYd0RhZTBoUmtXcFRzZlBINFN5LVBINXR4TEk1YlcxZ0RlOVE2YVYwZHE1WkdrVlN2WG5XcHVKcDJkdFhnVUk4ZkpHeEtrZ1NHM0VRZ21EZ3l0YXBBZUpnWG9BcG9vZG00NnNiNEppcnVwdkFRY0dkWnFzbFlhekU?oc=5",
+          "source": "Google News",
+          "published": "Thu, 24 Sep 2026 12:25:36 GMT"
         }
       ]
     },
     {
-      "word": "Blocks",
+      "word": "Ultra",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Review: Apple’s hyper-pricey M5 Ultra Mac Studio made me into a vibe coder - Ars Technica",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTEJFS3R4aVh5bXNDNDJrNlFScWhnNVVZS2phVTNlOTlsekVURUs1VXhId2x6R29fX3E0dXlnTEQxdEZEMkE0dmxrNVY3cTc0Unp1N1lQdmRrdFFQVVFkcS1uYzkxMzhqWHF6ZHlucnFkaU1XaHRnYWdyWVFHYkFOdUFZQmdsZ0J5czA4bGFDTklHR3R4T3p6b2Z0V0tqRVVJSGNndmZhRzVnRmRvZmFIbHFEdw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 24 Sep 2026 11:00:04 GMT"
+        },
+        {
+          "title": "Just one small serving of ultra-processed food a day linked to higher disease risk, major study finds - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPY18tMGhudXFzakZRbVZYWWVPRnpCR2U5eGxvTHJBS0FNMXF2Z1UzQ2wxcmdUeFhUMVJEWnhnUTl2VUJQWS1LbHc3R2ZDNEhBOXBTOVM0TXh6SXpUdHhDX0ZLOXRHejM4Yi1aQnVHd3dPYmtfbjNSdHl6a1Axd0ZGTS1LRXZhNEJMUTVETHd2TzYtZl9hQnEyanF4NmdCWlRCN1lCcW05ZGt1cnRzenc0LV90T3d4QlJ0NE1qZHJKWlk3WkEyZWfSAcsBQVVfeXFMTS1uc3hUbk5KOGJRQ3QwXzVXWU9zakhKaEdBbHZRNUg3dWJ1TXk2ME90eFZORkdkUm5qVXBSbmVxWlVGMEV2Sy1NQU5IYXlNWDNKMkRmVVRDc1ZmSVVFMXRHV2pmVmR1T1I5Tlg4SVdQZExvLXlOWlRSN1U0NGVBdklfNnZnZGh0d0xxeTRqaVRxRWIwaU1jNHZPakdmcEZueXp1cTZfaUpnNTRJNDhrNU5jM1Bhb2s4VjBoMWtJV0tBdjgwOEtsRlNKT2M?oc=5",
+          "source": "Google News",
+          "published": "Wed, 23 Sep 2026 23:55:27 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Gemini",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Google unveils new Gemini 3.8 Flash TTS, Gemini 3.8 Flash-Lite TTS AI models (GOOG:NASDAQ) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZHRISG1vU0F4SF9zM255VjA4RkM5X2hEb21FUFZvVVdnMVh0QVQ4OGZOZThPajJaSTRQNHJkRWFQd013XzdBUnNvNTZwcEFIMjVWTFR4czhwUVh6eTJMSkhuMG5HU05KWGROZlFjNG93NWxXVmJ5UTJTb05ZTXpWckk3MS1FVVBZMTZoZVBac3RNeU9fdElHUG5lekp2cWNyWFJ6Q3FUbHhMY2xqWVFkWGwtYw?oc=5",
+          "source": "Google News",
+          "published": "Wed, 23 Sep 2026 15:44:21 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Flash",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Google unveils new Gemini 3.8 Flash TTS, Gemini 3.8 Flash-Lite TTS AI models (GOOG:NASDAQ) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZHRISG1vU0F4SF9zM255VjA4RkM5X2hEb21FUFZvVVdnMVh0QVQ4OGZOZThPajJaSTRQNHJkRWFQd013XzdBUnNvNTZwcEFIMjVWTFR4czhwUVh6eTJMSkhuMG5HU05KWGROZlFjNG93NWxXVmJ5UTJTb05ZTXpWckk3MS1FVVBZMTZoZVBac3RNeU9fdElHUG5lekp2cWNyWFJ6Q3FUbHhMY2xqWVFkWGwtYw?oc=5",
+          "source": "Google News",
+          "published": "Wed, 23 Sep 2026 15:44:21 GMT"
+        }
+      ]
+    },
+    {
+      "word": "TTS",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Google unveils new Gemini 3.8 Flash TTS, Gemini 3.8 Flash-Lite TTS AI models (GOOG:NASDAQ) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZHRISG1vU0F4SF9zM255VjA4RkM5X2hEb21FUFZvVVdnMVh0QVQ4OGZOZThPajJaSTRQNHJkRWFQd013XzdBUnNvNTZwcEFIMjVWTFR4czhwUVh6eTJMSkhuMG5HU05KWGROZlFjNG93NWxXVmJ5UTJTb05ZTXpWckk3MS1FVVBZMTZoZVBac3RNeU9fdElHUG5lekp2cWNyWFJ6Q3FUbHhMY2xqWVFkWGwtYw?oc=5",
+          "source": "Google News",
+          "published": "Wed, 23 Sep 2026 15:44:21 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Life",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "This new Samsung smartwatch has cured my battery life anxiety - PhoneArena",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYkEtUi1KbEVpRGNxWFhwamdvTHh2V1dmcExRY0N4aVhSeUhyTS1fcnpYenJwazNoXzk5U2poel9mSXVfNTJ6UHRUVWw2WWlOUV9KWDhlbl9KcVJtV21COTBvYjBYVV9OSzA4Z1hRTllwMzVUazRET0lDekRoRUNGMjg0SGc1cEFKeWxtaHZmVy1JMW5MOXNHcFpTSUxJaE1OMlF6VA?oc=5",
+          "source": "Google News",
+          "published": "Wed, 23 Sep 2026 13:22:45 GMT"
+        },
+        {
+          "title": "Jeff Probst Made ‘Survivor’ His Life’s Work. He’s Not Done Yet. - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQenhpd3dMZ2lYQkhhdUZkNElaTVhuMzlHaU81UWtmeFZCTTR1TFN6UHRiaVV3MlBia2I0b1VpZFE4Q2FGRG43Y25OeDB5ckVCZWhlb0VEa3JRMlcwV2VIUkVKTU5kbzNHckpjenlEZUdaRTdNVC0tdUM4MU9ZdmlEdEVxcGVrVnhFdVV6SERVeTVZdkFqS2F3dUZB?oc=5",
+          "source": "Google News",
+          "published": "Thu, 24 Sep 2026 09:01:54 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Next",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Next man up: Ranking the NFL's backup quarterbacks for 6 teams that have had QB1 chaos - Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPc3c4cV9ldktRTy1lWUkwS2wtZXBhaDVzaWZaVXY4WDdaY09lUWlrc1NBSnlMVXpDcnN5bnlNRkpDam9Bb1hpeDU5Sm9QeDVpbm85TmQtR3ZGSC15QldLb2VEOXd5aUZDRnNTakhyUDd4MVo2WjRSTGNLMUxCN0R1MnZvMVV2VjJMVlpLY3dwSTBKeDA4QWxQdkZlZkdtSHhHV3piWkRNSkZmZjRhQUdZU0lNTjBwR1FMNXFSeHhXdXFjR1VhVzRvUVgtZzFKNmQycmc?oc=5",
+          "source": "Google News",
+          "published": "Wed, 23 Sep 2026 20:44:26 GMT"
+        },
+        {
+          "title": "SpaceX's next astronaut launch for NASA now set for Oct. 1 after delay - Space",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcjVTWEJSSS1Ja05hSEFFWktnS19tLVo5UC1kV0NRVnl3b3JPU0dLRU5kb1BPazNpYnVMZWRVcVFjdXpEeHRTdFJaYWNnRUZQdy1LOHI5ejFBdmo0RGZMUGVXXzJXWllwcndrVTNOc0hrX0hRLWVKNmdFSFVnSUxQOFVyNGxpUWU3R0JlQm1PX09ncERaWnNFNHctTEUzUTRyUVY0RkZsNDZKTWhqRjc3VUQ5dEpEdGh4ZHN0X1ZKM3NhTEN4aERJ?oc=5",
+          "source": "Google News",
+          "published": "Wed, 23 Sep 2026 13:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Fossils",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Reference genomes and fossils revise bat family phylogeny and biogeography - nature.com",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zYXJXQzUwTHFTc2dQYk5pd3lfSnBodUxFSTRmcklVUWluR0pjbXp6aE1lUkcyZmEzLWRXQmpuNVhRWUppWmpVV0FKRjlkcU0zSF9GSUd4SHpqbmJPMDhz?oc=5",
+          "source": "Google News",
+          "published": "Wed, 23 Sep 2026 23:32:12 GMT"
+        },
+        {
+          "title": "Fossils found in Southern California could be prehistoric ‘thunder beast’ or ‘swamp rhino’ - fox5sandiego.com",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUlI4SVhQYXJpdDhBLWk2YWhjNXBOYmJVRV9BOGlSTWVxTmkwdVBjQ05iMS1GeFM4QnZhSng4cE5fdWJnZ2piQXdXLXFSb3NnQk00YzJpZ3QzZ2pWRmlkZTVaSjh6czhkd2tMeUhOaVlFR2ZiWFJ2M09sWlRXY3I4c0dncDF4c25HUGdwOF9DY2pVaW16bktMT00wWkFQN0hJZ0p1Qw?oc=5",
+          "source": "Google News",
+          "published": "Wed, 23 Sep 2026 14:54:45 GMT"
+        }
+      ]
+    },
+    {
+      "word": "CNN",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Judge blocks Trump's White House media ban, orders access to be restored - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2V0SEZGX1dfSmIwdGdRLU4zTlFsdVlDa3dXeS1EVnczQV9yUzJIXzN3NVhvR2gzcVBMTFBkY0g2Qk1xWGladm51WVQ1ZkN6Q19MTDAySThlMjhYSzNKaFJYeXFaUnpZNUZ3SkRBcTRVaGFORElVUkdHZG16UXQxcUVuTjROUFFycnNuQi11VDNHdlVtcWZnNTk3bDE?oc=5",
+          "title": "CNN, Politico, MS NOW journalists barred from White House after judge blocks Trump’s ban - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYWRqVjhhMVRSQWVBZ0lXOU1CY3V5bk1rQ1NiSjQ2UHptUnhfVXJLXzhqZ2RoSnNfT3dWOTROUVpsYWJMbGZURUlXOGF3czU4SUlUUXM1X1NPWjBJdTVuV09zVndLMFNPUkZwZzJjN2F4ckVHSkl3NmpmemhZbjVMdzk0NDBLUERuc0UzUXdlX0VyVl8yaFN6MUNYZC0yRlNIdDZLbm9wcHE5T2s?oc=5",
           "source": "Google News",
-          "published": "Thu, 24 Sep 2026 05:07:00 GMT"
+          "published": "Thu, 24 Sep 2026 13:40:39 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Politico",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "CNN, Politico, MS NOW journalists barred from White House after judge blocks Trump’s ban - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYWRqVjhhMVRSQWVBZ0lXOU1CY3V5bk1rQ1NiSjQ2UHptUnhfVXJLXzhqZ2RoSnNfT3dWOTROUVpsYWJMbGZURUlXOGF3czU4SUlUUXM1X1NPWjBJdTVuV09zVndLMFNPUkZwZzJjN2F4ckVHSkl3NmpmemhZbjVMdzk0NDBLUERuc0UzUXdlX0VyVl8yaFN6MUNYZC0yRlNIdDZLbm9wcHE5T2s?oc=5",
+          "source": "Google News",
+          "published": "Thu, 24 Sep 2026 13:40:39 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Journalists",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "CNN, Politico, MS NOW journalists barred from White House after judge blocks Trump’s ban - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYWRqVjhhMVRSQWVBZ0lXOU1CY3V5bk1rQ1NiSjQ2UHptUnhfVXJLXzhqZ2RoSnNfT3dWOTROUVpsYWJMbGZURUlXOGF3czU4SUlUUXM1X1NPWjBJdTVuV09zVndLMFNPUkZwZzJjN2F4ckVHSkl3NmpmemhZbjVMdzk0NDBLUERuc0UzUXdlX0VyVl8yaFN6MUNYZC0yRlNIdDZLbm9wcHE5T2s?oc=5",
+          "source": "Google News",
+          "published": "Thu, 24 Sep 2026 13:40:39 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Barred",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "CNN, Politico, MS NOW journalists barred from White House after judge blocks Trump’s ban - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYWRqVjhhMVRSQWVBZ0lXOU1CY3V5bk1rQ1NiSjQ2UHptUnhfVXJLXzhqZ2RoSnNfT3dWOTROUVpsYWJMbGZURUlXOGF3czU4SUlUUXM1X1NPWjBJdTVuV09zVndLMFNPUkZwZzJjN2F4ckVHSkl3NmpmemhZbjVMdzk0NDBLUERuc0UzUXdlX0VyVl8yaFN6MUNYZC0yRlNIdDZLbm9wcHE5T2s?oc=5",
+          "source": "Google News",
+          "published": "Thu, 24 Sep 2026 13:40:39 GMT"
         }
       ]
     },
@@ -566,140 +467,179 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Judge blocks Trump's White House media ban, orders access to be restored - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2V0SEZGX1dfSmIwdGdRLU4zTlFsdVlDa3dXeS1EVnczQV9yUzJIXzN3NVhvR2gzcVBMTFBkY0g2Qk1xWGladm51WVQ1ZkN6Q19MTDAySThlMjhYSzNKaFJYeXFaUnpZNUZ3SkRBcTRVaGFORElVUkdHZG16UXQxcUVuTjROUFFycnNuQi11VDNHdlVtcWZnNTk3bDE?oc=5",
+          "title": "CNN, Politico, MS NOW journalists barred from White House after judge blocks Trump’s ban - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYWRqVjhhMVRSQWVBZ0lXOU1CY3V5bk1rQ1NiSjQ2UHptUnhfVXJLXzhqZ2RoSnNfT3dWOTROUVpsYWJMbGZURUlXOGF3czU4SUlUUXM1X1NPWjBJdTVuV09zVndLMFNPUkZwZzJjN2F4ckVHSkl3NmpmemhZbjVMdzk0NDBLUERuc0UzUXdlX0VyVl8yaFN6MUNYZC0yRlNIdDZLbm9wcHE5T2s?oc=5",
           "source": "Google News",
-          "published": "Thu, 24 Sep 2026 05:07:00 GMT"
+          "published": "Thu, 24 Sep 2026 13:40:39 GMT"
         }
       ]
     },
     {
-      "word": "Media",
+      "word": "House",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Judge blocks Trump's White House media ban, orders access to be restored - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2V0SEZGX1dfSmIwdGdRLU4zTlFsdVlDa3dXeS1EVnczQV9yUzJIXzN3NVhvR2gzcVBMTFBkY0g2Qk1xWGladm51WVQ1ZkN6Q19MTDAySThlMjhYSzNKaFJYeXFaUnpZNUZ3SkRBcTRVaGFORElVUkdHZG16UXQxcUVuTjROUFFycnNuQi11VDNHdlVtcWZnNTk3bDE?oc=5",
+          "title": "CNN, Politico, MS NOW journalists barred from White House after judge blocks Trump’s ban - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYWRqVjhhMVRSQWVBZ0lXOU1CY3V5bk1rQ1NiSjQ2UHptUnhfVXJLXzhqZ2RoSnNfT3dWOTROUVpsYWJMbGZURUlXOGF3czU4SUlUUXM1X1NPWjBJdTVuV09zVndLMFNPUkZwZzJjN2F4ckVHSkl3NmpmemhZbjVMdzk0NDBLUERuc0UzUXdlX0VyVl8yaFN6MUNYZC0yRlNIdDZLbm9wcHE5T2s?oc=5",
           "source": "Google News",
-          "published": "Thu, 24 Sep 2026 05:07:00 GMT"
+          "published": "Thu, 24 Sep 2026 13:40:39 GMT"
         }
       ]
     },
     {
-      "word": "Orders",
+      "word": "Judge",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Judge blocks Trump's White House media ban, orders access to be restored - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2V0SEZGX1dfSmIwdGdRLU4zTlFsdVlDa3dXeS1EVnczQV9yUzJIXzN3NVhvR2gzcVBMTFBkY0g2Qk1xWGladm51WVQ1ZkN6Q19MTDAySThlMjhYSzNKaFJYeXFaUnpZNUZ3SkRBcTRVaGFORElVUkdHZG16UXQxcUVuTjROUFFycnNuQi11VDNHdlVtcWZnNTk3bDE?oc=5",
+          "title": "CNN, Politico, MS NOW journalists barred from White House after judge blocks Trump’s ban - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYWRqVjhhMVRSQWVBZ0lXOU1CY3V5bk1rQ1NiSjQ2UHptUnhfVXJLXzhqZ2RoSnNfT3dWOTROUVpsYWJMbGZURUlXOGF3czU4SUlUUXM1X1NPWjBJdTVuV09zVndLMFNPUkZwZzJjN2F4ckVHSkl3NmpmemhZbjVMdzk0NDBLUERuc0UzUXdlX0VyVl8yaFN6MUNYZC0yRlNIdDZLbm9wcHE5T2s?oc=5",
           "source": "Google News",
-          "published": "Thu, 24 Sep 2026 05:07:00 GMT"
+          "published": "Thu, 24 Sep 2026 13:40:39 GMT"
         }
       ]
     },
     {
-      "word": "Access",
+      "word": "Blocks",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Judge blocks Trump's White House media ban, orders access to be restored - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2V0SEZGX1dfSmIwdGdRLU4zTlFsdVlDa3dXeS1EVnczQV9yUzJIXzN3NVhvR2gzcVBMTFBkY0g2Qk1xWGladm51WVQ1ZkN6Q19MTDAySThlMjhYSzNKaFJYeXFaUnpZNUZ3SkRBcTRVaGFORElVUkdHZG16UXQxcUVuTjROUFFycnNuQi11VDNHdlVtcWZnNTk3bDE?oc=5",
+          "title": "CNN, Politico, MS NOW journalists barred from White House after judge blocks Trump’s ban - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYWRqVjhhMVRSQWVBZ0lXOU1CY3V5bk1rQ1NiSjQ2UHptUnhfVXJLXzhqZ2RoSnNfT3dWOTROUVpsYWJMbGZURUlXOGF3czU4SUlUUXM1X1NPWjBJdTVuV09zVndLMFNPUkZwZzJjN2F4ckVHSkl3NmpmemhZbjVMdzk0NDBLUERuc0UzUXdlX0VyVl8yaFN6MUNYZC0yRlNIdDZLbm9wcHE5T2s?oc=5",
           "source": "Google News",
-          "published": "Thu, 24 Sep 2026 05:07:00 GMT"
+          "published": "Thu, 24 Sep 2026 13:40:39 GMT"
         }
       ]
     },
     {
-      "word": "Restored",
+      "word": "ban",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Judge blocks Trump's White House media ban, orders access to be restored - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2V0SEZGX1dfSmIwdGdRLU4zTlFsdVlDa3dXeS1EVnczQV9yUzJIXzN3NVhvR2gzcVBMTFBkY0g2Qk1xWGladm51WVQ1ZkN6Q19MTDAySThlMjhYSzNKaFJYeXFaUnpZNUZ3SkRBcTRVaGFORElVUkdHZG16UXQxcUVuTjROUFFycnNuQi11VDNHdlVtcWZnNTk3bDE?oc=5",
+          "title": "CNN, Politico, MS NOW journalists barred from White House after judge blocks Trump’s ban - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYWRqVjhhMVRSQWVBZ0lXOU1CY3V5bk1rQ1NiSjQ2UHptUnhfVXJLXzhqZ2RoSnNfT3dWOTROUVpsYWJMbGZURUlXOGF3czU4SUlUUXM1X1NPWjBJdTVuV09zVndLMFNPUkZwZzJjN2F4ckVHSkl3NmpmemhZbjVMdzk0NDBLUERuc0UzUXdlX0VyVl8yaFN6MUNYZC0yRlNIdDZLbm9wcHE5T2s?oc=5",
           "source": "Google News",
-          "published": "Thu, 24 Sep 2026 05:07:00 GMT"
+          "published": "Thu, 24 Sep 2026 13:40:39 GMT"
         }
       ]
     },
     {
-      "word": "Gives",
+      "word": "Leaders",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump gives Xi Jinping rare airport welcome as summit visit begins - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdHhaaUFNQmIxNFF4eFUxelRnUVFBNE5BWUlLcEx3OENoWWRaaXdfTzhHcDhqWUwyNVNNazQtMGZVVmpIYnB2UXZWVGJSNTBfVVVSeXN6TG15SUFNSU5UYlpjRV95Y1g3TkkxNjdrZ205ZXYxS0NWa1RsN2d6M2lXQ2MxeW9BalFUd1NBM0ZtLTEyYXNKNUl6TVhIdnBKR1cxemlhYlp1b1Y0eTJLT0pR?oc=5",
+          "title": "Trump-Xi live updates: leaders of US and China to talk AI and trade in major Washington meeting - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR2J2dXpTbXlfWFcxbldGenBkTWFXU1BCWG9yamdJN2VpMEpQM0VfdTgwd0dsSXMwb1B6WlhhNnptUE1FZHFhYkdhVE9tcTBpWEhhU1J1dGc0RDhyN2hRamNLcG1fWC15NUpOZ2JlaU5XcjJZY252ck1abHk3M2htWmR4bjE0T1BUWkhaeDh3NmtIaDlkNWpsN21TS1FvenlIVGoyaUdwMTk4Yks4Q0locg?oc=5",
           "source": "Google News",
-          "published": "Thu, 24 Sep 2026 06:10:21 GMT"
+          "published": "Thu, 24 Sep 2026 13:30:00 GMT"
         }
       ]
     },
     {
-      "word": "Jinping",
+      "word": "China",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump gives Xi Jinping rare airport welcome as summit visit begins - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdHhaaUFNQmIxNFF4eFUxelRnUVFBNE5BWUlLcEx3OENoWWRaaXdfTzhHcDhqWUwyNVNNazQtMGZVVmpIYnB2UXZWVGJSNTBfVVVSeXN6TG15SUFNSU5UYlpjRV95Y1g3TkkxNjdrZ205ZXYxS0NWa1RsN2d6M2lXQ2MxeW9BalFUd1NBM0ZtLTEyYXNKNUl6TVhIdnBKR1cxemlhYlp1b1Y0eTJLT0pR?oc=5",
+          "title": "Trump-Xi live updates: leaders of US and China to talk AI and trade in major Washington meeting - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR2J2dXpTbXlfWFcxbldGenBkTWFXU1BCWG9yamdJN2VpMEpQM0VfdTgwd0dsSXMwb1B6WlhhNnptUE1FZHFhYkdhVE9tcTBpWEhhU1J1dGc0RDhyN2hRamNLcG1fWC15NUpOZ2JlaU5XcjJZY252ck1abHk3M2htWmR4bjE0T1BUWkhaeDh3NmtIaDlkNWpsN21TS1FvenlIVGoyaUdwMTk4Yks4Q0locg?oc=5",
           "source": "Google News",
-          "published": "Thu, 24 Sep 2026 06:10:21 GMT"
+          "published": "Thu, 24 Sep 2026 13:30:00 GMT"
         }
       ]
     },
     {
-      "word": "Rare",
+      "word": "Talk",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump gives Xi Jinping rare airport welcome as summit visit begins - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdHhaaUFNQmIxNFF4eFUxelRnUVFBNE5BWUlLcEx3OENoWWRaaXdfTzhHcDhqWUwyNVNNazQtMGZVVmpIYnB2UXZWVGJSNTBfVVVSeXN6TG15SUFNSU5UYlpjRV95Y1g3TkkxNjdrZ205ZXYxS0NWa1RsN2d6M2lXQ2MxeW9BalFUd1NBM0ZtLTEyYXNKNUl6TVhIdnBKR1cxemlhYlp1b1Y0eTJLT0pR?oc=5",
+          "title": "Trump-Xi live updates: leaders of US and China to talk AI and trade in major Washington meeting - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR2J2dXpTbXlfWFcxbldGenBkTWFXU1BCWG9yamdJN2VpMEpQM0VfdTgwd0dsSXMwb1B6WlhhNnptUE1FZHFhYkdhVE9tcTBpWEhhU1J1dGc0RDhyN2hRamNLcG1fWC15NUpOZ2JlaU5XcjJZY252ck1abHk3M2htWmR4bjE0T1BUWkhaeDh3NmtIaDlkNWpsN21TS1FvenlIVGoyaUdwMTk4Yks4Q0locg?oc=5",
           "source": "Google News",
-          "published": "Thu, 24 Sep 2026 06:10:21 GMT"
+          "published": "Thu, 24 Sep 2026 13:30:00 GMT"
         }
       ]
     },
     {
-      "word": "Airport",
+      "word": "Trade",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump gives Xi Jinping rare airport welcome as summit visit begins - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdHhaaUFNQmIxNFF4eFUxelRnUVFBNE5BWUlLcEx3OENoWWRaaXdfTzhHcDhqWUwyNVNNazQtMGZVVmpIYnB2UXZWVGJSNTBfVVVSeXN6TG15SUFNSU5UYlpjRV95Y1g3TkkxNjdrZ205ZXYxS0NWa1RsN2d6M2lXQ2MxeW9BalFUd1NBM0ZtLTEyYXNKNUl6TVhIdnBKR1cxemlhYlp1b1Y0eTJLT0pR?oc=5",
+          "title": "Trump-Xi live updates: leaders of US and China to talk AI and trade in major Washington meeting - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR2J2dXpTbXlfWFcxbldGenBkTWFXU1BCWG9yamdJN2VpMEpQM0VfdTgwd0dsSXMwb1B6WlhhNnptUE1FZHFhYkdhVE9tcTBpWEhhU1J1dGc0RDhyN2hRamNLcG1fWC15NUpOZ2JlaU5XcjJZY252ck1abHk3M2htWmR4bjE0T1BUWkhaeDh3NmtIaDlkNWpsN21TS1FvenlIVGoyaUdwMTk4Yks4Q0locg?oc=5",
           "source": "Google News",
-          "published": "Thu, 24 Sep 2026 06:10:21 GMT"
+          "published": "Thu, 24 Sep 2026 13:30:00 GMT"
         }
       ]
     },
     {
-      "word": "Welcome",
+      "word": "Washington",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump gives Xi Jinping rare airport welcome as summit visit begins - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdHhaaUFNQmIxNFF4eFUxelRnUVFBNE5BWUlLcEx3OENoWWRaaXdfTzhHcDhqWUwyNVNNazQtMGZVVmpIYnB2UXZWVGJSNTBfVVVSeXN6TG15SUFNSU5UYlpjRV95Y1g3TkkxNjdrZ205ZXYxS0NWa1RsN2d6M2lXQ2MxeW9BalFUd1NBM0ZtLTEyYXNKNUl6TVhIdnBKR1cxemlhYlp1b1Y0eTJLT0pR?oc=5",
+          "title": "Trump-Xi live updates: leaders of US and China to talk AI and trade in major Washington meeting - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR2J2dXpTbXlfWFcxbldGenBkTWFXU1BCWG9yamdJN2VpMEpQM0VfdTgwd0dsSXMwb1B6WlhhNnptUE1FZHFhYkdhVE9tcTBpWEhhU1J1dGc0RDhyN2hRamNLcG1fWC15NUpOZ2JlaU5XcjJZY252ck1abHk3M2htWmR4bjE0T1BUWkhaeDh3NmtIaDlkNWpsN21TS1FvenlIVGoyaUdwMTk4Yks4Q0locg?oc=5",
           "source": "Google News",
-          "published": "Thu, 24 Sep 2026 06:10:21 GMT"
+          "published": "Thu, 24 Sep 2026 13:30:00 GMT"
         }
       ]
     },
     {
-      "word": "Summit",
+      "word": "Meeting",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump gives Xi Jinping rare airport welcome as summit visit begins - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdHhaaUFNQmIxNFF4eFUxelRnUVFBNE5BWUlLcEx3OENoWWRaaXdfTzhHcDhqWUwyNVNNazQtMGZVVmpIYnB2UXZWVGJSNTBfVVVSeXN6TG15SUFNSU5UYlpjRV95Y1g3TkkxNjdrZ205ZXYxS0NWa1RsN2d6M2lXQ2MxeW9BalFUd1NBM0ZtLTEyYXNKNUl6TVhIdnBKR1cxemlhYlp1b1Y0eTJLT0pR?oc=5",
+          "title": "Trump-Xi live updates: leaders of US and China to talk AI and trade in major Washington meeting - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR2J2dXpTbXlfWFcxbldGenBkTWFXU1BCWG9yamdJN2VpMEpQM0VfdTgwd0dsSXMwb1B6WlhhNnptUE1FZHFhYkdhVE9tcTBpWEhhU1J1dGc0RDhyN2hRamNLcG1fWC15NUpOZ2JlaU5XcjJZY252ck1abHk3M2htWmR4bjE0T1BUWkhaeDh3NmtIaDlkNWpsN21TS1FvenlIVGoyaUdwMTk4Yks4Q0locg?oc=5",
           "source": "Google News",
-          "published": "Thu, 24 Sep 2026 06:10:21 GMT"
+          "published": "Thu, 24 Sep 2026 13:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Openai",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "OpenAI’s agents breached Australian government data. Its human response may do more damage. - Politico",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQzEwX09ETllOandOaE5Pa3JpMU1LVUlKcS02ZkdEQnhVVGs0QWVlSWpHMm5ibTdaajNhbVpaNE9EVDdxbW00blhHbjlHcE53cDNXbUc2ZjFjcUtUbXYtYXc2ejNKdVdLTGI1YU5UNDNTXzFiQjlTMmpRY00xVzBLRTY0NHJWbUIyYzdyS3NUQVRHN0U?oc=5",
+          "source": "Google News",
+          "published": "Thu, 24 Sep 2026 11:47:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Agents",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "OpenAI’s agents breached Australian government data. Its human response may do more damage. - Politico",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQzEwX09ETllOandOaE5Pa3JpMU1LVUlKcS02ZkdEQnhVVGs0QWVlSWpHMm5ibTdaajNhbVpaNE9EVDdxbW00blhHbjlHcE53cDNXbUc2ZjFjcUtUbXYtYXc2ejNKdVdLTGI1YU5UNDNTXzFiQjlTMmpRY00xVzBLRTY0NHJWbUIyYzdyS3NUQVRHN0U?oc=5",
+          "source": "Google News",
+          "published": "Thu, 24 Sep 2026 11:47:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Breached",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "OpenAI’s agents breached Australian government data. Its human response may do more damage. - Politico",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQzEwX09ETllOandOaE5Pa3JpMU1LVUlKcS02ZkdEQnhVVGs0QWVlSWpHMm5ibTdaajNhbVpaNE9EVDdxbW00blhHbjlHcE53cDNXbUc2ZjFjcUtUbXYtYXc2ejNKdVdLTGI1YU5UNDNTXzFiQjlTMmpRY00xVzBLRTY0NHJWbUIyYzdyS3NUQVRHN0U?oc=5",
+          "source": "Google News",
+          "published": "Thu, 24 Sep 2026 11:47:00 GMT"
         }
       ]
     }
