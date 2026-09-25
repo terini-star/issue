@@ -1,155 +1,118 @@
 {
   "language": "en",
-  "last_updated": 1790343225.962996,
+  "last_updated": 1790360784.0342567,
   "count": 40,
   "trends": [
     {
-      "word": "Trump",
-      "count": 5,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Diplomacy or ‘diplotainment’? Key takeaways from the Trump-Xi summit in Washington - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVTBpVk8wYXRNZG1HUENzb2NnbUZnQXBqSEY5X1VEdGZmRXRPTjN1dERqMTR5VzJtdk5aNURNQnE1aDZOOFI5MlQ3TmlEaDdsSlJyU2o4bjlKYVlIdFMwY3pqTHg2VXotZFVQSkY1VmZERU40bXlQaF81NnVWZWhwUHFTSWVWMXpjRUx0bkNHN3phR21hV1hTdmp4dGp2eWpDRndwTV9n?oc=5",
-          "source": "Google News",
-          "published": "Fri, 25 Sep 2026 11:58:00 GMT"
-        },
-        {
-          "title": "US Senate rejects resolution curbing Trump's Iran war powers - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNODVQSjliMlBWTFZPaHV3aXY5Y3hMVGl0dWc0bTRDdGxOU1NhOXZJVmx1eWh2Q3VmX0h3UWZnOVZlODRXcEU1LVNtWHpVSDNVOGpmU3BWVVNzUzd1T1d5UlRLcktuVENkeGpMem1FcmJkUWVoR1dpMFY0QnZ1ZDZZV0pHczRpOWI4ZnZtRS1CdGUzQlZMUlRzazU5dk9yZUl6NjdlMlNFSQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 18:51:47 GMT"
-        },
-        {
-          "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ISWNpUkw1S1F4Z1JEQTdJU0hNS1hoS1pqOGhZcXU5SGtCMXk1RktrVmoySDlDTGo4aVRRaGxjLWR6cE9EMURuTVN5UVpsc05TbE5kVDhKSzluN1k?oc=5",
-          "source": "Google News",
-          "published": "Fri, 25 Sep 2026 01:10:35 GMT"
-        },
-        {
-          "title": "With Republicans under pressure, Trump’s White House starts bending - Politico",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQXhLQ2J1V2VsTVlmSXpKYTNBeWpubThGcnFqSm5xRXBoSnBHSUEzSGVvSG8ySHJDTWNLN2ctU1lJdjREcEtfaUliMVhya29lNzBqc1NPRXBoYnZlMnlfT0YwbDhpcFpSa19iLTlEY01MTTlWdFRodnpxWC1BaVQyaFVEYzYwQ2t1Z3R0SUFDVHFmb1FZME1mRW1oQ1dtR25ZMXRjQ1QwejI2RjM2OHMxZndWZEtPRkg5Q3daUndNSDZCMlhOWVBrVHFubWNFVTlHTWc1SEk1MW56amZCYUQ5X2dreHFQSkNCal9sYQ?oc=5",
-          "source": "Google News",
-          "published": "Fri, 25 Sep 2026 09:50:00 GMT"
-        },
-        {
-          "title": "Sen. Duckworth slams Trump's \"foolhardy plan\" to make triumphal arch a military complex - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSll6N0EwbEVIc2lsTEpJQ0JMNl9zWHJxaW1RMGlQa2J5Z3llSzViSkRndFBycGlfSHotaWM1c2Rpc2ZSeDFIbkhLWEQzc0JIaDZGanVFdmNpWlB2NDZnVllSMWIwVXlGRHBRUl9mc3Ata1pnUG8tOGZzSVFWbFROZ0ZMa0ptRGhuM284N3hYSWV5S1RJaWhj?oc=5",
-          "source": "Google News",
-          "published": "Fri, 25 Sep 2026 11:00:12 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Stock",
-      "count": 4,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Stock Market Today: Bond Selloff Abates as Oil Price Slips — Live Updates - wsj.com",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdzJlV1lCRUFaS3NFZVdBQ0pzbGZWS0xieVRwbHUtaHRMSTJJU0xqT25TQjg1R2M4OU5UTHNFQ3F5enpXNkpCMmZUWVNFOVJ2NWVxN25QeWxLVkJGdVlVVmx0cDFxdFBwVkZwcy1ZM3pGSXpnVzVmMDBjNUs5R1NjZWNPalFfTEk?oc=5",
-          "source": "Google News",
-          "published": "Fri, 25 Sep 2026 12:15:00 GMT"
-        },
-        {
-          "title": "Stock Market Today: Dow Slides As Treasury Yields Surge; Nvidia Slips While Micron Rises - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN2l0R0JrY2c1cDFCU0VsV3p4d0hhLVp4Q2Q5aEVYUkYwd0o0dW1QMjRPYXVZaFNzbzczOVEzeFZTbENFQWZOVHdtX0NSZi1DVFFXWkpVb3JnLWM1eF9nbkpkSkdtMGE3XzV4NFdPZG9ha3E4YWZQZWpiQkNKZDZwWE5EeHk0cnd3LWh3QUozMUdWQ2NXS2xuWE9uMFJFaFFjMERDSTFLcjJNLW5RQVU2SkhZVU11R0N0WlFCMTI2VEhsWDg?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 20:34:00 GMT"
-        },
-        {
-          "title": "Costco Wholesale Beats Earnings Estimates. Its Stock Is Down. - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zV29kdWNHTkwtVW5BZDlKQnZKcGZiQndadjk0N3RqUXpuR0N5a0I0M0RPLVlMdThReUlfQmdzQkVtUGxXSGJ5bEpRd2hoZjdxYTVoQ3ZfV2pnajJHS29DcThRZlNXdnc1LTA4VGhoVGF6ZVVGcWpnVw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 25 Sep 2026 09:38:45 GMT"
-        },
-        {
-          "title": "Meta Launches $1M Developer Competition to Stock 'VR Glasses' with More Hand-tracked Apps - roadtovr.com",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85WjZfU09ubnpHalNydFNQZEpZU21HenlQX044Q3FIa2FFUlZUYjRrSHloWDVUbTE3dnJpSms0YTdxUHhRRVlKckJCdmtjWmIxTEg5Z1U2bDhLR3JYcnZxbkR2d0ZTdk1TZFZubjZR?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 18:35:13 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Week",
+      "word": "Court",
       "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Paramount Merger Settlement Won’t Be Resolved Until At Least Next Week As Judge Questions Agreement - forbes.com",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZGpLMXFwa2k0UDVXQ3lGYUpwLUFqTFFCLU9qWkVqMDJUdmF2NGZpU3c1bkM1bkJQeE9YRlVmQ003Ujc4R3JzcVQ4R2lhTnZKN2xUQlIzM1BSdV9za2FHOFpTZ1BSekNoLXI4dXVjb0tQTk40cVY2VzVUMFVEQnd6X1VxTHVoenJadGgtVDV3cHdvd2lOYWR6SzJHT3Q4bWNBY3lBMVJwajc1MWgxWFNXblEzNDl0RU91MmdOLVFGeGhyU0FFZHY4a2huenFHRTZXbW9tMmk4X01BcFUtZFdSa1RNalRqSEk?oc=5",
+          "title": "The Supreme Court revives a controversial data system for citizenship checks - NPR",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQzAxcThPaUFnelBOeXVSNWtCSElWQ09LVVRwcGY1Zkdlc2xzSUNzMnBMLXV3NUZnTkJCaWcyREVWUnMxb0xVckpjbnRqemhzakNnQ250UWNjMkVzanJDLWtlaWtlaC1CczhmZ2hnb0FsSXg3ekhRdUl3WnpwVDd4bkRTVXhtdk1ndUJEUHUtNjA?oc=5",
           "source": "Google News",
-          "published": "Thu, 24 Sep 2026 20:20:00 GMT"
+          "published": "Fri, 25 Sep 2026 17:01:15 GMT"
         },
         {
-          "title": "Week 4’s top 10 college football games: Texas-Tennessee, Oregon-USC, Texas A&M-LSU and more - The Athletic - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUVBUQ1lSdktUd1NKRGRURVN3djFNS2RGdU1wRkRFcmVZc0JOeWpwQlBkMDFYa0xTTXRUNVllM2htbnBhUXpBVEx4dDdmRnh0VFdOMmxucXNTbjE1UVp4TEdKS1VTdU5xZWZGM0RpdGMySGJFUTQ3T1FEU3pORC1iRDI1VGhETldKRW5RUVpOOA?oc=5",
+          "title": "Ketanji Brown Jackson criticizes supreme court’s handling of emergency docket - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ3MtNXd1cS1ka3cwMEJiMmtjNllmbEZlR1EybmdIN0RPN1JwZkxrNUhtdWZPbHpCSWVYZEZZbE16ektKNlRRcEQ3cXUxZlg5RGZwb0ZjUFJ5bEZnVi13YTlFYWlQbzFXUFdNVXc3cmxmdllsb2x5RzVqY2s3NEJVVUZqaTBINVJCZ2hBcE1tbDV0QWQzZ1JrYktKV050dWRfcnc?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 09:00:26 GMT"
+          "published": "Fri, 25 Sep 2026 16:11:00 GMT"
         },
         {
-          "title": "Catch 5 planets and the Harvest Moon lighting up the sky this week - The Weather Channel",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOGFTTEx1QVJzZ1FneWlEXzZXR2dGZjV6MXpUVTRWcUZCbjB3UVVyMGRQX29CRjd4MkhoT2ltS05HeTZuWE14N0QwSzlSVHRvNDdlZWRfV0tza3kyMldpN0dQbFlVZnEzRjFxbG92bTN6ZEdXTnlEcHJWZjE4UzlZSG9iOTJYMEw1U0NUUXZuZ1hwYk9YbDBYeXRJTGM?oc=5",
+          "title": "Block the Merger Coalition Asks Court to Reject Paramount’s Settlement With States Over Warner Bros. Deal - Variety",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWFUzT3FfSmt2NFJvTFBFSllCQ1g2WWt4bzlEQkFKeC1JZWNCOHBmb1lzNXA5XzYwWE9rNXRJT0ZpVThOTjhtQWxFUGtqT0RweEtOdlFZVHVvdUNiT0lmZHNLUjFkaGdoOUQ4cDg4YnZXelU3SUQ2d204RENJU2ZWUmg2bkQ2X01LRHNSVzQtN1NfWGptSlh1aVVMR0o?oc=5",
           "source": "Google News",
-          "published": "Thu, 24 Sep 2026 10:48:00 GMT"
+          "published": "Fri, 25 Sep 2026 09:49:00 GMT"
         }
       ]
     },
     {
-      "word": "war",
-      "count": 2,
+      "word": "Trump",
+      "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "US Senate rejects resolution curbing Trump's Iran war powers - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNODVQSjliMlBWTFZPaHV3aXY5Y3hMVGl0dWc0bTRDdGxOU1NhOXZJVmx1eWh2Q3VmX0h3UWZnOVZlODRXcEU1LVNtWHpVSDNVOGpmU3BWVVNzUzd1T1d5UlRLcktuVENkeGpMem1FcmJkUWVoR1dpMFY0QnZ1ZDZZV0pHczRpOWI4ZnZtRS1CdGUzQlZMUlRzazU5dk9yZUl6NjdlMlNFSQ?oc=5",
+          "title": "Trump-Xi visit wraps up with few achievements announced - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU1F6dWRlbTNWNnJPa21UVXhzOWtkd0xJZFFGbmFpUmRuSjRLMFBFSThXU3YxS3BseEdVaFljREtKQTlvdFlDQVBMS3FuR1JNZWE2WDhTc1hHWEV4aTBJYTJWbEdRTWZJNW8tZzVoYVVRRzdmRVk5c3BQbkQzbElZcERrVjNJTk1zRXhyc3hXVzd0VjNB?oc=5",
           "source": "Google News",
-          "published": "Thu, 24 Sep 2026 18:51:47 GMT"
+          "published": "Fri, 25 Sep 2026 17:46:53 GMT"
         },
         {
-          "title": "Internet and phone network disrupted in Ethiopia's war-hit Tigray region - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbDJJMmIzb3BPa0Q5MUYtLVNzSk1CdzRVWHB6QVBOTU5MeG1yVmZZQWNnQ2dhUHRGbTZqQnNoU2xBUzRzM2lGM25zMnZRc2tGVUpaMzR1dVBhLVVrazc2WkN0V1pKcTdKRzU4VkVPTzNPRGNMQm5MeFNrZU94M253OWRFZjZfenhpT29qY091RGN5ajRNV1dTbHUxM0N1QXgwYmJiOExqaldneEdfbXF2QVBWTmZNcFU?oc=5",
+          "title": "Man shot during 2024 Trump campaign rally in Butler dies - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lMGg1T3RPRlZyVEhrMXE1bzNWc0JyMjA4ekFBbUYwc0laZC0zOGVDVHZ3TldYYUNpOVB6VG1TdlBqYlBTUEpBdVZlV19QeEk3NzFWWWNtNlp5TGM?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 05:42:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Food",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Unused Tents and Uneaten Food: Watchdog Finds ‘Waste’ in Immigration Crackdown - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMUkzc2NPMnUtT3B5c0Naa09fQUFZdlJDRWdMTkVNVEVJNWwwVDFobTZ1dkZkNk9uVjZWOXBjNkw2LV9LcV9zYk4tazh1Z2hMaHlOMlV1Y1Fab001U0xQT3h6Tld3bW1weWJiSHFORTFtM08ydlRvMXBaSVJLd1ZROHpseXdvYTlneDV3NXBURk01VlBZeWlJMUx3?oc=5",
-          "source": "Google News",
-          "published": "Fri, 25 Sep 2026 00:00:24 GMT"
-        },
-        {
-          "title": "A dolphin in Australia steals food from fish in the grossest way - Boing Boing",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR2pJMmJqYjVKX05TZmM5Z3RWZWhQS1I4VDFHR2EzbG9BR2RxSmlxcUtVWlExZFdRb0pnYWpYMnIzTmRZUGItSFJiRHV2VHU3NmhXMjZrcUNtOVVGaGZxU1hxMWx3UzcyOG8xX29RRzZuQUV2UlBaWFRJc3c2Vk1qZHhYRVE2RDlaZlFLdWdoeEw1S2JRN2M5V19LR0xLSFlD0gGmAUFVX3lxTE8tQVBqZXAzajRXZF9vS19LVERlaHpncVZzRU44ZlYtN2ZaaUZCSFBReGNaUVpzVjlVVTRablktcFZNMVV3c0RXM19tN0pHRmc3VFFPRFgteUF1TmY2dFBja01MUTl5QTVUVE1XaE1LaWhKZklTSnVJLTRjdkN2MUc0c0gyN0x1VUVNZmRZUEc0UVJDVWwyY3lHM0ZucktOWDZVbXBKbVE?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 17:25:24 GMT"
-        }
-      ]
-    },
-    {
-      "word": "White",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ISWNpUkw1S1F4Z1JEQTdJU0hNS1hoS1pqOGhZcXU5SGtCMXk1RktrVmoySDlDTGo4aVRRaGxjLWR6cE9EMURuTVN5UVpsc05TbE5kVDhKSzluN1k?oc=5",
-          "source": "Google News",
-          "published": "Fri, 25 Sep 2026 01:10:35 GMT"
+          "published": "Fri, 25 Sep 2026 13:23:33 GMT"
         },
         {
           "title": "With Republicans under pressure, Trump’s White House starts bending - Politico",
           "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQXhLQ2J1V2VsTVlmSXpKYTNBeWpubThGcnFqSm5xRXBoSnBHSUEzSGVvSG8ySHJDTWNLN2ctU1lJdjREcEtfaUliMVhya29lNzBqc1NPRXBoYnZlMnlfT0YwbDhpcFpSa19iLTlEY01MTTlWdFRodnpxWC1BaVQyaFVEYzYwQ2t1Z3R0SUFDVHFmb1FZME1mRW1oQ1dtR25ZMXRjQ1QwejI2RjM2OHMxZndWZEtPRkg5Q3daUndNSDZCMlhOWVBrVHFubWNFVTlHTWc1SEk1MW56amZCYUQ5X2dreHFQSkNCal9sYQ?oc=5",
           "source": "Google News",
           "published": "Fri, 25 Sep 2026 09:50:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Warns",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Pope Leo warns of AI threat to humanity at start of three-day France visit - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ3g5REFXVVI4ZEFzU2p3NDNtckJDemE4Y3VFOVlpc1N2aTE1NzhQMUU0WjhYb0dKRHNkTWhsQkRGZkxWVmh2RlV6eEgxNzhvdTdwOV9FcUFEc05vZzQxRk5PbWFvMTEzSTZKWFpmQXZCa0hyS1ZZLXVzQktGSDI0TlpXdUVqeGRjZVU1WmozZm94SzZDdVdLWlFyNDNndndF?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 17:22:00 GMT"
+        },
+        {
+          "title": "Russia could attack a NATO country within months, Danish intelligence warns - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41UlFwaElZbGR1bnBlaDFQU0ZUaEE4VS1hcXdtMG9vZGY5YU9WUTFjZEJkQlBab2QxQmwxTWRQbnJQTndMWDJ4MDc4WXQwVTdmSEVoY2ZVTy1ZWkRkNTdnQUdZOWJjakJfaXowaklhX3VlWkpiR1ZvTWdWeGNScUHSAYQBQVVfeXFMUDF6alVyYVFvbHdUZ2oxeW1XaFRWMVZyVjZHcTF6ZHZkZVZMU2lxcGRRRmVDUU9IaWV6R3A1QUhrZFk3WUgwemZSMGxLcUdJaXNkQXhEeGdhVlBKVjZLUnhvUndLaGFWcDAyVF9qaEN6YlN1V192S3lYQ2tyYVlaTjVaWWFs?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 08:26:07 GMT"
+        },
+        {
+          "title": "Bill Gates warns AI is powerful enough to cause \"a billion deaths\" - Axios",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tQUNEWW9VV3NaZHpkRGZXWFFxUEZWOTNiMzlNMEcxNWhrOFF3eE1aR0pmTzhXNDZuN2ZJTnNEU19nZEoycWFobDJQZ1hEblJ0TkQySGNINFRZVm5pSWpTYmpyck9BQVpQUmc?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 13:14:07 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Supreme",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "The Supreme Court revives a controversial data system for citizenship checks - NPR",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQzAxcThPaUFnelBOeXVSNWtCSElWQ09LVVRwcGY1Zkdlc2xzSUNzMnBMLXV3NUZnTkJCaWcyREVWUnMxb0xVckpjbnRqemhzakNnQ250UWNjMkVzanJDLWtlaWtlaC1CczhmZ2hnb0FsSXg3ekhRdUl3WnpwVDd4bkRTVXhtdk1ndUJEUHUtNjA?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 17:01:15 GMT"
+        },
+        {
+          "title": "Ketanji Brown Jackson criticizes supreme court’s handling of emergency docket - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ3MtNXd1cS1ka3cwMEJiMmtjNllmbEZlR1EybmdIN0RPN1JwZkxrNUhtdWZPbHpCSWVYZEZZbE16ektKNlRRcEQ3cXUxZlg5RGZwb0ZjUFJ5bEZnVi13YTlFYWlQbzFXUFdNVXc3cmxmdllsb2x5RzVqY2s3NEJVVUZqaTBINVJCZ2hBcE1tbDV0QWQzZ1JrYktKV050dWRfcnc?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 16:11:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Visit",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump-Xi visit wraps up with few achievements announced - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU1F6dWRlbTNWNnJPa21UVXhzOWtkd0xJZFFGbmFpUmRuSjRLMFBFSThXU3YxS3BseEdVaFljREtKQTlvdFlDQVBMS3FuR1JNZWE2WDhTc1hHWEV4aTBJYTJWbEdRTWZJNW8tZzVoYVVRRzdmRVk5c3BQbkQzbElZcERrVjNJTk1zRXhyc3hXVzd0VjNB?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 17:46:53 GMT"
+        },
+        {
+          "title": "Pope Leo warns of AI threat to humanity at start of three-day France visit - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ3g5REFXVVI4ZEFzU2p3NDNtckJDemE4Y3VFOVlpc1N2aTE1NzhQMUU0WjhYb0dKRHNkTWhsQkRGZkxWVmh2RlV6eEgxNzhvdTdwOV9FcUFEc05vZzQxRk5PbWFvMTEzSTZKWFpmQXZCa0hyS1ZZLXVzQktGSDI0TlpXdUVqeGRjZVU1WmozZm94SzZDdVdLWlFyNDNndndF?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 17:22:00 GMT"
         }
       ]
     },
@@ -159,54 +122,67 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ISWNpUkw1S1F4Z1JEQTdJU0hNS1hoS1pqOGhZcXU5SGtCMXk1RktrVmoySDlDTGo4aVRRaGxjLWR6cE9EMURuTVN5UVpsc05TbE5kVDhKSzluN1k?oc=5",
-          "source": "Google News",
-          "published": "Fri, 25 Sep 2026 01:10:35 GMT"
-        },
-        {
           "title": "With Republicans under pressure, Trump’s White House starts bending - Politico",
           "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQXhLQ2J1V2VsTVlmSXpKYTNBeWpubThGcnFqSm5xRXBoSnBHSUEzSGVvSG8ySHJDTWNLN2ctU1lJdjREcEtfaUliMVhya29lNzBqc1NPRXBoYnZlMnlfT0YwbDhpcFpSa19iLTlEY01MTTlWdFRodnpxWC1BaVQyaFVEYzYwQ2t1Z3R0SUFDVHFmb1FZME1mRW1oQ1dtR25ZMXRjQ1QwejI2RjM2OHMxZndWZEtPRkg5Q3daUndNSDZCMlhOWVBrVHFubWNFVTlHTWc1SEk1MW56amZCYUQ5X2dreHFQSkNCal9sYQ?oc=5",
           "source": "Google News",
           "published": "Fri, 25 Sep 2026 09:50:00 GMT"
+        },
+        {
+          "title": "Wisconsin police find dozens of partially clothed men in frat house basement in alleged hazing incident - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM0VjUG9WRUYteWxGazV3MWtzamhrVUJ6cVZPLWQySGotWVFFWV9tcGE5alYtOGctT3A5bFI4WHBRMmVBTzNMTGtjWFZaTG53dXZreTd3ZWl1dHRpN3I2OHFmOXdDS0Zrc0R3ck40ajNRVUJYeXY4ZnRORlo1cGU1djNIeFhNeG1yVFdjZkszaVpxUQ?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 17:12:28 GMT"
         }
       ]
     },
     {
-      "word": "Judge",
+      "word": "Emergency",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ISWNpUkw1S1F4Z1JEQTdJU0hNS1hoS1pqOGhZcXU5SGtCMXk1RktrVmoySDlDTGo4aVRRaGxjLWR6cE9EMURuTVN5UVpsc05TbE5kVDhKSzluN1k?oc=5",
+          "title": "Ketanji Brown Jackson criticizes supreme court’s handling of emergency docket - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ3MtNXd1cS1ka3cwMEJiMmtjNllmbEZlR1EybmdIN0RPN1JwZkxrNUhtdWZPbHpCSWVYZEZZbE16ektKNlRRcEQ3cXUxZlg5RGZwb0ZjUFJ5bEZnVi13YTlFYWlQbzFXUFdNVXc3cmxmdllsb2x5RzVqY2s3NEJVVUZqaTBINVJCZ2hBcE1tbDV0QWQzZ1JrYktKV050dWRfcnc?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 01:10:35 GMT"
+          "published": "Fri, 25 Sep 2026 16:11:00 GMT"
         },
         {
-          "title": "Paramount Merger Settlement Won’t Be Resolved Until At Least Next Week As Judge Questions Agreement - forbes.com",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZGpLMXFwa2k0UDVXQ3lGYUpwLUFqTFFCLU9qWkVqMDJUdmF2NGZpU3c1bkM1bkJQeE9YRlVmQ003Ujc4R3JzcVQ4R2lhTnZKN2xUQlIzM1BSdV9za2FHOFpTZ1BSekNoLXI4dXVjb0tQTk40cVY2VzVUMFVEQnd6X1VxTHVoenJadGgtVDV3cHdvd2lOYWR6SzJHT3Q4bWNBY3lBMVJwajc1MWgxWFNXblEzNDl0RU91MmdOLVFGeGhyU0FFZHY4a2huenFHRTZXbW9tMmk4X01BcFUtZFdSa1RNalRqSEk?oc=5",
+          "title": "Hillsborough, Pasco and Pinellas counties issue states of emergency over dengue fever - tampabay.com",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUmJLd05lYV9ZR29NUkc1a2wwaElTcGs2Z1RJbm8waGNTUnZVRl9vWmRidXlMSXM1MndXekl5UGVjVDJGTmI3S3M0dG1lZE5QVjNVZEtGV1drTTc1WWp0Y1Z6N0hJZEVIY3ZIUjdCQVplb3VrLXBIbnBibUtiREdIUEVqVTFMWS1RV2JpMHhBa0dwRWk5UF9mR2k1SU15VENf?oc=5",
           "source": "Google News",
-          "published": "Thu, 24 Sep 2026 20:20:00 GMT"
+          "published": "Fri, 25 Sep 2026 13:22:04 GMT"
         }
       ]
     },
     {
-      "word": "Calls",
+      "word": "Governor",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "New Jersey Gov. Sherrill calls on her lieutenant governor to resign - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONnBCUVlyTW10Xy00ZjhDZFhrNHhrYm9Fc0ZXSmJ6MGFEMEkwSFlmTmFKSmZybk9qemRibTY3WE5pZ2N5MlROeEJfVm5hZllUaUY0MmJSWXVZczl5c1Y1Z2hSV25lQ1JjS0NBZzlveXV3d21GS2RTY1lFZUxHd29pWUdzWUd4ZERONTUtZFBfenE0WHhhUGE3ajdielF4SERGYVphNVZPQTBTV0ZUa1ZoZTF3?oc=5",
+          "title": "New Jersey’s governor calls on her lieutenant governor to resign over ethics report - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWVVQRzdtZ3dhWVEzTjFJMEs5ZWNWRjludkxYWlI2V25JRGdmakRlaWxfajJCcXhzRGp1eVBiUzBTZGN4N1p1UHppRTAzUHVXT3FJaDhHNlFUbzJsNDNnTDIwSzVnWUQ5cDk2UUFNUWpOeEMzbHg3ZDBKYVlaeXlkcDZEa0dDeC0zbG9DV0VUb3dqZ0owcFEyTTRGVUVwZXlBa1JJWkp0d09ReTY5cEg0eFE3RWpvN2tCd2F4VUUwdmpNd28?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 05:16:00 GMT"
+          "published": "Fri, 25 Sep 2026 03:14:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Three",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Pope Leo warns of AI threat to humanity at start of three-day France visit - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ3g5REFXVVI4ZEFzU2p3NDNtckJDemE4Y3VFOVlpc1N2aTE1NzhQMUU0WjhYb0dKRHNkTWhsQkRGZkxWVmh2RlV6eEgxNzhvdTdwOV9FcUFEc05vZzQxRk5PbWFvMTEzSTZKWFpmQXZCa0hyS1ZZLXVzQktGSDI0TlpXdUVqeGRjZVU1WmozZm94SzZDdVdLWlFyNDNndndF?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 17:22:00 GMT"
         },
         {
-          "title": "Google’s Gemini Can Now Make Calls for You on Pixel Phones - WIRED",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT2p2UUJISWJMUGxUeFdBTFNDRVZEYmhha0VmcFkxcGNoTlZQeU9ZNF8wWWM1djRCRlRLOFlnZ3hGa0lGcXZPYi04X0RvZExMazlIMHY4MHk3RmVab1ZNems3R3ZIM0RlZFMwNGlweXdwNXRoeFNKLXpfalBRc1BJdVdaZXZfYWVIQjlTeG1wWQ?oc=5",
+          "title": "New hairy-legged, three-lipped, red-eyed sea spider species discovered - CNN",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJU2hrWm9iVjh3SFR0MGlOblo3M3FRVkxIemh1YkVLcnVNZjZKRWpXYjU3czM3TC0zbFRhZ2NoNEFacy1INEZnY25rZUV3SDQ1d3MzOFlkSl9ycndWeUpYMUJqTFdpcFlzVHJ4Q2Y3NUpuUG01cWk2clJYbw?oc=5",
           "source": "Google News",
-          "published": "Thu, 24 Sep 2026 16:00:00 GMT"
+          "published": "Fri, 25 Sep 2026 10:01:10 GMT"
         }
       ]
     },
@@ -230,110 +206,142 @@
       ]
     },
     {
-      "word": "Market",
+      "word": "Spot",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Stock Market Today: Bond Selloff Abates as Oil Price Slips — Live Updates - wsj.com",
+          "title": "Over 30 CEOs scored an invite to the US-China state dinner — and these 4 got a spot at the head table - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOeGdXbjB2eDZyV001bmpfLUN1TG9md1RyR1NiQVpiMVlTbmJNWXNlaTI4NGtZYkJ2QWs5MkI5V2R5SnJmckJ4TnVuX3Q4MVVMUlpORmR0UGVYZGpUa29qWHRLYkt6WHVULTRlQnNkZ08zMjU2RHV5RHYyc3Y4a1NoR2ZQRmI1MW5zYy0tdy0xR3FMb1hLVENnV0xObHEyU0Nmb2VJZjBFUDJoeE1meXkzdXcwZmNkTXBCMDByRGFvMzBpWDZXTkNYOUl3cTlWOC1jUTRrRERXRnBQQlIxUTA2WFIxMklUZmZPcGJoYWJn?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 13:44:00 GMT"
+        },
+        {
+          "title": "Spot the full harvest moon alongside golden Saturn in the night sky - CNN",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB0aVRuZUp5dDJhSjVKbEJfdHFkdkJNSkhVVDREMVczQzAtbU5QZVVZSVV0aHpyemF6ZTA3VkFqU3pVeHJ2RU5teUFDMnNHQkNTZ3dOdExUb1RLYndDUDlua1B0eXR1U0RTNGMtaURrbG1QSWRzaUNaeXBXMlBjdw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 12:27:31 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Stock",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Stock Market Today: Dow Edges Higher at Open, Bond Selloff Abates as Oil Price Slips — Live Updates - WSJ",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdzJlV1lCRUFaS3NFZVdBQ0pzbGZWS0xieVRwbHUtaHRMSTJJU0xqT25TQjg1R2M4OU5UTHNFQ3F5enpXNkpCMmZUWVNFOVJ2NWVxN25QeWxLVkJGdVlVVmx0cDFxdFBwVkZwcy1ZM3pGSXpnVzVmMDBjNUs5R1NjZWNPalFfTEk?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 12:15:00 GMT"
+          "published": "Fri, 25 Sep 2026 17:46:00 GMT"
         },
         {
-          "title": "Stock Market Today: Dow Slides As Treasury Yields Surge; Nvidia Slips While Micron Rises - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN2l0R0JrY2c1cDFCU0VsV3p4d0hhLVp4Q2Q5aEVYUkYwd0o0dW1QMjRPYXVZaFNzbzczOVEzeFZTbENFQWZOVHdtX0NSZi1DVFFXWkpVb3JnLWM1eF9nbkpkSkdtMGE3XzV4NFdPZG9ha3E4YWZQZWpiQkNKZDZwWE5EeHk0cnd3LWh3QUozMUdWQ2NXS2xuWE9uMFJFaFFjMERDSTFLcjJNLW5RQVU2SkhZVU11R0N0WlFCMTI2VEhsWDg?oc=5",
+          "title": "Meta Launches $1M Developer Competition to Stock 'VR Glasses' with More Hand-tracked Apps - Road to VR",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85WjZfU09ubnpHalNydFNQZEpZU21HenlQX044Q3FIa2FFUlZUYjRrSHloWDVUbTE3dnJpSms0YTdxUHhRRVlKckJCdmtjWmIxTEg5Z1U2bDhLR3JYcnZxbkR2d0ZTdk1TZFZubjZR?oc=5",
           "source": "Google News",
-          "published": "Thu, 24 Sep 2026 20:34:00 GMT"
+          "published": "Thu, 24 Sep 2026 18:35:13 GMT"
         }
       ]
     },
     {
-      "word": "Slips",
+      "word": "Apple",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Stock Market Today: Bond Selloff Abates as Oil Price Slips — Live Updates - wsj.com",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdzJlV1lCRUFaS3NFZVdBQ0pzbGZWS0xieVRwbHUtaHRMSTJJU0xqT25TQjg1R2M4OU5UTHNFQ3F5enpXNkpCMmZUWVNFOVJ2NWVxN25QeWxLVkJGdVlVVmx0cDFxdFBwVkZwcy1ZM3pGSXpnVzVmMDBjNUs5R1NjZWNPalFfTEk?oc=5",
+          "title": "Leaks reveal a new Apple HomePod mini, iPad mini, and Apple TV 4K - The Verge",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTjRsYU1ZeTBnNGNFSVBZdDNFZmZPNm9OVUhaMThtWWoyeW8zUUs5eVV4X0Ytamd3U2xvcFdiOEw1bHJUMGZKbTF1cFZkMWFub0tmcmdhUHBSNkNtQURIdUFLQk5FLU5lY2NWa1RvNnEtZjdJVS1vZ0VxU1N4X09OTC1nUTNyeFNXWmhyZk1NeGhFRkljLXdn?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 12:15:00 GMT"
-        },
-        {
-          "title": "Stock Market Today: Dow Slides As Treasury Yields Surge; Nvidia Slips While Micron Rises - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN2l0R0JrY2c1cDFCU0VsV3p4d0hhLVp4Q2Q5aEVYUkYwd0o0dW1QMjRPYXVZaFNzbzczOVEzeFZTbENFQWZOVHdtX0NSZi1DVFFXWkpVb3JnLWM1eF9nbkpkSkdtMGE3XzV4NFdPZG9ha3E4YWZQZWpiQkNKZDZwWE5EeHk0cnd3LWh3QUozMUdWQ2NXS2xuWE9uMFJFaFFjMERDSTFLcjJNLW5RQVU2SkhZVU11R0N0WlFCMTI2VEhsWDg?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 20:34:00 GMT"
+          "published": "Fri, 25 Sep 2026 16:22:05 GMT"
         }
       ]
     },
     {
-      "word": "Phones",
+      "word": "Mini",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Android’s Create My Widget ‘app’ detailed on phones, Googlebooks - 9to5Google",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53enN3ZzFlb1Z0cS05OE5HcC12eWFHMDN5d0RZaHA5Skl3Q1JqVXdFT1hiY3RaeExNUTgtYTNnaWxQdjBGQVpzVU52ZHJmaGgzRHY4dzZtcEVfWUtRNzZCQThya21VNU9WSklfQTg1Zw?oc=5",
+          "title": "Leaks reveal a new Apple HomePod mini, iPad mini, and Apple TV 4K - The Verge",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTjRsYU1ZeTBnNGNFSVBZdDNFZmZPNm9OVUhaMThtWWoyeW8zUUs5eVV4X0Ytamd3U2xvcFdiOEw1bHJUMGZKbTF1cFZkMWFub0tmcmdhUHBSNkNtQURIdUFLQk5FLU5lY2NWa1RvNnEtZjdJVS1vZ0VxU1N4X09OTC1nUTNyeFNXWmhyZk1NeGhFRkljLXdn?oc=5",
           "source": "Google News",
-          "published": "Thu, 24 Sep 2026 17:45:00 GMT"
-        },
-        {
-          "title": "Google’s Gemini Can Now Make Calls for You on Pixel Phones - WIRED",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT2p2UUJISWJMUGxUeFdBTFNDRVZEYmhha0VmcFkxcGNoTlZQeU9ZNF8wWWM1djRCRlRLOFlnZ3hGa0lGcXZPYi04X0RvZExMazlIMHY4MHk3RmVab1ZNems3R3ZIM0RlZFMwNGlweXdwNXRoeFNKLXpfalBRc1BJdVdaZXZfYWVIQjlTeG1wWQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 16:00:00 GMT"
+          "published": "Fri, 25 Sep 2026 16:22:05 GMT"
         }
       ]
     },
     {
-      "word": "Book",
+      "word": "Spacecraft",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "It’s officially Dolly Parton Day, with parades, pink lights and book drives - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd3NEUlNhRDVXdFg5MHFUSlF4SjV2X3lsWEtuOFN4Tm8wNUkyZURLR0xWa1dZU3JMOGJ6OFVFVUhqNWxkNTNvYldteFpmSzlDaUdySW9pMzJxMnQtUkcyNTBVbnF1TTlQa3RRY3JfNEU5RC03M2hNVmllVlRYRGFnVlhLcC1fU28?oc=5",
+          "title": "After seven years, a spacecraft company is releasing its Otters into the wild - Ars Technica",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWUpiQUpCbzM3UVc2MUpMd2JtSUV1RTB6QW5TM2VNd3ZQQXBseDlPVllFaUU4bHlPOGNlOWxmRWJWRUh2S2ZHeXBBN3EtYjNPSERPeW1RNUlUY0lVN3BJVGZ0ZlZPMXQ4b1ZkcGRQQW5hanhDa2ZBbkY1THBRaVBaUl9wUjZnNGhWVEZZcEsxZjlQdVpKX1BHd0NVamdjXzc5d3NSNllKeEI0SWlsck9waERtNG1tUQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 09:44:00 GMT"
+          "published": "Fri, 25 Sep 2026 15:35:23 GMT"
         },
         {
-          "title": "Prince Harry’s Silence Over Charles Spencer’s Book Branded an ‘Act of War’ — Expert - Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVTQzSldzQlQyVkFiZldpN2R2cHRQLUpaQ3lMYXo5WmYyQmhFWmZKMmoxSkt6RkJFbl9ZMHhJQ20zZHdRWnRXNzBIWS1yZUtTYmc2bEhvVGtfZ1poaGNoam1HdWRKSlV0UFJyZ0VQeEdqbi02cjlOXzdxb2d4NVA2UlVYWWJ6WUI4TEFlSERaYVZTbW92ckxzMDJPZDlrLUNTTEhObEN3?oc=5",
+          "title": "Spacecraft returns to Earth after rescue mission for ageing Nasa telescope fails - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTTBXSE5TenBCeERGWldXZUNYYjQ0NkdsLUtfNzVjTFhmcTJQYnpELTd0azJrdnNJMHV1Yk5Xb0N5UzRUYTFYMzdVMnpDZ3J1dm1XVlRCeTZrOWhxcndQMHZvM19oR2MxaWxpZTgzSW55ZzFBamE5OW0xZ0dCRm50NkM4Qi0xZHRuOGtr?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 07:17:06 GMT"
+          "published": "Fri, 25 Sep 2026 16:39:00 GMT"
         }
       ]
     },
     {
-      "word": "win",
+      "word": "States",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Tucker Kraft: Disappointing that fans booed us at Lambeau Field, won’t help us win - NBC Sports",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMDZ0YjNvVkY4VjV1XzVMc2ttdjc5Mm1jd0dQdHh2R2ZuOUZmaXVkTkxuWnFvTVREU3RNbkh5RjBmTXh3WTRJTERYclYwWDBxZnNUd2NDaXN0QnV3aU1TRGFJWnpUa0hYcjJQZzdGUTEyT2t6VWRsWWRpdDBfb2YyUmhLRUpadzVaaXR4MXkxbGctR2VKVGpDdkprYUdTTDF1cDRqR1E3cElIQlJPcDBLTk9FX29ZbFI0ZzhoQlJDLWFrRy1EUVV4NWltak9wdm41Qk1ZSTdULVo?oc=5",
+          "title": "Block the Merger Coalition Asks Court to Reject Paramount’s Settlement With States Over Warner Bros. Deal - Variety",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWFUzT3FfSmt2NFJvTFBFSllCQ1g2WWt4bzlEQkFKeC1JZWNCOHBmb1lzNXA5XzYwWE9rNXRJT0ZpVThOTjhtQWxFUGtqT0RweEtOdlFZVHVvdUNiT0lmZHNLUjFkaGdoOUQ4cDg4YnZXelU3SUQ2d204RENJU2ZWUmg2bkQ2X01LRHNSVzQtN1NfWGptSlh1aVVMR0o?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 08:23:53 GMT"
+          "published": "Fri, 25 Sep 2026 09:49:00 GMT"
         },
         {
-          "title": "WNBA playoffs 2026: How all eight teams could win the title - ESPN",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZVA3aElJenhYS09uZC1tVzAweFlBQWQ0WTFoR3M4VzZzWUpCQUZQTGszbXB0cG5SUXhDQnBlalRkSjhnZFVVR0ZULWJNYWs3YnhsOE4zYVNMR2pscE1kZXJBVGFTdmg2YWhxSXpHdWZQR3pFWk5aajdpZFdBM3N1TmF5ZXFNeThQdUlFcFhoR3F5MDYyZkttSWJUSC1IUmJDOXV2UlJRNURVTVk?oc=5",
+          "title": "Hillsborough, Pasco and Pinellas counties issue states of emergency over dengue fever - tampabay.com",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUmJLd05lYV9ZR29NUkc1a2wwaElTcGs2Z1RJbm8waGNTUnZVRl9vWmRidXlMSXM1MndXekl5UGVjVDJGTmI3S3M0dG1lZE5QVjNVZEtGV1drTTc1WWp0Y1Z6N0hJZEVIY3ZIUjdCQVplb3VrLXBIbnBibUtiREdIUEVqVTFMWS1RV2JpMHhBa0dwRWk5UF9mR2k1SU15VENf?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 04:24:00 GMT"
+          "published": "Fri, 25 Sep 2026 13:22:04 GMT"
         }
       ]
     },
     {
-      "word": "Texas",
+      "word": "Pick",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Week 4’s top 10 college football games: Texas-Tennessee, Oregon-USC, Texas A&M-LSU and more - The Athletic - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUVBUQ1lSdktUd1NKRGRURVN3djFNS2RGdU1wRkRFcmVZc0JOeWpwQlBkMDFYa0xTTXRUNVllM2htbnBhUXpBVEx4dDdmRnh0VFdOMmxucXNTbjE1UVp4TEdKS1VTdU5xZWZGM0RpdGMySGJFUTQ3T1FEU3pORC1iRDI1VGhETldKRW5RUVpOOA?oc=5",
+          "title": "2026 WNBA Playoffs Primer: Upsets, Chaos, and My Title Pick - The Ringer",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdExvakhLa3JJLXJLT3Zrd3hHZWdmQlpKLWw4V2did0RIYjFfSl9fbDVBYzctanFVWW9xVF9xcjQ4SEV6ZWk1a0hHMUJJbkx2TDkxVkEzLUt1ZE80cUNGY3NZV1Z2X1NyWTJXYks4ZVMzRklzaDBPeHAxc0tNVFdaTFJodEs1VU5udERDNjVpVEZzRFhkZXc2UTZnaHVZSU5yZ0Fv?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 09:00:26 GMT"
+          "published": "Fri, 25 Sep 2026 13:54:57 GMT"
+        },
+        {
+          "title": "KSL Sports Pick'em: Staff picks for Week 4 of college football - ksl.com",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORkpTRzA4dU1SYjFkVHlsanFockZqXzluSW84cG5WU3BnQk84MjMyNjAtWTgwQk82ZGVFVHIwSVhyYUROSDdINGxMNWJ1cU1VcW96NWJxZ2JYSzlzemZhYkZLaWpZV2hQQmV2blNfb3RqcDFSeEk4Q2NpbGpDTmhKSDFDWkIxeGZNcWFCTzIwcGFkOE9DUVdXamJjZloyZw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 15:05:03 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Week",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "NFL Week 3 bold predictions: Raiders upset Saints to improve to 3-0! Baker Mayfield bounces back - NFL.com",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQejZBemV1OUhmZU9PaHBtMGhZc0JKOVhQYlgtdXRMNHhFeDF4Um5vWDNTZ0xmbXlsTmVnbnhydC1mdHNJZE1RWkxRTGFpWkxFay1TSUl1dVZ2YWxGTS1nclREb2I5d0NKTTdjbzRvUFdvZFVFaUlybk5ZcE41Z3lSZlNyUm1nOTRoN1lhQkpFbnFuLV9qaFFEQzZ3YzlBdDR1SlNCb3c0QkRHT0hja0ozdmtFdkV0Rkh3R1Bn?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 15:52:57 GMT"
+        },
+        {
+          "title": "KSL Sports Pick'em: Staff picks for Week 4 of college football - ksl.com",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORkpTRzA4dU1SYjFkVHlsanFockZqXzluSW84cG5WU3BnQk84MjMyNjAtWTgwQk82ZGVFVHIwSVhyYUROSDdINGxMNWJ1cU1VcW96NWJxZ2JYSzlzemZhYkZLaWpZV2hQQmV2blNfb3RqcDFSeEk4Q2NpbGpDTmhKSDFDWkIxeGZNcWFCTzIwcGFkOE9DUVdXamJjZloyZw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 15:05:03 GMT"
         }
       ]
     },
@@ -357,184 +365,197 @@
       ]
     },
     {
-      "word": "Diplomacy",
+      "word": "Revives",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Diplomacy or ‘diplotainment’? Key takeaways from the Trump-Xi summit in Washington - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVTBpVk8wYXRNZG1HUENzb2NnbUZnQXBqSEY5X1VEdGZmRXRPTjN1dERqMTR5VzJtdk5aNURNQnE1aDZOOFI5MlQ3TmlEaDdsSlJyU2o4bjlKYVlIdFMwY3pqTHg2VXotZFVQSkY1VmZERU40bXlQaF81NnVWZWhwUHFTSWVWMXpjRUx0bkNHN3phR21hV1hTdmp4dGp2eWpDRndwTV9n?oc=5",
+          "title": "The Supreme Court revives a controversial data system for citizenship checks - NPR",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQzAxcThPaUFnelBOeXVSNWtCSElWQ09LVVRwcGY1Zkdlc2xzSUNzMnBMLXV3NUZnTkJCaWcyREVWUnMxb0xVckpjbnRqemhzakNnQ250UWNjMkVzanJDLWtlaWtlaC1CczhmZ2hnb0FsSXg3ekhRdUl3WnpwVDd4bkRTVXhtdk1ndUJEUHUtNjA?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 11:58:00 GMT"
+          "published": "Fri, 25 Sep 2026 17:01:15 GMT"
         }
       ]
     },
     {
-      "word": "Diplotainment",
+      "word": "Controversial",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Diplomacy or ‘diplotainment’? Key takeaways from the Trump-Xi summit in Washington - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVTBpVk8wYXRNZG1HUENzb2NnbUZnQXBqSEY5X1VEdGZmRXRPTjN1dERqMTR5VzJtdk5aNURNQnE1aDZOOFI5MlQ3TmlEaDdsSlJyU2o4bjlKYVlIdFMwY3pqTHg2VXotZFVQSkY1VmZERU40bXlQaF81NnVWZWhwUHFTSWVWMXpjRUx0bkNHN3phR21hV1hTdmp4dGp2eWpDRndwTV9n?oc=5",
+          "title": "The Supreme Court revives a controversial data system for citizenship checks - NPR",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQzAxcThPaUFnelBOeXVSNWtCSElWQ09LVVRwcGY1Zkdlc2xzSUNzMnBMLXV3NUZnTkJCaWcyREVWUnMxb0xVckpjbnRqemhzakNnQ250UWNjMkVzanJDLWtlaWtlaC1CczhmZ2hnb0FsSXg3ekhRdUl3WnpwVDd4bkRTVXhtdk1ndUJEUHUtNjA?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 11:58:00 GMT"
+          "published": "Fri, 25 Sep 2026 17:01:15 GMT"
         }
       ]
     },
     {
-      "word": "Key",
+      "word": "Data",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Diplomacy or ‘diplotainment’? Key takeaways from the Trump-Xi summit in Washington - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVTBpVk8wYXRNZG1HUENzb2NnbUZnQXBqSEY5X1VEdGZmRXRPTjN1dERqMTR5VzJtdk5aNURNQnE1aDZOOFI5MlQ3TmlEaDdsSlJyU2o4bjlKYVlIdFMwY3pqTHg2VXotZFVQSkY1VmZERU40bXlQaF81NnVWZWhwUHFTSWVWMXpjRUx0bkNHN3phR21hV1hTdmp4dGp2eWpDRndwTV9n?oc=5",
+          "title": "The Supreme Court revives a controversial data system for citizenship checks - NPR",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQzAxcThPaUFnelBOeXVSNWtCSElWQ09LVVRwcGY1Zkdlc2xzSUNzMnBMLXV3NUZnTkJCaWcyREVWUnMxb0xVckpjbnRqemhzakNnQ250UWNjMkVzanJDLWtlaWtlaC1CczhmZ2hnb0FsSXg3ekhRdUl3WnpwVDd4bkRTVXhtdk1ndUJEUHUtNjA?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 11:58:00 GMT"
+          "published": "Fri, 25 Sep 2026 17:01:15 GMT"
         }
       ]
     },
     {
-      "word": "Takeaways",
+      "word": "System",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Diplomacy or ‘diplotainment’? Key takeaways from the Trump-Xi summit in Washington - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVTBpVk8wYXRNZG1HUENzb2NnbUZnQXBqSEY5X1VEdGZmRXRPTjN1dERqMTR5VzJtdk5aNURNQnE1aDZOOFI5MlQ3TmlEaDdsSlJyU2o4bjlKYVlIdFMwY3pqTHg2VXotZFVQSkY1VmZERU40bXlQaF81NnVWZWhwUHFTSWVWMXpjRUx0bkNHN3phR21hV1hTdmp4dGp2eWpDRndwTV9n?oc=5",
+          "title": "The Supreme Court revives a controversial data system for citizenship checks - NPR",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQzAxcThPaUFnelBOeXVSNWtCSElWQ09LVVRwcGY1Zkdlc2xzSUNzMnBMLXV3NUZnTkJCaWcyREVWUnMxb0xVckpjbnRqemhzakNnQ250UWNjMkVzanJDLWtlaWtlaC1CczhmZ2hnb0FsSXg3ekhRdUl3WnpwVDd4bkRTVXhtdk1ndUJEUHUtNjA?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 11:58:00 GMT"
+          "published": "Fri, 25 Sep 2026 17:01:15 GMT"
         }
       ]
     },
     {
-      "word": "Summit",
+      "word": "Citizenship",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Diplomacy or ‘diplotainment’? Key takeaways from the Trump-Xi summit in Washington - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVTBpVk8wYXRNZG1HUENzb2NnbUZnQXBqSEY5X1VEdGZmRXRPTjN1dERqMTR5VzJtdk5aNURNQnE1aDZOOFI5MlQ3TmlEaDdsSlJyU2o4bjlKYVlIdFMwY3pqTHg2VXotZFVQSkY1VmZERU40bXlQaF81NnVWZWhwUHFTSWVWMXpjRUx0bkNHN3phR21hV1hTdmp4dGp2eWpDRndwTV9n?oc=5",
+          "title": "The Supreme Court revives a controversial data system for citizenship checks - NPR",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQzAxcThPaUFnelBOeXVSNWtCSElWQ09LVVRwcGY1Zkdlc2xzSUNzMnBMLXV3NUZnTkJCaWcyREVWUnMxb0xVckpjbnRqemhzakNnQ250UWNjMkVzanJDLWtlaWtlaC1CczhmZ2hnb0FsSXg3ekhRdUl3WnpwVDd4bkRTVXhtdk1ndUJEUHUtNjA?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 11:58:00 GMT"
+          "published": "Fri, 25 Sep 2026 17:01:15 GMT"
         }
       ]
     },
     {
-      "word": "Washington",
+      "word": "Checks",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Diplomacy or ‘diplotainment’? Key takeaways from the Trump-Xi summit in Washington - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVTBpVk8wYXRNZG1HUENzb2NnbUZnQXBqSEY5X1VEdGZmRXRPTjN1dERqMTR5VzJtdk5aNURNQnE1aDZOOFI5MlQ3TmlEaDdsSlJyU2o4bjlKYVlIdFMwY3pqTHg2VXotZFVQSkY1VmZERU40bXlQaF81NnVWZWhwUHFTSWVWMXpjRUx0bkNHN3phR21hV1hTdmp4dGp2eWpDRndwTV9n?oc=5",
+          "title": "The Supreme Court revives a controversial data system for citizenship checks - NPR",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQzAxcThPaUFnelBOeXVSNWtCSElWQ09LVVRwcGY1Zkdlc2xzSUNzMnBMLXV3NUZnTkJCaWcyREVWUnMxb0xVckpjbnRqemhzakNnQ250UWNjMkVzanJDLWtlaWtlaC1CczhmZ2hnb0FsSXg3ekhRdUl3WnpwVDd4bkRTVXhtdk1ndUJEUHUtNjA?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 11:58:00 GMT"
+          "published": "Fri, 25 Sep 2026 17:01:15 GMT"
         }
       ]
     },
     {
-      "word": "Rainy",
+      "word": "Wraps",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Rainy and windy conditions across Connecticut Friday night through Sunday! - WTNH.com",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLVJPUHRPdnoyQkEzSW9Udi10akY3R0lEZkJldGNvWmxfMGRaZlhBaXJDNjRQdzAxaEpGUVJvUzRVZjNKUUZqUktzMWhsX2FtcnRYZ0xqWTBnMnpoZ2ZmNDBPTHJOT3VDdnFqNjR6ekZ2R1F1QUJIMzJrSTF3VGFmN1RXVTJFQzVJOWxaSXc1SjRtVXZxbUx3WjBQVTYxNTg4VDd0M3VR0gGrAUFVX3lxTE1TMVNySHBZNWtrdUZhc1VVUTc5Z2JST3NlNXJqTTFFYXM0a3I2UzMzblJsYnRhRE9seElkeE1nTmU2WTdpRDlPamlGVHN3WlZVWXVCVkRxN1RWaEp2T1pGU2wwM3ludHgweC1EcEQ4TjBpaWJkbWYwbVBhampIQU1TWnVYcnBiUWZ0YWFneHQ2ZkJhZFJGZ2cyOVFiRWhkdkZkam5lcUpac2hCSQ?oc=5",
+          "title": "Trump-Xi visit wraps up with few achievements announced - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU1F6dWRlbTNWNnJPa21UVXhzOWtkd0xJZFFGbmFpUmRuSjRLMFBFSThXU3YxS3BseEdVaFljREtKQTlvdFlDQVBMS3FuR1JNZWE2WDhTc1hHWEV4aTBJYTJWbEdRTWZJNW8tZzVoYVVRRzdmRVk5c3BQbkQzbElZcERrVjNJTk1zRXhyc3hXVzd0VjNB?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 08:10:36 GMT"
+          "published": "Fri, 25 Sep 2026 17:46:53 GMT"
         }
       ]
     },
     {
-      "word": "Windy",
+      "word": "Achievements",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Rainy and windy conditions across Connecticut Friday night through Sunday! - WTNH.com",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLVJPUHRPdnoyQkEzSW9Udi10akY3R0lEZkJldGNvWmxfMGRaZlhBaXJDNjRQdzAxaEpGUVJvUzRVZjNKUUZqUktzMWhsX2FtcnRYZ0xqWTBnMnpoZ2ZmNDBPTHJOT3VDdnFqNjR6ekZ2R1F1QUJIMzJrSTF3VGFmN1RXVTJFQzVJOWxaSXc1SjRtVXZxbUx3WjBQVTYxNTg4VDd0M3VR0gGrAUFVX3lxTE1TMVNySHBZNWtrdUZhc1VVUTc5Z2JST3NlNXJqTTFFYXM0a3I2UzMzblJsYnRhRE9seElkeE1nTmU2WTdpRDlPamlGVHN3WlZVWXVCVkRxN1RWaEp2T1pGU2wwM3ludHgweC1EcEQ4TjBpaWJkbWYwbVBhampIQU1TWnVYcnBiUWZ0YWFneHQ2ZkJhZFJGZ2cyOVFiRWhkdkZkam5lcUpac2hCSQ?oc=5",
+          "title": "Trump-Xi visit wraps up with few achievements announced - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU1F6dWRlbTNWNnJPa21UVXhzOWtkd0xJZFFGbmFpUmRuSjRLMFBFSThXU3YxS3BseEdVaFljREtKQTlvdFlDQVBMS3FuR1JNZWE2WDhTc1hHWEV4aTBJYTJWbEdRTWZJNW8tZzVoYVVRRzdmRVk5c3BQbkQzbElZcERrVjNJTk1zRXhyc3hXVzd0VjNB?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 08:10:36 GMT"
+          "published": "Fri, 25 Sep 2026 17:46:53 GMT"
         }
       ]
     },
     {
-      "word": "Conditions",
+      "word": "Announced",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Rainy and windy conditions across Connecticut Friday night through Sunday! - WTNH.com",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLVJPUHRPdnoyQkEzSW9Udi10akY3R0lEZkJldGNvWmxfMGRaZlhBaXJDNjRQdzAxaEpGUVJvUzRVZjNKUUZqUktzMWhsX2FtcnRYZ0xqWTBnMnpoZ2ZmNDBPTHJOT3VDdnFqNjR6ekZ2R1F1QUJIMzJrSTF3VGFmN1RXVTJFQzVJOWxaSXc1SjRtVXZxbUx3WjBQVTYxNTg4VDd0M3VR0gGrAUFVX3lxTE1TMVNySHBZNWtrdUZhc1VVUTc5Z2JST3NlNXJqTTFFYXM0a3I2UzMzblJsYnRhRE9seElkeE1nTmU2WTdpRDlPamlGVHN3WlZVWXVCVkRxN1RWaEp2T1pGU2wwM3ludHgweC1EcEQ4TjBpaWJkbWYwbVBhampIQU1TWnVYcnBiUWZ0YWFneHQ2ZkJhZFJGZ2cyOVFiRWhkdkZkam5lcUpac2hCSQ?oc=5",
+          "title": "Trump-Xi visit wraps up with few achievements announced - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU1F6dWRlbTNWNnJPa21UVXhzOWtkd0xJZFFGbmFpUmRuSjRLMFBFSThXU3YxS3BseEdVaFljREtKQTlvdFlDQVBMS3FuR1JNZWE2WDhTc1hHWEV4aTBJYTJWbEdRTWZJNW8tZzVoYVVRRzdmRVk5c3BQbkQzbElZcERrVjNJTk1zRXhyc3hXVzd0VjNB?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 08:10:36 GMT"
+          "published": "Fri, 25 Sep 2026 17:46:53 GMT"
         }
       ]
     },
     {
-      "word": "Across",
+      "word": "Susan",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Rainy and windy conditions across Connecticut Friday night through Sunday! - WTNH.com",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLVJPUHRPdnoyQkEzSW9Udi10akY3R0lEZkJldGNvWmxfMGRaZlhBaXJDNjRQdzAxaEpGUVJvUzRVZjNKUUZqUktzMWhsX2FtcnRYZ0xqWTBnMnpoZ2ZmNDBPTHJOT3VDdnFqNjR6ekZ2R1F1QUJIMzJrSTF3VGFmN1RXVTJFQzVJOWxaSXc1SjRtVXZxbUx3WjBQVTYxNTg4VDd0M3VR0gGrAUFVX3lxTE1TMVNySHBZNWtrdUZhc1VVUTc5Z2JST3NlNXJqTTFFYXM0a3I2UzMzblJsYnRhRE9seElkeE1nTmU2WTdpRDlPamlGVHN3WlZVWXVCVkRxN1RWaEp2T1pGU2wwM3ludHgweC1EcEQ4TjBpaWJkbWYwbVBhampIQU1TWnVYcnBiUWZ0YWFneHQ2ZkJhZFJGZ2cyOVFiRWhkdkZkam5lcUpac2hCSQ?oc=5",
+          "title": "Susan Sarandon and Hannah Einbinder arrested at anti-Netanyahu protest in New York - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWthOGQ3aEdYWVlGRzJKN3NiYy1LY2Z2ZU1SWjRnRmo1X1V3WkQ4aC1rTHJFSzhjbUUtbFYxVzhjcTh6MC1xbHFJTVhsUXF4Y0hFSVh2MzJ2eUQxYkU5YVFyT0dOam9VV2lhdlRFV1JaQTQ2aThvVGZDOS16cHBNVmlfVGppLVFIRGdaajQ5LWthNWNvYUpUdDJMUGVhS0ZWRWJxZUhjdjlNdTRlZlNTdV9iaWxGeFZwRk02SA?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 08:10:36 GMT"
+          "published": "Fri, 25 Sep 2026 17:49:00 GMT"
         }
       ]
     },
     {
-      "word": "Connecticut",
+      "word": "Sarandon",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Rainy and windy conditions across Connecticut Friday night through Sunday! - WTNH.com",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLVJPUHRPdnoyQkEzSW9Udi10akY3R0lEZkJldGNvWmxfMGRaZlhBaXJDNjRQdzAxaEpGUVJvUzRVZjNKUUZqUktzMWhsX2FtcnRYZ0xqWTBnMnpoZ2ZmNDBPTHJOT3VDdnFqNjR6ekZ2R1F1QUJIMzJrSTF3VGFmN1RXVTJFQzVJOWxaSXc1SjRtVXZxbUx3WjBQVTYxNTg4VDd0M3VR0gGrAUFVX3lxTE1TMVNySHBZNWtrdUZhc1VVUTc5Z2JST3NlNXJqTTFFYXM0a3I2UzMzblJsYnRhRE9seElkeE1nTmU2WTdpRDlPamlGVHN3WlZVWXVCVkRxN1RWaEp2T1pGU2wwM3ludHgweC1EcEQ4TjBpaWJkbWYwbVBhampIQU1TWnVYcnBiUWZ0YWFneHQ2ZkJhZFJGZ2cyOVFiRWhkdkZkam5lcUpac2hCSQ?oc=5",
+          "title": "Susan Sarandon and Hannah Einbinder arrested at anti-Netanyahu protest in New York - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWthOGQ3aEdYWVlGRzJKN3NiYy1LY2Z2ZU1SWjRnRmo1X1V3WkQ4aC1rTHJFSzhjbUUtbFYxVzhjcTh6MC1xbHFJTVhsUXF4Y0hFSVh2MzJ2eUQxYkU5YVFyT0dOam9VV2lhdlRFV1JaQTQ2aThvVGZDOS16cHBNVmlfVGppLVFIRGdaajQ5LWthNWNvYUpUdDJMUGVhS0ZWRWJxZUhjdjlNdTRlZlNTdV9iaWxGeFZwRk02SA?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 08:10:36 GMT"
+          "published": "Fri, 25 Sep 2026 17:49:00 GMT"
         }
       ]
     },
     {
-      "word": "Friday",
+      "word": "Hannah",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Rainy and windy conditions across Connecticut Friday night through Sunday! - WTNH.com",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLVJPUHRPdnoyQkEzSW9Udi10akY3R0lEZkJldGNvWmxfMGRaZlhBaXJDNjRQdzAxaEpGUVJvUzRVZjNKUUZqUktzMWhsX2FtcnRYZ0xqWTBnMnpoZ2ZmNDBPTHJOT3VDdnFqNjR6ekZ2R1F1QUJIMzJrSTF3VGFmN1RXVTJFQzVJOWxaSXc1SjRtVXZxbUx3WjBQVTYxNTg4VDd0M3VR0gGrAUFVX3lxTE1TMVNySHBZNWtrdUZhc1VVUTc5Z2JST3NlNXJqTTFFYXM0a3I2UzMzblJsYnRhRE9seElkeE1nTmU2WTdpRDlPamlGVHN3WlZVWXVCVkRxN1RWaEp2T1pGU2wwM3ludHgweC1EcEQ4TjBpaWJkbWYwbVBhampIQU1TWnVYcnBiUWZ0YWFneHQ2ZkJhZFJGZ2cyOVFiRWhkdkZkam5lcUpac2hCSQ?oc=5",
+          "title": "Susan Sarandon and Hannah Einbinder arrested at anti-Netanyahu protest in New York - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWthOGQ3aEdYWVlGRzJKN3NiYy1LY2Z2ZU1SWjRnRmo1X1V3WkQ4aC1rTHJFSzhjbUUtbFYxVzhjcTh6MC1xbHFJTVhsUXF4Y0hFSVh2MzJ2eUQxYkU5YVFyT0dOam9VV2lhdlRFV1JaQTQ2aThvVGZDOS16cHBNVmlfVGppLVFIRGdaajQ5LWthNWNvYUpUdDJMUGVhS0ZWRWJxZUhjdjlNdTRlZlNTdV9iaWxGeFZwRk02SA?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 08:10:36 GMT"
+          "published": "Fri, 25 Sep 2026 17:49:00 GMT"
         }
       ]
     },
     {
-      "word": "Night",
+      "word": "Einbinder",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Rainy and windy conditions across Connecticut Friday night through Sunday! - WTNH.com",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLVJPUHRPdnoyQkEzSW9Udi10akY3R0lEZkJldGNvWmxfMGRaZlhBaXJDNjRQdzAxaEpGUVJvUzRVZjNKUUZqUktzMWhsX2FtcnRYZ0xqWTBnMnpoZ2ZmNDBPTHJOT3VDdnFqNjR6ekZ2R1F1QUJIMzJrSTF3VGFmN1RXVTJFQzVJOWxaSXc1SjRtVXZxbUx3WjBQVTYxNTg4VDd0M3VR0gGrAUFVX3lxTE1TMVNySHBZNWtrdUZhc1VVUTc5Z2JST3NlNXJqTTFFYXM0a3I2UzMzblJsYnRhRE9seElkeE1nTmU2WTdpRDlPamlGVHN3WlZVWXVCVkRxN1RWaEp2T1pGU2wwM3ludHgweC1EcEQ4TjBpaWJkbWYwbVBhampIQU1TWnVYcnBiUWZ0YWFneHQ2ZkJhZFJGZ2cyOVFiRWhkdkZkam5lcUpac2hCSQ?oc=5",
+          "title": "Susan Sarandon and Hannah Einbinder arrested at anti-Netanyahu protest in New York - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWthOGQ3aEdYWVlGRzJKN3NiYy1LY2Z2ZU1SWjRnRmo1X1V3WkQ4aC1rTHJFSzhjbUUtbFYxVzhjcTh6MC1xbHFJTVhsUXF4Y0hFSVh2MzJ2eUQxYkU5YVFyT0dOam9VV2lhdlRFV1JaQTQ2aThvVGZDOS16cHBNVmlfVGppLVFIRGdaajQ5LWthNWNvYUpUdDJMUGVhS0ZWRWJxZUhjdjlNdTRlZlNTdV9iaWxGeFZwRk02SA?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 08:10:36 GMT"
+          "published": "Fri, 25 Sep 2026 17:49:00 GMT"
         }
       ]
     },
     {
-      "word": "Sunday",
+      "word": "Arrested",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Rainy and windy conditions across Connecticut Friday night through Sunday! - WTNH.com",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLVJPUHRPdnoyQkEzSW9Udi10akY3R0lEZkJldGNvWmxfMGRaZlhBaXJDNjRQdzAxaEpGUVJvUzRVZjNKUUZqUktzMWhsX2FtcnRYZ0xqWTBnMnpoZ2ZmNDBPTHJOT3VDdnFqNjR6ekZ2R1F1QUJIMzJrSTF3VGFmN1RXVTJFQzVJOWxaSXc1SjRtVXZxbUx3WjBQVTYxNTg4VDd0M3VR0gGrAUFVX3lxTE1TMVNySHBZNWtrdUZhc1VVUTc5Z2JST3NlNXJqTTFFYXM0a3I2UzMzblJsYnRhRE9seElkeE1nTmU2WTdpRDlPamlGVHN3WlZVWXVCVkRxN1RWaEp2T1pGU2wwM3ludHgweC1EcEQ4TjBpaWJkbWYwbVBhampIQU1TWnVYcnBiUWZ0YWFneHQ2ZkJhZFJGZ2cyOVFiRWhkdkZkam5lcUpac2hCSQ?oc=5",
+          "title": "Susan Sarandon and Hannah Einbinder arrested at anti-Netanyahu protest in New York - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWthOGQ3aEdYWVlGRzJKN3NiYy1LY2Z2ZU1SWjRnRmo1X1V3WkQ4aC1rTHJFSzhjbUUtbFYxVzhjcTh6MC1xbHFJTVhsUXF4Y0hFSVh2MzJ2eUQxYkU5YVFyT0dOam9VV2lhdlRFV1JaQTQ2aThvVGZDOS16cHBNVmlfVGppLVFIRGdaajQ5LWthNWNvYUpUdDJMUGVhS0ZWRWJxZUhjdjlNdTRlZlNTdV9iaWxGeFZwRk02SA?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 08:10:36 GMT"
+          "published": "Fri, 25 Sep 2026 17:49:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Anti",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Susan Sarandon and Hannah Einbinder arrested at anti-Netanyahu protest in New York - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWthOGQ3aEdYWVlGRzJKN3NiYy1LY2Z2ZU1SWjRnRmo1X1V3WkQ4aC1rTHJFSzhjbUUtbFYxVzhjcTh6MC1xbHFJTVhsUXF4Y0hFSVh2MzJ2eUQxYkU5YVFyT0dOam9VV2lhdlRFV1JaQTQ2aThvVGZDOS16cHBNVmlfVGppLVFIRGdaajQ5LWthNWNvYUpUdDJMUGVhS0ZWRWJxZUhjdjlNdTRlZlNTdV9iaWxGeFZwRk02SA?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 17:49:00 GMT"
         }
       ]
     },
@@ -544,114 +565,75 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "With Netanyahu at the U.N., Mamdani plants an olive tree with Palestinians - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQy1ZMTNsT25aZmtubWF6MUF5eG42N0FmZE94d2ZuWGltdnhxSmhueGNpX0xNU1NpWnFxOEl1ZlltM2Mzb2IyZVZFTWNESHkzTVlkRmVPYmQ2MHNJTU1YbTgyNzNYV3hTMUwtUWFwQW41LU9RQ1BqajBIMjJveF83WmFmSXEySW1XaE5ORDM4d1hYM3lXV1pWNjZwX0dmeFdKclhKTFp0TVFQZFV0RkNDbmNCVQ?oc=5",
+          "title": "Susan Sarandon and Hannah Einbinder arrested at anti-Netanyahu protest in New York - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWthOGQ3aEdYWVlGRzJKN3NiYy1LY2Z2ZU1SWjRnRmo1X1V3WkQ4aC1rTHJFSzhjbUUtbFYxVzhjcTh6MC1xbHFJTVhsUXF4Y0hFSVh2MzJ2eUQxYkU5YVFyT0dOam9VV2lhdlRFV1JaQTQ2aThvVGZDOS16cHBNVmlfVGppLVFIRGdaajQ5LWthNWNvYUpUdDJMUGVhS0ZWRWJxZUhjdjlNdTRlZlNTdV9iaWxGeFZwRk02SA?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 03:14:54 GMT"
+          "published": "Fri, 25 Sep 2026 17:49:00 GMT"
         }
       ]
     },
     {
-      "word": "Mamdani",
+      "word": "Protest",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "With Netanyahu at the U.N., Mamdani plants an olive tree with Palestinians - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQy1ZMTNsT25aZmtubWF6MUF5eG42N0FmZE94d2ZuWGltdnhxSmhueGNpX0xNU1NpWnFxOEl1ZlltM2Mzb2IyZVZFTWNESHkzTVlkRmVPYmQ2MHNJTU1YbTgyNzNYV3hTMUwtUWFwQW41LU9RQ1BqajBIMjJveF83WmFmSXEySW1XaE5ORDM4d1hYM3lXV1pWNjZwX0dmeFdKclhKTFp0TVFQZFV0RkNDbmNCVQ?oc=5",
+          "title": "Susan Sarandon and Hannah Einbinder arrested at anti-Netanyahu protest in New York - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWthOGQ3aEdYWVlGRzJKN3NiYy1LY2Z2ZU1SWjRnRmo1X1V3WkQ4aC1rTHJFSzhjbUUtbFYxVzhjcTh6MC1xbHFJTVhsUXF4Y0hFSVh2MzJ2eUQxYkU5YVFyT0dOam9VV2lhdlRFV1JaQTQ2aThvVGZDOS16cHBNVmlfVGppLVFIRGdaajQ5LWthNWNvYUpUdDJMUGVhS0ZWRWJxZUhjdjlNdTRlZlNTdV9iaWxGeFZwRk02SA?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 03:14:54 GMT"
+          "published": "Fri, 25 Sep 2026 17:49:00 GMT"
         }
       ]
     },
     {
-      "word": "Plants",
+      "word": "York",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "With Netanyahu at the U.N., Mamdani plants an olive tree with Palestinians - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQy1ZMTNsT25aZmtubWF6MUF5eG42N0FmZE94d2ZuWGltdnhxSmhueGNpX0xNU1NpWnFxOEl1ZlltM2Mzb2IyZVZFTWNESHkzTVlkRmVPYmQ2MHNJTU1YbTgyNzNYV3hTMUwtUWFwQW41LU9RQ1BqajBIMjJveF83WmFmSXEySW1XaE5ORDM4d1hYM3lXV1pWNjZwX0dmeFdKclhKTFp0TVFQZFV0RkNDbmNCVQ?oc=5",
+          "title": "Susan Sarandon and Hannah Einbinder arrested at anti-Netanyahu protest in New York - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWthOGQ3aEdYWVlGRzJKN3NiYy1LY2Z2ZU1SWjRnRmo1X1V3WkQ4aC1rTHJFSzhjbUUtbFYxVzhjcTh6MC1xbHFJTVhsUXF4Y0hFSVh2MzJ2eUQxYkU5YVFyT0dOam9VV2lhdlRFV1JaQTQ2aThvVGZDOS16cHBNVmlfVGppLVFIRGdaajQ5LWthNWNvYUpUdDJMUGVhS0ZWRWJxZUhjdjlNdTRlZlNTdV9iaWxGeFZwRk02SA?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 03:14:54 GMT"
+          "published": "Fri, 25 Sep 2026 17:49:00 GMT"
         }
       ]
     },
     {
-      "word": "Olive",
+      "word": "Easter",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "With Netanyahu at the U.N., Mamdani plants an olive tree with Palestinians - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQy1ZMTNsT25aZmtubWF6MUF5eG42N0FmZE94d2ZuWGltdnhxSmhueGNpX0xNU1NpWnFxOEl1ZlltM2Mzb2IyZVZFTWNESHkzTVlkRmVPYmQ2MHNJTU1YbTgyNzNYV3hTMUwtUWFwQW41LU9RQ1BqajBIMjJveF83WmFmSXEySW1XaE5ORDM4d1hYM3lXV1pWNjZwX0dmeFdKclhKTFp0TVFQZFV0RkNDbmNCVQ?oc=5",
+          "title": "Nor’easter Could Bring Heavy Rain, Winds, and Flooding to East Coast - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUEhqb25BOE1STEVoUW1ub1kta3lBYnZJTGFtRGdrVzlGQjhaZzlxZUdTNzM2Q0JHZkpNa3hRdUg2YmIwempPTmlSNTVHNFNyUkVmYUhBbFlzUVFTQWtzOE5RZ1hKM3djc2Vvc1hCajctTENNYnZFZnB5WURYU2hTWHlWb3piTGs4dkZGTGc0YlA?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 03:14:54 GMT"
+          "published": "Fri, 25 Sep 2026 14:43:00 GMT"
         }
       ]
     },
     {
-      "word": "Tree",
+      "word": "Bring",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "With Netanyahu at the U.N., Mamdani plants an olive tree with Palestinians - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQy1ZMTNsT25aZmtubWF6MUF5eG42N0FmZE94d2ZuWGltdnhxSmhueGNpX0xNU1NpWnFxOEl1ZlltM2Mzb2IyZVZFTWNESHkzTVlkRmVPYmQ2MHNJTU1YbTgyNzNYV3hTMUwtUWFwQW41LU9RQ1BqajBIMjJveF83WmFmSXEySW1XaE5ORDM4d1hYM3lXV1pWNjZwX0dmeFdKclhKTFp0TVFQZFV0RkNDbmNCVQ?oc=5",
+          "title": "Nor’easter Could Bring Heavy Rain, Winds, and Flooding to East Coast - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUEhqb25BOE1STEVoUW1ub1kta3lBYnZJTGFtRGdrVzlGQjhaZzlxZUdTNzM2Q0JHZkpNa3hRdUg2YmIwempPTmlSNTVHNFNyUkVmYUhBbFlzUVFTQWtzOE5RZ1hKM3djc2Vvc1hCajctTENNYnZFZnB5WURYU2hTWHlWb3piTGs4dkZGTGc0YlA?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 03:14:54 GMT"
+          "published": "Fri, 25 Sep 2026 14:43:00 GMT"
         }
       ]
     },
     {
-      "word": "Palestinians",
+      "word": "Heavy",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "With Netanyahu at the U.N., Mamdani plants an olive tree with Palestinians - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQy1ZMTNsT25aZmtubWF6MUF5eG42N0FmZE94d2ZuWGltdnhxSmhueGNpX0xNU1NpWnFxOEl1ZlltM2Mzb2IyZVZFTWNESHkzTVlkRmVPYmQ2MHNJTU1YbTgyNzNYV3hTMUwtUWFwQW41LU9RQ1BqajBIMjJveF83WmFmSXEySW1XaE5ORDM4d1hYM3lXV1pWNjZwX0dmeFdKclhKTFp0TVFQZFV0RkNDbmNCVQ?oc=5",
+          "title": "Nor’easter Could Bring Heavy Rain, Winds, and Flooding to East Coast - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUEhqb25BOE1STEVoUW1ub1kta3lBYnZJTGFtRGdrVzlGQjhaZzlxZUdTNzM2Q0JHZkpNa3hRdUg2YmIwempPTmlSNTVHNFNyUkVmYUhBbFlzUVFTQWtzOE5RZ1hKM3djc2Vvc1hCajctTENNYnZFZnB5WURYU2hTWHlWb3piTGs4dkZGTGc0YlA?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 03:14:54 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Senate",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "US Senate rejects resolution curbing Trump's Iran war powers - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNODVQSjliMlBWTFZPaHV3aXY5Y3hMVGl0dWc0bTRDdGxOU1NhOXZJVmx1eWh2Q3VmX0h3UWZnOVZlODRXcEU1LVNtWHpVSDNVOGpmU3BWVVNzUzd1T1d5UlRLcktuVENkeGpMem1FcmJkUWVoR1dpMFY0QnZ1ZDZZV0pHczRpOWI4ZnZtRS1CdGUzQlZMUlRzazU5dk9yZUl6NjdlMlNFSQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 18:51:47 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Rejects",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "US Senate rejects resolution curbing Trump's Iran war powers - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNODVQSjliMlBWTFZPaHV3aXY5Y3hMVGl0dWc0bTRDdGxOU1NhOXZJVmx1eWh2Q3VmX0h3UWZnOVZlODRXcEU1LVNtWHpVSDNVOGpmU3BWVVNzUzd1T1d5UlRLcktuVENkeGpMem1FcmJkUWVoR1dpMFY0QnZ1ZDZZV0pHczRpOWI4ZnZtRS1CdGUzQlZMUlRzazU5dk9yZUl6NjdlMlNFSQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 18:51:47 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Resolution",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "US Senate rejects resolution curbing Trump's Iran war powers - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNODVQSjliMlBWTFZPaHV3aXY5Y3hMVGl0dWc0bTRDdGxOU1NhOXZJVmx1eWh2Q3VmX0h3UWZnOVZlODRXcEU1LVNtWHpVSDNVOGpmU3BWVVNzUzd1T1d5UlRLcktuVENkeGpMem1FcmJkUWVoR1dpMFY0QnZ1ZDZZV0pHczRpOWI4ZnZtRS1CdGUzQlZMUlRzazU5dk9yZUl6NjdlMlNFSQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 18:51:47 GMT"
+          "published": "Fri, 25 Sep 2026 14:43:00 GMT"
         }
       ]
     }
