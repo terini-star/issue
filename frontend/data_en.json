@@ -1,87 +1,352 @@
 {
   "language": "en",
-  "last_updated": 1790321571.3274693,
+  "last_updated": 1790343225.962996,
   "count": 40,
   "trends": [
     {
       "word": "Trump",
+      "count": 5,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Diplomacy or ‘diplotainment’? Key takeaways from the Trump-Xi summit in Washington - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVTBpVk8wYXRNZG1HUENzb2NnbUZnQXBqSEY5X1VEdGZmRXRPTjN1dERqMTR5VzJtdk5aNURNQnE1aDZOOFI5MlQ3TmlEaDdsSlJyU2o4bjlKYVlIdFMwY3pqTHg2VXotZFVQSkY1VmZERU40bXlQaF81NnVWZWhwUHFTSWVWMXpjRUx0bkNHN3phR21hV1hTdmp4dGp2eWpDRndwTV9n?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 11:58:00 GMT"
+        },
+        {
+          "title": "US Senate rejects resolution curbing Trump's Iran war powers - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNODVQSjliMlBWTFZPaHV3aXY5Y3hMVGl0dWc0bTRDdGxOU1NhOXZJVmx1eWh2Q3VmX0h3UWZnOVZlODRXcEU1LVNtWHpVSDNVOGpmU3BWVVNzUzd1T1d5UlRLcktuVENkeGpMem1FcmJkUWVoR1dpMFY0QnZ1ZDZZV0pHczRpOWI4ZnZtRS1CdGUzQlZMUlRzazU5dk9yZUl6NjdlMlNFSQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 24 Sep 2026 18:51:47 GMT"
+        },
+        {
+          "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ISWNpUkw1S1F4Z1JEQTdJU0hNS1hoS1pqOGhZcXU5SGtCMXk1RktrVmoySDlDTGo4aVRRaGxjLWR6cE9EMURuTVN5UVpsc05TbE5kVDhKSzluN1k?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 01:10:35 GMT"
+        },
+        {
+          "title": "With Republicans under pressure, Trump’s White House starts bending - Politico",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQXhLQ2J1V2VsTVlmSXpKYTNBeWpubThGcnFqSm5xRXBoSnBHSUEzSGVvSG8ySHJDTWNLN2ctU1lJdjREcEtfaUliMVhya29lNzBqc1NPRXBoYnZlMnlfT0YwbDhpcFpSa19iLTlEY01MTTlWdFRodnpxWC1BaVQyaFVEYzYwQ2t1Z3R0SUFDVHFmb1FZME1mRW1oQ1dtR25ZMXRjQ1QwejI2RjM2OHMxZndWZEtPRkg5Q3daUndNSDZCMlhOWVBrVHFubWNFVTlHTWc1SEk1MW56amZCYUQ5X2dreHFQSkNCal9sYQ?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 09:50:00 GMT"
+        },
+        {
+          "title": "Sen. Duckworth slams Trump's \"foolhardy plan\" to make triumphal arch a military complex - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSll6N0EwbEVIc2lsTEpJQ0JMNl9zWHJxaW1RMGlQa2J5Z3llSzViSkRndFBycGlfSHotaWM1c2Rpc2ZSeDFIbkhLWEQzc0JIaDZGanVFdmNpWlB2NDZnVllSMWIwVXlGRHBRUl9mc3Ata1pnUG8tOGZzSVFWbFROZ0ZMa0ptRGhuM284N3hYSWV5S1RJaWhj?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 11:00:12 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Stock",
+      "count": 4,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Stock Market Today: Bond Selloff Abates as Oil Price Slips — Live Updates - wsj.com",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdzJlV1lCRUFaS3NFZVdBQ0pzbGZWS0xieVRwbHUtaHRMSTJJU0xqT25TQjg1R2M4OU5UTHNFQ3F5enpXNkpCMmZUWVNFOVJ2NWVxN25QeWxLVkJGdVlVVmx0cDFxdFBwVkZwcy1ZM3pGSXpnVzVmMDBjNUs5R1NjZWNPalFfTEk?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 12:15:00 GMT"
+        },
+        {
+          "title": "Stock Market Today: Dow Slides As Treasury Yields Surge; Nvidia Slips While Micron Rises - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN2l0R0JrY2c1cDFCU0VsV3p4d0hhLVp4Q2Q5aEVYUkYwd0o0dW1QMjRPYXVZaFNzbzczOVEzeFZTbENFQWZOVHdtX0NSZi1DVFFXWkpVb3JnLWM1eF9nbkpkSkdtMGE3XzV4NFdPZG9ha3E4YWZQZWpiQkNKZDZwWE5EeHk0cnd3LWh3QUozMUdWQ2NXS2xuWE9uMFJFaFFjMERDSTFLcjJNLW5RQVU2SkhZVU11R0N0WlFCMTI2VEhsWDg?oc=5",
+          "source": "Google News",
+          "published": "Thu, 24 Sep 2026 20:34:00 GMT"
+        },
+        {
+          "title": "Costco Wholesale Beats Earnings Estimates. Its Stock Is Down. - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zV29kdWNHTkwtVW5BZDlKQnZKcGZiQndadjk0N3RqUXpuR0N5a0I0M0RPLVlMdThReUlfQmdzQkVtUGxXSGJ5bEpRd2hoZjdxYTVoQ3ZfV2pnajJHS29DcThRZlNXdnc1LTA4VGhoVGF6ZVVGcWpnVw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 09:38:45 GMT"
+        },
+        {
+          "title": "Meta Launches $1M Developer Competition to Stock 'VR Glasses' with More Hand-tracked Apps - roadtovr.com",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85WjZfU09ubnpHalNydFNQZEpZU21HenlQX044Q3FIa2FFUlZUYjRrSHloWDVUbTE3dnJpSms0YTdxUHhRRVlKckJCdmtjWmIxTEg5Z1U2bDhLR3JYcnZxbkR2d0ZTdk1TZFZubjZR?oc=5",
+          "source": "Google News",
+          "published": "Thu, 24 Sep 2026 18:35:13 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Week",
       "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Pomp prevails over substance as Donald Trump hosts Xi Jinping - Financial Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPemRoVjVjb2xLM2E1UnBWSDlXQ2pFWHhPQXpMejdxekdZMURoT3lTTWtVYkI1UExucS1NTVZ5RHhYOGQzRDh1aWRLRU12T3JKTUxXZlBBd01TMkhCSVBwdnBjQkF3eXQ4aDN4NEFKZWtLN3VzSEVLaHU1bzQwb2UxQXQxaUI?oc=5",
+          "title": "Paramount Merger Settlement Won’t Be Resolved Until At Least Next Week As Judge Questions Agreement - forbes.com",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZGpLMXFwa2k0UDVXQ3lGYUpwLUFqTFFCLU9qWkVqMDJUdmF2NGZpU3c1bkM1bkJQeE9YRlVmQ003Ujc4R3JzcVQ4R2lhTnZKN2xUQlIzM1BSdV9za2FHOFpTZ1BSekNoLXI4dXVjb0tQTk40cVY2VzVUMFVEQnd6X1VxTHVoenJadGgtVDV3cHdvd2lOYWR6SzJHT3Q4bWNBY3lBMVJwajc1MWgxWFNXblEzNDl0RU91MmdOLVFGeGhyU0FFZHY4a2huenFHRTZXbW9tMmk4X01BcFUtZFdSa1RNalRqSEk?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 03:03:28 GMT"
+          "published": "Thu, 24 Sep 2026 20:20:00 GMT"
         },
         {
-          "title": "Senate rejects measure to block Trump from ordering more strikes on Iran - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNME9ERHJpUjN5al9WcXpBN2swOXk5RWVLM3hQRkRxWVpnMVlyODlwYThYZG96eGlZbzhkSU91UDhZWFo5ajRjWHQ0NE9GQTFVYkpKMThKaDg4aVFFZGprbHc5UHlIOW10WkVaQlh1MlhJTGJDSjB2ZFJPTndTaU9TbWhMN213TUphMmZxc0hobFRkdExIUFVQZk9DRm1BR0NwU0p6WFBwdFo5WDFNMDFyTTVjNA?oc=5",
+          "title": "Week 4’s top 10 college football games: Texas-Tennessee, Oregon-USC, Texas A&M-LSU and more - The Athletic - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUVBUQ1lSdktUd1NKRGRURVN3djFNS2RGdU1wRkRFcmVZc0JOeWpwQlBkMDFYa0xTTXRUNVllM2htbnBhUXpBVEx4dDdmRnh0VFdOMmxucXNTbjE1UVp4TEdKS1VTdU5xZWZGM0RpdGMySGJFUTQ3T1FEU3pORC1iRDI1VGhETldKRW5RUVpOOA?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 02:00:19 GMT"
+          "published": "Fri, 25 Sep 2026 09:00:26 GMT"
         },
         {
-          "title": "U.N. Ambassador Mike Waltz on Iran, Venezuela and Trump's foreign policy - npr.org",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMDJMYkZIV0VxRjV1NF9DUHlxRW16ZnBNNlJacDZRMUhxOFpaUDAxWTQwbXRrZXJGbG85cVdHbEZEYmU2Y2xUQ1VxNmNILUJ0eDY0TDh1WV9PcWxiRndKdjFTZkEyd3BLWmdNU2JjSEd3Z0lGZzY2Yy1wTmUtOWZTRDlhYWl3OVZUMG1sT2RuLXZWclZjX3c?oc=5",
+          "title": "Catch 5 planets and the Harvest Moon lighting up the sky this week - The Weather Channel",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOGFTTEx1QVJzZ1FneWlEXzZXR2dGZjV6MXpUVTRWcUZCbjB3UVVyMGRQX29CRjd4MkhoT2ltS05HeTZuWE14N0QwSzlSVHRvNDdlZWRfV0tza3kyMldpN0dQbFlVZnEzRjFxbG92bTN6ZEdXTnlEcHJWZjE4UzlZSG9iOTJYMEw1U0NUUXZuZ1hwYk9YbDBYeXRJTGM?oc=5",
           "source": "Google News",
-          "published": "Wed, 23 Sep 2026 10:48:47 GMT"
+          "published": "Thu, 24 Sep 2026 10:48:00 GMT"
         }
       ]
     },
     {
-      "word": "California",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Hurricane Polo is coming. Here’s what it means for Southern California - Los Angeles Times",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZDdRWE0wT19tRmJDcnlqdjNhM2l1RGlpenBldC1MY2Z0YnR3Mmo0UGNQYXc5dnBTbWVQM085NG5Eb3FWcjdBOUtxOE9NYWgweGxCYlY0M1FCOFA0dlBhWDYySnpDU3d2TVhFc0tLZ0R4ZEtwaGNyY0llbU1ZRmFkaHF4YkZrTjV0YjVKeldSZnJCMHRUbko0QnhGSkVFQld6S3FNZDMxdVRrLVh5dmJIczFyb3htNTl5XzdObw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 23:42:00 GMT"
-        },
-        {
-          "title": "Ballot seizure by Riverside County sheriff was ‘unlawful,’ California Supreme Court rules - Los Angeles Times",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQW5DRGFvMFFvU3RWUjhfWEw0MUZKUHJvZVdIZnVPMzZZbzQ4RHZJbnFtTE15alFQTmRieTdHZjl5QzV2WHpLM0tyNFUtRG9SVENaVFpsWndkS3M2elNpUG5ZZ3pZWnpKeDhBNFh2MnZYbXVtSE8xZDlPYTlDWDg4SmJjYjI5ODI3c2d6SHczZUNxQmdsWGNZdUNVMUZXV2c?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 19:20:00 GMT"
-        },
-        {
-          "title": "'Really Unique' Amoeba Thrives in California's Hot Springs - Newser",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSWJnXzFCcUZrUnhvQVQyaU1zQkRHRm5qYjdWNHBFdy1PY3ZLNU44UmVoRlZzVmlyeXRMaTdTSVBvazBiWVg4a2pzMFRlMTZ5S01pdE0yZjhqRm9CbjNMVTgwek9mV2dDMkZKVmdkWlhxbk9ubEhNeDl0QmlKQXdSVEQ3bW5IdEhQM1BuUHRCRUNENzhCNmRVTC1WQQ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 23 Sep 2026 20:40:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Iran",
+      "word": "war",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Senate rejects measure to block Trump from ordering more strikes on Iran - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNME9ERHJpUjN5al9WcXpBN2swOXk5RWVLM3hQRkRxWVpnMVlyODlwYThYZG96eGlZbzhkSU91UDhZWFo5ajRjWHQ0NE9GQTFVYkpKMThKaDg4aVFFZGprbHc5UHlIOW10WkVaQlh1MlhJTGJDSjB2ZFJPTndTaU9TbWhMN213TUphMmZxc0hobFRkdExIUFVQZk9DRm1BR0NwU0p6WFBwdFo5WDFNMDFyTTVjNA?oc=5",
+          "title": "US Senate rejects resolution curbing Trump's Iran war powers - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNODVQSjliMlBWTFZPaHV3aXY5Y3hMVGl0dWc0bTRDdGxOU1NhOXZJVmx1eWh2Q3VmX0h3UWZnOVZlODRXcEU1LVNtWHpVSDNVOGpmU3BWVVNzUzd1T1d5UlRLcktuVENkeGpMem1FcmJkUWVoR1dpMFY0QnZ1ZDZZV0pHczRpOWI4ZnZtRS1CdGUzQlZMUlRzazU5dk9yZUl6NjdlMlNFSQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 02:00:19 GMT"
+          "published": "Thu, 24 Sep 2026 18:51:47 GMT"
         },
         {
-          "title": "U.N. Ambassador Mike Waltz on Iran, Venezuela and Trump's foreign policy - npr.org",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMDJMYkZIV0VxRjV1NF9DUHlxRW16ZnBNNlJacDZRMUhxOFpaUDAxWTQwbXRrZXJGbG85cVdHbEZEYmU2Y2xUQ1VxNmNILUJ0eDY0TDh1WV9PcWxiRndKdjFTZkEyd3BLWmdNU2JjSEd3Z0lGZzY2Yy1wTmUtOWZTRDlhYWl3OVZUMG1sT2RuLXZWclZjX3c?oc=5",
+          "title": "Internet and phone network disrupted in Ethiopia's war-hit Tigray region - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbDJJMmIzb3BPa0Q5MUYtLVNzSk1CdzRVWHB6QVBOTU5MeG1yVmZZQWNnQ2dhUHRGbTZqQnNoU2xBUzRzM2lGM25zMnZRc2tGVUpaMzR1dVBhLVVrazc2WkN0V1pKcTdKRzU4VkVPTzNPRGNMQm5MeFNrZU94M253OWRFZjZfenhpT29qY091RGN5ajRNV1dTbHUxM0N1QXgwYmJiOExqaldneEdfbXF2QVBWTmZNcFU?oc=5",
           "source": "Google News",
-          "published": "Wed, 23 Sep 2026 10:48:47 GMT"
+          "published": "Fri, 25 Sep 2026 05:42:00 GMT"
         }
       ]
     },
     {
-      "word": "County",
+      "word": "Food",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Ballot seizure by Riverside County sheriff was ‘unlawful,’ California Supreme Court rules - Los Angeles Times",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQW5DRGFvMFFvU3RWUjhfWEw0MUZKUHJvZVdIZnVPMzZZbzQ4RHZJbnFtTE15alFQTmRieTdHZjl5QzV2WHpLM0tyNFUtRG9SVENaVFpsWndkS3M2elNpUG5ZZ3pZWnpKeDhBNFh2MnZYbXVtSE8xZDlPYTlDWDg4SmJjYjI5ODI3c2d6SHczZUNxQmdsWGNZdUNVMUZXV2c?oc=5",
+          "title": "Unused Tents and Uneaten Food: Watchdog Finds ‘Waste’ in Immigration Crackdown - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMUkzc2NPMnUtT3B5c0Naa09fQUFZdlJDRWdMTkVNVEVJNWwwVDFobTZ1dkZkNk9uVjZWOXBjNkw2LV9LcV9zYk4tazh1Z2hMaHlOMlV1Y1Fab001U0xQT3h6Tld3bW1weWJiSHFORTFtM08ydlRvMXBaSVJLd1ZROHpseXdvYTlneDV3NXBURk01VlBZeWlJMUx3?oc=5",
           "source": "Google News",
-          "published": "Thu, 24 Sep 2026 19:20:00 GMT"
+          "published": "Fri, 25 Sep 2026 00:00:24 GMT"
+        },
+        {
+          "title": "A dolphin in Australia steals food from fish in the grossest way - Boing Boing",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR2pJMmJqYjVKX05TZmM5Z3RWZWhQS1I4VDFHR2EzbG9BR2RxSmlxcUtVWlExZFdRb0pnYWpYMnIzTmRZUGItSFJiRHV2VHU3NmhXMjZrcUNtOVVGaGZxU1hxMWx3UzcyOG8xX29RRzZuQUV2UlBaWFRJc3c2Vk1qZHhYRVE2RDlaZlFLdWdoeEw1S2JRN2M5V19LR0xLSFlD0gGmAUFVX3lxTE8tQVBqZXAzajRXZF9vS19LVERlaHpncVZzRU44ZlYtN2ZaaUZCSFBReGNaUVpzVjlVVTRablktcFZNMVV3c0RXM19tN0pHRmc3VFFPRFgteUF1TmY2dFBja01MUTl5QTVUVE1XaE1LaWhKZklTSnVJLTRjdkN2MUc0c0gyN0x1VUVNZmRZUEc0UVJDVWwyY3lHM0ZucktOWDZVbXBKbVE?oc=5",
+          "source": "Google News",
+          "published": "Thu, 24 Sep 2026 17:25:24 GMT"
+        }
+      ]
+    },
+    {
+      "word": "White",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ISWNpUkw1S1F4Z1JEQTdJU0hNS1hoS1pqOGhZcXU5SGtCMXk1RktrVmoySDlDTGo4aVRRaGxjLWR6cE9EMURuTVN5UVpsc05TbE5kVDhKSzluN1k?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 01:10:35 GMT"
+        },
+        {
+          "title": "With Republicans under pressure, Trump’s White House starts bending - Politico",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQXhLQ2J1V2VsTVlmSXpKYTNBeWpubThGcnFqSm5xRXBoSnBHSUEzSGVvSG8ySHJDTWNLN2ctU1lJdjREcEtfaUliMVhya29lNzBqc1NPRXBoYnZlMnlfT0YwbDhpcFpSa19iLTlEY01MTTlWdFRodnpxWC1BaVQyaFVEYzYwQ2t1Z3R0SUFDVHFmb1FZME1mRW1oQ1dtR25ZMXRjQ1QwejI2RjM2OHMxZndWZEtPRkg5Q3daUndNSDZCMlhOWVBrVHFubWNFVTlHTWc1SEk1MW56amZCYUQ5X2dreHFQSkNCal9sYQ?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 09:50:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "House",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ISWNpUkw1S1F4Z1JEQTdJU0hNS1hoS1pqOGhZcXU5SGtCMXk1RktrVmoySDlDTGo4aVRRaGxjLWR6cE9EMURuTVN5UVpsc05TbE5kVDhKSzluN1k?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 01:10:35 GMT"
+        },
+        {
+          "title": "With Republicans under pressure, Trump’s White House starts bending - Politico",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQXhLQ2J1V2VsTVlmSXpKYTNBeWpubThGcnFqSm5xRXBoSnBHSUEzSGVvSG8ySHJDTWNLN2ctU1lJdjREcEtfaUliMVhya29lNzBqc1NPRXBoYnZlMnlfT0YwbDhpcFpSa19iLTlEY01MTTlWdFRodnpxWC1BaVQyaFVEYzYwQ2t1Z3R0SUFDVHFmb1FZME1mRW1oQ1dtR25ZMXRjQ1QwejI2RjM2OHMxZndWZEtPRkg5Q3daUndNSDZCMlhOWVBrVHFubWNFVTlHTWc1SEk1MW56amZCYUQ5X2dreHFQSkNCal9sYQ?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 09:50:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Judge",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ISWNpUkw1S1F4Z1JEQTdJU0hNS1hoS1pqOGhZcXU5SGtCMXk1RktrVmoySDlDTGo4aVRRaGxjLWR6cE9EMURuTVN5UVpsc05TbE5kVDhKSzluN1k?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 01:10:35 GMT"
+        },
+        {
+          "title": "Paramount Merger Settlement Won’t Be Resolved Until At Least Next Week As Judge Questions Agreement - forbes.com",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZGpLMXFwa2k0UDVXQ3lGYUpwLUFqTFFCLU9qWkVqMDJUdmF2NGZpU3c1bkM1bkJQeE9YRlVmQ003Ujc4R3JzcVQ4R2lhTnZKN2xUQlIzM1BSdV9za2FHOFpTZ1BSekNoLXI4dXVjb0tQTk40cVY2VzVUMFVEQnd6X1VxTHVoenJadGgtVDV3cHdvd2lOYWR6SzJHT3Q4bWNBY3lBMVJwajc1MWgxWFNXblEzNDl0RU91MmdOLVFGeGhyU0FFZHY4a2huenFHRTZXbW9tMmk4X01BcFUtZFdSa1RNalRqSEk?oc=5",
+          "source": "Google News",
+          "published": "Thu, 24 Sep 2026 20:20:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Calls",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "New Jersey Gov. Sherrill calls on her lieutenant governor to resign - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONnBCUVlyTW10Xy00ZjhDZFhrNHhrYm9Fc0ZXSmJ6MGFEMEkwSFlmTmFKSmZybk9qemRibTY3WE5pZ2N5MlROeEJfVm5hZllUaUY0MmJSWXVZczl5c1Y1Z2hSV25lQ1JjS0NBZzlveXV3d21GS2RTY1lFZUxHd29pWUdzWUd4ZERONTUtZFBfenE0WHhhUGE3ajdielF4SERGYVphNVZPQTBTV0ZUa1ZoZTF3?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 05:16:00 GMT"
+        },
+        {
+          "title": "Google’s Gemini Can Now Make Calls for You on Pixel Phones - WIRED",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT2p2UUJISWJMUGxUeFdBTFNDRVZEYmhha0VmcFkxcGNoTlZQeU9ZNF8wWWM1djRCRlRLOFlnZ3hGa0lGcXZPYi04X0RvZExMazlIMHY4MHk3RmVab1ZNems3R3ZIM0RlZFMwNGlweXdwNXRoeFNKLXpfalBRc1BJdVdaZXZfYWVIQjlTeG1wWQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 24 Sep 2026 16:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Country",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Russia could attack a NATO country within months, Danish intelligence warns - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41UlFwaElZbGR1bnBlaDFQU0ZUaEE4VS1hcXdtMG9vZGY5YU9WUTFjZEJkQlBab2QxQmwxTWRQbnJQTndMWDJ4MDc4WXQwVTdmSEVoY2ZVTy1ZWkRkNTdnQUdZOWJjakJfaXowaklhX3VlWkpiR1ZvTWdWeGNScUHSAYQBQVVfeXFMUDF6alVyYVFvbHdUZ2oxeW1XaFRWMVZyVjZHcTF6ZHZkZVZMU2lxcGRRRmVDUU9IaWV6R3A1QUhrZFk3WUgwemZSMGxLcUdJaXNkQXhEeGdhVlBKVjZLUnhvUndLaGFWcDAyVF9qaEN6YlN1V192S3lYQ2tyYVlaTjVaWWFs?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 08:26:07 GMT"
+        },
+        {
+          "title": "Measles is spreading through Pennsylvania’s Amish country. Doctors are scrambling to keep up. - MS NOW",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1yUXAzSjRFQWlodll5NHQ3QU9KWDlVVlFnMVRibGFmZ3ZoNHdqTk4xRjNTa0R1eTFXZWE5UEh0SjBuNFZSalNWVUdsbzNFUkhUdFBkRHk0cTRWN1pubnI0dGM0a2hOZzV2cm04?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 09:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Market",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Stock Market Today: Bond Selloff Abates as Oil Price Slips — Live Updates - wsj.com",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdzJlV1lCRUFaS3NFZVdBQ0pzbGZWS0xieVRwbHUtaHRMSTJJU0xqT25TQjg1R2M4OU5UTHNFQ3F5enpXNkpCMmZUWVNFOVJ2NWVxN25QeWxLVkJGdVlVVmx0cDFxdFBwVkZwcy1ZM3pGSXpnVzVmMDBjNUs5R1NjZWNPalFfTEk?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 12:15:00 GMT"
+        },
+        {
+          "title": "Stock Market Today: Dow Slides As Treasury Yields Surge; Nvidia Slips While Micron Rises - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN2l0R0JrY2c1cDFCU0VsV3p4d0hhLVp4Q2Q5aEVYUkYwd0o0dW1QMjRPYXVZaFNzbzczOVEzeFZTbENFQWZOVHdtX0NSZi1DVFFXWkpVb3JnLWM1eF9nbkpkSkdtMGE3XzV4NFdPZG9ha3E4YWZQZWpiQkNKZDZwWE5EeHk0cnd3LWh3QUozMUdWQ2NXS2xuWE9uMFJFaFFjMERDSTFLcjJNLW5RQVU2SkhZVU11R0N0WlFCMTI2VEhsWDg?oc=5",
+          "source": "Google News",
+          "published": "Thu, 24 Sep 2026 20:34:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Slips",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Stock Market Today: Bond Selloff Abates as Oil Price Slips — Live Updates - wsj.com",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdzJlV1lCRUFaS3NFZVdBQ0pzbGZWS0xieVRwbHUtaHRMSTJJU0xqT25TQjg1R2M4OU5UTHNFQ3F5enpXNkpCMmZUWVNFOVJ2NWVxN25QeWxLVkJGdVlVVmx0cDFxdFBwVkZwcy1ZM3pGSXpnVzVmMDBjNUs5R1NjZWNPalFfTEk?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 12:15:00 GMT"
+        },
+        {
+          "title": "Stock Market Today: Dow Slides As Treasury Yields Surge; Nvidia Slips While Micron Rises - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN2l0R0JrY2c1cDFCU0VsV3p4d0hhLVp4Q2Q5aEVYUkYwd0o0dW1QMjRPYXVZaFNzbzczOVEzeFZTbENFQWZOVHdtX0NSZi1DVFFXWkpVb3JnLWM1eF9nbkpkSkdtMGE3XzV4NFdPZG9ha3E4YWZQZWpiQkNKZDZwWE5EeHk0cnd3LWh3QUozMUdWQ2NXS2xuWE9uMFJFaFFjMERDSTFLcjJNLW5RQVU2SkhZVU11R0N0WlFCMTI2VEhsWDg?oc=5",
+          "source": "Google News",
+          "published": "Thu, 24 Sep 2026 20:34:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Phones",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Android’s Create My Widget ‘app’ detailed on phones, Googlebooks - 9to5Google",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53enN3ZzFlb1Z0cS05OE5HcC12eWFHMDN5d0RZaHA5Skl3Q1JqVXdFT1hiY3RaeExNUTgtYTNnaWxQdjBGQVpzVU52ZHJmaGgzRHY4dzZtcEVfWUtRNzZCQThya21VNU9WSklfQTg1Zw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 24 Sep 2026 17:45:00 GMT"
+        },
+        {
+          "title": "Google’s Gemini Can Now Make Calls for You on Pixel Phones - WIRED",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT2p2UUJISWJMUGxUeFdBTFNDRVZEYmhha0VmcFkxcGNoTlZQeU9ZNF8wWWM1djRCRlRLOFlnZ3hGa0lGcXZPYi04X0RvZExMazlIMHY4MHk3RmVab1ZNems3R3ZIM0RlZFMwNGlweXdwNXRoeFNKLXpfalBRc1BJdVdaZXZfYWVIQjlTeG1wWQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 24 Sep 2026 16:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Book",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "It’s officially Dolly Parton Day, with parades, pink lights and book drives - AP News",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd3NEUlNhRDVXdFg5MHFUSlF4SjV2X3lsWEtuOFN4Tm8wNUkyZURLR0xWa1dZU3JMOGJ6OFVFVUhqNWxkNTNvYldteFpmSzlDaUdySW9pMzJxMnQtUkcyNTBVbnF1TTlQa3RRY3JfNEU5RC03M2hNVmllVlRYRGFnVlhLcC1fU28?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 09:44:00 GMT"
+        },
+        {
+          "title": "Prince Harry’s Silence Over Charles Spencer’s Book Branded an ‘Act of War’ — Expert - Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVTQzSldzQlQyVkFiZldpN2R2cHRQLUpaQ3lMYXo5WmYyQmhFWmZKMmoxSkt6RkJFbl9ZMHhJQ20zZHdRWnRXNzBIWS1yZUtTYmc2bEhvVGtfZ1poaGNoam1HdWRKSlV0UFJyZ0VQeEdqbi02cjlOXzdxb2d4NVA2UlVYWWJ6WUI4TEFlSERaYVZTbW92ckxzMDJPZDlrLUNTTEhObEN3?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 07:17:06 GMT"
+        }
+      ]
+    },
+    {
+      "word": "win",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Tucker Kraft: Disappointing that fans booed us at Lambeau Field, won’t help us win - NBC Sports",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMDZ0YjNvVkY4VjV1XzVMc2ttdjc5Mm1jd0dQdHh2R2ZuOUZmaXVkTkxuWnFvTVREU3RNbkh5RjBmTXh3WTRJTERYclYwWDBxZnNUd2NDaXN0QnV3aU1TRGFJWnpUa0hYcjJQZzdGUTEyT2t6VWRsWWRpdDBfb2YyUmhLRUpadzVaaXR4MXkxbGctR2VKVGpDdkprYUdTTDF1cDRqR1E3cElIQlJPcDBLTk9FX29ZbFI0ZzhoQlJDLWFrRy1EUVV4NWltak9wdm41Qk1ZSTdULVo?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 08:23:53 GMT"
+        },
+        {
+          "title": "WNBA playoffs 2026: How all eight teams could win the title - ESPN",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZVA3aElJenhYS09uZC1tVzAweFlBQWQ0WTFoR3M4VzZzWUpCQUZQTGszbXB0cG5SUXhDQnBlalRkSjhnZFVVR0ZULWJNYWs3YnhsOE4zYVNMR2pscE1kZXJBVGFTdmg2YWhxSXpHdWZQR3pFWk5aajdpZFdBM3N1TmF5ZXFNeThQdUlFcFhoR3F5MDYyZkttSWJUSC1IUmJDOXV2UlJRNURVTVk?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 04:24:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Texas",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Week 4’s top 10 college football games: Texas-Tennessee, Oregon-USC, Texas A&M-LSU and more - The Athletic - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUVBUQ1lSdktUd1NKRGRURVN3djFNS2RGdU1wRkRFcmVZc0JOeWpwQlBkMDFYa0xTTXRUNVllM2htbnBhUXpBVEx4dDdmRnh0VFdOMmxucXNTbjE1UVp4TEdKS1VTdU5xZWZGM0RpdGMySGJFUTQ3T1FEU3pORC1iRDI1VGhETldKRW5RUVpOOA?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 09:00:26 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Measles",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Measles is spreading through Pennsylvania’s Amish country. Doctors are scrambling to keep up. - MS NOW",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1yUXAzSjRFQWlodll5NHQ3QU9KWDlVVlFnMVRibGFmZ3ZoNHdqTk4xRjNTa0R1eTFXZWE5UEh0SjBuNFZSalNWVUdsbzNFUkhUdFBkRHk0cTRWN1pubnI0dGM0a2hOZzV2cm04?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 09:00:00 GMT"
         },
         {
           "title": "Measles case confirmed in Allen County - WANE 15",
@@ -92,169 +357,184 @@
       ]
     },
     {
-      "word": "Raise",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "University of Mississippi identifies 2 students found dead in cases that raise kratom concerns - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM3pkQmpqTlBQOUlrX2lSTVZ2UnpieHJjTGhvUjVHNHp2RmJ4aUp1N0NFMTJjQ3l1VEFhSENoWmM5Xy0wV0pzdzNJX1BSdW41d1otQzYtU2xpUXkyUE9VOEhsNTRmMXJGZmZwOGNTLWhFUGhHREtkQ1dvRXp0d1NjbkZ2VGxBX3NDd0tYM0xJX0Y3RHpUeUZNUTlLaEpkcUVhY3ctUHhLSUJOaHgwY0ljVE9BM3hLRmdobmc?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 19:40:00 GMT"
-        },
-        {
-          "title": "Officials raise awareness on new drug, more potent than fentanyl - WYFF",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZTB4Tko2UVUyMUJRWWNycHc1NDlxeWJ1ZS05eU9URlZ2OVpobkItcDhHcVhBVG5ERnRtU1Jram80RTFzNmU5TG10TnhUZFYxOGxtUExmN2RCaGQ3aXpEczlvcnQwQlVjUFdvYkZDQnVHcXFSRm4zNkgxQUN6UXhBaGp2bw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 13:14:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Study",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Super-sized El Niño could cause more than 450,000 heat deaths by February, study suggests - ABC7 Los Angeles",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZjB4NnBQUWFldEg0MzJSZldEYXBFUGFMTFBrbDFHRVJRMHZpbzVlR0NzVWhuLTduTVhfQUFSYkNvMVNCY1pCcU1WMEw2R1U5d2tYdFQ5YldYOVNZRjF3bF83aVZQUFYwNmVnWjc5OU84ZGdXZ19DVjh1M0hCOWFEU0QyeE9pckJ3YW5feFVFWUlrZ281NFN5Z21MSDJhMEE1djUybWF3VG9VX2FRakU1Yg?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 22:20:16 GMT"
-        },
-        {
-          "title": "Just one small serving of ultra-processed food a day linked to higher disease risk, major study finds - New York Post",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeG01VEJ4clZKdjVrc0xReGx5dTdzZ3Bta1puUXFhbDM0ZUNPV0ozdUVYU2g0ellPbzQ4U3JUOV9Vd2tuN3h3VEF2VXZPMl9SWXB1bDZ3RENya29ZaDNIOW1QT3NJdnRPenNaQlNrWGlEc2pQRmh6bXVLVXBPd184YzVuRE4xNmZ3N2FMQmR2WklUUFZqbGxxRVduM19ZR2VwLWt4OUlaRFA5c1Utc0k2Nw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 07:25:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Chip",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream - The Verge",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUTF6N0lSZnJKSklLa2dTMUdfVjQtamlLOVFPOFc4Yy1FQ3NWZEcwdnpwNTUycDZnR0RIQ0RXeGhPb0RvZGpDVG1CU3ljOTcyZjlCVW1URVpqakpHZHdTSUUtZnFDRHQwZ0s3TWJEc0pJOUpNS296Z2hqNWIxX3VJTVRaR2t3OVVrV1VNYXg5RFpOWTE1dmNZTEdRS0JBbjZpSXNvSTBKSDdEdGtGS3MzWUZGTQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 23:42:39 GMT"
-        },
-        {
-          "title": "Xiaomi's 18 Pro series phones have the latest Snapdragon chip and a Samsung-like privacy screen - Engadget",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa0RIdlhuc1B3NGZHanZHNF9nQWFmeUk1bzJRMU8yOTA1bHFTVjNSY0NaalItWWJabERqT2FzU3pCUmxyRkk1MmdwSnQxMGlsWTFYd1BLNkNoWEMxX1J5Ykt6Z3RpVE1DUHFQWXFoSk1WNi0xR1h6LTQxR0pqN0FMT2xqWlp4SUI2OENxLVBuLW84dWsyQjFGbUdFU01VZU43Rm5KbVpuWHU5UDZfbUh4TWhYNkxEZFFnSF9TTU95UXhXT010ZS00?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 15:23:43 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Delay",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Paramount-WBD Merger Hits a Delay as Judge Grants Last-Ditch Effort - IndieWire",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd3BiY0tDaFduWndab2E3QU9iTnZrdWx2YUVHRV9LdXh5ZEpwTWk4akQyc0NLZ3dqZG53VXd5UldSU2tuWWNTcXpJNFFIdjNKcWJ0cTNxb0xhTGxVSGVhdkNmakRpcXNIS0lIajY3QTI0bnhjeDdtaWlRVk5tMW96SGVRcHVIVW5mWkZsdW9UWTQwYUZZSUZkYm5WTHVZQmF1c3ZZdllaaTZ1VXRiSXlVS0hUMktZZw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 16:45:06 GMT"
-        },
-        {
-          "title": "SpaceX's next astronaut launch for NASA now set for Oct. 1 after delay - Space",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcjVTWEJSSS1Ja05hSEFFWktnS19tLVo5UC1kV0NRVnl3b3JPU0dLRU5kb1BPazNpYnVMZWRVcVFjdXpEeHRTdFJaYWNnRUZQdy1LOHI5ejFBdmo0RGZMUGVXXzJXWllwcndrVTNOc0hrX0hRLWVKNmdFSFVnSUxQOFVyNGxpUWU3R0JlQm1PX09ncERaWnNFNHctTEUzUTRyUVY0RkZsNDZKTWhqRjc3VUQ5dEpEdGh4ZHN0X1ZKM3NhTEN4aERJ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 23 Sep 2026 13:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Pomp",
+      "word": "Diplomacy",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Pomp prevails over substance as Donald Trump hosts Xi Jinping - Financial Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPemRoVjVjb2xLM2E1UnBWSDlXQ2pFWHhPQXpMejdxekdZMURoT3lTTWtVYkI1UExucS1NTVZ5RHhYOGQzRDh1aWRLRU12T3JKTUxXZlBBd01TMkhCSVBwdnBjQkF3eXQ4aDN4NEFKZWtLN3VzSEVLaHU1bzQwb2UxQXQxaUI?oc=5",
+          "title": "Diplomacy or ‘diplotainment’? Key takeaways from the Trump-Xi summit in Washington - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVTBpVk8wYXRNZG1HUENzb2NnbUZnQXBqSEY5X1VEdGZmRXRPTjN1dERqMTR5VzJtdk5aNURNQnE1aDZOOFI5MlQ3TmlEaDdsSlJyU2o4bjlKYVlIdFMwY3pqTHg2VXotZFVQSkY1VmZERU40bXlQaF81NnVWZWhwUHFTSWVWMXpjRUx0bkNHN3phR21hV1hTdmp4dGp2eWpDRndwTV9n?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 03:03:28 GMT"
+          "published": "Fri, 25 Sep 2026 11:58:00 GMT"
         }
       ]
     },
     {
-      "word": "Prevails",
+      "word": "Diplotainment",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Pomp prevails over substance as Donald Trump hosts Xi Jinping - Financial Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPemRoVjVjb2xLM2E1UnBWSDlXQ2pFWHhPQXpMejdxekdZMURoT3lTTWtVYkI1UExucS1NTVZ5RHhYOGQzRDh1aWRLRU12T3JKTUxXZlBBd01TMkhCSVBwdnBjQkF3eXQ4aDN4NEFKZWtLN3VzSEVLaHU1bzQwb2UxQXQxaUI?oc=5",
+          "title": "Diplomacy or ‘diplotainment’? Key takeaways from the Trump-Xi summit in Washington - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVTBpVk8wYXRNZG1HUENzb2NnbUZnQXBqSEY5X1VEdGZmRXRPTjN1dERqMTR5VzJtdk5aNURNQnE1aDZOOFI5MlQ3TmlEaDdsSlJyU2o4bjlKYVlIdFMwY3pqTHg2VXotZFVQSkY1VmZERU40bXlQaF81NnVWZWhwUHFTSWVWMXpjRUx0bkNHN3phR21hV1hTdmp4dGp2eWpDRndwTV9n?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 03:03:28 GMT"
+          "published": "Fri, 25 Sep 2026 11:58:00 GMT"
         }
       ]
     },
     {
-      "word": "Substance",
+      "word": "Key",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Pomp prevails over substance as Donald Trump hosts Xi Jinping - Financial Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPemRoVjVjb2xLM2E1UnBWSDlXQ2pFWHhPQXpMejdxekdZMURoT3lTTWtVYkI1UExucS1NTVZ5RHhYOGQzRDh1aWRLRU12T3JKTUxXZlBBd01TMkhCSVBwdnBjQkF3eXQ4aDN4NEFKZWtLN3VzSEVLaHU1bzQwb2UxQXQxaUI?oc=5",
+          "title": "Diplomacy or ‘diplotainment’? Key takeaways from the Trump-Xi summit in Washington - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVTBpVk8wYXRNZG1HUENzb2NnbUZnQXBqSEY5X1VEdGZmRXRPTjN1dERqMTR5VzJtdk5aNURNQnE1aDZOOFI5MlQ3TmlEaDdsSlJyU2o4bjlKYVlIdFMwY3pqTHg2VXotZFVQSkY1VmZERU40bXlQaF81NnVWZWhwUHFTSWVWMXpjRUx0bkNHN3phR21hV1hTdmp4dGp2eWpDRndwTV9n?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 03:03:28 GMT"
+          "published": "Fri, 25 Sep 2026 11:58:00 GMT"
         }
       ]
     },
     {
-      "word": "Donald",
+      "word": "Takeaways",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Pomp prevails over substance as Donald Trump hosts Xi Jinping - Financial Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPemRoVjVjb2xLM2E1UnBWSDlXQ2pFWHhPQXpMejdxekdZMURoT3lTTWtVYkI1UExucS1NTVZ5RHhYOGQzRDh1aWRLRU12T3JKTUxXZlBBd01TMkhCSVBwdnBjQkF3eXQ4aDN4NEFKZWtLN3VzSEVLaHU1bzQwb2UxQXQxaUI?oc=5",
+          "title": "Diplomacy or ‘diplotainment’? Key takeaways from the Trump-Xi summit in Washington - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVTBpVk8wYXRNZG1HUENzb2NnbUZnQXBqSEY5X1VEdGZmRXRPTjN1dERqMTR5VzJtdk5aNURNQnE1aDZOOFI5MlQ3TmlEaDdsSlJyU2o4bjlKYVlIdFMwY3pqTHg2VXotZFVQSkY1VmZERU40bXlQaF81NnVWZWhwUHFTSWVWMXpjRUx0bkNHN3phR21hV1hTdmp4dGp2eWpDRndwTV9n?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 03:03:28 GMT"
+          "published": "Fri, 25 Sep 2026 11:58:00 GMT"
         }
       ]
     },
     {
-      "word": "Hosts",
+      "word": "Summit",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Pomp prevails over substance as Donald Trump hosts Xi Jinping - Financial Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPemRoVjVjb2xLM2E1UnBWSDlXQ2pFWHhPQXpMejdxekdZMURoT3lTTWtVYkI1UExucS1NTVZ5RHhYOGQzRDh1aWRLRU12T3JKTUxXZlBBd01TMkhCSVBwdnBjQkF3eXQ4aDN4NEFKZWtLN3VzSEVLaHU1bzQwb2UxQXQxaUI?oc=5",
+          "title": "Diplomacy or ‘diplotainment’? Key takeaways from the Trump-Xi summit in Washington - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVTBpVk8wYXRNZG1HUENzb2NnbUZnQXBqSEY5X1VEdGZmRXRPTjN1dERqMTR5VzJtdk5aNURNQnE1aDZOOFI5MlQ3TmlEaDdsSlJyU2o4bjlKYVlIdFMwY3pqTHg2VXotZFVQSkY1VmZERU40bXlQaF81NnVWZWhwUHFTSWVWMXpjRUx0bkNHN3phR21hV1hTdmp4dGp2eWpDRndwTV9n?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 03:03:28 GMT"
+          "published": "Fri, 25 Sep 2026 11:58:00 GMT"
         }
       ]
     },
     {
-      "word": "Jinping",
+      "word": "Washington",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Pomp prevails over substance as Donald Trump hosts Xi Jinping - Financial Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPemRoVjVjb2xLM2E1UnBWSDlXQ2pFWHhPQXpMejdxekdZMURoT3lTTWtVYkI1UExucS1NTVZ5RHhYOGQzRDh1aWRLRU12T3JKTUxXZlBBd01TMkhCSVBwdnBjQkF3eXQ4aDN4NEFKZWtLN3VzSEVLaHU1bzQwb2UxQXQxaUI?oc=5",
+          "title": "Diplomacy or ‘diplotainment’? Key takeaways from the Trump-Xi summit in Washington - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVTBpVk8wYXRNZG1HUENzb2NnbUZnQXBqSEY5X1VEdGZmRXRPTjN1dERqMTR5VzJtdk5aNURNQnE1aDZOOFI5MlQ3TmlEaDdsSlJyU2o4bjlKYVlIdFMwY3pqTHg2VXotZFVQSkY1VmZERU40bXlQaF81NnVWZWhwUHFTSWVWMXpjRUx0bkNHN3phR21hV1hTdmp4dGp2eWpDRndwTV9n?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 03:03:28 GMT"
+          "published": "Fri, 25 Sep 2026 11:58:00 GMT"
         }
       ]
     },
     {
-      "word": "Benjamin",
+      "word": "Rainy",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUUVVeUQ3RzMwUmgtUmpPMEY3NXF1VVMtWE5RS241eDZScnBacDU5Uzl3MGhXV1EtbmtqUGVOTThSY2kwOFEzMnQ5MUdScVdMcFJQalFTTFExWVRMVEx3cTNuaGhzWmRWemRoNEo3YVlaU0FQY3IwajdlVk94V3hBYzNlR05USDlkMFNsUURhRVQ5LWN4Z3pmOFRkNEtsMjFFSEtsUUlHSE5aVmvSAbABQVVfeXFMUGtiM3RpTjlwV2FRb3cxRk9Ia0pEcHMzV3YtbE5tQlRSZ3o3LXRDc1dlWFdFVEJ0Q0pLRFhWZGtVR1BSLWl1bVZWaUVQLUtwNzdHQUtOZXhhcm16eTZCdWZZODZVeGVKZ2hhdHpIRHBVUW1kUy1rU1B6VFBuX19wYW1zWDZVaW92N1ZZenpmc0R4azV5VGl3cWQ0b2paQVZacFhKXzh2QWpha0ZuZHF1aDM?oc=5",
+          "title": "Rainy and windy conditions across Connecticut Friday night through Sunday! - WTNH.com",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLVJPUHRPdnoyQkEzSW9Udi10akY3R0lEZkJldGNvWmxfMGRaZlhBaXJDNjRQdzAxaEpGUVJvUzRVZjNKUUZqUktzMWhsX2FtcnRYZ0xqWTBnMnpoZ2ZmNDBPTHJOT3VDdnFqNjR6ekZ2R1F1QUJIMzJrSTF3VGFmN1RXVTJFQzVJOWxaSXc1SjRtVXZxbUx3WjBQVTYxNTg4VDd0M3VR0gGrAUFVX3lxTE1TMVNySHBZNWtrdUZhc1VVUTc5Z2JST3NlNXJqTTFFYXM0a3I2UzMzblJsYnRhRE9seElkeE1nTmU2WTdpRDlPamlGVHN3WlZVWXVCVkRxN1RWaEp2T1pGU2wwM3ludHgweC1EcEQ4TjBpaWJkbWYwbVBhampIQU1TWnVYcnBiUWZ0YWFneHQ2ZkJhZFJGZ2cyOVFiRWhkdkZkam5lcUpac2hCSQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 04:19:44 GMT"
+          "published": "Fri, 25 Sep 2026 08:10:36 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Windy",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Rainy and windy conditions across Connecticut Friday night through Sunday! - WTNH.com",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLVJPUHRPdnoyQkEzSW9Udi10akY3R0lEZkJldGNvWmxfMGRaZlhBaXJDNjRQdzAxaEpGUVJvUzRVZjNKUUZqUktzMWhsX2FtcnRYZ0xqWTBnMnpoZ2ZmNDBPTHJOT3VDdnFqNjR6ekZ2R1F1QUJIMzJrSTF3VGFmN1RXVTJFQzVJOWxaSXc1SjRtVXZxbUx3WjBQVTYxNTg4VDd0M3VR0gGrAUFVX3lxTE1TMVNySHBZNWtrdUZhc1VVUTc5Z2JST3NlNXJqTTFFYXM0a3I2UzMzblJsYnRhRE9seElkeE1nTmU2WTdpRDlPamlGVHN3WlZVWXVCVkRxN1RWaEp2T1pGU2wwM3ludHgweC1EcEQ4TjBpaWJkbWYwbVBhampIQU1TWnVYcnBiUWZ0YWFneHQ2ZkJhZFJGZ2cyOVFiRWhkdkZkam5lcUpac2hCSQ?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 08:10:36 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Conditions",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Rainy and windy conditions across Connecticut Friday night through Sunday! - WTNH.com",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLVJPUHRPdnoyQkEzSW9Udi10akY3R0lEZkJldGNvWmxfMGRaZlhBaXJDNjRQdzAxaEpGUVJvUzRVZjNKUUZqUktzMWhsX2FtcnRYZ0xqWTBnMnpoZ2ZmNDBPTHJOT3VDdnFqNjR6ekZ2R1F1QUJIMzJrSTF3VGFmN1RXVTJFQzVJOWxaSXc1SjRtVXZxbUx3WjBQVTYxNTg4VDd0M3VR0gGrAUFVX3lxTE1TMVNySHBZNWtrdUZhc1VVUTc5Z2JST3NlNXJqTTFFYXM0a3I2UzMzblJsYnRhRE9seElkeE1nTmU2WTdpRDlPamlGVHN3WlZVWXVCVkRxN1RWaEp2T1pGU2wwM3ludHgweC1EcEQ4TjBpaWJkbWYwbVBhampIQU1TWnVYcnBiUWZ0YWFneHQ2ZkJhZFJGZ2cyOVFiRWhkdkZkam5lcUpac2hCSQ?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 08:10:36 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Across",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Rainy and windy conditions across Connecticut Friday night through Sunday! - WTNH.com",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLVJPUHRPdnoyQkEzSW9Udi10akY3R0lEZkJldGNvWmxfMGRaZlhBaXJDNjRQdzAxaEpGUVJvUzRVZjNKUUZqUktzMWhsX2FtcnRYZ0xqWTBnMnpoZ2ZmNDBPTHJOT3VDdnFqNjR6ekZ2R1F1QUJIMzJrSTF3VGFmN1RXVTJFQzVJOWxaSXc1SjRtVXZxbUx3WjBQVTYxNTg4VDd0M3VR0gGrAUFVX3lxTE1TMVNySHBZNWtrdUZhc1VVUTc5Z2JST3NlNXJqTTFFYXM0a3I2UzMzblJsYnRhRE9seElkeE1nTmU2WTdpRDlPamlGVHN3WlZVWXVCVkRxN1RWaEp2T1pGU2wwM3ludHgweC1EcEQ4TjBpaWJkbWYwbVBhampIQU1TWnVYcnBiUWZ0YWFneHQ2ZkJhZFJGZ2cyOVFiRWhkdkZkam5lcUpac2hCSQ?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 08:10:36 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Connecticut",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Rainy and windy conditions across Connecticut Friday night through Sunday! - WTNH.com",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLVJPUHRPdnoyQkEzSW9Udi10akY3R0lEZkJldGNvWmxfMGRaZlhBaXJDNjRQdzAxaEpGUVJvUzRVZjNKUUZqUktzMWhsX2FtcnRYZ0xqWTBnMnpoZ2ZmNDBPTHJOT3VDdnFqNjR6ekZ2R1F1QUJIMzJrSTF3VGFmN1RXVTJFQzVJOWxaSXc1SjRtVXZxbUx3WjBQVTYxNTg4VDd0M3VR0gGrAUFVX3lxTE1TMVNySHBZNWtrdUZhc1VVUTc5Z2JST3NlNXJqTTFFYXM0a3I2UzMzblJsYnRhRE9seElkeE1nTmU2WTdpRDlPamlGVHN3WlZVWXVCVkRxN1RWaEp2T1pGU2wwM3ludHgweC1EcEQ4TjBpaWJkbWYwbVBhampIQU1TWnVYcnBiUWZ0YWFneHQ2ZkJhZFJGZ2cyOVFiRWhkdkZkam5lcUpac2hCSQ?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 08:10:36 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Friday",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Rainy and windy conditions across Connecticut Friday night through Sunday! - WTNH.com",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLVJPUHRPdnoyQkEzSW9Udi10akY3R0lEZkJldGNvWmxfMGRaZlhBaXJDNjRQdzAxaEpGUVJvUzRVZjNKUUZqUktzMWhsX2FtcnRYZ0xqWTBnMnpoZ2ZmNDBPTHJOT3VDdnFqNjR6ekZ2R1F1QUJIMzJrSTF3VGFmN1RXVTJFQzVJOWxaSXc1SjRtVXZxbUx3WjBQVTYxNTg4VDd0M3VR0gGrAUFVX3lxTE1TMVNySHBZNWtrdUZhc1VVUTc5Z2JST3NlNXJqTTFFYXM0a3I2UzMzblJsYnRhRE9seElkeE1nTmU2WTdpRDlPamlGVHN3WlZVWXVCVkRxN1RWaEp2T1pGU2wwM3ludHgweC1EcEQ4TjBpaWJkbWYwbVBhampIQU1TWnVYcnBiUWZ0YWFneHQ2ZkJhZFJGZ2cyOVFiRWhkdkZkam5lcUpac2hCSQ?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 08:10:36 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Night",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Rainy and windy conditions across Connecticut Friday night through Sunday! - WTNH.com",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLVJPUHRPdnoyQkEzSW9Udi10akY3R0lEZkJldGNvWmxfMGRaZlhBaXJDNjRQdzAxaEpGUVJvUzRVZjNKUUZqUktzMWhsX2FtcnRYZ0xqWTBnMnpoZ2ZmNDBPTHJOT3VDdnFqNjR6ekZ2R1F1QUJIMzJrSTF3VGFmN1RXVTJFQzVJOWxaSXc1SjRtVXZxbUx3WjBQVTYxNTg4VDd0M3VR0gGrAUFVX3lxTE1TMVNySHBZNWtrdUZhc1VVUTc5Z2JST3NlNXJqTTFFYXM0a3I2UzMzblJsYnRhRE9seElkeE1nTmU2WTdpRDlPamlGVHN3WlZVWXVCVkRxN1RWaEp2T1pGU2wwM3ludHgweC1EcEQ4TjBpaWJkbWYwbVBhampIQU1TWnVYcnBiUWZ0YWFneHQ2ZkJhZFJGZ2cyOVFiRWhkdkZkam5lcUpac2hCSQ?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 08:10:36 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Sunday",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Rainy and windy conditions across Connecticut Friday night through Sunday! - WTNH.com",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLVJPUHRPdnoyQkEzSW9Udi10akY3R0lEZkJldGNvWmxfMGRaZlhBaXJDNjRQdzAxaEpGUVJvUzRVZjNKUUZqUktzMWhsX2FtcnRYZ0xqWTBnMnpoZ2ZmNDBPTHJOT3VDdnFqNjR6ekZ2R1F1QUJIMzJrSTF3VGFmN1RXVTJFQzVJOWxaSXc1SjRtVXZxbUx3WjBQVTYxNTg4VDd0M3VR0gGrAUFVX3lxTE1TMVNySHBZNWtrdUZhc1VVUTc5Z2JST3NlNXJqTTFFYXM0a3I2UzMzblJsYnRhRE9seElkeE1nTmU2WTdpRDlPamlGVHN3WlZVWXVCVkRxN1RWaEp2T1pGU2wwM3ludHgweC1EcEQ4TjBpaWJkbWYwbVBhampIQU1TWnVYcnBiUWZ0YWFneHQ2ZkJhZFJGZ2cyOVFiRWhkdkZkam5lcUpac2hCSQ?oc=5",
+          "source": "Google News",
+          "published": "Fri, 25 Sep 2026 08:10:36 GMT"
         }
       ]
     },
@@ -264,75 +544,75 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUUVVeUQ3RzMwUmgtUmpPMEY3NXF1VVMtWE5RS241eDZScnBacDU5Uzl3MGhXV1EtbmtqUGVOTThSY2kwOFEzMnQ5MUdScVdMcFJQalFTTFExWVRMVEx3cTNuaGhzWmRWemRoNEo3YVlaU0FQY3IwajdlVk94V3hBYzNlR05USDlkMFNsUURhRVQ5LWN4Z3pmOFRkNEtsMjFFSEtsUUlHSE5aVmvSAbABQVVfeXFMUGtiM3RpTjlwV2FRb3cxRk9Ia0pEcHMzV3YtbE5tQlRSZ3o3LXRDc1dlWFdFVEJ0Q0pLRFhWZGtVR1BSLWl1bVZWaUVQLUtwNzdHQUtOZXhhcm16eTZCdWZZODZVeGVKZ2hhdHpIRHBVUW1kUy1rU1B6VFBuX19wYW1zWDZVaW92N1ZZenpmc0R4azV5VGl3cWQ0b2paQVZacFhKXzh2QWpha0ZuZHF1aDM?oc=5",
+          "title": "With Netanyahu at the U.N., Mamdani plants an olive tree with Palestinians - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQy1ZMTNsT25aZmtubWF6MUF5eG42N0FmZE94d2ZuWGltdnhxSmhueGNpX0xNU1NpWnFxOEl1ZlltM2Mzb2IyZVZFTWNESHkzTVlkRmVPYmQ2MHNJTU1YbTgyNzNYV3hTMUwtUWFwQW41LU9RQ1BqajBIMjJveF83WmFmSXEySW1XaE5ORDM4d1hYM3lXV1pWNjZwX0dmeFdKclhKTFp0TVFQZFV0RkNDbmNCVQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 04:19:44 GMT"
+          "published": "Fri, 25 Sep 2026 03:14:54 GMT"
         }
       ]
     },
     {
-      "word": "Attacks",
+      "word": "Mamdani",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUUVVeUQ3RzMwUmgtUmpPMEY3NXF1VVMtWE5RS241eDZScnBacDU5Uzl3MGhXV1EtbmtqUGVOTThSY2kwOFEzMnQ5MUdScVdMcFJQalFTTFExWVRMVEx3cTNuaGhzWmRWemRoNEo3YVlaU0FQY3IwajdlVk94V3hBYzNlR05USDlkMFNsUURhRVQ5LWN4Z3pmOFRkNEtsMjFFSEtsUUlHSE5aVmvSAbABQVVfeXFMUGtiM3RpTjlwV2FRb3cxRk9Ia0pEcHMzV3YtbE5tQlRSZ3o3LXRDc1dlWFdFVEJ0Q0pLRFhWZGtVR1BSLWl1bVZWaUVQLUtwNzdHQUtOZXhhcm16eTZCdWZZODZVeGVKZ2hhdHpIRHBVUW1kUy1rU1B6VFBuX19wYW1zWDZVaW92N1ZZenpmc0R4azV5VGl3cWQ0b2paQVZacFhKXzh2QWpha0ZuZHF1aDM?oc=5",
+          "title": "With Netanyahu at the U.N., Mamdani plants an olive tree with Palestinians - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQy1ZMTNsT25aZmtubWF6MUF5eG42N0FmZE94d2ZuWGltdnhxSmhueGNpX0xNU1NpWnFxOEl1ZlltM2Mzb2IyZVZFTWNESHkzTVlkRmVPYmQ2MHNJTU1YbTgyNzNYV3hTMUwtUWFwQW41LU9RQ1BqajBIMjJveF83WmFmSXEySW1XaE5ORDM4d1hYM3lXV1pWNjZwX0dmeFdKclhKTFp0TVFQZFV0RkNDbmNCVQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 04:19:44 GMT"
+          "published": "Fri, 25 Sep 2026 03:14:54 GMT"
         }
       ]
     },
     {
-      "word": "Israel",
+      "word": "Plants",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUUVVeUQ3RzMwUmgtUmpPMEY3NXF1VVMtWE5RS241eDZScnBacDU5Uzl3MGhXV1EtbmtqUGVOTThSY2kwOFEzMnQ5MUdScVdMcFJQalFTTFExWVRMVEx3cTNuaGhzWmRWemRoNEo3YVlaU0FQY3IwajdlVk94V3hBYzNlR05USDlkMFNsUURhRVQ5LWN4Z3pmOFRkNEtsMjFFSEtsUUlHSE5aVmvSAbABQVVfeXFMUGtiM3RpTjlwV2FRb3cxRk9Ia0pEcHMzV3YtbE5tQlRSZ3o3LXRDc1dlWFdFVEJ0Q0pLRFhWZGtVR1BSLWl1bVZWaUVQLUtwNzdHQUtOZXhhcm16eTZCdWZZODZVeGVKZ2hhdHpIRHBVUW1kUy1rU1B6VFBuX19wYW1zWDZVaW92N1ZZenpmc0R4azV5VGl3cWQ0b2paQVZacFhKXzh2QWpha0ZuZHF1aDM?oc=5",
+          "title": "With Netanyahu at the U.N., Mamdani plants an olive tree with Palestinians - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQy1ZMTNsT25aZmtubWF6MUF5eG42N0FmZE94d2ZuWGltdnhxSmhueGNpX0xNU1NpWnFxOEl1ZlltM2Mzb2IyZVZFTWNESHkzTVlkRmVPYmQ2MHNJTU1YbTgyNzNYV3hTMUwtUWFwQW41LU9RQ1BqajBIMjJveF83WmFmSXEySW1XaE5ORDM4d1hYM3lXV1pWNjZwX0dmeFdKclhKTFp0TVFQZFV0RkNDbmNCVQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 04:19:44 GMT"
+          "published": "Fri, 25 Sep 2026 03:14:54 GMT"
         }
       ]
     },
     {
-      "word": "Enemies",
+      "word": "Olive",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUUVVeUQ3RzMwUmgtUmpPMEY3NXF1VVMtWE5RS241eDZScnBacDU5Uzl3MGhXV1EtbmtqUGVOTThSY2kwOFEzMnQ5MUdScVdMcFJQalFTTFExWVRMVEx3cTNuaGhzWmRWemRoNEo3YVlaU0FQY3IwajdlVk94V3hBYzNlR05USDlkMFNsUURhRVQ5LWN4Z3pmOFRkNEtsMjFFSEtsUUlHSE5aVmvSAbABQVVfeXFMUGtiM3RpTjlwV2FRb3cxRk9Ia0pEcHMzV3YtbE5tQlRSZ3o3LXRDc1dlWFdFVEJ0Q0pLRFhWZGtVR1BSLWl1bVZWaUVQLUtwNzdHQUtOZXhhcm16eTZCdWZZODZVeGVKZ2hhdHpIRHBVUW1kUy1rU1B6VFBuX19wYW1zWDZVaW92N1ZZenpmc0R4azV5VGl3cWQ0b2paQVZacFhKXzh2QWpha0ZuZHF1aDM?oc=5",
+          "title": "With Netanyahu at the U.N., Mamdani plants an olive tree with Palestinians - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQy1ZMTNsT25aZmtubWF6MUF5eG42N0FmZE94d2ZuWGltdnhxSmhueGNpX0xNU1NpWnFxOEl1ZlltM2Mzb2IyZVZFTWNESHkzTVlkRmVPYmQ2MHNJTU1YbTgyNzNYV3hTMUwtUWFwQW41LU9RQ1BqajBIMjJveF83WmFmSXEySW1XaE5ORDM4d1hYM3lXV1pWNjZwX0dmeFdKclhKTFp0TVFQZFV0RkNDbmNCVQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 04:19:44 GMT"
+          "published": "Fri, 25 Sep 2026 03:14:54 GMT"
         }
       ]
     },
     {
-      "word": "Allies",
+      "word": "Tree",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUUVVeUQ3RzMwUmgtUmpPMEY3NXF1VVMtWE5RS241eDZScnBacDU5Uzl3MGhXV1EtbmtqUGVOTThSY2kwOFEzMnQ5MUdScVdMcFJQalFTTFExWVRMVEx3cTNuaGhzWmRWemRoNEo3YVlaU0FQY3IwajdlVk94V3hBYzNlR05USDlkMFNsUURhRVQ5LWN4Z3pmOFRkNEtsMjFFSEtsUUlHSE5aVmvSAbABQVVfeXFMUGtiM3RpTjlwV2FRb3cxRk9Ia0pEcHMzV3YtbE5tQlRSZ3o3LXRDc1dlWFdFVEJ0Q0pLRFhWZGtVR1BSLWl1bVZWaUVQLUtwNzdHQUtOZXhhcm16eTZCdWZZODZVeGVKZ2hhdHpIRHBVUW1kUy1rU1B6VFBuX19wYW1zWDZVaW92N1ZZenpmc0R4azV5VGl3cWQ0b2paQVZacFhKXzh2QWpha0ZuZHF1aDM?oc=5",
+          "title": "With Netanyahu at the U.N., Mamdani plants an olive tree with Palestinians - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQy1ZMTNsT25aZmtubWF6MUF5eG42N0FmZE94d2ZuWGltdnhxSmhueGNpX0xNU1NpWnFxOEl1ZlltM2Mzb2IyZVZFTWNESHkzTVlkRmVPYmQ2MHNJTU1YbTgyNzNYV3hTMUwtUWFwQW41LU9RQ1BqajBIMjJveF83WmFmSXEySW1XaE5ORDM4d1hYM3lXV1pWNjZwX0dmeFdKclhKTFp0TVFQZFV0RkNDbmNCVQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 04:19:44 GMT"
+          "published": "Fri, 25 Sep 2026 03:14:54 GMT"
         }
       ]
     },
     {
-      "word": "Speech",
+      "word": "Palestinians",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUUVVeUQ3RzMwUmgtUmpPMEY3NXF1VVMtWE5RS241eDZScnBacDU5Uzl3MGhXV1EtbmtqUGVOTThSY2kwOFEzMnQ5MUdScVdMcFJQalFTTFExWVRMVEx3cTNuaGhzWmRWemRoNEo3YVlaU0FQY3IwajdlVk94V3hBYzNlR05USDlkMFNsUURhRVQ5LWN4Z3pmOFRkNEtsMjFFSEtsUUlHSE5aVmvSAbABQVVfeXFMUGtiM3RpTjlwV2FRb3cxRk9Ia0pEcHMzV3YtbE5tQlRSZ3o3LXRDc1dlWFdFVEJ0Q0pLRFhWZGtVR1BSLWl1bVZWaUVQLUtwNzdHQUtOZXhhcm16eTZCdWZZODZVeGVKZ2hhdHpIRHBVUW1kUy1rU1B6VFBuX19wYW1zWDZVaW92N1ZZenpmc0R4azV5VGl3cWQ0b2paQVZacFhKXzh2QWpha0ZuZHF1aDM?oc=5",
+          "title": "With Netanyahu at the U.N., Mamdani plants an olive tree with Palestinians - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQy1ZMTNsT25aZmtubWF6MUF5eG42N0FmZE94d2ZuWGltdnhxSmhueGNpX0xNU1NpWnFxOEl1ZlltM2Mzb2IyZVZFTWNESHkzTVlkRmVPYmQ2MHNJTU1YbTgyNzNYV3hTMUwtUWFwQW41LU9RQ1BqajBIMjJveF83WmFmSXEySW1XaE5ORDM4d1hYM3lXV1pWNjZwX0dmeFdKclhKTFp0TVFQZFV0RkNDbmNCVQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 04:19:44 GMT"
+          "published": "Fri, 25 Sep 2026 03:14:54 GMT"
         }
       ]
     },
@@ -342,10 +622,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Senate rejects measure to block Trump from ordering more strikes on Iran - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNME9ERHJpUjN5al9WcXpBN2swOXk5RWVLM3hQRkRxWVpnMVlyODlwYThYZG96eGlZbzhkSU91UDhZWFo5ajRjWHQ0NE9GQTFVYkpKMThKaDg4aVFFZGprbHc5UHlIOW10WkVaQlh1MlhJTGJDSjB2ZFJPTndTaU9TbWhMN213TUphMmZxc0hobFRkdExIUFVQZk9DRm1BR0NwU0p6WFBwdFo5WDFNMDFyTTVjNA?oc=5",
+          "title": "US Senate rejects resolution curbing Trump's Iran war powers - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNODVQSjliMlBWTFZPaHV3aXY5Y3hMVGl0dWc0bTRDdGxOU1NhOXZJVmx1eWh2Q3VmX0h3UWZnOVZlODRXcEU1LVNtWHpVSDNVOGpmU3BWVVNzUzd1T1d5UlRLcktuVENkeGpMem1FcmJkUWVoR1dpMFY0QnZ1ZDZZV0pHczRpOWI4ZnZtRS1CdGUzQlZMUlRzazU5dk9yZUl6NjdlMlNFSQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 02:00:19 GMT"
+          "published": "Thu, 24 Sep 2026 18:51:47 GMT"
         }
       ]
     },
@@ -355,231 +635,23 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Senate rejects measure to block Trump from ordering more strikes on Iran - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNME9ERHJpUjN5al9WcXpBN2swOXk5RWVLM3hQRkRxWVpnMVlyODlwYThYZG96eGlZbzhkSU91UDhZWFo5ajRjWHQ0NE9GQTFVYkpKMThKaDg4aVFFZGprbHc5UHlIOW10WkVaQlh1MlhJTGJDSjB2ZFJPTndTaU9TbWhMN213TUphMmZxc0hobFRkdExIUFVQZk9DRm1BR0NwU0p6WFBwdFo5WDFNMDFyTTVjNA?oc=5",
+          "title": "US Senate rejects resolution curbing Trump's Iran war powers - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNODVQSjliMlBWTFZPaHV3aXY5Y3hMVGl0dWc0bTRDdGxOU1NhOXZJVmx1eWh2Q3VmX0h3UWZnOVZlODRXcEU1LVNtWHpVSDNVOGpmU3BWVVNzUzd1T1d5UlRLcktuVENkeGpMem1FcmJkUWVoR1dpMFY0QnZ1ZDZZV0pHczRpOWI4ZnZtRS1CdGUzQlZMUlRzazU5dk9yZUl6NjdlMlNFSQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 02:00:19 GMT"
+          "published": "Thu, 24 Sep 2026 18:51:47 GMT"
         }
       ]
     },
     {
-      "word": "Measure",
+      "word": "Resolution",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Senate rejects measure to block Trump from ordering more strikes on Iran - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNME9ERHJpUjN5al9WcXpBN2swOXk5RWVLM3hQRkRxWVpnMVlyODlwYThYZG96eGlZbzhkSU91UDhZWFo5ajRjWHQ0NE9GQTFVYkpKMThKaDg4aVFFZGprbHc5UHlIOW10WkVaQlh1MlhJTGJDSjB2ZFJPTndTaU9TbWhMN213TUphMmZxc0hobFRkdExIUFVQZk9DRm1BR0NwU0p6WFBwdFo5WDFNMDFyTTVjNA?oc=5",
+          "title": "US Senate rejects resolution curbing Trump's Iran war powers - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNODVQSjliMlBWTFZPaHV3aXY5Y3hMVGl0dWc0bTRDdGxOU1NhOXZJVmx1eWh2Q3VmX0h3UWZnOVZlODRXcEU1LVNtWHpVSDNVOGpmU3BWVVNzUzd1T1d5UlRLcktuVENkeGpMem1FcmJkUWVoR1dpMFY0QnZ1ZDZZV0pHczRpOWI4ZnZtRS1CdGUzQlZMUlRzazU5dk9yZUl6NjdlMlNFSQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 25 Sep 2026 02:00:19 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Block",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Senate rejects measure to block Trump from ordering more strikes on Iran - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNME9ERHJpUjN5al9WcXpBN2swOXk5RWVLM3hQRkRxWVpnMVlyODlwYThYZG96eGlZbzhkSU91UDhZWFo5ajRjWHQ0NE9GQTFVYkpKMThKaDg4aVFFZGprbHc5UHlIOW10WkVaQlh1MlhJTGJDSjB2ZFJPTndTaU9TbWhMN213TUphMmZxc0hobFRkdExIUFVQZk9DRm1BR0NwU0p6WFBwdFo5WDFNMDFyTTVjNA?oc=5",
-          "source": "Google News",
-          "published": "Fri, 25 Sep 2026 02:00:19 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Ordering",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Senate rejects measure to block Trump from ordering more strikes on Iran - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNME9ERHJpUjN5al9WcXpBN2swOXk5RWVLM3hQRkRxWVpnMVlyODlwYThYZG96eGlZbzhkSU91UDhZWFo5ajRjWHQ0NE9GQTFVYkpKMThKaDg4aVFFZGprbHc5UHlIOW10WkVaQlh1MlhJTGJDSjB2ZFJPTndTaU9TbWhMN213TUphMmZxc0hobFRkdExIUFVQZk9DRm1BR0NwU0p6WFBwdFo5WDFNMDFyTTVjNA?oc=5",
-          "source": "Google News",
-          "published": "Fri, 25 Sep 2026 02:00:19 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Strikes",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Senate rejects measure to block Trump from ordering more strikes on Iran - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNME9ERHJpUjN5al9WcXpBN2swOXk5RWVLM3hQRkRxWVpnMVlyODlwYThYZG96eGlZbzhkSU91UDhZWFo5ajRjWHQ0NE9GQTFVYkpKMThKaDg4aVFFZGprbHc5UHlIOW10WkVaQlh1MlhJTGJDSjB2ZFJPTndTaU9TbWhMN213TUphMmZxc0hobFRkdExIUFVQZk9DRm1BR0NwU0p6WFBwdFo5WDFNMDFyTTVjNA?oc=5",
-          "source": "Google News",
-          "published": "Fri, 25 Sep 2026 02:00:19 GMT"
-        }
-      ]
-    },
-    {
-      "word": "CNN",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "CNN, MS NOW White House reporters denied access to Xi’s state dinner arrival - CNN",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd0JpUmhyZ3pwSmxlVUNxQ1c0Rl82TU91eno5eVlFZjh3b01Bcy1zcXNkWlNYQl84SzRiVTdkVGdSZXZZRmdOc0VOTS1YMy1nTjRsaVlVdEdqYWhxNUozdnhJLUREX3dQSTRtSzc4X29rS2ZURVZaQXNucG9VVjZlcTZhdDMzUQ?oc=5",
-          "source": "Google News",
-          "published": "Fri, 25 Sep 2026 03:33:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "White",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "CNN, MS NOW White House reporters denied access to Xi’s state dinner arrival - CNN",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd0JpUmhyZ3pwSmxlVUNxQ1c0Rl82TU91eno5eVlFZjh3b01Bcy1zcXNkWlNYQl84SzRiVTdkVGdSZXZZRmdOc0VOTS1YMy1nTjRsaVlVdEdqYWhxNUozdnhJLUREX3dQSTRtSzc4X29rS2ZURVZaQXNucG9VVjZlcTZhdDMzUQ?oc=5",
-          "source": "Google News",
-          "published": "Fri, 25 Sep 2026 03:33:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "House",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "CNN, MS NOW White House reporters denied access to Xi’s state dinner arrival - CNN",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd0JpUmhyZ3pwSmxlVUNxQ1c0Rl82TU91eno5eVlFZjh3b01Bcy1zcXNkWlNYQl84SzRiVTdkVGdSZXZZRmdOc0VOTS1YMy1nTjRsaVlVdEdqYWhxNUozdnhJLUREX3dQSTRtSzc4X29rS2ZURVZaQXNucG9VVjZlcTZhdDMzUQ?oc=5",
-          "source": "Google News",
-          "published": "Fri, 25 Sep 2026 03:33:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Reporters",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "CNN, MS NOW White House reporters denied access to Xi’s state dinner arrival - CNN",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd0JpUmhyZ3pwSmxlVUNxQ1c0Rl82TU91eno5eVlFZjh3b01Bcy1zcXNkWlNYQl84SzRiVTdkVGdSZXZZRmdOc0VOTS1YMy1nTjRsaVlVdEdqYWhxNUozdnhJLUREX3dQSTRtSzc4X29rS2ZURVZaQXNucG9VVjZlcTZhdDMzUQ?oc=5",
-          "source": "Google News",
-          "published": "Fri, 25 Sep 2026 03:33:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Denied",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "CNN, MS NOW White House reporters denied access to Xi’s state dinner arrival - CNN",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd0JpUmhyZ3pwSmxlVUNxQ1c0Rl82TU91eno5eVlFZjh3b01Bcy1zcXNkWlNYQl84SzRiVTdkVGdSZXZZRmdOc0VOTS1YMy1nTjRsaVlVdEdqYWhxNUozdnhJLUREX3dQSTRtSzc4X29rS2ZURVZaQXNucG9VVjZlcTZhdDMzUQ?oc=5",
-          "source": "Google News",
-          "published": "Fri, 25 Sep 2026 03:33:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Access",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "CNN, MS NOW White House reporters denied access to Xi’s state dinner arrival - CNN",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd0JpUmhyZ3pwSmxlVUNxQ1c0Rl82TU91eno5eVlFZjh3b01Bcy1zcXNkWlNYQl84SzRiVTdkVGdSZXZZRmdOc0VOTS1YMy1nTjRsaVlVdEdqYWhxNUozdnhJLUREX3dQSTRtSzc4X29rS2ZURVZaQXNucG9VVjZlcTZhdDMzUQ?oc=5",
-          "source": "Google News",
-          "published": "Fri, 25 Sep 2026 03:33:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "State",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "CNN, MS NOW White House reporters denied access to Xi’s state dinner arrival - CNN",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd0JpUmhyZ3pwSmxlVUNxQ1c0Rl82TU91eno5eVlFZjh3b01Bcy1zcXNkWlNYQl84SzRiVTdkVGdSZXZZRmdOc0VOTS1YMy1nTjRsaVlVdEdqYWhxNUozdnhJLUREX3dQSTRtSzc4X29rS2ZURVZaQXNucG9VVjZlcTZhdDMzUQ?oc=5",
-          "source": "Google News",
-          "published": "Fri, 25 Sep 2026 03:33:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Dinner",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "CNN, MS NOW White House reporters denied access to Xi’s state dinner arrival - CNN",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd0JpUmhyZ3pwSmxlVUNxQ1c0Rl82TU91eno5eVlFZjh3b01Bcy1zcXNkWlNYQl84SzRiVTdkVGdSZXZZRmdOc0VOTS1YMy1nTjRsaVlVdEdqYWhxNUozdnhJLUREX3dQSTRtSzc4X29rS2ZURVZaQXNucG9VVjZlcTZhdDMzUQ?oc=5",
-          "source": "Google News",
-          "published": "Fri, 25 Sep 2026 03:33:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Arrival",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "CNN, MS NOW White House reporters denied access to Xi’s state dinner arrival - CNN",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd0JpUmhyZ3pwSmxlVUNxQ1c0Rl82TU91eno5eVlFZjh3b01Bcy1zcXNkWlNYQl84SzRiVTdkVGdSZXZZRmdOc0VOTS1YMy1nTjRsaVlVdEdqYWhxNUozdnhJLUREX3dQSTRtSzc4X29rS2ZURVZaQXNucG9VVjZlcTZhdDMzUQ?oc=5",
-          "source": "Google News",
-          "published": "Fri, 25 Sep 2026 03:33:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Hurricane",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Hurricane Polo is coming. Here’s what it means for Southern California - Los Angeles Times",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZDdRWE0wT19tRmJDcnlqdjNhM2l1RGlpenBldC1MY2Z0YnR3Mmo0UGNQYXc5dnBTbWVQM085NG5Eb3FWcjdBOUtxOE9NYWgweGxCYlY0M1FCOFA0dlBhWDYySnpDU3d2TVhFc0tLZ0R4ZEtwaGNyY0llbU1ZRmFkaHF4YkZrTjV0YjVKeldSZnJCMHRUbko0QnhGSkVFQld6S3FNZDMxdVRrLVh5dmJIczFyb3htNTl5XzdObw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 23:42:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Polo",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Hurricane Polo is coming. Here’s what it means for Southern California - Los Angeles Times",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZDdRWE0wT19tRmJDcnlqdjNhM2l1RGlpenBldC1MY2Z0YnR3Mmo0UGNQYXc5dnBTbWVQM085NG5Eb3FWcjdBOUtxOE9NYWgweGxCYlY0M1FCOFA0dlBhWDYySnpDU3d2TVhFc0tLZ0R4ZEtwaGNyY0llbU1ZRmFkaHF4YkZrTjV0YjVKeldSZnJCMHRUbko0QnhGSkVFQld6S3FNZDMxdVRrLVh5dmJIczFyb3htNTl5XzdObw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 23:42:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Coming",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Hurricane Polo is coming. Here’s what it means for Southern California - Los Angeles Times",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZDdRWE0wT19tRmJDcnlqdjNhM2l1RGlpenBldC1MY2Z0YnR3Mmo0UGNQYXc5dnBTbWVQM085NG5Eb3FWcjdBOUtxOE9NYWgweGxCYlY0M1FCOFA0dlBhWDYySnpDU3d2TVhFc0tLZ0R4ZEtwaGNyY0llbU1ZRmFkaHF4YkZrTjV0YjVKeldSZnJCMHRUbko0QnhGSkVFQld6S3FNZDMxdVRrLVh5dmJIczFyb3htNTl5XzdObw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 23:42:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Means",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Hurricane Polo is coming. Here’s what it means for Southern California - Los Angeles Times",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZDdRWE0wT19tRmJDcnlqdjNhM2l1RGlpenBldC1MY2Z0YnR3Mmo0UGNQYXc5dnBTbWVQM085NG5Eb3FWcjdBOUtxOE9NYWgweGxCYlY0M1FCOFA0dlBhWDYySnpDU3d2TVhFc0tLZ0R4ZEtwaGNyY0llbU1ZRmFkaHF4YkZrTjV0YjVKeldSZnJCMHRUbko0QnhGSkVFQld6S3FNZDMxdVRrLVh5dmJIczFyb3htNTl5XzdObw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 24 Sep 2026 23:42:00 GMT"
+          "published": "Thu, 24 Sep 2026 18:51:47 GMT"
         }
       ]
     }
