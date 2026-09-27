@@ -1,221 +1,44 @@
 {
   "language": "en",
-  "last_updated": 1790523335.0639813,
+  "last_updated": 1790538112.4873698,
   "count": 40,
   "trends": [
     {
       "word": "Trump",
-      "count": 4,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘Better deal’: What’s behind Trump’s rejection of Iran’s truce offer? - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY0hQaDkwNFIzbjI0YWI2MjhoSUVOM1Rlc3pyNms1UFhyTC1JRlpwdWZUUElGNXBsMEgwV0hhWDlGNnNJVkJGUk05SU15a2haSjYydlhDX2hjbndfdjlmWXNUajQzMHhuSDR2cmJfclJ3djFHSHlZWnlhNy1YOFlfaXhJLWJGYUd5WWdpT0g1enJGMkhIS0tFN1dpQjJrN1hOM2JFa0F30gGrAUFVX3lxTFBLY0J2cXR1UEFyR0hRMEZjNS1xUUJTaVA4YkRpSkppdUdjdXhEZi00Y012cXVjejBUMEdoMkFQS3M5clhUR3pmT0tQNE40UGxtSkVDUlBuTEZKNnByRWdHaWoyTG95TndIOVFDZk1Bd0g4ZzRuNVZTeVRaVkFNWGNjVFVoSFd5VmIxUWZMam53S3lEMURYcE9FZ0E4TnQ5TXNCQjFPekxFUVBySQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 27 Sep 2026 13:26:03 GMT"
-        },
-        {
-          "title": "Trump administration considers building baseball park in Grand Teton National Park - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLVFhTm4ycnVQYVVHWTZTMVMyOEFRMERMYTVKUXU5MjRycmQwU1NWUXE0bjg0eHVjVGU2cFB5SnZKWWprcEszTW42TXBrRHlMdmlySy05WTBwb1pYNHpiN2VLR2VsZ2haeU5tekg4MmxqZHlwTmNqLU1aOF9nT1hZQm9EaFBISHlPMTdxbUdMYm1wNUxFOFBtYm1GSFU2dWppdjNvcGxoa3pTejRfeEE5dGNCRjhYYVFkQ2Y0?oc=5",
-          "source": "Google News",
-          "published": "Sun, 27 Sep 2026 05:19:00 GMT"
-        },
-        {
-          "title": "Trump now says the Kennedy Center could be deadly. Months ago, it was ‘great.’ - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTnQzNVp6Qml5SjE5SENLMGZKcld4ZzYwNm9RcmtnOGJFZEtGdnlNVXVyLXVYcGdKVHpFX2lBRGs0NW9xNzdLR2FwR0xVZm5XNmRoVVVWQ3ZuVjcwRlVLNVY5aGJYaUlpSlc4SW03alZQbmJqVFpwSVJDZlRoVm9TQ2ZKUUJHdXEwTS10VjdGR1Q1UXZkTmNXQ2dfckwwamw5NE9yRTZ4M1B1djRvaFZvUTZWSlZkQktZeXc?oc=5",
-          "source": "Google News",
-          "published": "Sun, 27 Sep 2026 14:32:37 GMT"
-        },
-        {
-          "title": "Trump Promotes Criticism of Republican Who Broke With Him on Immigration - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeDVaSEh2ZGROeFhjZ1pwRXFwcnE0dzYxZjF6b2lPLXFlOVh0ZDBwbnhvZDdtd2FNMjh0VGlJNGlwczBUZWlhd2ZzTXhsWjJIcmpLeWRKSWk2WjNURGtsUTJsRW1KUEtVdllVRFZtN1ZnNXljUDctRDdWZ0hDOEVaZW5CQjRaeVJ0ang3Q1FIRzY?oc=5",
-          "source": "Google News",
-          "published": "Sun, 27 Sep 2026 03:12:09 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Live",
       "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Nor’easter Live Updates: Heavy Winds and Rain Cause Coastal Flooding in Northeast - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeTYwSF9wbk40OUE2YkdLb000OTlpYlZjWTNoeDdLdXp0MXRTTXFBVWdzVnotM2VIemdvYVNKZDJOakhLeDhxT0ZLcEJzc3o5UWE1anBxc0dsTEp0QVgxRlRqWllBSVJ6OVNjNFdEdHdVMTRvRENTczlIZVdsTlZsblBfV084ZTA?oc=5",
+          "title": "Iran Still Awaits ‘Official’ U.S. Response Despite Trump’s Rebuff of Cease-Fire Offer - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORDZjNkdzeS11c0ZDdWpBNXc1ZVdJTTN3b2l0WDJ4eHFXMXF3VXRxVElkT1RUV1JGT2Y3TW1sMEM2U2t3bXZWNS15SVdnV0trMDIydjlVRElmM0NwLXpTdGhxY2c5MURnV0NJb1lqdE00Y3JwMXlkbUM2anpvSlh5NHdWd0FHY0NSeDZwSDZGREZtZnQ3aEpuU29n?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 14:20:10 GMT"
+          "published": "Sun, 27 Sep 2026 16:57:34 GMT"
         },
         {
-          "title": "Knicks’ Jalen Brunson up for anything in a solid ‘Saturday Night Live’ season premiere - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMEF4b1ljV3NmbGt6LWlxS1ZpWW0tdWJic1lBX1g0cXFFUFZXNDNRTm5PbWRFRGFTYjlLNlJSTUtXTTVkTzY1U01CWGZhZWVqZTd0WERrbFJNVnZEcDN0VW54V3VWa2RTZkdjcGJjaFNzazZZVTN1bGtjcnQ3d09IWFhmWmxGTXJKZUF6bDc2bVBMRVEwekZJblZmeF9JZjZITFc2U1p2dnhZOFlielE?oc=5",
+          "title": "Scoop: Anthropic's Dario Amodei to have White House dinner with Trump - Axios",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa01meU5ZWVpKYVJodDlpcExfZUdQbnBqVEc1UUl5TGg2YnFxT05yd0I5RU9vd2ltcjhMY1VCeVBsTGluNjJ3X2hyNkJEZFlUbHI3SmNsdWpGbzA2NmNEdTg4UjMwdEo2UzdsUHg5WUl0S085cXVMN1lwN1Q0UzBWdQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 12:33:39 GMT"
+          "published": "Sun, 27 Sep 2026 15:45:35 GMT"
         },
         {
-          "title": "SpaceX's Starship is about to attempt a 10-hour spaceflight: Watch live. - Mashable",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9MVGdJZlk0cU8xVldtMmxjLVFVRlBkNVlubkY4X2xGU2dSUGhnalYxX243aUJKa05XZl9vTEh6bXRBeFVjdno3WDF5MzdyNktQb1NnQzlzeXE2NHprWHZKVlIzellVR3hObjFlTlBjMHl4aEJZVTBtZkhB?oc=5",
+          "title": "SNL pokes fun at Mamdani-Trump relationship in season premiere - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYzJEQWY4aUtlN0RZU0Z3VUNmQVh0UUtkeC0yWXVObGNKTWlYcTV2RjZjOGZyTklIQ0tKWGJYZFJPT05nT2h1V20tcGxFblhCWG5VdjdLc3FoQzBPTXUzR2NBdHFRRTBrSUwzRGw3ZE5Sd3g0Vm03LUpCQjhYUDczWkZlTzEwSlRnTmNEeTZQUzRTQzBGbGx4a05Uc1o1ZWdyZ0F2ODVzLVM1QXptbWFYVkZBejZsdw?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 09:00:00 GMT"
+          "published": "Sun, 27 Sep 2026 17:55:34 GMT"
         }
       ]
     },
     {
-      "word": "Week",
+      "word": "Playing",
       "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "College football week 4 contenders, pretenders: Texas survives, Michigan's karma and coaches are sweating - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPN0xHTXBKaERkYllUWG1UejQ5OG5QUEtpaHJGeDZ6c0t0QUdrTEJVY2dhXzFaYjA1THBGVzVNZXpBeWIxYTdXZUlGRWxYLXB6b2l5SzJMRFJnY3paejRrRWh5TnRCMG5JNWhCVzBtRXVTektJV1k3dFlEbmprQVJ0TTdlcnIwSFlPMXk2cGRoSktaU25xOWFXZDlJSnR2aDhaWVdhWUQwNTJST21UVm5ONEVrdE1LYms3UWFhLTc3dXFtSzNOSjFYTGhHSkQ?oc=5",
+          "title": "MLB, White House discuss playing game at national park - ESPN",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXZyWGpsaS1fNDV3U0hSNVAwZmZBR3dNS053ZXdpUFpjV1JsTjBzN3lSTDJkS1I4cGNsdl9UaWdFSVQ2UHcyOXJZa3d2SVhjSEJzYWJLRXVFZExmMzJabXVmb1BHVmhZc3B2MTRiNkJKSUMyZng3UFdzcTA2RzBDMW1XdkM3S1doS2Y0UFVDdXBzbW1LVWlTNlJoTQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 11:42:28 GMT"
+          "published": "Sun, 27 Sep 2026 12:04:00 GMT"
         },
-        {
-          "title": "NFL picks, predictions: Expert ATS, over/under bets for Week 3 - The Athletic - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaUNKQXNZbGdDNVpVWUFCdDF6SWVwUmt0UGpOdUo2bXI5aVNhTzdmM2JUT1lDOXRNdnFtTzlhdGxhLVM4U0RCa29pRUpUN3c3UUM5cWVHQ1pMUlNaQjYtUXZIamdvVExqLWZXUWhSX0N5ckUzMEdad1BKUXBTRHd6ZUowakh2TmtWU2V6YU1lSE8?oc=5",
-          "source": "Google News",
-          "published": "Sun, 27 Sep 2026 13:02:55 GMT"
-        },
-        {
-          "title": "Kendall's Key Questions for Fantasy Football Week 3: Start/Sit Questions, Streamers, and More - FantasyLife",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdlI2MmhhZjE4aktSX3p2WlhCd1hlYkJyTU1IOURhZm52bThERkdPUm9QUFVJQ0JKUF9WMGFveTlpOVNhNlBpNEZOR1F6SWlGNWJDRUJteFNrY1NXWVdsOThMaVl5cVhFT29zY1J3WnRLb3Y2V3ZFdF85OFZqNGNLWkRLVE9IVFh1cVlXZ0VDak5vaTVnUmN1bUtDNA?oc=5",
-          "source": "Google News",
-          "published": "Sat, 26 Sep 2026 08:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Deal",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘Better deal’: What’s behind Trump’s rejection of Iran’s truce offer? - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY0hQaDkwNFIzbjI0YWI2MjhoSUVOM1Rlc3pyNms1UFhyTC1JRlpwdWZUUElGNXBsMEgwV0hhWDlGNnNJVkJGUk05SU15a2haSjYydlhDX2hjbndfdjlmWXNUajQzMHhuSDR2cmJfclJ3djFHSHlZWnlhNy1YOFlfaXhJLWJGYUd5WWdpT0g1enJGMkhIS0tFN1dpQjJrN1hOM2JFa0F30gGrAUFVX3lxTFBLY0J2cXR1UEFyR0hRMEZjNS1xUUJTaVA4YkRpSkppdUdjdXhEZi00Y012cXVjejBUMEdoMkFQS3M5clhUR3pmT0tQNE40UGxtSkVDUlBuTEZKNnByRWdHaWoyTG95TndIOVFDZk1Bd0g4ZzRuNVZTeVRaVkFNWGNjVFVoSFd5VmIxUWZMam53S3lEMURYcE9FZ0E4TnQ5TXNCQjFPekxFUVBySQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 27 Sep 2026 13:26:03 GMT"
-        },
-        {
-          "title": "Googlebooks might be the real deal - The Verge",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQTU0eVFxVGF3Ui1wdXBlbGtiNnRRWlR6VTBqMDFCZjFFOEI0MXFlZmVwcmM2NjdVR0ZXUEVaSlIxaGp2OG1RNHZnMFlYa0JwaUtDSGJvMTlsZGJMMG9ZbV9vX3dlRU82c29VLUhZamdDUUROaDRWNE52andLdDFWUTJtajBpc2Z6VWpvWjNUTDkxSzY0U000VkVGU3lNTWxWTk1NT2F6MXZkQnRjU3c?oc=5",
-          "source": "Google News",
-          "published": "Sun, 27 Sep 2026 12:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Offer",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘Better deal’: What’s behind Trump’s rejection of Iran’s truce offer? - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY0hQaDkwNFIzbjI0YWI2MjhoSUVOM1Rlc3pyNms1UFhyTC1JRlpwdWZUUElGNXBsMEgwV0hhWDlGNnNJVkJGUk05SU15a2haSjYydlhDX2hjbndfdjlmWXNUajQzMHhuSDR2cmJfclJ3djFHSHlZWnlhNy1YOFlfaXhJLWJGYUd5WWdpT0g1enJGMkhIS0tFN1dpQjJrN1hOM2JFa0F30gGrAUFVX3lxTFBLY0J2cXR1UEFyR0hRMEZjNS1xUUJTaVA4YkRpSkppdUdjdXhEZi00Y012cXVjejBUMEdoMkFQS3M5clhUR3pmT0tQNE40UGxtSkVDUlBuTEZKNnByRWdHaWoyTG95TndIOVFDZk1Bd0g4ZzRuNVZTeVRaVkFNWGNjVFVoSFd5VmIxUWZMam53S3lEMURYcE9FZ0E4TnQ5TXNCQjFPekxFUVBySQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 27 Sep 2026 13:26:03 GMT"
-        },
-        {
-          "title": "UK's Burnham pledges to offer social care reform at next election - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaVZjNEFENnpUa0RvNmFIYTRuU05YWFJNdVJpX3o4VzFYRGZTVXdEYXdVeHFINUI1SzVCSE5FM3ZGWWVGRUlQTjlwZGZHNDlTYV9Vcjk4Qlh2TnA3b012SzN1X0JrWjE2SU9FMHFxeFVhNUlSb240VENjU0RyQWM5ZEFBRWdEVm9hLTJQMklzdWNUVlRnSVFVdXRZN2pPTnMya3dlVHZB?oc=5",
-          "source": "Google News",
-          "published": "Sun, 27 Sep 2026 09:44:09 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Cause",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Nor’easter Live Updates: Heavy Winds and Rain Cause Coastal Flooding in Northeast - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeTYwSF9wbk40OUE2YkdLb000OTlpYlZjWTNoeDdLdXp0MXRTTXFBVWdzVnotM2VIemdvYVNKZDJOakhLeDhxT0ZLcEJzc3o5UWE1anBxc0dsTEp0QVgxRlRqWllBSVJ6OVNjNFdEdHdVMTRvRENTczlIZVdsTlZsblBfV084ZTA?oc=5",
-          "source": "Google News",
-          "published": "Sun, 27 Sep 2026 14:20:10 GMT"
-        },
-        {
-          "title": "Bill Gates says unchecked AI could ‘cause a billion deaths’ in call for regulation - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX3U0dW9FbGNsVVd0bGt4MlRzRTBZMkE2NWZOYUZlUkxOd3puUEwxdkR1YXNIaHdFNUtaYzJ3cGlOTHM2ckdBbHhLZmYtbUlnalJ2QmZYVS00RFROaksyY01xUnRCSXFzcEppNElYd1NOV21KNWJXVEVPVHBVZUppSEZPRVQzVmhtdlA4ZWp4emlaQmwxblpxVjRVWGM0dw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 27 Sep 2026 09:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Building",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump administration considers building baseball park in Grand Teton National Park - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLVFhTm4ycnVQYVVHWTZTMVMyOEFRMERMYTVKUXU5MjRycmQwU1NWUXE0bjg0eHVjVGU2cFB5SnZKWWprcEszTW42TXBrRHlMdmlySy05WTBwb1pYNHpiN2VLR2VsZ2haeU5tekg4MmxqZHlwTmNqLU1aOF9nT1hZQm9EaFBISHlPMTdxbUdMYm1wNUxFOFBtYm1GSFU2dWppdjNvcGxoa3pTejRfeEE5dGNCRjhYYVFkQ2Y0?oc=5",
-          "source": "Google News",
-          "published": "Sun, 27 Sep 2026 05:19:00 GMT"
-        },
-        {
-          "title": "Bodies of 6 people, including 4 Americans, recovered from collapsed building in Athens, Greece - ABC7 Los Angeles",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVVptWlV6Z0s4cU5Cdlc1RmV2NjJMXzBOcTJZczMtQldYdEt6R2lqSk9wVlE4QktpWmZyYkV5c29JY1ozcmx4TDdpenpaaHh0QTZfZ0gwRUp3YVRuRlJBOFRhaTlmRkpua21NdkpRZUlWV2RXaXhaMTRpUnQ3V214Yy16YUZvTTVsa1BTSGxyeXA0ZmR6XzdBeDQ3bmdBcEN0bEgtemd0ZFjSAa4BQVVfeXFMTzg3N2drUzZER29Tc3RjRXFlMDNXVHBXQWFLVnhFWnlSU2hMeHhibEQzMVZXMjNWTGpBRXlJbDYzOFM5dFR5Zy13YnVYN2JWWEl4V2dMWHE1Tm5LakZ5eXBjX1NiMkpCcWFZcFRpcEpFV2N3SFJsZ004T2Y4aTRiWV9BQW5yZlRxd0tuM2czV2pFSGd4S0N2RjVNWWRkM0JzTWM1R2pORndBUE5ZYVd3?oc=5",
-          "source": "Google News",
-          "published": "Sat, 26 Sep 2026 18:56:54 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Park",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump administration considers building baseball park in Grand Teton National Park - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLVFhTm4ycnVQYVVHWTZTMVMyOEFRMERMYTVKUXU5MjRycmQwU1NWUXE0bjg0eHVjVGU2cFB5SnZKWWprcEszTW42TXBrRHlMdmlySy05WTBwb1pYNHpiN2VLR2VsZ2haeU5tekg4MmxqZHlwTmNqLU1aOF9nT1hZQm9EaFBISHlPMTdxbUdMYm1wNUxFOFBtYm1GSFU2dWppdjNvcGxoa3pTejRfeEE5dGNCRjhYYVFkQ2Y0?oc=5",
-          "source": "Google News",
-          "published": "Sun, 27 Sep 2026 05:19:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Democrats",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "These Democrats are running for Congress on Christian faith. Will it pay off? - NPR",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVGtXNnc0TmJUMlA3QmpxUjFxQXNpTEY3RFhId2dmSG5pd1NkY2ZhTTdhcE1NQXJwLVRwQU51cGd0eW1UWTk4UnlJdnItbWJ6R1Q4c1Z4WW84dGE4aEpQNXRIZFBGd2pSMUxOMTVjOFFYY3lIYzRzcmJQMzJ5SDhaNkl1ZmZkejFxcXczc0s2bTU5MjQ0ck9MTzk3UXlwTHN6U0JzczRZYlVhZk9KWnhyLXpKNHdmczFLTU56eg?oc=5",
-          "source": "Google News",
-          "published": "Sun, 27 Sep 2026 10:00:00 GMT"
-        },
-        {
-          "title": "Sen. John Fetterman says it's \"entirely possible\" Democrats take back Senate, says \"let's revisit after the midterm\" on his plans - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNm9iN3RwRXJLV0tWWEg5RlJ1UkdpMXI1aVE4NTdJMzhpeEtjMW9MUGotN1l5VGozTTlpRjllRDdYRTV2bVFBM3FnX0xLM0VQd0VyLTdaR2lXVU5Yem0tZ0hkUjI2TTJjQ2J4ckNfcFd0RlE4MDdfeUpWejJIZkNEZQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 27 Sep 2026 13:48:52 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Next",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "UK's Burnham pledges to offer social care reform at next election - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaVZjNEFENnpUa0RvNmFIYTRuU05YWFJNdVJpX3o4VzFYRGZTVXdEYXdVeHFINUI1SzVCSE5FM3ZGWWVGRUlQTjlwZGZHNDlTYV9Vcjk4Qlh2TnA3b012SzN1X0JrWjE2SU9FMHFxeFVhNUlSb240VENjU0RyQWM5ZEFBRWdEVm9hLTJQMklzdWNUVlRnSVFVdXRZN2pPTnMya3dlVHZB?oc=5",
-          "source": "Google News",
-          "published": "Sun, 27 Sep 2026 09:44:09 GMT"
-        },
-        {
-          "title": "Jon Watts to Direct Next ‘Star Wars’ Movie - Variety",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVzQ0NWp0Rk1Qb01xUEttOUVuWmZ4aEl4RC11V1dKMTA0RkpsZmpwMmdlaXFpeDdTRHFyUFhLa200MG5neTJNbENsN1VPM0JrUjllVnpBaEduSWNjTG9fak5Fand2cG54dkJEVVJyVElwZVdFcFBUR0tYZnkyelB3ZEt3?oc=5",
-          "source": "Google News",
-          "published": "Sun, 27 Sep 2026 02:04:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Hour",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
         {
           "title": "Playing 'La Bamba' for an hour? Must be a Mexican fandango! - NPR",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15QWl2S29BM0lqWXlMMFBqYndxVzQtNlNaa0M0dWFCd2dQUkZWcTdfNU5BQUtEOUFPZV9WRDhQUkNZVEtyTmlFcDZSU1gtZXpOXzdZVVpMM0NoOTI0dDV5T21lRGMzRlFSTjFjUVI2QkFBakpZSlZZRA?oc=5",
@@ -223,61 +46,308 @@
           "published": "Sun, 27 Sep 2026 12:00:00 GMT"
         },
         {
-          "title": "SpaceX's Starship is about to attempt a 10-hour spaceflight: Watch live. - Mashable",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9MVGdJZlk0cU8xVldtMmxjLVFVRlBkNVlubkY4X2xGU2dSUGhnalYxX243aUJKa05XZl9vTEh6bXRBeFVjdno3WDF5MzdyNktQb1NnQzlzeXE2NHprWHZKVlIzellVR3hObjFlTlBjMHl4aEJZVTBtZkhB?oc=5",
+          "title": "China is playing a different game when it comes to AI - MarketWatch",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM0Jrdm05el9wTV82MnJHMmZpeEhJNFU1OGZUTERCRk9NQlZWMTdQWndTeXpvS0pUaFlzYms5TGRmMEV6VVZ3WWVCZG5VaXhSRTVtTFY2Y2xBZzJ0bDk0b1RJd0VxcDY2UEM0RElDS1N5QkcxckpEcGlvaFBEay01RXN5cExMN19EUHM1X0lVa25xLUloMm00c1IwaEM?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 09:00:00 GMT"
+          "published": "Sat, 26 Sep 2026 12:30:00 GMT"
         }
       ]
     },
     {
-      "word": "Watch",
-      "count": 2,
+      "word": "Galaxy",
+      "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘SNL’: Watch Katseye Perform ‘Animal,’ ‘Hootie Frutti’ - rollingstone.com",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOamYzNVgwRzJCQ20yREJWWHlITk4tZ3hYQ18wQ1ExLVJmTGl1R1pidVh6TXlqeDhmODdlb0E1aXNYOEUwWmx6LWVpeHRja0hVZXRZYUxIdG4wXzZkUEtmckZZY2prWTBGeGNoM0N1cWFpbTdXbWY4Z3l3RTlqYUY1aENjc2JjWHFZdk9mT1MwNTlPWFRPNkkyS2FDTV9pQjQ5eDBnSkVZM3lIaEJVOUE?oc=5",
+          "title": "Galaxy S27 Ultra and Galaxy S27 Pro may boast supreme memory upgrades, but there's a catch - PhoneArena",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSWZPZHlkdFd4R21VUzdkVlpZWVB4THFvOWduNV92RHBzd280a1RGM0tKSlRjbkhjU1hZQmJkTDkwYnNSR3Z2dm5ZN0wwZVhvcjVGSEFKUm9zVkpfTHNtbkNuNmx2T3dqZEc0VzhReGFUNkJvd3RXbHgtQmI4NjV5dUkzZ1BGT2tnM3ZhUmxjWHlSQQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 06:59:11 GMT"
+          "published": "Wed, 23 Sep 2026 08:04:58 GMT"
         },
         {
-          "title": "SpaceX's Starship is about to attempt a 10-hour spaceflight: Watch live. - Mashable",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9MVGdJZlk0cU8xVldtMmxjLVFVRlBkNVlubkY4X2xGU2dSUGhnalYxX243aUJKa05XZl9vTEh6bXRBeFVjdno3WDF5MzdyNktQb1NnQzlzeXE2NHprWHZKVlIzellVR3hObjFlTlBjMHl4aEJZVTBtZkhB?oc=5",
+          "title": "Astronomers discover a radio galaxy with evidence of four separate jet outbursts - Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4wZ2EzQXUxU3Bsa3k3QWxzMWY4bmx2eWd5RTZ6YWxxbGp2LW1jdms3MUNpRG5oQnRicFc2WjJPUE8tM21BclA1eldHSy05T0tsQ1piUUJRVWlTakNiNU5sM3JpUVY1OWJLQzA1UTZ5S3M5N05WZ2w3SGE0aHA?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 09:00:00 GMT"
+          "published": "Sun, 27 Sep 2026 14:20:05 GMT"
         }
       ]
     },
     {
-      "word": "Football",
+      "word": "Near",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "College football week 4 contenders, pretenders: Texas survives, Michigan's karma and coaches are sweating - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPN0xHTXBKaERkYllUWG1UejQ5OG5QUEtpaHJGeDZ6c0t0QUdrTEJVY2dhXzFaYjA1THBGVzVNZXpBeWIxYTdXZUlGRWxYLXB6b2l5SzJMRFJnY3paejRrRWh5TnRCMG5JNWhCVzBtRXVTektJV1k3dFlEbmprQVJ0TTdlcnIwSFlPMXk2cGRoSktaU25xOWFXZDlJSnR2aDhaWVdhWUQwNTJST21UVm5ONEVrdE1LYms3UWFhLTc3dXFtSzNOSjFYTGhHSkQ?oc=5",
+          "title": "Bomb squad searching vans near U.S. air base in Britain as five men arrested on terror charge - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMzkybDc0THU3R1JKM3YzOVBJOXU1a3hQc3NqbFJRc0tJVVJCemxrYWZvaUl0S0tXeHRmbC02TUpFMjNwNlZRTE5HeGFQT3RmS3FXclphbEdDZWZGa0pQZEJpWGp2ZFpKd2dyTDZLRm5xQzBhZWxSbVBkTnc3WUliNE9hTjRhZlRJaXB5VGNnbnJzVjhxN2l3QWIxak1qaGhlWTk2Tkd2N09SZWNIV0pKWUJIeTRnQUQ2b3c?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 11:42:28 GMT"
+          "published": "Sun, 27 Sep 2026 16:47:53 GMT"
         },
         {
-          "title": "Kendall's Key Questions for Fantasy Football Week 3: Start/Sit Questions, Streamers, and More - FantasyLife",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdlI2MmhhZjE4aktSX3p2WlhCd1hlYkJyTU1IOURhZm52bThERkdPUm9QUFVJQ0JKUF9WMGFveTlpOVNhNlBpNEZOR1F6SWlGNWJDRUJteFNrY1NXWVdsOThMaVl5cVhFT29zY1J3WnRLb3Y2V3ZFdF85OFZqNGNLWkRLVE9IVFh1cVlXZ0VDak5vaTVnUmN1bUtDNA?oc=5",
+          "title": "Four American tourists among 6 killed after explosion levels building near Athens’ Acropolis - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc1VyQmc1ejZvR19GbjlPc1I4YWROSFA4TWRSbEZTNkRtWEQyNVJhSE5qUjFyd21zWkdtXzVqN05LYnVKaDNqUWNxZHloSW9tM1Q4YTA4dlQyb203ZklHU29pb1hmRTRtQVJ6N2ljTTlBbmdLbm9GcVNrZWZrZ3FkaE45QWdrNVVzbVBRVUE0a2s0c0pxUDhDLUlvX2pGTEIwVUJtVXdHZzZaUVo0a0xseFN6THprZ9IBuwFBVV95cUxPQk1QV192bDJoV3N2cXAxWURDZDQwMUUtUmM5enc0M0Vmd25BNWVUSzFOQVRiQUV1UnhfanFIZjVuNFdTdlJWVE05MHpST2k0emhJYmF6aXljaVgwazY4ZEoyamZQWW1yR2I0NDhld0hNckZiUEJmeU5IYnhsTlVrNzZKYjFraS1hUFJaWmZEcjVZOHc4blJOMGE5Z2l5SWxDZmdkVmFOVkUxTGtrZTY5Sy03R3oxZjZGaVFj?oc=5",
           "source": "Google News",
-          "published": "Sat, 26 Sep 2026 08:00:00 GMT"
+          "published": "Sun, 27 Sep 2026 12:32:40 GMT"
         }
       ]
     },
     {
-      "word": "Questions",
+      "word": "South",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Kendall's Key Questions for Fantasy Football Week 3: Start/Sit Questions, Streamers, and More - FantasyLife",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdlI2MmhhZjE4aktSX3p2WlhCd1hlYkJyTU1IOURhZm52bThERkdPUm9QUFVJQ0JKUF9WMGFveTlpOVNhNlBpNEZOR1F6SWlGNWJDRUJteFNrY1NXWVdsOThMaVl5cVhFT29zY1J3WnRLb3Y2V3ZFdF85OFZqNGNLWkRLVE9IVFh1cVlXZ0VDak5vaTVnUmN1bUtDNA?oc=5",
+          "title": "Two mass shootings in South Africa leave 27 dead - bbc.com",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OcFRmTXRXMWwwbU1EajhqRUl1SXdfLWtsa0pXTzU4bTBOY21jVHp6Ui1PRUU5TmlVQmNPVDZkWC1wOFFBS1o5azZZdE9yT1RLbjctRXZJMmN6UzQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 26 Sep 2026 08:00:00 GMT"
+          "published": "Sun, 27 Sep 2026 14:09:22 GMT"
+        },
+        {
+          "title": "How many Starbucks locations are closing in south central Pennsylvania? - fox43.com",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVGJiY3p6SE4yelh1Zms0a1ljOXlDQ1BNSGd0WUhaaDNlODJ1Nk9FTFVtQm1NVkdKbTE1ZTdYcnQtbVpDcmU4OE9FX01ZOWFnaGhKdi10WjM1ZTZQcThNOUtYTy1YZUhzaU90MWJyLUE2dkU5WEZEZnFCUGZrcFpEcGZEMEwtNWNDQUdxVnlHN211anYzMkF0WGNGZ1l5MlRoQUx2VlUxSWlDUXdqMHVYYnVjSlc4OE1NaGVnNTBkT3R3cHhuNjdCSG1rV3VBV1dzNzRXQXBNdi1fMlo0TEtWMTdFQkYxa192ZVFPOA?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 13:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "White",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "MLB, White House discuss playing game at national park - ESPN",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXZyWGpsaS1fNDV3U0hSNVAwZmZBR3dNS053ZXdpUFpjV1JsTjBzN3lSTDJkS1I4cGNsdl9UaWdFSVQ2UHcyOXJZa3d2SVhjSEJzYWJLRXVFZExmMzJabXVmb1BHVmhZc3B2MTRiNkJKSUMyZng3UFdzcTA2RzBDMW1XdkM3S1doS2Y0UFVDdXBzbW1LVWlTNlJoTQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 12:04:00 GMT"
+        },
+        {
+          "title": "Scoop: Anthropic's Dario Amodei to have White House dinner with Trump - Axios",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa01meU5ZWVpKYVJodDlpcExfZUdQbnBqVEc1UUl5TGg2YnFxT05yd0I5RU9vd2ltcjhMY1VCeVBsTGluNjJ3X2hyNkJEZFlUbHI3SmNsdWpGbzA2NmNEdTg4UjMwdEo2UzdsUHg5WUl0S085cXVMN1lwN1Q0UzBWdQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 15:45:35 GMT"
+        }
+      ]
+    },
+    {
+      "word": "House",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "MLB, White House discuss playing game at national park - ESPN",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXZyWGpsaS1fNDV3U0hSNVAwZmZBR3dNS053ZXdpUFpjV1JsTjBzN3lSTDJkS1I4cGNsdl9UaWdFSVQ2UHcyOXJZa3d2SVhjSEJzYWJLRXVFZExmMzJabXVmb1BHVmhZc3B2MTRiNkJKSUMyZng3UFdzcTA2RzBDMW1XdkM3S1doS2Y0UFVDdXBzbW1LVWlTNlJoTQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 12:04:00 GMT"
+        },
+        {
+          "title": "Scoop: Anthropic's Dario Amodei to have White House dinner with Trump - Axios",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa01meU5ZWVpKYVJodDlpcExfZUdQbnBqVEc1UUl5TGg2YnFxT05yd0I5RU9vd2ltcjhMY1VCeVBsTGluNjJ3X2hyNkJEZFlUbHI3SmNsdWpGbzA2NmNEdTg4UjMwdEo2UzdsUHg5WUl0S085cXVMN1lwN1Q0UzBWdQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 15:45:35 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Game",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "MLB, White House discuss playing game at national park - ESPN",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXZyWGpsaS1fNDV3U0hSNVAwZmZBR3dNS053ZXdpUFpjV1JsTjBzN3lSTDJkS1I4cGNsdl9UaWdFSVQ2UHcyOXJZa3d2SVhjSEJzYWJLRXVFZExmMzJabXVmb1BHVmhZc3B2MTRiNkJKSUMyZng3UFdzcTA2RzBDMW1XdkM3S1doS2Y0UFVDdXBzbW1LVWlTNlJoTQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 12:04:00 GMT"
+        },
+        {
+          "title": "China is playing a different game when it comes to AI - MarketWatch",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM0Jrdm05el9wTV82MnJHMmZpeEhJNFU1OGZUTERCRk9NQlZWMTdQWndTeXpvS0pUaFlzYms5TGRmMEV6VVZ3WWVCZG5VaXhSRTVtTFY2Y2xBZzJ0bDk0b1RJd0VxcDY2UEM0RElDS1N5QkcxckpEcGlvaFBEay01RXN5cExMN19EUHM1X0lVa25xLUloMm00c1IwaEM?oc=5",
+          "source": "Google News",
+          "published": "Sat, 26 Sep 2026 12:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Making",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "ICE operations are making it hard for vulnerable Republicans fighting for their political survival - Politico",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcHh2cWplVDZKOWhrTXNrWE9mYk5pOEpLQlZIaHFOTEJJN2M4Z3RZaVFURm9BR0VmUS1xMllYSTMwZ1BQcGp5c092bm5RTGdWQ3dBblNPVXREbzBZTEhqc1d3a3N3UlNMV2hEc1lYZ3NWZ2xoUWpIMnd4QndkaXpiY2xSeXJmcFNzNWpQRTVGV3JZbFRqTUxmR1dkd2s?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 14:00:00 GMT"
+        },
+        {
+          "title": "CFB Overtime: Florida's Jon Sumrall is making every right move, coaching pressure mounts, top Week 4 takeaways - 247Sports",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTk05cHlLbjl5bG9SQVNwQVk4cnhmTjJtUkFMREpqSDU2emtNZi12dDhCWDhRQW5zMmI4NFRYaGhkMkJFQTJKMzB0VzFOdlZUVkVZeGROMGJjU0JHbFYycjNmU1ZZQ2ZTSmM3eV9HV0lUWlRlcjhjNlRFLVhMQzB1VS0xM09MYlQ5TThTUW40aUFBX3k3cjV3anhrdnpCYnhaZXZHckZoQQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 13:37:03 GMT"
+        }
+      ]
+    },
+    {
+      "word": "China",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "New giant pandas from China arrive in Atlanta zoo - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MVlNXMlJDMHRZa3NsRU5iQlY5YzBKZEpVN2UtcTB0V0NvRlBKUEJIT0NCbmNCQ3Nfdy1ublpnaGZXV2JLZ0s4ZE9WTFdJckR1MnZqUjlET2xtM05mVXRNZURUbk90R2N5VFJLRkRZS1RpbjFRUkE?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 16:00:00 GMT"
+        },
+        {
+          "title": "China is playing a different game when it comes to AI - MarketWatch",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM0Jrdm05el9wTV82MnJHMmZpeEhJNFU1OGZUTERCRk9NQlZWMTdQWndTeXpvS0pUaFlzYms5TGRmMEV6VVZ3WWVCZG5VaXhSRTVtTFY2Y2xBZzJ0bDk0b1RJd0VxcDY2UEM0RElDS1N5QkcxckpEcGlvaFBEay01RXN5cExMN19EUHM1X0lVa25xLUloMm00c1IwaEM?oc=5",
+          "source": "Google News",
+          "published": "Sat, 26 Sep 2026 12:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Sept",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Transcript: Sen. John Kennedy on \"Face the Nation with Margaret Brennan,\" Sept. 27, 2026 - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY3RrSnpzd3F2Q3B2X2Q3eXdTZm9kVGM1ek1hRVdpUEE1eFNYMkIxa2hOTXRRbUVQUFlIcHlKSERCYl91R3JPWXZ1dTdDUklfMEN6enhRSm4zbjBObGFpYjE0V24yb19oMFJrU3hWOXJRYU5PSTBCTEJlcUF4UDh4d1ZoWWNfWEdXYmxMMVAxVW0tT255d0REMGhBaGdMc2l4Rlhn?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 15:56:00 GMT"
+        },
+        {
+          "title": "SpaceX's Starship megarocket launching to orbit for 1st time ever on Sept. 28: Watch it live - Space",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSW1hM2d1MVJYcU5vUTBGNmhUSWZKak1QZEpLd082Z2pGOTZwS3pucHVheV9hMWdFWnprNkIzbGRWUUxPZGdMOFNfWG9BRUU3QTU3QnlxTktKc1lsQTJfQkd1N0RGU0tYYjhqaVJWUkRXX0JRNkRTVnpVeHJHVWtIb1c4NTVzS25pdG04RTBXZjlEejJiLUc3Wm1qaDFzWkNkandZdEFSRy1ydUg0Q2tLOE9LMnBTZHZZMmtfMHZSVUZrLUY4WG9QQkRUWlplNy1ySkh1dUVVVWoxWG9iSk5KY3Mwdw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 16:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Four",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Four American tourists among 6 killed after explosion levels building near Athens’ Acropolis - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc1VyQmc1ejZvR19GbjlPc1I4YWROSFA4TWRSbEZTNkRtWEQyNVJhSE5qUjFyd21zWkdtXzVqN05LYnVKaDNqUWNxZHloSW9tM1Q4YTA4dlQyb203ZklHU29pb1hmRTRtQVJ6N2ljTTlBbmdLbm9GcVNrZWZrZ3FkaE45QWdrNVVzbVBRVUE0a2s0c0pxUDhDLUlvX2pGTEIwVUJtVXdHZzZaUVo0a0xseFN6THprZ9IBuwFBVV95cUxPQk1QV192bDJoV3N2cXAxWURDZDQwMUUtUmM5enc0M0Vmd25BNWVUSzFOQVRiQUV1UnhfanFIZjVuNFdTdlJWVE05MHpST2k0emhJYmF6aXljaVgwazY4ZEoyamZQWW1yR2I0NDhld0hNckZiUEJmeU5IYnhsTlVrNzZKYjFraS1hUFJaWmZEcjVZOHc4blJOMGE5Z2l5SWxDZmdkVmFOVkUxTGtrZTY5Sy03R3oxZjZGaVFj?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 12:32:40 GMT"
+        },
+        {
+          "title": "Astronomers discover a radio galaxy with evidence of four separate jet outbursts - Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4wZ2EzQXUxU3Bsa3k3QWxzMWY4bmx2eWd5RTZ6YWxxbGp2LW1jdms3MUNpRG5oQnRicFc2WjJPUE8tM21BclA1eldHSy05T0tsQ1piUUJRVWlTakNiNU5sM3JpUVY1OWJLQzA1UTZ5S3M5N05WZ2w3SGE0aHA?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 14:20:05 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Pennsylvania",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "How many Starbucks locations are closing in south central Pennsylvania? - fox43.com",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVGJiY3p6SE4yelh1Zms0a1ljOXlDQ1BNSGd0WUhaaDNlODJ1Nk9FTFVtQm1NVkdKbTE1ZTdYcnQtbVpDcmU4OE9FX01ZOWFnaGhKdi10WjM1ZTZQcThNOUtYTy1YZUhzaU90MWJyLUE2dkU5WEZEZnFCUGZrcFpEcGZEMEwtNWNDQUdxVnlHN211anYzMkF0WGNGZ1l5MlRoQUx2VlUxSWlDUXdqMHVYYnVjSlc4OE1NaGVnNTBkT3R3cHhuNjdCSG1rV3VBV1dzNzRXQXBNdi1fMlo0TEtWMTdFQkYxa192ZVFPOA?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 13:30:00 GMT"
+        },
+        {
+          "title": "Pennsylvania measles outbreak spreads, with 55 new cases reported since Wednesday - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdVcwVXpranllUGhnazJBdy0wYUlyaWVabzY1azRDejFVRDVmaFUtdGxIRXZVN0ljSllBUUtIWTF0eW5HVS1ISzBGdWRjYXJQTXY4WWFqR3NtOHBGdktkME1uVWliRTdxVnRZWmxZWlFwb2lvTnJXMTQ1RHkydm9MN2Z1X1pxUHFrMXN4alB3?oc=5",
+          "source": "Google News",
+          "published": "Sat, 26 Sep 2026 23:15:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Ahead",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Meta Launches $1 Million Competition For \"Hands-First\" Apps Ahead Of VR Glasses - UploadVR",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPajZ0dHcyM0ZIVnpIZ25XcUEtTHJFWXp1bXJYVjQ5NGVJaEZyczVQVUUzcHlyemFqVzdSRGFKQmVyaDVCcUZsa2QwNGtVM05yRXoxR3QzR0hvY3VWYUplU3ZJaDFTZjk3ZDlGc0FoY0xROXZIeTJTamFkNmRWZ2p6cEZMNnlLLU1hYnJES3dtSmNRYzJWcVlyVC1jYkp3Xy1zZUh5cA?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 01:21:39 GMT"
+        },
+        {
+          "title": "‘Avengers Endgame: Encore’ Powers $86M WW Re-Release Opening Ahead Of ‘Doomsday’ Global Domination - Deadline",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN1U4VEFGeGFHLW5OT191Q1VIR3p5VlBwbWJVNWo1ZjI4TWoyNmtweVZvUnBoTmEwaHFqMW5UQ1lPd0hrVXFOMVV5dWFhUzNob2Yzcmt3cUpZTFo4a01ZSHFBdTJoV0F1QklDeDlyVXJVVV84MVdEeURLbHVWNDRya1BvQ2NyendNLThmbzJTRXJrWXd5?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 16:57:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Gerber",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Presley Gerber Cremated as Cindy Crawford and Rande Gerber Plan a Small Funeral - Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc1phb09XRElHTFV5YjFLYmRzYlJCaFVxWWptbTJpcTF3QkNkN3lSa01QMGFJT2pnWTBjZlhUczJDUFJMQjBvejNkWjZUVFROdFZ5bl9PdDlCMkprbHNiSnNmUV9tbnR4ZjMxbldZelNqVUtON1U2MzRuRzZqelZ6RDdMc0VJbVl3dHdGZkp1aU8wdGdsRS1FSmhFOEE5a1VvbjFEM1VJbDN4MlRn?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 14:16:38 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Florida",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "CFB Overtime: Florida's Jon Sumrall is making every right move, coaching pressure mounts, top Week 4 takeaways - 247Sports",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTk05cHlLbjl5bG9SQVNwQVk4cnhmTjJtUkFMREpqSDU2emtNZi12dDhCWDhRQW5zMmI4NFRYaGhkMkJFQTJKMzB0VzFOdlZUVkVZeGROMGJjU0JHbFYycjNmU1ZZQ2ZTSmM3eV9HV0lUWlRlcjhjNlRFLVhMQzB1VS0xM09MYlQ5TThTUW40aUFBX3k3cjV3anhrdnpCYnhaZXZHckZoQQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 13:37:03 GMT"
+        },
+        {
+          "title": "AP Top 25 poll: Florida climbs into top 10 in college football rankings after statement win over Ole Miss - CBS Sports",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSkJoSElwY2M4Rm5HS0tUY2lmS3J0WXpGOFlVVFVRd2lpN3BTc0RWcEd6ZE5CRXN4RUk3T3JqejlWZ1NrVjZjNHFfTTFRSzVpM2dOYnRHRmFWSWJPb2hCQlhCUVFYME5SVllpTHNFTUluV0g2blBoSndlY3QwOTBBcXI5dktYaU5KQ2JzU0FxOTJSR0ZYVFVoaFJhSmNoQXUtck1ZQmZmRQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 18:31:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "top",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "CFB Overtime: Florida's Jon Sumrall is making every right move, coaching pressure mounts, top Week 4 takeaways - 247Sports",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTk05cHlLbjl5bG9SQVNwQVk4cnhmTjJtUkFMREpqSDU2emtNZi12dDhCWDhRQW5zMmI4NFRYaGhkMkJFQTJKMzB0VzFOdlZUVkVZeGROMGJjU0JHbFYycjNmU1ZZQ2ZTSmM3eV9HV0lUWlRlcjhjNlRFLVhMQzB1VS0xM09MYlQ5TThTUW40aUFBX3k3cjV3anhrdnpCYnhaZXZHckZoQQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 13:37:03 GMT"
+        },
+        {
+          "title": "AP Top 25 poll: Florida climbs into top 10 in college football rankings after statement win over Ole Miss - CBS Sports",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSkJoSElwY2M4Rm5HS0tUY2lmS3J0WXpGOFlVVFVRd2lpN3BTc0RWcEd6ZE5CRXN4RUk3T3JqejlWZ1NrVjZjNHFfTTFRSzVpM2dOYnRHRmFWSWJPb2hCQlhCUVFYME5SVllpTHNFTUluV0g2blBoSndlY3QwOTBBcXI5dktYaU5KQ2JzU0FxOTJSR0ZYVFVoaFJhSmNoQXUtck1ZQmZmRQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 18:31:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Measles",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Pennsylvania measles outbreak spreads, with 55 new cases reported since Wednesday - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdVcwVXpranllUGhnazJBdy0wYUlyaWVabzY1azRDejFVRDVmaFUtdGxIRXZVN0ljSllBUUtIWTF0eW5HVS1ISzBGdWRjYXJQTXY4WWFqR3NtOHBGdktkME1uVWliRTdxVnRZWmxZWlFwb2lvTnJXMTQ1RHkydm9MN2Z1X1pxUHFrMXN4alB3?oc=5",
+          "source": "Google News",
+          "published": "Sat, 26 Sep 2026 23:15:00 GMT"
+        },
+        {
+          "title": "Confirmed case of measles reported in Lewis County in unvaccinated resident - Newzjunky",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSHlpdW50SHhjZzRfQWpoN1BFcXh0YzVWXy1DYmhDQW9JSW5Hc1N1Ym1VSmtPTktPaEhLZTFyM09hR2lzQWVLV1F5MFgxVF9kdnh2Q0NLZnE0QS1lSkpKbVZOTjlOM2xnVkxxX3ZldnhZWGtiWGxWa3FlT1hKWVFqV3ZpV0ZvWmJIRWdGWE1Xc3RCTF9HZk5hNGxZTnFENGhLTjAwLQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 13:34:50 GMT"
         }
       ]
     },
@@ -320,67 +390,21 @@
       ]
     },
     {
-      "word": "Better",
-      "count": 1,
+      "word": "Reported",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘Better deal’: What’s behind Trump’s rejection of Iran’s truce offer? - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY0hQaDkwNFIzbjI0YWI2MjhoSUVOM1Rlc3pyNms1UFhyTC1JRlpwdWZUUElGNXBsMEgwV0hhWDlGNnNJVkJGUk05SU15a2haSjYydlhDX2hjbndfdjlmWXNUajQzMHhuSDR2cmJfclJ3djFHSHlZWnlhNy1YOFlfaXhJLWJGYUd5WWdpT0g1enJGMkhIS0tFN1dpQjJrN1hOM2JFa0F30gGrAUFVX3lxTFBLY0J2cXR1UEFyR0hRMEZjNS1xUUJTaVA4YkRpSkppdUdjdXhEZi00Y012cXVjejBUMEdoMkFQS3M5clhUR3pmT0tQNE40UGxtSkVDUlBuTEZKNnByRWdHaWoyTG95TndIOVFDZk1Bd0g4ZzRuNVZTeVRaVkFNWGNjVFVoSFd5VmIxUWZMam53S3lEMURYcE9FZ0E4TnQ5TXNCQjFPekxFUVBySQ?oc=5",
+          "title": "Pennsylvania measles outbreak spreads, with 55 new cases reported since Wednesday - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdVcwVXpranllUGhnazJBdy0wYUlyaWVabzY1azRDejFVRDVmaFUtdGxIRXZVN0ljSllBUUtIWTF0eW5HVS1ISzBGdWRjYXJQTXY4WWFqR3NtOHBGdktkME1uVWliRTdxVnRZWmxZWlFwb2lvTnJXMTQ1RHkydm9MN2Z1X1pxUHFrMXN4alB3?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 13:26:03 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Behind",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
+          "published": "Sat, 26 Sep 2026 23:15:00 GMT"
+        },
         {
-          "title": "‘Better deal’: What’s behind Trump’s rejection of Iran’s truce offer? - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY0hQaDkwNFIzbjI0YWI2MjhoSUVOM1Rlc3pyNms1UFhyTC1JRlpwdWZUUElGNXBsMEgwV0hhWDlGNnNJVkJGUk05SU15a2haSjYydlhDX2hjbndfdjlmWXNUajQzMHhuSDR2cmJfclJ3djFHSHlZWnlhNy1YOFlfaXhJLWJGYUd5WWdpT0g1enJGMkhIS0tFN1dpQjJrN1hOM2JFa0F30gGrAUFVX3lxTFBLY0J2cXR1UEFyR0hRMEZjNS1xUUJTaVA4YkRpSkppdUdjdXhEZi00Y012cXVjejBUMEdoMkFQS3M5clhUR3pmT0tQNE40UGxtSkVDUlBuTEZKNnByRWdHaWoyTG95TndIOVFDZk1Bd0g4ZzRuNVZTeVRaVkFNWGNjVFVoSFd5VmIxUWZMam53S3lEMURYcE9FZ0E4TnQ5TXNCQjFPekxFUVBySQ?oc=5",
+          "title": "Confirmed case of measles reported in Lewis County in unvaccinated resident - Newzjunky",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSHlpdW50SHhjZzRfQWpoN1BFcXh0YzVWXy1DYmhDQW9JSW5Hc1N1Ym1VSmtPTktPaEhLZTFyM09hR2lzQWVLV1F5MFgxVF9kdnh2Q0NLZnE0QS1lSkpKbVZOTjlOM2xnVkxxX3ZldnhZWGtiWGxWa3FlT1hKWVFqV3ZpV0ZvWmJIRWdGWE1Xc3RCTF9HZk5hNGxZTnFENGhLTjAwLQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 13:26:03 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Rejection",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘Better deal’: What’s behind Trump’s rejection of Iran’s truce offer? - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY0hQaDkwNFIzbjI0YWI2MjhoSUVOM1Rlc3pyNms1UFhyTC1JRlpwdWZUUElGNXBsMEgwV0hhWDlGNnNJVkJGUk05SU15a2haSjYydlhDX2hjbndfdjlmWXNUajQzMHhuSDR2cmJfclJ3djFHSHlZWnlhNy1YOFlfaXhJLWJGYUd5WWdpT0g1enJGMkhIS0tFN1dpQjJrN1hOM2JFa0F30gGrAUFVX3lxTFBLY0J2cXR1UEFyR0hRMEZjNS1xUUJTaVA4YkRpSkppdUdjdXhEZi00Y012cXVjejBUMEdoMkFQS3M5clhUR3pmT0tQNE40UGxtSkVDUlBuTEZKNnByRWdHaWoyTG95TndIOVFDZk1Bd0g4ZzRuNVZTeVRaVkFNWGNjVFVoSFd5VmIxUWZMam53S3lEMURYcE9FZ0E4TnQ5TXNCQjFPekxFUVBySQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 27 Sep 2026 13:26:03 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Iran",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘Better deal’: What’s behind Trump’s rejection of Iran’s truce offer? - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY0hQaDkwNFIzbjI0YWI2MjhoSUVOM1Rlc3pyNms1UFhyTC1JRlpwdWZUUElGNXBsMEgwV0hhWDlGNnNJVkJGUk05SU15a2haSjYydlhDX2hjbndfdjlmWXNUajQzMHhuSDR2cmJfclJ3djFHSHlZWnlhNy1YOFlfaXhJLWJGYUd5WWdpT0g1enJGMkhIS0tFN1dpQjJrN1hOM2JFa0F30gGrAUFVX3lxTFBLY0J2cXR1UEFyR0hRMEZjNS1xUUJTaVA4YkRpSkppdUdjdXhEZi00Y012cXVjejBUMEdoMkFQS3M5clhUR3pmT0tQNE40UGxtSkVDUlBuTEZKNnByRWdHaWoyTG95TndIOVFDZk1Bd0g4ZzRuNVZTeVRaVkFNWGNjVFVoSFd5VmIxUWZMam53S3lEMURYcE9FZ0E4TnQ5TXNCQjFPekxFUVBySQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 27 Sep 2026 13:26:03 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Truce",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘Better deal’: What’s behind Trump’s rejection of Iran’s truce offer? - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY0hQaDkwNFIzbjI0YWI2MjhoSUVOM1Rlc3pyNms1UFhyTC1JRlpwdWZUUElGNXBsMEgwV0hhWDlGNnNJVkJGUk05SU15a2haSjYydlhDX2hjbndfdjlmWXNUajQzMHhuSDR2cmJfclJ3djFHSHlZWnlhNy1YOFlfaXhJLWJGYUd5WWdpT0g1enJGMkhIS0tFN1dpQjJrN1hOM2JFa0F30gGrAUFVX3lxTFBLY0J2cXR1UEFyR0hRMEZjNS1xUUJTaVA4YkRpSkppdUdjdXhEZi00Y012cXVjejBUMEdoMkFQS3M5clhUR3pmT0tQNE40UGxtSkVDUlBuTEZKNnByRWdHaWoyTG95TndIOVFDZk1Bd0g4ZzRuNVZTeVRaVkFNWGNjVFVoSFd5VmIxUWZMam53S3lEMURYcE9FZ0E4TnQ5TXNCQjFPekxFUVBySQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 27 Sep 2026 13:26:03 GMT"
+          "published": "Sun, 27 Sep 2026 13:34:50 GMT"
         }
       ]
     },
@@ -393,7 +417,7 @@
           "title": "Bomb squad searching vans near U.S. air base in Britain as five men arrested on terror charge - NBC News",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMzkybDc0THU3R1JKM3YzOVBJOXU1a3hQc3NqbFJRc0tJVVJCemxrYWZvaUl0S0tXeHRmbC02TUpFMjNwNlZRTE5HeGFQT3RmS3FXclphbEdDZWZGa0pQZEJpWGp2ZFpKd2dyTDZLRm5xQzBhZWxSbVBkTnc3WUliNE9hTjRhZlRJaXB5VGNnbnJzVjhxN2l3QWIxak1qaGhlWTk2Tkd2N09SZWNIV0pKWUJIeTRnQUQ2b3c?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 14:39:19 GMT"
+          "published": "Sun, 27 Sep 2026 16:47:53 GMT"
         }
       ]
     },
@@ -406,7 +430,7 @@
           "title": "Bomb squad searching vans near U.S. air base in Britain as five men arrested on terror charge - NBC News",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMzkybDc0THU3R1JKM3YzOVBJOXU1a3hQc3NqbFJRc0tJVVJCemxrYWZvaUl0S0tXeHRmbC02TUpFMjNwNlZRTE5HeGFQT3RmS3FXclphbEdDZWZGa0pQZEJpWGp2ZFpKd2dyTDZLRm5xQzBhZWxSbVBkTnc3WUliNE9hTjRhZlRJaXB5VGNnbnJzVjhxN2l3QWIxak1qaGhlWTk2Tkd2N09SZWNIV0pKWUJIeTRnQUQ2b3c?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 14:39:19 GMT"
+          "published": "Sun, 27 Sep 2026 16:47:53 GMT"
         }
       ]
     },
@@ -419,7 +443,7 @@
           "title": "Bomb squad searching vans near U.S. air base in Britain as five men arrested on terror charge - NBC News",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMzkybDc0THU3R1JKM3YzOVBJOXU1a3hQc3NqbFJRc0tJVVJCemxrYWZvaUl0S0tXeHRmbC02TUpFMjNwNlZRTE5HeGFQT3RmS3FXclphbEdDZWZGa0pQZEJpWGp2ZFpKd2dyTDZLRm5xQzBhZWxSbVBkTnc3WUliNE9hTjRhZlRJaXB5VGNnbnJzVjhxN2l3QWIxak1qaGhlWTk2Tkd2N09SZWNIV0pKWUJIeTRnQUQ2b3c?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 14:39:19 GMT"
+          "published": "Sun, 27 Sep 2026 16:47:53 GMT"
         }
       ]
     },
@@ -432,20 +456,7 @@
           "title": "Bomb squad searching vans near U.S. air base in Britain as five men arrested on terror charge - NBC News",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMzkybDc0THU3R1JKM3YzOVBJOXU1a3hQc3NqbFJRc0tJVVJCemxrYWZvaUl0S0tXeHRmbC02TUpFMjNwNlZRTE5HeGFQT3RmS3FXclphbEdDZWZGa0pQZEJpWGp2ZFpKd2dyTDZLRm5xQzBhZWxSbVBkTnc3WUliNE9hTjRhZlRJaXB5VGNnbnJzVjhxN2l3QWIxak1qaGhlWTk2Tkd2N09SZWNIV0pKWUJIeTRnQUQ2b3c?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 14:39:19 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Near",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Bomb squad searching vans near U.S. air base in Britain as five men arrested on terror charge - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMzkybDc0THU3R1JKM3YzOVBJOXU1a3hQc3NqbFJRc0tJVVJCemxrYWZvaUl0S0tXeHRmbC02TUpFMjNwNlZRTE5HeGFQT3RmS3FXclphbEdDZWZGa0pQZEJpWGp2ZFpKd2dyTDZLRm5xQzBhZWxSbVBkTnc3WUliNE9hTjRhZlRJaXB5VGNnbnJzVjhxN2l3QWIxak1qaGhlWTk2Tkd2N09SZWNIV0pKWUJIeTRnQUQ2b3c?oc=5",
-          "source": "Google News",
-          "published": "Sun, 27 Sep 2026 14:39:19 GMT"
+          "published": "Sun, 27 Sep 2026 16:47:53 GMT"
         }
       ]
     },
@@ -458,7 +469,7 @@
           "title": "Bomb squad searching vans near U.S. air base in Britain as five men arrested on terror charge - NBC News",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMzkybDc0THU3R1JKM3YzOVBJOXU1a3hQc3NqbFJRc0tJVVJCemxrYWZvaUl0S0tXeHRmbC02TUpFMjNwNlZRTE5HeGFQT3RmS3FXclphbEdDZWZGa0pQZEJpWGp2ZFpKd2dyTDZLRm5xQzBhZWxSbVBkTnc3WUliNE9hTjRhZlRJaXB5VGNnbnJzVjhxN2l3QWIxak1qaGhlWTk2Tkd2N09SZWNIV0pKWUJIeTRnQUQ2b3c?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 14:39:19 GMT"
+          "published": "Sun, 27 Sep 2026 16:47:53 GMT"
         }
       ]
     },
@@ -471,7 +482,7 @@
           "title": "Bomb squad searching vans near U.S. air base in Britain as five men arrested on terror charge - NBC News",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMzkybDc0THU3R1JKM3YzOVBJOXU1a3hQc3NqbFJRc0tJVVJCemxrYWZvaUl0S0tXeHRmbC02TUpFMjNwNlZRTE5HeGFQT3RmS3FXclphbEdDZWZGa0pQZEJpWGp2ZFpKd2dyTDZLRm5xQzBhZWxSbVBkTnc3WUliNE9hTjRhZlRJaXB5VGNnbnJzVjhxN2l3QWIxak1qaGhlWTk2Tkd2N09SZWNIV0pKWUJIeTRnQUQ2b3c?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 14:39:19 GMT"
+          "published": "Sun, 27 Sep 2026 16:47:53 GMT"
         }
       ]
     },
@@ -484,7 +495,7 @@
           "title": "Bomb squad searching vans near U.S. air base in Britain as five men arrested on terror charge - NBC News",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMzkybDc0THU3R1JKM3YzOVBJOXU1a3hQc3NqbFJRc0tJVVJCemxrYWZvaUl0S0tXeHRmbC02TUpFMjNwNlZRTE5HeGFQT3RmS3FXclphbEdDZWZGa0pQZEJpWGp2ZFpKd2dyTDZLRm5xQzBhZWxSbVBkTnc3WUliNE9hTjRhZlRJaXB5VGNnbnJzVjhxN2l3QWIxak1qaGhlWTk2Tkd2N09SZWNIV0pKWUJIeTRnQUQ2b3c?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 14:39:19 GMT"
+          "published": "Sun, 27 Sep 2026 16:47:53 GMT"
         }
       ]
     },
@@ -497,7 +508,7 @@
           "title": "Bomb squad searching vans near U.S. air base in Britain as five men arrested on terror charge - NBC News",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMzkybDc0THU3R1JKM3YzOVBJOXU1a3hQc3NqbFJRc0tJVVJCemxrYWZvaUl0S0tXeHRmbC02TUpFMjNwNlZRTE5HeGFQT3RmS3FXclphbEdDZWZGa0pQZEJpWGp2ZFpKd2dyTDZLRm5xQzBhZWxSbVBkTnc3WUliNE9hTjRhZlRJaXB5VGNnbnJzVjhxN2l3QWIxak1qaGhlWTk2Tkd2N09SZWNIV0pKWUJIeTRnQUQ2b3c?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 14:39:19 GMT"
+          "published": "Sun, 27 Sep 2026 16:47:53 GMT"
         }
       ]
     },
@@ -510,7 +521,7 @@
           "title": "Bomb squad searching vans near U.S. air base in Britain as five men arrested on terror charge - NBC News",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMzkybDc0THU3R1JKM3YzOVBJOXU1a3hQc3NqbFJRc0tJVVJCemxrYWZvaUl0S0tXeHRmbC02TUpFMjNwNlZRTE5HeGFQT3RmS3FXclphbEdDZWZGa0pQZEJpWGp2ZFpKd2dyTDZLRm5xQzBhZWxSbVBkTnc3WUliNE9hTjRhZlRJaXB5VGNnbnJzVjhxN2l3QWIxak1qaGhlWTk2Tkd2N09SZWNIV0pKWUJIeTRnQUQ2b3c?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 14:39:19 GMT"
+          "published": "Sun, 27 Sep 2026 16:47:53 GMT"
         }
       ]
     },
@@ -523,7 +534,7 @@
           "title": "Bomb squad searching vans near U.S. air base in Britain as five men arrested on terror charge - NBC News",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMzkybDc0THU3R1JKM3YzOVBJOXU1a3hQc3NqbFJRc0tJVVJCemxrYWZvaUl0S0tXeHRmbC02TUpFMjNwNlZRTE5HeGFQT3RmS3FXclphbEdDZWZGa0pQZEJpWGp2ZFpKd2dyTDZLRm5xQzBhZWxSbVBkTnc3WUliNE9hTjRhZlRJaXB5VGNnbnJzVjhxN2l3QWIxak1qaGhlWTk2Tkd2N09SZWNIV0pKWUJIeTRnQUQ2b3c?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 14:39:19 GMT"
+          "published": "Sun, 27 Sep 2026 16:47:53 GMT"
         }
       ]
     },
@@ -536,7 +547,7 @@
           "title": "Bomb squad searching vans near U.S. air base in Britain as five men arrested on terror charge - NBC News",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMzkybDc0THU3R1JKM3YzOVBJOXU1a3hQc3NqbFJRc0tJVVJCemxrYWZvaUl0S0tXeHRmbC02TUpFMjNwNlZRTE5HeGFQT3RmS3FXclphbEdDZWZGa0pQZEJpWGp2ZFpKd2dyTDZLRm5xQzBhZWxSbVBkTnc3WUliNE9hTjRhZlRJaXB5VGNnbnJzVjhxN2l3QWIxak1qaGhlWTk2Tkd2N09SZWNIV0pKWUJIeTRnQUQ2b3c?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 14:39:19 GMT"
+          "published": "Sun, 27 Sep 2026 16:47:53 GMT"
         }
       ]
     },
@@ -549,7 +560,20 @@
           "title": "Bomb squad searching vans near U.S. air base in Britain as five men arrested on terror charge - NBC News",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMzkybDc0THU3R1JKM3YzOVBJOXU1a3hQc3NqbFJRc0tJVVJCemxrYWZvaUl0S0tXeHRmbC02TUpFMjNwNlZRTE5HeGFQT3RmS3FXclphbEdDZWZGa0pQZEJpWGp2ZFpKd2dyTDZLRm5xQzBhZWxSbVBkTnc3WUliNE9hTjRhZlRJaXB5VGNnbnJzVjhxN2l3QWIxak1qaGhlWTk2Tkd2N09SZWNIV0pKWUJIeTRnQUQ2b3c?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 14:39:19 GMT"
+          "published": "Sun, 27 Sep 2026 16:47:53 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Powerful",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Powerful nor’easter floods Northeast again, causing problems from New Jersey to New England - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSm8yTVN4Z0tmWTVURVhPYTdqVWRYOXVqXzllQkJ1ZzRGZ040SXdRQjJ1ZlFLRDNYTlN6aWFyeXBQQXBsSUZ0UmtSWEdHVWtzZTJsVGFaZW9DSmd5ZXpUejdkSldwSHdiN3ZtYUJLNEJ2aFRQX05DVl80NVI1dzhlcUZtNHFDUm1NazZKT2Ryd0xJT1JoT0E?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 13:11:00 GMT"
         }
       ]
     },
@@ -559,75 +583,75 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Nor’easter Live Updates: Heavy Winds and Rain Cause Coastal Flooding in Northeast - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeTYwSF9wbk40OUE2YkdLb000OTlpYlZjWTNoeDdLdXp0MXRTTXFBVWdzVnotM2VIemdvYVNKZDJOakhLeDhxT0ZLcEJzc3o5UWE1anBxc0dsTEp0QVgxRlRqWllBSVJ6OVNjNFdEdHdVMTRvRENTczlIZVdsTlZsblBfV084ZTA?oc=5",
+          "title": "Powerful nor’easter floods Northeast again, causing problems from New Jersey to New England - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSm8yTVN4Z0tmWTVURVhPYTdqVWRYOXVqXzllQkJ1ZzRGZ040SXdRQjJ1ZlFLRDNYTlN6aWFyeXBQQXBsSUZ0UmtSWEdHVWtzZTJsVGFaZW9DSmd5ZXpUejdkSldwSHdiN3ZtYUJLNEJ2aFRQX05DVl80NVI1dzhlcUZtNHFDUm1NazZKT2Ryd0xJT1JoT0E?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 14:20:10 GMT"
+          "published": "Sun, 27 Sep 2026 13:11:00 GMT"
         }
       ]
     },
     {
-      "word": "Updates",
+      "word": "Floods",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Nor’easter Live Updates: Heavy Winds and Rain Cause Coastal Flooding in Northeast - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeTYwSF9wbk40OUE2YkdLb000OTlpYlZjWTNoeDdLdXp0MXRTTXFBVWdzVnotM2VIemdvYVNKZDJOakhLeDhxT0ZLcEJzc3o5UWE1anBxc0dsTEp0QVgxRlRqWllBSVJ6OVNjNFdEdHdVMTRvRENTczlIZVdsTlZsblBfV084ZTA?oc=5",
+          "title": "Powerful nor’easter floods Northeast again, causing problems from New Jersey to New England - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSm8yTVN4Z0tmWTVURVhPYTdqVWRYOXVqXzllQkJ1ZzRGZ040SXdRQjJ1ZlFLRDNYTlN6aWFyeXBQQXBsSUZ0UmtSWEdHVWtzZTJsVGFaZW9DSmd5ZXpUejdkSldwSHdiN3ZtYUJLNEJ2aFRQX05DVl80NVI1dzhlcUZtNHFDUm1NazZKT2Ryd0xJT1JoT0E?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 14:20:10 GMT"
+          "published": "Sun, 27 Sep 2026 13:11:00 GMT"
         }
       ]
     },
     {
-      "word": "Heavy",
+      "word": "Northeast",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Nor’easter Live Updates: Heavy Winds and Rain Cause Coastal Flooding in Northeast - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeTYwSF9wbk40OUE2YkdLb000OTlpYlZjWTNoeDdLdXp0MXRTTXFBVWdzVnotM2VIemdvYVNKZDJOakhLeDhxT0ZLcEJzc3o5UWE1anBxc0dsTEp0QVgxRlRqWllBSVJ6OVNjNFdEdHdVMTRvRENTczlIZVdsTlZsblBfV084ZTA?oc=5",
+          "title": "Powerful nor’easter floods Northeast again, causing problems from New Jersey to New England - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSm8yTVN4Z0tmWTVURVhPYTdqVWRYOXVqXzllQkJ1ZzRGZ040SXdRQjJ1ZlFLRDNYTlN6aWFyeXBQQXBsSUZ0UmtSWEdHVWtzZTJsVGFaZW9DSmd5ZXpUejdkSldwSHdiN3ZtYUJLNEJ2aFRQX05DVl80NVI1dzhlcUZtNHFDUm1NazZKT2Ryd0xJT1JoT0E?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 14:20:10 GMT"
+          "published": "Sun, 27 Sep 2026 13:11:00 GMT"
         }
       ]
     },
     {
-      "word": "Winds",
+      "word": "Causing",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Nor’easter Live Updates: Heavy Winds and Rain Cause Coastal Flooding in Northeast - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeTYwSF9wbk40OUE2YkdLb000OTlpYlZjWTNoeDdLdXp0MXRTTXFBVWdzVnotM2VIemdvYVNKZDJOakhLeDhxT0ZLcEJzc3o5UWE1anBxc0dsTEp0QVgxRlRqWllBSVJ6OVNjNFdEdHdVMTRvRENTczlIZVdsTlZsblBfV084ZTA?oc=5",
+          "title": "Powerful nor’easter floods Northeast again, causing problems from New Jersey to New England - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSm8yTVN4Z0tmWTVURVhPYTdqVWRYOXVqXzllQkJ1ZzRGZ040SXdRQjJ1ZlFLRDNYTlN6aWFyeXBQQXBsSUZ0UmtSWEdHVWtzZTJsVGFaZW9DSmd5ZXpUejdkSldwSHdiN3ZtYUJLNEJ2aFRQX05DVl80NVI1dzhlcUZtNHFDUm1NazZKT2Ryd0xJT1JoT0E?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 14:20:10 GMT"
+          "published": "Sun, 27 Sep 2026 13:11:00 GMT"
         }
       ]
     },
     {
-      "word": "Rain",
+      "word": "Problems",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Nor’easter Live Updates: Heavy Winds and Rain Cause Coastal Flooding in Northeast - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeTYwSF9wbk40OUE2YkdLb000OTlpYlZjWTNoeDdLdXp0MXRTTXFBVWdzVnotM2VIemdvYVNKZDJOakhLeDhxT0ZLcEJzc3o5UWE1anBxc0dsTEp0QVgxRlRqWllBSVJ6OVNjNFdEdHdVMTRvRENTczlIZVdsTlZsblBfV084ZTA?oc=5",
+          "title": "Powerful nor’easter floods Northeast again, causing problems from New Jersey to New England - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSm8yTVN4Z0tmWTVURVhPYTdqVWRYOXVqXzllQkJ1ZzRGZ040SXdRQjJ1ZlFLRDNYTlN6aWFyeXBQQXBsSUZ0UmtSWEdHVWtzZTJsVGFaZW9DSmd5ZXpUejdkSldwSHdiN3ZtYUJLNEJ2aFRQX05DVl80NVI1dzhlcUZtNHFDUm1NazZKT2Ryd0xJT1JoT0E?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 14:20:10 GMT"
+          "published": "Sun, 27 Sep 2026 13:11:00 GMT"
         }
       ]
     },
     {
-      "word": "Coastal",
+      "word": "Jersey",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Nor’easter Live Updates: Heavy Winds and Rain Cause Coastal Flooding in Northeast - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeTYwSF9wbk40OUE2YkdLb000OTlpYlZjWTNoeDdLdXp0MXRTTXFBVWdzVnotM2VIemdvYVNKZDJOakhLeDhxT0ZLcEJzc3o5UWE1anBxc0dsTEp0QVgxRlRqWllBSVJ6OVNjNFdEdHdVMTRvRENTczlIZVdsTlZsblBfV084ZTA?oc=5",
+          "title": "Powerful nor’easter floods Northeast again, causing problems from New Jersey to New England - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSm8yTVN4Z0tmWTVURVhPYTdqVWRYOXVqXzllQkJ1ZzRGZ040SXdRQjJ1ZlFLRDNYTlN6aWFyeXBQQXBsSUZ0UmtSWEdHVWtzZTJsVGFaZW9DSmd5ZXpUejdkSldwSHdiN3ZtYUJLNEJ2aFRQX05DVl80NVI1dzhlcUZtNHFDUm1NazZKT2Ryd0xJT1JoT0E?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 14:20:10 GMT"
+          "published": "Sun, 27 Sep 2026 13:11:00 GMT"
         }
       ]
     }

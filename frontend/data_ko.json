@@ -1,30 +1,105 @@
 {
   "language": "ko",
-  "last_updated": 1790523335.245684,
+  "last_updated": 1790538112.9730916,
   "count": 40,
   "trends": [
+    {
+      "word": "트럼프",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프, 비서실장에 \"李와 골프 스케줄 짜라\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZmJQSnh0SGhpVWYyNWg0SGdUNHRSNkJLRGhJMWZkd3dSdlhYQkhJUW5TM3k2U3hHTV84ZThqOUttLWM2bFQtamVoNTJxb3IyMmwtbmNKSWZMOXMtY0FSSzY4LThCYW51QkVPZXQ0SDd4cmZlOVF6VnIxUjlNYlZVMlhkX2pDcFNwdEFvQzRTLUk?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 14:11:00 GMT"
+        },
+        {
+          "title": "이란, 트럼프 거부에도 “외교적 해법만이 답…뉴욕서 30일까지 대기” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc3k0X1RHSXBPNFd2UFRPdkNfa0hhZWVib2tiak9uSGQ5czgtTzRjV292d3Zyd2RzdXJZV0pINk1mLVFLbjlwdE51elJKZnJlVWZNb0NBQ0l0VkZTbUlORUk1RDlyeGRmbWtsZFBUUnVzMnZEVkhXSllZaXRfSnYxQ0FB?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 10:50:00 GMT"
+        },
+        {
+          "title": "[횡설수설/장원재]‘음소거’ 된 트럼프 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RLVJkOWgzSFB5M2w1blRtd19tcFZqcFBaYVZrT0d0MDhPcVlYbWlhYlVmYlByWDJmb3o5UWowRTNma3RVcFZDYjJRbm9kRS1MT01lU3ZIR2hGM0wtT2JMVnV6TWRQanU1YS1SVVJNTFhlZm9tSVHSAWZBVV95cUxQblhfMDZoSjFzcUVVQW5nRXlVVUwxYjlRLUJHM2xqVlE1VEhBWHVkclZjdGY1RnpnTmp5anJhVGFQbm84R0MyaUFlX1ZhNmRLZkxqUXJkS1JmTWItZHdtcGNnSUFrdlE?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 14:18:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "거부",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "민주당 \"조희대, 격노하며 독단적으로 재제청 거부\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmWnR6MVlMMVFsWDdnblBjOEd1QWtEbnp2M0h3Q3VXSnlvdi1md2JNempvQ0NUWDJzS3VqVFBRel9VbUJXZ05CMzBCc1pYWmdXSVE5bFc0VUZUSnNEUDFkNEJEQWsxR2p6R3hFNzI3aUZkbDBGVDNJNdIBeEFVX3lxTE9NRXBLWnhfR1VpLXF1eHh4d3FXQ0RURzRYdmlpMF8yclppcHgyeVFtQXhZM2otcVVvX1FzcnBMMExWR0NXM2J1eGs5NjREbDVvbVVCb3I0NzQ2dzVRS1dTSFUyclVYRWpxcktJM3pwX3FFYXh0aVRITA?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 08:39:09 GMT"
+        },
+        {
+          "title": "이란, 트럼프 거부에도 “외교적 해법만이 답…뉴욕서 30일까지 대기” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc3k0X1RHSXBPNFd2UFRPdkNfa0hhZWVib2tiak9uSGQ5czgtTzRjV292d3Zyd2RzdXJZV0pINk1mLVFLbjlwdE51elJKZnJlVWZNb0NBQ0l0VkZTbUlORUk1RDlyeGRmbWtsZFBUUnVzMnZEVkhXSllZaXRfSnYxQ0FB?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 10:50:00 GMT"
+        },
+        {
+          "title": "결국 촬영 중단했다…전현무, 베트남 마사지숍서 돌발 '촬영 거부' 선언 ('현무로드') - 조선비즈 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVTlwZ2NEMmZkVU5rdjdGODhtbTQybTRaQTRYSGIzUDE4b0JaVDJ1SFNYMEt3dXcxakNqb1FiU1NrSHZjR0tpTXRRWHZ4dC1QbkQ5TzkyZi1QTEwxNlpOdi04djdTdWpkN0taQzhzOVJNaDFxeUduN2QybWFaMmFKdnZBR2RZY3lDSVVZdmVFWklUZk3SAacBQVVfeXFMUG9vWTg0NlhCUjhmdXRiODh1akFJS2xpdlAtaUVaWF9YM2VlbHdJT3NzRHI2d0VwQVVNSFJVT2ZXNHJ3Mmw4bWlPTm1SRDkzLVJkb3pUNEd4Z3hMUGdtczZQRWZDSWtmcWQ2YUhKNktoRjhFZnZWc2FHZ3FfTkQ0Y2xqU2RacHZlbnRXanBBRUdmSGJBeEhtX1BzS24xVnVRUG51Mmc3ZWc?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 14:19:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "한국",
+      "count": 3,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "\"한국에서 전기차 사면 6000만원 싸다\"…역대급 상황 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0YnVQcFlHRlBDbHZlUFBpSnZpSlJ1eVpxV190SFVrVFpTbFZCU05nQmcxT2Y1cnBkZ3ViZGMwczkwT09QVFNMaGc3SGVLR0wzLU5xdXdrd0dsZw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 08:01:02 GMT"
+        },
+        {
+          "title": "아시안게임 야구: 한국, 일본 3-1로 꺾고 금메달 획득 [아이치-나고야 2026] - olympics.com",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUUdTOGY5ajc3WTVEYTNnSUs3aV9RQm95NWtldm9lUUlHa3hzRi0zcUNWVHVTXzV5TTZwUFVucW5uSUR5QmlBc3dtbEcwNnJOUTI5Zk40eDl0c3JuMUNyNzBZbHlDTmNUNXg2QzJ4Mjd0VDBBYndKanZXUUxNYWplcU5uMk85Tk1OMV9SNzk4MElBZXM?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 12:53:00 GMT"
+        },
+        {
+          "title": "한국 펜싱 여자 사브르, 8년 만에 아시안게임 단체전 금메달 - news.kbs.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84X0ZNT3ZEQzk3WXQ3UkJDbmJURFVlbkRvdEFSN0lNa1Q0V1NlUk1JVlRqUnVCT3BjNGdCWEJpTzVvTHc1ODBKWExxdndRSDZ4ejJmSXdxdWI3UGs?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 11:24:00 GMT"
+        }
+      ]
+    },
     {
       "word": "아시안게임",
       "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[아시안게임] 야구 대표팀, 일본 꺾고 우승‥대회 5연속 금메달 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RZWlhTFU1WXFzU0h2SHFrWGNnc2kyUkxTaFZSdVFSOHNXYUFVcEJid2dGNS1uOVFhR3d0eWpjRkpaZFA1ckQ3VW45azNWM3NsRFBWOVNBdmV6N3FIa0dGaERVRVVNQ29uQW1sbUNMWFpRNHdNdVHSAXZBVV95cUxNNUNBTi10RVdVVnlFY0l2U3U1czJtWlZ1Y3dNLXMwbktRWlJ1TmpNaGFPbWRLNEZZMmRKNkJVSmZBXzZtbDFUYU5tby1rRmpMVWQwS3k3cDEzVTFEN2pJNk1fVTRkWnBiMmNWcWh3QU5Ebm9EUWVR?oc=5",
+          "title": "아시안게임 야구: 한국, 일본 3-1로 꺾고 금메달 획득 [아이치-나고야 2026] - olympics.com",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUUdTOGY5ajc3WTVEYTNnSUs3aV9RQm95NWtldm9lUUlHa3hzRi0zcUNWVHVTXzV5TTZwUFVucW5uSUR5QmlBc3dtbEcwNnJOUTI5Zk40eDl0c3JuMUNyNzBZbHlDTmNUNXg2QzJ4Mjd0VDBBYndKanZXUUxNYWplcU5uMk85Tk1OMV9SNzk4MElBZXM?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 13:10:32 GMT"
+          "published": "Sun, 27 Sep 2026 12:53:00 GMT"
         },
         {
-          "title": "[아시안게임] 펜싱 여자 사브르도 단체전 금메달‥8년 만에 정상 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aYVYxNWxpMl92SVk3UVRLQjl3QUNQcEZNcEFkSjA1TGY4bFdSQlBfUTRZME1nQU45ejV1QW15QnlvVzB4S3JKXzkxZlRxbXB1bi1fcnZkZGpxY3RoVWx5X1pOQ1JwN2x0NE43b1ZpTnFUMWJmdlHSAXZBVV95cUxOaHFnU3B1dFBVMzlSRmZTc19XRUtRY2lHSXhqUTRPSnJ2amFsNElRWFJpMTlqNU5Jb0dwdmpoZ1l4OVdDbC11Xzh5bVEtTTFlU1MtS0lCZDkxa1M0eUZXZlpuZDdYMWtCZVQxeGxzdjVsd012d1pR?oc=5",
+          "title": "한국 펜싱 여자 사브르, 8년 만에 아시안게임 단체전 금메달 - news.kbs.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84X0ZNT3ZEQzk3WXQ3UkJDbmJURFVlbkRvdEFSN0lNa1Q0V1NlUk1JVlRqUnVCT3BjNGdCWEJpTzVvTHc1ODBKWExxdndRSDZ4ejJmSXdxdWI3UGs?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 11:32:25 GMT"
+          "published": "Sun, 27 Sep 2026 11:24:00 GMT"
         },
         {
-          "title": "[속보] 아쉽지만 웃었다…‘스마일 점퍼’ 우상혁, 2m22로 동메달 [아시안게임] - 경기일보",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TbHBhekVLTHBORWxHeWFZSlU2RkpIRS1yWDVlRzhWdE9fb2NDbjJXSEw0QURmRmo1NjhDN21ZYjdwSFdfZ1dBX3hLZzB6Tm5JdE8wbWRmLWRBSkk?oc=5",
+          "title": "[아시안게임] 배드민턴 안세영, 세계 5위 완파하며 준결승행 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BLXhMV3RSTDJpdDRWQmxHQzB5T1hkbW5kUkViU1JUQnVHblBUckNMOGU3bkRaSUJnMkVoenlBb0ViRzk0RzRpZG1VdEJzN01tNnZqaUdtX09reGMxX1BsV28wTHZyV0dwbXQzV3ozdFNSRE13WEHSAXZBVV95cUxQQmdvdmRlMjFrbXgxLUlrdnFtUDlBUEVZSXhHenBlOVhwWmFhbjhDVi1HMEtqeWpxVkFnMGRUTk9XYVBLN25wbjJIdjVwNmZEbU1tc29ncGZPOXU0YW84RmNtXzUtT0FLU19wNW5HU0ZKM1QxbFVB?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 12:44:06 GMT"
+          "published": "Sun, 27 Sep 2026 05:43:41 GMT"
         }
       ]
     },
@@ -37,121 +112,264 @@
           "title": "지뢰 사고 6일 만에 DMZ 현장조사…폭발 지점엔 도달 못 해 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yU0RMcFlqMGZ1T0h4YjhBUW5IY09ZYmpIT1Rra3pkMG1NdEI4NENoTjloM3l3MmFab1Rlb3p5Wkdnc2s1ZUI5cU9Xcjg5UEFZVkUxWTRweGwtdUt0RFNjSDZpMWJMbjRJ?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 13:21:00 GMT"
+          "published": "Sun, 27 Sep 2026 13:24:00 GMT"
         },
         {
-          "title": "[아시안게임] 펜싱 여자 사브르도 단체전 금메달‥8년 만에 정상 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aYVYxNWxpMl92SVk3UVRLQjl3QUNQcEZNcEFkSjA1TGY4bFdSQlBfUTRZME1nQU45ejV1QW15QnlvVzB4S3JKXzkxZlRxbXB1bi1fcnZkZGpxY3RoVWx5X1pOQ1JwN2x0NE43b1ZpTnFUMWJmdlHSAXZBVV95cUxOaHFnU3B1dFBVMzlSRmZTc19XRUtRY2lHSXhqUTRPSnJ2amFsNElRWFJpMTlqNU5Jb0dwdmpoZ1l4OVdDbC11Xzh5bVEtTTFlU1MtS0lCZDkxa1M0eUZXZlpuZDdYMWtCZVQxeGxzdjVsd012d1pR?oc=5",
+          "title": "한국 펜싱 여자 사브르, 8년 만에 아시안게임 단체전 금메달 - news.kbs.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84X0ZNT3ZEQzk3WXQ3UkJDbmJURFVlbkRvdEFSN0lNa1Q0V1NlUk1JVlRqUnVCT3BjNGdCWEJpTzVvTHc1ODBKWExxdndRSDZ4ejJmSXdxdWI3UGs?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 11:32:25 GMT"
+          "published": "Sun, 27 Sep 2026 11:24:00 GMT"
         }
       ]
     },
     {
-      "word": "거부",
+      "word": "대통령",
+      "count": 2,
+      "category": "PERSON",
+      "articles": [
+        {
+          "title": "이 대통령 ‘심란한 귀국’…인사·재제청·내란 특수본 ‘난제 겹겹’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CZjJXWS1NUFZkbUc3NWZuVjFmdWRyOU4yMFpEMjhjaU5MNllXVzlRQXJ6MWgxRVhXcXpPeTFYTTl5SnJlTHRJc0FCUEF0UmJ5YWRqVkNMZVhPX0JYUVJ2RXZyRDFkTlBDOTY3MUhaUFoxc0Yy?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 14:13:00 GMT"
+        },
+        {
+          "title": "이 대통령, 순방 경유지 美 앵커리지서 기자들과 차담회 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LdjQ0U1gxcGhNQ1Fjc2FoRl9oeHFMajltNnc5Mjd4dFdxRGx6ZUl1VGZfUWZ2T2tZR29Bb3c5ZmU5YVpYa3lBcUgtTnFzZ2RGa19TUU1iaU1xTWVGcGxyeFZFUmsybnM?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 04:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "외교",
       "count": 2,
       "category": "NOUN",
       "articles": [
-        {
-          "title": "민주당 \"조희대, 격노하며 독단적으로 재제청 거부\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmWnR6MVlMMVFsWDdnblBjOEd1QWtEbnp2M0h3Q3VXSnlvdi1md2JNempvQ0NUWDJzS3VqVFBRel9VbUJXZ05CMzBCc1pYWmdXSVE5bFc0VUZUSnNEUDFkNEJEQWsxR2p6R3hFNzI3aUZkbDBGVDNJNdIBeEFVX3lxTE9NRXBLWnhfR1VpLXF1eHh4d3FXQ0RURzRYdmlpMF8yclppcHgyeVFtQXhZM2otcVVvX1FzcnBMMExWR0NXM2J1eGs5NjREbDVvbVVCb3I0NzQ2dzVRS1dTSFUyclVYRWpxcktJM3pwX3FFYXh0aVRITA?oc=5",
-          "source": "Google News",
-          "published": "Sun, 27 Sep 2026 08:39:09 GMT"
-        },
         {
           "title": "이란, 트럼프 거부에도 “외교적 해법만이 답…뉴욕서 30일까지 대기” - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc3k0X1RHSXBPNFd2UFRPdkNfa0hhZWVib2tiak9uSGQ5czgtTzRjV292d3Zyd2RzdXJZV0pINk1mLVFLbjlwdE51elJKZnJlVWZNb0NBQ0l0VkZTbUlORUk1RDlyeGRmbWtsZFBUUnVzMnZEVkhXSllZaXRfSnYxQ0FB?oc=5",
           "source": "Google News",
           "published": "Sun, 27 Sep 2026 10:50:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "트럼프",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프, 한·미 회담 위해 연설 30분 늦춰…즉석 ‘골프 부킹’ 지시도 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WVTd0cXVDcllVRnJJc3k4WG1KR1RISnZzWmRMQ3lsNm85aFV1cEdtUEVYbVJtMUlMaENtZjczTHktMXpRUzJkRzNEbjZ0dlFhRUhXQWxKU012QVA0bktwT2RrNGpTZEFkbnU0?oc=5",
-          "source": "Google News",
-          "published": "Sun, 27 Sep 2026 14:29:00 GMT"
         },
         {
-          "title": "이란, 트럼프 거부에도 “외교적 해법만이 답…뉴욕서 30일까지 대기” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc3k0X1RHSXBPNFd2UFRPdkNfa0hhZWVib2tiak9uSGQ5czgtTzRjV292d3Zyd2RzdXJZV0pINk1mLVFLbjlwdE51elJKZnJlVWZNb0NBQ0l0VkZTbUlORUk1RDlyeGRmbWtsZFBUUnVzMnZEVkhXSllZaXRfSnYxQ0FB?oc=5",
+          "title": "美·中 '판다 외교' 10년 만의 재시동…핑핑·푸솽, 삼엄한 호위 속 미국 상륙 - 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RTjZVVWlnWW5BUzVYdnhTZm5xQTMyVjhUdTNrOXJIbDRMRWpsbWtoUHZGWDJabWYxdUJUOW5jME1HRDJCSGxVb29PVnIzLUdmTDJkT0pDUXVIZw?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 10:50:00 GMT"
+          "published": "Sun, 27 Sep 2026 14:47:31 GMT"
         }
       ]
     },
     {
-      "word": "대표팀",
+      "word": "촬영",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[아시안게임] 야구 대표팀, 일본 꺾고 우승‥대회 5연속 금메달 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RZWlhTFU1WXFzU0h2SHFrWGNnc2kyUkxTaFZSdVFSOHNXYUFVcEJid2dGNS1uOVFhR3d0eWpjRkpaZFA1ckQ3VW45azNWM3NsRFBWOVNBdmV6N3FIa0dGaERVRVVNQ29uQW1sbUNMWFpRNHdNdVHSAXZBVV95cUxNNUNBTi10RVdVVnlFY0l2U3U1czJtWlZ1Y3dNLXMwbktRWlJ1TmpNaGFPbWRLNEZZMmRKNkJVSmZBXzZtbDFUYU5tby1rRmpMVWQwS3k3cDEzVTFEN2pJNk1fVTRkWnBiMmNWcWh3QU5Ebm9EUWVR?oc=5",
+          "title": "결국 촬영 중단했다…전현무, 베트남 마사지숍서 돌발 '촬영 거부' 선언 ('현무로드') - 조선비즈 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVTlwZ2NEMmZkVU5rdjdGODhtbTQybTRaQTRYSGIzUDE4b0JaVDJ1SFNYMEt3dXcxakNqb1FiU1NrSHZjR0tpTXRRWHZ4dC1QbkQ5TzkyZi1QTEwxNlpOdi04djdTdWpkN0taQzhzOVJNaDFxeUduN2QybWFaMmFKdnZBR2RZY3lDSVVZdmVFWklUZk3SAacBQVVfeXFMUG9vWTg0NlhCUjhmdXRiODh1akFJS2xpdlAtaUVaWF9YM2VlbHdJT3NzRHI2d0VwQVVNSFJVT2ZXNHJ3Mmw4bWlPTm1SRDkzLVJkb3pUNEd4Z3hMUGdtczZQRWZDSWtmcWQ2YUhKNktoRjhFZnZWc2FHZ3FfTkQ0Y2xqU2RacHZlbnRXanBBRUdmSGJBeEhtX1BzS24xVnVRUG51Mmc3ZWc?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 13:10:32 GMT"
+          "published": "Sun, 27 Sep 2026 14:19:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "운세",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[오늘의 운세] 2026년 09월 28일 별자리 운세 - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OdXBFTUZwWW5PNThHUGlOZ3QyRFhwXzRUVlZkdnVBRlpMbVQ2S095LWVnYjdlT1o3SG5oMEFTOGZaUG1jY1VCN25ZVXZVUWlOeXJ3TUIzWWVxSHM2VXc?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 15:02:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "28일",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[오늘의 운세] 2026년 09월 28일 별자리 운세 - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OdXBFTUZwWW5PNThHUGlOZ3QyRFhwXzRUVlZkdnVBRlpMbVQ2S095LWVnYjdlT1o3SG5oMEFTOGZaUG1jY1VCN25ZVXZVUWlOeXJ3TUIzWWVxSHM2VXc?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 15:02:00 GMT"
         },
         {
-          "title": "만리장성 깨고 후지산 넘은 '혈전'…여자 농구 대표팀 '금의환향' - TV조선뉴스",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51YTJydXlrblJ5NzhYbWtxcjdLWnhGbXZ4WFhqVG9QRVd6NmNndzY4MXU2QXZwUTVFXzZXWGV0TXVHQWJsRWt6UVVjamNHbkNlMzYyNEltWlRpOUxfemdrZVdwR1NaVzMzM0R4dVByNTBrOHUzX05iYjdfTjlYeWc?oc=5",
+          "title": "모레노호, 28일 우루과이전 ‘이강인 투톱’ 띄운다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BV1hEdlN5Umlsazh4VFNKUUhIclJPcXVQM2N5RWh1cllsdzJ2TFRjQ0laREs1dVg1SGRuQ0M1T0R5SS1nU3poZUs0SExpTVJaTXUxbExqR0lVZ9IBX0FVX3lxTE1lZmRraXdEdWFMVExTMzhxQU95ekx2Umh3UG5ELWtPS1lPd0liU0oxdDBDV2hsZm5zcFE2ZFdzWnpaWkkxdGRJaTc1TzdMZ0FoWWhpcWthc09feFN3c2hF?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 13:28:42 GMT"
+          "published": "Sun, 27 Sep 2026 10:57:00 GMT"
         }
       ]
     },
     {
-      "word": "추진",
+      "word": "금메달",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "폴란드·리투아니아, 러 공격 대비 대피계획 추진 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3dzBERG9KaHdoUl84QXhGYlhIVXZtRllrT2hlV1JjMU5xV2VOc24wUWR6RDd5Z1h6TU1NektRXzVXckdqRERSdzB0MXBNN2FwUHo0QlplaldPT0x0eVE?oc=5",
+          "title": "아시안게임 야구: 한국, 일본 3-1로 꺾고 금메달 획득 [아이치-나고야 2026] - olympics.com",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUUdTOGY5ajc3WTVEYTNnSUs3aV9RQm95NWtldm9lUUlHa3hzRi0zcUNWVHVTXzV5TTZwUFVucW5uSUR5QmlBc3dtbEcwNnJOUTI5Zk40eDl0c3JuMUNyNzBZbHlDTmNUNXg2QzJ4Mjd0VDBBYndKanZXUUxNYWplcU5uMk85Tk1OMV9SNzk4MElBZXM?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 13:59:00 GMT"
+          "published": "Sun, 27 Sep 2026 12:53:00 GMT"
         },
         {
-          "title": "대미투자 1호 가스발전 추진에 ESS 기대감…K-배터리 신시장 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VaDk2WE0tZUxXLUFPejZCalR3RnNTR1B0TlZ2SjFhcE5hbndLa25pS1VQNzJ4ZFdXdjVDMXlYZmYtWFoyUDdnVmhWRHd3T2dsc1E?oc=5",
+          "title": "한국 펜싱 여자 사브르, 8년 만에 아시안게임 단체전 금메달 - news.kbs.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84X0ZNT3ZEQzk3WXQ3UkJDbmJURFVlbkRvdEFSN0lNa1Q0V1NlUk1JVlRqUnVCT3BjNGdCWEJpTzVvTHc1ODBKWExxdndRSDZ4ejJmSXdxdWI3UGs?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 04:48:13 GMT"
+          "published": "Sun, 27 Sep 2026 11:24:00 GMT"
         }
       ]
     },
     {
-      "word": "역대",
+      "word": "세계",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "역대 최대 초과세수에 내년 ‘미래대응기금’ 200조원 육박할 듯 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE05empXTXhmb2VBRUZDTXB3eVAxTDRqajA2U1RpaWNpa01uR1RtQXR0cEFGLWEySmZnRWw5V216VGJpOXFmaUR6YnpvVDJEYVEtdy1uei0xdFZKMnZkUTd1TzhvVlNhZnJpdk1rOEQ0QVJsdw?oc=5",
+          "title": "[아시안게임] 배드민턴 안세영, 세계 5위 완파하며 준결승행 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BLXhMV3RSTDJpdDRWQmxHQzB5T1hkbW5kUkViU1JUQnVHblBUckNMOGU3bkRaSUJnMkVoenlBb0ViRzk0RzRpZG1VdEJzN01tNnZqaUdtX09reGMxX1BsV28wTHZyV0dwbXQzV3ozdFNSRE13WEHSAXZBVV95cUxQQmdvdmRlMjFrbXgxLUlrdnFtUDlBUEVZSXhHenBlOVhwWmFhbjhDVi1HMEtqeWpxVkFnMGRUTk9XYVBLN25wbjJIdjVwNmZEbU1tc29ncGZPOXU0YW84RmNtXzUtT0FLU19wNW5HU0ZKM1QxbFVB?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 13:15:00 GMT"
+          "published": "Sun, 27 Sep 2026 05:43:41 GMT"
         },
         {
-          "title": "서울 아파트값 85주 연속 17.5% 올랐다…상승기간 ‘역대 최장 타이’ - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84Q2FvZnhYMjZFLThBTTJDTWJSWWh4RjdDNFlvNWVLTGdfT1NSZk0yNHVreW5PUWpFRDlWMm4zM1l4WV9DakFHc3dqTjNTdmtQelAzeFp4VEZKaHdFRUpMQ1VsWWZuRE9tQ1RiY25RSFNSa2FNakHSAWZBVV95cUxQSzFLWVNEZ0cxald1NU50YzcwSDNtOVhFOF96ZTVVbTRhX2pBMEJCdUZ4bEZ6SG5IVE0zbl9LT293cEJLUlk0S0lJb0wzV28tUWdUUkVnWXh4VjF1VEx4Um9TTVpESmc?oc=5",
+          "title": "세계 심장의 날 앞두고 건강한 채식 실천 촉구 - 비건뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JNU81U24tT0h4bF9od1lpOFFBYXlpbjBkOEpIanNRT2RFZWM2MHl0V1lybl93dTRlNWdYS2F5SUphMjFlaWRfTzQ5REdpTHViM3g5dUxDM1Q5TmVyNklfUy1OclptQQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 07:49:00 GMT"
+          "published": "Sun, 27 Sep 2026 13:54:11 GMT"
         }
       ]
     },
     {
-      "word": "전이",
-      "count": 2,
+      "word": "청와대",
+      "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "암세포, 전이된 장기에 맞춰 '변신'…간 전이 대장암 약점 찾았다 [헬스LAB] - 파이낸셜뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RenRSRUhUdHc0aTZZWW1RbnptS2wzX3g5ejB0QXVlcGdPTHhwcVFSYnhYaUJtd3hqdTk2QnkwQzZpZkN6ZERRX2hyUFJSZFRVN01xV2t1V1FLUQ?oc=5",
+          "title": "청와대 \"우크라, '북한 포로 송환 비공개 합의 없었다' 거짓 발표‥해명·사과하라\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3clpsT28xM3Byc0dzOFpQWE95YVZQMHVhSjRkdG9pblhJeGFSN2hkdXRBLWtFby1pZWxXQjBUYnNpZ2VSTENoWDJpVzlQbEw0NkVuM25uUHVtM2xTSWhBYldEaEFvWXc5RVpkZ3pMaEJmbk41VngtX9IBeEFVX3lxTE1wVk5KYjFINjFwYnctRWtqaHMzNk50bjlkRDhWeTJrTDhlTjRHaU82MDE4LVN0bFBGWmlPVTZsR2FmbFhyT1NHQWZVMHhEWlkyYVdzRWFndHRpdDR4RFVNVENMTUI4Y2JfVl82Mk5LVXFyZVpsOXZYYw?oc=5",
           "source": "Google News",
-          "published": "Mon, 21 Sep 2026 21:00:00 GMT"
+          "published": "Sun, 27 Sep 2026 15:27:03 GMT"
+        }
+      ]
+    },
+    {
+      "word": "우크",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "청와대 \"우크라, '북한 포로 송환 비공개 합의 없었다' 거짓 발표‥해명·사과하라\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3clpsT28xM3Byc0dzOFpQWE95YVZQMHVhSjRkdG9pblhJeGFSN2hkdXRBLWtFby1pZWxXQjBUYnNpZ2VSTENoWDJpVzlQbEw0NkVuM25uUHVtM2xTSWhBYldEaEFvWXc5RVpkZ3pMaEJmbk41VngtX9IBeEFVX3lxTE1wVk5KYjFINjFwYnctRWtqaHMzNk50bjlkRDhWeTJrTDhlTjRHaU82MDE4LVN0bFBGWmlPVTZsR2FmbFhyT1NHQWZVMHhEWlkyYVdzRWFndHRpdDR4RFVNVENMTUI4Y2JfVl82Mk5LVXFyZVpsOXZYYw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 15:27:03 GMT"
+        }
+      ]
+    },
+    {
+      "word": "북한",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "청와대 \"우크라, '북한 포로 송환 비공개 합의 없었다' 거짓 발표‥해명·사과하라\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3clpsT28xM3Byc0dzOFpQWE95YVZQMHVhSjRkdG9pblhJeGFSN2hkdXRBLWtFby1pZWxXQjBUYnNpZ2VSTENoWDJpVzlQbEw0NkVuM25uUHVtM2xTSWhBYldEaEFvWXc5RVpkZ3pMaEJmbk41VngtX9IBeEFVX3lxTE1wVk5KYjFINjFwYnctRWtqaHMzNk50bjlkRDhWeTJrTDhlTjRHaU82MDE4LVN0bFBGWmlPVTZsR2FmbFhyT1NHQWZVMHhEWlkyYVdzRWFndHRpdDR4RFVNVENMTUI4Y2JfVl82Mk5LVXFyZVpsOXZYYw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 15:27:03 GMT"
+        }
+      ]
+    },
+    {
+      "word": "포로",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "청와대 \"우크라, '북한 포로 송환 비공개 합의 없었다' 거짓 발표‥해명·사과하라\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3clpsT28xM3Byc0dzOFpQWE95YVZQMHVhSjRkdG9pblhJeGFSN2hkdXRBLWtFby1pZWxXQjBUYnNpZ2VSTENoWDJpVzlQbEw0NkVuM25uUHVtM2xTSWhBYldEaEFvWXc5RVpkZ3pMaEJmbk41VngtX9IBeEFVX3lxTE1wVk5KYjFINjFwYnctRWtqaHMzNk50bjlkRDhWeTJrTDhlTjRHaU82MDE4LVN0bFBGWmlPVTZsR2FmbFhyT1NHQWZVMHhEWlkyYVdzRWFndHRpdDR4RFVNVENMTUI4Y2JfVl82Mk5LVXFyZVpsOXZYYw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 15:27:03 GMT"
+        }
+      ]
+    },
+    {
+      "word": "송환",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "청와대 \"우크라, '북한 포로 송환 비공개 합의 없었다' 거짓 발표‥해명·사과하라\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3clpsT28xM3Byc0dzOFpQWE95YVZQMHVhSjRkdG9pblhJeGFSN2hkdXRBLWtFby1pZWxXQjBUYnNpZ2VSTENoWDJpVzlQbEw0NkVuM25uUHVtM2xTSWhBYldEaEFvWXc5RVpkZ3pMaEJmbk41VngtX9IBeEFVX3lxTE1wVk5KYjFINjFwYnctRWtqaHMzNk50bjlkRDhWeTJrTDhlTjRHaU82MDE4LVN0bFBGWmlPVTZsR2FmbFhyT1NHQWZVMHhEWlkyYVdzRWFndHRpdDR4RFVNVENMTUI4Y2JfVl82Mk5LVXFyZVpsOXZYYw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 15:27:03 GMT"
+        }
+      ]
+    },
+    {
+      "word": "비공개",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "청와대 \"우크라, '북한 포로 송환 비공개 합의 없었다' 거짓 발표‥해명·사과하라\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3clpsT28xM3Byc0dzOFpQWE95YVZQMHVhSjRkdG9pblhJeGFSN2hkdXRBLWtFby1pZWxXQjBUYnNpZ2VSTENoWDJpVzlQbEw0NkVuM25uUHVtM2xTSWhBYldEaEFvWXc5RVpkZ3pMaEJmbk41VngtX9IBeEFVX3lxTE1wVk5KYjFINjFwYnctRWtqaHMzNk50bjlkRDhWeTJrTDhlTjRHaU82MDE4LVN0bFBGWmlPVTZsR2FmbFhyT1NHQWZVMHhEWlkyYVdzRWFndHRpdDR4RFVNVENMTUI4Y2JfVl82Mk5LVXFyZVpsOXZYYw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 15:27:03 GMT"
+        }
+      ]
+    },
+    {
+      "word": "합의",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "청와대 \"우크라, '북한 포로 송환 비공개 합의 없었다' 거짓 발표‥해명·사과하라\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3clpsT28xM3Byc0dzOFpQWE95YVZQMHVhSjRkdG9pblhJeGFSN2hkdXRBLWtFby1pZWxXQjBUYnNpZ2VSTENoWDJpVzlQbEw0NkVuM25uUHVtM2xTSWhBYldEaEFvWXc5RVpkZ3pMaEJmbk41VngtX9IBeEFVX3lxTE1wVk5KYjFINjFwYnctRWtqaHMzNk50bjlkRDhWeTJrTDhlTjRHaU82MDE4LVN0bFBGWmlPVTZsR2FmbFhyT1NHQWZVMHhEWlkyYVdzRWFndHRpdDR4RFVNVENMTUI4Y2JfVl82Mk5LVXFyZVpsOXZYYw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 15:27:03 GMT"
+        }
+      ]
+    },
+    {
+      "word": "없었다",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "청와대 \"우크라, '북한 포로 송환 비공개 합의 없었다' 거짓 발표‥해명·사과하라\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3clpsT28xM3Byc0dzOFpQWE95YVZQMHVhSjRkdG9pblhJeGFSN2hkdXRBLWtFby1pZWxXQjBUYnNpZ2VSTENoWDJpVzlQbEw0NkVuM25uUHVtM2xTSWhBYldEaEFvWXc5RVpkZ3pMaEJmbk41VngtX9IBeEFVX3lxTE1wVk5KYjFINjFwYnctRWtqaHMzNk50bjlkRDhWeTJrTDhlTjRHaU82MDE4LVN0bFBGWmlPVTZsR2FmbFhyT1NHQWZVMHhEWlkyYVdzRWFndHRpdDR4RFVNVENMTUI4Y2JfVl82Mk5LVXFyZVpsOXZYYw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 15:27:03 GMT"
+        }
+      ]
+    },
+    {
+      "word": "거짓",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "청와대 \"우크라, '북한 포로 송환 비공개 합의 없었다' 거짓 발표‥해명·사과하라\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3clpsT28xM3Byc0dzOFpQWE95YVZQMHVhSjRkdG9pblhJeGFSN2hkdXRBLWtFby1pZWxXQjBUYnNpZ2VSTENoWDJpVzlQbEw0NkVuM25uUHVtM2xTSWhBYldEaEFvWXc5RVpkZ3pMaEJmbk41VngtX9IBeEFVX3lxTE1wVk5KYjFINjFwYnctRWtqaHMzNk50bjlkRDhWeTJrTDhlTjRHaU82MDE4LVN0bFBGWmlPVTZsR2FmbFhyT1NHQWZVMHhEWlkyYVdzRWFndHRpdDR4RFVNVENMTUI4Y2JfVl82Mk5LVXFyZVpsOXZYYw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 15:27:03 GMT"
+        }
+      ]
+    },
+    {
+      "word": "발표해명사",
+      "count": 1,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "청와대 \"우크라, '북한 포로 송환 비공개 합의 없었다' 거짓 발표‥해명·사과하라\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3clpsT28xM3Byc0dzOFpQWE95YVZQMHVhSjRkdG9pblhJeGFSN2hkdXRBLWtFby1pZWxXQjBUYnNpZ2VSTENoWDJpVzlQbEw0NkVuM25uUHVtM2xTSWhBYldEaEFvWXc5RVpkZ3pMaEJmbk41VngtX9IBeEFVX3lxTE1wVk5KYjFINjFwYnctRWtqaHMzNk50bjlkRDhWeTJrTDhlTjRHaU82MDE4LVN0bFBGWmlPVTZsR2FmbFhyT1NHQWZVMHhEWlkyYVdzRWFndHRpdDR4RFVNVENMTUI4Y2JfVl82Mk5LVXFyZVpsOXZYYw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 15:27:03 GMT"
         }
       ]
     },
@@ -164,7 +382,7 @@
           "title": "지뢰 사고 6일 만에 DMZ 현장조사…폭발 지점엔 도달 못 해 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yU0RMcFlqMGZ1T0h4YjhBUW5IY09ZYmpIT1Rra3pkMG1NdEI4NENoTjloM3l3MmFab1Rlb3p5Wkdnc2s1ZUI5cU9Xcjg5UEFZVkUxWTRweGwtdUt0RFNjSDZpMWJMbjRJ?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 13:21:00 GMT"
+          "published": "Sun, 27 Sep 2026 13:24:00 GMT"
         }
       ]
     },
@@ -177,7 +395,7 @@
           "title": "지뢰 사고 6일 만에 DMZ 현장조사…폭발 지점엔 도달 못 해 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yU0RMcFlqMGZ1T0h4YjhBUW5IY09ZYmpIT1Rra3pkMG1NdEI4NENoTjloM3l3MmFab1Rlb3p5Wkdnc2s1ZUI5cU9Xcjg5UEFZVkUxWTRweGwtdUt0RFNjSDZpMWJMbjRJ?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 13:21:00 GMT"
+          "published": "Sun, 27 Sep 2026 13:24:00 GMT"
         }
       ]
     },
@@ -190,7 +408,7 @@
           "title": "지뢰 사고 6일 만에 DMZ 현장조사…폭발 지점엔 도달 못 해 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yU0RMcFlqMGZ1T0h4YjhBUW5IY09ZYmpIT1Rra3pkMG1NdEI4NENoTjloM3l3MmFab1Rlb3p5Wkdnc2s1ZUI5cU9Xcjg5UEFZVkUxWTRweGwtdUt0RFNjSDZpMWJMbjRJ?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 13:21:00 GMT"
+          "published": "Sun, 27 Sep 2026 13:24:00 GMT"
         }
       ]
     },
@@ -203,7 +421,7 @@
           "title": "지뢰 사고 6일 만에 DMZ 현장조사…폭발 지점엔 도달 못 해 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yU0RMcFlqMGZ1T0h4YjhBUW5IY09ZYmpIT1Rra3pkMG1NdEI4NENoTjloM3l3MmFab1Rlb3p5Wkdnc2s1ZUI5cU9Xcjg5UEFZVkUxWTRweGwtdUt0RFNjSDZpMWJMbjRJ?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 13:21:00 GMT"
+          "published": "Sun, 27 Sep 2026 13:24:00 GMT"
         }
       ]
     },
@@ -216,7 +434,7 @@
           "title": "지뢰 사고 6일 만에 DMZ 현장조사…폭발 지점엔 도달 못 해 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yU0RMcFlqMGZ1T0h4YjhBUW5IY09ZYmpIT1Rra3pkMG1NdEI4NENoTjloM3l3MmFab1Rlb3p5Wkdnc2s1ZUI5cU9Xcjg5UEFZVkUxWTRweGwtdUt0RFNjSDZpMWJMbjRJ?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 13:21:00 GMT"
+          "published": "Sun, 27 Sep 2026 13:24:00 GMT"
         }
       ]
     },
@@ -229,7 +447,7 @@
           "title": "지뢰 사고 6일 만에 DMZ 현장조사…폭발 지점엔 도달 못 해 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yU0RMcFlqMGZ1T0h4YjhBUW5IY09ZYmpIT1Rra3pkMG1NdEI4NENoTjloM3l3MmFab1Rlb3p5Wkdnc2s1ZUI5cU9Xcjg5UEFZVkUxWTRweGwtdUt0RFNjSDZpMWJMbjRJ?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 13:21:00 GMT"
+          "published": "Sun, 27 Sep 2026 13:24:00 GMT"
         }
       ]
     },
@@ -242,241 +460,124 @@
           "title": "지뢰 사고 6일 만에 DMZ 현장조사…폭발 지점엔 도달 못 해 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yU0RMcFlqMGZ1T0h4YjhBUW5IY09ZYmpIT1Rra3pkMG1NdEI4NENoTjloM3l3MmFab1Rlb3p5Wkdnc2s1ZUI5cU9Xcjg5UEFZVkUxWTRweGwtdUt0RFNjSDZpMWJMbjRJ?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 13:21:00 GMT"
+          "published": "Sun, 27 Sep 2026 13:24:00 GMT"
         }
       ]
     },
     {
-      "word": "이송",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이송된 북한군 포로 2명은 ‘탈북민’…국정원 최대 120일 조사·임시 보호 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JQXk0cnlWUEVHUUMtdm5US24zU2ZuOXlXRG9nUkFfd2g3SVZjcHh3UHBMZF8xY3F6eUVNakg2VnpmQkU4YWtjR0gwMkdIQW8tLS1TQmY2M0ZjUdIBX0FVX3lxTE5TbjViYV9pdWpwc21VQ3M3d19weUNQZWJHOWtaUkZURmpJUlF5eWFhZ1FOWTNOZGNiY2p2akxJNjhIZHVXOUQ0TFRxckNxS0VGQ3QzeHlMZlh1Mk1Ea3Jn?oc=5",
-          "source": "Google News",
-          "published": "Sun, 27 Sep 2026 13:23:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "북한군",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이송된 북한군 포로 2명은 ‘탈북민’…국정원 최대 120일 조사·임시 보호 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JQXk0cnlWUEVHUUMtdm5US24zU2ZuOXlXRG9nUkFfd2g3SVZjcHh3UHBMZF8xY3F6eUVNakg2VnpmQkU4YWtjR0gwMkdIQW8tLS1TQmY2M0ZjUdIBX0FVX3lxTE5TbjViYV9pdWpwc21VQ3M3d19weUNQZWJHOWtaUkZURmpJUlF5eWFhZ1FOWTNOZGNiY2p2akxJNjhIZHVXOUQ0TFRxckNxS0VGQ3QzeHlMZlh1Mk1Ea3Jn?oc=5",
-          "source": "Google News",
-          "published": "Sun, 27 Sep 2026 13:23:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "포로",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이송된 북한군 포로 2명은 ‘탈북민’…국정원 최대 120일 조사·임시 보호 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JQXk0cnlWUEVHUUMtdm5US24zU2ZuOXlXRG9nUkFfd2g3SVZjcHh3UHBMZF8xY3F6eUVNakg2VnpmQkU4YWtjR0gwMkdIQW8tLS1TQmY2M0ZjUdIBX0FVX3lxTE5TbjViYV9pdWpwc21VQ3M3d19weUNQZWJHOWtaUkZURmpJUlF5eWFhZ1FOWTNOZGNiY2p2akxJNjhIZHVXOUQ0TFRxckNxS0VGQ3QzeHlMZlh1Mk1Ea3Jn?oc=5",
-          "source": "Google News",
-          "published": "Sun, 27 Sep 2026 13:23:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "2명",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이송된 북한군 포로 2명은 ‘탈북민’…국정원 최대 120일 조사·임시 보호 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JQXk0cnlWUEVHUUMtdm5US24zU2ZuOXlXRG9nUkFfd2g3SVZjcHh3UHBMZF8xY3F6eUVNakg2VnpmQkU4YWtjR0gwMkdIQW8tLS1TQmY2M0ZjUdIBX0FVX3lxTE5TbjViYV9pdWpwc21VQ3M3d19weUNQZWJHOWtaUkZURmpJUlF5eWFhZ1FOWTNOZGNiY2p2akxJNjhIZHVXOUQ0TFRxckNxS0VGQ3QzeHlMZlh1Mk1Ea3Jn?oc=5",
-          "source": "Google News",
-          "published": "Sun, 27 Sep 2026 13:23:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "탈북민국정원",
+      "word": "중식당",
       "count": 1,
       "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "이송된 북한군 포로 2명은 ‘탈북민’…국정원 최대 120일 조사·임시 보호 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JQXk0cnlWUEVHUUMtdm5US24zU2ZuOXlXRG9nUkFfd2g3SVZjcHh3UHBMZF8xY3F6eUVNakg2VnpmQkU4YWtjR0gwMkdIQW8tLS1TQmY2M0ZjUdIBX0FVX3lxTE5TbjViYV9pdWpwc21VQ3M3d19weUNQZWJHOWtaUkZURmpJUlF5eWFhZ1FOWTNOZGNiY2p2akxJNjhIZHVXOUQ0TFRxckNxS0VGQ3QzeHlMZlh1Mk1Ea3Jn?oc=5",
+          "title": "중식당 ‘시진핑’에 래커 테러···중국인 용의자 4명 본국 도주 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sNVdPYjRJWVVlWHBPVWFXTm1vSUkwVTFUWDlwRHZJX2p5YzRVb2xmQVZnY25hOEpfNXpLSkFnZkdFbUxXcEpZWEVjSnZINHp5a2ZOOXhKOGRfZ9IBX0FVX3lxTE5KeW5STmk5MFBxVTZZMnRkcy10S3FoZC1IX3ozTW1FTzhrWGN1b0FXRXRzYkxOS01OREtDOWNrRU9acXQ4czNzUW1PcVUzVk1ZdXdxQ1FrQThzUzNoUEVB?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 13:23:00 GMT"
+          "published": "Sun, 27 Sep 2026 10:55:00 GMT"
         }
       ]
     },
     {
-      "word": "120일",
+      "word": "시진핑",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이송된 북한군 포로 2명은 ‘탈북민’…국정원 최대 120일 조사·임시 보호 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JQXk0cnlWUEVHUUMtdm5US24zU2ZuOXlXRG9nUkFfd2g3SVZjcHh3UHBMZF8xY3F6eUVNakg2VnpmQkU4YWtjR0gwMkdIQW8tLS1TQmY2M0ZjUdIBX0FVX3lxTE5TbjViYV9pdWpwc21VQ3M3d19weUNQZWJHOWtaUkZURmpJUlF5eWFhZ1FOWTNOZGNiY2p2akxJNjhIZHVXOUQ0TFRxckNxS0VGQ3QzeHlMZlh1Mk1Ea3Jn?oc=5",
+          "title": "중식당 ‘시진핑’에 래커 테러···중국인 용의자 4명 본국 도주 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sNVdPYjRJWVVlWHBPVWFXTm1vSUkwVTFUWDlwRHZJX2p5YzRVb2xmQVZnY25hOEpfNXpLSkFnZkdFbUxXcEpZWEVjSnZINHp5a2ZOOXhKOGRfZ9IBX0FVX3lxTE5KeW5STmk5MFBxVTZZMnRkcy10S3FoZC1IX3ozTW1FTzhrWGN1b0FXRXRzYkxOS01OREtDOWNrRU9acXQ4czNzUW1PcVUzVk1ZdXdxQ1FrQThzUzNoUEVB?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 13:23:00 GMT"
+          "published": "Sun, 27 Sep 2026 10:55:00 GMT"
         }
       ]
     },
     {
-      "word": "조사임시",
+      "word": "래커",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "중식당 ‘시진핑’에 래커 테러···중국인 용의자 4명 본국 도주 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sNVdPYjRJWVVlWHBPVWFXTm1vSUkwVTFUWDlwRHZJX2p5YzRVb2xmQVZnY25hOEpfNXpLSkFnZkdFbUxXcEpZWEVjSnZINHp5a2ZOOXhKOGRfZ9IBX0FVX3lxTE5KeW5STmk5MFBxVTZZMnRkcy10S3FoZC1IX3ozTW1FTzhrWGN1b0FXRXRzYkxOS01OREtDOWNrRU9acXQ4czNzUW1PcVUzVk1ZdXdxQ1FrQThzUzNoUEVB?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 10:55:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "테러중국인",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "중식당 ‘시진핑’에 래커 테러···중국인 용의자 4명 본국 도주 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sNVdPYjRJWVVlWHBPVWFXTm1vSUkwVTFUWDlwRHZJX2p5YzRVb2xmQVZnY25hOEpfNXpLSkFnZkdFbUxXcEpZWEVjSnZINHp5a2ZOOXhKOGRfZ9IBX0FVX3lxTE5KeW5STmk5MFBxVTZZMnRkcy10S3FoZC1IX3ozTW1FTzhrWGN1b0FXRXRzYkxOS01OREtDOWNrRU9acXQ4czNzUW1PcVUzVk1ZdXdxQ1FrQThzUzNoUEVB?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 10:55:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "용의자",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "중식당 ‘시진핑’에 래커 테러···중국인 용의자 4명 본국 도주 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sNVdPYjRJWVVlWHBPVWFXTm1vSUkwVTFUWDlwRHZJX2p5YzRVb2xmQVZnY25hOEpfNXpLSkFnZkdFbUxXcEpZWEVjSnZINHp5a2ZOOXhKOGRfZ9IBX0FVX3lxTE5KeW5STmk5MFBxVTZZMnRkcy10S3FoZC1IX3ozTW1FTzhrWGN1b0FXRXRzYkxOS01OREtDOWNrRU9acXQ4czNzUW1PcVUzVk1ZdXdxQ1FrQThzUzNoUEVB?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 10:55:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "4명",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "중식당 ‘시진핑’에 래커 테러···중국인 용의자 4명 본국 도주 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sNVdPYjRJWVVlWHBPVWFXTm1vSUkwVTFUWDlwRHZJX2p5YzRVb2xmQVZnY25hOEpfNXpLSkFnZkdFbUxXcEpZWEVjSnZINHp5a2ZOOXhKOGRfZ9IBX0FVX3lxTE5KeW5STmk5MFBxVTZZMnRkcy10S3FoZC1IX3ozTW1FTzhrWGN1b0FXRXRzYkxOS01OREtDOWNrRU9acXQ4czNzUW1PcVUzVk1ZdXdxQ1FrQThzUzNoUEVB?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 10:55:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "본국",
       "count": 1,
       "category": "LOCATION",
       "articles": [
         {
-          "title": "이송된 북한군 포로 2명은 ‘탈북민’…국정원 최대 120일 조사·임시 보호 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JQXk0cnlWUEVHUUMtdm5US24zU2ZuOXlXRG9nUkFfd2g3SVZjcHh3UHBMZF8xY3F6eUVNakg2VnpmQkU4YWtjR0gwMkdIQW8tLS1TQmY2M0ZjUdIBX0FVX3lxTE5TbjViYV9pdWpwc21VQ3M3d19weUNQZWJHOWtaUkZURmpJUlF5eWFhZ1FOWTNOZGNiY2p2akxJNjhIZHVXOUQ0TFRxckNxS0VGQ3QzeHlMZlh1Mk1Ea3Jn?oc=5",
+          "title": "중식당 ‘시진핑’에 래커 테러···중국인 용의자 4명 본국 도주 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sNVdPYjRJWVVlWHBPVWFXTm1vSUkwVTFUWDlwRHZJX2p5YzRVb2xmQVZnY25hOEpfNXpLSkFnZkdFbUxXcEpZWEVjSnZINHp5a2ZOOXhKOGRfZ9IBX0FVX3lxTE5KeW5STmk5MFBxVTZZMnRkcy10S3FoZC1IX3ozTW1FTzhrWGN1b0FXRXRzYkxOS01OREtDOWNrRU9acXQ4czNzUW1PcVUzVk1ZdXdxQ1FrQThzUzNoUEVB?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 13:23:00 GMT"
+          "published": "Sun, 27 Sep 2026 10:55:00 GMT"
         }
       ]
     },
     {
-      "word": "보호",
+      "word": "도주",
+      "count": 1,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "중식당 ‘시진핑’에 래커 테러···중국인 용의자 4명 본국 도주 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sNVdPYjRJWVVlWHBPVWFXTm1vSUkwVTFUWDlwRHZJX2p5YzRVb2xmQVZnY25hOEpfNXpLSkFnZkdFbUxXcEpZWEVjSnZINHp5a2ZOOXhKOGRfZ9IBX0FVX3lxTE5KeW5STmk5MFBxVTZZMnRkcy10S3FoZC1IX3ozTW1FTzhrWGN1b0FXRXRzYkxOS01OREtDOWNrRU9acXQ4czNzUW1PcVUzVk1ZdXdxQ1FrQThzUzNoUEVB?oc=5",
+          "source": "Google News",
+          "published": "Sun, 27 Sep 2026 10:55:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "비서실장",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이송된 북한군 포로 2명은 ‘탈북민’…국정원 최대 120일 조사·임시 보호 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JQXk0cnlWUEVHUUMtdm5US24zU2ZuOXlXRG9nUkFfd2g3SVZjcHh3UHBMZF8xY3F6eUVNakg2VnpmQkU4YWtjR0gwMkdIQW8tLS1TQmY2M0ZjUdIBX0FVX3lxTE5TbjViYV9pdWpwc21VQ3M3d19weUNQZWJHOWtaUkZURmpJUlF5eWFhZ1FOWTNOZGNiY2p2akxJNjhIZHVXOUQ0TFRxckNxS0VGQ3QzeHlMZlh1Mk1Ea3Jn?oc=5",
+          "title": "트럼프, 비서실장에 \"李와 골프 스케줄 짜라\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZmJQSnh0SGhpVWYyNWg0SGdUNHRSNkJLRGhJMWZkd3dSdlhYQkhJUW5TM3k2U3hHTV84ZThqOUttLWM2bFQtamVoNTJxb3IyMmwtbmNKSWZMOXMtY0FSSzY4LThCYW51QkVPZXQ0SDd4cmZlOVF6VnIxUjlNYlZVMlhkX2pDcFNwdEFvQzRTLUk?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 13:23:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "민주당",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "민주당 \"조희대, 격노하며 독단적으로 재제청 거부\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmWnR6MVlMMVFsWDdnblBjOEd1QWtEbnp2M0h3Q3VXSnlvdi1md2JNempvQ0NUWDJzS3VqVFBRel9VbUJXZ05CMzBCc1pYWmdXSVE5bFc0VUZUSnNEUDFkNEJEQWsxR2p6R3hFNzI3aUZkbDBGVDNJNdIBeEFVX3lxTE9NRXBLWnhfR1VpLXF1eHh4d3FXQ0RURzRYdmlpMF8yclppcHgyeVFtQXhZM2otcVVvX1FzcnBMMExWR0NXM2J1eGs5NjREbDVvbVVCb3I0NzQ2dzVRS1dTSFUyclVYRWpxcktJM3pwX3FFYXh0aVRITA?oc=5",
-          "source": "Google News",
-          "published": "Sun, 27 Sep 2026 08:39:09 GMT"
-        }
-      ]
-    },
-    {
-      "word": "조희대",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "민주당 \"조희대, 격노하며 독단적으로 재제청 거부\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmWnR6MVlMMVFsWDdnblBjOEd1QWtEbnp2M0h3Q3VXSnlvdi1md2JNempvQ0NUWDJzS3VqVFBRel9VbUJXZ05CMzBCc1pYWmdXSVE5bFc0VUZUSnNEUDFkNEJEQWsxR2p6R3hFNzI3aUZkbDBGVDNJNdIBeEFVX3lxTE9NRXBLWnhfR1VpLXF1eHh4d3FXQ0RURzRYdmlpMF8yclppcHgyeVFtQXhZM2otcVVvX1FzcnBMMExWR0NXM2J1eGs5NjREbDVvbVVCb3I0NzQ2dzVRS1dTSFUyclVYRWpxcktJM3pwX3FFYXh0aVRITA?oc=5",
-          "source": "Google News",
-          "published": "Sun, 27 Sep 2026 08:39:09 GMT"
-        }
-      ]
-    },
-    {
-      "word": "격노",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "민주당 \"조희대, 격노하며 독단적으로 재제청 거부\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmWnR6MVlMMVFsWDdnblBjOEd1QWtEbnp2M0h3Q3VXSnlvdi1md2JNempvQ0NUWDJzS3VqVFBRel9VbUJXZ05CMzBCc1pYWmdXSVE5bFc0VUZUSnNEUDFkNEJEQWsxR2p6R3hFNzI3aUZkbDBGVDNJNdIBeEFVX3lxTE9NRXBLWnhfR1VpLXF1eHh4d3FXQ0RURzRYdmlpMF8yclppcHgyeVFtQXhZM2otcVVvX1FzcnBMMExWR0NXM2J1eGs5NjREbDVvbVVCb3I0NzQ2dzVRS1dTSFUyclVYRWpxcktJM3pwX3FFYXh0aVRITA?oc=5",
-          "source": "Google News",
-          "published": "Sun, 27 Sep 2026 08:39:09 GMT"
-        }
-      ]
-    },
-    {
-      "word": "독단",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "민주당 \"조희대, 격노하며 독단적으로 재제청 거부\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmWnR6MVlMMVFsWDdnblBjOEd1QWtEbnp2M0h3Q3VXSnlvdi1md2JNempvQ0NUWDJzS3VqVFBRel9VbUJXZ05CMzBCc1pYWmdXSVE5bFc0VUZUSnNEUDFkNEJEQWsxR2p6R3hFNzI3aUZkbDBGVDNJNdIBeEFVX3lxTE9NRXBLWnhfR1VpLXF1eHh4d3FXQ0RURzRYdmlpMF8yclppcHgyeVFtQXhZM2otcVVvX1FzcnBMMExWR0NXM2J1eGs5NjREbDVvbVVCb3I0NzQ2dzVRS1dTSFUyclVYRWpxcktJM3pwX3FFYXh0aVRITA?oc=5",
-          "source": "Google News",
-          "published": "Sun, 27 Sep 2026 08:39:09 GMT"
-        }
-      ]
-    },
-    {
-      "word": "재제청",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "민주당 \"조희대, 격노하며 독단적으로 재제청 거부\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmWnR6MVlMMVFsWDdnblBjOEd1QWtEbnp2M0h3Q3VXSnlvdi1md2JNempvQ0NUWDJzS3VqVFBRel9VbUJXZ05CMzBCc1pYWmdXSVE5bFc0VUZUSnNEUDFkNEJEQWsxR2p6R3hFNzI3aUZkbDBGVDNJNdIBeEFVX3lxTE9NRXBLWnhfR1VpLXF1eHh4d3FXQ0RURzRYdmlpMF8yclppcHgyeVFtQXhZM2otcVVvX1FzcnBMMExWR0NXM2J1eGs5NjREbDVvbVVCb3I0NzQ2dzVRS1dTSFUyclVYRWpxcktJM3pwX3FFYXh0aVRITA?oc=5",
-          "source": "Google News",
-          "published": "Sun, 27 Sep 2026 08:39:09 GMT"
-        }
-      ]
-    },
-    {
-      "word": "한미",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프, 한·미 회담 위해 연설 30분 늦춰…즉석 ‘골프 부킹’ 지시도 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WVTd0cXVDcllVRnJJc3k4WG1KR1RISnZzWmRMQ3lsNm85aFV1cEdtUEVYbVJtMUlMaENtZjczTHktMXpRUzJkRzNEbjZ0dlFhRUhXQWxKU012QVA0bktwT2RrNGpTZEFkbnU0?oc=5",
-          "source": "Google News",
-          "published": "Sun, 27 Sep 2026 14:29:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "회담",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프, 한·미 회담 위해 연설 30분 늦춰…즉석 ‘골프 부킹’ 지시도 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WVTd0cXVDcllVRnJJc3k4WG1KR1RISnZzWmRMQ3lsNm85aFV1cEdtUEVYbVJtMUlMaENtZjczTHktMXpRUzJkRzNEbjZ0dlFhRUhXQWxKU012QVA0bktwT2RrNGpTZEFkbnU0?oc=5",
-          "source": "Google News",
-          "published": "Sun, 27 Sep 2026 14:29:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "연설",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프, 한·미 회담 위해 연설 30분 늦춰…즉석 ‘골프 부킹’ 지시도 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WVTd0cXVDcllVRnJJc3k4WG1KR1RISnZzWmRMQ3lsNm85aFV1cEdtUEVYbVJtMUlMaENtZjczTHktMXpRUzJkRzNEbjZ0dlFhRUhXQWxKU012QVA0bktwT2RrNGpTZEFkbnU0?oc=5",
-          "source": "Google News",
-          "published": "Sun, 27 Sep 2026 14:29:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "30분",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프, 한·미 회담 위해 연설 30분 늦춰…즉석 ‘골프 부킹’ 지시도 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WVTd0cXVDcllVRnJJc3k4WG1KR1RISnZzWmRMQ3lsNm85aFV1cEdtUEVYbVJtMUlMaENtZjczTHktMXpRUzJkRzNEbjZ0dlFhRUhXQWxKU012QVA0bktwT2RrNGpTZEFkbnU0?oc=5",
-          "source": "Google News",
-          "published": "Sun, 27 Sep 2026 14:29:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "늦춰즉석",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프, 한·미 회담 위해 연설 30분 늦춰…즉석 ‘골프 부킹’ 지시도 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WVTd0cXVDcllVRnJJc3k4WG1KR1RISnZzWmRMQ3lsNm85aFV1cEdtUEVYbVJtMUlMaENtZjczTHktMXpRUzJkRzNEbjZ0dlFhRUhXQWxKU012QVA0bktwT2RrNGpTZEFkbnU0?oc=5",
-          "source": "Google News",
-          "published": "Sun, 27 Sep 2026 14:29:00 GMT"
+          "published": "Sun, 27 Sep 2026 14:11:00 GMT"
         }
       ]
     },
@@ -486,88 +587,23 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프, 한·미 회담 위해 연설 30분 늦춰…즉석 ‘골프 부킹’ 지시도 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WVTd0cXVDcllVRnJJc3k4WG1KR1RISnZzWmRMQ3lsNm85aFV1cEdtUEVYbVJtMUlMaENtZjczTHktMXpRUzJkRzNEbjZ0dlFhRUhXQWxKU012QVA0bktwT2RrNGpTZEFkbnU0?oc=5",
+          "title": "트럼프, 비서실장에 \"李와 골프 스케줄 짜라\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZmJQSnh0SGhpVWYyNWg0SGdUNHRSNkJLRGhJMWZkd3dSdlhYQkhJUW5TM3k2U3hHTV84ZThqOUttLWM2bFQtamVoNTJxb3IyMmwtbmNKSWZMOXMtY0FSSzY4LThCYW51QkVPZXQ0SDd4cmZlOVF6VnIxUjlNYlZVMlhkX2pDcFNwdEFvQzRTLUk?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 14:29:00 GMT"
+          "published": "Sun, 27 Sep 2026 14:11:00 GMT"
         }
       ]
     },
     {
-      "word": "부킹",
+      "word": "스케줄",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프, 한·미 회담 위해 연설 30분 늦춰…즉석 ‘골프 부킹’ 지시도 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WVTd0cXVDcllVRnJJc3k4WG1KR1RISnZzWmRMQ3lsNm85aFV1cEdtUEVYbVJtMUlMaENtZjczTHktMXpRUzJkRzNEbjZ0dlFhRUhXQWxKU012QVA0bktwT2RrNGpTZEFkbnU0?oc=5",
+          "title": "트럼프, 비서실장에 \"李와 골프 스케줄 짜라\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZmJQSnh0SGhpVWYyNWg0SGdUNHRSNkJLRGhJMWZkd3dSdlhYQkhJUW5TM3k2U3hHTV84ZThqOUttLWM2bFQtamVoNTJxb3IyMmwtbmNKSWZMOXMtY0FSSzY4LThCYW51QkVPZXQ0SDd4cmZlOVF6VnIxUjlNYlZVMlhkX2pDcFNwdEFvQzRTLUk?oc=5",
           "source": "Google News",
-          "published": "Sun, 27 Sep 2026 14:29:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "지시",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "트럼프, 한·미 회담 위해 연설 30분 늦춰…즉석 ‘골프 부킹’ 지시도 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WVTd0cXVDcllVRnJJc3k4WG1KR1RISnZzWmRMQ3lsNm85aFV1cEdtUEVYbVJtMUlMaENtZjczTHktMXpRUzJkRzNEbjZ0dlFhRUhXQWxKU012QVA0bktwT2RrNGpTZEFkbnU0?oc=5",
-          "source": "Google News",
-          "published": "Sun, 27 Sep 2026 14:29:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "대통령",
-      "count": 1,
-      "category": "PERSON",
-      "articles": [
-        {
-          "title": "이 대통령, 개혁 ’국민 관심’ 역설…“사익 추구 집단에 기대 어려워“ - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GblctUWV3OU9PYWRPUWliankzN2E3ZDZpeFBhdmhxd1hzZ0JnTWJkRDlJd25Ra1duXzZybGtrTE01WGowSDFwYkpuX1d5RTY4akVjVXAxSjVadkJUSm9oYVAwM3Z2a2M?oc=5",
-          "source": "Google News",
-          "published": "Sun, 27 Sep 2026 11:34:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "개혁",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령, 개혁 ’국민 관심’ 역설…“사익 추구 집단에 기대 어려워“ - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GblctUWV3OU9PYWRPUWliankzN2E3ZDZpeFBhdmhxd1hzZ0JnTWJkRDlJd25Ra1duXzZybGtrTE01WGowSDFwYkpuX1d5RTY4akVjVXAxSjVadkJUSm9oYVAwM3Z2a2M?oc=5",
-          "source": "Google News",
-          "published": "Sun, 27 Sep 2026 11:34:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "국민",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령, 개혁 ’국민 관심’ 역설…“사익 추구 집단에 기대 어려워“ - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GblctUWV3OU9PYWRPUWliankzN2E3ZDZpeFBhdmhxd1hzZ0JnTWJkRDlJd25Ra1duXzZybGtrTE01WGowSDFwYkpuX1d5RTY4akVjVXAxSjVadkJUSm9oYVAwM3Z2a2M?oc=5",
-          "source": "Google News",
-          "published": "Sun, 27 Sep 2026 11:34:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "관심",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령, 개혁 ’국민 관심’ 역설…“사익 추구 집단에 기대 어려워“ - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GblctUWV3OU9PYWRPUWliankzN2E3ZDZpeFBhdmhxd1hzZ0JnTWJkRDlJd25Ra1duXzZybGtrTE01WGowSDFwYkpuX1d5RTY4akVjVXAxSjVadkJUSm9oYVAwM3Z2a2M?oc=5",
-          "source": "Google News",
-          "published": "Sun, 27 Sep 2026 11:34:00 GMT"
+          "published": "Sun, 27 Sep 2026 14:11:00 GMT"
         }
       ]
     }
