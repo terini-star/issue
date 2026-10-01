@@ -1,137 +1,55 @@
 {
   "language": "ko",
-  "last_updated": 1790800968.0423174,
+  "last_updated": 1790814446.3562834,
   "count": 40,
   "trends": [
-    {
-      "word": "대통령",
-      "count": 4,
-      "category": "PERSON",
-      "articles": [
-        {
-          "title": "이재명 대통령 \"김지용 중수청장 후보자, '친윤검사' 비난은 납득 어려워\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13bVljX1dGZGFJR1AzU1BaUFczRDhtNDNnaV9kbENlTlIxWXI0WElURFNoV255TjRBblFQN29BUDJoWWd0dHBIV3NuZzZGeXZXd0pqbjFpR0xfVHcxSWZYamNfT2hERl9KMzBTQ016bGNoTC1MNDR1NdIBeEFVX3lxTE5XYk4zNURyczlhM1M5b1VvZGxPNzExNDB4YlRlMk83aGgweE4wZnBISWVkNEFMVjJkVDZXUzBUV2M4ZkRrSnd5SmZ3NHdkV3NSY1dKNElZMzV1RmZlV0ZVdGVLSWFHb05zOWRUbUVia09sUXZsWEVHWQ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 30 Sep 2026 15:36:41 GMT"
-        },
-        {
-          "title": "이 대통령 “저를 살려준 것도, 이 자리 이끌어 준 것도 SNS…국민과 더 소통” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jZ3JPdFVCdV9NQUtZdXpTYVlaOGRXa18wbnVLUlJWMUNJLUx1ajVDOG1YYTZmMThmLVd3UTNocG1KRkxWd1Ztc0pMRWdhZDJ1eHd4R3lmYUJfaF9fOVZQNVM0a3pSRldBOEZmUUZGTDVLTlow?oc=5",
-          "source": "Google News",
-          "published": "Wed, 30 Sep 2026 13:25:00 GMT"
-        },
-        {
-          "title": "이 대통령 SNS에 대외비 문건…국힘 “선관위 특검 내통”, 청 “경찰 치안 보고” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54clVua2l2NEo2QXBvTlFEX0czZzRHR1BwUTNzWTJUc3I2U1RQeTdNbUw4UEV6cUJvT1RsV181QzdtOFRIemJCczQ1SXoyOGF0dWxySjg5OFJEc2hvemFhRTJMQVFpSTNBczhSS29hM1N3OERw?oc=5",
-          "source": "Google News",
-          "published": "Wed, 30 Sep 2026 12:54:00 GMT"
-        },
-        {
-          "title": "[단독 인터뷰] ‘암살자(들)’ 감독 “박정희 대통령 배후 전제하고 만든 영화 아니다” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE15NnIzVU9Md09NLV92ZVFjVlFEdzhkZ0kzQll2OWpKQVJHNExtQk1sa0NWOFZ0eEhtNWZFYjdKUXM3c3pJbk9nTHhTR0lldk5Xam1oNmw4cXFNT3FSWGFKdlRSTmZSZFVnb003UlMyMzZ3UQ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 30 Sep 2026 10:51:00 GMT"
-        }
-      ]
-    },
     {
       "word": "트럼프",
       "count": 4,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 \"호르무즈 원유 수송 역대 최다…이란전 곧 승리\" - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBueXhoV2IyOW5DalFyTzh3bUd6cUEzWU85b0Jkb2k4ZG9fZDZzMUt3ZTM1YTJQVGxQNGdHMmdwODhCWGNXU0ltT3pSdVM0d1hHX3BjNU9SU3pCdw?oc=5",
+          "title": "미국 민주당의원 2명 “트럼프의 김정은과 대화 재개 노력 환영” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MdWtWTm1IaHdkV0EwWlh3UU84M1l5N2NtbEFERjFQLTFlamQ1Qk5KSWE1NVhWT2oxWEpZRmVxTGlRUmxkMFhqNS1IdExiZzJpSDRKYnBhV29MWTg?oc=5",
           "source": "Google News",
-          "published": "Wed, 30 Sep 2026 20:14:13 GMT"
+          "published": "Wed, 30 Sep 2026 13:59:00 GMT"
         },
         {
-          "title": "‘지뢰’ 와중에… 트럼프 “내 친구 김정은 핵능력 상당” 북미대화 의지 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAyRE9TdVM4TjhGUkRraVJjbFB5dV9IQ3RWZW9tRDdfbHJiM1NOUlREV3FQM0JUMlVhRlFlUjZ3azY2RGZNTFJVT2tiQ1hBbGdRVEhXT0hyMWZjSFZYMWc2V0pyTlNpNVdZRF8zOXhOWG1EdDJPdXl30gFmQVVfeXFMT1BVNS1XUnItc3ZMenRMalNHTnVpVlN0eTgyNWFPSVU0M01SQ2ItZDNyWHFmbmhHd0VDZlBSSEdCNmZFUUlRWVgyb3o5dzVyMXRyZExncXN6QlpkenR6LTBuZGRIdi13?oc=5",
+          "title": "[속보] 트럼프, 한국 대미투자 발표‥'알래스카 LNG 개발' 포함 - imnews.imbc.com",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qQ3Ntb3lNMHhESmh1NUFPN0pVUkxQeTY0Z05TQ3ZESXF0UnpCcE03Tmd1RTBsOTdFcmIwa01XRUV2U3ZNNWtYZ2JsX2M0Rl9fY1JpV0Z1aXQ3VUptaEZkbWViQ1A1cHdnZjY2cThveTl4VVRP0gF0QVVfeXFMTjYxYXhIM2x3T0hZV3NlX0ZkY1dIeXNoRjFINjVrUG1oaVgzQ1plM0pCTnZhcVZOTHRlRC1FUWtvd3ZBZmZTX3gyWEZXaVlkTmMzT3dIT1YxaXZjX19nMjNhV1BlVEY2enp3UTkzSjFFckpVcFg?oc=5",
+          "source": "Google News",
+          "published": "Wed, 30 Sep 2026 20:37:56 GMT"
+        },
+        {
+          "title": "트럼프 \"호르무즈서 사흘간 운송된 원유, 어느 때보다 많아\" - yna.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJaWxRQmY4UkY2ME1DRzFoc1pfcGxhSHpDT2lGMWhjVkQ5dUdnQ0U4OVhNeTJpa1pDcWtnR0R4RUZ6dmllOThfd2MyUk8ybmtLbGRmNzNwalVOSU3SAWBBVV95cUxNQ1NWQzZVczdBa3BaSWpkc0JCY3JQTG04d3FyOVFHZm05UHI5NjRfOEM4MFJpeWFra09Gc2pkdUd5OTZHSmt3TzdLMTJ4V0g2UWR4cEJPMFBLR3hhd280OUE?oc=5",
+          "source": "Google News",
+          "published": "Wed, 30 Sep 2026 19:35:35 GMT"
+        },
+        {
+          "title": "‘左 머스크-右 젠슨 황’ 앉힌 트럼프 “AI 규제, 자율에 맡길 것” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tdmRFN1hxSFIzdnhjb1JtblpqVFVCczFXRTRnY1VIanRUWWU3eFd6S0pnYXVydVd0XzNUbmxxWXpLWm52dkRiaFlEMU1YYVhZN3h5aVJ1OXZfY1Z2WWRZVHRZdi1hSGFWSFpQdmFFYVQ1cUk?oc=5",
           "source": "Google News",
           "published": "Wed, 30 Sep 2026 19:30:00 GMT"
-        },
-        {
-          "title": "트럼프, ‘AI 규제’ 기업 자율로 합의…‘슈퍼지능’ 장밋빛 구상 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rT1ZmVVhXcFMxc2ZtNkpaTUhHVERiaXQ0RnVXVG0tTW9YZG9kQ1RXTWdJQjZZMFZzb2hYN3Qtc0FOOGNlQ2dxeGNQQlhzMVk1VUhIUkVfSkRzUdIBX0FVX3lxTE83NlpSb0VlclRqOG4yN0FHc2RXVXM0TzJ0ZUFSemVhTVNpQUY5UHVkRXlMQUxHeTB6dTNIZTN4MUNhZl9WQk4yblF3eHJoS0M3LUdzejU4OGJ0LUhMbzNz?oc=5",
-          "source": "Google News",
-          "published": "Wed, 30 Sep 2026 11:58:00 GMT"
-        },
-        {
-          "title": "트럼프, 오늘 새벽 4시반 한국 대미투자 직접 발표…“알래스카 LNG 포함” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRFlFUHcxQWxYV1UxQ04zdTh1ckZFWW1xTEFfSHVXdlFudDVuQWRTRWRNbVpCRmRpeENwQ1lUOWEzUEoxN2plN3UzS2R5NFZneE1mWHlabllhZHlIbFhITzZGNkRBcU1Ra0pRUWJTN3VpNlV0RUhRbEJDLTFmR1BDQk5R?oc=5",
-          "source": "Google News",
-          "published": "Wed, 30 Sep 2026 15:12:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "비난",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이재명 대통령 \"김지용 중수청장 후보자, '친윤검사' 비난은 납득 어려워\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13bVljX1dGZGFJR1AzU1BaUFczRDhtNDNnaV9kbENlTlIxWXI0WElURFNoV255TjRBblFQN29BUDJoWWd0dHBIV3NuZzZGeXZXd0pqbjFpR0xfVHcxSWZYamNfT2hERl9KMzBTQ016bGNoTC1MNDR1NdIBeEFVX3lxTE5XYk4zNURyczlhM1M5b1VvZGxPNzExNDB4YlRlMk83aGgweE4wZnBISWVkNEFMVjJkVDZXUzBUV2M4ZkRrSnd5SmZ3NHdkV3NSY1dKNElZMzV1RmZlV0ZVdGVLSWFHb05zOWRUbUVia09sUXZsWEVHWQ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 30 Sep 2026 15:36:41 GMT"
-        },
-        {
-          "title": "“민주당 출연시켜 내 험담”…트럼프, 폭스뉴스까지 비난 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHLXpHUS16ZWk2N2pDRzhxLVo2TjVieXB5SjVjM01ITDJvczRnZHlZMTNtcW1rcmI2YnAtRnVkY3JMY2h1MXgtaFlSZzZCeGxnd3dXTnR6NnZJRUE?oc=5",
-          "source": "Google News",
-          "published": "Wed, 30 Sep 2026 19:19:00 GMT"
         }
       ]
     },
     {
       "word": "직접",
-      "count": 2,
+      "count": 3,
       "category": "NOUN",
       "articles": [
+        {
+          "title": "이 대통령 “SNS는 국민과의 직접 소통 통로…어려울수록 직접 보고하고 호소해야” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aRU5mZXRELXpYbjNudHloSlhEUnYtc3lkUEtkY1NVbWlEYmttSFBSSjFhSkJ1YzF2STNzeXRlVG5uQjN5SjVWSjNaTG5rTUJwZ180WnpSejRRYUk?oc=5",
+          "source": "Google News",
+          "published": "Wed, 30 Sep 2026 22:11:00 GMT"
+        },
         {
           "title": "[단독] 수사권 없는 공소청…중대사건은 피의자 만나 직접 ‘듣는다’ - 조선일보",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbm9jbDQ0YTBkU19qQWFjRUc3dm1IZ2x4NkNIU0RGcC1NbEdKRVA4akVISmQwTlBEV3Y3dlpoSll1RUI5aENHMjZYYkpWQ25HUkxuaDZiNk1IMWhicWJfbmVxOWVrRjZnNHVPdlhqUWFsbmhDV3hFTFhGSk5rTkhiT2Z3RVpaQmM?oc=5",
           "source": "Google News",
           "published": "Wed, 30 Sep 2026 05:41:21 GMT"
-        },
-        {
-          "title": "트럼프, 오늘 새벽 4시반 한국 대미투자 직접 발표…“알래스카 LNG 포함” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRFlFUHcxQWxYV1UxQ04zdTh1ckZFWW1xTEFfSHVXdlFudDVuQWRTRWRNbVpCRmRpeENwQ1lUOWEzUEoxN2plN3UzS2R5NFZneE1mWHlabllhZHlIbFhITzZGNkRBcU1Ra0pRUWJTN3VpNlV0RUhRbEJDLTFmR1BDQk5R?oc=5",
-          "source": "Google News",
-          "published": "Wed, 30 Sep 2026 15:12:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "것도",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 “저를 살려준 것도, 이 자리 이끌어 준 것도 SNS…국민과 더 소통” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jZ3JPdFVCdV9NQUtZdXpTYVlaOGRXa18wbnVLUlJWMUNJLUx1ajVDOG1YYTZmMThmLVd3UTNocG1KRkxWd1Ztc0pMRWdhZDJ1eHd4R3lmYUJfaF9fOVZQNVM0a3pSRldBOEZmUUZGTDVLTlow?oc=5",
-          "source": "Google News",
-          "published": "Wed, 30 Sep 2026 13:25:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "10월",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "10월의 첫날, 전국에 찬 바람…기온 낮아져 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UbHR3R1ZwOGRJT3pWQ01OaVBSaWlJWlJYTXI5ZzFabFpJRjNvcDVMZEFZREZRaFlkREEzN0U4VlJxNEFQZ3NyYldDamhYRDhTcGNVVHdoZnpicW8?oc=5",
-          "source": "Google News",
-          "published": "Wed, 30 Sep 2026 20:03:21 GMT"
-        },
-        {
-          "title": "\"10월 증시 분위기 바뀌나\"…삼전닉스 개미들 긴장하는 이유 [분석+] - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KRnJ0cWtrbVJYR1Y3WlczZ2NMdFVteWR6VDRuTXIzSDJlbUdxX0xSX2FRNGxSS2podWRETWRZdGhGbUxWUlhFMXQ1dnVFZk5vSHhPWERwY0VEZw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 29 Sep 2026 21:30:06 GMT"
         }
       ]
     },
@@ -141,156 +59,274 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "추경호 징역 20년 구형에…대구 시민사회 “내란 진실 밝히고 법적 책임 져야” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBULThrRHNQOFBQMTQzZ1N2Z2plSkloemcxbnpzcm1XTTJNUEdIQjRTZ1BTcThkS1BzM1ozT3FsX2tjZWpZdi1xRHU0VzZjdzVsNUo1akdYNGN5bjhEeWJEVTVZcEU?oc=5",
+          "title": "법원 “김승원 통해 청탁 명백”…제넨셀 설립자 징역 4년 법정구속 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4anluNnZaOWZ0MWoxVF9VeVFUNFNESG1WQmxOWEFpYzVaRldNRkJLUXhaZi1MTGRiLWFlWmJRRjMwQ2NrTldncTZHNktYVmRuSnpQR29XU3ZVRjQ2ZTA5UnpDSVVYTVpfcTdXNTQzMTVEZw?oc=5",
           "source": "Google News",
-          "published": "Wed, 30 Sep 2026 08:50:00 GMT"
+          "published": "Wed, 30 Sep 2026 08:12:00 GMT"
         },
         {
-          "title": "'모텔 출산 신생아 사망' 20대 친모, 징역 15년 구형 - 한국일보",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IanROUzdDUk04NGdWZmtkOFh0b2dfNm15RlpBT29WWFFja19kTkN1dTQ1bFVVTEN0THJON1NwdWZkbU1XM012OXBUcXk1SnNRRXNkM0J1S216TEV3TldBckNRWnQ5b3hZS0pFU2Vn0gFzQVVfeXFMTkRISVRKbUtrX3B3ck84SnQzZGFHcDQ5dnJTVnAxUTgwcW1SX3huUE9MWllFVzA3VlBWYUZuUk5qeTB1NGRYV1NyS3JRV3FGRlg4Q1pXTVRyM2JkSGpHeHlhV19aVWI3VDlfbWdhUzlvcUYxSQ?oc=5",
+          "title": "특검, ’계엄 해제 방해’ 추경호 징역 20년 구형…“내란 적극 가담“ - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Wazk2cXJIbVB3Y2xPdWRYYU5aWWp5Ujkta1Q2MDU4UEE0WHZDM0E5bEE1V3RMMXB0cXVHOTIxU2pYUTNHUUpTWXpBQmkybHBVY2V2UVA0VG9Wb1NmWTVwQVlvaEtXRkk?oc=5",
           "source": "Google News",
-          "published": "Wed, 30 Sep 2026 06:02:00 GMT"
+          "published": "Wed, 30 Sep 2026 06:18:00 GMT"
         }
       ]
     },
     {
-      "word": "사망",
+      "word": "개발",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "'모텔 출산 신생아 사망' 20대 친모, 징역 15년 구형 - 한국일보",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IanROUzdDUk04NGdWZmtkOFh0b2dfNm15RlpBT29WWFFja19kTkN1dTQ1bFVVTEN0THJON1NwdWZkbU1XM012OXBUcXk1SnNRRXNkM0J1S216TEV3TldBckNRWnQ5b3hZS0pFU2Vn0gFzQVVfeXFMTkRISVRKbUtrX3B3ck84SnQzZGFHcDQ5dnJTVnAxUTgwcW1SX3huUE9MWllFVzA3VlBWYUZuUk5qeTB1NGRYV1NyS3JRV3FGRlg4Q1pXTVRyM2JkSGpHeHlhV19aVWI3VDlfbWdhUzlvcUYxSQ?oc=5",
+          "title": "[속보] 트럼프, 한국 대미투자 발표‥'알래스카 LNG 개발' 포함 - imnews.imbc.com",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qQ3Ntb3lNMHhESmh1NUFPN0pVUkxQeTY0Z05TQ3ZESXF0UnpCcE03Tmd1RTBsOTdFcmIwa01XRUV2U3ZNNWtYZ2JsX2M0Rl9fY1JpV0Z1aXQ3VUptaEZkbWViQ1A1cHdnZjY2cThveTl4VVRP0gF0QVVfeXFMTjYxYXhIM2x3T0hZV3NlX0ZkY1dIeXNoRjFINjVrUG1oaVgzQ1plM0pCTnZhcVZOTHRlRC1FUWtvd3ZBZmZTX3gyWEZXaVlkTmMzT3dIT1YxaXZjX19nMjNhV1BlVEY2enp3UTkzSjFFckpVcFg?oc=5",
           "source": "Google News",
-          "published": "Wed, 30 Sep 2026 06:02:00 GMT"
+          "published": "Wed, 30 Sep 2026 20:37:56 GMT"
         },
         {
-          "title": "항생제 안 듣는 '슈퍼 박테리아' 감염 사망 85%, 60세 이상 고령층 - 한국부동산뉴스",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ENzVuMmZYR0JyVUZZaGR6SU94Q3RDemRGZEVjazNfaGJxV0FkNnppRTJidTBrVkRweHE0Mk40TGhGZVFiQ3Z4TUFFU2R3TmxycjBuY1o4VGtuZVVxVmtDbVhEVmhjTVprRUo4?oc=5",
+          "title": "“마우스만 움직이면 몬스터가 쓸려나간다”…대만 1인 개발 신작 ‘테일 스위퍼’ - 헝그리앱",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qQ1FWT2Q3NHBVbWp5b29YbVg0Y0stVUFmWHRXRkJDZU1IWVNFdEFVQ21xZUF2aTZUVUJ1UUdYUFNLbTN0TE9HUUc2Z3ZzeHJsekdiWWp5UWdqUDhNUUdNeEpkUEwwaFpHd1JZUHhyelhGN3V3?oc=5",
           "source": "Google News",
-          "published": "Wed, 30 Sep 2026 08:30:12 GMT"
+          "published": "Wed, 30 Sep 2026 22:59:23 GMT"
         }
       ]
     },
     {
-      "word": "새벽",
+      "word": "암살자",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프, 오늘 새벽 4시반 한국 대미투자 직접 발표…“알래스카 LNG 포함” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRFlFUHcxQWxYV1UxQ04zdTh1ckZFWW1xTEFfSHVXdlFudDVuQWRTRWRNbVpCRmRpeENwQ1lUOWEzUEoxN2plN3UzS2R5NFZneE1mWHlabllhZHlIbFhITzZGNkRBcU1Ra0pRUWJTN3VpNlV0RUhRbEJDLTFmR1BDQk5R?oc=5",
+          "title": "암살자(들) 감독 \"역사 왜곡 프레임 씌워…배우들 힘든 상태\" - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51MUo5M2hzUUpud2ZrekZKbFQxazNYMFJCYk1uT0trSXN4aEowbWVaaWlQM2FTSWszcFhGT0laQmM1YVp3SlQ0Yl96b050VUczcWlWWFhfRTNDZw?oc=5",
           "source": "Google News",
-          "published": "Wed, 30 Sep 2026 15:12:00 GMT"
+          "published": "Wed, 30 Sep 2026 08:06:46 GMT"
         },
         {
-          "title": "슈퍼컴퓨터로 ‘우주의 새벽’ 재현했다 - 서울신문",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVFFzOE5xV09kTnotdjJ0ekNKSXhZdGJfYTBXdm1vUGRYTWw1c0d3ZHpPbVU2ckZ2dm1GejVEcUVFSXlZanR5OVdXWUg3Rkd2ZE5YLV9tRE1ERXFJZHU5bHFfVkhPaEY4eUxRYkFlYV81V3l3eVVCTzRKWVRKYmtFag?oc=5",
+          "title": "'암살자(들)' 논란 속 예매율 41% 찍은 애니…日 슈퍼 IP '치이카와' 등장 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wQ0JKTEJMUllHU3h3czh4YmZQY2ZQUTFOTnp0X0FsMDNwYzFrS3Q2c2NWeEREZ09RWVh3VGItcjFxeF9ER3pQOFVubmM0Ymt5eHNDNzJYLWRPUQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 30 Sep 2026 15:48:10 GMT"
+          "published": "Wed, 30 Sep 2026 06:12:39 GMT"
         }
       ]
     },
     {
-      "word": "감소",
+      "word": "감독",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "새로운 AMD 드라이버로 RX 7000의 속도가 향상되었습니다. The Witcher 3 Remastered RX 9000에서 FPS가 감소했습니다. - GameGPU",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV0JpS25pYXA1d0JBMm9lRlo5MU1OU3d4MnFOR3hsR1VsZ0x4SkhBQmFORjNSWHZVWkVZbkxabVZBZmRDdEVoeTRjUWRVd0pLMFgyTWpsWVJZMXl3b21Oakh2X3ZUaEN5YU5MNU44NGt2ZlpCeGlDRnVHYUp5RWJPVDhsYTdrQ3ppdF9v?oc=5",
+          "title": "암살자(들) 감독 \"역사 왜곡 프레임 씌워…배우들 힘든 상태\" - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51MUo5M2hzUUpud2ZrekZKbFQxazNYMFJCYk1uT0trSXN4aEowbWVaaWlQM2FTSWszcFhGT0laQmM1YVp3SlQ0Yl96b050VUczcWlWWFhfRTNDZw?oc=5",
           "source": "Google News",
-          "published": "Wed, 30 Sep 2026 19:51:21 GMT"
+          "published": "Wed, 30 Sep 2026 08:06:46 GMT"
         },
         {
-          "title": "주사형 GLP-1서 위고비 경구제 전환 환자, 3개월 평균 체중 4.1% 감소 - e-의료정보",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uWEFUZWNGTlJFN0hYRGVuc1RPQlBkaGJoTjdmeXpuT3pPVnhka0o4b2N0MVJiZG1la3NIenZWelE3akQ1em9FUXZ5SU1yX0NTNnJySmNicUdXMVFHTXhybXdnVkM4UXNpR2Q00gFvQVVfeXFMTldNd2FyaHJsSUdseEw1M2pzR0c3V3V6dUVnWHBINF8tdUcxRnJVYTEzRUw4SlJ3NGFieW5JcVhQTGtQc1diWktCdVprZUwwN0JQNkdHLWpJNmV1c2tiU2dQQ2ZQdi00VXlZM09zdmg0?oc=5",
+          "title": "구교환·이옥섭 감독, 이미 부부였다…“2022년 혼인신고” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03U2xDWThwdktMS1Q5Zk41UTUyTTBUVW9FYU9CSWVJSjUtMHJPMWtxWXh2cUtub2k3WUNWMEdQTjZOUU5ONm83N1dVM3ZIWHhEcHlKYnhVQlFBcTRzUlBjZ0Vfay1RZw?oc=5",
           "source": "Google News",
-          "published": "Wed, 30 Sep 2026 11:23:42 GMT"
+          "published": "Wed, 30 Sep 2026 23:39:00 GMT"
         }
       ]
     },
     {
-      "word": "함께",
+      "word": "일본",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "삼성, AI 기능 강화한 갤럭시 탭 S12 시리즈 출시와 함께 가격 인상 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBETFotRWh5d3otb3p1akpaemZ2N3RsczdOZUhtV3JURm44NXlxUllXQWgyN0FtVkc5MGluX21aZWdKYUNBNUtJVTZiOGdELXhrSWhOMFp5WWVoVVFCRlhnaFhtaEJqSGZDWkVyNEQwRVo?oc=5",
+          "title": "'졸전 또 졸전'...내용 부실한 이민성호, 금메달 아니면 박수도 못 받는다→'숙적' 일본과 운명의 결승전 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhd3Zpbmd1NzBEVU1xN0pLVElpdkFScjVqM1BEZXhfSU9WalAwUnloYWtONnRheUpNQUFZclBNTlBSUHdUNlJTX2txMXJMd0E?oc=5",
           "source": "Google News",
-          "published": "Wed, 30 Sep 2026 12:50:00 GMT"
+          "published": "Wed, 30 Sep 2026 22:15:58 GMT"
         },
         {
-          "title": "“혈당만 보면 놓친다”… 당뇨병 환자, 심부전 위험 높이는 ‘이 수치’ 함께 살펴야 - 하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXQ2FEX0djTzJzQkFRblNvV1RpUGp4NFhTT2ZoZlhpN1NxdXJnYU5salczN21hX3YyQmlwZUQwSHJZWk9HN3JzZ0Q1alFGaTdTbDh6MTE3NlQwVGxOelB2b3JmRi1kN1M0NUE?oc=5",
+          "title": "“일본에서 애국가 행복”…기록 제조기 ‘안세영’ 금의환향 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZQVI3S0U2OUtLVnpVWXVoMVZMRjN3SnhnWUNrcUhLdEVXMlpqMFBWMUQ1MkM5ZnA3cTE1M0VkSTQ3RUZPYi1Ic2UzNXQyRG56OXRDT1NGdWRCdkhHekNYUkw5aDk3Zw?oc=5",
           "source": "Google News",
-          "published": "Wed, 30 Sep 2026 08:00:00 GMT"
+          "published": "Wed, 30 Sep 2026 21:44:00 GMT"
         }
       ]
     },
     {
-      "word": "서인영",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "서인영, 태어나 처음 지하철 탑승 \"용돈 많이 받은 덕분에 택시 탔어\"('개과천선 서인영') - 조선비즈 - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb1JTWVpILVlpT0NkUTg4QWFOS0RQYmMwTzBfT1Bpb1hiMldheE1XZlppTy1PTC1SQks5N2Y5cHVYaGNaVkRmb0NOMm5FWWJEaEV2S0lhak0ySE5OSnF1dGU5MzFLSjdMSnZRMkJ4QTBLamVJbzFmazlaSW1wbzFSV2l6TXIzY1o4YlgzZ1JLb1RqZEnSAacBQVVfeXFMTkdIWHVJdThqVXJKa1Q1QTNqTnZfWTFkOUQzc0JLQV9WUEx4V29VR0N2ejdrWXpabzduaFc0Q01ESWlPdGtkNjhQZkZ2WEZwbmZnekNSRlMzd0p1czZvTFZwSzhqc3kxM0ZBWC13N1BVQTNEdmlHU1JQdVQydko3ZkJCMVlDLVlLOE5YWks0U09pUlZIbFd0a1JQeXllOWVndEJRTDNhSkE?oc=5",
-          "source": "Google News",
-          "published": "Wed, 30 Sep 2026 10:29:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "환자",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "주사형 GLP-1서 위고비 경구제 전환 환자, 3개월 평균 체중 4.1% 감소 - e-의료정보",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uWEFUZWNGTlJFN0hYRGVuc1RPQlBkaGJoTjdmeXpuT3pPVnhka0o4b2N0MVJiZG1la3NIenZWelE3akQ1em9FUXZ5SU1yX0NTNnJySmNicUdXMVFHTXhybXdnVkM4UXNpR2Q00gFvQVVfeXFMTldNd2FyaHJsSUdseEw1M2pzR0c3V3V6dUVnWHBINF8tdUcxRnJVYTEzRUw4SlJ3NGFieW5JcVhQTGtQc1diWktCdVprZUwwN0JQNkdHLWpJNmV1c2tiU2dQQ2ZQdi00VXlZM09zdmg0?oc=5",
-          "source": "Google News",
-          "published": "Wed, 30 Sep 2026 11:23:42 GMT"
-        },
-        {
-          "title": "“혈당만 보면 놓친다”… 당뇨병 환자, 심부전 위험 높이는 ‘이 수치’ 함께 살펴야 - 하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXQ2FEX0djTzJzQkFRblNvV1RpUGp4NFhTT2ZoZlhpN1NxdXJnYU5salczN21hX3YyQmlwZUQwSHJZWk9HN3JzZ0Q1alFGaTdTbDh6MTE3NlQwVGxOelB2b3JmRi1kN1M0NUE?oc=5",
-          "source": "Google News",
-          "published": "Wed, 30 Sep 2026 08:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "위험",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“혈당만 보면 놓친다”… 당뇨병 환자, 심부전 위험 높이는 ‘이 수치’ 함께 살펴야 - 하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXQ2FEX0djTzJzQkFRblNvV1RpUGp4NFhTT2ZoZlhpN1NxdXJnYU5salczN21hX3YyQmlwZUQwSHJZWk9HN3JzZ0Q1alFGaTdTbDh6MTE3NlQwVGxOelB2b3JmRi1kN1M0NUE?oc=5",
-          "source": "Google News",
-          "published": "Wed, 30 Sep 2026 08:00:00 GMT"
-        },
-        {
-          "title": "“목소리 20초 들으면 안다”…당뇨병 위험 판별하는 AI 나왔다[건강팩트체크] - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40djdOTUs4WlRSN0V0MUE3UlpMWi1WTmxLam5jcF9fWFFhYlFKelItUU5BaDhLVnhYemItVkgtbXJMSDR3ZElNM2FHek85bk0?oc=5",
-          "source": "Google News",
-          "published": "Wed, 30 Sep 2026 05:05:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "이재명",
+      "word": "김여정",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이재명 대통령 \"김지용 중수청장 후보자, '친윤검사' 비난은 납득 어려워\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13bVljX1dGZGFJR1AzU1BaUFczRDhtNDNnaV9kbENlTlIxWXI0WElURFNoV255TjRBblFQN29BUDJoWWd0dHBIV3NuZzZGeXZXd0pqbjFpR0xfVHcxSWZYamNfT2hERl9KMzBTQ016bGNoTC1MNDR1NdIBeEFVX3lxTE5XYk4zNURyczlhM1M5b1VvZGxPNzExNDB4YlRlMk83aGgweE4wZnBISWVkNEFMVjJkVDZXUzBUV2M4ZkRrSnd5SmZ3NHdkV3NSY1dKNElZMzV1RmZlV0ZVdGVLSWFHb05zOWRUbUVia09sUXZsWEVHWQ?oc=5",
+          "title": "김여정, 지뢰 발뺌하며 되레 협박… 軍 “향후 상황 모두 北책임” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KM3lPRlZ3RkdnbVRFX0V5cXVmMXJpSUVoaTZzQlBqZHRadUVlOW1zanlNRFYtSEV6cG9oUFBHOXhKRXBFZFR5Y1BlSGJZeVE?oc=5",
           "source": "Google News",
-          "published": "Wed, 30 Sep 2026 15:36:41 GMT"
+          "published": "Wed, 30 Sep 2026 19:34:59 GMT"
+        }
+      ]
+    },
+    {
+      "word": "지뢰",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김여정, 지뢰 발뺌하며 되레 협박… 軍 “향후 상황 모두 北책임” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KM3lPRlZ3RkdnbVRFX0V5cXVmMXJpSUVoaTZzQlBqZHRadUVlOW1zanlNRFYtSEV6cG9oUFBHOXhKRXBFZFR5Y1BlSGJZeVE?oc=5",
+          "source": "Google News",
+          "published": "Wed, 30 Sep 2026 19:34:59 GMT"
+        }
+      ]
+    },
+    {
+      "word": "발뺌",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김여정, 지뢰 발뺌하며 되레 협박… 軍 “향후 상황 모두 北책임” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KM3lPRlZ3RkdnbVRFX0V5cXVmMXJpSUVoaTZzQlBqZHRadUVlOW1zanlNRFYtSEV6cG9oUFBHOXhKRXBFZFR5Y1BlSGJZeVE?oc=5",
+          "source": "Google News",
+          "published": "Wed, 30 Sep 2026 19:34:59 GMT"
+        }
+      ]
+    },
+    {
+      "word": "되레",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김여정, 지뢰 발뺌하며 되레 협박… 軍 “향후 상황 모두 北책임” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KM3lPRlZ3RkdnbVRFX0V5cXVmMXJpSUVoaTZzQlBqZHRadUVlOW1zanlNRFYtSEV6cG9oUFBHOXhKRXBFZFR5Y1BlSGJZeVE?oc=5",
+          "source": "Google News",
+          "published": "Wed, 30 Sep 2026 19:34:59 GMT"
+        }
+      ]
+    },
+    {
+      "word": "협박",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김여정, 지뢰 발뺌하며 되레 협박… 軍 “향후 상황 모두 北책임” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KM3lPRlZ3RkdnbVRFX0V5cXVmMXJpSUVoaTZzQlBqZHRadUVlOW1zanlNRFYtSEV6cG9oUFBHOXhKRXBFZFR5Y1BlSGJZeVE?oc=5",
+          "source": "Google News",
+          "published": "Wed, 30 Sep 2026 19:34:59 GMT"
+        }
+      ]
+    },
+    {
+      "word": "향후",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김여정, 지뢰 발뺌하며 되레 협박… 軍 “향후 상황 모두 北책임” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KM3lPRlZ3RkdnbVRFX0V5cXVmMXJpSUVoaTZzQlBqZHRadUVlOW1zanlNRFYtSEV6cG9oUFBHOXhKRXBFZFR5Y1BlSGJZeVE?oc=5",
+          "source": "Google News",
+          "published": "Wed, 30 Sep 2026 19:34:59 GMT"
+        }
+      ]
+    },
+    {
+      "word": "모두",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김여정, 지뢰 발뺌하며 되레 협박… 軍 “향후 상황 모두 北책임” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KM3lPRlZ3RkdnbVRFX0V5cXVmMXJpSUVoaTZzQlBqZHRadUVlOW1zanlNRFYtSEV6cG9oUFBHOXhKRXBFZFR5Y1BlSGJZeVE?oc=5",
+          "source": "Google News",
+          "published": "Wed, 30 Sep 2026 19:34:59 GMT"
+        }
+      ]
+    },
+    {
+      "word": "책임",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김여정, 지뢰 발뺌하며 되레 협박… 軍 “향후 상황 모두 北책임” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KM3lPRlZ3RkdnbVRFX0V5cXVmMXJpSUVoaTZzQlBqZHRadUVlOW1zanlNRFYtSEV6cG9oUFBHOXhKRXBFZFR5Y1BlSGJZeVE?oc=5",
+          "source": "Google News",
+          "published": "Wed, 30 Sep 2026 19:34:59 GMT"
+        }
+      ]
+    },
+    {
+      "word": "강행",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "강행 땐 강경파 반발, 철회 땐 리더십 타격… ‘김지용 딜레마’ - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONHJHRnUzSHlyV1VsSExsRW9PeGdDSWVnaUZQTlVzOU9fM2RSYXA2Y2ZBb21BanlCYndCUkhERmFMTmhWMzJkSzRWd3pqN3M3d1NtZUQtS25EU0JlSU5BY1lJbTl4U19yTDFndHN3QmdzTTNTd0NFcXJGbVN3Z0pwRlJ5S3MxOGV4?oc=5",
+          "source": "Google News",
+          "published": "Wed, 30 Sep 2026 15:46:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "강경파",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "강행 땐 강경파 반발, 철회 땐 리더십 타격… ‘김지용 딜레마’ - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONHJHRnUzSHlyV1VsSExsRW9PeGdDSWVnaUZQTlVzOU9fM2RSYXA2Y2ZBb21BanlCYndCUkhERmFMTmhWMzJkSzRWd3pqN3M3d1NtZUQtS25EU0JlSU5BY1lJbTl4U19yTDFndHN3QmdzTTNTd0NFcXJGbVN3Z0pwRlJ5S3MxOGV4?oc=5",
+          "source": "Google News",
+          "published": "Wed, 30 Sep 2026 15:46:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "반발",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "강행 땐 강경파 반발, 철회 땐 리더십 타격… ‘김지용 딜레마’ - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONHJHRnUzSHlyV1VsSExsRW9PeGdDSWVnaUZQTlVzOU9fM2RSYXA2Y2ZBb21BanlCYndCUkhERmFMTmhWMzJkSzRWd3pqN3M3d1NtZUQtS25EU0JlSU5BY1lJbTl4U19yTDFndHN3QmdzTTNTd0NFcXJGbVN3Z0pwRlJ5S3MxOGV4?oc=5",
+          "source": "Google News",
+          "published": "Wed, 30 Sep 2026 15:46:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "철회",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "강행 땐 강경파 반발, 철회 땐 리더십 타격… ‘김지용 딜레마’ - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONHJHRnUzSHlyV1VsSExsRW9PeGdDSWVnaUZQTlVzOU9fM2RSYXA2Y2ZBb21BanlCYndCUkhERmFMTmhWMzJkSzRWd3pqN3M3d1NtZUQtS25EU0JlSU5BY1lJbTl4U19yTDFndHN3QmdzTTNTd0NFcXJGbVN3Z0pwRlJ5S3MxOGV4?oc=5",
+          "source": "Google News",
+          "published": "Wed, 30 Sep 2026 15:46:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "리더십",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "강행 땐 강경파 반발, 철회 땐 리더십 타격… ‘김지용 딜레마’ - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONHJHRnUzSHlyV1VsSExsRW9PeGdDSWVnaUZQTlVzOU9fM2RSYXA2Y2ZBb21BanlCYndCUkhERmFMTmhWMzJkSzRWd3pqN3M3d1NtZUQtS25EU0JlSU5BY1lJbTl4U19yTDFndHN3QmdzTTNTd0NFcXJGbVN3Z0pwRlJ5S3MxOGV4?oc=5",
+          "source": "Google News",
+          "published": "Wed, 30 Sep 2026 15:46:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "타격",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "강행 땐 강경파 반발, 철회 땐 리더십 타격… ‘김지용 딜레마’ - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONHJHRnUzSHlyV1VsSExsRW9PeGdDSWVnaUZQTlVzOU9fM2RSYXA2Y2ZBb21BanlCYndCUkhERmFMTmhWMzJkSzRWd3pqN3M3d1NtZUQtS25EU0JlSU5BY1lJbTl4U19yTDFndHN3QmdzTTNTd0NFcXJGbVN3Z0pwRlJ5S3MxOGV4?oc=5",
+          "source": "Google News",
+          "published": "Wed, 30 Sep 2026 15:46:00 GMT"
         }
       ]
     },
@@ -300,309 +336,127 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "이재명 대통령 \"김지용 중수청장 후보자, '친윤검사' 비난은 납득 어려워\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13bVljX1dGZGFJR1AzU1BaUFczRDhtNDNnaV9kbENlTlIxWXI0WElURFNoV255TjRBblFQN29BUDJoWWd0dHBIV3NuZzZGeXZXd0pqbjFpR0xfVHcxSWZYamNfT2hERl9KMzBTQ016bGNoTC1MNDR1NdIBeEFVX3lxTE5XYk4zNURyczlhM1M5b1VvZGxPNzExNDB4YlRlMk83aGgweE4wZnBISWVkNEFMVjJkVDZXUzBUV2M4ZkRrSnd5SmZ3NHdkV3NSY1dKNElZMzV1RmZlV0ZVdGVLSWFHb05zOWRUbUVia09sUXZsWEVHWQ?oc=5",
+          "title": "강행 땐 강경파 반발, 철회 땐 리더십 타격… ‘김지용 딜레마’ - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONHJHRnUzSHlyV1VsSExsRW9PeGdDSWVnaUZQTlVzOU9fM2RSYXA2Y2ZBb21BanlCYndCUkhERmFMTmhWMzJkSzRWd3pqN3M3d1NtZUQtS25EU0JlSU5BY1lJbTl4U19yTDFndHN3QmdzTTNTd0NFcXJGbVN3Z0pwRlJ5S3MxOGV4?oc=5",
           "source": "Google News",
-          "published": "Wed, 30 Sep 2026 15:36:41 GMT"
+          "published": "Wed, 30 Sep 2026 15:46:00 GMT"
         }
       ]
     },
     {
-      "word": "중수청장",
+      "word": "딜레마",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이재명 대통령 \"김지용 중수청장 후보자, '친윤검사' 비난은 납득 어려워\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13bVljX1dGZGFJR1AzU1BaUFczRDhtNDNnaV9kbENlTlIxWXI0WElURFNoV255TjRBblFQN29BUDJoWWd0dHBIV3NuZzZGeXZXd0pqbjFpR0xfVHcxSWZYamNfT2hERl9KMzBTQ016bGNoTC1MNDR1NdIBeEFVX3lxTE5XYk4zNURyczlhM1M5b1VvZGxPNzExNDB4YlRlMk83aGgweE4wZnBISWVkNEFMVjJkVDZXUzBUV2M4ZkRrSnd5SmZ3NHdkV3NSY1dKNElZMzV1RmZlV0ZVdGVLSWFHb05zOWRUbUVia09sUXZsWEVHWQ?oc=5",
+          "title": "강행 땐 강경파 반발, 철회 땐 리더십 타격… ‘김지용 딜레마’ - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONHJHRnUzSHlyV1VsSExsRW9PeGdDSWVnaUZQTlVzOU9fM2RSYXA2Y2ZBb21BanlCYndCUkhERmFMTmhWMzJkSzRWd3pqN3M3d1NtZUQtS25EU0JlSU5BY1lJbTl4U19yTDFndHN3QmdzTTNTd0NFcXJGbVN3Z0pwRlJ5S3MxOGV4?oc=5",
           "source": "Google News",
-          "published": "Wed, 30 Sep 2026 15:36:41 GMT"
+          "published": "Wed, 30 Sep 2026 15:46:00 GMT"
         }
       ]
     },
     {
-      "word": "후보자",
+      "word": "10월",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이재명 대통령 \"김지용 중수청장 후보자, '친윤검사' 비난은 납득 어려워\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13bVljX1dGZGFJR1AzU1BaUFczRDhtNDNnaV9kbENlTlIxWXI0WElURFNoV255TjRBblFQN29BUDJoWWd0dHBIV3NuZzZGeXZXd0pqbjFpR0xfVHcxSWZYamNfT2hERl9KMzBTQ016bGNoTC1MNDR1NdIBeEFVX3lxTE5XYk4zNURyczlhM1M5b1VvZGxPNzExNDB4YlRlMk83aGgweE4wZnBISWVkNEFMVjJkVDZXUzBUV2M4ZkRrSnd5SmZ3NHdkV3NSY1dKNElZMzV1RmZlV0ZVdGVLSWFHb05zOWRUbUVia09sUXZsWEVHWQ?oc=5",
+          "title": "10월의 첫날은 찬 공기에 쌀쌀…낮 기온 어제보다 5도 ‘뚝’ - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aWkR5a09jNnFfMmdUZm50Wk9uWmxEVzZ0Ry1sdjQ5RHVRSHZNck1lYkhSVlQwWXQ0S1VsSkgxQUNsRlBEU0JvYzQ2Y2ExUlBhcFlrSF9KdHZVZ9IBX0FVX3lxTE53VFBTczE4NWtqdUpuXzF1VW9IVzlMaXZZRVBYd1AzaUtCUjlHNk0wSkI3cV9FdVp6RklWRXU1b0RCeFR0QVh0SXFHekdPUUxRR3UteGd2N3EzOTNGZjZj?oc=5",
           "source": "Google News",
-          "published": "Wed, 30 Sep 2026 15:36:41 GMT"
+          "published": "Wed, 30 Sep 2026 22:12:00 GMT"
         }
       ]
     },
     {
-      "word": "친윤검사",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "이재명 대통령 \"김지용 중수청장 후보자, '친윤검사' 비난은 납득 어려워\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13bVljX1dGZGFJR1AzU1BaUFczRDhtNDNnaV9kbENlTlIxWXI0WElURFNoV255TjRBblFQN29BUDJoWWd0dHBIV3NuZzZGeXZXd0pqbjFpR0xfVHcxSWZYamNfT2hERl9KMzBTQ016bGNoTC1MNDR1NdIBeEFVX3lxTE5XYk4zNURyczlhM1M5b1VvZGxPNzExNDB4YlRlMk83aGgweE4wZnBISWVkNEFMVjJkVDZXUzBUV2M4ZkRrSnd5SmZ3NHdkV3NSY1dKNElZMzV1RmZlV0ZVdGVLSWFHb05zOWRUbUVia09sUXZsWEVHWQ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 30 Sep 2026 15:36:41 GMT"
-        }
-      ]
-    },
-    {
-      "word": "납득",
+      "word": "첫날",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이재명 대통령 \"김지용 중수청장 후보자, '친윤검사' 비난은 납득 어려워\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13bVljX1dGZGFJR1AzU1BaUFczRDhtNDNnaV9kbENlTlIxWXI0WElURFNoV255TjRBblFQN29BUDJoWWd0dHBIV3NuZzZGeXZXd0pqbjFpR0xfVHcxSWZYamNfT2hERl9KMzBTQ016bGNoTC1MNDR1NdIBeEFVX3lxTE5XYk4zNURyczlhM1M5b1VvZGxPNzExNDB4YlRlMk83aGgweE4wZnBISWVkNEFMVjJkVDZXUzBUV2M4ZkRrSnd5SmZ3NHdkV3NSY1dKNElZMzV1RmZlV0ZVdGVLSWFHb05zOWRUbUVia09sUXZsWEVHWQ?oc=5",
+          "title": "10월의 첫날은 찬 공기에 쌀쌀…낮 기온 어제보다 5도 ‘뚝’ - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aWkR5a09jNnFfMmdUZm50Wk9uWmxEVzZ0Ry1sdjQ5RHVRSHZNck1lYkhSVlQwWXQ0S1VsSkgxQUNsRlBEU0JvYzQ2Y2ExUlBhcFlrSF9KdHZVZ9IBX0FVX3lxTE53VFBTczE4NWtqdUpuXzF1VW9IVzlMaXZZRVBYd1AzaUtCUjlHNk0wSkI3cV9FdVp6RklWRXU1b0RCeFR0QVh0SXFHekdPUUxRR3UteGd2N3EzOTNGZjZj?oc=5",
           "source": "Google News",
-          "published": "Wed, 30 Sep 2026 15:36:41 GMT"
+          "published": "Wed, 30 Sep 2026 22:12:00 GMT"
         }
       ]
     },
     {
-      "word": "어려워",
+      "word": "공기",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이재명 대통령 \"김지용 중수청장 후보자, '친윤검사' 비난은 납득 어려워\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13bVljX1dGZGFJR1AzU1BaUFczRDhtNDNnaV9kbENlTlIxWXI0WElURFNoV255TjRBblFQN29BUDJoWWd0dHBIV3NuZzZGeXZXd0pqbjFpR0xfVHcxSWZYamNfT2hERl9KMzBTQ016bGNoTC1MNDR1NdIBeEFVX3lxTE5XYk4zNURyczlhM1M5b1VvZGxPNzExNDB4YlRlMk83aGgweE4wZnBISWVkNEFMVjJkVDZXUzBUV2M4ZkRrSnd5SmZ3NHdkV3NSY1dKNElZMzV1RmZlV0ZVdGVLSWFHb05zOWRUbUVia09sUXZsWEVHWQ?oc=5",
+          "title": "10월의 첫날은 찬 공기에 쌀쌀…낮 기온 어제보다 5도 ‘뚝’ - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aWkR5a09jNnFfMmdUZm50Wk9uWmxEVzZ0Ry1sdjQ5RHVRSHZNck1lYkhSVlQwWXQ0S1VsSkgxQUNsRlBEU0JvYzQ2Y2ExUlBhcFlrSF9KdHZVZ9IBX0FVX3lxTE53VFBTczE4NWtqdUpuXzF1VW9IVzlMaXZZRVBYd1AzaUtCUjlHNk0wSkI3cV9FdVp6RklWRXU1b0RCeFR0QVh0SXFHekdPUUxRR3UteGd2N3EzOTNGZjZj?oc=5",
           "source": "Google News",
-          "published": "Wed, 30 Sep 2026 15:36:41 GMT"
+          "published": "Wed, 30 Sep 2026 22:12:00 GMT"
         }
       ]
     },
     {
-      "word": "수사권",
+      "word": "쌀쌀낮",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[단독] 수사권 없는 공소청…중대사건은 피의자 만나 직접 ‘듣는다’ - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbm9jbDQ0YTBkU19qQWFjRUc3dm1IZ2x4NkNIU0RGcC1NbEdKRVA4akVISmQwTlBEV3Y3dlpoSll1RUI5aENHMjZYYkpWQ25HUkxuaDZiNk1IMWhicWJfbmVxOWVrRjZnNHVPdlhqUWFsbmhDV3hFTFhGSk5rTkhiT2Z3RVpaQmM?oc=5",
+          "title": "10월의 첫날은 찬 공기에 쌀쌀…낮 기온 어제보다 5도 ‘뚝’ - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aWkR5a09jNnFfMmdUZm50Wk9uWmxEVzZ0Ry1sdjQ5RHVRSHZNck1lYkhSVlQwWXQ0S1VsSkgxQUNsRlBEU0JvYzQ2Y2ExUlBhcFlrSF9KdHZVZ9IBX0FVX3lxTE53VFBTczE4NWtqdUpuXzF1VW9IVzlMaXZZRVBYd1AzaUtCUjlHNk0wSkI3cV9FdVp6RklWRXU1b0RCeFR0QVh0SXFHekdPUUxRR3UteGd2N3EzOTNGZjZj?oc=5",
           "source": "Google News",
-          "published": "Wed, 30 Sep 2026 05:41:21 GMT"
+          "published": "Wed, 30 Sep 2026 22:12:00 GMT"
         }
       ]
     },
     {
-      "word": "없는",
+      "word": "기온",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[단독] 수사권 없는 공소청…중대사건은 피의자 만나 직접 ‘듣는다’ - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbm9jbDQ0YTBkU19qQWFjRUc3dm1IZ2x4NkNIU0RGcC1NbEdKRVA4akVISmQwTlBEV3Y3dlpoSll1RUI5aENHMjZYYkpWQ25HUkxuaDZiNk1IMWhicWJfbmVxOWVrRjZnNHVPdlhqUWFsbmhDV3hFTFhGSk5rTkhiT2Z3RVpaQmM?oc=5",
+          "title": "10월의 첫날은 찬 공기에 쌀쌀…낮 기온 어제보다 5도 ‘뚝’ - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aWkR5a09jNnFfMmdUZm50Wk9uWmxEVzZ0Ry1sdjQ5RHVRSHZNck1lYkhSVlQwWXQ0S1VsSkgxQUNsRlBEU0JvYzQ2Y2ExUlBhcFlrSF9KdHZVZ9IBX0FVX3lxTE53VFBTczE4NWtqdUpuXzF1VW9IVzlMaXZZRVBYd1AzaUtCUjlHNk0wSkI3cV9FdVp6RklWRXU1b0RCeFR0QVh0SXFHekdPUUxRR3UteGd2N3EzOTNGZjZj?oc=5",
           "source": "Google News",
-          "published": "Wed, 30 Sep 2026 05:41:21 GMT"
+          "published": "Wed, 30 Sep 2026 22:12:00 GMT"
         }
       ]
     },
     {
-      "word": "공소청중대사건",
+      "word": "어제보다",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[단독] 수사권 없는 공소청…중대사건은 피의자 만나 직접 ‘듣는다’ - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbm9jbDQ0YTBkU19qQWFjRUc3dm1IZ2x4NkNIU0RGcC1NbEdKRVA4akVISmQwTlBEV3Y3dlpoSll1RUI5aENHMjZYYkpWQ25HUkxuaDZiNk1IMWhicWJfbmVxOWVrRjZnNHVPdlhqUWFsbmhDV3hFTFhGSk5rTkhiT2Z3RVpaQmM?oc=5",
+          "title": "10월의 첫날은 찬 공기에 쌀쌀…낮 기온 어제보다 5도 ‘뚝’ - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aWkR5a09jNnFfMmdUZm50Wk9uWmxEVzZ0Ry1sdjQ5RHVRSHZNck1lYkhSVlQwWXQ0S1VsSkgxQUNsRlBEU0JvYzQ2Y2ExUlBhcFlrSF9KdHZVZ9IBX0FVX3lxTE53VFBTczE4NWtqdUpuXzF1VW9IVzlMaXZZRVBYd1AzaUtCUjlHNk0wSkI3cV9FdVp6RklWRXU1b0RCeFR0QVh0SXFHekdPUUxRR3UteGd2N3EzOTNGZjZj?oc=5",
           "source": "Google News",
-          "published": "Wed, 30 Sep 2026 05:41:21 GMT"
+          "published": "Wed, 30 Sep 2026 22:12:00 GMT"
         }
       ]
     },
     {
-      "word": "피의자",
+      "word": "5도",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[단독] 수사권 없는 공소청…중대사건은 피의자 만나 직접 ‘듣는다’ - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbm9jbDQ0YTBkU19qQWFjRUc3dm1IZ2x4NkNIU0RGcC1NbEdKRVA4akVISmQwTlBEV3Y3dlpoSll1RUI5aENHMjZYYkpWQ25HUkxuaDZiNk1IMWhicWJfbmVxOWVrRjZnNHVPdlhqUWFsbmhDV3hFTFhGSk5rTkhiT2Z3RVpaQmM?oc=5",
+          "title": "10월의 첫날은 찬 공기에 쌀쌀…낮 기온 어제보다 5도 ‘뚝’ - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aWkR5a09jNnFfMmdUZm50Wk9uWmxEVzZ0Ry1sdjQ5RHVRSHZNck1lYkhSVlQwWXQ0S1VsSkgxQUNsRlBEU0JvYzQ2Y2ExUlBhcFlrSF9KdHZVZ9IBX0FVX3lxTE53VFBTczE4NWtqdUpuXzF1VW9IVzlMaXZZRVBYd1AzaUtCUjlHNk0wSkI3cV9FdVp6RklWRXU1b0RCeFR0QVh0SXFHekdPUUxRR3UteGd2N3EzOTNGZjZj?oc=5",
           "source": "Google News",
-          "published": "Wed, 30 Sep 2026 05:41:21 GMT"
+          "published": "Wed, 30 Sep 2026 22:12:00 GMT"
         }
       ]
     },
     {
-      "word": "만나",
+      "word": "대통령",
       "count": 1,
-      "category": "NOUN",
+      "category": "PERSON",
       "articles": [
         {
-          "title": "[단독] 수사권 없는 공소청…중대사건은 피의자 만나 직접 ‘듣는다’ - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbm9jbDQ0YTBkU19qQWFjRUc3dm1IZ2x4NkNIU0RGcC1NbEdKRVA4akVISmQwTlBEV3Y3dlpoSll1RUI5aENHMjZYYkpWQ25HUkxuaDZiNk1IMWhicWJfbmVxOWVrRjZnNHVPdlhqUWFsbmhDV3hFTFhGSk5rTkhiT2Z3RVpaQmM?oc=5",
+          "title": "이 대통령 “SNS는 국민과의 직접 소통 통로…어려울수록 직접 보고하고 호소해야” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aRU5mZXRELXpYbjNudHloSlhEUnYtc3lkUEtkY1NVbWlEYmttSFBSSjFhSkJ1YzF2STNzeXRlVG5uQjN5SjVWSjNaTG5rTUJwZ180WnpSejRRYUk?oc=5",
           "source": "Google News",
-          "published": "Wed, 30 Sep 2026 05:41:21 GMT"
-        }
-      ]
-    },
-    {
-      "word": "듣는다",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[단독] 수사권 없는 공소청…중대사건은 피의자 만나 직접 ‘듣는다’ - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbm9jbDQ0YTBkU19qQWFjRUc3dm1IZ2x4NkNIU0RGcC1NbEdKRVA4akVISmQwTlBEV3Y3dlpoSll1RUI5aENHMjZYYkpWQ25HUkxuaDZiNk1IMWhicWJfbmVxOWVrRjZnNHVPdlhqUWFsbmhDV3hFTFhGSk5rTkhiT2Z3RVpaQmM?oc=5",
-          "source": "Google News",
-          "published": "Wed, 30 Sep 2026 05:41:21 GMT"
-        }
-      ]
-    },
-    {
-      "word": "저를",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 “저를 살려준 것도, 이 자리 이끌어 준 것도 SNS…국민과 더 소통” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jZ3JPdFVCdV9NQUtZdXpTYVlaOGRXa18wbnVLUlJWMUNJLUx1ajVDOG1YYTZmMThmLVd3UTNocG1KRkxWd1Ztc0pMRWdhZDJ1eHd4R3lmYUJfaF9fOVZQNVM0a3pSRldBOEZmUUZGTDVLTlow?oc=5",
-          "source": "Google News",
-          "published": "Wed, 30 Sep 2026 13:25:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "살려준",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 “저를 살려준 것도, 이 자리 이끌어 준 것도 SNS…국민과 더 소통” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jZ3JPdFVCdV9NQUtZdXpTYVlaOGRXa18wbnVLUlJWMUNJLUx1ajVDOG1YYTZmMThmLVd3UTNocG1KRkxWd1Ztc0pMRWdhZDJ1eHd4R3lmYUJfaF9fOVZQNVM0a3pSRldBOEZmUUZGTDVLTlow?oc=5",
-          "source": "Google News",
-          "published": "Wed, 30 Sep 2026 13:25:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "자리",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 “저를 살려준 것도, 이 자리 이끌어 준 것도 SNS…국민과 더 소통” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jZ3JPdFVCdV9NQUtZdXpTYVlaOGRXa18wbnVLUlJWMUNJLUx1ajVDOG1YYTZmMThmLVd3UTNocG1KRkxWd1Ztc0pMRWdhZDJ1eHd4R3lmYUJfaF9fOVZQNVM0a3pSRldBOEZmUUZGTDVLTlow?oc=5",
-          "source": "Google News",
-          "published": "Wed, 30 Sep 2026 13:25:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "이끌어",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 “저를 살려준 것도, 이 자리 이끌어 준 것도 SNS…국민과 더 소통” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jZ3JPdFVCdV9NQUtZdXpTYVlaOGRXa18wbnVLUlJWMUNJLUx1ajVDOG1YYTZmMThmLVd3UTNocG1KRkxWd1Ztc0pMRWdhZDJ1eHd4R3lmYUJfaF9fOVZQNVM0a3pSRldBOEZmUUZGTDVLTlow?oc=5",
-          "source": "Google News",
-          "published": "Wed, 30 Sep 2026 13:25:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "SNS국민",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 “저를 살려준 것도, 이 자리 이끌어 준 것도 SNS…국민과 더 소통” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jZ3JPdFVCdV9NQUtZdXpTYVlaOGRXa18wbnVLUlJWMUNJLUx1ajVDOG1YYTZmMThmLVd3UTNocG1KRkxWd1Ztc0pMRWdhZDJ1eHd4R3lmYUJfaF9fOVZQNVM0a3pSRldBOEZmUUZGTDVLTlow?oc=5",
-          "source": "Google News",
-          "published": "Wed, 30 Sep 2026 13:25:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "소통",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 “저를 살려준 것도, 이 자리 이끌어 준 것도 SNS…국민과 더 소통” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jZ3JPdFVCdV9NQUtZdXpTYVlaOGRXa18wbnVLUlJWMUNJLUx1ajVDOG1YYTZmMThmLVd3UTNocG1KRkxWd1Ztc0pMRWdhZDJ1eHd4R3lmYUJfaF9fOVZQNVM0a3pSRldBOEZmUUZGTDVLTlow?oc=5",
-          "source": "Google News",
-          "published": "Wed, 30 Sep 2026 13:25:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "보디캠",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "보디캠 봤더니 \"무릎으로 기어서\"…폭발 순간은 없었다 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xeTJCQ2NkVWhEM2JsTmc1M1ZyblA3NEVXZ3lLNjIwdnlMS205aWk0R29SZGZFSjhtTFgzRXpWT2EzTWgzVGx1c21jQ1V3cnc?oc=5",
-          "source": "Google News",
-          "published": "Wed, 30 Sep 2026 11:15:13 GMT"
-        }
-      ]
-    },
-    {
-      "word": "봤더니",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "보디캠 봤더니 \"무릎으로 기어서\"…폭발 순간은 없었다 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xeTJCQ2NkVWhEM2JsTmc1M1ZyblA3NEVXZ3lLNjIwdnlMS205aWk0R29SZGZFSjhtTFgzRXpWT2EzTWgzVGx1c21jQ1V3cnc?oc=5",
-          "source": "Google News",
-          "published": "Wed, 30 Sep 2026 11:15:13 GMT"
-        }
-      ]
-    },
-    {
-      "word": "무릎",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "보디캠 봤더니 \"무릎으로 기어서\"…폭발 순간은 없었다 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xeTJCQ2NkVWhEM2JsTmc1M1ZyblA3NEVXZ3lLNjIwdnlMS205aWk0R29SZGZFSjhtTFgzRXpWT2EzTWgzVGx1c21jQ1V3cnc?oc=5",
-          "source": "Google News",
-          "published": "Wed, 30 Sep 2026 11:15:13 GMT"
-        }
-      ]
-    },
-    {
-      "word": "기어서폭발",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "보디캠 봤더니 \"무릎으로 기어서\"…폭발 순간은 없었다 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xeTJCQ2NkVWhEM2JsTmc1M1ZyblA3NEVXZ3lLNjIwdnlMS205aWk0R29SZGZFSjhtTFgzRXpWT2EzTWgzVGx1c21jQ1V3cnc?oc=5",
-          "source": "Google News",
-          "published": "Wed, 30 Sep 2026 11:15:13 GMT"
-        }
-      ]
-    },
-    {
-      "word": "순간",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "보디캠 봤더니 \"무릎으로 기어서\"…폭발 순간은 없었다 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xeTJCQ2NkVWhEM2JsTmc1M1ZyblA3NEVXZ3lLNjIwdnlMS205aWk0R29SZGZFSjhtTFgzRXpWT2EzTWgzVGx1c21jQ1V3cnc?oc=5",
-          "source": "Google News",
-          "published": "Wed, 30 Sep 2026 11:15:13 GMT"
-        }
-      ]
-    },
-    {
-      "word": "없었다",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "보디캠 봤더니 \"무릎으로 기어서\"…폭발 순간은 없었다 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xeTJCQ2NkVWhEM2JsTmc1M1ZyblA3NEVXZ3lLNjIwdnlMS205aWk0R29SZGZFSjhtTFgzRXpWT2EzTWgzVGx1c21jQ1V3cnc?oc=5",
-          "source": "Google News",
-          "published": "Wed, 30 Sep 2026 11:15:13 GMT"
+          "published": "Wed, 30 Sep 2026 22:11:00 GMT"
         }
       ]
     },
@@ -612,10 +466,114 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령 SNS에 대외비 문건…국힘 “선관위 특검 내통”, 청 “경찰 치안 보고” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54clVua2l2NEo2QXBvTlFEX0czZzRHR1BwUTNzWTJUc3I2U1RQeTdNbUw4UEV6cUJvT1RsV181QzdtOFRIemJCczQ1SXoyOGF0dWxySjg5OFJEc2hvemFhRTJMQVFpSTNBczhSS29hM1N3OERw?oc=5",
+          "title": "이 대통령 “SNS는 국민과의 직접 소통 통로…어려울수록 직접 보고하고 호소해야” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aRU5mZXRELXpYbjNudHloSlhEUnYtc3lkUEtkY1NVbWlEYmttSFBSSjFhSkJ1YzF2STNzeXRlVG5uQjN5SjVWSjNaTG5rTUJwZ180WnpSejRRYUk?oc=5",
           "source": "Google News",
-          "published": "Wed, 30 Sep 2026 12:54:00 GMT"
+          "published": "Wed, 30 Sep 2026 22:11:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "국민",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령 “SNS는 국민과의 직접 소통 통로…어려울수록 직접 보고하고 호소해야” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aRU5mZXRELXpYbjNudHloSlhEUnYtc3lkUEtkY1NVbWlEYmttSFBSSjFhSkJ1YzF2STNzeXRlVG5uQjN5SjVWSjNaTG5rTUJwZ180WnpSejRRYUk?oc=5",
+          "source": "Google News",
+          "published": "Wed, 30 Sep 2026 22:11:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "소통",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령 “SNS는 국민과의 직접 소통 통로…어려울수록 직접 보고하고 호소해야” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aRU5mZXRELXpYbjNudHloSlhEUnYtc3lkUEtkY1NVbWlEYmttSFBSSjFhSkJ1YzF2STNzeXRlVG5uQjN5SjVWSjNaTG5rTUJwZ180WnpSejRRYUk?oc=5",
+          "source": "Google News",
+          "published": "Wed, 30 Sep 2026 22:11:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "통로어려울수록",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령 “SNS는 국민과의 직접 소통 통로…어려울수록 직접 보고하고 호소해야” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aRU5mZXRELXpYbjNudHloSlhEUnYtc3lkUEtkY1NVbWlEYmttSFBSSjFhSkJ1YzF2STNzeXRlVG5uQjN5SjVWSjNaTG5rTUJwZ180WnpSejRRYUk?oc=5",
+          "source": "Google News",
+          "published": "Wed, 30 Sep 2026 22:11:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "보고",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령 “SNS는 국민과의 직접 소통 통로…어려울수록 직접 보고하고 호소해야” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aRU5mZXRELXpYbjNudHloSlhEUnYtc3lkUEtkY1NVbWlEYmttSFBSSjFhSkJ1YzF2STNzeXRlVG5uQjN5SjVWSjNaTG5rTUJwZ180WnpSejRRYUk?oc=5",
+          "source": "Google News",
+          "published": "Wed, 30 Sep 2026 22:11:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "호소해야",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령 “SNS는 국민과의 직접 소통 통로…어려울수록 직접 보고하고 호소해야” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aRU5mZXRELXpYbjNudHloSlhEUnYtc3lkUEtkY1NVbWlEYmttSFBSSjFhSkJ1YzF2STNzeXRlVG5uQjN5SjVWSjNaTG5rTUJwZ180WnpSejRRYUk?oc=5",
+          "source": "Google News",
+          "published": "Wed, 30 Sep 2026 22:11:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "법원",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "법원 “김승원 통해 청탁 명백”…제넨셀 설립자 징역 4년 법정구속 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4anluNnZaOWZ0MWoxVF9VeVFUNFNESG1WQmxOWEFpYzVaRldNRkJLUXhaZi1MTGRiLWFlWmJRRjMwQ2NrTldncTZHNktYVmRuSnpQR29XU3ZVRjQ2ZTA5UnpDSVVYTVpfcTdXNTQzMTVEZw?oc=5",
+          "source": "Google News",
+          "published": "Wed, 30 Sep 2026 08:12:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "김승원",
+      "count": 1,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "법원 “김승원 통해 청탁 명백”…제넨셀 설립자 징역 4년 법정구속 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4anluNnZaOWZ0MWoxVF9VeVFUNFNESG1WQmxOWEFpYzVaRldNRkJLUXhaZi1MTGRiLWFlWmJRRjMwQ2NrTldncTZHNktYVmRuSnpQR29XU3ZVRjQ2ZTA5UnpDSVVYTVpfcTdXNTQzMTVEZw?oc=5",
+          "source": "Google News",
+          "published": "Wed, 30 Sep 2026 08:12:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "청탁",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "법원 “김승원 통해 청탁 명백”…제넨셀 설립자 징역 4년 법정구속 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4anluNnZaOWZ0MWoxVF9VeVFUNFNESG1WQmxOWEFpYzVaRldNRkJLUXhaZi1MTGRiLWFlWmJRRjMwQ2NrTldncTZHNktYVmRuSnpQR29XU3ZVRjQ2ZTA5UnpDSVVYTVpfcTdXNTQzMTVEZw?oc=5",
+          "source": "Google News",
+          "published": "Wed, 30 Sep 2026 08:12:00 GMT"
         }
       ]
     }
