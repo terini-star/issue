@@ -1,112 +1,332 @@
 {
   "language": "ko",
-  "last_updated": 1790838357.3375664,
+  "last_updated": 1790868003.8149273,
   "count": 40,
   "trends": [
     {
-      "word": "트럼프",
-      "count": 5,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "여객기 추락 시도 부기장…테러? 자살? 트럼프 “그저 미친 사람일 수도” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UdU9zZngySUJ6ZU9OcEVPaktlMkpPall0N3NhV2NkWnlPUE5RaV9Ed3ZEMnRwZTVrcXNHZnBLcWl2RXZPcHgxTVptT2NkWm1uSGVqMWRxaWxfaUU5d1dDMk5jdEhPbGIwTUtZTDMycW1ZbTQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 05:32:00 GMT"
-        },
-        {
-          "title": "트럼프가 극찬한 美정부 AI, 트럼프 주장 반박 하루 뒤 답변 거부 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44UmRhc1ZYbDBNY2JxYWpfY1J6Q3NMQWkyOTRzeklkRmU2NHJ3VHY5Q2tlclJkXzE2bzMzMFl6amRoVGRvMF9EWjhRNTUxa0U?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 06:30:08 GMT"
-        },
-        {
-          "title": "트럼프 “사흘간 호르무즈 빠져나온 원유 역대 가장 많아” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbWVJUGVsbnAyT1RWOHRWQ1YxdlVRTEhRUGFTM2dxY0Y2NTVBYkZtZzdKYkJOWWZFSUVIaHhGNUxzMU16MkpfMVBrZDBQQlJ1dnQ1Q2JFNGV5Y3JCajd2M0Jiem8zam84NG5WU19HdjN1dWFIMWJLd2VMdWVZZmN6WjBB?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 00:15:00 GMT"
-        },
-        {
-          "title": "국힘, 트럼프 대미투자 일방 발표에 “이재명 정부 무능·굴종 외교” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1OFBOajVVTk10UU9VcVdkSGFkWGRzUlB0a3d3OHRXdVRrYUFtOG5KMGtOVDNJT2RNckp2aksybGxIdGlETy1PdEtHSk5GMXpraUpTRlVQY0gyQllKRXV0eFpvSmFzSFRSWUpKYl91c291ZHZQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 03:15:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "청와대",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "청와대 “김지용 의혹 사실과 달라…금명간 인사청문안 송부” [지금뉴스] - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53ZkhRSzZST2ZGN1VHVVllbHZGT0ZFRGNoMGFwaEo4WFpPR0NlUFZLX3QtMEI3dDRfV2hJTnFiS0VseW41LVlmcmVUaVJFbjJkUTJmNllQTzFNWnc?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 06:53:00 GMT"
-        },
-        {
-          "title": "청와대 신임 정책실장에 하준경, 경제성장수석 문신학 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uUG9LemFZNUVGTGV0NkZVRDRzZFdJLVRWSVVJc094dUs5dk5JUVNEbHB3dTFISE1sdGl5XzhGTGFEb0I3bzBjclozYW5YaU9LbFMxd2oxR2lIUHBnVHdtSEJIUVB0UGJDaGNr?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 05:51:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "의혹",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "청와대 “김지용 의혹 사실과 달라…금명간 인사청문안 송부” [지금뉴스] - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53ZkhRSzZST2ZGN1VHVVllbHZGT0ZFRGNoMGFwaEo4WFpPR0NlUFZLX3QtMEI3dDRfV2hJTnFiS0VseW41LVlmcmVUaVJFbjJkUTJmNllQTzFNWnc?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 06:53:00 GMT"
-        },
-        {
-          "title": "‘술접대 의혹’ 지귀연 결국 재판서 빠진다…사법연구 법관 발령 [세상&] - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaaTJXMTcxRlVScDVUZVF1ZkFudTEteU92N0hhV3FkeWlZS1pwNkxqbkM0ZWhJb3NQb0x2bjdDNlJTTUV1enozaWVoZVNaZ0k?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 06:47:00 GMT"
-        }
-      ]
-    },
-    {
       "word": "대통령",
-      "count": 2,
+      "count": 3,
       "category": "PERSON",
       "articles": [
         {
-          "title": "이 대통령 “DMZ 사고 마음 아파…남북 군사긴장 낮추겠다” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNeXpETGdDcmdKRlREWm54aXB5OWhfZDJzSlJuR0QwblpSZzlnZm5BRUR4dFVLYU50aVdOeWwwUXdWc1FSZWN5eEQ3dWJOLWw3RXI5X0lfQ2g1RDhHUlhvYlRFLUZ1Vjd3dmZB?oc=5",
+          "title": "이 대통령, 정청래 전 대표와 4시간 만찬…“당내 사안 깊은 공감대” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zbDEzVXY4MmFfb053T2dSRmJpZllHQU45TVNjMFJaT2JyR1dBR3VyUmNvbE5jQWlGNDhhVTctXzRRYzdjbklibU80b2YyQldTUHJlcjVwaGhWdE8yT3FCNldPUDZsYUJQYjgw?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 02:57:00 GMT"
+          "published": "Thu, 01 Oct 2026 14:13:00 GMT"
         },
         {
-          "title": "李대통령 \"불가역적 檢개혁 흔들림 없이 완수할 것…경찰개혁도 주요 과제\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tZ1hkVnc3cjdhNExWVmpxWkdQTVU2cHpVaW1XQmM4VVR6MExib2FQZ3JVLVhZclBQN3BYUUF5ZUdJSFhiYnozNzRBN1kydlhEUHhoTklBYklIRGpMUDljMzNkc2dVVWVrWkg4VXJpUHo?oc=5",
+          "title": "국힘, 李대통령 '불의의 사고' 기념사에 \"군 통수권자 맞나\"(종합) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96OEFMR3FESkJmYTNUbEwxcm0wY3VBa3B5MVFyLXlXY2lUeWJHckNVSk05N0FWT0lSWktldGJwRzZjQXIxRE1OUldNZ0IwakNTRWJmTi1pWTlRTGvSAWBBVV95cUxQYzZzUlo5bTlQM1hMXzdCa0wwWnJyMGdhV08xU2U3WWF5WXZ3UV9UNi1yYXEzbUhySE5qVDVTLTg1YkVRVE5BMnhQck9FMWl2VWd4dHk5R3FBSHV5Szh4Z3E?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 06:30:06 GMT"
+          "published": "Thu, 01 Oct 2026 07:01:23 GMT"
+        },
+        {
+          "title": "이 대통령 “알래스카 LNG, 상업성·한국 법절차 전제로 착수” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PZ3otRklvZzI4aDl4NDFkUEtjTC15MWoycHdGZGhRUm1SdmZkcF9RQ29kLTBJUkY5dXdTUDhuamhYb0ZUN0FOU1p3NUhVaWliRjdBMjNWQkduLWdVa1RndnFrTFgwblkzc1dn?oc=5",
+          "source": "Google News",
+          "published": "Thu, 01 Oct 2026 06:50:00 GMT"
         }
       ]
     },
     {
-      "word": "정부",
+      "word": "이란",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프 \"중간선거후 對이란 폭격 강화 가능\"…또 '전멸' 위협 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVNVNmYnFza1dQcDFGRksyQUZBcTJhV2hndU9sLVlwOFZKTy1PWng4Q1RFU0xFNEl4MUFzblRhWXBtZnd2Q25XV255QVFlclVNd0YyeW9CSjk3ZW_SAWBBVV95cUxOaV9Rd0Z1TnVjcTFSdGNkLXpTeWJvdnFuTVk2ajNseXEySEN1TG53ekpyU200RjVzcTYtUjJveDBUYWI1ZVRWN3ZoOUYwM0VZRGxZM1d5bUtPTkhCclJDMDA?oc=5",
+          "source": "Google News",
+          "published": "Thu, 01 Oct 2026 12:38:34 GMT"
+        },
+        {
+          "title": "미국 해상봉쇄에 이란 원유 선적 ’0’…전쟁 이후 처음 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53aHRoc2o0Vnh5Q2hudkVoeXJvUTNBb0tKalVCYmxkX3RHMFZDeC1GYWZSMW5mdjJMRC1MYTBMVGl2RjJnc2txUnhzV1JJRHoycXdGYXVGZVRWdTNXWWg0UTdKOGtkeHc?oc=5",
+          "source": "Google News",
+          "published": "Thu, 01 Oct 2026 11:39:00 GMT"
+        },
+        {
+          "title": "[2026AG] 韓 남자배구, '디펜딩챔피언' 이란에 2-3 풀세트 역전패…남녀 모두 메달 좌절 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02dnUweGIxM3FPR1o1Vmg4OHVtMXAxa25WeERKS3pKbXFpeHB5VEtGSXRFU0hiRU9IaTlTNWJWN1RNRTNwcnNZak05cWh6TWJLNXRZTTVaNWRfb0xn?oc=5",
+          "source": "Google News",
+          "published": "Thu, 01 Oct 2026 09:47:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "반발",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프가 극찬한 美정부 AI, 트럼프 주장 반박 하루 뒤 답변 거부 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44UmRhc1ZYbDBNY2JxYWpfY1J6Q3NMQWkyOTRzeklkRmU2NHJ3VHY5Q2tlclJkXzE2bzMzMFl6amRoVGRvMF9EWjhRNTUxa0U?oc=5",
+          "title": "청 “김지용 ‘친윤 검사’ 아냐”…여권 내 반발에도 임명 뜻 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoekQtOGhlUXk0NGRVQjkzbTN2aUNWZE1TMjJWczBkWTJVN0RyNERlWnNZV3JpOFBISWdRdVA1U1lPbmRjWlNUQUVObWFDYjBaOVpadFVfREJYUm9aYWtrbHdWU0ZibDJVbm9n?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 06:30:08 GMT"
+          "published": "Thu, 01 Oct 2026 13:09:00 GMT"
         },
         {
-          "title": "국힘, 트럼프 대미투자 일방 발표에 “이재명 정부 무능·굴종 외교” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1OFBOajVVTk10UU9VcVdkSGFkWGRzUlB0a3d3OHRXdVRrYUFtOG5KMGtOVDNJT2RNckp2aksybGxIdGlETy1PdEtHSk5GMXpraUpTRlVQY0gyQllKRXV0eFpvSmFzSFRSWUpKYl91c291ZHZQ?oc=5",
+          "title": "국힘 ‘대북 확성기 방송 재개’ 주장에 불안한 접경지 주민들…“무책임” 반발 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XWGF5MVJYZ1NBQ1dzdFBYOER0ckNOa09yNWFpMS1QYkJuSnIxMExFWEFVM3A0c2VkdzRITGxZNHJpUWhkQ2ZlZ2huRHIwMFNyT1VyV2ZzOW9xd9IBX0FVX3lxTE9OS3hWWlY0S3RwWERPQ1EwdWpnTkdtdUtETUg2T0xlSDZKUmFrNmRlMzZvaE5WQ1Jtb0E3SEFfOGJrZjh0aXZVQmVWeExXcG1LckVUcllMR3M3S0lYUW1z?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 03:15:00 GMT"
+          "published": "Thu, 01 Oct 2026 13:17:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "국힘",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "국힘, 李대통령 '불의의 사고' 기념사에 \"군 통수권자 맞나\"(종합) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96OEFMR3FESkJmYTNUbEwxcm0wY3VBa3B5MVFyLXlXY2lUeWJHckNVSk05N0FWT0lSWktldGJwRzZjQXIxRE1OUldNZ0IwakNTRWJmTi1pWTlRTGvSAWBBVV95cUxQYzZzUlo5bTlQM1hMXzdCa0wwWnJyMGdhV08xU2U3WWF5WXZ3UV9UNi1yYXEzbUhySE5qVDVTLTg1YkVRVE5BMnhQck9FMWl2VWd4dHk5R3FBSHV5Szh4Z3E?oc=5",
+          "source": "Google News",
+          "published": "Thu, 01 Oct 2026 07:01:23 GMT"
+        },
+        {
+          "title": "국힘 ‘대북 확성기 방송 재개’ 주장에 불안한 접경지 주민들…“무책임” 반발 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XWGF5MVJYZ1NBQ1dzdFBYOER0ckNOa09yNWFpMS1QYkJuSnIxMExFWEFVM3A0c2VkdzRITGxZNHJpUWhkQ2ZlZ2huRHIwMFNyT1VyV2ZzOW9xd9IBX0FVX3lxTE9OS3hWWlY0S3RwWERPQ1EwdWpnTkdtdUtETUg2T0xlSDZKUmFrNmRlMzZvaE5WQ1Jtb0E3SEFfOGJrZjh0aXZVQmVWeExXcG1LckVUcllMR3M3S0lYUW1z?oc=5",
+          "source": "Google News",
+          "published": "Thu, 01 Oct 2026 13:17:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "위협",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프 \"중간선거후 對이란 폭격 강화 가능\"…또 '전멸' 위협 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVNVNmYnFza1dQcDFGRksyQUZBcTJhV2hndU9sLVlwOFZKTy1PWng4Q1RFU0xFNEl4MUFzblRhWXBtZnd2Q25XV255QVFlclVNd0YyeW9CSjk3ZW_SAWBBVV95cUxOaV9Rd0Z1TnVjcTFSdGNkLXpTeWJvdnFuTVk2ajNseXEySEN1TG53ekpyU200RjVzcTYtUjJveDBUYWI1ZVRWN3ZoOUYwM0VZRGxZM1d5bUtPTkhCclJDMDA?oc=5",
+          "source": "Google News",
+          "published": "Thu, 01 Oct 2026 12:38:34 GMT"
+        },
+        {
+          "title": "러의 또 다른 위협… \"나토가 역외 영토 칼리닌그라드 차단하면 핵무기 사용도 불사\" - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGQTFGMU9LeVRMVGlEajgxTnV2d0NYdl9xV0JJTnZYTVJTWVA5Y0pfZzBHekhiNTdfYXZNZVFVdWxJRVdpY25zZEpFd25zYzNmckNrSmIyVXJsaHZo?oc=5",
+          "source": "Google News",
+          "published": "Thu, 01 Oct 2026 09:59:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "크루즈",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "최화정, 66세 솔로의 럭셔리 일상..에르메스백 들고 한강 크루즈 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rVTFadGtiOHMyaWdGbEREakRmNEZZd2NkWk4wbm5uSTk1Q1RuOUpGeDBabVBPQkxqOWN3OW1WeHktR1RSMWtxazFZM3NNaTg?oc=5",
+          "source": "Google News",
+          "published": "Thu, 01 Oct 2026 10:57:43 GMT"
+        },
+        {
+          "title": "톰 크루즈 내한…“디거 록웰, 46년 연기 인생서 듣도 보도 못한 인물” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XcURnbHoxcGkwcUJKQXBYX19TeWdVODN0MVQyVG9lTVlTd1ZSem9YeTIxcE54T0ZtX1pQNTczVWFsODU3Wk5ySjFJMlMzcTJyOTh4UGxYX3hWUDQyLWtmWldCRC01YjdMRExTNGRIZVpZQQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 01 Oct 2026 09:38:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "금메달",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[2026 아시안게임]독립운동가 후손 허미미, 일본서 조국에 금메달을 바치다 (종합) - 강원일보",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCUjBVbGZTdHhDdXE4N01pWFBfdEVuY2pISDdoYWhabnNCa042ZlFnamZTbGxZV09ZVzhlOXp5Q0FNc19Cakp5LUpBT1FsVVA5MlB2R3Back0?oc=5",
+          "source": "Google News",
+          "published": "Thu, 01 Oct 2026 15:00:00 GMT"
+        },
+        {
+          "title": "'여자 클라이밍 간판' 서채현, 주종목 아닌데도 볼더 '동메달'…\"리드서 금메달 딸 것\" - news.sbs.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PcVEyQlJ5cTBpQ0ZzVVJXeDZDeXFDek41NFotUmZ5NUFEZWZrbUtDTjUxOGJKblRNanE2RnNNQ1YzdS1iVFJNNkJhYzN2WDBJYk1GYnpPY2pMR0g3ZFVKaWY5N1ltQVJ5Q2c?oc=5",
+          "source": "Google News",
+          "published": "Thu, 01 Oct 2026 12:08:39 GMT"
+        }
+      ]
+    },
+    {
+      "word": "정청래",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령, 정청래 전 대표와 4시간 만찬…“당내 사안 깊은 공감대” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zbDEzVXY4MmFfb053T2dSRmJpZllHQU45TVNjMFJaT2JyR1dBR3VyUmNvbE5jQWlGNDhhVTctXzRRYzdjbklibU80b2YyQldTUHJlcjVwaGhWdE8yT3FCNldPUDZsYUJQYjgw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 01 Oct 2026 14:13:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "대표",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령, 정청래 전 대표와 4시간 만찬…“당내 사안 깊은 공감대” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zbDEzVXY4MmFfb053T2dSRmJpZllHQU45TVNjMFJaT2JyR1dBR3VyUmNvbE5jQWlGNDhhVTctXzRRYzdjbklibU80b2YyQldTUHJlcjVwaGhWdE8yT3FCNldPUDZsYUJQYjgw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 01 Oct 2026 14:13:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "4시간",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령, 정청래 전 대표와 4시간 만찬…“당내 사안 깊은 공감대” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zbDEzVXY4MmFfb053T2dSRmJpZllHQU45TVNjMFJaT2JyR1dBR3VyUmNvbE5jQWlGNDhhVTctXzRRYzdjbklibU80b2YyQldTUHJlcjVwaGhWdE8yT3FCNldPUDZsYUJQYjgw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 01 Oct 2026 14:13:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "만찬당내",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령, 정청래 전 대표와 4시간 만찬…“당내 사안 깊은 공감대” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zbDEzVXY4MmFfb053T2dSRmJpZllHQU45TVNjMFJaT2JyR1dBR3VyUmNvbE5jQWlGNDhhVTctXzRRYzdjbklibU80b2YyQldTUHJlcjVwaGhWdE8yT3FCNldPUDZsYUJQYjgw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 01 Oct 2026 14:13:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "사안",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령, 정청래 전 대표와 4시간 만찬…“당내 사안 깊은 공감대” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zbDEzVXY4MmFfb053T2dSRmJpZllHQU45TVNjMFJaT2JyR1dBR3VyUmNvbE5jQWlGNDhhVTctXzRRYzdjbklibU80b2YyQldTUHJlcjVwaGhWdE8yT3FCNldPUDZsYUJQYjgw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 01 Oct 2026 14:13:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "깊은",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령, 정청래 전 대표와 4시간 만찬…“당내 사안 깊은 공감대” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zbDEzVXY4MmFfb053T2dSRmJpZllHQU45TVNjMFJaT2JyR1dBR3VyUmNvbE5jQWlGNDhhVTctXzRRYzdjbklibU80b2YyQldTUHJlcjVwaGhWdE8yT3FCNldPUDZsYUJQYjgw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 01 Oct 2026 14:13:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "공감대",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령, 정청래 전 대표와 4시간 만찬…“당내 사안 깊은 공감대” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zbDEzVXY4MmFfb053T2dSRmJpZllHQU45TVNjMFJaT2JyR1dBR3VyUmNvbE5jQWlGNDhhVTctXzRRYzdjbklibU80b2YyQldTUHJlcjVwaGhWdE8yT3FCNldPUDZsYUJQYjgw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 01 Oct 2026 14:13:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "속보중수청",
+      "count": 1,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "[속보]중수청 고위직 7명 임명…경찰출신 없고 檢출신 4명 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LRFVReWxfcHc0ZlVJdmg5ODFadnFBTW5aRFZ4QVZqU1ZtTV9GbU9uQXZBUmZtZ2JvUkJmWnplR0xtZWM1bjZIVEEwczEtU2pMSHp3OE9tQzFnbW9KNDFxckV3bzhBcF9hejdaSWlpRkJaVDlZb0tF0gFmQVVfeXFMT1pvZUZ2Ui13elppRnRVV1RfQlYwSTc2UUFSbEJEbkItTmVXRGRaUW1QMVRFTzJ5Tm8takctNXRwYS1oUWYzcXFUcXV4ZGtrVk1lRHlvcVJYY3M0MDVuc2xpV2hYVmR3?oc=5",
+          "source": "Google News",
+          "published": "Thu, 01 Oct 2026 07:28:33 GMT"
+        }
+      ]
+    },
+    {
+      "word": "고위직",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보]중수청 고위직 7명 임명…경찰출신 없고 檢출신 4명 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LRFVReWxfcHc0ZlVJdmg5ODFadnFBTW5aRFZ4QVZqU1ZtTV9GbU9uQXZBUmZtZ2JvUkJmWnplR0xtZWM1bjZIVEEwczEtU2pMSHp3OE9tQzFnbW9KNDFxckV3bzhBcF9hejdaSWlpRkJaVDlZb0tF0gFmQVVfeXFMT1pvZUZ2Ui13elppRnRVV1RfQlYwSTc2UUFSbEJEbkItTmVXRGRaUW1QMVRFTzJ5Tm8takctNXRwYS1oUWYzcXFUcXV4ZGtrVk1lRHlvcVJYY3M0MDVuc2xpV2hYVmR3?oc=5",
+          "source": "Google News",
+          "published": "Thu, 01 Oct 2026 07:28:33 GMT"
+        }
+      ]
+    },
+    {
+      "word": "7명",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보]중수청 고위직 7명 임명…경찰출신 없고 檢출신 4명 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LRFVReWxfcHc0ZlVJdmg5ODFadnFBTW5aRFZ4QVZqU1ZtTV9GbU9uQXZBUmZtZ2JvUkJmWnplR0xtZWM1bjZIVEEwczEtU2pMSHp3OE9tQzFnbW9KNDFxckV3bzhBcF9hejdaSWlpRkJaVDlZb0tF0gFmQVVfeXFMT1pvZUZ2Ui13elppRnRVV1RfQlYwSTc2UUFSbEJEbkItTmVXRGRaUW1QMVRFTzJ5Tm8takctNXRwYS1oUWYzcXFUcXV4ZGtrVk1lRHlvcVJYY3M0MDVuc2xpV2hYVmR3?oc=5",
+          "source": "Google News",
+          "published": "Thu, 01 Oct 2026 07:28:33 GMT"
+        }
+      ]
+    },
+    {
+      "word": "임명경찰출신",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보]중수청 고위직 7명 임명…경찰출신 없고 檢출신 4명 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LRFVReWxfcHc0ZlVJdmg5ODFadnFBTW5aRFZ4QVZqU1ZtTV9GbU9uQXZBUmZtZ2JvUkJmWnplR0xtZWM1bjZIVEEwczEtU2pMSHp3OE9tQzFnbW9KNDFxckV3bzhBcF9hejdaSWlpRkJaVDlZb0tF0gFmQVVfeXFMT1pvZUZ2Ui13elppRnRVV1RfQlYwSTc2UUFSbEJEbkItTmVXRGRaUW1QMVRFTzJ5Tm8takctNXRwYS1oUWYzcXFUcXV4ZGtrVk1lRHlvcVJYY3M0MDVuc2xpV2hYVmR3?oc=5",
+          "source": "Google News",
+          "published": "Thu, 01 Oct 2026 07:28:33 GMT"
+        }
+      ]
+    },
+    {
+      "word": "없고",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보]중수청 고위직 7명 임명…경찰출신 없고 檢출신 4명 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LRFVReWxfcHc0ZlVJdmg5ODFadnFBTW5aRFZ4QVZqU1ZtTV9GbU9uQXZBUmZtZ2JvUkJmWnplR0xtZWM1bjZIVEEwczEtU2pMSHp3OE9tQzFnbW9KNDFxckV3bzhBcF9hejdaSWlpRkJaVDlZb0tF0gFmQVVfeXFMT1pvZUZ2Ui13elppRnRVV1RfQlYwSTc2UUFSbEJEbkItTmVXRGRaUW1QMVRFTzJ5Tm8takctNXRwYS1oUWYzcXFUcXV4ZGtrVk1lRHlvcVJYY3M0MDVuc2xpV2hYVmR3?oc=5",
+          "source": "Google News",
+          "published": "Thu, 01 Oct 2026 07:28:33 GMT"
+        }
+      ]
+    },
+    {
+      "word": "출신",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보]중수청 고위직 7명 임명…경찰출신 없고 檢출신 4명 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LRFVReWxfcHc0ZlVJdmg5ODFadnFBTW5aRFZ4QVZqU1ZtTV9GbU9uQXZBUmZtZ2JvUkJmWnplR0xtZWM1bjZIVEEwczEtU2pMSHp3OE9tQzFnbW9KNDFxckV3bzhBcF9hejdaSWlpRkJaVDlZb0tF0gFmQVVfeXFMT1pvZUZ2Ui13elppRnRVV1RfQlYwSTc2UUFSbEJEbkItTmVXRGRaUW1QMVRFTzJ5Tm8takctNXRwYS1oUWYzcXFUcXV4ZGtrVk1lRHlvcVJYY3M0MDVuc2xpV2hYVmR3?oc=5",
+          "source": "Google News",
+          "published": "Thu, 01 Oct 2026 07:28:33 GMT"
+        }
+      ]
+    },
+    {
+      "word": "4명",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보]중수청 고위직 7명 임명…경찰출신 없고 檢출신 4명 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LRFVReWxfcHc0ZlVJdmg5ODFadnFBTW5aRFZ4QVZqU1ZtTV9GbU9uQXZBUmZtZ2JvUkJmWnplR0xtZWM1bjZIVEEwczEtU2pMSHp3OE9tQzFnbW9KNDFxckV3bzhBcF9hejdaSWlpRkJaVDlZb0tF0gFmQVVfeXFMT1pvZUZ2Ui13elppRnRVV1RfQlYwSTc2UUFSbEJEbkItTmVXRGRaUW1QMVRFTzJ5Tm8takctNXRwYS1oUWYzcXFUcXV4ZGtrVk1lRHlvcVJYY3M0MDVuc2xpV2hYVmR3?oc=5",
+          "source": "Google News",
+          "published": "Thu, 01 Oct 2026 07:28:33 GMT"
         }
       ]
     },
@@ -116,140 +336,75 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "청와대 “김지용 의혹 사실과 달라…금명간 인사청문안 송부” [지금뉴스] - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53ZkhRSzZST2ZGN1VHVVllbHZGT0ZFRGNoMGFwaEo4WFpPR0NlUFZLX3QtMEI3dDRfV2hJTnFiS0VseW41LVlmcmVUaVJFbjJkUTJmNllQTzFNWnc?oc=5",
+          "title": "청 “김지용 ‘친윤 검사’ 아냐”…여권 내 반발에도 임명 뜻 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoekQtOGhlUXk0NGRVQjkzbTN2aUNWZE1TMjJWczBkWTJVN0RyNERlWnNZV3JpOFBISWdRdVA1U1lPbmRjWlNUQUVObWFDYjBaOVpadFVfREJYUm9aYWtrbHdWU0ZibDJVbm9n?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 06:53:00 GMT"
+          "published": "Thu, 01 Oct 2026 13:09:00 GMT"
         }
       ]
     },
     {
-      "word": "달라금명간",
+      "word": "친윤",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "청와대 “김지용 의혹 사실과 달라…금명간 인사청문안 송부” [지금뉴스] - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53ZkhRSzZST2ZGN1VHVVllbHZGT0ZFRGNoMGFwaEo4WFpPR0NlUFZLX3QtMEI3dDRfV2hJTnFiS0VseW41LVlmcmVUaVJFbjJkUTJmNllQTzFNWnc?oc=5",
+          "title": "청 “김지용 ‘친윤 검사’ 아냐”…여권 내 반발에도 임명 뜻 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoekQtOGhlUXk0NGRVQjkzbTN2aUNWZE1TMjJWczBkWTJVN0RyNERlWnNZV3JpOFBISWdRdVA1U1lPbmRjWlNUQUVObWFDYjBaOVpadFVfREJYUm9aYWtrbHdWU0ZibDJVbm9n?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 06:53:00 GMT"
+          "published": "Thu, 01 Oct 2026 13:09:00 GMT"
         }
       ]
     },
     {
-      "word": "인사청문안",
+      "word": "검사",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "청와대 “김지용 의혹 사실과 달라…금명간 인사청문안 송부” [지금뉴스] - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53ZkhRSzZST2ZGN1VHVVllbHZGT0ZFRGNoMGFwaEo4WFpPR0NlUFZLX3QtMEI3dDRfV2hJTnFiS0VseW41LVlmcmVUaVJFbjJkUTJmNllQTzFNWnc?oc=5",
+          "title": "청 “김지용 ‘친윤 검사’ 아냐”…여권 내 반발에도 임명 뜻 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoekQtOGhlUXk0NGRVQjkzbTN2aUNWZE1TMjJWczBkWTJVN0RyNERlWnNZV3JpOFBISWdRdVA1U1lPbmRjWlNUQUVObWFDYjBaOVpadFVfREJYUm9aYWtrbHdWU0ZibDJVbm9n?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 06:53:00 GMT"
+          "published": "Thu, 01 Oct 2026 13:09:00 GMT"
         }
       ]
     },
     {
-      "word": "송부",
+      "word": "아냐여권",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "청와대 “김지용 의혹 사실과 달라…금명간 인사청문안 송부” [지금뉴스] - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53ZkhRSzZST2ZGN1VHVVllbHZGT0ZFRGNoMGFwaEo4WFpPR0NlUFZLX3QtMEI3dDRfV2hJTnFiS0VseW41LVlmcmVUaVJFbjJkUTJmNllQTzFNWnc?oc=5",
+          "title": "청 “김지용 ‘친윤 검사’ 아냐”…여권 내 반발에도 임명 뜻 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoekQtOGhlUXk0NGRVQjkzbTN2aUNWZE1TMjJWczBkWTJVN0RyNERlWnNZV3JpOFBISWdRdVA1U1lPbmRjWlNUQUVObWFDYjBaOVpadFVfREJYUm9aYWtrbHdWU0ZibDJVbm9n?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 06:53:00 GMT"
+          "published": "Thu, 01 Oct 2026 13:09:00 GMT"
         }
       ]
     },
     {
-      "word": "지금뉴스",
+      "word": "임명",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "청와대 “김지용 의혹 사실과 달라…금명간 인사청문안 송부” [지금뉴스] - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53ZkhRSzZST2ZGN1VHVVllbHZGT0ZFRGNoMGFwaEo4WFpPR0NlUFZLX3QtMEI3dDRfV2hJTnFiS0VseW41LVlmcmVUaVJFbjJkUTJmNllQTzFNWnc?oc=5",
+          "title": "청 “김지용 ‘친윤 검사’ 아냐”…여권 내 반발에도 임명 뜻 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoekQtOGhlUXk0NGRVQjkzbTN2aUNWZE1TMjJWczBkWTJVN0RyNERlWnNZV3JpOFBISWdRdVA1U1lPbmRjWlNUQUVObWFDYjBaOVpadFVfREJYUm9aYWtrbHdWU0ZibDJVbm9n?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 06:53:00 GMT"
+          "published": "Thu, 01 Oct 2026 13:09:00 GMT"
         }
       ]
     },
     {
-      "word": "신임",
+      "word": "불의",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "청와대 신임 정책실장에 하준경, 경제성장수석 문신학 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uUG9LemFZNUVGTGV0NkZVRDRzZFdJLVRWSVVJc094dUs5dk5JUVNEbHB3dTFISE1sdGl5XzhGTGFEb0I3bzBjclozYW5YaU9LbFMxd2oxR2lIUHBnVHdtSEJIUVB0UGJDaGNr?oc=5",
+          "title": "국힘, 李대통령 '불의의 사고' 기념사에 \"군 통수권자 맞나\"(종합) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96OEFMR3FESkJmYTNUbEwxcm0wY3VBa3B5MVFyLXlXY2lUeWJHckNVSk05N0FWT0lSWktldGJwRzZjQXIxRE1OUldNZ0IwakNTRWJmTi1pWTlRTGvSAWBBVV95cUxQYzZzUlo5bTlQM1hMXzdCa0wwWnJyMGdhV08xU2U3WWF5WXZ3UV9UNi1yYXEzbUhySE5qVDVTLTg1YkVRVE5BMnhQck9FMWl2VWd4dHk5R3FBSHV5Szh4Z3E?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 05:51:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "정책실장",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "청와대 신임 정책실장에 하준경, 경제성장수석 문신학 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uUG9LemFZNUVGTGV0NkZVRDRzZFdJLVRWSVVJc094dUs5dk5JUVNEbHB3dTFISE1sdGl5XzhGTGFEb0I3bzBjclozYW5YaU9LbFMxd2oxR2lIUHBnVHdtSEJIUVB0UGJDaGNr?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 05:51:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "하준경",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "청와대 신임 정책실장에 하준경, 경제성장수석 문신학 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uUG9LemFZNUVGTGV0NkZVRDRzZFdJLVRWSVVJc094dUs5dk5JUVNEbHB3dTFISE1sdGl5XzhGTGFEb0I3bzBjclozYW5YaU9LbFMxd2oxR2lIUHBnVHdtSEJIUVB0UGJDaGNr?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 05:51:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "경제성장수석",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "청와대 신임 정책실장에 하준경, 경제성장수석 문신학 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uUG9LemFZNUVGTGV0NkZVRDRzZFdJLVRWSVVJc094dUs5dk5JUVNEbHB3dTFISE1sdGl5XzhGTGFEb0I3bzBjclozYW5YaU9LbFMxd2oxR2lIUHBnVHdtSEJIUVB0UGJDaGNr?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 05:51:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "문신학",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "청와대 신임 정책실장에 하준경, 경제성장수석 문신학 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uUG9LemFZNUVGTGV0NkZVRDRzZFdJLVRWSVVJc094dUs5dk5JUVNEbHB3dTFISE1sdGl5XzhGTGFEb0I3bzBjclozYW5YaU9LbFMxd2oxR2lIUHBnVHdtSEJIUVB0UGJDaGNr?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 05:51:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "DMZ",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "이 대통령 “DMZ 사고 마음 아파…남북 군사긴장 낮추겠다” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNeXpETGdDcmdKRlREWm54aXB5OWhfZDJzSlJuR0QwblpSZzlnZm5BRUR4dFVLYU50aVdOeWwwUXdWc1FSZWN5eEQ3dWJOLWw3RXI5X0lfQ2g1RDhHUlhvYlRFLUZ1Vjd3dmZB?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 02:57:00 GMT"
+          "published": "Thu, 01 Oct 2026 07:01:23 GMT"
         }
       ]
     },
@@ -259,283 +414,88 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령 “DMZ 사고 마음 아파…남북 군사긴장 낮추겠다” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNeXpETGdDcmdKRlREWm54aXB5OWhfZDJzSlJuR0QwblpSZzlnZm5BRUR4dFVLYU50aVdOeWwwUXdWc1FSZWN5eEQ3dWJOLWw3RXI5X0lfQ2g1RDhHUlhvYlRFLUZ1Vjd3dmZB?oc=5",
+          "title": "국힘, 李대통령 '불의의 사고' 기념사에 \"군 통수권자 맞나\"(종합) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96OEFMR3FESkJmYTNUbEwxcm0wY3VBa3B5MVFyLXlXY2lUeWJHckNVSk05N0FWT0lSWktldGJwRzZjQXIxRE1OUldNZ0IwakNTRWJmTi1pWTlRTGvSAWBBVV95cUxQYzZzUlo5bTlQM1hMXzdCa0wwWnJyMGdhV08xU2U3WWF5WXZ3UV9UNi1yYXEzbUhySE5qVDVTLTg1YkVRVE5BMnhQck9FMWl2VWd4dHk5R3FBSHV5Szh4Z3E?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 02:57:00 GMT"
+          "published": "Thu, 01 Oct 2026 07:01:23 GMT"
         }
       ]
     },
     {
-      "word": "마음",
+      "word": "기념사",
       "count": 1,
-      "category": "NOUN",
+      "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "이 대통령 “DMZ 사고 마음 아파…남북 군사긴장 낮추겠다” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNeXpETGdDcmdKRlREWm54aXB5OWhfZDJzSlJuR0QwblpSZzlnZm5BRUR4dFVLYU50aVdOeWwwUXdWc1FSZWN5eEQ3dWJOLWw3RXI5X0lfQ2g1RDhHUlhvYlRFLUZ1Vjd3dmZB?oc=5",
+          "title": "국힘, 李대통령 '불의의 사고' 기념사에 \"군 통수권자 맞나\"(종합) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96OEFMR3FESkJmYTNUbEwxcm0wY3VBa3B5MVFyLXlXY2lUeWJHckNVSk05N0FWT0lSWktldGJwRzZjQXIxRE1OUldNZ0IwakNTRWJmTi1pWTlRTGvSAWBBVV95cUxQYzZzUlo5bTlQM1hMXzdCa0wwWnJyMGdhV08xU2U3WWF5WXZ3UV9UNi1yYXEzbUhySE5qVDVTLTg1YkVRVE5BMnhQck9FMWl2VWd4dHk5R3FBSHV5Szh4Z3E?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 02:57:00 GMT"
+          "published": "Thu, 01 Oct 2026 07:01:23 GMT"
         }
       ]
     },
     {
-      "word": "아파남북",
+      "word": "통수권자",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령 “DMZ 사고 마음 아파…남북 군사긴장 낮추겠다” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNeXpETGdDcmdKRlREWm54aXB5OWhfZDJzSlJuR0QwblpSZzlnZm5BRUR4dFVLYU50aVdOeWwwUXdWc1FSZWN5eEQ3dWJOLWw3RXI5X0lfQ2g1RDhHUlhvYlRFLUZ1Vjd3dmZB?oc=5",
+          "title": "국힘, 李대통령 '불의의 사고' 기념사에 \"군 통수권자 맞나\"(종합) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96OEFMR3FESkJmYTNUbEwxcm0wY3VBa3B5MVFyLXlXY2lUeWJHckNVSk05N0FWT0lSWktldGJwRzZjQXIxRE1OUldNZ0IwakNTRWJmTi1pWTlRTGvSAWBBVV95cUxQYzZzUlo5bTlQM1hMXzdCa0wwWnJyMGdhV08xU2U3WWF5WXZ3UV9UNi1yYXEzbUhySE5qVDVTLTg1YkVRVE5BMnhQck9FMWl2VWd4dHk5R3FBSHV5Szh4Z3E?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 02:57:00 GMT"
+          "published": "Thu, 01 Oct 2026 07:01:23 GMT"
         }
       ]
     },
     {
-      "word": "군사긴장",
+      "word": "맞나종합",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령 “DMZ 사고 마음 아파…남북 군사긴장 낮추겠다” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNeXpETGdDcmdKRlREWm54aXB5OWhfZDJzSlJuR0QwblpSZzlnZm5BRUR4dFVLYU50aVdOeWwwUXdWc1FSZWN5eEQ3dWJOLWw3RXI5X0lfQ2g1RDhHUlhvYlRFLUZ1Vjd3dmZB?oc=5",
+          "title": "국힘, 李대통령 '불의의 사고' 기념사에 \"군 통수권자 맞나\"(종합) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96OEFMR3FESkJmYTNUbEwxcm0wY3VBa3B5MVFyLXlXY2lUeWJHckNVSk05N0FWT0lSWktldGJwRzZjQXIxRE1OUldNZ0IwakNTRWJmTi1pWTlRTGvSAWBBVV95cUxQYzZzUlo5bTlQM1hMXzdCa0wwWnJyMGdhV08xU2U3WWF5WXZ3UV9UNi1yYXEzbUhySE5qVDVTLTg1YkVRVE5BMnhQck9FMWl2VWd4dHk5R3FBSHV5Szh4Z3E?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 02:57:00 GMT"
+          "published": "Thu, 01 Oct 2026 07:01:23 GMT"
         }
       ]
     },
     {
-      "word": "낮추겠다",
+      "word": "접대",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령 “DMZ 사고 마음 아파…남북 군사긴장 낮추겠다” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNeXpETGdDcmdKRlREWm54aXB5OWhfZDJzSlJuR0QwblpSZzlnZm5BRUR4dFVLYU50aVdOeWwwUXdWc1FSZWN5eEQ3dWJOLWw3RXI5X0lfQ2g1RDhHUlhvYlRFLUZ1Vjd3dmZB?oc=5",
+          "title": "‘술 접대 의혹’ 기소된 지귀연 판사 결국···재판 업무서 배제됐다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56bUludXpySlVJWW4yT1hIcnpqZm84aWNxMWNVdFc1c2JISkJlTkR0bFhxeV94dE0yNGNWdjIzVU5jNDdtSDdFdjNNaWFuX3ctUlladUlkYUFJZ9IBX0FVX3lxTFBOaWVPTlZKd2tDbGtObVhGTzFzYWVQRXJKc3E1bzNYZi1icThPNHFKVzJ3MnhuejVUTXU3c0ljX3ZkWVcxYmlaZ2g4MGpxNVNud2VYUEZ1RlVEeFYzTm9F?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 02:57:00 GMT"
+          "published": "Thu, 01 Oct 2026 06:25:00 GMT"
         }
       ]
     },
     {
-      "word": "불가역",
+      "word": "의혹",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "李대통령 \"불가역적 檢개혁 흔들림 없이 완수할 것…경찰개혁도 주요 과제\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tZ1hkVnc3cjdhNExWVmpxWkdQTVU2cHpVaW1XQmM4VVR6MExib2FQZ3JVLVhZclBQN3BYUUF5ZUdJSFhiYnozNzRBN1kydlhEUHhoTklBYklIRGpMUDljMzNkc2dVVWVrWkg4VXJpUHo?oc=5",
+          "title": "‘술 접대 의혹’ 기소된 지귀연 판사 결국···재판 업무서 배제됐다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56bUludXpySlVJWW4yT1hIcnpqZm84aWNxMWNVdFc1c2JISkJlTkR0bFhxeV94dE0yNGNWdjIzVU5jNDdtSDdFdjNNaWFuX3ctUlladUlkYUFJZ9IBX0FVX3lxTFBOaWVPTlZKd2tDbGtObVhGTzFzYWVQRXJKc3E1bzNYZi1icThPNHFKVzJ3MnhuejVUTXU3c0ljX3ZkWVcxYmlaZ2g4MGpxNVNud2VYUEZ1RlVEeFYzTm9F?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 06:30:06 GMT"
+          "published": "Thu, 01 Oct 2026 06:25:00 GMT"
         }
       ]
     },
     {
-      "word": "개혁",
+      "word": "기소",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "李대통령 \"불가역적 檢개혁 흔들림 없이 완수할 것…경찰개혁도 주요 과제\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tZ1hkVnc3cjdhNExWVmpxWkdQTVU2cHpVaW1XQmM4VVR6MExib2FQZ3JVLVhZclBQN3BYUUF5ZUdJSFhiYnozNzRBN1kydlhEUHhoTklBYklIRGpMUDljMzNkc2dVVWVrWkg4VXJpUHo?oc=5",
+          "title": "‘술 접대 의혹’ 기소된 지귀연 판사 결국···재판 업무서 배제됐다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56bUludXpySlVJWW4yT1hIcnpqZm84aWNxMWNVdFc1c2JISkJlTkR0bFhxeV94dE0yNGNWdjIzVU5jNDdtSDdFdjNNaWFuX3ctUlladUlkYUFJZ9IBX0FVX3lxTFBOaWVPTlZKd2tDbGtObVhGTzFzYWVQRXJKc3E1bzNYZi1icThPNHFKVzJ3MnhuejVUTXU3c0ljX3ZkWVcxYmlaZ2g4MGpxNVNud2VYUEZ1RlVEeFYzTm9F?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 06:30:06 GMT"
-        }
-      ]
-    },
-    {
-      "word": "흔들림",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "李대통령 \"불가역적 檢개혁 흔들림 없이 완수할 것…경찰개혁도 주요 과제\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tZ1hkVnc3cjdhNExWVmpxWkdQTVU2cHpVaW1XQmM4VVR6MExib2FQZ3JVLVhZclBQN3BYUUF5ZUdJSFhiYnozNzRBN1kydlhEUHhoTklBYklIRGpMUDljMzNkc2dVVWVrWkg4VXJpUHo?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 06:30:06 GMT"
-        }
-      ]
-    },
-    {
-      "word": "없이",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "李대통령 \"불가역적 檢개혁 흔들림 없이 완수할 것…경찰개혁도 주요 과제\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tZ1hkVnc3cjdhNExWVmpxWkdQTVU2cHpVaW1XQmM4VVR6MExib2FQZ3JVLVhZclBQN3BYUUF5ZUdJSFhiYnozNzRBN1kydlhEUHhoTklBYklIRGpMUDljMzNkc2dVVWVrWkg4VXJpUHo?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 06:30:06 GMT"
-        }
-      ]
-    },
-    {
-      "word": "완수",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "李대통령 \"불가역적 檢개혁 흔들림 없이 완수할 것…경찰개혁도 주요 과제\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tZ1hkVnc3cjdhNExWVmpxWkdQTVU2cHpVaW1XQmM4VVR6MExib2FQZ3JVLVhZclBQN3BYUUF5ZUdJSFhiYnozNzRBN1kydlhEUHhoTklBYklIRGpMUDljMzNkc2dVVWVrWkg4VXJpUHo?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 06:30:06 GMT"
-        }
-      ]
-    },
-    {
-      "word": "것경찰개혁",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "李대통령 \"불가역적 檢개혁 흔들림 없이 완수할 것…경찰개혁도 주요 과제\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tZ1hkVnc3cjdhNExWVmpxWkdQTVU2cHpVaW1XQmM4VVR6MExib2FQZ3JVLVhZclBQN3BYUUF5ZUdJSFhiYnozNzRBN1kydlhEUHhoTklBYklIRGpMUDljMzNkc2dVVWVrWkg4VXJpUHo?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 06:30:06 GMT"
-        }
-      ]
-    },
-    {
-      "word": "과제",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "李대통령 \"불가역적 檢개혁 흔들림 없이 완수할 것…경찰개혁도 주요 과제\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tZ1hkVnc3cjdhNExWVmpxWkdQTVU2cHpVaW1XQmM4VVR6MExib2FQZ3JVLVhZclBQN3BYUUF5ZUdJSFhiYnozNzRBN1kydlhEUHhoTklBYklIRGpMUDljMzNkc2dVVWVrWkg4VXJpUHo?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 06:30:06 GMT"
-        }
-      ]
-    },
-    {
-      "word": "여객기",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "여객기 추락 시도 부기장…테러? 자살? 트럼프 “그저 미친 사람일 수도” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UdU9zZngySUJ6ZU9OcEVPaktlMkpPall0N3NhV2NkWnlPUE5RaV9Ed3ZEMnRwZTVrcXNHZnBLcWl2RXZPcHgxTVptT2NkWm1uSGVqMWRxaWxfaUU5d1dDMk5jdEhPbGIwTUtZTDMycW1ZbTQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 05:32:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "추락",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "여객기 추락 시도 부기장…테러? 자살? 트럼프 “그저 미친 사람일 수도” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UdU9zZngySUJ6ZU9OcEVPaktlMkpPall0N3NhV2NkWnlPUE5RaV9Ed3ZEMnRwZTVrcXNHZnBLcWl2RXZPcHgxTVptT2NkWm1uSGVqMWRxaWxfaUU5d1dDMk5jdEhPbGIwTUtZTDMycW1ZbTQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 05:32:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "시도",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "여객기 추락 시도 부기장…테러? 자살? 트럼프 “그저 미친 사람일 수도” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UdU9zZngySUJ6ZU9OcEVPaktlMkpPall0N3NhV2NkWnlPUE5RaV9Ed3ZEMnRwZTVrcXNHZnBLcWl2RXZPcHgxTVptT2NkWm1uSGVqMWRxaWxfaUU5d1dDMk5jdEhPbGIwTUtZTDMycW1ZbTQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 05:32:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "부기장테러",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "여객기 추락 시도 부기장…테러? 자살? 트럼프 “그저 미친 사람일 수도” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UdU9zZngySUJ6ZU9OcEVPaktlMkpPall0N3NhV2NkWnlPUE5RaV9Ed3ZEMnRwZTVrcXNHZnBLcWl2RXZPcHgxTVptT2NkWm1uSGVqMWRxaWxfaUU5d1dDMk5jdEhPbGIwTUtZTDMycW1ZbTQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 05:32:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "자살",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "여객기 추락 시도 부기장…테러? 자살? 트럼프 “그저 미친 사람일 수도” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UdU9zZngySUJ6ZU9OcEVPaktlMkpPall0N3NhV2NkWnlPUE5RaV9Ed3ZEMnRwZTVrcXNHZnBLcWl2RXZPcHgxTVptT2NkWm1uSGVqMWRxaWxfaUU5d1dDMk5jdEhPbGIwTUtZTDMycW1ZbTQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 05:32:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "그저",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "여객기 추락 시도 부기장…테러? 자살? 트럼프 “그저 미친 사람일 수도” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UdU9zZngySUJ6ZU9OcEVPaktlMkpPall0N3NhV2NkWnlPUE5RaV9Ed3ZEMnRwZTVrcXNHZnBLcWl2RXZPcHgxTVptT2NkWm1uSGVqMWRxaWxfaUU5d1dDMk5jdEhPbGIwTUtZTDMycW1ZbTQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 05:32:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "미친",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "여객기 추락 시도 부기장…테러? 자살? 트럼프 “그저 미친 사람일 수도” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UdU9zZngySUJ6ZU9OcEVPaktlMkpPall0N3NhV2NkWnlPUE5RaV9Ed3ZEMnRwZTVrcXNHZnBLcWl2RXZPcHgxTVptT2NkWm1uSGVqMWRxaWxfaUU5d1dDMk5jdEhPbGIwTUtZTDMycW1ZbTQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 05:32:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "사람일",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "여객기 추락 시도 부기장…테러? 자살? 트럼프 “그저 미친 사람일 수도” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UdU9zZngySUJ6ZU9OcEVPaktlMkpPall0N3NhV2NkWnlPUE5RaV9Ed3ZEMnRwZTVrcXNHZnBLcWl2RXZPcHgxTVptT2NkWm1uSGVqMWRxaWxfaUU5d1dDMk5jdEhPbGIwTUtZTDMycW1ZbTQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 05:32:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "수도",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "여객기 추락 시도 부기장…테러? 자살? 트럼프 “그저 미친 사람일 수도” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UdU9zZngySUJ6ZU9OcEVPaktlMkpPall0N3NhV2NkWnlPUE5RaV9Ed3ZEMnRwZTVrcXNHZnBLcWl2RXZPcHgxTVptT2NkWm1uSGVqMWRxaWxfaUU5d1dDMk5jdEhPbGIwTUtZTDMycW1ZbTQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 05:32:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "술접대",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘술접대 의혹’ 지귀연 결국 재판서 빠진다…사법연구 법관 발령 [세상&] - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaaTJXMTcxRlVScDVUZVF1ZkFudTEteU92N0hhV3FkeWlZS1pwNkxqbkM0ZWhJb3NQb0x2bjdDNlJTTUV1enozaWVoZVNaZ0k?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 06:47:00 GMT"
+          "published": "Thu, 01 Oct 2026 06:25:00 GMT"
         }
       ]
     },
@@ -545,23 +505,75 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘술접대 의혹’ 지귀연 결국 재판서 빠진다…사법연구 법관 발령 [세상&] - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaaTJXMTcxRlVScDVUZVF1ZkFudTEteU92N0hhV3FkeWlZS1pwNkxqbkM0ZWhJb3NQb0x2bjdDNlJTTUV1enozaWVoZVNaZ0k?oc=5",
+          "title": "‘술 접대 의혹’ 기소된 지귀연 판사 결국···재판 업무서 배제됐다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56bUludXpySlVJWW4yT1hIcnpqZm84aWNxMWNVdFc1c2JISkJlTkR0bFhxeV94dE0yNGNWdjIzVU5jNDdtSDdFdjNNaWFuX3ctUlladUlkYUFJZ9IBX0FVX3lxTFBOaWVPTlZKd2tDbGtObVhGTzFzYWVQRXJKc3E1bzNYZi1icThPNHFKVzJ3MnhuejVUTXU3c0ljX3ZkWVcxYmlaZ2g4MGpxNVNud2VYUEZ1RlVEeFYzTm9F?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 06:47:00 GMT"
+          "published": "Thu, 01 Oct 2026 06:25:00 GMT"
         }
       ]
     },
     {
-      "word": "결국",
+      "word": "판사",
       "count": 1,
-      "category": "LOCATION",
+      "category": "NOUN",
       "articles": [
         {
-          "title": "‘술접대 의혹’ 지귀연 결국 재판서 빠진다…사법연구 법관 발령 [세상&] - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaaTJXMTcxRlVScDVUZVF1ZkFudTEteU92N0hhV3FkeWlZS1pwNkxqbkM0ZWhJb3NQb0x2bjdDNlJTTUV1enozaWVoZVNaZ0k?oc=5",
+          "title": "‘술 접대 의혹’ 기소된 지귀연 판사 결국···재판 업무서 배제됐다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56bUludXpySlVJWW4yT1hIcnpqZm84aWNxMWNVdFc1c2JISkJlTkR0bFhxeV94dE0yNGNWdjIzVU5jNDdtSDdFdjNNaWFuX3ctUlladUlkYUFJZ9IBX0FVX3lxTFBOaWVPTlZKd2tDbGtObVhGTzFzYWVQRXJKc3E1bzNYZi1icThPNHFKVzJ3MnhuejVUTXU3c0ljX3ZkWVcxYmlaZ2g4MGpxNVNud2VYUEZ1RlVEeFYzTm9F?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 06:47:00 GMT"
+          "published": "Thu, 01 Oct 2026 06:25:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "결국재판",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘술 접대 의혹’ 기소된 지귀연 판사 결국···재판 업무서 배제됐다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56bUludXpySlVJWW4yT1hIcnpqZm84aWNxMWNVdFc1c2JISkJlTkR0bFhxeV94dE0yNGNWdjIzVU5jNDdtSDdFdjNNaWFuX3ctUlladUlkYUFJZ9IBX0FVX3lxTFBOaWVPTlZKd2tDbGtObVhGTzFzYWVQRXJKc3E1bzNYZi1icThPNHFKVzJ3MnhuejVUTXU3c0ljX3ZkWVcxYmlaZ2g4MGpxNVNud2VYUEZ1RlVEeFYzTm9F?oc=5",
+          "source": "Google News",
+          "published": "Thu, 01 Oct 2026 06:25:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "업무서",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘술 접대 의혹’ 기소된 지귀연 판사 결국···재판 업무서 배제됐다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56bUludXpySlVJWW4yT1hIcnpqZm84aWNxMWNVdFc1c2JISkJlTkR0bFhxeV94dE0yNGNWdjIzVU5jNDdtSDdFdjNNaWFuX3ctUlladUlkYUFJZ9IBX0FVX3lxTFBOaWVPTlZKd2tDbGtObVhGTzFzYWVQRXJKc3E1bzNYZi1icThPNHFKVzJ3MnhuejVUTXU3c0ljX3ZkWVcxYmlaZ2g4MGpxNVNud2VYUEZ1RlVEeFYzTm9F?oc=5",
+          "source": "Google News",
+          "published": "Thu, 01 Oct 2026 06:25:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "배제됐다",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘술 접대 의혹’ 기소된 지귀연 판사 결국···재판 업무서 배제됐다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56bUludXpySlVJWW4yT1hIcnpqZm84aWNxMWNVdFc1c2JISkJlTkR0bFhxeV94dE0yNGNWdjIzVU5jNDdtSDdFdjNNaWFuX3ctUlladUlkYUFJZ9IBX0FVX3lxTFBOaWVPTlZKd2tDbGtObVhGTzFzYWVQRXJKc3E1bzNYZi1icThPNHFKVzJ3MnhuejVUTXU3c0ljX3ZkWVcxYmlaZ2g4MGpxNVNud2VYUEZ1RlVEeFYzTm9F?oc=5",
+          "source": "Google News",
+          "published": "Thu, 01 Oct 2026 06:25:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "대북",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "국힘 ‘대북 확성기 방송 재개’ 주장에 불안한 접경지 주민들…“무책임” 반발 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XWGF5MVJYZ1NBQ1dzdFBYOER0ckNOa09yNWFpMS1QYkJuSnIxMExFWEFVM3A0c2VkdzRITGxZNHJpUWhkQ2ZlZ2huRHIwMFNyT1VyV2ZzOW9xd9IBX0FVX3lxTE9OS3hWWlY0S3RwWERPQ1EwdWpnTkdtdUtETUg2T0xlSDZKUmFrNmRlMzZvaE5WQ1Jtb0E3SEFfOGJrZjh0aXZVQmVWeExXcG1LckVUcllMR3M3S0lYUW1z?oc=5",
+          "source": "Google News",
+          "published": "Thu, 01 Oct 2026 13:17:00 GMT"
         }
       ]
     }
