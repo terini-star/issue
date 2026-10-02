@@ -1,573 +1,543 @@
 {
   "language": "ko",
-  "last_updated": 1790901571.769346,
+  "last_updated": 1790924016.0938897,
   "count": 40,
   "trends": [
     {
-      "word": "대통령",
-      "count": 3,
-      "category": "PERSON",
-      "articles": [
-        {
-          "title": "이 대통령, 김지용 중수청장 내정자 인사청문요청안 재가 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwdzA4RDl5VERqcS13dUNmVDFCMkM2LU4wb2tOZUNBcGF6bm9DcExYOTFfQVpnN1JzbGUtUXE1N1doeEhZQnFoZ0tYR29SM2Fpbk13UTBsclFVd9IBX0FVX3lxTE9UN2NQNHBKRlVScTE5NUVfSEF6aHlWUnBUXzk4MFUzSnRFN2FPX2dob0VNeTBUUHpHN2NTM1ZhWE1XbExKNW1MNWpST3NCdG56eF92SllEX2ZHRDFQemY0?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 22:26:00 GMT"
-        },
-        {
-          "title": "[단독] 이 대통령, 정청래 전 대표와 청와대서 독대 만찬···퇴원·건강 회복 격려 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02NE1ZR2JaMDN3V1dWSDhueXRydTI1ZGNyWjBIZDZrQXVnOUFiRUtYNkpyLTBFMVhOUGQzSTBVM2ZCVmdfdnpGZ19OaDBPSGU3VDZDcGF1MDA2d9IBX0FVX3lxTE9qTl91djIzSi1PWW9IWl84SWI1NEE0VTZKZlFibklnM20ybFdFcndPaW54WHNYNnlUWTRIZDVDbV9XYUVyWXhxcEc1YUF4Y1VoUkV2RUtiM1RKN0w4X2pB?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 12:56:00 GMT"
-        },
-        {
-          "title": "이 대통령, 靑 인사 단행…신임 정책실장에 하준경 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53MWt6ZEhLWUdTUXo1WFcyM3l6V2dTTGFuLW9ydWxuZGNrYjNIcFk1VjI3cjZtMVBDNlBxaUpVSWhydVNrcGVfdFZWdkJwTjRMY0dwd191eW56Z1NVcVE2X0tndUc3R3M?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 04:57:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "중간선거",
+      "word": "트럼프",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "중동에 세 번째 항모·1만 병력 투입…트럼프 “중간선거 뒤 공습 가능” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hNzdUYkdZNzRucm1vcGhSUGhYUnJUSmcxUzczbFpfbmROUUc4bGMtZlE1RmdTbE1Pdi04b25tMGFiWnF6M2dVWFVnQ0Q1aGY4ZjdBWDVGeHpZLTUxM0NpcHZ2RFYtRlpla0hGLWUxcU5majQ?oc=5",
+          "title": "트럼프, 여객기 추락 시도 부기장에 “이란 연계된 듯…맞으면 세게 타격” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40VWhzZU1Qejhjd3FfUnd0RFgwZm5ES19MMzBaUnlQbjhJeC1CcTRlbXpKNTNSWGozQmp6VXVkTllZUTVvYWFFLW0yQUVWcHNLcFUzNnEwNGdvNnZ0UFVTaGpKdzdfck5tVERZZ2RDX3M5aDQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 21:51:00 GMT"
+          "published": "Thu, 01 Oct 2026 22:31:00 GMT"
         },
         {
-          "title": "트럼프, 중간선거 앞두고 ’내란법 발동’ 가능성 시사 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83M01FNXkxNjRwQldJM2hwNzBYU3MzZ0FfQjNFTUFINUZuYkRxSEFhMWRJRHpaS3pKeVpVMkRNT21IRnl0RVc4Vnhtblo4aDNiYWZTQ1oxeklRclBucGp0NmNId3E2WlU?oc=5",
+          "title": "트럼프가 韓투자 찍은 알래스카 LNG 사업비, 멕시코만의 2배 넘어 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE02TXJmSjI4d1FWR3BUTXdLR2NJbURNSy1iSXluemNIMjJjeHdCVTJZQXlNNWsyTWV3Uk9ucjhMOHRlSmtMR181Y3VnRmRwMERPcXdNZHdfUU5MSnNSaFNkTFVuNU5sbW9ocHo2cGEyRmdWd1XSAWZBVV95cUxOS1dzVHN5Y2w4SjR2Tk42SnpYRWx6MFBUUzZXcjQ5el9YaWxqVHdWa2tQWkpQdDhoaW5aRHZYbjNUSFRNVG10Zk4zVVp3Ul9qcVVWMHdXZlBnSW10VWRDYmItTTdXRnc?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 15:36:00 GMT"
+          "published": "Fri, 02 Oct 2026 02:32:27 GMT"
         }
       ]
     },
     {
-      "word": "가능",
+      "word": "디자인",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "중동에 세 번째 항모·1만 병력 투입…트럼프 “중간선거 뒤 공습 가능” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hNzdUYkdZNzRucm1vcGhSUGhYUnJUSmcxUzczbFpfbmROUUc4bGMtZlE1RmdTbE1Pdi04b25tMGFiWnF6M2dVWFVnQ0Q1aGY4ZjdBWDVGeHpZLTUxM0NpcHZ2RFYtRlpla0hGLWUxcU5majQ?oc=5",
+          "title": "[미래를 만드는 디자인 ②] 지구 궤도를 벗어난 디자인 - 디자인플러스",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE53a2dmRUtaZl9rX2xqM1dPVEloRWltcV9BamRyTGJVcUxaZVhYQXJJVlZhcUVfRjVMLXh2eFlYdWt6QjBnbHR1dkFQa0I?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 21:51:00 GMT"
-        },
-        {
-          "title": "트럼프, 중간선거 앞두고 ’내란법 발동’ 가능성 시사 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83M01FNXkxNjRwQldJM2hwNzBYU3MzZ0FfQjNFTUFINUZuYkRxSEFhMWRJRHpaS3pKeVpVMkRNT21IRnl0RVc4Vnhtblo4aDNiYWZTQ1oxeklRclBucGp0NmNId3E2WlU?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 15:36:00 GMT"
+          "published": "Fri, 02 Oct 2026 03:00:00 GMT"
         }
       ]
     },
     {
-      "word": "대표",
+      "word": "좋은",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[단독] 이 대통령, 정청래 전 대표와 청와대서 독대 만찬···퇴원·건강 회복 격려 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02NE1ZR2JaMDN3V1dWSDhueXRydTI1ZGNyWjBIZDZrQXVnOUFiRUtYNkpyLTBFMVhOUGQzSTBVM2ZCVmdfdnpGZ19OaDBPSGU3VDZDcGF1MDA2d9IBX0FVX3lxTE9qTl91djIzSi1PWW9IWl84SWI1NEE0VTZKZlFibklnM20ybFdFcndPaW54WHNYNnlUWTRIZDVDbV9XYUVyWXhxcEc1YUF4Y1VoUkV2RUtiM1RKN0w4X2pB?oc=5",
+          "title": "탑-나나 열애 인정 \"뮤직비디오 촬영 인연, 좋은 만남 중\" - 노컷뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01V242ZzBwVnFlTkUyR3ZCa296bERfc3hrNXczU3RwNmgwRUNqdUp0WEFidi1xSlo0VHNaM2RjeTQ4X0NYaFo5MDhOeUFwc2lzX1E?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 12:56:00 GMT"
+          "published": "Fri, 02 Oct 2026 03:00:39 GMT"
         },
         {
-          "title": "\"가출한 유해진 입증할 것\"…보수단체 대표, 집회 신고 한 곳이 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yRllEVEhaR0hyMmVvbWdoVnpFdUk5TVNCYWNZM2kzOXZpdTJQaXhVTGtIcWRFTGQ2YUI1WVY0ZmJiQ0F5TUc2M1ZjQ28waU41b3pIVkoxdlkyUQ?oc=5",
+          "title": "“요즘 뭘 먹어도 속이 쓰리네”⋯ 위장이 아플때 먹으면 좋은 음식 4가지 - 코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9OV2FxMzctWmZMMzI0ZHZCR1phODdCU1BOYmZxWHVPYkg0OEtFRzQyTXFEWVQ2MEVPaFJ2UFpFdl9aQQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 22:25:47 GMT"
+          "published": "Thu, 01 Oct 2026 13:05:00 GMT"
         }
       ]
     },
     {
-      "word": "투자",
+      "word": "아시안게임",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘알래스카 투자’ 신의성실 원칙 깬 트럼프…정부 “상업성 없으면 투자 없어” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zekt0b2JPZzVOSEFhZXRfem1aRHZSUEtGenFwOEZpRDAydXk0eHRNWncxWmxMc3VBRXhLRk54YlpsQjhhYVViTTF3NzZSNGd0TTdnTzBrMmp5MnUwRzhNTHpFNHlyVlM5UUZYLVM5bU5adw?oc=5",
+          "title": "[아시안게임] 여자 양궁, 단체전 은메달‥8회 연속 우승 실패 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lN0N5QUN4NTdTaXdjWk41Q2ZHRFl4ZE0tclhhaWtQTUNQbkxxeWhjNGdqdEFQb3pPMzNwMlViUEU5anZscVl1bFczZUh0YWlSaF9mMXlLSnZZbTU3Z2ZCUDQ1Y2hnZXFUZDdvb0xnelQyRnRZdUHSAXZBVV95cUxOd0FpY2xfUkV4UGw5VHpTeUt5Vm1jU3RWS2NPaTZ3UVZfQnl5RmdMbkxvWlJLU3pNQUlGVFJmMFFpWGxfay1qXzNvOGtnRXhuX09xUDZ1cm13ZGRSWWIwNDRPSjY5LVVRWnBRbVBEQnhrbFp5d1hn?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 12:23:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "우울증",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "35일째 비 내린 도쿄…농산물 피해, 우울증 환자까지 속출 [도쿄나우] - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQajB6RzFvX3hFRkFJeFE0Vy1SY2FhT3lzNUpWOXVnMVJ0eXdXVy00UDdobGU2V29vNWxyMmgwMzJ1TkFVS2hBd1lhM1QxRVYwRnRiRFhsczM2UQ?oc=5",
-          "source": "Google News",
-          "published": "Fri, 02 Oct 2026 00:04:54 GMT"
+          "published": "Fri, 02 Oct 2026 01:59:43 GMT"
         },
         {
-          "title": "아이의 시선이 알려주는 우울증 신호 - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wQVJBV1AzZTVlUDZfMFlmeDR4THRsazQ1SEF1dlRUWWFlSXRLNHZMYlhTSmllbHJzQmxjTkRGM0pHdWtoLW1nTkh5enB0US14VmJFQmNLVU9UbVkxMlZHOHQxVldJSkFwLUVSN2NmNkE5bWdTcUtKVNIBe0FVX3lxTE05QWltTHF3Zy1TMG8zRVV0cDR4cUk1SlF3RndtelFua09QTWNOT09FX1ctV2pydmJMV2cxLUJwa3dFYW5YSHFBWExLQWFiYTg5aDh0WGpodG1xX0h2R3lwdEw0bng1cGx4VXZqcVhCSkFrcWpkeWtlRThfWQ?oc=5",
+          "title": "韓 LoL 국가대표팀, 아시안게임 2연패 달성…결승서 대만 3대0 완파 - 지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05RFcwWnFwWVZfV290ZWhkdGRiR0pONHNfd194OWVqMkpWd0dMcXgxeTVRNFZKZjdfa01DcFdha1Yyb3JtT3VJSm13NTMtbzBzaXU2aXNn?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 17:46:33 GMT"
+          "published": "Fri, 02 Oct 2026 06:35:59 GMT"
         }
       ]
     },
     {
-      "word": "함께",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "英 찾은 이건희 컬렉션… “예술과 문화는 함께 나눠야” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55bWxCWFdYVlBqZjVhMzdsZWQ1SFN3bndlaEx4WWRzM2ZQV24wVnRpaGlMSlZ5azdfWW9EeVhKRy02N1htMEVneFhaeWFhc2lFR0QySHRSdjRuVmpqSEFFbkJIczZRM2V1d3UwdlRDamQ3ZW410gFmQVVfeXFMTzZBZm91d1hhY1MzU0dhVkFDTVdRRW4xTGpHelNTUHp6cXlZS2x2Qk9BSE1nQ3hpOEtYNG5IYkpRU3JRRFJILXBaRDNGSUdVbTFSQkdGWnY0QWctQkl5TjVJQkVMcUhB?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 19:30:00 GMT"
-        },
-        {
-          "title": "GTA 온라인의 할로윈 시즌이 주요 보너스와 생존 보상과 함께 시작되었습니다. - GameGPU",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaDRQMTdWaFh2VlRoOTl3b1Jjbm1IYm9mOGRoYU15V0ZVdC1USC1lS0tpSGFTaWtDaGJqall6ZkZTaGNHRksxOTdWWGlVamtkMXF1NEt1RmFsLVhrZDJjOUlwcDhucGFOOTM4dlhSV3RkY3BBLU14aXR5cm82aGJFTWFEeVNPLW9lUmdZdEVjRDJlNGhzQWNydWdXenhNRlN4OXJ3YlJXaGxOQU54?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 19:52:20 GMT"
-        }
-      ]
-    },
-    {
-      "word": "공개",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "캠핑카 고치며 좀비 막는다… ‘Death Falls’ 정보 공개 - 인디게임닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5fTml2TVZpeTRiemdtUTNRTFNkMV92djQzU01YMnEta0NYMmMzSXo3MTN6d3VJYkFwdEdPYXF6MmNqWFFOWVhQSFhDdXM?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 19:40:00 GMT"
-        },
-        {
-          "title": "HLB펩 항바이러스제 AGM-380, 기존 약물 내성 극복...전임상 데이터 공개 - PRESS9",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kWDRZc2paWk1HVURrZmM4bEpLdnBfaEx4eGhLVVVaMXd2T1NGbGlMWlVjREdsbnpsb3dOWi1HMF8wT2t5VzY0d1JUcm1lUDFpT0tqSUVmaVhSYmtUZUpOeWthTkc?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 23:51:34 GMT"
-        }
-      ]
-    },
-    {
-      "word": "중동",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "중동에 세 번째 항모·1만 병력 투입…트럼프 “중간선거 뒤 공습 가능” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hNzdUYkdZNzRucm1vcGhSUGhYUnJUSmcxUzczbFpfbmROUUc4bGMtZlE1RmdTbE1Pdi04b25tMGFiWnF6M2dVWFVnQ0Q1aGY4ZjdBWDVGeHpZLTUxM0NpcHZ2RFYtRlpla0hGLWUxcU5majQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 21:51:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "번째",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "중동에 세 번째 항모·1만 병력 투입…트럼프 “중간선거 뒤 공습 가능” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hNzdUYkdZNzRucm1vcGhSUGhYUnJUSmcxUzczbFpfbmROUUc4bGMtZlE1RmdTbE1Pdi04b25tMGFiWnF6M2dVWFVnQ0Q1aGY4ZjdBWDVGeHpZLTUxM0NpcHZ2RFYtRlpla0hGLWUxcU5majQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 21:51:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "항모1",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "중동에 세 번째 항모·1만 병력 투입…트럼프 “중간선거 뒤 공습 가능” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hNzdUYkdZNzRucm1vcGhSUGhYUnJUSmcxUzczbFpfbmROUUc4bGMtZlE1RmdTbE1Pdi04b25tMGFiWnF6M2dVWFVnQ0Q1aGY4ZjdBWDVGeHpZLTUxM0NpcHZ2RFYtRlpla0hGLWUxcU5majQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 21:51:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "병력",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "중동에 세 번째 항모·1만 병력 투입…트럼프 “중간선거 뒤 공습 가능” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hNzdUYkdZNzRucm1vcGhSUGhYUnJUSmcxUzczbFpfbmROUUc4bGMtZlE1RmdTbE1Pdi04b25tMGFiWnF6M2dVWFVnQ0Q1aGY4ZjdBWDVGeHpZLTUxM0NpcHZ2RFYtRlpla0hGLWUxcU5majQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 21:51:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "투입트럼프",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "중동에 세 번째 항모·1만 병력 투입…트럼프 “중간선거 뒤 공습 가능” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hNzdUYkdZNzRucm1vcGhSUGhYUnJUSmcxUzczbFpfbmROUUc4bGMtZlE1RmdTbE1Pdi04b25tMGFiWnF6M2dVWFVnQ0Q1aGY4ZjdBWDVGeHpZLTUxM0NpcHZ2RFYtRlpla0hGLWUxcU5majQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 21:51:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "공습",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "중동에 세 번째 항모·1만 병력 투입…트럼프 “중간선거 뒤 공습 가능” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hNzdUYkdZNzRucm1vcGhSUGhYUnJUSmcxUzczbFpfbmROUUc4bGMtZlE1RmdTbE1Pdi04b25tMGFiWnF6M2dVWFVnQ0Q1aGY4ZjdBWDVGeHpZLTUxM0NpcHZ2RFYtRlpla0hGLWUxcU5majQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 21:51:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "김지용",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령, 김지용 중수청장 내정자 인사청문요청안 재가 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwdzA4RDl5VERqcS13dUNmVDFCMkM2LU4wb2tOZUNBcGF6bm9DcExYOTFfQVpnN1JzbGUtUXE1N1doeEhZQnFoZ0tYR29SM2Fpbk13UTBsclFVd9IBX0FVX3lxTE9UN2NQNHBKRlVScTE5NUVfSEF6aHlWUnBUXzk4MFUzSnRFN2FPX2dob0VNeTBUUHpHN2NTM1ZhWE1XbExKNW1MNWpST3NCdG56eF92SllEX2ZHRDFQemY0?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 22:26:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "중수청장",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령, 김지용 중수청장 내정자 인사청문요청안 재가 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwdzA4RDl5VERqcS13dUNmVDFCMkM2LU4wb2tOZUNBcGF6bm9DcExYOTFfQVpnN1JzbGUtUXE1N1doeEhZQnFoZ0tYR29SM2Fpbk13UTBsclFVd9IBX0FVX3lxTE9UN2NQNHBKRlVScTE5NUVfSEF6aHlWUnBUXzk4MFUzSnRFN2FPX2dob0VNeTBUUHpHN2NTM1ZhWE1XbExKNW1MNWpST3NCdG56eF92SllEX2ZHRDFQemY0?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 22:26:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "내정자",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령, 김지용 중수청장 내정자 인사청문요청안 재가 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwdzA4RDl5VERqcS13dUNmVDFCMkM2LU4wb2tOZUNBcGF6bm9DcExYOTFfQVpnN1JzbGUtUXE1N1doeEhZQnFoZ0tYR29SM2Fpbk13UTBsclFVd9IBX0FVX3lxTE9UN2NQNHBKRlVScTE5NUVfSEF6aHlWUnBUXzk4MFUzSnRFN2FPX2dob0VNeTBUUHpHN2NTM1ZhWE1XbExKNW1MNWpST3NCdG56eF92SllEX2ZHRDFQemY0?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 22:26:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "인사청문요청안",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령, 김지용 중수청장 내정자 인사청문요청안 재가 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwdzA4RDl5VERqcS13dUNmVDFCMkM2LU4wb2tOZUNBcGF6bm9DcExYOTFfQVpnN1JzbGUtUXE1N1doeEhZQnFoZ0tYR29SM2Fpbk13UTBsclFVd9IBX0FVX3lxTE9UN2NQNHBKRlVScTE5NUVfSEF6aHlWUnBUXzk4MFUzSnRFN2FPX2dob0VNeTBUUHpHN2NTM1ZhWE1XbExKNW1MNWpST3NCdG56eF92SllEX2ZHRDFQemY0?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 22:26:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "재가",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령, 김지용 중수청장 내정자 인사청문요청안 재가 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwdzA4RDl5VERqcS13dUNmVDFCMkM2LU4wb2tOZUNBcGF6bm9DcExYOTFfQVpnN1JzbGUtUXE1N1doeEhZQnFoZ0tYR29SM2Fpbk13UTBsclFVd9IBX0FVX3lxTE9UN2NQNHBKRlVScTE5NUVfSEF6aHlWUnBUXzk4MFUzSnRFN2FPX2dob0VNeTBUUHpHN2NTM1ZhWE1XbExKNW1MNWpST3NCdG56eF92SllEX2ZHRDFQemY0?oc=5",
-          "source": "Google News",
-          "published": "Thu, 01 Oct 2026 22:26:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "공소청중수청",
+      "word": "외교부",
       "count": 1,
       "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "공소청·중수청 시대 오늘 개막…'검찰 개혁' 시험대 올랐다 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4cjJ6dFplaXlIZkNPYXRXeS05bTRqRUgxMkgwN0xBbVVHOEtZbURHUzZQa281Sl9DbjItby1DY0lhNXpwelhmcVI5dVR2ellrX2RpRlpQdllMTWfSAWBBVV95cUxNb25EVUhITjY3MGhrRE4xSU1EeFFZZTlFXzNIa2Z1U0RQTEVBaVhLU1p5Z0RldGJXYVJ0clhYUmlRQjV3TDkzVnpwb2ZJemlqaHlPS2JmRnlVYXotMFNhaDI?oc=5",
+          "title": "외교부 고위당국자 “우크라와 사과 포함 협의중” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XSW05Wkw1YWJMSFNYVlhvNlcxdWswdEY3TTBNUUl3RWdnbmJqdzlkdlRTdV9yMHg2aGtMdmhEUlNpTkZYVzBDbnl3OUMwWkFmbXpuV1lqM3pSRkhfV2tER0tESUtSTTJPVGd1QkhTS1ZjTjBB?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 20:30:02 GMT"
+          "published": "Fri, 02 Oct 2026 04:19:00 GMT"
         }
       ]
     },
     {
-      "word": "시대",
+      "word": "고위당국자",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "공소청·중수청 시대 오늘 개막…'검찰 개혁' 시험대 올랐다 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4cjJ6dFplaXlIZkNPYXRXeS05bTRqRUgxMkgwN0xBbVVHOEtZbURHUzZQa281Sl9DbjItby1DY0lhNXpwelhmcVI5dVR2ellrX2RpRlpQdllMTWfSAWBBVV95cUxNb25EVUhITjY3MGhrRE4xSU1EeFFZZTlFXzNIa2Z1U0RQTEVBaVhLU1p5Z0RldGJXYVJ0clhYUmlRQjV3TDkzVnpwb2ZJemlqaHlPS2JmRnlVYXotMFNhaDI?oc=5",
+          "title": "외교부 고위당국자 “우크라와 사과 포함 협의중” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XSW05Wkw1YWJMSFNYVlhvNlcxdWswdEY3TTBNUUl3RWdnbmJqdzlkdlRTdV9yMHg2aGtMdmhEUlNpTkZYVzBDbnl3OUMwWkFmbXpuV1lqM3pSRkhfV2tER0tESUtSTTJPVGd1QkhTS1ZjTjBB?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 20:30:02 GMT"
+          "published": "Fri, 02 Oct 2026 04:19:00 GMT"
         }
       ]
     },
     {
-      "word": "개막검찰",
+      "word": "우크",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "공소청·중수청 시대 오늘 개막…'검찰 개혁' 시험대 올랐다 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4cjJ6dFplaXlIZkNPYXRXeS05bTRqRUgxMkgwN0xBbVVHOEtZbURHUzZQa281Sl9DbjItby1DY0lhNXpwelhmcVI5dVR2ellrX2RpRlpQdllMTWfSAWBBVV95cUxNb25EVUhITjY3MGhrRE4xSU1EeFFZZTlFXzNIa2Z1U0RQTEVBaVhLU1p5Z0RldGJXYVJ0clhYUmlRQjV3TDkzVnpwb2ZJemlqaHlPS2JmRnlVYXotMFNhaDI?oc=5",
+          "title": "외교부 고위당국자 “우크라와 사과 포함 협의중” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XSW05Wkw1YWJMSFNYVlhvNlcxdWswdEY3TTBNUUl3RWdnbmJqdzlkdlRTdV9yMHg2aGtMdmhEUlNpTkZYVzBDbnl3OUMwWkFmbXpuV1lqM3pSRkhfV2tER0tESUtSTTJPVGd1QkhTS1ZjTjBB?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 20:30:02 GMT"
+          "published": "Fri, 02 Oct 2026 04:19:00 GMT"
         }
       ]
     },
     {
-      "word": "개혁",
+      "word": "사과",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "공소청·중수청 시대 오늘 개막…'검찰 개혁' 시험대 올랐다 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4cjJ6dFplaXlIZkNPYXRXeS05bTRqRUgxMkgwN0xBbVVHOEtZbURHUzZQa281Sl9DbjItby1DY0lhNXpwelhmcVI5dVR2ellrX2RpRlpQdllMTWfSAWBBVV95cUxNb25EVUhITjY3MGhrRE4xSU1EeFFZZTlFXzNIa2Z1U0RQTEVBaVhLU1p5Z0RldGJXYVJ0clhYUmlRQjV3TDkzVnpwb2ZJemlqaHlPS2JmRnlVYXotMFNhaDI?oc=5",
+          "title": "외교부 고위당국자 “우크라와 사과 포함 협의중” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XSW05Wkw1YWJMSFNYVlhvNlcxdWswdEY3TTBNUUl3RWdnbmJqdzlkdlRTdV9yMHg2aGtMdmhEUlNpTkZYVzBDbnl3OUMwWkFmbXpuV1lqM3pSRkhfV2tER0tESUtSTTJPVGd1QkhTS1ZjTjBB?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 20:30:02 GMT"
+          "published": "Fri, 02 Oct 2026 04:19:00 GMT"
         }
       ]
     },
     {
-      "word": "시험대",
+      "word": "포함",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "공소청·중수청 시대 오늘 개막…'검찰 개혁' 시험대 올랐다 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4cjJ6dFplaXlIZkNPYXRXeS05bTRqRUgxMkgwN0xBbVVHOEtZbURHUzZQa281Sl9DbjItby1DY0lhNXpwelhmcVI5dVR2ellrX2RpRlpQdllMTWfSAWBBVV95cUxNb25EVUhITjY3MGhrRE4xSU1EeFFZZTlFXzNIa2Z1U0RQTEVBaVhLU1p5Z0RldGJXYVJ0clhYUmlRQjV3TDkzVnpwb2ZJemlqaHlPS2JmRnlVYXotMFNhaDI?oc=5",
+          "title": "외교부 고위당국자 “우크라와 사과 포함 협의중” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XSW05Wkw1YWJMSFNYVlhvNlcxdWswdEY3TTBNUUl3RWdnbmJqdzlkdlRTdV9yMHg2aGtMdmhEUlNpTkZYVzBDbnl3OUMwWkFmbXpuV1lqM3pSRkhfV2tER0tESUtSTTJPVGd1QkhTS1ZjTjBB?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 20:30:02 GMT"
+          "published": "Fri, 02 Oct 2026 04:19:00 GMT"
         }
       ]
     },
     {
-      "word": "올랐다",
+      "word": "협의중",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "공소청·중수청 시대 오늘 개막…'검찰 개혁' 시험대 올랐다 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4cjJ6dFplaXlIZkNPYXRXeS05bTRqRUgxMkgwN0xBbVVHOEtZbURHUzZQa281Sl9DbjItby1DY0lhNXpwelhmcVI5dVR2ellrX2RpRlpQdllMTWfSAWBBVV95cUxNb25EVUhITjY3MGhrRE4xSU1EeFFZZTlFXzNIa2Z1U0RQTEVBaVhLU1p5Z0RldGJXYVJ0clhYUmlRQjV3TDkzVnpwb2ZJemlqaHlPS2JmRnlVYXotMFNhaDI?oc=5",
+          "title": "외교부 고위당국자 “우크라와 사과 포함 협의중” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XSW05Wkw1YWJMSFNYVlhvNlcxdWswdEY3TTBNUUl3RWdnbmJqdzlkdlRTdV9yMHg2aGtMdmhEUlNpTkZYVzBDbnl3OUMwWkFmbXpuV1lqM3pSRkhfV2tER0tESUtSTTJPVGd1QkhTS1ZjTjBB?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 20:30:02 GMT"
+          "published": "Fri, 02 Oct 2026 04:19:00 GMT"
         }
       ]
     },
     {
-      "word": "정청래",
+      "word": "1심",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[단독] 이 대통령, 정청래 전 대표와 청와대서 독대 만찬···퇴원·건강 회복 격려 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02NE1ZR2JaMDN3V1dWSDhueXRydTI1ZGNyWjBIZDZrQXVnOUFiRUtYNkpyLTBFMVhOUGQzSTBVM2ZCVmdfdnpGZ19OaDBPSGU3VDZDcGF1MDA2d9IBX0FVX3lxTE9qTl91djIzSi1PWW9IWl84SWI1NEE0VTZKZlFibklnM20ybFdFcndPaW54WHNYNnlUWTRIZDVDbV9XYUVyWXhxcEc1YUF4Y1VoUkV2RUtiM1RKN0w4X2pB?oc=5",
+          "title": "'1심 시장직 상실형' 오세훈 서울시장 오늘 항소심 변론 종결 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sZFhFa005Um9XTVlaTEd5a0Y0djFFVUlmdmNaMmdPeHVsUzRlRzV3dFBRdDBGOGNjb0VtbHNXY19LOFg4ZUZxY3Ywb2stdHBfbWRrQVgyOXVUb3FjT3RSQVRZQ0hLejNvNllzY1FkZ0VoZi1KdXBV0gF3QVVfeXFMUEFPckhYbnJ3MHI5ZnRkV2psNU1OR3dQTlZoSUx0UUFWOXB2S2xra210TFRCYm9mdzFZTmZNZ2ZvLTVEM3pwalU2UUFJSVJnNUx4OXZjakxCWGFrVGFKY09uV2FuMzBCWllFVkU5MWhnczF5cWF0LWM?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 12:56:00 GMT"
+          "published": "Fri, 02 Oct 2026 00:35:12 GMT"
         }
       ]
     },
     {
-      "word": "청와대서",
+      "word": "시장직",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[단독] 이 대통령, 정청래 전 대표와 청와대서 독대 만찬···퇴원·건강 회복 격려 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02NE1ZR2JaMDN3V1dWSDhueXRydTI1ZGNyWjBIZDZrQXVnOUFiRUtYNkpyLTBFMVhOUGQzSTBVM2ZCVmdfdnpGZ19OaDBPSGU3VDZDcGF1MDA2d9IBX0FVX3lxTE9qTl91djIzSi1PWW9IWl84SWI1NEE0VTZKZlFibklnM20ybFdFcndPaW54WHNYNnlUWTRIZDVDbV9XYUVyWXhxcEc1YUF4Y1VoUkV2RUtiM1RKN0w4X2pB?oc=5",
+          "title": "'1심 시장직 상실형' 오세훈 서울시장 오늘 항소심 변론 종결 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sZFhFa005Um9XTVlaTEd5a0Y0djFFVUlmdmNaMmdPeHVsUzRlRzV3dFBRdDBGOGNjb0VtbHNXY19LOFg4ZUZxY3Ywb2stdHBfbWRrQVgyOXVUb3FjT3RSQVRZQ0hLejNvNllzY1FkZ0VoZi1KdXBV0gF3QVVfeXFMUEFPckhYbnJ3MHI5ZnRkV2psNU1OR3dQTlZoSUx0UUFWOXB2S2xra210TFRCYm9mdzFZTmZNZ2ZvLTVEM3pwalU2UUFJSVJnNUx4OXZjakxCWGFrVGFKY09uV2FuMzBCWllFVkU5MWhnczF5cWF0LWM?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 12:56:00 GMT"
+          "published": "Fri, 02 Oct 2026 00:35:12 GMT"
         }
       ]
     },
     {
-      "word": "독대",
+      "word": "상실형",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[단독] 이 대통령, 정청래 전 대표와 청와대서 독대 만찬···퇴원·건강 회복 격려 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02NE1ZR2JaMDN3V1dWSDhueXRydTI1ZGNyWjBIZDZrQXVnOUFiRUtYNkpyLTBFMVhOUGQzSTBVM2ZCVmdfdnpGZ19OaDBPSGU3VDZDcGF1MDA2d9IBX0FVX3lxTE9qTl91djIzSi1PWW9IWl84SWI1NEE0VTZKZlFibklnM20ybFdFcndPaW54WHNYNnlUWTRIZDVDbV9XYUVyWXhxcEc1YUF4Y1VoUkV2RUtiM1RKN0w4X2pB?oc=5",
+          "title": "'1심 시장직 상실형' 오세훈 서울시장 오늘 항소심 변론 종결 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sZFhFa005Um9XTVlaTEd5a0Y0djFFVUlmdmNaMmdPeHVsUzRlRzV3dFBRdDBGOGNjb0VtbHNXY19LOFg4ZUZxY3Ywb2stdHBfbWRrQVgyOXVUb3FjT3RSQVRZQ0hLejNvNllzY1FkZ0VoZi1KdXBV0gF3QVVfeXFMUEFPckhYbnJ3MHI5ZnRkV2psNU1OR3dQTlZoSUx0UUFWOXB2S2xra210TFRCYm9mdzFZTmZNZ2ZvLTVEM3pwalU2UUFJSVJnNUx4OXZjakxCWGFrVGFKY09uV2FuMzBCWllFVkU5MWhnczF5cWF0LWM?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 12:56:00 GMT"
+          "published": "Fri, 02 Oct 2026 00:35:12 GMT"
         }
       ]
     },
     {
-      "word": "만찬퇴원건강",
+      "word": "오세훈",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[단독] 이 대통령, 정청래 전 대표와 청와대서 독대 만찬···퇴원·건강 회복 격려 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02NE1ZR2JaMDN3V1dWSDhueXRydTI1ZGNyWjBIZDZrQXVnOUFiRUtYNkpyLTBFMVhOUGQzSTBVM2ZCVmdfdnpGZ19OaDBPSGU3VDZDcGF1MDA2d9IBX0FVX3lxTE9qTl91djIzSi1PWW9IWl84SWI1NEE0VTZKZlFibklnM20ybFdFcndPaW54WHNYNnlUWTRIZDVDbV9XYUVyWXhxcEc1YUF4Y1VoUkV2RUtiM1RKN0w4X2pB?oc=5",
+          "title": "'1심 시장직 상실형' 오세훈 서울시장 오늘 항소심 변론 종결 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sZFhFa005Um9XTVlaTEd5a0Y0djFFVUlmdmNaMmdPeHVsUzRlRzV3dFBRdDBGOGNjb0VtbHNXY19LOFg4ZUZxY3Ywb2stdHBfbWRrQVgyOXVUb3FjT3RSQVRZQ0hLejNvNllzY1FkZ0VoZi1KdXBV0gF3QVVfeXFMUEFPckhYbnJ3MHI5ZnRkV2psNU1OR3dQTlZoSUx0UUFWOXB2S2xra210TFRCYm9mdzFZTmZNZ2ZvLTVEM3pwalU2UUFJSVJnNUx4OXZjakxCWGFrVGFKY09uV2FuMzBCWllFVkU5MWhnczF5cWF0LWM?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 12:56:00 GMT"
+          "published": "Fri, 02 Oct 2026 00:35:12 GMT"
         }
       ]
     },
     {
-      "word": "회복",
+      "word": "서울시장",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[단독] 이 대통령, 정청래 전 대표와 청와대서 독대 만찬···퇴원·건강 회복 격려 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02NE1ZR2JaMDN3V1dWSDhueXRydTI1ZGNyWjBIZDZrQXVnOUFiRUtYNkpyLTBFMVhOUGQzSTBVM2ZCVmdfdnpGZ19OaDBPSGU3VDZDcGF1MDA2d9IBX0FVX3lxTE9qTl91djIzSi1PWW9IWl84SWI1NEE0VTZKZlFibklnM20ybFdFcndPaW54WHNYNnlUWTRIZDVDbV9XYUVyWXhxcEc1YUF4Y1VoUkV2RUtiM1RKN0w4X2pB?oc=5",
+          "title": "'1심 시장직 상실형' 오세훈 서울시장 오늘 항소심 변론 종결 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sZFhFa005Um9XTVlaTEd5a0Y0djFFVUlmdmNaMmdPeHVsUzRlRzV3dFBRdDBGOGNjb0VtbHNXY19LOFg4ZUZxY3Ywb2stdHBfbWRrQVgyOXVUb3FjT3RSQVRZQ0hLejNvNllzY1FkZ0VoZi1KdXBV0gF3QVVfeXFMUEFPckhYbnJ3MHI5ZnRkV2psNU1OR3dQTlZoSUx0UUFWOXB2S2xra210TFRCYm9mdzFZTmZNZ2ZvLTVEM3pwalU2UUFJSVJnNUx4OXZjakxCWGFrVGFKY09uV2FuMzBCWllFVkU5MWhnczF5cWF0LWM?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 12:56:00 GMT"
+          "published": "Fri, 02 Oct 2026 00:35:12 GMT"
         }
       ]
     },
     {
-      "word": "격려",
+      "word": "항소심",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[단독] 이 대통령, 정청래 전 대표와 청와대서 독대 만찬···퇴원·건강 회복 격려 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02NE1ZR2JaMDN3V1dWSDhueXRydTI1ZGNyWjBIZDZrQXVnOUFiRUtYNkpyLTBFMVhOUGQzSTBVM2ZCVmdfdnpGZ19OaDBPSGU3VDZDcGF1MDA2d9IBX0FVX3lxTE9qTl91djIzSi1PWW9IWl84SWI1NEE0VTZKZlFibklnM20ybFdFcndPaW54WHNYNnlUWTRIZDVDbV9XYUVyWXhxcEc1YUF4Y1VoUkV2RUtiM1RKN0w4X2pB?oc=5",
+          "title": "'1심 시장직 상실형' 오세훈 서울시장 오늘 항소심 변론 종결 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sZFhFa005Um9XTVlaTEd5a0Y0djFFVUlmdmNaMmdPeHVsUzRlRzV3dFBRdDBGOGNjb0VtbHNXY19LOFg4ZUZxY3Ywb2stdHBfbWRrQVgyOXVUb3FjT3RSQVRZQ0hLejNvNllzY1FkZ0VoZi1KdXBV0gF3QVVfeXFMUEFPckhYbnJ3MHI5ZnRkV2psNU1OR3dQTlZoSUx0UUFWOXB2S2xra210TFRCYm9mdzFZTmZNZ2ZvLTVEM3pwalU2UUFJSVJnNUx4OXZjakxCWGFrVGFKY09uV2FuMzBCWllFVkU5MWhnczF5cWF0LWM?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 12:56:00 GMT"
+          "published": "Fri, 02 Oct 2026 00:35:12 GMT"
         }
       ]
     },
     {
-      "word": "이스라엘행",
+      "word": "변론",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "’이스라엘행 여객기 난동’ 부기장, UAE로 압송 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyNGNtMnR3ZWNuRlJxcFdhVmdNWEFZVFRoX2xBWlBIOEVqeDFsU29YdnNNZ1pBZ0RaS3RXSW9rUkhWcUE0aVloZW5yTGJFNU1fNDNlbGpfZXpSNXhyajhRR09NOEswZ0U?oc=5",
+          "title": "'1심 시장직 상실형' 오세훈 서울시장 오늘 항소심 변론 종결 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sZFhFa005Um9XTVlaTEd5a0Y0djFFVUlmdmNaMmdPeHVsUzRlRzV3dFBRdDBGOGNjb0VtbHNXY19LOFg4ZUZxY3Ywb2stdHBfbWRrQVgyOXVUb3FjT3RSQVRZQ0hLejNvNllzY1FkZ0VoZi1KdXBV0gF3QVVfeXFMUEFPckhYbnJ3MHI5ZnRkV2psNU1OR3dQTlZoSUx0UUFWOXB2S2xra210TFRCYm9mdzFZTmZNZ2ZvLTVEM3pwalU2UUFJSVJnNUx4OXZjakxCWGFrVGFKY09uV2FuMzBCWllFVkU5MWhnczF5cWF0LWM?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 23:42:00 GMT"
+          "published": "Fri, 02 Oct 2026 00:35:12 GMT"
         }
       ]
     },
     {
-      "word": "여객기",
+      "word": "종결",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "’이스라엘행 여객기 난동’ 부기장, UAE로 압송 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyNGNtMnR3ZWNuRlJxcFdhVmdNWEFZVFRoX2xBWlBIOEVqeDFsU29YdnNNZ1pBZ0RaS3RXSW9rUkhWcUE0aVloZW5yTGJFNU1fNDNlbGpfZXpSNXhyajhRR09NOEswZ0U?oc=5",
+          "title": "'1심 시장직 상실형' 오세훈 서울시장 오늘 항소심 변론 종결 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sZFhFa005Um9XTVlaTEd5a0Y0djFFVUlmdmNaMmdPeHVsUzRlRzV3dFBRdDBGOGNjb0VtbHNXY19LOFg4ZUZxY3Ywb2stdHBfbWRrQVgyOXVUb3FjT3RSQVRZQ0hLejNvNllzY1FkZ0VoZi1KdXBV0gF3QVVfeXFMUEFPckhYbnJ3MHI5ZnRkV2psNU1OR3dQTlZoSUx0UUFWOXB2S2xra210TFRCYm9mdzFZTmZNZ2ZvLTVEM3pwalU2UUFJSVJnNUx4OXZjakxCWGFrVGFKY09uV2FuMzBCWllFVkU5MWhnczF5cWF0LWM?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 23:42:00 GMT"
+          "published": "Fri, 02 Oct 2026 00:35:12 GMT"
         }
       ]
     },
     {
-      "word": "난동",
+      "word": "정동영",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "’이스라엘행 여객기 난동’ 부기장, UAE로 압송 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyNGNtMnR3ZWNuRlJxcFdhVmdNWEFZVFRoX2xBWlBIOEVqeDFsU29YdnNNZ1pBZ0RaS3RXSW9rUkhWcUE0aVloZW5yTGJFNU1fNDNlbGpfZXpSNXhyajhRR09NOEswZ0U?oc=5",
+          "title": "정동영 \"통일부 장관으로 북에 제의…만나서 소통하자\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY3ZFN2w4LWJmT0NPRjNjR1cyT2M5anJtQVRsemUzZmdIMGRILUZXRTRrZm5IaGloQmVKdUlCbkxpeWVYdXcxMjNJSF9mbU42cXNnMlNqMjMtNU04dmF4SHVCY2ctTzNFVTJJTjlNdXAwOS1xa1E0ajVnS0tGb2RLeFFaSDlEMzNJdEotWXYxMHI?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 23:42:00 GMT"
+          "published": "Fri, 02 Oct 2026 01:15:00 GMT"
         }
       ]
     },
     {
-      "word": "부기장",
+      "word": "통일부",
       "count": 1,
-      "category": "NOUN",
+      "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "’이스라엘행 여객기 난동’ 부기장, UAE로 압송 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyNGNtMnR3ZWNuRlJxcFdhVmdNWEFZVFRoX2xBWlBIOEVqeDFsU29YdnNNZ1pBZ0RaS3RXSW9rUkhWcUE0aVloZW5yTGJFNU1fNDNlbGpfZXpSNXhyajhRR09NOEswZ0U?oc=5",
+          "title": "정동영 \"통일부 장관으로 북에 제의…만나서 소통하자\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY3ZFN2w4LWJmT0NPRjNjR1cyT2M5anJtQVRsemUzZmdIMGRILUZXRTRrZm5IaGloQmVKdUlCbkxpeWVYdXcxMjNJSF9mbU42cXNnMlNqMjMtNU04dmF4SHVCY2ctTzNFVTJJTjlNdXAwOS1xa1E0ajVnS0tGb2RLeFFaSDlEMzNJdEotWXYxMHI?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 23:42:00 GMT"
+          "published": "Fri, 02 Oct 2026 01:15:00 GMT"
         }
       ]
     },
     {
-      "word": "UAE",
+      "word": "장관",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "’이스라엘행 여객기 난동’ 부기장, UAE로 압송 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyNGNtMnR3ZWNuRlJxcFdhVmdNWEFZVFRoX2xBWlBIOEVqeDFsU29YdnNNZ1pBZ0RaS3RXSW9rUkhWcUE0aVloZW5yTGJFNU1fNDNlbGpfZXpSNXhyajhRR09NOEswZ0U?oc=5",
+          "title": "정동영 \"통일부 장관으로 북에 제의…만나서 소통하자\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY3ZFN2w4LWJmT0NPRjNjR1cyT2M5anJtQVRsemUzZmdIMGRILUZXRTRrZm5IaGloQmVKdUlCbkxpeWVYdXcxMjNJSF9mbU42cXNnMlNqMjMtNU04dmF4SHVCY2ctTzNFVTJJTjlNdXAwOS1xa1E0ajVnS0tGb2RLeFFaSDlEMzNJdEotWXYxMHI?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 23:42:00 GMT"
+          "published": "Fri, 02 Oct 2026 01:15:00 GMT"
         }
       ]
     },
     {
-      "word": "압송",
+      "word": "북에",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "’이스라엘행 여객기 난동’ 부기장, UAE로 압송 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyNGNtMnR3ZWNuRlJxcFdhVmdNWEFZVFRoX2xBWlBIOEVqeDFsU29YdnNNZ1pBZ0RaS3RXSW9rUkhWcUE0aVloZW5yTGJFNU1fNDNlbGpfZXpSNXhyajhRR09NOEswZ0U?oc=5",
+          "title": "정동영 \"통일부 장관으로 북에 제의…만나서 소통하자\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY3ZFN2w4LWJmT0NPRjNjR1cyT2M5anJtQVRsemUzZmdIMGRILUZXRTRrZm5IaGloQmVKdUlCbkxpeWVYdXcxMjNJSF9mbU42cXNnMlNqMjMtNU04dmF4SHVCY2ctTzNFVTJJTjlNdXAwOS1xa1E0ajVnS0tGb2RLeFFaSDlEMzNJdEotWXYxMHI?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 23:42:00 GMT"
+          "published": "Fri, 02 Oct 2026 01:15:00 GMT"
         }
       ]
     },
     {
-      "word": "출근길",
+      "word": "제의만나서",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[출근길 날씨] 어제보다 쌀쌀한 아침…개천절 연휴에 곳곳 비 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OYTBJbllOYThTRlRnaEdvTEVkVEJGRjBfU3ZsRGlfcmFhVzVXdVhvZ2Y3RDd5Yzh5VVpwcWtlT1BZZGQ2LTF1NFFValRKcGkzMlFfN0lKUkNwS1Vxc3lILWYwaDRUUQ?oc=5",
+          "title": "정동영 \"통일부 장관으로 북에 제의…만나서 소통하자\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY3ZFN2w4LWJmT0NPRjNjR1cyT2M5anJtQVRsemUzZmdIMGRILUZXRTRrZm5IaGloQmVKdUlCbkxpeWVYdXcxMjNJSF9mbU42cXNnMlNqMjMtNU04dmF4SHVCY2ctTzNFVTJJTjlNdXAwOS1xa1E0ajVnS0tGb2RLeFFaSDlEMzNJdEotWXYxMHI?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 21:34:00 GMT"
+          "published": "Fri, 02 Oct 2026 01:15:00 GMT"
         }
       ]
     },
     {
-      "word": "날씨",
+      "word": "소통하자",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[출근길 날씨] 어제보다 쌀쌀한 아침…개천절 연휴에 곳곳 비 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OYTBJbllOYThTRlRnaEdvTEVkVEJGRjBfU3ZsRGlfcmFhVzVXdVhvZ2Y3RDd5Yzh5VVpwcWtlT1BZZGQ2LTF1NFFValRKcGkzMlFfN0lKUkNwS1Vxc3lILWYwaDRUUQ?oc=5",
+          "title": "정동영 \"통일부 장관으로 북에 제의…만나서 소통하자\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY3ZFN2w4LWJmT0NPRjNjR1cyT2M5anJtQVRsemUzZmdIMGRILUZXRTRrZm5IaGloQmVKdUlCbkxpeWVYdXcxMjNJSF9mbU42cXNnMlNqMjMtNU04dmF4SHVCY2ctTzNFVTJJTjlNdXAwOS1xa1E0ajVnS0tGb2RLeFFaSDlEMzNJdEotWXYxMHI?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 21:34:00 GMT"
+          "published": "Fri, 02 Oct 2026 01:15:00 GMT"
         }
       ]
     },
     {
-      "word": "어제보다",
+      "word": "수사권",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[출근길 날씨] 어제보다 쌀쌀한 아침…개천절 연휴에 곳곳 비 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OYTBJbllOYThTRlRnaEdvTEVkVEJGRjBfU3ZsRGlfcmFhVzVXdVhvZ2Y3RDd5Yzh5VVpwcWtlT1BZZGQ2LTF1NFFValRKcGkzMlFfN0lKUkNwS1Vxc3lILWYwaDRUUQ?oc=5",
+          "title": "수사권 뗀 공소청 공식 출범…42개 직접수사 부서 폐지·공판 및 사법통제 강화 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9EVVlTcFdVbGpwYzd4M1V0aFNVazlNUG5zbU1zMjRycVpWQVo2WjZKSTJTaENxS2N6bGJSVDhCYjdoeFBlRHM0YnJKTXpBZmpGcXhMVkhVZ0xUVkNBZTgyMEdaTTg2dHNDRGZEMEFXUHNVZw?oc=5",
           "source": "Google News",
-          "published": "Thu, 01 Oct 2026 21:34:00 GMT"
+          "published": "Fri, 02 Oct 2026 02:58:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "공소청",
+      "count": 1,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "수사권 뗀 공소청 공식 출범…42개 직접수사 부서 폐지·공판 및 사법통제 강화 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9EVVlTcFdVbGpwYzd4M1V0aFNVazlNUG5zbU1zMjRycVpWQVo2WjZKSTJTaENxS2N6bGJSVDhCYjdoeFBlRHM0YnJKTXpBZmpGcXhMVkhVZ0xUVkNBZTgyMEdaTTg2dHNDRGZEMEFXUHNVZw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 02 Oct 2026 02:58:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "공식",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "수사권 뗀 공소청 공식 출범…42개 직접수사 부서 폐지·공판 및 사법통제 강화 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9EVVlTcFdVbGpwYzd4M1V0aFNVazlNUG5zbU1zMjRycVpWQVo2WjZKSTJTaENxS2N6bGJSVDhCYjdoeFBlRHM0YnJKTXpBZmpGcXhMVkhVZ0xUVkNBZTgyMEdaTTg2dHNDRGZEMEFXUHNVZw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 02 Oct 2026 02:58:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "출범42개",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "수사권 뗀 공소청 공식 출범…42개 직접수사 부서 폐지·공판 및 사법통제 강화 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9EVVlTcFdVbGpwYzd4M1V0aFNVazlNUG5zbU1zMjRycVpWQVo2WjZKSTJTaENxS2N6bGJSVDhCYjdoeFBlRHM0YnJKTXpBZmpGcXhMVkhVZ0xUVkNBZTgyMEdaTTg2dHNDRGZEMEFXUHNVZw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 02 Oct 2026 02:58:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "직접수사",
+      "count": 1,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "수사권 뗀 공소청 공식 출범…42개 직접수사 부서 폐지·공판 및 사법통제 강화 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9EVVlTcFdVbGpwYzd4M1V0aFNVazlNUG5zbU1zMjRycVpWQVo2WjZKSTJTaENxS2N6bGJSVDhCYjdoeFBlRHM0YnJKTXpBZmpGcXhMVkhVZ0xUVkNBZTgyMEdaTTg2dHNDRGZEMEFXUHNVZw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 02 Oct 2026 02:58:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "부서",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "수사권 뗀 공소청 공식 출범…42개 직접수사 부서 폐지·공판 및 사법통제 강화 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9EVVlTcFdVbGpwYzd4M1V0aFNVazlNUG5zbU1zMjRycVpWQVo2WjZKSTJTaENxS2N6bGJSVDhCYjdoeFBlRHM0YnJKTXpBZmpGcXhMVkhVZ0xUVkNBZTgyMEdaTTg2dHNDRGZEMEFXUHNVZw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 02 Oct 2026 02:58:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "폐지공판",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "수사권 뗀 공소청 공식 출범…42개 직접수사 부서 폐지·공판 및 사법통제 강화 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9EVVlTcFdVbGpwYzd4M1V0aFNVazlNUG5zbU1zMjRycVpWQVo2WjZKSTJTaENxS2N6bGJSVDhCYjdoeFBlRHM0YnJKTXpBZmpGcXhMVkhVZ0xUVkNBZTgyMEdaTTg2dHNDRGZEMEFXUHNVZw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 02 Oct 2026 02:58:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "사법통제",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "수사권 뗀 공소청 공식 출범…42개 직접수사 부서 폐지·공판 및 사법통제 강화 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9EVVlTcFdVbGpwYzd4M1V0aFNVazlNUG5zbU1zMjRycVpWQVo2WjZKSTJTaENxS2N6bGJSVDhCYjdoeFBlRHM0YnJKTXpBZmpGcXhMVkhVZ0xUVkNBZTgyMEdaTTg2dHNDRGZEMEFXUHNVZw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 02 Oct 2026 02:58:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "강화",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "수사권 뗀 공소청 공식 출범…42개 직접수사 부서 폐지·공판 및 사법통제 강화 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9EVVlTcFdVbGpwYzd4M1V0aFNVazlNUG5zbU1zMjRycVpWQVo2WjZKSTJTaENxS2N6bGJSVDhCYjdoeFBlRHM0YnJKTXpBZmpGcXhMVkhVZ0xUVkNBZTgyMEdaTTg2dHNDRGZEMEFXUHNVZw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 02 Oct 2026 02:58:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "상어",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "상어 ‘부캉이’ 공공 자산으로 보호…“상표권 독점 막는다” - news.kbs.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NNUVPYWR0ZEhSSWl2TzRCREJ2bU9ITWdsQ0NpWXpzOVM0RlNRNkpINHZ1ZWRwZWlZbndfX1pvWHdLZjlXUnV5SEg2YzlseU12TnBYSGw0UXNOd0U?oc=5",
+          "source": "Google News",
+          "published": "Fri, 02 Oct 2026 05:05:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "부캉",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "상어 ‘부캉이’ 공공 자산으로 보호…“상표권 독점 막는다” - news.kbs.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NNUVPYWR0ZEhSSWl2TzRCREJ2bU9ITWdsQ0NpWXpzOVM0RlNRNkpINHZ1ZWRwZWlZbndfX1pvWHdLZjlXUnV5SEg2YzlseU12TnBYSGw0UXNOd0U?oc=5",
+          "source": "Google News",
+          "published": "Fri, 02 Oct 2026 05:05:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "공공",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "상어 ‘부캉이’ 공공 자산으로 보호…“상표권 독점 막는다” - news.kbs.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NNUVPYWR0ZEhSSWl2TzRCREJ2bU9ITWdsQ0NpWXpzOVM0RlNRNkpINHZ1ZWRwZWlZbndfX1pvWHdLZjlXUnV5SEg2YzlseU12TnBYSGw0UXNOd0U?oc=5",
+          "source": "Google News",
+          "published": "Fri, 02 Oct 2026 05:05:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "자산",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "상어 ‘부캉이’ 공공 자산으로 보호…“상표권 독점 막는다” - news.kbs.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NNUVPYWR0ZEhSSWl2TzRCREJ2bU9ITWdsQ0NpWXpzOVM0RlNRNkpINHZ1ZWRwZWlZbndfX1pvWHdLZjlXUnV5SEg2YzlseU12TnBYSGw0UXNOd0U?oc=5",
+          "source": "Google News",
+          "published": "Fri, 02 Oct 2026 05:05:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "보호상표권",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "상어 ‘부캉이’ 공공 자산으로 보호…“상표권 독점 막는다” - news.kbs.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NNUVPYWR0ZEhSSWl2TzRCREJ2bU9ITWdsQ0NpWXpzOVM0RlNRNkpINHZ1ZWRwZWlZbndfX1pvWHdLZjlXUnV5SEg2YzlseU12TnBYSGw0UXNOd0U?oc=5",
+          "source": "Google News",
+          "published": "Fri, 02 Oct 2026 05:05:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "독점",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "상어 ‘부캉이’ 공공 자산으로 보호…“상표권 독점 막는다” - news.kbs.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NNUVPYWR0ZEhSSWl2TzRCREJ2bU9ITWdsQ0NpWXpzOVM0RlNRNkpINHZ1ZWRwZWlZbndfX1pvWHdLZjlXUnV5SEg2YzlseU12TnBYSGw0UXNOd0U?oc=5",
+          "source": "Google News",
+          "published": "Fri, 02 Oct 2026 05:05:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "막는다",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "상어 ‘부캉이’ 공공 자산으로 보호…“상표권 독점 막는다” - news.kbs.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NNUVPYWR0ZEhSSWl2TzRCREJ2bU9ITWdsQ0NpWXpzOVM0RlNRNkpINHZ1ZWRwZWlZbndfX1pvWHdLZjlXUnV5SEg2YzlseU12TnBYSGw0UXNOd0U?oc=5",
+          "source": "Google News",
+          "published": "Fri, 02 Oct 2026 05:05:00 GMT"
         }
       ]
     }
