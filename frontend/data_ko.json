@@ -1,56 +1,157 @@
 {
   "language": "ko",
-  "last_updated": 1791407435.2618968,
+  "last_updated": 1791423823.5313964,
   "count": 40,
   "trends": [
     {
-      "word": "재제청",
-      "count": 2,
-      "category": "ORGANIZATION",
+      "word": "우주",
+      "count": 3,
+      "category": "LOCATION",
       "articles": [
         {
-          "title": "재제청 거부 조희대, 재제청 요구 청와대…대법관 공백 ‘출구 난망’ - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fWkkzd1pab1FCTlVIVkNjZm10V3d3ZWFJM2NDdTlFU09CU3FPQUhFZVItWmkwWEpxTkw4UmsyRHhqa3hhcUV6TmtOS3hJNGt4MHlWSlFpUmhmR1psVXFNRnMtVVdoQWpPMFlN?oc=5",
+          "title": "누리호 5차 발사 성공! 우주로 간 '이 카메라'를 만든 기업 - 영상 | 멀티미디어 - 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82MVFhR0o1QjFfcDVSa1lGTHBBSUNhU3cxbm1XLS1tQ2hDU0F0SVRoRUR2V0xtdXJfaE54WmxGMk9mb1I3dkUwMzgwT1BaWHR2ZndDYjYwVDBEb0ZOTTQwRjJHY1c1OF9aczNjRg?oc=5",
           "source": "Google News",
-          "published": "Wed, 07 Oct 2026 20:00:00 GMT"
+          "published": "Thu, 08 Oct 2026 00:56:15 GMT"
+        },
+        {
+          "title": "노벨 물리학상에 프랜시스 핼젠…남극 얼음으로 우주 중성미자 관측 - 인더스트리뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wc3VTYWJhbjlfZkQ0TDZkVnFqaXM0VXpzTXhmT2hUWHRwU2FhTS1KSkU4QURBWm82SkxMaWQ1Wi1wUWhIcVk1ekV0V3JYODJ1Mi1qQWpkaEZkN1lzWE11VHNOdGdRaUU3YjdkTWtyY3R4QQ?oc=5",
+          "source": "Google News",
+          "published": "Wed, 07 Oct 2026 07:06:25 GMT"
+        },
+        {
+          "title": "젊은 별 주변 화학 환경, 알려진 것보다 다양하고 역동적 [지금은 우주] - 아이뉴스24",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkVnZqNlplaWVJQ0tqS0xhZmNtYWJxRS1ZZTNJNW4zeXFrMFBGOUhmOXNkOVFFU0hqSldPUW5hem4zcWVabjMxSHNUdw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 08 Oct 2026 00:00:02 GMT"
         }
       ]
     },
     {
-      "word": "조희대",
+      "word": "러시아",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "미국, 러시아에 '페스트 사고 정보공개하라' 공식서한 보내 압박 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KaVctOHpPM3cxV2tJaUtzME9URm4temZxR0VZQlBDMHJvS05QN2JfOHlmVmxidnI0ZUxqUGV4VVVIMEl1Y2pWLXF0eWlVcTV2VVdGX25XMzBNYk41SzZpb2x4MkR6d2paZFd0VnZvV215b3BZ0gF0QVVfeXFMTm1fNlpuNDdYR09JamVQZk5ZMmJmX1ZwdS1WV1dDb0RMcWZJOVRBcmtVSWx6WTMyZ19KU2dNNEdKM2VadFJYdzdKdGxCSU9vWEZNeTk3Tnl6RFEtS2NkWDRPaW0xc29aZEdYN056N1RSU2tHX2s?oc=5",
+          "source": "Google News",
+          "published": "Wed, 07 Oct 2026 19:16:36 GMT"
+        },
+        {
+          "title": "\"한국, 러시아 도왔다\" 발끈한 우크라…대러 '석유 공급' 비판 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkMl9NenBSMzJ1OE5kUWQ1M2lqQzBlYi1wek9FVTA5dmFrZnFQWXppWXlDOFhhWm9tcjQ3N016ZTYxQ0pSeXJ2aldKXzM4MmI1VWItd1V3Mm5zdw?oc=5",
+          "source": "Google News",
+          "published": "Wed, 07 Oct 2026 00:47:48 GMT"
+        },
+        {
+          "title": "러시아, 푸틴 생일에 우크라 전역 공습…어린이 5명 등 최소 25명 사망 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR2VNN2RqTi12dHFlQkNRRlV2b2YzSlB4bkNvd1QzZ2Y0QjBDaUFXVHl6N2o4YUZ0cXdnWkZhNnZWSnBHbTVOSVphaVBuNWhsR1FiNWpSQXIxVDFySE91VjUxWnZlYWtkbE94Q2VySXdTb1BtOWRfNTBWZlVSRDliUVBn?oc=5",
+          "source": "Google News",
+          "published": "Wed, 07 Oct 2026 22:59:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "트럼프",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "재제청 거부 조희대, 재제청 요구 청와대…대법관 공백 ‘출구 난망’ - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fWkkzd1pab1FCTlVIVkNjZm10V3d3ZWFJM2NDdTlFU09CU3FPQUhFZVItWmkwWEpxTkw4UmsyRHhqa3hhcUV6TmtOS3hJNGt4MHlWSlFpUmhmR1psVXFNRnMtVVdoQWpPMFlN?oc=5",
+          "title": "트럼프, 또 노벨평화상 타령···“관세로 많은 전쟁 막아, 상 받을 자격 있어” 셀프 어필 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqcUNiUDVrYzR5eWtGR2NrNGNqalRRMmtyR0ZDMTZRcUM5VW1NVy1SYWtCMUV4WXZiUnc2MUJ4RWxEMGdVcFFuQ2t2TmpYSzdDbnZQcFRvNnN1d9IBX0FVX3lxTFBOamVnYmFQRmlTYlhRU0k4X0N3UVFfMnlGUVhScXl1WTRtSXdJTUx5VURNd1kxQm9oT2dmNFBROWZOM212UWI0VHlRenV2LXhPZ3B5UEQ2ZHJQbGNzdHNF?oc=5",
           "source": "Google News",
-          "published": "Wed, 07 Oct 2026 20:00:00 GMT"
+          "published": "Wed, 07 Oct 2026 22:44:00 GMT"
         },
         {
-          "title": "'허위 업무추진비' 왜? 조희대 \"못 먹어본 음식 먹고 싶다는 구성원 소망\" 때문 - 뉴스타파",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBSUGw0bW02b0FqUnh3LVhiVi1HYmp0NFRkSE1hanNpcHROMlRZZVFtZllHS1Vhcy1GUkEtR2RjVkFhbHFpS3J5YzZ3?oc=5",
+          "title": "美격전지 중간선거 사전투표 돌입… 트럼프도 독려 나서 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBaLW5VX2hDQlJZSlQ4Q010VmdnVnRYTy1BSENuTXV3eHNVT0t1SlBEYmlPbEtDaWRJeTRyNlNHZEFEeHd2NmF4NjA3WVNDQ1R1UHNvOEhEaVZ1NXBjbnQxVW50SkVuejExblRXWDByY0dYV1HSAWZBVV95cUxQaE8wVlFsYXhVZXpIWWZULW9xZUR6OXJPSjdJTTloQndPdHJ1ejUzQzR2c0VtMlNXWXVfNjVpdHEwR052b3VGTHRBV0R1MTBMNWJpanJyT1dCTUxJZkx6SmsxTjV5SWc?oc=5",
           "source": "Google News",
-          "published": "Tue, 06 Oct 2026 12:30:00 GMT"
+          "published": "Wed, 07 Oct 2026 19:30:00 GMT"
         }
       ]
     },
     {
-      "word": "대통령",
+      "word": "사우디",
       "count": 2,
-      "category": "PERSON",
+      "category": "NOUN",
       "articles": [
         {
-          "title": "“패노메논 왜 총선 전에? 대통령 지지율 올리려고?” 따진 국힘 의원에···박진영 “나라 위한 일 아니면 안 한다” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lRkRnUUhoa3pkMU1jVnBVVVY4TkhiWnBLWFZxODlGYldLcTV2MzFfSWdMSUZxR0pQRjY3WDNrV2FlX09lb2ZRWjNyY2RjOVMzUDZITUNTSjhhd9IBX0FVX3lxTFBfV3N5RFV4UVdwTG1xd0VQMlo2OEp3RktRWUthLXpoSUhvY05SaVVmUVVmcGtzU0dpWkxyTU1ISnpCcUM0U1hFaXB1T05hVzBXMEJZZTFCYWNjRXM2TFc0?oc=5",
+          "title": "사우디 “리야드·아브하 공항 공격받아 3명 사망”…후티는 잇단 사우디 본토 공격 주장 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10Z2l0UmFsajBPMGxIN2lUMUl0bmttbXhDblA2S1ZtcE01Ykx1dlBoY2ZRcE42RHg1Ny1yWlZRRVczbTd5VXFIMy1HWm5Xc056S1dBU1R4V0phQdIBX0FVX3lxTE43bTVKZ0ZhUzdfWklpM3BORW55bjVoaWVWQUZpSVgzbVhhaVVTX1ExRXdpSU1VdFpVMjBLeU5zUDFOZ3VWSjdMVzFZTE8wX2xFUFRDOU83X3hhVWJwVElZ?oc=5",
           "source": "Google News",
-          "published": "Wed, 07 Oct 2026 07:27:00 GMT"
+          "published": "Wed, 07 Oct 2026 22:15:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "한국",
+      "count": 2,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "\"한국, 러시아 도왔다\" 발끈한 우크라…대러 '석유 공급' 비판 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkMl9NenBSMzJ1OE5kUWQ1M2lqQzBlYi1wek9FVTA5dmFrZnFQWXppWXlDOFhhWm9tcjQ3N016ZTYxQ0pSeXJ2aldKXzM4MmI1VWItd1V3Mm5zdw?oc=5",
+          "source": "Google News",
+          "published": "Wed, 07 Oct 2026 00:47:48 GMT"
         },
         {
-          "title": "이 대통령 “한국형 녹색대전환은 ‘3대 메가’ 성공의 필수 전제” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nZExPQXlhV0swYlZXbkRsYkxoLVBrcnJ2cG56MkI1b3RRMUFPR09pLXdFd3hxbFpHZlpKVTF3a1pKVHdiZ2M2aDhmYXV0Y2swMFBVZHh6ank1TUdhR0h5Mm9DSksyTG5GeTNR?oc=5",
+          "title": "미 부통령 “한국 현 정부든 차기 정부든 알래스카 LNG 완수” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkZk14N3FuUlhobnhITjV3dWxYdG9yMmpPVE0wRm1SWmxuN21Ec25FLWVISGhZYXkxcWlYZF9uem5rZzEyVEMyZFpZNVdjRTFWNjZFVXJoVjFuWlk?oc=5",
           "source": "Google News",
-          "published": "Wed, 07 Oct 2026 08:43:00 GMT"
+          "published": "Wed, 07 Oct 2026 21:25:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "연속",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보] 삼성전자 3분기 영업이익 107조4천억 원‥4분기 연속 신기록 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Cb3ZfUXFMcVd1SDZiSFFrU1Z1b3BxOExWMTdsQlhSbXd5Tktva2xWRk1fbS1RR2lPb0M4YWFHQXNsY2NVYVRiajV4cXlkUmN0Vm1aNndrdW1GdDg5QkpTWTFEc1ZuNVpHVnQwSnpwLUdRTUVN0gF0QVVfeXFMTlduTC04SEpNNVBtMUpCNVR1em1OVDFXT2tKeE4tR0I1RjkwMjU5aldieFIzeThaVzV0LWRjOGppS21Rd1FMZDRUc1BfU0lWaldUSkJvd1ZPbU5KbGNiVVZubDVfUDR3N2kycXRKLWJvV3lUbng?oc=5",
+          "source": "Google News",
+          "published": "Wed, 07 Oct 2026 23:31:42 GMT"
+        },
+        {
+          "title": "MLB 다저스, 3년 연속 NLCS 진출…애틀랜타 김하성 시즌 종료 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14WGFza1A1VlI4YV9yWkZ3U2hKZmkxLTFwbEhNbmJSOFc0VUFUZmlscDJUSllfU3EtVm9WUTFxdXk4VlR2eGdsUU1jZWxxeFdwWUNlOE9yamUwOTYzMmg2ek5mQWc5UQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 08 Oct 2026 01:25:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "정부",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "미 부통령 “한국 현 정부든 차기 정부든 알래스카 LNG 완수” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkZk14N3FuUlhobnhITjV3dWxYdG9yMmpPVE0wRm1SWmxuN21Ec25FLWVISGhZYXkxcWlYZF9uem5rZzEyVEMyZFpZNVdjRTFWNjZFVXJoVjFuWlk?oc=5",
+          "source": "Google News",
+          "published": "Wed, 07 Oct 2026 21:25:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "매일",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "“5개월간 매일 마사지” 황정음, 30kg 뺀 비결이라는데… 정말 빠질까? - 헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pZVc4b2ltWmZ6bHY0SVFpVmFPdHBtdldKT2tlRGFJcnR1cWR4SnRtQ2taZ2lLWURwblpPRWJnMUhTRW9qNUlCcFJ5Vy1hZmRHZ2tPQkdORW1wS0U3SDRjNEZJSWt5NHpNeVRwQy00UU0wVjI5clA0R3JQTXRuR3M?oc=5",
+          "source": "Google News",
+          "published": "Thu, 08 Oct 2026 01:22:00 GMT"
+        },
+        {
+          "title": "매일 먹는 샌드위치가 치매 위험 높인다?... \"초가공식품이 뇌 노화 앞당겨\" - 하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sQXdsSlVfWGtMNHkzSHhQQjhvXy1vZkJwc1ktTGJzQ21BMTI0TTM1a2VrLTIzYUp6aV9wS1dseW9EaFkxcTljRUhnQWtnWjZndlgwYk9iRHMxWGkyZXBmd2drd1MyZ3ZzT0E?oc=5",
+          "source": "Google News",
+          "published": "Wed, 07 Oct 2026 00:00:00 GMT"
         }
       ]
     },
@@ -60,10 +161,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "닌텐도 젤다의 전설 40주년 맞아 일본 전역서 오케스트라 연다 - Korearetro",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10d3hiaFpnRkxLaWNaWWFUYkNObUZiU25iN2FoVVVqSEdsWjdlc0d0cG1QbjZGRm92MjEwb3k3Q0RwNTQweThzNWttWDhvMURmMkYtMTluQ09xaXRGbC03TzdUMmpIVlEyVXdF?oc=5",
+          "title": "모레노호, FIFA 랭킹 '32위' 유지 … 일본은 17위 - 뉴데일리",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1iMFhmbmN6UUx2T0U0bDlRWmdnS2hSNHlLcVBNSUIxMGYzbmttRnpVNXNXejdjczAzbDg0TFJwdHkxWWF2bk1Mcm4tWjh6V05qbGRIU09qT052VGVrVTNMLWRCVWpnZkw4RElrUXppelhLdW95QWpPZmVOb9IBgAFBVV95cUxQa2x5c3dQU1A2bFN3Mjh4dk1GajVTbGlJbHM0bDN1UWdkNjVHTjF1Z1BDMW5sSVVnTklVXzFCTmMzOUpENFNUbVZCVGlQVnJxbEtKUkxjcFZ2a3NsR1YwQzJ3NFh5OWlJT1RYNU9RYnktNkpNeWtHRGxWbkN4UnJ1bg?oc=5",
           "source": "Google News",
-          "published": "Sun, 04 Oct 2026 03:09:13 GMT"
+          "published": "Wed, 07 Oct 2026 22:21:06 GMT"
         },
         {
           "title": "일본은 어떻게 초고령사회에 대응했나…“대사·인지건강 조기 관리 중요” - 현대건강신문",
@@ -74,268 +175,41 @@
       ]
     },
     {
-      "word": "어떻게",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "'피크민4' 스위치2 버전 예판 시작⋯구매 특전 어디서 어떻게? - 이투데이",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zRVJrSDR0X3BOMEFCOUtMLXJYa0dqbGRJZV93LVp3ak82ZXpCUjV5eHZxdGo2ZUhkNlBpVm95WkU4SjhRYTdVNHNUOXhDM3NGeks3eUdiQWRaeWwyTElsaUg4VEg0SlQ4eFNDRA?oc=5",
-          "source": "Google News",
-          "published": "Wed, 07 Oct 2026 07:22:00 GMT"
-        },
-        {
-          "title": "일본은 어떻게 초고령사회에 대응했나…“대사·인지건강 조기 관리 중요” - 현대건강신문",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EUFdWRkQ4WlgyMUlwWVVFbUFYMllUeXlsTEUteEtoZ256RmVQbTh3Y0EzWTN2V2N4LXpkNC10bVVZdHA3SE5UNFFhMzRIUUNXWE5Gdi1B?oc=5",
-          "source": "Google News",
-          "published": "Wed, 07 Oct 2026 00:47:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "윤석열",
+      "word": "청와대",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "윤석열 ‘명태균 무상 여론조사’ 2심서 무죄…재판부 같은 오세훈 선고 촉각 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSNmVNcUhfdUpyRURCbXk3MWkxUXBvaDVBNE13eVV0cHQxRlFuN2ZVejVKdUJWbWkwUG40REd5ZXZNMndBaUQ2ajVDdHMtSkJ5MGJ4MWllU1NhSXhoNnpQRzlqSl8zYWFZajdXMjhqOGR3QQ?oc=5",
+          "title": "‘청와대 재제청 요구→조희대 거부’ 무한 반복…대법관 공백 ‘출구 난망’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fWkkzd1pab1FCTlVIVkNjZm10V3d3ZWFJM2NDdTlFU09CU3FPQUhFZVItWmkwWEpxTkw4UmsyRHhqa3hhcUV6TmtOS3hJNGt4MHlWSlFpUmhmR1psVXFNRnMtVVdoQWpPMFlN?oc=5",
           "source": "Google News",
-          "published": "Wed, 07 Oct 2026 15:53:00 GMT"
+          "published": "Wed, 07 Oct 2026 21:42:00 GMT"
         }
       ]
     },
     {
-      "word": "명태균",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "윤석열 ‘명태균 무상 여론조사’ 2심서 무죄…재판부 같은 오세훈 선고 촉각 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSNmVNcUhfdUpyRURCbXk3MWkxUXBvaDVBNE13eVV0cHQxRlFuN2ZVejVKdUJWbWkwUG40REd5ZXZNMndBaUQ2ajVDdHMtSkJ5MGJ4MWllU1NhSXhoNnpQRzlqSl8zYWFZajdXMjhqOGR3QQ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 07 Oct 2026 15:53:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "무상",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "윤석열 ‘명태균 무상 여론조사’ 2심서 무죄…재판부 같은 오세훈 선고 촉각 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSNmVNcUhfdUpyRURCbXk3MWkxUXBvaDVBNE13eVV0cHQxRlFuN2ZVejVKdUJWbWkwUG40REd5ZXZNMndBaUQ2ajVDdHMtSkJ5MGJ4MWllU1NhSXhoNnpQRzlqSl8zYWFZajdXMjhqOGR3QQ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 07 Oct 2026 15:53:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "여론조사",
+      "word": "재제청",
       "count": 1,
       "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "윤석열 ‘명태균 무상 여론조사’ 2심서 무죄…재판부 같은 오세훈 선고 촉각 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSNmVNcUhfdUpyRURCbXk3MWkxUXBvaDVBNE13eVV0cHQxRlFuN2ZVejVKdUJWbWkwUG40REd5ZXZNMndBaUQ2ajVDdHMtSkJ5MGJ4MWllU1NhSXhoNnpQRzlqSl8zYWFZajdXMjhqOGR3QQ?oc=5",
+          "title": "‘청와대 재제청 요구→조희대 거부’ 무한 반복…대법관 공백 ‘출구 난망’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fWkkzd1pab1FCTlVIVkNjZm10V3d3ZWFJM2NDdTlFU09CU3FPQUhFZVItWmkwWEpxTkw4UmsyRHhqa3hhcUV6TmtOS3hJNGt4MHlWSlFpUmhmR1psVXFNRnMtVVdoQWpPMFlN?oc=5",
           "source": "Google News",
-          "published": "Wed, 07 Oct 2026 15:53:00 GMT"
+          "published": "Wed, 07 Oct 2026 21:42:00 GMT"
         }
       ]
     },
     {
-      "word": "2심서",
+      "word": "요구조희대",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "윤석열 ‘명태균 무상 여론조사’ 2심서 무죄…재판부 같은 오세훈 선고 촉각 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSNmVNcUhfdUpyRURCbXk3MWkxUXBvaDVBNE13eVV0cHQxRlFuN2ZVejVKdUJWbWkwUG40REd5ZXZNMndBaUQ2ajVDdHMtSkJ5MGJ4MWllU1NhSXhoNnpQRzlqSl8zYWFZajdXMjhqOGR3QQ?oc=5",
+          "title": "‘청와대 재제청 요구→조희대 거부’ 무한 반복…대법관 공백 ‘출구 난망’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fWkkzd1pab1FCTlVIVkNjZm10V3d3ZWFJM2NDdTlFU09CU3FPQUhFZVItWmkwWEpxTkw4UmsyRHhqa3hhcUV6TmtOS3hJNGt4MHlWSlFpUmhmR1psVXFNRnMtVVdoQWpPMFlN?oc=5",
           "source": "Google News",
-          "published": "Wed, 07 Oct 2026 15:53:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "무죄재판부",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "윤석열 ‘명태균 무상 여론조사’ 2심서 무죄…재판부 같은 오세훈 선고 촉각 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSNmVNcUhfdUpyRURCbXk3MWkxUXBvaDVBNE13eVV0cHQxRlFuN2ZVejVKdUJWbWkwUG40REd5ZXZNMndBaUQ2ajVDdHMtSkJ5MGJ4MWllU1NhSXhoNnpQRzlqSl8zYWFZajdXMjhqOGR3QQ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 07 Oct 2026 15:53:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "같은",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "윤석열 ‘명태균 무상 여론조사’ 2심서 무죄…재판부 같은 오세훈 선고 촉각 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSNmVNcUhfdUpyRURCbXk3MWkxUXBvaDVBNE13eVV0cHQxRlFuN2ZVejVKdUJWbWkwUG40REd5ZXZNMndBaUQ2ajVDdHMtSkJ5MGJ4MWllU1NhSXhoNnpQRzlqSl8zYWFZajdXMjhqOGR3QQ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 07 Oct 2026 15:53:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "오세훈",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "윤석열 ‘명태균 무상 여론조사’ 2심서 무죄…재판부 같은 오세훈 선고 촉각 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSNmVNcUhfdUpyRURCbXk3MWkxUXBvaDVBNE13eVV0cHQxRlFuN2ZVejVKdUJWbWkwUG40REd5ZXZNMndBaUQ2ajVDdHMtSkJ5MGJ4MWllU1NhSXhoNnpQRzlqSl8zYWFZajdXMjhqOGR3QQ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 07 Oct 2026 15:53:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "선고",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "윤석열 ‘명태균 무상 여론조사’ 2심서 무죄…재판부 같은 오세훈 선고 촉각 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSNmVNcUhfdUpyRURCbXk3MWkxUXBvaDVBNE13eVV0cHQxRlFuN2ZVejVKdUJWbWkwUG40REd5ZXZNMndBaUQ2ajVDdHMtSkJ5MGJ4MWllU1NhSXhoNnpQRzlqSl8zYWFZajdXMjhqOGR3QQ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 07 Oct 2026 15:53:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "촉각",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "윤석열 ‘명태균 무상 여론조사’ 2심서 무죄…재판부 같은 오세훈 선고 촉각 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSNmVNcUhfdUpyRURCbXk3MWkxUXBvaDVBNE13eVV0cHQxRlFuN2ZVejVKdUJWbWkwUG40REd5ZXZNMndBaUQ2ajVDdHMtSkJ5MGJ4MWllU1NhSXhoNnpQRzlqSl8zYWFZajdXMjhqOGR3QQ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 07 Oct 2026 15:53:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "역대",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "역대 최다 위성 ‘로켓 배송’ ‘대량 수송’ 시대 연 누리호 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10Y1JCTm05dzJwZ1hkLUxNc1FjSnVWdk5Yd01TSllENDYtekQ2QTFpRHhBUmNCOUpFVDBHMy16V1ZXS0NmNW85VWJZZ0lqckpLZ2RqOFlQOEx4Z9IBX0FVX3lxTE5ZbV8tajV6MVRXQm5NSnJWbE9TSzdNSVFHMV9RQUUwMkg2ZHhXNTJNZFhKd243ZzlFWWc4cHFwZ3QyN3JSeDJ4bzRzd2RxeGpwMkdid19MMlRjT1BpS0dB?oc=5",
-          "source": "Google News",
-          "published": "Wed, 07 Oct 2026 13:05:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "최다",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "역대 최다 위성 ‘로켓 배송’ ‘대량 수송’ 시대 연 누리호 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10Y1JCTm05dzJwZ1hkLUxNc1FjSnVWdk5Yd01TSllENDYtekQ2QTFpRHhBUmNCOUpFVDBHMy16V1ZXS0NmNW85VWJZZ0lqckpLZ2RqOFlQOEx4Z9IBX0FVX3lxTE5ZbV8tajV6MVRXQm5NSnJWbE9TSzdNSVFHMV9RQUUwMkg2ZHhXNTJNZFhKd243ZzlFWWc4cHFwZ3QyN3JSeDJ4bzRzd2RxeGpwMkdid19MMlRjT1BpS0dB?oc=5",
-          "source": "Google News",
-          "published": "Wed, 07 Oct 2026 13:05:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "위성",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "역대 최다 위성 ‘로켓 배송’ ‘대량 수송’ 시대 연 누리호 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10Y1JCTm05dzJwZ1hkLUxNc1FjSnVWdk5Yd01TSllENDYtekQ2QTFpRHhBUmNCOUpFVDBHMy16V1ZXS0NmNW85VWJZZ0lqckpLZ2RqOFlQOEx4Z9IBX0FVX3lxTE5ZbV8tajV6MVRXQm5NSnJWbE9TSzdNSVFHMV9RQUUwMkg2ZHhXNTJNZFhKd243ZzlFWWc4cHFwZ3QyN3JSeDJ4bzRzd2RxeGpwMkdid19MMlRjT1BpS0dB?oc=5",
-          "source": "Google News",
-          "published": "Wed, 07 Oct 2026 13:05:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "로켓",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "역대 최다 위성 ‘로켓 배송’ ‘대량 수송’ 시대 연 누리호 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10Y1JCTm05dzJwZ1hkLUxNc1FjSnVWdk5Yd01TSllENDYtekQ2QTFpRHhBUmNCOUpFVDBHMy16V1ZXS0NmNW85VWJZZ0lqckpLZ2RqOFlQOEx4Z9IBX0FVX3lxTE5ZbV8tajV6MVRXQm5NSnJWbE9TSzdNSVFHMV9RQUUwMkg2ZHhXNTJNZFhKd243ZzlFWWc4cHFwZ3QyN3JSeDJ4bzRzd2RxeGpwMkdid19MMlRjT1BpS0dB?oc=5",
-          "source": "Google News",
-          "published": "Wed, 07 Oct 2026 13:05:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "배송",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "역대 최다 위성 ‘로켓 배송’ ‘대량 수송’ 시대 연 누리호 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10Y1JCTm05dzJwZ1hkLUxNc1FjSnVWdk5Yd01TSllENDYtekQ2QTFpRHhBUmNCOUpFVDBHMy16V1ZXS0NmNW85VWJZZ0lqckpLZ2RqOFlQOEx4Z9IBX0FVX3lxTE5ZbV8tajV6MVRXQm5NSnJWbE9TSzdNSVFHMV9RQUUwMkg2ZHhXNTJNZFhKd243ZzlFWWc4cHFwZ3QyN3JSeDJ4bzRzd2RxeGpwMkdid19MMlRjT1BpS0dB?oc=5",
-          "source": "Google News",
-          "published": "Wed, 07 Oct 2026 13:05:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "대량",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "역대 최다 위성 ‘로켓 배송’ ‘대량 수송’ 시대 연 누리호 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10Y1JCTm05dzJwZ1hkLUxNc1FjSnVWdk5Yd01TSllENDYtekQ2QTFpRHhBUmNCOUpFVDBHMy16V1ZXS0NmNW85VWJZZ0lqckpLZ2RqOFlQOEx4Z9IBX0FVX3lxTE5ZbV8tajV6MVRXQm5NSnJWbE9TSzdNSVFHMV9RQUUwMkg2ZHhXNTJNZFhKd243ZzlFWWc4cHFwZ3QyN3JSeDJ4bzRzd2RxeGpwMkdid19MMlRjT1BpS0dB?oc=5",
-          "source": "Google News",
-          "published": "Wed, 07 Oct 2026 13:05:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "수송",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "역대 최다 위성 ‘로켓 배송’ ‘대량 수송’ 시대 연 누리호 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10Y1JCTm05dzJwZ1hkLUxNc1FjSnVWdk5Yd01TSllENDYtekQ2QTFpRHhBUmNCOUpFVDBHMy16V1ZXS0NmNW85VWJZZ0lqckpLZ2RqOFlQOEx4Z9IBX0FVX3lxTE5ZbV8tajV6MVRXQm5NSnJWbE9TSzdNSVFHMV9RQUUwMkg2ZHhXNTJNZFhKd243ZzlFWWc4cHFwZ3QyN3JSeDJ4bzRzd2RxeGpwMkdid19MMlRjT1BpS0dB?oc=5",
-          "source": "Google News",
-          "published": "Wed, 07 Oct 2026 13:05:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "시대",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "역대 최다 위성 ‘로켓 배송’ ‘대량 수송’ 시대 연 누리호 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10Y1JCTm05dzJwZ1hkLUxNc1FjSnVWdk5Yd01TSllENDYtekQ2QTFpRHhBUmNCOUpFVDBHMy16V1ZXS0NmNW85VWJZZ0lqckpLZ2RqOFlQOEx4Z9IBX0FVX3lxTE5ZbV8tajV6MVRXQm5NSnJWbE9TSzdNSVFHMV9RQUUwMkg2ZHhXNTJNZFhKd243ZzlFWWc4cHFwZ3QyN3JSeDJ4bzRzd2RxeGpwMkdid19MMlRjT1BpS0dB?oc=5",
-          "source": "Google News",
-          "published": "Wed, 07 Oct 2026 13:05:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "누리호",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "역대 최다 위성 ‘로켓 배송’ ‘대량 수송’ 시대 연 누리호 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10Y1JCTm05dzJwZ1hkLUxNc1FjSnVWdk5Yd01TSllENDYtekQ2QTFpRHhBUmNCOUpFVDBHMy16V1ZXS0NmNW85VWJZZ0lqckpLZ2RqOFlQOEx4Z9IBX0FVX3lxTE5ZbV8tajV6MVRXQm5NSnJWbE9TSzdNSVFHMV9RQUUwMkg2ZHhXNTJNZFhKd243ZzlFWWc4cHFwZ3QyN3JSeDJ4bzRzd2RxeGpwMkdid19MMlRjT1BpS0dB?oc=5",
-          "source": "Google News",
-          "published": "Wed, 07 Oct 2026 13:05:00 GMT"
+          "published": "Wed, 07 Oct 2026 21:42:00 GMT"
         }
       ]
     },
@@ -345,36 +219,36 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "재제청 거부 조희대, 재제청 요구 청와대…대법관 공백 ‘출구 난망’ - 한겨레",
+          "title": "‘청와대 재제청 요구→조희대 거부’ 무한 반복…대법관 공백 ‘출구 난망’ - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fWkkzd1pab1FCTlVIVkNjZm10V3d3ZWFJM2NDdTlFU09CU3FPQUhFZVItWmkwWEpxTkw4UmsyRHhqa3hhcUV6TmtOS3hJNGt4MHlWSlFpUmhmR1psVXFNRnMtVVdoQWpPMFlN?oc=5",
           "source": "Google News",
-          "published": "Wed, 07 Oct 2026 20:00:00 GMT"
+          "published": "Wed, 07 Oct 2026 21:42:00 GMT"
         }
       ]
     },
     {
-      "word": "요구",
+      "word": "무한",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "재제청 거부 조희대, 재제청 요구 청와대…대법관 공백 ‘출구 난망’ - 한겨레",
+          "title": "‘청와대 재제청 요구→조희대 거부’ 무한 반복…대법관 공백 ‘출구 난망’ - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fWkkzd1pab1FCTlVIVkNjZm10V3d3ZWFJM2NDdTlFU09CU3FPQUhFZVItWmkwWEpxTkw4UmsyRHhqa3hhcUV6TmtOS3hJNGt4MHlWSlFpUmhmR1psVXFNRnMtVVdoQWpPMFlN?oc=5",
           "source": "Google News",
-          "published": "Wed, 07 Oct 2026 20:00:00 GMT"
+          "published": "Wed, 07 Oct 2026 21:42:00 GMT"
         }
       ]
     },
     {
-      "word": "청와대대법관",
+      "word": "반복대법관",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "재제청 거부 조희대, 재제청 요구 청와대…대법관 공백 ‘출구 난망’ - 한겨레",
+          "title": "‘청와대 재제청 요구→조희대 거부’ 무한 반복…대법관 공백 ‘출구 난망’ - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fWkkzd1pab1FCTlVIVkNjZm10V3d3ZWFJM2NDdTlFU09CU3FPQUhFZVItWmkwWEpxTkw4UmsyRHhqa3hhcUV6TmtOS3hJNGt4MHlWSlFpUmhmR1psVXFNRnMtVVdoQWpPMFlN?oc=5",
           "source": "Google News",
-          "published": "Wed, 07 Oct 2026 20:00:00 GMT"
+          "published": "Wed, 07 Oct 2026 21:42:00 GMT"
         }
       ]
     },
@@ -384,10 +258,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "재제청 거부 조희대, 재제청 요구 청와대…대법관 공백 ‘출구 난망’ - 한겨레",
+          "title": "‘청와대 재제청 요구→조희대 거부’ 무한 반복…대법관 공백 ‘출구 난망’ - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fWkkzd1pab1FCTlVIVkNjZm10V3d3ZWFJM2NDdTlFU09CU3FPQUhFZVItWmkwWEpxTkw4UmsyRHhqa3hhcUV6TmtOS3hJNGt4MHlWSlFpUmhmR1psVXFNRnMtVVdoQWpPMFlN?oc=5",
           "source": "Google News",
-          "published": "Wed, 07 Oct 2026 20:00:00 GMT"
+          "published": "Wed, 07 Oct 2026 21:42:00 GMT"
         }
       ]
     },
@@ -397,10 +271,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "재제청 거부 조희대, 재제청 요구 청와대…대법관 공백 ‘출구 난망’ - 한겨레",
+          "title": "‘청와대 재제청 요구→조희대 거부’ 무한 반복…대법관 공백 ‘출구 난망’ - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fWkkzd1pab1FCTlVIVkNjZm10V3d3ZWFJM2NDdTlFU09CU3FPQUhFZVItWmkwWEpxTkw4UmsyRHhqa3hhcUV6TmtOS3hJNGt4MHlWSlFpUmhmR1psVXFNRnMtVVdoQWpPMFlN?oc=5",
           "source": "Google News",
-          "published": "Wed, 07 Oct 2026 20:00:00 GMT"
+          "published": "Wed, 07 Oct 2026 21:42:00 GMT"
         }
       ]
     },
@@ -410,140 +284,296 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "재제청 거부 조희대, 재제청 요구 청와대…대법관 공백 ‘출구 난망’ - 한겨레",
+          "title": "‘청와대 재제청 요구→조희대 거부’ 무한 반복…대법관 공백 ‘출구 난망’ - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fWkkzd1pab1FCTlVIVkNjZm10V3d3ZWFJM2NDdTlFU09CU3FPQUhFZVItWmkwWEpxTkw4UmsyRHhqa3hhcUV6TmtOS3hJNGt4MHlWSlFpUmhmR1psVXFNRnMtVVdoQWpPMFlN?oc=5",
           "source": "Google News",
-          "published": "Wed, 07 Oct 2026 20:00:00 GMT"
+          "published": "Wed, 07 Oct 2026 21:42:00 GMT"
         }
       ]
     },
     {
-      "word": "패노메논",
+      "word": "누리호",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“패노메논 왜 총선 전에? 대통령 지지율 올리려고?” 따진 국힘 의원에···박진영 “나라 위한 일 아니면 안 한다” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lRkRnUUhoa3pkMU1jVnBVVVY4TkhiWnBLWFZxODlGYldLcTV2MzFfSWdMSUZxR0pQRjY3WDNrV2FlX09lb2ZRWjNyY2RjOVMzUDZITUNTSjhhd9IBX0FVX3lxTFBfV3N5RFV4UVdwTG1xd0VQMlo2OEp3RktRWUthLXpoSUhvY05SaVVmUVVmcGtzU0dpWkxyTU1ISnpCcUM0U1hFaXB1T05hVzBXMEJZZTFCYWNjRXM2TFc0?oc=5",
+          "title": "누리호 5차 발사 성공! 우주로 간 '이 카메라'를 만든 기업 - 영상 | 멀티미디어 - 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82MVFhR0o1QjFfcDVSa1lGTHBBSUNhU3cxbm1XLS1tQ2hDU0F0SVRoRUR2V0xtdXJfaE54WmxGMk9mb1I3dkUwMzgwT1BaWHR2ZndDYjYwVDBEb0ZOTTQwRjJHY1c1OF9aczNjRg?oc=5",
           "source": "Google News",
-          "published": "Wed, 07 Oct 2026 07:27:00 GMT"
+          "published": "Thu, 08 Oct 2026 00:56:15 GMT"
         }
       ]
     },
     {
-      "word": "총선",
+      "word": "5차",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“패노메논 왜 총선 전에? 대통령 지지율 올리려고?” 따진 국힘 의원에···박진영 “나라 위한 일 아니면 안 한다” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lRkRnUUhoa3pkMU1jVnBVVVY4TkhiWnBLWFZxODlGYldLcTV2MzFfSWdMSUZxR0pQRjY3WDNrV2FlX09lb2ZRWjNyY2RjOVMzUDZITUNTSjhhd9IBX0FVX3lxTFBfV3N5RFV4UVdwTG1xd0VQMlo2OEp3RktRWUthLXpoSUhvY05SaVVmUVVmcGtzU0dpWkxyTU1ISnpCcUM0U1hFaXB1T05hVzBXMEJZZTFCYWNjRXM2TFc0?oc=5",
+          "title": "누리호 5차 발사 성공! 우주로 간 '이 카메라'를 만든 기업 - 영상 | 멀티미디어 - 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82MVFhR0o1QjFfcDVSa1lGTHBBSUNhU3cxbm1XLS1tQ2hDU0F0SVRoRUR2V0xtdXJfaE54WmxGMk9mb1I3dkUwMzgwT1BaWHR2ZndDYjYwVDBEb0ZOTTQwRjJHY1c1OF9aczNjRg?oc=5",
           "source": "Google News",
-          "published": "Wed, 07 Oct 2026 07:27:00 GMT"
+          "published": "Thu, 08 Oct 2026 00:56:15 GMT"
         }
       ]
     },
     {
-      "word": "전에",
+      "word": "발사",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“패노메논 왜 총선 전에? 대통령 지지율 올리려고?” 따진 국힘 의원에···박진영 “나라 위한 일 아니면 안 한다” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lRkRnUUhoa3pkMU1jVnBVVVY4TkhiWnBLWFZxODlGYldLcTV2MzFfSWdMSUZxR0pQRjY3WDNrV2FlX09lb2ZRWjNyY2RjOVMzUDZITUNTSjhhd9IBX0FVX3lxTFBfV3N5RFV4UVdwTG1xd0VQMlo2OEp3RktRWUthLXpoSUhvY05SaVVmUVVmcGtzU0dpWkxyTU1ISnpCcUM0U1hFaXB1T05hVzBXMEJZZTFCYWNjRXM2TFc0?oc=5",
+          "title": "누리호 5차 발사 성공! 우주로 간 '이 카메라'를 만든 기업 - 영상 | 멀티미디어 - 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82MVFhR0o1QjFfcDVSa1lGTHBBSUNhU3cxbm1XLS1tQ2hDU0F0SVRoRUR2V0xtdXJfaE54WmxGMk9mb1I3dkUwMzgwT1BaWHR2ZndDYjYwVDBEb0ZOTTQwRjJHY1c1OF9aczNjRg?oc=5",
           "source": "Google News",
-          "published": "Wed, 07 Oct 2026 07:27:00 GMT"
+          "published": "Thu, 08 Oct 2026 00:56:15 GMT"
         }
       ]
     },
     {
-      "word": "지지율",
+      "word": "성공",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“패노메논 왜 총선 전에? 대통령 지지율 올리려고?” 따진 국힘 의원에···박진영 “나라 위한 일 아니면 안 한다” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lRkRnUUhoa3pkMU1jVnBVVVY4TkhiWnBLWFZxODlGYldLcTV2MzFfSWdMSUZxR0pQRjY3WDNrV2FlX09lb2ZRWjNyY2RjOVMzUDZITUNTSjhhd9IBX0FVX3lxTFBfV3N5RFV4UVdwTG1xd0VQMlo2OEp3RktRWUthLXpoSUhvY05SaVVmUVVmcGtzU0dpWkxyTU1ISnpCcUM0U1hFaXB1T05hVzBXMEJZZTFCYWNjRXM2TFc0?oc=5",
+          "title": "누리호 5차 발사 성공! 우주로 간 '이 카메라'를 만든 기업 - 영상 | 멀티미디어 - 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82MVFhR0o1QjFfcDVSa1lGTHBBSUNhU3cxbm1XLS1tQ2hDU0F0SVRoRUR2V0xtdXJfaE54WmxGMk9mb1I3dkUwMzgwT1BaWHR2ZndDYjYwVDBEb0ZOTTQwRjJHY1c1OF9aczNjRg?oc=5",
           "source": "Google News",
-          "published": "Wed, 07 Oct 2026 07:27:00 GMT"
+          "published": "Thu, 08 Oct 2026 00:56:15 GMT"
         }
       ]
     },
     {
-      "word": "올리려",
+      "word": "카메",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“패노메논 왜 총선 전에? 대통령 지지율 올리려고?” 따진 국힘 의원에···박진영 “나라 위한 일 아니면 안 한다” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lRkRnUUhoa3pkMU1jVnBVVVY4TkhiWnBLWFZxODlGYldLcTV2MzFfSWdMSUZxR0pQRjY3WDNrV2FlX09lb2ZRWjNyY2RjOVMzUDZITUNTSjhhd9IBX0FVX3lxTFBfV3N5RFV4UVdwTG1xd0VQMlo2OEp3RktRWUthLXpoSUhvY05SaVVmUVVmcGtzU0dpWkxyTU1ISnpCcUM0U1hFaXB1T05hVzBXMEJZZTFCYWNjRXM2TFc0?oc=5",
+          "title": "누리호 5차 발사 성공! 우주로 간 '이 카메라'를 만든 기업 - 영상 | 멀티미디어 - 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82MVFhR0o1QjFfcDVSa1lGTHBBSUNhU3cxbm1XLS1tQ2hDU0F0SVRoRUR2V0xtdXJfaE54WmxGMk9mb1I3dkUwMzgwT1BaWHR2ZndDYjYwVDBEb0ZOTTQwRjJHY1c1OF9aczNjRg?oc=5",
           "source": "Google News",
-          "published": "Wed, 07 Oct 2026 07:27:00 GMT"
+          "published": "Thu, 08 Oct 2026 00:56:15 GMT"
         }
       ]
     },
     {
-      "word": "따진",
+      "word": "만든",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“패노메논 왜 총선 전에? 대통령 지지율 올리려고?” 따진 국힘 의원에···박진영 “나라 위한 일 아니면 안 한다” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lRkRnUUhoa3pkMU1jVnBVVVY4TkhiWnBLWFZxODlGYldLcTV2MzFfSWdMSUZxR0pQRjY3WDNrV2FlX09lb2ZRWjNyY2RjOVMzUDZITUNTSjhhd9IBX0FVX3lxTFBfV3N5RFV4UVdwTG1xd0VQMlo2OEp3RktRWUthLXpoSUhvY05SaVVmUVVmcGtzU0dpWkxyTU1ISnpCcUM0U1hFaXB1T05hVzBXMEJZZTFCYWNjRXM2TFc0?oc=5",
+          "title": "누리호 5차 발사 성공! 우주로 간 '이 카메라'를 만든 기업 - 영상 | 멀티미디어 - 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82MVFhR0o1QjFfcDVSa1lGTHBBSUNhU3cxbm1XLS1tQ2hDU0F0SVRoRUR2V0xtdXJfaE54WmxGMk9mb1I3dkUwMzgwT1BaWHR2ZndDYjYwVDBEb0ZOTTQwRjJHY1c1OF9aczNjRg?oc=5",
           "source": "Google News",
-          "published": "Wed, 07 Oct 2026 07:27:00 GMT"
+          "published": "Thu, 08 Oct 2026 00:56:15 GMT"
         }
       ]
     },
     {
-      "word": "국힘",
+      "word": "기업",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“패노메논 왜 총선 전에? 대통령 지지율 올리려고?” 따진 국힘 의원에···박진영 “나라 위한 일 아니면 안 한다” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lRkRnUUhoa3pkMU1jVnBVVVY4TkhiWnBLWFZxODlGYldLcTV2MzFfSWdMSUZxR0pQRjY3WDNrV2FlX09lb2ZRWjNyY2RjOVMzUDZITUNTSjhhd9IBX0FVX3lxTFBfV3N5RFV4UVdwTG1xd0VQMlo2OEp3RktRWUthLXpoSUhvY05SaVVmUVVmcGtzU0dpWkxyTU1ISnpCcUM0U1hFaXB1T05hVzBXMEJZZTFCYWNjRXM2TFc0?oc=5",
+          "title": "누리호 5차 발사 성공! 우주로 간 '이 카메라'를 만든 기업 - 영상 | 멀티미디어 - 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82MVFhR0o1QjFfcDVSa1lGTHBBSUNhU3cxbm1XLS1tQ2hDU0F0SVRoRUR2V0xtdXJfaE54WmxGMk9mb1I3dkUwMzgwT1BaWHR2ZndDYjYwVDBEb0ZOTTQwRjJHY1c1OF9aczNjRg?oc=5",
           "source": "Google News",
-          "published": "Wed, 07 Oct 2026 07:27:00 GMT"
+          "published": "Thu, 08 Oct 2026 00:56:15 GMT"
         }
       ]
     },
     {
-      "word": "의원에박진영",
+      "word": "노벨평화상",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“패노메논 왜 총선 전에? 대통령 지지율 올리려고?” 따진 국힘 의원에···박진영 “나라 위한 일 아니면 안 한다” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lRkRnUUhoa3pkMU1jVnBVVVY4TkhiWnBLWFZxODlGYldLcTV2MzFfSWdMSUZxR0pQRjY3WDNrV2FlX09lb2ZRWjNyY2RjOVMzUDZITUNTSjhhd9IBX0FVX3lxTFBfV3N5RFV4UVdwTG1xd0VQMlo2OEp3RktRWUthLXpoSUhvY05SaVVmUVVmcGtzU0dpWkxyTU1ISnpCcUM0U1hFaXB1T05hVzBXMEJZZTFCYWNjRXM2TFc0?oc=5",
+          "title": "트럼프, 또 노벨평화상 타령···“관세로 많은 전쟁 막아, 상 받을 자격 있어” 셀프 어필 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqcUNiUDVrYzR5eWtGR2NrNGNqalRRMmtyR0ZDMTZRcUM5VW1NVy1SYWtCMUV4WXZiUnc2MUJ4RWxEMGdVcFFuQ2t2TmpYSzdDbnZQcFRvNnN1d9IBX0FVX3lxTFBOamVnYmFQRmlTYlhRU0k4X0N3UVFfMnlGUVhScXl1WTRtSXdJTUx5VURNd1kxQm9oT2dmNFBROWZOM212UWI0VHlRenV2LXhPZ3B5UEQ2ZHJQbGNzdHNF?oc=5",
           "source": "Google News",
-          "published": "Wed, 07 Oct 2026 07:27:00 GMT"
+          "published": "Wed, 07 Oct 2026 22:44:00 GMT"
         }
       ]
     },
     {
-      "word": "나라",
+      "word": "타령관세",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“패노메논 왜 총선 전에? 대통령 지지율 올리려고?” 따진 국힘 의원에···박진영 “나라 위한 일 아니면 안 한다” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lRkRnUUhoa3pkMU1jVnBVVVY4TkhiWnBLWFZxODlGYldLcTV2MzFfSWdMSUZxR0pQRjY3WDNrV2FlX09lb2ZRWjNyY2RjOVMzUDZITUNTSjhhd9IBX0FVX3lxTFBfV3N5RFV4UVdwTG1xd0VQMlo2OEp3RktRWUthLXpoSUhvY05SaVVmUVVmcGtzU0dpWkxyTU1ISnpCcUM0U1hFaXB1T05hVzBXMEJZZTFCYWNjRXM2TFc0?oc=5",
+          "title": "트럼프, 또 노벨평화상 타령···“관세로 많은 전쟁 막아, 상 받을 자격 있어” 셀프 어필 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqcUNiUDVrYzR5eWtGR2NrNGNqalRRMmtyR0ZDMTZRcUM5VW1NVy1SYWtCMUV4WXZiUnc2MUJ4RWxEMGdVcFFuQ2t2TmpYSzdDbnZQcFRvNnN1d9IBX0FVX3lxTFBOamVnYmFQRmlTYlhRU0k4X0N3UVFfMnlGUVhScXl1WTRtSXdJTUx5VURNd1kxQm9oT2dmNFBROWZOM212UWI0VHlRenV2LXhPZ3B5UEQ2ZHJQbGNzdHNF?oc=5",
           "source": "Google News",
-          "published": "Wed, 07 Oct 2026 07:27:00 GMT"
+          "published": "Wed, 07 Oct 2026 22:44:00 GMT"
         }
       ]
     },
     {
-      "word": "위한",
+      "word": "많은",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“패노메논 왜 총선 전에? 대통령 지지율 올리려고?” 따진 국힘 의원에···박진영 “나라 위한 일 아니면 안 한다” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lRkRnUUhoa3pkMU1jVnBVVVY4TkhiWnBLWFZxODlGYldLcTV2MzFfSWdMSUZxR0pQRjY3WDNrV2FlX09lb2ZRWjNyY2RjOVMzUDZITUNTSjhhd9IBX0FVX3lxTFBfV3N5RFV4UVdwTG1xd0VQMlo2OEp3RktRWUthLXpoSUhvY05SaVVmUVVmcGtzU0dpWkxyTU1ISnpCcUM0U1hFaXB1T05hVzBXMEJZZTFCYWNjRXM2TFc0?oc=5",
+          "title": "트럼프, 또 노벨평화상 타령···“관세로 많은 전쟁 막아, 상 받을 자격 있어” 셀프 어필 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqcUNiUDVrYzR5eWtGR2NrNGNqalRRMmtyR0ZDMTZRcUM5VW1NVy1SYWtCMUV4WXZiUnc2MUJ4RWxEMGdVcFFuQ2t2TmpYSzdDbnZQcFRvNnN1d9IBX0FVX3lxTFBOamVnYmFQRmlTYlhRU0k4X0N3UVFfMnlGUVhScXl1WTRtSXdJTUx5VURNd1kxQm9oT2dmNFBROWZOM212UWI0VHlRenV2LXhPZ3B5UEQ2ZHJQbGNzdHNF?oc=5",
           "source": "Google News",
-          "published": "Wed, 07 Oct 2026 07:27:00 GMT"
+          "published": "Wed, 07 Oct 2026 22:44:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "전쟁",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프, 또 노벨평화상 타령···“관세로 많은 전쟁 막아, 상 받을 자격 있어” 셀프 어필 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqcUNiUDVrYzR5eWtGR2NrNGNqalRRMmtyR0ZDMTZRcUM5VW1NVy1SYWtCMUV4WXZiUnc2MUJ4RWxEMGdVcFFuQ2t2TmpYSzdDbnZQcFRvNnN1d9IBX0FVX3lxTFBOamVnYmFQRmlTYlhRU0k4X0N3UVFfMnlGUVhScXl1WTRtSXdJTUx5VURNd1kxQm9oT2dmNFBROWZOM212UWI0VHlRenV2LXhPZ3B5UEQ2ZHJQbGNzdHNF?oc=5",
+          "source": "Google News",
+          "published": "Wed, 07 Oct 2026 22:44:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "막아",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프, 또 노벨평화상 타령···“관세로 많은 전쟁 막아, 상 받을 자격 있어” 셀프 어필 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqcUNiUDVrYzR5eWtGR2NrNGNqalRRMmtyR0ZDMTZRcUM5VW1NVy1SYWtCMUV4WXZiUnc2MUJ4RWxEMGdVcFFuQ2t2TmpYSzdDbnZQcFRvNnN1d9IBX0FVX3lxTFBOamVnYmFQRmlTYlhRU0k4X0N3UVFfMnlGUVhScXl1WTRtSXdJTUx5VURNd1kxQm9oT2dmNFBROWZOM212UWI0VHlRenV2LXhPZ3B5UEQ2ZHJQbGNzdHNF?oc=5",
+          "source": "Google News",
+          "published": "Wed, 07 Oct 2026 22:44:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "받을",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프, 또 노벨평화상 타령···“관세로 많은 전쟁 막아, 상 받을 자격 있어” 셀프 어필 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqcUNiUDVrYzR5eWtGR2NrNGNqalRRMmtyR0ZDMTZRcUM5VW1NVy1SYWtCMUV4WXZiUnc2MUJ4RWxEMGdVcFFuQ2t2TmpYSzdDbnZQcFRvNnN1d9IBX0FVX3lxTFBOamVnYmFQRmlTYlhRU0k4X0N3UVFfMnlGUVhScXl1WTRtSXdJTUx5VURNd1kxQm9oT2dmNFBROWZOM212UWI0VHlRenV2LXhPZ3B5UEQ2ZHJQbGNzdHNF?oc=5",
+          "source": "Google News",
+          "published": "Wed, 07 Oct 2026 22:44:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "자격",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프, 또 노벨평화상 타령···“관세로 많은 전쟁 막아, 상 받을 자격 있어” 셀프 어필 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqcUNiUDVrYzR5eWtGR2NrNGNqalRRMmtyR0ZDMTZRcUM5VW1NVy1SYWtCMUV4WXZiUnc2MUJ4RWxEMGdVcFFuQ2t2TmpYSzdDbnZQcFRvNnN1d9IBX0FVX3lxTFBOamVnYmFQRmlTYlhRU0k4X0N3UVFfMnlGUVhScXl1WTRtSXdJTUx5VURNd1kxQm9oT2dmNFBROWZOM212UWI0VHlRenV2LXhPZ3B5UEQ2ZHJQbGNzdHNF?oc=5",
+          "source": "Google News",
+          "published": "Wed, 07 Oct 2026 22:44:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "있어",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프, 또 노벨평화상 타령···“관세로 많은 전쟁 막아, 상 받을 자격 있어” 셀프 어필 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqcUNiUDVrYzR5eWtGR2NrNGNqalRRMmtyR0ZDMTZRcUM5VW1NVy1SYWtCMUV4WXZiUnc2MUJ4RWxEMGdVcFFuQ2t2TmpYSzdDbnZQcFRvNnN1d9IBX0FVX3lxTFBOamVnYmFQRmlTYlhRU0k4X0N3UVFfMnlGUVhScXl1WTRtSXdJTUx5VURNd1kxQm9oT2dmNFBROWZOM212UWI0VHlRenV2LXhPZ3B5UEQ2ZHJQbGNzdHNF?oc=5",
+          "source": "Google News",
+          "published": "Wed, 07 Oct 2026 22:44:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "셀프",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프, 또 노벨평화상 타령···“관세로 많은 전쟁 막아, 상 받을 자격 있어” 셀프 어필 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqcUNiUDVrYzR5eWtGR2NrNGNqalRRMmtyR0ZDMTZRcUM5VW1NVy1SYWtCMUV4WXZiUnc2MUJ4RWxEMGdVcFFuQ2t2TmpYSzdDbnZQcFRvNnN1d9IBX0FVX3lxTFBOamVnYmFQRmlTYlhRU0k4X0N3UVFfMnlGUVhScXl1WTRtSXdJTUx5VURNd1kxQm9oT2dmNFBROWZOM212UWI0VHlRenV2LXhPZ3B5UEQ2ZHJQbGNzdHNF?oc=5",
+          "source": "Google News",
+          "published": "Wed, 07 Oct 2026 22:44:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "어필",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프, 또 노벨평화상 타령···“관세로 많은 전쟁 막아, 상 받을 자격 있어” 셀프 어필 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqcUNiUDVrYzR5eWtGR2NrNGNqalRRMmtyR0ZDMTZRcUM5VW1NVy1SYWtCMUV4WXZiUnc2MUJ4RWxEMGdVcFFuQ2t2TmpYSzdDbnZQcFRvNnN1d9IBX0FVX3lxTFBOamVnYmFQRmlTYlhRU0k4X0N3UVFfMnlGUVhScXl1WTRtSXdJTUx5VURNd1kxQm9oT2dmNFBROWZOM212UWI0VHlRenV2LXhPZ3B5UEQ2ZHJQbGNzdHNF?oc=5",
+          "source": "Google News",
+          "published": "Wed, 07 Oct 2026 22:44:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "리야드아브",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "사우디 “리야드·아브하 공항 공격받아 3명 사망”…후티는 잇단 사우디 본토 공격 주장 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10Z2l0UmFsajBPMGxIN2lUMUl0bmttbXhDblA2S1ZtcE01Ykx1dlBoY2ZRcE42RHg1Ny1yWlZRRVczbTd5VXFIMy1HWm5Xc056S1dBU1R4V0phQdIBX0FVX3lxTE43bTVKZ0ZhUzdfWklpM3BORW55bjVoaWVWQUZpSVgzbVhhaVVTX1ExRXdpSU1VdFpVMjBLeU5zUDFOZ3VWSjdMVzFZTE8wX2xFUFRDOU83X3hhVWJwVElZ?oc=5",
+          "source": "Google News",
+          "published": "Wed, 07 Oct 2026 22:15:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "공항",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "사우디 “리야드·아브하 공항 공격받아 3명 사망”…후티는 잇단 사우디 본토 공격 주장 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10Z2l0UmFsajBPMGxIN2lUMUl0bmttbXhDblA2S1ZtcE01Ykx1dlBoY2ZRcE42RHg1Ny1yWlZRRVczbTd5VXFIMy1HWm5Xc056S1dBU1R4V0phQdIBX0FVX3lxTE43bTVKZ0ZhUzdfWklpM3BORW55bjVoaWVWQUZpSVgzbVhhaVVTX1ExRXdpSU1VdFpVMjBLeU5zUDFOZ3VWSjdMVzFZTE8wX2xFUFRDOU83X3hhVWJwVElZ?oc=5",
+          "source": "Google News",
+          "published": "Wed, 07 Oct 2026 22:15:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "공격받아",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "사우디 “리야드·아브하 공항 공격받아 3명 사망”…후티는 잇단 사우디 본토 공격 주장 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10Z2l0UmFsajBPMGxIN2lUMUl0bmttbXhDblA2S1ZtcE01Ykx1dlBoY2ZRcE42RHg1Ny1yWlZRRVczbTd5VXFIMy1HWm5Xc056S1dBU1R4V0phQdIBX0FVX3lxTE43bTVKZ0ZhUzdfWklpM3BORW55bjVoaWVWQUZpSVgzbVhhaVVTX1ExRXdpSU1VdFpVMjBLeU5zUDFOZ3VWSjdMVzFZTE8wX2xFUFRDOU83X3hhVWJwVElZ?oc=5",
+          "source": "Google News",
+          "published": "Wed, 07 Oct 2026 22:15:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "3명",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "사우디 “리야드·아브하 공항 공격받아 3명 사망”…후티는 잇단 사우디 본토 공격 주장 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10Z2l0UmFsajBPMGxIN2lUMUl0bmttbXhDblA2S1ZtcE01Ykx1dlBoY2ZRcE42RHg1Ny1yWlZRRVczbTd5VXFIMy1HWm5Xc056S1dBU1R4V0phQdIBX0FVX3lxTE43bTVKZ0ZhUzdfWklpM3BORW55bjVoaWVWQUZpSVgzbVhhaVVTX1ExRXdpSU1VdFpVMjBLeU5zUDFOZ3VWSjdMVzFZTE8wX2xFUFRDOU83X3hhVWJwVElZ?oc=5",
+          "source": "Google News",
+          "published": "Wed, 07 Oct 2026 22:15:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "사망후티",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "사우디 “리야드·아브하 공항 공격받아 3명 사망”…후티는 잇단 사우디 본토 공격 주장 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10Z2l0UmFsajBPMGxIN2lUMUl0bmttbXhDblA2S1ZtcE01Ykx1dlBoY2ZRcE42RHg1Ny1yWlZRRVczbTd5VXFIMy1HWm5Xc056S1dBU1R4V0phQdIBX0FVX3lxTE43bTVKZ0ZhUzdfWklpM3BORW55bjVoaWVWQUZpSVgzbVhhaVVTX1ExRXdpSU1VdFpVMjBLeU5zUDFOZ3VWSjdMVzFZTE8wX2xFUFRDOU83X3hhVWJwVElZ?oc=5",
+          "source": "Google News",
+          "published": "Wed, 07 Oct 2026 22:15:00 GMT"
         }
       ]
     }
