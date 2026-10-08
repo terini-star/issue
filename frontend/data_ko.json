@@ -1,87 +1,183 @@
 {
   "language": "ko",
-  "last_updated": 1791449104.3931136,
+  "last_updated": 1791476358.2367754,
   "count": 40,
   "trends": [
     {
+      "word": "한국",
+      "count": 2,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "[속보] 외교부 “주 우크라이나 한국 대사 소환 결정”···‘북한군 포로 공개’ 강경 대응 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1za203QWlaRVdtVS00SGtUNGF5a2YyZjNnY1FUV3Izb2dacjgxREdILXVFUVhSUThGaHA0dmowWFJZc3ROV1BzUk1EaDV2X25oY091YXM5Yi0zQdIBX0FVX3lxTE05d01YTEtMSDJaRG9UZGJmQ2RaQm9aZ2RfaTl3N0R1b1F6MmNNVmIwLTNZNTlMUGNVX2prbGI2aFJfUndMY0hldU43UTVCSkEtNzE5Ym9ya1JVNDJiN2Rn?oc=5",
+          "source": "Google News",
+          "published": "Thu, 08 Oct 2026 11:20:00 GMT"
+        },
+        {
+          "title": "미 부통령 “한국 현 정부든 차기 정부든, 일본이든 ‘알래스카 LNG’ 완수할 것” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sNnVmRXltVkF2RkxNYTV3RXQtclhVQUN6dFBxZEpOdkZxZy1pdFcwNDJaY012MmpIQXVfYWdqT3k2N053a3RIeHdVSld4SUtmQ1FNVDdGb2xiQdIBX0FVX3lxTE9CVUZXUFhvRkItRVhVd2ktTTI1eGhkZHJ2ekxnZ0RJUWVvcHg2MjJ6YUUyTzlHRkltWm9mZzJqSUVhRW5QWk5hVmY2VFJWVW9XbWJsMDkxWmNpd0MxcUYw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 08 Oct 2026 01:17:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "공개",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보] 외교부 “주 우크라이나 한국 대사 소환 결정”···‘북한군 포로 공개’ 강경 대응 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1za203QWlaRVdtVS00SGtUNGF5a2YyZjNnY1FUV3Izb2dacjgxREdILXVFUVhSUThGaHA0dmowWFJZc3ROV1BzUk1EaDV2X25oY091YXM5Yi0zQdIBX0FVX3lxTE05d01YTEtMSDJaRG9UZGJmQ2RaQm9aZ2RfaTl3N0R1b1F6MmNNVmIwLTNZNTlMUGNVX2prbGI2aFJfUndMY0hldU43UTVCSkEtNzE5Ym9ya1JVNDJiN2Rn?oc=5",
+          "source": "Google News",
+          "published": "Thu, 08 Oct 2026 11:20:00 GMT"
+        },
+        {
+          "title": "'120억 펜트하우스 이사' 장윤정·도경완, 집 공개 - 세계일보",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MLXUwRUhyS1RXUHlBNHJvcFNOWEVHckxGSV9WV1RQVUZTMkhVZUNzYjYwTlZtMUY1TDQ0V2g1NGQ2a2tQUzc4S1RRYXFtbVBpTThSUm01TVLSAVRBVV95cUxQaWFaV2pRNnlFMzFRV1FDbFJzaGRGWGxGU0JBX1lxbi1NajBRODRoZ2ctZm9NanZFMHMwellFQ05BN3V2WHB2Smt5ZGJuTkZ6M2Y2elk?oc=5",
+          "source": "Google News",
+          "published": "Wed, 07 Oct 2026 08:28:00 GMT"
+        }
+      ]
+    },
+    {
       "word": "대통령",
-      "count": 3,
+      "count": 2,
       "category": "PERSON",
       "articles": [
         {
-          "title": "[속보] 이 대통령 “CPTPP 연내 가입신청 말라…농어민 목소리 충분히 들어야” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pOHlIZlJSeFpiclZ6QXFoR1lGSXRoWlU2UzEwS0N3R3FCZnJaZ0JPb1ZIR0hnTktxSnpJUVBzQVBtS2xzZHNNd1ZRU1FmSXJxQWpCNThxRG12dHVNWG5SS00tMnRuRm1ZZWtJ?oc=5",
+          "title": "이 대통령 “자주국방은 기술과 실력으로 증명”…극초음속 미사일 발사 성공 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRNHBTMEFsVXRGWmoyNE5aUlp6b0FiTGdqbkRpd0lELWhjOU85azRpT2VZc2daUm85ajRiaVVCMHJCc19fMXd0dFMwV09yMG1XcFZqc2FOTktjMjBmM1JSaGVEMlBlZ0Zsa0RZ?oc=5",
           "source": "Google News",
-          "published": "Thu, 08 Oct 2026 08:03:00 GMT"
+          "published": "Thu, 08 Oct 2026 13:08:00 GMT"
         },
         {
-          "title": "박진영, 얼굴 감싸며 헛웃음 \"李 대통령 위해 일 안 해\" [영상] - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tSGJiRTdtbkRremk4VTFsLWEwZFBLakI2bmdDUGNNRVl0S29XVTYwdjZsUEMtSzZwYy1VNEwxWVUtTzkxZUZQYjJXLThJZ3NqWnZWdXpfMnhjQQ?oc=5",
+          "title": "화났다던 이화영 “이 대통령 고뇌 공감…조작 법원 혁파해야” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HWjVOWDZDbVU1UTRmWmFSNEJiTjJZVmFvb2lyRXV1VzVrSURiQXFFVWpnWXFRMzMySTdsbkJaYkFOUjB1dFJfcXFfSVZLcVk0b3F0VTZyYmJ6cG96dm9RUzNGQjRkdFlXbk5aQjZhWGloQQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 08 Oct 2026 01:53:34 GMT"
-        },
-        {
-          "title": "이 대통령 “한·이집트 ‘전략적 동반자’로 격상… CEPA 협상 공식 개시” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqaWd4Q1dHcVZiSkJQX0NkVFNzaGh2SjdpWG9Vaks4NkVRS3IzTEwxM1duRFpacVFIemE2d2VDU0ZPVUtENVRnWWt4TFAzdXg2MVBwTkpGR0xfaGpKejJrQldvOHRRczhJYUdF?oc=5",
-          "source": "Google News",
-          "published": "Thu, 08 Oct 2026 03:55:00 GMT"
+          "published": "Thu, 08 Oct 2026 12:14:00 GMT"
         }
       ]
     },
     {
-      "word": "수사",
+      "word": "성공",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "경찰, 김승원 ‘성추행 의혹’ 수사 나서...고발인 조사 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTUlzR0tzcmZDaUZtenhUcWhoSGRkYXlDSkh4YlVUamJZRG1NTXNMcmFCam1uWjRRQkNLblRTZG0tVEc0aWdoZDFEdEs0LUlQTFBReE1LTFlnZF80ajlrdUZkZ0wyYlVqX2RzNmJQNkJrcWxqR19Bd0dEeXRaa0kwdjVWN1c1UUR4aVJMUkVlMVA?oc=5",
+          "title": "이 대통령 “자주국방은 기술과 실력으로 증명”…극초음속 미사일 발사 성공 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRNHBTMEFsVXRGWmoyNE5aUlp6b0FiTGdqbkRpd0lELWhjOU85azRpT2VZc2daUm85ajRiaVVCMHJCc19fMXd0dFMwV09yMG1XcFZqc2FOTktjMjBmM1JSaGVEMlBlZ0Zsa0RZ?oc=5",
           "source": "Google News",
-          "published": "Thu, 08 Oct 2026 03:24:00 GMT"
+          "published": "Thu, 08 Oct 2026 13:08:00 GMT"
         },
         {
-          "title": "[단독] 한동훈 딸 수사 ‘국제 공조 요청’, 검찰서 자체 중단 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE85TklZcm1lcHhyWFYtcnZRdW5sd3p5QU1BcGZBZEl3bm93R1RfbDAzbVlETWQ0SWNpdlRKcklPcm9yaGhnaWJxcG1EYkpPSlNxMHpReXpVLWY1b0pxNDVzOFZXNW5ZekNIa21kVTl6OTNyZw?oc=5",
+          "title": "'누리호' 초소형군집위성 2~6호기 모두 교신 성공 - 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXQ19aY1NVQVpFUVczRmZiQlNmMGFiVVJ4OGk5dWE5VHNWbXVTdTNvb082Zy13bElWaUVwZ0JfWEgteGlNMDRXcXVlLU95UFg2ekI4QmJ2WWdIbjV3NHhsQzFuaUZHM1NkTl90Uw?oc=5",
           "source": "Google News",
-          "published": "Thu, 08 Oct 2026 03:16:00 GMT"
+          "published": "Thu, 08 Oct 2026 14:25:23 GMT"
         }
       ]
     },
     {
-      "word": "트럼프",
+      "word": "김지용",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프, 반대시위로 연설 여러번 중단…공화 주지사는 유세 불참(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XNFVQRjUwNmFmRDZUZ1NacVNNR1dDUjlzR3BXT2FtQ0NiYWVJZ0tZVXNHQmd3djlka0RBcjFlOWZZOUJOZ2d1V21tM1ZpRmR5QTBmS29XRnFoUGPSAWBBVV95cUxNV2dld055a19oUEo1Umg0R0R4QXlCZ0Rld0NoMVdILWRrY2hmLUZuWk1OM0tiQTZOOGhFOTkyRDIyRjZWb0sycHAzUjluRk9kOVBsUk1IQjN4VlZnNlJ3dDM?oc=5",
+          "title": "추미애 “김지용 부적격”, 김민석 “절제가 필요해”, 김지용 “공정한 수사” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ycTdvMkR0OEtqT1VpMDFkdlpsQjluTGoweURrOU9rRjdTT3g0TFRNeGhjZkw1b3lIeTRDRGkyR3hrejN1T1U4cFhFMmMzbnBTV3gzVlVVaUlwd9IBX0FVX3lxTE03VmQ4TWRKSUpVZTdoZDJSak5WMk5jWDB2b1AzTkxVY2RJMGFReHB2a0NoVVNfLWVXbFE2ZUFZS3ljd0RYU3p3Z0FoRmh5YXVWYTk2aGhVaUJGWFFtOGNF?oc=5",
           "source": "Google News",
-          "published": "Thu, 08 Oct 2026 07:00:42 GMT"
-        },
-        {
-          "title": "사진 지우고 유세 피하고…경합지 공화당 후보 ‘셋 중 둘’ 트럼프와 거리두기 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FeVBRN2g2M1pDMjdHVDhOWXhyZTRGcFQwT3ZyLS1PaC1GZG5JZXhTcGZWZEJaeTd0dmozTFI0Vkc4alBLNkQwa3VMNEh2TE9oOUc1b2hIYzdTUnFoX2E2OWtVSmdUV2hsbG8xQzhoYw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 08 Oct 2026 06:56:00 GMT"
+          "published": "Thu, 08 Oct 2026 12:58:00 GMT"
         }
       ]
     },
     {
-      "word": "유세",
+      "word": "법원",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프, 반대시위로 연설 여러번 중단…공화 주지사는 유세 불참(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XNFVQRjUwNmFmRDZUZ1NacVNNR1dDUjlzR3BXT2FtQ0NiYWVJZ0tZVXNHQmd3djlka0RBcjFlOWZZOUJOZ2d1V21tM1ZpRmR5QTBmS29XRnFoUGPSAWBBVV95cUxNV2dld055a19oUEo1Umg0R0R4QXlCZ0Rld0NoMVdILWRrY2hmLUZuWk1OM0tiQTZOOGhFOTkyRDIyRjZWb0sycHAzUjluRk9kOVBsUk1IQjN4VlZnNlJ3dDM?oc=5",
+          "title": "화났다던 이화영 “이 대통령 고뇌 공감…조작 법원 혁파해야” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HWjVOWDZDbVU1UTRmWmFSNEJiTjJZVmFvb2lyRXV1VzVrSURiQXFFVWpnWXFRMzMySTdsbkJaYkFOUjB1dFJfcXFfSVZLcVk0b3F0VTZyYmJ6cG96dm9RUzNGQjRkdFlXbk5aQjZhWGloQQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 08 Oct 2026 07:00:42 GMT"
+          "published": "Thu, 08 Oct 2026 12:14:00 GMT"
         },
         {
-          "title": "사진 지우고 유세 피하고…경합지 공화당 후보 ‘셋 중 둘’ 트럼프와 거리두기 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FeVBRN2g2M1pDMjdHVDhOWXhyZTRGcFQwT3ZyLS1PaC1GZG5JZXhTcGZWZEJaeTd0dmozTFI0Vkc4alBLNkQwa3VMNEh2TE9oOUc1b2hIYzdTUnFoX2E2OWtVSmdUV2hsbG8xQzhoYw?oc=5",
+          "title": "법원 \"尹·김건희 정치적 공동체…명태균 위해 김영선 공천 관여\" - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5b0I5QmNlUmNzblVwbmdEY210cW5kRUhxV0dqWmNXRDhDTGlHdzRzaTNhMVkxVDF5NTBEd1paT2hFWDV4MHdJRl9rc0YtdTFLa2VsV1ZCUVFjTmPSAWBBVV95cUxPV2xmWTNaSzhsZV9uZlFwbkZuSjVBUnRGc3hIU19hbzN4d3lsdW52T19pWFBCS19rV2Z4Yko2NDBWOGdWOHVHbnBqQ3lrX28tNE9NdWE2UGh5dHRWaHJ1cks?oc=5",
           "source": "Google News",
-          "published": "Thu, 08 Oct 2026 06:56:00 GMT"
+          "published": "Wed, 07 Oct 2026 21:00:01 GMT"
+        }
+      ]
+    },
+    {
+      "word": "이란",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "미국 한발 뺀 이란 전쟁 ‘중동판 나토’ 시험대에 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kWU9xM1A1MmM4bC1QdGR6MVhsb2lhalhTdXVtdl9CQVlIZFR3enFpdG5abVh6bXUtd1BUMHdidnVPMkdLT05BZXJ0WFo0T211eTRkcDJXNkJLZ9IBX0FVX3lxTFBfUmI2TnFfVWdRQmREc0hUQkpjRHlrU3k2YkJQUVhYaFl6SllVTlRIa3BWbGNuSEJuZDhNTmY3cVZ1RnoxZE1MVWJNT0dLamY4MEpaWGVQbEg0dWc0OUxr?oc=5",
+          "source": "Google News",
+          "published": "Thu, 08 Oct 2026 12:25:00 GMT"
+        },
+        {
+          "title": "美 국채, 대규모 이란 공습 우려에 '베어 플랫' - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yRThPQThpN29US190X0gyU1NLU0MxMWJjT0lST01rNWxnSmV6VFVFZW44TGNHS3ZpZGM3MzZ6dEQwODdaQ2wxemRVSEw1eEtqYngtMnRQeHpBaS12QmdVNWZEeEI4eXE3SVVJei1yYkg?oc=5",
+          "source": "Google News",
+          "published": "Thu, 08 Oct 2026 15:51:12 GMT"
+        }
+      ]
+    },
+    {
+      "word": "반도체",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "반도체 ETF 7종 오늘 리밸런싱… 삼성전자 2000억 매도에 소부장 ‘들썩’ - 조선비즈 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUnpOUVdiS3dFczI5UlFfU0lobFRhSlp1aEI0V19Yc1JwSUlNWXk4V1JXQnhVS1U0X2ZCSXJfckU5UTFzVWZBT3NnSG5FVzVPb3FOM004YUJCbTFyODVVSU9NSGVaYjhBV3llNDQ0UVJjS0NXLWlMSFNMaVJDUVZDUFljc3FHaWVJ0gGcAUFVX3lxTE12TldrVlRRYVlwQzRDWjlUTzZRcUxzRHVCU0JfbHV1ZzFCaEFMUkZ4YWxkcUFPMnNkc3RXNnI1RUQ1WGNLREpnQnhiaV90TnJmWk5ZeTJhTU5sa0ZOa2tycUNxR2xZczFpYld1RGlRTGhhbndKc1RPQ1dFNm56b2g3SlBvQVQ1UXV5b2psUUE3S09lNDJoSTd5azFSZw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 08 Oct 2026 06:10:00 GMT"
+        },
+        {
+          "title": "최태원 회장, ‘반도체 클러스터 예정지’ 광주 군공항 방문 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hTmVmeXA2aFZBNWF1NnhaXzduX0ZIU0lSalBoLVVuT2tQUUFLaUMySWlRMWppRGJ5M0k0a3RHSDJpYkRUU3l0UVlCQnlQSXlFUU9FX3V4NXNGSlU?oc=5",
+          "source": "Google News",
+          "published": "Thu, 08 Oct 2026 11:19:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "정부",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "미 부통령 “한국 현 정부든 차기 정부든, 일본이든 ‘알래스카 LNG’ 완수할 것” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sNnVmRXltVkF2RkxNYTV3RXQtclhVQUN6dFBxZEpOdkZxZy1pdFcwNDJaY012MmpIQXVfYWdqT3k2N053a3RIeHdVSld4SUtmQ1FNVDdGb2xiQdIBX0FVX3lxTE9CVUZXUFhvRkItRVhVd2ktTTI1eGhkZHJ2ekxnZ0RJUWVvcHg2MjJ6YUUyTzlHRkltWm9mZzJqSUVhRW5QWk5hVmY2VFJWVW9XbWJsMDkxWmNpd0MxcUYw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 08 Oct 2026 01:17:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "일본",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "미 부통령 “한국 현 정부든 차기 정부든, 일본이든 ‘알래스카 LNG’ 완수할 것” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sNnVmRXltVkF2RkxNYTV3RXQtclhVQUN6dFBxZEpOdkZxZy1pdFcwNDJaY012MmpIQXVfYWdqT3k2N053a3RIeHdVSld4SUtmQ1FNVDdGb2xiQdIBX0FVX3lxTE9CVUZXUFhvRkItRVhVd2ktTTI1eGhkZHJ2ekxnZ0RJUWVvcHg2MjJ6YUUyTzlHRkltWm9mZzJqSUVhRW5QWk5hVmY2VFJWVW9XbWJsMDkxWmNpd0MxcUYw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 08 Oct 2026 01:17:00 GMT"
+        },
+        {
+          "title": "일본은 어떻게 초고령사회에 대응했나…“대사·인지건강 조기 관리 중요” - 현대건강신문",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EUFdWRkQ4WlgyMUlwWVVFbUFYMllUeXlsTEUteEtoZ256RmVQbTh3Y0EzWTN2V2N4LXpkNC10bVVZdHA3SE5UNFFhMzRIUUNXWE5Gdi1B?oc=5",
+          "source": "Google News",
+          "published": "Wed, 07 Oct 2026 00:47:00 GMT"
         }
       ]
     },
@@ -118,7 +214,7 @@
       ]
     },
     {
-      "word": "역사",
+      "word": "정치권",
       "count": 2,
       "category": "NOUN",
       "articles": [
@@ -129,23 +225,23 @@
           "published": "Thu, 08 Oct 2026 03:32:00 GMT"
         },
         {
-          "title": "메시에 존경 표한 호날두 “당신은 영원히 남을 역사 만들어” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45dTZtQmVxXzZwTmhNcGRvdkU2c2x3ZVcyMU1XUUVYRWhXMEpacUh6TExIX0Z4R3RYeDZidTZZdF9NUHJXNi1aLUU0cldNLVNVQTltOGxUR0RNR2k3TEJVdVNEazBxTV9SMUJNZS1KVWx6UXfSAWZBVV95cUxPZnY5RXFBXzFSQ0Y2M3NpZzhHZm1zRE16Rnc5YXhPeWhNUHVEWTJRRHZ1Yml0aVFtQ3FKT1dPbWpKc1hGY1duX1dtN2xDNDh4aVQ0R243YV9lZm5zX01kRnd4d1VJdUE?oc=5",
+          "title": "홍준표 “어린 선수 한마디에 난리…군 면제 존폐 논의 정치권 한심” - 경기일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0SVoyNzZpd2RLbEo2UVhOZW5DdTg2eW9wMkF4X21LOXlDczhIT2pQSndkZDZQRk5UTGlSNmhGcmtaNlZGcmRfNFJtZXo2aXhUc0duUlNhME5JZ1E?oc=5",
           "source": "Google News",
-          "published": "Thu, 08 Oct 2026 02:12:46 GMT"
+          "published": "Thu, 08 Oct 2026 06:07:26 GMT"
         }
       ]
     },
     {
-      "word": "2년",
+      "word": "위험",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "다저스-밀워키 2년 연속 NLCS 격돌…애틀랜타 김하성 시즌 종료(종합) - 연합뉴스 한민족센터",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vX1VYV2xyYzVpWTRmZGkyS2MyR25jYWFkRmRsbHl5TXRrSS1VbzZVTlM3MHh2dmg2dlVJMGxLWWpwSDVXMVJFUVNnSkJUSExFX1h1dmFVR1U2QVdHYjBqSXpHQk5tcV9neGFvUWpQLXZfM1g3?oc=5",
+          "title": "“피 한 방울로 치매 위험 확인?” - ACN아시아콘텐츠뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiVmxCVW9QN29ZZDd4QTVIbjB2Zmh1M2JYVk1fbk1nUExOXzZNUnU1OVNEcmluTTdIWWJpdU1NNk9qYXRoYjE2aERWQkJ2dnkyMFZUb05jaV9ubUFUMmFXUWlhN1NyNndT?oc=5",
           "source": "Google News",
-          "published": "Thu, 08 Oct 2026 05:20:21 GMT"
+          "published": "Thu, 08 Oct 2026 12:05:48 GMT"
         },
         {
           "title": "성균관대 \"생체나이 실제보다 2년 많으면 대장암 발병 위험 93% 높아\" - 파이낸셜뉴스",
@@ -156,418 +252,346 @@
       ]
     },
     {
-      "word": "김여정",
-      "count": 1,
+      "word": "대장암",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김여정 “한국 의료지원 구상, 또 광대극…관계 개선하려면 존중 보여야” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vMV9HNmNad1ZVSkY1VEhpajZObFhMV0J3MUU2cElqOUV4dFU3N3JvQ0VLQUtJTElsWXJKTGlVRHE2c21DZVU1Y3dKSzV2dzhiZ3RZSWNnb0NCM2NkdkUzdnVrRmdKNm1RUW5PcFdYZFRuYWxh?oc=5",
+          "title": "비만 환자, 대장암 생기기 전부터 정상 점막에 분자적 변화 나타난다 : 보건·의료 - 의약일보",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10SkJrUXZjc0VSU1hVNG0tU2F2QWVXMXRQNWdiX3JJekF4NEdQWGtKd1E2bGlEck83bGJVR2lIa2FKZDNZREIyNEtvYzEwLTE3MlJEUA?oc=5",
           "source": "Google News",
-          "published": "Thu, 08 Oct 2026 05:14:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "한국",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
+          "published": "Thu, 08 Oct 2026 05:21:00 GMT"
+        },
         {
-          "title": "김여정 “한국 의료지원 구상, 또 광대극…관계 개선하려면 존중 보여야” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vMV9HNmNad1ZVSkY1VEhpajZObFhMV0J3MUU2cElqOUV4dFU3N3JvQ0VLQUtJTElsWXJKTGlVRHE2c21DZVU1Y3dKSzV2dzhiZ3RZSWNnb0NCM2NkdkUzdnVrRmdKNm1RUW5PcFdYZFRuYWxh?oc=5",
+          "title": "성균관대 \"생체나이 실제보다 2년 많으면 대장암 발병 위험 93% 높아\" - 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5V2t5RHhwMjZRX21MWWdyOTFEWm9CZXp2R0kzNlg4Y1QwWjJ0SVljci0yQ1NDTVdiYzJSelJwczdPYW1jdWJTRUZfZXF4WmdTcE9jcHNkdDJsZw?oc=5",
           "source": "Google News",
-          "published": "Thu, 08 Oct 2026 05:14:00 GMT"
+          "published": "Thu, 08 Oct 2026 06:50:42 GMT"
         }
       ]
     },
     {
-      "word": "의료지원",
+      "word": "외교부",
       "count": 1,
       "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "김여정 “한국 의료지원 구상, 또 광대극…관계 개선하려면 존중 보여야” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vMV9HNmNad1ZVSkY1VEhpajZObFhMV0J3MUU2cElqOUV4dFU3N3JvQ0VLQUtJTElsWXJKTGlVRHE2c21DZVU1Y3dKSzV2dzhiZ3RZSWNnb0NCM2NkdkUzdnVrRmdKNm1RUW5PcFdYZFRuYWxh?oc=5",
+          "title": "[속보] 외교부 “주 우크라이나 한국 대사 소환 결정”···‘북한군 포로 공개’ 강경 대응 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1za203QWlaRVdtVS00SGtUNGF5a2YyZjNnY1FUV3Izb2dacjgxREdILXVFUVhSUThGaHA0dmowWFJZc3ROV1BzUk1EaDV2X25oY091YXM5Yi0zQdIBX0FVX3lxTE05d01YTEtMSDJaRG9UZGJmQ2RaQm9aZ2RfaTl3N0R1b1F6MmNNVmIwLTNZNTlMUGNVX2prbGI2aFJfUndMY0hldU43UTVCSkEtNzE5Ym9ya1JVNDJiN2Rn?oc=5",
           "source": "Google News",
-          "published": "Thu, 08 Oct 2026 05:14:00 GMT"
+          "published": "Thu, 08 Oct 2026 11:20:00 GMT"
         }
       ]
     },
     {
-      "word": "구상",
+      "word": "우크",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김여정 “한국 의료지원 구상, 또 광대극…관계 개선하려면 존중 보여야” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vMV9HNmNad1ZVSkY1VEhpajZObFhMV0J3MUU2cElqOUV4dFU3N3JvQ0VLQUtJTElsWXJKTGlVRHE2c21DZVU1Y3dKSzV2dzhiZ3RZSWNnb0NCM2NkdkUzdnVrRmdKNm1RUW5PcFdYZFRuYWxh?oc=5",
+          "title": "[속보] 외교부 “주 우크라이나 한국 대사 소환 결정”···‘북한군 포로 공개’ 강경 대응 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1za203QWlaRVdtVS00SGtUNGF5a2YyZjNnY1FUV3Izb2dacjgxREdILXVFUVhSUThGaHA0dmowWFJZc3ROV1BzUk1EaDV2X25oY091YXM5Yi0zQdIBX0FVX3lxTE05d01YTEtMSDJaRG9UZGJmQ2RaQm9aZ2RfaTl3N0R1b1F6MmNNVmIwLTNZNTlMUGNVX2prbGI2aFJfUndMY0hldU43UTVCSkEtNzE5Ym9ya1JVNDJiN2Rn?oc=5",
           "source": "Google News",
-          "published": "Thu, 08 Oct 2026 05:14:00 GMT"
+          "published": "Thu, 08 Oct 2026 11:20:00 GMT"
         }
       ]
     },
     {
-      "word": "광대극관계",
+      "word": "대사",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김여정 “한국 의료지원 구상, 또 광대극…관계 개선하려면 존중 보여야” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vMV9HNmNad1ZVSkY1VEhpajZObFhMV0J3MUU2cElqOUV4dFU3N3JvQ0VLQUtJTElsWXJKTGlVRHE2c21DZVU1Y3dKSzV2dzhiZ3RZSWNnb0NCM2NkdkUzdnVrRmdKNm1RUW5PcFdYZFRuYWxh?oc=5",
+          "title": "[속보] 외교부 “주 우크라이나 한국 대사 소환 결정”···‘북한군 포로 공개’ 강경 대응 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1za203QWlaRVdtVS00SGtUNGF5a2YyZjNnY1FUV3Izb2dacjgxREdILXVFUVhSUThGaHA0dmowWFJZc3ROV1BzUk1EaDV2X25oY091YXM5Yi0zQdIBX0FVX3lxTE05d01YTEtMSDJaRG9UZGJmQ2RaQm9aZ2RfaTl3N0R1b1F6MmNNVmIwLTNZNTlMUGNVX2prbGI2aFJfUndMY0hldU43UTVCSkEtNzE5Ym9ya1JVNDJiN2Rn?oc=5",
           "source": "Google News",
-          "published": "Thu, 08 Oct 2026 05:14:00 GMT"
+          "published": "Thu, 08 Oct 2026 11:20:00 GMT"
         }
       ]
     },
     {
-      "word": "개선하려면",
+      "word": "소환",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김여정 “한국 의료지원 구상, 또 광대극…관계 개선하려면 존중 보여야” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vMV9HNmNad1ZVSkY1VEhpajZObFhMV0J3MUU2cElqOUV4dFU3N3JvQ0VLQUtJTElsWXJKTGlVRHE2c21DZVU1Y3dKSzV2dzhiZ3RZSWNnb0NCM2NkdkUzdnVrRmdKNm1RUW5PcFdYZFRuYWxh?oc=5",
+          "title": "[속보] 외교부 “주 우크라이나 한국 대사 소환 결정”···‘북한군 포로 공개’ 강경 대응 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1za203QWlaRVdtVS00SGtUNGF5a2YyZjNnY1FUV3Izb2dacjgxREdILXVFUVhSUThGaHA0dmowWFJZc3ROV1BzUk1EaDV2X25oY091YXM5Yi0zQdIBX0FVX3lxTE05d01YTEtMSDJaRG9UZGJmQ2RaQm9aZ2RfaTl3N0R1b1F6MmNNVmIwLTNZNTlMUGNVX2prbGI2aFJfUndMY0hldU43UTVCSkEtNzE5Ym9ya1JVNDJiN2Rn?oc=5",
           "source": "Google News",
-          "published": "Thu, 08 Oct 2026 05:14:00 GMT"
+          "published": "Thu, 08 Oct 2026 11:20:00 GMT"
         }
       ]
     },
     {
-      "word": "존중",
+      "word": "결정북한군",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김여정 “한국 의료지원 구상, 또 광대극…관계 개선하려면 존중 보여야” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vMV9HNmNad1ZVSkY1VEhpajZObFhMV0J3MUU2cElqOUV4dFU3N3JvQ0VLQUtJTElsWXJKTGlVRHE2c21DZVU1Y3dKSzV2dzhiZ3RZSWNnb0NCM2NkdkUzdnVrRmdKNm1RUW5PcFdYZFRuYWxh?oc=5",
+          "title": "[속보] 외교부 “주 우크라이나 한국 대사 소환 결정”···‘북한군 포로 공개’ 강경 대응 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1za203QWlaRVdtVS00SGtUNGF5a2YyZjNnY1FUV3Izb2dacjgxREdILXVFUVhSUThGaHA0dmowWFJZc3ROV1BzUk1EaDV2X25oY091YXM5Yi0zQdIBX0FVX3lxTE05d01YTEtMSDJaRG9UZGJmQ2RaQm9aZ2RfaTl3N0R1b1F6MmNNVmIwLTNZNTlMUGNVX2prbGI2aFJfUndMY0hldU43UTVCSkEtNzE5Ym9ya1JVNDJiN2Rn?oc=5",
           "source": "Google News",
-          "published": "Thu, 08 Oct 2026 05:14:00 GMT"
+          "published": "Thu, 08 Oct 2026 11:20:00 GMT"
         }
       ]
     },
     {
-      "word": "보여야",
+      "word": "포로",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김여정 “한국 의료지원 구상, 또 광대극…관계 개선하려면 존중 보여야” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vMV9HNmNad1ZVSkY1VEhpajZObFhMV0J3MUU2cElqOUV4dFU3N3JvQ0VLQUtJTElsWXJKTGlVRHE2c21DZVU1Y3dKSzV2dzhiZ3RZSWNnb0NCM2NkdkUzdnVrRmdKNm1RUW5PcFdYZFRuYWxh?oc=5",
+          "title": "[속보] 외교부 “주 우크라이나 한국 대사 소환 결정”···‘북한군 포로 공개’ 강경 대응 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1za203QWlaRVdtVS00SGtUNGF5a2YyZjNnY1FUV3Izb2dacjgxREdILXVFUVhSUThGaHA0dmowWFJZc3ROV1BzUk1EaDV2X25oY091YXM5Yi0zQdIBX0FVX3lxTE05d01YTEtMSDJaRG9UZGJmQ2RaQm9aZ2RfaTl3N0R1b1F6MmNNVmIwLTNZNTlMUGNVX2prbGI2aFJfUndMY0hldU43UTVCSkEtNzE5Ym9ya1JVNDJiN2Rn?oc=5",
           "source": "Google News",
-          "published": "Thu, 08 Oct 2026 05:14:00 GMT"
+          "published": "Thu, 08 Oct 2026 11:20:00 GMT"
         }
       ]
     },
     {
-      "word": "정부",
+      "word": "강경",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "정부, '투기 아니면 농지 처분 제외'…특별조치법 추진 - 정책브리핑",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSTFwQWdRNlZsWnQwQVFjLVhPc05KTVpvUHgwYmhoWGxBTm5kSklsZU41UTRwOV9DM2l2ay1OZzZvVFZ4TjVXUTY3VVJiN09ibEJOU0ZHdE8wTlJGQ3NRb2lTU245cDgzUWxCUkMzTGlXMXZCV1BHQjJXUG5hX2JBZHk4ZnlBdFBQX0Rvb2ZaYmFlNEVwZlgxLUNzU0gyVzhxVnc?oc=5",
+          "title": "[속보] 외교부 “주 우크라이나 한국 대사 소환 결정”···‘북한군 포로 공개’ 강경 대응 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1za203QWlaRVdtVS00SGtUNGF5a2YyZjNnY1FUV3Izb2dacjgxREdILXVFUVhSUThGaHA0dmowWFJZc3ROV1BzUk1EaDV2X25oY091YXM5Yi0zQdIBX0FVX3lxTE05d01YTEtMSDJaRG9UZGJmQ2RaQm9aZ2RfaTl3N0R1b1F6MmNNVmIwLTNZNTlMUGNVX2prbGI2aFJfUndMY0hldU43UTVCSkEtNzE5Ym9ya1JVNDJiN2Rn?oc=5",
           "source": "Google News",
-          "published": "Thu, 08 Oct 2026 07:01:00 GMT"
+          "published": "Thu, 08 Oct 2026 11:20:00 GMT"
         }
       ]
     },
     {
-      "word": "투기",
+      "word": "대응",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "정부, '투기 아니면 농지 처분 제외'…특별조치법 추진 - 정책브리핑",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSTFwQWdRNlZsWnQwQVFjLVhPc05KTVpvUHgwYmhoWGxBTm5kSklsZU41UTRwOV9DM2l2ay1OZzZvVFZ4TjVXUTY3VVJiN09ibEJOU0ZHdE8wTlJGQ3NRb2lTU245cDgzUWxCUkMzTGlXMXZCV1BHQjJXUG5hX2JBZHk4ZnlBdFBQX0Rvb2ZaYmFlNEVwZlgxLUNzU0gyVzhxVnc?oc=5",
+          "title": "[속보] 외교부 “주 우크라이나 한국 대사 소환 결정”···‘북한군 포로 공개’ 강경 대응 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1za203QWlaRVdtVS00SGtUNGF5a2YyZjNnY1FUV3Izb2dacjgxREdILXVFUVhSUThGaHA0dmowWFJZc3ROV1BzUk1EaDV2X25oY091YXM5Yi0zQdIBX0FVX3lxTE05d01YTEtMSDJaRG9UZGJmQ2RaQm9aZ2RfaTl3N0R1b1F6MmNNVmIwLTNZNTlMUGNVX2prbGI2aFJfUndMY0hldU43UTVCSkEtNzE5Ym9ya1JVNDJiN2Rn?oc=5",
           "source": "Google News",
-          "published": "Thu, 08 Oct 2026 07:01:00 GMT"
+          "published": "Thu, 08 Oct 2026 11:20:00 GMT"
         }
       ]
     },
     {
-      "word": "아니면",
+      "word": "자주국방",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "정부, '투기 아니면 농지 처분 제외'…특별조치법 추진 - 정책브리핑",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSTFwQWdRNlZsWnQwQVFjLVhPc05KTVpvUHgwYmhoWGxBTm5kSklsZU41UTRwOV9DM2l2ay1OZzZvVFZ4TjVXUTY3VVJiN09ibEJOU0ZHdE8wTlJGQ3NRb2lTU245cDgzUWxCUkMzTGlXMXZCV1BHQjJXUG5hX2JBZHk4ZnlBdFBQX0Rvb2ZaYmFlNEVwZlgxLUNzU0gyVzhxVnc?oc=5",
+          "title": "이 대통령 “자주국방은 기술과 실력으로 증명”…극초음속 미사일 발사 성공 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRNHBTMEFsVXRGWmoyNE5aUlp6b0FiTGdqbkRpd0lELWhjOU85azRpT2VZc2daUm85ajRiaVVCMHJCc19fMXd0dFMwV09yMG1XcFZqc2FOTktjMjBmM1JSaGVEMlBlZ0Zsa0RZ?oc=5",
           "source": "Google News",
-          "published": "Thu, 08 Oct 2026 07:01:00 GMT"
+          "published": "Thu, 08 Oct 2026 13:08:00 GMT"
         }
       ]
     },
     {
-      "word": "농지",
+      "word": "기술",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "정부, '투기 아니면 농지 처분 제외'…특별조치법 추진 - 정책브리핑",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSTFwQWdRNlZsWnQwQVFjLVhPc05KTVpvUHgwYmhoWGxBTm5kSklsZU41UTRwOV9DM2l2ay1OZzZvVFZ4TjVXUTY3VVJiN09ibEJOU0ZHdE8wTlJGQ3NRb2lTU245cDgzUWxCUkMzTGlXMXZCV1BHQjJXUG5hX2JBZHk4ZnlBdFBQX0Rvb2ZaYmFlNEVwZlgxLUNzU0gyVzhxVnc?oc=5",
+          "title": "이 대통령 “자주국방은 기술과 실력으로 증명”…극초음속 미사일 발사 성공 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRNHBTMEFsVXRGWmoyNE5aUlp6b0FiTGdqbkRpd0lELWhjOU85azRpT2VZc2daUm85ajRiaVVCMHJCc19fMXd0dFMwV09yMG1XcFZqc2FOTktjMjBmM1JSaGVEMlBlZ0Zsa0RZ?oc=5",
           "source": "Google News",
-          "published": "Thu, 08 Oct 2026 07:01:00 GMT"
+          "published": "Thu, 08 Oct 2026 13:08:00 GMT"
         }
       ]
     },
     {
-      "word": "처분",
+      "word": "실력",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "정부, '투기 아니면 농지 처분 제외'…특별조치법 추진 - 정책브리핑",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSTFwQWdRNlZsWnQwQVFjLVhPc05KTVpvUHgwYmhoWGxBTm5kSklsZU41UTRwOV9DM2l2ay1OZzZvVFZ4TjVXUTY3VVJiN09ibEJOU0ZHdE8wTlJGQ3NRb2lTU245cDgzUWxCUkMzTGlXMXZCV1BHQjJXUG5hX2JBZHk4ZnlBdFBQX0Rvb2ZaYmFlNEVwZlgxLUNzU0gyVzhxVnc?oc=5",
+          "title": "이 대통령 “자주국방은 기술과 실력으로 증명”…극초음속 미사일 발사 성공 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRNHBTMEFsVXRGWmoyNE5aUlp6b0FiTGdqbkRpd0lELWhjOU85azRpT2VZc2daUm85ajRiaVVCMHJCc19fMXd0dFMwV09yMG1XcFZqc2FOTktjMjBmM1JSaGVEMlBlZ0Zsa0RZ?oc=5",
           "source": "Google News",
-          "published": "Thu, 08 Oct 2026 07:01:00 GMT"
+          "published": "Thu, 08 Oct 2026 13:08:00 GMT"
         }
       ]
     },
     {
-      "word": "제외특별조치법",
+      "word": "증명극초음속",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "정부, '투기 아니면 농지 처분 제외'…특별조치법 추진 - 정책브리핑",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSTFwQWdRNlZsWnQwQVFjLVhPc05KTVpvUHgwYmhoWGxBTm5kSklsZU41UTRwOV9DM2l2ay1OZzZvVFZ4TjVXUTY3VVJiN09ibEJOU0ZHdE8wTlJGQ3NRb2lTU245cDgzUWxCUkMzTGlXMXZCV1BHQjJXUG5hX2JBZHk4ZnlBdFBQX0Rvb2ZaYmFlNEVwZlgxLUNzU0gyVzhxVnc?oc=5",
+          "title": "이 대통령 “자주국방은 기술과 실력으로 증명”…극초음속 미사일 발사 성공 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRNHBTMEFsVXRGWmoyNE5aUlp6b0FiTGdqbkRpd0lELWhjOU85azRpT2VZc2daUm85ajRiaVVCMHJCc19fMXd0dFMwV09yMG1XcFZqc2FOTktjMjBmM1JSaGVEMlBlZ0Zsa0RZ?oc=5",
           "source": "Google News",
-          "published": "Thu, 08 Oct 2026 07:01:00 GMT"
+          "published": "Thu, 08 Oct 2026 13:08:00 GMT"
         }
       ]
     },
     {
-      "word": "추진",
+      "word": "미사일",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "정부, '투기 아니면 농지 처분 제외'…특별조치법 추진 - 정책브리핑",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSTFwQWdRNlZsWnQwQVFjLVhPc05KTVpvUHgwYmhoWGxBTm5kSklsZU41UTRwOV9DM2l2ay1OZzZvVFZ4TjVXUTY3VVJiN09ibEJOU0ZHdE8wTlJGQ3NRb2lTU245cDgzUWxCUkMzTGlXMXZCV1BHQjJXUG5hX2JBZHk4ZnlBdFBQX0Rvb2ZaYmFlNEVwZlgxLUNzU0gyVzhxVnc?oc=5",
+          "title": "이 대통령 “자주국방은 기술과 실력으로 증명”…극초음속 미사일 발사 성공 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRNHBTMEFsVXRGWmoyNE5aUlp6b0FiTGdqbkRpd0lELWhjOU85azRpT2VZc2daUm85ajRiaVVCMHJCc19fMXd0dFMwV09yMG1XcFZqc2FOTktjMjBmM1JSaGVEMlBlZ0Zsa0RZ?oc=5",
           "source": "Google News",
-          "published": "Thu, 08 Oct 2026 07:01:00 GMT"
+          "published": "Thu, 08 Oct 2026 13:08:00 GMT"
         }
       ]
     },
     {
-      "word": "CPTPP",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "[속보] 이 대통령 “CPTPP 연내 가입신청 말라…농어민 목소리 충분히 들어야” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pOHlIZlJSeFpiclZ6QXFoR1lGSXRoWlU2UzEwS0N3R3FCZnJaZ0JPb1ZIR0hnTktxSnpJUVBzQVBtS2xzZHNNd1ZRU1FmSXJxQWpCNThxRG12dHVNWG5SS00tMnRuRm1ZZWtJ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 08 Oct 2026 08:03:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "연내",
+      "word": "발사",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보] 이 대통령 “CPTPP 연내 가입신청 말라…농어민 목소리 충분히 들어야” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pOHlIZlJSeFpiclZ6QXFoR1lGSXRoWlU2UzEwS0N3R3FCZnJaZ0JPb1ZIR0hnTktxSnpJUVBzQVBtS2xzZHNNd1ZRU1FmSXJxQWpCNThxRG12dHVNWG5SS00tMnRuRm1ZZWtJ?oc=5",
+          "title": "이 대통령 “자주국방은 기술과 실력으로 증명”…극초음속 미사일 발사 성공 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRNHBTMEFsVXRGWmoyNE5aUlp6b0FiTGdqbkRpd0lELWhjOU85azRpT2VZc2daUm85ajRiaVVCMHJCc19fMXd0dFMwV09yMG1XcFZqc2FOTktjMjBmM1JSaGVEMlBlZ0Zsa0RZ?oc=5",
           "source": "Google News",
-          "published": "Thu, 08 Oct 2026 08:03:00 GMT"
+          "published": "Thu, 08 Oct 2026 13:08:00 GMT"
         }
       ]
     },
     {
-      "word": "가입신청",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "[속보] 이 대통령 “CPTPP 연내 가입신청 말라…농어민 목소리 충분히 들어야” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pOHlIZlJSeFpiclZ6QXFoR1lGSXRoWlU2UzEwS0N3R3FCZnJaZ0JPb1ZIR0hnTktxSnpJUVBzQVBtS2xzZHNNd1ZRU1FmSXJxQWpCNThxRG12dHVNWG5SS00tMnRuRm1ZZWtJ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 08 Oct 2026 08:03:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "말라농어민",
+      "word": "정청래",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보] 이 대통령 “CPTPP 연내 가입신청 말라…농어민 목소리 충분히 들어야” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pOHlIZlJSeFpiclZ6QXFoR1lGSXRoWlU2UzEwS0N3R3FCZnJaZ0JPb1ZIR0hnTktxSnpJUVBzQVBtS2xzZHNNd1ZRU1FmSXJxQWpCNThxRG12dHVNWG5SS00tMnRuRm1ZZWtJ?oc=5",
+          "title": "정청래, 미국행 비자 발급 보류돼…‘유럽국감’ 가는 걸로 바꿔 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HQWFzcUNnOWxSOWlNeVZ5SVJta2VZbnI4MXNnc2lXWEtOVFBacm1fTi1idllrNVdVdV9CTTVoR1gtTHNSci1acFZYdGVIYmhQZjRpZGVMc1BqcUpQaENobHZWRjF0ejIwRHBoa1Itc2JNLWxI?oc=5",
           "source": "Google News",
-          "published": "Thu, 08 Oct 2026 08:03:00 GMT"
+          "published": "Thu, 08 Oct 2026 13:14:00 GMT"
         }
       ]
     },
     {
-      "word": "목소리",
+      "word": "미국행",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보] 이 대통령 “CPTPP 연내 가입신청 말라…농어민 목소리 충분히 들어야” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pOHlIZlJSeFpiclZ6QXFoR1lGSXRoWlU2UzEwS0N3R3FCZnJaZ0JPb1ZIR0hnTktxSnpJUVBzQVBtS2xzZHNNd1ZRU1FmSXJxQWpCNThxRG12dHVNWG5SS00tMnRuRm1ZZWtJ?oc=5",
+          "title": "정청래, 미국행 비자 발급 보류돼…‘유럽국감’ 가는 걸로 바꿔 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HQWFzcUNnOWxSOWlNeVZ5SVJta2VZbnI4MXNnc2lXWEtOVFBacm1fTi1idllrNVdVdV9CTTVoR1gtTHNSci1acFZYdGVIYmhQZjRpZGVMc1BqcUpQaENobHZWRjF0ejIwRHBoa1Itc2JNLWxI?oc=5",
           "source": "Google News",
-          "published": "Thu, 08 Oct 2026 08:03:00 GMT"
+          "published": "Thu, 08 Oct 2026 13:14:00 GMT"
         }
       ]
     },
     {
-      "word": "충분히",
+      "word": "비자",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보] 이 대통령 “CPTPP 연내 가입신청 말라…농어민 목소리 충분히 들어야” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pOHlIZlJSeFpiclZ6QXFoR1lGSXRoWlU2UzEwS0N3R3FCZnJaZ0JPb1ZIR0hnTktxSnpJUVBzQVBtS2xzZHNNd1ZRU1FmSXJxQWpCNThxRG12dHVNWG5SS00tMnRuRm1ZZWtJ?oc=5",
+          "title": "정청래, 미국행 비자 발급 보류돼…‘유럽국감’ 가는 걸로 바꿔 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HQWFzcUNnOWxSOWlNeVZ5SVJta2VZbnI4MXNnc2lXWEtOVFBacm1fTi1idllrNVdVdV9CTTVoR1gtTHNSci1acFZYdGVIYmhQZjRpZGVMc1BqcUpQaENobHZWRjF0ejIwRHBoa1Itc2JNLWxI?oc=5",
           "source": "Google News",
-          "published": "Thu, 08 Oct 2026 08:03:00 GMT"
+          "published": "Thu, 08 Oct 2026 13:14:00 GMT"
         }
       ]
     },
     {
-      "word": "들어야",
+      "word": "발급",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[속보] 이 대통령 “CPTPP 연내 가입신청 말라…농어민 목소리 충분히 들어야” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pOHlIZlJSeFpiclZ6QXFoR1lGSXRoWlU2UzEwS0N3R3FCZnJaZ0JPb1ZIR0hnTktxSnpJUVBzQVBtS2xzZHNNd1ZRU1FmSXJxQWpCNThxRG12dHVNWG5SS00tMnRuRm1ZZWtJ?oc=5",
+          "title": "정청래, 미국행 비자 발급 보류돼…‘유럽국감’ 가는 걸로 바꿔 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HQWFzcUNnOWxSOWlNeVZ5SVJta2VZbnI4MXNnc2lXWEtOVFBacm1fTi1idllrNVdVdV9CTTVoR1gtTHNSci1acFZYdGVIYmhQZjRpZGVMc1BqcUpQaENobHZWRjF0ejIwRHBoa1Itc2JNLWxI?oc=5",
           "source": "Google News",
-          "published": "Thu, 08 Oct 2026 08:03:00 GMT"
+          "published": "Thu, 08 Oct 2026 13:14:00 GMT"
         }
       ]
     },
     {
-      "word": "경찰",
+      "word": "보류돼유럽국감",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "경찰, 김승원 ‘성추행 의혹’ 수사 나서...고발인 조사 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTUlzR0tzcmZDaUZtenhUcWhoSGRkYXlDSkh4YlVUamJZRG1NTXNMcmFCam1uWjRRQkNLblRTZG0tVEc0aWdoZDFEdEs0LUlQTFBReE1LTFlnZF80ajlrdUZkZ0wyYlVqX2RzNmJQNkJrcWxqR19Bd0dEeXRaa0kwdjVWN1c1UUR4aVJMUkVlMVA?oc=5",
+          "title": "정청래, 미국행 비자 발급 보류돼…‘유럽국감’ 가는 걸로 바꿔 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HQWFzcUNnOWxSOWlNeVZ5SVJta2VZbnI4MXNnc2lXWEtOVFBacm1fTi1idllrNVdVdV9CTTVoR1gtTHNSci1acFZYdGVIYmhQZjRpZGVMc1BqcUpQaENobHZWRjF0ejIwRHBoa1Itc2JNLWxI?oc=5",
           "source": "Google News",
-          "published": "Thu, 08 Oct 2026 03:24:00 GMT"
+          "published": "Thu, 08 Oct 2026 13:14:00 GMT"
         }
       ]
     },
     {
-      "word": "김승원",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "경찰, 김승원 ‘성추행 의혹’ 수사 나서...고발인 조사 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTUlzR0tzcmZDaUZtenhUcWhoSGRkYXlDSkh4YlVUamJZRG1NTXNMcmFCam1uWjRRQkNLblRTZG0tVEc0aWdoZDFEdEs0LUlQTFBReE1LTFlnZF80ajlrdUZkZ0wyYlVqX2RzNmJQNkJrcWxqR19Bd0dEeXRaa0kwdjVWN1c1UUR4aVJMUkVlMVA?oc=5",
-          "source": "Google News",
-          "published": "Thu, 08 Oct 2026 03:24:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "성추행",
+      "word": "가는",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "경찰, 김승원 ‘성추행 의혹’ 수사 나서...고발인 조사 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTUlzR0tzcmZDaUZtenhUcWhoSGRkYXlDSkh4YlVUamJZRG1NTXNMcmFCam1uWjRRQkNLblRTZG0tVEc0aWdoZDFEdEs0LUlQTFBReE1LTFlnZF80ajlrdUZkZ0wyYlVqX2RzNmJQNkJrcWxqR19Bd0dEeXRaa0kwdjVWN1c1UUR4aVJMUkVlMVA?oc=5",
+          "title": "정청래, 미국행 비자 발급 보류돼…‘유럽국감’ 가는 걸로 바꿔 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HQWFzcUNnOWxSOWlNeVZ5SVJta2VZbnI4MXNnc2lXWEtOVFBacm1fTi1idllrNVdVdV9CTTVoR1gtTHNSci1acFZYdGVIYmhQZjRpZGVMc1BqcUpQaENobHZWRjF0ejIwRHBoa1Itc2JNLWxI?oc=5",
           "source": "Google News",
-          "published": "Thu, 08 Oct 2026 03:24:00 GMT"
+          "published": "Thu, 08 Oct 2026 13:14:00 GMT"
         }
       ]
     },
     {
-      "word": "의혹",
+      "word": "걸로",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "경찰, 김승원 ‘성추행 의혹’ 수사 나서...고발인 조사 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTUlzR0tzcmZDaUZtenhUcWhoSGRkYXlDSkh4YlVUamJZRG1NTXNMcmFCam1uWjRRQkNLblRTZG0tVEc0aWdoZDFEdEs0LUlQTFBReE1LTFlnZF80ajlrdUZkZ0wyYlVqX2RzNmJQNkJrcWxqR19Bd0dEeXRaa0kwdjVWN1c1UUR4aVJMUkVlMVA?oc=5",
+          "title": "정청래, 미국행 비자 발급 보류돼…‘유럽국감’ 가는 걸로 바꿔 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HQWFzcUNnOWxSOWlNeVZ5SVJta2VZbnI4MXNnc2lXWEtOVFBacm1fTi1idllrNVdVdV9CTTVoR1gtTHNSci1acFZYdGVIYmhQZjRpZGVMc1BqcUpQaENobHZWRjF0ejIwRHBoa1Itc2JNLWxI?oc=5",
           "source": "Google News",
-          "published": "Thu, 08 Oct 2026 03:24:00 GMT"
+          "published": "Thu, 08 Oct 2026 13:14:00 GMT"
         }
       ]
     },
     {
-      "word": "나서고발인",
+      "word": "바꿔",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "경찰, 김승원 ‘성추행 의혹’ 수사 나서...고발인 조사 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTUlzR0tzcmZDaUZtenhUcWhoSGRkYXlDSkh4YlVUamJZRG1NTXNMcmFCam1uWjRRQkNLblRTZG0tVEc0aWdoZDFEdEs0LUlQTFBReE1LTFlnZF80ajlrdUZkZ0wyYlVqX2RzNmJQNkJrcWxqR19Bd0dEeXRaa0kwdjVWN1c1UUR4aVJMUkVlMVA?oc=5",
+          "title": "정청래, 미국행 비자 발급 보류돼…‘유럽국감’ 가는 걸로 바꿔 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HQWFzcUNnOWxSOWlNeVZ5SVJta2VZbnI4MXNnc2lXWEtOVFBacm1fTi1idllrNVdVdV9CTTVoR1gtTHNSci1acFZYdGVIYmhQZjRpZGVMc1BqcUpQaENobHZWRjF0ejIwRHBoa1Itc2JNLWxI?oc=5",
           "source": "Google News",
-          "published": "Thu, 08 Oct 2026 03:24:00 GMT"
+          "published": "Thu, 08 Oct 2026 13:14:00 GMT"
         }
       ]
     },
     {
-      "word": "조사",
+      "word": "추미애",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "경찰, 김승원 ‘성추행 의혹’ 수사 나서...고발인 조사 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTUlzR0tzcmZDaUZtenhUcWhoSGRkYXlDSkh4YlVUamJZRG1NTXNMcmFCam1uWjRRQkNLblRTZG0tVEc0aWdoZDFEdEs0LUlQTFBReE1LTFlnZF80ajlrdUZkZ0wyYlVqX2RzNmJQNkJrcWxqR19Bd0dEeXRaa0kwdjVWN1c1UUR4aVJMUkVlMVA?oc=5",
+          "title": "추미애 “김지용 부적격”, 김민석 “절제가 필요해”, 김지용 “공정한 수사” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ycTdvMkR0OEtqT1VpMDFkdlpsQjluTGoweURrOU9rRjdTT3g0TFRNeGhjZkw1b3lIeTRDRGkyR3hrejN1T1U4cFhFMmMzbnBTV3gzVlVVaUlwd9IBX0FVX3lxTE03VmQ4TWRKSUpVZTdoZDJSak5WMk5jWDB2b1AzTkxVY2RJMGFReHB2a0NoVVNfLWVXbFE2ZUFZS3ljd0RYU3p3Z0FoRmh5YXVWYTk2aGhVaUJGWFFtOGNF?oc=5",
           "source": "Google News",
-          "published": "Thu, 08 Oct 2026 03:24:00 GMT"
+          "published": "Thu, 08 Oct 2026 12:58:00 GMT"
         }
       ]
     },
     {
-      "word": "박진영",
+      "word": "부적격",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "박진영, 얼굴 감싸며 헛웃음 \"李 대통령 위해 일 안 해\" [영상] - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tSGJiRTdtbkRremk4VTFsLWEwZFBLakI2bmdDUGNNRVl0S29XVTYwdjZsUEMtSzZwYy1VNEwxWVUtTzkxZUZQYjJXLThJZ3NqWnZWdXpfMnhjQQ?oc=5",
+          "title": "추미애 “김지용 부적격”, 김민석 “절제가 필요해”, 김지용 “공정한 수사” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ycTdvMkR0OEtqT1VpMDFkdlpsQjluTGoweURrOU9rRjdTT3g0TFRNeGhjZkw1b3lIeTRDRGkyR3hrejN1T1U4cFhFMmMzbnBTV3gzVlVVaUlwd9IBX0FVX3lxTE03VmQ4TWRKSUpVZTdoZDJSak5WMk5jWDB2b1AzTkxVY2RJMGFReHB2a0NoVVNfLWVXbFE2ZUFZS3ljd0RYU3p3Z0FoRmh5YXVWYTk2aGhVaUJGWFFtOGNF?oc=5",
           "source": "Google News",
-          "published": "Thu, 08 Oct 2026 01:53:34 GMT"
+          "published": "Thu, 08 Oct 2026 12:58:00 GMT"
         }
       ]
     },
     {
-      "word": "얼굴",
+      "word": "김민석",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "박진영, 얼굴 감싸며 헛웃음 \"李 대통령 위해 일 안 해\" [영상] - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tSGJiRTdtbkRremk4VTFsLWEwZFBLakI2bmdDUGNNRVl0S29XVTYwdjZsUEMtSzZwYy1VNEwxWVUtTzkxZUZQYjJXLThJZ3NqWnZWdXpfMnhjQQ?oc=5",
+          "title": "추미애 “김지용 부적격”, 김민석 “절제가 필요해”, 김지용 “공정한 수사” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ycTdvMkR0OEtqT1VpMDFkdlpsQjluTGoweURrOU9rRjdTT3g0TFRNeGhjZkw1b3lIeTRDRGkyR3hrejN1T1U4cFhFMmMzbnBTV3gzVlVVaUlwd9IBX0FVX3lxTE03VmQ4TWRKSUpVZTdoZDJSak5WMk5jWDB2b1AzTkxVY2RJMGFReHB2a0NoVVNfLWVXbFE2ZUFZS3ljd0RYU3p3Z0FoRmh5YXVWYTk2aGhVaUJGWFFtOGNF?oc=5",
           "source": "Google News",
-          "published": "Thu, 08 Oct 2026 01:53:34 GMT"
-        }
-      ]
-    },
-    {
-      "word": "감싸",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "박진영, 얼굴 감싸며 헛웃음 \"李 대통령 위해 일 안 해\" [영상] - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tSGJiRTdtbkRremk4VTFsLWEwZFBLakI2bmdDUGNNRVl0S29XVTYwdjZsUEMtSzZwYy1VNEwxWVUtTzkxZUZQYjJXLThJZ3NqWnZWdXpfMnhjQQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 08 Oct 2026 01:53:34 GMT"
-        }
-      ]
-    },
-    {
-      "word": "헛웃음",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "박진영, 얼굴 감싸며 헛웃음 \"李 대통령 위해 일 안 해\" [영상] - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tSGJiRTdtbkRremk4VTFsLWEwZFBLakI2bmdDUGNNRVl0S29XVTYwdjZsUEMtSzZwYy1VNEwxWVUtTzkxZUZQYjJXLThJZ3NqWnZWdXpfMnhjQQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 08 Oct 2026 01:53:34 GMT"
+          "published": "Thu, 08 Oct 2026 12:58:00 GMT"
         }
       ]
     }
