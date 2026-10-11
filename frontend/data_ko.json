@@ -1,560 +1,387 @@
 {
   "language": "ko",
-  "last_updated": 1791722024.813996,
+  "last_updated": 1791741516.3334444,
   "count": 40,
   "trends": [
     {
-      "word": "대통령",
+      "word": "트럼프",
       "count": 4,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프, ‘경유딜’ 젤렌스키 반발에 “우크라에 새 지도자 필요” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMW13bTdQREU2TnNFUFk2Zjc4NVBKMUpNS2JWc05sSkNyazVtc3F5cmtUYmN5QW1hc3I3Zm9QX093Z251WHljNFJwcVRVcDlpMDZydXVyOVp5T0ZnNlhEaW1zemU1NW5Pa2tJMGVuVVFUQjlFTGpuc1BqbFN2cGMzaWZB?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 11:16:00 GMT"
+        },
+        {
+          "title": "외교부 \"사우디 출국 권고\"... 트럼프, 후티 공격 검토 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ0hGZ0JLUjNCdE9oNUYwVkJTd2RqWGpfSV9PN1hZMzFuVUtldWNsNWhEd3dJc19VVW1DcDRHNUVlcS1PVDAwMF9wMGxMUkx6cGt3ZEsya1BuRlpLYXBiZnZRcHoweE5JaGIyTDdIRDlEbFRVUFRFQXMyRmY4OWxKcE1HSXM0YlF3NWdYQlZMQU8xSWt0c0FJZTc2ZnZtZw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 12:16:44 GMT"
+        },
+        {
+          "title": "노벨 평화상 필라이 “트럼프 행정부의 ICC 제재, 전례 없고 용납 못할 일” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DUWdtQnFyR0JYOTRndndTYjdUZWRqY1hPMGpQcmZaUFN4VTVwYWE3WG9MNXhZVnkxajVvVXAwQzV4Z2F4WE55X3RKWHRIeWo0SmM5RUY5MTlZQdIBX0FVX3lxTE9CTV90X2pLTWRqR3oyQXhQbUpDUmlXOVUyODkybmRFZl9ETXNQMS12Ylo0OEk5ckhaclE4NTJVRUEtcUVIbWk2aFUzOG1JR0tkNmt4YkVFWC1oNy13bnRV?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 11:19:00 GMT"
+        },
+        {
+          "title": "[속보] 트럼프 \"러시아-우크라이나, 에너지 휴전에 합의\" - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JUW1Qc1BvM2s1SnBreUhEUFp5VXVSMnE5Rlk2SHg5QWI2UGs3djFZOGhqUGFKZzV6NGZUeUVENW45Q3l6b2FWaHhvZ2hscUtTTVBfT3gzZ25fSmvSAWBBVV95cUxORWViclBnclNhLXlRUFV5Mm1sNzR1YjhOd0Itbjl5M3RNVDQzaHBSZ3MwWktxR2w3VDZuemFpREU2SFN2ai1LeE0tLWJERWpOeGl2RUJjQXRXb2tCakszMXM?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 14:19:37 GMT"
+        }
+      ]
+    },
+    {
+      "word": "대통령",
+      "count": 3,
       "category": "PERSON",
       "articles": [
         {
+          "title": "“이 대통령, 골프장서 대구 사고 보고받아”…청, 주진우 “황제 골프” 공세에 ‘선공개’ - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TMkxaMXJhUEdyZ0NTeEhPVzdSR1VBRmF5aXZwbFpSSWtXbm44elh4ejVLSDhqQ1I5alBQLXZ3QUNSd1N1Ml8xaEdMY0g3YmtvbzFOXzNqQ210Z9IBX0FVX3lxTFBkV2pEY09qUktISFlVbmxCOWtlTzlNM2VOWklCV0VfRkpVMUgyM3hfNzl5UEdYR3Z6ajloYVd1dDIxSmE4YkhiX1ViRFN1NUZVUHk3VFdBOTZrZXNnaV9R?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 13:24:00 GMT"
+        },
+        {
           "title": "이 대통령, SNS·생중계 회의로 ‘정책 드라이브’ 걸다 급브레이크 반복 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZREUtV3hidHEyWFhBRjNHNzA0UXNaeGJ5RlhjUDJ3RXVyS2tYTUdkVTBSOHZucFZnRVlLQVVqbTJCNjR2c1Bzblo2eG5SdGxaME5DbVZGa1NpTW15ZGhobG82bmtCaFhPcjdnUUV3V29pdw?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 08:09:00 GMT"
+          "published": "Sun, 11 Oct 2026 11:36:00 GMT"
         },
         {
-          "title": "李대통령, 대구 붕괴 사고 때 골프장에…靑 “현장서 보고받고 지시” - 주간조선",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HVktiRVZfdF90cDlFTWVIXzdyRVBUM19mX0NVTGt5OTRIRDVuejdycnBtSkpfQ0lZYnpDeTBMdVpWdWM3OC1uckFBakhxNGJWWlBCQVVJYzBScVRlZ2Q1ZHVNcGp0S2E3LXhN0gFuQVVfeXFMTTRfV3lzOXcyMWRQaC05Mll5cXl1WktxaXNNSGd0ODVYM1NDQjBDc1d1TS1POGE4YlNRZTZSazkwVGtCNXktc1ljTnFXUVdVNTRvTjc4REE0RDNMVWF3MEV5SlNEZ09FS0xLQ1A3MXc?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 08:30:55 GMT"
-        },
-        {
-          "title": "정의당 “이 대통령, 박원순 전 시장 발언 철회해야” - 한겨레",
+          "title": "정의당 “이 대통령, 박원순 추억…성폭력 피해자 생각 안 났느냐” - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05Y1RnRXI4ejh6WnZ5bUdXMkY3cG5oV016OGlRazdkU0N1b0d3Mnk1OThVWHNvMGJ4M2RaNnNnZHlmVjVxNmJuZFFJdUViSGlTRExhRklORTJNcDQ0dl9HYV82OElfY1NOemNUSkpDRXNhYlNi?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 09:57:00 GMT"
-        },
-        {
-          "title": "트럼프 '새 대통령' 발언에…우크라 측 \"젤렌스키, 국민 지지받아\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54VVNIcjhUemlhNWlTd1g4QUJVUHV4d1JCT1F2R1VfNWNfbFJtQkVWZUhyVEFrRGNiOTFEQnVITzZPNWdpZ0lkSHZwcVQ2RFJoY2d0OUxrVWlvbU3SAWBBVV95cUxNZWEzYko4UmM2cHJTLWQwVEJzMUtrQ1RLY181Y1RnRDV4c0FEc2JLVGJJN0F0NDBueEZneEl3YVdYSU5YUkhSWEliOGdGU1ZFU0p3dUJoaW5KeFRaTHVUQTk?oc=5",
-          "source": "Google News",
-          "published": "Sat, 10 Oct 2026 20:18:20 GMT"
-        }
-      ]
-    },
-    {
-      "word": "드라이브",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령, SNS·생중계 회의로 ‘정책 드라이브’ 걸다 급브레이크 반복 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZREUtV3hidHEyWFhBRjNHNzA0UXNaeGJ5RlhjUDJ3RXVyS2tYTUdkVTBSOHZucFZnRVlLQVVqbTJCNjR2c1Bzblo2eG5SdGxaME5DbVZGa1NpTW15ZGhobG82bmtCaFhPcjdnUUV3V29pdw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 08:09:00 GMT"
-        },
-        {
-          "title": "한 애호가가 쓰레기 매립지에서 1TB 용량의 삼성 870 EVO 하드 드라이브 4개를 발견했는데, 그 가치는 1300달러가 넘습니다. - GameGPU",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVG9jc241NVdmYk8xQzNNcS1aMXM2eWNPQjVrRlEtbVB4eHUtQW4wTjg3TzIyaXRVYUJZNm9vYWRHb3VxM2N6emRKVUFQVXdnUENsbjljSkkwR1JYa3F6Q25aRDZ5dll5NXo3NVcxR0lWM1hpaWdJY2tmbVU5bFFrVWU1OF9wOWhsNnlaZHl4ei1IUkhkS2UxX2R5S0Ytc01YSk1jN1d2TUFDYXJDQ0NTMDNHYlBkaUNzV0luODFqdnRzMG8?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 10:45:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "신뢰",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“동맹 기준 준수 기대” 한·미동맹 이상기류 의혹에…정부 “한·미 신뢰 굳건” 진화 나서 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzWlNtWl9SaS1fTnJYVmJyLXZKVUxvT29EWXJRMXhwOEpDSHVOcHJyaWR1M1dsRXFrRzVRZjRSOUxiZDFwTEhBemtWNmVZVk10RWJGTG0yeUFrQdIBX0FVX3lxTE41SXZ1OTBXb2JHU05hX043OVU0OWJXRExlYlc3S25GLTdxR3VNNS1qZldqeDNORWpoWW4ycnR6aUZobVFReEpURi1zcVNveVB6bmJmMkJ0UW5MaXM5Q1JR?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 08:40:00 GMT"
-        },
-        {
-          "title": "지출 늘리면 국채 신뢰 ‘흔들', 긴축땐 '민심 폭발'…佛 딜레마 - 마켓인",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qdjZqc3F2S09wTEtjZmh2UTFZMTlKZ2tfcmh6TFFMZC1odjE0eElNaHUxSDlsaVBoTXNBNUN3emZ2NHUyQ0V0bUJZYUYzTTVqMGRIdmZ3WWlpWV9LQnBNZU5OSGVmT0VVYXdFeFBaN1llZVE?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 09:37:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "사람",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "李 “서민 복지 예산 삭감하는 사람이 그들의 삶 이해하겠나” 추미애 저격? - 조선비즈 - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVkNQUlRBbGMwZWRlNVBmeFFDczZJSHZOM3dORV9YeWs5NGZNdll4XzNSTmFxXzhZUV8tT2R5eHY0ZFBBTHRZTDVDV0JCMlpNOWFDT3ZyZktxUkR6V3M2cUNfWmlMcDdsVGxEcUlYdWJTX0RLN1NWNXlhYTRVdzlOcXlpYVF6ek43QXVuVHpqaG9pcGZxQTRDNnRn0gGuAUFVX3lxTE1YR3UwUlhWeWl2Ynd6WmpDeWVqNWptMzYxRW9SMWRNZUhLSjJnQ0c0WmYxcW0zLWhYVzMxNWQ2c3BENVd5UzlRZTUxcUNnRWdZWHRBZGRoV0VNNDdjODJyX3R6OXJQdm55YUFULXQ0aGdfc2p3MmZ1MmRoeDVsUXMxb3FGYkNCQjFSQ3VfVi10Y3FNM3BIcGg2ZzkzX2czOWk4RExaU18zcktRelpNQQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 04:06:00 GMT"
-        },
-        {
-          "title": "“죽은 사람들이 보인다”⋯총까지 쏜 65세 여성, 매일 먹던 ‘이 약’ 때문? - 코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5GV01DbGo2MHNWaUt1TnV1NWhqQ28zaUVvOGFQdzAycWdnSnRZWjVPa2pRZGRQLUJIbnUzdlN6dEQwZw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 05:03:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "삼성",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "한 애호가가 쓰레기 매립지에서 1TB 용량의 삼성 870 EVO 하드 드라이브 4개를 발견했는데, 그 가치는 1300달러가 넘습니다. - GameGPU",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVG9jc241NVdmYk8xQzNNcS1aMXM2eWNPQjVrRlEtbVB4eHUtQW4wTjg3TzIyaXRVYUJZNm9vYWRHb3VxM2N6emRKVUFQVXdnUENsbjljSkkwR1JYa3F6Q25aRDZ5dll5NXo3NVcxR0lWM1hpaWdJY2tmbVU5bFFrVWU1OF9wOWhsNnlaZHl4ei1IUkhkS2UxX2R5S0Ytc01YSk1jN1d2TUFDYXJDQ0NTMDNHYlBkaUNzV0luODFqdnRzMG8?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 10:45:00 GMT"
-        },
-        {
-          "title": "‘후라도 10승 무산’ 삼성 라이온즈, KT에 3-12 패배…사자군단 ‘가을야구’ 대비 올인 - 영남일보",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjT0lrTmxnWVBpTTVVTHQyMmJiQ09QaXlyRGZHXzRQTklDQUhVdUM3Z1F1QUhYNWEwRlBmYlVfdW5KMlJkbG1hTjFhMkVnYVh3WUxqUnFsMF9zSXZzYWVhUWc3cmlzdHdXVzdN?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 08:54:55 GMT"
-        }
-      ]
-    },
-    {
-      "word": "준비",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "'바타와 12월 결혼' 지예은, 살림살이 준비 끝? \"그릇 다 장만했다\" ('런닝맨') - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV0MxWGZXMjJ4MWJ0RnF2MEFnd3g2b1o5VDhmTjNndWVKZ2hFTThJRXFKd18xLTRkcDlReFRGYVNVYW1ITWFmMXZFV3RhTk5nYXRZRTZic1pGam9jemdhUjJidlhQT2lKb1dQamZ5VXNWSVdSREdaRzVrNWZLZVl6N003U29zSjRsZTUwa0xYQQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 09:25:00 GMT"
-        },
-        {
-          "title": "‘가슴 가려워’ 병원갔더니 “세제 바꿔라?”…결국 ‘이 암’ 진단받은 30대女, 죽음 준비 [월드픽] - 서울신문",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00VXZOSUZTTmdJdGNNNUVxNXJWZUR0Um5PTklicFdIa1NDQWZ2ZVNPZUh4YjhyZ0FnM3ZXSm5BaVk2eGlPTVdfUWlySWl5Um5SdVJPSnF6NUtfeVJiYXVWcXg2c090ZGZWWHB0NUNoVWp0VHpQSFdLcQ?oc=5",
-          "source": "Google News",
-          "published": "Sat, 10 Oct 2026 23:52:18 GMT"
-        }
-      ]
-    },
-    {
-      "word": "SNS생중계",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령, SNS·생중계 회의로 ‘정책 드라이브’ 걸다 급브레이크 반복 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZREUtV3hidHEyWFhBRjNHNzA0UXNaeGJ5RlhjUDJ3RXVyS2tYTUdkVTBSOHZucFZnRVlLQVVqbTJCNjR2c1Bzblo2eG5SdGxaME5DbVZGa1NpTW15ZGhobG82bmtCaFhPcjdnUUV3V29pdw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 08:09:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "회의",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령, SNS·생중계 회의로 ‘정책 드라이브’ 걸다 급브레이크 반복 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZREUtV3hidHEyWFhBRjNHNzA0UXNaeGJ5RlhjUDJ3RXVyS2tYTUdkVTBSOHZucFZnRVlLQVVqbTJCNjR2c1Bzblo2eG5SdGxaME5DbVZGa1NpTW15ZGhobG82bmtCaFhPcjdnUUV3V29pdw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 08:09:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "정책",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령, SNS·생중계 회의로 ‘정책 드라이브’ 걸다 급브레이크 반복 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZREUtV3hidHEyWFhBRjNHNzA0UXNaeGJ5RlhjUDJ3RXVyS2tYTUdkVTBSOHZucFZnRVlLQVVqbTJCNjR2c1Bzblo2eG5SdGxaME5DbVZGa1NpTW15ZGhobG82bmtCaFhPcjdnUUV3V29pdw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 08:09:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "걸다",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령, SNS·생중계 회의로 ‘정책 드라이브’ 걸다 급브레이크 반복 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZREUtV3hidHEyWFhBRjNHNzA0UXNaeGJ5RlhjUDJ3RXVyS2tYTUdkVTBSOHZucFZnRVlLQVVqbTJCNjR2c1Bzblo2eG5SdGxaME5DbVZGa1NpTW15ZGhobG82bmtCaFhPcjdnUUV3V29pdw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 08:09:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "급브레이크",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령, SNS·생중계 회의로 ‘정책 드라이브’ 걸다 급브레이크 반복 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZREUtV3hidHEyWFhBRjNHNzA0UXNaeGJ5RlhjUDJ3RXVyS2tYTUdkVTBSOHZucFZnRVlLQVVqbTJCNjR2c1Bzblo2eG5SdGxaME5DbVZGa1NpTW15ZGhobG82bmtCaFhPcjdnUUV3V29pdw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 08:09:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "반복",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령, SNS·생중계 회의로 ‘정책 드라이브’ 걸다 급브레이크 반복 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZREUtV3hidHEyWFhBRjNHNzA0UXNaeGJ5RlhjUDJ3RXVyS2tYTUdkVTBSOHZucFZnRVlLQVVqbTJCNjR2c1Bzblo2eG5SdGxaME5DbVZGa1NpTW15ZGhobG82bmtCaFhPcjdnUUV3V29pdw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 08:09:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "민주당",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "민주당 \"한동훈, 막말로 질문 못 피해‥'딸 논문 대필' 벤슨은 누구?\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pWWNiM19NZmZxS2J5dElWZjhOTnh5aV9uaVhOQmI2a1c1Y0p3ZWlaYUxOdVo1eFg3eEhNRlR0Z0FMS1hQdkZ0MTRoMHRGeDlUXzRhUEY0RXU1WDE1NXE3V0RpeThWZGNMMzd3NjB0LVFWZnFfNDBic9IBeEFVX3lxTE9LTURBMHhRQkVLb2paem50X0tHVWRXY0ZMZjdhSHVwLWk1ZVFFOEYyczdTZnVmcDcyUUhKQ3ppZmlrbUJsSlo1ZUpRNGJrVnotQS1nbGxxV0htVzR3Q1BzRUhYZHJWZzRPV202UGo1OGVndUxLcW5Tbw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 05:51:49 GMT"
-        }
-      ]
-    },
-    {
-      "word": "한동훈",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "민주당 \"한동훈, 막말로 질문 못 피해‥'딸 논문 대필' 벤슨은 누구?\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pWWNiM19NZmZxS2J5dElWZjhOTnh5aV9uaVhOQmI2a1c1Y0p3ZWlaYUxOdVo1eFg3eEhNRlR0Z0FMS1hQdkZ0MTRoMHRGeDlUXzRhUEY0RXU1WDE1NXE3V0RpeThWZGNMMzd3NjB0LVFWZnFfNDBic9IBeEFVX3lxTE9LTURBMHhRQkVLb2paem50X0tHVWRXY0ZMZjdhSHVwLWk1ZVFFOEYyczdTZnVmcDcyUUhKQ3ppZmlrbUJsSlo1ZUpRNGJrVnotQS1nbGxxV0htVzR3Q1BzRUhYZHJWZzRPV202UGo1OGVndUxLcW5Tbw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 05:51:49 GMT"
-        }
-      ]
-    },
-    {
-      "word": "막말",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "민주당 \"한동훈, 막말로 질문 못 피해‥'딸 논문 대필' 벤슨은 누구?\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pWWNiM19NZmZxS2J5dElWZjhOTnh5aV9uaVhOQmI2a1c1Y0p3ZWlaYUxOdVo1eFg3eEhNRlR0Z0FMS1hQdkZ0MTRoMHRGeDlUXzRhUEY0RXU1WDE1NXE3V0RpeThWZGNMMzd3NjB0LVFWZnFfNDBic9IBeEFVX3lxTE9LTURBMHhRQkVLb2paem50X0tHVWRXY0ZMZjdhSHVwLWk1ZVFFOEYyczdTZnVmcDcyUUhKQ3ppZmlrbUJsSlo1ZUpRNGJrVnotQS1nbGxxV0htVzR3Q1BzRUhYZHJWZzRPV202UGo1OGVndUxLcW5Tbw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 05:51:49 GMT"
-        }
-      ]
-    },
-    {
-      "word": "질문",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "민주당 \"한동훈, 막말로 질문 못 피해‥'딸 논문 대필' 벤슨은 누구?\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pWWNiM19NZmZxS2J5dElWZjhOTnh5aV9uaVhOQmI2a1c1Y0p3ZWlaYUxOdVo1eFg3eEhNRlR0Z0FMS1hQdkZ0MTRoMHRGeDlUXzRhUEY0RXU1WDE1NXE3V0RpeThWZGNMMzd3NjB0LVFWZnFfNDBic9IBeEFVX3lxTE9LTURBMHhRQkVLb2paem50X0tHVWRXY0ZMZjdhSHVwLWk1ZVFFOEYyczdTZnVmcDcyUUhKQ3ppZmlrbUJsSlo1ZUpRNGJrVnotQS1nbGxxV0htVzR3Q1BzRUhYZHJWZzRPV202UGo1OGVndUxLcW5Tbw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 05:51:49 GMT"
-        }
-      ]
-    },
-    {
-      "word": "피해딸",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "민주당 \"한동훈, 막말로 질문 못 피해‥'딸 논문 대필' 벤슨은 누구?\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pWWNiM19NZmZxS2J5dElWZjhOTnh5aV9uaVhOQmI2a1c1Y0p3ZWlaYUxOdVo1eFg3eEhNRlR0Z0FMS1hQdkZ0MTRoMHRGeDlUXzRhUEY0RXU1WDE1NXE3V0RpeThWZGNMMzd3NjB0LVFWZnFfNDBic9IBeEFVX3lxTE9LTURBMHhRQkVLb2paem50X0tHVWRXY0ZMZjdhSHVwLWk1ZVFFOEYyczdTZnVmcDcyUUhKQ3ppZmlrbUJsSlo1ZUpRNGJrVnotQS1nbGxxV0htVzR3Q1BzRUhYZHJWZzRPV202UGo1OGVndUxLcW5Tbw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 05:51:49 GMT"
-        }
-      ]
-    },
-    {
-      "word": "논문",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "민주당 \"한동훈, 막말로 질문 못 피해‥'딸 논문 대필' 벤슨은 누구?\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pWWNiM19NZmZxS2J5dElWZjhOTnh5aV9uaVhOQmI2a1c1Y0p3ZWlaYUxOdVo1eFg3eEhNRlR0Z0FMS1hQdkZ0MTRoMHRGeDlUXzRhUEY0RXU1WDE1NXE3V0RpeThWZGNMMzd3NjB0LVFWZnFfNDBic9IBeEFVX3lxTE9LTURBMHhRQkVLb2paem50X0tHVWRXY0ZMZjdhSHVwLWk1ZVFFOEYyczdTZnVmcDcyUUhKQ3ppZmlrbUJsSlo1ZUpRNGJrVnotQS1nbGxxV0htVzR3Q1BzRUhYZHJWZzRPV202UGo1OGVndUxLcW5Tbw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 05:51:49 GMT"
-        }
-      ]
-    },
-    {
-      "word": "대필",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "민주당 \"한동훈, 막말로 질문 못 피해‥'딸 논문 대필' 벤슨은 누구?\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pWWNiM19NZmZxS2J5dElWZjhOTnh5aV9uaVhOQmI2a1c1Y0p3ZWlaYUxOdVo1eFg3eEhNRlR0Z0FMS1hQdkZ0MTRoMHRGeDlUXzRhUEY0RXU1WDE1NXE3V0RpeThWZGNMMzd3NjB0LVFWZnFfNDBic9IBeEFVX3lxTE9LTURBMHhRQkVLb2paem50X0tHVWRXY0ZMZjdhSHVwLWk1ZVFFOEYyczdTZnVmcDcyUUhKQ3ppZmlrbUJsSlo1ZUpRNGJrVnotQS1nbGxxV0htVzR3Q1BzRUhYZHJWZzRPV202UGo1OGVndUxLcW5Tbw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 05:51:49 GMT"
-        }
-      ]
-    },
-    {
-      "word": "벤슨",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "민주당 \"한동훈, 막말로 질문 못 피해‥'딸 논문 대필' 벤슨은 누구?\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pWWNiM19NZmZxS2J5dElWZjhOTnh5aV9uaVhOQmI2a1c1Y0p3ZWlaYUxOdVo1eFg3eEhNRlR0Z0FMS1hQdkZ0MTRoMHRGeDlUXzRhUEY0RXU1WDE1NXE3V0RpeThWZGNMMzd3NjB0LVFWZnFfNDBic9IBeEFVX3lxTE9LTURBMHhRQkVLb2paem50X0tHVWRXY0ZMZjdhSHVwLWk1ZVFFOEYyczdTZnVmcDcyUUhKQ3ppZmlrbUJsSlo1ZUpRNGJrVnotQS1nbGxxV0htVzR3Q1BzRUhYZHJWZzRPV202UGo1OGVndUxLcW5Tbw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 05:51:49 GMT"
-        }
-      ]
-    },
-    {
-      "word": "누구",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "민주당 \"한동훈, 막말로 질문 못 피해‥'딸 논문 대필' 벤슨은 누구?\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pWWNiM19NZmZxS2J5dElWZjhOTnh5aV9uaVhOQmI2a1c1Y0p3ZWlaYUxOdVo1eFg3eEhNRlR0Z0FMS1hQdkZ0MTRoMHRGeDlUXzRhUEY0RXU1WDE1NXE3V0RpeThWZGNMMzd3NjB0LVFWZnFfNDBic9IBeEFVX3lxTE9LTURBMHhRQkVLb2paem50X0tHVWRXY0ZMZjdhSHVwLWk1ZVFFOEYyczdTZnVmcDcyUUhKQ3ppZmlrbUJsSlo1ZUpRNGJrVnotQS1nbGxxV0htVzR3Q1BzRUhYZHJWZzRPV202UGo1OGVndUxLcW5Tbw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 05:51:49 GMT"
-        }
-      ]
-    },
-    {
-      "word": "동맹",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“동맹 기준 준수 기대” 한·미동맹 이상기류 의혹에…정부 “한·미 신뢰 굳건” 진화 나서 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzWlNtWl9SaS1fTnJYVmJyLXZKVUxvT29EWXJRMXhwOEpDSHVOcHJyaWR1M1dsRXFrRzVRZjRSOUxiZDFwTEhBemtWNmVZVk10RWJGTG0yeUFrQdIBX0FVX3lxTE41SXZ1OTBXb2JHU05hX043OVU0OWJXRExlYlc3S25GLTdxR3VNNS1qZldqeDNORWpoWW4ycnR6aUZobVFReEpURi1zcVNveVB6bmJmMkJ0UW5MaXM5Q1JR?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 08:40:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "기준",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“동맹 기준 준수 기대” 한·미동맹 이상기류 의혹에…정부 “한·미 신뢰 굳건” 진화 나서 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzWlNtWl9SaS1fTnJYVmJyLXZKVUxvT29EWXJRMXhwOEpDSHVOcHJyaWR1M1dsRXFrRzVRZjRSOUxiZDFwTEhBemtWNmVZVk10RWJGTG0yeUFrQdIBX0FVX3lxTE41SXZ1OTBXb2JHU05hX043OVU0OWJXRExlYlc3S25GLTdxR3VNNS1qZldqeDNORWpoWW4ycnR6aUZobVFReEpURi1zcVNveVB6bmJmMkJ0UW5MaXM5Q1JR?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 08:40:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "준수",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“동맹 기준 준수 기대” 한·미동맹 이상기류 의혹에…정부 “한·미 신뢰 굳건” 진화 나서 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzWlNtWl9SaS1fTnJYVmJyLXZKVUxvT29EWXJRMXhwOEpDSHVOcHJyaWR1M1dsRXFrRzVRZjRSOUxiZDFwTEhBemtWNmVZVk10RWJGTG0yeUFrQdIBX0FVX3lxTE41SXZ1OTBXb2JHU05hX043OVU0OWJXRExlYlc3S25GLTdxR3VNNS1qZldqeDNORWpoWW4ycnR6aUZobVFReEpURi1zcVNveVB6bmJmMkJ0UW5MaXM5Q1JR?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 08:40:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "기대",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“동맹 기준 준수 기대” 한·미동맹 이상기류 의혹에…정부 “한·미 신뢰 굳건” 진화 나서 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzWlNtWl9SaS1fTnJYVmJyLXZKVUxvT29EWXJRMXhwOEpDSHVOcHJyaWR1M1dsRXFrRzVRZjRSOUxiZDFwTEhBemtWNmVZVk10RWJGTG0yeUFrQdIBX0FVX3lxTE41SXZ1OTBXb2JHU05hX043OVU0OWJXRExlYlc3S25GLTdxR3VNNS1qZldqeDNORWpoWW4ycnR6aUZobVFReEpURi1zcVNveVB6bmJmMkJ0UW5MaXM5Q1JR?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 08:40:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "한미동맹",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“동맹 기준 준수 기대” 한·미동맹 이상기류 의혹에…정부 “한·미 신뢰 굳건” 진화 나서 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzWlNtWl9SaS1fTnJYVmJyLXZKVUxvT29EWXJRMXhwOEpDSHVOcHJyaWR1M1dsRXFrRzVRZjRSOUxiZDFwTEhBemtWNmVZVk10RWJGTG0yeUFrQdIBX0FVX3lxTE41SXZ1OTBXb2JHU05hX043OVU0OWJXRExlYlc3S25GLTdxR3VNNS1qZldqeDNORWpoWW4ycnR6aUZobVFReEpURi1zcVNveVB6bmJmMkJ0UW5MaXM5Q1JR?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 08:40:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "이상기류",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“동맹 기준 준수 기대” 한·미동맹 이상기류 의혹에…정부 “한·미 신뢰 굳건” 진화 나서 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzWlNtWl9SaS1fTnJYVmJyLXZKVUxvT29EWXJRMXhwOEpDSHVOcHJyaWR1M1dsRXFrRzVRZjRSOUxiZDFwTEhBemtWNmVZVk10RWJGTG0yeUFrQdIBX0FVX3lxTE41SXZ1OTBXb2JHU05hX043OVU0OWJXRExlYlc3S25GLTdxR3VNNS1qZldqeDNORWpoWW4ycnR6aUZobVFReEpURi1zcVNveVB6bmJmMkJ0UW5MaXM5Q1JR?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 08:40:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "의혹에정부",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "“동맹 기준 준수 기대” 한·미동맹 이상기류 의혹에…정부 “한·미 신뢰 굳건” 진화 나서 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzWlNtWl9SaS1fTnJYVmJyLXZKVUxvT29EWXJRMXhwOEpDSHVOcHJyaWR1M1dsRXFrRzVRZjRSOUxiZDFwTEhBemtWNmVZVk10RWJGTG0yeUFrQdIBX0FVX3lxTE41SXZ1OTBXb2JHU05hX043OVU0OWJXRExlYlc3S25GLTdxR3VNNS1qZldqeDNORWpoWW4ycnR6aUZobVFReEpURi1zcVNveVB6bmJmMkJ0UW5MaXM5Q1JR?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 08:40:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "한미",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“동맹 기준 준수 기대” 한·미동맹 이상기류 의혹에…정부 “한·미 신뢰 굳건” 진화 나서 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzWlNtWl9SaS1fTnJYVmJyLXZKVUxvT29EWXJRMXhwOEpDSHVOcHJyaWR1M1dsRXFrRzVRZjRSOUxiZDFwTEhBemtWNmVZVk10RWJGTG0yeUFrQdIBX0FVX3lxTE41SXZ1OTBXb2JHU05hX043OVU0OWJXRExlYlc3S25GLTdxR3VNNS1qZldqeDNORWpoWW4ycnR6aUZobVFReEpURi1zcVNveVB6bmJmMkJ0UW5MaXM5Q1JR?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 08:40:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "굳건",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“동맹 기준 준수 기대” 한·미동맹 이상기류 의혹에…정부 “한·미 신뢰 굳건” 진화 나서 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzWlNtWl9SaS1fTnJYVmJyLXZKVUxvT29EWXJRMXhwOEpDSHVOcHJyaWR1M1dsRXFrRzVRZjRSOUxiZDFwTEhBemtWNmVZVk10RWJGTG0yeUFrQdIBX0FVX3lxTE41SXZ1OTBXb2JHU05hX043OVU0OWJXRExlYlc3S25GLTdxR3VNNS1qZldqeDNORWpoWW4ycnR6aUZobVFReEpURi1zcVNveVB6bmJmMkJ0UW5MaXM5Q1JR?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 08:40:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "진화",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“동맹 기준 준수 기대” 한·미동맹 이상기류 의혹에…정부 “한·미 신뢰 굳건” 진화 나서 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzWlNtWl9SaS1fTnJYVmJyLXZKVUxvT29EWXJRMXhwOEpDSHVOcHJyaWR1M1dsRXFrRzVRZjRSOUxiZDFwTEhBemtWNmVZVk10RWJGTG0yeUFrQdIBX0FVX3lxTE41SXZ1OTBXb2JHU05hX043OVU0OWJXRExlYlc3S25GLTdxR3VNNS1qZldqeDNORWpoWW4ycnR6aUZobVFReEpURi1zcVNveVB6bmJmMkJ0UW5MaXM5Q1JR?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 08:40:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "나서",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“동맹 기준 준수 기대” 한·미동맹 이상기류 의혹에…정부 “한·미 신뢰 굳건” 진화 나서 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzWlNtWl9SaS1fTnJYVmJyLXZKVUxvT29EWXJRMXhwOEpDSHVOcHJyaWR1M1dsRXFrRzVRZjRSOUxiZDFwTEhBemtWNmVZVk10RWJGTG0yeUFrQdIBX0FVX3lxTE41SXZ1OTBXb2JHU05hX043OVU0OWJXRExlYlc3S25GLTdxR3VNNS1qZldqeDNORWpoWW4ycnR6aUZobVFReEpURi1zcVNveVB6bmJmMkJ0UW5MaXM5Q1JR?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 08:40:00 GMT"
+          "published": "Sun, 11 Oct 2026 11:36:00 GMT"
         }
       ]
     },
     {
       "word": "대구",
-      "count": 1,
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "李대통령, 대구 붕괴 사고 때 골프장에…靑 “현장서 보고받고 지시” - 주간조선",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HVktiRVZfdF90cDlFTWVIXzdyRVBUM19mX0NVTGt5OTRIRDVuejdycnBtSkpfQ0lZYnpDeTBMdVpWdWM3OC1uckFBakhxNGJWWlBCQVVJYzBScVRlZ2Q1ZHVNcGp0S2E3LXhN0gFuQVVfeXFMTTRfV3lzOXcyMWRQaC05Mll5cXl1WktxaXNNSGd0ODVYM1NDQjBDc1d1TS1POGE4YlNRZTZSazkwVGtCNXktc1ljTnFXUVdVNTRvTjc4REE0RDNMVWF3MEV5SlNEZ09FS0xLQ1A3MXc?oc=5",
+          "title": "“이 대통령, 골프장서 대구 사고 보고받아”…청, 주진우 “황제 골프” 공세에 ‘선공개’ - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TMkxaMXJhUEdyZ0NTeEhPVzdSR1VBRmF5aXZwbFpSSWtXbm44elh4ejVLSDhqQ1I5alBQLXZ3QUNSd1N1Ml8xaEdMY0g3YmtvbzFOXzNqQ210Z9IBX0FVX3lxTFBkV2pEY09qUktISFlVbmxCOWtlTzlNM2VOWklCV0VfRkpVMUgyM3hfNzl5UEdYR3Z6ajloYVd1dDIxSmE4YkhiX1ViRFN1NUZVUHk3VFdBOTZrZXNnaV9R?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 08:30:55 GMT"
+          "published": "Sun, 11 Oct 2026 13:24:00 GMT"
+        },
+        {
+          "title": "‘볼넷 얻고 지구 폭행→장성우 불호령’ KT 최원준 결국 공개 사과 “감정 조절 못한 명백한 잘못” [오!쎈 대구] - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VV28xb2VGcmZ0aWcxQjFva1FLQnhDMjlheTBfNDlTN2NEUGY4NlZEY1A3cHNIaHNMM2dMTlJ6S3dEVzl0THFfTjJ0MW02alJXSGV2R1ZRU2FDX2lRZnJFNmNmMUxHUUFJSEHSAW9BVV95cUxQWm92X2V6QmVvVTYteDV3OGM5VU1lY0M1REtxSXpORmp4b0QzZUptY2hzcE0zZ19SM0p5ekMyS2JrNnZzMTFJS25KdnVQVGE3UWRFRXNMVEMzNHBpUGVuWFdab2J0b1poWm94UGFyeTA?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 16:12:00 GMT"
         }
       ]
     },
     {
-      "word": "붕괴",
-      "count": 1,
+      "word": "공격",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "李대통령, 대구 붕괴 사고 때 골프장에…靑 “현장서 보고받고 지시” - 주간조선",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HVktiRVZfdF90cDlFTWVIXzdyRVBUM19mX0NVTGt5OTRIRDVuejdycnBtSkpfQ0lZYnpDeTBMdVpWdWM3OC1uckFBakhxNGJWWlBCQVVJYzBScVRlZ2Q1ZHVNcGp0S2E3LXhN0gFuQVVfeXFMTTRfV3lzOXcyMWRQaC05Mll5cXl1WktxaXNNSGd0ODVYM1NDQjBDc1d1TS1POGE4YlNRZTZSazkwVGtCNXktc1ljTnFXUVdVNTRvTjc4REE0RDNMVWF3MEV5SlNEZ09FS0xLQ1A3MXc?oc=5",
+          "title": "외교부 \"사우디 출국 권고\"... 트럼프, 후티 공격 검토 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ0hGZ0JLUjNCdE9oNUYwVkJTd2RqWGpfSV9PN1hZMzFuVUtldWNsNWhEd3dJc19VVW1DcDRHNUVlcS1PVDAwMF9wMGxMUkx6cGt3ZEsya1BuRlpLYXBiZnZRcHoweE5JaGIyTDdIRDlEbFRVUFRFQXMyRmY4OWxKcE1HSXM0YlF3NWdYQlZMQU8xSWt0c0FJZTc2ZnZtZw?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 08:30:55 GMT"
+          "published": "Sun, 11 Oct 2026 12:16:44 GMT"
+        },
+        {
+          "title": "미국 총살형 생중계 논란 속 교황 \"사형은 인간 존엄성 공격\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LZjRORURONTJPMWI2TlFDVHd5UWlnSWt0U2xxT2lidW1FRDZrdnpHbUtlTVhmU2ZOOXJSZDhDR2VhMFdGeTI4U0lnTHkwbWw3VndoYTI2OFdGSjJ5aDd0WnYwaFYwLW8?oc=5",
+          "source": "Google News",
+          "published": "Sat, 10 Oct 2026 21:01:00 GMT"
         }
       ]
     },
     {
-      "word": "사고",
-      "count": 1,
+      "word": "잣대",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "李대통령, 대구 붕괴 사고 때 골프장에…靑 “현장서 보고받고 지시” - 주간조선",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HVktiRVZfdF90cDlFTWVIXzdyRVBUM19mX0NVTGt5OTRIRDVuejdycnBtSkpfQ0lZYnpDeTBMdVpWdWM3OC1uckFBakhxNGJWWlBCQVVJYzBScVRlZ2Q1ZHVNcGp0S2E3LXhN0gFuQVVfeXFMTTRfV3lzOXcyMWRQaC05Mll5cXl1WktxaXNNSGd0ODVYM1NDQjBDc1d1TS1POGE4YlNRZTZSazkwVGtCNXktc1ljTnFXUVdVNTRvTjc4REE0RDNMVWF3MEV5SlNEZ09FS0xLQ1A3MXc?oc=5",
+          "title": "與, 한동훈 딸 의혹 맹공…\"엄격한 검증 잣대, 가족에 적용하라\" - 노컷뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9URnhxYmM5NFo5RWN1ODZKYnk1aWptRExQS2lXT21kOWY1YTZvSG03RG5kcTVPSl96TWdwQnZzVFNUTndRZWg5dVhFSDcyN3dla2c?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 08:30:55 GMT"
+          "published": "Sun, 11 Oct 2026 05:40:07 GMT"
+        },
+        {
+          "title": "GTA6, 국내 심의 막바지... 민간 등급분류 '현실화' 첫 잣대 - 전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5TcE04cVFrMmxjdi1tZ0x5MEh1aWNvV3dQVUdkV3hacDZnYWRodWJGN3FiMnNIZzg5a0V2WE01OGYxekxpMUV6YXlPWQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 01:33:18 GMT"
         }
       ]
     },
     {
-      "word": "골프장",
-      "count": 1,
+      "word": "교황",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "李대통령, 대구 붕괴 사고 때 골프장에…靑 “현장서 보고받고 지시” - 주간조선",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HVktiRVZfdF90cDlFTWVIXzdyRVBUM19mX0NVTGt5OTRIRDVuejdycnBtSkpfQ0lZYnpDeTBMdVpWdWM3OC1uckFBakhxNGJWWlBCQVVJYzBScVRlZ2Q1ZHVNcGp0S2E3LXhN0gFuQVVfeXFMTTRfV3lzOXcyMWRQaC05Mll5cXl1WktxaXNNSGd0ODVYM1NDQjBDc1d1TS1POGE4YlNRZTZSazkwVGtCNXktc1ljTnFXUVdVNTRvTjc4REE0RDNMVWF3MEV5SlNEZ09FS0xLQ1A3MXc?oc=5",
+          "title": "교황 \"며칠내 폐 결절 제거수술 받기로…초기에 발견\" - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aUXVWUmJ4ZGcwM3ZLbkZTT0JWRFdvd0xlYzhIc0NBajViWDQ2ZVhrLWRtRlhhZW53NURBYVRaOHFSTVZIWGViWXMwTU1SRmdPYUhHMTlIaTNWWknSAWBBVV95cUxPQ2p1THQ4TF9OYnNlMllsdDNIdTBrT05wdFd0RWktVmZScXh6R3doOGIzbllmTWE4LWltSEhrQXZBZjVzM1QzVGxwTHhBZDRsZEtWajByX2c1Ml80Nm5TQ04?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 08:30:55 GMT"
+          "published": "Sun, 11 Oct 2026 12:41:40 GMT"
+        },
+        {
+          "title": "미국 총살형 생중계 논란 속 교황 \"사형은 인간 존엄성 공격\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LZjRORURONTJPMWI2TlFDVHd5UWlnSWt0U2xxT2lidW1FRDZrdnpHbUtlTVhmU2ZOOXJSZDhDR2VhMFdGeTI4U0lnTHkwbWw3VndoYTI2OFdGSjJ5aDd0WnYwaFYwLW8?oc=5",
+          "source": "Google News",
+          "published": "Sat, 10 Oct 2026 21:01:00 GMT"
         }
       ]
     },
     {
-      "word": "현장서",
-      "count": 1,
+      "word": "논란",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "李대통령, 대구 붕괴 사고 때 골프장에…靑 “현장서 보고받고 지시” - 주간조선",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HVktiRVZfdF90cDlFTWVIXzdyRVBUM19mX0NVTGt5OTRIRDVuejdycnBtSkpfQ0lZYnpDeTBMdVpWdWM3OC1uckFBakhxNGJWWlBCQVVJYzBScVRlZ2Q1ZHVNcGp0S2E3LXhN0gFuQVVfeXFMTTRfV3lzOXcyMWRQaC05Mll5cXl1WktxaXNNSGd0ODVYM1NDQjBDc1d1TS1POGE4YlNRZTZSazkwVGtCNXktc1ljTnFXUVdVNTRvTjc4REE0RDNMVWF3MEV5SlNEZ09FS0xLQ1A3MXc?oc=5",
+          "title": "미국 총살형 생중계 논란 속 교황 \"사형은 인간 존엄성 공격\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LZjRORURONTJPMWI2TlFDVHd5UWlnSWt0U2xxT2lidW1FRDZrdnpHbUtlTVhmU2ZOOXJSZDhDR2VhMFdGeTI4U0lnTHkwbWw3VndoYTI2OFdGSjJ5aDd0WnYwaFYwLW8?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 08:30:55 GMT"
+          "published": "Sat, 10 Oct 2026 21:01:00 GMT"
+        },
+        {
+          "title": "'59세' 김희애, 외모 품평 논란 정면 돌파…초근접 셀카에 누리꾼 '감탄' - 미주중앙일보",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YTWFIUFljZW5aanZWaFE2aGw3LWVaVkRfRHpqdlA1YTJ2VkNEMXY2anVrMGxJeV9obXVZWjZBd3dFMk1Md2pyY05peHY1V0RObzZadzNnQ2VIX0pKZE44MUlR?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 14:33:00 GMT"
         }
       ]
     },
     {
-      "word": "보고받",
-      "count": 1,
+      "word": "만에",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "李대통령, 대구 붕괴 사고 때 골프장에…靑 “현장서 보고받고 지시” - 주간조선",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HVktiRVZfdF90cDlFTWVIXzdyRVBUM19mX0NVTGt5OTRIRDVuejdycnBtSkpfQ0lZYnpDeTBMdVpWdWM3OC1uckFBakhxNGJWWlBCQVVJYzBScVRlZ2Q1ZHVNcGp0S2E3LXhN0gFuQVVfeXFMTTRfV3lzOXcyMWRQaC05Mll5cXl1WktxaXNNSGd0ODVYM1NDQjBDc1d1TS1POGE4YlNRZTZSazkwVGtCNXktc1ljTnFXUVdVNTRvTjc4REE0RDNMVWF3MEV5SlNEZ09FS0xLQ1A3MXc?oc=5",
+          "title": "네팔, 대홍수 한 달 반 만에 또 산사태로 홍수‥최소 5명 실종 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TQUdYUDFqOG9kS2dPSnU0MTJjZlhFdFlFT3o1MjV0blFWM2R2SXlkMDVoZnNMZkNMOHpwenMxQ1M1bkp0dXRLWHN6TnF6aEszVmVCcUhYMDVqMlFHRHM0TkRxX0d0UjBJSENmcjJPcHlJaVlZ0gF0QVVfeXFMT3lTRUt6TkhDRXk5T3c0c004MTR5aHNGdlhtRkpKcnZyYVlmLXpMazFoQjFOb2s5SzN0N1RJVVFfRFE5SXA3dHVDNDIyM3JBcXFMa3M5WHppQkZUOTlKeGNKX2RINEstZ0lOODdXTEMxX2I2azE?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 08:30:55 GMT"
+          "published": "Sun, 11 Oct 2026 15:50:48 GMT"
+        },
+        {
+          "title": "프로축구 최하위 광주, 시즌 29경기 만에 울산 꺾고 승리 물꼬 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16RnZGc2VWb1hVeWF4MTJFUDZKMUZJd2VDRG05SnhGRUhCTFFGSXd2TWc4TlhhUUtHUjVpZ3o3bk41Y25oMXE4RTZudHlGUGJJYnVzWE4wVW5XMUQ1cU82bGFiTno?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 11:39:00 GMT"
         }
       ]
     },
     {
-      "word": "지시",
-      "count": 1,
+      "word": "공개",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "로저 주니어, 철권8에 11월 17일 추가...한마 유지로 모델링도 공개 - 인벤",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WU0dJYWZYM2Jodk1pZV9FUVA4MnZoZGVpdmdvWXdRdFJCbjlVUHRSb2RHS0VyZzQyaTFFSlMzRDJWcU5ZSV9sWkxmV2VvdE1ZS3V1OFl6VFdic2JpTXc?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 14:31:34 GMT"
+        },
+        {
+          "title": "‘볼넷 얻고 지구 폭행→장성우 불호령’ KT 최원준 결국 공개 사과 “감정 조절 못한 명백한 잘못” [오!쎈 대구] - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VV28xb2VGcmZ0aWcxQjFva1FLQnhDMjlheTBfNDlTN2NEUGY4NlZEY1A3cHNIaHNMM2dMTlJ6S3dEVzl0THFfTjJ0MW02alJXSGV2R1ZRU2FDX2lRZnJFNmNmMUxHUUFJSEHSAW9BVV95cUxQWm92X2V6QmVvVTYteDV3OGM5VU1lY0M1REtxSXpORmp4b0QzZUptY2hzcE0zZ19SM0p5ekMyS2JrNnZzMTFJS25KdnVQVGE3UWRFRXNMVEMzNHBpUGVuWFdab2J0b1poWm94UGFyeTA?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 16:12:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "손태영",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "'권상우♥︎' 손태영, 子룩희 빨래통 3개 \"싸워서 축구복 자기가 빨아\" ('뉴저지 손태영') - 조선비즈 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT1hvVGdpN3U2LWFpYVhWYURqdjQ3MFhQUkV3TTFXMmxlOExRTGs2amxoRjdQamtTTGllUllRV0UtZmJjRURESHBaSXNBemtadWloR29JMjRMMHU0eE5LMkY0enpwVGJKX2tUXzlHMkdteHZxU3E5Y2ZJckhadmtvZUgzRTVpZmNkbFBWMlhuUWVjTmfSAacBQVVfeXFMTXVXMzE1QkVLMXlIQVpNWEpITExFcGlhNGdKdGhLZGpEcTFyNDdaaHkyejFBMEJYemFBVWFlM19pd21laG9vbVZYdzd6RTZYamV3UDR0MzBjSEJxel9iX3diTlZsdTRHMEJxVmZwUVBxWVlrZk0ta052R1RZM1J3cUJBVFJPU0paYmRmeHhFUkNtd1diekRDU0JKZ2ZwZzcyUi1jRXdtMkU?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 09:26:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "결국",
+      "count": 2,
       "category": "LOCATION",
       "articles": [
         {
-          "title": "李대통령, 대구 붕괴 사고 때 골프장에…靑 “현장서 보고받고 지시” - 주간조선",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HVktiRVZfdF90cDlFTWVIXzdyRVBUM19mX0NVTGt5OTRIRDVuejdycnBtSkpfQ0lZYnpDeTBMdVpWdWM3OC1uckFBakhxNGJWWlBCQVVJYzBScVRlZ2Q1ZHVNcGp0S2E3LXhN0gFuQVVfeXFMTTRfV3lzOXcyMWRQaC05Mll5cXl1WktxaXNNSGd0ODVYM1NDQjBDc1d1TS1POGE4YlNRZTZSazkwVGtCNXktc1ljTnFXUVdVNTRvTjc4REE0RDNMVWF3MEV5SlNEZ09FS0xLQ1A3MXc?oc=5",
+          "title": "‘볼넷 얻고 지구 폭행→장성우 불호령’ KT 최원준 결국 공개 사과 “감정 조절 못한 명백한 잘못” [오!쎈 대구] - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VV28xb2VGcmZ0aWcxQjFva1FLQnhDMjlheTBfNDlTN2NEUGY4NlZEY1A3cHNIaHNMM2dMTlJ6S3dEVzl0THFfTjJ0MW02alJXSGV2R1ZRU2FDX2lRZnJFNmNmMUxHUUFJSEHSAW9BVV95cUxQWm92X2V6QmVvVTYteDV3OGM5VU1lY0M1REtxSXpORmp4b0QzZUptY2hzcE0zZ19SM0p5ekMyS2JrNnZzMTFJS25KdnVQVGE3UWRFRXNMVEMzNHBpUGVuWFdab2J0b1poWm94UGFyeTA?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 08:30:55 GMT"
+          "published": "Sun, 11 Oct 2026 16:12:00 GMT"
+        },
+        {
+          "title": "'준PO 직행이냐 와일드카드냐'…KIA, 결국 최종전서 LG와 3위 단판 승부 - KBC광주방송",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZWkVrYUFoUk5uWU9jNVVoellUaTIyR0NtbG1lUnIxdGFDV19ZMXpUVlhHTHV3UGVDUXZieGVjQ281VDl2aGFDQ2ktWXBoWVh1eHJDanl5V0JCaklSTzFsOXh3?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 12:15:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "승리",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "'中 소림축구'→'코피 투혼' 아시안게임 金 황도윤 \"내 부상보다 팀 승리가 우선…태극마크 무게감 잘 알고 있다\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVndaY29iZ0Qwd3NhUS10RjJuTVNSZTZfekg4ODBhZURxaFhFblRnSmhmQmk2MWxfV01VdEJ1anBldGtyV1pLbllSQzFfS05CTGFhcXV4ZEt2b2F6Z3NhdDM0cUZwMERhWTU3ZHRya0hfZ19SY3BxYTBsRW5MNjlWd2dZYw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 14:57:00 GMT"
+        },
+        {
+          "title": "프로축구 최하위 광주, 시즌 29경기 만에 울산 꺾고 승리 물꼬 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16RnZGc2VWb1hVeWF4MTJFUDZKMUZJd2VDRG05SnhGRUhCTFFGSXd2TWc4TlhhUUtHUjVpZ3o3bk41Y25oMXE4RTZudHlGUGJJYnVzWE4wVW5XMUQ1cU82bGFiTno?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 11:39:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "있다",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "'中 소림축구'→'코피 투혼' 아시안게임 金 황도윤 \"내 부상보다 팀 승리가 우선…태극마크 무게감 잘 알고 있다\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVndaY29iZ0Qwd3NhUS10RjJuTVNSZTZfekg4ODBhZURxaFhFblRnSmhmQmk2MWxfV01VdEJ1anBldGtyV1pLbllSQzFfS05CTGFhcXV4ZEt2b2F6Z3NhdDM0cUZwMERhWTU3ZHRya0hfZ19SY3BxYTBsRW5MNjlWd2dZYw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 14:57:00 GMT"
+        },
+        {
+          "title": "하노이에서 수족구병 환자가 증가하면서, 쉽게 간과되는 증상으로 인해 위험한 합병증이 발생할 수 있다는 경고가 나오고 있습니다. - Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSFdEdUZYYXQyOGhYaWVrRGlaeENHMk5ZTDRhakFRMXAyY1h6dnJyZmtfZ0plaHlicFJOZVJCelZ0TzZpQ2VHSHItNUZEQnlLQktsaXJlSzFWX1UzOGpOV25Ed0MwQUFKTE9mblNjZGFfOTlacGJKVk9XQjBIemh5c1BFdG9pNk1Sa2NsTUJ4d2xKb1JmQzBWWk4wNW9TOGVhY1dLUG5TVE1rNjNyTGpaYUxnalZtSFRYSFg4?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 08:16:31 GMT"
+        }
+      ]
+    },
+    {
+      "word": "환자",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "하노이에서 수족구병 환자가 증가하면서, 쉽게 간과되는 증상으로 인해 위험한 합병증이 발생할 수 있다는 경고가 나오고 있습니다. - Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSFdEdUZYYXQyOGhYaWVrRGlaeENHMk5ZTDRhakFRMXAyY1h6dnJyZmtfZ0plaHlicFJOZVJCelZ0TzZpQ2VHSHItNUZEQnlLQktsaXJlSzFWX1UzOGpOV25Ed0MwQUFKTE9mblNjZGFfOTlacGJKVk9XQjBIemh5c1BFdG9pNk1Sa2NsTUJ4d2xKb1JmQzBWWk4wNW9TOGVhY1dLUG5TVE1rNjNyTGpaYUxnalZtSFRYSFg4?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 08:16:31 GMT"
+        },
+        {
+          "title": "법정신과 환자들이 사회로 복귀하기 전에 어떤 준비가 필요할까요? - Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTlNMWWJxd1VFVkk2aTFqZHp0aWJOeXdCZnhRNGxiNkNRY2ZCNm5iLThTSzhHVUFVQTNmV0hfLUVEU1NNU3JyZjlZV25zWTl6OG9za0tUbE9rblMxaHozekZUSWl5cFg3LUpQeERmQlZPaF9ITlFUWFdPVE85TjFjVEE3U052NWxIM3JtNDdpZnZkRGh4V2hONjdudw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 09:38:35 GMT"
+        }
+      ]
+    },
+    {
+      "word": "경유딜",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프, ‘경유딜’ 젤렌스키 반발에 “우크라에 새 지도자 필요” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMW13bTdQREU2TnNFUFk2Zjc4NVBKMUpNS2JWc05sSkNyazVtc3F5cmtUYmN5QW1hc3I3Zm9QX093Z251WHljNFJwcVRVcDlpMDZydXVyOVp5T0ZnNlhEaW1zemU1NW5Pa2tJMGVuVVFUQjlFTGpuc1BqbFN2cGMzaWZB?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 11:16:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "젤렌스키",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프, ‘경유딜’ 젤렌스키 반발에 “우크라에 새 지도자 필요” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMW13bTdQREU2TnNFUFk2Zjc4NVBKMUpNS2JWc05sSkNyazVtc3F5cmtUYmN5QW1hc3I3Zm9QX093Z251WHljNFJwcVRVcDlpMDZydXVyOVp5T0ZnNlhEaW1zemU1NW5Pa2tJMGVuVVFUQjlFTGpuc1BqbFN2cGMzaWZB?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 11:16:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "반발",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프, ‘경유딜’ 젤렌스키 반발에 “우크라에 새 지도자 필요” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMW13bTdQREU2TnNFUFk2Zjc4NVBKMUpNS2JWc05sSkNyazVtc3F5cmtUYmN5QW1hc3I3Zm9QX093Z251WHljNFJwcVRVcDlpMDZydXVyOVp5T0ZnNlhEaW1zemU1NW5Pa2tJMGVuVVFUQjlFTGpuc1BqbFN2cGMzaWZB?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 11:16:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "우크",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프, ‘경유딜’ 젤렌스키 반발에 “우크라에 새 지도자 필요” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMW13bTdQREU2TnNFUFk2Zjc4NVBKMUpNS2JWc05sSkNyazVtc3F5cmtUYmN5QW1hc3I3Zm9QX093Z251WHljNFJwcVRVcDlpMDZydXVyOVp5T0ZnNlhEaW1zemU1NW5Pa2tJMGVuVVFUQjlFTGpuc1BqbFN2cGMzaWZB?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 11:16:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "지도자",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프, ‘경유딜’ 젤렌스키 반발에 “우크라에 새 지도자 필요” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMW13bTdQREU2TnNFUFk2Zjc4NVBKMUpNS2JWc05sSkNyazVtc3F5cmtUYmN5QW1hc3I3Zm9QX093Z251WHljNFJwcVRVcDlpMDZydXVyOVp5T0ZnNlhEaW1zemU1NW5Pa2tJMGVuVVFUQjlFTGpuc1BqbFN2cGMzaWZB?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 11:16:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "필요",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프, ‘경유딜’ 젤렌스키 반발에 “우크라에 새 지도자 필요” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMW13bTdQREU2TnNFUFk2Zjc4NVBKMUpNS2JWc05sSkNyazVtc3F5cmtUYmN5QW1hc3I3Zm9QX093Z251WHljNFJwcVRVcDlpMDZydXVyOVp5T0ZnNlhEaW1zemU1NW5Pa2tJMGVuVVFUQjlFTGpuc1BqbFN2cGMzaWZB?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 11:16:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "반김지용",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘반김지용’ 임은정, 중수청 첫 감찰 대상 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Ib2JFczVpTF9xQ2hVVTd1T0lkTXpaOXhtbHNGaW8xWklMMVlyVXB1aV92eFlSU2FoMDZtWm5mel83WHNUNThqRGhfTzBfZWVfVkVRTEpaVjhvd9IBX0FVX3lxTE05YmFUYVVJR3BiandoXzQyZkF1VXBlZ0xUdUZWTm96TEp3SGFvbU1PMGJpMzN3UnRyVXVjc0h0WTlRT3BSWk9SLUJzUHVtTW5SLTVGcWFhX3I0WHRUT1NF?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 12:42:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "임은정",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘반김지용’ 임은정, 중수청 첫 감찰 대상 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Ib2JFczVpTF9xQ2hVVTd1T0lkTXpaOXhtbHNGaW8xWklMMVlyVXB1aV92eFlSU2FoMDZtWm5mel83WHNUNThqRGhfTzBfZWVfVkVRTEpaVjhvd9IBX0FVX3lxTE05YmFUYVVJR3BiandoXzQyZkF1VXBlZ0xUdUZWTm96TEp3SGFvbU1PMGJpMzN3UnRyVXVjc0h0WTlRT3BSWk9SLUJzUHVtTW5SLTVGcWFhX3I0WHRUT1NF?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 12:42:00 GMT"
         }
       ]
     },
@@ -564,10 +391,231 @@
       "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "중수청 출범 9일만 임은정 광주청장 감찰 지시…기강 세우기 포석 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43SmZFRW9qYVl1bk9qWkIzbnFPS0o5emgxVzE5aGhQdDBaTnA3bGM1NEZPUDVpdE5sTWd5OWFsUFZRVkF5U0IzYlBrUTZqZTRsSm52UEhBSU5WMDDSAWBBVV95cUxPLU45aW1ZTDhYN2tzdGlJdXl6LUpHaG1RYlY0RERQVWtjWHdMX0tmXzRpbGZNdkRna2tlZWFtdzJOTjRTM3luREkzd3A5dnI5X0FreG1oOXdXUlhONU56Ujk?oc=5",
+          "title": "‘반김지용’ 임은정, 중수청 첫 감찰 대상 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Ib2JFczVpTF9xQ2hVVTd1T0lkTXpaOXhtbHNGaW8xWklMMVlyVXB1aV92eFlSU2FoMDZtWm5mel83WHNUNThqRGhfTzBfZWVfVkVRTEpaVjhvd9IBX0FVX3lxTE05YmFUYVVJR3BiandoXzQyZkF1VXBlZ0xUdUZWTm96TEp3SGFvbU1PMGJpMzN3UnRyVXVjc0h0WTlRT3BSWk9SLUJzUHVtTW5SLTVGcWFhX3I0WHRUT1NF?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 07:49:40 GMT"
+          "published": "Sun, 11 Oct 2026 12:42:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "감찰",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘반김지용’ 임은정, 중수청 첫 감찰 대상 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Ib2JFczVpTF9xQ2hVVTd1T0lkTXpaOXhtbHNGaW8xWklMMVlyVXB1aV92eFlSU2FoMDZtWm5mel83WHNUNThqRGhfTzBfZWVfVkVRTEpaVjhvd9IBX0FVX3lxTE05YmFUYVVJR3BiandoXzQyZkF1VXBlZ0xUdUZWTm96TEp3SGFvbU1PMGJpMzN3UnRyVXVjc0h0WTlRT3BSWk9SLUJzUHVtTW5SLTVGcWFhX3I0WHRUT1NF?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 12:42:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "대상",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘반김지용’ 임은정, 중수청 첫 감찰 대상 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Ib2JFczVpTF9xQ2hVVTd1T0lkTXpaOXhtbHNGaW8xWklMMVlyVXB1aV92eFlSU2FoMDZtWm5mel83WHNUNThqRGhfTzBfZWVfVkVRTEpaVjhvd9IBX0FVX3lxTE05YmFUYVVJR3BiandoXzQyZkF1VXBlZ0xUdUZWTm96TEp3SGFvbU1PMGJpMzN3UnRyVXVjc0h0WTlRT3BSWk9SLUJzUHVtTW5SLTVGcWFhX3I0WHRUT1NF?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 12:42:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "동맹",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "미 “동맹 기준 준수를”…한 “신뢰 굳건” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WWHN1ZkczU0ZGV1hpLTRiaFI0RGE5X1VUcGlodWd1QTV1UlhKM01ySFpMTmNTcDlObFlKRlhlNkVRcXR4ZHlsQk5Hem1DUG5IMW9NMDEta25uUdIBX0FVX3lxTE0wcEtfaVJJRWlXS3NaejFYRm1kWnBjZkdLVzBtWmJHMGFMa3pkM3o1SjQ3SFl2eU9FMm9PWXlJVEVrTTZJZ1M4WC1RSWRnLXpmU2ZBekh1TGs3Y2ZxdjE0?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 12:42:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "기준",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "미 “동맹 기준 준수를”…한 “신뢰 굳건” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WWHN1ZkczU0ZGV1hpLTRiaFI0RGE5X1VUcGlodWd1QTV1UlhKM01ySFpMTmNTcDlObFlKRlhlNkVRcXR4ZHlsQk5Hem1DUG5IMW9NMDEta25uUdIBX0FVX3lxTE0wcEtfaVJJRWlXS3NaejFYRm1kWnBjZkdLVzBtWmJHMGFMa3pkM3o1SjQ3SFl2eU9FMm9PWXlJVEVrTTZJZ1M4WC1RSWRnLXpmU2ZBekh1TGs3Y2ZxdjE0?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 12:42:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "준수",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "미 “동맹 기준 준수를”…한 “신뢰 굳건” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WWHN1ZkczU0ZGV1hpLTRiaFI0RGE5X1VUcGlodWd1QTV1UlhKM01ySFpMTmNTcDlObFlKRlhlNkVRcXR4ZHlsQk5Hem1DUG5IMW9NMDEta25uUdIBX0FVX3lxTE0wcEtfaVJJRWlXS3NaejFYRm1kWnBjZkdLVzBtWmJHMGFMa3pkM3o1SjQ3SFl2eU9FMm9PWXlJVEVrTTZJZ1M4WC1RSWRnLXpmU2ZBekh1TGs3Y2ZxdjE0?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 12:42:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "신뢰",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "미 “동맹 기준 준수를”…한 “신뢰 굳건” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WWHN1ZkczU0ZGV1hpLTRiaFI0RGE5X1VUcGlodWd1QTV1UlhKM01ySFpMTmNTcDlObFlKRlhlNkVRcXR4ZHlsQk5Hem1DUG5IMW9NMDEta25uUdIBX0FVX3lxTE0wcEtfaVJJRWlXS3NaejFYRm1kWnBjZkdLVzBtWmJHMGFMa3pkM3o1SjQ3SFl2eU9FMm9PWXlJVEVrTTZJZ1M4WC1RSWRnLXpmU2ZBekh1TGs3Y2ZxdjE0?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 12:42:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "굳건",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "미 “동맹 기준 준수를”…한 “신뢰 굳건” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WWHN1ZkczU0ZGV1hpLTRiaFI0RGE5X1VUcGlodWd1QTV1UlhKM01ySFpMTmNTcDlObFlKRlhlNkVRcXR4ZHlsQk5Hem1DUG5IMW9NMDEta25uUdIBX0FVX3lxTE0wcEtfaVJJRWlXS3NaejFYRm1kWnBjZkdLVzBtWmJHMGFMa3pkM3o1SjQ3SFl2eU9FMm9PWXlJVEVrTTZJZ1M4WC1RSWRnLXpmU2ZBekh1TGs3Y2ZxdjE0?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 12:42:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "골프장서",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "“이 대통령, 골프장서 대구 사고 보고받아”…청, 주진우 “황제 골프” 공세에 ‘선공개’ - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TMkxaMXJhUEdyZ0NTeEhPVzdSR1VBRmF5aXZwbFpSSWtXbm44elh4ejVLSDhqQ1I5alBQLXZ3QUNSd1N1Ml8xaEdMY0g3YmtvbzFOXzNqQ210Z9IBX0FVX3lxTFBkV2pEY09qUktISFlVbmxCOWtlTzlNM2VOWklCV0VfRkpVMUgyM3hfNzl5UEdYR3Z6ajloYVd1dDIxSmE4YkhiX1ViRFN1NUZVUHk3VFdBOTZrZXNnaV9R?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 13:24:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "사고",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "“이 대통령, 골프장서 대구 사고 보고받아”…청, 주진우 “황제 골프” 공세에 ‘선공개’ - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TMkxaMXJhUEdyZ0NTeEhPVzdSR1VBRmF5aXZwbFpSSWtXbm44elh4ejVLSDhqQ1I5alBQLXZ3QUNSd1N1Ml8xaEdMY0g3YmtvbzFOXzNqQ210Z9IBX0FVX3lxTFBkV2pEY09qUktISFlVbmxCOWtlTzlNM2VOWklCV0VfRkpVMUgyM3hfNzl5UEdYR3Z6ajloYVd1dDIxSmE4YkhiX1ViRFN1NUZVUHk3VFdBOTZrZXNnaV9R?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 13:24:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "보고받아청",
+      "count": 1,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "“이 대통령, 골프장서 대구 사고 보고받아”…청, 주진우 “황제 골프” 공세에 ‘선공개’ - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TMkxaMXJhUEdyZ0NTeEhPVzdSR1VBRmF5aXZwbFpSSWtXbm44elh4ejVLSDhqQ1I5alBQLXZ3QUNSd1N1Ml8xaEdMY0g3YmtvbzFOXzNqQ210Z9IBX0FVX3lxTFBkV2pEY09qUktISFlVbmxCOWtlTzlNM2VOWklCV0VfRkpVMUgyM3hfNzl5UEdYR3Z6ajloYVd1dDIxSmE4YkhiX1ViRFN1NUZVUHk3VFdBOTZrZXNnaV9R?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 13:24:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "주진우",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "“이 대통령, 골프장서 대구 사고 보고받아”…청, 주진우 “황제 골프” 공세에 ‘선공개’ - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TMkxaMXJhUEdyZ0NTeEhPVzdSR1VBRmF5aXZwbFpSSWtXbm44elh4ejVLSDhqQ1I5alBQLXZ3QUNSd1N1Ml8xaEdMY0g3YmtvbzFOXzNqQ210Z9IBX0FVX3lxTFBkV2pEY09qUktISFlVbmxCOWtlTzlNM2VOWklCV0VfRkpVMUgyM3hfNzl5UEdYR3Z6ajloYVd1dDIxSmE4YkhiX1ViRFN1NUZVUHk3VFdBOTZrZXNnaV9R?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 13:24:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "황제",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "“이 대통령, 골프장서 대구 사고 보고받아”…청, 주진우 “황제 골프” 공세에 ‘선공개’ - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TMkxaMXJhUEdyZ0NTeEhPVzdSR1VBRmF5aXZwbFpSSWtXbm44elh4ejVLSDhqQ1I5alBQLXZ3QUNSd1N1Ml8xaEdMY0g3YmtvbzFOXzNqQ210Z9IBX0FVX3lxTFBkV2pEY09qUktISFlVbmxCOWtlTzlNM2VOWklCV0VfRkpVMUgyM3hfNzl5UEdYR3Z6ajloYVd1dDIxSmE4YkhiX1ViRFN1NUZVUHk3VFdBOTZrZXNnaV9R?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 13:24:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "골프",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "“이 대통령, 골프장서 대구 사고 보고받아”…청, 주진우 “황제 골프” 공세에 ‘선공개’ - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TMkxaMXJhUEdyZ0NTeEhPVzdSR1VBRmF5aXZwbFpSSWtXbm44elh4ejVLSDhqQ1I5alBQLXZ3QUNSd1N1Ml8xaEdMY0g3YmtvbzFOXzNqQ210Z9IBX0FVX3lxTFBkV2pEY09qUktISFlVbmxCOWtlTzlNM2VOWklCV0VfRkpVMUgyM3hfNzl5UEdYR3Z6ajloYVd1dDIxSmE4YkhiX1ViRFN1NUZVUHk3VFdBOTZrZXNnaV9R?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 13:24:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "공세",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "“이 대통령, 골프장서 대구 사고 보고받아”…청, 주진우 “황제 골프” 공세에 ‘선공개’ - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TMkxaMXJhUEdyZ0NTeEhPVzdSR1VBRmF5aXZwbFpSSWtXbm44elh4ejVLSDhqQ1I5alBQLXZ3QUNSd1N1Ml8xaEdMY0g3YmtvbzFOXzNqQ210Z9IBX0FVX3lxTFBkV2pEY09qUktISFlVbmxCOWtlTzlNM2VOWklCV0VfRkpVMUgyM3hfNzl5UEdYR3Z6ajloYVd1dDIxSmE4YkhiX1ViRFN1NUZVUHk3VFdBOTZrZXNnaV9R?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 13:24:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "선공개",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "“이 대통령, 골프장서 대구 사고 보고받아”…청, 주진우 “황제 골프” 공세에 ‘선공개’ - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TMkxaMXJhUEdyZ0NTeEhPVzdSR1VBRmF5aXZwbFpSSWtXbm44elh4ejVLSDhqQ1I5alBQLXZ3QUNSd1N1Ml8xaEdMY0g3YmtvbzFOXzNqQ210Z9IBX0FVX3lxTFBkV2pEY09qUktISFlVbmxCOWtlTzlNM2VOWklCV0VfRkpVMUgyM3hfNzl5UEdYR3Z6ajloYVd1dDIxSmE4YkhiX1ViRFN1NUZVUHk3VFdBOTZrZXNnaV9R?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 13:24:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "외교부",
+      "count": 1,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "외교부 \"사우디 출국 권고\"... 트럼프, 후티 공격 검토 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ0hGZ0JLUjNCdE9oNUYwVkJTd2RqWGpfSV9PN1hZMzFuVUtldWNsNWhEd3dJc19VVW1DcDRHNUVlcS1PVDAwMF9wMGxMUkx6cGt3ZEsya1BuRlpLYXBiZnZRcHoweE5JaGIyTDdIRDlEbFRVUFRFQXMyRmY4OWxKcE1HSXM0YlF3NWdYQlZMQU8xSWt0c0FJZTc2ZnZtZw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 12:16:44 GMT"
+        }
+      ]
+    },
+    {
+      "word": "사우디",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "외교부 \"사우디 출국 권고\"... 트럼프, 후티 공격 검토 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ0hGZ0JLUjNCdE9oNUYwVkJTd2RqWGpfSV9PN1hZMzFuVUtldWNsNWhEd3dJc19VVW1DcDRHNUVlcS1PVDAwMF9wMGxMUkx6cGt3ZEsya1BuRlpLYXBiZnZRcHoweE5JaGIyTDdIRDlEbFRVUFRFQXMyRmY4OWxKcE1HSXM0YlF3NWdYQlZMQU8xSWt0c0FJZTc2ZnZtZw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 11 Oct 2026 12:16:44 GMT"
         }
       ]
     }
