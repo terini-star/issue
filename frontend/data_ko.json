@@ -1,578 +1,431 @@
 {
   "language": "ko",
-  "last_updated": 1791755357.4776406,
+  "last_updated": 1791795565.4316497,
   "count": 40,
   "trends": [
     {
+      "word": "국감",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "패륜정치 비판에 국감 제척까지···‘이진숙 국감’된 과방위 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4taDYwenNVbW0zZTZDWGlFOFFYemRYTUFyYmctLXhNNnZieFo1SDdxQzU2aUlLMEQ0OXRLelpqT2c3eGN0TGZNRXJ5d1FxNm5KRTVUaThCUnBHUdIBX0FVX3lxTFA0akVFUFplRlhPNVdBTXRhMDBRMWg5MTcyMGlQenZTR1h1U0JYN2VyWi1ITVdma2FJSDQtWEN2U2d2bUhjRzJQY3FNTkN2SGxvcGdlcEtoVTJHREN5dm5N?oc=5",
+          "source": "Google News",
+          "published": "Mon, 12 Oct 2026 08:39:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "여부",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "남동발전, ’네팔 대홍수’ 수색 일시 중단…“재개 여부 추후 결정“ - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IRl9SQjdjM1BkTS1LRmRocFNTS1hQT0kxYWFsWTIwSGVUbklFNGkzTGtEY3FUa3dyU1dxT3l0djJLV1VEYi1PR19nTk9BUThPOUh4RDVsM2l1cG9oRnA3THVpd3haT00?oc=5",
+          "source": "Google News",
+          "published": "Mon, 12 Oct 2026 06:36:00 GMT"
+        },
+        {
+          "title": "주병기 “’상표권 사용’ 강요·부당개입 여부 조사 중“ - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14aFNncmhod2lRZi1TZm9sVGpjMTAtTloyMmJZM3VoRWhvVUhFbFNiMXJuX2FPM2ZLYkVyenAtSy00c3pRYmF0aDBIQ0tMeGQ0am5NVWV4N3RhbW1jTFZha3UtZm1zaVU?oc=5",
+          "source": "Google News",
+          "published": "Mon, 12 Oct 2026 02:52:00 GMT"
+        }
+      ]
+    },
+    {
       "word": "트럼프",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프 “러·우크라, 에너지 휴전 합의”···젤렌스키 “처음 듣는 말”, 푸틴은 무반응 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50WFZnb1FXSUFUQTFJSkx4Z2s2VDJ2S0lTQWp4bVlEVEdwdHc4czVsNWszcVI5dDEwQzhlZU01dVptaUxjdVliSVhQT3NoOG5PcDhmQy1SczMzZ9IBX0FVX3lxTE9Yal9xZmE1T2RGRl84WGZ3aFprWkUxOHV1MXNzdl9zcXZyMzhWSFJzNlJWVEg4MWttV1dOdkpMWUR5azZDbHFodEQwQmFDZ1pTSkE2TV95bDR2aHl3ZXA4?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 21:10:00 GMT"
-        },
-        {
-          "title": "외교부 \"사우디 출국 권고\"... 트럼프, 후티 공격 검토 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ0hGZ0JLUjNCdE9oNUYwVkJTd2RqWGpfSV9PN1hZMzFuVUtldWNsNWhEd3dJc19VVW1DcDRHNUVlcS1PVDAwMF9wMGxMUkx6cGt3ZEsya1BuRlpLYXBiZnZRcHoweE5JaGIyTDdIRDlEbFRVUFRFQXMyRmY4OWxKcE1HSXM0YlF3NWdYQlZMQU8xSWt0c0FJZTc2ZnZtZw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 12:16:44 GMT"
-        },
-        {
-          "title": "ICC 출신 노벨평화상에… 트럼프, 추가 제재 ‘뒤끝’ - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMN042Wi1fNXZDRGdPbUJFSFRLOWIwMlo4QVJzdkdSdVF5SUVsbVdlblZNUWwyVVBoZ2hmZDRISXVKYURvbFVTTjNZaExMUDVmcURLUktFa2otSzN2NDNvenFNZFhtYURrbDlKNExiYlNNcmfSAWZBVV95cUxQWW5VekFVSldSSEhHa0JUNUwzWEFGLTZoZzV5MkVzOHBrVHRCTXhWNGh0RVFUMTlxZ1BSVy1ORW40czJ2Y2M0WW5YcU5UWXk4bXlqMU1uWC1ZZDBqaEphalNOc2pmdmc?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 19:30:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "SNS",
-      "count": 2,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "“품격없다, 권위없다 해도 계속”…이 대통령, ‘SNS 정치’ 정면 돌파 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yb1NSbzBwVy1vcmUxTzBoZGdIUVFmUGpoT2JHMXlkWnBkR2stbTVfYWpwazF0d3FQaV84NXVGUDdHN3NVZTNFMEJGakRlT09pQ0FWblE1bGU1ZHhKYV9RQmlBZFlDbkZDWlpj?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 16:10:00 GMT"
-        },
-        {
-          "title": "“난 스트롱우먼”…국내외 여성 SNS 트렌드는 ‘근육 키운 팔’ - 농민신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FYUl3aTgtTlBvMjVSRmxZWnlJOUQtMUVoeUpuV2ZfeDJMTmxEZW9BNFUwMkM0UzI5UlJfbmUta3RHMkpmcnJHelZRZldFQWtBTzVGVjBScFZadw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 08 Oct 2026 07:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "정면",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“품격없다, 권위없다 해도 계속”…이 대통령, ‘SNS 정치’ 정면 돌파 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yb1NSbzBwVy1vcmUxTzBoZGdIUVFmUGpoT2JHMXlkWnBkR2stbTVfYWpwazF0d3FQaV84NXVGUDdHN3NVZTNFMEJGakRlT09pQ0FWblE1bGU1ZHhKYV9RQmlBZFlDbkZDWlpj?oc=5",
+          "title": "트럼프 “러-우크라 에너지 휴전”…젤렌스키 “러시아 동의하면 동의” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOblA5ZzhPc0pHTXY2cWxUbGVwQS1lQWRyRC16aHNTRXRrVDBQZXNfN1JzTUgwbHJnX3ZnbktxTnZ4eWtHVnBwbEhObzlwOGJsbVB6MS1fX1A3dVkwWkVGeXNWRDdRTU1Ga2ZhS3FzVHJUdC1wT2dfQkZnT2k1NFVtd1lR?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 16:10:00 GMT"
+          "published": "Mon, 12 Oct 2026 06:49:00 GMT"
         },
         {
-          "title": "'59세' 김희애, 외모 품평 논란 정면 돌파…초근접 셀카에 누리꾼 '감탄' - 조선비즈 - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM0hQMEtXMHB3SVJJZWdIcWhxbzdOOGd5anloRUdnTFUtX29pVW1XN3pNajlwREsyc1pmR2h2enhBdF81azFKZzNvOFhjSlQ1OWRPa0FtN2c3M1p0RlVhMUhWSlpYejNPU2c3a3JuelZuNHFlWE91aDRVWEh6UkY2T19MeGVGSXFYdWtkMzBOLXo3blXSAacBQVVfeXFMTnlkN0kwS3hETGRPcm5GVGoxaW5xRDY2N04zWGZlOXlpcjcxbVRaUzN3V3Niakw4LXFqWHVsRmFhbjQ4N1Z4YzVvTG10el8tMW9LZzFNOGktbmNsclMwbWhjNnRoZEVoQzhaMU96aGpHSC1xa3gyRHdlLUJMS1YzN25tWXlwZXFncUxPZFdYaFd4ZGlEejJkWWcyc2d5SnRDVkdkUC02ZzQ?oc=5",
+          "title": "\"트럼프, 측근 그리스대사 비리 의혹에 분노…해임도 검토\" - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHRmFkV0ZWNF9RbUxnSEM3WjhiRDZkQmRLZVlBYXB4MjYwU0RETXVEWGhFdkJxejlYWGxlWlhLX05rZjFWVVdEYnhYaUZXdHlOUGc2Nzh2ZFZIZ3PSAWBBVV95cUxPY1ppS3FoZ2FPUnNBNUVkNkt4SENIN011V2xZcnFUZ3ZabDd2ZDJ0emxKWW5wWDFPeFllVFR5STZJV3I1WjQ5Y08xemN5VUhXM0dONkxmZk5tOVY4S1hSZjY?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 14:34:00 GMT"
+          "published": "Mon, 12 Oct 2026 00:13:30 GMT"
         }
       ]
     },
     {
-      "word": "공격",
+      "word": "러시아",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "외교부 \"사우디 출국 권고\"... 트럼프, 후티 공격 검토 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ0hGZ0JLUjNCdE9oNUYwVkJTd2RqWGpfSV9PN1hZMzFuVUtldWNsNWhEd3dJc19VVW1DcDRHNUVlcS1PVDAwMF9wMGxMUkx6cGt3ZEsya1BuRlpLYXBiZnZRcHoweE5JaGIyTDdIRDlEbFRVUFRFQXMyRmY4OWxKcE1HSXM0YlF3NWdYQlZMQU8xSWt0c0FJZTc2ZnZtZw?oc=5",
+          "title": "트럼프 “러-우크라 에너지 휴전”…젤렌스키 “러시아 동의하면 동의” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOblA5ZzhPc0pHTXY2cWxUbGVwQS1lQWRyRC16aHNTRXRrVDBQZXNfN1JzTUgwbHJnX3ZnbktxTnZ4eWtHVnBwbEhObzlwOGJsbVB6MS1fX1A3dVkwWkVGeXNWRDdRTU1Ga2ZhS3FzVHJUdC1wT2dfQkZnT2k1NFVtd1lR?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 12:16:44 GMT"
+          "published": "Mon, 12 Oct 2026 06:49:00 GMT"
         },
         {
-          "title": "SK쉴더스 \"아르텍스, 기존 공격 고도화\"...API 보안 대응책 제시 - 지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JdVlOYk5ESHJVVHNKOFpCM2NwbUpSbHdEb2hSVDBoeUJiV1RGOFJ0bjJwaVRnNVhmLVNQQTdFYzlvYUtxMVNRN0ZqMm9oVzVTbzBzaGR3?oc=5",
+          "title": "EU, 러시아 하이브리드 공격 막으려 비자발급 제한 검토 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SR0swQ2FFWWtmY3VfV25wVzhSRmJiNEtPWF9HaW54bno4aHpSZUhncWJfNDFHLVdHSWM0WDlMMVh3MkY1RF95bkFjdlA5S1o2bXRyUkVkdFN4Z9IBX0FVX3lxTFA4QVVCWjN3WDVOWmNQaUpkVHJHdFAxOHRkNV9hWUNlU2syLS0wcUx6NnBmczdBNWxtaXlXdU1MQVc1MlNlYjFNeFRaN29vX3NkMWVwaWc3c3ZtVWFjeElZ?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 12:05:06 GMT"
+          "published": "Mon, 12 Oct 2026 06:50:00 GMT"
         }
       ]
     },
     {
-      "word": "수준",
+      "word": "의혹",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "국힘 \"한미동맹 파탄 수준... 정동영·이종석 경질해야\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOejA3ZDVJVkxsNDhacXZreXBObVhlT2RZVjhYQ0t0UlpHR21BclVqYkNwUUdDR19aMU12R1pRaVBrZW15OWJ3WUdYZjBBVEtnWGRrYm0tMXFqUHZfVUwzelF6SVRFQlMyR0N2NC1PajZ3bTd2YW1ydlcwN2NwU0M4clVJZUNRQQ?oc=5",
+          "title": "\"트럼프, 측근 그리스대사 비리 의혹에 분노…해임도 검토\" - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHRmFkV0ZWNF9RbUxnSEM3WjhiRDZkQmRLZVlBYXB4MjYwU0RETXVEWGhFdkJxejlYWGxlWlhLX05rZjFWVVdEYnhYaUZXdHlOUGc2Nzh2ZFZIZ3PSAWBBVV95cUxPY1ppS3FoZ2FPUnNBNUVkNkt4SENIN011V2xZcnFUZ3ZabDd2ZDJ0emxKWW5wWDFPeFllVFR5STZJV3I1WjQ5Y08xemN5VUhXM0dONkxmZk5tOVY4S1hSZjY?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 04:42:15 GMT"
+          "published": "Mon, 12 Oct 2026 00:13:30 GMT"
         },
         {
-          "title": "삼성전자 외국인 지분율 금융위기 수준 '뚝'…최대 실적에도 17년 만에 최저 - 전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB0NVZrWnhQSTJ3VGkzd3R5WDlWUVJiSnkxa05VS0hLOXRNR2lmcUV5RVczTzVKNGUtSHpOekhGc0dqZ0xuYnA2TENBZlBkdw?oc=5",
+          "title": "성폭행 의혹에 이혼까지…김건모, 드디어 ‘기쁜 소식’ 전했다 - 서울Eye",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtRFNleUZ6VGZMZmY4QjdDUjk1MWlhcE11cTkxX2pSREtqWFhTWVd2MWdDVWNRVllhc2ZXeDJGMHlfdFlGcjJNa2l4MTc5LWlWd0I1NzVOSng5UGpRbDRJODd6US04M1B2RGNV?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 06:44:20 GMT"
+          "published": "Mon, 12 Oct 2026 00:19:16 GMT"
         }
       ]
     },
     {
-      "word": "대한",
+      "word": "검토",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "미국 총살형 생중계 결정에 교황 “인간 존엄성에 대한 공격”···밴스 부통령도 “난 안 볼 것” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xa1JvLThDaU5la0tIZmNlX1Fyc0hmUUtEQWNKUFg2cUo4RzBoSXpGYWxOdGR6REJaZEQ1QndPX29XTjhEMFF2X3Q1TzhGR2lfWjc2bEdKVVVlZ9IBX0FVX3lxTE5ZdGF4UHBQdGdlMVFjQURhRmp4V0pUaVhxQjlWZzNtcUZGVGtoMURzREd0a1RuMDZ4cFgxUEhRVC1ReElCNHc1WmFpczBiU3pULV9vbUdOM0JObng4REFJ?oc=5",
+          "title": "\"트럼프, 측근 그리스대사 비리 의혹에 분노…해임도 검토\" - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHRmFkV0ZWNF9RbUxnSEM3WjhiRDZkQmRLZVlBYXB4MjYwU0RETXVEWGhFdkJxejlYWGxlWlhLX05rZjFWVVdEYnhYaUZXdHlOUGc2Nzh2ZFZIZ3PSAWBBVV95cUxPY1ppS3FoZ2FPUnNBNUVkNkt4SENIN011V2xZcnFUZ3ZabDd2ZDJ0emxKWW5wWDFPeFllVFR5STZJV3I1WjQ5Y08xemN5VUhXM0dONkxmZk5tOVY4S1hSZjY?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 07:53:00 GMT"
+          "published": "Mon, 12 Oct 2026 00:13:30 GMT"
         },
         {
-          "title": "소니는 플레이스테이션 6 콘솔용 완전 터치스크린 컨트롤러에 대한 특허를 출원했습니다. - GameGPU",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYXNjOUV0OVN5SDNNM3RiaEd2eTJ1Z2ItNktjb1dpSmwzNjA2WldqS3ZJNTR2TUN2OXp1UW91RDBpdFd6c053UnFWV280ZTJLVnpqQnJhSjExLWNiU1lwTVpJMi1FVHZybkNTc0ljVjdmQklVbS1TNnFLelZyWUpWTmxDMFJCcldLamw5b1JQWURJdEZJaUhyM3JTVkg5dzVYVlBIQXhGTndObGJkbnBkSWJn?oc=5",
+          "title": "EU, 러시아 하이브리드 공격 막으려 비자발급 제한 검토 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SR0swQ2FFWWtmY3VfV25wVzhSRmJiNEtPWF9HaW54bno4aHpSZUhncWJfNDFHLVdHSWM0WDlMMVh3MkY1RF95bkFjdlA5S1o2bXRyUkVkdFN4Z9IBX0FVX3lxTFA4QVVCWjN3WDVOWmNQaUpkVHJHdFAxOHRkNV9hWUNlU2syLS0wcUx6NnBmczdBNWxtaXlXdU1MQVc1MlNlYjFNeFRaN29vX3NkMWVwaWc3c3ZtVWFjeElZ?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 19:11:35 GMT"
+          "published": "Mon, 12 Oct 2026 06:50:00 GMT"
         }
       ]
     },
     {
-      "word": "열쇠",
+      "word": "개발",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"핵심 광물 다음 개척지는 우주\"… '궤도 인프라 자급'이 상업화 열쇠 - 글로벌이코노믹",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeGk3VllOU08xM2E3SDhYaFBhWUdWQTctRk1GN2dwb0haN2kxZFR5bVlJVjYzcWVYdnBlajIyZWpfOGtJUHlHdFhhUHFuV2UwTFo1eHZ4MGl1SkxXVkJzdV9sNDZIY3R1S2RHSWVsMlRySEcyTWt5WG1hN1hDRERjbWlHQ2FveXo3?oc=5",
+          "title": "포스텍, 열 대신 빛으로 '분자 스펀지' 만드는 기술 개발 - 경북도민일보",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05RjExZ1VpMGNaZGFQUTZMejZUY1Z5enRvOVRSQlRlQnNadTVRODRybVFhQjY1RGhXbjFMRXBLM0c1VVJTclVrOE1nSDh6dkpQYUNZSkpIWEVoSWZkcVpHTFREOHJJZUNYQ3c?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 21:25:00 GMT"
+          "published": "Mon, 12 Oct 2026 05:59:32 GMT"
         },
         {
-          "title": "뇌 속 ‘고장 난 발전소’ 청소...석류 유래 성분, 치매 치료 열쇠 될까 - 디멘시아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxdGJfR0ZyUFlRV2JyOTFLZDEzM1dqalR4V2lXOUdFaklCZHFhSm9zSTk1U3I5QVFYSWNPdjh4SGJPeFVoZ2ljblMwXzZydGhCaWNXYV9aR2EzR29yVU12b1NZVnFCRjVYTUhmUnBVY2k1UQ?oc=5",
+          "title": "가톨릭중앙의료원 기초의학사업추진단, ‘광화학 이온화 지질 라이브러리’ 개발 - 의사신문",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoLXg1cm11MFZvbmIyTzhNNDFiTlczTnp6b3BzZTZaOFdGNVlOSjIxN3NuYlB2OWRCY2ZXLU8tMkk3S2pxd1FSb1AtRE9fcHlHYW0tS3R5aER2al9yMlh4NDVFa1VJaXFkLXlBZEE4NA?oc=5",
           "source": "Google News",
-          "published": "Tue, 06 Oct 2026 10:42:51 GMT"
+          "published": "Mon, 12 Oct 2026 02:45:21 GMT"
         }
       ]
     },
     {
-      "word": "플레이스테이션",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "소니는 플레이스테이션 6 콘솔용 완전 터치스크린 컨트롤러에 대한 특허를 출원했습니다. - GameGPU",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYXNjOUV0OVN5SDNNM3RiaEd2eTJ1Z2ItNktjb1dpSmwzNjA2WldqS3ZJNTR2TUN2OXp1UW91RDBpdFd6c053UnFWV280ZTJLVnpqQnJhSjExLWNiU1lwTVpJMi1FVHZybkNTc0ljVjdmQklVbS1TNnFLelZyWUpWTmxDMFJCcldLamw5b1JQWURJdEZJaUhyM3JTVkg5dzVYVlBIQXhGTndObGJkbnBkSWJn?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 19:11:35 GMT"
-        },
-        {
-          "title": "인섬니악 게임즈는 플레이스테이션 5용 독립형 베놈 게임을 개발 중입니다. - GameGPU",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYkJ1NTg5UHI0XzB6RzdGaGlmUE9WOFU5S2wtLUx3amZJeVNMYjdRN2FxRWVQX0V3c0FwSzFVdVpOenc0d1VNTmM0bUg3LVh4R2d3Mjk4czNkVUV2M2V3WXpYdTZfMlpTVTJpX0NCRS1fZllCVzJLRlFKMlloanhSQ2dvZm5wcGt4WEJUVDNyVzZ0RW1TcXI1S0JDaDJIRXJLNlZwakVVbWk1ZFBZdDhYTzNqTHJyUQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 18:23:21 GMT"
-        }
-      ]
-    },
-    {
-      "word": "논란",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "'59세' 김희애, 외모 품평 논란 정면 돌파…초근접 셀카에 누리꾼 '감탄' - 조선비즈 - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM0hQMEtXMHB3SVJJZWdIcWhxbzdOOGd5anloRUdnTFUtX29pVW1XN3pNajlwREsyc1pmR2h2enhBdF81azFKZzNvOFhjSlQ1OWRPa0FtN2c3M1p0RlVhMUhWSlpYejNPU2c3a3JuelZuNHFlWE91aDRVWEh6UkY2T19MeGVGSXFYdWtkMzBOLXo3blXSAacBQVVfeXFMTnlkN0kwS3hETGRPcm5GVGoxaW5xRDY2N04zWGZlOXlpcjcxbVRaUzN3V3Niakw4LXFqWHVsRmFhbjQ4N1Z4YzVvTG10el8tMW9LZzFNOGktbmNsclMwbWhjNnRoZEVoQzhaMU96aGpHSC1xa3gyRHdlLUJMS1YzN25tWXlwZXFncUxPZFdYaFd4ZGlEejJkWWcyc2d5SnRDVkdkUC02ZzQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 14:34:00 GMT"
-        },
-        {
-          "title": "'개인 타이틀 집착 논란' KT 최원준, 배트 내동댕이…안타 불발에 볼넷도 불만? - 노컷뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJWElqZDlfSHg2RjZpU195MzM5aUdXM1oySktuQm5uai1POTAzNXRZemVZME1vd0ZCOVpyT2hDRjVOZVRrLUp4M3RmdFd1UW53ZkE?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 11:31:33 GMT"
-        }
-      ]
-    },
-    {
-      "word": "운세",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[지윤철학원의 오늘의 운세] 2026년 10월 12일 월요일 띠별 운세 - 뉴스투데이",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mWm1VM1JZZkRHeVlMSE1SYXZHcjlXRHZkeVVSNkpPOGhJbWpRYlhoeUw1emc4Z3J5Tm5HR01nUzhtZ3VYbHdlV0owSXpQTnZmMGU4N2VBdDhZalVMOXc?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 18:33:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "12일",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[지윤철학원의 오늘의 운세] 2026년 10월 12일 월요일 띠별 운세 - 뉴스투데이",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mWm1VM1JZZkRHeVlMSE1SYXZHcjlXRHZkeVVSNkpPOGhJbWpRYlhoeUw1emc4Z3J5Tm5HR01nUzhtZ3VYbHdlV0owSXpQTnZmMGU4N2VBdDhZalVMOXc?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 18:33:00 GMT"
-        },
-        {
-          "title": "[프로야구] KIA 양현종·LG 임찬규, 준PO 직행 걸린 12일 정규시즌 최종전 선발 맞대결 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OWERsLUU0cm91cVpDOFBENDNyR0IwMGpkbTVHT2tkSlRQOTE2dTBhZVhsRWxpek9MYklXaHp4SVlDOS1yRGQ4V0hrQ3k1RkNyTkFVcFc4dnpmUUZx?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 21:30:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "러우크",
+      "word": "한동훈",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 “러·우크라, 에너지 휴전 합의”···젤렌스키 “처음 듣는 말”, 푸틴은 무반응 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50WFZnb1FXSUFUQTFJSkx4Z2s2VDJ2S0lTQWp4bVlEVEdwdHc4czVsNWszcVI5dDEwQzhlZU01dVptaUxjdVliSVhQT3NoOG5PcDhmQy1SczMzZ9IBX0FVX3lxTE9Yal9xZmE1T2RGRl84WGZ3aFprWkUxOHV1MXNzdl9zcXZyMzhWSFJzNlJWVEg4MWttV1dOdkpMWUR5azZDbHFodEQwQmFDZ1pTSkE2TV95bDR2aHl3ZXA4?oc=5",
+          "title": "한동훈의 “딸 전자책, 저작권자가 승낙” 해명이 ‘반쪽’인 까닭 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95eGJRVHNjRlA1U0syQXkwVTNENVdCcEVFR1VTSWtleVdxZTBMYUJ4cGtpSlA5N3FycGhqOElFbUp2TTJ6WkNkcTREOV9ZNUxSM0hBNDhnWmZ1RERxN2ZqaEtGaW93bTdIUGVxSUg0LWdHZEQx?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 21:10:00 GMT"
+          "published": "Mon, 12 Oct 2026 06:45:00 GMT"
         }
       ]
     },
     {
-      "word": "에너지",
+      "word": "전자책",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 “러·우크라, 에너지 휴전 합의”···젤렌스키 “처음 듣는 말”, 푸틴은 무반응 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50WFZnb1FXSUFUQTFJSkx4Z2s2VDJ2S0lTQWp4bVlEVEdwdHc4czVsNWszcVI5dDEwQzhlZU01dVptaUxjdVliSVhQT3NoOG5PcDhmQy1SczMzZ9IBX0FVX3lxTE9Yal9xZmE1T2RGRl84WGZ3aFprWkUxOHV1MXNzdl9zcXZyMzhWSFJzNlJWVEg4MWttV1dOdkpMWUR5azZDbHFodEQwQmFDZ1pTSkE2TV95bDR2aHl3ZXA4?oc=5",
+          "title": "한동훈의 “딸 전자책, 저작권자가 승낙” 해명이 ‘반쪽’인 까닭 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95eGJRVHNjRlA1U0syQXkwVTNENVdCcEVFR1VTSWtleVdxZTBMYUJ4cGtpSlA5N3FycGhqOElFbUp2TTJ6WkNkcTREOV9ZNUxSM0hBNDhnWmZ1RERxN2ZqaEtGaW93bTdIUGVxSUg0LWdHZEQx?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 21:10:00 GMT"
+          "published": "Mon, 12 Oct 2026 06:45:00 GMT"
         }
       ]
     },
     {
-      "word": "휴전",
+      "word": "저작권자",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 “러·우크라, 에너지 휴전 합의”···젤렌스키 “처음 듣는 말”, 푸틴은 무반응 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50WFZnb1FXSUFUQTFJSkx4Z2s2VDJ2S0lTQWp4bVlEVEdwdHc4czVsNWszcVI5dDEwQzhlZU01dVptaUxjdVliSVhQT3NoOG5PcDhmQy1SczMzZ9IBX0FVX3lxTE9Yal9xZmE1T2RGRl84WGZ3aFprWkUxOHV1MXNzdl9zcXZyMzhWSFJzNlJWVEg4MWttV1dOdkpMWUR5azZDbHFodEQwQmFDZ1pTSkE2TV95bDR2aHl3ZXA4?oc=5",
+          "title": "한동훈의 “딸 전자책, 저작권자가 승낙” 해명이 ‘반쪽’인 까닭 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95eGJRVHNjRlA1U0syQXkwVTNENVdCcEVFR1VTSWtleVdxZTBMYUJ4cGtpSlA5N3FycGhqOElFbUp2TTJ6WkNkcTREOV9ZNUxSM0hBNDhnWmZ1RERxN2ZqaEtGaW93bTdIUGVxSUg0LWdHZEQx?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 21:10:00 GMT"
+          "published": "Mon, 12 Oct 2026 06:45:00 GMT"
         }
       ]
     },
     {
-      "word": "합의젤렌스키",
+      "word": "승낙",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 “러·우크라, 에너지 휴전 합의”···젤렌스키 “처음 듣는 말”, 푸틴은 무반응 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50WFZnb1FXSUFUQTFJSkx4Z2s2VDJ2S0lTQWp4bVlEVEdwdHc4czVsNWszcVI5dDEwQzhlZU01dVptaUxjdVliSVhQT3NoOG5PcDhmQy1SczMzZ9IBX0FVX3lxTE9Yal9xZmE1T2RGRl84WGZ3aFprWkUxOHV1MXNzdl9zcXZyMzhWSFJzNlJWVEg4MWttV1dOdkpMWUR5azZDbHFodEQwQmFDZ1pTSkE2TV95bDR2aHl3ZXA4?oc=5",
+          "title": "한동훈의 “딸 전자책, 저작권자가 승낙” 해명이 ‘반쪽’인 까닭 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95eGJRVHNjRlA1U0syQXkwVTNENVdCcEVFR1VTSWtleVdxZTBMYUJ4cGtpSlA5N3FycGhqOElFbUp2TTJ6WkNkcTREOV9ZNUxSM0hBNDhnWmZ1RERxN2ZqaEtGaW93bTdIUGVxSUg0LWdHZEQx?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 21:10:00 GMT"
+          "published": "Mon, 12 Oct 2026 06:45:00 GMT"
         }
       ]
     },
     {
-      "word": "처음",
+      "word": "해명",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 “러·우크라, 에너지 휴전 합의”···젤렌스키 “처음 듣는 말”, 푸틴은 무반응 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50WFZnb1FXSUFUQTFJSkx4Z2s2VDJ2S0lTQWp4bVlEVEdwdHc4czVsNWszcVI5dDEwQzhlZU01dVptaUxjdVliSVhQT3NoOG5PcDhmQy1SczMzZ9IBX0FVX3lxTE9Yal9xZmE1T2RGRl84WGZ3aFprWkUxOHV1MXNzdl9zcXZyMzhWSFJzNlJWVEg4MWttV1dOdkpMWUR5azZDbHFodEQwQmFDZ1pTSkE2TV95bDR2aHl3ZXA4?oc=5",
+          "title": "한동훈의 “딸 전자책, 저작권자가 승낙” 해명이 ‘반쪽’인 까닭 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95eGJRVHNjRlA1U0syQXkwVTNENVdCcEVFR1VTSWtleVdxZTBMYUJ4cGtpSlA5N3FycGhqOElFbUp2TTJ6WkNkcTREOV9ZNUxSM0hBNDhnWmZ1RERxN2ZqaEtGaW93bTdIUGVxSUg0LWdHZEQx?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 21:10:00 GMT"
+          "published": "Mon, 12 Oct 2026 06:45:00 GMT"
         }
       ]
     },
     {
-      "word": "듣는",
+      "word": "반쪽인",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 “러·우크라, 에너지 휴전 합의”···젤렌스키 “처음 듣는 말”, 푸틴은 무반응 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50WFZnb1FXSUFUQTFJSkx4Z2s2VDJ2S0lTQWp4bVlEVEdwdHc4czVsNWszcVI5dDEwQzhlZU01dVptaUxjdVliSVhQT3NoOG5PcDhmQy1SczMzZ9IBX0FVX3lxTE9Yal9xZmE1T2RGRl84WGZ3aFprWkUxOHV1MXNzdl9zcXZyMzhWSFJzNlJWVEg4MWttV1dOdkpMWUR5azZDbHFodEQwQmFDZ1pTSkE2TV95bDR2aHl3ZXA4?oc=5",
+          "title": "한동훈의 “딸 전자책, 저작권자가 승낙” 해명이 ‘반쪽’인 까닭 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95eGJRVHNjRlA1U0syQXkwVTNENVdCcEVFR1VTSWtleVdxZTBMYUJ4cGtpSlA5N3FycGhqOElFbUp2TTJ6WkNkcTREOV9ZNUxSM0hBNDhnWmZ1RERxN2ZqaEtGaW93bTdIUGVxSUg0LWdHZEQx?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 21:10:00 GMT"
+          "published": "Mon, 12 Oct 2026 06:45:00 GMT"
         }
       ]
     },
     {
-      "word": "푸틴",
+      "word": "까닭",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 “러·우크라, 에너지 휴전 합의”···젤렌스키 “처음 듣는 말”, 푸틴은 무반응 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50WFZnb1FXSUFUQTFJSkx4Z2s2VDJ2S0lTQWp4bVlEVEdwdHc4czVsNWszcVI5dDEwQzhlZU01dVptaUxjdVliSVhQT3NoOG5PcDhmQy1SczMzZ9IBX0FVX3lxTE9Yal9xZmE1T2RGRl84WGZ3aFprWkUxOHV1MXNzdl9zcXZyMzhWSFJzNlJWVEg4MWttV1dOdkpMWUR5azZDbHFodEQwQmFDZ1pTSkE2TV95bDR2aHl3ZXA4?oc=5",
+          "title": "한동훈의 “딸 전자책, 저작권자가 승낙” 해명이 ‘반쪽’인 까닭 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95eGJRVHNjRlA1U0syQXkwVTNENVdCcEVFR1VTSWtleVdxZTBMYUJ4cGtpSlA5N3FycGhqOElFbUp2TTJ6WkNkcTREOV9ZNUxSM0hBNDhnWmZ1RERxN2ZqaEtGaW93bTdIUGVxSUg0LWdHZEQx?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 21:10:00 GMT"
+          "published": "Mon, 12 Oct 2026 06:45:00 GMT"
         }
       ]
     },
     {
-      "word": "무반응",
+      "word": "정동영",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 “러·우크라, 에너지 휴전 합의”···젤렌스키 “처음 듣는 말”, 푸틴은 무반응 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50WFZnb1FXSUFUQTFJSkx4Z2s2VDJ2S0lTQWp4bVlEVEdwdHc4czVsNWszcVI5dDEwQzhlZU01dVptaUxjdVliSVhQT3NoOG5PcDhmQy1SczMzZ9IBX0FVX3lxTE9Yal9xZmE1T2RGRl84WGZ3aFprWkUxOHV1MXNzdl9zcXZyMzhWSFJzNlJWVEg4MWttV1dOdkpMWUR5azZDbHFodEQwQmFDZ1pTSkE2TV95bDR2aHl3ZXA4?oc=5",
+          "title": "정동영 “퇴출해야 할 건 색깔론과 편향된 동맹관”…국힘 ‘경질론’ 반박 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmVjNXWlk2NEx5LUlzcDhzU3pNQkhWSEEzUWJTeVNycTd2OTVaMmtPUFROX0J6NUZzWVIxMnB0VTl2ZVRPR1NIWDhDZEpQbm9UNUhfRmJPb3N0RnBQMVk4QnE0a1pEWm9wZzJsSGppNjlLdlJI?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 21:10:00 GMT"
+          "published": "Mon, 12 Oct 2026 08:44:00 GMT"
         }
       ]
     },
     {
-      "word": "품격없다",
+      "word": "퇴출해야",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“품격없다, 권위없다 해도 계속”…이 대통령, ‘SNS 정치’ 정면 돌파 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yb1NSbzBwVy1vcmUxTzBoZGdIUVFmUGpoT2JHMXlkWnBkR2stbTVfYWpwazF0d3FQaV84NXVGUDdHN3NVZTNFMEJGakRlT09pQ0FWblE1bGU1ZHhKYV9RQmlBZFlDbkZDWlpj?oc=5",
+          "title": "정동영 “퇴출해야 할 건 색깔론과 편향된 동맹관”…국힘 ‘경질론’ 반박 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmVjNXWlk2NEx5LUlzcDhzU3pNQkhWSEEzUWJTeVNycTd2OTVaMmtPUFROX0J6NUZzWVIxMnB0VTl2ZVRPR1NIWDhDZEpQbm9UNUhfRmJPb3N0RnBQMVk4QnE0a1pEWm9wZzJsSGppNjlLdlJI?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 16:10:00 GMT"
+          "published": "Mon, 12 Oct 2026 08:44:00 GMT"
         }
       ]
     },
     {
-      "word": "권위없다",
+      "word": "색깔론",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“품격없다, 권위없다 해도 계속”…이 대통령, ‘SNS 정치’ 정면 돌파 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yb1NSbzBwVy1vcmUxTzBoZGdIUVFmUGpoT2JHMXlkWnBkR2stbTVfYWpwazF0d3FQaV84NXVGUDdHN3NVZTNFMEJGakRlT09pQ0FWblE1bGU1ZHhKYV9RQmlBZFlDbkZDWlpj?oc=5",
+          "title": "정동영 “퇴출해야 할 건 색깔론과 편향된 동맹관”…국힘 ‘경질론’ 반박 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmVjNXWlk2NEx5LUlzcDhzU3pNQkhWSEEzUWJTeVNycTd2OTVaMmtPUFROX0J6NUZzWVIxMnB0VTl2ZVRPR1NIWDhDZEpQbm9UNUhfRmJPb3N0RnBQMVk4QnE0a1pEWm9wZzJsSGppNjlLdlJI?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 16:10:00 GMT"
+          "published": "Mon, 12 Oct 2026 08:44:00 GMT"
         }
       ]
     },
     {
-      "word": "해도",
+      "word": "편향",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“품격없다, 권위없다 해도 계속”…이 대통령, ‘SNS 정치’ 정면 돌파 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yb1NSbzBwVy1vcmUxTzBoZGdIUVFmUGpoT2JHMXlkWnBkR2stbTVfYWpwazF0d3FQaV84NXVGUDdHN3NVZTNFMEJGakRlT09pQ0FWblE1bGU1ZHhKYV9RQmlBZFlDbkZDWlpj?oc=5",
+          "title": "정동영 “퇴출해야 할 건 색깔론과 편향된 동맹관”…국힘 ‘경질론’ 반박 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmVjNXWlk2NEx5LUlzcDhzU3pNQkhWSEEzUWJTeVNycTd2OTVaMmtPUFROX0J6NUZzWVIxMnB0VTl2ZVRPR1NIWDhDZEpQbm9UNUhfRmJPb3N0RnBQMVk4QnE0a1pEWm9wZzJsSGppNjlLdlJI?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 16:10:00 GMT"
+          "published": "Mon, 12 Oct 2026 08:44:00 GMT"
         }
       ]
     },
     {
-      "word": "계속",
+      "word": "동맹관국힘",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“품격없다, 권위없다 해도 계속”…이 대통령, ‘SNS 정치’ 정면 돌파 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yb1NSbzBwVy1vcmUxTzBoZGdIUVFmUGpoT2JHMXlkWnBkR2stbTVfYWpwazF0d3FQaV84NXVGUDdHN3NVZTNFMEJGakRlT09pQ0FWblE1bGU1ZHhKYV9RQmlBZFlDbkZDWlpj?oc=5",
+          "title": "정동영 “퇴출해야 할 건 색깔론과 편향된 동맹관”…국힘 ‘경질론’ 반박 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmVjNXWlk2NEx5LUlzcDhzU3pNQkhWSEEzUWJTeVNycTd2OTVaMmtPUFROX0J6NUZzWVIxMnB0VTl2ZVRPR1NIWDhDZEpQbm9UNUhfRmJPb3N0RnBQMVk4QnE0a1pEWm9wZzJsSGppNjlLdlJI?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 16:10:00 GMT"
+          "published": "Mon, 12 Oct 2026 08:44:00 GMT"
         }
       ]
     },
     {
-      "word": "대통령",
-      "count": 1,
-      "category": "PERSON",
-      "articles": [
-        {
-          "title": "“품격없다, 권위없다 해도 계속”…이 대통령, ‘SNS 정치’ 정면 돌파 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yb1NSbzBwVy1vcmUxTzBoZGdIUVFmUGpoT2JHMXlkWnBkR2stbTVfYWpwazF0d3FQaV84NXVGUDdHN3NVZTNFMEJGakRlT09pQ0FWblE1bGU1ZHhKYV9RQmlBZFlDbkZDWlpj?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 16:10:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "정치",
+      "word": "경질론",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“품격없다, 권위없다 해도 계속”…이 대통령, ‘SNS 정치’ 정면 돌파 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yb1NSbzBwVy1vcmUxTzBoZGdIUVFmUGpoT2JHMXlkWnBkR2stbTVfYWpwazF0d3FQaV84NXVGUDdHN3NVZTNFMEJGakRlT09pQ0FWblE1bGU1ZHhKYV9RQmlBZFlDbkZDWlpj?oc=5",
+          "title": "정동영 “퇴출해야 할 건 색깔론과 편향된 동맹관”…국힘 ‘경질론’ 반박 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmVjNXWlk2NEx5LUlzcDhzU3pNQkhWSEEzUWJTeVNycTd2OTVaMmtPUFROX0J6NUZzWVIxMnB0VTl2ZVRPR1NIWDhDZEpQbm9UNUhfRmJPb3N0RnBQMVk4QnE0a1pEWm9wZzJsSGppNjlLdlJI?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 16:10:00 GMT"
+          "published": "Mon, 12 Oct 2026 08:44:00 GMT"
         }
       ]
     },
     {
-      "word": "돌파",
+      "word": "반박",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“품격없다, 권위없다 해도 계속”…이 대통령, ‘SNS 정치’ 정면 돌파 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yb1NSbzBwVy1vcmUxTzBoZGdIUVFmUGpoT2JHMXlkWnBkR2stbTVfYWpwazF0d3FQaV84NXVGUDdHN3NVZTNFMEJGakRlT09pQ0FWblE1bGU1ZHhKYV9RQmlBZFlDbkZDWlpj?oc=5",
+          "title": "정동영 “퇴출해야 할 건 색깔론과 편향된 동맹관”…국힘 ‘경질론’ 반박 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmVjNXWlk2NEx5LUlzcDhzU3pNQkhWSEEzUWJTeVNycTd2OTVaMmtPUFROX0J6NUZzWVIxMnB0VTl2ZVRPR1NIWDhDZEpQbm9UNUhfRmJPb3N0RnBQMVk4QnE0a1pEWm9wZzJsSGppNjlLdlJI?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 16:10:00 GMT"
+          "published": "Mon, 12 Oct 2026 08:44:00 GMT"
         }
       ]
     },
     {
-      "word": "임은정",
+      "word": "국가안보실",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "임은정에 ‘감찰 카드’ 꺼낸 정부…김지용 청문회 앞 ‘내홍 매듭’ 의도 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBVk53SFVqQThydUJIY2RmVlhrUEd3ZDBoYlhJN0Uyd0NUTWZjV3V4THZ4Z1U2cGNmZmR1ZzRxSTBtM1Q1UlFlZXg5X3RvOXpHQVFiTWhmTU5kbWpRcEdremg5aExjeUJ4Z3c?oc=5",
+          "title": "국가안보실, 북 탄도미사일 발사에 긴급상황점검회의 개최 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWMFdvV0MxZW9FQ3VlMFRWdV9naVZ6bk5sOHlkN3B2ZUhiMjRrOEJYS0J0MjBkeXNOQWxoVEh4Wk15WjZGRTFrQkhEbXFBZElGREdYWGJDMmMtUnM0YXRvWXZxVkcxNkFDSzlsSGk0Um5kTEJMNU8yc9IBeEFVX3lxTE1nTkQ4ODBSRHlDRTRIUk44NngtcTNtOC1TV01ZRmsxWW5tQktNaklBa3ZYM0lBclhVZVkwV2lSMl9KajFrTGt4MFcyekRJM1RtYktUak5lOVFQa1BKd0hiTXNwTDVaeEVmaklUWDQ2eXR3Z2VtV3EzaQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 16:09:00 GMT"
+          "published": "Mon, 12 Oct 2026 02:26:15 GMT"
         }
       ]
     },
     {
-      "word": "감찰",
+      "word": "탄도미사일",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "임은정에 ‘감찰 카드’ 꺼낸 정부…김지용 청문회 앞 ‘내홍 매듭’ 의도 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBVk53SFVqQThydUJIY2RmVlhrUEd3ZDBoYlhJN0Uyd0NUTWZjV3V4THZ4Z1U2cGNmZmR1ZzRxSTBtM1Q1UlFlZXg5X3RvOXpHQVFiTWhmTU5kbWpRcEdremg5aExjeUJ4Z3c?oc=5",
+          "title": "국가안보실, 북 탄도미사일 발사에 긴급상황점검회의 개최 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWMFdvV0MxZW9FQ3VlMFRWdV9naVZ6bk5sOHlkN3B2ZUhiMjRrOEJYS0J0MjBkeXNOQWxoVEh4Wk15WjZGRTFrQkhEbXFBZElGREdYWGJDMmMtUnM0YXRvWXZxVkcxNkFDSzlsSGk0Um5kTEJMNU8yc9IBeEFVX3lxTE1nTkQ4ODBSRHlDRTRIUk44NngtcTNtOC1TV01ZRmsxWW5tQktNaklBa3ZYM0lBclhVZVkwV2lSMl9KajFrTGt4MFcyekRJM1RtYktUak5lOVFQa1BKd0hiTXNwTDVaeEVmaklUWDQ2eXR3Z2VtV3EzaQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 16:09:00 GMT"
+          "published": "Mon, 12 Oct 2026 02:26:15 GMT"
         }
       ]
     },
     {
-      "word": "카드",
+      "word": "발사",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "임은정에 ‘감찰 카드’ 꺼낸 정부…김지용 청문회 앞 ‘내홍 매듭’ 의도 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBVk53SFVqQThydUJIY2RmVlhrUEd3ZDBoYlhJN0Uyd0NUTWZjV3V4THZ4Z1U2cGNmZmR1ZzRxSTBtM1Q1UlFlZXg5X3RvOXpHQVFiTWhmTU5kbWpRcEdremg5aExjeUJ4Z3c?oc=5",
+          "title": "국가안보실, 북 탄도미사일 발사에 긴급상황점검회의 개최 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWMFdvV0MxZW9FQ3VlMFRWdV9naVZ6bk5sOHlkN3B2ZUhiMjRrOEJYS0J0MjBkeXNOQWxoVEh4Wk15WjZGRTFrQkhEbXFBZElGREdYWGJDMmMtUnM0YXRvWXZxVkcxNkFDSzlsSGk0Um5kTEJMNU8yc9IBeEFVX3lxTE1nTkQ4ODBSRHlDRTRIUk44NngtcTNtOC1TV01ZRmsxWW5tQktNaklBa3ZYM0lBclhVZVkwV2lSMl9KajFrTGt4MFcyekRJM1RtYktUak5lOVFQa1BKd0hiTXNwTDVaeEVmaklUWDQ2eXR3Z2VtV3EzaQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 16:09:00 GMT"
+          "published": "Mon, 12 Oct 2026 02:26:15 GMT"
         }
       ]
     },
     {
-      "word": "꺼낸",
+      "word": "긴급상황점검회",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "임은정에 ‘감찰 카드’ 꺼낸 정부…김지용 청문회 앞 ‘내홍 매듭’ 의도 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBVk53SFVqQThydUJIY2RmVlhrUEd3ZDBoYlhJN0Uyd0NUTWZjV3V4THZ4Z1U2cGNmZmR1ZzRxSTBtM1Q1UlFlZXg5X3RvOXpHQVFiTWhmTU5kbWpRcEdremg5aExjeUJ4Z3c?oc=5",
+          "title": "국가안보실, 북 탄도미사일 발사에 긴급상황점검회의 개최 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWMFdvV0MxZW9FQ3VlMFRWdV9naVZ6bk5sOHlkN3B2ZUhiMjRrOEJYS0J0MjBkeXNOQWxoVEh4Wk15WjZGRTFrQkhEbXFBZElGREdYWGJDMmMtUnM0YXRvWXZxVkcxNkFDSzlsSGk0Um5kTEJMNU8yc9IBeEFVX3lxTE1nTkQ4ODBSRHlDRTRIUk44NngtcTNtOC1TV01ZRmsxWW5tQktNaklBa3ZYM0lBclhVZVkwV2lSMl9KajFrTGt4MFcyekRJM1RtYktUak5lOVFQa1BKd0hiTXNwTDVaeEVmaklUWDQ2eXR3Z2VtV3EzaQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 16:09:00 GMT"
+          "published": "Mon, 12 Oct 2026 02:26:15 GMT"
         }
       ]
     },
     {
-      "word": "정부김지용",
+      "word": "개최",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "임은정에 ‘감찰 카드’ 꺼낸 정부…김지용 청문회 앞 ‘내홍 매듭’ 의도 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBVk53SFVqQThydUJIY2RmVlhrUEd3ZDBoYlhJN0Uyd0NUTWZjV3V4THZ4Z1U2cGNmZmR1ZzRxSTBtM1Q1UlFlZXg5X3RvOXpHQVFiTWhmTU5kbWpRcEdremg5aExjeUJ4Z3c?oc=5",
+          "title": "국가안보실, 북 탄도미사일 발사에 긴급상황점검회의 개최 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWMFdvV0MxZW9FQ3VlMFRWdV9naVZ6bk5sOHlkN3B2ZUhiMjRrOEJYS0J0MjBkeXNOQWxoVEh4Wk15WjZGRTFrQkhEbXFBZElGREdYWGJDMmMtUnM0YXRvWXZxVkcxNkFDSzlsSGk0Um5kTEJMNU8yc9IBeEFVX3lxTE1nTkQ4ODBSRHlDRTRIUk44NngtcTNtOC1TV01ZRmsxWW5tQktNaklBa3ZYM0lBclhVZVkwV2lSMl9KajFrTGt4MFcyekRJM1RtYktUak5lOVFQa1BKd0hiTXNwTDVaeEVmaklUWDQ2eXR3Z2VtV3EzaQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 16:09:00 GMT"
+          "published": "Mon, 12 Oct 2026 02:26:15 GMT"
         }
       ]
     },
     {
-      "word": "청문회",
+      "word": "패륜정치",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "임은정에 ‘감찰 카드’ 꺼낸 정부…김지용 청문회 앞 ‘내홍 매듭’ 의도 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBVk53SFVqQThydUJIY2RmVlhrUEd3ZDBoYlhJN0Uyd0NUTWZjV3V4THZ4Z1U2cGNmZmR1ZzRxSTBtM1Q1UlFlZXg5X3RvOXpHQVFiTWhmTU5kbWpRcEdremg5aExjeUJ4Z3c?oc=5",
+          "title": "패륜정치 비판에 국감 제척까지···‘이진숙 국감’된 과방위 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4taDYwenNVbW0zZTZDWGlFOFFYemRYTUFyYmctLXhNNnZieFo1SDdxQzU2aUlLMEQ0OXRLelpqT2c3eGN0TGZNRXJ5d1FxNm5KRTVUaThCUnBHUdIBX0FVX3lxTFA0akVFUFplRlhPNVdBTXRhMDBRMWg5MTcyMGlQenZTR1h1U0JYN2VyWi1ITVdma2FJSDQtWEN2U2d2bUhjRzJQY3FNTkN2SGxvcGdlcEtoVTJHREN5dm5N?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 16:09:00 GMT"
+          "published": "Mon, 12 Oct 2026 08:39:00 GMT"
         }
       ]
     },
     {
-      "word": "내홍",
+      "word": "비판",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "임은정에 ‘감찰 카드’ 꺼낸 정부…김지용 청문회 앞 ‘내홍 매듭’ 의도 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBVk53SFVqQThydUJIY2RmVlhrUEd3ZDBoYlhJN0Uyd0NUTWZjV3V4THZ4Z1U2cGNmZmR1ZzRxSTBtM1Q1UlFlZXg5X3RvOXpHQVFiTWhmTU5kbWpRcEdremg5aExjeUJ4Z3c?oc=5",
+          "title": "패륜정치 비판에 국감 제척까지···‘이진숙 국감’된 과방위 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4taDYwenNVbW0zZTZDWGlFOFFYemRYTUFyYmctLXhNNnZieFo1SDdxQzU2aUlLMEQ0OXRLelpqT2c3eGN0TGZNRXJ5d1FxNm5KRTVUaThCUnBHUdIBX0FVX3lxTFA0akVFUFplRlhPNVdBTXRhMDBRMWg5MTcyMGlQenZTR1h1U0JYN2VyWi1ITVdma2FJSDQtWEN2U2d2bUhjRzJQY3FNTkN2SGxvcGdlcEtoVTJHREN5dm5N?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 16:09:00 GMT"
+          "published": "Mon, 12 Oct 2026 08:39:00 GMT"
         }
       ]
     },
     {
-      "word": "매듭",
+      "word": "제척까지이진숙",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "임은정에 ‘감찰 카드’ 꺼낸 정부…김지용 청문회 앞 ‘내홍 매듭’ 의도 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBVk53SFVqQThydUJIY2RmVlhrUEd3ZDBoYlhJN0Uyd0NUTWZjV3V4THZ4Z1U2cGNmZmR1ZzRxSTBtM1Q1UlFlZXg5X3RvOXpHQVFiTWhmTU5kbWpRcEdremg5aExjeUJ4Z3c?oc=5",
+          "title": "패륜정치 비판에 국감 제척까지···‘이진숙 국감’된 과방위 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4taDYwenNVbW0zZTZDWGlFOFFYemRYTUFyYmctLXhNNnZieFo1SDdxQzU2aUlLMEQ0OXRLelpqT2c3eGN0TGZNRXJ5d1FxNm5KRTVUaThCUnBHUdIBX0FVX3lxTFA0akVFUFplRlhPNVdBTXRhMDBRMWg5MTcyMGlQenZTR1h1U0JYN2VyWi1ITVdma2FJSDQtWEN2U2d2bUhjRzJQY3FNTkN2SGxvcGdlcEtoVTJHREN5dm5N?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 16:09:00 GMT"
+          "published": "Mon, 12 Oct 2026 08:39:00 GMT"
         }
       ]
     },
     {
-      "word": "의도",
+      "word": "과방위",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "임은정에 ‘감찰 카드’ 꺼낸 정부…김지용 청문회 앞 ‘내홍 매듭’ 의도 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBVk53SFVqQThydUJIY2RmVlhrUEd3ZDBoYlhJN0Uyd0NUTWZjV3V4THZ4Z1U2cGNmZmR1ZzRxSTBtM1Q1UlFlZXg5X3RvOXpHQVFiTWhmTU5kbWpRcEdremg5aExjeUJ4Z3c?oc=5",
+          "title": "패륜정치 비판에 국감 제척까지···‘이진숙 국감’된 과방위 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4taDYwenNVbW0zZTZDWGlFOFFYemRYTUFyYmctLXhNNnZieFo1SDdxQzU2aUlLMEQ0OXRLelpqT2c3eGN0TGZNRXJ5d1FxNm5KRTVUaThCUnBHUdIBX0FVX3lxTFA0akVFUFplRlhPNVdBTXRhMDBRMWg5MTcyMGlQenZTR1h1U0JYN2VyWi1ITVdma2FJSDQtWEN2U2d2bUhjRzJQY3FNTkN2SGxvcGdlcEtoVTJHREN5dm5N?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 16:09:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "외교부",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "외교부 \"사우디 출국 권고\"... 트럼프, 후티 공격 검토 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ0hGZ0JLUjNCdE9oNUYwVkJTd2RqWGpfSV9PN1hZMzFuVUtldWNsNWhEd3dJc19VVW1DcDRHNUVlcS1PVDAwMF9wMGxMUkx6cGt3ZEsya1BuRlpLYXBiZnZRcHoweE5JaGIyTDdIRDlEbFRVUFRFQXMyRmY4OWxKcE1HSXM0YlF3NWdYQlZMQU8xSWt0c0FJZTc2ZnZtZw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 12:16:44 GMT"
-        }
-      ]
-    },
-    {
-      "word": "사우디",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "외교부 \"사우디 출국 권고\"... 트럼프, 후티 공격 검토 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ0hGZ0JLUjNCdE9oNUYwVkJTd2RqWGpfSV9PN1hZMzFuVUtldWNsNWhEd3dJc19VVW1DcDRHNUVlcS1PVDAwMF9wMGxMUkx6cGt3ZEsya1BuRlpLYXBiZnZRcHoweE5JaGIyTDdIRDlEbFRVUFRFQXMyRmY4OWxKcE1HSXM0YlF3NWdYQlZMQU8xSWt0c0FJZTc2ZnZtZw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 12:16:44 GMT"
-        }
-      ]
-    },
-    {
-      "word": "출국",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "외교부 \"사우디 출국 권고\"... 트럼프, 후티 공격 검토 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ0hGZ0JLUjNCdE9oNUYwVkJTd2RqWGpfSV9PN1hZMzFuVUtldWNsNWhEd3dJc19VVW1DcDRHNUVlcS1PVDAwMF9wMGxMUkx6cGt3ZEsya1BuRlpLYXBiZnZRcHoweE5JaGIyTDdIRDlEbFRVUFRFQXMyRmY4OWxKcE1HSXM0YlF3NWdYQlZMQU8xSWt0c0FJZTc2ZnZtZw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 12:16:44 GMT"
-        }
-      ]
-    },
-    {
-      "word": "권고",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "외교부 \"사우디 출국 권고\"... 트럼프, 후티 공격 검토 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ0hGZ0JLUjNCdE9oNUYwVkJTd2RqWGpfSV9PN1hZMzFuVUtldWNsNWhEd3dJc19VVW1DcDRHNUVlcS1PVDAwMF9wMGxMUkx6cGt3ZEsya1BuRlpLYXBiZnZRcHoweE5JaGIyTDdIRDlEbFRVUFRFQXMyRmY4OWxKcE1HSXM0YlF3NWdYQlZMQU8xSWt0c0FJZTc2ZnZtZw?oc=5",
-          "source": "Google News",
-          "published": "Sun, 11 Oct 2026 12:16:44 GMT"
+          "published": "Mon, 12 Oct 2026 08:39:00 GMT"
         }
       ]
     },
@@ -582,10 +435,127 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "외교부 \"사우디 출국 권고\"... 트럼프, 후티 공격 검토 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ0hGZ0JLUjNCdE9oNUYwVkJTd2RqWGpfSV9PN1hZMzFuVUtldWNsNWhEd3dJc19VVW1DcDRHNUVlcS1PVDAwMF9wMGxMUkx6cGt3ZEsya1BuRlpLYXBiZnZRcHoweE5JaGIyTDdIRDlEbFRVUFRFQXMyRmY4OWxKcE1HSXM0YlF3NWdYQlZMQU8xSWt0c0FJZTc2ZnZtZw?oc=5",
+          "title": "후티, 사우디 공항 또 공격해 1명 사망·11명 부상…미국은 ‘뒷짐’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPX255SlhqWlhIMndBQTYwUWJnZXUzVmFTVzc4T0tsR0F4aWVSejdta0o1YXJnQ2pzNktpem9DRGwxQm1vai0zWHpnQzUwSGRyRThGRHFiSDItYnk3Q0RRcm5jMUl4SmM4V3pzZW5qOWJzS3c?oc=5",
           "source": "Google News",
-          "published": "Sun, 11 Oct 2026 12:16:44 GMT"
+          "published": "Mon, 12 Oct 2026 06:43:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "사우디",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "후티, 사우디 공항 또 공격해 1명 사망·11명 부상…미국은 ‘뒷짐’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPX255SlhqWlhIMndBQTYwUWJnZXUzVmFTVzc4T0tsR0F4aWVSejdta0o1YXJnQ2pzNktpem9DRGwxQm1vai0zWHpnQzUwSGRyRThGRHFiSDItYnk3Q0RRcm5jMUl4SmM4V3pzZW5qOWJzS3c?oc=5",
+          "source": "Google News",
+          "published": "Mon, 12 Oct 2026 06:43:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "공항",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "후티, 사우디 공항 또 공격해 1명 사망·11명 부상…미국은 ‘뒷짐’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPX255SlhqWlhIMndBQTYwUWJnZXUzVmFTVzc4T0tsR0F4aWVSejdta0o1YXJnQ2pzNktpem9DRGwxQm1vai0zWHpnQzUwSGRyRThGRHFiSDItYnk3Q0RRcm5jMUl4SmM4V3pzZW5qOWJzS3c?oc=5",
+          "source": "Google News",
+          "published": "Mon, 12 Oct 2026 06:43:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "공격해",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "후티, 사우디 공항 또 공격해 1명 사망·11명 부상…미국은 ‘뒷짐’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPX255SlhqWlhIMndBQTYwUWJnZXUzVmFTVzc4T0tsR0F4aWVSejdta0o1YXJnQ2pzNktpem9DRGwxQm1vai0zWHpnQzUwSGRyRThGRHFiSDItYnk3Q0RRcm5jMUl4SmM4V3pzZW5qOWJzS3c?oc=5",
+          "source": "Google News",
+          "published": "Mon, 12 Oct 2026 06:43:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "1명",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "후티, 사우디 공항 또 공격해 1명 사망·11명 부상…미국은 ‘뒷짐’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPX255SlhqWlhIMndBQTYwUWJnZXUzVmFTVzc4T0tsR0F4aWVSejdta0o1YXJnQ2pzNktpem9DRGwxQm1vai0zWHpnQzUwSGRyRThGRHFiSDItYnk3Q0RRcm5jMUl4SmM4V3pzZW5qOWJzS3c?oc=5",
+          "source": "Google News",
+          "published": "Mon, 12 Oct 2026 06:43:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "사망11명",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "후티, 사우디 공항 또 공격해 1명 사망·11명 부상…미국은 ‘뒷짐’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPX255SlhqWlhIMndBQTYwUWJnZXUzVmFTVzc4T0tsR0F4aWVSejdta0o1YXJnQ2pzNktpem9DRGwxQm1vai0zWHpnQzUwSGRyRThGRHFiSDItYnk3Q0RRcm5jMUl4SmM4V3pzZW5qOWJzS3c?oc=5",
+          "source": "Google News",
+          "published": "Mon, 12 Oct 2026 06:43:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "부상미국",
+      "count": 1,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "후티, 사우디 공항 또 공격해 1명 사망·11명 부상…미국은 ‘뒷짐’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPX255SlhqWlhIMndBQTYwUWJnZXUzVmFTVzc4T0tsR0F4aWVSejdta0o1YXJnQ2pzNktpem9DRGwxQm1vai0zWHpnQzUwSGRyRThGRHFiSDItYnk3Q0RRcm5jMUl4SmM4V3pzZW5qOWJzS3c?oc=5",
+          "source": "Google News",
+          "published": "Mon, 12 Oct 2026 06:43:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "뒷짐",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "후티, 사우디 공항 또 공격해 1명 사망·11명 부상…미국은 ‘뒷짐’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPX255SlhqWlhIMndBQTYwUWJnZXUzVmFTVzc4T0tsR0F4aWVSejdta0o1YXJnQ2pzNktpem9DRGwxQm1vai0zWHpnQzUwSGRyRThGRHFiSDItYnk3Q0RRcm5jMUl4SmM4V3pzZW5qOWJzS3c?oc=5",
+          "source": "Google News",
+          "published": "Mon, 12 Oct 2026 06:43:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "국힘",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "국힘 지지율 41%로 올라, 35%에 그친 민주에 역전 [리얼미터] - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT2hManI1V0VYRnhHVS1tR2JNbDFxQ1pSWXl1TmNHNm9YSGMzUHlJYzVMSEotQ01rSkV5TFlCcWlkYnVETjQwcVRsRlo2dDRmV2I1X2tmbEdjNnlIclVZNmkwUjhDUDlwd1BTNE5TT2JsdFdDTTJITHNmNnRyRlJPcDVrRDRqQQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 12 Oct 2026 00:14:50 GMT"
+        }
+      ]
+    },
+    {
+      "word": "지지율",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "국힘 지지율 41%로 올라, 35%에 그친 민주에 역전 [리얼미터] - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT2hManI1V0VYRnhHVS1tR2JNbDFxQ1pSWXl1TmNHNm9YSGMzUHlJYzVMSEotQ01rSkV5TFlCcWlkYnVETjQwcVRsRlo2dDRmV2I1X2tmbEdjNnlIclVZNmkwUjhDUDlwd1BTNE5TT2JsdFdDTTJITHNmNnRyRlJPcDVrRDRqQQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 12 Oct 2026 00:14:50 GMT"
         }
       ]
     }
