@@ -1,224 +1,373 @@
 {
   "language": "ko",
-  "last_updated": 1791854041.5569954,
+  "last_updated": 1791882843.3476932,
   "count": 40,
   "trends": [
     {
-      "word": "공개",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[단독]김지용 “인사 공개 비판 유의해야”···임은정 인사조치 않고 “함께 하겠다” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUamZCelNHeHFZSEhpNTRTQlJYZHo5cVlibkR0VkxoMWJGdTFEQnVXQ28yaWVKMk9NdEZRNWxaNHNBOGtMUFhOM1U2U1RvZS1zMS1tVVZIVC1wdw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 13 Oct 2026 00:26:00 GMT"
-        },
-        {
-          "title": "우크라, ‘북 포로 한국행 공개’ 사과 거부 시사…“종결된 사안” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEY2RsYmRvODVwajdyeWxnMS1mbTRJY09kckw2aE9CTmNfTTlhTTAzUE40ZjI3TkpoZzAyNngxbkNMVVpRam1TLURfWHRBTE5xMlF3alRkaENyNm9RVGNUdk5jSmxMY1pRSmpF?oc=5",
-          "source": "Google News",
-          "published": "Mon, 12 Oct 2026 17:17:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "정동영",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "강경화 “‘구성’ 발언 후 정동영이 전화…美 협의채널 통해 내용 전달” - 세계일보",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pa1ZMOG9DbGwxSEUtbmhTdzBJMVVoZkVqMmpuMXQwcWZWZkJ3YVFRa0ZGbm5LNGxTUHpuTEstd0MwX0IySWR2akpxMXVWVjlCenBLWUQtUULSAVRBVV95cUxQaDYyNFFkR2o3TXZfZ0o0ekZXMWUxZjU0WVRCS2YzRkVXMzZkMmdIaElNYU8yRmRDejZLWW91RnV4ekxXT1BrUG93NnVnRGxOb0R2MF8?oc=5",
-          "source": "Google News",
-          "published": "Mon, 12 Oct 2026 16:29:27 GMT"
-        },
-        {
-          "title": "與서도 경질론 나온 정동영… \"난 대북 저자세 아닌 정자세\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNHB4Vzg1eWxpY2dfeGlJUFBuRHZVUUNYdy10akFMS0ItVXFrT21Od05VN3dKUUdOdExNYkhyTWoxbTdiR3A0TlhwNVk2bGVHczgzdzZCazZLZldqM2RoTnVkSFM0SWVIYUgyNjJoN0JJXzlLM092S3picjM4LWJkMEJoR2V5cE9wVFB6SDdZOHo?oc=5",
-          "source": "Google News",
-          "published": "Mon, 12 Oct 2026 11:59:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "나온",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "與서도 경질론 나온 정동영… \"난 대북 저자세 아닌 정자세\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNHB4Vzg1eWxpY2dfeGlJUFBuRHZVUUNYdy10akFMS0ItVXFrT21Od05VN3dKUUdOdExNYkhyTWoxbTdiR3A0TlhwNVk2bGVHczgzdzZCazZLZldqM2RoTnVkSFM0SWVIYUgyNjJoN0JJXzlLM092S3picjM4LWJkMEJoR2V5cE9wVFB6SDdZOHo?oc=5",
-          "source": "Google News",
-          "published": "Mon, 12 Oct 2026 11:59:00 GMT"
-        },
-        {
-          "title": "손흥민·이강인 어쩌나…11월 원정설 나온 사우디 '초비상' [영상] - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4amU1bHc3dXJZTTJGQnRRRnMxLXhIR3ZyVlhsWDlqdUt3bURJSm9WZmNWblJwcU9fSWk3QUx5UVM4bkJIMTBROXdGNFVOb05IaXpHS2xISl9EUQ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 12 Oct 2026 06:12:41 GMT"
-        }
-      ]
-    },
-    {
-      "word": "운세",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[지윤철학원의 오늘의 운세] 2026년 10월 13일 화요일 띠별 운세 - 뉴스투데이",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wYzM5WmQxZjEzajZqUWNzWW1jQXR0T3hjQWtfbEFTVjBWZV9oUU9MWmZvZTJZYXBqdGg1bmdlYWpSNnFLbjc1eFhUYWdLcmZtbTB5WUhncV96Y25WREE?oc=5",
-          "source": "Google News",
-          "published": "Mon, 12 Oct 2026 18:33:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "KIA",
-      "count": 2,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "김도영이 끝냈다…‘준PO 직행 티켓’ 거머쥔 KIA - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sUjdiaS1Gbjlab1REMUw5dHBxdTJHODV5YXhFQUNpaG11b3lWMEw0dXhpQkE0Mng2eGFHb0JnZzZxVjI1dFdiTElSS2loNldQTWZWcnY3ekFLZ9IBX0FVX3lxTE0wdGhEX2xFd0JfTDhDdXpFTDc1OGNJOVZRMGdLM0xYZlVwQ25SUWlEUzhxR19TWFUtNkJzUGZUekU0d0tMRmxxb1lwQVhsY29sSVd0bzc0VlFTVHhfWXk4?oc=5",
-          "source": "Google News",
-          "published": "Mon, 12 Oct 2026 13:14:00 GMT"
-        },
-        {
-          "title": "\"감독님 뭔가 달랐다, 잘 웃으시고…\" KIA 승리 뒤에 이범호 감독 변신 있었다, 도대체 무슨 말을 어떻게 했길래 - SPOTV NEWS",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKTHJIT2pEbXU1T3Q4enF0NVplbWFDN3JvSWVJLUNVN0NVdUZRZkdXZVhmcDBSN2RTY1dkUVBDVnhaN29ScG1qcG5mdkY1MnZFbGpHY0Z0aVJjaE1tVzM4T0hXQ2hvb0ktLVlNaTNaMHU?oc=5",
-          "source": "Google News",
-          "published": "Mon, 12 Oct 2026 20:45:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "단독김지용",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[단독]김지용 “인사 공개 비판 유의해야”···임은정 인사조치 않고 “함께 하겠다” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUamZCelNHeHFZSEhpNTRTQlJYZHo5cVlibkR0VkxoMWJGdTFEQnVXQ28yaWVKMk9NdEZRNWxaNHNBOGtMUFhOM1U2U1RvZS1zMS1tVVZIVC1wdw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 13 Oct 2026 00:26:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "인사",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[단독]김지용 “인사 공개 비판 유의해야”···임은정 인사조치 않고 “함께 하겠다” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUamZCelNHeHFZSEhpNTRTQlJYZHo5cVlibkR0VkxoMWJGdTFEQnVXQ28yaWVKMk9NdEZRNWxaNHNBOGtMUFhOM1U2U1RvZS1zMS1tVVZIVC1wdw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 13 Oct 2026 00:26:00 GMT"
-        }
-      ]
-    },
-    {
       "word": "비판",
-      "count": 1,
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[단독]김지용 “인사 공개 비판 유의해야”···임은정 인사조치 않고 “함께 하겠다” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUamZCelNHeHFZSEhpNTRTQlJYZHo5cVlibkR0VkxoMWJGdTFEQnVXQ28yaWVKMk9NdEZRNWxaNHNBOGtMUFhOM1U2U1RvZS1zMS1tVVZIVC1wdw?oc=5",
+          "title": "’총살형 생중계’ 비판 봇물…트럼프 “무산될 수도“ - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92QWt4MmZyNzNSTVhBdHY2UkVEV0tQOGxOSmdPQU9oa1UzUDZsYmdneXlzMlVZcTlUbmFHUXRhdzVJcFhyUHlWNzMwVlpCM2Jxa0VxOVR0VkdJRm5qSTU0cjc5QzZROEU?oc=5",
           "source": "Google News",
-          "published": "Tue, 13 Oct 2026 00:26:00 GMT"
+          "published": "Tue, 13 Oct 2026 04:39:00 GMT"
+        },
+        {
+          "title": "중수청장 후보자 “임은정 공개 비판, 조직 기강 무너뜨리는 행위” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE05Wk1MWDI3T2dkSkVvVlZwQ3hLM25kRzA1Tk45cndvM09mRFBxd1lXOEdoMjVTeUVmMDlOWWJHeDhwTzRLZnZhbW00VFp4YkpWdHd1a0JiakxGeTJzLVl1UnBOM1ZIRTd2SjN5OEJlX3JOQQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 13 Oct 2026 05:16:00 GMT"
         }
       ]
     },
     {
-      "word": "유의해야임은정",
-      "count": 1,
+      "word": "보니",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[단독]김지용 “인사 공개 비판 유의해야”···임은정 인사조치 않고 “함께 하겠다” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUamZCelNHeHFZSEhpNTRTQlJYZHo5cVlibkR0VkxoMWJGdTFEQnVXQ28yaWVKMk9NdEZRNWxaNHNBOGtMUFhOM1U2U1RvZS1zMS1tVVZIVC1wdw?oc=5",
+          "title": "\"온통 회색뿐? 가까이 보니 노랑·초록·갈색\"… 아르테미스 2호가 본 달의 빛깔 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLUJncjhoRlJmUXBGRW05aDVIODJpUS1PT1N2aDhWR2xZQ1JCTXMxVExKT2ZCNTVHMmhMUTJZZkIxc19VWmpkU0tic3doSFJ6WGZqMTdBdElFdjFUellUdldvcmRWX0RfR1ZpZ1BEclVtRThxaXUxM0VzWWswNXBJSUQyUQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 13 Oct 2026 00:26:00 GMT"
+          "published": "Tue, 13 Oct 2026 07:10:00 GMT"
+        },
+        {
+          "title": "엄마가 시장에서 사 온 ‘대하’, 알고 보니 흰다리새우? [FOOD+] - 세계일보",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IWTRnMV9QNHZBUEZQNG5OZDNJb0VpV3dYeE5zUmFkUTVqZlhsOXR1c0JUWGF2SFh2TkpDNzN4NjBKb0E2Zzlzc0s1cFJmMTBGZUJhSl9vNGTSAVRBVV95cUxOQkUzbkRTR1lBaXBZLUZhWWx3V0Vhc2ZISEN2b3p4SGhhejdCTVUzbkFObTB0bW9ENFltVWdCaGdkTlp3Sk1Tb2NuT2pqVWdLTE5pM0Q?oc=5",
+          "source": "Google News",
+          "published": "Tue, 13 Oct 2026 02:00:00 GMT"
         }
       ]
     },
     {
-      "word": "인사조치",
-      "count": 1,
+      "word": "경찰",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[단독]김지용 “인사 공개 비판 유의해야”···임은정 인사조치 않고 “함께 하겠다” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUamZCelNHeHFZSEhpNTRTQlJYZHo5cVlibkR0VkxoMWJGdTFEQnVXQ28yaWVKMk9NdEZRNWxaNHNBOGtMUFhOM1U2U1RvZS1zMS1tVVZIVC1wdw?oc=5",
+          "title": "경찰, '암살자(들)' 역사 왜곡 논란 고발인 조사… 본격 수사 착수 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40OFpPTlVwUmtKWk5sSFY5WC1IaGkwbUFhTGpnS0R3d3pCZ21KcEM5VTMwVElyZFhhNVVnWUE5MVpfTkxudDNaMEt4UHBZZE5xNlE1dmphOXdLUQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 13 Oct 2026 00:26:00 GMT"
+          "published": "Tue, 13 Oct 2026 08:26:48 GMT"
+        },
+        {
+          "title": "'2016년 카톡' 상대, 김수현 아니었다 … 경찰, 故 김새론 카톡 원본서 '연예인 A씨' 실명 찾아 - 뉴데일리",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tZzNsSUFrQkJtVFdHal9zQmRDd2ZHQkNxMzlrQjQxcGczZ1VGSWRaS0dMWVpwUG9FN1puTkEybFNONGZCaFBlQldGSGtMMm92TWlYV25qUG8wd1hBYmVGamtBMHlxYlJrYzRFR09DR2c2UDBOYXgwUTBpVdIBgAFBVV95cUxPd1RXRzNWYkVHLTBFaUdFeDRBS09JYVpSbTlOUjdmVjlhM2k2VnJDTUsycGpTaU9ORG91UHBJTl95ZFhtdXc2UzZabUVxbm5ScU1nQnp2U1lSY0pPVklhOUhWUVEwM05xUTFiLWptdlU1TDJhUWt3M25QbGhFWkpvYQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 13 Oct 2026 04:45:44 GMT"
         }
       ]
     },
     {
-      "word": "않고",
-      "count": 1,
+      "word": "암살자",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[단독]김지용 “인사 공개 비판 유의해야”···임은정 인사조치 않고 “함께 하겠다” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUamZCelNHeHFZSEhpNTRTQlJYZHo5cVlibkR0VkxoMWJGdTFEQnVXQ28yaWVKMk9NdEZRNWxaNHNBOGtMUFhOM1U2U1RvZS1zMS1tVVZIVC1wdw?oc=5",
+          "title": "경찰, '암살자(들)' 역사 왜곡 논란 고발인 조사… 본격 수사 착수 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40OFpPTlVwUmtKWk5sSFY5WC1IaGkwbUFhTGpnS0R3d3pCZ21KcEM5VTMwVElyZFhhNVVnWUE5MVpfTkxudDNaMEt4UHBZZE5xNlE1dmphOXdLUQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 13 Oct 2026 00:26:00 GMT"
+          "published": "Tue, 13 Oct 2026 08:26:48 GMT"
+        },
+        {
+          "title": "‘암살자(들)’ 논란에 콘텐츠진흥원장 “영화는 상상력 펼치는 공간” - 채널A",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FS1kxZC1WRFRGN2xEWUNxZERsSGdleEg2N1I5QnRlZWRnNXlXSmkxT1hQdV84NXMwRy0xN2JfTWVqVzcwMm14cC1xTWhmNV9xREVwcnFJZVk0ckRrSkHSAWNBVV95cUxNbWZrSE41bFU3MkJhWURQc0xqVWVuOWdNLVpJaUlVUnZvQUJtLXRXZ0Z2UndCa1NVWFR5NVRuRjc0anZITVV5QjkxV0Z0YWFPTW52NHpnNkt4dVFFUWJwTzFCakU?oc=5",
+          "source": "Google News",
+          "published": "Tue, 13 Oct 2026 02:08:00 GMT"
         }
       ]
     },
     {
-      "word": "함께",
-      "count": 1,
+      "word": "논란",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[단독]김지용 “인사 공개 비판 유의해야”···임은정 인사조치 않고 “함께 하겠다” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUamZCelNHeHFZSEhpNTRTQlJYZHo5cVlibkR0VkxoMWJGdTFEQnVXQ28yaWVKMk9NdEZRNWxaNHNBOGtMUFhOM1U2U1RvZS1zMS1tVVZIVC1wdw?oc=5",
+          "title": "경찰, '암살자(들)' 역사 왜곡 논란 고발인 조사… 본격 수사 착수 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40OFpPTlVwUmtKWk5sSFY5WC1IaGkwbUFhTGpnS0R3d3pCZ21KcEM5VTMwVElyZFhhNVVnWUE5MVpfTkxudDNaMEt4UHBZZE5xNlE1dmphOXdLUQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 13 Oct 2026 00:26:00 GMT"
+          "published": "Tue, 13 Oct 2026 08:26:48 GMT"
+        },
+        {
+          "title": "‘암살자(들)’ 논란에 콘텐츠진흥원장 “영화는 상상력 펼치는 공간” - 채널A",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FS1kxZC1WRFRGN2xEWUNxZERsSGdleEg2N1I5QnRlZWRnNXlXSmkxT1hQdV84NXMwRy0xN2JfTWVqVzcwMm14cC1xTWhmNV9xREVwcnFJZVk0ckRrSkHSAWNBVV95cUxNbWZrSE41bFU3MkJhWURQc0xqVWVuOWdNLVpJaUlVUnZvQUJtLXRXZ0Z2UndCa1NVWFR5NVRuRjc0anZITVV5QjkxV0Z0YWFPTW52NHpnNkt4dVFFUWJwTzFCakU?oc=5",
+          "source": "Google News",
+          "published": "Tue, 13 Oct 2026 02:08:00 GMT"
         }
       ]
     },
     {
-      "word": "하겠다",
-      "count": 1,
+      "word": "카톡",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[단독]김지용 “인사 공개 비판 유의해야”···임은정 인사조치 않고 “함께 하겠다” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUamZCelNHeHFZSEhpNTRTQlJYZHo5cVlibkR0VkxoMWJGdTFEQnVXQ28yaWVKMk9NdEZRNWxaNHNBOGtMUFhOM1U2U1RvZS1zMS1tVVZIVC1wdw?oc=5",
+          "title": "'2016년 카톡' 상대, 김수현 아니었다 … 경찰, 故 김새론 카톡 원본서 '연예인 A씨' 실명 찾아 - 뉴데일리",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tZzNsSUFrQkJtVFdHal9zQmRDd2ZHQkNxMzlrQjQxcGczZ1VGSWRaS0dMWVpwUG9FN1puTkEybFNONGZCaFBlQldGSGtMMm92TWlYV25qUG8wd1hBYmVGamtBMHlxYlJrYzRFR09DR2c2UDBOYXgwUTBpVdIBgAFBVV95cUxPd1RXRzNWYkVHLTBFaUdFeDRBS09JYVpSbTlOUjdmVjlhM2k2VnJDTUsycGpTaU9ORG91UHBJTl95ZFhtdXc2UzZabUVxbm5ScU1nQnp2U1lSY0pPVklhOUhWUVEwM05xUTFiLWptdlU1TDJhUWt3M25QbGhFWkpvYQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 13 Oct 2026 00:26:00 GMT"
+          "published": "Tue, 13 Oct 2026 04:45:44 GMT"
         }
       ]
     },
     {
-      "word": "행안위",
+      "word": "대낮",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "與행안위 양부남 \"추미애, 이제 그만하시라... 김지용, 청문 결과 문제없을 것\" - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zNHFqOERIWjBmSUtLMEhJZlowZjNoSV9hdDBaRGtfVjl6N3pVMG11QW9Jd0tLaG81aUR4UlA3UU9pT3hMOVU5d1VibFJvZ2FFNi01d2hYX3RXOUVFOWc?oc=5",
+          "title": "대낮에 인천서 60대 무차별 흉기 난동···1명 심정지·7명 부상 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2WmNtOVB1bVZMWDNoV0ZQQnBxZTZhT1plUm9PWWxvUm5lT211WkJRXzFTaUU2SHZyLWQ1YnpWLVVlRnVNVWl3RURjUW01NTA3Sm5rUVBPQTlaZ9IBX0FVX3lxTE9WWVdKeVl0WlN1RGJHa0dQOXFCazBLZWhvay1CLVo3RUJWbkJDQnRLZ1owSkZPS0Z3QTVZR0xMclp3M3BkVHFFcEVwd2FYTHRETnllZ0hmVEFrblVXNmgw?oc=5",
           "source": "Google News",
-          "published": "Mon, 12 Oct 2026 22:35:00 GMT"
+          "published": "Tue, 13 Oct 2026 06:40:00 GMT"
         }
       ]
     },
     {
-      "word": "양부남",
+      "word": "인천서",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "與행안위 양부남 \"추미애, 이제 그만하시라... 김지용, 청문 결과 문제없을 것\" - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zNHFqOERIWjBmSUtLMEhJZlowZjNoSV9hdDBaRGtfVjl6N3pVMG11QW9Jd0tLaG81aUR4UlA3UU9pT3hMOVU5d1VibFJvZ2FFNi01d2hYX3RXOUVFOWc?oc=5",
+          "title": "대낮에 인천서 60대 무차별 흉기 난동···1명 심정지·7명 부상 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2WmNtOVB1bVZMWDNoV0ZQQnBxZTZhT1plUm9PWWxvUm5lT211WkJRXzFTaUU2SHZyLWQ1YnpWLVVlRnVNVWl3RURjUW01NTA3Sm5rUVBPQTlaZ9IBX0FVX3lxTE9WWVdKeVl0WlN1RGJHa0dQOXFCazBLZWhvay1CLVo3RUJWbkJDQnRLZ1owSkZPS0Z3QTVZR0xMclp3M3BkVHFFcEVwd2FYTHRETnllZ0hmVEFrblVXNmgw?oc=5",
           "source": "Google News",
-          "published": "Mon, 12 Oct 2026 22:35:00 GMT"
+          "published": "Tue, 13 Oct 2026 06:40:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "60대",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "대낮에 인천서 60대 무차별 흉기 난동···1명 심정지·7명 부상 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2WmNtOVB1bVZMWDNoV0ZQQnBxZTZhT1plUm9PWWxvUm5lT211WkJRXzFTaUU2SHZyLWQ1YnpWLVVlRnVNVWl3RURjUW01NTA3Sm5rUVBPQTlaZ9IBX0FVX3lxTE9WWVdKeVl0WlN1RGJHa0dQOXFCazBLZWhvay1CLVo3RUJWbkJDQnRLZ1owSkZPS0Z3QTVZR0xMclp3M3BkVHFFcEVwd2FYTHRETnllZ0hmVEFrblVXNmgw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 13 Oct 2026 06:40:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "무차별",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "대낮에 인천서 60대 무차별 흉기 난동···1명 심정지·7명 부상 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2WmNtOVB1bVZMWDNoV0ZQQnBxZTZhT1plUm9PWWxvUm5lT211WkJRXzFTaUU2SHZyLWQ1YnpWLVVlRnVNVWl3RURjUW01NTA3Sm5rUVBPQTlaZ9IBX0FVX3lxTE9WWVdKeVl0WlN1RGJHa0dQOXFCazBLZWhvay1CLVo3RUJWbkJDQnRLZ1owSkZPS0Z3QTVZR0xMclp3M3BkVHFFcEVwd2FYTHRETnllZ0hmVEFrblVXNmgw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 13 Oct 2026 06:40:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "흉기",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "대낮에 인천서 60대 무차별 흉기 난동···1명 심정지·7명 부상 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2WmNtOVB1bVZMWDNoV0ZQQnBxZTZhT1plUm9PWWxvUm5lT211WkJRXzFTaUU2SHZyLWQ1YnpWLVVlRnVNVWl3RURjUW01NTA3Sm5rUVBPQTlaZ9IBX0FVX3lxTE9WWVdKeVl0WlN1RGJHa0dQOXFCazBLZWhvay1CLVo3RUJWbkJDQnRLZ1owSkZPS0Z3QTVZR0xMclp3M3BkVHFFcEVwd2FYTHRETnllZ0hmVEFrblVXNmgw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 13 Oct 2026 06:40:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "난동1명",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "대낮에 인천서 60대 무차별 흉기 난동···1명 심정지·7명 부상 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2WmNtOVB1bVZMWDNoV0ZQQnBxZTZhT1plUm9PWWxvUm5lT211WkJRXzFTaUU2SHZyLWQ1YnpWLVVlRnVNVWl3RURjUW01NTA3Sm5rUVBPQTlaZ9IBX0FVX3lxTE9WWVdKeVl0WlN1RGJHa0dQOXFCazBLZWhvay1CLVo3RUJWbkJDQnRLZ1owSkZPS0Z3QTVZR0xMclp3M3BkVHFFcEVwd2FYTHRETnllZ0hmVEFrblVXNmgw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 13 Oct 2026 06:40:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "심정지7명",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "대낮에 인천서 60대 무차별 흉기 난동···1명 심정지·7명 부상 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2WmNtOVB1bVZMWDNoV0ZQQnBxZTZhT1plUm9PWWxvUm5lT211WkJRXzFTaUU2SHZyLWQ1YnpWLVVlRnVNVWl3RURjUW01NTA3Sm5rUVBPQTlaZ9IBX0FVX3lxTE9WWVdKeVl0WlN1RGJHa0dQOXFCazBLZWhvay1CLVo3RUJWbkJDQnRLZ1owSkZPS0Z3QTVZR0xMclp3M3BkVHFFcEVwd2FYTHRETnllZ0hmVEFrblVXNmgw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 13 Oct 2026 06:40:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "부상",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "대낮에 인천서 60대 무차별 흉기 난동···1명 심정지·7명 부상 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2WmNtOVB1bVZMWDNoV0ZQQnBxZTZhT1plUm9PWWxvUm5lT211WkJRXzFTaUU2SHZyLWQ1YnpWLVVlRnVNVWl3RURjUW01NTA3Sm5rUVBPQTlaZ9IBX0FVX3lxTE9WWVdKeVl0WlN1RGJHa0dQOXFCazBLZWhvay1CLVo3RUJWbkJDQnRLZ1owSkZPS0Z3QTVZR0xMclp3M3BkVHFFcEVwd2FYTHRETnllZ0hmVEFrblVXNmgw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 13 Oct 2026 06:40:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "특검",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "특검, ‘대선 허위사실 공표 혐의’ 윤석열 항소심서도 당선무효형 구형 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHZ3hUeXlZcERRVkFnUDFtUl9MWjBPWmhaelBmV0VqYU42dnctOW1RMExQcHhFN0dOOXAyX2lFYUtNQnNCX1JVM25OZ1pwZnJZSW9DN19MTGppblZBcDZGV1YtQWdsdGF6T3R4R3JzM1hudw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 13 Oct 2026 05:44:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "대선",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "특검, ‘대선 허위사실 공표 혐의’ 윤석열 항소심서도 당선무효형 구형 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHZ3hUeXlZcERRVkFnUDFtUl9MWjBPWmhaelBmV0VqYU42dnctOW1RMExQcHhFN0dOOXAyX2lFYUtNQnNCX1JVM25OZ1pwZnJZSW9DN19MTGppblZBcDZGV1YtQWdsdGF6T3R4R3JzM1hudw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 13 Oct 2026 05:44:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "허위사실",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "특검, ‘대선 허위사실 공표 혐의’ 윤석열 항소심서도 당선무효형 구형 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHZ3hUeXlZcERRVkFnUDFtUl9MWjBPWmhaelBmV0VqYU42dnctOW1RMExQcHhFN0dOOXAyX2lFYUtNQnNCX1JVM25OZ1pwZnJZSW9DN19MTGppblZBcDZGV1YtQWdsdGF6T3R4R3JzM1hudw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 13 Oct 2026 05:44:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "공표",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "특검, ‘대선 허위사실 공표 혐의’ 윤석열 항소심서도 당선무효형 구형 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHZ3hUeXlZcERRVkFnUDFtUl9MWjBPWmhaelBmV0VqYU42dnctOW1RMExQcHhFN0dOOXAyX2lFYUtNQnNCX1JVM25OZ1pwZnJZSW9DN19MTGppblZBcDZGV1YtQWdsdGF6T3R4R3JzM1hudw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 13 Oct 2026 05:44:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "혐의",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "특검, ‘대선 허위사실 공표 혐의’ 윤석열 항소심서도 당선무효형 구형 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHZ3hUeXlZcERRVkFnUDFtUl9MWjBPWmhaelBmV0VqYU42dnctOW1RMExQcHhFN0dOOXAyX2lFYUtNQnNCX1JVM25OZ1pwZnJZSW9DN19MTGppblZBcDZGV1YtQWdsdGF6T3R4R3JzM1hudw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 13 Oct 2026 05:44:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "윤석열",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "특검, ‘대선 허위사실 공표 혐의’ 윤석열 항소심서도 당선무효형 구형 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHZ3hUeXlZcERRVkFnUDFtUl9MWjBPWmhaelBmV0VqYU42dnctOW1RMExQcHhFN0dOOXAyX2lFYUtNQnNCX1JVM25OZ1pwZnJZSW9DN19MTGppblZBcDZGV1YtQWdsdGF6T3R4R3JzM1hudw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 13 Oct 2026 05:44:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "항소심서",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "특검, ‘대선 허위사실 공표 혐의’ 윤석열 항소심서도 당선무효형 구형 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHZ3hUeXlZcERRVkFnUDFtUl9MWjBPWmhaelBmV0VqYU42dnctOW1RMExQcHhFN0dOOXAyX2lFYUtNQnNCX1JVM25OZ1pwZnJZSW9DN19MTGppblZBcDZGV1YtQWdsdGF6T3R4R3JzM1hudw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 13 Oct 2026 05:44:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "당선무효형",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "특검, ‘대선 허위사실 공표 혐의’ 윤석열 항소심서도 당선무효형 구형 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHZ3hUeXlZcERRVkFnUDFtUl9MWjBPWmhaelBmV0VqYU42dnctOW1RMExQcHhFN0dOOXAyX2lFYUtNQnNCX1JVM25OZ1pwZnJZSW9DN19MTGppblZBcDZGV1YtQWdsdGF6T3R4R3JzM1hudw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 13 Oct 2026 05:44:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "구형",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "특검, ‘대선 허위사실 공표 혐의’ 윤석열 항소심서도 당선무효형 구형 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHZ3hUeXlZcERRVkFnUDFtUl9MWjBPWmhaelBmV0VqYU42dnctOW1RMExQcHhFN0dOOXAyX2lFYUtNQnNCX1JVM25OZ1pwZnJZSW9DN19MTGppblZBcDZGV1YtQWdsdGF6T3R4R3JzM1hudw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 13 Oct 2026 05:44:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "재정",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘재정 비상’ 선언 추미애… 경기도 국감서 민주당과 충돌 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN0RZaWVHXzVDWkhmSEZYZmd3RHRtay1VYTJUTU1PQkc0ZVh6cnBBdWtlWGJ1eGF5U2FKbDRwdWlRZ3NMM3lpWHFUR1dlWGt5Q1A3QUVMUGt4N25Gckt5VWtXM1MyWW82TmRiNEF0b0c5QWEtWDBsamdWTktTOFNOLU9yWXZRWUxGUEROQ09aREQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 13 Oct 2026 05:33:21 GMT"
+        }
+      ]
+    },
+    {
+      "word": "비상",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘재정 비상’ 선언 추미애… 경기도 국감서 민주당과 충돌 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN0RZaWVHXzVDWkhmSEZYZmd3RHRtay1VYTJUTU1PQkc0ZVh6cnBBdWtlWGJ1eGF5U2FKbDRwdWlRZ3NMM3lpWHFUR1dlWGt5Q1A3QUVMUGt4N25Gckt5VWtXM1MyWW82TmRiNEF0b0c5QWEtWDBsamdWTktTOFNOLU9yWXZRWUxGUEROQ09aREQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 13 Oct 2026 05:33:21 GMT"
+        }
+      ]
+    },
+    {
+      "word": "선언",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘재정 비상’ 선언 추미애… 경기도 국감서 민주당과 충돌 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN0RZaWVHXzVDWkhmSEZYZmd3RHRtay1VYTJUTU1PQkc0ZVh6cnBBdWtlWGJ1eGF5U2FKbDRwdWlRZ3NMM3lpWHFUR1dlWGt5Q1A3QUVMUGt4N25Gckt5VWtXM1MyWW82TmRiNEF0b0c5QWEtWDBsamdWTktTOFNOLU9yWXZRWUxGUEROQ09aREQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 13 Oct 2026 05:33:21 GMT"
         }
       ]
     },
@@ -228,322 +377,179 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "與행안위 양부남 \"추미애, 이제 그만하시라... 김지용, 청문 결과 문제없을 것\" - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zNHFqOERIWjBmSUtLMEhJZlowZjNoSV9hdDBaRGtfVjl6N3pVMG11QW9Jd0tLaG81aUR4UlA3UU9pT3hMOVU5d1VibFJvZ2FFNi01d2hYX3RXOUVFOWc?oc=5",
+          "title": "‘재정 비상’ 선언 추미애… 경기도 국감서 민주당과 충돌 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN0RZaWVHXzVDWkhmSEZYZmd3RHRtay1VYTJUTU1PQkc0ZVh6cnBBdWtlWGJ1eGF5U2FKbDRwdWlRZ3NMM3lpWHFUR1dlWGt5Q1A3QUVMUGt4N25Gckt5VWtXM1MyWW82TmRiNEF0b0c5QWEtWDBsamdWTktTOFNOLU9yWXZRWUxGUEROQ09aREQ?oc=5",
           "source": "Google News",
-          "published": "Mon, 12 Oct 2026 22:35:00 GMT"
+          "published": "Tue, 13 Oct 2026 05:33:21 GMT"
         }
       ]
     },
     {
-      "word": "이제",
+      "word": "경기",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "與행안위 양부남 \"추미애, 이제 그만하시라... 김지용, 청문 결과 문제없을 것\" - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zNHFqOERIWjBmSUtLMEhJZlowZjNoSV9hdDBaRGtfVjl6N3pVMG11QW9Jd0tLaG81aUR4UlA3UU9pT3hMOVU5d1VibFJvZ2FFNi01d2hYX3RXOUVFOWc?oc=5",
+          "title": "‘재정 비상’ 선언 추미애… 경기도 국감서 민주당과 충돌 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN0RZaWVHXzVDWkhmSEZYZmd3RHRtay1VYTJUTU1PQkc0ZVh6cnBBdWtlWGJ1eGF5U2FKbDRwdWlRZ3NMM3lpWHFUR1dlWGt5Q1A3QUVMUGt4N25Gckt5VWtXM1MyWW82TmRiNEF0b0c5QWEtWDBsamdWTktTOFNOLU9yWXZRWUxGUEROQ09aREQ?oc=5",
           "source": "Google News",
-          "published": "Mon, 12 Oct 2026 22:35:00 GMT"
+          "published": "Tue, 13 Oct 2026 05:33:21 GMT"
         }
       ]
     },
     {
-      "word": "그만하시",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "與행안위 양부남 \"추미애, 이제 그만하시라... 김지용, 청문 결과 문제없을 것\" - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zNHFqOERIWjBmSUtLMEhJZlowZjNoSV9hdDBaRGtfVjl6N3pVMG11QW9Jd0tLaG81aUR4UlA3UU9pT3hMOVU5d1VibFJvZ2FFNi01d2hYX3RXOUVFOWc?oc=5",
-          "source": "Google News",
-          "published": "Mon, 12 Oct 2026 22:35:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "김지용",
+      "word": "국감서",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "與행안위 양부남 \"추미애, 이제 그만하시라... 김지용, 청문 결과 문제없을 것\" - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zNHFqOERIWjBmSUtLMEhJZlowZjNoSV9hdDBaRGtfVjl6N3pVMG11QW9Jd0tLaG81aUR4UlA3UU9pT3hMOVU5d1VibFJvZ2FFNi01d2hYX3RXOUVFOWc?oc=5",
+          "title": "‘재정 비상’ 선언 추미애… 경기도 국감서 민주당과 충돌 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN0RZaWVHXzVDWkhmSEZYZmd3RHRtay1VYTJUTU1PQkc0ZVh6cnBBdWtlWGJ1eGF5U2FKbDRwdWlRZ3NMM3lpWHFUR1dlWGt5Q1A3QUVMUGt4N25Gckt5VWtXM1MyWW82TmRiNEF0b0c5QWEtWDBsamdWTktTOFNOLU9yWXZRWUxGUEROQ09aREQ?oc=5",
           "source": "Google News",
-          "published": "Mon, 12 Oct 2026 22:35:00 GMT"
+          "published": "Tue, 13 Oct 2026 05:33:21 GMT"
         }
       ]
     },
     {
-      "word": "청문",
+      "word": "민주당",
+      "count": 1,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "‘재정 비상’ 선언 추미애… 경기도 국감서 민주당과 충돌 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN0RZaWVHXzVDWkhmSEZYZmd3RHRtay1VYTJUTU1PQkc0ZVh6cnBBdWtlWGJ1eGF5U2FKbDRwdWlRZ3NMM3lpWHFUR1dlWGt5Q1A3QUVMUGt4N25Gckt5VWtXM1MyWW82TmRiNEF0b0c5QWEtWDBsamdWTktTOFNOLU9yWXZRWUxGUEROQ09aREQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 13 Oct 2026 05:33:21 GMT"
+        }
+      ]
+    },
+    {
+      "word": "충돌",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "與행안위 양부남 \"추미애, 이제 그만하시라... 김지용, 청문 결과 문제없을 것\" - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zNHFqOERIWjBmSUtLMEhJZlowZjNoSV9hdDBaRGtfVjl6N3pVMG11QW9Jd0tLaG81aUR4UlA3UU9pT3hMOVU5d1VibFJvZ2FFNi01d2hYX3RXOUVFOWc?oc=5",
+          "title": "‘재정 비상’ 선언 추미애… 경기도 국감서 민주당과 충돌 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN0RZaWVHXzVDWkhmSEZYZmd3RHRtay1VYTJUTU1PQkc0ZVh6cnBBdWtlWGJ1eGF5U2FKbDRwdWlRZ3NMM3lpWHFUR1dlWGt5Q1A3QUVMUGt4N25Gckt5VWtXM1MyWW82TmRiNEF0b0c5QWEtWDBsamdWTktTOFNOLU9yWXZRWUxGUEROQ09aREQ?oc=5",
           "source": "Google News",
-          "published": "Mon, 12 Oct 2026 22:35:00 GMT"
+          "published": "Tue, 13 Oct 2026 05:33:21 GMT"
         }
       ]
     },
     {
-      "word": "문제없",
+      "word": "자녀",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "與행안위 양부남 \"추미애, 이제 그만하시라... 김지용, 청문 결과 문제없을 것\" - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zNHFqOERIWjBmSUtLMEhJZlowZjNoSV9hdDBaRGtfVjl6N3pVMG11QW9Jd0tLaG81aUR4UlA3UU9pT3hMOVU5d1VibFJvZ2FFNi01d2hYX3RXOUVFOWc?oc=5",
+          "title": "“자녀 교육·주거 어쩌나”…세종 이전 앞둔 공무원들 고민 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kazRRRkpka1A1ODVsalBtbmt1YllTMkRYZmxHcExRdXctMmdEQ2s2NndHY2pVRXh4YnozX0g0U1R0a201VHQ5N0xSa1RkSzdqbW03bUtRU2RkeDlERHRVUXFIVW5XNFBLaVJVeTlibTFmb2JB?oc=5",
           "source": "Google News",
-          "published": "Mon, 12 Oct 2026 22:35:00 GMT"
+          "published": "Tue, 13 Oct 2026 08:16:00 GMT"
         }
       ]
     },
     {
-      "word": "11월",
+      "word": "교육주거",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "11월 북미 정상회담?...트럼프 \"김정은과 잘 지내고 있다\" - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXRTBORGxuTTVtMms1b0RUNDZGci0tMUVTdTlEcDU1WG5pS1RGemlaNUVRTl84ZGlYZ0tKQ0pza1Vpc2taOE82YldoTVRuVDBzVS1NSXptRzh4Ml8zYlFFVmhnS2ZfMlRV0gFuQVVfeXFMTnE3MEZ0Sm5PNTRENGc5QktycDA4OWxtQWVHaTg5SWFIckpVMFVGOVlpRjVKQzV4enVjbWJBT1N3ek9QcmlGZ3NDLTdlMXQ1S0habFFsaWF3djhlUjlNWE9kMWJjbmZNTWRBTHBQWHc?oc=5",
+          "title": "“자녀 교육·주거 어쩌나”…세종 이전 앞둔 공무원들 고민 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kazRRRkpka1A1ODVsalBtbmt1YllTMkRYZmxHcExRdXctMmdEQ2s2NndHY2pVRXh4YnozX0g0U1R0a201VHQ5N0xSa1RkSzdqbW03bUtRU2RkeDlERHRVUXFIVW5XNFBLaVJVeTlibTFmb2JB?oc=5",
           "source": "Google News",
-          "published": "Mon, 12 Oct 2026 23:10:48 GMT"
+          "published": "Tue, 13 Oct 2026 08:16:00 GMT"
         }
       ]
     },
     {
-      "word": "북미",
+      "word": "어쩌나세종",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "11월 북미 정상회담?...트럼프 \"김정은과 잘 지내고 있다\" - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXRTBORGxuTTVtMms1b0RUNDZGci0tMUVTdTlEcDU1WG5pS1RGemlaNUVRTl84ZGlYZ0tKQ0pza1Vpc2taOE82YldoTVRuVDBzVS1NSXptRzh4Ml8zYlFFVmhnS2ZfMlRV0gFuQVVfeXFMTnE3MEZ0Sm5PNTRENGc5QktycDA4OWxtQWVHaTg5SWFIckpVMFVGOVlpRjVKQzV4enVjbWJBT1N3ek9QcmlGZ3NDLTdlMXQ1S0habFFsaWF3djhlUjlNWE9kMWJjbmZNTWRBTHBQWHc?oc=5",
+          "title": "“자녀 교육·주거 어쩌나”…세종 이전 앞둔 공무원들 고민 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kazRRRkpka1A1ODVsalBtbmt1YllTMkRYZmxHcExRdXctMmdEQ2s2NndHY2pVRXh4YnozX0g0U1R0a201VHQ5N0xSa1RkSzdqbW03bUtRU2RkeDlERHRVUXFIVW5XNFBLaVJVeTlibTFmb2JB?oc=5",
           "source": "Google News",
-          "published": "Mon, 12 Oct 2026 23:10:48 GMT"
+          "published": "Tue, 13 Oct 2026 08:16:00 GMT"
         }
       ]
     },
     {
-      "word": "정상회담트럼프",
+      "word": "앞둔",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "11월 북미 정상회담?...트럼프 \"김정은과 잘 지내고 있다\" - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXRTBORGxuTTVtMms1b0RUNDZGci0tMUVTdTlEcDU1WG5pS1RGemlaNUVRTl84ZGlYZ0tKQ0pza1Vpc2taOE82YldoTVRuVDBzVS1NSXptRzh4Ml8zYlFFVmhnS2ZfMlRV0gFuQVVfeXFMTnE3MEZ0Sm5PNTRENGc5QktycDA4OWxtQWVHaTg5SWFIckpVMFVGOVlpRjVKQzV4enVjbWJBT1N3ek9QcmlGZ3NDLTdlMXQ1S0habFFsaWF3djhlUjlNWE9kMWJjbmZNTWRBTHBQWHc?oc=5",
+          "title": "“자녀 교육·주거 어쩌나”…세종 이전 앞둔 공무원들 고민 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kazRRRkpka1A1ODVsalBtbmt1YllTMkRYZmxHcExRdXctMmdEQ2s2NndHY2pVRXh4YnozX0g0U1R0a201VHQ5N0xSa1RkSzdqbW03bUtRU2RkeDlERHRVUXFIVW5XNFBLaVJVeTlibTFmb2JB?oc=5",
           "source": "Google News",
-          "published": "Mon, 12 Oct 2026 23:10:48 GMT"
+          "published": "Tue, 13 Oct 2026 08:16:00 GMT"
         }
       ]
     },
     {
-      "word": "김정",
+      "word": "공무원",
+      "count": 1,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "“자녀 교육·주거 어쩌나”…세종 이전 앞둔 공무원들 고민 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kazRRRkpka1A1ODVsalBtbmt1YllTMkRYZmxHcExRdXctMmdEQ2s2NndHY2pVRXh4YnozX0g0U1R0a201VHQ5N0xSa1RkSzdqbW03bUtRU2RkeDlERHRVUXFIVW5XNFBLaVJVeTlibTFmb2JB?oc=5",
+          "source": "Google News",
+          "published": "Tue, 13 Oct 2026 08:16:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "고민",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "11월 북미 정상회담?...트럼프 \"김정은과 잘 지내고 있다\" - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXRTBORGxuTTVtMms1b0RUNDZGci0tMUVTdTlEcDU1WG5pS1RGemlaNUVRTl84ZGlYZ0tKQ0pza1Vpc2taOE82YldoTVRuVDBzVS1NSXptRzh4Ml8zYlFFVmhnS2ZfMlRV0gFuQVVfeXFMTnE3MEZ0Sm5PNTRENGc5QktycDA4OWxtQWVHaTg5SWFIckpVMFVGOVlpRjVKQzV4enVjbWJBT1N3ek9QcmlGZ3NDLTdlMXQ1S0habFFsaWF3djhlUjlNWE9kMWJjbmZNTWRBTHBQWHc?oc=5",
+          "title": "“자녀 교육·주거 어쩌나”…세종 이전 앞둔 공무원들 고민 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kazRRRkpka1A1ODVsalBtbmt1YllTMkRYZmxHcExRdXctMmdEQ2s2NndHY2pVRXh4YnozX0g0U1R0a201VHQ5N0xSa1RkSzdqbW03bUtRU2RkeDlERHRVUXFIVW5XNFBLaVJVeTlibTFmb2JB?oc=5",
           "source": "Google News",
-          "published": "Mon, 12 Oct 2026 23:10:48 GMT"
+          "published": "Tue, 13 Oct 2026 08:16:00 GMT"
         }
       ]
     },
     {
-      "word": "지내",
+      "word": "총살형",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "11월 북미 정상회담?...트럼프 \"김정은과 잘 지내고 있다\" - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXRTBORGxuTTVtMms1b0RUNDZGci0tMUVTdTlEcDU1WG5pS1RGemlaNUVRTl84ZGlYZ0tKQ0pza1Vpc2taOE82YldoTVRuVDBzVS1NSXptRzh4Ml8zYlFFVmhnS2ZfMlRV0gFuQVVfeXFMTnE3MEZ0Sm5PNTRENGc5QktycDA4OWxtQWVHaTg5SWFIckpVMFVGOVlpRjVKQzV4enVjbWJBT1N3ek9QcmlGZ3NDLTdlMXQ1S0habFFsaWF3djhlUjlNWE9kMWJjbmZNTWRBTHBQWHc?oc=5",
+          "title": "’총살형 생중계’ 비판 봇물…트럼프 “무산될 수도“ - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92QWt4MmZyNzNSTVhBdHY2UkVEV0tQOGxOSmdPQU9oa1UzUDZsYmdneXlzMlVZcTlUbmFHUXRhdzVJcFhyUHlWNzMwVlpCM2Jxa0VxOVR0VkdJRm5qSTU0cjc5QzZROEU?oc=5",
           "source": "Google News",
-          "published": "Mon, 12 Oct 2026 23:10:48 GMT"
+          "published": "Tue, 13 Oct 2026 04:39:00 GMT"
         }
       ]
     },
     {
-      "word": "있다",
+      "word": "생중계",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "11월 북미 정상회담?...트럼프 \"김정은과 잘 지내고 있다\" - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXRTBORGxuTTVtMms1b0RUNDZGci0tMUVTdTlEcDU1WG5pS1RGemlaNUVRTl84ZGlYZ0tKQ0pza1Vpc2taOE82YldoTVRuVDBzVS1NSXptRzh4Ml8zYlFFVmhnS2ZfMlRV0gFuQVVfeXFMTnE3MEZ0Sm5PNTRENGc5QktycDA4OWxtQWVHaTg5SWFIckpVMFVGOVlpRjVKQzV4enVjbWJBT1N3ek9QcmlGZ3NDLTdlMXQ1S0habFFsaWF3djhlUjlNWE9kMWJjbmZNTWRBTHBQWHc?oc=5",
+          "title": "’총살형 생중계’ 비판 봇물…트럼프 “무산될 수도“ - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92QWt4MmZyNzNSTVhBdHY2UkVEV0tQOGxOSmdPQU9oa1UzUDZsYmdneXlzMlVZcTlUbmFHUXRhdzVJcFhyUHlWNzMwVlpCM2Jxa0VxOVR0VkdJRm5qSTU0cjc5QzZROEU?oc=5",
           "source": "Google News",
-          "published": "Mon, 12 Oct 2026 23:10:48 GMT"
+          "published": "Tue, 13 Oct 2026 04:39:00 GMT"
         }
       ]
     },
     {
-      "word": "완주",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "“완주 직전 쓰러졌다” 서울달리기 20대 여성 사망…미국서도 24세·36세 참가자 숨져 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBheWV4V3BVa3lsZDJEUGpwTGZ5aW5hZFFBdUtocnVIcTl6ck1hTkUzdXQ2ZjQyNmZxamVhWnNZdHpRclpoWnY4Q1doY2sxaE0xVEhkZi1ydWxHUdIBX0FVX3lxTFAtbm40eXozaXFsOFBIalpUMVZ2VmExeGtIUWQ3LV9zbS1EUVktWklaVW9SOGRuOUt6UFFQb1REcXM5YlZIaVp5cVdkZ1pnWWhuMHVDYXhXa0FKc2ZPdVZZ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 12 Oct 2026 23:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "직전",
+      "word": "봇물트럼프",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“완주 직전 쓰러졌다” 서울달리기 20대 여성 사망…미국서도 24세·36세 참가자 숨져 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBheWV4V3BVa3lsZDJEUGpwTGZ5aW5hZFFBdUtocnVIcTl6ck1hTkUzdXQ2ZjQyNmZxamVhWnNZdHpRclpoWnY4Q1doY2sxaE0xVEhkZi1ydWxHUdIBX0FVX3lxTFAtbm40eXozaXFsOFBIalpUMVZ2VmExeGtIUWQ3LV9zbS1EUVktWklaVW9SOGRuOUt6UFFQb1REcXM5YlZIaVp5cVdkZ1pnWWhuMHVDYXhXa0FKc2ZPdVZZ?oc=5",
+          "title": "’총살형 생중계’ 비판 봇물…트럼프 “무산될 수도“ - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92QWt4MmZyNzNSTVhBdHY2UkVEV0tQOGxOSmdPQU9oa1UzUDZsYmdneXlzMlVZcTlUbmFHUXRhdzVJcFhyUHlWNzMwVlpCM2Jxa0VxOVR0VkdJRm5qSTU0cjc5QzZROEU?oc=5",
           "source": "Google News",
-          "published": "Mon, 12 Oct 2026 23:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "쓰러졌다",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“완주 직전 쓰러졌다” 서울달리기 20대 여성 사망…미국서도 24세·36세 참가자 숨져 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBheWV4V3BVa3lsZDJEUGpwTGZ5aW5hZFFBdUtocnVIcTl6ck1hTkUzdXQ2ZjQyNmZxamVhWnNZdHpRclpoWnY4Q1doY2sxaE0xVEhkZi1ydWxHUdIBX0FVX3lxTFAtbm40eXozaXFsOFBIalpUMVZ2VmExeGtIUWQ3LV9zbS1EUVktWklaVW9SOGRuOUt6UFFQb1REcXM5YlZIaVp5cVdkZ1pnWWhuMHVDYXhXa0FKc2ZPdVZZ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 12 Oct 2026 23:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "서울달리기",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“완주 직전 쓰러졌다” 서울달리기 20대 여성 사망…미국서도 24세·36세 참가자 숨져 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBheWV4V3BVa3lsZDJEUGpwTGZ5aW5hZFFBdUtocnVIcTl6ck1hTkUzdXQ2ZjQyNmZxamVhWnNZdHpRclpoWnY4Q1doY2sxaE0xVEhkZi1ydWxHUdIBX0FVX3lxTFAtbm40eXozaXFsOFBIalpUMVZ2VmExeGtIUWQ3LV9zbS1EUVktWklaVW9SOGRuOUt6UFFQb1REcXM5YlZIaVp5cVdkZ1pnWWhuMHVDYXhXa0FKc2ZPdVZZ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 12 Oct 2026 23:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "20대",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“완주 직전 쓰러졌다” 서울달리기 20대 여성 사망…미국서도 24세·36세 참가자 숨져 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBheWV4V3BVa3lsZDJEUGpwTGZ5aW5hZFFBdUtocnVIcTl6ck1hTkUzdXQ2ZjQyNmZxamVhWnNZdHpRclpoWnY4Q1doY2sxaE0xVEhkZi1ydWxHUdIBX0FVX3lxTFAtbm40eXozaXFsOFBIalpUMVZ2VmExeGtIUWQ3LV9zbS1EUVktWklaVW9SOGRuOUt6UFFQb1REcXM5YlZIaVp5cVdkZ1pnWWhuMHVDYXhXa0FKc2ZPdVZZ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 12 Oct 2026 23:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "여성",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“완주 직전 쓰러졌다” 서울달리기 20대 여성 사망…미국서도 24세·36세 참가자 숨져 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBheWV4V3BVa3lsZDJEUGpwTGZ5aW5hZFFBdUtocnVIcTl6ck1hTkUzdXQ2ZjQyNmZxamVhWnNZdHpRclpoWnY4Q1doY2sxaE0xVEhkZi1ydWxHUdIBX0FVX3lxTFAtbm40eXozaXFsOFBIalpUMVZ2VmExeGtIUWQ3LV9zbS1EUVktWklaVW9SOGRuOUt6UFFQb1REcXM5YlZIaVp5cVdkZ1pnWWhuMHVDYXhXa0FKc2ZPdVZZ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 12 Oct 2026 23:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "사망미국서",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“완주 직전 쓰러졌다” 서울달리기 20대 여성 사망…미국서도 24세·36세 참가자 숨져 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBheWV4V3BVa3lsZDJEUGpwTGZ5aW5hZFFBdUtocnVIcTl6ck1hTkUzdXQ2ZjQyNmZxamVhWnNZdHpRclpoWnY4Q1doY2sxaE0xVEhkZi1ydWxHUdIBX0FVX3lxTFAtbm40eXozaXFsOFBIalpUMVZ2VmExeGtIUWQ3LV9zbS1EUVktWklaVW9SOGRuOUt6UFFQb1REcXM5YlZIaVp5cVdkZ1pnWWhuMHVDYXhXa0FKc2ZPdVZZ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 12 Oct 2026 23:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "24세36세",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“완주 직전 쓰러졌다” 서울달리기 20대 여성 사망…미국서도 24세·36세 참가자 숨져 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBheWV4V3BVa3lsZDJEUGpwTGZ5aW5hZFFBdUtocnVIcTl6ck1hTkUzdXQ2ZjQyNmZxamVhWnNZdHpRclpoWnY4Q1doY2sxaE0xVEhkZi1ydWxHUdIBX0FVX3lxTFAtbm40eXozaXFsOFBIalpUMVZ2VmExeGtIUWQ3LV9zbS1EUVktWklaVW9SOGRuOUt6UFFQb1REcXM5YlZIaVp5cVdkZ1pnWWhuMHVDYXhXa0FKc2ZPdVZZ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 12 Oct 2026 23:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "참가자",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“완주 직전 쓰러졌다” 서울달리기 20대 여성 사망…미국서도 24세·36세 참가자 숨져 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBheWV4V3BVa3lsZDJEUGpwTGZ5aW5hZFFBdUtocnVIcTl6ck1hTkUzdXQ2ZjQyNmZxamVhWnNZdHpRclpoWnY4Q1doY2sxaE0xVEhkZi1ydWxHUdIBX0FVX3lxTFAtbm40eXozaXFsOFBIalpUMVZ2VmExeGtIUWQ3LV9zbS1EUVktWklaVW9SOGRuOUt6UFFQb1REcXM5YlZIaVp5cVdkZ1pnWWhuMHVDYXhXa0FKc2ZPdVZZ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 12 Oct 2026 23:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "숨져",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“완주 직전 쓰러졌다” 서울달리기 20대 여성 사망…미국서도 24세·36세 참가자 숨져 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBheWV4V3BVa3lsZDJEUGpwTGZ5aW5hZFFBdUtocnVIcTl6ck1hTkUzdXQ2ZjQyNmZxamVhWnNZdHpRclpoWnY4Q1doY2sxaE0xVEhkZi1ydWxHUdIBX0FVX3lxTFAtbm40eXozaXFsOFBIalpUMVZ2VmExeGtIUWQ3LV9zbS1EUVktWklaVW9SOGRuOUt6UFFQb1REcXM5YlZIaVp5cVdkZ1pnWWhuMHVDYXhXa0FKc2ZPdVZZ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 12 Oct 2026 23:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "우크",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "우크라, ‘북 포로 한국행 공개’ 사과 거부 시사…“종결된 사안” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEY2RsYmRvODVwajdyeWxnMS1mbTRJY09kckw2aE9CTmNfTTlhTTAzUE40ZjI3TkpoZzAyNngxbkNMVVpRam1TLURfWHRBTE5xMlF3alRkaENyNm9RVGNUdk5jSmxMY1pRSmpF?oc=5",
-          "source": "Google News",
-          "published": "Mon, 12 Oct 2026 17:17:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "포로",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "우크라, ‘북 포로 한국행 공개’ 사과 거부 시사…“종결된 사안” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEY2RsYmRvODVwajdyeWxnMS1mbTRJY09kckw2aE9CTmNfTTlhTTAzUE40ZjI3TkpoZzAyNngxbkNMVVpRam1TLURfWHRBTE5xMlF3alRkaENyNm9RVGNUdk5jSmxMY1pRSmpF?oc=5",
-          "source": "Google News",
-          "published": "Mon, 12 Oct 2026 17:17:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "한국행",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "우크라, ‘북 포로 한국행 공개’ 사과 거부 시사…“종결된 사안” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEY2RsYmRvODVwajdyeWxnMS1mbTRJY09kckw2aE9CTmNfTTlhTTAzUE40ZjI3TkpoZzAyNngxbkNMVVpRam1TLURfWHRBTE5xMlF3alRkaENyNm9RVGNUdk5jSmxMY1pRSmpF?oc=5",
-          "source": "Google News",
-          "published": "Mon, 12 Oct 2026 17:17:00 GMT"
+          "published": "Tue, 13 Oct 2026 04:39:00 GMT"
         }
       ]
     }
