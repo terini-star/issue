@@ -1,11 +1,61 @@
 {
   "language": "en",
-  "last_updated": 1792244037.8388476,
+  "last_updated": 1792256226.7064474,
   "count": 40,
   "trends": [
     {
-      "word": "Trump",
+      "word": "Cancer",
       "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Pope Leo leaves hospital after lung cancer operation - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeGhYWFhIdFdCRnFmd2FTQUFrRjZSUHo0VldwQVpfY2xwNWtUVjFJQlp5UEdZTnZUYjRXSy1sdkFOVFVVaXlLbFk2TnZPcE4xcmlpS3c3T1lpWTdXY1JWNko0cjhRTTR4NnJ3dENVd090NzB3TF9HNUdqX2xkLTZzbjNXRW1KTXFISkdVUUk2ejdJRGV6STZhN010aEtqTlpP?oc=5",
+          "source": "Google News",
+          "published": "Sat, 17 Oct 2026 15:57:52 GMT"
+        },
+        {
+          "title": "A 26-year-old felt her concerns were being dismissed. Then she was diagnosed with breast cancer. - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMWY4d0pSQlp0bV8wc2I1TVd0NTRWay1tTUpqNlQ2bFdGcVpKX3BXcHFRXzBnSEUzajRDdlpBUEN1NktLS3NIeURGNDE2WE1VYzhTZnRCS3YwV3dPdlFLNWc3NkEyZGw3UTU1Q3lyVUVObFFkU2p3TFZENnB3UnUzOGsxbExUREF0QXpqbQ?oc=5",
+          "source": "Google News",
+          "published": "Sat, 17 Oct 2026 12:00:11 GMT"
+        },
+        {
+          "title": "Large study finds no link between ultra-processed food and colorectal cancer - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUm5MenREWXJHdGtsRFVUN0RRb1J2dFFCalNYeTRRNEhCTkc3SzBxLTlxbG9OdXI5NjFpV1MwdGlfZkM4RU01ZC1fblJKV2tQTlg1ejJSa3JzWUhzZW8yR2luZ2Y4QlVDejBuNmMwTGRlWk1fbTFiS05ENVNiVEI0akVfWjRlVXl1dDZIYWNZam43VzYzN0ctQnlMX0VmYm5odHlXaGhpUldFQQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 15 Oct 2026 18:00:41 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Game",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "'Street Fighter' Cast Guide: Video Game vs. Live-Action Fighters - Variety",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tbE1COXRpMVdGMmQyeE1CQ0Q4UW0wNy16SUlUamE2WHBibENSYVpyTTB3YXY2dk53N3A4dGZrXzZtNGM0Y0NRdjBfOFFsTEpaNDU1RkQyUjIzUFRxdHhvUEQ1WkNLNFlvZnVKV1hPNjVPMXc4a2ZWLXJOblY?oc=5",
+          "source": "Google News",
+          "published": "Fri, 16 Oct 2026 22:30:00 GMT"
+        },
+        {
+          "title": "ALCS Game 4 postponed by rain; Rays and Guardians to resume series Saturday - NBC Sports",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdjZydF9wOTNBSzJ2R3NaNTcxQVNGYm9Xb2hkeWpad3c0R2JMSE5YTXVYeUVUNFJXWFhOOEtVem5EbEJfdTNuUjZrSnFzczhCbGhwMW9ma2dpZU9ITVlyR2FNN0NRVUdvTjFBR2JXVmszd3I1eWtjNU9DVXFRdkhJZzRtejBxU1FSZzZCUno3ektoVmZocVZxUnBscm5fQWNyWjBEOWsxX1JrZkR1eFE?oc=5",
+          "source": "Google News",
+          "published": "Sat, 17 Oct 2026 01:20:42 GMT"
+        },
+        {
+          "title": "Source: Patriots likely to activate WR A.J. Brown for Sunday's game vs. Jets - ESPN",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYTY5dmRqOVNJWXVjSDVEbXQwc1A4Z1Z4M0NDVHFqNnA0eFQ5Xy1aTTRSbTlaS2NvVVMwOVJqNXB3S3hUbmRxcE56VmE0aV9fMkF4ZzhrbDVUb0hNWDV6a0JKNHhyTGZjYTNVODNJNmktaWFZLUpPVmhFRkdOcHp1eVdDM2dJWDA3WC1VeGxFSWg0MndDeldtZ1FYaw?oc=5",
+          "source": "Google News",
+          "published": "Sat, 17 Oct 2026 13:13:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Trump",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
@@ -15,73 +65,105 @@
           "published": "Sat, 17 Oct 2026 11:59:00 GMT"
         },
         {
-          "title": "Trump: White House didn't impede satellite system in Ukraine - Axios",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RbWxETE5PSGQyQWJNRjY1VTR1MUdNaXdlUzBoOWlGRE1CVFE4TUV3SG9kWXFkMThPRUhLbkdFVXZPbThobVFON0tpYW9BcWUxblIyM2g1SzZITlZPYXROV0ZnMFFuYzV2bmJBUFVFb01xRkNMMUhNeg?oc=5",
+          "title": "Trump faults aides as Republican midterm prospects dim - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYTNjQm5xUlNLTTVIZHJ5eXBnMUZlY211OWQzdjJSLWFqMDRrMVZlaXFjUmUtVDFkVXYyVUwzajB4TXNQNE1NblU4RFhGeDNyak4tX1FsZXZtTXpYamZValBXUHc0RXNhc2J6Vk4wZEFNV2FxNHBlYmNvOFVEdThjakZ5Q0g3UXpySk9maHZhYTFXSzVMeXdxMXZ5c1M?oc=5",
           "source": "Google News",
-          "published": "Fri, 16 Oct 2026 19:16:56 GMT"
-        },
-        {
-          "title": "Trump in Georgia falsely claims election of Jon Ossoff was illegitimate - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQelE3eGRzSWs4ZXZMOFhWcVhOYlg1T1JrcWk5Vks1VjFhVGhmbl9tVlBHbndKRlRDNmFfN25WTFZOOFdid3A1VU1HQlBkWndDVkhubEtFcUFLTEY1MXhlX2Z4UUVsakJ1RV9VM2Fqbm5JUVlzeVJnQWc2a3RoZjJ2VVlhVTU?oc=5",
-          "source": "Google News",
-          "published": "Sat, 17 Oct 2026 01:06:00 GMT"
+          "published": "Sat, 17 Oct 2026 13:58:21 GMT"
         }
       ]
     },
     {
-      "word": "Found",
+      "word": "Police",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "The Moment Katie Zacharia Found Out Her Five-Day Stint as Press Secretary Was Over - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcVJVakdKOUd6NWg5Q0h5Vy1tajJyU204aW9aZGRQRGFvZ1JqYzNHZVp2OWVEdk1YZnlJM0hGUV9xYlUwRHd3bHE5UEVtZnh1VC1kUmh1TVlWcW51M2FJVjhYNWpXOThsdXZSS1VRRzhQVWZJd0l0Zzl4MWZCUkpvNGZtclZXN0YtODMzQXVDMDQ?oc=5",
+          "title": "Protesters clash with police in Paris and across France during major day of demonstrations - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83QTAzRVNkbmlZSzdDWDY3bFdaTFlHTFIwLUN4b2hCOHQzekVUeElPcFExNzlHbkRZaVI0UFZyT3pMZEdEQjAxY2F1V1dhQ2p1YmRvMTV3?oc=5",
           "source": "Google News",
-          "published": "Sat, 17 Oct 2026 01:57:00 GMT"
+          "published": "Sat, 17 Oct 2026 16:26:23 GMT"
         },
         {
-          "title": "Astronomers Just Found the First Green Star Ever Discovered—Right After It Swallowed Its Planets - Gizmodo",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbjh4aGt3d2o1NXRNWFZBVFFfZWd1TmR3bmx1a0hsQk5wVVlOSUZmSDhNOEdSYm1NOGdVT2UwNEVkMG9uVnlKeVJkOEtEWk1LaEEtT2ExVzBIS2pJLVhEdVNHcFlBRmNiVGU0TXMzT0pHdEh4UHVBaUFIX0U0b1dHaHlacXRXUnpJRWZyY0lKXzB6Zk52SjdGUnVXNkZ5QzFNVjNwOElnUS0tRHhtY00tV2R0R3BHcGhEXzN2MkFRSWNqbllxc1E?oc=5",
+          "title": "Albanian police fire rubber bullets as student protests rage - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVlJCekoweVlrYktkQmJZZ2V4aFFnRFpHdnRBMlYzZDlJS0xFS1JWQVMtOVNvbURNdUNHU09BTnBkNjBwdi0yaFVNR2Nqbm9sTUxHTFZQQk1PWkU2ZzdVeC04UVdLb2lJNFoxWHVsSWJJQTlrNXBYZ0NfNWJ4YTdENjlBYmwtdDlOMHhMOWtJY2NxUDJHRlJ1emtpa2h4UmFwZlBOQ0dEQlBORTREQ0E?oc=5",
           "source": "Google News",
-          "published": "Fri, 16 Oct 2026 15:20:57 GMT"
+          "published": "Sat, 17 Oct 2026 15:42:29 GMT"
         }
       ]
     },
     {
-      "word": "Amid",
+      "word": "old",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Cornell Trustees Present a United Front Amid Crisis - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9HS2tJeHlSYUxKeXYtQmVVWWVfazVIdzBDempKcUNwOWY5Y3RlUkdFX2pFUzQyU0MxTzRpdWJKVU1fX1VVYVFDVjE2T3oyQ1ZfMHJBVnE1YXp4VFU1UmhXdlE2eHBUNVJuZmxJQUJUclJrY2lTRTVLdk1aOA?oc=5",
+          "title": "Alligator kills 71-year-old man fishing at pond in Florida - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQmJRbkNIMU1NZ2kwUzRBUnZBVFZHUi1xUGd6YVNvR094NmdJSFZaUXVFSktTVWMtTnFxTlNyWnQwRC1OSzFDc3JoVHNSRTQtdDMtdW5RdVpLN19vS3R6S0JyaU5iYkNPY19QdHpPUW9SbTMtYjc0NkU2ZXpDNFlqdl9SS2prREZfMlE2TmVoSkw?oc=5",
           "source": "Google News",
-          "published": "Sat, 17 Oct 2026 01:43:39 GMT"
+          "published": "Sat, 17 Oct 2026 13:38:18 GMT"
         },
         {
-          "title": "France faces major protests amid rising security fears - Euronews.com",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMkh4ZjFETXVTdjRwTzBrMFZldE1hby1xaUJ5Wmo2dVN6Y1BXaGQ2OTdfMkNaODBKdWNhb09sWXJBSHdUSXM1V3BXTWV6SzdrRWU5VzlfNEo3QmNIWTZKZFEwWlhjOWhLUzJZTWZPeTRLalJ4WVNtZ2k3T3J4WlNNYnpTUE5McDNjTHlBWllwRWx5WXkyVGVKVUxSbTNCUGpXTk5HaGpBc3N6a1E?oc=5",
+          "title": "A 26-year-old felt her concerns were being dismissed. Then she was diagnosed with breast cancer. - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMWY4d0pSQlp0bV8wc2I1TVd0NTRWay1tTUpqNlQ2bFdGcVpKX3BXcHFRXzBnSEUzajRDdlpBUEN1NktLS3NIeURGNDE2WE1VYzhTZnRCS3YwV3dPdlFLNWc3NkEyZGw3UTU1Q3lyVUVObFFkU2p3TFZENnB3UnUzOGsxbExUREF0QXpqbQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 17 Oct 2026 12:36:25 GMT"
+          "published": "Sat, 17 Oct 2026 12:00:11 GMT"
         }
       ]
     },
     {
-      "word": "Cancer",
+      "word": "Risks",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Pope Leo to be discharged from the hospital after lung cancer surgery - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNEllc3JQcGxaV00wb0JyUGVOeEtwMFpvdUU4OEdqMHFFcmdqQXlIYnZZOFY0dFNYZXhWdldOYTNEdjlOWU9BRlZqWHVhVEh3YUVrcUhNN2hhUGhFNUFRNTIzbzhxY2xwNmhCZ0Q4OHhsdHotbnYzekg5OFR1NzhVV3hBSWc5aXkwSEY1bEx3X0V5cllKeXl1SFNxSWZsdnFkd2xPQw?oc=5",
+          "title": "Inside Hegseth’s political ambitions — and the risks threatening them - CNN",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9EdC1JMGNjeElWX1pSTXNydEZwQWFSY19STmFZcklfN21VR2ZOZXZMMjZsbmNnOXo3aXVMUDZDQnpncFdycm1mTGpLeFMzTllaNGZobjUxQ0ZVT2pWenRpSUkzRzN1NFotbThiYWxGeDZJOEJfelM5Wg?oc=5",
           "source": "Google News",
-          "published": "Sat, 17 Oct 2026 10:30:44 GMT"
+          "published": "Sat, 17 Oct 2026 09:00:44 GMT"
         },
         {
-          "title": "Large study finds no link between ultra-processed food and colorectal cancer - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUm5MenREWXJHdGtsRFVUN0RRb1J2dFFCalNYeTRRNEhCTkc3SzBxLTlxbG9OdXI5NjFpV1MwdGlfZkM4RU01ZC1fblJKV2tQTlg1ejJSa3JzWUhzZW8yR2luZ2Y4QlVDejBuNmMwTGRlWk1fbTFiS05ENVNiVEI0akVfWjRlVXl1dDZIYWNZam43VzYzN0ctQnlMX0VmYm5odHlXaGhpUldFQQ?oc=5",
+          "title": "Kelly Clarkson risks looking like 'rich and famous prima donna' in $15K bird fight, expert says - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMkgwQk0tUzFsRmxsdE5MaVJwbDhKQTc5OEI1Tk1fYTU2WS1RS0xnMVAybDlkTzZablcwa0hla2NwOHBtY2VPaTczQk1aOUcwZDMzYU85eDg5UDBhOHQ3LVJ2XzBKYzBIQzItbU5fejlobVhkVmxDb2dvdmFBNzZhLXZ1YkhfWFpJVWdSNDhjLWNudUtDU01lMVc1NUVmcHJhWmdCQlZfRE5OTC1KNE1wUmpldHBjTWFv0gG-AUFVX3lxTFAyTWhmUUhldkd3Y2NJLUF1d3ZFNjdZWXRuSG9QNFNDWlFuLW1vMjRZMm5xdmtSbF9DYzJfM1RJUGw5bFFsTzV6SzYwWU9NQmtOam00QlpzTHZmQjRJSlV3LVl3TFFtVTRscFpYVm9OTnZoSzBrTE5heEFjZ3Z0cFFfUmNZUElmYklvSUd5eTY1bXFGNkgtdldHSE5KNVE0WHVFYjdmT1l1Q3UzLW8za1JrUXk1QTR0VFpENkVqbHc?oc=5",
           "source": "Google News",
-          "published": "Thu, 15 Oct 2026 18:00:41 GMT"
+          "published": "Sat, 17 Oct 2026 12:00:02 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Prison",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Mexican killers of U.S., Australian surfers sentenced to 158 years in prison - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNUZIQnI0SFBCdTJsaENYeEdwQnpldVFDdFFJNm9mZnBBTzBScy1JNHhnV0JvQ1g1LXRTN2hSaGV5YmctUGhwWnNFRldyV2NnOFptSUpnMnVabUlRbHhJdmFXUTZGeTF2WGtKTmpORjJtOXNZeHp4VlBFN0gtU0ppRk5FTndQU3BZ?oc=5",
+          "source": "Google News",
+          "published": "Sat, 17 Oct 2026 12:08:49 GMT"
+        },
+        {
+          "title": "Sean \"Diddy\" Combs transferred to Pennsylvania prison after reports of luxury lifestyle behind bars - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTWwxZUdpTWxXMEYyWVdjUHB5eWJTYkd5bWViZFN3Qi00MmhLSnBaeTNvM0tYdWZpLTVVMkpMVTNwZmJ5U0ZxblFFMVJjZHhVRE5STTRXNy00WlhkNmdueVgxU1l4TUtnTGxXZ3NXd21MS19weGNGNHFFTko1cGFicDg0Qm1iM3RiOTBDX1gxSQ?oc=5",
+          "source": "Google News",
+          "published": "Sat, 17 Oct 2026 00:35:37 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Global",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "What Tesla’s Flying Roadster Really Means for the Global Auto Race - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbXFSbnVSM0FJd1F5NmJEZmpFdVpIekF6LUR6cVllNURwemcxekdLNUFUUEg0RU1HU1l4UEFOSVkxb2VhZmpVdXdpWDFUZmxEYmRRdVVEYnNEWWFBZEVfZXBzMWNWMzVST1FrZk42NE9NRFR5c0xTdWNvM2xpT1kzRjk3aHdsUzRrdzNGRHhzWTVwR19tZVJjOE05NVdEOUJmcng1V0toYzJzcFhaRXc?oc=5",
+          "source": "Google News",
+          "published": "Sat, 17 Oct 2026 09:30:00 GMT"
+        },
+        {
+          "title": "Astronomer leads global team on NASA mission to create unprecedented view of the early universe - Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BZ2s2UHZ5WTY0N1Q4b28xcWc2aUFITnJjNU1FUFpqQWxsbFBqM2Qza1Vwc0VQai1naDRqMnp4SlNZc0d5bDQ4MWlPTG5hMGFGcnFzQ1g5V0tLdFNmVklnaWpzR29uOVZBOTVMYTdIN0xGeXAwOVEyeTl3?oc=5",
+          "source": "Google News",
+          "published": "Fri, 16 Oct 2026 23:20:01 GMT"
         }
       ]
     },
@@ -105,189 +187,170 @@
       ]
     },
     {
-      "word": "College",
+      "word": "Pennsylvania",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "College football picks: Predictions against the spread, odds, betting lines for top 25 games in Week 7 - CBS Sports",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZE9XOU9rNmVkS1YyOUZZdVpsVGkycV9KUm0wbnhWb3pHYlc5S1ZLNFpGdVBTbGJBd2pCNjlGTHZlRWNDby15VjRhVllyR3pIaVhMNUFZZWJET1RzTFNncVBHU296aURUMmplUVpBMDlMb0RaZkxsVndfcFprbUcyXzJJVFZibUttVHVQOFYwaG1ZZ2FhR21MNm5QbG5VUGNpSHJLaW8wR044aXVWZ0VKZWw3VGpodEdzaEhaUnRfUzg?oc=5",
+          "title": "Sean \"Diddy\" Combs transferred to Pennsylvania prison after reports of luxury lifestyle behind bars - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTWwxZUdpTWxXMEYyWVdjUHB5eWJTYkd5bWViZFN3Qi00MmhLSnBaeTNvM0tYdWZpLTVVMkpMVTNwZmJ5U0ZxblFFMVJjZHhVRE5STTRXNy00WlhkNmdueVgxU1l4TUtnTGxXZ3NXd21MS19weGNGNHFFTko1cGFicDg0Qm1iM3RiOTBDX1gxSQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 16 Oct 2026 21:51:00 GMT"
+          "published": "Sat, 17 Oct 2026 00:35:37 GMT"
         },
         {
-          "title": "ESPN to pay College Football Playoff $345 million more per year for 24-team event: Source - The Athletic - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSVN1YWthS1hOaUxXa2l2OXlSd3A1U0ZRVnEyUFdEQnJjYS1ISTlrZUNySm5IbmJra1libFk1UVRfTHAzenJKMVlCOVB4U0x0MGdYN19WQkRST0t6dEt6TDBibkpheG9MUVd0LWx5bnd6d21vQnZ4Tl85by1TLTJmQy1ReHd5amFtUUdkN1hNUjdxWTlaUEE?oc=5",
+          "title": "CDC to send ‘disease detective’ to help tackle Pennsylvania measles outbreak - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVUNHRzVfU3BUQV84MFNyU1JOTnp2UmY5RnZoQ3RGZWFLRWo4WFBaRU9KaHBPTHFtNzhNWDlwRnZaMkdMLVBSMmdtRnVCWkpMMXZyU21LaVZEN3hXYjh2RUlGMmtCTWVBM3VCSVVLX0hZZDZKdl9WRWI3NzNOREM4ZjZMbVZvbUxKNjc4cTUzalFOOV9O?oc=5",
           "source": "Google News",
-          "published": "Fri, 16 Oct 2026 23:35:09 GMT"
+          "published": "Sat, 17 Oct 2026 12:00:00 GMT"
         }
       ]
     },
     {
-      "word": "Football",
+      "word": "Wall",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "College football picks: Predictions against the spread, odds, betting lines for top 25 games in Week 7 - CBS Sports",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZE9XOU9rNmVkS1YyOUZZdVpsVGkycV9KUm0wbnhWb3pHYlc5S1ZLNFpGdVBTbGJBd2pCNjlGTHZlRWNDby15VjRhVllyR3pIaVhMNUFZZWJET1RzTFNncVBHU296aURUMmplUVpBMDlMb0RaZkxsVndfcFprbUcyXzJJVFZibUttVHVQOFYwaG1ZZ2FhR21MNm5QbG5VUGNpSHJLaW8wR044aXVWZ0VKZWw3VGpodEdzaEhaUnRfUzg?oc=5",
+          "title": "Wall-to-wall Top 25 showdowns, with 6 ranked matchups on tap starting with Ohio State at Indiana - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUTF2UlFIOWVHOTloUEc0MVVLeC1VTWctWFhjRWdxaE9INDU0d3VoTElSdk5kNjZ4ak43bFJaeE1rSndiSjBOZHkyeWg1U01hZ3g1ckEyR21CTDNxa0RiREJIREJ4SmlxMk4wUmpJMHlSd01LUDBzcFI2TTFiYjV5MHJR?oc=5",
           "source": "Google News",
-          "published": "Fri, 16 Oct 2026 21:51:00 GMT"
-        },
-        {
-          "title": "ESPN to pay College Football Playoff $345 million more per year for 24-team event: Source - The Athletic - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSVN1YWthS1hOaUxXa2l2OXlSd3A1U0ZRVnEyUFdEQnJjYS1ISTlrZUNySm5IbmJra1libFk1UVRfTHAzenJKMVlCOVB4U0x0MGdYN19WQkRST0t6dEt6TDBibkpheG9MUVd0LWx5bnd6d21vQnZ4Tl85by1TLTJmQy1ReHd5amFtUUdkN1hNUjdxWTlaUEE?oc=5",
-          "source": "Google News",
-          "published": "Fri, 16 Oct 2026 23:35:09 GMT"
+          "published": "Sat, 17 Oct 2026 10:10:00 GMT"
         }
       ]
     },
     {
-      "word": "Discovered",
+      "word": "Indiana",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "New dinosaur species discovered in London museum after 100 years - Euronews.com",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWGRfU3VIYmhXc2tzQ1lxS0ViOUJxaklISngxVDBWeTEtWnRsaWl4cmx4YWUwaGxKbzZsdjZNQUVMM0ZhNnlMZW82N0U1ODE1elJHQllVcG0wUHQwUE9oZV8xZzVYQS1nQUdsVTBNWXFaRzVRQzNqYllMcUxwMUd5STE0RFdNQUtQVHFud0J3RjhrRlVwdkwxcGxaNURvR29Jb1lxa0Z3S1JndXhBN0dtcnFTbnVad0hrZ1B3SVNQY2RDOGwy?oc=5",
+          "title": "Wall-to-wall Top 25 showdowns, with 6 ranked matchups on tap starting with Ohio State at Indiana - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUTF2UlFIOWVHOTloUEc0MVVLeC1VTWctWFhjRWdxaE9INDU0d3VoTElSdk5kNjZ4ak43bFJaeE1rSndiSjBOZHkyeWg1U01hZ3g1ckEyR21CTDNxa0RiREJIREJ4SmlxMk4wUmpJMHlSd01LUDBzcFI2TTFiYjV5MHJR?oc=5",
           "source": "Google News",
-          "published": "Fri, 16 Oct 2026 09:58:55 GMT"
+          "published": "Sat, 17 Oct 2026 10:10:00 GMT"
         },
         {
-          "title": "Astronomers Just Found the First Green Star Ever Discovered—Right After It Swallowed Its Planets - Gizmodo",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbjh4aGt3d2o1NXRNWFZBVFFfZWd1TmR3bmx1a0hsQk5wVVlOSUZmSDhNOEdSYm1NOGdVT2UwNEVkMG9uVnlKeVJkOEtEWk1LaEEtT2ExVzBIS2pJLVhEdVNHcFlBRmNiVGU0TXMzT0pHdEh4UHVBaUFIX0U0b1dHaHlacXRXUnpJRWZyY0lKXzB6Zk52SjdGUnVXNkZ5QzFNVjNwOElnUS0tRHhtY00tV2R0R3BHcGhEXzN2MkFRSWNqbllxc1E?oc=5",
+          "title": "The Cignetti effect is real: Indiana football sparks an unbelievable 'revival' in Bloomington - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPalo5N092MWpRc3JCOXZGV2JwMkVXcDFaLWhITTkzMm1JV0U2VzYyekNCa1lFOUZWWWswSS13ZV92Yml0SEdVMnBXbGU4WmR2dHM2ZkZRVTNudVZYdUdZS1l6MjE5dU5ycG9QX29jOU9mYVlBei1YYURJaHBsUUUtbV96N1MxdDVEaFIzNk1HbG1lQThlMjdGQWRpMHFNeUF4UjVGNXFjNWZGc3NObDNlVTB0NGlxelE?oc=5",
           "source": "Google News",
-          "published": "Fri, 16 Oct 2026 15:20:57 GMT"
+          "published": "Sat, 17 Oct 2026 11:24:56 GMT"
         }
       ]
     },
     {
-      "word": "Oregon",
+      "word": "Katie",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times' - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01aVBXeU5MVGNET3RhTC1tbld1cjZRV05ZQzRSeWYtd3gwd0tLS1JraHpBNzZqUzJfM1RnQTM5a3RFWmpob3FySVFtQlBDMUFQUXlEN0RQZy1nYTQ?oc=5",
+          "title": "Katie Zacharia quits as White House press secretary five days into job - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IMTR3VHR5Vm9QUlJyLUxPa3o2SHVEdUV3RkdwSzljMXJ1amZNUXljR0ktTkxWV0c1T0otZFBrYmdwQ3E3Xy1YOUxmb1RyNEQ3Y3EyWDZnRnVLZGM?oc=5",
           "source": "Google News",
-          "published": "Sat, 17 Oct 2026 09:58:17 GMT"
+          "published": "Sat, 17 Oct 2026 09:14:10 GMT"
         }
       ]
     },
     {
-      "word": "Teacher",
+      "word": "Zacharia",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times' - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01aVBXeU5MVGNET3RhTC1tbld1cjZRV05ZQzRSeWYtd3gwd0tLS1JraHpBNzZqUzJfM1RnQTM5a3RFWmpob3FySVFtQlBDMUFQUXlEN0RQZy1nYTQ?oc=5",
+          "title": "Katie Zacharia quits as White House press secretary five days into job - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IMTR3VHR5Vm9QUlJyLUxPa3o2SHVEdUV3RkdwSzljMXJ1amZNUXljR0ktTkxWV0c1T0otZFBrYmdwQ3E3Xy1YOUxmb1RyNEQ3Y3EyWDZnRnVLZGM?oc=5",
           "source": "Google News",
-          "published": "Sat, 17 Oct 2026 09:58:17 GMT"
+          "published": "Sat, 17 Oct 2026 09:14:10 GMT"
         }
       ]
     },
     {
-      "word": "Fought",
+      "word": "Quits",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times' - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01aVBXeU5MVGNET3RhTC1tbld1cjZRV05ZQzRSeWYtd3gwd0tLS1JraHpBNzZqUzJfM1RnQTM5a3RFWmpob3FySVFtQlBDMUFQUXlEN0RQZy1nYTQ?oc=5",
+          "title": "Katie Zacharia quits as White House press secretary five days into job - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IMTR3VHR5Vm9QUlJyLUxPa3o2SHVEdUV3RkdwSzljMXJ1amZNUXljR0ktTkxWV0c1T0otZFBrYmdwQ3E3Xy1YOUxmb1RyNEQ3Y3EyWDZnRnVLZGM?oc=5",
           "source": "Google News",
-          "published": "Sat, 17 Oct 2026 09:58:17 GMT"
+          "published": "Sat, 17 Oct 2026 09:14:10 GMT"
         }
       ]
     },
     {
-      "word": "School",
+      "word": "White",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times' - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01aVBXeU5MVGNET3RhTC1tbld1cjZRV05ZQzRSeWYtd3gwd0tLS1JraHpBNzZqUzJfM1RnQTM5a3RFWmpob3FySVFtQlBDMUFQUXlEN0RQZy1nYTQ?oc=5",
+          "title": "Katie Zacharia quits as White House press secretary five days into job - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IMTR3VHR5Vm9QUlJyLUxPa3o2SHVEdUV3RkdwSzljMXJ1amZNUXljR0ktTkxWV0c1T0otZFBrYmdwQ3E3Xy1YOUxmb1RyNEQ3Y3EyWDZnRnVLZGM?oc=5",
           "source": "Google News",
-          "published": "Sat, 17 Oct 2026 09:58:17 GMT"
+          "published": "Sat, 17 Oct 2026 09:14:10 GMT"
         }
       ]
     },
     {
-      "word": "Attacker",
+      "word": "House",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times' - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01aVBXeU5MVGNET3RhTC1tbld1cjZRV05ZQzRSeWYtd3gwd0tLS1JraHpBNzZqUzJfM1RnQTM5a3RFWmpob3FySVFtQlBDMUFQUXlEN0RQZy1nYTQ?oc=5",
+          "title": "Katie Zacharia quits as White House press secretary five days into job - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IMTR3VHR5Vm9QUlJyLUxPa3o2SHVEdUV3RkdwSzljMXJ1amZNUXljR0ktTkxWV0c1T0otZFBrYmdwQ3E3Xy1YOUxmb1RyNEQ3Y3EyWDZnRnVLZGM?oc=5",
           "source": "Google News",
-          "published": "Sat, 17 Oct 2026 09:58:17 GMT"
+          "published": "Sat, 17 Oct 2026 09:14:10 GMT"
         }
       ]
     },
     {
-      "word": "Armed",
+      "word": "Press",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times' - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01aVBXeU5MVGNET3RhTC1tbld1cjZRV05ZQzRSeWYtd3gwd0tLS1JraHpBNzZqUzJfM1RnQTM5a3RFWmpob3FySVFtQlBDMUFQUXlEN0RQZy1nYTQ?oc=5",
+          "title": "Katie Zacharia quits as White House press secretary five days into job - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IMTR3VHR5Vm9QUlJyLUxPa3o2SHVEdUV3RkdwSzljMXJ1amZNUXljR0ktTkxWV0c1T0otZFBrYmdwQ3E3Xy1YOUxmb1RyNEQ3Y3EyWDZnRnVLZGM?oc=5",
           "source": "Google News",
-          "published": "Sat, 17 Oct 2026 09:58:17 GMT"
+          "published": "Sat, 17 Oct 2026 09:14:10 GMT"
         }
       ]
     },
     {
-      "word": "dad",
+      "word": "Secretary",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times' - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01aVBXeU5MVGNET3RhTC1tbld1cjZRV05ZQzRSeWYtd3gwd0tLS1JraHpBNzZqUzJfM1RnQTM5a3RFWmpob3FySVFtQlBDMUFQUXlEN0RQZy1nYTQ?oc=5",
+          "title": "Katie Zacharia quits as White House press secretary five days into job - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IMTR3VHR5Vm9QUlJyLUxPa3o2SHVEdUV3RkdwSzljMXJ1amZNUXljR0ktTkxWV0c1T0otZFBrYmdwQ3E3Xy1YOUxmb1RyNEQ3Y3EyWDZnRnVLZGM?oc=5",
           "source": "Google News",
-          "published": "Sat, 17 Oct 2026 09:58:17 GMT"
+          "published": "Sat, 17 Oct 2026 09:14:10 GMT"
         }
       ]
     },
     {
-      "word": "Shot",
+      "word": "Five",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times' - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01aVBXeU5MVGNET3RhTC1tbld1cjZRV05ZQzRSeWYtd3gwd0tLS1JraHpBNzZqUzJfM1RnQTM5a3RFWmpob3FySVFtQlBDMUFQUXlEN0RQZy1nYTQ?oc=5",
+          "title": "Katie Zacharia quits as White House press secretary five days into job - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IMTR3VHR5Vm9QUlJyLUxPa3o2SHVEdUV3RkdwSzljMXJ1amZNUXljR0ktTkxWV0c1T0otZFBrYmdwQ3E3Xy1YOUxmb1RyNEQ3Y3EyWDZnRnVLZGM?oc=5",
           "source": "Google News",
-          "published": "Sat, 17 Oct 2026 09:58:17 GMT"
+          "published": "Sat, 17 Oct 2026 09:14:10 GMT"
         }
       ]
     },
     {
-      "word": "Suspect",
+      "word": "job",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times' - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01aVBXeU5MVGNET3RhTC1tbld1cjZRV05ZQzRSeWYtd3gwd0tLS1JraHpBNzZqUzJfM1RnQTM5a3RFWmpob3FySVFtQlBDMUFQUXlEN0RQZy1nYTQ?oc=5",
+          "title": "Katie Zacharia quits as White House press secretary five days into job - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IMTR3VHR5Vm9QUlJyLUxPa3o2SHVEdUV3RkdwSzljMXJ1amZNUXljR0ktTkxWV0c1T0otZFBrYmdwQ3E3Xy1YOUxmb1RyNEQ3Y3EyWDZnRnVLZGM?oc=5",
           "source": "Google News",
-          "published": "Sat, 17 Oct 2026 09:58:17 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Multiple",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times' - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01aVBXeU5MVGNET3RhTC1tbld1cjZRV05ZQzRSeWYtd3gwd0tLS1JraHpBNzZqUzJfM1RnQTM5a3RFWmpob3FySVFtQlBDMUFQUXlEN0RQZy1nYTQ?oc=5",
-          "source": "Google News",
-          "published": "Sat, 17 Oct 2026 09:58:17 GMT"
+          "published": "Sat, 17 Oct 2026 09:14:10 GMT"
         }
       ]
     },
@@ -396,184 +459,145 @@
       ]
     },
     {
-      "word": "Moment",
+      "word": "Oregon",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "The Moment Katie Zacharia Found Out Her Five-Day Stint as Press Secretary Was Over - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcVJVakdKOUd6NWg5Q0h5Vy1tajJyU204aW9aZGRQRGFvZ1JqYzNHZVp2OWVEdk1YZnlJM0hGUV9xYlUwRHd3bHE5UEVtZnh1VC1kUmh1TVlWcW51M2FJVjhYNWpXOThsdXZSS1VRRzhQVWZJd0l0Zzl4MWZCUkpvNGZtclZXN0YtODMzQXVDMDQ?oc=5",
+          "title": "Oregon father is the latest armed civilian to confront a gunman in a US mass shooting - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeFpQdl9rRFV5NXpScnNPbzFlNEdsb3BWX0c0OGJZR2pFZm1POWJlczZoOFpXQUlzX1lkM05WSnVDa28tby1ObWtNaVBMdmxiV1l5ajJwU1had0ZfZDVBSHJ5akM1UEtKanB1eDlwTm5MQmMyVFljQWxfNm1tU1hONnktaGlqSWt3ZUYtRzJOUHdsQUt6Zy1lcmM2Z0FITW5ETmJsMDdiM0d6U3BTWU9B?oc=5",
           "source": "Google News",
-          "published": "Sat, 17 Oct 2026 01:57:00 GMT"
+          "published": "Sat, 17 Oct 2026 11:14:00 GMT"
         }
       ]
     },
     {
-      "word": "Katie",
+      "word": "Father",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "The Moment Katie Zacharia Found Out Her Five-Day Stint as Press Secretary Was Over - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcVJVakdKOUd6NWg5Q0h5Vy1tajJyU204aW9aZGRQRGFvZ1JqYzNHZVp2OWVEdk1YZnlJM0hGUV9xYlUwRHd3bHE5UEVtZnh1VC1kUmh1TVlWcW51M2FJVjhYNWpXOThsdXZSS1VRRzhQVWZJd0l0Zzl4MWZCUkpvNGZtclZXN0YtODMzQXVDMDQ?oc=5",
+          "title": "Oregon father is the latest armed civilian to confront a gunman in a US mass shooting - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeFpQdl9rRFV5NXpScnNPbzFlNEdsb3BWX0c0OGJZR2pFZm1POWJlczZoOFpXQUlzX1lkM05WSnVDa28tby1ObWtNaVBMdmxiV1l5ajJwU1had0ZfZDVBSHJ5akM1UEtKanB1eDlwTm5MQmMyVFljQWxfNm1tU1hONnktaGlqSWt3ZUYtRzJOUHdsQUt6Zy1lcmM2Z0FITW5ETmJsMDdiM0d6U3BTWU9B?oc=5",
           "source": "Google News",
-          "published": "Sat, 17 Oct 2026 01:57:00 GMT"
+          "published": "Sat, 17 Oct 2026 11:14:00 GMT"
         }
       ]
     },
     {
-      "word": "Zacharia",
+      "word": "Latest",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "The Moment Katie Zacharia Found Out Her Five-Day Stint as Press Secretary Was Over - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcVJVakdKOUd6NWg5Q0h5Vy1tajJyU204aW9aZGRQRGFvZ1JqYzNHZVp2OWVEdk1YZnlJM0hGUV9xYlUwRHd3bHE5UEVtZnh1VC1kUmh1TVlWcW51M2FJVjhYNWpXOThsdXZSS1VRRzhQVWZJd0l0Zzl4MWZCUkpvNGZtclZXN0YtODMzQXVDMDQ?oc=5",
+          "title": "Oregon father is the latest armed civilian to confront a gunman in a US mass shooting - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeFpQdl9rRFV5NXpScnNPbzFlNEdsb3BWX0c0OGJZR2pFZm1POWJlczZoOFpXQUlzX1lkM05WSnVDa28tby1ObWtNaVBMdmxiV1l5ajJwU1had0ZfZDVBSHJ5akM1UEtKanB1eDlwTm5MQmMyVFljQWxfNm1tU1hONnktaGlqSWt3ZUYtRzJOUHdsQUt6Zy1lcmM2Z0FITW5ETmJsMDdiM0d6U3BTWU9B?oc=5",
           "source": "Google News",
-          "published": "Sat, 17 Oct 2026 01:57:00 GMT"
+          "published": "Sat, 17 Oct 2026 11:14:00 GMT"
         }
       ]
     },
     {
-      "word": "Five",
+      "word": "Armed",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "The Moment Katie Zacharia Found Out Her Five-Day Stint as Press Secretary Was Over - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcVJVakdKOUd6NWg5Q0h5Vy1tajJyU204aW9aZGRQRGFvZ1JqYzNHZVp2OWVEdk1YZnlJM0hGUV9xYlUwRHd3bHE5UEVtZnh1VC1kUmh1TVlWcW51M2FJVjhYNWpXOThsdXZSS1VRRzhQVWZJd0l0Zzl4MWZCUkpvNGZtclZXN0YtODMzQXVDMDQ?oc=5",
+          "title": "Oregon father is the latest armed civilian to confront a gunman in a US mass shooting - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeFpQdl9rRFV5NXpScnNPbzFlNEdsb3BWX0c0OGJZR2pFZm1POWJlczZoOFpXQUlzX1lkM05WSnVDa28tby1ObWtNaVBMdmxiV1l5ajJwU1had0ZfZDVBSHJ5akM1UEtKanB1eDlwTm5MQmMyVFljQWxfNm1tU1hONnktaGlqSWt3ZUYtRzJOUHdsQUt6Zy1lcmM2Z0FITW5ETmJsMDdiM0d6U3BTWU9B?oc=5",
           "source": "Google News",
-          "published": "Sat, 17 Oct 2026 01:57:00 GMT"
+          "published": "Sat, 17 Oct 2026 11:14:00 GMT"
         }
       ]
     },
     {
-      "word": "Stint",
+      "word": "Civilian",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "The Moment Katie Zacharia Found Out Her Five-Day Stint as Press Secretary Was Over - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcVJVakdKOUd6NWg5Q0h5Vy1tajJyU204aW9aZGRQRGFvZ1JqYzNHZVp2OWVEdk1YZnlJM0hGUV9xYlUwRHd3bHE5UEVtZnh1VC1kUmh1TVlWcW51M2FJVjhYNWpXOThsdXZSS1VRRzhQVWZJd0l0Zzl4MWZCUkpvNGZtclZXN0YtODMzQXVDMDQ?oc=5",
+          "title": "Oregon father is the latest armed civilian to confront a gunman in a US mass shooting - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeFpQdl9rRFV5NXpScnNPbzFlNEdsb3BWX0c0OGJZR2pFZm1POWJlczZoOFpXQUlzX1lkM05WSnVDa28tby1ObWtNaVBMdmxiV1l5ajJwU1had0ZfZDVBSHJ5akM1UEtKanB1eDlwTm5MQmMyVFljQWxfNm1tU1hONnktaGlqSWt3ZUYtRzJOUHdsQUt6Zy1lcmM2Z0FITW5ETmJsMDdiM0d6U3BTWU9B?oc=5",
           "source": "Google News",
-          "published": "Sat, 17 Oct 2026 01:57:00 GMT"
+          "published": "Sat, 17 Oct 2026 11:14:00 GMT"
         }
       ]
     },
     {
-      "word": "Press",
+      "word": "Confront",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "The Moment Katie Zacharia Found Out Her Five-Day Stint as Press Secretary Was Over - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcVJVakdKOUd6NWg5Q0h5Vy1tajJyU204aW9aZGRQRGFvZ1JqYzNHZVp2OWVEdk1YZnlJM0hGUV9xYlUwRHd3bHE5UEVtZnh1VC1kUmh1TVlWcW51M2FJVjhYNWpXOThsdXZSS1VRRzhQVWZJd0l0Zzl4MWZCUkpvNGZtclZXN0YtODMzQXVDMDQ?oc=5",
+          "title": "Oregon father is the latest armed civilian to confront a gunman in a US mass shooting - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeFpQdl9rRFV5NXpScnNPbzFlNEdsb3BWX0c0OGJZR2pFZm1POWJlczZoOFpXQUlzX1lkM05WSnVDa28tby1ObWtNaVBMdmxiV1l5ajJwU1had0ZfZDVBSHJ5akM1UEtKanB1eDlwTm5MQmMyVFljQWxfNm1tU1hONnktaGlqSWt3ZUYtRzJOUHdsQUt6Zy1lcmM2Z0FITW5ETmJsMDdiM0d6U3BTWU9B?oc=5",
           "source": "Google News",
-          "published": "Sat, 17 Oct 2026 01:57:00 GMT"
+          "published": "Sat, 17 Oct 2026 11:14:00 GMT"
         }
       ]
     },
     {
-      "word": "Secretary",
+      "word": "Gunman",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "The Moment Katie Zacharia Found Out Her Five-Day Stint as Press Secretary Was Over - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcVJVakdKOUd6NWg5Q0h5Vy1tajJyU204aW9aZGRQRGFvZ1JqYzNHZVp2OWVEdk1YZnlJM0hGUV9xYlUwRHd3bHE5UEVtZnh1VC1kUmh1TVlWcW51M2FJVjhYNWpXOThsdXZSS1VRRzhQVWZJd0l0Zzl4MWZCUkpvNGZtclZXN0YtODMzQXVDMDQ?oc=5",
+          "title": "Oregon father is the latest armed civilian to confront a gunman in a US mass shooting - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeFpQdl9rRFV5NXpScnNPbzFlNEdsb3BWX0c0OGJZR2pFZm1POWJlczZoOFpXQUlzX1lkM05WSnVDa28tby1ObWtNaVBMdmxiV1l5ajJwU1had0ZfZDVBSHJ5akM1UEtKanB1eDlwTm5MQmMyVFljQWxfNm1tU1hONnktaGlqSWt3ZUYtRzJOUHdsQUt6Zy1lcmM2Z0FITW5ETmJsMDdiM0d6U3BTWU9B?oc=5",
           "source": "Google News",
-          "published": "Sat, 17 Oct 2026 01:57:00 GMT"
+          "published": "Sat, 17 Oct 2026 11:14:00 GMT"
         }
       ]
     },
     {
-      "word": "Kings",
+      "word": "Mass",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "No Kings turns its focus to voting this weekend. Here's what we know - NPR",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85N0l0dEhoV09xcDdkS2EtM3c3dEh3ZzR5dDcyQXI4SlVwc2ZWcEY0alpBMW8wUDdTaUx2dFRGQm5wY3VFdm5YRE93a2c4RTIyUjZTNl9Wb1FqQUk2cVZDWG54YkxsV3MwMjdhZUZHaXJSMV9K?oc=5",
+          "title": "Oregon father is the latest armed civilian to confront a gunman in a US mass shooting - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeFpQdl9rRFV5NXpScnNPbzFlNEdsb3BWX0c0OGJZR2pFZm1POWJlczZoOFpXQUlzX1lkM05WSnVDa28tby1ObWtNaVBMdmxiV1l5ajJwU1had0ZfZDVBSHJ5akM1UEtKanB1eDlwTm5MQmMyVFljQWxfNm1tU1hONnktaGlqSWt3ZUYtRzJOUHdsQUt6Zy1lcmM2Z0FITW5ETmJsMDdiM0d6U3BTWU9B?oc=5",
           "source": "Google News",
-          "published": "Sat, 17 Oct 2026 09:00:00 GMT"
+          "published": "Sat, 17 Oct 2026 11:14:00 GMT"
         }
       ]
     },
     {
-      "word": "Turns",
+      "word": "Shooting",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "No Kings turns its focus to voting this weekend. Here's what we know - NPR",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85N0l0dEhoV09xcDdkS2EtM3c3dEh3ZzR5dDcyQXI4SlVwc2ZWcEY0alpBMW8wUDdTaUx2dFRGQm5wY3VFdm5YRE93a2c4RTIyUjZTNl9Wb1FqQUk2cVZDWG54YkxsV3MwMjdhZUZHaXJSMV9K?oc=5",
+          "title": "Oregon father is the latest armed civilian to confront a gunman in a US mass shooting - AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeFpQdl9rRFV5NXpScnNPbzFlNEdsb3BWX0c0OGJZR2pFZm1POWJlczZoOFpXQUlzX1lkM05WSnVDa28tby1ObWtNaVBMdmxiV1l5ajJwU1had0ZfZDVBSHJ5akM1UEtKanB1eDlwTm5MQmMyVFljQWxfNm1tU1hONnktaGlqSWt3ZUYtRzJOUHdsQUt6Zy1lcmM2Z0FITW5ETmJsMDdiM0d6U3BTWU9B?oc=5",
           "source": "Google News",
-          "published": "Sat, 17 Oct 2026 09:00:00 GMT"
+          "published": "Sat, 17 Oct 2026 11:14:00 GMT"
         }
       ]
     },
     {
-      "word": "Focus",
+      "word": "Protesters",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "No Kings turns its focus to voting this weekend. Here's what we know - NPR",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85N0l0dEhoV09xcDdkS2EtM3c3dEh3ZzR5dDcyQXI4SlVwc2ZWcEY0alpBMW8wUDdTaUx2dFRGQm5wY3VFdm5YRE93a2c4RTIyUjZTNl9Wb1FqQUk2cVZDWG54YkxsV3MwMjdhZUZHaXJSMV9K?oc=5",
+          "title": "Protesters clash with police in Paris and across France during major day of demonstrations - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83QTAzRVNkbmlZSzdDWDY3bFdaTFlHTFIwLUN4b2hCOHQzekVUeElPcFExNzlHbkRZaVI0UFZyT3pMZEdEQjAxY2F1V1dhQ2p1YmRvMTV3?oc=5",
           "source": "Google News",
-          "published": "Sat, 17 Oct 2026 09:00:00 GMT"
+          "published": "Sat, 17 Oct 2026 16:26:23 GMT"
         }
       ]
     },
     {
-      "word": "Voting",
+      "word": "Clash",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "No Kings turns its focus to voting this weekend. Here's what we know - NPR",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85N0l0dEhoV09xcDdkS2EtM3c3dEh3ZzR5dDcyQXI4SlVwc2ZWcEY0alpBMW8wUDdTaUx2dFRGQm5wY3VFdm5YRE93a2c4RTIyUjZTNl9Wb1FqQUk2cVZDWG54YkxsV3MwMjdhZUZHaXJSMV9K?oc=5",
+          "title": "Protesters clash with police in Paris and across France during major day of demonstrations - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83QTAzRVNkbmlZSzdDWDY3bFdaTFlHTFIwLUN4b2hCOHQzekVUeElPcFExNzlHbkRZaVI0UFZyT3pMZEdEQjAxY2F1V1dhQ2p1YmRvMTV3?oc=5",
           "source": "Google News",
-          "published": "Sat, 17 Oct 2026 09:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Weekend",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "No Kings turns its focus to voting this weekend. Here's what we know - NPR",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85N0l0dEhoV09xcDdkS2EtM3c3dEh3ZzR5dDcyQXI4SlVwc2ZWcEY0alpBMW8wUDdTaUx2dFRGQm5wY3VFdm5YRE93a2c4RTIyUjZTNl9Wb1FqQUk2cVZDWG54YkxsV3MwMjdhZUZHaXJSMV9K?oc=5",
-          "source": "Google News",
-          "published": "Sat, 17 Oct 2026 09:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Know",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "No Kings turns its focus to voting this weekend. Here's what we know - NPR",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85N0l0dEhoV09xcDdkS2EtM3c3dEh3ZzR5dDcyQXI4SlVwc2ZWcEY0alpBMW8wUDdTaUx2dFRGQm5wY3VFdm5YRE93a2c4RTIyUjZTNl9Wb1FqQUk2cVZDWG54YkxsV3MwMjdhZUZHaXJSMV9K?oc=5",
-          "source": "Google News",
-          "published": "Sat, 17 Oct 2026 09:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Evacuation",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Evacuation orders issued as wildfire burns in Orange County, California - ABC News - Breaking News, Latest News and Videos",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTFcwRVc4dmRiNFczM2U0S2dCSVd4ZWwtZXFJejlWX25XRTA3em0ybXJkU3gwWkFtb3VyVGhOcm93YW1SVUUxcXRrYnE4cUFod3lVcDBEWTkyTU41YmhzY1A4ejVyRlRUejdiNWVVb0JvWW1oVmpVY0NybFNwSm1URnhacndQN1Y5S0RJbmxqcldIUXBJVWc1dlBGalo3N0J0S0ZrYV9BZm9KV0R6aWdLVVh4ZzFvaTkw0gG-AUFVX3lxTE95YjYtenV2NDJMRlhWQ0pMWi12dlBQLW9JNlhqV1pSeFloMG5ISGNJWS1CWnJiN29TZHNvQUd4VXlvdmdBTkhOOVEwZDNNR3JhVllNMDdWRlVKZlk3RFZlLXVDblYxd1dqQ0p5SkhqXy1mTWVHcGJOazVWc3drcy0tMTJzMHFNZkFEZmUwZlZ6eFVhMWN6dE1SNFQ4YkJCZzBxcXRyVHdRLWlBZ29jLW5IYjFsdG0wc2FQR0FLQVE?oc=5",
-          "source": "Google News",
-          "published": "Fri, 16 Oct 2026 23:52:27 GMT"
+          "published": "Sat, 17 Oct 2026 16:26:23 GMT"
         }
       ]
     }
