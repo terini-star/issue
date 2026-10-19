@@ -1,6 +1,6 @@
 {
   "language": "ko",
-  "last_updated": 1792364207.5951881,
+  "last_updated": 1792371782.9482033,
   "count": 40,
   "trends": [
     {
@@ -29,116 +29,103 @@
       ]
     },
     {
-      "word": "트럼프",
+      "word": "미국",
       "count": 3,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "트럼프 측근 미국 의원 “한미관계 재설정 중…이혼 아닌 부부상담” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OVkVSRTIyY2oydVM4dm9Xa3YyQUQwUGRpaWUweWgwdU11WFFTa1FuSzhoQ0k0Um42X2Q4cnpGYjUtSlZwS251eVZXaHNuN3JmQnpuY3ZhRHNneU0?oc=5",
+          "source": "Google News",
+          "published": "Sun, 18 Oct 2026 20:22:00 GMT"
+        },
+        {
+          "title": "젤렌스키 “미국이 항복 압박”…트럼프 “러시아 제재하면 평화협상 깨져” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HdHBXRUJxdFF2TElianQ5T3I4cF94UFlBUDZwTndoS2tadXc2ekx6ekxCQmFfTmJLbk1QZjRGRExocHdFbUtMaW1abGJsWFBVMlR1VTZYU3BFTHJFMmh0RjgzTFlPM2VjVDg4SVhn?oc=5",
+          "source": "Google News",
+          "published": "Sun, 18 Oct 2026 21:55:00 GMT"
+        },
+        {
+          "title": "[마켓인사이드] 미국 인플레 재점화…10월 FOMC 금리인상 카드 다시 살아나나 - 뉴스투데이",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rMjF0VHJQZVdmeEp1OVZodkc5LXVSWk5YUTUwSWthRjdvclptbnFoZWVPblU5YlBNMUZYMmZMNmZFWlhwdW5POVk1bmxzaWFiZ1dHaHVMQ192YS12cEE?oc=5",
+          "source": "Google News",
+          "published": "Sun, 18 Oct 2026 14:44:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "한국",
+      "count": 2,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "“한국, 남쪽 철책선부터” 영토주권 흔든 브런슨…“선 넘은 폭주” 비판 고조 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91OFNPcHlxVjB3YkNVYndZSTJGcXVySG9FZEtjSEtsVjFOVkN0ODBUTHRaMUVOcUlETldEUkhsR3BxSG54b0pwYklFTklMZi1NUDVaeU9WVjZFR2RGckpvTHRGN1VtNDVq?oc=5",
+          "source": "Google News",
+          "published": "Sun, 18 Oct 2026 22:26:00 GMT"
+        },
+        {
+          "title": "축구선수 김영권 “중국 세금, 일본 소득서 공제해달라”…대법 “국가별 공제 한도 적용해야…생활 근거지 한국” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LbFg0eWdFUnlGNVZHNUp3ejRGY1NZQnk0cVNSTGx6cUh6dTllTk9WTFpVNmZWVF81b1Zud0JYVE5zRnZPNXVPOWJWbTNFWnFrNWRYX2FfRUt3QdIBX0FVX3lxTE13cEt6RUR4aWU3SkhLc25nLUhoRGV1RVAtbkxGV25yZXV5N3NjU1hjVERsa3dNazZGcy1kY3BpTXpwbzA2SDB6NU8yY3ViY0txX1ZILUlrWExtNVZCQS1z?oc=5",
+          "source": "Google News",
+          "published": "Sun, 18 Oct 2026 12:21:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "트럼프",
+      "count": 2,
       "category": "NOUN",
       "articles": [
+        {
+          "title": "트럼프 측근 미국 의원 “한미관계 재설정 중…이혼 아닌 부부상담” - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OVkVSRTIyY2oydVM4dm9Xa3YyQUQwUGRpaWUweWgwdU11WFFTa1FuSzhoQ0k0Um42X2Q4cnpGYjUtSlZwS251eVZXaHNuN3JmQnpuY3ZhRHNneU0?oc=5",
+          "source": "Google News",
+          "published": "Sun, 18 Oct 2026 20:22:00 GMT"
+        },
         {
           "title": "\"트럼프, 중간선거 패배 기류 책임 참모진 탓 돌려 백악관 내홍\" - 연합뉴스TV",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SQ3JzQVhhUVYwcjh6V3ZtdU1oUFFZTnZBckpQd2VMdndVaEF5d0xQc21yaUZFR2Z3VUF1dEZaRlBVUFBMN0RsR3pUcDhIemMyaDJwNVdxWGlSZFMwOTE5M0ZnNXptRlU?oc=5",
           "source": "Google News",
           "published": "Sun, 18 Oct 2026 06:21:00 GMT"
-        },
-        {
-          "title": "트럼프 지지율 33% ‘최저’…경제 신뢰도, 12년 만에 민주당에 역전 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwbFJTVDlCOWdpUHlIYWJqZjFZSFZ3bzZOUjNjaHZIQmU0dU9pWXNmTERxM2NHUm1zS3lwYy1WMzVEUU5EbFByMGl1YlBBcUVHX1lnSzc0ejEwZ9IBX0FVX3lxTE14XzNubU9uRWxNYnUtVUFZcjY3em4xenY0d0NDbVItaGhEUFhoQ2VWZ0VtZnBFNDBkTmhqb3pVRFIwY0pZOVlQd0pmNmNNeGdvQzlRN00yS3JuOEhqdjhB?oc=5",
-          "source": "Google News",
-          "published": "Sun, 18 Oct 2026 21:50:00 GMT"
-        },
-        {
-          "title": "[관풍루] 대미 무역흑자 사상 첫 1천억달러 돌파 눈앞인데, 트럼프 대통령은 연일 관세 앞세워 알래스카 LNG 투자 압박 - 매일신문",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BRW9aOHlyVW0xOG9mRkVCOXZILS01UEZFZ1o1VWV1YnFGT05zS0RPcFAxeTZPWjBkUmVoSkdWWHJFdVU0cm90aGt0c2pvOGxtbEgxQ1BYaHY4bV9vVmJRYXV3?oc=5",
-          "source": "Google News",
-          "published": "Sun, 18 Oct 2026 20:00:00 GMT"
         }
       ]
     },
     {
-      "word": "사과",
+      "word": "하락",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[점선면]소방관의 눈물, 정치인의 사과 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Famh1d0Y1RlRIVnJvNDZsQUF0blRDUURxQjV2ZWJVQXEzaHlFM3l1VzNhTGpQa0dmN0Q2ZERzZERNWXNQQVl1bmNzTUJsYUdsVzZ0bk1qVHl0Z9IBX0FVX3lxTE1NbkNKTUdyenozZlVfWlVuczRNTm9xeXBERV9JNXBzdzFaVDhJTVlELXF4R0t2RWtGcDU3LS03S0VsNjFuQU5PczFGaFBldk1aRUNVUm1GSnJIZmVBVmFB?oc=5",
+          "title": "지난주 14% 급락한 코스피…미국 AI투자 우려에 3%대 하락 출발 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vSkh5V1lZeFNHYUFpelh4eXhBUDFnSno2OVoxVmduSmVNUm00Y25SYXV6cS1NNktRbGVHdlozRVhzVElVMzBYa0pnTGZ4WU0tOG5qWGtHV3BpZG9PaUQyVkkyTmUxS2ZvV0V6LUNGbWc?oc=5",
           "source": "Google News",
-          "published": "Sun, 18 Oct 2026 22:00:00 GMT"
+          "published": "Mon, 19 Oct 2026 00:18:24 GMT"
         },
         {
-          "title": "국힘, 지역 축제 공연 멈춘 김민석에 \"갑질 난입…관객 앞 무릎 꿇고 사과하라\" - JTBC",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNVWNUS0Q5Nk0tcTU1UDNyaUZBUy05Yk1nOXZia2g0UTFmTnV4b2llTEVQazN6NEpPTFh3WmtRWFc0WFV6V2h1bzNrRTZIbDVseUdaUg?oc=5",
+          "title": "[포토] 주유소 기름값 22주 연속 하락 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OdW1MQzBhNmx3MVY1MHhrMkxyUWxudFhxWEhkX2g0dXVBME9FVzRYWkxtR0wzcWJMcTNSLUVBaVhlNzd2QjFjbE5qNUx2UGgxeV9GVw?oc=5",
           "source": "Google News",
-          "published": "Sun, 18 Oct 2026 04:04:00 GMT"
+          "published": "Sun, 18 Oct 2026 08:21:39 GMT"
         }
       ]
     },
     {
-      "word": "서울",
+      "word": "가능",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "서울 아침 기온 11도…이 시각 여의도 환승센터 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XeW5hMDJ3cjZESm81cUdJQXM2eFhaS1RPWW1TNUUtVzkxX0FseHRIbXdsSmNyaWQ5Y1V4ZjI1UHhvTEdCYkdKRzgxY0JqY3RqdFpZd0tPV1NpQjg?oc=5",
+          "title": "DualSense 2.0 컨트롤러가 PlayStation 5 콘솔과 호환될 가능성이 있습니다. - GameGPU",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa21Eclh6QnJFUXVWMWRVamE1dW92a216NVFjSzZ1ODBnZTJkc1RZTnJsRGxZTzNGTi1sSFYxRng2ZVBrTUNTZVR4ZHh1WmdnXzFqTWNCRjJVU2hlT095Uk1RMXk3S3kwV0xoVUV3VFRHUlpIWUh5bTRrNGJHWHFqZUdKLTFYeTBIOVd6Q19aQW5OejlEa2NzNHNZcFlIUVU1ZmszRV9n?oc=5",
           "source": "Google News",
-          "published": "Sun, 18 Oct 2026 21:01:00 GMT"
+          "published": "Sun, 18 Oct 2026 19:05:20 GMT"
         },
         {
-          "title": "서울 곳곳 침수·교통통제…낙엽에 배수구 막혀 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91elBWN3ZEeFVDMTJ4S2NsSlVQNWFBS29CTUpYblhpYkhqZW5LZkpBUHJtYmtfSE1iSEptNXhpLUZDUDFMZ1N3bjdaME9ObzhnU2RoVjNudjhFTTFKSEY0VHRSdXZ5eWs?oc=5",
+          "title": "나이벡, 신장·심장 섬유화 완화 가능성 확인…美 학회서 비임상 공개 - 팜이데일리",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mTkh4WktGcW90SWpjYzVNWTg0STQtbGEwUWRQN0JXMy1nRk0yMExxWUdzX1N6QUowb2VhcGJIclM0YW1Ub2h0dGNkUThqNEh2ZEZfNWI2bEtPQnlVOGVDMzJ0TE1Sd0ZDdVJFbHNn?oc=5",
           "source": "Google News",
-          "published": "Sun, 18 Oct 2026 07:50:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "11",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "서울 아침 기온 11도…이 시각 여의도 환승센터 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XeW5hMDJ3cjZESm81cUdJQXM2eFhaS1RPWW1TNUUtVzkxX0FseHRIbXdsSmNyaWQ5Y1V4ZjI1UHhvTEdCYkdKRzgxY0JqY3RqdFpZd0tPV1NpQjg?oc=5",
-          "source": "Google News",
-          "published": "Sun, 18 Oct 2026 21:01:00 GMT"
-        },
-        {
-          "title": "픽셀 11에만 열린 제미나이 ‘램블러’, 비공식 픽셀보드로 타사폰에도 이식했다 - 위키트리",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vNWlmRHlJQVlyR0RKcUlKQ3VRcW5IekVkbGQ5dVhjZTJPQlItNzZMMXJUT2hlazhTb0t1VjVXQ2VaM2pnYTJDcFZQc0NRVUoyMzFJUTF3?oc=5",
-          "source": "Google News",
-          "published": "Sun, 18 Oct 2026 20:03:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "운세",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[지윤철학원의 오늘의 운세] 2026년 10월 19일 월요일 띠별 운세 - 뉴스투데이",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fZldwZXBCS3pLT1dJQ09OWlVWTERzNk5QV0NjYlEwOEJBb1M2S19qVWdpOWpycUtwMEdmWVhjQUstRzVyX1NaX2hSNVhQRktqRkZNZzJLamxHYkR1Ync?oc=5",
-          "source": "Google News",
-          "published": "Sun, 18 Oct 2026 18:33:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "2연패",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[준PO] LG 2연패에도 희망은 있었다…마무리 손주영 복귀로 불펜에 숨통 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lRXVTTmlyLVVUa2JwckY5RDkzY0NldlM0cklrNkNUQ2NrbGpQTG5NeURkVkdHeHVVdmEyMkZvN0RZRWFwVW9RdHVrY2FNUXZxSmpzbHZpeXJJUQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 18 Oct 2026 21:12:00 GMT"
-        },
-        {
-          "title": "'2연패 뒤 3연승' LG 리버스 스윕 '기적의 드라마' 진짜 잠실구장 마지막 경기서 쓸까 [준PO2 현장] - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLWUhJQVZvdWJXS2tZd1lfLTBqbU5WT191OXBRYzh3b3dvZm9DM2lLQ1RYd1VBckoza2hKYnpTMXVkaElhUm8wZFhfbVduUkMxTXlLU1hqeEpCQ2V0Szd4LVl6Zk0wSlYwbkHSAW9BVV95cUxQUHF4UE4zTF9TbU9qMUJoV3dEV3Jxbk5rMk9RVDd0eXkyaEFEa0FaZXN1WUU5eWhBT1NkXzNFakVicHRfZl9BRVJRVDNMaDNmdko0NHd3bFFDQm9pZDdoaWdwUzl3cmRSS01SbmdYZm8?oc=5",
-          "source": "Google News",
-          "published": "Sun, 18 Oct 2026 20:02:00 GMT"
+          "published": "Sun, 18 Oct 2026 23:59:02 GMT"
         }
       ]
     },
@@ -148,159 +135,94 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "안세영, 야마구치 꺾고 시즌 9번째 우승 트로피 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOY2d2T0JiNnFrT0RCNkNYQjVQNnQ1bWIxMl8yUEpaTFdpSmpUSmFKM1NCTnhBM0I4Q2wyR0t2Vk9QbDJBbHZ1aU9Ma1hOUlBubF83dUdiaDhvdVgzckJOT0hMNXRhRVU?oc=5",
+          "title": "안세영, 야마구치 상대 10연승…덴마크오픈 결승서 2-1 역전승 일구고 시즌 9번째 우승 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iR2NQNVQzY2RBNWNOdFgwMUJmQWw5Q1ZsVWQtX3RJc3MzdkNEX1k4OU4ycUVFRGJISWpCdVQtd3dMNW9YS1BpTUJUamk4VDZBRm5VVVRHZmdLXzFVT0ZOQkRUeUlpV2szNVV3ZTZyT1I5a3N50gFmQVVfeXFMUEJRQTcxcmtLU2tZZjUwMkJDTUZDcThsU1U1Y3l2WFJtWnM5NXdvc1E1YlFsSkJEOXpURlR6Q3RhclUtQWFDSjlZZmYwZWdWUEpobmJ3d0JORWktb3NWRU8ySG1zN1dn?oc=5",
           "source": "Google News",
-          "published": "Sun, 18 Oct 2026 21:55:00 GMT"
+          "published": "Sun, 18 Oct 2026 14:26:00 GMT"
         },
         {
-          "title": "'우승 DNA' 장착한 GS, 타나차까지 가세…더 강해진 디펜딩 챔프 - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJdlQ5dUo2c0xXY0kwMGJWVjVpbXl5NmN3bnBYV3FMSFdFNFU5RVVBaTdLVDYwWlhhd2NKT0xtZGQ1d2x1RlNzTG9SNXZvNjlPQzc3ZXJjelJ2QQ?oc=5",
+          "title": "‘실바가 실바했다’ V리그 챔피언 GS칼텍스, 컵대회도 우승 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE54dm1yWUJzT2F5WXNkRU5PMmxGbkt1cExMUzVvSXpFSklYYlJpRE5TY3NGXzBBYkdycGFSN1hZZE1ocVlUUkh3MG53RUlDM2lCMVFpUnRLMjBEVFd1dWN2NjJOcnl3UQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 18 Oct 2026 22:11:00 GMT"
+          "published": "Sun, 18 Oct 2026 12:29:00 GMT"
         }
       ]
     },
     {
-      "word": "점선면소방관",
+      "word": "실바",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘실바가 실바했다’ V리그 챔피언 GS칼텍스, 컵대회도 우승 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE54dm1yWUJzT2F5WXNkRU5PMmxGbkt1cExMUzVvSXpFSklYYlJpRE5TY3NGXzBBYkdycGFSN1hZZE1ocVlUUkh3MG53RUlDM2lCMVFpUnRLMjBEVFd1dWN2NjJOcnl3UQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 18 Oct 2026 12:29:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "월요일",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[점선면]소방관의 눈물, 정치인의 사과 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Famh1d0Y1RlRIVnJvNDZsQUF0blRDUURxQjV2ZWJVQXEzaHlFM3l1VzNhTGpQa0dmN0Q2ZERzZERNWXNQQVl1bmNzTUJsYUdsVzZ0bk1qVHl0Z9IBX0FVX3lxTE1NbkNKTUdyenozZlVfWlVuczRNTm9xeXBERV9JNXBzdzFaVDhJTVlELXF4R0t2RWtGcDU3LS03S0VsNjFuQU5PczFGaFBldk1aRUNVUm1GSnJIZmVBVmFB?oc=5",
+          "title": "월요일 남부·제주에 최대 20㎜ 비…낮 최고 25도 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMYXY1dDI1R3p2Z1FqVzlwanNIeklqQlJWck5MaW11YUZZd1RoMzlTbHZpeHZvYjVXMUFnS1BCSE9lTjFOVncwUTcwY0Vkd1NGYkQ3ZTM3a2lMQdIBX0FVX3lxTE9QUVpQUmljU2tLMmJyZHE3eHd3cFBIYmUweTB4Rm5IdVF0b0Y1RGFrazVfdG1rcGFTVFR0ZzZKbHFjOTZWc3dQNzl2elFXYTlQeUtEb3kxcmRENFM3bEZ3?oc=5",
           "source": "Google News",
-          "published": "Sun, 18 Oct 2026 22:00:00 GMT"
+          "published": "Sun, 18 Oct 2026 22:17:00 GMT"
         }
       ]
     },
     {
-      "word": "눈물",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[점선면]소방관의 눈물, 정치인의 사과 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Famh1d0Y1RlRIVnJvNDZsQUF0blRDUURxQjV2ZWJVQXEzaHlFM3l1VzNhTGpQa0dmN0Q2ZERzZERNWXNQQVl1bmNzTUJsYUdsVzZ0bk1qVHl0Z9IBX0FVX3lxTE1NbkNKTUdyenozZlVfWlVuczRNTm9xeXBERV9JNXBzdzFaVDhJTVlELXF4R0t2RWtGcDU3LS03S0VsNjFuQU5PczFGaFBldk1aRUNVUm1GSnJIZmVBVmFB?oc=5",
-          "source": "Google News",
-          "published": "Sun, 18 Oct 2026 22:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "정치인",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[점선면]소방관의 눈물, 정치인의 사과 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Famh1d0Y1RlRIVnJvNDZsQUF0blRDUURxQjV2ZWJVQXEzaHlFM3l1VzNhTGpQa0dmN0Q2ZERzZERNWXNQQVl1bmNzTUJsYUdsVzZ0bk1qVHl0Z9IBX0FVX3lxTE1NbkNKTUdyenozZlVfWlVuczRNTm9xeXBERV9JNXBzdzFaVDhJTVlELXF4R0t2RWtGcDU3LS03S0VsNjFuQU5PczFGaFBldk1aRUNVUm1GSnJIZmVBVmFB?oc=5",
-          "source": "Google News",
-          "published": "Sun, 18 Oct 2026 22:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "아침",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "서울 아침 기온 11도…이 시각 여의도 환승센터 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XeW5hMDJ3cjZESm81cUdJQXM2eFhaS1RPWW1TNUUtVzkxX0FseHRIbXdsSmNyaWQ5Y1V4ZjI1UHhvTEdCYkdKRzgxY0JqY3RqdFpZd0tPV1NpQjg?oc=5",
-          "source": "Google News",
-          "published": "Sun, 18 Oct 2026 21:01:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "기온",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "서울 아침 기온 11도…이 시각 여의도 환승센터 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XeW5hMDJ3cjZESm81cUdJQXM2eFhaS1RPWW1TNUUtVzkxX0FseHRIbXdsSmNyaWQ5Y1V4ZjI1UHhvTEdCYkdKRzgxY0JqY3RqdFpZd0tPV1NpQjg?oc=5",
-          "source": "Google News",
-          "published": "Sun, 18 Oct 2026 21:01:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "시각",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "서울 아침 기온 11도…이 시각 여의도 환승센터 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XeW5hMDJ3cjZESm81cUdJQXM2eFhaS1RPWW1TNUUtVzkxX0FseHRIbXdsSmNyaWQ5Y1V4ZjI1UHhvTEdCYkdKRzgxY0JqY3RqdFpZd0tPV1NpQjg?oc=5",
-          "source": "Google News",
-          "published": "Sun, 18 Oct 2026 21:01:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "여의",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "서울 아침 기온 11도…이 시각 여의도 환승센터 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XeW5hMDJ3cjZESm81cUdJQXM2eFhaS1RPWW1TNUUtVzkxX0FseHRIbXdsSmNyaWQ5Y1V4ZjI1UHhvTEdCYkdKRzgxY0JqY3RqdFpZd0tPV1NpQjg?oc=5",
-          "source": "Google News",
-          "published": "Sun, 18 Oct 2026 21:01:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "환승센터",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "서울 아침 기온 11도…이 시각 여의도 환승센터 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XeW5hMDJ3cjZESm81cUdJQXM2eFhaS1RPWW1TNUUtVzkxX0FseHRIbXdsSmNyaWQ5Y1V4ZjI1UHhvTEdCYkdKRzgxY0JqY3RqdFpZd0tPV1NpQjg?oc=5",
-          "source": "Google News",
-          "published": "Sun, 18 Oct 2026 21:01:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "브런슨",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "브런슨 \"한국은 DMZ 남쪽 철책선부터\" 발언 논란‥국방부 \"개인 견해\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MTElkVmtyWW1UbWNVbDRTbHUzUkxYb21nWGp3UEVFdmJ4eG15MldCMGt4WHlLRUlkRlUzcTNMVnlJUUU1UVBaaFNLb29iSE1TVVpTcWtzbnZ4aGhlYVVpMVRac3dNWU1WR0NueXJIcUJLbkFjZjByVNIBeEFVX3lxTFBXZm5LX2hhb18ycEdRd0Rzc05YVkdybi1BUGRuOS1sU1Z3SVlILXJYU2FESmh1cXhtYjlUQTBkd3N6SUNnQk0yZHp6S0oyU1FMN3hTM1dPV2xkZGlrejREb21kWkI1Rk9qWFhHaFJmS3VZT3pHRWNYZQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 18 Oct 2026 10:19:46 GMT"
-        }
-      ]
-    },
-    {
-      "word": "한국",
+      "word": "남부제주",
       "count": 1,
       "category": "LOCATION",
       "articles": [
         {
-          "title": "브런슨 \"한국은 DMZ 남쪽 철책선부터\" 발언 논란‥국방부 \"개인 견해\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MTElkVmtyWW1UbWNVbDRTbHUzUkxYb21nWGp3UEVFdmJ4eG15MldCMGt4WHlLRUlkRlUzcTNMVnlJUUU1UVBaaFNLb29iSE1TVVpTcWtzbnZ4aGhlYVVpMVRac3dNWU1WR0NueXJIcUJLbkFjZjByVNIBeEFVX3lxTFBXZm5LX2hhb18ycEdRd0Rzc05YVkdybi1BUGRuOS1sU1Z3SVlILXJYU2FESmh1cXhtYjlUQTBkd3N6SUNnQk0yZHp6S0oyU1FMN3hTM1dPV2xkZGlrejREb21kWkI1Rk9qWFhHaFJmS3VZT3pHRWNYZQ?oc=5",
+          "title": "월요일 남부·제주에 최대 20㎜ 비…낮 최고 25도 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMYXY1dDI1R3p2Z1FqVzlwanNIeklqQlJWck5MaW11YUZZd1RoMzlTbHZpeHZvYjVXMUFnS1BCSE9lTjFOVncwUTcwY0Vkd1NGYkQ3ZTM3a2lMQdIBX0FVX3lxTE9QUVpQUmljU2tLMmJyZHE3eHd3cFBIYmUweTB4Rm5IdVF0b0Y1RGFrazVfdG1rcGFTVFR0ZzZKbHFjOTZWc3dQNzl2elFXYTlQeUtEb3kxcmRENFM3bEZ3?oc=5",
           "source": "Google News",
-          "published": "Sun, 18 Oct 2026 10:19:46 GMT"
+          "published": "Sun, 18 Oct 2026 22:17:00 GMT"
         }
       ]
     },
     {
-      "word": "DMZ",
+      "word": "비낮",
       "count": 1,
-      "category": "ORGANIZATION",
+      "category": "NOUN",
       "articles": [
         {
-          "title": "브런슨 \"한국은 DMZ 남쪽 철책선부터\" 발언 논란‥국방부 \"개인 견해\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MTElkVmtyWW1UbWNVbDRTbHUzUkxYb21nWGp3UEVFdmJ4eG15MldCMGt4WHlLRUlkRlUzcTNMVnlJUUU1UVBaaFNLb29iSE1TVVpTcWtzbnZ4aGhlYVVpMVRac3dNWU1WR0NueXJIcUJLbkFjZjByVNIBeEFVX3lxTFBXZm5LX2hhb18ycEdRd0Rzc05YVkdybi1BUGRuOS1sU1Z3SVlILXJYU2FESmh1cXhtYjlUQTBkd3N6SUNnQk0yZHp6S0oyU1FMN3hTM1dPV2xkZGlrejREb21kWkI1Rk9qWFhHaFJmS3VZT3pHRWNYZQ?oc=5",
+          "title": "월요일 남부·제주에 최대 20㎜ 비…낮 최고 25도 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMYXY1dDI1R3p2Z1FqVzlwanNIeklqQlJWck5MaW11YUZZd1RoMzlTbHZpeHZvYjVXMUFnS1BCSE9lTjFOVncwUTcwY0Vkd1NGYkQ3ZTM3a2lMQdIBX0FVX3lxTE9QUVpQUmljU2tLMmJyZHE3eHd3cFBIYmUweTB4Rm5IdVF0b0Y1RGFrazVfdG1rcGFTVFR0ZzZKbHFjOTZWc3dQNzl2elFXYTlQeUtEb3kxcmRENFM3bEZ3?oc=5",
           "source": "Google News",
-          "published": "Sun, 18 Oct 2026 10:19:46 GMT"
+          "published": "Sun, 18 Oct 2026 22:17:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "최고",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "월요일 남부·제주에 최대 20㎜ 비…낮 최고 25도 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMYXY1dDI1R3p2Z1FqVzlwanNIeklqQlJWck5MaW11YUZZd1RoMzlTbHZpeHZvYjVXMUFnS1BCSE9lTjFOVncwUTcwY0Vkd1NGYkQ3ZTM3a2lMQdIBX0FVX3lxTE9QUVpQUmljU2tLMmJyZHE3eHd3cFBIYmUweTB4Rm5IdVF0b0Y1RGFrazVfdG1rcGFTVFR0ZzZKbHFjOTZWc3dQNzl2elFXYTlQeUtEb3kxcmRENFM3bEZ3?oc=5",
+          "source": "Google News",
+          "published": "Sun, 18 Oct 2026 22:17:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "25",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "월요일 남부·제주에 최대 20㎜ 비…낮 최고 25도 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMYXY1dDI1R3p2Z1FqVzlwanNIeklqQlJWck5MaW11YUZZd1RoMzlTbHZpeHZvYjVXMUFnS1BCSE9lTjFOVncwUTcwY0Vkd1NGYkQ3ZTM3a2lMQdIBX0FVX3lxTE9QUVpQUmljU2tLMmJyZHE3eHd3cFBIYmUweTB4Rm5IdVF0b0Y1RGFrazVfdG1rcGFTVFR0ZzZKbHFjOTZWc3dQNzl2elFXYTlQeUtEb3kxcmRENFM3bEZ3?oc=5",
+          "source": "Google News",
+          "published": "Sun, 18 Oct 2026 22:17:00 GMT"
         }
       ]
     },
@@ -310,10 +232,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "브런슨 \"한국은 DMZ 남쪽 철책선부터\" 발언 논란‥국방부 \"개인 견해\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MTElkVmtyWW1UbWNVbDRTbHUzUkxYb21nWGp3UEVFdmJ4eG15MldCMGt4WHlLRUlkRlUzcTNMVnlJUUU1UVBaaFNLb29iSE1TVVpTcWtzbnZ4aGhlYVVpMVRac3dNWU1WR0NueXJIcUJLbkFjZjByVNIBeEFVX3lxTFBXZm5LX2hhb18ycEdRd0Rzc05YVkdybi1BUGRuOS1sU1Z3SVlILXJYU2FESmh1cXhtYjlUQTBkd3N6SUNnQk0yZHp6S0oyU1FMN3hTM1dPV2xkZGlrejREb21kWkI1Rk9qWFhHaFJmS3VZT3pHRWNYZQ?oc=5",
+          "title": "“한국, 남쪽 철책선부터” 영토주권 흔든 브런슨…“선 넘은 폭주” 비판 고조 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91OFNPcHlxVjB3YkNVYndZSTJGcXVySG9FZEtjSEtsVjFOVkN0ODBUTHRaMUVOcUlETldEUkhsR3BxSG54b0pwYklFTklMZi1NUDVaeU9WVjZFR2RGckpvTHRGN1VtNDVq?oc=5",
           "source": "Google News",
-          "published": "Sun, 18 Oct 2026 10:19:46 GMT"
+          "published": "Sun, 18 Oct 2026 22:26:00 GMT"
         }
       ]
     },
@@ -323,166 +245,205 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "브런슨 \"한국은 DMZ 남쪽 철책선부터\" 발언 논란‥국방부 \"개인 견해\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MTElkVmtyWW1UbWNVbDRTbHUzUkxYb21nWGp3UEVFdmJ4eG15MldCMGt4WHlLRUlkRlUzcTNMVnlJUUU1UVBaaFNLb29iSE1TVVpTcWtzbnZ4aGhlYVVpMVRac3dNWU1WR0NueXJIcUJLbkFjZjByVNIBeEFVX3lxTFBXZm5LX2hhb18ycEdRd0Rzc05YVkdybi1BUGRuOS1sU1Z3SVlILXJYU2FESmh1cXhtYjlUQTBkd3N6SUNnQk0yZHp6S0oyU1FMN3hTM1dPV2xkZGlrejREb21kWkI1Rk9qWFhHaFJmS3VZT3pHRWNYZQ?oc=5",
+          "title": "“한국, 남쪽 철책선부터” 영토주권 흔든 브런슨…“선 넘은 폭주” 비판 고조 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91OFNPcHlxVjB3YkNVYndZSTJGcXVySG9FZEtjSEtsVjFOVkN0ODBUTHRaMUVOcUlETldEUkhsR3BxSG54b0pwYklFTklMZi1NUDVaeU9WVjZFR2RGckpvTHRGN1VtNDVq?oc=5",
           "source": "Google News",
-          "published": "Sun, 18 Oct 2026 10:19:46 GMT"
+          "published": "Sun, 18 Oct 2026 22:26:00 GMT"
         }
       ]
     },
     {
-      "word": "발언",
+      "word": "영토주권",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "브런슨 \"한국은 DMZ 남쪽 철책선부터\" 발언 논란‥국방부 \"개인 견해\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MTElkVmtyWW1UbWNVbDRTbHUzUkxYb21nWGp3UEVFdmJ4eG15MldCMGt4WHlLRUlkRlUzcTNMVnlJUUU1UVBaaFNLb29iSE1TVVpTcWtzbnZ4aGhlYVVpMVRac3dNWU1WR0NueXJIcUJLbkFjZjByVNIBeEFVX3lxTFBXZm5LX2hhb18ycEdRd0Rzc05YVkdybi1BUGRuOS1sU1Z3SVlILXJYU2FESmh1cXhtYjlUQTBkd3N6SUNnQk0yZHp6S0oyU1FMN3hTM1dPV2xkZGlrejREb21kWkI1Rk9qWFhHaFJmS3VZT3pHRWNYZQ?oc=5",
+          "title": "“한국, 남쪽 철책선부터” 영토주권 흔든 브런슨…“선 넘은 폭주” 비판 고조 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91OFNPcHlxVjB3YkNVYndZSTJGcXVySG9FZEtjSEtsVjFOVkN0ODBUTHRaMUVOcUlETldEUkhsR3BxSG54b0pwYklFTklMZi1NUDVaeU9WVjZFR2RGckpvTHRGN1VtNDVq?oc=5",
           "source": "Google News",
-          "published": "Sun, 18 Oct 2026 10:19:46 GMT"
+          "published": "Sun, 18 Oct 2026 22:26:00 GMT"
         }
       ]
     },
     {
-      "word": "논란국방부",
+      "word": "흔든",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "“한국, 남쪽 철책선부터” 영토주권 흔든 브런슨…“선 넘은 폭주” 비판 고조 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91OFNPcHlxVjB3YkNVYndZSTJGcXVySG9FZEtjSEtsVjFOVkN0ODBUTHRaMUVOcUlETldEUkhsR3BxSG54b0pwYklFTklMZi1NUDVaeU9WVjZFR2RGckpvTHRGN1VtNDVq?oc=5",
+          "source": "Google News",
+          "published": "Sun, 18 Oct 2026 22:26:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "브런슨선",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "“한국, 남쪽 철책선부터” 영토주권 흔든 브런슨…“선 넘은 폭주” 비판 고조 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91OFNPcHlxVjB3YkNVYndZSTJGcXVySG9FZEtjSEtsVjFOVkN0ODBUTHRaMUVOcUlETldEUkhsR3BxSG54b0pwYklFTklMZi1NUDVaeU9WVjZFR2RGckpvTHRGN1VtNDVq?oc=5",
+          "source": "Google News",
+          "published": "Sun, 18 Oct 2026 22:26:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "넘은",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "“한국, 남쪽 철책선부터” 영토주권 흔든 브런슨…“선 넘은 폭주” 비판 고조 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91OFNPcHlxVjB3YkNVYndZSTJGcXVySG9FZEtjSEtsVjFOVkN0ODBUTHRaMUVOcUlETldEUkhsR3BxSG54b0pwYklFTklMZi1NUDVaeU9WVjZFR2RGckpvTHRGN1VtNDVq?oc=5",
+          "source": "Google News",
+          "published": "Sun, 18 Oct 2026 22:26:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "폭주",
+      "count": 1,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "“한국, 남쪽 철책선부터” 영토주권 흔든 브런슨…“선 넘은 폭주” 비판 고조 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91OFNPcHlxVjB3YkNVYndZSTJGcXVySG9FZEtjSEtsVjFOVkN0ODBUTHRaMUVOcUlETldEUkhsR3BxSG54b0pwYklFTklMZi1NUDVaeU9WVjZFR2RGckpvTHRGN1VtNDVq?oc=5",
+          "source": "Google News",
+          "published": "Sun, 18 Oct 2026 22:26:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "비판",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "“한국, 남쪽 철책선부터” 영토주권 흔든 브런슨…“선 넘은 폭주” 비판 고조 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91OFNPcHlxVjB3YkNVYndZSTJGcXVySG9FZEtjSEtsVjFOVkN0ODBUTHRaMUVOcUlETldEUkhsR3BxSG54b0pwYklFTklMZi1NUDVaeU9WVjZFR2RGckpvTHRGN1VtNDVq?oc=5",
+          "source": "Google News",
+          "published": "Sun, 18 Oct 2026 22:26:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "고조",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "“한국, 남쪽 철책선부터” 영토주권 흔든 브런슨…“선 넘은 폭주” 비판 고조 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91OFNPcHlxVjB3YkNVYndZSTJGcXVySG9FZEtjSEtsVjFOVkN0ODBUTHRaMUVOcUlETldEUkhsR3BxSG54b0pwYklFTklMZi1NUDVaeU9WVjZFR2RGckpvTHRGN1VtNDVq?oc=5",
+          "source": "Google News",
+          "published": "Sun, 18 Oct 2026 22:26:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "소방",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘소방 빨대’ 추미애 뒤늦은 사과…징계 연대청원까지 민주당 악재 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0Q1djenZZV1ljYkpIYU4wa051dnQ3b3VVWDVKUlFtNTFpdnZ0SERZY1VzMDNCRG96dzJuaVJMNnYxRlZpVFRVX20xMXJXRmluV2xBZjVtMVhqdlpwVVMxQkI0WE1pNkdrckMwVUdjTi1JZWIw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 18 Oct 2026 15:33:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "빨대",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘소방 빨대’ 추미애 뒤늦은 사과…징계 연대청원까지 민주당 악재 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0Q1djenZZV1ljYkpIYU4wa051dnQ3b3VVWDVKUlFtNTFpdnZ0SERZY1VzMDNCRG96dzJuaVJMNnYxRlZpVFRVX20xMXJXRmluV2xBZjVtMVhqdlpwVVMxQkI0WE1pNkdrckMwVUdjTi1JZWIw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 18 Oct 2026 15:33:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "추미애",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘소방 빨대’ 추미애 뒤늦은 사과…징계 연대청원까지 민주당 악재 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0Q1djenZZV1ljYkpIYU4wa051dnQ3b3VVWDVKUlFtNTFpdnZ0SERZY1VzMDNCRG96dzJuaVJMNnYxRlZpVFRVX20xMXJXRmluV2xBZjVtMVhqdlpwVVMxQkI0WE1pNkdrckMwVUdjTi1JZWIw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 18 Oct 2026 15:33:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "뒤늦",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘소방 빨대’ 추미애 뒤늦은 사과…징계 연대청원까지 민주당 악재 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0Q1djenZZV1ljYkpIYU4wa051dnQ3b3VVWDVKUlFtNTFpdnZ0SERZY1VzMDNCRG96dzJuaVJMNnYxRlZpVFRVX20xMXJXRmluV2xBZjVtMVhqdlpwVVMxQkI0WE1pNkdrckMwVUdjTi1JZWIw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 18 Oct 2026 15:33:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "사과징계",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘소방 빨대’ 추미애 뒤늦은 사과…징계 연대청원까지 민주당 악재 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0Q1djenZZV1ljYkpIYU4wa051dnQ3b3VVWDVKUlFtNTFpdnZ0SERZY1VzMDNCRG96dzJuaVJMNnYxRlZpVFRVX20xMXJXRmluV2xBZjVtMVhqdlpwVVMxQkI0WE1pNkdrckMwVUdjTi1JZWIw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 18 Oct 2026 15:33:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "연대청원",
       "count": 1,
       "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "브런슨 \"한국은 DMZ 남쪽 철책선부터\" 발언 논란‥국방부 \"개인 견해\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MTElkVmtyWW1UbWNVbDRTbHUzUkxYb21nWGp3UEVFdmJ4eG15MldCMGt4WHlLRUlkRlUzcTNMVnlJUUU1UVBaaFNLb29iSE1TVVpTcWtzbnZ4aGhlYVVpMVRac3dNWU1WR0NueXJIcUJLbkFjZjByVNIBeEFVX3lxTFBXZm5LX2hhb18ycEdRd0Rzc05YVkdybi1BUGRuOS1sU1Z3SVlILXJYU2FESmh1cXhtYjlUQTBkd3N6SUNnQk0yZHp6S0oyU1FMN3hTM1dPV2xkZGlrejREb21kWkI1Rk9qWFhHaFJmS3VZT3pHRWNYZQ?oc=5",
+          "title": "‘소방 빨대’ 추미애 뒤늦은 사과…징계 연대청원까지 민주당 악재 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0Q1djenZZV1ljYkpIYU4wa051dnQ3b3VVWDVKUlFtNTFpdnZ0SERZY1VzMDNCRG96dzJuaVJMNnYxRlZpVFRVX20xMXJXRmluV2xBZjVtMVhqdlpwVVMxQkI0WE1pNkdrckMwVUdjTi1JZWIw?oc=5",
           "source": "Google News",
-          "published": "Sun, 18 Oct 2026 10:19:46 GMT"
+          "published": "Sun, 18 Oct 2026 15:33:00 GMT"
         }
       ]
     },
     {
-      "word": "개인",
+      "word": "민주당",
       "count": 1,
-      "category": "NOUN",
+      "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "브런슨 \"한국은 DMZ 남쪽 철책선부터\" 발언 논란‥국방부 \"개인 견해\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MTElkVmtyWW1UbWNVbDRTbHUzUkxYb21nWGp3UEVFdmJ4eG15MldCMGt4WHlLRUlkRlUzcTNMVnlJUUU1UVBaaFNLb29iSE1TVVpTcWtzbnZ4aGhlYVVpMVRac3dNWU1WR0NueXJIcUJLbkFjZjByVNIBeEFVX3lxTFBXZm5LX2hhb18ycEdRd0Rzc05YVkdybi1BUGRuOS1sU1Z3SVlILXJYU2FESmh1cXhtYjlUQTBkd3N6SUNnQk0yZHp6S0oyU1FMN3hTM1dPV2xkZGlrejREb21kWkI1Rk9qWFhHaFJmS3VZT3pHRWNYZQ?oc=5",
+          "title": "‘소방 빨대’ 추미애 뒤늦은 사과…징계 연대청원까지 민주당 악재 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0Q1djenZZV1ljYkpIYU4wa051dnQ3b3VVWDVKUlFtNTFpdnZ0SERZY1VzMDNCRG96dzJuaVJMNnYxRlZpVFRVX20xMXJXRmluV2xBZjVtMVhqdlpwVVMxQkI0WE1pNkdrckMwVUdjTi1JZWIw?oc=5",
           "source": "Google News",
-          "published": "Sun, 18 Oct 2026 10:19:46 GMT"
+          "published": "Sun, 18 Oct 2026 15:33:00 GMT"
         }
       ]
     },
     {
-      "word": "견해",
+      "word": "악재",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "브런슨 \"한국은 DMZ 남쪽 철책선부터\" 발언 논란‥국방부 \"개인 견해\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MTElkVmtyWW1UbWNVbDRTbHUzUkxYb21nWGp3UEVFdmJ4eG15MldCMGt4WHlLRUlkRlUzcTNMVnlJUUU1UVBaaFNLb29iSE1TVVpTcWtzbnZ4aGhlYVVpMVRac3dNWU1WR0NueXJIcUJLbkFjZjByVNIBeEFVX3lxTFBXZm5LX2hhb18ycEdRd0Rzc05YVkdybi1BUGRuOS1sU1Z3SVlILXJYU2FESmh1cXhtYjlUQTBkd3N6SUNnQk0yZHp6S0oyU1FMN3hTM1dPV2xkZGlrejREb21kWkI1Rk9qWFhHaFJmS3VZT3pHRWNYZQ?oc=5",
+          "title": "‘소방 빨대’ 추미애 뒤늦은 사과…징계 연대청원까지 민주당 악재 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0Q1djenZZV1ljYkpIYU4wa051dnQ3b3VVWDVKUlFtNTFpdnZ0SERZY1VzMDNCRG96dzJuaVJMNnYxRlZpVFRVX20xMXJXRmluV2xBZjVtMVhqdlpwVVMxQkI0WE1pNkdrckMwVUdjTi1JZWIw?oc=5",
           "source": "Google News",
-          "published": "Sun, 18 Oct 2026 10:19:46 GMT"
-        }
-      ]
-    },
-    {
-      "word": "생활비",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘생활비 이래서 살겠냐!’ 시청 불 질러…55만명 “마크롱 사퇴해” 거리로 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQnozb1pUaUVFOFVURllQS25QcEE1NGNUQXBPX0xaSHVySFE4ZFVaTjBMWjNScHM5X1NzOHpQeFNWdnp5UTYybUhRTnBrbUJ0RXNQZ2dLbHUwUEVKUWZGQzluLWw0NkZNZU1KSEotdlJKemZZZFdKbnBJWTl4aWVBZm53?oc=5",
-          "source": "Google News",
-          "published": "Sun, 18 Oct 2026 15:37:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "이래서",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘생활비 이래서 살겠냐!’ 시청 불 질러…55만명 “마크롱 사퇴해” 거리로 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQnozb1pUaUVFOFVURllQS25QcEE1NGNUQXBPX0xaSHVySFE4ZFVaTjBMWjNScHM5X1NzOHpQeFNWdnp5UTYybUhRTnBrbUJ0RXNQZ2dLbHUwUEVKUWZGQzluLWw0NkZNZU1KSEotdlJKemZZZFdKbnBJWTl4aWVBZm53?oc=5",
-          "source": "Google News",
-          "published": "Sun, 18 Oct 2026 15:37:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "살겠냐",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘생활비 이래서 살겠냐!’ 시청 불 질러…55만명 “마크롱 사퇴해” 거리로 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQnozb1pUaUVFOFVURllQS25QcEE1NGNUQXBPX0xaSHVySFE4ZFVaTjBMWjNScHM5X1NzOHpQeFNWdnp5UTYybUhRTnBrbUJ0RXNQZ2dLbHUwUEVKUWZGQzluLWw0NkZNZU1KSEotdlJKemZZZFdKbnBJWTl4aWVBZm53?oc=5",
-          "source": "Google News",
-          "published": "Sun, 18 Oct 2026 15:37:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "시청",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘생활비 이래서 살겠냐!’ 시청 불 질러…55만명 “마크롱 사퇴해” 거리로 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQnozb1pUaUVFOFVURllQS25QcEE1NGNUQXBPX0xaSHVySFE4ZFVaTjBMWjNScHM5X1NzOHpQeFNWdnp5UTYybUhRTnBrbUJ0RXNQZ2dLbHUwUEVKUWZGQzluLWw0NkZNZU1KSEotdlJKemZZZFdKbnBJWTl4aWVBZm53?oc=5",
-          "source": "Google News",
-          "published": "Sun, 18 Oct 2026 15:37:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "질러55만명",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘생활비 이래서 살겠냐!’ 시청 불 질러…55만명 “마크롱 사퇴해” 거리로 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQnozb1pUaUVFOFVURllQS25QcEE1NGNUQXBPX0xaSHVySFE4ZFVaTjBMWjNScHM5X1NzOHpQeFNWdnp5UTYybUhRTnBrbUJ0RXNQZ2dLbHUwUEVKUWZGQzluLWw0NkZNZU1KSEotdlJKemZZZFdKbnBJWTl4aWVBZm53?oc=5",
-          "source": "Google News",
-          "published": "Sun, 18 Oct 2026 15:37:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "마크롱",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘생활비 이래서 살겠냐!’ 시청 불 질러…55만명 “마크롱 사퇴해” 거리로 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQnozb1pUaUVFOFVURllQS25QcEE1NGNUQXBPX0xaSHVySFE4ZFVaTjBMWjNScHM5X1NzOHpQeFNWdnp5UTYybUhRTnBrbUJ0RXNQZ2dLbHUwUEVKUWZGQzluLWw0NkZNZU1KSEotdlJKemZZZFdKbnBJWTl4aWVBZm53?oc=5",
-          "source": "Google News",
-          "published": "Sun, 18 Oct 2026 15:37:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "사퇴해",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘생활비 이래서 살겠냐!’ 시청 불 질러…55만명 “마크롱 사퇴해” 거리로 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQnozb1pUaUVFOFVURllQS25QcEE1NGNUQXBPX0xaSHVySFE4ZFVaTjBMWjNScHM5X1NzOHpQeFNWdnp5UTYybUhRTnBrbUJ0RXNQZ2dLbHUwUEVKUWZGQzluLWw0NkZNZU1KSEotdlJKemZZZFdKbnBJWTl4aWVBZm53?oc=5",
-          "source": "Google News",
-          "published": "Sun, 18 Oct 2026 15:37:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "거리",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘생활비 이래서 살겠냐!’ 시청 불 질러…55만명 “마크롱 사퇴해” 거리로 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQnozb1pUaUVFOFVURllQS25QcEE1NGNUQXBPX0xaSHVySFE4ZFVaTjBMWjNScHM5X1NzOHpQeFNWdnp5UTYybUhRTnBrbUJ0RXNQZ2dLbHUwUEVKUWZGQzluLWw0NkZNZU1KSEotdlJKemZZZFdKbnBJWTl4aWVBZm53?oc=5",
-          "source": "Google News",
-          "published": "Sun, 18 Oct 2026 15:37:00 GMT"
+          "published": "Sun, 18 Oct 2026 15:33:00 GMT"
         }
       ]
     },
@@ -574,6 +535,45 @@
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE02cEdiOGRCeTBoSWJvUV94SmVMbGtvRUdqUzVocDNiUENwSFBwMEozdHFISEdMRm5FNGRyUmw0YTJVU3NKX0lGNk5JUFBrUXp5aXpUN0xaVHo1a0d4aEkxeUhaUU5OQXV3RUV6VWJFX0FJUQ?oc=5",
           "source": "Google News",
           "published": "Sun, 18 Oct 2026 15:36:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "만나",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "아빠 빈소에, 아빠랑 잡은 메뚜기 상자 안고…7살 딸 “꼭 다시 만나” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE02cEdiOGRCeTBoSWJvUV94SmVMbGtvRUdqUzVocDNiUENwSFBwMEozdHFISEdMRm5FNGRyUmw0YTJVU3NKX0lGNk5JUFBrUXp5aXpUN0xaVHo1a0d4aEkxeUhaUU5OQXV3RUV6VWJFX0FJUQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 18 Oct 2026 15:36:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "프랑스서",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "프랑스서 55만명 거리로 쏟아졌다…마크롱 \"용서 못 해\" - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SUjE2S2ZGcXhYdzMxWU1ibmtoZVFQdDNkT1BEbnlWWDdyVDR1TDA0enkzcWlUTTc5VEx1WkVYVlFJdU9RUncwNUU1TW9IVjZDbXY2bXRlV0FIUQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 18 Oct 2026 21:29:54 GMT"
+        }
+      ]
+    },
+    {
+      "word": "55만명",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "프랑스서 55만명 거리로 쏟아졌다…마크롱 \"용서 못 해\" - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SUjE2S2ZGcXhYdzMxWU1ibmtoZVFQdDNkT1BEbnlWWDdyVDR1TDA0enkzcWlUTTc5VEx1WkVYVlFJdU9RUncwNUU1TW9IVjZDbXY2bXRlV0FIUQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 18 Oct 2026 21:29:54 GMT"
         }
       ]
     }
