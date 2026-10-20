@@ -1,8 +1,33 @@
 {
   "language": "ko",
-  "last_updated": 1792514628.9151266,
+  "last_updated": 1792527835.5634425,
   "count": 40,
   "trends": [
+    {
+      "word": "감독",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘실낙원’ 배현성 \"연상호 감독이 경쟁 상대\" 남다른 무대인사 각오 - JTBC",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qTEZMVVJKUGp3Vl9BMktOYnEwN3BwTWZTX19yMHVkTHJSRHpwZVpmYXFaMmk2T2NlU1NKSklCUUd5blJBZlJEVTMybFBoNWU3ejVINw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 20 Oct 2026 10:50:00 GMT"
+        },
+        {
+          "title": "[준PO] '3연패 탈락' LG 염경엽 감독 \"타선에서 밀려…팬들 기대에 부응 못해 죄송\" - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10NElTalJoaHNWQ2FuU0ZEcTZhU21SNm5GY09EY1pNRVA4T2dERzJXSDJxZzNnMHlhbWVqMU5PV29NVzBuempkWnBVZW9wTVRtN2NXcUtTRUlsZw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 20 Oct 2026 14:06:00 GMT"
+        },
+        {
+          "title": "준PO 3연승 이범호 감독 “삼성은 우리보다 강팀, 나흘 휴식 큰 힘 될 것” - 문화일보",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOc3ZOdUdpM2VZcU9EejBpRHNNbkx2UlQ4YnczSUVDTjlJUTMtbmNBZ01QYVk2U2diaFMxVHJPd3pOOEJqZE9aNGlKbzNMZGxn?oc=5",
+          "source": "Google News",
+          "published": "Tue, 20 Oct 2026 14:04:52 GMT"
+        }
+      ]
+    },
     {
       "word": "경찰",
       "count": 2,
@@ -23,21 +48,21 @@
       ]
     },
     {
-      "word": "북한군",
+      "word": "사망",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "경찰, ’5·18 북한군 개입설’ 보수논객 지만원 구속영장 신청 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCRVAwUEVKNTR2OUkxTm94eS1FZGdjUmFiRjJRU2tpQ3BocldEemMzeWpVWWR4QWF2WXpBZFVyOEtEX0FTc2dfdkprMkVJMUNqVVdCVkV6dlBlcGdveC15UHBMVmFySHM?oc=5",
+          "title": "노동자 23명 사망, 대표는 징역 4년…유가족은 다시 무너졌다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVU1N1TE9HTUU5Q0pJTWRyVEROWjBMRGJPUmdORjNyS2RLbFVPQUZDNkl4NEJ2S3ZlWkNyOWdlbW1tNUEtVGtXa09FNGxMQ1FodXBMX2lnQkFSd9IBX0FVX3lxTE4yYkpfTU11NDNDR04tTWVFcWgxZ2dndFNKclEtODhyM0o0T2RiajBkUHg1eXR0QURiNEpsN1VCaW1nMkVZRWJCRkZRUV9KSjlxVjEwdnNYckd1TlQyOUdB?oc=5",
           "source": "Google News",
-          "published": "Tue, 20 Oct 2026 12:58:00 GMT"
+          "published": "Tue, 20 Oct 2026 12:30:00 GMT"
         },
         {
-          "title": "“내가 북한군 병사”... 북한 현실 반영한 미국 게임 ‘콜 오브 듀티’ – RFA 자유아시아방송 - Radio Free Asia",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOelM1ZW1HV0Y1aDk0Y3lKVmR0U0ZvdHl4T2szNjFva0NzOWgxZVZFSUU5aTZhMXlLcWVlX3dQRWJSVVJXekN2RHhrdndpc0QtYWE0ODRxRmJSR0ozWmNWVVhqUlUwX3lpUFZnVGl1aUg4RC1NeW1RZ2EwMkh6cWJCTUpKMlI5a2p6aDhyT29MRWpBQTA?oc=5",
+          "title": "남아공 해변서 수영하던 여성, 상어에 물려 사망 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00SUlSbHBqNGFjblpZV1M5UWhOVS1GQTNYdld5MndqWjdGNmE0MjRBeWU3ZERIT2tUNHpNOHpZMlZxNEFVaklMTTNvaW1ram8yUlVsV0YwZHZqeknSAWBBVV95cUxOd0stcVFqSkdmQ2tzQ2NZZUNvUnE1UWpmZVFLM1pUdHlzdk4xajEyQjYyY3dIUkZ1eF9qV3A1MHN4R0hodnB4WXBpd0dMREp4UXRoUEpTR0htckNIc3VsT20?oc=5",
           "source": "Google News",
-          "published": "Mon, 19 Oct 2026 20:15:48 GMT"
+          "published": "Tue, 20 Oct 2026 14:59:11 GMT"
         }
       ]
     },
@@ -47,16 +72,54 @@
       "category": "PERSON",
       "articles": [
         {
+          "title": "이 대통령, 3기 신도시 '인천 계양지구' 방문…주택공급 역량 집중 당부 - 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLXZyS1JiV19hWjlwZmVaTnozcjhKV2w4ZXByUGVtbEc5c21tX0Y1azBPUHdsZFFNOTl0WUlrbld4QTdaRDY1S01pTVdMWk4wVFJlU0hpamx0aG8tY2pVRHcxVFhVa1k5QjhrU2lqMmJlTEdFUU1NNV8wQUZXWVdSNlE0dmtIX2FhOUE?oc=5",
+          "source": "Google News",
+          "published": "Tue, 20 Oct 2026 16:07:20 GMT"
+        },
+        {
           "title": "이 대통령, \"모든 위협으로부터 국민 일상 지키는 데 국정 역량 집중\" - 정책브리핑",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NclN5cVFKR28zWlVCMHExdmFHbVVTdlBkTVJRUmFMUFBhNC0wcVl5dDlENXZqalJHUVh2ODFQbHNnUDBOckhkT2ZZSHhqV1dwSTM5WG9TYVJTX3BUUFdibWtQNDJhTGt4SHhjZQ?oc=5",
           "source": "Google News",
           "published": "Tue, 20 Oct 2026 08:03:53 GMT"
+        }
+      ]
+    },
+    {
+      "word": "역량",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령, 3기 신도시 '인천 계양지구' 방문…주택공급 역량 집중 당부 - 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLXZyS1JiV19hWjlwZmVaTnozcjhKV2w4ZXByUGVtbEc5c21tX0Y1azBPUHdsZFFNOTl0WUlrbld4QTdaRDY1S01pTVdMWk4wVFJlU0hpamx0aG8tY2pVRHcxVFhVa1k5QjhrU2lqMmJlTEdFUU1NNV8wQUZXWVdSNlE0dmtIX2FhOUE?oc=5",
+          "source": "Google News",
+          "published": "Tue, 20 Oct 2026 16:07:20 GMT"
         },
         {
-          "title": "이 대통령 “한국 주식시장, 매우 저평가···조만간 필요한 조치” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ab0h5YWx4Qnk2Tkt5S001ZFJlbFlPZ3Jmel9GeF9TLXBPWVoxOGRCUFlUOVdsY01nZkRLNHdwdEZUTDBKSEdOWW5vUWltN2xMZkxONzNxd2tGd9IBX0FVX3lxTE5PblNCb1BIMnBLTGNTenBKei1QMktYWFZkbXNNSlVNOVY0M3BDZHc5bDVnQmZZZzJCM2xkYnl1MW5UcU81QjFTV19oVHRSaGY4YUZSSWJNSmY1eVY4NEdj?oc=5",
+          "title": "이 대통령, \"모든 위협으로부터 국민 일상 지키는 데 국정 역량 집중\" - 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NclN5cVFKR28zWlVCMHExdmFHbVVTdlBkTVJRUmFMUFBhNC0wcVl5dDlENXZqalJHUVh2ODFQbHNnUDBOckhkT2ZZSHhqV1dwSTM5WG9TYVJTX3BUUFdibWtQNDJhTGt4SHhjZQ?oc=5",
           "source": "Google News",
-          "published": "Mon, 19 Oct 2026 13:15:00 GMT"
+          "published": "Tue, 20 Oct 2026 08:03:53 GMT"
+        }
+      ]
+    },
+    {
+      "word": "집중",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "이 대통령, 3기 신도시 '인천 계양지구' 방문…주택공급 역량 집중 당부 - 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLXZyS1JiV19hWjlwZmVaTnozcjhKV2w4ZXByUGVtbEc5c21tX0Y1azBPUHdsZFFNOTl0WUlrbld4QTdaRDY1S01pTVdMWk4wVFJlU0hpamx0aG8tY2pVRHcxVFhVa1k5QjhrU2lqMmJlTEdFUU1NNV8wQUZXWVdSNlE0dmtIX2FhOUE?oc=5",
+          "source": "Google News",
+          "published": "Tue, 20 Oct 2026 16:07:20 GMT"
+        },
+        {
+          "title": "이 대통령, \"모든 위협으로부터 국민 일상 지키는 데 국정 역량 집중\" - 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NclN5cVFKR28zWlVCMHExdmFHbVVTdlBkTVJRUmFMUFBhNC0wcVl5dDlENXZqalJHUVh2ODFQbHNnUDBOckhkT2ZZSHhqV1dwSTM5WG9TYVJTX3BUUFdibWtQNDJhTGt4SHhjZQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 20 Oct 2026 08:03:53 GMT"
         }
       ]
     },
@@ -80,175 +143,78 @@
       ]
     },
     {
-      "word": "조치",
+      "word": "상어",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령 “한국 주식시장, 매우 저평가···조만간 필요한 조치” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ab0h5YWx4Qnk2Tkt5S001ZFJlbFlPZ3Jmel9GeF9TLXBPWVoxOGRCUFlUOVdsY01nZkRLNHdwdEZUTDBKSEdOWW5vUWltN2xMZkxONzNxd2tGd9IBX0FVX3lxTE5PblNCb1BIMnBLTGNTenBKei1QMktYWFZkbXNNSlVNOVY0M3BDZHc5bDVnQmZZZzJCM2xkYnl1MW5UcU81QjFTV19oVHRSaGY4YUZSSWJNSmY1eVY4NEdj?oc=5",
+          "title": "\"이번엔 떠날까‥\" 해수부, 상어 '부캉이' 3차 외해 유도 추진 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5senMtVkxKS3hOc3lsWUpkdUVxZDl5RXdteDk2X2VfNmF6RndjampsR1hwbV9xZmNQWkhqbDRySERxTUFlbUN2Q2lwNXN4MmdDY2pielRSTkg4Rl9iU3V0OUE2S2c2WHZmSzdWanNLTExGOUdfbTZF0gF3QVVfeXFMUGFnYzVscjJ0ZG1uTzZBc3RSSXozX0ZvbVVhOC1lNlUzb3hBSkF3cUFyUFVlNjFhaVl3OGp6QV9sVFVKSklnczUybkMzQzZheElWazdXY0JoUnBfQXlLbUhnR0dPRlAyWVBfSTZhbm8tXzNndE9YdW8?oc=5",
           "source": "Google News",
-          "published": "Mon, 19 Oct 2026 13:15:00 GMT"
+          "published": "Tue, 20 Oct 2026 07:24:00 GMT"
         },
         {
-          "title": "외교부, 우크라 공관원 일부 철수…“대사 소환 뒤에도 전향적 조치 없어” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5RbE1WUy1ZQmJnU0tKV0JOOFdtdjJYNE1jRWlkT0hxSXdHQXpxbXBtRnduWm9qRm1KYWZwX29naWJ5dXRBdjJTN1JhMzZES2FlbEhBZnFWaU9Ja3QyOGt4TFlhMi1BQUZuRHlTTWxGQlVnUEhmNnNv0gFmQVVfeXFMTWVHdEFINmV2YUhkZ3d3TzJXTG5PeWRTQU1jVUlvb05EbVQ1MW5oM2cwRGt3LW5WbThvZ3RiUzZyTjNUWW1ZbmJsdU5NMWg3ZjBpNG1qZzA3SVFjZWs1VDd3UGNTMlJ3?oc=5",
+          "title": "남아공 해변서 수영하던 여성, 상어에 물려 사망 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00SUlSbHBqNGFjblpZV1M5UWhOVS1GQTNYdld5MndqWjdGNmE0MjRBeWU3ZERIT2tUNHpNOHpZMlZxNEFVaklMTTNvaW1ram8yUlVsV0YwZHZqeknSAWBBVV95cUxOd0stcVFqSkdmQ2tzQ2NZZUNvUnE1UWpmZVFLM1pUdHlzdk4xajEyQjYyY3dIUkZ1eF9qV3A1MHN4R0hodnB4WXBpd0dMREp4UXRoUEpTR0htckNIc3VsT20?oc=5",
           "source": "Google News",
-          "published": "Tue, 20 Oct 2026 05:53:00 GMT"
+          "published": "Tue, 20 Oct 2026 14:59:11 GMT"
         }
       ]
     },
     {
-      "word": "미국",
+      "word": "추진",
       "count": 2,
-      "category": "LOCATION",
+      "category": "NOUN",
       "articles": [
         {
-          "title": "젤렌스키 \"미국이 패트리엇 주면 러 공격 중단\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14cVlsT2VuVzhyZzg0bmd0WHBtUXpCSTh6RHBaeUdzU0pGRWFlbmJEN242WWd3MTZLdGhWSlNQLTFHSk1EZUw5ZVdhbWVmX2J1MEVuOFJpa2tQZ0RyNkRmV3l0Q1IwUTZocVdBWmx2azBqb3cx0gF0QVVfeXFMT2FicjVWR3V3M0NIdkUyT09iRkFnSkU4Zm40ZktKSzh0M1FWVUw1bk9Jay02aG1HTVVkcUJyLUFWM3lXc3lrZ3FNYmpPVDJnV24xWFFVaDJaR1NWcFUwSTlmYUJsRnoxejB2amdEOFF6cF9nWTY?oc=5",
+          "title": "\"이번엔 떠날까‥\" 해수부, 상어 '부캉이' 3차 외해 유도 추진 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5senMtVkxKS3hOc3lsWUpkdUVxZDl5RXdteDk2X2VfNmF6RndjampsR1hwbV9xZmNQWkhqbDRySERxTUFlbUN2Q2lwNXN4MmdDY2pielRSTkg4Rl9iU3V0OUE2S2c2WHZmSzdWanNLTExGOUdfbTZF0gF3QVVfeXFMUGFnYzVscjJ0ZG1uTzZBc3RSSXozX0ZvbVVhOC1lNlUzb3hBSkF3cUFyUFVlNjFhaVl3OGp6QV9sVFVKSklnczUybkMzQzZheElWazdXY0JoUnBfQXlLbUhnR0dPRlAyWVBfSTZhbm8tXzNndE9YdW8?oc=5",
           "source": "Google News",
-          "published": "Tue, 20 Oct 2026 06:08:00 GMT"
+          "published": "Tue, 20 Oct 2026 07:24:00 GMT"
         },
         {
-          "title": "“내가 북한군 병사”... 북한 현실 반영한 미국 게임 ‘콜 오브 듀티’ – RFA 자유아시아방송 - Radio Free Asia",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOelM1ZW1HV0Y1aDk0Y3lKVmR0U0ZvdHl4T2szNjFva0NzOWgxZVZFSUU5aTZhMXlLcWVlX3dQRWJSVVJXekN2RHhrdndpc0QtYWE0ODRxRmJSR0ozWmNWVVhqUlUwX3lpUFZnVGl1aUg4RC1NeW1RZ2EwMkh6cWJCTUpKMlI5a2p6aDhyT29MRWpBQTA?oc=5",
+          "title": "캐나다 앨버타주, 분리독립 추진 주민투표 부결…잔류 선택(종합) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yaFlwOTVPMlkwdi1tblc0aVBBOHlIY1FhVGNyV2QwWU9QZGJkbWliY0tVa2V4NnNXMlJiVjk2bTBVc05BbzFhLTJ6aHVSZlhfamEzQ0tiUzgwazjSAWBBVV95cUxOMWw4UjY4V0JDdHhsOTBubDRxN1NuaThnMy1sMHZhaGVVYXA0R2xETnBIbDBMcTMwR19LNWJZQUFGdDBTa1huTWc0RldaWEw3ZGVUcUlvMkJDbzFsTVBoLU4?oc=5",
           "source": "Google News",
-          "published": "Mon, 19 Oct 2026 20:15:48 GMT"
+          "published": "Tue, 20 Oct 2026 15:39:22 GMT"
         }
       ]
     },
     {
-      "word": "공격",
+      "word": "세계",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "젤렌스키 \"미국이 패트리엇 주면 러 공격 중단\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14cVlsT2VuVzhyZzg0bmd0WHBtUXpCSTh6RHBaeUdzU0pGRWFlbmJEN242WWd3MTZLdGhWSlNQLTFHSk1EZUw5ZVdhbWVmX2J1MEVuOFJpa2tQZ0RyNkRmV3l0Q1IwUTZocVdBWmx2azBqb3cx0gF0QVVfeXFMT2FicjVWR3V3M0NIdkUyT09iRkFnSkU4Zm40ZktKSzh0M1FWVUw1bk9Jay02aG1HTVVkcUJyLUFWM3lXc3lrZ3FNYmpPVDJnV24xWFFVaDJaR1NWcFUwSTlmYUJsRnoxejB2amdEOFF6cF9nWTY?oc=5",
+          "title": "일본, 화성 탐사선 발사 성공…모래 채취 세계 첫 도전 - 서울경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tQW5HZ2t3NUZTMGM4bUJ4bjhidVRueTQxTDJTZHFYWHFDMGs0ajZvNFdTcnI4R1d5akoySW5yTWJrRzJIb3FxZVRla1VDd1VzR2fSAVNBVV95cUxNYnZCZldoN2diaXRsaEhUY0h1bTc3Mkd2djAwczB1UnRXYXdERXRIanpJZGtzM2RKa2cwd3ZFMVpud1BkVjhXQkZPWkhmNTY3eEtWbw?oc=5",
           "source": "Google News",
-          "published": "Tue, 20 Oct 2026 06:08:00 GMT"
+          "published": "Tue, 20 Oct 2026 09:18:16 GMT"
         },
         {
-          "title": "남아공 해변서 수영하던 60대 여성, 상어 공격 받아 사망 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mREtMOXlkU2R0em1qTTB2dU1IalYyd3kwcWhWeVBoWUZQSnZLUHBPS1JwQ2VLQlJKUHpqWUJjaWpvUFI2VFV4RWk4NDRaazUzMDNvWEJZLVFBWFU?oc=5",
+          "title": "좋은병원들, ‘세계 골다공증의 날’ 뼈 건강 캠페인 - 메드월드뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Sa0VScC00dTNtczh0S0NHdVRLejZFZjc5ZFdfNXJaQ1prNFE2WnE3b1NYb3J6LV94Yzg1azFNTEpGUEZCWXB6N1ZVOTNuVjV1VEZEcVRlMlROVjA5bW1FVnNTb2dhaEU0MVZITQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 20 Oct 2026 15:03:00 GMT"
+          "published": "Tue, 20 Oct 2026 07:28:17 GMT"
         }
       ]
     },
     {
-      "word": "사망",
+      "word": "준PO",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"김정은 뇌출혈 사망\" 소문 확산에…재빨리 사진 공개한 北 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LT0NsTTdRU19vbXQwektKVml3Qk16VWJVdHF5aW5QLS1iaVB5eEJfbWcxTWE2eFhBWjhOMUF6SUtjMXlOcjVrY3VJalRXdkFSSzdzQW80SDN1QQ?oc=5",
+          "title": "[준PO] '3연패 탈락' LG 염경엽 감독 \"타선에서 밀려…팬들 기대에 부응 못해 죄송\" - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10NElTalJoaHNWQ2FuU0ZEcTZhU21SNm5GY09EY1pNRVA4T2dERzJXSDJxZzNnMHlhbWVqMU5PV29NVzBuempkWnBVZW9wTVRtN2NXcUtTRUlsZw?oc=5",
           "source": "Google News",
-          "published": "Tue, 20 Oct 2026 08:19:24 GMT"
+          "published": "Tue, 20 Oct 2026 14:06:00 GMT"
         },
         {
-          "title": "남아공 해변서 수영하던 60대 여성, 상어 공격 받아 사망 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mREtMOXlkU2R0em1qTTB2dU1IalYyd3kwcWhWeVBoWUZQSnZLUHBPS1JwQ2VLQlJKUHpqWUJjaWpvUFI2VFV4RWk4NDRaazUzMDNvWEJZLVFBWFU?oc=5",
+          "title": "준PO 3연승 이범호 감독 “삼성은 우리보다 강팀, 나흘 휴식 큰 힘 될 것” - 문화일보",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOc3ZOdUdpM2VZcU9EejBpRHNNbkx2UlQ4YnczSUVDTjlJUTMtbmNBZ01QYVk2U2diaFMxVHJPd3pOOEJqZE9aNGlKbzNMZGxn?oc=5",
           "source": "Google News",
-          "published": "Tue, 20 Oct 2026 15:03:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "KIA",
-      "count": 2,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "[스타in준PO] '亞쿼터 PS 첫 승' KIA 시라카와…우려 딛고 3차전 5이닝 9K 1실점 호투 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VRmNiSFRXbHJpNDZQdWtRRlRZanE1UUhKaU9qQ2JxVXFFblRJb0hUc0dkM2FOY0ZpTEJvR1BvdUFwUzdTa0pNYThyWjg4TmxIRmQ0V0ItNEZrSUFB?oc=5",
-          "source": "Google News",
-          "published": "Tue, 20 Oct 2026 14:21:00 GMT"
-        },
-        {
-          "title": "박병호보다 멀리, 우즈만큼 멀리, 김도영이 잠실 담장을 넘겼다...초대형 만루포! KIA 2회 7득점 빅이닝 [잠실 현장] - 더게이트",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LRmhNY0p2d2NTZFRLeVR0TmhrUTlTeS1SWjEzZXZsS1llNzBqRVpHeFRYYzk2dFNIdnpaOTlKOWlISFJmc19PbHQydE10bExhdjNyVDRFMjVpbEFoZ3VGWEVuQ3BIME5yM0HSAWxBVV95cUxPb2M4NEtLSEVkaXV6Q1FGWXFzYU0tYy1QNUh4QmVVRkl1ZEZLbzF5LW40dEo5TnFyUVhWUDR5Z0owcEV5SmVFNU4tT3l5R0lBbTJuRkFtaURMNFByYkkySDRZdENMb051eTNIR0M?oc=5",
-          "source": "Google News",
-          "published": "Tue, 20 Oct 2026 10:36:06 GMT"
-        }
-      ]
-    },
-    {
-      "word": "멀리",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "박병호보다 멀리, 우즈만큼 멀리, 김도영이 잠실 담장을 넘겼다...초대형 만루포! KIA 2회 7득점 빅이닝 [잠실 현장] - 더게이트",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LRmhNY0p2d2NTZFRLeVR0TmhrUTlTeS1SWjEzZXZsS1llNzBqRVpHeFRYYzk2dFNIdnpaOTlKOWlISFJmc19PbHQydE10bExhdjNyVDRFMjVpbEFoZ3VGWEVuQ3BIME5yM0HSAWxBVV95cUxPb2M4NEtLSEVkaXV6Q1FGWXFzYU0tYy1QNUh4QmVVRkl1ZEZLbzF5LW40dEo5TnFyUVhWUDR5Z0owcEV5SmVFNU4tT3l5R0lBbTJuRkFtaURMNFByYkkySDRZdENMb051eTNIR0M?oc=5",
-          "source": "Google News",
-          "published": "Tue, 20 Oct 2026 10:36:06 GMT"
-        }
-      ]
-    },
-    {
-      "word": "잠실",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "박병호보다 멀리, 우즈만큼 멀리, 김도영이 잠실 담장을 넘겼다...초대형 만루포! KIA 2회 7득점 빅이닝 [잠실 현장] - 더게이트",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LRmhNY0p2d2NTZFRLeVR0TmhrUTlTeS1SWjEzZXZsS1llNzBqRVpHeFRYYzk2dFNIdnpaOTlKOWlISFJmc19PbHQydE10bExhdjNyVDRFMjVpbEFoZ3VGWEVuQ3BIME5yM0HSAWxBVV95cUxPb2M4NEtLSEVkaXV6Q1FGWXFzYU0tYy1QNUh4QmVVRkl1ZEZLbzF5LW40dEo5TnFyUVhWUDR5Z0owcEV5SmVFNU4tT3l5R0lBbTJuRkFtaURMNFByYkkySDRZdENMb051eTNIR0M?oc=5",
-          "source": "Google News",
-          "published": "Tue, 20 Oct 2026 10:36:06 GMT"
-        }
-      ]
-    },
-    {
-      "word": "역삼",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "역삼 특허법인 2곳 방화 70대, 4년전에도 ‘휘발유 난동’ 부렸다 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tSVJkdWpRdWpvckRDSmloWGd5bHhCMVg5UDhKbExsZlRjVnFwaHdNMU5WWXdDX2dCTXJ1amtuSm1lZjktTXJwRnRIelMzc2JiNGVpTzk3bU1WdXQtRXJLYVpOb09rempzdDE1TDVUUll1LTVQUEHSAWZBVV95cUxOaWxiSndxUXhUclJmdzRyRnVsQllWNC14WnNBZGhSdXd2M3JpRTdJQXM3VjM1V0tVdGdEMDBlenZ5Z1oyOEdHVnQ1REZjelJ4dnVMMWZvYkN2THU5dUIxME9oMWJ5eHc?oc=5",
-          "source": "Google News",
-          "published": "Tue, 20 Oct 2026 10:50:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "특허법인",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "역삼 특허법인 2곳 방화 70대, 4년전에도 ‘휘발유 난동’ 부렸다 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tSVJkdWpRdWpvckRDSmloWGd5bHhCMVg5UDhKbExsZlRjVnFwaHdNMU5WWXdDX2dCTXJ1amtuSm1lZjktTXJwRnRIelMzc2JiNGVpTzk3bU1WdXQtRXJLYVpOb09rempzdDE1TDVUUll1LTVQUEHSAWZBVV95cUxOaWxiSndxUXhUclJmdzRyRnVsQllWNC14WnNBZGhSdXd2M3JpRTdJQXM3VjM1V0tVdGdEMDBlenZ5Z1oyOEdHVnQ1REZjelJ4dnVMMWZvYkN2THU5dUIxME9oMWJ5eHc?oc=5",
-          "source": "Google News",
-          "published": "Tue, 20 Oct 2026 10:50:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "2곳",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "역삼 특허법인 2곳 방화 70대, 4년전에도 ‘휘발유 난동’ 부렸다 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tSVJkdWpRdWpvckRDSmloWGd5bHhCMVg5UDhKbExsZlRjVnFwaHdNMU5WWXdDX2dCTXJ1amtuSm1lZjktTXJwRnRIelMzc2JiNGVpTzk3bU1WdXQtRXJLYVpOb09rempzdDE1TDVUUll1LTVQUEHSAWZBVV95cUxOaWxiSndxUXhUclJmdzRyRnVsQllWNC14WnNBZGhSdXd2M3JpRTdJQXM3VjM1V0tVdGdEMDBlenZ5Z1oyOEdHVnQ1REZjelJ4dnVMMWZvYkN2THU5dUIxME9oMWJ5eHc?oc=5",
-          "source": "Google News",
-          "published": "Tue, 20 Oct 2026 10:50:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "방화",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "역삼 특허법인 2곳 방화 70대, 4년전에도 ‘휘발유 난동’ 부렸다 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tSVJkdWpRdWpvckRDSmloWGd5bHhCMVg5UDhKbExsZlRjVnFwaHdNMU5WWXdDX2dCTXJ1amtuSm1lZjktTXJwRnRIelMzc2JiNGVpTzk3bU1WdXQtRXJLYVpOb09rempzdDE1TDVUUll1LTVQUEHSAWZBVV95cUxOaWxiSndxUXhUclJmdzRyRnVsQllWNC14WnNBZGhSdXd2M3JpRTdJQXM3VjM1V0tVdGdEMDBlenZ5Z1oyOEdHVnQ1REZjelJ4dnVMMWZvYkN2THU5dUIxME9oMWJ5eHc?oc=5",
-          "source": "Google News",
-          "published": "Tue, 20 Oct 2026 10:50:00 GMT"
+          "published": "Tue, 20 Oct 2026 14:04:52 GMT"
         }
       ]
     },
@@ -258,153 +224,114 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "역삼 특허법인 2곳 방화 70대, 4년전에도 ‘휘발유 난동’ 부렸다 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tSVJkdWpRdWpvckRDSmloWGd5bHhCMVg5UDhKbExsZlRjVnFwaHdNMU5WWXdDX2dCTXJ1amtuSm1lZjktTXJwRnRIelMzc2JiNGVpTzk3bU1WdXQtRXJLYVpOb09rempzdDE1TDVUUll1LTVQUEHSAWZBVV95cUxOaWxiSndxUXhUclJmdzRyRnVsQllWNC14WnNBZGhSdXd2M3JpRTdJQXM3VjM1V0tVdGdEMDBlenZ5Z1oyOEdHVnQ1REZjelJ4dnVMMWZvYkN2THU5dUIxME9oMWJ5eHc?oc=5",
+          "title": "70대 ‘특허법인 4년 원한’... 역삼동 같은 건물 연쇄방화 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY3ZINnkzQmliZ3RKTHZoalN3VGVGcWx2UXZqdElTMTMtYi1yOWxUWUktQ2FpTWlBWW1wbWV4bHdVeGxNbk5lNmNoTk1QNGxMT1VIZnA0eWFDbUhldnh4Z2NPTnJYNUNkc183REt6OXMzUXQ0bklQalBiR0VSeGRxd2YzQlg1ZVZsWDhMenJjYnk?oc=5",
           "source": "Google News",
-          "published": "Tue, 20 Oct 2026 10:50:00 GMT"
+          "published": "Tue, 20 Oct 2026 13:07:00 GMT"
         }
       ]
     },
     {
-      "word": "4년전",
+      "word": "특허법인",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "역삼 특허법인 2곳 방화 70대, 4년전에도 ‘휘발유 난동’ 부렸다 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tSVJkdWpRdWpvckRDSmloWGd5bHhCMVg5UDhKbExsZlRjVnFwaHdNMU5WWXdDX2dCTXJ1amtuSm1lZjktTXJwRnRIelMzc2JiNGVpTzk3bU1WdXQtRXJLYVpOb09rempzdDE1TDVUUll1LTVQUEHSAWZBVV95cUxOaWxiSndxUXhUclJmdzRyRnVsQllWNC14WnNBZGhSdXd2M3JpRTdJQXM3VjM1V0tVdGdEMDBlenZ5Z1oyOEdHVnQ1REZjelJ4dnVMMWZvYkN2THU5dUIxME9oMWJ5eHc?oc=5",
+          "title": "70대 ‘특허법인 4년 원한’... 역삼동 같은 건물 연쇄방화 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY3ZINnkzQmliZ3RKTHZoalN3VGVGcWx2UXZqdElTMTMtYi1yOWxUWUktQ2FpTWlBWW1wbWV4bHdVeGxNbk5lNmNoTk1QNGxMT1VIZnA0eWFDbUhldnh4Z2NPTnJYNUNkc183REt6OXMzUXQ0bklQalBiR0VSeGRxd2YzQlg1ZVZsWDhMenJjYnk?oc=5",
           "source": "Google News",
-          "published": "Tue, 20 Oct 2026 10:50:00 GMT"
+          "published": "Tue, 20 Oct 2026 13:07:00 GMT"
         }
       ]
     },
     {
-      "word": "휘발유",
+      "word": "4년",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "역삼 특허법인 2곳 방화 70대, 4년전에도 ‘휘발유 난동’ 부렸다 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tSVJkdWpRdWpvckRDSmloWGd5bHhCMVg5UDhKbExsZlRjVnFwaHdNMU5WWXdDX2dCTXJ1amtuSm1lZjktTXJwRnRIelMzc2JiNGVpTzk3bU1WdXQtRXJLYVpOb09rempzdDE1TDVUUll1LTVQUEHSAWZBVV95cUxOaWxiSndxUXhUclJmdzRyRnVsQllWNC14WnNBZGhSdXd2M3JpRTdJQXM3VjM1V0tVdGdEMDBlenZ5Z1oyOEdHVnQ1REZjelJ4dnVMMWZvYkN2THU5dUIxME9oMWJ5eHc?oc=5",
+          "title": "70대 ‘특허법인 4년 원한’... 역삼동 같은 건물 연쇄방화 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY3ZINnkzQmliZ3RKTHZoalN3VGVGcWx2UXZqdElTMTMtYi1yOWxUWUktQ2FpTWlBWW1wbWV4bHdVeGxNbk5lNmNoTk1QNGxMT1VIZnA0eWFDbUhldnh4Z2NPTnJYNUNkc183REt6OXMzUXQ0bklQalBiR0VSeGRxd2YzQlg1ZVZsWDhMenJjYnk?oc=5",
           "source": "Google News",
-          "published": "Tue, 20 Oct 2026 10:50:00 GMT"
+          "published": "Tue, 20 Oct 2026 13:07:00 GMT"
         }
       ]
     },
     {
-      "word": "난동",
+      "word": "원한",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "역삼 특허법인 2곳 방화 70대, 4년전에도 ‘휘발유 난동’ 부렸다 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tSVJkdWpRdWpvckRDSmloWGd5bHhCMVg5UDhKbExsZlRjVnFwaHdNMU5WWXdDX2dCTXJ1amtuSm1lZjktTXJwRnRIelMzc2JiNGVpTzk3bU1WdXQtRXJLYVpOb09rempzdDE1TDVUUll1LTVQUEHSAWZBVV95cUxOaWxiSndxUXhUclJmdzRyRnVsQllWNC14WnNBZGhSdXd2M3JpRTdJQXM3VjM1V0tVdGdEMDBlenZ5Z1oyOEdHVnQ1REZjelJ4dnVMMWZvYkN2THU5dUIxME9oMWJ5eHc?oc=5",
+          "title": "70대 ‘특허법인 4년 원한’... 역삼동 같은 건물 연쇄방화 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY3ZINnkzQmliZ3RKTHZoalN3VGVGcWx2UXZqdElTMTMtYi1yOWxUWUktQ2FpTWlBWW1wbWV4bHdVeGxNbk5lNmNoTk1QNGxMT1VIZnA0eWFDbUhldnh4Z2NPTnJYNUNkc183REt6OXMzUXQ0bklQalBiR0VSeGRxd2YzQlg1ZVZsWDhMenJjYnk?oc=5",
           "source": "Google News",
-          "published": "Tue, 20 Oct 2026 10:50:00 GMT"
+          "published": "Tue, 20 Oct 2026 13:07:00 GMT"
         }
       ]
     },
     {
-      "word": "부렸다",
+      "word": "역삼동",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "역삼 특허법인 2곳 방화 70대, 4년전에도 ‘휘발유 난동’ 부렸다 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tSVJkdWpRdWpvckRDSmloWGd5bHhCMVg5UDhKbExsZlRjVnFwaHdNMU5WWXdDX2dCTXJ1amtuSm1lZjktTXJwRnRIelMzc2JiNGVpTzk3bU1WdXQtRXJLYVpOb09rempzdDE1TDVUUll1LTVQUEHSAWZBVV95cUxOaWxiSndxUXhUclJmdzRyRnVsQllWNC14WnNBZGhSdXd2M3JpRTdJQXM3VjM1V0tVdGdEMDBlenZ5Z1oyOEdHVnQ1REZjelJ4dnVMMWZvYkN2THU5dUIxME9oMWJ5eHc?oc=5",
+          "title": "70대 ‘특허법인 4년 원한’... 역삼동 같은 건물 연쇄방화 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY3ZINnkzQmliZ3RKTHZoalN3VGVGcWx2UXZqdElTMTMtYi1yOWxUWUktQ2FpTWlBWW1wbWV4bHdVeGxNbk5lNmNoTk1QNGxMT1VIZnA0eWFDbUhldnh4Z2NPTnJYNUNkc183REt6OXMzUXQ0bklQalBiR0VSeGRxd2YzQlg1ZVZsWDhMenJjYnk?oc=5",
           "source": "Google News",
-          "published": "Tue, 20 Oct 2026 10:50:00 GMT"
+          "published": "Tue, 20 Oct 2026 13:07:00 GMT"
         }
       ]
     },
     {
-      "word": "3년",
+      "word": "같은",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[단독] 3년 넘은 방화복 교체 필요한데…소방예산 증가분 98% 인건비 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HeGhLOFMzNFA5cFFES096STFpV3h0RTUtMGRnR0FCM1h6aEt4T0w1QVY0YmhtbE1Va1FVT3pLeDZzRDZzYzI0MXEyQmJMZFBPU3BMdlRvX1NiX2ZqS3BrVm45X0kyNG5ESUE?oc=5",
+          "title": "70대 ‘특허법인 4년 원한’... 역삼동 같은 건물 연쇄방화 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY3ZINnkzQmliZ3RKTHZoalN3VGVGcWx2UXZqdElTMTMtYi1yOWxUWUktQ2FpTWlBWW1wbWV4bHdVeGxNbk5lNmNoTk1QNGxMT1VIZnA0eWFDbUhldnh4Z2NPTnJYNUNkc183REt6OXMzUXQ0bklQalBiR0VSeGRxd2YzQlg1ZVZsWDhMenJjYnk?oc=5",
           "source": "Google News",
-          "published": "Tue, 20 Oct 2026 13:13:00 GMT"
+          "published": "Tue, 20 Oct 2026 13:07:00 GMT"
         }
       ]
     },
     {
-      "word": "넘은",
+      "word": "건물",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[단독] 3년 넘은 방화복 교체 필요한데…소방예산 증가분 98% 인건비 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HeGhLOFMzNFA5cFFES096STFpV3h0RTUtMGRnR0FCM1h6aEt4T0w1QVY0YmhtbE1Va1FVT3pLeDZzRDZzYzI0MXEyQmJMZFBPU3BMdlRvX1NiX2ZqS3BrVm45X0kyNG5ESUE?oc=5",
+          "title": "70대 ‘특허법인 4년 원한’... 역삼동 같은 건물 연쇄방화 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY3ZINnkzQmliZ3RKTHZoalN3VGVGcWx2UXZqdElTMTMtYi1yOWxUWUktQ2FpTWlBWW1wbWV4bHdVeGxNbk5lNmNoTk1QNGxMT1VIZnA0eWFDbUhldnh4Z2NPTnJYNUNkc183REt6OXMzUXQ0bklQalBiR0VSeGRxd2YzQlg1ZVZsWDhMenJjYnk?oc=5",
           "source": "Google News",
-          "published": "Tue, 20 Oct 2026 13:13:00 GMT"
+          "published": "Tue, 20 Oct 2026 13:07:00 GMT"
         }
       ]
     },
     {
-      "word": "방화복",
+      "word": "연쇄방",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[단독] 3년 넘은 방화복 교체 필요한데…소방예산 증가분 98% 인건비 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HeGhLOFMzNFA5cFFES096STFpV3h0RTUtMGRnR0FCM1h6aEt4T0w1QVY0YmhtbE1Va1FVT3pLeDZzRDZzYzI0MXEyQmJMZFBPU3BMdlRvX1NiX2ZqS3BrVm45X0kyNG5ESUE?oc=5",
+          "title": "70대 ‘특허법인 4년 원한’... 역삼동 같은 건물 연쇄방화 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY3ZINnkzQmliZ3RKTHZoalN3VGVGcWx2UXZqdElTMTMtYi1yOWxUWUktQ2FpTWlBWW1wbWV4bHdVeGxNbk5lNmNoTk1QNGxMT1VIZnA0eWFDbUhldnh4Z2NPTnJYNUNkc183REt6OXMzUXQ0bklQalBiR0VSeGRxd2YzQlg1ZVZsWDhMenJjYnk?oc=5",
           "source": "Google News",
-          "published": "Tue, 20 Oct 2026 13:13:00 GMT"
+          "published": "Tue, 20 Oct 2026 13:07:00 GMT"
         }
       ]
     },
     {
-      "word": "교체",
+      "word": "민주",
       "count": 1,
-      "category": "NOUN",
+      "category": "LOCATION",
       "articles": [
         {
-          "title": "[단독] 3년 넘은 방화복 교체 필요한데…소방예산 증가분 98% 인건비 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HeGhLOFMzNFA5cFFES096STFpV3h0RTUtMGRnR0FCM1h6aEt4T0w1QVY0YmhtbE1Va1FVT3pLeDZzRDZzYzI0MXEyQmJMZFBPU3BMdlRvX1NiX2ZqS3BrVm45X0kyNG5ESUE?oc=5",
+          "title": "민주, ‘조희대 탄핵’ 앞서 국정조사 검토…역풍 맞을라 여론부터 키운다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TcXZzZndlbURCVmo5TERQalVLQ3A2eGJHX1NXak1rakF3ZFdETDEtM2xJX1ZYYmlzLXpRcVBTSF95bnY0QTAwMjVyMm5JQnZxTktQMjJROEkySGt2TUYxZUYxd1hhS05qZXc?oc=5",
           "source": "Google News",
-          "published": "Tue, 20 Oct 2026 13:13:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "필요한데소방예산",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[단독] 3년 넘은 방화복 교체 필요한데…소방예산 증가분 98% 인건비 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HeGhLOFMzNFA5cFFES096STFpV3h0RTUtMGRnR0FCM1h6aEt4T0w1QVY0YmhtbE1Va1FVT3pLeDZzRDZzYzI0MXEyQmJMZFBPU3BMdlRvX1NiX2ZqS3BrVm45X0kyNG5ESUE?oc=5",
-          "source": "Google News",
-          "published": "Tue, 20 Oct 2026 13:13:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "증가분",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[단독] 3년 넘은 방화복 교체 필요한데…소방예산 증가분 98% 인건비 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HeGhLOFMzNFA5cFFES096STFpV3h0RTUtMGRnR0FCM1h6aEt4T0w1QVY0YmhtbE1Va1FVT3pLeDZzRDZzYzI0MXEyQmJMZFBPU3BMdlRvX1NiX2ZqS3BrVm45X0kyNG5ESUE?oc=5",
-          "source": "Google News",
-          "published": "Tue, 20 Oct 2026 13:13:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "인건비",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[단독] 3년 넘은 방화복 교체 필요한데…소방예산 증가분 98% 인건비 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HeGhLOFMzNFA5cFFES096STFpV3h0RTUtMGRnR0FCM1h6aEt4T0w1QVY0YmhtbE1Va1FVT3pLeDZzRDZzYzI0MXEyQmJMZFBPU3BMdlRvX1NiX2ZqS3BrVm45X0kyNG5ESUE?oc=5",
-          "source": "Google News",
-          "published": "Tue, 20 Oct 2026 13:13:00 GMT"
+          "published": "Tue, 20 Oct 2026 16:18:00 GMT"
         }
       ]
     },
@@ -414,166 +341,257 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘조희대 탄핵소추 후폭풍’ 부담되는 민주당…국정조사 카드 만지작 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpSFdOU1FjRDV2dVAzWFY2Nk9rYlFoUlhOajZJa0puaUthWURiU0VHV2NUOFNhQURBbVhaX3Jta2ROLUNET09nMkxTeUtSU3VEdWQ1T1VXRVN0d9IBX0FVX3lxTE10VWxIdVFEcWxjOWo2YXZxVFVqRXRjY2FTcXFUTG00eUR4QWFXeWhGV1ZBc3FCQUdFMEFWTUR3WG90ZUpNbDhET1hyT0RrdE9oN2dHYm0tZUU5QVFESDV3?oc=5",
+          "title": "민주, ‘조희대 탄핵’ 앞서 국정조사 검토…역풍 맞을라 여론부터 키운다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TcXZzZndlbURCVmo5TERQalVLQ3A2eGJHX1NXak1rakF3ZFdETDEtM2xJX1ZYYmlzLXpRcVBTSF95bnY0QTAwMjVyMm5JQnZxTktQMjJROEkySGt2TUYxZUYxd1hhS05qZXc?oc=5",
           "source": "Google News",
-          "published": "Tue, 20 Oct 2026 07:42:00 GMT"
+          "published": "Tue, 20 Oct 2026 16:18:00 GMT"
         }
       ]
     },
     {
-      "word": "탄핵소추",
+      "word": "탄핵",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘조희대 탄핵소추 후폭풍’ 부담되는 민주당…국정조사 카드 만지작 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpSFdOU1FjRDV2dVAzWFY2Nk9rYlFoUlhOajZJa0puaUthWURiU0VHV2NUOFNhQURBbVhaX3Jta2ROLUNET09nMkxTeUtSU3VEdWQ1T1VXRVN0d9IBX0FVX3lxTE10VWxIdVFEcWxjOWo2YXZxVFVqRXRjY2FTcXFUTG00eUR4QWFXeWhGV1ZBc3FCQUdFMEFWTUR3WG90ZUpNbDhET1hyT0RrdE9oN2dHYm0tZUU5QVFESDV3?oc=5",
+          "title": "민주, ‘조희대 탄핵’ 앞서 국정조사 검토…역풍 맞을라 여론부터 키운다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TcXZzZndlbURCVmo5TERQalVLQ3A2eGJHX1NXak1rakF3ZFdETDEtM2xJX1ZYYmlzLXpRcVBTSF95bnY0QTAwMjVyMm5JQnZxTktQMjJROEkySGt2TUYxZUYxd1hhS05qZXc?oc=5",
           "source": "Google News",
-          "published": "Tue, 20 Oct 2026 07:42:00 GMT"
+          "published": "Tue, 20 Oct 2026 16:18:00 GMT"
         }
       ]
     },
     {
-      "word": "후폭풍",
+      "word": "앞서",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘조희대 탄핵소추 후폭풍’ 부담되는 민주당…국정조사 카드 만지작 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpSFdOU1FjRDV2dVAzWFY2Nk9rYlFoUlhOajZJa0puaUthWURiU0VHV2NUOFNhQURBbVhaX3Jta2ROLUNET09nMkxTeUtSU3VEdWQ1T1VXRVN0d9IBX0FVX3lxTE10VWxIdVFEcWxjOWo2YXZxVFVqRXRjY2FTcXFUTG00eUR4QWFXeWhGV1ZBc3FCQUdFMEFWTUR3WG90ZUpNbDhET1hyT0RrdE9oN2dHYm0tZUU5QVFESDV3?oc=5",
+          "title": "민주, ‘조희대 탄핵’ 앞서 국정조사 검토…역풍 맞을라 여론부터 키운다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TcXZzZndlbURCVmo5TERQalVLQ3A2eGJHX1NXak1rakF3ZFdETDEtM2xJX1ZYYmlzLXpRcVBTSF95bnY0QTAwMjVyMm5JQnZxTktQMjJROEkySGt2TUYxZUYxd1hhS05qZXc?oc=5",
           "source": "Google News",
-          "published": "Tue, 20 Oct 2026 07:42:00 GMT"
+          "published": "Tue, 20 Oct 2026 16:18:00 GMT"
         }
       ]
     },
     {
-      "word": "부담",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "‘조희대 탄핵소추 후폭풍’ 부담되는 민주당…국정조사 카드 만지작 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpSFdOU1FjRDV2dVAzWFY2Nk9rYlFoUlhOajZJa0puaUthWURiU0VHV2NUOFNhQURBbVhaX3Jta2ROLUNET09nMkxTeUtSU3VEdWQ1T1VXRVN0d9IBX0FVX3lxTE10VWxIdVFEcWxjOWo2YXZxVFVqRXRjY2FTcXFUTG00eUR4QWFXeWhGV1ZBc3FCQUdFMEFWTUR3WG90ZUpNbDhET1hyT0RrdE9oN2dHYm0tZUU5QVFESDV3?oc=5",
-          "source": "Google News",
-          "published": "Tue, 20 Oct 2026 07:42:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "민주당국정조사",
+      "word": "국정조사",
       "count": 1,
       "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "‘조희대 탄핵소추 후폭풍’ 부담되는 민주당…국정조사 카드 만지작 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpSFdOU1FjRDV2dVAzWFY2Nk9rYlFoUlhOajZJa0puaUthWURiU0VHV2NUOFNhQURBbVhaX3Jta2ROLUNET09nMkxTeUtSU3VEdWQ1T1VXRVN0d9IBX0FVX3lxTE10VWxIdVFEcWxjOWo2YXZxVFVqRXRjY2FTcXFUTG00eUR4QWFXeWhGV1ZBc3FCQUdFMEFWTUR3WG90ZUpNbDhET1hyT0RrdE9oN2dHYm0tZUU5QVFESDV3?oc=5",
+          "title": "민주, ‘조희대 탄핵’ 앞서 국정조사 검토…역풍 맞을라 여론부터 키운다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TcXZzZndlbURCVmo5TERQalVLQ3A2eGJHX1NXak1rakF3ZFdETDEtM2xJX1ZYYmlzLXpRcVBTSF95bnY0QTAwMjVyMm5JQnZxTktQMjJROEkySGt2TUYxZUYxd1hhS05qZXc?oc=5",
           "source": "Google News",
-          "published": "Tue, 20 Oct 2026 07:42:00 GMT"
+          "published": "Tue, 20 Oct 2026 16:18:00 GMT"
         }
       ]
     },
     {
-      "word": "카드",
+      "word": "검토역풍",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘조희대 탄핵소추 후폭풍’ 부담되는 민주당…국정조사 카드 만지작 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpSFdOU1FjRDV2dVAzWFY2Nk9rYlFoUlhOajZJa0puaUthWURiU0VHV2NUOFNhQURBbVhaX3Jta2ROLUNET09nMkxTeUtSU3VEdWQ1T1VXRVN0d9IBX0FVX3lxTE10VWxIdVFEcWxjOWo2YXZxVFVqRXRjY2FTcXFUTG00eUR4QWFXeWhGV1ZBc3FCQUdFMEFWTUR3WG90ZUpNbDhET1hyT0RrdE9oN2dHYm0tZUU5QVFESDV3?oc=5",
+          "title": "민주, ‘조희대 탄핵’ 앞서 국정조사 검토…역풍 맞을라 여론부터 키운다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TcXZzZndlbURCVmo5TERQalVLQ3A2eGJHX1NXak1rakF3ZFdETDEtM2xJX1ZYYmlzLXpRcVBTSF95bnY0QTAwMjVyMm5JQnZxTktQMjJROEkySGt2TUYxZUYxd1hhS05qZXc?oc=5",
           "source": "Google News",
-          "published": "Tue, 20 Oct 2026 07:42:00 GMT"
+          "published": "Tue, 20 Oct 2026 16:18:00 GMT"
         }
       ]
     },
     {
-      "word": "만지작",
+      "word": "맞을",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘조희대 탄핵소추 후폭풍’ 부담되는 민주당…국정조사 카드 만지작 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpSFdOU1FjRDV2dVAzWFY2Nk9rYlFoUlhOajZJa0puaUthWURiU0VHV2NUOFNhQURBbVhaX3Jta2ROLUNET09nMkxTeUtSU3VEdWQ1T1VXRVN0d9IBX0FVX3lxTE10VWxIdVFEcWxjOWo2YXZxVFVqRXRjY2FTcXFUTG00eUR4QWFXeWhGV1ZBc3FCQUdFMEFWTUR3WG90ZUpNbDhET1hyT0RrdE9oN2dHYm0tZUU5QVFESDV3?oc=5",
+          "title": "민주, ‘조희대 탄핵’ 앞서 국정조사 검토…역풍 맞을라 여론부터 키운다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TcXZzZndlbURCVmo5TERQalVLQ3A2eGJHX1NXak1rakF3ZFdETDEtM2xJX1ZYYmlzLXpRcVBTSF95bnY0QTAwMjVyMm5JQnZxTktQMjJROEkySGt2TUYxZUYxd1hhS05qZXc?oc=5",
           "source": "Google News",
-          "published": "Tue, 20 Oct 2026 07:42:00 GMT"
+          "published": "Tue, 20 Oct 2026 16:18:00 GMT"
         }
       ]
     },
     {
-      "word": "분석청년",
+      "word": "여론",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[뉴스 분석]청년 분노 눈감고 폭력만 보는 정치…격화되는 프랑스 시위 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BSnpIb3BUNGE0U2gzSjBzQzd0YktSYWZCb2pzenFCb05hazFqV01xRDlaSVJLRlBHNXdOeVQtV1dFYjE2ZW9qUll2aXNMdHJfNFlfMnlTY2s3UdIBX0FVX3lxTFBWNHlZVWd0aUtWWnZURDNRMElEYzl0QXJsM0xQMkl3b1NLRXBISzJuellHQnFKU01YcTZGUWZqZ2tRR1RWbWctUE9Nc1dxOHFja0FuMjhEamxQdGJOVG5Z?oc=5",
+          "title": "민주, ‘조희대 탄핵’ 앞서 국정조사 검토…역풍 맞을라 여론부터 키운다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TcXZzZndlbURCVmo5TERQalVLQ3A2eGJHX1NXak1rakF3ZFdETDEtM2xJX1ZYYmlzLXpRcVBTSF95bnY0QTAwMjVyMm5JQnZxTktQMjJROEkySGt2TUYxZUYxd1hhS05qZXc?oc=5",
           "source": "Google News",
-          "published": "Tue, 20 Oct 2026 13:14:00 GMT"
+          "published": "Tue, 20 Oct 2026 16:18:00 GMT"
         }
       ]
     },
     {
-      "word": "분노",
+      "word": "키운다",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[뉴스 분석]청년 분노 눈감고 폭력만 보는 정치…격화되는 프랑스 시위 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BSnpIb3BUNGE0U2gzSjBzQzd0YktSYWZCb2pzenFCb05hazFqV01xRDlaSVJLRlBHNXdOeVQtV1dFYjE2ZW9qUll2aXNMdHJfNFlfMnlTY2s3UdIBX0FVX3lxTFBWNHlZVWd0aUtWWnZURDNRMElEYzl0QXJsM0xQMkl3b1NLRXBISzJuellHQnFKU01YcTZGUWZqZ2tRR1RWbWctUE9Nc1dxOHFja0FuMjhEamxQdGJOVG5Z?oc=5",
+          "title": "민주, ‘조희대 탄핵’ 앞서 국정조사 검토…역풍 맞을라 여론부터 키운다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TcXZzZndlbURCVmo5TERQalVLQ3A2eGJHX1NXak1rakF3ZFdETDEtM2xJX1ZYYmlzLXpRcVBTSF95bnY0QTAwMjVyMm5JQnZxTktQMjJROEkySGt2TUYxZUYxd1hhS05qZXc?oc=5",
           "source": "Google News",
-          "published": "Tue, 20 Oct 2026 13:14:00 GMT"
+          "published": "Tue, 20 Oct 2026 16:18:00 GMT"
         }
       ]
     },
     {
-      "word": "눈감",
+      "word": "518",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[뉴스 분석]청년 분노 눈감고 폭력만 보는 정치…격화되는 프랑스 시위 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BSnpIb3BUNGE0U2gzSjBzQzd0YktSYWZCb2pzenFCb05hazFqV01xRDlaSVJLRlBHNXdOeVQtV1dFYjE2ZW9qUll2aXNMdHJfNFlfMnlTY2s3UdIBX0FVX3lxTFBWNHlZVWd0aUtWWnZURDNRMElEYzl0QXJsM0xQMkl3b1NLRXBISzJuellHQnFKU01YcTZGUWZqZ2tRR1RWbWctUE9Nc1dxOHFja0FuMjhEamxQdGJOVG5Z?oc=5",
+          "title": "경찰, ’5·18 북한군 개입설’ 보수논객 지만원 구속영장 신청 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCRVAwUEVKNTR2OUkxTm94eS1FZGdjUmFiRjJRU2tpQ3BocldEemMzeWpVWWR4QWF2WXpBZFVyOEtEX0FTc2dfdkprMkVJMUNqVVdCVkV6dlBlcGdveC15UHBMVmFySHM?oc=5",
           "source": "Google News",
-          "published": "Tue, 20 Oct 2026 13:14:00 GMT"
+          "published": "Tue, 20 Oct 2026 12:58:00 GMT"
         }
       ]
     },
     {
-      "word": "폭력",
+      "word": "북한군",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[뉴스 분석]청년 분노 눈감고 폭력만 보는 정치…격화되는 프랑스 시위 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BSnpIb3BUNGE0U2gzSjBzQzd0YktSYWZCb2pzenFCb05hazFqV01xRDlaSVJLRlBHNXdOeVQtV1dFYjE2ZW9qUll2aXNMdHJfNFlfMnlTY2s3UdIBX0FVX3lxTFBWNHlZVWd0aUtWWnZURDNRMElEYzl0QXJsM0xQMkl3b1NLRXBISzJuellHQnFKU01YcTZGUWZqZ2tRR1RWbWctUE9Nc1dxOHFja0FuMjhEamxQdGJOVG5Z?oc=5",
+          "title": "경찰, ’5·18 북한군 개입설’ 보수논객 지만원 구속영장 신청 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCRVAwUEVKNTR2OUkxTm94eS1FZGdjUmFiRjJRU2tpQ3BocldEemMzeWpVWWR4QWF2WXpBZFVyOEtEX0FTc2dfdkprMkVJMUNqVVdCVkV6dlBlcGdveC15UHBMVmFySHM?oc=5",
           "source": "Google News",
-          "published": "Tue, 20 Oct 2026 13:14:00 GMT"
+          "published": "Tue, 20 Oct 2026 12:58:00 GMT"
         }
       ]
     },
     {
-      "word": "보는",
+      "word": "개입설",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[뉴스 분석]청년 분노 눈감고 폭력만 보는 정치…격화되는 프랑스 시위 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BSnpIb3BUNGE0U2gzSjBzQzd0YktSYWZCb2pzenFCb05hazFqV01xRDlaSVJLRlBHNXdOeVQtV1dFYjE2ZW9qUll2aXNMdHJfNFlfMnlTY2s3UdIBX0FVX3lxTFBWNHlZVWd0aUtWWnZURDNRMElEYzl0QXJsM0xQMkl3b1NLRXBISzJuellHQnFKU01YcTZGUWZqZ2tRR1RWbWctUE9Nc1dxOHFja0FuMjhEamxQdGJOVG5Z?oc=5",
+          "title": "경찰, ’5·18 북한군 개입설’ 보수논객 지만원 구속영장 신청 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCRVAwUEVKNTR2OUkxTm94eS1FZGdjUmFiRjJRU2tpQ3BocldEemMzeWpVWWR4QWF2WXpBZFVyOEtEX0FTc2dfdkprMkVJMUNqVVdCVkV6dlBlcGdveC15UHBMVmFySHM?oc=5",
           "source": "Google News",
-          "published": "Tue, 20 Oct 2026 13:14:00 GMT"
+          "published": "Tue, 20 Oct 2026 12:58:00 GMT"
         }
       ]
     },
     {
-      "word": "정치격",
+      "word": "보수논객",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[뉴스 분석]청년 분노 눈감고 폭력만 보는 정치…격화되는 프랑스 시위 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BSnpIb3BUNGE0U2gzSjBzQzd0YktSYWZCb2pzenFCb05hazFqV01xRDlaSVJLRlBHNXdOeVQtV1dFYjE2ZW9qUll2aXNMdHJfNFlfMnlTY2s3UdIBX0FVX3lxTFBWNHlZVWd0aUtWWnZURDNRMElEYzl0QXJsM0xQMkl3b1NLRXBISzJuellHQnFKU01YcTZGUWZqZ2tRR1RWbWctUE9Nc1dxOHFja0FuMjhEamxQdGJOVG5Z?oc=5",
+          "title": "경찰, ’5·18 북한군 개입설’ 보수논객 지만원 구속영장 신청 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCRVAwUEVKNTR2OUkxTm94eS1FZGdjUmFiRjJRU2tpQ3BocldEemMzeWpVWWR4QWF2WXpBZFVyOEtEX0FTc2dfdkprMkVJMUNqVVdCVkV6dlBlcGdveC15UHBMVmFySHM?oc=5",
           "source": "Google News",
-          "published": "Tue, 20 Oct 2026 13:14:00 GMT"
+          "published": "Tue, 20 Oct 2026 12:58:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "지만원",
+      "count": 1,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "경찰, ’5·18 북한군 개입설’ 보수논객 지만원 구속영장 신청 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCRVAwUEVKNTR2OUkxTm94eS1FZGdjUmFiRjJRU2tpQ3BocldEemMzeWpVWWR4QWF2WXpBZFVyOEtEX0FTc2dfdkprMkVJMUNqVVdCVkV6dlBlcGdveC15UHBMVmFySHM?oc=5",
+          "source": "Google News",
+          "published": "Tue, 20 Oct 2026 12:58:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "구속영장",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "경찰, ’5·18 북한군 개입설’ 보수논객 지만원 구속영장 신청 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCRVAwUEVKNTR2OUkxTm94eS1FZGdjUmFiRjJRU2tpQ3BocldEemMzeWpVWWR4QWF2WXpBZFVyOEtEX0FTc2dfdkprMkVJMUNqVVdCVkV6dlBlcGdveC15UHBMVmFySHM?oc=5",
+          "source": "Google News",
+          "published": "Tue, 20 Oct 2026 12:58:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "신청",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "경찰, ’5·18 북한군 개입설’ 보수논객 지만원 구속영장 신청 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCRVAwUEVKNTR2OUkxTm94eS1FZGdjUmFiRjJRU2tpQ3BocldEemMzeWpVWWR4QWF2WXpBZFVyOEtEX0FTc2dfdkprMkVJMUNqVVdCVkV6dlBlcGdveC15UHBMVmFySHM?oc=5",
+          "source": "Google News",
+          "published": "Tue, 20 Oct 2026 12:58:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "노동자",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "노동자 23명 사망, 대표는 징역 4년…유가족은 다시 무너졌다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVU1N1TE9HTUU5Q0pJTWRyVEROWjBMRGJPUmdORjNyS2RLbFVPQUZDNkl4NEJ2S3ZlWkNyOWdlbW1tNUEtVGtXa09FNGxMQ1FodXBMX2lnQkFSd9IBX0FVX3lxTE4yYkpfTU11NDNDR04tTWVFcWgxZ2dndFNKclEtODhyM0o0T2RiajBkUHg1eXR0QURiNEpsN1VCaW1nMkVZRWJCRkZRUV9KSjlxVjEwdnNYckd1TlQyOUdB?oc=5",
+          "source": "Google News",
+          "published": "Tue, 20 Oct 2026 12:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "23명",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "노동자 23명 사망, 대표는 징역 4년…유가족은 다시 무너졌다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVU1N1TE9HTUU5Q0pJTWRyVEROWjBMRGJPUmdORjNyS2RLbFVPQUZDNkl4NEJ2S3ZlWkNyOWdlbW1tNUEtVGtXa09FNGxMQ1FodXBMX2lnQkFSd9IBX0FVX3lxTE4yYkpfTU11NDNDR04tTWVFcWgxZ2dndFNKclEtODhyM0o0T2RiajBkUHg1eXR0QURiNEpsN1VCaW1nMkVZRWJCRkZRUV9KSjlxVjEwdnNYckd1TlQyOUdB?oc=5",
+          "source": "Google News",
+          "published": "Tue, 20 Oct 2026 12:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "대표",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "노동자 23명 사망, 대표는 징역 4년…유가족은 다시 무너졌다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVU1N1TE9HTUU5Q0pJTWRyVEROWjBMRGJPUmdORjNyS2RLbFVPQUZDNkl4NEJ2S3ZlWkNyOWdlbW1tNUEtVGtXa09FNGxMQ1FodXBMX2lnQkFSd9IBX0FVX3lxTE4yYkpfTU11NDNDR04tTWVFcWgxZ2dndFNKclEtODhyM0o0T2RiajBkUHg1eXR0QURiNEpsN1VCaW1nMkVZRWJCRkZRUV9KSjlxVjEwdnNYckd1TlQyOUdB?oc=5",
+          "source": "Google News",
+          "published": "Tue, 20 Oct 2026 12:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "징역",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "노동자 23명 사망, 대표는 징역 4년…유가족은 다시 무너졌다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVU1N1TE9HTUU5Q0pJTWRyVEROWjBMRGJPUmdORjNyS2RLbFVPQUZDNkl4NEJ2S3ZlWkNyOWdlbW1tNUEtVGtXa09FNGxMQ1FodXBMX2lnQkFSd9IBX0FVX3lxTE4yYkpfTU11NDNDR04tTWVFcWgxZ2dndFNKclEtODhyM0o0T2RiajBkUHg1eXR0QURiNEpsN1VCaW1nMkVZRWJCRkZRUV9KSjlxVjEwdnNYckd1TlQyOUdB?oc=5",
+          "source": "Google News",
+          "published": "Tue, 20 Oct 2026 12:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "4년유가족",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "노동자 23명 사망, 대표는 징역 4년…유가족은 다시 무너졌다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVU1N1TE9HTUU5Q0pJTWRyVEROWjBMRGJPUmdORjNyS2RLbFVPQUZDNkl4NEJ2S3ZlWkNyOWdlbW1tNUEtVGtXa09FNGxMQ1FodXBMX2lnQkFSd9IBX0FVX3lxTE4yYkpfTU11NDNDR04tTWVFcWgxZ2dndFNKclEtODhyM0o0T2RiajBkUHg1eXR0QURiNEpsN1VCaW1nMkVZRWJCRkZRUV9KSjlxVjEwdnNYckd1TlQyOUdB?oc=5",
+          "source": "Google News",
+          "published": "Tue, 20 Oct 2026 12:30:00 GMT"
         }
       ]
     }
