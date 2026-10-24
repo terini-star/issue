@@ -1,62 +1,213 @@
 {
   "language": "en",
-  "last_updated": 1792869732.066414,
+  "last_updated": 1792880572.36546,
   "count": 40,
   "trends": [
     {
-      "word": "Protest",
-      "count": 2,
+      "word": "Live",
+      "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "More than 400,000 protest across France, challenging Macron as Paris clashes erupt - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFhXb1VmdWxKRzJmZnRpSGpJTk40b3JoTldmR0FjTW9nWWxibmNBOTJCN1NNa1IyenIycmtueTVnVHhaR19YOUU3TkE2ODBHRFFlRWdDYVZzVWY0MVlqV0dTOHlkaTdEbmxkdnFNMnJicVFjSkhYUVdOaGFYYU5jVEQ5VEhRUU5tWlJjZ1pzOE5GQQ?oc=5",
+          "title": "Live updates: Police and protesters clash in France as water cannon deployed in Paris - CNN",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObTZJTm1TRkl4OEtxQWQ1dlFYbE16ZDQya0RnQ3VpOFJHTzFlR0lMSjNsUmstQS04Um1zaXFvN2hQMHRmd3d2aDhUaFFlNzRHNEZTZ3F2Z0FMX3BMYU92ZldVRW00QjhrcmE5YVprSnI1X2prOVItaXA0TXZ2ZGI0UDJHSFd3bXc?oc=5",
           "source": "Google News",
-          "published": "Sat, 24 Oct 2026 16:54:00 GMT"
-        },
-        {
-          "title": "She Planned to Protest Trump. She Didn’t Plan on Getting Punched. - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS09lTVgxMGZDUy1IZ1NGa1JPNUc3emJfcTJhU0xLNG9wNzRZTDhTc3ZnUjJGRklDWWk1eWtrU01VTGRPMzNCcjRyai1tQ0lKTUN5RlZwbUlaeFg4UnI1OTlWMVBKcVlxNTVPeEI5SnVEb1hpZW9wRVRfeHgtOThyN2hVR2h2U191V0E?oc=5",
-          "source": "Google News",
-          "published": "Sat, 24 Oct 2026 18:08:58 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Trump",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Facing an electoral wipeout, Trump goes after the system - Politico",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWXprRF9jNDJqVkVZVV8wTkF6YW56NU9xMnNUTXJ6WlBKV3BaTURCWF9pMTQ4WVlNUldiem1mY3JLV3ZDejgwZDJGeXllQ0dacGNNQ25XMURXd0JJSUdhS1RsUDJfUGlNVUFxcXVtZGlJRGZlSDMwY0hkeE1fNWE2T3cwazNmeVBTbktpX3JYN2E5TWVE?oc=5",
-          "source": "Google News",
-          "published": "Sat, 24 Oct 2026 11:00:00 GMT"
-        },
-        {
-          "title": "She Planned to Protest Trump. She Didn’t Plan on Getting Punched. - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS09lTVgxMGZDUy1IZ1NGa1JPNUc3emJfcTJhU0xLNG9wNzRZTDhTc3ZnUjJGRklDWWk1eWtrU01VTGRPMzNCcjRyai1tQ0lKTUN5RlZwbUlaeFg4UnI1OTlWMVBKcVlxNTVPeEI5SnVEb1hpZW9wRVRfeHgtOThyN2hVR2h2U191V0E?oc=5",
-          "source": "Google News",
-          "published": "Sat, 24 Oct 2026 18:08:58 GMT"
-        }
-      ]
-    },
-    {
-      "word": "System",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Facing an electoral wipeout, Trump goes after the system - Politico",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWXprRF9jNDJqVkVZVV8wTkF6YW56NU9xMnNUTXJ6WlBKV3BaTURCWF9pMTQ4WVlNUldiem1mY3JLV3ZDejgwZDJGeXllQ0dacGNNQ25XMURXd0JJSUdhS1RsUDJfUGlNVUFxcXVtZGlJRGZlSDMwY0hkeE1fNWE2T3cwazNmeVBTbktpX3JYN2E5TWVE?oc=5",
-          "source": "Google News",
-          "published": "Sat, 24 Oct 2026 11:00:00 GMT"
+          "published": "Sat, 24 Oct 2026 21:26:00 GMT"
         },
         {
           "title": "Apple Store Pickup System for iPhone Duo Just Went Live Again in U.S. and Canada - MacRumors",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Dc3BMaWc1SWxqM1dyejMtYXVjVFMtVjV6b1NSOHRhNWNsbUduMzR6ckI5QUNWcEtRMDlUNVhYSWNseUxWc2J4cGtFVUZqaXZWakRMY0Jwc0d0dzZ3WUtSbF9CZmNLVjZKM2Q4NmlzTVBId0UxMzNuNTZ3?oc=5",
           "source": "Google News",
           "published": "Sat, 24 Oct 2026 12:12:00 GMT"
+        },
+        {
+          "title": "College football scores, live updates: Texas Tech vs. Cincinnati, Tennessee vs. South Carolina and more - Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTWxmX2d6d0I3MEF2S09tQV96dWtoeGZQV2dnSmphTi1MMXk1Szd1VDRPZ2VOdHFwNDVWX1d2TDVPNkQ2d3dzREU0VXo2STdDQ3I3V2U1VklXdFFmLTF0b3BDQlhDQnNnZXEzcjEyQmppc1E1T2szc0xCSnVtdkdsUmdQVTdnWnRoQkVzVkotV082M3ZFRUIyT01PYjVCTi05bGVjR3VyRWhJOTVQZzJNMFF1dmlhUGMxRGxFd25nUkVEOTNGekZ6NU1ia3R5YUt4Smk4clFiaHRMOEVDUUl2UHNLUE1UQWZlQzRBbUdKdzRET2oyN2JJZDlR?oc=5",
+          "source": "Google News",
+          "published": "Sat, 24 Oct 2026 19:35:07 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Trump",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Obama describes Trump as an agent of ‘chaos and cruelty’ in midterm elections pitch - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbmN4UzdfS0JCeFJPV2RsQVVfX196T1c2MTVLbGZmV2VqZUh1ODl6TVBwc0FURzU3c05jdVd4ZnN1Y2RMMW16UDkzY25Qd3FRTnN1T3kyNHpKNnVxM2VHTEt5eXRsemlCczBUN3E3WTdlMHFIZ0pTWTc3N196eW9GR3ctWXBOT2hwZDdDd2Y1d0FjS0N6Nnh3NHJvaFhRX1NPZFpabGYzUk50SEJYZG91T0xWdFcyOHJjeWdlMDNnVQ?oc=5",
+          "source": "Google News",
+          "published": "Sat, 24 Oct 2026 20:44:55 GMT"
+        },
+        {
+          "title": "In Second Term, Trump’s Justice Dept. Submits to His Election Demands - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUWlCNTFFZkhUUjVyeEFkY0o2b0RMZnphZzdCSG5WWUNZQ18wTGNpNW10RzJBTkhqeGE5cnFydi0xWHpLOTYtNkJWaFJfcFRybHhIRVZxZkFzcktkUzllMWFoUURsYVRMeWp4aGU2Si12aFp3M012dW9OdFpWQ0FUbWhFMjk5eFpoczQ1WlFfZFhzcmpVYllkZGRpcS1jcTRT?oc=5",
+          "source": "Google News",
+          "published": "Sat, 24 Oct 2026 18:11:11 GMT"
+        },
+        {
+          "title": "Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeUdkajdVaE81UXowdEROTVA0NFNwX0JJTUw1RHdaMmtHQURmRzZmNVN6dmplOGQtZ1BrQXNrb0JPZXdPZXQ3Qi1mNG9zb1RONC1DeDV0eXNzRmdDd2lpNkhjSHJLWDFrcFk5S0JLNHpKWVB5UnoyT2E3U2NPSHpKVXE5REdYdzlR?oc=5",
+          "source": "Google News",
+          "published": "Sat, 24 Oct 2026 21:06:54 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Test",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Lowden, Turner or a Dark Horse: One James Bond Casting Test Has Nothing to Do With Acting - The Hollywood Reporter",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV29XdVVsbXlyMDlkdjRMeDRaYzEyM3F2NGVlbW13dmVxbF96ay1MR241NUVITFFzNXlLMlo4UDNHZDlBTGtmT0VUQjlob204UGROYlVQakxaNWdQdFpVNnZTTkVIeHVjd0NWalpRRExjM0ZSMWpqQzRBXzJlelEteFBsZEJJUG9SUjE2VDJlak41MXBhd2dGVVRHRlh3RVZ4NS1OckFPWlc?oc=5",
+          "source": "Google News",
+          "published": "Sat, 24 Oct 2026 16:49:13 GMT"
+        },
+        {
+          "title": "NASA lays out plan for Artemis 3 moon-lander test flight — but when will it launch? - Space",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ1NmM2ViY2w1MWN1UlJZYzhnZzRMcDhEOGFwSy1IMHkxemFVV25fRlhCbkxyUnFXcElLSkRUTVpyUEFXRXotbDlEMThmNy1HMzQ1Wlp3cElXbFhNRGJQWFF1UWppelRXMmZCbGVBak9kbEQxU1hzVkFTZkJNSjY5MXVSX2FFb2lxTzRuaGhwMGZvLTNpRjFIdVRpQmFlTTM0ZGVleG5YMXBiVXNvMHlZbDNYay1YV1hNVVNBYnVxRmsyZmhZNXNZ?oc=5",
+          "source": "Google News",
+          "published": "Fri, 23 Oct 2026 22:55:43 GMT"
+        },
+        {
+          "title": "Private Griffin moon lander gets put to the test photo of the day for Oct. 23, 2026 - Space",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRkU2d19JdmI4ak5TTHI0YU1jc3psOWhUUjhTTkF0TlZGblNsUHlTTlpBMFpGRFlGMWdZWk50ZGdpZGRxWEZsazAtQ2FvVHh1eFJobDA3RThJSkFkRG1ES2pWRHBMNjJ3UFdZVFZEQXJmM3hnRGllMDgzTWtTNUNCbk1STm1KdDlxakYwTVFYcEdqb04xYmROdjg1Y2dJZXRQSk1SWTVSMHhfTVRNT3V4SndRZEtqYkVnR0Z0eXhDVDNJY19fNUE?oc=5",
+          "source": "Google News",
+          "published": "Fri, 23 Oct 2026 14:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Updates",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Live updates: Police and protesters clash in France as water cannon deployed in Paris - CNN",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObTZJTm1TRkl4OEtxQWQ1dlFYbE16ZDQya0RnQ3VpOFJHTzFlR0lMSjNsUmstQS04Um1zaXFvN2hQMHRmd3d2aDhUaFFlNzRHNEZTZ3F2Z0FMX3BMYU92ZldVRW00QjhrcmE5YVprSnI1X2prOVItaXA0TXZ2ZGI0UDJHSFd3bXc?oc=5",
+          "source": "Google News",
+          "published": "Sat, 24 Oct 2026 21:26:00 GMT"
+        },
+        {
+          "title": "College football scores, live updates: Texas Tech vs. Cincinnati, Tennessee vs. South Carolina and more - Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTWxmX2d6d0I3MEF2S09tQV96dWtoeGZQV2dnSmphTi1MMXk1Szd1VDRPZ2VOdHFwNDVWX1d2TDVPNkQ2d3dzREU0VXo2STdDQ3I3V2U1VklXdFFmLTF0b3BDQlhDQnNnZXEzcjEyQmppc1E1T2szc0xCSnVtdkdsUmdQVTdnWnRoQkVzVkotV082M3ZFRUIyT01PYjVCTi05bGVjR3VyRWhJOTVQZzJNMFF1dmlhUGMxRGxFd25nUkVEOTNGekZ6NU1ia3R5YUt4Smk4clFiaHRMOEVDUUl2UHNLUE1UQWZlQzRBbUdKdzRET2oyN2JJZDlR?oc=5",
+          "source": "Google News",
+          "published": "Sat, 24 Oct 2026 19:35:07 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Obama",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Obama describes Trump as an agent of ‘chaos and cruelty’ in midterm elections pitch - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbmN4UzdfS0JCeFJPV2RsQVVfX196T1c2MTVLbGZmV2VqZUh1ODl6TVBwc0FURzU3c05jdVd4ZnN1Y2RMMW16UDkzY25Qd3FRTnN1T3kyNHpKNnVxM2VHTEt5eXRsemlCczBUN3E3WTdlMHFIZ0pTWTc3N196eW9GR3ctWXBOT2hwZDdDd2Y1d0FjS0N6Nnh3NHJvaFhRX1NPZFpabGYzUk50SEJYZG91T0xWdFcyOHJjeWdlMDNnVQ?oc=5",
+          "source": "Google News",
+          "published": "Sat, 24 Oct 2026 20:44:55 GMT"
+        },
+        {
+          "title": "Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeUdkajdVaE81UXowdEROTVA0NFNwX0JJTUw1RHdaMmtHQURmRzZmNVN6dmplOGQtZ1BrQXNrb0JPZXdPZXQ3Qi1mNG9zb1RONC1DeDV0eXNzRmdDd2lpNkhjSHJLWDFrcFk5S0JLNHpKWVB5UnoyT2E3U2NPSHpKVXE5REdYdzlR?oc=5",
+          "source": "Google News",
+          "published": "Sat, 24 Oct 2026 21:06:54 GMT"
+        }
+      ]
+    },
+    {
+      "word": "High",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Ukraine says Starlink and Starshield high speed restrictions have been lifted - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY2F6T3p0ZGRIQ3hKcVJ0dk5mb0NXUUU4cWZfYzZ0ZVR4RmZzcnN5QzBnVTA0c2FjX2hJTnVMTFFOVFp5S0hGalhnQjZ5bEtXeTNDRzVuazNMWmRybE81bXNpLTduVXM3UmVRVTlTbVRlSEk4YndSYnpIX0JaZFcwQzR4dzloYnJ40gGOAUFVX3lxTE1rNVZldHJwd3lsUTdsYVV6cExWc1JUMHhZd3JaQTlGdldyS3QxZi0ySFBMRzh3MFg2M3pYSHhQeUl0Tm81Zl9PcjF5S05xVFdiZTVtMHBRdFFFamlfR0pHcFNKV3IxbjJPNXYtLVB3SWtmSUpjODlrUTdfV2hPOUpOMUt5UV8zLWEydUlZclE?oc=5",
+          "source": "Google News",
+          "published": "Sat, 24 Oct 2026 13:00:35 GMT"
+        },
+        {
+          "title": "Halloween candy sales are off to a slow start amid high chocolate prices and affordability concerns - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQblVPaDQtRVlhWHR4M1RIcHhGbkMwWU5LcmxOajktWHFMZlBiRUFuZUJEbHpPa3QydHJpWGsyRnNqZ21IMldEZUZuZk54WkNGVnd4c2w0V2cycU5nZkdxbGFlakdaekc5N0VIN0w5S2NNQ1AzUFBjbU15clh4SUJKT3BHWHZQVnJpdWlMbzFXREZsbjlqVVFxMlQ2SEVPUXR3UTZYTFJ3?oc=5",
+          "source": "Google News",
+          "published": "Sat, 24 Oct 2026 17:06:13 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Second",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "In Second Term, Trump’s Justice Dept. Submits to His Election Demands - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUWlCNTFFZkhUUjVyeEFkY0o2b0RMZnphZzdCSG5WWUNZQ18wTGNpNW10RzJBTkhqeGE5cnFydi0xWHpLOTYtNkJWaFJfcFRybHhIRVZxZkFzcktkUzllMWFoUURsYVRMeWp4aGU2Si12aFp3M012dW9OdFpWQ0FUbWhFMjk5eFpoczQ1WlFfZFhzcmpVYllkZGRpcS1jcTRT?oc=5",
+          "source": "Google News",
+          "published": "Sat, 24 Oct 2026 18:11:11 GMT"
+        },
+        {
+          "title": "Second raccoon tests positive for rabies in Los Angeles County, health officials say - KTLA",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWWkySklvSW8tbHM2ejFyNl8tSnNseXF2LU5TVlFGclVHdXplT2tBTzdoVExrc01Wanp1RGxxOHZESGVhYzlPOUpMOVZEbFNrYmdJa1l2QWEzQ1Z1enV4MGplcm1jQnlaMWM3YzNvRmdfNEFOR3FobHl4SDlvYXZpN2pmYnNJMmc5SXFSa3VNMmxlRndUVmVXbXM5amXSAaIBQVVfeXFMT0tRRlNWWUlGdGpPV0g5ck14MEQydExKVEdTLVlKSTVaMGRJcG5xcEVUTFlMRXJXQmJXUkhaU0hxNm80U05mazRBUE05bzVIaDdSUFRLX01WejA2ek10Q1VabFZkR2ZaQ0pvNG5DcUVVWmd6TGQ3OGIybFZGbDBuRm1NUDNZeFFVb3E3ekRRYkNNdFVoYjQ3bWlsLTRLNXRMV0F3?oc=5",
+          "source": "Google News",
+          "published": "Sat, 24 Oct 2026 02:20:51 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Election",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "In Second Term, Trump’s Justice Dept. Submits to His Election Demands - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUWlCNTFFZkhUUjVyeEFkY0o2b0RMZnphZzdCSG5WWUNZQ18wTGNpNW10RzJBTkhqeGE5cnFydi0xWHpLOTYtNkJWaFJfcFRybHhIRVZxZkFzcktkUzllMWFoUURsYVRMeWp4aGU2Si12aFp3M012dW9OdFpWQ0FUbWhFMjk5eFpoczQ1WlFfZFhzcmpVYllkZGRpcS1jcTRT?oc=5",
+          "source": "Google News",
+          "published": "Sat, 24 Oct 2026 18:11:11 GMT"
+        },
+        {
+          "title": "Election 2026: How Democrats could win the House, how Republicans could hold on - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbXc0cHY0LWFXVjdaalpUUHlZUmlzYUdGbzZvSm1VUG15T2l5Q3VxOUlZUC13eEtnQTVXcy16RHRhNWQ3U3FMV2luc1dqbE5uVUZ0eW9xb0NlTXhDSnVwUjZpakNXTEQ5cUt4VU5TRTRyS1NhbmhMSUl1dF9JQnpGWk54MUJMTHVMam9BeV9TRzRDbjZxakVKaDNoSWt0U1F3RW1zeUdYNUpsTzItX1FqSDVRNA?oc=5",
+          "source": "Google News",
+          "published": "Sat, 24 Oct 2026 09:00:42 GMT"
+        }
+      ]
+    },
+    {
+      "word": "win",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Election 2026: How Democrats could win the House, how Republicans could hold on - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbXc0cHY0LWFXVjdaalpUUHlZUmlzYUdGbzZvSm1VUG15T2l5Q3VxOUlZUC13eEtnQTVXcy16RHRhNWQ3U3FMV2luc1dqbE5uVUZ0eW9xb0NlTXhDSnVwUjZpakNXTEQ5cUt4VU5TRTRyS1NhbmhMSUl1dF9JQnpGWk54MUJMTHVMam9BeV9TRzRDbjZxakVKaDNoSWt0U1F3RW1zeUdYNUpsTzItX1FqSDVRNA?oc=5",
+          "source": "Google News",
+          "published": "Sat, 24 Oct 2026 09:00:42 GMT"
+        },
+        {
+          "title": "UFC 333 results: Volkanovski and Yan win to retain titles - ESPN",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVkZOQW4ycl93OXRyVThqWXhTajBIdHlJaEZQRlpoYUxoZnYwZ1B3ZlRRamtVem80My1wWU9qTFpDRlZYd1JsLVBqQjZZWFNVSVpDcmxvUk1GMDhIS2czMHNicFRuMS1oajdnWkdJLXItbWNqLWlBbFZuNGo2QjdWbktOeF9mUQ?oc=5",
+          "source": "Google News",
+          "published": "Sat, 24 Oct 2026 21:25:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Attacks",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeUdkajdVaE81UXowdEROTVA0NFNwX0JJTUw1RHdaMmtHQURmRzZmNVN6dmplOGQtZ1BrQXNrb0JPZXdPZXQ3Qi1mNG9zb1RONC1DeDV0eXNzRmdDd2lpNkhjSHJLWDFrcFk5S0JLNHpKWVB5UnoyT2E3U2NPSHpKVXE5REdYdzlR?oc=5",
+          "source": "Google News",
+          "published": "Sat, 24 Oct 2026 21:06:54 GMT"
+        },
+        {
+          "title": "Is Iran planning attacks on Americans; why is the US on alert? - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLW1VRmdINS01R1dERWVkVzVMbEotdHBvbHZVSGhYV3EwSm1fdjIybjhWQjVwUTh5dmRwS19yRFRwSEpOMnpvQlZmNWtHX2FKd3JVdC01SU9GV0FJVnJSUFpfUndUSk9XampPNV9iZ1Qwc3hUcnlGb2JiSi1QU185YVdGNl9oV0JibXVwd2JObFlBbjRYZGJjVXNBRnQycS1POGt0eNIBqgFBVV95cUxNdmdPeEQzVDhtUDJVRVRLTUYzQ0xCZjFWZGU2ZlNjWDNlVlhTRzJqSm1mZmphWEdZTjlWRTVVUUFRWFVOdm5TRUt2eDRDWUNRdHpVVjlEV2dWTl9oVC1ULW1Sdk1QMUNDcS1aeklWNGZWcVJBX01YUjBKYmNXWnJrYUNUX1ljRXZKM3ZTaWxtcDhlcERILW82bjdZWHJtRUthVWwyN0ZFakRzdw?oc=5",
+          "source": "Google News",
+          "published": "Sat, 24 Oct 2026 12:56:24 GMT"
         }
       ]
     },
@@ -66,10 +217,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Vivek Ramaswamy campaign switches to shorter version of attack ad featuring Amy Acton’s estranged mother - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQN2NDenk4LVVpYmtBWnNEX0pIMEs2cWViejlVSlBkZnc4SkVhSUpPV1hkLVNNaUlCY3hvcThXbEpTOUhXelpkUUpuVmVHTXljZHRnZVo5dW9nZTBKc3BnMnJPcFgtWUh4S3BlR0ktcWh2cEp0dENkWWtZaG1qSnRnMF9OS0IxblpodEpKZGpEa3l4Tl9NYXNiRjQ3Mnh5WEgyZ1doNmpaUXZKVy1qamRTVmcxQlJJdWNndjloZnkxaTRXaTR6N1E?oc=5",
+          "title": "Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeUdkajdVaE81UXowdEROTVA0NFNwX0JJTUw1RHdaMmtHQURmRzZmNVN6dmplOGQtZ1BrQXNrb0JPZXdPZXQ3Qi1mNG9zb1RONC1DeDV0eXNzRmdDd2lpNkhjSHJLWDFrcFk5S0JLNHpKWVB5UnoyT2E3U2NPSHpKVXE5REdYdzlR?oc=5",
           "source": "Google News",
-          "published": "Sat, 24 Oct 2026 13:59:33 GMT"
+          "published": "Sat, 24 Oct 2026 21:06:54 GMT"
         },
         {
           "title": "Mark Zuckerberg’s deal to stay in California cheered by wealth tax campaign - Financial Times",
@@ -80,135 +231,59 @@
       ]
     },
     {
-      "word": "California",
+      "word": "Event",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "California must respond to DOJ's emergency request over ballots mailed to alleged noncitizens, court rules - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdWRnYzF5cTRGdGpmR0NxcEdESzNSSldUX2NrTnJ6bllENzd6OEZEb25MYi1yV2dqMWJCaHdjOTFNcmtEbEppQWdpdE55SmNkbVB5OGVWZ2JFRjVTT3JvYUtzdHRjTFo4a0Q3NDRUeFJOQVhtOEtKWkZGSldCRVQ4eVJ4NVhnS01uUFdpZmxOaU8xY281RjFxTk8xTU5KdWdqQmF6cGpzVUJtaE14QjJYTmItTDVrTl9uLVhUeDRjSm5QWTZ1VWJrcWlib9IB0AFBVV95cUxOdkJ3Zzk3ZUsyTUxrUEdPa1lNUmRTc2x3ckExdVRXcmVXNmROSjFSdk04aS1EUWJPczhwR2FSRmFiWmI2aFo0NnphNHF0cGlGZEpsWWxEMkZHYmRZTVItVkRZT0pEZjZmQS1DYkc0NndHSllQNlJCQ1pEMXZESEVuNzgtNmZBSTZsMFhGOVpTX0Y0OVpmX3Njb3VCMWk5QWYybXptVy1ibWE2eTh1Z1RQQ1NseFZyRHJsRUZBTVE5ajcxdGd3ZmlKM09CVVVmdTFq?oc=5",
+          "title": "'Once in a generation' flood event impacts San Juan County - KOAT",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZWFtRDhBcFN1UXc1MnlLUlpBdXBjZU9KS3JEdDQ0cFAxNVNmbEEzZ0tPbkQ4bVQ3S1c5TURuSGZONzNJM3FqVW5za1l1d0NxMlhuNV9qdmV1R2FfcWlCRGJtWU9nVU1VS2pBTWhjWGJGdDRlWk9wTEFrVGlhUmNxcUtxa2tnT3FYbjE4cHFqdUxtOS00QmtSVEZTTQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 24 Oct 2026 09:21:53 GMT"
+          "published": "Sat, 24 Oct 2026 16:59:00 GMT"
         },
         {
-          "title": "Mark Zuckerberg’s deal to stay in California cheered by wealth tax campaign - Financial Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcmxRTm9laFJ0Ymw0bVFicDljenBRdXA2OWhneUVvMXFCVmlpZXlpbHlxeWlBU3JVQkRySEczYThHVkhLMkRFOWVWTlNhUUJscTRMQ2RDLVB1cDBMMjAtU0F3MzF5YVpVRk5JRG9xRkNza2JLak81WVhNdUc3X01JaGVpOFE?oc=5",
+          "title": "What to expect from Apple’s ‘Pro and tell’ event - The Verge",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcEF1TTdLOVBhWTFLSXB6WmFVeWlRWEhCbzNOVlhXb2ZhSmNRUE56ellSMlYzQ0lpUXFhcWQ0UlJDX0g4S0hBSFNvcG04ZS0zMzhyeFF5NDl3YkRGZnVtd2k3WFEwdW5sWFBoZ0JhWU1OeHl1LVg1OVZaQWdlOFgtMlJqVXlqQUFaeXBxRW8wSkttQ2hHZHJXNFc4eWtPUHpWckVN?oc=5",
           "source": "Google News",
-          "published": "Fri, 23 Oct 2026 18:15:17 GMT"
+          "published": "Sat, 24 Oct 2026 14:15:00 GMT"
         }
       ]
     },
     {
-      "word": "Emergency",
+      "word": "County",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "California must respond to DOJ's emergency request over ballots mailed to alleged noncitizens, court rules - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdWRnYzF5cTRGdGpmR0NxcEdESzNSSldUX2NrTnJ6bllENzd6OEZEb25MYi1yV2dqMWJCaHdjOTFNcmtEbEppQWdpdE55SmNkbVB5OGVWZ2JFRjVTT3JvYUtzdHRjTFo4a0Q3NDRUeFJOQVhtOEtKWkZGSldCRVQ4eVJ4NVhnS01uUFdpZmxOaU8xY281RjFxTk8xTU5KdWdqQmF6cGpzVUJtaE14QjJYTmItTDVrTl9uLVhUeDRjSm5QWTZ1VWJrcWlib9IB0AFBVV95cUxOdkJ3Zzk3ZUsyTUxrUEdPa1lNUmRTc2x3ckExdVRXcmVXNmROSjFSdk04aS1EUWJPczhwR2FSRmFiWmI2aFo0NnphNHF0cGlGZEpsWWxEMkZHYmRZTVItVkRZT0pEZjZmQS1DYkc0NndHSllQNlJCQ1pEMXZESEVuNzgtNmZBSTZsMFhGOVpTX0Y0OVpmX3Njb3VCMWk5QWYybXptVy1ibWE2eTh1Z1RQQ1NseFZyRHJsRUZBTVE5ajcxdGd3ZmlKM09CVVVmdTFq?oc=5",
+          "title": "'Once in a generation' flood event impacts San Juan County - KOAT",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZWFtRDhBcFN1UXc1MnlLUlpBdXBjZU9KS3JEdDQ0cFAxNVNmbEEzZ0tPbkQ4bVQ3S1c5TURuSGZONzNJM3FqVW5za1l1d0NxMlhuNV9qdmV1R2FfcWlCRGJtWU9nVU1VS2pBTWhjWGJGdDRlWk9wTEFrVGlhUmNxcUtxa2tnT3FYbjE4cHFqdUxtOS00QmtSVEZTTQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 24 Oct 2026 09:21:53 GMT"
+          "published": "Sat, 24 Oct 2026 16:59:00 GMT"
         },
         {
-          "title": "Dengue cases in Florida continued to climb after emergency declared - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRHNwLVM1YmE3MGlGeVNZdnFmZTdZYUtFSVVtVUtvTW83dTZXWmhaWldJSDhOekRWOXdiSTNEejRkWmpOWm8wTWlJTHNjREladVhzSFRjYmdHaWhUUjhWTUR6LWlfSjJfTE8tSWtKSGdIOTZPclZSb1dRVTVEbjdIZmk1dXlYMk81R25VZHFRMUFyQUhXVDVjRVNZc05qd3ljeVc1b3BPQ1AwMXphYXM1Tw?oc=5",
+          "title": "Second raccoon tests positive for rabies in Los Angeles County, health officials say - KTLA",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWWkySklvSW8tbHM2ejFyNl8tSnNseXF2LU5TVlFGclVHdXplT2tBTzdoVExrc01Wanp1RGxxOHZESGVhYzlPOUpMOVZEbFNrYmdJa1l2QWEzQ1Z1enV4MGplcm1jQnlaMWM3YzNvRmdfNEFOR3FobHl4SDlvYXZpN2pmYnNJMmc5SXFSa3VNMmxlRndUVmVXbXM5amXSAaIBQVVfeXFMT0tRRlNWWUlGdGpPV0g5ck14MEQydExKVEdTLVlKSTVaMGRJcG5xcEVUTFlMRXJXQmJXUkhaU0hxNm80U05mazRBUE05bzVIaDdSUFRLX01WejA2ek10Q1VabFZkR2ZaQ0pvNG5DcUVVWmd6TGQ3OGIybFZGbDBuRm1NUDNZeFFVb3E3ekRRYkNNdFVoYjQ3bWlsLTRLNXRMV0F3?oc=5",
           "source": "Google News",
-          "published": "Sat, 24 Oct 2026 01:25:33 GMT"
+          "published": "Sat, 24 Oct 2026 02:20:51 GMT"
         }
       ]
     },
     {
-      "word": "Alleged",
+      "word": "Positive",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "California must respond to DOJ's emergency request over ballots mailed to alleged noncitizens, court rules - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdWRnYzF5cTRGdGpmR0NxcEdESzNSSldUX2NrTnJ6bllENzd6OEZEb25MYi1yV2dqMWJCaHdjOTFNcmtEbEppQWdpdE55SmNkbVB5OGVWZ2JFRjVTT3JvYUtzdHRjTFo4a0Q3NDRUeFJOQVhtOEtKWkZGSldCRVQ4eVJ4NVhnS01uUFdpZmxOaU8xY281RjFxTk8xTU5KdWdqQmF6cGpzVUJtaE14QjJYTmItTDVrTl9uLVhUeDRjSm5QWTZ1VWJrcWlib9IB0AFBVV95cUxOdkJ3Zzk3ZUsyTUxrUEdPa1lNUmRTc2x3ckExdVRXcmVXNmROSjFSdk04aS1EUWJPczhwR2FSRmFiWmI2aFo0NnphNHF0cGlGZEpsWWxEMkZHYmRZTVItVkRZT0pEZjZmQS1DYkc0NndHSllQNlJCQ1pEMXZESEVuNzgtNmZBSTZsMFhGOVpTX0Y0OVpmX3Njb3VCMWk5QWYybXptVy1ibWE2eTh1Z1RQQ1NseFZyRHJsRUZBTVE5ajcxdGd3ZmlKM09CVVVmdTFq?oc=5",
+          "title": "Rubio calls on Cubans seeking \"positive change\" to work with CIA: \"Now is the time\" - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LbUJ2ek1uS2tBbzBrbUpTaG1nZTZzbnJVZDlTRHZoVGpRUFZ3Z01ka2dJZWUwLXFnNmtZdnVLbzFqMHpZRjdnSTRrYVJRWnZGS19YLVUzamN2cVk4Qk9UQ2V1LWQ4Zw?oc=5",
           "source": "Google News",
-          "published": "Sat, 24 Oct 2026 09:21:53 GMT"
+          "published": "Sat, 24 Oct 2026 15:49:32 GMT"
         },
         {
-          "title": "Omar’s deleted tweet could give clue on alleged brother marriage - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd3g1V1ZtUFdOMXMzc3IzWW81Z0VKM2ZvdmlYNG1Hci13U1ZGU0VhSUpIUXBfOTF0RTNxNWgzRVRuc2dpRlBzRk5rQnVSMnpJTlJRYVRsTXBRNkVUVzZKRWdTWVBzbEVINEVCTXlNckZFb05kRVd6bDFOSFprQzhuT0RfcTRKSk5YY1HSAY8BQVVfeXFMT1ZKM1dKOXZBMEpacmJ6bzNMYmZ4Wi02ZUk2eTE5MVNwd092eFAwcGJxMXNZUWQwTnRHQWlDc1BtemtiM29vYU50eFMxTXZCRHNoTmNpTE1pdmROWV9wSFQ3a1NvWEhTeVA0clV3Qm5jUHhGWGVRakcxbHZyNjlONEhLRC1Xd0czZGdyVUQ1UDg?oc=5",
+          "title": "Second raccoon tests positive for rabies in Los Angeles County, health officials say - KTLA",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWWkySklvSW8tbHM2ejFyNl8tSnNseXF2LU5TVlFGclVHdXplT2tBTzdoVExrc01Wanp1RGxxOHZESGVhYzlPOUpMOVZEbFNrYmdJa1l2QWEzQ1Z1enV4MGplcm1jQnlaMWM3YzNvRmdfNEFOR3FobHl4SDlvYXZpN2pmYnNJMmc5SXFSa3VNMmxlRndUVmVXbXM5amXSAaIBQVVfeXFMT0tRRlNWWUlGdGpPV0g5ck14MEQydExKVEdTLVlKSTVaMGRJcG5xcEVUTFlMRXJXQmJXUkhaU0hxNm80U05mazRBUE05bzVIaDdSUFRLX01WejA2ek10Q1VabFZkR2ZaQ0pvNG5DcUVVWmd6TGQ3OGIybFZGbDBuRm1NUDNZeFFVb3E3ekRRYkNNdFVoYjQ3bWlsLTRLNXRMV0F3?oc=5",
           "source": "Google News",
-          "published": "Sat, 24 Oct 2026 14:04:28 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Home",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Records offer a picture of the Oregon school shooter’s tumultuous home life - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVlYzM0NoSkxJT3ZpdHBiZDVicGRjalMwY0dKV1NkcURJUFpHOEpPYllqU29MdmhDdDBRMmxIZEc0d0dadE1NZldhWEt1bHRmSi1SRThaTjYzb0pyZTAwWUtxMTdCZzVhLXplSEUycXFPVUl1UTkxYTVQamV2UVhReW1NRVlPc3NfMjZoVEhmSXFVOEgzdU5kb3ZTZU0?oc=5",
-          "source": "Google News",
-          "published": "Sat, 24 Oct 2026 09:30:00 GMT"
-        },
-        {
-          "title": "Japan launches spacecraft to mysterious moons of Mars in a bold mission to bring home soil samples - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbThaWjFtd3FZVjVKb2hIcEpITUZlclloelM2TE51a094eTlCQlF4RDllSzM5bjNmejZuNGxZUnVMNjhuMFVEXzFITkxNblNQaUV2M3F6NmJOWnE2NWlZcUVYNU11dEFmS0l1LTFjUi1sR09ydHVsY0YyZkxlamk2OHhOTEo5QURpNGpr?oc=5",
-          "source": "Google News",
-          "published": "Tue, 20 Oct 2026 04:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Life",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Records offer a picture of the Oregon school shooter’s tumultuous home life - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVlYzM0NoSkxJT3ZpdHBiZDVicGRjalMwY0dKV1NkcURJUFpHOEpPYllqU29MdmhDdDBRMmxIZEc0d0dadE1NZldhWEt1bHRmSi1SRThaTjYzb0pyZTAwWUtxMTdCZzVhLXplSEUycXFPVUl1UTkxYTVQamV2UVhReW1NRVlPc3NfMjZoVEhmSXFVOEgzdU5kb3ZTZU0?oc=5",
-          "source": "Google News",
-          "published": "Sat, 24 Oct 2026 09:30:00 GMT"
-        },
-        {
-          "title": "He thought it was gout. Doctors said he needed hospice. A clinical trial saved his life. - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOWRzZHlScU5ZOHBZYnllenBLUUZnVF9NejlTcVVKbHBTV3o1VDhvTUpKR3J2MExxUDdIbW5BcnFnRWZ1UzBXajdHZldabzU4TjlKbUVXMlgzTGQ0N3l5U2JHV1Q3YUllbVR1NVlQVGl0a1JkclN4V1M2YW1LTGNCdlFrWkxWakl0NFJKb3RFS2pPaXVOMTJLVk1tSy1pYS1idnM0?oc=5",
-          "source": "Google News",
-          "published": "Sat, 24 Oct 2026 12:00:20 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Week",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Starlink in Ukraine back to normal after week of throttling - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVklsWE9QVlFHcHRES2xGTXNTVEtudENYZTR6aFRMZmVuaENzXzBCb0twTjdadFhWY3V3Nkw4aWZTLVJmYjF4OTVmR0haOERYVGlFSFB0a1lsQUUyVDM2UF9lZ3QyeTJ3QzVGN0J0eEF5UEsyanhKaUNHZmpaZnA1eVFsWkVKdHhkdVJjTWZrSGtHOHN0aC1JN0JkbTByTE1vaG5vc2dPWUswNkZxYTN3aFV2WkJZbVlwNlJtZU1R?oc=5",
-          "source": "Google News",
-          "published": "Sat, 24 Oct 2026 15:13:55 GMT"
-        },
-        {
-          "title": "College football picks: Predictions against the spread, odds, betting lines for top 25 games in Week 8 - CBS Sports",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeWhWdUdOZFItdDlMYUl5dXNJUG1EaDNZRzVPMUVhXzVCbEMzVXg3NG1lazdVRGVYYU5tN2JiYk1pLThtWXFxeWQzWUdxYlprZmMxZUhyWTV4S2FNMjBUcmF1YVhQb2dxRjZoSW9vbTAwMVZkeWJrZk5qd2dOQVBQU1ZtQ1QzZVFxcU1zNGpjTFhxUGQ3QlEyLXN0bjdWN2gzSnlaTkhMR2x4aVp3NGFVVU1Jc2p5SlhQVEF0TlZobV9BdjhqRFRpTg?oc=5",
-          "source": "Google News",
-          "published": "Sat, 24 Oct 2026 18:25:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Plan",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "She Planned to Protest Trump. She Didn’t Plan on Getting Punched. - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS09lTVgxMGZDUy1IZ1NGa1JPNUc3emJfcTJhU0xLNG9wNzRZTDhTc3ZnUjJGRklDWWk1eWtrU01VTGRPMzNCcjRyai1tQ0lKTUN5RlZwbUlaeFg4UnI1OTlWMVBKcVlxNTVPeEI5SnVEb1hpZW9wRVRfeHgtOThyN2hVR2h2U191V0E?oc=5",
-          "source": "Google News",
-          "published": "Sat, 24 Oct 2026 18:08:58 GMT"
-        },
-        {
-          "title": "NASA lays out plan for Artemis 3 moon-lander test flight — but when will it launch? - Space",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ1NmM2ViY2w1MWN1UlJZYzhnZzRMcDhEOGFwSy1IMHkxemFVV25fRlhCbkxyUnFXcElLSkRUTVpyUEFXRXotbDlEMThmNy1HMzQ1Wlp3cElXbFhNRGJQWFF1UWppelRXMmZCbGVBak9kbEQxU1hzVkFTZkJNSjY5MXVSX2FFb2lxTzRuaGhwMGZvLTNpRjFIdVRpQmFlTTM0ZGVleG5YMXBiVXNvMHlZbDNYay1YV1hNVVNBYnVxRmsyZmhZNXNZ?oc=5",
-          "source": "Google News",
-          "published": "Fri, 23 Oct 2026 22:55:43 GMT"
+          "published": "Sat, 24 Oct 2026 02:20:51 GMT"
         }
       ]
     },
@@ -218,10 +293,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Halloween candy sales are off to a slow start amid high chocolate prices and affordability concerns - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWGZZMWlraVgxOHBmWkI0dEFfSFRnOEM3aFYwX2xxQU5hUHYzNlRnT29zTkYxVjFrMFVmamtrZUhBRElRcGo2aFdYSGhwb3cxdU5ZcDhnWk5HVXJoaGl5VE05X3VRQkR6M09nWGlicXZBdFpHcXdTZkZXQURsOFg0cjVsUHg3cndFV1IwWjFZVnJaa0RTRWkyU2ZTN2NFZk90TDN4eU9oeE0?oc=5",
+          "title": "Halloween candy sales are off to a slow start amid high chocolate prices and affordability concerns - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQblVPaDQtRVlhWHR4M1RIcHhGbkMwWU5LcmxOajktWHFMZlBiRUFuZUJEbHpPa3QydHJpWGsyRnNqZ21IMldEZUZuZk54WkNGVnd4c2w0V2cycU5nZkdxbGFlakdaekc5N0VIN0w5S2NNQ1AzUFBjbU15clh4SUJKT3BHWHZQVnJpdWlMbzFXREZsbjlqVVFxMlQ2SEVPUXR3UTZYTFJ3?oc=5",
           "source": "Google News",
-          "published": "Sat, 24 Oct 2026 15:10:00 GMT"
+          "published": "Sat, 24 Oct 2026 17:06:13 GMT"
         },
         {
           "title": "Additional 178 cases of measles reported by US health authorities amid outbreak - The Guardian",
@@ -262,10 +337,10 @@
           "published": "Sat, 24 Oct 2026 12:12:00 GMT"
         },
         {
-          "title": "These clever apps show off the iPhone Duo’s potential - TechCrunch",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdlJLNjV4UU9KbEtGc0FQWGRwbU1VU3pwdWEwLXJZNklpZkE4dm9vSGUyOFdIbmpjVjFGdWdBUmZjdm5XaFZzWXo4aVZjMWQ1YVFCdTFTZzF4QkZkVXVSQXAxRTNZaEI1NTdqdEYzcktHRDFMZDBGR0daRUFuclBwZzdaQzlvWXRTeU1rWVRYR1M?oc=5",
+          "title": "The best iPhone Duo apps and games — turn your phone into a toaster, Mac computer, or Nintendo DS console - PhoneArena",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9iaFlvNnV6OGpudkNqUFZHY2tHZUJhaGh0eHdPRUhzOGRpY05SUld2dk84eUd2SFZWN3NnZkV2RGlQNzZqc0RubUF0Q19XZ25DMkk2VE1QYW9ucGl4ZFZ6eUZ3TGVkcW9XUnNLX3FTdG9LbFBlNDRmVzQxdw?oc=5",
           "source": "Google News",
-          "published": "Sat, 24 Oct 2026 15:00:00 GMT"
+          "published": "Sat, 24 Oct 2026 08:29:02 GMT"
         }
       ]
     },
@@ -281,29 +356,10 @@
           "published": "Sat, 24 Oct 2026 12:12:00 GMT"
         },
         {
-          "title": "These clever apps show off the iPhone Duo’s potential - TechCrunch",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdlJLNjV4UU9KbEtGc0FQWGRwbU1VU3pwdWEwLXJZNklpZkE4dm9vSGUyOFdIbmpjVjFGdWdBUmZjdm5XaFZzWXo4aVZjMWQ1YVFCdTFTZzF4QkZkVXVSQXAxRTNZaEI1NTdqdEYzcktHRDFMZDBGR0daRUFuclBwZzdaQzlvWXRTeU1rWVRYR1M?oc=5",
+          "title": "The best iPhone Duo apps and games — turn your phone into a toaster, Mac computer, or Nintendo DS console - PhoneArena",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9iaFlvNnV6OGpudkNqUFZHY2tHZUJhaGh0eHdPRUhzOGRpY05SUld2dk84eUd2SFZWN3NnZkV2RGlQNzZqc0RubUF0Q19XZ25DMkk2VE1QYW9ucGl4ZFZ6eUZ3TGVkcW9XUnNLX3FTdG9LbFBlNDRmVzQxdw?oc=5",
           "source": "Google News",
-          "published": "Sat, 24 Oct 2026 15:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Live",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Apple Store Pickup System for iPhone Duo Just Went Live Again in U.S. and Canada - MacRumors",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Dc3BMaWc1SWxqM1dyejMtYXVjVFMtVjV6b1NSOHRhNWNsbUduMzR6ckI5QUNWcEtRMDlUNVhYSWNseUxWc2J4cGtFVUZqaXZWakRMY0Jwc0d0dzZ3WUtSbF9CZmNLVjZKM2Q4NmlzTVBId0UxMzNuNTZ3?oc=5",
-          "source": "Google News",
-          "published": "Sat, 24 Oct 2026 12:12:00 GMT"
-        },
-        {
-          "title": "UFC 333 live results, analysis for Volkanovski vs. Evloev, Yan vs. Dvalishvili - ESPN",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVkZOQW4ycl93OXRyVThqWXhTajBIdHlJaEZQRlpoYUxoZnYwZ1B3ZlRRamtVem80My1wWU9qTFpDRlZYd1JsLVBqQjZZWFNVSVpDcmxvUk1GMDhIS2czMHNicFRuMS1oajdnWkdJLXItbWNqLWlBbFZuNGo2QjdWbktOeF9mUQ?oc=5",
-          "source": "Google News",
-          "published": "Sat, 24 Oct 2026 17:55:00 GMT"
+          "published": "Sat, 24 Oct 2026 08:29:02 GMT"
         }
       ]
     },
@@ -321,40 +377,40 @@
       ]
     },
     {
-      "word": "Health",
+      "word": "Moon",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Ric Flair Health Update: Ex-Wrestler Recovering After Fall In Florida - Deadline",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tSVNNSDhNS0hoZjNpV09ZcHIxM25kRWlhLUJJUU9NODQtdGtaV2t4MTRJdVZuampNMVcwcmplVnQzNkxaY1Q2LVdzNUxVZ0pGaTF4QWJzNGNUYWEtakp1RHN6R01MZXgzYThJM2dMdVZ2Zw?oc=5",
+          "title": "NASA lays out plan for Artemis 3 moon-lander test flight — but when will it launch? - Space",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ1NmM2ViY2w1MWN1UlJZYzhnZzRMcDhEOGFwSy1IMHkxemFVV25fRlhCbkxyUnFXcElLSkRUTVpyUEFXRXotbDlEMThmNy1HMzQ1Wlp3cElXbFhNRGJQWFF1UWppelRXMmZCbGVBak9kbEQxU1hzVkFTZkJNSjY5MXVSX2FFb2lxTzRuaGhwMGZvLTNpRjFIdVRpQmFlTTM0ZGVleG5YMXBiVXNvMHlZbDNYay1YV1hNVVNBYnVxRmsyZmhZNXNZ?oc=5",
           "source": "Google News",
-          "published": "Sat, 24 Oct 2026 17:25:00 GMT"
+          "published": "Fri, 23 Oct 2026 22:55:43 GMT"
         },
         {
-          "title": "Additional 178 cases of measles reported by US health authorities amid outbreak - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BX2FfNHd6TlpjcmFhZXVRR00tcEhVTTgxZEtEVFRLWHItS0VCVVI4NjN3Sk5zd3ZLUlpqRWxsakZkd2RCTElxOGZKLWg5aTB3emw3X1ozV1JrTWdjN29nZkR3cnEyQ25oUkFhaGh3NjJacGxOUThuQWphcnltZkE?oc=5",
+          "title": "Private Griffin moon lander gets put to the test photo of the day for Oct. 23, 2026 - Space",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRkU2d19JdmI4ak5TTHI0YU1jc3psOWhUUjhTTkF0TlZGblNsUHlTTlpBMFpGRFlGMWdZWk50ZGdpZGRxWEZsazAtQ2FvVHh1eFJobDA3RThJSkFkRG1ES2pWRHBMNjJ3UFdZVFZEQXJmM3hnRGllMDgzTWtTNUNCbk1STm1KdDlxakYwTVFYcEdqb04xYmROdjg1Y2dJZXRQSk1SWTVSMHhfTVRNT3V4SndRZEtqYkVnR0Z0eXhDVDNJY19fNUE?oc=5",
           "source": "Google News",
-          "published": "Sat, 24 Oct 2026 12:02:00 GMT"
+          "published": "Fri, 23 Oct 2026 14:00:00 GMT"
         }
       ]
     },
     {
-      "word": "Florida",
+      "word": "Lander",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Ric Flair Health Update: Ex-Wrestler Recovering After Fall In Florida - Deadline",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tSVNNSDhNS0hoZjNpV09ZcHIxM25kRWlhLUJJUU9NODQtdGtaV2t4MTRJdVZuampNMVcwcmplVnQzNkxaY1Q2LVdzNUxVZ0pGaTF4QWJzNGNUYWEtakp1RHN6R01MZXgzYThJM2dMdVZ2Zw?oc=5",
+          "title": "NASA lays out plan for Artemis 3 moon-lander test flight — but when will it launch? - Space",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ1NmM2ViY2w1MWN1UlJZYzhnZzRMcDhEOGFwSy1IMHkxemFVV25fRlhCbkxyUnFXcElLSkRUTVpyUEFXRXotbDlEMThmNy1HMzQ1Wlp3cElXbFhNRGJQWFF1UWppelRXMmZCbGVBak9kbEQxU1hzVkFTZkJNSjY5MXVSX2FFb2lxTzRuaGhwMGZvLTNpRjFIdVRpQmFlTTM0ZGVleG5YMXBiVXNvMHlZbDNYay1YV1hNVVNBYnVxRmsyZmhZNXNZ?oc=5",
           "source": "Google News",
-          "published": "Sat, 24 Oct 2026 17:25:00 GMT"
+          "published": "Fri, 23 Oct 2026 22:55:43 GMT"
         },
         {
-          "title": "Dengue cases in Florida continued to climb after emergency declared - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRHNwLVM1YmE3MGlGeVNZdnFmZTdZYUtFSVVtVUtvTW83dTZXWmhaWldJSDhOekRWOXdiSTNEejRkWmpOWm8wTWlJTHNjREladVhzSFRjYmdHaWhUUjhWTUR6LWlfSjJfTE8tSWtKSGdIOTZPclZSb1dRVTVEbjdIZmk1dXlYMk81R25VZHFRMUFyQUhXVDVjRVNZc05qd3ljeVc1b3BPQ1AwMXphYXM1Tw?oc=5",
+          "title": "Private Griffin moon lander gets put to the test photo of the day for Oct. 23, 2026 - Space",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRkU2d19JdmI4ak5TTHI0YU1jc3psOWhUUjhTTkF0TlZGblNsUHlTTlpBMFpGRFlGMWdZWk50ZGdpZGRxWEZsazAtQ2FvVHh1eFJobDA3RThJSkFkRG1ES2pWRHBMNjJ3UFdZVFZEQXJmM3hnRGllMDgzTWtTNUNCbk1STm1KdDlxakYwTVFYcEdqb04xYmROdjg1Y2dJZXRQSk1SWTVSMHhfTVRNT3V4SndRZEtqYkVnR0Z0eXhDVDNJY19fNUE?oc=5",
           "source": "Google News",
-          "published": "Sat, 24 Oct 2026 01:25:33 GMT"
+          "published": "Fri, 23 Oct 2026 14:00:00 GMT"
         }
       ]
     },
@@ -378,15 +434,60 @@
       ]
     },
     {
-      "word": "Across",
+      "word": "Health",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Additional 178 cases of measles reported by US health authorities amid outbreak - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BX2FfNHd6TlpjcmFhZXVRR00tcEhVTTgxZEtEVFRLWHItS0VCVVI4NjN3Sk5zd3ZLUlpqRWxsakZkd2RCTElxOGZKLWg5aTB3emw3X1ozV1JrTWdjN29nZkR3cnEyQ25oUkFhaGh3NjJacGxOUThuQWphcnltZkE?oc=5",
+          "source": "Google News",
+          "published": "Sat, 24 Oct 2026 12:02:00 GMT"
+        },
+        {
+          "title": "Second raccoon tests positive for rabies in Los Angeles County, health officials say - KTLA",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWWkySklvSW8tbHM2ejFyNl8tSnNseXF2LU5TVlFGclVHdXplT2tBTzdoVExrc01Wanp1RGxxOHZESGVhYzlPOUpMOVZEbFNrYmdJa1l2QWEzQ1Z1enV4MGplcm1jQnlaMWM3YzNvRmdfNEFOR3FobHl4SDlvYXZpN2pmYnNJMmc5SXFSa3VNMmxlRndUVmVXbXM5amXSAaIBQVVfeXFMT0tRRlNWWUlGdGpPV0g5ck14MEQydExKVEdTLVlKSTVaMGRJcG5xcEVUTFlMRXJXQmJXUkhaU0hxNm80U05mazRBUE05bzVIaDdSUFRLX01WejA2ek10Q1VabFZkR2ZaQ0pvNG5DcUVVWmd6TGQ3OGIybFZGbDBuRm1NUDNZeFFVb3E3ekRRYkNNdFVoYjQ3bWlsLTRLNXRMV0F3?oc=5",
+          "source": "Google News",
+          "published": "Sat, 24 Oct 2026 02:20:51 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Police",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "More than 400,000 protest across France, challenging Macron as Paris clashes erupt - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFhXb1VmdWxKRzJmZnRpSGpJTk40b3JoTldmR0FjTW9nWWxibmNBOTJCN1NNa1IyenIycmtueTVnVHhaR19YOUU3TkE2ODBHRFFlRWdDYVZzVWY0MVlqV0dTOHlkaTdEbmxkdnFNMnJicVFjSkhYUVdOaGFYYU5jVEQ5VEhRUU5tWlJjZ1pzOE5GQQ?oc=5",
+          "title": "Live updates: Police and protesters clash in France as water cannon deployed in Paris - CNN",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObTZJTm1TRkl4OEtxQWQ1dlFYbE16ZDQya0RnQ3VpOFJHTzFlR0lMSjNsUmstQS04Um1zaXFvN2hQMHRmd3d2aDhUaFFlNzRHNEZTZ3F2Z0FMX3BMYU92ZldVRW00QjhrcmE5YVprSnI1X2prOVItaXA0TXZ2ZGI0UDJHSFd3bXc?oc=5",
           "source": "Google News",
-          "published": "Sat, 24 Oct 2026 16:54:00 GMT"
+          "published": "Sat, 24 Oct 2026 21:26:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Protesters",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Live updates: Police and protesters clash in France as water cannon deployed in Paris - CNN",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObTZJTm1TRkl4OEtxQWQ1dlFYbE16ZDQya0RnQ3VpOFJHTzFlR0lMSjNsUmstQS04Um1zaXFvN2hQMHRmd3d2aDhUaFFlNzRHNEZTZ3F2Z0FMX3BMYU92ZldVRW00QjhrcmE5YVprSnI1X2prOVItaXA0TXZ2ZGI0UDJHSFd3bXc?oc=5",
+          "source": "Google News",
+          "published": "Sat, 24 Oct 2026 21:26:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Clash",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Live updates: Police and protesters clash in France as water cannon deployed in Paris - CNN",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObTZJTm1TRkl4OEtxQWQ1dlFYbE16ZDQya0RnQ3VpOFJHTzFlR0lMSjNsUmstQS04Um1zaXFvN2hQMHRmd3d2aDhUaFFlNzRHNEZTZ3F2Z0FMX3BMYU92ZldVRW00QjhrcmE5YVprSnI1X2prOVItaXA0TXZ2ZGI0UDJHSFd3bXc?oc=5",
+          "source": "Google News",
+          "published": "Sat, 24 Oct 2026 21:26:00 GMT"
         }
       ]
     },
@@ -396,36 +497,49 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "More than 400,000 protest across France, challenging Macron as Paris clashes erupt - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFhXb1VmdWxKRzJmZnRpSGpJTk40b3JoTldmR0FjTW9nWWxibmNBOTJCN1NNa1IyenIycmtueTVnVHhaR19YOUU3TkE2ODBHRFFlRWdDYVZzVWY0MVlqV0dTOHlkaTdEbmxkdnFNMnJicVFjSkhYUVdOaGFYYU5jVEQ5VEhRUU5tWlJjZ1pzOE5GQQ?oc=5",
+          "title": "Live updates: Police and protesters clash in France as water cannon deployed in Paris - CNN",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObTZJTm1TRkl4OEtxQWQ1dlFYbE16ZDQya0RnQ3VpOFJHTzFlR0lMSjNsUmstQS04Um1zaXFvN2hQMHRmd3d2aDhUaFFlNzRHNEZTZ3F2Z0FMX3BMYU92ZldVRW00QjhrcmE5YVprSnI1X2prOVItaXA0TXZ2ZGI0UDJHSFd3bXc?oc=5",
           "source": "Google News",
-          "published": "Sat, 24 Oct 2026 16:54:00 GMT"
+          "published": "Sat, 24 Oct 2026 21:26:00 GMT"
         }
       ]
     },
     {
-      "word": "Challenging",
+      "word": "Water",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "More than 400,000 protest across France, challenging Macron as Paris clashes erupt - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFhXb1VmdWxKRzJmZnRpSGpJTk40b3JoTldmR0FjTW9nWWxibmNBOTJCN1NNa1IyenIycmtueTVnVHhaR19YOUU3TkE2ODBHRFFlRWdDYVZzVWY0MVlqV0dTOHlkaTdEbmxkdnFNMnJicVFjSkhYUVdOaGFYYU5jVEQ5VEhRUU5tWlJjZ1pzOE5GQQ?oc=5",
+          "title": "Live updates: Police and protesters clash in France as water cannon deployed in Paris - CNN",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObTZJTm1TRkl4OEtxQWQ1dlFYbE16ZDQya0RnQ3VpOFJHTzFlR0lMSjNsUmstQS04Um1zaXFvN2hQMHRmd3d2aDhUaFFlNzRHNEZTZ3F2Z0FMX3BMYU92ZldVRW00QjhrcmE5YVprSnI1X2prOVItaXA0TXZ2ZGI0UDJHSFd3bXc?oc=5",
           "source": "Google News",
-          "published": "Sat, 24 Oct 2026 16:54:00 GMT"
+          "published": "Sat, 24 Oct 2026 21:26:00 GMT"
         }
       ]
     },
     {
-      "word": "Macron",
+      "word": "Cannon",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "More than 400,000 protest across France, challenging Macron as Paris clashes erupt - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFhXb1VmdWxKRzJmZnRpSGpJTk40b3JoTldmR0FjTW9nWWxibmNBOTJCN1NNa1IyenIycmtueTVnVHhaR19YOUU3TkE2ODBHRFFlRWdDYVZzVWY0MVlqV0dTOHlkaTdEbmxkdnFNMnJicVFjSkhYUVdOaGFYYU5jVEQ5VEhRUU5tWlJjZ1pzOE5GQQ?oc=5",
+          "title": "Live updates: Police and protesters clash in France as water cannon deployed in Paris - CNN",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObTZJTm1TRkl4OEtxQWQ1dlFYbE16ZDQya0RnQ3VpOFJHTzFlR0lMSjNsUmstQS04Um1zaXFvN2hQMHRmd3d2aDhUaFFlNzRHNEZTZ3F2Z0FMX3BMYU92ZldVRW00QjhrcmE5YVprSnI1X2prOVItaXA0TXZ2ZGI0UDJHSFd3bXc?oc=5",
           "source": "Google News",
-          "published": "Sat, 24 Oct 2026 16:54:00 GMT"
+          "published": "Sat, 24 Oct 2026 21:26:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Deployed",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Live updates: Police and protesters clash in France as water cannon deployed in Paris - CNN",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObTZJTm1TRkl4OEtxQWQ1dlFYbE16ZDQya0RnQ3VpOFJHTzFlR0lMSjNsUmstQS04Um1zaXFvN2hQMHRmd3d2aDhUaFFlNzRHNEZTZ3F2Z0FMX3BMYU92ZldVRW00QjhrcmE5YVprSnI1X2prOVItaXA0TXZ2ZGI0UDJHSFd3bXc?oc=5",
+          "source": "Google News",
+          "published": "Sat, 24 Oct 2026 21:26:00 GMT"
         }
       ]
     },
@@ -435,205 +549,127 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "More than 400,000 protest across France, challenging Macron as Paris clashes erupt - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFhXb1VmdWxKRzJmZnRpSGpJTk40b3JoTldmR0FjTW9nWWxibmNBOTJCN1NNa1IyenIycmtueTVnVHhaR19YOUU3TkE2ODBHRFFlRWdDYVZzVWY0MVlqV0dTOHlkaTdEbmxkdnFNMnJicVFjSkhYUVdOaGFYYU5jVEQ5VEhRUU5tWlJjZ1pzOE5GQQ?oc=5",
+          "title": "Live updates: Police and protesters clash in France as water cannon deployed in Paris - CNN",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObTZJTm1TRkl4OEtxQWQ1dlFYbE16ZDQya0RnQ3VpOFJHTzFlR0lMSjNsUmstQS04Um1zaXFvN2hQMHRmd3d2aDhUaFFlNzRHNEZTZ3F2Z0FMX3BMYU92ZldVRW00QjhrcmE5YVprSnI1X2prOVItaXA0TXZ2ZGI0UDJHSFd3bXc?oc=5",
           "source": "Google News",
-          "published": "Sat, 24 Oct 2026 16:54:00 GMT"
+          "published": "Sat, 24 Oct 2026 21:26:00 GMT"
         }
       ]
     },
     {
-      "word": "Clashes",
+      "word": "Describes",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "More than 400,000 protest across France, challenging Macron as Paris clashes erupt - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFhXb1VmdWxKRzJmZnRpSGpJTk40b3JoTldmR0FjTW9nWWxibmNBOTJCN1NNa1IyenIycmtueTVnVHhaR19YOUU3TkE2ODBHRFFlRWdDYVZzVWY0MVlqV0dTOHlkaTdEbmxkdnFNMnJicVFjSkhYUVdOaGFYYU5jVEQ5VEhRUU5tWlJjZ1pzOE5GQQ?oc=5",
+          "title": "Obama describes Trump as an agent of ‘chaos and cruelty’ in midterm elections pitch - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbmN4UzdfS0JCeFJPV2RsQVVfX196T1c2MTVLbGZmV2VqZUh1ODl6TVBwc0FURzU3c05jdVd4ZnN1Y2RMMW16UDkzY25Qd3FRTnN1T3kyNHpKNnVxM2VHTEt5eXRsemlCczBUN3E3WTdlMHFIZ0pTWTc3N196eW9GR3ctWXBOT2hwZDdDd2Y1d0FjS0N6Nnh3NHJvaFhRX1NPZFpabGYzUk50SEJYZG91T0xWdFcyOHJjeWdlMDNnVQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 24 Oct 2026 16:54:00 GMT"
+          "published": "Sat, 24 Oct 2026 20:44:55 GMT"
         }
       ]
     },
     {
-      "word": "Erupt",
+      "word": "Agent",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "More than 400,000 protest across France, challenging Macron as Paris clashes erupt - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFhXb1VmdWxKRzJmZnRpSGpJTk40b3JoTldmR0FjTW9nWWxibmNBOTJCN1NNa1IyenIycmtueTVnVHhaR19YOUU3TkE2ODBHRFFlRWdDYVZzVWY0MVlqV0dTOHlkaTdEbmxkdnFNMnJicVFjSkhYUVdOaGFYYU5jVEQ5VEhRUU5tWlJjZ1pzOE5GQQ?oc=5",
+          "title": "Obama describes Trump as an agent of ‘chaos and cruelty’ in midterm elections pitch - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbmN4UzdfS0JCeFJPV2RsQVVfX196T1c2MTVLbGZmV2VqZUh1ODl6TVBwc0FURzU3c05jdVd4ZnN1Y2RMMW16UDkzY25Qd3FRTnN1T3kyNHpKNnVxM2VHTEt5eXRsemlCczBUN3E3WTdlMHFIZ0pTWTc3N196eW9GR3ctWXBOT2hwZDdDd2Y1d0FjS0N6Nnh3NHJvaFhRX1NPZFpabGYzUk50SEJYZG91T0xWdFcyOHJjeWdlMDNnVQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 24 Oct 2026 16:54:00 GMT"
+          "published": "Sat, 24 Oct 2026 20:44:55 GMT"
         }
       ]
     },
     {
-      "word": "Facing",
+      "word": "Chaos",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Facing an electoral wipeout, Trump goes after the system - Politico",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWXprRF9jNDJqVkVZVV8wTkF6YW56NU9xMnNUTXJ6WlBKV3BaTURCWF9pMTQ4WVlNUldiem1mY3JLV3ZDejgwZDJGeXllQ0dacGNNQ25XMURXd0JJSUdhS1RsUDJfUGlNVUFxcXVtZGlJRGZlSDMwY0hkeE1fNWE2T3cwazNmeVBTbktpX3JYN2E5TWVE?oc=5",
+          "title": "Obama describes Trump as an agent of ‘chaos and cruelty’ in midterm elections pitch - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbmN4UzdfS0JCeFJPV2RsQVVfX196T1c2MTVLbGZmV2VqZUh1ODl6TVBwc0FURzU3c05jdVd4ZnN1Y2RMMW16UDkzY25Qd3FRTnN1T3kyNHpKNnVxM2VHTEt5eXRsemlCczBUN3E3WTdlMHFIZ0pTWTc3N196eW9GR3ctWXBOT2hwZDdDd2Y1d0FjS0N6Nnh3NHJvaFhRX1NPZFpabGYzUk50SEJYZG91T0xWdFcyOHJjeWdlMDNnVQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 24 Oct 2026 11:00:00 GMT"
+          "published": "Sat, 24 Oct 2026 20:44:55 GMT"
         }
       ]
     },
     {
-      "word": "Electoral",
+      "word": "Cruelty",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Facing an electoral wipeout, Trump goes after the system - Politico",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWXprRF9jNDJqVkVZVV8wTkF6YW56NU9xMnNUTXJ6WlBKV3BaTURCWF9pMTQ4WVlNUldiem1mY3JLV3ZDejgwZDJGeXllQ0dacGNNQ25XMURXd0JJSUdhS1RsUDJfUGlNVUFxcXVtZGlJRGZlSDMwY0hkeE1fNWE2T3cwazNmeVBTbktpX3JYN2E5TWVE?oc=5",
+          "title": "Obama describes Trump as an agent of ‘chaos and cruelty’ in midterm elections pitch - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbmN4UzdfS0JCeFJPV2RsQVVfX196T1c2MTVLbGZmV2VqZUh1ODl6TVBwc0FURzU3c05jdVd4ZnN1Y2RMMW16UDkzY25Qd3FRTnN1T3kyNHpKNnVxM2VHTEt5eXRsemlCczBUN3E3WTdlMHFIZ0pTWTc3N196eW9GR3ctWXBOT2hwZDdDd2Y1d0FjS0N6Nnh3NHJvaFhRX1NPZFpabGYzUk50SEJYZG91T0xWdFcyOHJjeWdlMDNnVQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 24 Oct 2026 11:00:00 GMT"
+          "published": "Sat, 24 Oct 2026 20:44:55 GMT"
         }
       ]
     },
     {
-      "word": "Wipeout",
+      "word": "Midterm",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Facing an electoral wipeout, Trump goes after the system - Politico",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWXprRF9jNDJqVkVZVV8wTkF6YW56NU9xMnNUTXJ6WlBKV3BaTURCWF9pMTQ4WVlNUldiem1mY3JLV3ZDejgwZDJGeXllQ0dacGNNQ25XMURXd0JJSUdhS1RsUDJfUGlNVUFxcXVtZGlJRGZlSDMwY0hkeE1fNWE2T3cwazNmeVBTbktpX3JYN2E5TWVE?oc=5",
+          "title": "Obama describes Trump as an agent of ‘chaos and cruelty’ in midterm elections pitch - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbmN4UzdfS0JCeFJPV2RsQVVfX196T1c2MTVLbGZmV2VqZUh1ODl6TVBwc0FURzU3c05jdVd4ZnN1Y2RMMW16UDkzY25Qd3FRTnN1T3kyNHpKNnVxM2VHTEt5eXRsemlCczBUN3E3WTdlMHFIZ0pTWTc3N196eW9GR3ctWXBOT2hwZDdDd2Y1d0FjS0N6Nnh3NHJvaFhRX1NPZFpabGYzUk50SEJYZG91T0xWdFcyOHJjeWdlMDNnVQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 24 Oct 2026 11:00:00 GMT"
+          "published": "Sat, 24 Oct 2026 20:44:55 GMT"
         }
       ]
     },
     {
-      "word": "Man",
+      "word": "Elections",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FNXFxbmNzSXJlaTFvNzVrZUs4WGNVemRBY2pYVlAyOXc2RWFuYnJJb2JWdWJNUVE3Zmk1QjFydE10bzB2SmpMUzNJYmc1VUEtN1E2Q0owWkdKSFU?oc=5",
+          "title": "Obama describes Trump as an agent of ‘chaos and cruelty’ in midterm elections pitch - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbmN4UzdfS0JCeFJPV2RsQVVfX196T1c2MTVLbGZmV2VqZUh1ODl6TVBwc0FURzU3c05jdVd4ZnN1Y2RMMW16UDkzY25Qd3FRTnN1T3kyNHpKNnVxM2VHTEt5eXRsemlCczBUN3E3WTdlMHFIZ0pTWTc3N196eW9GR3ctWXBOT2hwZDdDd2Y1d0FjS0N6Nnh3NHJvaFhRX1NPZFpabGYzUk50SEJYZG91T0xWdFcyOHJjeWdlMDNnVQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 24 Oct 2026 15:21:44 GMT"
+          "published": "Sat, 24 Oct 2026 20:44:55 GMT"
         }
       ]
     },
     {
-      "word": "Arrested",
+      "word": "Pitch",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FNXFxbmNzSXJlaTFvNzVrZUs4WGNVemRBY2pYVlAyOXc2RWFuYnJJb2JWdWJNUVE3Zmk1QjFydE10bzB2SmpMUzNJYmc1VUEtN1E2Q0owWkdKSFU?oc=5",
+          "title": "Obama describes Trump as an agent of ‘chaos and cruelty’ in midterm elections pitch - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbmN4UzdfS0JCeFJPV2RsQVVfX196T1c2MTVLbGZmV2VqZUh1ODl6TVBwc0FURzU3c05jdVd4ZnN1Y2RMMW16UDkzY25Qd3FRTnN1T3kyNHpKNnVxM2VHTEt5eXRsemlCczBUN3E3WTdlMHFIZ0pTWTc3N196eW9GR3ctWXBOT2hwZDdDd2Y1d0FjS0N6Nnh3NHJvaFhRX1NPZFpabGYzUk50SEJYZG91T0xWdFcyOHJjeWdlMDNnVQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 24 Oct 2026 15:21:44 GMT"
+          "published": "Sat, 24 Oct 2026 20:44:55 GMT"
         }
       ]
     },
     {
-      "word": "Fire",
+      "word": "Ukraine",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FNXFxbmNzSXJlaTFvNzVrZUs4WGNVemRBY2pYVlAyOXc2RWFuYnJJb2JWdWJNUVE3Zmk1QjFydE10bzB2SmpMUzNJYmc1VUEtN1E2Q0owWkdKSFU?oc=5",
+          "title": "Ukraine says Starlink and Starshield high speed restrictions have been lifted - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY2F6T3p0ZGRIQ3hKcVJ0dk5mb0NXUUU4cWZfYzZ0ZVR4RmZzcnN5QzBnVTA0c2FjX2hJTnVMTFFOVFp5S0hGalhnQjZ5bEtXeTNDRzVuazNMWmRybE81bXNpLTduVXM3UmVRVTlTbVRlSEk4YndSYnpIX0JaZFcwQzR4dzloYnJ40gGOAUFVX3lxTE1rNVZldHJwd3lsUTdsYVV6cExWc1JUMHhZd3JaQTlGdldyS3QxZi0ySFBMRzh3MFg2M3pYSHhQeUl0Tm81Zl9PcjF5S05xVFdiZTVtMHBRdFFFamlfR0pHcFNKV3IxbjJPNXYtLVB3SWtmSUpjODlrUTdfV2hPOUpOMUt5UV8zLWEydUlZclE?oc=5",
           "source": "Google News",
-          "published": "Sat, 24 Oct 2026 15:21:44 GMT"
+          "published": "Sat, 24 Oct 2026 13:00:35 GMT"
         }
       ]
     },
     {
-      "word": "Hitler",
+      "word": "Starlink",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FNXFxbmNzSXJlaTFvNzVrZUs4WGNVemRBY2pYVlAyOXc2RWFuYnJJb2JWdWJNUVE3Zmk1QjFydE10bzB2SmpMUzNJYmc1VUEtN1E2Q0owWkdKSFU?oc=5",
+          "title": "Ukraine says Starlink and Starshield high speed restrictions have been lifted - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY2F6T3p0ZGRIQ3hKcVJ0dk5mb0NXUUU4cWZfYzZ0ZVR4RmZzcnN5QzBnVTA0c2FjX2hJTnVMTFFOVFp5S0hGalhnQjZ5bEtXeTNDRzVuazNMWmRybE81bXNpLTduVXM3UmVRVTlTbVRlSEk4YndSYnpIX0JaZFcwQzR4dzloYnJ40gGOAUFVX3lxTE1rNVZldHJwd3lsUTdsYVV6cExWc1JUMHhZd3JaQTlGdldyS3QxZi0ySFBMRzh3MFg2M3pYSHhQeUl0Tm81Zl9PcjF5S05xVFdiZTVtMHBRdFFFamlfR0pHcFNKV3IxbjJPNXYtLVB3SWtmSUpjODlrUTdfV2hPOUpOMUt5UV8zLWEydUlZclE?oc=5",
           "source": "Google News",
-          "published": "Sat, 24 Oct 2026 15:21:44 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Mountaintop",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FNXFxbmNzSXJlaTFvNzVrZUs4WGNVemRBY2pYVlAyOXc2RWFuYnJJb2JWdWJNUVE3Zmk1QjFydE10bzB2SmpMUzNJYmc1VUEtN1E2Q0owWkdKSFU?oc=5",
-          "source": "Google News",
-          "published": "Sat, 24 Oct 2026 15:21:44 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Eagle",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FNXFxbmNzSXJlaTFvNzVrZUs4WGNVemRBY2pYVlAyOXc2RWFuYnJJb2JWdWJNUVE3Zmk1QjFydE10bzB2SmpMUzNJYmc1VUEtN1E2Q0owWkdKSFU?oc=5",
-          "source": "Google News",
-          "published": "Sat, 24 Oct 2026 15:21:44 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Nest",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FNXFxbmNzSXJlaTFvNzVrZUs4WGNVemRBY2pYVlAyOXc2RWFuYnJJb2JWdWJNUVE3Zmk1QjFydE10bzB2SmpMUzNJYmc1VUEtN1E2Q0owWkdKSFU?oc=5",
-          "source": "Google News",
-          "published": "Sat, 24 Oct 2026 15:21:44 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Retreat",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FNXFxbmNzSXJlaTFvNzVrZUs4WGNVemRBY2pYVlAyOXc2RWFuYnJJb2JWdWJNUVE3Zmk1QjFydE10bzB2SmpMUzNJYmc1VUEtN1E2Q0owWkdKSFU?oc=5",
-          "source": "Google News",
-          "published": "Sat, 24 Oct 2026 15:21:44 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Vivek",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Vivek Ramaswamy campaign switches to shorter version of attack ad featuring Amy Acton’s estranged mother - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQN2NDenk4LVVpYmtBWnNEX0pIMEs2cWViejlVSlBkZnc4SkVhSUpPV1hkLVNNaUlCY3hvcThXbEpTOUhXelpkUUpuVmVHTXljZHRnZVo5dW9nZTBKc3BnMnJPcFgtWUh4S3BlR0ktcWh2cEp0dENkWWtZaG1qSnRnMF9OS0IxblpodEpKZGpEa3l4Tl9NYXNiRjQ3Mnh5WEgyZ1doNmpaUXZKVy1qamRTVmcxQlJJdWNndjloZnkxaTRXaTR6N1E?oc=5",
-          "source": "Google News",
-          "published": "Sat, 24 Oct 2026 13:59:33 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Ramaswamy",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Vivek Ramaswamy campaign switches to shorter version of attack ad featuring Amy Acton’s estranged mother - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQN2NDenk4LVVpYmtBWnNEX0pIMEs2cWViejlVSlBkZnc4SkVhSUpPV1hkLVNNaUlCY3hvcThXbEpTOUhXelpkUUpuVmVHTXljZHRnZVo5dW9nZTBKc3BnMnJPcFgtWUh4S3BlR0ktcWh2cEp0dENkWWtZaG1qSnRnMF9OS0IxblpodEpKZGpEa3l4Tl9NYXNiRjQ3Mnh5WEgyZ1doNmpaUXZKVy1qamRTVmcxQlJJdWNndjloZnkxaTRXaTR6N1E?oc=5",
-          "source": "Google News",
-          "published": "Sat, 24 Oct 2026 13:59:33 GMT"
+          "published": "Sat, 24 Oct 2026 13:00:35 GMT"
         }
       ]
     }
