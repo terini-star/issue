@@ -1,332 +1,205 @@
 {
   "language": "ko",
-  "last_updated": 1793058110.692846,
+  "last_updated": 1793076029.6398995,
   "count": 40,
   "trends": [
     {
-      "word": "트럼프",
-      "count": 4,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "CNN “미군, 트럼프 명령하면 나흘 내 대규모 이란 재공격 준비” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXcklkVkt1YUhEUGE5bE5NWkNFRVRGcnFVd1BaOHQyby14Vm8tNDlXellCUlhMX282c3hwWWZOTmRTVnRaTU5zVVJjR2FTanlialV6ZVRNR0IyZ9IBX0FVX3lxTFBnR2piSW9tcmVoaHFnaHl1NXNIakEyU0ptQ1lUUE1hdGhJVTBQZXJTcXBZUEZ0bk5nWnhPM3pva0hnbWhJNXhoZ1N4MDhuMXQ3WkUwX3BHV05oaG5Pd1pN?oc=5",
-          "source": "Google News",
-          "published": "Mon, 26 Oct 2026 13:53:00 GMT"
-        },
-        {
-          "title": "미국 유권자 69% “트럼프 행정부 부패·이해 충돌 우려” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PcUdqT3lrNEtIeFVYNGw0MWs0NTZybFBqb0ZPNFV1NFE4VVRKTHIwbi1sU2lMZko4RkNKTWFiSlB5dktWYjBRVVdiYTYtT2Z1LTNpU2pwMUwyX2s?oc=5",
-          "source": "Google News",
-          "published": "Mon, 26 Oct 2026 02:24:00 GMT"
-        },
-        {
-          "title": "\"쓰레기 같은 나라\"…'노벨상 뒤끝' 트럼프, 노르웨이에 막말 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OWlJtUG96VXB4dnZ2WTFROTl4Z3Q5QnNxTnZYV21RODNUOGRmZlh4S3pTUzk4clFydzdGYzRwOHIycUNBYW5oamZLSHhXd3UzVmZsaUpHNExkS1XSAWBBVV95cUxQbUFLTnlyUWFlU3g3OVk5aVhJQlBXb3pnXzBJUzJJdktSNnE0MjRYZ25jczNZRVZDeHExWkRFRUZDTDNFVmNtOWJJbkI5MzVkaWV6YUFfeFJRWEJJdW5NOUI?oc=5",
-          "source": "Google News",
-          "published": "Mon, 26 Oct 2026 17:35:56 GMT"
-        },
-        {
-          "title": "네타냐후, 선거 막판 ’트럼프 마케팅’…“비비 뽑으세요“ - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VQUtvY0s5ZmI4WGJnSlBfb250dzIyY0dYZmR1eHFzN2k0N1NUd1F3SFRuX0NCQzNHS2dES0w5ejkydXVreUFnZUZ0b1Q2aG5kOVE4S054NHV5aU44cG5hc2VKemxvdm8?oc=5",
-          "source": "Google News",
-          "published": "Mon, 26 Oct 2026 20:53:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "대통령",
-      "count": 3,
-      "category": "PERSON",
-      "articles": [
-        {
-          "title": "룰라, 치열한 결선투표 끝에 브라질 대통령 4선 확정 - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4cWJWcHZSRGxUeFRkNU0yNnJxTG85QXB3dWp6NFNvOHdVQnotemxUWGw0ZndnTmUyRk50WnJfaWZKTkVhRzctY21PSTU0WkZhdFNseDQ3bGVFU3h0YnVCR1RiaWhBR3ZqTUxndHh2b3ZBbUXSAXZBVV95cUxNUHZYRFRpY3NuOXlfOFdyd0xwSGFLOTVYUTRKZFZnMm0zYkhNamkwZUtUR1pfbVRLaHR4N0Jzc3k3WDdEa0FxRVpTbFJ0NWoySGFwWm81U25zX2hKcGJ1bFF2ZlRtTmxLMy02RFdmQlRVRjNqX1dn?oc=5",
-          "source": "Google News",
-          "published": "Mon, 26 Oct 2026 20:34:43 GMT"
-        },
-        {
-          "title": "이 대통령 ‘주52시간 특례’ 발언에…“죽도록 일해 돈 벌라는 정책” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15MTVUeUgwNDNieXZfZ09BWXE1aGlFY29Lbko3RG1kT1RyeHBxeHY4TkRZcmVpNFhObHlITDJqVDkwYVUxc0pEa1JmLWRuRzAwSzd0M1ZmMG45c3NGSFNaeEZHZ2I?oc=5",
-          "source": "Google News",
-          "published": "Mon, 26 Oct 2026 21:12:00 GMT"
-        },
-        {
-          "title": "이 대통령 \"농지조사, 땅 빼앗으려는 것 아냐‥부동산 공화국 벗어나야\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90N1QzOXFMT0tIWG5RMFV4MUNqRkxEV2RQTnIyZF9yZXNWYVNkNWR6a2s1RHpfbUVFX09pZ0Q0MTZjcjRjdExLT19jNl81VHZLRFFJUWpzQ0UyRUl4UjhzNHhkUkhMdW9Rc0wxb19pYno1S3hGMjRMNdIBeEFVX3lxTE1NMzZHWGEwaWVMci1XUVZPNkgwVlVpeU54aFMtMU85MVcxc2VFOE5xVkRjVjFYcEgxcG1rQk1nUjk4LS16bFBYazN5U1hiRWNxTjlZbUlXZms1TTM0dGVpLW1hN3hZUFRlRFJKcDl0ZHA3bFROcmtOQg?oc=5",
-          "source": "Google News",
-          "published": "Mon, 26 Oct 2026 08:12:01 GMT"
-        }
-      ]
-    },
-    {
-      "word": "글로벌",
+      "word": "영상",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "외인 200조 팔때 “사라” 외친 글로벌 IB... 개미 잡는 ‘핑크빛 리포트’ - 조선비즈 - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQkVqd2IwVHE1LVl1aldRb19KOFBlX3VhZjQ0MzVnTzg1Y0ZUcEYxLWxsb0p5RzdjY0NRM2xJQUVjYU9iVDVWR193M1p4WkV4ZDZPcnUycW9uZG55M1F3b0cyRWZ6ZlBha3BqenFFU3FnNktsc1ZHb3RrQTRfQ2NYVkkydjFuWDB50gGcAUFVX3lxTE9Ob25mVXNhci1nMXh3QlZQTjVHRmV5VnpBQkd2a0xVNVlCN2cwQVoyWDVNTnMtS2tFNm9tOEg0cHFjWE5HSWNHMzZpOGtldzZsaDM0TjlnLUN6UUhvT1B1LUI1UXBhMExMVHRWQVVMeTExVk5xT25XNm5fMEU3MUNqUkV5OWR3UHk3ZDZySWhLVVFJNGt5SWNEcmwybg?oc=5",
+          "title": "선관위 특검, 올림픽공원 핸드볼경기장 압수수색…CCTV 영상 확보 주력 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWX21xLXFpRmtZaGxSeVczX0hkRVpTa01McHlTSXdpU19rdThNRmtyd3pEZ0hsX1psSFZXaGlHa1R1SXZOa3BsY1pQdUlTX0RjX05hWUs2WVhRX000ZjI2YlBJN2xaSEZ4SEhlaVdxRTNNdw?oc=5",
           "source": "Google News",
-          "published": "Mon, 26 Oct 2026 21:35:00 GMT"
+          "published": "Tue, 27 Oct 2026 02:11:00 GMT"
         },
         {
-          "title": "[해외 캠페인] 게임써,액션게임 ‘팬텀 블레이드 제로’ 컨트롤러 글로벌 출시 - 캠페인 인사이트",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vS2UtMjh5X3R3OXZMNUE0YVV6cHRZYnQyUFBQR1ZBcEF6MVlvQTBLRnpOZkxNTlA4NW5MTk1BU3ZxNC03dkhMV0VxaDNBR2tBTEJfZEFGSzB2SXh5RGFkNXFJQXR2YXE3TVhZcHpKblI2SEpZ?oc=5",
+          "title": "우주의 새벽, 역대급 정교한 '영상'으로 나왔다 - 초이스경제",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yTHcybUlBbzdISGEydUhhc1pHYnlnSDJCTF9ScVRiVThVRHpZczBMaWt6cDBLTUd0dHVBSzZzSDZjeGlDVEh3WnFINHdJa29zSFh6bkRzdjVsR2FhQktxb3dEaTlaQkpoS3VmakwwZTbSAXNBVV95cUxOX1NGTjE0SWtWTE8tQ19PcVhRRDFrSURGNGEzeWlPYTlLTlBjLVBxV1ZCQks0ZloxVHQ3eGduX1YzMS1LRE9JMXpPUVp3U19ZWmR0Z09Mcy1CZFhlT01ydVlHaThjRVlEN2tBRGx3dmhRRmlF?oc=5",
           "source": "Google News",
-          "published": "Sun, 25 Oct 2026 22:40:00 GMT"
+          "published": "Mon, 26 Oct 2026 23:35:56 GMT"
         }
       ]
     },
     {
-      "word": "해외",
+      "word": "가을",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[해외 캠페인] 게임써,액션게임 ‘팬텀 블레이드 제로’ 컨트롤러 글로벌 출시 - 캠페인 인사이트",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vS2UtMjh5X3R3OXZMNUE0YVV6cHRZYnQyUFBQR1ZBcEF6MVlvQTBLRnpOZkxNTlA4NW5MTk1BU3ZxNC03dkhMV0VxaDNBR2tBTEJfZEFGSzB2SXh5RGFkNXFJQXR2YXE3TVhZcHpKblI2SEpZ?oc=5",
+          "title": "어쩌면 올 가을 ‘마지막 여름’…강한 바람에 내일 아침 겨울이 실려온다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZWDM3WlZDaEsyanRMRnpONVZ6RUVzTnJSOTNTdTlhbTZ2V1FZRENGQ1d0akN1YXZzVmNUMmRMeVl6MnJ2dDlZYm5ralJhTGFQcnBqNFphTmV1M2dkRHd5cW94SUtoc1c4VVI1dg?oc=5",
           "source": "Google News",
-          "published": "Sun, 25 Oct 2026 22:40:00 GMT"
+          "published": "Tue, 27 Oct 2026 00:31:00 GMT"
         },
         {
-          "title": "[해외 캠페인] 캡콤, 내년 ‘바이오하자드 RE: 베로니카’ 출시 박차 - 캠페인 인사이트",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBQU1JYeTRUMk9FdmJBay1LZU1jMTNzTjZ3cjJEZUlNMUlkN2FZVnRYWjBjR0NNSi0wZW5LQm1mYTdCRzk3VkwydXA3eFF0QnVMRUlPWXBYVEF1bU1DczFiMGxyalZkLUc5NW5CUXZHU1N5Vi1G?oc=5",
+          "title": "“웃돈 줬는데 환불도 안돼”... ‘가을 야구’ 우천 취소에 우는 암표 구매자들 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTHZqRW1PQzQtV1RyWmYtTWgwd0YxR2pFdENrT1NwWmhMTURWMlZHUjFUVWx1NnVYYlBZLTJ4X3FwRjZ3VkFUTC10eDAzYlJkSDRPd2lTZXJjUXg0Mm5vVVd2aHVJNHZ2MTVTYVRLTFVna0llVDcxWUhOX3p4Qk9Iakt1UkFXWkJNbXZCRGFrMDk?oc=5",
           "source": "Google News",
-          "published": "Mon, 26 Oct 2026 22:40:21 GMT"
+          "published": "Mon, 26 Oct 2026 22:03:58 GMT"
         }
       ]
     },
     {
-      "word": "캠페인",
+      "word": "만에",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[해외 캠페인] 게임써,액션게임 ‘팬텀 블레이드 제로’ 컨트롤러 글로벌 출시 - 캠페인 인사이트",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vS2UtMjh5X3R3OXZMNUE0YVV6cHRZYnQyUFBQR1ZBcEF6MVlvQTBLRnpOZkxNTlA4NW5MTk1BU3ZxNC03dkhMV0VxaDNBR2tBTEJfZEFGSzB2SXh5RGFkNXFJQXR2YXE3TVhZcHpKblI2SEpZ?oc=5",
+          "title": "3분기 경제성장률 1.0%…‘연간 3.3%’ 전망치 9달 만에 초과달성 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVSUp1QkQ2cTVYYldZV0c1MEJzU0otTkxtbmJka0dyVV9ydVJ6bjRYTjdzNGpEOXhrOG1jaG1aTjdXWDdhVGF1NzJvTnV6NjJhSFlUZDU2NUIzLVN4X3pWWURGRUNLMW1kZ1hCdWdzZ1BMQQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 25 Oct 2026 22:40:00 GMT"
+          "published": "Tue, 27 Oct 2026 01:07:00 GMT"
         },
         {
-          "title": "[해외 캠페인] 캡콤, 내년 ‘바이오하자드 RE: 베로니카’ 출시 박차 - 캠페인 인사이트",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBQU1JYeTRUMk9FdmJBay1LZU1jMTNzTjZ3cjJEZUlNMUlkN2FZVnRYWjBjR0NNSi0wZW5LQm1mYTdCRzk3VkwydXA3eFF0QnVMRUlPWXBYVEF1bU1DczFiMGxyalZkLUc5NW5CUXZHU1N5Vi1G?oc=5",
+          "title": "A2O LITE, 데뷔 13일 만에 음악방송 4관왕 - 경남미디어",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vVS1iNW5LN3laTHRSRVgybTR4RzdrYlIyY2ZUU2FTTndPbTNIR2hTZDZPNDZUcWVwdlRaZGFGVXN5Z3Ytc180ekRoLWpYbzIzS1FMYlRtcmNPX1RObzBYQTFqaWh5X0UyQ3VF?oc=5",
           "source": "Google News",
-          "published": "Mon, 26 Oct 2026 22:40:21 GMT"
+          "published": "Tue, 27 Oct 2026 02:04:21 GMT"
         }
       ]
     },
     {
-      "word": "출시",
+      "word": "애플",
       "count": 2,
-      "category": "LOCATION",
+      "category": "NOUN",
       "articles": [
         {
-          "title": "[해외 캠페인] 게임써,액션게임 ‘팬텀 블레이드 제로’ 컨트롤러 글로벌 출시 - 캠페인 인사이트",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vS2UtMjh5X3R3OXZMNUE0YVV6cHRZYnQyUFBQR1ZBcEF6MVlvQTBLRnpOZkxNTlA4NW5MTk1BU3ZxNC03dkhMV0VxaDNBR2tBTEJfZEFGSzB2SXh5RGFkNXFJQXR2YXE3TVhZcHpKblI2SEpZ?oc=5",
+          "title": "애플 iOS 27.2 출시…시리AI 한국어 지원·아이폰 듀오 애플 펜슬 호환 - 지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5ZHY5eG5UZ09IaXdreVhjVlhHTE9TSFF6SkJZOGNGckZfY29RZ2ZkYTVtdXBsakJRbXZZSENxWHdnWWs3djliM3NjQ2FpdlpZc0ppSVhR?oc=5",
           "source": "Google News",
-          "published": "Sun, 25 Oct 2026 22:40:00 GMT"
-        },
-        {
-          "title": "[해외 캠페인] 캡콤, 내년 ‘바이오하자드 RE: 베로니카’ 출시 박차 - 캠페인 인사이트",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBQU1JYeTRUMk9FdmJBay1LZU1jMTNzTjZ3cjJEZUlNMUlkN2FZVnRYWjBjR0NNSi0wZW5LQm1mYTdCRzk3VkwydXA3eFF0QnVMRUlPWXBYVEF1bU1DczFiMGxyalZkLUc5NW5CUXZHU1N5Vi1G?oc=5",
-          "source": "Google News",
-          "published": "Mon, 26 Oct 2026 22:40:21 GMT"
+          "published": "Tue, 27 Oct 2026 01:09:38 GMT"
         }
       ]
     },
     {
-      "word": "보폭",
+      "word": "이상",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "멜로디 파티, 20,000곡 이상의 음원 제공 및 매월 천 곡 이상 신곡 업데이트…고품질 온라인 노래방 경험 강화 - 코리아이글뉴스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBZVWloWWlSS3pPS2xYWWlzR2VNbFI1WklQbVA3T2FhZkdZQUNMVlRHOEVCd0hDaVIzRkllLXBwLUZQbFVZWmlGcXJ2QmhsMjdHNUdxeUxHU01Ya2UtMXFCYlFhSElDM1dsSDB5UzV2cXY1REU?oc=5",
+          "source": "Google News",
+          "published": "Tue, 27 Oct 2026 02:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "선관위",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "보폭 넓히는 오세훈… 연이틀 野의원들과 만찬 회동 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeHNyZTdaRjk0dXc3WVJoRUxQU3ZDNzFUN2VTUzI0UG14SDFCVnJZeHNiME43ZEpZRDV6bDB0ZmJhcEFzYkxKVk8zOWlDVHE4aVNtd1QzNDREbDI1ZFZfdTBkT2hZc2pnRmhMWS1jcmlhYVNNOXh5NFd6ekhuZDhEcWZ3Wmphdw?oc=5",
+          "title": "선관위 특검, 올림픽공원 핸드볼경기장 압수수색…CCTV 영상 확보 주력 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWX21xLXFpRmtZaGxSeVczX0hkRVpTa01McHlTSXdpU19rdThNRmtyd3pEZ0hsX1psSFZXaGlHa1R1SXZOa3BsY1pQdUlTX0RjX05hWUs2WVhRX000ZjI2YlBJN2xaSEZ4SEhlaVdxRTNNdw?oc=5",
           "source": "Google News",
-          "published": "Mon, 26 Oct 2026 15:47:00 GMT"
+          "published": "Tue, 27 Oct 2026 02:11:00 GMT"
         }
       ]
     },
     {
-      "word": "넓히",
+      "word": "특검",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "보폭 넓히는 오세훈… 연이틀 野의원들과 만찬 회동 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeHNyZTdaRjk0dXc3WVJoRUxQU3ZDNzFUN2VTUzI0UG14SDFCVnJZeHNiME43ZEpZRDV6bDB0ZmJhcEFzYkxKVk8zOWlDVHE4aVNtd1QzNDREbDI1ZFZfdTBkT2hZc2pnRmhMWS1jcmlhYVNNOXh5NFd6ekhuZDhEcWZ3Wmphdw?oc=5",
+          "title": "선관위 특검, 올림픽공원 핸드볼경기장 압수수색…CCTV 영상 확보 주력 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWX21xLXFpRmtZaGxSeVczX0hkRVpTa01McHlTSXdpU19rdThNRmtyd3pEZ0hsX1psSFZXaGlHa1R1SXZOa3BsY1pQdUlTX0RjX05hWUs2WVhRX000ZjI2YlBJN2xaSEZ4SEhlaVdxRTNNdw?oc=5",
           "source": "Google News",
-          "published": "Mon, 26 Oct 2026 15:47:00 GMT"
+          "published": "Tue, 27 Oct 2026 02:11:00 GMT"
         }
       ]
     },
     {
-      "word": "오세훈",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "보폭 넓히는 오세훈… 연이틀 野의원들과 만찬 회동 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeHNyZTdaRjk0dXc3WVJoRUxQU3ZDNzFUN2VTUzI0UG14SDFCVnJZeHNiME43ZEpZRDV6bDB0ZmJhcEFzYkxKVk8zOWlDVHE4aVNtd1QzNDREbDI1ZFZfdTBkT2hZc2pnRmhMWS1jcmlhYVNNOXh5NFd6ekhuZDhEcWZ3Wmphdw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 26 Oct 2026 15:47:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "연이틀",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "보폭 넓히는 오세훈… 연이틀 野의원들과 만찬 회동 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeHNyZTdaRjk0dXc3WVJoRUxQU3ZDNzFUN2VTUzI0UG14SDFCVnJZeHNiME43ZEpZRDV6bDB0ZmJhcEFzYkxKVk8zOWlDVHE4aVNtd1QzNDREbDI1ZFZfdTBkT2hZc2pnRmhMWS1jcmlhYVNNOXh5NFd6ekhuZDhEcWZ3Wmphdw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 26 Oct 2026 15:47:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "의원",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "보폭 넓히는 오세훈… 연이틀 野의원들과 만찬 회동 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeHNyZTdaRjk0dXc3WVJoRUxQU3ZDNzFUN2VTUzI0UG14SDFCVnJZeHNiME43ZEpZRDV6bDB0ZmJhcEFzYkxKVk8zOWlDVHE4aVNtd1QzNDREbDI1ZFZfdTBkT2hZc2pnRmhMWS1jcmlhYVNNOXh5NFd6ekhuZDhEcWZ3Wmphdw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 26 Oct 2026 15:47:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "만찬",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "보폭 넓히는 오세훈… 연이틀 野의원들과 만찬 회동 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeHNyZTdaRjk0dXc3WVJoRUxQU3ZDNzFUN2VTUzI0UG14SDFCVnJZeHNiME43ZEpZRDV6bDB0ZmJhcEFzYkxKVk8zOWlDVHE4aVNtd1QzNDREbDI1ZFZfdTBkT2hZc2pnRmhMWS1jcmlhYVNNOXh5NFd6ekhuZDhEcWZ3Wmphdw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 26 Oct 2026 15:47:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "회동",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "보폭 넓히는 오세훈… 연이틀 野의원들과 만찬 회동 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeHNyZTdaRjk0dXc3WVJoRUxQU3ZDNzFUN2VTUzI0UG14SDFCVnJZeHNiME43ZEpZRDV6bDB0ZmJhcEFzYkxKVk8zOWlDVHE4aVNtd1QzNDREbDI1ZFZfdTBkT2hZc2pnRmhMWS1jcmlhYVNNOXh5NFd6ekhuZDhEcWZ3Wmphdw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 26 Oct 2026 15:47:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "CNN",
+      "word": "올림픽공원",
       "count": 1,
       "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "CNN “미군, 트럼프 명령하면 나흘 내 대규모 이란 재공격 준비” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXcklkVkt1YUhEUGE5bE5NWkNFRVRGcnFVd1BaOHQyby14Vm8tNDlXellCUlhMX282c3hwWWZOTmRTVnRaTU5zVVJjR2FTanlialV6ZVRNR0IyZ9IBX0FVX3lxTFBnR2piSW9tcmVoaHFnaHl1NXNIakEyU0ptQ1lUUE1hdGhJVTBQZXJTcXBZUEZ0bk5nWnhPM3pva0hnbWhJNXhoZ1N4MDhuMXQ3WkUwX3BHV05oaG5Pd1pN?oc=5",
+          "title": "선관위 특검, 올림픽공원 핸드볼경기장 압수수색…CCTV 영상 확보 주력 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWX21xLXFpRmtZaGxSeVczX0hkRVpTa01McHlTSXdpU19rdThNRmtyd3pEZ0hsX1psSFZXaGlHa1R1SXZOa3BsY1pQdUlTX0RjX05hWUs2WVhRX000ZjI2YlBJN2xaSEZ4SEhlaVdxRTNNdw?oc=5",
           "source": "Google News",
-          "published": "Mon, 26 Oct 2026 13:53:00 GMT"
+          "published": "Tue, 27 Oct 2026 02:11:00 GMT"
         }
       ]
     },
     {
-      "word": "미군",
+      "word": "핸드볼경기장",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "CNN “미군, 트럼프 명령하면 나흘 내 대규모 이란 재공격 준비” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXcklkVkt1YUhEUGE5bE5NWkNFRVRGcnFVd1BaOHQyby14Vm8tNDlXellCUlhMX282c3hwWWZOTmRTVnRaTU5zVVJjR2FTanlialV6ZVRNR0IyZ9IBX0FVX3lxTFBnR2piSW9tcmVoaHFnaHl1NXNIakEyU0ptQ1lUUE1hdGhJVTBQZXJTcXBZUEZ0bk5nWnhPM3pva0hnbWhJNXhoZ1N4MDhuMXQ3WkUwX3BHV05oaG5Pd1pN?oc=5",
+          "title": "선관위 특검, 올림픽공원 핸드볼경기장 압수수색…CCTV 영상 확보 주력 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWX21xLXFpRmtZaGxSeVczX0hkRVpTa01McHlTSXdpU19rdThNRmtyd3pEZ0hsX1psSFZXaGlHa1R1SXZOa3BsY1pQdUlTX0RjX05hWUs2WVhRX000ZjI2YlBJN2xaSEZ4SEhlaVdxRTNNdw?oc=5",
           "source": "Google News",
-          "published": "Mon, 26 Oct 2026 13:53:00 GMT"
+          "published": "Tue, 27 Oct 2026 02:11:00 GMT"
         }
       ]
     },
     {
-      "word": "명령하면",
+      "word": "압수수색CCTV",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "CNN “미군, 트럼프 명령하면 나흘 내 대규모 이란 재공격 준비” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXcklkVkt1YUhEUGE5bE5NWkNFRVRGcnFVd1BaOHQyby14Vm8tNDlXellCUlhMX282c3hwWWZOTmRTVnRaTU5zVVJjR2FTanlialV6ZVRNR0IyZ9IBX0FVX3lxTFBnR2piSW9tcmVoaHFnaHl1NXNIakEyU0ptQ1lUUE1hdGhJVTBQZXJTcXBZUEZ0bk5nWnhPM3pva0hnbWhJNXhoZ1N4MDhuMXQ3WkUwX3BHV05oaG5Pd1pN?oc=5",
+          "title": "선관위 특검, 올림픽공원 핸드볼경기장 압수수색…CCTV 영상 확보 주력 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWX21xLXFpRmtZaGxSeVczX0hkRVpTa01McHlTSXdpU19rdThNRmtyd3pEZ0hsX1psSFZXaGlHa1R1SXZOa3BsY1pQdUlTX0RjX05hWUs2WVhRX000ZjI2YlBJN2xaSEZ4SEhlaVdxRTNNdw?oc=5",
           "source": "Google News",
-          "published": "Mon, 26 Oct 2026 13:53:00 GMT"
+          "published": "Tue, 27 Oct 2026 02:11:00 GMT"
         }
       ]
     },
     {
-      "word": "나흘",
+      "word": "확보",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "CNN “미군, 트럼프 명령하면 나흘 내 대규모 이란 재공격 준비” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXcklkVkt1YUhEUGE5bE5NWkNFRVRGcnFVd1BaOHQyby14Vm8tNDlXellCUlhMX282c3hwWWZOTmRTVnRaTU5zVVJjR2FTanlialV6ZVRNR0IyZ9IBX0FVX3lxTFBnR2piSW9tcmVoaHFnaHl1NXNIakEyU0ptQ1lUUE1hdGhJVTBQZXJTcXBZUEZ0bk5nWnhPM3pva0hnbWhJNXhoZ1N4MDhuMXQ3WkUwX3BHV05oaG5Pd1pN?oc=5",
+          "title": "선관위 특검, 올림픽공원 핸드볼경기장 압수수색…CCTV 영상 확보 주력 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWX21xLXFpRmtZaGxSeVczX0hkRVpTa01McHlTSXdpU19rdThNRmtyd3pEZ0hsX1psSFZXaGlHa1R1SXZOa3BsY1pQdUlTX0RjX05hWUs2WVhRX000ZjI2YlBJN2xaSEZ4SEhlaVdxRTNNdw?oc=5",
           "source": "Google News",
-          "published": "Mon, 26 Oct 2026 13:53:00 GMT"
+          "published": "Tue, 27 Oct 2026 02:11:00 GMT"
         }
       ]
     },
     {
-      "word": "대규모",
+      "word": "주력",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "CNN “미군, 트럼프 명령하면 나흘 내 대규모 이란 재공격 준비” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXcklkVkt1YUhEUGE5bE5NWkNFRVRGcnFVd1BaOHQyby14Vm8tNDlXellCUlhMX282c3hwWWZOTmRTVnRaTU5zVVJjR2FTanlialV6ZVRNR0IyZ9IBX0FVX3lxTFBnR2piSW9tcmVoaHFnaHl1NXNIakEyU0ptQ1lUUE1hdGhJVTBQZXJTcXBZUEZ0bk5nWnhPM3pva0hnbWhJNXhoZ1N4MDhuMXQ3WkUwX3BHV05oaG5Pd1pN?oc=5",
+          "title": "선관위 특검, 올림픽공원 핸드볼경기장 압수수색…CCTV 영상 확보 주력 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWX21xLXFpRmtZaGxSeVczX0hkRVpTa01McHlTSXdpU19rdThNRmtyd3pEZ0hsX1psSFZXaGlHa1R1SXZOa3BsY1pQdUlTX0RjX05hWUs2WVhRX000ZjI2YlBJN2xaSEZ4SEhlaVdxRTNNdw?oc=5",
           "source": "Google News",
-          "published": "Mon, 26 Oct 2026 13:53:00 GMT"
+          "published": "Tue, 27 Oct 2026 02:11:00 GMT"
         }
       ]
     },
     {
-      "word": "이란",
+      "word": "좌파",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "CNN “미군, 트럼프 명령하면 나흘 내 대규모 이란 재공격 준비” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXcklkVkt1YUhEUGE5bE5NWkNFRVRGcnFVd1BaOHQyby14Vm8tNDlXellCUlhMX282c3hwWWZOTmRTVnRaTU5zVVJjR2FTanlialV6ZVRNR0IyZ9IBX0FVX3lxTFBnR2piSW9tcmVoaHFnaHl1NXNIakEyU0ptQ1lUUE1hdGhJVTBQZXJTcXBZUEZ0bk5nWnhPM3pva0hnbWhJNXhoZ1N4MDhuMXQ3WkUwX3BHV05oaG5Pd1pN?oc=5",
+          "title": "‘좌파 대부’ 룰라 당선되자 브라질 금융시장 패닉셀 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORzZLdzR6U0V2WV9fbkU3VW5MT0xlalpzb0V3Q0hUQWFOTHBRNGE3bURVWnVRSHMyX1JzSmJ2TmROMWZ6WFpnRy1vQ0NVd1VrcVh6amFtdE8xRHhINFhQZEk2SV9KQzlza0QzM2RrNURGUHZ3c0NxTWxTQUw2V1FuSFQyd25nUHI0anFJ?oc=5",
           "source": "Google News",
-          "published": "Mon, 26 Oct 2026 13:53:00 GMT"
+          "published": "Mon, 26 Oct 2026 23:12:00 GMT"
         }
       ]
     },
     {
-      "word": "재공격",
+      "word": "대부",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "CNN “미군, 트럼프 명령하면 나흘 내 대규모 이란 재공격 준비” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXcklkVkt1YUhEUGE5bE5NWkNFRVRGcnFVd1BaOHQyby14Vm8tNDlXellCUlhMX282c3hwWWZOTmRTVnRaTU5zVVJjR2FTanlialV6ZVRNR0IyZ9IBX0FVX3lxTFBnR2piSW9tcmVoaHFnaHl1NXNIakEyU0ptQ1lUUE1hdGhJVTBQZXJTcXBZUEZ0bk5nWnhPM3pva0hnbWhJNXhoZ1N4MDhuMXQ3WkUwX3BHV05oaG5Pd1pN?oc=5",
+          "title": "‘좌파 대부’ 룰라 당선되자 브라질 금융시장 패닉셀 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORzZLdzR6U0V2WV9fbkU3VW5MT0xlalpzb0V3Q0hUQWFOTHBRNGE3bURVWnVRSHMyX1JzSmJ2TmROMWZ6WFpnRy1vQ0NVd1VrcVh6amFtdE8xRHhINFhQZEk2SV9KQzlza0QzM2RrNURGUHZ3c0NxTWxTQUw2V1FuSFQyd25nUHI0anFJ?oc=5",
           "source": "Google News",
-          "published": "Mon, 26 Oct 2026 13:53:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "준비",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "CNN “미군, 트럼프 명령하면 나흘 내 대규모 이란 재공격 준비” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXcklkVkt1YUhEUGE5bE5NWkNFRVRGcnFVd1BaOHQyby14Vm8tNDlXellCUlhMX282c3hwWWZOTmRTVnRaTU5zVVJjR2FTanlialV6ZVRNR0IyZ9IBX0FVX3lxTFBnR2piSW9tcmVoaHFnaHl1NXNIakEyU0ptQ1lUUE1hdGhJVTBQZXJTcXBZUEZ0bk5nWnhPM3pva0hnbWhJNXhoZ1N4MDhuMXQ3WkUwX3BHV05oaG5Pd1pN?oc=5",
-          "source": "Google News",
-          "published": "Mon, 26 Oct 2026 13:53:00 GMT"
+          "published": "Mon, 26 Oct 2026 23:12:00 GMT"
         }
       ]
     },
@@ -336,49 +209,23 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "룰라, 치열한 결선투표 끝에 브라질 대통령 4선 확정 - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4cWJWcHZSRGxUeFRkNU0yNnJxTG85QXB3dWp6NFNvOHdVQnotemxUWGw0ZndnTmUyRk50WnJfaWZKTkVhRzctY21PSTU0WkZhdFNseDQ3bGVFU3h0YnVCR1RiaWhBR3ZqTUxndHh2b3ZBbUXSAXZBVV95cUxNUHZYRFRpY3NuOXlfOFdyd0xwSGFLOTVYUTRKZFZnMm0zYkhNamkwZUtUR1pfbVRLaHR4N0Jzc3k3WDdEa0FxRVpTbFJ0NWoySGFwWm81U25zX2hKcGJ1bFF2ZlRtTmxLMy02RFdmQlRVRjNqX1dn?oc=5",
+          "title": "‘좌파 대부’ 룰라 당선되자 브라질 금융시장 패닉셀 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORzZLdzR6U0V2WV9fbkU3VW5MT0xlalpzb0V3Q0hUQWFOTHBRNGE3bURVWnVRSHMyX1JzSmJ2TmROMWZ6WFpnRy1vQ0NVd1VrcVh6amFtdE8xRHhINFhQZEk2SV9KQzlza0QzM2RrNURGUHZ3c0NxTWxTQUw2V1FuSFQyd25nUHI0anFJ?oc=5",
           "source": "Google News",
-          "published": "Mon, 26 Oct 2026 20:34:43 GMT"
+          "published": "Mon, 26 Oct 2026 23:12:00 GMT"
         }
       ]
     },
     {
-      "word": "치열",
+      "word": "당선되자",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "룰라, 치열한 결선투표 끝에 브라질 대통령 4선 확정 - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4cWJWcHZSRGxUeFRkNU0yNnJxTG85QXB3dWp6NFNvOHdVQnotemxUWGw0ZndnTmUyRk50WnJfaWZKTkVhRzctY21PSTU0WkZhdFNseDQ3bGVFU3h0YnVCR1RiaWhBR3ZqTUxndHh2b3ZBbUXSAXZBVV95cUxNUHZYRFRpY3NuOXlfOFdyd0xwSGFLOTVYUTRKZFZnMm0zYkhNamkwZUtUR1pfbVRLaHR4N0Jzc3k3WDdEa0FxRVpTbFJ0NWoySGFwWm81U25zX2hKcGJ1bFF2ZlRtTmxLMy02RFdmQlRVRjNqX1dn?oc=5",
+          "title": "‘좌파 대부’ 룰라 당선되자 브라질 금융시장 패닉셀 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORzZLdzR6U0V2WV9fbkU3VW5MT0xlalpzb0V3Q0hUQWFOTHBRNGE3bURVWnVRSHMyX1JzSmJ2TmROMWZ6WFpnRy1vQ0NVd1VrcVh6amFtdE8xRHhINFhQZEk2SV9KQzlza0QzM2RrNURGUHZ3c0NxTWxTQUw2V1FuSFQyd25nUHI0anFJ?oc=5",
           "source": "Google News",
-          "published": "Mon, 26 Oct 2026 20:34:43 GMT"
-        }
-      ]
-    },
-    {
-      "word": "결선투표",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "룰라, 치열한 결선투표 끝에 브라질 대통령 4선 확정 - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4cWJWcHZSRGxUeFRkNU0yNnJxTG85QXB3dWp6NFNvOHdVQnotemxUWGw0ZndnTmUyRk50WnJfaWZKTkVhRzctY21PSTU0WkZhdFNseDQ3bGVFU3h0YnVCR1RiaWhBR3ZqTUxndHh2b3ZBbUXSAXZBVV95cUxNUHZYRFRpY3NuOXlfOFdyd0xwSGFLOTVYUTRKZFZnMm0zYkhNamkwZUtUR1pfbVRLaHR4N0Jzc3k3WDdEa0FxRVpTbFJ0NWoySGFwWm81U25zX2hKcGJ1bFF2ZlRtTmxLMy02RFdmQlRVRjNqX1dn?oc=5",
-          "source": "Google News",
-          "published": "Mon, 26 Oct 2026 20:34:43 GMT"
-        }
-      ]
-    },
-    {
-      "word": "끝에",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "룰라, 치열한 결선투표 끝에 브라질 대통령 4선 확정 - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4cWJWcHZSRGxUeFRkNU0yNnJxTG85QXB3dWp6NFNvOHdVQnotemxUWGw0ZndnTmUyRk50WnJfaWZKTkVhRzctY21PSTU0WkZhdFNseDQ3bGVFU3h0YnVCR1RiaWhBR3ZqTUxndHh2b3ZBbUXSAXZBVV95cUxNUHZYRFRpY3NuOXlfOFdyd0xwSGFLOTVYUTRKZFZnMm0zYkhNamkwZUtUR1pfbVRLaHR4N0Jzc3k3WDdEa0FxRVpTbFJ0NWoySGFwWm81U25zX2hKcGJ1bFF2ZlRtTmxLMy02RFdmQlRVRjNqX1dn?oc=5",
-          "source": "Google News",
-          "published": "Mon, 26 Oct 2026 20:34:43 GMT"
+          "published": "Mon, 26 Oct 2026 23:12:00 GMT"
         }
       ]
     },
@@ -388,192 +235,309 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "룰라, 치열한 결선투표 끝에 브라질 대통령 4선 확정 - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4cWJWcHZSRGxUeFRkNU0yNnJxTG85QXB3dWp6NFNvOHdVQnotemxUWGw0ZndnTmUyRk50WnJfaWZKTkVhRzctY21PSTU0WkZhdFNseDQ3bGVFU3h0YnVCR1RiaWhBR3ZqTUxndHh2b3ZBbUXSAXZBVV95cUxNUHZYRFRpY3NuOXlfOFdyd0xwSGFLOTVYUTRKZFZnMm0zYkhNamkwZUtUR1pfbVRLaHR4N0Jzc3k3WDdEa0FxRVpTbFJ0NWoySGFwWm81U25zX2hKcGJ1bFF2ZlRtTmxLMy02RFdmQlRVRjNqX1dn?oc=5",
+          "title": "‘좌파 대부’ 룰라 당선되자 브라질 금융시장 패닉셀 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORzZLdzR6U0V2WV9fbkU3VW5MT0xlalpzb0V3Q0hUQWFOTHBRNGE3bURVWnVRSHMyX1JzSmJ2TmROMWZ6WFpnRy1vQ0NVd1VrcVh6amFtdE8xRHhINFhQZEk2SV9KQzlza0QzM2RrNURGUHZ3c0NxTWxTQUw2V1FuSFQyd25nUHI0anFJ?oc=5",
           "source": "Google News",
-          "published": "Mon, 26 Oct 2026 20:34:43 GMT"
+          "published": "Mon, 26 Oct 2026 23:12:00 GMT"
         }
       ]
     },
     {
-      "word": "4선",
+      "word": "금융시장",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "룰라, 치열한 결선투표 끝에 브라질 대통령 4선 확정 - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4cWJWcHZSRGxUeFRkNU0yNnJxTG85QXB3dWp6NFNvOHdVQnotemxUWGw0ZndnTmUyRk50WnJfaWZKTkVhRzctY21PSTU0WkZhdFNseDQ3bGVFU3h0YnVCR1RiaWhBR3ZqTUxndHh2b3ZBbUXSAXZBVV95cUxNUHZYRFRpY3NuOXlfOFdyd0xwSGFLOTVYUTRKZFZnMm0zYkhNamkwZUtUR1pfbVRLaHR4N0Jzc3k3WDdEa0FxRVpTbFJ0NWoySGFwWm81U25zX2hKcGJ1bFF2ZlRtTmxLMy02RFdmQlRVRjNqX1dn?oc=5",
+          "title": "‘좌파 대부’ 룰라 당선되자 브라질 금융시장 패닉셀 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORzZLdzR6U0V2WV9fbkU3VW5MT0xlalpzb0V3Q0hUQWFOTHBRNGE3bURVWnVRSHMyX1JzSmJ2TmROMWZ6WFpnRy1vQ0NVd1VrcVh6amFtdE8xRHhINFhQZEk2SV9KQzlza0QzM2RrNURGUHZ3c0NxTWxTQUw2V1FuSFQyd25nUHI0anFJ?oc=5",
           "source": "Google News",
-          "published": "Mon, 26 Oct 2026 20:34:43 GMT"
+          "published": "Mon, 26 Oct 2026 23:12:00 GMT"
         }
       ]
     },
     {
-      "word": "확정",
+      "word": "패닉셀",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "룰라, 치열한 결선투표 끝에 브라질 대통령 4선 확정 - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4cWJWcHZSRGxUeFRkNU0yNnJxTG85QXB3dWp6NFNvOHdVQnotemxUWGw0ZndnTmUyRk50WnJfaWZKTkVhRzctY21PSTU0WkZhdFNseDQ3bGVFU3h0YnVCR1RiaWhBR3ZqTUxndHh2b3ZBbUXSAXZBVV95cUxNUHZYRFRpY3NuOXlfOFdyd0xwSGFLOTVYUTRKZFZnMm0zYkhNamkwZUtUR1pfbVRLaHR4N0Jzc3k3WDdEa0FxRVpTbFJ0NWoySGFwWm81U25zX2hKcGJ1bFF2ZlRtTmxLMy02RFdmQlRVRjNqX1dn?oc=5",
+          "title": "‘좌파 대부’ 룰라 당선되자 브라질 금융시장 패닉셀 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORzZLdzR6U0V2WV9fbkU3VW5MT0xlalpzb0V3Q0hUQWFOTHBRNGE3bURVWnVRSHMyX1JzSmJ2TmROMWZ6WFpnRy1vQ0NVd1VrcVh6amFtdE8xRHhINFhQZEk2SV9KQzlza0QzM2RrNURGUHZ3c0NxTWxTQUw2V1FuSFQyd25nUHI0anFJ?oc=5",
           "source": "Google News",
-          "published": "Mon, 26 Oct 2026 20:34:43 GMT"
+          "published": "Mon, 26 Oct 2026 23:12:00 GMT"
         }
       ]
     },
     {
-      "word": "미국",
+      "word": "이스라엘",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[이스라엘 총선 르포] “나라가 불타든 말든 권력에만 욕심, 지금이 최악”···공항은 ‘투표 귀국’ 행렬로 붐볐다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mY1pSNmo2eERLOW03aGV3XzZfWWt1MERoWlVCcjM5bkpKTHJIbXN5VWc0SHotZGdZVmNSRllaNkxIU28wUGJIeDZRVjItRlVlQkNBZkVFeUwxUdIBX0FVX3lxTE0tUk04dWZ6THVsQzRxaVhFYXV2a2t0ZXBZcVo0ZUVhRW0yUEU3dWNhdll6cnBqVkMzVVdHZnhSSmxxeUt5QWhwb2I2SE9nTGlLaV90TTFZOFp3WHl1M1RV?oc=5",
+          "source": "Google News",
+          "published": "Tue, 27 Oct 2026 01:23:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "총선",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[이스라엘 총선 르포] “나라가 불타든 말든 권력에만 욕심, 지금이 최악”···공항은 ‘투표 귀국’ 행렬로 붐볐다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mY1pSNmo2eERLOW03aGV3XzZfWWt1MERoWlVCcjM5bkpKTHJIbXN5VWc0SHotZGdZVmNSRllaNkxIU28wUGJIeDZRVjItRlVlQkNBZkVFeUwxUdIBX0FVX3lxTE0tUk04dWZ6THVsQzRxaVhFYXV2a2t0ZXBZcVo0ZUVhRW0yUEU3dWNhdll6cnBqVkMzVVdHZnhSSmxxeUt5QWhwb2I2SE9nTGlLaV90TTFZOFp3WHl1M1RV?oc=5",
+          "source": "Google News",
+          "published": "Tue, 27 Oct 2026 01:23:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "르포",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[이스라엘 총선 르포] “나라가 불타든 말든 권력에만 욕심, 지금이 최악”···공항은 ‘투표 귀국’ 행렬로 붐볐다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mY1pSNmo2eERLOW03aGV3XzZfWWt1MERoWlVCcjM5bkpKTHJIbXN5VWc0SHotZGdZVmNSRllaNkxIU28wUGJIeDZRVjItRlVlQkNBZkVFeUwxUdIBX0FVX3lxTE0tUk04dWZ6THVsQzRxaVhFYXV2a2t0ZXBZcVo0ZUVhRW0yUEU3dWNhdll6cnBqVkMzVVdHZnhSSmxxeUt5QWhwb2I2SE9nTGlLaV90TTFZOFp3WHl1M1RV?oc=5",
+          "source": "Google News",
+          "published": "Tue, 27 Oct 2026 01:23:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "나라",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[이스라엘 총선 르포] “나라가 불타든 말든 권력에만 욕심, 지금이 최악”···공항은 ‘투표 귀국’ 행렬로 붐볐다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mY1pSNmo2eERLOW03aGV3XzZfWWt1MERoWlVCcjM5bkpKTHJIbXN5VWc0SHotZGdZVmNSRllaNkxIU28wUGJIeDZRVjItRlVlQkNBZkVFeUwxUdIBX0FVX3lxTE0tUk04dWZ6THVsQzRxaVhFYXV2a2t0ZXBZcVo0ZUVhRW0yUEU3dWNhdll6cnBqVkMzVVdHZnhSSmxxeUt5QWhwb2I2SE9nTGlLaV90TTFZOFp3WHl1M1RV?oc=5",
+          "source": "Google News",
+          "published": "Tue, 27 Oct 2026 01:23:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "불타",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[이스라엘 총선 르포] “나라가 불타든 말든 권력에만 욕심, 지금이 최악”···공항은 ‘투표 귀국’ 행렬로 붐볐다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mY1pSNmo2eERLOW03aGV3XzZfWWt1MERoWlVCcjM5bkpKTHJIbXN5VWc0SHotZGdZVmNSRllaNkxIU28wUGJIeDZRVjItRlVlQkNBZkVFeUwxUdIBX0FVX3lxTE0tUk04dWZ6THVsQzRxaVhFYXV2a2t0ZXBZcVo0ZUVhRW0yUEU3dWNhdll6cnBqVkMzVVdHZnhSSmxxeUt5QWhwb2I2SE9nTGlLaV90TTFZOFp3WHl1M1RV?oc=5",
+          "source": "Google News",
+          "published": "Tue, 27 Oct 2026 01:23:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "말든",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[이스라엘 총선 르포] “나라가 불타든 말든 권력에만 욕심, 지금이 최악”···공항은 ‘투표 귀국’ 행렬로 붐볐다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mY1pSNmo2eERLOW03aGV3XzZfWWt1MERoWlVCcjM5bkpKTHJIbXN5VWc0SHotZGdZVmNSRllaNkxIU28wUGJIeDZRVjItRlVlQkNBZkVFeUwxUdIBX0FVX3lxTE0tUk04dWZ6THVsQzRxaVhFYXV2a2t0ZXBZcVo0ZUVhRW0yUEU3dWNhdll6cnBqVkMzVVdHZnhSSmxxeUt5QWhwb2I2SE9nTGlLaV90TTFZOFp3WHl1M1RV?oc=5",
+          "source": "Google News",
+          "published": "Tue, 27 Oct 2026 01:23:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "권력",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[이스라엘 총선 르포] “나라가 불타든 말든 권력에만 욕심, 지금이 최악”···공항은 ‘투표 귀국’ 행렬로 붐볐다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mY1pSNmo2eERLOW03aGV3XzZfWWt1MERoWlVCcjM5bkpKTHJIbXN5VWc0SHotZGdZVmNSRllaNkxIU28wUGJIeDZRVjItRlVlQkNBZkVFeUwxUdIBX0FVX3lxTE0tUk04dWZ6THVsQzRxaVhFYXV2a2t0ZXBZcVo0ZUVhRW0yUEU3dWNhdll6cnBqVkMzVVdHZnhSSmxxeUt5QWhwb2I2SE9nTGlLaV90TTFZOFp3WHl1M1RV?oc=5",
+          "source": "Google News",
+          "published": "Tue, 27 Oct 2026 01:23:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "욕심",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[이스라엘 총선 르포] “나라가 불타든 말든 권력에만 욕심, 지금이 최악”···공항은 ‘투표 귀국’ 행렬로 붐볐다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mY1pSNmo2eERLOW03aGV3XzZfWWt1MERoWlVCcjM5bkpKTHJIbXN5VWc0SHotZGdZVmNSRllaNkxIU28wUGJIeDZRVjItRlVlQkNBZkVFeUwxUdIBX0FVX3lxTE0tUk04dWZ6THVsQzRxaVhFYXV2a2t0ZXBZcVo0ZUVhRW0yUEU3dWNhdll6cnBqVkMzVVdHZnhSSmxxeUt5QWhwb2I2SE9nTGlLaV90TTFZOFp3WHl1M1RV?oc=5",
+          "source": "Google News",
+          "published": "Tue, 27 Oct 2026 01:23:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "지금",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[이스라엘 총선 르포] “나라가 불타든 말든 권력에만 욕심, 지금이 최악”···공항은 ‘투표 귀국’ 행렬로 붐볐다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mY1pSNmo2eERLOW03aGV3XzZfWWt1MERoWlVCcjM5bkpKTHJIbXN5VWc0SHotZGdZVmNSRllaNkxIU28wUGJIeDZRVjItRlVlQkNBZkVFeUwxUdIBX0FVX3lxTE0tUk04dWZ6THVsQzRxaVhFYXV2a2t0ZXBZcVo0ZUVhRW0yUEU3dWNhdll6cnBqVkMzVVdHZnhSSmxxeUt5QWhwb2I2SE9nTGlLaV90TTFZOFp3WHl1M1RV?oc=5",
+          "source": "Google News",
+          "published": "Tue, 27 Oct 2026 01:23:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "최악공항",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[이스라엘 총선 르포] “나라가 불타든 말든 권력에만 욕심, 지금이 최악”···공항은 ‘투표 귀국’ 행렬로 붐볐다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mY1pSNmo2eERLOW03aGV3XzZfWWt1MERoWlVCcjM5bkpKTHJIbXN5VWc0SHotZGdZVmNSRllaNkxIU28wUGJIeDZRVjItRlVlQkNBZkVFeUwxUdIBX0FVX3lxTE0tUk04dWZ6THVsQzRxaVhFYXV2a2t0ZXBZcVo0ZUVhRW0yUEU3dWNhdll6cnBqVkMzVVdHZnhSSmxxeUt5QWhwb2I2SE9nTGlLaV90TTFZOFp3WHl1M1RV?oc=5",
+          "source": "Google News",
+          "published": "Tue, 27 Oct 2026 01:23:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "투표",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[이스라엘 총선 르포] “나라가 불타든 말든 권력에만 욕심, 지금이 최악”···공항은 ‘투표 귀국’ 행렬로 붐볐다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mY1pSNmo2eERLOW03aGV3XzZfWWt1MERoWlVCcjM5bkpKTHJIbXN5VWc0SHotZGdZVmNSRllaNkxIU28wUGJIeDZRVjItRlVlQkNBZkVFeUwxUdIBX0FVX3lxTE0tUk04dWZ6THVsQzRxaVhFYXV2a2t0ZXBZcVo0ZUVhRW0yUEU3dWNhdll6cnBqVkMzVVdHZnhSSmxxeUt5QWhwb2I2SE9nTGlLaV90TTFZOFp3WHl1M1RV?oc=5",
+          "source": "Google News",
+          "published": "Tue, 27 Oct 2026 01:23:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "귀국",
       "count": 1,
       "category": "LOCATION",
       "articles": [
         {
-          "title": "미국 유권자 69% “트럼프 행정부 부패·이해 충돌 우려” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PcUdqT3lrNEtIeFVYNGw0MWs0NTZybFBqb0ZPNFV1NFE4VVRKTHIwbi1sU2lMZko4RkNKTWFiSlB5dktWYjBRVVdiYTYtT2Z1LTNpU2pwMUwyX2s?oc=5",
+          "title": "[이스라엘 총선 르포] “나라가 불타든 말든 권력에만 욕심, 지금이 최악”···공항은 ‘투표 귀국’ 행렬로 붐볐다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mY1pSNmo2eERLOW03aGV3XzZfWWt1MERoWlVCcjM5bkpKTHJIbXN5VWc0SHotZGdZVmNSRllaNkxIU28wUGJIeDZRVjItRlVlQkNBZkVFeUwxUdIBX0FVX3lxTE0tUk04dWZ6THVsQzRxaVhFYXV2a2t0ZXBZcVo0ZUVhRW0yUEU3dWNhdll6cnBqVkMzVVdHZnhSSmxxeUt5QWhwb2I2SE9nTGlLaV90TTFZOFp3WHl1M1RV?oc=5",
           "source": "Google News",
-          "published": "Mon, 26 Oct 2026 02:24:00 GMT"
+          "published": "Tue, 27 Oct 2026 01:23:00 GMT"
         }
       ]
     },
     {
-      "word": "유권자",
+      "word": "행렬",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "미국 유권자 69% “트럼프 행정부 부패·이해 충돌 우려” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PcUdqT3lrNEtIeFVYNGw0MWs0NTZybFBqb0ZPNFV1NFE4VVRKTHIwbi1sU2lMZko4RkNKTWFiSlB5dktWYjBRVVdiYTYtT2Z1LTNpU2pwMUwyX2s?oc=5",
+          "title": "[이스라엘 총선 르포] “나라가 불타든 말든 권력에만 욕심, 지금이 최악”···공항은 ‘투표 귀국’ 행렬로 붐볐다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mY1pSNmo2eERLOW03aGV3XzZfWWt1MERoWlVCcjM5bkpKTHJIbXN5VWc0SHotZGdZVmNSRllaNkxIU28wUGJIeDZRVjItRlVlQkNBZkVFeUwxUdIBX0FVX3lxTE0tUk04dWZ6THVsQzRxaVhFYXV2a2t0ZXBZcVo0ZUVhRW0yUEU3dWNhdll6cnBqVkMzVVdHZnhSSmxxeUt5QWhwb2I2SE9nTGlLaV90TTFZOFp3WHl1M1RV?oc=5",
           "source": "Google News",
-          "published": "Mon, 26 Oct 2026 02:24:00 GMT"
+          "published": "Tue, 27 Oct 2026 01:23:00 GMT"
         }
       ]
     },
     {
-      "word": "행정부",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "미국 유권자 69% “트럼프 행정부 부패·이해 충돌 우려” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PcUdqT3lrNEtIeFVYNGw0MWs0NTZybFBqb0ZPNFV1NFE4VVRKTHIwbi1sU2lMZko4RkNKTWFiSlB5dktWYjBRVVdiYTYtT2Z1LTNpU2pwMUwyX2s?oc=5",
-          "source": "Google News",
-          "published": "Mon, 26 Oct 2026 02:24:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "부패이해",
+      "word": "붐볐다",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "미국 유권자 69% “트럼프 행정부 부패·이해 충돌 우려” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PcUdqT3lrNEtIeFVYNGw0MWs0NTZybFBqb0ZPNFV1NFE4VVRKTHIwbi1sU2lMZko4RkNKTWFiSlB5dktWYjBRVVdiYTYtT2Z1LTNpU2pwMUwyX2s?oc=5",
+          "title": "[이스라엘 총선 르포] “나라가 불타든 말든 권력에만 욕심, 지금이 최악”···공항은 ‘투표 귀국’ 행렬로 붐볐다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mY1pSNmo2eERLOW03aGV3XzZfWWt1MERoWlVCcjM5bkpKTHJIbXN5VWc0SHotZGdZVmNSRllaNkxIU28wUGJIeDZRVjItRlVlQkNBZkVFeUwxUdIBX0FVX3lxTE0tUk04dWZ6THVsQzRxaVhFYXV2a2t0ZXBZcVo0ZUVhRW0yUEU3dWNhdll6cnBqVkMzVVdHZnhSSmxxeUt5QWhwb2I2SE9nTGlLaV90TTFZOFp3WHl1M1RV?oc=5",
           "source": "Google News",
-          "published": "Mon, 26 Oct 2026 02:24:00 GMT"
+          "published": "Tue, 27 Oct 2026 01:23:00 GMT"
         }
       ]
     },
     {
-      "word": "충돌",
+      "word": "국민의힘",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "미국 유권자 69% “트럼프 행정부 부패·이해 충돌 우려” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PcUdqT3lrNEtIeFVYNGw0MWs0NTZybFBqb0ZPNFV1NFE4VVRKTHIwbi1sU2lMZko4RkNKTWFiSlB5dktWYjBRVVdiYTYtT2Z1LTNpU2pwMUwyX2s?oc=5",
+          "title": "국민의힘, 김혜경 여사 골프 의혹 총공세…“특감 1호 임무로” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zcm8tdDRWNFRFZFdJZFJLRnpBWUJrWlB2NWRYald3cVdCR1V2ZkhHOVlBLUphWUtfS0R6R1oySzRZM3VfZ1RuR3RNWUhfVF85eU9fWjJwZ2JmZ9IBX0FVX3lxTE1na2lwWGFpd1Y3V180b2kxLW1EMlNUTkNicFJSeWFZS2tYd0lqYUJNUUVJMi1kU19pR1d1R1ZMYjVHeUR2M054cmpvUjFVQkpuTGVkcVYwd1lodWlMS2hz?oc=5",
           "source": "Google News",
-          "published": "Mon, 26 Oct 2026 02:24:00 GMT"
+          "published": "Tue, 27 Oct 2026 02:37:00 GMT"
         }
       ]
     },
     {
-      "word": "여야",
+      "word": "김혜경",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "여야 전작권 공방...\"독자선언\" vs \"조건 변해\" - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfQ3k1LVpYQ3lNcDF3aTFtUHNKd2VaX08tbU44UHFwb01IZ0ZmWVZpYlVXTnNvcFJpZFBISzNUbG85Vlp0NFdOMk5YaUhYUUxnM1NsY1lteDBZWUpaMUE?oc=5",
+          "title": "국민의힘, 김혜경 여사 골프 의혹 총공세…“특감 1호 임무로” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zcm8tdDRWNFRFZFdJZFJLRnpBWUJrWlB2NWRYald3cVdCR1V2ZkhHOVlBLUphWUtfS0R6R1oySzRZM3VfZ1RuR3RNWUhfVF85eU9fWjJwZ2JmZ9IBX0FVX3lxTE1na2lwWGFpd1Y3V180b2kxLW1EMlNUTkNicFJSeWFZS2tYd0lqYUJNUUVJMi1kU19pR1d1R1ZMYjVHeUR2M054cmpvUjFVQkpuTGVkcVYwd1lodWlMS2hz?oc=5",
           "source": "Google News",
-          "published": "Mon, 26 Oct 2026 09:11:00 GMT"
+          "published": "Tue, 27 Oct 2026 02:37:00 GMT"
         }
       ]
     },
     {
-      "word": "전작권",
+      "word": "여사",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "여야 전작권 공방...\"독자선언\" vs \"조건 변해\" - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfQ3k1LVpYQ3lNcDF3aTFtUHNKd2VaX08tbU44UHFwb01IZ0ZmWVZpYlVXTnNvcFJpZFBISzNUbG85Vlp0NFdOMk5YaUhYUUxnM1NsY1lteDBZWUpaMUE?oc=5",
+          "title": "국민의힘, 김혜경 여사 골프 의혹 총공세…“특감 1호 임무로” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zcm8tdDRWNFRFZFdJZFJLRnpBWUJrWlB2NWRYald3cVdCR1V2ZkhHOVlBLUphWUtfS0R6R1oySzRZM3VfZ1RuR3RNWUhfVF85eU9fWjJwZ2JmZ9IBX0FVX3lxTE1na2lwWGFpd1Y3V180b2kxLW1EMlNUTkNicFJSeWFZS2tYd0lqYUJNUUVJMi1kU19pR1d1R1ZMYjVHeUR2M054cmpvUjFVQkpuTGVkcVYwd1lodWlMS2hz?oc=5",
           "source": "Google News",
-          "published": "Mon, 26 Oct 2026 09:11:00 GMT"
+          "published": "Tue, 27 Oct 2026 02:37:00 GMT"
         }
       ]
     },
     {
-      "word": "공방독자선언",
+      "word": "골프",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "여야 전작권 공방...\"독자선언\" vs \"조건 변해\" - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfQ3k1LVpYQ3lNcDF3aTFtUHNKd2VaX08tbU44UHFwb01IZ0ZmWVZpYlVXTnNvcFJpZFBISzNUbG85Vlp0NFdOMk5YaUhYUUxnM1NsY1lteDBZWUpaMUE?oc=5",
+          "title": "국민의힘, 김혜경 여사 골프 의혹 총공세…“특감 1호 임무로” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zcm8tdDRWNFRFZFdJZFJLRnpBWUJrWlB2NWRYald3cVdCR1V2ZkhHOVlBLUphWUtfS0R6R1oySzRZM3VfZ1RuR3RNWUhfVF85eU9fWjJwZ2JmZ9IBX0FVX3lxTE1na2lwWGFpd1Y3V180b2kxLW1EMlNUTkNicFJSeWFZS2tYd0lqYUJNUUVJMi1kU19pR1d1R1ZMYjVHeUR2M054cmpvUjFVQkpuTGVkcVYwd1lodWlMS2hz?oc=5",
           "source": "Google News",
-          "published": "Mon, 26 Oct 2026 09:11:00 GMT"
+          "published": "Tue, 27 Oct 2026 02:37:00 GMT"
         }
       ]
     },
     {
-      "word": "조건",
+      "word": "의혹",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "여야 전작권 공방...\"독자선언\" vs \"조건 변해\" - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfQ3k1LVpYQ3lNcDF3aTFtUHNKd2VaX08tbU44UHFwb01IZ0ZmWVZpYlVXTnNvcFJpZFBISzNUbG85Vlp0NFdOMk5YaUhYUUxnM1NsY1lteDBZWUpaMUE?oc=5",
+          "title": "국민의힘, 김혜경 여사 골프 의혹 총공세…“특감 1호 임무로” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zcm8tdDRWNFRFZFdJZFJLRnpBWUJrWlB2NWRYald3cVdCR1V2ZkhHOVlBLUphWUtfS0R6R1oySzRZM3VfZ1RuR3RNWUhfVF85eU9fWjJwZ2JmZ9IBX0FVX3lxTE1na2lwWGFpd1Y3V180b2kxLW1EMlNUTkNicFJSeWFZS2tYd0lqYUJNUUVJMi1kU19pR1d1R1ZMYjVHeUR2M054cmpvUjFVQkpuTGVkcVYwd1lodWlMS2hz?oc=5",
           "source": "Google News",
-          "published": "Mon, 26 Oct 2026 09:11:00 GMT"
+          "published": "Tue, 27 Oct 2026 02:37:00 GMT"
         }
       ]
     },
     {
-      "word": "변해",
+      "word": "총공세특감",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "여야 전작권 공방...\"독자선언\" vs \"조건 변해\" - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfQ3k1LVpYQ3lNcDF3aTFtUHNKd2VaX08tbU44UHFwb01IZ0ZmWVZpYlVXTnNvcFJpZFBISzNUbG85Vlp0NFdOMk5YaUhYUUxnM1NsY1lteDBZWUpaMUE?oc=5",
+          "title": "국민의힘, 김혜경 여사 골프 의혹 총공세…“특감 1호 임무로” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zcm8tdDRWNFRFZFdJZFJLRnpBWUJrWlB2NWRYald3cVdCR1V2ZkhHOVlBLUphWUtfS0R6R1oySzRZM3VfZ1RuR3RNWUhfVF85eU9fWjJwZ2JmZ9IBX0FVX3lxTE1na2lwWGFpd1Y3V180b2kxLW1EMlNUTkNicFJSeWFZS2tYd0lqYUJNUUVJMi1kU19pR1d1R1ZMYjVHeUR2M054cmpvUjFVQkpuTGVkcVYwd1lodWlMS2hz?oc=5",
           "source": "Google News",
-          "published": "Mon, 26 Oct 2026 09:11:00 GMT"
+          "published": "Tue, 27 Oct 2026 02:37:00 GMT"
         }
       ]
     },
     {
-      "word": "마크롱",
+      "word": "1호",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "마크롱 “폭력 사태에 SNS 탓”…정부는 대입 제도 개편안 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2SGhXdXRCNkhPVGh2YjBOOHN6SFMtQUZrRDVFYXhWc0hmRXAyOS1sRjFWbXh2VEg3ZkkzRWJIa1Foc29ZWU1qLUI2ZTZhcnRsQUpISEVGRDhXaUE?oc=5",
+          "title": "국민의힘, 김혜경 여사 골프 의혹 총공세…“특감 1호 임무로” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zcm8tdDRWNFRFZFdJZFJLRnpBWUJrWlB2NWRYald3cVdCR1V2ZkhHOVlBLUphWUtfS0R6R1oySzRZM3VfZ1RuR3RNWUhfVF85eU9fWjJwZ2JmZ9IBX0FVX3lxTE1na2lwWGFpd1Y3V180b2kxLW1EMlNUTkNicFJSeWFZS2tYd0lqYUJNUUVJMi1kU19pR1d1R1ZMYjVHeUR2M054cmpvUjFVQkpuTGVkcVYwd1lodWlMS2hz?oc=5",
           "source": "Google News",
-          "published": "Mon, 26 Oct 2026 21:24:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "폭력",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "마크롱 “폭력 사태에 SNS 탓”…정부는 대입 제도 개편안 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2SGhXdXRCNkhPVGh2YjBOOHN6SFMtQUZrRDVFYXhWc0hmRXAyOS1sRjFWbXh2VEg3ZkkzRWJIa1Foc29ZWU1qLUI2ZTZhcnRsQUpISEVGRDhXaUE?oc=5",
-          "source": "Google News",
-          "published": "Mon, 26 Oct 2026 21:24:00 GMT"
+          "published": "Tue, 27 Oct 2026 02:37:00 GMT"
         }
       ]
     }
