@@ -1,100 +1,18 @@
 {
   "language": "ko",
-  "last_updated": 1793118076.6837015,
+  "last_updated": 1793135437.4819674,
   "count": 40,
   "trends": [
-    {
-      "word": "감독",
-      "count": 4,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "박진만 삼성 감독 \"확실히 잡으려고 원태인 5점 차에도 등판\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lSEQ1dzUtRHpDemlZX0FJTHhDTnlidlRjbUwwanN6X09MazRUdFZBOTRnRmdNZjF2UWlpbXRhT01Wano1NjRDZjZrN1J1NE9UZ0VlZlNDY2Q1YzTSAWBBVV95cUxPTUxza254S08zRXh6dXRDb2F5Z1RpTmlnU2xOamNwangzbjZwNmpyV3pqc2Zad1RZRXNQOE9oYmJhUWNqQVJkX3ZLVTBoSGFXNmZ4QWs1WURDeEN4d2dlcXg?oc=5",
-          "source": "Google News",
-          "published": "Tue, 27 Oct 2026 13:37:14 GMT"
-        },
-        {
-          "title": "[단독]이택근 롯데 신임 단장의 첫 승부수…허문회 전 감독 코치 영입·박승민 2군 감독 내정 - 문화일보",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5UN3c3NENUWm1sODNsUmJ1RkJjLTFqYmZyTmNPYXZyV216UUZHekliTnJJNTQ3d3dQejRRT1Y2MVRGZXNBZncwcVZDc2s3bEVX?oc=5",
-          "source": "Google News",
-          "published": "Tue, 27 Oct 2026 14:39:51 GMT"
-        },
-        {
-          "title": "한숨 고른 KIA 이범호 감독 \"1승 1패면 만족, 3차전은 日 시라카와 선발 등판\" - 노컷뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51X3hrbExpaU9sZVdRdjRFTXdQeThlVVZkazA2UTdteFN3ODlUVFJfNjhsd2hvemRacmpCS0NtS0JxVG5qNDlEekFrLVlwc0RoNVE?oc=5",
-          "source": "Google News",
-          "published": "Tue, 27 Oct 2026 13:34:38 GMT"
-        }
-      ]
-    },
-    {
-      "word": "서울",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "서울 강남 구룡마을 불 ‘소방 2단계’ 39명 대피…“확인된 인명피해 없어” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EM2VPTzFWbzVSVS1aZVdiYnFaRmFjeWM1d3BoUXQ4MEg2OGxpRkVfeGY1eFppTkZrbHZzdGI5UkZOX3NQVXg4UHlCYk5KbHVYYzNGQXVyTGE2a1lVcWtFODFtRTI0R3RVclFZdmFqenJSZw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 27 Oct 2026 12:30:00 GMT"
-        },
-        {
-          "title": "영하도 아닌데 한파주의보?…전주·대전은 발효, 서울은 빠진 이유 - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CZENFRV94eXZ4RDRyYmJjTDh0Si1PRkVuN014UXFxMkhYcDhzaVljY0ZjZWUzYXlSdWxLMW9qcFhSYTc0eHg2SVZRR1h6RVhTUmVrOEtMV3g3OUNW?oc=5",
-          "source": "Google News",
-          "published": "Tue, 27 Oct 2026 08:00:33 GMT"
-        }
-      ]
-    },
-    {
-      "word": "정치",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "외신들 “리디아 고, 경기 앞두고 정치적 논란 휘말려” 보도 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpZDRrYTF2V0U3ZEtNUnRPM1BSSGE0WGRYTWI1TjBiNjBIbGI4a0tHMEJQUVpTbHJ6MHQtMDhPMG9VMFdTOFJ1WnRWU09SQnZBMFIyOGxySkJ6djBKXzU3WUpLRDlzbXBoU2FwN0lLVnJ2dw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 27 Oct 2026 08:57:00 GMT"
-        },
-        {
-          "title": "[이스라엘 총선 현장 르포]네타냐후 ‘정치적 생사’ 기로…중동전쟁 앞날 가른다 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JVjVnVm9fcnZHWEg3Tlc2Q29WWURHV2lGUV9NLThlR1YtZm5ZYUhUVGQzS292NVByN3MyNnl2QWt0bWlVUVNiWUYzRDhKZkVfTExrVGxSSHRLQdIBX0FVX3lxTE5rRVJocEJmSlFOWFl2TzVsUThudFE3WGk1UUg0U1Bmd2k3NVpEc0FJNFRHcU4yQzlLNkwtQk1XSkxFT29yX2o5MHJKNGE1S0VBMHlqWVlaR3UzTEJyYjlN?oc=5",
-          "source": "Google News",
-          "published": "Tue, 27 Oct 2026 12:57:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "논란",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "외신들 “리디아 고, 경기 앞두고 정치적 논란 휘말려” 보도 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpZDRrYTF2V0U3ZEtNUnRPM1BSSGE0WGRYTWI1TjBiNjBIbGI4a0tHMEJQUVpTbHJ6MHQtMDhPMG9VMFdTOFJ1WnRWU09SQnZBMFIyOGxySkJ6djBKXzU3WUpLRDlzbXBoU2FwN0lLVnJ2dw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 27 Oct 2026 08:57:00 GMT"
-        },
-        {
-          "title": "노동착취 논란 헤이지니…“산재신청 방해 등 사실과 달라” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sN25mTXdfWXp5Y0N2Wlk0NmZyWm5faC0xZXpxQ2ZZaWpJaFBOZ1BDNC1SeDRQc01BcWtZN0F5Y1F3ak1DemVhMnhCOVAyUEhXT3dEVFNLM0NLYzJBdGotcDloYldZemh6cmwwMFQzR29BckVlT2fSAWZBVV95cUxNZU5nMnBUb09VN0ZWNjFyN1hqczM5SkJHclp6ajVoLVNvcXZRNnVXNVNfTGFpWEVFWkdZOVE4VEtnbnVkaFZ0NTlxc01wU0dzWUNYU01WeUotbVdLSEo2M0RhSXhJdWc?oc=5",
-          "source": "Google News",
-          "published": "Tue, 27 Oct 2026 08:52:00 GMT"
-        }
-      ]
-    },
     {
       "word": "애플",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "“접었더니 화면 쩍” 아이폰 듀오 파손 확산에···‘결함’ 인정한 애플, 무상교체 밝혔지만 재고 부족 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Mb2RwMlBQazdsLTM2RDZHMWhLcnoyZHdIUXVtUDhTeXFVOWgxTXZJdHJ0YThQZTYtVmtFUy1xQ0hNR1dVWkVMOUdJTGo4TEpFMllZelM4TUY1UdIBX0FVX3lxTE4xSmFXTlVMYW9WcUFWNmxNUVdrXzJnRVNnSklpX2kwS1pETUhlWWxBdnpmSENsejhlRnNPZWd1NVdmckRlUEpKVmloRmZyTmNpeVRubE5ZMFNWQ3llTkNj?oc=5",
+          "title": "애플 아이패드 미니, 마침내 OLED 및 방수 기능 탑재 - Hypebeast.KR",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOWd5U1V1NWtXOC1BUTJWUDBBSGtBM09ib3VucnpERkpSOXdqQm5ZRzhSazkyV2tkcXpueU9ORndOUG1uekpTaXhoM1czenI3ZHNIUGdtRmMtb0lKd1ZxUVdrRVVBMkJPMzBPS1Z4VGZHa3FLa2NiX0dHMmdlaEY3bQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 04:51:00 GMT"
+          "published": "Tue, 27 Oct 2026 09:35:11 GMT"
         },
         {
           "title": "애플, 창작앱 전반에 AI 확대…로직 프로·키노트에 어시스턴트 - 이데일리",
@@ -105,40 +23,91 @@
       ]
     },
     {
-      "word": "삼성",
+      "word": "승리",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "박진만 삼성 감독 \"확실히 잡으려고 원태인 5점 차에도 등판\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lSEQ1dzUtRHpDemlZX0FJTHhDTnlidlRjbUwwanN6X09MazRUdFZBOTRnRmdNZjF2UWlpbXRhT01Wano1NjRDZjZrN1J1NE9UZ0VlZlNDY2Q1YzTSAWBBVV95cUxPTUxza254S08zRXh6dXRDb2F5Z1RpTmlnU2xOamNwangzbjZwNmpyV3pqc2Zad1RZRXNQOE9oYmJhUWNqQVJkX3ZLVTBoSGFXNmZ4QWs1WURDeEN4d2dlcXg?oc=5",
+          "title": "'연예계 퇴출' 승리, 아빠 되나…특수폭행혐의 피소 중 알려져 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tbVVtUU9oMnV3RXJ3cUd0dUhuekVaemhjR2xVdHczcVdPV0k5aWxFZF9QQXdiSjJPdzRvXzVxZHdOR25SUkV1MVd4cllFdVpWd09KX3dIN29lQQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 13:37:14 GMT"
+          "published": "Tue, 27 Oct 2026 14:06:56 GMT"
         },
         {
-          "title": "삼성, 기아 꺾고 PO 승부 원점…최형우, PS 최고령 출장·안타 이어 홈런포 - 경북매일",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xYnBkUTZsWDI3clFreHhZdDVyTE1XVm9TUnprNGVhYnJ4VTNVRFlmTGNqUUdGc1Uyc29aQmc1OXFDaXROVjZmT0p1cHYtS1dsN2dXNmgzSTNZdw?oc=5",
+          "title": "“빅뱅 출신 승리, 내년 1월 아빠 된다”…20대 여친과 결혼 준비설 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NMWtvZHlEaDVSZmRQYTlXSFNRX0JmNXVKcjZSNk05VUVfVVFhRFZLa21PR0VrRkpNY1h4eWtic1Q1bjJrRkw5cXFaZTR4UTJoeWpoUm5qeFVHVEw5UnFYQVNFRWE3ZHM0YkpvVEs4blNFcHBJRDhDVjY3dy16d9IBZkFVX3lxTE9lRXhvdGR1NmVZOWJMU082cTlKN0VCOWREdUxNbVFyWjNreFRCQTFhVTRHak1Db1BLcWVuQWRvYmxDTXBuYTZJWVZJdTFHWDJsX0I1elNoZUlub0ZjUDlkdndyRWdVdw?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 13:42:00 GMT"
+          "published": "Tue, 27 Oct 2026 15:26:47 GMT"
         }
       ]
     },
     {
-      "word": "등판",
+      "word": "아빠",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "박진만 삼성 감독 \"확실히 잡으려고 원태인 5점 차에도 등판\" - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lSEQ1dzUtRHpDemlZX0FJTHhDTnlidlRjbUwwanN6X09MazRUdFZBOTRnRmdNZjF2UWlpbXRhT01Wano1NjRDZjZrN1J1NE9UZ0VlZlNDY2Q1YzTSAWBBVV95cUxPTUxza254S08zRXh6dXRDb2F5Z1RpTmlnU2xOamNwangzbjZwNmpyV3pqc2Zad1RZRXNQOE9oYmJhUWNqQVJkX3ZLVTBoSGFXNmZ4QWs1WURDeEN4d2dlcXg?oc=5",
+          "title": "'연예계 퇴출' 승리, 아빠 되나…특수폭행혐의 피소 중 알려져 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tbVVtUU9oMnV3RXJ3cUd0dUhuekVaemhjR2xVdHczcVdPV0k5aWxFZF9QQXdiSjJPdzRvXzVxZHdOR25SUkV1MVd4cllFdVpWd09KX3dIN29lQQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 13:37:14 GMT"
+          "published": "Tue, 27 Oct 2026 14:06:56 GMT"
         },
+        {
+          "title": "“빅뱅 출신 승리, 내년 1월 아빠 된다”…20대 여친과 결혼 준비설 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NMWtvZHlEaDVSZmRQYTlXSFNRX0JmNXVKcjZSNk05VUVfVVFhRFZLa21PR0VrRkpNY1h4eWtic1Q1bjJrRkw5cXFaZTR4UTJoeWpoUm5qeFVHVEw5UnFYQVNFRWE3ZHM0YkpvVEs4blNFcHBJRDhDVjY3dy16d9IBZkFVX3lxTE9lRXhvdGR1NmVZOWJMU082cTlKN0VCOWREdUxNbVFyWjNreFRCQTFhVTRHak1Db1BLcWVuQWRvYmxDTXBuYTZJWVZJdTFHWDJsX0I1elNoZUlub0ZjUDlkdndyRWdVdw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 27 Oct 2026 15:26:47 GMT"
+        }
+      ]
+    },
+    {
+      "word": "박진",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[승장패장] 박진만 “원태인 마무리는 예정된 투입…3차전도 불펜 대기” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91YnN3RkR0MXIyVnBsZ19UX2k4MC03anVkejFMUTUxY3dVNm9nbEluc296MGt2dDZUWGdLYVZaeVpLNmJIUjFpZWFHX19EdmV4aHg3aTBSb3FNS0drVmRTY1JwMHJsdTA?oc=5",
+          "source": "Google News",
+          "published": "Tue, 27 Oct 2026 13:47:00 GMT"
+        },
+        {
+          "title": "박진만 감독의 간단명료 정리 \"이의리 무너뜨려야 우리가 이긴다\" [PO2 현장] - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTEtqRk45YVQxSzhOa2dsa0pKS3NhR0paWGNYakdoSHBTb2ZyYlA3OWh2azllWjlvcXV5RTd3VVo0cFFkcjV5OExITEgta0FuM19BMDU1UWM0bTZWUTBKYWYwazV4eGdSSm1GQkFtcEdzRDhEYkJNdXR6WEJrSmU1bTc2OA?oc=5",
+          "source": "Google News",
+          "published": "Tue, 27 Oct 2026 08:58:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "감독",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
         {
           "title": "한숨 고른 KIA 이범호 감독 \"1승 1패면 만족, 3차전은 日 시라카와 선발 등판\" - 노컷뉴스",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51X3hrbExpaU9sZVdRdjRFTXdQeThlVVZkazA2UTdteFN3ODlUVFJfNjhsd2hvemRacmpCS0NtS0JxVG5qNDlEekFrLVlwc0RoNVE?oc=5",
           "source": "Google News",
           "published": "Tue, 27 Oct 2026 13:34:38 GMT"
+        },
+        {
+          "title": "박진만 감독의 간단명료 정리 \"이의리 무너뜨려야 우리가 이긴다\" [PO2 현장] - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTEtqRk45YVQxSzhOa2dsa0pKS3NhR0paWGNYakdoSHBTb2ZyYlA3OWh2azllWjlvcXV5RTd3VVo0cFFkcjV5OExITEgta0FuM19BMDU1UWM0bTZWUTBKYWYwazV4eGdSSm1GQkFtcEdzRDhEYkJNdXR6WEJrSmU1bTc2OA?oc=5",
+          "source": "Google News",
+          "published": "Tue, 27 Oct 2026 08:58:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "서울",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "서울 강남 구룡마을 화재에 부상 1명·이재민 107명…대응 1단계로 하향 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WT21Ob2pENUpfeEtUcDM5RE0xQ1ltbGhaSGFoVEZXWlJnXzJDMEVMQXdkMXFfeUc5SjhwTFFwQW11aFFQdzAwUjctcjYwNDBVQ1BOYjBYZmlFUGM2ZjJZeEFSNmV2RkloSVhabHBhS0psUQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 27 Oct 2026 17:20:00 GMT"
         }
       ]
     },
@@ -148,10 +117,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "서울 강남 구룡마을 불 ‘소방 2단계’ 39명 대피…“확인된 인명피해 없어” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EM2VPTzFWbzVSVS1aZVdiYnFaRmFjeWM1d3BoUXQ4MEg2OGxpRkVfeGY1eFppTkZrbHZzdGI5UkZOX3NQVXg4UHlCYk5KbHVYYzNGQXVyTGE2a1lVcWtFODFtRTI0R3RVclFZdmFqenJSZw?oc=5",
+          "title": "서울 강남 구룡마을 화재에 부상 1명·이재민 107명…대응 1단계로 하향 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WT21Ob2pENUpfeEtUcDM5RE0xQ1ltbGhaSGFoVEZXWlJnXzJDMEVMQXdkMXFfeUc5SjhwTFFwQW11aFFQdzAwUjctcjYwNDBVQ1BOYjBYZmlFUGM2ZjJZeEFSNmV2RkloSVhabHBhS0psUQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 12:30:00 GMT"
+          "published": "Tue, 27 Oct 2026 17:20:00 GMT"
         }
       ]
     },
@@ -161,413 +130,426 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "서울 강남 구룡마을 불 ‘소방 2단계’ 39명 대피…“확인된 인명피해 없어” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EM2VPTzFWbzVSVS1aZVdiYnFaRmFjeWM1d3BoUXQ4MEg2OGxpRkVfeGY1eFppTkZrbHZzdGI5UkZOX3NQVXg4UHlCYk5KbHVYYzNGQXVyTGE2a1lVcWtFODFtRTI0R3RVclFZdmFqenJSZw?oc=5",
+          "title": "서울 강남 구룡마을 화재에 부상 1명·이재민 107명…대응 1단계로 하향 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WT21Ob2pENUpfeEtUcDM5RE0xQ1ltbGhaSGFoVEZXWlJnXzJDMEVMQXdkMXFfeUc5SjhwTFFwQW11aFFQdzAwUjctcjYwNDBVQ1BOYjBYZmlFUGM2ZjJZeEFSNmV2RkloSVhabHBhS0psUQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 12:30:00 GMT"
+          "published": "Tue, 27 Oct 2026 17:20:00 GMT"
         }
       ]
     },
     {
-      "word": "소방",
+      "word": "화재",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "서울 강남 구룡마을 불 ‘소방 2단계’ 39명 대피…“확인된 인명피해 없어” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EM2VPTzFWbzVSVS1aZVdiYnFaRmFjeWM1d3BoUXQ4MEg2OGxpRkVfeGY1eFppTkZrbHZzdGI5UkZOX3NQVXg4UHlCYk5KbHVYYzNGQXVyTGE2a1lVcWtFODFtRTI0R3RVclFZdmFqenJSZw?oc=5",
+          "title": "서울 강남 구룡마을 화재에 부상 1명·이재민 107명…대응 1단계로 하향 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WT21Ob2pENUpfeEtUcDM5RE0xQ1ltbGhaSGFoVEZXWlJnXzJDMEVMQXdkMXFfeUc5SjhwTFFwQW11aFFQdzAwUjctcjYwNDBVQ1BOYjBYZmlFUGM2ZjJZeEFSNmV2RkloSVhabHBhS0psUQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 12:30:00 GMT"
+          "published": "Tue, 27 Oct 2026 17:20:00 GMT"
         }
       ]
     },
     {
-      "word": "2단계",
+      "word": "부상",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "서울 강남 구룡마을 불 ‘소방 2단계’ 39명 대피…“확인된 인명피해 없어” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EM2VPTzFWbzVSVS1aZVdiYnFaRmFjeWM1d3BoUXQ4MEg2OGxpRkVfeGY1eFppTkZrbHZzdGI5UkZOX3NQVXg4UHlCYk5KbHVYYzNGQXVyTGE2a1lVcWtFODFtRTI0R3RVclFZdmFqenJSZw?oc=5",
+          "title": "서울 강남 구룡마을 화재에 부상 1명·이재민 107명…대응 1단계로 하향 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WT21Ob2pENUpfeEtUcDM5RE0xQ1ltbGhaSGFoVEZXWlJnXzJDMEVMQXdkMXFfeUc5SjhwTFFwQW11aFFQdzAwUjctcjYwNDBVQ1BOYjBYZmlFUGM2ZjJZeEFSNmV2RkloSVhabHBhS0psUQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 12:30:00 GMT"
+          "published": "Tue, 27 Oct 2026 17:20:00 GMT"
         }
       ]
     },
     {
-      "word": "39명",
+      "word": "1명이재민",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "서울 강남 구룡마을 불 ‘소방 2단계’ 39명 대피…“확인된 인명피해 없어” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EM2VPTzFWbzVSVS1aZVdiYnFaRmFjeWM1d3BoUXQ4MEg2OGxpRkVfeGY1eFppTkZrbHZzdGI5UkZOX3NQVXg4UHlCYk5KbHVYYzNGQXVyTGE2a1lVcWtFODFtRTI0R3RVclFZdmFqenJSZw?oc=5",
+          "title": "서울 강남 구룡마을 화재에 부상 1명·이재민 107명…대응 1단계로 하향 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WT21Ob2pENUpfeEtUcDM5RE0xQ1ltbGhaSGFoVEZXWlJnXzJDMEVMQXdkMXFfeUc5SjhwTFFwQW11aFFQdzAwUjctcjYwNDBVQ1BOYjBYZmlFUGM2ZjJZeEFSNmV2RkloSVhabHBhS0psUQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 12:30:00 GMT"
+          "published": "Tue, 27 Oct 2026 17:20:00 GMT"
         }
       ]
     },
     {
-      "word": "대피확인",
+      "word": "107명대응",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "서울 강남 구룡마을 불 ‘소방 2단계’ 39명 대피…“확인된 인명피해 없어” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EM2VPTzFWbzVSVS1aZVdiYnFaRmFjeWM1d3BoUXQ4MEg2OGxpRkVfeGY1eFppTkZrbHZzdGI5UkZOX3NQVXg4UHlCYk5KbHVYYzNGQXVyTGE2a1lVcWtFODFtRTI0R3RVclFZdmFqenJSZw?oc=5",
+          "title": "서울 강남 구룡마을 화재에 부상 1명·이재민 107명…대응 1단계로 하향 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WT21Ob2pENUpfeEtUcDM5RE0xQ1ltbGhaSGFoVEZXWlJnXzJDMEVMQXdkMXFfeUc5SjhwTFFwQW11aFFQdzAwUjctcjYwNDBVQ1BOYjBYZmlFUGM2ZjJZeEFSNmV2RkloSVhabHBhS0psUQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 12:30:00 GMT"
+          "published": "Tue, 27 Oct 2026 17:20:00 GMT"
         }
       ]
     },
     {
-      "word": "인명피해",
+      "word": "1단계",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "서울 강남 구룡마을 불 ‘소방 2단계’ 39명 대피…“확인된 인명피해 없어” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EM2VPTzFWbzVSVS1aZVdiYnFaRmFjeWM1d3BoUXQ4MEg2OGxpRkVfeGY1eFppTkZrbHZzdGI5UkZOX3NQVXg4UHlCYk5KbHVYYzNGQXVyTGE2a1lVcWtFODFtRTI0R3RVclFZdmFqenJSZw?oc=5",
+          "title": "서울 강남 구룡마을 화재에 부상 1명·이재민 107명…대응 1단계로 하향 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WT21Ob2pENUpfeEtUcDM5RE0xQ1ltbGhaSGFoVEZXWlJnXzJDMEVMQXdkMXFfeUc5SjhwTFFwQW11aFFQdzAwUjctcjYwNDBVQ1BOYjBYZmlFUGM2ZjJZeEFSNmV2RkloSVhabHBhS0psUQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 12:30:00 GMT"
+          "published": "Tue, 27 Oct 2026 17:20:00 GMT"
         }
       ]
     },
     {
-      "word": "없어",
+      "word": "하향",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "서울 강남 구룡마을 불 ‘소방 2단계’ 39명 대피…“확인된 인명피해 없어” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EM2VPTzFWbzVSVS1aZVdiYnFaRmFjeWM1d3BoUXQ4MEg2OGxpRkVfeGY1eFppTkZrbHZzdGI5UkZOX3NQVXg4UHlCYk5KbHVYYzNGQXVyTGE2a1lVcWtFODFtRTI0R3RVclFZdmFqenJSZw?oc=5",
+          "title": "서울 강남 구룡마을 화재에 부상 1명·이재민 107명…대응 1단계로 하향 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WT21Ob2pENUpfeEtUcDM5RE0xQ1ltbGhaSGFoVEZXWlJnXzJDMEVMQXdkMXFfeUc5SjhwTFFwQW11aFFQdzAwUjctcjYwNDBVQ1BOYjBYZmlFUGM2ZjJZeEFSNmV2RkloSVhabHBhS0psUQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 12:30:00 GMT"
+          "published": "Tue, 27 Oct 2026 17:20:00 GMT"
         }
       ]
     },
     {
-      "word": "김건희",
+      "word": "국가",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김건희, 구속 심문서 \"尹 깨끗한 사람, 내게 인사 맡기겠나\" 15분간 직접 발언 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN3BZYWp5TWJ6WHZlSFZ4RU1DMDRLUXQ5MGk1V2x6OFo0aGdLaUtEZjRZM3lHSGFoMWNEeGdzN3A4R1o2QjkyZkRiYWlXWktMUjFteXRjUE00bzNnb1dxeE4xNk53dzFtX0hpTC1URTA3Wl9SWFpPTmNSdXJKOXlFZnpWZHVLUUk?oc=5",
+          "title": "국가의 책임 회피가 키운 혐오…‘유족충’ 악플도 불기소, 처벌 공백 여전 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jaDd6SlU3SFZNT2tfa19aSU1rWU5pYmpGQzV5TFlmQVMxaFNhUkZnc0x0MGxhOEhUMDE2Q0JYMlU3aGJtcC1pOE4yeWpWemNUMlNEb2EzNC1PeEVQTlpLeVE3NVdVb21iMUtETGZ4VERIUQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 10:19:21 GMT"
+          "published": "Tue, 27 Oct 2026 17:26:00 GMT"
         }
       ]
     },
     {
-      "word": "구속",
+      "word": "책임",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김건희, 구속 심문서 \"尹 깨끗한 사람, 내게 인사 맡기겠나\" 15분간 직접 발언 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN3BZYWp5TWJ6WHZlSFZ4RU1DMDRLUXQ5MGk1V2x6OFo0aGdLaUtEZjRZM3lHSGFoMWNEeGdzN3A4R1o2QjkyZkRiYWlXWktMUjFteXRjUE00bzNnb1dxeE4xNk53dzFtX0hpTC1URTA3Wl9SWFpPTmNSdXJKOXlFZnpWZHVLUUk?oc=5",
+          "title": "국가의 책임 회피가 키운 혐오…‘유족충’ 악플도 불기소, 처벌 공백 여전 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jaDd6SlU3SFZNT2tfa19aSU1rWU5pYmpGQzV5TFlmQVMxaFNhUkZnc0x0MGxhOEhUMDE2Q0JYMlU3aGJtcC1pOE4yeWpWemNUMlNEb2EzNC1PeEVQTlpLeVE3NVdVb21iMUtETGZ4VERIUQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 10:19:21 GMT"
+          "published": "Tue, 27 Oct 2026 17:26:00 GMT"
         }
       ]
     },
     {
-      "word": "심문서",
+      "word": "회피",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김건희, 구속 심문서 \"尹 깨끗한 사람, 내게 인사 맡기겠나\" 15분간 직접 발언 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN3BZYWp5TWJ6WHZlSFZ4RU1DMDRLUXQ5MGk1V2x6OFo0aGdLaUtEZjRZM3lHSGFoMWNEeGdzN3A4R1o2QjkyZkRiYWlXWktMUjFteXRjUE00bzNnb1dxeE4xNk53dzFtX0hpTC1URTA3Wl9SWFpPTmNSdXJKOXlFZnpWZHVLUUk?oc=5",
+          "title": "국가의 책임 회피가 키운 혐오…‘유족충’ 악플도 불기소, 처벌 공백 여전 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jaDd6SlU3SFZNT2tfa19aSU1rWU5pYmpGQzV5TFlmQVMxaFNhUkZnc0x0MGxhOEhUMDE2Q0JYMlU3aGJtcC1pOE4yeWpWemNUMlNEb2EzNC1PeEVQTlpLeVE3NVdVb21iMUtETGZ4VERIUQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 10:19:21 GMT"
+          "published": "Tue, 27 Oct 2026 17:26:00 GMT"
         }
       ]
     },
     {
-      "word": "깨끗",
+      "word": "키운",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김건희, 구속 심문서 \"尹 깨끗한 사람, 내게 인사 맡기겠나\" 15분간 직접 발언 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN3BZYWp5TWJ6WHZlSFZ4RU1DMDRLUXQ5MGk1V2x6OFo0aGdLaUtEZjRZM3lHSGFoMWNEeGdzN3A4R1o2QjkyZkRiYWlXWktMUjFteXRjUE00bzNnb1dxeE4xNk53dzFtX0hpTC1URTA3Wl9SWFpPTmNSdXJKOXlFZnpWZHVLUUk?oc=5",
+          "title": "국가의 책임 회피가 키운 혐오…‘유족충’ 악플도 불기소, 처벌 공백 여전 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jaDd6SlU3SFZNT2tfa19aSU1rWU5pYmpGQzV5TFlmQVMxaFNhUkZnc0x0MGxhOEhUMDE2Q0JYMlU3aGJtcC1pOE4yeWpWemNUMlNEb2EzNC1PeEVQTlpLeVE3NVdVb21iMUtETGZ4VERIUQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 10:19:21 GMT"
+          "published": "Tue, 27 Oct 2026 17:26:00 GMT"
         }
       ]
     },
     {
-      "word": "사람",
+      "word": "혐오유족충",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김건희, 구속 심문서 \"尹 깨끗한 사람, 내게 인사 맡기겠나\" 15분간 직접 발언 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN3BZYWp5TWJ6WHZlSFZ4RU1DMDRLUXQ5MGk1V2x6OFo0aGdLaUtEZjRZM3lHSGFoMWNEeGdzN3A4R1o2QjkyZkRiYWlXWktMUjFteXRjUE00bzNnb1dxeE4xNk53dzFtX0hpTC1URTA3Wl9SWFpPTmNSdXJKOXlFZnpWZHVLUUk?oc=5",
+          "title": "국가의 책임 회피가 키운 혐오…‘유족충’ 악플도 불기소, 처벌 공백 여전 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jaDd6SlU3SFZNT2tfa19aSU1rWU5pYmpGQzV5TFlmQVMxaFNhUkZnc0x0MGxhOEhUMDE2Q0JYMlU3aGJtcC1pOE4yeWpWemNUMlNEb2EzNC1PeEVQTlpLeVE3NVdVb21iMUtETGZ4VERIUQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 10:19:21 GMT"
+          "published": "Tue, 27 Oct 2026 17:26:00 GMT"
         }
       ]
     },
     {
-      "word": "내게",
+      "word": "악플",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김건희, 구속 심문서 \"尹 깨끗한 사람, 내게 인사 맡기겠나\" 15분간 직접 발언 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN3BZYWp5TWJ6WHZlSFZ4RU1DMDRLUXQ5MGk1V2x6OFo0aGdLaUtEZjRZM3lHSGFoMWNEeGdzN3A4R1o2QjkyZkRiYWlXWktMUjFteXRjUE00bzNnb1dxeE4xNk53dzFtX0hpTC1URTA3Wl9SWFpPTmNSdXJKOXlFZnpWZHVLUUk?oc=5",
+          "title": "국가의 책임 회피가 키운 혐오…‘유족충’ 악플도 불기소, 처벌 공백 여전 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jaDd6SlU3SFZNT2tfa19aSU1rWU5pYmpGQzV5TFlmQVMxaFNhUkZnc0x0MGxhOEhUMDE2Q0JYMlU3aGJtcC1pOE4yeWpWemNUMlNEb2EzNC1PeEVQTlpLeVE3NVdVb21iMUtETGZ4VERIUQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 10:19:21 GMT"
+          "published": "Tue, 27 Oct 2026 17:26:00 GMT"
         }
       ]
     },
     {
-      "word": "인사",
+      "word": "불기소",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김건희, 구속 심문서 \"尹 깨끗한 사람, 내게 인사 맡기겠나\" 15분간 직접 발언 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN3BZYWp5TWJ6WHZlSFZ4RU1DMDRLUXQ5MGk1V2x6OFo0aGdLaUtEZjRZM3lHSGFoMWNEeGdzN3A4R1o2QjkyZkRiYWlXWktMUjFteXRjUE00bzNnb1dxeE4xNk53dzFtX0hpTC1URTA3Wl9SWFpPTmNSdXJKOXlFZnpWZHVLUUk?oc=5",
+          "title": "국가의 책임 회피가 키운 혐오…‘유족충’ 악플도 불기소, 처벌 공백 여전 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jaDd6SlU3SFZNT2tfa19aSU1rWU5pYmpGQzV5TFlmQVMxaFNhUkZnc0x0MGxhOEhUMDE2Q0JYMlU3aGJtcC1pOE4yeWpWemNUMlNEb2EzNC1PeEVQTlpLeVE3NVdVb21iMUtETGZ4VERIUQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 10:19:21 GMT"
+          "published": "Tue, 27 Oct 2026 17:26:00 GMT"
         }
       ]
     },
     {
-      "word": "맡기겠",
+      "word": "처벌",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김건희, 구속 심문서 \"尹 깨끗한 사람, 내게 인사 맡기겠나\" 15분간 직접 발언 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN3BZYWp5TWJ6WHZlSFZ4RU1DMDRLUXQ5MGk1V2x6OFo0aGdLaUtEZjRZM3lHSGFoMWNEeGdzN3A4R1o2QjkyZkRiYWlXWktMUjFteXRjUE00bzNnb1dxeE4xNk53dzFtX0hpTC1URTA3Wl9SWFpPTmNSdXJKOXlFZnpWZHVLUUk?oc=5",
+          "title": "국가의 책임 회피가 키운 혐오…‘유족충’ 악플도 불기소, 처벌 공백 여전 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jaDd6SlU3SFZNT2tfa19aSU1rWU5pYmpGQzV5TFlmQVMxaFNhUkZnc0x0MGxhOEhUMDE2Q0JYMlU3aGJtcC1pOE4yeWpWemNUMlNEb2EzNC1PeEVQTlpLeVE3NVdVb21iMUtETGZ4VERIUQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 10:19:21 GMT"
+          "published": "Tue, 27 Oct 2026 17:26:00 GMT"
         }
       ]
     },
     {
-      "word": "15분간",
+      "word": "공백",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김건희, 구속 심문서 \"尹 깨끗한 사람, 내게 인사 맡기겠나\" 15분간 직접 발언 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN3BZYWp5TWJ6WHZlSFZ4RU1DMDRLUXQ5MGk1V2x6OFo0aGdLaUtEZjRZM3lHSGFoMWNEeGdzN3A4R1o2QjkyZkRiYWlXWktMUjFteXRjUE00bzNnb1dxeE4xNk53dzFtX0hpTC1URTA3Wl9SWFpPTmNSdXJKOXlFZnpWZHVLUUk?oc=5",
+          "title": "국가의 책임 회피가 키운 혐오…‘유족충’ 악플도 불기소, 처벌 공백 여전 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jaDd6SlU3SFZNT2tfa19aSU1rWU5pYmpGQzV5TFlmQVMxaFNhUkZnc0x0MGxhOEhUMDE2Q0JYMlU3aGJtcC1pOE4yeWpWemNUMlNEb2EzNC1PeEVQTlpLeVE3NVdVb21iMUtETGZ4VERIUQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 10:19:21 GMT"
+          "published": "Tue, 27 Oct 2026 17:26:00 GMT"
         }
       ]
     },
     {
-      "word": "직접",
+      "word": "여전",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김건희, 구속 심문서 \"尹 깨끗한 사람, 내게 인사 맡기겠나\" 15분간 직접 발언 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN3BZYWp5TWJ6WHZlSFZ4RU1DMDRLUXQ5MGk1V2x6OFo0aGdLaUtEZjRZM3lHSGFoMWNEeGdzN3A4R1o2QjkyZkRiYWlXWktMUjFteXRjUE00bzNnb1dxeE4xNk53dzFtX0hpTC1URTA3Wl9SWFpPTmNSdXJKOXlFZnpWZHVLUUk?oc=5",
+          "title": "국가의 책임 회피가 키운 혐오…‘유족충’ 악플도 불기소, 처벌 공백 여전 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jaDd6SlU3SFZNT2tfa19aSU1rWU5pYmpGQzV5TFlmQVMxaFNhUkZnc0x0MGxhOEhUMDE2Q0JYMlU3aGJtcC1pOE4yeWpWemNUMlNEb2EzNC1PeEVQTlpLeVE3NVdVb21iMUtETGZ4VERIUQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 10:19:21 GMT"
+          "published": "Tue, 27 Oct 2026 17:26:00 GMT"
         }
       ]
     },
     {
-      "word": "발언",
+      "word": "속보반네타냐후",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김건희, 구속 심문서 \"尹 깨끗한 사람, 내게 인사 맡기겠나\" 15분간 직접 발언 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN3BZYWp5TWJ6WHZlSFZ4RU1DMDRLUXQ5MGk1V2x6OFo0aGdLaUtEZjRZM3lHSGFoMWNEeGdzN3A4R1o2QjkyZkRiYWlXWktMUjFteXRjUE00bzNnb1dxeE4xNk53dzFtX0hpTC1URTA3Wl9SWFpPTmNSdXJKOXlFZnpWZHVLUUk?oc=5",
+          "title": "[속보]“반네타냐후 52~53석, 친네타냐후 50석”···이스라엘 총선 출구조사 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WYjZwNElxSHE2eXFLb3hNQnRkTV9ZZmJZaVY1YVpBeW5lRG9wVDRhaW84ckZETFZKM2Rlc3hnOERsOURSQkVyZWdUaWUxeGkxM0pLRVpiWldhZ9IBX0FVX3lxTE80d3dGaU9EZzRKaGN0Y1hkT1JITlFfd2lmMnlQdUprbno5NEt3b3p1WE1HSDlEUW1GSUVBMXlLeDFvYU5UWjdOTkFnUWxoTGN5eS10VE1WWUJxUktFbG5J?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 10:19:21 GMT"
+          "published": "Tue, 27 Oct 2026 20:20:00 GMT"
         }
       ]
     },
     {
-      "word": "민주당",
+      "word": "5253석",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보]“반네타냐후 52~53석, 친네타냐후 50석”···이스라엘 총선 출구조사 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WYjZwNElxSHE2eXFLb3hNQnRkTV9ZZmJZaVY1YVpBeW5lRG9wVDRhaW84ckZETFZKM2Rlc3hnOERsOURSQkVyZWdUaWUxeGkxM0pLRVpiWldhZ9IBX0FVX3lxTE80d3dGaU9EZzRKaGN0Y1hkT1JITlFfd2lmMnlQdUprbno5NEt3b3p1WE1HSDlEUW1GSUVBMXlLeDFvYU5UWjdOTkFnUWxoTGN5eS10VE1WWUJxUktFbG5J?oc=5",
+          "source": "Google News",
+          "published": "Tue, 27 Oct 2026 20:20:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "친네타냐후",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보]“반네타냐후 52~53석, 친네타냐후 50석”···이스라엘 총선 출구조사 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WYjZwNElxSHE2eXFLb3hNQnRkTV9ZZmJZaVY1YVpBeW5lRG9wVDRhaW84ckZETFZKM2Rlc3hnOERsOURSQkVyZWdUaWUxeGkxM0pLRVpiWldhZ9IBX0FVX3lxTE80d3dGaU9EZzRKaGN0Y1hkT1JITlFfd2lmMnlQdUprbno5NEt3b3p1WE1HSDlEUW1GSUVBMXlLeDFvYU5UWjdOTkFnUWxoTGN5eS10VE1WWUJxUktFbG5J?oc=5",
+          "source": "Google News",
+          "published": "Tue, 27 Oct 2026 20:20:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "50석이스라엘",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보]“반네타냐후 52~53석, 친네타냐후 50석”···이스라엘 총선 출구조사 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WYjZwNElxSHE2eXFLb3hNQnRkTV9ZZmJZaVY1YVpBeW5lRG9wVDRhaW84ckZETFZKM2Rlc3hnOERsOURSQkVyZWdUaWUxeGkxM0pLRVpiWldhZ9IBX0FVX3lxTE80d3dGaU9EZzRKaGN0Y1hkT1JITlFfd2lmMnlQdUprbno5NEt3b3p1WE1HSDlEUW1GSUVBMXlLeDFvYU5UWjdOTkFnUWxoTGN5eS10VE1WWUJxUktFbG5J?oc=5",
+          "source": "Google News",
+          "published": "Tue, 27 Oct 2026 20:20:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "총선",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[속보]“반네타냐후 52~53석, 친네타냐후 50석”···이스라엘 총선 출구조사 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WYjZwNElxSHE2eXFLb3hNQnRkTV9ZZmJZaVY1YVpBeW5lRG9wVDRhaW84ckZETFZKM2Rlc3hnOERsOURSQkVyZWdUaWUxeGkxM0pLRVpiWldhZ9IBX0FVX3lxTE80d3dGaU9EZzRKaGN0Y1hkT1JITlFfd2lmMnlQdUprbno5NEt3b3p1WE1HSDlEUW1GSUVBMXlLeDFvYU5UWjdOTkFnUWxoTGN5eS10VE1WWUJxUktFbG5J?oc=5",
+          "source": "Google News",
+          "published": "Tue, 27 Oct 2026 20:20:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "출구조사",
       "count": 1,
       "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "민주당, 조희대 국정조사 내달 추진 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05MzdqWUNMWS1hdHNlUk1EQjRFOFF4Qmw1aGpGUWNUT1N5b0FROV96WUk3dkdaUG1aMkhuUGFHZkRkd21CNlE5eHdTbkZxems3OGI5SWc1RDd1QdIBX0FVX3lxTE40cDBjakxCNWNfdF9VN2x3Q1BRZFBITHRhUWFIZjJFaS1IVHR4WEpOdmFMWWg2NGgydVQxN0taczkwWHF5RV80T1ZjZFIteTRuS0dYSFR5UVQtN2dxaEpJ?oc=5",
+          "title": "[속보]“반네타냐후 52~53석, 친네타냐후 50석”···이스라엘 총선 출구조사 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WYjZwNElxSHE2eXFLb3hNQnRkTV9ZZmJZaVY1YVpBeW5lRG9wVDRhaW84ckZETFZKM2Rlc3hnOERsOURSQkVyZWdUaWUxeGkxM0pLRVpiWldhZ9IBX0FVX3lxTE80d3dGaU9EZzRKaGN0Y1hkT1JITlFfd2lmMnlQdUprbno5NEt3b3p1WE1HSDlEUW1GSUVBMXlLeDFvYU5UWjdOTkFnUWxoTGN5eS10VE1WWUJxUktFbG5J?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 12:57:00 GMT"
+          "published": "Tue, 27 Oct 2026 20:20:00 GMT"
         }
       ]
     },
     {
-      "word": "조희대",
+      "word": "구로구",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "민주당, 조희대 국정조사 내달 추진 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05MzdqWUNMWS1hdHNlUk1EQjRFOFF4Qmw1aGpGUWNUT1N5b0FROV96WUk3dkdaUG1aMkhuUGFHZkRkd21CNlE5eHdTbkZxems3OGI5SWc1RDd1QdIBX0FVX3lxTE40cDBjakxCNWNfdF9VN2x3Q1BRZFBITHRhUWFIZjJFaS1IVHR4WEpOdmFMWWg2NGgydVQxN0taczkwWHF5RV80T1ZjZFIteTRuS0dYSFR5UVQtN2dxaEpJ?oc=5",
+          "title": "구로구 주택가 시신 유기한 남성 2명 체포…빌라주인 등(종합) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OSWtwRFc1eUxrNlRRU1FMSGhuTFpPMDE5eExUZEJpTlBlcThveE8xTTBVUWZTR3gwSEMtblFncVdBVmFNNWRnM0pSS2tBV21nWGc4U010YzJxZzjSAWBBVV95cUxOWkdDS2FLNF90QlJpNmRrX3ZieDhrcUc0MzVydUhLYmZzT2pkN1ROTHdBRjVXem92Z1YwZi1XdEJxZUd5REJfTFZoZ2NsTDBqSGlrS2h1UjhoSllIMFJzdkM?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 12:57:00 GMT"
+          "published": "Tue, 27 Oct 2026 09:01:22 GMT"
         }
       ]
     },
     {
-      "word": "국정조사",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "민주당, 조희대 국정조사 내달 추진 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05MzdqWUNMWS1hdHNlUk1EQjRFOFF4Qmw1aGpGUWNUT1N5b0FROV96WUk3dkdaUG1aMkhuUGFHZkRkd21CNlE5eHdTbkZxems3OGI5SWc1RDd1QdIBX0FVX3lxTE40cDBjakxCNWNfdF9VN2x3Q1BRZFBITHRhUWFIZjJFaS1IVHR4WEpOdmFMWWg2NGgydVQxN0taczkwWHF5RV80T1ZjZFIteTRuS0dYSFR5UVQtN2dxaEpJ?oc=5",
-          "source": "Google News",
-          "published": "Tue, 27 Oct 2026 12:57:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "내달",
+      "word": "주택",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "민주당, 조희대 국정조사 내달 추진 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05MzdqWUNMWS1hdHNlUk1EQjRFOFF4Qmw1aGpGUWNUT1N5b0FROV96WUk3dkdaUG1aMkhuUGFHZkRkd21CNlE5eHdTbkZxems3OGI5SWc1RDd1QdIBX0FVX3lxTE40cDBjakxCNWNfdF9VN2x3Q1BRZFBITHRhUWFIZjJFaS1IVHR4WEpOdmFMWWg2NGgydVQxN0taczkwWHF5RV80T1ZjZFIteTRuS0dYSFR5UVQtN2dxaEpJ?oc=5",
+          "title": "구로구 주택가 시신 유기한 남성 2명 체포…빌라주인 등(종합) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OSWtwRFc1eUxrNlRRU1FMSGhuTFpPMDE5eExUZEJpTlBlcThveE8xTTBVUWZTR3gwSEMtblFncVdBVmFNNWRnM0pSS2tBV21nWGc4U010YzJxZzjSAWBBVV95cUxOWkdDS2FLNF90QlJpNmRrX3ZieDhrcUc0MzVydUhLYmZzT2pkN1ROTHdBRjVXem92Z1YwZi1XdEJxZUd5REJfTFZoZ2NsTDBqSGlrS2h1UjhoSllIMFJzdkM?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 12:57:00 GMT"
+          "published": "Tue, 27 Oct 2026 09:01:22 GMT"
         }
       ]
     },
     {
-      "word": "추진",
+      "word": "시신",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "민주당, 조희대 국정조사 내달 추진 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05MzdqWUNMWS1hdHNlUk1EQjRFOFF4Qmw1aGpGUWNUT1N5b0FROV96WUk3dkdaUG1aMkhuUGFHZkRkd21CNlE5eHdTbkZxems3OGI5SWc1RDd1QdIBX0FVX3lxTE40cDBjakxCNWNfdF9VN2x3Q1BRZFBITHRhUWFIZjJFaS1IVHR4WEpOdmFMWWg2NGgydVQxN0taczkwWHF5RV80T1ZjZFIteTRuS0dYSFR5UVQtN2dxaEpJ?oc=5",
+          "title": "구로구 주택가 시신 유기한 남성 2명 체포…빌라주인 등(종합) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OSWtwRFc1eUxrNlRRU1FMSGhuTFpPMDE5eExUZEJpTlBlcThveE8xTTBVUWZTR3gwSEMtblFncVdBVmFNNWRnM0pSS2tBV21nWGc4U010YzJxZzjSAWBBVV95cUxOWkdDS2FLNF90QlJpNmRrX3ZieDhrcUc0MzVydUhLYmZzT2pkN1ROTHdBRjVXem92Z1YwZi1XdEJxZUd5REJfTFZoZ2NsTDBqSGlrS2h1UjhoSllIMFJzdkM?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 12:57:00 GMT"
+          "published": "Tue, 27 Oct 2026 09:01:22 GMT"
         }
       ]
     },
     {
-      "word": "강신철",
+      "word": "유기",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "강신철 “北과 전쟁시 미군 믿을 수 있나” 전작권 전환 신중론 반박 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QOTFoWEYwUjgtcTZ3NjdDUzJlc0hNUWZDREczRzc3UFlfb2xVcmRTcS1DWC1lNm1VQzZqclgzZ1JOT1B1REFFdldTTW4zMWZPQlBpNEZsVndXZG9rcE4xMmppM0ZqV3V0SlJENFhQT1lQOFF6Q3R30gFmQVVfeXFMTTNXbUZPMnY1bzF2Umc4MmZ4aHBCM2RZaUZoMDdoeXo2andsdi1EVS1YNzFLS05ZNTNfMGJMWUUwWE1mcXh2dlF6dTFhd1VDOGJKUDFVMXlJa2RtTDVwZkQ0V3kzQ2hn?oc=5",
+          "title": "구로구 주택가 시신 유기한 남성 2명 체포…빌라주인 등(종합) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OSWtwRFc1eUxrNlRRU1FMSGhuTFpPMDE5eExUZEJpTlBlcThveE8xTTBVUWZTR3gwSEMtblFncVdBVmFNNWRnM0pSS2tBV21nWGc4U010YzJxZzjSAWBBVV95cUxOWkdDS2FLNF90QlJpNmRrX3ZieDhrcUc0MzVydUhLYmZzT2pkN1ROTHdBRjVXem92Z1YwZi1XdEJxZUd5REJfTFZoZ2NsTDBqSGlrS2h1UjhoSllIMFJzdkM?oc=5",
           "source": "Google News",
-          "published": "Mon, 26 Oct 2026 19:30:00 GMT"
+          "published": "Tue, 27 Oct 2026 09:01:22 GMT"
         }
       ]
     },
     {
-      "word": "전쟁시",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "강신철 “北과 전쟁시 미군 믿을 수 있나” 전작권 전환 신중론 반박 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QOTFoWEYwUjgtcTZ3NjdDUzJlc0hNUWZDREczRzc3UFlfb2xVcmRTcS1DWC1lNm1VQzZqclgzZ1JOT1B1REFFdldTTW4zMWZPQlBpNEZsVndXZG9rcE4xMmppM0ZqV3V0SlJENFhQT1lQOFF6Q3R30gFmQVVfeXFMTTNXbUZPMnY1bzF2Umc4MmZ4aHBCM2RZaUZoMDdoeXo2andsdi1EVS1YNzFLS05ZNTNfMGJMWUUwWE1mcXh2dlF6dTFhd1VDOGJKUDFVMXlJa2RtTDVwZkQ0V3kzQ2hn?oc=5",
-          "source": "Google News",
-          "published": "Mon, 26 Oct 2026 19:30:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "미군",
+      "word": "남성",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "강신철 “北과 전쟁시 미군 믿을 수 있나” 전작권 전환 신중론 반박 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QOTFoWEYwUjgtcTZ3NjdDUzJlc0hNUWZDREczRzc3UFlfb2xVcmRTcS1DWC1lNm1VQzZqclgzZ1JOT1B1REFFdldTTW4zMWZPQlBpNEZsVndXZG9rcE4xMmppM0ZqV3V0SlJENFhQT1lQOFF6Q3R30gFmQVVfeXFMTTNXbUZPMnY1bzF2Umc4MmZ4aHBCM2RZaUZoMDdoeXo2andsdi1EVS1YNzFLS05ZNTNfMGJMWUUwWE1mcXh2dlF6dTFhd1VDOGJKUDFVMXlJa2RtTDVwZkQ0V3kzQ2hn?oc=5",
+          "title": "구로구 주택가 시신 유기한 남성 2명 체포…빌라주인 등(종합) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OSWtwRFc1eUxrNlRRU1FMSGhuTFpPMDE5eExUZEJpTlBlcThveE8xTTBVUWZTR3gwSEMtblFncVdBVmFNNWRnM0pSS2tBV21nWGc4U010YzJxZzjSAWBBVV95cUxOWkdDS2FLNF90QlJpNmRrX3ZieDhrcUc0MzVydUhLYmZzT2pkN1ROTHdBRjVXem92Z1YwZi1XdEJxZUd5REJfTFZoZ2NsTDBqSGlrS2h1UjhoSllIMFJzdkM?oc=5",
           "source": "Google News",
-          "published": "Mon, 26 Oct 2026 19:30:00 GMT"
+          "published": "Tue, 27 Oct 2026 09:01:22 GMT"
         }
       ]
     },
     {
-      "word": "믿을",
+      "word": "2명",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "강신철 “北과 전쟁시 미군 믿을 수 있나” 전작권 전환 신중론 반박 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QOTFoWEYwUjgtcTZ3NjdDUzJlc0hNUWZDREczRzc3UFlfb2xVcmRTcS1DWC1lNm1VQzZqclgzZ1JOT1B1REFFdldTTW4zMWZPQlBpNEZsVndXZG9rcE4xMmppM0ZqV3V0SlJENFhQT1lQOFF6Q3R30gFmQVVfeXFMTTNXbUZPMnY1bzF2Umc4MmZ4aHBCM2RZaUZoMDdoeXo2andsdi1EVS1YNzFLS05ZNTNfMGJMWUUwWE1mcXh2dlF6dTFhd1VDOGJKUDFVMXlJa2RtTDVwZkQ0V3kzQ2hn?oc=5",
+          "title": "구로구 주택가 시신 유기한 남성 2명 체포…빌라주인 등(종합) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OSWtwRFc1eUxrNlRRU1FMSGhuTFpPMDE5eExUZEJpTlBlcThveE8xTTBVUWZTR3gwSEMtblFncVdBVmFNNWRnM0pSS2tBV21nWGc4U010YzJxZzjSAWBBVV95cUxOWkdDS2FLNF90QlJpNmRrX3ZieDhrcUc0MzVydUhLYmZzT2pkN1ROTHdBRjVXem92Z1YwZi1XdEJxZUd5REJfTFZoZ2NsTDBqSGlrS2h1UjhoSllIMFJzdkM?oc=5",
           "source": "Google News",
-          "published": "Mon, 26 Oct 2026 19:30:00 GMT"
+          "published": "Tue, 27 Oct 2026 09:01:22 GMT"
         }
       ]
     },
     {
-      "word": "있나",
+      "word": "체포빌라주인",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "강신철 “北과 전쟁시 미군 믿을 수 있나” 전작권 전환 신중론 반박 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QOTFoWEYwUjgtcTZ3NjdDUzJlc0hNUWZDREczRzc3UFlfb2xVcmRTcS1DWC1lNm1VQzZqclgzZ1JOT1B1REFFdldTTW4zMWZPQlBpNEZsVndXZG9rcE4xMmppM0ZqV3V0SlJENFhQT1lQOFF6Q3R30gFmQVVfeXFMTTNXbUZPMnY1bzF2Umc4MmZ4aHBCM2RZaUZoMDdoeXo2andsdi1EVS1YNzFLS05ZNTNfMGJMWUUwWE1mcXh2dlF6dTFhd1VDOGJKUDFVMXlJa2RtTDVwZkQ0V3kzQ2hn?oc=5",
+          "title": "구로구 주택가 시신 유기한 남성 2명 체포…빌라주인 등(종합) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OSWtwRFc1eUxrNlRRU1FMSGhuTFpPMDE5eExUZEJpTlBlcThveE8xTTBVUWZTR3gwSEMtblFncVdBVmFNNWRnM0pSS2tBV21nWGc4U010YzJxZzjSAWBBVV95cUxOWkdDS2FLNF90QlJpNmRrX3ZieDhrcUc0MzVydUhLYmZzT2pkN1ROTHdBRjVXem92Z1YwZi1XdEJxZUd5REJfTFZoZ2NsTDBqSGlrS2h1UjhoSllIMFJzdkM?oc=5",
           "source": "Google News",
-          "published": "Mon, 26 Oct 2026 19:30:00 GMT"
+          "published": "Tue, 27 Oct 2026 09:01:22 GMT"
         }
       ]
     },
     {
-      "word": "전작권",
+      "word": "등종합",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "강신철 “北과 전쟁시 미군 믿을 수 있나” 전작권 전환 신중론 반박 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QOTFoWEYwUjgtcTZ3NjdDUzJlc0hNUWZDREczRzc3UFlfb2xVcmRTcS1DWC1lNm1VQzZqclgzZ1JOT1B1REFFdldTTW4zMWZPQlBpNEZsVndXZG9rcE4xMmppM0ZqV3V0SlJENFhQT1lQOFF6Q3R30gFmQVVfeXFMTTNXbUZPMnY1bzF2Umc4MmZ4aHBCM2RZaUZoMDdoeXo2andsdi1EVS1YNzFLS05ZNTNfMGJMWUUwWE1mcXh2dlF6dTFhd1VDOGJKUDFVMXlJa2RtTDVwZkQ0V3kzQ2hn?oc=5",
+          "title": "구로구 주택가 시신 유기한 남성 2명 체포…빌라주인 등(종합) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OSWtwRFc1eUxrNlRRU1FMSGhuTFpPMDE5eExUZEJpTlBlcThveE8xTTBVUWZTR3gwSEMtblFncVdBVmFNNWRnM0pSS2tBV21nWGc4U010YzJxZzjSAWBBVV95cUxOWkdDS2FLNF90QlJpNmRrX3ZieDhrcUc0MzVydUhLYmZzT2pkN1ROTHdBRjVXem92Z1YwZi1XdEJxZUd5REJfTFZoZ2NsTDBqSGlrS2h1UjhoSllIMFJzdkM?oc=5",
           "source": "Google News",
-          "published": "Mon, 26 Oct 2026 19:30:00 GMT"
+          "published": "Tue, 27 Oct 2026 09:01:22 GMT"
         }
       ]
     },
     {
-      "word": "전환",
+      "word": "정동영",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "강신철 “北과 전쟁시 미군 믿을 수 있나” 전작권 전환 신중론 반박 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QOTFoWEYwUjgtcTZ3NjdDUzJlc0hNUWZDREczRzc3UFlfb2xVcmRTcS1DWC1lNm1VQzZqclgzZ1JOT1B1REFFdldTTW4zMWZPQlBpNEZsVndXZG9rcE4xMmppM0ZqV3V0SlJENFhQT1lQOFF6Q3R30gFmQVVfeXFMTTNXbUZPMnY1bzF2Umc4MmZ4aHBCM2RZaUZoMDdoeXo2andsdi1EVS1YNzFLS05ZNTNfMGJMWUUwWE1mcXh2dlF6dTFhd1VDOGJKUDFVMXlJa2RtTDVwZkQ0V3kzQ2hn?oc=5",
+          "title": "정동영 \"지뢰는 방어용 무기\"... 野 \"北 김여정에 또 빌미 제공\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdEN1aHRkM3ppTzJGUUMyakhid3luOEhSd05rRkQ0c1hveW9DcjJlTHFUeDRfRzZ6d2VwaVFkWDAyVW1Vd2UtRE9EV1VwLWVrNklvVzBQdlh2VW5VOENNUng0UVB1aEVNLURxem9uV1VBMFdQczA1TlM1RXJqSUYtemQzcjRmLWE4ZDhzWlpkbk4?oc=5",
           "source": "Google News",
-          "published": "Mon, 26 Oct 2026 19:30:00 GMT"
+          "published": "Tue, 27 Oct 2026 08:50:11 GMT"
         }
       ]
     },
     {
-      "word": "신중론",
+      "word": "지뢰",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "강신철 “北과 전쟁시 미군 믿을 수 있나” 전작권 전환 신중론 반박 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QOTFoWEYwUjgtcTZ3NjdDUzJlc0hNUWZDREczRzc3UFlfb2xVcmRTcS1DWC1lNm1VQzZqclgzZ1JOT1B1REFFdldTTW4zMWZPQlBpNEZsVndXZG9rcE4xMmppM0ZqV3V0SlJENFhQT1lQOFF6Q3R30gFmQVVfeXFMTTNXbUZPMnY1bzF2Umc4MmZ4aHBCM2RZaUZoMDdoeXo2andsdi1EVS1YNzFLS05ZNTNfMGJMWUUwWE1mcXh2dlF6dTFhd1VDOGJKUDFVMXlJa2RtTDVwZkQ0V3kzQ2hn?oc=5",
+          "title": "정동영 \"지뢰는 방어용 무기\"... 野 \"北 김여정에 또 빌미 제공\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdEN1aHRkM3ppTzJGUUMyakhid3luOEhSd05rRkQ0c1hveW9DcjJlTHFUeDRfRzZ6d2VwaVFkWDAyVW1Vd2UtRE9EV1VwLWVrNklvVzBQdlh2VW5VOENNUng0UVB1aEVNLURxem9uV1VBMFdQczA1TlM1RXJqSUYtemQzcjRmLWE4ZDhzWlpkbk4?oc=5",
           "source": "Google News",
-          "published": "Mon, 26 Oct 2026 19:30:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "반박",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "강신철 “北과 전쟁시 미군 믿을 수 있나” 전작권 전환 신중론 반박 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QOTFoWEYwUjgtcTZ3NjdDUzJlc0hNUWZDREczRzc3UFlfb2xVcmRTcS1DWC1lNm1VQzZqclgzZ1JOT1B1REFFdldTTW4zMWZPQlBpNEZsVndXZG9rcE4xMmppM0ZqV3V0SlJENFhQT1lQOFF6Q3R30gFmQVVfeXFMTTNXbUZPMnY1bzF2Umc4MmZ4aHBCM2RZaUZoMDdoeXo2andsdi1EVS1YNzFLS05ZNTNfMGJMWUUwWE1mcXh2dlF6dTFhd1VDOGJKUDFVMXlJa2RtTDVwZkQ0V3kzQ2hn?oc=5",
-          "source": "Google News",
-          "published": "Mon, 26 Oct 2026 19:30:00 GMT"
+          "published": "Tue, 27 Oct 2026 08:50:11 GMT"
         }
       ]
     }
