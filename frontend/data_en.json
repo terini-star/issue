@@ -1,225 +1,188 @@
 {
   "language": "en",
-  "last_updated": 1793135436.581581,
+  "last_updated": 1793149553.5073562,
   "count": 40,
   "trends": [
     {
-      "word": "Election",
-      "count": 4,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "No clear winner in Israeli election, exit polls show - CNN",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbWlOWFk3QUpOcHZXX1o3Q2pGWEwtSzlsdHp1X3Vwb1FRYkNScGhTVG5hSWc0LVRwaXhCYll3ei1VNlQwcmY4STlWeDdaeWJ5Wm1qaFFGMG5NdUt5Y3U5dFZKSW1UcmRrNjI1ZkNkcTJLSHRvckwtQVlabU1zRGRYNi11RnJtWTA1dVFKV0Y0TC1zMDhwNjJjT3JB?oc=5",
-          "source": "Google News",
-          "published": "Tue, 27 Oct 2026 20:58:00 GMT"
-        },
-        {
-          "title": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc1d5Y2x0MGFEQmNfNDJsaGNsX2ZYN0RJZVIwY2JDSWozeXk2ZXdMV0xwM0pMcnZZOU5OY1BNRzZ0R1J0eGNoUld4T0tKMXp6WV9qak9XTVhQZG1sUndMQUZfS0RXbUpKSTRtb0FWQVBNR09hT2FHWEFkcFV5dFFrMTlHRUt5MDJMbmNiRA?oc=5",
-          "source": "Google News",
-          "published": "Tue, 27 Oct 2026 16:24:00 GMT"
-        },
-        {
-          "title": "Trump takes campaign blitz to Texas with 7 days before Election Day - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdXBRY2NEdGhRN1NueVI3cDlPNHJFd2NMeFNDSUwwbnZNMHN3eGFKTzhpbk1FQV9keUJuY3NzT0FyMDdBRC04NG4wZ2F4UTAzMTFyLXNzV0VqT28zMlBjZldUY3JreWd0eVVweDhKRVNCZ1JjMUtZcldqQjFOLUlfeDRkQUVhSUhfRnNNVlJB?oc=5",
-          "source": "Google News",
-          "published": "Tue, 27 Oct 2026 18:30:16 GMT"
-        },
-        {
-          "title": "As Election Nears, Reports of an Increase in ICE Arrests Across California - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV0pzSnZtMkZuVmJody0zeHdkTVB0TTNKRUJBUWJfSVpHY1owMmVPOHRtSzRjbDcyZFNJWEw2YUg2ZGJMVWJUbEZ6VEZHTWloV0FCeFFDVEFBOE5fR2tKRXFHdnl2SWRkU0phTjNTX0VLdjBmV1lqbHdpR2lOYWNDQXlJOA?oc=5",
-          "source": "Google News",
-          "published": "Tue, 27 Oct 2026 18:16:49 GMT"
-        }
-      ]
-    },
-    {
       "word": "Trump",
-      "count": 4,
+      "count": 5,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump takes campaign blitz to Texas with 7 days before Election Day - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdXBRY2NEdGhRN1NueVI3cDlPNHJFd2NMeFNDSUwwbnZNMHN3eGFKTzhpbk1FQV9keUJuY3NzT0FyMDdBRC04NG4wZ2F4UTAzMTFyLXNzV0VqT28zMlBjZldUY3JreWd0eVVweDhKRVNCZ1JjMUtZcldqQjFOLUlfeDRkQUVhSUhfRnNNVlJB?oc=5",
+          "title": "Trump makes last-minute push to keep Texas in Republican hands with third trip - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYU9QN3kwR2JnU0lwVlhGZ0xxM0VaYVNFNWJwUk1lZlVVV0N0ZlhpLW91VGtXUGg2LUlfRDNxSy1YU1RPX3NOeElMYXJZME5odnZ0SHJfaFU3R3k3MXJ4Q19HLThBSHVTdUN2SkR3RDByWkpOSE1FRmVoNVZ3NE1xQ1JrXy0zM3NobTRGUEU0b3VvY3BUYXRGVGRrMXQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 18:30:16 GMT"
+          "published": "Tue, 27 Oct 2026 21:12:00 GMT"
         },
         {
-          "title": "Trump administration can block immigration judges from closing deportation cases - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQkRoOEw1UVdTNFEtMUE5SWtiUE1Oc3ZDX01Xdl9jZVlLTFhmNlBIUGdXMDdmMVJVVm9SSS1GVDJVbTk2bEptdmZoMVpaTUxHWEtHWDAzbG9BM2toV0xlV0l6eWdNMmpsWmpFS29FcS1wd2h5VW9EbVNvajJFYVN1XzFuRDBoamFtbmx2amlwODFxUEFqZGFVekJDWFFlNXVObnYwTUkySVJ5VEJ5Ti01UmpXMi1JSl9fclBoOGR5TXpNUlotenc?oc=5",
+          "title": "Grand jury declines to indict former Trump aide Cassidy Hutchinson, star witness of Jan. 6 committee, U.S. official says - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcmFCUjZwQlM4Wlg5ejB3UzI4djVIblAydzRnN1FsV1BVR2l5M0NrcUJLSm9WckYxMXZRZHNlQW45RUdQVWtSaGFXUlRWNGdTblh5dDRGY3pSa0VoLWE1ZDN0T2tLRWtCY0M4bF9rdjVTU29QNGJVRTRJSERySVlBZVp5b2gyaHNadnp5dzZWbzVaNm5oQnBxQ29tTHQ1WG44QWlsLWpZcWJ3Zk9pQlpsMlg0akttb1pCeUtCeklNUWhscHZtMHFKVk9YQ0g?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 19:58:35 GMT"
+          "published": "Tue, 27 Oct 2026 22:42:04 GMT"
         },
         {
-          "title": "Trump administration asks Washington state to hold more than 400 people’s ballots - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZ1NsRVp3dTdoc0J2ckFYVWlOb1duSUNtLWh5NXJnRmo3QmYxSnlpTzctVDkxSHlPZTZqNlBKUUItT2tTSzI3TzlUWm13RVNSUzRvYWVCTUt4YkVsWmRqUjNLVnZCVlppMDRzVEJZb3MyZDhRYk85SjJLbDF1TmxBVlpBR1ZuUl9nd2NFUWZyNmpYWkRjTWVLOTQzcWpLQmdtVmxDSGF0ZlpJM2JyV1I4YVZvZVM0X3p1VTF3LURpMnhGd1Vx?oc=5",
+          "title": "Trump continues calls for Venezuela to be 51st state - The Hill",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc2JGYkV5SVFWOWEzcVRDZ0hIejFaTFZtd1RMcjI2UmNBRnFiUjNVbVhfZDZEUWIzWTRITnVuVXA1WDJ5aGE2dEg2d1l5MkpuVkdON0NPU2Nhcjh3OVZhRWg2RFlCaHktZFJFRDA3eDFjRUQwQXV3R3NJWjNpSGpRVkR3c2HSAYoBQVVfeXFMT1lIcE5PZzBIbjNNUVRFRXVQaGV4Vm5PN2U4QXBuX0pTRmsxQXJzWkFCaE9WNWZKS0lDOWxmTUZjZ0dfQXptR0huTnE2OVhTd3pCUEpfYy13Qmdmejh3VzlXOXdHSTBNbXNfbW4yaXM5NllDV3NJdS13TXVvVWNxS01POUt6OUhrcU53?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 19:12:16 GMT"
+          "published": "Tue, 27 Oct 2026 20:52:12 GMT"
         },
         {
-          "title": "Pregnant Savannah Chrisley's new fiancé identified as Jason Galanis, Trump-pardoned fraudster with ties to Hunter Biden - Page Six",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRnl5ZG83SEJoNVJSZFE4YnhQYlVrZXNrWExSR1otWFFyWmFIRWhDeXJVZDBmVVRRWHpTdnl5bDdCZ1FOaTdiSzhNbm1aSU41MkZQVFhMaHB1aDl4dURWTzg5YlFxcmZ1ZEMwLUlDaFZicUpoX0VCM0dxSWZld2o3MktTU2JxcF9udVE4TDVvQWdRRWRxS3VGWTIzY0piajl6NFk4NzVyTGVETjJial9mSERNc3J3MG9zV09qb05oX2U3Ny1JZ0RUd0xlRC1EZk1IdVpyMnN2TDNwbG5zMmVzeDBaRXRsbV9UbXNCYXNHNzljaGpXNDJN?oc=5",
+          "title": "‘Shameful’: Alex Pretti parents accuse Trump officials of shielding son’s killers - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNanZSalV6M0hzRGlwOHRRYzREYmxEMW4tSTJjaXFsV0FDT24yb3NISzRqa2o5dkJ2U0x1bm44cVBRZVFVMzM1OTdTc2pjZEJuSEFNQUpxTWpxa2s1T29RY2lDeXBUdHlqV0ZCa1AyX1NUcmR0bE9MYmlfcFkwb2g4dDBaQ2poUQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 19:23:14 GMT"
+          "published": "Tue, 27 Oct 2026 23:58:00 GMT"
+        },
+        {
+          "title": "Republicans wanted Rubio on the stump. Trump coaxed him there. - Politico",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYkl6YnFMVUlIUWZLSEhYZWZpNzlKMmphZFM4VThEeVB3WWlma3kwZC1QcVVxUnlXaDhsSlFCOWd5Skw0SThOR1B2RTlZb2xEaTZOSWpsbzFnLXNuaU4tU2QxNVlaWEI5NTl4WlBRb2tJYTlqMDhKQ2VrOUNXT0VEWm9pNEtQazcxcUE?oc=5",
+          "source": "Google News",
+          "published": "Tue, 27 Oct 2026 22:50:00 GMT"
         }
       ]
     },
     {
-      "word": "Hold",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Norway and Finland leaders hold rare call with Putin - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuWm1OYWtDeFFLZ0JBTzN0bUdYWGVpUnc1aDBjTVZTSDIyTDJ3bzFPelE5X2ttdVlrYXpSQ3ZPQTU3OUt1WnU1Z004MElQR2lId0RQUXlTbXVnSkk?oc=5",
-          "source": "Google News",
-          "published": "Tue, 27 Oct 2026 18:28:23 GMT"
-        },
-        {
-          "title": "Trump administration asks Washington state to hold more than 400 people’s ballots - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZ1NsRVp3dTdoc0J2ckFYVWlOb1duSUNtLWh5NXJnRmo3QmYxSnlpTzctVDkxSHlPZTZqNlBKUUItT2tTSzI3TzlUWm13RVNSUzRvYWVCTUt4YkVsWmRqUjNLVnZCVlppMDRzVEJZb3MyZDhRYk85SjJLbDF1TmxBVlpBR1ZuUl9nd2NFUWZyNmpYWkRjTWVLOTQzcWpLQmdtVmxDSGF0ZlpJM2JyV1I4YVZvZVM0X3p1VTF3LURpMnhGd1Vx?oc=5",
-          "source": "Google News",
-          "published": "Tue, 27 Oct 2026 19:12:16 GMT"
-        },
-        {
-          "title": "Federal Reserve expected to hold interest rates steady in last decision before midterm elections - Fox Business",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSVIydWFYR0ZrclVBdXVnc1J0MkhqNHl1Z29oMkFPVkF4T2tzUndiR0UxX3hqblBsRFdQQkdGdUJkcnFncTFTanBIbThDM19DdGdSWDltQW9McFprYU1MYVhxM20wU1lDRG9QdURQcm44UU9DOXhOdF91b3pVNGphOHduaVFXWl9ESzlGaHRNQ3QtS2o4VW5hS1lNVEpEUmFSTl9XTWotU043QUt0VmR3NHFRZ2VPQdIBuwFBVV95cUxONHJ0LWVOekZ2amM5T1E5bTBYZDdvSGFJUHRHR3JjT0x5YUN1b19SMjFtYW1SZmJZOFpKTlJJYkdTMVNaNEVqRE9yYmQ1RF9Sckt1eXBJN1dpeDlxT2phZ21zY09BRktfbzZqY3h6T1FYU3NwemZEQm5MSDQySWpmbDJyM21nY05OanlTeEVLWEFHOEZsWjBMa3FMVEl2c0dQT3BTemFpOXllUnpVVEhyMXJxcVU5RjY2YlVN?oc=5",
-          "source": "Google News",
-          "published": "Tue, 27 Oct 2026 17:46:38 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Administration",
+      "word": "Neck",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump administration can block immigration judges from closing deportation cases - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQkRoOEw1UVdTNFEtMUE5SWtiUE1Oc3ZDX01Xdl9jZVlLTFhmNlBIUGdXMDdmMVJVVm9SSS1GVDJVbTk2bEptdmZoMVpaTUxHWEtHWDAzbG9BM2toV0xlV0l6eWdNMmpsWmpFS29FcS1wd2h5VW9EbVNvajJFYVN1XzFuRDBoamFtbmx2amlwODFxUEFqZGFVekJDWFFlNXVObnYwTUkySVJ5VEJ5Ti01UmpXMi1JSl9fclBoOGR5TXpNUlotenc?oc=5",
+          "title": "Israel election: Exit polls suggest no clear winner with Eisenkot's bloc neck and neck with Netanyahu - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wcDl2enJKdm5Dekg4bU9MWG9FQWF5LXk1N19XTGkySjBuMlBMdnZuTVlsaTNSYVVXRlgxU0EzYlZBekhJdU85U3diUFIzbU52andERlh3?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 19:58:35 GMT"
-        },
-        {
-          "title": "Trump administration asks Washington state to hold more than 400 people’s ballots - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZ1NsRVp3dTdoc0J2ckFYVWlOb1duSUNtLWh5NXJnRmo3QmYxSnlpTzctVDkxSHlPZTZqNlBKUUItT2tTSzI3TzlUWm13RVNSUzRvYWVCTUt4YkVsWmRqUjNLVnZCVlppMDRzVEJZb3MyZDhRYk85SjJLbDF1TmxBVlpBR1ZuUl9nd2NFUWZyNmpYWkRjTWVLOTQzcWpLQmdtVmxDSGF0ZlpJM2JyV1I4YVZvZVM0X3p1VTF3LURpMnhGd1Vx?oc=5",
-          "source": "Google News",
-          "published": "Tue, 27 Oct 2026 19:12:16 GMT"
+          "published": "Wed, 28 Oct 2026 00:56:50 GMT"
         }
       ]
     },
     {
-      "word": "Cases",
+      "word": "Third",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump administration can block immigration judges from closing deportation cases - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQkRoOEw1UVdTNFEtMUE5SWtiUE1Oc3ZDX01Xdl9jZVlLTFhmNlBIUGdXMDdmMVJVVm9SSS1GVDJVbTk2bEptdmZoMVpaTUxHWEtHWDAzbG9BM2toV0xlV0l6eWdNMmpsWmpFS29FcS1wd2h5VW9EbVNvajJFYVN1XzFuRDBoamFtbmx2amlwODFxUEFqZGFVekJDWFFlNXVObnYwTUkySVJ5VEJ5Ti01UmpXMi1JSl9fclBoOGR5TXpNUlotenc?oc=5",
+          "title": "Trump makes last-minute push to keep Texas in Republican hands with third trip - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYU9QN3kwR2JnU0lwVlhGZ0xxM0VaYVNFNWJwUk1lZlVVV0N0ZlhpLW91VGtXUGg2LUlfRDNxSy1YU1RPX3NOeElMYXJZME5odnZ0SHJfaFU3R3k3MXJ4Q19HLThBSHVTdUN2SkR3RDByWkpOSE1FRmVoNVZ3NE1xQ1JrXy0zM3NobTRGUEU0b3VvY3BUYXRGVGRrMXQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 19:58:35 GMT"
+          "published": "Tue, 27 Oct 2026 21:12:00 GMT"
         },
         {
-          "title": "Ebola cases in DR Congo surpass 10,000 in fastest-growing outbreak - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSDR6aXVmX1AtaDAtaWRXZlRzTkZCNzNuaUI5VXF5V1pTV19YYUowMkZ1QlcyT1FkOGthWG9qOTh5RHF4RnYzQ1VVWE5DYUhzZTBpc0I4ZmhwcHAwSFNkZHZIZ1Jxcnd4ejc2b0RPOFZyRVl3elM0VWo5NThKRGNMQUNacl9TcjBidzMzUnBEV0lCQXBLNnlZdU9aUEFobExoTVZ5ZEtaYUd3X03SAbABQVVfeXFMUDJ3aGp5UTdKZUxtcGdjelpHNGdsTnZFdHpHMGJHTzBzTkp4ay1ud0lCS0VTX05tcld0OW5obzg1QV95QmpRR1lOYk42Tzc0d1ZMMG8xOXRpSDFCTWtHRHlfb3BlNmJtWnFNMHVabXhYSkZ5WG4xMmljVUNrQ2EwdWt1LTdBMVhreEZSazZkN3VYWkV0THV6ZzZtV3Z4d1lfdU5wT2pWX1Z2MVROUmp5UVc?oc=5",
+          "title": "SK Hynix third-quarter profit sharply beats estimates on AI memory boost - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WSGlVV0ltbDV1RHZFQld6QTVzelBPSFJ2YWl0ZG9kcVJtZ2xzVzl3Vlh4SmRfWUdmMkJSYmY1U21rS2tXdkZmOFNnYkRLWDViX0cyNEhVMnFzVHhGeklNbkhhQUNrbDVYNnNWWDBoUnFLVFQ10gF6QVVfeXFMTmhMRnVyVFhXRjdRbGtZT1dkVzZJVzVMNzN0VjNMNzVEZy1YYXZuQi1SOWVhLUx4OG5iS3UyLVM5OXZHZnRqcDluWGRoTkZvVl82WTk5VzVFZ2V1RXAySGZGdmhGUXo2Z1hYVklPUDBNbDV0VzBPQWlZZXc?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 12:43:55 GMT"
+          "published": "Tue, 27 Oct 2026 23:34:59 GMT"
         }
       ]
     },
     {
-      "word": "ICE",
+      "word": "Women",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Parents of nurse killed by ICE demand DOJ release evidence of fatal shooting - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUVRKN1FUSVpaM0ltVDgyTmZpQTVKU3RINHRKbDg1YnZTdXhLdHFfWS1RTFMtVEh0Ml93am1QOW1oVDA3dl9FYWpiNTAxUVl5UlpZN1FvZG1FTm8xQ2I5VDItVVRobWNFQUNBZ3V0b0VtZ0VmZ0pfMTkySE1NR2dMZ2poc3ZIU2N6SlhfWTlNeWZZdU1mZ3pYVHd6Y1pLVjRIX0JMSTV3WVRraXlPRTdXUUFXWGNWUQ?oc=5",
+          "title": "Alexander brothers each sentenced to 30 years for drugging and raping dozens of women - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQODg4aWVKQlZWS0hHLS1PUXh3OURWR0hFcFJmQVduZy1uMUh3TVNvaE9POWFvbXpMQlZ5RkpZZE5DNXhYbjZ5ZUU3VHNfT0NfbGFXUUhwZm9MWEdRQ2ZpdGxFU0JtZ1l5Sy1wblJRcWtoajM0eWxiVjdUcTlDUDFxOFdPQk9JWG80OFlxQUkzYWVSWmdwRlM0RzVWdk92Zw?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 19:24:29 GMT"
+          "published": "Tue, 27 Oct 2026 20:46:43 GMT"
         },
         {
-          "title": "As Election Nears, Reports of an Increase in ICE Arrests Across California - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV0pzSnZtMkZuVmJody0zeHdkTVB0TTNKRUJBUWJfSVpHY1owMmVPOHRtSzRjbDcyZFNJWEw2YUg2ZGJMVWJUbEZ6VEZHTWloV0FCeFFDVEFBOE5fR2tKRXFHdnl2SWRkU0phTjNTX0VLdjBmV1lqbHdpR2lOYWNDQXlJOA?oc=5",
+          "title": "More women are dying from heart disease. New guidelines for doctors aim to change that. - NBC 5 Dallas-Fort Worth",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbUFlN3hHa3VwSDZQd3pULVBVVWoxbEVnQ1ZsS1lPZlUwVThmZ2dRR0pSaENjbFZzcTZWMnllakMwQkV4NkhnUk44alh6alpZclhUdmdkV095SnlUckFrXzhuLUJUQTRvS1J3bTZiemJiT1E4ZnVlaUttYXBxTXBNMEpNZ2xNNmU4X01qeUVVdEZiYVRVYnZfZ0FB0gGiAUFVX3lxTFAzOHJGRFMyN2JIaXl3cnRSaXdOSmJlVE85NThPcVRaOV9uOUd2OWx0NFk4aTZScEN2VjlGenRwS3EzZ3N1WVJVV081M1hNOVJUcFlGTFpvaF9aNVREdHFIQzZUc0VCbDU1VXRoTnpZNlVpTVVWQ09YVWtTdFZPYTdLaVJlckZrM2o3cmtjTlZ4ZkN5dW1aX3hoOHJjZlFjcHN2Zw?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 18:16:49 GMT"
+          "published": "Mon, 26 Oct 2026 16:54:54 GMT"
         }
       ]
     },
     {
-      "word": "Video",
+      "word": "Calls",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "VIDEO: Mom arrested at airport after leaving 4 kids home alone during Las Vegas trip, Osceola County deputies say - WKMG",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPNWEtdExoektLM2hRZ2tMZEQ5T0tJQnU3dElYVXA2TUxJUWJqejVrSkE3T3p4aUs4aWhCV3hlLTZQUnhZUThydEd0WkNoeGNVY0YzS004RUVZX1dTR2lnWTNEU3dQRVpoaEk2MXZlRzBCMURqLVJPbHRGb1dITzNKdUZFckZOa0FsR0NiSzI0SzN1VE1teW13UnJIVkFFRUdjZVVZelk3WkZxdUZjVXpUS28xRWxCejZ0cmU1TXc0cHhRNmt0S2hsb1ItSXBMTmI1ZkpUVGY0R0ZqbnRsY1NPUlRIZTZrTGJSWURzb0RWbWVXZ2VXVDl3XzNISVk?oc=5",
+          "title": "Trump continues calls for Venezuela to be 51st state - The Hill",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc2JGYkV5SVFWOWEzcVRDZ0hIejFaTFZtd1RMcjI2UmNBRnFiUjNVbVhfZDZEUWIzWTRITnVuVXA1WDJ5aGE2dEg2d1l5MkpuVkdON0NPU2Nhcjh3OVZhRWg2RFlCaHktZFJFRDA3eDFjRUQwQXV3R3NJWjNpSGpRVkR3c2HSAYoBQVVfeXFMT1lIcE5PZzBIbjNNUVRFRXVQaGV4Vm5PN2U4QXBuX0pTRmsxQXJzWkFCaE9WNWZKS0lDOWxmTUZjZ0dfQXptR0huTnE2OVhTd3pCUEpfYy13Qmdmejh3VzlXOXdHSTBNbXNfbW4yaXM5NllDV3NJdS13TXVvVWNxS01POUt6OUhrcU53?oc=5",
           "source": "Google News",
-          "published": "Mon, 26 Oct 2026 19:38:25 GMT"
+          "published": "Tue, 27 Oct 2026 20:52:12 GMT"
         },
         {
-          "title": "Vivo's X500 Pro Max Is Another Camera-Focused Smartphone With More Video Tricks - Engadget",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rWG9fUXM2RC1ncHpSVXNnRF9qQ3YxR3JVcWYtcXFqcjd6N1R6RmVtZ1JCNmFFMHg3emhTd054cHRuZGtZMExhdENUeHM5NnltMGxxY0pPclpyeENrRTExOFVfbFFLazdIXzJ5WWlR?oc=5",
+          "title": "'DWTS' Judge Carrie Ann Inaba Speaks Out After Val Chmerkovskiy Suspension & Calls For \"New Lift Rule\" - Deadline",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVXJfT2dxTEt0bkx6aDBKcmxUM09xYmNUb09TYTI5MzJsaUlLNDkzSkhtZ1hmZGlEMnc1NFFrRi05WjdDVjV4WTZmbnZiQ3pwcWlBRVJORWtaZFdtUHFCeGNMQXlpQXhkQnd6SklRZVNNak1jZ1FhS3d3UHBxMi1Sck1fcnBSMHJqWk1mVl9nV2ZLQWM3?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 15:30:00 GMT"
+          "published": "Tue, 27 Oct 2026 22:06:00 GMT"
         }
       ]
     },
     {
-      "word": "Arrested",
+      "word": "Become",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "VIDEO: Mom arrested at airport after leaving 4 kids home alone during Las Vegas trip, Osceola County deputies say - WKMG",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPNWEtdExoektLM2hRZ2tMZEQ5T0tJQnU3dElYVXA2TUxJUWJqejVrSkE3T3p4aUs4aWhCV3hlLTZQUnhZUThydEd0WkNoeGNVY0YzS004RUVZX1dTR2lnWTNEU3dQRVpoaEk2MXZlRzBCMURqLVJPbHRGb1dITzNKdUZFckZOa0FsR0NiSzI0SzN1VE1teW13UnJIVkFFRUdjZVVZelk3WkZxdUZjVXpUS28xRWxCejZ0cmU1TXc0cHhRNmt0S2hsb1ItSXBMTmI1ZkpUVGY0R0ZqbnRsY1NPUlRIZTZrTGJSWURzb0RWbWVXZ2VXVDl3XzNISVk?oc=5",
+          "title": "Nithya Raman Is Not L.A.’s Mamdani. But She Might Become Mayor, Too. - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd2Vtc0poVWd4YjBuQmtYS3RIdVJMSE1pTVJ4WWFXT1N3Zmc2R2dTOG1mM3J6NGhBd3BJRWU0aFFjcWZaTm96dUxXV0RwMENWQi1xd1Q1OEZKNTBaWjNPbEJGVHd4QVU4ZnNFV3l2WktTbl9lWV9QVlFod0VLZE5uWHl6YjlaeWswNGpWS3ZMZXh4OVhLRWxlbV9sTUtsNTctcE9DMXJR?oc=5",
           "source": "Google News",
-          "published": "Mon, 26 Oct 2026 19:38:25 GMT"
+          "published": "Tue, 27 Oct 2026 17:09:02 GMT"
         },
         {
-          "title": "U.K. charges 2 men arrested over alleged Iran-linked terror plot against RAF Fairford air base used by U.S. - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV0dQUDhlWDhqSEQyU2VkMFBiQjFTMTM3ZFVKcUFSWUR5cXFBa09ORlRZUGFWelJ3SnZYTkFPc3BhaEtPeXZ2cW4tUzBmYUR1N3UyNXhFTmc5NUZLSk9MYldLOE1ZYndLdnc0UVNmWHcwd0tGYk16OWEtMS1vdjVNM05qaENNZkZyc05Md044aE80STRTZlZjckRB?oc=5",
+          "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity - Ars Technica",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUTNLaEZxN01qbHhiZ3NjYWN0WHU2MmJ3Y1hWT1JHUVIyaUJCTkMxZjI2Zk05bmFLbzJxbDBSVTU2dEtobjlOdHE2VU5uQnpJVW9fMTVrUjZYc21WVUlDcEw3dHVoQ2FPQXkwYXlfajZZeDY1aWlZRlFnVG1JMFV2Z0twN3VvSlp1Um1LTzFQTXBad05iUV83dWo1Z3l3blJsd1RQRW5SS29QTXlmU0VUS212S08?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 10:51:50 GMT"
+          "published": "Tue, 27 Oct 2026 21:31:14 GMT"
         }
       ]
     },
     {
-      "word": "California",
+      "word": "end",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "As Election Nears, Reports of an Increase in ICE Arrests Across California - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV0pzSnZtMkZuVmJody0zeHdkTVB0TTNKRUJBUWJfSVpHY1owMmVPOHRtSzRjbDcyZFNJWEw2YUg2ZGJMVWJUbEZ6VEZHTWloV0FCeFFDVEFBOE5fR2tKRXFHdnl2SWRkU0phTjNTX0VLdjBmV1lqbHdpR2lOYWNDQXlJOA?oc=5",
+          "title": "Two Nordic leaders urge Putin to end Ukraine war in rare direct contact by Europeans - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR2g4YXlhMGFuazRpZ0pOWmZpaFBZWGpCNWMzb3JOQkFMWjFVQ1c3bVo4MjJGZDZPS1h5Z3FUMUxEZllDODNtd2NkSWRUQ1hZNzR5X19OVVphRlEyZTYzb3dqclBOd0hrNXRPLVdWZ1M3YzF4TUtJSWhXZjgteXZuM2pfTTR1b1h5UGJiNW5NV2xDbFhzcDdXTDRlaWlpbnZCaXgyNU9wSzZ5UDhmalJtUXhR?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 18:16:49 GMT"
+          "published": "Tue, 27 Oct 2026 22:59:03 GMT"
         },
         {
-          "title": "In California's Night Sky, 'Blinding' Daylight - Newser",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ1IwMmVmNk5jR1VyNEZhQnFlVnNfYVJXMnlLQXpNeUpienRmUWlhU1pNaVdGaVhuR0dPMktIT2Q2LVVqc1hVeVlUSC1YZmFHTXFnRHR4WFoyenpEWklaUlE3NXpQMTNXOUJWaml3SV8yckpkLXRvZy1IZzRjSmJ0dFFpTHZKUkJ5SXc?oc=5",
+          "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity - Ars Technica",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUTNLaEZxN01qbHhiZ3NjYWN0WHU2MmJ3Y1hWT1JHUVIyaUJCTkMxZjI2Zk05bmFLbzJxbDBSVTU2dEtobjlOdHE2VU5uQnpJVW9fMTVrUjZYc21WVUlDcEw3dHVoQ2FPQXkwYXlfajZZeDY1aWlZRlFnVG1JMFV2Z0twN3VvSlp1Um1LTzFQTXBad05iUV83dWo1Z3l3blJsd1RQRW5SS29QTXlmU0VUS212S08?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 13:49:00 GMT"
+          "published": "Tue, 27 Oct 2026 21:31:14 GMT"
         }
       ]
     },
     {
-      "word": "Apple",
+      "word": "Rare",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Apple unveils new 14-inch MacBook Pro with M6 chip - TechCrunch",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV3NvSWI3cjhYTVBaZndZUnBOc1oyYUxfZXFNS1NOMV9BQS1CTE5yaWVtWGljeWRIRmtRWXBFYnM4QlhIMkRaUEQzZG05b19fX3JzRmxjUmQ0NDQxakREZDNCSDBqTmI2VXFkQjBGSGxXbkRfN3pCeFVkOHhlZnMxdUU1eF9Tb0NmYVdVTlZ3?oc=5",
+          "title": "Two Nordic leaders urge Putin to end Ukraine war in rare direct contact by Europeans - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR2g4YXlhMGFuazRpZ0pOWmZpaFBZWGpCNWMzb3JOQkFMWjFVQ1c3bVo4MjJGZDZPS1h5Z3FUMUxEZllDODNtd2NkSWRUQ1hZNzR5X19OVVphRlEyZTYzb3dqclBOd0hrNXRPLVdWZ1M3YzF4TUtJSWhXZjgteXZuM2pfTTR1b1h5UGJiNW5NV2xDbFhzcDdXTDRlaWlpbnZCaXgyNU9wSzZ5UDhmalJtUXhR?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 14:25:11 GMT"
+          "published": "Tue, 27 Oct 2026 22:59:03 GMT"
         },
         {
-          "title": "Apple's New iPhone Duo Breaks After 75,000 Folds in Real-Life Test - Gizmodo",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWThmbDk0MzVWeWZ3ZnRZM2N4UlE4Ylluc2NJZ25tdlZkb3BVanFfT05KNDVOZ0VuQ0daR00wbVcxSUs3MGVWempfRWhTMkVFT3pheExaSVlJV1VERzktc2ZsTk5xcVlpb2k5SXN6MHhyLVdmOEYwbkVJX2FTRTBaWlRkTzRrcjR3eTlz?oc=5",
+          "title": "Rare Nanotyrannus skeleton sells for $47.3m at New York auction - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeXlWdGswTVFjRldzVUpmbGdYSnVHOGh2b2R0YTZLUWliMzlHRFRkcnktZkhGeWlLVUNTT3dEbEhUSEpKRXExM2RPT05GWXNjOE9zTVB1LUZmbHEyRmM5aWJMNlZ4TmpIWXctdG9kS0gxOURZWWRjLUdtOEkzOXBxRl9YSFhFRXk0MWNEaklrb1d3OS1USXlaOA?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 15:15:06 GMT"
+          "published": "Tue, 27 Oct 2026 21:16:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Warns",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity - Ars Technica",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUTNLaEZxN01qbHhiZ3NjYWN0WHU2MmJ3Y1hWT1JHUVIyaUJCTkMxZjI2Zk05bmFLbzJxbDBSVTU2dEtobjlOdHE2VU5uQnpJVW9fMTVrUjZYc21WVUlDcEw3dHVoQ2FPQXkwYXlfajZZeDY1aWlZRlFnVG1JMFV2Z0twN3VvSlp1Um1LTzFQTXBad05iUV83dWo1Z3l3blJsd1RQRW5SS29QTXlmU0VUS212S08?oc=5",
+          "source": "Google News",
+          "published": "Tue, 27 Oct 2026 21:31:14 GMT"
+        },
+        {
+          "title": "CDC warns of rising threat of drug-resistant germs, which kill 50,000 people per year - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTHZYNU9yaFplM3NIaV81dXBQUVRuUGJRREtHbWZYYkVhakk2UUo1UEhkWVZlR0dXZk9CT1RxeVVMRkRqTlE3Y3FCNnJiNVJGZnZ2OXpfVWhoSzN6dzN3Z01SQkhuemEzTldXVVk0YXdkOHk2cGx4Ry1ZSnVsd1lDWEpqQ041ZWNnODZiSy1ZWVZFOS1paFE?oc=5",
+          "source": "Google News",
+          "published": "Tue, 27 Oct 2026 17:42:11 GMT"
         }
       ]
     },
@@ -229,10 +192,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Apple unveils new 14-inch MacBook Pro with M6 chip - TechCrunch",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV3NvSWI3cjhYTVBaZndZUnBOc1oyYUxfZXFNS1NOMV9BQS1CTE5yaWVtWGljeWRIRmtRWXBFYnM4QlhIMkRaUEQzZG05b19fX3JzRmxjUmQ0NDQxakREZDNCSDBqTmI2VXFkQjBGSGxXbkRfN3pCeFVkOHhlZnMxdUU1eF9Tb0NmYVdVTlZ3?oc=5",
+          "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip - Ars Technica",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN0tDN05WTnZhc3hqQlUyZnRKYVdzZnBsSmFoQ3JFa0VZNEw4TWZoaC1XYmZZRFVpWlZKRUVmdkhjSDFBaUZZZllGN2cyQzh0RW1BcTV1MTlBTU5abklTS0hCRHhyN0FCWDJkVS10blNRM2lONXNUOFJPcnduLVdIRGZyN292VnlLT0hIWkpSbzNJN19GcU5lUkR1X0R3RzFXZnJPcHozaw?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 14:25:11 GMT"
+          "published": "Tue, 27 Oct 2026 22:37:30 GMT"
         },
         {
           "title": "Vivo's X500 Pro Max Is Another Camera-Focused Smartphone With More Video Tricks - Engadget",
@@ -243,34 +206,21 @@
       ]
     },
     {
-      "word": "Assault",
+      "word": "Super",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Russell Brand Trial: Judge Drops Indecent Assault Charge, Replaces It With Attempted Assault Count - Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONnI4TE9wcUVHa3U1SzNZREw3bVZMM1l4aldmUFJBX0hzUkNoeGlKeWFHd1E3ZEMtdWtXTU5zWjVmaEdZZmMwdGdWUXZsZDRHVmplUGhQalZ1UkF1NTNvUHo0MDNDS2pFMzBndF9YMDhJREtZOFBmczk5cGNGaTd3Uko3clJvVnpIVmdhV3U3U1k5Z05ZUjNkNXYxa1ZHVzk0Rk1r?oc=5",
+          "title": "The Super Mouse puts a touchscreen macro pad under your hand - The Verge",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVkh4VC1KRTc0cDk1WFBMb0tpSGtUVU9JRXdCTlEzNEcycVdKbHBHc1JXaVZDS3pJUTVRZndYaUh4VzZLMHdLWkpVbHJ5WUVnZTEzaEh1bDZTV3BGMk5tZXB6ekxpaUV1QndRSEdaMDg5QVh2eUxzVzNTd0VyMi1WcXJ1Q3UyOUZXaHp6Mk9VSmdzLTFT?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 16:18:57 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Dinosaur",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Nanotyrannus: Dinosaur skeleton sells for $47.3m in New York auction - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TUENXTjRCa1I2MXRmUWxHbGw1WDItX3gwcXd4WWNaeVdNLWd0MElERGNYemNLVVc3YmxpUVJDemhXYnlpNHF4aHdWT0s4aUNwZDR2MTN2UGlfR1U?oc=5",
-          "source": "Google News",
-          "published": "Tue, 27 Oct 2026 17:10:15 GMT"
+          "published": "Tue, 27 Oct 2026 17:00:00 GMT"
         },
         {
-          "title": "Fossils from brickworks reveal new dinosaur species that roamed England's wetlands 125 million years ago - Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNFp1ek02WnFoMWJpa3R1TkdNMklab1VhRFowdGVubl94OUdnVUVoQkxORlN3ejRseWFraUtURnNRaG1IZWM0VDF1bTJ1Znk0WHluY0FqMzRPNFBPMG92VDItWmRKbVFGLTdGWHdsSGhqcmFDWkpFLVRJaVA4b1FTVmdBSQ?oc=5",
+          "title": "Jay-Z picks himself to headline the Super Bowl halftime show at SoFi Stadium in Southern California - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaEtiSHNjSXZUdTdNVm5pNE0wdEJoZ1d3eURQd3AzbTVDYnVlNEVmUDhwOWZrWHdiUXN0dnViSjZ1Y2FIR0ZUYTUwTnMwRElMMkwzWmE0ZTA2dXR0aXFQQ3pmZmtXTl85LXlRTUFiSmJzVDQyN2pIaVZCRFowZzU0VU1vU3Q5Z1dPNmc5amxQTTZqbHoy?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 00:10:02 GMT"
+          "published": "Tue, 27 Oct 2026 17:08:00 GMT"
         }
       ]
     },
@@ -313,60 +263,28 @@
       ]
     },
     {
-      "word": "flu",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "A mutated virus is driving the US into an early flu season, especially on the West Coast - CNN",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vSE9VbTI5U0NaZXkwMllWUnhwNFRHQW9rSWhjUms4WWJUWG4tdVBGa3BtcUxCUEUwZ0pIbk9TZDY1MHhiekw2bFJKSGs3WjEwVDZZU1FXaEhIS2V1OVphVDFVWU41dw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 22 Oct 2026 10:00:16 GMT"
-        },
-        {
-          "title": "Bird flu found in Central WA dairy herd; officials warn against raw milk - The Seattle Times",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNanUtYzdQdUxBQ3c4Wjd5dExQcjZRS0ZvVlE2a2lVcGZnTm9SVXluQ3hnT2VCR240RHJUYUI4bDhkc3VnRG9zWC1UNUM4ZmlwaG9zbmlxcTQwOHVrZGF0amNQOHN2Z0YteEE1djE1ZVM4UVJ2UGNUMkpBNVMzY2FMQXdSVEdJRnVQSmZSQWVjZlV6XzIwaFB2RTVPdzR3dDVzMjZxSzFQb3VKZE14RVYtWG5TOHBZUVRYOTU2MlB3?oc=5",
-          "source": "Google News",
-          "published": "Tue, 27 Oct 2026 14:04:55 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Clear",
+      "word": "Israel",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "No clear winner in Israeli election, exit polls show - CNN",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbWlOWFk3QUpOcHZXX1o3Q2pGWEwtSzlsdHp1X3Vwb1FRYkNScGhTVG5hSWc0LVRwaXhCYll3ei1VNlQwcmY4STlWeDdaeWJ5Wm1qaFFGMG5NdUt5Y3U5dFZKSW1UcmRrNjI1ZkNkcTJLSHRvckwtQVlabU1zRGRYNi11RnJtWTA1dVFKV0Y0TC1zMDhwNjJjT3JB?oc=5",
+          "title": "Israel election: Exit polls suggest no clear winner with Eisenkot's bloc neck and neck with Netanyahu - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wcDl2enJKdm5Dekg4bU9MWG9FQWF5LXk1N19XTGkySjBuMlBMdnZuTVlsaTNSYVVXRlgxU0EzYlZBekhJdU85U3diUFIzbU52andERlh3?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 20:58:00 GMT"
+          "published": "Wed, 28 Oct 2026 00:56:50 GMT"
         }
       ]
     },
     {
-      "word": "Winner",
+      "word": "Election",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "No clear winner in Israeli election, exit polls show - CNN",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbWlOWFk3QUpOcHZXX1o3Q2pGWEwtSzlsdHp1X3Vwb1FRYkNScGhTVG5hSWc0LVRwaXhCYll3ei1VNlQwcmY4STlWeDdaeWJ5Wm1qaFFGMG5NdUt5Y3U5dFZKSW1UcmRrNjI1ZkNkcTJLSHRvckwtQVlabU1zRGRYNi11RnJtWTA1dVFKV0Y0TC1zMDhwNjJjT3JB?oc=5",
+          "title": "Israel election: Exit polls suggest no clear winner with Eisenkot's bloc neck and neck with Netanyahu - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wcDl2enJKdm5Dekg4bU9MWG9FQWF5LXk1N19XTGkySjBuMlBMdnZuTVlsaTNSYVVXRlgxU0EzYlZBekhJdU85U3diUFIzbU52andERlh3?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 20:58:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Israeli",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "No clear winner in Israeli election, exit polls show - CNN",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbWlOWFk3QUpOcHZXX1o3Q2pGWEwtSzlsdHp1X3Vwb1FRYkNScGhTVG5hSWc0LVRwaXhCYll3ei1VNlQwcmY4STlWeDdaeWJ5Wm1qaFFGMG5NdUt5Y3U5dFZKSW1UcmRrNjI1ZkNkcTJLSHRvckwtQVlabU1zRGRYNi11RnJtWTA1dVFKV0Y0TC1zMDhwNjJjT3JB?oc=5",
-          "source": "Google News",
-          "published": "Tue, 27 Oct 2026 20:58:00 GMT"
+          "published": "Wed, 28 Oct 2026 00:56:50 GMT"
         }
       ]
     },
@@ -376,10 +294,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "No clear winner in Israeli election, exit polls show - CNN",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbWlOWFk3QUpOcHZXX1o3Q2pGWEwtSzlsdHp1X3Vwb1FRYkNScGhTVG5hSWc0LVRwaXhCYll3ei1VNlQwcmY4STlWeDdaeWJ5Wm1qaFFGMG5NdUt5Y3U5dFZKSW1UcmRrNjI1ZkNkcTJLSHRvckwtQVlabU1zRGRYNi11RnJtWTA1dVFKV0Y0TC1zMDhwNjJjT3JB?oc=5",
+          "title": "Israel election: Exit polls suggest no clear winner with Eisenkot's bloc neck and neck with Netanyahu - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wcDl2enJKdm5Dekg4bU9MWG9FQWF5LXk1N19XTGkySjBuMlBMdnZuTVlsaTNSYVVXRlgxU0EzYlZBekhJdU85U3diUFIzbU52andERlh3?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 20:58:00 GMT"
+          "published": "Wed, 28 Oct 2026 00:56:50 GMT"
         }
       ]
     },
@@ -389,10 +307,114 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "No clear winner in Israeli election, exit polls show - CNN",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbWlOWFk3QUpOcHZXX1o3Q2pGWEwtSzlsdHp1X3Vwb1FRYkNScGhTVG5hSWc0LVRwaXhCYll3ei1VNlQwcmY4STlWeDdaeWJ5Wm1qaFFGMG5NdUt5Y3U5dFZKSW1UcmRrNjI1ZkNkcTJLSHRvckwtQVlabU1zRGRYNi11RnJtWTA1dVFKV0Y0TC1zMDhwNjJjT3JB?oc=5",
+          "title": "Israel election: Exit polls suggest no clear winner with Eisenkot's bloc neck and neck with Netanyahu - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wcDl2enJKdm5Dekg4bU9MWG9FQWF5LXk1N19XTGkySjBuMlBMdnZuTVlsaTNSYVVXRlgxU0EzYlZBekhJdU85U3diUFIzbU52andERlh3?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 20:58:00 GMT"
+          "published": "Wed, 28 Oct 2026 00:56:50 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Suggest",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Israel election: Exit polls suggest no clear winner with Eisenkot's bloc neck and neck with Netanyahu - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wcDl2enJKdm5Dekg4bU9MWG9FQWF5LXk1N19XTGkySjBuMlBMdnZuTVlsaTNSYVVXRlgxU0EzYlZBekhJdU85U3diUFIzbU52andERlh3?oc=5",
+          "source": "Google News",
+          "published": "Wed, 28 Oct 2026 00:56:50 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Clear",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Israel election: Exit polls suggest no clear winner with Eisenkot's bloc neck and neck with Netanyahu - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wcDl2enJKdm5Dekg4bU9MWG9FQWF5LXk1N19XTGkySjBuMlBMdnZuTVlsaTNSYVVXRlgxU0EzYlZBekhJdU85U3diUFIzbU52andERlh3?oc=5",
+          "source": "Google News",
+          "published": "Wed, 28 Oct 2026 00:56:50 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Winner",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Israel election: Exit polls suggest no clear winner with Eisenkot's bloc neck and neck with Netanyahu - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wcDl2enJKdm5Dekg4bU9MWG9FQWF5LXk1N19XTGkySjBuMlBMdnZuTVlsaTNSYVVXRlgxU0EzYlZBekhJdU85U3diUFIzbU52andERlh3?oc=5",
+          "source": "Google News",
+          "published": "Wed, 28 Oct 2026 00:56:50 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Eisenkot",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Israel election: Exit polls suggest no clear winner with Eisenkot's bloc neck and neck with Netanyahu - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wcDl2enJKdm5Dekg4bU9MWG9FQWF5LXk1N19XTGkySjBuMlBMdnZuTVlsaTNSYVVXRlgxU0EzYlZBekhJdU85U3diUFIzbU52andERlh3?oc=5",
+          "source": "Google News",
+          "published": "Wed, 28 Oct 2026 00:56:50 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Bloc",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Israel election: Exit polls suggest no clear winner with Eisenkot's bloc neck and neck with Netanyahu - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wcDl2enJKdm5Dekg4bU9MWG9FQWF5LXk1N19XTGkySjBuMlBMdnZuTVlsaTNSYVVXRlgxU0EzYlZBekhJdU85U3diUFIzbU52andERlh3?oc=5",
+          "source": "Google News",
+          "published": "Wed, 28 Oct 2026 00:56:50 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Netanyahu",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Israel election: Exit polls suggest no clear winner with Eisenkot's bloc neck and neck with Netanyahu - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wcDl2enJKdm5Dekg4bU9MWG9FQWF5LXk1N19XTGkySjBuMlBMdnZuTVlsaTNSYVVXRlgxU0EzYlZBekhJdU85U3diUFIzbU52andERlh3?oc=5",
+          "source": "Google News",
+          "published": "Wed, 28 Oct 2026 00:56:50 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Granting",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "U.S. granting visas to Flávio Bolsonaro and family - Axios",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVW80M1R1RVVBejlYZnlYRHlVdElxSk82aldnckZHUVJCOXBIemEwbXRXaDhHWkpLVUxyeVhyajc2V2RsVEVCbVYtZlF2Y1ZrOHdiQnVuTnI1azFVTjRWMkJfaUI1emVLVGM2ZEhnNHRSeTRWYThieVhfcWJkdFVhUEhtU2dicmsw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 27 Oct 2026 22:41:18 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Visas",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "U.S. granting visas to Flávio Bolsonaro and family - Axios",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVW80M1R1RVVBejlYZnlYRHlVdElxSk82aldnckZHUVJCOXBIemEwbXRXaDhHWkpLVUxyeVhyajc2V2RsVEVCbVYtZlF2Y1ZrOHdiQnVuTnI1azFVTjRWMkJfaUI1emVLVGM2ZEhnNHRSeTRWYThieVhfcWJkdFVhUEhtU2dicmsw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 27 Oct 2026 22:41:18 GMT"
         }
       ]
     },
@@ -402,88 +424,75 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc1d5Y2x0MGFEQmNfNDJsaGNsX2ZYN0RJZVIwY2JDSWozeXk2ZXdMV0xwM0pMcnZZOU5OY1BNRzZ0R1J0eGNoUld4T0tKMXp6WV9qak9XTVhQZG1sUndMQUZfS0RXbUpKSTRtb0FWQVBNR09hT2FHWEFkcFV5dFFrMTlHRUt5MDJMbmNiRA?oc=5",
+          "title": "U.S. granting visas to Flávio Bolsonaro and family - Axios",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVW80M1R1RVVBejlYZnlYRHlVdElxSk82aldnckZHUVJCOXBIemEwbXRXaDhHWkpLVUxyeVhyajc2V2RsVEVCbVYtZlF2Y1ZrOHdiQnVuTnI1azFVTjRWMkJfaUI1emVLVGM2ZEhnNHRSeTRWYThieVhfcWJkdFVhUEhtU2dicmsw?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 16:24:00 GMT"
+          "published": "Tue, 27 Oct 2026 22:41:18 GMT"
         }
       ]
     },
     {
-      "word": "Flees",
+      "word": "Family",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc1d5Y2x0MGFEQmNfNDJsaGNsX2ZYN0RJZVIwY2JDSWozeXk2ZXdMV0xwM0pMcnZZOU5OY1BNRzZ0R1J0eGNoUld4T0tKMXp6WV9qak9XTVhQZG1sUndMQUZfS0RXbUpKSTRtb0FWQVBNR09hT2FHWEFkcFV5dFFrMTlHRUt5MDJMbmNiRA?oc=5",
+          "title": "U.S. granting visas to Flávio Bolsonaro and family - Axios",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVW80M1R1RVVBejlYZnlYRHlVdElxSk82aldnckZHUVJCOXBIemEwbXRXaDhHWkpLVUxyeVhyajc2V2RsVEVCbVYtZlF2Y1ZrOHdiQnVuTnI1azFVTjRWMkJfaUI1emVLVGM2ZEhnNHRSeTRWYThieVhfcWJkdFVhUEhtU2dicmsw?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 16:24:00 GMT"
+          "published": "Tue, 27 Oct 2026 22:41:18 GMT"
         }
       ]
     },
     {
-      "word": "Brazil",
+      "word": "Last",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc1d5Y2x0MGFEQmNfNDJsaGNsX2ZYN0RJZVIwY2JDSWozeXk2ZXdMV0xwM0pMcnZZOU5OY1BNRzZ0R1J0eGNoUld4T0tKMXp6WV9qak9XTVhQZG1sUndMQUZfS0RXbUpKSTRtb0FWQVBNR09hT2FHWEFkcFV5dFFrMTlHRUt5MDJMbmNiRA?oc=5",
+          "title": "Trump makes last-minute push to keep Texas in Republican hands with third trip - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYU9QN3kwR2JnU0lwVlhGZ0xxM0VaYVNFNWJwUk1lZlVVV0N0ZlhpLW91VGtXUGg2LUlfRDNxSy1YU1RPX3NOeElMYXJZME5odnZ0SHJfaFU3R3k3MXJ4Q19HLThBSHVTdUN2SkR3RDByWkpOSE1FRmVoNVZ3NE1xQ1JrXy0zM3NobTRGUEU0b3VvY3BUYXRGVGRrMXQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 16:24:00 GMT"
+          "published": "Tue, 27 Oct 2026 21:12:00 GMT"
         }
       ]
     },
     {
-      "word": "Presidential",
+      "word": "Minute",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc1d5Y2x0MGFEQmNfNDJsaGNsX2ZYN0RJZVIwY2JDSWozeXk2ZXdMV0xwM0pMcnZZOU5OY1BNRzZ0R1J0eGNoUld4T0tKMXp6WV9qak9XTVhQZG1sUndMQUZfS0RXbUpKSTRtb0FWQVBNR09hT2FHWEFkcFV5dFFrMTlHRUt5MDJMbmNiRA?oc=5",
+          "title": "Trump makes last-minute push to keep Texas in Republican hands with third trip - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYU9QN3kwR2JnU0lwVlhGZ0xxM0VaYVNFNWJwUk1lZlVVV0N0ZlhpLW91VGtXUGg2LUlfRDNxSy1YU1RPX3NOeElMYXJZME5odnZ0SHJfaFU3R3k3MXJ4Q19HLThBSHVTdUN2SkR3RDByWkpOSE1FRmVoNVZ3NE1xQ1JrXy0zM3NobTRGUEU0b3VvY3BUYXRGVGRrMXQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 16:24:00 GMT"
+          "published": "Tue, 27 Oct 2026 21:12:00 GMT"
         }
       ]
     },
     {
-      "word": "Loss",
+      "word": "Push",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc1d5Y2x0MGFEQmNfNDJsaGNsX2ZYN0RJZVIwY2JDSWozeXk2ZXdMV0xwM0pMcnZZOU5OY1BNRzZ0R1J0eGNoUld4T0tKMXp6WV9qak9XTVhQZG1sUndMQUZfS0RXbUpKSTRtb0FWQVBNR09hT2FHWEFkcFV5dFFrMTlHRUt5MDJMbmNiRA?oc=5",
+          "title": "Trump makes last-minute push to keep Texas in Republican hands with third trip - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYU9QN3kwR2JnU0lwVlhGZ0xxM0VaYVNFNWJwUk1lZlVVV0N0ZlhpLW91VGtXUGg2LUlfRDNxSy1YU1RPX3NOeElMYXJZME5odnZ0SHJfaFU3R3k3MXJ4Q19HLThBSHVTdUN2SkR3RDByWkpOSE1FRmVoNVZ3NE1xQ1JrXy0zM3NobTRGUEU0b3VvY3BUYXRGVGRrMXQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 16:24:00 GMT"
+          "published": "Tue, 27 Oct 2026 21:12:00 GMT"
         }
       ]
     },
     {
-      "word": "Campaign",
+      "word": "Keep",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump takes campaign blitz to Texas with 7 days before Election Day - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdXBRY2NEdGhRN1NueVI3cDlPNHJFd2NMeFNDSUwwbnZNMHN3eGFKTzhpbk1FQV9keUJuY3NzT0FyMDdBRC04NG4wZ2F4UTAzMTFyLXNzV0VqT28zMlBjZldUY3JreWd0eVVweDhKRVNCZ1JjMUtZcldqQjFOLUlfeDRkQUVhSUhfRnNNVlJB?oc=5",
+          "title": "Trump makes last-minute push to keep Texas in Republican hands with third trip - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYU9QN3kwR2JnU0lwVlhGZ0xxM0VaYVNFNWJwUk1lZlVVV0N0ZlhpLW91VGtXUGg2LUlfRDNxSy1YU1RPX3NOeElMYXJZME5odnZ0SHJfaFU3R3k3MXJ4Q19HLThBSHVTdUN2SkR3RDByWkpOSE1FRmVoNVZ3NE1xQ1JrXy0zM3NobTRGUEU0b3VvY3BUYXRGVGRrMXQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 18:30:16 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Blitz",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump takes campaign blitz to Texas with 7 days before Election Day - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdXBRY2NEdGhRN1NueVI3cDlPNHJFd2NMeFNDSUwwbnZNMHN3eGFKTzhpbk1FQV9keUJuY3NzT0FyMDdBRC04NG4wZ2F4UTAzMTFyLXNzV0VqT28zMlBjZldUY3JreWd0eVVweDhKRVNCZ1JjMUtZcldqQjFOLUlfeDRkQUVhSUhfRnNNVlJB?oc=5",
-          "source": "Google News",
-          "published": "Tue, 27 Oct 2026 18:30:16 GMT"
+          "published": "Tue, 27 Oct 2026 21:12:00 GMT"
         }
       ]
     },
@@ -493,153 +502,114 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump takes campaign blitz to Texas with 7 days before Election Day - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdXBRY2NEdGhRN1NueVI3cDlPNHJFd2NMeFNDSUwwbnZNMHN3eGFKTzhpbk1FQV9keUJuY3NzT0FyMDdBRC04NG4wZ2F4UTAzMTFyLXNzV0VqT28zMlBjZldUY3JreWd0eVVweDhKRVNCZ1JjMUtZcldqQjFOLUlfeDRkQUVhSUhfRnNNVlJB?oc=5",
+          "title": "Trump makes last-minute push to keep Texas in Republican hands with third trip - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYU9QN3kwR2JnU0lwVlhGZ0xxM0VaYVNFNWJwUk1lZlVVV0N0ZlhpLW91VGtXUGg2LUlfRDNxSy1YU1RPX3NOeElMYXJZME5odnZ0SHJfaFU3R3k3MXJ4Q19HLThBSHVTdUN2SkR3RDByWkpOSE1FRmVoNVZ3NE1xQ1JrXy0zM3NobTRGUEU0b3VvY3BUYXRGVGRrMXQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 18:30:16 GMT"
+          "published": "Tue, 27 Oct 2026 21:12:00 GMT"
         }
       ]
     },
     {
-      "word": "Block",
+      "word": "Republican",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump administration can block immigration judges from closing deportation cases - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQkRoOEw1UVdTNFEtMUE5SWtiUE1Oc3ZDX01Xdl9jZVlLTFhmNlBIUGdXMDdmMVJVVm9SSS1GVDJVbTk2bEptdmZoMVpaTUxHWEtHWDAzbG9BM2toV0xlV0l6eWdNMmpsWmpFS29FcS1wd2h5VW9EbVNvajJFYVN1XzFuRDBoamFtbmx2amlwODFxUEFqZGFVekJDWFFlNXVObnYwTUkySVJ5VEJ5Ti01UmpXMi1JSl9fclBoOGR5TXpNUlotenc?oc=5",
+          "title": "Trump makes last-minute push to keep Texas in Republican hands with third trip - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYU9QN3kwR2JnU0lwVlhGZ0xxM0VaYVNFNWJwUk1lZlVVV0N0ZlhpLW91VGtXUGg2LUlfRDNxSy1YU1RPX3NOeElMYXJZME5odnZ0SHJfaFU3R3k3MXJ4Q19HLThBSHVTdUN2SkR3RDByWkpOSE1FRmVoNVZ3NE1xQ1JrXy0zM3NobTRGUEU0b3VvY3BUYXRGVGRrMXQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 19:58:35 GMT"
+          "published": "Tue, 27 Oct 2026 21:12:00 GMT"
         }
       ]
     },
     {
-      "word": "Immigration",
+      "word": "Hands",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump administration can block immigration judges from closing deportation cases - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQkRoOEw1UVdTNFEtMUE5SWtiUE1Oc3ZDX01Xdl9jZVlLTFhmNlBIUGdXMDdmMVJVVm9SSS1GVDJVbTk2bEptdmZoMVpaTUxHWEtHWDAzbG9BM2toV0xlV0l6eWdNMmpsWmpFS29FcS1wd2h5VW9EbVNvajJFYVN1XzFuRDBoamFtbmx2amlwODFxUEFqZGFVekJDWFFlNXVObnYwTUkySVJ5VEJ5Ti01UmpXMi1JSl9fclBoOGR5TXpNUlotenc?oc=5",
+          "title": "Trump makes last-minute push to keep Texas in Republican hands with third trip - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYU9QN3kwR2JnU0lwVlhGZ0xxM0VaYVNFNWJwUk1lZlVVV0N0ZlhpLW91VGtXUGg2LUlfRDNxSy1YU1RPX3NOeElMYXJZME5odnZ0SHJfaFU3R3k3MXJ4Q19HLThBSHVTdUN2SkR3RDByWkpOSE1FRmVoNVZ3NE1xQ1JrXy0zM3NobTRGUEU0b3VvY3BUYXRGVGRrMXQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 19:58:35 GMT"
+          "published": "Tue, 27 Oct 2026 21:12:00 GMT"
         }
       ]
     },
     {
-      "word": "Judges",
+      "word": "Trip",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump administration can block immigration judges from closing deportation cases - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQkRoOEw1UVdTNFEtMUE5SWtiUE1Oc3ZDX01Xdl9jZVlLTFhmNlBIUGdXMDdmMVJVVm9SSS1GVDJVbTk2bEptdmZoMVpaTUxHWEtHWDAzbG9BM2toV0xlV0l6eWdNMmpsWmpFS29FcS1wd2h5VW9EbVNvajJFYVN1XzFuRDBoamFtbmx2amlwODFxUEFqZGFVekJDWFFlNXVObnYwTUkySVJ5VEJ5Ti01UmpXMi1JSl9fclBoOGR5TXpNUlotenc?oc=5",
+          "title": "Trump makes last-minute push to keep Texas in Republican hands with third trip - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYU9QN3kwR2JnU0lwVlhGZ0xxM0VaYVNFNWJwUk1lZlVVV0N0ZlhpLW91VGtXUGg2LUlfRDNxSy1YU1RPX3NOeElMYXJZME5odnZ0SHJfaFU3R3k3MXJ4Q19HLThBSHVTdUN2SkR3RDByWkpOSE1FRmVoNVZ3NE1xQ1JrXy0zM3NobTRGUEU0b3VvY3BUYXRGVGRrMXQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 19:58:35 GMT"
+          "published": "Tue, 27 Oct 2026 21:12:00 GMT"
         }
       ]
     },
     {
-      "word": "Closing",
+      "word": "Grand",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump administration can block immigration judges from closing deportation cases - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQkRoOEw1UVdTNFEtMUE5SWtiUE1Oc3ZDX01Xdl9jZVlLTFhmNlBIUGdXMDdmMVJVVm9SSS1GVDJVbTk2bEptdmZoMVpaTUxHWEtHWDAzbG9BM2toV0xlV0l6eWdNMmpsWmpFS29FcS1wd2h5VW9EbVNvajJFYVN1XzFuRDBoamFtbmx2amlwODFxUEFqZGFVekJDWFFlNXVObnYwTUkySVJ5VEJ5Ti01UmpXMi1JSl9fclBoOGR5TXpNUlotenc?oc=5",
+          "title": "Grand jury declines to indict former Trump aide Cassidy Hutchinson, star witness of Jan. 6 committee, U.S. official says - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcmFCUjZwQlM4Wlg5ejB3UzI4djVIblAydzRnN1FsV1BVR2l5M0NrcUJLSm9WckYxMXZRZHNlQW45RUdQVWtSaGFXUlRWNGdTblh5dDRGY3pSa0VoLWE1ZDN0T2tLRWtCY0M4bF9rdjVTU29QNGJVRTRJSERySVlBZVp5b2gyaHNadnp5dzZWbzVaNm5oQnBxQ29tTHQ1WG44QWlsLWpZcWJ3Zk9pQlpsMlg0akttb1pCeUtCeklNUWhscHZtMHFKVk9YQ0g?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 19:58:35 GMT"
+          "published": "Tue, 27 Oct 2026 22:42:04 GMT"
         }
       ]
     },
     {
-      "word": "Deportation",
+      "word": "Jury",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump administration can block immigration judges from closing deportation cases - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQkRoOEw1UVdTNFEtMUE5SWtiUE1Oc3ZDX01Xdl9jZVlLTFhmNlBIUGdXMDdmMVJVVm9SSS1GVDJVbTk2bEptdmZoMVpaTUxHWEtHWDAzbG9BM2toV0xlV0l6eWdNMmpsWmpFS29FcS1wd2h5VW9EbVNvajJFYVN1XzFuRDBoamFtbmx2amlwODFxUEFqZGFVekJDWFFlNXVObnYwTUkySVJ5VEJ5Ti01UmpXMi1JSl9fclBoOGR5TXpNUlotenc?oc=5",
+          "title": "Grand jury declines to indict former Trump aide Cassidy Hutchinson, star witness of Jan. 6 committee, U.S. official says - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcmFCUjZwQlM4Wlg5ejB3UzI4djVIblAydzRnN1FsV1BVR2l5M0NrcUJLSm9WckYxMXZRZHNlQW45RUdQVWtSaGFXUlRWNGdTblh5dDRGY3pSa0VoLWE1ZDN0T2tLRWtCY0M4bF9rdjVTU29QNGJVRTRJSERySVlBZVp5b2gyaHNadnp5dzZWbzVaNm5oQnBxQ29tTHQ1WG44QWlsLWpZcWJ3Zk9pQlpsMlg0akttb1pCeUtCeklNUWhscHZtMHFKVk9YQ0g?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 19:58:35 GMT"
+          "published": "Tue, 27 Oct 2026 22:42:04 GMT"
         }
       ]
     },
     {
-      "word": "Norway",
+      "word": "Declines",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Norway and Finland leaders hold rare call with Putin - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuWm1OYWtDeFFLZ0JBTzN0bUdYWGVpUnc1aDBjTVZTSDIyTDJ3bzFPelE5X2ttdVlrYXpSQ3ZPQTU3OUt1WnU1Z004MElQR2lId0RQUXlTbXVnSkk?oc=5",
+          "title": "Grand jury declines to indict former Trump aide Cassidy Hutchinson, star witness of Jan. 6 committee, U.S. official says - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcmFCUjZwQlM4Wlg5ejB3UzI4djVIblAydzRnN1FsV1BVR2l5M0NrcUJLSm9WckYxMXZRZHNlQW45RUdQVWtSaGFXUlRWNGdTblh5dDRGY3pSa0VoLWE1ZDN0T2tLRWtCY0M4bF9rdjVTU29QNGJVRTRJSERySVlBZVp5b2gyaHNadnp5dzZWbzVaNm5oQnBxQ29tTHQ1WG44QWlsLWpZcWJ3Zk9pQlpsMlg0akttb1pCeUtCeklNUWhscHZtMHFKVk9YQ0g?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 18:28:23 GMT"
+          "published": "Tue, 27 Oct 2026 22:42:04 GMT"
         }
       ]
     },
     {
-      "word": "Finland",
+      "word": "Indict",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Norway and Finland leaders hold rare call with Putin - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuWm1OYWtDeFFLZ0JBTzN0bUdYWGVpUnc1aDBjTVZTSDIyTDJ3bzFPelE5X2ttdVlrYXpSQ3ZPQTU3OUt1WnU1Z004MElQR2lId0RQUXlTbXVnSkk?oc=5",
+          "title": "Grand jury declines to indict former Trump aide Cassidy Hutchinson, star witness of Jan. 6 committee, U.S. official says - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcmFCUjZwQlM4Wlg5ejB3UzI4djVIblAydzRnN1FsV1BVR2l5M0NrcUJLSm9WckYxMXZRZHNlQW45RUdQVWtSaGFXUlRWNGdTblh5dDRGY3pSa0VoLWE1ZDN0T2tLRWtCY0M4bF9rdjVTU29QNGJVRTRJSERySVlBZVp5b2gyaHNadnp5dzZWbzVaNm5oQnBxQ29tTHQ1WG44QWlsLWpZcWJ3Zk9pQlpsMlg0akttb1pCeUtCeklNUWhscHZtMHFKVk9YQ0g?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 18:28:23 GMT"
+          "published": "Tue, 27 Oct 2026 22:42:04 GMT"
         }
       ]
     },
     {
-      "word": "Leaders",
+      "word": "Former",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Norway and Finland leaders hold rare call with Putin - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuWm1OYWtDeFFLZ0JBTzN0bUdYWGVpUnc1aDBjTVZTSDIyTDJ3bzFPelE5X2ttdVlrYXpSQ3ZPQTU3OUt1WnU1Z004MElQR2lId0RQUXlTbXVnSkk?oc=5",
+          "title": "Grand jury declines to indict former Trump aide Cassidy Hutchinson, star witness of Jan. 6 committee, U.S. official says - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcmFCUjZwQlM4Wlg5ejB3UzI4djVIblAydzRnN1FsV1BVR2l5M0NrcUJLSm9WckYxMXZRZHNlQW45RUdQVWtSaGFXUlRWNGdTblh5dDRGY3pSa0VoLWE1ZDN0T2tLRWtCY0M4bF9rdjVTU29QNGJVRTRJSERySVlBZVp5b2gyaHNadnp5dzZWbzVaNm5oQnBxQ29tTHQ1WG44QWlsLWpZcWJ3Zk9pQlpsMlg0akttb1pCeUtCeklNUWhscHZtMHFKVk9YQ0g?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 18:28:23 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Rare",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Norway and Finland leaders hold rare call with Putin - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuWm1OYWtDeFFLZ0JBTzN0bUdYWGVpUnc1aDBjTVZTSDIyTDJ3bzFPelE5X2ttdVlrYXpSQ3ZPQTU3OUt1WnU1Z004MElQR2lId0RQUXlTbXVnSkk?oc=5",
-          "source": "Google News",
-          "published": "Tue, 27 Oct 2026 18:28:23 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Call",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Norway and Finland leaders hold rare call with Putin - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuWm1OYWtDeFFLZ0JBTzN0bUdYWGVpUnc1aDBjTVZTSDIyTDJ3bzFPelE5X2ttdVlrYXpSQ3ZPQTU3OUt1WnU1Z004MElQR2lId0RQUXlTbXVnSkk?oc=5",
-          "source": "Google News",
-          "published": "Tue, 27 Oct 2026 18:28:23 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Putin",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Norway and Finland leaders hold rare call with Putin - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuWm1OYWtDeFFLZ0JBTzN0bUdYWGVpUnc1aDBjTVZTSDIyTDJ3bzFPelE5X2ttdVlrYXpSQ3ZPQTU3OUt1WnU1Z004MElQR2lId0RQUXlTbXVnSkk?oc=5",
-          "source": "Google News",
-          "published": "Tue, 27 Oct 2026 18:28:23 GMT"
+          "published": "Tue, 27 Oct 2026 22:42:04 GMT"
         }
       ]
     }
