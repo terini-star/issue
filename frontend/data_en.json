@@ -1,87 +1,93 @@
 {
   "language": "en",
-  "last_updated": 1793220887.9790294,
+  "last_updated": 1793234603.646991,
   "count": 40,
   "trends": [
     {
-      "word": "Trump",
+      "word": "Election",
+      "count": 4,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "The Israeli election is deadlocked - NPR",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd0FTVThQZXdVUkNNbTBCLVBETkM1OG05UndKajRIckllbWZyQmRjS3NMemFOSGREbThJSEVERjNuLUw0WWMwa0RMdTF3YzBRVWlFem5HcUFGb1kxZkVZWUlfc1JGLVg4QjBFaVRSblhaaVlvQUhhazNWVTZISUsxUFBDeEJTUQ?oc=5",
+          "source": "Google News",
+          "published": "Wed, 28 Oct 2026 20:18:53 GMT"
+        },
+        {
+          "title": "Conservative influencers charged with unlawful voting after ‘Muslim garb’ election stunt - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObG55dXFwZHZaWGVVdXFWQTZZZ014SElaT0E3N1FhalBNaU5RT1h3M3ZucjVoM1oyLThTUTlWMk5xY1Z6OVVXVGxfT1I4bkFraEZHdWlocVZqMzFTUVRxM1dycmhTQ1FRclpzMVlHc1VMRDQtOTVCWXpQNGlGM0tLckEwdVF3TlJnUnc?oc=5",
+          "source": "Google News",
+          "published": "Wed, 28 Oct 2026 21:24:00 GMT"
+        },
+        {
+          "title": "California election official says federal agents threatened him over ‘voter fraud’ - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdjBWYk12bDBwbmZxTnJKTXRRRThFbVVRaWlVclZ3UzRCVWF4OW9CZnNGVVJsc2E4MWNXNUkxZzhncy1mbzF2VWMybTZnVEl3UXMzMVA3MDgxWHl3bG1CenJPZGJpZnk3N3NnVFFZdzVOY1NxalRzWWx1SkNPUWxHSmYyYUltQUo1V3FHUURyNjQzWWNJeGpXTXRhNA?oc=5",
+          "source": "Google News",
+          "published": "Wed, 28 Oct 2026 21:04:00 GMT"
+        },
+        {
+          "title": "Election polls in New Zealand continue to show no clear outcome - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV195V053Xzk0NjBOR2hydFBDYWw4QkNsVDNIekZsTkViakRHNGEybTd1M2otSF9jZmtmTWNFX0daSVA5bDRmV1JlSWNhRmdLdDR2SWRPQnJ1REhmY3hncHc2UzAzQ0wtOU1vTDdBN3B2VXlSRlR5cUJWLWhybUVuQVJPYmd0RWlYOUlzOWxsQmROQUdrV1phUUVsNDRsdFhqeGwxOWpHNTNWWUVlYWc0c2pn?oc=5",
+          "source": "Google News",
+          "published": "Wed, 28 Oct 2026 21:30:48 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Live",
       "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Alaska Senate spoiler scheme under scrutiny; Trump in Ohio for final-week push - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQblRObTVJNWtTSEhNSWFxMThSak5vZVFka0xtZTk4WVlvdDg3akVhMG5HdDZXb0EwaHVqemd1SjFuaEM5aEpmVWVOZXJOS2ZhNVNMSEVsMDg1NmxXT3FjNm5XLXlwb0ZhVkFiOHMwQTMzRWt2dFpoOVVSNTNUZ0c3S3RKcTUzR3pNdVVXc1J1M1I?oc=5",
+          "title": "Microsoft earnings live: Microsoft beats Q1 expectations on top and bottom line on AI growth - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaHp2SlA2VGtZamtqaWlqaXlCd1prZ1htWV82SlNmNXZOSnRZbDYxQkpXQU8zU2dtMFB3RHBmc3dYYmVoRExoQUV4RFBGTjhuVUVIcVY1MVVPQ0tTb0puTnZsZWFjS1BfZVgyVXlwbE41ck12aUZUcVRWY0hjb0lUalB5T1VKUXQzZ0hYN2JIYVVtNGhfX3J5OGx4ZUFNaGRCalRveWNDM2lYenRWNkZBT0dUal9XWWJVM0toVE5xSDR4Q21rdVk1TUpFQ1JqLWM4NFl2RVNBZVExc2dHbEF5bnNFOVpFSlE?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 15:22:08 GMT"
+          "published": "Wed, 28 Oct 2026 20:35:22 GMT"
         },
         {
-          "title": "Comey, Hutchinson and more Trump foes are in Justice Dept.’s pre-election sights - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNzgxVndGUjFlWkRmYUR6bENYTFRKQ3dSd011alRPSFJaa0dheVJUS0VLdXdISXR0Ukhsak9iS2I2VHpQRS0ydUZjOVN2ZUNMbno5UWVHSTN5cmpKeEV1VzN0c3F5RXBNSkdmWE5sX3lxNGp0emRpQ0ZBcm1NT1dZMmplS1hsVmhOTnFBMXR6aHBsMlNuQ2JVNnRWV1BqRTZmNWFsNkdCZTdEeDJiVmNwNlBPVXctVzdNSW5kZWZB?oc=5",
+          "title": "They bought cabins to live on a luxury cruise ship. High fuel costs got them kicked off in Cambodia. - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPenkwSDRmaEptYkdleHhOYU9IZjVZTzFsUGtFdWIwaTUxMXNJa21uaTJHaDhyU3ZRSkRVMHV4ek03VDBYYjRmb3RIU0NHQVFEUFJ2aHA4U3JIT3lna0swekpudHp6aFFBdlBGc21YWHlMdFdMVENTbEdyOU1WdmxveG51MkY5ZzMycHZSMUhDTTRIUmNPVE45ckJhX2s3OTVJVnJlcA?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 16:06:57 GMT"
+          "published": "Thu, 29 Oct 2026 00:00:00 GMT"
         },
         {
-          "title": "Who should be believed? Trump's social media post on golf course leads lawyers back to court - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR0RMUEVTUm1kTFJObnI5Tm9uVTRwV3FiMFhCUF9OclotWVlETUwyclFKWHRHQVQ5SU5uYXpKdFozaWtWaVp1dkhfbkZqNFNkX2tyTHhFMy1RRVYwZW1VQUJHWER4OWtaZWFublp2aTRSVm40cUZpS2RaaDJJLUljYTRqZVY3cUhsQnA0?oc=5",
+          "title": "World Series Game 5: Live updates from Brewers-Rays - ESPN",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONFpObkdBa3cwcHVsUHBwUGJuOU0xVXJKMG5zRDNFbnQzMjBzalZ0NmU1NlNSVENRcFNueXVSM3k0Q292X19BMFZnSklWMC0wMjkxTVBSMFFmLTR4S2dkUlFtaUVuWlNuc1NrZFN6OFZjaXU4eERGTGZxYnJHWVdBam1wUUhGZUpLamtfaGZ6QWlHdE1ERzZJblNTVTcwZE9UUlE?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 01:22:00 GMT"
+          "published": "Thu, 29 Oct 2026 00:28:40 GMT"
         }
       ]
     },
     {
-      "word": "Election",
+      "word": "Trump",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RejV5RndiaW9vWlI2U2wweUlKcEtmUjNJeGJqTGk2dm5IS09NSVFiTkR5MmNmd1NoWnZQRVJHYTdFS3dROE5xQ25rWTQxNzZzQ25VU2FwQy1mcFk?oc=5",
+          "title": "Trump calls for prosecution of Democratic Alaska Senate candidate over spoiler candidate controversy - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbG5oNWFHU282dUI5bk9LMUhXNERoZlhnYWpCbm5RY1lhRGZvdHZUZVV6VXRBUUE5aThnZFpySkhGYXh3S1EzRG4tUXNqYkRJS2N5VUlMRndjZEpURXJQSWdZeE1DajAxSG9ZR3MzVGhiUDAtdUtETERqbXpWMGhJUzNIVXVFLXBmQXdPUVhGaWxCdGczTHdROTU3ckVsaWZXZjFIdi1LSQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 18:42:45 GMT"
+          "published": "Wed, 28 Oct 2026 21:13:00 GMT"
         },
         {
-          "title": "Comey, Hutchinson and more Trump foes are in Justice Dept.’s pre-election sights - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNzgxVndGUjFlWkRmYUR6bENYTFRKQ3dSd011alRPSFJaa0dheVJUS0VLdXdISXR0Ukhsak9iS2I2VHpQRS0ydUZjOVN2ZUNMbno5UWVHSTN5cmpKeEV1VzN0c3F5RXBNSkdmWE5sX3lxNGp0emRpQ0ZBcm1NT1dZMmplS1hsVmhOTnFBMXR6aHBsMlNuQ2JVNnRWV1BqRTZmNWFsNkdCZTdEeDJiVmNwNlBPVXctVzdNSW5kZWZB?oc=5",
+          "title": "NBC Reporter Who’s Covered ‘Dozens if Not Hundreds’ of MAGA Rallies Says He’s Never Seen Trump Speak at Such a Small Venue - Mediaite",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTGYxeEQwWXFaM2NmMU9LZ3hXTGlGbzFmd0FCSkhCbC1kSjE4Umc4WmhrUTl4OHRlc1o0bFA0RVU0WDhFLWlWWWlCYkN0RnZNa2RjeHNlQ3M3NEhMWEprY0tEVGpna19PWUhHN1otSVkzOFVOblJYNkVaSjVwYXI5MGZaNmxZbnVFTlU0bGtTbHdES2ZGT3JUanJXN2hVTDROaTZHTDhXT3ZGMTUzSDY0Rld3cHVqMjJCM2U2UU9Yd3d1SFQ3dE5uSTdQTHZqZlI1ZGZsaHdjeURRR292dFFBbXJOcl9hUkZXQXhz?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 16:06:57 GMT"
+          "published": "Wed, 28 Oct 2026 20:50:00 GMT"
         }
       ]
     },
     {
-      "word": "Alaska",
+      "word": "Candidate",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Democrat Mary Peltola’s campaign reportedly recruited second Dan Sullivan in Alaska Senate race - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM0xJc185UFB1UUUzeGEwcHd1R0NMUFlsaVo2RnZlaDl1YTRuSFoxV0dOckRaXzFXSUduNzRYenFiRnRKRWRweUF4Y2lla2FSZ2xUMVNVS1FvM185ZkR0WUJSbEkwdDlVc2t1VjRIenhjSFBNMzlaeHd3c1lIbWh2c3FhRF8wLVhsY1A5eWVXamU?oc=5",
+          "title": "Trump calls for prosecution of Democratic Alaska Senate candidate over spoiler candidate controversy - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbG5oNWFHU282dUI5bk9LMUhXNERoZlhnYWpCbm5RY1lhRGZvdHZUZVV6VXRBUUE5aThnZFpySkhGYXh3S1EzRG4tUXNqYkRJS2N5VUlMRndjZEpURXJQSWdZeE1DajAxSG9ZR3MzVGhiUDAtdUtETERqbXpWMGhJUzNIVXVFLXBmQXdPUVhGaWxCdGczTHdROTU3ckVsaWZXZjFIdi1LSQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 19:26:00 GMT"
-        },
-        {
-          "title": "Alaska Senate spoiler scheme under scrutiny; Trump in Ohio for final-week push - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQblRObTVJNWtTSEhNSWFxMThSak5vZVFka0xtZTk4WVlvdDg3akVhMG5HdDZXb0EwaHVqemd1SjFuaEM5aEpmVWVOZXJOS2ZhNVNMSEVsMDg1NmxXT3FjNm5XLXlwb0ZhVkFiOHMwQTMzRWt2dFpoOVVSNTNUZ0c3S3RKcTUzR3pNdVVXc1J1M1I?oc=5",
-          "source": "Google News",
-          "published": "Wed, 28 Oct 2026 15:22:08 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Senate",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Democrat Mary Peltola’s campaign reportedly recruited second Dan Sullivan in Alaska Senate race - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM0xJc185UFB1UUUzeGEwcHd1R0NMUFlsaVo2RnZlaDl1YTRuSFoxV0dOckRaXzFXSUduNzRYenFiRnRKRWRweUF4Y2lla2FSZ2xUMVNVS1FvM185ZkR0WUJSbEkwdDlVc2t1VjRIenhjSFBNMzlaeHd3c1lIbWh2c3FhRF8wLVhsY1A5eWVXamU?oc=5",
-          "source": "Google News",
-          "published": "Wed, 28 Oct 2026 19:26:00 GMT"
-        },
-        {
-          "title": "Alaska Senate spoiler scheme under scrutiny; Trump in Ohio for final-week push - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQblRObTVJNWtTSEhNSWFxMThSak5vZVFka0xtZTk4WVlvdDg3akVhMG5HdDZXb0EwaHVqemd1SjFuaEM5aEpmVWVOZXJOS2ZhNVNMSEVsMDg1NmxXT3FjNm5XLXlwb0ZhVkFiOHMwQTMzRWt2dFpoOVVSNTNUZ0c3S3RKcTUzR3pNdVVXc1J1M1I?oc=5",
-          "source": "Google News",
-          "published": "Wed, 28 Oct 2026 15:22:08 GMT"
+          "published": "Wed, 28 Oct 2026 21:13:00 GMT"
         }
       ]
     },
@@ -91,130 +97,48 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Dolores Huerta, influential labor leader, feminist and civil rights icon, dies at 96 - NPR",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRbnJFUThITC0wTzlQQnJaeUVJeTI0OHdSYzVuMzVJdFRUX1NiN2JrVnlXcFFpV2U4aGdZYXZTTUVZcGd6VGZWbG9YdHFFdTI1YW5nUXJFN0hQZm9MMTdRLVdhNWtjT3hRUlJicXVGcEY4UQ?oc=5",
+          "title": "Dolores Huerta, Who Founded United Farm Workers With Cesar Chavez, Dies - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wTjFuQnotOVYtMXRSMmk4a284SUdtUkdaS3Q2MHhMUEtRUXhBSzFPaUVqRFVyTDRLaGV2YVZmaDdzbmh3RGN0MEsxeVR1elhqMy1XR180MEFsUzFFcjZrTUJSbE95akNpSnlDamhXSQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 16:10:43 GMT"
+          "published": "Wed, 28 Oct 2026 19:31:00 GMT"
         },
         {
-          "title": "Alvin K. Hellerstein, Federal Judge Who Oversaw Maduro Case, Dies at 92 - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdkVQczBvclIyQUNhVkNOUmpyQTZPWXotclQyQnJuOXlsR1dReVA1RGtmNzYxa3ZGN2ljTUk1MHJzLXp0czJDT3N4bHhqNjJxWmpaT2U3MV9zbURZLW5OMEJBeGRyMHN1UVZJU01hWjd5cjZpU0ZLUmVXMDFwVlZ5MmR1bTM0X0Q1STR2YXRJWFpGQlk?oc=5",
+          "title": "Barbara Barrie, Oscar-Nominated Star of ‘Barney Miller’ and ‘Breaking Away,’ Dies at 95 - Variety",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNThxcFdCSnBISnhZNkdlbUNIVWV2Wk1ON3g3bWNaQndFa2VxM1FkclUzUV9NRHRhZnFhb1pHMFdhNjVaWm5BaGxCUzY3VFBvZVZ6bUU4emhoRE1GdXZ5UDh1ZjZSTjhBRF83VzI3UmJJYWdGdUV5R0ZDSlpFTzFIa1A3Si1HcHkwQ1NUeS1vWnhBQQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 17:28:54 GMT"
+          "published": "Wed, 28 Oct 2026 23:15:00 GMT"
         }
       ]
     },
     {
-      "word": "Final",
+      "word": "Lisa",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Alaska Senate spoiler scheme under scrutiny; Trump in Ohio for final-week push - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQblRObTVJNWtTSEhNSWFxMThSak5vZVFka0xtZTk4WVlvdDg3akVhMG5HdDZXb0EwaHVqemd1SjFuaEM5aEpmVWVOZXJOS2ZhNVNMSEVsMDg1NmxXT3FjNm5XLXlwb0ZhVkFiOHMwQTMzRWt2dFpoOVVSNTNUZ0c3S3RKcTUzR3pNdVVXc1J1M1I?oc=5",
+          "title": "‘Lisa is Lisa’: Murkowski endorses a Democrat as she faces 2028 dilemma - Politico",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbE1IN0ZhckxZdVQ4SllsNXdjVkkwNjI5ZDYxSlA3cVdjX0hFM18xelFnV0NINk1VSXVDQXBuYUdzTGhwYy1MUERJbEQ1WlhkWXEyWlZobThLRmozSXEyeXlScWxFV2xodG41ZmxqM1BTZ29wY1pSZk5lbWw2ZVZSbXFFOWRkOEkwTGhLN25FMXFVWmhN?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 15:22:08 GMT"
-        },
-        {
-          "title": "Ernie Johnson says this is his final season as 'Inside the NBA' host - ESPN",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNY2gxSEkzSXZKZDhPZzlvTUdNS29YOEV3dmI0XzRYSU5BOTl1Wk9iRXNHWHBORWVsajNMeEd6QWZNdV9DeWlFcHV5RUVxeHJkT0Y0UjJnc25OSTIxZXRLZTdhb1FMRmN6U1hMeXhteTZQZGl0UUlTbTZRZm1HSEtoNnE5QzBsWUcyUmc?oc=5",
-          "source": "Google News",
-          "published": "Wed, 28 Oct 2026 19:51:00 GMT"
+          "published": "Wed, 28 Oct 2026 23:48:00 GMT"
         }
       ]
     },
     {
-      "word": "Face",
+      "word": "Democrat",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Conservative influencers face identity theft charges over Minnesota primary - Star Tribune",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNTZLM0tLTFJlN1hKVVNMc3I4SENGTXlTNWZqM0NCcFVndmR4bVhVX04xZVRFdmZjRG1PaHQwSHBWTnNXV0ozUHRMdHBHVmdqSkZCdzJ4Q2VKRzRlNF8wNWRBeTd6bmZpbHZQU0RoY1pWLXlvamx5VUVBeXRQVWV6Wmt0WG1rNWpYVnNyZXJ4WmJwVHRvcHFzTkdSQzZZSWtfTFA1M3RzZTdETi1qa3pkcUt6SQ?oc=5",
+          "title": "‘Lisa is Lisa’: Murkowski endorses a Democrat as she faces 2028 dilemma - Politico",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbE1IN0ZhckxZdVQ4SllsNXdjVkkwNjI5ZDYxSlA3cVdjX0hFM18xelFnV0NINk1VSXVDQXBuYUdzTGhwYy1MUERJbEQ1WlhkWXEyWlZobThLRmozSXEyeXlScWxFV2xodG41ZmxqM1BTZ29wY1pSZk5lbWw2ZVZSbXFFOWRkOEkwTGhLN25FMXFVWmhN?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 17:22:41 GMT"
+          "published": "Wed, 28 Oct 2026 23:48:00 GMT"
         },
         {
-          "title": "Netanyahu and top rival face postelection choices that could redefine Israeli politics - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVkhkVlMyeHNjUXZ4YXlWMVNFVXZMWkwzRW9qQUlxWkhVZHJiTlhRLTFIbjJzOUVDOE1QQ09acFBOM0xPOUstY1NMVXV5RlYzaVl5cVhvVE9MZ3lpQk44RFhfSjR2eEVFYm1RekhzVzBFMVI0TWxjM2Znbi1rSkhxVndVenhQdWpJdGgtNG1LQTh2dUdWbmQ4SEwwWmtvMEVEcGh2SUljSkpBYWloNnVmcWhiOTVzTFl5dEE?oc=5",
+          "title": "3 major issues that Republican Byron Donalds or Democrat David Jolly will need to address as Florida’s next governor - The Conversation",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQY3FFX1RXZl9ORXQyY2ZmeTdUbWhUZ1Vjelc3NXBhZGMtZy04QjdlV1pRQVFMU2d5Mk8tSmRtbllHRkxCUW1fRnp1Y2Nsc2hJRllJWnZpLTFyY0NZUW8ycld0MU40am5KTjdISUQydC1rT3VINUxOZjB4bDVBY3RVSzN6MWNQR3FBaE5NaTVqckFUd1JPVVZyRDAzOWRaX0hSckdqMHA1allYV3lJQjFnZWY0TlA2X3NuVFBleTBjajlKUnpLTVZBY0lSTFJoRFdpMmlRZ3IyRnZ6cGJvcXdWOThpTl8?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 16:44:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Charges",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Conservative influencers face identity theft charges over Minnesota primary - Star Tribune",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNTZLM0tLTFJlN1hKVVNMc3I4SENGTXlTNWZqM0NCcFVndmR4bVhVX04xZVRFdmZjRG1PaHQwSHBWTnNXV0ozUHRMdHBHVmdqSkZCdzJ4Q2VKRzRlNF8wNWRBeTd6bmZpbHZQU0RoY1pWLXlvamx5VUVBeXRQVWV6Wmt0WG1rNWpYVnNyZXJ4WmJwVHRvcHFzTkdSQzZZSWtfTFA1M3RzZTdETi1qa3pkcUt6SQ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 28 Oct 2026 17:22:41 GMT"
-        },
-        {
-          "title": "Russell Brand denies all charges as he takes the stand at his rape and sex assault trial - FOX 8 News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSHJ6QXg2MVVDb2t2SFFMRVNLNE92OEpWek11dEo0ZEd1eHNROTNrUHJHbng2c0dZS0UzZGFma2tEUTd5Wm9pOVB3SjJnSm52d1VhTVBzS2FLeG5yTGlxQUxTU2ViUFM2b042Zk51Y2tSVHdNSEQwVWp2OTk3VWR2RTF1LS0zbnBVR09SZW5XUTA4OVFKcjlKNjl1Q2ZyOHY4YWJBYVFpR2lnX0x3YlRqT9IBtgFBVV95cUxORmNtTTU2Zkx0TVZ2bEZ4OEhMd1dwSEpxa0I2aUxaQU5XeU5sYVZEZ0I4RzAyRGJpN0ZmMGhqREFOdVFUN1dReVZIVVdBNFhjSWY4N3oySHA3aExxSTNPX0hwVjVObDAtM1d4aW8xcElJVWxsU0dPN2RGTlV2UEdsZEZLXzF6MWUwUFdjNHRUQXpUSU5HeVdMSF9OR1UyYzVSTFZXNGdHTGhNX3E0YVh2dGstSGowZw?oc=5",
-          "source": "Google News",
-          "published": "Wed, 28 Oct 2026 18:03:06 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Lawyers",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Who should be believed? Trump's social media post on golf course leads lawyers back to court - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR0RMUEVTUm1kTFJObnI5Tm9uVTRwV3FiMFhCUF9OclotWVlETUwyclFKWHRHQVQ5SU5uYXpKdFozaWtWaVp1dkhfbkZqNFNkX2tyTHhFMy1RRVYwZW1VQUJHWER4OWtaZWFublp2aTRSVm40cUZpS2RaaDJJLUljYTRqZVY3cUhsQnA0?oc=5",
-          "source": "Google News",
-          "published": "Wed, 28 Oct 2026 01:22:00 GMT"
-        },
-        {
-          "title": "Weil Practice Head Tells Lawyers to Find Jobs as Firm Struggles - Bloomberg Law News",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR3FfRkJPbGppUEVNQ1hTRVNnc250WGE5Z2tGeUxVNmx0anhOMFNnZmNhZFhzaXY0ZUQtTUwtN3diOThHTGs5TkxtSlAwMlR4d3o4SENfRTc1OEh2bV9ibGtxVFlHU2NvdEctM0c0NWhnS3ZQZHJ3WW12VmxYeFJpbXFyQmdTYUItNkU5OW5kMC04Wnp2QjJuMlVqMXRmR3puanM4X1dIOFNqNFBjS2Z5WUMxbEhQQQ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 28 Oct 2026 17:06:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Record",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Photos show record-breaking high tides flooding homes, roads in Southern California - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWWZsREwyaW1tQ0J0aG9xNEdGVXQ4RUFQZW5VN2xiS24yb3A3SE4xdHZHdS1Ec3JyZERmTk5GTV9SWmVDaXIxd05mcDlhdk5kU2p4UEtOTVk1MkFrZEpQbmJ5c2tPaVh6NDFPVlNWWDBMbmFhWDQ3NDZybkl0TV85UkR2S0Y0OXZzVHdrTXBwOURJUQ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 28 Oct 2026 12:18:00 GMT"
-        },
-        {
-          "title": "California breaks 28-year record for rabies amid likely nationwide rise - SFGATE",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTUxpVl9maHExWFVFY2RBVFBlU1dRZWp6Q1d1bTAyWVFRcHRPTlpZMmRfckhMOFRBblltOVZkem5Dd3VnalllNHV4eFM1T0o2djh6WlI4czB2dFhGNjZIQ083a2w2Ti1yeTBnbExoTFRidU9qLUVhNU43MEViUkxHNmdB?oc=5",
-          "source": "Google News",
-          "published": "Wed, 28 Oct 2026 16:02:35 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Breaking",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Photos show record-breaking high tides flooding homes, roads in Southern California - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWWZsREwyaW1tQ0J0aG9xNEdGVXQ4RUFQZW5VN2xiS24yb3A3SE4xdHZHdS1Ec3JyZERmTk5GTV9SWmVDaXIxd05mcDlhdk5kU2p4UEtOTVk1MkFrZEpQbmJ5c2tPaVh6NDFPVlNWWDBMbmFhWDQ3NDZybkl0TV85UkR2S0Y0OXZzVHdrTXBwOURJUQ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 28 Oct 2026 12:18:00 GMT"
-        },
-        {
-          "title": "The Ebola outbreak is breaking records — and just marked a grim milestone - NPR",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVFpNRldjenFZd1k5YXdkR240dTU3bHREZVVoZ2twNUIzZlVuYzhHeWxRR0tRMVJkSE5SOVhCVlhTX1pUTjQxZUtZRktteUg4MGwxdXhQVkJwcTZpczUzbHdlbGlwY1hsOTF0RFBmZ2VEUmN0RVIwVkpxUU9pRE00WUMyZkxYY3pIY0FLdEhEZi1IQ1ctVnd6aG5WbFNUa2pGN18w?oc=5",
-          "source": "Google News",
-          "published": "Tue, 27 Oct 2026 19:53:12 GMT"
+          "published": "Wed, 28 Oct 2026 18:40:18 GMT"
         }
       ]
     },
@@ -224,35 +148,54 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Photos show record-breaking high tides flooding homes, roads in Southern California - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWWZsREwyaW1tQ0J0aG9xNEdGVXQ4RUFQZW5VN2xiS24yb3A3SE4xdHZHdS1Ec3JyZERmTk5GTV9SWmVDaXIxd05mcDlhdk5kU2p4UEtOTVk1MkFrZEpQbmJ5c2tPaVh6NDFPVlNWWDBMbmFhWDQ3NDZybkl0TV85UkR2S0Y0OXZzVHdrTXBwOURJUQ?oc=5",
+          "title": "California election official says federal agents threatened him over ‘voter fraud’ - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdjBWYk12bDBwbmZxTnJKTXRRRThFbVVRaWlVclZ3UzRCVWF4OW9CZnNGVVJsc2E4MWNXNUkxZzhncy1mbzF2VWMybTZnVEl3UXMzMVA3MDgxWHl3bG1CenJPZGJpZnk3N3NnVFFZdzVOY1NxalRzWWx1SkNPUWxHSmYyYUltQUo1V3FHUURyNjQzWWNJeGpXTXRhNA?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 12:18:00 GMT"
+          "published": "Wed, 28 Oct 2026 21:04:00 GMT"
         },
         {
-          "title": "California breaks 28-year record for rabies amid likely nationwide rise - SFGATE",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTUxpVl9maHExWFVFY2RBVFBlU1dRZWp6Q1d1bTAyWVFRcHRPTlpZMmRfckhMOFRBblltOVZkem5Dd3VnalllNHV4eFM1T0o2djh6WlI4czB2dFhGNjZIQ083a2w2Ti1yeTBnbExoTFRidU9qLUVhNU43MEViUkxHNmdB?oc=5",
+          "title": "Family-favorite California pumpkin patch linked to E. coli outbreak - New York Post",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ3hPN2xWc2N5b1htRU9YZVBoNEgxZUxTTTRWUkp5S1hJV2dMcGhrV1MtMW8zNllXTHRWUVdEN3k2VFh4ZlZVX3lqWGNvS1pZay12dmFqNXd3VXpYbW5JSW5meEpjOHhpaWhEeVZfdDl5bEtGb2lQX3VLQUhDRWVGa1lXcWtudU9iOXo1UjNHaDVRSjJCYzFzVXpSbjRCQQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 16:02:35 GMT"
+          "published": "Wed, 28 Oct 2026 22:41:00 GMT"
         }
       ]
     },
     {
-      "word": "Politics",
+      "word": "Official",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Netanyahu and top rival face postelection choices that could redefine Israeli politics - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVkhkVlMyeHNjUXZ4YXlWMVNFVXZMWkwzRW9qQUlxWkhVZHJiTlhRLTFIbjJzOUVDOE1QQ09acFBOM0xPOUstY1NMVXV5RlYzaVl5cVhvVE9MZ3lpQk44RFhfSjR2eEVFYm1RekhzVzBFMVI0TWxjM2Znbi1rSkhxVndVenhQdWpJdGgtNG1LQTh2dUdWbmQ4SEwwWmtvMEVEcGh2SUljSkpBYWloNnVmcWhiOTVzTFl5dEE?oc=5",
+          "title": "California election official says federal agents threatened him over ‘voter fraud’ - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdjBWYk12bDBwbmZxTnJKTXRRRThFbVVRaWlVclZ3UzRCVWF4OW9CZnNGVVJsc2E4MWNXNUkxZzhncy1mbzF2VWMybTZnVEl3UXMzMVA3MDgxWHl3bG1CenJPZGJpZnk3N3NnVFFZdzVOY1NxalRzWWx1SkNPUWxHSmYyYUltQUo1V3FHUURyNjQzWWNJeGpXTXRhNA?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 16:44:00 GMT"
+          "published": "Wed, 28 Oct 2026 21:04:00 GMT"
         },
         {
-          "title": "Fed meeting live updates: Interest rates held steady in split vote, Warsh says politics played 'no role' ahead of midterm elections - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPMHUtSlNVTW1ZUXFXVzZQc0lIVGYxQ2RaZ2RWNXY0UU5BSVdfWXBLM3hrdjZ3cUQ5d2UwRVdsTktmX0VRb2ppUFExZUF5M1p3UzE4cW9LWHdEamFpNnI3clJaOVF6cDYtSnZhTm1XZFNUZV95QVU0Z19GSUtjc2ZneGFBWlpiQ3FhVFptc0trS1ROOS1uSGdIcTVtRkFsNWVRQzlqTEdkN0kwbXQ2ckF2b09CUlFTdW1nMWpjQlhtekdWNmN0clNEUkFwSDNtSXhobDY1OFBLZl9uVjVEX0hlQkdTYWNtV3F6Yk5xcjBxREd3elVpenlQcGk0UjRjVF9vNmZMTHlWc2NGaFNvRTk4c1RoV2hFUmc?oc=5",
+          "title": "Iran sees only unacceptable ideas in latest mediation to end war, official says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTAtQ19McEJXRVg0bmN2S1JaMm9lX2VsbUpzSjZnZi1md09fZnBoREF1U2lKT25ybDRzR0lxcC13XzcxRU1UTFFFUXRzem9TVjdNMHA4cjVPel9Rdk02UHk4M1BDUXFZcGRyR0FqcnlhUDNtTFczdy1Nd0VNNktvM3V0bUEzNC1qdXNLQngwOE9HVGtydEFIa1hqdm5sWjRHVHNNaFVteUZSbnVwa2U0MWxvd2RleGJpaXIxeg?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 19:19:46 GMT"
+          "published": "Wed, 28 Oct 2026 20:37:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Federal",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "California election official says federal agents threatened him over ‘voter fraud’ - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdjBWYk12bDBwbmZxTnJKTXRRRThFbVVRaWlVclZ3UzRCVWF4OW9CZnNGVVJsc2E4MWNXNUkxZzhncy1mbzF2VWMybTZnVEl3UXMzMVA3MDgxWHl3bG1CenJPZGJpZnk3N3NnVFFZdzVOY1NxalRzWWx1SkNPUWxHSmYyYUltQUo1V3FHUURyNjQzWWNJeGpXTXRhNA?oc=5",
+          "source": "Google News",
+          "published": "Wed, 28 Oct 2026 21:04:00 GMT"
+        },
+        {
+          "title": "Federal Reserve makes interest rate decision ahead of midterms - Fox Business",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR0hLUjN3TllXcDVjaXRBaUwxOW1QcnJLRkc3ZGR3SnR1U283WVdPeWozMmw2eFlLa3ZVb011TlEtMHI0RjV6eWE0T2ZXcXRNQVR5eEIzbVhRektfTHkzLWNLbVc5U0RQaXUyRnFSZ2VCUmZNOFlpcTQyWXc5S21zRWxpb2FBSS1FSkpiVnc0VnV5S2o50gGaAUFVX3lxTE1DUFpkcUswb2dYdVhleE1XejZfZVdTSHJsbUhOelF3Z1B4UUpGdWhqUGQzTmxvTmhGbFFQZ1VNdmhNenprZE1Hbjh6bW9RUTFGN0lfYkZMZ3g4YUh1VlM2eUhGNHNpVUN5ZG12R2RrSnpxTDRKTVR6Y29oMUhHNVdMZ1N1UzFLUjF3LUNnc0pvUFNQZXA1T1JnQ0E?oc=5",
+          "source": "Google News",
+          "published": "Wed, 28 Oct 2026 21:17:00 GMT"
         }
       ]
     },
@@ -265,7 +208,7 @@
           "title": "A U.K. Budget With ‘Breathing Space’ in a Time of Rising Energy Costs - The New York Times",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVzNEMUZVaDJlZW9WTkxYLUZhOUp3M0Y1SE4xSXpjR1RWT3k2Q2Y0VTAwMkNieUZCaVV5cWlYRU1wb1hFSWFYdVF6UVVMVW10cDU3LS00LXd1dXRVWmYxNVpTamlvZC04azF3X1NCWi1QZ2ZWaUZkOU1jRG56NzRha1Vn?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 09:05:38 GMT"
+          "published": "Wed, 28 Oct 2026 16:40:52 GMT"
         },
         {
           "title": "Unannounced Test by Controversial “Sunlight-as-a-Service” Space Startup Shocks Astronomers - Futurism",
@@ -284,7 +227,7 @@
           "title": "A U.K. Budget With ‘Breathing Space’ in a Time of Rising Energy Costs - The New York Times",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVzNEMUZVaDJlZW9WTkxYLUZhOUp3M0Y1SE4xSXpjR1RWT3k2Q2Y0VTAwMkNieUZCaVV5cWlYRU1wb1hFSWFYdVF6UVVMVW10cDU3LS00LXd1dXRVWmYxNVpTamlvZC04azF3X1NCWi1QZ2ZWaUZkOU1jRG56NzRha1Vn?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 09:05:38 GMT"
+          "published": "Wed, 28 Oct 2026 16:40:52 GMT"
         },
         {
           "title": "CDC warns of rising threat of drug-resistant germs, which kill 50,000 people per year - NBC News",
@@ -303,127 +246,159 @@
           "title": "A U.K. Budget With ‘Breathing Space’ in a Time of Rising Energy Costs - The New York Times",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVzNEMUZVaDJlZW9WTkxYLUZhOUp3M0Y1SE4xSXpjR1RWT3k2Q2Y0VTAwMkNieUZCaVV5cWlYRU1wb1hFSWFYdVF6UVVMVW10cDU3LS00LXd1dXRVWmYxNVpTamlvZC04azF3X1NCWi1QZ2ZWaUZkOU1jRG56NzRha1Vn?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 09:05:38 GMT"
+          "published": "Wed, 28 Oct 2026 16:40:52 GMT"
         },
         {
-          "title": "Fuel costs force US cruise ship to suspend multiyear voyage in Cambodia - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd3ozaDYyMFAzR2pOcjRNcHZlZEVUeEZJMHdISFY5Y0lnRVdwMTJnMXVRV2NyTjRCaWRaVTNOTkMxRHlha09PLUVKcWw0Vll0dkRqYk1qVmhqOHJxRjdNcEptaVVuUHBMY0dqd2p1bXRPMEdRRFFucnEyandMNGRZQXc3OE54SG1haUVhRHRYaUlLd01yOTA4N2ROVGRRTXV5dXNfNXdSQlhfWEJtU21sZ2R2dF_SAboBQVVfeXFMUDk4XzhlSTdMdm9xTkpOS3VzX0lKNTJLNnZ2LVZTS1ROT0RUcEdCNkZYTzJyZG1JWkN6YV92NzJTdEVTTmppOWlONEhad1pYSjktb1doNGwxejhMdWVnN0JMX3M0dnFISFNrQW9faEJFQUJMbWVKdXZKWkprc1hEWGVlZmM3dWJCSlNRR2VXeHJDeFpkUTc3a0FIVERkLW1FMk9IdnJNRVd2YnZpTnNvOFlpQW1GTXd0Wnd3?oc=5",
+          "title": "They bought cabins to live on a luxury cruise ship. High fuel costs got them kicked off in Cambodia. - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPenkwSDRmaEptYkdleHhOYU9IZjVZTzFsUGtFdWIwaTUxMXNJa21uaTJHaDhyU3ZRSkRVMHV4ek03VDBYYjRmb3RIU0NHQVFEUFJ2aHA4U3JIT3lna0swekpudHp6aFFBdlBGc21YWHlMdFdMVENTbEdyOU1WdmxveG51MkY5ZzMycHZSMUhDTTRIUmNPVE45ckJhX2s3OTVJVnJlcA?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 18:37:36 GMT"
+          "published": "Thu, 29 Oct 2026 00:00:00 GMT"
         }
       ]
     },
     {
-      "word": "Live",
+      "word": "Latest",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Live Updates: Iran rejects \"unacceptable\" ideas as Qatari mediators say they presented new draft deal to Tehran - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaldzakpwdnNPdVBvcUw2WmlXOGFPU0hSaktBa0RtLUFscVVkZGV1QmtNbDZXQks3UGVQNWlxTmQ1VFJqNUlCT2tZeHpMTGxOemgxN1J2M3JJWTJnUTFZUURrNEpjTGJ2Q1JoMmVPVUVkSE1Qb0NIRlhqMWFVbFpmVlhtXzBsa1o5UlctX2U0Y18yemFBWUROQmNWV2g?oc=5",
+          "title": "Iran sees only unacceptable ideas in latest mediation to end war, official says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTAtQ19McEJXRVg0bmN2S1JaMm9lX2VsbUpzSjZnZi1md09fZnBoREF1U2lKT25ybDRzR0lxcC13XzcxRU1UTFFFUXRzem9TVjdNMHA4cjVPel9Rdk02UHk4M1BDUXFZcGRyR0FqcnlhUDNtTFczdy1Nd0VNNktvM3V0bUEzNC1qdXNLQngwOE9HVGtydEFIa1hqdm5sWjRHVHNNaFVteUZSbnVwa2U0MWxvd2RleGJpaXIxeg?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 18:51:00 GMT"
+          "published": "Wed, 28 Oct 2026 20:37:00 GMT"
         },
         {
-          "title": "Fed meeting live updates: Interest rates held steady in split vote, Warsh says politics played 'no role' ahead of midterm elections - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPMHUtSlNVTW1ZUXFXVzZQc0lIVGYxQ2RaZ2RWNXY0UU5BSVdfWXBLM3hrdjZ3cUQ5d2UwRVdsTktmX0VRb2ppUFExZUF5M1p3UzE4cW9LWHdEamFpNnI3clJaOVF6cDYtSnZhTm1XZFNUZV95QVU0Z19GSUtjc2ZneGFBWlpiQ3FhVFptc0trS1ROOS1uSGdIcTVtRkFsNWVRQzlqTEdkN0kwbXQ2ckF2b09CUlFTdW1nMWpjQlhtekdWNmN0clNEUkFwSDNtSXhobDY1OFBLZl9uVjVEX0hlQkdTYWNtV3F6Yk5xcjBxREd3elVpenlQcGk0UjRjVF9vNmZMTHlWc2NGaFNvRTk4c1RoV2hFUmc?oc=5",
+          "title": "Reddit is the latest platform to embrace the ‘For You’ feed - TechCrunch",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVFl6ZTFWdDc3TktwU3E3eWlqemxrT1BQYlBkeUFubnJCVjVENmRJbjcxUWNYN2JsZFdhSHpBaE9XY0VKdVk4Nm5RVHpXdjZEX0JuRWk3UUlyb1EtUGU3T0Rka3dFUlRmdmdrMWF1dm1vNHZLY2lWLVUydHhjZm5qME5RdS1PMjhSd0IzNEhPQ25GaW1ubFZn?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 19:19:46 GMT"
+          "published": "Wed, 28 Oct 2026 16:00:00 GMT"
         }
       ]
     },
     {
-      "word": "Updates",
+      "word": "Ahead",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Live Updates: Iran rejects \"unacceptable\" ideas as Qatari mediators say they presented new draft deal to Tehran - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaldzakpwdnNPdVBvcUw2WmlXOGFPU0hSaktBa0RtLUFscVVkZGV1QmtNbDZXQks3UGVQNWlxTmQ1VFJqNUlCT2tZeHpMTGxOemgxN1J2M3JJWTJnUTFZUURrNEpjTGJ2Q1JoMmVPVUVkSE1Qb0NIRlhqMWFVbFpmVlhtXzBsa1o5UlctX2U0Y18yemFBWUROQmNWV2g?oc=5",
+          "title": "Federal Reserve makes interest rate decision ahead of midterms - Fox Business",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR0hLUjN3TllXcDVjaXRBaUwxOW1QcnJLRkc3ZGR3SnR1U283WVdPeWozMmw2eFlLa3ZVb011TlEtMHI0RjV6eWE0T2ZXcXRNQVR5eEIzbVhRektfTHkzLWNLbVc5U0RQaXUyRnFSZ2VCUmZNOFlpcTQyWXc5S21zRWxpb2FBSS1FSkpiVnc0VnV5S2o50gGaAUFVX3lxTE1DUFpkcUswb2dYdVhleE1XejZfZVdTSHJsbUhOelF3Z1B4UUpGdWhqUGQzTmxvTmhGbFFQZ1VNdmhNenprZE1Hbjh6bW9RUTFGN0lfYkZMZ3g4YUh1VlM2eUhGNHNpVUN5ZG12R2RrSnpxTDRKTVR6Y29oMUhHNVdMZ1N1UzFLUjF3LUNnc0pvUFNQZXA1T1JnQ0E?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 18:51:00 GMT"
+          "published": "Wed, 28 Oct 2026 21:17:00 GMT"
         },
         {
-          "title": "Fed meeting live updates: Interest rates held steady in split vote, Warsh says politics played 'no role' ahead of midterm elections - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPMHUtSlNVTW1ZUXFXVzZQc0lIVGYxQ2RaZ2RWNXY0UU5BSVdfWXBLM3hrdjZ3cUQ5d2UwRVdsTktmX0VRb2ppUFExZUF5M1p3UzE4cW9LWHdEamFpNnI3clJaOVF6cDYtSnZhTm1XZFNUZV95QVU0Z19GSUtjc2ZneGFBWlpiQ3FhVFptc0trS1ROOS1uSGdIcTVtRkFsNWVRQzlqTEdkN0kwbXQ2ckF2b09CUlFTdW1nMWpjQlhtekdWNmN0clNEUkFwSDNtSXhobDY1OFBLZl9uVjVEX0hlQkdTYWNtV3F6Yk5xcjBxREd3elVpenlQcGk0UjRjVF9vNmZMTHlWc2NGaFNvRTk4c1RoV2hFUmc?oc=5",
+          "title": "Flu survivor shares near-death experience as doctors urge vaccination ahead of early flu season - ABC7 New York",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMGhMekRSQjNzd1ZORHF0VnAwN28xX2h6ZTNqS056VDBHM0JmbFM5MmVZQnF3ZS1NVUhKS014VlpBSndwdDR6RFQ3SDBfTmFEb2Zzak96SUhIR3g2SnliT2h5alVsM1R1eFZmZ0wwZXg4WVA5UmxtbFRUUXdBc0JNZE4tSXRPcmlOY2NEemJXeTVtLUQ1Z3BpZ3JZaVBQZ0tCUFpjMkkyRGhWTmJlOGVRR0h1YmXSAboBQVVfeXFMTXJ6OUc0dDhSUUU0YV8yNldPNno5ZEk5MUs0VmpwSS0wZzdDZFFUT0tqSVFaMDFWd3NjMnYwOUFyZlJ3UnZCM2pCQTB4U0tqS21XcHlSMnJpc05ybjU5OTFQeGVrOWNuUEVjVlhsWlNTWFlHdFh3YXdTSGZlNG5hSWJWOUxpZUl4YWlDdmhUZjhDX2VkTWl5Um04Z01EdEEyUTRJZjVQU21JQXZZdm05N2JKSk05cUJKMEFR?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 19:19:46 GMT"
+          "published": "Tue, 27 Oct 2026 22:35:35 GMT"
         }
       ]
     },
     {
-      "word": "Trade",
+      "word": "Shares",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Alphabet set to report Q3 earnings after the bell as shaky AI trade looks for signs of strength - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mMXgyTllzVlZsWFR1UGY5bTVRWWNYRnFoX3pCdDVjNU41Q3VQUTJyb2lTSUs3ZTdBakY3M0RVaERvZUZRMXA2RlhlYTNyeUJnb1MyX0ZjVHJWODNxd0pWbWRHRjNqb0FWVC1xdzdzZ29qQW8wMl9Z0gF8QVVfeXFMTU5rc0Fla1l1QVdxV2I0d3Znd2JCWm1tY1EtdFR6NTNuV0FaYmhWbEVsZUhFYWdNcXZ0ZGlrdWVaZUxnbThKMVR4V290N0hyb3VmSmtRVDFuUC03Yks5b3poak1UNFJoNkE3RHkzWWZMeUFqajFCc0Yzc1BwSw?oc=5",
+          "title": "Google Shares Fall 10% as Growth in Search Revenue Slows - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmNkSG5GRS1SMkpKWG5nQjc2YV9BOEU0X1dEZHB3V1VvRGtXdDgzTVdMdnNEcGVzclJqWU9NVzdjYWZybm95dGZhR2NjdEotaGFvVERZM21LNFBpNUhIV1B3eFNMaFNJbmgyWnhFaVdZTmNTXzFzU3ZIU2R0emgxdDNCSVBMN2d2?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 16:00:01 GMT"
+          "published": "Wed, 28 Oct 2026 21:43:00 GMT"
         },
         {
-          "title": "Sources: Colts' Josh Downs requests trade; Jonathan Taylor hasn't, per coach - ESPN",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOclZFUXBBWEpDcERmci10Nm54Qm5YYUNDQTVzVXZSTU5DT1hoTzdvc3hnWXZBdFdhR3ZSZF92c1p1b1hXX3pueWROcnNyTUd1a3RMbWVoZ0ZCTmxsQnFPMTNINEF5aUpwa3R5TG90Rl9jVGVQMzluWTNvN1hlWGo3bThwU3pXb0xoSlNaV0hjNVZVUnp3UFhqaGtNaw?oc=5",
+          "title": "Flu survivor shares near-death experience as doctors urge vaccination ahead of early flu season - ABC7 New York",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMGhMekRSQjNzd1ZORHF0VnAwN28xX2h6ZTNqS056VDBHM0JmbFM5MmVZQnF3ZS1NVUhKS014VlpBSndwdDR6RFQ3SDBfTmFEb2Zzak96SUhIR3g2SnliT2h5alVsM1R1eFZmZ0wwZXg4WVA5UmxtbFRUUXdBc0JNZE4tSXRPcmlOY2NEemJXeTVtLUQ1Z3BpZ3JZaVBQZ0tCUFpjMkkyRGhWTmJlOGVRR0h1YmXSAboBQVVfeXFMTXJ6OUc0dDhSUUU0YV8yNldPNno5ZEk5MUs0VmpwSS0wZzdDZFFUT0tqSVFaMDFWd3NjMnYwOUFyZlJ3UnZCM2pCQTB4U0tqS21XcHlSMnJpc05ybjU5OTFQeGVrOWNuUEVjVlhsWlNTWFlHdFh3YXdTSGZlNG5hSWJWOUxpZUl4YWlDdmhUZjhDX2VkTWl5Um04Z01EdEEyUTRJZjVQU21JQXZZdm05N2JKSk05cUJKMEFR?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 17:35:00 GMT"
+          "published": "Tue, 27 Oct 2026 22:35:35 GMT"
         }
       ]
     },
     {
-      "word": "Looks",
+      "word": "Growth",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Alphabet set to report Q3 earnings after the bell as shaky AI trade looks for signs of strength - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mMXgyTllzVlZsWFR1UGY5bTVRWWNYRnFoX3pCdDVjNU41Q3VQUTJyb2lTSUs3ZTdBakY3M0RVaERvZUZRMXA2RlhlYTNyeUJnb1MyX0ZjVHJWODNxd0pWbWRHRjNqb0FWVC1xdzdzZ29qQW8wMl9Z0gF8QVVfeXFMTU5rc0Fla1l1QVdxV2I0d3Znd2JCWm1tY1EtdFR6NTNuV0FaYmhWbEVsZUhFYWdNcXZ0ZGlrdWVaZUxnbThKMVR4V290N0hyb3VmSmtRVDFuUC03Yks5b3poak1UNFJoNkE3RHkzWWZMeUFqajFCc0Yzc1BwSw?oc=5",
+          "title": "Google Shares Fall 10% as Growth in Search Revenue Slows - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmNkSG5GRS1SMkpKWG5nQjc2YV9BOEU0X1dEZHB3V1VvRGtXdDgzTVdMdnNEcGVzclJqWU9NVzdjYWZybm95dGZhR2NjdEotaGFvVERZM21LNFBpNUhIV1B3eFNMaFNJbmgyWnhFaVdZTmNTXzFzU3ZIU2R0emgxdDNCSVBMN2d2?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 16:00:01 GMT"
+          "published": "Wed, 28 Oct 2026 21:43:00 GMT"
         },
         {
-          "title": "A dinosaur fossil that looks like a mini T. rex just sold for a giant $47 million - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTDV4TWZfVndUbFJpUlUxRlhWVEM0Z25WZ0RJRGJBR0FqbGZLcVlwdU9KNTlVU2VHRmJLTnI4bk93QTJMd3d2bThfMkNEa2lCbDM0STFtcFBWQ3lsUHNfOWQ1WU1NTGVsd1Z2cDJlbW1icTMzZlc0STk0V0dNN0NYc1J0YUJGd3RPQ0ZxZTkzVjkyTTNzWTJKUE83S2lOOGgya2ZubXNTR01pejR4ZTJKVA?oc=5",
+          "title": "Microsoft earnings live: Microsoft beats Q1 expectations on top and bottom line on AI growth - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaHp2SlA2VGtZamtqaWlqaXlCd1prZ1htWV82SlNmNXZOSnRZbDYxQkpXQU8zU2dtMFB3RHBmc3dYYmVoRExoQUV4RFBGTjhuVUVIcVY1MVVPQ0tTb0puTnZsZWFjS1BfZVgyVXlwbE41ck12aUZUcVRWY0hjb0lUalB5T1VKUXQzZ0hYN2JIYVVtNGhfX3J5OGx4ZUFNaGRCalRveWNDM2lYenRWNkZBT0dUal9XWWJVM0toVE5xSDR4Q21rdVk1TUpFQ1JqLWM4NFl2RVNBZVExc2dHbEF5bnNFOVpFSlE?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 19:15:00 GMT"
+          "published": "Wed, 28 Oct 2026 20:35:22 GMT"
         }
       ]
     },
     {
-      "word": "Force",
+      "word": "Microsoft",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Fuel costs force US cruise ship to suspend multiyear voyage in Cambodia - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd3ozaDYyMFAzR2pOcjRNcHZlZEVUeEZJMHdISFY5Y0lnRVdwMTJnMXVRV2NyTjRCaWRaVTNOTkMxRHlha09PLUVKcWw0Vll0dkRqYk1qVmhqOHJxRjdNcEptaVVuUHBMY0dqd2p1bXRPMEdRRFFucnEyandMNGRZQXc3OE54SG1haUVhRHRYaUlLd01yOTA4N2ROVGRRTXV5dXNfNXdSQlhfWEJtU21sZ2R2dF_SAboBQVVfeXFMUDk4XzhlSTdMdm9xTkpOS3VzX0lKNTJLNnZ2LVZTS1ROT0RUcEdCNkZYTzJyZG1JWkN6YV92NzJTdEVTTmppOWlONEhad1pYSjktb1doNGwxejhMdWVnN0JMX3M0dnFISFNrQW9faEJFQUJMbWVKdXZKWkprc1hEWGVlZmM3dWJCSlNRR2VXeHJDeFpkUTc3a0FIVERkLW1FMk9IdnJNRVd2YnZpTnNvOFlpQW1GTXd0Wnd3?oc=5",
+          "title": "Microsoft earnings live: Microsoft beats Q1 expectations on top and bottom line on AI growth - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaHp2SlA2VGtZamtqaWlqaXlCd1prZ1htWV82SlNmNXZOSnRZbDYxQkpXQU8zU2dtMFB3RHBmc3dYYmVoRExoQUV4RFBGTjhuVUVIcVY1MVVPQ0tTb0puTnZsZWFjS1BfZVgyVXlwbE41ck12aUZUcVRWY0hjb0lUalB5T1VKUXQzZ0hYN2JIYVVtNGhfX3J5OGx4ZUFNaGRCalRveWNDM2lYenRWNkZBT0dUal9XWWJVM0toVE5xSDR4Q21rdVk1TUpFQ1JqLWM4NFl2RVNBZVExc2dHbEF5bnNFOVpFSlE?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 18:37:36 GMT"
-        },
-        {
-          "title": "Rays stun Brewers with 2-run rally in 12th inning and force World Series Game 5 with 4-3 win - AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLW9ZWWdKVGhaeDZYZHcxTldIUzBMckdhdXIyak9JenN6RHNWTGNKUER0SXQ3UGpHLXlSTzF6SUtxUzNOV3NlUXJGYkhOZ0RaeTJ5aFVBTGhwZWRBVHVQdVBwTE56bmNkUWNaN0FBUVhyVndzcFlHVFRCODhZcE9qZm9NXzRZNUdua3FZZEhMS3BqcVl4NzVYMUQzU05QMkE?oc=5",
-          "source": "Google News",
-          "published": "Wed, 28 Oct 2026 13:33:00 GMT"
+          "published": "Wed, 28 Oct 2026 20:35:22 GMT"
         }
       ]
     },
     {
-      "word": "per",
+      "word": "Breaking",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Sources: Colts' Josh Downs requests trade; Jonathan Taylor hasn't, per coach - ESPN",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOclZFUXBBWEpDcERmci10Nm54Qm5YYUNDQTVzVXZSTU5DT1hoTzdvc3hnWXZBdFdhR3ZSZF92c1p1b1hXX3pueWROcnNyTUd1a3RMbWVoZ0ZCTmxsQnFPMTNINEF5aUpwa3R5TG90Rl9jVGVQMzluWTNvN1hlWGo3bThwU3pXb0xoSlNaV0hjNVZVUnp3UFhqaGtNaw?oc=5",
+          "title": "Barbara Barrie, Oscar-Nominated Star of ‘Barney Miller’ and ‘Breaking Away,’ Dies at 95 - Variety",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNThxcFdCSnBISnhZNkdlbUNIVWV2Wk1ON3g3bWNaQndFa2VxM1FkclUzUV9NRHRhZnFhb1pHMFdhNjVaWm5BaGxCUzY3VFBvZVZ6bUU4emhoRE1GdXZ5UDh1ZjZSTjhBRF83VzI3UmJJYWdGdUV5R0ZDSlpFTzFIa1A3Si1HcHkwQ1NUeS1vWnhBQQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 17:35:00 GMT"
+          "published": "Wed, 28 Oct 2026 23:15:00 GMT"
         },
         {
-          "title": "CDC warns of rising threat of drug-resistant germs, which kill 50,000 people per year - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTHZYNU9yaFplM3NIaV81dXBQUVRuUGJRREtHbWZYYkVhakk2UUo1UEhkWVZlR0dXZk9CT1RxeVVMRkRqTlE3Y3FCNnJiNVJGZnZ2OXpfVWhoSzN6dzN3Z01SQkhuemEzTldXVVk0YXdkOHk2cGx4Ry1ZSnVsd1lDWEpqQ041ZWNnODZiSy1ZWVZFOS1paFE?oc=5",
+          "title": "The Ebola outbreak is breaking records — and just marked a grim milestone - NPR",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVFpNRldjenFZd1k5YXdkR240dTU3bHREZVVoZ2twNUIzZlVuYzhHeWxRR0tRMVJkSE5SOVhCVlhTX1pUTjQxZUtZRktteUg4MGwxdXhQVkJwcTZpczUzbHdlbGlwY1hsOTF0RFBmZ2VEUmN0RVIwVkpxUU9pRE00WUMyZkxYY3pIY0FLdEhEZi1IQ1ctVnd6aG5WbFNUa2pGN18w?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 17:42:11 GMT"
+          "published": "Tue, 27 Oct 2026 19:53:12 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Head",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Kathleen Kennedy Replaces Peter Rice as Head of Ceremonies and Content for L.A.’s Olympic Games (Exclusive) - The Hollywood Reporter",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa2JKRHg4d053VnRtVWRsVjVNRDJYOUF6NkpWUk9XeC1XQkM3NXZiZDE1cmsyY0lyV1JyVGZHNS1ZaFl6MWNFdnhzVnVKekY3dUQwYW9zMGVPNHFfcTdfWU81Q1kxal94cUZMLUJUdmVqVnhxaFVKSzZGeGZQNWd3UURmeTJyd0FrdEVZV0VWVjRYYlFreWcxY2xpOE5NZ0JEQVN4T2FRRHFBdnpTMUJ4eG5IcnJkSEgxQWdNNDdjSkdRdw?oc=5",
+          "source": "Google News",
+          "published": "Wed, 28 Oct 2026 16:02:55 GMT"
+        },
+        {
+          "title": "Vincent Kompany: Bayern Munich head coach discharged from hospital after collapse - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rUG5odk9SZ1BLZkc0Sk9lOHVYMUNnQ3gwXzVYNEtqWWtPUTlXNG14OERQeWUwLUkzN1U1bWJkOXdJdnRINjN2ejZTWFV3dWZLckNwcFdRcm45RmNSUTM2NnlyclQxeHJ4?oc=5",
+          "source": "Google News",
+          "published": "Wed, 28 Oct 2026 21:37:08 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Death",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YQmFuLW9rWEs4YkU2d1FUcXE0ekh3NEJwSjNPcElkZU54Nzlyd2k3VG1lNFdZcmw5MnVCX1hrbTlvdWlqSU0zMVVVRjV1WGZvNGpvS3pIRk0tYVk?oc=5",
+          "source": "Google News",
+          "published": "Wed, 28 Oct 2026 21:16:30 GMT"
+        },
+        {
+          "title": "Flu survivor shares near-death experience as doctors urge vaccination ahead of early flu season - ABC7 New York",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMGhMekRSQjNzd1ZORHF0VnAwN28xX2h6ZTNqS056VDBHM0JmbFM5MmVZQnF3ZS1NVUhKS014VlpBSndwdDR6RFQ3SDBfTmFEb2Zzak96SUhIR3g2SnliT2h5alVsM1R1eFZmZ0wwZXg4WVA5UmxtbFRUUXdBc0JNZE4tSXRPcmlOY2NEemJXeTVtLUQ1Z3BpZ3JZaVBQZ0tCUFpjMkkyRGhWTmJlOGVRR0h1YmXSAboBQVVfeXFMTXJ6OUc0dDhSUUU0YV8yNldPNno5ZEk5MUs0VmpwSS0wZzdDZFFUT0tqSVFaMDFWd3NjMnYwOUFyZlJ3UnZCM2pCQTB4U0tqS21XcHlSMnJpc05ybjU5OTFQeGVrOWNuUEVjVlhsWlNTWFlHdFh3YXdTSGZlNG5hSWJWOUxpZUl4YWlDdmhUZjhDX2VkTWl5Um04Z01EdEEyUTRJZjVQU21JQXZZdm05N2JKSk05cUJKMEFR?oc=5",
+          "source": "Google News",
+          "published": "Tue, 27 Oct 2026 22:35:35 GMT"
         }
       ]
     },
@@ -433,10 +408,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Astronomers found a mysterious object beyond Neptune, and it could be a new dwarf planet - Space",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM056ZUtjbUc4LTdGdWxlOGtlTTd1d1YtTTVNd1otVy1CaTQzcU9HZDB6VlFCUDNBYnctbkwwaVVXcUFHS01UazlHRTIyNmRlUXFmazdFb2ZfZFloOF9iYkhfckpsREhUWFJSRHVhRzdRS2U0bVlnRTFwZDZWMERMOXRYNmhFUW9TOVNUa2xuSS0ya2hLUTFJZHdiRVhmNFNSTkNfcTh4RENsV2JObXhwU1UtNG15YU52WmJQTFZSQkhVTTg5bGJnRXJfOXlCdw?oc=5",
+          "title": "‘It’s big’: Astronomers make startling discovery of a possible dwarf planet beyond Pluto - CNN",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZmRZb2FaYzNwN01jZkQyVDduNGVhQnlKUGFmRjFiZGlEOHFDaVhWOFdrNjFPV29tQzFuUENrVEpNZGt5LUlvMjItOWdVUGJDTWxOZWk3MFZnMU1MTTNYTDIwMU1ldVl6eUNzb19iakZ0aUdWOHdsN1Y1WWVUNnZtNzVQeHdtQTg?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 12:58:18 GMT"
+          "published": "Wed, 28 Oct 2026 15:56:33 GMT"
         },
         {
           "title": "Unannounced Test by Controversial “Sunlight-as-a-Service” Space Startup Shocks Astronomers - Futurism",
@@ -447,229 +422,242 @@
       ]
     },
     {
-      "word": "Dinosaur",
+      "word": "Outbreak",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "A dinosaur fossil that looks like a mini T. rex just sold for a giant $47 million - AP News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTDV4TWZfVndUbFJpUlUxRlhWVEM0Z25WZ0RJRGJBR0FqbGZLcVlwdU9KNTlVU2VHRmJLTnI4bk93QTJMd3d2bThfMkNEa2lCbDM0STFtcFBWQ3lsUHNfOWQ1WU1NTGVsd1Z2cDJlbW1icTMzZlc0STk0V0dNN0NYc1J0YUJGd3RPQ0ZxZTkzVjkyTTNzWTJKUE83S2lOOGgya2ZubXNTR01pejR4ZTJKVA?oc=5",
+          "title": "The Ebola outbreak is breaking records — and just marked a grim milestone - NPR",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVFpNRldjenFZd1k5YXdkR240dTU3bHREZVVoZ2twNUIzZlVuYzhHeWxRR0tRMVJkSE5SOVhCVlhTX1pUTjQxZUtZRktteUg4MGwxdXhQVkJwcTZpczUzbHdlbGlwY1hsOTF0RFBmZ2VEUmN0RVIwVkpxUU9pRE00WUMyZkxYY3pIY0FLdEhEZi1IQ1ctVnd6aG5WbFNUa2pGN18w?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 19:15:00 GMT"
+          "published": "Tue, 27 Oct 2026 19:53:12 GMT"
         },
         {
-          "title": "New Species of Iguanodontian Dinosaur Discovered in England - Sci.News",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84SlREU1lkQmgwc2lxd1ZPbDNSczFaczkyMTd6aEFlYzZrUmFpcDAxN0ZWd1NQajJmTVBUa1RWcnBKb1pTY1lfdFl4TENFOXhpU0puMnBRRHZsRVlMek1ERnlkbWg2VFBHQk1aSTl0aWFzeEJybHBF?oc=5",
+          "title": "Family-favorite California pumpkin patch linked to E. coli outbreak - New York Post",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ3hPN2xWc2N5b1htRU9YZVBoNEgxZUxTTTRWUkp5S1hJV2dMcGhrV1MtMW8zNllXTHRWUVdEN3k2VFh4ZlZVX3lqWGNvS1pZay12dmFqNXd3VXpYbW5JSW5meEpjOHhpaWhEeVZfdDl5bEtGb2lQX3VLQUhDRWVGa1lXcWtudU9iOXo1UjNHaDVRSjJCYzFzVXpSbjRCQQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 27 Oct 2026 16:42:57 GMT"
+          "published": "Wed, 28 Oct 2026 22:41:00 GMT"
         }
       ]
     },
     {
-      "word": "Bolsonaro",
+      "word": "Spain",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RejV5RndiaW9vWlI2U2wweUlKcEtmUjNJeGJqTGk2dm5IS09NSVFiTkR5MmNmd1NoWnZQRVJHYTdFS3dROE5xQ25rWTQxNzZzQ25VU2FwQy1mcFk?oc=5",
+          "title": "Spain train crash kills at least 68 as witnesses describe devastating scenes - CNN",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNWtOSHNOSFBibkl5WkRpN0IyaGZWbnhhRmtwenJfa2M3cXVucE9qQnhreUhDZmFvMTYwcGR5T3p0YjhZTjh3NV9mWHBqUUpjYmVaWHFGS2NEay1QVnZocWRiZ3A4Q1pCVXJyWlY0RTFEdnV5SVljTkZUNlhtQ1IyN2NPdXpCUQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 18:42:45 GMT"
+          "published": "Wed, 28 Oct 2026 22:09:00 GMT"
         }
       ]
     },
     {
-      "word": "Lands",
+      "word": "Train",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RejV5RndiaW9vWlI2U2wweUlKcEtmUjNJeGJqTGk2dm5IS09NSVFiTkR5MmNmd1NoWnZQRVJHYTdFS3dROE5xQ25rWTQxNzZzQ25VU2FwQy1mcFk?oc=5",
+          "title": "Spain train crash kills at least 68 as witnesses describe devastating scenes - CNN",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNWtOSHNOSFBibkl5WkRpN0IyaGZWbnhhRmtwenJfa2M3cXVucE9qQnhreUhDZmFvMTYwcGR5T3p0YjhZTjh3NV9mWHBqUUpjYmVaWHFGS2NEay1QVnZocWRiZ3A4Q1pCVXJyWlY0RTFEdnV5SVljTkZUNlhtQ1IyN2NPdXpCUQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 18:42:45 GMT"
+          "published": "Wed, 28 Oct 2026 22:09:00 GMT"
         }
       ]
     },
     {
-      "word": "Miami",
+      "word": "Crash",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RejV5RndiaW9vWlI2U2wweUlKcEtmUjNJeGJqTGk2dm5IS09NSVFiTkR5MmNmd1NoWnZQRVJHYTdFS3dROE5xQ25rWTQxNzZzQ25VU2FwQy1mcFk?oc=5",
+          "title": "Spain train crash kills at least 68 as witnesses describe devastating scenes - CNN",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNWtOSHNOSFBibkl5WkRpN0IyaGZWbnhhRmtwenJfa2M3cXVucE9qQnhreUhDZmFvMTYwcGR5T3p0YjhZTjh3NV9mWHBqUUpjYmVaWHFGS2NEay1QVnZocWRiZ3A4Q1pCVXJyWlY0RTFEdnV5SVljTkZUNlhtQ1IyN2NPdXpCUQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 18:42:45 GMT"
+          "published": "Wed, 28 Oct 2026 22:09:00 GMT"
         }
       ]
     },
     {
-      "word": "Defeat",
+      "word": "Kills",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RejV5RndiaW9vWlI2U2wweUlKcEtmUjNJeGJqTGk2dm5IS09NSVFiTkR5MmNmd1NoWnZQRVJHYTdFS3dROE5xQ25rWTQxNzZzQ25VU2FwQy1mcFk?oc=5",
+          "title": "Spain train crash kills at least 68 as witnesses describe devastating scenes - CNN",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNWtOSHNOSFBibkl5WkRpN0IyaGZWbnhhRmtwenJfa2M3cXVucE9qQnhreUhDZmFvMTYwcGR5T3p0YjhZTjh3NV9mWHBqUUpjYmVaWHFGS2NEay1QVnZocWRiZ3A4Q1pCVXJyWlY0RTFEdnV5SVljTkZUNlhtQ1IyN2NPdXpCUQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 18:42:45 GMT"
+          "published": "Wed, 28 Oct 2026 22:09:00 GMT"
         }
       ]
     },
     {
-      "word": "Brazil",
+      "word": "Least",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RejV5RndiaW9vWlI2U2wweUlKcEtmUjNJeGJqTGk2dm5IS09NSVFiTkR5MmNmd1NoWnZQRVJHYTdFS3dROE5xQ25rWTQxNzZzQ25VU2FwQy1mcFk?oc=5",
+          "title": "Spain train crash kills at least 68 as witnesses describe devastating scenes - CNN",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNWtOSHNOSFBibkl5WkRpN0IyaGZWbnhhRmtwenJfa2M3cXVucE9qQnhreUhDZmFvMTYwcGR5T3p0YjhZTjh3NV9mWHBqUUpjYmVaWHFGS2NEay1QVnZocWRiZ3A4Q1pCVXJyWlY0RTFEdnV5SVljTkZUNlhtQ1IyN2NPdXpCUQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 18:42:45 GMT"
+          "published": "Wed, 28 Oct 2026 22:09:00 GMT"
         }
       ]
     },
     {
-      "word": "Presidential",
+      "word": "Witnesses",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RejV5RndiaW9vWlI2U2wweUlKcEtmUjNJeGJqTGk2dm5IS09NSVFiTkR5MmNmd1NoWnZQRVJHYTdFS3dROE5xQ25rWTQxNzZzQ25VU2FwQy1mcFk?oc=5",
+          "title": "Spain train crash kills at least 68 as witnesses describe devastating scenes - CNN",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNWtOSHNOSFBibkl5WkRpN0IyaGZWbnhhRmtwenJfa2M3cXVucE9qQnhreUhDZmFvMTYwcGR5T3p0YjhZTjh3NV9mWHBqUUpjYmVaWHFGS2NEay1QVnZocWRiZ3A4Q1pCVXJyWlY0RTFEdnV5SVljTkZUNlhtQ1IyN2NPdXpCUQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 18:42:45 GMT"
+          "published": "Wed, 28 Oct 2026 22:09:00 GMT"
         }
       ]
     },
     {
-      "word": "Democrat",
+      "word": "Describe",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Democrat Mary Peltola’s campaign reportedly recruited second Dan Sullivan in Alaska Senate race - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM0xJc185UFB1UUUzeGEwcHd1R0NMUFlsaVo2RnZlaDl1YTRuSFoxV0dOckRaXzFXSUduNzRYenFiRnRKRWRweUF4Y2lla2FSZ2xUMVNVS1FvM185ZkR0WUJSbEkwdDlVc2t1VjRIenhjSFBNMzlaeHd3c1lIbWh2c3FhRF8wLVhsY1A5eWVXamU?oc=5",
+          "title": "Spain train crash kills at least 68 as witnesses describe devastating scenes - CNN",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNWtOSHNOSFBibkl5WkRpN0IyaGZWbnhhRmtwenJfa2M3cXVucE9qQnhreUhDZmFvMTYwcGR5T3p0YjhZTjh3NV9mWHBqUUpjYmVaWHFGS2NEay1QVnZocWRiZ3A4Q1pCVXJyWlY0RTFEdnV5SVljTkZUNlhtQ1IyN2NPdXpCUQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 19:26:00 GMT"
+          "published": "Wed, 28 Oct 2026 22:09:00 GMT"
         }
       ]
     },
     {
-      "word": "Mary",
+      "word": "Devastating",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Democrat Mary Peltola’s campaign reportedly recruited second Dan Sullivan in Alaska Senate race - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM0xJc185UFB1UUUzeGEwcHd1R0NMUFlsaVo2RnZlaDl1YTRuSFoxV0dOckRaXzFXSUduNzRYenFiRnRKRWRweUF4Y2lla2FSZ2xUMVNVS1FvM185ZkR0WUJSbEkwdDlVc2t1VjRIenhjSFBNMzlaeHd3c1lIbWh2c3FhRF8wLVhsY1A5eWVXamU?oc=5",
+          "title": "Spain train crash kills at least 68 as witnesses describe devastating scenes - CNN",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNWtOSHNOSFBibkl5WkRpN0IyaGZWbnhhRmtwenJfa2M3cXVucE9qQnhreUhDZmFvMTYwcGR5T3p0YjhZTjh3NV9mWHBqUUpjYmVaWHFGS2NEay1QVnZocWRiZ3A4Q1pCVXJyWlY0RTFEdnV5SVljTkZUNlhtQ1IyN2NPdXpCUQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 19:26:00 GMT"
+          "published": "Wed, 28 Oct 2026 22:09:00 GMT"
         }
       ]
     },
     {
-      "word": "Peltola",
+      "word": "Scenes",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Democrat Mary Peltola’s campaign reportedly recruited second Dan Sullivan in Alaska Senate race - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM0xJc185UFB1UUUzeGEwcHd1R0NMUFlsaVo2RnZlaDl1YTRuSFoxV0dOckRaXzFXSUduNzRYenFiRnRKRWRweUF4Y2lla2FSZ2xUMVNVS1FvM185ZkR0WUJSbEkwdDlVc2t1VjRIenhjSFBNMzlaeHd3c1lIbWh2c3FhRF8wLVhsY1A5eWVXamU?oc=5",
+          "title": "Spain train crash kills at least 68 as witnesses describe devastating scenes - CNN",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNWtOSHNOSFBibkl5WkRpN0IyaGZWbnhhRmtwenJfa2M3cXVucE9qQnhreUhDZmFvMTYwcGR5T3p0YjhZTjh3NV9mWHBqUUpjYmVaWHFGS2NEay1QVnZocWRiZ3A4Q1pCVXJyWlY0RTFEdnV5SVljTkZUNlhtQ1IyN2NPdXpCUQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 19:26:00 GMT"
+          "published": "Wed, 28 Oct 2026 22:09:00 GMT"
         }
       ]
     },
     {
-      "word": "Campaign",
+      "word": "Calls",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Democrat Mary Peltola’s campaign reportedly recruited second Dan Sullivan in Alaska Senate race - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM0xJc185UFB1UUUzeGEwcHd1R0NMUFlsaVo2RnZlaDl1YTRuSFoxV0dOckRaXzFXSUduNzRYenFiRnRKRWRweUF4Y2lla2FSZ2xUMVNVS1FvM185ZkR0WUJSbEkwdDlVc2t1VjRIenhjSFBNMzlaeHd3c1lIbWh2c3FhRF8wLVhsY1A5eWVXamU?oc=5",
+          "title": "Trump calls for prosecution of Democratic Alaska Senate candidate over spoiler candidate controversy - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbG5oNWFHU282dUI5bk9LMUhXNERoZlhnYWpCbm5RY1lhRGZvdHZUZVV6VXRBUUE5aThnZFpySkhGYXh3S1EzRG4tUXNqYkRJS2N5VUlMRndjZEpURXJQSWdZeE1DajAxSG9ZR3MzVGhiUDAtdUtETERqbXpWMGhJUzNIVXVFLXBmQXdPUVhGaWxCdGczTHdROTU3ckVsaWZXZjFIdi1LSQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 19:26:00 GMT"
+          "published": "Wed, 28 Oct 2026 21:13:00 GMT"
         }
       ]
     },
     {
-      "word": "Reportedly",
+      "word": "Prosecution",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Democrat Mary Peltola’s campaign reportedly recruited second Dan Sullivan in Alaska Senate race - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM0xJc185UFB1UUUzeGEwcHd1R0NMUFlsaVo2RnZlaDl1YTRuSFoxV0dOckRaXzFXSUduNzRYenFiRnRKRWRweUF4Y2lla2FSZ2xUMVNVS1FvM185ZkR0WUJSbEkwdDlVc2t1VjRIenhjSFBNMzlaeHd3c1lIbWh2c3FhRF8wLVhsY1A5eWVXamU?oc=5",
+          "title": "Trump calls for prosecution of Democratic Alaska Senate candidate over spoiler candidate controversy - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbG5oNWFHU282dUI5bk9LMUhXNERoZlhnYWpCbm5RY1lhRGZvdHZUZVV6VXRBUUE5aThnZFpySkhGYXh3S1EzRG4tUXNqYkRJS2N5VUlMRndjZEpURXJQSWdZeE1DajAxSG9ZR3MzVGhiUDAtdUtETERqbXpWMGhJUzNIVXVFLXBmQXdPUVhGaWxCdGczTHdROTU3ckVsaWZXZjFIdi1LSQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 19:26:00 GMT"
+          "published": "Wed, 28 Oct 2026 21:13:00 GMT"
         }
       ]
     },
     {
-      "word": "Recruited",
+      "word": "Democratic",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Democrat Mary Peltola’s campaign reportedly recruited second Dan Sullivan in Alaska Senate race - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM0xJc185UFB1UUUzeGEwcHd1R0NMUFlsaVo2RnZlaDl1YTRuSFoxV0dOckRaXzFXSUduNzRYenFiRnRKRWRweUF4Y2lla2FSZ2xUMVNVS1FvM185ZkR0WUJSbEkwdDlVc2t1VjRIenhjSFBNMzlaeHd3c1lIbWh2c3FhRF8wLVhsY1A5eWVXamU?oc=5",
+          "title": "Trump calls for prosecution of Democratic Alaska Senate candidate over spoiler candidate controversy - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbG5oNWFHU282dUI5bk9LMUhXNERoZlhnYWpCbm5RY1lhRGZvdHZUZVV6VXRBUUE5aThnZFpySkhGYXh3S1EzRG4tUXNqYkRJS2N5VUlMRndjZEpURXJQSWdZeE1DajAxSG9ZR3MzVGhiUDAtdUtETERqbXpWMGhJUzNIVXVFLXBmQXdPUVhGaWxCdGczTHdROTU3ckVsaWZXZjFIdi1LSQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 19:26:00 GMT"
+          "published": "Wed, 28 Oct 2026 21:13:00 GMT"
         }
       ]
     },
     {
-      "word": "Second",
+      "word": "Alaska",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Democrat Mary Peltola’s campaign reportedly recruited second Dan Sullivan in Alaska Senate race - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM0xJc185UFB1UUUzeGEwcHd1R0NMUFlsaVo2RnZlaDl1YTRuSFoxV0dOckRaXzFXSUduNzRYenFiRnRKRWRweUF4Y2lla2FSZ2xUMVNVS1FvM185ZkR0WUJSbEkwdDlVc2t1VjRIenhjSFBNMzlaeHd3c1lIbWh2c3FhRF8wLVhsY1A5eWVXamU?oc=5",
+          "title": "Trump calls for prosecution of Democratic Alaska Senate candidate over spoiler candidate controversy - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbG5oNWFHU282dUI5bk9LMUhXNERoZlhnYWpCbm5RY1lhRGZvdHZUZVV6VXRBUUE5aThnZFpySkhGYXh3S1EzRG4tUXNqYkRJS2N5VUlMRndjZEpURXJQSWdZeE1DajAxSG9ZR3MzVGhiUDAtdUtETERqbXpWMGhJUzNIVXVFLXBmQXdPUVhGaWxCdGczTHdROTU3ckVsaWZXZjFIdi1LSQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 19:26:00 GMT"
+          "published": "Wed, 28 Oct 2026 21:13:00 GMT"
         }
       ]
     },
     {
-      "word": "Dan",
+      "word": "Senate",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Democrat Mary Peltola’s campaign reportedly recruited second Dan Sullivan in Alaska Senate race - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM0xJc185UFB1UUUzeGEwcHd1R0NMUFlsaVo2RnZlaDl1YTRuSFoxV0dOckRaXzFXSUduNzRYenFiRnRKRWRweUF4Y2lla2FSZ2xUMVNVS1FvM185ZkR0WUJSbEkwdDlVc2t1VjRIenhjSFBNMzlaeHd3c1lIbWh2c3FhRF8wLVhsY1A5eWVXamU?oc=5",
+          "title": "Trump calls for prosecution of Democratic Alaska Senate candidate over spoiler candidate controversy - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbG5oNWFHU282dUI5bk9LMUhXNERoZlhnYWpCbm5RY1lhRGZvdHZUZVV6VXRBUUE5aThnZFpySkhGYXh3S1EzRG4tUXNqYkRJS2N5VUlMRndjZEpURXJQSWdZeE1DajAxSG9ZR3MzVGhiUDAtdUtETERqbXpWMGhJUzNIVXVFLXBmQXdPUVhGaWxCdGczTHdROTU3ckVsaWZXZjFIdi1LSQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 19:26:00 GMT"
+          "published": "Wed, 28 Oct 2026 21:13:00 GMT"
         }
       ]
     },
     {
-      "word": "Sullivan",
+      "word": "Spoiler",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Democrat Mary Peltola’s campaign reportedly recruited second Dan Sullivan in Alaska Senate race - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM0xJc185UFB1UUUzeGEwcHd1R0NMUFlsaVo2RnZlaDl1YTRuSFoxV0dOckRaXzFXSUduNzRYenFiRnRKRWRweUF4Y2lla2FSZ2xUMVNVS1FvM185ZkR0WUJSbEkwdDlVc2t1VjRIenhjSFBNMzlaeHd3c1lIbWh2c3FhRF8wLVhsY1A5eWVXamU?oc=5",
+          "title": "Trump calls for prosecution of Democratic Alaska Senate candidate over spoiler candidate controversy - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbG5oNWFHU282dUI5bk9LMUhXNERoZlhnYWpCbm5RY1lhRGZvdHZUZVV6VXRBUUE5aThnZFpySkhGYXh3S1EzRG4tUXNqYkRJS2N5VUlMRndjZEpURXJQSWdZeE1DajAxSG9ZR3MzVGhiUDAtdUtETERqbXpWMGhJUzNIVXVFLXBmQXdPUVhGaWxCdGczTHdROTU3ckVsaWZXZjFIdi1LSQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 19:26:00 GMT"
+          "published": "Wed, 28 Oct 2026 21:13:00 GMT"
         }
       ]
     },
     {
-      "word": "Race",
+      "word": "Controversy",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Democrat Mary Peltola’s campaign reportedly recruited second Dan Sullivan in Alaska Senate race - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM0xJc185UFB1UUUzeGEwcHd1R0NMUFlsaVo2RnZlaDl1YTRuSFoxV0dOckRaXzFXSUduNzRYenFiRnRKRWRweUF4Y2lla2FSZ2xUMVNVS1FvM185ZkR0WUJSbEkwdDlVc2t1VjRIenhjSFBNMzlaeHd3c1lIbWh2c3FhRF8wLVhsY1A5eWVXamU?oc=5",
+          "title": "Trump calls for prosecution of Democratic Alaska Senate candidate over spoiler candidate controversy - AP News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbG5oNWFHU282dUI5bk9LMUhXNERoZlhnYWpCbm5RY1lhRGZvdHZUZVV6VXRBUUE5aThnZFpySkhGYXh3S1EzRG4tUXNqYkRJS2N5VUlMRndjZEpURXJQSWdZeE1DajAxSG9ZR3MzVGhiUDAtdUtETERqbXpWMGhJUzNIVXVFLXBmQXdPUVhGaWxCdGczTHdROTU3ckVsaWZXZjFIdi1LSQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 19:26:00 GMT"
+          "published": "Wed, 28 Oct 2026 21:13:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Landing",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "After landing in US, Flavio Bolsonaro declares himself Brazil's rightful leader - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTXM0WlJ4eWFnOU96alFqZTd5VklwV1pETlVBNjdhejYzX0hXUHQzZFczWkxRMzhxOGhzOWJqSGdwRTlubFRqMTJQckJ5NXljSFFqYzB2UXRReTVCc0lDR3BvOVlhcERydVBUU3duZFA3THNRZmt1OGZseURzeDAwX2ZCSE5tX3pRUUJ0elpaMU5odHFkcmhJQVU5OS1yRGp4N0FPVVVEWWJQMXFWNHQyOExkVWVjVFQtVDl3SGcybkt3ZzRE?oc=5",
+          "source": "Google News",
+          "published": "Wed, 28 Oct 2026 21:14:39 GMT"
         }
       ]
     }
