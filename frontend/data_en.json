@@ -1,288 +1,195 @@
 {
   "language": "en",
-  "last_updated": 1793321071.0012944,
+  "last_updated": 1793343413.0913115,
   "count": 40,
   "trends": [
     {
-      "word": "Trump",
-      "count": 4,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump Administration Pressures California With Expanded Voter Fraud Investigation - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUF9EaGFYV1ZLMUtyMk13WFhySGh6Q2xZSnJteFF1a0kyV29WZTJVdWV6MG02ZVNUbmxyM00xWm5WckF4ZU5GSkl0aDJ6OHRsSW5sSEwzMVd4TGJqNUhfcXFUc3pYekNiUzJULW5UMW9DcW1VaGdUZFQtUk9DVVNfM3MyVi1BOEdGNXNDeg?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 20:49:29 GMT"
-        },
-        {
-          "title": "2026 Midterms: Trump Heads to South Carolina as Race Tightens - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTHNmVDJRdS1QWURZM3VZU2lQdFoyeW45VHNCeldWbmFVMXRCc3dqdmlTTzV5RE5QUHVFcTRDemdfSVdzRG9UOFRGVnRER080QzJnc2cxelc3YjNyRlhMOGRUQlJjSGt5RDNUZmQwZElCMmlIbWd0TTdWYTJOQVhDTlU2Vzk3bVk0THZrUlBValVlb0xRWmoxdA?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 22:17:36 GMT"
-        },
-        {
-          "title": "Pentagon plans for death of Trump’s record military budget - Politico",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMXJpSUlZTlAtV3RLNlJsZGdfZ2hzUTBiNXo4bTB2N0pmRjRxa3FSNktJTjhkX0hkenEwS1FzSzg0aFlLZkVzZDB4MnRRZWVxdkdyR0MxT2lyVUxQblFhdkJHWTU0SndRb0xCTDZCR05hb241NE5idlNaNjlaZDBSZWZGWnFDT1BpR0tHWA?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 20:34:00 GMT"
-        },
-        {
-          "title": "Russian drone kills 14 at Ukraine train station, but local truce credited to Melania Trump brings some hope - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZWd0M0wwVlZvUTBQUGdrS3lzUE5iT09FOGJLWk5FdEgzTEozS0VTN1d6MF9EbGRtM1V0b1gwSDN0S29hTkJPN3FWRG9oVmtRXzdKeDVWUXAtVWtYbkljbmV0WGhNNG8wVkZmb1ExSGl2RnJ0RlFWaTAyM3F0X0UtNUJwRWNwNmRhODhYVVp2TjZWQmFOZl9xWg?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 16:33:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Earnings",
-      "count": 4,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Amazon earnings live: Q3 earnings miss sends stock lower - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS25wajNyNlducS0xMWQ0VnVtTGRnLUNFRHhkMGRwVS1ObV9MNWc1VzVsSlUtUmk1Q3JkeEJoaHRYSHZQTnR3a1ByZkkzOWhXYTVfZ0tHblhVdWpXdTM0cDNFLTFlN1BWVm5DUTlqY1BWNVI0NVc5OGNjeEhmTzVUelhDMnFkbWh0S3Y3ZTdfZ2VyS0x3MHV4Y1ZkVTBmd2hCZFBMYzlxemxVWHY2Ti1DRUN5QW5FVzA?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 22:00:11 GMT"
-        },
-        {
-          "title": "Stock Market Today: Nasdaq Breaks Streak On Alphabet's $500B Drop; Amazon Earnings Next - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc1N0UWUtenA4dTA3V1lWMXdXLWZ6Q3V1QXotNDY1OXczdHhaYV93LXNna3JweVZhb01YS25qYUlHWEFYSVJDLWhzOTFmVnZIa1hmSTRTd0RDNUhXVmtXNzZlTGR6eDllYnpXU2lFXzdibTI1RnBOUzRHeGliekY2cXh1c0Ryc1F5S3lCdnp2Tkh1YjUweTd2eWdKcDFXbHpZNXhXcE9INzNaZmhDLTA2Q2pRSEZkazJIQUZpUWo5cWFhZw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 21:45:00 GMT"
-        },
-        {
-          "title": "Intel Earnings: 2 Reasons the Stock Is Down So Much - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9yZXdLdExYS3hHN19GX0xPbTJSa0h4MTUyUm9oejU5UGEyaVl0RmhnaGMzdXBjbmJtbnNhMGdEYXpPaHdTMzk1d1hZM3BXLVhOdEJ0QzVzTExWNzFZbzZRSmd3dkZfTkdsOC10eXN4UkhpTjAwTVZn?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 21:43:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Alleged",
+      "word": "Election",
       "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKenQ0b28xd0xHQlJVQXJqXzFSOXpZcUlpRDhoNmVXNVNBZFJjNlNsUmlqLWtFN18yeklZWXhVSDFTYlNocGhiekxpVk91XzJ6WmVraVdaQnNYSUk?oc=5",
+          "title": "Justice Department issues subpoenas to California election workers - NPR",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOVhQQVc0ZFFvS0c0ckxwTndVWDVoVF9tNjZtRFdKY1RPcXU0ZkVDMEVfaUY3YU1heGxjTWRkUURWZVVCbHgwQUVpOUhFaVBUSTdpR0JBZFlsZG02TngtSGdYOC1CWmM3dVhFMzhlajVlR2hVdGMzZEdGVmZicGhqdnlPWTg?oc=5",
           "source": "Google News",
-          "published": "Thu, 29 Oct 2026 21:31:12 GMT"
+          "published": "Fri, 30 Oct 2026 01:35:54 GMT"
         },
         {
-          "title": "Obama admin first launched the investigation into Ilhan Omar's alleged brother marriage - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQODA1dzgteVZqYXNpVVlWNHhxNi12a2VaR2xHdzNpcThKSXp4QWdiWC15YjZhb2VZQ2tib2t6SUFEa2FJMlNUbTUxbGJLcjdFdkM4TnZOLXVERkhWWEQ2R0xCSDRvQlhMeU9kRFVKZHZrUWM1eTg4MUpBN05QMS1ORklDU0RDd25EX1I0dG54cWpRVUxFNTdud0FUS1RKWXJ2X3R3RGlJc1hnMzBNaUF30gG0AUFVX3lxTE9vN2V5bDVoemZVWTE5TlNERlFvRGN6LTBMRlF3bEx1WFdDQ0hmYWVXS29FNVlJUTFDTUxEdlJuRHBKWjJMb2R3YzFIblROSGQ4SXAwUkxXcDZVYy01U3NDLUowajdMOTRjYUdBMHk1TFVrcWhadzZlWnMwaGZsWnl1Y2Y3ejAwMDJNem1sRFctcUxlWmJXbzlmSXBvMk54RUhBZUZ3RGlnUzhkd1oySVA2RklSTw?oc=5",
+          "title": "Judge Orders Trump Officials to Outline Election Demands Sent to States - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR2VwMnpZMjhYTlgxVGM5ZWJvX1ltM3pobWd2LTRaaTF0UTZobkpNcEZEYkZ5cC1jZ09fQWxRMDFva1NKWXZ3SlQ3ai1OblZsVGRjRVlZa2RmR1NkQUZORUZkV3dDdHV6cnZ3ME9iUHdJbm94Z0VNQThDUWZKWHJVUDhtS095aDg?oc=5",
           "source": "Google News",
-          "published": "Thu, 29 Oct 2026 15:05:27 GMT"
+          "published": "Thu, 29 Oct 2026 21:46:23 GMT"
         },
         {
-          "title": "Judge grills AG’s office in Cornell sex assault case as ex-frat bro’s lawyer demands ouster over alleged bias - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNFdac1dBV3NBR0l2cHV5LUU1Yll6V0FvaWEtZWxFZmVfdTRKSkZpZENxY2NFMDhnWkFSMEx5UnFsejBiMzMwb0hPa2I1WllsVFdOQ0xlMVBnRFQzXzhVRXJLNzBVRE8xTDVLUkhIMVFzUlEtNVJlSDRITDJHamNpUWNIdTktNllNeWx1b2x5eV9tb3lILWNMN1Y5aURaYkEyTWNSanBoWDkzMC12STM1MkptRG5XZVdieklNVkt30gHDAUFVX3lxTFBlV3pRWTRNajZCU1BCR3V1bVoxOUI4RnI1em1CY2hLR3ZvX1lSYTVEN2lQQnlQRy1sYl9DMFJrb08zc09nY1Y1bjR4NE9uSDM1bThsdlZZRTdXY0ZxSmsxWkpYTld4V0pNWUNaZzRXekE3NXhvckZUXzMycnJ5QWdxbGh4dWlzVmZXbDVMeGtSVVRKRTItSHpMZjl6bzJtWlVmQzFoU1kzV29hQjZmWUdOU1FQTXJubkFac3E4RHpITG5LMA?oc=5",
+          "title": "Israel’s final election results show neither Netanyahu nor rival can immediately form government - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbzRienByTkQ5U2pCV25Jd09FREVxd05VLTZRSTY1TGVTY2dsYl9zOFRucG1xN0pnOHhhLXRObUFNbGp1My1DYXB3UnByT0g0QTBMTlZqU3d6U0JrNm80bTBwSHh5N1hKcjk3MDhCaWNyNzdIaGlUZWxEWWpnUFFVNS01ZzcxUFp1MVRmdUd4YmNaRWZLdFg0R0dkTlp3TDFGX1Z3LUpZQ2I3ZDJwQlhvSFJNeEpPaHR6SlE?oc=5",
           "source": "Google News",
-          "published": "Thu, 29 Oct 2026 21:22:01 GMT"
+          "published": "Fri, 30 Oct 2026 01:42:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Trump",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump cancels weekend rallies in Iowa and Kansas in favor of holding numerous tele-rallies - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPekM1SEphS1p0N2xOY0JlTXc1R3JReXQ0dXJRTXdVTnhKYkxaemJLdWhiTzRELUlIV1puYkhvU2wwUHB2RUVUTWtNaTUzUi1TT3REZzc0VUs2RW5zYVlDdFRKNXZkd05URTRWdkpmeXNFaVRnbFRhQTNEMTZfYTZWNnllRF9TaFZoZ09USkt5WWRGZlBmQ3JydkdnMjhhSnlWSlFnU0pVNUxwdGNjZkJCdHBxSjRVb0g4STBIWjd5WUYxUUNKb2R3?oc=5",
+          "source": "Google News",
+          "published": "Fri, 30 Oct 2026 03:19:00 GMT"
+        },
+        {
+          "title": "Judge Orders Trump Officials to Outline Election Demands Sent to States - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR2VwMnpZMjhYTlgxVGM5ZWJvX1ltM3pobWd2LTRaaTF0UTZobkpNcEZEYkZ5cC1jZ09fQWxRMDFva1NKWXZ3SlQ3ai1OblZsVGRjRVlZa2RmR1NkQUZORUZkV3dDdHV6cnZ3ME9iUHdJbm94Z0VNQThDUWZKWHJVUDhtS095aDg?oc=5",
+          "source": "Google News",
+          "published": "Thu, 29 Oct 2026 21:46:23 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Rallies",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump cancels weekend rallies in Iowa and Kansas in favor of holding numerous tele-rallies - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPekM1SEphS1p0N2xOY0JlTXc1R3JReXQ0dXJRTXdVTnhKYkxaemJLdWhiTzRELUlIV1puYkhvU2wwUHB2RUVUTWtNaTUzUi1TT3REZzc0VUs2RW5zYVlDdFRKNXZkd05URTRWdkpmeXNFaVRnbFRhQTNEMTZfYTZWNnllRF9TaFZoZ09USkt5WWRGZlBmQ3JydkdnMjhhSnlWSlFnU0pVNUxwdGNjZkJCdHBxSjRVb0g4STBIWjd5WUYxUUNKb2R3?oc=5",
+          "source": "Google News",
+          "published": "Fri, 30 Oct 2026 03:19:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Justice",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Peltola denies knowing about Alaska spoiler candidate as Justice Department escalates investigation - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZFMwOVMxQVRwVnBFam0waFlKVG8tQ1poNGdDUmhPaXlHX1A0bVRscWFGSmwtMnNtUzFMQnAtbkt4WmtJbWRFUnNnYWhPVGFHOHRsTkdsTzducml1dVlhR25LQTFaeC1Ld0V6amhGS0doakg2dFZ0ckhDeVhqVndUTmliLW8zWDNZV1NvT3pxbk1zdkN2ZFBNaWxnS2FyeldUeFM5YmJmQ1o1QnMyeXJ5YzVjMA?oc=5",
+          "source": "Google News",
+          "published": "Fri, 30 Oct 2026 04:48:00 GMT"
+        },
+        {
+          "title": "Justice Department issues subpoenas to California election workers - NPR",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOVhQQVc0ZFFvS0c0ckxwTndVWDVoVF9tNjZtRFdKY1RPcXU0ZkVDMEVfaUY3YU1heGxjTWRkUURWZVVCbHgwQUVpOUhFaVBUSTdpR0JBZFlsZG02TngtSGdYOC1CWmM3dVhFMzhlajVlR2hVdGMzZEdGVmZicGhqdnlPWTg?oc=5",
+          "source": "Google News",
+          "published": "Fri, 30 Oct 2026 01:35:54 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Department",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Peltola denies knowing about Alaska spoiler candidate as Justice Department escalates investigation - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZFMwOVMxQVRwVnBFam0waFlKVG8tQ1poNGdDUmhPaXlHX1A0bVRscWFGSmwtMnNtUzFMQnAtbkt4WmtJbWRFUnNnYWhPVGFHOHRsTkdsTzducml1dVlhR25LQTFaeC1Ld0V6amhGS0doakg2dFZ0ckhDeVhqVndUTmliLW8zWDNZV1NvT3pxbk1zdkN2ZFBNaWxnS2FyeldUeFM5YmJmQ1o1QnMyeXJ5YzVjMA?oc=5",
+          "source": "Google News",
+          "published": "Fri, 30 Oct 2026 04:48:00 GMT"
+        },
+        {
+          "title": "Justice Department issues subpoenas to California election workers - NPR",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOVhQQVc0ZFFvS0c0ckxwTndVWDVoVF9tNjZtRFdKY1RPcXU0ZkVDMEVfaUY3YU1heGxjTWRkUURWZVVCbHgwQUVpOUhFaVBUSTdpR0JBZFlsZG02TngtSGdYOC1CWmM3dVhFMzhlajVlR2hVdGMzZEdGVmZicGhqdnlPWTg?oc=5",
+          "source": "Google News",
+          "published": "Fri, 30 Oct 2026 01:35:54 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Attack",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Controversial attack ad featuring Democrat’s estranged mother is off the air in Ohio - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUVl4djZxYVEzalFSRDdfbmV1MWg3RFRiSmVlNnlud1lUbFZWYkFKQVNKSXNXeDVpVXNGODJOWjY5VC1fRWdjaHpXXzVkNnpGMHBHWVNrR2FIT1FnbjU3NW5rVDU1c0V0cWhUeldXRV9vbS1QN0JFbUd0ZUNjRXZyczI2UV9LRzVpOTU1VkFyX3hGVGZY?oc=5",
+          "source": "Google News",
+          "published": "Fri, 30 Oct 2026 02:46:00 GMT"
+        },
+        {
+          "title": "At least 14 people killed in Russian attack on Dnipro train station - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON0dvUmlSSHZXZjNsam5PN082YVZHUXF5ZHRhMkF6eHh2b0JlbzhhWFFJM0JzZGFiLU1TTkRDYk5IbE5RRE90NTlXMGx1bm9Pa0drTG02TF9Bd002Sm1IV2tXNk1aSzZPNmwxRmRyVnJBYUp2WEZtZDRCaVVWV2ptVm5zYXBDS3lsakZsdnpEZzNhRVFTWDFSUVdKUEd2dHJZMXlvdWFmYS1jZGRH0gGyAUFVX3lxTE9VQVVwWmZIZnRtQ1NDUGRjOEVzMVpfQXYtYkZvdThDbjB5T3RBa3hBUjgxUFMxNm9zNzFZZU5vd0VtN3dlbzlSeEU5UFp5WFRoQjd1ZzVGX0NjZ0pNSURsaktyYkxvRGc4eUdPRmhZWmdTdlZER1N4WGpua2FwdDQwNE5lNjlpelhXWjV4Z1R0R1FtNlc3Yk5YdDJMaGdfYWZXaElIMkpxZ3RRQTdJbUdINlE?oc=5",
+          "source": "Google News",
+          "published": "Thu, 29 Oct 2026 17:27:56 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Judge",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Judge considers whether Letitia James should be removed from Cornell rape case - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdThtZWgzeHZaQ1U5eDVJRVVpVzZkZHZaYXhGTWMzdnE3QjAwQW56YW9KeDdhckpMblZTR1JUM2NVZE9UQWE0V1g1SmhmR1Vnc3BMWTNOSUFBYmNIX1A1bHhQSDhIUk05elJTcTRVM0N1R1BnLVhFd2ZxWXlqTmhnU3pQcWgxTE5iYllqai1ub3FfRkcyNnAzWm9ZRHNnWUJod3djN0xvQUE?oc=5",
+          "source": "Google News",
+          "published": "Fri, 30 Oct 2026 05:02:54 GMT"
+        },
+        {
+          "title": "Judge Orders Trump Officials to Outline Election Demands Sent to States - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR2VwMnpZMjhYTlgxVGM5ZWJvX1ltM3pobWd2LTRaaTF0UTZobkpNcEZEYkZ5cC1jZ09fQWxRMDFva1NKWXZ3SlQ3ai1OblZsVGRjRVlZa2RmR1NkQUZORUZkV3dDdHV6cnZ3ME9iUHdJbm94Z0VNQThDUWZKWHJVUDhtS095aDg?oc=5",
+          "source": "Google News",
+          "published": "Thu, 29 Oct 2026 21:46:23 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Final",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Israel’s final election results show neither Netanyahu nor rival can immediately form government - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbzRienByTkQ5U2pCV25Jd09FREVxd05VLTZRSTY1TGVTY2dsYl9zOFRucG1xN0pnOHhhLXRObUFNbGp1My1DYXB3UnByT0g0QTBMTlZqU3d6U0JrNm80bTBwSHh5N1hKcjk3MDhCaWNyNzdIaGlUZWxEWWpnUFFVNS01ZzcxUFp1MVRmdUd4YmNaRWZLdFg0R0dkTlp3TDFGX1Z3LUpZQ2I3ZDJwQlhvSFJNeEpPaHR6SlE?oc=5",
+          "source": "Google News",
+          "published": "Fri, 30 Oct 2026 01:42:00 GMT"
+        },
+        {
+          "title": "Spacewalkers begin final phase of multi-year space station power system upgrade - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUFFMdlVXd0NKMXh2YWIyQ1BXYlk4S3k1Q0NQRE5BbnZhcUJlLXROUXFMcUp4b09QRzJoZFVJaHZ5aWRKdEdKd0ZKZDFGYXBONlNMWmhoY2dGZGdKSXpReXE4dVBSNjZBUzVfbUdGbTYtQ2VzTXBrTVRhVXFWd0JBaVdzNXFya04zVGdLX2Z6NXZCM3ZtUHZnZ2E4WXhVYW5YLS1STDExTFZKNEhDbmc?oc=5",
+          "source": "Google News",
+          "published": "Thu, 29 Oct 2026 13:40:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Results",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Israel’s final election results show neither Netanyahu nor rival can immediately form government - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbzRienByTkQ5U2pCV25Jd09FREVxd05VLTZRSTY1TGVTY2dsYl9zOFRucG1xN0pnOHhhLXRObUFNbGp1My1DYXB3UnByT0g0QTBMTlZqU3d6U0JrNm80bTBwSHh5N1hKcjk3MDhCaWNyNzdIaGlUZWxEWWpnUFFVNS01ZzcxUFp1MVRmdUd4YmNaRWZLdFg0R0dkTlp3TDFGX1Z3LUpZQ2I3ZDJwQlhvSFJNeEpPaHR6SlE?oc=5",
+          "source": "Google News",
+          "published": "Fri, 30 Oct 2026 01:42:00 GMT"
+        },
+        {
+          "title": "Starbucks Reports Q4 and Full Fiscal Year 2026 Results - Starbucks Investor Relations",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdUlhMDJ2eXQ0cHlKNC1neEVaVVlxSEwwOHZjZHFhN3pPX3RfZ3VlY0lCQWI2RTJXZVEwSks0VHlsLU5GOUg1TXVLQURhcUR0UVB3bExTRVYzTXZTQzZPRHhfeWRiSmtPMDRneVFKVnpFbFZjNTNfVUU0bVFTYjNtMDI3dUVfQlJqVG1iMjVzOGRRRzBvRUt1b1EwZ214Q1pQUlFfZUVfczgtN0RLMU5xd0Nkem16TkV5Y2JhVjdEbGJBclFTdTNZbjZRSFlyblgtMWZJb3FKUQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 29 Oct 2026 20:12:01 GMT"
         }
       ]
     },
     {
       "word": "Death",
-      "count": 3,
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Pentagon plans for death of Trump’s record military budget - Politico",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMXJpSUlZTlAtV3RLNlJsZGdfZ2hzUTBiNXo4bTB2N0pmRjRxa3FSNktJTjhkX0hkenEwS1FzSzg0aFlLZkVzZDB4MnRRZWVxdkdyR0MxT2lyVUxQblFhdkJHWTU0SndRb0xCTDZCR05hb241NE5idlNaNjlaZDBSZWZGWnFDT1BpR0tHWA?oc=5",
+          "title": "Death toll from Spain train crash revised to 69 as royals visit victims - Euronews.com",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSzZ3RnNxVkZKRExnRGkyekpCWmszakVNaDh1TmZ1eldLbkN4Z1Eyc3BkblFVc1ZvM3BIX3F4Mzl5bG9SRnJRdlM0dlhWV0pIREpaeV9hVDJ6VEkzeW1qVk5nMTFob2dQWFJDbXB1WjU1ejVzNi1Ld25zOEhGVTZzd2JoYXRfbnBaa0tXX1FuR2h0NEpkeWt6amtXcngxXy1FUDQxcDR2TGQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 29 Oct 2026 20:34:00 GMT"
-        },
-        {
-          "title": "‘Days Of Our Lives’ Actor Robert Kelker-Kelly’s Cause Of Death Revealed - Deadline",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ1BkZzVQNVE3M00xalVQeFRzTkhhRFUtdDRlWUxxQ1BFcmlPVV8zR2F5MHFyR0FTU1BiQnFxT003YmhaR1UzWEtsR2ZqNjNIUHZXdXFpSGtoT29ockNvS05GZXZTWTF1b3BHSEtpaVA2cVhWLWl3dXJHMVFMYkRkSXM3d3paQks3NW44UEJwSDJaSlB0eUNTaA?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 22:40:00 GMT"
+          "published": "Thu, 29 Oct 2026 17:01:09 GMT"
         },
         {
           "title": "First flu-related death of the season reported in eastern Idaho - East Idaho News",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMk9jYnNKS3pYcWlPZVh1eTFqZEN5b0hCNzhNX0FIYkRuc1NveW5tMkl2akh6eTU1WGFqSGhZNDdWSTlZZ081bnhkOW94UzhTX1V0dkFCQ3NfWVZ3Y1RTRUprWldCLXp3UEljOTA2TzZSU0VoMXNhbkp5UEVBMWgzN2hXbjhRTmlDWlE1MVVuUlhTZjZKS2NsRG05a3lTZ1FhT1Q4WGNPYw?oc=5",
           "source": "Google News",
           "published": "Thu, 29 Oct 2026 13:30:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Stock",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Amazon earnings live: Q3 earnings miss sends stock lower - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS25wajNyNlducS0xMWQ0VnVtTGRnLUNFRHhkMGRwVS1ObV9MNWc1VzVsSlUtUmk1Q3JkeEJoaHRYSHZQTnR3a1ByZkkzOWhXYTVfZ0tHblhVdWpXdTM0cDNFLTFlN1BWVm5DUTlqY1BWNVI0NVc5OGNjeEhmTzVUelhDMnFkbWh0S3Y3ZTdfZ2VyS0x3MHV4Y1ZkVTBmd2hCZFBMYzlxemxVWHY2Ti1DRUN5QW5FVzA?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 22:00:11 GMT"
-        },
-        {
-          "title": "Stock Market Today: Nasdaq Breaks Streak On Alphabet's $500B Drop; Amazon Earnings Next - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc1N0UWUtenA4dTA3V1lWMXdXLWZ6Q3V1QXotNDY1OXczdHhaYV93LXNna3JweVZhb01YS25qYUlHWEFYSVJDLWhzOTFmVnZIa1hmSTRTd0RDNUhXVmtXNzZlTGR6eDllYnpXU2lFXzdibTI1RnBOUzRHeGliekY2cXh1c0Ryc1F5S3lCdnp2Tkh1YjUweTd2eWdKcDFXbHpZNXhXcE9INzNaZmhDLTA2Q2pRSEZkazJIQUZpUWo5cWFhZw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 21:45:00 GMT"
-        },
-        {
-          "title": "Intel Earnings: 2 Reasons the Stock Is Down So Much - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9yZXdLdExYS3hHN19GX0xPbTJSa0h4MTUyUm9oejU5UGEyaVl0RmhnaGMzdXBjbmJtbnNhMGdEYXpPaHdTMzk1d1hZM3BXLVhOdEJ0QzVzTExWNzFZbzZRSmd3dkZfTkdsOC10eXN4UkhpTjAwTVZn?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 21:43:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Investigation",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump Administration Pressures California With Expanded Voter Fraud Investigation - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUF9EaGFYV1ZLMUtyMk13WFhySGh6Q2xZSnJteFF1a0kyV29WZTJVdWV6MG02ZVNUbmxyM00xWm5WckF4ZU5GSkl0aDJ6OHRsSW5sSEwzMVd4TGJqNUhfcXFUc3pYekNiUzJULW5UMW9DcW1VaGdUZFQtUk9DVVNfM3MyVi1BOEdGNXNDeg?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 20:49:29 GMT"
-        },
-        {
-          "title": "Obama admin first launched the investigation into Ilhan Omar's alleged brother marriage - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQODA1dzgteVZqYXNpVVlWNHhxNi12a2VaR2xHdzNpcThKSXp4QWdiWC15YjZhb2VZQ2tib2t6SUFEa2FJMlNUbTUxbGJLcjdFdkM4TnZOLXVERkhWWEQ2R0xCSDRvQlhMeU9kRFVKZHZrUWM1eTg4MUpBN05QMS1ORklDU0RDd25EX1I0dG54cWpRVUxFNTdud0FUS1RKWXJ2X3R3RGlJc1hnMzBNaUF30gG0AUFVX3lxTE9vN2V5bDVoemZVWTE5TlNERlFvRGN6LTBMRlF3bEx1WFdDQ0hmYWVXS29FNVlJUTFDTUxEdlJuRHBKWjJMb2R3YzFIblROSGQ4SXAwUkxXcDZVYy01U3NDLUowajdMOTRjYUdBMHk1TFVrcWhadzZlWnMwaGZsWnl1Y2Y3ejAwMDJNem1sRFctcUxlWmJXbzlmSXBvMk54RUhBZUZ3RGlnUzhkd1oySVA2RklSTw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 15:05:27 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Ukraine",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Exclusive: Fired general admitted to leaking classified Iran and Ukraine info, report says - Axios",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxZjl0cFNnXzh3UXMyRjAwS3hqWXllQV9MSmk5d0g3S1ZmRnc1ZG5UY2RYXzVtVUdnb2lacWFUWXhaa1libUFaR202QUM5UFVaenNqQm1KeVI1UDU5SjFwTXk4VDJ3YWtoRzczTHZNNF9RZHM?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 22:09:02 GMT"
-        },
-        {
-          "title": "Russian drone kills 14 at Ukraine train station, but local truce credited to Melania Trump brings some hope - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZWd0M0wwVlZvUTBQUGdrS3lzUE5iT09FOGJLWk5FdEgzTEozS0VTN1d6MF9EbGRtM1V0b1gwSDN0S29hTkJPN3FWRG9oVmtRXzdKeDVWUXAtVWtYbkljbmV0WGhNNG8wVkZmb1ExSGl2RnJ0RlFWaTAyM3F0X0UtNUJwRWNwNmRhODhYVVp2TjZWQmFOZl9xWg?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 16:33:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "South",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "2026 Midterms: Trump Heads to South Carolina as Race Tightens - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTHNmVDJRdS1QWURZM3VZU2lQdFoyeW45VHNCeldWbmFVMXRCc3dqdmlTTzV5RE5QUHVFcTRDemdfSVdzRG9UOFRGVnRER080QzJnc2cxelc3YjNyRlhMOGRUQlJjSGt5RDNUZmQwZElCMmlIbWd0TTdWYTJOQVhDTlU2Vzk3bVk0THZrUlBValVlb0xRWmoxdA?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 22:17:36 GMT"
-        },
-        {
-          "title": "Darline Graham increasingly endangered as South Carolina Senate race nears end - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdHNuNnJac25CdnQtT0diQ1N3WFdSa1Fza2dqbElJeUloU1FSUUNma1pRaDhkR3VMS012TUVCbjB1UGlNeTh5aGVFWU9CZkpZeW5mLW82NVNvVnBaT0dreldrSUNidFJ3cW1GZ0pNb0syTG9sZjNKSkpGZW5nZVRHcklWMEcxZjVwTm9LbThFNTRjeXVySHFPNmk0WU5wUWItdWdpUmFlR3JkRmowekN6akdFQVlIZEFTamxCaGlRRl9GZ1M2aXc?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 23:45:34 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Carolina",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "2026 Midterms: Trump Heads to South Carolina as Race Tightens - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTHNmVDJRdS1QWURZM3VZU2lQdFoyeW45VHNCeldWbmFVMXRCc3dqdmlTTzV5RE5QUHVFcTRDemdfSVdzRG9UOFRGVnRER080QzJnc2cxelc3YjNyRlhMOGRUQlJjSGt5RDNUZmQwZElCMmlIbWd0TTdWYTJOQVhDTlU2Vzk3bVk0THZrUlBValVlb0xRWmoxdA?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 22:17:36 GMT"
-        },
-        {
-          "title": "Darline Graham increasingly endangered as South Carolina Senate race nears end - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdHNuNnJac25CdnQtT0diQ1N3WFdSa1Fza2dqbElJeUloU1FSUUNma1pRaDhkR3VMS012TUVCbjB1UGlNeTh5aGVFWU9CZkpZeW5mLW82NVNvVnBaT0dreldrSUNidFJ3cW1GZ0pNb0syTG9sZjNKSkpGZW5nZVRHcklWMEcxZjVwTm9LbThFNTRjeXVySHFPNmk0WU5wUWItdWdpUmFlR3JkRmowekN6akdFQVlIZEFTamxCaGlRRl9GZ1M2aXc?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 23:45:34 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Race",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "2026 Midterms: Trump Heads to South Carolina as Race Tightens - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTHNmVDJRdS1QWURZM3VZU2lQdFoyeW45VHNCeldWbmFVMXRCc3dqdmlTTzV5RE5QUHVFcTRDemdfSVdzRG9UOFRGVnRER080QzJnc2cxelc3YjNyRlhMOGRUQlJjSGt5RDNUZmQwZElCMmlIbWd0TTdWYTJOQVhDTlU2Vzk3bVk0THZrUlBValVlb0xRWmoxdA?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 22:17:36 GMT"
-        },
-        {
-          "title": "Darline Graham increasingly endangered as South Carolina Senate race nears end - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdHNuNnJac25CdnQtT0diQ1N3WFdSa1Fza2dqbElJeUloU1FSUUNma1pRaDhkR3VMS012TUVCbjB1UGlNeTh5aGVFWU9CZkpZeW5mLW82NVNvVnBaT0dreldrSUNidFJ3cW1GZ0pNb0syTG9sZjNKSkpGZW5nZVRHcklWMEcxZjVwTm9LbThFNTRjeXVySHFPNmk0WU5wUWItdWdpUmFlR3JkRmowekN6akdFQVlIZEFTamxCaGlRRl9GZ1M2aXc?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 23:45:34 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Election",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Netanyahu’s party claims election ‘stolen’ as results show him losing majority - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUlRWdElCT21MdGllQ29QbmxreHhfeTJvaUQ5Rjd2VndKSFRqSmJVMEhKY1VpOTNYWm1zZklsVWVjY0FHbDZxenZUa2NFaWQ0NEluY1ZXV1lqSWNPOWVyMXZ4eGhuQnkxLWVha01PVlhLb2l4Y2RzdENjSTQ0c3UweG5qTFZiOWE1MHFoVllsQjdqeURjUUxfSHpCWnlwNFdnR0N1Y2h1dUw5VElo?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 23:24:00 GMT"
-        },
-        {
-          "title": "Israel election result shows no overall majority as vote count complete - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdlRKcmM0b2Q5Q3I3YS1KejlBOUVUNGtpZ3k0NG0wRG1uZHlKWktycWtnd1JQLUh2dG1LWWxaTVJMRTZFTDB3OXpXaVVVQlBXQm1YUzFPeU16b2dQdDVjcU1yRWdzOXV5V0lqNVo2X0pNVFlYXzE2eEFrU3U3bEdwT1JnRmRHMlRrTW4tMDhvcVJIdHVqZEFOMjNmVXpNMWVrajhJNlRGcWh3SHljTVVHWG1EVdIBuAFBVV95cUxNTFNTejBtc3J6M1Q2aVJrVWpLSTBrNWo5RlFLUVh1a05kbFh0YUZRTTUwXzA5Wlh6WGlYUXNBbEVFVHAzMGd4c2JSSmpzZW1sdGkySThWb29DeDVteGpGbUJsMEtjTEEzY3pvMDZWSWJZQ2dITGkzUFdQWkhFR1lOZTd2TERVOW5XN1JHa0dHdWtwcEhQc3pTOENabXZESExtZnhIVy1DNFEwTlZtSm5YSWJya3lMdUZE?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 20:29:43 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Majority",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Netanyahu’s party claims election ‘stolen’ as results show him losing majority - AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUlRWdElCT21MdGllQ29QbmxreHhfeTJvaUQ5Rjd2VndKSFRqSmJVMEhKY1VpOTNYWm1zZklsVWVjY0FHbDZxenZUa2NFaWQ0NEluY1ZXV1lqSWNPOWVyMXZ4eGhuQnkxLWVha01PVlhLb2l4Y2RzdENjSTQ0c3UweG5qTFZiOWE1MHFoVllsQjdqeURjUUxfSHpCWnlwNFdnR0N1Y2h1dUw5VElo?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 23:24:00 GMT"
-        },
-        {
-          "title": "Israel election result shows no overall majority as vote count complete - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdlRKcmM0b2Q5Q3I3YS1KejlBOUVUNGtpZ3k0NG0wRG1uZHlKWktycWtnd1JQLUh2dG1LWWxaTVJMRTZFTDB3OXpXaVVVQlBXQm1YUzFPeU16b2dQdDVjcU1yRWdzOXV5V0lqNVo2X0pNVFlYXzE2eEFrU3U3bEdwT1JnRmRHMlRrTW4tMDhvcVJIdHVqZEFOMjNmVXpNMWVrajhJNlRGcWh3SHljTVVHWG1EVdIBuAFBVV95cUxNTFNTejBtc3J6M1Q2aVJrVWpLSTBrNWo5RlFLUVh1a05kbFh0YUZRTTUwXzA5Wlh6WGlYUXNBbEVFVHAzMGd4c2JSSmpzZW1sdGkySThWb29DeDVteGpGbUJsMEtjTEEzY3pvMDZWSWJZQ2dITGkzUFdQWkhFR1lOZTd2TERVOW5XN1JHa0dHdWtwcEhQc3pTOENabXZESExtZnhIVy1DNFEwTlZtSm5YSWJya3lMdUZE?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 20:29:43 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Crash",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Firefighters responding to 2-helicopter crash in McMinnville - OregonLive.com",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRVpYaFg0T2JoekxDanpqYjNKRnp4Z0Zhc3Z6bFlmamx5ZjluY0tFbW1vVlBjVFZnc2p6Vklmdk55ZnE2OGk2aWFQSjQ1ZjFMeGlHT2NUdXYyS3VCMjV5bHZhbkctREVSVUU5bFVlTXlsS1MxYk9oamlzdkJzQTEtQkRib1gwODN0UFkwRnRnMS1GNEJCZG8wMTg0NEE2bzBnX1lPMkJVVGdYd9IBvgFBVV95cUxQdFl6dnZFYUZRSE5rZndwT2tzNVRhWm1sdktmUWZsN1VVVHBkZnNjM1VPMFJuQ1VhSzhtU2FNdGMtR2UwdjlINmhwUkRNRWdDU3pFLXlFZnR4Tzg1SUNZREFnX3h6aHdKWDJPcW5Ic3BRb0tBOHZZYVhlOVJDTUpVNWlhOXZYQW5RQ2J2T1JXa3kzNlFIN2JobWNtdXRENHU3OTRlLW9SRkRNUjNaTEJJT0FnbFkzZ3FIZU9OajJR?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 21:54:00 GMT"
-        },
-        {
-          "title": "Protests erupt in Spain after train crash kills dozens - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMG5NQUtvdE44Z3FvSHVNNVlqVGpIc0E0ekZJSDdEVC1POHBhd2JYWEpoU2FrLTVOdmVubXA2V1FtX2xtWkJ4dzRkOHlrZHlmMVFvUUZLLUI2d0hhTW5FZTdUeExZWU1KemFkSUJwNlI4RmxjZ1FucEl4T3ZScHBpc2JEbjZtai1haWFCVGozdmFLUDUzZVBvZndHQ3VCaXNlMURtOEZHdHFBUDZ4VTRUemxHZ2Y?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 20:34:58 GMT"
         }
       ]
     },
@@ -292,35 +199,16 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Protests erupt in Spain after train crash kills dozens - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMG5NQUtvdE44Z3FvSHVNNVlqVGpIc0E0ekZJSDdEVC1POHBhd2JYWEpoU2FrLTVOdmVubXA2V1FtX2xtWkJ4dzRkOHlrZHlmMVFvUUZLLUI2d0hhTW5FZTdUeExZWU1KemFkSUJwNlI4RmxjZ1FucEl4T3ZScHBpc2JEbjZtai1haWFCVGozdmFLUDUzZVBvZndHQ3VCaXNlMURtOEZHdHFBUDZ4VTRUemxHZ2Y?oc=5",
+          "title": "Death toll from Spain train crash revised to 69 as royals visit victims - Euronews.com",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSzZ3RnNxVkZKRExnRGkyekpCWmszakVNaDh1TmZ1eldLbkN4Z1Eyc3BkblFVc1ZvM3BIX3F4Mzl5bG9SRnJRdlM0dlhWV0pIREpaeV9hVDJ6VEkzeW1qVk5nMTFob2dQWFJDbXB1WjU1ejVzNi1Ld25zOEhGVTZzd2JoYXRfbnBaa0tXX1FuR2h0NEpkeWt6amtXcngxXy1FUDQxcDR2TGQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 29 Oct 2026 20:34:58 GMT"
+          "published": "Thu, 29 Oct 2026 17:01:09 GMT"
         },
         {
-          "title": "Russian drone kills 14 at Ukraine train station, but local truce credited to Melania Trump brings some hope - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZWd0M0wwVlZvUTBQUGdrS3lzUE5iT09FOGJLWk5FdEgzTEozS0VTN1d6MF9EbGRtM1V0b1gwSDN0S29hTkJPN3FWRG9oVmtRXzdKeDVWUXAtVWtYbkljbmV0WGhNNG8wVkZmb1ExSGl2RnJ0RlFWaTAyM3F0X0UtNUJwRWNwNmRhODhYVVp2TjZWQmFOZl9xWg?oc=5",
+          "title": "At least 14 people killed in Russian attack on Dnipro train station - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON0dvUmlSSHZXZjNsam5PN082YVZHUXF5ZHRhMkF6eHh2b0JlbzhhWFFJM0JzZGFiLU1TTkRDYk5IbE5RRE90NTlXMGx1bm9Pa0drTG02TF9Bd002Sm1IV2tXNk1aSzZPNmwxRmRyVnJBYUp2WEZtZDRCaVVWV2ptVm5zYXBDS3lsakZsdnpEZzNhRVFTWDFSUVdKUEd2dHJZMXlvdWFmYS1jZGRH0gGyAUFVX3lxTE9VQVVwWmZIZnRtQ1NDUGRjOEVzMVpfQXYtYkZvdThDbjB5T3RBa3hBUjgxUFMxNm9zNzFZZU5vd0VtN3dlbzlSeEU5UFp5WFRoQjd1ZzVGX0NjZ0pNSURsaktyYkxvRGc4eUdPRmhZWmdTdlZER1N4WGpua2FwdDQwNE5lNjlpelhXWjV4Z1R0R1FtNlc3Yk5YdDJMaGdfYWZXaElIMkpxZ3RRQTdJbUdINlE?oc=5",
           "source": "Google News",
-          "published": "Thu, 29 Oct 2026 16:33:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Kills",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Protests erupt in Spain after train crash kills dozens - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMG5NQUtvdE44Z3FvSHVNNVlqVGpIc0E0ekZJSDdEVC1POHBhd2JYWEpoU2FrLTVOdmVubXA2V1FtX2xtWkJ4dzRkOHlrZHlmMVFvUUZLLUI2d0hhTW5FZTdUeExZWU1KemFkSUJwNlI4RmxjZ1FucEl4T3ZScHBpc2JEbjZtai1haWFCVGozdmFLUDUzZVBvZndHQ3VCaXNlMURtOEZHdHFBUDZ4VTRUemxHZ2Y?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 20:34:58 GMT"
-        },
-        {
-          "title": "Russian drone kills 14 at Ukraine train station, but local truce credited to Melania Trump brings some hope - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZWd0M0wwVlZvUTBQUGdrS3lzUE5iT09FOGJLWk5FdEgzTEozS0VTN1d6MF9EbGRtM1V0b1gwSDN0S29hTkJPN3FWRG9oVmtRXzdKeDVWUXAtVWtYbkljbmV0WGhNNG8wVkZmb1ExSGl2RnJ0RlFWaTAyM3F0X0UtNUJwRWNwNmRhODhYVVp2TjZWQmFOZl9xWg?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 16:33:00 GMT"
+          "published": "Thu, 29 Oct 2026 17:27:56 GMT"
         }
       ]
     },
@@ -330,130 +218,16 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Russian drone kills 14 at Ukraine train station, but local truce credited to Melania Trump brings some hope - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZWd0M0wwVlZvUTBQUGdrS3lzUE5iT09FOGJLWk5FdEgzTEozS0VTN1d6MF9EbGRtM1V0b1gwSDN0S29hTkJPN3FWRG9oVmtRXzdKeDVWUXAtVWtYbkljbmV0WGhNNG8wVkZmb1ExSGl2RnJ0RlFWaTAyM3F0X0UtNUJwRWNwNmRhODhYVVp2TjZWQmFOZl9xWg?oc=5",
+          "title": "At least 14 people killed in Russian attack on Dnipro train station - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON0dvUmlSSHZXZjNsam5PN082YVZHUXF5ZHRhMkF6eHh2b0JlbzhhWFFJM0JzZGFiLU1TTkRDYk5IbE5RRE90NTlXMGx1bm9Pa0drTG02TF9Bd002Sm1IV2tXNk1aSzZPNmwxRmRyVnJBYUp2WEZtZDRCaVVWV2ptVm5zYXBDS3lsakZsdnpEZzNhRVFTWDFSUVdKUEd2dHJZMXlvdWFmYS1jZGRH0gGyAUFVX3lxTE9VQVVwWmZIZnRtQ1NDUGRjOEVzMVpfQXYtYkZvdThDbjB5T3RBa3hBUjgxUFMxNm9zNzFZZU5vd0VtN3dlbzlSeEU5UFp5WFRoQjd1ZzVGX0NjZ0pNSURsaktyYkxvRGc4eUdPRmhZWmdTdlZER1N4WGpua2FwdDQwNE5lNjlpelhXWjV4Z1R0R1FtNlc3Yk5YdDJMaGdfYWZXaElIMkpxZ3RRQTdJbUdINlE?oc=5",
           "source": "Google News",
-          "published": "Thu, 29 Oct 2026 16:33:00 GMT"
+          "published": "Thu, 29 Oct 2026 17:27:56 GMT"
         },
         {
           "title": "Spacewalkers begin final phase of multi-year space station power system upgrade - CBS News",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUFFMdlVXd0NKMXh2YWIyQ1BXYlk4S3k1Q0NQRE5BbnZhcUJlLXROUXFMcUp4b09QRzJoZFVJaHZ5aWRKdEdKd0ZKZDFGYXBONlNMWmhoY2dGZGdKSXpReXE4dVBSNjZBUzVfbUdGbTYtQ2VzTXBrTVRhVXFWd0JBaVdzNXFya04zVGdLX2Z6NXZCM3ZtUHZnZ2E4WXhVYW5YLS1STDExTFZKNEhDbmc?oc=5",
           "source": "Google News",
           "published": "Thu, 29 Oct 2026 13:40:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Related",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Robust consumer spending, AI-related investment power US economy in third quarter - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd0JuSzdaWWtxaGJGdW5CV0pONGc2dlpzMVJnaGl2UUIwQmtkc1FNSUVNQzhxTFRycVZ4dGpRaVlvbGdraXBWenkzY1otSno3TC1zWTlQUmFRandmM0hlSm14a1pfWTJMNjdNclo5bFlFQWt3UlpIcFlPY3RtZzBQVXhKUzVPSWMxUXZFckNVM3ZXZEU?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 20:29:42 GMT"
-        },
-        {
-          "title": "First flu-related death of the season reported in eastern Idaho - East Idaho News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMk9jYnNKS3pYcWlPZVh1eTFqZEN5b0hCNzhNX0FIYkRuc1NveW5tMkl2akh6eTU1WGFqSGhZNDdWSTlZZ081bnhkOW94UzhTX1V0dkFCQ3NfWVZ3Y1RTRUprWldCLXp3UEljOTA2TzZSU0VoMXNhbkp5UEVBMWgzN2hXbjhRTmlDWlE1MVVuUlhTZjZKS2NsRG05a3lTZ1FhT1Q4WGNPYw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 13:30:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Power",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Robust consumer spending, AI-related investment power US economy in third quarter - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd0JuSzdaWWtxaGJGdW5CV0pONGc2dlpzMVJnaGl2UUIwQmtkc1FNSUVNQzhxTFRycVZ4dGpRaVlvbGdraXBWenkzY1otSno3TC1zWTlQUmFRandmM0hlSm14a1pfWTJMNjdNclo5bFlFQWt3UlpIcFlPY3RtZzBQVXhKUzVPSWMxUXZFckNVM3ZXZEU?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 20:29:42 GMT"
-        },
-        {
-          "title": "Spacewalkers begin final phase of multi-year space station power system upgrade - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUFFMdlVXd0NKMXh2YWIyQ1BXYlk4S3k1Q0NQRE5BbnZhcUJlLXROUXFMcUp4b09QRzJoZFVJaHZ5aWRKdEdKd0ZKZDFGYXBONlNMWmhoY2dGZGdKSXpReXE4dVBSNjZBUzVfbUdGbTYtQ2VzTXBrTVRhVXFWd0JBaVdzNXFya04zVGdLX2Z6NXZCM3ZtUHZnZ2E4WXhVYW5YLS1STDExTFZKNEhDbmc?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 13:40:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Amazon",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Amazon earnings live: Q3 earnings miss sends stock lower - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS25wajNyNlducS0xMWQ0VnVtTGRnLUNFRHhkMGRwVS1ObV9MNWc1VzVsSlUtUmk1Q3JkeEJoaHRYSHZQTnR3a1ByZkkzOWhXYTVfZ0tHblhVdWpXdTM0cDNFLTFlN1BWVm5DUTlqY1BWNVI0NVc5OGNjeEhmTzVUelhDMnFkbWh0S3Y3ZTdfZ2VyS0x3MHV4Y1ZkVTBmd2hCZFBMYzlxemxVWHY2Ti1DRUN5QW5FVzA?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 22:00:11 GMT"
-        },
-        {
-          "title": "Stock Market Today: Nasdaq Breaks Streak On Alphabet's $500B Drop; Amazon Earnings Next - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc1N0UWUtenA4dTA3V1lWMXdXLWZ6Q3V1QXotNDY1OXczdHhaYV93LXNna3JweVZhb01YS25qYUlHWEFYSVJDLWhzOTFmVnZIa1hmSTRTd0RDNUhXVmtXNzZlTGR6eDllYnpXU2lFXzdibTI1RnBOUzRHeGliekY2cXh1c0Ryc1F5S3lCdnp2Tkh1YjUweTd2eWdKcDFXbHpZNXhXcE9INzNaZmhDLTA2Q2pRSEZkazJIQUZpUWo5cWFhZw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 21:45:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Live",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Amazon earnings live: Q3 earnings miss sends stock lower - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS25wajNyNlducS0xMWQ0VnVtTGRnLUNFRHhkMGRwVS1ObV9MNWc1VzVsSlUtUmk1Q3JkeEJoaHRYSHZQTnR3a1ByZkkzOWhXYTVfZ0tHblhVdWpXdTM0cDNFLTFlN1BWVm5DUTlqY1BWNVI0NVc5OGNjeEhmTzVUelhDMnFkbWh0S3Y3ZTdfZ2VyS0x3MHV4Y1ZkVTBmd2hCZFBMYzlxemxVWHY2Ti1DRUN5QW5FVzA?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 22:00:11 GMT"
-        },
-        {
-          "title": "2026 NFL Trade Deadline live updates: Tracker, deals, news, rumors, analysis - NBC Sports",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWnVtUXd4R3QwREVOR0hNSW5HSHZuMWw0SHNJeFVyRUw4WnJ0a19kLVpSUUhvQ3ZSbkh1YmlOUG5nZVROazU1RlNIaTJ5ZVpPLWhBREg5eUo1ODVTb3lnbkhpY01jM3JWVXphb2JoR0N6VkxLN0xXNG1vYTFieTR6eU4tcEN4R1diSnVTWkpINUIxQ1pJd3BoaUVMQzJEWVJUMks0ZkJNaVd6bnVFMjMxX3pPNHcwZTZrX0lXY3pfdkx1OHl5azQxZ3NwdHpRZw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 16:53:07 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Lower",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Amazon earnings live: Q3 earnings miss sends stock lower - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS25wajNyNlducS0xMWQ0VnVtTGRnLUNFRHhkMGRwVS1ObV9MNWc1VzVsSlUtUmk1Q3JkeEJoaHRYSHZQTnR3a1ByZkkzOWhXYTVfZ0tHblhVdWpXdTM0cDNFLTFlN1BWVm5DUTlqY1BWNVI0NVc5OGNjeEhmTzVUelhDMnFkbWh0S3Y3ZTdfZ2VyS0x3MHV4Y1ZkVTBmd2hCZFBMYzlxemxVWHY2Ti1DRUN5QW5FVzA?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 22:00:11 GMT"
-        },
-        {
-          "title": "Acer's Predator Atlas 8 gaming handheld launches in the US at a much lower price than expected - TweakTown",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTDdFVnhDWXBhRVpza1ZGXzNtbl9nQkt0NlM1QkRPVFB0MmVVckd2ZmtsdDFNbUMySU13d0c3VnM4X0djVHFTVzgwN2d6anEwQzJSRWI0VTNvQThhdUJkbzZCNEhSSTU1NUFOOWtCaTh2ODhmb2RiYW5yZU51Zi1tV0ZYa1pmOElMaTk5Y0phbHdaZERXeTFhUVJwSFA3Z1VCYUxqaUNwRHhpWjhjSkpZTWdXU3otOWFTa0hTVm81VGlsMVB1UEpSYVpIX0ZtNjA4UzNxV09IekxmQQ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 28 Oct 2026 06:29:15 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Much",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Intel Earnings: 2 Reasons the Stock Is Down So Much - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9yZXdLdExYS3hHN19GX0xPbTJSa0h4MTUyUm9oejU5UGEyaVl0RmhnaGMzdXBjbmJtbnNhMGdEYXpPaHdTMzk1d1hZM3BXLVhOdEJ0QzVzTExWNzFZbzZRSmd3dkZfTkdsOC10eXN4UkhpTjAwTVZn?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 21:43:00 GMT"
-        },
-        {
-          "title": "Acer's Predator Atlas 8 gaming handheld launches in the US at a much lower price than expected - TweakTown",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTDdFVnhDWXBhRVpza1ZGXzNtbl9nQkt0NlM1QkRPVFB0MmVVckd2ZmtsdDFNbUMySU13d0c3VnM4X0djVHFTVzgwN2d6anEwQzJSRWI0VTNvQThhdUJkbzZCNEhSSTU1NUFOOWtCaTh2ODhmb2RiYW5yZU51Zi1tV0ZYa1pmOElMaTk5Y0phbHdaZERXeTFhUVJwSFA3Z1VCYUxqaUNwRHhpWjhjSkpZTWdXU3otOWFTa0hTVm81VGlsMVB1UEpSYVpIX0ZtNjA4UzNxV09IekxmQQ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 28 Oct 2026 06:29:15 GMT"
         }
       ]
     },
@@ -463,111 +237,254 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Apple Executive Comments on New iPad Mini Lacking 120Hz Display - MacRumors",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU0xnUGdvQVRUWnVpbWlWSWt1eDhpM2dpalBwZ2FyWnY3djJ2d0lVUXN6UUR5dHJNcHFicjJyTFVpa2VMRlAtSXcybUlnM0R4LXBmUXVRQ2lENEdpalJ0LTNQbE5jTjlHVXhHcVYzUkVycno5Mlgzb3luUHJreVY5OVV6ZE1tV28?oc=5",
+          "title": "Apple VP talks new iPad mini: OLED without ProMotion, Acoustic Display, more - 9to5Mac",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdDV3d0VfVDBORzQ4RWJBUWJ1MHJyNXpwcDlBNDNoVG1WTHpKYmFSX2loLWdCVGxSTHBUVGQ0MGJxeUZVRk1yQjMzcDV4S2h5RVZDYjY2TUhSN1Q4b0tCSm5BZWh6dGpxMlZYSTdub2hld1c4bHptNjdBZ1dSSE1scVNkR1NrWWY2VkRZOEx0RDNqNVJCUDBOd1pXeXZJNE1iWDN3TWNxWUg?oc=5",
           "source": "Google News",
-          "published": "Thu, 29 Oct 2026 20:47:14 GMT"
+          "published": "Thu, 29 Oct 2026 20:49:00 GMT"
         },
         {
-          "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme - TechCrunch",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbm9zb05IT3pjWjdiY1AtZEtGTEVHOVFZdnJkM1IydWpTSkQyYXFBT2FpX25laFJvX0JPTWNxTERDMzVQdFQ1amtMZWN2MkNrRUJEWThjaUJCemNkODEzc01ZQzZvVGFzTExZM0ZBRkFpWlY0czAzcU02TTBQTUZDYWtjcGlCV2VZUHJfVzV4ejhBdnU5YjdyU0Y2Z3JISjRUWmR0cnZmNA?oc=5",
+          "title": "New Apple TV 4K and iPad Mini: RAM Amounts Revealed - MacRumors",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRTZXY3JVMTcxbnpKZEQ5YlNUeVJlcjdWS3ZBNE1SNHFtd3czS0ktSmRqU25QeGxMQ1E3SWZxZ1pYSE1RUHE3cEo4TjRtejgyQTRXRWNZTWFGRXhYSWxZaUx1YTViWFdZWmJ3Yjc0elRpMHluVWJGZTYtSUx4YVNBdA?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 22:47:50 GMT"
+          "published": "Fri, 30 Oct 2026 00:50:00 GMT"
         }
       ]
     },
     {
-      "word": "Comments",
+      "word": "Ipad",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Apple Executive Comments on New iPad Mini Lacking 120Hz Display - MacRumors",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU0xnUGdvQVRUWnVpbWlWSWt1eDhpM2dpalBwZ2FyWnY3djJ2d0lVUXN6UUR5dHJNcHFicjJyTFVpa2VMRlAtSXcybUlnM0R4LXBmUXVRQ2lENEdpalJ0LTNQbE5jTjlHVXhHcVYzUkVycno5Mlgzb3luUHJreVY5OVV6ZE1tV28?oc=5",
+          "title": "Apple VP talks new iPad mini: OLED without ProMotion, Acoustic Display, more - 9to5Mac",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdDV3d0VfVDBORzQ4RWJBUWJ1MHJyNXpwcDlBNDNoVG1WTHpKYmFSX2loLWdCVGxSTHBUVGQ0MGJxeUZVRk1yQjMzcDV4S2h5RVZDYjY2TUhSN1Q4b0tCSm5BZWh6dGpxMlZYSTdub2hld1c4bHptNjdBZ1dSSE1scVNkR1NrWWY2VkRZOEx0RDNqNVJCUDBOd1pXeXZJNE1iWDN3TWNxWUg?oc=5",
           "source": "Google News",
-          "published": "Thu, 29 Oct 2026 20:47:14 GMT"
+          "published": "Thu, 29 Oct 2026 20:49:00 GMT"
         },
         {
-          "title": "Crystal Hefner Rips Jon Lovitz After He Dismissed Her Playboy Mansion 'Perv' Comments - TMZ",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2hmRWFqUW9lZ0tvVk1Lbmh1V3A4UWtzQVoxMFlEVXpoMnhLSmhQR1FrLUgzLTJocFQzWm1WaHJlZVdfNU9JZzl1MVk3RkNQOHlLbWdfbU5abmlLdE13N0dDMUV6a0JOVlY4dF9LVlZiWWlXN0Q3WWotQ2xtcDNtY055b2xmb0hJUzVERUY5TkNjZDl1OUctVThIbGo?oc=5",
+          "title": "New Apple TV 4K and iPad Mini: RAM Amounts Revealed - MacRumors",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRTZXY3JVMTcxbnpKZEQ5YlNUeVJlcjdWS3ZBNE1SNHFtd3czS0ktSmRqU25QeGxMQ1E3SWZxZ1pYSE1RUHE3cEo4TjRtejgyQTRXRWNZTWFGRXhYSWxZaUx1YTViWFdZWmJ3Yjc0elRpMHluVWJGZTYtSUx4YVNBdA?oc=5",
           "source": "Google News",
-          "published": "Thu, 29 Oct 2026 13:47:53 GMT"
+          "published": "Fri, 30 Oct 2026 00:50:00 GMT"
         }
       ]
     },
     {
-      "word": "Pro",
+      "word": "Mini",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme - TechCrunch",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbm9zb05IT3pjWjdiY1AtZEtGTEVHOVFZdnJkM1IydWpTSkQyYXFBT2FpX25laFJvX0JPTWNxTERDMzVQdFQ1amtMZWN2MkNrRUJEWThjaUJCemNkODEzc01ZQzZvVGFzTExZM0ZBRkFpWlY0czAzcU02TTBQTUZDYWtjcGlCV2VZUHJfVzV4ejhBdnU5YjdyU0Y2Z3JISjRUWmR0cnZmNA?oc=5",
+          "title": "Apple VP talks new iPad mini: OLED without ProMotion, Acoustic Display, more - 9to5Mac",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdDV3d0VfVDBORzQ4RWJBUWJ1MHJyNXpwcDlBNDNoVG1WTHpKYmFSX2loLWdCVGxSTHBUVGQ0MGJxeUZVRk1yQjMzcDV4S2h5RVZDYjY2TUhSN1Q4b0tCSm5BZWh6dGpxMlZYSTdub2hld1c4bHptNjdBZ1dSSE1scVNkR1NrWWY2VkRZOEx0RDNqNVJCUDBOd1pXeXZJNE1iWDN3TWNxWUg?oc=5",
           "source": "Google News",
-          "published": "Wed, 28 Oct 2026 22:47:50 GMT"
+          "published": "Thu, 29 Oct 2026 20:49:00 GMT"
         },
         {
-          "title": "Bears swing blockbuster, acquire All-Pro DT Jeffery Simmons from Titans - The Athletic - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWENZdzdkMXNid3ZwVHlvNkhnbTU1dGtKN0NrUlRhWjB2aVYxaE5NVlBhWFlhbWpOYk5fWlRfOVp0SV9LdTdhSEF1RTc1N2xETjRxY2pvQXQ0SElnUm5rdWxTWXVjdm5tSnZOZGVNTlp4dXZ6YmFWcUxUVnZ6SE95NEdjOEpRWExiV1VqUE1za0Q?oc=5",
+          "title": "New Apple TV 4K and iPad Mini: RAM Amounts Revealed - MacRumors",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRTZXY3JVMTcxbnpKZEQ5YlNUeVJlcjdWS3ZBNE1SNHFtd3czS0ktSmRqU25QeGxMQ1E3SWZxZ1pYSE1RUHE3cEo4TjRtejgyQTRXRWNZTWFGRXhYSWxZaUx1YTViWFdZWmJ3Yjc0elRpMHluVWJGZTYtSUx4YVNBdA?oc=5",
           "source": "Google News",
-          "published": "Thu, 29 Oct 2026 22:49:25 GMT"
+          "published": "Fri, 30 Oct 2026 00:50:00 GMT"
         }
       ]
     },
     {
-      "word": "Actor",
+      "word": "Packers",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Patrick Stewart, actor known for iconic roles in ‘Star Trek’ and ‘X-Men,’ dies at 86 - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWnNta2FkQkw3VGZIQWtDejBodGdFTTU3bUF0MjF3MlpfMjJSVFVxSnFLWE02UmlIdlZTM2t5S2h6NnNBdkFBLWZKMVd6ajBsbjhCdF9iRUdzUEJlUGduZEg2eVVVbjVVR1B6THczcVNaMThvQzdQbzRkN3V1b1JHbGpJdURfdXZXaDRGVGNibjdDaDZ5Z0Z4Wi14eElqWGtIc3RjY2dZOU5yUUVJUGhpaks4RWZtWXREZC1DMUtGdENEMXMzeVlkM2NQVUt5S1k?oc=5",
+          "title": "Thursday Night Football: Packers hold on for 27-19 win over Panthers - NBC Sports",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN3dHQkdPLTNYMmJEMFFsR2dvR04xSkZ3YTBuT2hWMGM0UFpOWGRYanpudzlOQ0FnWE1sTVpLMXRtUVhvdXVnRXZZY2hPUW5JVWZGakpvVzdkMnVPYU1PTTJvcUY2UGIzeFVHenNuOUpKRmplN1d3TmJjRHZqZGVzZU8ya3AteTlYMEFraVJ3QVB0VXlDR2tKSENwU2twQmQxdjlnOEdxdlJQQ3RwUklFdnJmMERyMVowT3pqd3BGek5yN2JweHNkdg?oc=5",
           "source": "Google News",
-          "published": "Thu, 29 Oct 2026 22:33:29 GMT"
+          "published": "Fri, 30 Oct 2026 03:37:06 GMT"
         },
         {
-          "title": "‘Days Of Our Lives’ Actor Robert Kelker-Kelly’s Cause Of Death Revealed - Deadline",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ1BkZzVQNVE3M00xalVQeFRzTkhhRFUtdDRlWUxxQ1BFcmlPVV8zR2F5MHFyR0FTU1BiQnFxT003YmhaR1UzWEtsR2ZqNjNIUHZXdXFpSGtoT29ockNvS05GZXZTWTF1b3BHSEtpaVA2cVhWLWl3dXJHMVFMYkRkSXM3d3paQks3NW44UEJwSDJaSlB0eUNTaA?oc=5",
+          "title": "Packers' Christian Watson makes stunning 'TNF' return after hospital trip - USA Today",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZGdNM2NpdWhXbjhXRHl5LVVaWDBSY09KODREbHM2TDBMMzRlb1lOVklGRWFNZjlmVG5QejJMUEJYNC1VdlJIVnNNRlowT1NIZndqUXFocHlwVkVhb0ZUNTlNTzRjSkNmUkFLU0ZhbWZNZ1paZHROUEVBZ0xkd0NHc1ZxRXVfeEd5VE9zYWt4U0JxZDlqQ0FsRWxHOXpMNWJ6N3pocGh3OGpBc0F6U0FUeC1YbmJkMjZ0UHd4WWpn?oc=5",
           "source": "Google News",
-          "published": "Thu, 29 Oct 2026 22:40:00 GMT"
+          "published": "Fri, 30 Oct 2026 05:49:24 GMT"
         }
       ]
     },
     {
-      "word": "NFL",
+      "word": "System",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "2026 NFL Trade Deadline live updates: Tracker, deals, news, rumors, analysis - NBC Sports",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWnVtUXd4R3QwREVOR0hNSW5HSHZuMWw0SHNJeFVyRUw4WnJ0a19kLVpSUUhvQ3ZSbkh1YmlOUG5nZVROazU1RlNIaTJ5ZVpPLWhBREg5eUo1ODVTb3lnbkhpY01jM3JWVXphb2JoR0N6VkxLN0xXNG1vYTFieTR6eU4tcEN4R1diSnVTWkpINUIxQ1pJd3BoaUVMQzJEWVJUMks0ZkJNaVd6bnVFMjMxX3pPNHcwZTZrX0lXY3pfdkx1OHl5azQxZ3NwdHpRZw?oc=5",
+          "title": "Spacewalkers begin final phase of multi-year space station power system upgrade - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUFFMdlVXd0NKMXh2YWIyQ1BXYlk4S3k1Q0NQRE5BbnZhcUJlLXROUXFMcUp4b09QRzJoZFVJaHZ5aWRKdEdKd0ZKZDFGYXBONlNMWmhoY2dGZGdKSXpReXE4dVBSNjZBUzVfbUdGbTYtQ2VzTXBrTVRhVXFWd0JBaVdzNXFya04zVGdLX2Z6NXZCM3ZtUHZnZ2E4WXhVYW5YLS1STDExTFZKNEhDbmc?oc=5",
           "source": "Google News",
-          "published": "Thu, 29 Oct 2026 16:53:07 GMT"
+          "published": "Thu, 29 Oct 2026 13:40:00 GMT"
         },
         {
-          "title": "NFL Thursday Night Football preview: Panthers and Packers try to rebound from frustrating losses - Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVndoeWFkaHllNkd4SzViaFJpMjVqV25ub016WkR0UXd1ZWJqd1F0VnJKRU8wLWZoQ002aXNvaHY5bGJNWWFwUktCRWhjQU5lOTBPMHZmbmQweHUzaHBueTRLenYxc1o1RGdUSlh0RngzOWxoekQ4dTRSZ1hVY2FCamJJLVlKOVExbnlyaHdLZms0dmZSM3VyTmE0Ul9RNkdWeC02eHNPT05ENG9ZQlBvU3ZINU9HdTI3cXNlWldNcEhvUDJzYXZBdG5uMzNwXzVNMnViWEF5ck95a2gyRHltVQ?oc=5",
+          "title": "Astronomers Discover a Possible New Dwarf Planet in Our Solar System - WIRED",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc1p4NFR3Mk9TbkxTYnM5NDVwdTB3MDh0MGRsUkQtSWZWTF85RndKcUZWaTExd1ZGRFdzVmhBQlYtYzEyLUtIVUplM2xNMnc5Q2EyNWgxNjQ1VVpBb0tadHZ2TVNoeUJWN21mUW5yWjQzRUpjeEtqYmQzQUZDQ0VBMHM5Rmh6bzQ2OGtvb3JrYkVZXzdUaTBreFc4UFRkQQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 29 Oct 2026 15:18:25 GMT"
+          "published": "Thu, 29 Oct 2026 09:00:00 GMT"
         }
       ]
     },
     {
-      "word": "Found",
+      "word": "age",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Martian meteorite found in the Sahara is 4.1 billion years old - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMm04c01nalIzNmQ1ZDBFT01CMmhtUHlJWTdONHMzN3QzVU1WUUJsZkVfU2VHQl9xQWFmRjhKeVVWUjVLVHNXb2RDNHZCUGI1U2tqMUxyV0VmaGJUUXEwVmtuSko1Q1hBa09wekw4OGJlTWQxeDRtMTlwM1VqMmYxZXN3Z1VNS1ZHRkx2TnFuRXYwdkw3QjAwb0owQjZkNVE?oc=5",
+          "title": "Humans accidentally canceled the next ice age — but it's no reason to celebrate, scientists say - KSL News",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX2t0M0p0Ymktb21aZFNCRjdWN2hRU2trWHhwMEZzOEIwN0QtVkVieVFES1J2U0E3N1FmSFBVSkd4YWU5cERkclJpTWNXT1VoQUNMUnVEZEI3OF9IcWFSZm1mMEgtXzNqeVdWMUhrZ01uWkhfZXdUNGhiUE1kUDdsSGU3LXRjTFZxVnlkeDJTRGFObXNyS25yWFhadTZ6M2JKZnVldGVOVzZFUGpOLTh5aGJrTWE0QVFEWFQxOWF5Ni1qTkFnXzN3OA?oc=5",
           "source": "Google News",
-          "published": "Thu, 29 Oct 2026 21:27:06 GMT"
+          "published": "Thu, 29 Oct 2026 21:30:01 GMT"
         },
         {
-          "title": "Scientists may have found new dwarf planet - Yahoo Tech",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ2EydkRjcVpNWllzQnNqNTU1akJlZ0w2SlRYODM2aEotVS1tRjI3bm5xejVLMG1qYWhMOEJ4RVB3SndIU3ZQZjZYTjRMZHZzQnZtWHBPbll0dFJuVGRzak9NdzhxS1dJanNqbXVsVkxuX21VOHJVcVlEc1ZLUExoTTNHQWQ4RE53NmFneEJpUEthQQ?oc=5",
+          "title": "Colon cancer rates are rising in these age groups - USA Today",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc2otTTMtQ3VHTUhHaUJKUVRUVmlqNnB4ZUJGV0xOQXlhYXBaN2dxMHZXTDNQRkdFbVg4alotdjZZbkdhSTkxNDVVUmtKM0hpNDhudjZCVXEwcnFjLUh1Tk05ZW1fcnVBemlzRTNLTkw1Ti04Q1JsMmZjeE1xeUhmM2VZdUw0LUszcXRHZUNWTTl4dDd6RzZ5bXBOOFhhOXE5QjBOUE1qeno1RUhoT3FWS3BzSGd4bWk4WEE?oc=5",
           "source": "Google News",
-          "published": "Thu, 29 Oct 2026 11:20:10 GMT"
+          "published": "Fri, 30 Oct 2026 00:48:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Cancels",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump cancels weekend rallies in Iowa and Kansas in favor of holding numerous tele-rallies - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPekM1SEphS1p0N2xOY0JlTXc1R3JReXQ0dXJRTXdVTnhKYkxaemJLdWhiTzRELUlIV1puYkhvU2wwUHB2RUVUTWtNaTUzUi1TT3REZzc0VUs2RW5zYVlDdFRKNXZkd05URTRWdkpmeXNFaVRnbFRhQTNEMTZfYTZWNnllRF9TaFZoZ09USkt5WWRGZlBmQ3JydkdnMjhhSnlWSlFnU0pVNUxwdGNjZkJCdHBxSjRVb0g4STBIWjd5WUYxUUNKb2R3?oc=5",
+          "source": "Google News",
+          "published": "Fri, 30 Oct 2026 03:19:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Weekend",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump cancels weekend rallies in Iowa and Kansas in favor of holding numerous tele-rallies - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPekM1SEphS1p0N2xOY0JlTXc1R3JReXQ0dXJRTXdVTnhKYkxaemJLdWhiTzRELUlIV1puYkhvU2wwUHB2RUVUTWtNaTUzUi1TT3REZzc0VUs2RW5zYVlDdFRKNXZkd05URTRWdkpmeXNFaVRnbFRhQTNEMTZfYTZWNnllRF9TaFZoZ09USkt5WWRGZlBmQ3JydkdnMjhhSnlWSlFnU0pVNUxwdGNjZkJCdHBxSjRVb0g4STBIWjd5WUYxUUNKb2R3?oc=5",
+          "source": "Google News",
+          "published": "Fri, 30 Oct 2026 03:19:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Iowa",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump cancels weekend rallies in Iowa and Kansas in favor of holding numerous tele-rallies - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPekM1SEphS1p0N2xOY0JlTXc1R3JReXQ0dXJRTXdVTnhKYkxaemJLdWhiTzRELUlIV1puYkhvU2wwUHB2RUVUTWtNaTUzUi1TT3REZzc0VUs2RW5zYVlDdFRKNXZkd05URTRWdkpmeXNFaVRnbFRhQTNEMTZfYTZWNnllRF9TaFZoZ09USkt5WWRGZlBmQ3JydkdnMjhhSnlWSlFnU0pVNUxwdGNjZkJCdHBxSjRVb0g4STBIWjd5WUYxUUNKb2R3?oc=5",
+          "source": "Google News",
+          "published": "Fri, 30 Oct 2026 03:19:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Kansas",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump cancels weekend rallies in Iowa and Kansas in favor of holding numerous tele-rallies - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPekM1SEphS1p0N2xOY0JlTXc1R3JReXQ0dXJRTXdVTnhKYkxaemJLdWhiTzRELUlIV1puYkhvU2wwUHB2RUVUTWtNaTUzUi1TT3REZzc0VUs2RW5zYVlDdFRKNXZkd05URTRWdkpmeXNFaVRnbFRhQTNEMTZfYTZWNnllRF9TaFZoZ09USkt5WWRGZlBmQ3JydkdnMjhhSnlWSlFnU0pVNUxwdGNjZkJCdHBxSjRVb0g4STBIWjd5WUYxUUNKb2R3?oc=5",
+          "source": "Google News",
+          "published": "Fri, 30 Oct 2026 03:19:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Favor",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump cancels weekend rallies in Iowa and Kansas in favor of holding numerous tele-rallies - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPekM1SEphS1p0N2xOY0JlTXc1R3JReXQ0dXJRTXdVTnhKYkxaemJLdWhiTzRELUlIV1puYkhvU2wwUHB2RUVUTWtNaTUzUi1TT3REZzc0VUs2RW5zYVlDdFRKNXZkd05URTRWdkpmeXNFaVRnbFRhQTNEMTZfYTZWNnllRF9TaFZoZ09USkt5WWRGZlBmQ3JydkdnMjhhSnlWSlFnU0pVNUxwdGNjZkJCdHBxSjRVb0g4STBIWjd5WUYxUUNKb2R3?oc=5",
+          "source": "Google News",
+          "published": "Fri, 30 Oct 2026 03:19:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Holding",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump cancels weekend rallies in Iowa and Kansas in favor of holding numerous tele-rallies - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPekM1SEphS1p0N2xOY0JlTXc1R3JReXQ0dXJRTXdVTnhKYkxaemJLdWhiTzRELUlIV1puYkhvU2wwUHB2RUVUTWtNaTUzUi1TT3REZzc0VUs2RW5zYVlDdFRKNXZkd05URTRWdkpmeXNFaVRnbFRhQTNEMTZfYTZWNnllRF9TaFZoZ09USkt5WWRGZlBmQ3JydkdnMjhhSnlWSlFnU0pVNUxwdGNjZkJCdHBxSjRVb0g4STBIWjd5WUYxUUNKb2R3?oc=5",
+          "source": "Google News",
+          "published": "Fri, 30 Oct 2026 03:19:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Numerous",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump cancels weekend rallies in Iowa and Kansas in favor of holding numerous tele-rallies - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPekM1SEphS1p0N2xOY0JlTXc1R3JReXQ0dXJRTXdVTnhKYkxaemJLdWhiTzRELUlIV1puYkhvU2wwUHB2RUVUTWtNaTUzUi1TT3REZzc0VUs2RW5zYVlDdFRKNXZkd05URTRWdkpmeXNFaVRnbFRhQTNEMTZfYTZWNnllRF9TaFZoZ09USkt5WWRGZlBmQ3JydkdnMjhhSnlWSlFnU0pVNUxwdGNjZkJCdHBxSjRVb0g4STBIWjd5WUYxUUNKb2R3?oc=5",
+          "source": "Google News",
+          "published": "Fri, 30 Oct 2026 03:19:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Tele",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump cancels weekend rallies in Iowa and Kansas in favor of holding numerous tele-rallies - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPekM1SEphS1p0N2xOY0JlTXc1R3JReXQ0dXJRTXdVTnhKYkxaemJLdWhiTzRELUlIV1puYkhvU2wwUHB2RUVUTWtNaTUzUi1TT3REZzc0VUs2RW5zYVlDdFRKNXZkd05URTRWdkpmeXNFaVRnbFRhQTNEMTZfYTZWNnllRF9TaFZoZ09USkt5WWRGZlBmQ3JydkdnMjhhSnlWSlFnU0pVNUxwdGNjZkJCdHBxSjRVb0g4STBIWjd5WUYxUUNKb2R3?oc=5",
+          "source": "Google News",
+          "published": "Fri, 30 Oct 2026 03:19:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Peltola",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Peltola denies knowing about Alaska spoiler candidate as Justice Department escalates investigation - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZFMwOVMxQVRwVnBFam0waFlKVG8tQ1poNGdDUmhPaXlHX1A0bVRscWFGSmwtMnNtUzFMQnAtbkt4WmtJbWRFUnNnYWhPVGFHOHRsTkdsTzducml1dVlhR25LQTFaeC1Ld0V6amhGS0doakg2dFZ0ckhDeVhqVndUTmliLW8zWDNZV1NvT3pxbk1zdkN2ZFBNaWxnS2FyeldUeFM5YmJmQ1o1QnMyeXJ5YzVjMA?oc=5",
+          "source": "Google News",
+          "published": "Fri, 30 Oct 2026 04:48:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Denies",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Peltola denies knowing about Alaska spoiler candidate as Justice Department escalates investigation - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZFMwOVMxQVRwVnBFam0waFlKVG8tQ1poNGdDUmhPaXlHX1A0bVRscWFGSmwtMnNtUzFMQnAtbkt4WmtJbWRFUnNnYWhPVGFHOHRsTkdsTzducml1dVlhR25LQTFaeC1Ld0V6amhGS0doakg2dFZ0ckhDeVhqVndUTmliLW8zWDNZV1NvT3pxbk1zdkN2ZFBNaWxnS2FyeldUeFM5YmJmQ1o1QnMyeXJ5YzVjMA?oc=5",
+          "source": "Google News",
+          "published": "Fri, 30 Oct 2026 04:48:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Knowing",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Peltola denies knowing about Alaska spoiler candidate as Justice Department escalates investigation - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZFMwOVMxQVRwVnBFam0waFlKVG8tQ1poNGdDUmhPaXlHX1A0bVRscWFGSmwtMnNtUzFMQnAtbkt4WmtJbWRFUnNnYWhPVGFHOHRsTkdsTzducml1dVlhR25LQTFaeC1Ld0V6amhGS0doakg2dFZ0ckhDeVhqVndUTmliLW8zWDNZV1NvT3pxbk1zdkN2ZFBNaWxnS2FyeldUeFM5YmJmQ1o1QnMyeXJ5YzVjMA?oc=5",
+          "source": "Google News",
+          "published": "Fri, 30 Oct 2026 04:48:00 GMT"
         }
       ]
     },
@@ -577,101 +494,23 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKenQ0b28xd0xHQlJVQXJqXzFSOXpZcUlpRDhoNmVXNVNBZFJjNlNsUmlqLWtFN18yeklZWXhVSDFTYlNocGhiekxpVk91XzJ6WmVraVdaQnNYSUk?oc=5",
+          "title": "Peltola denies knowing about Alaska spoiler candidate as Justice Department escalates investigation - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZFMwOVMxQVRwVnBFam0waFlKVG8tQ1poNGdDUmhPaXlHX1A0bVRscWFGSmwtMnNtUzFMQnAtbkt4WmtJbWRFUnNnYWhPVGFHOHRsTkdsTzducml1dVlhR25LQTFaeC1Ld0V6amhGS0doakg2dFZ0ckhDeVhqVndUTmliLW8zWDNZV1NvT3pxbk1zdkN2ZFBNaWxnS2FyeldUeFM5YmJmQ1o1QnMyeXJ5YzVjMA?oc=5",
           "source": "Google News",
-          "published": "Thu, 29 Oct 2026 21:31:12 GMT"
+          "published": "Fri, 30 Oct 2026 04:48:00 GMT"
         }
       ]
     },
     {
-      "word": "Governor",
+      "word": "Spoiler",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKenQ0b28xd0xHQlJVQXJqXzFSOXpZcUlpRDhoNmVXNVNBZFJjNlNsUmlqLWtFN18yeklZWXhVSDFTYlNocGhiekxpVk91XzJ6WmVraVdaQnNYSUk?oc=5",
+          "title": "Peltola denies knowing about Alaska spoiler candidate as Justice Department escalates investigation - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZFMwOVMxQVRwVnBFam0waFlKVG8tQ1poNGdDUmhPaXlHX1A0bVRscWFGSmwtMnNtUzFMQnAtbkt4WmtJbWRFUnNnYWhPVGFHOHRsTkdsTzducml1dVlhR25LQTFaeC1Ld0V6amhGS0doakg2dFZ0ckhDeVhqVndUTmliLW8zWDNZV1NvT3pxbk1zdkN2ZFBNaWxnS2FyeldUeFM5YmJmQ1o1QnMyeXJ5YzVjMA?oc=5",
           "source": "Google News",
-          "published": "Thu, 29 Oct 2026 21:31:12 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Orders",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKenQ0b28xd0xHQlJVQXJqXzFSOXpZcUlpRDhoNmVXNVNBZFJjNlNsUmlqLWtFN18yeklZWXhVSDFTYlNocGhiekxpVk91XzJ6WmVraVdaQnNYSUk?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 21:31:12 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Probe",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKenQ0b28xd0xHQlJVQXJqXzFSOXpZcUlpRDhoNmVXNVNBZFJjNlNsUmlqLWtFN18yeklZWXhVSDFTYlNocGhiekxpVk91XzJ6WmVraVdaQnNYSUk?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 21:31:12 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Democratic",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKenQ0b28xd0xHQlJVQXJqXzFSOXpZcUlpRDhoNmVXNVNBZFJjNlNsUmlqLWtFN18yeklZWXhVSDFTYlNocGhiekxpVk91XzJ6WmVraVdaQnNYSUk?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 21:31:12 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Campaign",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKenQ0b28xd0xHQlJVQXJqXzFSOXpZcUlpRDhoNmVXNVNBZFJjNlNsUmlqLWtFN18yeklZWXhVSDFTYlNocGhiekxpVk91XzJ6WmVraVdaQnNYSUk?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 21:31:12 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Links",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKenQ0b28xd0xHQlJVQXJqXzFSOXpZcUlpRDhoNmVXNVNBZFJjNlNsUmlqLWtFN18yeklZWXhVSDFTYlNocGhiekxpVk91XzJ6WmVraVdaQnNYSUk?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 21:31:12 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Name",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKenQ0b28xd0xHQlJVQXJqXzFSOXpZcUlpRDhoNmVXNVNBZFJjNlNsUmlqLWtFN18yeklZWXhVSDFTYlNocGhiekxpVk91XzJ6WmVraVdaQnNYSUk?oc=5",
-          "source": "Google News",
-          "published": "Thu, 29 Oct 2026 21:31:12 GMT"
+          "published": "Fri, 30 Oct 2026 04:48:00 GMT"
         }
       ]
     },
@@ -681,36 +520,62 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKenQ0b28xd0xHQlJVQXJqXzFSOXpZcUlpRDhoNmVXNVNBZFJjNlNsUmlqLWtFN18yeklZWXhVSDFTYlNocGhiekxpVk91XzJ6WmVraVdaQnNYSUk?oc=5",
+          "title": "Peltola denies knowing about Alaska spoiler candidate as Justice Department escalates investigation - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZFMwOVMxQVRwVnBFam0waFlKVG8tQ1poNGdDUmhPaXlHX1A0bVRscWFGSmwtMnNtUzFMQnAtbkt4WmtJbWRFUnNnYWhPVGFHOHRsTkdsTzducml1dVlhR25LQTFaeC1Ld0V6amhGS0doakg2dFZ0ckhDeVhqVndUTmliLW8zWDNZV1NvT3pxbk1zdkN2ZFBNaWxnS2FyeldUeFM5YmJmQ1o1QnMyeXJ5YzVjMA?oc=5",
           "source": "Google News",
-          "published": "Thu, 29 Oct 2026 21:31:12 GMT"
+          "published": "Fri, 30 Oct 2026 04:48:00 GMT"
         }
       ]
     },
     {
-      "word": "Administration",
+      "word": "Escalates",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump Administration Pressures California With Expanded Voter Fraud Investigation - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUF9EaGFYV1ZLMUtyMk13WFhySGh6Q2xZSnJteFF1a0kyV29WZTJVdWV6MG02ZVNUbmxyM00xWm5WckF4ZU5GSkl0aDJ6OHRsSW5sSEwzMVd4TGJqNUhfcXFUc3pYekNiUzJULW5UMW9DcW1VaGdUZFQtUk9DVVNfM3MyVi1BOEdGNXNDeg?oc=5",
+          "title": "Peltola denies knowing about Alaska spoiler candidate as Justice Department escalates investigation - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZFMwOVMxQVRwVnBFam0waFlKVG8tQ1poNGdDUmhPaXlHX1A0bVRscWFGSmwtMnNtUzFMQnAtbkt4WmtJbWRFUnNnYWhPVGFHOHRsTkdsTzducml1dVlhR25LQTFaeC1Ld0V6amhGS0doakg2dFZ0ckhDeVhqVndUTmliLW8zWDNZV1NvT3pxbk1zdkN2ZFBNaWxnS2FyeldUeFM5YmJmQ1o1QnMyeXJ5YzVjMA?oc=5",
           "source": "Google News",
-          "published": "Thu, 29 Oct 2026 20:49:29 GMT"
+          "published": "Fri, 30 Oct 2026 04:48:00 GMT"
         }
       ]
     },
     {
-      "word": "Pressures",
+      "word": "Investigation",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump Administration Pressures California With Expanded Voter Fraud Investigation - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUF9EaGFYV1ZLMUtyMk13WFhySGh6Q2xZSnJteFF1a0kyV29WZTJVdWV6MG02ZVNUbmxyM00xWm5WckF4ZU5GSkl0aDJ6OHRsSW5sSEwzMVd4TGJqNUhfcXFUc3pYekNiUzJULW5UMW9DcW1VaGdUZFQtUk9DVVNfM3MyVi1BOEdGNXNDeg?oc=5",
+          "title": "Peltola denies knowing about Alaska spoiler candidate as Justice Department escalates investigation - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZFMwOVMxQVRwVnBFam0waFlKVG8tQ1poNGdDUmhPaXlHX1A0bVRscWFGSmwtMnNtUzFMQnAtbkt4WmtJbWRFUnNnYWhPVGFHOHRsTkdsTzducml1dVlhR25LQTFaeC1Ld0V6amhGS0doakg2dFZ0ckhDeVhqVndUTmliLW8zWDNZV1NvT3pxbk1zdkN2ZFBNaWxnS2FyeldUeFM5YmJmQ1o1QnMyeXJ5YzVjMA?oc=5",
           "source": "Google News",
-          "published": "Thu, 29 Oct 2026 20:49:29 GMT"
+          "published": "Fri, 30 Oct 2026 04:48:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Issues",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Justice Department issues subpoenas to California election workers - NPR",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOVhQQVc0ZFFvS0c0ckxwTndVWDVoVF9tNjZtRFdKY1RPcXU0ZkVDMEVfaUY3YU1heGxjTWRkUURWZVVCbHgwQUVpOUhFaVBUSTdpR0JBZFlsZG02TngtSGdYOC1CWmM3dVhFMzhlajVlR2hVdGMzZEdGVmZicGhqdnlPWTg?oc=5",
+          "source": "Google News",
+          "published": "Fri, 30 Oct 2026 01:35:54 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Subpoenas",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Justice Department issues subpoenas to California election workers - NPR",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOVhQQVc0ZFFvS0c0ckxwTndVWDVoVF9tNjZtRFdKY1RPcXU0ZkVDMEVfaUY3YU1heGxjTWRkUURWZVVCbHgwQUVpOUhFaVBUSTdpR0JBZFlsZG02TngtSGdYOC1CWmM3dVhFMzhlajVlR2hVdGMzZEdGVmZicGhqdnlPWTg?oc=5",
+          "source": "Google News",
+          "published": "Fri, 30 Oct 2026 01:35:54 GMT"
         }
       ]
     },
@@ -720,10 +585,49 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump Administration Pressures California With Expanded Voter Fraud Investigation - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUF9EaGFYV1ZLMUtyMk13WFhySGh6Q2xZSnJteFF1a0kyV29WZTJVdWV6MG02ZVNUbmxyM00xWm5WckF4ZU5GSkl0aDJ6OHRsSW5sSEwzMVd4TGJqNUhfcXFUc3pYekNiUzJULW5UMW9DcW1VaGdUZFQtUk9DVVNfM3MyVi1BOEdGNXNDeg?oc=5",
+          "title": "Justice Department issues subpoenas to California election workers - NPR",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOVhQQVc0ZFFvS0c0ckxwTndVWDVoVF9tNjZtRFdKY1RPcXU0ZkVDMEVfaUY3YU1heGxjTWRkUURWZVVCbHgwQUVpOUhFaVBUSTdpR0JBZFlsZG02TngtSGdYOC1CWmM3dVhFMzhlajVlR2hVdGMzZEdGVmZicGhqdnlPWTg?oc=5",
           "source": "Google News",
-          "published": "Thu, 29 Oct 2026 20:49:29 GMT"
+          "published": "Fri, 30 Oct 2026 01:35:54 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Workers",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Justice Department issues subpoenas to California election workers - NPR",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOVhQQVc0ZFFvS0c0ckxwTndVWDVoVF9tNjZtRFdKY1RPcXU0ZkVDMEVfaUY3YU1heGxjTWRkUURWZVVCbHgwQUVpOUhFaVBUSTdpR0JBZFlsZG02TngtSGdYOC1CWmM3dVhFMzhlajVlR2hVdGMzZEdGVmZicGhqdnlPWTg?oc=5",
+          "source": "Google News",
+          "published": "Fri, 30 Oct 2026 01:35:54 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Exclusive",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Exclusive: Fired general admitted to leaking classified Iran and Ukraine info, report says - Axios",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxZjl0cFNnXzh3UXMyRjAwS3hqWXllQV9MSmk5d0g3S1ZmRnc1ZG5UY2RYXzVtVUdnb2lacWFUWXhaa1libUFaR202QUM5UFVaenNqQm1KeVI1UDU5SjFwTXk4VDJ3YWtoRzczTHZNNF9RZHM?oc=5",
+          "source": "Google News",
+          "published": "Fri, 30 Oct 2026 02:34:34 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Fired",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Exclusive: Fired general admitted to leaking classified Iran and Ukraine info, report says - Axios",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxZjl0cFNnXzh3UXMyRjAwS3hqWXllQV9MSmk5d0g3S1ZmRnc1ZG5UY2RYXzVtVUdnb2lacWFUWXhaa1libUFaR202QUM5UFVaenNqQm1KeVI1UDU5SjFwTXk4VDJ3YWtoRzczTHZNNF9RZHM?oc=5",
+          "source": "Google News",
+          "published": "Fri, 30 Oct 2026 02:34:34 GMT"
         }
       ]
     }
