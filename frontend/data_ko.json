@@ -1,477 +1,68 @@
 {
   "language": "ko",
-  "last_updated": 1793423378.4375095,
+  "last_updated": 1793448238.5222566,
   "count": 40,
   "trends": [
     {
-      "word": "경찰",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김병기, 6개월 만에 경찰 출석... \"악의적 고발, 무죄 입증할 것\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNlBTT254ZnNrbjk4SXVONzRJaDBSNmxzazI5N1FXd29TR2R0dDRFSnpHX3YwTUtpbXRrSVFHVmRJSmVXc05yblVtUTc2UFdXVGoyUVRnSTVVWE85MUVxQlFIS2g4UXRZYUpub2VWWWtnMXVsd0hGdWxJRENDWk10NVd6SFpmZw?oc=5",
-          "source": "Google News",
-          "published": "Sat, 31 Oct 2026 01:27:00 GMT"
-        },
-        {
-          "title": "소아응급실 압수수색 논란…의료계 “진료 방해” vs 경찰 “적법 집행” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VejFRV1dGbGJVYTRrbXV6bEV6bUFlbTYwOGVQQmhvaHV3RmVXTjZwUFVzYTJTc05iT2c2Yi04NDR0OFNRU3VhU1BJck9sb3JJdW1VOUVOSVpBWGlMTWRRazVEcWxmZw?oc=5",
-          "source": "Google News",
-          "published": "Sat, 31 Oct 2026 02:36:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "주장",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "임광현 “‘황제골프’ 허위 주장 사과 우선…차남 관저 거주 경호 대상 감안” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhVy1uWHlUbm1oWUNpWEE2YzZPV2lKNmMySUFlRnhHa2RNdzBlZ2IzQmtiMGV0V0pWbTJYRTI4LUlFMUp3TUhQTlFWdERKbERSYzRhc1BLV2ZXUlU?oc=5",
-          "source": "Google News",
-          "published": "Fri, 30 Oct 2026 00:59:00 GMT"
-        },
-        {
-          "title": "BBC 팩트체크: 미국서 부정투표 '만연' 주장한 트럼프…실제 사례는 극히 드물어 - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaeVpyMXp1bkQ1SWVZNVVRWmtTSm5faV9pV0dQYjVvNHgwQlJBcDEyeXg2dGw3X3VkR2IwcFktaDdLWG5JeFBVMjd6amVqakFmUWdYSGc0aDBWd0dyeVHSAWNBVV95cUxQcFpEUUNvN1lIYmdub1dMWXVIbjBHSThISzIxakd6VW4tbjlka1NSMU8tQlo3U3NHb3FrUFVaNEE3aFd4OU5ZaDQ3TkNuQmhJYnBzOW9MU1NaZEZweTY0YUJScDg?oc=5",
-          "source": "Google News",
-          "published": "Sat, 31 Oct 2026 01:34:09 GMT"
-        }
-      ]
-    },
-    {
-      "word": "시위",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "핼러윈 시위에 유럽 국가들 비상…독일서 첫 학생 시위 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IdzFocHZqVmF2RHdBUlFBVmhXSXFuX0QtY2xlR3JwWHpjYkNnTlhLOGREczZMLVhkb21LRU40THdRY25ESTkwOTJRWkNRd2tEcXNWd1podXZqS0U?oc=5",
-          "source": "Google News",
-          "published": "Sat, 31 Oct 2026 03:03:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "트럼프",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프 \"이란과 협상 중…우리에겐 시간이 있어\" - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2V3E4Wjd2UXhlMlA2YXJqT3dnbE9aLUVxczJkMlQ1S1pVWWN4M0ZZenpWaTZHTDhVVVpOdjRTLWtCWExVTzNaUWVyYkQ4TldhRUxINmJXSUxGblJNcXNPYmctdGNnV3c?oc=5",
-          "source": "Google News",
-          "published": "Fri, 30 Oct 2026 21:11:00 GMT"
-        },
-        {
-          "title": "트럼프, 바이낸스 해킹 북한 소행 여부에 \"모른다‥살펴보고 있다\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBHNDJjY01OX3dQOEZwWElFejEwNEdfb1RTeTNyS3IyZXktS01VQjQ5QnRqM3VJb1E0OVJmSWNaRGs2VE01bGJkQnJjNl80b0xFRU9ucWdMSUJqeVRVcE5BNk8wT0UwSXdJSHk4OHU0cW5ZNnlZ0gF0QVVfeXFMTjAzbHg0VFpGX1BVdGdwRjdwNlA1U09DSFFaMTRnTzBSd0ZySXRoYmhPSWJjQmZsRFlndW51TEZONzI2QzQwT0M1cng3Vl9NLXpUYWFXOGo5bHlPT0tnWTNlbmpfTDR1NU1oZXRBc3lKODlNdGQ?oc=5",
-          "source": "Google News",
-          "published": "Fri, 30 Oct 2026 21:10:50 GMT"
-        }
-      ]
-    },
-    {
-      "word": "여부",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프, 바이낸스 해킹 북한 소행 여부에 \"모른다‥살펴보고 있다\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBHNDJjY01OX3dQOEZwWElFejEwNEdfb1RTeTNyS3IyZXktS01VQjQ5QnRqM3VJb1E0OVJmSWNaRGs2VE01bGJkQnJjNl80b0xFRU9ucWdMSUJqeVRVcE5BNk8wT0UwSXdJSHk4OHU0cW5ZNnlZ0gF0QVVfeXFMTjAzbHg0VFpGX1BVdGdwRjdwNlA1U09DSFFaMTRnTzBSd0ZySXRoYmhPSWJjQmZsRFlndW51TEZONzI2QzQwT0M1cng3Vl9NLXpUYWFXOGo5bHlPT0tnWTNlbmpfTDR1NU1oZXRBc3lKODlNdGQ?oc=5",
-          "source": "Google News",
-          "published": "Fri, 30 Oct 2026 21:10:50 GMT"
-        },
-        {
-          "title": "“가상자산 과세 유예 여부 1~2주 내 결정”…여야 모두 ‘유예’ 군불 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ldS1OTDN6VkhvOUNaTWtYeGFJYmR6QUhnNFJua1hrbnJ0clJkbTg2dG9aRjE3WG1ieTFpTnZmVUZvRW10WmUzWjM2QW1FZlRqVk9mR0t0MExHMGZ3WkM2SlYtblgwUQ?oc=5",
-          "source": "Google News",
-          "published": "Fri, 30 Oct 2026 10:27:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "유예",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "“가상자산 과세 유예 여부 1~2주 내 결정”…여야 모두 ‘유예’ 군불 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ldS1OTDN6VkhvOUNaTWtYeGFJYmR6QUhnNFJua1hrbnJ0clJkbTg2dG9aRjE3WG1ieTFpTnZmVUZvRW10WmUzWjM2QW1FZlRqVk9mR0t0MExHMGZ3WkM2SlYtblgwUQ?oc=5",
-          "source": "Google News",
-          "published": "Fri, 30 Oct 2026 10:27:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "KIA",
-      "count": 2,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "KIA 이범호 감독 \"광주서 끝내지 않으려 했다...5차전 선발은 올러\" - KBC광주방송",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsbWpTb0JhTEdxNTBNSFdrQzUtZmZfZlZtLTE2Q2ZNc3ExWXVGWUNBUG0wU2xmYzlqcndaN0xGZXJpS1VDeHZ0amdFZ2szMVdLQzRLeVJ3TnZZaHczVHU4QmV3?oc=5",
-          "source": "Google News",
-          "published": "Fri, 30 Oct 2026 13:55:01 GMT"
-        },
-        {
-          "title": "[PO 포커스] '2번타자' 김도영 승부수 적중...3출루 2득점으로 KIA 역전승 견인 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TQnp6TjZ6QlFjV3VQQjNQZ2JtOHhvTFlnd3BiMGNrazAtWl8xZkZ5RnZhdHhGYTlUNTFnNjhSNTNFU0NUcGV3VnhVTlNETUZmQzVsd0F5Y0ZhZw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 30 Oct 2026 20:26:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "한미일",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "한미일 외교장관 “북 완전한 비핵화 의지 재확인” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9idW5xLS1lYlAxcG9ERk1IRmxibTQ2N2FJS2g5UGMxMzFQR2NaQk1aWkVnamRhXzIwSzhIeWRva0U5Ym02aXY4c3h4VUo5THpESy01RUQ5aVZQUdIBX0FVX3lxTE4zMF9ycDZOVjlrN0hINFhneGFRejFVa3BuY1ZYRmRWTGVJY3RjcGEzQ3dULWJXdFlVdi0xSVBrc1lPbXcxRWNlMVBHU21RaEtuRXpBVDZ1TG91aHhraUVB?oc=5",
-          "source": "Google News",
-          "published": "Sat, 31 Oct 2026 00:03:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "외교장관",
-      "count": 1,
+      "word": "대통령",
+      "count": 3,
       "category": "PERSON",
       "articles": [
         {
-          "title": "한미일 외교장관 “북 완전한 비핵화 의지 재확인” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9idW5xLS1lYlAxcG9ERk1IRmxibTQ2N2FJS2g5UGMxMzFQR2NaQk1aWkVnamRhXzIwSzhIeWRva0U5Ym02aXY4c3h4VUo5THpESy01RUQ5aVZQUdIBX0FVX3lxTE4zMF9ycDZOVjlrN0hINFhneGFRejFVa3BuY1ZYRmRWTGVJY3RjcGEzQ3dULWJXdFlVdi0xSVBrc1lPbXcxRWNlMVBHU21RaEtuRXpBVDZ1TG91aHhraUVB?oc=5",
+          "title": "장동혁, 이 대통령 향해 “링거 맞고 코피? 일본 가서 총리랑 드럼 치며 놀다 와” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUWVBrZFI4dmNvWldiTkg2Tk50VzNMaGZRekdlQkpQMDJtay1WNXFXZFp1SU9OZWRaZVU5ektlMEtKVHYwZTNnLV84dllzZktpY0tUM3RybUhIUdIBX0FVX3lxTE5DY1dFTzZJUElybUQ0M2dYNnFhNjlhMkZFakRwbnFxWGFScmRNbHJOZGZFVDFlNlRiZWJzWUFxQmF1REtLcGRYUFBoTElxSVZ3TFhRd2JDZUlJb2NDbTdr?oc=5",
           "source": "Google News",
-          "published": "Sat, 31 Oct 2026 00:03:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "완전",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
+          "published": "Sat, 31 Oct 2026 08:57:00 GMT"
+        },
         {
-          "title": "한미일 외교장관 “북 완전한 비핵화 의지 재확인” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9idW5xLS1lYlAxcG9ERk1IRmxibTQ2N2FJS2g5UGMxMzFQR2NaQk1aWkVnamRhXzIwSzhIeWRva0U5Ym02aXY4c3h4VUo5THpESy01RUQ5aVZQUdIBX0FVX3lxTE4zMF9ycDZOVjlrN0hINFhneGFRejFVa3BuY1ZYRmRWTGVJY3RjcGEzQ3dULWJXdFlVdi0xSVBrc1lPbXcxRWNlMVBHU21RaEtuRXpBVDZ1TG91aHhraUVB?oc=5",
+          "title": "李대통령, 경북 찾아 \"농어촌 기본소득 더 많은 지역으로 확대\"(종합) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UYm8zejAwOGxEdHRzamdPSW9HTHBaYkFSSGtZemUtNERyX1FGVXNhLUcxSWlKdzdCRElFSnA1S2p0S2pLeHhiMkVTRlhtWV9CZFd4cWRYRHpQeHfSAWBBVV95cUxPVEcyQjFMdlRLZFI5c2tyTzJGUXhpellTTk52eDNzcEp3N1o3M1RDNUY0S1gzRUhLMmNudDZ2dEVMUi05cVUteXBodnhva3cyaU1XWkpvM3RTdGR6Z0lJUlY?oc=5",
           "source": "Google News",
-          "published": "Sat, 31 Oct 2026 00:03:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "비핵",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
+          "published": "Sat, 31 Oct 2026 10:19:43 GMT"
+        },
         {
-          "title": "한미일 외교장관 “북 완전한 비핵화 의지 재확인” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9idW5xLS1lYlAxcG9ERk1IRmxibTQ2N2FJS2g5UGMxMzFQR2NaQk1aWkVnamRhXzIwSzhIeWRva0U5Ym02aXY4c3h4VUo5THpESy01RUQ5aVZQUdIBX0FVX3lxTE4zMF9ycDZOVjlrN0hINFhneGFRejFVa3BuY1ZYRmRWTGVJY3RjcGEzQ3dULWJXdFlVdi0xSVBrc1lPbXcxRWNlMVBHU21RaEtuRXpBVDZ1TG91aHhraUVB?oc=5",
+          "title": "이 대통령 \"PC주의, 진영주의 반감 이유 생각해 봐야\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtZm1IYjBoc2EteEdPbXJScENQNWNhNmxzajlJVllEZk4tblllNkNPbTlBOUZXSFJwUWVLTmZlclVIX2oyLUhKTF9HRkVWOTQ3SFUxUmwwRThRZzNjaDF2bThjM3ZTX0tkRDJjSjdGeWl2STUtQU45R9IBeEFVX3lxTE0zMWEzb0FQT0lzMTdtWFRBSHZaSzkwWTNjclNvQ0N3MzFYZ0h2V2ViYjM3Tk16WmV3d0FqdHRQNkl4Q0hjVnJjRk5ZY01KNWxSaklHUURkT0VIR2NKbTJTNk5jU3dMZklCbmtRYzdVQTJSbmtoNE5PdA?oc=5",
           "source": "Google News",
-          "published": "Sat, 31 Oct 2026 00:03:00 GMT"
+          "published": "Sat, 31 Oct 2026 02:05:16 GMT"
         }
       ]
     },
     {
       "word": "의지",
-      "count": 1,
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "한미일 외교장관 “북 완전한 비핵화 의지 재확인” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9idW5xLS1lYlAxcG9ERk1IRmxibTQ2N2FJS2g5UGMxMzFQR2NaQk1aWkVnamRhXzIwSzhIeWRva0U5Ym02aXY4c3h4VUo5THpESy01RUQ5aVZQUdIBX0FVX3lxTE4zMF9ycDZOVjlrN0hINFhneGFRejFVa3BuY1ZYRmRWTGVJY3RjcGEzQ3dULWJXdFlVdi0xSVBrc1lPbXcxRWNlMVBHU21RaEtuRXpBVDZ1TG91aHhraUVB?oc=5",
+          "title": "靑 “내년초 전작권 성과 기대”… SCM서 ‘전환시점 확정’ 의지 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FVncxVVhIVkcwZHhQdmFMSVpFZ1EzcGFyUld5OTdfUF8tSG1lbHZtRnV2SG5pOXJjX3JjVWV5eUNZbnpoLV9LalBFRDI1Y09PWDl1R3BsNVlHR0JLTDlUZ1Y0M3AtT01QdGZhbTV4QnpQRWlvNWJN0gFmQVVfeXFMT1lfZWdNUmdTRExEV20yV2RxTnZHTUF6UFljallhNjkxSzFleUhDUW1CREp0QWRrWlQwWFZ4ODJXTDVBVnBwT1c2WDk4Y2tkQndPWXQ1NENsdzhDdzROdHNtRjkxcHd3?oc=5",
           "source": "Google News",
-          "published": "Sat, 31 Oct 2026 00:03:00 GMT"
+          "published": "Sat, 31 Oct 2026 08:08:37 GMT"
+        },
+        {
+          "title": "한미일 외교장관 \"北 완전한 비핵화 위한 확고한 의지 재확인\" - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jc1Q0bzlES0hPcGlJbVlhcGVoN04tTDI3b1paX2RKanB2Y01CajBRWm9oSkxQTHd2Q2NkclZRbTVUUTczRTRwODdLbk9KcjhiVWRScUpUZ3hYME3SAWBBVV95cUxNMU11LTRfM1dYR0J0V3Q1YW9xSGhBUVVfc3hlSHY5RXpxb3drSXc1ajdwUUh4OU9OVUkyX3l3RmM4aXNqOFlWWkxUOUk3Rmk1ellGTmtyUGNWX3VBM0lGUHE?oc=5",
+          "source": "Google News",
+          "published": "Fri, 30 Oct 2026 23:26:41 GMT"
         }
       ]
     },
     {
-      "word": "재확인",
-      "count": 1,
+      "word": "강한",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "한미일 외교장관 “북 완전한 비핵화 의지 재확인” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9idW5xLS1lYlAxcG9ERk1IRmxibTQ2N2FJS2g5UGMxMzFQR2NaQk1aWkVnamRhXzIwSzhIeWRva0U5Ym02aXY4c3h4VUo5THpESy01RUQ5aVZQUdIBX0FVX3lxTE4zMF9ycDZOVjlrN0hINFhneGFRejFVa3BuY1ZYRmRWTGVJY3RjcGEzQ3dULWJXdFlVdi0xSVBrc1lPbXcxRWNlMVBHU21RaEtuRXpBVDZ1TG91aHhraUVB?oc=5",
+          "title": "[날씨] 일요일 전국 흐리고 곳곳 비…제주도엔 강한 비바람 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JMHdIWXBJZTNub3pkRDUxR2tzN3RfSTl4WDFqTldBdEtiSG1VeFgwNm0tRWNWcG9iSUVud2NtNEN3Ykx4Nmk4QkhheWVDMFhkOWhBeHltOFpmNzTSAWBBVV95cUxPdnV0MXRsZGwxYTlqQkpHTW9nZG9NaE4tVzV3aHhLRm9iM21LRmlOOVZqRERPSnJ6MHNpNTF2MjYyM3RzS1VNNzkyQWNvLUVTVDdrenB5bi0xN0k3YXloRF8?oc=5",
           "source": "Google News",
-          "published": "Sat, 31 Oct 2026 00:03:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "대통령",
-      "count": 1,
-      "category": "PERSON",
-      "articles": [
+          "published": "Sat, 31 Oct 2026 11:00:00 GMT"
+        },
         {
-          "title": "이 대통령 \"PC주의, 진영주의 반감 이유 생각해 봐야\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtZm1IYjBoc2EteEdPbXJScENQNWNhNmxzajlJVllEZk4tblllNkNPbTlBOUZXSFJwUWVLTmZlclVIX2oyLUhKTF9HRkVWOTQ3SFUxUmwwRThRZzNjaDF2bThjM3ZTX0tkRDJjSjdGeWl2STUtQU45R9IBeEFVX3lxTE0zMWEzb0FQT0lzMTdtWFRBSHZaSzkwWTNjclNvQ0N3MzFYZ0h2V2ViYjM3Tk16WmV3d0FqdHRQNkl4Q0hjVnJjRk5ZY01KNWxSaklHUURkT0VIR2NKbTJTNk5jU3dMZklCbmtRYzdVQTJSbmtoNE5PdA?oc=5",
+          "title": "김도영, PO 타율 0.438…4차전 이어 5차전도 ‘강한 2번’으로 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fREd3dmlieE5yb3dZMXZNeGQ5UmJUUWFpcHJQaThyU1BsbFBxRTZmWnZiS0swa3dzUmM1a2M3SjRHeDlLR2dDREJ2Um9TUndRcjdETHN4cUxWZWE2SGlNT0QydEp0RmM?oc=5",
           "source": "Google News",
-          "published": "Sat, 31 Oct 2026 02:05:16 GMT"
-        }
-      ]
-    },
-    {
-      "word": "PC주",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "이 대통령 \"PC주의, 진영주의 반감 이유 생각해 봐야\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtZm1IYjBoc2EteEdPbXJScENQNWNhNmxzajlJVllEZk4tblllNkNPbTlBOUZXSFJwUWVLTmZlclVIX2oyLUhKTF9HRkVWOTQ3SFUxUmwwRThRZzNjaDF2bThjM3ZTX0tkRDJjSjdGeWl2STUtQU45R9IBeEFVX3lxTE0zMWEzb0FQT0lzMTdtWFRBSHZaSzkwWTNjclNvQ0N3MzFYZ0h2V2ViYjM3Tk16WmV3d0FqdHRQNkl4Q0hjVnJjRk5ZY01KNWxSaklHUURkT0VIR2NKbTJTNk5jU3dMZklCbmtRYzdVQTJSbmtoNE5PdA?oc=5",
-          "source": "Google News",
-          "published": "Sat, 31 Oct 2026 02:05:16 GMT"
-        }
-      ]
-    },
-    {
-      "word": "진영주",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "이 대통령 \"PC주의, 진영주의 반감 이유 생각해 봐야\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtZm1IYjBoc2EteEdPbXJScENQNWNhNmxzajlJVllEZk4tblllNkNPbTlBOUZXSFJwUWVLTmZlclVIX2oyLUhKTF9HRkVWOTQ3SFUxUmwwRThRZzNjaDF2bThjM3ZTX0tkRDJjSjdGeWl2STUtQU45R9IBeEFVX3lxTE0zMWEzb0FQT0lzMTdtWFRBSHZaSzkwWTNjclNvQ0N3MzFYZ0h2V2ViYjM3Tk16WmV3d0FqdHRQNkl4Q0hjVnJjRk5ZY01KNWxSaklHUURkT0VIR2NKbTJTNk5jU3dMZklCbmtRYzdVQTJSbmtoNE5PdA?oc=5",
-          "source": "Google News",
-          "published": "Sat, 31 Oct 2026 02:05:16 GMT"
-        }
-      ]
-    },
-    {
-      "word": "반감",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 \"PC주의, 진영주의 반감 이유 생각해 봐야\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtZm1IYjBoc2EteEdPbXJScENQNWNhNmxzajlJVllEZk4tblllNkNPbTlBOUZXSFJwUWVLTmZlclVIX2oyLUhKTF9HRkVWOTQ3SFUxUmwwRThRZzNjaDF2bThjM3ZTX0tkRDJjSjdGeWl2STUtQU45R9IBeEFVX3lxTE0zMWEzb0FQT0lzMTdtWFRBSHZaSzkwWTNjclNvQ0N3MzFYZ0h2V2ViYjM3Tk16WmV3d0FqdHRQNkl4Q0hjVnJjRk5ZY01KNWxSaklHUURkT0VIR2NKbTJTNk5jU3dMZklCbmtRYzdVQTJSbmtoNE5PdA?oc=5",
-          "source": "Google News",
-          "published": "Sat, 31 Oct 2026 02:05:16 GMT"
-        }
-      ]
-    },
-    {
-      "word": "생각해",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 \"PC주의, 진영주의 반감 이유 생각해 봐야\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtZm1IYjBoc2EteEdPbXJScENQNWNhNmxzajlJVllEZk4tblllNkNPbTlBOUZXSFJwUWVLTmZlclVIX2oyLUhKTF9HRkVWOTQ3SFUxUmwwRThRZzNjaDF2bThjM3ZTX0tkRDJjSjdGeWl2STUtQU45R9IBeEFVX3lxTE0zMWEzb0FQT0lzMTdtWFRBSHZaSzkwWTNjclNvQ0N3MzFYZ0h2V2ViYjM3Tk16WmV3d0FqdHRQNkl4Q0hjVnJjRk5ZY01KNWxSaklHUURkT0VIR2NKbTJTNk5jU3dMZklCbmtRYzdVQTJSbmtoNE5PdA?oc=5",
-          "source": "Google News",
-          "published": "Sat, 31 Oct 2026 02:05:16 GMT"
-        }
-      ]
-    },
-    {
-      "word": "봐야",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 \"PC주의, 진영주의 반감 이유 생각해 봐야\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtZm1IYjBoc2EteEdPbXJScENQNWNhNmxzajlJVllEZk4tblllNkNPbTlBOUZXSFJwUWVLTmZlclVIX2oyLUhKTF9HRkVWOTQ3SFUxUmwwRThRZzNjaDF2bThjM3ZTX0tkRDJjSjdGeWl2STUtQU45R9IBeEFVX3lxTE0zMWEzb0FQT0lzMTdtWFRBSHZaSzkwWTNjclNvQ0N3MzFYZ0h2V2ViYjM3Tk16WmV3d0FqdHRQNkl4Q0hjVnJjRk5ZY01KNWxSaklHUURkT0VIR2NKbTJTNk5jU3dMZklCbmtRYzdVQTJSbmtoNE5PdA?oc=5",
-          "source": "Google News",
-          "published": "Sat, 31 Oct 2026 02:05:16 GMT"
-        }
-      ]
-    },
-    {
-      "word": "진성준",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "진성준 국방위원장 美비자 발급...내일 하와이로 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM1BfMWdxejU2TWEwRVNSc1NzaXE2VVVZcDJ5Y0VJNnI3NzVXeFFrYkMwOENmajNXQ0R4V0tScE9TV3VxT1hHMVZvNGdsTE9ZWURnOWcyZlZ2cjgtUXc4Z3ZsX3dUZHhJaVVMR19GSnB5THQtcWd0b3VycDZySTg2bVBlZ1Jpd3ZPMDJ3QmFpVkk?oc=5",
-          "source": "Google News",
-          "published": "Sat, 31 Oct 2026 00:40:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "국방위원장",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "진성준 국방위원장 美비자 발급...내일 하와이로 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM1BfMWdxejU2TWEwRVNSc1NzaXE2VVVZcDJ5Y0VJNnI3NzVXeFFrYkMwOENmajNXQ0R4V0tScE9TV3VxT1hHMVZvNGdsTE9ZWURnOWcyZlZ2cjgtUXc4Z3ZsX3dUZHhJaVVMR19GSnB5THQtcWd0b3VycDZySTg2bVBlZ1Jpd3ZPMDJ3QmFpVkk?oc=5",
-          "source": "Google News",
-          "published": "Sat, 31 Oct 2026 00:40:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "비자",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "진성준 국방위원장 美비자 발급...내일 하와이로 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM1BfMWdxejU2TWEwRVNSc1NzaXE2VVVZcDJ5Y0VJNnI3NzVXeFFrYkMwOENmajNXQ0R4V0tScE9TV3VxT1hHMVZvNGdsTE9ZWURnOWcyZlZ2cjgtUXc4Z3ZsX3dUZHhJaVVMR19GSnB5THQtcWd0b3VycDZySTg2bVBlZ1Jpd3ZPMDJ3QmFpVkk?oc=5",
-          "source": "Google News",
-          "published": "Sat, 31 Oct 2026 00:40:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "발급내일",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "진성준 국방위원장 美비자 발급...내일 하와이로 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM1BfMWdxejU2TWEwRVNSc1NzaXE2VVVZcDJ5Y0VJNnI3NzVXeFFrYkMwOENmajNXQ0R4V0tScE9TV3VxT1hHMVZvNGdsTE9ZWURnOWcyZlZ2cjgtUXc4Z3ZsX3dUZHhJaVVMR19GSnB5THQtcWd0b3VycDZySTg2bVBlZ1Jpd3ZPMDJ3QmFpVkk?oc=5",
-          "source": "Google News",
-          "published": "Sat, 31 Oct 2026 00:40:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "하와",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "진성준 국방위원장 美비자 발급...내일 하와이로 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM1BfMWdxejU2TWEwRVNSc1NzaXE2VVVZcDJ5Y0VJNnI3NzVXeFFrYkMwOENmajNXQ0R4V0tScE9TV3VxT1hHMVZvNGdsTE9ZWURnOWcyZlZ2cjgtUXc4Z3ZsX3dUZHhJaVVMR19GSnB5THQtcWd0b3VycDZySTg2bVBlZ1Jpd3ZPMDJ3QmFpVkk?oc=5",
-          "source": "Google News",
-          "published": "Sat, 31 Oct 2026 00:40:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "전작권",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "전작권 환수 늦추는 ‘미=천조국’ 해묵은 믿음…“함께 싸우는 동맹이 돼야” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHTkdNRlFaalQ5bEx3eGk3cGpYRUdQbF9za2R4RTNmbXdidUdjZEJNd242YksyTktYSVVhY3ZWSURfNnBKeGZSWEQ2MmRZQU1lUGg3VjNwa0hid1JELTNJVko0VUJfSGJ3?oc=5",
-          "source": "Google News",
-          "published": "Fri, 30 Oct 2026 16:45:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "환수",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "전작권 환수 늦추는 ‘미=천조국’ 해묵은 믿음…“함께 싸우는 동맹이 돼야” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHTkdNRlFaalQ5bEx3eGk3cGpYRUdQbF9za2R4RTNmbXdidUdjZEJNd242YksyTktYSVVhY3ZWSURfNnBKeGZSWEQ2MmRZQU1lUGg3VjNwa0hid1JELTNJVko0VUJfSGJ3?oc=5",
-          "source": "Google News",
-          "published": "Fri, 30 Oct 2026 16:45:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "늦추",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "전작권 환수 늦추는 ‘미=천조국’ 해묵은 믿음…“함께 싸우는 동맹이 돼야” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHTkdNRlFaalQ5bEx3eGk3cGpYRUdQbF9za2R4RTNmbXdidUdjZEJNd242YksyTktYSVVhY3ZWSURfNnBKeGZSWEQ2MmRZQU1lUGg3VjNwa0hid1JELTNJVko0VUJfSGJ3?oc=5",
-          "source": "Google News",
-          "published": "Fri, 30 Oct 2026 16:45:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "미천조국",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "전작권 환수 늦추는 ‘미=천조국’ 해묵은 믿음…“함께 싸우는 동맹이 돼야” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHTkdNRlFaalQ5bEx3eGk3cGpYRUdQbF9za2R4RTNmbXdidUdjZEJNd242YksyTktYSVVhY3ZWSURfNnBKeGZSWEQ2MmRZQU1lUGg3VjNwa0hid1JELTNJVko0VUJfSGJ3?oc=5",
-          "source": "Google News",
-          "published": "Fri, 30 Oct 2026 16:45:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "해묵",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "전작권 환수 늦추는 ‘미=천조국’ 해묵은 믿음…“함께 싸우는 동맹이 돼야” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHTkdNRlFaalQ5bEx3eGk3cGpYRUdQbF9za2R4RTNmbXdidUdjZEJNd242YksyTktYSVVhY3ZWSURfNnBKeGZSWEQ2MmRZQU1lUGg3VjNwa0hid1JELTNJVko0VUJfSGJ3?oc=5",
-          "source": "Google News",
-          "published": "Fri, 30 Oct 2026 16:45:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "믿음함께",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "전작권 환수 늦추는 ‘미=천조국’ 해묵은 믿음…“함께 싸우는 동맹이 돼야” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHTkdNRlFaalQ5bEx3eGk3cGpYRUdQbF9za2R4RTNmbXdidUdjZEJNd242YksyTktYSVVhY3ZWSURfNnBKeGZSWEQ2MmRZQU1lUGg3VjNwa0hid1JELTNJVko0VUJfSGJ3?oc=5",
-          "source": "Google News",
-          "published": "Fri, 30 Oct 2026 16:45:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "싸우",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "전작권 환수 늦추는 ‘미=천조국’ 해묵은 믿음…“함께 싸우는 동맹이 돼야” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHTkdNRlFaalQ5bEx3eGk3cGpYRUdQbF9za2R4RTNmbXdidUdjZEJNd242YksyTktYSVVhY3ZWSURfNnBKeGZSWEQ2MmRZQU1lUGg3VjNwa0hid1JELTNJVko0VUJfSGJ3?oc=5",
-          "source": "Google News",
-          "published": "Fri, 30 Oct 2026 16:45:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "동맹",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "전작권 환수 늦추는 ‘미=천조국’ 해묵은 믿음…“함께 싸우는 동맹이 돼야” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHTkdNRlFaalQ5bEx3eGk3cGpYRUdQbF9za2R4RTNmbXdidUdjZEJNd242YksyTktYSVVhY3ZWSURfNnBKeGZSWEQ2MmRZQU1lUGg3VjNwa0hid1JELTNJVko0VUJfSGJ3?oc=5",
-          "source": "Google News",
-          "published": "Fri, 30 Oct 2026 16:45:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "돼야",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "전작권 환수 늦추는 ‘미=천조국’ 해묵은 믿음…“함께 싸우는 동맹이 돼야” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHTkdNRlFaalQ5bEx3eGk3cGpYRUdQbF9za2R4RTNmbXdidUdjZEJNd242YksyTktYSVVhY3ZWSURfNnBKeGZSWEQ2MmRZQU1lUGg3VjNwa0hid1JELTNJVko0VUJfSGJ3?oc=5",
-          "source": "Google News",
-          "published": "Fri, 30 Oct 2026 16:45:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "민주",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "민주, 장동혁 ’부정선거론’에 “당대표 지키자고 민주주의 망가뜨려“ - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GUXltSHZGcDZJUHlJU0gxRVR6ZFZkQ0VXUC1BellFU2lZQXJmUTg3MFFGRk9lTGxfNDBoOHFwV3o3MHp5ekpmd3MwNzZQdmJLQTVjdmsyNDRtalh2bm0zanNjZElkcnc?oc=5",
-          "source": "Google News",
-          "published": "Sat, 31 Oct 2026 02:07:00 GMT"
+          "published": "Fri, 30 Oct 2026 14:29:00 GMT"
         }
       ]
     },
@@ -481,75 +72,478 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "민주, 장동혁 ’부정선거론’에 “당대표 지키자고 민주주의 망가뜨려“ - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GUXltSHZGcDZJUHlJU0gxRVR6ZFZkQ0VXUC1BellFU2lZQXJmUTg3MFFGRk9lTGxfNDBoOHFwV3o3MHp5ekpmd3MwNzZQdmJLQTVjdmsyNDRtalh2bm0zanNjZElkcnc?oc=5",
+          "title": "장동혁, 이 대통령 향해 “링거 맞고 코피? 일본 가서 총리랑 드럼 치며 놀다 와” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUWVBrZFI4dmNvWldiTkg2Tk50VzNMaGZRekdlQkpQMDJtay1WNXFXZFp1SU9OZWRaZVU5ektlMEtKVHYwZTNnLV84dllzZktpY0tUM3RybUhIUdIBX0FVX3lxTE5DY1dFTzZJUElybUQ0M2dYNnFhNjlhMkZFakRwbnFxWGFScmRNbHJOZGZFVDFlNlRiZWJzWUFxQmF1REtLcGRYUFBoTElxSVZ3TFhRd2JDZUlJb2NDbTdr?oc=5",
           "source": "Google News",
-          "published": "Sat, 31 Oct 2026 02:07:00 GMT"
+          "published": "Sat, 31 Oct 2026 08:57:00 GMT"
         }
       ]
     },
     {
-      "word": "부정선거론",
+      "word": "향해",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "민주, 장동혁 ’부정선거론’에 “당대표 지키자고 민주주의 망가뜨려“ - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GUXltSHZGcDZJUHlJU0gxRVR6ZFZkQ0VXUC1BellFU2lZQXJmUTg3MFFGRk9lTGxfNDBoOHFwV3o3MHp5ekpmd3MwNzZQdmJLQTVjdmsyNDRtalh2bm0zanNjZElkcnc?oc=5",
+          "title": "장동혁, 이 대통령 향해 “링거 맞고 코피? 일본 가서 총리랑 드럼 치며 놀다 와” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUWVBrZFI4dmNvWldiTkg2Tk50VzNMaGZRekdlQkpQMDJtay1WNXFXZFp1SU9OZWRaZVU5ektlMEtKVHYwZTNnLV84dllzZktpY0tUM3RybUhIUdIBX0FVX3lxTE5DY1dFTzZJUElybUQ0M2dYNnFhNjlhMkZFakRwbnFxWGFScmRNbHJOZGZFVDFlNlRiZWJzWUFxQmF1REtLcGRYUFBoTElxSVZ3TFhRd2JDZUlJb2NDbTdr?oc=5",
           "source": "Google News",
-          "published": "Sat, 31 Oct 2026 02:07:00 GMT"
+          "published": "Sat, 31 Oct 2026 08:57:00 GMT"
         }
       ]
     },
     {
-      "word": "당대표",
-      "count": 1,
-      "category": "PERSON",
-      "articles": [
-        {
-          "title": "민주, 장동혁 ’부정선거론’에 “당대표 지키자고 민주주의 망가뜨려“ - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GUXltSHZGcDZJUHlJU0gxRVR6ZFZkQ0VXUC1BellFU2lZQXJmUTg3MFFGRk9lTGxfNDBoOHFwV3o3MHp5ekpmd3MwNzZQdmJLQTVjdmsyNDRtalh2bm0zanNjZElkcnc?oc=5",
-          "source": "Google News",
-          "published": "Sat, 31 Oct 2026 02:07:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "지키자",
+      "word": "링거",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "민주, 장동혁 ’부정선거론’에 “당대표 지키자고 민주주의 망가뜨려“ - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GUXltSHZGcDZJUHlJU0gxRVR6ZFZkQ0VXUC1BellFU2lZQXJmUTg3MFFGRk9lTGxfNDBoOHFwV3o3MHp5ekpmd3MwNzZQdmJLQTVjdmsyNDRtalh2bm0zanNjZElkcnc?oc=5",
+          "title": "장동혁, 이 대통령 향해 “링거 맞고 코피? 일본 가서 총리랑 드럼 치며 놀다 와” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUWVBrZFI4dmNvWldiTkg2Tk50VzNMaGZRekdlQkpQMDJtay1WNXFXZFp1SU9OZWRaZVU5ektlMEtKVHYwZTNnLV84dllzZktpY0tUM3RybUhIUdIBX0FVX3lxTE5DY1dFTzZJUElybUQ0M2dYNnFhNjlhMkZFakRwbnFxWGFScmRNbHJOZGZFVDFlNlRiZWJzWUFxQmF1REtLcGRYUFBoTElxSVZ3TFhRd2JDZUlJb2NDbTdr?oc=5",
           "source": "Google News",
-          "published": "Sat, 31 Oct 2026 02:07:00 GMT"
+          "published": "Sat, 31 Oct 2026 08:57:00 GMT"
         }
       ]
     },
     {
-      "word": "민주주",
+      "word": "맞고",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "장동혁, 이 대통령 향해 “링거 맞고 코피? 일본 가서 총리랑 드럼 치며 놀다 와” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUWVBrZFI4dmNvWldiTkg2Tk50VzNMaGZRekdlQkpQMDJtay1WNXFXZFp1SU9OZWRaZVU5ektlMEtKVHYwZTNnLV84dllzZktpY0tUM3RybUhIUdIBX0FVX3lxTE5DY1dFTzZJUElybUQ0M2dYNnFhNjlhMkZFakRwbnFxWGFScmRNbHJOZGZFVDFlNlRiZWJzWUFxQmF1REtLcGRYUFBoTElxSVZ3TFhRd2JDZUlJb2NDbTdr?oc=5",
+          "source": "Google News",
+          "published": "Sat, 31 Oct 2026 08:57:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "코피",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "장동혁, 이 대통령 향해 “링거 맞고 코피? 일본 가서 총리랑 드럼 치며 놀다 와” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUWVBrZFI4dmNvWldiTkg2Tk50VzNMaGZRekdlQkpQMDJtay1WNXFXZFp1SU9OZWRaZVU5ektlMEtKVHYwZTNnLV84dllzZktpY0tUM3RybUhIUdIBX0FVX3lxTE5DY1dFTzZJUElybUQ0M2dYNnFhNjlhMkZFakRwbnFxWGFScmRNbHJOZGZFVDFlNlRiZWJzWUFxQmF1REtLcGRYUFBoTElxSVZ3TFhRd2JDZUlJb2NDbTdr?oc=5",
+          "source": "Google News",
+          "published": "Sat, 31 Oct 2026 08:57:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "일본",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "장동혁, 이 대통령 향해 “링거 맞고 코피? 일본 가서 총리랑 드럼 치며 놀다 와” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUWVBrZFI4dmNvWldiTkg2Tk50VzNMaGZRekdlQkpQMDJtay1WNXFXZFp1SU9OZWRaZVU5ektlMEtKVHYwZTNnLV84dllzZktpY0tUM3RybUhIUdIBX0FVX3lxTE5DY1dFTzZJUElybUQ0M2dYNnFhNjlhMkZFakRwbnFxWGFScmRNbHJOZGZFVDFlNlRiZWJzWUFxQmF1REtLcGRYUFBoTElxSVZ3TFhRd2JDZUlJb2NDbTdr?oc=5",
+          "source": "Google News",
+          "published": "Sat, 31 Oct 2026 08:57:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "가서",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "장동혁, 이 대통령 향해 “링거 맞고 코피? 일본 가서 총리랑 드럼 치며 놀다 와” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUWVBrZFI4dmNvWldiTkg2Tk50VzNMaGZRekdlQkpQMDJtay1WNXFXZFp1SU9OZWRaZVU5ektlMEtKVHYwZTNnLV84dllzZktpY0tUM3RybUhIUdIBX0FVX3lxTE5DY1dFTzZJUElybUQ0M2dYNnFhNjlhMkZFakRwbnFxWGFScmRNbHJOZGZFVDFlNlRiZWJzWUFxQmF1REtLcGRYUFBoTElxSVZ3TFhRd2JDZUlJb2NDbTdr?oc=5",
+          "source": "Google News",
+          "published": "Sat, 31 Oct 2026 08:57:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "총리랑",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "장동혁, 이 대통령 향해 “링거 맞고 코피? 일본 가서 총리랑 드럼 치며 놀다 와” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUWVBrZFI4dmNvWldiTkg2Tk50VzNMaGZRekdlQkpQMDJtay1WNXFXZFp1SU9OZWRaZVU5ektlMEtKVHYwZTNnLV84dllzZktpY0tUM3RybUhIUdIBX0FVX3lxTE5DY1dFTzZJUElybUQ0M2dYNnFhNjlhMkZFakRwbnFxWGFScmRNbHJOZGZFVDFlNlRiZWJzWUFxQmF1REtLcGRYUFBoTElxSVZ3TFhRd2JDZUlJb2NDbTdr?oc=5",
+          "source": "Google News",
+          "published": "Sat, 31 Oct 2026 08:57:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "드럼",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "장동혁, 이 대통령 향해 “링거 맞고 코피? 일본 가서 총리랑 드럼 치며 놀다 와” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUWVBrZFI4dmNvWldiTkg2Tk50VzNMaGZRekdlQkpQMDJtay1WNXFXZFp1SU9OZWRaZVU5ektlMEtKVHYwZTNnLV84dllzZktpY0tUM3RybUhIUdIBX0FVX3lxTE5DY1dFTzZJUElybUQ0M2dYNnFhNjlhMkZFakRwbnFxWGFScmRNbHJOZGZFVDFlNlRiZWJzWUFxQmF1REtLcGRYUFBoTElxSVZ3TFhRd2JDZUlJb2NDbTdr?oc=5",
+          "source": "Google News",
+          "published": "Sat, 31 Oct 2026 08:57:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "치며",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "장동혁, 이 대통령 향해 “링거 맞고 코피? 일본 가서 총리랑 드럼 치며 놀다 와” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUWVBrZFI4dmNvWldiTkg2Tk50VzNMaGZRekdlQkpQMDJtay1WNXFXZFp1SU9OZWRaZVU5ektlMEtKVHYwZTNnLV84dllzZktpY0tUM3RybUhIUdIBX0FVX3lxTE5DY1dFTzZJUElybUQ0M2dYNnFhNjlhMkZFakRwbnFxWGFScmRNbHJOZGZFVDFlNlRiZWJzWUFxQmF1REtLcGRYUFBoTElxSVZ3TFhRd2JDZUlJb2NDbTdr?oc=5",
+          "source": "Google News",
+          "published": "Sat, 31 Oct 2026 08:57:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "놀다",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "장동혁, 이 대통령 향해 “링거 맞고 코피? 일본 가서 총리랑 드럼 치며 놀다 와” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUWVBrZFI4dmNvWldiTkg2Tk50VzNMaGZRekdlQkpQMDJtay1WNXFXZFp1SU9OZWRaZVU5ektlMEtKVHYwZTNnLV84dllzZktpY0tUM3RybUhIUdIBX0FVX3lxTE5DY1dFTzZJUElybUQ0M2dYNnFhNjlhMkZFakRwbnFxWGFScmRNbHJOZGZFVDFlNlRiZWJzWUFxQmF1REtLcGRYUFBoTElxSVZ3TFhRd2JDZUlJb2NDbTdr?oc=5",
+          "source": "Google News",
+          "published": "Sat, 31 Oct 2026 08:57:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "정청래",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정청래, '유시민 발언' 평가 유보‥\"독립운동도 노선 다수\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5STXRjZ0dJYVZuVkJ5aFNjUDREQVUyTXlqYjUtTERCNVJrMmRXRFJJUXd1ZWlYeXg0NkRwNDlUOE1mRWVITVQwQkUwZGRnWGJHVkt3ZmxxWjB2OE8wR3ZhLTFaNzRKX0h1RWIxVFcxMS1nWnhVSXg1SNIBeEFVX3lxTE0zb3NMVThQSzdrT2ZHWGszdGtEd2x5YjdDYkhYYUxmRGxVZ2dRY2xONzJtWXBxcmpfRXJyZEN6ZzFObHJFTnRBbF9XOEpYOVFwWHVaWWxlQmo0NWVxZWtDQmtTaFFGNEppVUNKcHpYejlDUGZsSmZGeA?oc=5",
+          "source": "Google News",
+          "published": "Sat, 31 Oct 2026 09:49:01 GMT"
+        }
+      ]
+    },
+    {
+      "word": "유시민",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정청래, '유시민 발언' 평가 유보‥\"독립운동도 노선 다수\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5STXRjZ0dJYVZuVkJ5aFNjUDREQVUyTXlqYjUtTERCNVJrMmRXRFJJUXd1ZWlYeXg0NkRwNDlUOE1mRWVITVQwQkUwZGRnWGJHVkt3ZmxxWjB2OE8wR3ZhLTFaNzRKX0h1RWIxVFcxMS1nWnhVSXg1SNIBeEFVX3lxTE0zb3NMVThQSzdrT2ZHWGszdGtEd2x5YjdDYkhYYUxmRGxVZ2dRY2xONzJtWXBxcmpfRXJyZEN6ZzFObHJFTnRBbF9XOEpYOVFwWHVaWWxlQmo0NWVxZWtDQmtTaFFGNEppVUNKcHpYejlDUGZsSmZGeA?oc=5",
+          "source": "Google News",
+          "published": "Sat, 31 Oct 2026 09:49:01 GMT"
+        }
+      ]
+    },
+    {
+      "word": "발언",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정청래, '유시민 발언' 평가 유보‥\"독립운동도 노선 다수\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5STXRjZ0dJYVZuVkJ5aFNjUDREQVUyTXlqYjUtTERCNVJrMmRXRFJJUXd1ZWlYeXg0NkRwNDlUOE1mRWVITVQwQkUwZGRnWGJHVkt3ZmxxWjB2OE8wR3ZhLTFaNzRKX0h1RWIxVFcxMS1nWnhVSXg1SNIBeEFVX3lxTE0zb3NMVThQSzdrT2ZHWGszdGtEd2x5YjdDYkhYYUxmRGxVZ2dRY2xONzJtWXBxcmpfRXJyZEN6ZzFObHJFTnRBbF9XOEpYOVFwWHVaWWxlQmo0NWVxZWtDQmtTaFFGNEppVUNKcHpYejlDUGZsSmZGeA?oc=5",
+          "source": "Google News",
+          "published": "Sat, 31 Oct 2026 09:49:01 GMT"
+        }
+      ]
+    },
+    {
+      "word": "평가",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정청래, '유시민 발언' 평가 유보‥\"독립운동도 노선 다수\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5STXRjZ0dJYVZuVkJ5aFNjUDREQVUyTXlqYjUtTERCNVJrMmRXRFJJUXd1ZWlYeXg0NkRwNDlUOE1mRWVITVQwQkUwZGRnWGJHVkt3ZmxxWjB2OE8wR3ZhLTFaNzRKX0h1RWIxVFcxMS1nWnhVSXg1SNIBeEFVX3lxTE0zb3NMVThQSzdrT2ZHWGszdGtEd2x5YjdDYkhYYUxmRGxVZ2dRY2xONzJtWXBxcmpfRXJyZEN6ZzFObHJFTnRBbF9XOEpYOVFwWHVaWWxlQmo0NWVxZWtDQmtTaFFGNEppVUNKcHpYejlDUGZsSmZGeA?oc=5",
+          "source": "Google News",
+          "published": "Sat, 31 Oct 2026 09:49:01 GMT"
+        }
+      ]
+    },
+    {
+      "word": "유보독립운동",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정청래, '유시민 발언' 평가 유보‥\"독립운동도 노선 다수\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5STXRjZ0dJYVZuVkJ5aFNjUDREQVUyTXlqYjUtTERCNVJrMmRXRFJJUXd1ZWlYeXg0NkRwNDlUOE1mRWVITVQwQkUwZGRnWGJHVkt3ZmxxWjB2OE8wR3ZhLTFaNzRKX0h1RWIxVFcxMS1nWnhVSXg1SNIBeEFVX3lxTE0zb3NMVThQSzdrT2ZHWGszdGtEd2x5YjdDYkhYYUxmRGxVZ2dRY2xONzJtWXBxcmpfRXJyZEN6ZzFObHJFTnRBbF9XOEpYOVFwWHVaWWxlQmo0NWVxZWtDQmtTaFFGNEppVUNKcHpYejlDUGZsSmZGeA?oc=5",
+          "source": "Google News",
+          "published": "Sat, 31 Oct 2026 09:49:01 GMT"
+        }
+      ]
+    },
+    {
+      "word": "노선",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정청래, '유시민 발언' 평가 유보‥\"독립운동도 노선 다수\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5STXRjZ0dJYVZuVkJ5aFNjUDREQVUyTXlqYjUtTERCNVJrMmRXRFJJUXd1ZWlYeXg0NkRwNDlUOE1mRWVITVQwQkUwZGRnWGJHVkt3ZmxxWjB2OE8wR3ZhLTFaNzRKX0h1RWIxVFcxMS1nWnhVSXg1SNIBeEFVX3lxTE0zb3NMVThQSzdrT2ZHWGszdGtEd2x5YjdDYkhYYUxmRGxVZ2dRY2xONzJtWXBxcmpfRXJyZEN6ZzFObHJFTnRBbF9XOEpYOVFwWHVaWWxlQmo0NWVxZWtDQmtTaFFGNEppVUNKcHpYejlDUGZsSmZGeA?oc=5",
+          "source": "Google News",
+          "published": "Sat, 31 Oct 2026 09:49:01 GMT"
+        }
+      ]
+    },
+    {
+      "word": "다수",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "정청래, '유시민 발언' 평가 유보‥\"독립운동도 노선 다수\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5STXRjZ0dJYVZuVkJ5aFNjUDREQVUyTXlqYjUtTERCNVJrMmRXRFJJUXd1ZWlYeXg0NkRwNDlUOE1mRWVITVQwQkUwZGRnWGJHVkt3ZmxxWjB2OE8wR3ZhLTFaNzRKX0h1RWIxVFcxMS1nWnhVSXg1SNIBeEFVX3lxTE0zb3NMVThQSzdrT2ZHWGszdGtEd2x5YjdDYkhYYUxmRGxVZ2dRY2xONzJtWXBxcmpfRXJyZEN6ZzFObHJFTnRBbF9XOEpYOVFwWHVaWWxlQmo0NWVxZWtDQmtTaFFGNEppVUNKcHpYejlDUGZsSmZGeA?oc=5",
+          "source": "Google News",
+          "published": "Sat, 31 Oct 2026 09:49:01 GMT"
+        }
+      ]
+    },
+    {
+      "word": "국힘",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "국힘 \"진성준 비자, 외교 참사\"‥민주 \"비굴한 사대주의\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzeFU3TEJlb3QzTDJNWFpIaVJWVDhtbnhqdTR3SG1FZmg2SzZsT0tIa1IwNTdCWjdMdUU1OUdjVUd2MTJQVURqaWlyZUtldVF4Zy1DNUhiYW9qTFpyRHpCampBSHRMQkNOTVczRzlKMktyWFRUZ3J6adIBeEFVX3lxTE5yUlBNdmh0ODNzdkp0RFY2eVRKc0ktcDhCdXNVYUR6akxGZjJQbDN2dl9vQ2lBcTF1MHZFTEZiQ1kxTm1BVmxybTF4blF4TUJGVVUzZVlJWUlsVjkzNjBXMVBpdEtmOHFPWlVWd2h4SXZZMWxKS1VQRA?oc=5",
+          "source": "Google News",
+          "published": "Sat, 31 Oct 2026 04:42:09 GMT"
+        }
+      ]
+    },
+    {
+      "word": "진성준",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "국힘 \"진성준 비자, 외교 참사\"‥민주 \"비굴한 사대주의\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzeFU3TEJlb3QzTDJNWFpIaVJWVDhtbnhqdTR3SG1FZmg2SzZsT0tIa1IwNTdCWjdMdUU1OUdjVUd2MTJQVURqaWlyZUtldVF4Zy1DNUhiYW9qTFpyRHpCampBSHRMQkNOTVczRzlKMktyWFRUZ3J6adIBeEFVX3lxTE5yUlBNdmh0ODNzdkp0RFY2eVRKc0ktcDhCdXNVYUR6akxGZjJQbDN2dl9vQ2lBcTF1MHZFTEZiQ1kxTm1BVmxybTF4blF4TUJGVVUzZVlJWUlsVjkzNjBXMVBpdEtmOHFPWlVWd2h4SXZZMWxKS1VQRA?oc=5",
+          "source": "Google News",
+          "published": "Sat, 31 Oct 2026 04:42:09 GMT"
+        }
+      ]
+    },
+    {
+      "word": "비자",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "국힘 \"진성준 비자, 외교 참사\"‥민주 \"비굴한 사대주의\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzeFU3TEJlb3QzTDJNWFpIaVJWVDhtbnhqdTR3SG1FZmg2SzZsT0tIa1IwNTdCWjdMdUU1OUdjVUd2MTJQVURqaWlyZUtldVF4Zy1DNUhiYW9qTFpyRHpCampBSHRMQkNOTVczRzlKMktyWFRUZ3J6adIBeEFVX3lxTE5yUlBNdmh0ODNzdkp0RFY2eVRKc0ktcDhCdXNVYUR6akxGZjJQbDN2dl9vQ2lBcTF1MHZFTEZiQ1kxTm1BVmxybTF4blF4TUJGVVUzZVlJWUlsVjkzNjBXMVBpdEtmOHFPWlVWd2h4SXZZMWxKS1VQRA?oc=5",
+          "source": "Google News",
+          "published": "Sat, 31 Oct 2026 04:42:09 GMT"
+        }
+      ]
+    },
+    {
+      "word": "외교",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "국힘 \"진성준 비자, 외교 참사\"‥민주 \"비굴한 사대주의\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzeFU3TEJlb3QzTDJNWFpIaVJWVDhtbnhqdTR3SG1FZmg2SzZsT0tIa1IwNTdCWjdMdUU1OUdjVUd2MTJQVURqaWlyZUtldVF4Zy1DNUhiYW9qTFpyRHpCampBSHRMQkNOTVczRzlKMktyWFRUZ3J6adIBeEFVX3lxTE5yUlBNdmh0ODNzdkp0RFY2eVRKc0ktcDhCdXNVYUR6akxGZjJQbDN2dl9vQ2lBcTF1MHZFTEZiQ1kxTm1BVmxybTF4blF4TUJGVVUzZVlJWUlsVjkzNjBXMVBpdEtmOHFPWlVWd2h4SXZZMWxKS1VQRA?oc=5",
+          "source": "Google News",
+          "published": "Sat, 31 Oct 2026 04:42:09 GMT"
+        }
+      ]
+    },
+    {
+      "word": "참사민주",
       "count": 1,
       "category": "LOCATION",
       "articles": [
         {
-          "title": "민주, 장동혁 ’부정선거론’에 “당대표 지키자고 민주주의 망가뜨려“ - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GUXltSHZGcDZJUHlJU0gxRVR6ZFZkQ0VXUC1BellFU2lZQXJmUTg3MFFGRk9lTGxfNDBoOHFwV3o3MHp5ekpmd3MwNzZQdmJLQTVjdmsyNDRtalh2bm0zanNjZElkcnc?oc=5",
+          "title": "국힘 \"진성준 비자, 외교 참사\"‥민주 \"비굴한 사대주의\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzeFU3TEJlb3QzTDJNWFpIaVJWVDhtbnhqdTR3SG1FZmg2SzZsT0tIa1IwNTdCWjdMdUU1OUdjVUd2MTJQVURqaWlyZUtldVF4Zy1DNUhiYW9qTFpyRHpCampBSHRMQkNOTVczRzlKMktyWFRUZ3J6adIBeEFVX3lxTE5yUlBNdmh0ODNzdkp0RFY2eVRKc0ktcDhCdXNVYUR6akxGZjJQbDN2dl9vQ2lBcTF1MHZFTEZiQ1kxTm1BVmxybTF4blF4TUJGVVUzZVlJWUlsVjkzNjBXMVBpdEtmOHFPWlVWd2h4SXZZMWxKS1VQRA?oc=5",
           "source": "Google News",
-          "published": "Sat, 31 Oct 2026 02:07:00 GMT"
+          "published": "Sat, 31 Oct 2026 04:42:09 GMT"
         }
       ]
     },
     {
-      "word": "망가뜨려",
+      "word": "비굴",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "민주, 장동혁 ’부정선거론’에 “당대표 지키자고 민주주의 망가뜨려“ - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GUXltSHZGcDZJUHlJU0gxRVR6ZFZkQ0VXUC1BellFU2lZQXJmUTg3MFFGRk9lTGxfNDBoOHFwV3o3MHp5ekpmd3MwNzZQdmJLQTVjdmsyNDRtalh2bm0zanNjZElkcnc?oc=5",
+          "title": "국힘 \"진성준 비자, 외교 참사\"‥민주 \"비굴한 사대주의\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzeFU3TEJlb3QzTDJNWFpIaVJWVDhtbnhqdTR3SG1FZmg2SzZsT0tIa1IwNTdCWjdMdUU1OUdjVUd2MTJQVURqaWlyZUtldVF4Zy1DNUhiYW9qTFpyRHpCampBSHRMQkNOTVczRzlKMktyWFRUZ3J6adIBeEFVX3lxTE5yUlBNdmh0ODNzdkp0RFY2eVRKc0ktcDhCdXNVYUR6akxGZjJQbDN2dl9vQ2lBcTF1MHZFTEZiQ1kxTm1BVmxybTF4blF4TUJGVVUzZVlJWUlsVjkzNjBXMVBpdEtmOHFPWlVWd2h4SXZZMWxKS1VQRA?oc=5",
           "source": "Google News",
-          "published": "Sat, 31 Oct 2026 02:07:00 GMT"
+          "published": "Sat, 31 Oct 2026 04:42:09 GMT"
+        }
+      ]
+    },
+    {
+      "word": "사대주",
+      "count": 1,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "국힘 \"진성준 비자, 외교 참사\"‥민주 \"비굴한 사대주의\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzeFU3TEJlb3QzTDJNWFpIaVJWVDhtbnhqdTR3SG1FZmg2SzZsT0tIa1IwNTdCWjdMdUU1OUdjVUd2MTJQVURqaWlyZUtldVF4Zy1DNUhiYW9qTFpyRHpCampBSHRMQkNOTVczRzlKMktyWFRUZ3J6adIBeEFVX3lxTE5yUlBNdmh0ODNzdkp0RFY2eVRKc0ktcDhCdXNVYUR6akxGZjJQbDN2dl9vQ2lBcTF1MHZFTEZiQ1kxTm1BVmxybTF4blF4TUJGVVUzZVlJWUlsVjkzNjBXMVBpdEtmOHFPWlVWd2h4SXZZMWxKS1VQRA?oc=5",
+          "source": "Google News",
+          "published": "Sat, 31 Oct 2026 04:42:09 GMT"
+        }
+      ]
+    },
+    {
+      "word": "내년초",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "靑 “내년초 전작권 성과 기대”… SCM서 ‘전환시점 확정’ 의지 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FVncxVVhIVkcwZHhQdmFMSVpFZ1EzcGFyUld5OTdfUF8tSG1lbHZtRnV2SG5pOXJjX3JjVWV5eUNZbnpoLV9LalBFRDI1Y09PWDl1R3BsNVlHR0JLTDlUZ1Y0M3AtT01QdGZhbTV4QnpQRWlvNWJN0gFmQVVfeXFMT1lfZWdNUmdTRExEV20yV2RxTnZHTUF6UFljallhNjkxSzFleUhDUW1CREp0QWRrWlQwWFZ4ODJXTDVBVnBwT1c2WDk4Y2tkQndPWXQ1NENsdzhDdzROdHNtRjkxcHd3?oc=5",
+          "source": "Google News",
+          "published": "Sat, 31 Oct 2026 08:08:37 GMT"
+        }
+      ]
+    },
+    {
+      "word": "전작권",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "靑 “내년초 전작권 성과 기대”… SCM서 ‘전환시점 확정’ 의지 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FVncxVVhIVkcwZHhQdmFMSVpFZ1EzcGFyUld5OTdfUF8tSG1lbHZtRnV2SG5pOXJjX3JjVWV5eUNZbnpoLV9LalBFRDI1Y09PWDl1R3BsNVlHR0JLTDlUZ1Y0M3AtT01QdGZhbTV4QnpQRWlvNWJN0gFmQVVfeXFMT1lfZWdNUmdTRExEV20yV2RxTnZHTUF6UFljallhNjkxSzFleUhDUW1CREp0QWRrWlQwWFZ4ODJXTDVBVnBwT1c2WDk4Y2tkQndPWXQ1NENsdzhDdzROdHNtRjkxcHd3?oc=5",
+          "source": "Google News",
+          "published": "Sat, 31 Oct 2026 08:08:37 GMT"
+        }
+      ]
+    },
+    {
+      "word": "성과",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "靑 “내년초 전작권 성과 기대”… SCM서 ‘전환시점 확정’ 의지 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FVncxVVhIVkcwZHhQdmFMSVpFZ1EzcGFyUld5OTdfUF8tSG1lbHZtRnV2SG5pOXJjX3JjVWV5eUNZbnpoLV9LalBFRDI1Y09PWDl1R3BsNVlHR0JLTDlUZ1Y0M3AtT01QdGZhbTV4QnpQRWlvNWJN0gFmQVVfeXFMT1lfZWdNUmdTRExEV20yV2RxTnZHTUF6UFljallhNjkxSzFleUhDUW1CREp0QWRrWlQwWFZ4ODJXTDVBVnBwT1c2WDk4Y2tkQndPWXQ1NENsdzhDdzROdHNtRjkxcHd3?oc=5",
+          "source": "Google News",
+          "published": "Sat, 31 Oct 2026 08:08:37 GMT"
+        }
+      ]
+    },
+    {
+      "word": "기대",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "靑 “내년초 전작권 성과 기대”… SCM서 ‘전환시점 확정’ 의지 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FVncxVVhIVkcwZHhQdmFMSVpFZ1EzcGFyUld5OTdfUF8tSG1lbHZtRnV2SG5pOXJjX3JjVWV5eUNZbnpoLV9LalBFRDI1Y09PWDl1R3BsNVlHR0JLTDlUZ1Y0M3AtT01QdGZhbTV4QnpQRWlvNWJN0gFmQVVfeXFMT1lfZWdNUmdTRExEV20yV2RxTnZHTUF6UFljallhNjkxSzFleUhDUW1CREp0QWRrWlQwWFZ4ODJXTDVBVnBwT1c2WDk4Y2tkQndPWXQ1NENsdzhDdzROdHNtRjkxcHd3?oc=5",
+          "source": "Google News",
+          "published": "Sat, 31 Oct 2026 08:08:37 GMT"
+        }
+      ]
+    },
+    {
+      "word": "SCM서",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "靑 “내년초 전작권 성과 기대”… SCM서 ‘전환시점 확정’ 의지 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FVncxVVhIVkcwZHhQdmFMSVpFZ1EzcGFyUld5OTdfUF8tSG1lbHZtRnV2SG5pOXJjX3JjVWV5eUNZbnpoLV9LalBFRDI1Y09PWDl1R3BsNVlHR0JLTDlUZ1Y0M3AtT01QdGZhbTV4QnpQRWlvNWJN0gFmQVVfeXFMT1lfZWdNUmdTRExEV20yV2RxTnZHTUF6UFljallhNjkxSzFleUhDUW1CREp0QWRrWlQwWFZ4ODJXTDVBVnBwT1c2WDk4Y2tkQndPWXQ1NENsdzhDdzROdHNtRjkxcHd3?oc=5",
+          "source": "Google News",
+          "published": "Sat, 31 Oct 2026 08:08:37 GMT"
+        }
+      ]
+    },
+    {
+      "word": "전환시점",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "靑 “내년초 전작권 성과 기대”… SCM서 ‘전환시점 확정’ 의지 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FVncxVVhIVkcwZHhQdmFMSVpFZ1EzcGFyUld5OTdfUF8tSG1lbHZtRnV2SG5pOXJjX3JjVWV5eUNZbnpoLV9LalBFRDI1Y09PWDl1R3BsNVlHR0JLTDlUZ1Y0M3AtT01QdGZhbTV4QnpQRWlvNWJN0gFmQVVfeXFMT1lfZWdNUmdTRExEV20yV2RxTnZHTUF6UFljallhNjkxSzFleUhDUW1CREp0QWRrWlQwWFZ4ODJXTDVBVnBwT1c2WDk4Y2tkQndPWXQ1NENsdzhDdzROdHNtRjkxcHd3?oc=5",
+          "source": "Google News",
+          "published": "Sat, 31 Oct 2026 08:08:37 GMT"
+        }
+      ]
+    },
+    {
+      "word": "확정",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "靑 “내년초 전작권 성과 기대”… SCM서 ‘전환시점 확정’ 의지 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FVncxVVhIVkcwZHhQdmFMSVpFZ1EzcGFyUld5OTdfUF8tSG1lbHZtRnV2SG5pOXJjX3JjVWV5eUNZbnpoLV9LalBFRDI1Y09PWDl1R3BsNVlHR0JLTDlUZ1Y0M3AtT01QdGZhbTV4QnpQRWlvNWJN0gFmQVVfeXFMT1lfZWdNUmdTRExEV20yV2RxTnZHTUF6UFljallhNjkxSzFleUhDUW1CREp0QWRrWlQwWFZ4ODJXTDVBVnBwT1c2WDk4Y2tkQndPWXQ1NENsdzhDdzROdHNtRjkxcHd3?oc=5",
+          "source": "Google News",
+          "published": "Sat, 31 Oct 2026 08:08:37 GMT"
+        }
+      ]
+    },
+    {
+      "word": "경북",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "李대통령, 경북 찾아 \"농어촌 기본소득 더 많은 지역으로 확대\"(종합) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UYm8zejAwOGxEdHRzamdPSW9HTHBaYkFSSGtZemUtNERyX1FGVXNhLUcxSWlKdzdCRElFSnA1S2p0S2pLeHhiMkVTRlhtWV9CZFd4cWRYRHpQeHfSAWBBVV95cUxPVEcyQjFMdlRLZFI5c2tyTzJGUXhpellTTk52eDNzcEp3N1o3M1RDNUY0S1gzRUhLMmNudDZ2dEVMUi05cVUteXBodnhva3cyaU1XWkpvM3RTdGR6Z0lJUlY?oc=5",
+          "source": "Google News",
+          "published": "Sat, 31 Oct 2026 10:19:43 GMT"
+        }
+      ]
+    },
+    {
+      "word": "찾아",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "李대통령, 경북 찾아 \"농어촌 기본소득 더 많은 지역으로 확대\"(종합) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UYm8zejAwOGxEdHRzamdPSW9HTHBaYkFSSGtZemUtNERyX1FGVXNhLUcxSWlKdzdCRElFSnA1S2p0S2pLeHhiMkVTRlhtWV9CZFd4cWRYRHpQeHfSAWBBVV95cUxPVEcyQjFMdlRLZFI5c2tyTzJGUXhpellTTk52eDNzcEp3N1o3M1RDNUY0S1gzRUhLMmNudDZ2dEVMUi05cVUteXBodnhva3cyaU1XWkpvM3RTdGR6Z0lJUlY?oc=5",
+          "source": "Google News",
+          "published": "Sat, 31 Oct 2026 10:19:43 GMT"
+        }
+      ]
+    },
+    {
+      "word": "농어촌",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "李대통령, 경북 찾아 \"농어촌 기본소득 더 많은 지역으로 확대\"(종합) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UYm8zejAwOGxEdHRzamdPSW9HTHBaYkFSSGtZemUtNERyX1FGVXNhLUcxSWlKdzdCRElFSnA1S2p0S2pLeHhiMkVTRlhtWV9CZFd4cWRYRHpQeHfSAWBBVV95cUxPVEcyQjFMdlRLZFI5c2tyTzJGUXhpellTTk52eDNzcEp3N1o3M1RDNUY0S1gzRUhLMmNudDZ2dEVMUi05cVUteXBodnhva3cyaU1XWkpvM3RTdGR6Z0lJUlY?oc=5",
+          "source": "Google News",
+          "published": "Sat, 31 Oct 2026 10:19:43 GMT"
+        }
+      ]
+    },
+    {
+      "word": "기본소득",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "李대통령, 경북 찾아 \"농어촌 기본소득 더 많은 지역으로 확대\"(종합) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UYm8zejAwOGxEdHRzamdPSW9HTHBaYkFSSGtZemUtNERyX1FGVXNhLUcxSWlKdzdCRElFSnA1S2p0S2pLeHhiMkVTRlhtWV9CZFd4cWRYRHpQeHfSAWBBVV95cUxPVEcyQjFMdlRLZFI5c2tyTzJGUXhpellTTk52eDNzcEp3N1o3M1RDNUY0S1gzRUhLMmNudDZ2dEVMUi05cVUteXBodnhva3cyaU1XWkpvM3RTdGR6Z0lJUlY?oc=5",
+          "source": "Google News",
+          "published": "Sat, 31 Oct 2026 10:19:43 GMT"
+        }
+      ]
+    },
+    {
+      "word": "많은",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "李대통령, 경북 찾아 \"농어촌 기본소득 더 많은 지역으로 확대\"(종합) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UYm8zejAwOGxEdHRzamdPSW9HTHBaYkFSSGtZemUtNERyX1FGVXNhLUcxSWlKdzdCRElFSnA1S2p0S2pLeHhiMkVTRlhtWV9CZFd4cWRYRHpQeHfSAWBBVV95cUxPVEcyQjFMdlRLZFI5c2tyTzJGUXhpellTTk52eDNzcEp3N1o3M1RDNUY0S1gzRUhLMmNudDZ2dEVMUi05cVUteXBodnhva3cyaU1XWkpvM3RTdGR6Z0lJUlY?oc=5",
+          "source": "Google News",
+          "published": "Sat, 31 Oct 2026 10:19:43 GMT"
         }
       ]
     }
