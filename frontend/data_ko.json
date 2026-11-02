@@ -1,98 +1,124 @@
 {
   "language": "ko",
-  "last_updated": 1793633251.486592,
+  "last_updated": 1793661801.252041,
   "count": 40,
   "trends": [
     {
+      "word": "백신",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "코로나 백신 맞으면 암 걸린다?...\"근거 없어\" - YTN 사이언스",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZm5wZkFwbjA3TzBGVm9Vc2tIa0F0N2thVWtKTUoxYUoxMVFpNkNBUXV0ZjBxdEZxM0h5azlNajdUWndDYzNHSGE4cEViSkQ5RlFZUktqWlItdkhxQng1eVhoMXNVR1RUZHE4VUNJYk45SUp2YlZIeGFxTkNCcFlDb3ZLVjRQbndvTFI1Ug?oc=5",
+          "source": "Google News",
+          "published": "Mon, 02 Nov 2026 02:06:08 GMT"
+        },
+        {
+          "title": "[정평중] 독감 백신의 한계, '범용 백신'이 해결할 수 있을까? - 우리학교신문",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41WFYzcWJmNi0zS2VPTVZ4cVByYnhCTV91WVd0OTBMYzREdDV3blRPYVlZTEp6VDA1YU1MZVlUbWhBR3NyRklkc3RLandzS1ZO?oc=5",
+          "source": "Google News",
+          "published": "Mon, 02 Nov 2026 04:42:00 GMT"
+        }
+      ]
+    },
+    {
       "word": "대통령",
-      "count": 4,
+      "count": 2,
       "category": "PERSON",
       "articles": [
         {
-          "title": "국힘 “재판 재개하라” 고성에…이 대통령 “제가 계속해도 되겠습니까” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01Y3ZKLWZGT0NhR2tCejNwWDRYZERDRjIxek03aXlXbVRwSnhmbVh1Yy1zZmV0OHZDd244YTl1WXJzY2xBRGtkbkMwWmdVOEt5YmVFSXFPdXFTbkpLYy1iUWUyQWQyOHdUS1E?oc=5",
+          "title": "2027년 예산안 대통령 시정연설 사전환담 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9od2N3WldsNkdCblJhUFpFR252TDNmNHV3aFFjSnZkRVR4alFNU0tGYmRJZ25naF9PUXVMM0VwN3M4N2hQMXM2cGVFRUN1ZUNZdE01NzYwZUpibVdyNV8wQmlnMzVjbFA3SENUcUtvek9heFZia0ZKWEpR?oc=5",
           "source": "Google News",
-          "published": "Mon, 02 Nov 2026 12:20:00 GMT"
+          "published": "Mon, 02 Nov 2026 22:47:21 GMT"
         },
         {
           "title": "청와대, 이 대통령 등 공군 1호기 탑승자 여권번호 노출에 “사전 인지 후 대응 조치 취해” - 경향신문",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UeFRZeVJUX3ctWUdnenBBSkRLaFgwSjhvQVZPMHRkR09udDF4ek9nZUlGRFp4eldjS3JrbTJlak1TUHZUX0RpeWJOZDQzbFlGcFc0eG9qSXpUUdIBX0FVX3lxTE1vajFiTWdTcmhQRW9mU1VZNGJHNmZCTFVPc3czR3BKZTVYN3NMUHNwcnB2dmZCU0lEMVhMeDVmVjcyUEwyN3NCY3h1STlKX0xpeGoxYzhhQ1lTNHlsbHJR?oc=5",
           "source": "Google News",
           "published": "Mon, 02 Nov 2026 13:28:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "서울",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "서울 원정진료비, 사상 첫 12조 넘었다…환자 41% 타지역 거주 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56RlgzekdCWWx5SGM4bnFDSTBIWUlZZjFIS0pLVlRiZ3Q4WG94LURtM3R6ZkRsVkU1aS1uTmNrNGVqYUVhMjJDb3VieEVIRmxZTFRiTE9ZVmdpSjJmODRxVlhnUF9jQQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 02 Nov 2026 12:25:00 GMT"
         },
         {
-          "title": "이주민 단체들 내일 '이 대통령 발언 규탄' 기자회견‥이후 靑 간담회 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WbEJJQjN6SEZDQTFyMVJvd0hOSmdvVE1LSDFqa1c1M2RfYjZuVkt4NWdiNUgwam5UMUVwckQ0UWRYOVdPSlRJOTBScm1OYzM4b3NnenRkNkpnajZnMXVXOXpJeDNqWVFmZXBOTXZMTWJ1ODF3bERlRdIBeEFVX3lxTE1HZWFuUDVyRnRxdzFodUV4ajlrR2lSNkFkUnZRSktHc0NlTzhHay1LTzR3LXNRQUhxeFRMZHBIWGZqTkl4TkJSRHRQVXV5a0w5cVNlWG9pcHEwcGdoRkVwLUVLVkdvLUJUV2FwYlFzOERCcWgyMTF3aA?oc=5",
+          "title": "연이은 도심 마라톤에 주말 서울 교통 혼잡‥오세훈 시장 \"내년 대회 원점에서 협의\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TMk5ZM2FucmlrX1I5OFA2X0FhVFRoM1pIZFVab0lsWFF6a1M2STg3Q0NsekREeUx5Qk1Dd1Z4eDZWSHd2OFg3cF93OEJGWktZSVFUMjhOYVNPdG1jZld6Nk5YQlktZ0V1Ynl5R2I4TnJqWFBUc1NN0gF3QVVfeXFMTzB2UWltSDNwQlprVDhUc3dlekdOLTRzZmhIVnFhWDI1dmxZTks2aGxDSjVUekNTLW1sbUdpQ1BDczBoNHIwemhhQnhqV09VZWZlc01WN0ZBN1FOMDhPbGRFRlpqWTBYRDlOSndBSmRHSVBzeGxTeGs?oc=5",
           "source": "Google News",
-          "published": "Mon, 02 Nov 2026 09:06:21 GMT"
+          "published": "Mon, 02 Nov 2026 06:24:28 GMT"
+        }
+      ]
+    },
+    {
+      "word": "의혹",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[단독]한동훈 딸, 서울시장상 공적서에 “봉사 앱 만들었다”…‘앱 대리 제작 의혹’ 이모 진씨 명의 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvQ1MwcFQ0LUE5VnFJQTd5dzlDZGdWUVFtd0h1SXgxLVdhTXJoNmRXRnFDbGpDT1I0V3NERnhMTWs1MW5XYWsyaEhXN3hWaVotX0RQQk95SWVHd9IBX0FVX3lxTFBqQWhxcVJ3dmluckUxMzlCLXBoQjk1RG4zakFMa0xWRHQxWmpHblpxMDZCTGlTdTJQN2xkUlFIMDc2b2lVVFRmXzZxcG9zVU1xaVdMUGpQWVVRQUlNUV9V?oc=5",
+          "source": "Google News",
+          "published": "Mon, 02 Nov 2026 22:17:00 GMT"
         },
         {
-          "title": "[속보] 李대통령 \"불평등 양극화 그늘 여전 …'모두의 성장' 대전환\" - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjVllKc0IydTN4Z0JhV19fMGU4TUNDWHl1M2owa3l0TW1TS0tManQ3eDc0b0hGZ0p2cDJEdkNhY0JGa192Wlh0M3RZUzA5STFubUZESml6Y2Q1QQ?oc=5",
+          "title": "[잇슈 컬처] 차예련 ‘학폭 의혹’에 유튜브 댓글창 폐쇄 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkMmttYjRGRC12QnlzSUFVdHhPdGpPNUUtU0U1SmtPRUJyTWhBd1M2QUF1cGJVMlpSZU9TcWsxZzdvNzh6OTRtS2M4MTBid0QzRW1DYlh5NjBQTXhraGEwaG5CVVNUdw?oc=5",
           "source": "Google News",
-          "published": "Mon, 02 Nov 2026 01:09:51 GMT"
+          "published": "Mon, 02 Nov 2026 21:50:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "시장",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "연이은 도심 마라톤에 주말 서울 교통 혼잡‥오세훈 시장 \"내년 대회 원점에서 협의\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TMk5ZM2FucmlrX1I5OFA2X0FhVFRoM1pIZFVab0lsWFF6a1M2STg3Q0NsekREeUx5Qk1Dd1Z4eDZWSHd2OFg3cF93OEJGWktZSVFUMjhOYVNPdG1jZld6Nk5YQlktZ0V1Ynl5R2I4TnJqWFBUc1NN0gF3QVVfeXFMTzB2UWltSDNwQlprVDhUc3dlekdOLTRzZmhIVnFhWDI1dmxZTks2aGxDSjVUekNTLW1sbUdpQ1BDczBoNHIwemhhQnhqV09VZWZlc01WN0ZBN1FOMDhPbGRFRlpqWTBYRDlOSndBSmRHSVBzeGxTeGs?oc=5",
+          "source": "Google News",
+          "published": "Mon, 02 Nov 2026 06:24:28 GMT"
+        },
+        {
+          "title": "“용량당 제조원가 HBM4의 10% 수준”… HBF, 낸드플래시 시장 구세주 될까 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaWJUR0xUV2pfbVU1d3pTQXlIR0ZiVUx0bXE1b1ZOb1FMd1pPdkFuVWlrVUo2TmZ1Z0tBQ3RUdWh0cUtFQzRvWVR5dU1vakdhbXZiVW5CblRsNE5qM0tvaWhSUEFMelhXeUJKNzAzVHhMb2x5OGs2ZS05NlZ4bHpNcUJ30gGWAUFVX3lxTE14bW0xU0EtMVBBdThmYWtvSjZvd2JockduSmlnS1A1dGZicnR1SlpOTVo5VzFEWDlJaGsyeFpLdW55NW1ONENBa0w1azJjTUJFTmREdTRDR1RIZDBrNjFOTS0yV0w3Q185S2Jpby1PZmw4ZTYtVy1ocDRBcmgwcU52aFFOYnc0ZWdWeHRVaTBQMFVKTkppZw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 02 Nov 2026 21:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "수준",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "“용량당 제조원가 HBM4의 10% 수준”… HBF, 낸드플래시 시장 구세주 될까 - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaWJUR0xUV2pfbVU1d3pTQXlIR0ZiVUx0bXE1b1ZOb1FMd1pPdkFuVWlrVUo2TmZ1Z0tBQ3RUdWh0cUtFQzRvWVR5dU1vakdhbXZiVW5CblRsNE5qM0tvaWhSUEFMelhXeUJKNzAzVHhMb2x5OGs2ZS05NlZ4bHpNcUJ30gGWAUFVX3lxTE14bW0xU0EtMVBBdThmYWtvSjZvd2JockduSmlnS1A1dGZicnR1SlpOTVo5VzFEWDlJaGsyeFpLdW55NW1ONENBa0w1azJjTUJFTmREdTRDR1RIZDBrNjFOTS0yV0w3Q185S2Jpby1PZmw4ZTYtVy1ocDRBcmgwcU52aFFOYnc0ZWdWeHRVaTBQMFVKTkppZw?oc=5",
+          "source": "Google News",
+          "published": "Mon, 02 Nov 2026 21:00:00 GMT"
+        },
+        {
+          "title": "같은 우울함에도 뇌는 딴판… 우울 수준 따라 전전두엽 반응 엇갈린다 - 카이스트신문",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9EekZYQXVzVjdIamh1clFSd1Z2MUtZcFJLTXVIdmNVOXJybDE5YTdwSEtwaVlRNmdCOVVGUVg5WUNkRnZ0VE4wcGVES2JfQWJwbEtBTHA5YXpKOGJGN0tCZGhUZUZ0V2pkY0dV?oc=5",
+          "source": "Google News",
+          "published": "Mon, 02 Nov 2026 15:09:11 GMT"
         }
       ]
     },
     {
       "word": "영상",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[영상] 피크민 블룸, ‘비밀 동굴’ 소개 영상 공개 - 게임뷰",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OWTU0V0otMGk5TE1OZTIwWnExLXF5ZkNXU0lzMHJ0WE9QVVdiRFdWMXBtT0pVVDlzZkppU05zR3prTzVFZ0VIOTJEVkREekNueUk1TGRGai1NNFoyMnRTRi0zUUljZVk4UUE?oc=5",
-          "source": "Google News",
-          "published": "Mon, 02 Nov 2026 08:59:17 GMT"
-        },
-        {
-          "title": "[영상] 룩 아웃사이드, 콘솔 출시 트레일러 공개 - 게임뷰",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RUlJJRmdDN3lYS1BvYjBhclRzQ3ZwVnZoXzdkMjdCWFM1am94OVVNOFJjTkJ3anE0OWEwalV6VTBGWGxCcHRnQWJxSVFnZmczWk0wb05iX2ZRaTd6UF9STndQdnJGMGc1UWc?oc=5",
-          "source": "Google News",
-          "published": "Mon, 02 Nov 2026 08:56:47 GMT"
-        }
-      ]
-    },
-    {
-      "word": "재개",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "국힘 “재판 재개하라” 고성에…이 대통령 “제가 계속해도 되겠습니까” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01Y3ZKLWZGT0NhR2tCejNwWDRYZERDRjIxek03aXlXbVRwSnhmbVh1Yy1zZmV0OHZDd244YTl1WXJzY2xBRGtkbkMwWmdVOEt5YmVFSXFPdXFTbkpLYy1iUWUyQWQyOHdUS1E?oc=5",
-          "source": "Google News",
-          "published": "Mon, 02 Nov 2026 12:20:00 GMT"
-        },
-        {
-          "title": "프랑스 고교생 시위, 2주 방학 끝나자마자 소규모 재개 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BTmlXYTF1N0xaZDVCemVfaWhnNzc1bU93dkdlOXBVN3dOQkpDZE03RjRVaWpNWG8wVnFOekotSGR5SWlOTVN2QjdXa2xpM1BOaGg4UGRFZUcwcWxaRy1iMWMxSjZyOEk?oc=5",
-          "source": "Google News",
-          "published": "Mon, 02 Nov 2026 12:04:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "역대",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "러군 ‘최악의 한 달’ 보냈나?…우크라 “10월 사상자 5만 4400명, 역대 최고치” [핫이슈] - 나우뉴스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BX013NC15WHFSREZmZkVxdkY4WTVvamlncTRSMkdVZTJXOXY3M1AwRWtDbkVfNFR0aHA2amRKM3lfcDdLSnl3UF9LNzU2X0lmdkNHZ1RwdFdMS3R1QWRiMDBPbHNRbmlCbGVjOXdxTHE?oc=5",
-          "source": "Google News",
-          "published": "Mon, 02 Nov 2026 08:30:00 GMT"
-        },
-        {
-          "title": "앤트로픽, 미 IPO로 일본서만 4조 7천억 원 조달‥해외 기업 역대 최대 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ELXlGY1ltS3QxYUdFWFMydllCbnA5YkhZUGxFR0F1dlZhZm1fSHIwZ2JEMFV3eXE4ZWNILTQyNjRMU1lqeElpSTVtd2ZBX0VzWkVSWGtHVGttb2RXNUM0THQ5c1gyRndNWjBzaVRoQThLclFs0gF0QVVfeXFMT0h0U3pCSUJISVBfU1FJbk5zby1jbVFXTk5fTzF6YkxuSnZocEhxa2l2XzBuMUFtSExKTGpzaWs1ak9ydFF2ZkQtMXJwYXQ3YVFLUlNrdEVJLXdZckhScERWZm00ekVEUmFFeGtwaVhBRzliSzY?oc=5",
-          "source": "Google News",
-          "published": "Mon, 02 Nov 2026 12:13:49 GMT"
-        }
-      ]
-    },
-    {
-      "word": "공개",
       "count": 2,
       "category": "NOUN",
       "articles": [
@@ -101,12 +127,6 @@
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OWTU0V0otMGk5TE1OZTIwWnExLXF5ZkNXU0lzMHJ0WE9QVVdiRFdWMXBtT0pVVDlzZkppU05zR3prTzVFZ0VIOTJEVkREekNueUk1TGRGai1NNFoyMnRTRi0zUUljZVk4UUE?oc=5",
           "source": "Google News",
           "published": "Mon, 02 Nov 2026 08:59:17 GMT"
-        },
-        {
-          "title": "[영상] 룩 아웃사이드, 콘솔 출시 트레일러 공개 - 게임뷰",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RUlJJRmdDN3lYS1BvYjBhclRzQ3ZwVnZoXzdkMjdCWFM1am94OVVNOFJjTkJ3anE0OWEwalV6VTBGWGxCcHRnQWJxSVFnZmczWk0wb05iX2ZRaTd6UF9STndQdnJGMGc1UWc?oc=5",
-          "source": "Google News",
-          "published": "Mon, 02 Nov 2026 08:56:47 GMT"
         }
       ]
     },
@@ -122,458 +142,426 @@
           "published": "Mon, 02 Nov 2026 01:50:18 GMT"
         },
         {
-          "title": "[영상] 룩 아웃사이드, 콘솔 출시 트레일러 공개 - 게임뷰",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RUlJJRmdDN3lYS1BvYjBhclRzQ3ZwVnZoXzdkMjdCWFM1am94OVVNOFJjTkJ3anE0OWEwalV6VTBGWGxCcHRnQWJxSVFnZmczWk0wb05iX2ZRaTd6UF9STndQdnJGMGc1UWc?oc=5",
+          "title": "Mafia 2가 60 FPS를 지원하며 PlayStation 5 출시를 앞두고 있습니다. - GameGPU",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbVFJd2VPWkNqeVBqTXcyb1VJUGFacjdCUVBmbTdzd2Z3VWJKc01VN1kyaUV1V0ZlMzZBRXV0dHROYmpWTTN4WWNEcXZFZUZhcVdCZmFTNS1iSXZhVVA1TjNUZm1RdmpoTnkwcm1tUi1QeWh4M3Z0N083WWVXTTZpTGI2OEwyajhWbmJuY19jOHFuOWFiYW44Z2dyb1BqTVNrTWJyalpVUQ?oc=5",
           "source": "Google News",
-          "published": "Mon, 02 Nov 2026 08:56:47 GMT"
+          "published": "Mon, 02 Nov 2026 23:08:55 GMT"
         }
       ]
     },
     {
-      "word": "반응",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "김태균, 공황장애로 ‘컬투쇼’ 떠난 정찬우 이름 나오자 보인 반응 - 뉴스엔",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBYUEZmcWpiS05IbV84dFcyZXQxLWZfT1BDcmpFQUNqS1RyOE81MWNPbXZJb0xTRW9FcHBvTUR1MFNGQ3VnN0hYSTI0Skl1ZHhJd2tiMC1hN0ZPbnBjTTI3RmsxQmtuUTFxM1NNLXlpb2UwSDlobTFZeDdzYw?oc=5",
-          "source": "Google News",
-          "published": "Mon, 02 Nov 2026 07:33:10 GMT"
-        },
-        {
-          "title": "같은 우울함에도 뇌는 딴판… 우울 수준 따라 전전두엽 반응 엇갈린다 - 카이스트신문",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9EekZYQXVzVjdIamh1clFSd1Z2MUtZcFJLTXVIdmNVOXJybDE5YTdwSEtwaVlRNmdCOVVGUVg5WUNkRnZ0VE4wcGVES2JfQWJwbEtBTHA5YXpKOGJGN0tCZGhUZUZ0V2pkY0dV?oc=5",
-          "source": "Google News",
-          "published": "Mon, 02 Nov 2026 15:09:11 GMT"
-        }
-      ]
-    },
-    {
-      "word": "국힘",
+      "word": "다가온",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "국힘 “재판 재개하라” 고성에…이 대통령 “제가 계속해도 되겠습니까” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01Y3ZKLWZGT0NhR2tCejNwWDRYZERDRjIxek03aXlXbVRwSnhmbVh1Yy1zZmV0OHZDd244YTl1WXJzY2xBRGtkbkMwWmdVOEt5YmVFSXFPdXFTbkpLYy1iUWUyQWQyOHdUS1E?oc=5",
+          "title": "다가온 결전의 날…한국 시각 오늘 밤 투표 개시 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHS1NabFhKVEF0d0pHM2JwNUZHeTN5ZmRoeEZVZGhOWGFCWTk1MzNYLUNienBLS3U5ajFLS2NEQ2xOSW1RRVdjb2FqS0h0T3U3bktzVXMtMzNLWmM?oc=5",
           "source": "Google News",
-          "published": "Mon, 02 Nov 2026 12:20:00 GMT"
+          "published": "Mon, 02 Nov 2026 21:12:00 GMT"
         }
       ]
     },
     {
-      "word": "재판",
+      "word": "결전",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "국힘 “재판 재개하라” 고성에…이 대통령 “제가 계속해도 되겠습니까” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01Y3ZKLWZGT0NhR2tCejNwWDRYZERDRjIxek03aXlXbVRwSnhmbVh1Yy1zZmV0OHZDd244YTl1WXJzY2xBRGtkbkMwWmdVOEt5YmVFSXFPdXFTbkpLYy1iUWUyQWQyOHdUS1E?oc=5",
+          "title": "다가온 결전의 날…한국 시각 오늘 밤 투표 개시 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHS1NabFhKVEF0d0pHM2JwNUZHeTN5ZmRoeEZVZGhOWGFCWTk1MzNYLUNienBLS3U5ajFLS2NEQ2xOSW1RRVdjb2FqS0h0T3U3bktzVXMtMzNLWmM?oc=5",
           "source": "Google News",
-          "published": "Mon, 02 Nov 2026 12:20:00 GMT"
+          "published": "Mon, 02 Nov 2026 21:12:00 GMT"
         }
       ]
     },
     {
-      "word": "고성",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "국힘 “재판 재개하라” 고성에…이 대통령 “제가 계속해도 되겠습니까” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01Y3ZKLWZGT0NhR2tCejNwWDRYZERDRjIxek03aXlXbVRwSnhmbVh1Yy1zZmV0OHZDd244YTl1WXJzY2xBRGtkbkMwWmdVOEt5YmVFSXFPdXFTbkpLYy1iUWUyQWQyOHdUS1E?oc=5",
-          "source": "Google News",
-          "published": "Mon, 02 Nov 2026 12:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "제가",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "국힘 “재판 재개하라” 고성에…이 대통령 “제가 계속해도 되겠습니까” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01Y3ZKLWZGT0NhR2tCejNwWDRYZERDRjIxek03aXlXbVRwSnhmbVh1Yy1zZmV0OHZDd244YTl1WXJzY2xBRGtkbkMwWmdVOEt5YmVFSXFPdXFTbkpLYy1iUWUyQWQyOHdUS1E?oc=5",
-          "source": "Google News",
-          "published": "Mon, 02 Nov 2026 12:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "계속해",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "국힘 “재판 재개하라” 고성에…이 대통령 “제가 계속해도 되겠습니까” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01Y3ZKLWZGT0NhR2tCejNwWDRYZERDRjIxek03aXlXbVRwSnhmbVh1Yy1zZmV0OHZDd244YTl1WXJzY2xBRGtkbkMwWmdVOEt5YmVFSXFPdXFTbkpLYy1iUWUyQWQyOHdUS1E?oc=5",
-          "source": "Google News",
-          "published": "Mon, 02 Nov 2026 12:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "되겠습니까",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "국힘 “재판 재개하라” 고성에…이 대통령 “제가 계속해도 되겠습니까” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01Y3ZKLWZGT0NhR2tCejNwWDRYZERDRjIxek03aXlXbVRwSnhmbVh1Yy1zZmV0OHZDd244YTl1WXJzY2xBRGtkbkMwWmdVOEt5YmVFSXFPdXFTbkpLYy1iUWUyQWQyOHdUS1E?oc=5",
-          "source": "Google News",
-          "published": "Mon, 02 Nov 2026 12:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "청와대",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "청와대, 이 대통령 등 공군 1호기 탑승자 여권번호 노출에 “사전 인지 후 대응 조치 취해” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UeFRZeVJUX3ctWUdnenBBSkRLaFgwSjhvQVZPMHRkR09udDF4ek9nZUlGRFp4eldjS3JrbTJlak1TUHZUX0RpeWJOZDQzbFlGcFc0eG9qSXpUUdIBX0FVX3lxTE1vajFiTWdTcmhQRW9mU1VZNGJHNmZCTFVPc3czR3BKZTVYN3NMUHNwcnB2dmZCU0lEMVhMeDVmVjcyUEwyN3NCY3h1STlKX0xpeGoxYzhhQ1lTNHlsbHJR?oc=5",
-          "source": "Google News",
-          "published": "Mon, 02 Nov 2026 13:28:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "공군",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "청와대, 이 대통령 등 공군 1호기 탑승자 여권번호 노출에 “사전 인지 후 대응 조치 취해” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UeFRZeVJUX3ctWUdnenBBSkRLaFgwSjhvQVZPMHRkR09udDF4ek9nZUlGRFp4eldjS3JrbTJlak1TUHZUX0RpeWJOZDQzbFlGcFc0eG9qSXpUUdIBX0FVX3lxTE1vajFiTWdTcmhQRW9mU1VZNGJHNmZCTFVPc3czR3BKZTVYN3NMUHNwcnB2dmZCU0lEMVhMeDVmVjcyUEwyN3NCY3h1STlKX0xpeGoxYzhhQ1lTNHlsbHJR?oc=5",
-          "source": "Google News",
-          "published": "Mon, 02 Nov 2026 13:28:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "1호기",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "청와대, 이 대통령 등 공군 1호기 탑승자 여권번호 노출에 “사전 인지 후 대응 조치 취해” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UeFRZeVJUX3ctWUdnenBBSkRLaFgwSjhvQVZPMHRkR09udDF4ek9nZUlGRFp4eldjS3JrbTJlak1TUHZUX0RpeWJOZDQzbFlGcFc0eG9qSXpUUdIBX0FVX3lxTE1vajFiTWdTcmhQRW9mU1VZNGJHNmZCTFVPc3czR3BKZTVYN3NMUHNwcnB2dmZCU0lEMVhMeDVmVjcyUEwyN3NCY3h1STlKX0xpeGoxYzhhQ1lTNHlsbHJR?oc=5",
-          "source": "Google News",
-          "published": "Mon, 02 Nov 2026 13:28:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "탑승자",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "청와대, 이 대통령 등 공군 1호기 탑승자 여권번호 노출에 “사전 인지 후 대응 조치 취해” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UeFRZeVJUX3ctWUdnenBBSkRLaFgwSjhvQVZPMHRkR09udDF4ek9nZUlGRFp4eldjS3JrbTJlak1TUHZUX0RpeWJOZDQzbFlGcFc0eG9qSXpUUdIBX0FVX3lxTE1vajFiTWdTcmhQRW9mU1VZNGJHNmZCTFVPc3czR3BKZTVYN3NMUHNwcnB2dmZCU0lEMVhMeDVmVjcyUEwyN3NCY3h1STlKX0xpeGoxYzhhQ1lTNHlsbHJR?oc=5",
-          "source": "Google News",
-          "published": "Mon, 02 Nov 2026 13:28:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "여권번호",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "청와대, 이 대통령 등 공군 1호기 탑승자 여권번호 노출에 “사전 인지 후 대응 조치 취해” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UeFRZeVJUX3ctWUdnenBBSkRLaFgwSjhvQVZPMHRkR09udDF4ek9nZUlGRFp4eldjS3JrbTJlak1TUHZUX0RpeWJOZDQzbFlGcFc0eG9qSXpUUdIBX0FVX3lxTE1vajFiTWdTcmhQRW9mU1VZNGJHNmZCTFVPc3czR3BKZTVYN3NMUHNwcnB2dmZCU0lEMVhMeDVmVjcyUEwyN3NCY3h1STlKX0xpeGoxYzhhQ1lTNHlsbHJR?oc=5",
-          "source": "Google News",
-          "published": "Mon, 02 Nov 2026 13:28:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "노출",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "청와대, 이 대통령 등 공군 1호기 탑승자 여권번호 노출에 “사전 인지 후 대응 조치 취해” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UeFRZeVJUX3ctWUdnenBBSkRLaFgwSjhvQVZPMHRkR09udDF4ek9nZUlGRFp4eldjS3JrbTJlak1TUHZUX0RpeWJOZDQzbFlGcFc0eG9qSXpUUdIBX0FVX3lxTE1vajFiTWdTcmhQRW9mU1VZNGJHNmZCTFVPc3czR3BKZTVYN3NMUHNwcnB2dmZCU0lEMVhMeDVmVjcyUEwyN3NCY3h1STlKX0xpeGoxYzhhQ1lTNHlsbHJR?oc=5",
-          "source": "Google News",
-          "published": "Mon, 02 Nov 2026 13:28:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "사전",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "청와대, 이 대통령 등 공군 1호기 탑승자 여권번호 노출에 “사전 인지 후 대응 조치 취해” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UeFRZeVJUX3ctWUdnenBBSkRLaFgwSjhvQVZPMHRkR09udDF4ek9nZUlGRFp4eldjS3JrbTJlak1TUHZUX0RpeWJOZDQzbFlGcFc0eG9qSXpUUdIBX0FVX3lxTE1vajFiTWdTcmhQRW9mU1VZNGJHNmZCTFVPc3czR3BKZTVYN3NMUHNwcnB2dmZCU0lEMVhMeDVmVjcyUEwyN3NCY3h1STlKX0xpeGoxYzhhQ1lTNHlsbHJR?oc=5",
-          "source": "Google News",
-          "published": "Mon, 02 Nov 2026 13:28:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "인지",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "청와대, 이 대통령 등 공군 1호기 탑승자 여권번호 노출에 “사전 인지 후 대응 조치 취해” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UeFRZeVJUX3ctWUdnenBBSkRLaFgwSjhvQVZPMHRkR09udDF4ek9nZUlGRFp4eldjS3JrbTJlak1TUHZUX0RpeWJOZDQzbFlGcFc0eG9qSXpUUdIBX0FVX3lxTE1vajFiTWdTcmhQRW9mU1VZNGJHNmZCTFVPc3czR3BKZTVYN3NMUHNwcnB2dmZCU0lEMVhMeDVmVjcyUEwyN3NCY3h1STlKX0xpeGoxYzhhQ1lTNHlsbHJR?oc=5",
-          "source": "Google News",
-          "published": "Mon, 02 Nov 2026 13:28:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "대응",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "청와대, 이 대통령 등 공군 1호기 탑승자 여권번호 노출에 “사전 인지 후 대응 조치 취해” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UeFRZeVJUX3ctWUdnenBBSkRLaFgwSjhvQVZPMHRkR09udDF4ek9nZUlGRFp4eldjS3JrbTJlak1TUHZUX0RpeWJOZDQzbFlGcFc0eG9qSXpUUdIBX0FVX3lxTE1vajFiTWdTcmhQRW9mU1VZNGJHNmZCTFVPc3czR3BKZTVYN3NMUHNwcnB2dmZCU0lEMVhMeDVmVjcyUEwyN3NCY3h1STlKX0xpeGoxYzhhQ1lTNHlsbHJR?oc=5",
-          "source": "Google News",
-          "published": "Mon, 02 Nov 2026 13:28:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "조치",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "청와대, 이 대통령 등 공군 1호기 탑승자 여권번호 노출에 “사전 인지 후 대응 조치 취해” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UeFRZeVJUX3ctWUdnenBBSkRLaFgwSjhvQVZPMHRkR09udDF4ek9nZUlGRFp4eldjS3JrbTJlak1TUHZUX0RpeWJOZDQzbFlGcFc0eG9qSXpUUdIBX0FVX3lxTE1vajFiTWdTcmhQRW9mU1VZNGJHNmZCTFVPc3czR3BKZTVYN3NMUHNwcnB2dmZCU0lEMVhMeDVmVjcyUEwyN3NCY3h1STlKX0xpeGoxYzhhQ1lTNHlsbHJR?oc=5",
-          "source": "Google News",
-          "published": "Mon, 02 Nov 2026 13:28:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "취해",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "청와대, 이 대통령 등 공군 1호기 탑승자 여권번호 노출에 “사전 인지 후 대응 조치 취해” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UeFRZeVJUX3ctWUdnenBBSkRLaFgwSjhvQVZPMHRkR09udDF4ek9nZUlGRFp4eldjS3JrbTJlak1TUHZUX0RpeWJOZDQzbFlGcFc0eG9qSXpUUdIBX0FVX3lxTE1vajFiTWdTcmhQRW9mU1VZNGJHNmZCTFVPc3czR3BKZTVYN3NMUHNwcnB2dmZCU0lEMVhMeDVmVjcyUEwyN3NCY3h1STlKX0xpeGoxYzhhQ1lTNHlsbHJR?oc=5",
-          "source": "Google News",
-          "published": "Mon, 02 Nov 2026 13:28:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "시한",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "시한 못 박은 정청래 ‘합당론’에…여 지도부 “말아먹은 장본인” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OU1A3NHhPSjk4bHZvRWJkb0h3YktPWDlrZkhjQmo4NE40OUFzdGt2SFlvbEUxNGh0ZmM4T2dmTjBzUUtMLXVucXJiUnVTX1hKY2JtNjBtYjFrQdIBX0FVX3lxTFBEbnY0NHFaTHgyWUpuRHR1ZjV1Y0gtQzR0M3kyY1U2ajJwWEtIVkFLQWNoTnNsYXVVY3lPWDZmckZGRFg0Yjl0UlNWd3EwNE03WjRFNks1Y294Smdlc0c0?oc=5",
-          "source": "Google News",
-          "published": "Mon, 02 Nov 2026 12:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "박은",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "시한 못 박은 정청래 ‘합당론’에…여 지도부 “말아먹은 장본인” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OU1A3NHhPSjk4bHZvRWJkb0h3YktPWDlrZkhjQmo4NE40OUFzdGt2SFlvbEUxNGh0ZmM4T2dmTjBzUUtMLXVucXJiUnVTX1hKY2JtNjBtYjFrQdIBX0FVX3lxTFBEbnY0NHFaTHgyWUpuRHR1ZjV1Y0gtQzR0M3kyY1U2ajJwWEtIVkFLQWNoTnNsYXVVY3lPWDZmckZGRFg0Yjl0UlNWd3EwNE03WjRFNks1Y294Smdlc0c0?oc=5",
-          "source": "Google News",
-          "published": "Mon, 02 Nov 2026 12:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "정청래",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "시한 못 박은 정청래 ‘합당론’에…여 지도부 “말아먹은 장본인” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OU1A3NHhPSjk4bHZvRWJkb0h3YktPWDlrZkhjQmo4NE40OUFzdGt2SFlvbEUxNGh0ZmM4T2dmTjBzUUtMLXVucXJiUnVTX1hKY2JtNjBtYjFrQdIBX0FVX3lxTFBEbnY0NHFaTHgyWUpuRHR1ZjV1Y0gtQzR0M3kyY1U2ajJwWEtIVkFLQWNoTnNsYXVVY3lPWDZmckZGRFg0Yjl0UlNWd3EwNE03WjRFNks1Y294Smdlc0c0?oc=5",
-          "source": "Google News",
-          "published": "Mon, 02 Nov 2026 12:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "합당론에여",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "시한 못 박은 정청래 ‘합당론’에…여 지도부 “말아먹은 장본인” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OU1A3NHhPSjk4bHZvRWJkb0h3YktPWDlrZkhjQmo4NE40OUFzdGt2SFlvbEUxNGh0ZmM4T2dmTjBzUUtMLXVucXJiUnVTX1hKY2JtNjBtYjFrQdIBX0FVX3lxTFBEbnY0NHFaTHgyWUpuRHR1ZjV1Y0gtQzR0M3kyY1U2ajJwWEtIVkFLQWNoTnNsYXVVY3lPWDZmckZGRFg0Yjl0UlNWd3EwNE03WjRFNks1Y294Smdlc0c0?oc=5",
-          "source": "Google News",
-          "published": "Mon, 02 Nov 2026 12:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "지도부",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "시한 못 박은 정청래 ‘합당론’에…여 지도부 “말아먹은 장본인” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OU1A3NHhPSjk4bHZvRWJkb0h3YktPWDlrZkhjQmo4NE40OUFzdGt2SFlvbEUxNGh0ZmM4T2dmTjBzUUtMLXVucXJiUnVTX1hKY2JtNjBtYjFrQdIBX0FVX3lxTFBEbnY0NHFaTHgyWUpuRHR1ZjV1Y0gtQzR0M3kyY1U2ajJwWEtIVkFLQWNoTnNsYXVVY3lPWDZmckZGRFg0Yjl0UlNWd3EwNE03WjRFNks1Y294Smdlc0c0?oc=5",
-          "source": "Google News",
-          "published": "Mon, 02 Nov 2026 12:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "말아먹",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "시한 못 박은 정청래 ‘합당론’에…여 지도부 “말아먹은 장본인” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OU1A3NHhPSjk4bHZvRWJkb0h3YktPWDlrZkhjQmo4NE40OUFzdGt2SFlvbEUxNGh0ZmM4T2dmTjBzUUtMLXVucXJiUnVTX1hKY2JtNjBtYjFrQdIBX0FVX3lxTFBEbnY0NHFaTHgyWUpuRHR1ZjV1Y0gtQzR0M3kyY1U2ajJwWEtIVkFLQWNoTnNsYXVVY3lPWDZmckZGRFg0Yjl0UlNWd3EwNE03WjRFNks1Y294Smdlc0c0?oc=5",
-          "source": "Google News",
-          "published": "Mon, 02 Nov 2026 12:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "장본인",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "시한 못 박은 정청래 ‘합당론’에…여 지도부 “말아먹은 장본인” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OU1A3NHhPSjk4bHZvRWJkb0h3YktPWDlrZkhjQmo4NE40OUFzdGt2SFlvbEUxNGh0ZmM4T2dmTjBzUUtMLXVucXJiUnVTX1hKY2JtNjBtYjFrQdIBX0FVX3lxTFBEbnY0NHFaTHgyWUpuRHR1ZjV1Y0gtQzR0M3kyY1U2ajJwWEtIVkFLQWNoTnNsYXVVY3lPWDZmckZGRFg0Yjl0UlNWd3EwNE03WjRFNks1Y294Smdlc0c0?oc=5",
-          "source": "Google News",
-          "published": "Mon, 02 Nov 2026 12:20:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "민주",
+      "word": "날한국",
       "count": 1,
       "category": "LOCATION",
       "articles": [
         {
-          "title": "민주, 내일 의총 열어 '신천지 집단 가입 의혹' 조사 보고 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jSE1pdFhUcllFdjVVLTNaMk5XOVhaam9tbXhpYkJXOU1PSTNiYmFGcTYtRFdJT2N2c2FZMzBSVFdfdUlVaElrSEhYV2E1am5lU2J2OXMxSWNrem9nQTFKTVEyUm1aR0VpN0p6MVpyS25SemthZHhNMtIBeEFVX3lxTE1OeTBxOGFTVlJzWWpPTE5vNUxLekZ4NFR6MGt4amlRcnNfUzRXQVRQbGNvMXc2UlJCR2g2YzdDWHhFZU96TXVBSTl5cHBzd1BHRVllQVFwaXd2dkZkNmIwa1U5TnhsaWZ5UG5iMTVkWDFQZGdEUDNLTQ?oc=5",
+          "title": "다가온 결전의 날…한국 시각 오늘 밤 투표 개시 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHS1NabFhKVEF0d0pHM2JwNUZHeTN5ZmRoeEZVZGhOWGFCWTk1MzNYLUNienBLS3U5ajFLS2NEQ2xOSW1RRVdjb2FqS0h0T3U3bktzVXMtMzNLWmM?oc=5",
           "source": "Google News",
-          "published": "Mon, 02 Nov 2026 06:53:32 GMT"
+          "published": "Mon, 02 Nov 2026 21:12:00 GMT"
         }
       ]
     },
     {
-      "word": "의총",
+      "word": "시각",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "민주, 내일 의총 열어 '신천지 집단 가입 의혹' 조사 보고 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jSE1pdFhUcllFdjVVLTNaMk5XOVhaam9tbXhpYkJXOU1PSTNiYmFGcTYtRFdJT2N2c2FZMzBSVFdfdUlVaElrSEhYV2E1am5lU2J2OXMxSWNrem9nQTFKTVEyUm1aR0VpN0p6MVpyS25SemthZHhNMtIBeEFVX3lxTE1OeTBxOGFTVlJzWWpPTE5vNUxLekZ4NFR6MGt4amlRcnNfUzRXQVRQbGNvMXc2UlJCR2g2YzdDWHhFZU96TXVBSTl5cHBzd1BHRVllQVFwaXd2dkZkNmIwa1U5TnhsaWZ5UG5iMTVkWDFQZGdEUDNLTQ?oc=5",
+          "title": "다가온 결전의 날…한국 시각 오늘 밤 투표 개시 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHS1NabFhKVEF0d0pHM2JwNUZHeTN5ZmRoeEZVZGhOWGFCWTk1MzNYLUNienBLS3U5ajFLS2NEQ2xOSW1RRVdjb2FqS0h0T3U3bktzVXMtMzNLWmM?oc=5",
           "source": "Google News",
-          "published": "Mon, 02 Nov 2026 06:53:32 GMT"
+          "published": "Mon, 02 Nov 2026 21:12:00 GMT"
         }
       ]
     },
     {
-      "word": "열어",
+      "word": "투표",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "민주, 내일 의총 열어 '신천지 집단 가입 의혹' 조사 보고 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jSE1pdFhUcllFdjVVLTNaMk5XOVhaam9tbXhpYkJXOU1PSTNiYmFGcTYtRFdJT2N2c2FZMzBSVFdfdUlVaElrSEhYV2E1am5lU2J2OXMxSWNrem9nQTFKTVEyUm1aR0VpN0p6MVpyS25SemthZHhNMtIBeEFVX3lxTE1OeTBxOGFTVlJzWWpPTE5vNUxLekZ4NFR6MGt4amlRcnNfUzRXQVRQbGNvMXc2UlJCR2g2YzdDWHhFZU96TXVBSTl5cHBzd1BHRVllQVFwaXd2dkZkNmIwa1U5TnhsaWZ5UG5iMTVkWDFQZGdEUDNLTQ?oc=5",
+          "title": "다가온 결전의 날…한국 시각 오늘 밤 투표 개시 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHS1NabFhKVEF0d0pHM2JwNUZHeTN5ZmRoeEZVZGhOWGFCWTk1MzNYLUNienBLS3U5ajFLS2NEQ2xOSW1RRVdjb2FqS0h0T3U3bktzVXMtMzNLWmM?oc=5",
           "source": "Google News",
-          "published": "Mon, 02 Nov 2026 06:53:32 GMT"
+          "published": "Mon, 02 Nov 2026 21:12:00 GMT"
         }
       ]
     },
     {
-      "word": "신천지",
+      "word": "개시",
       "count": 1,
-      "category": "NOUN",
+      "category": "LOCATION",
       "articles": [
         {
-          "title": "민주, 내일 의총 열어 '신천지 집단 가입 의혹' 조사 보고 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jSE1pdFhUcllFdjVVLTNaMk5XOVhaam9tbXhpYkJXOU1PSTNiYmFGcTYtRFdJT2N2c2FZMzBSVFdfdUlVaElrSEhYV2E1am5lU2J2OXMxSWNrem9nQTFKTVEyUm1aR0VpN0p6MVpyS25SemthZHhNMtIBeEFVX3lxTE1OeTBxOGFTVlJzWWpPTE5vNUxLekZ4NFR6MGt4amlRcnNfUzRXQVRQbGNvMXc2UlJCR2g2YzdDWHhFZU96TXVBSTl5cHBzd1BHRVllQVFwaXd2dkZkNmIwa1U5TnhsaWZ5UG5iMTVkWDFQZGdEUDNLTQ?oc=5",
+          "title": "다가온 결전의 날…한국 시각 오늘 밤 투표 개시 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHS1NabFhKVEF0d0pHM2JwNUZHeTN5ZmRoeEZVZGhOWGFCWTk1MzNYLUNienBLS3U5ajFLS2NEQ2xOSW1RRVdjb2FqS0h0T3U3bktzVXMtMzNLWmM?oc=5",
           "source": "Google News",
-          "published": "Mon, 02 Nov 2026 06:53:32 GMT"
+          "published": "Mon, 02 Nov 2026 21:12:00 GMT"
         }
       ]
     },
     {
-      "word": "집단",
+      "word": "2027년",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "민주, 내일 의총 열어 '신천지 집단 가입 의혹' 조사 보고 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jSE1pdFhUcllFdjVVLTNaMk5XOVhaam9tbXhpYkJXOU1PSTNiYmFGcTYtRFdJT2N2c2FZMzBSVFdfdUlVaElrSEhYV2E1am5lU2J2OXMxSWNrem9nQTFKTVEyUm1aR0VpN0p6MVpyS25SemthZHhNMtIBeEFVX3lxTE1OeTBxOGFTVlJzWWpPTE5vNUxLekZ4NFR6MGt4amlRcnNfUzRXQVRQbGNvMXc2UlJCR2g2YzdDWHhFZU96TXVBSTl5cHBzd1BHRVllQVFwaXd2dkZkNmIwa1U5TnhsaWZ5UG5iMTVkWDFQZGdEUDNLTQ?oc=5",
+          "title": "2027년 예산안 대통령 시정연설 사전환담 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9od2N3WldsNkdCblJhUFpFR252TDNmNHV3aFFjSnZkRVR4alFNU0tGYmRJZ25naF9PUXVMM0VwN3M4N2hQMXM2cGVFRUN1ZUNZdE01NzYwZUpibVdyNV8wQmlnMzVjbFA3SENUcUtvek9heFZia0ZKWEpR?oc=5",
           "source": "Google News",
-          "published": "Mon, 02 Nov 2026 06:53:32 GMT"
+          "published": "Mon, 02 Nov 2026 22:47:21 GMT"
         }
       ]
     },
     {
-      "word": "가입",
+      "word": "예산안",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "민주, 내일 의총 열어 '신천지 집단 가입 의혹' 조사 보고 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jSE1pdFhUcllFdjVVLTNaMk5XOVhaam9tbXhpYkJXOU1PSTNiYmFGcTYtRFdJT2N2c2FZMzBSVFdfdUlVaElrSEhYV2E1am5lU2J2OXMxSWNrem9nQTFKTVEyUm1aR0VpN0p6MVpyS25SemthZHhNMtIBeEFVX3lxTE1OeTBxOGFTVlJzWWpPTE5vNUxLekZ4NFR6MGt4amlRcnNfUzRXQVRQbGNvMXc2UlJCR2g2YzdDWHhFZU96TXVBSTl5cHBzd1BHRVllQVFwaXd2dkZkNmIwa1U5TnhsaWZ5UG5iMTVkWDFQZGdEUDNLTQ?oc=5",
+          "title": "2027년 예산안 대통령 시정연설 사전환담 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9od2N3WldsNkdCblJhUFpFR252TDNmNHV3aFFjSnZkRVR4alFNU0tGYmRJZ25naF9PUXVMM0VwN3M4N2hQMXM2cGVFRUN1ZUNZdE01NzYwZUpibVdyNV8wQmlnMzVjbFA3SENUcUtvek9heFZia0ZKWEpR?oc=5",
           "source": "Google News",
-          "published": "Mon, 02 Nov 2026 06:53:32 GMT"
+          "published": "Mon, 02 Nov 2026 22:47:21 GMT"
         }
       ]
     },
     {
-      "word": "의혹",
+      "word": "시정연설",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "민주, 내일 의총 열어 '신천지 집단 가입 의혹' 조사 보고 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jSE1pdFhUcllFdjVVLTNaMk5XOVhaam9tbXhpYkJXOU1PSTNiYmFGcTYtRFdJT2N2c2FZMzBSVFdfdUlVaElrSEhYV2E1am5lU2J2OXMxSWNrem9nQTFKTVEyUm1aR0VpN0p6MVpyS25SemthZHhNMtIBeEFVX3lxTE1OeTBxOGFTVlJzWWpPTE5vNUxLekZ4NFR6MGt4amlRcnNfUzRXQVRQbGNvMXc2UlJCR2g2YzdDWHhFZU96TXVBSTl5cHBzd1BHRVllQVFwaXd2dkZkNmIwa1U5TnhsaWZ5UG5iMTVkWDFQZGdEUDNLTQ?oc=5",
+          "title": "2027년 예산안 대통령 시정연설 사전환담 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9od2N3WldsNkdCblJhUFpFR252TDNmNHV3aFFjSnZkRVR4alFNU0tGYmRJZ25naF9PUXVMM0VwN3M4N2hQMXM2cGVFRUN1ZUNZdE01NzYwZUpibVdyNV8wQmlnMzVjbFA3SENUcUtvek9heFZia0ZKWEpR?oc=5",
           "source": "Google News",
-          "published": "Mon, 02 Nov 2026 06:53:32 GMT"
+          "published": "Mon, 02 Nov 2026 22:47:21 GMT"
         }
       ]
     },
     {
-      "word": "조사",
+      "word": "사전환담",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "민주, 내일 의총 열어 '신천지 집단 가입 의혹' 조사 보고 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jSE1pdFhUcllFdjVVLTNaMk5XOVhaam9tbXhpYkJXOU1PSTNiYmFGcTYtRFdJT2N2c2FZMzBSVFdfdUlVaElrSEhYV2E1am5lU2J2OXMxSWNrem9nQTFKTVEyUm1aR0VpN0p6MVpyS25SemthZHhNMtIBeEFVX3lxTE1OeTBxOGFTVlJzWWpPTE5vNUxLekZ4NFR6MGt4amlRcnNfUzRXQVRQbGNvMXc2UlJCR2g2YzdDWHhFZU96TXVBSTl5cHBzd1BHRVllQVFwaXd2dkZkNmIwa1U5TnhsaWZ5UG5iMTVkWDFQZGdEUDNLTQ?oc=5",
+          "title": "2027년 예산안 대통령 시정연설 사전환담 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9od2N3WldsNkdCblJhUFpFR252TDNmNHV3aFFjSnZkRVR4alFNU0tGYmRJZ25naF9PUXVMM0VwN3M4N2hQMXM2cGVFRUN1ZUNZdE01NzYwZUpibVdyNV8wQmlnMzVjbFA3SENUcUtvek9heFZia0ZKWEpR?oc=5",
           "source": "Google News",
-          "published": "Mon, 02 Nov 2026 06:53:32 GMT"
+          "published": "Mon, 02 Nov 2026 22:47:21 GMT"
         }
       ]
     },
     {
-      "word": "보고",
+      "word": "국방드론본부",
+      "count": 1,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "‘국방드론본부’ 창설…주변국에 뒤처진 첨단 무기 전력화 속도 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJR05uazVXT3JKQVljNFZfb1pGR2trZE5vNFFzaVVTdmhNRVYtQ0M3R2RZQWI2ZzdUQ1hkd2puYUVpVzhYVjBXbS03TkZwcnJ0QlNwRVVTeWhzZ9IBX0FVX3lxTE52LUJvblc0akVrV09wQXZsbGNUeXRvdzY3TzFmZnVrSVVtd2xIdldUYk5qektMcmNXN05kWkt2Ql9rU1BMdzlqUW5ERlhpZ3IzbEJNN2xKaGRDRHBFVlN3?oc=5",
+          "source": "Google News",
+          "published": "Mon, 02 Nov 2026 12:16:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "창설주변국",
+      "count": 1,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "‘국방드론본부’ 창설…주변국에 뒤처진 첨단 무기 전력화 속도 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJR05uazVXT3JKQVljNFZfb1pGR2trZE5vNFFzaVVTdmhNRVYtQ0M3R2RZQWI2ZzdUQ1hkd2puYUVpVzhYVjBXbS03TkZwcnJ0QlNwRVVTeWhzZ9IBX0FVX3lxTE52LUJvblc0akVrV09wQXZsbGNUeXRvdzY3TzFmZnVrSVVtd2xIdldUYk5qektMcmNXN05kWkt2Ql9rU1BMdzlqUW5ERlhpZ3IzbEJNN2xKaGRDRHBFVlN3?oc=5",
+          "source": "Google News",
+          "published": "Mon, 02 Nov 2026 12:16:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "뒤처진",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "민주, 내일 의총 열어 '신천지 집단 가입 의혹' 조사 보고 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jSE1pdFhUcllFdjVVLTNaMk5XOVhaam9tbXhpYkJXOU1PSTNiYmFGcTYtRFdJT2N2c2FZMzBSVFdfdUlVaElrSEhYV2E1am5lU2J2OXMxSWNrem9nQTFKTVEyUm1aR0VpN0p6MVpyS25SemthZHhNMtIBeEFVX3lxTE1OeTBxOGFTVlJzWWpPTE5vNUxLekZ4NFR6MGt4amlRcnNfUzRXQVRQbGNvMXc2UlJCR2g2YzdDWHhFZU96TXVBSTl5cHBzd1BHRVllQVFwaXd2dkZkNmIwa1U5TnhsaWZ5UG5iMTVkWDFQZGdEUDNLTQ?oc=5",
+          "title": "‘국방드론본부’ 창설…주변국에 뒤처진 첨단 무기 전력화 속도 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJR05uazVXT3JKQVljNFZfb1pGR2trZE5vNFFzaVVTdmhNRVYtQ0M3R2RZQWI2ZzdUQ1hkd2puYUVpVzhYVjBXbS03TkZwcnJ0QlNwRVVTeWhzZ9IBX0FVX3lxTE52LUJvblc0akVrV09wQXZsbGNUeXRvdzY3TzFmZnVrSVVtd2xIdldUYk5qektMcmNXN05kWkt2Ql9rU1BMdzlqUW5ERlhpZ3IzbEJNN2xKaGRDRHBFVlN3?oc=5",
           "source": "Google News",
-          "published": "Mon, 02 Nov 2026 06:53:32 GMT"
+          "published": "Mon, 02 Nov 2026 12:16:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "첨단",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘국방드론본부’ 창설…주변국에 뒤처진 첨단 무기 전력화 속도 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJR05uazVXT3JKQVljNFZfb1pGR2trZE5vNFFzaVVTdmhNRVYtQ0M3R2RZQWI2ZzdUQ1hkd2puYUVpVzhYVjBXbS03TkZwcnJ0QlNwRVVTeWhzZ9IBX0FVX3lxTE52LUJvblc0akVrV09wQXZsbGNUeXRvdzY3TzFmZnVrSVVtd2xIdldUYk5qektMcmNXN05kWkt2Ql9rU1BMdzlqUW5ERlhpZ3IzbEJNN2xKaGRDRHBFVlN3?oc=5",
+          "source": "Google News",
+          "published": "Mon, 02 Nov 2026 12:16:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "무기",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘국방드론본부’ 창설…주변국에 뒤처진 첨단 무기 전력화 속도 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJR05uazVXT3JKQVljNFZfb1pGR2trZE5vNFFzaVVTdmhNRVYtQ0M3R2RZQWI2ZzdUQ1hkd2puYUVpVzhYVjBXbS03TkZwcnJ0QlNwRVVTeWhzZ9IBX0FVX3lxTE52LUJvblc0akVrV09wQXZsbGNUeXRvdzY3TzFmZnVrSVVtd2xIdldUYk5qektMcmNXN05kWkt2Ql9rU1BMdzlqUW5ERlhpZ3IzbEJNN2xKaGRDRHBFVlN3?oc=5",
+          "source": "Google News",
+          "published": "Mon, 02 Nov 2026 12:16:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "전력",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘국방드론본부’ 창설…주변국에 뒤처진 첨단 무기 전력화 속도 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJR05uazVXT3JKQVljNFZfb1pGR2trZE5vNFFzaVVTdmhNRVYtQ0M3R2RZQWI2ZzdUQ1hkd2puYUVpVzhYVjBXbS03TkZwcnJ0QlNwRVVTeWhzZ9IBX0FVX3lxTE52LUJvblc0akVrV09wQXZsbGNUeXRvdzY3TzFmZnVrSVVtd2xIdldUYk5qektMcmNXN05kWkt2Ql9rU1BMdzlqUW5ERlhpZ3IzbEJNN2xKaGRDRHBFVlN3?oc=5",
+          "source": "Google News",
+          "published": "Mon, 02 Nov 2026 12:16:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "속도",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘국방드론본부’ 창설…주변국에 뒤처진 첨단 무기 전력화 속도 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJR05uazVXT3JKQVljNFZfb1pGR2trZE5vNFFzaVVTdmhNRVYtQ0M3R2RZQWI2ZzdUQ1hkd2puYUVpVzhYVjBXbS03TkZwcnJ0QlNwRVVTeWhzZ9IBX0FVX3lxTE52LUJvblc0akVrV09wQXZsbGNUeXRvdzY3TzFmZnVrSVVtd2xIdldUYk5qektMcmNXN05kWkt2Ql9rU1BMdzlqUW5ERlhpZ3IzbEJNN2xKaGRDRHBFVlN3?oc=5",
+          "source": "Google News",
+          "published": "Mon, 02 Nov 2026 12:16:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "원정진료비",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "서울 원정진료비, 사상 첫 12조 넘었다…환자 41% 타지역 거주 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56RlgzekdCWWx5SGM4bnFDSTBIWUlZZjFIS0pLVlRiZ3Q4WG94LURtM3R6ZkRsVkU1aS1uTmNrNGVqYUVhMjJDb3VieEVIRmxZTFRiTE9ZVmdpSjJmODRxVlhnUF9jQQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 02 Nov 2026 12:25:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "사상",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "서울 원정진료비, 사상 첫 12조 넘었다…환자 41% 타지역 거주 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56RlgzekdCWWx5SGM4bnFDSTBIWUlZZjFIS0pLVlRiZ3Q4WG94LURtM3R6ZkRsVkU1aS1uTmNrNGVqYUVhMjJDb3VieEVIRmxZTFRiTE9ZVmdpSjJmODRxVlhnUF9jQQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 02 Nov 2026 12:25:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "12조",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "서울 원정진료비, 사상 첫 12조 넘었다…환자 41% 타지역 거주 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56RlgzekdCWWx5SGM4bnFDSTBIWUlZZjFIS0pLVlRiZ3Q4WG94LURtM3R6ZkRsVkU1aS1uTmNrNGVqYUVhMjJDb3VieEVIRmxZTFRiTE9ZVmdpSjJmODRxVlhnUF9jQQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 02 Nov 2026 12:25:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "넘었다환자",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "서울 원정진료비, 사상 첫 12조 넘었다…환자 41% 타지역 거주 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56RlgzekdCWWx5SGM4bnFDSTBIWUlZZjFIS0pLVlRiZ3Q4WG94LURtM3R6ZkRsVkU1aS1uTmNrNGVqYUVhMjJDb3VieEVIRmxZTFRiTE9ZVmdpSjJmODRxVlhnUF9jQQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 02 Nov 2026 12:25:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "타지역",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "서울 원정진료비, 사상 첫 12조 넘었다…환자 41% 타지역 거주 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56RlgzekdCWWx5SGM4bnFDSTBIWUlZZjFIS0pLVlRiZ3Q4WG94LURtM3R6ZkRsVkU1aS1uTmNrNGVqYUVhMjJDb3VieEVIRmxZTFRiTE9ZVmdpSjJmODRxVlhnUF9jQQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 02 Nov 2026 12:25:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "거주",
+      "count": 1,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "서울 원정진료비, 사상 첫 12조 넘었다…환자 41% 타지역 거주 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56RlgzekdCWWx5SGM4bnFDSTBIWUlZZjFIS0pLVlRiZ3Q4WG94LURtM3R6ZkRsVkU1aS1uTmNrNGVqYUVhMjJDb3VieEVIRmxZTFRiTE9ZVmdpSjJmODRxVlhnUF9jQQ?oc=5",
+          "source": "Google News",
+          "published": "Mon, 02 Nov 2026 12:25:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "단독한동훈",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[단독]한동훈 딸, 서울시장상 공적서에 “봉사 앱 만들었다”…‘앱 대리 제작 의혹’ 이모 진씨 명의 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvQ1MwcFQ0LUE5VnFJQTd5dzlDZGdWUVFtd0h1SXgxLVdhTXJoNmRXRnFDbGpDT1I0V3NERnhMTWs1MW5XYWsyaEhXN3hWaVotX0RQQk95SWVHd9IBX0FVX3lxTFBqQWhxcVJ3dmluckUxMzlCLXBoQjk1RG4zakFMa0xWRHQxWmpHblpxMDZCTGlTdTJQN2xkUlFIMDc2b2lVVFRmXzZxcG9zVU1xaVdMUGpQWVVRQUlNUV9V?oc=5",
+          "source": "Google News",
+          "published": "Mon, 02 Nov 2026 22:17:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "서울시장상",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[단독]한동훈 딸, 서울시장상 공적서에 “봉사 앱 만들었다”…‘앱 대리 제작 의혹’ 이모 진씨 명의 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvQ1MwcFQ0LUE5VnFJQTd5dzlDZGdWUVFtd0h1SXgxLVdhTXJoNmRXRnFDbGpDT1I0V3NERnhMTWs1MW5XYWsyaEhXN3hWaVotX0RQQk95SWVHd9IBX0FVX3lxTFBqQWhxcVJ3dmluckUxMzlCLXBoQjk1RG4zakFMa0xWRHQxWmpHblpxMDZCTGlTdTJQN2xkUlFIMDc2b2lVVFRmXzZxcG9zVU1xaVdMUGpQWVVRQUlNUV9V?oc=5",
+          "source": "Google News",
+          "published": "Mon, 02 Nov 2026 22:17:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "공적서",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[단독]한동훈 딸, 서울시장상 공적서에 “봉사 앱 만들었다”…‘앱 대리 제작 의혹’ 이모 진씨 명의 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvQ1MwcFQ0LUE5VnFJQTd5dzlDZGdWUVFtd0h1SXgxLVdhTXJoNmRXRnFDbGpDT1I0V3NERnhMTWs1MW5XYWsyaEhXN3hWaVotX0RQQk95SWVHd9IBX0FVX3lxTFBqQWhxcVJ3dmluckUxMzlCLXBoQjk1RG4zakFMa0xWRHQxWmpHblpxMDZCTGlTdTJQN2xkUlFIMDc2b2lVVFRmXzZxcG9zVU1xaVdMUGpQWVVRQUlNUV9V?oc=5",
+          "source": "Google News",
+          "published": "Mon, 02 Nov 2026 22:17:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "봉사",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[단독]한동훈 딸, 서울시장상 공적서에 “봉사 앱 만들었다”…‘앱 대리 제작 의혹’ 이모 진씨 명의 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvQ1MwcFQ0LUE5VnFJQTd5dzlDZGdWUVFtd0h1SXgxLVdhTXJoNmRXRnFDbGpDT1I0V3NERnhMTWs1MW5XYWsyaEhXN3hWaVotX0RQQk95SWVHd9IBX0FVX3lxTFBqQWhxcVJ3dmluckUxMzlCLXBoQjk1RG4zakFMa0xWRHQxWmpHblpxMDZCTGlTdTJQN2xkUlFIMDc2b2lVVFRmXzZxcG9zVU1xaVdMUGpQWVVRQUlNUV9V?oc=5",
+          "source": "Google News",
+          "published": "Mon, 02 Nov 2026 22:17:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "만들었다앱",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[단독]한동훈 딸, 서울시장상 공적서에 “봉사 앱 만들었다”…‘앱 대리 제작 의혹’ 이모 진씨 명의 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvQ1MwcFQ0LUE5VnFJQTd5dzlDZGdWUVFtd0h1SXgxLVdhTXJoNmRXRnFDbGpDT1I0V3NERnhMTWs1MW5XYWsyaEhXN3hWaVotX0RQQk95SWVHd9IBX0FVX3lxTFBqQWhxcVJ3dmluckUxMzlCLXBoQjk1RG4zakFMa0xWRHQxWmpHblpxMDZCTGlTdTJQN2xkUlFIMDc2b2lVVFRmXzZxcG9zVU1xaVdMUGpQWVVRQUlNUV9V?oc=5",
+          "source": "Google News",
+          "published": "Mon, 02 Nov 2026 22:17:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "대리",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[단독]한동훈 딸, 서울시장상 공적서에 “봉사 앱 만들었다”…‘앱 대리 제작 의혹’ 이모 진씨 명의 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvQ1MwcFQ0LUE5VnFJQTd5dzlDZGdWUVFtd0h1SXgxLVdhTXJoNmRXRnFDbGpDT1I0V3NERnhMTWs1MW5XYWsyaEhXN3hWaVotX0RQQk95SWVHd9IBX0FVX3lxTFBqQWhxcVJ3dmluckUxMzlCLXBoQjk1RG4zakFMa0xWRHQxWmpHblpxMDZCTGlTdTJQN2xkUlFIMDc2b2lVVFRmXzZxcG9zVU1xaVdMUGpQWVVRQUlNUV9V?oc=5",
+          "source": "Google News",
+          "published": "Mon, 02 Nov 2026 22:17:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "제작",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[단독]한동훈 딸, 서울시장상 공적서에 “봉사 앱 만들었다”…‘앱 대리 제작 의혹’ 이모 진씨 명의 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvQ1MwcFQ0LUE5VnFJQTd5dzlDZGdWUVFtd0h1SXgxLVdhTXJoNmRXRnFDbGpDT1I0V3NERnhMTWs1MW5XYWsyaEhXN3hWaVotX0RQQk95SWVHd9IBX0FVX3lxTFBqQWhxcVJ3dmluckUxMzlCLXBoQjk1RG4zakFMa0xWRHQxWmpHblpxMDZCTGlTdTJQN2xkUlFIMDc2b2lVVFRmXzZxcG9zVU1xaVdMUGpQWVVRQUlNUV9V?oc=5",
+          "source": "Google News",
+          "published": "Mon, 02 Nov 2026 22:17:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "이모",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[단독]한동훈 딸, 서울시장상 공적서에 “봉사 앱 만들었다”…‘앱 대리 제작 의혹’ 이모 진씨 명의 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvQ1MwcFQ0LUE5VnFJQTd5dzlDZGdWUVFtd0h1SXgxLVdhTXJoNmRXRnFDbGpDT1I0V3NERnhMTWs1MW5XYWsyaEhXN3hWaVotX0RQQk95SWVHd9IBX0FVX3lxTFBqQWhxcVJ3dmluckUxMzlCLXBoQjk1RG4zakFMa0xWRHQxWmpHblpxMDZCTGlTdTJQN2xkUlFIMDc2b2lVVFRmXzZxcG9zVU1xaVdMUGpQWVVRQUlNUV9V?oc=5",
+          "source": "Google News",
+          "published": "Mon, 02 Nov 2026 22:17:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "진씨",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[단독]한동훈 딸, 서울시장상 공적서에 “봉사 앱 만들었다”…‘앱 대리 제작 의혹’ 이모 진씨 명의 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvQ1MwcFQ0LUE5VnFJQTd5dzlDZGdWUVFtd0h1SXgxLVdhTXJoNmRXRnFDbGpDT1I0V3NERnhMTWs1MW5XYWsyaEhXN3hWaVotX0RQQk95SWVHd9IBX0FVX3lxTFBqQWhxcVJ3dmluckUxMzlCLXBoQjk1RG4zakFMa0xWRHQxWmpHblpxMDZCTGlTdTJQN2xkUlFIMDc2b2lVVFRmXzZxcG9zVU1xaVdMUGpQWVVRQUlNUV9V?oc=5",
+          "source": "Google News",
+          "published": "Mon, 02 Nov 2026 22:17:00 GMT"
         }
       ]
     }
