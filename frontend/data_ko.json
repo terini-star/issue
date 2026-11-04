@@ -1,86 +1,24 @@
 {
   "language": "ko",
-  "last_updated": 1793754598.478852,
+  "last_updated": 1793782443.8248422,
   "count": 40,
   "trends": [
     {
-      "word": "중간선거",
-      "count": 4,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "여기보면 알 수 있다…미 중간선거 ‘블루 웨이브’ 현실화할까 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuVHNCVXdrbUVtakVoVktsRXh2akJOYk5fRzkxUEZ6VzhXTjhtbXJWVjljVl9FbUsyUG1zazlhRUNLOEVTdDlBTzZnNklfZFNoWGNKeFdqOFMtUlc1a2tZVG1HSHNZMnVuOUpSS0FUaw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 03 Nov 2026 22:10:00 GMT"
-        },
-        {
-          "title": "美 중간선거 당일 트럼프 “예상보다 좋은 결과”… 민주당 “상원 탈환 기대” - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ2JKSXE0Y2toczk5Rk9SeFZld2F0LWg3SVJmRUZmUHFEdmV3RmxiVUxnQXhlU3lMeFJsel9odTY2THNDOU94OGtzWG1Fbi13MVVLYXYwN1RhYnh5WHFwLUc1OE8wS2FHdTVjT01BVnV4T0hjUkRnYlhFNldXamFvNnVkeGo2eV83QmdaaWNscnBuUUhwNjBTaWVsVDZOZ9IBsgFBVV95cUxPdEdJNlFKZUVlUFRnSWdaajFhY21tVDVGN1hVeEJMZnh6bnpwcmxzOHJlQUxBZ3FUMzBaNWRhY0Q0VEtqVFNVOVgwbERKY3RkNTQ1NjY5UjhjNkNmY3hndEFtd3NrN0hnYWZ2eHNDQVJtdmdYNVZFMkdmZUo0NTl3cS1MektoaUZvTEpOS3FQa0pPS0dsRE1tUm1vOGUweFFVQTBaN28xV3hIRkNwWTJjQ2VB?oc=5",
-          "source": "Google News",
-          "published": "Tue, 03 Nov 2026 21:33:00 GMT"
-        },
-        {
-          "title": "[美중간선거] 트럼프 정부 투표감시 총동원…野주지사는 주방위군 투입(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfREU0SUV1YVVUUlpBVlZ6M0JwMkNZS2N0bV8yMmphQ1o2Q3dwOFpNMll5VUdqSEo4QVA1QUxFSG0wM20xTHozMWMycUVlTDZ3N1VoRUNaSWllMjDSAWBBVV95cUxNbFJBRmdtV2V1WXk3SHZJeE5zdEZ2dlZLM2NyblExOEVZM0xOemRWMTUyRFhueFVneWVRWEQ0X1FZUUpjSlVIOGNQZmRGeTZGUFUwVDFxQk9RZk5EMGZ6OUw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 03 Nov 2026 23:19:11 GMT"
-        },
-        {
-          "title": "중간선거 경계감 속 뉴욕증시 혼조…기술주 반등에 나스닥 0.8%↑ - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LMDhvcGticFZVeDF5ekdHUVVZbUFLaFpfdVUxV0dtWFdLTkx3bEl2RTlBSS1HWE9SaVd4Rjg4cHhuRTd0djZzSnBPTDY2VUdqVlFNWE40eXZ4c2lZakcxeWgzVUszSjg?oc=5",
-          "source": "Google News",
-          "published": "Tue, 03 Nov 2026 21:57:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "정부",
+      "word": "대통령",
       "count": 3,
-      "category": "NOUN",
+      "category": "PERSON",
       "articles": [
         {
-          "title": "162조 미래기금, 정부가 셀프 운용·셀프 감시 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN003RFVsWHk5S2JJeXRrVDd5dEdHOG1HWnlMZ3B5Zi11R3BFckNFQVE0TnRBalRUMDRWTlVPVmx4U3h5cUlKVzJkRjlCRWJINU56eFRSV2hyaFZLamNvME5wQmdRMkhGeUQxV3FodE5naVE4ZEFLT0RFa3FCdUlacGZ0OTJTSWdqU1NpM2JB?oc=5",
+          "title": "李대통령 \"집값 하락, 강남3구\" 해명에 野 \"속이 타는 모양\" \"대통령 눈이 돼지\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLTltclpGYXlqeGxGQU1WaUtLMEhRdW9Cd2I5S2RjR25xN0p1SFZRTTBlUlZKenoxSjNJZlJKd0pLQ0xRcEw3bENITXpmRWJCVlltblYyNU5SaUVSQVFlZ0VjZExKZGw2RGViR0haeUtHTGo5aVhpVlhodVF1THYwUjlwbDBpUQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 03 Nov 2026 15:56:00 GMT"
+          "published": "Wed, 04 Nov 2026 05:11:00 GMT"
         },
         {
-          "title": "[美중간선거] 트럼프 정부 투표감시 총동원…野주지사는 주방위군 투입(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfREU0SUV1YVVUUlpBVlZ6M0JwMkNZS2N0bV8yMmphQ1o2Q3dwOFpNMll5VUdqSEo4QVA1QUxFSG0wM20xTHozMWMycUVlTDZ3N1VoRUNaSWllMjDSAWBBVV95cUxNbFJBRmdtV2V1WXk3SHZJeE5zdEZ2dlZLM2NyblExOEVZM0xOemRWMTUyRFhueFVneWVRWEQ0X1FZUUpjSlVIOGNQZmRGeTZGUFUwVDFxQk9RZk5EMGZ6OUw?oc=5",
+          "title": "李 “대통령 주도 개헌, 국민적 수용성 낮을수 있어” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9vT1d6SkNpemhiSS1tREdlaGJ6Yl9qSkMzbWJaakx4NEFMNUFqUThTMjd2VUV0clJYODduZDBtY2dXTFJQVGFHV2tvTnVtQk9ON0RESzM0WFlnUDJZNWkxTVVOYUhJSHdwVjdTekVxMEE2U01peWlZ0gFmQVVfeXFMTnEyUkdCQ2c1akF5RUJhUFpCdER6YkdILWI2aGZSSGRKNWJ5bEFCTE56Z3Q5U3d3bHY4eFotaFRweTNEOXItNk40NGV3ZnhPNDI2ZHRQWUFkMVFlYVVOOXJRSDRFNUxR?oc=5",
           "source": "Google News",
-          "published": "Tue, 03 Nov 2026 23:19:11 GMT"
-        },
-        {
-          "title": "최고가격제에도 정부 연간 물가 전망 빗나갈듯…\"상방 리스크 여전\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qZjlHT1FMbUQ0RWI5bjhudW1Nc1FVaUEwVU5ZcWxRUndRMl9hWG1Tb3ctTTktRjZCWFJpLVQwRGEwSjI1eGI2eWhWYnBadFFIQkFHVWNDR0pLYUkxRVdFSTBwcFFuNW5aYjEyVUF6Yi0?oc=5",
-          "source": "Google News",
-          "published": "Tue, 03 Nov 2026 02:37:12 GMT"
-        }
-      ]
-    },
-    {
-      "word": "트럼프",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "美 중간선거 당일 트럼프 “예상보다 좋은 결과”… 민주당 “상원 탈환 기대” - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ2JKSXE0Y2toczk5Rk9SeFZld2F0LWg3SVJmRUZmUHFEdmV3RmxiVUxnQXhlU3lMeFJsel9odTY2THNDOU94OGtzWG1Fbi13MVVLYXYwN1RhYnh5WHFwLUc1OE8wS2FHdTVjT01BVnV4T0hjUkRnYlhFNldXamFvNnVkeGo2eV83QmdaaWNscnBuUUhwNjBTaWVsVDZOZ9IBsgFBVV95cUxPdEdJNlFKZUVlUFRnSWdaajFhY21tVDVGN1hVeEJMZnh6bnpwcmxzOHJlQUxBZ3FUMzBaNWRhY0Q0VEtqVFNVOVgwbERKY3RkNTQ1NjY5UjhjNkNmY3hndEFtd3NrN0hnYWZ2eHNDQVJtdmdYNVZFMkdmZUo0NTl3cS1MektoaUZvTEpOS3FQa0pPS0dsRE1tUm1vOGUweFFVQTBaN28xV3hIRkNwWTJjQ2VB?oc=5",
-          "source": "Google News",
-          "published": "Tue, 03 Nov 2026 21:33:00 GMT"
-        },
-        {
-          "title": "[美중간선거] 트럼프 정부 투표감시 총동원…野주지사는 주방위군 투입(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfREU0SUV1YVVUUlpBVlZ6M0JwMkNZS2N0bV8yMmphQ1o2Q3dwOFpNMll5VUdqSEo4QVA1QUxFSG0wM20xTHozMWMycUVlTDZ3N1VoRUNaSWllMjDSAWBBVV95cUxNbFJBRmdtV2V1WXk3SHZJeE5zdEZ2dlZLM2NyblExOEVZM0xOemRWMTUyRFhueFVneWVRWEQ0X1FZUUpjSlVIOGNQZmRGeTZGUFUwVDFxQk9RZk5EMGZ6OUw?oc=5",
-          "source": "Google News",
-          "published": "Tue, 03 Nov 2026 23:19:11 GMT"
-        },
-        {
-          "title": "트럼프 \"이란 방공시설 어젯밤 타격‥많은 사람 죽이고 싶진 않지만\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pLVBaeGJVWDZ1bHJlb1pmQlFGeUF5dnozUjdjbU9rbGVIay1DNlhwc20xb0NtdUNMQmVjaTBrSTFldkVMZ3p5YkNvZWhrTGFiSWR4NzFUZl80VE9MWGVnSFNGc2NTNFJtQm9ndjYzZUtjdGxy0gF0QVVfeXFMTzBGbUVfVjJhYTc4R3RBcjZoYk5vLVhvSkphNVVuNl8xYUw5clhTbkszUHdKeUpXLU5GWHNjZWxidDRwWEl4QlRCYmRIU2dCcm9fN242WWQ5Nnloa0NfZGlSbUVVdEFYcDZuT2d4ZGJwTGtQWUM?oc=5",
-          "source": "Google News",
-          "published": "Tue, 03 Nov 2026 15:16:57 GMT"
+          "published": "Wed, 04 Nov 2026 07:06:00 GMT"
         }
       ]
     },
@@ -90,137 +28,264 @@
       "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "정점식 “민주당 신천지 의혹 수사 불가피…김민석 정계 은퇴 마땅” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LcDNKV1Q0R3JiQkg1MmVoM2V0WXpPcEhQY3dQWDU4ZXlyVUtCcHJOYmdzUk55UTBaQXZCX1g0YVZoY0kzb0N6cjltR2x4eW9EQ1RfX1EtNW5WTXc?oc=5",
+          "title": "미 민주당, 상하원 동시 탈환…역사적 ‘블루 웨이브’, 트럼프 심판했다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GOEtsY2JiUjJqcXp2QTZJY182c1hWQUs0SWZ2Qlp4d0hpU1pmUllyRWx0MS1oRzFzVXQ4UEV1R0ZQSC1MdzlmeXdod0J6WUZKM21wYlJwN2Z1Z190UlBwdURCVjJzZE5fSVAtV0d1QQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 04 Nov 2026 00:25:00 GMT"
+          "published": "Wed, 04 Nov 2026 05:56:00 GMT"
         },
         {
-          "title": "美 중간선거 당일 트럼프 “예상보다 좋은 결과”… 민주당 “상원 탈환 기대” - Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ2JKSXE0Y2toczk5Rk9SeFZld2F0LWg3SVJmRUZmUHFEdmV3RmxiVUxnQXhlU3lMeFJsel9odTY2THNDOU94OGtzWG1Fbi13MVVLYXYwN1RhYnh5WHFwLUc1OE8wS2FHdTVjT01BVnV4T0hjUkRnYlhFNldXamFvNnVkeGo2eV83QmdaaWNscnBuUUhwNjBTaWVsVDZOZ9IBsgFBVV95cUxPdEdJNlFKZUVlUFRnSWdaajFhY21tVDVGN1hVeEJMZnh6bnpwcmxzOHJlQUxBZ3FUMzBaNWRhY0Q0VEtqVFNVOVgwbERKY3RkNTQ1NjY5UjhjNkNmY3hndEFtd3NrN0hnYWZ2eHNDQVJtdmdYNVZFMkdmZUo0NTl3cS1MektoaUZvTEpOS3FQa0pPS0dsRE1tUm1vOGUweFFVQTBaN28xV3hIRkNwWTJjQ2VB?oc=5",
+          "title": "[중간선거] 서울환시 \"민주당 압승에 과도한 반응…환율 추가 하락은 신중\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EeFJtbjVPb3BITDQxenRtR0NCTERGS1ptNXhtakc4cWFlQkc3LVB6VnZieVVqbTA3ZlJiTENpbmFJNTBUZXluNTFzMm5ENEh5UngtQWRUeWR1ZGF1emdsNVg5cE9JczBDSkNHMWJvZzQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 03 Nov 2026 21:33:00 GMT"
+          "published": "Wed, 04 Nov 2026 07:44:09 GMT"
         }
       ]
     },
     {
-      "word": "의혹",
+      "word": "트럼프",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "정점식 “민주당 신천지 의혹 수사 불가피…김민석 정계 은퇴 마땅” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LcDNKV1Q0R3JiQkg1MmVoM2V0WXpPcEhQY3dQWDU4ZXlyVUtCcHJOYmdzUk55UTBaQXZCX1g0YVZoY0kzb0N6cjltR2x4eW9EQ1RfX1EtNW5WTXc?oc=5",
+          "title": "미 민주당, 상하원 동시 탈환…역사적 ‘블루 웨이브’, 트럼프 심판했다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GOEtsY2JiUjJqcXp2QTZJY182c1hWQUs0SWZ2Qlp4d0hpU1pmUllyRWx0MS1oRzFzVXQ4UEV1R0ZQSC1MdzlmeXdod0J6WUZKM21wYlJwN2Z1Z190UlBwdURCVjJzZE5fSVAtV0d1QQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 04 Nov 2026 00:25:00 GMT"
+          "published": "Wed, 04 Nov 2026 05:56:00 GMT"
         },
         {
-          "title": "'학폭 의혹' 차예련, 또 터졌다…이번엔 '골프장 갑질' 주장 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GY3VnY1pxaUFlSG9qR25PRzhEaHdCX3pNXzVIOHVHU0NIaldIb3RXQ25ySUdhblB5d1dTV1RzRzNwYXUxT3JFaDNRenFhY1hKZUZxLUZ0U0MtQQ?oc=5",
+          "title": "트럼프 \"이란 당장 공격할 이유 없을수도…전쟁 상태 아냐\" - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rWHRiWHQ4bk9TWFlaQ2RtQy1kUUIydUhMN3JKYjhaYUY1cGNlVGdHaW9jV3VQZ3RXY3YtTk02TGdlZ2VoZmRlWEpFTUR2eGxCZzMyWGlOSjBhN3PSAWBBVV95cUxNWmN1eXFaWU9QS0c5N2JhOExPc1BTYTJ2dEctMDgwM2N3YXRWM3hWSjU2Y20xOXZJcTF2ME1YWUhzV25aMjRNYzJNR0xXZXZ2aUU5eGNXWWZVSHFpWVlCM1k?oc=5",
           "source": "Google News",
-          "published": "Tue, 03 Nov 2026 13:09:16 GMT"
+          "published": "Wed, 04 Nov 2026 00:51:53 GMT"
         }
       ]
     },
     {
-      "word": "지원",
+      "word": "강력",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "진보 진영 비판에…트럼프, “이스라엘 연40억불 지원 중단” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84OHNPOFQ4bGthX2c4ZHBlVFBzb3M4STZtOXpYQ1JTTFk3akV0ZmItS3FybU5XSERwSXdtZktoX3FZdFFpSDBpTnRFcVFGNDVvYUhkdVdJNnNCYVE?oc=5",
+          "title": "김민석 사과했지만 계속되는 신천지 여진…친청계 강력 반발 속 당 분위기는 ‘그만하자’ - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hVGwxeDFFN2tPY3hiX1NJa0xTX1hsRHM4ekFPb005NGdTZFhNOXZfeGxBcVYtZjR3X01fT2VpbXIwMXV1ZGlwY085bnhadkVqd3VXU1VvOHhJQdIBX0FVX3lxTE45TnNPMVduVFUxS21aRm04TzZMOVllOWtraTE4UVhBUXRXSHRGVURuTk50cUxYSW85d0lVSWs2RGxQSmZzeEo4X1Ezamd4cUlHTmxEUTJFMllKbnlCX1FF?oc=5",
           "source": "Google News",
-          "published": "Tue, 03 Nov 2026 19:01:00 GMT"
+          "published": "Wed, 04 Nov 2026 08:11:00 GMT"
         },
         {
-          "title": "전남광주 '교육혁신선도지역' 8곳 선정...5년간 900억 지원 - KBC광주방송",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzWGxIWmc5NjF6N1JtaTQ2VlA4RTBza1hpOFppRFZfRzZMSG42OGljQVFfeHVVUjRiRHZReW5feVZyaElENGhYekhNZ2N1VnpScmtDMlBRVDR6NlkyQ09WUA?oc=5",
+          "title": "차예련 측, 학폭 의혹 재차 부인…\"허위사실 강력 조치\" - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oUGVxQ3JUWnZ0SFVYOUJIYTBvbkRUb0ljX3I5Yjk3Q215MW5qNEhMRDBrNGNEcUtmdENPWDFfMGtVU09MUU95a0FRV0RnM2JhaHpJeUY5UEczUQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 04 Nov 2026 00:36:18 GMT"
+          "published": "Wed, 04 Nov 2026 05:28:17 GMT"
         }
       ]
     },
     {
-      "word": "없어",
+      "word": "하락",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "김여정, 바이낸스 사태에 \"美와 마주 앉을 필요 없어\" - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zNzRSOHk4NVR4Q0Z4RHFtbUZtTjdELS1YQ2xBSDd5Qzh6VmdScXNnaml3N2t4MnU4TjBOanJYcklfMjB5bk5qSGFQaHRDa2NTZGNhRGVidzlROXg0VVNfeXJETGF0Zmc?oc=5",
+          "title": "李대통령 \"집값 하락, 강남3구\" 해명에 野 \"속이 타는 모양\" \"대통령 눈이 돼지\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLTltclpGYXlqeGxGQU1WaUtLMEhRdW9Cd2I5S2RjR25xN0p1SFZRTTBlUlZKenoxSjNJZlJKd0pLQ0xRcEw3bENITXpmRWJCVlltblYyNU5SaUVSQVFlZ0VjZExKZGw2RGViR0haeUtHTGo5aVhpVlhodVF1THYwUjlwbDBpUQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 03 Nov 2026 22:34:00 GMT"
+          "published": "Wed, 04 Nov 2026 05:11:00 GMT"
         },
         {
-          "title": "한그루, 은밀한 부위 제모 고백 “멈출 수 없어” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLd2x3cGFZUDFoU0phNjJTRE9LS2hkeDVYVEJpV01XRUpyNVNsb0FjX2dSa2tiWEItdEIyT1hDR28zdVRFRUdyVUpobmJVVVZOQmx4UENxWllNTy1CS2tJX1VvM0hFaUN2SVB2UdIBYkFVX3lxTE9aQmxVR3BSVnZuWU42akkzV0JpV01xOVdycUdaTEN0Qmo5TUZBc3praEUyZmtJbk9mRGRMNVh4WmJaUmw5ZlNLaHU4UHRTbC1YdVBUZndBenZDWGQyN0JPUlV3?oc=5",
+          "title": "[중간선거] 서울환시 \"민주당 압승에 과도한 반응…환율 추가 하락은 신중\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EeFJtbjVPb3BITDQxenRtR0NCTERGS1ptNXhtakc4cWFlQkc3LVB6VnZieVVqbTA3ZlJiTENpbmFJNTBUZXluNTFzMm5ENEh5UngtQWRUeWR1ZGF1emdsNVg5cE9JczBDSkNHMWJvZzQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 03 Nov 2026 22:43:46 GMT"
+          "published": "Wed, 04 Nov 2026 07:44:09 GMT"
         }
       ]
     },
     {
-      "word": "반등",
+      "word": "주도",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "코스피, 장초반 상승…미 기술주 반등에 ‘삼전닉스’↑ - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11LTI3OGVJYnA3M0szaklqR2RxRGdQaXdkX0FtekdCY2V4TWJ3LS00cmxObGREZ09yaGpxcnpWV3hFZURhOXB3MldMek9RNnRPS2J1cWNMM3c4ajQ?oc=5",
+          "title": "李 “대통령 주도 개헌, 국민적 수용성 낮을수 있어” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9vT1d6SkNpemhiSS1tREdlaGJ6Yl9qSkMzbWJaakx4NEFMNUFqUThTMjd2VUV0clJYODduZDBtY2dXTFJQVGFHV2tvTnVtQk9ON0RESzM0WFlnUDJZNWkxTVVOYUhJSHdwVjdTekVxMEE2U01peWlZ0gFmQVVfeXFMTnEyUkdCQ2c1akF5RUJhUFpCdER6YkdILWI2aGZSSGRKNWJ5bEFCTE56Z3Q5U3d3bHY4eFotaFRweTNEOXItNk40NGV3ZnhPNDI2ZHRQWUFkMVFlYVVOOXJRSDRFNUxR?oc=5",
           "source": "Google News",
-          "published": "Wed, 04 Nov 2026 00:44:00 GMT"
+          "published": "Wed, 04 Nov 2026 07:06:00 GMT"
         },
         {
-          "title": "중간선거 경계감 속 뉴욕증시 혼조…기술주 반등에 나스닥 0.8%↑ - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LMDhvcGticFZVeDF5ekdHUVVZbUFLaFpfdVUxV0dtWFdLTkx3bEl2RTlBSS1HWE9SaVd4Rjg4cHhuRTd0djZzSnBPTDY2VUdqVlFNWE40eXZ4c2lZakcxeWgzVUszSjg?oc=5",
+          "title": "조작기소 특검법, 與 주도 법사위 소위 통과... ‘文 뇌물·서해 피격’까지 끼워넣어 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdGV1VzM4eVNnaEU5MlNLY2tzNFBVeXJzM3N0YmRRTlhsenA1VnFjOElHQk5lOFVITm9fanhaV1BxZmhRNXdNQVJtakFCM1FacWRoazVZbWdVWi1nTDJCREJUUXlwSTNSWEltQzEzTll3UllUa0R5ZEhmV2htWDNlV0t1Ujd6a2ktSUN1cmliVDE?oc=5",
           "source": "Google News",
-          "published": "Tue, 03 Nov 2026 21:57:00 GMT"
+          "published": "Wed, 04 Nov 2026 07:46:00 GMT"
         }
       ]
     },
     {
-      "word": "제시",
+      "word": "공격",
       "count": 2,
-      "category": "LOCATION",
+      "category": "NOUN",
       "articles": [
+        {
+          "title": "트럼프 \"이란 당장 공격할 이유 없을수도…전쟁 상태 아냐\" - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rWHRiWHQ4bk9TWFlaQ2RtQy1kUUIydUhMN3JKYjhaYUY1cGNlVGdHaW9jV3VQZ3RXY3YtTk02TGdlZ2VoZmRlWEpFTUR2eGxCZzMyWGlOSjBhN3PSAWBBVV95cUxNWmN1eXFaWU9QS0c5N2JhOExPc1BTYTJ2dEctMDgwM2N3YXRWM3hWSjU2Y20xOXZJcTF2ME1YWUhzV25aMjRNYzJNR0xXZXZ2aUU5eGNXWWZVSHFpWVlCM1k?oc=5",
+          "source": "Google News",
+          "published": "Wed, 04 Nov 2026 00:51:53 GMT"
+        },
+        {
+          "title": "면접관도 CEO도 가짜였다···북한 해커들 ‘위장 채용’으로 엔지니어에 접근, 5개월간 다단계 공격 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1scWdlbFVQSFhxa0szQ1NIOU9IWkxSd3pFdEtqOU1pU3Vsc0JoMmczbmgtOENNQzFwb0JXR2RzMll1Tjk0WHE5Qm4ycy1lTkNXdUFfOUhEWmhEQdIBX0FVX3lxTFByZmNBc0J2M3dVbHhYekVBWGlib0VGaFpOR0dVcUNlWjRuZ3IwclpzWWFoZWE1WW1fMjZRS1F4bmdlUURUbDhmWHVtZTZXeXZkSEZWQVg3SGpfYVR0OGVR?oc=5",
+          "source": "Google News",
+          "published": "Wed, 04 Nov 2026 05:38:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "CEO",
+      "count": 2,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "이바나 수소위원회 CEO \"韓, 수소 비즈니스의 좋은 선례\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FUUQzSVIzQVNmeUNtMlZYYVdCVk05bXowZ0lUQWVJZnNjazhxUlRGQjNkYU5aSUJmNjVjbWtIejJYYXZ5b25DdTZmUXVySENCYjJSdEpTalUtNnBmZnpMYzJxZFNFd2U4R3g3V1lmbm4?oc=5",
+          "source": "Google News",
+          "published": "Wed, 04 Nov 2026 06:43:37 GMT"
+        },
+        {
+          "title": "면접관도 CEO도 가짜였다···북한 해커들 ‘위장 채용’으로 엔지니어에 접근, 5개월간 다단계 공격 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1scWdlbFVQSFhxa0szQ1NIOU9IWkxSd3pFdEtqOU1pU3Vsc0JoMmczbmgtOENNQzFwb0JXR2RzMll1Tjk0WHE5Qm4ycy1lTkNXdUFfOUhEWmhEQdIBX0FVX3lxTFByZmNBc0J2M3dVbHhYekVBWGlib0VGaFpOR0dVcUNlWjRuZ3IwclpzWWFoZWE1WW1fMjZRS1F4bmdlUURUbDhmWHVtZTZXeXZkSEZWQVg3SGpfYVR0OGVR?oc=5",
+          "source": "Google News",
+          "published": "Wed, 04 Nov 2026 05:38:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "2대",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "뉴욕증시 반도체주 강세에 코스피 2%대 상승 출발 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0tZ0E5R3ZJVllRWklxbmZMMGtCS3dpS1A5TmljNGpDUkk4a21mSEQwRzlreWNoU2xqYXM4bjNkRTJEVDRFcENlSm9GWVpfcGlaMWFCTVdYaUVvS1AzWlAwQUo4bXM5cy1sTlBIZmU4NjYtSms50gF0QVVfeXFMT19Wa3NTOGhtSWFNbVZTcXVTOWpOU095MFVPcWY4Z2dUaTFXXzdCbXh1ZTFsX3lDT1RQdGxIVXpCYWNrelZUa2IxV3Btb1dGdmtUalFYU3VXM0NJN1RJaW1md1UzWWJCYmRPd3J0LXU0N1lhTUE?oc=5",
+          "source": "Google News",
+          "published": "Wed, 04 Nov 2026 00:19:19 GMT"
+        },
+        {
+          "title": "‘코리안 더비’ 김민재의 뮌헨, 이강인의 아틀레티코에 2대 0 완승 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMMVV4Y3UwdTl2SVBGcVQ1bnR3bVhUdWxjMloyNFFISGprUzhSNTNBdGpxeEUwNHQwS2wyNUhqSEViZFJYY3Rib3pxbmhub3A1RktmNlVRRGZTU2M?oc=5",
+          "source": "Google News",
+          "published": "Wed, 04 Nov 2026 01:26:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "4일",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "미국 스위프트 우주망원경, 4일 저녁 대기권 재진입…한반도 영향 없어 - BBS불교방송",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wNG1nS0l3SloxR0FIVTlXMGJOdk5MaVVSSGxLcUZmeUUzdlVYYlh0MW9jT3loRmJwV0ZId0tVenZ3WTBTQXNQWFB1X0dyU0xJWEJuZE5jN0h1c0w4eDk5d0s4WkpmY1FlTGFv?oc=5",
+          "source": "Google News",
+          "published": "Wed, 04 Nov 2026 07:53:00 GMT"
+        },
+        {
+          "title": "프로야구 롯데, 4일부터 일본 미야자키서 훈련 캠프…수비 강화 집중 - SBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NUkh3V2FQam9DUWJJWG1rRS1RYmNwYV9DRllJLWQyYjl0Y1JBZldnLUpoc3ZhenFlbmJRRjBxMlhXdDA1aHNIMU5VeDVCQkY3VmQ2aFZ2ZV9NRFQ0eXg4TTgzTTBjT1c1eUE?oc=5",
+          "source": "Google News",
+          "published": "Tue, 03 Nov 2026 06:36:15 GMT"
+        }
+      ]
+    },
+    {
+      "word": "만에",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "28년 만에 컴백…'젤다의 전설 시간의 오카리나' 5일 출시 - 디지털투데이",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjTERYQnFoTU1GUVJ0dnNOcVZMcmFvbTNqQ3M4ZVRhMmZYSTBPN1AwWTUzekY2N1JlUGVxY2w2MEtIdERGXzAwTkZseEl1V1cxNUVEck1RcUxQdXhlRElzUlVKOVZidVlsSkZNQU0wejBWZnc?oc=5",
+          "source": "Google News",
+          "published": "Wed, 04 Nov 2026 06:20:39 GMT"
+        },
+        {
+          "title": "리센느 신곡 ‘위드’ 2시간 만에 멜론 1위…앨범 5곡 모두 ‘톱10’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92V0pCYjZxa2NtenNPZlVwTV9mZE1MUl9zMmpUMUdVNVl0RHNJaFo0NzI4d0V6NGJ1NkkySUZlRXJSXzZLcnFUazduek82MmtnV2FJc1RERlNWUWNILU0tak92S2I?oc=5",
+          "source": "Google News",
+          "published": "Wed, 04 Nov 2026 01:41:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "단백질",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "치매 유발 단백질 확산 촉진 인자 첫 규명…새 치료법 개발 단서 - 데일리안",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zcmkxd1MxWkdXZXMwaEJ4OFZkdU9QdjljcFJxQUpxcm5YNEtQN18ySkRCMHFmV2ktV2hfZmg0VFVVcUpZU0J3dDlJQTFISGJxTFNuVDU5aw?oc=5",
+          "source": "Google News",
+          "published": "Wed, 04 Nov 2026 03:00:00 GMT"
+        },
         {
           "title": "내장지방 염증·섬유화 촉진하는 핵심 단백질 ‘THBS1’ 규명…비만·당뇨병 치료 새 표적 제시 - 헬스오",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PM3lneW5jUFVBcTZsanIxMTYxSHV1VnpoUFd5dmJzVUI4UGVvR21aWlhHQnBsNm5qOFAxUFN5Q0FDOTRma3NYbWpOUVd6RlU4QndBcnR5dmg?oc=5",
           "source": "Google News",
           "published": "Tue, 03 Nov 2026 00:07:26 GMT"
+        }
+      ]
+    },
+    {
+      "word": "촉진",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "치매 유발 단백질 확산 촉진 인자 첫 규명…새 치료법 개발 단서 - 데일리안",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zcmkxd1MxWkdXZXMwaEJ4OFZkdU9QdjljcFJxQUpxcm5YNEtQN18ySkRCMHFmV2ktV2hfZmg0VFVVcUpZU0J3dDlJQTFISGJxTFNuVDU5aw?oc=5",
+          "source": "Google News",
+          "published": "Wed, 04 Nov 2026 03:00:00 GMT"
         },
         {
-          "title": "장내 미생물과 파킨슨병 연결 새 기전 제시 - 메디칼업저버",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93VGg3ZEdaUnRLdlE5Y0h2dnBabm1QRE1uR1pvYWJaU1VXbVBfYjktTGZJczRheVQwUUlaVVduWVNtOGE1WEZTSWxIcEl1OXRRT0dRaldrZjA2bGxMNDk0dzRjVnN3S1dEcmEw?oc=5",
+          "title": "내장지방 염증·섬유화 촉진하는 핵심 단백질 ‘THBS1’ 규명…비만·당뇨병 치료 새 표적 제시 - 헬스오",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PM3lneW5jUFVBcTZsanIxMTYxSHV1VnpoUFd5dmJzVUI4UGVvR21aWlhHQnBsNm5qOFAxUFN5Q0FDOTRma3NYbWpOUVd6RlU4QndBcnR5dmg?oc=5",
           "source": "Google News",
-          "published": "Tue, 03 Nov 2026 23:16:59 GMT"
+          "published": "Tue, 03 Nov 2026 00:07:26 GMT"
         }
       ]
     },
     {
-      "word": "여기보면",
+      "word": "상하원",
       "count": 1,
-      "category": "NOUN",
+      "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "여기보면 알 수 있다…미 중간선거 ‘블루 웨이브’ 현실화할까 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuVHNCVXdrbUVtakVoVktsRXh2akJOYk5fRzkxUEZ6VzhXTjhtbXJWVjljVl9FbUsyUG1zazlhRUNLOEVTdDlBTzZnNklfZFNoWGNKeFdqOFMtUlc1a2tZVG1HSHNZMnVuOUpSS0FUaw?oc=5",
+          "title": "미 민주당, 상하원 동시 탈환…역사적 ‘블루 웨이브’, 트럼프 심판했다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GOEtsY2JiUjJqcXp2QTZJY182c1hWQUs0SWZ2Qlp4d0hpU1pmUllyRWx0MS1oRzFzVXQ4UEV1R0ZQSC1MdzlmeXdod0J6WUZKM21wYlJwN2Z1Z190UlBwdURCVjJzZE5fSVAtV0d1QQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 03 Nov 2026 22:10:00 GMT"
+          "published": "Wed, 04 Nov 2026 05:56:00 GMT"
         }
       ]
     },
     {
-      "word": "있다미",
+      "word": "동시",
       "count": 1,
-      "category": "NOUN",
+      "category": "LOCATION",
       "articles": [
         {
-          "title": "여기보면 알 수 있다…미 중간선거 ‘블루 웨이브’ 현실화할까 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuVHNCVXdrbUVtakVoVktsRXh2akJOYk5fRzkxUEZ6VzhXTjhtbXJWVjljVl9FbUsyUG1zazlhRUNLOEVTdDlBTzZnNklfZFNoWGNKeFdqOFMtUlc1a2tZVG1HSHNZMnVuOUpSS0FUaw?oc=5",
+          "title": "미 민주당, 상하원 동시 탈환…역사적 ‘블루 웨이브’, 트럼프 심판했다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GOEtsY2JiUjJqcXp2QTZJY182c1hWQUs0SWZ2Qlp4d0hpU1pmUllyRWx0MS1oRzFzVXQ4UEV1R0ZQSC1MdzlmeXdod0J6WUZKM21wYlJwN2Z1Z190UlBwdURCVjJzZE5fSVAtV0d1QQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 03 Nov 2026 22:10:00 GMT"
+          "published": "Wed, 04 Nov 2026 05:56:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "탈환역사",
+      "count": 1,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "미 민주당, 상하원 동시 탈환…역사적 ‘블루 웨이브’, 트럼프 심판했다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GOEtsY2JiUjJqcXp2QTZJY182c1hWQUs0SWZ2Qlp4d0hpU1pmUllyRWx0MS1oRzFzVXQ4UEV1R0ZQSC1MdzlmeXdod0J6WUZKM21wYlJwN2Z1Z190UlBwdURCVjJzZE5fSVAtV0d1QQ?oc=5",
+          "source": "Google News",
+          "published": "Wed, 04 Nov 2026 05:56:00 GMT"
         }
       ]
     },
@@ -230,10 +295,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "여기보면 알 수 있다…미 중간선거 ‘블루 웨이브’ 현실화할까 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuVHNCVXdrbUVtakVoVktsRXh2akJOYk5fRzkxUEZ6VzhXTjhtbXJWVjljVl9FbUsyUG1zazlhRUNLOEVTdDlBTzZnNklfZFNoWGNKeFdqOFMtUlc1a2tZVG1HSHNZMnVuOUpSS0FUaw?oc=5",
+          "title": "미 민주당, 상하원 동시 탈환…역사적 ‘블루 웨이브’, 트럼프 심판했다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GOEtsY2JiUjJqcXp2QTZJY182c1hWQUs0SWZ2Qlp4d0hpU1pmUllyRWx0MS1oRzFzVXQ4UEV1R0ZQSC1MdzlmeXdod0J6WUZKM21wYlJwN2Z1Z190UlBwdURCVjJzZE5fSVAtV0d1QQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 03 Nov 2026 22:10:00 GMT"
+          "published": "Wed, 04 Nov 2026 05:56:00 GMT"
         }
       ]
     },
@@ -243,36 +308,205 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "여기보면 알 수 있다…미 중간선거 ‘블루 웨이브’ 현실화할까 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuVHNCVXdrbUVtakVoVktsRXh2akJOYk5fRzkxUEZ6VzhXTjhtbXJWVjljVl9FbUsyUG1zazlhRUNLOEVTdDlBTzZnNklfZFNoWGNKeFdqOFMtUlc1a2tZVG1HSHNZMnVuOUpSS0FUaw?oc=5",
+          "title": "미 민주당, 상하원 동시 탈환…역사적 ‘블루 웨이브’, 트럼프 심판했다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GOEtsY2JiUjJqcXp2QTZJY182c1hWQUs0SWZ2Qlp4d0hpU1pmUllyRWx0MS1oRzFzVXQ4UEV1R0ZQSC1MdzlmeXdod0J6WUZKM21wYlJwN2Z1Z190UlBwdURCVjJzZE5fSVAtV0d1QQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 03 Nov 2026 22:10:00 GMT"
+          "published": "Wed, 04 Nov 2026 05:56:00 GMT"
         }
       ]
     },
     {
-      "word": "현실화할까",
+      "word": "심판",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "여기보면 알 수 있다…미 중간선거 ‘블루 웨이브’ 현실화할까 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuVHNCVXdrbUVtakVoVktsRXh2akJOYk5fRzkxUEZ6VzhXTjhtbXJWVjljVl9FbUsyUG1zazlhRUNLOEVTdDlBTzZnNklfZFNoWGNKeFdqOFMtUlc1a2tZVG1HSHNZMnVuOUpSS0FUaw?oc=5",
+          "title": "미 민주당, 상하원 동시 탈환…역사적 ‘블루 웨이브’, 트럼프 심판했다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GOEtsY2JiUjJqcXp2QTZJY182c1hWQUs0SWZ2Qlp4d0hpU1pmUllyRWx0MS1oRzFzVXQ4UEV1R0ZQSC1MdzlmeXdod0J6WUZKM21wYlJwN2Z1Z190UlBwdURCVjJzZE5fSVAtV0d1QQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 03 Nov 2026 22:10:00 GMT"
+          "published": "Wed, 04 Nov 2026 05:56:00 GMT"
         }
       ]
     },
     {
-      "word": "정점식",
+      "word": "윤석열",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "정점식 “민주당 신천지 의혹 수사 불가피…김민석 정계 은퇴 마땅” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LcDNKV1Q0R3JiQkg1MmVoM2V0WXpPcEhQY3dQWDU4ZXlyVUtCcHJOYmdzUk55UTBaQXZCX1g0YVZoY0kzb0N6cjltR2x4eW9EQ1RfX1EtNW5WTXc?oc=5",
+          "title": "‘윤석열 허위사실 공표’ 2심도 징역형 집유…법원 “선거 제도 침해, 적법성 훼손” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DSFlNZWZOdG5wMjA5dlZNZkZmX3lTbFBoMFVxTklqTXJtUDV2dXd3UHNmcHNjd0J0UWpyMEh4ZW10LVFOc1IxY2NRUENMZDdodXRLd2hkT0RPQdIBX0FVX3lxTFBFQ1lVSjYwVXlFSFV1MEhXY1RYbS1IRlN5UXJ5VEhXcU1keEI5bWxxVDRueDlyU1VYaWJ4WWxLM1E2a1h6b1E0RTNEa2pycjdJYXUxOU1Qajl6N0ZlTkJj?oc=5",
           "source": "Google News",
-          "published": "Wed, 04 Nov 2026 00:25:00 GMT"
+          "published": "Wed, 04 Nov 2026 07:36:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "허위사실",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘윤석열 허위사실 공표’ 2심도 징역형 집유…법원 “선거 제도 침해, 적법성 훼손” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DSFlNZWZOdG5wMjA5dlZNZkZmX3lTbFBoMFVxTklqTXJtUDV2dXd3UHNmcHNjd0J0UWpyMEh4ZW10LVFOc1IxY2NRUENMZDdodXRLd2hkT0RPQdIBX0FVX3lxTFBFQ1lVSjYwVXlFSFV1MEhXY1RYbS1IRlN5UXJ5VEhXcU1keEI5bWxxVDRueDlyU1VYaWJ4WWxLM1E2a1h6b1E0RTNEa2pycjdJYXUxOU1Qajl6N0ZlTkJj?oc=5",
+          "source": "Google News",
+          "published": "Wed, 04 Nov 2026 07:36:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "공표",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘윤석열 허위사실 공표’ 2심도 징역형 집유…법원 “선거 제도 침해, 적법성 훼손” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DSFlNZWZOdG5wMjA5dlZNZkZmX3lTbFBoMFVxTklqTXJtUDV2dXd3UHNmcHNjd0J0UWpyMEh4ZW10LVFOc1IxY2NRUENMZDdodXRLd2hkT0RPQdIBX0FVX3lxTFBFQ1lVSjYwVXlFSFV1MEhXY1RYbS1IRlN5UXJ5VEhXcU1keEI5bWxxVDRueDlyU1VYaWJ4WWxLM1E2a1h6b1E0RTNEa2pycjdJYXUxOU1Qajl6N0ZlTkJj?oc=5",
+          "source": "Google News",
+          "published": "Wed, 04 Nov 2026 07:36:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "2심",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘윤석열 허위사실 공표’ 2심도 징역형 집유…법원 “선거 제도 침해, 적법성 훼손” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DSFlNZWZOdG5wMjA5dlZNZkZmX3lTbFBoMFVxTklqTXJtUDV2dXd3UHNmcHNjd0J0UWpyMEh4ZW10LVFOc1IxY2NRUENMZDdodXRLd2hkT0RPQdIBX0FVX3lxTFBFQ1lVSjYwVXlFSFV1MEhXY1RYbS1IRlN5UXJ5VEhXcU1keEI5bWxxVDRueDlyU1VYaWJ4WWxLM1E2a1h6b1E0RTNEa2pycjdJYXUxOU1Qajl6N0ZlTkJj?oc=5",
+          "source": "Google News",
+          "published": "Wed, 04 Nov 2026 07:36:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "징역형",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘윤석열 허위사실 공표’ 2심도 징역형 집유…법원 “선거 제도 침해, 적법성 훼손” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DSFlNZWZOdG5wMjA5dlZNZkZmX3lTbFBoMFVxTklqTXJtUDV2dXd3UHNmcHNjd0J0UWpyMEh4ZW10LVFOc1IxY2NRUENMZDdodXRLd2hkT0RPQdIBX0FVX3lxTFBFQ1lVSjYwVXlFSFV1MEhXY1RYbS1IRlN5UXJ5VEhXcU1keEI5bWxxVDRueDlyU1VYaWJ4WWxLM1E2a1h6b1E0RTNEa2pycjdJYXUxOU1Qajl6N0ZlTkJj?oc=5",
+          "source": "Google News",
+          "published": "Wed, 04 Nov 2026 07:36:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "집유법원",
+      "count": 1,
+      "category": "ORGANIZATION",
+      "articles": [
+        {
+          "title": "‘윤석열 허위사실 공표’ 2심도 징역형 집유…법원 “선거 제도 침해, 적법성 훼손” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DSFlNZWZOdG5wMjA5dlZNZkZmX3lTbFBoMFVxTklqTXJtUDV2dXd3UHNmcHNjd0J0UWpyMEh4ZW10LVFOc1IxY2NRUENMZDdodXRLd2hkT0RPQdIBX0FVX3lxTFBFQ1lVSjYwVXlFSFV1MEhXY1RYbS1IRlN5UXJ5VEhXcU1keEI5bWxxVDRueDlyU1VYaWJ4WWxLM1E2a1h6b1E0RTNEa2pycjdJYXUxOU1Qajl6N0ZlTkJj?oc=5",
+          "source": "Google News",
+          "published": "Wed, 04 Nov 2026 07:36:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "선거",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘윤석열 허위사실 공표’ 2심도 징역형 집유…법원 “선거 제도 침해, 적법성 훼손” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DSFlNZWZOdG5wMjA5dlZNZkZmX3lTbFBoMFVxTklqTXJtUDV2dXd3UHNmcHNjd0J0UWpyMEh4ZW10LVFOc1IxY2NRUENMZDdodXRLd2hkT0RPQdIBX0FVX3lxTFBFQ1lVSjYwVXlFSFV1MEhXY1RYbS1IRlN5UXJ5VEhXcU1keEI5bWxxVDRueDlyU1VYaWJ4WWxLM1E2a1h6b1E0RTNEa2pycjdJYXUxOU1Qajl6N0ZlTkJj?oc=5",
+          "source": "Google News",
+          "published": "Wed, 04 Nov 2026 07:36:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "제도",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘윤석열 허위사실 공표’ 2심도 징역형 집유…법원 “선거 제도 침해, 적법성 훼손” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DSFlNZWZOdG5wMjA5dlZNZkZmX3lTbFBoMFVxTklqTXJtUDV2dXd3UHNmcHNjd0J0UWpyMEh4ZW10LVFOc1IxY2NRUENMZDdodXRLd2hkT0RPQdIBX0FVX3lxTFBFQ1lVSjYwVXlFSFV1MEhXY1RYbS1IRlN5UXJ5VEhXcU1keEI5bWxxVDRueDlyU1VYaWJ4WWxLM1E2a1h6b1E0RTNEa2pycjdJYXUxOU1Qajl6N0ZlTkJj?oc=5",
+          "source": "Google News",
+          "published": "Wed, 04 Nov 2026 07:36:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "침해",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘윤석열 허위사실 공표’ 2심도 징역형 집유…법원 “선거 제도 침해, 적법성 훼손” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DSFlNZWZOdG5wMjA5dlZNZkZmX3lTbFBoMFVxTklqTXJtUDV2dXd3UHNmcHNjd0J0UWpyMEh4ZW10LVFOc1IxY2NRUENMZDdodXRLd2hkT0RPQdIBX0FVX3lxTFBFQ1lVSjYwVXlFSFV1MEhXY1RYbS1IRlN5UXJ5VEhXcU1keEI5bWxxVDRueDlyU1VYaWJ4WWxLM1E2a1h6b1E0RTNEa2pycjdJYXUxOU1Qajl6N0ZlTkJj?oc=5",
+          "source": "Google News",
+          "published": "Wed, 04 Nov 2026 07:36:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "적법",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘윤석열 허위사실 공표’ 2심도 징역형 집유…법원 “선거 제도 침해, 적법성 훼손” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DSFlNZWZOdG5wMjA5dlZNZkZmX3lTbFBoMFVxTklqTXJtUDV2dXd3UHNmcHNjd0J0UWpyMEh4ZW10LVFOc1IxY2NRUENMZDdodXRLd2hkT0RPQdIBX0FVX3lxTFBFQ1lVSjYwVXlFSFV1MEhXY1RYbS1IRlN5UXJ5VEhXcU1keEI5bWxxVDRueDlyU1VYaWJ4WWxLM1E2a1h6b1E0RTNEa2pycjdJYXUxOU1Qajl6N0ZlTkJj?oc=5",
+          "source": "Google News",
+          "published": "Wed, 04 Nov 2026 07:36:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "훼손",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘윤석열 허위사실 공표’ 2심도 징역형 집유…법원 “선거 제도 침해, 적법성 훼손” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DSFlNZWZOdG5wMjA5dlZNZkZmX3lTbFBoMFVxTklqTXJtUDV2dXd3UHNmcHNjd0J0UWpyMEh4ZW10LVFOc1IxY2NRUENMZDdodXRLd2hkT0RPQdIBX0FVX3lxTFBFQ1lVSjYwVXlFSFV1MEhXY1RYbS1IRlN5UXJ5VEhXcU1keEI5bWxxVDRueDlyU1VYaWJ4WWxLM1E2a1h6b1E0RTNEa2pycjdJYXUxOU1Qajl6N0ZlTkJj?oc=5",
+          "source": "Google News",
+          "published": "Wed, 04 Nov 2026 07:36:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "김민석",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김민석 사과했지만 계속되는 신천지 여진…친청계 강력 반발 속 당 분위기는 ‘그만하자’ - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hVGwxeDFFN2tPY3hiX1NJa0xTX1hsRHM4ekFPb005NGdTZFhNOXZfeGxBcVYtZjR3X01fT2VpbXIwMXV1ZGlwY085bnhadkVqd3VXU1VvOHhJQdIBX0FVX3lxTE45TnNPMVduVFUxS21aRm04TzZMOVllOWtraTE4UVhBUXRXSHRGVURuTk50cUxYSW85d0lVSWs2RGxQSmZzeEo4X1Ezamd4cUlHTmxEUTJFMllKbnlCX1FF?oc=5",
+          "source": "Google News",
+          "published": "Wed, 04 Nov 2026 08:11:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "사과했지",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김민석 사과했지만 계속되는 신천지 여진…친청계 강력 반발 속 당 분위기는 ‘그만하자’ - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hVGwxeDFFN2tPY3hiX1NJa0xTX1hsRHM4ekFPb005NGdTZFhNOXZfeGxBcVYtZjR3X01fT2VpbXIwMXV1ZGlwY085bnhadkVqd3VXU1VvOHhJQdIBX0FVX3lxTE45TnNPMVduVFUxS21aRm04TzZMOVllOWtraTE4UVhBUXRXSHRGVURuTk50cUxYSW85d0lVSWs2RGxQSmZzeEo4X1Ezamd4cUlHTmxEUTJFMllKbnlCX1FF?oc=5",
+          "source": "Google News",
+          "published": "Wed, 04 Nov 2026 08:11:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "계속",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김민석 사과했지만 계속되는 신천지 여진…친청계 강력 반발 속 당 분위기는 ‘그만하자’ - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hVGwxeDFFN2tPY3hiX1NJa0xTX1hsRHM4ekFPb005NGdTZFhNOXZfeGxBcVYtZjR3X01fT2VpbXIwMXV1ZGlwY085bnhadkVqd3VXU1VvOHhJQdIBX0FVX3lxTE45TnNPMVduVFUxS21aRm04TzZMOVllOWtraTE4UVhBUXRXSHRGVURuTk50cUxYSW85d0lVSWs2RGxQSmZzeEo4X1Ezamd4cUlHTmxEUTJFMllKbnlCX1FF?oc=5",
+          "source": "Google News",
+          "published": "Wed, 04 Nov 2026 08:11:00 GMT"
         }
       ]
     },
@@ -282,270 +516,62 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "정점식 “민주당 신천지 의혹 수사 불가피…김민석 정계 은퇴 마땅” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LcDNKV1Q0R3JiQkg1MmVoM2V0WXpPcEhQY3dQWDU4ZXlyVUtCcHJOYmdzUk55UTBaQXZCX1g0YVZoY0kzb0N6cjltR2x4eW9EQ1RfX1EtNW5WTXc?oc=5",
+          "title": "김민석 사과했지만 계속되는 신천지 여진…친청계 강력 반발 속 당 분위기는 ‘그만하자’ - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hVGwxeDFFN2tPY3hiX1NJa0xTX1hsRHM4ekFPb005NGdTZFhNOXZfeGxBcVYtZjR3X01fT2VpbXIwMXV1ZGlwY085bnhadkVqd3VXU1VvOHhJQdIBX0FVX3lxTE45TnNPMVduVFUxS21aRm04TzZMOVllOWtraTE4UVhBUXRXSHRGVURuTk50cUxYSW85d0lVSWs2RGxQSmZzeEo4X1Ezamd4cUlHTmxEUTJFMllKbnlCX1FF?oc=5",
           "source": "Google News",
-          "published": "Wed, 04 Nov 2026 00:25:00 GMT"
+          "published": "Wed, 04 Nov 2026 08:11:00 GMT"
         }
       ]
     },
     {
-      "word": "수사",
+      "word": "여진친청계",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "정점식 “민주당 신천지 의혹 수사 불가피…김민석 정계 은퇴 마땅” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LcDNKV1Q0R3JiQkg1MmVoM2V0WXpPcEhQY3dQWDU4ZXlyVUtCcHJOYmdzUk55UTBaQXZCX1g0YVZoY0kzb0N6cjltR2x4eW9EQ1RfX1EtNW5WTXc?oc=5",
+          "title": "김민석 사과했지만 계속되는 신천지 여진…친청계 강력 반발 속 당 분위기는 ‘그만하자’ - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hVGwxeDFFN2tPY3hiX1NJa0xTX1hsRHM4ekFPb005NGdTZFhNOXZfeGxBcVYtZjR3X01fT2VpbXIwMXV1ZGlwY085bnhadkVqd3VXU1VvOHhJQdIBX0FVX3lxTE45TnNPMVduVFUxS21aRm04TzZMOVllOWtraTE4UVhBUXRXSHRGVURuTk50cUxYSW85d0lVSWs2RGxQSmZzeEo4X1Ezamd4cUlHTmxEUTJFMllKbnlCX1FF?oc=5",
           "source": "Google News",
-          "published": "Wed, 04 Nov 2026 00:25:00 GMT"
+          "published": "Wed, 04 Nov 2026 08:11:00 GMT"
         }
       ]
     },
     {
-      "word": "불가피김민석",
+      "word": "반발",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "정점식 “민주당 신천지 의혹 수사 불가피…김민석 정계 은퇴 마땅” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LcDNKV1Q0R3JiQkg1MmVoM2V0WXpPcEhQY3dQWDU4ZXlyVUtCcHJOYmdzUk55UTBaQXZCX1g0YVZoY0kzb0N6cjltR2x4eW9EQ1RfX1EtNW5WTXc?oc=5",
+          "title": "김민석 사과했지만 계속되는 신천지 여진…친청계 강력 반발 속 당 분위기는 ‘그만하자’ - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hVGwxeDFFN2tPY3hiX1NJa0xTX1hsRHM4ekFPb005NGdTZFhNOXZfeGxBcVYtZjR3X01fT2VpbXIwMXV1ZGlwY085bnhadkVqd3VXU1VvOHhJQdIBX0FVX3lxTE45TnNPMVduVFUxS21aRm04TzZMOVllOWtraTE4UVhBUXRXSHRGVURuTk50cUxYSW85d0lVSWs2RGxQSmZzeEo4X1Ezamd4cUlHTmxEUTJFMllKbnlCX1FF?oc=5",
           "source": "Google News",
-          "published": "Wed, 04 Nov 2026 00:25:00 GMT"
+          "published": "Wed, 04 Nov 2026 08:11:00 GMT"
         }
       ]
     },
     {
-      "word": "정계",
+      "word": "분위기",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "정점식 “민주당 신천지 의혹 수사 불가피…김민석 정계 은퇴 마땅” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LcDNKV1Q0R3JiQkg1MmVoM2V0WXpPcEhQY3dQWDU4ZXlyVUtCcHJOYmdzUk55UTBaQXZCX1g0YVZoY0kzb0N6cjltR2x4eW9EQ1RfX1EtNW5WTXc?oc=5",
+          "title": "김민석 사과했지만 계속되는 신천지 여진…친청계 강력 반발 속 당 분위기는 ‘그만하자’ - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hVGwxeDFFN2tPY3hiX1NJa0xTX1hsRHM4ekFPb005NGdTZFhNOXZfeGxBcVYtZjR3X01fT2VpbXIwMXV1ZGlwY085bnhadkVqd3VXU1VvOHhJQdIBX0FVX3lxTE45TnNPMVduVFUxS21aRm04TzZMOVllOWtraTE4UVhBUXRXSHRGVURuTk50cUxYSW85d0lVSWs2RGxQSmZzeEo4X1Ezamd4cUlHTmxEUTJFMllKbnlCX1FF?oc=5",
           "source": "Google News",
-          "published": "Wed, 04 Nov 2026 00:25:00 GMT"
+          "published": "Wed, 04 Nov 2026 08:11:00 GMT"
         }
       ]
     },
     {
-      "word": "은퇴",
+      "word": "그만하자",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "정점식 “민주당 신천지 의혹 수사 불가피…김민석 정계 은퇴 마땅” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LcDNKV1Q0R3JiQkg1MmVoM2V0WXpPcEhQY3dQWDU4ZXlyVUtCcHJOYmdzUk55UTBaQXZCX1g0YVZoY0kzb0N6cjltR2x4eW9EQ1RfX1EtNW5WTXc?oc=5",
+          "title": "김민석 사과했지만 계속되는 신천지 여진…친청계 강력 반발 속 당 분위기는 ‘그만하자’ - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hVGwxeDFFN2tPY3hiX1NJa0xTX1hsRHM4ekFPb005NGdTZFhNOXZfeGxBcVYtZjR3X01fT2VpbXIwMXV1ZGlwY085bnhadkVqd3VXU1VvOHhJQdIBX0FVX3lxTE45TnNPMVduVFUxS21aRm04TzZMOVllOWtraTE4UVhBUXRXSHRGVURuTk50cUxYSW85d0lVSWs2RGxQSmZzeEo4X1Ezamd4cUlHTmxEUTJFMllKbnlCX1FF?oc=5",
           "source": "Google News",
-          "published": "Wed, 04 Nov 2026 00:25:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "마땅",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "정점식 “민주당 신천지 의혹 수사 불가피…김민석 정계 은퇴 마땅” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LcDNKV1Q0R3JiQkg1MmVoM2V0WXpPcEhQY3dQWDU4ZXlyVUtCcHJOYmdzUk55UTBaQXZCX1g0YVZoY0kzb0N6cjltR2x4eW9EQ1RfX1EtNW5WTXc?oc=5",
-          "source": "Google News",
-          "published": "Wed, 04 Nov 2026 00:25:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "불지핀",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "李가 불지핀 ‘다문화’ 논란… 靑, 이주 단체 만나 “혐오 아니다” - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaXlOVDJWVWhMNHYzRzFOY1pOa0VrQkJtbTl3ZmJkM1c0ZlRkNl83ZTNyaEZsbHFpYkNWMi1qeEdoc1NNQVd6aG1GcjllVjJCbVVzNlZ0a1hTVlVETlJKQm5XZVBsVEVtc0lRNG0xUzJrR0FXQ1d5RVNzTDdvT2RRSzk2VjViSVpmYi04TDNTTGk?oc=5",
-          "source": "Google News",
-          "published": "Tue, 03 Nov 2026 12:14:49 GMT"
-        }
-      ]
-    },
-    {
-      "word": "다문",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "李가 불지핀 ‘다문화’ 논란… 靑, 이주 단체 만나 “혐오 아니다” - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaXlOVDJWVWhMNHYzRzFOY1pOa0VrQkJtbTl3ZmJkM1c0ZlRkNl83ZTNyaEZsbHFpYkNWMi1qeEdoc1NNQVd6aG1GcjllVjJCbVVzNlZ0a1hTVlVETlJKQm5XZVBsVEVtc0lRNG0xUzJrR0FXQ1d5RVNzTDdvT2RRSzk2VjViSVpmYi04TDNTTGk?oc=5",
-          "source": "Google News",
-          "published": "Tue, 03 Nov 2026 12:14:49 GMT"
-        }
-      ]
-    },
-    {
-      "word": "논란",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "李가 불지핀 ‘다문화’ 논란… 靑, 이주 단체 만나 “혐오 아니다” - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaXlOVDJWVWhMNHYzRzFOY1pOa0VrQkJtbTl3ZmJkM1c0ZlRkNl83ZTNyaEZsbHFpYkNWMi1qeEdoc1NNQVd6aG1GcjllVjJCbVVzNlZ0a1hTVlVETlJKQm5XZVBsVEVtc0lRNG0xUzJrR0FXQ1d5RVNzTDdvT2RRSzk2VjViSVpmYi04TDNTTGk?oc=5",
-          "source": "Google News",
-          "published": "Tue, 03 Nov 2026 12:14:49 GMT"
-        }
-      ]
-    },
-    {
-      "word": "이주",
-      "count": 1,
-      "category": "LOCATION",
-      "articles": [
-        {
-          "title": "李가 불지핀 ‘다문화’ 논란… 靑, 이주 단체 만나 “혐오 아니다” - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaXlOVDJWVWhMNHYzRzFOY1pOa0VrQkJtbTl3ZmJkM1c0ZlRkNl83ZTNyaEZsbHFpYkNWMi1qeEdoc1NNQVd6aG1GcjllVjJCbVVzNlZ0a1hTVlVETlJKQm5XZVBsVEVtc0lRNG0xUzJrR0FXQ1d5RVNzTDdvT2RRSzk2VjViSVpmYi04TDNTTGk?oc=5",
-          "source": "Google News",
-          "published": "Tue, 03 Nov 2026 12:14:49 GMT"
-        }
-      ]
-    },
-    {
-      "word": "단체",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "李가 불지핀 ‘다문화’ 논란… 靑, 이주 단체 만나 “혐오 아니다” - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaXlOVDJWVWhMNHYzRzFOY1pOa0VrQkJtbTl3ZmJkM1c0ZlRkNl83ZTNyaEZsbHFpYkNWMi1qeEdoc1NNQVd6aG1GcjllVjJCbVVzNlZ0a1hTVlVETlJKQm5XZVBsVEVtc0lRNG0xUzJrR0FXQ1d5RVNzTDdvT2RRSzk2VjViSVpmYi04TDNTTGk?oc=5",
-          "source": "Google News",
-          "published": "Tue, 03 Nov 2026 12:14:49 GMT"
-        }
-      ]
-    },
-    {
-      "word": "만나",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "李가 불지핀 ‘다문화’ 논란… 靑, 이주 단체 만나 “혐오 아니다” - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaXlOVDJWVWhMNHYzRzFOY1pOa0VrQkJtbTl3ZmJkM1c0ZlRkNl83ZTNyaEZsbHFpYkNWMi1qeEdoc1NNQVd6aG1GcjllVjJCbVVzNlZ0a1hTVlVETlJKQm5XZVBsVEVtc0lRNG0xUzJrR0FXQ1d5RVNzTDdvT2RRSzk2VjViSVpmYi04TDNTTGk?oc=5",
-          "source": "Google News",
-          "published": "Tue, 03 Nov 2026 12:14:49 GMT"
-        }
-      ]
-    },
-    {
-      "word": "혐오",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "李가 불지핀 ‘다문화’ 논란… 靑, 이주 단체 만나 “혐오 아니다” - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaXlOVDJWVWhMNHYzRzFOY1pOa0VrQkJtbTl3ZmJkM1c0ZlRkNl83ZTNyaEZsbHFpYkNWMi1qeEdoc1NNQVd6aG1GcjllVjJCbVVzNlZ0a1hTVlVETlJKQm5XZVBsVEVtc0lRNG0xUzJrR0FXQ1d5RVNzTDdvT2RRSzk2VjViSVpmYi04TDNTTGk?oc=5",
-          "source": "Google News",
-          "published": "Tue, 03 Nov 2026 12:14:49 GMT"
-        }
-      ]
-    },
-    {
-      "word": "아니다",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "李가 불지핀 ‘다문화’ 논란… 靑, 이주 단체 만나 “혐오 아니다” - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaXlOVDJWVWhMNHYzRzFOY1pOa0VrQkJtbTl3ZmJkM1c0ZlRkNl83ZTNyaEZsbHFpYkNWMi1qeEdoc1NNQVd6aG1GcjllVjJCbVVzNlZ0a1hTVlVETlJKQm5XZVBsVEVtc0lRNG0xUzJrR0FXQ1d5RVNzTDdvT2RRSzk2VjViSVpmYi04TDNTTGk?oc=5",
-          "source": "Google News",
-          "published": "Tue, 03 Nov 2026 12:14:49 GMT"
-        }
-      ]
-    },
-    {
-      "word": "진보",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "진보 진영 비판에…트럼프, “이스라엘 연40억불 지원 중단” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84OHNPOFQ4bGthX2c4ZHBlVFBzb3M4STZtOXpYQ1JTTFk3akV0ZmItS3FybU5XSERwSXdtZktoX3FZdFFpSDBpTnRFcVFGNDVvYUhkdVdJNnNCYVE?oc=5",
-          "source": "Google News",
-          "published": "Tue, 03 Nov 2026 19:01:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "진영",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "진보 진영 비판에…트럼프, “이스라엘 연40억불 지원 중단” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84OHNPOFQ4bGthX2c4ZHBlVFBzb3M4STZtOXpYQ1JTTFk3akV0ZmItS3FybU5XSERwSXdtZktoX3FZdFFpSDBpTnRFcVFGNDVvYUhkdVdJNnNCYVE?oc=5",
-          "source": "Google News",
-          "published": "Tue, 03 Nov 2026 19:01:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "비판에트럼프",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "진보 진영 비판에…트럼프, “이스라엘 연40억불 지원 중단” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84OHNPOFQ4bGthX2c4ZHBlVFBzb3M4STZtOXpYQ1JTTFk3akV0ZmItS3FybU5XSERwSXdtZktoX3FZdFFpSDBpTnRFcVFGNDVvYUhkdVdJNnNCYVE?oc=5",
-          "source": "Google News",
-          "published": "Tue, 03 Nov 2026 19:01:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "이스라엘",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "진보 진영 비판에…트럼프, “이스라엘 연40억불 지원 중단” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84OHNPOFQ4bGthX2c4ZHBlVFBzb3M4STZtOXpYQ1JTTFk3akV0ZmItS3FybU5XSERwSXdtZktoX3FZdFFpSDBpTnRFcVFGNDVvYUhkdVdJNnNCYVE?oc=5",
-          "source": "Google News",
-          "published": "Tue, 03 Nov 2026 19:01:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "연40억불",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "진보 진영 비판에…트럼프, “이스라엘 연40억불 지원 중단” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84OHNPOFQ4bGthX2c4ZHBlVFBzb3M4STZtOXpYQ1JTTFk3akV0ZmItS3FybU5XSERwSXdtZktoX3FZdFFpSDBpTnRFcVFGNDVvYUhkdVdJNnNCYVE?oc=5",
-          "source": "Google News",
-          "published": "Tue, 03 Nov 2026 19:01:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "중단",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "진보 진영 비판에…트럼프, “이스라엘 연40억불 지원 중단” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84OHNPOFQ4bGthX2c4ZHBlVFBzb3M4STZtOXpYQ1JTTFk3akV0ZmItS3FybU5XSERwSXdtZktoX3FZdFFpSDBpTnRFcVFGNDVvYUhkdVdJNnNCYVE?oc=5",
-          "source": "Google News",
-          "published": "Tue, 03 Nov 2026 19:01:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "대통령",
-      "count": 1,
-      "category": "PERSON",
-      "articles": [
-        {
-          "title": "이 대통령 “‘집값 폭락 중’ 발언, 강남만 맞았다는 건 가짜뉴스” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OcHU0VlVrSVdXZjRLc1YycmE3Rlo0MmxIcTF2eEJlNFFhaWJZRFhIcTM1dlJETENTMzlqZFZJb2Nja05ZX0dsSzZyQlNNeVNIY05pdnVrbUVvd9IBX0FVX3lxTE5RT2xkbGxaN2ZKZ3VEMDZhbGRqb0RWaURmRVpXM3pWY2Rxdy1PRnNUNTEybmpjQ0g2QkRMeWVRQVVsZnhPTFFYMGFlZzMxTFBjUmdFTGR2d1hJeGhpUzRn?oc=5",
-          "source": "Google News",
-          "published": "Wed, 04 Nov 2026 00:38:00 GMT"
+          "published": "Wed, 04 Nov 2026 08:11:00 GMT"
         }
       ]
     },
@@ -555,49 +581,23 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령 “‘집값 폭락 중’ 발언, 강남만 맞았다는 건 가짜뉴스” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OcHU0VlVrSVdXZjRLc1YycmE3Rlo0MmxIcTF2eEJlNFFhaWJZRFhIcTM1dlJETENTMzlqZFZJb2Nja05ZX0dsSzZyQlNNeVNIY05pdnVrbUVvd9IBX0FVX3lxTE5RT2xkbGxaN2ZKZ3VEMDZhbGRqb0RWaURmRVpXM3pWY2Rxdy1PRnNUNTEybmpjQ0g2QkRMeWVRQVVsZnhPTFFYMGFlZzMxTFBjUmdFTGR2d1hJeGhpUzRn?oc=5",
+          "title": "李대통령 \"집값 하락, 강남3구\" 해명에 野 \"속이 타는 모양\" \"대통령 눈이 돼지\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLTltclpGYXlqeGxGQU1WaUtLMEhRdW9Cd2I5S2RjR25xN0p1SFZRTTBlUlZKenoxSjNJZlJKd0pLQ0xRcEw3bENITXpmRWJCVlltblYyNU5SaUVSQVFlZ0VjZExKZGw2RGViR0haeUtHTGo5aVhpVlhodVF1THYwUjlwbDBpUQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 04 Nov 2026 00:38:00 GMT"
+          "published": "Wed, 04 Nov 2026 05:11:00 GMT"
         }
       ]
     },
     {
-      "word": "폭락",
+      "word": "강남3구",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "이 대통령 “‘집값 폭락 중’ 발언, 강남만 맞았다는 건 가짜뉴스” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OcHU0VlVrSVdXZjRLc1YycmE3Rlo0MmxIcTF2eEJlNFFhaWJZRFhIcTM1dlJETENTMzlqZFZJb2Nja05ZX0dsSzZyQlNNeVNIY05pdnVrbUVvd9IBX0FVX3lxTE5RT2xkbGxaN2ZKZ3VEMDZhbGRqb0RWaURmRVpXM3pWY2Rxdy1PRnNUNTEybmpjQ0g2QkRMeWVRQVVsZnhPTFFYMGFlZzMxTFBjUmdFTGR2d1hJeGhpUzRn?oc=5",
+          "title": "李대통령 \"집값 하락, 강남3구\" 해명에 野 \"속이 타는 모양\" \"대통령 눈이 돼지\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLTltclpGYXlqeGxGQU1WaUtLMEhRdW9Cd2I5S2RjR25xN0p1SFZRTTBlUlZKenoxSjNJZlJKd0pLQ0xRcEw3bENITXpmRWJCVlltblYyNU5SaUVSQVFlZ0VjZExKZGw2RGViR0haeUtHTGo5aVhpVlhodVF1THYwUjlwbDBpUQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 04 Nov 2026 00:38:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "발언",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 “‘집값 폭락 중’ 발언, 강남만 맞았다는 건 가짜뉴스” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OcHU0VlVrSVdXZjRLc1YycmE3Rlo0MmxIcTF2eEJlNFFhaWJZRFhIcTM1dlJETENTMzlqZFZJb2Nja05ZX0dsSzZyQlNNeVNIY05pdnVrbUVvd9IBX0FVX3lxTE5RT2xkbGxaN2ZKZ3VEMDZhbGRqb0RWaURmRVpXM3pWY2Rxdy1PRnNUNTEybmpjQ0g2QkRMeWVRQVVsZnhPTFFYMGFlZzMxTFBjUmdFTGR2d1hJeGhpUzRn?oc=5",
-          "source": "Google News",
-          "published": "Wed, 04 Nov 2026 00:38:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "강남",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 “‘집값 폭락 중’ 발언, 강남만 맞았다는 건 가짜뉴스” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OcHU0VlVrSVdXZjRLc1YycmE3Rlo0MmxIcTF2eEJlNFFhaWJZRFhIcTM1dlJETENTMzlqZFZJb2Nja05ZX0dsSzZyQlNNeVNIY05pdnVrbUVvd9IBX0FVX3lxTE5RT2xkbGxaN2ZKZ3VEMDZhbGRqb0RWaURmRVpXM3pWY2Rxdy1PRnNUNTEybmpjQ0g2QkRMeWVRQVVsZnhPTFFYMGFlZzMxTFBjUmdFTGR2d1hJeGhpUzRn?oc=5",
-          "source": "Google News",
-          "published": "Wed, 04 Nov 2026 00:38:00 GMT"
+          "published": "Wed, 04 Nov 2026 05:11:00 GMT"
         }
       ]
     }
