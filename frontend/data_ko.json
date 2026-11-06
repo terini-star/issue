@@ -1,295 +1,572 @@
 {
   "language": "ko",
-  "last_updated": 1793910790.0077047,
+  "last_updated": 1793928449.2246003,
   "count": 40,
   "trends": [
     {
-      "word": "예상",
+      "word": "대통령",
+      "count": 3,
+      "category": "PERSON",
+      "articles": [
+        {
+          "title": "강유정 “대통령, 매체 파워 가장 높은 메신저 중 한 분…유튜브 라이브 고려할 수도” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxM1N4Zzl4TUFXVXFrZndJTmltTHpHd25oM2tIRHNadFFFWTNxdFpmVFJNU1dHZ1cxR1RIVXBUUW5jeTVCcG1LRklvVzdIYnZWWHV0YTczZlVyUdIBX0FVX3lxTE1Bdk5mYksyd284N0lSY0hmbE1jS2NvRFIyeklYWDRQblFrYVIzTDdQaENHQ3U2WExMR0pQQmFXQzZuS0JoUk9ya0tKLWpWUURnYWtPaTZUNndYRWx2ZGlR?oc=5",
+          "source": "Google News",
+          "published": "Thu, 05 Nov 2026 23:11:00 GMT"
+        },
+        {
+          "title": "‘내란 우두머리’ 尹 전 대통령 내년 1월 26일 항소심 선고 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbkt4VTZlcGV1c284WW5iWGhYMkhMZktyNm5mdC1RRENJenFveTZ1Qjk0a2hCRW5OQzBhUExyRXlKUW5xdVVLY2lUWlV1RnZRRzNiUW5nUnlMZmVmbkFrWjFCWXZ3LUdrdFotVnZMd21PRENQV2FpWlRMNzRqdUp6YXk4VnRKTDQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 05 Nov 2026 10:44:00 GMT"
+        },
+        {
+          "title": "李대통령 장남, ’황제 골프 의혹’ 제기 주진우 의원 명예훼손 고소 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CT2xaaUI1WlYxRmZ5Sll3c0pFcW56SXlnc3AydjFYR0JzV0lLcGNhMXBac3ozdFlMRVFLYm96eWN0ZEI0MDIzZktyR1Y1U0lRdEtCa0NkS25aMXhzNUZBbkYzamlqMUE?oc=5",
+          "source": "Google News",
+          "published": "Thu, 05 Nov 2026 11:56:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "참패",
       "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프, 헤그세스 ‘참패 희생양’ 삼나…내각·백악관 개편 예상도 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aQ0pKaGJzNkVMVUNHdHJXRFJxcFY3Q3phUHdBZEpsWHQtSG1rYUIybnlGb05feVlzWE5mOGRKQ1pLM1ZCckpabHdXM3NHS0Z1Nll5dmc1emxYTXM?oc=5",
+          "title": "트럼프 중간선거 참패에 이란전 ‘진퇴양난’…공습도 협상도 어렵다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OU0c0TGd0Tzd4cTVQSUtESmlMRV83OFdCWGNVSktSSnkwX3NLYmRVaGxzM0lmZTNDT2JLTlk4RnBTdWtHZ1RWVklkU2JNRm9aVjJvTWNBbnl1UV8wY1JUa1dKMW1VVVNkSEFiYW9SMA?oc=5",
           "source": "Google News",
-          "published": "Thu, 05 Nov 2026 18:35:00 GMT"
+          "published": "Thu, 05 Nov 2026 21:57:00 GMT"
         },
         {
-          "title": "[미 중간선거] 미시시피·알래스카 초접전···“민주당 하원 최대 262석 예상” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qeU11Zl9EY0xpT2FsaU9mSDhPMEpDSzNYTy1oejRiS2N2U3pNcEx5R2lEdHJval9ZS3hBVmJtOGVZUTkxZUtVMnFnNUpUMEFvcUJlRDJJRENGd9IBX0FVX3lxTFAwM2FnalhodEZpMUwtVktCckdSU3V6dmtXMTR3cmNtS3dWRGJWWHptTmlkM1NPLXlHcklQQmgyUS1tUUlaNHJIeDNydVhsdS1BX2pJVWowWDFVMWhENnpZ?oc=5",
+          "title": "트럼프, 선거 참패 이틀 만에 “관세 최대 300%” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE16cEdqVXJZSzF4NFFBMEpFQU11RFA4REJkXzRFRlkweEkwcmVxOWd6cnZTUHFQRmJ3NXhacmpWeDJTVjVNTkdBYUpBU0pscGZ4N0dpVG9iNzlhYldwMXZaazVKOC1PeC1ZUG1GQ3VSM203T0U?oc=5",
           "source": "Google News",
-          "published": "Thu, 05 Nov 2026 06:18:00 GMT"
+          "published": "Fri, 06 Nov 2026 01:09:00 GMT"
         },
         {
-          "title": "미국 스위프트(SWIFT) 우주망원경 4일 저녁 대기권 재진입 예상 한반도 영향 없어 - 코리아타임뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aZER2UjZPbjlvYjlZbTlXMm91ZjBBSFZGX3Fvb1BtWERzZng5UHJYQnRZUTZ2Z3F5aUEwbjRudFZCemNBZ1VBS19FWi1LYVc4WktCV0RSTEM1bVJpNzhPaVVvRm5pYXdkNUE?oc=5",
+          "title": "이란전 밀어붙인 미 국방장관…공화당 참패 뒤 당내 탄핵론 커져 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSlZOQlNCYXRpNEJ2Nmszci1FUUtyWm1VLWhjYzBhUHVIRGpIT0wyZjZBXzBzcnMwaFJYd01WY05oQVpPX3VJZWdiX1oxWWE3SHQ0LURmRVJBT3JzOWktRU1INm5KMlV6TC1UUmJJcERPZDhnT3FkUGxHNlJScllMVWZB?oc=5",
           "source": "Google News",
-          "published": "Wed, 04 Nov 2026 11:30:46 GMT"
+          "published": "Thu, 05 Nov 2026 12:12:00 GMT"
         }
       ]
     },
     {
-      "word": "미국",
+      "word": "선거",
       "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "큰 비극 ’쓰나미’ 이런 데 사용?…미 선거 결과 표현에 ’일본 불편’ - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TWW05c0g3aDlEQjRUZm9CVjNHNGNkdk9FYnhIR0xwdVI0aGpRbU5majFXRjR4ODBJMFhDZkRNUDh0WVI3aHVKLVZRa3RvS29aNzFCSDNBQnVpMnV0NVJPdFlCMFpucTA?oc=5",
+          "source": "Google News",
+          "published": "Fri, 06 Nov 2026 00:39:00 GMT"
+        },
+        {
+          "title": "트럼프, 선거 참패 이틀 만에 “관세 최대 300%” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE16cEdqVXJZSzF4NFFBMEpFQU11RFA4REJkXzRFRlkweEkwcmVxOWd6cnZTUHFQRmJ3NXhacmpWeDJTVjVNTkdBYUpBU0pscGZ4N0dpVG9iNzlhYldwMXZaazVKOC1PeC1ZUG1GQ3VSM203T0U?oc=5",
+          "source": "Google News",
+          "published": "Fri, 06 Nov 2026 01:09:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "트럼프",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프 중간선거 참패에 이란전 ‘진퇴양난’…공습도 협상도 어렵다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OU0c0TGd0Tzd4cTVQSUtESmlMRV83OFdCWGNVSktSSnkwX3NLYmRVaGxzM0lmZTNDT2JLTlk4RnBTdWtHZ1RWVklkU2JNRm9aVjJvTWNBbnl1UV8wY1JUa1dKMW1VVVNkSEFiYW9SMA?oc=5",
+          "source": "Google News",
+          "published": "Thu, 05 Nov 2026 21:57:00 GMT"
+        },
+        {
+          "title": "트럼프, 선거 참패 이틀 만에 “관세 최대 300%” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE16cEdqVXJZSzF4NFFBMEpFQU11RFA4REJkXzRFRlkweEkwcmVxOWd6cnZTUHFQRmJ3NXhacmpWeDJTVjVNTkdBYUpBU0pscGZ4N0dpVG9iNzlhYldwMXZaazVKOC1PeC1ZUG1GQ3VSM203T0U?oc=5",
+          "source": "Google News",
+          "published": "Fri, 06 Nov 2026 01:09:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "이란전",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프 중간선거 참패에 이란전 ‘진퇴양난’…공습도 협상도 어렵다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OU0c0TGd0Tzd4cTVQSUtESmlMRV83OFdCWGNVSktSSnkwX3NLYmRVaGxzM0lmZTNDT2JLTlk4RnBTdWtHZ1RWVklkU2JNRm9aVjJvTWNBbnl1UV8wY1JUa1dKMW1VVVNkSEFiYW9SMA?oc=5",
+          "source": "Google News",
+          "published": "Thu, 05 Nov 2026 21:57:00 GMT"
+        },
+        {
+          "title": "이란전 밀어붙인 미 국방장관…공화당 참패 뒤 당내 탄핵론 커져 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSlZOQlNCYXRpNEJ2Nmszci1FUUtyWm1VLWhjYzBhUHVIRGpIT0wyZjZBXzBzcnMwaFJYd01WY05oQVpPX3VJZWdiX1oxWWE3SHQ0LURmRVJBT3JzOWktRU1INm5KMlV6TC1UUmJJcERPZDhnT3FkUGxHNlJScllMVWZB?oc=5",
+          "source": "Google News",
+          "published": "Thu, 05 Nov 2026 12:12:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "의혹",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "李대통령 장남, ’황제 골프 의혹’ 제기 주진우 의원 명예훼손 고소 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CT2xaaUI1WlYxRmZ5Sll3c0pFcW56SXlnc3AydjFYR0JzV0lLcGNhMXBac3ozdFlMRVFLYm96eWN0ZEI0MDIzZktyR1Y1U0lRdEtCa0NkS25aMXhzNUZBbkYzamlqMUE?oc=5",
+          "source": "Google News",
+          "published": "Thu, 05 Nov 2026 11:56:00 GMT"
+        },
+        {
+          "title": "'학폭 의혹 거듭 부인' 차예련, 공구 마이웨이?..엇갈린 주장 속 추가 해명할까 [Oh!쎈 이슈] - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU1RON1loYTZkTkI5N0V4WU9xR2VjM19BaFd2YVY4aXpVVjFzT2pmbWZFZmtxRUV3bEgtZXFfOTAtUngyd3JfSVBWU1M4RFRFTTZtM1FLR0hpekt2UWlUb1pZdUx1NEctZmV2M3hQcDNMM1BEN3VzZ3ppWmxqN1Z0dE4yQVk0TFBnazM4SkJMSVh0eFHSAacBQVVfeXFMT25iQXhaSGV2dW14aFlvdGhIZG9EbVdqWlIyc2Z1OUxBeDg1MkM5dkJCNUZFajRJWnFyMFNGQy0waUhkNTQ3UWo0ckJ4ZFZTeUQ0TUtWbFlaNm0xaktlMmxoanBGUVBBUlYxd1VMaVlyaU9iLXVYUlRiUERGYUZvQzBoOVlrM1djMU90ZGpGS2Z2OHFLQTJoTXZPbEplLUEtQkVoeHJYdVU?oc=5",
+          "source": "Google News",
+          "published": "Thu, 05 Nov 2026 22:12:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "이틀",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프, 선거 참패 이틀 만에 “관세 최대 300%” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE16cEdqVXJZSzF4NFFBMEpFQU11RFA4REJkXzRFRlkweEkwcmVxOWd6cnZTUHFQRmJ3NXhacmpWeDJTVjVNTkdBYUpBU0pscGZ4N0dpVG9iNzlhYldwMXZaazVKOC1PeC1ZUG1GQ3VSM203T0U?oc=5",
+          "source": "Google News",
+          "published": "Fri, 06 Nov 2026 01:09:00 GMT"
+        },
+        {
+          "title": "\"제재 풀면 이틀 내 호르무즈 개방\"…이란, 美에 '핵협상 카드' 던졌다 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tclhhMHlrOTQwN2QwZVliMXZ3NlFDZ1V3ZVZYSml0eTR3QWdobklEeVlsc3VuRFRINF9POUhrMHNBLXFYTm1kREk3U1pRRjNjTi1ITEpHdXdGZw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 05 Nov 2026 21:24:17 GMT"
+        }
+      ]
+    },
+    {
+      "word": "300",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프, 선거 참패 이틀 만에 “관세 최대 300%” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE16cEdqVXJZSzF4NFFBMEpFQU11RFA4REJkXzRFRlkweEkwcmVxOWd6cnZTUHFQRmJ3NXhacmpWeDJTVjVNTkdBYUpBU0pscGZ4N0dpVG9iNzlhYldwMXZaazVKOC1PeC1ZUG1GQ3VSM203T0U?oc=5",
+          "source": "Google News",
+          "published": "Fri, 06 Nov 2026 01:09:00 GMT"
+        },
+        {
+          "title": "칼륨 소금으로 바꾸면 연간 300만 명 사망 막는다…193개국 모델링 결과 - 매일신문",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aUWNlejhwZHhxSnUtUzh0SkYyb19qMTRORGVwZ00xWjIxTktoTUd1S3pRMHZkTTVtaWwwLXMyMlVNbFd1M3ZCbzBVQjhfVnc5SENnRmdLcmd1UWpwT1N2eGFB?oc=5",
+          "source": "Google News",
+          "published": "Thu, 05 Nov 2026 11:52:07 GMT"
+        }
+      ]
+    },
+    {
+      "word": "코로",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "독감에 코로나까지 ‘트윈데믹’… “고령층, 코로나 아직 무섭다” - Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSTJSUGRRSUVzcEVqMDVaQW5EcmdIeTMwZ3MzYV9rWXViMWEwbngtWjNOSmhKLUljZVR6TXc4Q2Qwc2NwRWlldVR2U1JvQXI2MVN0b3hqN3BjYTFHeFAyclJBSzhGRjBNUnBXTlhDWkJYcGh0TDdydHk1SDloRndUNVY2LVZkbzBLbFVvLdIBoAFBVV95cUxOSFlfMUpPY0thY2t1SzFjSzBaM0NMVGMxX19nU0tMQXk3UXB4SDlUZnk4TVgtUTZ6TVFIcVAzb19qZlZDaWxDVS1YMGRJZk1xWmFESW5QbG5fMnRpTGJ4dHFKWHJJS0tPMlR4UUNmYmZxZmFhYm5ZTDRTTUpPRC1RNXJINE41NnFkM3pidVplSG1CZVNNLXZNamJiV2JwNTFh?oc=5",
+          "source": "Google News",
+          "published": "Thu, 05 Nov 2026 22:08:16 GMT"
+        }
+      ]
+    },
+    {
+      "word": "강유정",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "강유정 “대통령, 매체 파워 가장 높은 메신저 중 한 분…유튜브 라이브 고려할 수도” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxM1N4Zzl4TUFXVXFrZndJTmltTHpHd25oM2tIRHNadFFFWTNxdFpmVFJNU1dHZ1cxR1RIVXBUUW5jeTVCcG1LRklvVzdIYnZWWHV0YTczZlVyUdIBX0FVX3lxTE1Bdk5mYksyd284N0lSY0hmbE1jS2NvRFIyeklYWDRQblFrYVIzTDdQaENHQ3U2WExMR0pQQmFXQzZuS0JoUk9ya0tKLWpWUURnYWtPaTZUNndYRWx2ZGlR?oc=5",
+          "source": "Google News",
+          "published": "Thu, 05 Nov 2026 23:11:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "매체",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "강유정 “대통령, 매체 파워 가장 높은 메신저 중 한 분…유튜브 라이브 고려할 수도” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxM1N4Zzl4TUFXVXFrZndJTmltTHpHd25oM2tIRHNadFFFWTNxdFpmVFJNU1dHZ1cxR1RIVXBUUW5jeTVCcG1LRklvVzdIYnZWWHV0YTczZlVyUdIBX0FVX3lxTE1Bdk5mYksyd284N0lSY0hmbE1jS2NvRFIyeklYWDRQblFrYVIzTDdQaENHQ3U2WExMR0pQQmFXQzZuS0JoUk9ya0tKLWpWUURnYWtPaTZUNndYRWx2ZGlR?oc=5",
+          "source": "Google News",
+          "published": "Thu, 05 Nov 2026 23:11:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "파워",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "강유정 “대통령, 매체 파워 가장 높은 메신저 중 한 분…유튜브 라이브 고려할 수도” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxM1N4Zzl4TUFXVXFrZndJTmltTHpHd25oM2tIRHNadFFFWTNxdFpmVFJNU1dHZ1cxR1RIVXBUUW5jeTVCcG1LRklvVzdIYnZWWHV0YTczZlVyUdIBX0FVX3lxTE1Bdk5mYksyd284N0lSY0hmbE1jS2NvRFIyeklYWDRQblFrYVIzTDdQaENHQ3U2WExMR0pQQmFXQzZuS0JoUk9ya0tKLWpWUURnYWtPaTZUNndYRWx2ZGlR?oc=5",
+          "source": "Google News",
+          "published": "Thu, 05 Nov 2026 23:11:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "가장",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "강유정 “대통령, 매체 파워 가장 높은 메신저 중 한 분…유튜브 라이브 고려할 수도” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxM1N4Zzl4TUFXVXFrZndJTmltTHpHd25oM2tIRHNadFFFWTNxdFpmVFJNU1dHZ1cxR1RIVXBUUW5jeTVCcG1LRklvVzdIYnZWWHV0YTczZlVyUdIBX0FVX3lxTE1Bdk5mYksyd284N0lSY0hmbE1jS2NvRFIyeklYWDRQblFrYVIzTDdQaENHQ3U2WExMR0pQQmFXQzZuS0JoUk9ya0tKLWpWUURnYWtPaTZUNndYRWx2ZGlR?oc=5",
+          "source": "Google News",
+          "published": "Thu, 05 Nov 2026 23:11:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "높은",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "강유정 “대통령, 매체 파워 가장 높은 메신저 중 한 분…유튜브 라이브 고려할 수도” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxM1N4Zzl4TUFXVXFrZndJTmltTHpHd25oM2tIRHNadFFFWTNxdFpmVFJNU1dHZ1cxR1RIVXBUUW5jeTVCcG1LRklvVzdIYnZWWHV0YTczZlVyUdIBX0FVX3lxTE1Bdk5mYksyd284N0lSY0hmbE1jS2NvRFIyeklYWDRQblFrYVIzTDdQaENHQ3U2WExMR0pQQmFXQzZuS0JoUk9ya0tKLWpWUURnYWtPaTZUNndYRWx2ZGlR?oc=5",
+          "source": "Google News",
+          "published": "Thu, 05 Nov 2026 23:11:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "메신저",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "강유정 “대통령, 매체 파워 가장 높은 메신저 중 한 분…유튜브 라이브 고려할 수도” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxM1N4Zzl4TUFXVXFrZndJTmltTHpHd25oM2tIRHNadFFFWTNxdFpmVFJNU1dHZ1cxR1RIVXBUUW5jeTVCcG1LRklvVzdIYnZWWHV0YTczZlVyUdIBX0FVX3lxTE1Bdk5mYksyd284N0lSY0hmbE1jS2NvRFIyeklYWDRQblFrYVIzTDdQaENHQ3U2WExMR0pQQmFXQzZuS0JoUk9ya0tKLWpWUURnYWtPaTZUNndYRWx2ZGlR?oc=5",
+          "source": "Google News",
+          "published": "Thu, 05 Nov 2026 23:11:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "분유튜브",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "강유정 “대통령, 매체 파워 가장 높은 메신저 중 한 분…유튜브 라이브 고려할 수도” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxM1N4Zzl4TUFXVXFrZndJTmltTHpHd25oM2tIRHNadFFFWTNxdFpmVFJNU1dHZ1cxR1RIVXBUUW5jeTVCcG1LRklvVzdIYnZWWHV0YTczZlVyUdIBX0FVX3lxTE1Bdk5mYksyd284N0lSY0hmbE1jS2NvRFIyeklYWDRQblFrYVIzTDdQaENHQ3U2WExMR0pQQmFXQzZuS0JoUk9ya0tKLWpWUURnYWtPaTZUNndYRWx2ZGlR?oc=5",
+          "source": "Google News",
+          "published": "Thu, 05 Nov 2026 23:11:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "라이브",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "강유정 “대통령, 매체 파워 가장 높은 메신저 중 한 분…유튜브 라이브 고려할 수도” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxM1N4Zzl4TUFXVXFrZndJTmltTHpHd25oM2tIRHNadFFFWTNxdFpmVFJNU1dHZ1cxR1RIVXBUUW5jeTVCcG1LRklvVzdIYnZWWHV0YTczZlVyUdIBX0FVX3lxTE1Bdk5mYksyd284N0lSY0hmbE1jS2NvRFIyeklYWDRQblFrYVIzTDdQaENHQ3U2WExMR0pQQmFXQzZuS0JoUk9ya0tKLWpWUURnYWtPaTZUNndYRWx2ZGlR?oc=5",
+          "source": "Google News",
+          "published": "Thu, 05 Nov 2026 23:11:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "고려",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "강유정 “대통령, 매체 파워 가장 높은 메신저 중 한 분…유튜브 라이브 고려할 수도” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxM1N4Zzl4TUFXVXFrZndJTmltTHpHd25oM2tIRHNadFFFWTNxdFpmVFJNU1dHZ1cxR1RIVXBUUW5jeTVCcG1LRklvVzdIYnZWWHV0YTczZlVyUdIBX0FVX3lxTE1Bdk5mYksyd284N0lSY0hmbE1jS2NvRFIyeklYWDRQblFrYVIzTDdQaENHQ3U2WExMR0pQQmFXQzZuS0JoUk9ya0tKLWpWUURnYWtPaTZUNndYRWx2ZGlR?oc=5",
+          "source": "Google News",
+          "published": "Thu, 05 Nov 2026 23:11:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "수도",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "강유정 “대통령, 매체 파워 가장 높은 메신저 중 한 분…유튜브 라이브 고려할 수도” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxM1N4Zzl4TUFXVXFrZndJTmltTHpHd25oM2tIRHNadFFFWTNxdFpmVFJNU1dHZ1cxR1RIVXBUUW5jeTVCcG1LRklvVzdIYnZWWHV0YTczZlVyUdIBX0FVX3lxTE1Bdk5mYksyd284N0lSY0hmbE1jS2NvRFIyeklYWDRQblFrYVIzTDdQaENHQ3U2WExMR0pQQmFXQzZuS0JoUk9ya0tKLWpWUURnYWtPaTZUNndYRWx2ZGlR?oc=5",
+          "source": "Google News",
+          "published": "Thu, 05 Nov 2026 23:11:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "김민석",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김민석 “종교의 정치개입 우려 제기·경고 과정에서 상처 입으신 분 죄송” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZVUwtTW5WNTNaZlo2ejk1M0E5RTZ5WXNoVXR6QXhwYWx1azBNbGdtM3d1M0xhRjFLU05NRzhxZU1DZzFCX014M2RnNEJjZTFXckpxVVg1d0hhcERFc0xHVm5BYWxIZTBTeUpRc2VSTE90bEVy?oc=5",
+          "source": "Google News",
+          "published": "Fri, 06 Nov 2026 00:43:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "종교",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김민석 “종교의 정치개입 우려 제기·경고 과정에서 상처 입으신 분 죄송” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZVUwtTW5WNTNaZlo2ejk1M0E5RTZ5WXNoVXR6QXhwYWx1azBNbGdtM3d1M0xhRjFLU05NRzhxZU1DZzFCX014M2RnNEJjZTFXckpxVVg1d0hhcERFc0xHVm5BYWxIZTBTeUpRc2VSTE90bEVy?oc=5",
+          "source": "Google News",
+          "published": "Fri, 06 Nov 2026 00:43:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "정치개입",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김민석 “종교의 정치개입 우려 제기·경고 과정에서 상처 입으신 분 죄송” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZVUwtTW5WNTNaZlo2ejk1M0E5RTZ5WXNoVXR6QXhwYWx1azBNbGdtM3d1M0xhRjFLU05NRzhxZU1DZzFCX014M2RnNEJjZTFXckpxVVg1d0hhcERFc0xHVm5BYWxIZTBTeUpRc2VSTE90bEVy?oc=5",
+          "source": "Google News",
+          "published": "Fri, 06 Nov 2026 00:43:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "제기경",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김민석 “종교의 정치개입 우려 제기·경고 과정에서 상처 입으신 분 죄송” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZVUwtTW5WNTNaZlo2ejk1M0E5RTZ5WXNoVXR6QXhwYWx1azBNbGdtM3d1M0xhRjFLU05NRzhxZU1DZzFCX014M2RnNEJjZTFXckpxVVg1d0hhcERFc0xHVm5BYWxIZTBTeUpRc2VSTE90bEVy?oc=5",
+          "source": "Google News",
+          "published": "Fri, 06 Nov 2026 00:43:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "과정",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김민석 “종교의 정치개입 우려 제기·경고 과정에서 상처 입으신 분 죄송” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZVUwtTW5WNTNaZlo2ejk1M0E5RTZ5WXNoVXR6QXhwYWx1azBNbGdtM3d1M0xhRjFLU05NRzhxZU1DZzFCX014M2RnNEJjZTFXckpxVVg1d0hhcERFc0xHVm5BYWxIZTBTeUpRc2VSTE90bEVy?oc=5",
+          "source": "Google News",
+          "published": "Fri, 06 Nov 2026 00:43:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "상처",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김민석 “종교의 정치개입 우려 제기·경고 과정에서 상처 입으신 분 죄송” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZVUwtTW5WNTNaZlo2ejk1M0E5RTZ5WXNoVXR6QXhwYWx1azBNbGdtM3d1M0xhRjFLU05NRzhxZU1DZzFCX014M2RnNEJjZTFXckpxVVg1d0hhcERFc0xHVm5BYWxIZTBTeUpRc2VSTE90bEVy?oc=5",
+          "source": "Google News",
+          "published": "Fri, 06 Nov 2026 00:43:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "입으신",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김민석 “종교의 정치개입 우려 제기·경고 과정에서 상처 입으신 분 죄송” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZVUwtTW5WNTNaZlo2ejk1M0E5RTZ5WXNoVXR6QXhwYWx1azBNbGdtM3d1M0xhRjFLU05NRzhxZU1DZzFCX014M2RnNEJjZTFXckpxVVg1d0hhcERFc0xHVm5BYWxIZTBTeUpRc2VSTE90bEVy?oc=5",
+          "source": "Google News",
+          "published": "Fri, 06 Nov 2026 00:43:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "죄송",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김민석 “종교의 정치개입 우려 제기·경고 과정에서 상처 입으신 분 죄송” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZVUwtTW5WNTNaZlo2ejk1M0E5RTZ5WXNoVXR6QXhwYWx1azBNbGdtM3d1M0xhRjFLU05NRzhxZU1DZzFCX014M2RnNEJjZTFXckpxVVg1d0hhcERFc0xHVm5BYWxIZTBTeUpRc2VSTE90bEVy?oc=5",
+          "source": "Google News",
+          "published": "Fri, 06 Nov 2026 00:43:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "비극",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "큰 비극 ’쓰나미’ 이런 데 사용?…미 선거 결과 표현에 ’일본 불편’ - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TWW05c0g3aDlEQjRUZm9CVjNHNGNkdk9FYnhIR0xwdVI0aGpRbU5majFXRjR4ODBJMFhDZkRNUDh0WVI3aHVKLVZRa3RvS29aNzFCSDNBQnVpMnV0NVJPdFlCMFpucTA?oc=5",
+          "source": "Google News",
+          "published": "Fri, 06 Nov 2026 00:39:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "쓰나미",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "큰 비극 ’쓰나미’ 이런 데 사용?…미 선거 결과 표현에 ’일본 불편’ - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TWW05c0g3aDlEQjRUZm9CVjNHNGNkdk9FYnhIR0xwdVI0aGpRbU5majFXRjR4ODBJMFhDZkRNUDh0WVI3aHVKLVZRa3RvS29aNzFCSDNBQnVpMnV0NVJPdFlCMFpucTA?oc=5",
+          "source": "Google News",
+          "published": "Fri, 06 Nov 2026 00:39:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "이런",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "큰 비극 ’쓰나미’ 이런 데 사용?…미 선거 결과 표현에 ’일본 불편’ - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TWW05c0g3aDlEQjRUZm9CVjNHNGNkdk9FYnhIR0xwdVI0aGpRbU5majFXRjR4ODBJMFhDZkRNUDh0WVI3aHVKLVZRa3RvS29aNzFCSDNBQnVpMnV0NVJPdFlCMFpucTA?oc=5",
+          "source": "Google News",
+          "published": "Fri, 06 Nov 2026 00:39:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "사용미",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "큰 비극 ’쓰나미’ 이런 데 사용?…미 선거 결과 표현에 ’일본 불편’ - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TWW05c0g3aDlEQjRUZm9CVjNHNGNkdk9FYnhIR0xwdVI0aGpRbU5majFXRjR4ODBJMFhDZkRNUDh0WVI3aHVKLVZRa3RvS29aNzFCSDNBQnVpMnV0NVJPdFlCMFpucTA?oc=5",
+          "source": "Google News",
+          "published": "Fri, 06 Nov 2026 00:39:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "표현",
+      "count": 1,
       "category": "LOCATION",
       "articles": [
         {
-          "title": "청해부대 호르무즈 650㎞ 앞 배치, 미국 압박에 택한 우회로지만… - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WclZ0VzFJZ3dvZ1RkUHJBcjdPZVVmRlVreWo2Uk1KODZpdTcyTFJaMTV3M1ZXVDBfcFEwWlRYQWVjRnRFcGd2VldIV2M1c25CMS11amUtZmpNTDRNOHNEMktXX1JGd0ZheXB3RTVudWlmRmpC?oc=5",
+          "title": "큰 비극 ’쓰나미’ 이런 데 사용?…미 선거 결과 표현에 ’일본 불편’ - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TWW05c0g3aDlEQjRUZm9CVjNHNGNkdk9FYnhIR0xwdVI0aGpRbU5majFXRjR4ODBJMFhDZkRNUDh0WVI3aHVKLVZRa3RvS29aNzFCSDNBQnVpMnV0NVJPdFlCMFpucTA?oc=5",
           "source": "Google News",
-          "published": "Thu, 05 Nov 2026 13:34:00 GMT"
-        },
-        {
-          "title": "미국 스위프트(SWIFT) 우주망원경 4일 저녁 대기권 재진입 예상 한반도 영향 없어 - 코리아타임뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aZER2UjZPbjlvYjlZbTlXMm91ZjBBSFZGX3Fvb1BtWERzZng5UHJYQnRZUTZ2Z3F5aUEwbjRudFZCemNBZ1VBS19FWi1LYVc4WktCV0RSTEM1bVJpNzhPaVVvRm5pYXdkNUE?oc=5",
-          "source": "Google News",
-          "published": "Wed, 04 Nov 2026 11:30:46 GMT"
+          "published": "Fri, 06 Nov 2026 00:39:00 GMT"
         }
       ]
     },
     {
-      "word": "중간선거",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[미 중간선거] 미시시피·알래스카 초접전···“민주당 하원 최대 262석 예상” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qeU11Zl9EY0xpT2FsaU9mSDhPMEpDSzNYTy1oejRiS2N2U3pNcEx5R2lEdHJval9ZS3hBVmJtOGVZUTkxZUtVMnFnNUpUMEFvcUJlRDJJRENGd9IBX0FVX3lxTFAwM2FnalhodEZpMUwtVktCckdSU3V6dmtXMTR3cmNtS3dWRGJWWHptTmlkM1NPLXlHcklQQmgyUS1tUUlaNHJIeDNydVhsdS1BX2pJVWowWDFVMWhENnpZ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 05 Nov 2026 06:18:00 GMT"
-        },
-        {
-          "title": "美 중간선거 후폭풍, AI 데이터센터 강타하나 - 지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03N1EwNXRIc2ZmNDNHMTJrQWZ6TXZHZ003MjR3MG1oQi0yaXRmX2FCNjQ2ZktMUFJwTkFRNDdqMHZvYWdQeTc1SlFxOG5VYW53YmZnTWt3?oc=5",
-          "source": "Google News",
-          "published": "Thu, 05 Nov 2026 01:15:17 GMT"
-        }
-      ]
-    },
-    {
-      "word": "백신",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "조류독감 변이까지 ‘완벽 방어’하는 백신, AI가 개발 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92TDdzRGtFcjNhSDZ4V1p6eFFYT0ZMUHhyREF3aWw5VGFVTmJVTW9NWlVHODdHR0FQVlNIaDVOUjhxdFRFcFJacy14dmpOem1xY2JHRldXeWI0cUZTSWdacE9WN1F4a2d3cWJLRlY0ejd1ajQwVGfSAWZBVV95cUxQYWYwLVpKYm5GZ092VkRUMEpGbFJGZ21RcXFuMXJOZTdVQWE3TUE5eE04WHBRSnpwdDJJY2xsTFREQWxMbS1JcVo1dEwtemxobGxmcnlhcnpqWE9YZGdYS3JNS2NfU1E?oc=5",
-          "source": "Google News",
-          "published": "Thu, 05 Nov 2026 19:30:00 GMT"
-        },
-        {
-          "title": "질병청, RSV 백신 국가접종 검토 2년째...가격·수급 안정 대책은 '아직' - 의학신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LeTR4ZHNXd29fRHkzeWhmVm1RVWZ1akp6TUJ6d0RlREcwVFZicTRBWHNOU29Cbk8tdl9IcC1VbTljWTI1aWhRVFhNQnQ3blY3b2MzSVdYSFpiUXN5ekhIVUpTbE04OHVtY1E?oc=5",
-          "source": "Google News",
-          "published": "Wed, 04 Nov 2026 21:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "SNS",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "李 “SNS 알고리즘 감옥에 갇히지 않아, 활용 더 넓힐 생각” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMSnowb1pvOXU4REE4M0E3SGZZZFY5ZzJMbTZNeEpjQzBBRTh5OEFWYVluMTh1azVuZkx3alZCdDVmcmhPam9OZzVLZnVBX2dTSUZpZTVkZGRUdUIzd25ZbUFkLUdTdHpmVnkzN1l6ZlAzYUVJMWZ30gFmQVVfeXFMUEhHQ3NUOG42UEhScElUTHJTSWJVWnRJWVdPYjM5REQzc3RaaHdzWGJXY19LV2wxOERsNFItX0NUUmg3ejM3U3hnVTlNaTI1ckVmY01uTFp6dXJLNVBoU0czN01DTS1R?oc=5",
-          "source": "Google News",
-          "published": "Thu, 05 Nov 2026 19:30:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "알고리즘",
+      "word": "일본",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "李 “SNS 알고리즘 감옥에 갇히지 않아, 활용 더 넓힐 생각” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMSnowb1pvOXU4REE4M0E3SGZZZFY5ZzJMbTZNeEpjQzBBRTh5OEFWYVluMTh1azVuZkx3alZCdDVmcmhPam9OZzVLZnVBX2dTSUZpZTVkZGRUdUIzd25ZbUFkLUdTdHpmVnkzN1l6ZlAzYUVJMWZ30gFmQVVfeXFMUEhHQ3NUOG42UEhScElUTHJTSWJVWnRJWVdPYjM5REQzc3RaaHdzWGJXY19LV2wxOERsNFItX0NUUmg3ejM3U3hnVTlNaTI1ckVmY01uTFp6dXJLNVBoU0czN01DTS1R?oc=5",
+          "title": "큰 비극 ’쓰나미’ 이런 데 사용?…미 선거 결과 표현에 ’일본 불편’ - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TWW05c0g3aDlEQjRUZm9CVjNHNGNkdk9FYnhIR0xwdVI0aGpRbU5majFXRjR4ODBJMFhDZkRNUDh0WVI3aHVKLVZRa3RvS29aNzFCSDNBQnVpMnV0NVJPdFlCMFpucTA?oc=5",
           "source": "Google News",
-          "published": "Thu, 05 Nov 2026 19:30:00 GMT"
+          "published": "Fri, 06 Nov 2026 00:39:00 GMT"
         }
       ]
     },
     {
-      "word": "감옥",
+      "word": "불편",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "李 “SNS 알고리즘 감옥에 갇히지 않아, 활용 더 넓힐 생각” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMSnowb1pvOXU4REE4M0E3SGZZZFY5ZzJMbTZNeEpjQzBBRTh5OEFWYVluMTh1azVuZkx3alZCdDVmcmhPam9OZzVLZnVBX2dTSUZpZTVkZGRUdUIzd25ZbUFkLUdTdHpmVnkzN1l6ZlAzYUVJMWZ30gFmQVVfeXFMUEhHQ3NUOG42UEhScElUTHJTSWJVWnRJWVdPYjM5REQzc3RaaHdzWGJXY19LV2wxOERsNFItX0NUUmg3ejM3U3hnVTlNaTI1ckVmY01uTFp6dXJLNVBoU0czN01DTS1R?oc=5",
+          "title": "큰 비극 ’쓰나미’ 이런 데 사용?…미 선거 결과 표현에 ’일본 불편’ - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TWW05c0g3aDlEQjRUZm9CVjNHNGNkdk9FYnhIR0xwdVI0aGpRbU5majFXRjR4ODBJMFhDZkRNUDh0WVI3aHVKLVZRa3RvS29aNzFCSDNBQnVpMnV0NVJPdFlCMFpucTA?oc=5",
           "source": "Google News",
-          "published": "Thu, 05 Nov 2026 19:30:00 GMT"
+          "published": "Fri, 06 Nov 2026 00:39:00 GMT"
         }
       ]
     },
     {
-      "word": "갇히지",
+      "word": "내란",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "李 “SNS 알고리즘 감옥에 갇히지 않아, 활용 더 넓힐 생각” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMSnowb1pvOXU4REE4M0E3SGZZZFY5ZzJMbTZNeEpjQzBBRTh5OEFWYVluMTh1azVuZkx3alZCdDVmcmhPam9OZzVLZnVBX2dTSUZpZTVkZGRUdUIzd25ZbUFkLUdTdHpmVnkzN1l6ZlAzYUVJMWZ30gFmQVVfeXFMUEhHQ3NUOG42UEhScElUTHJTSWJVWnRJWVdPYjM5REQzc3RaaHdzWGJXY19LV2wxOERsNFItX0NUUmg3ejM3U3hnVTlNaTI1ckVmY01uTFp6dXJLNVBoU0czN01DTS1R?oc=5",
+          "title": "‘내란 우두머리’ 尹 전 대통령 내년 1월 26일 항소심 선고 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbkt4VTZlcGV1c284WW5iWGhYMkhMZktyNm5mdC1RRENJenFveTZ1Qjk0a2hCRW5OQzBhUExyRXlKUW5xdVVLY2lUWlV1RnZRRzNiUW5nUnlMZmVmbkFrWjFCWXZ3LUdrdFotVnZMd21PRENQV2FpWlRMNzRqdUp6YXk4VnRKTDQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 05 Nov 2026 19:30:00 GMT"
+          "published": "Thu, 05 Nov 2026 10:44:00 GMT"
         }
       ]
     },
     {
-      "word": "않아",
+      "word": "우두머리",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "李 “SNS 알고리즘 감옥에 갇히지 않아, 활용 더 넓힐 생각” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMSnowb1pvOXU4REE4M0E3SGZZZFY5ZzJMbTZNeEpjQzBBRTh5OEFWYVluMTh1azVuZkx3alZCdDVmcmhPam9OZzVLZnVBX2dTSUZpZTVkZGRUdUIzd25ZbUFkLUdTdHpmVnkzN1l6ZlAzYUVJMWZ30gFmQVVfeXFMUEhHQ3NUOG42UEhScElUTHJTSWJVWnRJWVdPYjM5REQzc3RaaHdzWGJXY19LV2wxOERsNFItX0NUUmg3ejM3U3hnVTlNaTI1ckVmY01uTFp6dXJLNVBoU0czN01DTS1R?oc=5",
+          "title": "‘내란 우두머리’ 尹 전 대통령 내년 1월 26일 항소심 선고 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbkt4VTZlcGV1c284WW5iWGhYMkhMZktyNm5mdC1RRENJenFveTZ1Qjk0a2hCRW5OQzBhUExyRXlKUW5xdVVLY2lUWlV1RnZRRzNiUW5nUnlMZmVmbkFrWjFCWXZ3LUdrdFotVnZMd21PRENQV2FpWlRMNzRqdUp6YXk4VnRKTDQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 05 Nov 2026 19:30:00 GMT"
+          "published": "Thu, 05 Nov 2026 10:44:00 GMT"
         }
       ]
     },
     {
-      "word": "활용",
+      "word": "내년",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "李 “SNS 알고리즘 감옥에 갇히지 않아, 활용 더 넓힐 생각” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMSnowb1pvOXU4REE4M0E3SGZZZFY5ZzJMbTZNeEpjQzBBRTh5OEFWYVluMTh1azVuZkx3alZCdDVmcmhPam9OZzVLZnVBX2dTSUZpZTVkZGRUdUIzd25ZbUFkLUdTdHpmVnkzN1l6ZlAzYUVJMWZ30gFmQVVfeXFMUEhHQ3NUOG42UEhScElUTHJTSWJVWnRJWVdPYjM5REQzc3RaaHdzWGJXY19LV2wxOERsNFItX0NUUmg3ejM3U3hnVTlNaTI1ckVmY01uTFp6dXJLNVBoU0czN01DTS1R?oc=5",
+          "title": "‘내란 우두머리’ 尹 전 대통령 내년 1월 26일 항소심 선고 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbkt4VTZlcGV1c284WW5iWGhYMkhMZktyNm5mdC1RRENJenFveTZ1Qjk0a2hCRW5OQzBhUExyRXlKUW5xdVVLY2lUWlV1RnZRRzNiUW5nUnlMZmVmbkFrWjFCWXZ3LUdrdFotVnZMd21PRENQV2FpWlRMNzRqdUp6YXk4VnRKTDQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 05 Nov 2026 19:30:00 GMT"
+          "published": "Thu, 05 Nov 2026 10:44:00 GMT"
         }
       ]
     },
     {
-      "word": "넓힐",
+      "word": "1월",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "李 “SNS 알고리즘 감옥에 갇히지 않아, 활용 더 넓힐 생각” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMSnowb1pvOXU4REE4M0E3SGZZZFY5ZzJMbTZNeEpjQzBBRTh5OEFWYVluMTh1azVuZkx3alZCdDVmcmhPam9OZzVLZnVBX2dTSUZpZTVkZGRUdUIzd25ZbUFkLUdTdHpmVnkzN1l6ZlAzYUVJMWZ30gFmQVVfeXFMUEhHQ3NUOG42UEhScElUTHJTSWJVWnRJWVdPYjM5REQzc3RaaHdzWGJXY19LV2wxOERsNFItX0NUUmg3ejM3U3hnVTlNaTI1ckVmY01uTFp6dXJLNVBoU0czN01DTS1R?oc=5",
+          "title": "‘내란 우두머리’ 尹 전 대통령 내년 1월 26일 항소심 선고 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbkt4VTZlcGV1c284WW5iWGhYMkhMZktyNm5mdC1RRENJenFveTZ1Qjk0a2hCRW5OQzBhUExyRXlKUW5xdVVLY2lUWlV1RnZRRzNiUW5nUnlMZmVmbkFrWjFCWXZ3LUdrdFotVnZMd21PRENQV2FpWlRMNzRqdUp6YXk4VnRKTDQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 05 Nov 2026 19:30:00 GMT"
+          "published": "Thu, 05 Nov 2026 10:44:00 GMT"
         }
       ]
     },
     {
-      "word": "생각",
+      "word": "26일",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "李 “SNS 알고리즘 감옥에 갇히지 않아, 활용 더 넓힐 생각” - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMSnowb1pvOXU4REE4M0E3SGZZZFY5ZzJMbTZNeEpjQzBBRTh5OEFWYVluMTh1azVuZkx3alZCdDVmcmhPam9OZzVLZnVBX2dTSUZpZTVkZGRUdUIzd25ZbUFkLUdTdHpmVnkzN1l6ZlAzYUVJMWZ30gFmQVVfeXFMUEhHQ3NUOG42UEhScElUTHJTSWJVWnRJWVdPYjM5REQzc3RaaHdzWGJXY19LV2wxOERsNFItX0NUUmg3ejM3U3hnVTlNaTI1ckVmY01uTFp6dXJLNVBoU0czN01DTS1R?oc=5",
+          "title": "‘내란 우두머리’ 尹 전 대통령 내년 1월 26일 항소심 선고 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbkt4VTZlcGV1c284WW5iWGhYMkhMZktyNm5mdC1RRENJenFveTZ1Qjk0a2hCRW5OQzBhUExyRXlKUW5xdVVLY2lUWlV1RnZRRzNiUW5nUnlMZmVmbkFrWjFCWXZ3LUdrdFotVnZMd21PRENQV2FpWlRMNzRqdUp6YXk4VnRKTDQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 05 Nov 2026 19:30:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "대통령",
-      "count": 1,
-      "category": "PERSON",
-      "articles": [
-        {
-          "title": "이 대통령 장남, 주진우 명예훼손 고소…“해군기지 골프장 간 적 없다” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE14TUNyYWJETzhhUUlPUmFWWUkxWkpkVHFGOVVmT2xBdjhqQXZRbWYzVlc5NFhEWE1oVlpDbU94RVF4dEtjR3dFWVpNcENqTFJ6UEkyNTdKVUM5TThId1QyZER3NUpZOUN4V0diOW54c1Z0QQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 05 Nov 2026 12:58:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "장남",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 장남, 주진우 명예훼손 고소…“해군기지 골프장 간 적 없다” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE14TUNyYWJETzhhUUlPUmFWWUkxWkpkVHFGOVVmT2xBdjhqQXZRbWYzVlc5NFhEWE1oVlpDbU94RVF4dEtjR3dFWVpNcENqTFJ6UEkyNTdKVUM5TThId1QyZER3NUpZOUN4V0diOW54c1Z0QQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 05 Nov 2026 12:58:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "주진우",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 장남, 주진우 명예훼손 고소…“해군기지 골프장 간 적 없다” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE14TUNyYWJETzhhUUlPUmFWWUkxWkpkVHFGOVVmT2xBdjhqQXZRbWYzVlc5NFhEWE1oVlpDbU94RVF4dEtjR3dFWVpNcENqTFJ6UEkyNTdKVUM5TThId1QyZER3NUpZOUN4V0diOW54c1Z0QQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 05 Nov 2026 12:58:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "명예훼손",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 장남, 주진우 명예훼손 고소…“해군기지 골프장 간 적 없다” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE14TUNyYWJETzhhUUlPUmFWWUkxWkpkVHFGOVVmT2xBdjhqQXZRbWYzVlc5NFhEWE1oVlpDbU94RVF4dEtjR3dFWVpNcENqTFJ6UEkyNTdKVUM5TThId1QyZER3NUpZOUN4V0diOW54c1Z0QQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 05 Nov 2026 12:58:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "고소해군기지",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 장남, 주진우 명예훼손 고소…“해군기지 골프장 간 적 없다” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE14TUNyYWJETzhhUUlPUmFWWUkxWkpkVHFGOVVmT2xBdjhqQXZRbWYzVlc5NFhEWE1oVlpDbU94RVF4dEtjR3dFWVpNcENqTFJ6UEkyNTdKVUM5TThId1QyZER3NUpZOUN4V0diOW54c1Z0QQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 05 Nov 2026 12:58:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "골프장",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 장남, 주진우 명예훼손 고소…“해군기지 골프장 간 적 없다” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE14TUNyYWJETzhhUUlPUmFWWUkxWkpkVHFGOVVmT2xBdjhqQXZRbWYzVlc5NFhEWE1oVlpDbU94RVF4dEtjR3dFWVpNcENqTFJ6UEkyNTdKVUM5TThId1QyZER3NUpZOUN4V0diOW54c1Z0QQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 05 Nov 2026 12:58:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "없다",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "이 대통령 장남, 주진우 명예훼손 고소…“해군기지 골프장 간 적 없다” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE14TUNyYWJETzhhUUlPUmFWWUkxWkpkVHFGOVVmT2xBdjhqQXZRbWYzVlc5NFhEWE1oVlpDbU94RVF4dEtjR3dFWVpNcENqTFJ6UEkyNTdKVUM5TThId1QyZER3NUpZOUN4V0diOW54c1Z0QQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 05 Nov 2026 12:58:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "전문윤석열",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[전문]윤석열, 항소심 최후 진술 “헌법 지키기 위해 계엄한 것” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13YktwTHhZcEp5aU1rZGt6eGZLMnRUWGdzMm50OTU4MEJCY1M0X01QRFdxcUlKdjRPTm1XR1lqUWN6bmh6T3d2RmxYQjBRZ21Id2J1WUJYUTRzUdIBX0FVX3lxTE5PNE1ZOFVBWWhFSkZRblp5ak9UZXhHMFd4Zjgyem9ESWZJa0ZrNG1qVzR5VnlzQy0zdWV0eEhweld3N2J1Y2J4OFNVT05DM3FrT01JRFZzbXhFZVphQTVn?oc=5",
-          "source": "Google News",
-          "published": "Thu, 05 Nov 2026 10:41:00 GMT"
+          "published": "Thu, 05 Nov 2026 10:44:00 GMT"
         }
       ]
     },
@@ -299,257 +576,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "[전문]윤석열, 항소심 최후 진술 “헌법 지키기 위해 계엄한 것” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13YktwTHhZcEp5aU1rZGt6eGZLMnRUWGdzMm50OTU4MEJCY1M0X01QRFdxcUlKdjRPTm1XR1lqUWN6bmh6T3d2RmxYQjBRZ21Id2J1WUJYUTRzUdIBX0FVX3lxTE5PNE1ZOFVBWWhFSkZRblp5ak9UZXhHMFd4Zjgyem9ESWZJa0ZrNG1qVzR5VnlzQy0zdWV0eEhweld3N2J1Y2J4OFNVT05DM3FrT01JRFZzbXhFZVphQTVn?oc=5",
+          "title": "‘내란 우두머리’ 尹 전 대통령 내년 1월 26일 항소심 선고 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbkt4VTZlcGV1c284WW5iWGhYMkhMZktyNm5mdC1RRENJenFveTZ1Qjk0a2hCRW5OQzBhUExyRXlKUW5xdVVLY2lUWlV1RnZRRzNiUW5nUnlMZmVmbkFrWjFCWXZ3LUdrdFotVnZMd21PRENQV2FpWlRMNzRqdUp6YXk4VnRKTDQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 05 Nov 2026 10:41:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "최후",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[전문]윤석열, 항소심 최후 진술 “헌법 지키기 위해 계엄한 것” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13YktwTHhZcEp5aU1rZGt6eGZLMnRUWGdzMm50OTU4MEJCY1M0X01QRFdxcUlKdjRPTm1XR1lqUWN6bmh6T3d2RmxYQjBRZ21Id2J1WUJYUTRzUdIBX0FVX3lxTE5PNE1ZOFVBWWhFSkZRblp5ak9UZXhHMFd4Zjgyem9ESWZJa0ZrNG1qVzR5VnlzQy0zdWV0eEhweld3N2J1Y2J4OFNVT05DM3FrT01JRFZzbXhFZVphQTVn?oc=5",
-          "source": "Google News",
-          "published": "Thu, 05 Nov 2026 10:41:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "진술",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[전문]윤석열, 항소심 최후 진술 “헌법 지키기 위해 계엄한 것” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13YktwTHhZcEp5aU1rZGt6eGZLMnRUWGdzMm50OTU4MEJCY1M0X01QRFdxcUlKdjRPTm1XR1lqUWN6bmh6T3d2RmxYQjBRZ21Id2J1WUJYUTRzUdIBX0FVX3lxTE5PNE1ZOFVBWWhFSkZRblp5ak9UZXhHMFd4Zjgyem9ESWZJa0ZrNG1qVzR5VnlzQy0zdWV0eEhweld3N2J1Y2J4OFNVT05DM3FrT01JRFZzbXhFZVphQTVn?oc=5",
-          "source": "Google News",
-          "published": "Thu, 05 Nov 2026 10:41:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "헌법",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[전문]윤석열, 항소심 최후 진술 “헌법 지키기 위해 계엄한 것” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13YktwTHhZcEp5aU1rZGt6eGZLMnRUWGdzMm50OTU4MEJCY1M0X01QRFdxcUlKdjRPTm1XR1lqUWN6bmh6T3d2RmxYQjBRZ21Id2J1WUJYUTRzUdIBX0FVX3lxTE5PNE1ZOFVBWWhFSkZRblp5ak9UZXhHMFd4Zjgyem9ESWZJa0ZrNG1qVzR5VnlzQy0zdWV0eEhweld3N2J1Y2J4OFNVT05DM3FrT01JRFZzbXhFZVphQTVn?oc=5",
-          "source": "Google News",
-          "published": "Thu, 05 Nov 2026 10:41:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "지키기",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[전문]윤석열, 항소심 최후 진술 “헌법 지키기 위해 계엄한 것” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13YktwTHhZcEp5aU1rZGt6eGZLMnRUWGdzMm50OTU4MEJCY1M0X01QRFdxcUlKdjRPTm1XR1lqUWN6bmh6T3d2RmxYQjBRZ21Id2J1WUJYUTRzUdIBX0FVX3lxTE5PNE1ZOFVBWWhFSkZRblp5ak9UZXhHMFd4Zjgyem9ESWZJa0ZrNG1qVzR5VnlzQy0zdWV0eEhweld3N2J1Y2J4OFNVT05DM3FrT01JRFZzbXhFZVphQTVn?oc=5",
-          "source": "Google News",
-          "published": "Thu, 05 Nov 2026 10:41:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "계엄",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[전문]윤석열, 항소심 최후 진술 “헌법 지키기 위해 계엄한 것” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13YktwTHhZcEp5aU1rZGt6eGZLMnRUWGdzMm50OTU4MEJCY1M0X01QRFdxcUlKdjRPTm1XR1lqUWN6bmh6T3d2RmxYQjBRZ21Id2J1WUJYUTRzUdIBX0FVX3lxTE5PNE1ZOFVBWWhFSkZRblp5ak9UZXhHMFd4Zjgyem9ESWZJa0ZrNG1qVzR5VnlzQy0zdWV0eEhweld3N2J1Y2J4OFNVT05DM3FrT01JRFZzbXhFZVphQTVn?oc=5",
-          "source": "Google News",
-          "published": "Thu, 05 Nov 2026 10:41:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "트럼프",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프, 헤그세스 ‘참패 희생양’ 삼나…내각·백악관 개편 예상도 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aQ0pKaGJzNkVMVUNHdHJXRFJxcFY3Q3phUHdBZEpsWHQtSG1rYUIybnlGb05feVlzWE5mOGRKQ1pLM1ZCckpabHdXM3NHS0Z1Nll5dmc1emxYTXM?oc=5",
-          "source": "Google News",
-          "published": "Thu, 05 Nov 2026 18:35:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "헤그세스",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프, 헤그세스 ‘참패 희생양’ 삼나…내각·백악관 개편 예상도 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aQ0pKaGJzNkVMVUNHdHJXRFJxcFY3Q3phUHdBZEpsWHQtSG1rYUIybnlGb05feVlzWE5mOGRKQ1pLM1ZCckpabHdXM3NHS0Z1Nll5dmc1emxYTXM?oc=5",
-          "source": "Google News",
-          "published": "Thu, 05 Nov 2026 18:35:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "참패",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프, 헤그세스 ‘참패 희생양’ 삼나…내각·백악관 개편 예상도 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aQ0pKaGJzNkVMVUNHdHJXRFJxcFY3Q3phUHdBZEpsWHQtSG1rYUIybnlGb05feVlzWE5mOGRKQ1pLM1ZCckpabHdXM3NHS0Z1Nll5dmc1emxYTXM?oc=5",
-          "source": "Google News",
-          "published": "Thu, 05 Nov 2026 18:35:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "희생양",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프, 헤그세스 ‘참패 희생양’ 삼나…내각·백악관 개편 예상도 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aQ0pKaGJzNkVMVUNHdHJXRFJxcFY3Q3phUHdBZEpsWHQtSG1rYUIybnlGb05feVlzWE5mOGRKQ1pLM1ZCckpabHdXM3NHS0Z1Nll5dmc1emxYTXM?oc=5",
-          "source": "Google News",
-          "published": "Thu, 05 Nov 2026 18:35:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "삼나내각백악관",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프, 헤그세스 ‘참패 희생양’ 삼나…내각·백악관 개편 예상도 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aQ0pKaGJzNkVMVUNHdHJXRFJxcFY3Q3phUHdBZEpsWHQtSG1rYUIybnlGb05feVlzWE5mOGRKQ1pLM1ZCckpabHdXM3NHS0Z1Nll5dmc1emxYTXM?oc=5",
-          "source": "Google News",
-          "published": "Thu, 05 Nov 2026 18:35:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "개편",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "트럼프, 헤그세스 ‘참패 희생양’ 삼나…내각·백악관 개편 예상도 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aQ0pKaGJzNkVMVUNHdHJXRFJxcFY3Q3phUHdBZEpsWHQtSG1rYUIybnlGb05feVlzWE5mOGRKQ1pLM1ZCckpabHdXM3NHS0Z1Nll5dmc1emxYTXM?oc=5",
-          "source": "Google News",
-          "published": "Thu, 05 Nov 2026 18:35:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "공소취소",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "공소취소 권한 빼도 우회로 존재…‘대통령 수혜’ 가능성 다분 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yXzlkTUJTX1BNa0VsbWdmRDhNM2JKTUhfbFFDLTMyOHRwWFZTV2RZZGVmMUJHaG9QUUZhaGtYcXZjdjE1RHdvck9oR01oLTZseHJSVFhBbFlZd9IBX0FVX3lxTFBkMlRtWEoycFQxeUlNdmNEd00xS3ktSDV6RzFwOUZ3em5JMDhyM1BMQ2hUY1QzZDRWQXJJUk1tY1Fvb1ZEMXkyYXpuWXZDWXMyMmRjWU40TUxHb3ZkX2w4?oc=5",
-          "source": "Google News",
-          "published": "Thu, 05 Nov 2026 12:29:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "권한",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "공소취소 권한 빼도 우회로 존재…‘대통령 수혜’ 가능성 다분 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yXzlkTUJTX1BNa0VsbWdmRDhNM2JKTUhfbFFDLTMyOHRwWFZTV2RZZGVmMUJHaG9QUUZhaGtYcXZjdjE1RHdvck9oR01oLTZseHJSVFhBbFlZd9IBX0FVX3lxTFBkMlRtWEoycFQxeUlNdmNEd00xS3ktSDV6RzFwOUZ3em5JMDhyM1BMQ2hUY1QzZDRWQXJJUk1tY1Fvb1ZEMXkyYXpuWXZDWXMyMmRjWU40TUxHb3ZkX2w4?oc=5",
-          "source": "Google News",
-          "published": "Thu, 05 Nov 2026 12:29:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "빼도",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "공소취소 권한 빼도 우회로 존재…‘대통령 수혜’ 가능성 다분 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yXzlkTUJTX1BNa0VsbWdmRDhNM2JKTUhfbFFDLTMyOHRwWFZTV2RZZGVmMUJHaG9QUUZhaGtYcXZjdjE1RHdvck9oR01oLTZseHJSVFhBbFlZd9IBX0FVX3lxTFBkMlRtWEoycFQxeUlNdmNEd00xS3ktSDV6RzFwOUZ3em5JMDhyM1BMQ2hUY1QzZDRWQXJJUk1tY1Fvb1ZEMXkyYXpuWXZDWXMyMmRjWU40TUxHb3ZkX2w4?oc=5",
-          "source": "Google News",
-          "published": "Thu, 05 Nov 2026 12:29:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "우회",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "공소취소 권한 빼도 우회로 존재…‘대통령 수혜’ 가능성 다분 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yXzlkTUJTX1BNa0VsbWdmRDhNM2JKTUhfbFFDLTMyOHRwWFZTV2RZZGVmMUJHaG9QUUZhaGtYcXZjdjE1RHdvck9oR01oLTZseHJSVFhBbFlZd9IBX0FVX3lxTFBkMlRtWEoycFQxeUlNdmNEd00xS3ktSDV6RzFwOUZ3em5JMDhyM1BMQ2hUY1QzZDRWQXJJUk1tY1Fvb1ZEMXkyYXpuWXZDWXMyMmRjWU40TUxHb3ZkX2w4?oc=5",
-          "source": "Google News",
-          "published": "Thu, 05 Nov 2026 12:29:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "존재대통령",
-      "count": 1,
-      "category": "PERSON",
-      "articles": [
-        {
-          "title": "공소취소 권한 빼도 우회로 존재…‘대통령 수혜’ 가능성 다분 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yXzlkTUJTX1BNa0VsbWdmRDhNM2JKTUhfbFFDLTMyOHRwWFZTV2RZZGVmMUJHaG9QUUZhaGtYcXZjdjE1RHdvck9oR01oLTZseHJSVFhBbFlZd9IBX0FVX3lxTFBkMlRtWEoycFQxeUlNdmNEd00xS3ktSDV6RzFwOUZ3em5JMDhyM1BMQ2hUY1QzZDRWQXJJUk1tY1Fvb1ZEMXkyYXpuWXZDWXMyMmRjWU40TUxHb3ZkX2w4?oc=5",
-          "source": "Google News",
-          "published": "Thu, 05 Nov 2026 12:29:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "수혜",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "공소취소 권한 빼도 우회로 존재…‘대통령 수혜’ 가능성 다분 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yXzlkTUJTX1BNa0VsbWdmRDhNM2JKTUhfbFFDLTMyOHRwWFZTV2RZZGVmMUJHaG9QUUZhaGtYcXZjdjE1RHdvck9oR01oLTZseHJSVFhBbFlZd9IBX0FVX3lxTFBkMlRtWEoycFQxeUlNdmNEd00xS3ktSDV6RzFwOUZ3em5JMDhyM1BMQ2hUY1QzZDRWQXJJUk1tY1Fvb1ZEMXkyYXpuWXZDWXMyMmRjWU40TUxHb3ZkX2w4?oc=5",
-          "source": "Google News",
-          "published": "Thu, 05 Nov 2026 12:29:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "가능",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "공소취소 권한 빼도 우회로 존재…‘대통령 수혜’ 가능성 다분 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yXzlkTUJTX1BNa0VsbWdmRDhNM2JKTUhfbFFDLTMyOHRwWFZTV2RZZGVmMUJHaG9QUUZhaGtYcXZjdjE1RHdvck9oR01oLTZseHJSVFhBbFlZd9IBX0FVX3lxTFBkMlRtWEoycFQxeUlNdmNEd00xS3ktSDV6RzFwOUZ3em5JMDhyM1BMQ2hUY1QzZDRWQXJJUk1tY1Fvb1ZEMXkyYXpuWXZDWXMyMmRjWU40TUxHb3ZkX2w4?oc=5",
-          "source": "Google News",
-          "published": "Thu, 05 Nov 2026 12:29:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "다분",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "공소취소 권한 빼도 우회로 존재…‘대통령 수혜’ 가능성 다분 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yXzlkTUJTX1BNa0VsbWdmRDhNM2JKTUhfbFFDLTMyOHRwWFZTV2RZZGVmMUJHaG9QUUZhaGtYcXZjdjE1RHdvck9oR01oLTZseHJSVFhBbFlZd9IBX0FVX3lxTFBkMlRtWEoycFQxeUlNdmNEd00xS3ktSDV6RzFwOUZ3em5JMDhyM1BMQ2hUY1QzZDRWQXJJUk1tY1Fvb1ZEMXkyYXpuWXZDWXMyMmRjWU40TUxHb3ZkX2w4?oc=5",
-          "source": "Google News",
-          "published": "Thu, 05 Nov 2026 12:29:00 GMT"
+          "published": "Thu, 05 Nov 2026 10:44:00 GMT"
         }
       ]
     }
