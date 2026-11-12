@@ -1,194 +1,131 @@
 {
   "language": "en",
-  "last_updated": 1794421897.899076,
+  "last_updated": 1794446766.4764574,
   "count": 40,
   "trends": [
-    {
-      "word": "Updates",
-      "count": 4,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "SS United States live updates: How to watch historic vessel sinking off Florida coast - 6abc Philadelphia",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNT2dqbjNScGZtYXF0TFpWM3JHRzcxRU56NmczZ2F4bjJfYjlVRUx5UUFLcy1kZVFmRkVoUGVyQ3pqckd4eG9JUElBMUtjMHhnRzZkUWRCeVc4TkRjd3pnU29YWUw2TzFiT3gyZmhLd1dhcG5oTUFXamthOHczS0hqY3dYUG4tdTRsTFZkTWk4ejhKSHByNGZBZWgwZDhZcU0xU3RCOURJQVE2UFU5ajhtYThZdDZPUUVoTS1uRk5FWjA5anU2ek9oS0NEQVNRYjhTSUlNeGFsd1pEbmpNZkE?oc=5",
-          "source": "Google News",
-          "published": "Wed, 11 Nov 2026 17:01:00 GMT"
-        },
-        {
-          "title": "Iran War Updates: Iran vows not to part with \"single particle of enriched nuclear material\" as standoff continues - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JdnI2N05uOHdtZFhtb0U3MGN6bEhNN05QbE85RV81UGRMenBqY04tWXhLU1MxRzR6NWxZOUx5cnNzYmRwRFEwRWJnbi1Cc0JpMUt2aW53VEpWOFA0cEptN2xLLVB6S1RxNDlydWs5MGsySnprakktTlkwUmxqODQ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 11 Nov 2026 18:03:00 GMT"
-        },
-        {
-          "title": "Stock Market Today: Nasdaq Jumps at Open After CoreWeave Earnings — Live Updates - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdnhyVlZiYkxnRTlZMm9YMWh5TGhpSkpKaDQ5WW0xYkVBZ0dxTTlPYk0xUG1jSzF4RkJYTXctRFNpeHVRb2NUNFo2UkduaHo5R0NkcWRGR1hoZmU3ZzZvQlBmZ2FRcE84XzhhbE5PYzB1Y213bC0wdExHaWRhZnlLVDliWkhqMlk?oc=5",
-          "source": "Google News",
-          "published": "Wed, 11 Nov 2026 17:50:00 GMT"
-        },
-        {
-          "title": "NFL news, live updates: Browns to start Deshaun Watson in Week 10; Vikings trade for QB Kirk Cousins - Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVGdKczhRTlRUUFZFdGVtU0tZSHl3S2tlbjJ1YTc2bXZEU2NPWGF3T215dVpoT2VrN19kREhFWWQ2bklPQUJkeUVwdWZ6THprY3lTSXN5amk2b3kxSU50MHZvNjJjSWE0RjJnNXE3TC1HOXUyazRZNjZEaDBFcnJmbkhrdzR6OGc?oc=5",
-          "source": "Google News",
-          "published": "Wed, 11 Nov 2026 17:28:37 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Iran",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "For Families of Those Who Died in the Iran War, a Veterans Day of Profound Loss - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUFRadjFES3RzVThFMzZaM3czWmx3bkttQWtiRkc5SGJRbHJJSXU0aHh6WkRKdzh2cUZnZlBkd2xzbm5LdC16MU9KcmhwZmxHbnE1VGNVaTEtNUF1VWVFSllSSnR6R0hMYnNtRUZmQVF4SGkyZU1SWjRtZ05oZ2NHTzZMMVNVWmN4?oc=5",
-          "source": "Google News",
-          "published": "Wed, 11 Nov 2026 16:09:40 GMT"
-        },
-        {
-          "title": "Iran War Updates: Iran vows not to part with \"single particle of enriched nuclear material\" as standoff continues - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JdnI2N05uOHdtZFhtb0U3MGN6bEhNN05QbE85RV81UGRMenBqY04tWXhLU1MxRzR6NWxZOUx5cnNzYmRwRFEwRWJnbi1Cc0JpMUt2aW53VEpWOFA0cEptN2xLLVB6S1RxNDlydWs5MGsySnprakktTlkwUmxqODQ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 11 Nov 2026 18:03:00 GMT"
-        }
-      ]
-    },
     {
       "word": "Live",
       "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "SS United States live updates: How to watch historic vessel sinking off Florida coast - 6abc Philadelphia",
+          "title": "SS United States live updates: All valves open as sinking process continues off Florida coast - 6abc Philadelphia",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNT2dqbjNScGZtYXF0TFpWM3JHRzcxRU56NmczZ2F4bjJfYjlVRUx5UUFLcy1kZVFmRkVoUGVyQ3pqckd4eG9JUElBMUtjMHhnRzZkUWRCeVc4TkRjd3pnU29YWUw2TzFiT3gyZmhLd1dhcG5oTUFXamthOHczS0hqY3dYUG4tdTRsTFZkTWk4ejhKSHByNGZBZWgwZDhZcU0xU3RCOURJQVE2UFU5ajhtYThZdDZPUUVoTS1uRk5FWjA5anU2ek9oS0NEQVNRYjhTSUlNeGFsd1pEbmpNZkE?oc=5",
           "source": "Google News",
-          "published": "Wed, 11 Nov 2026 17:01:00 GMT"
+          "published": "Thu, 12 Nov 2026 01:16:00 GMT"
         },
         {
           "title": "Stock Market Today: Nasdaq Jumps at Open After CoreWeave Earnings — Live Updates - WSJ",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdnhyVlZiYkxnRTlZMm9YMWh5TGhpSkpKaDQ5WW0xYkVBZ0dxTTlPYk0xUG1jSzF4RkJYTXctRFNpeHVRb2NUNFo2UkduaHo5R0NkcWRGR1hoZmU3ZzZvQlBmZ2FRcE84XzhhbE5PYzB1Y213bC0wdExHaWRhZnlLVDliWkhqMlk?oc=5",
           "source": "Google News",
-          "published": "Wed, 11 Nov 2026 17:50:00 GMT"
+          "published": "Wed, 11 Nov 2026 21:49:00 GMT"
         },
         {
-          "title": "NFL news, live updates: Browns to start Deshaun Watson in Week 10; Vikings trade for QB Kirk Cousins - Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVGdKczhRTlRUUFZFdGVtU0tZSHl3S2tlbjJ1YTc2bXZEU2NPWGF3T215dVpoT2VrN19kREhFWWQ2bklPQUJkeUVwdWZ6THprY3lTSXN5amk2b3kxSU50MHZvNjJjSWE0RjJnNXE3TC1HOXUyazRZNjZEaDBFcnJmbkhrdzR6OGc?oc=5",
+          "title": "SpaceX Starship Flight 15 live updates: T-2 days to SpaceX's 1st-ever double Starship landing attempt - Space",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR2NsZVpDNUticGl0NTB1VUJYUHhVVTlkTHN3RnZCcXNZTHZ5d0JNaGZGMGlxdV9HS1A5VF9QNl9sMm5HT3NIVVZObDVJMnk1dDhuRHJ6WE95eXhkNVJDS3JRdThhREpIdnZCUG5PRnF3R0hscjZOWFJDRHNPdERlVVZSTU9mc2xXcXlmbGI2RHFzcUp2SUl2YnhEOEF5SVBEelhaSy1oc0xMV3JxLVRkd1FXSGoxLTdTR3Z1OA?oc=5",
           "source": "Google News",
-          "published": "Wed, 11 Nov 2026 17:28:37 GMT"
+          "published": "Wed, 11 Nov 2026 16:30:50 GMT"
         }
       ]
     },
     {
-      "word": "Trump",
-      "count": 2,
+      "word": "Updates",
+      "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Democrat says Trump has ‘something to hide’ after White House threatens oversight efforts - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQUVtQ3NHbTNvN1VUWnZvYklSdFQyZXZ6MWhnSllNZzNiYWlYS1k0RlUwWXhDRktuWW9JUDNCTFU0ajM1Z05KY3dQX0d4cko4ZGp3UVZreEpueGszdVRGaXcwWEF3RmRmcUYyZmp1UXdNaGVTaUJKa09iVVd0M2VBenN0M2dldkcxalludExZZnNFZllIOTMxYXBEdFQ?oc=5",
+          "title": "SS United States live updates: All valves open as sinking process continues off Florida coast - 6abc Philadelphia",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNT2dqbjNScGZtYXF0TFpWM3JHRzcxRU56NmczZ2F4bjJfYjlVRUx5UUFLcy1kZVFmRkVoUGVyQ3pqckd4eG9JUElBMUtjMHhnRzZkUWRCeVc4TkRjd3pnU29YWUw2TzFiT3gyZmhLd1dhcG5oTUFXamthOHczS0hqY3dYUG4tdTRsTFZkTWk4ejhKSHByNGZBZWgwZDhZcU0xU3RCOURJQVE2UFU5ajhtYThZdDZPUUVoTS1uRk5FWjA5anU2ek9oS0NEQVNRYjhTSUlNeGFsd1pEbmpNZkE?oc=5",
           "source": "Google News",
-          "published": "Wed, 11 Nov 2026 16:56:00 GMT"
+          "published": "Thu, 12 Nov 2026 01:16:00 GMT"
         },
         {
-          "title": "Trump Visits Arlington Cemetery as His Proposed Arch Faces Growing Opposition - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbW1pbGhFa1BtUVJRR3ZES2dXZzllanJ3enR0VDRnajYyX1NQREVPMjlPa0h5REFxTkV5bXdRVWMtLXRHQkE1Tzdlbm1PeTRTdDk5ZGVoR3Z6d1paRUFlS18zaVBLQTJQUXRVa3l5UUNQdmhKMC1KeHNVT0FtS0toekhHQ0NYMzZE?oc=5",
+          "title": "Stock Market Today: Nasdaq Jumps at Open After CoreWeave Earnings — Live Updates - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdnhyVlZiYkxnRTlZMm9YMWh5TGhpSkpKaDQ5WW0xYkVBZ0dxTTlPYk0xUG1jSzF4RkJYTXctRFNpeHVRb2NUNFo2UkduaHo5R0NkcWRGR1hoZmU3ZzZvQlBmZ2FRcE84XzhhbE5PYzB1Y213bC0wdExHaWRhZnlLVDliWkhqMlk?oc=5",
           "source": "Google News",
-          "published": "Wed, 11 Nov 2026 10:03:55 GMT"
+          "published": "Wed, 11 Nov 2026 21:49:00 GMT"
+        },
+        {
+          "title": "SpaceX Starship Flight 15 live updates: T-2 days to SpaceX's 1st-ever double Starship landing attempt - Space",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR2NsZVpDNUticGl0NTB1VUJYUHhVVTlkTHN3RnZCcXNZTHZ5d0JNaGZGMGlxdV9HS1A5VF9QNl9sMm5HT3NIVVZObDVJMnk1dDhuRHJ6WE95eXhkNVJDS3JRdThhREpIdnZCUG5PRnF3R0hscjZOWFJDRHNPdERlVVZSTU9mc2xXcXlmbGI2RHFzcUp2SUl2YnhEOEF5SVBEelhaSy1oc0xMV3JxLVRkd1FXSGoxLTdTR3Z1OA?oc=5",
+          "source": "Google News",
+          "published": "Wed, 11 Nov 2026 16:30:50 GMT"
         }
       ]
     },
     {
-      "word": "House",
+      "word": "Probes",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Democrat says Trump has ‘something to hide’ after White House threatens oversight efforts - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQUVtQ3NHbTNvN1VUWnZvYklSdFQyZXZ6MWhnSllNZzNiYWlYS1k0RlUwWXhDRktuWW9JUDNCTFU0ajM1Z05KY3dQX0d4cko4ZGp3UVZreEpueGszdVRGaXcwWEF3RmRmcUYyZmp1UXdNaGVTaUJKa09iVVd0M2VBenN0M2dldkcxalludExZZnNFZllIOTMxYXBEdFQ?oc=5",
+          "title": "White House confronts Democrats over planned probes, claiming possible ‘criminality’ - AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMkF3VkJLSWtHYzVKNWo1bC1RYmhjSTZLV3lIdjJPSDRudEVXR0tNM0M4VWVtcHJ6VHQ5ME84SGlCVmYyWGRha2NZR1ZZdHQ4dVlsVG1vUXJFdzVoYnIxSlNfZ1NzQ1FWcTNYMFp1RlJEZUx0MkJlZ0pFRGZrX19nNG1QZVYwM1ZrSmtCb1ZPNUFSM28?oc=5",
           "source": "Google News",
-          "published": "Wed, 11 Nov 2026 16:56:00 GMT"
+          "published": "Wed, 11 Nov 2026 22:15:00 GMT"
         },
         {
-          "title": "House effectively ends Hegseth impeachment. And, 3 men accused of plotting U.K. attacks - NPR",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRGhlVThwT2hMM1VuY2FNM21GbFloXzRZYWNYeDRJVG5ZTkRuLTVfRW9pMElCNzVpOXQzOWtETXN3ck9xZWVZaWRSQ0JQWXBiblRnNlJNb2pnbWdCOGphYUhsb3RzOHF1aXZFODZ2WFJLZldEaVItUktER3FCdEdnTUV3ZG9RczIyUUljQWxuV05iQ0dTR2w0QXFkLTFLeHI2bzQ0ajlXZkNGelhkamRtUHln?oc=5",
+          "title": "NASA's twin ESCAPADE Mars probes slingshot around Earth in unprecedented double 'gravity assist' - Space",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYjF0MGR6SXJDTmJoaUstWWRxQ2VwYUZJWjRZZXZTZ0FBSDFCOFVJTXM1RXhJb290QUh1TV9hSV9CeWpHTDNqWXRQbGd3SzZaWldSQ2NQejBFU2tTd2NsOTl1aXhqQldOOTBueTdsSkVqZlMxaUFBN05wQmkxMXNLWk5nM2pFRk92VWZiVVJnTWhxcXFvVUdBZ0RLMFRaMmV6OEFCNExEU1QxOEdrVUtuckVqN3lJaklHbnZMX01QczliWVU?oc=5",
           "source": "Google News",
-          "published": "Wed, 11 Nov 2026 12:21:59 GMT"
+          "published": "Tue, 10 Nov 2026 11:00:00 GMT"
         }
       ]
     },
     {
-      "word": "men",
+      "word": "Building",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "House effectively ends Hegseth impeachment. And, 3 men accused of plotting U.K. attacks - NPR",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRGhlVThwT2hMM1VuY2FNM21GbFloXzRZYWNYeDRJVG5ZTkRuLTVfRW9pMElCNzVpOXQzOWtETXN3ck9xZWVZaWRSQ0JQWXBiblRnNlJNb2pnbWdCOGphYUhsb3RzOHF1aXZFODZ2WFJLZldEaVItUktER3FCdEdnTUV3ZG9RczIyUUljQWxuV05iQ0dTR2w0QXFkLTFLeHI2bzQ0ajlXZkNGelhkamRtUHln?oc=5",
+          "title": "Brooklyn building collapse: 1 dead, several injured in Flatbush, NY - ABC7 New York",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWGxYems3T1dGcG5ob3R6aFo5VHhELXNLR0djOTJDWHJLQjEyeTV5TF9WRnR1TTByMkFVQmtJLTk5blA1bk9ZNzg3QnFVeDZwY2dFdXRUcHlvcWU1Q1BGQVkwRFBFd3FhLWItRUx4NXVtdzZBdC1MZlBnTGxFLVZWMGllLW0wdG8wbUxkWkh6Zi1Nb1N6WHptdUNDdUc0dlh6QUJR0gGoAUFVX3lxTE5EcDNUNEdPdThKYmhEM3F6aVJNQWFJNUpuSTVvWDdwbUI5dFduUTRQNWxHaXMzcTNtTGZGVmR5X1JBaE5JV09xZDdTeGtaVVlyZmlWZG5pSlU1VHBUX085azRUaW9fRWFqTzRoQmlsQ283MG9LQmhLUDN1WW9RUXhxZ2RhQ1duMElqSDBDU3h2bGVtLXNtc05PX3ByZFU3V19TMGg3QnZtWg?oc=5",
           "source": "Google News",
-          "published": "Wed, 11 Nov 2026 12:21:59 GMT"
+          "published": "Thu, 12 Nov 2026 00:37:37 GMT"
         },
         {
-          "title": "Women experience migraines more than men. Here's a specialist's guide to managing the pain. - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80TE5qSEk1OUxBdXR4NFRIakNuN2NlTm1qSXBXZGNlekl6R3gzaFpHbkJZWmlRdGszZ3JJR0l6STQ3MEJ6TnF3cjZZNWo3ZUdqMTktTm8tbXVmMEFoTTV1a2RjZHpXa3RlM1pXLU5mOHZCWE9iNmZKNENzQl9JMjg?oc=5",
+          "title": "How Trump maneuvered to the brink of building his 250-foot triumphal arch - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbGh2RVBkNTA1WmJtV1hCVXU4RUFMakMxTkhhNDlTSmM4aHJZR0FZUEpVWnM3NjlGWHNtLXE0Y21PWnI3S0xPWl9YY3N1clM3bzlOTDVNZmk3Qm5hLS04LVhNR0hKV0NtNkY4RnEtVWxfelVKaWlzWkpTWXhQb2FTYlRuWHB2bEt3TXZtXzRSTnIwMkswOFdPUk90ODh3NXVibmFkU3RxVmk5YVZVZTFR?oc=5",
           "source": "Google News",
-          "published": "Wed, 11 Nov 2026 12:00:11 GMT"
+          "published": "Wed, 11 Nov 2026 22:02:44 GMT"
         }
       ]
     },
     {
-      "word": "Attacks",
+      "word": "Students",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "House effectively ends Hegseth impeachment. And, 3 men accused of plotting U.K. attacks - NPR",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRGhlVThwT2hMM1VuY2FNM21GbFloXzRZYWNYeDRJVG5ZTkRuLTVfRW9pMElCNzVpOXQzOWtETXN3ck9xZWVZaWRSQ0JQWXBiblRnNlJNb2pnbWdCOGphYUhsb3RzOHF1aXZFODZ2WFJLZldEaVItUktER3FCdEdnTUV3ZG9RczIyUUljQWxuV05iQ0dTR2w0QXFkLTFLeHI2bzQ0ajlXZkNGelhkamRtUHln?oc=5",
+          "title": "Two west suburban elementary students killed in fiery crash with train, district says - NBC 5 Chicago",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVVpyQlZMRkdfVG9Ubkk5V1d6elhqa05iRGpwbU1MUnVhQ2k1VVJodDhuNTQtM1BudDhvek02c3ZXaFcyc2ZwY2l4YnBuX3pzbkFMWGpVTXV3a19NeDk3N3NPSGFEOUtDalBFSEQwaEYtNS1XOEFSZUVKRlhtdXptZkpQMEtKSnB6eUtpazRaTUFJVG9nVnoydnJraGQ4aTdSeFJiaGZaczJ3dlpRSVhfUFJSWHhMZGtvMG4tT1NGLUNHZTI4emFfQVdKNkxJYkVSbzdGOTdQbjXSAeABQVVfeXFMTnNQS0ZETFlMWTNsb3laejMtWHlxVEhfMkYwS094TEg5NlRKSEFxRWJrVVVpX1ZsYzlXQnQwYUhwMkp0QzRQOUJxX3FPTW9IeGI3bG5fMno2NXBuZUl3cF9nc01IbmZuMkJkZTZMeW9kcUMzdXViWGxNMXp2X0xsand3dThYZ1htRE9ad1ktaHI1cG9sN0xDajFoN2pqN0hST1BTeFNZd1o4VEkyN1k1X2RiSTJUTGl1MmptVnVJaFFVYmlham5lUTdOMWI5cThGNlBWYm1ad21VdU1yaWhyS1I?oc=5",
           "source": "Google News",
-          "published": "Wed, 11 Nov 2026 12:21:59 GMT"
+          "published": "Wed, 11 Nov 2026 21:43:02 GMT"
         },
         {
-          "title": "Energy Drinks Loaded With Bizarre Chemicals Are Causing Heart Attacks in Healthy Young People - Futurism",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQVJTbnFpQlpYczUtQV90VWhEa0xNcFkxcnh5eEMxVVZDbFpDR3hKY0hJaE1GWWd4NkhkVWRfZTNkOER4V1dIeDdwMmc3X19CQmFrdEJwMjdSSXk1dUpReFdaLXF5Yi1sSm1LdkRIYWd5UDAybTVNT01BdzlkcndpekVyRzFCa3pIU3c?oc=5",
+          "title": "Black Ole Miss students say they immediately confronted classmates who made monkey noises — and one kept doing it - New York Post",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaVRpTU5VY0RRVWx3TWRxdEJrNU1lTmI5WVlhQThVSThKM0RCUXdYYmdlellSREQ5d3BzU1gtVEI5OE1XZU9ibzgtWGVBVFdFbHNTQVdIaHpwcVBEQ3dFYm1JT1FQeXZ1ZFctMHFXaHo0alRJd1R0RUd2N1VEcVh6c2ZuQjY4ZDFMYk1BNWd6cFYyZ1JNc0UxYVZZZ296amhtRUk4Z3ZXRzNpZGhmWW9nVmZlemdzeV95SDN5WlQxLURMQlJXQVo1eXBkNHZjdFlNdElqMy1MeVJkVW1ZcVU2OXBzRzU?oc=5",
           "source": "Google News",
-          "published": "Tue, 10 Nov 2026 16:46:50 GMT"
+          "published": "Wed, 11 Nov 2026 14:08:00 GMT"
         }
       ]
     },
     {
-      "word": "War",
+      "word": "Crash",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "For Families of Those Who Died in the Iran War, a Veterans Day of Profound Loss - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUFRadjFES3RzVThFMzZaM3czWmx3bkttQWtiRkc5SGJRbHJJSXU0aHh6WkRKdzh2cUZnZlBkd2xzbm5LdC16MU9KcmhwZmxHbnE1VGNVaTEtNUF1VWVFSllSSnR6R0hMYnNtRUZmQVF4SGkyZU1SWjRtZ05oZ2NHTzZMMVNVWmN4?oc=5",
+          "title": "Two west suburban elementary students killed in fiery crash with train, district says - NBC 5 Chicago",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVVpyQlZMRkdfVG9Ubkk5V1d6elhqa05iRGpwbU1MUnVhQ2k1VVJodDhuNTQtM1BudDhvek02c3ZXaFcyc2ZwY2l4YnBuX3pzbkFMWGpVTXV3a19NeDk3N3NPSGFEOUtDalBFSEQwaEYtNS1XOEFSZUVKRlhtdXptZkpQMEtKSnB6eUtpazRaTUFJVG9nVnoydnJraGQ4aTdSeFJiaGZaczJ3dlpRSVhfUFJSWHhMZGtvMG4tT1NGLUNHZTI4emFfQVdKNkxJYkVSbzdGOTdQbjXSAeABQVVfeXFMTnNQS0ZETFlMWTNsb3laejMtWHlxVEhfMkYwS094TEg5NlRKSEFxRWJrVVVpX1ZsYzlXQnQwYUhwMkp0QzRQOUJxX3FPTW9IeGI3bG5fMno2NXBuZUl3cF9nc01IbmZuMkJkZTZMeW9kcUMzdXViWGxNMXp2X0xsand3dThYZ1htRE9ad1ktaHI1cG9sN0xDajFoN2pqN0hST1BTeFNZd1o4VEkyN1k1X2RiSTJUTGl1MmptVnVJaFFVYmlham5lUTdOMWI5cThGNlBWYm1ad21VdU1yaWhyS1I?oc=5",
           "source": "Google News",
-          "published": "Wed, 11 Nov 2026 16:09:40 GMT"
+          "published": "Wed, 11 Nov 2026 21:43:02 GMT"
         },
         {
-          "title": "Iran War Updates: Iran vows not to part with \"single particle of enriched nuclear material\" as standoff continues - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JdnI2N05uOHdtZFhtb0U3MGN6bEhNN05QbE85RV81UGRMenBqY04tWXhLU1MxRzR6NWxZOUx5cnNzYmRwRFEwRWJnbi1Cc0JpMUt2aW53VEpWOFA0cEptN2xLLVB6S1RxNDlydWs5MGsySnprakktTlkwUmxqODQ?oc=5",
+          "title": "Frankie Muniz, the 'Malcolm in the Middle' star, hospitalized after Daytona crash - ESPN",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObGlZLWYyclBwUEZKcFVzNHdxb2Fwdl9OOThXZ0ZNMUpLb2tsMzhOdm1CaWhCOC1xSHhYb09ZMzk3NVNpZk9XQ3VuZTk0cVBIQ1ozUk9fb0E1cHlnMHpTeTNpYV9ScnpVc3RxTGpqdnUwR29JbDJfaTVoNlFwSWwwdW5yM1hnN1NjbF9IZTNLRXUzUkk4QVhtbjhOcE56Y1VrVEdr?oc=5",
           "source": "Google News",
-          "published": "Wed, 11 Nov 2026 18:03:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Agenda",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Capitol agenda: The left looks to Van Hollen for a shake-up - Politico",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdjZvQ2M3RUwtSXhnQVM4WUs2RXdtOXlnclBfbG56SV84MGc4bHFCejFpMzVSZ2twTkZYcTBkSkJOamwyNlM4OWhiRnZqeEZsYWhsZnB0OUk5ZmJnTUFPSVdfbC1Ob3dMTTNsSU5TTUxod255bEh3S3JNTzRCY05kaXozNXR5WGZEN09ubTdIV3RHcWRtcnBZZTdobG1SQQ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 11 Nov 2026 13:00:00 GMT"
-        },
-        {
-          "title": "US could lose measles-free status soon as RFK Jr’s pushes anti-vaccine agenda - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQlJTZU90X3plSHJFUlZnYjRPZkRQNGFPX2R6MDNzTWhRVG1ackVYUVNVazVnZlNzQTF6LVZ6R0JaQ0s3bG9PRUwxZlZ1bm9Sb0VoYlk0ZmpQNk9GdG8zdmZYcDRWdlhtallrWWF5Yld0ajdjUUxKTC1NTzdxdGw4OGtMc0JYc2hmR2dHOHNPUEtMcVk?oc=5",
-          "source": "Google News",
-          "published": "Wed, 11 Nov 2026 17:09:00 GMT"
+          "published": "Thu, 12 Nov 2026 00:08:00 GMT"
         }
       ]
     },
@@ -198,73 +135,188 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "SS United States live updates: How to watch historic vessel sinking off Florida coast - 6abc Philadelphia",
+          "title": "SS United States live updates: All valves open as sinking process continues off Florida coast - 6abc Philadelphia",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNT2dqbjNScGZtYXF0TFpWM3JHRzcxRU56NmczZ2F4bjJfYjlVRUx5UUFLcy1kZVFmRkVoUGVyQ3pqckd4eG9JUElBMUtjMHhnRzZkUWRCeVc4TkRjd3pnU29YWUw2TzFiT3gyZmhLd1dhcG5oTUFXamthOHczS0hqY3dYUG4tdTRsTFZkTWk4ejhKSHByNGZBZWgwZDhZcU0xU3RCOURJQVE2UFU5ajhtYThZdDZPUUVoTS1uRk5FWjA5anU2ek9oS0NEQVNRYjhTSUlNeGFsd1pEbmpNZkE?oc=5",
           "source": "Google News",
-          "published": "Wed, 11 Nov 2026 17:01:00 GMT"
+          "published": "Thu, 12 Nov 2026 01:16:00 GMT"
         },
         {
-          "title": "Could USMNT stomach losing Pochettino to Man United? Who could replace him? - ESPN",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVJ3ZTlJeWd5TUkxQlp5YVV0Sy1maE5lcWxIMGRrVXBQYkdoWXhpbVhXRXg4S3EzRFVzaFJUaloyZU1DTEM3UnUzcHZpT2dBMFhtRkZQSjB4RGtYajJGUWZhcko3QWdUbGxHQ3EwUFdRU25pYzZxUmpnR21qM1lFeFViUjNoWXFQSGhnTmVLZGJQT1ZEN21qTHJR?oc=5",
+          "title": "Manchester United makes formal contact with U.S. Soccer over Mauricio Pochettino move - Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMHdIWm1PT0RfSjZaTFk1SkxDVXQ0T3B1VklCMHVQU3lrcEJZbXpYc3ZkWUJ6SGl2NTZGeEdmSEhWQnRuMEpmZThOTll6c1JiODBuZkN5LWhlSl9qbU1VWjVOSmt5LWpEWkxBNWI4SXItVFlqcHpEUV8tTV9KR19JU3ZzT0tCQk1IemY1SThSaEY4N3BtRzBrMFJBb2FwY203SWFNYXR5cXdNaXV5WldvYWNQZ1RTdjZMQ1lBT2UwVmdzN3ZLM3pBS0VvRkJRbnUyZEstSzB2dFozM2ZhWGZBT3ZlRFp3RTA?oc=5",
           "source": "Google News",
-          "published": "Wed, 11 Nov 2026 15:28:00 GMT"
+          "published": "Wed, 11 Nov 2026 21:23:31 GMT"
         }
       ]
     },
     {
-      "word": "Historic",
+      "word": "Open",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "SS United States live updates: How to watch historic vessel sinking off Florida coast - 6abc Philadelphia",
+          "title": "SS United States live updates: All valves open as sinking process continues off Florida coast - 6abc Philadelphia",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNT2dqbjNScGZtYXF0TFpWM3JHRzcxRU56NmczZ2F4bjJfYjlVRUx5UUFLcy1kZVFmRkVoUGVyQ3pqckd4eG9JUElBMUtjMHhnRzZkUWRCeVc4TkRjd3pnU29YWUw2TzFiT3gyZmhLd1dhcG5oTUFXamthOHczS0hqY3dYUG4tdTRsTFZkTWk4ejhKSHByNGZBZWgwZDhZcU0xU3RCOURJQVE2UFU5ajhtYThZdDZPUUVoTS1uRk5FWjA5anU2ek9oS0NEQVNRYjhTSUlNeGFsd1pEbmpNZkE?oc=5",
           "source": "Google News",
-          "published": "Wed, 11 Nov 2026 17:01:00 GMT"
+          "published": "Thu, 12 Nov 2026 01:16:00 GMT"
         },
         {
-          "title": "NASA’s Voyager 1 to Cross Historic One Light-Day Milestone on Nov. 18 - CNET",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCMldlTzROWmdVVHRPank5Q3paMzh5eUIxQVZJSmx2emRKa2xvejYwaVdqMHk5MklYQ21rdGtBZXRhQWZ3NXZrcTNqa1FvcEpuYjlhYkRsSF8yZ2NTeE9MekFVT2tlbWtwQU56cDdzU2o1QVBs?oc=5",
+          "title": "Stock Market Today: Nasdaq Jumps at Open After CoreWeave Earnings — Live Updates - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdnhyVlZiYkxnRTlZMm9YMWh5TGhpSkpKaDQ5WW0xYkVBZ0dxTTlPYk0xUG1jSzF4RkJYTXctRFNpeHVRb2NUNFo2UkduaHo5R0NkcWRGR1hoZmU3ZzZvQlBmZ2FRcE84XzhhbE5PYzB1Y213bC0wdExHaWRhZnlLVDliWkhqMlk?oc=5",
           "source": "Google News",
-          "published": "Mon, 09 Nov 2026 20:33:49 GMT"
+          "published": "Wed, 11 Nov 2026 21:49:00 GMT"
         }
       ]
     },
     {
-      "word": "CEO",
+      "word": "Black",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "How Nvidia CEO Jensen Huang's extramarital affair could cause collateral damage in Washington - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOHhUdHFXb3pRd05pMHh1LWcxVldiZEQ4ZWhnaDdPMnFuTk9DUU9iWENpZ2ZaUUZ1cnZNNDU1cDJtNTRVeG5wMVpDdFlmQU9SRWJnYmhWZzVMQjlvdi12c1Y5NlRDZWZhVFF3MUFpaGlpOWtzbVA5ZEx0NV82T3Uxeng4bzlEX3F4bTllU25GVDdkWGZGNjhUaXZCRzdVam5ZUTZVYVhFQlY?oc=5",
+          "title": "Black Ole Miss students say they immediately confronted classmates who made monkey noises — and one kept doing it - New York Post",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaVRpTU5VY0RRVWx3TWRxdEJrNU1lTmI5WVlhQThVSThKM0RCUXdYYmdlellSREQ5d3BzU1gtVEI5OE1XZU9ibzgtWGVBVFdFbHNTQVdIaHpwcVBEQ3dFYm1JT1FQeXZ1ZFctMHFXaHo0alRJd1R0RUd2N1VEcVh6c2ZuQjY4ZDFMYk1BNWd6cFYyZ1JNc0UxYVZZZ296amhtRUk4Z3ZXRzNpZGhmWW9nVmZlemdzeV95SDN5WlQxLURMQlJXQVo1eXBkNHZjdFlNdElqMy1MeVJkVW1ZcVU2OXBzRzU?oc=5",
           "source": "Google News",
-          "published": "Wed, 11 Nov 2026 18:08:00 GMT"
+          "published": "Wed, 11 Nov 2026 14:08:00 GMT"
         },
         {
-          "title": "JetBlue's CEO has pushed back on creditor fears and is betting on premium to return to profitability - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xU0tVam5fRjN1VzRqUUVnOVFXZm8tTGxTR0drcUVWcHZvOGc0ZnNDTGhOWmVrQUlyX1VGQkozTTE2WWQ5QllKOFBzdnBCbzBlbFZneHpzYy1INlJvVGJyc0pMVHJocVE?oc=5",
+          "title": "Iconic first image of black hole holds up to scrutiny - Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0MDI0NVpKVGpOZ0RsaTF2b25LeXpBbEdTRENsS25oeF9wbS1kVUNyaVFJNDVaTVNQcnUwS3BTcjNRcWhJdnUza3E3UUkxdFRJSjhJaGE5RnpBeW5LT3Z3?oc=5",
           "source": "Google News",
-          "published": "Wed, 11 Nov 2026 15:00:02 GMT"
+          "published": "Wed, 11 Nov 2026 18:43:08 GMT"
         }
       ]
     },
     {
-      "word": "David",
+      "word": "Major",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "David Walliams suffers another career blow after sexual misconduct allegations - Page Six",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOWIxUHpQNE5zcFFZQmFKbzFxbGFZMlVsTW5GYmNFcFhsemVQRDg3bW9jWGF1bU9NdWpvbnZtR3BELUhLOTdqeFNWVDRyOFl5X0FYTkFrM001b0tlMzFtbkZBbzhxNnhNQ0lYMll6NWg2TF9LRUdnUnhvM2YwVzVkM0cyVm5GYTJIWkNpWjZ3NlBVTWxGb0w1amw3VFBWeEp2R1FoZWM0R1plMm9abWttT0FGazh0UHI2M1c2a3BBeEI2cGs?oc=5",
+          "title": "Russia and Ukraine agree to a large prisoner exchange as talks end with no major breakthrough - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZGJLX21sUk93S0w1eDdOMEtDdC1ETk4zZ0E4d1dna2xHaWxFSXIxdGFFYVV0Wm5pWlc1Uk5YczNsa09FcGJtMHpKU1VnTkVJejR2YTJxR0ZFQXE3dndEcS0teGNKbHJBS3R1N1lHbUxuR3hOQ3hyZ2s5elFlbkFBVTJMNmE3TW1vN2x5dDl2VzBvWWpiWU5WRGxBLWJTNVZBUUE?oc=5",
           "source": "Google News",
-          "published": "Wed, 11 Nov 2026 13:07:00 GMT"
+          "published": "Wed, 11 Nov 2026 19:43:00 GMT"
         },
         {
-          "title": "David Leitch’s ‘How to Rob a Bank’: First Reactions - The Hollywood Reporter",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZkRkdU9nZlotVnkzYVoycER3cjFMb0hOcEdxWFVWbmM1bHZGTWRNLW0yQ1J3VmFoR3hxNjBhTE9udEdnREdqLTV1RkcwU1BncE1naXJiQWE1Y0RSVDJod19ITF9kUURSazR6ZDNpajJaZmE5cEFrZE5PRlBpZ2tOUEw2bkRaUVh1eTdQNWhXbGlCLXFkeXFNcjBrbVZub0drWUR3TzBGUEJjcmI5RGRZ?oc=5",
+          "title": "Pixel users are getting a major Android Auto update – and it rivals Siri AI - ZDNET",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uZ3JWVFBWWnVWZThhRlB6ZkRUZlNVV3RqVkpNZHE3d1JLYnVTYVVQa0tlVFpCU1dXRjQzazJCdkdYbW5OX3ZOaG5BWnh2NG0wc0hYQU01a2pfSXU2RUhoeE9iYkk4N0NEaWtFbnJxWm1RTGd2ZWc?oc=5",
           "source": "Google News",
-          "published": "Wed, 11 Nov 2026 11:12:23 GMT"
+          "published": "Wed, 11 Nov 2026 17:11:19 GMT"
+        }
+      ]
+    },
+    {
+      "word": "American",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Pope Leo arrives in Peru for homecoming leg of his Latin American trip - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRW95OGMzNFBhTFhqRWViS3d3UUR1Y1RoUk5NbHowZnBEeGNUendSTXlkZnp3YVpBSU9wNUt6aE8zT182Ri1WdkpyNFNKTFhFT2tVM2U0RHlpZlhOdjdseXRvTXkzQ3RfYWtiUFhiUFN2Tlczb2pyRHR1eDZ0ZlIzaW1hdnAwbU4wNkZEeEFldXAxVXFqV05tVDBZOS1XVkdieW9lX24wUktOa0dmUnBXVkdOUjNjQ3N4aXRwM3cwR0lQVk9KRTQ4ZEFHTQ?oc=5",
+          "source": "Google News",
+          "published": "Wed, 11 Nov 2026 23:04:21 GMT"
+        },
+        {
+          "title": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck - The Verge",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT1ZMdTc5MVN5aWw3bFpVakNuenRCeHEzd3NLZ2tCbWRUZ0xOMmF6Q1ZhcGdGb2x4NjNndUhRa1VHSmFYeDJuam9DLU5IcjBaRG5pa3dTTzFsLXNySlVwcEIwYnNhWlFDakdod3BoaUd5d2V4MFlmeTM5XzZwY1RFOHNkWUdaenM?oc=5",
+          "source": "Google News",
+          "published": "Wed, 11 Nov 2026 17:09:58 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Strike",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Spain: Housing crisis prompts first general strike in 14 years, before hundreds of thousands join protest - DW.com",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMHh4aG9MdmZ1bUU3cGp1ZnRMVExTMkl2NmZZTk1fOVBuYmdBWS1uNUdUTFFtVUFZSlk1YUxURDE2bGlmdW1OZDEyei0tRnNvZ3VPX0xlODlMSHFqX0FYbnlnZnh0YnJzelI2cmdnZnZNUGZSMTVIamsteFp4WUc3UmlOTHNEUW9LX3FMN3R0OTJiVXVEbGdPTkhCMS1NNDREMGfSAaIBQVVfeXFMT0ZTT2Q0bS1peXI1bGstaVNyYzRhSjBfR19zWlp0WHZ3ZmdmSk5YZkZvRWtNRXRzMlNmdnRtckpJNTlyeV9KWHhOcm1ycS1yS0xCczdiUnZwRXVQVWhZN3NxOFpYbE9nTGJUN3ctWl9jYUVRaEozZVE3M1Q2ZVp0MVJiNEVuaXczYzdvcGJBUGtadEJHUkVwY0h3dzY2aXViQW5B?oc=5",
+          "source": "Google News",
+          "published": "Wed, 11 Nov 2026 23:14:32 GMT"
+        },
+        {
+          "title": "Iran escalates in Hormuz, claims strike on Omani island it says 'enemy' uses for US military ops - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ05QYWVnRGU4aV9FS1pCczA3dU9VY3U4VnVoeVNLLUg2aC1XQndBUlozb1FtaXZFRndfcjVYS2dRTG1LS3JxUFcyX2ZQNlJtZlVBRElmZkZyZFZUYUw1TkdQdEtRWURZd1B3a0VWV1FCTzVrYm5MWmdtbkxYNmNNTlF5d2hiNTJCQ2pGbVBfZktVczBXZHBfUU5YOVZQaXRuemh6SjFJX3jSAa4BQVVfeXFMT1hVZFdKM2dWV2kzRkVWazJIUmlZekZhM1RpVnhMc0ZBWTNYa0Q0THpRRVM5VmhPcGdrdTNLLVhfYVhtekFSbDhJUG4wRWQteEdNcGJjVlZaVURvdTlFRGdSWDY0NjB1dVlxQ2ZzV283NmFzdGJGNFJOSGpxLUJ6R2w0QXhXMWREMjlJYzFnUk4tSElzdDJBakFKLTFnOWVyTFBYRTJzZGlFN1ZwREFn?oc=5",
+          "source": "Google News",
+          "published": "Wed, 11 Nov 2026 22:48:03 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Spacex",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "SpaceX Starship Flight 15 live updates: T-2 days to SpaceX's 1st-ever double Starship landing attempt - Space",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR2NsZVpDNUticGl0NTB1VUJYUHhVVTlkTHN3RnZCcXNZTHZ5d0JNaGZGMGlxdV9HS1A5VF9QNl9sMm5HT3NIVVZObDVJMnk1dDhuRHJ6WE95eXhkNVJDS3JRdThhREpIdnZCUG5PRnF3R0hscjZOWFJDRHNPdERlVVZSTU9mc2xXcXlmbGI2RHFzcUp2SUl2YnhEOEF5SVBEelhaSy1oc0xMV3JxLVRkd1FXSGoxLTdTR3Z1OA?oc=5",
+          "source": "Google News",
+          "published": "Wed, 11 Nov 2026 16:30:50 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Starship",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "SpaceX Starship Flight 15 live updates: T-2 days to SpaceX's 1st-ever double Starship landing attempt - Space",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR2NsZVpDNUticGl0NTB1VUJYUHhVVTlkTHN3RnZCcXNZTHZ5d0JNaGZGMGlxdV9HS1A5VF9QNl9sMm5HT3NIVVZObDVJMnk1dDhuRHJ6WE95eXhkNVJDS3JRdThhREpIdnZCUG5PRnF3R0hscjZOWFJDRHNPdERlVVZSTU9mc2xXcXlmbGI2RHFzcUp2SUl2YnhEOEF5SVBEelhaSy1oc0xMV3JxLVRkd1FXSGoxLTdTR3Z1OA?oc=5",
+          "source": "Google News",
+          "published": "Wed, 11 Nov 2026 16:30:50 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Double",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "SpaceX Starship Flight 15 live updates: T-2 days to SpaceX's 1st-ever double Starship landing attempt - Space",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR2NsZVpDNUticGl0NTB1VUJYUHhVVTlkTHN3RnZCcXNZTHZ5d0JNaGZGMGlxdV9HS1A5VF9QNl9sMm5HT3NIVVZObDVJMnk1dDhuRHJ6WE95eXhkNVJDS3JRdThhREpIdnZCUG5PRnF3R0hscjZOWFJDRHNPdERlVVZSTU9mc2xXcXlmbGI2RHFzcUp2SUl2YnhEOEF5SVBEelhaSy1oc0xMV3JxLVRkd1FXSGoxLTdTR3Z1OA?oc=5",
+          "source": "Google News",
+          "published": "Wed, 11 Nov 2026 16:30:50 GMT"
+        },
+        {
+          "title": "NASA's twin ESCAPADE Mars probes slingshot around Earth in unprecedented double 'gravity assist' - Space",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYjF0MGR6SXJDTmJoaUstWWRxQ2VwYUZJWjRZZXZTZ0FBSDFCOFVJTXM1RXhJb290QUh1TV9hSV9CeWpHTDNqWXRQbGd3SzZaWldSQ2NQejBFU2tTd2NsOTl1aXhqQldOOTBueTdsSkVqZlMxaUFBN05wQmkxMXNLWk5nM2pFRk92VWZiVVJnTWhxcXFvVUdBZ0RLMFRaMmV6OEFCNExEU1QxOEdrVUtuckVqN3lJaklHbnZMX01QczliWVU?oc=5",
+          "source": "Google News",
+          "published": "Tue, 10 Nov 2026 11:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Home",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’ - The Verge",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZzlBNjJtSUFwMVFQU1B3TmlVWTBxcDNlSnZTOXl3WHNxMnRpTDFTZzJKYkxQS0pXRTlIMjhYb1YzQ1duXzkta1BEVUJ0dDVVYTJ4WEdVb3R2Y1ZqLU5UQlVnakpNdHJiUkpEck82RU9ReDBDUVQxUFQ3WjJGTVl5NQ?oc=5",
+          "source": "Google News",
+          "published": "Wed, 11 Nov 2026 22:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Elimination",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Jenna Dewan says she’s ‘bummed out’ following shocking ‘DWTS’ elimination - Entertainment Weekly",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdHdXQjBlSGdQM2c0RjlzMFZ1X1dVX0ZxeW5EMXFlWlJsLWxZTGc1R2g5eTJDRWJhZEd2MTFoa2Y1YmNOWU42UXZ2U0hHMTBMUHpGQVpXMG45QjJBTFVzd2h4cjJoTV9OZlQyMk5nWEhwWGxsTERldzQ1aTB6WGx4bktXbWg1VUg5WFE?oc=5",
+          "source": "Google News",
+          "published": "Wed, 11 Nov 2026 15:08:58 GMT"
+        },
+        {
+          "title": "‘A tremendous step backwards’: US could lose measles elimination status under RFK Jr’s leadership - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQlJTZU90X3plSHJFUlZnYjRPZkRQNGFPX2R6MDNzTWhRVG1ackVYUVNVazVnZlNzQTF6LVZ6R0JaQ0s3bG9PRUwxZlZ1bm9Sb0VoYlk0ZmpQNk9GdG8zdmZYcDRWdlhtallrWWF5Yld0ajdjUUxKTC1NTzdxdGw4OGtMc0JYc2hmR2dHOHNPUEtMcVk?oc=5",
+          "source": "Google News",
+          "published": "Wed, 11 Nov 2026 20:40:00 GMT"
         }
       ]
     },
@@ -274,29 +326,16 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "NFL news, live updates: Browns to start Deshaun Watson in Week 10; Vikings trade for QB Kirk Cousins - Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVGdKczhRTlRUUFZFdGVtU0tZSHl3S2tlbjJ1YTc2bXZEU2NPWGF3T215dVpoT2VrN19kREhFWWQ2bklPQUJkeUVwdWZ6THprY3lTSXN5amk2b3kxSU50MHZvNjJjSWE0RjJnNXE3TC1HOXUyazRZNjZEaDBFcnJmbkhrdzR6OGc?oc=5",
+          "title": "Former NFL coach Rex Ryan turns himself in after allegedly hitting Nashville pedestrians - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORkRvMTltb1ZaWl8zY0loM0x5cktzSDdsSEQ5TjBNVUUwY0NBaDVzdS1abGF5V283YkRwSnR4LTg0cGJJRXdWR3ZvX19Sa3cyM3NVSzl2Q0lpWVRvN3Q5NndrU2lWRDQ0RWRpM21CMy14NEE0SkZyN3Y0OG9MX2FwSno4MU1oekh3QTZSMWtZZ19mREF1blFB?oc=5",
           "source": "Google News",
-          "published": "Wed, 11 Nov 2026 17:28:37 GMT"
+          "published": "Wed, 11 Nov 2026 22:30:00 GMT"
         },
         {
-          "title": "2026 NFL Midseason Report: First-Half Surprises, Second-Half Storylines and Super Bowl Picks - Sports Illustrated",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc0NnZzNDejZKd1pub3JvSXVnZngxLUZmT25aRk5LS2RidzlNUVk0NDIzbE9jR28xT1BvZ3A0RkpmaVBCQ0IzQ095UU1ZLUZxWkZPcHVpYnlKWk8zcmw4XzlBcFd1ZWdvTFgybkFsLWdSajhiZ3l5RERiN3RsRlRkbjAtQk0tbFE?oc=5",
+          "title": "NFL Fantasy 2026 Start 'Em, Sit 'Em: Wide receivers for Week 10 - NFL.com",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdHRYclpIMmg0S3h1cVBET1Z6V2xZMkxsT1JBaW9BZklSajN0SGQ1QmFMelNoN0F0UzN4eElzSjQ4T3lsV3R0MWdPNkUyX0ZmWjlTaGhzek5CaUVZUGxUSXhwOFpYa2VGeDB6Z1FCQk1Ea0lLb00xcFpfOTg3MlpsZUw2QkZGZ1U2MWZzUQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 11 Nov 2026 12:00:03 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Half",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "2026 NFL Midseason Report: First-Half Surprises, Second-Half Storylines and Super Bowl Picks - Sports Illustrated",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc0NnZzNDejZKd1pub3JvSXVnZngxLUZmT25aRk5LS2RidzlNUVk0NDIzbE9jR28xT1BvZ3A0RkpmaVBCQ0IzQ095UU1ZLUZxWkZPcHVpYnlKWk8zcmw4XzlBcFd1ZWdvTFgybkFsLWdSajhiZ3l5RERiN3RsRlRkbjAtQk0tbFE?oc=5",
-          "source": "Google News",
-          "published": "Wed, 11 Nov 2026 12:00:03 GMT"
+          "published": "Wed, 11 Nov 2026 18:23:04 GMT"
         }
       ]
     },
@@ -306,16 +345,100 @@
       "category": "NOUN",
       "articles": [
         {
+          "title": "NASA asks Earthlings to wave as Voyager 1 reaches a light-day away - The Register",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeUx3emZucklDV3E3dVVDQVZPTmhYSXdDRFB5Q1dMUFBJUThuekNpX3JvU2VjazctZFdqSXZQMHV0ZDIwd1N5TFhpcldsVFBIWHdrbFJ1a19oY2VyZGl1QlViNGo4NVl4UXhkaVpnb1U2dkNhSGJVWTF1Mk9hMS1rVFJKM0tMQzFsUHQ4dEFFaTJZbWZYdnZ0bXBSX1dvRU1WVHhQVUhqWjJyRm9IckppUXlGZXFLc29fVkZyVWZn?oc=5",
+          "source": "Google News",
+          "published": "Wed, 11 Nov 2026 14:13:20 GMT"
+        },
+        {
           "title": "NASA's twin ESCAPADE Mars probes slingshot around Earth in unprecedented double 'gravity assist' - Space",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYjF0MGR6SXJDTmJoaUstWWRxQ2VwYUZJWjRZZXZTZ0FBSDFCOFVJTXM1RXhJb290QUh1TV9hSV9CeWpHTDNqWXRQbGd3SzZaWldSQ2NQejBFU2tTd2NsOTl1aXhqQldOOTBueTdsSkVqZlMxaUFBN05wQmkxMXNLWk5nM2pFRk92VWZiVVJnTWhxcXFvVUdBZ0RLMFRaMmV6OEFCNExEU1QxOEdrVUtuckVqN3lJaklHbnZMX01QczliWVU?oc=5",
           "source": "Google News",
           "published": "Tue, 10 Nov 2026 11:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Measles",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘A tremendous step backwards’: US could lose measles elimination status under RFK Jr’s leadership - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQlJTZU90X3plSHJFUlZnYjRPZkRQNGFPX2R6MDNzTWhRVG1ackVYUVNVazVnZlNzQTF6LVZ6R0JaQ0s3bG9PRUwxZlZ1bm9Sb0VoYlk0ZmpQNk9GdG8zdmZYcDRWdlhtallrWWF5Yld0ajdjUUxKTC1NTzdxdGw4OGtMc0JYc2hmR2dHOHNPUEtMcVk?oc=5",
+          "source": "Google News",
+          "published": "Wed, 11 Nov 2026 20:40:00 GMT"
         },
         {
-          "title": "NASA’s Voyager 1 to Cross Historic One Light-Day Milestone on Nov. 18 - CNET",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCMldlTzROWmdVVHRPank5Q3paMzh5eUIxQVZJSmx2emRKa2xvejYwaVdqMHk5MklYQ21rdGtBZXRhQWZ3NXZrcTNqa1FvcEpuYjlhYkRsSF8yZ2NTeE9MekFVT2tlbWtwQU56cDdzU2o1QVBs?oc=5",
+          "title": "New measles case confirmed in central Iowa; potential exposure locations in Ankeny, Des Moines - KCCI",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb1FrNkdyT3c1bDhidlVEa25Eb0lwN29rcHozSmwteHZSOFJ1SzgzVzlSOExFTjdrNHdqdU1IQTFkOC1BczA2ZXlmeWZHVmJRYVFzVHp1dDRZbExVaENNak9oUzNucVY5emlQdG9ZZG9IRDUxUWN3eUtGSXQxZDBFeGRoTmdMcFFWMU9wUTNFbEwta0wzYVA5bl9nTWg?oc=5",
           "source": "Google News",
-          "published": "Mon, 09 Nov 2026 20:33:49 GMT"
+          "published": "Wed, 11 Nov 2026 22:07:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Jensen",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV0NCNjVPR0M2THpMdkhiTW5jZUlmVXJzNHk4YjZYeWtGZHc3Vk81V3czUXBBVjktcXlSLWs3MFdyWkRtcmRpV1BmY1hKckhyU3RYWEdsTWlGcnhFVFVNakRLLWZvREpURHJnRVVSdmZEcHJWU2p5YWJZX1pEWGRWRDB1aw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 12 Nov 2026 01:07:58 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Huang",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV0NCNjVPR0M2THpMdkhiTW5jZUlmVXJzNHk4YjZYeWtGZHc3Vk81V3czUXBBVjktcXlSLWs3MFdyWkRtcmRpV1BmY1hKckhyU3RYWEdsTWlGcnhFVFVNakRLLWZvREpURHJnRVVSdmZEcHJWU2p5YWJZX1pEWGRWRDB1aw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 12 Nov 2026 01:07:58 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Relationship",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV0NCNjVPR0M2THpMdkhiTW5jZUlmVXJzNHk4YjZYeWtGZHc3Vk81V3czUXBBVjktcXlSLWs3MFdyWkRtcmRpV1BmY1hKckhyU3RYWEdsTWlGcnhFVFVNakRLLWZvREpURHJnRVVSdmZEcHJWU2p5YWJZX1pEWGRWRDB1aw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 12 Nov 2026 01:07:58 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Nvidia",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV0NCNjVPR0M2THpMdkhiTW5jZUlmVXJzNHk4YjZYeWtGZHc3Vk81V3czUXBBVjktcXlSLWs3MFdyWkRtcmRpV1BmY1hKckhyU3RYWEdsTWlGcnhFVFVNakRLLWZvREpURHJnRVVSdmZEcHJWU2p5YWJZX1pEWGRWRDB1aw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 12 Nov 2026 01:07:58 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Executive",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV0NCNjVPR0M2THpMdkhiTW5jZUlmVXJzNHk4YjZYeWtGZHc3Vk81V3czUXBBVjktcXlSLWs3MFdyWkRtcmRpV1BmY1hKckhyU3RYWEdsTWlGcnhFVFVNakRLLWZvREpURHJnRVVSdmZEcHJWU2p5YWJZX1pEWGRWRDB1aw?oc=5",
+          "source": "Google News",
+          "published": "Thu, 12 Nov 2026 01:07:58 GMT"
         }
       ]
     },
@@ -325,88 +448,23 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Democrat says Trump has ‘something to hide’ after White House threatens oversight efforts - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQUVtQ3NHbTNvN1VUWnZvYklSdFQyZXZ6MWhnSllNZzNiYWlYS1k0RlUwWXhDRktuWW9JUDNCTFU0ajM1Z05KY3dQX0d4cko4ZGp3UVZreEpueGszdVRGaXcwWEF3RmRmcUYyZmp1UXdNaGVTaUJKa09iVVd0M2VBenN0M2dldkcxalludExZZnNFZllIOTMxYXBEdFQ?oc=5",
+          "title": "Democrat Scott Colom wins Mississippi Senate race - NPR",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNG1IdGdCaVV2RjNVUUwxbHhqMXBpUktSREFGUnZxZnVmZ01XbG5rakZNWVpBeFpqZW5fNE5mTnBNdmtNYjFVSkZGQjB5R2tKUEF5RUFBZWktcWdZTEdEZDd3UUk0RWViRTg2U1MzSFBRRHlublZ1ZUxDdUkyRk02dV9UMUg?oc=5",
           "source": "Google News",
-          "published": "Wed, 11 Nov 2026 16:56:00 GMT"
+          "published": "Thu, 12 Nov 2026 00:18:15 GMT"
         }
       ]
     },
     {
-      "word": "Something",
+      "word": "Scott",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Democrat says Trump has ‘something to hide’ after White House threatens oversight efforts - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQUVtQ3NHbTNvN1VUWnZvYklSdFQyZXZ6MWhnSllNZzNiYWlYS1k0RlUwWXhDRktuWW9JUDNCTFU0ajM1Z05KY3dQX0d4cko4ZGp3UVZreEpueGszdVRGaXcwWEF3RmRmcUYyZmp1UXdNaGVTaUJKa09iVVd0M2VBenN0M2dldkcxalludExZZnNFZllIOTMxYXBEdFQ?oc=5",
+          "title": "Democrat Scott Colom wins Mississippi Senate race - NPR",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNG1IdGdCaVV2RjNVUUwxbHhqMXBpUktSREFGUnZxZnVmZ01XbG5rakZNWVpBeFpqZW5fNE5mTnBNdmtNYjFVSkZGQjB5R2tKUEF5RUFBZWktcWdZTEdEZDd3UUk0RWViRTg2U1MzSFBRRHlublZ1ZUxDdUkyRk02dV9UMUg?oc=5",
           "source": "Google News",
-          "published": "Wed, 11 Nov 2026 16:56:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Hide",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Democrat says Trump has ‘something to hide’ after White House threatens oversight efforts - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQUVtQ3NHbTNvN1VUWnZvYklSdFQyZXZ6MWhnSllNZzNiYWlYS1k0RlUwWXhDRktuWW9JUDNCTFU0ajM1Z05KY3dQX0d4cko4ZGp3UVZreEpueGszdVRGaXcwWEF3RmRmcUYyZmp1UXdNaGVTaUJKa09iVVd0M2VBenN0M2dldkcxalludExZZnNFZllIOTMxYXBEdFQ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 11 Nov 2026 16:56:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "White",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Democrat says Trump has ‘something to hide’ after White House threatens oversight efforts - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQUVtQ3NHbTNvN1VUWnZvYklSdFQyZXZ6MWhnSllNZzNiYWlYS1k0RlUwWXhDRktuWW9JUDNCTFU0ajM1Z05KY3dQX0d4cko4ZGp3UVZreEpueGszdVRGaXcwWEF3RmRmcUYyZmp1UXdNaGVTaUJKa09iVVd0M2VBenN0M2dldkcxalludExZZnNFZllIOTMxYXBEdFQ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 11 Nov 2026 16:56:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Threatens",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Democrat says Trump has ‘something to hide’ after White House threatens oversight efforts - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQUVtQ3NHbTNvN1VUWnZvYklSdFQyZXZ6MWhnSllNZzNiYWlYS1k0RlUwWXhDRktuWW9JUDNCTFU0ajM1Z05KY3dQX0d4cko4ZGp3UVZreEpueGszdVRGaXcwWEF3RmRmcUYyZmp1UXdNaGVTaUJKa09iVVd0M2VBenN0M2dldkcxalludExZZnNFZllIOTMxYXBEdFQ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 11 Nov 2026 16:56:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Oversight",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Democrat says Trump has ‘something to hide’ after White House threatens oversight efforts - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQUVtQ3NHbTNvN1VUWnZvYklSdFQyZXZ6MWhnSllNZzNiYWlYS1k0RlUwWXhDRktuWW9JUDNCTFU0ajM1Z05KY3dQX0d4cko4ZGp3UVZreEpueGszdVRGaXcwWEF3RmRmcUYyZmp1UXdNaGVTaUJKa09iVVd0M2VBenN0M2dldkcxalludExZZnNFZllIOTMxYXBEdFQ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 11 Nov 2026 16:56:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Efforts",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Democrat says Trump has ‘something to hide’ after White House threatens oversight efforts - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQUVtQ3NHbTNvN1VUWnZvYklSdFQyZXZ6MWhnSllNZzNiYWlYS1k0RlUwWXhDRktuWW9JUDNCTFU0ajM1Z05KY3dQX0d4cko4ZGp3UVZreEpueGszdVRGaXcwWEF3RmRmcUYyZmp1UXdNaGVTaUJKa09iVVd0M2VBenN0M2dldkcxalludExZZnNFZllIOTMxYXBEdFQ?oc=5",
-          "source": "Google News",
-          "published": "Wed, 11 Nov 2026 16:56:00 GMT"
+          "published": "Thu, 12 Nov 2026 00:18:15 GMT"
         }
       ]
     },
@@ -416,75 +474,23 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Colom extends slim lead over Hyde-Smith in Mississippi Senate race - The Hill",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbXdKZjQyM2FpSnAyOENLWVhESnU3Y1pMWDlyNnVYQUswSjdldG82Wk5pTThaWVRHWVpRNG9EQndwdVdiUnh5YnZPSldBQkQwLTdHbnVMVlBIZUpTVldyVVFHOFJFRXVkaHE0NmJJRmRHdWpkRUtJU1RDeTBGQ1VScXRBc1Z0OURNcFBiaEpuQko1a1FHdzRNVVhEV2FRVnFFYmlsVHNKcjdRZ9IBrwFBVV95cUxPYVBzcm9Sd1JMc1B0azhlbWRCdWdGbEg0VEdXbmNTaHBla0NDVTlGcFcwa2ZPRU9SM3ZhVzMyZDF6blVuN0hHbXQ5MTN6X1ZBdVdJSFM2REJBc0xvYXEzYUNjcUhPTnV2eHpYUlRib0F1NW1QeVh3SWpNVnpGTjg5RWJGNkVoMEN1R1RoSXlrOThEdW1IM05EMTl5OURsalhUUDBiRzdNNGpDeFR5QUtv?oc=5",
+          "title": "Democrat Scott Colom wins Mississippi Senate race - NPR",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNG1IdGdCaVV2RjNVUUwxbHhqMXBpUktSREFGUnZxZnVmZ01XbG5rakZNWVpBeFpqZW5fNE5mTnBNdmtNYjFVSkZGQjB5R2tKUEF5RUFBZWktcWdZTEdEZDd3UUk0RWViRTg2U1MzSFBRRHlublZ1ZUxDdUkyRk02dV9UMUg?oc=5",
           "source": "Google News",
-          "published": "Wed, 11 Nov 2026 12:55:00 GMT"
+          "published": "Thu, 12 Nov 2026 00:18:15 GMT"
         }
       ]
     },
     {
-      "word": "Extends",
+      "word": "Wins",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Colom extends slim lead over Hyde-Smith in Mississippi Senate race - The Hill",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbXdKZjQyM2FpSnAyOENLWVhESnU3Y1pMWDlyNnVYQUswSjdldG82Wk5pTThaWVRHWVpRNG9EQndwdVdiUnh5YnZPSldBQkQwLTdHbnVMVlBIZUpTVldyVVFHOFJFRXVkaHE0NmJJRmRHdWpkRUtJU1RDeTBGQ1VScXRBc1Z0OURNcFBiaEpuQko1a1FHdzRNVVhEV2FRVnFFYmlsVHNKcjdRZ9IBrwFBVV95cUxPYVBzcm9Sd1JMc1B0azhlbWRCdWdGbEg0VEdXbmNTaHBla0NDVTlGcFcwa2ZPRU9SM3ZhVzMyZDF6blVuN0hHbXQ5MTN6X1ZBdVdJSFM2REJBc0xvYXEzYUNjcUhPTnV2eHpYUlRib0F1NW1QeVh3SWpNVnpGTjg5RWJGNkVoMEN1R1RoSXlrOThEdW1IM05EMTl5OURsalhUUDBiRzdNNGpDeFR5QUtv?oc=5",
+          "title": "Democrat Scott Colom wins Mississippi Senate race - NPR",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNG1IdGdCaVV2RjNVUUwxbHhqMXBpUktSREFGUnZxZnVmZ01XbG5rakZNWVpBeFpqZW5fNE5mTnBNdmtNYjFVSkZGQjB5R2tKUEF5RUFBZWktcWdZTEdEZDd3UUk0RWViRTg2U1MzSFBRRHlublZ1ZUxDdUkyRk02dV9UMUg?oc=5",
           "source": "Google News",
-          "published": "Wed, 11 Nov 2026 12:55:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Slim",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Colom extends slim lead over Hyde-Smith in Mississippi Senate race - The Hill",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbXdKZjQyM2FpSnAyOENLWVhESnU3Y1pMWDlyNnVYQUswSjdldG82Wk5pTThaWVRHWVpRNG9EQndwdVdiUnh5YnZPSldBQkQwLTdHbnVMVlBIZUpTVldyVVFHOFJFRXVkaHE0NmJJRmRHdWpkRUtJU1RDeTBGQ1VScXRBc1Z0OURNcFBiaEpuQko1a1FHdzRNVVhEV2FRVnFFYmlsVHNKcjdRZ9IBrwFBVV95cUxPYVBzcm9Sd1JMc1B0azhlbWRCdWdGbEg0VEdXbmNTaHBla0NDVTlGcFcwa2ZPRU9SM3ZhVzMyZDF6blVuN0hHbXQ5MTN6X1ZBdVdJSFM2REJBc0xvYXEzYUNjcUhPTnV2eHpYUlRib0F1NW1QeVh3SWpNVnpGTjg5RWJGNkVoMEN1R1RoSXlrOThEdW1IM05EMTl5OURsalhUUDBiRzdNNGpDeFR5QUtv?oc=5",
-          "source": "Google News",
-          "published": "Wed, 11 Nov 2026 12:55:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Lead",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Colom extends slim lead over Hyde-Smith in Mississippi Senate race - The Hill",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbXdKZjQyM2FpSnAyOENLWVhESnU3Y1pMWDlyNnVYQUswSjdldG82Wk5pTThaWVRHWVpRNG9EQndwdVdiUnh5YnZPSldBQkQwLTdHbnVMVlBIZUpTVldyVVFHOFJFRXVkaHE0NmJJRmRHdWpkRUtJU1RDeTBGQ1VScXRBc1Z0OURNcFBiaEpuQko1a1FHdzRNVVhEV2FRVnFFYmlsVHNKcjdRZ9IBrwFBVV95cUxPYVBzcm9Sd1JMc1B0azhlbWRCdWdGbEg0VEdXbmNTaHBla0NDVTlGcFcwa2ZPRU9SM3ZhVzMyZDF6blVuN0hHbXQ5MTN6X1ZBdVdJSFM2REJBc0xvYXEzYUNjcUhPTnV2eHpYUlRib0F1NW1QeVh3SWpNVnpGTjg5RWJGNkVoMEN1R1RoSXlrOThEdW1IM05EMTl5OURsalhUUDBiRzdNNGpDeFR5QUtv?oc=5",
-          "source": "Google News",
-          "published": "Wed, 11 Nov 2026 12:55:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Hyde",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Colom extends slim lead over Hyde-Smith in Mississippi Senate race - The Hill",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbXdKZjQyM2FpSnAyOENLWVhESnU3Y1pMWDlyNnVYQUswSjdldG82Wk5pTThaWVRHWVpRNG9EQndwdVdiUnh5YnZPSldBQkQwLTdHbnVMVlBIZUpTVldyVVFHOFJFRXVkaHE0NmJJRmRHdWpkRUtJU1RDeTBGQ1VScXRBc1Z0OURNcFBiaEpuQko1a1FHdzRNVVhEV2FRVnFFYmlsVHNKcjdRZ9IBrwFBVV95cUxPYVBzcm9Sd1JMc1B0azhlbWRCdWdGbEg0VEdXbmNTaHBla0NDVTlGcFcwa2ZPRU9SM3ZhVzMyZDF6blVuN0hHbXQ5MTN6X1ZBdVdJSFM2REJBc0xvYXEzYUNjcUhPTnV2eHpYUlRib0F1NW1QeVh3SWpNVnpGTjg5RWJGNkVoMEN1R1RoSXlrOThEdW1IM05EMTl5OURsalhUUDBiRzdNNGpDeFR5QUtv?oc=5",
-          "source": "Google News",
-          "published": "Wed, 11 Nov 2026 12:55:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Smith",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Colom extends slim lead over Hyde-Smith in Mississippi Senate race - The Hill",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbXdKZjQyM2FpSnAyOENLWVhESnU3Y1pMWDlyNnVYQUswSjdldG82Wk5pTThaWVRHWVpRNG9EQndwdVdiUnh5YnZPSldBQkQwLTdHbnVMVlBIZUpTVldyVVFHOFJFRXVkaHE0NmJJRmRHdWpkRUtJU1RDeTBGQ1VScXRBc1Z0OURNcFBiaEpuQko1a1FHdzRNVVhEV2FRVnFFYmlsVHNKcjdRZ9IBrwFBVV95cUxPYVBzcm9Sd1JMc1B0azhlbWRCdWdGbEg0VEdXbmNTaHBla0NDVTlGcFcwa2ZPRU9SM3ZhVzMyZDF6blVuN0hHbXQ5MTN6X1ZBdVdJSFM2REJBc0xvYXEzYUNjcUhPTnV2eHpYUlRib0F1NW1QeVh3SWpNVnpGTjg5RWJGNkVoMEN1R1RoSXlrOThEdW1IM05EMTl5OURsalhUUDBiRzdNNGpDeFR5QUtv?oc=5",
-          "source": "Google News",
-          "published": "Wed, 11 Nov 2026 12:55:00 GMT"
+          "published": "Thu, 12 Nov 2026 00:18:15 GMT"
         }
       ]
     },
@@ -494,10 +500,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Colom extends slim lead over Hyde-Smith in Mississippi Senate race - The Hill",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbXdKZjQyM2FpSnAyOENLWVhESnU3Y1pMWDlyNnVYQUswSjdldG82Wk5pTThaWVRHWVpRNG9EQndwdVdiUnh5YnZPSldBQkQwLTdHbnVMVlBIZUpTVldyVVFHOFJFRXVkaHE0NmJJRmRHdWpkRUtJU1RDeTBGQ1VScXRBc1Z0OURNcFBiaEpuQko1a1FHdzRNVVhEV2FRVnFFYmlsVHNKcjdRZ9IBrwFBVV95cUxPYVBzcm9Sd1JMc1B0azhlbWRCdWdGbEg0VEdXbmNTaHBla0NDVTlGcFcwa2ZPRU9SM3ZhVzMyZDF6blVuN0hHbXQ5MTN6X1ZBdVdJSFM2REJBc0xvYXEzYUNjcUhPTnV2eHpYUlRib0F1NW1QeVh3SWpNVnpGTjg5RWJGNkVoMEN1R1RoSXlrOThEdW1IM05EMTl5OURsalhUUDBiRzdNNGpDeFR5QUtv?oc=5",
+          "title": "Democrat Scott Colom wins Mississippi Senate race - NPR",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNG1IdGdCaVV2RjNVUUwxbHhqMXBpUktSREFGUnZxZnVmZ01XbG5rakZNWVpBeFpqZW5fNE5mTnBNdmtNYjFVSkZGQjB5R2tKUEF5RUFBZWktcWdZTEdEZDd3UUk0RWViRTg2U1MzSFBRRHlublZ1ZUxDdUkyRk02dV9UMUg?oc=5",
           "source": "Google News",
-          "published": "Wed, 11 Nov 2026 12:55:00 GMT"
+          "published": "Thu, 12 Nov 2026 00:18:15 GMT"
         }
       ]
     },
@@ -507,10 +513,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Colom extends slim lead over Hyde-Smith in Mississippi Senate race - The Hill",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbXdKZjQyM2FpSnAyOENLWVhESnU3Y1pMWDlyNnVYQUswSjdldG82Wk5pTThaWVRHWVpRNG9EQndwdVdiUnh5YnZPSldBQkQwLTdHbnVMVlBIZUpTVldyVVFHOFJFRXVkaHE0NmJJRmRHdWpkRUtJU1RDeTBGQ1VScXRBc1Z0OURNcFBiaEpuQko1a1FHdzRNVVhEV2FRVnFFYmlsVHNKcjdRZ9IBrwFBVV95cUxPYVBzcm9Sd1JMc1B0azhlbWRCdWdGbEg0VEdXbmNTaHBla0NDVTlGcFcwa2ZPRU9SM3ZhVzMyZDF6blVuN0hHbXQ5MTN6X1ZBdVdJSFM2REJBc0xvYXEzYUNjcUhPTnV2eHpYUlRib0F1NW1QeVh3SWpNVnpGTjg5RWJGNkVoMEN1R1RoSXlrOThEdW1IM05EMTl5OURsalhUUDBiRzdNNGpDeFR5QUtv?oc=5",
+          "title": "Democrat Scott Colom wins Mississippi Senate race - NPR",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNG1IdGdCaVV2RjNVUUwxbHhqMXBpUktSREFGUnZxZnVmZ01XbG5rakZNWVpBeFpqZW5fNE5mTnBNdmtNYjFVSkZGQjB5R2tKUEF5RUFBZWktcWdZTEdEZDd3UUk0RWViRTg2U1MzSFBRRHlublZ1ZUxDdUkyRk02dV9UMUg?oc=5",
           "source": "Google News",
-          "published": "Wed, 11 Nov 2026 12:55:00 GMT"
+          "published": "Thu, 12 Nov 2026 00:18:15 GMT"
         }
       ]
     },
@@ -520,36 +526,23 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Colom extends slim lead over Hyde-Smith in Mississippi Senate race - The Hill",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbXdKZjQyM2FpSnAyOENLWVhESnU3Y1pMWDlyNnVYQUswSjdldG82Wk5pTThaWVRHWVpRNG9EQndwdVdiUnh5YnZPSldBQkQwLTdHbnVMVlBIZUpTVldyVVFHOFJFRXVkaHE0NmJJRmRHdWpkRUtJU1RDeTBGQ1VScXRBc1Z0OURNcFBiaEpuQko1a1FHdzRNVVhEV2FRVnFFYmlsVHNKcjdRZ9IBrwFBVV95cUxPYVBzcm9Sd1JMc1B0azhlbWRCdWdGbEg0VEdXbmNTaHBla0NDVTlGcFcwa2ZPRU9SM3ZhVzMyZDF6blVuN0hHbXQ5MTN6X1ZBdVdJSFM2REJBc0xvYXEzYUNjcUhPTnV2eHpYUlRib0F1NW1QeVh3SWpNVnpGTjg5RWJGNkVoMEN1R1RoSXlrOThEdW1IM05EMTl5OURsalhUUDBiRzdNNGpDeFR5QUtv?oc=5",
+          "title": "Democrat Scott Colom wins Mississippi Senate race - NPR",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNG1IdGdCaVV2RjNVUUwxbHhqMXBpUktSREFGUnZxZnVmZ01XbG5rakZNWVpBeFpqZW5fNE5mTnBNdmtNYjFVSkZGQjB5R2tKUEF5RUFBZWktcWdZTEdEZDd3UUk0RWViRTg2U1MzSFBRRHlublZ1ZUxDdUkyRk02dV9UMUg?oc=5",
           "source": "Google News",
-          "published": "Wed, 11 Nov 2026 12:55:00 GMT"
+          "published": "Thu, 12 Nov 2026 00:18:15 GMT"
         }
       ]
     },
     {
-      "word": "Effectively",
+      "word": "Pete",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "House effectively ends Hegseth impeachment. And, 3 men accused of plotting U.K. attacks - NPR",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRGhlVThwT2hMM1VuY2FNM21GbFloXzRZYWNYeDRJVG5ZTkRuLTVfRW9pMElCNzVpOXQzOWtETXN3ck9xZWVZaWRSQ0JQWXBiblRnNlJNb2pnbWdCOGphYUhsb3RzOHF1aXZFODZ2WFJLZldEaVItUktER3FCdEdnTUV3ZG9RczIyUUljQWxuV05iQ0dTR2w0QXFkLTFLeHI2bzQ0ajlXZkNGelhkamRtUHln?oc=5",
+          "title": "Pete Hegseth and others reprimanded by guard at the Tomb of the Unknown Soldier - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMjg3SUZPY3B5VWpoLVFFYWF6Y3Rfa0ZIUDV5Vmg0TGVRYXFrZDFyaXhUMHpoelJ2UlZrUjdkTGlsTnpxNGdhaWRZVFc4RUNkbzlkd1U0cFJXbV9kcGsteXBUcGdNSHpsYWJDLWpsZTdzb2dpT3dSb2NYTzd2RmMtdkh4c3hwbGR6cTE1MnBxQkFDbU4yUW0tOTZhallWTXlTN2pvc21seU5SVmM2eW9VZndiUnBaWXlJbzItMEdab0RGUmxKajFBN2xDMmFsQQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 11 Nov 2026 12:21:59 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Ends",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "House effectively ends Hegseth impeachment. And, 3 men accused of plotting U.K. attacks - NPR",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRGhlVThwT2hMM1VuY2FNM21GbFloXzRZYWNYeDRJVG5ZTkRuLTVfRW9pMElCNzVpOXQzOWtETXN3ck9xZWVZaWRSQ0JQWXBiblRnNlJNb2pnbWdCOGphYUhsb3RzOHF1aXZFODZ2WFJLZldEaVItUktER3FCdEdnTUV3ZG9RczIyUUljQWxuV05iQ0dTR2w0QXFkLTFLeHI2bzQ0ajlXZkNGelhkamRtUHln?oc=5",
-          "source": "Google News",
-          "published": "Wed, 11 Nov 2026 12:21:59 GMT"
+          "published": "Wed, 11 Nov 2026 22:15:34 GMT"
         }
       ]
     },
@@ -559,75 +552,88 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "House effectively ends Hegseth impeachment. And, 3 men accused of plotting U.K. attacks - NPR",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRGhlVThwT2hMM1VuY2FNM21GbFloXzRZYWNYeDRJVG5ZTkRuLTVfRW9pMElCNzVpOXQzOWtETXN3ck9xZWVZaWRSQ0JQWXBiblRnNlJNb2pnbWdCOGphYUhsb3RzOHF1aXZFODZ2WFJLZldEaVItUktER3FCdEdnTUV3ZG9RczIyUUljQWxuV05iQ0dTR2w0QXFkLTFLeHI2bzQ0ajlXZkNGelhkamRtUHln?oc=5",
+          "title": "Pete Hegseth and others reprimanded by guard at the Tomb of the Unknown Soldier - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMjg3SUZPY3B5VWpoLVFFYWF6Y3Rfa0ZIUDV5Vmg0TGVRYXFrZDFyaXhUMHpoelJ2UlZrUjdkTGlsTnpxNGdhaWRZVFc4RUNkbzlkd1U0cFJXbV9kcGsteXBUcGdNSHpsYWJDLWpsZTdzb2dpT3dSb2NYTzd2RmMtdkh4c3hwbGR6cTE1MnBxQkFDbU4yUW0tOTZhallWTXlTN2pvc21seU5SVmM2eW9VZndiUnBaWXlJbzItMEdab0RGUmxKajFBN2xDMmFsQQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 11 Nov 2026 12:21:59 GMT"
+          "published": "Wed, 11 Nov 2026 22:15:34 GMT"
         }
       ]
     },
     {
-      "word": "Impeachment",
+      "word": "Others",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "House effectively ends Hegseth impeachment. And, 3 men accused of plotting U.K. attacks - NPR",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRGhlVThwT2hMM1VuY2FNM21GbFloXzRZYWNYeDRJVG5ZTkRuLTVfRW9pMElCNzVpOXQzOWtETXN3ck9xZWVZaWRSQ0JQWXBiblRnNlJNb2pnbWdCOGphYUhsb3RzOHF1aXZFODZ2WFJLZldEaVItUktER3FCdEdnTUV3ZG9RczIyUUljQWxuV05iQ0dTR2w0QXFkLTFLeHI2bzQ0ajlXZkNGelhkamRtUHln?oc=5",
+          "title": "Pete Hegseth and others reprimanded by guard at the Tomb of the Unknown Soldier - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMjg3SUZPY3B5VWpoLVFFYWF6Y3Rfa0ZIUDV5Vmg0TGVRYXFrZDFyaXhUMHpoelJ2UlZrUjdkTGlsTnpxNGdhaWRZVFc4RUNkbzlkd1U0cFJXbV9kcGsteXBUcGdNSHpsYWJDLWpsZTdzb2dpT3dSb2NYTzd2RmMtdkh4c3hwbGR6cTE1MnBxQkFDbU4yUW0tOTZhallWTXlTN2pvc21seU5SVmM2eW9VZndiUnBaWXlJbzItMEdab0RGUmxKajFBN2xDMmFsQQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 11 Nov 2026 12:21:59 GMT"
+          "published": "Wed, 11 Nov 2026 22:15:34 GMT"
         }
       ]
     },
     {
-      "word": "Accused",
+      "word": "Reprimanded",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "House effectively ends Hegseth impeachment. And, 3 men accused of plotting U.K. attacks - NPR",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRGhlVThwT2hMM1VuY2FNM21GbFloXzRZYWNYeDRJVG5ZTkRuLTVfRW9pMElCNzVpOXQzOWtETXN3ck9xZWVZaWRSQ0JQWXBiblRnNlJNb2pnbWdCOGphYUhsb3RzOHF1aXZFODZ2WFJLZldEaVItUktER3FCdEdnTUV3ZG9RczIyUUljQWxuV05iQ0dTR2w0QXFkLTFLeHI2bzQ0ajlXZkNGelhkamRtUHln?oc=5",
+          "title": "Pete Hegseth and others reprimanded by guard at the Tomb of the Unknown Soldier - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMjg3SUZPY3B5VWpoLVFFYWF6Y3Rfa0ZIUDV5Vmg0TGVRYXFrZDFyaXhUMHpoelJ2UlZrUjdkTGlsTnpxNGdhaWRZVFc4RUNkbzlkd1U0cFJXbV9kcGsteXBUcGdNSHpsYWJDLWpsZTdzb2dpT3dSb2NYTzd2RmMtdkh4c3hwbGR6cTE1MnBxQkFDbU4yUW0tOTZhallWTXlTN2pvc21seU5SVmM2eW9VZndiUnBaWXlJbzItMEdab0RGUmxKajFBN2xDMmFsQQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 11 Nov 2026 12:21:59 GMT"
+          "published": "Wed, 11 Nov 2026 22:15:34 GMT"
         }
       ]
     },
     {
-      "word": "Plotting",
+      "word": "Guard",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "House effectively ends Hegseth impeachment. And, 3 men accused of plotting U.K. attacks - NPR",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRGhlVThwT2hMM1VuY2FNM21GbFloXzRZYWNYeDRJVG5ZTkRuLTVfRW9pMElCNzVpOXQzOWtETXN3ck9xZWVZaWRSQ0JQWXBiblRnNlJNb2pnbWdCOGphYUhsb3RzOHF1aXZFODZ2WFJLZldEaVItUktER3FCdEdnTUV3ZG9RczIyUUljQWxuV05iQ0dTR2w0QXFkLTFLeHI2bzQ0ajlXZkNGelhkamRtUHln?oc=5",
+          "title": "Pete Hegseth and others reprimanded by guard at the Tomb of the Unknown Soldier - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMjg3SUZPY3B5VWpoLVFFYWF6Y3Rfa0ZIUDV5Vmg0TGVRYXFrZDFyaXhUMHpoelJ2UlZrUjdkTGlsTnpxNGdhaWRZVFc4RUNkbzlkd1U0cFJXbV9kcGsteXBUcGdNSHpsYWJDLWpsZTdzb2dpT3dSb2NYTzd2RmMtdkh4c3hwbGR6cTE1MnBxQkFDbU4yUW0tOTZhallWTXlTN2pvc21seU5SVmM2eW9VZndiUnBaWXlJbzItMEdab0RGUmxKajFBN2xDMmFsQQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 11 Nov 2026 12:21:59 GMT"
+          "published": "Wed, 11 Nov 2026 22:15:34 GMT"
         }
       ]
     },
     {
-      "word": "Visits",
+      "word": "Tomb",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump Visits Arlington Cemetery as His Proposed Arch Faces Growing Opposition - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbW1pbGhFa1BtUVJRR3ZES2dXZzllanJ3enR0VDRnajYyX1NQREVPMjlPa0h5REFxTkV5bXdRVWMtLXRHQkE1Tzdlbm1PeTRTdDk5ZGVoR3Z6d1paRUFlS18zaVBLQTJQUXRVa3l5UUNQdmhKMC1KeHNVT0FtS0toekhHQ0NYMzZE?oc=5",
+          "title": "Pete Hegseth and others reprimanded by guard at the Tomb of the Unknown Soldier - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMjg3SUZPY3B5VWpoLVFFYWF6Y3Rfa0ZIUDV5Vmg0TGVRYXFrZDFyaXhUMHpoelJ2UlZrUjdkTGlsTnpxNGdhaWRZVFc4RUNkbzlkd1U0cFJXbV9kcGsteXBUcGdNSHpsYWJDLWpsZTdzb2dpT3dSb2NYTzd2RmMtdkh4c3hwbGR6cTE1MnBxQkFDbU4yUW0tOTZhallWTXlTN2pvc21seU5SVmM2eW9VZndiUnBaWXlJbzItMEdab0RGUmxKajFBN2xDMmFsQQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 11 Nov 2026 10:03:55 GMT"
+          "published": "Wed, 11 Nov 2026 22:15:34 GMT"
         }
       ]
     },
     {
-      "word": "Arlington",
+      "word": "Unknown",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump Visits Arlington Cemetery as His Proposed Arch Faces Growing Opposition - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbW1pbGhFa1BtUVJRR3ZES2dXZzllanJ3enR0VDRnajYyX1NQREVPMjlPa0h5REFxTkV5bXdRVWMtLXRHQkE1Tzdlbm1PeTRTdDk5ZGVoR3Z6d1paRUFlS18zaVBLQTJQUXRVa3l5UUNQdmhKMC1KeHNVT0FtS0toekhHQ0NYMzZE?oc=5",
+          "title": "Pete Hegseth and others reprimanded by guard at the Tomb of the Unknown Soldier - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMjg3SUZPY3B5VWpoLVFFYWF6Y3Rfa0ZIUDV5Vmg0TGVRYXFrZDFyaXhUMHpoelJ2UlZrUjdkTGlsTnpxNGdhaWRZVFc4RUNkbzlkd1U0cFJXbV9kcGsteXBUcGdNSHpsYWJDLWpsZTdzb2dpT3dSb2NYTzd2RmMtdkh4c3hwbGR6cTE1MnBxQkFDbU4yUW0tOTZhallWTXlTN2pvc21seU5SVmM2eW9VZndiUnBaWXlJbzItMEdab0RGUmxKajFBN2xDMmFsQQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 11 Nov 2026 10:03:55 GMT"
+          "published": "Wed, 11 Nov 2026 22:15:34 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Soldier",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Pete Hegseth and others reprimanded by guard at the Tomb of the Unknown Soldier - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMjg3SUZPY3B5VWpoLVFFYWF6Y3Rfa0ZIUDV5Vmg0TGVRYXFrZDFyaXhUMHpoelJ2UlZrUjdkTGlsTnpxNGdhaWRZVFc4RUNkbzlkd1U0cFJXbV9kcGsteXBUcGdNSHpsYWJDLWpsZTdzb2dpT3dSb2NYTzd2RmMtdkh4c3hwbGR6cTE1MnBxQkFDbU4yUW0tOTZhallWTXlTN2pvc21seU5SVmM2eW9VZndiUnBaWXlJbzItMEdab0RGUmxKajFBN2xDMmFsQQ?oc=5",
+          "source": "Google News",
+          "published": "Wed, 11 Nov 2026 22:15:34 GMT"
         }
       ]
     }
