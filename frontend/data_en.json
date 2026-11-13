@@ -1,174 +1,73 @@
 {
   "language": "en",
-  "last_updated": 1794555883.952295,
+  "last_updated": 1794585810.415347,
   "count": 40,
   "trends": [
     {
-      "word": "Nvidia",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HY0g2NTA4UDg1bGFHUXhyZkJCeGJsYXdGeVFFWXNBWHlSNGlDYzVXQkw5YkxheFhEbG1jNGRpXzVVeThsMkJYWENEQ3ZtNi1SZkZfT0RZWnNrckE?oc=5",
-          "source": "Google News",
-          "published": "Fri, 13 Nov 2026 03:57:01 GMT"
-        },
-        {
-          "title": "Lutnick should have prevented the diversion of sensitive Nvidia AI chips to China, critics charge - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWWUFFVjY5Z3BrdDd6b2JaRDlvME50cGpLeUR4U2lPVU1tNnM1TjlrX3MtaVRrR3dsTmxoa2tmRGotVUdTYjhVTG5OV0k4U0ViTWRDM01vZExzZzFRLVY0UDA3a1lQWVNtT0Y4?oc=5",
-          "source": "Google News",
-          "published": "Thu, 12 Nov 2026 23:33:00 GMT"
-        },
-        {
-          "title": "Asian Stocks Set for Cautious Open on Nvidia, Oil: Markets Wrap - Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTmVnUHB5bWw0Y052NTU5ZkNsOGdwUXVCWnIwczVnQWJKWmJiaUZta09PNGhNYVZWSENvOFVReWJIVldFcDJNcmlOQ3RyMWhHQThNcmtnU0FIZldHWHJ4NldqbkVrYUlseVNBN0xycmRrUjdFVWRQQll6MzhBUHNOS2NidGtDc01LeWlNd01WNGJxcm5E?oc=5",
-          "source": "Google News",
-          "published": "Fri, 13 Nov 2026 07:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Millions",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Global Microsoft outage leaves millions without access to Outlook email, Teams and other tools - CNN",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd2VxXzZaaUhSSldhbG9lVDA0Vi1rTkY4Rzh1cXhLU3lMY3FsRmNaSHNHLXhvSFZIaUhIbjk2c01JQkMydE5ZSnE1WFdXaVc3NVctOTBLLXdTVXpJaXRGdko2MTFhX2JDaG5kVDlTVUxhaUhGUkJjN1l6RHQtM1VDSmQzNEQyVlFNV0E?oc=5",
-          "source": "Google News",
-          "published": "Fri, 13 Nov 2026 07:11:00 GMT"
-        },
-        {
-          "title": "Earth is surrounded by millions of pieces of space junk and the problem is getting worse - WRAL",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMnFhWUhqbTdZQUY5azdvem94anh4NGdSaXVjVFR4MVNSWUdyMndabnRuUERaejFJMjZfWTcxems5SU4zdjVXSXU0dV92Tmc2RDZfWlUwN3VWQ25hNVZtNnZJODQxMktxTmhsVGtSbmNYWFBOTkFMZUJxWUk5ZVJleVZIbzRROXZYLVdGZUVGZlB0dWtrWU1wUEVwdndSZmNjcFFPSXItQ1FvQkxPQ0NUZXRxMk1fSmx1YVVr?oc=5",
-          "source": "Google News",
-          "published": "Mon, 09 Nov 2026 20:44:50 GMT"
-        },
-        {
-          "title": "Ebola in DR Congo: Millions of dollars going missing as virus spreads, MSF warns - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LZHZGWnNNZUdtLXNjT2FXZEFQcXNiWkxsdzN1bHhXLXNBcFg5MlI1dzBuaXhYanp1N3JtSkNKMUY0VS1QRjNTcm9ES3pqNGhjNDIxNG9DSUJLajA?oc=5",
-          "source": "Google News",
-          "published": "Thu, 12 Nov 2026 15:18:20 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Jensen",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HY0g2NTA4UDg1bGFHUXhyZkJCeGJsYXdGeVFFWXNBWHlSNGlDYzVXQkw5YkxheFhEbG1jNGRpXzVVeThsMkJYWENEQ3ZtNi1SZkZfT0RZWnNrckE?oc=5",
-          "source": "Google News",
-          "published": "Fri, 13 Nov 2026 03:57:01 GMT"
-        },
-        {
-          "title": "The downfall of Jensen Huang - Financial Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRlBZMEhVQzRCSXVHeERpUHl6bXFFcmVWQ281TVJWMjRlU1ptOVJtYThTejV0RGY5V29lSHNUengydW96cWZEUDZlcUVKU2ZPQlRISmlJZFNPeGhBbU1fRlZ4OFlYc0xZR3J6SzVFLWNCX2luUWg3VzAtQ21GZVM5OUF1R1M?oc=5",
-          "source": "Google News",
-          "published": "Fri, 13 Nov 2026 03:49:03 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Huang",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HY0g2NTA4UDg1bGFHUXhyZkJCeGJsYXdGeVFFWXNBWHlSNGlDYzVXQkw5YkxheFhEbG1jNGRpXzVVeThsMkJYWENEQ3ZtNi1SZkZfT0RZWnNrckE?oc=5",
-          "source": "Google News",
-          "published": "Fri, 13 Nov 2026 03:57:01 GMT"
-        },
-        {
-          "title": "The downfall of Jensen Huang - Financial Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRlBZMEhVQzRCSXVHeERpUHl6bXFFcmVWQ281TVJWMjRlU1ptOVJtYThTejV0RGY5V29lSHNUengydW96cWZEUDZlcUVKU2ZPQlRISmlJZFNPeGhBbU1fRlZ4OFlYc0xZR3J6SzVFLWNCX2luUWg3VzAtQ21GZVM5OUF1R1M?oc=5",
-          "source": "Google News",
-          "published": "Fri, 13 Nov 2026 03:49:03 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Alleged",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HY0g2NTA4UDg1bGFHUXhyZkJCeGJsYXdGeVFFWXNBWHlSNGlDYzVXQkw5YkxheFhEbG1jNGRpXzVVeThsMkJYWENEQ3ZtNi1SZkZfT0RZWnNrckE?oc=5",
-          "source": "Google News",
-          "published": "Fri, 13 Nov 2026 03:57:01 GMT"
-        },
-        {
-          "title": "US Army officer involved in alleged Russian spying scheme identified: Reports - The Hill",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVEw1Z2g3UFNXUThRcHRlYmcySkpxLWlLNG1aOGdOandjNDdwVnBHOFEtblZTaFpmWXp0RWZYUndrTk1kdTRYLTJYRXE5TmF0RlJxcHkyZW5UZjk1djNWMHhYLXg1ZmxicU1kc3lYdmFJNnBRdGRXcnRFNkxyUHhKZkZvZVJhSUd4VGJvRVJkd9IBlAFBVV95cUxQeEZTZEFQMkR6M2ZVSXhIOUdKbmVRRnNraG5iM1M2ekRuMlBCRUdFNE9vUkFLSzFHV1c5ZGppWjJqYnBHaWE1cTBYeTdYSmUwczFGemdiOXNubGlSUXcxWDMwYXVKN01TMjAzSHFManVnTFFaMnZuSXFRR1Y4aThobEthN1k4OXhfS09pM1NqTW5mMWxM?oc=5",
-          "source": "Google News",
-          "published": "Fri, 13 Nov 2026 00:39:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Wins",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Cindy Holscher wins in Kansas, holding governor’s office for Democrats - NPR",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQblNkYWQtS3otVHhSOEhKODE5NjZPWGlYc0JfLV8tRno3RDNWWVJ6enp4UGpCMkRYVGxNLWZJZ2Roa3JXQWRJX0xoMW1McW5MSy10NXlNQ3g1Y09rWWFjRlZWSnhKdTNPaW14ZmNMRWhiaWpzU2szVTc2aFNyT1VYVmRlbHVPRlo2QTdNbVhKaw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 12 Nov 2026 23:36:19 GMT"
-        },
-        {
-          "title": "Rosalía wins album of the year 2026 at the Latin Grammy Awards for 'Lux,' capping a thrilling night - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeXROUWxpZzdDQUdnSzV6SlNpY1hIWEotZGZ6cVZlNDByRzUwZ2tJQ3VjdmwwdFRhcVN6Z0FuNlpmOGozajJpNVpZZEVUMEtSeG1KXzVYNFRqTlpDMVRPUVg5bmpqOUdaZm5GV2M5aG5QNzZVczZyMTA3YkxwbkVyU055dmc?oc=5",
-          "source": "Google News",
-          "published": "Fri, 13 Nov 2026 04:47:00 GMT"
-        }
-      ]
-    },
-    {
       "word": "China",
-      "count": 2,
+      "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Lutnick should have prevented the diversion of sensitive Nvidia AI chips to China, critics charge - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWWUFFVjY5Z3BrdDd6b2JaRDlvME50cGpLeUR4U2lPVU1tNnM1TjlrX3MtaVRrR3dsTmxoa2tmRGotVUdTYjhVTG5OV0k4U0ViTWRDM01vZExzZzFRLVY0UDA3a1lQWVNtT0Y4?oc=5",
+          "title": "Scott Bessent blames commerce department over delay blacklisting China-linked data company – US politics live - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQkhkRS0wN3ZwMVdrV1lmZ3Z6bGpxSDRvcHc0MFpGNDlQZXVtTG9qTkl5X2pHY1c4SW5zU3ZRVHY5X1QyM3dQZ0M2R0toVkprNFRIVml3QkNXbnhRaWxKNVZvdjFoY0xQT2J1cUlhZi1QVzlpdUJHYzZ5d1N1ZHZhdDRaR3U1NjRiMXhQUDMyZVVka2lDd05xdFd2Yk1TTXRWSlpTaFdUR284eGZaaThSa2FGN1lXYy1iclZOdEl2Z211ajc2LWNHVkhCS1pNSXIwMFpZZUprSGw1Q3pm?oc=5",
           "source": "Google News",
-          "published": "Thu, 12 Nov 2026 23:33:00 GMT"
+          "published": "Fri, 13 Nov 2026 14:32:14 GMT"
         },
         {
           "title": "China stages unannounced Pacific drills in 'silent intimidation' of Taiwan, officials say - Reuters",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcEx2eTdicmVJdWI5Y2JyUVhiN1psV0dacm9RNzFvU29MVWZ0UGxwUWtrMzNNaDFUNWRCMGFyd2F5TUtabzFEdnRjNDFpd2pIbkFlbUFPb3RXTjNIU01iN0RCOVpOV3VyZmY4Uml1anpPYjdwSVFGR3hpemx2WVl6Zms5M3FSOXdBS3pSeVA1eWlLcEJRank5c0lxeGRSR0NUeThJWUc5Nlk0Smw5VWpWczdBRkZXZGNEc3I1ZkxPdWxSQU1mVENN?oc=5",
           "source": "Google News",
           "published": "Fri, 13 Nov 2026 04:05:00 GMT"
+        },
+        {
+          "title": "Jensen Huang’s years-long effort to get close to China - Financial Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNGdpdFdoUHF2WEtfdW1CeUUxamVuY0RTeHlmLWFEcnB3ZzBnRk9mbk5IdVBZTS1taWJrcjdKelBfbGZTUWpOZHh4NWNSQTZhRTJpTUdueVR6TTZNdGNCWS0xSlNrYTVvdThtcDBmNnBtY1dBYXktSFE3NzRFWl9oVWVfc0M?oc=5",
+          "source": "Google News",
+          "published": "Fri, 13 Nov 2026 12:04:12 GMT"
         }
       ]
     },
     {
-      "word": "Charge",
+      "word": "Meet",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Lutnick should have prevented the diversion of sensitive Nvidia AI chips to China, critics charge - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWWUFFVjY5Z3BrdDd6b2JaRDlvME50cGpLeUR4U2lPVU1tNnM1TjlrX3MtaVRrR3dsTmxoa2tmRGotVUdTYjhVTG5OV0k4U0ViTWRDM01vZExzZzFRLVY0UDA3a1lQWVNtT0Y4?oc=5",
+          "title": "Meet the 27-year-old behind the protein ad that helped flip Mississippi - Politico",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUXM4dWlNNFZsQ1lCaE9fQmZrVWJyVjYzN3hNU3VrX0pCZlVCUkIxT1lORXhOWnhYNjZQREpGajJ2NHZOU1Y2WHE4Y2ZnVEdHdmpmemNNVURQNzlLWFBabnRWMEU4blpqZlZvR0FmeW9tcWJfa1c3T3ZZUVFiWWNfcWI0VXQ4X0lFaVVDVjk3dGxOcV9Z?oc=5",
           "source": "Google News",
-          "published": "Thu, 12 Nov 2026 23:33:00 GMT"
+          "published": "Thu, 12 Nov 2026 22:34:00 GMT"
         },
         {
-          "title": "Oklahoma Drops Murder Charge Against Richard Glossip, Avoiding Third Trial - The Intercept",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9lQUZIN3NlTkFRRllhcUV1aGhNcnNHRzJUd0FXLTJ5b1F2QXVxUU42bndITENhOVFmRXVCSVhuQzBOd2p6a0RrRVBhRm9BZTFJZ0tkb2h1aFphWWNMclJfUnVtb2pCay1ETE10N0NCb2dqeHMzdGVLc2tZZmw?oc=5",
+          "title": "US envoys meet with Putin in Moscow on Ukraine talks, then see Zelenskyy in Dublin - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTFZuQ05KbXhLT294akRzMl9XWE5rUmRhV01fSDY4VVF6dnNaZVlCUzdCd1I2TnI0azFRT1VHcW1hVm9oMWhUNTZaVUc0QjNVNkNseGxYTGU3RmpSWXppTVZ4TzVRWEpxdE1tOVc3NDJYdFZmdWhoeFBvSXc4MXV4N0JUSW95SzlZalpwcERuU3hRNHpSbVBwNXl1Y19kUDU1d2c?oc=5",
           "source": "Google News",
-          "published": "Thu, 12 Nov 2026 21:05:25 GMT"
+          "published": "Fri, 13 Nov 2026 02:09:00 GMT"
         }
       ]
     },
     {
       "word": "Building",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Brooklyn building collapse: 2 children, 6 men killed in Flatbush - ABC7 New York",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQblVQR0RaMDh0dzQ4UmlJajZyUUM2bXJGWi0xVTZDMnpXekZkMy0tQWVLMFoyTmNwMWJmc0QxcTJvTEJoWEJyU0ROa1NEU1l5Z1FWVnV3MG1KdktYUTczYTlsYk85RXYtN0ZMZV9VM0NRT1NqWDJxSnI5RDROby1MUW1qejd1OG5aMTgtdFNNX3dIa2VOcE0tc9IBngFBVV95cUxOSmpLSUxBZl9uSWowNV9nQTVVZEF3MjBiRHNvWnNkVzRWc0IzY2pFNnNOSmxITmFjWkM4LU41eVVGM2Jwcmx3X0RPeUF5UU9uM2JDaUZZME14OXl2TS1oNGtlZ0c4c2tjcF80dTh0dzFXbTZKY2VSV0diUXJLX20xcFhkYWZnZkhWYjFYVGpaZFhJME5iS2hMcHJxczEtQQ?oc=5",
+          "source": "Google News",
+          "published": "Fri, 13 Nov 2026 00:35:29 GMT"
+        },
+        {
+          "title": "D.C. gunman attributed attack to frustrations with building maintenance - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMFk3YjF3a3pUaGttVHBHa3hEaEcyRF9sRUpnS1A5UFBPSkJpQXpBUzF2UmJ2dDBJN3dvd3E4RFQwOENJV3E3cHY3Z0xNZ09KeWl3QzJNYkJxT0hmOXlRWnJQUm15andsbEVnb0U2TURWNlNfNFBQWUowVy1UaERibWtXTndHZFFMdlM3VlloRzV0YkNhbnZQaFFHVXlQN1pUY2I4RHotbTZTOW9pN2RLc056SlVNZ2NjM01Ob0VYN2hEb2xaMXVhTnlfdGo?oc=5",
+          "source": "Google News",
+          "published": "Fri, 13 Nov 2026 03:57:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Attack",
       "count": 2,
       "category": "NOUN",
       "articles": [
@@ -179,219 +78,143 @@
           "published": "Fri, 13 Nov 2026 03:57:00 GMT"
         },
         {
-          "title": "What we know about Brooklyn building collapse that killed eight people - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaR2NJSnEtNGdGS05uaU94T05ULXIyQW4yYXdzYnpZMWdGOTU5b1JnSEhfdWNNRjBlNkxwNVZhLXI3aWktSlVkeHlvQ2p3Skg3UUlLLW9HTkd3c2s?oc=5",
+          "title": "A Restaurant Hosted Ramaswamy After His Attack Ad. It’s Paying a Price. - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTkdmbHFDTlhNWTE4YlJsdHg2NkF2OG9UNmllbGIyNGl0bFJjNHlWWldaeWl5SDRydUJ4QW9DbzlLMnVlZkV2dDJqNTZ1VGpZNDJZTVhGU2hVUHY1aW50cEFOVkxZU0o3OTBtSzJMX1FLVEQ5QmRtMkVJZm9kczZmaUktWk1NVkxEbjBr?oc=5",
           "source": "Google News",
-          "published": "Fri, 13 Nov 2026 03:26:47 GMT"
+          "published": "Fri, 13 Nov 2026 10:03:01 GMT"
         }
       ]
     },
     {
-      "word": "Home",
+      "word": "hit",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump bluntly tells JD Vance to shift focus from Iran to targeting 'corruption and crime' at home - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ3hucVhKWVM3X1M0clZMcFVrTFA0UU9ReE9RVW5LVWV2eUY1czdQcnJval9iU3ljNHVoZ0lvdV84Rm5adEFHby1EMnM1d0VfenNTOTBEM1FZczBwRVdVUG9raUF1Q2hqZnpHOFQ4SnZoMkdHZlBLUGtUME1aUmVHVFppZ0dxM2I2MEZCRGpNdzNrNm8?oc=5",
+          "title": "Russia hit by second car bomb in as many days as peace talks continue - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSYnNXRE1pc3ZndW9MRzZJY2Z4SzN3ZlFycm1XWmdvQWlyeExVRi16b0FhVklWdFdBRmhCSThHWDhHSzVodFhQTUhxNFQwdGhZVDFfMGpMdjlyaXc?oc=5",
           "source": "Google News",
-          "published": "Fri, 13 Nov 2026 02:07:00 GMT"
+          "published": "Fri, 13 Nov 2026 13:11:23 GMT"
         },
         {
-          "title": "Apple HomeView Review: A Versatile Smart Display And Siri-Powered Home Hub - Engadget",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yc2MtZ1d1c21MalB1cUt2V0R3eEJFb2huZ2hLUEVkaTVqQU5Oand3b29nWFlQdk5wR3NJazVHUUtWaEpHLTl6TDBqUE1HNWJycHpkX3NXLUtKcldoSG1UWEdOXzE4UQ?oc=5",
+          "title": "Iran says tanker carrying LNG hit mine, suffered explosion in Hormuz - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbWY4UFhVeWZBSkUteDV4dHd0b3cyU3czTkdkU3ZLbU9zZzlhOGhTcDlDcTlmSVlKVUZFZDhwTWdmdG9zQkJHZ05jaXVad0ZpVGdsTHJvZ0VRT3Q4cXRMZFZ5cFpkR0Y5dmo4b3dlQ0F4RUVxZFFGanB4M1cxZmJlSERVQ0dQVDNWbVFVV2pJZ09XNG5DWlV2Zk4xdi1xRm9jUjhzVFl1akd1QQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 12 Nov 2026 14:00:00 GMT"
+          "published": "Fri, 13 Nov 2026 07:00:00 GMT"
         }
       ]
     },
     {
-      "word": "Awards",
+      "word": "Talks",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Hegseth awards medal to soldier who admonished him, his team at Tomb of the Unknowns - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVXgtTEwwdkhEZG5zYmw4bmkyNllhTzI1b2FtSVVjeWtUOWdnZENwTmhibHV5TEpjMnRhVUlRbkszUGxKRUYwd3pmeHpCbXZnNHc1b25JZWpyT3dIeUhUakI0RkduOXpLTDV4MzdfNm14aWNCSjZvZ1VIZV9jc1h3YjZfWG5sejc4TjdLbkRHRTVNQk5aMXZsQmZtQ2V1bGtpbGtfejZrcUNRVWxIV2o5YU1YVjBDNlhhVlBDWTlZXzQ1VmpW?oc=5",
+          "title": "Russia hit by second car bomb in as many days as peace talks continue - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSYnNXRE1pc3ZndW9MRzZJY2Z4SzN3ZlFycm1XWmdvQWlyeExVRi16b0FhVklWdFdBRmhCSThHWDhHSzVodFhQTUhxNFQwdGhZVDFfMGpMdjlyaXc?oc=5",
           "source": "Google News",
-          "published": "Fri, 13 Nov 2026 02:46:31 GMT"
+          "published": "Fri, 13 Nov 2026 13:11:23 GMT"
         },
         {
-          "title": "Rosalía wins album of the year 2026 at the Latin Grammy Awards for 'Lux,' capping a thrilling night - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeXROUWxpZzdDQUdnSzV6SlNpY1hIWEotZGZ6cVZlNDByRzUwZ2tJQ3VjdmwwdFRhcVN6Z0FuNlpmOGozajJpNVpZZEVUMEtSeG1KXzVYNFRqTlpDMVRPUVg5bmpqOUdaZm5GV2M5aG5QNzZVczZyMTA3YkxwbkVyU055dmc?oc=5",
+          "title": "US envoys meet with Putin in Moscow on Ukraine talks, then see Zelenskyy in Dublin - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTFZuQ05KbXhLT294akRzMl9XWE5rUmRhV01fSDY4VVF6dnNaZVlCUzdCd1I2TnI0azFRT1VHcW1hVm9oMWhUNTZaVUc0QjNVNkNseGxYTGU3RmpSWXppTVZ4TzVRWEpxdE1tOVc3NDJYdFZmdWhoeFBvSXc4MXV4N0JUSW95SzlZalpwcERuU3hRNHpSbVBwNXl1Y19kUDU1d2c?oc=5",
           "source": "Google News",
-          "published": "Fri, 13 Nov 2026 04:47:00 GMT"
+          "published": "Fri, 13 Nov 2026 02:09:00 GMT"
         }
       ]
     },
     {
-      "word": "Three",
+      "word": "Iran",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Jim Cramer has three lingering questions about Anthropic ahead of its historic IPO - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQnlTTmVFZXFUUnAyZTUwM056dW9MeUdWRVdzQ2lQa2dsRnJEN19FRVp6eENzbV9JU1NBMHEyX3FwX3ZYbTljT3JBSXhRU1FNSWJhSUVMbUItTEpXeWhSZnNPQjdQYmoyaERsTFZycnJpaWkxUzliSEFRZFRTQnRBZFNiempKYXdsUXfSAY8BQVVfeXFMTTAxRG1oeTU5a2VlaWdvQXJST2wxZU9WM0hFemc5TzBqMEtXOS1DbFZUU3JEb25WcGVEakRCbjJkQWJUZTlmZ0xjVEZ6RkV0TF9BYXlZaUZUYTl3Q3ZjNlFnNlluNjF0eUxuckhlNG1BYnJKWUplOFZNQmg4TFMwTTVPX3lqSE5CRkNvWGx2NG8?oc=5",
+          "title": "Why is Trump saying ‘no deal necessary’ with Iran as he sidelines JD Vance? - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNlNPRDhieTNZQXhxWTRNUHg5clA4Q3B2Tm5wakhjZmdmV3poUkV3dXpJeS1oMFZaaXF0S1hYekVEVGFHZ0xMYkNZT1R3MVNPQk95ZlNMQTV0dGl2aUhCUGY1aDQyU0tfTC1fVEx0SGh2TDdoOHVyekpWMjNoS0NTUWZ5ME5hTmhCdlhnRU94SjhkVFFLTmo5VF9fbk9zaEtBT0pGbDhqRVRPRjY2OUh5dGRZYnVDY1V4TkHSAb8BQVVfeXFMTVp0bHhCSWRhZnhCQUNNSkZ6VVJFdUVDOHlPRGRkWmlzbnZ4QXJXOGk0RVlUQnRhWlNDdm1lVmI2X2pLZkRCT3ZtTFE0N0twV2VILTYtNFJhNTl3NWJCWGJXYldyT3phdUMtQUhkbnFFNFZJRjlOaG1waVRXTXlWaXZhSEkwTzJ6dlNJd0EwR0ZQLWJVR1ZIaW16QXRISFo1NTFWOThDUVZzU1liODNNeVNGTHc3RGVKS3JEMElBek0?oc=5",
           "source": "Google News",
-          "published": "Thu, 12 Nov 2026 23:45:00 GMT"
+          "published": "Fri, 13 Nov 2026 10:34:03 GMT"
         },
         {
-          "title": "Rockets' Marcus Smart suspended three games for punch - ESPN",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSWRveDIyX0hZY3NKN3pIWVhlMnVYdzhkdXZkNXdNbVN4UHhkM3c5N0puUHhqR3BjMW1yUUxWaU5yY3oxQ2NadDBQeEllTU9WSGRWSmg3X05QdUFzWjRFdlNoTWl1eTJYZWdHWjRzVnpaVEU5NmF2a0dOTHc0eFdCdUhCZExhcndRMVFXR3hmX0wtVk5LeWtlRw?oc=5",
+          "title": "Iran says tanker carrying LNG hit mine, suffered explosion in Hormuz - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbWY4UFhVeWZBSkUteDV4dHd0b3cyU3czTkdkU3ZLbU9zZzlhOGhTcDlDcTlmSVlKVUZFZDhwTWdmdG9zQkJHZ05jaXVad0ZpVGdsTHJvZ0VRT3Q4cXRMZFZ5cFpkR0Y5dmo4b3dlQ0F4RUVxZFFGanB4M1cxZmJlSERVQ0dQVDNWbVFVV2pJZ09XNG5DWlV2Zk4xdi1xRm9jUjhzVFl1akd1QQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 12 Nov 2026 23:06:59 GMT"
+          "published": "Fri, 13 Nov 2026 07:00:00 GMT"
         }
       ]
     },
     {
-      "word": "Xbox",
+      "word": "Microsoft",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Xbox Wants You to Revisit Halo: Campaign Evolved on PS5 as Free Co-Op Mode Update Is Announced - Push Square",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVTdhUTJ5ZzZLNjVYa2dxVDhUbjJVeTRQbUVKSFBiZ1JybGEtMWxYbXA5dGU4enlZalc0M2owSlJLM2ZOeXNicF9LZU11cFhDMHFnaEpuRFNmS2JnNENrNXdNbUhxWDVJQjdDa2VLWHFlOTZGcHI0OGlvSlZ6NDRHak1PWEJGRTNjR1BKYUpONFBfSXZjNEhXTW1lQ1RZSGd2ZHRncXdITFd6Um8xYW9waml2dGN5SnN6c2VpQ0Nqd1Z1LTlFRHJPcE5JSDBKUQ?oc=5",
+          "title": "Microsoft 365 Outage Improves Into Friday—Governments, Airlines Report Disruptions - Forbes",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObWVISDJ1NlJRckhTOHRNTWFMcFZkUlBFaWpJUThsenljZlpJdnliSDV4YkFXMDhFOFF0aDZzZ2xrS18wc3BWZFdIR2lncGhjSW55ZERhUURtLUdUZU1LV2xnWXJocXk2ajBSbHMtcjE2S2JFRkRXZlZYLXBQbWVHSjBMZG96Z0ltOTBZeXd5SnpId2U2UndTdXp5RjRSRG50emRER195TlNDNlVNaHRHa3BKNEtqVnctajlTUnYwZG8zaVBEWnJ1ODdXVHhvbGY5?oc=5",
           "source": "Google News",
-          "published": "Thu, 12 Nov 2026 18:00:00 GMT"
+          "published": "Fri, 13 Nov 2026 15:43:00 GMT"
         },
         {
-          "title": "Xbox announces Wolfenstein 3 - The Verge",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80U3lxdXdGWm5KYVZDWXNnRm5wRXhSXzEyRHR6aFltREpzMnMteFppU21TbjVJQjhSd1BLRXl3Tl9QU0VGenZoRnVQZ1B5RWpvTnVXV2VqY2QwZ2tyb05vc25Zcjd4WlBYaUVhMzJ1aFllbTg?oc=5",
+          "title": "Microsoft says November security updates cause printing issues - BleepingComputer",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORWFPNG5EOTRrelRtX3VWRWJYNG5QenRTNm96ZGE4UnVJd1B5VEQweTAzYVh0dlZnemZiSVZYSWc2M0FsdnRWd282blVDT1AtRkoyMHMzcWc1SWV0QnQ0Z09sUUFmTXN5UWJ4Qk41VG9FUTNuWFlNaGtDYzBYbFVjZnNfbDFUNGY2X002OFp1eG5CQkFLQlU0WkFWS2l5UDZrLVp5Rk02dFFFZFRxZS1KX9IBtgFBVV95cUxPX24yeFJFS0xPX0JwOHpSdUtyS2V3RjF2c0RoVFBTN1VuUjdoNk9mbDBzRVhjQ1lfSGJOV2RpS2pVOXFqQUdSSmRKS200SktlR29JcXZwTVhRY0NzMnk2LUE1X0wwT0h1R3FuVE1sVEtmQnhIZTk0TXVmWTNlajVnbFNfSl8yMzA1d2RweHJDQzVZRlJJWjhuLW9DajJ4TXBETjA5ZktFLWJlSkJvMkJnWnlqeEF4Zw?oc=5",
           "source": "Google News",
-          "published": "Fri, 13 Nov 2026 00:11:00 GMT"
+          "published": "Fri, 13 Nov 2026 12:27:40 GMT"
         }
       ]
     },
     {
-      "word": "Free",
+      "word": "Week",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Xbox Wants You to Revisit Halo: Campaign Evolved on PS5 as Free Co-Op Mode Update Is Announced - Push Square",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVTdhUTJ5ZzZLNjVYa2dxVDhUbjJVeTRQbUVKSFBiZ1JybGEtMWxYbXA5dGU4enlZalc0M2owSlJLM2ZOeXNicF9LZU11cFhDMHFnaEpuRFNmS2JnNENrNXdNbUhxWDVJQjdDa2VLWHFlOTZGcHI0OGlvSlZ6NDRHak1PWEJGRTNjR1BKYUpONFBfSXZjNEhXTW1lQ1RZSGd2ZHRncXdITFd6Um8xYW9waml2dGN5SnN6c2VpQ0Nqd1Z1LTlFRHJPcE5JSDBKUQ?oc=5",
+          "title": "Looking Past Nvidia Turmoil, Stocks Log Best Week in Months - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSlBrdjRTd1hzdUVoVk5qRGEwY0hjenIxSGFLUnRCdUhrdkZJNlVJUkpFanRQR3R0ajJXeGFFWE5UcWtEYkpkRHQxTXhCY3BZMDZUbnF3OUd6WDdtN015NHV6NWpJZExzZnZsV0F0ZTRGSDJOYU12d2RuZWtDWG13dHN3?oc=5",
           "source": "Google News",
-          "published": "Thu, 12 Nov 2026 18:00:00 GMT"
+          "published": "Fri, 13 Nov 2026 11:12:17 GMT"
         },
         {
-          "title": "Apple TV 4K (2026) Review: Hands-Free Siri and an A19 Chip Justify the $300 Price Tag - PCMag",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jWU84d0tMQVBGUkV2b0FPSkJzNzQ1aTdoSDk2MWJ2ZWZXYnR5TkhieE1rVjVhOHBvNDlETkRQd2xyZjNUYzRMLXFOdTh5d1l4STNONVBoWFV5Zw?oc=5",
+          "title": "NFL Week 10 preview: Picks, predictions, schedule, betting odds, fantasy tips - ESPN",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNnlqd0s3eFlNYnBpdl9ySVVpUEs2WGVQby1lRWhOMTc0bkROMnVvQ2hLRTlkWGtXZlIyem1xTkNGV1dGQU9hTDlGR2JLaWlRLU0tYkc0SmdLZEhpNXhaeHdjZFMtSmxKQ3ZpeTRGS1paNnhNNWFEZ3BRUXdqc2JxLWFzUkNYOW5ZUndQMG4zZER3UkkzTzMwVC1wQnhGQQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 12 Nov 2026 14:00:26 GMT"
+          "published": "Fri, 13 Nov 2026 11:00:00 GMT"
         }
       ]
     },
     {
-      "word": "Apple",
+      "word": "NFL",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Apple TV 4K (2026) Review: Hands-Free Siri and an A19 Chip Justify the $300 Price Tag - PCMag",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jWU84d0tMQVBGUkV2b0FPSkJzNzQ1aTdoSDk2MWJ2ZWZXYnR5TkhieE1rVjVhOHBvNDlETkRQd2xyZjNUYzRMLXFOdTh5d1l4STNONVBoWFV5Zw?oc=5",
+          "title": "'The Bachelor' season 30 to feature NFL quarterback Sam Hartman - ABC News - Breaking News, Latest News and Videos",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYnJCWEZIVzloQV9ObzlvbERTdEJVdEJBN0gwS0o5SllkcGoya08yVDZQcDdXREgxY0d2LTRzOHlrVjAxMjJVdzZOZlVGLUpBMjJwbFZDZW04V3NwMk9KZUEtbnpZN1NuQVc3OE1nTWZTZDV2aGFrcTh4SVNObDZyUkNRY3lreHpueWpKMXBaZzhkcmpzZW9ia0FBQjNkU1NoNlN2X0FLS2vSAa4BQVVfeXFMTTJKVW54dWNicTAtUGlUOUZ3d1ByVUZXTHVVaTR6MGY0U1JVUzdadk1JVXpTdEVkMVd2a1liUWJEdnpITjdob0djY1VPZGpuS0l4LVVrcG1FRDBmclFidEdvM3VCRmdvRkhfVG5mekNHSEM5TkhSM0V6bDZjb3ZSZmlJdXQtWWl2a2U2SERZM3o1U2tKdGNOVG85U1hXVjRaTlR3cFpiZHVCaGoxZ0tB?oc=5",
           "source": "Google News",
-          "published": "Thu, 12 Nov 2026 14:00:26 GMT"
+          "published": "Thu, 12 Nov 2026 13:29:00 GMT"
         },
         {
-          "title": "Apple HomeView Review: A Versatile Smart Display And Siri-Powered Home Hub - Engadget",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yc2MtZ1d1c21MalB1cUt2V0R3eEJFb2huZ2hLUEVkaTVqQU5Oand3b29nWFlQdk5wR3NJazVHUUtWaEpHLTl6TDBqUE1HNWJycHpkX3NXLUtKcldoSG1UWEdOXzE4UQ?oc=5",
+          "title": "NFL Week 10 preview: Picks, predictions, schedule, betting odds, fantasy tips - ESPN",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNnlqd0s3eFlNYnBpdl9ySVVpUEs2WGVQby1lRWhOMTc0bkROMnVvQ2hLRTlkWGtXZlIyem1xTkNGV1dGQU9hTDlGR2JLaWlRLU0tYkc0SmdLZEhpNXhaeHdjZFMtSmxKQ3ZpeTRGS1paNnhNNWFEZ3BRUXdqc2JxLWFzUkNYOW5ZUndQMG4zZER3UkkzTzMwVC1wQnhGQQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 12 Nov 2026 14:00:00 GMT"
+          "published": "Fri, 13 Nov 2026 11:00:00 GMT"
         }
       ]
     },
     {
-      "word": "Review",
+      "word": "Thursday",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Apple TV 4K (2026) Review: Hands-Free Siri and an A19 Chip Justify the $300 Price Tag - PCMag",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jWU84d0tMQVBGUkV2b0FPSkJzNzQ1aTdoSDk2MWJ2ZWZXYnR5TkhieE1rVjVhOHBvNDlETkRQd2xyZjNUYzRMLXFOdTh5d1l4STNONVBoWFV5Zw?oc=5",
+          "title": "Thursday Night Football: Stefon Diggs’ late TD gives Commanders 24-21 win - NBC Sports",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTUdrX0lEdjQ2YnpNLXFVbXdvMXpYX01ubHNfWmMyMEV1ODZGS3JLVmZVVDFJYmF0TzRQWHl4SXVjcmx1cUtheHBOU0VLQlZLcC1xbWJnOHlPX1JmWFJJMkxvOGVLb2tFa2wxQjM2by1iVm9USlhRSFZzaHZwR1piNHNkczVNVUdHaURWVnZ3TW83RjRkazJTaEZuem9EazZ2TUUxRE1hWm9wa1gyMExJdGxMS0gxN2FQUnJzWV9JbzFfaHdqQVd2eWpNa3pLZw?oc=5",
           "source": "Google News",
-          "published": "Thu, 12 Nov 2026 14:00:26 GMT"
+          "published": "Fri, 13 Nov 2026 04:30:40 GMT"
         },
         {
-          "title": "Apple HomeView Review: A Versatile Smart Display And Siri-Powered Home Hub - Engadget",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yc2MtZ1d1c21MalB1cUt2V0R3eEJFb2huZ2hLUEVkaTVqQU5Oand3b29nWFlQdk5wR3NJazVHUUtWaEpHLTl6TDBqUE1HNWJycHpkX3NXLUtKcldoSG1UWEdOXzE4UQ?oc=5",
+          "title": "Commanders-Giants: Cam Skattebo refuses to be normal, stares into camera during 'Thursday Night Football' - Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQV2k4NkVLbm9obkdyVEVPTEw0LTNucVcwS3VmREt0V1BaX0FxVzUybEl6UVRsVWdIQmFCQ0NqRnV4RWxyMW9CS05fUEQySXlUUnl3YTRvUWRZR0RQTTZfeGt2czBzb2phcml1WFNSVDhzbGR3c2J3TVp4MFVCcFhWVmh6dUhXR1NGZ0ozOGJWTlNQYkZYYmZEZXJEVkd3QktDSDFxdjlYNzZDMjRvcWZDSnNhRE9pMFFhOTBRa2pEb3pnb0dBSzhqdG9iYVFnTmpkUzk4anhhZ2FhLV81Z2loZHZpYllSM0JNTTR4MFRXVzdCU2NWaU4wbk5Hcw?oc=5",
           "source": "Google News",
-          "published": "Thu, 12 Nov 2026 14:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Siri",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Apple TV 4K (2026) Review: Hands-Free Siri and an A19 Chip Justify the $300 Price Tag - PCMag",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jWU84d0tMQVBGUkV2b0FPSkJzNzQ1aTdoSDk2MWJ2ZWZXYnR5TkhieE1rVjVhOHBvNDlETkRQd2xyZjNUYzRMLXFOdTh5d1l4STNONVBoWFV5Zw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 12 Nov 2026 14:00:26 GMT"
-        },
-        {
-          "title": "Apple HomeView Review: A Versatile Smart Display And Siri-Powered Home Hub - Engadget",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yc2MtZ1d1c21MalB1cUt2V0R3eEJFb2huZ2hLUEVkaTVqQU5Oand3b29nWFlQdk5wR3NJazVHUUtWaEpHLTl6TDBqUE1HNWJycHpkX3NXLUtKcldoSG1UWEdOXzE4UQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 12 Nov 2026 14:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Smart",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Apple HomeView Review: A Versatile Smart Display And Siri-Powered Home Hub - Engadget",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yc2MtZ1d1c21MalB1cUt2V0R3eEJFb2huZ2hLUEVkaTVqQU5Oand3b29nWFlQdk5wR3NJazVHUUtWaEpHLTl6TDBqUE1HNWJycHpkX3NXLUtKcldoSG1UWEdOXzE4UQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 12 Nov 2026 14:00:00 GMT"
-        },
-        {
-          "title": "Rockets' Marcus Smart suspended three games for punch - ESPN",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSWRveDIyX0hZY3NKN3pIWVhlMnVYdzhkdXZkNXdNbVN4UHhkM3c5N0puUHhqR3BjMW1yUUxWaU5yY3oxQ2NadDBQeEllTU9WSGRWSmg3X05QdUFzWjRFdlNoTWl1eTJYZWdHWjRzVnpaVEU5NmF2a0dOTHc0eFdCdUhCZExhcndRMVFXR3hmX0wtVk5LeWtlRw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 12 Nov 2026 23:06:59 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Star",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Cause of death for Anthony Clark, comedian and ‘Yes, Dear’ star, revealed - Los Angeles Times",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV2VZU3lRU3E1cGswY19YUTlGSHlEdm9ZRjUwSW1OLXdnWkM1S2loY2ZSUkdrYldyRGxTUDlKczlUUzZlaTJ0Mlo4TkVOTEhFZVlKRmFKUlp3Q1RHSFdfWGJmb044NzFfYmo1QzRBdHlGeVFWMlFiY0IzMHFJT19IeHlyamhac1VOQy1tMy1hNmNvSnFpVWVDT2l4QjVna2J1amZlUHRyMWNBcjg1RkYxMw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 12 Nov 2026 23:45:38 GMT"
-        },
-        {
-          "title": "A dead star is flashing radio waves every 8 minutes, and its partner looks a lot like the Sun - The Conversation",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNFZOWkJWdDJEZzdsNjAzVncwYzgzOVFHTk5JcHQ2TWQtVi1mZVBJLWRyLWFOZDY2SlFnbjlCV2VvTHlIZmdISHFmOTBieWpoYnMyNzNLV0VIZmtjX0tzd056aUxHQnpTSW9WUVFSTk9MSTNlNDhpMU1BN0t5c1plZzQwQ2RWTDdBREE1VFZ4QXNNY3FTQk5TU0l3RmN2dWtDRThjNEVLSVVDY2hJZmY3eldUTDhHZDNaODJYMmtpMmZSQ0pDRlE?oc=5",
-          "source": "Google News",
-          "published": "Thu, 12 Nov 2026 10:06:18 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Revealed",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Cause of death for Anthony Clark, comedian and ‘Yes, Dear’ star, revealed - Los Angeles Times",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV2VZU3lRU3E1cGswY19YUTlGSHlEdm9ZRjUwSW1OLXdnWkM1S2loY2ZSUkdrYldyRGxTUDlKczlUUzZlaTJ0Mlo4TkVOTEhFZVlKRmFKUlp3Q1RHSFdfWGJmb044NzFfYmo1QzRBdHlGeVFWMlFiY0IzMHFJT19IeHlyamhac1VOQy1tMy1hNmNvSnFpVWVDT2l4QjVna2J1amZlUHRyMWNBcjg1RkYxMw?oc=5",
-          "source": "Google News",
-          "published": "Thu, 12 Nov 2026 23:45:38 GMT"
-        },
-        {
-          "title": "Man Utd ‘Strike Deal’ With Mauricio Pochettino, Contract Length Revealed - Sports Illustrated",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcUtuZUl2RXZOWk9taHZKNjFvSEh2Nkl5Tl90QnhMMDUzdkxNb1BmaGtJYThpbWdlc3pOdjRNeWtfUk51WmVSb0dORUpUV2JqMk5jZ2FJR0tzbE9BRlVWVnRkQ3FPb3p6cmhzWl9raFU4bm9vNE1LWmRfc1RMeU5Zb3R5Mjk0dFk5bGVkSTJSSDJFRlRVUVJZNkEyWQ?oc=5",
-          "source": "Google News",
-          "published": "Fri, 13 Nov 2026 00:15:00 GMT"
+          "published": "Fri, 13 Nov 2026 03:46:00 GMT"
         }
       ]
     },
@@ -401,29 +224,92 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Rosalía wins album of the year 2026 at the Latin Grammy Awards for 'Lux,' capping a thrilling night - AP News",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeXROUWxpZzdDQUdnSzV6SlNpY1hIWEotZGZ6cVZlNDByRzUwZ2tJQ3VjdmwwdFRhcVN6Z0FuNlpmOGozajJpNVpZZEVUMEtSeG1KXzVYNFRqTlpDMVRPUVg5bmpqOUdaZm5GV2M5aG5QNzZVczZyMTA3YkxwbkVyU055dmc?oc=5",
+          "title": "Thursday Night Football: Stefon Diggs’ late TD gives Commanders 24-21 win - NBC Sports",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTUdrX0lEdjQ2YnpNLXFVbXdvMXpYX01ubHNfWmMyMEV1ODZGS3JLVmZVVDFJYmF0TzRQWHl4SXVjcmx1cUtheHBOU0VLQlZLcC1xbWJnOHlPX1JmWFJJMkxvOGVLb2tFa2wxQjM2by1iVm9USlhRSFZzaHZwR1piNHNkczVNVUdHaURWVnZ3TW83RjRkazJTaEZuem9EazZ2TUUxRE1hWm9wa1gyMExJdGxMS0gxN2FQUnJzWV9JbzFfaHdqQVd2eWpNa3pLZw?oc=5",
           "source": "Google News",
-          "published": "Fri, 13 Nov 2026 04:47:00 GMT"
+          "published": "Fri, 13 Nov 2026 04:30:40 GMT"
         },
+        {
+          "title": "Commanders-Giants: Cam Skattebo refuses to be normal, stares into camera during 'Thursday Night Football' - Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQV2k4NkVLbm9obkdyVEVPTEw0LTNucVcwS3VmREt0V1BaX0FxVzUybEl6UVRsVWdIQmFCQ0NqRnV4RWxyMW9CS05fUEQySXlUUnl3YTRvUWRZR0RQTTZfeGt2czBzb2phcml1WFNSVDhzbGR3c2J3TVp4MFVCcFhWVmh6dUhXR1NGZ0ozOGJWTlNQYkZYYmZEZXJEVkd3QktDSDFxdjlYNzZDMjRvcWZDSnNhRE9pMFFhOTBRa2pEb3pnb0dBSzhqdG9iYVFnTmpkUzk4anhhZ2FhLV81Z2loZHZpYllSM0JNTTR4MFRXVzdCU2NWaU4wbk5Hcw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 13 Nov 2026 03:46:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Football",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
         {
           "title": "Thursday Night Football: Stefon Diggs’ late TD gives Commanders 24-21 win - NBC Sports",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTUdrX0lEdjQ2YnpNLXFVbXdvMXpYX01ubHNfWmMyMEV1ODZGS3JLVmZVVDFJYmF0TzRQWHl4SXVjcmx1cUtheHBOU0VLQlZLcC1xbWJnOHlPX1JmWFJJMkxvOGVLb2tFa2wxQjM2by1iVm9USlhRSFZzaHZwR1piNHNkczVNVUdHaURWVnZ3TW83RjRkazJTaEZuem9EazZ2TUUxRE1hWm9wa1gyMExJdGxMS0gxN2FQUnJzWV9JbzFfaHdqQVd2eWpNa3pLZw?oc=5",
           "source": "Google News",
           "published": "Fri, 13 Nov 2026 04:30:40 GMT"
+        },
+        {
+          "title": "Commanders-Giants: Cam Skattebo refuses to be normal, stares into camera during 'Thursday Night Football' - Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQV2k4NkVLbm9obkdyVEVPTEw0LTNucVcwS3VmREt0V1BaX0FxVzUybEl6UVRsVWdIQmFCQ0NqRnV4RWxyMW9CS05fUEQySXlUUnl3YTRvUWRZR0RQTTZfeGt2czBzb2phcml1WFNSVDhzbGR3c2J3TVp4MFVCcFhWVmh6dUhXR1NGZ0ozOGJWTlNQYkZYYmZEZXJEVkd3QktDSDFxdjlYNzZDMjRvcWZDSnNhRE9pMFFhOTBRa2pEb3pnb0dBSzhqdG9iYVFnTmpkUzk4anhhZ2FhLV81Z2loZHZpYllSM0JNTTR4MFRXVzdCU2NWaU4wbk5Hcw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 13 Nov 2026 03:46:00 GMT"
         }
       ]
     },
     {
-      "word": "MVP",
+      "word": "Commanders",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Pete Crow-Armstrong unanimously ends Shohei Ohtani's run as NL MVP, Yordan Alvarez takes AL MVP for Astros - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZWNwR0hLTFFaamowaUtFMk5HRWwtNU12cnRpYnRLdmlFdWxDNFhWTXpxMEhQOENfbDhjaktxTl9wVG1kUFo5R2VrWlNZVjg1YW5GalRUUGhzWDFqQlVzUnhSRzhsc1Foa2lzbV9fM0xCMFMtdGQ2RFFraUktUzJVMlRldUdTRGw5bWxod2dqOXpVN1ZRTzBhdXRyT0tNQjR2UWFXQk5peTA3THNTRWo1LXBzYXRfVTZhakVOei0tLTlOVElDckJhSFRjcm5ZNVli?oc=5",
+          "title": "Thursday Night Football: Stefon Diggs’ late TD gives Commanders 24-21 win - NBC Sports",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTUdrX0lEdjQ2YnpNLXFVbXdvMXpYX01ubHNfWmMyMEV1ODZGS3JLVmZVVDFJYmF0TzRQWHl4SXVjcmx1cUtheHBOU0VLQlZLcC1xbWJnOHlPX1JmWFJJMkxvOGVLb2tFa2wxQjM2by1iVm9USlhRSFZzaHZwR1piNHNkczVNVUdHaURWVnZ3TW83RjRkazJTaEZuem9EazZ2TUUxRE1hWm9wa1gyMExJdGxMS0gxN2FQUnJzWV9JbzFfaHdqQVd2eWpNa3pLZw?oc=5",
           "source": "Google News",
-          "published": "Fri, 13 Nov 2026 03:06:37 GMT"
+          "published": "Fri, 13 Nov 2026 04:30:40 GMT"
+        },
+        {
+          "title": "Commanders-Giants: Cam Skattebo refuses to be normal, stares into camera during 'Thursday Night Football' - Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQV2k4NkVLbm9obkdyVEVPTEw0LTNucVcwS3VmREt0V1BaX0FxVzUybEl6UVRsVWdIQmFCQ0NqRnV4RWxyMW9CS05fUEQySXlUUnl3YTRvUWRZR0RQTTZfeGt2czBzb2phcml1WFNSVDhzbGR3c2J3TVp4MFVCcFhWVmh6dUhXR1NGZ0ozOGJWTlNQYkZYYmZEZXJEVkd3QktDSDFxdjlYNzZDMjRvcWZDSnNhRE9pMFFhOTBRa2pEb3pnb0dBSzhqdG9iYVFnTmpkUzk4anhhZ2FhLV81Z2loZHZpYllSM0JNTTR4MFRXVzdCU2NWaU4wbk5Hcw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 13 Nov 2026 03:46:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "may",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "SpaceX's giant rocket may leave NASA in the dust - NPR",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPS29lRWxDTEFxWU55UU1fMlhIcXNJamF3bFRkX01nWEhnRjI1QjNnZHppcERYSFJPTzVJVHlvc0pVVkh6WENxSTJQTkVlODhuaGY4b1dzWUhTcjVJZ0w0NGhNWmtsQ0JkNzRlX2trUS1KVkozZFJFOGFWeXRCQVZtUHV1YllJalFsT3Qxd2tObFBKdw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 13 Nov 2026 10:00:00 GMT"
+        },
+        {
+          "title": "Popular snack may help support brain health in older adults, new study finds - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdldGaVp2UnpVYjI2SWQ0MmZ1V3dvdk14YXFtM3pFVGFWOUxlZHhOOFZwanE1Tm0tbURWNl8ya2VpS3VHT3FnSEZxQUhDUVlrd3JPU3hPSThmUVBOb1FlZDh0aUt4NnQwV3hHUDBIVUZqZDNfdW8wRFdqdDRKZ0dHMHlGdFNLZnBTa213MFY5U1hqZE5mOW9ZTi1xR1NRSVkwdnBmSjh6N0NQSGvSAbABQVVfeXFMT3RqNVp2cnpfcFc3UzN2UkQyNDVoVml2VkpHbkV5emN1WGxEU0taVS0yUEpPSUxMeGtDa0lOSHA5bGZsXzBmcC0tRVAyX2RRdlF6UmRKbUk5c1dhMUp1NERMY2JvZzFKVWZndEdpYUFnVWJZS0JLV0V4UGFnc1pnRlViaHFTVG1HU3c5RmE4aFJJWUdBT25vdnpGWFI2cGs3bGV5UFRiaWhqS21JQTU2SDk?oc=5",
+          "source": "Google News",
+          "published": "Fri, 13 Nov 2026 11:00:04 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Nasa",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "SpaceX's giant rocket may leave NASA in the dust - NPR",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPS29lRWxDTEFxWU55UU1fMlhIcXNJamF3bFRkX01nWEhnRjI1QjNnZHppcERYSFJPTzVJVHlvc0pVVkh6WENxSTJQTkVlODhuaGY4b1dzWUhTcjVJZ0w0NGhNWmtsQ0JkNzRlX2trUS1KVkozZFJFOGFWeXRCQVZtUHV1YllJalFsT3Qxd2tObFBKdw?oc=5",
+          "source": "Google News",
+          "published": "Fri, 13 Nov 2026 10:00:00 GMT"
+        },
+        {
+          "title": "Nasa asks public to ‘light up the world’ for Voyager 1 milestone - The Telegraph",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNWkxYmJWQVBSOTFtZ1REZXoxZ19PSVpSNmFKbmx3TEdzNHlDdUdlaDVrZ29XMTdhOG8zY19PWkZKVFBTVkFmTFJkM0tCNlhwNVZKX05uaS0ydWhweHBHTUhJYW9LbEhaVFBPUXQ0UHdNWkNDd3pNWGMzeWs1dUMxMjdtYm9LNGszYk5OZHYwWlJCVW9XUXpCbVNkSmZ4LVc1UDlvQklXZmo1RkE?oc=5",
+          "source": "Google News",
+          "published": "Wed, 11 Nov 2026 18:55:00 GMT"
         }
       ]
     },
@@ -441,21 +327,21 @@
       ]
     },
     {
-      "word": "Space",
+      "word": "Light",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Dark matter breakthrough coming? Euclid space telescope unveils its 1st look into the dark universe (video) - Space",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd3N1QTVmUWk0TFBfQjVfTGZKeTR4b1pheGlIajJTclVKdmZqdWhBUmlSZG1UeC1pVTNwZVBvU1NWUWlqdDBGbXd0Z2NUWXZuTFZ6Q2NGWVJQVXduRGhuc2R5Ymh0VmF1T3dNSnZNcmM1VS1pa2lNUkdFX2thRmZQLW5aNnB5RkMxT2R4UGZxLTFBWkd0Z2N0cFFIYWs5c05LSXlYRlZtSWZaNWRyc3RKWjA4WmZvZ2U3V0JwNUR6TnRCN1ZoYVVlZXBRWHZBdWlmRUE?oc=5",
+          "title": "Research advances quantum computing that harnesses speed of light - Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BTFc0YTlxTl9qVXhnSmlVekFGSE4yT0tqbEVJblJPX3lESEloQ3Jud3BHQ0lHbVloazdwS1M4SWpLSGxDX25qMklYMEJCNVl5TENFVUFIaThqYzY1ZlNucWxfYldHalQ2d29CaDBn?oc=5",
           "source": "Google News",
-          "published": "Thu, 12 Nov 2026 17:28:20 GMT"
+          "published": "Fri, 13 Nov 2026 03:40:01 GMT"
         },
         {
-          "title": "Earth is surrounded by millions of pieces of space junk and the problem is getting worse - WRAL",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMnFhWUhqbTdZQUY5azdvem94anh4NGdSaXVjVFR4MVNSWUdyMndabnRuUERaejFJMjZfWTcxems5SU4zdjVXSXU0dV92Tmc2RDZfWlUwN3VWQ25hNVZtNnZJODQxMktxTmhsVGtSbmNYWFBOTkFMZUJxWUk5ZVJleVZIbzRROXZYLVdGZUVGZlB0dWtrWU1wUEVwdndSZmNjcFFPSXItQ1FvQkxPQ0NUZXRxMk1fSmx1YVVr?oc=5",
+          "title": "Nasa asks public to ‘light up the world’ for Voyager 1 milestone - The Telegraph",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNWkxYmJWQVBSOTFtZ1REZXoxZ19PSVpSNmFKbmx3TEdzNHlDdUdlaDVrZ29XMTdhOG8zY19PWkZKVFBTVkFmTFJkM0tCNlhwNVZKX05uaS0ydWhweHBHTUhJYW9LbEhaVFBPUXQ0UHdNWkNDd3pNWGMzeWs1dUMxMjdtYm9LNGszYk5OZHYwWlJCVW9XUXpCbVNkSmZ4LVc1UDlvQklXZmo1RkE?oc=5",
           "source": "Google News",
-          "published": "Mon, 09 Nov 2026 20:44:50 GMT"
+          "published": "Wed, 11 Nov 2026 18:55:00 GMT"
         }
       ]
     },
@@ -465,114 +351,166 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "In reversal, American Cancer Society urges routine prostate cancer screening - Ars Technica",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMGc2X2ZZMWhMTUppcFJodEt1Wk9qMTdJMHZMREpzaHdMZy1jY0RBTEhmYTI3VFMxTmk0UnpCSUtNXzkzRjJkXzJxTTF1akVlMDVSc0lQVUNwNHgzaGEwMmJPYUtSeWlvY0VqNWVMVUxKaVhrdzlYUzhMQmwtc0N2REpkM2YzalZ4QTg0Y0pOWDB3OFdKUXh0U3hfd05WV2R3LThQVmJjeUtNMlVId01Fcm1nVTFHUQ?oc=5",
+          "title": "Regular prostate cancer screening recommended under new American Cancer Society guidelines - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyTHV5NldlVDg1OWp1aGhOSVQ1US1uejlzbnFKUlhCcnBoWjltZ1dQNEJnZTJoaTY2MHZ1Q1RhUG5rRWpaT1N5b0FUOEtScXB0Q1ZSb21fUWtJeXBFX3pVeDZxSVpUdDByUGVHbks3dmlrd0dO?oc=5",
           "source": "Google News",
-          "published": "Thu, 12 Nov 2026 22:59:51 GMT"
+          "published": "Thu, 12 Nov 2026 22:13:00 GMT"
         }
       ]
     },
     {
-      "word": "CEO",
+      "word": "Scott",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HY0g2NTA4UDg1bGFHUXhyZkJCeGJsYXdGeVFFWXNBWHlSNGlDYzVXQkw5YkxheFhEbG1jNGRpXzVVeThsMkJYWENEQ3ZtNi1SZkZfT0RZWnNrckE?oc=5",
+          "title": "Scott Bessent blames commerce department over delay blacklisting China-linked data company – US politics live - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQkhkRS0wN3ZwMVdrV1lmZ3Z6bGpxSDRvcHc0MFpGNDlQZXVtTG9qTkl5X2pHY1c4SW5zU3ZRVHY5X1QyM3dQZ0M2R0toVkprNFRIVml3QkNXbnhRaWxKNVZvdjFoY0xQT2J1cUlhZi1QVzlpdUJHYzZ5d1N1ZHZhdDRaR3U1NjRiMXhQUDMyZVVka2lDd05xdFd2Yk1TTXRWSlpTaFdUR284eGZaaThSa2FGN1lXYy1iclZOdEl2Z211ajc2LWNHVkhCS1pNSXIwMFpZZUprSGw1Q3pm?oc=5",
           "source": "Google News",
-          "published": "Fri, 13 Nov 2026 03:57:01 GMT"
+          "published": "Fri, 13 Nov 2026 14:32:14 GMT"
         }
       ]
     },
     {
-      "word": "Summoned",
+      "word": "Bessent",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HY0g2NTA4UDg1bGFHUXhyZkJCeGJsYXdGeVFFWXNBWHlSNGlDYzVXQkw5YkxheFhEbG1jNGRpXzVVeThsMkJYWENEQ3ZtNi1SZkZfT0RZWnNrckE?oc=5",
+          "title": "Scott Bessent blames commerce department over delay blacklisting China-linked data company – US politics live - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQkhkRS0wN3ZwMVdrV1lmZ3Z6bGpxSDRvcHc0MFpGNDlQZXVtTG9qTkl5X2pHY1c4SW5zU3ZRVHY5X1QyM3dQZ0M2R0toVkprNFRIVml3QkNXbnhRaWxKNVZvdjFoY0xQT2J1cUlhZi1QVzlpdUJHYzZ5d1N1ZHZhdDRaR3U1NjRiMXhQUDMyZVVka2lDd05xdFd2Yk1TTXRWSlpTaFdUR284eGZaaThSa2FGN1lXYy1iclZOdEl2Z211ajc2LWNHVkhCS1pNSXIwMFpZZUprSGw1Q3pm?oc=5",
           "source": "Google News",
-          "published": "Fri, 13 Nov 2026 03:57:01 GMT"
+          "published": "Fri, 13 Nov 2026 14:32:14 GMT"
         }
       ]
     },
     {
-      "word": "Testify",
+      "word": "Blames",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HY0g2NTA4UDg1bGFHUXhyZkJCeGJsYXdGeVFFWXNBWHlSNGlDYzVXQkw5YkxheFhEbG1jNGRpXzVVeThsMkJYWENEQ3ZtNi1SZkZfT0RZWnNrckE?oc=5",
+          "title": "Scott Bessent blames commerce department over delay blacklisting China-linked data company – US politics live - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQkhkRS0wN3ZwMVdrV1lmZ3Z6bGpxSDRvcHc0MFpGNDlQZXVtTG9qTkl5X2pHY1c4SW5zU3ZRVHY5X1QyM3dQZ0M2R0toVkprNFRIVml3QkNXbnhRaWxKNVZvdjFoY0xQT2J1cUlhZi1QVzlpdUJHYzZ5d1N1ZHZhdDRaR3U1NjRiMXhQUDMyZVVka2lDd05xdFd2Yk1TTXRWSlpTaFdUR284eGZaaThSa2FGN1lXYy1iclZOdEl2Z211ajc2LWNHVkhCS1pNSXIwMFpZZUprSGw1Q3pm?oc=5",
           "source": "Google News",
-          "published": "Fri, 13 Nov 2026 03:57:01 GMT"
+          "published": "Fri, 13 Nov 2026 14:32:14 GMT"
         }
       ]
     },
     {
-      "word": "Congress",
+      "word": "Commerce",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HY0g2NTA4UDg1bGFHUXhyZkJCeGJsYXdGeVFFWXNBWHlSNGlDYzVXQkw5YkxheFhEbG1jNGRpXzVVeThsMkJYWENEQ3ZtNi1SZkZfT0RZWnNrckE?oc=5",
+          "title": "Scott Bessent blames commerce department over delay blacklisting China-linked data company – US politics live - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQkhkRS0wN3ZwMVdrV1lmZ3Z6bGpxSDRvcHc0MFpGNDlQZXVtTG9qTkl5X2pHY1c4SW5zU3ZRVHY5X1QyM3dQZ0M2R0toVkprNFRIVml3QkNXbnhRaWxKNVZvdjFoY0xQT2J1cUlhZi1QVzlpdUJHYzZ5d1N1ZHZhdDRaR3U1NjRiMXhQUDMyZVVka2lDd05xdFd2Yk1TTXRWSlpTaFdUR284eGZaaThSa2FGN1lXYy1iclZOdEl2Z211ajc2LWNHVkhCS1pNSXIwMFpZZUprSGw1Q3pm?oc=5",
           "source": "Google News",
-          "published": "Fri, 13 Nov 2026 03:57:01 GMT"
+          "published": "Fri, 13 Nov 2026 14:32:14 GMT"
         }
       ]
     },
     {
-      "word": "Affair",
+      "word": "Department",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HY0g2NTA4UDg1bGFHUXhyZkJCeGJsYXdGeVFFWXNBWHlSNGlDYzVXQkw5YkxheFhEbG1jNGRpXzVVeThsMkJYWENEQ3ZtNi1SZkZfT0RZWnNrckE?oc=5",
+          "title": "Scott Bessent blames commerce department over delay blacklisting China-linked data company – US politics live - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQkhkRS0wN3ZwMVdrV1lmZ3Z6bGpxSDRvcHc0MFpGNDlQZXVtTG9qTkl5X2pHY1c4SW5zU3ZRVHY5X1QyM3dQZ0M2R0toVkprNFRIVml3QkNXbnhRaWxKNVZvdjFoY0xQT2J1cUlhZi1QVzlpdUJHYzZ5d1N1ZHZhdDRaR3U1NjRiMXhQUDMyZVVka2lDd05xdFd2Yk1TTXRWSlpTaFdUR284eGZaaThSa2FGN1lXYy1iclZOdEl2Z211ajc2LWNHVkhCS1pNSXIwMFpZZUprSGw1Q3pm?oc=5",
           "source": "Google News",
-          "published": "Fri, 13 Nov 2026 03:57:01 GMT"
+          "published": "Fri, 13 Nov 2026 14:32:14 GMT"
         }
       ]
     },
     {
-      "word": "Chinese",
+      "word": "Delay",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HY0g2NTA4UDg1bGFHUXhyZkJCeGJsYXdGeVFFWXNBWHlSNGlDYzVXQkw5YkxheFhEbG1jNGRpXzVVeThsMkJYWENEQ3ZtNi1SZkZfT0RZWnNrckE?oc=5",
+          "title": "Scott Bessent blames commerce department over delay blacklisting China-linked data company – US politics live - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQkhkRS0wN3ZwMVdrV1lmZ3Z6bGpxSDRvcHc0MFpGNDlQZXVtTG9qTkl5X2pHY1c4SW5zU3ZRVHY5X1QyM3dQZ0M2R0toVkprNFRIVml3QkNXbnhRaWxKNVZvdjFoY0xQT2J1cUlhZi1QVzlpdUJHYzZ5d1N1ZHZhdDRaR3U1NjRiMXhQUDMyZVVka2lDd05xdFd2Yk1TTXRWSlpTaFdUR284eGZaaThSa2FGN1lXYy1iclZOdEl2Z211ajc2LWNHVkhCS1pNSXIwMFpZZUprSGw1Q3pm?oc=5",
           "source": "Google News",
-          "published": "Fri, 13 Nov 2026 03:57:01 GMT"
+          "published": "Fri, 13 Nov 2026 14:32:14 GMT"
         }
       ]
     },
     {
-      "word": "spy",
+      "word": "Blacklisting",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HY0g2NTA4UDg1bGFHUXhyZkJCeGJsYXdGeVFFWXNBWHlSNGlDYzVXQkw5YkxheFhEbG1jNGRpXzVVeThsMkJYWENEQ3ZtNi1SZkZfT0RZWnNrckE?oc=5",
+          "title": "Scott Bessent blames commerce department over delay blacklisting China-linked data company – US politics live - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQkhkRS0wN3ZwMVdrV1lmZ3Z6bGpxSDRvcHc0MFpGNDlQZXVtTG9qTkl5X2pHY1c4SW5zU3ZRVHY5X1QyM3dQZ0M2R0toVkprNFRIVml3QkNXbnhRaWxKNVZvdjFoY0xQT2J1cUlhZi1QVzlpdUJHYzZ5d1N1ZHZhdDRaR3U1NjRiMXhQUDMyZVVka2lDd05xdFd2Yk1TTXRWSlpTaFdUR284eGZaaThSa2FGN1lXYy1iclZOdEl2Z211ajc2LWNHVkhCS1pNSXIwMFpZZUprSGw1Q3pm?oc=5",
           "source": "Google News",
-          "published": "Fri, 13 Nov 2026 03:57:01 GMT"
+          "published": "Fri, 13 Nov 2026 14:32:14 GMT"
         }
       ]
     },
     {
-      "word": "Meet",
+      "word": "Linked",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Meet the 27-year old behind the protein ad that helped flip Mississippi - Politico",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUXM4dWlNNFZsQ1lCaE9fQmZrVWJyVjYzN3hNU3VrX0pCZlVCUkIxT1lORXhOWnhYNjZQREpGajJ2NHZOU1Y2WHE4Y2ZnVEdHdmpmemNNVURQNzlLWFBabnRWMEU4blpqZlZvR0FmeW9tcWJfa1c3T3ZZUVFiWWNfcWI0VXQ4X0lFaVVDVjk3dGxOcV9Z?oc=5",
+          "title": "Scott Bessent blames commerce department over delay blacklisting China-linked data company – US politics live - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQkhkRS0wN3ZwMVdrV1lmZ3Z6bGpxSDRvcHc0MFpGNDlQZXVtTG9qTkl5X2pHY1c4SW5zU3ZRVHY5X1QyM3dQZ0M2R0toVkprNFRIVml3QkNXbnhRaWxKNVZvdjFoY0xQT2J1cUlhZi1QVzlpdUJHYzZ5d1N1ZHZhdDRaR3U1NjRiMXhQUDMyZVVka2lDd05xdFd2Yk1TTXRWSlpTaFdUR284eGZaaThSa2FGN1lXYy1iclZOdEl2Z211ajc2LWNHVkhCS1pNSXIwMFpZZUprSGw1Q3pm?oc=5",
           "source": "Google News",
-          "published": "Thu, 12 Nov 2026 22:34:00 GMT"
+          "published": "Fri, 13 Nov 2026 14:32:14 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Data",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Scott Bessent blames commerce department over delay blacklisting China-linked data company – US politics live - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQkhkRS0wN3ZwMVdrV1lmZ3Z6bGpxSDRvcHc0MFpGNDlQZXVtTG9qTkl5X2pHY1c4SW5zU3ZRVHY5X1QyM3dQZ0M2R0toVkprNFRIVml3QkNXbnhRaWxKNVZvdjFoY0xQT2J1cUlhZi1QVzlpdUJHYzZ5d1N1ZHZhdDRaR3U1NjRiMXhQUDMyZVVka2lDd05xdFd2Yk1TTXRWSlpTaFdUR284eGZaaThSa2FGN1lXYy1iclZOdEl2Z211ajc2LWNHVkhCS1pNSXIwMFpZZUprSGw1Q3pm?oc=5",
+          "source": "Google News",
+          "published": "Fri, 13 Nov 2026 14:32:14 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Company",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Scott Bessent blames commerce department over delay blacklisting China-linked data company – US politics live - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQkhkRS0wN3ZwMVdrV1lmZ3Z6bGpxSDRvcHc0MFpGNDlQZXVtTG9qTkl5X2pHY1c4SW5zU3ZRVHY5X1QyM3dQZ0M2R0toVkprNFRIVml3QkNXbnhRaWxKNVZvdjFoY0xQT2J1cUlhZi1QVzlpdUJHYzZ5d1N1ZHZhdDRaR3U1NjRiMXhQUDMyZVVka2lDd05xdFd2Yk1TTXRWSlpTaFdUR284eGZaaThSa2FGN1lXYy1iclZOdEl2Z211ajc2LWNHVkhCS1pNSXIwMFpZZUprSGw1Q3pm?oc=5",
+          "source": "Google News",
+          "published": "Fri, 13 Nov 2026 14:32:14 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Politics",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Scott Bessent blames commerce department over delay blacklisting China-linked data company – US politics live - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQkhkRS0wN3ZwMVdrV1lmZ3Z6bGpxSDRvcHc0MFpGNDlQZXVtTG9qTkl5X2pHY1c4SW5zU3ZRVHY5X1QyM3dQZ0M2R0toVkprNFRIVml3QkNXbnhRaWxKNVZvdjFoY0xQT2J1cUlhZi1QVzlpdUJHYzZ5d1N1ZHZhdDRaR3U1NjRiMXhQUDMyZVVka2lDd05xdFd2Yk1TTXRWSlpTaFdUR284eGZaaThSa2FGN1lXYy1iclZOdEl2Z211ajc2LWNHVkhCS1pNSXIwMFpZZUprSGw1Q3pm?oc=5",
+          "source": "Google News",
+          "published": "Fri, 13 Nov 2026 14:32:14 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Live",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Scott Bessent blames commerce department over delay blacklisting China-linked data company – US politics live - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQkhkRS0wN3ZwMVdrV1lmZ3Z6bGpxSDRvcHc0MFpGNDlQZXVtTG9qTkl5X2pHY1c4SW5zU3ZRVHY5X1QyM3dQZ0M2R0toVkprNFRIVml3QkNXbnhRaWxKNVZvdjFoY0xQT2J1cUlhZi1QVzlpdUJHYzZ5d1N1ZHZhdDRaR3U1NjRiMXhQUDMyZVVka2lDd05xdFd2Yk1TTXRWSlpTaFdUR284eGZaaThSa2FGN1lXYy1iclZOdEl2Z211ajc2LWNHVkhCS1pNSXIwMFpZZUprSGw1Q3pm?oc=5",
+          "source": "Google News",
+          "published": "Fri, 13 Nov 2026 14:32:14 GMT"
         }
       ]
     },
@@ -582,7 +520,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Meet the 27-year old behind the protein ad that helped flip Mississippi - Politico",
+          "title": "Meet the 27-year-old behind the protein ad that helped flip Mississippi - Politico",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUXM4dWlNNFZsQ1lCaE9fQmZrVWJyVjYzN3hNU3VrX0pCZlVCUkIxT1lORXhOWnhYNjZQREpGajJ2NHZOU1Y2WHE4Y2ZnVEdHdmpmemNNVURQNzlLWFBabnRWMEU4blpqZlZvR0FmeW9tcWJfa1c3T3ZZUVFiWWNfcWI0VXQ4X0lFaVVDVjk3dGxOcV9Z?oc=5",
           "source": "Google News",
           "published": "Thu, 12 Nov 2026 22:34:00 GMT"
@@ -595,7 +533,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Meet the 27-year old behind the protein ad that helped flip Mississippi - Politico",
+          "title": "Meet the 27-year-old behind the protein ad that helped flip Mississippi - Politico",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUXM4dWlNNFZsQ1lCaE9fQmZrVWJyVjYzN3hNU3VrX0pCZlVCUkIxT1lORXhOWnhYNjZQREpGajJ2NHZOU1Y2WHE4Y2ZnVEdHdmpmemNNVURQNzlLWFBabnRWMEU4blpqZlZvR0FmeW9tcWJfa1c3T3ZZUVFiWWNfcWI0VXQ4X0lFaVVDVjk3dGxOcV9Z?oc=5",
           "source": "Google News",
           "published": "Thu, 12 Nov 2026 22:34:00 GMT"
@@ -608,7 +546,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Meet the 27-year old behind the protein ad that helped flip Mississippi - Politico",
+          "title": "Meet the 27-year-old behind the protein ad that helped flip Mississippi - Politico",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUXM4dWlNNFZsQ1lCaE9fQmZrVWJyVjYzN3hNU3VrX0pCZlVCUkIxT1lORXhOWnhYNjZQREpGajJ2NHZOU1Y2WHE4Y2ZnVEdHdmpmemNNVURQNzlLWFBabnRWMEU4blpqZlZvR0FmeW9tcWJfa1c3T3ZZUVFiWWNfcWI0VXQ4X0lFaVVDVjk3dGxOcV9Z?oc=5",
           "source": "Google News",
           "published": "Thu, 12 Nov 2026 22:34:00 GMT"
@@ -621,7 +559,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Meet the 27-year old behind the protein ad that helped flip Mississippi - Politico",
+          "title": "Meet the 27-year-old behind the protein ad that helped flip Mississippi - Politico",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUXM4dWlNNFZsQ1lCaE9fQmZrVWJyVjYzN3hNU3VrX0pCZlVCUkIxT1lORXhOWnhYNjZQREpGajJ2NHZOU1Y2WHE4Y2ZnVEdHdmpmemNNVURQNzlLWFBabnRWMEU4blpqZlZvR0FmeW9tcWJfa1c3T3ZZUVFiWWNfcWI0VXQ4X0lFaVVDVjk3dGxOcV9Z?oc=5",
           "source": "Google News",
           "published": "Thu, 12 Nov 2026 22:34:00 GMT"
@@ -634,7 +572,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Meet the 27-year old behind the protein ad that helped flip Mississippi - Politico",
+          "title": "Meet the 27-year-old behind the protein ad that helped flip Mississippi - Politico",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUXM4dWlNNFZsQ1lCaE9fQmZrVWJyVjYzN3hNU3VrX0pCZlVCUkIxT1lORXhOWnhYNjZQREpGajJ2NHZOU1Y2WHE4Y2ZnVEdHdmpmemNNVURQNzlLWFBabnRWMEU4blpqZlZvR0FmeW9tcWJfa1c3T3ZZUVFiWWNfcWI0VXQ4X0lFaVVDVjk3dGxOcV9Z?oc=5",
           "source": "Google News",
           "published": "Thu, 12 Nov 2026 22:34:00 GMT"
@@ -647,7 +585,7 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Meet the 27-year old behind the protein ad that helped flip Mississippi - Politico",
+          "title": "Meet the 27-year-old behind the protein ad that helped flip Mississippi - Politico",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUXM4dWlNNFZsQ1lCaE9fQmZrVWJyVjYzN3hNU3VrX0pCZlVCUkIxT1lORXhOWnhYNjZQREpGajJ2NHZOU1Y2WHE4Y2ZnVEdHdmpmemNNVURQNzlLWFBabnRWMEU4blpqZlZvR0FmeW9tcWJfa1c3T3ZZUVFiWWNfcWI0VXQ4X0lFaVVDVjk3dGxOcV9Z?oc=5",
           "source": "Google News",
           "published": "Thu, 12 Nov 2026 22:34:00 GMT"
@@ -655,15 +593,41 @@
       ]
     },
     {
-      "word": "Van",
+      "word": "Brooklyn",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Van Hollen Says He Will Challenge Schumer for Senate Majority Leader - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeE1ydjlwSE1Mc2hyektqU214alFSdTQ0cEhhV1ZMaFhHNFFaUkJzZ0FCSDlxZXBNcUZOSU5OaXJBVFJDSzBTc1B4c2xtaWd6WWo4ODd3Y1BENUNPRUdkdVVZY1Y3eGRoRnR3U1dwQXpFQWVOT084YmJ6ME9SUllKLVFnTUlWZk0taTk1QUdQclNFZWVuTlVVck15MUM?oc=5",
+          "title": "Brooklyn building collapse: 2 children, 6 men killed in Flatbush - ABC7 New York",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQblVQR0RaMDh0dzQ4UmlJajZyUUM2bXJGWi0xVTZDMnpXekZkMy0tQWVLMFoyTmNwMWJmc0QxcTJvTEJoWEJyU0ROa1NEU1l5Z1FWVnV3MG1KdktYUTczYTlsYk85RXYtN0ZMZV9VM0NRT1NqWDJxSnI5RDROby1MUW1qejd1OG5aMTgtdFNNX3dIa2VOcE0tc9IBngFBVV95cUxOSmpLSUxBZl9uSWowNV9nQTVVZEF3MjBiRHNvWnNkVzRWc0IzY2pFNnNOSmxITmFjWkM4LU41eVVGM2Jwcmx3X0RPeUF5UU9uM2JDaUZZME14OXl2TS1oNGtlZ0c4c2tjcF80dTh0dzFXbTZKY2VSV0diUXJLX20xcFhkYWZnZkhWYjFYVGpaZFhJME5iS2hMcHJxczEtQQ?oc=5",
           "source": "Google News",
-          "published": "Fri, 13 Nov 2026 04:11:39 GMT"
+          "published": "Fri, 13 Nov 2026 00:35:29 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Collapse",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Brooklyn building collapse: 2 children, 6 men killed in Flatbush - ABC7 New York",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQblVQR0RaMDh0dzQ4UmlJajZyUUM2bXJGWi0xVTZDMnpXekZkMy0tQWVLMFoyTmNwMWJmc0QxcTJvTEJoWEJyU0ROa1NEU1l5Z1FWVnV3MG1KdktYUTczYTlsYk85RXYtN0ZMZV9VM0NRT1NqWDJxSnI5RDROby1MUW1qejd1OG5aMTgtdFNNX3dIa2VOcE0tc9IBngFBVV95cUxOSmpLSUxBZl9uSWowNV9nQTVVZEF3MjBiRHNvWnNkVzRWc0IzY2pFNnNOSmxITmFjWkM4LU41eVVGM2Jwcmx3X0RPeUF5UU9uM2JDaUZZME14OXl2TS1oNGtlZ0c4c2tjcF80dTh0dzFXbTZKY2VSV0diUXJLX20xcFhkYWZnZkhWYjFYVGpaZFhJME5iS2hMcHJxczEtQQ?oc=5",
+          "source": "Google News",
+          "published": "Fri, 13 Nov 2026 00:35:29 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Children",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Brooklyn building collapse: 2 children, 6 men killed in Flatbush - ABC7 New York",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQblVQR0RaMDh0dzQ4UmlJajZyUUM2bXJGWi0xVTZDMnpXekZkMy0tQWVLMFoyTmNwMWJmc0QxcTJvTEJoWEJyU0ROa1NEU1l5Z1FWVnV3MG1KdktYUTczYTlsYk85RXYtN0ZMZV9VM0NRT1NqWDJxSnI5RDROby1MUW1qejd1OG5aMTgtdFNNX3dIa2VOcE0tc9IBngFBVV95cUxOSmpLSUxBZl9uSWowNV9nQTVVZEF3MjBiRHNvWnNkVzRWc0IzY2pFNnNOSmxITmFjWkM4LU41eVVGM2Jwcmx3X0RPeUF5UU9uM2JDaUZZME14OXl2TS1oNGtlZ0c4c2tjcF80dTh0dzFXbTZKY2VSV0diUXJLX20xcFhkYWZnZkhWYjFYVGpaZFhJME5iS2hMcHJxczEtQQ?oc=5",
+          "source": "Google News",
+          "published": "Fri, 13 Nov 2026 00:35:29 GMT"
         }
       ]
     }
