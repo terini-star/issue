@@ -1,54 +1,99 @@
 {
   "language": "ko",
-  "last_updated": 1795092296.0762038,
+  "last_updated": 1795123098.0046902,
   "count": 40,
   "trends": [
     {
+      "word": "미중러",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "미 전문가들 “미중러 정상회담, 실질적 성과 제한적…중국 위상 강화” - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ0c3RmRRN2FIR24zRmtoeTdaQjBqM3o4a0l6bGVWTjctZTRrNVowcFliaDZZaXRmR3dnRE9KOFNta25SUUVpYUFaWjlZWXR5NGVPVnVjN3VzM2JuX1Y1U0VUbEJCeUJDa014QVZESjJwdmFqS0lPTjBQOHJJQXI3X29LUnlEQ193a3VN0gGOAUFVX3lxTE5DaTJqRklxb1dRZ3FxR2pLU0tQN1dCYkRmLUdVNVJLdWh2bFFia1NqTGtvTzVYczJ6aXFCd3dUY2NrakY2VVRsYVltb3kta01sMWJZVGNuZU1DbzBIMzdhOG1tSzgwYjRCaEZCUkxJblVQU0ltUmQwQ3dmT3cwd1VkbHFoZ3FQYmk3cFJTRHc?oc=5",
+          "source": "Google News",
+          "published": "Thu, 19 Nov 2026 20:22:14 GMT"
+        },
+        {
+          "title": "미중러 회담 당일 '푸틴 자존심' 크림대교 또 공격받아 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oWUdpQUl5RElVOERwbjI2NUJUMHIxOVRncUQyQ2xBYVdSVkwzYk9BZXNJUFAxUW11aDVQdkRaay1JVWI1QWhtaC0xOTF5d01sRktKeFBEQU1ObWvSAWBBVV95cUxQRnNfMHQtVFUtemFvMnoySTBkNmk4V0d4Z1ZlYmJyWGU5eklpNEl6WFVWOXN4enJTdnVsTnNHYTVIUWZpM3RGa1hhTHNNVmVIT0lta0w0aHNzcmpCREFnbU0?oc=5",
+          "source": "Google News",
+          "published": "Thu, 19 Nov 2026 02:30:45 GMT"
+        }
+      ]
+    },
+    {
+      "word": "강화",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "미 전문가들 “미중러 정상회담, 실질적 성과 제한적…중국 위상 강화” - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ0c3RmRRN2FIR24zRmtoeTdaQjBqM3o4a0l6bGVWTjctZTRrNVowcFliaDZZaXRmR3dnRE9KOFNta25SUUVpYUFaWjlZWXR5NGVPVnVjN3VzM2JuX1Y1U0VUbEJCeUJDa014QVZESjJwdmFqS0lPTjBQOHJJQXI3X29LUnlEQ193a3VN0gGOAUFVX3lxTE5DaTJqRklxb1dRZ3FxR2pLU0tQN1dCYkRmLUdVNVJLdWh2bFFia1NqTGtvTzVYczJ6aXFCd3dUY2NrakY2VVRsYVltb3kta01sMWJZVGNuZU1DbzBIMzdhOG1tSzgwYjRCaEZCUkxJblVQU0ltUmQwQ3dmT3cwd1VkbHFoZ3FQYmk3cFJTRHc?oc=5",
+          "source": "Google News",
+          "published": "Thu, 19 Nov 2026 20:22:14 GMT"
+        },
+        {
+          "title": "“아태, 하나의 자유무역지대 추진… AI-디지털경제 분야 협력 강화” - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52cXkxQk1nTjJWOEJ2T2dEbllXcHZ4R1BzUDNMMlBzNjlzTm84WUJxU2w1cFZ6UFdvZjRKcFZyd3lHajRxMDhfd0d2RXR4d29va3ZsR2pyNWc3TGVZVjhxLUs4dW5LRExWakJPVUtqMU14SFXSAWZBVV95cUxNNTA3bExmMnNGXzI4dFU5TlhSNDItOWV0WGVSdXJ3VmM0RFI0a0xXMFlhSnAtWnFraU51a25JWmktdFFJUzBfN2FpbWh1Z1BfZlBuU3Qtcjlvb0JYcFJYeGNaYnJkMEE?oc=5",
+          "source": "Google News",
+          "published": "Thu, 19 Nov 2026 19:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "당일",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "李, 순방중 조작기소 특검법 의결 당일 재가… 野 “기습 재가” 반발 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBIVnJpZUtuTjQtWEd4X2cwRmR4dkI5UUZPX0otZmZBZWoxelh1UjZQUkxsSV9LNVBweldkZERSOEZYOVNEa0hHS0lfZTU2aGtZZDZqbEkzR0Q1dXBZNU5IWm9mMWNkSEJkYlVWYUNlNU9EWVNuSElJ0gFmQVVfeXFMTU8xMGlHYmtnSmg1TzAwYUF1VjVWclBBYVZRV2tMOHFxVjF6YlZxUnVCLWNfMkpaNWZiS0tzS1FER2pITGc0V2p3d3BDVEU0a211LUx4bEstZDRyZGt3dm0ydEUtS05n?oc=5",
+          "source": "Google News",
+          "published": "Thu, 19 Nov 2026 19:30:00 GMT"
+        },
+        {
+          "title": "미중러 회담 당일 '푸틴 자존심' 크림대교 또 공격받아 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oWUdpQUl5RElVOERwbjI2NUJUMHIxOVRncUQyQ2xBYVdSVkwzYk9BZXNJUFAxUW11aDVQdkRaay1JVWI1QWhtaC0xOTF5d01sRktKeFBEQU1ObWvSAWBBVV95cUxQRnNfMHQtVFUtemFvMnoySTBkNmk4V0d4Z1ZlYmJyWGU5eklpNEl6WFVWOXN4enJTdnVsTnNHYTVIUWZpM3RGa1hhTHNNVmVIT0lta0w0aHNzcmpCREFnbU0?oc=5",
+          "source": "Google News",
+          "published": "Thu, 19 Nov 2026 02:30:45 GMT"
+        }
+      ]
+    },
+    {
+      "word": "재가",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "李, 순방중 조작기소 특검법 의결 당일 재가… 野 “기습 재가” 반발 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBIVnJpZUtuTjQtWEd4X2cwRmR4dkI5UUZPX0otZmZBZWoxelh1UjZQUkxsSV9LNVBweldkZERSOEZYOVNEa0hHS0lfZTU2aGtZZDZqbEkzR0Q1dXBZNU5IWm9mMWNkSEJkYlVWYUNlNU9EWVNuSElJ0gFmQVVfeXFMTU8xMGlHYmtnSmg1TzAwYUF1VjVWclBBYVZRV2tMOHFxVjF6YlZxUnVCLWNfMkpaNWZiS0tzS1FER2pITGc0V2p3d3BDVEU0a211LUx4bEstZDRyZGt3dm0ydEUtS05n?oc=5",
+          "source": "Google News",
+          "published": "Thu, 19 Nov 2026 19:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "확정",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "김건희 징역 4년 확정… ‘명태균 여론조사’는 무죄 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZGhpY2V5TmctTk9KS3gzOTFFMS1WclhWYVFLeHBfMVI1MGZJMHpHY2JnYnpmVklCaG5lZHpSa3QxV2VHVks5SjRKaEFObF9NV01lcnk0SWRVNld3R2YzNEhwS0lJMFV1MkkzcTBlZXpnQVU0a3hSNm9HMGFGSkU2OFVnVk83UzA?oc=5",
+          "source": "Google News",
+          "published": "Thu, 19 Nov 2026 09:06:00 GMT"
+        },
+        {
+          "title": "반포현대 재초환 부담금 연내 부과 확정 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZeDA0YUpQUG1ZWVlxSUpvQkRXamM3VE52ZVh2STl2aFl0cWlzWW1td200elpGMFhWdVZCUEhRVk81UnF0UTNfdXFrU2V2QmJ1eW9iek9XQ0ZLQdIBX0FVX3lxTFBvWVd3ejdld0EteWV2eDJZUHdkVUZIS0owQVZxZVAyX0drY2JWblZBRDFpLURHb3ZkaDNZV2hrWEkxVXF3dFRZcjBBUkdEWGhLZy1aR3JudGRZVFpxcklR?oc=5",
+          "source": "Google News",
+          "published": "Thu, 19 Nov 2026 11:49:00 GMT"
+        }
+      ]
+    },
+    {
       "word": "무죄",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "한덕수 일부 무죄 취지 파기환송…윤석열 재판에 어떤 영향 미칠까? - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wT2ZrNkNiOXdWUEhUdWg4cTFKOGZYQzRMX3NBN05SdnRLRGliTVJlUVZ1RXpGQ2Jvb04xRmpOcGZyMmU0TWd3ZnM2cF9lYU5EUWpYU2JBclZ2Z0t0NGfSAWNBVV95cUxPUDh5ZTVvTjFxQlJIVTZlNDNDd2lQbGdJQ3lqYUNBaWtmbG9ralppaFF5czE5Q2cxM1drOWpXcGxEbTRxNFpGUkZQT2JsUnBpWFVvY1F0cDhCLW0tZ09pZHhxYWc?oc=5",
-          "source": "Google News",
-          "published": "Thu, 19 Nov 2026 12:07:03 GMT"
-        },
-        {
-          "title": "‘1심 무죄’ 추경호 “정부·여당 정치탄압, TK 홀대 멈춰라” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ncm1sdUVacmY3VWR3VWZyWnZjZmdvVDB5aUFtVThhUjN3djlFenBEalh3V1ctSXNiYXdrWWMxX3JaOUJUSkY0QkNadmd3YTQ2VlBaU2daTlRrdzA0SWVYTW5TSVI?oc=5",
-          "source": "Google News",
-          "published": "Thu, 19 Nov 2026 07:51:00 GMT"
-        },
-        {
-          "title": "김건희 징역 4년 확정… ‘명태균 여론조사’는 무죄 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZGhpY2V5TmctTk9KS3gzOTFFMS1WclhWYVFLeHBfMVI1MGZJMHpHY2JnYnpmVklCaG5lZHpSa3QxV2VHVks5SjRKaEFObF9NV01lcnk0SWRVNld3R2YzNEhwS0lJMFV1MkkzcTBlZXpnQVU0a3hSNm9HMGFGSkU2OFVnVk83UzA?oc=5",
-          "source": "Google News",
-          "published": "Thu, 19 Nov 2026 09:06:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "이슈",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "\"'조작-성공-몰락-자살' 고리 끊어야\"…이진우 논란에 서울대 교수의 '쓴소리' [이슈+] - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmejcxTkp6d0wtbDFMd1ZYU29qX0N5elZZd2lmZjJ4SUpnSTltSXdiMGN1YjlBdDh0VE5keVU4V0h6Y2tJNGN0Q181Zkp6Qk1MRmY0elJUcFJPUQ?oc=5",
-          "source": "Google News",
-          "published": "Thu, 19 Nov 2026 09:29:57 GMT"
-        },
-        {
-          "title": "'투자사기' 장윤정母, 항소심서도 '눈물'..\"건강 안좋아 생활고\" 호소[Oh!쎈 이슈] - 미주중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iWEwyeU1qU2toNDRJRkwxNGtSc1VMOENzTGdOdnJwQWk1Z2ZpQU9VZl9jS2RWb1Qxa1AzdHRlQ2lWV1g5dER4WGN4UU5hWDZHa1NvYlF0RVF6X1puRXl0OWJ3?oc=5",
-          "source": "Google News",
-          "published": "Thu, 19 Nov 2026 07:55:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "4년",
       "count": 2,
       "category": "NOUN",
       "articles": [
@@ -59,80 +104,67 @@
           "published": "Thu, 19 Nov 2026 09:06:00 GMT"
         },
         {
-          "title": "SSG 최지훈 4년 67억원·오태곤 3년 11억원 인천 남는다 \"다시 한번 우승\" - 인천투데이",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xNlNUWXlFV0poTGN3SzVpNEpnVURwY1g5TUtqMXNqVk80dFlic3FFNUlkVld4WkR5WXk1WXV6d0cyX1RsVlBLOGJIVm1za1QzZC1aMnBHSTBkWVJLOGMtLUdJYlE0LWVpVUNvU1hTb1A?oc=5",
+          "title": "국힘 ‘조작징계 의혹’ 주춤하던 당권파, ‘추경호 무죄’ 업고 친한계에 공세 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hUEo3aWhQMjlzdWZiOURfYzVZdTZFM2duZEFOTGRJeGVOR0RJdTFYSzNkN2hBdElXRFFtTURydzRNNFIxTGVMVmJJZWJnLVBjY1AyTi1TYXgyUdIBX0FVX3lxTE9BQ09SLU5OeC1rc3QxLVpvRm9VLTY2MS0td3lFSUJzUURBNEpoU3AwaDQ0YWtyQVJpS240WnpmZV9jNzZxdU5SdzlIQ2ctMWZlVFFMVVcwWHIxa3pIaUtn?oc=5",
           "source": "Google News",
-          "published": "Wed, 18 Nov 2026 23:49:44 GMT"
+          "published": "Thu, 19 Nov 2026 12:39:00 GMT"
         }
       ]
     },
     {
-      "word": "달러",
+      "word": "한파",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "북중 교역 9년 만에 최대…1~10월 25억 달러 돌파 - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HX1RnOXRDYU4xRldtRnhacTE2NExzZDNhSHRvT3NqQ3NIX05lZ1BkWmN0dEN3VHEzVGxFUjg4TnBCWkt1ZjU4Y1owVlhrZUw30gFTQVVfeXFMTmV0UzFRNGswUXAzcmEyalh3ZkVueWp6SUI1cjR1OHlKRWhrMmpmOFNRLXBIeGY1Z1JpaXZXdkF0aVczRTFHZnVLZF8zV2pHYUJoSjg?oc=5",
+          "title": "[포토뉴스]‘수능 한파’ 매운맛…한복 입고 ‘덜덜’ - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Jd3F5dEFlcHJjNDlVanJ4cFNfYUlHYmpmejB4UDBlR0FoeGc3UHhfYXBMd2xsN2VLVDlMVVNoSVp5UW81SWh1S0QwUTR5X0l5dFVtLURnX0lMUdIBX0FVX3lxTE00b1BVQmRncThORExFQXZmM0VOd2IxOU1XRWJPTlV6WE83bHJEckIyU0c4UmJJSW5OQXMyNl81TDRCcUlENzluNFVmWWN4ZU9Ma2JGNlFMX0EzSjRadHhN?oc=5",
           "source": "Google News",
-          "published": "Wed, 18 Nov 2026 17:02:40 GMT"
+          "published": "Thu, 19 Nov 2026 12:30:00 GMT"
         },
         {
-          "title": "대한민국 수출 1조 달러 돌파…K-반도체가 해냈다 - 지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52T21HOURqWGNIQUpyUm9vYXFsZ01jbS02T01ObTJhOGNMVnR0VEJ1akxyTk9mdHpSemlDWGtvYnhNQk1lOW5FVk1nUnh3MVI5dENqNEhR?oc=5",
+          "title": "\"AI 투자심리·한한령 풀리나\" 기대감… 수능일 '증시 한파' 없었다 - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oT3ZCSEV6OWNCdU5EN1F3R2ZLTjd5VFNBdkZoTkVkVXhfdXpvWDFCa0M5MlNxVHNxUERjUU1qVnYzT3pqbnlSb0JjdDQ1QVc4UXNrV2JGZWdpemdjMUVoRnlkUUFINTZH0gFuQVVfeXFMUFZTWERzbllYcUt3UlRhck9ycEVfMVZqdXhxUVd6ZlFTUlV5NGZWTXZ2NTlTSzRMYkUzOXBvM3lWT0QtMmp2cE1QWTF3WUxBd05OZ0lGMDZqV29DdXJPQ2Rtcm45bVI2eU1MMkJMZGc?oc=5",
           "source": "Google News",
-          "published": "Thu, 19 Nov 2026 05:29:23 GMT"
+          "published": "Thu, 19 Nov 2026 19:17:00 GMT"
         }
       ]
     },
     {
-      "word": "돌파",
+      "word": "회담",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "북중 교역 9년 만에 최대…1~10월 25억 달러 돌파 - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HX1RnOXRDYU4xRldtRnhacTE2NExzZDNhSHRvT3NqQ3NIX05lZ1BkWmN0dEN3VHEzVGxFUjg4TnBCWkt1ZjU4Y1owVlhrZUw30gFTQVVfeXFMTmV0UzFRNGswUXAzcmEyalh3ZkVueWp6SUI1cjR1OHlKRWhrMmpmOFNRLXBIeGY1Z1JpaXZXdkF0aVczRTFHZnVLZF8zV2pHYUJoSjg?oc=5",
+          "title": "미중러 회담 당일 '푸틴 자존심' 크림대교 또 공격받아 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oWUdpQUl5RElVOERwbjI2NUJUMHIxOVRncUQyQ2xBYVdSVkwzYk9BZXNJUFAxUW11aDVQdkRaay1JVWI1QWhtaC0xOTF5d01sRktKeFBEQU1ObWvSAWBBVV95cUxQRnNfMHQtVFUtemFvMnoySTBkNmk4V0d4Z1ZlYmJyWGU5eklpNEl6WFVWOXN4enJTdnVsTnNHYTVIUWZpM3RGa1hhTHNNVmVIT0lta0w0aHNzcmpCREFnbU0?oc=5",
           "source": "Google News",
-          "published": "Wed, 18 Nov 2026 17:02:40 GMT"
+          "published": "Thu, 19 Nov 2026 02:30:45 GMT"
         },
         {
-          "title": "[퓨처 Eyes(161)] 빛조차 꼬박 하루 걸리는 259억㎞⋯보이저 1호, 인류 최초 '1광일' 돌파 - 포커스온경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wT2lRWFpOSFdQcml1aFBEVnZ5SElNdVpjTi1nT1NGREpPNlROQUpyeXBpY1hXQ2NhNFlFT0w2ckVrQ0Y3bXVTSk92akdjak56UVJ1NldFV1c3SlZhd2JEdw?oc=5",
+          "title": "트럼프 \"김정은과 좋은 관계…이번엔 회담 성사 안돼\" - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tc2pHQ3lFVGxXdkEwMnI4Q0hxUWFleFgwU1h3WDhyWGVhbUk1OTBYeHN3SFp6RjNjRDhWQ3d2SFRCTUo5VVlPZVl4akZNM3ZWLUZ4OUFRWEQxY1lMZl9oZ2d6SXRpekk?oc=5",
           "source": "Google News",
-          "published": "Thu, 19 Nov 2026 04:58:30 GMT"
+          "published": "Thu, 19 Nov 2026 19:39:00 GMT"
         }
       ]
     },
     {
-      "word": "다시",
+      "word": "미국",
       "count": 2,
       "category": "LOCATION",
       "articles": [
         {
-          "title": "李대통령 \"北과 대화의 문 다시 열려...전쟁종식·평화구축 기대\" - KBC광주방송",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IV0lFaVRSUU1vV3JvcXQxR0Z2eDNmTmJhRmJOTThqNmtJbnViNXZoVE10aWo5eTNCN1FpZmp5YnVaU2JoZU5ZTWJwbkh0bFVrUDZTaEVxT0dPdk1lb3ZOUg?oc=5",
+          "title": "미국, 유엔 북한인권결의안 첫 기권…“북미회담 의식 때문 아냐” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80NFoxMVEteXU5TlJHNEtUSWFIT3BRX3JTcmZtOWJjQURiM1djY3JWTFBLdHZkZGpsSjFCRDhlYXpDaG1GYTYyVERfVVlLN2VHN3UzcW5VUm1FbjdqV3BRYzF4QkdyTm9ZelBXdl95WERqZkZX?oc=5",
           "source": "Google News",
-          "published": "Thu, 19 Nov 2026 02:52:31 GMT"
+          "published": "Thu, 19 Nov 2026 09:23:00 GMT"
         },
         {
-          "title": "SSG 최지훈 4년 67억원·오태곤 3년 11억원 인천 남는다 \"다시 한번 우승\" - 인천투데이",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xNlNUWXlFV0poTGN3SzVpNEpnVURwY1g5TUtqMXNqVk80dFlic3FFNUlkVld4WkR5WXk1WXV6d0cyX1RsVlBLOGJIVm1za1QzZC1aMnBHSTBkWVJLOGMtLUdJYlE0LWVpVUNvU1hTb1A?oc=5",
+          "title": "러시아 해커 ‘콜드렐릭’, 동료 사칭해 미국 기관 연쇄 침투 - 보안뉴스",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQNkJ2c2pwdW5KTzJqZVNtdXZsdjV5bXdIRlJqS09XLUY2WXowQkRVR04xcnhjVGd3M2cwdWoyY2M4NTlGbkZ5U1FGZ29GWkwxRjV2LUkwUFptYnZrUmVqYmtvUXZKcEs1STAw?oc=5",
           "source": "Google News",
-          "published": "Wed, 18 Nov 2026 23:49:44 GMT"
-        }
-      ]
-    },
-    {
-      "word": "렘넌트",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "넷이즈 '렘넌트의 바다', \"렘넌트 라이크로 승부한다\" - 게임뷰",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pV3IzWkRxSzNRc3lCVF83ZkhBdDhqbGFxZ2F3QTUtTkk1UDNNZGtudFpkc0J0cGJtRVMyOHVlWDJLVVoyNkFZQ1J3LUg0SlJmaEtISkVzZEQ2ZFk3Zjd1V1g1ZGJkbWtzamc?oc=5",
-          "source": "Google News",
-          "published": "Thu, 19 Nov 2026 12:32:34 GMT"
+          "published": "Thu, 19 Nov 2026 07:30:00 GMT"
         }
       ]
     },
@@ -142,54 +174,94 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "[포토] '슬픈 열대' 시사회, 함께 포즈 취하는 김명민 박유림 박훈정 감독 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOV9xdVRHUERZenVXdm40a0c1TENBX0tlLXhfekdSN0ZKRm1CeXhNSFhzZUVlTnVoWF9DS0Q1QjQ4dlYweWlHNjMtVG11RXFtaldBWDZLeXk0NVk2MUl0WURyd1VsdzlScHo2c01GQnFuaGhlOE84WWNJZ2cteUhvMlN4VE9za2hrUl9LU0NQQTdXMzFIOExB?oc=5",
+          "title": "[오피셜] 日 우에다 제치고 또 \"대한민국 이강인\", AFC 국제선수상 2년 연속 영예... 스페인도 인정한 활약 \"시메오네 감독의 주전\" - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QaDhod3V6WUhjS212cS0xNHVvWnFYM0J4LU9ZYzlRVVVocWxhalJsS1JUYlJzMEJvZmtza2JQdmdyZEhTandkOWV4aHNka1cyalViV3FKRk9kVTNjRFRzdldDbGQ3LTFVQlHSAW9BVV95cUxQVUpudTBBSkY4WjV0ZjVhYnlHdWF5MkVKTnBSVW5SV3k0WFNTX3BfdjFzY3hhRFZxNmxwY1EwejJEZHhjRFh5TWZOSk9oVDcxT0tObHhRS0p2RHhQRlp4S0dVTGc4dFI4RVJkamUzb0E?oc=5",
           "source": "Google News",
-          "published": "Thu, 19 Nov 2026 08:42:00 GMT"
+          "published": "Thu, 19 Nov 2026 15:16:23 GMT"
         },
         {
-          "title": "韓 모레노 감독 계약연장 물음표… 日 모리야스는 박수 받으며 퇴장 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BR0kxZ1hFWWh6M3piVW9LWG1CSW5tRjByaVBfaFdiT0lLQ2JkcU1fR3FlbDk1RkxVdjctdDNyMUFlUWFIbFpyaGU2TDdlMjhDZ0ZNZVE2RzVIT2MyaTdXN3lnNmFHTU9zQU1fM3FLR3NBTTY10gFmQVVfeXFMUGlwemhKek9sQTdtZjFUYjRFVHRRS0xTYkJvM0ZSc0NzUTF5TDQ0OE45NTJDOFlVZHQ5VnNsaFJheFBPZGtOUHRVRGU2NTFDQmxvVUlkRklWNVBYZzhaR2hnODc2Z09n?oc=5",
+          "title": "KFA, 모레노 감독 연장 계약 협상 루머…\"결정 사항 아무것도 없다→전력강화위원회 일정도 미정\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaFktWEhQZDRqSHR0SDV2d3Fqal9NMHVtSWNWTnVXSHctNzNvQnJBUUdXclp4YlRCTU81MmlEd25aT0JyR3VqSjJ4dk0wMFBNVnpCN003N21CamVSam9nWnpOSjNiZEtpcTNGTU5nOU51c0R6am82djNsYUxqdm9BNTdFVQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 18 Nov 2026 19:30:00 GMT"
+          "published": "Thu, 19 Nov 2026 12:24:00 GMT"
         }
       ]
     },
     {
-      "word": "우승",
-      "count": 2,
+      "word": "수능이야",
+      "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "SSG 최지훈 4년 67억원·오태곤 3년 11억원 인천 남는다 \"다시 한번 우승\" - 인천투데이",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xNlNUWXlFV0poTGN3SzVpNEpnVURwY1g5TUtqMXNqVk80dFlic3FFNUlkVld4WkR5WXk1WXV6d0cyX1RsVlBLOGJIVm1za1QzZC1aMnBHSTBkWVJLOGMtLUdJYlE0LWVpVUNvU1hTb1A?oc=5",
+          "title": "[단독] \"수능이야 첩보전이야\"…신발 속 휴대폰 울리자 '아수라장' - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zaFJZaWFmVnhwU29rYVowcUpZM19XRVotYW1fdS1mNnZvRUYxNFh0cjZqeGdGczFfdXNUVDVITEExRFRaQllOUC14ZlNsTk1ycUwyY0dYNG1JUQ?oc=5",
           "source": "Google News",
-          "published": "Wed, 18 Nov 2026 23:49:44 GMT"
-        },
-        {
-          "title": "韓 야구, WBSC 국제 랭킹 'U-23 월드컵 우승' 베네수엘라에 밀려 5위 추락 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JYjZkR0Q5RHFKMjhaZGNwQU1fVjdQQ0M5TV94YnpQVE91UXBzSjJLSmhETzlTR2lKVm9aQVNsa1NxQjNKLUZiSzlwZXA0dVpQU21XZFMtYmFwTkNK?oc=5",
-          "source": "Google News",
-          "published": "Thu, 19 Nov 2026 04:03:00 GMT"
+          "published": "Thu, 19 Nov 2026 18:03:00 GMT"
         }
       ]
     },
     {
-      "word": "노년기",
-      "count": 2,
+      "word": "첩보전이야신발",
+      "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "한·독 정신의학 전문가, KAGP-IC 2026서 노년기 우울·불안 관리 디지털 치료기술 논의 - 바이오타임즈",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ab3JKYTQydEpNNTBYWVhEeEFUYTJHSUVyNFk1UmdNcnNhUFlkbkppVWhiZkd1THNLaFNGQ3JqbDNxRC1xZmNrc05UbjJLZ0dwOWVjRmhCZFU1cDVQOXF1dmpDSmoxa3BiMmdIag?oc=5",
+          "title": "[단독] \"수능이야 첩보전이야\"…신발 속 휴대폰 울리자 '아수라장' - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zaFJZaWFmVnhwU29rYVowcUpZM19XRVotYW1fdS1mNnZvRUYxNFh0cjZqeGdGczFfdXNUVDVITEExRFRaQllOUC14ZlNsTk1ycUwyY0dYNG1JUQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 19 Nov 2026 08:44:29 GMT"
-        },
+          "published": "Thu, 19 Nov 2026 18:03:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "휴대폰",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
         {
-          "title": "조기 폐경, 노년기 치매 진단 빨라질 가능성…혈액서 뇌 노화 신호 포착 - 바이오타임즈",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92RHJvS2s1aXVOeUNWbTBFdU1zMmRlaUZMcVJsSnNSNExKRkpOdngxT3V4blpRWnRnUHdWWHdVd29pb0xqcDZ5ZURDZFhjaFdmVGhqYTRWZlhhaUlKdHdtME1zRDR2T29VLWdFMA?oc=5",
+          "title": "[단독] \"수능이야 첩보전이야\"…신발 속 휴대폰 울리자 '아수라장' - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zaFJZaWFmVnhwU29rYVowcUpZM19XRVotYW1fdS1mNnZvRUYxNFh0cjZqeGdGczFfdXNUVDVITEExRFRaQllOUC14ZlNsTk1ycUwyY0dYNG1JUQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 19 Nov 2026 06:53:44 GMT"
+          "published": "Thu, 19 Nov 2026 18:03:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "울리자",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[단독] \"수능이야 첩보전이야\"…신발 속 휴대폰 울리자 '아수라장' - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zaFJZaWFmVnhwU29rYVowcUpZM19XRVotYW1fdS1mNnZvRUYxNFh0cjZqeGdGczFfdXNUVDVITEExRFRaQllOUC14ZlNsTk1ycUwyY0dYNG1JUQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 19 Nov 2026 18:03:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "아수라장",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "[단독] \"수능이야 첩보전이야\"…신발 속 휴대폰 울리자 '아수라장' - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zaFJZaWFmVnhwU29rYVowcUpZM19XRVotYW1fdS1mNnZvRUYxNFh0cjZqeGdGczFfdXNUVDVITEExRFRaQllOUC14ZlNsTk1ycUwyY0dYNG1JUQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 19 Nov 2026 18:03:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "대법",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "대법 ‘한덕수 파기환송’ 소수의견 “부당”…‘내란’ 일부 혐의 왜 뒤집혔나 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SZ09RS0NNeXZjNzdHemZMNHBNODc3MEJKSjNfYS1oWG41ZzJxWmFvM041T3VGZXBVQW9PaGd1V1FKRVMyQnROLXFyd2x6WjkzTklzX0RIWUdobzVkMVZKNEY4VTllVkFlUXlLTDFDWlFyQQ?oc=5",
+          "source": "Google News",
+          "published": "Thu, 19 Nov 2026 13:15:00 GMT"
         }
       ]
     },
@@ -199,179 +271,88 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "한덕수 일부 무죄 취지 파기환송…윤석열 재판에 어떤 영향 미칠까? - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wT2ZrNkNiOXdWUEhUdWg4cTFKOGZYQzRMX3NBN05SdnRLRGliTVJlUVZ1RXpGQ2Jvb04xRmpOcGZyMmU0TWd3ZnM2cF9lYU5EUWpYU2JBclZ2Z0t0NGfSAWNBVV95cUxPUDh5ZTVvTjFxQlJIVTZlNDNDd2lQbGdJQ3lqYUNBaWtmbG9ralppaFF5czE5Q2cxM1drOWpXcGxEbTRxNFpGUkZQT2JsUnBpWFVvY1F0cDhCLW0tZ09pZHhxYWc?oc=5",
+          "title": "대법 ‘한덕수 파기환송’ 소수의견 “부당”…‘내란’ 일부 혐의 왜 뒤집혔나 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SZ09RS0NNeXZjNzdHemZMNHBNODc3MEJKSjNfYS1oWG41ZzJxWmFvM041T3VGZXBVQW9PaGd1V1FKRVMyQnROLXFyd2x6WjkzTklzX0RIWUdobzVkMVZKNEY4VTllVkFlUXlLTDFDWlFyQQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 19 Nov 2026 12:07:03 GMT"
+          "published": "Thu, 19 Nov 2026 13:15:00 GMT"
         }
       ]
     },
     {
-      "word": "취지",
+      "word": "파기환송",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "한덕수 일부 무죄 취지 파기환송…윤석열 재판에 어떤 영향 미칠까? - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wT2ZrNkNiOXdWUEhUdWg4cTFKOGZYQzRMX3NBN05SdnRLRGliTVJlUVZ1RXpGQ2Jvb04xRmpOcGZyMmU0TWd3ZnM2cF9lYU5EUWpYU2JBclZ2Z0t0NGfSAWNBVV95cUxPUDh5ZTVvTjFxQlJIVTZlNDNDd2lQbGdJQ3lqYUNBaWtmbG9ralppaFF5czE5Q2cxM1drOWpXcGxEbTRxNFpGUkZQT2JsUnBpWFVvY1F0cDhCLW0tZ09pZHhxYWc?oc=5",
+          "title": "대법 ‘한덕수 파기환송’ 소수의견 “부당”…‘내란’ 일부 혐의 왜 뒤집혔나 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SZ09RS0NNeXZjNzdHemZMNHBNODc3MEJKSjNfYS1oWG41ZzJxWmFvM041T3VGZXBVQW9PaGd1V1FKRVMyQnROLXFyd2x6WjkzTklzX0RIWUdobzVkMVZKNEY4VTllVkFlUXlLTDFDWlFyQQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 19 Nov 2026 12:07:03 GMT"
+          "published": "Thu, 19 Nov 2026 13:15:00 GMT"
         }
       ]
     },
     {
-      "word": "파기환송윤석열",
+      "word": "소수의견",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "한덕수 일부 무죄 취지 파기환송…윤석열 재판에 어떤 영향 미칠까? - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wT2ZrNkNiOXdWUEhUdWg4cTFKOGZYQzRMX3NBN05SdnRLRGliTVJlUVZ1RXpGQ2Jvb04xRmpOcGZyMmU0TWd3ZnM2cF9lYU5EUWpYU2JBclZ2Z0t0NGfSAWNBVV95cUxPUDh5ZTVvTjFxQlJIVTZlNDNDd2lQbGdJQ3lqYUNBaWtmbG9ralppaFF5czE5Q2cxM1drOWpXcGxEbTRxNFpGUkZQT2JsUnBpWFVvY1F0cDhCLW0tZ09pZHhxYWc?oc=5",
+          "title": "대법 ‘한덕수 파기환송’ 소수의견 “부당”…‘내란’ 일부 혐의 왜 뒤집혔나 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SZ09RS0NNeXZjNzdHemZMNHBNODc3MEJKSjNfYS1oWG41ZzJxWmFvM041T3VGZXBVQW9PaGd1V1FKRVMyQnROLXFyd2x6WjkzTklzX0RIWUdobzVkMVZKNEY4VTllVkFlUXlLTDFDWlFyQQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 19 Nov 2026 12:07:03 GMT"
+          "published": "Thu, 19 Nov 2026 13:15:00 GMT"
         }
       ]
     },
     {
-      "word": "재판",
+      "word": "부당내란",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "한덕수 일부 무죄 취지 파기환송…윤석열 재판에 어떤 영향 미칠까? - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wT2ZrNkNiOXdWUEhUdWg4cTFKOGZYQzRMX3NBN05SdnRLRGliTVJlUVZ1RXpGQ2Jvb04xRmpOcGZyMmU0TWd3ZnM2cF9lYU5EUWpYU2JBclZ2Z0t0NGfSAWNBVV95cUxPUDh5ZTVvTjFxQlJIVTZlNDNDd2lQbGdJQ3lqYUNBaWtmbG9ralppaFF5czE5Q2cxM1drOWpXcGxEbTRxNFpGUkZQT2JsUnBpWFVvY1F0cDhCLW0tZ09pZHhxYWc?oc=5",
+          "title": "대법 ‘한덕수 파기환송’ 소수의견 “부당”…‘내란’ 일부 혐의 왜 뒤집혔나 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SZ09RS0NNeXZjNzdHemZMNHBNODc3MEJKSjNfYS1oWG41ZzJxWmFvM041T3VGZXBVQW9PaGd1V1FKRVMyQnROLXFyd2x6WjkzTklzX0RIWUdobzVkMVZKNEY4VTllVkFlUXlLTDFDWlFyQQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 19 Nov 2026 12:07:03 GMT"
+          "published": "Thu, 19 Nov 2026 13:15:00 GMT"
         }
       ]
     },
     {
-      "word": "어떤",
+      "word": "혐의",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "한덕수 일부 무죄 취지 파기환송…윤석열 재판에 어떤 영향 미칠까? - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wT2ZrNkNiOXdWUEhUdWg4cTFKOGZYQzRMX3NBN05SdnRLRGliTVJlUVZ1RXpGQ2Jvb04xRmpOcGZyMmU0TWd3ZnM2cF9lYU5EUWpYU2JBclZ2Z0t0NGfSAWNBVV95cUxPUDh5ZTVvTjFxQlJIVTZlNDNDd2lQbGdJQ3lqYUNBaWtmbG9ralppaFF5czE5Q2cxM1drOWpXcGxEbTRxNFpGUkZQT2JsUnBpWFVvY1F0cDhCLW0tZ09pZHhxYWc?oc=5",
+          "title": "대법 ‘한덕수 파기환송’ 소수의견 “부당”…‘내란’ 일부 혐의 왜 뒤집혔나 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SZ09RS0NNeXZjNzdHemZMNHBNODc3MEJKSjNfYS1oWG41ZzJxWmFvM041T3VGZXBVQW9PaGd1V1FKRVMyQnROLXFyd2x6WjkzTklzX0RIWUdobzVkMVZKNEY4VTllVkFlUXlLTDFDWlFyQQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 19 Nov 2026 12:07:03 GMT"
+          "published": "Thu, 19 Nov 2026 13:15:00 GMT"
         }
       ]
     },
     {
-      "word": "영향",
+      "word": "뒤집혔",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "한덕수 일부 무죄 취지 파기환송…윤석열 재판에 어떤 영향 미칠까? - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wT2ZrNkNiOXdWUEhUdWg4cTFKOGZYQzRMX3NBN05SdnRLRGliTVJlUVZ1RXpGQ2Jvb04xRmpOcGZyMmU0TWd3ZnM2cF9lYU5EUWpYU2JBclZ2Z0t0NGfSAWNBVV95cUxPUDh5ZTVvTjFxQlJIVTZlNDNDd2lQbGdJQ3lqYUNBaWtmbG9ralppaFF5czE5Q2cxM1drOWpXcGxEbTRxNFpGUkZQT2JsUnBpWFVvY1F0cDhCLW0tZ09pZHhxYWc?oc=5",
+          "title": "대법 ‘한덕수 파기환송’ 소수의견 “부당”…‘내란’ 일부 혐의 왜 뒤집혔나 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SZ09RS0NNeXZjNzdHemZMNHBNODc3MEJKSjNfYS1oWG41ZzJxWmFvM041T3VGZXBVQW9PaGd1V1FKRVMyQnROLXFyd2x6WjkzTklzX0RIWUdobzVkMVZKNEY4VTllVkFlUXlLTDFDWlFyQQ?oc=5",
           "source": "Google News",
-          "published": "Thu, 19 Nov 2026 12:07:03 GMT"
+          "published": "Thu, 19 Nov 2026 13:15:00 GMT"
         }
       ]
     },
     {
-      "word": "미칠까",
+      "word": "전문",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "한덕수 일부 무죄 취지 파기환송…윤석열 재판에 어떤 영향 미칠까? - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wT2ZrNkNiOXdWUEhUdWg4cTFKOGZYQzRMX3NBN05SdnRLRGliTVJlUVZ1RXpGQ2Jvb04xRmpOcGZyMmU0TWd3ZnM2cF9lYU5EUWpYU2JBclZ2Z0t0NGfSAWNBVV95cUxPUDh5ZTVvTjFxQlJIVTZlNDNDd2lQbGdJQ3lqYUNBaWtmbG9ralppaFF5czE5Q2cxM1drOWpXcGxEbTRxNFpGUkZQT2JsUnBpWFVvY1F0cDhCLW0tZ09pZHhxYWc?oc=5",
+          "title": "미 전문가들 “미중러 정상회담, 실질적 성과 제한적…중국 위상 강화” - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ0c3RmRRN2FIR24zRmtoeTdaQjBqM3o4a0l6bGVWTjctZTRrNVowcFliaDZZaXRmR3dnRE9KOFNta25SUUVpYUFaWjlZWXR5NGVPVnVjN3VzM2JuX1Y1U0VUbEJCeUJDa014QVZESjJwdmFqS0lPTjBQOHJJQXI3X29LUnlEQ193a3VN0gGOAUFVX3lxTE5DaTJqRklxb1dRZ3FxR2pLU0tQN1dCYkRmLUdVNVJLdWh2bFFia1NqTGtvTzVYczJ6aXFCd3dUY2NrakY2VVRsYVltb3kta01sMWJZVGNuZU1DbzBIMzdhOG1tSzgwYjRCaEZCUkxJblVQU0ltUmQwQ3dmT3cwd1VkbHFoZ3FQYmk3cFJTRHc?oc=5",
           "source": "Google News",
-          "published": "Thu, 19 Nov 2026 12:07:03 GMT"
-        }
-      ]
-    },
-    {
-      "word": "교육부",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "교육부 \"스마트 기기 부정행위 98명 적발\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQy1RQlhETUtUVWR5Q0oxblpFUVFNOUp4a2EtOFRKRDdVYTc3MDhGSWt3Y0QyU3FkQVUtRHhXZjQxNndHcjNQR3dkV2tSUnNuZVluNW1RU0tTa2VpS1V5ZVRISkpzZ1ZMczZFRThOR3RTOEZhMlRKZ3VfMXVKNzlIRkR3Y0NwZW8?oc=5",
-          "source": "Google News",
-          "published": "Thu, 19 Nov 2026 10:46:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "스마트",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "교육부 \"스마트 기기 부정행위 98명 적발\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQy1RQlhETUtUVWR5Q0oxblpFUVFNOUp4a2EtOFRKRDdVYTc3MDhGSWt3Y0QyU3FkQVUtRHhXZjQxNndHcjNQR3dkV2tSUnNuZVluNW1RU0tTa2VpS1V5ZVRISkpzZ1ZMczZFRThOR3RTOEZhMlRKZ3VfMXVKNzlIRkR3Y0NwZW8?oc=5",
-          "source": "Google News",
-          "published": "Thu, 19 Nov 2026 10:46:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "기기",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "교육부 \"스마트 기기 부정행위 98명 적발\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQy1RQlhETUtUVWR5Q0oxblpFUVFNOUp4a2EtOFRKRDdVYTc3MDhGSWt3Y0QyU3FkQVUtRHhXZjQxNndHcjNQR3dkV2tSUnNuZVluNW1RU0tTa2VpS1V5ZVRISkpzZ1ZMczZFRThOR3RTOEZhMlRKZ3VfMXVKNzlIRkR3Y0NwZW8?oc=5",
-          "source": "Google News",
-          "published": "Thu, 19 Nov 2026 10:46:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "부정행위",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "교육부 \"스마트 기기 부정행위 98명 적발\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQy1RQlhETUtUVWR5Q0oxblpFUVFNOUp4a2EtOFRKRDdVYTc3MDhGSWt3Y0QyU3FkQVUtRHhXZjQxNndHcjNQR3dkV2tSUnNuZVluNW1RU0tTa2VpS1V5ZVRISkpzZ1ZMczZFRThOR3RTOEZhMlRKZ3VfMXVKNzlIRkR3Y0NwZW8?oc=5",
-          "source": "Google News",
-          "published": "Thu, 19 Nov 2026 10:46:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "98명",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "교육부 \"스마트 기기 부정행위 98명 적발\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQy1RQlhETUtUVWR5Q0oxblpFUVFNOUp4a2EtOFRKRDdVYTc3MDhGSWt3Y0QyU3FkQVUtRHhXZjQxNndHcjNQR3dkV2tSUnNuZVluNW1RU0tTa2VpS1V5ZVRISkpzZ1ZMczZFRThOR3RTOEZhMlRKZ3VfMXVKNzlIRkR3Y0NwZW8?oc=5",
-          "source": "Google News",
-          "published": "Thu, 19 Nov 2026 10:46:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "적발",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "교육부 \"스마트 기기 부정행위 98명 적발\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQy1RQlhETUtUVWR5Q0oxblpFUVFNOUp4a2EtOFRKRDdVYTc3MDhGSWt3Y0QyU3FkQVUtRHhXZjQxNndHcjNQR3dkV2tSUnNuZVluNW1RU0tTa2VpS1V5ZVRISkpzZ1ZMczZFRThOR3RTOEZhMlRKZ3VfMXVKNzlIRkR3Y0NwZW8?oc=5",
-          "source": "Google News",
-          "published": "Thu, 19 Nov 2026 10:46:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "전문미중러",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[전문]미·중·러 정상회담 각 정상 모두발언 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TUXVTc1N6eHl2VThNLU9OcEhMOHVMNzFQRG00czYyVk91ZklsTGVtcVVjbktzUUhiUG5GWWJwSklaSnV2cFJiMG9xSUN2MExQYUxKM0ZOMU40QdIBX0FVX3lxTE1LQWNSNDltWXF0bzJRcFpoVTRUejJkbGRUUU9mcUJMUXdMSHZvQ3U0NHhLRFcxVXA5d0dRQUtzbC1XRDhpOENBQ0R1WjFjNnRMYlp4bllSQkc1SlcteW9J?oc=5",
-          "source": "Google News",
-          "published": "Thu, 19 Nov 2026 10:50:00 GMT"
+          "published": "Thu, 19 Nov 2026 20:22:14 GMT"
         }
       ]
     },
@@ -381,205 +362,218 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "[전문]미·중·러 정상회담 각 정상 모두발언 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TUXVTc1N6eHl2VThNLU9OcEhMOHVMNzFQRG00czYyVk91ZklsTGVtcVVjbktzUUhiUG5GWWJwSklaSnV2cFJiMG9xSUN2MExQYUxKM0ZOMU40QdIBX0FVX3lxTE1LQWNSNDltWXF0bzJRcFpoVTRUejJkbGRUUU9mcUJMUXdMSHZvQ3U0NHhLRFcxVXA5d0dRQUtzbC1XRDhpOENBQ0R1WjFjNnRMYlp4bllSQkc1SlcteW9J?oc=5",
+          "title": "미 전문가들 “미중러 정상회담, 실질적 성과 제한적…중국 위상 강화” - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ0c3RmRRN2FIR24zRmtoeTdaQjBqM3o4a0l6bGVWTjctZTRrNVowcFliaDZZaXRmR3dnRE9KOFNta25SUUVpYUFaWjlZWXR5NGVPVnVjN3VzM2JuX1Y1U0VUbEJCeUJDa014QVZESjJwdmFqS0lPTjBQOHJJQXI3X29LUnlEQ193a3VN0gGOAUFVX3lxTE5DaTJqRklxb1dRZ3FxR2pLU0tQN1dCYkRmLUdVNVJLdWh2bFFia1NqTGtvTzVYczJ6aXFCd3dUY2NrakY2VVRsYVltb3kta01sMWJZVGNuZU1DbzBIMzdhOG1tSzgwYjRCaEZCUkxJblVQU0ltUmQwQ3dmT3cwd1VkbHFoZ3FQYmk3cFJTRHc?oc=5",
           "source": "Google News",
-          "published": "Thu, 19 Nov 2026 10:50:00 GMT"
+          "published": "Thu, 19 Nov 2026 20:22:14 GMT"
         }
       ]
     },
     {
-      "word": "정상",
+      "word": "실질",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[전문]미·중·러 정상회담 각 정상 모두발언 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TUXVTc1N6eHl2VThNLU9OcEhMOHVMNzFQRG00czYyVk91ZklsTGVtcVVjbktzUUhiUG5GWWJwSklaSnV2cFJiMG9xSUN2MExQYUxKM0ZOMU40QdIBX0FVX3lxTE1LQWNSNDltWXF0bzJRcFpoVTRUejJkbGRUUU9mcUJMUXdMSHZvQ3U0NHhLRFcxVXA5d0dRQUtzbC1XRDhpOENBQ0R1WjFjNnRMYlp4bllSQkc1SlcteW9J?oc=5",
+          "title": "미 전문가들 “미중러 정상회담, 실질적 성과 제한적…중국 위상 강화” - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ0c3RmRRN2FIR24zRmtoeTdaQjBqM3o4a0l6bGVWTjctZTRrNVowcFliaDZZaXRmR3dnRE9KOFNta25SUUVpYUFaWjlZWXR5NGVPVnVjN3VzM2JuX1Y1U0VUbEJCeUJDa014QVZESjJwdmFqS0lPTjBQOHJJQXI3X29LUnlEQ193a3VN0gGOAUFVX3lxTE5DaTJqRklxb1dRZ3FxR2pLU0tQN1dCYkRmLUdVNVJLdWh2bFFia1NqTGtvTzVYczJ6aXFCd3dUY2NrakY2VVRsYVltb3kta01sMWJZVGNuZU1DbzBIMzdhOG1tSzgwYjRCaEZCUkxJblVQU0ltUmQwQ3dmT3cwd1VkbHFoZ3FQYmk3cFJTRHc?oc=5",
           "source": "Google News",
-          "published": "Thu, 19 Nov 2026 10:50:00 GMT"
+          "published": "Thu, 19 Nov 2026 20:22:14 GMT"
         }
       ]
     },
     {
-      "word": "모두발언",
+      "word": "성과",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[전문]미·중·러 정상회담 각 정상 모두발언 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TUXVTc1N6eHl2VThNLU9OcEhMOHVMNzFQRG00czYyVk91ZklsTGVtcVVjbktzUUhiUG5GWWJwSklaSnV2cFJiMG9xSUN2MExQYUxKM0ZOMU40QdIBX0FVX3lxTE1LQWNSNDltWXF0bzJRcFpoVTRUejJkbGRUUU9mcUJMUXdMSHZvQ3U0NHhLRFcxVXA5d0dRQUtzbC1XRDhpOENBQ0R1WjFjNnRMYlp4bllSQkc1SlcteW9J?oc=5",
+          "title": "미 전문가들 “미중러 정상회담, 실질적 성과 제한적…중국 위상 강화” - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ0c3RmRRN2FIR24zRmtoeTdaQjBqM3o4a0l6bGVWTjctZTRrNVowcFliaDZZaXRmR3dnRE9KOFNta25SUUVpYUFaWjlZWXR5NGVPVnVjN3VzM2JuX1Y1U0VUbEJCeUJDa014QVZESjJwdmFqS0lPTjBQOHJJQXI3X29LUnlEQ193a3VN0gGOAUFVX3lxTE5DaTJqRklxb1dRZ3FxR2pLU0tQN1dCYkRmLUdVNVJLdWh2bFFia1NqTGtvTzVYczJ6aXFCd3dUY2NrakY2VVRsYVltb3kta01sMWJZVGNuZU1DbzBIMzdhOG1tSzgwYjRCaEZCUkxJblVQU0ltUmQwQ3dmT3cwd1VkbHFoZ3FQYmk3cFJTRHc?oc=5",
           "source": "Google News",
-          "published": "Thu, 19 Nov 2026 10:50:00 GMT"
+          "published": "Thu, 19 Nov 2026 20:22:14 GMT"
         }
       ]
     },
     {
-      "word": "조작성공몰락자살",
+      "word": "제한적중국",
+      "count": 1,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "미 전문가들 “미중러 정상회담, 실질적 성과 제한적…중국 위상 강화” - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ0c3RmRRN2FIR24zRmtoeTdaQjBqM3o4a0l6bGVWTjctZTRrNVowcFliaDZZaXRmR3dnRE9KOFNta25SUUVpYUFaWjlZWXR5NGVPVnVjN3VzM2JuX1Y1U0VUbEJCeUJDa014QVZESjJwdmFqS0lPTjBQOHJJQXI3X29LUnlEQ193a3VN0gGOAUFVX3lxTE5DaTJqRklxb1dRZ3FxR2pLU0tQN1dCYkRmLUdVNVJLdWh2bFFia1NqTGtvTzVYczJ6aXFCd3dUY2NrakY2VVRsYVltb3kta01sMWJZVGNuZU1DbzBIMzdhOG1tSzgwYjRCaEZCUkxJblVQU0ltUmQwQ3dmT3cwd1VkbHFoZ3FQYmk3cFJTRHc?oc=5",
+          "source": "Google News",
+          "published": "Thu, 19 Nov 2026 20:22:14 GMT"
+        }
+      ]
+    },
+    {
+      "word": "위상",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"'조작-성공-몰락-자살' 고리 끊어야\"…이진우 논란에 서울대 교수의 '쓴소리' [이슈+] - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmejcxTkp6d0wtbDFMd1ZYU29qX0N5elZZd2lmZjJ4SUpnSTltSXdiMGN1YjlBdDh0VE5keVU4V0h6Y2tJNGN0Q181Zkp6Qk1MRmY0elJUcFJPUQ?oc=5",
+          "title": "미 전문가들 “미중러 정상회담, 실질적 성과 제한적…중국 위상 강화” - VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ0c3RmRRN2FIR24zRmtoeTdaQjBqM3o4a0l6bGVWTjctZTRrNVowcFliaDZZaXRmR3dnRE9KOFNta25SUUVpYUFaWjlZWXR5NGVPVnVjN3VzM2JuX1Y1U0VUbEJCeUJDa014QVZESjJwdmFqS0lPTjBQOHJJQXI3X29LUnlEQ193a3VN0gGOAUFVX3lxTE5DaTJqRklxb1dRZ3FxR2pLU0tQN1dCYkRmLUdVNVJLdWh2bFFia1NqTGtvTzVYczJ6aXFCd3dUY2NrakY2VVRsYVltb3kta01sMWJZVGNuZU1DbzBIMzdhOG1tSzgwYjRCaEZCUkxJblVQU0ltUmQwQ3dmT3cwd1VkbHFoZ3FQYmk3cFJTRHc?oc=5",
           "source": "Google News",
-          "published": "Thu, 19 Nov 2026 09:29:57 GMT"
+          "published": "Thu, 19 Nov 2026 20:22:14 GMT"
         }
       ]
     },
     {
-      "word": "고리",
+      "word": "끝내",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"'조작-성공-몰락-자살' 고리 끊어야\"…이진우 논란에 서울대 교수의 '쓴소리' [이슈+] - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmejcxTkp6d0wtbDFMd1ZYU29qX0N5elZZd2lmZjJ4SUpnSTltSXdiMGN1YjlBdDh0VE5keVU4V0h6Y2tJNGN0Q181Zkp6Qk1MRmY0elJUcFJPUQ?oc=5",
+          "title": "끝내 검증 못한 ‘부정행위 의혹’…경찰 수사는 계속 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43WkM3bU5GY3p5MlloMGcxdFpWRGowUmttc1NLV29JVWZZdTVJZlpwV3JZVzN5aEZHNTBIYVVMa2FmTVRsVUpkYmZ4WkU3LU5PTkdKR2U0VW4zQdIBX0FVX3lxTFBjSW41SnlVeENrS1lsZUtBRmNQc0hTZmxmdVpFckJrel9rcHZHdy1SRVZWRFhnZng5VHZSb3ZMVDlEckZOX1hucFlNUGtpNFFFX1p3OE1ndVhNaEQxZVU4?oc=5",
           "source": "Google News",
-          "published": "Thu, 19 Nov 2026 09:29:57 GMT"
+          "published": "Thu, 19 Nov 2026 12:34:00 GMT"
         }
       ]
     },
     {
-      "word": "끊어야이진우",
+      "word": "검증",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"'조작-성공-몰락-자살' 고리 끊어야\"…이진우 논란에 서울대 교수의 '쓴소리' [이슈+] - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmejcxTkp6d0wtbDFMd1ZYU29qX0N5elZZd2lmZjJ4SUpnSTltSXdiMGN1YjlBdDh0VE5keVU4V0h6Y2tJNGN0Q181Zkp6Qk1MRmY0elJUcFJPUQ?oc=5",
+          "title": "끝내 검증 못한 ‘부정행위 의혹’…경찰 수사는 계속 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43WkM3bU5GY3p5MlloMGcxdFpWRGowUmttc1NLV29JVWZZdTVJZlpwV3JZVzN5aEZHNTBIYVVMa2FmTVRsVUpkYmZ4WkU3LU5PTkdKR2U0VW4zQdIBX0FVX3lxTFBjSW41SnlVeENrS1lsZUtBRmNQc0hTZmxmdVpFckJrel9rcHZHdy1SRVZWRFhnZng5VHZSb3ZMVDlEckZOX1hucFlNUGtpNFFFX1p3OE1ndVhNaEQxZVU4?oc=5",
           "source": "Google News",
-          "published": "Thu, 19 Nov 2026 09:29:57 GMT"
+          "published": "Thu, 19 Nov 2026 12:34:00 GMT"
         }
       ]
     },
     {
-      "word": "논란",
+      "word": "못한",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"'조작-성공-몰락-자살' 고리 끊어야\"…이진우 논란에 서울대 교수의 '쓴소리' [이슈+] - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmejcxTkp6d0wtbDFMd1ZYU29qX0N5elZZd2lmZjJ4SUpnSTltSXdiMGN1YjlBdDh0VE5keVU4V0h6Y2tJNGN0Q181Zkp6Qk1MRmY0elJUcFJPUQ?oc=5",
+          "title": "끝내 검증 못한 ‘부정행위 의혹’…경찰 수사는 계속 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43WkM3bU5GY3p5MlloMGcxdFpWRGowUmttc1NLV29JVWZZdTVJZlpwV3JZVzN5aEZHNTBIYVVMa2FmTVRsVUpkYmZ4WkU3LU5PTkdKR2U0VW4zQdIBX0FVX3lxTFBjSW41SnlVeENrS1lsZUtBRmNQc0hTZmxmdVpFckJrel9rcHZHdy1SRVZWRFhnZng5VHZSb3ZMVDlEckZOX1hucFlNUGtpNFFFX1p3OE1ndVhNaEQxZVU4?oc=5",
           "source": "Google News",
-          "published": "Thu, 19 Nov 2026 09:29:57 GMT"
+          "published": "Thu, 19 Nov 2026 12:34:00 GMT"
         }
       ]
     },
     {
-      "word": "서울대",
+      "word": "부정행위",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"'조작-성공-몰락-자살' 고리 끊어야\"…이진우 논란에 서울대 교수의 '쓴소리' [이슈+] - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmejcxTkp6d0wtbDFMd1ZYU29qX0N5elZZd2lmZjJ4SUpnSTltSXdiMGN1YjlBdDh0VE5keVU4V0h6Y2tJNGN0Q181Zkp6Qk1MRmY0elJUcFJPUQ?oc=5",
+          "title": "끝내 검증 못한 ‘부정행위 의혹’…경찰 수사는 계속 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43WkM3bU5GY3p5MlloMGcxdFpWRGowUmttc1NLV29JVWZZdTVJZlpwV3JZVzN5aEZHNTBIYVVMa2FmTVRsVUpkYmZ4WkU3LU5PTkdKR2U0VW4zQdIBX0FVX3lxTFBjSW41SnlVeENrS1lsZUtBRmNQc0hTZmxmdVpFckJrel9rcHZHdy1SRVZWRFhnZng5VHZSb3ZMVDlEckZOX1hucFlNUGtpNFFFX1p3OE1ndVhNaEQxZVU4?oc=5",
           "source": "Google News",
-          "published": "Thu, 19 Nov 2026 09:29:57 GMT"
+          "published": "Thu, 19 Nov 2026 12:34:00 GMT"
         }
       ]
     },
     {
-      "word": "교수",
+      "word": "의혹경찰",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"'조작-성공-몰락-자살' 고리 끊어야\"…이진우 논란에 서울대 교수의 '쓴소리' [이슈+] - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmejcxTkp6d0wtbDFMd1ZYU29qX0N5elZZd2lmZjJ4SUpnSTltSXdiMGN1YjlBdDh0VE5keVU4V0h6Y2tJNGN0Q181Zkp6Qk1MRmY0elJUcFJPUQ?oc=5",
+          "title": "끝내 검증 못한 ‘부정행위 의혹’…경찰 수사는 계속 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43WkM3bU5GY3p5MlloMGcxdFpWRGowUmttc1NLV29JVWZZdTVJZlpwV3JZVzN5aEZHNTBIYVVMa2FmTVRsVUpkYmZ4WkU3LU5PTkdKR2U0VW4zQdIBX0FVX3lxTFBjSW41SnlVeENrS1lsZUtBRmNQc0hTZmxmdVpFckJrel9rcHZHdy1SRVZWRFhnZng5VHZSb3ZMVDlEckZOX1hucFlNUGtpNFFFX1p3OE1ndVhNaEQxZVU4?oc=5",
           "source": "Google News",
-          "published": "Thu, 19 Nov 2026 09:29:57 GMT"
+          "published": "Thu, 19 Nov 2026 12:34:00 GMT"
         }
       ]
     },
     {
-      "word": "쓴소리",
+      "word": "수사",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"'조작-성공-몰락-자살' 고리 끊어야\"…이진우 논란에 서울대 교수의 '쓴소리' [이슈+] - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmejcxTkp6d0wtbDFMd1ZYU29qX0N5elZZd2lmZjJ4SUpnSTltSXdiMGN1YjlBdDh0VE5keVU4V0h6Y2tJNGN0Q181Zkp6Qk1MRmY0elJUcFJPUQ?oc=5",
+          "title": "끝내 검증 못한 ‘부정행위 의혹’…경찰 수사는 계속 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43WkM3bU5GY3p5MlloMGcxdFpWRGowUmttc1NLV29JVWZZdTVJZlpwV3JZVzN5aEZHNTBIYVVMa2FmTVRsVUpkYmZ4WkU3LU5PTkdKR2U0VW4zQdIBX0FVX3lxTFBjSW41SnlVeENrS1lsZUtBRmNQc0hTZmxmdVpFckJrel9rcHZHdy1SRVZWRFhnZng5VHZSb3ZMVDlEckZOX1hucFlNUGtpNFFFX1p3OE1ndVhNaEQxZVU4?oc=5",
           "source": "Google News",
-          "published": "Thu, 19 Nov 2026 09:29:57 GMT"
+          "published": "Thu, 19 Nov 2026 12:34:00 GMT"
         }
       ]
     },
     {
-      "word": "1심",
+      "word": "계속",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘1심 무죄’ 추경호 “정부·여당 정치탄압, TK 홀대 멈춰라” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ncm1sdUVacmY3VWR3VWZyWnZjZmdvVDB5aUFtVThhUjN3djlFenBEalh3V1ctSXNiYXdrWWMxX3JaOUJUSkY0QkNadmd3YTQ2VlBaU2daTlRrdzA0SWVYTW5TSVI?oc=5",
+          "title": "끝내 검증 못한 ‘부정행위 의혹’…경찰 수사는 계속 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43WkM3bU5GY3p5MlloMGcxdFpWRGowUmttc1NLV29JVWZZdTVJZlpwV3JZVzN5aEZHNTBIYVVMa2FmTVRsVUpkYmZ4WkU3LU5PTkdKR2U0VW4zQdIBX0FVX3lxTFBjSW41SnlVeENrS1lsZUtBRmNQc0hTZmxmdVpFckJrel9rcHZHdy1SRVZWRFhnZng5VHZSb3ZMVDlEckZOX1hucFlNUGtpNFFFX1p3OE1ndVhNaEQxZVU4?oc=5",
           "source": "Google News",
-          "published": "Thu, 19 Nov 2026 07:51:00 GMT"
+          "published": "Thu, 19 Nov 2026 12:34:00 GMT"
         }
       ]
     },
     {
-      "word": "추경호",
+      "word": "순방중",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘1심 무죄’ 추경호 “정부·여당 정치탄압, TK 홀대 멈춰라” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ncm1sdUVacmY3VWR3VWZyWnZjZmdvVDB5aUFtVThhUjN3djlFenBEalh3V1ctSXNiYXdrWWMxX3JaOUJUSkY0QkNadmd3YTQ2VlBaU2daTlRrdzA0SWVYTW5TSVI?oc=5",
+          "title": "李, 순방중 조작기소 특검법 의결 당일 재가… 野 “기습 재가” 반발 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBIVnJpZUtuTjQtWEd4X2cwRmR4dkI5UUZPX0otZmZBZWoxelh1UjZQUkxsSV9LNVBweldkZERSOEZYOVNEa0hHS0lfZTU2aGtZZDZqbEkzR0Q1dXBZNU5IWm9mMWNkSEJkYlVWYUNlNU9EWVNuSElJ0gFmQVVfeXFMTU8xMGlHYmtnSmg1TzAwYUF1VjVWclBBYVZRV2tMOHFxVjF6YlZxUnVCLWNfMkpaNWZiS0tzS1FER2pITGc0V2p3d3BDVEU0a211LUx4bEstZDRyZGt3dm0ydEUtS05n?oc=5",
           "source": "Google News",
-          "published": "Thu, 19 Nov 2026 07:51:00 GMT"
+          "published": "Thu, 19 Nov 2026 19:30:00 GMT"
         }
       ]
     },
     {
-      "word": "정부여당",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "‘1심 무죄’ 추경호 “정부·여당 정치탄압, TK 홀대 멈춰라” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ncm1sdUVacmY3VWR3VWZyWnZjZmdvVDB5aUFtVThhUjN3djlFenBEalh3V1ctSXNiYXdrWWMxX3JaOUJUSkY0QkNadmd3YTQ2VlBaU2daTlRrdzA0SWVYTW5TSVI?oc=5",
-          "source": "Google News",
-          "published": "Thu, 19 Nov 2026 07:51:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "정치탄압",
+      "word": "조작기소",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘1심 무죄’ 추경호 “정부·여당 정치탄압, TK 홀대 멈춰라” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ncm1sdUVacmY3VWR3VWZyWnZjZmdvVDB5aUFtVThhUjN3djlFenBEalh3V1ctSXNiYXdrWWMxX3JaOUJUSkY0QkNadmd3YTQ2VlBaU2daTlRrdzA0SWVYTW5TSVI?oc=5",
+          "title": "李, 순방중 조작기소 특검법 의결 당일 재가… 野 “기습 재가” 반발 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBIVnJpZUtuTjQtWEd4X2cwRmR4dkI5UUZPX0otZmZBZWoxelh1UjZQUkxsSV9LNVBweldkZERSOEZYOVNEa0hHS0lfZTU2aGtZZDZqbEkzR0Q1dXBZNU5IWm9mMWNkSEJkYlVWYUNlNU9EWVNuSElJ0gFmQVVfeXFMTU8xMGlHYmtnSmg1TzAwYUF1VjVWclBBYVZRV2tMOHFxVjF6YlZxUnVCLWNfMkpaNWZiS0tzS1FER2pITGc0V2p3d3BDVEU0a211LUx4bEstZDRyZGt3dm0ydEUtS05n?oc=5",
           "source": "Google News",
-          "published": "Thu, 19 Nov 2026 07:51:00 GMT"
+          "published": "Thu, 19 Nov 2026 19:30:00 GMT"
         }
       ]
     },
     {
-      "word": "홀대",
+      "word": "특검법",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘1심 무죄’ 추경호 “정부·여당 정치탄압, TK 홀대 멈춰라” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ncm1sdUVacmY3VWR3VWZyWnZjZmdvVDB5aUFtVThhUjN3djlFenBEalh3V1ctSXNiYXdrWWMxX3JaOUJUSkY0QkNadmd3YTQ2VlBaU2daTlRrdzA0SWVYTW5TSVI?oc=5",
+          "title": "李, 순방중 조작기소 특검법 의결 당일 재가… 野 “기습 재가” 반발 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBIVnJpZUtuTjQtWEd4X2cwRmR4dkI5UUZPX0otZmZBZWoxelh1UjZQUkxsSV9LNVBweldkZERSOEZYOVNEa0hHS0lfZTU2aGtZZDZqbEkzR0Q1dXBZNU5IWm9mMWNkSEJkYlVWYUNlNU9EWVNuSElJ0gFmQVVfeXFMTU8xMGlHYmtnSmg1TzAwYUF1VjVWclBBYVZRV2tMOHFxVjF6YlZxUnVCLWNfMkpaNWZiS0tzS1FER2pITGc0V2p3d3BDVEU0a211LUx4bEstZDRyZGt3dm0ydEUtS05n?oc=5",
           "source": "Google News",
-          "published": "Thu, 19 Nov 2026 07:51:00 GMT"
+          "published": "Thu, 19 Nov 2026 19:30:00 GMT"
         }
       ]
     },
     {
-      "word": "멈춰",
+      "word": "의결",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘1심 무죄’ 추경호 “정부·여당 정치탄압, TK 홀대 멈춰라” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ncm1sdUVacmY3VWR3VWZyWnZjZmdvVDB5aUFtVThhUjN3djlFenBEalh3V1ctSXNiYXdrWWMxX3JaOUJUSkY0QkNadmd3YTQ2VlBaU2daTlRrdzA0SWVYTW5TSVI?oc=5",
+          "title": "李, 순방중 조작기소 특검법 의결 당일 재가… 野 “기습 재가” 반발 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBIVnJpZUtuTjQtWEd4X2cwRmR4dkI5UUZPX0otZmZBZWoxelh1UjZQUkxsSV9LNVBweldkZERSOEZYOVNEa0hHS0lfZTU2aGtZZDZqbEkzR0Q1dXBZNU5IWm9mMWNkSEJkYlVWYUNlNU9EWVNuSElJ0gFmQVVfeXFMTU8xMGlHYmtnSmg1TzAwYUF1VjVWclBBYVZRV2tMOHFxVjF6YlZxUnVCLWNfMkpaNWZiS0tzS1FER2pITGc0V2p3d3BDVEU0a211LUx4bEstZDRyZGt3dm0ydEUtS05n?oc=5",
           "source": "Google News",
-          "published": "Thu, 19 Nov 2026 07:51:00 GMT"
+          "published": "Thu, 19 Nov 2026 19:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "기습",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "李, 순방중 조작기소 특검법 의결 당일 재가… 野 “기습 재가” 반발 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBIVnJpZUtuTjQtWEd4X2cwRmR4dkI5UUZPX0otZmZBZWoxelh1UjZQUkxsSV9LNVBweldkZERSOEZYOVNEa0hHS0lfZTU2aGtZZDZqbEkzR0Q1dXBZNU5IWm9mMWNkSEJkYlVWYUNlNU9EWVNuSElJ0gFmQVVfeXFMTU8xMGlHYmtnSmg1TzAwYUF1VjVWclBBYVZRV2tMOHFxVjF6YlZxUnVCLWNfMkpaNWZiS0tzS1FER2pITGc0V2p3d3BDVEU0a211LUx4bEstZDRyZGt3dm0ydEUtS05n?oc=5",
+          "source": "Google News",
+          "published": "Thu, 19 Nov 2026 19:30:00 GMT"
         }
       ]
     }
