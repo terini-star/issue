@@ -1,156 +1,49 @@
 {
   "language": "en",
-  "last_updated": 1795204452.959122,
+  "last_updated": 1795223872.8465343,
   "count": 40,
   "trends": [
     {
+      "word": "Stock",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Stock Market Today: Dow, S&P 500 Enter Correction Territory — Live Updates - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObDJaNXRFdFZIWkwxWDRYUVg1U0N3MmpzMHN5aFlMd0ZJTGdBN3lhamZQSGpqbUY2UERnTGhKeVhzYUtsY0Q4V280cDR3WU9qNGtTVm0tdFIzZ0xXTFFxM0NFUjNhSkJLeHhfMG96Wi0xYVBxT2wzQVJPNXdCUEx3MF91QU5ZT2s?oc=5",
+          "source": "Google News",
+          "published": "Fri, 20 Nov 2026 22:30:00 GMT"
+        },
+        {
+          "title": "Nvidia stock extends $2.7 trillion rout as SEC probe reportedly investigates its accounting - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQS25iVW9uNHFsc3lYdkNPRTJyTUhYcWRVbjhOZlR4QUpLZGs4RkE0d1lSLTEtN2x6N0ZxZnlZdE9KaTQxeS1TbWRFaGFpd0hGc0ZKWmF5OEVRdnFDX1NNWFlBTl9rdVRUVFlxSVRIelpPNmluWVdUVElhQzh1NWtjemJaUnlhRnJ2N3Q2dDNVYlhVYWtXbkswbXhYLWdiOHE0V1dkQ2xjNjFsTlpEQ0hzRDBja0RqV0VFX0FZaXdKRVZ2RHdGVUUtS2VzanJrTkhiSVcxeGVCRXNlUUhSVWJ3?oc=5",
+          "source": "Google News",
+          "published": "Fri, 20 Nov 2026 21:35:24 GMT"
+        },
+        {
+          "title": "Tech stock sell-off drags markets down as Anthropic shares slide - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvWXdRRmxWOFNxR2NhcHRNVlFLaXJGVGtlY1dQcWs3U1M1dHNKVGxLbEJ5RGRvT0Q4WjB2c2FjeldhcVlWMGNqYTNJLXFXRXU5bVB4NTRlZUVlNnc?oc=5",
+          "source": "Google News",
+          "published": "Fri, 20 Nov 2026 22:42:47 GMT"
+        }
+      ]
+    },
+    {
       "word": "Trump",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ3BYTkl6X2o5d010NGI3QTFKNi1LM0gzZXZBbGQ1QXBVR0xNaTZpMmZxQkROOGZfZ3hlZUFPWTBBY3UwQmEwcGZrY0pMd1h4N3R1ZXVZYlNiT0xqMlcxUUR5ZFpkME82N1FNd2VwM2k5QVNGM3lnSkJ0NHNkaEowZnNR0gGHAUFVX3lxTE4zUWhBang1TUVjaXg1MjkxLUxkLUFoVmV0V3ZUd0t1aW5UQlVBcHBFYWxoUHNRaVNhYlFzdkdDbW1zNVNOWUN5TTA1OFpKMDJ6b2tPZEdQVEprbmNKZFRwV005d1pPc2NLbENScTRXMDMzWklUYWdNSzRrZk9GbUJIcGJ0OERxZw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 20 Nov 2026 13:16:47 GMT"
-        },
-        {
-          "title": "Live Updates: Trump Speaks on China Summit, Trade Deals and Data Centers - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmTEh2ZFRVUmZod25NaTdtQTlYYmpKYmd6T2pqMEhKTWJSdC1BT1hOMDMzV0k5bUw2RDYxS3EyZ1BjVmtOVWZ2UTRqSGVhVFMtSDc2bWkwQXZaSWo4SVoxNTRma25wVGJnSmVhNzhlYVF1dw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 20 Nov 2026 19:46:59 GMT"
-        },
-        {
-          "title": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court - NPR",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pY2JlNTFkQUZUZm9NVDRyUHNrbHNVM1FoZ0JHbFYyUnhqYXFNUDdaSXBpYlBmaV9Ld1V0Mm1GcmVKRTB5U0lCYUxvWjFnT3VTbC1DWFZicEtNd2lHdm5XQW1sTXNGbjVUMkI5dURUMm90ZUpHY250LTZxNXMzQQ?oc=5",
-          "source": "Google News",
-          "published": "Fri, 20 Nov 2026 18:25:09 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Live",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Live Updates: Trump Speaks on China Summit, Trade Deals and Data Centers - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmTEh2ZFRVUmZod25NaTdtQTlYYmpKYmd6T2pqMEhKTWJSdC1BT1hOMDMzV0k5bUw2RDYxS3EyZ1BjVmtOVWZ2UTRqSGVhVFMtSDc2bWkwQXZaSWo4SVoxNTRma25wVGJnSmVhNzhlYVF1dw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 20 Nov 2026 19:46:59 GMT"
-        },
-        {
-          "title": "'GTA 6' release live updates: Reviews, memes and more as gamers explore and react to Leonida after 13 long years - Yahoo Tech",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQMFNyd0t4WENWQi14dUoyWTh4LUg5X0x2VVNPZnB0Ulh5aVVpeHJQTUIxRXpIV1I5cUhGanBpczIzT2FKYUZ4RnFpOVUxSTRhX0lISVNJMjZpMHoyMHdUUjNmcXJDRE9CSXhvcE4zLTRtUTdWb1JJTWRBU0w2WGs5cHdJSGJkdkJTUVJYMDZEcmRHT3RUNFotSXRtYjhHNkRNaGN2MWMzekxYQzNIY1kzb0E4bTB5dTBjTll3cFU3ZU5FaTV4WHlma2F5T1VON1Bma2pET3RwTG5FdmxHUklySDJwYm9uYWh4Tk5XeDUtX2lHQU9IejY1VnI1NEFHaTVhZXc?oc=5",
-          "source": "Google News",
-          "published": "Fri, 20 Nov 2026 19:20:22 GMT"
-        },
-        {
-          "title": "Best Apple Black Friday deals now live: AirPods, MacBook Neo, Series 12, M6 MacBook Pro, more [Updated] - 9to5Mac",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54LWJPck9NV0pIOUczZlV1YkxvUUdnR0R0cUNBYzJHN0lGazNmd2JHQjE2SHUwTUJsQVVZbU5VN3pyQVdHOEZCQWo4dnhOWUdqWDdBdkNOSEtHckJnbUpFYmswbWc4ekg2UVlCbk1CWS04OVFPdHg3RWx3?oc=5",
-          "source": "Google News",
-          "published": "Fri, 20 Nov 2026 12:28:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "House",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "White House removes cyber-security chief after series of tech outages - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IZm9kN0ZDWmlrVXItSzNoZ1hLMlNlclc3TWZ5TkFKTmN3TktEVF9icVZpN2x0aFVjZFprZDQwNGtIVWJ5cS1wV2N0cmY3VFc3YWVZTW10U0R3Sjg?oc=5",
-          "source": "Google News",
-          "published": "Fri, 20 Nov 2026 19:03:56 GMT"
-        },
-        {
-          "title": "Mike Johnson’s message to House Republicans: Show up for work - Politico",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN0s0bGRacGt2dHhLYUlEeDZxbkxWUWNNb1RjWTIydmxQUHd2TVRXdUlKMnFneG9OdDRMdld0S0RhWmtLUVhpa1JiWE84Q09HdGVKVFhXNjFWVXFMMEhOOE9FeXRrbEVHTjJzRFZGMTRndlRsNmhhNTQ3eDlXZ09VaGYyekxmYXBvMEpBU1o5b1hxbGxqU3FYV2dWRkg?oc=5",
-          "source": "Google News",
-          "published": "Fri, 20 Nov 2026 14:56:02 GMT"
-        },
-        {
-          "title": "California Bar investigating ex-White House press secretary Katie Zacharia - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX2VJNG1JcVhrdWw1OGhzQWhjTUtMNEZhaUFRLTNyamhHeFpmeEd3OVRKMjJwUHJ6Q2FzRkhYMnlybG9SQ2s3LTZnbVNncGJFMjY2eGNwWWFRZF84R3BPT0hVY2o4QTVqMzQ3SWhzVWt1Nmt6YUFqMWhNVWhjOGcyU0dDdkxUU1hwZjlxbVUyYTdXeEtVQ2JKSktnelctSDRuR1F5MDNMTnh4OXYyUG04Zno3VFlqMzRacTZRaUFsUk5RbTEwSEkxaA?oc=5",
-          "source": "Google News",
-          "published": "Fri, 20 Nov 2026 18:09:32 GMT"
-        }
-      ]
-    },
-    {
-      "word": "China",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ3BYTkl6X2o5d010NGI3QTFKNi1LM0gzZXZBbGQ1QXBVR0xNaTZpMmZxQkROOGZfZ3hlZUFPWTBBY3UwQmEwcGZrY0pMd1h4N3R1ZXVZYlNiT0xqMlcxUUR5ZFpkME82N1FNd2VwM2k5QVNGM3lnSkJ0NHNkaEowZnNR0gGHAUFVX3lxTE4zUWhBang1TUVjaXg1MjkxLUxkLUFoVmV0V3ZUd0t1aW5UQlVBcHBFYWxoUHNRaVNhYlFzdkdDbW1zNVNOWUN5TTA1OFpKMDJ6b2tPZEdQVEprbmNKZFRwV005d1pPc2NLbENScTRXMDMzWklUYWdNSzRrZk9GbUJIcGJ0OERxZw?oc=5",
+          "title": "Trump touts Asia deals and meeting with Xi and Putin at White House press conference - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN05lbnJqODFXYk1OV3NsRGkwWVEwZk9ETGdXOXB5Z25ROXdhTlRlc0V1SVB6NV9fUWo5aW5Wa0t1UG9EUE9ack4xd24tU0hSd1JUd1ZyV1ROakNNa1NhYVRKeHMxeVNJTnJIcjdFS3dxeklhLVpsMnpYX2JXWE9kUmRMeENxbll3eE5J?oc=5",
           "source": "Google News",
-          "published": "Fri, 20 Nov 2026 13:16:47 GMT"
+          "published": "Fri, 20 Nov 2026 19:02:00 GMT"
         },
         {
-          "title": "Live Updates: Trump Speaks on China Summit, Trade Deals and Data Centers - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmTEh2ZFRVUmZod25NaTdtQTlYYmpKYmd6T2pqMEhKTWJSdC1BT1hOMDMzV0k5bUw2RDYxS3EyZ1BjVmtOVWZ2UTRqSGVhVFMtSDc2bWkwQXZaSWo4SVoxNTRma25wVGJnSmVhNzhlYVF1dw?oc=5",
+          "title": "Donald Trump seeks Ukraine peace deal before January - Financial Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa18tQmF3YkRHVXNLbTI4N1pxOFAzeUdOeVlaM3k4b2ZSZVpKZVhFTzFxMmxMUm5Nb1lkT0I2WTFiRlA2SWJMZG1HSl9VVW0xSUU1VWhidjMtZHZ5T2N4Z2hwazlvWUdfN0hDUjRJeFoxeDY1a1JHcDduaUJwUFlKWE5Jb3U?oc=5",
           "source": "Google News",
-          "published": "Fri, 20 Nov 2026 19:46:59 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Trade",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ3BYTkl6X2o5d010NGI3QTFKNi1LM0gzZXZBbGQ1QXBVR0xNaTZpMmZxQkROOGZfZ3hlZUFPWTBBY3UwQmEwcGZrY0pMd1h4N3R1ZXVZYlNiT0xqMlcxUUR5ZFpkME82N1FNd2VwM2k5QVNGM3lnSkJ0NHNkaEowZnNR0gGHAUFVX3lxTE4zUWhBang1TUVjaXg1MjkxLUxkLUFoVmV0V3ZUd0t1aW5UQlVBcHBFYWxoUHNRaVNhYlFzdkdDbW1zNVNOWUN5TTA1OFpKMDJ6b2tPZEdQVEprbmNKZFRwV005d1pPc2NLbENScTRXMDMzWklUYWdNSzRrZk9GbUJIcGJ0OERxZw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 20 Nov 2026 13:16:47 GMT"
-        },
-        {
-          "title": "Live Updates: Trump Speaks on China Summit, Trade Deals and Data Centers - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmTEh2ZFRVUmZod25NaTdtQTlYYmpKYmd6T2pqMEhKTWJSdC1BT1hOMDMzV0k5bUw2RDYxS3EyZ1BjVmtOVWZ2UTRqSGVhVFMtSDc2bWkwQXZaSWo4SVoxNTRma25wVGJnSmVhNzhlYVF1dw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 20 Nov 2026 19:46:59 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Tech",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ3BYTkl6X2o5d010NGI3QTFKNi1LM0gzZXZBbGQ1QXBVR0xNaTZpMmZxQkROOGZfZ3hlZUFPWTBBY3UwQmEwcGZrY0pMd1h4N3R1ZXVZYlNiT0xqMlcxUUR5ZFpkME82N1FNd2VwM2k5QVNGM3lnSkJ0NHNkaEowZnNR0gGHAUFVX3lxTE4zUWhBang1TUVjaXg1MjkxLUxkLUFoVmV0V3ZUd0t1aW5UQlVBcHBFYWxoUHNRaVNhYlFzdkdDbW1zNVNOWUN5TTA1OFpKMDJ6b2tPZEdQVEprbmNKZFRwV005d1pPc2NLbENScTRXMDMzWklUYWdNSzRrZk9GbUJIcGJ0OERxZw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 20 Nov 2026 13:16:47 GMT"
-        },
-        {
-          "title": "White House removes cyber-security chief after series of tech outages - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IZm9kN0ZDWmlrVXItSzNoZ1hLMlNlclc3TWZ5TkFKTmN3TktEVF9icVZpN2x0aFVjZFprZDQwNGtIVWJ5cS1wV2N0cmY3VFc3YWVZTW10U0R3Sjg?oc=5",
-          "source": "Google News",
-          "published": "Fri, 20 Nov 2026 19:03:56 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Updates",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Live Updates: Trump Speaks on China Summit, Trade Deals and Data Centers - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmTEh2ZFRVUmZod25NaTdtQTlYYmpKYmd6T2pqMEhKTWJSdC1BT1hOMDMzV0k5bUw2RDYxS3EyZ1BjVmtOVWZ2UTRqSGVhVFMtSDc2bWkwQXZaSWo4SVoxNTRma25wVGJnSmVhNzhlYVF1dw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 20 Nov 2026 19:46:59 GMT"
-        },
-        {
-          "title": "'GTA 6' release live updates: Reviews, memes and more as gamers explore and react to Leonida after 13 long years - Yahoo Tech",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQMFNyd0t4WENWQi14dUoyWTh4LUg5X0x2VVNPZnB0Ulh5aVVpeHJQTUIxRXpIV1I5cUhGanBpczIzT2FKYUZ4RnFpOVUxSTRhX0lISVNJMjZpMHoyMHdUUjNmcXJDRE9CSXhvcE4zLTRtUTdWb1JJTWRBU0w2WGs5cHdJSGJkdkJTUVJYMDZEcmRHT3RUNFotSXRtYjhHNkRNaGN2MWMzekxYQzNIY1kzb0E4bTB5dTBjTll3cFU3ZU5FaTV4WHlma2F5T1VON1Bma2pET3RwTG5FdmxHUklySDJwYm9uYWh4Tk5XeDUtX2lHQU9IejY1VnI1NEFHaTVhZXc?oc=5",
-          "source": "Google News",
-          "published": "Fri, 20 Nov 2026 19:20:22 GMT"
+          "published": "Fri, 20 Nov 2026 16:17:15 GMT"
         }
       ]
     },
@@ -160,16 +53,16 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Live Updates: Trump Speaks on China Summit, Trade Deals and Data Centers - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmTEh2ZFRVUmZod25NaTdtQTlYYmpKYmd6T2pqMEhKTWJSdC1BT1hOMDMzV0k5bUw2RDYxS3EyZ1BjVmtOVWZ2UTRqSGVhVFMtSDc2bWkwQXZaSWo4SVoxNTRma25wVGJnSmVhNzhlYVF1dw?oc=5",
+          "title": "Trump touts Asia deals and meeting with Xi and Putin at White House press conference - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN05lbnJqODFXYk1OV3NsRGkwWVEwZk9ETGdXOXB5Z25ROXdhTlRlc0V1SVB6NV9fUWo5aW5Wa0t1UG9EUE9ack4xd24tU0hSd1JUd1ZyV1ROakNNa1NhYVRKeHMxeVNJTnJIcjdFS3dxeklhLVpsMnpYX2JXWE9kUmRMeENxbll3eE5J?oc=5",
           "source": "Google News",
-          "published": "Fri, 20 Nov 2026 19:46:59 GMT"
+          "published": "Fri, 20 Nov 2026 19:02:00 GMT"
         },
         {
-          "title": "Best Apple Black Friday deals now live: AirPods, MacBook Neo, Series 12, M6 MacBook Pro, more [Updated] - 9to5Mac",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54LWJPck9NV0pIOUczZlV1YkxvUUdnR0R0cUNBYzJHN0lGazNmd2JHQjE2SHUwTUJsQVVZbU5VN3pyQVdHOEZCQWo4dnhOWUdqWDdBdkNOSEtHckJnbUpFYmswbWc4ekg2UVlCbk1CWS04OVFPdHg3RWx3?oc=5",
+          "title": "Apple Black Friday Deals Available Now: AirPods, Apple Watches, MacBooks, and More - MacRumors",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzQ3TXlUbnpfS1pCR3Q5TzRRanAtZnJwcVNzUkRVaXZ0dHhXYTUwM0I0eGNBQkZfMVZfRFQ2Q0dtRDlDcU5rOENuUzQ3ZHhkb0U1bVV3MkpLY2dOZEZONXkyNkRKSVpqSDhGVmp0ZXFuX3ZmN05tbi03RDVWVG5mQUpGUDZ1UHlw?oc=5",
           "source": "Google News",
-          "published": "Fri, 20 Nov 2026 12:28:00 GMT"
+          "published": "Fri, 20 Nov 2026 23:03:07 GMT"
         }
       ]
     },
@@ -179,111 +72,54 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "White House removes cyber-security chief after series of tech outages - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IZm9kN0ZDWmlrVXItSzNoZ1hLMlNlclc3TWZ5TkFKTmN3TktEVF9icVZpN2x0aFVjZFprZDQwNGtIVWJ5cS1wV2N0cmY3VFc3YWVZTW10U0R3Sjg?oc=5",
+          "title": "Trump touts Asia deals and meeting with Xi and Putin at White House press conference - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN05lbnJqODFXYk1OV3NsRGkwWVEwZk9ETGdXOXB5Z25ROXdhTlRlc0V1SVB6NV9fUWo5aW5Wa0t1UG9EUE9ack4xd24tU0hSd1JUd1ZyV1ROakNNa1NhYVRKeHMxeVNJTnJIcjdFS3dxeklhLVpsMnpYX2JXWE9kUmRMeENxbll3eE5J?oc=5",
           "source": "Google News",
-          "published": "Fri, 20 Nov 2026 19:03:56 GMT"
+          "published": "Fri, 20 Nov 2026 19:02:00 GMT"
         },
         {
-          "title": "California Bar investigating ex-White House press secretary Katie Zacharia - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX2VJNG1JcVhrdWw1OGhzQWhjTUtMNEZhaUFRLTNyamhHeFpmeEd3OVRKMjJwUHJ6Q2FzRkhYMnlybG9SQ2s3LTZnbVNncGJFMjY2eGNwWWFRZF84R3BPT0hVY2o4QTVqMzQ3SWhzVWt1Nmt6YUFqMWhNVWhjOGcyU0dDdkxUU1hwZjlxbVUyYTdXeEtVQ2JKSktnelctSDRuR1F5MDNMTnh4OXYyUG04Zno3VFlqMzRacTZRaUFsUk5RbTEwSEkxaA?oc=5",
+          "title": "White House taps Kirsten Davies as cyber chief after outages rattle Americans - PBS",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRkxwMVV6TkQ3WGtjZTFWckZjbHFxajN6bFJRWl84YmdXTU5yNFJXS1ZrZW5XUUpsUW9HdHJrOXlhRUhvUzB1R1lwV09UWFhHMjZ1MkVZT05FRVRKSnV3V2VwRmUzYVVBSTljdXlDUkVUUElJX1djYWdiNElKT28yalU1M3N3UFRJZFVTc2txaGQ4M3pjSGZieEh5UVh4V2NYVHFKMGRpcUdUUVJyYnR2TGtBUnJ0UdIBuwFBVV95cUxNbnoyaXhfLTd0MWNabW5PeWw5WHVJZTctUktjdnVMc1k4QmtPOUVhWi1XdHYwUTViSjJMQlF3dVJ2WnVyQ0hITGU5elRfYjFmQy10cmMxbVJqU2JFR3dwSEJkMTZXTENZU0lUSGZYTktEY2RGbFJkUkRIcGNRakMxeGNKUWpXVzdrX0xCN2s2YThKcjZtbl94eFl2WU9NZFZnb3ktQzNSNE1rRDMyTXE5aGZwanQ0RzN4dkRR?oc=5",
           "source": "Google News",
-          "published": "Fri, 20 Nov 2026 18:09:32 GMT"
+          "published": "Fri, 20 Nov 2026 13:43:58 GMT"
         }
       ]
     },
     {
-      "word": "Series",
+      "word": "House",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "White House removes cyber-security chief after series of tech outages - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IZm9kN0ZDWmlrVXItSzNoZ1hLMlNlclc3TWZ5TkFKTmN3TktEVF9icVZpN2x0aFVjZFprZDQwNGtIVWJ5cS1wV2N0cmY3VFc3YWVZTW10U0R3Sjg?oc=5",
+          "title": "Trump touts Asia deals and meeting with Xi and Putin at White House press conference - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN05lbnJqODFXYk1OV3NsRGkwWVEwZk9ETGdXOXB5Z25ROXdhTlRlc0V1SVB6NV9fUWo5aW5Wa0t1UG9EUE9ack4xd24tU0hSd1JUd1ZyV1ROakNNa1NhYVRKeHMxeVNJTnJIcjdFS3dxeklhLVpsMnpYX2JXWE9kUmRMeENxbll3eE5J?oc=5",
           "source": "Google News",
-          "published": "Fri, 20 Nov 2026 19:03:56 GMT"
+          "published": "Fri, 20 Nov 2026 19:02:00 GMT"
         },
         {
-          "title": "Best Apple Black Friday deals now live: AirPods, MacBook Neo, Series 12, M6 MacBook Pro, more [Updated] - 9to5Mac",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54LWJPck9NV0pIOUczZlV1YkxvUUdnR0R0cUNBYzJHN0lGazNmd2JHQjE2SHUwTUJsQVVZbU5VN3pyQVdHOEZCQWo4dnhOWUdqWDdBdkNOSEtHckJnbUpFYmswbWc4ekg2UVlCbk1CWS04OVFPdHg3RWx3?oc=5",
+          "title": "White House taps Kirsten Davies as cyber chief after outages rattle Americans - PBS",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRkxwMVV6TkQ3WGtjZTFWckZjbHFxajN6bFJRWl84YmdXTU5yNFJXS1ZrZW5XUUpsUW9HdHJrOXlhRUhvUzB1R1lwV09UWFhHMjZ1MkVZT05FRVRKSnV3V2VwRmUzYVVBSTljdXlDUkVUUElJX1djYWdiNElKT28yalU1M3N3UFRJZFVTc2txaGQ4M3pjSGZieEh5UVh4V2NYVHFKMGRpcUdUUVJyYnR2TGtBUnJ0UdIBuwFBVV95cUxNbnoyaXhfLTd0MWNabW5PeWw5WHVJZTctUktjdnVMc1k4QmtPOUVhWi1XdHYwUTViSjJMQlF3dVJ2WnVyQ0hITGU5elRfYjFmQy10cmMxbVJqU2JFR3dwSEJkMTZXTENZU0lUSGZYTktEY2RGbFJkUkRIcGNRakMxeGNKUWpXVzdrX0xCN2s2YThKcjZtbl94eFl2WU9NZFZnb3ktQzNSNE1rRDMyTXE5aGZwanQ0RzN4dkRR?oc=5",
           "source": "Google News",
-          "published": "Fri, 20 Nov 2026 12:28:00 GMT"
+          "published": "Fri, 20 Nov 2026 13:43:58 GMT"
         }
       ]
     },
     {
-      "word": "hit",
+      "word": "Johnson",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "'Potent' storm will hit a huge stretch of the East Coast - USA Today",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdTB6R0ZhbXhNWkRWbUkxTkZHbGttbTRkb1dVOTdpSGhjZVVqLWFUbmxLVDVHN0NRRlRWV2VtZmVLdUcxQTV6NEloaEYtOW54bGs1aXI2R3NqNlMxVkZuV21sYWthLXJyZmdVR0hlUkg0RGZCYVVwOURQMmt6NzB2R2pDcDZrX2Q5RXRtZVZFT0Frem9ncnl0OU0wOE5PY1JqWHFOX2k5dlozZWh4VHIxWU1Bel9pNE9takQ0?oc=5",
+          "title": "Johnson urges Republicans to show up to work - Axios",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWExob1F0cHhuaHEzZTlrTG51R3hPTUR6cmFYMnozVHJvVk0waldFa1JGaTQ2aGYzcWVLUDNyZU5UTk03OEdPdF8xVW9RZE5OMWxFRGhIRWdqeE4tMmcyQnJvRnVYaVhlMU1jSGlIRGpUdUk2aDdyMjJOQ1I2M1p2akpKM21sS1poZV84?oc=5",
           "source": "Google News",
-          "published": "Fri, 20 Nov 2026 16:11:00 GMT"
+          "published": "Fri, 20 Nov 2026 18:41:35 GMT"
         },
         {
-          "title": "Deadly Russian strikes hit 3 Kyiv bridges after Putin vows revenge for Crimea attacks - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc2ZMT1N0Qk5yUzFfNEdMR3RYcFdxbG03VlBfeWtKOGhHM1ZkV0lXT3pVRjFNOGNjY2w1c3JtWVhMcFRoUXdZd2hKc0hlanVET0VoczdqNWlMbnFXSXROTlVUNnJsWjFtWGZjMEdqVEt0RDhpUk91SzBXY2RhQy1INHZhRzJRbnRHbVVBanVwTVphRUVvaC1jcTIxLXZ3MGt0OWZUMDJkRUprQ3E1bjJWYXl1eFZJQmhTY1E?oc=5",
+          "title": "'Beverly Hills, 90210' Actress Kimmarie Johnson Cause of Death Revealed - TMZ",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oQVViUVp1MmVhTENuVEJISG54RHVOSDk0QU5SZEpYbDZHRVd3aE05VGRrUjY3MW9GS0dEeDNJWkZpWk83VG0wNm9wU3R2Y3VKZHE1dWdSc3ZrNTBxYi1SZUNMcTEtVWMwYVM0QWtKc20?oc=5",
           "source": "Google News",
-          "published": "Fri, 20 Nov 2026 11:42:16 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Second",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court - NPR",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pY2JlNTFkQUZUZm9NVDRyUHNrbHNVM1FoZ0JHbFYyUnhqYXFNUDdaSXBpYlBmaV9Ld1V0Mm1GcmVKRTB5U0lCYUxvWjFnT3VTbC1DWFZicEtNd2lHdm5XQW1sTXNGbjVUMkI5dURUMm90ZUpHY250LTZxNXMzQQ?oc=5",
-          "source": "Google News",
-          "published": "Fri, 20 Nov 2026 18:25:09 GMT"
-        },
-        {
-          "title": "'Hunger Games: Sunrise On The Reaping' Sows $21M In Previews, Second-Best For Franchise - Deadline",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaldkSEQ3azBLUl9CSnBWYTVJb0VKTGtFYk9BV3RJS0Y3NjVrVmZpSGdZRUVYUHRpYnB1NHhEdFV5eFMxZlJFUG5OWmNGN3hncFlubURnYlptQmt1ZGRkRlVYUmdXV2Zvd3ptOHJ6dlVRbVhvT1J6TG5wMGhvQzdQYnBSbnFvZDdrZ2NNSEhyTFU?oc=5",
-          "source": "Google News",
-          "published": "Fri, 20 Nov 2026 16:05:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Court",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court - NPR",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pY2JlNTFkQUZUZm9NVDRyUHNrbHNVM1FoZ0JHbFYyUnhqYXFNUDdaSXBpYlBmaV9Ld1V0Mm1GcmVKRTB5U0lCYUxvWjFnT3VTbC1DWFZicEtNd2lHdm5XQW1sTXNGbjVUMkI5dURUMm90ZUpHY250LTZxNXMzQQ?oc=5",
-          "source": "Google News",
-          "published": "Fri, 20 Nov 2026 18:25:09 GMT"
-        },
-        {
-          "title": "Appeals court temporarily halts detonation of lead azide at Iowa ammunition plant - KCCI",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVC1iamVpMFNnQ3hHdjUzcU5SVDVMME5MM0E3R2ZabVEwdUktNVdybTdpV1VYLXFrNGNIeXRMMUlRYnN5TzBxS0xjSE0yMHY5c0JJaXBLVEhIYkNFcFJLOTJqaFk2d1kyN3c4UEdUQ0JUY1F4OU0tYWhWUDExUXJzY1JsSHQ0c3hEaTBQMHl5NDJHeXdraWVva0pRZkg1UERGcG5WY3hPaDdLMlRRSFpTYjF0ZUJ6ZGdYcTU2MHRQeks5N3M?oc=5",
-          "source": "Google News",
-          "published": "Fri, 20 Nov 2026 16:59:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Halts",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Appeals court temporarily halts detonation of lead azide at Iowa ammunition plant - KCCI",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVC1iamVpMFNnQ3hHdjUzcU5SVDVMME5MM0E3R2ZabVEwdUktNVdybTdpV1VYLXFrNGNIeXRMMUlRYnN5TzBxS0xjSE0yMHY5c0JJaXBLVEhIYkNFcFJLOTJqaFk2d1kyN3c4UEdUQ0JUY1F4OU0tYWhWUDExUXJzY1JsSHQ0c3hEaTBQMHl5NDJHeXdraWVva0pRZkg1UERGcG5WY3hPaDdLMlRRSFpTYjF0ZUJ6ZGdYcTU2MHRQeks5N3M?oc=5",
-          "source": "Google News",
-          "published": "Fri, 20 Nov 2026 16:59:00 GMT"
-        },
-        {
-          "title": "New pancreatic cancer drug halts tumour growth in 90% of patients - Financial Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa3RTTVJkU3ZLREhsRFQ4Y21qWWVvd0ZwSmdROVpQaHFWTF82N01OVXdzbTRqSUlIUjVjN0VOZDBVUlI4Q1NNWU0ycEhLckdnSS1RRTQyRFE4SjhZWnF5dTdsYUp0b0I3YkY1MmZVZmc1bEJCNDhxV09MaVlReUxtX1BXejA?oc=5",
-          "source": "Google News",
-          "published": "Fri, 20 Nov 2026 12:17:51 GMT"
+          "published": "Fri, 20 Nov 2026 22:41:05 GMT"
         }
       ]
     },
@@ -293,16 +129,35 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wTkZBWEhyWUxyWHJPbmJIZ1pVcFZwMTkwQXduY1F5bWN0c0FfZ3o4SXJyd0FtckdncnJIbFRWcHo2bjFncDYwOGhZNERnUWRlWXNaWkVsUXBpX1E?oc=5",
+          "title": "NATO calls Russian missiles landing in Poland a 'grave violation' of airspace - PBS",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdEJMSXE4eGoxYm9Cb19yMF8wNDNKbndJcHl1dmVpM3BReXNfRVpLdEZuaXZWdVV6SHFTZ0l6OUNMRTgzMGFQRGtaQ2c1dWMwelltdGRYd0xqc1lBTkhqekUwc2dqWWdlUWhRbEpISXo1WUptYU9XRXIzWVRGYnlKLUN0ZjlZcWRIcU9mWmtYa1dPSk94dm93RGlDVWhHUHZwNHFJWF9XWUxvNFJMZlZn0gG0AUFVX3lxTE9LQzd0M2lzY1ZpX01XSlZZM2RJV05WTkZXTGkxOWQ2N1I1NVkySWJCYi1MT2RPR0hMQnRyNXFscndMNTFiT2YyLXdiYWZsRW9SMVBqbi1YRDc4WE1aMjNIaEVJOTl2dTFnSnpYUlBXemtiRzhVNVNlWmtxRmVzUWp4bTZfZVktOXJ2M01IcmJicEl4OHJNTl9jS2VJZUtubHNlanNBZTdqR1Fxa0E5eVVMOTV0Rw?oc=5",
           "source": "Google News",
-          "published": "Fri, 20 Nov 2026 16:54:29 GMT"
+          "published": "Fri, 20 Nov 2026 22:42:43 GMT"
         },
         {
-          "title": "Deadly Russian strikes hit 3 Kyiv bridges after Putin vows revenge for Crimea attacks - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc2ZMT1N0Qk5yUzFfNEdMR3RYcFdxbG03VlBfeWtKOGhHM1ZkV0lXT3pVRjFNOGNjY2w1c3JtWVhMcFRoUXdZd2hKc0hlanVET0VoczdqNWlMbnFXSXROTlVUNnJsWjFtWGZjMEdqVEt0RDhpUk91SzBXY2RhQy1INHZhRzJRbnRHbVVBanVwTVphRUVvaC1jcTIxLXZ3MGt0OWZUMDJkRUprQ3E1bjJWYXl1eFZJQmhTY1E?oc=5",
+          "title": "Denmark Expels Russian Diplomat After Accusing Moscow of Planning a Hit - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa2NFRVVaSEcxWWc4dDNYVm5sdTdjS0xYZl9RUUt2dmp5WmNEcHNLcklOemZnbHpxdWp5dnpNZUR5RlZqeFo1TFY3NG1zRHZqUE9lV2VjMnhwSmFCWHdqMG5BUmpma3ZZZXBpX2Y4TGhkcFNVbml3TmVoSU01MThTS2NOX003ZVhKMHpfUHFuYXp2RjgxOG8zNFBVOUU?oc=5",
           "source": "Google News",
-          "published": "Fri, 20 Nov 2026 11:42:16 GMT"
+          "published": "Fri, 20 Nov 2026 22:15:57 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Nvidia",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Treasury secretary says no further restrictions are needed for Nvidia chip exports to China - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWVNwbUpEZjJtY1NaOWc5Z1ZfYUo2QXJqdl9WVGhJVnFvajdCTGV5RFJwNzNQTFVSeENSNzdUQ2ctRjB5Sl9ybmJqb3FfZENLMEZkeFdYSUJMa1FSamFBS2pqTGpjQzAwWHBza2JHOXBzdmV2ZG1icEgzQXp1aW4zRDFLWnN1Rm1USW9zZ3I4V2NZZ05RN2tBa295b0I4c1VIME1OR3N0VXlZc0ZxOUcwb2lrOA?oc=5",
+          "source": "Google News",
+          "published": "Fri, 20 Nov 2026 22:36:00 GMT"
+        },
+        {
+          "title": "Nvidia stock extends $2.7 trillion rout as SEC probe reportedly investigates its accounting - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQS25iVW9uNHFsc3lYdkNPRTJyTUhYcWRVbjhOZlR4QUpLZGs4RkE0d1lSLTEtN2x6N0ZxZnlZdE9KaTQxeS1TbWRFaGFpd0hGc0ZKWmF5OEVRdnFDX1NNWFlBTl9rdVRUVFlxSVRIelpPNmluWVdUVElhQzh1NWtjemJaUnlhRnJ2N3Q2dDNVYlhVYWtXbkswbXhYLWdiOHE0V1dkQ2xjNjFsTlpEQ0hzRDBja0RqV0VFX0FZaXdKRVZ2RHdGVUUtS2VzanJrTkhiSVcxeGVCRXNlUUhSVWJ3?oc=5",
+          "source": "Google News",
+          "published": "Fri, 20 Nov 2026 21:35:24 GMT"
         }
       ]
     },
@@ -312,105 +167,61 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Anthropic shares fall a day after blockbuster IPO - BBC",
+          "title": "Tech stock sell-off drags markets down as Anthropic shares slide - BBC",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvWXdRRmxWOFNxR2NhcHRNVlFLaXJGVGtlY1dQcWs3U1M1dHNKVGxLbEJ5RGRvT0Q4WjB2c2FjeldhcVlWMGNqYTNJLXFXRXU5bVB4NTRlZUVlNnc?oc=5",
           "source": "Google News",
-          "published": "Fri, 20 Nov 2026 17:36:29 GMT"
+          "published": "Fri, 20 Nov 2026 22:42:47 GMT"
         },
         {
-          "title": "Prince Harry shares how Archie and Lilibet are coping with ‘culture shift’ move to UK — and daughter’s sweet accent change - Page Six",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOOTA5bEQ5NWZLXzFsTEJ4emJxSkd4b2ttR09leE43bDN5dmFpM2tKLWw5Ql9hQ1ZQZ0R3SU1TQjRYU2w5MWp1ZFhqaUVDLTNlUmVmUE9pa2c5d1BJMXZtTDZSUTBPSEg2eF9fTnNzTGpWVEVfY0puSENNS1ZZcy1kS0diRGVWSXRzY2NtWkpiMFdmTGdRWEYxVkpwTlIyQ3JwN0tlb1pqU0Y1THRMWWlkS1RyX0JiNFlxaG51MXpibWVlaFZpUXFCV3ZlTmNUZ21iSk85dzJmYXR2TDFLdGFPYWtMcDZ1MnUzZ0hwdmtuVEhETXRD?oc=5",
+          "title": "Nick Cannon Shares Photo From Hospital Asking for Prayers - E! News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZVJZd2lHRkp4RUpvcXZZSkNQeHRDZ2w4YzR6WFRBNXk0NTBEQlpGMWh5S3hXVDJQbDU2ek5vVWdMUnRsSE9xRWNqX2ZuQzhWV2xNa1c3d191V19sT19XZFhOMmI3VmI2T3hLQTM4WDdlcHAwY2Y4Wlp2anVwajNqVjB0QURpSHItVGZoR0ppMzJlQWplZU1odmRYQTFaYWZPRFE?oc=5",
           "source": "Google News",
-          "published": "Fri, 20 Nov 2026 13:38:00 GMT"
+          "published": "Fri, 20 Nov 2026 21:34:00 GMT"
         }
       ]
     },
     {
-      "word": "Supply",
+      "word": "Apple",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Chip supply chain warns of broader disruption from new US export controls - Nikkei Asia",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVndkdXFmNFJBNzBqQTRObUJuVWtPRnhiLTlKSERpb2c5X0lHdXZBYkFCbzMtRmdybENXeG5Qc0RhS0ZUbGJFSlo0YTF1UmlrcWFZRE5nRjM3dUNodUdVaXRZTTVJVTQ4T3NVT3IzZ0MwQzJZNDdWOEtIaVRNakdINmVVX0lnMURMOWQ2LUtWR3NrM0FWQmxNaWZ1VE02UU92clE0SmNpWExqbWsydktHRW83TlRkMkdxWXhlY1p6UzlUVTVD?oc=5",
+          "title": "Apple Black Friday Deals Available Now: AirPods, Apple Watches, MacBooks, and More - MacRumors",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzQ3TXlUbnpfS1pCR3Q5TzRRanAtZnJwcVNzUkRVaXZ0dHhXYTUwM0I0eGNBQkZfMVZfRFQ2Q0dtRDlDcU5rOENuUzQ3ZHhkb0U1bVV3MkpLY2dOZEZONXkyNkRKSVpqSDhGVmp0ZXFuX3ZmN05tbi03RDVWVG5mQUpGUDZ1UHlw?oc=5",
           "source": "Google News",
-          "published": "Fri, 20 Nov 2026 05:10:00 GMT"
-        },
-        {
-          "title": "Valve says it might have to raise the price of supply-limited Steam Machines - Ars Technica",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLU44ZWh4TnlIRTVhQkhxWXljNWFLeTBjV1RqNFVqdU81SmY5Y0dtOE9reFBOMkFJajl3MEpOS0FkXzZvM1Fab083OUM1ejEwRUI3aFNZUDBwZFc2YWZ0aHppcjJxVVMyVy0zV3U2WjJVR3o2WjZIUXJTWEVNVHdCTXNNbkh4cks1WF9JQm9DWWNnMTBvNVJPSGlDWHRBeXlvOUI0RHRLTktwWDZzY0M0bmNrSUU5TEk?oc=5",
-          "source": "Google News",
-          "published": "Fri, 20 Nov 2026 16:11:21 GMT"
+          "published": "Fri, 20 Nov 2026 23:03:07 GMT"
         }
       ]
     },
     {
-      "word": "Best",
+      "word": "GTA",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Best Apple Black Friday deals now live: AirPods, MacBook Neo, Series 12, M6 MacBook Pro, more [Updated] - 9to5Mac",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54LWJPck9NV0pIOUczZlV1YkxvUUdnR0R0cUNBYzJHN0lGazNmd2JHQjE2SHUwTUJsQVVZbU5VN3pyQVdHOEZCQWo4dnhOWUdqWDdBdkNOSEtHckJnbUpFYmswbWc4ekg2UVlCbk1CWS04OVFPdHg3RWx3?oc=5",
+          "title": "'What happens in GTA 6 stays in GTA 6': Police across US warn fans about taking the game to their real lives - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Jbjd5NENGb3VaaEpQRTNuNHgyWHFPR2Z3Mm1xU1BOemlpOVNFXzFwbzdCS0liMERjdGVoTXkyc1ZJNElxbjZnWHN0YmxEanRHZmVzUzFWUEdOa28?oc=5",
           "source": "Google News",
-          "published": "Fri, 20 Nov 2026 12:28:00 GMT"
-        },
-        {
-          "title": "'Hunger Games: Sunrise On The Reaping' Sows $21M In Previews, Second-Best For Franchise - Deadline",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaldkSEQ3azBLUl9CSnBWYTVJb0VKTGtFYk9BV3RJS0Y3NjVrVmZpSGdZRUVYUHRpYnB1NHhEdFV5eFMxZlJFUG5OWmNGN3hncFlubURnYlptQmt1ZGRkRlVYUmdXV2Zvd3ptOHJ6dlVRbVhvT1J6TG5wMGhvQzdQYnBSbnFvZDdrZ2NNSEhyTFU?oc=5",
-          "source": "Google News",
-          "published": "Fri, 20 Nov 2026 16:05:00 GMT"
+          "published": "Fri, 20 Nov 2026 16:29:18 GMT"
         }
       ]
     },
     {
-      "word": "Macbook",
+      "word": "Death",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Best Apple Black Friday deals now live: AirPods, MacBook Neo, Series 12, M6 MacBook Pro, more [Updated] - 9to5Mac",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54LWJPck9NV0pIOUczZlV1YkxvUUdnR0R0cUNBYzJHN0lGazNmd2JHQjE2SHUwTUJsQVVZbU5VN3pyQVdHOEZCQWo4dnhOWUdqWDdBdkNOSEtHckJnbUpFYmswbWc4ekg2UVlCbk1CWS04OVFPdHg3RWx3?oc=5",
+          "title": "'Beverly Hills, 90210' Actress Kimmarie Johnson Cause of Death Revealed - TMZ",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oQVViUVp1MmVhTENuVEJISG54RHVOSDk0QU5SZEpYbDZHRVd3aE05VGRrUjY3MW9GS0dEeDNJWkZpWk83VG0wNm9wU3R2Y3VKZHE1dWdSc3ZrNTBxYi1SZUNMcTEtVWMwYVM0QWtKc20?oc=5",
           "source": "Google News",
-          "published": "Fri, 20 Nov 2026 12:28:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Price",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Valve says it might have to raise the price of supply-limited Steam Machines - Ars Technica",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLU44ZWh4TnlIRTVhQkhxWXljNWFLeTBjV1RqNFVqdU81SmY5Y0dtOE9reFBOMkFJajl3MEpOS0FkXzZvM1Fab083OUM1ejEwRUI3aFNZUDBwZFc2YWZ0aHppcjJxVVMyVy0zV3U2WjJVR3o2WjZIUXJTWEVNVHdCTXNNbkh4cks1WF9JQm9DWWNnMTBvNVJPSGlDWHRBeXlvOUI0RHRLTktwWDZzY0M0bmNrSUU5TEk?oc=5",
-          "source": "Google News",
-          "published": "Fri, 20 Nov 2026 16:11:21 GMT"
+          "published": "Fri, 20 Nov 2026 22:41:05 GMT"
         },
         {
-          "title": "‘They’re struggling for oxygen’: children pay the price as countries allow measles to surge again - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZTkyb3I1ZTAzem8ySm9IZ3VMaGVIM2RHZTlIaXFJYThHOHdpVnpLZThqeDd1STBBdk4xOV83Y0M1eFdlN0JNendZX3lBZGNuV25NOW9CbG1waEhsVlpzLVFXN0lmWFM1dm5yRGhHaVVhUTdKR2tlUVVna0VoSEhYYjhVMHVKLXpwWGdaekEyV0pTV2k4YldtaUdHZHRKVWxsQVE?oc=5",
+          "title": "Young child dies of measles, marking first death of year in Virginia, VDH says - WSET",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVGkzS3ZKd2xkY3FUMHBuNUxMN0dVWllVdG9HWFhqUURyWDZ3OUEycmRDaXJsZUpsMEREY2tfMUdJMU5GM3NjNTFFMl85QVVkTXlURXg4RlgzYWNyTUVXZE5xcXA4SWVPbTA1RlJ1RDNVOTVZbEdXQjhtRFBLMGo1MUs0TjBQNk1OYkI0Z0VzeXl0aGU3Qnl2M1hiem5IQy1vMzBB?oc=5",
           "source": "Google News",
-          "published": "Fri, 20 Nov 2026 14:12:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "may",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Dark energy may originate from known laws of particle physics - Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5alVoYl9fUlVyOG1FTDNlakRuYUs5SUI2WUVjcTI5X2JkUlN3d0dPTVpsVHJsRkp6UjlJNjNXRFFWUW92cXZXNVBteHNqaGZ5cE1MMUhlbWVPM0dlQ0tMdU43aWJmWjZqM2lYY0JZWk9YOUFkRXNv?oc=5",
-          "source": "Google News",
-          "published": "Fri, 20 Nov 2026 13:20:06 GMT"
-        },
-        {
-          "title": "Experts have for decades wanted to diagnose CTE in living people. BU researchers may have found a way. - The Boston Globe",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QQndwa25DMUdfRXpVVU9iUi1mQVQxYmt1WVhxcG84VmVmdnNGcWFhQWd6bGdRclRUSXU0cXNxQUYxbGE3V0dVS0FHRGxhVW5FdzlORVhueGZ1M2Y2UzNxNG9ncE9IQWRWbWVSZTEyRVU3SU9ZMUNjTnNrcWxPdw?oc=5",
-          "source": "Google News",
-          "published": "Fri, 20 Nov 2026 00:50:03 GMT"
+          "published": "Fri, 20 Nov 2026 21:33:50 GMT"
         }
       ]
     },
@@ -420,81 +231,159 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "‘They’re struggling for oxygen’: children pay the price as countries allow measles to surge again - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZTkyb3I1ZTAzem8ySm9IZ3VMaGVIM2RHZTlIaXFJYThHOHdpVnpLZThqeDd1STBBdk4xOV83Y0M1eFdlN0JNendZX3lBZGNuV25NOW9CbG1waEhsVlpzLVFXN0lmWFM1dm5yRGhHaVVhUTdKR2tlUVVna0VoSEhYYjhVMHVKLXpwWGdaekEyV0pTV2k4YldtaUdHZHRKVWxsQVE?oc=5",
+          "title": "Young child dies of measles, marking first death of year in Virginia, VDH says - WSET",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVGkzS3ZKd2xkY3FUMHBuNUxMN0dVWllVdG9HWFhqUURyWDZ3OUEycmRDaXJsZUpsMEREY2tfMUdJMU5GM3NjNTFFMl85QVVkTXlURXg4RlgzYWNyTUVXZE5xcXA4SWVPbTA1RlJ1RDNVOTVZbEdXQjhtRFBLMGo1MUs0TjBQNk1OYkI0Z0VzeXl0aGU3Qnl2M1hiem5IQy1vMzBB?oc=5",
           "source": "Google News",
-          "published": "Fri, 20 Nov 2026 14:12:00 GMT"
+          "published": "Fri, 20 Nov 2026 21:33:50 GMT"
         },
         {
-          "title": "Pennsylvania DOH confirms 8th measles-related death amid growing outbreak - PennLive.com",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTFNkMnB0MXRnekZLOHZiOXZ6dmdLY1RSaGZuTEZFTHRsQ3hRVnQ2OXZGYWpucS1YSjVKV2tCZFRQbVdwYnhoNmstSFZKNTBhcDBMMWQxRFRjbjYwQ3pUTllyVFhScE1ZZnp1ZnhmT2o4U2xEYlJyQ0NFck0zTHNiY3lhUWU0WHJhaF9Sclk1UTBfeXpkU0NWLVVROWpMeERVMTY1cU1SMWVFOWJhRUt5QUtRcUFMc0lUWUE?oc=5",
+          "title": "U.S. measles cases are at a 35-year high. Here’s how to protect yourself. - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUGNoR2JFQ1FlN0pEUXh5Um9sVDVrelhyLVdObHctZnJHUUpGeWpWUU5uWmU1eUdQOXJKNElIRWJLTEFtUDRKY0pYSDN0QmdSR05CblVHUUszc0RBSUNQdEhSbmpFbmwwbHFucmt1aGRnSzgyWUlnd1MzVHRoRnNTbXAxd2RFQkgzWnJsTDFzYXF5Q0ZLSEtTTXNUTFFuSE9Ja1JQYkVTTHJOR1BOSGpBZWpB?oc=5",
           "source": "Google News",
-          "published": "Wed, 18 Nov 2026 21:11:00 GMT"
+          "published": "Fri, 20 Nov 2026 19:00:00 GMT"
         }
       ]
     },
     {
-      "word": "Taiwan",
+      "word": "California",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ3BYTkl6X2o5d010NGI3QTFKNi1LM0gzZXZBbGQ1QXBVR0xNaTZpMmZxQkROOGZfZ3hlZUFPWTBBY3UwQmEwcGZrY0pMd1h4N3R1ZXVZYlNiT0xqMlcxUUR5ZFpkME82N1FNd2VwM2k5QVNGM3lnSkJ0NHNkaEowZnNR0gGHAUFVX3lxTE4zUWhBang1TUVjaXg1MjkxLUxkLUFoVmV0V3ZUd0t1aW5UQlVBcHBFYWxoUHNRaVNhYlFzdkdDbW1zNVNOWUN5TTA1OFpKMDJ6b2tPZEdQVEprbmNKZFRwV005d1pPc2NLbENScTRXMDMzWklUYWdNSzRrZk9GbUJIcGJ0OERxZw?oc=5",
+          "title": "California man found guilty of starting deadly and devastating Pacific Palisades fire - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMTBjbU10T0ZDdE1jVTFnbm9XYkdBbGx1NjNNU1ByOWtVOWxnMWQ4WnloY3hYTDNUTDYwT3pLQ2huWTJVUUc3YWZRZHlhVlBhTk1Zb2xNa0NIMmNILWcwX09BSmU1V09fbXBCNmp4V0xHTW9PTWYxbk53aGVjcTY0WnpvMDBGT3UyclpwNG1fVDJTUHhvLVdfb3k4aFFuTHh2b3c?oc=5",
           "source": "Google News",
-          "published": "Fri, 20 Nov 2026 13:16:47 GMT"
+          "published": "Fri, 20 Nov 2026 23:23:04 GMT"
         }
       ]
     },
     {
-      "word": "Tensions",
+      "word": "man",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ3BYTkl6X2o5d010NGI3QTFKNi1LM0gzZXZBbGQ1QXBVR0xNaTZpMmZxQkROOGZfZ3hlZUFPWTBBY3UwQmEwcGZrY0pMd1h4N3R1ZXVZYlNiT0xqMlcxUUR5ZFpkME82N1FNd2VwM2k5QVNGM3lnSkJ0NHNkaEowZnNR0gGHAUFVX3lxTE4zUWhBang1TUVjaXg1MjkxLUxkLUFoVmV0V3ZUd0t1aW5UQlVBcHBFYWxoUHNRaVNhYlFzdkdDbW1zNVNOWUN5TTA1OFpKMDJ6b2tPZEdQVEprbmNKZFRwV005d1pPc2NLbENScTRXMDMzWklUYWdNSzRrZk9GbUJIcGJ0OERxZw?oc=5",
+          "title": "California man found guilty of starting deadly and devastating Pacific Palisades fire - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMTBjbU10T0ZDdE1jVTFnbm9XYkdBbGx1NjNNU1ByOWtVOWxnMWQ4WnloY3hYTDNUTDYwT3pLQ2huWTJVUUc3YWZRZHlhVlBhTk1Zb2xNa0NIMmNILWcwX09BSmU1V09fbXBCNmp4V0xHTW9PTWYxbk53aGVjcTY0WnpvMDBGT3UyclpwNG1fVDJTUHhvLVdfb3k4aFFuTHh2b3c?oc=5",
           "source": "Google News",
-          "published": "Fri, 20 Nov 2026 13:16:47 GMT"
+          "published": "Fri, 20 Nov 2026 23:23:04 GMT"
         }
       ]
     },
     {
-      "word": "Remain",
+      "word": "Found",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ3BYTkl6X2o5d010NGI3QTFKNi1LM0gzZXZBbGQ1QXBVR0xNaTZpMmZxQkROOGZfZ3hlZUFPWTBBY3UwQmEwcGZrY0pMd1h4N3R1ZXVZYlNiT0xqMlcxUUR5ZFpkME82N1FNd2VwM2k5QVNGM3lnSkJ0NHNkaEowZnNR0gGHAUFVX3lxTE4zUWhBang1TUVjaXg1MjkxLUxkLUFoVmV0V3ZUd0t1aW5UQlVBcHBFYWxoUHNRaVNhYlFzdkdDbW1zNVNOWUN5TTA1OFpKMDJ6b2tPZEdQVEprbmNKZFRwV005d1pPc2NLbENScTRXMDMzWklUYWdNSzRrZk9GbUJIcGJ0OERxZw?oc=5",
+          "title": "California man found guilty of starting deadly and devastating Pacific Palisades fire - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMTBjbU10T0ZDdE1jVTFnbm9XYkdBbGx1NjNNU1ByOWtVOWxnMWQ4WnloY3hYTDNUTDYwT3pLQ2huWTJVUUc3YWZRZHlhVlBhTk1Zb2xNa0NIMmNILWcwX09BSmU1V09fbXBCNmp4V0xHTW9PTWYxbk53aGVjcTY0WnpvMDBGT3UyclpwNG1fVDJTUHhvLVdfb3k4aFFuTHh2b3c?oc=5",
           "source": "Google News",
-          "published": "Fri, 20 Nov 2026 13:16:47 GMT"
+          "published": "Fri, 20 Nov 2026 23:23:04 GMT"
         }
       ]
     },
     {
-      "word": "Unresolved",
+      "word": "Guilty",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ3BYTkl6X2o5d010NGI3QTFKNi1LM0gzZXZBbGQ1QXBVR0xNaTZpMmZxQkROOGZfZ3hlZUFPWTBBY3UwQmEwcGZrY0pMd1h4N3R1ZXVZYlNiT0xqMlcxUUR5ZFpkME82N1FNd2VwM2k5QVNGM3lnSkJ0NHNkaEowZnNR0gGHAUFVX3lxTE4zUWhBang1TUVjaXg1MjkxLUxkLUFoVmV0V3ZUd0t1aW5UQlVBcHBFYWxoUHNRaVNhYlFzdkdDbW1zNVNOWUN5TTA1OFpKMDJ6b2tPZEdQVEprbmNKZFRwV005d1pPc2NLbENScTRXMDMzWklUYWdNSzRrZk9GbUJIcGJ0OERxZw?oc=5",
+          "title": "California man found guilty of starting deadly and devastating Pacific Palisades fire - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMTBjbU10T0ZDdE1jVTFnbm9XYkdBbGx1NjNNU1ByOWtVOWxnMWQ4WnloY3hYTDNUTDYwT3pLQ2huWTJVUUc3YWZRZHlhVlBhTk1Zb2xNa0NIMmNILWcwX09BSmU1V09fbXBCNmp4V0xHTW9PTWYxbk53aGVjcTY0WnpvMDBGT3UyclpwNG1fVDJTUHhvLVdfb3k4aFFuTHh2b3c?oc=5",
           "source": "Google News",
-          "published": "Fri, 20 Nov 2026 13:16:47 GMT"
+          "published": "Fri, 20 Nov 2026 23:23:04 GMT"
         }
       ]
     },
     {
-      "word": "Returns",
+      "word": "Starting",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ3BYTkl6X2o5d010NGI3QTFKNi1LM0gzZXZBbGQ1QXBVR0xNaTZpMmZxQkROOGZfZ3hlZUFPWTBBY3UwQmEwcGZrY0pMd1h4N3R1ZXVZYlNiT0xqMlcxUUR5ZFpkME82N1FNd2VwM2k5QVNGM3lnSkJ0NHNkaEowZnNR0gGHAUFVX3lxTE4zUWhBang1TUVjaXg1MjkxLUxkLUFoVmV0V3ZUd0t1aW5UQlVBcHBFYWxoUHNRaVNhYlFzdkdDbW1zNVNOWUN5TTA1OFpKMDJ6b2tPZEdQVEprbmNKZFRwV005d1pPc2NLbENScTRXMDMzWklUYWdNSzRrZk9GbUJIcGJ0OERxZw?oc=5",
+          "title": "California man found guilty of starting deadly and devastating Pacific Palisades fire - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMTBjbU10T0ZDdE1jVTFnbm9XYkdBbGx1NjNNU1ByOWtVOWxnMWQ4WnloY3hYTDNUTDYwT3pLQ2huWTJVUUc3YWZRZHlhVlBhTk1Zb2xNa0NIMmNILWcwX09BSmU1V09fbXBCNmp4V0xHTW9PTWYxbk53aGVjcTY0WnpvMDBGT3UyclpwNG1fVDJTUHhvLVdfb3k4aFFuTHh2b3c?oc=5",
           "source": "Google News",
-          "published": "Fri, 20 Nov 2026 13:16:47 GMT"
+          "published": "Fri, 20 Nov 2026 23:23:04 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Deadly",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "California man found guilty of starting deadly and devastating Pacific Palisades fire - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMTBjbU10T0ZDdE1jVTFnbm9XYkdBbGx1NjNNU1ByOWtVOWxnMWQ4WnloY3hYTDNUTDYwT3pLQ2huWTJVUUc3YWZRZHlhVlBhTk1Zb2xNa0NIMmNILWcwX09BSmU1V09fbXBCNmp4V0xHTW9PTWYxbk53aGVjcTY0WnpvMDBGT3UyclpwNG1fVDJTUHhvLVdfb3k4aFFuTHh2b3c?oc=5",
+          "source": "Google News",
+          "published": "Fri, 20 Nov 2026 23:23:04 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Devastating",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "California man found guilty of starting deadly and devastating Pacific Palisades fire - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMTBjbU10T0ZDdE1jVTFnbm9XYkdBbGx1NjNNU1ByOWtVOWxnMWQ4WnloY3hYTDNUTDYwT3pLQ2huWTJVUUc3YWZRZHlhVlBhTk1Zb2xNa0NIMmNILWcwX09BSmU1V09fbXBCNmp4V0xHTW9PTWYxbk53aGVjcTY0WnpvMDBGT3UyclpwNG1fVDJTUHhvLVdfb3k4aFFuTHh2b3c?oc=5",
+          "source": "Google News",
+          "published": "Fri, 20 Nov 2026 23:23:04 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Pacific",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "California man found guilty of starting deadly and devastating Pacific Palisades fire - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMTBjbU10T0ZDdE1jVTFnbm9XYkdBbGx1NjNNU1ByOWtVOWxnMWQ4WnloY3hYTDNUTDYwT3pLQ2huWTJVUUc3YWZRZHlhVlBhTk1Zb2xNa0NIMmNILWcwX09BSmU1V09fbXBCNmp4V0xHTW9PTWYxbk53aGVjcTY0WnpvMDBGT3UyclpwNG1fVDJTUHhvLVdfb3k4aFFuTHh2b3c?oc=5",
+          "source": "Google News",
+          "published": "Fri, 20 Nov 2026 23:23:04 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Palisades",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "California man found guilty of starting deadly and devastating Pacific Palisades fire - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMTBjbU10T0ZDdE1jVTFnbm9XYkdBbGx1NjNNU1ByOWtVOWxnMWQ4WnloY3hYTDNUTDYwT3pLQ2huWTJVUUc3YWZRZHlhVlBhTk1Zb2xNa0NIMmNILWcwX09BSmU1V09fbXBCNmp4V0xHTW9PTWYxbk53aGVjcTY0WnpvMDBGT3UyclpwNG1fVDJTUHhvLVdfb3k4aFFuTHh2b3c?oc=5",
+          "source": "Google News",
+          "published": "Fri, 20 Nov 2026 23:23:04 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Fire",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "California man found guilty of starting deadly and devastating Pacific Palisades fire - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMTBjbU10T0ZDdE1jVTFnbm9XYkdBbGx1NjNNU1ByOWtVOWxnMWQ4WnloY3hYTDNUTDYwT3pLQ2huWTJVUUc3YWZRZHlhVlBhTk1Zb2xNa0NIMmNILWcwX09BSmU1V09fbXBCNmp4V0xHTW9PTWYxbk53aGVjcTY0WnpvMDBGT3UyclpwNG1fVDJTUHhvLVdfb3k4aFFuTHh2b3c?oc=5",
+          "source": "Google News",
+          "published": "Fri, 20 Nov 2026 23:23:04 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Touts",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump touts Asia deals and meeting with Xi and Putin at White House press conference - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN05lbnJqODFXYk1OV3NsRGkwWVEwZk9ETGdXOXB5Z25ROXdhTlRlc0V1SVB6NV9fUWo5aW5Wa0t1UG9EUE9ack4xd24tU0hSd1JUd1ZyV1ROakNNa1NhYVRKeHMxeVNJTnJIcjdFS3dxeklhLVpsMnpYX2JXWE9kUmRMeENxbll3eE5J?oc=5",
+          "source": "Google News",
+          "published": "Fri, 20 Nov 2026 19:02:00 GMT"
         }
       ]
     },
@@ -504,166 +393,205 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ3BYTkl6X2o5d010NGI3QTFKNi1LM0gzZXZBbGQ1QXBVR0xNaTZpMmZxQkROOGZfZ3hlZUFPWTBBY3UwQmEwcGZrY0pMd1h4N3R1ZXVZYlNiT0xqMlcxUUR5ZFpkME82N1FNd2VwM2k5QVNGM3lnSkJ0NHNkaEowZnNR0gGHAUFVX3lxTE4zUWhBang1TUVjaXg1MjkxLUxkLUFoVmV0V3ZUd0t1aW5UQlVBcHBFYWxoUHNRaVNhYlFzdkdDbW1zNVNOWUN5TTA1OFpKMDJ6b2tPZEdQVEprbmNKZFRwV005d1pPc2NLbENScTRXMDMzWklUYWdNSzRrZk9GbUJIcGJ0OERxZw?oc=5",
+          "title": "Trump touts Asia deals and meeting with Xi and Putin at White House press conference - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN05lbnJqODFXYk1OV3NsRGkwWVEwZk9ETGdXOXB5Z25ROXdhTlRlc0V1SVB6NV9fUWo5aW5Wa0t1UG9EUE9ack4xd24tU0hSd1JUd1ZyV1ROakNNa1NhYVRKeHMxeVNJTnJIcjdFS3dxeklhLVpsMnpYX2JXWE9kUmRMeENxbll3eE5J?oc=5",
           "source": "Google News",
-          "published": "Fri, 20 Nov 2026 13:16:47 GMT"
+          "published": "Fri, 20 Nov 2026 19:02:00 GMT"
         }
       ]
     },
     {
-      "word": "Speaks",
+      "word": "Meeting",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Live Updates: Trump Speaks on China Summit, Trade Deals and Data Centers - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmTEh2ZFRVUmZod25NaTdtQTlYYmpKYmd6T2pqMEhKTWJSdC1BT1hOMDMzV0k5bUw2RDYxS3EyZ1BjVmtOVWZ2UTRqSGVhVFMtSDc2bWkwQXZaSWo4SVoxNTRma25wVGJnSmVhNzhlYVF1dw?oc=5",
+          "title": "Trump touts Asia deals and meeting with Xi and Putin at White House press conference - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN05lbnJqODFXYk1OV3NsRGkwWVEwZk9ETGdXOXB5Z25ROXdhTlRlc0V1SVB6NV9fUWo5aW5Wa0t1UG9EUE9ack4xd24tU0hSd1JUd1ZyV1ROakNNa1NhYVRKeHMxeVNJTnJIcjdFS3dxeklhLVpsMnpYX2JXWE9kUmRMeENxbll3eE5J?oc=5",
           "source": "Google News",
-          "published": "Fri, 20 Nov 2026 19:46:59 GMT"
+          "published": "Fri, 20 Nov 2026 19:02:00 GMT"
         }
       ]
     },
     {
-      "word": "Summit",
+      "word": "Putin",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Live Updates: Trump Speaks on China Summit, Trade Deals and Data Centers - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmTEh2ZFRVUmZod25NaTdtQTlYYmpKYmd6T2pqMEhKTWJSdC1BT1hOMDMzV0k5bUw2RDYxS3EyZ1BjVmtOVWZ2UTRqSGVhVFMtSDc2bWkwQXZaSWo4SVoxNTRma25wVGJnSmVhNzhlYVF1dw?oc=5",
+          "title": "Trump touts Asia deals and meeting with Xi and Putin at White House press conference - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN05lbnJqODFXYk1OV3NsRGkwWVEwZk9ETGdXOXB5Z25ROXdhTlRlc0V1SVB6NV9fUWo5aW5Wa0t1UG9EUE9ack4xd24tU0hSd1JUd1ZyV1ROakNNa1NhYVRKeHMxeVNJTnJIcjdFS3dxeklhLVpsMnpYX2JXWE9kUmRMeENxbll3eE5J?oc=5",
           "source": "Google News",
-          "published": "Fri, 20 Nov 2026 19:46:59 GMT"
+          "published": "Fri, 20 Nov 2026 19:02:00 GMT"
         }
       ]
     },
     {
-      "word": "Data",
+      "word": "Press",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Live Updates: Trump Speaks on China Summit, Trade Deals and Data Centers - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmTEh2ZFRVUmZod25NaTdtQTlYYmpKYmd6T2pqMEhKTWJSdC1BT1hOMDMzV0k5bUw2RDYxS3EyZ1BjVmtOVWZ2UTRqSGVhVFMtSDc2bWkwQXZaSWo4SVoxNTRma25wVGJnSmVhNzhlYVF1dw?oc=5",
+          "title": "Trump touts Asia deals and meeting with Xi and Putin at White House press conference - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN05lbnJqODFXYk1OV3NsRGkwWVEwZk9ETGdXOXB5Z25ROXdhTlRlc0V1SVB6NV9fUWo5aW5Wa0t1UG9EUE9ack4xd24tU0hSd1JUd1ZyV1ROakNNa1NhYVRKeHMxeVNJTnJIcjdFS3dxeklhLVpsMnpYX2JXWE9kUmRMeENxbll3eE5J?oc=5",
           "source": "Google News",
-          "published": "Fri, 20 Nov 2026 19:46:59 GMT"
+          "published": "Fri, 20 Nov 2026 19:02:00 GMT"
         }
       ]
     },
     {
-      "word": "Centers",
+      "word": "Conference",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Live Updates: Trump Speaks on China Summit, Trade Deals and Data Centers - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmTEh2ZFRVUmZod25NaTdtQTlYYmpKYmd6T2pqMEhKTWJSdC1BT1hOMDMzV0k5bUw2RDYxS3EyZ1BjVmtOVWZ2UTRqSGVhVFMtSDc2bWkwQXZaSWo4SVoxNTRma25wVGJnSmVhNzhlYVF1dw?oc=5",
+          "title": "Trump touts Asia deals and meeting with Xi and Putin at White House press conference - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN05lbnJqODFXYk1OV3NsRGkwWVEwZk9ETGdXOXB5Z25ROXdhTlRlc0V1SVB6NV9fUWo5aW5Wa0t1UG9EUE9ack4xd24tU0hSd1JUd1ZyV1ROakNNa1NhYVRKeHMxeVNJTnJIcjdFS3dxeklhLVpsMnpYX2JXWE9kUmRMeENxbll3eE5J?oc=5",
           "source": "Google News",
-          "published": "Fri, 20 Nov 2026 19:46:59 GMT"
+          "published": "Fri, 20 Nov 2026 19:02:00 GMT"
         }
       ]
     },
     {
-      "word": "Removes",
+      "word": "Removal",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "White House removes cyber-security chief after series of tech outages - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IZm9kN0ZDWmlrVXItSzNoZ1hLMlNlclc3TWZ5TkFKTmN3TktEVF9icVZpN2x0aFVjZFprZDQwNGtIVWJ5cS1wV2N0cmY3VFc3YWVZTW10U0R3Sjg?oc=5",
+          "title": "Removal of hat inside Fiona the hippo was 'impossible', Cincinnati Zoo says - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DSFVlQjA3Wlg2b2xudkQzOFQ3bnpBMjdrNkNuN2hMZzEyR2RZa3JxejRGVkgyaDl6MVE4Z3FPUjZvOGdEVGRqdTdUY3JOWjBjaE5lVjUxWGtUeTg?oc=5",
           "source": "Google News",
-          "published": "Fri, 20 Nov 2026 19:03:56 GMT"
+          "published": "Fri, 20 Nov 2026 22:14:33 GMT"
         }
       ]
     },
     {
-      "word": "Cyber",
+      "word": "hat",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "White House removes cyber-security chief after series of tech outages - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IZm9kN0ZDWmlrVXItSzNoZ1hLMlNlclc3TWZ5TkFKTmN3TktEVF9icVZpN2x0aFVjZFprZDQwNGtIVWJ5cS1wV2N0cmY3VFc3YWVZTW10U0R3Sjg?oc=5",
+          "title": "Removal of hat inside Fiona the hippo was 'impossible', Cincinnati Zoo says - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DSFVlQjA3Wlg2b2xudkQzOFQ3bnpBMjdrNkNuN2hMZzEyR2RZa3JxejRGVkgyaDl6MVE4Z3FPUjZvOGdEVGRqdTdUY3JOWjBjaE5lVjUxWGtUeTg?oc=5",
           "source": "Google News",
-          "published": "Fri, 20 Nov 2026 19:03:56 GMT"
+          "published": "Fri, 20 Nov 2026 22:14:33 GMT"
         }
       ]
     },
     {
-      "word": "Security",
+      "word": "Inside",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "White House removes cyber-security chief after series of tech outages - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IZm9kN0ZDWmlrVXItSzNoZ1hLMlNlclc3TWZ5TkFKTmN3TktEVF9icVZpN2x0aFVjZFprZDQwNGtIVWJ5cS1wV2N0cmY3VFc3YWVZTW10U0R3Sjg?oc=5",
+          "title": "Removal of hat inside Fiona the hippo was 'impossible', Cincinnati Zoo says - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DSFVlQjA3Wlg2b2xudkQzOFQ3bnpBMjdrNkNuN2hMZzEyR2RZa3JxejRGVkgyaDl6MVE4Z3FPUjZvOGdEVGRqdTdUY3JOWjBjaE5lVjUxWGtUeTg?oc=5",
           "source": "Google News",
-          "published": "Fri, 20 Nov 2026 19:03:56 GMT"
+          "published": "Fri, 20 Nov 2026 22:14:33 GMT"
         }
       ]
     },
     {
-      "word": "Chief",
+      "word": "Fiona",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "White House removes cyber-security chief after series of tech outages - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IZm9kN0ZDWmlrVXItSzNoZ1hLMlNlclc3TWZ5TkFKTmN3TktEVF9icVZpN2x0aFVjZFprZDQwNGtIVWJ5cS1wV2N0cmY3VFc3YWVZTW10U0R3Sjg?oc=5",
+          "title": "Removal of hat inside Fiona the hippo was 'impossible', Cincinnati Zoo says - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DSFVlQjA3Wlg2b2xudkQzOFQ3bnpBMjdrNkNuN2hMZzEyR2RZa3JxejRGVkgyaDl6MVE4Z3FPUjZvOGdEVGRqdTdUY3JOWjBjaE5lVjUxWGtUeTg?oc=5",
           "source": "Google News",
-          "published": "Fri, 20 Nov 2026 19:03:56 GMT"
+          "published": "Fri, 20 Nov 2026 22:14:33 GMT"
         }
       ]
     },
     {
-      "word": "Outages",
+      "word": "Hippo",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "White House removes cyber-security chief after series of tech outages - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IZm9kN0ZDWmlrVXItSzNoZ1hLMlNlclc3TWZ5TkFKTmN3TktEVF9icVZpN2x0aFVjZFprZDQwNGtIVWJ5cS1wV2N0cmY3VFc3YWVZTW10U0R3Sjg?oc=5",
+          "title": "Removal of hat inside Fiona the hippo was 'impossible', Cincinnati Zoo says - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DSFVlQjA3Wlg2b2xudkQzOFQ3bnpBMjdrNkNuN2hMZzEyR2RZa3JxejRGVkgyaDl6MVE4Z3FPUjZvOGdEVGRqdTdUY3JOWjBjaE5lVjUxWGtUeTg?oc=5",
           "source": "Google News",
-          "published": "Fri, 20 Nov 2026 19:03:56 GMT"
+          "published": "Fri, 20 Nov 2026 22:14:33 GMT"
         }
       ]
     },
     {
-      "word": "Potent",
+      "word": "Impossible",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "'Potent' storm will hit a huge stretch of the East Coast - USA Today",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdTB6R0ZhbXhNWkRWbUkxTkZHbGttbTRkb1dVOTdpSGhjZVVqLWFUbmxLVDVHN0NRRlRWV2VtZmVLdUcxQTV6NEloaEYtOW54bGs1aXI2R3NqNlMxVkZuV21sYWthLXJyZmdVR0hlUkg0RGZCYVVwOURQMmt6NzB2R2pDcDZrX2Q5RXRtZVZFT0Frem9ncnl0OU0wOE5PY1JqWHFOX2k5dlozZWh4VHIxWU1Bel9pNE9takQ0?oc=5",
+          "title": "Removal of hat inside Fiona the hippo was 'impossible', Cincinnati Zoo says - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DSFVlQjA3Wlg2b2xudkQzOFQ3bnpBMjdrNkNuN2hMZzEyR2RZa3JxejRGVkgyaDl6MVE4Z3FPUjZvOGdEVGRqdTdUY3JOWjBjaE5lVjUxWGtUeTg?oc=5",
           "source": "Google News",
-          "published": "Fri, 20 Nov 2026 16:11:00 GMT"
+          "published": "Fri, 20 Nov 2026 22:14:33 GMT"
         }
       ]
     },
     {
-      "word": "Storm",
+      "word": "Cincinnati",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "'Potent' storm will hit a huge stretch of the East Coast - USA Today",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdTB6R0ZhbXhNWkRWbUkxTkZHbGttbTRkb1dVOTdpSGhjZVVqLWFUbmxLVDVHN0NRRlRWV2VtZmVLdUcxQTV6NEloaEYtOW54bGs1aXI2R3NqNlMxVkZuV21sYWthLXJyZmdVR0hlUkg0RGZCYVVwOURQMmt6NzB2R2pDcDZrX2Q5RXRtZVZFT0Frem9ncnl0OU0wOE5PY1JqWHFOX2k5dlozZWh4VHIxWU1Bel9pNE9takQ0?oc=5",
+          "title": "Removal of hat inside Fiona the hippo was 'impossible', Cincinnati Zoo says - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DSFVlQjA3Wlg2b2xudkQzOFQ3bnpBMjdrNkNuN2hMZzEyR2RZa3JxejRGVkgyaDl6MVE4Z3FPUjZvOGdEVGRqdTdUY3JOWjBjaE5lVjUxWGtUeTg?oc=5",
           "source": "Google News",
-          "published": "Fri, 20 Nov 2026 16:11:00 GMT"
+          "published": "Fri, 20 Nov 2026 22:14:33 GMT"
         }
       ]
     },
     {
-      "word": "Huge",
+      "word": "Zoo",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "'Potent' storm will hit a huge stretch of the East Coast - USA Today",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdTB6R0ZhbXhNWkRWbUkxTkZHbGttbTRkb1dVOTdpSGhjZVVqLWFUbmxLVDVHN0NRRlRWV2VtZmVLdUcxQTV6NEloaEYtOW54bGs1aXI2R3NqNlMxVkZuV21sYWthLXJyZmdVR0hlUkg0RGZCYVVwOURQMmt6NzB2R2pDcDZrX2Q5RXRtZVZFT0Frem9ncnl0OU0wOE5PY1JqWHFOX2k5dlozZWh4VHIxWU1Bel9pNE9takQ0?oc=5",
+          "title": "Removal of hat inside Fiona the hippo was 'impossible', Cincinnati Zoo says - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DSFVlQjA3Wlg2b2xudkQzOFQ3bnpBMjdrNkNuN2hMZzEyR2RZa3JxejRGVkgyaDl6MVE4Z3FPUjZvOGdEVGRqdTdUY3JOWjBjaE5lVjUxWGtUeTg?oc=5",
           "source": "Google News",
-          "published": "Fri, 20 Nov 2026 16:11:00 GMT"
+          "published": "Fri, 20 Nov 2026 22:14:33 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Britain",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "10 years on, Britain reopens the Brexit fight — this time embracing the E.U. - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQXRuRm1HLXhzOXByTFJjR2JiVTMtZ1paN2czQ0xkVmtxbDlQZlVib2lIUGRTT0gxd2VEdTUwRHMzZ3dvVExBWkgwZzI3VFZNcGpYYzg2aldUek13NExLTWwwN0hwaFFrM0FSaUlFbXVfdlprNXo0TUt2cmVuYkFvM2tuaGJpOXRxTDFyamRxYVEtRDc4OC1CZEtfWjJvaUlaajFrV01MVWJtMWNEcHc?oc=5",
+          "source": "Google News",
+          "published": "Fri, 20 Nov 2026 21:51:41 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Reopens",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "10 years on, Britain reopens the Brexit fight — this time embracing the E.U. - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQXRuRm1HLXhzOXByTFJjR2JiVTMtZ1paN2czQ0xkVmtxbDlQZlVib2lIUGRTT0gxd2VEdTUwRHMzZ3dvVExBWkgwZzI3VFZNcGpYYzg2aldUek13NExLTWwwN0hwaFFrM0FSaUlFbXVfdlprNXo0TUt2cmVuYkFvM2tuaGJpOXRxTDFyamRxYVEtRDc4OC1CZEtfWjJvaUlaajFrV01MVWJtMWNEcHc?oc=5",
+          "source": "Google News",
+          "published": "Fri, 20 Nov 2026 21:51:41 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Brexit",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "10 years on, Britain reopens the Brexit fight — this time embracing the E.U. - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQXRuRm1HLXhzOXByTFJjR2JiVTMtZ1paN2czQ0xkVmtxbDlQZlVib2lIUGRTT0gxd2VEdTUwRHMzZ3dvVExBWkgwZzI3VFZNcGpYYzg2aldUek13NExLTWwwN0hwaFFrM0FSaUlFbXVfdlprNXo0TUt2cmVuYkFvM2tuaGJpOXRxTDFyamRxYVEtRDc4OC1CZEtfWjJvaUlaajFrV01MVWJtMWNEcHc?oc=5",
+          "source": "Google News",
+          "published": "Fri, 20 Nov 2026 21:51:41 GMT"
         }
       ]
     }
