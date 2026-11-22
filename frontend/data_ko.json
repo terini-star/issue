@@ -1,119 +1,94 @@
 {
   "language": "ko",
-  "last_updated": 1795301932.648778,
+  "last_updated": 1795316383.794728,
   "count": 40,
   "trends": [
-    {
-      "word": "정상회담",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "얄타 2.0? 사상 첫 미·중·러 정상회담과 ‘동상삼몽’ - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNU9QWmF6eW43aWZnRk9HcVpqMXFYdkh6ZkdFZWdSVFdZVXdGSGFlRVpWWkduTGt1Z2haRXk0enI5a0MxMEtWUmQyc0o2b2ZSUEhLV05GYlRDVmp5eHdjVGlBRGZxSUg1emFmSm1la2ZrbDFfWkVYN2JDVlZhRHlFTExB?oc=5",
-          "source": "Google News",
-          "published": "Sat, 21 Nov 2026 12:22:00 GMT"
-        },
-        {
-          "title": "북미 정상회담 불발에도 대화 여지…'한국 패싱' 막을 외교력 시험대 - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIaEM0b25yVlRmMlVaMWQ0NURjdUNCRVBCZWdaQkg1LThUcDNSX1BvQkUxQnF0U0dkUm1aOThMbWtyLVY2a1VCb2QxZE5fMkpqamJKNER0NFJTRlotcTBlN01KcGtCNWM?oc=5",
-          "source": "Google News",
-          "published": "Sat, 21 Nov 2026 20:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "날씨",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[날씨] 전국 아침 영하권 추위 계속‥'도로 살얼음' 주의 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UZ3RQMkE3MzJ5Z29mUmZmUk5XdVR2WjZOSEVlc21Ka2FId042WExYZjR3QlpJanlXRzd1MmdCNno5eXZYZEJrVEZLNXQ4akYzdlRtcFhqUFY0TTNPM2dHMXVzX1BzWV9zVUVQd0h6TG9Sa0h0d2NB0gF3QVVfeXFMTlpQdnRmV0RkMDRpWDdtZDY2eEY5blFibk5BQzJ1Vk00ZFRxX1h1TEN4YkFld1JmZExyaVhrVkFaY2tKRGw4ZnAwUC1lM0pZU3FnOUVhWGdudS1tTUZJTjVQNmpaT0VnRHk0aEl1NWpBcER3TVF1blk?oc=5",
-          "source": "Google News",
-          "published": "Sat, 21 Nov 2026 15:03:23 GMT"
-        },
-        {
-          "title": "[오늘의 날씨] 강원(22일, 일)…아침 -11도, 영동·내륙 '불조심' - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xdkc4akFYWUEwZ1ltZmFNakkzVUtKNC12UHF5SGpoWmpzdXlnOUpaNzJQYzlhU0F2QVRDSDNNdUFTY1hUTlVPWVJjNzBNekYtSXBqcg?oc=5",
-          "source": "Google News",
-          "published": "Sat, 21 Nov 2026 20:00:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "계속",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[날씨] 전국 아침 영하권 추위 계속‥'도로 살얼음' 주의 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UZ3RQMkE3MzJ5Z29mUmZmUk5XdVR2WjZOSEVlc21Ka2FId042WExYZjR3QlpJanlXRzd1MmdCNno5eXZYZEJrVEZLNXQ4akYzdlRtcFhqUFY0TTNPM2dHMXVzX1BzWV9zVUVQd0h6TG9Sa0h0d2NB0gF3QVVfeXFMTlpQdnRmV0RkMDRpWDdtZDY2eEY5blFibk5BQzJ1Vk00ZFRxX1h1TEN4YkFld1JmZExyaVhrVkFaY2tKRGw4ZnAwUC1lM0pZU3FnOUVhWGdudS1tTUZJTjVQNmpaT0VnRHk0aEl1NWpBcER3TVF1blk?oc=5",
-          "source": "Google News",
-          "published": "Sat, 21 Nov 2026 15:03:23 GMT"
-        },
-        {
-          "title": "카타르 대표단, 다시 이란으로…중재 외교 계속 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96SVl0d2pZb2dwWjdkdFd6NjV6RWpMUjBBSUlHTkNYSS1tU2NfaEJYaThvcXNScVBDUG5DTUw4S2xXQUJDMXhjNUVPSGZTb2t1Z3RHXzBFV2RGeDDSAWBBVV95cUxNazBJdXhoakpJRDQyeVJqQXd1akFQVHhGb0VSblIyVUkxQWRQTGhaUkF3VEVfWUNCVjhmTjRyQkI0Y0FJVFVJbS1WdGU2V0hQMU9udnVEQjBOckE2Y29idXg?oc=5",
-          "source": "Google News",
-          "published": "Sat, 21 Nov 2026 15:55:45 GMT"
-        }
-      ]
-    },
     {
       "word": "대통령",
       "count": 2,
       "category": "PERSON",
       "articles": [
         {
-          "title": "李대통령, 12월 트럼프·1월 다카이치 만난다…실용외교 보폭 확장 - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGV2RJU1lWaVF4NzlyVDBfUW43X2IyRDRyUW5lSEpvWGo4WW9CQjgxUFdVd2tzLS0wOWNEVWVmekJOanBjWUZRdE5PZWZkSjVmRzVrdWJkbi1rWUE?oc=5",
+          "title": "조희대 탄핵, 대통령이 반대해야…심판 기각 땐 거대한 역풍 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LblhzTWV1dEhyWjVIakRXbzkyMi10eVhIMklvUW95dDU0Y21wYnhpYllCUHoxRkN6SUdwT0hCQlVsVnBoRzhyRTZ0elRGQmpka3BiSVhCWHItazAyMmVvNWtERDhZd2FRd19tc0dvVW5XMHlL?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 20:05:00 GMT"
+          "published": "Sun, 22 Nov 2026 01:50:00 GMT"
         },
         {
-          "title": "이 대통령, 울산 AI 데이터센터 현장 방문…“속도가 생명” - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91ZFdEMnFUWGNsMC1ESmVlV3N3czJRTWEzcTlTb2Z5eEdlUXNTTDc3VV9JLWptOUJ0WldqRzRrRXp2SDBEbTFyQllCQVBNTTdWODUtYzZfTTZsZVU?oc=5",
+          "title": "이 대통령 “수능 부정행위 포상금 1건당 1억원…부정행위자 수만큼 가산” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RN01xV2RkRTVYeHB6OWFEUjFuOGtiZ1J5bl9JdDJfVDR6Y1RQZ2JmcTU5MTI0NU9XY0JUTUJ3bVRSZF85ZjRzUVhtbGVWRGlpYVBuTF9wYlZCc2p1VExpMWZrV3NUbXpOc091cUdFMHVPdjNk?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 12:18:00 GMT"
+          "published": "Sat, 21 Nov 2026 23:41:00 GMT"
         }
       ]
     },
     {
-      "word": "이란",
+      "word": "부정행위",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 \"이란 핵보유 막을 수 있는 영구적 합의 할 것\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa2MyQUFOY0dQcXl5Z1F5eHNnU0hjSG9PQW8xaUVCREJqdFloRVlRakFsSDV3UHJUajZ2ajhUYVlmTjFpM3ZwRUZ3UWhhd0hIYll3ZWUta0VCT2R1WjRMeGx4Q2hzTzF2M0VPb0NES3FQaXlxY01XbmdxbjU2bUp4SjI1a28?oc=5",
+          "title": "부정행위 얼마나 만연해 있었길래…국가자격시험서 또 6명 적발 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DM2t0VllGdlNmUDhZRk9UcWtqSGt1R00yLVhIMHBBS2FreUI5TXJqZEppMTFGNzZLakFjR1QxT096VmlIRTFNMC0tUWRxYU05NjM2NGdwZnhMQQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 20:00:00 GMT"
+          "published": "Sun, 22 Nov 2026 00:37:19 GMT"
         },
         {
-          "title": "이란 \"美 F-16 전투기 공격해 비상착륙\"…미군 \"거짓 주장\" - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BVU5QWENtWFlLSHpxLXFXXy1VNWNwNXNKX18yMkFRdVJuMTlkSDRGaFpwdjMzRDc3S3ZFOFVyX000MElBVGtYZUlVcVlhV0cxenlLYXhSUm04aktMcDgyLVEwWHdsQmc?oc=5",
+          "title": "이 대통령 “수능 부정행위 포상금 1건당 1억원…부정행위자 수만큼 가산” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RN01xV2RkRTVYeHB6OWFEUjFuOGtiZ1J5bl9JdDJfVDR6Y1RQZ2JmcTU5MTI0NU9XY0JUTUJ3bVRSZF85ZjRzUVhtbGVWRGlpYVBuTF9wYlZCc2p1VExpMWZrV3NUbXpOc091cUdFMHVPdjNk?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 16:46:00 GMT"
+          "published": "Sat, 21 Nov 2026 23:41:00 GMT"
         }
       ]
     },
     {
-      "word": "막을",
+      "word": "수출",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "트럼프 \"이란 핵보유 막을 수 있는 영구적 합의 할 것\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa2MyQUFOY0dQcXl5Z1F5eHNnU0hjSG9PQW8xaUVCREJqdFloRVlRakFsSDV3UHJUajZ2ajhUYVlmTjFpM3ZwRUZ3UWhhd0hIYll3ZWUta0VCT2R1WjRMeGx4Q2hzTzF2M0VPb0NES3FQaXlxY01XbmdxbjU2bUp4SjI1a28?oc=5",
+          "title": "올해 수출 ‘1조달러’, 1달러 지폐로 이으면 지구 3897바퀴…1분에 42억원어치 수출 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vZmhLQ0ZWdWZqZmM1UnkxQVpFV19fSXpaUU1ndnFqTGtWeUIwQWcwdVJlNzFBTzBaanJGdzNFbHdYWktDRWVfR3hjQUZMNV9KdHVKR2JOTS1xZ9IBX0FVX3lxTE5jZTBwSFBpLXdnVzhDMWxGQjVnY0g4QTlGUVdrbkNTOW9hSFY0cU1TTXd0RVZRV1ZUM0RrMzdhVERRM1RvUTV0Uk1WRm9JWjRlcldsRzkwNGJHekVtT2NF?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 20:00:00 GMT"
+          "published": "Sat, 21 Nov 2026 22:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "지구",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "올해 수출 ‘1조달러’, 1달러 지폐로 이으면 지구 3897바퀴…1분에 42억원어치 수출 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vZmhLQ0ZWdWZqZmM1UnkxQVpFV19fSXpaUU1ndnFqTGtWeUIwQWcwdVJlNzFBTzBaanJGdzNFbHdYWktDRWVfR3hjQUZMNV9KdHVKR2JOTS1xZ9IBX0FVX3lxTE5jZTBwSFBpLXdnVzhDMWxGQjVnY0g4QTlGUVdrbkNTOW9hSFY0cU1TTXd0RVZRV1ZUM0RrMzdhVERRM1RvUTV0Uk1WRm9JWjRlcldsRzkwNGJHekVtT2NF?oc=5",
+          "source": "Google News",
+          "published": "Sat, 21 Nov 2026 22:00:00 GMT"
         },
         {
-          "title": "북미 정상회담 불발에도 대화 여지…'한국 패싱' 막을 외교력 시험대 - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIaEM0b25yVlRmMlVaMWQ0NURjdUNCRVBCZWdaQkg1LThUcDNSX1BvQkUxQnF0U0dkUm1aOThMbWtyLVY2a1VCb2QxZE5fMkpqamJKNER0NFJTRlotcTBlN01KcGtCNWM?oc=5",
+          "title": "지구에 잠시 '두번째 달' 생겼다 - 전파신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2bzFkQlphaXFjUFNzcWFKZWdQMVZfdE9WN08tM0xJak9nNUtnLVpGYUgwQ201VElJOTh4Y2FVVDI4MmI1NHpNQUJGbEVXcmVZYXc0UF9rMnNpck9oLUhrbjR5T1lZUUZvS3c?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 20:00:00 GMT"
+          "published": "Sat, 21 Nov 2026 22:54:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "우주",
+      "count": 2,
+      "category": "LOCATION",
+      "articles": [
+        {
+          "title": "블랙홀과 은하, 누가 먼저 생겼을까…초기 우주의 단서 - DongA Science",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1mRmRHemIxQkZxX1dhYUh2RWpDRHk0bmo2VVZCM0NVZE9ETnRxRjI2ZlRrdHNuTlNFYjBXWkxScnNfRTZ5VHRhektGSEwzRk9sQ2cyOA?oc=5",
+          "source": "Google News",
+          "published": "Sat, 21 Nov 2026 23:00:00 GMT"
+        },
+        {
+          "title": "광속 1일 거리…보이저 1호가 ‘픽’한 태양계 사진첩 [놀라운 우주] - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PLU1RN3drbkV2em54SkdOUWhUbVU2bjVpcFY1ZkRqcVFHYVhybjZfbjZBS2p3a0xXbkNUcC12SGtIdmlBcE9WWU9wSkV2TlpWYUNzdVJFMmIwTDZlTzZjaUg0eWxwVGI2S2tVTFVLU0xkUQ?oc=5",
+          "source": "Google News",
+          "published": "Sat, 21 Nov 2026 23:44:00 GMT"
         }
       ]
     },
@@ -123,133 +98,35 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "장미화 “우승은 들이대지 마”…최성수 “예, 누님” (불후의 명곡) - 스포츠동아",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CRnNOcW5wNHJQZUpzMG00R2lUTjJaOTFKV3VQWGFYQ0pSaUZWYU16NU1sRnNoVXRUWDlNVmY1QldYZlo0cXJseGNaaTBxSUJEa19idTRsSGY1Tk9oVTc1RGd6M1dmaWV2UjRQRmt3?oc=5",
+          "title": "최백호, 447점 역대 2위 기록…윤항기 특집 우승 (불후의명곡) - 스포츠동아",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TOWNUQm9wd0d6eHpmMlF0U05IZTFzaVdvMk1Tc3dZQk9rX2QtY2E5QmQ2YzJ3US1NUVV2TEtKVWJ3R3QzTGkyMVRsZXVhcjNxLUVRbnMycFo5RE9zT3lzOWhBam9hZWFNSVJHOWxR?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 04:22:37 GMT"
+          "published": "Sat, 21 Nov 2026 22:42:20 GMT"
         },
         {
-          "title": "'이것이 대한민국 축구 명문의 역사다' 수원삼성, K리그2 우승으로 한국 프로축구 최초 대기록 완성...1·2부부터 아시아 정상까지 - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KOTV5NW51R2tPS2ZHdUxsTk1VYkt3Z29XdFNHN1NCTVpTOTRCaWQzWExfQkJVN2FRYURHVkhINF9rTm1QZjdydkd0YkQ5Rm1iUmZ6UUZpYkhhMl9RZkpybDR6VTZ1R0czVVHSAW9BVV95cUxPWWRqclpSeGotcW1SR012Y2gyNEI0UFUwaXpqa1M4QWpRT2VjajZ1cXhMSnZWT09aY29kLUZoYndMTGJFc0V6NUNmdDNYemNQVjZQRmJzdG9ZdXM5bFJmZEFtTE1kTEdZR2xyay1tSzQ?oc=5",
+          "title": "최민정, 홈팬들 앞에서 쇼트트랙 월드투어 1,000m 3연속 우승 - 연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JeDhIRnBxMzNLWjh5RTJyNjZzaFZ2WkYzZGU2Z2FYUXNycjhmNWR4aG14WUdoUkltbzV0UFRaa0gxeW1BbWNiRHM2U1lMdS1qNm04UTlBZkpQeGlRSmZqOXpkcFdwSms?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 22:14:00 GMT"
+          "published": "Sat, 21 Nov 2026 07:00:00 GMT"
         }
       ]
     },
     {
-      "word": "시험지",
-      "count": 1,
+      "word": "운동",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "시험지만 남아있다면…과거 수능 부정행위 의심자도 추적 조사 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpS2JSZldDNmV2YkJ3VUhKMll3SW1fWm9yaTBTMXJSN3FXTUZMc3h0MU40em1hb3c0VlhaOXN2UGMtVDBaanAtZ3h2S3lWVnRRNU9JbFpHamNpRmPSAWBBVV95cUxQT2FzUFZONGQ5VUNZbVlqTExfYVhuSkxZalRPNUhDeUhldmpHTWVDRDVuRENKbzFHYnNIc1hEUnRHMzlCWjZmY3p2OFdjYzM3YTF2M0xWWkY5d2hJNWFHRHc?oc=5",
+          "title": "\"고혈압·당뇨병 환자, 어떤 운동이 좋을까?\"… 유산소·근력운동 비교했더니 - 하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ubWNKODZIY292alotY3Jwb0wxY1hFT2prRUtDNm5rNExCNTFKU1U1bTFVMFN0ZkphSVRfU2QzaVVCejg0Q1lMRDFWbEl1R0Q5aDFfWGQ0Mlp6WmFVVUJaRUQ4YUljbHpweWc?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 21:02:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "남아있다면과거",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
+          "published": "Tue, 17 Nov 2026 01:00:00 GMT"
+        },
         {
-          "title": "시험지만 남아있다면…과거 수능 부정행위 의심자도 추적 조사 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpS2JSZldDNmV2YkJ3VUhKMll3SW1fWm9yaTBTMXJSN3FXTUZMc3h0MU40em1hb3c0VlhaOXN2UGMtVDBaanAtZ3h2S3lWVnRRNU9JbFpHamNpRmPSAWBBVV95cUxQT2FzUFZONGQ5VUNZbVlqTExfYVhuSkxZalRPNUhDeUhldmpHTWVDRDVuRENKbzFHYnNIc1hEUnRHMzlCWjZmY3p2OFdjYzM3YTF2M0xWWkY5d2hJNWFHRHc?oc=5",
+          "title": "가벼운 간식처럼, 운동 한 입 ① - 덴 매거진",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HbWpUZUc5VjRMVEFNV3FRcm1iYnBrTG1nclRKT2gyeXA1OExZRWFqZGVoSktiNFZ2amJSdjR3UGVqdlU0OTNRYTUxY1ZocTlPMjVpMUxtbUJkaDQxdFRiaER1UFRZTTJRd2c?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 21:02:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "수능",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "시험지만 남아있다면…과거 수능 부정행위 의심자도 추적 조사 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpS2JSZldDNmV2YkJ3VUhKMll3SW1fWm9yaTBTMXJSN3FXTUZMc3h0MU40em1hb3c0VlhaOXN2UGMtVDBaanAtZ3h2S3lWVnRRNU9JbFpHamNpRmPSAWBBVV95cUxQT2FzUFZONGQ5VUNZbVlqTExfYVhuSkxZalRPNUhDeUhldmpHTWVDRDVuRENKbzFHYnNIc1hEUnRHMzlCWjZmY3p2OFdjYzM3YTF2M0xWWkY5d2hJNWFHRHc?oc=5",
-          "source": "Google News",
-          "published": "Sat, 21 Nov 2026 21:02:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "부정행위",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "시험지만 남아있다면…과거 수능 부정행위 의심자도 추적 조사 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpS2JSZldDNmV2YkJ3VUhKMll3SW1fWm9yaTBTMXJSN3FXTUZMc3h0MU40em1hb3c0VlhaOXN2UGMtVDBaanAtZ3h2S3lWVnRRNU9JbFpHamNpRmPSAWBBVV95cUxQT2FzUFZONGQ5VUNZbVlqTExfYVhuSkxZalRPNUhDeUhldmpHTWVDRDVuRENKbzFHYnNIc1hEUnRHMzlCWjZmY3p2OFdjYzM3YTF2M0xWWkY5d2hJNWFHRHc?oc=5",
-          "source": "Google News",
-          "published": "Sat, 21 Nov 2026 21:02:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "의심자",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "시험지만 남아있다면…과거 수능 부정행위 의심자도 추적 조사 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpS2JSZldDNmV2YkJ3VUhKMll3SW1fWm9yaTBTMXJSN3FXTUZMc3h0MU40em1hb3c0VlhaOXN2UGMtVDBaanAtZ3h2S3lWVnRRNU9JbFpHamNpRmPSAWBBVV95cUxQT2FzUFZONGQ5VUNZbVlqTExfYVhuSkxZalRPNUhDeUhldmpHTWVDRDVuRENKbzFHYnNIc1hEUnRHMzlCWjZmY3p2OFdjYzM3YTF2M0xWWkY5d2hJNWFHRHc?oc=5",
-          "source": "Google News",
-          "published": "Sat, 21 Nov 2026 21:02:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "추적",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "시험지만 남아있다면…과거 수능 부정행위 의심자도 추적 조사 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpS2JSZldDNmV2YkJ3VUhKMll3SW1fWm9yaTBTMXJSN3FXTUZMc3h0MU40em1hb3c0VlhaOXN2UGMtVDBaanAtZ3h2S3lWVnRRNU9JbFpHamNpRmPSAWBBVV95cUxQT2FzUFZONGQ5VUNZbVlqTExfYVhuSkxZalRPNUhDeUhldmpHTWVDRDVuRENKbzFHYnNIc1hEUnRHMzlCWjZmY3p2OFdjYzM3YTF2M0xWWkY5d2hJNWFHRHc?oc=5",
-          "source": "Google News",
-          "published": "Sat, 21 Nov 2026 21:02:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "조사",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "시험지만 남아있다면…과거 수능 부정행위 의심자도 추적 조사 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpS2JSZldDNmV2YkJ3VUhKMll3SW1fWm9yaTBTMXJSN3FXTUZMc3h0MU40em1hb3c0VlhaOXN2UGMtVDBaanAtZ3h2S3lWVnRRNU9JbFpHamNpRmPSAWBBVV95cUxQT2FzUFZONGQ5VUNZbVlqTExfYVhuSkxZalRPNUhDeUhldmpHTWVDRDVuRENKbzFHYnNIc1hEUnRHMzlCWjZmY3p2OFdjYzM3YTF2M0xWWkY5d2hJNWFHRHc?oc=5",
-          "source": "Google News",
-          "published": "Sat, 21 Nov 2026 21:02:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "변호사단체",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "변호사단체 \"민주당, 조희대 대법원장 탄핵 추진 중단하라\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd2JDRmpaRGsxUXVUTWY4ZEpPSUxsdGhWQzhWc3lDSVA0SDBLcUJFcm9nRGpQSHlZM1dMWEREcERzSmdGTV9jN2xna3NIeFVBVFB6RVdrRHlzVFpzLW9SWDExb3VqeWlmNnhSTXdaSVlUS0JEZjJ5T3dEMW9PSmgwaEYza0R3VjA?oc=5",
-          "source": "Google News",
-          "published": "Sat, 21 Nov 2026 08:16:43 GMT"
-        }
-      ]
-    },
-    {
-      "word": "민주당",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "변호사단체 \"민주당, 조희대 대법원장 탄핵 추진 중단하라\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd2JDRmpaRGsxUXVUTWY4ZEpPSUxsdGhWQzhWc3lDSVA0SDBLcUJFcm9nRGpQSHlZM1dMWEREcERzSmdGTV9jN2xna3NIeFVBVFB6RVdrRHlzVFpzLW9SWDExb3VqeWlmNnhSTXdaSVlUS0JEZjJ5T3dEMW9PSmgwaEYza0R3VjA?oc=5",
-          "source": "Google News",
-          "published": "Sat, 21 Nov 2026 08:16:43 GMT"
+          "published": "Sun, 22 Nov 2026 02:00:00 GMT"
         }
       ]
     },
@@ -259,23 +136,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "변호사단체 \"민주당, 조희대 대법원장 탄핵 추진 중단하라\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd2JDRmpaRGsxUXVUTWY4ZEpPSUxsdGhWQzhWc3lDSVA0SDBLcUJFcm9nRGpQSHlZM1dMWEREcERzSmdGTV9jN2xna3NIeFVBVFB6RVdrRHlzVFpzLW9SWDExb3VqeWlmNnhSTXdaSVlUS0JEZjJ5T3dEMW9PSmgwaEYza0R3VjA?oc=5",
+          "title": "조희대 탄핵, 대통령이 반대해야…심판 기각 땐 거대한 역풍 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LblhzTWV1dEhyWjVIakRXbzkyMi10eVhIMklvUW95dDU0Y21wYnhpYllCUHoxRkN6SUdwT0hCQlVsVnBoRzhyRTZ0elRGQmpka3BiSVhCWHItazAyMmVvNWtERDhZd2FRd19tc0dvVW5XMHlL?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 08:16:43 GMT"
-        }
-      ]
-    },
-    {
-      "word": "대법원장",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "변호사단체 \"민주당, 조희대 대법원장 탄핵 추진 중단하라\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd2JDRmpaRGsxUXVUTWY4ZEpPSUxsdGhWQzhWc3lDSVA0SDBLcUJFcm9nRGpQSHlZM1dMWEREcERzSmdGTV9jN2xna3NIeFVBVFB6RVdrRHlzVFpzLW9SWDExb3VqeWlmNnhSTXdaSVlUS0JEZjJ5T3dEMW9PSmgwaEYza0R3VjA?oc=5",
-          "source": "Google News",
-          "published": "Sat, 21 Nov 2026 08:16:43 GMT"
+          "published": "Sun, 22 Nov 2026 01:50:00 GMT"
         }
       ]
     },
@@ -285,179 +149,296 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "변호사단체 \"민주당, 조희대 대법원장 탄핵 추진 중단하라\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd2JDRmpaRGsxUXVUTWY4ZEpPSUxsdGhWQzhWc3lDSVA0SDBLcUJFcm9nRGpQSHlZM1dMWEREcERzSmdGTV9jN2xna3NIeFVBVFB6RVdrRHlzVFpzLW9SWDExb3VqeWlmNnhSTXdaSVlUS0JEZjJ5T3dEMW9PSmgwaEYza0R3VjA?oc=5",
+          "title": "조희대 탄핵, 대통령이 반대해야…심판 기각 땐 거대한 역풍 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LblhzTWV1dEhyWjVIakRXbzkyMi10eVhIMklvUW95dDU0Y21wYnhpYllCUHoxRkN6SUdwT0hCQlVsVnBoRzhyRTZ0elRGQmpka3BiSVhCWHItazAyMmVvNWtERDhZd2FRd19tc0dvVW5XMHlL?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 08:16:43 GMT"
+          "published": "Sun, 22 Nov 2026 01:50:00 GMT"
         }
       ]
     },
     {
-      "word": "추진",
+      "word": "반대해야심판",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "변호사단체 \"민주당, 조희대 대법원장 탄핵 추진 중단하라\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd2JDRmpaRGsxUXVUTWY4ZEpPSUxsdGhWQzhWc3lDSVA0SDBLcUJFcm9nRGpQSHlZM1dMWEREcERzSmdGTV9jN2xna3NIeFVBVFB6RVdrRHlzVFpzLW9SWDExb3VqeWlmNnhSTXdaSVlUS0JEZjJ5T3dEMW9PSmgwaEYza0R3VjA?oc=5",
+          "title": "조희대 탄핵, 대통령이 반대해야…심판 기각 땐 거대한 역풍 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LblhzTWV1dEhyWjVIakRXbzkyMi10eVhIMklvUW95dDU0Y21wYnhpYllCUHoxRkN6SUdwT0hCQlVsVnBoRzhyRTZ0elRGQmpka3BiSVhCWHItazAyMmVvNWtERDhZd2FRd19tc0dvVW5XMHlL?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 08:16:43 GMT"
+          "published": "Sun, 22 Nov 2026 01:50:00 GMT"
         }
       ]
     },
     {
-      "word": "중단",
+      "word": "기각",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "변호사단체 \"민주당, 조희대 대법원장 탄핵 추진 중단하라\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd2JDRmpaRGsxUXVUTWY4ZEpPSUxsdGhWQzhWc3lDSVA0SDBLcUJFcm9nRGpQSHlZM1dMWEREcERzSmdGTV9jN2xna3NIeFVBVFB6RVdrRHlzVFpzLW9SWDExb3VqeWlmNnhSTXdaSVlUS0JEZjJ5T3dEMW9PSmgwaEYza0R3VjA?oc=5",
+          "title": "조희대 탄핵, 대통령이 반대해야…심판 기각 땐 거대한 역풍 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LblhzTWV1dEhyWjVIakRXbzkyMi10eVhIMklvUW95dDU0Y21wYnhpYllCUHoxRkN6SUdwT0hCQlVsVnBoRzhyRTZ0elRGQmpka3BiSVhCWHItazAyMmVvNWtERDhZd2FRd19tc0dvVW5XMHlL?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 08:16:43 GMT"
+          "published": "Sun, 22 Nov 2026 01:50:00 GMT"
         }
       ]
     },
     {
-      "word": "얄타",
+      "word": "거대",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "얄타 2.0? 사상 첫 미·중·러 정상회담과 ‘동상삼몽’ - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNU9QWmF6eW43aWZnRk9HcVpqMXFYdkh6ZkdFZWdSVFdZVXdGSGFlRVpWWkduTGt1Z2haRXk0enI5a0MxMEtWUmQyc0o2b2ZSUEhLV05GYlRDVmp5eHdjVGlBRGZxSUg1emFmSm1la2ZrbDFfWkVYN2JDVlZhRHlFTExB?oc=5",
+          "title": "조희대 탄핵, 대통령이 반대해야…심판 기각 땐 거대한 역풍 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LblhzTWV1dEhyWjVIakRXbzkyMi10eVhIMklvUW95dDU0Y21wYnhpYllCUHoxRkN6SUdwT0hCQlVsVnBoRzhyRTZ0elRGQmpka3BiSVhCWHItazAyMmVvNWtERDhZd2FRd19tc0dvVW5XMHlL?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 12:22:00 GMT"
+          "published": "Sun, 22 Nov 2026 01:50:00 GMT"
         }
       ]
     },
     {
-      "word": "사상",
+      "word": "역풍",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "얄타 2.0? 사상 첫 미·중·러 정상회담과 ‘동상삼몽’ - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNU9QWmF6eW43aWZnRk9HcVpqMXFYdkh6ZkdFZWdSVFdZVXdGSGFlRVpWWkduTGt1Z2haRXk0enI5a0MxMEtWUmQyc0o2b2ZSUEhLV05GYlRDVmp5eHdjVGlBRGZxSUg1emFmSm1la2ZrbDFfWkVYN2JDVlZhRHlFTExB?oc=5",
+          "title": "조희대 탄핵, 대통령이 반대해야…심판 기각 땐 거대한 역풍 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LblhzTWV1dEhyWjVIakRXbzkyMi10eVhIMklvUW95dDU0Y21wYnhpYllCUHoxRkN6SUdwT0hCQlVsVnBoRzhyRTZ0elRGQmpka3BiSVhCWHItazAyMmVvNWtERDhZd2FRd19tc0dvVW5XMHlL?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 12:22:00 GMT"
+          "published": "Sun, 22 Nov 2026 01:50:00 GMT"
         }
       ]
     },
     {
-      "word": "미중러",
+      "word": "얼마",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "얄타 2.0? 사상 첫 미·중·러 정상회담과 ‘동상삼몽’ - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNU9QWmF6eW43aWZnRk9HcVpqMXFYdkh6ZkdFZWdSVFdZVXdGSGFlRVpWWkduTGt1Z2haRXk0enI5a0MxMEtWUmQyc0o2b2ZSUEhLV05GYlRDVmp5eHdjVGlBRGZxSUg1emFmSm1la2ZrbDFfWkVYN2JDVlZhRHlFTExB?oc=5",
+          "title": "부정행위 얼마나 만연해 있었길래…국가자격시험서 또 6명 적발 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DM2t0VllGdlNmUDhZRk9UcWtqSGt1R00yLVhIMHBBS2FreUI5TXJqZEppMTFGNzZLakFjR1QxT096VmlIRTFNMC0tUWRxYU05NjM2NGdwZnhMQQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 12:22:00 GMT"
+          "published": "Sun, 22 Nov 2026 00:37:19 GMT"
         }
       ]
     },
     {
-      "word": "동상삼몽",
+      "word": "만연해",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "얄타 2.0? 사상 첫 미·중·러 정상회담과 ‘동상삼몽’ - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNU9QWmF6eW43aWZnRk9HcVpqMXFYdkh6ZkdFZWdSVFdZVXdGSGFlRVpWWkduTGt1Z2haRXk0enI5a0MxMEtWUmQyc0o2b2ZSUEhLV05GYlRDVmp5eHdjVGlBRGZxSUg1emFmSm1la2ZrbDFfWkVYN2JDVlZhRHlFTExB?oc=5",
+          "title": "부정행위 얼마나 만연해 있었길래…국가자격시험서 또 6명 적발 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DM2t0VllGdlNmUDhZRk9UcWtqSGt1R00yLVhIMHBBS2FreUI5TXJqZEppMTFGNzZLakFjR1QxT096VmlIRTFNMC0tUWRxYU05NjM2NGdwZnhMQQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 12:22:00 GMT"
+          "published": "Sun, 22 Nov 2026 00:37:19 GMT"
         }
       ]
     },
     {
-      "word": "논술면접",
+      "word": "있었길래국가자격시험서",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"논술·면접 보러 가야하는데\" 경부선 탈선…수험생 '발동동' - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tZDJTVlFseWJMZmF1Uzd2cmxmc3ZkWXp1TTlka2JGSUE5M0ZrWkYxZDFhYm5IY3JwSDNKa1ZVRHdmMUZyX0NVcXdPQUdtdEU5UUF1aDlYVmJxdw?oc=5",
+          "title": "부정행위 얼마나 만연해 있었길래…국가자격시험서 또 6명 적발 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DM2t0VllGdlNmUDhZRk9UcWtqSGt1R00yLVhIMHBBS2FreUI5TXJqZEppMTFGNzZLakFjR1QxT096VmlIRTFNMC0tUWRxYU05NjM2NGdwZnhMQQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 02:52:12 GMT"
+          "published": "Sun, 22 Nov 2026 00:37:19 GMT"
         }
       ]
     },
     {
-      "word": "보러",
+      "word": "6명",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"논술·면접 보러 가야하는데\" 경부선 탈선…수험생 '발동동' - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tZDJTVlFseWJMZmF1Uzd2cmxmc3ZkWXp1TTlka2JGSUE5M0ZrWkYxZDFhYm5IY3JwSDNKa1ZVRHdmMUZyX0NVcXdPQUdtdEU5UUF1aDlYVmJxdw?oc=5",
+          "title": "부정행위 얼마나 만연해 있었길래…국가자격시험서 또 6명 적발 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DM2t0VllGdlNmUDhZRk9UcWtqSGt1R00yLVhIMHBBS2FreUI5TXJqZEppMTFGNzZLakFjR1QxT096VmlIRTFNMC0tUWRxYU05NjM2NGdwZnhMQQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 02:52:12 GMT"
+          "published": "Sun, 22 Nov 2026 00:37:19 GMT"
         }
       ]
     },
     {
-      "word": "가야하는데",
+      "word": "적발",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"논술·면접 보러 가야하는데\" 경부선 탈선…수험생 '발동동' - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tZDJTVlFseWJMZmF1Uzd2cmxmc3ZkWXp1TTlka2JGSUE5M0ZrWkYxZDFhYm5IY3JwSDNKa1ZVRHdmMUZyX0NVcXdPQUdtdEU5UUF1aDlYVmJxdw?oc=5",
+          "title": "부정행위 얼마나 만연해 있었길래…국가자격시험서 또 6명 적발 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DM2t0VllGdlNmUDhZRk9UcWtqSGt1R00yLVhIMHBBS2FreUI5TXJqZEppMTFGNzZLakFjR1QxT096VmlIRTFNMC0tUWRxYU05NjM2NGdwZnhMQQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 02:52:12 GMT"
+          "published": "Sun, 22 Nov 2026 00:37:19 GMT"
         }
       ]
     },
     {
-      "word": "경부선",
+      "word": "트럼프",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"논술·면접 보러 가야하는데\" 경부선 탈선…수험생 '발동동' - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tZDJTVlFseWJMZmF1Uzd2cmxmc3ZkWXp1TTlka2JGSUE5M0ZrWkYxZDFhYm5IY3JwSDNKa1ZVRHdmMUZyX0NVcXdPQUdtdEU5UUF1aDlYVmJxdw?oc=5",
+          "title": "트럼프 \"이란 핵보유 막을 수 있는 영구적 합의 할 것\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa2MyQUFOY0dQcXl5Z1F5eHNnU0hjSG9PQW8xaUVCREJqdFloRVlRakFsSDV3UHJUajZ2ajhUYVlmTjFpM3ZwRUZ3UWhhd0hIYll3ZWUta0VCT2R1WjRMeGx4Q2hzTzF2M0VPb0NES3FQaXlxY01XbmdxbjU2bUp4SjI1a28?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 02:52:12 GMT"
+          "published": "Sat, 21 Nov 2026 20:06:33 GMT"
         }
       ]
     },
     {
-      "word": "탈선수험생",
+      "word": "이란",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"논술·면접 보러 가야하는데\" 경부선 탈선…수험생 '발동동' - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tZDJTVlFseWJMZmF1Uzd2cmxmc3ZkWXp1TTlka2JGSUE5M0ZrWkYxZDFhYm5IY3JwSDNKa1ZVRHdmMUZyX0NVcXdPQUdtdEU5UUF1aDlYVmJxdw?oc=5",
+          "title": "트럼프 \"이란 핵보유 막을 수 있는 영구적 합의 할 것\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa2MyQUFOY0dQcXl5Z1F5eHNnU0hjSG9PQW8xaUVCREJqdFloRVlRakFsSDV3UHJUajZ2ajhUYVlmTjFpM3ZwRUZ3UWhhd0hIYll3ZWUta0VCT2R1WjRMeGx4Q2hzTzF2M0VPb0NES3FQaXlxY01XbmdxbjU2bUp4SjI1a28?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 02:52:12 GMT"
+          "published": "Sat, 21 Nov 2026 20:06:33 GMT"
         }
       ]
     },
     {
-      "word": "발동동",
+      "word": "핵보유",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"논술·면접 보러 가야하는데\" 경부선 탈선…수험생 '발동동' - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tZDJTVlFseWJMZmF1Uzd2cmxmc3ZkWXp1TTlka2JGSUE5M0ZrWkYxZDFhYm5IY3JwSDNKa1ZVRHdmMUZyX0NVcXdPQUdtdEU5UUF1aDlYVmJxdw?oc=5",
+          "title": "트럼프 \"이란 핵보유 막을 수 있는 영구적 합의 할 것\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa2MyQUFOY0dQcXl5Z1F5eHNnU0hjSG9PQW8xaUVCREJqdFloRVlRakFsSDV3UHJUajZ2ajhUYVlmTjFpM3ZwRUZ3UWhhd0hIYll3ZWUta0VCT2R1WjRMeGx4Q2hzTzF2M0VPb0NES3FQaXlxY01XbmdxbjU2bUp4SjI1a28?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 02:52:12 GMT"
+          "published": "Sat, 21 Nov 2026 20:06:33 GMT"
         }
       ]
     },
     {
-      "word": "스마트안경초소형카메",
+      "word": "막을",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "스마트안경·초소형카메라 'AI 커닝' 훨훨 나는데…감독 체계는 '걸음마' - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFZWU4dU1Sc1V1SlA1WURwQlhmRHpFNnF2T0Z0Rlg3M1pic3FQeFR1UEFSRWtFcUZzcHFwTHNWb25zR3hvMUs1NWxjQXZsYzdOa0VjdmtaVE1nb1FfejR1NUpiZDk?oc=5",
+          "title": "트럼프 \"이란 핵보유 막을 수 있는 영구적 합의 할 것\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa2MyQUFOY0dQcXl5Z1F5eHNnU0hjSG9PQW8xaUVCREJqdFloRVlRakFsSDV3UHJUajZ2ajhUYVlmTjFpM3ZwRUZ3UWhhd0hIYll3ZWUta0VCT2R1WjRMeGx4Q2hzTzF2M0VPb0NES3FQaXlxY01XbmdxbjU2bUp4SjI1a28?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 21:30:01 GMT"
+          "published": "Sat, 21 Nov 2026 20:06:33 GMT"
+        }
+      ]
+    },
+    {
+      "word": "있는",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프 \"이란 핵보유 막을 수 있는 영구적 합의 할 것\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa2MyQUFOY0dQcXl5Z1F5eHNnU0hjSG9PQW8xaUVCREJqdFloRVlRakFsSDV3UHJUajZ2ajhUYVlmTjFpM3ZwRUZ3UWhhd0hIYll3ZWUta0VCT2R1WjRMeGx4Q2hzTzF2M0VPb0NES3FQaXlxY01XbmdxbjU2bUp4SjI1a28?oc=5",
+          "source": "Google News",
+          "published": "Sat, 21 Nov 2026 20:06:33 GMT"
+        }
+      ]
+    },
+    {
+      "word": "영구",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프 \"이란 핵보유 막을 수 있는 영구적 합의 할 것\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa2MyQUFOY0dQcXl5Z1F5eHNnU0hjSG9PQW8xaUVCREJqdFloRVlRakFsSDV3UHJUajZ2ajhUYVlmTjFpM3ZwRUZ3UWhhd0hIYll3ZWUta0VCT2R1WjRMeGx4Q2hzTzF2M0VPb0NES3FQaXlxY01XbmdxbjU2bUp4SjI1a28?oc=5",
+          "source": "Google News",
+          "published": "Sat, 21 Nov 2026 20:06:33 GMT"
+        }
+      ]
+    },
+    {
+      "word": "합의",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "트럼프 \"이란 핵보유 막을 수 있는 영구적 합의 할 것\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa2MyQUFOY0dQcXl5Z1F5eHNnU0hjSG9PQW8xaUVCREJqdFloRVlRakFsSDV3UHJUajZ2ajhUYVlmTjFpM3ZwRUZ3UWhhd0hIYll3ZWUta0VCT2R1WjRMeGx4Q2hzTzF2M0VPb0NES3FQaXlxY01XbmdxbjU2bUp4SjI1a28?oc=5",
+          "source": "Google News",
+          "published": "Sat, 21 Nov 2026 20:06:33 GMT"
+        }
+      ]
+    },
+    {
+      "word": "2년",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "2년 새 ‘4등급’서 ‘국영수 만점’ AI…‘전파 없는 커닝’ 위협 더 커진다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51OUtZc1I5OHgyRldLb2JKYkNFaXRlNmRTa196dW1rLWRyZElaNlhuVzhiMlRSaDlyVFFxdEZ3anI1VklCd0VyWXROeVF3Y0ZpdlFYUXpOQjA0UdIBX0FVX3lxTE9pbHNlV3NSLW0tT2dWTTd0TXEtcjA5QWVMZVJfUUFKc1puZzdPY20zbUZnQUZmdXRVb2sxeGR2aHFUNF9PUkdmZWVtQ1gtSHpWVk5od1VTUGlFR2pKekkw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 22 Nov 2026 01:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "4등급서",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "2년 새 ‘4등급’서 ‘국영수 만점’ AI…‘전파 없는 커닝’ 위협 더 커진다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51OUtZc1I5OHgyRldLb2JKYkNFaXRlNmRTa196dW1rLWRyZElaNlhuVzhiMlRSaDlyVFFxdEZ3anI1VklCd0VyWXROeVF3Y0ZpdlFYUXpOQjA0UdIBX0FVX3lxTE9pbHNlV3NSLW0tT2dWTTd0TXEtcjA5QWVMZVJfUUFKc1puZzdPY20zbUZnQUZmdXRVb2sxeGR2aHFUNF9PUkdmZWVtQ1gtSHpWVk5od1VTUGlFR2pKekkw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 22 Nov 2026 01:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "국영수",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "2년 새 ‘4등급’서 ‘국영수 만점’ AI…‘전파 없는 커닝’ 위협 더 커진다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51OUtZc1I5OHgyRldLb2JKYkNFaXRlNmRTa196dW1rLWRyZElaNlhuVzhiMlRSaDlyVFFxdEZ3anI1VklCd0VyWXROeVF3Y0ZpdlFYUXpOQjA0UdIBX0FVX3lxTE9pbHNlV3NSLW0tT2dWTTd0TXEtcjA5QWVMZVJfUUFKc1puZzdPY20zbUZnQUZmdXRVb2sxeGR2aHFUNF9PUkdmZWVtQ1gtSHpWVk5od1VTUGlFR2pKekkw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 22 Nov 2026 01:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "만점",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "2년 새 ‘4등급’서 ‘국영수 만점’ AI…‘전파 없는 커닝’ 위협 더 커진다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51OUtZc1I5OHgyRldLb2JKYkNFaXRlNmRTa196dW1rLWRyZElaNlhuVzhiMlRSaDlyVFFxdEZ3anI1VklCd0VyWXROeVF3Y0ZpdlFYUXpOQjA0UdIBX0FVX3lxTE9pbHNlV3NSLW0tT2dWTTd0TXEtcjA5QWVMZVJfUUFKc1puZzdPY20zbUZnQUZmdXRVb2sxeGR2aHFUNF9PUkdmZWVtQ1gtSHpWVk5od1VTUGlFR2pKekkw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 22 Nov 2026 01:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "AI전파",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "2년 새 ‘4등급’서 ‘국영수 만점’ AI…‘전파 없는 커닝’ 위협 더 커진다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51OUtZc1I5OHgyRldLb2JKYkNFaXRlNmRTa196dW1rLWRyZElaNlhuVzhiMlRSaDlyVFFxdEZ3anI1VklCd0VyWXROeVF3Y0ZpdlFYUXpOQjA0UdIBX0FVX3lxTE9pbHNlV3NSLW0tT2dWTTd0TXEtcjA5QWVMZVJfUUFKc1puZzdPY20zbUZnQUZmdXRVb2sxeGR2aHFUNF9PUkdmZWVtQ1gtSHpWVk5od1VTUGlFR2pKekkw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 22 Nov 2026 01:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "없는",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "2년 새 ‘4등급’서 ‘국영수 만점’ AI…‘전파 없는 커닝’ 위협 더 커진다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51OUtZc1I5OHgyRldLb2JKYkNFaXRlNmRTa196dW1rLWRyZElaNlhuVzhiMlRSaDlyVFFxdEZ3anI1VklCd0VyWXROeVF3Y0ZpdlFYUXpOQjA0UdIBX0FVX3lxTE9pbHNlV3NSLW0tT2dWTTd0TXEtcjA5QWVMZVJfUUFKc1puZzdPY20zbUZnQUZmdXRVb2sxeGR2aHFUNF9PUkdmZWVtQ1gtSHpWVk5od1VTUGlFR2pKekkw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 22 Nov 2026 01:00:00 GMT"
         }
       ]
     },
@@ -467,101 +448,114 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "스마트안경·초소형카메라 'AI 커닝' 훨훨 나는데…감독 체계는 '걸음마' - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFZWU4dU1Sc1V1SlA1WURwQlhmRHpFNnF2T0Z0Rlg3M1pic3FQeFR1UEFSRWtFcUZzcHFwTHNWb25zR3hvMUs1NWxjQXZsYzdOa0VjdmtaVE1nb1FfejR1NUpiZDk?oc=5",
+          "title": "2년 새 ‘4등급’서 ‘국영수 만점’ AI…‘전파 없는 커닝’ 위협 더 커진다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51OUtZc1I5OHgyRldLb2JKYkNFaXRlNmRTa196dW1rLWRyZElaNlhuVzhiMlRSaDlyVFFxdEZ3anI1VklCd0VyWXROeVF3Y0ZpdlFYUXpOQjA0UdIBX0FVX3lxTE9pbHNlV3NSLW0tT2dWTTd0TXEtcjA5QWVMZVJfUUFKc1puZzdPY20zbUZnQUZmdXRVb2sxeGR2aHFUNF9PUkdmZWVtQ1gtSHpWVk5od1VTUGlFR2pKekkw?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 21:30:01 GMT"
+          "published": "Sun, 22 Nov 2026 01:00:00 GMT"
         }
       ]
     },
     {
-      "word": "훨훨",
+      "word": "위협",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "스마트안경·초소형카메라 'AI 커닝' 훨훨 나는데…감독 체계는 '걸음마' - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFZWU4dU1Sc1V1SlA1WURwQlhmRHpFNnF2T0Z0Rlg3M1pic3FQeFR1UEFSRWtFcUZzcHFwTHNWb25zR3hvMUs1NWxjQXZsYzdOa0VjdmtaVE1nb1FfejR1NUpiZDk?oc=5",
+          "title": "2년 새 ‘4등급’서 ‘국영수 만점’ AI…‘전파 없는 커닝’ 위협 더 커진다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51OUtZc1I5OHgyRldLb2JKYkNFaXRlNmRTa196dW1rLWRyZElaNlhuVzhiMlRSaDlyVFFxdEZ3anI1VklCd0VyWXROeVF3Y0ZpdlFYUXpOQjA0UdIBX0FVX3lxTE9pbHNlV3NSLW0tT2dWTTd0TXEtcjA5QWVMZVJfUUFKc1puZzdPY20zbUZnQUZmdXRVb2sxeGR2aHFUNF9PUkdmZWVtQ1gtSHpWVk5od1VTUGlFR2pKekkw?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 21:30:01 GMT"
+          "published": "Sun, 22 Nov 2026 01:00:00 GMT"
         }
       ]
     },
     {
-      "word": "나는데감독",
-      "count": 1,
-      "category": "PERSON",
-      "articles": [
-        {
-          "title": "스마트안경·초소형카메라 'AI 커닝' 훨훨 나는데…감독 체계는 '걸음마' - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFZWU4dU1Sc1V1SlA1WURwQlhmRHpFNnF2T0Z0Rlg3M1pic3FQeFR1UEFSRWtFcUZzcHFwTHNWb25zR3hvMUs1NWxjQXZsYzdOa0VjdmtaVE1nb1FfejR1NUpiZDk?oc=5",
-          "source": "Google News",
-          "published": "Sat, 21 Nov 2026 21:30:01 GMT"
-        }
-      ]
-    },
-    {
-      "word": "체계",
+      "word": "커진다",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "스마트안경·초소형카메라 'AI 커닝' 훨훨 나는데…감독 체계는 '걸음마' - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFZWU4dU1Sc1V1SlA1WURwQlhmRHpFNnF2T0Z0Rlg3M1pic3FQeFR1UEFSRWtFcUZzcHFwTHNWb25zR3hvMUs1NWxjQXZsYzdOa0VjdmtaVE1nb1FfejR1NUpiZDk?oc=5",
+          "title": "2년 새 ‘4등급’서 ‘국영수 만점’ AI…‘전파 없는 커닝’ 위협 더 커진다 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51OUtZc1I5OHgyRldLb2JKYkNFaXRlNmRTa196dW1rLWRyZElaNlhuVzhiMlRSaDlyVFFxdEZ3anI1VklCd0VyWXROeVF3Y0ZpdlFYUXpOQjA0UdIBX0FVX3lxTE9pbHNlV3NSLW0tT2dWTTd0TXEtcjA5QWVMZVJfUUFKc1puZzdPY20zbUZnQUZmdXRVb2sxeGR2aHFUNF9PUkdmZWVtQ1gtSHpWVk5od1VTUGlFR2pKekkw?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 21:30:01 GMT"
+          "published": "Sun, 22 Nov 2026 01:00:00 GMT"
         }
       ]
     },
     {
-      "word": "걸음마",
+      "word": "없이",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "스마트안경·초소형카메라 'AI 커닝' 훨훨 나는데…감독 체계는 '걸음마' - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFZWU4dU1Sc1V1SlA1WURwQlhmRHpFNnF2T0Z0Rlg3M1pic3FQeFR1UEFSRWtFcUZzcHFwTHNWb25zR3hvMUs1NWxjQXZsYzdOa0VjdmtaVE1nb1FfejR1NUpiZDk?oc=5",
+          "title": "눈 없이 맑은 ‘소설’…아침 최저 영하 10도, 낮 최고 12도 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sd2FPY01HYWJEZW9mRkRLWGpRY0pXbWZ5MGR5YTl4eFNPNDJZVU91Zk9rclhVaDF0bXpCMGVHWms0NWFONFg0Vy1BcWJuSDlwRHJmRjBLQ1pBXzJ0SUVkVGR4UFZTZnNiVUlDWQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 21:30:01 GMT"
+          "published": "Sat, 21 Nov 2026 23:09:00 GMT"
         }
       ]
     },
     {
-      "word": "글도",
+      "word": "맑은",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"이 글도 조롱하겠지\"…'리트 만점자' 마지막 메모 5줄 보니 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PdGhEOWxaNUVabkRnTnhYcU12aGFZYkktMjhsVmdHeGJHMVdFcjlGMjhIeVo3SVJKVXdJaFNQcnNCRmVEU254VllLbzMtNkxNSGZCRXVQQy1QQQ?oc=5",
+          "title": "눈 없이 맑은 ‘소설’…아침 최저 영하 10도, 낮 최고 12도 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sd2FPY01HYWJEZW9mRkRLWGpRY0pXbWZ5MGR5YTl4eFNPNDJZVU91Zk9rclhVaDF0bXpCMGVHWms0NWFONFg0Vy1BcWJuSDlwRHJmRjBLQ1pBXzJ0SUVkVGR4UFZTZnNiVUlDWQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 10:35:45 GMT"
+          "published": "Sat, 21 Nov 2026 23:09:00 GMT"
         }
       ]
     },
     {
-      "word": "조롱하겠지리트",
+      "word": "소설아침",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"이 글도 조롱하겠지\"…'리트 만점자' 마지막 메모 5줄 보니 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PdGhEOWxaNUVabkRnTnhYcU12aGFZYkktMjhsVmdHeGJHMVdFcjlGMjhIeVo3SVJKVXdJaFNQcnNCRmVEU254VllLbzMtNkxNSGZCRXVQQy1QQQ?oc=5",
+          "title": "눈 없이 맑은 ‘소설’…아침 최저 영하 10도, 낮 최고 12도 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sd2FPY01HYWJEZW9mRkRLWGpRY0pXbWZ5MGR5YTl4eFNPNDJZVU91Zk9rclhVaDF0bXpCMGVHWms0NWFONFg0Vy1BcWJuSDlwRHJmRjBLQ1pBXzJ0SUVkVGR4UFZTZnNiVUlDWQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 10:35:45 GMT"
+          "published": "Sat, 21 Nov 2026 23:09:00 GMT"
         }
       ]
     },
     {
-      "word": "만점자",
+      "word": "최저",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "\"이 글도 조롱하겠지\"…'리트 만점자' 마지막 메모 5줄 보니 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PdGhEOWxaNUVabkRnTnhYcU12aGFZYkktMjhsVmdHeGJHMVdFcjlGMjhIeVo3SVJKVXdJaFNQcnNCRmVEU254VllLbzMtNkxNSGZCRXVQQy1QQQ?oc=5",
+          "title": "눈 없이 맑은 ‘소설’…아침 최저 영하 10도, 낮 최고 12도 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sd2FPY01HYWJEZW9mRkRLWGpRY0pXbWZ5MGR5YTl4eFNPNDJZVU91Zk9rclhVaDF0bXpCMGVHWms0NWFONFg0Vy1BcWJuSDlwRHJmRjBLQ1pBXzJ0SUVkVGR4UFZTZnNiVUlDWQ?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 10:35:45 GMT"
+          "published": "Sat, 21 Nov 2026 23:09:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "영하",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "눈 없이 맑은 ‘소설’…아침 최저 영하 10도, 낮 최고 12도 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sd2FPY01HYWJEZW9mRkRLWGpRY0pXbWZ5MGR5YTl4eFNPNDJZVU91Zk9rclhVaDF0bXpCMGVHWms0NWFONFg0Vy1BcWJuSDlwRHJmRjBLQ1pBXzJ0SUVkVGR4UFZTZnNiVUlDWQ?oc=5",
+          "source": "Google News",
+          "published": "Sat, 21 Nov 2026 23:09:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "10",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "눈 없이 맑은 ‘소설’…아침 최저 영하 10도, 낮 최고 12도 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sd2FPY01HYWJEZW9mRkRLWGpRY0pXbWZ5MGR5YTl4eFNPNDJZVU91Zk9rclhVaDF0bXpCMGVHWms0NWFONFg0Vy1BcWJuSDlwRHJmRjBLQ1pBXzJ0SUVkVGR4UFZTZnNiVUlDWQ?oc=5",
+          "source": "Google News",
+          "published": "Sat, 21 Nov 2026 23:09:00 GMT"
         }
       ]
     }
