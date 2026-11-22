@@ -1,258 +1,301 @@
 {
   "language": "en",
-  "last_updated": 1795345644.6275995,
+  "last_updated": 1795375427.2092094,
   "count": 40,
   "trends": [
     {
-      "word": "Tech",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "What smart people are saying about the market sell-off ripping through tech and AI - Business Insider",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYWh6YUdkVkxHaVNudVdOOWlBM2ZjY3lMTS1rNEhfeVFETnRNVjBlMUt0ODVzRE1HQUxUdU85MXhJdWVfTnUtUnV1YS1mQjZ3QnNPc3RmZzk3RlNKRjNDdVByMUgwcEI1TFY1WUk4cVlXVWlwOE5WMWZSUUc1Q3FnMjVNRUNZMUVjRE5FMmZtbng1ekVZ?oc=5",
-          "source": "Google News",
-          "published": "Sat, 21 Nov 2026 17:23:00 GMT"
-        },
-        {
-          "title": "Anthropic IPO signals ‘beginning of a gold rush’ for small businesses, biz tech CEO says - Fox Business",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMjVQWHNJMWw0Y21HYTVDN0lhX0ZYQS1FdzFCLV9nbVRzS09jNFN5UXRaanhHM2tXbGJkVGtlZVdMMnlTa2RTR29MUU1KbXVkekg1X19VeU5ISGJCbG9FRU5nSkNrZG1MWFJBaVZWY3pGUm5vUmZUWl96aWl6TVNDcUFCOXFxRmlYTFhRLTlqdTQ2S2FWTjJ4RWNBbnlVS2dtemlUSF9nOVlpZFpONElOdUhB0gG3AUFVX3lxTFBNVVBhQ1VSV2VIc0Z5OTJfSU1FUmc2UVFZNDJPX19TSjgteXV4QWxmbDZQWGQwa0M3S0tLUTY1V3ZTRXhUTmVNLTNBSk15QTRuQ1ZzSDY5VkFVT3laUl9XemZJVWZBVG9TU21UaW1US3JvWGZ3dGpiakppUDJobkQ2NW5lVGxEZUdCTlBnaGhEVWNvRE43ZTEySTBZaDJ6VzFuY08xN2FJRkFWUzI1Rkg0eEljUHl0OA?oc=5",
-          "source": "Google News",
-          "published": "Sat, 21 Nov 2026 17:54:21 GMT"
-        },
-        {
-          "title": "Big Tech companies are the butt of the joke in 'GTA 6' - Business Insider",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOXpmNmJKTUh4UGlYbVJaUVJ3c1B2ZlM4aHh2Q0Yyc2Vzd1NUTnplX3JIdzFIWFJaWGlzSi0tR194Z3J0dktTVlhxTFlZT0JOcUVXNUlnanZ0UDNIUWdDNFJuV1VzZDFpQmljNktmS3haU0RDUkhBbF9PNHoxNDJ6STVtOFo4NnJnbHhkUGVwSEJ3VmVZU21QcjkxYjlkdGhhcTU3N0l4OUlGR01IcGc?oc=5",
-          "source": "Google News",
-          "published": "Thu, 19 Nov 2026 19:24:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "State",
-      "count": 3,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Tomorrow's Top 25 Today: Ohio State, Indiana, UCLA fall in college football rankings amid Big Ten chaos - CBS Sports",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS2lObU9rZmZ3WDhzRFZwbElHakF6LU9fYW1YZVBQYWZTeVFLX0ZCbWVDaVRmbVJJTDBaM2llc1J3TjUzYmlDTlpEa3dJclFYd0NFSDRmYmdMVHVlZDljcndwNURJNnRXNUlIdUp0M0RYN1E0bk1NSTg5YlAyLUE5XzNqbnljRlVvVC12aUctd2RPckpGOVNXZWprc0d5TmNHbERKQ3dKQQ?oc=5",
-          "source": "Google News",
-          "published": "Sun, 22 Nov 2026 04:39:00 GMT"
-        },
-        {
-          "title": "Virginia reports young child is the state’s first measles death in 2026 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSk9HQklCN2x4dXV0OXM4eEtFTDdiSTlveWhiSTNYa1dPVEFTU1k3UG5fbF9pLXBrUlNDNE51QWM3YWtGWnBNWFUwU1V6RHQwemxSVnp1VU12MXkxdVQwcU9scTFNcDNNbTQ5T2ZwT2xWNHAxeVJMQ1lEQzVDS1VVSWdRMlR0U2Z3bTRvYk5EWnA?oc=5",
-          "source": "Google News",
-          "published": "Sat, 21 Nov 2026 22:07:00 GMT"
-        },
-        {
-          "title": "Map: Measles cases in each U.S. state - Axios",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJTGFIRzc4akdjV1ZiTi1ickJvMjNKX1pzc2VENndYd0MwSmFxaTlEYW9HOVBfcTFBYWdrZGlUYmEwaGowQ1Z5ZXNEcWxwOFBMSFAwallBLXJSRTRlUFdEWndLR0t4OGlza2RWVDgyc3lkTG5uNEZhRjJQYnZsZVU?oc=5",
-          "source": "Google News",
-          "published": "Sat, 21 Nov 2026 18:27:32 GMT"
-        }
-      ]
-    },
-    {
       "word": "Trump",
-      "count": 2,
+      "count": 6,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump says latest FBI hack could have ‘positive’ impacts - Politico",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZkVhWWpyQlZoUFdpcFU0bGgtbmkyN0FISXNRZFhvZ0ROdUc2aGpEUFlScUFtY3F5cEgtNkRHXzBMZUttQ1I0c2RJSVFycF9Zb3cwYUpkc25tcDNjR05xekE4SW9RWXM4Z0FHeHdXYXZBX1pUYS1hRkxTeEVNeVhTcUtUNng?oc=5",
+          "title": "Trump keeps losing in court. Here’s how he gets what he wants anyway. - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa3ozYWpuVnplUHVVOUNiQVhUWWV4OGxCY016dlJ0SDd3VGdVbjZMUHI5VG5ZOWUtQWl0QV82NUsxNnk3d2xURm1rNTViSU1WMWVxY29JZW5PcDNkMnpsYm03bkZpZWFRdzFiOHVMUTh2TDFqWTJHaHF1eVNkRG83OS02bndqSU8xNDdYUGRqUGJNVzJPRVZhb2d6aExLMnFDN2VnMVdobFlRSU5LakRxWWhROFRfZw?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 21:41:00 GMT"
+          "published": "Sun, 22 Nov 2026 17:28:24 GMT"
         },
         {
-          "title": "Abdul El-Sayed catches Trump’s attention with pitch for ‘Trumpcare’ - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV0JNdklfa1ZNZ3IxMHplQW1YRFFhX2k1NEZRc0djOFc1MHBqSGxyV1NXaGFTWmFDak9XUVgwLWd6X0RzZkVXNTk3Uk4tclRBQW5WcXpjVHJyOWpQM1pJYTV6MDRpRzZ0ZGxRS2ktcGo5UlJOZnh0VU5VeDUxalloalZ3cVRvaXRtTGpnZ09kVXdvb1Fkcjhmb1VVR2g2Q2tDUTNjYnc2SERMMmJIaS1aZVF3?oc=5",
+          "title": "Director of National Intelligence defends Trump saying Putin is his ‘friend’ - Politico",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTWJndDdEd19COWxod2dVOHpabHNhQktPRHZUaDNZbkZnenFWRmMxeDBwSzJCVzlsYlRhXzRuZklGUlcwYjJIMWZqME1tRF95MldvZ1hYZDE1aHVvV0dzS1FVa0VEQlZtMWxoSEhHOWowbXdsSnYwSVBjUG02OHhlMmVnbGZISHhtMkVIUG5sT184Y0pNRlhV?oc=5",
           "source": "Google News",
-          "published": "Sun, 22 Nov 2026 00:37:00 GMT"
+          "published": "Sun, 22 Nov 2026 15:59:00 GMT"
+        },
+        {
+          "title": "Time is running out for Trump’s unconfirmed nominees. Some GOP senators say they haven’t heard a peep. - Politico",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeFg5Y1F1T3d6U0owcm5jUzJDMXhqeGg2QTJRUlhxNFd2aTdIMV9IdzVCRWJ3ZnNrS1N4VERHYVZjdHE1eWRuNm94RUpQUmNnMDdQRTNxUnNCcjZfcjJ4R21UcExYU3F0U0lUTUdhVnZZMzR4RkpCdWxPdjJtQjFMeVhWcDNvNTh6NE9LTDRlXzdhZnBRREpJQnRwREhxSkxsNW5KYXdDeE8tbFpW?oc=5",
+          "source": "Google News",
+          "published": "Sun, 22 Nov 2026 12:00:00 GMT"
+        },
+        {
+          "title": "Europe’s middle powers mobilize — without Trump - Politico",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUFNkamY0ZkFudG05Vl91ZUhTUkQ2bWpfQ053Y2cyMVlqb0RIb3VLZ25QMlJ2VWJkX2kzSHlDcmVoVEJZUFZCSG92VkJ5SWMzODFIVm41cUM3Tk13dHhTWGxMSGEwaV9BbTBHcWhpQ0UzY21kVTdWeTI4OXk3RF92a0tzWEdZcjdRam1r?oc=5",
+          "source": "Google News",
+          "published": "Sun, 22 Nov 2026 17:24:00 GMT"
+        },
+        {
+          "title": "How Kim Jong Un Gets Away With Building Nukes and Ghosting Trump - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hWHMyLURHX3hOZjhTbW5pRC0zWTduOWJpQS1hME9uSGhoZkF2MTFTcFZjYXhzejVkWTlmaWNHWjAyNURsTFJLcEFBdEk0UDhuRnJQT1BWOWQwMjl3VVcyT0NWTS1ORm1HVVQ0ZHk1OWVGZTlyVjVCSA?oc=5",
+          "source": "Google News",
+          "published": "Sun, 22 Nov 2026 02:00:00 GMT"
+        },
+        {
+          "title": "Trump’s meme coin gala raises eyebrows — even in MAGA circles - MS NOW",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96V0NPOVRQM2xMcFdVZ2d1Z052MExvaGg1MWNxYWJ6WlRoRWpQXzNrUDVjQlNROTB3bjVsbjkyUVIzandPYXNsejZwVlVIOWF2TkR1SE1OeFFDMk1LNHJqdg?oc=5",
+          "source": "Google News",
+          "published": "Sun, 22 Nov 2026 11:00:00 GMT"
         }
       ]
     },
     {
-      "word": "ICE",
-      "count": 2,
+      "word": "Final",
+      "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Washington governor, union denounce ICE arrests of travelers at Seattle airport - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSi1Oa2dUSVViZERBQzducWxTUFB5cjd4Sm1HRU0zQ0ZiQUhGWngxTlRmZzJybFo5cjRuMVdEOU80S2xuVGx4ZVdsaFFCTXZ3TkVYM19hcVBIbVViSm4wU2JHWExxYWFVVlFzSkZkUXVLZjdOTml0Qk1lYWdELXFyUGlTeTI3T2lETXVvYzdJVHduT3pnVGZ0MjhUTTBOMlcwYUJxTENWRVJ3aVRTSnJ3Y1FucjdrUTNrMERzekRHZFBkX0U?oc=5",
+          "title": "Climate change talks fall apart in final hours over fossil fuels - NPR",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeEN2LWdsQ0xfZmJMcHRRNmdhd0FlSjNlZzVnbG1xbzl3SE9UMTNSZnU1UTU1WWZfLUd3UEJVUnY4Q2c2ODk3aGtEQ0w2QTF2YUUxVDlfRlhKU25xQVpoeUN2RzFlOURpaUhHT2JTWWttT1g5UVg3cWhRWThfTDlOX0NKOGF3QmRhOXdlNlVn?oc=5",
           "source": "Google News",
-          "published": "Sun, 22 Nov 2026 03:33:00 GMT"
+          "published": "Sun, 22 Nov 2026 16:33:22 GMT"
         },
         {
-          "title": "Princeton University student detained by ICE at Reagan Airport after conference - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HUVBBVWJjMmtDMW8tMlotRFplSVpFMWFpSHo2Yl8yb2lZLVZONDVSM3U4S0xYTTBfT205bTBGYzZMbk4yRUIyR2ZyYU01VEdHUGdwakxPdzZsMGpSbnRXb0xXOVdGZ3FPbUwyV0RnenplUQ?oc=5",
+          "title": "Mandel’s Final Thoughts: OT madness broke the Big Ten Playoff picture. Good luck, committee - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNkVPbExFbGJmRTktYUt1LVhYUk40bEtiN3RRSUlCUlhFbWpOUXhlSUdYdGNBaUNsWXVFelowTU15dWJqekVPMkpjUFZXcnk4bjFsOHF3bXl6Z2wxQ095RzFHdVNjY0Z6OGZuYnBhMDVGd085WlZlc0JiQ0VsR01vclJtUVE2a2w5YUllSmx0aDNrSlF1?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 22:50:00 GMT"
+          "published": "Sun, 22 Nov 2026 14:53:47 GMT"
+        },
+        {
+          "title": "(1) ATP Finals tennis: Alexander Zverev v Carlos Alcaraz in the final – live - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN2kyS1VremRFU0pjTlh0LXlEQVM2aG5vWlNNdHdkbWlaT0pTTHpFTVVPTUlaSFp1cGY4X25Wa3VDeWlEbW4wd29fS3BGUzVhM281SXprdGZQN2ZzNUdEeE9lQW1mQUR3dHRjRW9xRjhXTnBmR3Ata1ljS2lqcDgyZ2F2My1fT3NDLXZyWHcwMi1vRGg1TFBtYS1lWjFFM1lsbWsxQzdUaHF4bTFsMzlPYg?oc=5",
+          "source": "Google News",
+          "published": "Sun, 22 Nov 2026 16:00:00 GMT"
         }
       ]
     },
     {
-      "word": "Airport",
-      "count": 2,
+      "word": "Apple",
+      "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Washington governor, union denounce ICE arrests of travelers at Seattle airport - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSi1Oa2dUSVViZERBQzducWxTUFB5cjd4Sm1HRU0zQ0ZiQUhGWngxTlRmZzJybFo5cjRuMVdEOU80S2xuVGx4ZVdsaFFCTXZ3TkVYM19hcVBIbVViSm4wU2JHWExxYWFVVlFzSkZkUXVLZjdOTml0Qk1lYWdELXFyUGlTeTI3T2lETXVvYzdJVHduT3pnVGZ0MjhUTTBOMlcwYUJxTENWRVJ3aVRTSnJ3Y1FucjdrUTNrMERzekRHZFBkX0U?oc=5",
+          "title": "Apple Risks Losing the AI Agent War With an Outdated Playbook - Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQY0NlQ2FFZWVRd2FPTTJ4cjhKU3Vjb1hXdlZ2R1pfN2IxdlBxMDRZWmRMS1FyNXFSamtldk5GcVVPdnlxOFc2cmRsbS12TnFSdGhKeUx5NEF5dFJHUE12WDR2NGpZckk5cm5Ha3YzeXp0RkR2Y1BuTnhDWDczS18tTTlTWFplX0oyQy1SRDhFRS1jbzY3RnlIMWU1eHB1UktHWmpMT003MXV4d2l0bEg0QVp2bWJrWFUzQ3Rsdk5UbG9zNS1rLWlZV0pjejZQUQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 22 Nov 2026 03:33:00 GMT"
+          "published": "Sun, 22 Nov 2026 18:56:35 GMT"
         },
         {
-          "title": "Princeton University student detained by ICE at Reagan Airport after conference - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HUVBBVWJjMmtDMW8tMlotRFplSVpFMWFpSHo2Yl8yb2lZLVZONDVSM3U4S0xYTTBfT205bTBGYzZMbk4yRUIyR2ZyYU01VEdHUGdwakxPdzZsMGpSbnRXb0xXOVdGZ3FPbUwyV0RnenplUQ?oc=5",
+          "title": "Apple Black Friday Deals Available Now: AirPods, Apple Watches, MacBooks, and More - MacRumors",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQelVkZmVoelpxa2pvdEZNMjl5ems1N1J0RFNWS0hsU01nSmpyMXp2cFF5OXp0bEMzUnhORkxub1JMeDdFdFRYWExieWYtWktVYzh3YkttSUNiYTh0Z05uYkR5RlNwamh1UFZmZ19MMGFVNGdGei1uZms2ZUx6MzFHbEtPQXlIOGhr?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 22:50:00 GMT"
+          "published": "Sun, 22 Nov 2026 15:09:50 GMT"
         }
       ]
     },
     {
-      "word": "Flooding",
+      "word": "California",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "More rain Saturday after days of flooding along Central Florida coast - WESH",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPME5mNHhCdVltWWxQQWxtU3BISnVoVmRIT0wxZm5Ed1lyenpQd1RZMkZiQl92TXMtNV9sZ3Z0b2VKLWVDMzJXVE5QVHE5cFNCMmR2ODg2MTJPUlhPXzhQSWVudXhXRG5CR1NXOHl0RF9iRUdsZmFROWR0QkNlZzc0MFB3?oc=5",
+          "title": "California prepares for flooding, rain and wind as Thanksgiving approaches - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMnd2bkdQRzJ0WTFVcENtU2lrOXJMTnVDUlIwMXBDVlpfOVl1ZlplZkpteEU0RHBvRWoyMG1IblE3M0wwRG5MMjBURnItbGlQd25ibG1WcHJ5d3ZiWnRRNFZ6ZzR6S2s1LWdyeEJiV25pRlFaUTBENXE5MWR1MU1Fc0pGN0FHU0JQazV2dk9rVEN0cFNfNTFMcDZkbmgyNWdDb0tnV1RycmZ1aWVpX2o4?oc=5",
           "source": "Google News",
-          "published": "Sun, 22 Nov 2026 04:16:00 GMT"
+          "published": "Sun, 22 Nov 2026 16:02:00 GMT"
         },
         {
-          "title": "Supermoon could worsen king tide flooding before Thanksgiving - AccuWeather",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbTlJNS1FVDRkZW5DbDhtOXJ5Q25taWpRVkoxUU5VNTRqR3dQQjlrR3o5Mm01cElUNjFVcUFMMEJlcjU0VXBpWTBUZ0ItUEFjWXg0enE0dlJFcU93T3pVOWZ6R0dhRUVTdXVWc0hOMEo0M3dfZ3F5RmNxTnRMSENlMlhmaXVBTDVMM29vNEZ3?oc=5",
+          "title": "SpaceX shuttle to splash down off California coast — here’s how you’ll know it’s coming - New York Post",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbDN5dmtoc19Eazl2akhoNFphOWp1TmFYV1lpb1kwSThBMGRKbjhZXzI1X01LdmlpbjZLbDZxeTFyLWktWUdka3dhZTRhQ0pCdkhhajdXUllnT216VTJkazI5R3pZWXhUX0RQRUx5WVlGelg3eENzbk9lblZQTkF0ZEVhMlUwcDNPYnpaSFNkNUZOSnY5UmNUMmVwaUJkUkg4WjhHUkZFVDRneG1V?oc=5",
           "source": "Google News",
-          "published": "Fri, 20 Nov 2026 18:12:03 GMT"
+          "published": "Sat, 21 Nov 2026 19:08:00 GMT"
         }
       ]
     },
     {
-      "word": "Cases",
+      "word": "Court",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "USDA Quietly Releases Bigfoot Files, Included Cases in the Pacific Northwest - KTVZ",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWXRJMnAtaU05b1Bpdkl1T1E3ckQteVdUZmI2cEIxdHVubTRxOTFoaFp3UU05YXhGa21EempIYzdDSnJjTGRvaFcyQmdhcjR1dTliNDh3dVJ5azM4TTNSanlSTUJMVFBjbUNKUER6UWRyeEpDNFMwdmdfYzRzZXdKbmxfbVpETEdsQURvZXJnd1JlU3NSZ2RtSENzVm83N3pUeFNkMFBZYThQbzM5ZVE?oc=5",
+          "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xSGFSX2JfQklNMzFHUGozTUJsbHlJNURhR2J3LU91R3VUQVgtTUdkdTZNam03dDNQM3hORTN4QzRwQ1Noc2RXRktySWt1ZnQ5ejU5Qk1yOUwyazg?oc=5",
           "source": "Google News",
-          "published": "Sun, 22 Nov 2026 00:14:58 GMT"
+          "published": "Sun, 22 Nov 2026 15:50:28 GMT"
         },
         {
-          "title": "Map: Measles cases in each U.S. state - Axios",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJTGFIRzc4akdjV1ZiTi1ickJvMjNKX1pzc2VENndYd0MwSmFxaTlEYW9HOVBfcTFBYWdrZGlUYmEwaGowQ1Z5ZXNEcWxwOFBMSFAwallBLXJSRTRlUFdEWndLR0t4OGlza2RWVDgyc3lkTG5uNEZhRjJQYnZsZVU?oc=5",
+          "title": "Trump keeps losing in court. Here’s how he gets what he wants anyway. - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa3ozYWpuVnplUHVVOUNiQVhUWWV4OGxCY016dlJ0SDd3VGdVbjZMUHI5VG5ZOWUtQWl0QV82NUsxNnk3d2xURm1rNTViSU1WMWVxY29JZW5PcDNkMnpsYm03bkZpZWFRdzFiOHVMUTh2TDFqWTJHaHF1eVNkRG83OS02bndqSU8xNDdYUGRqUGJNVzJPRVZhb2d6aExLMnFDN2VnMVdobFlRSU5LakRxWWhROFRfZw?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 18:27:32 GMT"
+          "published": "Sun, 22 Nov 2026 17:28:24 GMT"
         }
       ]
     },
     {
-      "word": "Killing",
+      "word": "Russian",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "St. Tammany deputies: Crossbow killing suspect admits to killing woman found near trail - WDSU",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaXF5Z0xWeEVqeEs3WVZHU29xZFdhRHNEdWowLUI4clhmU2RsbHdZLUZrN2JOU0JSRk9md1JtUWd5YjlKQS1QOUxvTW1ZeHV2Z1BNaTZnVF9oY3hHS3dBN1JQTm5wZGFXdTFwcUNQQWY0Rmh5ZzVRWHo2ZUZ2amw3b0dXcUgxa0FtUnFvRlJaTnVVTmdZU3ZUNkpqRlJZWVJBNUdaY2FCZ3Bwa2M1bG9wdnBhY2dVQUhzcUhNeXdCY2k?oc=5",
+          "title": "Russian cargo ship still on fire off Finland after drone attack - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd2NCaGF6MUxSRzUwVFhLTFAxUzR6bnU3TW5PSE9vQzRrRnk4Qnd3d0ZpQ1RMYk1wZEd3eHVla1lNOFhZTHktekYwZWJ2eElMaXRpamVCWWFrSEpUTVQxVjRpdHJ2WG9SSFp1aXVHTTBXUWVCdHFHTFJzc0I3Zks1dzZxNS1zWjhCTFhKR0tCM3RJdy1YLXJsTWhwSGhJUktORXJwaTBaQjHSAa4BQVVfeXFMTjJuTVlYMUFraG1VUWhHUXY5TTJiMF9SajVvX1lqLWNtOTRqaHNsei1OcUVuN1NuVU5ucDNoa2lZZFk3ZGkzRm1ybW50UllFcUZveEhIMDBnaG5pVmdzTktDeWpfejBrVk9kQ0NQV2pWNDBfcTJ0eHNfYTM0cUNaZjNTdVFWV3VWWWFEeS0wWDFMYTZrbHBMeEl5NzItRE1jRE5qZG5mdFJ5VUxoV3lB?oc=5",
           "source": "Google News",
-          "published": "Sun, 22 Nov 2026 05:04:00 GMT"
+          "published": "Sun, 22 Nov 2026 10:45:26 GMT"
+        },
+        {
+          "title": "Libya's eastern government suspects drone attack caused explosion on Russian ship - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSHNFQ2hvQUxyR05zYXIyVjczNjE3eEVLWWhMdk1mS01BQV91dy03OU5SSzVzbzlvVk1ManQ2TFhqU2xkRkhZcGthVlZad0E1aVRKU1E5ZWxJTWRQVG5UYmFYYmcxZGJ1TFc1YzE0a2E4XzQ4SGJLNjNlc0otTGhGRnRWTHpmeW1mWnVBLTNhYmFLU3JOUTVfSTliN19fMG9rRWlmeFdKNHFSU1JVTTdnQUNhUlBUWmRSTDVXUUJuUW9fNEV2cjNWdTlPZw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 22 Nov 2026 18:32:43 GMT"
         }
       ]
     },
     {
-      "word": "Cargo",
+      "word": "Ship",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Russian cargo ship still on fire off Finland after attack - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTXUxa0FLT1o3Tzh4MUR0MV9ZenU1LU9PZl9QSzhsQXlOQThFNUxWbWFXRXZTOHFpb1lJdG1GTV9hOUZsc2x4YzBOSzV3ZHZkV2pyNjNIaTVWZEViQ2lLb3JkcjJsbGhVNXFmWXQ5c0pDTkVXeG9IbmlKV3AxYUtfNE5DVnhWX3lvNmg0SF9SZ1lHQzEtSnY1REsycUlvWFVEOFlBSXR3?oc=5",
+          "title": "Russian cargo ship still on fire off Finland after drone attack - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd2NCaGF6MUxSRzUwVFhLTFAxUzR6bnU3TW5PSE9vQzRrRnk4Qnd3d0ZpQ1RMYk1wZEd3eHVla1lNOFhZTHktekYwZWJ2eElMaXRpamVCWWFrSEpUTVQxVjRpdHJ2WG9SSFp1aXVHTTBXUWVCdHFHTFJzc0I3Zks1dzZxNS1zWjhCTFhKR0tCM3RJdy1YLXJsTWhwSGhJUktORXJwaTBaQjHSAa4BQVVfeXFMTjJuTVlYMUFraG1VUWhHUXY5TTJiMF9SajVvX1lqLWNtOTRqaHNsei1OcUVuN1NuVU5ucDNoa2lZZFk3ZGkzRm1ybW50UllFcUZveEhIMDBnaG5pVmdzTktDeWpfejBrVk9kQ0NQV2pWNDBfcTJ0eHNfYTM0cUNaZjNTdVFWV3VWWWFEeS0wWDFMYTZrbHBMeEl5NzItRE1jRE5qZG5mdFJ5VUxoV3lB?oc=5",
           "source": "Google News",
-          "published": "Sun, 22 Nov 2026 09:14:17 GMT"
+          "published": "Sun, 22 Nov 2026 10:45:26 GMT"
         },
         {
-          "title": "SpaceX Dragon cargo capsule returns to Earth from the ISS - Space",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVnc4S3dTcWU4TkNqaFdkTTFhR3NLbWpYcUpaazFzRnlpMS1PcllMUXZieWxMa0NHSEhZUjZkQkY2b0lGSEEyQk4yNUFsUUYySzRQUWVOS2VHMkItbjNvNWtGc204T0pYZnZ6RHVTdTN5MTNtdmw5UGxhcDdXNDI2clRRaG1wMnJIaXF5VUxkNW5WLWpTM3ByZXRqNVFpaVdfcUFUSU5NNlNwQ2JQc1VzSFVYbU4?oc=5",
+          "title": "Libya's eastern government suspects drone attack caused explosion on Russian ship - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSHNFQ2hvQUxyR05zYXIyVjczNjE3eEVLWWhMdk1mS01BQV91dy03OU5SSzVzbzlvVk1ManQ2TFhqU2xkRkhZcGthVlZad0E1aVRKU1E5ZWxJTWRQVG5UYmFYYmcxZGJ1TFc1YzE0a2E4XzQ4SGJLNjNlc0otTGhGRnRWTHpmeW1mWnVBLTNhYmFLU3JOUTVfSTliN19fMG9rRWlmeFdKNHFSU1JVTTdnQUNhUlBUWmRSTDVXUUJuUW9fNEV2cjNWdTlPZw?oc=5",
           "source": "Google News",
-          "published": "Sun, 22 Nov 2026 02:18:17 GMT"
+          "published": "Sun, 22 Nov 2026 18:32:43 GMT"
         }
       ]
     },
     {
-      "word": "Reaches",
+      "word": "Still",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Bayer reaches Roundup settlement that could cost the company billions - NPR",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWWlGNFE0V2hjbEJZVXZXMEhZRXZVbVlyeFNyWlRNQmtTUjAxNDdoM2ZITkN6elR0c043YlFaTjV6eGdSdk83VWswT1hUcmRlaWJHcVdwVWZDNGRUcmQzdWU1ZGtXeDhtM0M3MXFYMTNfR0swMWlvNVpEejBuSzJPcW5DaGU?oc=5",
+          "title": "Russian cargo ship still on fire off Finland after drone attack - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd2NCaGF6MUxSRzUwVFhLTFAxUzR6bnU3TW5PSE9vQzRrRnk4Qnd3d0ZpQ1RMYk1wZEd3eHVla1lNOFhZTHktekYwZWJ2eElMaXRpamVCWWFrSEpUTVQxVjRpdHJ2WG9SSFp1aXVHTTBXUWVCdHFHTFJzc0I3Zks1dzZxNS1zWjhCTFhKR0tCM3RJdy1YLXJsTWhwSGhJUktORXJwaTBaQjHSAa4BQVVfeXFMTjJuTVlYMUFraG1VUWhHUXY5TTJiMF9SajVvX1lqLWNtOTRqaHNsei1OcUVuN1NuVU5ucDNoa2lZZFk3ZGkzRm1ybW50UllFcUZveEhIMDBnaG5pVmdzTktDeWpfejBrVk9kQ0NQV2pWNDBfcTJ0eHNfYTM0cUNaZjNTdVFWV3VWWWFEeS0wWDFMYTZrbHBMeEl5NzItRE1jRE5qZG5mdFJ5VUxoV3lB?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 20:37:35 GMT"
+          "published": "Sun, 22 Nov 2026 10:45:26 GMT"
         },
         {
-          "title": "BepiColombo finally reaches Mercury after eight-year odyssey - Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14QjJ2YUJJRUpaNkVLXzNvZnNJT3p0YnlSTU4yY0tabm1BVExWTnRBSC1XTUo0bmV0aTFWdFpFYVowVGc1TENTQXgxeHJOcjNCb2MzcW5OekxEajhqNGtF?oc=5",
+          "title": "Grand Theft Auto VI PS5 Streams/Captures Get DLSS 5 and Frame Generation on PC Through Veyra/Neural Screen, But Gameplay Still Runs at 30FPS (with More Latency) - Wccftech",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZFFqTkpBUjJNRmN2Mnc4OURLMkZqa1l2RkFwenRyeEJVT085V2QzY2tkRVRHd3lxdVVZM1d6ZzhuZnB1VGhTRmZCVUcycUJMN2o0TEN5eUZLemFqcFcwSksxMFVPb1RBWFhzWDV0d1pKMGRuVVRDLU8wMFdKcHJxV0tkRHk1VmdKNmEyZTRGVGVEeUFIdC1j0gGcAUFVX3lxTE5hZUNkLVZQZldIS0NWOF9jQnFxdmcwMVJUM0dvV0NxSk00Q3hKUUNNVXlORUdzWkFiNHVjMHB0aDdWeUVURkhUcVV1S2NIT0JyRF9mN3p0V1Z6LTViRW1CcWxkNFo5OXhQdEZydHhiRWZxU0pUZ0lxWV9qU29DcmZBeFZYT1dNbUJJOFBzUXA2ZGw1ZnJUZno5OHVDcQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 22 Nov 2026 02:29:15 GMT"
+          "published": "Sat, 21 Nov 2026 15:00:00 GMT"
         }
       ]
     },
     {
-      "word": "Settlement",
+      "word": "Drone",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Bayer reaches Roundup settlement that could cost the company billions - NPR",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWWlGNFE0V2hjbEJZVXZXMEhZRXZVbVlyeFNyWlRNQmtTUjAxNDdoM2ZITkN6elR0c043YlFaTjV6eGdSdk83VWswT1hUcmRlaWJHcVdwVWZDNGRUcmQzdWU1ZGtXeDhtM0M3MXFYMTNfR0swMWlvNVpEejBuSzJPcW5DaGU?oc=5",
+          "title": "Russian cargo ship still on fire off Finland after drone attack - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd2NCaGF6MUxSRzUwVFhLTFAxUzR6bnU3TW5PSE9vQzRrRnk4Qnd3d0ZpQ1RMYk1wZEd3eHVla1lNOFhZTHktekYwZWJ2eElMaXRpamVCWWFrSEpUTVQxVjRpdHJ2WG9SSFp1aXVHTTBXUWVCdHFHTFJzc0I3Zks1dzZxNS1zWjhCTFhKR0tCM3RJdy1YLXJsTWhwSGhJUktORXJwaTBaQjHSAa4BQVVfeXFMTjJuTVlYMUFraG1VUWhHUXY5TTJiMF9SajVvX1lqLWNtOTRqaHNsei1OcUVuN1NuVU5ucDNoa2lZZFk3ZGkzRm1ybW50UllFcUZveEhIMDBnaG5pVmdzTktDeWpfejBrVk9kQ0NQV2pWNDBfcTJ0eHNfYTM0cUNaZjNTdVFWV3VWWWFEeS0wWDFMYTZrbHBMeEl5NzItRE1jRE5qZG5mdFJ5VUxoV3lB?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 20:37:35 GMT"
+          "published": "Sun, 22 Nov 2026 10:45:26 GMT"
         },
         {
-          "title": "Anne Heche Creditors Object to Her Son's Petition For Settlement - TMZ",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORDFUcUhoa3RoT3dHTFF2eW9JNVlJYXdnSHhnbEh2NGpBVU95dzZremNPRUpuZWFUMnNqLXNuc3ZmV1c5aHh1d2llWExuckRRalpFV2VtMG1EeFZ4SXhNU2tkclVXZkZhR3pocURRS0lfZVJ5NXJTYnBsb2duVzBxVm8xaWUwTV9VdFVZVGJCT0lMU1Mx?oc=5",
+          "title": "Libya's eastern government suspects drone attack caused explosion on Russian ship - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSHNFQ2hvQUxyR05zYXIyVjczNjE3eEVLWWhMdk1mS01BQV91dy03OU5SSzVzbzlvVk1ManQ2TFhqU2xkRkhZcGthVlZad0E1aVRKU1E5ZWxJTWRQVG5UYmFYYmcxZGJ1TFc1YzE0a2E4XzQ4SGJLNjNlc0otTGhGRnRWTHpmeW1mWnVBLTNhYmFLU3JOUTVfSTliN19fMG9rRWlmeFdKNHFSU1JVTTdnQUNhUlBUWmRSTDVXUUJuUW9fNEV2cjNWdTlPZw?oc=5",
           "source": "Google News",
-          "published": "Sun, 22 Nov 2026 09:00:58 GMT"
+          "published": "Sun, 22 Nov 2026 18:32:43 GMT"
         }
       ]
     },
     {
-      "word": "Big",
+      "word": "Attack",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Big Tech companies are the butt of the joke in 'GTA 6' - Business Insider",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOXpmNmJKTUh4UGlYbVJaUVJ3c1B2ZlM4aHh2Q0Yyc2Vzd1NUTnplX3JIdzFIWFJaWGlzSi0tR194Z3J0dktTVlhxTFlZT0JOcUVXNUlnanZ0UDNIUWdDNFJuV1VzZDFpQmljNktmS3haU0RDUkhBbF9PNHoxNDJ6STVtOFo4NnJnbHhkUGVwSEJ3VmVZU21QcjkxYjlkdGhhcTU3N0l4OUlGR01IcGc?oc=5",
+          "title": "Russian cargo ship still on fire off Finland after drone attack - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd2NCaGF6MUxSRzUwVFhLTFAxUzR6bnU3TW5PSE9vQzRrRnk4Qnd3d0ZpQ1RMYk1wZEd3eHVla1lNOFhZTHktekYwZWJ2eElMaXRpamVCWWFrSEpUTVQxVjRpdHJ2WG9SSFp1aXVHTTBXUWVCdHFHTFJzc0I3Zks1dzZxNS1zWjhCTFhKR0tCM3RJdy1YLXJsTWhwSGhJUktORXJwaTBaQjHSAa4BQVVfeXFMTjJuTVlYMUFraG1VUWhHUXY5TTJiMF9SajVvX1lqLWNtOTRqaHNsei1OcUVuN1NuVU5ucDNoa2lZZFk3ZGkzRm1ybW50UllFcUZveEhIMDBnaG5pVmdzTktDeWpfejBrVk9kQ0NQV2pWNDBfcTJ0eHNfYTM0cUNaZjNTdVFWV3VWWWFEeS0wWDFMYTZrbHBMeEl5NzItRE1jRE5qZG5mdFJ5VUxoV3lB?oc=5",
           "source": "Google News",
-          "published": "Thu, 19 Nov 2026 19:24:00 GMT"
+          "published": "Sun, 22 Nov 2026 10:45:26 GMT"
         },
         {
-          "title": "Tomorrow's Top 25 Today: Ohio State, Indiana, UCLA fall in college football rankings amid Big Ten chaos - CBS Sports",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS2lObU9rZmZ3WDhzRFZwbElHakF6LU9fYW1YZVBQYWZTeVFLX0ZCbWVDaVRmbVJJTDBaM2llc1J3TjUzYmlDTlpEa3dJclFYd0NFSDRmYmdMVHVlZDljcndwNURJNnRXNUlIdUp0M0RYN1E0bk1NSTg5YlAyLUE5XzNqbnljRlVvVC12aUctd2RPckpGOVNXZWprc0d5TmNHbERKQ3dKQQ?oc=5",
+          "title": "Libya's eastern government suspects drone attack caused explosion on Russian ship - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSHNFQ2hvQUxyR05zYXIyVjczNjE3eEVLWWhMdk1mS01BQV91dy03OU5SSzVzbzlvVk1ManQ2TFhqU2xkRkhZcGthVlZad0E1aVRKU1E5ZWxJTWRQVG5UYmFYYmcxZGJ1TFc1YzE0a2E4XzQ4SGJLNjNlc0otTGhGRnRWTHpmeW1mWnVBLTNhYmFLU3JOUTVfSTliN19fMG9rRWlmeFdKNHFSU1JVTTdnQUNhUlBUWmRSTDVXUUJuUW9fNEV2cjNWdTlPZw?oc=5",
           "source": "Google News",
-          "published": "Sun, 22 Nov 2026 04:39:00 GMT"
+          "published": "Sun, 22 Nov 2026 18:32:43 GMT"
         }
       ]
     },
     {
-      "word": "Ucla",
+      "word": "Losing",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Tomorrow's Top 25 Today: Ohio State, Indiana, UCLA fall in college football rankings amid Big Ten chaos - CBS Sports",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS2lObU9rZmZ3WDhzRFZwbElHakF6LU9fYW1YZVBQYWZTeVFLX0ZCbWVDaVRmbVJJTDBaM2llc1J3TjUzYmlDTlpEa3dJclFYd0NFSDRmYmdMVHVlZDljcndwNURJNnRXNUlIdUp0M0RYN1E0bk1NSTg5YlAyLUE5XzNqbnljRlVvVC12aUctd2RPckpGOVNXZWprc0d5TmNHbERKQ3dKQQ?oc=5",
+          "title": "Trump keeps losing in court. Here’s how he gets what he wants anyway. - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa3ozYWpuVnplUHVVOUNiQVhUWWV4OGxCY016dlJ0SDd3VGdVbjZMUHI5VG5ZOWUtQWl0QV82NUsxNnk3d2xURm1rNTViSU1WMWVxY29JZW5PcDNkMnpsYm03bkZpZWFRdzFiOHVMUTh2TDFqWTJHaHF1eVNkRG83OS02bndqSU8xNDdYUGRqUGJNVzJPRVZhb2d6aExLMnFDN2VnMVdobFlRSU5LakRxWWhROFRfZw?oc=5",
           "source": "Google News",
-          "published": "Sun, 22 Nov 2026 04:39:00 GMT"
+          "published": "Sun, 22 Nov 2026 17:28:24 GMT"
         },
         {
-          "title": "No. 4 UCLA loses Ty Dieffenbach to injury, then falls to Michigan for its first loss - Los Angeles Times",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcHdqb0JBenJxYjNzOGQ3UUo5ZlQtR3EzcGpLUzIyWmlXYmFZT0xBWHZYbnVvVzNmQ1JMYlRZMl9TZzdlcGlUalVFWDg1MmVVQnEyU3d4T2NZRU1SSDk5dVhaTnBoUmJlWjJjZmtFMWh4Q2NRRnN3ODN5X3hhS0NRN3RlXzBVM09sTjY5WFJSQ2lJSzhDQ0lpZERHZVliaWVxalgweWFjLW5vRF8zbkFN?oc=5",
+          "title": "Apple Risks Losing the AI Agent War With an Outdated Playbook - Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQY0NlQ2FFZWVRd2FPTTJ4cjhKU3Vjb1hXdlZ2R1pfN2IxdlBxMDRZWmRMS1FyNXFSamtldk5GcVVPdnlxOFc2cmRsbS12TnFSdGhKeUx5NEF5dFJHUE12WDR2NGpZckk5cm5Ha3YzeXp0RkR2Y1BuTnhDWDczS18tTTlTWFplX0oyQy1SRDhFRS1jbzY3RnlIMWU1eHB1UktHWmpMT003MXV4d2l0bEg0QVp2bWJrWFUzQ3Rsdk5UbG9zNS1rLWlZV0pjejZQUQ?oc=5",
           "source": "Google News",
-          "published": "Sun, 22 Nov 2026 01:46:09 GMT"
+          "published": "Sun, 22 Nov 2026 18:56:35 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Spacex",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "EXCLUSIVE: Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT1RsTFBlMWZGejNqWjVvdVlYX2lRTGpZZXhoYXFXN2RuV3lHZ09ra0ctdnZqc3hiVENXSlc2ZTBIbDRyTmpTS1Nhdk1kdU5HLW5FNGdNRTNoeXVBeEc5cDl5VGx3c3dUSzNDYkVVTHVfenVQbHFUQ0hQS2NfalhuNDczWFdUS0FWQS1iZ1ZhVnNYMy1FOHVSUmlBMmI3NTdVTGY1X0JxTFRmYnptV3huQQ?oc=5",
+          "source": "Google News",
+          "published": "Sun, 22 Nov 2026 13:29:02 GMT"
+        },
+        {
+          "title": "SpaceX shuttle to splash down off California coast — here’s how you’ll know it’s coming - New York Post",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbDN5dmtoc19Eazl2akhoNFphOWp1TmFYV1lpb1kwSThBMGRKbjhZXzI1X01LdmlpbjZLbDZxeTFyLWktWUdka3dhZTRhQ0pCdkhhajdXUllnT216VTJkazI5R3pZWXhUX0RQRUx5WVlGelg3eENzbk9lblZQTkF0ZEVhMlUwcDNPYnpaSFNkNUZOSnY5UmNUMmVwaUJkUkg4WjhHUkZFVDRneG1V?oc=5",
+          "source": "Google News",
+          "published": "Sat, 21 Nov 2026 19:08:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Live",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "'Saturday Night Live' 'Sister' sketch shows the real cost of 'free' caregiving - USA Today",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaDd5NXQ2QVhSLVc5N2QtSXA0bS1pQ014MGlZSk1TVFh4RWxpcFRoSXJySi1LSWFBcFJuYWJDWTc2bVczQjduSjFpSUdfT2VLWHYxT2dMNmdSMnhNb2hKTzNRdWpkRnBWbFFhRTVJU0FoN29QX1VTczVZM2ljblhOUWxZZ3FWYk1qTE5oeXQ1ZERMS2dJN0kxcUMyNV9GSHRpMlB2VUJUMlBGMy14Njgtci02WGRRcExYYXBCZmJfU3dlMGdpaThaN0FoRC00UzRXRXlOUkwtM3NTT1gxcEhHU2FtOUVYRGpa?oc=5",
+          "source": "Google News",
+          "published": "Sun, 22 Nov 2026 15:27:00 GMT"
+        },
+        {
+          "title": "(1) ATP Finals tennis: Alexander Zverev v Carlos Alcaraz in the final – live - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN2kyS1VremRFU0pjTlh0LXlEQVM2aG5vWlNNdHdkbWlaT0pTTHpFTVVPTUlaSFp1cGY4X25Wa3VDeWlEbW4wd29fS3BGUzVhM281SXprdGZQN2ZzNUdEeE9lQW1mQUR3dHRjRW9xRjhXTnBmR3Ata1ljS2lqcDgyZ2F2My1fT3NDLXZyWHcwMi1vRGg1TFBtYS1lWjFFM1lsbWsxQzdUaHF4bTFsMzlPYg?oc=5",
+          "source": "Google News",
+          "published": "Sun, 22 Nov 2026 16:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Earth",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "As NASA's Voyager 1 reaches one light-day from Earth, Microsoft AI CEO Mustafa Suleyman says: Built with - The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPVFRZQzloamJkRE40M2pJREVaeHlxbC10ejRFcXZkWFU1Sk1aY2ltWVppRnJrb0Njek9TRlVVa21WdFpORTZwdDV2aVcwLUJyNml6NVlJenBLeXcyWk9zYThseU9xa0d0b1J6amV5cmFzV0lUY3F3RzVHWm1ib3RkUkhUTDdxVFlHbTFnb0xJT0M1dGhqYVlzMHJJdmt4TkstZXcyWmV2YmVVdU1fZk9VaFl3RWJUbFhVX3R4S09uMW1lWGtINXEzcjE4NndIWGstcnVndERBM2M5MjUybWZoaS1HUTVrd1NjMXpuQXhpbXJCd1FXUlZENm42NnZpbUVWRFFZQnNDNmFfYjBPY19VMnZiaGxyX1RmS1JEZDdEcVZvZVZ0MG0yQTdfVFp0X09lTnE2edIBugJBVV95cUxQTUNKVlFja3M0cmVqY3ZWSXlXVnZac0swMlJ4SDhrcFBkR1lOTVJlMFlHczJtMzRsYnVYSnJwdWVLczdPaXowRTdDMS1JOVp6QzVGb2h0ZzRlVGZNY1g2LU55LWpXcFQ4S3BIRVBSSWJ4OENleVBOZnN0c3ZZZDlCbkM3ZFpWLWhROFd3UlJvRm5OeWl2U3NCcm1JOEs3WGU5LUJKMmVTWnV1cllqZVV3MFZqM2lxV3hlMG9ZVUlaODhFVV80RTI3d1JhQ202SjlLX0tibGlfUFgwLTVNQWZ3MFNlTjNEMnlTR2FvbDNsMXltazZTSmtFaXBvQlJrdENJQ21ONEtockxkSG9GMnBpN1ZBdUdLSjJmMFdOWDlmSlU5VEdXX0VyNTJ5WXJCZkdsUXJ3Y2YxOVVodw?oc=5",
+          "source": "Google News",
+          "published": "Sun, 22 Nov 2026 03:09:00 GMT"
+        },
+        {
+          "title": "Earth has a new temporary ‘mini-moon’ - WTOP News",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JaThELVBJN3hvQ051YnRRRmJobDNaRDU0dGR2NHlyYzYwQmg0Q3ZES280ZndtZjdOYVhoMkZUZjRxbExJVWVCYlNoLUVfYTgyWUNYa3JWYlZGLVZNS2pFbHlFRzg0OTJXb3VYNlBzWXc3REtxbWRrR1F3?oc=5",
+          "source": "Google News",
+          "published": "Sat, 21 Nov 2026 13:58:55 GMT"
         }
       ]
     },
@@ -262,354 +305,341 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Virginia reports young child is the state’s first measles death in 2026 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSk9HQklCN2x4dXV0OXM4eEtFTDdiSTlveWhiSTNYa1dPVEFTU1k3UG5fbF9pLXBrUlNDNE51QWM3YWtGWnBNWFUwU1V6RHQwemxSVnp1VU12MXkxdVQwcU9scTFNcDNNbTQ5T2ZwT2xWNHAxeVJMQ1lEQzVDS1VVSWdRMlR0U2Z3bTRvYk5EWnA?oc=5",
+          "title": "Virginia child who tested positive for measles has died, state officials report - 9NEWS",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZEFXUmh6U2J2VXZhM2tlal9RYW50R3lFVC1ESVBNQmE0RUR4QnpsbW9RVG00T1FOQkN3MU1reDhUN0pMOU4zYUo3enZubWNvOUg5WEFweHRvZ0FUSmdfLXdDYm1vYy03VFJqaXdGS2M5SkpveGNkRFEzVWM0Y096YnU4SWpGS3JJZVBrM0hFNEo2X1oxbTdIMS1nMGk2VXRXdmtEMVZtMGlrSV9yUFoyUDg4TjRRb2FK?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 22:07:00 GMT"
+          "published": "Sun, 22 Nov 2026 12:35:00 GMT"
         },
         {
-          "title": "Map: Measles cases in each U.S. state - Axios",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJTGFIRzc4akdjV1ZiTi1ickJvMjNKX1pzc2VENndYd0MwSmFxaTlEYW9HOVBfcTFBYWdrZGlUYmEwaGowQ1Z5ZXNEcWxwOFBMSFAwallBLXJSRTRlUFdEWndLR0t4OGlza2RWVDgyc3lkTG5uNEZhRjJQYnZsZVU?oc=5",
+          "title": "How misinformation helped measles make its comeback - Financial Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaWJCQVRkTHpCa0R4c2toSUFmRXpVVDlEdXdLWnREYXhHbE5IbDcyLTNJVWIybHZIQUZjRHpFT240dTkwVS1uNjNxMXBWeDNOenBFemVmbnZGUEMtNTdTM2tmN2hzRXdRaTNldExmWlViSWtlZzdzcjlpY1RrMDlHczZpRXI?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 18:27:32 GMT"
+          "published": "Sun, 22 Nov 2026 05:02:06 GMT"
         }
       ]
     },
     {
-      "word": "Republican",
+      "word": "Climate",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Republican Senator Takes Parting Shot at ‘Fragile’ Ted Cruz - The Daily Beast",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcjdXSS1ld1dTNzdDNnhGWVlHM0lMemNQMnp2aUw3dmZzQmJETU9rQzIwTUN0WEtEaHFfOUo0ME5PRjk1MVJGSkFwQjBta1R2QmJFSXFkVlBxZ1VxQWZFNHVvcnB4VllsN1R5TnpTVDRqUDVMbHQ5RUEwY1hTSjhtSU5LVEl2bzBjMHVBZk1JRU1oOWcwQ3gxVmNXdHBLTG9E?oc=5",
+          "title": "Climate change talks fall apart in final hours over fossil fuels - NPR",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeEN2LWdsQ0xfZmJMcHRRNmdhd0FlSjNlZzVnbG1xbzl3SE9UMTNSZnU1UTU1WWZfLUd3UEJVUnY4Q2c2ODk3aGtEQ0w2QTF2YUUxVDlfRlhKU25xQVpoeUN2RzFlOURpaUhHT2JTWWttT1g5UVg3cWhRWThfTDlOX0NKOGF3QmRhOXdlNlVn?oc=5",
           "source": "Google News",
-          "published": "Sun, 22 Nov 2026 08:21:45 GMT"
+          "published": "Sun, 22 Nov 2026 16:33:22 GMT"
         }
       ]
     },
     {
-      "word": "Senator",
+      "word": "Change",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Republican Senator Takes Parting Shot at ‘Fragile’ Ted Cruz - The Daily Beast",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcjdXSS1ld1dTNzdDNnhGWVlHM0lMemNQMnp2aUw3dmZzQmJETU9rQzIwTUN0WEtEaHFfOUo0ME5PRjk1MVJGSkFwQjBta1R2QmJFSXFkVlBxZ1VxQWZFNHVvcnB4VllsN1R5TnpTVDRqUDVMbHQ5RUEwY1hTSjhtSU5LVEl2bzBjMHVBZk1JRU1oOWcwQ3gxVmNXdHBLTG9E?oc=5",
+          "title": "Climate change talks fall apart in final hours over fossil fuels - NPR",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeEN2LWdsQ0xfZmJMcHRRNmdhd0FlSjNlZzVnbG1xbzl3SE9UMTNSZnU1UTU1WWZfLUd3UEJVUnY4Q2c2ODk3aGtEQ0w2QTF2YUUxVDlfRlhKU25xQVpoeUN2RzFlOURpaUhHT2JTWWttT1g5UVg3cWhRWThfTDlOX0NKOGF3QmRhOXdlNlVn?oc=5",
           "source": "Google News",
-          "published": "Sun, 22 Nov 2026 08:21:45 GMT"
+          "published": "Sun, 22 Nov 2026 16:33:22 GMT"
         }
       ]
     },
     {
-      "word": "Parting",
+      "word": "Talks",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Republican Senator Takes Parting Shot at ‘Fragile’ Ted Cruz - The Daily Beast",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcjdXSS1ld1dTNzdDNnhGWVlHM0lMemNQMnp2aUw3dmZzQmJETU9rQzIwTUN0WEtEaHFfOUo0ME5PRjk1MVJGSkFwQjBta1R2QmJFSXFkVlBxZ1VxQWZFNHVvcnB4VllsN1R5TnpTVDRqUDVMbHQ5RUEwY1hTSjhtSU5LVEl2bzBjMHVBZk1JRU1oOWcwQ3gxVmNXdHBLTG9E?oc=5",
+          "title": "Climate change talks fall apart in final hours over fossil fuels - NPR",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeEN2LWdsQ0xfZmJMcHRRNmdhd0FlSjNlZzVnbG1xbzl3SE9UMTNSZnU1UTU1WWZfLUd3UEJVUnY4Q2c2ODk3aGtEQ0w2QTF2YUUxVDlfRlhKU25xQVpoeUN2RzFlOURpaUhHT2JTWWttT1g5UVg3cWhRWThfTDlOX0NKOGF3QmRhOXdlNlVn?oc=5",
           "source": "Google News",
-          "published": "Sun, 22 Nov 2026 08:21:45 GMT"
+          "published": "Sun, 22 Nov 2026 16:33:22 GMT"
         }
       ]
     },
     {
-      "word": "Shot",
+      "word": "Fall",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Republican Senator Takes Parting Shot at ‘Fragile’ Ted Cruz - The Daily Beast",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcjdXSS1ld1dTNzdDNnhGWVlHM0lMemNQMnp2aUw3dmZzQmJETU9rQzIwTUN0WEtEaHFfOUo0ME5PRjk1MVJGSkFwQjBta1R2QmJFSXFkVlBxZ1VxQWZFNHVvcnB4VllsN1R5TnpTVDRqUDVMbHQ5RUEwY1hTSjhtSU5LVEl2bzBjMHVBZk1JRU1oOWcwQ3gxVmNXdHBLTG9E?oc=5",
+          "title": "Climate change talks fall apart in final hours over fossil fuels - NPR",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeEN2LWdsQ0xfZmJMcHRRNmdhd0FlSjNlZzVnbG1xbzl3SE9UMTNSZnU1UTU1WWZfLUd3UEJVUnY4Q2c2ODk3aGtEQ0w2QTF2YUUxVDlfRlhKU25xQVpoeUN2RzFlOURpaUhHT2JTWWttT1g5UVg3cWhRWThfTDlOX0NKOGF3QmRhOXdlNlVn?oc=5",
           "source": "Google News",
-          "published": "Sun, 22 Nov 2026 08:21:45 GMT"
+          "published": "Sun, 22 Nov 2026 16:33:22 GMT"
         }
       ]
     },
     {
-      "word": "Fragile",
+      "word": "Apart",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Republican Senator Takes Parting Shot at ‘Fragile’ Ted Cruz - The Daily Beast",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcjdXSS1ld1dTNzdDNnhGWVlHM0lMemNQMnp2aUw3dmZzQmJETU9rQzIwTUN0WEtEaHFfOUo0ME5PRjk1MVJGSkFwQjBta1R2QmJFSXFkVlBxZ1VxQWZFNHVvcnB4VllsN1R5TnpTVDRqUDVMbHQ5RUEwY1hTSjhtSU5LVEl2bzBjMHVBZk1JRU1oOWcwQ3gxVmNXdHBLTG9E?oc=5",
+          "title": "Climate change talks fall apart in final hours over fossil fuels - NPR",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeEN2LWdsQ0xfZmJMcHRRNmdhd0FlSjNlZzVnbG1xbzl3SE9UMTNSZnU1UTU1WWZfLUd3UEJVUnY4Q2c2ODk3aGtEQ0w2QTF2YUUxVDlfRlhKU25xQVpoeUN2RzFlOURpaUhHT2JTWWttT1g5UVg3cWhRWThfTDlOX0NKOGF3QmRhOXdlNlVn?oc=5",
           "source": "Google News",
-          "published": "Sun, 22 Nov 2026 08:21:45 GMT"
+          "published": "Sun, 22 Nov 2026 16:33:22 GMT"
         }
       ]
     },
     {
-      "word": "Ted",
+      "word": "Hours",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Republican Senator Takes Parting Shot at ‘Fragile’ Ted Cruz - The Daily Beast",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcjdXSS1ld1dTNzdDNnhGWVlHM0lMemNQMnp2aUw3dmZzQmJETU9rQzIwTUN0WEtEaHFfOUo0ME5PRjk1MVJGSkFwQjBta1R2QmJFSXFkVlBxZ1VxQWZFNHVvcnB4VllsN1R5TnpTVDRqUDVMbHQ5RUEwY1hTSjhtSU5LVEl2bzBjMHVBZk1JRU1oOWcwQ3gxVmNXdHBLTG9E?oc=5",
+          "title": "Climate change talks fall apart in final hours over fossil fuels - NPR",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeEN2LWdsQ0xfZmJMcHRRNmdhd0FlSjNlZzVnbG1xbzl3SE9UMTNSZnU1UTU1WWZfLUd3UEJVUnY4Q2c2ODk3aGtEQ0w2QTF2YUUxVDlfRlhKU25xQVpoeUN2RzFlOURpaUhHT2JTWWttT1g5UVg3cWhRWThfTDlOX0NKOGF3QmRhOXdlNlVn?oc=5",
           "source": "Google News",
-          "published": "Sun, 22 Nov 2026 08:21:45 GMT"
+          "published": "Sun, 22 Nov 2026 16:33:22 GMT"
         }
       ]
     },
     {
-      "word": "Cruz",
+      "word": "Fossil",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Republican Senator Takes Parting Shot at ‘Fragile’ Ted Cruz - The Daily Beast",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcjdXSS1ld1dTNzdDNnhGWVlHM0lMemNQMnp2aUw3dmZzQmJETU9rQzIwTUN0WEtEaHFfOUo0ME5PRjk1MVJGSkFwQjBta1R2QmJFSXFkVlBxZ1VxQWZFNHVvcnB4VllsN1R5TnpTVDRqUDVMbHQ5RUEwY1hTSjhtSU5LVEl2bzBjMHVBZk1JRU1oOWcwQ3gxVmNXdHBLTG9E?oc=5",
+          "title": "Climate change talks fall apart in final hours over fossil fuels - NPR",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeEN2LWdsQ0xfZmJMcHRRNmdhd0FlSjNlZzVnbG1xbzl3SE9UMTNSZnU1UTU1WWZfLUd3UEJVUnY4Q2c2ODk3aGtEQ0w2QTF2YUUxVDlfRlhKU25xQVpoeUN2RzFlOURpaUhHT2JTWWttT1g5UVg3cWhRWThfTDlOX0NKOGF3QmRhOXdlNlVn?oc=5",
           "source": "Google News",
-          "published": "Sun, 22 Nov 2026 08:21:45 GMT"
+          "published": "Sun, 22 Nov 2026 16:33:22 GMT"
         }
       ]
     },
     {
-      "word": "Latest",
+      "word": "Fuels",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump says latest FBI hack could have ‘positive’ impacts - Politico",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZkVhWWpyQlZoUFdpcFU0bGgtbmkyN0FISXNRZFhvZ0ROdUc2aGpEUFlScUFtY3F5cEgtNkRHXzBMZUttQ1I0c2RJSVFycF9Zb3cwYUpkc25tcDNjR05xekE4SW9RWXM4Z0FHeHdXYXZBX1pUYS1hRkxTeEVNeVhTcUtUNng?oc=5",
+          "title": "Climate change talks fall apart in final hours over fossil fuels - NPR",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeEN2LWdsQ0xfZmJMcHRRNmdhd0FlSjNlZzVnbG1xbzl3SE9UMTNSZnU1UTU1WWZfLUd3UEJVUnY4Q2c2ODk3aGtEQ0w2QTF2YUUxVDlfRlhKU25xQVpoeUN2RzFlOURpaUhHT2JTWWttT1g5UVg3cWhRWThfTDlOX0NKOGF3QmRhOXdlNlVn?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 21:41:00 GMT"
+          "published": "Sun, 22 Nov 2026 16:33:22 GMT"
         }
       ]
     },
     {
-      "word": "FBI",
+      "word": "Prepares",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump says latest FBI hack could have ‘positive’ impacts - Politico",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZkVhWWpyQlZoUFdpcFU0bGgtbmkyN0FISXNRZFhvZ0ROdUc2aGpEUFlScUFtY3F5cEgtNkRHXzBMZUttQ1I0c2RJSVFycF9Zb3cwYUpkc25tcDNjR05xekE4SW9RWXM4Z0FHeHdXYXZBX1pUYS1hRkxTeEVNeVhTcUtUNng?oc=5",
+          "title": "California prepares for flooding, rain and wind as Thanksgiving approaches - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMnd2bkdQRzJ0WTFVcENtU2lrOXJMTnVDUlIwMXBDVlpfOVl1ZlplZkpteEU0RHBvRWoyMG1IblE3M0wwRG5MMjBURnItbGlQd25ibG1WcHJ5d3ZiWnRRNFZ6ZzR6S2s1LWdyeEJiV25pRlFaUTBENXE5MWR1MU1Fc0pGN0FHU0JQazV2dk9rVEN0cFNfNTFMcDZkbmgyNWdDb0tnV1RycmZ1aWVpX2o4?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 21:41:00 GMT"
+          "published": "Sun, 22 Nov 2026 16:02:00 GMT"
         }
       ]
     },
     {
-      "word": "Hack",
+      "word": "Flooding",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump says latest FBI hack could have ‘positive’ impacts - Politico",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZkVhWWpyQlZoUFdpcFU0bGgtbmkyN0FISXNRZFhvZ0ROdUc2aGpEUFlScUFtY3F5cEgtNkRHXzBMZUttQ1I0c2RJSVFycF9Zb3cwYUpkc25tcDNjR05xekE4SW9RWXM4Z0FHeHdXYXZBX1pUYS1hRkxTeEVNeVhTcUtUNng?oc=5",
+          "title": "California prepares for flooding, rain and wind as Thanksgiving approaches - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMnd2bkdQRzJ0WTFVcENtU2lrOXJMTnVDUlIwMXBDVlpfOVl1ZlplZkpteEU0RHBvRWoyMG1IblE3M0wwRG5MMjBURnItbGlQd25ibG1WcHJ5d3ZiWnRRNFZ6ZzR6S2s1LWdyeEJiV25pRlFaUTBENXE5MWR1MU1Fc0pGN0FHU0JQazV2dk9rVEN0cFNfNTFMcDZkbmgyNWdDb0tnV1RycmZ1aWVpX2o4?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 21:41:00 GMT"
+          "published": "Sun, 22 Nov 2026 16:02:00 GMT"
         }
       ]
     },
     {
-      "word": "Positive",
+      "word": "Rain",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump says latest FBI hack could have ‘positive’ impacts - Politico",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZkVhWWpyQlZoUFdpcFU0bGgtbmkyN0FISXNRZFhvZ0ROdUc2aGpEUFlScUFtY3F5cEgtNkRHXzBMZUttQ1I0c2RJSVFycF9Zb3cwYUpkc25tcDNjR05xekE4SW9RWXM4Z0FHeHdXYXZBX1pUYS1hRkxTeEVNeVhTcUtUNng?oc=5",
+          "title": "California prepares for flooding, rain and wind as Thanksgiving approaches - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMnd2bkdQRzJ0WTFVcENtU2lrOXJMTnVDUlIwMXBDVlpfOVl1ZlplZkpteEU0RHBvRWoyMG1IblE3M0wwRG5MMjBURnItbGlQd25ibG1WcHJ5d3ZiWnRRNFZ6ZzR6S2s1LWdyeEJiV25pRlFaUTBENXE5MWR1MU1Fc0pGN0FHU0JQazV2dk9rVEN0cFNfNTFMcDZkbmgyNWdDb0tnV1RycmZ1aWVpX2o4?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 21:41:00 GMT"
+          "published": "Sun, 22 Nov 2026 16:02:00 GMT"
         }
       ]
     },
     {
-      "word": "Impacts",
+      "word": "Wind",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump says latest FBI hack could have ‘positive’ impacts - Politico",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZkVhWWpyQlZoUFdpcFU0bGgtbmkyN0FISXNRZFhvZ0ROdUc2aGpEUFlScUFtY3F5cEgtNkRHXzBMZUttQ1I0c2RJSVFycF9Zb3cwYUpkc25tcDNjR05xekE4SW9RWXM4Z0FHeHdXYXZBX1pUYS1hRkxTeEVNeVhTcUtUNng?oc=5",
+          "title": "California prepares for flooding, rain and wind as Thanksgiving approaches - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMnd2bkdQRzJ0WTFVcENtU2lrOXJMTnVDUlIwMXBDVlpfOVl1ZlplZkpteEU0RHBvRWoyMG1IblE3M0wwRG5MMjBURnItbGlQd25ibG1WcHJ5d3ZiWnRRNFZ6ZzR6S2s1LWdyeEJiV25pRlFaUTBENXE5MWR1MU1Fc0pGN0FHU0JQazV2dk9rVEN0cFNfNTFMcDZkbmgyNWdDb0tnV1RycmZ1aWVpX2o4?oc=5",
           "source": "Google News",
-          "published": "Sat, 21 Nov 2026 21:41:00 GMT"
+          "published": "Sun, 22 Nov 2026 16:02:00 GMT"
         }
       ]
     },
     {
-      "word": "Abdul",
+      "word": "Thanksgiving",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Abdul El-Sayed catches Trump’s attention with pitch for ‘Trumpcare’ - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV0JNdklfa1ZNZ3IxMHplQW1YRFFhX2k1NEZRc0djOFc1MHBqSGxyV1NXaGFTWmFDak9XUVgwLWd6X0RzZkVXNTk3Uk4tclRBQW5WcXpjVHJyOWpQM1pJYTV6MDRpRzZ0ZGxRS2ktcGo5UlJOZnh0VU5VeDUxalloalZ3cVRvaXRtTGpnZ09kVXdvb1Fkcjhmb1VVR2g2Q2tDUTNjYnc2SERMMmJIaS1aZVF3?oc=5",
+          "title": "California prepares for flooding, rain and wind as Thanksgiving approaches - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMnd2bkdQRzJ0WTFVcENtU2lrOXJMTnVDUlIwMXBDVlpfOVl1ZlplZkpteEU0RHBvRWoyMG1IblE3M0wwRG5MMjBURnItbGlQd25ibG1WcHJ5d3ZiWnRRNFZ6ZzR6S2s1LWdyeEJiV25pRlFaUTBENXE5MWR1MU1Fc0pGN0FHU0JQazV2dk9rVEN0cFNfNTFMcDZkbmgyNWdDb0tnV1RycmZ1aWVpX2o4?oc=5",
           "source": "Google News",
-          "published": "Sun, 22 Nov 2026 00:37:00 GMT"
+          "published": "Sun, 22 Nov 2026 16:02:00 GMT"
         }
       ]
     },
     {
-      "word": "Sayed",
+      "word": "Approaches",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Abdul El-Sayed catches Trump’s attention with pitch for ‘Trumpcare’ - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV0JNdklfa1ZNZ3IxMHplQW1YRFFhX2k1NEZRc0djOFc1MHBqSGxyV1NXaGFTWmFDak9XUVgwLWd6X0RzZkVXNTk3Uk4tclRBQW5WcXpjVHJyOWpQM1pJYTV6MDRpRzZ0ZGxRS2ktcGo5UlJOZnh0VU5VeDUxalloalZ3cVRvaXRtTGpnZ09kVXdvb1Fkcjhmb1VVR2g2Q2tDUTNjYnc2SERMMmJIaS1aZVF3?oc=5",
+          "title": "California prepares for flooding, rain and wind as Thanksgiving approaches - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMnd2bkdQRzJ0WTFVcENtU2lrOXJMTnVDUlIwMXBDVlpfOVl1ZlplZkpteEU0RHBvRWoyMG1IblE3M0wwRG5MMjBURnItbGlQd25ibG1WcHJ5d3ZiWnRRNFZ6ZzR6S2s1LWdyeEJiV25pRlFaUTBENXE5MWR1MU1Fc0pGN0FHU0JQazV2dk9rVEN0cFNfNTFMcDZkbmgyNWdDb0tnV1RycmZ1aWVpX2o4?oc=5",
           "source": "Google News",
-          "published": "Sun, 22 Nov 2026 00:37:00 GMT"
+          "published": "Sun, 22 Nov 2026 16:02:00 GMT"
         }
       ]
     },
     {
-      "word": "Catches",
+      "word": "Army",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Abdul El-Sayed catches Trump’s attention with pitch for ‘Trumpcare’ - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV0JNdklfa1ZNZ3IxMHplQW1YRFFhX2k1NEZRc0djOFc1MHBqSGxyV1NXaGFTWmFDak9XUVgwLWd6X0RzZkVXNTk3Uk4tclRBQW5WcXpjVHJyOWpQM1pJYTV6MDRpRzZ0ZGxRS2ktcGo5UlJOZnh0VU5VeDUxalloalZ3cVRvaXRtTGpnZ09kVXdvb1Fkcjhmb1VVR2g2Q2tDUTNjYnc2SERMMmJIaS1aZVF3?oc=5",
+          "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xSGFSX2JfQklNMzFHUGozTUJsbHlJNURhR2J3LU91R3VUQVgtTUdkdTZNam03dDNQM3hORTN4QzRwQ1Noc2RXRktySWt1ZnQ5ejU5Qk1yOUwyazg?oc=5",
           "source": "Google News",
-          "published": "Sun, 22 Nov 2026 00:37:00 GMT"
+          "published": "Sun, 22 Nov 2026 15:50:28 GMT"
         }
       ]
     },
     {
-      "word": "Attention",
+      "word": "Detonate",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Abdul El-Sayed catches Trump’s attention with pitch for ‘Trumpcare’ - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV0JNdklfa1ZNZ3IxMHplQW1YRFFhX2k1NEZRc0djOFc1MHBqSGxyV1NXaGFTWmFDak9XUVgwLWd6X0RzZkVXNTk3Uk4tclRBQW5WcXpjVHJyOWpQM1pJYTV6MDRpRzZ0ZGxRS2ktcGo5UlJOZnh0VU5VeDUxalloalZ3cVRvaXRtTGpnZ09kVXdvb1Fkcjhmb1VVR2g2Q2tDUTNjYnc2SERMMmJIaS1aZVF3?oc=5",
+          "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xSGFSX2JfQklNMzFHUGozTUJsbHlJNURhR2J3LU91R3VUQVgtTUdkdTZNam03dDNQM3hORTN4QzRwQ1Noc2RXRktySWt1ZnQ5ejU5Qk1yOUwyazg?oc=5",
           "source": "Google News",
-          "published": "Sun, 22 Nov 2026 00:37:00 GMT"
+          "published": "Sun, 22 Nov 2026 15:50:28 GMT"
         }
       ]
     },
     {
-      "word": "Pitch",
+      "word": "Tonnes",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Abdul El-Sayed catches Trump’s attention with pitch for ‘Trumpcare’ - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV0JNdklfa1ZNZ3IxMHplQW1YRFFhX2k1NEZRc0djOFc1MHBqSGxyV1NXaGFTWmFDak9XUVgwLWd6X0RzZkVXNTk3Uk4tclRBQW5WcXpjVHJyOWpQM1pJYTV6MDRpRzZ0ZGxRS2ktcGo5UlJOZnh0VU5VeDUxalloalZ3cVRvaXRtTGpnZ09kVXdvb1Fkcjhmb1VVR2g2Q2tDUTNjYnc2SERMMmJIaS1aZVF3?oc=5",
+          "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xSGFSX2JfQklNMzFHUGozTUJsbHlJNURhR2J3LU91R3VUQVgtTUdkdTZNam03dDNQM3hORTN4QzRwQ1Noc2RXRktySWt1ZnQ5ejU5Qk1yOUwyazg?oc=5",
           "source": "Google News",
-          "published": "Sun, 22 Nov 2026 00:37:00 GMT"
+          "published": "Sun, 22 Nov 2026 15:50:28 GMT"
         }
       ]
     },
     {
-      "word": "Trumpcare",
+      "word": "Unstable",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Abdul El-Sayed catches Trump’s attention with pitch for ‘Trumpcare’ - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV0JNdklfa1ZNZ3IxMHplQW1YRFFhX2k1NEZRc0djOFc1MHBqSGxyV1NXaGFTWmFDak9XUVgwLWd6X0RzZkVXNTk3Uk4tclRBQW5WcXpjVHJyOWpQM1pJYTV6MDRpRzZ0ZGxRS2ktcGo5UlJOZnh0VU5VeDUxalloalZ3cVRvaXRtTGpnZ09kVXdvb1Fkcjhmb1VVR2g2Q2tDUTNjYnc2SERMMmJIaS1aZVF3?oc=5",
+          "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xSGFSX2JfQklNMzFHUGozTUJsbHlJNURhR2J3LU91R3VUQVgtTUdkdTZNam03dDNQM3hORTN4QzRwQ1Noc2RXRktySWt1ZnQ5ejU5Qk1yOUwyazg?oc=5",
           "source": "Google News",
-          "published": "Sun, 22 Nov 2026 00:37:00 GMT"
+          "published": "Sun, 22 Nov 2026 15:50:28 GMT"
         }
       ]
     },
     {
-      "word": "Eleven",
+      "word": "Explosives",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Eleven killed in burst of violence during Mexican cartel leader’s capture - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNamNOMXJXUnhxN2ZLeTNlekdQelVXYm1Va004b01XWm10MTdsdlRDUTNNeGNhVkx0RXd3NE5SQVo3TGM4ZXNwbkF4SkRfWVpFTmd3djdRajdmcDJwUUE3Y0EzcFk5d0NXbl9WYjJoM3lMVUVYYWF5NXdXVTdwTVFxQzc5ckozZWV2ZTNGcm1nejg0ZDlEMmYwRFNmQmNuOGVUY0RYd1BXc1lMenJEMWd1YWpaaS3SAboBQVVfeXFMT3RBQmVhWmJ0VnIwQzZyaGxhajZYSzhrdXo1dVUteHVILXBucVluQjFXWjRMQ0VnWDJCNzJYLWs0b1Z0N1VYRzd3VDZJbGloV0dGOVowNkVFSER3UlJkelkzaTREaV9tTHVRNll3VEt0a0I1RFNiemFaTDFOTXV5TS1FSUpZWlE1LUh5LTF2MUFDNGw4U0h0VHMwbmhxdjRKMWNTTGR4NzZyMXVUaWRaT0MwbDgzTm1nczNB?oc=5",
+          "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xSGFSX2JfQklNMzFHUGozTUJsbHlJNURhR2J3LU91R3VUQVgtTUdkdTZNam03dDNQM3hORTN4QzRwQ1Noc2RXRktySWt1ZnQ5ejU5Qk1yOUwyazg?oc=5",
           "source": "Google News",
-          "published": "Sun, 22 Nov 2026 03:41:13 GMT"
+          "published": "Sun, 22 Nov 2026 15:50:28 GMT"
         }
       ]
     },
     {
-      "word": "Killed",
+      "word": "Iowa",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Eleven killed in burst of violence during Mexican cartel leader’s capture - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNamNOMXJXUnhxN2ZLeTNlekdQelVXYm1Va004b01XWm10MTdsdlRDUTNNeGNhVkx0RXd3NE5SQVo3TGM4ZXNwbkF4SkRfWVpFTmd3djdRajdmcDJwUUE3Y0EzcFk5d0NXbl9WYjJoM3lMVUVYYWF5NXdXVTdwTVFxQzc5ckozZWV2ZTNGcm1nejg0ZDlEMmYwRFNmQmNuOGVUY0RYd1BXc1lMenJEMWd1YWpaaS3SAboBQVVfeXFMT3RBQmVhWmJ0VnIwQzZyaGxhajZYSzhrdXo1dVUteHVILXBucVluQjFXWjRMQ0VnWDJCNzJYLWs0b1Z0N1VYRzd3VDZJbGloV0dGOVowNkVFSER3UlJkelkzaTREaV9tTHVRNll3VEt0a0I1RFNiemFaTDFOTXV5TS1FSUpZWlE1LUh5LTF2MUFDNGw4U0h0VHMwbmhxdjRKMWNTTGR4NzZyMXVUaWRaT0MwbDgzTm1nczNB?oc=5",
+          "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xSGFSX2JfQklNMzFHUGozTUJsbHlJNURhR2J3LU91R3VUQVgtTUdkdTZNam03dDNQM3hORTN4QzRwQ1Noc2RXRktySWt1ZnQ5ejU5Qk1yOUwyazg?oc=5",
           "source": "Google News",
-          "published": "Sun, 22 Nov 2026 03:41:13 GMT"
+          "published": "Sun, 22 Nov 2026 15:50:28 GMT"
         }
       ]
     },
     {
-      "word": "Burst",
+      "word": "Despite",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Eleven killed in burst of violence during Mexican cartel leader’s capture - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNamNOMXJXUnhxN2ZLeTNlekdQelVXYm1Va004b01XWm10MTdsdlRDUTNNeGNhVkx0RXd3NE5SQVo3TGM4ZXNwbkF4SkRfWVpFTmd3djdRajdmcDJwUUE3Y0EzcFk5d0NXbl9WYjJoM3lMVUVYYWF5NXdXVTdwTVFxQzc5ckozZWV2ZTNGcm1nejg0ZDlEMmYwRFNmQmNuOGVUY0RYd1BXc1lMenJEMWd1YWpaaS3SAboBQVVfeXFMT3RBQmVhWmJ0VnIwQzZyaGxhajZYSzhrdXo1dVUteHVILXBucVluQjFXWjRMQ0VnWDJCNzJYLWs0b1Z0N1VYRzd3VDZJbGloV0dGOVowNkVFSER3UlJkelkzaTREaV9tTHVRNll3VEt0a0I1RFNiemFaTDFOTXV5TS1FSUpZWlE1LUh5LTF2MUFDNGw4U0h0VHMwbmhxdjRKMWNTTGR4NzZyMXVUaWRaT0MwbDgzTm1nczNB?oc=5",
+          "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xSGFSX2JfQklNMzFHUGozTUJsbHlJNURhR2J3LU91R3VUQVgtTUdkdTZNam03dDNQM3hORTN4QzRwQ1Noc2RXRktySWt1ZnQ5ejU5Qk1yOUwyazg?oc=5",
           "source": "Google News",
-          "published": "Sun, 22 Nov 2026 03:41:13 GMT"
+          "published": "Sun, 22 Nov 2026 15:50:28 GMT"
         }
       ]
     },
     {
-      "word": "Violence",
+      "word": "Order",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Eleven killed in burst of violence during Mexican cartel leader’s capture - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNamNOMXJXUnhxN2ZLeTNlekdQelVXYm1Va004b01XWm10MTdsdlRDUTNNeGNhVkx0RXd3NE5SQVo3TGM4ZXNwbkF4SkRfWVpFTmd3djdRajdmcDJwUUE3Y0EzcFk5d0NXbl9WYjJoM3lMVUVYYWF5NXdXVTdwTVFxQzc5ckozZWV2ZTNGcm1nejg0ZDlEMmYwRFNmQmNuOGVUY0RYd1BXc1lMenJEMWd1YWpaaS3SAboBQVVfeXFMT3RBQmVhWmJ0VnIwQzZyaGxhajZYSzhrdXo1dVUteHVILXBucVluQjFXWjRMQ0VnWDJCNzJYLWs0b1Z0N1VYRzd3VDZJbGloV0dGOVowNkVFSER3UlJkelkzaTREaV9tTHVRNll3VEt0a0I1RFNiemFaTDFOTXV5TS1FSUpZWlE1LUh5LTF2MUFDNGw4U0h0VHMwbmhxdjRKMWNTTGR4NzZyMXVUaWRaT0MwbDgzTm1nczNB?oc=5",
+          "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xSGFSX2JfQklNMzFHUGozTUJsbHlJNURhR2J3LU91R3VUQVgtTUdkdTZNam03dDNQM3hORTN4QzRwQ1Noc2RXRktySWt1ZnQ5ejU5Qk1yOUwyazg?oc=5",
           "source": "Google News",
-          "published": "Sun, 22 Nov 2026 03:41:13 GMT"
+          "published": "Sun, 22 Nov 2026 15:50:28 GMT"
         }
       ]
     },
     {
-      "word": "Mexican",
+      "word": "Cargo",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Eleven killed in burst of violence during Mexican cartel leader’s capture - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNamNOMXJXUnhxN2ZLeTNlekdQelVXYm1Va004b01XWm10MTdsdlRDUTNNeGNhVkx0RXd3NE5SQVo3TGM4ZXNwbkF4SkRfWVpFTmd3djdRajdmcDJwUUE3Y0EzcFk5d0NXbl9WYjJoM3lMVUVYYWF5NXdXVTdwTVFxQzc5ckozZWV2ZTNGcm1nejg0ZDlEMmYwRFNmQmNuOGVUY0RYd1BXc1lMenJEMWd1YWpaaS3SAboBQVVfeXFMT3RBQmVhWmJ0VnIwQzZyaGxhajZYSzhrdXo1dVUteHVILXBucVluQjFXWjRMQ0VnWDJCNzJYLWs0b1Z0N1VYRzd3VDZJbGloV0dGOVowNkVFSER3UlJkelkzaTREaV9tTHVRNll3VEt0a0I1RFNiemFaTDFOTXV5TS1FSUpZWlE1LUh5LTF2MUFDNGw4U0h0VHMwbmhxdjRKMWNTTGR4NzZyMXVUaWRaT0MwbDgzTm1nczNB?oc=5",
+          "title": "Russian cargo ship still on fire off Finland after drone attack - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd2NCaGF6MUxSRzUwVFhLTFAxUzR6bnU3TW5PSE9vQzRrRnk4Qnd3d0ZpQ1RMYk1wZEd3eHVla1lNOFhZTHktekYwZWJ2eElMaXRpamVCWWFrSEpUTVQxVjRpdHJ2WG9SSFp1aXVHTTBXUWVCdHFHTFJzc0I3Zks1dzZxNS1zWjhCTFhKR0tCM3RJdy1YLXJsTWhwSGhJUktORXJwaTBaQjHSAa4BQVVfeXFMTjJuTVlYMUFraG1VUWhHUXY5TTJiMF9SajVvX1lqLWNtOTRqaHNsei1OcUVuN1NuVU5ucDNoa2lZZFk3ZGkzRm1ybW50UllFcUZveEhIMDBnaG5pVmdzTktDeWpfejBrVk9kQ0NQV2pWNDBfcTJ0eHNfYTM0cUNaZjNTdVFWV3VWWWFEeS0wWDFMYTZrbHBMeEl5NzItRE1jRE5qZG5mdFJ5VUxoV3lB?oc=5",
           "source": "Google News",
-          "published": "Sun, 22 Nov 2026 03:41:13 GMT"
+          "published": "Sun, 22 Nov 2026 10:45:26 GMT"
         }
       ]
     },
     {
-      "word": "Cartel",
+      "word": "Fire",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Eleven killed in burst of violence during Mexican cartel leader’s capture - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNamNOMXJXUnhxN2ZLeTNlekdQelVXYm1Va004b01XWm10MTdsdlRDUTNNeGNhVkx0RXd3NE5SQVo3TGM4ZXNwbkF4SkRfWVpFTmd3djdRajdmcDJwUUE3Y0EzcFk5d0NXbl9WYjJoM3lMVUVYYWF5NXdXVTdwTVFxQzc5ckozZWV2ZTNGcm1nejg0ZDlEMmYwRFNmQmNuOGVUY0RYd1BXc1lMenJEMWd1YWpaaS3SAboBQVVfeXFMT3RBQmVhWmJ0VnIwQzZyaGxhajZYSzhrdXo1dVUteHVILXBucVluQjFXWjRMQ0VnWDJCNzJYLWs0b1Z0N1VYRzd3VDZJbGloV0dGOVowNkVFSER3UlJkelkzaTREaV9tTHVRNll3VEt0a0I1RFNiemFaTDFOTXV5TS1FSUpZWlE1LUh5LTF2MUFDNGw4U0h0VHMwbmhxdjRKMWNTTGR4NzZyMXVUaWRaT0MwbDgzTm1nczNB?oc=5",
+          "title": "Russian cargo ship still on fire off Finland after drone attack - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd2NCaGF6MUxSRzUwVFhLTFAxUzR6bnU3TW5PSE9vQzRrRnk4Qnd3d0ZpQ1RMYk1wZEd3eHVla1lNOFhZTHktekYwZWJ2eElMaXRpamVCWWFrSEpUTVQxVjRpdHJ2WG9SSFp1aXVHTTBXUWVCdHFHTFJzc0I3Zks1dzZxNS1zWjhCTFhKR0tCM3RJdy1YLXJsTWhwSGhJUktORXJwaTBaQjHSAa4BQVVfeXFMTjJuTVlYMUFraG1VUWhHUXY5TTJiMF9SajVvX1lqLWNtOTRqaHNsei1OcUVuN1NuVU5ucDNoa2lZZFk3ZGkzRm1ybW50UllFcUZveEhIMDBnaG5pVmdzTktDeWpfejBrVk9kQ0NQV2pWNDBfcTJ0eHNfYTM0cUNaZjNTdVFWV3VWWWFEeS0wWDFMYTZrbHBMeEl5NzItRE1jRE5qZG5mdFJ5VUxoV3lB?oc=5",
           "source": "Google News",
-          "published": "Sun, 22 Nov 2026 03:41:13 GMT"
+          "published": "Sun, 22 Nov 2026 10:45:26 GMT"
         }
       ]
     },
     {
-      "word": "Leader",
+      "word": "Finland",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Eleven killed in burst of violence during Mexican cartel leader’s capture - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNamNOMXJXUnhxN2ZLeTNlekdQelVXYm1Va004b01XWm10MTdsdlRDUTNNeGNhVkx0RXd3NE5SQVo3TGM4ZXNwbkF4SkRfWVpFTmd3djdRajdmcDJwUUE3Y0EzcFk5d0NXbl9WYjJoM3lMVUVYYWF5NXdXVTdwTVFxQzc5ckozZWV2ZTNGcm1nejg0ZDlEMmYwRFNmQmNuOGVUY0RYd1BXc1lMenJEMWd1YWpaaS3SAboBQVVfeXFMT3RBQmVhWmJ0VnIwQzZyaGxhajZYSzhrdXo1dVUteHVILXBucVluQjFXWjRMQ0VnWDJCNzJYLWs0b1Z0N1VYRzd3VDZJbGloV0dGOVowNkVFSER3UlJkelkzaTREaV9tTHVRNll3VEt0a0I1RFNiemFaTDFOTXV5TS1FSUpZWlE1LUh5LTF2MUFDNGw4U0h0VHMwbmhxdjRKMWNTTGR4NzZyMXVUaWRaT0MwbDgzTm1nczNB?oc=5",
+          "title": "Russian cargo ship still on fire off Finland after drone attack - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd2NCaGF6MUxSRzUwVFhLTFAxUzR6bnU3TW5PSE9vQzRrRnk4Qnd3d0ZpQ1RMYk1wZEd3eHVla1lNOFhZTHktekYwZWJ2eElMaXRpamVCWWFrSEpUTVQxVjRpdHJ2WG9SSFp1aXVHTTBXUWVCdHFHTFJzc0I3Zks1dzZxNS1zWjhCTFhKR0tCM3RJdy1YLXJsTWhwSGhJUktORXJwaTBaQjHSAa4BQVVfeXFMTjJuTVlYMUFraG1VUWhHUXY5TTJiMF9SajVvX1lqLWNtOTRqaHNsei1OcUVuN1NuVU5ucDNoa2lZZFk3ZGkzRm1ybW50UllFcUZveEhIMDBnaG5pVmdzTktDeWpfejBrVk9kQ0NQV2pWNDBfcTJ0eHNfYTM0cUNaZjNTdVFWV3VWWWFEeS0wWDFMYTZrbHBMeEl5NzItRE1jRE5qZG5mdFJ5VUxoV3lB?oc=5",
           "source": "Google News",
-          "published": "Sun, 22 Nov 2026 03:41:13 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Capture",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Eleven killed in burst of violence during Mexican cartel leader’s capture - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNamNOMXJXUnhxN2ZLeTNlekdQelVXYm1Va004b01XWm10MTdsdlRDUTNNeGNhVkx0RXd3NE5SQVo3TGM4ZXNwbkF4SkRfWVpFTmd3djdRajdmcDJwUUE3Y0EzcFk5d0NXbl9WYjJoM3lMVUVYYWF5NXdXVTdwTVFxQzc5ckozZWV2ZTNGcm1nejg0ZDlEMmYwRFNmQmNuOGVUY0RYd1BXc1lMenJEMWd1YWpaaS3SAboBQVVfeXFMT3RBQmVhWmJ0VnIwQzZyaGxhajZYSzhrdXo1dVUteHVILXBucVluQjFXWjRMQ0VnWDJCNzJYLWs0b1Z0N1VYRzd3VDZJbGloV0dGOVowNkVFSER3UlJkelkzaTREaV9tTHVRNll3VEt0a0I1RFNiemFaTDFOTXV5TS1FSUpZWlE1LUh5LTF2MUFDNGw4U0h0VHMwbmhxdjRKMWNTTGR4NzZyMXVUaWRaT0MwbDgzTm1nczNB?oc=5",
-          "source": "Google News",
-          "published": "Sun, 22 Nov 2026 03:41:13 GMT"
+          "published": "Sun, 22 Nov 2026 10:45:26 GMT"
         }
       ]
     }
