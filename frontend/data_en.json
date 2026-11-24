@@ -1,73 +1,55 @@
 {
   "language": "en",
-  "last_updated": 1795499450.5985277,
+  "last_updated": 1795541118.4438412,
   "count": 40,
   "trends": [
     {
-      "word": "Trump",
-      "count": 6,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump told the Army to pause the detonation of 9,500 pounds of lead azide in Iowa. Here's what to know - PBS",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV01BanduWXlNQWlDV2Y3R3lJSnB6Y2RfZnlDbEVHV291YVNlbzBWdXI3Y0JDbDZZVkFhMFRpeHFNSDRZYkJoQU5XUTF6cWtCcldOc3VSS3MxNVBBWlRpZkZnbk9MNXhEMVFNSUIwSFQwbFRMSmRHYVZTRWJlTHlZMGJjZkVybzd5cEh1QXByZDVEZEs5YjZJX1FDc19TeFc0UFlaOFNJY1RvYVFvTk16Um0wa3dRU0JVbUU2bjNvM1QzMy1tN2dsdUE3bTl6dzZv?oc=5",
-          "source": "Google News",
-          "published": "Mon, 23 Nov 2026 22:05:00 GMT"
-        },
-        {
-          "title": "Trump: DOJ working to overturn Newsom’s death row commutations - The Hill",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSFo1VHBPNTNKLWJsTk0xeUdQN2NJQTJBbkF3OHFOWTBOalRnMTJrMGpvX2pBY0loWDV6R0FBc21SUmIyR0VHRXpqb0pjaHNyQWk5by1PTW5GTUJjZDhsWWhZQkgxSkJXZy04WGRTaERZdVM0UHFzcWh6V2QycUlMVmlrd013bTc5YkVVVNIBkgFBVV95cUxQX1RiR1BOSGkxUi1rTV9yRF90dmRJUHhQUnUxSGFCT3RQRVdvUjZTSGVobl9HNUNFbFh4ZG1sM1lUOHVXZ2tldjhCZDdveWtra0dvLVQxTEZMUl83dV9WaXVXdDMyZ29SZmRKclhIT0tUUjRFdEwzTDlnTjBSeVZYZGhVTXlSYV9XcjFvTUlFS0tUQQ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 23 Nov 2026 23:24:00 GMT"
-        },
-        {
-          "title": "Mamdani joins cities in suing to block Trump’s housing rule for mixed-status families - Politico",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNGx0RFFieXdyeE83RFlERWZ4UFJfZVQtdGpZMXRSaEU3ZDItLXBiQWJlTE1NQVN2RklzelEzQ0JSbGdjdDY2V1lHTnNrcDM3ZlNMQXktZVctRFE3Tk5RM2c3RG00R2Y3RFFsdXNZcHpPSzJ5eEdZdnAtWWtNWGVLWVE4cVBRc0RnN055UGhnNDNNV0VKNlQ4MzNSZko0Q01QSGtDM3JqRWZ0cTBhWU5xUEVDSkFlLTBXMU1mUVJ6OXZpNTJUajV4bUoxb1pkR1U?oc=5",
-          "source": "Google News",
-          "published": "Mon, 23 Nov 2026 18:00:00 GMT"
-        },
-        {
-          "title": "Federal appeals court gives President Donald Trump a path to erasing hush money conviction - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcVdZZl9tRjc0WjhZbUY0NVZvdTRDQ01ZOTl4RmZUQndRR0ZHRmpkRVJ6ZjFCQzJYVml0cnoycjNWaW1rWWVENmJHbS1xaHZLc1U5azdFRmU4UmdDa0thQmlkeW9GZlhmeElDTS1NWXFHUmJPOFFBZU1rbml2dWxQQnRMVTMwSmxDTDFPQU92WTJBaUNEclZB?oc=5",
-          "source": "Google News",
-          "published": "Tue, 24 Nov 2026 01:00:00 GMT"
-        },
-        {
-          "title": "Tamara Keith and Amy Walter on Trump's role in Huang’s reinstatement - PBS",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeHRzLWlORW16MnlfU094cGt0TU5rZ3hvOU9ocDN5SmRidHhoMUVkOHV0TXNGd1dHcEZoeG0zYkdsWWZoUWU3a0ZoUFNHXzJreVNXODRyak5URFpBU1loTlV3N3dyRTFTSnNVY0hYMEw3WE9sd2xFeWY2WHVna19nbU5vcGRQQ2h4dlBnTDBmNV94UmVMeVVNS0M0TkRhTVhPcFE?oc=5",
-          "source": "Google News",
-          "published": "Mon, 23 Nov 2026 23:30:35 GMT"
-        },
-        {
-          "title": "Trump administration blacklists Megaspeed, key firm in Nvidia scandal - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdmlyVWhMSk5veUZMcWQ5dlRSRGdwenl3TnBpeER3cVVwYzVoellWQ08xX3ZfaHZUaXV1bVVaLVltVUxGZkhVTkw5cExBQVRobjZwR1dDeTZIZk52cmNQanQ3V1luc0tZN2RWa3g0QTFBV3NVaUZEWlhUSXhxZVJYMFJEdlVvenZ0QndCUm9WcXJGdGlXYlJJemhPcXFRWXdUcV9aZjNJXzg4UWpZQXA0NjFaRE44NHFnZTBr?oc=5",
-          "source": "Google News",
-          "published": "Tue, 24 Nov 2026 03:12:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Russian",
+      "word": "Thanksgiving",
       "count": 3,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xampkdUlKOThsOWVKdzRnQWVORURqT1VYb2ZkMlBkUkFBNldUWGNWcXd0bU1rZE82MktIMUhITWVCcU9kakplb2NQcUlDaEg0X0pTQ054a0JkeGc?oc=5",
+          "title": "Thanksgiving travel forecast: Storms to batter US coasts with heavy rain and flooding - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UWE90b2V2THN1bVlGbjdJa1JyOGxIUjZqUllnUjQ4SzRhZERfUEVBQU9feU5kd0V2YkY0QW5YNVZTWEVjM3lvb19aS092LW15ZFVKTGNVTzRITnFKa29F?oc=5",
           "source": "Google News",
-          "published": "Tue, 24 Nov 2026 02:15:59 GMT"
+          "published": "Tue, 24 Nov 2026 11:38:49 GMT"
         },
         {
-          "title": "Poland to get NATO early-warning aircraft after Russian missiles hit country - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMEV3R09aQWhXWERGUjZxM3kzdURrdktKUU92VFhpcWVPUmRzQXdRVUgxdWdnbjBIVEpOYUgwTEs3Vzd1UjNOVXN1bXJoSHoxNTBhNFVGcEJXUzRHUTFYR1g3VEtCclNDZEZQZEYzX2NLUEJtMUd2YTYtSURTTEVLN1RsVlozSDRkZ3dISzVwTmZqS09jYVIyV2tyQW9PODdyVVRjcFBnaWRtSHk0SDg5Uw?oc=5",
+          "title": "Prisco's NFL Week 12 Power Rankings: Thanksgiving feast offers a proving ground for contenders - CBS Sports",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWnZkdG5vbUtjcmIyRHh6cUwtODI2bmN6Q2ljNkpjNjEzdnFrVHByQUZmYUh4bE5idmdDcXRFQlQ2R3IycDNvbzZnOEFCR2VTN0dTLVRKbjJpN2RTRjZJbkxxSWY5UTJCaWRZQXlFTndvaEgxbndJcU1SbVpDNnVhcDNldmlFcmtoUDVMM0RzZjh6WjA?oc=5",
           "source": "Google News",
-          "published": "Mon, 23 Nov 2026 19:22:31 GMT"
+          "published": "Tue, 24 Nov 2026 14:33:23 GMT"
         },
         {
-          "title": "Ukrainian naval drones strike a new Russian warship in Libya, and other Mideast news - AP News",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNkttSjlveXdrMHJKLVNYMWNTMFh3YlJtLXRtTXcwUnI2Z3VMOWJPajRpelJzRDk0ZG0xekVqSlpoM1dac1RwU045bjdjREd3NENUYTdHcHFiMEt3WWdVcDA4S3JMOVBfR2hNdV9YLXpiNTd6OC01QzctQmxaX2I4TmNmLXd4MVJxZkZ5T09NT01uZHhpYVNKQ052YVUybll3SHl1MTBNMGx2Um1vekdPTVptQU1XUQ?oc=5",
+          "title": "Reported flu cases surge across New York ahead of Thanksgiving - Gothamist",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUzA4Xy0wRG9xMVV3WWRsT29GQVNRM2lnZ3NvWHI1U2Q1blBsbTNTb3ZYTXJPdG1GWmxhVWdGX1ZOZHh4a1VGc2xWeTZpcWEtaGdReTNNS0JjenBrQVNEVkFjTHlLWnFlUzM5bGFNcWpNREZGTWhQbWRRTDhlUmhYVXMtLUQtYXRDY294eEVEaWdmMzg?oc=5",
           "source": "Google News",
-          "published": "Mon, 23 Nov 2026 21:23:00 GMT"
+          "published": "Tue, 24 Nov 2026 15:08:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Nvidia",
+      "count": 3,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump’s push to restore Nvidia CEO could haunt the company in Congress - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVzVxZVNRdHFIUXNNLU56dXFBU2JwMTJ4WTNwYkwxcFY0VEpsX1h5TG9rOUtsaE1OcmlFNl95RlNjaW5NQmI4cjd0bHdpOGJNZVZ1dVVNWXFQNlFoOXplM3hweEtRWGpLOGdPUmJ1b1F4TFZFc3hSM2h1bnZ3Z0xqNmxLQUFJV0NrMEczRzUxU3oyMDhQUlVyLXVjZ3prbnhJNFpld05rSFZiaEpnTVdMRTU3UHdGamN6X3ZROEFUbzc2dU0?oc=5",
+          "source": "Google News",
+          "published": "Tue, 24 Nov 2026 16:03:17 GMT"
+        },
+        {
+          "title": "Nvidia stock falls after epic rally on Jensen Huang's return as CEO - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ2VuMWM0TmxDX1JHckNONUktS3M3eFVSbDVJeWQ0bWZsUFlhWTZ6dkZWSi1lUTlZUjVnamk5OTQ4bTBBc2ViWHJzekF0cTlWSlo0blR1ZkU2RDNYVU5QbnJOaDcwZVlmWlljTHEwRV9wQ2pfdG9nNG1icTZvcnBwalZFZGRCa3Q0dTNvQ2dWcVdzTnlGcHZEajN4ME5URDNTTV9RODhxSWQzdlBTZUZDZTF1ZkExektQMVhibk5PdFoyMEJfMmtIYnZR?oc=5",
+          "source": "Google News",
+          "published": "Tue, 24 Nov 2026 17:11:23 GMT"
+        },
+        {
+          "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXE4aUdTVGFvS0Nqd0tXS2E2Y2IyU0dQSEhGRVM2WlVwdXRRczRRUlNuZ09QWjY0OUJrLVZYeEdTaE9hTW83VG9mMV9aVFNVZWQzT3QwMXZaNGd0WmV5LXE2QURZQ1lUSlI5VWdSLWlOYkp0OFZZVFlvMDVYbmhERk91cUZkcGd1dm1UTkMtTEJvU2pmRHk4WW95RUc0SmNQdllqbw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 24 Nov 2026 14:17:00 GMT"
         }
       ]
     },
@@ -77,358 +59,270 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Ninth measles-related death reported - WGAL",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRm5TWFd4cGpyY1lkUHdEMUNMMFp3eE1Tc01SYWlTYWYwRzVwLXVlbEwxTk12Y3oyellwMXVuMldLc0tLaTNVVVVYQWxhR2FFZzlDTDJSNEhxdUEtYkc1YW45NThTWVBaZlpfX2VReDF6Rnp2SkJlX3YyTzF0LTdVWTFTU3BTM21IM0FXWTJpa1d1QQ?oc=5",
+          "title": "Pennsylvania reports ninth measles death in ongoing state outbreak - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUDJrMHJRRmVQdjBiV0RZT3paRmp6R21DblU5Ull5dV9GQ2cwTENkemEwOXNoeklBelFtNmpaREJucU1ScGxnU3dwN3J2azFBTFozV0JneS01TEtyMHBucHotcFRzVnJVdHo1aFV5Q0E0d29KcTcwSUFFU0lVQVpnLTRJc1p4V3VJWkRzZ3FGY1ppQWF4RGwzWXpZNVNVMVJlYTRCNHVBaF9zam9f0gGyAUFVX3lxTE5CYlZuSkZfSTUySlNJd254Tmd4LXk3QWZXRkJkYnF5YzI4Yk9OdHJ2WENUQzZUUVU0RXIxelZSTFlDSzREMTlNRkU1V0JodUxPdzZLenZIczdnQmx6a0taWHBpeEZJSWR6eFJlMVJNQjZLNVctTm8zYU5iaUNxdjdfSS1meDZYZVZNWEQyR3RwYkhHdjRudFBIVmdEOVNMOUxGbEl6ai1HcDdVRzlKU0xRd1E?oc=5",
           "source": "Google News",
-          "published": "Mon, 23 Nov 2026 23:17:00 GMT"
+          "published": "Tue, 24 Nov 2026 05:02:39 GMT"
         },
         {
-          "title": "Child who tested positive for measles has died, Virginia health officials report - 9News",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZEFXUmh6U2J2VXZhM2tlal9RYW50R3lFVC1ESVBNQmE0RUR4QnpsbW9RVG00T1FOQkN3MU1reDhUN0pMOU4zYUo3enZubWNvOUg5WEFweHRvZ0FUSmdfLXdDYm1vYy03VFJqaXdGS2M5SkpveGNkRFEzVWM0Y096YnU4SWpGS3JJZVBrM0hFNEo2X1oxbTdIMS1nMGk2VXRXdmtEMVZtMGlrSV9yUFoyUDg4TjRRb2FK?oc=5",
+          "title": "Opinion | It’s not just measles. RFK Jr.’s vaccine policies could bring back another disease. - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcEVDclJRcDEtdU1wNmVoOWhUaE5WcFl1cnBJMXE5MFRNb3dzQ2NScWxGNTB5VUJUOTU0T1l0ZFB6QkdhQlpjQXBEbW9ydGR5dnRPbE1BZnNKYjNOQ0VyUHRKU1FQSU1LVG5Sak8wSmtYWXcxazktdURuZlZJYW53dDRFNlF3Q3E3U212Zk5SUnp6a0c4bzVzclRQeHpJSVViY2Q3OGkzWW53TzRlNkpGNmNmNzRmSnFYcXc?oc=5",
           "source": "Google News",
-          "published": "Sun, 22 Nov 2026 12:35:00 GMT"
+          "published": "Tue, 24 Nov 2026 16:16:48 GMT"
         },
         {
-          "title": "SD doctor, mom react to measles cases concerns - KELOLAND.com",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPem1CZVJXSmJGOGZ0UzAxTmtaYW5ORmpHd1lPclNuUWpGSlozTl9obkVlcHduWGF6OU9oRXZ2V2dyek1tei10ZmY2VG1HYkJ1X0Y2dks3bDJYZ05PQmFuVlJlQVo4WHJ5U2xid2xMdUVPVXYxR21FTzFMZWhVNkR4RHJVY0V4NG5TMDJjMHlzYnrSAZYBQVVfeXFMTWpRNTlVSDdvWHRlaTJyaTVQWVJKRXVRVElRQXd4c25ZblU5cGFmeFRjUGVaaFJaamtKcTBNMkVma1hXQms1STlRWXNEM0ZRMGpvZ0JPN0dhc2dEWEpJRGR3ZGJ2N0dPTkt6a1EzX2s4bUhoTVF0VmJiY015aDJsSXE5SjZRbWlhTWtLSHpTQkR0ZmhHeGhn?oc=5",
+          "title": "Can you get measles if you are vaccinated? Explaining the MMR vaccine - USA Today",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbUZRNEhOeUFEQV9idFh5bTRMcnluc1VfNUM0YVRHTTVtX1FRUzNZczNWUUpUQmlQaWp0QllsUXhOMVctdnh5Vm9UdE1mVGtzSmMtSUZsel9Na1Q2SlJIMzRjMGpkdUJsNmNKUDhMaFlFYTZjRDMwdFpGTk9aZm0xTldYTGVCZDdxRk5HSzliREt5RkZTVXJrek5fWFJSR1E?oc=5",
           "source": "Google News",
-          "published": "Mon, 23 Nov 2026 00:15:16 GMT"
+          "published": "Mon, 23 Nov 2026 18:51:00 GMT"
         }
       ]
     },
     {
-      "word": "Rep",
+      "word": "Flooding",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Rep. Jimmy Gomez to resign following sexual misconduct findings - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdERLTDAxdzBmSzFzb3F6WTNmMkJQQmsxUjdSQjNFYUdoUmYzLS1HQVY5Q1F2TlRqS0tjVDdPZWs4REFPNWJSVUtHS3E5VzZxbFpMc2VNZnV5ZU44d0pwLUhURWlRREtlRkdtZDlSWDFZNkVIZkdsNXFJVGhnWGFDNXRpRENoeGoyRldrUTNEMHdSNnF1RzJwSjlUNFlmMHRCdGlJckJfZzNpZm1RSHRYRFNFa1NEcTBDcFoyQkdseTliWENZ?oc=5",
+          "title": "Thanksgiving travel forecast: Storms to batter US coasts with heavy rain and flooding - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UWE90b2V2THN1bVlGbjdJa1JyOGxIUjZqUllnUjQ4SzRhZERfUEVBQU9feU5kd0V2YkY0QW5YNVZTWEVjM3lvb19aS092LW15ZFVKTGNVTzRITnFKa29F?oc=5",
           "source": "Google News",
-          "published": "Tue, 24 Nov 2026 01:45:46 GMT"
+          "published": "Tue, 24 Nov 2026 11:38:49 GMT"
         },
         {
-          "title": "Gabriel Iglesias Is ‘Doing Fine’ After Being Helped Offstage During Show, Rep Says - IMDb",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFVDlES0hrSG5pY3BjYTlXa2p6OXJyRkVlTWdlV1E0bFdsZ1FIT3NhU0x3U0dlNEd0aTJEMTRBUERlUHNfcWVzVVZxUlY5Q2dkUHNnbW82NmF6R3dJenhsdl95aDdTekRVeEE?oc=5",
+          "title": "Live storm updates: King tide flooding begins in Bay Area, causing road closures - ABC7 Bay Area",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdlJ3bzd6dnZTdzZrYTR5RWRnNTF1OE1IXy1hME8zVWlNdFBjZXBtQVo1VER5NF9YelIyZXlQWkxSbzU0SUxWdUlYVzMzZmVKVW8tM3ZKSkJybEI1eGcwZEhjMzhSZUtPNDRsRHh2ZVRpUkpLelJsSGRHTzVkelZlSXNLQ0M5Tk1iX0R3eVFuT3piRFdpU3BmZi1JQkxicEk2MTk2TUNjRGRESUlwNWdkeXRuMkZiZGJjRWFPOGlIaUw1SVhzWFpxX3V1a3ljT2xFRjhJckFVeFZtWFhZUmxFX0g4NHpXZjBka0tNdHdGc3VlT3g4?oc=5",
           "source": "Google News",
-          "published": "Mon, 23 Nov 2026 23:38:41 GMT"
+          "published": "Tue, 24 Nov 2026 16:43:00 GMT"
         }
       ]
     },
     {
-      "word": "Death",
+      "word": "Russian",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump: DOJ working to overturn Newsom’s death row commutations - The Hill",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSFo1VHBPNTNKLWJsTk0xeUdQN2NJQTJBbkF3OHFOWTBOalRnMTJrMGpvX2pBY0loWDV6R0FBc21SUmIyR0VHRXpqb0pjaHNyQWk5by1PTW5GTUJjZDhsWWhZQkgxSkJXZy04WGRTaERZdVM0UHFzcWh6V2QycUlMVmlrd013bTc5YkVVVNIBkgFBVV95cUxQX1RiR1BOSGkxUi1rTV9yRF90dmRJUHhQUnUxSGFCT3RQRVdvUjZTSGVobl9HNUNFbFh4ZG1sM1lUOHVXZ2tldjhCZDdveWtra0dvLVQxTEZMUl83dV9WaXVXdDMyZ29SZmRKclhIT0tUUjRFdEwzTDlnTjBSeVZYZGhVTXlSYV9XcjFvTUlFS0tUQQ?oc=5",
+          "title": "Russian navy licks its wounds as another warship is sunk - Financial Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMVZBeVVQUkZfaHk1TlpBbmZrenNvM2twSE9wcG9IZ3ZOYzZBMU8zY2RyTDZvMHZQUGRkUkhaTTEtaWlLUE85ek41M2RxQ19mc0JOdVNhdlhaZnpoNzZOMU9mOHk0aXBtbWFpSTdWVERHU0dTajhkVTRuTFNFb3RxVkduY3k?oc=5",
           "source": "Google News",
-          "published": "Mon, 23 Nov 2026 23:24:00 GMT"
+          "published": "Tue, 24 Nov 2026 11:00:04 GMT"
         },
         {
-          "title": "Ninth measles-related death reported - WGAL",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRm5TWFd4cGpyY1lkUHdEMUNMMFp3eE1Tc01SYWlTYWYwRzVwLXVlbEwxTk12Y3oyellwMXVuMldLc0tLaTNVVVVYQWxhR2FFZzlDTDJSNEhxdUEtYkc1YW45NThTWVBaZlpfX2VReDF6Rnp2SkJlX3YyTzF0LTdVWTFTU3BTM21IM0FXWTJpa1d1QQ?oc=5",
+          "title": "Russian Warplanes Trigger Alarm Among U.S. Partners in Asia - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOThCM0hld0RLVUt5VXhQNmFGeUJfR0NsQVlSdVlFQXFWSzlDYk5YUUZuSDNyYzlyaHN0Yk0wQXJEYTkxaHcxNV9OQXBncDdrbHE3eWhQMk9YSlM2cXpUWGJhaXEzdGxQb3R0amJvalgwY25nT0VqYVBGQXFxNzZFUmEzSVMweXRmczN0bmN4b0lxY0x2b2g1Ug?oc=5",
           "source": "Google News",
-          "published": "Mon, 23 Nov 2026 23:17:00 GMT"
+          "published": "Tue, 24 Nov 2026 12:23:00 GMT"
         }
       ]
     },
     {
-      "word": "Nato",
+      "word": "Court",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xampkdUlKOThsOWVKdzRnQWVORURqT1VYb2ZkMlBkUkFBNldUWGNWcXd0bU1rZE82MktIMUhITWVCcU9kakplb2NQcUlDaEg0X0pTQ054a0JkeGc?oc=5",
+          "title": "Federal court releases Rep. Ilhan Omar Washington, D.C. home raid documents - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa0d2X19MZExIZ0t5bmFubFBaaDhUd2czSWZUVGl0dnR0YmtTVXItb0xxRXhZN1lqRW4wS2h6eFFUUzJ3ZnFUbGo3T1BBako4ZTF2NE5PUHFzYVhXdVBoUmJvTDNLeGNUZ3ZJRHgxclFYb0hQUjZkcTNZV2FpNklDVGFWZzhDanlnbVlXc05MZnJIcFVqSmtrQg?oc=5",
           "source": "Google News",
-          "published": "Tue, 24 Nov 2026 02:15:59 GMT"
+          "published": "Tue, 24 Nov 2026 16:29:17 GMT"
         },
         {
-          "title": "Poland to get NATO early-warning aircraft after Russian missiles hit country - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMEV3R09aQWhXWERGUjZxM3kzdURrdktKUU92VFhpcWVPUmRzQXdRVUgxdWdnbjBIVEpOYUgwTEs3Vzd1UjNOVXN1bXJoSHoxNTBhNFVGcEJXUzRHUTFYR1g3VEtCclNDZEZQZEYzX2NLUEJtMUd2YTYtSURTTEVLN1RsVlozSDRkZ3dISzVwTmZqS09jYVIyV2tyQW9PODdyVVRjcFBnaWRtSHk0SDg5Uw?oc=5",
+          "title": "Japan’s Leader, in Break with U.S., Defends International Criminal Court - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX2pwdGlHY05MZ1FBb2gxNGt6TlI2ZGpjX2tnX0ozSlMzUDZBWkNEbDVRMmZjX1lQZVlweG5nR01fN0FkNTJIUFNoQ2NQT3VxRjNKMURObTlCcktfX3hQRmQtT2R0bW1pejFjTHd4VHR3ZGMydUJBTWlfTWdzcUwwNmM5YVdGc1U4bjlyMHZPT0pvd0lrcHBuNDhmM3BkWEJtWHc?oc=5",
           "source": "Google News",
-          "published": "Mon, 23 Nov 2026 19:22:31 GMT"
+          "published": "Tue, 24 Nov 2026 10:35:29 GMT"
         }
       ]
     },
     {
-      "word": "Calls",
+      "word": "Japan",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Husband of woman detained in viral ICE arrest at Seattle airport calls episode \"unjust\" - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE94VFB2QTlTX0NENXBHTjZrZk1BaGJCT01tVndHaFhkV1I5NG5RRlRnS1hxVzNXX2FZSXlZeWItQlA3UzJ4MC14cUxvekswdEcxYTl5WmhjZ19ublN5RXhZQmJjN0hrdUNPUXlKZjd1a0pkQQ?oc=5",
+          "title": "Japan’s Leader, in Break with U.S., Defends International Criminal Court - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX2pwdGlHY05MZ1FBb2gxNGt6TlI2ZGpjX2tnX0ozSlMzUDZBWkNEbDVRMmZjX1lQZVlweG5nR01fN0FkNTJIUFNoQ2NQT3VxRjNKMURObTlCcktfX3hQRmQtT2R0bW1pejFjTHd4VHR3ZGMydUJBTWlfTWdzcUwwNmM5YVdGc1U4bjlyMHZPT0pvd0lrcHBuNDhmM3BkWEJtWHc?oc=5",
           "source": "Google News",
-          "published": "Tue, 24 Nov 2026 01:49:00 GMT"
+          "published": "Tue, 24 Nov 2026 10:35:29 GMT"
         },
         {
-          "title": "Bela Bajaria Calls Time at Netflix a “Fun Chapter” as She Teases Rest and “Conversations” in First Remarks on Exit - The Hollywood Reporter",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMnhUNGUydDRhMVlpNXVrTWZJQnEtcFBySFotWnpqNXd4U2FpNHhGOTBVWmdISkdET2FNWjdpcGU5VGVaV09RcHFmaHJ5OXNWeElMRUJPYzZvTmpEVFVZM3dWMHdYUGgzcHg5UzM1Z0pzUjN2X1o2Zmg3Rll1M015R3M2MWdmTU12UVhfTHdqanBCVG9ObmlRajhvTUYya2NFMzJF?oc=5",
+          "title": "Sources: Cubs agree to 6-year, $120M deal with Japan's Teruaki Sato - ESPN",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSEl0dWV2U1BaWWtHSkdwN3hlMWQ0S2xRRnBtVVRZVWF3YVhPS05HVkFMRmhrTHNhMk5BakJvMkZLN1loVmw3YjYzRU1xdF9oLTRDZzJzOVg5Y2d6WTlEWHNJNFNGcWpNNkltNXlsWUFpcVlJdloxc1JQUUlKOGVPSWx3OUVDMnJrVEhiNElUVlJlbXJaVE13Uw?oc=5",
           "source": "Google News",
-          "published": "Tue, 24 Nov 2026 02:47:07 GMT"
+          "published": "Tue, 24 Nov 2026 15:18:00 GMT"
         }
       ]
     },
     {
-      "word": "hit",
+      "word": "Trump",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Rough weather expected to hit both coasts, may disrupt Thanksgiving travel - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY2pNUkN4LXZiQlIySy1sZ01UeXBHQmc1M0hxVWNRcVQycmY1UnRRQlFmdUpycURZbUNhNXY2RzJxREMwRW5Za2lucUt2blJneG5NcHFCSUFUamoyREhfblh4T1hzZXd2SGQ0NS1mTDhfc1hQTEpiS1hRS0VpcEUzSUFBX0NCNWhzcUNueWlFeTNTYnpnal9VbnBVVFJiZzBtSDBnblcyZFdwWWYtOVZ1dHlBQ3RHbHA0MUE?oc=5",
+          "title": "Trump’s push to restore Nvidia CEO could haunt the company in Congress - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVzVxZVNRdHFIUXNNLU56dXFBU2JwMTJ4WTNwYkwxcFY0VEpsX1h5TG9rOUtsaE1OcmlFNl95RlNjaW5NQmI4cjd0bHdpOGJNZVZ1dVVNWXFQNlFoOXplM3hweEtRWGpLOGdPUmJ1b1F4TFZFc3hSM2h1bnZ3Z0xqNmxLQUFJV0NrMEczRzUxU3oyMDhQUlVyLXVjZ3prbnhJNFpld05rSFZiaEpnTVdMRTU3UHdGamN6X3ZROEFUbzc2dU0?oc=5",
           "source": "Google News",
-          "published": "Mon, 23 Nov 2026 17:48:11 GMT"
+          "published": "Tue, 24 Nov 2026 16:03:17 GMT"
         },
         {
-          "title": "Poland to get NATO early-warning aircraft after Russian missiles hit country - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMEV3R09aQWhXWERGUjZxM3kzdURrdktKUU92VFhpcWVPUmRzQXdRVUgxdWdnbjBIVEpOYUgwTEs3Vzd1UjNOVXN1bXJoSHoxNTBhNFVGcEJXUzRHUTFYR1g3VEtCclNDZEZQZEYzX2NLUEJtMUd2YTYtSURTTEVLN1RsVlozSDRkZ3dISzVwTmZqS09jYVIyV2tyQW9PODdyVVRjcFBnaWRtSHk0SDg5Uw?oc=5",
+          "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXE4aUdTVGFvS0Nqd0tXS2E2Y2IyU0dQSEhGRVM2WlVwdXRRczRRUlNuZ09QWjY0OUJrLVZYeEdTaE9hTW83VG9mMV9aVFNVZWQzT3QwMXZaNGd0WmV5LXE2QURZQ1lUSlI5VWdSLWlOYkp0OFZZVFlvMDVYbmhERk91cUZkcGd1dm1UTkMtTEJvU2pmRHk4WW95RUc0SmNQdllqbw?oc=5",
           "source": "Google News",
-          "published": "Mon, 23 Nov 2026 19:22:31 GMT"
+          "published": "Tue, 24 Nov 2026 14:17:00 GMT"
         }
       ]
     },
     {
-      "word": "Thanksgiving",
+      "word": "CEO",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Rough weather expected to hit both coasts, may disrupt Thanksgiving travel - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY2pNUkN4LXZiQlIySy1sZ01UeXBHQmc1M0hxVWNRcVQycmY1UnRRQlFmdUpycURZbUNhNXY2RzJxREMwRW5Za2lucUt2blJneG5NcHFCSUFUamoyREhfblh4T1hzZXd2SGQ0NS1mTDhfc1hQTEpiS1hRS0VpcEUzSUFBX0NCNWhzcUNueWlFeTNTYnpnal9VbnBVVFJiZzBtSDBnblcyZFdwWWYtOVZ1dHlBQ3RHbHA0MUE?oc=5",
+          "title": "Trump’s push to restore Nvidia CEO could haunt the company in Congress - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVzVxZVNRdHFIUXNNLU56dXFBU2JwMTJ4WTNwYkwxcFY0VEpsX1h5TG9rOUtsaE1OcmlFNl95RlNjaW5NQmI4cjd0bHdpOGJNZVZ1dVVNWXFQNlFoOXplM3hweEtRWGpLOGdPUmJ1b1F4TFZFc3hSM2h1bnZ3Z0xqNmxLQUFJV0NrMEczRzUxU3oyMDhQUlVyLXVjZ3prbnhJNFpld05rSFZiaEpnTVdMRTU3UHdGamN6X3ZROEFUbzc2dU0?oc=5",
           "source": "Google News",
-          "published": "Mon, 23 Nov 2026 17:48:11 GMT"
+          "published": "Tue, 24 Nov 2026 16:03:17 GMT"
+        },
+        {
+          "title": "Nvidia stock falls after epic rally on Jensen Huang's return as CEO - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ2VuMWM0TmxDX1JHckNONUktS3M3eFVSbDVJeWQ0bWZsUFlhWTZ6dkZWSi1lUTlZUjVnamk5OTQ4bTBBc2ViWHJzekF0cTlWSlo0blR1ZkU2RDNYVU5QbnJOaDcwZVlmWlljTHEwRV9wQ2pfdG9nNG1icTZvcnBwalZFZGRCa3Q0dTNvQ2dWcVdzTnlGcHZEajN4ME5URDNTTV9RODhxSWQzdlBTZUZDZTF1ZkExektQMVhibk5PdFoyMEJfMmtIYnZR?oc=5",
+          "source": "Google News",
+          "published": "Tue, 24 Nov 2026 17:11:23 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Scandal",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXE4aUdTVGFvS0Nqd0tXS2E2Y2IyU0dQSEhGRVM2WlVwdXRRczRRUlNuZ09QWjY0OUJrLVZYeEdTaE9hTW83VG9mMV9aVFNVZWQzT3QwMXZaNGd0WmV5LXE2QURZQ1lUSlI5VWdSLWlOYkp0OFZZVFlvMDVYbmhERk91cUZkcGd1dm1UTkMtTEJvU2pmRHk4WW95RUc0SmNQdllqbw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 24 Nov 2026 14:17:00 GMT"
+        },
+        {
+          "title": "Rob Lowe: Did sex scandal at Democratic Convention pave way for star’s MAGA turn? - The Independent",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUTlYT1B5Q3A1RVdsMmlfWFd3eE9RbUsyakFDMUtQOGZBU0kyeDhfSW00MTVldVhRTHhJTFJ3VDd2b1dJLVh6MENDZU9GTm1xb1dUeEg4eU9WZXFMQkpFdC1WR1VyUExJc2ZnUjhYMU40MVhEdHhFVl94WUJtZGYyVkl5TlNVSzYtX0xsaE1YR1RlM190dVROcE9fOWhRSk14NjNSU3hfMmhWZ2hEdGpBcG1aZjhJZw?oc=5",
+          "source": "Google News",
+          "published": "Tue, 24 Nov 2026 13:41:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Fourth",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Anthropic Shares Plunge 6% Below IPO Price in Fourth Trading Day - Bloomberg",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT0hkbFdEeDFKTWo1UXlkenJzS3l0QWpGSDdIWGxpbTdiMkpzVkl0bFN0d2RUSGxJS3FxNFNjeEVOeE9qUlB6X1ZKNldQdFA5b2NUam1pZjQzXzFZSFZYQ21mUXJlSzVvOWs5dS1lc3A2NG5zeGQ1RXlQR0c4QkxOUVNQUzNyYzBMT1A5emhvX2VNc2thcUJoSjhqYzZjM0Y2ZmdQellESkczaXc?oc=5",
+          "source": "Google News",
+          "published": "Tue, 24 Nov 2026 15:46:14 GMT"
+        },
+        {
+          "title": "Who's on the College Football Playoff bubble before committee's fourth ranking? - ESPN",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaUtScnBia3NYWl9YX29mR3VkcGduVnNrNHZrdjBJUE1FU2R1YTg4TEVOaFVyamUxeDQxaEtqTDdVSEZuOGhLcExnb0pVZUNSR0JGbFJfb3Q4WUNKYmhuTlB5NHd0d0tNVlQ1RjZRT09MMldGQ1RYcTRJbXJkaWRiUjk5dXphU1E0SkcyelZ4aGZpeW5hNzJXUjhYWnJqa0g4RGxqM1p1eXZSclE?oc=5",
+          "source": "Google News",
+          "published": "Tue, 24 Nov 2026 11:24:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Ahead",
+      "count": 2,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Apple’s AirPods Pro 3 are a whopping $100 off ahead of Black Friday - The Verge",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN21jX181My16QUFKVzJMTzVXc1ZiRlVJblpOYl9ZdnlvQ3dOdi1wNllOeUhJSExKcFBib3g0Y1VyeS1OcEthVUJnaWtickxtWEpMU3Y0Y3VEY2ZpXzdQX2p3STFSYl91MVRQU1NwMTQ5Q1VQbVIwWjBrQTZNUWJpdzl5VnBHbkNRckNNdHFYQy1qWlBlM19pdW51UGo?oc=5",
+          "source": "Google News",
+          "published": "Mon, 23 Nov 2026 15:00:44 GMT"
         },
         {
           "title": "Reported flu cases surge across New York ahead of Thanksgiving - Gothamist",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUzA4Xy0wRG9xMVV3WWRsT29GQVNRM2lnZ3NvWHI1U2Q1blBsbTNTb3ZYTXJPdG1GWmxhVWdGX1ZOZHh4a1VGc2xWeTZpcWEtaGdReTNNS0JjenBrQVNEVkFjTHlLWnFlUzM5bGFNcWpNREZGTWhQbWRRTDhlUmhYVXMtLUQtYXRDY294eEVEaWdmMzg?oc=5",
           "source": "Google News",
-          "published": "Mon, 23 Nov 2026 18:16:00 GMT"
+          "published": "Tue, 24 Nov 2026 15:08:00 GMT"
         }
       ]
     },
     {
-      "word": "Test",
+      "word": "Blade",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Australia's Pauline Hanson faces biggest test as debt and anger align in state vote - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORFAwUlItN21PY1NYVkpES1RGdkZmNzZBWm5WTDIxWUJkWmdxM2VBb2xvZy03SGtpVXEyVWxITm9EOENSUmJoX1oxNjBDQXQzSW1aTUZKVWtNVGJlNDFoTy13cmtRa0FZREE2VHRNVmFtNk5wZHgwNFhvSTN0enNrYWpWemxDSU5ES2lGV2ZvcmRjdkxXVVJkdDByd01nZnJ0TXlLbDVNd1FMU05pUUdFX0U3aElCTDBGRWpOSFRBWU1oWEVLZUE?oc=5",
+          "title": "‘Blade Runner 2099’ Rotten Tomatoes Critics’ Score Is Below Both ‘Blade Runner’ Movies - Forbes",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbnRrVUNyaDAwdlFXMi16ZEtydGw3czJobHRnaHg2VWhlQnNWRVJsejJFVXh0NHBOUENwZTRMUXA1S0ZpMHRaMFJFdFhMSkl4WG4zN0RhRUl4ejNCWWRYNHB3TVFOdGJwaU43cmtUalRRZW9VdEMxZGVUUUctX1dCZVNPdkdNZkxFWkpEZENHcEVocFlUUUNJSmZIYXozc3JjQ1FZNHltZDJCaTZRcjFpel9LOGIyeWZmT1FNS1AyT0I5OVo4MXFNS3lhTy1Bdw?oc=5",
           "source": "Google News",
-          "published": "Mon, 23 Nov 2026 23:04:00 GMT"
-        },
-        {
-          "title": "Ladybird, the first new browser engine in years, is now available to test - The Verge",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdmszMm5kRVpkclQzX0dVaDZzd3l6TXNsVWlET1c2dUkzYll0ZjBDdEZQN2stbGMwQ0VpVHJJMkRKcVhjTmNQZVhldllpalY1UW9tMnBJaEJMTXFrTWEtNnFwUk80Y1BOWUF0WTk2VFBrWVVrZzhwVVJWT3JuSExVQWZYTTMtODlm?oc=5",
-          "source": "Google News",
-          "published": "Mon, 23 Nov 2026 22:38:09 GMT"
+          "published": "Mon, 23 Nov 2026 20:23:00 GMT"
         }
       ]
     },
     {
-      "word": "State",
+      "word": "Runner",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Australia's Pauline Hanson faces biggest test as debt and anger align in state vote - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORFAwUlItN21PY1NYVkpES1RGdkZmNzZBWm5WTDIxWUJkWmdxM2VBb2xvZy03SGtpVXEyVWxITm9EOENSUmJoX1oxNjBDQXQzSW1aTUZKVWtNVGJlNDFoTy13cmtRa0FZREE2VHRNVmFtNk5wZHgwNFhvSTN0enNrYWpWemxDSU5ES2lGV2ZvcmRjdkxXVVJkdDByd01nZnJ0TXlLbDVNd1FMU05pUUdFX0U3aElCTDBGRWpOSFRBWU1oWEVLZUE?oc=5",
+          "title": "‘Blade Runner 2099’ Rotten Tomatoes Critics’ Score Is Below Both ‘Blade Runner’ Movies - Forbes",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbnRrVUNyaDAwdlFXMi16ZEtydGw3czJobHRnaHg2VWhlQnNWRVJsejJFVXh0NHBOUENwZTRMUXA1S0ZpMHRaMFJFdFhMSkl4WG4zN0RhRUl4ejNCWWRYNHB3TVFOdGJwaU43cmtUalRRZW9VdEMxZGVUUUctX1dCZVNPdkdNZkxFWkpEZENHcEVocFlUUUNJSmZIYXozc3JjQ1FZNHltZDJCaTZRcjFpel9LOGIyeWZmT1FNS1AyT0I5OVo4MXFNS3lhTy1Bdw?oc=5",
           "source": "Google News",
-          "published": "Mon, 23 Nov 2026 23:04:00 GMT"
-        },
-        {
-          "title": "Software issues have even reached Mercury as BepiColombo probe arrives in uncertain state - The Register",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZ2NNNExBYmE1Wk5VOEh5cFhhQ2x5b1pwQVMzU0k2RS1Ib2Q2cXQzTXI5RWJJWG5oeXBUeElydjQxbFFLNVZtN0FSR21qbTVTczNhTDJQMmhkMjZCVG96QThIbGV2aVhUVER0UkZLbkZ2WXJkUUtzUVZPS2JVbXRvZ3NrRG1KLXg5MmVwM09JN0xHQ1E3MXdtYXUzUnZtNDN2QmxFMHRPQU1HVkJVVWl5ek5CTVFyYmJSS2pyTnFCMEJMU1p5R1FlUWoxTHpoSUFkZlBUYlE3WW91ZXk3?oc=5",
-          "source": "Google News",
-          "published": "Mon, 23 Nov 2026 07:24:00 GMT"
+          "published": "Mon, 23 Nov 2026 20:23:00 GMT"
         }
       ]
     },
     {
-      "word": "Nvidia",
+      "word": "Moon",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Stock futures inch higher as traders see whether Nvidia can extend rally from Jensen Huang’s return: Live updates - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11bVhzTUlmU0hLLW0wRklRekw2eURvelhVMlZ3YThhUm5kNkctUE81eHlyNkRVQkRqTkc1enU3TWZZT0RKY2I1YWNTTmVpaDZkdlJYRGtqYkhFSGViT2NQN1A2MEVxNXEwbkNRMXlaejlRbzhtY2g40gF8QVVfeXFMTzg5Wkp0R2RYWWl3cUFWVjR1MzhPYlcwbzBsTGFFZVN0Z1QybjdvcThKTzBSd2NoOG51TU1JbkpKbUoyaWYtMGVGN2JKMWFkOWc2X3ZFODBBT3VBYkhzTmN3ZXNNTnlfUE5hRlZlM3pEaUgycEtwbWdNNlhuVw?oc=5",
+          "title": "November's full moon rises tonight! Here's how to see the Beaver Moon supermoon - Space",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNODdiQzdrY05ma3JoaXVZejczSUFaNzBpNS0wRHBVZWNiNlNLMWpGRDJNVDg3UXRYZV82OWlLRHpEbTNQZ0hHUE1pRGZBbjFhbmd2ak9rUkFWbmV3a0xJUXE4Z0pJUVc3UkNpbzFTVFNmemFDX2sweFJHREFZOE5QSGxwTTEwRk9IOUkyVWMzNGhheDdTUEdBVjJiMzcyWEZ4eExUMy12YVo3eTJFczNvN1dkcl9tbHRqQWJqbnpB?oc=5",
           "source": "Google News",
-          "published": "Tue, 24 Nov 2026 03:05:17 GMT"
-        },
-        {
-          "title": "Trump administration blacklists Megaspeed, key firm in Nvidia scandal - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdmlyVWhMSk5veUZMcWQ5dlRSRGdwenl3TnBpeER3cVVwYzVoellWQ08xX3ZfaHZUaXV1bVVaLVltVUxGZkhVTkw5cExBQVRobjZwR1dDeTZIZk52cmNQanQ3V1luc0tZN2RWa3g0QTFBV3NVaUZEWlhUSXhxZVJYMFJEdlVvenZ0QndCUm9WcXJGdGlXYlJJemhPcXFRWXdUcV9aZjNJXzg4UWpZQXA0NjFaRE44NHFnZTBr?oc=5",
-          "source": "Google News",
-          "published": "Tue, 24 Nov 2026 03:12:00 GMT"
+          "published": "Tue, 24 Nov 2026 11:00:00 GMT"
         }
       ]
     },
     {
-      "word": "Huang",
+      "word": "Glitch",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Stock futures inch higher as traders see whether Nvidia can extend rally from Jensen Huang’s return: Live updates - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11bVhzTUlmU0hLLW0wRklRekw2eURvelhVMlZ3YThhUm5kNkctUE81eHlyNkRVQkRqTkc1enU3TWZZT0RKY2I1YWNTTmVpaDZkdlJYRGtqYkhFSGViT2NQN1A2MEVxNXEwbkNRMXlaejlRbzhtY2g40gF8QVVfeXFMTzg5Wkp0R2RYWWl3cUFWVjR1MzhPYlcwbzBsTGFFZVN0Z1QybjdvcThKTzBSd2NoOG51TU1JbkpKbUoyaWYtMGVGN2JKMWFkOWc2X3ZFODBBT3VBYkhzTmN3ZXNNTnlfUE5hRlZlM3pEaUgycEtwbWdNNlhuVw?oc=5",
+          "title": "Voyager 1 hits new data glitch while making history - CNN",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRU53cmNXQWpvMzUzaW9HR3FucXNGQldEb2E2TGVFRjd2aGx2TTd5a0k5S3BneGZUcXJXNHFNTHgxOVdCUVpIeUJzU0NWa1R6ZkJNSzhlLTZfODgyNkNOMjF1ODk5alppdEVpeENpMFptWENUQURrbHZaU1plUGhtVnVFTFBLb081cEhQNmoxTW5GTnc?oc=5",
           "source": "Google News",
-          "published": "Tue, 24 Nov 2026 03:05:17 GMT"
+          "published": "Tue, 24 Nov 2026 12:42:53 GMT"
         },
         {
-          "title": "Tamara Keith and Amy Walter on Trump's role in Huang’s reinstatement - PBS",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeHRzLWlORW16MnlfU094cGt0TU5rZ3hvOU9ocDN5SmRidHhoMUVkOHV0TXNGd1dHcEZoeG0zYkdsWWZoUWU3a0ZoUFNHXzJreVNXODRyak5URFpBU1loTlV3N3dyRTFTSnNVY0hYMEw3WE9sd2xFeWY2WHVna19nbU5vcGRQQ2h4dlBnTDBmNV94UmVMeVVNS0M0TkRhTVhPcFE?oc=5",
+          "title": "Thruster glitch clouds BepiColombo arrival at Mercury - SpaceNews",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdHk5cG1scWFvdGZuQllrQy1pQ0UxVDBrME5jS1Qwdjd6SkQ0Umt3T3ltTi1iRF9naFQxQVlaOHlxZGVveW8xQmFfS2kyZGdueDNnc2xiN1lEc2FFQkhRdEJmaUNnZzU5UWhUaTVwWWM4b2pqM0hZc1VFRlVzY0p4enZR?oc=5",
           "source": "Google News",
-          "published": "Mon, 23 Nov 2026 23:30:35 GMT"
+          "published": "Mon, 23 Nov 2026 11:03:34 GMT"
         }
       ]
     },
     {
-      "word": "Stop",
+      "word": "Vaccine",
       "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn - Ars Technica",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWXFIRlRpQkkyY0F5YUVjb1RmN1g2cUdPWHJ3ZkhTVnVzcVNJaG5QY0lHRlV1cEdBNmFqWHQ3c0lpWEU1RGlLanphd1pPbmZjc0dvME9UcXFsNWNSTWJ0VDNsTmcyWGVNaG1lRzAwTEMxNXVycHc3YjItWkVXRXFiNDRZeWVWVEZzZ2NLd2FCOHVhSGVVTEJDMTEwdG1JVVRJdDBVSzQyS0lhY1Q5MnNYZmZFdmVWUlR2TmhzdG1R?oc=5",
+          "title": "Opinion | It’s not just measles. RFK Jr.’s vaccine policies could bring back another disease. - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcEVDclJRcDEtdU1wNmVoOWhUaE5WcFl1cnBJMXE5MFRNb3dzQ2NScWxGNTB5VUJUOTU0T1l0ZFB6QkdhQlpjQXBEbW9ydGR5dnRPbE1BZnNKYjNOQ0VyUHRKU1FQSU1LVG5Sak8wSmtYWXcxazktdURuZlZJYW53dDRFNlF3Q3E3U212Zk5SUnp6a0c4bzVzclRQeHpJSVViY2Q3OGkzWW53TzRlNkpGNmNmNzRmSnFYcXc?oc=5",
           "source": "Google News",
-          "published": "Mon, 23 Nov 2026 21:30:44 GMT"
+          "published": "Tue, 24 Nov 2026 16:16:48 GMT"
         },
         {
-          "title": "Mets owner Steve Cohen paid $450 million for Tarik Skubal. His fellow MLB owners want to stop him from doing it again - CNN",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xOFZxbkstaHBhNXhDb1ZiVFhDZGZ3emtabWZSRmdNSkE1ZkFWdVJNak1NbzhSSDhIbktrRE1QbEdKbkp1NkhrckZ6S0lfSTBSeW1janlCaFIyRWY4UDJPU3lyRzkwektjOWpxb0k3dDM?oc=5",
+          "title": "Can you get measles if you are vaccinated? Explaining the MMR vaccine - USA Today",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbUZRNEhOeUFEQV9idFh5bTRMcnluc1VfNUM0YVRHTTVtX1FRUzNZczNWUUpUQmlQaWp0QllsUXhOMVctdnh5Vm9UdE1mVGtzSmMtSUZsel9Na1Q2SlJIMzRjMGpkdUJsNmNKUDhMaFlFYTZjRDMwdFpGTk9aZm0xTldYTGVCZDdxRk5HSzliREt5RkZTVXJrek5fWFJSR1E?oc=5",
           "source": "Google News",
-          "published": "Mon, 23 Nov 2026 21:46:03 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Child",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn - Ars Technica",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWXFIRlRpQkkyY0F5YUVjb1RmN1g2cUdPWHJ3ZkhTVnVzcVNJaG5QY0lHRlV1cEdBNmFqWHQ3c0lpWEU1RGlLanphd1pPbmZjc0dvME9UcXFsNWNSTWJ0VDNsTmcyWGVNaG1lRzAwTEMxNXVycHc3YjItWkVXRXFiNDRZeWVWVEZzZ2NLd2FCOHVhSGVVTEJDMTEwdG1JVVRJdDBVSzQyS0lhY1Q5MnNYZmZFdmVWUlR2TmhzdG1R?oc=5",
-          "source": "Google News",
-          "published": "Mon, 23 Nov 2026 21:30:44 GMT"
-        },
-        {
-          "title": "Child who tested positive for measles has died, Virginia health officials report - 9News",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZEFXUmh6U2J2VXZhM2tlal9RYW50R3lFVC1ESVBNQmE0RUR4QnpsbW9RVG00T1FOQkN3MU1reDhUN0pMOU4zYUo3enZubWNvOUg5WEFweHRvZ0FUSmdfLXdDYm1vYy03VFJqaXdGS2M5SkpveGNkRFEzVWM0Y096YnU4SWpGS3JJZVBrM0hFNEo2X1oxbTdIMS1nMGk2VXRXdmtEMVZtMGlrSV9yUFoyUDg4TjRRb2FK?oc=5",
-          "source": "Google News",
-          "published": "Sun, 22 Nov 2026 12:35:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Launches",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Google alternative Kagi launches an email service - The Verge",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQWpVUUptWVN0TVFDSlFjZzRTb0tGOTdfWUlRdmIxWUQ1eWpVUXBJTnlkcWdHR1VZemtpX3diSVlGTHd4aWxVVW03NDhGQVFuQVFTcnhxMGN3My1oRm43Z3g0WHZYRnEwOUdKNktHdHlzdkdSSVVyaURCN3d2MzlYbGo2cnE?oc=5",
-          "source": "Google News",
-          "published": "Tue, 24 Nov 2026 00:02:00 GMT"
-        },
-        {
-          "title": "Samsung Launches the Odyssey G6: The World's First 1,100Hz Gaming Monitor - TechPowerUp",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVGFQVU5yeWdVbW5UYWtKR25NRUk1MXVURGN4ejk5Z1c2TUdsWEVKOE5scVJWR1NPSGw1QXZwR0J1V0tkdWRMbFhQQlJYY2RZclpFdmZ0amR6VS1tU2lTWG42TDJWSkNqa3RpSFVPZThCZnpaMks2cml6TG93MHZHYnp3ZUhFWjNTS2Zfal9rSWg0NmRRZVVyN2xhNEdlR2hHVUl6OEtpUDdXZ9IBrwFBVV95cUxQVUczNmZyZFZUdzc4NzBxRFZoOHBsd1ZkX2Y4aFA1ZW1rcUNsUzgwVk9nN0JjNl9LdFNKQTlYdUZMaW04SjNWdUFlc1pCOXBQOFV5c3JBY29EM3RmeWlhd1BWNmVHRDY1dm1lSUFGRHJ3b0g5SEx5YXhrclA0UG1zMktzYzNUUXEyZm1uOFlXN3Y4RUFlSXUwcExOelM2b1B4S3Bqek9yNlFBdGxpQmhB?oc=5",
-          "source": "Google News",
-          "published": "Mon, 23 Nov 2026 13:49:49 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Steve",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "'Avengers: Doomsday' Final Trailer Has Fantastic Four Calling On Steve Rogers - Deadline",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5iN2VVZ3VPNjBqam1OX0tRV053R05FUl9COU9qbGVlYlF3anZBdTZybWhoeUE3WDVrbVplVS1NcDJ0OFA1VFR4b1dDUjJMcXpyaUxLZ3lXblh2a0c0ZUlVQTBZSHBnYTZCdmprR3FnTE50bTc5cTMxdVRhQmE?oc=5",
-          "source": "Google News",
-          "published": "Mon, 23 Nov 2026 14:19:00 GMT"
-        },
-        {
-          "title": "Mets owner Steve Cohen paid $450 million for Tarik Skubal. His fellow MLB owners want to stop him from doing it again - CNN",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xOFZxbkstaHBhNXhDb1ZiVFhDZGZ3emtabWZSRmdNSkE1ZkFWdVJNak1NbzhSSDhIbktrRE1QbEdKbkp1NkhrckZ6S0lfSTBSeW1janlCaFIyRWY4UDJPU3lyRzkwektjOWpxb0k3dDM?oc=5",
-          "source": "Google News",
-          "published": "Mon, 23 Nov 2026 21:46:03 GMT"
-        }
-      ]
-    },
-    {
-      "word": "NFL",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "NFL Week 11 Sunday aftermath: Brock Purdy too much for Vikings' defense; Giants score huge win - NFL.com",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdE91d0JLZ2VNbXFfdEJQWkIxTWxibjMyc3VFUE1vallRM1pHM1FRQi1yWDI4dWs4RUtST3dlQ1hDNjBmbVNreUR0RmQ0TExiV3JFY1RHajZvT2NXRThMUW92bVhrVGNrNUpwejFnT2xnSnRGblUyY0xJT3QwLTBtYWRVOWpwQ0dETF9uTERn?oc=5",
-          "source": "Google News",
-          "published": "Mon, 23 Nov 2026 17:53:41 GMT"
-        },
-        {
-          "title": "2026 NFL playoff picture, standings: 49ers reign over NFC, Jaguars slip in AFC, wild-card battles heat up - CBS Sports",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVEZEdk56a2NMYnZ4RnpUb1FmdkdIRlpOZ1ptWUd2OXliLXJPNDhKNFdhR29tY3BENkdTNGhSZzVUNjFNYkJRYjBlWFhyalhEZ3lBblk1dTEtMUhoODFwTTBtS1FYVmRCcUlXRzhUdk5IY0h2VnhjNnNBYVJlTE1tTm5ERDdrVkE4d0k5b0VHMkhOOHh0b0ViX1UxYnhQX1lxWFVKM01nNV9RZGhnaWU4Vg?oc=5",
-          "source": "Google News",
-          "published": "Tue, 24 Nov 2026 04:32:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Reported",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Ninth measles-related death reported - WGAL",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRm5TWFd4cGpyY1lkUHdEMUNMMFp3eE1Tc01SYWlTYWYwRzVwLXVlbEwxTk12Y3oyellwMXVuMldLc0tLaTNVVVVYQWxhR2FFZzlDTDJSNEhxdUEtYkc1YW45NThTWVBaZlpfX2VReDF6Rnp2SkJlX3YyTzF0LTdVWTFTU3BTM21IM0FXWTJpa1d1QQ?oc=5",
-          "source": "Google News",
-          "published": "Mon, 23 Nov 2026 23:17:00 GMT"
-        },
-        {
-          "title": "Reported flu cases surge across New York ahead of Thanksgiving - Gothamist",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUzA4Xy0wRG9xMVV3WWRsT29GQVNRM2lnZ3NvWHI1U2Q1blBsbTNTb3ZYTXJPdG1GWmxhVWdGX1ZOZHh4a1VGc2xWeTZpcWEtaGdReTNNS0JjenBrQVNEVkFjTHlLWnFlUzM5bGFNcWpNREZGTWhQbWRRTDhlUmhYVXMtLUQtYXRDY294eEVEaWdmMzg?oc=5",
-          "source": "Google News",
-          "published": "Mon, 23 Nov 2026 18:16:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Cases",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Reported flu cases surge across New York ahead of Thanksgiving - Gothamist",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUzA4Xy0wRG9xMVV3WWRsT29GQVNRM2lnZ3NvWHI1U2Q1blBsbTNTb3ZYTXJPdG1GWmxhVWdGX1ZOZHh4a1VGc2xWeTZpcWEtaGdReTNNS0JjenBrQVNEVkFjTHlLWnFlUzM5bGFNcWpNREZGTWhQbWRRTDhlUmhYVXMtLUQtYXRDY294eEVEaWdmMzg?oc=5",
-          "source": "Google News",
-          "published": "Mon, 23 Nov 2026 18:16:00 GMT"
-        },
-        {
-          "title": "SD doctor, mom react to measles cases concerns - KELOLAND.com",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPem1CZVJXSmJGOGZ0UzAxTmtaYW5ORmpHd1lPclNuUWpGSlozTl9obkVlcHduWGF6OU9oRXZ2V2dyek1tei10ZmY2VG1HYkJ1X0Y2dks3bDJYZ05PQmFuVlJlQVo4WHJ5U2xid2xMdUVPVXYxR21FTzFMZWhVNkR4RHJVY0V4NG5TMDJjMHlzYnrSAZYBQVVfeXFMTWpRNTlVSDdvWHRlaTJyaTVQWVJKRXVRVElRQXd4c25ZblU5cGFmeFRjUGVaaFJaamtKcTBNMkVma1hXQms1STlRWXNEM0ZRMGpvZ0JPN0dhc2dEWEpJRGR3ZGJ2N0dPTkt6a1EzX2s4bUhoTVF0VmJiY015aDJsSXE5SjZRbWlhTWtLSHpTQkR0ZmhHeGhn?oc=5",
-          "source": "Google News",
-          "published": "Mon, 23 Nov 2026 00:15:16 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Told",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump told the Army to pause the detonation of 9,500 pounds of lead azide in Iowa. Here's what to know - PBS",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV01BanduWXlNQWlDV2Y3R3lJSnB6Y2RfZnlDbEVHV291YVNlbzBWdXI3Y0JDbDZZVkFhMFRpeHFNSDRZYkJoQU5XUTF6cWtCcldOc3VSS3MxNVBBWlRpZkZnbk9MNXhEMVFNSUIwSFQwbFRMSmRHYVZTRWJlTHlZMGJjZkVybzd5cEh1QXByZDVEZEs5YjZJX1FDc19TeFc0UFlaOFNJY1RvYVFvTk16Um0wa3dRU0JVbUU2bjNvM1QzMy1tN2dsdUE3bTl6dzZv?oc=5",
-          "source": "Google News",
-          "published": "Mon, 23 Nov 2026 22:05:00 GMT"
+          "published": "Mon, 23 Nov 2026 18:51:00 GMT"
         }
       ]
     },
@@ -438,23 +332,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump told the Army to pause the detonation of 9,500 pounds of lead azide in Iowa. Here's what to know - PBS",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV01BanduWXlNQWlDV2Y3R3lJSnB6Y2RfZnlDbEVHV291YVNlbzBWdXI3Y0JDbDZZVkFhMFRpeHFNSDRZYkJoQU5XUTF6cWtCcldOc3VSS3MxNVBBWlRpZkZnbk9MNXhEMVFNSUIwSFQwbFRMSmRHYVZTRWJlTHlZMGJjZkVybzd5cEh1QXByZDVEZEs5YjZJX1FDc19TeFc0UFlaOFNJY1RvYVFvTk16Um0wa3dRU0JVbUU2bjNvM1QzMy1tN2dsdUE3bTl6dzZv?oc=5",
+          "title": "US army says detonation of lead explosives in Iowa will proceed Wednesday - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY2pDNFZzNnM1TFVPLUhkejdvNjVqN0pNNmIyR01IZlhwZzFVem1PZ1NCQkdBOURCOWk4djZaQkVDelJQSDJDQ19mRWJQZFY3NXRoQzk4WnhyM0p3OFBVclVKbFdBZEJHWkhNZmUtRWc1a1p4VmVtbjdjNDRvNjd3RTdjVld3SUlScDBGZ3B4SWxnVmh0eTJBUlBoR0UwRHdVUzBybHdGcXPSAa4BQVVfeXFMTWZidmV2TVRRdkJnb1luRjFscFRZMXVtMmdvNkNBMllVR1RqbF8wMVU0eDVja3VDR1NLVjMzalZMWmhLbzdsMmV6UndJdFlzaWpvckJOc2VWTkF5dkNlUGlpaUtRVFRCM0FFbGNtTUlZVXdibTB6UTVvbWJnUzE2ZUd0TWNtRTdIR3dHRG9TbV9vYkpUN1ctRF9UQW5PVUpRSjVuMzUxWFhrSHVIRC1B?oc=5",
           "source": "Google News",
-          "published": "Mon, 23 Nov 2026 22:05:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Pause",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump told the Army to pause the detonation of 9,500 pounds of lead azide in Iowa. Here's what to know - PBS",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV01BanduWXlNQWlDV2Y3R3lJSnB6Y2RfZnlDbEVHV291YVNlbzBWdXI3Y0JDbDZZVkFhMFRpeHFNSDRZYkJoQU5XUTF6cWtCcldOc3VSS3MxNVBBWlRpZkZnbk9MNXhEMVFNSUIwSFQwbFRMSmRHYVZTRWJlTHlZMGJjZkVybzd5cEh1QXByZDVEZEs5YjZJX1FDc19TeFc0UFlaOFNJY1RvYVFvTk16Um0wa3dRU0JVbUU2bjNvM1QzMy1tN2dsdUE3bTl6dzZv?oc=5",
-          "source": "Google News",
-          "published": "Mon, 23 Nov 2026 22:05:00 GMT"
+          "published": "Tue, 24 Nov 2026 14:44:17 GMT"
         }
       ]
     },
@@ -464,23 +345,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump told the Army to pause the detonation of 9,500 pounds of lead azide in Iowa. Here's what to know - PBS",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV01BanduWXlNQWlDV2Y3R3lJSnB6Y2RfZnlDbEVHV291YVNlbzBWdXI3Y0JDbDZZVkFhMFRpeHFNSDRZYkJoQU5XUTF6cWtCcldOc3VSS3MxNVBBWlRpZkZnbk9MNXhEMVFNSUIwSFQwbFRMSmRHYVZTRWJlTHlZMGJjZkVybzd5cEh1QXByZDVEZEs5YjZJX1FDc19TeFc0UFlaOFNJY1RvYVFvTk16Um0wa3dRU0JVbUU2bjNvM1QzMy1tN2dsdUE3bTl6dzZv?oc=5",
+          "title": "US army says detonation of lead explosives in Iowa will proceed Wednesday - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY2pDNFZzNnM1TFVPLUhkejdvNjVqN0pNNmIyR01IZlhwZzFVem1PZ1NCQkdBOURCOWk4djZaQkVDelJQSDJDQ19mRWJQZFY3NXRoQzk4WnhyM0p3OFBVclVKbFdBZEJHWkhNZmUtRWc1a1p4VmVtbjdjNDRvNjd3RTdjVld3SUlScDBGZ3B4SWxnVmh0eTJBUlBoR0UwRHdVUzBybHdGcXPSAa4BQVVfeXFMTWZidmV2TVRRdkJnb1luRjFscFRZMXVtMmdvNkNBMllVR1RqbF8wMVU0eDVja3VDR1NLVjMzalZMWmhLbzdsMmV6UndJdFlzaWpvckJOc2VWTkF5dkNlUGlpaUtRVFRCM0FFbGNtTUlZVXdibTB6UTVvbWJnUzE2ZUd0TWNtRTdIR3dHRG9TbV9vYkpUN1ctRF9UQW5PVUpRSjVuMzUxWFhrSHVIRC1B?oc=5",
           "source": "Google News",
-          "published": "Mon, 23 Nov 2026 22:05:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "Pounds",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "Trump told the Army to pause the detonation of 9,500 pounds of lead azide in Iowa. Here's what to know - PBS",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV01BanduWXlNQWlDV2Y3R3lJSnB6Y2RfZnlDbEVHV291YVNlbzBWdXI3Y0JDbDZZVkFhMFRpeHFNSDRZYkJoQU5XUTF6cWtCcldOc3VSS3MxNVBBWlRpZkZnbk9MNXhEMVFNSUIwSFQwbFRMSmRHYVZTRWJlTHlZMGJjZkVybzd5cEh1QXByZDVEZEs5YjZJX1FDc19TeFc0UFlaOFNJY1RvYVFvTk16Um0wa3dRU0JVbUU2bjNvM1QzMy1tN2dsdUE3bTl6dzZv?oc=5",
-          "source": "Google News",
-          "published": "Mon, 23 Nov 2026 22:05:00 GMT"
+          "published": "Tue, 24 Nov 2026 14:44:17 GMT"
         }
       ]
     },
@@ -490,23 +358,23 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump told the Army to pause the detonation of 9,500 pounds of lead azide in Iowa. Here's what to know - PBS",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV01BanduWXlNQWlDV2Y3R3lJSnB6Y2RfZnlDbEVHV291YVNlbzBWdXI3Y0JDbDZZVkFhMFRpeHFNSDRZYkJoQU5XUTF6cWtCcldOc3VSS3MxNVBBWlRpZkZnbk9MNXhEMVFNSUIwSFQwbFRMSmRHYVZTRWJlTHlZMGJjZkVybzd5cEh1QXByZDVEZEs5YjZJX1FDc19TeFc0UFlaOFNJY1RvYVFvTk16Um0wa3dRU0JVbUU2bjNvM1QzMy1tN2dsdUE3bTl6dzZv?oc=5",
+          "title": "US army says detonation of lead explosives in Iowa will proceed Wednesday - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY2pDNFZzNnM1TFVPLUhkejdvNjVqN0pNNmIyR01IZlhwZzFVem1PZ1NCQkdBOURCOWk4djZaQkVDelJQSDJDQ19mRWJQZFY3NXRoQzk4WnhyM0p3OFBVclVKbFdBZEJHWkhNZmUtRWc1a1p4VmVtbjdjNDRvNjd3RTdjVld3SUlScDBGZ3B4SWxnVmh0eTJBUlBoR0UwRHdVUzBybHdGcXPSAa4BQVVfeXFMTWZidmV2TVRRdkJnb1luRjFscFRZMXVtMmdvNkNBMllVR1RqbF8wMVU0eDVja3VDR1NLVjMzalZMWmhLbzdsMmV6UndJdFlzaWpvckJOc2VWTkF5dkNlUGlpaUtRVFRCM0FFbGNtTUlZVXdibTB6UTVvbWJnUzE2ZUd0TWNtRTdIR3dHRG9TbV9vYkpUN1ctRF9UQW5PVUpRSjVuMzUxWFhrSHVIRC1B?oc=5",
           "source": "Google News",
-          "published": "Mon, 23 Nov 2026 22:05:00 GMT"
+          "published": "Tue, 24 Nov 2026 14:44:17 GMT"
         }
       ]
     },
     {
-      "word": "Azide",
+      "word": "Explosives",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump told the Army to pause the detonation of 9,500 pounds of lead azide in Iowa. Here's what to know - PBS",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV01BanduWXlNQWlDV2Y3R3lJSnB6Y2RfZnlDbEVHV291YVNlbzBWdXI3Y0JDbDZZVkFhMFRpeHFNSDRZYkJoQU5XUTF6cWtCcldOc3VSS3MxNVBBWlRpZkZnbk9MNXhEMVFNSUIwSFQwbFRMSmRHYVZTRWJlTHlZMGJjZkVybzd5cEh1QXByZDVEZEs5YjZJX1FDc19TeFc0UFlaOFNJY1RvYVFvTk16Um0wa3dRU0JVbUU2bjNvM1QzMy1tN2dsdUE3bTl6dzZv?oc=5",
+          "title": "US army says detonation of lead explosives in Iowa will proceed Wednesday - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY2pDNFZzNnM1TFVPLUhkejdvNjVqN0pNNmIyR01IZlhwZzFVem1PZ1NCQkdBOURCOWk4djZaQkVDelJQSDJDQ19mRWJQZFY3NXRoQzk4WnhyM0p3OFBVclVKbFdBZEJHWkhNZmUtRWc1a1p4VmVtbjdjNDRvNjd3RTdjVld3SUlScDBGZ3B4SWxnVmh0eTJBUlBoR0UwRHdVUzBybHdGcXPSAa4BQVVfeXFMTWZidmV2TVRRdkJnb1luRjFscFRZMXVtMmdvNkNBMllVR1RqbF8wMVU0eDVja3VDR1NLVjMzalZMWmhLbzdsMmV6UndJdFlzaWpvckJOc2VWTkF5dkNlUGlpaUtRVFRCM0FFbGNtTUlZVXdibTB6UTVvbWJnUzE2ZUd0TWNtRTdIR3dHRG9TbV9vYkpUN1ctRF9UQW5PVUpRSjVuMzUxWFhrSHVIRC1B?oc=5",
           "source": "Google News",
-          "published": "Mon, 23 Nov 2026 22:05:00 GMT"
+          "published": "Tue, 24 Nov 2026 14:44:17 GMT"
         }
       ]
     },
@@ -516,166 +384,244 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump told the Army to pause the detonation of 9,500 pounds of lead azide in Iowa. Here's what to know - PBS",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV01BanduWXlNQWlDV2Y3R3lJSnB6Y2RfZnlDbEVHV291YVNlbzBWdXI3Y0JDbDZZVkFhMFRpeHFNSDRZYkJoQU5XUTF6cWtCcldOc3VSS3MxNVBBWlRpZkZnbk9MNXhEMVFNSUIwSFQwbFRMSmRHYVZTRWJlTHlZMGJjZkVybzd5cEh1QXByZDVEZEs5YjZJX1FDc19TeFc0UFlaOFNJY1RvYVFvTk16Um0wa3dRU0JVbUU2bjNvM1QzMy1tN2dsdUE3bTl6dzZv?oc=5",
+          "title": "US army says detonation of lead explosives in Iowa will proceed Wednesday - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY2pDNFZzNnM1TFVPLUhkejdvNjVqN0pNNmIyR01IZlhwZzFVem1PZ1NCQkdBOURCOWk4djZaQkVDelJQSDJDQ19mRWJQZFY3NXRoQzk4WnhyM0p3OFBVclVKbFdBZEJHWkhNZmUtRWc1a1p4VmVtbjdjNDRvNjd3RTdjVld3SUlScDBGZ3B4SWxnVmh0eTJBUlBoR0UwRHdVUzBybHdGcXPSAa4BQVVfeXFMTWZidmV2TVRRdkJnb1luRjFscFRZMXVtMmdvNkNBMllVR1RqbF8wMVU0eDVja3VDR1NLVjMzalZMWmhLbzdsMmV6UndJdFlzaWpvckJOc2VWTkF5dkNlUGlpaUtRVFRCM0FFbGNtTUlZVXdibTB6UTVvbWJnUzE2ZUd0TWNtRTdIR3dHRG9TbV9vYkpUN1ctRF9UQW5PVUpRSjVuMzUxWFhrSHVIRC1B?oc=5",
           "source": "Google News",
-          "published": "Mon, 23 Nov 2026 22:05:00 GMT"
+          "published": "Tue, 24 Nov 2026 14:44:17 GMT"
         }
       ]
     },
     {
-      "word": "Know",
+      "word": "Proceed",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Trump told the Army to pause the detonation of 9,500 pounds of lead azide in Iowa. Here's what to know - PBS",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV01BanduWXlNQWlDV2Y3R3lJSnB6Y2RfZnlDbEVHV291YVNlbzBWdXI3Y0JDbDZZVkFhMFRpeHFNSDRZYkJoQU5XUTF6cWtCcldOc3VSS3MxNVBBWlRpZkZnbk9MNXhEMVFNSUIwSFQwbFRMSmRHYVZTRWJlTHlZMGJjZkVybzd5cEh1QXByZDVEZEs5YjZJX1FDc19TeFc0UFlaOFNJY1RvYVFvTk16Um0wa3dRU0JVbUU2bjNvM1QzMy1tN2dsdUE3bTl6dzZv?oc=5",
+          "title": "US army says detonation of lead explosives in Iowa will proceed Wednesday - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY2pDNFZzNnM1TFVPLUhkejdvNjVqN0pNNmIyR01IZlhwZzFVem1PZ1NCQkdBOURCOWk4djZaQkVDelJQSDJDQ19mRWJQZFY3NXRoQzk4WnhyM0p3OFBVclVKbFdBZEJHWkhNZmUtRWc1a1p4VmVtbjdjNDRvNjd3RTdjVld3SUlScDBGZ3B4SWxnVmh0eTJBUlBoR0UwRHdVUzBybHdGcXPSAa4BQVVfeXFMTWZidmV2TVRRdkJnb1luRjFscFRZMXVtMmdvNkNBMllVR1RqbF8wMVU0eDVja3VDR1NLVjMzalZMWmhLbzdsMmV6UndJdFlzaWpvckJOc2VWTkF5dkNlUGlpaUtRVFRCM0FFbGNtTUlZVXdibTB6UTVvbWJnUzE2ZUd0TWNtRTdIR3dHRG9TbV9vYkpUN1ctRF9UQW5PVUpRSjVuMzUxWFhrSHVIRC1B?oc=5",
           "source": "Google News",
-          "published": "Mon, 23 Nov 2026 22:05:00 GMT"
+          "published": "Tue, 24 Nov 2026 14:44:17 GMT"
         }
       ]
     },
     {
-      "word": "Unsealed",
+      "word": "Wednesday",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Unsealed warrant documents for Ilhan Omar's DC home raid reveal decades-long scope of investigation - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeFhUU2RBNXRKbGFudnljMVNMd21kYnZOX3I5SFNneWNNRHZMMmdxRFVQa1VKNjJQeWdVT3hXS0lEemkxQTZWT2pzdndZV3UyNkxoX3d1ZWpBbXo3Mzl5WldCR0I5bWRVYVo5bDRpaDRLRlZoLW1BZzdrV2tRZVdrNElzN3VQTUVnVXljakZCSE9MY3ptaFlaT1RkQ0c1WnNJbmljVkFYSlpKblQzZExqUW1UTjZ0c1h3dElnWVFjSUF1UWNfajRkMzVQSdIB0AFBVV95cUxObjZ4RTdndzlzU0NUUER6amVyNTZ2U3RNSFVrTzdVd0tZdVZDdWlXYWtaaVdJdFNfVUhZbnlWX1VmTHEtZDVBM3lfbTQtQy1LQkpzeUI5NG1CRnZPOXNJSnFFaUpXc05mdU1sa0VXeGduX3hrdjBVSWhvcUpWdzh2eUhLMUtWU0l3UWk1WjA0cElIWVplNzNab0Zqams2NFF3V1BXd2ZRbjgyZlFXRVlCbmtseW5uVzRLYV9xUFotNkZwdWpUcVhqeGs1QW9VSXFt?oc=5",
+          "title": "US army says detonation of lead explosives in Iowa will proceed Wednesday - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY2pDNFZzNnM1TFVPLUhkejdvNjVqN0pNNmIyR01IZlhwZzFVem1PZ1NCQkdBOURCOWk4djZaQkVDelJQSDJDQ19mRWJQZFY3NXRoQzk4WnhyM0p3OFBVclVKbFdBZEJHWkhNZmUtRWc1a1p4VmVtbjdjNDRvNjd3RTdjVld3SUlScDBGZ3B4SWxnVmh0eTJBUlBoR0UwRHdVUzBybHdGcXPSAa4BQVVfeXFMTWZidmV2TVRRdkJnb1luRjFscFRZMXVtMmdvNkNBMllVR1RqbF8wMVU0eDVja3VDR1NLVjMzalZMWmhLbzdsMmV6UndJdFlzaWpvckJOc2VWTkF5dkNlUGlpaUtRVFRCM0FFbGNtTUlZVXdibTB6UTVvbWJnUzE2ZUd0TWNtRTdIR3dHRG9TbV9vYkpUN1ctRF9UQW5PVUpRSjVuMzUxWFhrSHVIRC1B?oc=5",
           "source": "Google News",
-          "published": "Tue, 24 Nov 2026 00:56:59 GMT"
+          "published": "Tue, 24 Nov 2026 14:44:17 GMT"
         }
       ]
     },
     {
-      "word": "Warrant",
+      "word": "Travel",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Unsealed warrant documents for Ilhan Omar's DC home raid reveal decades-long scope of investigation - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeFhUU2RBNXRKbGFudnljMVNMd21kYnZOX3I5SFNneWNNRHZMMmdxRFVQa1VKNjJQeWdVT3hXS0lEemkxQTZWT2pzdndZV3UyNkxoX3d1ZWpBbXo3Mzl5WldCR0I5bWRVYVo5bDRpaDRLRlZoLW1BZzdrV2tRZVdrNElzN3VQTUVnVXljakZCSE9MY3ptaFlaT1RkQ0c1WnNJbmljVkFYSlpKblQzZExqUW1UTjZ0c1h3dElnWVFjSUF1UWNfajRkMzVQSdIB0AFBVV95cUxObjZ4RTdndzlzU0NUUER6amVyNTZ2U3RNSFVrTzdVd0tZdVZDdWlXYWtaaVdJdFNfVUhZbnlWX1VmTHEtZDVBM3lfbTQtQy1LQkpzeUI5NG1CRnZPOXNJSnFFaUpXc05mdU1sa0VXeGduX3hrdjBVSWhvcUpWdzh2eUhLMUtWU0l3UWk1WjA0cElIWVplNzNab0Zqams2NFF3V1BXd2ZRbjgyZlFXRVlCbmtseW5uVzRLYV9xUFotNkZwdWpUcVhqeGs1QW9VSXFt?oc=5",
+          "title": "Thanksgiving travel forecast: Storms to batter US coasts with heavy rain and flooding - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UWE90b2V2THN1bVlGbjdJa1JyOGxIUjZqUllnUjQ4SzRhZERfUEVBQU9feU5kd0V2YkY0QW5YNVZTWEVjM3lvb19aS092LW15ZFVKTGNVTzRITnFKa29F?oc=5",
           "source": "Google News",
-          "published": "Tue, 24 Nov 2026 00:56:59 GMT"
+          "published": "Tue, 24 Nov 2026 11:38:49 GMT"
         }
       ]
     },
     {
-      "word": "Documents",
+      "word": "Forecast",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Unsealed warrant documents for Ilhan Omar's DC home raid reveal decades-long scope of investigation - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeFhUU2RBNXRKbGFudnljMVNMd21kYnZOX3I5SFNneWNNRHZMMmdxRFVQa1VKNjJQeWdVT3hXS0lEemkxQTZWT2pzdndZV3UyNkxoX3d1ZWpBbXo3Mzl5WldCR0I5bWRVYVo5bDRpaDRLRlZoLW1BZzdrV2tRZVdrNElzN3VQTUVnVXljakZCSE9MY3ptaFlaT1RkQ0c1WnNJbmljVkFYSlpKblQzZExqUW1UTjZ0c1h3dElnWVFjSUF1UWNfajRkMzVQSdIB0AFBVV95cUxObjZ4RTdndzlzU0NUUER6amVyNTZ2U3RNSFVrTzdVd0tZdVZDdWlXYWtaaVdJdFNfVUhZbnlWX1VmTHEtZDVBM3lfbTQtQy1LQkpzeUI5NG1CRnZPOXNJSnFFaUpXc05mdU1sa0VXeGduX3hrdjBVSWhvcUpWdzh2eUhLMUtWU0l3UWk1WjA0cElIWVplNzNab0Zqams2NFF3V1BXd2ZRbjgyZlFXRVlCbmtseW5uVzRLYV9xUFotNkZwdWpUcVhqeGs1QW9VSXFt?oc=5",
+          "title": "Thanksgiving travel forecast: Storms to batter US coasts with heavy rain and flooding - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UWE90b2V2THN1bVlGbjdJa1JyOGxIUjZqUllnUjQ4SzRhZERfUEVBQU9feU5kd0V2YkY0QW5YNVZTWEVjM3lvb19aS092LW15ZFVKTGNVTzRITnFKa29F?oc=5",
           "source": "Google News",
-          "published": "Tue, 24 Nov 2026 00:56:59 GMT"
+          "published": "Tue, 24 Nov 2026 11:38:49 GMT"
         }
       ]
     },
     {
-      "word": "Ilhan",
+      "word": "Storms",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Unsealed warrant documents for Ilhan Omar's DC home raid reveal decades-long scope of investigation - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeFhUU2RBNXRKbGFudnljMVNMd21kYnZOX3I5SFNneWNNRHZMMmdxRFVQa1VKNjJQeWdVT3hXS0lEemkxQTZWT2pzdndZV3UyNkxoX3d1ZWpBbXo3Mzl5WldCR0I5bWRVYVo5bDRpaDRLRlZoLW1BZzdrV2tRZVdrNElzN3VQTUVnVXljakZCSE9MY3ptaFlaT1RkQ0c1WnNJbmljVkFYSlpKblQzZExqUW1UTjZ0c1h3dElnWVFjSUF1UWNfajRkMzVQSdIB0AFBVV95cUxObjZ4RTdndzlzU0NUUER6amVyNTZ2U3RNSFVrTzdVd0tZdVZDdWlXYWtaaVdJdFNfVUhZbnlWX1VmTHEtZDVBM3lfbTQtQy1LQkpzeUI5NG1CRnZPOXNJSnFFaUpXc05mdU1sa0VXeGduX3hrdjBVSWhvcUpWdzh2eUhLMUtWU0l3UWk1WjA0cElIWVplNzNab0Zqams2NFF3V1BXd2ZRbjgyZlFXRVlCbmtseW5uVzRLYV9xUFotNkZwdWpUcVhqeGs1QW9VSXFt?oc=5",
+          "title": "Thanksgiving travel forecast: Storms to batter US coasts with heavy rain and flooding - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UWE90b2V2THN1bVlGbjdJa1JyOGxIUjZqUllnUjQ4SzRhZERfUEVBQU9feU5kd0V2YkY0QW5YNVZTWEVjM3lvb19aS092LW15ZFVKTGNVTzRITnFKa29F?oc=5",
           "source": "Google News",
-          "published": "Tue, 24 Nov 2026 00:56:59 GMT"
+          "published": "Tue, 24 Nov 2026 11:38:49 GMT"
         }
       ]
     },
     {
-      "word": "Omar",
+      "word": "Batter",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Unsealed warrant documents for Ilhan Omar's DC home raid reveal decades-long scope of investigation - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeFhUU2RBNXRKbGFudnljMVNMd21kYnZOX3I5SFNneWNNRHZMMmdxRFVQa1VKNjJQeWdVT3hXS0lEemkxQTZWT2pzdndZV3UyNkxoX3d1ZWpBbXo3Mzl5WldCR0I5bWRVYVo5bDRpaDRLRlZoLW1BZzdrV2tRZVdrNElzN3VQTUVnVXljakZCSE9MY3ptaFlaT1RkQ0c1WnNJbmljVkFYSlpKblQzZExqUW1UTjZ0c1h3dElnWVFjSUF1UWNfajRkMzVQSdIB0AFBVV95cUxObjZ4RTdndzlzU0NUUER6amVyNTZ2U3RNSFVrTzdVd0tZdVZDdWlXYWtaaVdJdFNfVUhZbnlWX1VmTHEtZDVBM3lfbTQtQy1LQkpzeUI5NG1CRnZPOXNJSnFFaUpXc05mdU1sa0VXeGduX3hrdjBVSWhvcUpWdzh2eUhLMUtWU0l3UWk1WjA0cElIWVplNzNab0Zqams2NFF3V1BXd2ZRbjgyZlFXRVlCbmtseW5uVzRLYV9xUFotNkZwdWpUcVhqeGs1QW9VSXFt?oc=5",
+          "title": "Thanksgiving travel forecast: Storms to batter US coasts with heavy rain and flooding - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UWE90b2V2THN1bVlGbjdJa1JyOGxIUjZqUllnUjQ4SzRhZERfUEVBQU9feU5kd0V2YkY0QW5YNVZTWEVjM3lvb19aS092LW15ZFVKTGNVTzRITnFKa29F?oc=5",
           "source": "Google News",
-          "published": "Tue, 24 Nov 2026 00:56:59 GMT"
+          "published": "Tue, 24 Nov 2026 11:38:49 GMT"
         }
       ]
     },
     {
-      "word": "Home",
+      "word": "Coasts",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Unsealed warrant documents for Ilhan Omar's DC home raid reveal decades-long scope of investigation - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeFhUU2RBNXRKbGFudnljMVNMd21kYnZOX3I5SFNneWNNRHZMMmdxRFVQa1VKNjJQeWdVT3hXS0lEemkxQTZWT2pzdndZV3UyNkxoX3d1ZWpBbXo3Mzl5WldCR0I5bWRVYVo5bDRpaDRLRlZoLW1BZzdrV2tRZVdrNElzN3VQTUVnVXljakZCSE9MY3ptaFlaT1RkQ0c1WnNJbmljVkFYSlpKblQzZExqUW1UTjZ0c1h3dElnWVFjSUF1UWNfajRkMzVQSdIB0AFBVV95cUxObjZ4RTdndzlzU0NUUER6amVyNTZ2U3RNSFVrTzdVd0tZdVZDdWlXYWtaaVdJdFNfVUhZbnlWX1VmTHEtZDVBM3lfbTQtQy1LQkpzeUI5NG1CRnZPOXNJSnFFaUpXc05mdU1sa0VXeGduX3hrdjBVSWhvcUpWdzh2eUhLMUtWU0l3UWk1WjA0cElIWVplNzNab0Zqams2NFF3V1BXd2ZRbjgyZlFXRVlCbmtseW5uVzRLYV9xUFotNkZwdWpUcVhqeGs1QW9VSXFt?oc=5",
+          "title": "Thanksgiving travel forecast: Storms to batter US coasts with heavy rain and flooding - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UWE90b2V2THN1bVlGbjdJa1JyOGxIUjZqUllnUjQ4SzRhZERfUEVBQU9feU5kd0V2YkY0QW5YNVZTWEVjM3lvb19aS092LW15ZFVKTGNVTzRITnFKa29F?oc=5",
           "source": "Google News",
-          "published": "Tue, 24 Nov 2026 00:56:59 GMT"
+          "published": "Tue, 24 Nov 2026 11:38:49 GMT"
         }
       ]
     },
     {
-      "word": "Raid",
+      "word": "Heavy",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Unsealed warrant documents for Ilhan Omar's DC home raid reveal decades-long scope of investigation - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeFhUU2RBNXRKbGFudnljMVNMd21kYnZOX3I5SFNneWNNRHZMMmdxRFVQa1VKNjJQeWdVT3hXS0lEemkxQTZWT2pzdndZV3UyNkxoX3d1ZWpBbXo3Mzl5WldCR0I5bWRVYVo5bDRpaDRLRlZoLW1BZzdrV2tRZVdrNElzN3VQTUVnVXljakZCSE9MY3ptaFlaT1RkQ0c1WnNJbmljVkFYSlpKblQzZExqUW1UTjZ0c1h3dElnWVFjSUF1UWNfajRkMzVQSdIB0AFBVV95cUxObjZ4RTdndzlzU0NUUER6amVyNTZ2U3RNSFVrTzdVd0tZdVZDdWlXYWtaaVdJdFNfVUhZbnlWX1VmTHEtZDVBM3lfbTQtQy1LQkpzeUI5NG1CRnZPOXNJSnFFaUpXc05mdU1sa0VXeGduX3hrdjBVSWhvcUpWdzh2eUhLMUtWU0l3UWk1WjA0cElIWVplNzNab0Zqams2NFF3V1BXd2ZRbjgyZlFXRVlCbmtseW5uVzRLYV9xUFotNkZwdWpUcVhqeGs1QW9VSXFt?oc=5",
+          "title": "Thanksgiving travel forecast: Storms to batter US coasts with heavy rain and flooding - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UWE90b2V2THN1bVlGbjdJa1JyOGxIUjZqUllnUjQ4SzRhZERfUEVBQU9feU5kd0V2YkY0QW5YNVZTWEVjM3lvb19aS092LW15ZFVKTGNVTzRITnFKa29F?oc=5",
           "source": "Google News",
-          "published": "Tue, 24 Nov 2026 00:56:59 GMT"
+          "published": "Tue, 24 Nov 2026 11:38:49 GMT"
         }
       ]
     },
     {
-      "word": "Reveal",
+      "word": "Rain",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Unsealed warrant documents for Ilhan Omar's DC home raid reveal decades-long scope of investigation - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeFhUU2RBNXRKbGFudnljMVNMd21kYnZOX3I5SFNneWNNRHZMMmdxRFVQa1VKNjJQeWdVT3hXS0lEemkxQTZWT2pzdndZV3UyNkxoX3d1ZWpBbXo3Mzl5WldCR0I5bWRVYVo5bDRpaDRLRlZoLW1BZzdrV2tRZVdrNElzN3VQTUVnVXljakZCSE9MY3ptaFlaT1RkQ0c1WnNJbmljVkFYSlpKblQzZExqUW1UTjZ0c1h3dElnWVFjSUF1UWNfajRkMzVQSdIB0AFBVV95cUxObjZ4RTdndzlzU0NUUER6amVyNTZ2U3RNSFVrTzdVd0tZdVZDdWlXYWtaaVdJdFNfVUhZbnlWX1VmTHEtZDVBM3lfbTQtQy1LQkpzeUI5NG1CRnZPOXNJSnFFaUpXc05mdU1sa0VXeGduX3hrdjBVSWhvcUpWdzh2eUhLMUtWU0l3UWk1WjA0cElIWVplNzNab0Zqams2NFF3V1BXd2ZRbjgyZlFXRVlCbmtseW5uVzRLYV9xUFotNkZwdWpUcVhqeGs1QW9VSXFt?oc=5",
+          "title": "Thanksgiving travel forecast: Storms to batter US coasts with heavy rain and flooding - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UWE90b2V2THN1bVlGbjdJa1JyOGxIUjZqUllnUjQ4SzRhZERfUEVBQU9feU5kd0V2YkY0QW5YNVZTWEVjM3lvb19aS092LW15ZFVKTGNVTzRITnFKa29F?oc=5",
           "source": "Google News",
-          "published": "Tue, 24 Nov 2026 00:56:59 GMT"
+          "published": "Tue, 24 Nov 2026 11:38:49 GMT"
         }
       ]
     },
     {
-      "word": "Decades",
+      "word": "Live",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Unsealed warrant documents for Ilhan Omar's DC home raid reveal decades-long scope of investigation - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeFhUU2RBNXRKbGFudnljMVNMd21kYnZOX3I5SFNneWNNRHZMMmdxRFVQa1VKNjJQeWdVT3hXS0lEemkxQTZWT2pzdndZV3UyNkxoX3d1ZWpBbXo3Mzl5WldCR0I5bWRVYVo5bDRpaDRLRlZoLW1BZzdrV2tRZVdrNElzN3VQTUVnVXljakZCSE9MY3ptaFlaT1RkQ0c1WnNJbmljVkFYSlpKblQzZExqUW1UTjZ0c1h3dElnWVFjSUF1UWNfajRkMzVQSdIB0AFBVV95cUxObjZ4RTdndzlzU0NUUER6amVyNTZ2U3RNSFVrTzdVd0tZdVZDdWlXYWtaaVdJdFNfVUhZbnlWX1VmTHEtZDVBM3lfbTQtQy1LQkpzeUI5NG1CRnZPOXNJSnFFaUpXc05mdU1sa0VXeGduX3hrdjBVSWhvcUpWdzh2eUhLMUtWU0l3UWk1WjA0cElIWVplNzNab0Zqams2NFF3V1BXd2ZRbjgyZlFXRVlCbmtseW5uVzRLYV9xUFotNkZwdWpUcVhqeGs1QW9VSXFt?oc=5",
+          "title": "Live storm updates: King tide flooding begins in Bay Area, causing road closures - ABC7 Bay Area",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdlJ3bzd6dnZTdzZrYTR5RWRnNTF1OE1IXy1hME8zVWlNdFBjZXBtQVo1VER5NF9YelIyZXlQWkxSbzU0SUxWdUlYVzMzZmVKVW8tM3ZKSkJybEI1eGcwZEhjMzhSZUtPNDRsRHh2ZVRpUkpLelJsSGRHTzVkelZlSXNLQ0M5Tk1iX0R3eVFuT3piRFdpU3BmZi1JQkxicEk2MTk2TUNjRGRESUlwNWdkeXRuMkZiZGJjRWFPOGlIaUw1SVhzWFpxX3V1a3ljT2xFRjhJckFVeFZtWFhZUmxFX0g4NHpXZjBka0tNdHdGc3VlT3g4?oc=5",
           "source": "Google News",
-          "published": "Tue, 24 Nov 2026 00:56:59 GMT"
+          "published": "Tue, 24 Nov 2026 16:43:00 GMT"
         }
       ]
     },
     {
-      "word": "Long",
+      "word": "Storm",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Unsealed warrant documents for Ilhan Omar's DC home raid reveal decades-long scope of investigation - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeFhUU2RBNXRKbGFudnljMVNMd21kYnZOX3I5SFNneWNNRHZMMmdxRFVQa1VKNjJQeWdVT3hXS0lEemkxQTZWT2pzdndZV3UyNkxoX3d1ZWpBbXo3Mzl5WldCR0I5bWRVYVo5bDRpaDRLRlZoLW1BZzdrV2tRZVdrNElzN3VQTUVnVXljakZCSE9MY3ptaFlaT1RkQ0c1WnNJbmljVkFYSlpKblQzZExqUW1UTjZ0c1h3dElnWVFjSUF1UWNfajRkMzVQSdIB0AFBVV95cUxObjZ4RTdndzlzU0NUUER6amVyNTZ2U3RNSFVrTzdVd0tZdVZDdWlXYWtaaVdJdFNfVUhZbnlWX1VmTHEtZDVBM3lfbTQtQy1LQkpzeUI5NG1CRnZPOXNJSnFFaUpXc05mdU1sa0VXeGduX3hrdjBVSWhvcUpWdzh2eUhLMUtWU0l3UWk1WjA0cElIWVplNzNab0Zqams2NFF3V1BXd2ZRbjgyZlFXRVlCbmtseW5uVzRLYV9xUFotNkZwdWpUcVhqeGs1QW9VSXFt?oc=5",
+          "title": "Live storm updates: King tide flooding begins in Bay Area, causing road closures - ABC7 Bay Area",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdlJ3bzd6dnZTdzZrYTR5RWRnNTF1OE1IXy1hME8zVWlNdFBjZXBtQVo1VER5NF9YelIyZXlQWkxSbzU0SUxWdUlYVzMzZmVKVW8tM3ZKSkJybEI1eGcwZEhjMzhSZUtPNDRsRHh2ZVRpUkpLelJsSGRHTzVkelZlSXNLQ0M5Tk1iX0R3eVFuT3piRFdpU3BmZi1JQkxicEk2MTk2TUNjRGRESUlwNWdkeXRuMkZiZGJjRWFPOGlIaUw1SVhzWFpxX3V1a3ljT2xFRjhJckFVeFZtWFhZUmxFX0g4NHpXZjBka0tNdHdGc3VlT3g4?oc=5",
           "source": "Google News",
-          "published": "Tue, 24 Nov 2026 00:56:59 GMT"
+          "published": "Tue, 24 Nov 2026 16:43:00 GMT"
         }
       ]
     },
     {
-      "word": "Scope",
+      "word": "Updates",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "Unsealed warrant documents for Ilhan Omar's DC home raid reveal decades-long scope of investigation - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeFhUU2RBNXRKbGFudnljMVNMd21kYnZOX3I5SFNneWNNRHZMMmdxRFVQa1VKNjJQeWdVT3hXS0lEemkxQTZWT2pzdndZV3UyNkxoX3d1ZWpBbXo3Mzl5WldCR0I5bWRVYVo5bDRpaDRLRlZoLW1BZzdrV2tRZVdrNElzN3VQTUVnVXljakZCSE9MY3ptaFlaT1RkQ0c1WnNJbmljVkFYSlpKblQzZExqUW1UTjZ0c1h3dElnWVFjSUF1UWNfajRkMzVQSdIB0AFBVV95cUxObjZ4RTdndzlzU0NUUER6amVyNTZ2U3RNSFVrTzdVd0tZdVZDdWlXYWtaaVdJdFNfVUhZbnlWX1VmTHEtZDVBM3lfbTQtQy1LQkpzeUI5NG1CRnZPOXNJSnFFaUpXc05mdU1sa0VXeGduX3hrdjBVSWhvcUpWdzh2eUhLMUtWU0l3UWk1WjA0cElIWVplNzNab0Zqams2NFF3V1BXd2ZRbjgyZlFXRVlCbmtseW5uVzRLYV9xUFotNkZwdWpUcVhqeGs1QW9VSXFt?oc=5",
+          "title": "Live storm updates: King tide flooding begins in Bay Area, causing road closures - ABC7 Bay Area",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdlJ3bzd6dnZTdzZrYTR5RWRnNTF1OE1IXy1hME8zVWlNdFBjZXBtQVo1VER5NF9YelIyZXlQWkxSbzU0SUxWdUlYVzMzZmVKVW8tM3ZKSkJybEI1eGcwZEhjMzhSZUtPNDRsRHh2ZVRpUkpLelJsSGRHTzVkelZlSXNLQ0M5Tk1iX0R3eVFuT3piRFdpU3BmZi1JQkxicEk2MTk2TUNjRGRESUlwNWdkeXRuMkZiZGJjRWFPOGlIaUw1SVhzWFpxX3V1a3ljT2xFRjhJckFVeFZtWFhZUmxFX0g4NHpXZjBka0tNdHdGc3VlT3g4?oc=5",
           "source": "Google News",
-          "published": "Tue, 24 Nov 2026 00:56:59 GMT"
+          "published": "Tue, 24 Nov 2026 16:43:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "King",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Live storm updates: King tide flooding begins in Bay Area, causing road closures - ABC7 Bay Area",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdlJ3bzd6dnZTdzZrYTR5RWRnNTF1OE1IXy1hME8zVWlNdFBjZXBtQVo1VER5NF9YelIyZXlQWkxSbzU0SUxWdUlYVzMzZmVKVW8tM3ZKSkJybEI1eGcwZEhjMzhSZUtPNDRsRHh2ZVRpUkpLelJsSGRHTzVkelZlSXNLQ0M5Tk1iX0R3eVFuT3piRFdpU3BmZi1JQkxicEk2MTk2TUNjRGRESUlwNWdkeXRuMkZiZGJjRWFPOGlIaUw1SVhzWFpxX3V1a3ljT2xFRjhJckFVeFZtWFhZUmxFX0g4NHpXZjBka0tNdHdGc3VlT3g4?oc=5",
+          "source": "Google News",
+          "published": "Tue, 24 Nov 2026 16:43:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Tide",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Live storm updates: King tide flooding begins in Bay Area, causing road closures - ABC7 Bay Area",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdlJ3bzd6dnZTdzZrYTR5RWRnNTF1OE1IXy1hME8zVWlNdFBjZXBtQVo1VER5NF9YelIyZXlQWkxSbzU0SUxWdUlYVzMzZmVKVW8tM3ZKSkJybEI1eGcwZEhjMzhSZUtPNDRsRHh2ZVRpUkpLelJsSGRHTzVkelZlSXNLQ0M5Tk1iX0R3eVFuT3piRFdpU3BmZi1JQkxicEk2MTk2TUNjRGRESUlwNWdkeXRuMkZiZGJjRWFPOGlIaUw1SVhzWFpxX3V1a3ljT2xFRjhJckFVeFZtWFhZUmxFX0g4NHpXZjBka0tNdHdGc3VlT3g4?oc=5",
+          "source": "Google News",
+          "published": "Tue, 24 Nov 2026 16:43:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Begins",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Live storm updates: King tide flooding begins in Bay Area, causing road closures - ABC7 Bay Area",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdlJ3bzd6dnZTdzZrYTR5RWRnNTF1OE1IXy1hME8zVWlNdFBjZXBtQVo1VER5NF9YelIyZXlQWkxSbzU0SUxWdUlYVzMzZmVKVW8tM3ZKSkJybEI1eGcwZEhjMzhSZUtPNDRsRHh2ZVRpUkpLelJsSGRHTzVkelZlSXNLQ0M5Tk1iX0R3eVFuT3piRFdpU3BmZi1JQkxicEk2MTk2TUNjRGRESUlwNWdkeXRuMkZiZGJjRWFPOGlIaUw1SVhzWFpxX3V1a3ljT2xFRjhJckFVeFZtWFhZUmxFX0g4NHpXZjBka0tNdHdGc3VlT3g4?oc=5",
+          "source": "Google News",
+          "published": "Tue, 24 Nov 2026 16:43:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Bay",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Live storm updates: King tide flooding begins in Bay Area, causing road closures - ABC7 Bay Area",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdlJ3bzd6dnZTdzZrYTR5RWRnNTF1OE1IXy1hME8zVWlNdFBjZXBtQVo1VER5NF9YelIyZXlQWkxSbzU0SUxWdUlYVzMzZmVKVW8tM3ZKSkJybEI1eGcwZEhjMzhSZUtPNDRsRHh2ZVRpUkpLelJsSGRHTzVkelZlSXNLQ0M5Tk1iX0R3eVFuT3piRFdpU3BmZi1JQkxicEk2MTk2TUNjRGRESUlwNWdkeXRuMkZiZGJjRWFPOGlIaUw1SVhzWFpxX3V1a3ljT2xFRjhJckFVeFZtWFhZUmxFX0g4NHpXZjBka0tNdHdGc3VlT3g4?oc=5",
+          "source": "Google News",
+          "published": "Tue, 24 Nov 2026 16:43:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Area",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Live storm updates: King tide flooding begins in Bay Area, causing road closures - ABC7 Bay Area",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdlJ3bzd6dnZTdzZrYTR5RWRnNTF1OE1IXy1hME8zVWlNdFBjZXBtQVo1VER5NF9YelIyZXlQWkxSbzU0SUxWdUlYVzMzZmVKVW8tM3ZKSkJybEI1eGcwZEhjMzhSZUtPNDRsRHh2ZVRpUkpLelJsSGRHTzVkelZlSXNLQ0M5Tk1iX0R3eVFuT3piRFdpU3BmZi1JQkxicEk2MTk2TUNjRGRESUlwNWdkeXRuMkZiZGJjRWFPOGlIaUw1SVhzWFpxX3V1a3ljT2xFRjhJckFVeFZtWFhZUmxFX0g4NHpXZjBka0tNdHdGc3VlT3g4?oc=5",
+          "source": "Google News",
+          "published": "Tue, 24 Nov 2026 16:43:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "Causing",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "Live storm updates: King tide flooding begins in Bay Area, causing road closures - ABC7 Bay Area",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdlJ3bzd6dnZTdzZrYTR5RWRnNTF1OE1IXy1hME8zVWlNdFBjZXBtQVo1VER5NF9YelIyZXlQWkxSbzU0SUxWdUlYVzMzZmVKVW8tM3ZKSkJybEI1eGcwZEhjMzhSZUtPNDRsRHh2ZVRpUkpLelJsSGRHTzVkelZlSXNLQ0M5Tk1iX0R3eVFuT3piRFdpU3BmZi1JQkxicEk2MTk2TUNjRGRESUlwNWdkeXRuMkZiZGJjRWFPOGlIaUw1SVhzWFpxX3V1a3ljT2xFRjhJckFVeFZtWFhZUmxFX0g4NHpXZjBka0tNdHdGc3VlT3g4?oc=5",
+          "source": "Google News",
+          "published": "Tue, 24 Nov 2026 16:43:00 GMT"
         }
       ]
     }
