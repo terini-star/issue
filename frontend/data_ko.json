@@ -1,342 +1,132 @@
 {
   "language": "ko",
-  "last_updated": 1795541118.5270455,
+  "last_updated": 1795572617.2631595,
   "count": 40,
   "trends": [
     {
-      "word": "북한",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "미 당국자 “미북 정상회담 성사 노력 전혀 없었다…공은 북한에” - VOA 한국어 홈페이지",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KVzRBTjMxTC04anZqdEg4UmRkWTNRSFl6X05LTlFTVjNoM2ZjTmNjU3hTc1M5RW1fMnBCanAxQUQ3RXhvZmNSV1R4RElJOVp1Uk5iVnNjMTZIa0c2aFkxdXpFdW50Z3paMjFOcVVMdnM?oc=5",
-          "source": "Google News",
-          "published": "Tue, 24 Nov 2026 16:18:48 GMT"
-        },
-        {
-          "title": "스위스, 북한 외교사무소 철수 위협에도 제재 유지 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KSUxWUzhGV0l3UG4wLURIeGU4Vm5NeFpYYThYakdOclBkTWYzM0VrVktxVDhHVEg2dkJxaU5FbXpFTmhxVlFiSTY1T0Q0QmQ2NC00Z3JMMzNTSXPSAWBBVV95cUxPLWtrZVZEQTRVSUdYMklxTVNmMzNuVFg5YTk3UWp6a0ZQbFlQYjE5RnV3LVJ5VC1DVi1KWGx2NEMtd0xBQktYOFRTaUlBeU0yMXFRc3lsTkVpUzlBSjRIalU?oc=5",
-          "source": "Google News",
-          "published": "Tue, 24 Nov 2026 15:58:46 GMT"
-        }
-      ]
-    },
-    {
-      "word": "제재",
-      "count": 2,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "스위스, 북한 외교사무소 철수 위협에도 제재 유지 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KSUxWUzhGV0l3UG4wLURIeGU4Vm5NeFpYYThYakdOclBkTWYzM0VrVktxVDhHVEg2dkJxaU5FbXpFTmhxVlFiSTY1T0Q0QmQ2NC00Z3JMMzNTSXPSAWBBVV95cUxPLWtrZVZEQTRVSUdYMklxTVNmMzNuVFg5YTk3UWp6a0ZQbFlQYjE5RnV3LVJ5VC1DVi1KWGx2NEMtd0xBQktYOFRTaUlBeU0yMXFRc3lsTkVpUzlBSjRIalU?oc=5",
-          "source": "Google News",
-          "published": "Tue, 24 Nov 2026 15:58:46 GMT"
-        },
-        {
-          "title": "미국 추가 제재에 이란 리알화 또 급락…암시장 환율 5% 치솟아 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MbXNXb2sySXBIVGhXekJFS3JzNEZXZkppcVpqV1ZnWFN5enBJUEZrNFF0SkhmeWhCVTVrMlg5SENGaWZwanVnT2VSWTVla3AyOGF2RTdTRmVyTEk?oc=5",
-          "source": "Google News",
-          "published": "Tue, 24 Nov 2026 14:34:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "공소취소",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "야 “공소취소 지휘 않겠단 얘기 못하나”…이용철 “예, 그렇다” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10RFo4NUxhUlFGRGJLUFZVWnpIMGJlQzItbE9Jdmg5b0VZeUY0MXM5eXFFMzh0OVBMWTNRU18yY2g3QmYwY3VOLWdtUnotV0Q5N0hQRFg1cGpFd9IBX0FVX3lxTFBIRzdvdGppZ19HMl81TTVSakN0MjNMQXlsblQ2WG8wLV9UdEZPTVFXVEh1cmdvTXluWUxIdmhtbkRCWXFnLVgyYThlWG9fZFE0aTR5Uk85V2w5UEM4VndF?oc=5",
-          "source": "Google News",
-          "published": "Tue, 24 Nov 2026 12:40:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "지휘",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "야 “공소취소 지휘 않겠단 얘기 못하나”…이용철 “예, 그렇다” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10RFo4NUxhUlFGRGJLUFZVWnpIMGJlQzItbE9Jdmg5b0VZeUY0MXM5eXFFMzh0OVBMWTNRU18yY2g3QmYwY3VOLWdtUnotV0Q5N0hQRFg1cGpFd9IBX0FVX3lxTFBIRzdvdGppZ19HMl81TTVSakN0MjNMQXlsblQ2WG8wLV9UdEZPTVFXVEh1cmdvTXluWUxIdmhtbkRCWXFnLVgyYThlWG9fZFE0aTR5Uk85V2w5UEM4VndF?oc=5",
-          "source": "Google News",
-          "published": "Tue, 24 Nov 2026 12:40:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "않겠단",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "야 “공소취소 지휘 않겠단 얘기 못하나”…이용철 “예, 그렇다” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10RFo4NUxhUlFGRGJLUFZVWnpIMGJlQzItbE9Jdmg5b0VZeUY0MXM5eXFFMzh0OVBMWTNRU18yY2g3QmYwY3VOLWdtUnotV0Q5N0hQRFg1cGpFd9IBX0FVX3lxTFBIRzdvdGppZ19HMl81TTVSakN0MjNMQXlsblQ2WG8wLV9UdEZPTVFXVEh1cmdvTXluWUxIdmhtbkRCWXFnLVgyYThlWG9fZFE0aTR5Uk85V2w5UEM4VndF?oc=5",
-          "source": "Google News",
-          "published": "Tue, 24 Nov 2026 12:40:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "얘기",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "야 “공소취소 지휘 않겠단 얘기 못하나”…이용철 “예, 그렇다” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10RFo4NUxhUlFGRGJLUFZVWnpIMGJlQzItbE9Jdmg5b0VZeUY0MXM5eXFFMzh0OVBMWTNRU18yY2g3QmYwY3VOLWdtUnotV0Q5N0hQRFg1cGpFd9IBX0FVX3lxTFBIRzdvdGppZ19HMl81TTVSakN0MjNMQXlsblQ2WG8wLV9UdEZPTVFXVEh1cmdvTXluWUxIdmhtbkRCWXFnLVgyYThlWG9fZFE0aTR5Uk85V2w5UEM4VndF?oc=5",
-          "source": "Google News",
-          "published": "Tue, 24 Nov 2026 12:40:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "못하나이용철",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "야 “공소취소 지휘 않겠단 얘기 못하나”…이용철 “예, 그렇다” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10RFo4NUxhUlFGRGJLUFZVWnpIMGJlQzItbE9Jdmg5b0VZeUY0MXM5eXFFMzh0OVBMWTNRU18yY2g3QmYwY3VOLWdtUnotV0Q5N0hQRFg1cGpFd9IBX0FVX3lxTFBIRzdvdGppZ19HMl81TTVSakN0MjNMQXlsblQ2WG8wLV9UdEZPTVFXVEh1cmdvTXluWUxIdmhtbkRCWXFnLVgyYThlWG9fZFE0aTR5Uk85V2w5UEM4VndF?oc=5",
-          "source": "Google News",
-          "published": "Tue, 24 Nov 2026 12:40:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "그렇다",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "야 “공소취소 지휘 않겠단 얘기 못하나”…이용철 “예, 그렇다” - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10RFo4NUxhUlFGRGJLUFZVWnpIMGJlQzItbE9Jdmg5b0VZeUY0MXM5eXFFMzh0OVBMWTNRU18yY2g3QmYwY3VOLWdtUnotV0Q5N0hQRFg1cGpFd9IBX0FVX3lxTFBIRzdvdGppZ19HMl81TTVSakN0MjNMQXlsblQ2WG8wLV9UdEZPTVFXVEh1cmdvTXluWUxIdmhtbkRCWXFnLVgyYThlWG9fZFE0aTR5Uk85V2w5UEM4VndF?oc=5",
-          "source": "Google News",
-          "published": "Tue, 24 Nov 2026 12:40:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "사설취임",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[사설]취임 100일 김민석 민주당 대표, 당 통합에 정치적 명운 걸어야 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrS2JVVUc1RkQ4dk5NY0JWRWN0UngyU1RMWDVvaGo1Z2VOQW56TWoyZ00tc1psSU5Qd1pCRC04c1RKUlliMUxrWmZxSGFVNzVOTU5OMlpWZ3hfZ9IBX0FVX3lxTE5CcjZMT3N5ZHJPZmtIZU02MEE4UDVYZm1hQjhGUllURTZKWkllanVUOHhrVEt5dmt5U2VpMml5OEhlSFBWSnZxVTQ3VlpDT3drLVhzdEdfMkpzaDJ5TFJB?oc=5",
-          "source": "Google News",
-          "published": "Tue, 24 Nov 2026 09:17:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "100일",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[사설]취임 100일 김민석 민주당 대표, 당 통합에 정치적 명운 걸어야 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrS2JVVUc1RkQ4dk5NY0JWRWN0UngyU1RMWDVvaGo1Z2VOQW56TWoyZ00tc1psSU5Qd1pCRC04c1RKUlliMUxrWmZxSGFVNzVOTU5OMlpWZ3hfZ9IBX0FVX3lxTE5CcjZMT3N5ZHJPZmtIZU02MEE4UDVYZm1hQjhGUllURTZKWkllanVUOHhrVEt5dmt5U2VpMml5OEhlSFBWSnZxVTQ3VlpDT3drLVhzdEdfMkpzaDJ5TFJB?oc=5",
-          "source": "Google News",
-          "published": "Tue, 24 Nov 2026 09:17:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "김민석",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[사설]취임 100일 김민석 민주당 대표, 당 통합에 정치적 명운 걸어야 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrS2JVVUc1RkQ4dk5NY0JWRWN0UngyU1RMWDVvaGo1Z2VOQW56TWoyZ00tc1psSU5Qd1pCRC04c1RKUlliMUxrWmZxSGFVNzVOTU5OMlpWZ3hfZ9IBX0FVX3lxTE5CcjZMT3N5ZHJPZmtIZU02MEE4UDVYZm1hQjhGUllURTZKWkllanVUOHhrVEt5dmt5U2VpMml5OEhlSFBWSnZxVTQ3VlpDT3drLVhzdEdfMkpzaDJ5TFJB?oc=5",
-          "source": "Google News",
-          "published": "Tue, 24 Nov 2026 09:17:00 GMT"
-        }
-      ]
-    },
-    {
       "word": "민주당",
-      "count": 1,
+      "count": 2,
       "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "[사설]취임 100일 김민석 민주당 대표, 당 통합에 정치적 명운 걸어야 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrS2JVVUc1RkQ4dk5NY0JWRWN0UngyU1RMWDVvaGo1Z2VOQW56TWoyZ00tc1psSU5Qd1pCRC04c1RKUlliMUxrWmZxSGFVNzVOTU5OMlpWZ3hfZ9IBX0FVX3lxTE5CcjZMT3N5ZHJPZmtIZU02MEE4UDVYZm1hQjhGUllURTZKWkllanVUOHhrVEt5dmt5U2VpMml5OEhlSFBWSnZxVTQ3VlpDT3drLVhzdEdfMkpzaDJ5TFJB?oc=5",
+          "title": "‘조희대 탄핵’ 두고 민주당 “사유 합치면 중대성 넘쳐” vs ‘무리수’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RZG11b2ZuTVZPMW1DQXhvNWVwcDU3TlF0azVJZU1GUUQ1OVNyRUtYMG9qNktXLXdROWpGTnZNbXBOb0Q3VVg4Z3JqNUNDMDd4UDFUYlVWVHhNMEstaW9SeTdETVhTSjZ1amhYV2NPeEw5MEZy?oc=5",
           "source": "Google News",
-          "published": "Tue, 24 Nov 2026 09:17:00 GMT"
+          "published": "Wed, 25 Nov 2026 00:08:00 GMT"
+        },
+        {
+          "title": "민주당이 미는 앤트로픽 vs 공화당이 받쳐주는 엔비디아? AI주 둘러싼 '음모론' - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnSWg0R3BORklnZUVEVDRJb3FXSFo3QkE2RlhPX3Z2MjFHNER1dFhtYkJWZGVtUVVjS0IwdjZ6MFlqSW10SFpYUXJJejk3VXctck1EcWc1cWlsOTdBQmc?oc=5",
+          "source": "Google News",
+          "published": "Tue, 24 Nov 2026 21:49:00 GMT"
         }
       ]
     },
     {
-      "word": "대표",
-      "count": 1,
-      "category": "NOUN",
+      "word": "대통령",
+      "count": 2,
+      "category": "PERSON",
       "articles": [
         {
-          "title": "[사설]취임 100일 김민석 민주당 대표, 당 통합에 정치적 명운 걸어야 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrS2JVVUc1RkQ4dk5NY0JWRWN0UngyU1RMWDVvaGo1Z2VOQW56TWoyZ00tc1psSU5Qd1pCRC04c1RKUlliMUxrWmZxSGFVNzVOTU5OMlpWZ3hfZ9IBX0FVX3lxTE5CcjZMT3N5ZHJPZmtIZU02MEE4UDVYZm1hQjhGUllURTZKWkllanVUOHhrVEt5dmt5U2VpMml5OEhlSFBWSnZxVTQ3VlpDT3drLVhzdEdfMkpzaDJ5TFJB?oc=5",
+          "title": "\"강금실? 대통령 생각을 모르겠다\" 與서도 국정원장 후보 지명 우려 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLVBXOFpQTTB1M1BzQW1HOXdqUUJrMlB4S1oxUXNVaUt4aTRFemlueXZjTTZrYng1WmUydUtBNWM4THVkNmJ6VVFLTmRqUGZOLU5sZlNWbzJtV2RRWkc5aVRnVXIzenJnRHY0TVlDTXVuMTlMUU1uUTJDcnI1NnBRVFB1ZjJPQQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 24 Nov 2026 09:17:00 GMT"
+          "published": "Tue, 24 Nov 2026 15:43:00 GMT"
+        },
+        {
+          "title": "이 대통령, ‘5·18 진압 경찰’ 포상취소에 “너무 당연한 조치···역사 교정은 계속될 것” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjTG5NTGRYQmR1T09VSUVQOTlhTVNuRkZkdm5qazB6S1Rmd0pJQ0JUbVN0ZmRyYzZaemJWTU5CSnlSdXA2UXB2SVJNaTBaLXFRV3JHenRRM2UtZ9IBX0FVX3lxTE56UXpqcW9Iamdfcnc3RTVTbGpOaXl2cjZQTHhQX2dqNHg2RkpOU1lwdFJiSHYzVjlFWWlKa2hCOWhIdEdJaC1DNHk0UWM4c1ZlVzU3dm5jR1A4Z2RTTU5j?oc=5",
+          "source": "Google News",
+          "published": "Tue, 24 Nov 2026 22:21:00 GMT"
         }
       ]
     },
     {
-      "word": "통합",
-      "count": 1,
+      "word": "경찰",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[사설]취임 100일 김민석 민주당 대표, 당 통합에 정치적 명운 걸어야 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrS2JVVUc1RkQ4dk5NY0JWRWN0UngyU1RMWDVvaGo1Z2VOQW56TWoyZ00tc1psSU5Qd1pCRC04c1RKUlliMUxrWmZxSGFVNzVOTU5OMlpWZ3hfZ9IBX0FVX3lxTE5CcjZMT3N5ZHJPZmtIZU02MEE4UDVYZm1hQjhGUllURTZKWkllanVUOHhrVEt5dmt5U2VpMml5OEhlSFBWSnZxVTQ3VlpDT3drLVhzdEdfMkpzaDJ5TFJB?oc=5",
+          "title": "이 대통령, ‘5·18 진압 경찰’ 포상취소에 “너무 당연한 조치···역사 교정은 계속될 것” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjTG5NTGRYQmR1T09VSUVQOTlhTVNuRkZkdm5qazB6S1Rmd0pJQ0JUbVN0ZmRyYzZaemJWTU5CSnlSdXA2UXB2SVJNaTBaLXFRV3JHenRRM2UtZ9IBX0FVX3lxTE56UXpqcW9Iamdfcnc3RTVTbGpOaXl2cjZQTHhQX2dqNHg2RkpOU1lwdFJiSHYzVjlFWWlKa2hCOWhIdEdJaC1DNHk0UWM4c1ZlVzU3dm5jR1A4Z2RTTU5j?oc=5",
           "source": "Google News",
-          "published": "Tue, 24 Nov 2026 09:17:00 GMT"
+          "published": "Tue, 24 Nov 2026 22:21:00 GMT"
+        },
+        {
+          "title": "'리트 만점자' 과외 교사, 25일 경찰 참고인 조사 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVcnUydWlkQ1g5LWhHTjVDM2Z2SGFHY3llbVBEVXlidE9Jc2pkV29Qa3hFU3d6WVlnZDhLeTJzR0NhNlpScFc2MEdlUUJQTUF0TFVhRTNLMkR6UQ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 24 Nov 2026 22:02:28 GMT"
         }
       ]
     },
     {
-      "word": "정치",
-      "count": 1,
+      "word": "조사",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[사설]취임 100일 김민석 민주당 대표, 당 통합에 정치적 명운 걸어야 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrS2JVVUc1RkQ4dk5NY0JWRWN0UngyU1RMWDVvaGo1Z2VOQW56TWoyZ00tc1psSU5Qd1pCRC04c1RKUlliMUxrWmZxSGFVNzVOTU5OMlpWZ3hfZ9IBX0FVX3lxTE5CcjZMT3N5ZHJPZmtIZU02MEE4UDVYZm1hQjhGUllURTZKWkllanVUOHhrVEt5dmt5U2VpMml5OEhlSFBWSnZxVTQ3VlpDT3drLVhzdEdfMkpzaDJ5TFJB?oc=5",
+          "title": "'리트 만점자' 과외 교사, 25일 경찰 참고인 조사 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVcnUydWlkQ1g5LWhHTjVDM2Z2SGFHY3llbVBEVXlidE9Jc2pkV29Qa3hFU3d6WVlnZDhLeTJzR0NhNlpScFc2MEdlUUJQTUF0TFVhRTNLMkR6UQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 24 Nov 2026 09:17:00 GMT"
+          "published": "Tue, 24 Nov 2026 22:02:28 GMT"
+        },
+        {
+          "title": "시진핑 후계자 꼽혔던 천지닝 상하이 당 서기, 반부패 조사 중 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YWEhvRE9XNThMT3NybmtCWDYzS3lHWnB2ZDd3YjZ2eTR3cUNxeFd1TFhCQnA3UDItWG42bU5RS0hHT2Y2NlU0T3o1SFpiYkU5dGU1VUg1LWh1QdIBX0FVX3lxTE54VWdtUldfVFR2OXpVeko5TzhzNmZVYXV0MmNCbzA4M0U4aVV0UHV3YUk3S014ay16eFlZRGlFMFVaMlNzY0JEN2xXQS1fVnpJcVdxVmh3OVJZSEVhSHNZ?oc=5",
+          "source": "Google News",
+          "published": "Tue, 24 Nov 2026 12:12:00 GMT"
         }
       ]
     },
     {
-      "word": "명운",
-      "count": 1,
+      "word": "엔비디아",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "[사설]취임 100일 김민석 민주당 대표, 당 통합에 정치적 명운 걸어야 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrS2JVVUc1RkQ4dk5NY0JWRWN0UngyU1RMWDVvaGo1Z2VOQW56TWoyZ00tc1psSU5Qd1pCRC04c1RKUlliMUxrWmZxSGFVNzVOTU5OMlpWZ3hfZ9IBX0FVX3lxTE5CcjZMT3N5ZHJPZmtIZU02MEE4UDVYZm1hQjhGUllURTZKWkllanVUOHhrVEt5dmt5U2VpMml5OEhlSFBWSnZxVTQ3VlpDT3drLVhzdEdfMkpzaDJ5TFJB?oc=5",
+          "title": "젠슨 황, 엔비디아 전사회의 열고 사과‥\"심리치료 받고 있다\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tdWVicnd1VERGZjNUYnh5YVV1VG9TeW9YQVgtTF9LX2F6SHdJWHdfczN5NHpqcEZELS14U1NOUVUwMlE1QmE3Q3gxZDdTMFNESmMyMTV2eVpCVkxiMktOMEJPQ0VWWFQ4QkVFZkUya1B3Tm920gF0QVVfeXFMTnhLaFNmcHNXWEszSlpzWTRaN2phQWNWdHRwVFg1bDV6OXl1cUU4ck96TVdIeVBDWUhaQ3A2aVg0clpZU2NzWklqT1NqbVBfSVZkdk9LOHBKTUxYa2NOV0Z2VDZRVUtIY3V2bnpvZmdaNDl5alc?oc=5",
           "source": "Google News",
-          "published": "Tue, 24 Nov 2026 09:17:00 GMT"
+          "published": "Tue, 24 Nov 2026 21:38:19 GMT"
+        },
+        {
+          "title": "민주당이 미는 앤트로픽 vs 공화당이 받쳐주는 엔비디아? AI주 둘러싼 '음모론' - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnSWg0R3BORklnZUVEVDRJb3FXSFo3QkE2RlhPX3Z2MjFHNER1dFhtYkJWZGVtUVVjS0IwdjZ6MFlqSW10SFpYUXJJejk3VXctck1EcWc1cWlsOTdBQmc?oc=5",
+          "source": "Google News",
+          "published": "Tue, 24 Nov 2026 21:49:00 GMT"
         }
       ]
     },
     {
-      "word": "걸어야",
-      "count": 1,
-      "category": "NOUN",
+      "word": "GTA6",
+      "count": 2,
+      "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "[사설]취임 100일 김민석 민주당 대표, 당 통합에 정치적 명운 걸어야 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrS2JVVUc1RkQ4dk5NY0JWRWN0UngyU1RMWDVvaGo1Z2VOQW56TWoyZ00tc1psSU5Qd1pCRC04c1RKUlliMUxrWmZxSGFVNzVOTU5OMlpWZ3hfZ9IBX0FVX3lxTE5CcjZMT3N5ZHJPZmtIZU02MEE4UDVYZm1hQjhGUllURTZKWkllanVUOHhrVEt5dmt5U2VpMml5OEhlSFBWSnZxVTQ3VlpDT3drLVhzdEdfMkpzaDJ5TFJB?oc=5",
+          "title": "GTA6 해킹 파일로 AI '해적판' 제작 시도…3007곳 차단 - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkcE9rUVVoYUdUWHBNcHc1TGRiZVpUNnZocTdYeWVKdUpXY1cyTnpkTWZKXzdjT0JoY3NLX2dpN1JRdUNsY0o2TDBmMnZhelFtRlJRdy1Tb241Xy1QbXdxMw?oc=5",
           "source": "Google News",
-          "published": "Tue, 24 Nov 2026 09:17:00 GMT"
+          "published": "Wed, 25 Nov 2026 01:27:53 GMT"
+        },
+        {
+          "title": "[뉴비로그] 13년만에 돌아온 'GTA6' 해보니 턱도 없었다 - 세이프타임즈",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RYVJZWkNvMnpkMjNacmktTzBhZFFPRG51LXhQVFEyVDFfOUk2Vl9EdmlZR0htSHFBbmZUZzhLYnp3TS1kRk05UUdkd1dNS012WUF1NWlBQXN4SVBVR2RMX1Q5T21HQmhqMHd6Y2Nrd9IBc0FVX3lxTE9teWstaFhBWnFNTU1KZmIzZGFLR1dHRGg5ZXlwLWxpMDc3bVY3T2JobGVYUUpEOUNlZzRYSGNfSEh0b0UwYktRR0gxREQyTm1rbTZScVRDS2FMWDdOYmc1U29OaWZ4Vk9oalAxX0I1aU9NcTg?oc=5",
+          "source": "Google News",
+          "published": "Wed, 25 Nov 2026 01:21:07 GMT"
         }
       ]
     },
     {
-      "word": "울릉",
-      "count": 1,
+      "word": "혐의",
+      "count": 2,
       "category": "NOUN",
       "articles": [
         {
-          "title": "울릉도 향해 ‘초속 200m 돌진’ 러 군용기…폭격기까지 끼어 있었다 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JMURfWEMyaG5sc3RGNmVvekZaV3RqakEwTzRwaU03aWl6Nzk1X2psa0lXU294MlFOdDlGTzRsMElhZ1NPSEFpdzBXQS1FcWNRbm90NXJJaXpHODdUbzN0MnV3SkZNenM3NHRuS1lGX3ZxLXc5?oc=5",
+          "title": "'혐의 인정' 고경표, 치상 혐의 적용 갈림길..'마디모 감정' 검토 [Oh!쎈 이슈] - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONE1EdHRsdXlIR3RYWVBKSGtXblp0NHBQZmFzb2pxaGhpVWZZMDFIaDBXMGN3VVl2WmZOcUVCTUxVS1BEODNaMkdYSVF5TVl4TndTa08xOXlSNmJDLVBIZVZSX3JMMDIyaDVua1VJemthSWNndmVuRnR1c2tQdHQyajF4eVk1MjR6Y2lST3dEdw?oc=5",
           "source": "Google News",
-          "published": "Tue, 24 Nov 2026 15:29:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "향해",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "울릉도 향해 ‘초속 200m 돌진’ 러 군용기…폭격기까지 끼어 있었다 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JMURfWEMyaG5sc3RGNmVvekZaV3RqakEwTzRwaU03aWl6Nzk1X2psa0lXU294MlFOdDlGTzRsMElhZ1NPSEFpdzBXQS1FcWNRbm90NXJJaXpHODdUbzN0MnV3SkZNenM3NHRuS1lGX3ZxLXc5?oc=5",
-          "source": "Google News",
-          "published": "Tue, 24 Nov 2026 15:29:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "초속",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "울릉도 향해 ‘초속 200m 돌진’ 러 군용기…폭격기까지 끼어 있었다 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JMURfWEMyaG5sc3RGNmVvekZaV3RqakEwTzRwaU03aWl6Nzk1X2psa0lXU294MlFOdDlGTzRsMElhZ1NPSEFpdzBXQS1FcWNRbm90NXJJaXpHODdUbzN0MnV3SkZNenM3NHRuS1lGX3ZxLXc5?oc=5",
-          "source": "Google News",
-          "published": "Tue, 24 Nov 2026 15:29:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "200m",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "울릉도 향해 ‘초속 200m 돌진’ 러 군용기…폭격기까지 끼어 있었다 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JMURfWEMyaG5sc3RGNmVvekZaV3RqakEwTzRwaU03aWl6Nzk1X2psa0lXU294MlFOdDlGTzRsMElhZ1NPSEFpdzBXQS1FcWNRbm90NXJJaXpHODdUbzN0MnV3SkZNenM3NHRuS1lGX3ZxLXc5?oc=5",
-          "source": "Google News",
-          "published": "Tue, 24 Nov 2026 15:29:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "돌진",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "울릉도 향해 ‘초속 200m 돌진’ 러 군용기…폭격기까지 끼어 있었다 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JMURfWEMyaG5sc3RGNmVvekZaV3RqakEwTzRwaU03aWl6Nzk1X2psa0lXU294MlFOdDlGTzRsMElhZ1NPSEFpdzBXQS1FcWNRbm90NXJJaXpHODdUbzN0MnV3SkZNenM3NHRuS1lGX3ZxLXc5?oc=5",
-          "source": "Google News",
-          "published": "Tue, 24 Nov 2026 15:29:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "군용기폭격기",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "울릉도 향해 ‘초속 200m 돌진’ 러 군용기…폭격기까지 끼어 있었다 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JMURfWEMyaG5sc3RGNmVvekZaV3RqakEwTzRwaU03aWl6Nzk1X2psa0lXU294MlFOdDlGTzRsMElhZ1NPSEFpdzBXQS1FcWNRbm90NXJJaXpHODdUbzN0MnV3SkZNenM3NHRuS1lGX3ZxLXc5?oc=5",
-          "source": "Google News",
-          "published": "Tue, 24 Nov 2026 15:29:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "끼어",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "울릉도 향해 ‘초속 200m 돌진’ 러 군용기…폭격기까지 끼어 있었다 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JMURfWEMyaG5sc3RGNmVvekZaV3RqakEwTzRwaU03aWl6Nzk1X2psa0lXU294MlFOdDlGTzRsMElhZ1NPSEFpdzBXQS1FcWNRbm90NXJJaXpHODdUbzN0MnV3SkZNenM3NHRuS1lGX3ZxLXc5?oc=5",
-          "source": "Google News",
-          "published": "Tue, 24 Nov 2026 15:29:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "있었다",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "울릉도 향해 ‘초속 200m 돌진’ 러 군용기…폭격기까지 끼어 있었다 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JMURfWEMyaG5sc3RGNmVvekZaV3RqakEwTzRwaU03aWl6Nzk1X2psa0lXU294MlFOdDlGTzRsMElhZ1NPSEFpdzBXQS1FcWNRbm90NXJJaXpHODdUbzN0MnV3SkZNenM3NHRuS1lGX3ZxLXc5?oc=5",
-          "source": "Google News",
-          "published": "Tue, 24 Nov 2026 15:29:00 GMT"
+          "published": "Tue, 24 Nov 2026 22:19:00 GMT"
         }
       ]
     },
@@ -346,10 +136,10 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "조희대 탄핵 사유엔 안 넣겠다면서도…여당 “한덕수 면죄부 판결” 여론몰이 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xYTlyTEdydnNJdGNPaVpBZkgxYU9oQjNITXZ0LThnN3lBaDBnUTE1eHJVRGVlRlhPYjNiTU1TWGVCdVVvSVVsUkR0SjM1RWNrQXc0MEc2ZEhjUdIBX0FVX3lxTE10bHp1V1h5MUx2cFhHTDJhQU1EeHg2S3NmMWlxQzk1RzAySGlFVV9wU0Q1QjlROENrcFRsejkxNzhIUktxRklDN0tYd1dZcXA4dkx1OEluUHJZSF9uNVVv?oc=5",
+          "title": "‘조희대 탄핵’ 두고 민주당 “사유 합치면 중대성 넘쳐” vs ‘무리수’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RZG11b2ZuTVZPMW1DQXhvNWVwcDU3TlF0azVJZU1GUUQ1OVNyRUtYMG9qNktXLXdROWpGTnZNbXBOb0Q3VVg4Z3JqNUNDMDd4UDFUYlVWVHhNMEstaW9SeTdETVhTSjZ1amhYV2NPeEw5MEZy?oc=5",
           "source": "Google News",
-          "published": "Tue, 24 Nov 2026 12:40:00 GMT"
+          "published": "Wed, 25 Nov 2026 00:08:00 GMT"
         }
       ]
     },
@@ -359,179 +149,413 @@
       "category": "NOUN",
       "articles": [
         {
-          "title": "조희대 탄핵 사유엔 안 넣겠다면서도…여당 “한덕수 면죄부 판결” 여론몰이 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xYTlyTEdydnNJdGNPaVpBZkgxYU9oQjNITXZ0LThnN3lBaDBnUTE1eHJVRGVlRlhPYjNiTU1TWGVCdVVvSVVsUkR0SjM1RWNrQXc0MEc2ZEhjUdIBX0FVX3lxTE10bHp1V1h5MUx2cFhHTDJhQU1EeHg2S3NmMWlxQzk1RzAySGlFVV9wU0Q1QjlROENrcFRsejkxNzhIUktxRklDN0tYd1dZcXA4dkx1OEluUHJZSF9uNVVv?oc=5",
+          "title": "‘조희대 탄핵’ 두고 민주당 “사유 합치면 중대성 넘쳐” vs ‘무리수’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RZG11b2ZuTVZPMW1DQXhvNWVwcDU3TlF0azVJZU1GUUQ1OVNyRUtYMG9qNktXLXdROWpGTnZNbXBOb0Q3VVg4Z3JqNUNDMDd4UDFUYlVWVHhNMEstaW9SeTdETVhTSjZ1amhYV2NPeEw5MEZy?oc=5",
           "source": "Google News",
-          "published": "Tue, 24 Nov 2026 12:40:00 GMT"
+          "published": "Wed, 25 Nov 2026 00:08:00 GMT"
         }
       ]
     },
     {
-      "word": "사유엔",
+      "word": "두고",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "조희대 탄핵 사유엔 안 넣겠다면서도…여당 “한덕수 면죄부 판결” 여론몰이 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xYTlyTEdydnNJdGNPaVpBZkgxYU9oQjNITXZ0LThnN3lBaDBnUTE1eHJVRGVlRlhPYjNiTU1TWGVCdVVvSVVsUkR0SjM1RWNrQXc0MEc2ZEhjUdIBX0FVX3lxTE10bHp1V1h5MUx2cFhHTDJhQU1EeHg2S3NmMWlxQzk1RzAySGlFVV9wU0Q1QjlROENrcFRsejkxNzhIUktxRklDN0tYd1dZcXA4dkx1OEluUHJZSF9uNVVv?oc=5",
+          "title": "‘조희대 탄핵’ 두고 민주당 “사유 합치면 중대성 넘쳐” vs ‘무리수’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RZG11b2ZuTVZPMW1DQXhvNWVwcDU3TlF0azVJZU1GUUQ1OVNyRUtYMG9qNktXLXdROWpGTnZNbXBOb0Q3VVg4Z3JqNUNDMDd4UDFUYlVWVHhNMEstaW9SeTdETVhTSjZ1amhYV2NPeEw5MEZy?oc=5",
           "source": "Google News",
-          "published": "Tue, 24 Nov 2026 12:40:00 GMT"
+          "published": "Wed, 25 Nov 2026 00:08:00 GMT"
         }
       ]
     },
     {
-      "word": "넣겠다면서도여당",
+      "word": "사유",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘조희대 탄핵’ 두고 민주당 “사유 합치면 중대성 넘쳐” vs ‘무리수’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RZG11b2ZuTVZPMW1DQXhvNWVwcDU3TlF0azVJZU1GUUQ1OVNyRUtYMG9qNktXLXdROWpGTnZNbXBOb0Q3VVg4Z3JqNUNDMDd4UDFUYlVWVHhNMEstaW9SeTdETVhTSjZ1amhYV2NPeEw5MEZy?oc=5",
+          "source": "Google News",
+          "published": "Wed, 25 Nov 2026 00:08:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "합치면",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘조희대 탄핵’ 두고 민주당 “사유 합치면 중대성 넘쳐” vs ‘무리수’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RZG11b2ZuTVZPMW1DQXhvNWVwcDU3TlF0azVJZU1GUUQ1OVNyRUtYMG9qNktXLXdROWpGTnZNbXBOb0Q3VVg4Z3JqNUNDMDd4UDFUYlVWVHhNMEstaW9SeTdETVhTSjZ1amhYV2NPeEw5MEZy?oc=5",
+          "source": "Google News",
+          "published": "Wed, 25 Nov 2026 00:08:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "중대",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘조희대 탄핵’ 두고 민주당 “사유 합치면 중대성 넘쳐” vs ‘무리수’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RZG11b2ZuTVZPMW1DQXhvNWVwcDU3TlF0azVJZU1GUUQ1OVNyRUtYMG9qNktXLXdROWpGTnZNbXBOb0Q3VVg4Z3JqNUNDMDd4UDFUYlVWVHhNMEstaW9SeTdETVhTSjZ1amhYV2NPeEw5MEZy?oc=5",
+          "source": "Google News",
+          "published": "Wed, 25 Nov 2026 00:08:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "넘쳐",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘조희대 탄핵’ 두고 민주당 “사유 합치면 중대성 넘쳐” vs ‘무리수’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RZG11b2ZuTVZPMW1DQXhvNWVwcDU3TlF0azVJZU1GUUQ1OVNyRUtYMG9qNktXLXdROWpGTnZNbXBOb0Q3VVg4Z3JqNUNDMDd4UDFUYlVWVHhNMEstaW9SeTdETVhTSjZ1amhYV2NPeEw5MEZy?oc=5",
+          "source": "Google News",
+          "published": "Wed, 25 Nov 2026 00:08:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "무리수",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "‘조희대 탄핵’ 두고 민주당 “사유 합치면 중대성 넘쳐” vs ‘무리수’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RZG11b2ZuTVZPMW1DQXhvNWVwcDU3TlF0azVJZU1GUUQ1OVNyRUtYMG9qNktXLXdROWpGTnZNbXBOb0Q3VVg4Z3JqNUNDMDd4UDFUYlVWVHhNMEstaW9SeTdETVhTSjZ1amhYV2NPeEw5MEZy?oc=5",
+          "source": "Google News",
+          "published": "Wed, 25 Nov 2026 00:08:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "서울",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "서울 지하철 노사협상 타결… 총파업 철회 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMVRDS1g5NUlvVEE0Yi1zX0RkVFZoV2xJd1ZwMTZFLVdBUFo5cmJMeXdrNVJNUjV0eWxrWi1CRmpwZWVPVF9ENzhMQmZYQVdTdHMyR2JnQVdnZWgyUDh6UXRQU0lYX3MzVGZud1RxTXN4Ul94RlhUTXpMM1JKX2pKSnBFdWMwSVljR181b3NIRWY?oc=5",
+          "source": "Google News",
+          "published": "Tue, 24 Nov 2026 17:52:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "지하철",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "서울 지하철 노사협상 타결… 총파업 철회 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMVRDS1g5NUlvVEE0Yi1zX0RkVFZoV2xJd1ZwMTZFLVdBUFo5cmJMeXdrNVJNUjV0eWxrWi1CRmpwZWVPVF9ENzhMQmZYQVdTdHMyR2JnQVdnZWgyUDh6UXRQU0lYX3MzVGZud1RxTXN4Ul94RlhUTXpMM1JKX2pKSnBFdWMwSVljR181b3NIRWY?oc=5",
+          "source": "Google News",
+          "published": "Tue, 24 Nov 2026 17:52:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "노사협상",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "서울 지하철 노사협상 타결… 총파업 철회 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMVRDS1g5NUlvVEE0Yi1zX0RkVFZoV2xJd1ZwMTZFLVdBUFo5cmJMeXdrNVJNUjV0eWxrWi1CRmpwZWVPVF9ENzhMQmZYQVdTdHMyR2JnQVdnZWgyUDh6UXRQU0lYX3MzVGZud1RxTXN4Ul94RlhUTXpMM1JKX2pKSnBFdWMwSVljR181b3NIRWY?oc=5",
+          "source": "Google News",
+          "published": "Tue, 24 Nov 2026 17:52:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "타결",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "서울 지하철 노사협상 타결… 총파업 철회 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMVRDS1g5NUlvVEE0Yi1zX0RkVFZoV2xJd1ZwMTZFLVdBUFo5cmJMeXdrNVJNUjV0eWxrWi1CRmpwZWVPVF9ENzhMQmZYQVdTdHMyR2JnQVdnZWgyUDh6UXRQU0lYX3MzVGZud1RxTXN4Ul94RlhUTXpMM1JKX2pKSnBFdWMwSVljR181b3NIRWY?oc=5",
+          "source": "Google News",
+          "published": "Tue, 24 Nov 2026 17:52:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "총파업",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "서울 지하철 노사협상 타결… 총파업 철회 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMVRDS1g5NUlvVEE0Yi1zX0RkVFZoV2xJd1ZwMTZFLVdBUFo5cmJMeXdrNVJNUjV0eWxrWi1CRmpwZWVPVF9ENzhMQmZYQVdTdHMyR2JnQVdnZWgyUDh6UXRQU0lYX3MzVGZud1RxTXN4Ul94RlhUTXpMM1JKX2pKSnBFdWMwSVljR181b3NIRWY?oc=5",
+          "source": "Google News",
+          "published": "Tue, 24 Nov 2026 17:52:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "철회",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "서울 지하철 노사협상 타결… 총파업 철회 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMVRDS1g5NUlvVEE0Yi1zX0RkVFZoV2xJd1ZwMTZFLVdBUFo5cmJMeXdrNVJNUjV0eWxrWi1CRmpwZWVPVF9ENzhMQmZYQVdTdHMyR2JnQVdnZWgyUDh6UXRQU0lYX3MzVGZud1RxTXN4Ul94RlhUTXpMM1JKX2pKSnBFdWMwSVljR181b3NIRWY?oc=5",
+          "source": "Google News",
+          "published": "Tue, 24 Nov 2026 17:52:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "국가시험",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "국가시험 ‘앞치마’ 의무화…학교 시험도 금속탐지기 검사 뒤 본다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmVkJHa0tyV09ZeGRzSVBEa2l2SnlTXy1TUng4RzBCc2kyaldtY091RnMtcVVCZUZlQUlvVXJZWUI0eW95aHp1OERWbE9PQmdkRlpMZWpYQm02alZmUERLWlZuOFotX3U2SGc?oc=5",
+          "source": "Google News",
+          "published": "Tue, 24 Nov 2026 15:28:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "앞치마",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "국가시험 ‘앞치마’ 의무화…학교 시험도 금속탐지기 검사 뒤 본다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmVkJHa0tyV09ZeGRzSVBEa2l2SnlTXy1TUng4RzBCc2kyaldtY091RnMtcVVCZUZlQUlvVXJZWUI0eW95aHp1OERWbE9PQmdkRlpMZWpYQm02alZmUERLWlZuOFotX3U2SGc?oc=5",
+          "source": "Google News",
+          "published": "Tue, 24 Nov 2026 15:28:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "의무화학교",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "국가시험 ‘앞치마’ 의무화…학교 시험도 금속탐지기 검사 뒤 본다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmVkJHa0tyV09ZeGRzSVBEa2l2SnlTXy1TUng4RzBCc2kyaldtY091RnMtcVVCZUZlQUlvVXJZWUI0eW95aHp1OERWbE9PQmdkRlpMZWpYQm02alZmUERLWlZuOFotX3U2SGc?oc=5",
+          "source": "Google News",
+          "published": "Tue, 24 Nov 2026 15:28:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "시험",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "국가시험 ‘앞치마’ 의무화…학교 시험도 금속탐지기 검사 뒤 본다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmVkJHa0tyV09ZeGRzSVBEa2l2SnlTXy1TUng4RzBCc2kyaldtY091RnMtcVVCZUZlQUlvVXJZWUI0eW95aHp1OERWbE9PQmdkRlpMZWpYQm02alZmUERLWlZuOFotX3U2SGc?oc=5",
+          "source": "Google News",
+          "published": "Tue, 24 Nov 2026 15:28:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "금속탐지기",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "국가시험 ‘앞치마’ 의무화…학교 시험도 금속탐지기 검사 뒤 본다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmVkJHa0tyV09ZeGRzSVBEa2l2SnlTXy1TUng4RzBCc2kyaldtY091RnMtcVVCZUZlQUlvVXJZWUI0eW95aHp1OERWbE9PQmdkRlpMZWpYQm02alZmUERLWlZuOFotX3U2SGc?oc=5",
+          "source": "Google News",
+          "published": "Tue, 24 Nov 2026 15:28:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "검사",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "국가시험 ‘앞치마’ 의무화…학교 시험도 금속탐지기 검사 뒤 본다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmVkJHa0tyV09ZeGRzSVBEa2l2SnlTXy1TUng4RzBCc2kyaldtY091RnMtcVVCZUZlQUlvVXJZWUI0eW95aHp1OERWbE9PQmdkRlpMZWpYQm02alZmUERLWlZuOFotX3U2SGc?oc=5",
+          "source": "Google News",
+          "published": "Tue, 24 Nov 2026 15:28:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "본다",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "국가시험 ‘앞치마’ 의무화…학교 시험도 금속탐지기 검사 뒤 본다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmVkJHa0tyV09ZeGRzSVBEa2l2SnlTXy1TUng4RzBCc2kyaldtY091RnMtcVVCZUZlQUlvVXJZWUI0eW95aHp1OERWbE9PQmdkRlpMZWpYQm02alZmUERLWlZuOFotX3U2SGc?oc=5",
+          "source": "Google News",
+          "published": "Tue, 24 Nov 2026 15:28:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "스위스",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "스위스 스키에 프랑스 명품복 입은 김주애···미 국무부 “대북 반입 금지 사치품” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QN3MyOU1TMUMwQ01sZVNfYUJ0UGJ4NEFwUFZSalBzdTdfQURISi1pOXowdFI0a1NjSFkzejBOdldaWC1kV1YzX1VuMWc5Zy1sQlFRSjk5dzZVQdIBX0FVX3lxTFBvSWMzQ2JLMXZvRGJDNlR3cDgxNmdFMEg5eTIzekM2TGE4cS1SNnktYV85X0JIckZHTDBLQnBBODkxV2kyNGxJZWhKT2s4S2JDUkhqdm1WMjlQYUdvRHZV?oc=5",
+          "source": "Google News",
+          "published": "Tue, 24 Nov 2026 22:22:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "스키",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "스위스 스키에 프랑스 명품복 입은 김주애···미 국무부 “대북 반입 금지 사치품” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QN3MyOU1TMUMwQ01sZVNfYUJ0UGJ4NEFwUFZSalBzdTdfQURISi1pOXowdFI0a1NjSFkzejBOdldaWC1kV1YzX1VuMWc5Zy1sQlFRSjk5dzZVQdIBX0FVX3lxTFBvSWMzQ2JLMXZvRGJDNlR3cDgxNmdFMEg5eTIzekM2TGE4cS1SNnktYV85X0JIckZHTDBLQnBBODkxV2kyNGxJZWhKT2s4S2JDUkhqdm1WMjlQYUdvRHZV?oc=5",
+          "source": "Google News",
+          "published": "Tue, 24 Nov 2026 22:22:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "프랑스",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "스위스 스키에 프랑스 명품복 입은 김주애···미 국무부 “대북 반입 금지 사치품” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QN3MyOU1TMUMwQ01sZVNfYUJ0UGJ4NEFwUFZSalBzdTdfQURISi1pOXowdFI0a1NjSFkzejBOdldaWC1kV1YzX1VuMWc5Zy1sQlFRSjk5dzZVQdIBX0FVX3lxTFBvSWMzQ2JLMXZvRGJDNlR3cDgxNmdFMEg5eTIzekM2TGE4cS1SNnktYV85X0JIckZHTDBLQnBBODkxV2kyNGxJZWhKT2s4S2JDUkhqdm1WMjlQYUdvRHZV?oc=5",
+          "source": "Google News",
+          "published": "Tue, 24 Nov 2026 22:22:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "명품복",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "스위스 스키에 프랑스 명품복 입은 김주애···미 국무부 “대북 반입 금지 사치품” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QN3MyOU1TMUMwQ01sZVNfYUJ0UGJ4NEFwUFZSalBzdTdfQURISi1pOXowdFI0a1NjSFkzejBOdldaWC1kV1YzX1VuMWc5Zy1sQlFRSjk5dzZVQdIBX0FVX3lxTFBvSWMzQ2JLMXZvRGJDNlR3cDgxNmdFMEg5eTIzekM2TGE4cS1SNnktYV85X0JIckZHTDBLQnBBODkxV2kyNGxJZWhKT2s4S2JDUkhqdm1WMjlQYUdvRHZV?oc=5",
+          "source": "Google News",
+          "published": "Tue, 24 Nov 2026 22:22:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "입은",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "스위스 스키에 프랑스 명품복 입은 김주애···미 국무부 “대북 반입 금지 사치품” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QN3MyOU1TMUMwQ01sZVNfYUJ0UGJ4NEFwUFZSalBzdTdfQURISi1pOXowdFI0a1NjSFkzejBOdldaWC1kV1YzX1VuMWc5Zy1sQlFRSjk5dzZVQdIBX0FVX3lxTFBvSWMzQ2JLMXZvRGJDNlR3cDgxNmdFMEg5eTIzekM2TGE4cS1SNnktYV85X0JIckZHTDBLQnBBODkxV2kyNGxJZWhKT2s4S2JDUkhqdm1WMjlQYUdvRHZV?oc=5",
+          "source": "Google News",
+          "published": "Tue, 24 Nov 2026 22:22:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "김주애미",
+      "count": 1,
+      "category": "NOUN",
+      "articles": [
+        {
+          "title": "스위스 스키에 프랑스 명품복 입은 김주애···미 국무부 “대북 반입 금지 사치품” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QN3MyOU1TMUMwQ01sZVNfYUJ0UGJ4NEFwUFZSalBzdTdfQURISi1pOXowdFI0a1NjSFkzejBOdldaWC1kV1YzX1VuMWc5Zy1sQlFRSjk5dzZVQdIBX0FVX3lxTFBvSWMzQ2JLMXZvRGJDNlR3cDgxNmdFMEg5eTIzekM2TGE4cS1SNnktYV85X0JIckZHTDBLQnBBODkxV2kyNGxJZWhKT2s4S2JDUkhqdm1WMjlQYUdvRHZV?oc=5",
+          "source": "Google News",
+          "published": "Tue, 24 Nov 2026 22:22:00 GMT"
+        }
+      ]
+    },
+    {
+      "word": "국무부",
       "count": 1,
       "category": "ORGANIZATION",
       "articles": [
         {
-          "title": "조희대 탄핵 사유엔 안 넣겠다면서도…여당 “한덕수 면죄부 판결” 여론몰이 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xYTlyTEdydnNJdGNPaVpBZkgxYU9oQjNITXZ0LThnN3lBaDBnUTE1eHJVRGVlRlhPYjNiTU1TWGVCdVVvSVVsUkR0SjM1RWNrQXc0MEc2ZEhjUdIBX0FVX3lxTE10bHp1V1h5MUx2cFhHTDJhQU1EeHg2S3NmMWlxQzk1RzAySGlFVV9wU0Q1QjlROENrcFRsejkxNzhIUktxRklDN0tYd1dZcXA4dkx1OEluUHJZSF9uNVVv?oc=5",
+          "title": "스위스 스키에 프랑스 명품복 입은 김주애···미 국무부 “대북 반입 금지 사치품” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QN3MyOU1TMUMwQ01sZVNfYUJ0UGJ4NEFwUFZSalBzdTdfQURISi1pOXowdFI0a1NjSFkzejBOdldaWC1kV1YzX1VuMWc5Zy1sQlFRSjk5dzZVQdIBX0FVX3lxTFBvSWMzQ2JLMXZvRGJDNlR3cDgxNmdFMEg5eTIzekM2TGE4cS1SNnktYV85X0JIckZHTDBLQnBBODkxV2kyNGxJZWhKT2s4S2JDUkhqdm1WMjlQYUdvRHZV?oc=5",
           "source": "Google News",
-          "published": "Tue, 24 Nov 2026 12:40:00 GMT"
+          "published": "Tue, 24 Nov 2026 22:22:00 GMT"
         }
       ]
     },
     {
-      "word": "한덕수",
+      "word": "대북",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "조희대 탄핵 사유엔 안 넣겠다면서도…여당 “한덕수 면죄부 판결” 여론몰이 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xYTlyTEdydnNJdGNPaVpBZkgxYU9oQjNITXZ0LThnN3lBaDBnUTE1eHJVRGVlRlhPYjNiTU1TWGVCdVVvSVVsUkR0SjM1RWNrQXc0MEc2ZEhjUdIBX0FVX3lxTE10bHp1V1h5MUx2cFhHTDJhQU1EeHg2S3NmMWlxQzk1RzAySGlFVV9wU0Q1QjlROENrcFRsejkxNzhIUktxRklDN0tYd1dZcXA4dkx1OEluUHJZSF9uNVVv?oc=5",
+          "title": "스위스 스키에 프랑스 명품복 입은 김주애···미 국무부 “대북 반입 금지 사치품” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QN3MyOU1TMUMwQ01sZVNfYUJ0UGJ4NEFwUFZSalBzdTdfQURISi1pOXowdFI0a1NjSFkzejBOdldaWC1kV1YzX1VuMWc5Zy1sQlFRSjk5dzZVQdIBX0FVX3lxTFBvSWMzQ2JLMXZvRGJDNlR3cDgxNmdFMEg5eTIzekM2TGE4cS1SNnktYV85X0JIckZHTDBLQnBBODkxV2kyNGxJZWhKT2s4S2JDUkhqdm1WMjlQYUdvRHZV?oc=5",
           "source": "Google News",
-          "published": "Tue, 24 Nov 2026 12:40:00 GMT"
+          "published": "Tue, 24 Nov 2026 22:22:00 GMT"
         }
       ]
     },
     {
-      "word": "면죄부",
-      "count": 1,
-      "category": "ORGANIZATION",
-      "articles": [
-        {
-          "title": "조희대 탄핵 사유엔 안 넣겠다면서도…여당 “한덕수 면죄부 판결” 여론몰이 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xYTlyTEdydnNJdGNPaVpBZkgxYU9oQjNITXZ0LThnN3lBaDBnUTE1eHJVRGVlRlhPYjNiTU1TWGVCdVVvSVVsUkR0SjM1RWNrQXc0MEc2ZEhjUdIBX0FVX3lxTE10bHp1V1h5MUx2cFhHTDJhQU1EeHg2S3NmMWlxQzk1RzAySGlFVV9wU0Q1QjlROENrcFRsejkxNzhIUktxRklDN0tYd1dZcXA4dkx1OEluUHJZSF9uNVVv?oc=5",
-          "source": "Google News",
-          "published": "Tue, 24 Nov 2026 12:40:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "판결",
+      "word": "반입",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "조희대 탄핵 사유엔 안 넣겠다면서도…여당 “한덕수 면죄부 판결” 여론몰이 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xYTlyTEdydnNJdGNPaVpBZkgxYU9oQjNITXZ0LThnN3lBaDBnUTE1eHJVRGVlRlhPYjNiTU1TWGVCdVVvSVVsUkR0SjM1RWNrQXc0MEc2ZEhjUdIBX0FVX3lxTE10bHp1V1h5MUx2cFhHTDJhQU1EeHg2S3NmMWlxQzk1RzAySGlFVV9wU0Q1QjlROENrcFRsejkxNzhIUktxRklDN0tYd1dZcXA4dkx1OEluUHJZSF9uNVVv?oc=5",
+          "title": "스위스 스키에 프랑스 명품복 입은 김주애···미 국무부 “대북 반입 금지 사치품” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QN3MyOU1TMUMwQ01sZVNfYUJ0UGJ4NEFwUFZSalBzdTdfQURISi1pOXowdFI0a1NjSFkzejBOdldaWC1kV1YzX1VuMWc5Zy1sQlFRSjk5dzZVQdIBX0FVX3lxTFBvSWMzQ2JLMXZvRGJDNlR3cDgxNmdFMEg5eTIzekM2TGE4cS1SNnktYV85X0JIckZHTDBLQnBBODkxV2kyNGxJZWhKT2s4S2JDUkhqdm1WMjlQYUdvRHZV?oc=5",
           "source": "Google News",
-          "published": "Tue, 24 Nov 2026 12:40:00 GMT"
+          "published": "Tue, 24 Nov 2026 22:22:00 GMT"
         }
       ]
     },
     {
-      "word": "여론몰",
+      "word": "금지",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "조희대 탄핵 사유엔 안 넣겠다면서도…여당 “한덕수 면죄부 판결” 여론몰이 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xYTlyTEdydnNJdGNPaVpBZkgxYU9oQjNITXZ0LThnN3lBaDBnUTE1eHJVRGVlRlhPYjNiTU1TWGVCdVVvSVVsUkR0SjM1RWNrQXc0MEc2ZEhjUdIBX0FVX3lxTE10bHp1V1h5MUx2cFhHTDJhQU1EeHg2S3NmMWlxQzk1RzAySGlFVV9wU0Q1QjlROENrcFRsejkxNzhIUktxRklDN0tYd1dZcXA4dkx1OEluUHJZSF9uNVVv?oc=5",
+          "title": "스위스 스키에 프랑스 명품복 입은 김주애···미 국무부 “대북 반입 금지 사치품” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QN3MyOU1TMUMwQ01sZVNfYUJ0UGJ4NEFwUFZSalBzdTdfQURISi1pOXowdFI0a1NjSFkzejBOdldaWC1kV1YzX1VuMWc5Zy1sQlFRSjk5dzZVQdIBX0FVX3lxTFBvSWMzQ2JLMXZvRGJDNlR3cDgxNmdFMEg5eTIzekM2TGE4cS1SNnktYV85X0JIckZHTDBLQnBBODkxV2kyNGxJZWhKT2s4S2JDUkhqdm1WMjlQYUdvRHZV?oc=5",
           "source": "Google News",
-          "published": "Tue, 24 Nov 2026 12:40:00 GMT"
+          "published": "Tue, 24 Nov 2026 22:22:00 GMT"
         }
       ]
     },
     {
-      "word": "겨울",
+      "word": "사치품",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "오늘은 겨울, 모레는 가을 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa043ajIxLWQ2R1d2UGl3bkdKTjJ6eXYyTXlnNG1xcEc3SHhUUms4OEtvTUMtVWJIVGsxUUVSN3ZIZjcwMThVR0lmNklYblVycjdxaEhLeF9ZbjBvVUJmYW5oSmI2aWt3bkZaWnBDZkhjZzNEY09yckNlYnNFSHBheWVaQXdTWDJvRWV0MVkzRm5YM0FxU3pR?oc=5",
+          "title": "스위스 스키에 프랑스 명품복 입은 김주애···미 국무부 “대북 반입 금지 사치품” - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QN3MyOU1TMUMwQ01sZVNfYUJ0UGJ4NEFwUFZSalBzdTdfQURISi1pOXowdFI0a1NjSFkzejBOdldaWC1kV1YzX1VuMWc5Zy1sQlFRSjk5dzZVQdIBX0FVX3lxTFBvSWMzQ2JLMXZvRGJDNlR3cDgxNmdFMEg5eTIzekM2TGE4cS1SNnktYV85X0JIckZHTDBLQnBBODkxV2kyNGxJZWhKT2s4S2JDUkhqdm1WMjlQYUdvRHZV?oc=5",
           "source": "Google News",
-          "published": "Tue, 24 Nov 2026 15:45:00 GMT"
+          "published": "Tue, 24 Nov 2026 22:22:00 GMT"
         }
       ]
     },
     {
-      "word": "모레",
+      "word": "강금실",
       "count": 1,
       "category": "NOUN",
       "articles": [
         {
-          "title": "오늘은 겨울, 모레는 가을 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa043ajIxLWQ2R1d2UGl3bkdKTjJ6eXYyTXlnNG1xcEc3SHhUUms4OEtvTUMtVWJIVGsxUUVSN3ZIZjcwMThVR0lmNklYblVycjdxaEhLeF9ZbjBvVUJmYW5oSmI2aWt3bkZaWnBDZkhjZzNEY09yckNlYnNFSHBheWVaQXdTWDJvRWV0MVkzRm5YM0FxU3pR?oc=5",
+          "title": "\"강금실? 대통령 생각을 모르겠다\" 與서도 국정원장 후보 지명 우려 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLVBXOFpQTTB1M1BzQW1HOXdqUUJrMlB4S1oxUXNVaUt4aTRFemlueXZjTTZrYng1WmUydUtBNWM4THVkNmJ6VVFLTmRqUGZOLU5sZlNWbzJtV2RRWkc5aVRnVXIzenJnRHY0TVlDTXVuMTlMUU1uUTJDcnI1NnBRVFB1ZjJPQQ?oc=5",
           "source": "Google News",
-          "published": "Tue, 24 Nov 2026 15:45:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "가을",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "오늘은 겨울, 모레는 가을 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa043ajIxLWQ2R1d2UGl3bkdKTjJ6eXYyTXlnNG1xcEc3SHhUUms4OEtvTUMtVWJIVGsxUUVSN3ZIZjcwMThVR0lmNklYblVycjdxaEhLeF9ZbjBvVUJmYW5oSmI2aWt3bkZaWnBDZkhjZzNEY09yckNlYnNFSHBheWVaQXdTWDJvRWV0MVkzRm5YM0FxU3pR?oc=5",
-          "source": "Google News",
-          "published": "Tue, 24 Nov 2026 15:45:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "단독리트",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[단독]‘리트 만점자’ 생명과학 과외 교사, 내일 경찰 참고인 조사 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hc201c2pNOWhqN2ZTN2ppYjhjaDJDZXNWamhUcUN2eXlULTNHNFRoRFdiR0hHTDBSQlAyVkxyU2ZIV3VpQnp2ZnJRS3BCVkVTSVBLczduOE9HZ9IBX0FVX3lxTFBtQnZCNG0xR3lsZzM0Z2ZqLWpjX3JwMjduRV9WM1N1bGVVX2J3NmtMMWtyVzlGSGRnWlhHS1ZYcWpSOEwyY1pKZ25iVU9zdmkwOV9Ma3FIU2lHRDFYUVZB?oc=5",
-          "source": "Google News",
-          "published": "Tue, 24 Nov 2026 14:56:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "만점자",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[단독]‘리트 만점자’ 생명과학 과외 교사, 내일 경찰 참고인 조사 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hc201c2pNOWhqN2ZTN2ppYjhjaDJDZXNWamhUcUN2eXlULTNHNFRoRFdiR0hHTDBSQlAyVkxyU2ZIV3VpQnp2ZnJRS3BCVkVTSVBLczduOE9HZ9IBX0FVX3lxTFBtQnZCNG0xR3lsZzM0Z2ZqLWpjX3JwMjduRV9WM1N1bGVVX2J3NmtMMWtyVzlGSGRnWlhHS1ZYcWpSOEwyY1pKZ25iVU9zdmkwOV9Ma3FIU2lHRDFYUVZB?oc=5",
-          "source": "Google News",
-          "published": "Tue, 24 Nov 2026 14:56:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "생명과학",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[단독]‘리트 만점자’ 생명과학 과외 교사, 내일 경찰 참고인 조사 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hc201c2pNOWhqN2ZTN2ppYjhjaDJDZXNWamhUcUN2eXlULTNHNFRoRFdiR0hHTDBSQlAyVkxyU2ZIV3VpQnp2ZnJRS3BCVkVTSVBLczduOE9HZ9IBX0FVX3lxTFBtQnZCNG0xR3lsZzM0Z2ZqLWpjX3JwMjduRV9WM1N1bGVVX2J3NmtMMWtyVzlGSGRnWlhHS1ZYcWpSOEwyY1pKZ25iVU9zdmkwOV9Ma3FIU2lHRDFYUVZB?oc=5",
-          "source": "Google News",
-          "published": "Tue, 24 Nov 2026 14:56:00 GMT"
-        }
-      ]
-    },
-    {
-      "word": "과외",
-      "count": 1,
-      "category": "NOUN",
-      "articles": [
-        {
-          "title": "[단독]‘리트 만점자’ 생명과학 과외 교사, 내일 경찰 참고인 조사 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hc201c2pNOWhqN2ZTN2ppYjhjaDJDZXNWamhUcUN2eXlULTNHNFRoRFdiR0hHTDBSQlAyVkxyU2ZIV3VpQnp2ZnJRS3BCVkVTSVBLczduOE9HZ9IBX0FVX3lxTFBtQnZCNG0xR3lsZzM0Z2ZqLWpjX3JwMjduRV9WM1N1bGVVX2J3NmtMMWtyVzlGSGRnWlhHS1ZYcWpSOEwyY1pKZ25iVU9zdmkwOV9Ma3FIU2lHRDFYUVZB?oc=5",
-          "source": "Google News",
-          "published": "Tue, 24 Nov 2026 14:56:00 GMT"
+          "published": "Tue, 24 Nov 2026 15:43:00 GMT"
         }
       ]
     }
